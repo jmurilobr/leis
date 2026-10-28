@@ -1,0 +1,48 @@
+---
+titulo: "PORTARIA Nº 110, DE 17 DE AGOSTO DE 2020"
+orgao: "Ministério da Cidadania/Secretaria Especial do Desenvolvimento Social/Secretaria Nacional de Assistência Social"
+tipo: "Portaria"
+numero: "110"
+data: 2020-08-17
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 18/08/2020, seção 1, p. 110"
+data_publicacao: 2020-08-18
+edicao: "158"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-110-de-17-de-agosto-de-2020-272746257"
+sha256_html_fonte: 29ab1961747df8d526e2dd49629fc82eb5d75d05125a4d0d92372fe730c9452c
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 110, DE 17 DE AGOSTO DE 2020
+
+PORTARIA Nº 110, DE 17 DE AGOSTO DE 2020
+
+Dispõe sobre as programações financeiras com fonte orçamentária própria executadas pelo Fundo Nacional de Assistência Social, no exercício financeiro de 2020, por meio do Sistema de Gestão de Transferências Voluntárias - SIGTV.
+
+A SECRETÁRIA NACIONAL DE ASSISTÊNCIA SOCIAL do Ministério da Cidadania, no uso das atribuições que lhe foram conferidas pelo Decreto nº 10.357, de 20 de maio de 2020, pela Portaria nº 115, de 20 de março de 2017, do então Ministério do Desenvolvimento Social, e na Portaria/MC n° 305, de 10 de março e 2020, e
+
+Considerando a Lei nº 13.898, de 11 de novembro de 2019 (LDO), que aprova as diretrizes para a elaboração e execução da Lei Orçamentária Anual de 2020 e dá outras providências;
+
+Considerando a Lei nº 13.978, de 17 de janeiro de 2020 (LOA), que estima a receita e fixa a despesa da União para o exercício financeiro de 2020;
+
+Considerando a Portaria Ministerial nº 2.601, de 6 de novembro de 2018, que dispõe sobre a utilização de recursos transferidos fundo a fundo pelo Ministério da Cidadania para o incremento temporário e a estruturação da rede no âmbito do Sistema Único de Assistência Social, resolve:
+
+**Art. 1º** Tornar públicas as programações financeiras com fonte orçamentária própria executadas pela Unidade Gestora nº 330013 - Fundo Nacional de Assistência Social, no exercício financeiro de 2020, por meio do Sistema de Gestão de Transferências Voluntárias - SIGTV.
+
+**Art. 2º** Fica habilitado o estado, município ou o Distrito Federal descrito no Anexo desta Portaria a receber recursos destinados:
+
+I - à estruturação da rede socioassistencial dos estados, municípios e do Distrito Federal, para fins de investimento; ou
+
+II - ao incremento temporário às transferências automáticas e regulares para fins de custeio.
+
+**Parágrafo único.** Os recursos de que trata esta Portaria serão transferidos na modalidade fundo a fundo.
+
+**Art. 3º** O Fundo Nacional de Assistência Social adotará as providências necessárias para as transferências de recursos estabelecidos nesta Portaria aos respectivos fundos de assistência social, em conformidade com os procedimentos e condições previstas para essa modalidade de transferência.
+
+**Art. 4º** Esta Minuta de Portaria entra em vigor na data de sua publicação.
+
+MARIANA DE SOUSA MACHADO NERIS
+
+## ANEXO I
+
+<table><tr></tr><tr><td rowspan="1" colspan="1"><p>UF</p></td><td rowspan="1" colspan="1"><p>ENTE FEDERADO</p></td><td rowspan="1" colspan="1"><p>ANO</p></td><td rowspan="1" colspan="1"><p>AÇÃO ORÇAMENTÁRIA</p></td><td rowspan="1" colspan="1"><p>PROGRAMAÇÃO</p></td><td rowspan="1" colspan="1"><p>VALOR</p></td><td rowspan="1" colspan="1"><p>GND</p></td><td rowspan="1" colspan="1"><p>PROCESSO</p></td></tr><tr><td rowspan="1" colspan="1"><p>AP</p></td><td rowspan="1" colspan="1"><p>AMAPA</p></td><td rowspan="1" colspan="1"><p>2020</p></td><td rowspan="1" colspan="1"><p>21C0</p></td><td rowspan="1" colspan="1"><p>160010520200001</p></td><td rowspan="1" colspan="1"><p>355.357,00</p></td><td rowspan="1" colspan="1"><p>3</p></td><td rowspan="1" colspan="1"><p>71000.041954/2020-72</p></td></tr><tr><td rowspan="1" colspan="1"><p>AP</p></td><td rowspan="1" colspan="1"><p>CALCOENE</p></td><td rowspan="1" colspan="1"><p>2020</p></td><td rowspan="1" colspan="1"><p>21C0</p></td><td rowspan="1" colspan="1"><p>160020420200001</p></td><td rowspan="1" colspan="1"><p>70.000,00</p></td><td rowspan="1" colspan="1"><p>3</p></td><td rowspan="1" colspan="1"><p>71000.041951/2020-39</p></td></tr><tr><td rowspan="1" colspan="1"><p>AP</p></td><td rowspan="1" colspan="1"><p>CALCOENE</p></td><td rowspan="1" colspan="1"><p>2020</p></td><td rowspan="1" colspan="1"><p>21C0</p></td><td rowspan="1" colspan="1"><p>160020420200002</p></td><td rowspan="1" colspan="1"><p>150.000,00</p></td><td rowspan="1" colspan="1"><p>3</p></td><td rowspan="1" colspan="1"><p>71000.041952/2020-83</p></td></tr><tr><td rowspan="1" colspan="1"><p>AP</p></td><td rowspan="1" colspan="1"><p>CALCOENE</p></td><td rowspan="1" colspan="1"><p>2020</p></td><td rowspan="1" colspan="1"><p>21C0</p></td><td rowspan="1" colspan="1"><p>160020420200003</p></td><td rowspan="1" colspan="1"><p>280.000,00</p></td><td rowspan="1" colspan="1"><p>3</p></td><td rowspan="1" colspan="1"><p>71000.041953/2020-28</p></td></tr><tr><td rowspan="1" colspan="1"><p>AP</p></td><td rowspan="1" colspan="1"><p>CUTIAS</p></td><td rowspan="1" colspan="1"><p>2020</p></td><td rowspan="1" colspan="1"><p>21C0</p></td><td rowspan="1" colspan="1"><p>160021220200001</p></td><td rowspan="1" colspan="1"><p>355.357,00</p></td><td rowspan="1" colspan="1"><p>3</p></td><td rowspan="1" colspan="1"><p>71000.041138/2020-69</p></td></tr><tr><td rowspan="1" colspan="1"><p>AP</p></td><td rowspan="1" colspan="1"><p>FERREIRA GOMES</p></td><td rowspan="1" colspan="1"><p>2020</p></td><td rowspan="1" colspan="1"><p>21C0</p></td><td rowspan="1" colspan="1"><p>160023820200001</p></td><td rowspan="1" colspan="1"><p>355.357,00</p></td><td rowspan="1" colspan="1"><p>3</p></td><td rowspan="1" colspan="1"><p>71000.043833/2020-65</p></td></tr><tr><td rowspan="1" colspan="1"><p>AP</p></td><td rowspan="1" colspan="1"><p>ITAUBAL</p></td><td rowspan="1" colspan="1"><p>2020</p></td><td rowspan="1" colspan="1"><p>21C0</p></td><td rowspan="1" colspan="1"><p>160025320200001</p></td><td rowspan="1" colspan="1"><p>355.357,00</p></td><td rowspan="1" colspan="1"><p>3</p></td><td rowspan="1" colspan="1"><p>71000.042076/2020-11</p></td></tr><tr><td rowspan="1" colspan="1"><p>AP</p></td><td rowspan="1" colspan="1"><p>LARANJAL DO JARI</p></td><td rowspan="1" colspan="1"><p>2020</p></td><td rowspan="1" colspan="1"><p>21C0</p></td><td rowspan="1" colspan="1"><p>160027920200006</p></td><td rowspan="1" colspan="1"><p>1.200.000,00</p></td><td rowspan="1" colspan="1"><p>3</p></td><td rowspan="1" colspan="1"><p>71000.041191/2020-60</p></td></tr><tr><td rowspan="1" colspan="1"><p>AP</p></td><td rowspan="1" colspan="1"><p>MAZAGAO</p></td><td rowspan="1" colspan="1"><p>2020</p></td><td rowspan="1" colspan="1"><p>21C0</p></td><td rowspan="1" colspan="1"><p>160040220200001</p></td><td rowspan="1" colspan="1"><p>800.000,00</p></td><td rowspan="1" colspan="1"><p>3</p></td><td rowspan="1" colspan="1"><p>71000.040629/2020-92</p></td></tr><tr><td rowspan="1" colspan="1"><p>AP</p></td><td rowspan="1" colspan="1"><p>OIAPOQUE</p></td><td rowspan="1" colspan="1"><p>2020</p></td><td rowspan="1" colspan="1"><p>21C0</p></td><td rowspan="1" colspan="1"><p>160050120200002</p></td><td rowspan="1" colspan="1"><p>800.000,00</p></td><td rowspan="1" colspan="1"><p>3</p></td><td rowspan="1" colspan="1"><p>71000.043503/2020-70</p></td></tr><tr><td rowspan="1" colspan="1"><p>AP</p></td><td rowspan="1" colspan="1"><p>PEDRA BRANCA DO AMAPARI</p></td><td rowspan="1" colspan="1"><p>2020</p></td><td rowspan="1" colspan="1"><p>21C0</p></td><td rowspan="1" colspan="1"><p>160015420200002</p></td><td rowspan="1" colspan="1"><p>500.000,00</p></td><td rowspan="1" colspan="1"><p>3</p></td><td rowspan="1" colspan="1"><p>71000.040627/2020-01</p></td></tr><tr><td rowspan="1" colspan="1"><p>AP</p></td><td rowspan="1" colspan="1"><p>PORTO GRANDE</p></td><td rowspan="1" colspan="1"><p>2020</p></td><td rowspan="1" colspan="1"><p>21C0</p></td><td rowspan="1" colspan="1"><p>160053520200001</p></td><td rowspan="1" colspan="1"><p>500.000,00</p></td><td rowspan="1" colspan="1"><p>3</p></td><td rowspan="1" colspan="1"><p>71000.040626/2020-59</p></td></tr><tr><td rowspan="1" colspan="1"><p>AP</p></td><td rowspan="1" colspan="1"><p>PRACUUBA</p></td><td rowspan="1" colspan="1"><p>2020</p></td><td rowspan="1" colspan="1"><p>21C0</p></td><td rowspan="1" colspan="1"><p>160055020200001</p></td><td rowspan="1" colspan="1"><p>355.357,00</p></td><td rowspan="1" colspan="1"><p>3</p></td><td rowspan="1" colspan="1"><p>71000.041133/2020-36</p></td></tr><tr><td rowspan="1" colspan="1"><p>AP</p></td><td rowspan="1" colspan="1"><p>SERRA DO NAVIO</p></td><td rowspan="1" colspan="1"><p>2020</p></td><td rowspan="1" colspan="1"><p>21C0</p></td><td rowspan="1" colspan="1"><p>160005520200002</p></td><td rowspan="1" colspan="1"><p>355.357,00</p></td><td rowspan="1" colspan="1"><p>3</p></td><td rowspan="1" colspan="1"><p>71000.043224/2020-14</p></td></tr><tr><td rowspan="1" colspan="1"><p>AP</p></td><td rowspan="1" colspan="1"><p>TARTARUGALZINHO</p></td><td rowspan="1" colspan="1"><p>2020</p></td><td rowspan="1" colspan="1"><p>21C0</p></td><td rowspan="1" colspan="1"><p>160070920200001</p></td><td rowspan="1" colspan="1"><p>500.000,00</p></td><td rowspan="1" colspan="1"><p>3</p></td><td rowspan="1" colspan="1"><p>71000.042808/2020-64</p></td></tr><tr><td rowspan="1" colspan="1"><p>AP</p></td><td rowspan="1" colspan="1"><p>VITORIA DO JARI</p></td><td rowspan="1" colspan="1"><p>2020</p></td><td rowspan="1" colspan="1"><p>21C0</p></td><td rowspan="1" colspan="1"><p>160080820200001</p></td><td rowspan="1" colspan="1"><p>500.000,00</p></td><td rowspan="1" colspan="1"><p>3</p></td><td rowspan="1" colspan="1"><p>71000.040625/2020-12</p></td></tr></table>

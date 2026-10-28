@@ -1,0 +1,742 @@
+{
+  "resumo": {
+    "retidos": 7,
+    "objetos_proprios_ausentes_na_transcricao": 3,
+    "duvidas_contextuais": 4
+  },
+  "registros": [
+    {
+      "path": "federal/decretos/1937/dec-1908-1937-08-23.md",
+      "urn": "urn:lex:br:federal:decreto:1937-08-23;1908",
+      "estado": "objeto_proprio_ausente_na_transcricao",
+      "motivo": "Art. 1º comanda correções das tabelas que acompanham o presente, decreto; a fonte tem só marcadores CLBR páginas 222 e 223 a 227, sem as tabelas.",
+      "sha256_MD_candidato_preliminar": "716e7f2966e3696fb894fefd2cfddeab5199260fbae7cc15eb28e22e6c404d9a",
+      "sha256_HTML": "6c72587b7551c067395044de72405d74f3038dbf6c76ff06bc578e1cea66d587",
+      "sha256_metadados": "4f4a16981c1c23da54727e2e53e8f66655b213cea4a39daf6a5d1e251d1e3ee1",
+      "fontes": {
+        "path": "federal/decretos/1937/dec-1908-1937-08-23.md",
+        "urn": "urn:lex:br:federal:decreto:1937-08-23;1908",
+        "indice": {
+          "id": "394635",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "1908",
+          "norma": "DEC-1908-1937-08-23",
+          "normaNome": "Decreto nº 1.908 de 23/08/1937",
+          "ementa": "CORRIGE FALHAS ENCONTRADAS NA CLASSIFICAÇÃO DE VARIOS FUNCIONARIOS DOS QUADROS I E II, DO MINISTERIO DA JUSTIÇA E NEGOCIOS INTERIORES, CONSTANTES DAS TABELAS ANEXAS A LEI 284, DE 28 DE OUTUBRO DE 1936.",
+          "dataassinatura": "23/08/1937",
+          "anoassinatura": "1937",
+          "apelido": "DEC-1908-1937-08-23"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1937-08-23;1908&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-28T00:04:32.759346+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/784937fa97e1c8193b3da8895fd46f525e60ce07936934c0ba2bafa3280e4c55.raw.gz",
+          "sha256_raw": "4f4a16981c1c23da54727e2e53e8f66655b213cea4a39daf6a5d1e251d1e3ee1",
+          "bytes": 2549
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/9c608dfb-beee-4823-bbf8-2401c7565ec1/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T00:04:34.639929+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/d04f9f1722320117de6e70eefa9e141ff1abd446421ac505d54c78729929bfab.raw.gz",
+          "sha256_raw": "6c72587b7551c067395044de72405d74f3038dbf6c76ff06bc578e1cea66d587",
+          "bytes": 8898
+        },
+        "encoding_escolhido": {
+          "datePublished": "1937-09-09",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/9c608dfb-beee-4823-bbf8-2401c7565ec1/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 1.908 de 23/08/1937]  [Diário Oficial da União  de 09/09/1937] (p. 43, col. 1)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1937-08-23;1908@1937-08-23~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "contexto": {
+        "path": "federal/decretos/1937/dec-1908-1937-08-23.md",
+        "urn": "urn:lex:br:federal:decreto:1937-08-23;1908",
+        "sha256_HTML": "6c72587b7551c067395044de72405d74f3038dbf6c76ff06bc578e1cea66d587",
+        "sha256_metadados": "4f4a16981c1c23da54727e2e53e8f66655b213cea4a39daf6a5d1e251d1e3ee1",
+        "sha256_MD_preliminar": "716e7f2966e3696fb894fefd2cfddeab5199260fbae7cc15eb28e22e6c404d9a",
+        "epigrafe": {
+          "numero": "1908",
+          "data": "1937-08-23",
+          "epigrafe": "DECRETO N. 1.908 – DE 23 DE AGÔSTO DE 1937"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/9c608dfb-beee-4823-bbf8-2401c7565ec1/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T00:04:34.639929+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/d04f9f1722320117de6e70eefa9e141ff1abd446421ac505d54c78729929bfab.raw.gz",
+          "sha256_raw": "6c72587b7551c067395044de72405d74f3038dbf6c76ff06bc578e1cea66d587",
+          "bytes": 8898
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 1.908 – DE 23 DE AGÔSTO DE 1937\n\nCorrige falhas encontradas na classificação de vários funcionários dos quadros I e III, do Ministério da Justiça e Negócios Interiores, constantes das tabelas anexas à lei n. 284, de 28 de outubro de 1936\n\nO Presidente da Republica dos Estados Unidos do Brasil, usando das atribuições que lhe são conferidas pelo art. 56, n. 1, da Constituição Federal, e atendendo à proposta feita pelo Conselho Federal do Serviço Público Civil, com fundamento no art. 2º, parágrafo único, do capitulo VI da lei n. 284, de 28 de outubro de 1936, e, ainda,\n\nConsiderando que as alterações propostas pelo C. F. S. P. C. visam corrigir falhas na classificação de funcionários das carreiras do “almoxarife”, “Estatístico” e “Motorista”, do quadro I do Ministério da Justiça e Negócios Interiores, e das carreiras de “Alceador” e “Expedidor”, do quadro III do mesmo ministério;\n\n&lt;&lt;ANEXO>>CLBR Vol. 02 Ano 1937 Pág. 222 Tabela.\n\nConsiderando que as referidas retificações estão perfeitamente de acordo com o plano que presidiu a elaboração da lei de reajustamento dos quadros e vencimentos do funcionalismo civil federal,\n\nDecreta:",
+        "primeiro_bloco_de_artigo": "**Art. 1º** As tabelas dos quadros I e III do Ministério da Justiça e Negócios Interiores, anexas à lei n. 284, de 28 de outubro de 1936, relativas às carreiras de “Almoxarife”, “Estatístico” e “Motorista” (quadro I) e “Alceador” e \"Expedidor” (quadro III), vigorarão, a partir do corrente exercício, com as correções constantes das que acompanham o presente, decreto.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 23 DE AGOSTO DE 1937",
+          "data": "1937-08-23",
+          "bloco_literal": "Rio de Janeiro, 23 de agosto de 1937, 116º da Independência e 49º da República."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "ocorrencias_contextuais": [
+          {
+            "bloco_indice": 4,
+            "bloco_literal_integral": "&lt;&lt;ANEXO>>CLBR Vol. 02 Ano 1937 Pág. 222 Tabela."
+          },
+          {
+            "bloco_indice": 12,
+            "bloco_literal_integral": "&lt;&lt;ANEXO>>CLBR Vol. 02 Ano 1937 Pág. 223 a 227 Tabelas.\n"
+          }
+        ]
+      },
+      "limites": "Ausência ou dúvida na transcrição consultada; não afirma inexistência do ato ou de fonte completa alternativa. Nenhum canônico ou guard alterado."
+    },
+    {
+      "path": "federal/decretos/1937/dec-1792-1937-07-09.md",
+      "urn": "urn:lex:br:federal:decreto:1937-07-09;1792",
+      "estado": "objeto_proprio_ausente_na_transcricao",
+      "motivo": "Aprova estatutos que a este decreto acompanham; só reproduz a redação específica do art. 25 e parágrafos, sem o restante dos estatutos.",
+      "sha256_MD_candidato_preliminar": "770649bdc31bd77d64438c8c530ac751a422f9cced525ae5a20b6731f22cfd5c",
+      "sha256_HTML": "98af3dd6ed62ec08b10696e8dd09a49e13dd3b42d608054e3b08bc7724483cbf",
+      "sha256_metadados": "d1f03a9118005e9a132d8081a7bf8d693dae4807c390d333335cb9f71e997a5b",
+      "fontes": {
+        "path": "federal/decretos/1937/dec-1792-1937-07-09.md",
+        "urn": "urn:lex:br:federal:decreto:1937-07-09;1792",
+        "indice": {
+          "id": "394174",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "1792",
+          "norma": "DEC-1792-1937-07-09",
+          "normaNome": "Decreto nº 1.792 de 09/07/1937",
+          "ementa": "APROVA OS ESTATUTOS DO CREDIARIO DOS FUNCIONARIOS PUBLICOS E CONCEDE-LHE AUTORIZAÇÃO PARA OPERAR COM SEUS ASSOCIADOS, MEDIANTE CONSIGNAÇÃO EM FOLHA DE PAGAMENTO.",
+          "dataassinatura": "09/07/1937",
+          "anoassinatura": "1937",
+          "apelido": "DEC-1792-1937-07-09"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1937-07-09;1792&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-28T00:06:27.274181+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/e69fcaec3a634761547fb45b40ebfca385fab6e772b5df3c1e687989c9cef989.raw.gz",
+          "sha256_raw": "d1f03a9118005e9a132d8081a7bf8d693dae4807c390d333335cb9f71e997a5b",
+          "bytes": 2403
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/0283c050-373d-417e-9b48-d414c956f772/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T00:06:29.155261+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/d69621576f292f748198f618013624850fb53f48fe2f85a11801aa28fc88e41e.raw.gz",
+          "sha256_raw": "98af3dd6ed62ec08b10696e8dd09a49e13dd3b42d608054e3b08bc7724483cbf",
+          "bytes": 8355
+        },
+        "encoding_escolhido": {
+          "datePublished": "1937-07-15",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/0283c050-373d-417e-9b48-d414c956f772/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 1.792 de 09/07/1937]  [Diário Oficial da União  de 15/07/1937] (p. 15166, col. 2)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1937-07-09;1792@1937-07-09~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "contexto": {
+        "path": "federal/decretos/1937/dec-1792-1937-07-09.md",
+        "urn": "urn:lex:br:federal:decreto:1937-07-09;1792",
+        "sha256_HTML": "98af3dd6ed62ec08b10696e8dd09a49e13dd3b42d608054e3b08bc7724483cbf",
+        "sha256_metadados": "d1f03a9118005e9a132d8081a7bf8d693dae4807c390d333335cb9f71e997a5b",
+        "sha256_MD_preliminar": "770649bdc31bd77d64438c8c530ac751a422f9cced525ae5a20b6731f22cfd5c",
+        "epigrafe": {
+          "numero": "1792",
+          "data": "1937-07-09",
+          "epigrafe": "DECRETO N. 1.792 – DE 9 DE JULHO DE 1937"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/0283c050-373d-417e-9b48-d414c956f772/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T00:06:29.155261+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/d69621576f292f748198f618013624850fb53f48fe2f85a11801aa28fc88e41e.raw.gz",
+          "sha256_raw": "98af3dd6ed62ec08b10696e8dd09a49e13dd3b42d608054e3b08bc7724483cbf",
+          "bytes": 8355
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 1.792 – DE 9 DE JULHO DE 1937\n\nAprova os estatutos do Crediário dos Funcionários Públicos e concede-lhe autorização para operar com os seus associados, rnediante consignação em folha de pagamento.\n\nO Presidente da República dos Estados Unidos do Brasil, atendendo ao que requereu o Crediário dos Funcionários Públicos, associação de classe, com séde no Distrito Federal, resolve aprovar os seus estatutos, que a êste decreto acompanham e, bem assim, autorizar a mesma associação a operar com os seus associados, mediante consignação em folha de pagamento, na conformidade do decreto n. 21.576, de 27 de junho de 1932, devendo o art. 25 e seus parágrafos, dos referidos estatutos, ser assim redigidos :",
+        "primeiro_bloco_de_artigo": "**Art. 25.** A. assembléa geral ordinária será realizada na primeira convocação com a presença da maioria dos sócios quites como preceitua o art. 22 in-fine.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 9 DE JULHO DE 1937",
+          "data": "1937-07-09",
+          "bloco_literal": "Rio de Janeiro, 9 de julho de 1937, 116º da Independência e 49º da República."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "ocorrencias_contextuais": []
+      },
+      "limites": "Ausência ou dúvida na transcrição consultada; não afirma inexistência do ato ou de fonte completa alternativa. Nenhum canônico ou guard alterado."
+    },
+    {
+      "path": "federal/decretos/1937/dec-1594-1937-04-29.md",
+      "urn": "urn:lex:br:federal:decreto:1937-04-29;1594",
+      "estado": "duvida_contextual_reter",
+      "motivo": "Ementa e reprodução referem art. 62; comando literal cita art. 68. Divergência normativa interna mantida literalmente, sem escolher por suposição.",
+      "sha256_MD_candidato_preliminar": "65f7e69df344cb0769410b2a58a9b3c153cdccecc44febb22da390aa9590274c",
+      "sha256_HTML": "6de677b46b744f97a59d89db7681f19aea71680d34891b0f7a66026972fda81a",
+      "sha256_metadados": "27f93d008e07b575054e21040cd8590229604743b2b4a4440e01c5cc7b331408",
+      "fontes": {
+        "path": "federal/decretos/1937/dec-1594-1937-04-29.md",
+        "urn": "urn:lex:br:federal:decreto:1937-04-29;1594",
+        "indice": {
+          "id": "393379",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "1594",
+          "norma": "DEC-1594-1937-04-29",
+          "normaNome": "Decreto nº 1.594 de 29/04/1937",
+          "ementa": "DA NOVA REDAÇÃO AO ARTIGO 62 E SEUS PARAGRAFOS DO REGULAMENTO PARA AS ESCOLAS DE APRENDIZES MARINHEIROS MANDADO EXECUTAR PELO DECRETO 22.400, DE 26 DE JANEIRO DE 1933.",
+          "dataassinatura": "29/04/1937",
+          "anoassinatura": "1937",
+          "apelido": "DEC-1594-1937-04-29"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1937-04-29;1594&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-28T00:09:39.271972+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/e5c72566e195349b55932b47c21231dd5832bc92041926a6e638535bdb2ca412.raw.gz",
+          "sha256_raw": "27f93d008e07b575054e21040cd8590229604743b2b4a4440e01c5cc7b331408",
+          "bytes": 2391
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/0bd97470-b6d4-40b8-ad50-6a08f2430e13/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T00:09:41.165637+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/67c37ffe68f56ed2b3881e9a7722a96c4cd0ab719392c082a2c44682d2a48b1e.raw.gz",
+          "sha256_raw": "6de677b46b744f97a59d89db7681f19aea71680d34891b0f7a66026972fda81a",
+          "bytes": 7907
+        },
+        "encoding_escolhido": {
+          "datePublished": "1937-05-06",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/0bd97470-b6d4-40b8-ad50-6a08f2430e13/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 1.594 de 29/04/1937]  [Diário Oficial da União  de 06/05/1937] (p. 9814, col. 2)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1937-04-29;1594@1937-04-29~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "contexto": {
+        "path": "federal/decretos/1937/dec-1594-1937-04-29.md",
+        "urn": "urn:lex:br:federal:decreto:1937-04-29;1594",
+        "sha256_HTML": "6de677b46b744f97a59d89db7681f19aea71680d34891b0f7a66026972fda81a",
+        "sha256_metadados": "27f93d008e07b575054e21040cd8590229604743b2b4a4440e01c5cc7b331408",
+        "sha256_MD_preliminar": "65f7e69df344cb0769410b2a58a9b3c153cdccecc44febb22da390aa9590274c",
+        "epigrafe": {
+          "numero": "1594",
+          "data": "1937-04-29",
+          "epigrafe": "DECRETO N. 1.594 – DE 29 DE ABRIL DE 1937"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/0bd97470-b6d4-40b8-ad50-6a08f2430e13/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T00:09:41.165637+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/67c37ffe68f56ed2b3881e9a7722a96c4cd0ab719392c082a2c44682d2a48b1e.raw.gz",
+          "sha256_raw": "6de677b46b744f97a59d89db7681f19aea71680d34891b0f7a66026972fda81a",
+          "bytes": 7907
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 1.594 – DE 29 DE ABRIL DE 1937\n\nDá nova redação ao artigo 62 e seus parágrafos do regulamento para as Escolas de Aprendizes Marinheiros, mandado executar pelo decreto n. 22.400, de 26 de janeiro de 1933.\n\nO Presidente da República dos Estados Unidos do Brasil :\n\nAtendendo ao que lhe expoz o ministro de Estado dos Negócios da Marinha, e usando das atribuições que lhe confere o decreto nº 29.682, de 12 de julho de 1934;\n\nResolve dar nova redação ao art. 68 e seus parágrafos do Regulamento para as Escolas de Aprendizes Marinheiros, mandado executar pelo decreto nº 22.400, de 26 de janeiro de 1933, a qual passará a ser a seguinte :",
+        "primeiro_bloco_de_artigo": "**Art. 62** – O mais distinto dentre todos os aprendizes das várias Escolas que tenha conseguido aproveitamento bom ou ótimo em todas as matérias do curso, será promovido a cabo no fim de dois (2) anos, contados a partir do assentamento de praça do Corpo de Marinheiros, desde que tenha sido aprovado no Curso de Especialização.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, EM 29 DE ABRIL DE 1937",
+          "data": "1937-04-29",
+          "bloco_literal": "Rio de Janeiro, em 29 de abril de 1937; 116º da Independência e 49º da República."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "ocorrencias_contextuais": []
+      },
+      "limites": "Ausência ou dúvida na transcrição consultada; não afirma inexistência do ato ou de fonte completa alternativa. Nenhum canônico ou guard alterado."
+    },
+    {
+      "path": "federal/decretos/1936/dec-1041-1936-08-20.md",
+      "urn": "urn:lex:br:federal:decreto:1936-08-20;1041",
+      "estado": "duvida_contextual_reter",
+      "motivo": "Relação textual do pessoal tem linha mensageiros de 1 classe sem quantidade visível; não certificar célula normativa ausente nem completar por soma.",
+      "sha256_MD_candidato_preliminar": "4997957e45b9f16d52533d51d567583203eb1dacef90836ee7da56d3bf10822b",
+      "sha256_HTML": "779f4a3c803935a0f59f99483ba5a935354ad072a42ea70c4c1a00d88b7c3b98",
+      "sha256_metadados": "d75a15c8dc775e528b742b099f87eb461b5a3218bcdd974d1b49435341840b59",
+      "fontes": {
+        "path": "federal/decretos/1936/dec-1041-1936-08-20.md",
+        "urn": "urn:lex:br:federal:decreto:1936-08-20;1041",
+        "indice": {
+          "id": "390729",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "1041",
+          "norma": "DEC-1041-1936-08-20",
+          "normaNome": "Decreto nº 1.041 de 20/08/1936",
+          "ementa": "APROVA A RELAÇÃO DO PESSOAL CONTRATADO PARA ESTUDOS GEOLÓGICOS E PESQUISAS DE PETRÓLEO NO TERRITÓRIO DO ACRE E ESTADO DO AMAZONAS.",
+          "dataassinatura": "20/08/1936",
+          "anoassinatura": "1936",
+          "apelido": "DEC-1041-1936-08-20"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1936-08-20;1041&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-28T00:18:35.754176+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/df71a9c453fd25c56fc4fdc7a772ea02efb363e76bc48cbb521939f90f2d31f4.raw.gz",
+          "sha256_raw": "d75a15c8dc775e528b742b099f87eb461b5a3218bcdd974d1b49435341840b59",
+          "bytes": 2510
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/925b2930-184b-4a97-874f-81f998936707/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T00:18:37.645029+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/6f41e19fbcb16301bbb6381245d8e549db0b39ec2cd60056b8f3b9596a2217a5.raw.gz",
+          "sha256_raw": "779f4a3c803935a0f59f99483ba5a935354ad072a42ea70c4c1a00d88b7c3b98",
+          "bytes": 16481
+        },
+        "encoding_escolhido": {
+          "datePublished": "1936-12-31",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/925b2930-184b-4a97-874f-81f998936707/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 1.041 de 20/08/1936]  [Coleção de Leis do Brasil  de 31/12/1936 - vol.  002] (p. 653, col. 1)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1936-08-20;1041@1936-08-20~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "contexto": {
+        "path": "federal/decretos/1936/dec-1041-1936-08-20.md",
+        "urn": "urn:lex:br:federal:decreto:1936-08-20;1041",
+        "sha256_HTML": "779f4a3c803935a0f59f99483ba5a935354ad072a42ea70c4c1a00d88b7c3b98",
+        "sha256_metadados": "d75a15c8dc775e528b742b099f87eb461b5a3218bcdd974d1b49435341840b59",
+        "sha256_MD_preliminar": "4997957e45b9f16d52533d51d567583203eb1dacef90836ee7da56d3bf10822b",
+        "epigrafe": {
+          "numero": "1041",
+          "data": "1936-08-20",
+          "epigrafe": "DECRETO N. 1.041 – DE 20 DE AGOSTO DE 1936"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/925b2930-184b-4a97-874f-81f998936707/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T00:18:37.645029+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/6f41e19fbcb16301bbb6381245d8e549db0b39ec2cd60056b8f3b9596a2217a5.raw.gz",
+          "sha256_raw": "779f4a3c803935a0f59f99483ba5a935354ad072a42ea70c4c1a00d88b7c3b98",
+          "bytes": 16481
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 1.041 – DE 20 DE AGOSTO DE 1936\n\nApprova a relação do pessoal contractado para estudos geologicos e pesquizas de petroleo no Territorio do Acre e Estado do Amazonas\n\nO Presidente da Republica dos Estados Unidos do Brasil, usando da autorização constante do art. 7º da lei n. 183, de 13 de janeiro do corrente anno, e\n\nConsiderando que, pelo decreto n. 872, de 1 de junho de 1936, foram estabelecidas a classificação e remuneração do pessoal contractado para os differentes serviços da administração federal;\n\nConsiderando que todo o pessoal contractado existente na data do citado decreto deveria ser distribuído de accôrdo com as relações que o mesmo acompanharam ;\n\nConsiderando que entre as turmas do pessoal contractado do Serviço de Fomento da Producção Mineral do respectivo Departamento do Ministerio da Agricultura já existia naquella data a de estudos geologicos para pesquizas de petroleo no Territorio do Acre e Estado do Amazonas, cujos trabalhos tiveram início em 1 de abril do corrente anno;\n\nConsiderando que por omissão deixou essa turma de ser incluída entre as relações anexas ao decreto n. 872, de 1 de junho de 1936,\n\nResolve :",
+        "primeiro_bloco_de_artigo": "**Art. 1º** Fica approvada, a partir de 1 de abril do corrente anno, a turma de pessoal contractado para estudos geologicos e pesquizas de petroleo no Territorio do Acre e Estado do Amazonas, de accôrdo com a relação annexa e prorogados até 31 de dezembro de 1936, os contractos do respectivo pessoal.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 20 DE AGOSTO DE 1936",
+          "data": "1936-08-20",
+          "bloco_literal": "Rio de Janeiro, 20 de agosto de 1936, 115º da lndependencia e 48º de Republica."
+        },
+        "limite_documento_incorporado": {
+          "bloco_literal": "Relação a que se refere o decreto n. 1.041, desta data",
+          "cabecalho_normalizado": "RELACAO A QUE SE REFERE O DECRETO N. 1.041, DESTA DATA",
+          "artigo_principal_visto": true
+        },
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "ocorrencias_contextuais": []
+      },
+      "limites": "Ausência ou dúvida na transcrição consultada; não afirma inexistência do ato ou de fonte completa alternativa. Nenhum canônico ou guard alterado."
+    },
+    {
+      "path": "federal/decretos/1937/dec-1749-1937-06-28.md",
+      "urn": "urn:lex:br:federal:decreto:1937-06-28;1749",
+      "estado": "duvida_contextual_reter",
+      "motivo": "Regulamento art. 16 § 2º: prazo superior a meses, sem quantidade visível. Não preencher por suposição.",
+      "sha256_MD_candidato_preliminar": "cf312eaca72c3e55572ac12fd2f949509d4e75ae9ec349f41e25dc2710edc084",
+      "sha256_HTML": "939e880a07b95909d273596094c5cf5e9ade2a91e8e2817578c6d7f4fe7f8f54",
+      "sha256_metadados": "32e945a1a84d5cb9c2afbdd65a1fad3f555844dbde4288b940bc5c05ecf51db1",
+      "fontes": {
+        "path": "federal/decretos/1937/dec-1749-1937-06-28.md",
+        "urn": "urn:lex:br:federal:decreto:1937-06-28;1749",
+        "indice": {
+          "id": "394002",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "1749",
+          "norma": "DEC-1749-1937-06-28",
+          "normaNome": "Decreto nº 1.749 de 28/06/1937",
+          "ementa": "APROVA NOVO REGULAMENTO PARA A AQUISIÇÃO DE PREDIOS DESTINADOS A MORADIA DOS ASSOCIADOS E A SEDE DOS INSTITUTOS E CAIXAS DE APOSENTADORIA E PENSÕES.",
+          "dataassinatura": "28/06/1937",
+          "anoassinatura": "1937",
+          "apelido": "DEC-1749-1937-06-28"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1937-06-28;1749&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-28T00:07:07.800737+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/14da68bcb76b86bdaaf1248986076c80a0bbe87bad483e9db17e5bc643d8be63.raw.gz",
+          "sha256_raw": "32e945a1a84d5cb9c2afbdd65a1fad3f555844dbde4288b940bc5c05ecf51db1",
+          "bytes": 2230
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/e777da76-703a-4ec1-a2c3-c8c877eb4c68/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T00:07:09.642139+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/ec63e506e66445d111c4b9f14dfe06dd3a494dc85edc0d89b1541e5317ef1edc.raw.gz",
+          "sha256_raw": "939e880a07b95909d273596094c5cf5e9ade2a91e8e2817578c6d7f4fe7f8f54",
+          "bytes": 30652
+        },
+        "encoding_escolhido": {
+          "datePublished": "1937-07-02",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/e777da76-703a-4ec1-a2c3-c8c877eb4c68/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 1.749 de 28/06/1937]  [Diário Oficial da União  de 02/07/1937] (p. 14287, col. 1)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1937-06-28;1749@1937-06-28~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "contexto": {
+        "path": "federal/decretos/1937/dec-1749-1937-06-28.md",
+        "urn": "urn:lex:br:federal:decreto:1937-06-28;1749",
+        "sha256_HTML": "939e880a07b95909d273596094c5cf5e9ade2a91e8e2817578c6d7f4fe7f8f54",
+        "sha256_metadados": "32e945a1a84d5cb9c2afbdd65a1fad3f555844dbde4288b940bc5c05ecf51db1",
+        "sha256_MD_preliminar": "cf312eaca72c3e55572ac12fd2f949509d4e75ae9ec349f41e25dc2710edc084",
+        "epigrafe": {
+          "numero": "1749",
+          "data": "1937-06-28",
+          "epigrafe": "DECRETO N. 1.749 – DE 28 DE JUNHO DE 1937"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/e777da76-703a-4ec1-a2c3-c8c877eb4c68/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T00:07:09.642139+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/ec63e506e66445d111c4b9f14dfe06dd3a494dc85edc0d89b1541e5317ef1edc.raw.gz",
+          "sha256_raw": "939e880a07b95909d273596094c5cf5e9ade2a91e8e2817578c6d7f4fe7f8f54",
+          "bytes": 30652
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 1.749 – DE 28 DE JUNHO DE 1937\n\nAprova novo regulamento para a aquisição de prédios destinados a moradia dos associados e a séde dos Institutos, e Caixas de Aposentadorias e Pensões\n\nO Presidente da República, atendendo ao que lhe expôs o ministro de Estado dos Negócios do Trabalho, Indústria e Comércio, e usando da atribuição que lhe confere o art. 56, inciso 1º, da Constituição, resolve :",
+        "primeiro_bloco_de_artigo": "**Art. 1º.** Fica aprovado o novo regulamento, que a êste acompanha, assinado pelo ministro de Estado dos Negócios do Trabalho, Indústria e Comércio, para a aquisição de prédios destinados a moradia dos associados dos Institutos e Caixas de Aposentadoria e Pensões subordinados ao Conselho Nacional do Trabalho e a sede das mesmas associações",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 28 DE JUNHO DE 1937",
+          "data": "1937-06-28",
+          "bloco_literal": "Rio de Janeiro, 28 de junho de 1937; 116º da Independência e 49º da República."
+        },
+        "limite_documento_incorporado": {
+          "bloco_literal": "REGULAMENTO A QUE SE REFERE O DECRETO N. 1.749, DE 28 DE JUNHO DE 1937",
+          "cabecalho_normalizado": "REGULAMENTO A QUE SE REFERE O DECRETO N. 1.749, DE 28 DE JUNHO DE 1937",
+          "artigo_principal_visto": true
+        },
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "ocorrencias_contextuais": []
+      },
+      "limites": "Ausência ou dúvida na transcrição consultada; não afirma inexistência do ato ou de fonte completa alternativa. Nenhum canônico ou guard alterado."
+    },
+    {
+      "path": "federal/decretos/1938/dec-2275-1938-01-26.md",
+      "urn": "urn:lex:br:federal:decreto:1938-01-26;2275",
+      "estado": "objeto_proprio_ausente_na_transcricao",
+      "motivo": "Aprova estatutos que a este decreto acompanham; só reproduz os arts. 10 e 82 modificados, sem os estatutos completos.",
+      "sha256_MD_candidato_preliminar": "815200bdb4fc4fc8a2ebb14148d4ce4fc50d3163a3a0d03bbf1e1e2aaf649bf5",
+      "sha256_HTML": "0c5eb1b846e05726ff3af21a094210675c5ea414c53a95378699cb7012a3af3f",
+      "sha256_metadados": "bb6f6f85b7d9b06fd29971d10202b5709b2398c465742e3aa3d32aee0d8e8243",
+      "fontes": {
+        "path": "federal/decretos/1938/dec-2275-1938-01-26.md",
+        "urn": "urn:lex:br:federal:decreto:1938-01-26;2275",
+        "indice": {
+          "id": "396144",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "2275",
+          "norma": "DEC-2275-1938-01-26",
+          "normaNome": "Decreto nº 2.275 de 26/01/1938",
+          "ementa": "AUTORIZA OS ESTATUTOS DO CLUBE TELEGRAFICO DO BRASIL - SEÇÃO DA BAIA E CONCEDE-LHE AUTORIZAÇÃO PARA TRANSIGIR COM SEUS ASSOCIADOS MEDIANTE CONSIGNAÇÃO EM FOLHA DE PAGAMENTO.",
+          "dataassinatura": "26/01/1938",
+          "anoassinatura": "1938",
+          "apelido": "DEC-2275-1938-01-26"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1938-01-26;2275&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-27T23:58:36.254837+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/45208d7c2c7f6a3cfe65822364887fc2c2eb75daffd039656e1a371efe00a568.raw.gz",
+          "sha256_raw": "bb6f6f85b7d9b06fd29971d10202b5709b2398c465742e3aa3d32aee0d8e8243",
+          "bytes": 2322
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/50573d58-760e-4ada-830f-e91bcd075450/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-27T23:58:38.129422+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/0009808f5607ac5cee27df9b3aff5e37ea70824148df025febcc68b865308b84.raw.gz",
+          "sha256_raw": "0c5eb1b846e05726ff3af21a094210675c5ea414c53a95378699cb7012a3af3f",
+          "bytes": 7942
+        },
+        "encoding_escolhido": {
+          "datePublished": "1938-12-31",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/50573d58-760e-4ada-830f-e91bcd075450/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 2.275 de 26/01/1938]  [Coleção de Leis do Brasil  de 31/12/1938 - vol.  001] (p. 38, col. 1)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1938-01-26;2275@1938-01-26~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "contexto": {
+        "path": "federal/decretos/1938/dec-2275-1938-01-26.md",
+        "urn": "urn:lex:br:federal:decreto:1938-01-26;2275",
+        "sha256_HTML": "0c5eb1b846e05726ff3af21a094210675c5ea414c53a95378699cb7012a3af3f",
+        "sha256_metadados": "bb6f6f85b7d9b06fd29971d10202b5709b2398c465742e3aa3d32aee0d8e8243",
+        "sha256_MD_preliminar": "815200bdb4fc4fc8a2ebb14148d4ce4fc50d3163a3a0d03bbf1e1e2aaf649bf5",
+        "epigrafe": {
+          "numero": "2275",
+          "data": "1938-01-26",
+          "epigrafe": "DECRETO N. 2.275 – DE 26 DE JANEIRO DE 1938"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/50573d58-760e-4ada-830f-e91bcd075450/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-27T23:58:38.129422+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/0009808f5607ac5cee27df9b3aff5e37ea70824148df025febcc68b865308b84.raw.gz",
+          "sha256_raw": "0c5eb1b846e05726ff3af21a094210675c5ea414c53a95378699cb7012a3af3f",
+          "bytes": 7942
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 2.275 – DE 26 DE JANEIRO DE 1938\n\nAprova os estatutos do Clube Telegráfico do Brasil – Secção da Baía e concede-lhe autorização para transigir com os seus associados mediante consignação em fôlha de pagamento\n\nO Presidente da República, atendendo ao que requereu o Clube Telegráfico do Brasil – Secção da Baía – associação de classe com sede na Capital do Estado da Baía, resolve aprovar os seus estatutos, que a este decreto acompanham, e, bem assim autorizar a mesma associação a operar com os seus associados, mediante consignação em fôlha de pagamento, de conformidade com o decreto n. 21.576, d 27 de junho de 1932, devendo, porém, ter a seguinte redação os artigos 10 e 82 dos referidos estatutos:",
+        "primeiro_bloco_de_artigo": "**Art. 10.** Podem fazer parte do quadro social as pessôas de família dos sócios.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 26 DE JANEIRO DE 1938",
+          "data": "1938-01-26",
+          "bloco_literal": "Rio de Janeiro, 26 de janeiro de 1938, 117º da Independência e 50º da República."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "ocorrencias_contextuais": []
+      },
+      "limites": "Ausência ou dúvida na transcrição consultada; não afirma inexistência do ato ou de fonte completa alternativa. Nenhum canônico ou guard alterado."
+    },
+    {
+      "path": "federal/decretos/1938/dec-2738-1938-06-09.md",
+      "urn": "urn:lex:br:federal:decreto:1938-06-09;2738",
+      "estado": "duvida_contextual_reter",
+      "motivo": "Documento estrangeiro incorporado contém assinatura ilegivel em carimbo. Retido para contextualização específica, sem afirmar ausência de regra normativa nem defeito causado pela conversão.",
+      "sha256_MD_candidato_preliminar": "be29e2b8ba5734008fe8f1c269a6880704d1b18b8ca28153cefc6f631a8c4bf7",
+      "sha256_HTML": "51e721a8ebd7101ef070aa025b1a5e73e0ab8b5ba553ed0ec35c421711ed0608",
+      "sha256_metadados": "fbe03e089c9227cf42cd6716b65dcb26df9ac893aab350793437255cd3591d51",
+      "fontes": {
+        "path": "federal/decretos/1938/dec-2738-1938-06-09.md",
+        "urn": "urn:lex:br:federal:decreto:1938-06-09;2738",
+        "indice": {
+          "id": "397987",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "2738",
+          "norma": "DEC-2738-1938-06-09",
+          "normaNome": "Decreto nº 2.738 de 09/06/1938",
+          "ementa": "CONCEDE Á SOCIÉTÉ DE SUCRERIES BRÈSILIENNES AUTORIZAÇÃO PARA CONTINUAR A FUNCIONAR NA REPÚBLICA.",
+          "dataassinatura": "09/06/1938",
+          "anoassinatura": "1938",
+          "apelido": "DEC-2738-1938-06-09"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1938-06-09;2738&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-27T23:51:03.770097+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/8cfc4988c02c8efc3f408901e3b12ce4aa63f56fd62d26c38c4fa5dab98fa3c3.raw.gz",
+          "sha256_raw": "fbe03e089c9227cf42cd6716b65dcb26df9ac893aab350793437255cd3591d51",
+          "bytes": 2357
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/fbc9e7a0-d9a5-4926-9d00-a9b772ba3c39/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-27T23:51:05.674991+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/1126c22d572cc707259a9375f87c2a89f94e2e9ad560c55ef7d5fe3ecbe8d71e.raw.gz",
+          "sha256_raw": "51e721a8ebd7101ef070aa025b1a5e73e0ab8b5ba553ed0ec35c421711ed0608",
+          "bytes": 35185
+        },
+        "encoding_escolhido": {
+          "datePublished": "1938-12-31",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/fbc9e7a0-d9a5-4926-9d00-a9b772ba3c39/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 2.738 de 09/06/1938]  [Coleção de Leis do Brasil  de 31/12/1938 - vol.  002] (p. 1, col. 1)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1938-06-09;2738@1938-06-09~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "contexto": {
+        "path": "federal/decretos/1938/dec-2738-1938-06-09.md",
+        "urn": "urn:lex:br:federal:decreto:1938-06-09;2738",
+        "sha256_HTML": "51e721a8ebd7101ef070aa025b1a5e73e0ab8b5ba553ed0ec35c421711ed0608",
+        "sha256_metadados": "fbe03e089c9227cf42cd6716b65dcb26df9ac893aab350793437255cd3591d51",
+        "sha256_MD_preliminar": "be29e2b8ba5734008fe8f1c269a6880704d1b18b8ca28153cefc6f631a8c4bf7",
+        "epigrafe": {
+          "numero": "2738",
+          "data": "1938-06-09",
+          "epigrafe": "DECRETO N. 2.738 – DE 9 DE JUNHO DE 1938"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/fbc9e7a0-d9a5-4926-9d00-a9b772ba3c39/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-27T23:51:05.674991+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/1126c22d572cc707259a9375f87c2a89f94e2e9ad560c55ef7d5fe3ecbe8d71e.raw.gz",
+          "sha256_raw": "51e721a8ebd7101ef070aa025b1a5e73e0ab8b5ba553ed0ec35c421711ed0608",
+          "bytes": 35185
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 2.738 – DE 9 DE JUNHO DE 1938\n\nConcede à “Société de Sucreries Brésiliennes” autorização para continuar a funcionar na República\n\nO Presidente da República, atendendo ao que requereu a “Société de Sucreries Brésiliennes”, com sede em París, França, autorizada a funcionar na República pelos decretos ns. 6.699, de 24 de outubro de 1907, 13.693, de 16 de julho de 1919, 18.439, de 23 de outubro de 1928, e 1.530, de 29 de março de 1937,\n\ndecreta:",
+        "primeiro_bloco_de_artigo": "**Artigo único.** É concedida à sociedade anônima \"Société de Sucreries Brésiliennes” autorização para continuar a funcionar na República, com as alterações introduzidas nos seus estatutos por deliberação da assembléia geral dos respectivos acionistas, realizada a 26 de outubro de 1937, ficando a referida sociedade obrigada não só a cumprir integralmente as cláusulas que acompanham o decreto número 6.699, 24 de outubro de 1907, e as leis em vigor, ou que venham a vigorar, sobre o objeto da autorização de que trata este artigo, mas tambem a submeter à aprovação do Governo todo aumento de capital que for realizado pelo seu Conselho de Administração, de acordo com a parte final do art. 7º dos aludidos estatutos.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 9 DE JUNHO DE 1938",
+          "data": "1938-06-09",
+          "bloco_literal": "Rio de Janeiro, 9 de junho de 1938, 117º da Independência e 50º da República."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "ocorrencias_contextuais": [
+          {
+            "bloco_indice": 96,
+            "bloco_literal_integral": "Havia o seguinte carimbo: “Comissário de Polícia. IX Distrito, Paris. Quarteirão São Jorge. Visto para reconhecimento da firma de Allain Maurice, retro. París, 17 de novembro de 1937. O comissário de Polícia (assinatura ilegivel) .”"
+          }
+        ]
+      },
+      "limites": "Ausência ou dúvida na transcrição consultada; não afirma inexistência do ato ou de fonte completa alternativa. Nenhum canônico ou guard alterado."
+    }
+  ],
+  "fontes_provas": {
+    "path": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/retencoes_contextuais001/fontes_provas7.jsonl.gz",
+    "sha256": "454ceb55bf8ac6b2ab3c4d1454c6ceb6aaaef8f6919a28ef4677471214864eb5"
+  }
+}

@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO Nº 167, DE 17 DE ABRIL DE 2020"
+orgao: "Presidência da República/Casa Civil/Comitê Gestor da Infraestrutura de Chaves Públicas"
+tipo: "Resolução"
+numero: "167"
+data: 2020-04-17
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 20/04/2020, seção 1, p. 3"
+data_publicacao: 2020-04-20
+edicao: "75"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-n-167-de-17-de-abril-de-2020-253138340"
+sha256_html_fonte: ce7a0f3be316f741aa0ead6c68951392c167b05913d49183d6b3aaf339886d36
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO Nº 167, DE 17 DE ABRIL DE 2020
+
+<div class="texto-dou"><p class="identifica"><strong class="dou-strong" >RESOLUÇÃO Nº 167, DE 17 DE ABRIL DE 2020</strong></p><p class="ementa">Altera os prazos máximos previstos para a emissão de LCR e para a conclusão do processo de revogação de certificado.</p><p class="dou-paragraph" ><strong class="dou-strong" >O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,</strong>no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Interno, torna público que o COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA, no exercício das competências previstas no art. 4º da Medida Provisória nº 2.200-2, de 24 de agosto de 2001, em plenária virtual encerrada em 17 de abril de 2020,</p><p class="dou-paragraph" >CONSIDERANDO a Declaração de emergência em saúde pública de importância internacional pela Organização Mundial da Saúde em 30 de janeiro de 2020, em decorrência da Infecção Humana pelo novo coronavírus (COVID-19);</p><p class="dou-paragraph" >CONSIDERANDO a Portaria nº 188/GM/MS, de 4 de fevereiro de 2010, que declarou emergência em aaúde pública de importância nacional (ESPIN), em decorrência da Infecção Humana pelo novo coronavírus (COVID-19); e</p><p class="dou-paragraph" >CONSIDERANDO a necessidade de estabelecimento de regras especiais para a adequada operacionalização da Infraestrutura de Chaves Públicas - ICP-Brasil durante o período de manutenção da situação emergencial, resolveu:</p><p class="dou-paragraph" >Art. 1º Esta Resolução altera prazos máximos previstos para a emissão de LCR e para a revogação de certificados.</p><p class="dou-paragraph" >Art. 2º O anexo V da Resolução nº 151, de 30 maio de 2019, DOC-ICP-05, passa a vigorar com a seguinte alteração:</p><p class="dou-paragraph" >".....................................................................................................................................</p><p class="dou-paragraph" >4.9.3.3 O prazo máximo admitido para a conclusão do processo de revogação de certificado, após o recebimento da respectiva solicitação, para todos os tipos de certificado previstos pela ICP-Brasil é de 24 (vinte e quatro) horas.</p><p class="dou-paragraph" >4.9.3.4 O prazo máximo admitido para a conclusão do processo de revogação de certificado de AC, após o recebimento da respectiva solicitação, é de 24 (vinte e quatro) horas.</p><p class="dou-paragraph" >.............................................................................................................................................</p><p class="dou-paragraph" >.............................................................................................................................................</p><p class="dou-paragraph" >4.9.7.3 A frequência máxima admitida para a emissão de LCR referente a certificados de AC é de 90 (noventa) dias. Em caso de revogação de certificado de AC de nível imediatamente subsequente ao seu, a AC responsável deverá emitir nova LCR no prazo previsto no item 4.9.3.4 e notificar todas as ACs de nível imediatamente subsequente ao seu.</p><p class="dou-paragraph" >..................................................................................................................................." (NR)</p><p class="dou-paragraph" >Art. 3º Fica aprovada a versão 5.5 do documento DOC-ICP-05 - REQUISITOS MÍNIMOS PARA AS DECLARAÇÕES DE PRÁTICAS DE CERTIFICAÇÃO DAS AUTORIDADES CERTIFICADORAS DA ICP-BRASIL.</p><p class="dou-paragraph" >Art. 4º Esta Resolução entra em vigor na data de sua publicação, permanecendo em vigor enquanto perdurar o estado de emergência de saúde pública de importância internacional decorrente do coronavírus (COVID-19).</p><p class="assina">THIAGO MEIRELLES FERNANDES PEREIRA</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

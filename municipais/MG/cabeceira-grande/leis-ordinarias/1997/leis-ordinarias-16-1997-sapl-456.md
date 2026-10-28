@@ -1,0 +1,792 @@
+---
+titulo: "LEI ORDINÁRIA nº 16, de 11 de junho de 1997"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "16"
+data: "1997-06-11"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/456"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/50/text"
+sha256_fonte: "95b17c17b2bc00cc4f159942866da19adbd41bf61256af6b15a29e23b8d84a0e"
+sha256_texto: "210f54c8af103667ddeece9e068639231c5815d05fe35510460766b8640c733c"
+capturado_em_fonte: "2026-10-27T20:44:16.717662-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 16, de 11 de junho de 1997
+
+Estabelece diretrizes gerais para elaboração do orçamento do Município para o exercício de 1998 e dá outras providências.
+
+
+**O PREFEITO MUNICIPAL DE CABECEIRA GRANDE, ESTADO DE MINAS GERAIS**, no uso da atribuição que lhe confere o art. 96, VII, da Lei Orgânica do Município de origem, faz saber que a Câmara Municipal decreta e ele, em seu nome, promulga a seguinte Lei:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+São estabelecidas, em cumprimento ao disposto no art. 165, § 2º, da Constituição Federal, as diretrizes orçamentárias do Município para o exercício de 1998, compreendendo:
+
+
+I –
+
+a prioridades e metas da administração pública municipal;
+
+
+II –
+
+a organização e estrutura dos orçamentos;
+
+
+III –
+
+as diretrizes gerais para a elaboração do orçamento do Município e suas alterações;
+
+
+IV –
+
+as disposições relativas à constituição de dívida pública municipal;
+
+
+V –
+
+as disposições relativas às despesas do Município com pessoal e encargos sociais;
+
+
+VI –
+
+as disposições sobre a edição da legislação tributária do Município.
+
+
+#### CAPÍTULO II — DAS PRIORIDADES E METAS DA ADMINISTRAÇÃO PÚBLICA
+
+
+Art. 2º.
+
+A elaboração das propostas orçamentárias dos Poderes Executivo e Legislativo, assim como das autarquias que forem criadas, e dos fundos municipais, fundamenta-se nas seguintes diretrizes gerais:
+
+
+I –
+
+alocação mais eficiente dos recursos públicos;
+
+
+II –
+
+busca da equidade e eliminação de subsídios e privilégios com a prestação de serviços públicos;
+
+
+III –
+
+eficiência na prestação de serviços públicos;
+
+
+IV –
+
+universalidade na prestação de serviços públicos;
+
+
+V –
+
+aumento da produtividade;
+
+
+VI –
+
+busca da elevação da qualidade de vida.
+
+
+Art. 3º.
+
+As metas e prioridades para o exercício de 1998, relativamente ao Poder Executivo, são:
+
+
+I –
+
+programa de admissão, treinamento, desenvolvimento e capacitação de pessoal;
+
+
+II –
+
+implantação da estrutura administrativa e de planos de carreira;
+
+
+III –
+
+desenvolvimento de ações destinadas ao saneamento básico, inclusive e principalmente com a ampliação da oferta de abastecimento de água potável na sede;
+
+
+IV –
+
+desenvolvimento urbano, especialmente edição de legislação de zoneamento e ocupação do solo urbano, planejamento urbano, plano viário urbano, pavimentação de vias públicas, urbanização de praças e logradouros públicos;
+
+
+V –
+
+descentralização administrativa;
+
+
+VI –
+
+desenvolvimento esportivo e cultural;
+
+
+VII –
+
+formação de frota de veículos, máquinas e equipamentos;
+
+
+VIII –
+
+programas de educação fundamental e infantil;
+
+
+IX –
+
+programas de saúde, especialmente medidas profiláticas e sanitárias;
+
+
+XII –
+
+construção, reforma, conclusão e equipamento de unidades escolares e de saúde;
+
+
+XIII –
+
+programas de desenvolvimento municipal, estruturação de centros industriais e programas de emprego;
+
+
+XIV –
+
+fomento à atividade agropecuária, especialmente programas de apoio à pequena e média produção;
+
+
+XV –
+
+limpeza pública;
+
+
+XVI –
+
+otimização, aperfeiçoamento e gerenciamento de serviços públicos.
+
+
+Art. 4º.
+
+No âmbito do Poder Legislativo, são estipuladas as seguintes metas e prioridades:
+
+
+I –
+
+implantação de banco de dados;
+
+
+II –
+
+desenvolvimento de ações destinadas a incrementar as relações entre o Poder Legislativo e a sociedade;
+
+
+III –
+
+implantação de programa de desenvolvimento, treinamento e capacitação de pessoal;
+
+
+IV –
+
+aparelhamento das instalações físicas da Câmara Municipal;
+
+
+V –
+
+implementação das atividades de apoio à representação político- parlamentar.
+
+
+#### CAPÍTULO III — DA ORGANIZAÇÃO E ESTRUTURA DOS ORÇAMENTOS
+
+
+Art. 5º.
+
+O projeto de lei orçamentária anual que o Poder Executivo encaminhará à Câmara Municipal, composto do orçamento fiscal da administração direta, dos fundos, e de autarquias que forem criadas, será constituído de:
+
+
+I –
+
+texto de lei;
+
+
+II –
+
+consolidação dos quadros orçamentários;
+
+
+III –
+
+anexos dos orçamentos fiscal, discriminando a receita e a despesa na forma definida nesta Lei;
+
+
+IV –
+
+discriminação da legislação da receita e da despesa, referente ao orçamento fiscal.
+
+
+§ 1º
+
+Integrarão a consolidação dos quadros orçamentários a que se refere o inciso II deste artigo, incluindo os complementos referenciados no art. 22, III, da Lei nº 4.320, de 17 de março de 1964, os seguintes demonstrativos:
+
+
+I –
+
+a evolução da receita do Tesouro Municipal, segundo categorias econômicas e seu desdobramento em fontes;
+
+
+II –
+
+a evolução da despesa do Tesouro Municipal, segundo categorias econômicas e grupo de despesa;
+
+
+III –
+
+do resumo das receitas do orçamento fiscal, por categoria econômica e origem dos recursos;
+
+
+IV –
+
+do resumo das despesas dos orçamentos fiscal, por categoria econômica e origem dos recursos;
+
+
+V –
+
+a receita e da despesa, dos orçamentos fiscal, segundo categorias econômicas, segundo Anexo I da Lei 4.320, de 17 de março de 1964, e suas alterações;
+
+
+VI –
+
+das receitas dos orçamentos fiscal, de acordo com a classificação constante do Anexo III, da Lei 4.320, de 17 de março de 1964, e suas alterações;
+
+
+VII –
+
+das despesas dos orçamento fiscal, segundo Poder e órgão, por grupo de despesa e fonte de recursos;
+
+
+VIII –
+
+das despesas dos orçamentos fiscal, segundo a função, programa, subprograma e grupo de despesa;
+
+
+IX –
+
+os recursos do Tesouro Municipal, diretamente arrecadados, nos orçamentos fiscal, por órgão;
+
+
+X –
+
+da programação, referente à manutenção e ao desenvolvimento do ensino, nos termos do art. 212 da Constituição Federal, ao nível de órgão, detalhando fontes e valores por categoria de programação;
+
+
+XI –
+
+do resumo das fontes de financiamento e da despesa do orçamento de investimento, segundo órgão, função, programa e subprograma.
+
+
+§ 2º
+
+A mensagem que encaminhar o projeto de lei orçamentária anual conterá:
+
+
+I –
+
+relato sucinto da conjuntura operacional, patrimonial e financeira do Município;
+
+
+II –
+
+justificativa da estimativa e da fixação, respectivamente, da receita e da despesa.
+
+
+§ 3º
+
+Acompanharão o projeto de lei orçamentária anual demonstrativos contendo as seguintes informações complementares:
+
+
+I –
+
+os resultados correntes dos orçamento fiscal;
+
+
+II –
+
+a discriminação dos projetos em andamento;
+
+
+III –
+
+o detalhamento dos custos unitários médios utilizados na elaboração dos orçamentos para os principais itens de investimento;
+
+
+V –
+
+o resumo das despesas do orçamento de investimento, segundo órgão, função, programa e subprograma e grupo de despesa da categoria capital;
+
+
+VI –
+
+a memória de cálculo sucinta da estimativa de gasto com pessoal e encargos sociais e com o pagamento de benefícios previdenciários para o exercício de 1998;
+
+
+VII –
+
+a memória de cálculo da estimativa das despesas com amortização e com juros e encargos da dívida pública interna, se houver;
+
+
+VIII –
+
+o gasto com pessoal e encargos sociais, por Poder e total, executado nos primeiros sete meses de 1997 e o programado para 1998, com a indicação da representatividade percentual do total em relação à receita corrente líquida, nos termos do art. 38 do Ato das Disposições Constitucionais Transitórias da Constituição da República, e da Lei Complementar n.º 82, de 23 de março de 1995.
+
+
+§ 4º
+
+O Poder Executivo enviará à Câmara o projeto de lei orçamentária anual também em meio magnético de processamento eletrônico.
+
+
+§ 5º
+
+A comissão permanente de Finanças, Tributação, Orçamento e Tomada de Contas da Câmara Municipal terá acesso a todos os dados utilizados na elaboração da proposta orçamentária.
+
+
+§ 6º
+
+Os demonstrativos e informações complementares exigidos por esta Lei identificarão, logo abaixo do respectivo título, o dispositivo a que se refere.
+
+
+Art. 6º.
+
+Os orçamentos fiscal compreenderá a programação dos Poderes do Município, seus fundos, órgãos, e autarquias que forem instituídas e mantidas pelo Poder Público, observado o disposto no artigo anterior.
+
+
+Art. 7º.
+
+7º. Para efeito do disposto no art. 5º desta Lei, O Poder Legislativo, encaminhará à Secretaria Municipal da Administração e Finanças, até 31.07.1997, suas respectivas propostas orçamentárias, para fins de consolidação.
+
+
+Art. 8º.
+
+Os orçamentos fiscal discriminará a despesa por unidade orçamentária, segundo a classificação funcional-programática, expressa por categoria de programação em seu menor nível, indicando, para cada uma, a modalidade de aplicação, a fonte de recursos e o grupo de despesa a que se refere, observada a seguinte classificação:
+
+
+I –
+
+pessoal e encargos sociais;
+
+
+II –
+
+juros e encargos da dívida, se houver;
+
+
+III –
+
+outras despesas correntes;
+
+
+IV –
+
+investimentos;
+
+
+V –
+
+inversões financeiras;
+
+
+VI –
+
+amortização da dívida;
+
+
+VII –
+
+outras despesas de capital.
+
+
+Parágrafo único
+
+As categorias de programação de que trata o caput deste artigo serão identificadas por projetos e atividades, com indicação das respectivas metas.
+
+
+#### CAPÍTULO IV — DAS DIRETRIZES GERAIS PARA A ELABORAÇÃO DOS ORÇAMENTOS DO MUNICÍPIO E SUAS ALTERAÇÕES
+
+
+##### Seção I — DAS DIRETRIZES GERAIS
+
+
+Art. 9º.
+
+Na programação da despesa não poderão ser:
+
+
+I –
+
+fixadas despesas, sem que estejam definidas as respectivas fontes de recursos e legalmente instituídas unidades executoras;
+
+
+II –
+
+incluídos projetos com a mesma finalidade em mais de um órgão.
+
+
+Art. 10.
+
+A lei orçamentária e seus créditos adicionais somente incluirão projetos novos se:
+
+
+I –
+
+tiverem sido adequadamente contemplados todos os projetos em andamento;
+
+
+II –
+
+os recursos alocados viabilizarem a conclusão de uma etapa ou a obtenção de uma unidade completa.
+
+
+Art. 11.
+
+Não poderão ser destinados recursos para atender despesas com:
+
+
+I –
+
+aquisições de automóveis de representação, ressalvadas aquelas referentes a automóveis de uso do Prefeito e do Presidente da Câmara Municipal;
+
+
+II –
+
+celebração, renovação e prorrogação de contratos de locação e arrendamento de quaisquer veículos para representação pessoal;
+
+
+III –
+
+ações típicas da União, do Estado ou de outros Municípios, ressalvadas as previstas nos artigos 23, VIII, 30, VI e VII, 200 e 204, I, da Constituição Federal, em lei específica ou constante do Plano Plurianual em vigor;
+
+
+IV –
+
+entidades de direito privado, clubes de serviço ou de recreação ou lazer, representativas ou de classe, inclusive sem fins lucrativos, ressalvadas as de caráter assistencial, médica e educacional.
+
+
+Parágrafo único
+
+Para efeito desta Lei, entende-se como ações típicas da União, dos Estados ou de outros Municípios, as ações governamentais que não sejam de competência exclusiva do Município, nem de competência comum à União, ao Estado e ao Município.
+
+
+Art. 12.
+
+Os recursos para compor a contrapartida de empréstimos internos e externos e para o pagamento de sinal, amortização, juros e outros encargos, observados os cronogramas financeiros das respectivas operações, não poderão ter destinação diversa da programada.
+
+
+Parágrafo único
+
+Somente serão incluídas no projeto de lei orçamentária dotações relativas às operações de crédito contratadas ou aprovadas pela Câmara Municipal até 30 de junho de 1997.
+
+
+Art. 13.
+
+Sem prejuízo do disposto no art. 11, VI, desta Lei, é vedada a inclusão, na lei orçamentária anual, de dotações a título de subvenções sociais, ressalvadas aquelas destinadas a entidades privadas sem fins lucrativos, de atividades de natureza continuada, que preencham uma das seguintes condições:
+
+
+I –
+
+sejam de atendimento direto ao Público nas áreas de assistência social, saúde ou educação e estejam registradas no Conselho Municipal de Assistência Social;
+
+
+II –
+
+atendam ao disposto no art. 204 da Constituição Federal, no art. 61 do Ato das Disposições Constitucionais Transitórias da Constituição Federal, bem como na Lei Federal nº 8.742, de 07 de dezembro de 1993.
+
+
+§ 1º
+
+Para habilitar-se ao recebimento de subvenções sociais, a entidade privada sem fins lucrativos deverá apresentar declaração de funcionamento regular, emitida no exercício de 1997 por duas autoridades locais e comprovante de regularidade do mandato de sua diretoria.
+
+
+§ 2º
+
+É vedada, ainda, a inclusão de dotação global a título de subvenções sociais.
+
+
+#### CAPÍTULO V — DAS DISPOSIÇÕES RELATIVAS À DÍVIDA PÚBLICA MUNICIPAL
+
+
+Art. 14.
+
+Todas as despesas relativas à dívida pública federal, mobiliária ou contratual porventura constituídas em 1997, e as receitas que as atenderão, constarão da lei orçamentária anual.
+
+
+Art. 15.
+
+administração da dívida municipal interna terá por objeto principal a minimização de custos e a viabilização das fontes alternativas de recursos do Tesouro Municipal.
+
+
+Art. 16.
+
+A captação de recursos nas modalidades de operações de crédito, pela administração direta, observada a legislação em vigor, dar-se-á pela contratação de financiamento.
+
+
+§ 1º
+
+Os recursos obtidos nas operações de crédito serão destinadas ao financiamento de programas de capital.
+
+
+§ 2º
+
+A aplicação programada da despesa de capital que tenha como fonte de receita operações de crédito ou convênios para auxílios de capital somente poderá sofrer emenda se o objeto do destaque for compatível com o projeto a ser financiado ou conveniado.
+
+
+§ 3º
+
+Os recursos decorrentes de operações de crédito por antecipação da receita orçamentária serão destinados ao financiamento de eventuais déficit de caixa do Tesouro Municipal.
+
+
+Art. 17.
+
+Na lei orçamentária para o exercício de 1998, as despesas com amortização, juros e demais encargos da dívida, exceto mobiliária, serão fixadas com base nas operações contratadas até a data da remessa do projeto de lei orçamentária à Câmara Municipal.
+
+
+#### CAPÍTULO VI — DAS DISPOSIÇÕES RELATIVAS ÀS DESPESAS DO MUNICÍPIO COM PESSOAL E ENCARGOS SOCIAIS
+
+
+Art. 18.
+
+O Poder Executivo, por intermédio da Secretaria Municipal da Administração e Finanças, publicará, até 31 de agosto de 1997, a tabela de cargos efetivos e funções integrantes do quadro geral de pessoal civil, com os quantitativos de cargos e funções ocupados e vagos, e, dentre estes, aqueles que permanecerão vagos no exercício de 1998.
+
+
+§ 1º
+
+O Poder Legislativo observará o cumprimento do disposto neste artigo.
+
+
+§ 2º
+
+Os cargos transformados por lei após 31 de agosto de 1997, em decorrência de processo de implantação dos planos de carreira dos servidores públicos, serão incorporados à tabela referida no caput deste artigo.
+
+
+Art. 19.
+
+Os Poderes Executivo e Legislativo deverão publicar, até 31 de agosto de 1997, quadros demonstrativos da força de trabalho, para cada órgão da administração direta, e autárquica se houver, contendo:
+
+
+I –
+
+quantitativos de servidores ativos e inativos, com respectivas remunerações, proventos e benefícios globais;
+
+
+II –
+
+quantitativos dos servidores ativos, distribuídos por situação funcional em:
+
+
+a)
+
+efetivos, inclusive, separadamente, aqueles absorvidos do quadro de pessoal do município de origem;
+
+
+b)
+
+requisitados para o exercício de cargos ou funções em comissão;
+
+
+c)
+
+em vínculo efetivo ou inativos, nomeados para cargos/funções em comissão;
+
+
+d)
+
+contratados por prazo determinado, na forma da Lei nº 003/97;
+
+
+e)
+
+designados para substituição nos quadros do magistério, e;
+
+
+f)
+
+outros.
+
+
+Art. 20.
+
+No exercício financeiro de 1998, as despesas com pessoal ativo e inativo, dos Poderes Legislativo e Executivo, tomados conjuntamente, observarão o limite estabelecido na Lei Complementar nº 82, de 23 de março de 1995.
+
+
+Art. 21.
+
+No exercício de 1998, somente poderão ser admitidos servidores se:
+
+
+I –
+
+existirem cargos vagos a preencher demonstrados na tabela a que se refere o art. 18, caput, desta Lei, considerados os cargos transformados, previstos no § 2º do mesmo artigo;
+
+
+II –
+
+houver vacância, após 31 de agosto de 1997, dos cargos ocupados constantes da tabela a que se refere o art. 18, caput, desta Lei;
+
+
+III –
+
+houver dotação orçamentária suficiente para o atendimento da despesa, ouvida, tratando-se do preenchimento de cargos no âmbito do Poder Executivo, a Secretaria Municipal da Administração e Finanças; e
+
+
+IV –
+
+for observado o limite previsto no artigo anterior.
+
+
+#### CAPÍTULO VII — DAS DISPOSIÇÕES SOBRE EDIÇÃO DA LEGISLAÇÃO TRIBUTÁRIA
+
+
+Art. 22.
+
+À exceção do previsto na Lei Orgânica, não será aprovado em projeto de lei, dispositivo que conceda ou amplie incentivo, isenção ou benefício, de natureza tributária ou financeira, sem que se apresente a estimativa da renúncia de receita correspondente.
+
+
+Parágrafo único
+
+A lei mencionada no caput deste artigo somente entrará em vigor após o cancelamento de despesas em idêntico valor.
+
+
+Art. 23.
+
+Na estimativa das receitas do projeto de lei orçamentária anual deverão ser considerados os efeitos da propostas de edição da legislação tributária local e das contribuições que sejam objeto de projeto de lei em tramitação na Câmara Municipal.
+
+
+§ 1º
+
+Se estimada a receita, na forma do caput deste artigo, no projeto de lei orçamentária anual encaminhado à Câmara Municipal, o Poder Executivo:
+
+
+I –
+
+identificará, na mensagem, os dispositivos da legislação tributária a serem imediatamente aplicados e especificará a receita esperada, em decorrência da implementação dos sistema de arrecadação de cada um dos tributos criados, com a memória de cálculo das estimativas.
+
+
+§ 2º
+
+Caso a codificação tributária proposta não seja aprovada neste exercício, ou o sejam parcialmente, de forma a não permitir a integralização dos recursos esperados, as dotações à conta dos referidos recursos condicionados serão canceladas, mediante decreto, após a sanção à lei orçamentária, observados os critérios a seguir relacionados, para aplicação seqüencial obrigatória e cancelamento linear, até ser completado o valor necessário para cada fonte de receita:
+
+
+I –
+
+de até cem por cento das dotações relativas aos novos projetos;
+
+
+II –
+
+de até sessenta por cento das dotações relativas aos projetos em andamento;
+
+
+III –
+
+de até vinte e cinco por cento das dotações relativas às ações de manutenção;
+
+
+IV –
+
+dos restantes quarenta por cento das dotações relativas aos projetos em andamento; e
+
+
+V –
+
+dos restantes setenta e cinco por cento das dotações relativas às ações de manutenção.
+
+
+§ 3º
+
+Ocorrendo alterações na legislação tributária, em conseqüência de projeto de lei encaminhado à Câmara Municipal após 31 de agosto de 1997 e que implique acréscimo em relação à estimativa de receita constante do projeto de lei orçamentária para 1998, os recursos correspondentes deverão ser objeto de projeto de lei de crédito adicional.
+
+
+Art. 24.
+
+A implantação da administração tributária e fiscal será desenvolvida para se ajustar ao que dispuser a legislação municipal a ser editada.
+
+
+Parágrafo único
+
+Para dar efetividade ao disposto no artigo, serão adotadas as seguintes medidas:
+
+
+I –
+
+implantação do processo de atuação fiscal e do cadastro técnico dos prestadores de serviços e dos contribuintes do Imposto Predial e Territorial Urbano;
+
+
+II –
+
+inicialização dos processos de informatização das atividades da Fazenda Pública Municipal;
+
+
+III –
+
+aplicação da legislação municipal específica, relativamente à correção monetária, controle da dívida ativa, parcelamento de débitos fiscais e execução judicial de créditos tributários.
+
+
+Art. 25.
+
+A Secretaria Municipal da Administração e Finanças acompanhará a preparação do VAF (Valor Adicionado Fiscal), para os fins do disposto no parágrafo único do art. 158 da Constituição Federal.
+
+
+Art. 26.
+
+A majoração da planta de valores genéricos, para efeito de cálculo do valor venal de imóveis sujeitos ao Imposto Predial e Territorial Urbano, depende de prévia autorização legislativa, e será encaminhada para apreciação junto ao projeto de lei contendo o Código Tributário.
+
+
+#### CAPÍTULO VIII — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 27.
+
+Se a lei orçamentária não for votada até o final do exercício de 1997, fica autorizado, até a sua sanção, a execução dos créditos orçamentários previstos no projeto de lei orçamentária, até à razão de ½ (um doze avos) por mês.
+
+
+Art. 28.
+
+Ocorrendo veto, emenda ou rejeição do projeto de lei orçamentária anual, os recursos que ficarem sem despesas correspondentes poderão ser utilizados, conforme o caso, mediante créditos especiais ou suplementares, com prévia e específica autorização legislativa.
+
+
+Art. 29.
+
+São vedados quaisquer procedimentos no âmbito dos sistemas de orçamento, programação financeira e contabilidade, que viabilizem a execução de despesas sem comprovada e suficiente disponibilidade de dotação orçamentária.
+
+
+Art. 30.
+
+O Poder Executivo, através da Secretaria Municipal da Administração e Fazenda, deverá atender, no prazo máximo de dez dias úteis, contados da data de recebimento, as solicitações de informações encaminhadas pelo Presidente da Comissão de Finanças, Tributação, Orçamento e Tomada de Contas, relativas a aspectos quantitativos e qualitativos de qualquer projeto, atividade ou item de receita, incluindo eventuais desvios em relação aos valores de proposta que venham a ser identificados posteriormente ao encaminhamento do projeto de lei.
+
+
+Art. 31.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 32.
+
+Revogam-se as disposições em contrário.
+
+
+Cabeceira Grande (MG), 11 de Junho de 1997
+
+**ANTÔNIO NAZARÉ SANTANA MELO Prefeito Municipal**
+
+**"Este texto não substitui o original."**
+

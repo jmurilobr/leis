@@ -1,0 +1,130 @@
+---
+titulo: "Lei-PMC nº 3.783, de 24 de agosto de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3783"
+data: "2018-08-24"
+municipio: "Congonhas"
+uf: "MG"
+codigo_ibge: "3118007"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.congonhas.mg.leg.br/norma/7541"
+fonte_texto: "https://sapl.congonhas.mg.leg.br/ta/4448/text"
+sha256_fonte: "d305d0f9b819aee0f9a8071f6f501ac307e53064e51dc8b47487c2080f722aec"
+sha256_texto: "dfaf1c6af2f012ce61450cd0e1b71f67e400504143f9bda991e11475fcea1de4"
+capturado_em_fonte: "2026-10-27T23:23:21.895139-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei-PMC nº 3.783, de 24 de agosto de 2018
+
+Dispõe sobre s doação de imóvel de propriedade do Município ao Fundo de Arrendamento Residencial – FAR – Representado Pela Caixa Econômica Federal – CEF.
+
+
+A Câmara de Vereadores de Congonhas, Estado de Minas Gerais, aprova e eu, Prefeito, promulgo e sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a doar ao Fundo de Arrendamento Residencial - FAR, representado pela Caixa Econômica Federal - CEF, responsável por sua gestão e pela operacionalização do Programa Minha Casa Minha Vida - PMCMV, nos termos da Lei Federal nº 10.188, de 10 de fevereiro de 2001, a doação de dois terrenos de propriedade do município de Congonhas, sendo Área 01 – 7.440,77m2 (sete mil e quatrocentos e quarenta metros quadrados e setenta e sete decímetros quadrados) e Área 02- 15. 246,23m2 (quinze mil, duzentos e quarenta e seis metros quadrados e vinte e três decímetros quadrados), situados na cidade de Congonhas – bairro Jardim Profeta, registrado no Cartório de Registro de imóveis da Comarca de Congonhas, Matrículas 14.700 e 14.699, ambas de 25/05/2012, que assim se descreve:
+
+
+**I- Área 01**: Inicia-se a descrição desse perímetro no vértice .0=PP, de coordenadas N 7.730.265, 523m e E 621571,996m; com os seguinte azimutes e distâncias: 134º 14’02’’ e 29,10metros até o vértice.1, de coordenadas N 7.730.245, 223m e E 621.592,847m;134º 24’ 13’’ e 48,89metros até o vértice.2, de coordenadas N 7.730.211, 013m e E 621.627,777m;134º 39’13’’ e 19,93 metros até o vértice.3, de coordenadas N7.730.197,004 m e E 621.641,956m; 134º 38’52’’ e 25,27metros até o vértice .4, de coordenadas N7.730.179, 243m e E 621.659,936m;130º 10’18’’ e 8,17 metros até o vértice.5, de coordenadas N 7.730.173,970 m e E 621.666,183m;256°28’47’’ e 78,67 metros até o vértice.6,de coordenadas N 7.730.155,578m e E 621.589,693 m; 310º33’53’’ e 86,07 metros até o vértice.7, de coordenadas N 7.730.211, 550m e E 621.524,307m; 41º27’47’’ e 72,02 metros até o vértice inicial da descrição deste perímetro. Todas as coordenadas aqui descritas estão georreferenciadas aos Sistema Geodésico Brasileiro, Meridiano Central 510 WGr e encontra-se representadas no sistema UTM, tendo como datum o SAD – 69. Todos os azimutes e distâncias área e perímetro foram calculados no plano de projeção UTM.
+
+**II- Área 02**: Inicia-se a descrição deste perímetro no ponto V1, de coordenadas N 7.730.211,550 e E 622.403,928; deste segue confrontando com área desapropriada, com os seguintes azimutes e distâncias: 130º33’53’’ e 86,07 metros até o ponto V2, de coordenadas N 7.730.155,578 e E 622.469,314; deste, segue confrontando com o campo de futebol, com os seguintes azimutes e distâncias: 256º29’45’’ e 39,57 metros até o ponto P3, de coordenadas N 7.730.146,319 m e E 621.551,237 m; deste segue confrontando com o campo de futebol, com os seguintes azimutes e distâncias: 166º44’05’’ e 96,31 metros até o ponto P4, de coordenadas N 7.730.052,576 m e E 621.573,337 m; deste, segue confrontando com terreno particular, com os seguintes azimutes e distâncias:258º58’12’’e 94,87 metros até o ponto P5, de coordenadas N 7.730.034, 425m e E 621.480,220m; segue confrontando com terreno particular, com os seguintes azimutes e distâncias 350º17’21’’ e 79,47 metros até o ponto P6 , de coordenadas N 7.730.112, 754 m e E 621.466,815 m; segue confrontando com a rua sem denominação, com os seguintes azimutes e distâncias: 21º01’53’’ e 44,92 metros até o ponto P7, de coordenadas N 7.730.154,676 m e E 621.482,938 m; deste, segue confrontando com a rua sem denominação, com os seguintes azimutes e distâncias:35º39’51’’ e 64,89 metros até o ponto P8, de coordenadas N 7.730.207,406m e E 621.520771 m; deste, segue a mesma confrontação anterior com os seguintes azimutes e distâncias: 41º23’36’’ e 5,45 metros até o vértice inicial da descrição deste perímetro, Todas as coordenadas aqui descritas estão georreferenciadas aos Sistema Geodésico Brasileiro, Meridiano Central 510 WGr e encontra-se representadas no sistema UTM, tendo como datum o SAD – 69. Todos os azimutes e distâncias área e perímetro foram calculados no plano de projeção UTM.
+
+
+Parágrafo único
+
+Os imóveis de que trata o caput foram avaliados em R$1.474.655,00 (um milhão, quatrocentos e setenta e quatro mil, seiscentos e cinquenta e cinco reais).
+
+
+Art. 2º.
+
+Os bens de que trata os incisos I e II, do art.1º desta Lei serão utilizados, exclusivamente, no âmbito do “Programa Minha Casa, Minha Vida” – PMCMV, para construção de moradias e integrará o patrimônio do Fundo de Arrendamento Residencial – FAR, com fins específicos de manter a segregação patrimonial e contábil dos haveres financeiros e imobiliários, observadas as seguintes restrições:
+
+
+I –
+
+não integrará o ativo da Caixa Econômica Federal – CEF;
+
+
+II –
+
+não responderá direta e indiretamente por qualquer obrigação da Caixa Econômica Federal – CEF;
+
+
+III –
+
+não comporá a lista de bens e direitos da Caixa Econômica Federal – CEF para efeito de liquidação judicial ou extrajudicial;
+
+
+IV –
+
+não será dado em garantia de débito de operação da Caixa Econômica Federal – CEF;
+
+
+V –
+
+não será passível de execução por quaisquer credores da Caixa Econômica Federal – CEF;
+
+
+VI –
+
+não serão constituídos quaisquer ônus reais sobre o imóvel.
+
+
+Art. 3º.
+
+O donatário deverá utilizar o imóvel doado, exclusivamente, para a construção de unidades residenciais destinadas à população de baixa renda, sob pena de revogação da doação.
+
+
+Parágrafo único
+
+A revogação da doação e a reversão do bem ao patrimônio do doador também se dará caso não seja iniciada a produção de unidades habitacionais no prazo de 24 (vinte e quatro) meses, contados da efetiva transferência do imóvel.
+
+
+Art. 4º.
+
+Nos termos do artigo 17 da Lei Federal nº 8.666/93, fica dispensada a licitação, considerando o interesse social do empreendimento a ser efetivado.
+
+
+Art. 5º.
+
+As unidades habitacionais construídas serão destinadas a famílias selecionadas, conforme Portaria Nº 610, de 26/12/2011, do Ministério das Cidades e demais normas aplicáveis ao Programa Minha Casa Minha Vida – PMCMV e do Programa Nacional de Habitação Urbana – PNHU.
+
+
+Parágrafo único
+
+A seleção das famílias considerará, prioritariamente, o cadastro que será disponibilizado pelo Doador através de sua Secretaria Municipal de Habitação.
+
+
+Art. 6º.
+
+Da escritura de doação constará a íntegra desta lei, ficando os dispositivos desta admitidos como condição expressa daquela.
+
+
+Art. 7º.
+
+A doação de que trata a presente Lei fica condicionada à contratação do empreendimento entre a Caixa Econômica Federal-CEF e a empresa vencedora do Chamamento Público para a construção das moradias, cujo procedimento do certame competirá o Município fazê-lo.
+
+
+Art. 8º.
+
+Os imóveis objeto da doação, ficam, por esta Lei, desafetados da categoria de bem público, passando a bem dominicais.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Congonhas, 24 de agosto de 2018.
+
+**JOSÉ DE FREITAS CORDEIRO**
+
+**Prefeito de Congonhas**
+

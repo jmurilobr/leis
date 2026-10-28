@@ -1,0 +1,325 @@
+---
+titulo: "Lei Ordinária nº 4.457, de 26 de junho de 2015"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4457"
+data: "2015-06-26"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/4371"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/1062/text"
+sha256_fonte: "64ce942b88f2bbcf8cec7d623dbea3ea3f9776429670dfd214618e40a295585b"
+sha256_texto: "9117dec08a0633e138b79de7864643735bd2ec23fdcc36dea1f7c7729463ac4f"
+capturado_em_fonte: "2026-10-27T17:46:48.425925-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.457, de 26 de junho de 2015
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE
+
+
+LEI Nº4457, DE 26 DE JUNHO DE 2015.
+
+
+Institui a política dos serviços ambientais, cria o programa municipal de pagamento por serviços ambientais, estabelece formas de controle e financiamento desse programa e dá outras providências.
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Esta lei institui a política municipal dos serviços ambientais, cria o programa municipal de pagamento de serviços ambientais - PMSA e estabelece formas de controle e financiamento deste programa.
+
+
+Parágrafo único
+
+A Política Municipal dos Serviços Ambientais tem como objetivo disciplinar a atuação do poder público municipal em relação aos serviços ambientais de forma a promover o desenvolvimento sustentável e a aumentar a provisão desses serviços em todo território municipal.
+
+
+Art. 2º.
+
+Para os fins desta lei, consideram-se:
+
+
+I –
+
+Serviços ambientais: são serviços desempenhados pelo meio ambiente, que resultam em condições adequadas à sadia qualidade de vida, constituindo as seguintes modalidades:
+
+
+a)
+
+Serviços de a provisionamento: serviços que resultam em bens ou produtos ambientais com valor econômico, obtido diretamente pelo uso e manejo sustentável dos ecossistemas.
+
+
+b)
+
+Serviços de suporte e regulação: serviços que mantêm os processos ecossistêmicos e as condições dos recursos ambientais naturais, de modo a garantir a integridade dos seus atributos para as presentes e futuras gerações.
+
+
+II –
+
+Serviços ecossistêmicos: são serviços em um sistema natural equilibrado que refletem apenas os benefícios diretos e indiretos providos pelo funcionamento dos ecossistemas, sem a interferência humana.
+
+
+III –
+
+Pagamento de serviços ambientais: redistribuição, monetária ou não às atividades humanas de restabelecimento, recuperação, manutenção e melhoria dos ecossistemas que geram serviços ambientais e que estejam amparadas pelo programa e em acordo com projetos específicos.
+
+
+IV –
+
+Pagador de serviços ambientais: aquele que provém o pagamento dos serviços nos termos do inciso I.
+
+
+V –
+
+Recebedor do pagamento pelos serviços ambientais: aquele que restabelece, recupera, mantém ou melhora os ecossistemas no âmbito de planos e programa específicos, podendo receber o pagamento de que se trata o inciso III.
+
+
+Art. 3º.
+
+São princípios e diretrizes para o desenvolvimento do programa municipal de pagamento para os serviços ambientais:
+
+
+I –
+
+Desenvolvimento sustentável;
+
+
+II –
+
+Controle social e transparência;
+
+
+III –
+
+Promoção da integridade ambiental com inclusão social de populações rurais;
+
+
+IV –
+
+Restabelecimento, recuperação, manutenção ou melhoramento de área prioritária para conservação da biodiversidade ou para preservação da beleza cênica;
+
+
+V –
+
+Formação, melhoria e manutenção de corredores ecológicos;
+
+
+VI –
+
+Reconhecimento da contribuição da agricultura familiar e comunidades tradicionais para a conservação ambiental;
+
+
+VII –
+
+Prioridade para áreas sob maior risco socioambiental;
+
+
+VIII –
+
+Promoção da gestão de áreas prioritárias para conservação, uso sustentável repartição de benefícios da biodiversidade;
+
+
+IX –
+
+Fomento às ações humanas voltadas à promoção de serviços ambientais.
+
+
+Art. 4º.
+
+Para os fins desta lei, e observando os princípios e diretrizes nela dispostos, poderão ser utilizados os seguintes instrumentos:
+
+
+I –
+
+Planos e programas de pagamento por serviços ambientais;
+
+
+II –
+
+Captação, gestão e transferência de recursos, monetários ou não, públicos ou recursos privados, dirigidos ao pagamento de serviços ambientais;
+
+
+III –
+
+Assistência técnica e capacitação voltada à promoção de serviços ambientais;
+
+
+IV –
+
+Inventário de áreas potenciais para a promoção de serviços ambientais.
+
+
+#### CAPÍTULO II — DO PROGRAMA MUNICIPAL DE PAGAMENTO POR SERVIÇOS AMBIENTAIS
+
+
+Art. 5º.
+
+Fica criado o programa municipal de pagamento por serviços ambientais - PMPSA, com o objetivo de implementar no âmbito do Município de Barra Mansa/RJ, o pagamento das atividades humanas de restabelecimento, recuperação, manutenção e melhoria dos ecossistemas que geram serviços ambientais.
+
+
+Art. 6º.
+
+São requisitos gerais para a participação do PMPSA:
+
+
+I –
+
+Enquadramento e habilitação em projeto específico de implantação do PMPSA por atividades de restabelecimento, recuperação, manutenção e melhoria dos ecossistemas que geram serviços ambientais;
+
+
+II –
+
+Comprovação do uso ou ocupação regular do imóvel a ser contemplado no âmbito do PMPSA;
+
+
+III –
+
+Formalização de instrumento contratual específico, com prazo mínimo de 04(quatro) anos e máximo 08(oito) anos, renovável por igual período.
+
+
+Parágrafo único
+
+Os requisitos específicos de participação no PMPSA, bem como as condições para sua implementação, monitoramento e avaliação serão definidos em regulamento, atendidas as disponibilidades orçamentárias.
+
+
+Art. 7º.
+
+O programa municipal de pagamento por serviços ambientais - PMPSA - tem como finalidade gerir ações de pagamento aos produtores rurais e aos instituidores de reservas particulares do patrimônio natural - RPPN que sejam reconhecidas pelos órgãos ambientais federal, estadual ou municipal ocupantes regulares de área irrigadas situadas nas microbacia do Rio Paraíba do Sul e áreas reflorestadas, atendidas as seguintes diretrizes.
+
+
+I –
+
+O apoio financeiro aos proprietários rurais iniciará com a implantação de todas as ações propostas, posterior a formalização contratual.
+
+
+II –
+
+As características das propriedades, as ações e as metas serão definidas mediante critérios técnicos e legais com o objetivo de incentivar a doação de práticas conservacionistas de solo, aumento da cobertura vegetal de implantação do saneamento ambiental nas propriedades rurais do município;
+
+
+III –
+
+Prioridade para bacias ou sub-bacias abastecedoras de sistemas públicos de fornecimento de água para consumo humano ou contribuintes de reservatórios naturais;
+
+
+IV –
+
+Prioridade para bacias com deficit de cobertura vegetal em áreas de preservação permanentes;
+
+
+V –
+
+Prioridade para bacias hidrográficas onde estejam implementados os instrumentos de gestão previstos na Lei nº9.433 de 8 de janeiro de 1997;
+
+
+VI –
+
+Reflorestamento de áreas degradadas;
+
+
+VII –
+
+Conservação de biodiversidade em áreas prioritárias;
+
+
+VIII –
+
+Conservação de biodiversidade em áreas prioritárias;
+
+
+IX –
+
+Preservação da beleza cênica relacionada ao desenvolvimento da cultura e do turismo;
+
+
+X –
+
+Formação e melhoria de corredores ecológicos entre áreas prioritárias para conservação da biodiversidade;
+
+
+XI –
+
+Vedação à conservação das áreas florestais caracterizadas como Áreas de preservação permanente (APP) para uso agrícola ou pecuário;
+
+
+XII –
+
+Manutenção ou recuperação de área de extrema relevância para fins de conservação da biodiversidade.
+
+
+§ 1º
+
+Serão definidas conforme entendimento técnico da SMMADS as áreas onde serão desenvolvidos os projetos específicos do programa municipal de pagamento por serviços ambientais - PMPSA.
+
+
+§ 2º
+
+As diretrizes previstas neste artigo cumprir-se-ão, ainda, como a priorização das áreas de preservação permanente (APP) de que trata o art.4º da lei nº12.651/2012.
+
+
+§ 3º
+
+O pagamento dos serviços ambientais aos ocupantes regulares de que trata o caput deste artigo será feito por hectare e proporcionalmente ao resultado demonstrado por parte de cada ocupante em relação ao manejo das técnicas de conservação e melhoramento ambiental, segundo critérios definidos em regulamento com projeto específico.
+
+
+§ 4º
+
+O valor máximo por hectare, em área de nascentes, para o pagamento dos serviços ambientais, será de 122 unidades fiscais do município (UFM) e será corrigido anualmente pelo índice geral de preços de marcado (IGPM).
+
+
+§ 5º
+
+Quando em projeto de preservação da biodiversidade, serão implantados critérios a serem definidos pela Secretaria Municipal de Meio Ambiente e Desenvolvimento Sustentável SMMADS e pelo Conselho Municipal de Meio Ambiente CONDEMA e o valor referência será de 5 UFM por hectare por mês em área reflorestada, limitando-se a uma área de no máximo 100 hectares.
+
+
+§ 6º
+
+A Secretaria Municipal de Meio Ambiente e Desenvolvimento Sustentável (SMMADS) com o Conselho Municipal de Meio Ambiente (CONDEMA) deverão analisar e deliberar sobre o projeto técnico elaborado pela Gerência de Unidades de Conservação para implantação do programa de pagamento de serviços ambientais (PMSA) nas propriedades rurais para obtenção de apoio financeiro.
+
+
+§ 7º
+
+O disposto no caput não se aplica, no caso de instituições de área de reserva legal.
+
+
+Art. 8º.
+
+As despesas com a execução da presente Lei correrão por verbas próprias consignadas no Fundo Municipal de Meio Ambiente (FUCAM) e outras fontes de financiamento privados em investimento privado a conservação da biodiversidade.
+
+
+Parágrafo único
+
+As receitas oriundas da cobrança pelo uso dos recursos hídricos de que trata a Lei nº9.433 de 1997, poderão ser destinadas ao programa municipal de pagamento por serviços ambientais (PMPSA), observando-se prioridades estabelecidas pelo comitê de bacias do Rio Paraíba do Sul.
+
+
+Art. 9º.
+
+Fica o município autorizado a firmar convênios com entidades governamentais, sociedade civil organizada e instituições privadas com a finalidade de apoio técnico e financeiro aos projetos referentes ao PMPSA.
+
+
+Art. 10.
+
+O Poder Executivo regulamentará esta lei, mediante Decreto, dentro de 90(noventa) dias, a partir da data de sua publicação.
+
+
+Art. 11.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 26 DE JUNHO DE 2015.
+
+
+JONASTONIAN MARINS AGUIAR
+
+PREFEITO
+

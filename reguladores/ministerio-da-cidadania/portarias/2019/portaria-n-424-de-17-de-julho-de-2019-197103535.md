@@ -1,0 +1,23 @@
+---
+titulo: "PORTARIA Nº 424, DE 17 DE JULHO DE 2019"
+orgao: "Ministério da Cidadania/Secretaria Especial da Cultura/Secretaria de Fomento e Incentivo à Cultura"
+tipo: "Portaria"
+numero: "424"
+data: 2019-07-17
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 18/07/2019, seção 1, p. 6"
+data_publicacao: 2019-07-18
+edicao: "137"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-424-de-17-de-julho-de-2019-197103535"
+sha256_html_fonte: 635be8aedd94fa2b6701b6b0f2ca29c17ca74ee04f80cc66be39eb3de250e4d4
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# PORTARIA Nº 424, DE 17 DE JULHO DE 2019
+
+<div class="texto-dou"><p class="dou-paragraph" ></p><p class="identifica">PORTARIA Nº 424, DE 17 DE JULHO DE 2019</p><p class="dou-paragraph" >O SECRETÁRIO DE FOMENTO E INCENTIVO À CULTURA, no uso das atribuições legais, que lhe confere a Portaria nº 1317, de 01 de julho de 2016 e o art. 4º da Portaria nº 120, de 30 de março de 2010, resolve:</p><p class="dou-paragraph" >Art. 1.º - Homologar a redução de valor em favor do(s) projeto(s) cultural(is) relacionado(s) no(s) anexo(s) desta Portaria, para o(s) qual (is) o(s) proponente(s) fica(m) autorizado(s) a captar recursos, mediante doações ou patrocínios, na forma prevista no § 1º do artigo 18 e no artigo 26 da Lei n.º 8.313, de 23 de dezembro de 1991, alterada pela Lei nº 9.874, de 23 de novembro de 1999.</p><p class="dou-paragraph" >Art. 2.º - Esta portaria entra em vigor na data de sua publicação.</p><p class="assina">JOSÉ PAULO SOARES MARTINS</p><p class="subtitulo">ANEXO</p><p class="dou-paragraph" >ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )</p><p class="dou-paragraph" >184593 - PROGRAMAÇÃO CULTURAL EXPOAGRO VIDAS</p><p class="dou-paragraph" >Associao Vidas</p><p class="dou-paragraph" >CNPJ/CPF: 22.152.561/0001-49</p><p class="dou-paragraph" >Cidade: Aracruz - ES;</p><p class="dou-paragraph" >Valor Reduzido: R$ 28.922,40</p><p class="dou-paragraph" >Valor total atual: R$ 970.025,16</p><p class="dou-paragraph" >184961 - Lona Lúdica</p><p class="dou-paragraph" >Instituto Circênico de Promoção Cultural e Artística</p><p class="dou-paragraph" >CNPJ/CPF: 08.719.580/0001-83</p><p class="dou-paragraph" >Cidade: Jaú - SP;</p><p class="dou-paragraph" >Valor Reduzido: R$ 1.980,00</p><p class="dou-paragraph" >Valor total atual: R$ 195.378,48</p><p class="dou-paragraph" >185522 - Agenda Cultural Guaira</p><p class="dou-paragraph" >Instituto Oswaldo Ribeiro de Mendonça</p><p class="dou-paragraph" >CNPJ/CPF: 07.602.959/0001-46</p><p class="dou-paragraph" >Cidade: Guaíra - SP;</p><p class="dou-paragraph" >Valor Reduzido: R$ 215.850,53</p><p class="dou-paragraph" >Valor total atual: R$ 658.617,85</p><p class="dou-paragraph" >ÁREA: 3 MÚSICA (Artigo 18 , § 1º )</p><p class="dou-paragraph" >181470 - Concertos Especiais Echo II</p><p class="dou-paragraph" >ECHO PROMOCOES ARTISTICAS LTDA &amp;#x2013; ME</p><p class="dou-paragraph" >CNPJ/CPF: 59.393.421/0001-72</p><p class="dou-paragraph" >Cidade: São Paulo - SP;</p><p class="dou-paragraph" >Valor Reduzido: R$ 79.473,94</p><p class="dou-paragraph" >Valor total atual: R$ 1.073.645,84</p><p class="dou-paragraph" >ÁREA: 4 ARTES VISUAIS (Artigo 18 , § 1º )</p><p class="dou-paragraph" >190359 - CILDO MEIRELES Â- Escambo</p><p class="dou-paragraph" >MUNDO COMUNICACAO LTDA - ME</p><p class="dou-paragraph" >CNPJ/CPF: 16.872.510/0001-99</p><p class="dou-paragraph" >Cidade: Rio de Janeiro - RJ;</p><p class="dou-paragraph" >Valor Reduzido: R$ 183.560,00</p><p class="dou-paragraph" >Valor total atual: R$ 2.471.619,28</p><p class="dou-paragraph" >190600 - DELIRIUM AMBULATORIUM - HÉLIO OITICICA</p><p class="dou-paragraph" >TUIA ARTE E PRODUÇÃO LTDA</p><p class="dou-paragraph" >CNPJ/CPF: 18.523.612/0001-24</p><p class="dou-paragraph" >Cidade: Brasília - DF;</p><p class="dou-paragraph" >Valor Reduzido: R$ 62.436,00</p><p class="dou-paragraph" >Valor total atual: R$ 4.909.260,33</p><p class="dou-paragraph" >ÁREA: 6 HUMANIDADES (Artigo 18 , § 1º )</p><p class="dou-paragraph" >190941 - PLANO ANUAL DE ATIVIDADES DA CÂMARA BRASILEIRA DO LIVRO - 2020</p><p class="dou-paragraph" >CAMARA BRASILEIRA DO LIVRO</p><p class="dou-paragraph" >CNPJ/CPF: 60.792.942/0001-81</p><p class="dou-paragraph" >Cidade: São Paulo - SP;</p><p class="dou-paragraph" >Valor Reduzido: R$ 1.256.795,22</p><p class="dou-paragraph" >Valor total atual: R$ 11.087.790,44</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

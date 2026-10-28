@@ -1,0 +1,75 @@
+---
+titulo: "04 - Lei Ordinária nº 1.291, de 18 de março de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "1291"
+data: "2025-03-18"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1401"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1408/text"
+sha256_fonte: "fa8925c093c2f73731d09d5fa0d58a32331b1bfeee71059613b5a849211febaf"
+sha256_texto: "40407bbe24c2603dc36f07490c211b58e6d92c1af82a5023b2c56e5c954fa801"
+capturado_em_fonte: "2026-10-28T04:25:43.580951-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 1.291, de 18 de março de 2025
+
+Autoriza o Município de Corbélia a receber doação em pecúnia por parte da Cooperativa Agroindustrial Consolata e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+LEI
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal de Corbélia, Estado do Paraná, autorizado a receber da COPACOL – COOPERATIVA AGROINDUSTRIAL CONSOLATA, CNPJ/MF sob o nº 76.093.731/0001-90, doação no valor de R$ 40.000,00 (quarenta mil reais) para aquisição de uniformes, materiais, itens de uso pedagógico e itens de manutenção dos cursos oferecidos pelo Departamento de Cultura, sendo vedada a aplicação dos recursos recebidos em finalidades diversas.
+
+
+Art. 2º.
+
+A COPACOL – COOPERATIVA AGROINDUSTRIAL CONSOLATA, ao realizar a doação ao Município de Corbélia, não receberá, de forma alguma, qualquer tipo de contraprestação, incentivo fiscal, perdão de multa ou qualquer tipo de benefício fiscal, civil, trabalhista ou administrativo.
+
+
+Art. 3º.
+
+Fica a COPACOL – COOPERATIVA AGROINDUSTRIAL CONSOLATA, autorizada a realizar campanhas publicitárias das doações realizadas, arcando, exclusivamente, com os custos das campanhas publicitárias.
+
+
+Art. 4º.
+
+A doação realizada pela COPACOL – COOPERATIVA AGROINDUSTRIAL CONSOLATA não a vincula, de maneira solidária ou subsidiária, a qualquer infração aos princípios da legalidade, impessoalidade, moralidade, publicidade, eficiência, motivação, razoabilidade, proporcionalidade e interesse público, a ser praticado ilegalmente pelo ente público donatário.
+
+
+Parágrafo único
+
+A aplicação e utilização dos recursos doados é de exclusiva responsabilidade do Município donatário, excluindo a empresa doadora de qualquer responsabilidade de fiscalização.
+
+
+Art. 5º.
+
+Os valores recebidos, serão depositados em conta bancária específica e a respectiva movimentação se vinculará ao evento destinatário da doação.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná  
+Em 18 de março de 2025, 64º da Emancipação Política.
+
+Thiago Daross Stefanello  
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 2244 de 18/03/2025, pág. 23-25.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1401/ta
+

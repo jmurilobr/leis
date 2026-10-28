@@ -1,0 +1,57 @@
+---
+titulo: "LEI ORDINÁRIA nº 780, de 23 de junho de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "780"
+data: "2023-06-23"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/1122"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/935/text"
+sha256_fonte: "0fc0d166abb2251cce3f6e6ce638da6d6bb12c30b39b137ff876e85fb5b0b9a6"
+sha256_texto: "2398f101899484207b7027a084bdb1ab4bd8fe7eedc1c2e6827bceb4636b7376"
+capturado_em_fonte: "2026-10-27T20:12:11.958413-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 780, de 23 de junho de 2023
+
+Dispõe sobre a revisão das remunerações dos servidores públicos da administração direta e indireta do Poder Executivo e dá outras providências.
+
+
+**O PREFEITO DO MUNICÍPIO DE CABECEIRA GRANDE**, Estado de Minas Gerais, no uso da atribuição que lhe confere o inciso III do artigo 76, da Lei Orgânica do Município, faz saber que a Câmara Municipal de Cabeceira Grande decreta e ele, em seu nome, sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Município autorizado a conceder a título de revisão geral anual dos vencimentos básicos dos servidores públicos municipais, no percentual de 5,79% (cinco vírgula setenta e nove por cento), retroativo a 1° de janeiro de 2023, tendo por base o valor do vencimento básico vigente imediatamente antes da entrada em vigor desta Lei, e em conformidade com que dispõe o inciso X do artigo 37 da Constituição Federal.
+
+
+§ 1º
+
+Os vencimentos dos servidores cujas categorias profissionais tenham piso salarial definido e que, uma vez aplicado o índice de que trata o caput deste artigo, permanecerem inferiores ao respectivo piso serão elevados aos valores fixados na respectiva norma, tais como os previstos nas Leis Federais nºs 11.738, de 16 de julho de 2008, e 14.434, de 4 de agosto e 2022, e nas Portarias GM/MS n.º 160, de 17 de fevereiro de 2023, GM/MS Nº 597, de 12 de maio 2023.
+
+
+§ 2º
+
+O valor referente a revisão geral anual a que se refere o caput retroage aos meses de janeiro a junho de 2023, e será pago nos meses de julho à dezembro do corrente ano.
+
+
+Art. 2º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Cabeceira Grande, 23 de junho de 2023; 27º da Instalação do Município.
+
+**ELDSON AMORIM DUARTE**
+
+**Prefeito**
+
+**"Este texto não substitui o original"**
+

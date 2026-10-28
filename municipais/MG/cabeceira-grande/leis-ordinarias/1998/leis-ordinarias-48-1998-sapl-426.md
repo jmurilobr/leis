@@ -1,0 +1,519 @@
+---
+titulo: "LEI ORDINÁRIA nº 48, de 01 de dezembro de 1998"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "48"
+data: "1998-12-01"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/426"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/71/text"
+sha256_fonte: "6550823d0bac6896e1fbd6e7c965e0181d219677b9ae0f5a35065d7df7d8eb5e"
+sha256_texto: "115d6a187f316e257cce3d666862f504bfd2225140763e33484dc80011d0bc92"
+capturado_em_fonte: "2026-10-27T20:42:31.104632-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 48, de 01 de dezembro de 1998
+
+Institui o Fundo de Seguridade Social dos Servidores Públicos do Municipio de Cabeceira Grande - FUSECAB, e dá outras providências.
+
+
+**O Prefeito Municipal de Cabeceira Grande, Estado de Minas Gerais**, no uso da atribuição que lhe confere o artigo 76, III, da lei orgânica do Município, faz saber que a Câmara Municipal decreta e ele, em seu nome, promulga a seguinte Lei:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+
+##### Seção I — DOS OBJETIVOS
+
+
+Art. 1º.
+
+É instituído o Fundo de Seguridade Social dos Servidores Públicos do Municipio de Cabeceira Grande — FUSECAB, que tem por objetivo custear os encargos e assegurar a seus beneficiários os meios indispensáveis de manutenção, por motivo de idade avançada, incapacidade, tempo de contribuição, ou morte do servidor e/ou dos Agentes Políticos do município, nos termos do que dispuser o Plano de Seguridade Social contido na Lei Municipal Complementar n.º 001, de 22 de Outubro de 1997 e em seu regulamento.
+
+
+Art. 2º.
+
+O Fundo de Seguridade Social dos Servidores Públicos do Município de Cabeceira Grande é subordinado diretamente à Secretaria Municipal de Administração da Prefeitura, e terá vigência por tempo ilimitado.
+
+
+##### Seção II — DO CUSTEIO, DAS FONTES DE RECEITAS E DOS RECURSOS DO FUNDO
+
+
+Art. 3º.
+
+São receitas do Fundo de Seguridade Social dos Servidores Públicos do Município de Cabeceira Grande:
+
+
+I –
+
+a contribuição mensal, obrigatória, no valor resultante da aplicação de alíquotas sobre a remuneração dos servidores ativos e dos Agentes Políticos, e sobre os proventos de aposentadoria dos servidores e Agentes Políticos inativos, que for definida como salário de contribuição na forma que dispuser o Código Tributário do Município;
+
+
+II –
+
+contribuição mensal do Município será de valor igual ao somatório das contribuições devidas pelos servidores e agentes políticos municipais, referidas no inciso anterior, inclusive das Autarquias e Fundações Municipais que vierem a ser instituídas;
+
+
+III –
+
+compensações financeiras obtidas pela transferência de entidades públicas de previdência municipal, estadual ou Federal;
+
+
+IV –
+
+subvenções ou transferências dos governos municipal, estadual ou federal;
+
+
+V –
+
+rendas patrimoniais e financeiras;
+
+
+VI –
+
+doações e legados;
+
+
+VII –
+
+receitas eventuais;
+
+
+VIII –
+
+os rendimentos e os juros provenientes de empréstimos e aplicações financeiras;
+
+
+IX –
+
+recursos decorrentes de operação de crédito autorizada pelo Legislativo Municipal.
+
+
+§ 1º
+
+Até a definitiva fixação das alíquotas no Código Tributário Municipal, a contribuição a que se refere o Inciso I será cobrada aplicando-se a alíquota única de 5% (cinco inteiros, por cento).
+
+
+§ 2º
+
+Para fins de cálculo da contribuição, integram a remuneração todas as importâncias recebidas, a qualquer título, pelo servidor ou agente político, excetuando-se os benefícios previdenciários auferidos.
+
+
+§ 3º
+
+O servidor que vier a assumir mandato eletivo ou cargo em comissão de caráter temporário contribuirá para o FUSECAB sobre o total de sua remuneração em cada mês.
+
+
+§ 4º
+
+O servidor ou agente político em gozo de benefício contribuirá para o Fundo de Seguridade Social dos Servidores Públicos do Município com os mesmos percentuais do servidor ativo, incidente sobre seus proventos mensais.
+
+
+Art. 4º.
+
+As receitas descritas neste artigo serão depositadas obrigatoriamente em conta especial a ser aberta e mantida em instituição financeira oficial.
+
+
+Art. 5º.
+
+Constituem ativos do Fundo de Seguridade Social dos Servidores Públicos do Município:
+
+
+I –
+
+disponibilidades monetárias em bancos ou caixa especial oriundas das receitas especificadas nesta lei;
+
+
+II –
+
+os saldos constituídos das reservas de benefícios;
+
+
+III –
+
+os bens móveis e imóveis que vier a adquirir;
+
+
+IV –
+
+os bens móveis e imóveis que lhe forem doados, com ou sem ônus;
+
+
+V –
+
+os direitos que porventura vier a constituir;
+
+
+VI –
+
+títulos e valores a receber, e cautelas representativas de participações acionárias.
+
+
+Parágrafo único
+
+Anualmente se processará o inventário dos bens e direitos vinculados ao Fundo.
+
+
+Art. 6º.
+
+Constituem passivos do Fundo de Seguridade Social dos Servidores Públicos do Município as obrigações de qualquer natureza que porventura o Município venha a assumir para a manutenção e operação dos benefícios concedidos e a conceder aos inativos e pensionistas, dos riscos expirados e não expirados, e benefícios futuros resultante de períodos de carências, tendo em vista as especificidades dos mesmos.
+
+
+##### Seção III — DA ARRECADAÇÃO E DO RECOLHIMENTO
+
+
+Art. 7º.
+
+A arrecadação e o recolhimento das contribuições de qualquer importância devidas ao Fundo serão efetuadas por consignação mensal em folha de pagamento do servidor e dos agentes políticos, a crédito da tesouraria do FUSECAB, até o dia 10 (dez) do mês subsequente ao da competência.
+
+
+Parágrafo único
+
+O Prefeito, o Presidente da Câmara Municipal ou o dirigente de órgão autárquico e fundacional serão responsabilizados, na forma da lei, caso o recolhimento das contribuições próprias e de terceiros não ocorram nas datas e condições estabelecidas nesta lei.
+
+
+Art. 8º.
+
+A contribuição de que trata o art. 3º, I, só poderá ser exigida após decorridos 90 (noventa) dias das publicação da lei que a houver instituído ou aumentado, atendido o disposto no § 3º do art. 128 da Lei Orgânica do Município.
+
+
+##### Seção IV — DO ORÇAMENTO E DA CONTABILIDADE
+
+
+Art. 9º.
+
+O orçamento do Fundo de Seguridade Social dos Servidores Públicos do Município – FUSECAB, evidenciará as políticas e os programas de trabalho de interesse dos segurados, observando-se o Plano Plurianual e a Lei de Diretrizes Orçamentárias, os princípios da universalidade e do equilíbrio.
+
+
+§ 1º
+
+O orçamento do Fundo de Seguridade Social dos Servidores Públicos do Município integrará o orçamento do Município, em obediência ao Princípio da unidade.
+
+
+§ 2º
+
+Na elaboração e execução do orçamento do FUSECAB, serão observados os padrões e normas estabelecidas na legislação pertinente.
+
+
+§ 3º
+
+Os saldos positivos do exercício, apurados em balanço, serão transferidos ao exercício subsequente, incorporado a seu crédito.
+
+
+Art. 10.
+
+contabilidade do FUSECAB terá por objetivo evidenciar a situação financeira e orçamentária dos sistema de Previdência do servidor municipal, observados os padrões e normas estabelecidas na legislação pertinente.
+
+
+Art. 11.
+
+contabilidade será organizada de forma a permitir o exercício das suas funções de controle prévio, concomitante e subsequente e de informar, inclusive de apropriar e apurar custos dos serviços e, consequentemente, de concretizar o seu objetivo, bem como interpretar e analisar os resultados obtidos.
+
+
+Art. 12.
+
+escrituração contábil será feita pelo método das partidas dobradas, e o Plano de Contas a ser adotado será previamente aprovado pelo Conselho de Administração.
+
+
+§ 1º
+
+A contabilidade emitirá relatórios mensais de gestão, inclusive de custos dos serviços de Previdência.
+
+
+§ 2º
+
+Entende-se por relatórios de gestão os balancetes mensais de receita e de despesas do Fundo e demais demonstrações exigidas pela Administração e pela legislação pertinente.
+
+
+§ 3º
+
+As demonstrações e os relatórios produzidos passarão a integrar a contabilidade geral do Município, e serão assinadas pelo Contador da Prefeitura e pelo Presidente do Conselho de Administração.
+
+
+§ 4º
+
+s prestações de contas do Fundo devidas ao Tribunal de Contas do Estado, integrará a prestação de contas da Prefeitura Municipal, em demonstrativos distintos, consolidando-se seus resultados no Balanço anual do Município.
+
+
+Art. 13.
+
+Nenhuma despesa será realizada sem a necessária autorização orçamentária e o atendimento das formalidades exigidas pela Lei 4.320/64.
+
+
+Parágrafo único
+
+Para os casos de insuficiência e omissões orçamentárias poderão ser utilizados os créditos adicionais suplementares e especiais autorizados por lei e abertos por decreto do Executivo.
+
+
+Art. 14.
+
+A despesa do Fundo de Seguridade Social dos Servidores Públicos do Município constituir-se-á de :
+
+
+I –
+
+financiamento total dos programas de Previdência previstos na Lei Complementar n.º 001/97, ou que vierem a ser criados legalmente.
+
+
+II –
+
+pagamento de pessoal temporário e necessário à realização de obras e instalações vinculadas aos objetivos previstos no art. 1º. desta Lei;
+
+
+III –
+
+aquisição de material permanente e de consumo e de outros insumos necessários ao desenvolvimento dos programas de Previdência;
+
+
+IV –
+
+construção, reforma, ampliação, aquisição ou locação de imóveis para adequação da rede física do sistema de Previdência Municipal.
+
+
+Parágrafo único
+
+A despesa a que se refere o inciso I deste artigo far-se-á observada a captação de recursos de que trata o art. 3º, I, desta Lei, e os cálculos atuariais realizados anualmente, além dos períodos de carência e os benefícios e vantagens do plano de seguridade social dos servidores que serão absorvidos gradativamente pelo Fundo.
+
+
+Art. 15.
+
+execução orçamentária das receitas se processará através da obtenção do seu produto nas fontes determinadas nesta Lei.
+
+
+##### Seção V — DO CONSELHO DE ADMINISTRAÇÃO
+
+
+Art. 16.
+
+O Fundo será gerido por um Conselho de Administração, composto de cinco membros nomeados pelo Prefeito.
+
+
+Art. 17.
+
+Os Secretários Municipais de Administração e de Finanças, são membros natos do Conselho.
+
+
+Parágrafo único
+
+O exercício da função de conselheiro é gratuita e se constitui em serviço público relevante.
+
+
+Art. 18.
+
+Os servidores municipais elegerão três representantes e respectivos suplentes.
+
+
+§ 1º
+
+A eleição se efetuará mediante voto secreto, de acordo com normas a serem expedidas pelo Poder Executivo, via de portaria baixada com 60 (sessenta) dias de antecedência ao pleito.
+
+
+§ 2º
+
+Somente poderão ser eleitos para o Conselho de Administração, servidores efetivos, com mais de 02 (dois) anos de exercício no serviço público.
+
+
+Art. 19.
+
+O mandato dos membros referidos nos artigos anteriores será de quatro anos, permitida a reeleição.
+
+
+Art. 20.
+
+O Conselho reunir-se-á com a maioria absoluta de seus membros, e as decisões serão tomadas por maioria simples de votos.
+
+
+Art. 21.
+
+O Secretário Municipal de Administração será o Presidente do Conselho.
+
+
+Art. 22.
+
+As reuniões do Conselho serão secretariadas pelo Encarregado do Setor de Previdência, que não terá direito à manifestação ou voto nas deliberações e decisões.
+
+
+Art. 23.
+
+É criado, no âmbito da Secretaria Municipal da Administração da Prefeitura, o Setor de Previdência, inclusive o respectivo cargo de Encarregado, de provimento em comissão, destinado a responder pelo processamento de pedidos de benefícios, e demais atos vinculados à gestão orçamentária, financeira e operacional do Fundo de Seguridade Social dos Servidores Públicos Municipais.
+
+
+Parágrafo único
+
+Preferencialmente, será designado servidor da administração pública direta para o cargo de Encarregado.
+
+
+Art. 24.
+
+Compete ao Conselho de Administração:
+
+
+I –
+
+decidir sobre as aplicações financeiras dos recursos do Fundo;
+
+
+II –
+
+decidir sobre os pedidos de aposentadoria e pensão, nos termos da legislação municipal vigente;
+
+
+III –
+
+analisar, e decidir sobre as solicitações de pagamento de benefícios, solicitados pelos beneficiários ou pela Prefeitura;
+
+
+IV –
+
+declarar a perda da qualidade de pensionista;
+
+
+V –
+
+rever aposentadorias, na forma da legislação vigente, inclusive decidindo sobre sua manutenção ou suspensão;
+
+
+VI –
+
+zelar pela verificação e acompanhamento dos casos de invalidez e interdição previstas em lei;
+
+
+VII –
+
+elaborar e votar o seu Regimento Interno, a ser aprovado pelo Chefe do Poder Executivo;
+
+
+VIII –
+
+Elaborar, aprovar e submeter ao Chefe do Poder Executivo, anualmente, a proposta orçamentária para o exercício seguinte;
+
+
+IX –
+
+solicitar ao Prefeito, com justificativas, a abertura de créditos suplementares e especiais durante a execução do orçamento;
+
+
+X –
+
+propor ao Prefeito, por ocasião da elaboração dos projetos de leis sobre previdência municipal, diretrizes orçamentárias e planos plurianuais, a recomendação de ações, a adoção de medidas, e a inserção de programas e projetos, pertinentes à seguridade social do servidor;
+
+
+XI –
+
+aprovar o Plano de Contas Financeiro, Orçamentário, e Patrimonial do Fundo;
+
+
+XII –
+
+promover anualmente a avaliação técnica e atuarial do Fundo;
+
+
+Parágrafo único
+
+O conselho reunir-se-á ordinariamente, uma vez por mês, e extraordinariamente mediante convocação do seu Presidente ou por solicitação de pelo menos três de seus membros
+
+
+Art. 25.
+
+Compete ao Presidente do Conselho de Administração do Fundo:
+
+
+I –
+
+promover a abertura de conta bancária para a gestão do Fundo;
+
+
+II –
+
+promover anualmente, nos meses de dezembro, a reavaliação atuarial de suas reservas matemáticas, fundos e provisões, no sentido de garantir o equilíbrio econômico- financeiro de seu elenco de benefícios e o futuro cumprimento dos compromissos assumidos para com o seus contribuintes servidores;
+
+
+III –
+
+superintender a administração geral do Fundo de Seguridade Social dos Servidores Públicos Municipais;
+
+
+IV –
+
+elaborar a proposta orçamentária do Fundo;
+
+
+V –
+
+organizar o quadro de pessoal de acordo com o orçamento aprovado;
+
+
+VI –
+
+organizar os serviços de prestação previdenciária ;
+
+
+VII –
+
+organizar os serviços de prestação assistencial quando delegadas ao Fundo;
+
+
+IX –
+
+assinar, em conjunto com o Tesoureiro da Prefeitura, os cheques e demais documentos do Fundo, movimentando as contas existentes;
+
+
+X –
+
+Dispor, mediante prévia autorização do Prefeito Municipal, sobre a contratação de administradores de carteira de investimentos do Fundo de Seguridade Social do Servidores Públicos Municipais, de consultores técnicos especializados e outros serviços de interesse;
+
+
+#### CAPÍTULO III — DAS DISPOSIÇÕES TRANSITÓRIAS
+
+
+Art. 26.
+
+Os recursos a serem despendidos pelo Fundo a título de despesas administrativas de custeio de seu funcionamento, não poderão, em hipótese alguma, exceder a 5% (cinco) por cento de sua arrecadação mensal de contribuições dos servidores e respectivos órgãos e autarquias de lotação.
+
+
+Art. 27.
+
+O pagamento e gratificação natalina aos aposentados e pensionistas terá por base o valor dos proventos do mês de Dezembro de cada ano.
+
+
+Art. 28.
+
+As aposentadorias concedidas com base em contagem recíproca por tempo de serviço deverão evidenciar o tempo de serviço prestado à atividade privada, ou em outros esferas de governo, para que se efetive a compensação financeira prevista no art. 202, § 2º da Constituição Federal.
+
+
+#### CAPÍTULO IV — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 29.
+
+No prazo de doze meses da vigência desta Lei, o Poder Executivo promoverá os cálculos atuariais necessários ao estabelecimento do Plano de Custeio de Benefícios e dos percentuais de contribuição mais adequados à composição de reservas do Fundo.
+
+
+Parágrafo único
+
+Após a fixação da alíquota atuarial, os órgãos da Administração direta e indireta providenciarão, nos doze meses subsequentes após a vigência da lei que fixá-los, a compensação financeira da diferença que se verificar, a maior ou menor daquela fixada no parágrafo 1º do art. 3º desta lei.
+
+
+Art. 30.
+
+Esta Lei entra em vigor em 1.º de Janeiro de 1999, após sua publicação.
+
+
+Art. 31.
+
+Revogam-se as disposições em contrário.
+
+
+Cabeceira Grande (MG),10 de Dezembro de l998.
+
+**ANTONIO NAZARÉ SANTANA MELO PREFEITO MUNICIPAL**
+
+**"Este texto não substitui o original."**
+

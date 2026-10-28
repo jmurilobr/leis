@@ -1,0 +1,108 @@
+---
+titulo: "Lei nº 1.479, de 17 de dezembro de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1479"
+data: "2021-12-17"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/2075"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/724/text"
+sha256_fonte: "c0f326f77691e3e590d95dd9194e4778a9f68476611903a062cbdf7c98d2cc83"
+sha256_texto: "fbef37c17b30250546a23698c9f3b292ff6da9589cc80a62320c2eb37f1ccbd7"
+capturado_em_fonte: "2026-10-27T19:49:33.637670-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.479, de 17 de dezembro de 2021
+
+Cria abono com os recursos do Fundo de Manutenção е Desenvolvimento da Educação Básica e Valorização dos Profissionais da Educação a ser pago aos Profissionais da Educação Básica e dá outras providências.
+
+
+A Câmara Municipal de Buritis, Estado de Minas Gerais, por seus representantes, aprovou e eu, PREFEITO MUNICIPAL, usando da atribuição a mim conferida pelo disposto no inciso VIII, do art. 105 da Lei Orgânica Municipal, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica autorizado o pagamento com recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e Valorização dos Profissionais da Educação – FUNDEB, na forma de abono, em favor dos Profissionais da Educação Básica, da rede de ensino público municipal, em exercício na educação infantil e no ensino fundamental.
+
+
+§ 1º
+
+Consoante disposição inserta no art. 26, parágrafo único, inciso II, da Lei no 14.113/2020, consideram-se Profissionais da Educação Básica aqueles definidos nos termos do art. 61 da Lei nº 9.394, de 20 de dezembro de 1996, assim como aqueles profissionais referidos no art. 1º da Lei nº 13.935, de 11 de dezembro de 2019, em efetivo exercício nas redes escolares de educação básicа.
+
+
+§ 2º
+
+Os profissionais que exercem atividades de natureza técnico-administrativa ou de apoio lotados e em exercício nas escolas ou órgão/unidade administrativa da educação básica podem ser remunerados com a fração dos 70% (setenta por cento) do FUNDEB, tão somente no caso do profissional em questão, possuir ao menos uma das formações exigidas pelo art. 61, da Lei n.º 9.394/1996 ou do art. 1º da Lei nº 13.935/2019.
+
+
+§ 3º
+
+O titular da Secretaria Municipal de Educação, que possua formação técnica ou superior exigida pelo art. 61 da Lei nº 9.394/1996, portanto, integrante da rede de educação, encontra-se em efetivo exercício de atividade de desenvolvimento e manutenção do ensino, fazendo jus ao recebimento do abono.
+
+
+§ 4º
+
+O abono será pago aos servidores abrangidos pela presente Lei e não será incorporado à remuneração, sob nenhuma circunstância.
+
+
+Art. 2º.
+
+O presente abono, em caráter excepcional, será concedido em face do remanescente dos recursos do FUNDEB da parcela de 70% (setenta por cento), sendo pago até o encerramento do exercício financeiro corrente.
+
+
+Art. 3º.
+
+O valor do abono será calculado proporcionalmente, considerando-se:
+
+
+I –
+
+O valor total apurado será dividido pelo total de servidores com direito ao abono, nos termos do disposto na Lei nº 14.113, de 25 de dezembro de 2020;
+
+
+II –
+
+Os servidores da educação contratados temporariamente e por excepcional interesse público, receberão o abono proporcionalmente aos meses trabalhos, conforme sua remuneração;
+
+
+III –
+
+Descontar-se-á do valor do abono devido ao Profissional da Educação Básica, os afastamentos temporários caracterizados como suspensão ou ausência da condição de efetivo exercício, aplicando-se a sistemática utilizada pelo Departamento de Recursos Humanos da Prefeitura Municipal de Buritis - MG, quando da aferição da assiduidade do servidor público municipal.
+
+
+Art. 4º.
+
+O abono previsto nesta Lei poderá ser pago em cota única, objetivando o cumprimento da fração de 70% (setenta por cento).
+
+
+Art. 5º.
+
+Os recursos necessários ao cumprimento desta Lei, serão provenientes das dotações próprias do orçamento do exercício em que se der o abono.
+
+
+Parágrafo único
+
+Para os fins de disposto no caput do presente artigo, fica o Chefe do Poder Executivo Municipal, desde já, autorizado a promover a suplementação das dotações existentes, na forma preconizada em lei, podendo para tanto anular total ou parcialmente as dotações existentes.
+
+
+Art. 6º.
+
+O Prefeito Municipal regulamentará a presente Lei através de decreto devidamente expedido e publicado.
+
+
+Art. 7º.
+
+A presente Lei entrará em vigor na data de sua publicação.
+
+
+**Rufino Clovis Folador Prefeito Municipal em Exercício**
+
+Referente à Proposiçao de Lei nº 029/2021. Autor: Executivo Municipal.
+

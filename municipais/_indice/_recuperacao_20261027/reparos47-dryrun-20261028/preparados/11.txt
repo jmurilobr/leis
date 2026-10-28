@@ -1,0 +1,110 @@
+---
+titulo: "Lei Ordinária nº 54, de 08 de julho de 1974"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "54"
+data: "1974-07-08"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/377"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/891/text"
+sha256_fonte: "5282d3e090a4f984f550c35222b02bcfdda2c02458b6cc2ef9190050f157460d"
+sha256_texto: "0f903c0b0048a705623bf9335def2b6de70bb8ae2ba782d0cc5ae799577efb94"
+capturado_em_fonte: "2026-10-27T22:04:53.926985-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 54, de 08 de julho de 1974
+
+Dispõe sobre a concessão de isenção do Imposto Predial Urbano e dá outras providências.
+
+
+O Prefeito Municipal de Caçu: Faço saber que a Câmara Municipal de Caçu, Estado de Goiás, aprovou e eu sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a conceder isenção do Imposto Predial Urbano, nos exercícios financeiros de 1975 e 1976, para os prédios construídos nos anos de 1974 e 1975 que atendam as seguintes condições mínimas:
+
+
+I –
+
+Área construída de 60m²;
+
+
+II –
+
+Construção em alvenaria, coberta de telhas, piso de cimento queimado e paredes rebocadas e pintadas com tinta à base de água;
+
+
+III –
+
+Instalações hidráulica, sanitária e elétrica, dispensada esta última onde não houver rede de energia.
+
+
+Art. 2º.
+
+A isenção deverá ser requerida antes de iniciada a edificação, instruído o requerimento com a seguinte documentação:
+
+
+I –
+
+prova de propriedade ou domínio do terreno;
+
+
+II –
+
+prova de quitação com a fazenda pública municipal;
+
+
+III –
+
+prova de recolhimento da taxa de licença e fiscalização de construções e obras.
+
+
+Parágrafo único
+
+Recebido o requerimento, o Prefeito mandará vistoriar o local, após o que, não havendo fator impeditivo, autorizará a execução da obra.
+
+
+Art. 3º.
+
+Concluída a construção, o interessado requererá nova vistoria, feita esta, achando-se o prédio em conformidade com o disposto no artigo 1º, o Prefeito concederá a isenção pretendida, determinando a necessária averbação no cadastro imobiliário urbano.
+
+
+Parágrafo único
+
+Não será concedida a isenção se o contribuinte estiver em débito com a municipalidade.
+
+
+Art. 4º.
+
+A isenção só terá vigência a partir do exercício seguinte ao término da construção, não podendo, em nenhuma hipótese, ultrapassar o exercício de 1976.
+
+
+Art. 5º.
+
+As edificações iniciadas antes da publicação desta lei poderão gozar da isenção do Imposto Predial Urbano, desde que preencham as condições mínimas estabelecidas no art. 1º, e dentro do prazo máximo de 30 dias, contando da data de publicação, sejam satisfeitas as exigências contidas no art. 2º.
+
+
+Art. 6º.
+
+As construções de que trata a presente lei sujeitar-se-ão a outras normas de edificação e urbanismo que porventura venham a ser instituídas pelo Município.
+
+
+Art. 7º.
+
+Esta lei entra em vigor nesta data, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Caçu, Estado de Goiás, em 08 de julho de 1974.
+
+
+**Noé Nunes Guimarães**  
+\- Prefeito Municipal -
+

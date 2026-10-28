@@ -1,0 +1,62 @@
+{
+  "path": "municipais/MG/buritis/resolucoes/2015/resolucoes-298-2015-sapl-1790.md",
+  "sha256_preimagem": "658117bb5d1843839002cea3b027912059cdcd9bb01dd3b19bc24d0343096fbb",
+  "preimagem": "municipais/_indice/_recuperacao_20261027/reparos-escapes-ta-seis-v2-20261027/0010-5/preimagem.txt",
+  "candidato": "municipais/_indice/_recuperacao_20261027/reparos-escapes-ta-seis-v2-20261027/0010-5/candidato.txt",
+  "sha256_candidato": "79cac49172ce962919cb41f334edded440e5d84c28c83c7c28e2ad2bd96e7377",
+  "sha256_texto": "6a406a80b3031b5b3410b5646b80ad2205406a56ebf71f49a3a0d1907814a251",
+  "fonte": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/278a76faca281882ba0eb83d13dab7bcf49d0386f8b92714ce68cc3fd13cbc44.html",
+    "url": "https://sapl.buritis.mg.leg.br/norma/1790",
+    "url_final": "https://sapl.buritis.mg.leg.br/ta/2168/text",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "50d3127516bda030cfa29899824bea6fc7e2901ab6feadd7066ce53df646842a",
+    "bytes": 19415,
+    "capturado_em": "2026-10-27T19:57:07.213919-03:00"
+  },
+  "prova_norma": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/a34edad6e61f9b30d1206e78728784287d3a2a80bc7e99fdc9a0b15f7ef71789.json",
+    "url": "https://sapl.buritis.mg.leg.br/api/norma/normajuridica/1790/",
+    "url_final": "https://sapl.buritis.mg.leg.br/api/norma/normajuridica/1790/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f7dbcf5714406db9ec857f441355e1c7af18787718bc50065713b36d9e015b7c",
+    "bytes": 1034,
+    "capturado_em": "2026-10-27T19:57:05.903349-03:00"
+  },
+  "controle_render": "municipais/_indice/_recuperacao_20261027/lotes/ta-commonmark-0010/controle.json",
+  "sha256_controle_render": "9148c01040004210b22909a415c2dbef1f5ab44f02d0a19e3a2640f85e9929f7",
+  "controle_contexto": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0010/controle.json",
+  "sha256_controle_contexto": "13a3b7e4bd29500dec931cf6b6e09a7ad7a04b5cc641a9fc1e402b0e739e0fc9",
+  "materializacao": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0010-v5/resultados.jsonl",
+  "sha256_materializacao": "75e5acff0c738b74a9e232a769cee7c8a4cc57b7b5d65c5d9e89c74929fdc08e",
+  "replay_independente": {
+    "aprovado": true,
+    "igualdade_caracteres_nao_brancos": true,
+    "assinatura_numerica_confere": true,
+    "ativos": [
+      "dptt75515",
+      "dptt75516",
+      "dptt75517",
+      "dptt75518",
+      "dptt75519",
+      "dptt75520",
+      "dptt75521",
+      "dptt75522",
+      "dptt75523"
+    ],
+    "historicos_excluidos": [],
+    "tachados_explicitos_excluidos": 0,
+    "notas_editoriais_excluidas": 0,
+    "normalizacoes_heading": [],
+    "listas": [],
+    "sha256_visivel_fonte": "13c0a2ca39d07b24e92a3cb01f073d533a5fe907689782ca43e1d3d2a8b76c7c",
+    "sha256_visivel_renderizado": "13c0a2ca39d07b24e92a3cb01f073d533a5fe907689782ca43e1d3d2a8b76c7c",
+    "sha256_html_renderizado": "68836aad31ae1566de4fa94c84908715d2cae7ef0036096116429aff3218a2bb",
+    "contexto": null
+  },
+  "esfera": "M confirmada na API",
+  "anexos_proprios": 0,
+  "estado": "candidato privado; ainda exige confronto HEAD e revalidação da preimagem antes da promoção"
+}

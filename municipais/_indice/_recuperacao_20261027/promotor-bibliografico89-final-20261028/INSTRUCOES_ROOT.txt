@@ -1,0 +1,7 @@
+Promotor ROOT-only, dry-run padrão. Repetir com manifesto e SHA externo deste pacote e saída nova: Python bundled -I scripts/promover_observacoes_bibliograficas_ta_20261028.py --manifesto ESTE_DIRETORIO/manifesto.json --sha256 SHA_EXTERNO --saida NOVA_SAIDA_PRIVADA
+Somente ROOT pode acrescentar --apply após revisar. Nunca usar no trabalho de preparação. Nenhuma aplicação foi executada pelo agente.
+Repete todos os 89 gates e preimagens, confirma ausência no índice e dedup HEAD real por OID mais reserva 1.966 qualificada pelo ROOT. Os 47 já publicados são reconciliados em HEAD, sem duplicação. Outras reservas qualificadas podem ser indicadas por --reserva RECIBO SHA.
+Acrescenta só observacao_fonte, fonte_metadados e sha256_metadados_fonte. Observação é literal e atribuída à API HTTP 200; não confirma AEMERJ ou vigência. H1/corpo, campos antigos, identidade, datas e sha256_texto permanecem byte iguais.
+Backups exclusivos, arquivos preparados no mesmo volume, travas consultivas, trocas atômicas por arquivo e rollback conservador. Interferência externa não é sobrescrita no rollback. Não existe uma única transação de rename para todos os arquivos.
+Não fazer staging das preimagens atuais. Somente após promoção ROOT conferir todos os destinos contra promocoes-futuras.json do pacote anterior, usando os SHAs candidatos. Então stage.paths.z é a whitelist NUL completa de artefatos e destinos futuros.
+Não formatar hardbreaks/EOF nem normalizar caracteres/metadados. Repetir os 10 testes do perfil e 4 testes do promotor.

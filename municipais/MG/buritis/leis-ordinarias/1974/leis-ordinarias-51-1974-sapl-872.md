@@ -1,0 +1,129 @@
+---
+titulo: "Lei nº 51, de 28 de julho de 1974"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "51"
+data: "1974-07-28"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/872"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/1189/text"
+sha256_fonte: "28168d1121881b069990ef2e0d9ec6f006c9437e47d241dbde19ede475d4826e"
+sha256_texto: "b70552eaa39b285f0e7abbd5c74ee2f145f7e846b7ccda81d4c95561325d094b"
+capturado_em_fonte: "2026-10-27T20:55:27.996434-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 51, de 28 de julho de 1974
+
+Dispõe sobre autorização para contrato com a Companhia Mineira de Águas e Esgotos-COMAG, e dá outras providências.
+
+
+A câmara municipal de Buritis, aprovou e eu Adair Francisco de Oliveira, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a firmar convênio com a Companhia Mineira de Águas e Esgotos - COMAG - órgão da administração indireta do Estado de Minas Gerais, vinculado ao sistema operacional da saneamento, Habitação e Obras Públicas, nos termos do decreto estadual nº 14.446 de, 13 de abril de 1972, concedendo o direito de implantar, ampliar, e administrar e explorar industrialmente, direta ou indiretamente, com exclusividade, os serviços urbanos de abastecimento de água, na sede deste município (pelo urbanos de abastecimento de água) digo pelo prazo de 30 (trinta) anos, prorrogável por acordo entre as partes.
+
+
+Art. 2º.
+
+Todos os bens e instalações vinculados ou destinado ao serviço de água do município que, direta ou indiretamente, concorram exclusiva e permanentemente, para a captação, adução, tratamento, reservação ou distribuição de água são igualmente concedidos à Companhia Mineira de Águas e Esgotos - COMAG.
+
+
+§ 1º
+
+Os bens municipais que, a critério da concessionária, devam permanecer em serviço, deverão ser incorporados ao patrimônio concessionária, mediante participação acionária do município em seu capital social, após a exata descrição e avaliação dos bens, de acordo com o que dispõe o Decreto nº 2.627, de 26 de setembro de 1940.
+
+
+§ 2º
+
+Os bens municipais que se tornarem desnecessários aos serviços de abastecimento de água da sede do Município, em decorrência da operação do sistema novo, ficarão desafetados de serviço público, podendo o Chefe do Executivo Municipal retirá-los e recolhê-los ao almoxarifado do Município, para aplicações que couberem.
+
+
+§ 3º
+
+A COMAG somente assumirá a exploração dos serviços de água da sede do Município, após a conclusão do novo sistema.
+
+
+Art. 3º.
+
+Se não convier à concessionária o aproveitamento, em seu quadro de empregados, do pessoal que estiver em exercício no sistema Municipal, já implantado, será ele redistribuído por órgãos e entidades do município.
+
+
+Art. 4º.
+
+A Concessionária fica autorizada a fixar, revisar a arrecadar as tarifas referentes aos serviços de água exploração no município de modo que permitam à justa remuneração do capital, o melhoramento e a expansão dos serviços e asseguram o equilíbrio econômico-financeiro do contrato, nos termos do artigo 167 da constituição federal.
+
+
+Parágrafo único
+
+As tarifas, antes de serem aplicadas, serão aprovadas pelos órgãos federais e/ou estaduais competentes.
+
+
+Art. 5º.
+
+Sendo as tarifas calculadas em função do custo do serviço para não operá-las sobremaneira fica a campanha de água e esgotos, COMAG, isenta de todos os tributos municipais durante o prazo da concessão.
+
+
+Art. 6º.
+
+Terminado o prazo da concessão, ou de sua prorrogação, reverterão ao município, mediante indenização, todos os bens e instalações, que direta ou indiretamente concorram, exclusiva e permanentemente, para a captação, adução, tratamento, reservação ou distribuição de água.
+
+
+§ 1º
+
+No contrato de concessão serão estipuladas as condições de pagamento da reversão, que será prévia, em dinheiro e/ou com ações representativas da participação do município no capital social da concessionária.
+
+
+§ 2º
+
+Chegando ao seu termo a concessão, o pessoal em exercício e no sistema municipal de abastecimento de água, cujo o aproveitamento não convier ao município, continuará sob a responsabilidade da concessionária, sem quaisquer ônus para o município.
+
+
+Art. 7º.
+
+A concessionária poderá, independentemente de licença prévia, mas observadas as posturas municipais, fazer obras e instalações nas vias e logradouros públicos, relacionadas com o serviço de abastecimento de água.
+
+
+Art. 8º.
+
+O município fornecerá recursos à concessionária, em dinheiro e sob a forma de subscrição de ações do capital social, desta em valor correspondente a até (vinte por cento) 20% do orçamento do novo sistema de abastecimento de água da sede do município.
+
+
+Parágrafo único
+
+Fica o Poder Executivo autorizado a efetuar pagamento à concessionária, aplicado através da melhor forma possível de direito, de decidindo a fonte e a forma do pagamento dos recursos aqui referidos.
+
+
+Art. 9º.
+
+Em todo investimento a ser feito pela Concessionária nas ampliações posteriores à implantação do novo sistema e no decorrer do prazo da concessão, o município subscreverá ações preferenciais do capital social da concessionária, até o valor de 25% (vinte e cinco por cento) do orçamento das novas ampliações.
+
+
+Art. 10.
+
+Fica o Poder Executivo autorizado a firmar Termo Aditivo do contrato de concessão previsto no Artigo Primeiro, para a implantação, ampliação, administração e exploração do sistema de esgotos sanitários e pluviais da sede do município. Tão logo seja concluído o Plano Estadual de Esgotos, de conformidade com o Plano Nacional de Saneamento Planasa.
+
+
+Art. 11.
+
+Revogadas as disposições em contrário, entrará esta Lei em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Buritis, 28 de julho de 1974.
+
+**ADAIR FRANCISCO OLIVEIRA**
+
+PREFEITO MUNICIPAL
+
+**ANTONIO PEDRO ANDRÉ SILVA**
+
+SECRETÁRIO
+

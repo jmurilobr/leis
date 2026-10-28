@@ -1,0 +1,63 @@
+---
+titulo: "04 - Lei Ordinária nº 10, de 08 de junho de 1971"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "10"
+data: "1971-06-08"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/659"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/648/text"
+sha256_fonte: "f989be52c45b6b9dd7926da2ebccecb25e09ebe45e9d23dca84c960cb47fa30f"
+sha256_texto: "fdfc14c2d6e9cf0cad25a6a3928027dbdbc823e05d95978329851883e9d743ad"
+capturado_em_fonte: "2026-10-28T09:31:09.347348-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 10, de 08 de junho de 1971
+
+Autoriza o Prefeito Municipal de Corbélia a reavaliar vencimentos de funcionários e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou e, Eu Prefeito Municipal sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Fica o Prefeito Municipal de Corbélia, autorizado a reavaliar os vencimentos dos Cargos Auxiliar de Contabilidade, Inspetor de Ensino Primário, Fiscal Geral de Estradas a Saber.
+
+
+Cr$
+
+Auxiliar Contabilidade 400,00
+
+Inspetor de Ensino Primário 300,00
+
+Fiscal Geral de Estradas 550,00
+
+
+Art. 2º.
+
+Esta Lei entrará em vigor a partir da data de sua publicação revogada as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE CORBÉLIA
+
+Em 08 de julho de 1971.
+
+CAMILO DE LELES GAZINEU
+
+Prefeito Municipal
+
+Não substitui o texto publicado no Diário Oficial.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/659/ta
+

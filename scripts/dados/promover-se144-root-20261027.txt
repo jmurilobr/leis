@@ -1,0 +1,63 @@
+from pathlib import Path
+from urllib.parse import urlparse,parse_qs,unquote
+import json,gzip,hashlib,re,subprocess,os,sys
+sha=lambda b:hashlib.sha256(b).hexdigest();base=Path('_fonte/operacao_root_20261027');proof_path=Path('scripts/estados/manifestos/se13-head-dedup-root-20261027.json');proof=json.loads(proof_path.read_text());assert sha(Path(proof['cache']).read_bytes())==proof['sha256_cache'];subprocess.run(['git','diff','--quiet',proof['HEAD'],'HEAD','--','estaduais/SE'],check=True)
+files={};sources=[('scripts/estados/manifestos/se13-proposta-privada-20261027-001.json','9a7d0ea81aadc83e6ea0ad77986d89879adf59ee234a7ea442ac6eef75d7b63e'),('scripts/estados/manifestos/se131-proposta-privada-20261027-003.json','f72e97065e4654a6095614cdbd4786d5d72fe9cdb2bead8d798d16d016b8660a')]
+for mp in ['estaduais/SE/_fonte/auditorias/se13-privado-20261027-001/final/hashes.json','estaduais/SE/_fonte/auditorias/se13-privado-20261027-001/css-suplementar/hashes.json','estaduais/SE/_fonte/auditorias/se131-privado-20261027-002/final/hashes.json']:
+ for p,s in json.loads(Path(mp).read_text()).items():
+  assert sha(Path(p).read_bytes())==s,p
+  if p in files:assert files[p]==s
+  files[p]=s
+ files[mp]=sha(Path(mp).read_bytes())
+def meta(raw):
+ assert raw.startswith(b'---\n');head,body=raw[4:].decode().split('\n---\n',1);m={}
+ for ln in head.splitlines():
+  k,sep,v=ln.partition(':');assert sep and k not in m;v=v.strip();m[k]=json.loads(v) if v.startswith('"') or v in ('true','false','null') else v
+ return m
+def keys(p,m,extra_url=None):
+ parts=Path(p).parts;years={parts[3],str(m.get('data',''))[:4]};out=set()
+ for y in years:
+  if re.fullmatch(r'\d{4}',y) and m.get('numero'):
+   n=re.sub('/'+y+'$','',str(m['numero']).strip());n=re.sub(r'[.\s-]','',n).upper().lstrip('0');out.add(('numero',parts[2],n,y))
+ urls=[v for k,v in m.items() if k.startswith(('fonte','url')) or k=='arquivo']
+ if extra_url:urls.append(extra_url)
+ for v in urls:
+  if not isinstance(v,str) or not v.startswith(('https://','http://')):continue
+  u=urlparse(v)
+  if (u.hostname or '').lower()!='aleselegis.al.se.leg.br':continue
+  if '/arquivo/documents/legislacao/' in u.path.lower():out.add(('arquivo','ALESE',unquote(u.path).lower()))
+  for k,vals in parse_qs(u.query).items():
+   if k.lower()=='id':
+    for val in vals:
+     if val.isdigit():out.add(('id','ALESE',val))
+  match=re.search(r'-id(\d+)\.md$',p)
+  if match:out.add(('id','ALESE',match[1]))
+ return out
+index={};headrows=[]
+with gzip.open(proof['cache'],'rt') as f:
+ for line in f:
+  r=json.loads(line);headrows.append(r)
+  for k in keys(r['path'],r['meta']):index.setdefault(k,[]).append(r['path'])
+assert len(headrows)==9955;pending=[];seen=set();collisions=[]
+for path,digest in sources:
+ raw=Path(path).read_bytes();assert sha(raw)==digest;manifest=json.loads(raw)
+ for r in manifest['documentos']:
+  p=r['path'];b=Path(r['privado']).read_bytes();assert sha(b)==r['sha256_md'] and p not in seen and not Path(p).exists();seen.add(p);m=meta(b);it=r['captura']['item'];assert all(m[k]==it[k] for k in ['numero','data','tipo']) and m['revogada'] is None;ks=keys(p,m,r['captura']['url'])
+  for k in ks:
+   if k in index:collisions.append({'path':p,'key':k,'anteriores':index[k]})
+   index.setdefault(k,[]).append(p)
+  pending.append((p,b,r['sha256_md']))
+assert len(pending)==144 and not collisions,collisions
+for n in [13,131]:
+ replay=[json.loads(l) for l in (base/f'se{n}-replay.jsonl').read_text().splitlines()];assert len(replay)==n and all(r['aceito'] for r in replay)
+css=json.loads(Path('estaduais/SE/_fonte/auditorias/se13-privado-20261027-001/css-suplementar.json').read_text());assert len(css)==13 and all(not r['QA']['retencoes'] and r['QA']['CSS_sem_risco_comprovado'] for r in css)
+print('144 candidatos/fontes/artefatos e replays conferidos,zero aliases contra9955blobsHEAD e entre candidatos;nenhuma escrita.',flush=True)
+if '--apply' not in sys.argv:raise SystemExit(0)
+for p,b,s in pending:
+ target=Path(p);assert target.resolve().is_relative_to(Path.cwd()) and not target.exists();target.parent.mkdir(parents=True,exist_ok=True);temp=target.with_name('.'+target.name+'.se144.tmp');assert not temp.exists()
+ with temp.open('xb') as f:f.write(b);f.flush();os.fsync(f.fileno())
+ assert not target.exists();os.replace(temp,target);assert sha(target.read_bytes())==s;files[p]=s
+for p in [str(proof_path),proof['cache'],'scripts/estados/manifestos/se-pacotes-dedup-ROOT-NUL-20261027-002.json','scripts/estados/manifestos/se13-matrizes-root-20261027.json','scripts/dados/se13-css-testes-root-20261027.txt']:files[p]=sha(Path(p).read_bytes())
+for n in [13,131]:
+ src=base/f'se{n}-replay.jsonl';dst=Path(f'scripts/estados/manifestos/se{n}-replay-root-20261027.jsonl');assert not dst.exists();dst.write_bytes(src.read_bytes());files[str(dst)]=sha(dst.read_bytes())
+receipt=Path('scripts/estados/manifestos/se144-integracao-root-20261027.json');assert not receipt.exists();receipt.write_text(json.dumps({'novas':144,'componentes':[13,131],'HEAD_baseline':proof['HEAD'],'cabecalhos_HEAD':9955,'colisoes':collisions,'criterio':'ROOT repetiu144replays,13matrizesHTML5 e6testesCSS;conferiu fontes/artefatos porSHA e todos candidatos porID/arquivo/tipo/pasta/numero/ano contra metadados completos de blobsHEAD e entre componentes. Copia atomica apenas de bytes privados congelados. Sem equivalencia DOE declarada;revogada null e situacao literal separados. Retidos,corpos anteriores e capturas preservados;metas inalteradas.','sha256':files},ensure_ascii=False,indent=2)+'\n');files[str(receipt)]=sha(receipt.read_bytes());(base/'se144-hashes.json').write_text(json.dumps(files,ensure_ascii=False,indent=2)+'\n');print('144copias atomicas concluidas,sem operacaoGit.',flush=True)

@@ -1,0 +1,106 @@
+---
+titulo: "Lei Complementar nº 8, de 26 de novembro de 2003"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "8"
+data: "2003-11-26"
+municipio: "Bofete"
+uf: "SP"
+codigo_ibge: "3506904"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bofete.sp.leg.br/norma/633"
+fonte_texto: "https://sapl.bofete.sp.leg.br/ta/187/text"
+sha256_fonte: "19f0fc1d83582b6184f38562cd149c032eafe3e1fa720b1943b8dd0618129f02"
+sha256_texto: "78ef997ab0b3113f7197867133d24fbfd91a1d4b5f01e2511e445a031ec1a8eb"
+capturado_em_fonte: "2026-10-27T19:20:55.321554-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 8, de 26 de novembro de 2003
+
+DISPÕE SOBRE CRIAÇÃO E REDUÇÃO DE VAGAS, EXTINÇÃO DE EMPREGOS E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O Prefeito Municipal de Bofete, usando de suas atribuições legais, faz saber que a Câmara Municipal aprova e ele sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Ficam criados no Quadro de Pessoal do Município de Bofete, 09 (nove) vagas nas funções abaixo relacionadas, que passam a integrar no Anexo I ("Quadro de Pessoal" - Empregos de Provimento Permanente e Temporário) regidos pela CLT, com as remunerações e referencias constantes no anexo III, denominado Escala de Vencimentos dos Empregos Permanentes e Temporários.
+
+
+1 (uma) vaga na função de Dentista, REF.G. 1 (uma) vaga na função de Lançador, REF. C. 1 (uma) vaga na função de Mestre de Obras, REF. C. 2 (duas) vagas na função de Fiscal, REF. B. 1 (uma) vaga na função de Agente de Saneamento, REF. B. 1 (uma) vaga na função de Treinador Esportivo, REF. B. 1 (uma) vaga na função de Auxiliar de Setor Pessoal, REF. B. 1 (uma) vaga na função de Auxiliar de Serviços Sociais, REF. B.
+
+
+Art. 2º.
+
+Ficam reduzidas as vagas referentes os empregos de provimento permanente (CLT) abaixo relacionados:
+
+
+1 (uma) vaga na função de Médico, REF.G. 1 (uma) vaga na função de Coordenador de Saúde, REF. C. 1 (uma) vaga na função de Telefonista, REF. B. 1 (uma) vaga na função de Almoxarife, REF. C. 3 (três) vagas na função de Escriturário, REF. B.
+
+
+Art. 3º.
+
+Ficam extintos os empregos de provimento permanente (CLT) abaixo relacionados.
+
+
+1 - O emprego de Técnico de Radiologia, REF.C. 1 - O emprego de Técnico Agrícola, REF. C.
+
+
+Art. 4º.
+
+As despesas decorrentes com a execução desta lei correrão por conta de dotações próprias do orçamento em vigor.
+
+
+Art. 5º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Bofete, Gabinete do Prefeito em 26 de novembro de 2003.  
+  
+José Carlos Roder  
+Prefeito Municipal
+
+
+Registrada em livro próprio, publicada através de afixação em local de costume no prédio da Prefeitura Municipal e arquivada no Cartório de Registro Civil de Tabelionato de Bofete, na data supra.  
+  
+Beneorides Sante Maracajá  
+Chefe da Lançadoria
+
+
+## Anexo I — Quadro de Pessoal
+
+
+Empregos de provimento permanente e temporário, a serem regidos pela Consolidação das Leis do Trabalho - CLT:
+
+<table><tbody><tr><td>Quant.</td><td>Denominação do Cargo</td><td>Ref.</td><td>Quant.</td><td>Denominação do Cargo</td><td>Ref.</td></tr><tr><td>01</td><td>Advogado</td><td>F</td><td>02</td><td>Lançador</td><td>C</td></tr><tr><td>01</td><td>Administrador de Cemitério</td><td>B</td><td>02</td><td>Mecânico</td><td>C</td></tr><tr><td>02</td><td>Agente de Saneamento</td><td>B</td><td>09</td><td>Merendeira</td><td>B</td></tr><tr><td>01</td><td>Almoxarife</td><td>C</td><td>07</td><td>Médico</td><td>G</td></tr><tr><td>02</td><td>Assistente Social</td><td>E</td><td>03</td><td>Mestre de Obras</td><td>C</td></tr><tr><td>01</td><td>Auxiliar de Consultório Odontológico</td><td>B</td><td>27</td><td>Motorista</td><td>C</td></tr><tr><td>02</td><td>Auxiliar de Contabilidade</td><td>C</td><td>01</td><td>Motorista de Gabinete</td><td>D</td></tr><tr><td>12</td><td>Auxiliar de Enfermagem</td><td>B</td><td>01</td><td>Nutricionista</td><td>D</td></tr><tr><td>01</td><td>Auxiliar de Mecânico</td><td>A</td><td>06</td><td>Operador de Máquinas</td><td>C</td></tr><tr><td>32</td><td>Auxiliar de Serviços Gerais</td><td>A</td><td>02</td><td>Orientador Escolar</td><td>C</td></tr><tr><td>03</td><td>Auxiliar de Serviços Sociais</td><td>B</td><td>02</td><td>Patroleiro</td><td>C</td></tr><tr><td>02</td><td>Auxiliar de Setor Pessoal</td><td>B</td><td>06</td><td>Pedreiro</td><td>C</td></tr><tr><td>01</td><td>Auxiliar de Tesouraria</td><td>B</td><td>03</td><td>Professor de Ciências</td><td>5,10 h/a</td></tr><tr><td>12</td><td>Babá</td><td>B</td><td>02</td><td>Professor de Educação Artística</td><td>5,10 h/a</td></tr><tr><td>01</td><td>Bibliotecário</td><td>B</td><td>03</td><td>Professor de Geografia</td><td>5,10 h/a</td></tr><tr><td>01</td><td>Borracheiro</td><td>B</td><td>03</td><td>Professor de História</td><td>5,10 h/a</td></tr><tr><td>02</td><td>Cadastrador</td><td>B</td><td>02</td><td>Professor de Inglês</td><td>5,10h/a</td></tr><tr><td>01</td><td>Carpinteiro</td><td>B</td><td>05</td><td>Professor de Matemática</td><td>5,10 h/a</td></tr><tr><td>01</td><td>Chefe da Lançadoria</td><td>C</td><td>04</td><td>Professor de Português</td><td>5,10 h/a</td></tr><tr><td>01</td><td>Chefe de Oficina</td><td>D</td><td>01</td><td>Professor de Educação Física</td><td>5,10 h/a</td></tr><tr><td>01</td><td>Comprador</td><td>C</td><td>08</td><td>Professor de pré-escolas</td><td>C</td></tr><tr><td>01</td><td>Coordenador de Creches</td><td>c</td><td>41</td><td>Professor I (1ª a 4ª série)</td><td>C</td></tr><tr><td>01</td><td>Coordenador de Saúde</td><td>c</td><td>01</td><td>Psicólogo</td><td>D</td></tr><tr><td>01</td><td>Coordenador Pedagógico</td><td>c</td><td>01</td><td>Secretaria do Gabinete</td><td>D</td></tr><tr><td>04</td><td>Dentista</td><td>G</td><td>01</td><td>Secretário JSM</td><td>B</td></tr><tr><td>02</td><td>Digitador de Computador</td><td>D</td><td>12</td><td>Servente de Pedreiro</td><td>A</td></tr><tr><td>02</td><td>Eletricista</td><td>B</td><td>26</td><td>Serviços Gerais</td><td>A</td></tr><tr><td>01</td><td>Encarregado de Setor de Pessoal</td><td>D</td><td>05</td><td>Técnico em enfermagem</td><td>D</td></tr><tr><td>01</td><td>Encarregado de Turma</td><td>C</td><td>01</td><td>Telefonista</td><td>B</td></tr><tr><td>02</td><td>Enfermeiro</td><td>E</td><td>01</td><td>Tesoureiro</td><td>C</td></tr><tr><td>01</td><td>Engenheiro Civil</td><td>D</td><td>02</td><td>Treinador Esportivo</td><td>D</td></tr><tr><td>01</td><td>Engenheiro Agrônomo</td><td>F</td><td>01</td><td>Veterinário</td><td>F</td></tr><tr><td>17</td><td>Escriturário</td><td>B</td><td>15</td><td>Vigia</td><td>B</td></tr><tr><td>01</td><td>Farmacêutico</td><td>E</td><td>01</td><td>Visitador Domiciliar</td><td>B</td></tr><tr><td>04</td><td>Fiscal</td><td>B</td><td>01</td><td>Visitador Sanitário</td><td>B</td></tr><tr><td>01</td><td>Fonoaudiólogo</td><td>D</td><td>01</td><td>Zelador de Cemitério</td><td>B</td></tr><tr><td>06</td><td>Inspetor de Alunos</td><td>C</td><td>01</td><td>Encarregado de Transportes</td><td>C</td></tr><tr><td>03</td><td>Jardineiro</td><td>A</td><td> </td><td> </td><td> </td></tr></tbody></table>
+
+
+## Anexo II — QUADRO DE PESSOAL
+
+
+Empregos de provimento em comissão, a serem regidos pela Consolidação das Leis do Trabalho - CLT:
+
+<table><tbody><tr><td>Quant.</td><td>Denominação do Cargo</td><td>Ref.</td></tr><tr><td>01</td><td>Assessor Administrativo</td><td>B</td></tr><tr><td>01</td><td>Assessor de Planejamento</td><td>B</td></tr><tr><td>02</td><td>Assessor Jurídico</td><td>A</td></tr><tr><td>01</td><td>Assessor Técnico</td><td>A</td></tr><tr><td>01</td><td>Diretor de Esportes</td><td>B</td></tr><tr><td>01</td><td>Diretor de Educação</td><td>F</td></tr><tr><td>03</td><td>Assessor de Educação</td><td>E</td></tr><tr><td>01</td><td>Assessor de Relações Públicas</td><td>A</td></tr><tr><td>01</td><td>Chefe de Gabinete</td><td>C</td></tr><tr><td>01</td><td>Diretor Clínico</td><td>K</td></tr><tr><td>01</td><td>Diretor de Saúde</td><td>F</td></tr><tr><td>01</td><td>Assessor Social</td><td>C</td></tr><tr><td>02</td><td>Diretor de Obras</td><td>C</td></tr><tr><td>01</td><td>Assessor Administrativo Sênior</td><td>F</td></tr><tr><td>01</td><td>Diretor de Manutenção</td><td>C</td></tr><tr><td>01</td><td>Diretor de Cultura e Lazer</td><td>C</td></tr><tr><td>01</td><td>Diretor Sanitarista</td><td>B</td></tr><tr><td>01</td><td>Assessor Econômico Financeiro</td><td>D</td></tr></tbody></table>
+
+
+## Anexo III
+
+
+Escala de Vencimentos dos Empregos Permanentes e Temporários em Reais (R$)
+
+<table><tbody><tr><td rowspan="2">Referência</td><td colspan="7">Grau</td></tr><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td></tr><tr><td>A</td><td>200,00</td><td>210,00</td><td>220,50</td><td>231,60</td><td>243,20</td><td>255,40</td><td>268,20</td></tr><tr><td>8</td><td>281,70</td><td>295,80</td><td>310,60</td><td>326,20</td><td>342,60</td><td>359,80</td><td>377,80</td></tr><tr><td>C</td><td>396.70</td><td>416,60</td><td>437.50</td><td>459,40</td><td>482,40</td><td>506.60</td><td>532,00</td></tr><tr><td>D</td><td>558,60</td><td>586,60</td><td>616,00</td><td>646,80</td><td>679,20</td><td>713,20</td><td>748,90</td></tr><tr><td>E</td><td>786,40</td><td>825,80</td><td>867,10</td><td>910,50</td><td>956,10</td><td>1.003,90</td><td>1.054,10</td></tr><tr><td>F</td><td>1.106,80</td><td>1.162,20</td><td>1.220,40</td><td>1.281,50</td><td>1.345,60</td><td>1.412,90</td><td>1.483,60</td></tr><tr><td>G</td><td>1.557,80</td><td>1.635,70</td><td>1.717,50</td><td>1.803,40</td><td>1.893,60</td><td>1.988,30</td><td>2.087,80</td></tr><tr><td>H</td><td>2.192,20</td><td>2.301,90</td><td>2.417,00</td><td>2.537,90</td><td>2.664,80</td><td>2.798,10</td><td>2.938,00</td></tr></tbody></table>
+
+
+## Anexo IV
+
+
+Escala de Vencimentos dos Empregos em Comissão em Reais (R$)
+
+<table><tbody><tr><td>Referência</td><td> </td></tr><tr><td>A</td><td>500,00</td></tr><tr><td>B</td><td>700,00</td></tr><tr><td>C</td><td>900,00</td></tr><tr><td>D</td><td>1.100,00</td></tr><tr><td>E</td><td>1.300,00</td></tr><tr><td>F</td><td>1.500.00</td></tr><tr><td>G</td><td>1.700,00</td></tr><tr><td>H</td><td>1.900,00</td></tr><tr><td>I</td><td>2.100,00</td></tr><tr><td>J</td><td>2.300.00</td></tr><tr><td>K</td><td>2.500.00</td></tr></tbody></table>
+

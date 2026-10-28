@@ -1,0 +1,276 @@
+{
+  "HEAD": "1c5dcb84326c899d429470cbea890d16d00eb0bd",
+  "sha256_preimagem": "60b9c427d89bf0df452e33e2ca802b71e0021ad695cb4f1dae364455577ddf2a",
+  "sha256_candidato": "9b8dabfe5617b48d653fab97928d9b6fa587239ec71740b6414d7b99ed2eac6f",
+  "assets": [
+    {
+      "path": "federal/_fonte/auditorias/recuperacao53480_facs_20261027_001/render/p81-esquerda-ato.png",
+      "sha256": "5a867d973682df12b3cdc25c339e6e8026f35e30bb86f3271121c98bb8a8d558",
+      "bytes": 217592,
+      "destino": "federal/anexos/decretos/1964/dec-53480-1964-01-23-p81-coluna-esquerda.png",
+      "pagina_pdf": 135,
+      "rotulo": "Página 81, coluna esquerda: da epígrafe ao início do artigo 1º",
+      "dpi": 300,
+      "recorte_pixels": [
+        200,
+        1380,
+        710,
+        1138
+      ],
+      "operacoes": "Render PDF pelo Poppler; somente recorte quando explicitado; sem edição posterior de pixels."
+    },
+    {
+      "path": "federal/_fonte/auditorias/recuperacao53480_facs_20261027_001/render/p81-direita-ato.png",
+      "sha256": "9f297e1076558b6bbd988cfd31d5866201daad054e39144c12eb998e56a4f358",
+      "bytes": 700746,
+      "destino": "federal/anexos/decretos/1964/dec-53480-1964-01-23-p81-coluna-direita.png",
+      "pagina_pdf": 135,
+      "rotulo": "Página 81, coluna direita: continuação do artigo 1º",
+      "dpi": 300,
+      "recorte_pixels": [
+        900,
+        150,
+        800,
+        2300
+      ],
+      "operacoes": "Render PDF pelo Poppler; somente recorte quando explicitado; sem edição posterior de pixels."
+    },
+    {
+      "path": "federal/_fonte/auditorias/recuperacao53480_facs_20261027_001/render/pagina-0136.png",
+      "sha256": "7254a7be1fcadf91c4cd7ea611e935b4244fab13c74b08bf072532f3112ae6e8",
+      "bytes": 1359171,
+      "destino": "federal/anexos/decretos/1964/dec-53480-1964-01-23-p82.png",
+      "pagina_pdf": 136,
+      "rotulo": "Página 82",
+      "dpi": 300,
+      "recorte_pixels": null,
+      "operacoes": "Render PDF pelo Poppler; somente recorte quando explicitado; sem edição posterior de pixels."
+    },
+    {
+      "path": "federal/_fonte/auditorias/recuperacao53480_facs_20261027_001/render/pagina-0137.png",
+      "sha256": "700a1e1ac8aae1d228d9edd14082fa218f52e53fcf94d345bf5a2d366fa96025",
+      "bytes": 1483552,
+      "destino": "federal/anexos/decretos/1964/dec-53480-1964-01-23-p83.png",
+      "pagina_pdf": 137,
+      "rotulo": "Página 83",
+      "dpi": 300,
+      "recorte_pixels": null,
+      "operacoes": "Render PDF pelo Poppler; somente recorte quando explicitado; sem edição posterior de pixels."
+    },
+    {
+      "path": "federal/_fonte/auditorias/recuperacao53480_facs_20261027_001/render/pagina-0138.png",
+      "sha256": "49c99647a6751f9ebc764f5c28ab30fbff33519c7f6b9a9f4a7ad469bfe905d5",
+      "bytes": 686043,
+      "destino": "federal/anexos/decretos/1964/dec-53480-1964-01-23-p84.png",
+      "pagina_pdf": 138,
+      "rotulo": "Página 84",
+      "dpi": 300,
+      "recorte_pixels": null,
+      "operacoes": "Render PDF pelo Poppler; somente recorte quando explicitado; sem edição posterior de pixels."
+    },
+    {
+      "path": "federal/_fonte/auditorias/recuperacao53480_facs_20261027_001/render/pagina-0139.png",
+      "sha256": "40713332362f9d94696d7617fb9bd65badf5b3e68898fc515575d5f981d1af4f",
+      "bytes": 1291700,
+      "destino": "federal/anexos/decretos/1964/dec-53480-1964-01-23-p85.png",
+      "pagina_pdf": 139,
+      "rotulo": "Página 85",
+      "dpi": 300,
+      "recorte_pixels": null,
+      "operacoes": "Render PDF pelo Poppler; somente recorte quando explicitado; sem edição posterior de pixels."
+    },
+    {
+      "path": "federal/_fonte/auditorias/recuperacao53480_facs_20261027_001/render/pagina-0140.png",
+      "sha256": "262064de7778d461570adcabe1b3df0fe19a163c4091b737273474b576072605",
+      "bytes": 1317540,
+      "destino": "federal/anexos/decretos/1964/dec-53480-1964-01-23-p86.png",
+      "pagina_pdf": 140,
+      "rotulo": "Página 86",
+      "dpi": 300,
+      "recorte_pixels": null,
+      "operacoes": "Render PDF pelo Poppler; somente recorte quando explicitado; sem edição posterior de pixels."
+    },
+    {
+      "path": "federal/_fonte/auditorias/recuperacao53480_facs_20261027_001/render/pagina-0141.png",
+      "sha256": "f8393e34ce0f9ab84557f33ce2a7a489a93be3a42ba2ada69f1b8c41e4e8f6e0",
+      "bytes": 1355415,
+      "destino": "federal/anexos/decretos/1964/dec-53480-1964-01-23-p87.png",
+      "pagina_pdf": 141,
+      "rotulo": "Página 87",
+      "dpi": 300,
+      "recorte_pixels": null,
+      "operacoes": "Render PDF pelo Poppler; somente recorte quando explicitado; sem edição posterior de pixels."
+    },
+    {
+      "path": "federal/_fonte/auditorias/recuperacao53480_facs_20261027_001/render/pagina-0142.png",
+      "sha256": "d770eeabf8698b9c152daa23d34af03acff588d83814cbbd690ce7e39fffe2c5",
+      "bytes": 1468138,
+      "destino": "federal/anexos/decretos/1964/dec-53480-1964-01-23-p88.png",
+      "pagina_pdf": 142,
+      "rotulo": "Página 88",
+      "dpi": 300,
+      "recorte_pixels": null,
+      "operacoes": "Render PDF pelo Poppler; somente recorte quando explicitado; sem edição posterior de pixels."
+    },
+    {
+      "path": "federal/_fonte/auditorias/recuperacao53480_facs_20261027_001/render/pagina-0143.png",
+      "sha256": "13890e6b06eda139170556d8a63632747e59b46d9361ad6f2a563449f58acad4",
+      "bytes": 1392622,
+      "destino": "federal/anexos/decretos/1964/dec-53480-1964-01-23-p89.png",
+      "pagina_pdf": 143,
+      "rotulo": "Página 89",
+      "dpi": 300,
+      "recorte_pixels": null,
+      "operacoes": "Render PDF pelo Poppler; somente recorte quando explicitado; sem edição posterior de pixels."
+    },
+    {
+      "path": "federal/_fonte/auditorias/recuperacao53480_facs_20261027_001/render/pagina-0144.png",
+      "sha256": "3df49dd7392eb6ae6ec0d8c58293aaeb175516e54c73946acdb6ceb7e67c406a",
+      "bytes": 595873,
+      "destino": "federal/anexos/decretos/1964/dec-53480-1964-01-23-p90.png",
+      "pagina_pdf": 144,
+      "rotulo": "Página 90",
+      "dpi": 300,
+      "recorte_pixels": null,
+      "operacoes": "Render PDF pelo Poppler; somente recorte quando explicitado; sem edição posterior de pixels."
+    },
+    {
+      "path": "federal/_fonte/auditorias/recuperacao53480_facs_20261027_001/render/pagina-0145.png",
+      "sha256": "c22d20e0b4997f3487bdd5b7e1f6244c41fd292c4183ab90daa84c76818637a6",
+      "bytes": 848151,
+      "destino": "federal/anexos/decretos/1964/dec-53480-1964-01-23-mapa1.png",
+      "pagina_pdf": 145,
+      "rotulo": "Mapa 1, folha não numerada com referência impressa à página 90",
+      "dpi": 300,
+      "recorte_pixels": null,
+      "operacoes": "Render PDF pelo Poppler; somente recorte quando explicitado; sem edição posterior de pixels."
+    },
+    {
+      "path": "federal/_fonte/auditorias/recuperacao53480_facs_20261027_001/render/pagina-0146.png",
+      "sha256": "e746f7c636b98016b9d45a41b6a4cb4fc05bdaae9ed0e7840ef672e3b64cb699",
+      "bytes": 881941,
+      "destino": "federal/anexos/decretos/1964/dec-53480-1964-01-23-mapa2.png",
+      "pagina_pdf": 146,
+      "rotulo": "Mapa 2, folha não numerada com referência impressa à página 90",
+      "dpi": 300,
+      "recorte_pixels": null,
+      "operacoes": "Render PDF pelo Poppler; somente recorte quando explicitado; sem edição posterior de pixels."
+    },
+    {
+      "path": "federal/_fonte/auditorias/recuperacao53480_facs_20261027_001/render/pagina-0147.png",
+      "sha256": "20d393ba59a9525728fa1c9bf12224f00c3e15c75465a8eff3eaef009fff758a",
+      "bytes": 825657,
+      "destino": "federal/anexos/decretos/1964/dec-53480-1964-01-23-mapa3.png",
+      "pagina_pdf": 147,
+      "rotulo": "Mapa 3, folha não numerada com referência impressa à página 90",
+      "dpi": 300,
+      "recorte_pixels": null,
+      "operacoes": "Render PDF pelo Poppler; somente recorte quando explicitado; sem edição posterior de pixels."
+    },
+    {
+      "path": "federal/_fonte/auditorias/recuperacao53480_facs_20261027_001/render/pagina-0148.png",
+      "sha256": "2be457ee1bc9537e4f66a208cab1c74f0eb342640b31ea5643b943af39d64e66",
+      "bytes": 1183717,
+      "destino": "federal/anexos/decretos/1964/dec-53480-1964-01-23-mapa4.png",
+      "pagina_pdf": 148,
+      "rotulo": "Mapa 4, folha não numerada com referência impressa à página 90",
+      "dpi": 300,
+      "recorte_pixels": null,
+      "operacoes": "Render PDF pelo Poppler; somente recorte quando explicitado; sem edição posterior de pixels."
+    },
+    {
+      "path": "federal/_fonte/auditorias/recuperacao53480_facs_20261027_001/render/pagina-0149.png",
+      "sha256": "07e156c8220f36d91e36a082764fec9cab95bf4430a8218a59b46b744536a771",
+      "bytes": 1085096,
+      "destino": "federal/anexos/decretos/1964/dec-53480-1964-01-23-mapa5.png",
+      "pagina_pdf": 149,
+      "rotulo": "Mapa 5, folha não numerada com referência impressa à página 90",
+      "dpi": 300,
+      "recorte_pixels": null,
+      "operacoes": "Render PDF pelo Poppler; somente recorte quando explicitado; sem edição posterior de pixels."
+    },
+    {
+      "path": "federal/_fonte/auditorias/recuperacao53480_facs_20261027_001/render/pagina-0150.png",
+      "sha256": "d2fc726f2cfdcdb9cd48b03e3af59765dbd3c75aafa517eadfd4e01aa51a6b37",
+      "bytes": 82618,
+      "destino": "federal/anexos/decretos/1964/dec-53480-1964-01-23-mapa6.png",
+      "pagina_pdf": 150,
+      "rotulo": "Mapa 6, folha não numerada com referência impressa à página 90",
+      "dpi": 300,
+      "recorte_pixels": null,
+      "operacoes": "Render PDF pelo Poppler; somente recorte quando explicitado; sem edição posterior de pixels."
+    },
+    {
+      "path": "federal/_fonte/auditorias/recuperacao53480_facs_20261027_001/render/pagina-0151.png",
+      "sha256": "3d77070bcd22405cffa9936d90b7a106b3fdfda9381aace39970e3549abf7e55",
+      "bytes": 770148,
+      "destino": "federal/anexos/decretos/1964/dec-53480-1964-01-23-mapa7.png",
+      "pagina_pdf": 151,
+      "rotulo": "Folha sem numeração entre os Mapas 6 e 8: Instruções para preenchimento do boletim de merecimento",
+      "dpi": 300,
+      "recorte_pixels": null,
+      "operacoes": "Render PDF pelo Poppler; somente recorte quando explicitado; sem edição posterior de pixels."
+    },
+    {
+      "path": "federal/_fonte/auditorias/recuperacao53480_facs_20261027_001/render/pagina-0152.png",
+      "sha256": "f2fafa05c44d2497883ebccb32bc0eb107374f516d069f81b840e3e4996d35ea",
+      "bytes": 721012,
+      "destino": "federal/anexos/decretos/1964/dec-53480-1964-01-23-mapa8.png",
+      "pagina_pdf": 152,
+      "rotulo": "Mapa 8, folha não numerada com referência impressa à página 90",
+      "dpi": 300,
+      "recorte_pixels": null,
+      "operacoes": "Render PDF pelo Poppler; somente recorte quando explicitado; sem edição posterior de pixels."
+    },
+    {
+      "path": "federal/_fonte/auditorias/recuperacao53480_facs_20261027_001/render/pagina-0153.png",
+      "sha256": "e4e85eb8a753bc9da1107a15b74472dc1bb6d47f82982bea744fd9b71d7417e4",
+      "bytes": 663488,
+      "destino": "federal/anexos/decretos/1964/dec-53480-1964-01-23-mapa9.png",
+      "pagina_pdf": 153,
+      "rotulo": "Mapa 9, folha não numerada com referência impressa à página 90",
+      "dpi": 300,
+      "recorte_pixels": null,
+      "operacoes": "Render PDF pelo Poppler; somente recorte quando explicitado; sem edição posterior de pixels."
+    }
+  ],
+  "remover_pendencia": [
+    {
+      "path": "federal/decretos/1964/dec-53480-1964-01-23.md",
+      "sha256_md": "60b9c427d89bf0df452e33e2ca802b71e0021ad695cb4f1dae364455577ddf2a",
+      "estado": "modelo_proprio_ausente_na_transcricao",
+      "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+      "evidencia": {
+        "manifesto": "federal/_overlay_modelos_proprios_anteriores_20261020_002.json",
+        "sha256_manifesto": "317ab68dcaf4934f2c1e2e07db1a19ca998eaa4f0235a5f0d588b7138743197a",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1964-01-23;53480",
+        "sha256_fonte_html": "3f7274a697b6d30c61a29e737137c09cbd1016adde67c37b4fabebeda5a071d8",
+        "trecho": {
+          "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
+          "remissao": ", cada repreensao correspondera a dois pontos, cada dia de suspensao a tres, e cada destituicao de funcao a dez pontos.\nart. 32. o merecimento do funcionario, na classe a que pertencer, sera apurado semestralmente, atraves do boletim de merecimento, conforme modelo anexo.\nart. 33. as condicoes essenciais de merecimento serao aferidas pelo chefe imediato do funcionario e as condicoes comple",
+          "fecho": "brasilia, em 23 de janeiro de 1964; 143º da independencia e 76º da republica.",
+          "apos_fecho": [
+            "joao goulart",
+            "aberlado jurema",
+            "sylvio borges de souza motta",
+            "jair ribeiro",
+            "joao augusto de araujo castro",
+            "ney galvao",
+            "expedito machado",
+            "oswaldo lima filho",
+            "julio furquim sambaquy",
+            "amaury silva",
+            "anysio botelho",
+            "wilson fadul",
+            "antonio de oliveira brito",
+            "egydio michaelsen",
+            "<<anexos>>"
+          ],
+          "estado": "ausencia_na_transcricao"
+        }
+      }
+    }
+  ],
+  "criterio": "ROOTviu20imagens+capa/índicesIX/X/scanoriginal/crop600. Epígrafe53.480; notas antigas53.490 invalidadas por sucessores. CorpoArt1–82eassinaturas+modelos completos da mesma edição CLBR. Mapa7 identificado pela posição/título sem inventar rodapé. EdiçãoNormas anterior integral embackup; não mesclarcorpos e nãocertificarDOUretificação/vigência.",
+  "sha256_recibo_render": "b0f9c65e0d9e117b2118738ea7b0feccd5ca650849567f16fc5b575fc8f63e52"
+}

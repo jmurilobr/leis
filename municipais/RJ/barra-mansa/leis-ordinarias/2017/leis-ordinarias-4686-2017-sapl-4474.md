@@ -1,0 +1,126 @@
+---
+titulo: "Lei Ordinária nº 4.686, de 14 de dezembro de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4686"
+data: "2017-12-14"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/4474"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/876/text"
+sha256_fonte: "c343252dcc97c2be48b238034138e34b3ccb62da2edadb09ca5379fe12cf109e"
+sha256_texto: "4d929815aad7abfff7c486fb43278b81aac9613ad2685142c639d26926ec8493"
+capturado_em_fonte: "2026-10-27T17:38:53.819493-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.686, de 14 de dezembro de 2017
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI Nº4686, DE 14 DE DEZEMBRO DE 2017.
+
+
+“Fixa os vencimentos dos Cargos Efetivos da Câmara Municipal de Barra Mansa, criados pela Resolução 074/2017”.
+
+
+Art. 1º.
+
+Ao vencimentos básicos dos cargos efetivos da Câmara Municipal de Barra Mansa, criados pela Resolução Nº 074/2017, serão fixados de acordo a tabela de vencimentos das cargos efetivos, que faz parte integrante desta Lei, conforme abaixo:
+
+
+a)
+
+Um cargo de Contabilista do Controle Interno – Referência V – letra i;
+
+
+b)
+
+Um cargo de Procurador – Referência V – letra i;
+
+
+c)
+
+Um cargo de Oficial de Almoxarifado – Referência V – letra i;
+
+
+d)
+
+Um cargo de Oficial de Arquivo – Referência V – letra i;
+
+
+e)
+
+Um cargo de Oficial de Patrimônio – Referência V – letra i;
+
+
+f)
+
+Um cargo de Analista de Informática – Referência V – letra i;
+
+
+g)
+
+Um cargo de Operador de Som, Câmera e Radiodifusão – Referência V – letra i;
+
+
+h)
+
+Dois cargos de Analista de Compras, Licitação e Contratos – Referência V - letra i;
+
+
+i)
+
+Um cargo de Secretário de Atas – Referência V – letra i;
+
+
+j)
+
+Um cargo de Auxiliar Administrativo – Referência IV – letra i;
+
+
+Art. 2º.
+
+Revogada as disposições em contrario, esta lei entra em vigor na data da sua publicação.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 14 DE DEZEMBRO DE 2017.
+
+
+RODRIGO DRABLE COSTA  
+PREFEITO
+
+
+## Anexo I — TABELA DE VENCIMENTOS DOS SERVIDORES EFETIVOS
+
+
+REFERÊNCIA: NÍVEL II
+
+LETRA:
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td>I</td><td>J</td><td>L</td><td>M</td><td>N</td><td>O</td><td>P</td><td>Q</td><td>R</td><td>S</td></tr><tr><td>R$968,00</td><td>R$1.016,40</td><td>R$1.067,22</td><td>R$1.120,58</td><td>R$1.176,61</td><td>R$1.235,44</td><td>R$1.297,21</td><td>R$1.362,07</td><td>R$1.430,18</td><td>R$1.501,69</td></tr></tbody></table>
+
+REFERÊNCIA: NÍVEL III
+
+LETRA:
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td>I</td><td>J</td><td>L</td><td>M</td><td>N</td><td>O</td><td>P</td><td>Q</td><td>R</td><td>S</td></tr><tr><td>R$1.210,00</td><td>R$1.270,50</td><td>R$1.334,03</td><td>R$1.400,73</td><td>R$1.470,76</td><td>R$1.544,30</td><td>R$1.621,52</td><td>R$1.702,59</td><td>R$1.787,72</td><td>R$1.877,11</td></tr></tbody></table>
+
+REFERÊNCIA: NÍVEL IV
+
+LETRA:
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td>I</td><td>J</td><td>L</td><td>M</td><td>N</td><td>O</td><td>P</td><td>Q</td><td>R</td><td>S</td></tr><tr><td>R$1.633,50</td><td>R$1.715,18</td><td>R$1.800,93</td><td>R$1.890,98</td><td>R$1.985,53</td><td>R$2.084,81</td><td>R$2.189,05</td><td>R$2.298,50</td><td>R$2.413,42</td><td>R$2.534,09</td></tr></tbody></table>
+
+REFERÊNCIA: NÍVEL V
+
+LETRA:
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col></colgroup><tbody><tr><td>I</td><td>J</td><td>L</td><td>M</td><td>N</td><td>O</td><td>P</td><td>Q</td><td>R</td><td>S</td></tr><tr><td>R$2.205,23</td><td>R$2.315,49</td><td>R$2.431,27</td><td>R$2.552,83</td><td>R$2.680,47</td><td>R$2.814,49</td><td>R$2.955,22</td><td>R$3.102,98</td><td>R$3.258,13</td><td>R$3.421,04</td></tr></tbody></table>
+

@@ -1,0 +1,28 @@
+---
+titulo: "CONVÊNIO ICMS Nº 104, DE 4 DE SETEMBRO DE 2026"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "104"
+data: "2026-09-04"
+revogada: null
+versao_texto: "Texto e notas oficiais do portal CONFAZ conforme a captura; sem certificação de vigência."
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV104_26"
+sha256_html_fonte: "699399d5d275e8001b8f8421202bb14c77e3b638c324ebab67cd133b0ac5dec6"
+sha256_texto: "1a5330df366db44749c379f09e0132f7bbc7d761a13a047e579bd4126de71df1"
+baixado_em: "2026-10-27"
+representacao_corpo: "html-nativo-confaz-piloto-v1"
+observacao_captura: "timestamp original do cliente com fuso, convertido para America/Recife"
+observacao_efeitos: "Condições de ratificação e produção de efeitos preservadas literalmente. Nenhuma data de vigência calculada."
+publicacao_fonte: "Publicado no DOU de 09.09.26, pelo despacho 40/26. | Ratificação Nacional no DOU de 28.09.26, pelo Ato Declaratório 20/26."
+---
+# CONVÊNIO ICMS Nº 104, DE 4 DE SETEMBRO DE 2026
+
+<div id="parent-fieldname-text"><p class="A1-1TituloAcordo">CONVÊNIO ICMS Nº 104, DE 4 DE SETEMBRO DE 2026</p>
+<p class="A2DataPublicacao">Publicado no DOU de 09.09.26, pelo despacho <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/despacho/2026/dp040_26" target="_self" title="despacho 40/26">40/26</a>.</p>
+<p class="A2DataPublicacao">Ratificação Nacional no DOU de 28.09.26, pelo Ato Declaratório <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/atos-declaratorios/2026/ad020_26" target="_self" title="ato delcaratorio 20/26">20/26</a>.</p>
+<p class="A3Ementa">Autoriza a concessão de isenção do ICMS nas operações internas com areia, piçarra, barro e saibro promovidas pelo extrator e destinadas a empresas de construção civil cuja atividade principal esteja enquadrada nas divisões 41 e 42 da CNAE.</p>
+<p class="A5-1TextoAcordo"><b>O</b> <b>Conselho Nacional de Política Fazendária – CONFAZ,</b> na sua 202ª Reunião Ordinária, realizada em Maceió, AL, no dia 4 de setembro de 2026, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte</p>
+<p class="A4AcordoTipo">CONVÊNIO</p>
+<p class="A5-1TextoAcordo"><b>Cláusula primeira </b>Os Estados do Acre e Alagoas ficam autorizados a conceder isenção do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS – incidente nas operações internas com areia, piçarra, barro e saibro, “in natura”, promovidas pelo extrator e destinadas a empresas de construção civil cuja atividade principal esteja enquadrada nas divisões 41 e 42 da Classificação Nacional de Atividades Econômicas – CNAE.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula segunda </b>A legislação das unidades federadas poderá estabelecer condições e limites para a fruição do benefício previsto neste convênio.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula terceira </b>Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos até 31 de dezembro de 2028.</p></div>

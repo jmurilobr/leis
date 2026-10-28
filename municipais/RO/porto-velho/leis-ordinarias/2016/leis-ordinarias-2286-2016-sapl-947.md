@@ -1,0 +1,116 @@
+---
+titulo: "Lei nº 2.286, de 06 de abril de 2016"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2286"
+data: "2016-04-06"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/947"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/2366/text"
+sha256_fonte: "f47acb4b22940f7b5ba74e1cf6e7dfebe09eb9a69502b547b2ec2945e7fb5f46"
+sha256_texto: "0d09c3a13d16938222df2a953426b31115f5fa074a2450ae7927346a67856335"
+capturado_em_fonte: "2026-10-27T20:49:17.292377-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 2.286, de 06 de abril de 2016
+
+“Dispõe sobre a instalação obrigatória de câmeras de segurança nos veículos do sistema de transporte coletivo de passageiros no Município de Porto Velho/RO, e dá outras providências”.
+
+
+**O PRESIDENTE DA CÂMARA MUNICIPAL DE PORTO VELHO**, no uso das atribuições que lhe confere os §§ 4º e 6º, do artigo 72 da Lei Orgânica do Município, combinado com os §§ 4º e 6º, do art. 165 da Resolução nº. 254/CMPV-91 -REGIMENTO INTERNO, PROMULGA a seguinte
+
+**LEI:**
+
+
+Art. 1º.
+
+Os veículos destinados ao transporte coletivo de passageiros que pertençam ou estejam à disposição das empresas concessionárias ou permissionárias do serviço de transporte público, deverão ser munidos com equipamento de segurança consiste em câmera de vídeo, com transmissão de imagens do interior do veículo em tempo real.
+
+
+Parágrafo único
+
+O sistema de monitoramento de que trata o caput deste artigo se destina exclusivamente a preservação da segurança dos passageiros e a prevenção contra a prática de atos ilícitos que ponham em risco a segurança dos usuários e funcionários do sistema de transporte público.
+
+
+Art. 2º.
+
+A implantação e o monitoramento do sistema serão efetuados de modo a obedecer à técnica mais adequada a boa prática operacional, através de equipamentos necessários ao cumprimento dos objetivos do sistema.
+
+
+Parágrafo único
+
+No sistema de monitoramento deverá constar, pelo menos, a instalação de equipamentos de transmissão de imagens que possibilite a gravação das mesmas, que deverão ser armazenadas pelo prazo mínimo de 30 (trinta) dias.
+
+
+Art. 3º.
+
+As imagens produzidas e armazenadas pelo sistema de que trata esta Lei são de responsabilidade do Município, e não poderão ser exibidas ou disponibilizadas a terceiros, exceto por meio de requisição formal devidamente justificada, e em caso de investigação policial ou para instrução de processo judicial.
+
+
+§ 1º
+
+A concessionária ou permissionária detentora das imagens deverá acondicionar as gravações em meio que preserve a segurança das informações.
+
+
+§ 2º
+
+Em caso de transgressão ao contido no parágrafo único do art. 1º desta Lei, a concessionária ou permissionária é obrigada a comunicar imediatamente as ocorrências aos órgãos de segurança pública do Município e do Estado.
+
+
+§ 3º
+
+Para a garantia da inviolabilidade dos dados, as imagens e dados deverão ser encriptados, com o nível de segurança garantido através de senhas biométricas e/ou chaves biométricas.
+
+
+Art. 4º.
+
+A implantação dos equipamentos será custeada pela concessionária ou permissionária de transporte coletivo e serão realizadas por etapas, priorizando as linhas consideradas mais críticas pelo maior número de prática de delitos, na forma estipulada por regulamento expedido pelo Poder Público Municipal.
+
+
+Art. 5º.
+
+É obrigatória a fixação de aviso informando a existência de monitoramento por meio de câmeras de vídeo no local.
+
+
+Art. 6º.
+
+É vedada a instalação de câmeras de vídeo em ambientes de acesso e uso/restrito.
+
+
+Art. 7º.
+
+O descumprimento ao estipulado nesta Lei acarretará a empresa concessionária ou permissionária de transporte coletivo multa de R$ 1.000,00 (mil reais) por cada autuação, devendo ser revertida em favor de programas municipais de segurança no trânsito ou fundos equivalentes.
+
+
+Art. 8º.
+
+A instalação e manutenção desses equipamentos não poderão ser utilizadas como justificativa para aumento da tarifa do transporte coletivo.
+
+
+Art. 9º.
+
+O Poder Executivo deverá expedir a norma regulamentadora desta Lei no prazo de 90 (noventa) dias a contar de sua publicação.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Câmara Municipal de Porto Velho, 06 de abril de 2016.
+
+**Vereador Jurandir Rodrigues de Oliveira**
+
+**Presidente**
+
+Projeto de Lei nº. 2.963/2013
+
+Ver. Márcio Pacele - PSB
+

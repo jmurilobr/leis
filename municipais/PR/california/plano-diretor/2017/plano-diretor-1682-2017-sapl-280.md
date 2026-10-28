@@ -1,0 +1,1638 @@
+---
+titulo: "Lei Ordinária Municipal nº 1.682, de 05 de dezembro de 2017"
+tipo: "Plano diretor"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "1682"
+data: "2017-12-05"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/280"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/341/text"
+sha256_fonte: "23664348887ae5a3dd22472306d55265d0d604c5f8f79b062b2327eb8ac70172"
+sha256_texto: "6dd7630336c347735381ffef1ebbfd90ab1da36e8f8115c9fb3216cf85d273f5"
+capturado_em_fonte: "2026-10-27T22:33:03.842966-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 1.682, de 05 de dezembro de 2017
+
+DISPÕE SOBRE O PLANO DIRETOR DE USO E OCUPAÇÃO DO SOLO DO MUNICÍPIO DE CALIFÓRNIA.
+
+
+A CÂMARA MUNICIPAL APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
+
+
+#### CAPÍTULO I — Das Disposições Preliminares
+
+
+Art. 1º.
+
+Passa a valer na íntegra a Lei Nº 1117/2006, a seguir descrita, que dispõe sobre o PLANO DIRETOR DE USO E OCUPAÇÃO DO SOLO DO MUNICÍPIO DE CALIFÓRNIA, o qual instituiu e estabeleceu as normas, os princípios básicos e as diretrizes para sua implantação e execução, norteada por estudos técnicos essenciais para criação do Plano, ante a nulidade absoluta da Lei Nº 1564/2015
+
+
+Art. 2º.
+
+Esta Lei, fundamentada na Constituição Federal, artigos 182 e 183, na Constituição Estadual, na Lei Federal 10.257/01 – Estatuto da Cidade e na Lei Orgânica do Município, institui o Plano Diretor de Uso e Ocupação do Solo (PDUOS) do Município de Califórnia, estabelece as normas, os princípios básicos e as diretrizes para sua implantação e execução.
+
+
+Parágrafo único
+
+O Plano Diretor de Uso e Ocupação do Solo (PDUOS) do Município é o instrumento técnico-administrativo destinado a ordenar, promover e controlar o desenvolvimento urbanístico do Município, baseado nas condições socioeconômicas locais.
+
+
+Art. 3º.
+
+O Plano Diretor de Uso e Ocupação do Solo (PDUOS) do Município de Califórnia é parte integrante do processo de planejamento municipal, devendo o plano plurianual, as diretrizes orçamentárias e o orçamento anual incorporar as políticas públicas, programas, projetos, planos, diretrizes e as prioridades nele contidas.
+
+
+Art. 4º.
+
+As políticas, diretrizes, normas, planos e programas deverão atender o que está estabelecido nesta Lei Complementar, e nas leis que integram o Plano Diretor de Uso e Ocupação do Solo (PDUOS) do Município de Califórnia.
+
+
+Art. 5º.
+
+O Plano Diretor de Uso e Ocupação do Solo (PDUOS) do Município é composto fundamentalmente das seguintes leis e códigos:
+
+
+a)
+
+Lei do Plano Diretor de Uso e Ocupação do Solo (PDUOS) do Município, que fixa os objetivos, as diretrizes e estratégias do PDUOS;
+
+
+b)
+
+Lei do Zoneamento de Uso e Ocupação do Solo, que classifica e regulamenta a modalidade, a intensidade e a qualidade do uso e ocupação do solo urbano e rural;
+
+
+c)
+
+Lei de Parcelamento do Solo Urbano, que regula os loteamentos, desmembramentos e remembramentos nas Zonas Urbanas;
+
+
+d)
+
+Lei do Sistema Viário, que faz a classificação e hierarquiza o sistema viário municipal, de acordo com as categorias de vias;
+
+
+e)
+
+Lei do Perímetro Urbano, que delimita dentro do município áreas urbanas;
+
+
+f)
+
+Código de Obras, que regulamenta as construções, especialmente com vistas à sua segurança e habitabilidade;
+
+
+g)
+
+Código de Posturas, que estabelece as normas de polícia administrativa, a cargo do Município, em matéria de higiene, segurança, ordem pública e bem estar público;
+
+
+§ 1º
+
+Os componentes do PDUOS referidos nos incisos I a VII, deste artigo poderão ser aprovados independentes uns dos outros, permitindo a inclusão dos já existentes e aprovados por leis anteriores.
+
+
+§ 2º
+
+Outras leis e decretos poderão vir a integrar o Plano Diretor de Uso e Ocupação do Solo (PDUOS) do Município de Califórnia, desde que não contrariando a presente Lei Complementar e somente se:
+
+
+a)
+
+Tratem de matéria pertinente ao desenvolvimento municipal e às ações de planejamento municipal;
+
+
+b)
+
+Sejam Leis complementares, observando o rito descrito na Lei Orgânica do Município;
+
+
+c)
+
+Mencionem expressamente em seu texto a condição de integrantes, do conjunto de leis componentes do Plano de Uso e Ocupação do Solo (PDUOS);
+
+
+d)
+
+Definam as ligações existentes e a compatibilidade entre seus dispositivos e os das outras leis, já componentes do Plano, fazendo remissão, quando for o caso, aos artigos das demais leis ou decretos regulamentadores das ações definidoras na presente Lei Complementar.
+
+
+Art. 6º.
+
+O Município não realizará nem licenciará obra, bem como não concederá Alvará de Localização e de Funcionamento, ainda que a título precário, em discordância com o Plano Diretor de Uso e Ocupação do Solo (PDUOS) do Município de Califórnia.
+
+
+#### CAPÍTULO II — Dos Princípios e Objetivos
+
+
+Art. 7º.
+
+O Plano Diretor de Uso e Ocupação do Solo (PDUOS) do Município de Califórnia é um instrumento básico da política de desenvolvimento municipal, principalmente, sob o aspecto de conservação e recuperação físico- ambiental, visando a orientação da atuação do poder público e da iniciativa privada, bem como o atendimento às aspirações da comunidade, sendo a principal referência normatizadora das relações entre o cidadão, as instituições e a ocupação do meio físico urbano e rural.
+
+
+Art. 8º.
+
+São objetivos gerais do Plano Diretor de Uso e Ocupação do Solo (PDUOS) do Município de Califórnia:
+
+
+a)
+
+Promover o desenvolvimento municipal integrado com o intuito de garantir o bem-estar do cidadão e a melhoria da qualidade de vida;
+
+
+b)
+
+Fazer cumprir a função social da propriedade urbana, assegurando que esta prevaleça sobre o exercício do direito de propriedade individual;
+
+
+c)
+
+Assegurar que a ação pública, administrativa e orçamentária do Poder Executivo e do Legislativo ocorra de forma planejada, respeitando as diretrizes do Plano Diretor de Uso e Ocupação do Solo (PDUOS) do Município de Califórnia;
+
+
+d)
+
+Proteção e recuperação ambiental para garantir a qualidade de vida no Município quanto à utilização dos recursos naturais, à manutenção das condições de vida e à adequação das necessidades da população com as exigências do equilíbrio ambiental, natural, cultural e construído;
+
+
+e)
+
+Promover o desenvolvimento econômico e social do município, reduzindo desigualdades sociais e melhorando renda e mercado de trabalho;
+
+
+f)
+
+Assegurar que serviços básicos de saneamento, saúde e educação sejam atendidos no município ou através de consórcios em que esteja inserido.
+
+
+g)
+
+Organizar o desenvolvimento para valorizar aspectos naturais, paisagísticos, históricos e culturais do município de Califórnia, a partir do ordenamento, gestão territorial e direcionamento do crescimento urbano;
+
+
+h)
+
+Estimular e desenvolver canais que promovam o acesso dos cidadãos à formulação, implementação e avaliação das políticas públicas, buscando a gestão democrática, o aprendizado social na gestão urbana e na consolidação da cidadania;
+
+
+i)
+
+Promoção da gestão pública estruturada, assegurando que a ação pública, administrativa e orçamentária ocorra de forma planejada e contínua;
+
+
+#### CAPÍTULO III — Das Diretrizes Estratégicas
+
+
+Art. 9º.
+
+O Plano Diretor de Uso e Ocupação do Solo (PDUOS) do Município de Califórnia instituiu algumas diretrizes estratégicas para desenvolvimento do município:
+
+
+I –
+
+Política de Desenvolvimento Municipal
+
+
+II –
+
+Planejamento Permanente e Gestão Democrática
+
+
+III –
+
+Controle do Meio Ambiente
+
+
+IV –
+
+Dinamização e Ampliação das Atividades Sócio-Econômicas
+
+
+V –
+
+Projetos na área de Infra-estrutura
+
+
+VI –
+
+Saneamento Ambiental
+
+
+VII –
+
+Proteção da População e dos Patrimônios
+
+
+VIII –
+
+Racionalização da Ocupação do Espaço Urbano e Rural
+
+
+Art. 10.
+
+Para atingir o objetivo do Inciso I e II do artigo 9ºo município de Califórnia instituirá alguns programas e ações:
+
+**a .** Programa de Controle Físico Territorial
+
+**b.** Programa de Integração Municipal
+
+**c.** Ações Institucionais:
+
+
+I –
+
+Planejamento e Gestão Municipal
+
+
+II –
+
+Programa de Acompanhamento do Plano Diretor Municipal
+
+
+III –
+
+Adequação da Estrutura Organizacional da Prefeitura
+
+
+IV –
+
+Criação de Banco de Dados e Sistematização das Informações Municipais
+
+
+V –
+
+Construção de Indicadores Municipais
+
+
+VI –
+
+Exercício da Gestão Participativa
+
+
+Art. 11.
+
+Para atingir o objetivo do Inciso III do artigo 9º o município de Califórnia instituirá alguns programas e ações:
+
+
+a)
+
+Programa de Recuperação e Manutenção do Solo, das Águas e Áreas de Preservação Ambiental
+
+
+b)
+
+Programa de Educação Ambiental
+
+
+Art. 12.
+
+Para atingir o objetivo do Inciso IV do artigo 9ºo município de Califórnia instituirá alguns programas e ações:
+
+
+I –
+
+Programa de Fomento à Produção Rural
+
+
+II –
+
+Programa Califórnia Industrial
+
+
+III –
+
+Programa de Fomento Comercial
+
+
+IV –
+
+Programa de Melhoria dos Indicadores da Educação
+
+
+V –
+
+Programa de Melhoria dos Indicadores da Saúde.
+
+
+Art. 13.
+
+Para atingir o objetivo do Inciso V, VI e VII do artigo 9º o município de Califórnia instituirá alguns programas e ações:
+
+
+I –
+
+Programa de Equidade de Acesso e Melhoria de Infraestrutura, Equipamentos e Serviços Públicos
+
+
+I –
+
+Ações de Saneamento
+
+
+II –
+
+Ações no Sistema Viário e Transporte Coletivo
+
+
+III –
+
+Ações na área de Habitação
+
+
+IV –
+
+Ações na área de Comunicações
+
+
+V –
+
+Ações na área de Segurança Pública
+
+
+VI –
+
+Ações para melhoria dos diversos equipamentos e serviços públicos de Califórnia.
+
+
+Art. 14.
+
+Para atingir o objetivo do Inciso VIII do artigo 9º o município de Califórnia instituirá alguns programas e ações:
+
+
+I –
+
+Programa de Acessibilidade, Mobilidade e Revitalização Urbana
+
+
+II –
+
+Programa de Gestão do Uso e Ocupação do Solo Urbano
+
+
+#### CAPÍTULO IV — Da Função Social da Propriedade Urbana
+
+
+Art. 15.
+
+As propriedades urbanas, públicas ou privadas, cumprirão sua função social quando, além de atenderem às exigências fundamentais de ordenação da cidade expressas no Plano Diretor de Uso e Ocupação do Solo (PDUOS) do Município de Califórnia, contribuírem para garantir, de modo justo e democrático, o pleno acesso de todos os cidadãos aos bens e serviços essenciais à vida digna.
+
+
+§ 1º
+
+O direito de propriedade sobre o solo urbano não acarreta, obrigatoriamente, a autorização para construção, cuja solicitação deverá ser autorizada pelo Poder Executivo, segundo os critérios estabelecidos na Lei de Zoneamento de Uso e Ocupação do Solo, na Legislação Ambiental, na Lei de Parcelamento do Solo e demais disposições legais pertinentes.
+
+
+§ 2º
+
+Os direitos decorrentes da propriedade individual estarão subordinados aos interesses da coletividade.
+
+
+Art. 16.
+
+Para cumprir a sua função social, a propriedade deve atender, simultaneamente, no mínimo as seguintes exigências:
+
+
+I –
+
+Intensidade de uso adequada à disponibilidade da infra-estrutura urbana de equipamentos e serviços;
+
+
+II –
+
+Uso compatível com as condições de preservação da qualidade do meio ambiente e da paisagem urbana;
+
+
+III –
+
+Aproveitamento e utilização compatíveis com a segurança e saúde de seus usuários e da comunidade.
+
+
+Parágrafo único
+
+O Município, por interesse público, usará as disposições da Constituição da República Federativa do Brasil, do Estatuto da Cidade, e as disposições previstas nesta Lei Complementar para assegurar o cumprimento da função social da propriedade.
+
+
+#### CAPÍTULO V — Dos Instrumentos da Política de Desenvolvimento
+
+
+Art. 17.
+
+O Município utilizará os seguintes instrumentos urbanísticos e/ou tributários de intervenção no solo para o cumprimento da função social da propriedade:
+
+
+a)
+
+Plano Diretor de Uso e Ocupação do Solo (PDUOS) do Município, previsto nesta Lei Complementar;
+
+
+b)
+
+Plano Plurianual;
+
+
+c)
+
+Lei de Diretrizes Orçamentárias;
+
+
+d)
+
+Planos, projetos e programas setoriais;
+
+
+e)
+
+Lei do Perímetro Urbano;
+
+
+f)
+
+Lei de Parcelamento do Solo Urbano;
+
+
+g)
+
+Lei de Zoneamento de Uso e Ocupação do Solo;
+
+
+h)
+
+Lei do Sistema Viário;
+
+
+i)
+
+Lei do Código de Obras;
+
+
+j)
+
+Lei do Código de Posturas;
+
+
+k)
+
+Imposto progressivo sobre a propriedade territorial urbana, de acordo com o artigo 156, § 1º, e artigo 145, § 1º da Constituição Federativa do Brasil de 1988 e com a Lei Federal 10.257/01 - Estatuto da Cidade;
+
+
+l)
+
+Parcelamento, edificação ou utilização compulsórios; seguido do imposto progressivo no tempo; desapropriação com pagamento mediante título da dívida pública, de acordo com Estatuto da Cidade;
+
+
+m)
+
+Contribuição de melhoria;
+
+
+n)
+
+Direito de preempção;
+
+
+o)
+
+Outorga onerosa do direito de construir;
+
+
+p)
+
+Operação urbana consorciada;
+
+
+q)
+
+Transferência do direito de construir;
+
+
+r)
+
+Estudo prévio de impacto de vizinhança (EIV) e Estudo prévio de Impacto Ambiental (EIA).
+
+
+§ 1º
+
+Os instrumentos mencionados neste artigo reger-se-ão por legislação própria, observado o disposto nesta Lei.
+
+
+§ 2º
+
+Os instrumentos previstos neste artigo que demandam dispêndio de recursos por parte do Poder Público municipal devem ser objeto de controle social, garantida a participação de comunidades, movimentos e entidades da sociedade civil.
+
+
+##### Seção I — Das Normas de Uso e Ocupação do Solo
+
+
+Art. 18.
+
+O uso e a ocupação do solo é definido em função das normas relativas à densidade, regime de atividades, dispositivos de controle das edificações e parcelamento do solo, que configuram o regime urbanístico. Estas normas estão definidas na Lei de Zoneamento de Uso e Ocupação do Solo, Lei de Parcelamento do Solo, Lei do Código de Obras e Lei do Código de Posturas.
+
+
+##### Seção II — Das Áreas Especiais de Interesse Social
+
+
+Art. 19.
+
+As áreas especiais de interesse social são aquelas destinadas à produção e a manutenção da habitação de interesse social, com destinação específica, normas próprias de uso e ocupação do solo, compreendendo as seguintes situações:
+
+
+I –
+
+Loteamentos privados irregulares ou clandestinos, que atendam a padrões de qualidade de vida, e ao equacionamento dos equipamentos urbanos e comunitários, circulação e transporte, limpeza urbana e segurança conforme regulamentação específica;
+
+
+II –
+
+Áreas delimitadas pelo Poder Executivo, considerado o déficit anual da demanda habitacional prioritária, permitida a promoção de parcerias e incentivos.
+
+
+Parágrafo único
+
+A regularização fundiária de núcleos habitacionais, em áreas de propriedade municipal, de suas autarquias, empresas públicas e sociedades de economia mista dar-se-á mediante a Concessão de Direito Real de Uso, de acordo com legislação federal e municipal pertinente.
+
+
+Art. 20.
+
+As áreas especiais de interesse social serão definidas através de um processo gradativo e permanente de instituição, observando-se os parâmetros de uso e ocupação do solo constantes na Lei de Zoneamento de Uso e Ocupação do Solo e na Lei de Parcelamento do Solo.
+
+
+Art. 21.
+
+Os proprietários de imóvel que pretendam construir habitação de interesse social poderão solicitar ao Poder Executivo a instituição mediante estudo de impacto de vizinhança, o qual deverá conter:
+
+
+I –
+
+Padrões específicos de parcelamento do solo;
+
+
+II –
+
+Formas de participação da iniciativa privada, proprietários de terrenos, empreendedores imobiliários, associações ou cooperativas de moradores;
+
+
+III –
+
+Forma de atendimento a demanda habitacional municipal, formalizada pelo Departamento Municipal competente.
+
+
+Parágrafo único
+
+O empreendimento de que trata este artigo poderá ser implantado em qualquer Zona do quadro urbano.
+
+
+##### Seção III — Do Imposto Progressivo sobre a Propriedade Predial e Territorial Urbana
+
+
+Art. 22.
+
+A aplicação da progressividade do imposto sobre a propriedade predial e territorial urbana - IPTU, deverá obedecer aos princípios constitucionais da capacidade contributiva e da função social da propriedade.
+
+
+Art. 23.
+
+Lei municipal regulará a aplicação do IPTU decorrente do princípio da capacidade contributiva, de acordo com o disposto no artigo 145, § 1º e artigo 150, inciso II ambos da Constituição Federativa do Brasil, deve estabelecer alíquotas diferenciadas em virtude de características peculiares, tais como, a localização do imóvel, o tipo de construção e a área construída.
+
+
+Art. 24.
+
+Será aplicado o parcelamento, edificação ou utilização compulsórios, o IPTU progressivo no tempo e desapropriação, de que tratam os artigos 5º, 6º, 7º e 8º do Estatuto da Cidade - Lei nº 10.257/01, incidentes sobre os imóveis que não estejam atendendo à função social da propriedade urbana, definido no artigo 9º desta Lei Complementar.
+
+
+§ 1º
+
+Lei municipal específica, baseada no plano de uso e ocupação do solo, para assegurar o aproveitamento do equipamento urbano existente, poderá determinar o parcelamento, a edificação ou utilização compulsória de que trata o caput deste artigo, fixando as áreas, índices urbanísticos mínimos das edificações, condições e prazos para sua execução.
+
+
+§ 2º
+
+O prazo de que trata o parágrafo anterior não poderá ser inferior a 02 (dois) anos, a contar da notificação do proprietário.
+
+
+§ 3º
+
+O proprietário será notificado pelo Município para o cumprimento da obrigação, devendo a notificação ser averbada no Registro de Imóveis.
+
+
+§ 4º
+
+A alienação do imóvel, posterior à data da notificação, não interrompe o prazo fixado para o parcelamento, a edificação ou a utilização compulsória.
+
+
+§ 5º
+
+O não cumprimento da obrigação de parcelar, edificar ou utilizar, possibilitará ao Município desapropriar o terreno, facultando a sua alienação a terceiro, que se comprometa a cumprir a obrigação estabelecida.
+
+
+§ 6º
+
+O instrumento do consórcio imobiliário, de que trata o artigo 46 do Estatuto da Cidade, poderá ser utilizado para viabilizar os empreendimentos nos casos em que o proprietário não possa fazê-lo sozinho.
+
+
+##### Seção IV — Da Contribuição de Melhoria
+
+
+Art. 25.
+
+A contribuição de melhoria deverá incidir sobre imóveis que tenham se valorizado em decorrência de investimentos públicos, conforme o Código Tributário do Município de Califórnia.
+
+
+##### Seção V — Do Direito de Preempção
+
+
+Art. 26.
+
+O Direito de Preempção confere ao Poder Público municipal preferência para aquisição de imóvel urbano objeto de alienação onerosa entre particulares. O Direito de Preempção facilitará a aquisição, por parte do poder público, de áreas de seu interesse, para a realização dos seguintes projetos:
+
+
+I –
+
+Execução de programas e projetos habitacionais de interesse social;
+
+
+II –
+
+Constituição de reserva fundiária;
+
+
+III –
+
+Implantação de equipamentos urbanos e comunitários;
+
+
+IV –
+
+Criação de espaços públicos de lazer e áreas verdes;
+
+
+V –
+
+Criação de unidades de conservação ou proteção de outras áreas de interesse ambiental;
+
+
+VI –
+
+Proteção de áreas de interesse histórico, cultural ou paisagístico.
+
+
+Art. 27.
+
+A regulamentação do Direito de Preempção será através de lei municipal específica.
+
+
+##### Seção VI — Da Outorga Onerosa do Direito de Construir
+
+
+Art. 28.
+
+A outorga onerosa do direito de construir é a permissão onerosa concedida pelo Poder Público ao empreendedor, para fins de edificação em áreas de urbanização utilizando-se de estoques construtivos públicos.
+
+
+Parágrafo único
+
+Quando se constatar impacto negativo na infraestrutura, decorrente da aplicação da outorga onerosa do direito de construir, as vendas de estoques construtivos serão imediatamente suspensas, por decreto do Poder Executivo.
+
+
+Art. 29.
+
+A concessão de um aumento no potencial construtivo é entendida como o aumento do coeficiente de aproveitamento máximo.
+
+
+§ 1º
+
+O imóvel que vier a receber o incentivo, de que trata o caput deste artigo poderá acrescer seu coeficiente de aproveitamento em até 20% (vinte por cento).
+
+
+§ 2º
+
+Poderá ser permitido o acréscimo de até 20% do coeficiente de aproveitamento sem contrapartida financeira na produção de Habitação de Interesse Social.
+
+
+Art. 30.
+
+A Lei Municipal Específica estabelecerá (os imóveis que poderão receber potencial construtivo e) as condições a serem observadas para a outorga onerosa do direito de construir, determinando no mínimo:
+
+
+I –
+
+A fórmula de cálculo da cobrança;
+
+
+II –
+
+Os casos passíveis de isenção do pagamento da outorga;
+
+
+III –
+
+A contrapartida do beneficiário;
+
+
+IV –
+
+Os procedimentos administrativos necessários.
+
+
+Art. 31.
+
+A utilização da outorga onerosa do direito de construir será baseada em cronograma apresentado pelo proprietário e aprovado pelo departamento municipal competente.
+
+
+##### Seção VII — Da Operação Urbana Consorciada
+
+
+Art. 32.
+
+O objetivo do instrumento da operação urbana consorciada é viabilizar intervenções, em procedimentos gerenciados pelo Poder Público, em parceria com a iniciativa privada.
+
+
+Art. 33.
+
+Para a realização da operação urbana consorciada deverão ser considerados os seguintes itens:
+
+
+I –
+
+Infraestrutura existente;
+
+
+II –
+
+Usos do solo atual e tendências nos últimos anos;
+
+
+III –
+
+Evolução da população residente;
+
+
+IV –
+
+Licenças de uso concedidas e negadas na área, nos últimos anos;
+
+
+V –
+
+Terrenos e imóveis vazios e/ou sub-utilizados;
+
+
+VI –
+
+Evolução dos preços de mercado dos terrenos e imóveis da área;
+
+
+VII –
+
+Levantamento das tipologias arquitetônicas;
+
+
+VIII –
+
+Levantamento do patrimônio histórico/arquitetônico existente;
+
+
+IX –
+
+Mapeamento dos fluxos de circulação e população flutuante;
+
+
+X –
+
+Equipamentos públicos e áreas verdes;
+
+
+XI –
+
+Mapeamento dos envolvidos na operação:
+
+
+I –
+
+Proprietários;
+
+
+II –
+
+Empresas instaladas;
+
+
+III –
+
+Moradores e suas associações;
+
+
+IV –
+
+Locatários;
+
+
+V –
+
+Órgãos públicos.
+
+
+Parágrafo único
+
+Em função do impacto a ser causado pelo empreendimento, poderá ser solicitada uma abrangência maior do estudo, tanto em nível de escala como de conteúdo.
+
+
+Art. 34.
+
+Para a realização da operação urbana consorciada deverá ser elaborada uma lei municipal específica, que deverá conter:
+
+
+I –
+
+A definição da área a ser atingida, com demarcação precisa do perímetro e limites;
+
+
+II –
+
+A definição da futura ocupação em termos de usos e forma de ocupação;
+
+
+III –
+
+Programa de atendimento econômico e social da população diretamente afetada;
+
+
+IV –
+
+Finalidades da operação;
+
+
+V –
+
+Estudo prévio de impacto de vizinhança;
+
+
+VI –
+
+Contrapartida a ser exigida dos proprietários, usuários permanentes e investidores privados;
+
+
+VII –
+
+Formas de controle da operação, obrigatoriamente compartilhadas com representação da sociedade civil.
+
+
+##### Seção VIII — Da Transferência do Direito de Construir
+
+
+Art. 35.
+
+Este instrumento tem o objetivo de permitir que os proprietários de imóveis a serem preservados fossem compensados pelo fato de que em seus imóveis o coeficiente ou densidade básicos estabelecidos para o território urbano não podem ser atingidos sob pena de comprometer o objetivo da preservação de imóveis de interesse histórico, paisagístico ou ambiental.
+
+
+Art. 36.
+
+Os proprietários dos imóveis poderão exercer em outro local ou alienar mediante escritura pública o direito de construir previsto na Lei de Zoneamento de Uso e Ocupação do Solo, ainda não exercida.
+
+
+Art. 37.
+
+A transferência do direito de construir, que será autorizada por lei municipal específica, será adotada quando o imóvel for considerado necessário para fins de:
+
+
+I –
+
+Implantação de equipamentos urbanos e comunitários;
+
+
+II –
+
+Preservação, quando o imóvel for considerado de interesse histórico, ambiental, paisagístico, social ou cultural;
+
+
+III –
+
+Servir a programas de regularização fundiária, urbanização de áreas ocupadas por população de baixa renda e habitação de interesse social.
+
+
+Art. 38.
+
+A Prefeitura deve manter registro das transferências do direito de construir ocorridas, do qual constem os imóveis transmissores e receptores, bem como os respectivos potenciais construtivos transferidos e recebidos.
+
+
+##### Seção IX — Do Estudo de Impacto de Vizinhança
+
+
+Art. 39.
+
+Para os empreendimentos potencialmente geradores de grandes modificações no espaço urbano, será exigido o estudo de impacto de vizinhança (EIV), de acordo com o Estatuto da Cidade.
+
+
+§ 1º
+
+O estudo de impacto de vizinhança deve conter todas as possíveis implicações do projeto para a estrutura ambiental e urbana, no entorno do empreendimento, incluindo a análise, no mínimo, das seguintes questões:
+
+
+I –
+
+Adensamento populacional;
+
+
+II –
+
+Demanda e ocorrência de equipamentos urbanos e comunitários;
+
+
+III –
+
+Uso e ocupação do solo;
+
+
+IV –
+
+Valorização ou desvalorização imobiliária;
+
+
+V –
+
+Geração de tráfego, demanda por transporte, vias públicas, estacionamento, bem como o acesso ao empreendimento;
+
+
+VI –
+
+Ventilação e iluminação;
+
+
+VII –
+
+Paisagem urbana e patrimônio histórico, natural e cultural;
+
+
+VIII –
+
+Abrangência da área de interferência, com raio a ser definido pelo Conselho de Desenvolvimento Municipal.
+
+
+§ 2º
+
+De posse do estudo de impacto de vizinhança, a equipe técnica da Prefeitura Municipal o avaliará e estabelecerá outras exigências que se farão necessárias para minorar ou mesmo eliminar os impactos negativos do projeto sobre o espaço, ficando o empreendedor responsável pelos ônus daí decorrentes.
+
+
+§ 3º
+
+A avaliação do estudo de impacto de vizinhança e as exigências feitas pela referida equipe técnica deverão ter a anuência do Conselho de Desenvolvimento Municipal.
+
+
+§ 4º
+
+O EIV (Estudo de Impacto de Vizinhança) e o EIA-RIMA (Estudo de Impacto Ambiental – Relatório de Impacto Ambiental) não substituem um ao outro, o EIA-RIMA é exigido segundo legislação ambiental específica.
+
+
+Art. 40.
+
+Deverá ser exigido Estudo de Impacto de Vizinhança para os seguintes empreendimentos:
+
+
+I –
+
+Conjunto residencial (acima de 50 unidades);
+
+
+II –
+
+Condomínios urbanos;
+
+
+III –
+
+Comércio e serviço geral com área igual ou superior a 2.000m² (dois mil metros quadrados);
+
+
+IV –
+
+Comércio e serviço específico (de qualquer área), de acordo com a Lei de Zoneamento de Uso e Ocupação do Solo;
+
+
+V –
+
+Indústrias com área construída igual ou superior a 1.500m² (um mil e quinhentos metros quadrados);
+
+
+VI –
+
+Conjunto industrial (de qualquer porte);
+
+
+VII –
+
+Atividades de extração mineral (de qualquer porte);
+
+
+VIII –
+
+Outras atividades potencialmente geradoras de grandes modificações no espaço urbano.
+
+
+#### CAPÍTULO VI — Do Meio Ambiente
+
+
+Art. 41.
+
+As propostas na área ambiental têm como objetivo identificar áreas no Município valorizando o patrimônio ambiental, promovendo suas potencialidades, garantindo sua perpetuação e superando os conflitos referentes à poluição e degradação do ambiente natural.
+
+
+Art. 42.
+
+A política de meio ambiente respeitará as seguintes diretrizes:
+
+
+I –
+
+Adequar o uso e ocupação do solo às condições ambientais;
+
+
+II –
+
+Recuperar as áreas degradadas, como a área do antigo lixão que será transformada em Zona de Preservação Permanente;
+
+
+III –
+
+Promover o desenvolvimento, garantindo o equilíbrio ambiental;
+
+
+IV –
+
+Proibir a implantação de atividades potenciais e efetivamente poluidoras em áreas ambientalmente frágeis;
+
+
+V –
+
+Incentivar e estimular a preservação, conservação e formação de áreas verdes públicas e privadas;
+
+
+VI –
+
+Priorizar a educação ambiental mediante a implementação de projetos e atividades voltados às questões de proteção e conservação do meio ambiente e defesa dos valores paisagísticos, históricos e culturais.
+
+
+Art. 43.
+
+Para assegurar a proteção necessária aos recursos hídricos do Município serão consideradas as faixas não edificáveis definidas pela Legislação Federal.
+
+
+#### CAPÍTULO VII — Das Diretrizes Prioritárias do Zoneamento
+
+
+Art. 44.
+
+São diretrizes do Zoneamento políticas, intervenções e projetos que visem promover ações para implementação da gestão urbana e do planejamento integrado, permitindo a participação comunitária, garantindo o pleno desenvolvimento das funções sociais da cidade, em prol do bem coletivo, da segurança e do bem estar dos cidadãos, bem como do equilíbrio ambiental, onde, o Município, na consecução dessa política, tem como seu principal instrumento o Plano Diretor de Uso e Ocupação do Solo (PDUOS):
+
+
+I –
+
+Buscar garantir atendimento à demanda crescente das atividades produtivas locais e regionais, bem como, as habitacionais e de uso misto, através da definição de áreas adequadas para sua implantação, estimulando áreas dotadas de infra-estrutura básica e promovendo a fusão entre as localidades polarizadas nos principais eixos viários do Município;
+
+
+II –
+
+Promover a relocação da população das faixas não edificáveis, promovendo a recuperação ambiental do local;
+
+
+III –
+
+Estimular parcerias com a iniciativa privada para garantir o atendimento das aspirações da comunidade, orientando e disciplinando o uso e a ocupação destes espaços, através de tratamento próprio, com projetos individualizados, que assegurem a compatibilidade do entorno, promovendo a integração sócio/cultural com a vizinhança, preservando- se suas características relevantes;
+
+
+IV –
+
+Promover ações para o pleno atendimento da demanda por parques, praças e jardins, garantindo acesso amplo a toda população, dotando o Município de áreas adequadas, em quantidade e localização satisfatórias.
+
+
+Art. 45.
+
+Houve a fixação de regras fundamentais de ordenamento do território com o objetivo de definir diretrizes para a utilização dos instrumentos de ordenação territorial e para a definição do zoneamento presente na Lei de Zoneamento de Uso e Ocupação do Solo
+
+
+Parágrafo único
+
+O Zoneamento consiste na divisão do território em porções com parâmetros urbanísticos semelhantes em função de determinados fatores.
+
+
+Art. 46.
+
+Tem -se como conceitos gerais que existem:
+
+
+I –
+
+Áreas a impedir a urbanização: as áreas a impedir a urbanização, são aquelas de preservação dos recursos naturais e proteção da qualidade ambiental, tais como parques e fundos de vale. Os parâmetros para ocupação devem ser estabelecidos de forma a garantir a acessibilidade aos bens naturais de interesse público, impedir a ocupação em fundos de vale, além de incorporar áreas a serem preservadas ou conservadas.
+
+
+II –
+
+Áreas a intensificar a ocupação: as áreas a intensificar a ocupação, são estabelecidas em função da infra-estrutura já implantada ali mesmo ou próximo a ela. Nestas áreas tem-se o interesse em ações que visem desenvolver, conscientemente, a ocupação ou atividades, como o comércio, por exemplo, respeitando os parâmetros urbanísticos estipulados na Lei de Zoneamento de Uso e Ocupação do Solo.
+
+
+III –
+
+Áreas a consolidar a ocupação: as áreas a consolidar a ocupação, são áreas já ocupadas, que precisam se consolidar, valorizar, socialmente e estruturalmente no município como se verifica no miolo da sede urbana.
+
+
+#### CAPÍTULO VIII — Das Diretrizes Urbanísticas
+
+
+Art. 47.
+
+A estratégia das diretrizes urbanísticas tem como objetivos gerais promover a estruturação do espaço no município.
+
+
+##### Seção I — Da Estruturação Urbana
+
+
+Art. 48.
+
+A estratégia da estruturação urbana tem como objetivo disciplinar e ordenar a ocupação do solo através dos instrumentos de regulação que definem a distribuição espacial das atividades, a densificação e a configuração da paisagem urbana.
+
+
+Art. 49.
+
+São diretrizes da política de estruturação urbana:
+
+
+I –
+
+Regulamentar e fiscalizar a ocupação do solo de toda a área urbana;
+
+
+II –
+
+Distribuir espacialmente os equipamentos comunitários e urbanos de modo a garantir o acesso de toda a população;
+
+
+III –
+
+Definir critérios para a localização de população de baixa renda na zona urbana do Município, favorecendo a criação de loteamentos populares e de conjuntos habitacionais de interesse social;
+
+
+IV –
+
+Estabelecer os limites máximos de urbanização, considerando o sistema viário e as barreiras causadas pela erosão e altas declividades, acima de 20%, que condicionam a ocupação da área urbana no município de Califórnia;
+
+
+V –
+
+Atingir uma densidade mínima que otimize o aproveitamento dos investimentos públicos e privados, através de incentivos à
+
+
+VI –
+
+Proporcionar infraestrutura através da operação urbana consorciada a áreas de expansão urbana que favorecerão o município e a alguma empresa privada que queira investir no município.
+
+
+VII –
+
+Na Zona Residencial e de Comércio e Serviços haverá a criação de ciclovias para garantir uma maior mobilidade urbana aliada ao lazer.
+
+
+Parágrafo único
+
+A ocupação do solo será estimulada de acordo com a diversidade de suas partes, para buscar o complemento entre a cidade consolidada e a cidade de ocupação rarefeita.
+
+
+##### Seção II — Do Saneamento Básico
+
+
+Art. 50.
+
+São diretrizes da política de saneamento básico:
+
+
+I –
+
+Implantar a rede de Esgoto Sanitário.
+
+
+II –
+
+É proibido ligar os sumidouros ao sistema de drenagem de águas pluviais, acarretando em multa de 2 a 20 UFM (Unidade Fiscal do Município).
+
+
+III –
+
+Preservar e conservar as faixas não edificáveis dos cursos hídricos, para garantia de preservação da qualidade de água e do meio ambiente mediante a implantação de programas de Preservação Ambiental;
+
+
+IV –
+
+Criação de programas para a separação do lixo reciclável nos domicílios, logradouros e instituições públicas;
+
+
+V –
+
+Implantar projetos de educação sanitária voltada às questões de saneamento, ou seja, esgotamento sanitário, drenagem urbana e abastecimento de água. Esses projetos estariam dentro do Programa de Educação Ambiental.
+
+
+##### Seção III — Da Mobilidade Urbana
+
+
+Art. 51.
+
+A estratégia de mobilidade urbana tem como objetivo geral qualificar a circulação e o transporte urbano, proporcionando os deslocamentos na cidade e atendendo as distintas necessidades da população.
+
+
+Art. 52.
+
+A política de mobilidade para a área urbana observará as seguintes diretrizes:
+
+
+I –
+
+Priorizar os ciclistas e pedestres;
+
+
+II –
+
+Caracterizar e detalhar projetos voltados à formação de uma rede de circulação preferencial aos pedestres;
+
+
+III –
+
+Prever a distribuição de atividades e equipamentos de forma a garantir a mínima necessidade de deslocamento motorizado;
+
+
+IV –
+
+Implantar as vias de circulação de acordo com as restrições legais e físico-ambientais objetivando a preservação e conservação ecológica e paisagística;
+
+
+V –
+
+Assegurar aos setores urbanos a mobilidade local;
+
+
+VI –
+
+Promover e consolidar a hierarquização do sistema viário local;
+
+
+Art. 53.
+
+A acessibilidade universal deve ser garantida em vias públicas, passeios, praças, edifícios públicos.
+
+
+Parágrafo único
+
+A acessibilidade universal deve ser garantida em todos os lugares públicos seguindo os parâmetros, as normas e os critérios da NBR 9050/2004 e do Decreto Federal Nº. 5296/04.
+
+
+#### CAPÍTULO IX — Da Gestão Urbana
+
+
+Art. 54.
+
+O Município de Califórnia promoverá a gestão urbana:
+
+
+I –
+
+Induzindo, catalisando e mobilizando a ação cooperativa e integrada dos diversos agentes econômicos e sociais atuantes no Município;
+
+
+II –
+
+Articulando e coordenando, ações junto aos órgãos públicos federais, estaduais e municipais;
+
+
+III –
+
+Fomentando o desenvolvimento das atividades fundamentais do Município que garantam emprego, trabalho aos cidadãos do município.
+
+
+IV –
+
+Organização e revisão da Estrutura Administrativa e cadastros da Prefeitura.
+
+
+V –
+
+Treinamento de fiscais para as diversas áreas pertinentes ao município, se necessário em outros municípios, para que o processo de cadastro e controle seja efetivo.
+
+
+VI –
+
+Através da criação do Conselho de Desenvolvimento Municipal.
+
+
+##### Seção I — Do Conselho de Desenvolvimento Municipal
+
+
+Art. 55.
+
+O Conselho de Desenvolvimento Municipal criado pela Lei 1494/2013 possui as seguintes atribuições:
+
+
+I –
+
+Acompanhar a implementação do Plano Diretor de Uso e Ocupação do Solo, analisando e deliberando sobre as questões pertinentes à sua aplicação;
+
+
+II –
+
+Acompanhar a implementação das normas contidas nesta Lei Complementar e nas Leis:
+
+**I.** De Zoneamento de Uso e Ocupação do Solo;
+
+**II.** Do Sistema Viário;
+
+**III**. De Parcelamento do Solo;
+
+**IV**. Do Código de Obras;
+
+**V.** Do Código de Posturas;
+
+**VI**. Demais leis pertinentes.
+
+
+III –
+
+Compatibilizar as propostas de obras contidas nos planos plurianuais com as diretrizes desta Lei Complementar e com o Plano de Ação do PDUOS;
+
+
+IV –
+
+Sugerir ao Poder Executivo medidas que tornem eficazes as diretrizes estabelecidas no Plano Diretor de Uso e Ocupação do Solo (PDUOS) do Município, baseado em estudos elaborados pela equipe técnica do departamento competente municipal;
+
+
+V –
+
+Emitir pareceres sobre a ocupação e o desenvolvimento urbano com base na legislação urbanística vigente e nas diretrizes e políticas de uso do solo;
+
+
+VI –
+
+Analisar estudos e propostas de ocupação urbana referente a projetos públicos ou privados apresentados verificando suas possíveis consequências na estrutura urbana, através de estudos de impacto da área em questão e do seu entorno;
+
+
+VII –
+
+Analisar e deliberar somente sobre os usos permissíveis e em casos omissos considerando as diretrizes desta legislação e vocação da região;
+
+
+VIII –
+
+Analisar e deliberar sobre os recursos interpostos sobre as questões dúbias relativas ao parcelamento, uso e ocupação do solo;
+
+
+IX –
+
+Analisar e emitir parecer sobre os relatórios de Estudo de Impacto de Vizinhança (EIV);
+
+
+X –
+
+Convocar, organizar e coordenar conferências e audiências públicas municipais.
+
+
+XI –
+
+Definir os parâmetros e quantificar os benefícios a serem concedidos de que trata a Lei do PRODEC - Programa de Desenvolvimento Econômico de Califórnia;
+
+
+XII –
+
+Examinar os pedidos de concessão dos incentivos à instalação, ampliação ou reativação das atividades empresariais no Município, de que trata a Lei do PRODEC - Programa de Desenvolvimento Econômico de Califórnia;
+
+
+XIII –
+
+Deliberar sobre a concessão dos incentivos solicitados, formalizando sua decisão à Administração Municipal;
+
+
+XIV –
+
+Formalizar à Administração Municipal suas deliberações;
+
+
+XV –
+
+Sugerir medidas à Administração Municipal visando o incremento de atividades sócio econômicas no Município;
+
+
+XVI –
+
+Levantar dados estatísticos das deliberações tomadas possibilitando a avaliação da política de desenvolvimento econômico e social do Município.
+
+
+Parágrafo único
+
+A execução das deliberações e proposições do Conselho de Desenvolvimento Municipal ficará a cargo da Equipe de Assessoria Técnica da área de Engenharia responsável do Município”.
+
+
+Art. 56.
+
+O Conselho de Desenvolvimento Municipal será composto por membros representantes do Poder Público e da sociedade civil:
+
+
+I –
+
+Um representante da Secretaria de Administração e Finanças;
+
+
+II –
+
+Um representante da Secretaria de Obras, Urbanismo, Transportes e Serviços;
+
+
+III –
+
+Um representante da Secretaria de Agricultura, Abastecimento, Meio Ambiente, Indústria e Comércio;
+
+
+IV –
+
+Um representante da Secretaria de Saúde;
+
+
+V –
+
+Um representante da Secretaria de Assistência Social;
+
+
+VI –
+
+Um representante da Secretaria de Educação, Cultura, Esporte, Lazer e Turismo;
+
+
+VII –
+
+Um representante da Procuradoria Jurídica do Município;
+
+
+VIII –
+
+Dois representantes do Poder Legislativo;
+
+
+IX –
+
+Dois representantes de Órgãos Estaduais com representação no Município de Califórnia;
+
+
+X –
+
+Três representantes das Entidades Privadas e sem fins lucrativos com sede no Município de Califórnia.
+
+
+XI –
+
+Dois representantes de Empresários relacionados ao Desenvolvimento Urbano/Construção Civil;
+
+
+XII –
+
+Dois representantes dos Movimentos Sociais e Populares;
+
+
+§ 1º
+
+Os órgãos municipais e entidades relacionadas neste artigo indicarão seus representantes e respectivos suplentes.
+
+
+§ 2º
+
+A ausência de membros por 03 (três) reuniões consecutivas, sem motivo justificado, implicará na sua imediata substituição.
+
+
+§ 3º
+
+O mandato dos membros do Conselho de Desenvolvimento Municipal será de 02 (dois) anos, com possibilidade de recondução por igual período.
+
+
+§ 4º
+
+O Conselho de Desenvolvimento Municipal se não criado e ativado anteriormente deverá instalar-se e iniciar seus trabalhos dentro de 10 (dez) dias após a aprovação da Lei do Plano Diretor de Uso e Ocupação do Solo.
+
+
+§ 5º
+
+O Município disponibilizará ao Conselho de Desenvolvimento Municipal funcionários, local, material e demais meios necessários à realização de seus trabalhos.
+
+
+Art. 57.
+
+No prazo de 30 (trinta) dias do início de seus trabalhos, o Conselho de Desenvolvimento Municipal deverá apresentar seu regimento interno, observando os seguintes princípios:
+
+
+I –
+
+Deliberações sempre por maioria simples, sendo exigido um grupo mínimo de dois terços de seus membros;
+
+
+II –
+
+O presidente do Conselho de Desenvolvimento Municipal não terá direito a voto, exceto em caso de empate, quando o Presidente dará o voto especial de desempate;
+
+
+III –
+
+Deliberações e pareceres sempre por escrito;
+
+
+IV –
+
+Registro em ata e arquivos adequados para todas deliberações, pareceres, notas, plantas e demais trabalhos do Conselho;
+
+
+V –
+
+Reuniões, de acordo com a necessidade para o seu bom funcionamento.
+
+
+Art. 58.
+
+O Conselho poderá ser convocado por seu presidente e por sua maioria absoluta 50% (cinquenta por cento) mais um de seus membros.
+
+
+Art. 59.
+
+Todos os órgãos da Administração Municipal direta e indireta deverão colaborar com as atividades do Conselho de Desenvolvimento Municipal naquilo que lhes couber.
+
+
+#### CAPÍTULO X — Do Processo de Avaliação do Plano Diretor de Uso e Ocupação do Solo
+
+
+Art. 60.
+
+A Avaliação do Plano Diretor de Uso e Ocupação do Solo deverá ser feita por meio de Conferência, a cada 03 anos a contar da data de publicação desta Lei.
+
+
+Art. 61.
+
+O Conselho de Desenvolvimento Municipal Urbanismo será responsável pela operacionalização desta Avaliação.
+
+
+Art. 62.
+
+Os departamentos municipais, de acordo com as diretrizes definidas nesta Lei, deverão executar avaliações que serão encaminhadas ao Conselho de Desenvolvimento Municipal.
+
+
+Art. 63.
+
+A Avaliação do Plano Diretor de Uso e Ocupação do Solo é composto por duas formas de Avaliação:
+
+
+I –
+
+Avaliação-Diagnóstico, que tem por objetivo analisar a eficácia e a eficiência das ações em relação aos objetivos pretendidos pelo PDUOS;
+
+
+II –
+
+Avaliação-Controle, cuja finalidade é verificar se as ações estão sendo implementadas e de que forma, indicando se há necessidade de revisá-las, modificando-as ou excluindo-as.
+
+
+##### Seção I — Das Conferências Públicas
+
+
+Art. 64.
+
+As Conferências Públicas terão por objetivo a mobilização do Poder Público Municipal e da sociedade civil na elaboração e avaliação das políticas públicas, em que serão discutidas as metas e prioridades para o Município.
+
+
+Art. 65.
+
+O instrumento Conferência Pública deverá ser regulamentado em legislação própria.
+
+
+Art. 66.
+
+Nos casos de alteração da legislação urbanística, a Conferência Pública deverá obrigatoriamente anteceder a alteração.
+
+
+#### CAPÍTULO XI — Das Disposições Finais
+
+
+Art. 67.
+
+As alterações e/ou emendas do Plano Diretor de Uso e Ocupação do Solo (PDUOS) de Califórnia, serão submetidas preliminarmente ao exame e parecer da equipe técnica da Prefeitura Municipal e posteriormente pelo Conselho de Desenvolvimento Municipal.
+
+
+Art. 68.
+
+O sistema de acompanhamento e controle do Plano Diretor de Uso e Ocupação do Solo (PDUOS) será gerenciado pela Divisão de Projetos, Obras e Fiscalização.
+
+
+Art. 69.
+
+Revogadas as disposições em contrário, em específico a Lei Nº 1564/2015, entrando a presente Lei entra em vigor na data de sua publicação.
+
+
+Edifício da Prefeitura do Município de Califórnia, aos 05 dias do mês de dezembro de 2017.
+
+***PAULO WILSON MENDES***
+
+Prefeito
+

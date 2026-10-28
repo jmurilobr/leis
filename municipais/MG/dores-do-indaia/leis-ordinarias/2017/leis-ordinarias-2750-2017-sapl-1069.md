@@ -1,0 +1,133 @@
+---
+titulo: "Lei Ordinária nº 2.750, de 30 de agosto de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2750"
+data: "2017-08-30"
+municipio: "Dores do Indaiá"
+uf: "MG"
+codigo_ibge: "3123205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.doresdoindaia.mg.leg.br/norma/1069"
+fonte_texto: "https://sapl.doresdoindaia.mg.leg.br/ta/358/text"
+sha256_fonte: "8bcf843c2058edf0e75619c51b63c469c32b699d8558024626b8ca6d23c60400"
+sha256_texto: "fa7ecc00c9b4f093d9d5e7262f292d6153b749b83ed53945e31ddc8dfeebd979"
+capturado_em_fonte: "2026-10-28T10:09:29.792152-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.750, de 30 de agosto de 2017
+
+**TEXTO ORIGINAL EM PDF**
+
+
+Autoriza o Poder Executivo Municipal a doar terreno, sob condições, para construção de Estabelecimento Industrial, a título de incentivo ao desenvolvimento industrial e comercial.
+
+
+A Câmara Municipal de Dores do Indaiá, por seus representantes legais, aprova, e eu Prefeito Municipal, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica autorizado o Poder Executivo Municipal a promover a doação de imóvel pertencente ao patrimônio público municipal, localizado nesta cidade, nas margens da Rodovia MG-176, próximo ao Trevo das Gerais, com área total de 10.131m2 (dez mil cento e trinta e um metros quadrados) à empresa KM-KALlUM MINERAÇÃO S/A, inscrita no CNPJ sob o nº: 11.734.333/0001-60, a título de incentivo industrial e comercial no município, o imóvel é registrado no CRI local na matricula nº 16.237.
+
+
+Art. 2º.
+
+Fica autorizado o Poder Executivo Municipal a promover a doação de imóvel pertencente ao patrimônio público municipal, localizado nesta cidade, no Campo de Aviação, com área total de 21.460m2 (vinte e um mil quatrocentos e sessenta metros quadrados) à empresa KM-KALlUM MINERAÇÃO S/A, inscrita no CNPJ sob o nº : 11.734.333/0001-60, a título de incentivo industrial e comercial no município, o imóvel é registrado no CRI local na matricula nº 16.238.
+
+
+Art. 3º.
+
+A doação nas condições previstas nos Arts. 1° e 2° desta Lei, a título de incentivo empresarial, tem por finalidade a implantação de empresa destinada à mineração visando o aproveitamento de rochas potássicas (Verdetes) para a produção de sais de potássio, magnésio, ferro e óxido de alumínio.
+
+
+Art. 4º.
+
+São obrigações a serem cumpridas pela empresa donatária, que deverão ser consignadas na escritura pública de doação e na matrícula junto ao Cartório de Registro de Imóveis, sob pena de reversão do imóvel doado ao patrimônio do Município, sem quaisquer indenizações pelas benfeitorias nele edificadas:
+
+
+I –
+
+a construção do referido estabelecimento industrial deverá inicial no prazo máximo e improrrogável de 12 (doze) meses e o início de suas atividades empresariais no prazo máximo e improrrogável de 3 (três) anos, iniciando o prazo da lavratura da escritura pública de doação;
+
+
+II –
+
+a permanência em operação da empresa donatária para doação definitiva do imóvel, ocorrerá após a implementação dos prazos e obrigações estabelecidos no inciso anterior;
+
+
+III –
+
+a proibição de locar, sublocar, transferir, ceder ou usar o imóvel doado para finalidade diversa daquela prevista nesta Lei;
+
+
+IV –
+
+a alienação do imóvel deverá respeitar a finalidade comercial, industrial ou de prestação de serviços, sob pena de reversão ao patrimônio do Município, sem quaisquer indenizações pelas benfeitorias nele edificadas;
+
+
+V –
+
+durante o período de 10 (dez) anos o imóvel não poderá ser objeto de garantia, hipoteca, penhora, caução ou dação em pagamento.
+
+
+Art. 5º.
+
+Caso a empresa donatária não exerça as atividades inerentes ao referido estabelecimento industrial, comercial ou de prestação de serviços, ou desative a operacionalização do mesmo e das respectivas unidades construídas no local, no prazo de 10 (dez) anos a contar do recebimento da escritura pública de doação, o imóvel reverterá automaticamente ao patrimônio do Município.
+
+
+§ 1º
+
+Fica proibida a alienação do aludido imóvel pelo prazo de 10 (dez) anos.
+
+
+§ 2º
+
+O donatário deverá apresentar, 6 (seis) meses antes do término do prazo do caput deste artigo, estudo de cumprimento das metas estabelecidas nesta lei para tornar definitiva a doação.
+
+
+§ 3º
+
+O estudo deverá considerar a atividade da empresa e o crescimento ou recessão socioeconômico local, regional e nacional, a geração de renda e emprego.
+
+
+§ 4º
+
+As despesas do estudo que tratam os §§ 2° e 3° deste artigo, correrão por conta dos donatários.
+
+
+Art. 6º.
+
+Decorridos os prazos estipulados nesta Lei e após o cumprimento de todos os requisitos e obrigações nela constantes, a empresa donatária passará a ter a propriedade plena do imóvel.
+
+
+Parágrafo único
+
+Para implantação física estrutural da empresa donatária, deverá necessariamente ser observada a legislação ambiental pertinente.
+
+
+Art. 7º.
+
+As despesas oriundas da respectiva transcrição da escritura pública de doação, inclusive a definitiva, correrão à conta da empresa donatária.
+
+
+Art. 8º.
+
+Fica proibido a utilização do imóvel para fins residenciais, não podendo nele ser fixado nenhum tipo de moradia, sob pena de reversão do imóvel ao erário, sem indenização pelas benfeitorias realizadas.
+
+
+Art. 9º.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Esta lei entra em vigor na data de sua publicação.
+
+Dores do Indaiá, 30 de agosto de 2017
+
+Ronaldo
+

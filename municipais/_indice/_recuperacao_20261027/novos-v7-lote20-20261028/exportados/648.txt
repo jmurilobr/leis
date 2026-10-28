@@ -1,0 +1,104 @@
+---
+titulo: "04 - Lei Ordinária nº 1.116, de 21 de janeiro de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "1116"
+data: "2021-01-21"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/909"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/901/text"
+sha256_fonte: "c408c941992a9ac3067100f9eaa5c530de3c987319edf48775b0cf6f3ad53ab5"
+sha256_texto: "8073a840251013185709b669170068e5853ecade2848b8f70f39920e1d4cca40"
+capturado_em_fonte: "2026-10-28T06:03:47.608460-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 1.116, de 21 de janeiro de 2021
+
+Concede reajuste aos servidores ativos e inativos e celetistas integrantes do quadro próprio do Poder Executivo, Autárquico, Comissionados e do Quadro e do quadro próprio do magistério e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Autoriza o Poder Executivo Municipal a conceder reposição inflacionária geral dos vencimentos dos servidores ativos, inativos, pensionistas, comissionados, bem como dos empregados regidos pela CLT e a todos os demais servidores da administração direta e autárquica.
+
+
+§ 1º
+
+Em consonância com o que dispõe o inciso X, do Art. 37 da Constituição Federal, a reposição inflacionária geral de que trata o caput, será concedida, a partir de 1º de janeiro de 2021, pela aplicação do índice de 4,52% (quatro inteiros e cinquenta e dois centésimos por cento) sobre o vencimento atual dos servidores do Executivo Municipal, a ser aplicado nos respectivos anexos.
+
+
+§ 2º
+
+Em consonância com o que dispõe o inciso X, do Art. 37 da Constituição Federal e de acordo com o que estipula o Art. 56 da Lei Municipal nº 812, de 21 de junho de 2013, a reposição inflacionária geral de que trata o caput, será concedida, a partir de 1º de janeiro de 2021, pela aplicação do índice de 4,52% (quatro inteiros e cinquenta e dois centésimos por cento) sobre o vencimento atual do subsídio dos Conselheiros Tutelares.
+
+
+§ 3º
+
+O percentual de que trata o parágrafo anterior, corresponde a variação do Índice Nacional de Preços ao Consumidor Amplo – IPCA/IBGE, no período janeiro a dezembro de 2020.
+
+
+Art. 2º.
+
+Fica autorizado o Poder Executivo Municipal, a adequar o pagamento do piso salarial nacional ao magistério municipal, passando o valor atualizado para R$ 1.508,29 (um mil quinhentos e oito reais e vinte e nove centavos) para o exercício de 20 (vinte) horas semanais aos professores em início de carreira – “CLASSE A – REFERÊNCIA 1”.
+
+
+§ 1º
+
+O reajuste de que trata o caput deste Artigo, é concedido, a partir de 1º de janeiro de 2021, decorrente da aplicação do índice de 4,52% (quatro inteiros e cinquenta e dois centésimos por cento) sobre o vencimento atual dos servidores ativos e inativos do magistério público municipal da educação básica.
+
+
+§ 2º
+
+O percentual de que trata o parágrafo anterior, corresponde a variação do Índice Nacional de Preços ao Consumidor Amplo – IPCA/IBGE, no período janeiro a dezembro de 2020.
+
+
+§ 3º
+
+A tabela de vencimentos estabelece uma linha de promoção e progressão funcional, logo, a adequação referente ao Piso Nacional do Magistério aplicada deve abranger todas as classes e referências, ou seja, calculado com base no crescimento na carreira, conforme estabelecido na tabela constante no anexo II da Lei Municipal nº 751/2011.
+
+
+§ 4º
+
+Caso o percentual fixado não seja suficiente para equiparar com o valor mínimo estabelecido, fica autorizada a concessão de parcela autônoma para complementação.
+
+
+§ 5º
+
+Os vencimentos fixados para os ocupantes de emprego público de professor, de contratos temporários, regido pela CLT, passam a vigorar com o reajuste instituído pelo presente Artigo.
+
+
+Art. 3º.
+
+As despesas decorrentes desta lei serão atendidas por conta das dotações orçamentárias próprias.
+
+
+Art. 4º.
+
+A presente lei entra em vigor na data de sua publicação, com seus efeitos a contar de 1º de janeiro de 2021.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná
+
+Em 20 de janeiro de 2021, 60º da Emancipação Política.
+
+GIOVANI MIGUEL WOLF HNATUW
+
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 1230 de 25/01/2021, pág. 02-03.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/909/ta
+

@@ -1,0 +1,843 @@
+---
+titulo: "RESOLUÇÃO nº 5, de 08 de junho de 2026"
+tipo: "Resolução"
+tipo_na_fonte: "RESOLUÇÃO"
+numero: "5"
+data: "2026-06-08"
+municipio: "Bom Jardim de Minas"
+uf: "MG"
+codigo_ibge: "3107505"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bomjardimdeminas.mg.leg.br/norma/1528"
+fonte_texto: "https://sapl.bomjardimdeminas.mg.leg.br/ta/56/text"
+sha256_fonte: "b114df0c988faf38b054ce0710c871c3f29535ba8f832f44853073d68f9efb1e"
+sha256_texto: "7cf34a13255d9758945fd42c0caa6283f4f1fe4ea9d8039d000032fa59387cd5"
+capturado_em_fonte: "2026-10-27T19:33:52.149700-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# RESOLUÇÃO nº 5, de 08 de junho de 2026
+
+Faço saber que a Câmara Municipal de Bom Jardim de Minas-MG aprovou e eu, Presidente, nos termos do inciso IV do art. 32 da Lei Orgânica do Município, promulgo a seguinte Resolução:
+
+
+Regulamenta a aplicação da Lei Federal nº 13.709/2018 – Lei Geral de Proteção de Dados Pessoais (LGPD) no âmbito da Câmara Municipal de Bom Jardim de Minas.
+
+
+A Câmara Municipal de Bom Jardim de Minas – MG, RESOLVE:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Esta Resolução regulamenta a aplicação da Lei Federal nº 13.709/2018 (LGPD), estabelecendo diretrizes de governança, proteção, segurança e tratamento de dados pessoais no âmbito da Câmara Municipal de Bom Jardim de Minas.
+
+
+Parágrafo único
+
+Para os fins desta Resolução, adotam-se as definições previstas na Lei Federal nº 13.709/2018 – Lei Geral de Proteção de Dados Pessoais (LGPD), especialmente:
+
+
+I –
+
+Dado pessoal: informação relacionada à pessoa natural identificada ou identificável;
+
+
+II –
+
+Dado pessoal sensível: dado pessoal relacionado à origem racial ou étnica, convicção religiosa, opinião política, filiação sindical ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural;
+
+
+III –
+
+Dado anonimizado: dado relativo ao titular que não possa ser identificado, considerando a utilização de meios técnicos razoáveis e disponíveis no momento de seu tratamento;
+
+
+IV –
+
+Banco de dados: conjunto estruturado de dados pessoais, estabelecido em um ou mais locais, em suporte eletrônico ou físico;
+
+
+V –
+
+Titular: pessoa natural a quem se referem os dados pessoais objeto de tratamento;
+
+
+VI –
+
+Controlador: pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento de dados pessoais;
+
+
+VII –
+
+Operador: pessoa natural ou jurídica, de direito público ou privado, que realiza o tratamento de dados pessoais em nome do controlador;
+
+
+VIII –
+
+Encarregado: pessoa indicada pelo controlador e operador para atuar como canal de comunicação entre o controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados – ANPD;
+
+
+IX –
+
+Agentes de tratamento: o controlador e o operador;
+
+
+X –
+
+Tratamento: toda operação realizada com dados pessoais, incluindo coleta, produção, recepção, classificação, utilização, acesso, reprodução, transmissão, distribuição, processamento, arquivamento, armazenamento, eliminação, avaliação, controle da informação, modificação, comunicação, transferência, difusão ou extração;
+
+
+XI –
+
+Anonimização: utilização de meios técnicos razoáveis e disponíveis no momento do tratamento, por meio dos quais o dado perde a possibilidade de associação, direta ou indireta, a um indivíduo;
+
+
+XII –
+
+Consentimento: manifestação livre, informada e inequívoca pela qual o titular concorda com o tratamento de seus dados pessoais para finalidade determinada;
+
+
+XIII –
+
+Bloqueio: suspensão temporária de qualquer operação de tratamento, mediante guarda do dado pessoal ou do banco de dados;
+
+
+XIV –
+
+eliminação: exclusão de dado ou conjunto de dados armazenados em banco de dados, independentemente do procedimento empregado;
+
+
+XV –
+
+Transferência internacional de dados: transferência de dados pessoais para país estrangeiro ou organismo internacional do qual o País seja membro;
+
+
+XVI –
+
+Uso compartilhado de dados: comunicação, difusão, transferência, interconexão ou tratamento compartilhado de dados pessoais entre órgãos e entidades públicas, ou entre estes e entidades privadas, para atendimento de finalidade pública específica, execução de competência legal ou cumprimento de obrigação legal ou regulatória, observadas as disposições da Lei Geral de Proteção de Dados Pessoais – LGPD;
+
+
+XVII –
+
+Relatório de impacto à proteção de dados pessoais: documentação elaborada pelo controlador contendo a descrição dos processos de tratamento de dados pessoais capazes de gerar riscos às liberdades civis e aos direitos fundamentais dos titulares, bem como as medidas, salvaguardas e mecanismos de mitigação de riscos adotados;
+
+
+XVIII –
+
+Órgão de pesquisa: órgão ou entidade da administração pública direta ou indireta, ou pessoa jurídica de direito privado sem fins lucrativos, legalmente constituída sob as leis brasileiras, com sede e foro no País, que inclua em sua missão institucional ou objetivo social a realização de pesquisa básica ou aplicada de caráter histórico, científico, tecnológico ou estatístico;
+
+
+XIX –
+
+Autoridade Nacional de Proteção de Dados – ANPD: órgão da administração pública responsável por zelar, implementar e fiscalizar o cumprimento da Lei Geral de Proteção de Dados Pessoais em todo o território nacional.
+
+
+Art. 2º.
+
+O tratamento de dados pessoais pela Câmara Municipal observará os princípios e fundamentos da Lei nº 13.709/2018, podendo ocorrer independentemente de consentimento do titular quando necessário para o cumprimento de obrigação legal, execução de políticas públicas ou exercício das competências institucionais do Poder Legislativo:
+
+
+I –
+
+Para o cumprimento de obrigação legal ou regulatória pelo controlador;
+
+
+II –
+
+Para o tratamento e uso compartilhado de dados necessários à execução de contratos, convênios ou instrumentos congêneres;
+
+
+III –
+
+Para a realização de estudos pela Escola do Legislativo, garantida, sempre que possível a anonimização dos dados pessoais;
+
+
+IV –
+
+Para a proteção da vida ou da incolumidade física do titular ou de terceiros;
+
+
+V –
+
+Para a tutela da saúde, em procedimento realizado por profissionais da área da saúde ou por entidades sanitárias, por exemplo, como a notificação compulsória de doenças e agravos e violências;
+
+
+VI –
+
+Nas hipóteses autorizadas pela Lei Geral de Proteção de Dados Pessoais – LGPD e regulamentações expedidas pela Autoridade Nacional de Proteção de Dados – ANPD, observada a prevalência do interesse público e dos direitos fundamentais do titular.
+
+
+§ 1º
+
+A dispensa da exigência do consentimento previsto no caput deste artigo deverá respeitar todas as obrigações dos agentes de tratamento previstas na LGPD, especialmente à garantia dos direitos do titular.
+
+
+§ 2º
+
+Cabe ao controlador demonstrar a manifestação livre, informada e inequívoca da vontade do titular, devendo o consentimento ser obtido por escrito ou por outro meio que permita sua comprovação.
+
+
+§ 3º
+
+É vedado o tratamento de dados pessoais mediante vicio de consentimento.
+
+
+§ 4º
+
+O controlador deverá, junto aos demais agentes de tratamento de dados pessoais, garantir ao titular o acesso facilitado às informações sobre o tratamento de seus dados, nos termos da LGPD.
+
+
+#### CAPÍTULO II — DA POLÍTICA DE TRATAMENTO E PROTEÇÃO DE DADOS PESSOAIS
+
+
+Art. 3º.
+
+A Política de Proteção de Dados Pessoais corresponde à compilação de regras de boas práticas e de governança para tratamento de dados pessoais, de observância obrigatória pelos órgãos e entidades da Administração Pública, devendo conter, no mínimo:
+
+
+I –
+
+Descrição das condições de organização, de funcionamento e dos procedimentos de tratamento, abrangendo normas de segurança, padrões técnicos, mecanismos internos de supervisão e de mitigação de riscos, plano de resposta a incidentes de segurança, bem como obrigações específicas para os agentes envolvidos no tratamento e ações educativas aplicáveis;
+
+
+II –
+
+Indicação da forma de publicidade das operações de tratamento, preferencialmente em espaço específico nos respectivos sítios eletrônicos oficiais, respeitadas as recomendações da autoridade nacional;
+
+
+III –
+
+Enumeração dos meios de manutenção de dados em formato interoperável e estruturado, para seu uso compartilhado e acesso das informações pelo público em geral, nos termos das Leis federais nº 12.527/2011 (Lei de acesso à informação) e 13.709/2018 (Lei Geral de Proteção de Dados).
+
+
+IV –
+
+Inventário institucional de dados pessoais, contendo a identificação dos fluxos de tratamento, bases legais, finalidade, prazo de retenção e classificação das informações quanto ao grau de sensibilidade;
+
+
+V –
+
+Mecanismos de controle de acesso, rastreabilidade, segurança da informação, gestão de incidentes e continuidade operacional.
+
+
+Art. 4º.
+
+A Câmara Municipal adotará maior cautela quando for necessário realizar o tratamento de dados pessoais sensíveis, os quais estão submetidos a proteção jurídica especial, nos termos do art. 11 da Lei Federal nº 13.709/2018 (LGPD).
+
+
+Art. 5º.
+
+Os dados pessoais de crianças e adolescentes devem ser tratados de acordo com a proteção constitucional que recebem e evidenciando seu melhor interesse, nos termos do Estatuto da Criança e do Adolescente.
+
+
+§ 1º
+
+Os controladores dos dados deverão obter o consentimento de pelo menos um dos pais ou pelo responsável legal para a realização do tratamento dos dados de crianças e adolescentes.
+
+
+§ 2º
+
+Haverá dispensa do consentimento referido no parágrafo anterior quando a coleta dos dados for necessária para contatar os pais ou responsáveis, somente uma vez e sem compartilhamento ou armazenamento, ou para proteção do menor.
+
+
+§ 3º
+
+O tratamento de dados pessoais de crianças e adolescentes deverá observar o princípio do melhor interesse do menor, bem como as diretrizes expedidas pela Autoridade Nacional de Proteção de Dados – ANPD.
+
+
+Art. 6º.
+
+Os dados pessoais coletados e tratados serão conservados pelo tempo necessário para atender sua finalidade pública, na persecução de interesse público, sendo eliminados respeitando-se procedimentos e dispositivos legais.
+
+
+§ 1º
+
+O uso compartilhado de dados pessoais pelo Poder Público deve sempre atender a finalidades específicas de acesso à informação pelo público em geral e de realização e execução de atividades de interesse público.
+
+
+§ 2º
+
+A eliminação de dados pessoais observará as normas arquivísticas aplicáveis, a tabela de temporalidade documental, a legislação de transparência pública e os procedimentos de descarte seguro das informações.
+
+
+Art. 7º.
+
+O titular dos dados pessoais terá acesso facilitado às informações relativas ao tratamento de seus dados, observados os prazos previstos na legislação aplicável e regulamentações da Autoridade Nacional de Proteção de Dados – ANPD.
+
+
+Art. 8º.
+
+O titular dos dados pessoais tem direito a obter do controlador, em relação aos dados do titular por ele tratados, a qualquer momento e mediante requisição:
+
+
+I –
+
+Confirmação da existência de tratamento;
+
+
+II –
+
+Acesso aos dados;
+
+
+III –
+
+Correção de dados incompletos, inexatos ou desatualizados;
+
+
+IV –
+
+Anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com o disposto na LGPD;
+
+
+V –
+
+Portabilidade dos dados a outro fornecedor de serviço ou produto, mediante requisição expressa, de acordo com a regulamentação da autoridade nacional, observados os segredos comercial e industrial;
+
+
+VI –
+
+Eliminação dos dados pessoais tratados com o consentimento do titular, exceto nas hipóteses previstas no art. 16 da LGPD;
+
+
+VII –
+
+Informação das entidades públicas e privadas com as quais o controlador realizou uso compartilhado de dados;
+
+
+VIII –
+
+Informação sobre a possibilidade de o titular não fornecer consentimento e sobre as consequências da negativa;
+
+
+IX –
+
+Revogação do consentimento, a qualquer momento, mediante manifestação expressa do titular, por meio de procedimento gratuito e facilitado.
+
+
+Parágrafo único
+
+Os direitos previstos neste artigo serão exercidos mediante requerimento expresso do titular dos dados ou de representante legalmente constituído, protocolado junto ao Encarregado pelo Tratamento de Dados Pessoais, observadas as hipóteses legais de preservação documental, sigilo institucional, transparência pública, interesse público relevante e demais disposições previstas na legislação aplicável.
+
+
+Art. 9º.
+
+É vedado à Câmara transferir dados pessoais constantes em sua base de dados para entidades privadas, salvo nas hipóteses legalmente previstas na Lei nº 13.709/2018, especialmente quando decorrente de execução contratual, cumprimento de obrigação legal, execução de políticas públicas ou exercício regular de competência legal, observadas as salvaguardas estabelecidas nesta Resolução.
+
+
+Art. 10.
+
+A Câmara Municipal de Bom Jardim de Minas, no exercício de suas funções constitucionais e legais, poderá coletar e divulgar, a depender da situação, dados pessoais por meio de:
+
+
+I –
+
+Ouvidoria;
+
+
+II –
+
+Comunicação;
+
+
+III –
+
+Protocolo;
+
+
+IV –
+
+Recepção;
+
+
+V –
+
+Telefonia;
+
+
+VI –
+
+Almoxarifado;
+
+
+VII –
+
+Audiências Públicas;
+
+
+VIII –
+
+Sessões Solenes, Ordinárias, Extraordinárias e demais atividades legislativas;
+
+
+IX –
+
+Recursos Humanos;
+
+
+X –
+
+Contratos e outros instrumentos jurídicos firmados pela Câmara.
+
+
+XI –
+
+Sistemas informatizados e plataformas eletrônicas institucionais;
+
+
+XII –
+
+Gravações, transmissões e registros audiovisuais de sessões, solenidades e eventos institucionais;
+
+
+XIII –
+
+Controle de acesso físico e eletrônico às dependências da Câmara Municipal.
+
+
+XIV –
+
+Atividades desenvolvidas pela Escola do Legislativo e programas institucionais de formação cidadã, educação legislativa e capacitação;
+
+
+XV –
+
+Programas, projetos e atividades vinculadas ao Parlamento Jovem e demais ações institucionais voltadas à participação popular, educação política e formação democrática;
+
+
+XVI –
+
+Programas, ações e atividades desenvolvidas pela Câmara Itinerante, inclusive atendimentos, audiências públicas, cadastros, manifestações populares e registros institucionais realizados em ações externas da Câmara Municipal.
+
+
+Parágrafo único
+
+A divulgação dos dados pessoais coletados nas hipóteses previstas no caput somente ocorrerá quando houver amparo em uma das bases legais estabelecidas na Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais), observados os princípios da finalidade, adequação e necessidade, bem como os limites impostos pela legislação de acesso à informação e pela natureza da atividade que originou a coleta.
+
+
+Art. 11.
+
+Quando da coleta de dados pessoais, o titular será informado ou terá disponibilizada a informação acerca da coleta e tratamento de dados pessoais.
+
+
+§ 1º
+
+A Câmara Municipal de Bom Jardim de Minas apenas coletará dados necessários para a precisa identificação do cidadão, para garantir o atendimento específico da demanda solicitada; bem como para o cumprimento de obrigações legais ou controle de acesso.
+
+
+§ 2º
+
+As informações relativas à coleta e tratamento de dados pessoais deverão estar disponíveis em Política de Privacidade publicada no sítio eletrônico oficial da Câmara Municipal.
+
+
+Art. 12.
+
+A Câmara Municipal de Bom Jardim de Minas, na condição de Controladora, manterá registro das operações de tratamento de dados pessoais que realizar, especialmente aquelas relacionadas ao exercício de competência legal, execução de políticas públicas, cumprimento de obrigação legal ou execução contratual, solicitando-se, quando necessário, consentimento do titular dos dados pessoais, observando-se que tais registros também deverão ser realizados por qualquer empresa contratada que atue como operadora de dados pessoais.
+
+
+Parágrafo único
+
+Os registros das operações de tratamento deverão conter, sempre que possível, a finalidade do tratamento, base legal aplicável, categoria dos dados tratados, prazo de retenção e identificação dos compartilhamentos realizados.
+
+
+Art. 13.
+
+Qualquer empresa contratada pela Câmara Municipal de Bom Jardim de Minas que atue como operadora de dados pessoais deverá realizar o devido tratamento conforme a Lei nº 13.709/2018 - Lei Geral de Proteção de dados Pessoais (LGPD), devendo o Encarregado orientar a observância dos preceitos, instruções e das normas sobre a matéria.
+
+
+Parágrafo único
+
+Os editais de licitações, os chamamentos públicos, as dispensas de licitação, as inexigibilidades de licitação, assim como os instrumentos contratuais utilizados para estabelecer as relações de serviço com a Câmara Municipal, deverão mencionar expressamente a possibilidade de verificação da adoção das instruções e normas pela contratada no que se refere a Lei nº 13.709/2018 – Lei Geral de Proteção de dados Pessoais (LGPD), estando sujeitos a penalidades administrativas decorrentes da Lei de Licitações.
+
+
+#### CAPÍTULO III — DO CONTROLADOR DE DADOS PESSOAIS
+
+
+Art. 14.
+
+As decisões referentes ao tratamento de dados pessoais no âmbito da Câmara Municipal de Bom Jardim de Minas, que exercerá as atribuições de Controladora, serão tomadas com o auxílio do Comitê Gestor de Proteção de Dados e Informações, órgão de apoio técnico vinculado diretamente à Presidência da Câmara Municipal, composto majoritariamente por servidores efetivos, respeitadas suas respectivas competências e áreas funcionais.
+
+
+Art. 15.
+
+Cabe ao Controlador:
+
+
+I –
+
+Fornecer ao Comitê Gestor de Proteção de Dados e Informações da Câmara Municipal os subsídios técnicos necessários para elaboração e monitoramento de diretrizes gerais relativas às operações de tratamento de dados pessoais;
+
+
+II –
+
+Orientar, sob o aspecto tecnológico, a implantação, em seus respectivos âmbitos, da Política de Proteção de Dados Pessoais, em conformidade com as diretrizes gerais deliberadas pelo Comitê Gestor de Proteção de Dados e Informações da Câmara Municipal;
+
+
+III –
+
+Expedir normas regulamentares necessárias ao cumprimento da Lei nº 13.709/2018 e desta Resolução, após oitiva do Comitê Gestor de Proteção de Dados e Informações da Câmara Municipal;
+
+
+IV –
+
+Assegurar o cumprimento das normas relativas à proteção dos dados pessoais, de forma adequada aos objetivos da Lei nº 13.709/2018;
+
+
+V –
+
+Monitorar a aplicação da Lei nº 13.709/2018 e desta Resolução no âmbito da Câmara Municipal de Bom Jardim de Minas.
+
+
+Art. 16.
+
+O Comitê Gestor de Proteção de Dados e Informações será composto por, no mínimo, 03 (três) membros designados por Portaria da Presidência da Câmara Municipal, preferencialmente vinculados às áreas jurídica, administrativa/legislativa e de comunicação institucional, podendo contar com apoio técnico de outros setores da Câmara sempre que necessário.
+
+
+§ 1º
+
+Um dos membros exercerá a função de Encarregado pelo Tratamento de Dados Pessoais – LGPD.
+
+
+§ 2º
+
+A designação dos membros observará, preferencialmente, critérios de capacidade técnica, conhecimento institucional e afinidade com atividades relacionadas à proteção de dados, transparência, comunicação institucional, gestão documental ou segurança da informação.
+
+
+Parágrafo único.
+
+O Encarregado e os demais membros do Comitê serão nomeados pelo Presidente da Câmara através de Portaria, pelo período de um ano, admitindo-se renovação.
+
+
+Art. 17.
+
+O Comitê Gestor de Proteção de Dados e Informações da Câmara Municipal de Bom Jardim de Minas será responsável por:
+
+
+I –
+
+Elaborar e submeter a Presidência da Câmara, para aprovação, a Política de Proteção de Dados Pessoais, em conformidade com o disposto na Lei Geral de Proteção de Dados Pessoais - LGPD (Lei n. 13.709/2018), contemplando as seguintes etapas:
+
+
+a)
+
+treinamento e conscientização;
+
+
+b)
+
+avaliação da realidade organizacional;
+
+
+c)
+
+definição da Estratégia de Proteção de Dados;
+
+
+d)
+
+elaboração dos Documentos de Privacidade (Termos de Uso e Política de Privacidade); e
+
+
+e)
+
+implementação e monitoramento.
+
+
+II –
+
+Assessorar a Presidência nas atividades relacionadas à proteção de dados pessoais.
+
+
+III –
+
+Promover o intercâmbio de informações sobre a proteção de dados pessoais com outros órgãos.
+
+
+Parágrafo único
+
+Os membros do Comitê Gestor de Proteção de Dados e Informações da Câmara Municipal deverão manter-se atualizados quanto a alterações promovidas pela Autoridade Nacional de Proteção de Dados, participando de cursos e outras atividades quando se fizer necessário.
+
+
+Art. 18.
+
+Os membros do Comitê Gestor de Proteção de Dados e Informações da Câmara Municipal deverão preservar a:
+
+
+I –
+
+Integridade da informação: Garantia de que a informação seja mantida em seu estado original, visando protegê-la, na guarda ou transmissão, contra alterações indevidas, intencionais ou acidentais;
+
+
+II –
+
+Confidencialidade da informação: Garantia de que o acesso à informação seja obtido somente por pessoas autorizadas;
+
+
+III –
+
+Disponibilidade da informação: Garantia de que os usuários autorizados obtenham acesso à informação e aos ativos correspondentes sempre que necessário;
+
+
+IV –
+
+Autenticidade: Garantia de que a propriedade da informação é verdadeira e fidedigna tanto na origem quanto no destino;
+
+
+V –
+
+Privacidade: Garantia de que as informações pessoais e da vida íntima sejam mantidas em sigilo (art. 5º, incisos X e XII, da Constituição Federal);
+
+
+VI –
+
+Proteção de dados: Garantia de que as informações pessoais sejam utilizadas em conjunto com o estabelecimento de uma série de medidas de segurança para evitar danos de qualquer espécie (LGPD).
+
+
+VII –
+
+Rastreabilidade e responsabilização: garantia de identificação dos acessos, operações e tratamentos realizados nos sistemas e bases de dados institucionais.
+
+
+#### CAPÍTULO IV — DO ENCARREGADO DE DADOS PESSOAIS E APLICAÇÃO DA LEI GERAL DE PROTEÇÃO DE DADOS (LGPD)
+
+
+Art. 19.
+
+O Encarregado pelo Tratamento de Dados Pessoais e Aplicação da Lei Geral de Proteção de Dados (LGPD), de que trata o art. 15 desta Resolução, atuará como canal de comunicação entre a Câmara Municipal, os titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD), bem como com outras entidades de proteção de dados pessoais, sendo que:
+
+
+I –
+
+Deve preferencialmente possuir conhecimentos multidisciplinares essenciais à sua atribuição ou receber capacitação para tal, especialmente conhecimentos relativos à privacidade e à proteção de dados pessoais, à análise jurídica, à gestão de riscos, à governança de dados e ao acesso à informação no setor público;
+
+
+II –
+
+Deve receber contínuo aperfeiçoamento relacionado aos conhecimentos de que trata o inciso I;
+
+
+III –
+
+Deve ser nomeado por meio de Portaria da Presidência da Câmara Municipal, no prazo de até 30 (trinta) dias contados da entrada em vigor desta Resolução, podendo a função ser exercida interinamente por servidor designado até a efetiva nomeação.
+
+
+§ 1º
+
+A identidade e as informações de contato do Encarregado serão divulgadas no sítio eletrônico da Câmara Municipal, dando-se ostensiva publicidade.
+
+
+§ 2º
+
+O disposto no caput deste artigo não impede que os demais setores e departamentos da Câmara Municipal, em seus respectivos âmbitos, prestem auxílio administrativo para desempenhar os procedimentos de proteção/tratamento de dados, em interlocução com o Encarregado pelo Tratamento de Dados Pessoais e Aplicação da Lei Geral de Proteção de Dados (LGPD).
+
+
+Art. 20.
+
+O Encarregado pelo Tratamento de Dados Pessoais e Aplicação da LGPD deverá receber o apoio necessário para o desempenho de suas funções, bem como ter acesso motivado a todas as operações de tratamento de dados pessoais no âmbito da Câmara Municipal.
+
+
+Parágrafo único
+
+O Encarregado atuará com autonomia técnica no exercício de suas atribuições, vedada qualquer forma de retaliação ou limitação indevida de acesso às informações necessárias ao desempenho de suas funções.
+
+
+Art. 21.
+
+São atribuições do Encarregado pelo Tratamento de Dados Pessoais e Aplicação da LGPD:
+
+
+I –
+
+Receber reclamações e comunicação dos titulares dos dados, prestar esclarecimentos e adotar providências;
+
+
+II –
+
+Receber comunicações da Autoridade Nacional de Proteção de Dados Pessoais - ANPD - e adotar providências;
+
+
+III –
+
+Responder pela comunicação e interação entre o controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados.
+
+
+IV –
+
+Disseminar a cultura da proteção dos dados pessoais dentro da organização e avaliar as atividades de tratamento que a organização realiza.
+
+
+V –
+
+Orientar os servidores e demais colaboradores da Câmara a respeito das práticas a serem adotadas em relação à proteção de dados pessoais;
+
+
+VI –
+
+Quando provocado, entregar o Relatório de Impacto de Proteção aos Dados Pessoais, na forma da lei.
+
+
+VII –
+
+Atender às normas complementares da Agência Nacional de Proteção de Dados Pessoais;
+
+
+VIII –
+
+Informar à Agência Nacional de Proteção de Dados Pessoais e aos titulares dos dados pessoais eventuais incidentes de privacidade de dados pessoais, dentro da execução de um plano de respostas a incidentes;
+
+
+IX –
+
+Executar as demais atribuições determinadas pela Câmara ou estabelecidas em normas complementares.
+
+
+X –
+
+Elaborar o Relatório de Impacto à Proteção de Dados Pessoais (RIPD) de forma proativa nas seguintes hipóteses: (a) tratamento em larga escala de dados pessoais sensíveis; (b) monitoramento sistemático de titulares; (c) adoção de novas tecnologias de tratamento de dados; ou (d) sempre que solicitado pela Autoridade Nacional de Proteção de Dados.
+
+
+XI –
+
+Promover ações periódicas de capacitação, conscientização e orientação aos servidores e colaboradores quanto às boas práticas de proteção de dados pessoais;
+
+
+XII –
+
+Monitorar a conformidade das atividades de tratamento de dados pessoais realizadas no âmbito da Câmara Municipal.
+
+
+Art. 22.
+
+Mediante requisição do Encarregado pelo Tratamento de Dados Pessoais e Aplicação da LGPD, os setores administrativos da Câmara deverão encaminhar, no prazo assinalado, as informações eventualmente necessárias para atender solicitação da Autoridade Nacional ou de titulares dos direitos, devendo ser comunicadas, pelo gestor da unidade administrativa responsável pelo tratamento dos dados:
+
+
+I –
+
+A existência de qualquer tipo de tratamento de dados pessoais;
+
+
+II –
+
+Contratos que envolvam dados pessoais;
+
+
+III –
+
+Situações de conflito entre a proteção de dados pessoais, o princípio da transparência ou algum outro interesse público;
+
+
+IV –
+
+Qualquer outra situação que precise de análise e encaminhamento.
+
+
+Parágrafo único
+
+O descumprimento injustificado das solicitações formuladas pelo Encarregado poderá ensejar apuração administrativa, observadas as disposições legais e regimentais aplicáveis.
+
+
+Art. 23.
+
+Os requerimentos do titular de dados, formulados nos termos do artigo 18 da Lei Federal nº 13.709/2018, serão direcionados ao Encarregado pelo Tratamento de Dados Pessoais e Aplicação da LGPD, e deverão observar os prazos e procedimentos previstos na Lei Federal nº 12.527/2011.
+
+
+§ 1º
+
+Os requerimentos de que trata o caput deste artigo serão respondidos pelo Encarregado pelo Tratamento de Dados Pessoais e Aplicação da LGPD de acordo com os princípios estabelecidos no art. 6º, incisos I ao X da LGPD.
+
+
+§ 2º
+
+O pedido acerca do tratamento de dados pessoais solicitado pelo titular não se confunde com o pedido realizado com fundamento na Lei nº 12.527/2011, mantendo-se válidos os dispositivos que restringem o acesso a informações pessoais por terceiros, salvo após decorrência do prazo de sigilo, previsão legal ou consentimento expresso do titular.
+
+
+§ 3º
+
+A proteção de dados pessoais não poderá ser utilizada para restringir a publicidade obrigatória dos atos administrativos, o controle social e o cumprimento da Lei de Acesso à Informação.
+
+
+Art. 24.
+
+O Encarregado pelo Tratamento de Dados Pessoais e Aplicação da LGPD comunicará à Presidência da Câmara Municipal e ao titular dos dados a ocorrência de incidente de segurança que possa acarretar risco ou dano relevante aos titulares informando:
+
+
+I –
+
+A descrição da natureza dos dados pessoais afetados;
+
+
+II –
+
+As informações sobre os titulares envolvidos;
+
+
+III –
+
+A indicação das medidas técnicas e de segurança utilizadas para a proteção dos dados, observados os segredos comercial e industrial;
+
+
+IV –
+
+Os riscos relacionados ao incidente;
+
+
+V –
+
+Os motivos da demora, no caso de a comunicação não ter sido imediata;
+
+
+VI –
+
+As medidas que foram ou que serão adotadas para reverter ou mitigar os efeitos do prejuízo.
+
+
+Parágrafo único
+
+A comunicação do incidente de segurança será realizada em prazo razoável, observadas a gravidade do incidente, a regulamentação da Autoridade Nacional de Proteção de Dados – ANPD e as medidas necessárias para mitigação dos riscos.
+
+
+#### CAPÍTULO V — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 25.
+
+O(a) Presidente da Câmara Municipal assegurará a estrutura administrativa e operacional necessária ao cumprimento da Lei Geral de Proteção de Dados Pessoais (LGPD).
+
+
+Art. 26.
+
+A Câmara Municipal disponibilizará em seu sítio eletrônico informações sobre a política de proteção de dados, bem como canal de comunicação com o Encarregado de Dados.
+
+
+Art. 27.
+
+A Câmara Municipal promoverá, periodicamente, ações de capacitação, conscientização e orientação aos servidores, vereadores, colaboradores e prestadores de serviço quanto às boas práticas de proteção de dados pessoais e segurança da informação.
+
+
+Art. 28.
+
+O descumprimento das disposições previstas nesta Resolução poderá ensejar responsabilização administrativa, civil e funcional, observadas as disposições legais, regimentais e estatutárias aplicáveis.
+
+
+Art. 29.
+
+A Presidência da Câmara Municipal poderá expedir normas complementares, manuais, protocolos e procedimentos internos necessários à execução desta Resolução, observadas as disposições da Lei Federal nº 13.709/2018 e regulamentações da Autoridade Nacional de Proteção de Dados – ANPD.
+
+
+Art. 30.
+
+Esta Resolução entra em vigor na data de sua publicação.
+
+
+Bom Jardim de Minas, 08 de junho de 2026.
+
+**Ana Claudia Gomes**
+
+**Presidente**
+

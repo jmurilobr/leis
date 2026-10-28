@@ -1,0 +1,165 @@
+{
+  "escopo": "Exatamente dois POST ao endpoint oficial GitHub markdown para render, sem publicação nem requisição governamental adicional. Requests e responses integrais preservados.",
+  "limite": "GitHub pode sanitizar CSS/classes; compara texto, sinais, números/contextos e ol/ul/li/type/start/value. Não afirma identidade visual de CSS.",
+  "resumo": {
+    "chamadas": 2,
+    "aprovados": 2,
+    "divergencias": 0
+  },
+  "registros": [
+    {
+      "path": "federal/decretos/1943/dec-13744-1943-10-26.md",
+      "lote": 20,
+      "arquivo_final": "federal/_candidatos_commonmark_020_20261027_001/dec-13744-1943-10-26.md",
+      "urn": "urn:lex:br:federal:decreto:1943-10-26;13744",
+      "numero": "13744",
+      "data": "1943-10-26",
+      "sha256_md_final": "80609afbb133452de54398a97039d81679efa037875e5d77a6879c74229845a6",
+      "sha256_md_canonico": "12c0db32917b463f2c212e4dbe09f5f571a7a166e826286c4dcf4c1f1261fbe2",
+      "sha256_html": "bf986e2a2431b31982b5b6d5175f3453616adeda81b706d53828ba5b17e9b6e6",
+      "fonte_html_cache": "federal/_fonte/decretos/1943/dec-13744-1943-10-26.html.gz",
+      "sha256_metadados": "6fc4963e8e3165c4f03474b541cd06a92b6dd5115ded1f7ce31a4e191ea9cd53",
+      "captura_metadados": "federal/_fonte/metadados-normas/076044b85c35578e5dba1ab08bad57787396b894f1f59b400d6b7b472bacbb78/6fc4963e8e3165c4f03474b541cd06a92b6dd5115ded1f7ce31a4e191ea9cd53.json.gz",
+      "request": {
+        "path": "federal/_fonte/auditorias/retomada_federal_20261027_003/github_dois/01_request.json",
+        "sha256": "4f1c5f032eab126a6e9ce2dbaa122c119c9d3cb78bf2f7624fe73e1f6e83dd2c"
+      },
+      "response": {
+        "path": "federal/_fonte/auditorias/retomada_federal_20261027_003/github_dois/01_response.html",
+        "sha256": "d8359189ca60fa0c3b0d7abe3248e339d432deff79cd51644bda0e2a49ef50c0"
+      },
+      "texto_pontuacao_numeros_contextos_iguais": true,
+      "estrutura_listas_type_start_value_igual": true,
+      "listas_fonte": [
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "A"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ]
+      ],
+      "listas_render": [
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "A"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ]
+      ],
+      "sha256_visivel_fonte": "f15789083ec686440ca5a96052817811517833eaef870bca838e6163f0c10bfe",
+      "sha256_visivel_github": "f15789083ec686440ca5a96052817811517833eaef870bca838e6163f0c10bfe",
+      "aprovado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-12418-1943-05-13.md",
+      "lote": 21,
+      "arquivo_final": "federal/_candidatos_commonmark_021_20261027_001/dec-12418-1943-05-13.md",
+      "urn": "urn:lex:br:federal:decreto:1943-05-13;12418",
+      "numero": "12418",
+      "data": "1943-05-13",
+      "sha256_md_final": "51f2eecc0264036cd915292a13d237370bd8c8b89fe8db54c1f6bcf11134ceb5",
+      "sha256_md_canonico": "94275b045d03f62e67f9041cc1fe7460a0b75fcc3d770f468b548b019d2124b4",
+      "sha256_html": "b0bcfd01ed0829cbb8406dae38933a37bad65e37f8d4ae4a28360e01cf2f48c1",
+      "fonte_html_cache": "federal/_fonte/decretos/1943/dec-12418-1943-05-13.html.gz",
+      "sha256_metadados": "faa6d46d4e16951a0b75431e500be1ad150c5da48c6bd7885a1dbdd95eb121eb",
+      "captura_metadados": "federal/_fonte/metadados-normas/14e9544a1b44571399ca63812e68eb3142b307ff389cea0e5991290eea26a761/faa6d46d4e16951a0b75431e500be1ad150c5da48c6bd7885a1dbdd95eb121eb.json.gz",
+      "request": {
+        "path": "federal/_fonte/auditorias/retomada_federal_20261027_003/github_dois/02_request.json",
+        "sha256": "39e82e8b76ec55b97645b11d91ceb114441b90b63ef2fc67a2d0cd7ac1d5ab1b"
+      },
+      "response": {
+        "path": "federal/_fonte/auditorias/retomada_federal_20261027_003/github_dois/02_response.html",
+        "sha256": "899b55ec8d3c948b49e369f7bf454af5578c27d34d2127d8bf8fc9fd1521a371"
+      },
+      "texto_pontuacao_numeros_contextos_iguais": true,
+      "estrutura_listas_type_start_value_igual": true,
+      "listas_fonte": [
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "A"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ]
+      ],
+      "listas_render": [
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "A"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ]
+      ],
+      "sha256_visivel_fonte": "dc3985a72445ae694a81034227a06020bc014123e4a4201c858c9261dbf092b6",
+      "sha256_visivel_github": "dc3985a72445ae694a81034227a06020bc014123e4a4201c858c9261dbf092b6",
+      "aprovado": true
+    }
+  ]
+}

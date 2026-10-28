@@ -1,0 +1,196 @@
+---
+titulo: "LEI ORDINÁRIA-CMC nº 891, de 28 de dezembro de 2000"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "891"
+data: "2000-12-28"
+municipio: "Claraval"
+uf: "MG"
+codigo_ibge: "3116407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.claraval.mg.leg.br/norma/1255"
+fonte_texto: "https://sapl.claraval.mg.leg.br/ta/585/text"
+sha256_fonte: "0b5dce41f8056e490998ca4a335af1343ef6baf688693d40b21605d2fbc84452"
+sha256_texto: "2742374be3a62e6e5612711752552262f8bcc13c0b67bea1245b3ef4c9eebde6"
+capturado_em_fonte: "2026-10-27T23:05:23.633212-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA-CMC nº 891, de 28 de dezembro de 2000
+
+"Dispõe sobre a abertura de CREDITO ADICIONAL SUPLEMENTAR no orçamento em vigor e dá outras providências."
+
+
+LUIZ GONZAGA CINTRA, Prefeito Municipal de Claraval, Estado Ide Minas Gerais, em pleno exercício do seu cargo e usando das atribuições que lhe são conferidas por lei, FAZ SABER que a Câmara Municipal local APROVOU e ele, em seu nome, SANCIONA e PROMULGA a seguinte lei:
+
+
+Art. 1º.
+
+Fica aberto no Serviço de Contabilidade um Crédito Adicional Suplementar no valor de R$13.292,00 (TREZE MIL E DUZENTOS E NOVENTA E DOIS REAIS.\*\*\*\*\*\*\*\*\*\*\*: \*\*\*\*\*\*\*\*\*), destinado a acobertar despesas com as seguintes dotações orçamentárias em vigor:
+
+
+02.00 - GABINTE DO PREFEITO
+
+02.01 - ADMINISTRAÇÃO DO GABINETE
+
+03.07.020.2002 3120 - Material de Consumo....................................................................450,00
+
+02.03 - SEGURANÇA PÚBLICA
+
+06.30.177.2004 3120 - Material de Consumo....................................................................400,00
+
+03.00 - ADMINISTRAÇÃO, PLANEJAMENTO E FINANÇAS
+
+03.01 - ADMINISTRAÇÃO GERAL
+
+03.07.021.2005 3120 - Material de Consumo....................................................................250,00
+
+2005 3132 - Serv. Terc. e Encargos...............................................................................3.600,00
+
+2007 3191 - Sentenças Judiciárias.................................................................................1.539,00
+
+15.84.494.2008 3280 – PASEP......................................................................................3.000,00
+
+04.00 - EDUCAÇÃO, CULTURA, ESPORTE E LAZER
+
+04.09 - ESPORTE E LAZER
+
+08.46.224.2017 3120 - Material de Consumo....................................................................180,00
+
+1039 4110 - Construção de Centro de Lazer.....................................................................350,00
+
+05.00 - SAÚDE E AÇÃO SOCIAL
+
+05.05 - ASSISTENCIA SOCIAL
+
+15.81.486.2021 3120 - Material de Consumo.................................................................2.100,00
+
+06.00 - SERVIÇOS MUNICIPAIS
+
+06.02 - SERVIÇOS DE ESTRADAS DE RODAGEM MUNICIPAIS
+
+16.88.536.2025 3120 - Material de Consumo....................................................................723,00
+
+2025 3132 - Serv. Terc. e Encargos..................................................................................700,00
+
+
+Art. 2º.
+
+Para fazer face às despesas decorrentes da execução desta lei, serão utilizados recursos provenientes de anulações parciais e/ou totais das seguintes dotações do orçamento em vigor:
+
+
+01.00 - CAMARA MUNICIPAL
+
+01.01 - CORPO LEGISLATIVO
+
+01.01.001.2001 – 3113 - Obrigações Patronais....................................................................1,00
+
+2001 3120 - Material de Consumo.....................................................................................183,00
+
+2001 3132 - Serv. Terc. e Encargos....................................................................................75,00
+
+1001 4120 - Equipamentos e Mat. Permanente................................................................224,00
+
+02.00 - GABINETE DO PREFEITO
+
+02.01 - ADMINISTRAÇÃO DO GABINETE
+
+03.07.020.2000 3120 - Material de Consumo/Festividades...............................................667,00
+
+2000 3132 - Serv. Terceiros/Festividades.........................................................................432,00
+
+2002 3132 - Serv. Terceiros e Encargos...........................................................................350,00
+
+02.02 - PROJETOS ESPECIAIS E ASSISTENCIA AGROPECUARIA
+
+04.18.111.2003 3120 - Material de Consumo....................................................................520,00
+
+2003 3132 - Serv. Terceiros e Encargos...............................................................................2,00
+
+1004 4120 - Equipamentos e Mat. Permanente...................................................................1,00
+
+02.03 SEGURANÇA PUBLICA
+
+06.30.177.2004 3132 - Serv. Terceiros e Encargos............................................................58,00
+
+1038 4120 - Construção e Ampl. Prédio Polícia....................................................................9,00
+
+03.00 - ADMINISTRAÇÃO, PLANEJAMENTO E FINANÇAS
+
+03.01 - ADMINISTRAÇÃO GERAL
+
+03.07.021.2005 3111 - Pessoal Civil.............................................................................1.550,00
+
+2006 3233 - Contribuições a Fundos...................................................................................17,00
+
+2005 3262 - Despesas de Exerc. Anteriores.....................................................................637,00
+
+1006 4120 - Equip. e Material Permanente...........................................................................7,00
+
+04.00 - EDUCAÇÃO, CULTURA, ESPORTE E LAZER
+
+04.01 - ENSINO INFANTIL/CRECHE
+
+08.41.185.2008 3132 - Material de Consumo.................................................................1.297,00
+
+04.03 - ENSINO FUNDAMENTAL/RECURSOS PROPRIOS
+
+08.42.188.2010 3120 - Material de Consumo.................................................................1.300,00
+
+08.47.239.2011 3120 - Mat. Consumo/Transporte Escolar..................................................38,00
+
+08.42.188.2010 3132 - Serv. Terceiros e Encargos..........................................................805,00
+
+08.47.239.2011 3132 - Outros Serviços/Transp.Escolar.................................................1.412,00
+
+08.42.188.1008 4110 - Constr., Reforma e Ampl. Escolas..................................................26,00
+
+1010 - Equipamentos e Mat. Permanente...........................................................................80,00
+
+04.04 - FUNDEF/NORMAL
+
+08.42.188.2011 3132 - Outros Serviços/Transp. Escolar......................................................7,00
+
+04.08 - ENSINO GERAL
+
+08.47.427 3120 - Diversos Materiais/Mer. Escolar............................................................898,00
+
+04.09 ESPORTE E LAZER Prefeito Municipal
+
+08.47.224.2017 3132 - Serv. Terceiros e Encargos.........................................................118,00
+
+08.46.228.1013 4110 - Centro Poliesportivo......................................................................450,00
+
+04.10 - CULTURA
+
+08.48.247.2019 3120 - Material de Consumo....................................................................573,00
+
+2019 3132 - Serv. Terceiros e Encargos...........................................................................212,00
+
+05.00 - SAUDE E AÇÃO SOCIAL
+
+05.05 - ASSISTENCIA SOCIAL
+
+15.81.486.2022 3231 - Subvenções Sociais......................................................................427,00
+
+06.00 - SERVIÇOS MUNICIPAIS
+
+06.01 - SERVIÇOS URBANOS
+
+10.60.575.1026 - Aquisição de Equipamentos..................................................................286,00
+
+
+Art. 3º.
+
+Revogam-se as disposições em contrário, entrando a presente Lei em vigor na data de sua publicação.
+
+
+Claraval 28 de dezembro de 2000.
+
+LUIZ GONZAGA CINTRA
+
+Prefeito Municipal
+

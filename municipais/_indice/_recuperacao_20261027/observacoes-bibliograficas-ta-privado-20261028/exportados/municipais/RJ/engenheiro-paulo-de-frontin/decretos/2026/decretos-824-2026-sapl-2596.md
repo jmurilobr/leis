@@ -1,0 +1,64 @@
+---
+titulo: "DECRETO EXECUTIVO-PMEPF nº 824, de 09 de junho de 2026"
+tipo: "Decreto"
+tipo_na_fonte: "DECRETO EXECUTIVO"
+numero: "824"
+data: "2026-06-09"
+municipio: "Engenheiro Paulo de Frontin"
+uf: "RJ"
+codigo_ibge: "3301801"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/2596"
+fonte_texto: "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/1901/text"
+sha256_fonte: "d52df4d686737415ce50257c9a87c563677051efaa0985b0136141e2881cad95"
+sha256_texto: "05b9a260dbf494b51875fe69e90687719832b9ec2b532032b2f58e8a775b597b"
+capturado_em_fonte: "2026-10-28T10:28:41.299085-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+observacao_fonte: "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 10/06/2026. Edição 4138 A verificação de autenticidade da matéria pode ser feita informando o código identificador no site: https://www.diariomunicipal.com.br/aemerj/"
+fonte_metadados: "https://sapl.engenheiropaulodefrontin.rj.leg.br/api/norma/normajuridica/2596/"
+sha256_metadados_fonte: "c3b80b18ee558652d7b3b07871af5735231340cd19261f182a8c0036d36ba4da"
+---
+
+# DECRETO EXECUTIVO-PMEPF nº 824, de 09 de junho de 2026
+
+O Prefeito do Município de Engenheiro Paulo de Frontin, no uso de suas atribuições legais, DECRETA:
+
+
+Art. 1º.
+
+Estabelece os prazos para pagamento do Imposto Predial e Territorial Urbano (IPTU), que obedecera aos seguintes vencimentos:
+
+
+I – PAGAMENTO EM COTA ÚNICA:
+
+
+\- Até 31 de julho de 2026, com desconto de 10% (dez por cento)
+
+
+II – PAGAMENTO EM 06 (SEIS) COTAS E VENCIMENTOS
+
+
+SEM DESCONTO:
+
+
+Art. 2º.
+
+Os carnês de IPTU serão enviados para os endereços cadastrados no banco de dados da Prefeitura.
+
+
+Art. 3º.
+
+Este Decreto entra em vigor na data de sua publicação, revogando-se as disposições em contrário, em especial o Decreto nº 805/2026.
+
+
+Engenheiro Paulo de Frontin, 09 de junho de 2026.
+
+
+JOSÉ EMMANOEL RODRIGUES ARTEMENKO
+
+
+Prefeito Municipal
+

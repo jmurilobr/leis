@@ -1,0 +1,26 @@
+from pathlib import Path
+import json,hashlib,sys,datetime,re
+sys.path.insert(0,'scripts');from preparar_lote_decretos_cache import fields
+from identidade_decreto import numero_normalizado,extrair_epigrafe_decreto
+from estados.pe_fidelidade_visivel import texto_visivel_html
+import auditar
+sha=lambda b:hashlib.sha256(b).hexdigest();B=Path('federal');fixes={r['path']:r for r in json.load(open(B/'_reparos_commonmark_019_20261021_001.json'))['registros']};html={r['path']:r for group in ['003'] for r in json.load(open(B/f'_candidatos_listas_html_original_20261021_{group}.json'))['registros'] if 'dec-23438-' not in r['path']};notes={r['path']:r for r in json.load(open(B/'_fechos_contextuais_20261021_020.json'))['registros'] if r['status']=='candidato_privado_com_nota_literal_sem_emenda'};extra=json.load(open(B/'_overlay_contexto_integridade_019_20261021_002.json'))['registros'];overlay18=[];plans=[];render=[];seen=set();keys=set()
+for no in [19]:
+ oldp=B/f'_lote_dec_continuacao_20261020_{no:03}_{"v2" if no==19 else "v3"}.json';old=json.load(open(oldp));rawp=B/f'_lote_dec_continuacao_20261020_{no:03}.json';raw={r['path']:r for r in json.load(open(rawp))['publicaveis']};held={r['path']:r for r in old['retidos']}
+ for r in extra+overlay18:
+  if r['path'] in raw and (r.get('lote',no)==no):held[r['path']]=r
+ pubs=[];prom=[]
+ for r0 in old['publicaveis']:
+  p=r0['path']
+  if p in held:continue
+  r=dict(r0);canonical=Path(p).read_bytes();assert sha(canonical)==raw[p]['sha256'];candidate=r.get('candidato_promocao',p);change=r.get('mudanca_privada')
+  if no==19 and p in notes:candidate=notes[p]['candidato'];change='Somente nota de literalidade do fecho, sem emendar corpo.'
+  if p in fixes:candidate=fixes[p]['candidato'];change='Correção de markup ou escape de sinais literais, com replay CommonMark estrutural.'
+  if p in html:candidate=html[p]['candidato'];change='Preserva o body HTML original, sem renumerar marcadores literais; revisão ROOT pendente.'
+  actual=Path(candidate).read_bytes();m,c,b=fields(actual.decode());assert m['urn']==r['urn'];ep=extrair_epigrafe_decreto('\n\n'.join(texto_visivel_html(q) for q in re.findall(r'<p\b[^>]*>[\s\S]*?</p>',b,re.I)[:8])) if p in html else extrair_epigrafe_decreto(b);assert ep and ep['numero']==numero_normalizado(r['epigrafe']['numero']) and ep['data']==r['epigrafe']['data'];e,w=auditar.validar(actual.decode(),p,datetime.date.today());assert not e and not w,(p,e,w);key=(r['epigrafe']['data'][:4],numero_normalizado(r['epigrafe']['numero']));assert r['urn'] not in seen and key not in keys;seen.add(r['urn']);keys.add(key)
+  r['sha256']=sha(actual)
+  if candidate!=p:r.update(candidato_promocao=candidate,sha256_preimagem=sha(canonical),mudanca_privada=change);prom.append({'path':p,'candidate':candidate,'sha256_preimagem':sha(canonical),'sha256_candidato':sha(actual),'mudanca':change})
+  pubs.append(r);render.append({'path':p,'markdown':b.lstrip().partition('\n')[2]})
+ assert len(pubs)+len(held)==2000
+ plans.append({'lote':no,'versao_final':'v3' if no==19 else 'v4','manifesto_anterior':str(oldp),'sha256_manifesto_anterior':sha(oldp.read_bytes()),'publicaveis':pubs,'retidos':list(held.values()),'promocoes':prom})
+Path('/tmp/federal20261021-cumulativos019-preparo.json').write_text(json.dumps(plans,ensure_ascii=False,indent=2)+'\n');Path('/tmp/federal20261021-cumulativos019-render-input.json').write_text(json.dumps(render));print([(p['lote'],len(p['publicaveis']),len(p['retidos']),len(p['promocoes'])) for p in plans],flush=True)

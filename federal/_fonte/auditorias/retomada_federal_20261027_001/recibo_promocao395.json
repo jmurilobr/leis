@@ -1,0 +1,40 @@
+{
+  "escopo": "Runner preparado exclusivamente para revisão e execução ROOT. Analisado sintaticamente, nunca executado pelo agente, nem no modo de validação. Todos os inputs abaixo foram verificados por rotinas independentes.",
+  "sha256_runner": "5f625c9aa68d118ee90bae139fc03c75c71a3000375db519baaf4edf89c80cde",
+  "insumos": [
+    {
+      "path": "federal/_fonte/auditorias/retomada_federal_20261027_001/verificacao_9061.json",
+      "sha256": "be51e0f8071ed043f9892f0345fd90969fe9a59adfbc62ba08d3313e41e29c6b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/retomada_federal_20261027_001/promocoes_395.json",
+      "sha256": "31b09b321970cc34c8a1d366832093c1743de35b1ef9ba41e12b2ddf14b0a077"
+    },
+    {
+      "path": "federal/_fonte/auditorias/retomada_federal_20261027_001/publicar9061-completo-hashes-v2.json",
+      "sha256": "fc1e78b34ebc169917c83445a78a9f53bf5f915e447fd3ffd47d65954970d343"
+    },
+    {
+      "path": "federal/_fonte/auditorias/retomada_federal_20261027_001/replay_9061_resultado.json",
+      "sha256": "4f27461eb12fea37a65f854df18c7345e42f68edc8dae3fb4ba1d46a5ecd6066"
+    },
+    {
+      "path": "federal/_fonte/auditorias/retomada_federal_20261027_001/github_sete/resultado.json",
+      "sha256": "c6c72374aad3dd56e53c70bda93155e65ca9f54e47bc8e2a00bfb358b49ed4cb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/retomada_federal_20261027_001/inventario_contextual9061.json",
+      "sha256": "1473dc9f57207231ad9e728a37738d1eea5b60a8228d85bbf37254e72c9ad793"
+    },
+    {
+      "path": "federal/_fonte/auditorias/retomada_federal_20261027_001/fontes9061/mapa_fontes9061.json",
+      "sha256": "241b782c49c0fb2904448844034f35cc2ae631c8e3825b68a1067dd5d67b08bf"
+    },
+    {
+      "path": "federal/_fonte/auditorias/retomada_federal_20261027_001/validacao_arquivo_publico9061.json",
+      "sha256": "93f35398d89b368dee9434a4f6f0a12c5808af5efeaea0082c51cd356583bd77"
+    }
+  ],
+  "publicacao": "Nenhum canônico, snapshot, registro ou Git modificado. A aplicação exige --apply e somente começa após validar todos os 9.061 registros, 395 preimagens/candidatos, arquivos do pacote, respostas GitHub e ausência dos destinos em HEAD.",
+  "limites": "Validação estrutural/textual não certifica identidade visual CSS, vigência jurídica ou revisão humana universal; fontes e retenções históricas preservadas."
+}

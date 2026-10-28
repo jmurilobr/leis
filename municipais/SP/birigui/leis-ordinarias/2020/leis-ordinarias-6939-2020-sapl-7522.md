@@ -1,0 +1,230 @@
+---
+titulo: "Lei Ordinária nº 6.939, de 15 de outubro de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "6939"
+data: "2020-10-15"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/7522"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/847/text"
+sha256_fonte: "833444cf5004df9c512bb1dbdc2e156f992ae59daf078b2cf507e6e1da67c0ba"
+sha256_texto: "c132a6162f2218382ae8a1c108e99d1aea25658bc4e250d4ad27b9d1892eb86d"
+capturado_em_fonte: "2026-10-27T18:13:25.969062-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 6.939, de 15 de outubro de 2020
+
+ADOTA A AGENDA 2030 PARA O DESENVOLVIMENTO SUSTENTÁVEL DA ORGANIZAÇÃO DAS NAÇÕES UNIDAS (ONU) COMO DIRETRIZ DE POLÍTICAS PÚBLICAS EM ÂMBITO MUNICIPAL, INSTITUI O PROGRAMA DE SUA IMPLEMENTAÇÃO, AUTORIZA A CRIAÇÃO DO CONSELHO MUNICIPAL PARA O DESENVOLVIMENTO SUSTENTÁVEL (AGENDA 2030) E DÁ OUTRAS PROVIDÊNCIAS.  
+Projeto de Lei nº 138/2020, de autoria do Prefeito Municipal.
+
+
+Eu, **CRISTIANO SALMEIRÃO**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,
+
+FAÇO SABER que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído o Programa Municipal de Implementação da Agenda 2030 para o Desenvolvimento Sustentável da Organização das Nações Unidas, subscrita pela República Federativa do Brasil, que tem por objetivo fomentar os 17 Objetivos de Desenvolvimento Sustentável (ODS), que devem ser implementados por todos os países do mundo até o ano de 2030 para orientar políticas públicas para segurança alimentar e agricultura, saúde, educação, redução das desigualdades e erradicação da pobreza, energia, água e saneamento, padrões sustentáveis de produção e de consumo, mudança do clima, cidades sustentáveis, proteção e uso sustentável dos ecossistemas, crescimento econômico inclusivo, infraestrutura e industrialização, governança, e meios de implementação.
+
+
+#### CAPÍTULO I — DAS INICIATIVAS DO PROGRAMA
+
+
+Art. 2º.
+
+O Programa Municipal de Implementação da Agenda 2030 para o Desenvolvimento Sustentável da Organização das Nações Unidas desenvolverá, entre outras, as seguintes iniciativas:
+
+
+I –
+
+promover a integração de todos os atores sociais e políticos envolvidos na implementação da Agenda 2030 para o Desenvolvimento Sustentável da Organização das Nações Unidas, subscrita pela República Federativa do Brasil, incluindo o Município de Birigui no plano de ação global para em 2030 alcançarmos o desenvolvimento sustentável;
+
+
+II –
+
+promover a internalização, a difusão, a transparência e a eficiência ao processo de implementação da Agenda 2030 para o Desenvolvimento Sustentável da Organização das Nações Unidas no âmbito municipal, fomentando o acesso e produção de dados, canais de participação e informações gerais para o acompanhamento das ações orientadas ao cumprimento da Agenda;
+
+
+III –
+
+promover iniciativas para o reconhecimento do papel estratégico do planejamento e do desenho urbano na abordagem das questões ambientais, sociais, econômicas, culturais e da saúde, para beneficio de todos;
+
+
+IV –
+
+promover a integração da agenda urbana biriguiense com a implementação da Agenda 2030 e dos ODS no âmbito municipal;
+
+
+V –
+
+fomentar a adoção, pelos órgãos públicos, da implementação da Agenda 2030, seja no incentivo às boas práticas correlatas ou na orientação de ações e políticas públicas; VI - incentivar o cadastramento e monitoramento de desempenho dos 17 (dezessete) Objetivos de Desenvolvimento Sustentável, aderência às atuais 169 metas e seus 231 indicadores que compõem a Agenda 2030 para o Desenvolvimento Sustentável, auxiliando na parametrização de seus indicadores e a elaboração dos relatórios resultantes;
+
+
+VI –
+
+incentivar e auxiliar as iniciativas da sociedade civil organizada no cadastramento e catalogação de todas as iniciativas sociais correlatas aos ODS;
+
+
+VII –
+
+promover a integração, o diálogo intersetorial e articulação entre as esferas governamentais, a sociedade civil e outras iniciativas afins ligadas à implementação da Agenda 2030 em âmbito municipal, especialmente no que abarque meios de ação, apoio institucional e logístico e critérios para monitoramento e efetivação de todas as iniciativas afetas ao tema;
+
+
+VIII –
+
+intensificar e auxiliar os mecanismos de participação social na disseminação e implementação da Agenda 2030, inclusive com a articulações entre o primeiro, o segundo e o terceiro setor, recepcionando e incentivando, de forma integrada, estas iniciativas.
+
+
+#### CAPÍTULO II — DO CONSELHO MUNICIPAL PARA O DESENVOLVIMENTO SUSTENTÁVEL
+(AGENDA 2030)
+
+
+Art. 3º.
+
+Fica autorizada a criação do Conselho Municipal para o Desenvolvimento Sustentável (Agenda 2030), instância colegiada paritária de natureza consultiva e deliberativa, para a efetivação do presente Programa, tendo por competência:
+
+
+I –
+
+elaborar plano de ação para implementação da Agenda 2030 para o Desenvolvimento Sustentável, propondo estratégias, instrumentos, ações e programas para a implementação da Agenda 2030 para o Desenvolvimento Sustentável da Organização das Nações Unidas;
+
+
+II –
+
+acompanhar e monitorar o desenvolvimento da Agenda 2030 para o Desenvolvimento Sustentável da Organização das Nações Unidas, realizando o controle social da definição da matriz de prioridades e da matriz GUT das prioridades e demandas emergentes;
+
+
+III –
+
+elaborar subsídios para discussões sobre o desenvolvimento sustentável em fóruns nacionais e internacionais;
+
+
+IV –
+
+identificar, sistematizar e divulgar boas práticas e iniciativas que colaborem para o alcance da Agenda 2030 para o Desenvolvimento Sustentável;
+
+
+V –
+
+elaborar as diretrizes de um sistema estratégico de planejamento, implementação e elaboração de relatórios afetos ao cumprimento da Agenda 2030 para o Desenvolvimento Sustentável;
+
+
+VI –
+
+promover a articulação com órgãos e entidades públicas governamentais e organizações da sociedade civil para a disseminação e a implementação da Agenda 2030 em nível municipal, assim como integrar as iniciativas deste Programa com outras promovidas nos âmbitos federal, estadual e em outros municípios;
+
+
+VII –
+
+promover e fomentar pesquisas e projetos voltados às questões de relevância econômica e social relacionadas às necessidades específicas de implementação do presente programa;
+
+
+VIII –
+
+promover iniciativas que tratem objetivamente das metas associadas aos 17 (dezessete) Objetivos de Desenvolvimento Sustentável, assim como as exceda em determinados casos;
+
+
+IX –
+
+manter a coerência dos resultados tendo como finalidade a decorrente aderência e harmonização dos relatórios municipais àqueles eventualmente produzidos pelo Governo do Estado, promovendo esforços para que esses entes possam, de forma conjunta, convergir para um último, harmonizado, coerente e consequente, a ser relatado ao Governo Federal;
+
+
+X –
+
+solicitar informações dos trabalhos realizados pela Comissão Executiva;
+
+
+XI –
+
+eleger o seu Presidente, Vice-presidente, Relatores e outras funções que estiverem previstas em seu regimento interno; e
+
+
+XII –
+
+promover, sempre que possível, a integração entre as iniciativas, programas e projetos.
+
+
+Art. 4º.
+
+O Conselho Municipal para o Desenvolvimento Sustentável (Agenda 2030) terá formação paritária, contendo um representante titular e um correspondente suplente oriundos do Poder Público para cada representante titular e correspondente suplente oriundos advindos da sociedade civil, todos maiores, capazes e em pleno gozo de seus direitos políticos.
+
+
+Art. 5º.
+
+O Conselho Municipal para o Desenvolvimento Sustentável (Agenda 2030) será formado por 6 (seis) membros titulares, sendo 3 (três) representantes do Poder Público e 3 (três) representantes da iniciativa privada, bem como seus suplentes.
+
+
+Parágrafo único
+
+Caberá ao Prefeito Municipal realizar a nomeação dos membros do respectivo Conselho Municipal por Decreto.
+
+
+Art. 6º.
+
+O Conselho Municipal para o Desenvolvimento Sustentável (Agenda 2030) se reunirá, em caráter ordinário, trimestralmente e, em caráter extraordinário, a qualquer tempo, mediante convocação de seu Presidente.
+
+
+Art. 7º.
+
+O Conselho Municipal para o Desenvolvimento Sustentável (Agenda 2030) poderá convidar representantes dos órgãos públicos, da sociedade civil e do setor privado para colaborar com as suas atividades.
+
+
+Art. 8º.
+
+O Conselho Municipal para o Desenvolvimento Sustentável (Agenda 2030) poderá promover eventos para fomento e divulgação de suas atividades-fins, inclusive realizando a Conferência Municipal dos ODS’s anualmente.
+
+
+Art. 9º.
+
+O Conselho Municipal para o Desenvolvimento Sustentável (Agenda 2030) elaborará e aprovará seu regimento interno, por deliberação de maioria simples, no prazo de 90 (noventa) dias, contados a partir da publicação do decreto de regulamentação.
+
+
+Parágrafo único
+
+A aprovação do regimento interno supramencionado se fará por deliberação de maioria simples.
+
+
+Art. 10.
+
+A participação no Conselho Municipal para o Desenvolvimento Sustentável (Agenda 2030) será considerada prestação de serviço pública relevante, não remunerada, sendo que as despesas administrativas, pela participação dos representantes na comissão, serão custeadas pelo órgão, entidade ou instituição de origem de cada representante.
+
+
+Art. 11.
+
+Compete a Comissão Executiva, cumprir o planejamento estratégico formalizado, para monitorar e relatar todas as ações estratégicas de ajustes no processo de implementação da Agenda 2030 para o desenvolvimento sustentável das Nações Unidas, subscritas pela República Federativa do Brasil.
+
+
+Parágrafo único
+
+A constituição da Comissão Executiva e suas coordenações específicas têm suas atribuições e ações na esfera do Poder Executivo regulamentado por Decreto.
+
+
+#### CAPÍTULO III — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 12.
+
+As despesas afetas a este programa correrão por conta das disposições orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 13.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Birigui aos quinze de outubro de dois mil e vinte.
+
+**CRISTIANO SALMEIRÃO Prefeito Municipal**
+
+Publicada na Divisão de Atos Oficiais e Expediente da Secretaria Municipal de Governo da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**CAIQUE MANTOVANI DA ROCHA Chefe da Divisão de Atos Oficiais e Expediente**
+

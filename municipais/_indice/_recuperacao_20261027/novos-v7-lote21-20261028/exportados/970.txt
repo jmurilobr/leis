@@ -1,0 +1,96 @@
+---
+titulo: "04 - Lei Ordinária nº 38, de 17 de maio de 1984"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "38"
+data: "1984-05-17"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1163"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1177/text"
+sha256_fonte: "50f08f167f8d7f7b628558f19d05a12b3f030196e8b6276b8dc0464616bd7c71"
+sha256_texto: "abecf556c5654e6f40887f58c406d1d70d7b81d2787ca541b42c7e2ffc07f5b3"
+capturado_em_fonte: "2026-10-28T09:16:36.931661-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 38, de 17 de maio de 1984
+
+Autoriza o chefe do Executivo Municipal a contratar operação de crédito com o Banco do Estado do Paraná S/A para execução das obras e serviços integrantes do PRAM – Programa de Ação Municipal e adota outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou e, Eu Prefeito Municipal sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Fica o chefe do Poder Executivo Municipal sanciona a seguinte Lei, digo, autorizado a contratar operação de crédito até o limite de Cr$ 349.784.000,00 (trezentos e quarenta e nove milhões setecentos e oitenta e quatro mil e seiscentos cruzeiros) equivalente a 46.35376 ORTN a preços de Janeiro de 1984, junto ao banco do Estado do Paraná S/A por prazo não superior à 10 (dez) anos, juros de até 11% ao ano, correção monetária e demais condições a serem fixados em contratos de operação de créditos, podendo as aludidas operações serem contraídas parceladamente.
+
+
+§ 1º
+
+O momento das operações fixadas neste artigo será reajustado de acordo com a legislação pertinente.
+
+
+§ 2º
+
+Os valores das operações de crédito e reajustes estão condicionados à capacidade de endividamento do Município, determinado pelas resoluções nº 562/75 e 93/76 do Senado Federal e pelas resoluções nºs 345/75 e 397/76 do Banco Central do Brasil.
+
+
+Art. 2º.
+
+Os recursos advindos das operações de crédito autorizado por Lei serão aplicados na execução do PRAM – Programa de Ação Municipal, como contrapartida do Município no Programa que prevê investimentos em obras e infraestrutura urbana, e de acordo com as normas operacionais do Banco do Estado do Paraná S.A e da Secretária de Estado do Planejamento.
+
+
+Art. 3º.
+
+Em garantia as operações de crédito, fica o chefe do Executivo autorizado a ceder ao agente financeiro parcelas do Imposto sobre operações relativas a circulação de mercadorias – ICM ou tributo que o substituir, ao qual fica vinculada a presente operação de crédito, em montantes anuais necessários para amortizar as prestações do principal e dos acessório, na forma da legislação pertinente.
+
+
+Art. 4º.
+
+Para garantir o pagamento do principal, correção monetária, juros, multas e demais encargos financeiros decorrentes das operações referidas nesta Lei, o chefe do Executivo Municipal poderá outorgar ao Banco do Estado do Paraná S.A, com poderes para substabelecer, mandato pleno e irrevogável, para receber e dar quitação no vencimento das referidas obrigações financeiras.
+
+
+Art. 5º.
+
+O prazo e o esquema definitivos de pagamento do principal reajustável, acrescido dos juros e demais encargos incidentes sobre as operações financeiras, obedecidos os limites desta Lei, serão estabelecidos pelo chefe do Executivo com a entidade financeira.
+
+
+Art. 6º.
+
+Anualmente, a partir do exercício subsequente ao da contratação das operações de crédito, o orçamento do Município consignará dotações próprias para amortização do principal e dos acessórios das dívidas contratadas.
+
+
+Art. 7º.
+
+Fica, ainda, o chefe do Executivo autorizado a abrir os créditos adicionais respectivos até o limite do convênio para execução do Programa de Ação Municipal PRAM – firmado com o Estado do Paraná, para o atendimento das despesas com a sua aplicação.
+
+
+Art. 8º.
+
+Os recursos para abertura dos créditos adicionais, de que se trata o Artigo Anterior, serão os constantes do Art. 43 da Lei Federal nº 4.320/64 e mais os recursos transferidos pelo Estado do Paraná, à conta do PRAM – Programa de Ação Municipal.
+
+
+Art. 9º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de Corbélia,  
+Em 17 de maio de 1984
+
+DELSO JOSÉ TRENTIN  
+Prefeito Municipal
+
+Não substitui o texto publicado no Diário Oficial.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1163/ta
+

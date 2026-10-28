@@ -1,0 +1,632 @@
+---
+titulo: "Lei Ordinária nº 7.689, de 24 de setembro de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "7689"
+data: "2026-09-24"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/8488"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/3697/text"
+sha256_fonte: "24b4fcedfd166abf6439b3c23a6f07aaf305c972e77fa0c337aaceabd75f0385"
+sha256_texto: "2c9eb507ceb3a3633f3f4981d912f92ebbbb519a7ef53245dc49f7599d40eacc"
+capturado_em_fonte: "2026-10-27T17:42:11.690468-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 7.689, de 24 de setembro de 2026
+
+DISPÕE SOBRE A ATUALIZAÇÃO DO CONSELHO MUNICIPAL DOS DIREITOS DA PESSOA IDOSA CMDPI, REGULAMENTA O FUNDO MUNICIPAL DOS DIREITOS DA PESSOA IDOSA E DÁ OUTRAS PROVIDÊNCIAS.  
+Projeto de Lei nº 66/2026, de autoria da Prefeita Municipal.
+
+
+Eu, **SAMANTA PAULA ALBANI BORINI**, Prefeita Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,
+
+**FAÇO SABER** que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DO CONSELHO MUNICIPAL DOS DIREITOS DA PESSOA IDOSA
+
+
+Art. 1º.
+
+O Conselho Municipal dos Direitos da Pessoa Idosa, em consonância com as Leis Federais nº 8.842/1994 (Política Nacional do Idoso), 10.741/2003 (Estatuto do Idoso) e Lei Estadual nº 12.548/1997 (Política Estadual do Idoso), passa a ser normatizado nos termos desta Lei.
+
+
+§ 1º
+
+O Conselho Municipal dos Direitos da Pessoa Idosa é um órgão colegiado permanente, de caráter consultivo, deliberativo, supervisor, controlador e fiscalizador, da política municipal do idoso, de composição paritária, vinculado à Secretaria Municipal de Assistência Social.
+
+
+§ 2º
+
+O Conselho tem por finalidade assegurar à pessoa idosa a liberdade, o respeito e a dignidade, como pessoa humana e sujeito de direitos civis, políticos, individuais e sociais, criando condições para promover sua integração e participação efetiva na sociedade, de conformidade ao determinado na Lei Federal nº 10.741/2003.
+
+
+Art. 2º.
+
+Considera-se idoso, para efeito da lei, a pessoa com idade igual ou superior a 60 (sessenta) anos.
+
+
+##### Seção I — Da competência
+
+
+Art. 3º.
+
+Compete ao Conselho Municipal dos Direitos da Pessoa Idosa:
+
+
+I –
+
+Zelar pela aplicação das Leis que norteiam as políticas da pessoa idosa, garantindo que nenhuma pessoa seja objeto de qualquer tipo de negligência, discriminação, violência, crueldade ou opressão, e que todo atentado aos seus direitos, por ação ou omissão, seja levado e denunciado ao Ministério Público ou órgão competente;
+
+
+II –
+
+Controlar, supervisionar, acompanhar, deliberar, fiscalizar, cumprir e fazer cumprir a Política Municipal de atendimento e proteção aos direitos da pessoa idosa;
+
+
+III –
+
+Promover, apoiar e incentivar a criação de organizações destinadas à assistência da pessoa idosa, garantindo-lhe o acesso universal e igualitário às ações, serviços e benefícios outorgados no Estatuto do Idoso;
+
+
+IV –
+
+Propor e aprovar a elaboração de diagnóstico da população idosa, através de realização de pesquisa sobre o seu perfil no município;
+
+
+V –
+
+Propiciar apoio técnico às organizações de atendimento e assistência à pessoa idosa, governamentais e não governamentais, a fim de tornar efetiva a aplicabilidade do Estatuto do Idoso, e os princípios e diretrizes da Política Nacional e Estadual da Pessoa Idosa;
+
+
+VI –
+
+Participar da elaboração das propostas orçamentárias das Secretarias do Governo Municipal, visando à destinação de recursos vinculados aos planos, programas e projetos, para a implementação da Política Municipal da Pessoa Idosa;
+
+
+VII –
+
+Fazer proposições, objetivando aperfeiçoar a legislação pertinente à política de atendimento e proteção dos direitos da pessoa idosa;
+
+
+VIII –
+
+Promover atividades e campanhas de educação e divulgação, para formação de opinião pública e esclarecimento sobre os direitos da pessoa idosa;
+
+
+IX –
+
+Acompanhar, supervisionar, avaliar e fiscalizar a gestão de recursos, bem como os ganhos sociais e o desempenho dos programas, projetos e serviços, assegurando, assim, que as verbas se destinem ao atendimento da pessoa idosa;
+
+
+X –
+
+Registrar, acompanhar e fiscalizar as organizações não governamentais e governamentais de atendimento à pessoa idosa no município e solicitar aos órgãos competentes o credenciamento e o cancelamento de registro de organizações destinadas ao atendimento da pessoa idosa, quando não estiverem cumprindo as finalidades propostas, e as leis que regem os direitos da pessoa idosa;
+
+
+XI –
+
+Subsidiar a elaboração de leis atinentes aos interesses da pessoa idosa;
+
+
+XII –
+
+Propor aos poderes constituídos modificações nas estruturas dos órgãos governamentais diretamente ligados à promoção, proteção e à defesa dos direitos da pessoa idosa;
+
+
+XIII –
+
+Deliberar sobre a destinação e fiscalização dos recursos do Fundo Municipal dos Direitos da Pessoa Idosa;
+
+
+XIV –
+
+Convocar a Conferência Municipal dos Direitos da Pessoa Idosa e estabelecer as normas de funcionamento em regimento próprio, conforme orientações emanadas dos Conselhos Nacional e Estadual;
+
+
+XV –
+
+Elaborar, aprovar e alterar seu Regimento Interno;
+
+
+XVI –
+
+Deliberar e propor ao órgão executivo a capacitação de seus conselheiros;
+
+
+XVII –
+
+Promover, incentivar e apoiar a realização de eventos, estudos e pesquisas, fóruns, seminários, simpósios e outros, no campo da proteção, da promoção e da defesa dos direitos da pessoa idosa.
+
+
+##### Seção II — Da Constituição e Composição
+
+
+Art. 4º.
+
+O Conselho Municipal dos Direitos da Pessoa Idosa é vinculado à estrutura da Secretaria Municipal de Assistência Social que coordenará a execução da Política Municipal dos Direitos da Pessoa Idosa, sendo composto por 14 (quatorze) membros titulares e respectivos suplentes, representantes de organizações governamentais e não governamentais, com representação paritária.
+
+
+Art. 5º.
+
+A representação do Poder Público será composta por 7 (sete) membros indicados pelo Chefe do Poder Executivo, dentre servidores ou representantes dos seguintes órgãos ou secretarias:
+
+
+I –
+
+Secretaria Municipal de Assistência Social;
+
+
+II –
+
+Secretaria Municipal de Saúde;
+
+
+III –
+
+Secretaria Municipal de Negócios Jurídicos ou Casa Civil;
+
+
+IV –
+
+Secretaria Municipal de Esportes;
+
+
+V –
+
+Secretaria Municipal de Cultura e Turismo;
+
+
+VI –
+
+Secretaria Municipal de Segurança Pública;
+
+
+VII –
+
+Secretaria Municipal de Governo ou Fundo Social de Solidariedade.
+
+
+§ 1º
+
+Caso haja extinção, fusão ou reestruturação de secretarias, a indicação poderá recair sobre órgão equivalente ou correlato, mediante ato do Poder Executivo.
+
+
+§ 2º
+
+A indisponibilidade de servidores de determinada pasta não impedirá a indicação de representante de outra secretaria com atuação relacionada às políticas públicas sociais.
+
+
+§ 3º
+
+Cada cadeira do Poder Público corresponderá a uma área administrativa distinta, vedada a indicação de mais de um representante da mesma secretaria ou órgão.
+
+
+Art. 6º.
+
+A representação da sociedade civil será composta por 7 (sete) membros eleitos em fórum próprio. Poderão participar do processo eletivo entidades, organizações e representantes com atuação regular e comprovada no Município de Birigui na promoção, proteção, defesa de direitos, atendimento ou participação da pessoa idosa, observados os seguintes segmentos de referência:
+
+
+I –
+
+Entidades de acolhimento institucional de pessoas idosas (ILPIs e residenciais);
+
+
+II –
+
+Entidades, serviços ou organizações que desenvolvam atividades de convivência, fortalecimento de vínculos ou participação social de pessoas idosas;
+
+
+III –
+
+Organizações da sociedade civil de assistência social com serviços, programas ou projetos voltados à pessoa idosa;
+
+
+IV –
+
+Instituições ou organizações com ações na área de saúde, prevenção, reabilitação ou promoção do envelhecimento ativo;
+
+
+V –
+
+Entidades educacionais, culturais ou comunitárias que desenvolvam programas específicos para pessoas idosas (alfabetização, inclusão digital, atividades intergeracionais, universidades abertas, grupos de memória, cultura e participação);
+
+
+VI –
+
+Entidades do Sistema S ou congêneres com oferta de atividades, cursos ou programas para pessoas idosas;
+
+
+VII –
+
+Grupos organizados de pessoas idosas regularmente constituídos ou reconhecidos por serviços ou equipamentos públicos;
+
+
+VIII –
+
+Representantes de usuários de serviços, programas ou equipamentos voltados à pessoa idosa;
+
+
+IX –
+
+Associações de aposentados, pensionistas ou organizações representativas da pessoa idosa;
+
+
+X –
+
+Fóruns, movimentos sociais ou coletivos locais que desenvolvam ações ou projetos com atuação comprovada na promoção, proteção ou defesa dos direitos da pessoa idosa no Município de Birigui.
+
+
+§ 1º
+
+Os segmentos listados constituem referência orientadora de representatividade, não gerando reserva exclusiva de vaga por segmento.
+
+
+§ 2º
+
+Havendo mais de uma entidade ou organização habilitada em um mesmo segmento, poderá haver mais de um representante eleito desse segmento, conforme resultado do processo eletivo.
+
+
+§ 3º
+
+Não havendo entidade ou representante habilitado em determinado segmento, a vaga poderá ser preenchida por entidade ou organização de segmento correlato, mediante deliberação do fórum.
+
+
+§ 4º
+
+Nenhuma cadeira da sociedade civil ficará vinculada nominalmente a entidade específica na lei.
+
+
+§ 5º
+
+A representação de usuários poderá ser composta por pessoas idosas indicadas por:
+
+
+a)
+
+Grupos de convivência;
+
+
+b)
+
+Serviços socioassistenciais;
+
+
+c)
+
+Equipamentos públicos;
+
+
+d)
+
+Assembleia pública convocada para este fim;
+
+
+e)
+
+Fóruns municipais da pessoa idosa.
+
+
+§ 6º
+
+Persistindo vacância após o fórum eletivo, o CMDPI poderá promover chamada pública complementar para preenchimento das vagas remanescentes.
+
+
+§ 7º
+
+É vedada a ocupação de todas as cadeiras da sociedade civil por entidades de um único segmento de atuação.
+
+
+§ 8º
+
+Considera-se atuação no município o desenvolvimento regular de atividades, serviços, programas, projetos ou ações voltadas à pessoa idosa no território municipal, com atuação mínima de 6 meses, mediante comprovação documental definida em edital de convocação do fórum.
+
+
+Art. 7º.
+
+A escolha das entidades e representantes da sociedade civil será realizada em fórum público convocado pelo CMDPI, mediante:
+
+
+I –
+
+Edital de chamamento;
+
+
+II –
+
+Critérios de habilitação;
+
+
+III –
+
+Prazo de inscrição;
+
+
+IV –
+
+Processo eletivo transparente;
+
+
+V –
+
+Registro em ata.
+
+
+Art. 8º.
+
+A ausência temporária de indicação de representantes não impedirá a instalação e funcionamento do Conselho, desde que preservada a paridade entre Poder Público e Sociedade Civil e observado o quórum definido no Regimento Interno.
+
+
+Parágrafo único
+
+O Regimento Interno do Conselho estabelecerá o quórum de instalação das reuniões e o quórum de deliberação.
+
+
+Art. 9º.
+
+O CMDPI poderá expedir resolução complementar para disciplinar:
+
+
+I –
+
+Critérios de habilitação;
+
+
+II –
+
+Processo eleitoral;
+
+
+III –
+
+Substituições;
+
+
+IV –
+
+Suplência;
+
+
+V –
+
+Perda de mandato.
+
+
+Art. 10.
+
+Perderá o mandato o conselheiro que faltar, sem justificativa, a 3 reuniões consecutivas ou 5 alternadas no período de 12 meses, assegurado o contraditório e a ampla defesa.
+
+
+Art. 11.
+
+O suplente assumirá automaticamente nas hipóteses de vacância, afastamento ou perda de mandato do titular.
+
+
+Art. 12.
+
+As Secretarias ou os órgãos do Poder Público deverão indicar seus representantes no prazo máximo de 15 (quinze) dias após notificação formal.
+
+
+Parágrafo único
+
+O não atendimento do prazo não impedirá a posse e funcionamento do Conselho.
+
+
+##### Seção III — Da Estrutura e do Funcionamento
+
+
+Art. 13.
+
+O Conselho Municipal dos Direitos da Pessoa Idosa reunir-se-á ordinariamente uma vez por mês, ou extraordinariamente, convocado pelo presidente ou por dois terços dos seus membros, para deliberações relevantes e pertinentes à Política da Pessoa Idosa.
+
+
+§ 1º
+
+A função de membro do Conselho não será remunerada, mas o seu exercício é considerado relevante serviço ao Município, com caráter prioritário e, em consequência, justificadas as ausências a qualquer outro serviço, desde que motivadas pelas atividades deste Conselho.
+
+
+§ 2º
+
+O Executivo Municipal, responsável pela execução da Política Municipal da Pessoa Idosa, prestará o necessário apoio técnico, administrativo e financeiro para a efetivação das finalidades do Conselho Municipal dos Direitos da Pessoa Idosa, bem como fornecerá os subsídios necessários para a representação deste Conselho nas instâncias e eventos para o qual for convocado ou quando sua participação for julgada necessária pela plenária.
+
+
+Art. 14.
+
+Todas as sessões do Conselho Municipal dos Direitos da Pessoa Idosa serão públicas e precedidas de ampla divulgação.
+
+
+Parágrafo único
+
+Poderão ser convidadas pessoas ou organizações qualificadas para assessorar o Conselho Municipal dos Direitos da Pessoa Idosa em assuntos específicos.
+
+
+Art. 15.
+
+São órgãos do Conselho Municipal dos Direitos da Pessoa Idosa:
+
+
+I –
+
+Plenária;
+
+
+II –
+
+Mesa Diretora;
+
+
+III –
+
+Comissões de Trabalho;
+
+
+VI –
+
+Secretaria-Executiva.
+
+
+§ 1º
+
+A Plenária é órgão deliberativo e soberano do Conselho Municipal dos Direitos da Pessoa Idosa.
+
+
+§ 2º
+
+A Mesa Diretora do Conselho Municipal dos Direitos da Pessoa Idosa será eleita pela maioria absoluta dos votos da Plenária, para mandato de 02 (dois) anos, permitida uma recondução consecutiva, e será composta por:
+
+
+I –
+
+Presidente;
+
+
+II –
+
+Vice-Presidente;
+
+
+III –
+
+Primeiro(a) Secretário(a);
+
+
+IV –
+
+Segundo(a) Secretário(a).
+
+
+§ 3º
+
+Por iniciativa do Conselho Municipal dos Direitos da Pessoa Idosa, através de resolução, podem ser instituídas comissões de trabalho para executar tarefas a serem estabelecidas pela Plenária.
+
+
+#### CAPÍTULO II — Do Fundo Municipal dos Direitos da Pessoa Idosa
+
+
+Art. 16.
+
+Nos termos da Lei Federal nº 13.797/2019, o Fundo Municipal dos Direitos da Pessoa Idosa, instrumento de captação, repasse e aplicação de recursos destinados a proporcionar suporte financeiro na implantação, na manutenção e no desenvolvimento de programas e ações dirigidos à pessoa idosa do município de Birigui, passa a ser normatizado por esta Lei.
+
+
+Parágrafo único
+
+O Fundo Municipal dos Direitos da Pessoa Idosa ficará vinculado diretamente à Secretaria Municipal de Assistência Social.
+
+
+Art. 17.
+
+Constituem fontes de recursos do Fundo Municipal dos Direitos da Pessoa Idosa:
+
+
+I –
+
+As transferências do município;
+
+
+II –
+
+As transferências da União, do Estado, de seus órgãos e suas respectivas autarquias, fundações, fundos, empresas públicas e sociedades de economia mista;
+
+
+III –
+
+As receitas de doações, legados, contribuições em dinheiro, valores, bens móveis e imóveis que venha a receber de pessoas físicas ou jurídicas ou de organismos públicos ou privados, nacionais ou internacionais;
+
+
+IV –
+
+O produto de aplicações financeiras dos recursos disponíveis;
+
+
+V –
+
+As demais receitas destinadas ao Fundo Municipal dos Direitos da Pessoa Idosa;
+
+
+VI –
+
+As receitas estipuladas em lei;
+
+
+VII –
+
+Os valores das multas previstas no art. 84 da Lei Federal nº 10.741/03, que institui o Estatuto do Idoso;
+
+
+VIII –
+
+As receitas advindas de destinações do Imposto de Renda, nos termos da Lei Federal nº 13.797/2019.
+
+
+§ 1º
+
+Não se isentam as demais secretarias de políticas específicas de preverem os recursos necessários para as ações voltadas à pessoa idosa, conforme determina a legislação em vigor.
+
+
+§ 2º
+
+Os recursos que compõem o Fundo serão depositados em instituições financeiras oficiais, em conta especial, sob a denominação *Fundo Municipal dos Direitos da Pessoa Idosa*, e sua destinação será deliberada pela Plenária, condicionada à apresentação de projetos, programas e atividades aprovados pelo Conselho Municipal dos Direitos da Pessoa Idosa (CMDPI), nos termos de resoluções específicas elaboradas, aprovadas e publicadas pelo Conselho.
+
+
+Art. 18.
+
+A gestão do Fundo será de responsabilidade do Conselho Municipal dos Direitos da Pessoa Idosa e da Secretaria Municipal de Assistência Social.
+
+
+Art. 19.
+
+A contabilidade do Fundo Municipal dos Direitos da Pessoa Idosa será organizada e processada pela Secretaria Municipal de Finanças, de forma a permitir o exercício das funções de controle prévio, concomitante e subsequente.
+
+
+Parágrafo único
+
+A Secretaria Municipal de Assistência Social dará informações ao Conselho Municipal dos Direitos da Pessoa Idosa (CMDPI) sobre a contabilidade do Fundo Municipal dos Direitos da Pessoa Idosa mensalmente, ou quando for solicitado pelo Presidente do Conselho.
+
+
+Art. 20.
+
+O Executivo, mediante decreto expedido no prazo improrrogável de 60 (sessenta) dias da publicação desta lei, estabelecerá as normas relativas à estruturação, organização e operacionalização do Fundo Municipal dos Direitos da Pessoa Idosa.
+
+
+Art. 21.
+
+O Executivo providenciará a inclusão no orçamento do município das receitas e despesas autorizadas por esta lei.
+
+
+#### CAPÍTULO III — Disposições Gerais
+
+
+Art. 22.
+
+O Conselho Municipal dos Direitos da Pessoa Idosa – CMDPI promoverá, no prazo máximo de 90 (noventa) dias contados da publicação desta Lei, os procedimentos necessários à adequação de sua composição às disposições ora estabelecidas.
+
+
+Art. 23.
+
+Os conselheiros atualmente em exercício permanecerão em suas funções até a posse dos novos representantes indicados e eleitos na forma desta Lei.
+
+
+Art. 24.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas todas as demais disposições em contrário, especialmente a Lei Municipal nº 6.801, de 21 de novembro de 2019.
+
+
+Prefeitura Municipal de Birigui, aos vinte e quatro de setembro de dois mil e vinte e seis.
+
+**SAMANTA PAULA ALBANI BORINI Prefeita Municipal**
+
+**SÔNIA REGINA ALBANI Secretária Municipal de Assistência Social**
+
+**VIVIANE MARY SANCHES BARBOSA Secretária Municipal de Negócios Jurídicos**
+
+Publicada na Secretaria de Municipal de Governo da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**MARCOS GAJARDONI FERNANDES Secretário Adjunto de Governo**
+

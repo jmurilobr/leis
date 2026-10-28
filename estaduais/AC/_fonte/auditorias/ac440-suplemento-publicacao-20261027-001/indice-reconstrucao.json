@@ -1,0 +1,117 @@
+{
+  "preparado_em": "2026-10-27T21:59:32.844995-03:00",
+  "total": 11,
+  "originais_intactos": true,
+  "arquivos": [
+    {
+      "caminho_original": "estaduais/AC/_fonte/auditorias/ac440-privado-20261027-001/preparar.py",
+      "sha256_original": "21b0a54eb88e7f1a74cad9c7c79fcf45209a88de5bb27fda7f320e03ce5ed67f",
+      "bytes_original": 6333,
+      "arquivo_gzip": "estaduais/AC/_fonte/auditorias/ac440-suplemento-publicacao-20261027-001/prototipos-gzip/21b0a54eb88e7f1a74cad9c7c79fcf45209a88de5bb27fda7f320e03ce5ed67f.py.gz",
+      "sha256_gzip": "dcb5b38d1653c3d71b2f43cd3db30cfbd956561ac4a7e6fd0ddec01136b432a2",
+      "bytes_gzip": 2761,
+      "algoritmo": "gzip; descomprimir sem transformação de bytes; restaurar apenas em contexto privado separado, sem substituir código ativo",
+      "tipo": "protótipo/controle histórico, não código ativo de publicação"
+    },
+    {
+      "caminho_original": "estaduais/AC/_fonte/auditorias/legis-QA-500-20261027-013/executar.py",
+      "sha256_original": "b52819b1914fae6c7f436a413147d9afb76efb48d15cc2822f6ff5dec1ada3ff",
+      "bytes_original": 1546,
+      "arquivo_gzip": "estaduais/AC/_fonte/auditorias/ac440-suplemento-publicacao-20261027-001/prototipos-gzip/b52819b1914fae6c7f436a413147d9afb76efb48d15cc2822f6ff5dec1ada3ff.py.gz",
+      "sha256_gzip": "810fa392b1b32bdb876838ec0742c7abe018e36ecc9ee29adc2589f4986fc8d1",
+      "bytes_gzip": 787,
+      "algoritmo": "gzip; descomprimir sem transformação de bytes; restaurar apenas em contexto privado separado, sem substituir código ativo",
+      "tipo": "protótipo/controle histórico, não código ativo de publicação"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_epigrafes_20261027_001/inventariar_epigrafes_head_ac.py",
+      "sha256_original": "9ca58592235360e3e95a3382394409778f5d7ebd7bc47044e5bd9ce97aff0c77",
+      "bytes_original": 7895,
+      "arquivo_gzip": "estaduais/AC/_fonte/auditorias/ac440-suplemento-publicacao-20261027-001/prototipos-gzip/9ca58592235360e3e95a3382394409778f5d7ebd7bc47044e5bd9ce97aff0c77.py.gz",
+      "sha256_gzip": "654ea0b8a77539ad366eb186d359786e339fb1921247fa15bf9b06c02c3f18d0",
+      "bytes_gzip": 3620,
+      "algoritmo": "gzip; descomprimir sem transformação de bytes; restaurar apenas em contexto privado separado, sem substituir código ativo",
+      "tipo": "protótipo/controle histórico, não código ativo de publicação"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_html_20261027_002/promover_legis_ac_privado.py",
+      "sha256_original": "6d163a8de4138985d34c2b547459d4f1bfc98d97656d3ec2bb55c2b51c976a87",
+      "bytes_original": 11587,
+      "arquivo_gzip": "estaduais/AC/_fonte/auditorias/ac440-suplemento-publicacao-20261027-001/prototipos-gzip/6d163a8de4138985d34c2b547459d4f1bfc98d97656d3ec2bb55c2b51c976a87.py.gz",
+      "sha256_gzip": "77e5f11904505ddcdd3cc6b16582c832de9acb8a8cc429a185ef3b8a4c3e6a8e",
+      "bytes_gzip": 4482,
+      "algoritmo": "gzip; descomprimir sem transformação de bytes; restaurar apenas em contexto privado separado, sem substituir código ativo",
+      "tipo": "protótipo/controle histórico, não código ativo de publicação"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_html_20261027_002/test_promover_legis_ac_privado.py",
+      "sha256_original": "c96f4d5af21baaf0c3091ff8e3784f08b98686065dc5d30e201ce979d4f4309a",
+      "bytes_original": 2304,
+      "arquivo_gzip": "estaduais/AC/_fonte/auditorias/ac440-suplemento-publicacao-20261027-001/prototipos-gzip/c96f4d5af21baaf0c3091ff8e3784f08b98686065dc5d30e201ce979d4f4309a.py.gz",
+      "sha256_gzip": "57ed42b4f8281198504de32f1ec02896d1a4b5abe9b49bd8c9aeafbea64d686b",
+      "bytes_gzip": 907,
+      "algoritmo": "gzip; descomprimir sem transformação de bytes; restaurar apenas em contexto privado separado, sem substituir código ativo",
+      "tipo": "protótipo/controle histórico, não código ativo de publicação"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_promocao_20261027_001/promover_legis_ac_privado.py",
+      "sha256_original": "bd3741fcfd5e86cf0b854d522e88ee0378c55d6bbf31ee0349604e8bd1a71230",
+      "bytes_original": 12260,
+      "arquivo_gzip": "estaduais/AC/_fonte/auditorias/ac440-suplemento-publicacao-20261027-001/prototipos-gzip/bd3741fcfd5e86cf0b854d522e88ee0378c55d6bbf31ee0349604e8bd1a71230.py.gz",
+      "sha256_gzip": "2ab336afc0d6481c678769b15a6f7823f2a32f447cda3214c0e2644fb0274cc0",
+      "bytes_gzip": 4735,
+      "algoritmo": "gzip; descomprimir sem transformação de bytes; restaurar apenas em contexto privado separado, sem substituir código ativo",
+      "tipo": "protótipo/controle histórico, não código ativo de publicação"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_promocao_20261027_001/test_promover_legis_ac_privado.py",
+      "sha256_original": "aa61f5d03834acaf1b95726a8f4c6b3288351cf4b8436ee5690fe4fda3357eb2",
+      "bytes_original": 2895,
+      "arquivo_gzip": "estaduais/AC/_fonte/auditorias/ac440-suplemento-publicacao-20261027-001/prototipos-gzip/aa61f5d03834acaf1b95726a8f4c6b3288351cf4b8436ee5690fe4fda3357eb2.py.gz",
+      "sha256_gzip": "4aa0579b6bd1c95d369c3ecd249320a2be1d8927546cfc940aecdcab82ab244f",
+      "bytes_gzip": 1045,
+      "algoritmo": "gzip; descomprimir sem transformação de bytes; restaurar apenas em contexto privado separado, sem substituir código ativo",
+      "tipo": "protótipo/controle histórico, não código ativo de publicação"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_promocao_20261027_002/promover_legis_ac_privado.py",
+      "sha256_original": "1887a686fabb5fe0c079ee62c346fb9c00b9ad59efda45466657103f2e3f3259",
+      "bytes_original": 12268,
+      "arquivo_gzip": "estaduais/AC/_fonte/auditorias/ac440-suplemento-publicacao-20261027-001/prototipos-gzip/1887a686fabb5fe0c079ee62c346fb9c00b9ad59efda45466657103f2e3f3259.py.gz",
+      "sha256_gzip": "4427384e38144bf2b28103758a2bd99bccef5862b1a0deeddb4400334bea0323",
+      "bytes_gzip": 4741,
+      "algoritmo": "gzip; descomprimir sem transformação de bytes; restaurar apenas em contexto privado separado, sem substituir código ativo",
+      "tipo": "protótipo/controle histórico, não código ativo de publicação"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_promocao_20261027_002/test_promover_legis_ac_privado.py",
+      "sha256_original": "5c7e9d05ceb3933d16d60fb63766195976c6ae7f9014c14bee9d7c7ed764daea",
+      "bytes_original": 3034,
+      "arquivo_gzip": "estaduais/AC/_fonte/auditorias/ac440-suplemento-publicacao-20261027-001/prototipos-gzip/5c7e9d05ceb3933d16d60fb63766195976c6ae7f9014c14bee9d7c7ed764daea.py.gz",
+      "sha256_gzip": "85436628da011423d605d2f00face86ecd3311d2c7e6391cc43fddf40a508f12",
+      "bytes_gzip": 1084,
+      "algoritmo": "gzip; descomprimir sem transformação de bytes; restaurar apenas em contexto privado separado, sem substituir código ativo",
+      "tipo": "protótipo/controle histórico, não código ativo de publicação"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_promocao_20261027_003/promover_legis_ac_privado.py",
+      "sha256_original": "2ca9e686808483b3e996d610b24d3748e5c82f8b884368987061ee081a665362",
+      "bytes_original": 12577,
+      "arquivo_gzip": "estaduais/AC/_fonte/auditorias/ac440-suplemento-publicacao-20261027-001/prototipos-gzip/2ca9e686808483b3e996d610b24d3748e5c82f8b884368987061ee081a665362.py.gz",
+      "sha256_gzip": "74a733f8c5ab7653e39b6ed1940adb44be32ee0159b8a0b05463aa97df9a7370",
+      "bytes_gzip": 4815,
+      "algoritmo": "gzip; descomprimir sem transformação de bytes; restaurar apenas em contexto privado separado, sem substituir código ativo",
+      "tipo": "protótipo/controle histórico, não código ativo de publicação"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_promocao_20261027_003/test_promover_legis_ac_privado.py",
+      "sha256_original": "7d7a13af11ecd03222f325e6444bc0515e86c03b5bc2680e68d1e04b4561512b",
+      "bytes_original": 3500,
+      "arquivo_gzip": "estaduais/AC/_fonte/auditorias/ac440-suplemento-publicacao-20261027-001/prototipos-gzip/7d7a13af11ecd03222f325e6444bc0515e86c03b5bc2680e68d1e04b4561512b.py.gz",
+      "sha256_gzip": "b80dd27bec3ededfd5140d8978367c6cbebf7e9db12183a4a30973e16e4e87ff",
+      "bytes_gzip": 1158,
+      "algoritmo": "gzip; descomprimir sem transformação de bytes; restaurar apenas em contexto privado separado, sem substituir código ativo",
+      "tipo": "protótipo/controle histórico, não código ativo de publicação"
+    }
+  ]
+}

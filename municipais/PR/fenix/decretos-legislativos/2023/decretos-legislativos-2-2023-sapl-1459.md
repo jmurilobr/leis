@@ -1,0 +1,275 @@
+---
+titulo: "Decreto Legislativo-GB nº 2, de 19 de dezembro de 2023"
+tipo: "Decreto legislativo"
+tipo_na_fonte: "Decreto Legislativo"
+numero: "2"
+data: "2023-12-19"
+municipio: "Fênix"
+uf: "PR"
+codigo_ibge: "4107702"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fenix.pr.leg.br/norma/1459"
+fonte_texto: "https://sapl.fenix.pr.leg.br/ta/70/text"
+sha256_fonte: "9d67b5bbe6700b07397d64bcdda46278c4fa989260bf42f79764d8eecdbb8d09"
+sha256_texto: "98cab620794bd28f390529f83619171ca448d6e140643e3e7e3436b3842b2d3c"
+capturado_em_fonte: "2026-10-28T10:32:55.426448-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Decreto Legislativo-GB nº 2, de 19 de dezembro de 2023
+
+Dispõe sobre a regulamentação do processo de avaliação para fins de promoção na Carreira dos Servidores Públicos da Câmara Municipal de Fênix e, dá outras providências.
+
+
+O Presidente da Câmara Municipal de Fênix, Estado do Paraná, no uso das atribuições legais e regimentais, e de acordo com o que dispõe o art. 65, art. 31 e art. 35 da Lei Complementar nº 27, de 28 de Novembro de 2023,
+
+
+DECRETA:
+
+
+Art. 1º.
+
+A promoção é o mecanismo de progressão funcional do servidor e dar-se-á por meio de avanço horizontal e vertical.
+
+
+Art. 2º.
+
+Por avanço horizontal entende-se a progressão de uma Classe para outra imediatamente superior, dentro do mesmo Nível, conforme estabelecido no art. 26 da Lei Complementar nº 27/2023.
+
+
+Art. 3º.
+
+O avanço horizontal dar-se-á aos integrantes da Classe, após cumprido o interstício de 24 (vinte e quatro) meses de efetivo exercício, mediante critérios devidamente pontuados e decorrerá de:
+
+
+I –
+
+Merecimento, constatado por meio de avaliação de desempenho do servidor, realizada pelo Poder Legislativo Municipal com periodicidade anual;
+
+
+II –
+
+Qualificação Continuada, constatada e comprovada através de certificado de realização de curso de qualificação técnica de curta duração conforme especificado Lei Complementar nº 27/2023.
+
+
+§ 1º
+
+A avaliação de desempenho será realizada anualmente, enquanto a pontuação para qualificação aos avanços horizontais corresponderá a média aritmética simples das 2 (duas) últimas avaliações de desempenho nos exercícios imediatamente anterior a data de solicitação protocolada pelo servidor interessado.
+
+
+§ 2º
+
+O primeiro avanço horizontal do servidor ocorrerá:
+
+
+I –
+
+Após o cumprimento do estágio probatório, conforme disposições estabelecidas no art. 28 da Lei Complementar nº 27/2023;
+
+
+II –
+
+Após 24 (vinte e quatro) meses de efetivo exercício na Classe 2 (dois), conforme disposições estabelecidas no caput deste artigo.
+
+
+§ 3º
+
+Os avanços horizontais indicados nos incisos I e II poderão ser requeridos em conjunto, no tempo apropriado, e corresponderão quando do deferimento completo ao avanço de 2 (duas) classe simultaneamente.
+
+
+Art. 4º.
+
+Será considerado apto a requerer o avanço horizontal de que trata o art. 3º inciso I, o servidor estável cuja média aritmética das 2 (duas) últimas avaliações de desempenho anual for igual ou superior a 6 (seis).
+
+
+Art. 5º.
+
+Será considerado apto a requerer o avanço horizontal de que trata o art. 3º inciso II, o servidor estável e com nota de Avaliação de Desempenho igual ou Superior 6 (seis); que comprove qualificação continuada, por meio de certificado de qualificação profissional, não inferior a carga horária mínima conforme Anexo III da Lei Complementar nº 27/2023.
+
+
+§ 1º
+
+Os cursos de qualificação profissional de curta duração a que se refere o caput desse artigo serão analisados conforme art. 37 da lei Complementar nº 27/2023.
+
+
+§ 2º
+
+Para efeitos da Lei Complementar nº 27/2023, serão considerados os cursos de qualificação profissional de curta duração, realizados e/ou concluídos a partir de 1º de janeiro de 2024.
+
+
+Art. 6º.
+
+A avaliação de desempenho abrangerá os aspectos de:
+
+
+I –
+
+qualidade do trabalho;
+
+
+II –
+
+iniciativa e criatividade;
+
+
+III –
+
+competência interpessoal;
+
+
+IV –
+
+responsabilidade com o trabalho;
+
+
+V –
+
+zelo por equipamentos e materiais;
+
+
+VI –
+
+participação em cursos de formação;
+
+
+VII –
+
+assiduidade;
+
+
+VIII –
+
+pontualidade;
+
+
+IX –
+
+comportamento Ético no trabalho;
+
+
+X –
+
+Produtividade.
+
+
+Parágrafo único
+
+Os quesitos referentes aos aspectos definidos neste artigo estão descritos em formulários próprios.
+
+
+Art. 7º.
+
+O servidor só poderá pleitear avanço de carreira se na avaliação de desempenho obtiver média aritmética simples final igual ou superior seis;
+
+
+Art. 8º.
+
+A avaliação de desempenho será quantificada da seguinte forma:
+
+
+I –
+
+As áreas para Avaliação de Desempenho (AD) estão previstas pelo art. 6º e seus incisos, onde cara área (A) possuirá peso matemático de 10 (dez) pontos, aplicando-se a seguinte fórmula:
+
+AD= (A1+A2 A3+A4+A5+A6+A7+A8+A9+A10) / 10;
+
+
+Parágrafo único
+
+O servidor poderá pleitear avanço para a Classe subsequente a que está posicionado a cada 24 (vinte e quatro) meses, se a média aritmética simples das avaliações desse período for igual ou superior a 6 (seis).
+
+
+Art. 9º.
+
+Não será considerado como efetivo exercício para progressão na Carreira, por meio de avanço horizontal:
+
+
+I –
+
+Afastamento para tratamento de saúde superior a sessenta dias, consecutivos ou alternados, com exceção se decorrente de acidente de trabalho ou de doenças com laudo da medicina especializada, como: tuberculose ativa, hanseníase, alienação mental, esclerose múltipla, hepatopatia grave, neoplasia maligna, cegueira, paralisia, cardiopatia grave, Parkinson, espondiloartrose anquilosante, nefropatia grave, Paget, síndrome da deficiência imunológica adquirida ou contaminação por radiação;
+
+
+II –
+
+Licença para tratamento de pessoa da família por um período superior a trinta dias, ainda que alternados;
+
+
+III –
+
+Licença para tratar de assuntos particulares;
+
+
+IV –
+
+Outras licenças sem remuneração.
+
+
+Parágrafo único
+
+Nos casos previstos neste artigo, a contagem do tempo para a progressão será suspensa, retomando a contagem quando do retorno do servidor para completar o interstício de 24 (vinte e quatro) meses de efetivo exercício.
+
+
+Art. 10.
+
+A avaliação de desempenho será coordenada pela mesa diretora da Câmara Municipal, e facultativamente por Comissão instituída para esse fim.
+
+
+Art. 11.
+
+Compete aos responsáveis pelo processo de avaliação do servidor:
+
+
+I –
+
+Acompanhar o desempenho do servidor de forma sistemática e continuada, procedendo anotações das informações observadas para fins da análise de desempenho, feedbacks e de promoção de ajustes, quando necessário;
+
+
+II –
+
+Registrar os resultados de cada avaliação nos formulários próprios;
+
+
+III –
+
+Direcionar os servidores, a fim de auxiliá-los na superação de suas dificuldades.
+
+
+Art. 12.
+
+Os requerimentos de promoção horizontal e seus respectivos processos deverão ser direcionado ao Chefe do Poder Legislativo Municipal.
+
+
+§ 1º
+
+Do resultado da avaliação caberá recurso fundamentado ao Presidente do Legislativo Municipal, em prazo não superior a 10 (dez) dias úteis.
+
+
+Art. 13.
+
+Cabe ao servidor, o interesse e a responsabilidade da apresentação de requerimento formal a Mesa Diretora da Câmara Municipal de Fênix preiteando progressão e/ou avanço no plano de cargos, carreira e remuneração, assim como de toda a documentação acessória exigidas na forma da Lei Complementar 27/2023.
+
+
+Parágrafo único
+
+Na deliberação pelo deferimento, o Presidente do Legislativo Municipal expedirá ato público e comunicará ao setor de Recursos Humanos para que ocorra o reflexo financeiro por mudança de classe e/ou nível.
+
+
+Art. 14.
+
+Os resultados obtidos nas avaliações de desempenho dos servidores nortearão o planejamento, a definição das novas ações necessárias para o seu constante desenvolvimento, visando assegurar a qualidade do trabalho do Poder Legislativo Municipal.
+
+
+Art. 15.
+
+Decreto entra em vigor na data de sua publicação.
+
+
+Câmara Municipal de Fênix, 19 de dezembro de 2023.
+
+SIDNEI APARECIDO TEIXEIRA
+
+PRESIDENTE
+

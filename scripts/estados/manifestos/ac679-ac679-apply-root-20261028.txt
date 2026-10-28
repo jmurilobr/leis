@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "/Volumes/ExternalSSD/GitHub/constituicao/_fonte/operacao_root_20261027/qa-snapshot.py", line 7, in <module>
+    runpy.run_path(str(target),run_name='__main__')
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Volumes/ExternalSSD/GitHub/constituicao/scripts/estados/snapshots/ac_legis_promocao_20261027_006/promover_legis_ac_privado.py", line 205, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/Volumes/ExternalSSD/GitHub/constituicao/scripts/estados/snapshots/ac_legis_promocao_20261027_006/promover_legis_ac_privado.py", line 195, in main
+    if run_git(root,'rev-parse','HEAD').decode().strip()!=head:raise RuntimeError('HEAD mudou antes da troca; parar e consultar journal')
+                                                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: HEAD mudou antes da troca; parar e consultar journal

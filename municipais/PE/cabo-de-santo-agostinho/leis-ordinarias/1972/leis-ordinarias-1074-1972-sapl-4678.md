@@ -1,0 +1,50 @@
+---
+titulo: "Lei Ordinária nº 1.074, de 05 de outubro de 1972"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1074"
+data: "1972-10-05"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/4678"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/4751/text"
+sha256_fonte: "dbc5c7f4dc2417b14e21115f7f2685aaa52bddd92a6bbcfb23b7b17bc1076b5f"
+sha256_texto: "1be84d3b592573944c8fb74a13dfce170ddba6dbbb303cf3c4a923f0b1171a04"
+capturado_em_fonte: "2026-10-27T22:13:37.561522-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.074, de 05 de outubro de 1972
+
+AUTORIZA O CHEFE DO PODER EXECUTIVO MUNICIPAL A ABRIR CRÉDITO ESPECIAL.
+
+
+O PREFEITO DO MUNICIPIO DO CABO, faço saber / que a Câmara Municipal do Cabo, decretou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Prefeito do Municipio, autorizado a abrir Crédito Especial na importância de CR$ 600,00 (seiscentos cruzeiros), destinado a um auxilio para o Ginásio Manoel Figueira do Nascimento, no corrente exercício, com uma Dotação Mensal de CR$100,00 (cem Cruzeiros), a partir do dia 1º de julho de 1972.
+
+
+Art. 2º.
+
+O presente Crédito Especial, ocorrerá / por conta da anulação parcial de Dotações Orçamentárias.
+
+
+Art. 3º.
+
+Revogam-se as disposições em contrario.
+
+
+ASSESSORIA DO PLANEJAMENTO DA PREFEITURA MUNICIPAL DO CABO, em 5 de outubro de 1972.
+
+
+**José Alberto de Lima**  
+\- Prefeito -
+

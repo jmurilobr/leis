@@ -1,0 +1,143 @@
+---
+titulo: "Lei Ordinária Municipal nº 1.637, de 22 de fevereiro de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "1637"
+data: "2017-02-22"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/226"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/386/text"
+sha256_fonte: "4dbafa74e7d21593560d9d288bf738097fef8529171342bfd0d85693a02b77b3"
+sha256_texto: "46d96367c8d84daf7329b7a9bfc404ee8c1ed82db5d2d38f68b03103b4c5d327"
+capturado_em_fonte: "2026-10-27T22:34:38.992905-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 1.637, de 22 de fevereiro de 2017
+
+AUTORIZA A PARTICIPAÇÃO, COM RESERVAS, DO MUNICÍPIO DE CALIFÓRNIA NO CONSÓRCIO PÚBLICO INTERMUNICIPAL DE INFRAESTRUTURA E DESENVOLVIMENTO URBANO DA REGIÃO DE ASTORGA - CINDAST E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+A CÂMARA DE VEREADORES DO MUNICÍPIO DE CALIFÓRNIA - ESTADO DO PARANÁ, APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI.
+
+
+Art. 1º.
+
+Fica o Município de CALIFÓRNIA autorizado a participar, com reservas, do CONSÓRCIO PÚBLICO INTERMUNICIPAL DE INFRAESTRUTURA E DESENVOLVIMENTO URBANO DA REGIÃO DE ASTORGA - CINDAST, constituído pelos Municípios de Astorga, Centenário do Sul, Colorado, Jaguapitã, Miraselva, Munhoz de Mello, Nova Esperança, Paranacity, Prado Ferreira, Sabáudia e Santa Fé, observado o disposto na Lei Federal nº 11.107/2005, de 06 de Abril de 2005, nos termos do artigo Art. 2º-A do Estatuto do CINDAST.
+
+
+Art. 2º.
+
+Fica ratificado parcialmente o Protocolo de Intenções e as cláusulas do Estatuto, publicado nos jornais de circulação de âmbito regional e no Jornal “O Diário do Norte do Paraná”, do CONSÓRCIO PÚBLICO INTERMUNICIPAL DE INFRAESTRUTURA E DESENVOLVIMENTO URBANO DA REGIÃO DE ASTORGA – CINDAST, visando promover ações na área de infraestrutura e desenvolvimento urbano dos municípios consorciados aderindo somente à finalidade prevista no inciso II, do artigo 6º, do Estatuto do Consórcio, qual seja, de “pavimentação de vias urbanas, por diferentes processos - pavimentação asfáltica, elementos pré-moldados de concreto ou outros, serviços de tapa-buracos da pavimentação, recapeamento de vias, execução meio-fio e sarjeta etc.”.
+
+
+Art. 3º.
+
+O Consórcio Público Intermunicipal de Infraestrutura e Desenvolvimento Urbano da Região de Astorga – CINDAST, com sede e foro no Município de Astorga-PR, foi constituído sob a forma de associação pública, de natureza autárquica, com prazo de duração indeterminado, regendo-se pelo contrato/Estatuto de Consórcio Público, pela Lei n°. 11.107/2005, Decreto n°. 6.017/2007, artigo 41, IV, do Código Civil Brasileiro e demais legislações aplicáveis e regulamentação de seus órgãos.
+
+
+Parágrafo único
+
+Para o cumprimento de seus objetivos, o Consórcio Público poderá:
+
+
+I –
+
+firmar convênios, contratos, contrato de programa, contrato de rateio, termos de parceria, contrato de gestão, acordos de qualquer natureza, receber auxílios, contribuições e subvenções sociais ou econômicas, de outras entidades e órgãos de governo;
+
+
+II –
+
+ser contratado pela administração direta e indireta dos entes da Federação consorciados, dispensada a licitação;
+
+
+III –
+
+promover as desapropriações e instituir servidões nos termos de declaração de utilidade ou necessidade pública ou de interesse social, realizada pelo ente consorciado em que o bem ou o direito se situe;
+
+
+IV –
+
+promover, por deliberação da Assembleia Geral, a constituição e gestão de fundos específicos para aplicação em atividades condizentes aos objetivos do consórcio;
+
+
+V –
+
+realizar licitação da qual, nos termos do edital, decorram contratos administrativos celebrados por órgãos ou entidades dos entes consorciados.
+
+
+Art. 4º.
+
+O ente Consorciado somente entregará recursos ao Consórcio Público mediante contrato de rateio.
+
+
+§ 1º
+
+O contrato de rateio será formalizado em cada exercício financeiro e o prazo de vigência não será superior ao das dotações que o suportam.
+
+
+§ 2º
+
+Os entes Consorciados, isolados ou em conjunto, bem como, o Consórcio Público, são partes legítimas para exigir o cumprimento das obrigações previstas no contrato de rateio.
+
+
+§ 3º
+
+Com o objetivo de permitir o atendimento dos dispositivos da Lei Complementar n.º 101/00, o Consórcio Público deve fornecer as informações necessárias para que sejam consolidadas, nas contas dos entes Consorciados, todas as despesas realizadas com os recursos entregues em virtude de contrato de rateio, de forma que possam ser contabilizadas em conformidade com os elementos econômicos e das atividades ou projetos atendidos.
+
+
+Art. 5º.
+
+Para concretização do ingresso do Município de CALIFÓRNIA no Consórcio Intermunicipal de Infraestrutura e Desenvolvimento Urbano da Região de Astorga - CINDAST fica autorizada a destinação de quota, para compor o Fundo de Recursos Financeiros, de R$ 400,00 (quatrocentos reais).
+
+
+Art. 6º.
+
+Fica o Poder Executivo autorizado a abrir, no corrente exercício financeiro, crédito especial para atendimento das despesas de que trata o artigo anterior e das demais despesas assumidas por adesão ao contrato de rateio, decorrente da participação no Consórcio Intermunicipal de Infraestrutura e Desenvolvimento Urbano da Região de Astorga - CINDAST, não prevista no Orçamento em execução.
+
+
+Art. 7º.
+
+Fica alterado o Anexo I – Ações Prioritárias e metas para o período 2014 a 2017, da Lei Nº 1501/2013, que dispõe sobre o Plano Plurianual do Município de CALIFÓRNIA, com inclusão de metas no **PROGRAMA - 0024 – Programa de Inferaestrutura Urbana**, com a seguinte redação:
+
+<table><tbody><tr><td rowspan="3"><p><strong>DESCRIÇÃO DA AÇÃO</strong></p></td><td rowspan="3"><p><strong>PRODUTO</strong></p></td><td rowspan="3"><p><strong>UNIDADE DE MEDIDA</strong></p></td><td colspan="2"><p><strong>QUANTIFICAÇÃO DA AÇÃO</strong></p></td></tr><tr><td colspan="2"><p><strong>2017</strong></p></td></tr><tr><td><p><strong>Física</strong></p></td><td><p><strong>R$</strong></p></td></tr><tr><td><p>Ingresso em Consórcio Público</p></td><td><p>Consórcio criado</p></td><td><p>un</p></td><td><p>1</p></td><td><p>400,00</p></td></tr><tr><td><p>Manutenção do Consórcio Público</p></td><td><p>Consórcio Público</p></td><td><p>un</p></td><td><p>1</p></td><td><p>70.000,00</p></td></tr></tbody></table>
+
+
+Art. 8º.
+
+Fica alterado o Anexo I – Metas e Prioridades, da Lei Municipal Nº. 1618/2016 – “Lei Diretrizes Orçamentárias para o Exercício Financeiro do ano 2017”, com inclusão de metas na Secretaria Municipal de Transportes, Obras e Serviços Públicos - SETOSP, com a seguinte redação:
+
+<table><tbody><tr><td rowspan="3"><p><strong>DESCRIÇÃO DA AÇÃO</strong></p></td><td rowspan="3"><p><strong>PRODUTO</strong></p></td><td rowspan="3"><p><strong>UNIDADE DE MEDIDA</strong></p></td><td colspan="2"><p><strong>QUANTIFICAÇÃO DA AÇÃO</strong></p></td></tr><tr><td colspan="2"><p><strong>2017</strong></p></td></tr><tr><td><p><strong>Física</strong></p></td><td><p><strong>R$</strong></p></td></tr><tr><td><p>Ingresso no Consórcio Público</p></td><td><p>Consórcio criado</p></td><td><p>un</p></td><td><p>1</p></td><td><p>400,00</p></td></tr><tr><td><p>Manutenção do Consórcio Público</p></td><td><p>Consórcio Público</p></td><td><p>un</p></td><td><p>1</p></td><td><p>70.000,00</p></td></tr></tbody></table>
+
+
+Art. 9º.
+
+Fica aberto no Orçamento Geral do Município para o exercício financeiro de 2017, Crédito Adicional Especial por anulação de dotação na fonte 1000, no valor de R$ 70.400,00 para ingresso e manutenção do Consórcio Público Intermunicipal de Infraestrutura e Desenvolvimento Urbano da Região de Astorga - CINDAST, na dotação orçamentária abaixo:
+
+<table><tbody><tr><td><p>04</p></td><td><p>SECRETARIA DE TRANSPORTE, OBRAS E SERVIÇOS PÚBLICOS</p></td><td><p> </p></td></tr><tr><td><p>04.012</p></td><td><p>Departamento de Urbanismo e Infraestrutura</p></td><td><p> </p></td></tr><tr><td><p>04.012.15</p></td><td><p>Urbanismo</p></td><td><p> </p></td></tr><tr><td><p>04.012.15.451</p></td><td><p>Infraestrutura Urbana</p></td><td><p> </p></td></tr><tr><td><p>04.012.15.451.0024</p></td><td><p>Programa de Infraestrutura Urbana</p></td><td><p> </p></td></tr><tr><td><p>004.012.1.451.0024.2075</p></td><td><p>Consórcio Intermunicipal de Infra-estrutura e Desenvolvimento Urbano da Região de Astorga - CINDAST</p></td><td><p> </p></td></tr><tr><td><p>3.000.00.00.00</p></td><td><p>Despesas Correntes</p></td><td><p> </p></td></tr><tr><td><p>3.300.00.00.00</p></td><td><p>Outras Despesas Correntes</p></td><td><p> </p></td></tr><tr><td><p>3.3.71.00.00.00</p></td><td><p>Transferências à Consórcio Público</p></td><td><p> </p></td></tr><tr><td><p>3.3.71.70.00.00</p></td><td><p>Rateio pela participação em Consórcio Público</p></td><td><p><strong>70.400,00</strong></p></td></tr></tbody></table>
+
+
+Art. 10.
+
+Como recurso para atendimento do crédito previsto no artigo anterior, será cancelada parcial ou total as dotações constantes do orçamento vigente, conforme Lei Nº. 1631/2016.
+
+
+Art. 11.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Edifício da Prefeitura do Município de Califórnia,
+
+aos 21 dias do mês de fevereiro do ano de 2017.
+
+***PAULO WILSON MENDES***
+
+Prefeito
+

@@ -1,0 +1,158 @@
+---
+titulo: "LEI ORDINÁRIA-CMC nº 953, de 18 de junho de 2002"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "953"
+data: "2002-06-18"
+municipio: "Claraval"
+uf: "MG"
+codigo_ibge: "3116407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.claraval.mg.leg.br/norma/1272"
+fonte_texto: "https://sapl.claraval.mg.leg.br/ta/603/text"
+sha256_fonte: "1d6a4345e10c011ae61f3bb08c8e54b9a4206b4a77f6995522469cca0140294f"
+sha256_texto: "bcfa0bb7c6aac1f995629b5fa3a6121317145447f4f188db6ad9fbb7322bc9cd"
+capturado_em_fonte: "2026-10-27T23:03:14.069495-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA-CMC nº 953, de 18 de junho de 2002
+
+"Dispõe sobre abertura de Crédito Adicional Suplementar no valor de R$62.700,00 e dá outras providências."
+
+
+JUSCELINO BATISTA BORGES, Prefeito Municipal de Claraval, Estado de Minas Gerais, em pleno exercício do seu cargo e usando das atribuições que lhe são conferidas por lei, FAZ SABER que a Câmara Municipal local APROVOU e ele, em seu nome, SANCIONA PROMULGA a seguinte lei:
+
+
+Art. 1º.
+
+Fica aberto no Serviço de Contabilidade um Crédito Adicional Suplementar no valor de R$62.700,00 (SESSENTA E DOIS MIL E SETECENTOS REAIS), destinado a acobertar despesas com as seguintes dotações do orçamento em vigor:
+
+
+01 - ADMINISTRAÇÃO DO GABINETE
+
+04 122 0401 2.003 - Manutenção das Atividades do Gabinete
+
+3390 39 - Outros Serv.Terc./Pessoa Jurídica.................................................................1.000,00
+
+01 - ADMINISTRAÇÃO GERAL
+
+04 122 0401 2.007 0 Manutenção das Ativ. da Administração
+
+3190 16 - Outras Desp. Variáveis/Pessoal Civil.............................................................1.000,00
+
+3390 39-Outros Serv.Terc./Pessoa Jurídica...................................................................5.000,00
+
+01 - ENSINO FUNDAMENTAL RECURSOS PROPRIOS
+
+12 361 1201 2.012 - Manut. das Ativ. da Educ.-Rec. Próprio
+
+4490 52 - Equipamentos e Mat. Permanente...................................................................200,00
+
+12 301 1201 2.013 - Manut.do Transp. Esc. Rec. Próprios
+
+3390 30 - Material de Consumo......................................................................................5.000,00
+
+3390 36 - Outros Serv.Terc./Pessoa Física..................................................................30.000,00
+
+02 - ENSINO FUNDAMENTAL/FUNDEF
+
+12 365 1203 2.017 - Manutenção de Creches no Município
+
+3390 30 - Material de Consumo......................................................................................2.000,00
+
+O6 - ESPORTE E LAZER
+
+27 122 2701 2.024 - Manutenção das Ativ.do Esp. e Lazer
+
+3390 30 - Material de Consumo......................................................................................1.500,00
+
+3330 36 - Outros Serv.Terc./Pessoa Fisica....................................................................2.000,00
+
+07 - CULTURA
+
+13 392 1301 2.025 - Manutenção das Ativ. Culturais
+
+3390 36 - Material de Consumo......................................................................................1.000,00
+
+01 - SAUDE
+
+10 302 1002 2.030 - Manutenção das Ativ. Saúde-Rec. Próprios
+
+3390 39 - Serviços de Terc./Pessoa Jurídica..............................................................10.000,00
+
+02 - ASSISTENCIA SOCIAL
+
+06 244 0901 2.033 - Manutenção da Assist. Social Geral
+
+3390 36 - Outros Serv.Terc./Pessoa Física....................................................................2.000,00
+
+08 244 0801 2.035 - Atendimento a Pop. Carente/Medicamentos
+
+3390 32 - Material de Distribuição Gratuita.....................................................................2.000,00
+
+TOTAL...........................................................................................................................62.700,00
+
+
+Art. 2º.
+
+Para fazer face às despesas decorrentes da execução desta lei, serão utilizados recursos provenientes da anulação total ou parcial das seguintes dotações do orçamento em vigor:
+
+
+02 - ASSISTENCIA SOCIAL
+
+03 244 0001 2.039 - Atend. à Pop. Carente/Distr.Mat.Construção.
+
+3330 32 - Material de Distrib. Gratuita...........................................................................8.000,00
+
+16 482 1601 1.003 - Construção de Casas para Carentes
+
+4490 51 - Obras e Instalações......................................................................................15.200,00
+
+16 482 1001 1.004 - Reforma de Casas Populares
+
+4490 51 - Obras e Instalações........................................................................................1.000,00
+
+01 - SERVIÇOS URBANOS
+
+15 451 1501 1.005 - Construção de Calçadas na Cidade
+
+4490 51 - Obras e Instalações........................................................................................5.000,00
+
+15 451 1501 1.000 - Recapeamento de Ruas e Avenidas
+
+4490 51 - Obras e Instalações......................................................................................10.000,00
+
+15 451 1501 1.007 - Asfaltamento de Ruas e Avenidas
+
+4490 51 - Obras e Instalações......................................................................................10.000,00
+
+15 451 1501 1.008 - Construção de Sanitários Públicos
+
+4490 51 - Obras e Instalações........................................................................................8.500,00
+
+15 452 0401 2.040 - Manut. do Setor de Obras e Serv.Urb.
+
+3390 33 - Passagens e Despesas c/Locomoção............................................................3.000,00
+
+3390 37 - Locação de Mão-de-Obra..............................................................................1.000,00
+
+4490 52 - Equipamentos e Material Permanente............................................................1.000,00
+
+TOTAL...........................................................................................................................62.700,00
+
+
+Art. 3º.
+
+Revogam-se as disposições em contrário, entrando a presente Lei em vigor na data de sua publicação.
+
+
+Claraval, 18 de junho de 2002.
+
+JUSCELINO BATISTA BORGES
+
+Prefeito Municipal
+

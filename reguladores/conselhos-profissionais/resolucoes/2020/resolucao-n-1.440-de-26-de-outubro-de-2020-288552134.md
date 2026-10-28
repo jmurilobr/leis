@@ -1,0 +1,52 @@
+---
+titulo: "RESOLUÇÃO Nº 1.440, de 26 de outubro de 2020"
+orgao: "Entidades de Fiscalização do Exercício das Profissões Liberais/Conselho Federal de Corretores de Imóveis"
+tipo: "Resolução"
+numero: "1440"
+data: 2020-10-26
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 17/11/2020, seção 1, p. 108"
+data_publicacao: 2020-11-17
+edicao: "219"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-n-1.440-de-26-de-outubro-de-2020-288552134"
+sha256_html_fonte: 82a817cba6fd8023527e0be57419f40df530f5370442cb43b25100101197ebca
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO Nº 1.440, de 26 de outubro de 2020
+
+RESOLUÇÃO Nº 1.440, de 26 de outubro de 2020
+
+Estabelece valores de anuidades e emolumentos para o exercício de 2021.
+
+O CONSELHO FEDERAL DE CORRETORES DE IMÓVEIS-COFECI, no uso das suas atribuições legais e regimentais; CONSIDERANDO as disposições contidas no artigo 16 da Lei nº 6.530/78, com as alterações introduzidas pela Lei nº 10.795, de 5 de dezembro de 2003; CONSIDERANDO a tese de repercussão geral decidida pelo STF no Recurso Extraordinário nº 838.284, de 19/10/2016, que autoriza os Conselhos de Fiscalização Profissional a fixarem o valor de suas anuidades, desde que limitado a valor legalmente estabelecido, como é o caso do Sistema Cofeci-Creci, conforme dispõe o art. 16, §§ 1º e 2º, da Lei nº 6.530/78; CONSIDERANDO que, embora o mercado imobiliário já se tenha recuperado quase que completamente da queda havida no início do isolamento social, ainda há risco de recrudescimento dos efeitos nefastos provocados pelo Coronavírus; CONSIDERANDO os índices oficiais de atualização do ano em curso pelo IPCA, no período de 1º de outubro de 2019 a 30 de setembro de 2020 (ano-base); CONSIDERANDO que os orçamentos-programa dos Conselhos Regionais de Corretores de Imóveis, para o exercício de 2021, estão sendo adequados à realidade proposta nesta Resolução; CONSIDERANDO a decisão do Egrégio Plenário, adotada na Sessão Extraordinária realizada durante os dias 21, 22 e 23 de outubro de 2020, resolve:
+
+**Art. 1º** - Estabelecer, conforme a seguir, os valores de anuidades e emolumentos, devidos ao Sistema Cofeci-Creci, a partir de 1° de janeiro de 2021, atualizados pelo IPCA, nos termos do art. 16, §§ 1º e 2º da Lei n° 6.530/78. I - ANUIDADES. a) Pessoa Física e Empresário Individual (Empresa individual)... R$ 673,00 (seiscentos e setenta e três reais); b) Pessoa Jurídica, de acordo com os seguintes níveis de Capital Social: b.1) de R$ 0,01 até R$ 50.000,00 ... R$ 1.346,00; b.2) de R$ 50.001,00 até R$ 100.000,00 ... R$ 1.683,00; b.3) de R$ 100.001,00 até R$ 150.000,00 ... R$ 2.019,00; b.4) de R$ 150.001,00 até R$ 200.000,00 ... R$ 2.356,00; b.5) Acima de R$ 200.000,00... R$ 2.692,00. Obs.: No ato da inscrição, a anuidade será cobrada proporcionalmente aos meses faltantes do exercício em curso, conforme Arts. 21, parágrafo único (Pessoa Física) e 28, parágrafo único (Pessoa Jurídica), da Resolução-Cofeci nº 327/92.
+
+Art. 2o- Excepcionalmente, considerando possível postergação ou recrudescimento dos males causados pela pandemia do Coronavírus, a correção legal do valor da anuidade de 2020, no valor de R$ 21,00 (R$ 673,00 - R$ 652,00), baseada no IPCA, será desconsiderada, a título de bônus extraordinário, resultando, portanto, na aplicação dos seguintes valores para as anuidades de 2021, desde que sejam pagas à vista ou sob a forma de parcelamento prevista nos artigos 3º e 5º, até o dia 31 de março de 2021: I - ANUIDADES. a) Pessoa Física e Empresário Individual (Empresa individual) ... R$ 652,00 (seiscentos e cinquenta e dois reais); b) Pessoa Jurídica, de acordo com os seguintes níveis de Capital Social: b.1) de R$ 0,01 até R$ 50.000,00 ... R$ 1.304,00; b.2) de R$ 50.001,00 até R$ 100.000,00 ... R$ 1.630,00; b.3) de R$ 100.001,00 até R$ 150.000,00 ... R$ 1.956,00; b.4) de R$ 150.001,00 até R$ 200.000,00 ... R$ 2.282,00; b.5) Acima de R$ 200.000,00... R$ 2.608,00. Obs.: No ato da inscrição, a anuidade será cobrada proporcionalmente aos meses faltantes do exercício em curso, conforme Arts. 21, parágrafo único (Pessoa Física) e 28, parágrafo único (Pessoa Jurídica), da Resolução-Cofeci nº 327/92. II - EMOLUMENTOS. a) Serviços para inscrição e reinscrição de Pessoa Física ... R$ 169,00. (Inclui taxa de expediente + emissão da Cédula de Identidade). a.1) Serviços para inscrição secundária (no Creci receptor)... R$ 169,00. (Inclui taxa de expediente + emissão da Cédula de Identidade). b) Serviços para inscrição/reinscrição de Pessoa Jurídica ... 25% do valor da anuidade correspondente à da própria Pessoa Jurídica requerente. (Inclui taxa de expediente + emissão do Certificado de Inscrição de Pessoa Jurídica). c) Averbação de filial (art. 39, letra d, Resolução nº 327/92) ... 20% da Taxa de Inscrição PJ. d) Serviços para emissão de 2ª via da Cédula de Identidade/Regularidade ... R$ 68,00. e) Serviços para emissão de 2ª via de Certificado de Pessoa Jurídica ... R$ 68,00. f) Certidões ... R$ 34,00. g) Fotocópia de documentos ... R$ 0,70. h) Desarquivamento e cópia de documentos com autenticação administrativa ... R$ 68,00. i) Pedidos no Regional de origem: suspensão da inscrição; transferência para outra Região ... R$ 169,00. j) Registros no Regional receptor: exercício eventual; suspensão da inscrição secundária; emissão de novos documentos de identificação profissional ... R$ 169,00. Obs: As taxas dos itens "i" e "j" referem-se ao serviço prestado, e não se confundem com o valor anuidade proporcional, ou outro valor intrínseco ao item requerido. k) Consulta prévia sobre liberação de razão social ou nome fantasia ... R$ 68,00. l) Averbação de nome de fantasia ou nome profissional abreviado; interrupção da suspensão ou prorrogação dos efeitos da inscrição ... R$ 68,00. m) Taxa de Expedientes Diversos ... R$ 68,00. § 1º - Os emolumentos e taxas de serviço a que se referem o inciso II deste artigo, poderão ser parcelados em até 3 (três) pagamentos, se pagos via cartão de crédito, a critério da Diretoria do Conselho Regional. § 2º - Os descontos para pagamento antecipado previstos no Art. 7º desta Resolução são aplicáveis aos valores de anuidades definidos neste artigo.
+
+**Art. 3º** - É facultado ao Conselho Regional conceder parcelamento das anuidades fixadas no inciso I, do artigo 1º, ou do artigo 2º, desta Resolução, conforme o caso, em até 05 (cinco) parcelas mensais iguais e sucessivas, sem o desconto previsto no art. 7º desta Resolução, observados os seguintes critérios: I) em até 5 (cinco) parcelas mensais, se requerido, e paga a primeira, até 15 de janeiro; II) em até 4 (quatro) parcelas mensais, se requerido, e paga a primeira, até 15 de fevereiro; III) em até 3 (três) parcelas mensais, se requerido, e paga a primeira, até 15 de março.
+
+**Art. 4º** - O valor integral da contribuição anual pago após o dia 31 de março será atualizado pelo índice oficial de preços ao consumidor (IPCA) e acrescido de multa de 2% (dois por cento) e de juros moratórios de 1% (um por cento) ao mês ou fração. Parágrafo Único - Após o vencimento da contribuição anual, os Conselhos Regionais lançarão os custos despendidos com a cobrança administrativa do débito para a pessoa física ou jurídica inadimplente, observados os seguintes critérios: I) Notificação por via postal simples ... R$ 10,00. II) Notificação por via postal com aviso de recebimento ... R$ 20,00. III) Diligência para atualização de endereço ... R$ 10,00. IV) Diligência de Agente de Fiscalização ... 10% do valor do débito V) Publicação de notificação editalícia ... Custo do edital dividido pela quantidade de notificados.
+
+**Art. 5º** - É facultado o recebimento da contribuição anual por meio de cartão de crédito, de acordo com os parâmetros abaixo: I) Pagamento até 15/01/2021, permitido o parcelamento em até 10 vezes; II) Pagamento até 15/02/2021, permitido o parcelamento em até 9 vezes; III) Pagamento até 15/03/2021, permitido o parcelamento em até 8 vezes; IV) Pagamento até 15/04/2021, permitido o parcelamento em até 7 vezes; V) Pagamento até 15/05/2021, permitido o parcelamento em até 6 vezes; VI) Pagamento até 15/06/2021, permitido o parcelamento em até 5 vezes; VII) Pagamento até 15/07/2021, permitido o parcelamento em até 4 vezes; VIII) Pagamento até 15/08/2021, permitido o parcelamento em até 3 vezes; IX) Pagamento até 15/09/2021, permitido o parcelamento em até 2 vezes.
+
+**Art. 6º** - As filiais de Pessoas Jurídicas pagarão a contribuição anual em valor que não exceda à metade do que for pago pela matriz.
+
+**Art. 7º** - Fica facultado aos Conselhos Regionais, mediante Portaria, conceder descontos para pagamento antecipado de contribuições anuais do exercício vigente a Pessoas Físicas, Jurídicas e Empresários Individuais (Empresas individuais), obedecidos os prazos e percentuais a seguir: I) Pagamento integral até 15 de janeiro ... Desconto de até 10% (dez por cento); II) Pagamento integral até 15 de fevereiro ... Desconto de até 6% (seis por cento); III) Pagamento integral até 15 de março ...Desconto de até 4% (quatro por cento). Parágrafo Único - Cópia da Portaria de que trata o caput deste artigo, será encaminhada pelo Conselho Regional ao Cofeci para conhecimento e arquivo.
+
+Art. 8o- Os débitos existentes em 31 de dezembro serão inscritos na Dívida Ativa e cobrados na forma própria.
+
+**Art. 9º** - Os valores de anuidades constantes da presente Resolução obedecem aos limites máximos estabelecidos no § 1º, incisos I e II, do artigo 16, da Lei nº 6.530, de 12/05/78, com a redação dada pela Lei nº 10.795, de 05/12/03, corrigidos pelo IPCA, nos termos do § 2º do mesmo artigo, considerado o período anual de 1º de outubro de 2019 a 30 de setembro de 2020. Parágrafo Único - Os valores de anuidades referentes ao exercício de 2021 que, eventualmente, venham a ser recebidos por antecipação ainda no exercício de 2020 não poderão, por imposição legal, ser utilizados neste exercício, tendo em conta pertencerem ao orçamento-programa de 2021.
+
+**Art. 10** - As receitas provenientes de anuidades e emolumentos devidas aos Conselhos Regionais serão, obrigatoriamente, recebidas por meio de banco oficial (Banco do Brasil ou Caixa Econômica Federal), mediante conta corrente compartilhada com o Conselho Federal de Corretores de Imóveis.
+
+**Art. 11** - Esta Resolução entra em vigor na data de sua publicação.
+
+JOÃO TEODORO DA SILVA
+
+Presidente do Conselho
+
+VALDECI YASE MONTEIRO
+
+Diretor Tesoureiro

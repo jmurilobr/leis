@@ -1,0 +1,270 @@
+---
+titulo: "Lei nº 1.157, de 02 de setembro de 2009"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1157"
+data: "2009-09-02"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/562"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/999/text"
+sha256_fonte: "88b330dcbf01addbbc7aaacff57bd25abec7b52df25c1edff286c117bb71d34d"
+sha256_texto: "46fb0450bba1886973b405d8f68f498df39981dc3ca5641d5094aed7f907e0a0"
+capturado_em_fonte: "2026-10-27T20:08:36.038101-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.157, de 02 de setembro de 2009
+
+Cria o Conselho Municipal da Juventude - CMJ - e dá outras providências.
+
+
+A Câmara Municipal de Buritis, por seus representantes, aprovaram e Eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal da Juventude - CMJ - com as seguintes atribuições:
+
+
+I –
+
+Estudar, analisar, elaborar, discutir, aprovar e propor políticas públicas que permitam e garantam a integração e a participação do jovem no processo social, econômico, político e cultural do município;
+
+
+II –
+
+Sugerir ao prefeito propostas de políticas públicas, projetos de lei ou outras iniciativas consensuais que visem a assegurar e a ampliar os direitos da juventude:
+
+
+III –
+
+Desenvolver em conjunto com as Secretarias estudos, debates e pesquisas relativas à questão da juventude;
+
+
+IV –
+
+Fiscalizar e tomar providências para o cumprimento da legislação favorável aos direitos da Juventude;
+
+
+V –
+
+Receber sugestões oriundas da sociedade e opinar sobre denúncias que lhe sejam encaminhadas, no âmbito de suas atribuições, dando ciência das mesmas aos órgãos competentes do Poder Público, apoiar, acompanhar e assessorar projetos de interesse da juventude;
+
+
+VI –
+
+Promover a cooperação e o intercâmbio com organismos similares em níveis municipal, estadual, nacional e internacional.
+
+
+Art. 2º.
+
+O Conselho Municipal da juventude será composto prioritariamente por jovens, sendo:
+
+
+I –
+
+Um representante do meio Rural indicado pelo sindicato da classe;
+
+
+II –
+
+Um representante da área empresarial indicado pela Associação Comercial e/ou CDL;
+
+
+III –
+
+.Um representante da Entidade Estudantil Municipal;
+
+
+IV –
+
+Um representante das instituições de ensino superior localizadas no município.
+
+
+V –
+
+Um representante dos movimentos religiosos do município, que tenham juventude organizada.
+
+
+VI –
+
+Cinco representantes do Poder Executivo, indicados pelas Secretarias com projetos voltados à juventude;
+
+
+§ 1º
+
+O Prefeito dará posse aos Conselheiros e seus suplentes;
+
+
+§ 2º
+
+Os Conselheiros elegerão entre si três nomes dos quais o Prefeito indicará presidente, ficando a cargo do Conselho a indicação do Secretário Geral;
+
+
+§ 3º
+
+O mandato dos Conselheiros, de seus respectivos suplentes e do Presidente do Conselho será de dois anos, permitida a recondução por igual período;
+
+
+§ 4º
+
+O poder executivo providenciará a publicação de edital que será amplamente divulgado, a fim de noticiar, a tantos quantos venham a se interessar, a abertura de vagas para o Conselho e o respectivo cronograma para preenchimento das vagas.
+
+
+Art. 3º.
+
+Ao presidente do Conselho compete:
+
+
+I –
+
+Convocar e presidir as sessões do Conselho;
+
+
+II –
+
+Proferir o voto de qualidade;
+
+
+III –
+
+Dirigir a Secretaria Executiva;
+
+
+IV –
+
+Orientar a elaboração e execução
+
+
+V –
+
+Fazer a apresentação das matérias encaminhadas ao Conselho;
+
+
+VI –
+
+Fixar as atribuições dos demais membros;
+
+
+Art. 4º.
+
+O Suporte técnico e administrativo necessário ao funcionamento do Conselho será prestado por órgãos da Administração Pública Municipal e o caráter, a natureza e as condições que será prestado serão definidos pelo regulamento desta lei.
+
+
+Art. 5º.
+
+Todos os órgãos da Administração Municipal têm a obrigação de repassar ao Conselho dados, informações e documentos inerentes a ações e medidas administrativas relacionadas com a juventude.
+
+
+Art. 6º.
+
+A função de Conselheiro não será remunerada nem implicará em vínculo com o poder público, sendo considerado de relevante serviço público.
+
+
+Parágrafo único
+
+Os Conselheiros poderão fazer jus a uma ajuda de custo correspondente ao deslocamento e alimentação.
+
+
+Art. 7º.
+
+É facultado ao Conselho Municipal de juventude solicitar servidores públicos da administração pública direta e indireta para formação de equipe técnica e de apoio administrativo, bem como de pareceres necessários á consecção dos seus objetivos.
+
+
+Art. 8º.
+
+As manifestações do Conselho terão caráter propositivo ou consultivo, conforme a natureza do assunto e sua efetiva necessidade:
+
+
+I –
+
+-Função consultiva, quando provocado a emitir juízo aos projetos, encaminhados pelo órgão executivo, por meio de pareceres.
+
+
+II –
+
+Função propositiva, quando formular politicas de consenso, devidamente pactuadas e harmonizadas com os diversos atores da sociedade representados no Conselho e do poder público municipal.
+
+
+Art. 9º.
+
+Fica criado o Fundo de Integração da Juventude FINJUV - destinado a gerir recursos e financiar parte das atividades do Conselho Municipal da juventude.
+
+
+§ 1º
+
+O Fundo de Integração da juventude será constituído por:
+
+
+I –
+
+Dotações orçamentárias;
+
+
+II –
+
+Doações de entidades nacionais e internacionais, governamentais e/ou não governamentais;
+
+
+III –
+
+Doações particulares;
+
+
+IV –
+
+Legados;
+
+
+V –
+
+Contribuições voluntárias;
+
+
+VI –
+
+Produto das aplicações dos recursos disponíveis;
+
+
+VII –
+
+Produto de vendas de materiais, publicações e eventos realizados.
+
+
+§ 2º
+
+-O Fundo de Integração da Juventude será gerido pelo órgão de juventude municipal, auxiliada por um Conselho de Administração, eleito entre os membros do Conselho Municipal da Juventude, garantida a paridade de representação entre as entidades e órgãos governamentais.
+
+
+§ 3º
+
+O Fundo prestará contas, obrigatoriamente, ao Conselho Municipal de Juventude, à contabilidade do Município e ao Tribunal de Contas do Estado.
+
+
+Art. 10.
+
+Caberá ao Conselho Municipal da Juventude instituir seu regimento interno e dispor sobre outras normas de organização, no prazo máximo de noventa dias após sua instalação.
+
+
+Art. 11.
+
+O Conselho de que se trata esta lei não substitui o Conselho Municipal da infância e Adolescência nas atribuições que a eles são conferidas pela legislação própria de defesa e proteção da Criança e do Adolescente.
+
+
+Art. 12.
+
+Esta lei entrará em vigor na data de sua publicação.
+
+
+Buritis, 02 de Setembro de 2009.
+
+**Dr. Keny Soares Rodrigues Prefeito Municipal**
+
+**Proposição de Lei 029 de 01/09/09, ref. Proj. de Lei 023/09. do Executivo**
+

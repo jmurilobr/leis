@@ -1,0 +1,63 @@
+---
+titulo: "Lei Ordinária nº 29, de 30 de novembro de 1973"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "29"
+data: "1973-11-30"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/352"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/866/text"
+sha256_fonte: "b360521ce31dca77acb139f0a847f3bc3e1e77359f2cb4c8f798ad6650d83499"
+sha256_texto: "98d285f5b3b2f1dcdb611d21f5ea67ea05fb31bf4cd19681f97ff02cd8e27d38"
+capturado_em_fonte: "2026-10-27T22:05:53.729941-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 29, de 30 de novembro de 1973
+
+Autoriza a abertura de créditos especiais, para os fins que especifica.
+
+
+O Prefeito Municipal de Caçu, Estado de Goiás, aprovou e eu sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a, mediante decreto, abrir, no corrente exercício, dois créditos especiais, na importância de Cr$ 3.851,12 (três mil e oitocentos e cinqüenta e um cruzeiros e doze centavos), sob os seguintes códigos:
+
+
+Setor de Fazenda
+
+1.9-3.2.4.0 – Juros
+
+3.2.4.1 – Juros da Dívida Pública ....................... Cr$ 3.150,00
+
+4.3.1.0 – Amortização
+
+4.3.1.1 – Amortização da Dívida Pública ............ Cr$ 701,12
+
+Total – Cr$ ................................................................. 3.851,12
+
+
+Art. 2º.
+
+Os créditos autorizados pelo artigo anterior serão cobertos com recursos disponíveis, na forma do artigo 43 da Lei federal nº 4.320, de 17 de março de 1964.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor nesta data, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Caçu, Estado de Goiás, em 30 de novembro de 1973.
+
+
+**Noé Nunes Guimarães**  
+\- Prefeito Municipal -
+

@@ -1,0 +1,66 @@
+---
+titulo: "Lei nº 2.151, de 16 de abril de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2151"
+data: "2014-04-16"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/1047"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/2741/text"
+sha256_fonte: "5c8696c11217dd5c62bfb1006ea6ec9f931e9319911d6e07be8509d9812aab72"
+sha256_texto: "685971f2cbd467fa7ed126a4ddf12f5978a174a5949bee7a85fdf74597a262aa"
+capturado_em_fonte: "2026-10-27T20:59:21.480465-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 2.151, de 16 de abril de 2014
+
+“Autoriza o Poder Executivo Municipal a doar lote de terra urbana ao Núcleo de Apoio a Criança com Câncer – NACC e dá outras providências.”
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no inciso IV do artigo 87 da Lei Orgânica do Município de Porto Velho, e com base no conteúdo do processo administrativo nº 18.03917-00/2012.
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte
+
+**L E I:**
+
+
+Art. 1º.
+
+Fica o Poder Executivo do Município de Porto Velho, autorizado a doar ao Núcleo de Apoio a Criança com Câncer – NACC, pessoa jurídica de direito privado sem fins lucrativos de apoio a Defesa dos Direitos Sociais, inscrita sob o CNPJ nº 09.405.204/0001-87, um lote de terra urbana, com área total de 1.047,00 m² (mil e quarenta e sete metros quadrados), situada na Cidade de Porto Velho – Estado de Rondônia – Distrito: 01, Zona: 01, Setor: 14, Quadra: 030, Lote: 0350, Frente: 30,00m, Perímetro: 129,80m, possuindo os seguintes limites e confrontações: ao Norte com Lotes 545; ao Sul com Avenida José Vieira Caúla; à Leste com: Lote 295 e a Oeste com: Lote 438, com os seguintes dados do perímetro: frente: 30,00m; fundos: 30,00m; lado direito: 34,90m e lado esquerdo: 34,90m.
+
+
+Art. 2º.
+
+A área de que trata o artigo anterior destina-se para atividade de associação de defesa dos direitos sociais da criança e adolescente com câncer, denominada Núcleo de Apoio a Criança com Câncer – NACC.
+
+
+Parágrafo único
+
+No caso do descumprimento do disposto nesta Lei, a doação será revogada automaticamente, independente de aviso, interpelação ou notificação ao donatário, revertendo à propriedade do imóvel ao domínio pleno do Município de Porto Velho.
+
+
+Art. 3º.
+
+O Município observará fielmente, quanto à utilização da área, as exigências previstas na Lei nº 1.233, de 29 de novembro de 1995.
+
+
+Art. 4º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**MAURO NAZIF RASUL**
+
+**Prefeito**
+
+CARLOS DOBBIS
+
+Procurador Geral do Município
+

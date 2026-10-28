@@ -1,0 +1,128 @@
+{
+  "preparado_em": "2026-10-27T18:39:24.969958-03:00",
+  "HEAD": "1e9c9014dfc54638c76c558bad557525471bbd37",
+  "origem": "estaduais/SE/leis-ordinarias/2018/l-8494-2018-id11810.md",
+  "destino": "estaduais/SE/leis-ordinarias/2018/l-8494-A-2018-id11810.md",
+  "privado": "estaduais/SE/_fonte/auditorias/identidade-sufixo-8494A-20261027-001/candidato/l-8494-A-2018-id11810.md",
+  "sha256_preimagem": "515de8571a19872d716e398810d66f401bb95f717cfb0fb976943d521de8feb4",
+  "sha256_candidato": "959d7000538a00cd8d9f89ddb1e4b7103880f436fd90046bf2cc78d69b104b01",
+  "sha256_normativo_preservado": "ff68b57fa894931cba61ae59d37f7fe91fbef3a61baadfb874605ed77bb4cc44",
+  "alteracoes": [
+    {
+      "antes": "titulo: \"Lei Ordinária nº 8494/2018\"",
+      "depois": "titulo: \"Lei Ordinária nº 8494-A/2018\""
+    },
+    {
+      "antes": "numero: \"8494\"",
+      "depois": "numero: \"8494-A\""
+    },
+    {
+      "antes": "# Lei Ordinária nº 8494/2018\n",
+      "depois": "# Lei Ordinária nº 8494-A/2018\n"
+    }
+  ],
+  "coincidencias_HEAD": [
+    {
+      "path": "estaduais/SE/leis-ordinarias/2018/l-8494-2018-id11810.md",
+      "OID": "e7eea10fcae793908676923cb8274f564c32256c",
+      "sha256_blob": "515de8571a19872d716e398810d66f401bb95f717cfb0fb976943d521de8feb4",
+      "metadata": {
+        "titulo": "Lei Ordinária nº 8494/2018",
+        "uf": "SE",
+        "tipo": "Lei Ordinária",
+        "numero": "8494",
+        "data": "2018-12-28",
+        "ementa": "Dispõe novas normas sobre o Programa de Transferência de Recursos Financeiros Diretamente às Escolas Públicas Estaduais – PROFIN, e dá providências correlatas.",
+        "situacao": "Em vigor",
+        "revogada": false,
+        "versao_texto": "HTML do sistema de legislação da Assembleia (compilado quando disponível)",
+        "fonte": "https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=11810",
+        "arquivo": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L8494A2018.html",
+        "baixado_em": "2026-10-13"
+      },
+      "preimagem": "estaduais/SE/_fonte/auditorias/identidade-sufixo-8494A-20261027-001/l-8494-2018-id11810.md.preimagem.bin",
+      "sha256_preimagem": "515de8571a19872d716e398810d66f401bb95f717cfb0fb976943d521de8feb4",
+      "cache": "estaduais/SE/_fonte/leis-ordinarias/2018/l-8494-2018-id11810.html.gz",
+      "sha256_cache": "f8d75f3c45337ed53d0ad8635775a473ccea5fe7fb9af0f54ecc53d76b40ab87",
+      "sha256_fonte": "54d1642243234bd866ba105247f9b045a828a5624a52bbcd966e47046b56af4a",
+      "distincao": "PROFIN, fonte L8494A2018.html, epígrafe com -A"
+    },
+    {
+      "path": "estaduais/SE/leis-ordinarias/2018/l-8494-2018-id3754.md",
+      "OID": "5183be3453705f4db020d152728bd5d579ff8a20",
+      "sha256_blob": "183924677223e889b0271b3e840a61128e7f097f0ed5147b3443d33e454cf141",
+      "metadata": {
+        "titulo": "Lei Ordinária nº 8494/2018",
+        "uf": "SE",
+        "tipo": "Lei Ordinária",
+        "numero": "8494",
+        "data": "2018-12-28",
+        "ementa": "Revê o vencimento básico dos Cargos Efetivos do Quadro de Pessoal dos Serviços Auxiliares do Ministério Público do Estado de Sergipe, e dá providências correlatas.",
+        "situacao": "Em vigor",
+        "revogada": false,
+        "versao_texto": "HTML do sistema de legislação da Assembleia (compilado quando disponível)",
+        "fonte": "https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=3754",
+        "arquivo": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L84942018.html",
+        "baixado_em": "2026-10-13"
+      },
+      "preimagem": "estaduais/SE/_fonte/auditorias/identidade-sufixo-8494A-20261027-001/l-8494-2018-id3754.md.preimagem.bin",
+      "sha256_preimagem": "183924677223e889b0271b3e840a61128e7f097f0ed5147b3443d33e454cf141",
+      "cache": "estaduais/SE/_fonte/leis-ordinarias/2018/l-8494-2018-id3754.html.gz",
+      "sha256_cache": "e83ae459892e7111b2e93582ed2654c59fecd8182824a1f0c81b86530f21ba6d",
+      "sha256_fonte": "5aec733d7d14abc999cfc7bd3a113426aa2c4d257afe0b611785b2eb8195b3ad",
+      "distincao": "Vencimentos do Ministério Público, fonte L84942018.html, epígrafe sem sufixo"
+    }
+  ],
+  "inventario_HEAD": "estaduais/SE/_fonte/auditorias/identidade-sufixo-8494A-20261027-001/inventario-HEAD-SE.json",
+  "sha256_inventario": "7af409ba733085e41ebca4d0f43fc3c4dc6722f0c6fa6ff93c20338a1149545d",
+  "indice_atual": {
+    "UF": "SE",
+    "tipo": "Lei Ordinária",
+    "tipo_indice": "4",
+    "id": "11810",
+    "numero": "8494-A",
+    "ano": 2018,
+    "data": "2018-12-28",
+    "titulo_indice": "Lei Ordinária n° 8.494-A/2018",
+    "ementa": "Dispõe novas normas sobre o Programa de Transferência de Recursos Financeiros Diretamente às Escolas Públicas Estaduais – PROFIN, e dá providências correlatas.",
+    "situacao": "Em vigor",
+    "fonte": "https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=11810&tipo=4&ano=2018",
+    "textos_completos_observados": [
+      "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L8494A2018.html"
+    ],
+    "indice": {
+      "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2018",
+      "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2018",
+      "metodo": "POST",
+      "campos_publicos": [
+        "ctl00$ContentPlaceHolder1$ddl_ItensExibidos"
+      ],
+      "postback": "ctl00$ContentPlaceHolder1$ddl_ItensExibidos",
+      "http": 200,
+      "cache": "estaduais/SE/_fonte/auditorias/indices-html-20261027-004/a2e221045c9bfcf2ea6aeca8b229dd1b332458fd3696dcd41613cff56e5bff4e.html.gz",
+      "sha256_fonte": "a2e221045c9bfcf2ea6aeca8b229dd1b332458fd3696dcd41613cff56e5bff4e",
+      "sha256_cache": "31b52af8957b9bb14e15faa069768dc6825ecde4918eb3a314567956b43fc886",
+      "headers": {
+        "Cache-Control": "public, max-age=120",
+        "Content-Type": "text/html; charset=utf-8",
+        "Expires": "Tue, 27 Oct 2026 21:32:04 GMT",
+        "Last-Modified": "Tue, 27 Oct 2026 21:30:04 GMT",
+        "Vary": "*",
+        "X-Correlation-ID": "a366fcc0-99d5-48e5-ae8e-add7eb9caf2a",
+        "X-Powered-By": "ASP.NET",
+        "Access-Control-Allow-Origin": "*",
+        "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+        "Date": "Tue, 27 Oct 2026 21:30:09 GMT",
+        "Connection": "close",
+        "Content-Length": "678373"
+      },
+      "capturado_em": "2026-10-27T18:30:10.330289-03:00"
+    },
+    "pagina_observada": 1
+  },
+  "decisao": "Corrigir identidade do ato já existente, mantendo distinto da Lei 8494 sem sufixo (id3754). Renomeação não cria norma nova.",
+  "normas_novas": 0,
+  "sem_promocao": true,
+  "compilacao": "Corpo existente preservado integralmente; não substituído por edição atual nem certificado neste reparo como compilação vigente.",
+  "limites": "A prova é da identidade literal e da distinção de atos no HEAD. Sem inferência de data ou revogação; demais metadados e todo o normativo foram mantidos."
+}

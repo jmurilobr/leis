@@ -1,0 +1,171 @@
+---
+titulo: "Lei nº 1.896, de 03 de abril de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1896"
+data: "2013-04-03"
+municipio: "Agudo"
+uf: "RS"
+codigo_ibge: "4300109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.agudo.rs.leg.br/norma/3148"
+fonte_texto: "https://sapl.agudo.rs.leg.br/ta/245/text"
+sha256_fonte: "af446094bc33408d0f627fa60778c5bd4e0c80717354609cc46b0c1131085b98"
+sha256_texto: "3c3ed222d3661d1bdb8964cc04705b6b1ebca7bd08a0608e96406bca372d8665"
+capturado_em_fonte: "2026-10-21T07:09:20.497170-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 1.896, de 03 de abril de 2013
+
+AUTORIZA O PODER EXECUTIVO A CONCEDER AUXILIO À SOCIEDADE ESCOLAR CENTENÁRIO E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O PREFEITO DO MUNICÍPIO DE AGUDO, ESTADO DO RIO GRANDE DO SUL, faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo, com base no Art. 76 da Lei Orgânica Municipal, a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a conceder auxílio no valor de R$ 20.000,00 (vinte mil reais), à Sociedade Escolar Centenário, pessoa jurídica de direito privado, entidade sem fins lucrativos, inscrita no CNPJ sob o n.º 87.068.201/0001-09, mediante convênio, na forma estabelecida pelo artigo 116 da Lei Federal n.º 8.666/93.
+
+
+Art. 2º.
+
+A concessão de auxílio pelo Município ficará condicionada a apresentação do Plano de Trabalho e Aplicação por parte da entidade interessada e sua aprovação antecipada pelo Poder Executivo, assim como a celebração do respectivo convênio, que passa a integrar esta lei.
+
+
+Art. 3º.
+
+A concessão do auxílio está condicionada à abertura de conta corrente específica para depósito e registro do recurso concedido.
+
+
+Art. 4º.
+
+As despesas decorrentes da presente Lei, correrão a conta da seguinte dotação orçamentária especialmente criada:  
+02 – GABINETE DO PREFEITO  
+2.008 – Manutenção do Gabinete do Prefeito  
+4.4.40.42.00.00.00 - Auxílios (54)......................R$ 20.000,00
+
+
+Art. 5º.
+
+Para a liberação do recurso junto ao Tesouro Municipal, a Entidade deverá protocolar Processo de Habilitação contendo:
+
+
+a)
+
+Termo de Convênio devidamente assinado;
+
+
+b)
+
+Plano de Trabalho e Aplicação do recurso;
+
+
+c)
+
+Cópia do Estatuto Social;
+
+
+d)
+
+Cópia do CNPJ atualizado;
+
+
+e)
+
+Ata de eleição e posse da atual Diretoria, devidamente registrada;
+
+
+f)
+
+Declaração de que a Diretoria atua de forma não remunerada;
+
+
+g)
+
+Comprovante de abertura de conta bancária específica.
+
+
+Art. 6º.
+
+A prestação de contas deverá ser apresentada, em até 120 (cento e vinte) dias após a liberação do recurso, através de formulário específico, e será objeto de análise e posterior aprovação pelo Setor competente da Secretaria Municipal da Fazenda.
+
+
+Art. 7º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+GABINETE DO PREFEITO, aos 03 de abril de 2013; 155° da Colonização e 54° da Emancipação.
+
+VALÉRIO VILI TREBIEN  
+Prefeito
+
+Registre-se e publique-se.  
+  
+ALAN PAULO MÜLLER  
+Secretário Mun. da Administração
+
+
+TERMO DE CONVÊNIO
+
+
+CONVÊNIO QUE CELEBRAM O MUNICÍPIO DE AGUDO E A SOCIEDADE ESCOLAR CENTENÁRO, VISANDO A CONJUGAÇÃO DE ESFORÇOS ENTRE OS PARTÍCIPES PARA A IMPLANTAÇÃO DO PROJETO “ALLES AUF DEUTSCH”.
+
+Pelo presente instrumento particular, o Município de Agudo, pessoa jurídica de direito público interno, neste ato representado pelo seu Prefeito Municipal, Sr. VALÉRIO VILI TREBIEN, CPF 587.256.360-49, brasileiro, separado, professor, residente na Rua Muniz Ferraz, n.º 19, em Agudo/RS, doravante denominado simplesmente MUNICÍPIO, com sede à Avenida Tiradentes n.º 1625, inscrito no CNPJ sob o n.º 87.531.976/0001-79, e, de outro lado, a SOCIEDADE ESCOLAR CENTENÁRIO, pessoa jurídica de direito privado, entidade sem fins lucrativos, com sede na Rua Rolf Pachaly, n.º 125, CNPJ n.º 87.068.201/0001-09, neste ato representada por sua Presidente, Sr.ª GLAUCE JOSEANE FORSCH SCHIEFELBEIN, CPF 911.641.500-06, brasileiro, casada, comerciante, residente na Av. Concórdia, n.º 1013, apto 207, em Agudo/RS, a seguir denominada simplesmente CONVENENTE, mediante as seguintes cláusulas e condições:
+
+CLÁUSULA PRIMEIRA
+
+O presente Convênio tem por finalidade o repasse de auxílio financeiro, no valor de R$ 20.000,00 (vinte mil reais), pelo MUNICÍPIO ao CONVENENTE para a implantação do Projeto “Alles Auf Deutsch” – Oficinas de Língua Alemã, que visam estratégias de práticas de ensino, proporcionando maior aprendizado, através de aulas dinâmicas e práticas, atingindo crianças em idade escolar.
+
+**Parágrafo único.** A liberação dos recursos observará o projeto apresentado pelo CONVENENTE, conforme disposto no art. 2.º da Lei Municipal n.º ...........
+
+CLÁUSULA SEGUNDA
+
+O MUNICÍPIO repassará o recurso financeiro para custear as despesas para implantação do projeto, com a aquisição de material didático, equipamentos de multimídia e divulgação, no valor total de R$ 20.000,00 (vinte mil reais), cabendo ao CONVENENTE, a título de contrapartida, destinar vagas voltadas à inserção, ocupação e desenvolvimento das crianças e adolescentes em situação de vulnerabilidade social, matriculadas nas Escolas do Município.
+
+CLÁUSULA TERCEIRA
+
+O CONVENENTE compromete-se a empregar os recursos financeiros recebidos do MUNICÍPIO exclusivamente nas despesas com a execução do Projeto “Alles Auf Deutsch”, constantes no Plano de Trabalho e Aplicação, aprovados pelo MUNICÍPIO antes da concessão.
+
+CLÁUSULA QUARTA
+
+O CONVENENTE sujeitar-se-á à fiscalização do MUNICÍPIO no que se refere ao fiel cumprimento do presente convênio, por servidor designado para esta finalidade.
+
+CLÁUSULA QUINTA
+
+Visando preservar interesse recíproco, quaisquer circunstâncias que possam caracterizar descumprimento dos termos deste convênio deverão ser objeto de notificação escrita, com prazo de 05 (cinco) dias úteis para resposta para qualquer das partes.
+
+**Parágrafo único.** Na hipótese de descumprimento caracterizado nas disposições deste termo, o convênio será rescindido, sem prejuízo das cominações legais pertinentes.
+
+CLÁUSULA SEXTA
+
+O CONVENENTE fará a prestação de contas em até 120(cento e vinte) dias após a liberação do recurso, através de formulário específico, e será objeto de análise e posterior aprovação pelo Setor competente da Secretaria Municipal da Fazenda.
+
+CLÁUSULA SÉTIMA
+
+O prazo do presente convênio é de 04 (quatro ) meses, a contar da assinatura, se nenhuma das partes denunciá-lo com antecedência mínima de 30 (trinta) dias de seu termo.
+
+CLÁUSULA OITAVA
+
+Para dirimir eventuais dúvidas emergentes da aplicação deste convênio as partes elegem, de comum acordo, o Foro da Comarca de Agudo, RS.  
+  
+E, por estarem assim ajustados, assinam o presente instrumento em 03 (três) vias de igual teor e forma, juntamente com as testemunhas abaixo firmadas.
+
+Agudo/RS, ..... de...................... de 2013.
+
+<table><tbody><tr><td>VALÉRIO VILI TREBIEN<br>Prefeito Municipal</td><td>GLAUCE JOSEANE FORSCH  SCHIEFELBEIN<br>Presidente da SEC</td></tr></tbody></table>
+
+TESTEMUNHAS:
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Agudo, 3 de abril de 2013.  
+  
+Valério Vili Trebien  
+Prefeito
+

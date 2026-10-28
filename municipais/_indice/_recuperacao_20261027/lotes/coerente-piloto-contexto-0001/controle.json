@@ -1,0 +1,189 @@
+{
+  "criterio": "Detecta texto e mídia normativa fora dos dispositivos contabilizados do TA.\n\nControle adicional somente leitura. Qualquer conteúdo não contabilizado é\nretido, sem presumir que se trata de navegação ou decidir vigência por aparência.\n",
+  "aprovados": 9,
+  "retidos": 2,
+  "script_sha256": "f44151983d56fd8ff3380b5ad14ad8557215b895048d6405e7563b21b6a3b066",
+  "resultados": [
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2026/leis-complementares-1090-2026-sapl-29908.md",
+      "sha256": "a3bb85ce8ca0b7d25f2ba2d10f39329fa1746ff8498cf7b9b7e0a71503cac57b",
+      "sha256_fonte": "e947b4799c94a01549b3892e4d3290cf85449821cd50942f08c6353e81d377d8",
+      "fonte": "municipais/_fonte/texto-articulado-coerente-sapl-20261027/sapl.portovelho.ro.leg.br/a32cdae985ba0f2b3854529c45495c8b1264ff6895e87ddda46641f700ac1637.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2026/leis-complementares-1089-2026-sapl-29907.md",
+      "sha256": "502700c8cb9ae2a340fce58d039373a0f99fa2f48c7dd5a018aafcd1ab55152d",
+      "sha256_fonte": "60585b7f3a65cca9b3d45d715cf6a04c2f751358ad4cfa83edae333148035da1",
+      "fonte": "municipais/_fonte/texto-articulado-coerente-sapl-20261027/sapl.portovelho.ro.leg.br/fd1297ab899e032cb47fc56ab0dced84b902f83bceaea20803e1056c1f0c94ca.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2026/leis-complementares-1087-2026-sapl-29905.md",
+      "sha256": "7cc5b672b146212d79857da1bf9011f6dc7f1df5d0ab45ab3fc9c3a7ea2ec758",
+      "sha256_fonte": "46feaa8b3e815b69ea372a69ed0adefd3ea229bdd890f15714732482eb04f541",
+      "fonte": "municipais/_fonte/texto-articulado-coerente-sapl-20261027/sapl.portovelho.ro.leg.br/cb77c576f3a0b473f53b420b7d4be68ce08ed881a5ad6e1c5add1b5cbc0fb16e.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2026/leis-complementares-1086-2026-sapl-29904.md",
+      "sha256": "c7bc7260596ee3e51f2baf9a5487d071dd99ebfab75e874b5c13be4945a2444f",
+      "sha256_fonte": "f929d87ff86830ac7258ee46c8d501d3a82c5da2c6d6fa44d317b67472d476d4",
+      "fonte": "municipais/_fonte/texto-articulado-coerente-sapl-20261027/sapl.portovelho.ro.leg.br/40141a2bd63431cf2f455524bee03dfcacbd3893b693c368fe28ecf3b2f92843.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RS/agudo/leis-complementares/2009/leis-complementares-8-2009-sapl-2428.md",
+      "sha256": "b573b409ad789773150d2b27557c0c0bde024666f3b1f0690a8e620f49178143",
+      "sha256_fonte": "b08048db23cb1b71e7bfae7e20420e3f87a1bfc4b6ff2e6fade732a2b8b3c918",
+      "fonte": "municipais/_fonte/texto-articulado-coerente-sapl-20261027/sapl.agudo.rs.leg.br/fdce3f5e418acfdbf43646f8ca7cdfb2434c9cd52f8cabcbe4332ac94070fdba.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 14. ...............................",
+          "posicao": [
+            539,
+            123
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2026/leis-complementares-1085-2026-sapl-29903.md",
+      "sha256": "4c2334fd0c1fda83f51f980c7147fa920b898b419a33261aa973f4bf0777e796",
+      "sha256_fonte": "dd89923826ad15cee62b523842405aabec2b3b853686eeb051570bd7545ac9ec",
+      "fonte": "municipais/_fonte/texto-articulado-coerente-sapl-20261027/sapl.portovelho.ro.leg.br/87a1ae89d1282ae98094edcbed82bff9f2b98d76deeb34c6f019b4f81de678b2.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            530,
+            142
+          ]
+        },
+        {
+          "texto": "O contrato de parceria público-privada, na modalidade de concessão administrativa, poderá prever a não incidência da TRCF, em conformidade com as diretrizes da modelagem econômico-financeira constante do edital de licitação.",
+          "posicao": [
+            532,
+            46
+          ]
+        },
+        {
+          "texto": "§ 2º",
+          "posicao": [
+            534,
+            142
+          ]
+        },
+        {
+          "texto": "A não incidência da TRCF não afasta o exercício das competências reguladoras e fiscalizadoras da ARDPV.",
+          "posicao": [
+            536,
+            46
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22572-2026-sapl-29899.md",
+      "sha256": "0f70efa1cd0d6dbab43fbad68fbd42c96e9fe4d044124bb1cdf6b32a190f8f03",
+      "sha256_fonte": "605d64e2ed2a93b50d29a542d4e9175c956318d2199f53ef5e44faaae5e51792",
+      "fonte": "municipais/_fonte/texto-articulado-coerente-sapl-20261027/sapl.portovelho.ro.leg.br/10e3f10b67140a50831a43808092d88fe3a0fc9c6e302520e918a7e6faef8516.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22562-2026-sapl-29892.md",
+      "sha256": "6909bca3c9a75ed0618beaa5b69b611d8a982e85d0bc72c4f72abf0a615fb14b",
+      "sha256_fonte": "80df5121ac41e1224874957a947f4dbab30e0e91fcc6dd8675e4fbab7c36011d",
+      "fonte": "municipais/_fonte/texto-articulado-coerente-sapl-20261027/sapl.portovelho.ro.leg.br/a0333ded748aa482d6001e320eb4481ef88ceede1dc86411215606f56d0d9894.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22561-2026-sapl-29897.md",
+      "sha256": "be479d5d70ed389a85458ade282ce35ed1de475e9bece006e1788bae4bb94788",
+      "sha256_fonte": "464dfa6a4b564b8fc06388392af030a5d55fc8b60f960611fcb5cfb20af045d1",
+      "fonte": "municipais/_fonte/texto-articulado-coerente-sapl-20261027/sapl.portovelho.ro.leg.br/f03bbc08b33ee8964404b4c514b0ab4cccb37631e99d6d39f9e6ecbb28366e2c.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22560-2026-sapl-29896.md",
+      "sha256": "364b329b1ff47077d553ad0092a2dd62d59aeee20199b5252c8a29e577ffe1a5",
+      "sha256_fonte": "d4d9ba9c9c243d8ee9a010d0221f2b554700efa9d6e0044d273c047232aef8f4",
+      "fonte": "municipais/_fonte/texto-articulado-coerente-sapl-20261027/sapl.portovelho.ro.leg.br/c996186c0ca0599724151f0b6700fe67456c236590b26f067d7800f572a27674.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RO/porto-velho/decretos/2026/decretos-22559-2026-sapl-29895.md",
+      "sha256": "46c17f98f23414f4e7385850d959b5cb0549e680f3f637377645a7ecf78edb73",
+      "sha256_fonte": "7e9a07eb904276abcc204b7538fd4e978d5bf154ab87e333710125992efffb11",
+      "fonte": "municipais/_fonte/texto-articulado-coerente-sapl-20261027/sapl.portovelho.ro.leg.br/d98b86d4528b40e0a020c10321bcb0aec0b7af3ead014aadf8e7f9407e2edb30.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    }
+  ],
+  "limite": "Texto fora do bloco pode ser histórico, alterado ou duplicado; retenção é preventiva, sem afirmar omissão antes de revisão. Os controles de seleção de vigência e de tokens por dispositivo continuam necessários."
+}

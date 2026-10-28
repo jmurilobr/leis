@@ -1,0 +1,186 @@
+---
+titulo: "04 - Lei Ordinária nº 575, de 10 de dezembro de 2003"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "575"
+data: "2003-12-10"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/375"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/356/text"
+sha256_fonte: "24b4688d839461b535f326534313d0efacb3910225a39903e2ddbb75c989bceb"
+sha256_texto: "3c7894ab4aedb08cb603d19e4a0aefc56b3340db7cd718151c6627dfc34c71f9"
+capturado_em_fonte: "2026-10-28T07:00:25.192702-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 575, de 10 de dezembro de 2003
+
+Dispõe sobre o orçamento anual do município de Corbélia, para o exercício financeiro de 2004, e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou e, Eu Prefeito Municipal sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Esta Lei estima a receita e fixa a despesa do município de Corbélia, para o exercício financeiro de 2004.
+
+
+Art. 2º.
+
+Fica aprovado o Orçamento-Programa do Município de Corbélia, para o exercício financeiro de 2004, com a estimativa de receita e fixação de despesa em R$ 12.498.000,00 (doze milhões, quatrocentos e noventa e oito mil reais), tendo como base de cálculo a projeção de inflação prevista de 9% (nove por cento), no exercício vigente.
+
+
+Parágrafo único
+
+O Orçamento Previdenciário da Caixa de Previdência dos Servidores Públicos Civis do Município de Corbélia-CASSEMC, deverá obedecer aos critérios e parâmetros estabelecidos pela Portaria n° 916 de 15/07/2003, do Ministério de Estado da Previdência Social.
+
+
+Art. 3º.
+
+A receita será realizada em conformidade com a legislação específica em vigor, de acordo com as seguintes estimativas:
+
+
+I –
+
+Administração Direta:
+
+
+**RECEITAS CORRENTES 11.535.600,00**
+
+Receita Tributária 987.000,00
+
+Receita de Contribuições 350.000,00
+
+Receita Patrimonial 132.100,00
+
+Receita de Serviços 32.400,00
+
+Transferências Correntes 9.650.400,00
+
+Outras Receitas Correntes 383.700,00
+
+**DEDUÇÕES DA RECEITA CORRENTE – FUNDEF 1.076.000,00**
+
+Transferências Correntes 1.076.000,00
+
+**RECEITAS DE CAPITAL 1.040.400,00**
+
+Operações de Crédito 600.000,00
+
+Alienação de Bens 140.000,00
+
+Transferências de Capital 290.000,00
+
+Outras Receitas de Capital 10.400,00
+
+
+II –
+
+Administração Indireta:
+
+
+**RECEITA DE AUTARQUIAS 998.000,00**
+
+Caixa de Previdência dos Servidores Públicos
+
+Civis do Município de Corbélia 998.000,00
+
+
+Art. 4º.
+
+A despesa está fixada com a seguinte distribuição entre os órgãos:
+
+
+I –
+
+Administração Direta
+
+
+**DESPESA DA ADMINISTRAÇÃO DIRETA 11.500.000,00**
+
+LEGISLATIVO MUNICIPAL 500.000,00
+
+GOVERNO MUNICIPAL 546.600,00
+
+SECRETARIA DA FAZENDA E COORDENAÇÃO GERAL 1.529.600,00
+
+SECRETARIA DE DESENVOLVIMENTO ECONÔMICO 421.000,00
+
+SECRETARIA DE VIAÇÃO, URBANISMO E OBRAS PÚBLICAS 2.099.500,00
+
+SECRETARIA DE EDUCAÇÃO, CULTURA E ESPORTE 4.426.700,00
+
+SECRETARIA DE SAÚDE 1.798.000,00
+
+RESERVA DE CONTINGÊNCIA 178.600,00
+
+
+II –
+
+Administração Indireta:
+
+
+**DESPESA DA ADMINISTRAÇÃO INDIRETA 998.000,00**
+
+Caixa de Previdência dos Servidores Públicos
+
+Civis do Município de Corbélia 998.000,00
+
+
+Art. 5º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a atualizar os valores do orçamento geral do município durante o exercício financeiro de 2004, trimestralmente, até o limite da variação do (IPCFIPE) de cada período.
+
+
+Art. 6º.
+
+Fica o chefe do Poder Executivo Municipal autorizado, nos termos da Constituição Federal e Lei de Diretrizes Orçamentárias a:
+
+
+I –
+
+Realizar Operações de Crédito por antecipação da receita, nos termos da legislação em vigor;
+
+
+II –
+
+Realizar Operações de Crédito até o limite estabelecido pela legislação em vigor;
+
+
+III –
+
+Abrir créditos adicionais suplementares até o limite de 05% (cinco por cento) do orçamento das despesas, nos termos da legislação vigente;
+
+
+IV –
+
+Contingenciar parte das dotações, quando a evolução da receita comprometer os resultados previstos.
+
+
+Art. 7º.
+
+Esta Lei entrará em vigor em 1º de Janeiro de 2004, revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de CORBÉLIA
+
+Em 10 (dez) de dezembro de 2003.
+
+Clóvis João Bombarda
+
+Prefeito Municipal
+
+Não substitui o texto publicado no Diário Oficial.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/375/ta
+

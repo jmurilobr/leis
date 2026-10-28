@@ -1,0 +1,24 @@
+{
+  "preparado_em": "2026-10-27T19:19:35.098814-03:00",
+  "manifesto": "scripts/estados/manifestos/se16-metadados-proposta-privada-20261027-001.json",
+  "sha256_manifesto": "34b1cd17257df5cb5c5a8a73b00c41fa5e4908452b70caf63750948db3fd346e",
+  "replay": "estaduais/SE/_fonte/auditorias/metadados16-privado-20261027-001/replay-congelado.json",
+  "sha256_replay": "e9557925c41bfdd3f7156509da89fd8ef7bbaf37ba354e6bafb8cd064f3e503d",
+  "total_reparos": 16,
+  "normas_novas": 0,
+  "replay_falhas": 0,
+  "testes": 3,
+  "IDs_observados_no_HTML": 8,
+  "nomes_por_hash_da_fonte": 8,
+  "campos_alterados_exclusivamente": [
+    "fonte",
+    "ementa",
+    "situacao",
+    "revogada"
+  ],
+  "corpo_inclusive_H1_byte_a_byte_preservado": true,
+  "ementas": "16 blocos literais inequívocos da captura original; texto f^’ da Lei 8886 e demais grafias foram preservados, sem emenda por inferência.",
+  "historico": "Preimagens por OID/SHA, nomes antigos e fontes integrais preservados; nenhuma aplicação de rename ou alteração canônica.",
+  "comando": "PYTHONPATH=\"$PWD/scripts/bin/qa-20261027/python\" /Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/estados/snapshots/metadados_spl_csv16_replay_20261027_001/reexecutar_metadata_spl_csv16.py --manifesto scripts/estados/manifestos/se16-metadados-proposta-privada-20261027-001.json --saida SAIDA_NOVA.json",
+  "reparo8494A_separado": true
+}

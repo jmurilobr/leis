@@ -1,0 +1,268 @@
+---
+titulo: "Lei nº 342, de 18 de março de 1966"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "342"
+data: "1966-03-18"
+municipio: "Bicas"
+uf: "MG"
+codigo_ibge: "3106903"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bicas.mg.leg.br/norma/1830"
+fonte_texto: "https://sapl.bicas.mg.leg.br/ta/434/text"
+sha256_fonte: "7eed13ffa0a7e50c051c365e43942e5c1afd6e866d1f0e097c19118cf6bcd48d"
+sha256_texto: "ab3a4d9032c903056a2ec44847e508a03a1bd8c1a3a338816fdc056fa19c960b"
+capturado_em_fonte: "2026-10-27T17:28:07.133907-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 342, de 18 de março de 1966
+
+Cria o Departamento Municipal de Água e Esgoto.
+
+
+A Câmara dos vereadores aprovou e eu, Prefeito Municipal, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica criado com personalidade autárquica municipal, o Departamento Municipal de Água e Esgoto (DAE), com personalidade jurídica própria, sede e foro na cidade de Bicas, dispondo de autonomia econômico-financeira e administrativa dentro dos limites traçados na presente lei:
+
+
+Art. 2º.
+
+O D.A.E. será administrado por um diretor geral e constituído dos seguintes órgãos:  
+  
+1- Órgãos da administração:  
+a- Diretor geral;  
+b- Seções;  
+c- Serviço Jurídico.  
+  
+2- Órgãos de natureza consultiva e opinativa:  
+a- Conselho Municipal de Água e Esgoto.
+
+
+Art. 3º.
+
+Os órgãos da administração referidos no número 1 do artigo anterior, diretamente subordinados ao diretor geral, compõem-se do seguinte:  
+  
+1- Diretoria Geral:  
+a- Planejamento.  
+  
+2- Seção de águas:  
+a- Adução;  
+b- Tratamento;  
+c- Distribuição.  
+  
+3- Seção de instalações prediais:  
+a- Fiscalização e instalações prediais;  
+b- Hidrômetros;  
+c- Consumo e tarifas.  
+  
+4- Seção de esgotos e sanitários:  
+a- Redes sanitárias e pluviais;  
+b- Emissários.  
+  
+5 - Seção de material:  
+a- Compras;  
+b- Almoxarifado.  
+  
+6- Seção de serviços auxiliares:  
+a- Oficinas e transporte.  
+  
+7- Seção de contabilidade e Orçamento:  
+a- Financeira, Patrimonial, Orçamentária e Custo;  
+b- Tesouraria e Contas.  
+  
+8- Seção do pessoal.  
+  
+9- Serviço jurídico.
+
+
+Parágrafo único
+
+Os órgãos da administração referidos neste artigo serão instalados paulatinamente, de acordo com a evolução do D.A.E. e à critério do direto geral.
+
+
+Art. 4º.
+
+Ao Conselho Municipal caberá a fixação das tarifas e outras atribuições a serem determinadas no regulamento a que se refere o art. 17 e será constituído de 8 (oito) elementos assim discriminados:  
+  
+a- Prefeito Municipal e um seu representante que será o Presidente do Conselho Municipal;  
+b- O Presidente da Câmara Municipal ou outro vereador seu representante;  
+c- O diretor do D.A.E;  
+d- Cinco (5) elementos nomeados pelo Prefeito,escolhidos entre os contribuintes de idoneidade moral e capacidade administrativa reconhecidas e representando as diversas classes sociais.
+
+
+Art. 5º.
+
+A o diretor do D.A.E. será nomeado em comissão pelo Prefeito Municipal.
+
+
+Art. 6º.
+
+O D.A.E. exercerá sua ação em todo o município de Bicas, competindo-lhe com exclusividade:
+
+
+a)
+
+estudar, projetar e executar, diretamente ou mediante contrato com organizações especializadas em engenharias sanitária , as obras relativas à construção ou remodelação dos sistemas públicos de abastecimento de água potável e de esgotos sanitários que não forem objeto de convênio entre a Prefeitura e os órgãos federais ou estaduais específicos.
+
+
+b)
+
+atuar como órgão coordenador e fiscalizador da execução dos convênios firmados entre o município e os órgãos federais ou estaduais para estudos, projetos e obras de construção, ampliação ou remodelação dos serviços públicos de abastecimento de água e esgoto sanitários.
+
+
+c)
+
+operar, manter, conservar e explorar diretamente os serviços de água potável e esgotos sanitários.
+
+
+d)
+
+lançar, fiscalizar e arrecadar as tarifas dos serviços de água e esgoto, e as taxas de contribuição que incidirem sobre os terrenos beneficiados com tais serviços.
+
+
+e)
+
+exercer quaisquer outras atividades relacionadas com os sistemas públicos de água e esgoto compatíveis com leis gerais e especiais.
+
+
+Parágrafo único
+
+Poderá a Prefeitura, entretanto, contratar a administração do D.A.E. com uma Organização Oficial especializada em engenharia sanitária.
+
+
+Art. 7º.
+
+O patrimônio inicial do D.A.E. será constituído de todos os bens móveis, imóveis, instalações, títulos e materiais atualmente destinados, empregados e utilizados nos sistemas públicos de água e esgoto sanitários.
+
+
+Art. 8º.
+
+A Receita do D.A.E. provirá dos seguintes recursos:
+
+
+a)
+
+do produto de quaisquer tributos e remunerações decorrentes diretamente dos serviços de água e esgotos, tais como: tarifas e taxas de água e esgoto, instalação, reparo, aferição, aluguel de água e esgoto, prolongamento de redes por conta de terceiros, multas etc.
+
+
+b)
+
+das taxas de contribuição que incidirem sobre os terrenos beneficiados com os serviços de água e esgoto.
+
+
+c)
+
+dos auxílios, subvenções e créditos especiais ou adicionais que lhe forem concedidos, inclusive para obras novas, pelos governos federal, estadual e municipal, ou por organismos de cooperação internacional.
+
+
+d)
+
+do produto dos juros sobre depósitos bancários e outras rendas patrimoniais.
+
+
+e)
+
+do produto da venda de materiais superviseis e da alienação de bens patrimoniais que se tornem desnecessários aos seus serviços.
+
+
+f)
+
+do produto de cauções ou depósitos que se reverterem aos seus cofres por inadimplemento contratual.
+
+
+g)
+
+de doações, legados e outras rendas que, por sua natureza ou finalidade, lhe devem caber.
+
+
+Parágrafo único
+
+Mediante prévia autorização do Prefeito Municipal poderá o D.A.E. realizar operações de crédito para antecipação da receita ou para obtenção de recursos necessários è execução das obras de ampliação ou remodelação dos sistemas de água e esgoto.
+
+
+Art. 9º.
+
+As normas técnicas que regularão os serviços de água e esgoto serão estabelecidas no regulamento a que se refere o art. 17.
+
+
+Art. 10.
+
+Serão obrigatórios, nos termos do art. 36 do Decreto Federal nº 49.794, de 21 de janeiro de 1961, os serviços de água e esgoto nos prédios considerados habitáveis situados nos logradouros dotados das respectivas redes.
+
+
+Art. 11.
+
+O proprietário de terrenos baldios, loteados ou não, situados em logradouros dotados de redes públicas de distribuição de água ou de esgotos sanitários desprovidos das respectivas ligações, ficarão sujeitos ao pagamento de uma taxa de contribuição na forma a ser fixada no regulamento.
+
+
+Art. 12.
+
+É vedado ao D.A.E conceder isenção ou redução de taxas e tarifas dos serviços de água e esgotos.
+
+
+Art. 13.
+
+O D.A.E. terá quadro próprio de empregados aos quais ficarão sujeitos ao regime do emprego na Consolidação das Leis do Trabalho.
+
+
+§ 1º
+
+Os atuais funcionários do serviço de água e esgoto da Prefeitura que foram transferidos para o D.A.E. continuarão sendo regidos pelo Estatuto do Funcionário Municipal e pela legislação municipal complementar.
+
+
+§ 2º
+
+Compete à administração do D.AE. admitir,movimentar, fixar salários e dispensar SUS empregados, de acordo com as normas a serem fixadas em regimento interno.
+
+
+Art. 14.
+
+Aplicam-se ao D.A.E., naquilo que disser respeito aos seus bens, rendas e serviços, todas as prerrogativas isenções, favores fiscais e demais vantagens que os serviços municipais gozem e que lhes caibam por lei.
+
+
+Art. 15.
+
+O D.A.E submeterá anualmente à aprovação do Prefeito Municipal o relatório de suas atividades e a prestação de contas do exercício.
+
+
+Art. 16.
+
+Em caso de extinção do D.A.E. seus bens patrimoniais reverterão para a Prefeitura Municipal de Bicas.
+
+
+Art. 17.
+
+O Prefeito Municipal, no prazo de cento e vinte (120) dias contados da data de publicação deste lei, expedirá o regulamento necessário ao D.A.E., o qual fica fazendo parte integrante desta lei.
+
+
+Art. 18.
+
+Os atuais funcionários e operários do serviço de água e esgoto poderão ser transferidos para o D.A.E., a critério da administração municipal, ressalvados todos os seus direitos e obedecido disposto no artigo 13 e seus parágrafos.
+
+
+Art. 19.
+
+A partir de 1967 e enquanto vigorar esta lei, as tarifas e taxas de água e esgoto serão arrecadadas pelo D.AE.
+
+
+Art. 20.
+
+Fica o Prefeito Municipal autorizado a abrir os necessários créditos especiais ou suplementares para manutenção do D.A.E. durante o corrente exercício.
+
+
+Art. 21.
+
+Revogadas as disposições em contrário, esta lei entrará em vigor na data de sua publicação.
+
+
+Bicas, 18 de março de 1966.  
+  
+Prefeito Municipal
+

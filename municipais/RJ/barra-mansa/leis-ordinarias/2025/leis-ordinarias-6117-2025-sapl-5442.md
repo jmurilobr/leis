@@ -1,0 +1,338 @@
+---
+titulo: "Lei Ordinária nº 6.117, de 14 de novembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "6117"
+data: "2025-11-14"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/5442"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/2342/text"
+sha256_fonte: "706869c7e907f4d5d26c194378209206b72bddd4040c16d7f45bb87fa272bb6e"
+sha256_texto: "b88f1a48b3a1ce8f494a67c9afbaa6436b4b4771f1176472cbf1bb67398b2012"
+capturado_em_fonte: "2026-10-27T17:17:09.063121-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 6.117, de 14 de novembro de 2025
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI N° 6117 DE 14 DE NOVEMBRO DE 2025.
+
+
+Dispõe sobre a execução indireta de serviços da administração pública municipal direta, autárquica e fundacional e das empresas públicas e das sociedades de economia mista do Município de Barra Mansa e dá outras providências.
+
+
+Art. 1º.
+
+Esta lei dispõe sobre a execução indireta, mediante contratação, de serviços da administração pública municipal direta, autárquica e fundacional e das empresas públicas e das sociedades de economia mista do Município de Barra Mansa.
+
+
+Art. 2º.
+
+Ato do Poder Executivo estabelecerá os serviços que serão preferencialmente objeto de execução indireta mediante contratação.
+
+
+Art. 3º.
+
+Não serão objeto de execução indireta na administração pública municipal direta, autárquica e fundacional, os serviços:
+
+
+I –
+
+Que envolvam a tomada de decisão ou posicionamento institucional nas áreas de planejamento, coordenação, supervisão e controle;
+
+
+II –
+
+Que sejam considerados estratégicos para o órgão ou a entidade, cuja terceirização possa colocar em risco o controle de processos e de conhecimentos e tecnologias;
+
+
+III –
+
+Que estejam relacionados ao poder de polícia, de regulação, de outorga de serviços públicos e de aplicação de sanção; e
+
+
+IV –
+
+Que sejam inerentes às categorias funcionais abrangidas pelo plano de cargos do órgão ou da entidade, exceto disposição legal em contrário ou quando se tratar de cargo extinto, total ou parcialmente, no âmbito do quadro geral de pessoal.
+
+
+§ 1º
+
+Os serviços auxiliares, instrumentais ou acessórios de que tratam os incisos do caput poderão ser executados de forma indireta, vedada a transferência de responsabilidade para a realização de atos administrativos ou a tomada de decisão para o contratado.
+
+
+§ 2º
+
+Serviços e unidades de saúde com financiamento ou cofinanciamento de outros entes federativos poderão ser objeto de execução indireta.
+
+
+Art. 4º.
+
+Nas empresas públicas e nas sociedades de economia mista do Município, não serão objeto de execução indireta os serviços que demandem a utilização, pela contratada, de profissionais com atribuições inerentes às dos cargos integrantes de seus Planos de Cargos e Salários, exceto se contrariar os princípios administrativos da eficiência, da economicidade e da razoabilidade, tais como na ocorrência de, ao menos, uma das seguintes hipóteses:
+
+
+I –
+
+Caráter temporário do serviço;
+
+
+II –
+
+Incremento temporário do volume de serviços;
+
+
+III –
+
+Atualização de tecnologia ou especialização de serviço, quando for mais atual e segura, que reduzem o custo ou for menos prejudicial ao meio ambiente;
+
+
+IV –
+
+Impossibilidade de competir no mercado concorrencial em que ou se insere.
+
+
+§ 1º
+
+As situações de exceção a que se referem os incisos I e II do caput poderão estar relacionadas às especificidades da localidade ou à necessidade de maior abrangência territorial.
+
+
+§ 2º
+
+Os empregados da contratada atuarão somente no desenvolvimento dos serviços contratados.
+
+
+§ 3º
+
+Não se aplica a vedação do caput quando se tratar de cargo extinto ou em processo de extinção.
+
+
+§ 4º
+
+O Conselho de Administração ou órgão equivalente das empresas públicas e das sociedades de economia mista do Município estabelecerá o conjunto de atividades que serão passíveis de execução indireta, mediante contratação de serviços.
+
+
+Art. 5º.
+
+É vedada a contratação, por órgão ou entidade de que trata o art. 1°, de pessoa jurídica na qual haja administrador ou sócio com poder de direção que tenham relação de parentesco com:
+
+
+I –
+
+Detentor de cargo em comissão ou função de confiança que atue na área responsável pela demanda ou pela contratação; ou
+
+
+II –
+
+Autoridade hierarquicamente superior no âmbito de cada órgão ou entidade.
+
+
+Art. 6º.
+
+Para a execução indireta de serviços, no âmbito dos órgãos e das entidades de que trata o art. 1°, as contratações deverão ser precedidas de planejamento e o objeto será definido de forma precisa no instrumento convocatório, no projeto básico ou no termo de referência e no contrato como exclusivamente de prestação de serviços.
+
+
+Parágrafo único
+
+Os instrumentos convocatórios e os contratos de que trata o caput poderão prever padrões de aceitabilidade e nível de desempenho para aferição da qualidade esperada na prestação dos serviços, com previsão de adequação de pagamento em decorrência do resultado.
+
+
+Art. 7º.
+
+Os contratos de que trata esta lei conterão cláusulas que:
+
+
+I –
+
+Exijam da contratada declaração de responsabilidade exclusiva sobre a quitação dos encargos trabalhistas e sociais decorrentes do contrato;
+
+
+II –
+
+Exijam a indicação de preposto da contratada para representá-la na execução do contrato;
+
+
+III –
+
+Estabeleçam que o pagamento mensal pela contratante ocorrerá após a comprovação do pagamento das obrigações trabalhistas, previdenciárias e para com o Fundo de Garantia do Tempo de Serviço - FGTS pela contratada relativas aos empregados que tenham participado da execução dos serviços contratados;
+
+
+IV –
+
+Estabeleçam a possibilidade de rescisão do contrato por ato unilateral e escrito do contratante e a aplicação das penalidades cabíveis, na hipótese de não pagamento dos salários e das verbas trabalhistas, e pelo não recolhimento das contribuições sociais, previdenciárias e para com o FGTS;
+
+
+V –
+
+Prevejam, com vistas à garantia do cumprimento das obrigações trabalhistas nas contratações de serviços continuados com dedicação exclusiva de mão de obra:
+
+
+a)
+
+Que os valores destinados ao pagamento de férias, décimo terceiro salário, ausências legais e verbas rescisórias dos empregados da contratada que participarem da execução dos serviços contratados serão efetuados pela contratante à contratada somente na ocorrência do fato gerador; ou
+
+
+b)
+
+Que os valores destinados ao pagamento das férias, décimo terceiro salário e verbas rescisórias dos empregados da contratada que participarem da execução dos serviços contratados serão depositados pela contratante em conta vinculada específica, aberta em nome da contratada, e com movimentação autorizada pela contratante.
+
+
+VI –
+
+Exijam a prestação de garantia, inclusive para pagamento de obrigações de natureza trabalhista, previdenciária e para com o FGTS, em valor correspondente a cinco por cento do valor do contrato, limitada ao equivalente a dois meses do custo da folha de pagamento dos empregados da contratada que venham a participar da execução dos serviços contratados, com prazo de validade de até noventa dias, contado da data de encerramento do contrato;
+
+
+VII –
+
+Prevejam a verificação pela contratante, do cumprimento das obrigações trabalhistas, previdenciárias e para com o FGTS, em relação aos empregados da contratada que participarem da execução dos serviços contratados, em especial, quanto:
+
+
+a)
+
+Ao pagamento de salários, adicionais, horas extras, repouso semanal remunerado e décimo terceiro salário;
+
+
+b)
+
+A concessão de férias remuneradas e ao pagamento do respectivo adicional;
+
+
+c)
+
+À concessão do auxílio-transporte, auxílio-alimentação e auxíliosaúde, quando for devido;
+
+
+d)
+
+Aos depósitos do FGTS; e
+
+
+e)
+
+Ao pagamento de obrigações trabalhistas e previdenciárias dos empregados dispensados até a data da extinção do contrato.
+
+
+Parágrafo único
+
+Na hipótese de não ser apresentada a documentação comprobatória do cumprimento das obrigações trabalhistas, previdenciárias e para com o FGTS de que trata o inciso VII do caput deste artigo, a contratante comunicará o fato à contratada e reterá o pagamento da fatura mensal, em valor proporcional ao inadimplemento, até que a situação esteja regularizada.
+
+
+Art. 8º.
+
+Os contratos de prestação de serviços continuados que envolvam disponibilização de pessoal da contratada de forma prolongada ou contínua para consecução do objeto contratual exigirão:
+
+
+I –
+
+Apresentação pela contratada do quantitativo de empregados vinculados à execução do objeto do contrato de prestação de serviços, a lista de identificação destes empregados e respectivos salários;
+
+
+II –
+
+О сumprimento das obrigações estabelecidas em acordo, convenção, dissídio coletivo de trabalho ou equivalentes das categorias abrangidas pelo contrato; e
+
+
+III –
+
+A relação de benefícios a serem concedidos pela contratada a seus empregados, que conterá, no mínimo, o auxílio-transporte, quando esse for concedido pela contratante.
+
+
+Parágrafo único
+
+A administração pública não se vincula às disposições estabelecidas em acordos, dissídios ou convenções coletivas de trabalho que tratem de:
+
+
+I –
+
+Pagamento de participação dos trabalhadores nos lucros ou nos resultados da empresa contratada;
+
+
+II –
+
+Matéria não trabalhista, ou que estabeleçam direitos não previstos em lei, tais como valores ou índices obrigatórios de encargos sociais ou previdenciários; e
+
+
+III –
+
+Preços para os insumos relacionados ao exercício da atividade.
+
+
+Art. 9º.
+
+A gestão e a fiscalização da execução dos contratos compreendem o conjunto de ações que objetivam:
+
+
+I –
+
+Aferir o cumprimento dos resultados estabelecidos pela contratada;
+
+
+II –
+
+Verificar a regularidade das obrigações previdenciárias, fiscais e trabalhistas; e
+
+
+III –
+
+Prestar apoio à instrução processual e ao encaminhamento da documentação pertinente para a formalização dos procedimentos relativos a repactuação, reajuste, alteração, reequilíbrio, prorrogação, pagamento, aplicação de sanções, extinção dos contratos, entre outras, com vistas a assegurar o cumprimento das cláusulas do contrato a solução de problemas relacionados ao objeto.
+
+
+Art. 10.
+
+A gestão e a fiscalização de que trata o art. 9° competem ao gestor da execução dos contratos, auxiliado pela fiscalização técnica, administrativa, setorial e pelo público usuário e, se necessário, poderá ter o auxílio de terceiro ou de empresa especializada, desde que justificada a necessidade de assistência especializada.
+
+
+Art. 11.
+
+Será admitida a repactuação de preços dos serviços continuados sob regime de mão de obra exclusiva, com vistas à adequação ao preço de mercado, desde que:
+
+
+I –
+
+Seja observado o interregno mínimo de um ano das datas dos orçamentos para os quais a proposta se referir; e
+
+
+II –
+
+Seja demonstrada de forma analítica a variação dos componentes dos custos do contrato, devidamente justificada.
+
+
+Art. 12.
+
+Os contratos de que trata esta lei conterão cláusulas que garantam o reajuste e o reequilíbrio, na forma da lei.
+
+
+Art. 13.
+
+As empresas públicas e as sociedades de economia mista controladas do Município adotarão os mesmos parâmetros das sociedades privadas naquilo que não contrariar seu regime jurídico e o disposto nesta lei.
+
+
+Art. 14.
+
+O Executivo Municipal expedirá normas complementares ao cumprimento do disposto nesta Lei.
+
+
+Art. 15.
+
+Ficam revogadas as disposições contrárias.
+
+
+Art. 16.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 14 DE NOVEMBRO DE 2025.
+
+
+LUIZ ANTÔNIO FURLANI FILHO  
+PREFEITO
+

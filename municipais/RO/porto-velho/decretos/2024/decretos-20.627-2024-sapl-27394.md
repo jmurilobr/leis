@@ -1,0 +1,75 @@
+---
+titulo: "Decreto-SEMPOG nº 20.627, de 26 de novembro de 2024"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "20.627"
+data: "2024-11-26"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/27394"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/5313/text"
+sha256_fonte: "cc8936c378cb1c829d9e4689512ac393667f2ade15967d3e1df114d1882b6a1a"
+sha256_texto: "2c0ea35698f74810d10a93837cc7a4ba0385778a0abb8587b2347f5362847ffa"
+capturado_em_fonte: "2026-10-21T03:44:07.355315-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 20.627, de 26 de novembro de 2024
+
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Transposição de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei n.º 3.130, de 20 de dezembro de 2023, a fim de proceder às adequações orçamentárias no exercício 2024,
+
+Considerando o Ofício n.° 84 /DA/GAB/SEMA/2024, de 13 de novembro de 2024, pelo qual a Secretaria Municipal de Meio Ambiente e Desenvolvimento Sustentável - SEMA, solicita a movimentação de recursos para cobertura de despesas com o processo nº. 00600-00051651/2024, tendo como objeto é atualização de legislação e as ações municipais prevista na lei municipal nº. 2273/2015,
+
+**D E C R E T A**
+
+
+Art. 1º.
+
+Fica alterado o Orçamento Anual do Município de Porto Velho por meio de transposição de recursos orçamentários no valor de R$ 903.000,00 (novecentos e três mil reais).
+
+
+Art. 2º.
+
+A transposição decorre da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas dentro da mesma unidade orçamentária, conforme disposto no inciso XVII do Artigo o 6º da Lei nº 3.094, de 25 de setembro de 2023 – Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+
+<table><colgroup><col><col><col><col><col><col><col></colgroup><tbody><tr><td colspan="7"><strong>16.00 - SECRETARIA MUNICIPAL DE MEIO AMBIENTE E DESENVOLVIMENTO</strong><br><strong>SUSTENTÁVEL - SEMA</strong></td></tr><tr><td colspan="7"><strong>16.31 - FUNDO MUNICIPAL DE MEIO AMBIENTE - FMMA </strong></td></tr><tr><td><strong>PROJETO/ATIVIDADE</strong></td><td><strong>ESPECIFICAÇÃO</strong></td><td><strong>ESPERA </strong></td><td><strong>NATUREZA DA DESPESA </strong></td><td><strong>FONTE DE RECURSOS </strong></td><td><strong>TRANSPÕE R$ </strong></td><td><strong>REALOCA R$</strong></td></tr><tr><td>16.31.18.541.153.2.831 </td><td>Levantamento,<br>planejamento,<br>identificação e<br>monitoramento<br>das áreas de<br>interesse<br>ambiental no<br>ambiente do<br>município de<br>Porto Velho</td><td>FIS</td><td>3.3.50.43</td><td>2.759.0000.0000</td><td>203.000,00</td><td>-</td></tr><tr><td>16.31.18.542.350.2.915</td><td>Elaboração e<br>implementação<br>dos planos de<br>manejo das Uc's /<br>gestão verde</td><td>FIS</td><td>4.4.90.51</td><td>1.759.0000.0000</td><td>700.000,00</td><td>-</td></tr><tr><td>16.31.18.542.350.2.827</td><td>Implantação e<br>implementação<br>do Plano<br>Municipal de<br>Educação<br>Ambiental</td><td>FIS</td><td rowspan="3">3.3.50.43</td><td>2.759.0000.0000</td><td>-</td><td>90.000,00</td></tr><tr><td rowspan="2">16.31.18.542.352.2.917</td><td rowspan="2">Promover o<br>acompanhamento<br>da qualidade do<br>meio ambiente /<br>selo verde</td><td rowspan="2">FIS</td><td>2.759.0000.0000</td><td>-</td><td>113.000,00</td></tr><tr><td>1.759.0000.0000</td><td>-</td><td>700.000,00</td></tr><tr><td colspan="5"><strong>SUBTOTAL</strong></td><td><strong>903.000,00</strong></td><td><strong>903.000,00</strong></td></tr><tr><td colspan="5"><strong>TOTAL</strong></td><td><strong>903.000,00</strong></td><td><strong>903.000,00</strong></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 19.668, de 20 de dezembro de 2023 e o Detalhamento da Despesa, estabelecido pelo Decreto n.º 19.669, de 20 de dezembro de 2023.
+
+
+Art. 4º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Art. 5º.
+
+Revogam-se as disposições em contrário.
+
+
+**HILDON DE LIMA CHAVES**
+
+Prefeito do Município
+
+**SERGIO LUIZ PACÍFICO**  
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+**JOÃO ALTAIR CAETANO DOS SANTOS**  
+Secretário Municipal de Fazenda
+
+**SALATIEL LEMOS VALVERDE**
+
+Procurador Geral Adjunto
+

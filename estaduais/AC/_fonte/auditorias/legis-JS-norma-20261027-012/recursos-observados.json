@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://legis.ac.gov.br/detalhar.js",
+    "iniciado_em": "2026-10-27T21:18:07.938159-03:00",
+    "retorno_curl": 0,
+    "status_final": "200 https://legis.ac.gov.br/detalhar.js",
+    "erro": "",
+    "cache": "estaduais/AC/_fonte/auditorias/legis-JS-norma-20261027-012/089e49439474d44e6f488e7e86a8610dd0ea2cb264d987d537ebf50b0a5810f7.js.gz",
+    "sha256_fonte": "089e49439474d44e6f488e7e86a8610dd0ea2cb264d987d537ebf50b0a5810f7",
+    "sha256_cache": "d3ce070dcd53b87c0daa93a9c03dd037f2cab86ca49069bf7cc670ea9760812b",
+    "headers": {
+      "Date": "Wed, 28 Oct 2026 00:18:08 GMT",
+      "Server": "Apache/2.4.41 (Ubuntu)",
+      "Last-Modified": "Tue, 22 Oct 2024 18:36:33 GMT",
+      "ETag": "\"5939-625150c73e434\"",
+      "Accept-Ranges": "bytes",
+      "Content-Length": "22841",
+      "Vary": "Accept-Encoding",
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Headers": "origin, x-requested-with, content-type",
+      "Access-Control-Allow-Methods": "PUT, GET, POST, DELETE, OPTIONS",
+      "Cache-Control": "no-cache, no-store, must-revalidate",
+      "Pragma": "no-cache",
+      "Expires": "0",
+      "Content-Type": "application/javascript"
+    },
+    "headers_sessao_omitidos": true
+  }
+]

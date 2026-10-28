@@ -1,0 +1,147 @@
+---
+titulo: "Lei Ordinária nº 6.878, de 22 de maio de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "6878"
+data: "2020-05-22"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/7455"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/1157/text"
+sha256_fonte: "d9ff99a8ed354c3513846863f7d859126a0a640094a36d30219a48cc9c26f338"
+sha256_texto: "4e8ca4e0882ec2536a01adf6d570e7520b73f1e01e12ae545372b7938cefc728"
+capturado_em_fonte: "2026-10-27T18:15:38.160588-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 6.878, de 22 de maio de 2020
+
+AUTORIZA O MUNICÍPIO DE BIRIGUI A ABRIR CRÉDITOS ADICIONAIS JUNTO A LEI N° 6.808/2019 - LEI ORÇAMENTÁRIA DE 2020, NA LEI N° 6.740/2019 - LEI DE DIRETRIZES ORÇAMENTÁRIAS DE 2020 E NA LEI N° 6.430/2017 — PLANO PLURIANUAL-PPA DE 2018 A 2021 E ALTERAÇÕES, E PROVIDÊNCIAS CORRELATAS.  
+Projeto de Lei n° 73/2020, de autoria do Prefeito Municipal.
+
+
+Eu, **CRISTIANO SALMEIRÃO**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,  
+FAÇO SABER que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a abrir por decreto crédito adicional especial na Lei n° 6.430/2017 — PPA 2018/2021 e alterações, na Lei n° 6.740/2019 — LDO de 2020 e alterações e na Lei n° 6.808/2019 — Lei Orçamentária de 2020, com as seguintes classificações contábeis:
+
+02.00.00: PODER EXECUTIVO  
+02.10.00: SECRETARIA MUNICIPAL DE SAÚDE  
+02.10.01: FUNDO MUNICIPAL DE SAÚDE  
+FUNÇÃO: 10 — Saúde  
+SUBFUNÇÃO: 302 — Assistência Hospitalar e Ambulatorial  
+PROGRAMA: 0043 — Média e Alta Complexidade  
+AÇÃO: 2.190 — Enfrentamento da COVID-19
+
+Elemento Econômico: 3.3.90.30.00 — Material de Consumo  
+Fonte de Recurso: 02 — Transferências e Convênios Estaduais - Vinculados  
+Valor: R$ 39.782,76 (Trinta e Nove Mil, Setecentos e Oitenta e Dois Reais e Setenta e Seis Centavos)
+
+Elemento Econômico: 3.3.90.30.00 — Material de Consumo  
+Fonte de Recurso: 05 — Transferências e Convênios Federais - Vinculados  
+Valor: R$ 127.070,54 (Cento e Vinte e Sete Mil, Setenta Reais e Cinquenta e Quatro Centavos)
+
+02.00.00: PODER EXECUTIVO  
+02.10.00: SECRETARIA MUNICIPAL DE SAÚDE  
+02.10.01: FUNDO MUNICIPAL DE SAÚDE  
+FUNÇÃO: 10 — Saúde  
+SUBFUNÇÃO: 302 — Assistência Hospitalar e Ambulatorial  
+PROGRAMA: 0043 — Média e Alta Complexidade  
+AÇÃO: 2.107 — Média e Alta Complexidade - MAC
+
+Elemento Econômico: 3.3.90.30.00 — Material de Consumo  
+Fonte de Recurso: 05 — Transferências e Convênios Federais Vinculados  
+Valor: R$ 100.000,00 (Cem Mil Reais)
+
+Elemento Econômico: 3.3.90.32.00 — Material Bem ou Serviço Para Distribuição Gratuita  
+Fonte de Recurso: 05 — Transferências e Convênios Federais - Vinculados  
+Valor: R$ 450.000,00 (Quatrocentos e Cinquenta Mil Reais)
+
+02.00.00: PODER EXECUTIVO  
+02.10.00: SECRETARIA MUNICIPAL DE SAÚDE  
+02.10.01: FUNDO MUNICIPAL DE SAÚDE  
+FUNÇÃO: 10 — Saúde  
+SUBFUNÇÃO: 305 — Vigilância Epidemiológica  
+PROGRAMA: 0044 — Vigilância em Saúde  
+AÇÃO: 2.113 — Vigilância em Saúde - VGS
+
+Elemento Econômico: 3.3.90.32.00 — Material Bem ou Serviço Para Distribuição Gratuita  
+Fonte de Recurso: 05 — Transferências e Convênios Federais - Vinculados  
+Valor: R$ 50.000,00 (Cinquenta Mil Reais)
+
+
+Art. 2º.
+
+Fica o Executivo Municipal autorizado a abrir, por Decreto, através da Secretaria Municipal de Planejamento e Finanças, crédito adicional suplementar de R$ 1.700.000,00 (Um Milhão e Setecentos Mil Reais), conforme abaixo discriminado:
+
+02.00.00 - PODER EXECUTIVO  
+02.10.01 - SECRETARIA MUNICIPAL DE SAÚDE  
+02.10.01 10.301.0042.2.103 / 3.3.90.30.00 Ficha n° 403 Fonte: 05 900.000,00  
+02.10.01 10.301.0042.2.103 / 3.3.90.32.00 Ficha n° 406 Fonte: 05 300.000,00  
+02.10.01 10.302.0043.2.107 / 3.3.90.39.00 Ficha n° 453 Fonte: 05 100.000,00  
+02.10.01 10.303.0046.2.127 / 3.3.90.32.00 Ficha n° 469 Fonte: 05 400.000,00
+
+
+Art. 3º.
+
+Os créditos adicionais autorizados nos artigos 1° e 2° desta Lei, serão cobertos conforme especificado abaixo:
+
+
+I –
+
+O valor parcial de R$ 1.600.000,00 (Um Milhão e Seiscentos Mil Reais) provenientes de EXCESSO DE ARRECADAÇÃO conforme Processo n° 25000.049458/2020-40, Ação de Incremento Temporário ao Custeio dos Serviços de Atenção Básica em Saúde, Portaria 623, Vínculo Detalhado 05.800.0137, Fonte 526.
+
+
+II –
+
+O valor parcial de R$ 350.000,00 (Trezentos e Cinquenta Mil Reais) provenientes de EXCESSO DE ARRECADAÇÃO conforme Processo n° 25000.048801/2020-39, Ação de Incremento Temporário ao Custeio dos Serviços de Assistência Hospitalar e Ambulatorial, Portaria 652, Vinculo Detalhado 05.800.0138, Fonte 525.
+
+
+III –
+
+0 valor parcial de R$ 39.782,76 (Trinta e Nove Mil, Setecentos e Oitenta e Dois Reais e Setenta e Seis Centavos) provenientes de EXCESSO DE ARRECADAÇÃO conforme Resolução n° 313 do Conselho Nacional de Justiça, recursos disponibilizados Pelo Ministério Público do Estado de São Paulo, Vínculo Detalhado 02.312.0133.
+
+
+IV –
+
+O valor parcial de R$ 350.000,00 (Trezentos e Cinquenta Mil Reais) provenientes de SUPERAVIT FINANCEIRO apurado no fechamento do exercício anterior, vinculado a Fonte 05 — Transferências e Convênios Federais, depositado na Caixa Econômica Federal - Agência 0574-6 conta n° 00600624043-8 — FMS SUS CUSTEIO.
+
+
+V –
+
+O valor parcial de R$ 127.070,54 (Cento e Vinte e Sete Mil, Setenta Reais e Cinquenta e Quatro Centavos) provenientes de EXCESSO de ARRECADAÇÃO conforme Processo n° 25000.050753/2020-49, Portaria n° 774, Enfrentamento da Emergência de Saúde Decorrente do Coronavirus, Vínculo Detalhado 05.312.0136, Fonte 524.
+
+
+Art. 4º.
+
+As alterações constantes nesta Lei, serão efetuadas concomitantemente no P.P.A. - Plano Plurianual e L.D.O. - Lei de Diretrizes Orçamentárias, para o exercício corrente.
+
+
+Art. 5º.
+
+As dotações incluídas na presente Lei poderão ser suplementadas, se necessário, através de Decreto do Executivo Municipal.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Birigui, aos vinte e dois de maio de dois mil e vinte.
+
+**CRISTIANO SALMEIRÃO Prefeito Municipal**
+
+**FABIO VIEIRA PINTO Secretário Municipal de Planejamento e Finanças**
+
+Publicada na Divisão de Atos Oficiais e Expediente da Secretaria Municipal de Governo da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**CAIQUE MANTOVANI DA ROCHA Chefe da Divisão de Atos Oficiais e Expediente**
+

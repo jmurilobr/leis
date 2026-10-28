@@ -1,0 +1,79 @@
+---
+titulo: "Lei Ordinária nº 148, de 17 de agosto de 1977"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "148"
+data: "1977-08-17"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/472"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/986/text"
+sha256_fonte: "23254275afdfb18fdd043c37d1e9a7cb86843c1a66ff6485bd3d3dd37f1ea20f"
+sha256_texto: "b07bad5c0b5f746284d7244db4db58daf53cce39178a749b8c5d30323f6f213f"
+capturado_em_fonte: "2026-10-27T22:01:11.948157-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 148, de 17 de agosto de 1977
+
+Dispõe sobre a construção e conservação de mata-burros nas rodovias municipais.
+
+
+O PREFEITO MUNICIPAL DE CAÇU: Faço saber que a Câmara Municipal de Caçu, Estado de Goiás, decreta e eu sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica a Municipalidade desobrigada da construção e conservação de mata-burros nas rodovias, exceto sobre os córregos, pântanos e outros locais onde sejam necessárias obras de arte.
+
+
+Art. 2º.
+
+Nas rodovias que forem construídas em épocas posteriores à publicação desta lei, assim como naquelas que forem enquadradas no Plano Rodoviário Municipal, os mata-burros terão que obedecer ao disposto no art. 5º desta lei, devendo ser demolidos os que contrariarem aquelas disposições.
+
+
+Art. 3º.
+
+Os proprietários de terras que optarem pela conservação e construção de mata-burros em suas propriedades, terão, obrigatoriamente, que obedecer aos padrões estabelecidos pelos artigos seguintes.
+
+
+Art. 4º.
+
+A conservação dos mata-burros existentes nas rodovias já enquadradas no Plano Rodoviário Municipal, na data da publicação desta lei, será feita com madeira de lei, largura de 3,5 m, com caibros do mesmo cumprimento e espessura de 10x10 cm, na distancia de 12 cm entre si, colocados em sentido contrario ao da rodovia, com capacidade mínima para 60.000 kg.
+
+
+Art. 5º.
+
+Os mata-burros que forem construídos ou remodelados em sua totalidade, terão que ser feitos ao nível da rodovia, além de obedecerem aos padrões mencionados no artigo anterior.
+
+
+Art. 6º.
+
+Os proprietários de terras por onde passarem as rodovias, que conservarem em perfeito estado de trânsito os mata-burros, serão notificados pelo Setor de Transporte da Prefeitura a faze-lo dentro de 2 (dois) dias, contados do recebimento da notificação.
+
+
+Art. 7º.
+
+O não atendimento da notificação mencionada no artigo anterior dará direito ao Setor de Transporte da Prefeitura a demolir por completo os mata-burros danificados, perdendo os infratores o direito de reconstruí-los.
+
+
+Art. 8º.
+
+O efeitos desta lei aplicam-se unicamente às rodovias enquadradas no Plano Rodoviário Municipal.
+
+
+Art. 9º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+PREFEITURA MUNICIPAL DE CAÇU, Estado de Goiás, em 17 de agosto de 1977.
+
+
+**Abel Barbosa Guimarães - Prefeito Municipal –**
+

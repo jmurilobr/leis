@@ -1,0 +1,250 @@
+---
+titulo: "Lei Complementar nº 152, de 18 de fevereiro de 2025"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "152"
+data: "2025-02-18"
+municipio: "Bofete"
+uf: "SP"
+codigo_ibge: "3506904"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bofete.sp.leg.br/norma/2324"
+fonte_texto: "https://sapl.bofete.sp.leg.br/ta/58/text"
+sha256_fonte: "3d05c1a11fccbb854a499f81943524b0f3da8debc3fbd1eb79bfda876fade128"
+sha256_texto: "b604db3d33c3cc060466690e61d6c138f778124760738a31ab395885182aa130"
+capturado_em_fonte: "2026-10-27T19:11:52.181057-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 152, de 18 de fevereiro de 2025
+
+INSTITUI O PROGRAMA DE RECUPERAÇÃO FISCAL DO MUNICÍPIO DE BOFETE, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+Eugênio Carlos Alves, Prefeito do Município de Bofete, Estado de São Paulo, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte lei:
+
+
+Art. 1º.
+
+Fica instituído o Programa de Recuperação Fiscal do Município de Bofete com o objetivo de facilitar a recuperação de créditos municipais tributários e não tributários e incrementar o ingresso de receitas municipais.
+
+
+Art. 2º.
+
+O contribuinte com débito perante a Fazenda Municipal vencido até 31 de dezembro de 2024, poderá quita-lo com redução de juros e multa de mora, os valores corrigidos monetariamente poderão ser pagos à vista ou parcelado da seguinte forma:
+
+
+I –
+
+Em parcela única, com 100% (cem por cento) de desconto, à vista;
+
+
+II –
+
+Em até 4 (quatro) parcelas mensais e fixas, com 80% (oitenta por cento) de desconto;
+
+
+III –
+
+Em até 5 (cinco) parcelas mensais e fixas, com 60% (sessenta por cento) de desconto;
+
+
+IV –
+
+Em até 6 (seis) parcelas mensais e fixas, com 40% (quarenta por cento) de desconto;
+
+
+V –
+
+Em até 8 (oito) parcelas mensais e fixas, com 20% (vinte por cento) de desconto.
+
+
+§ 1º
+
+As disposições desta Lei Complementar aplicam-se aos débitos tributários e não tributários, inscritos ou não em dívida ativa, ajuizados ou não e aos saldos de parcelamentos cujos os fatos geradores tenham ocorrido até 31 de dezembro de 2024, ainda que apurados e constituídos após esta data.
+
+
+§ 2º
+
+A data limite de adesão ao Programa de Recuperação Fiscal do Município de Bofete, será até o dia 31/08/2025, podendo ser prorrogado.
+
+
+§ 3º
+
+O valor da parcela não poderá ser inferior a R$ 50,00 (cinquenta reais).
+
+
+§ 4º
+
+Os débitos em geral, depois de corrigidos monetariamente, poderão ser parcelados em até 36 parcelas sem os respectivos descontos.
+
+
+Art. 3º.
+
+Não poderão ser incluídos no programa enquanto vigente a presente Lei:
+
+
+I –
+
+Os débitos já ajuizados, em execução definitiva, que estejam garantidos por penhora on-line (BACEN JUD); e
+
+
+II –
+
+Os débitos provenientes da Ação Civil Pública por Improbidade Administrativa.
+
+
+Art. 4º.
+
+A formalização do pedido de ingresso no Programa implica o reconhecimento dos débitos nele incluídos, ficando condicionada à desistência de eventuais ações ou embargos à execução fiscal, com renúncia ao direito sobre o qual se fundam nos autos judiciais respectivos e à desistência de eventuais impugnações defesas e recursos apresentados no âmbito administrativo.
+
+
+§ 1º
+
+Verificando-se a hipótese de desistência dos embargos à execução fiscal, o devedor concordará com a suspensão do processo de execução, pelo prazo do pagamento a que se obrigou obedecendo-se ao estabelecido no art. 922 do Código do Processo Civil.
+
+
+§ 2º
+
+No caso do § 1º deste artigo, liquidado o parcelamento nos termos desta Lei, o Município informará o fato ao juízo da execução fiscal e requererá a sua extinção com fundamento no inciso II do Art. 924 do Código de Processo Civil.
+
+
+§ 3º
+
+Como condição para adesão ao programa, o contribuinte deverá concordar que o depósito judicial eventualmente realizado seja levantado após a quitação do parcelamento.
+
+
+§ 4º
+
+Considera-se débito a soma do crédito principal, as obrigações acessórias, a correção monetária, a multa e os juros de mora previstos na Legislação Municipal.
+
+
+Art. 5º.
+
+A concessão dos benefícios previstos nesta Lei:
+
+
+I –
+
+Não dispensa, na hipótese de débitos protestados e/ou ajuizados, o pagamento das custas e dos emolumentos judiciais e, ainda, os honorários advocatícios, fixados em 10 % (dez por cento) sobre o valor do débito, salvo se fixado valor superior em eventual ação judicial.
+
+
+II –
+
+Não autoriza a restituição, no todo ou em parte, de importância recolhida anteriormente ao início da vigência desta Lei.
+
+
+Parágrafo único
+
+O valor das custas e emolumentos processuais deve ser recolhido diretamente ao Poder Judiciário ou ao Cartório de Protestos.
+
+
+Art. 6º.
+
+A opção pelo ingresso no programa impõe ao sujeito passivo a aceitação plena e irretratável de todas as condições estabelecidas nesta Lei e constitui confissão irrevogável e irretratável de todas as condições estabelecidas nesta Lei e constitui confissão irrevogável e irretratável da dívida relativas aos débitos neles incluídos com o reconhecimento expresso da certeza e liquidez do crédito correspondente, produzindo os efeitos previstos no art. 174, parágrafo único, do Código Tributário Nacional e no art. 202, Inciso IV, do Código Civil.
+
+
+§ 1º
+
+A homologação do ingresso no programa dar-se-á no momento do pagamento da parcela única ou da primeira parcela, para os casos de parcelamento previstos no art. 1º desta Lei Complementar.
+
+
+§ 2º
+
+A exigibilidade do débito será suspensa somente após o pagamento da primeira parcela.
+
+
+Art. 7º.
+
+O sujeito passivo poderá ser excluído do programa, mediante notificação prévia, diante da ocorrência de uma das seguintes hipóteses:
+
+
+I –
+
+Inobservância de quaisquer das exigências estabelecidas nesta Lei;
+
+
+II –
+
+Estar em atraso com o pagamento de qualquer parcela há mais de 60 (sessenta) dias;
+
+
+III –
+
+A não comprovação da desistência de que trata o art. 2º desta Lei no prazo de 10 (dez) dias contados da data de homologação do débito do programa;
+
+
+IV –
+
+Decretação de falência ou extinção pela liquidação da pessoa jurídica;
+
+
+V –
+
+Cisão da pessoa jurídica, exceto se a sociedade nova, oriunda da cisão ou aquela que incorporar a parte do patrimônio assumir solidariamente com a cindida as obrigações do programa.
+
+
+Art. 8º.
+
+A exclusão do sujeito passivo do Programa de Recuperação Fiscal do Município de Bofete, implicará:
+
+
+I –
+
+O imediato cancelamento do parcelamento realizado nos termos da legislação;
+
+
+II –
+
+Acarretará conforme o caso:
+
+
+a)
+
+O vencimento antecipado e total do saldo devedor que será cobrado com os acréscimos legais sobre o remanescente devidamente atualizado, vedando- se novo parcelamento quanto ao referido débito;
+
+
+b)
+
+O ajuizamento da respectiva execução fiscal;
+
+
+c)
+
+Em se tratando de débito inscrito e ajuizado, o imediato prosseguimento da execução fiscal.
+
+
+§ 1º
+
+Aplica-se o disposto no artigo 8º em caso de não paga mento da primeira parcela ou parcela única na data de seus respectivos vencimentos.
+
+
+§ 2º
+
+O programa não configura novação automática prevista no inciso I do art. 360 do Código Civil.
+
+
+§ 3º
+
+Uma vez excluído, o devedor não poderá aderir a novo Programa de Recuperação Fiscal nos próximos 36 (trinta e seis) meses, contados da exclusão.
+
+
+Art. 9º.
+
+Esta Lei Complementar poderá ser regulamentada através de Decreto do Executivo no que for necessário.
+
+
+Art. 10.
+
+Esta Lei complementar entra em vigor na data de sua publicação.
+
+
+Bofete, 18 de fevereiro de 2025
+
+EUGÊNIO CARLOS ALVES
+
+PREFEITO MUNICIPAL
+

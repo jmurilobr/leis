@@ -1,0 +1,28 @@
+---
+titulo: "CONVÊNIO ICMS Nº 54, DE 24 DE ABRIL DE 2026"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "54"
+data: "2026-04-24"
+revogada: null
+versao_texto: "Texto e notas oficiais do portal CONFAZ conforme a captura; sem certificação de vigência."
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV054_26"
+sha256_html_fonte: "64b39b57393403003f2b4189354d7a042326865c3bd4f9292f0221192d58dbe9"
+sha256_texto: "ebe158ec3edd5e0a261065806910ff3d185f1a9e88f752cc4a2827124d21a485"
+baixado_em: "2026-10-27"
+representacao_corpo: "html-nativo-confaz-piloto-v1"
+observacao_captura: "timestamp original do cliente com fuso, convertido para America/Recife"
+observacao_efeitos: "Condições de ratificação e produção de efeitos preservadas literalmente. Nenhuma data de vigência calculada."
+publicacao_fonte: "Publicado no DOU de 27.04.26, pelo despacho 20/26. | Ratificação Nacional no DOU de 14.05.26, pelo Ato Declaratório 11/26."
+---
+# CONVÊNIO ICMS Nº 54, DE 24 DE ABRIL DE 2026
+
+<div id="parent-fieldname-text"><p align="center" class="A1-1TituloAcordo">CONVÊNIO ICMS Nº 54, DE 24 DE ABRIL DE 2026</p>
+<p class="A2DataPublicacao">Publicado no DOU de 27.04.26, pelo despacho <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/despacho/2026/dp020_26" target="_self" title="despacho 20/26">20/26</a>.</p>
+<p class="A2DataPublicacao">Ratificação Nacional no DOU de 14.05.26, pelo Ato Declaratório <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/atos-declaratorios/2026/ad011_26" target="_self" title="ato declaratorio 11/26">11/26</a>.</p>
+<p class="A3Ementa">Altera o Convênio ICMS nº 161, de 5 de dezembro de 2025, que autoriza a concessão de isenção do ICMS nas operações com medicamento destinado a tratamento de distrofia muscular de Duchenne - DMD.</p>
+<p class="A5-1TextoAcordo"><b>O Conselho Nacional de Política Fazendária – CONFAZ</b>, na sua 423ª Reunião Extraordinária, realizada em Brasília, DF, no dia 24 de abril de 2026, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte</p>
+<p class="A4AcordoTipo">C O N V Ê N I O</p>
+<p class="A5-1TextoAcordo"><b>Cláusula primeira</b> O § 3º da cláusula primeira do <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV161_25" target="_self" title="convenio icms 161/25">Convênio ICMS nº 161, de 5 de dezembro de 2025</a>, publicado no Diário Oficial da União de 9 de dezembro de 2025, passa a vigorar com a seguinte redação:</p>
+<p class="A5-2NovaRedacao">“§ 3º O Estado do Rio Grande do Sul fica autorizado a dispensar a condição prevista no § 1º em relação às operações realizadas até 30 de setembro de 2026.”.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula segunda </b>Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.</p></div>

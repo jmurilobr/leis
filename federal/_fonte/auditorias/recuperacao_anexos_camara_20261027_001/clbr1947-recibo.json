@@ -1,0 +1,31 @@
+{
+  "url": "https://bd.camara.leg.br/bd/bitstreams/6cfdd26f-5f4d-40fa-9607-6128d39a10ec/download",
+  "captura_utc": "2026-10-27T21:12:12.158012+00:00",
+  "catalogo": "1947-catalogo.html.gz",
+  "status": 200,
+  "url_final": "https://bd-rest.camara.leg.br/server/api/core/bitstreams/6cfdd26f-5f4d-40fa-9607-6128d39a10ec/content",
+  "headers": {
+    "server": "envoy",
+    "date": "Tue, 27 Oct 2026 21:12:13 GMT",
+    "content-type": "Adobe/PDF;charset=UTF-8",
+    "content-length": "76824670",
+    "vary": "Origin,Access-Control-Request-Method,Access-Control-Request-Headers",
+    "content-language": "en",
+    "last-modified": "Thu, 09 Oct 2014 14:44:01 GMT",
+    "etag": "\"581a7087e0c4491d887fa93090741bf5\"",
+    "accept-ranges": "bytes",
+    "expires": "Tue, 27 Oct 2026 22:12:13 GMT",
+    "cache-control": "private,no-cache",
+    "access-control-expose-headers": "Accept-Ranges",
+    "content-disposition": "attachment;filename=\"colecao_leis_1947_parte2.pdf\"",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "0",
+    "strict-transport-security": "max-age=31536000 ; includeSubDomains",
+    "x-frame-options": "DENY",
+    "x-envoy-upstream-service-time": "369",
+    "connection": "close"
+  },
+  "path": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/1947-parte2.pdf",
+  "sha256": "eeb8a642fae45e498b17bbe95788064639bbd29df22870dd0e57ec1d4a488484",
+  "bytes": 76824670
+}

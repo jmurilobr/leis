@@ -1,0 +1,841 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>SAPL - Câmara Municipal de Congonhas</title>
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Câmara Municipal de Congonhas",
+      "url" : "http://sapl.congonhas.mg.leg.br"
+    }
+  </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#343a40">
+
+    
+      <link rel="icon" href="/static/sapl/frontend/img/favicon.ico"  type="image/png">
+      
+    
+        
+        <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/global.042f6737.css" rel="stylesheet" />
+      
+    <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/compilacao.0baf3580.css" rel="stylesheet" />
+
+
+      
+      
+
+    
+  </head>
+
+  <body>
+    <div class="page fadein">
+
+      
+        <div class="info-atualizacao hidden-print" style="background-color:#0d2b45;color:#fff;text-align:center;padding:6px 12px;font-size:14px;font-weight:600;">
+          Informações foram atualizadas em
+          28/10/2026
+        </div>
+      
+
+      
+        
+          
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+              <div class="container">
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+
+                   
+
+
+  <ul class="navbar-nav">
+    
+      
+        
+          <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Institucional
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/mesa-diretora/">Mesa Diretora</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bancada/">Bancadas Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bloco/">Blocos Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/comissao/">Comissões</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/frente/">Frentes</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/parlamentar/">Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/audiencia/">Audiências Públicas</a></li>
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Atividade Legislativa
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/materia/pesquisar-materia">Matérias Legislativas</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pauta-sessao">Pautas das Sessões</a></li>
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/relatorios/">Relatórios</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pesquisar-sessao">Sessões Plenárias</a></li>
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Normas Jurídicas
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/norma/pesquisar">Pesquisar Normas Jurídicas</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+  </ul>
+
+ 
+
+                  <ul class="nav navbar-nav justify-content-end" id="autenticacao">
+                    <li class="nav-item dropdown pesquisa">
+                      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="/static/sapl/frontend/img/search.png"><span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li class="dropdown-item">
+                            <form id="formulario-lexml" class="navbar-form search-form" method="get" action="">
+                              <input id="input-lexml" type="text" class="form-control" placeholder="Pesquisar no LexML" />
+                            </form>
+                          </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link"href="/sistema/ajuda"><img src="/static/sapl/frontend/img/manual.png"></a></li>
+                    
+                      <li class="nav-item"><a class="nav-link" href="/login/"><img src="/static/sapl/frontend/img/user.png"></a></li>
+                    
+                  </ul>
+
+                </div><!--/.nav-collapse -->
+              </div>
+            </nav>
+          
+        
+      
+      
+        
+        
+        <header class="masthead">
+          <div class="container">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/">
+                <img src="/media/sapl/public/casa/logotipo/Brasão_CMC_2011_Fundo_Transparente.PNG"
+                alt="Logo" class="img-responsive" >
+                <span class="vcenter">Câmara Municipal de Congonhas
+                  <br/><small>Sistema de Apoio ao Processo Legislativo</small>
+                </span>
+              </a>
+            </div>
+            <div class="hidden-print">
+              
+  
+
+
+  <ul class="nav nav-tabs justify-content-end">
+    
+      <li class="nav-item">
+        
+          <a class="nav-link" href="/norma/6814?display" title="Dados Complementares ">Dados Complementares </a>
+        
+      </li>
+      
+        <li class="nav-item"><a class="nav-link" href="/ta/4633/publicacao">Publicações</a></li>
+      
+      
+      
+      
+    
+  </ul>
+
+
+            </div>
+          </div>
+        </header>
+        
+      
+
+      
+      
+        <main id="content" class="content page__row">
+          <div class="container">
+
+            
+            
+
+            
+            
+              <div class="clearfix">
+
+                
+
+
+
+                
+
+                
+                  <h1 class="page-header">
+                    
+                      Lei nº 3.312, de 22 de novembro de 2013
+                    
+                  </h1>
+                
+
+              </div>
+            
+
+            
+            <div id="app"></div>
+
+            
+            
+
+  
+    
+    <div class="context-actions d-flex justify-content-between mb-4">
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+    </div>
+  
+  
+
+
+  
+   
+    <fieldset class="hidden-print">
+        <legend>Identificação Básica</legend>
+        <div class="row">
+          <div class="col-md-3">
+            <div id="div_id_tipo" class="holder">
+              <label>Tipo de Texto Articulado</label>
+              <p>Norma Jurídica</p>
+            </div>
+          </div>
+
+          
+            <div class="col-md-3">
+              <div id="div_id_tipo" class="holder">
+                <label>Tipo da Norma Jurídica</label>
+                <p>Lei</p>
+              </div>
+            </div>
+          
+
+          <div class="col-md-2">
+            <div id="div_id_numero" class="holder">
+              <label>Número</label>
+              <p>3312</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_ano" class="holder">
+              <label>Ano</label>
+              <p>2013</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_data" class="holder">
+              <label>Data</label>
+              <p>22 de Novembro de 2013</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div id="div_id_ementa" class="holder">
+              <label>Ementa</label>
+              <p>DISPÕE SOBRE A INSTITUIÇÃO DE PLANO DE COMPLEMENTAR NO ÂMBITO DA CÂMARA MUNICIPAL DE CONGONHAS, ESTADO DE MINAS GERAIS</p>
+            </div>
+          </div>
+        </div>
+    </fieldset>
+  
+  
+
+
+  
+      
+        <div class="actions btn-group" role="group">
+            
+            <a href="/ta/4633/text?print" class="btn btn-outline-primary" id="btn_impressao">Preparar para impressão</a>
+        </div>
+      
+
+      <div class="actions btn-group float-right" role="group">
+        <a class="btn btn-outline-primary" id="btn_font_menos" title="Diminuir tamanho da letra">a</a>
+        <a class="btn btn-outline-primary" id="btn_font_mais"  title="Aumentar tamanho da Letra">A</a>
+      </div>
+  
+
+  
+    
+
+
+
+<div class="row py-4">
+    
+      
+
+      
+
+      
+  
+
+</div>
+
+  
+
+  
+
+
+
+<div class="cp">
+  
+  <div class="d-none tipo-vigencias fixed-bottom justify-content-center">
+    <div class="btn-group btn-group-sm">
+      <a class="btn btn-primary active" onclick="textoMultiVigente(this, false);" title="Texto Compilado Sequencial">TMS</a>
+      <a class="btn btn-primary" onclick="textoMultiVigente(this, true);" title="Texto Compilado Integrado com Realce de Alterações">TMI</a>
+      <a class="btn btn-primary"  onclick="textoMultiVigente(this, false); textoVigente(this, true);" title="Texto Vigente COM Links para Textos Alteradores">TVL</a>
+      <a class="btn btn-primary"  onclick="textoVigente(this, false);" title="Texto Vigente">TVT</a>
+      <a class="btn btn-primary"  onclick="textoVigenteSemRevogados(this, false);" title="Texto Vigente Sem Dispositivos Revogados">TVR</a>
+    </div>
+  </div>
+
+  
+
+
+
+
+
+  
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt94201" ><div class="dtxt" id="d94201" pks="" pk="94201"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="ementa  "><div class="dptt "  id="dptt94206" ><a class="dpt-link" name="94206" title="94206"></a><div class="dtxt" id="d94206" pks="" pk="94206">“DISPÕE SOBRE A INSTITUIÇÃO DE PLANO DE COMPLEMENTAR NO ÂMBITO DA CÂMARA MUNICIPAL DE CONGONHAS, ESTADO DE MINAS GERAIS”</div></div><div class="dn" id="dn94206" pk="94206"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt94207" ><a class="dpt-link" name="94207" title="94207"></a><div class="dtxt" id="d94207" pks="" pk="94207">A Câmara Municipal de Congonhas, Estado de Minas Gerais, decreta e eu, Presidente da Câmara Municipal de Congonhas, sanciono e promulgo a seguinte Lei:</div></div><div class="dn" id="dn94207" pk="94207"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt94208" ><div class="dtxt" id="d94208" pks="" pk="94208"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt94209" ><div class="dtxt" id="d94209" pks="" pk="94209"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt94210" ><a class="dpt-link" name="94210">Art. 1º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d94210" pks="" pk="94210">A Câmara Municipal de Congonhas poderá instituir plano de saúde complementar ou seguro de saúde complementar, de cunho indenizatório, com cobertura total ou parcial, para os vereadores, servidores e inativos do Poder Legislativo Municipal, bem como para seus dependentes.</div></div><div class="dn" id="dn94210" pk="94210"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="3">
+    
+
+    <div class="inciso indent  "><div class="dptt "  id="dptt94211" ><a class="dpt-link" name="94211" title="94211">I</a>&nbsp;&ndash;&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d94211" pks="" pk="94211">Entende-se por dependentes:</div></div><div class="dn" id="dn94211" pk="94211"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="alinea indent  "><div class="dptt "  id="dptt94212" ><a class="dpt-link" name="94212" title="94212">a)</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d94212" pks="" pk="94212">o cônjuge, o companheiro ou companheira na união estável;</div></div><div class="dn" id="dn94212" pk="94212"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="alinea indent  "><div class="dptt "  id="dptt94213" ><a class="dpt-link" name="94213" title="94213">b)</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d94213" pks="" pk="94213">os filhos e enteados até 24 (vinte quatro anos) de idade ou, se inválidos, enquanto durar a invalidez;</div></div><div class="dn" id="dn94213" pk="94213"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="4">
+    
+
+    <div class="alinea indent  "><div class="dptt "  id="dptt94214" ><a class="dpt-link" name="94214" title="94214">c)</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d94214" pks="" pk="94214">o menor sob guarda ou tutela concedida por decisão judicial, observado o disposto na alínea “b”.</div></div><div class="dn" id="dn94214" pk="94214"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt94215" ><div class="dtxt" id="d94215" pks="" pk="94215"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt94216" ><a class="dpt-link" name="94216">Art. 2º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d94216" pks="" pk="94216">A Câmara Municipal regulamentará o disposto nesta lei, no prazo de sessenta dias.</div></div><div class="dn" id="dn94216" pk="94216"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt94217" ><div class="dtxt" id="d94217" pks="" pk="94217"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt94218" ><a class="dpt-link" name="94218">Art. 3º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d94218" pks="" pk="94218">As despesas decorrentes da execução desta lei correrão por conta de dotação orçamentária própria.</div></div><div class="dn" id="dn94218" pk="94218"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt94219" ><div class="dtxt" id="d94219" pks="" pk="94219"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt94220" ><a class="dpt-link" name="94220">Art. 4º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d94220" pks="" pk="94220">Esta Lei entra em vigor na data de sua publicação,</div></div><div class="dn" id="dn94220" pk="94220"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt94221" ><div class="dtxt" id="d94221" pks="" pk="94221"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt94222" ><a class="dpt-link" name="94222" title="94222"></a><div class="dtxt" id="d94222" pks="" pk="94222"><div style="text-align: left;"><br>Congonhas, 22 de novembro de 2013.</div><div>&nbsp;</div><div>&nbsp;</div><div style="text-align: center;">&nbsp;</div><div style="text-align: center;"><strong>Adivar Geraldo Barbosa</strong></div><div style="text-align: center;"><strong>Presidente da Câmara</strong></div><div>&nbsp;</div></div></div><div class="dn" id="dn94222" pk="94222"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+
+
+  </div></div>
+
+
+</div>
+
+  <div class="dont-break-out"></div>
+
+
+
+
+          </div>
+        </main>
+
+      
+
+      
+
+
+      
+      <footer id="footer" class="footer page__row hidden-print">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+
+              <a class="footer__logo" href="#">
+                <a href="http://www.interlegis.leg.br/">
+                  <img src="/static/sapl/frontend/img/logo_interlegis.png" alt="Logo do Interlegis ">
+                </a>
+              </a>
+              <p>
+                <small>
+                  Desenvolvido pelo <a href="http://www.interlegis.leg.br/">Interlegis</a> em software livre e aberto.
+                </small>
+		<span>Release: 3.1.165-RC4</span>
+              </p>
+
+            </div>
+            <div class="col-md-4">
+              <a class="footer__logo" href="#">
+                <img src="/static/sapl/frontend/img/logo_cc.png" alt="Logo do Creative Commons BY SA">
+              </a>
+              <p>
+                <small>
+                  Conteúdo e dados sob licença <a href="https://creativecommons.org">Creative Commons</a> 4.0<br><a href="https://creativecommons.org/licenses/by/4.0/">Atribuir Fonte - Compartilhar Igual</a>
+                </small>
+              </p>
+            </div>
+            <div class="col-md-4">
+              
+              <address>
+                <small>
+                  <strong>
+                    <span class="org">Câmara Municipal de Congonhas</span>
+                  </strong>
+                  <br>
+                  <span class="street-address">Rua Dr. Pacífico Homem Júnior</span>
+                  <br>
+                  CEP: <span class="postal-code">36410-090</span>
+                  |
+                  Telefone: <span>(31) 3732-0300</span>
+                  <br>
+                  <small><a href="/api/schema/swagger-ui/">OpenAPI</a></small> |
+                  <a href="https://www.congonhas.mg.leg.br" class="url">Site</a> |
+                  <a href="mailto:camara@congonhas.mg.leg.br" class="email">Fale Conosco</a>
+                </small>
+              </address>
+              
+
+
+
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    
+
+    <div vw class="enabled btn-vlibras">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+
+    
+
+          
+    
+        
+        <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/global.d557d20c.js" ></script>
+      
+    <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/compilacao.148cb66b.js" ></script>
+
+
+      
+      
+
+      
+
+      <script type="text/javascript" >
+        function inIframe () {
+          try {
+              return window.location !== window.parent.location
+          } catch (e) {
+              return true;
+          }
+        }
+        $(document).ready(function(){
+          let iframe_set_backend = false
+          if (iframe_set_backend && !inIframe() ) {
+            location.href = location.origin + '?iframe=0'
+          }
+
+          var form = document.getElementById("formulario-lexml");
+          $("#input-lexml").change(function(){
+            let value = $("#input-lexml").val();
+            let url = "/sistema/lexml/request_search/xxx/"
+            url = url.replace('xxx', value)
+            form.action = url;
+          });
+
+        });
+      </script>
+
+    
+      <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+      <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+      </script>
+
+      
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-6H7D46Y379"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-6H7D46Y379');
+        </script>
+      
+    
+
+    
+  </body>
+</html>

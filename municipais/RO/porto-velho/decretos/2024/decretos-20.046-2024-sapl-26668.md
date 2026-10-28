@@ -1,0 +1,76 @@
+---
+titulo: "Decreto-SEMPOG nº 20.046, de 06 de junho de 2024"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "20.046"
+data: "2024-06-06"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/26668"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/6699/text"
+sha256_fonte: "7074aa2d52137fa412a06cc0905d02a2e7dc4ae338ccf8937201238854028ec3"
+sha256_texto: "05712f9ade50afb89833102c98054d73b8d6f2124df3a7d41c661c8154919548"
+capturado_em_fonte: "2026-10-21T04:24:30.128701-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 20.046, de 06 de junho de 2024
+
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Transposição de Recursos.
+
+
+O **Prefeito do Município de Porto Velho**, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei n.º 3.130, de 20 de dezembro de 2023, a fim de proceder às adequações orçamentárias no exercício 2024;
+
+**Considerando** o Ofício n.° 001/2024/DIOF/GAB/SEMAGRIC, de 28 de maio de 2024, pelo qual a Secretaria Municipal de Agricultura, Pecuária e Abastecimento - SEMAGRIC, solicita a movimentação de recursos para cobertura de despesas para o 2º semestre de 2024 conforme planejamento de trabalho da unidade,
+
+**D E C R E T A**
+
+
+Art. 1º.
+
+Fica alterado o Orçamento Anual do Município de Porto Velho por meio de transposição de recursos orçamentários no valor de R$ 50.000,00 (cinquenta mil reais).
+
+
+Art. 2º.
+
+A transposição decorre da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas dentro da mesma unidade orçamentária, conforme disposto no inciso XVII do Artigo o 6º da Lei nº 3.094, de 25 de setembro de 2023 – Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><tbody><tr><td colspan="7"><p><strong>15.00 - SECRETARIA MUNICIPAL DE AGRICULTURA E ABASTECIMENTO - SEMAGRIC</strong></p></td></tr><tr><td colspan="7"><p><strong>15.00 - SECRETARIA MUNICIPAL DE AGRICULTURA E ABASTECIMENTO - SEMAGRIC</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESPERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>TRANSPÕE R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td><p>15.01.20.122.007.2.001</p></td><td><p>Administração da Unidade</p></td><td><p>FIS</p></td><td rowspan="2"><p>3.3.90.39</p></td><td><p>1.500.0000.0000</p></td><td><p>50.000,00</p></td><td><p>-</p></td></tr><tr><td><p>15.01.20.782.240.2.643</p></td><td><p>Conservação de Rodovias Vicinais</p></td><td><p>FIS</p></td><td><p>1.500.0000.0000</p></td><td><p>-</p></td><td><p>50.000,00</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>50.000,00</strong></p></td><td><p><strong>50.000,00</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>50.000,00</strong></p></td><td><p><strong>50.000,00</strong></p></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 19.668, de 20 de dezembro de 2023 e oDetalhamento da Despesa, estabelecido pelo Decreto n.º 19.669, de 20 de dezembro de 2023.
+
+
+Art. 4º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Art. 5º.
+
+Revogam-se as disposições em contrário.
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***SERGIO LUIZ PACÍFICO***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto
+

@@ -1,0 +1,247 @@
+---
+titulo: "Resolução nº 241, de 22 de dezembro de 2022"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "241"
+data: "2022-12-22"
+municipio: "Espera Feliz"
+uf: "MG"
+codigo_ibge: "3124203"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.esperafeliz.mg.leg.br/norma/2758"
+fonte_texto: "https://sapl.esperafeliz.mg.leg.br/ta/49/text"
+sha256_fonte: "24c71c3a2bc99d39a60baa9c14fc93abf47ac6344ea4b5984603952c89b73ce4"
+sha256_texto: "bdc64265ec16db5c154396400f932575f7c910f0b12a8d926dc260d39dcc71ba"
+capturado_em_fonte: "2026-10-28T10:28:19.792158-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Resolução nº 241, de 22 de dezembro de 2022
+
+Art. 1º.
+
+Fica criada, no âmbito da Câmara Municipal de Espera Feliz, a Escola do Legislativo Rudacy Alves Faria, com o objetivo de oferecer suporte conceitual de natureza técnico-administrativa às atividades legislativas e afins.
+
+
+Art. 2º.
+
+São fundamentos da Escola do Legislativo Rudacy Alves Faria:
+
+
+I –
+
+Democracia e a prevalência de direitos humanos;
+
+
+II –
+
+constituição de uma sociedade livre, justa e solidária;
+
+
+III –
+
+pluralidade de ideias e do debate político;
+
+
+IV –
+
+inclusão e educação para a cidadania;
+
+
+V –
+
+constituição, promoção e difusão de conhecimento.
+
+
+Art. 3º.
+
+São objetivos específicos da Escola do Legislativo Rudacy Alves Faria:
+
+
+I –
+
+oferecer aos parlamentares e aos servidores da Câmara Municipal de Espera Feliz suporte conceitual e treinamento para a elaboração de leis e para o exercício das atividades profissionais das áreas administrativa e legislativa;
+
+
+II –
+
+promover a realização de cursos de ambientação aos novos vereadores, diretores e assessores parlamentares no início de cada Legislatura;
+
+
+III –
+
+oferecer aos servidores e aos profissionais terceirizados conhecimentos básicos para o exercício de funções diversas dentro do Legislativo e fora dele, quando em atividades voltadas para o público ao qual servem;
+
+
+IV –
+
+qualificar os servidores nas atividades de suporte técnico-administrativo ampliando a sua formação em assuntos legislativos;
+
+
+V –
+
+desenvolver ações de educação para a cidadania, visando a aproximação da sociedade ao parlamento municipal, principalmente a comunidade estudantil, como forma de colaborar com a realização de atividades parlamentares e políticas;
+
+
+VI –
+
+desenvolver programas e atividades específicas objetivando a formação e a qualificação de lideranças comunitárias e políticas;
+
+
+VII –
+
+estimular a pesquisa técnico-acadêmica voltada ao Legislativo, em cooperação com outras instituições públicas e/ou privadas;
+
+
+VIII –
+
+planejar e organizar eventos sobre temas de repercussão na sociedade que contribuam para a educação política e o aprimoramento da prática legislativa;
+
+
+IX –
+
+integrar e gerenciar convênios, especialmente com o Senado Federal, com a Câmara dos Deputados; com as Assembleias Legislativas; com as Câmaras Municipais; com os Executivos Municipais, estaduais e federal; com as associações; com as entidades de classe; com os órgãos dos Poderes da União; com os Tribunais de Contas; com o Ministério Público; com as universidades; com as faculdades; com as escolas técnicas e com as escolas de cursos de qualificação profissional, propiciando, entre outras atividades conjuntas, a participação de servidores e agentes políticos em videoconferências, treinamentos a distância e a realização de cursos de capacitação técnica e de cursos presenciais de formação acadêmica ou pós- acadêmica;
+
+
+X –
+
+manter atividades de cooperação e intercâmbio com o Poder Legislativo em seus diversos níveis no Brasil, e com instituições de ensino e de pesquisa, escolas e universidades, propiciando, entre outras atividades conjuntas, a participação de parlamentares, servidores e agentes políticos em treinamentos a distância;
+
+
+XI –
+
+ser agente de capacitação de vereadores e servidores de outras câmaras municipais e instituições, no cumprimento de compromissos firmados com instituições parceiras;
+
+
+XII –
+
+desenvolver as ações do Memorial da Câmara e incentivar a realização, a elaboração e o desenvolvimento de projetos na área da história e memória política do Município Espera Feliz.
+
+
+XIII –
+
+informar e capacitar a comunidade em temas afins às atividades institucionais do Poder Legislativo;
+
+
+XIV –
+
+desenvolver ações motivacionais, por meio de palestras, atividades e políticas de relações humanas;
+
+
+XV –
+
+desenvolver atividades de treinamento, capacitação e de ambientação organizacional dos servidores em estágio probatório;
+
+
+XVI –
+
+desenvolver ações de preparo e programas de aposentadoria dos servidores;
+
+
+XVII –
+
+promover a valorização humana dos servidores, proporcionando bem- estar e qualidade de vida, por meio de ações e atividades.
+
+
+Art. 4º.
+
+A Escola do Legislativo Rudacy Alves Faria é diretamente subordinada à Mesa Diretora da Câmara Municipal de Espera Feliz.
+
+
+Parágrafo único
+
+A Escola do Legislativo terá autonomia organizativa, pedagógica e didática no planejamento, na execução e na avaliação de seus programas e atividades.
+
+
+Art. 5º.
+
+As funções administrativas serão fixadas posteriormente, conforme estrutura organizacional instituída no Regimento Interno da Escola do Legislativo e as funções de orientação serão desenvolvidas em colaboração, respectivamente com:
+
+
+I –
+
+Presidência: pelo Presidente da Câmara Municipal;
+
+
+II –
+
+Diretor da Escola do Legislativo;
+
+
+III –
+
+Conselho Geral: por um membro da Mesa Diretora do Legislativo, designado pelo Presidente; um membro da Comissão de Participação Popular, designado pela presidência da Comissão, pela Assessoria Jurídica da Câmara de Vereadores; pelo Diretor de Secretaria e pelo Diretor da Escola do Legislativo.
+
+
+Parágrafo único
+
+O projeto pedagógico da Escola do Legislativo será executado com o apoio da Associação Brasileira das Escolas do Legislativo e de Contas – ABEL.
+
+
+Art. 6º.
+
+A Mesa Diretora, no prazo de noventa dias, instituirá o Regimento Interno da Escola do Legislativo Rudacy Alves Faria.
+
+
+Art. 7º.
+
+A Escola do Legislativo integrará a Associação Brasileira das Escolas do Legislativo e de Contas – ABEL e as redes das escolas dos Legislativos do Estado de Minas Gerais.
+
+
+Art. 8º.
+
+As atividades da Escola do Legislativo serão executadas com apoio dos setores da Câmara Municipal, em especial:
+
+
+I –
+
+Diretoria de Secretaria;
+
+
+II –
+
+Assessoria de Comunicação;
+
+
+III –
+
+Assessoria Jurídica;
+
+
+IV –
+
+Setor de Tecnologia da Informação.
+
+
+Art. 9º.
+
+Para atender as despesas decorrentes desta Resolução serão usados recursos próprios do orçamento vigente, suplementados se necessário.
+
+
+Parágrafo único
+
+Fica criado dentro do orçamento da Câmara Municipal de Espera Feliz o programa/atividade Escola do Legislativo.
+
+
+Art. 10.
+
+Esta Resolução entra em vigor na data de sua publicação.
+
+
+Câmara Municipal, 22 de dezembrode2022.
+
+**Romolo Quintão Donadio**
+
+**Presidente do Legislativo**
+
+**Paulo Sergio Felipe**
+
+**Vice-Presidente**
+
+**Maria Izabel de Souza**
+
+**Secretária**
+

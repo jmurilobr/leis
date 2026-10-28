@@ -1,0 +1,35 @@
+{
+  "casos": 56,
+  "arquivos": [
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/congelar.py",
+      "sha256": "2fa6b5f336596126c44d0acb6ff8f8ae6faee5548fb636ac6846202a918b8bdb",
+      "bytes": 10372
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+      "sha256": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+      "bytes": 300786
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/publicados32.paths.txt",
+      "sha256": "787d3915bd3d12ce4fb5a5e7753087d5173cc096d35345f2385f05f6c8e72a7e",
+      "bytes": 1440
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/privados24.paths.txt",
+      "sha256": "ac349e94f02e7b006af52466449fd1f50d3f8de24f17c9ac315da6a09ae9dda5",
+      "bytes": 1080
+    }
+  ],
+  "fontes_referenciadas": [
+    {
+      "path": "federal/_fonte/auditorias/inventario_objetos_tecnicos1347_20261027_001/fontes_contextos.jsonl.gz",
+      "sha256": "4dad9c9c18b64e98576e0aed34a02d73042f9ccc32f545ba11b31658f26319ba"
+    },
+    {
+      "path": "federal/_fonte/auditorias/inventario_objetos_tecnicos1347_20261027_001/revisao_estratos56.json",
+      "sha256": "f976b0ab2fa07bf3565d4721e966590073ec1445f5d6cb2b65f3744dcce39c62"
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+---
+titulo: "LEI ORDINÁRIA-CMC nº 1.536, de 16 de abril de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "1536"
+data: "2024-04-16"
+municipio: "Claraval"
+uf: "MG"
+codigo_ibge: "3116407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.claraval.mg.leg.br/norma/1425"
+fonte_texto: "https://sapl.claraval.mg.leg.br/ta/703/text"
+sha256_fonte: "f32fb0205928dd0efd5346c436c33785fe5fdef8adc98a787fe13a325a8e9e23"
+sha256_texto: "baa31b7c8f343830ee105432b733f2d8c7ae20423e66710728aca89cb2f37c3e"
+capturado_em_fonte: "2026-10-27T22:44:38.879158-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA-CMC nº 1.536, de 16 de abril de 2024
+
+"Institui a Ouvidoria da Câmara Municipal de Claraval e dá outras providências."
+
+
+O Prefeito do Município de Claraval, MG, Luiz Gonzaga Cintra, no uso de suas atribuições legais, faz saber que a Câmara Municipal APROVOU e eu SANCIONO a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituída a Ouvidoria da Câmara Municipal de Claraval, como meio de interlocução com a sociedade, constituindo-se em um canal aberto para o recebimento de solicitações, informações, reclamações, sugestões, críticas, elogios e quaisquer outros encaminhamentos relacionados às suas atribuições e competências.
+
+
+Art. 2º.
+
+Compete à Ouvidoria da Câmara Municipal de Claraval:
+
+
+I –
+
+receber, analisar e encaminhar às autoridades competentes as manifestações, acompanhando o tratamento e a efetiva conclusão das manifestações de usuários dirigidas à Câmara Municipal;
+
+
+II –
+
+organizar os canais de acesso do cidadão à Câmara Municipal, simplificando procedimentos e promovendo a participação dos usuários, orientando os cidadãos sobre os meios de formalização de manifestações dirigidas à Ouvidoria;
+
+
+III –
+
+fornecer informações, material educativo e orientar os cidadãos quando as manifestações não forem de competência da Ouvidoria da Câmara Municipal;
+
+
+IV –
+
+responder aos cidadãos e entidades quanto às providências adotadas em face de suas manifestações;
+
+
+V –
+
+acompanhar a prestação dos serviços, propondo o aperfeiçoamento e auxiliando a Câmara Municipal na prevenção e na tomada de medidas necessárias à regularidade dos trabalhos ou sanando eventuais violações, ilegalidades e abusos constatados;
+
+
+VI –
+
+auxiliar na divulgação dos trabalhos da Câmara Municipal, dando conhecimento dos mecanismos de participação social.
+
+
+Art. 3º.
+
+Fica criada no quadro de servidores da Câmara Municipal da Claraval, a função gratificada de Ouvidor, que será exercida por um servidor do quadro efetivo de pessoal do Legislativo Municipal, que possua formação em nível superior, e que exercerá as funções cumulativamente com as atribuições de seu cargo efetivo.
+
+
+Parágrafo único
+
+A função gratificada descrita no caput deste artigo não constitui cargo e será considerada como vantagem acessória ao vencimento do servidor que exercê-la.
+
+
+Art. 4º.
+
+A designação para a função de Ouvidor da Câmara Municipal, será através de Ato da Presidência por meio de Portaria.
+
+
+Art. 5º.
+
+Ao servidor designado para a função de Ouvidor, será concedida gratificação mensal por função de 30% (trinta por cento) do salário base seu cargo efetivo.
+
+
+Art. 6º.
+
+O Ouvidor, para o exercício de suas funções, terá as seguintes prerrogativas:
+
+
+I –
+
+requisitar informações às unidades e servidores da Câmara Municipal;
+
+
+II –
+
+solicitar documentos necessários ao desenvolvimento de suas atribuições, por intermédio da Presidência da Câmara Municipal.
+
+
+§ 1º
+
+As unidades e servidores da Câmara Municipal terão prazo de 15 (quinze) dias para responder às solicitações encaminhadas pela Ouvidoria, prazo este que poderá ser prorrogado em função da complexidade do assunto.
+
+
+§ 2º
+
+O descumprimento do prazo ou a ausência de resposta deverá ser comunicado ao Presidente da Câmara Municipal.
+
+
+Art. 7º.
+
+São atribuições do Ouvidor:
+
+
+I –
+
+exercer suas funções com independência e autonomia, visando garantir o direito de manifestação dos cidadãos;
+
+
+II –
+
+recomendar a correção de procedimentos administrativos;
+
+
+III –
+
+sugerir, quando cabível, a adoção de providências ou apuração de atos considerados irregulares ou ilegais;
+
+
+IV –
+
+determinar, de forma fundamentada, o encerramento de manifestações;
+
+
+V –
+
+manter sigilo, quando solicitado, sobre os dados dos usuários dos serviços da Ouvidoria;
+
+
+VI –
+
+promover estudos e pesquisas objetivando o aprimoramento da prestação de serviços da Ouvidoria;
+
+
+VII –
+
+solicitar à Presidência da Câmara o encaminhamento de procedimentos às autoridades competentes;
+
+
+VIII –
+
+solicitar informações quanto ao andamento de procedimentos iniciados por ação da Ouvidoria;
+
+
+IX –
+
+elaborar relatório anual das atividades da Ouvidoria para encaminhamento à Mesa, disponibilizando-os integralmente na internet para conhecimento dos cidadãos;
+
+
+X –
+
+propor ao Presidente da Câmara Municipal a elaboração de palestrar, seminários e eventos técnicos com temas relacionados às atividades da Ouvidoria.
+
+
+Parágrafo único
+
+Os relatórios mencionados no inciso IX deste artigo deverão conter, ao menos:
+
+
+I –
+
+o número de manifestações recebidas;
+
+
+II –
+
+os motivos das manifestações;
+
+
+III –
+
+a análise dos pontos recorrentes; e
+
+
+IV –
+
+as providências adotadas pela Câmara Municipal nas soluções apresentadas.
+
+
+Art. 8º.
+
+A Ouvidoria encaminhará resposta ao cidadão no prazo máximo de 15 (quinze) dias, a contar do recebimento da manifestação, informando as providências e encaminhamentos adotados.
+
+
+Parágrafo único
+
+O prazo mencionado no "caput" poderá ser prorrogado de acordo com a complexidade do assunto, sendo o cidadão devidamente informado sobre a prorrogação.
+
+
+Art. 9º.
+
+A Câmara Municipal garantirá o acesso do cidadão à Ouvidoria por meio de canais de comunicação ágeis e eficazes, tais como:
+
+
+I –
+
+acesso exclusivo à Ouvidoria por meio de página eletrônica da Câmara, contendo formulário específico para o registro de manifestações;
+
+
+II –
+
+telefone;
+
+
+III –
+
+serviço de atendimento pessoal.
+
+
+Art. 10.
+
+A Câmara Municipal de Claraval dará ampla divulgação da existência da Ouvidoria e suas respectivas atividades pelos meios de comunicação utilizados pela Casa.
+
+
+Art. 11.
+
+A Câmara Municipal assegurará recursos humanos, estruturais e financeiros necessários ao desempenho das atividades da Ouvidoria.
+
+
+Art. 12.
+
+A Mesa da Câmara Municipal baixará atos complementares necessários ao desempenho das atividades da Ouvidoria.
+
+
+Art. 13.
+
+A função gratificada de Ouvidor fica inserida no organograma funcional da Câmara Municipal.
+
+
+Art. 14.
+
+As despesas decorrentes da execução da presente Lei correrão por conta das dotações próprias do orçamento vigente, suplementadas se necessário.
+
+
+Art. 15.
+
+Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+Claraval, MG, 16 de abril de 2024.
+
+**LUIZ GONZAGA CINTRA**
+
+Prefeito Municipal
+

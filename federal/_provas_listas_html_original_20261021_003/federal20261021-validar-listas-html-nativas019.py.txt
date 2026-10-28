@@ -1,0 +1,24 @@
+from pathlib import Path
+from html.parser import HTMLParser
+import json,sys,gzip,re,hashlib,datetime
+sys.path.insert(0,'scripts');from estados import pe_fidelidade_visivel as v
+from auditar_pontuacao_federal import contexto_numerico
+from identidade_decreto import extrair_epigrafe_decreto,numero_normalizado
+from preparar_lote_decretos_cache import fields
+from integridade_html_federal import Visivel
+import auditar
+sha=lambda b:hashlib.sha256(b).hexdigest()
+class Lists(HTMLParser):
+ def __init__(self):super().__init__();self.events=[]
+ def handle_starttag(self,t,a):
+  if t in ['ol','ul','li']:self.events.append(('inicio',t,tuple(sorted(a))))
+ def handle_endtag(self,t):
+  if t in ['ol','ul','li']:self.events.append(('fim',t))
+B=Path('federal');rows=json.load(open(B/'_candidatos_listas_html_original_20261021_003.json'))['registros'];rs={r['path']:r for r in json.load(open('/tmp/federal20261021-listas-html-original-003-render-output.json'))['registros']};proof=[]
+for r in rows:
+ src=gzip.open(r['fonte_html_cache'],'rt').read();norm=src
+ for q in sorted(r['marcadores_administrativos_excluidos'],key=lambda q:q['inicio'],reverse=True):assert src[q['inicio']:q['fim']]==q['paragrafo_html'];norm=norm[:q['inicio']]+q['prefixo_literal_preservado']+q['sufixo_literal_preservado']+norm[q['fim']:]
+ a=v.texto_visivel_html(norm);b=v.texto_visivel_html(rs[r['path']]['html']);assert a==b and v.assinatura_numerica(a)==v.assinatura_numerica(b) and contexto_numerico(a)==contexto_numerico(b);sp=Visivel();sp.feed(norm);mp=Visivel();mp.feed(rs[r['path']]['html']);assert sp.structure==mp.structure and not sp.visual and not mp.visual;ls=Lists();ls.feed(norm);lm=Lists();lm.feed(rs[r['path']]['html']);assert ls.events==lm.events;raw=Path(r['candidato']).read_bytes();assert sha(raw)==r['sha256_candidato'];meta,_,body=fields(raw.decode());ep=extrair_epigrafe_decreto('\n\n'.join(v.texto_visivel_html(p) for p in re.findall(r'<p\b[^>]*>[\s\S]*?</p>',body,re.I)[:8]));assert ep and ep['numero']==numero_normalizado(meta['numero']) and ep['data']==meta['data'];e,w=auditar.validar(raw.decode(),r['path'],datetime.date.today());assert not e and not w;proof.append(dict(r,epigrafe_propria_HTML=ep,epigrafe_metodo='Texto visível dos primeiros oito parágrafos p, preservando limites; não usa citações do articulado.',texto_pontuacao_numeros_contextos_iguais=True,ol_ul_li_atributos_preservados=ls.events,estrutura_tabelas_igual=True,sha256_render_html=sha(rs[r['path']]['html'].encode()),render_html=rs[r['path']]['html']))
+p=B/'_auditoria_listas_html_original_20261021_003.json';p.write_text(json.dumps({'escopo':'Reprodução dos elementos HTML originais em duas normas com marcadores implícitos. Nenhuma lista foi achatada; todos os atributos, incluindo type/start/value/style, são confrontados com o HTML renderizado por marked 17.0.5 GFM.','registros':proof,'resumo':{'candidatos':2,'aprovados_replay':2,'erros_formato':0,'avisos_formato':0},'limite':'Não certifica outra edição; candidatos privados para revisão ROOT.'},ensure_ascii=False,indent=2)+'\n');D=B/'_provas_listas_html_original_20261021_003';D.mkdir(exist_ok=False)
+for src in ['/tmp/federal20261021-preservar-HTML-listas-nativas019.py','/tmp/federal20261021-validar-listas-html-nativas019.py','/tmp/federal20261020-render-commonmark.mjs']:(D/(Path(src).name+'.txt')).write_bytes(Path(src).read_bytes())
+ps=[str(p),str(B/'_candidatos_listas_html_original_20261021_003.json'),str(B/'_receipts_listas_html_original_20261021_003.jsonl.gz')]+[r['candidato'] for r in rows]+[str(p) for p in D.iterdir()];Path('/tmp/federal20261021-listas-html-original-003-paths.txt').write_text('\n'.join(ps)+'\n');Path('/tmp/federal20261021-listas-html-original-003-hashes.json').write_text(json.dumps([{'path':p,'sha256':sha(Path(p).read_bytes())} for p in ps],indent=2)+'\n');print('congelados',len(ps))

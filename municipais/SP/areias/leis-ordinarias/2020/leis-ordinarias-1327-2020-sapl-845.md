@@ -1,0 +1,76 @@
+---
+titulo: "Lei Ordinária nº 1.327, de 28 de janeiro de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1327"
+data: "2020-01-28"
+municipio: "Areias"
+uf: "SP"
+codigo_ibge: "3503505"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.areias.sp.leg.br/norma/845"
+fonte_texto: "https://sapl.areias.sp.leg.br/ta/29/text"
+sha256_fonte: "c35b2591ab9fd70d24db38468cc0c29eb55ef2f0acd5f46adfa976a0ca048e34"
+sha256_texto: "7faaae04c4c3fd9abbbff2b107dc309b52aba650ede830272ec8fc6bbd49437b"
+capturado_em_fonte: "2026-10-27T16:58:58.300454-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.327, de 28 de janeiro de 2020
+
+**"DISPÕE SOBRE A ABERTURA DE CRÉDITO ESPECIAL À LEI ORÇAMENTÁRIA ANUAL DO MUNICÍPIO DE AREIAS PARA O EXERCÍCIO DE 2020. "**
+
+
+**PAULO HENRIQUE DE SOUZA COUTINHO**, Prefeito Municipal de Areias, Estado de São Paulo, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sancionou a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Executivo Municipal de Areias autorizado a realizar a abertura de Crédito Especial no valor de R$ 435.000,00 (quatrocentos e trinta e cinco mil reais), nos moldes dos artigos 41, II, 42 e 43 da Lei 4.320/64, sob as seguintes classificações:  
+**ORGÃO:** 11 - SECRETARIA MUNICIPAL DE FINANÇAS  
+**UNIDADE:** 01 - SECRETARIA MUNICIPAL DE FINANÇAS  
+**FUNÇÃO:** 04 - Administração  
+**SUBFUNÇÃO:** 123 — Administração Financeira  
+**PROGRAMA:** 0003 — GESTÃO E CONTROLE DAS FINANÇAS PÚBLICAS  
+**AÇÃO:** 2.064 — APLICAÇÃO DOS RECURSOS ORIUNDOS DO PRÉ-SAL  
+**CATEGORIA ECÔNOMICA:** 3.1.90.13.00 — Obrigações patronais .........................................R$ 265.000,00  
+**VALOR TOTAL -** R$ 265.000,00  
+**FONTE DE RECURSOS -05.110 ORGÃO:** 05 - SECRETARIA MUNICIPAL DE SAÚDE E FINANCIAMENTO  
+**UNIDADE:** 01 - FUNDO MUNICIPAL DE SAUDE  
+**FUNÇÃO:** 10 - Saúde  
+**SUBFUNÇÃO:** 301 — Atenção Básica  
+**PROGRAMA:** 0006 — PROMOÇÃO À SAÚDE DE QUALIDADE  
+**AÇÃO:** 1.055 — APLICAÇÃO DOS RECURSOS ORIUNDOS DO PRÉ-SAL  
+**CATEGORIA ECONÔMICA:** 4.4.90.52.00 — Equipamentos e Material Permanente R$ 170.000,00 r  
+**VALOR TOTAL -** R$ 170 000,00  
+**FONTE DE RECURSOS- 05.301**
+
+
+Art. 2º.
+
+O presente Crédito Adicional será coberto com saldo dos recursos do Leilão dos Campos do Pré-Sal.
+
+
+Art. 3º.
+
+O presente Crédito Adicional será incluído na programação das ações contidas no PPA e na LDO do presente exercício.
+
+
+Art. 4º.
+
+A presente lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Areias, 28 de janeiro de 2020.
+
+**PAULO HENRIQUE DE SOUZA COUTINHO**  
+Prefeito Municipal
+
+Publicado por ediatais, na data supra.  
+  
+José Aroldo Goçalves Pimentel  
+Chefe de Cadastro e Tributação
+

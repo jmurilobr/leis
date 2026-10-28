@@ -1,0 +1,369 @@
+---
+titulo: "Lei nº 3.713, de 20 de novembro de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3713"
+data: "2017-11-20"
+municipio: "Congonhas"
+uf: "MG"
+codigo_ibge: "3118007"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.congonhas.mg.leg.br/norma/7209"
+fonte_texto: "https://sapl.congonhas.mg.leg.br/ta/4181/text"
+sha256_fonte: "d6d2ec0cb3d4b1c4327b4573179da4df2ecd22a40c6eff45c6957d6670085777"
+sha256_texto: "963d098539867634c287afeacc7f2d6fe74b5032f644f84a7221a5a08221e4e7"
+capturado_em_fonte: "2026-10-27T23:26:15.888712-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 3.713, de 20 de novembro de 2017
+
+POLÍTICA MUNICIPAL DE ESTÍMULO AO EMPREENDEDORISMO DIGITAL E AO DESENVOLVIMENTO DE STARTUPS, E DE EMPRESAS DE INOVAÇÃO E BASE TECNOLÓGICA NA CIDADE DE CONGONHAS
+
+
+A Câmara Municipal de Congonhas, Estado de Minas Gerais, decreta e eu, Prefeito promulgo e sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DA POLITICA MUNICIPAL DE ESTIMULO AO EMPREENDORISMO DIGITAL E AO DESENVOLVIMENTO DE STARTUPS E EMPRESAS DE INOVAÇAO E BASE TECNOLÓGICA
+
+
+Art. 1º.
+
+Fica instituída a Política Municipal de Estímulo ao Empreendedorismo Digital e ao Desenvolvimento de Startups e empresas de inovação e base tecnológica na cidade de Congonhas - INOVATEC CONGONHAS.
+
+
+Art. 2º.
+
+A política Inovatec Congonhas tem como objetivos:
+
+
+I –
+
+estimular a cultura da inovação e do empreendedorismo tecnológico e digital, apoiando a criação e o desenvolvimento de startups, espaços abertos de fabricação digital e empresas de inovação e de base tecnológica, inclusive na gestão, em seus diferentes estágios de crescimento;
+
+
+II –
+
+promover a atratividade, geração de valor, competitividade e desenvolvimento econômico sustentável, de empresas do setor de tecnologia e inovação;
+
+
+III –
+
+desenvolver e consolidar ecossistemas de empreendedores digitais e de empresas de inovação e base tecnológica na cidade de Congonhas, fomentando e mantendo empresas de alto potencial de crescimento e potencializando o ambiente de interação, troca e cooperação entre os diversos atores.
+
+
+Art. 3º.
+
+Para fins desta lei consideram-se:
+
+
+I –
+
+setor de Tecnologia da Informação e Comunicação - TIC: combinação de atividades industriais, comerciais e de serviços, que contemplem tanto dispositivos, equipamentos e produtos de consumo, com soluções digitais embarcadas, quanto a captura eletrônica, transmissão e disseminação de dados e informação, bem como comercialização de equipamentos e produtos intrinsecamente vinculados e esse processo;
+
+
+II –
+
+startups: pessoa física ou grupo de pessoas com pretensão de constituir empresa e pessoas jurídicas, cujo faturamento anual seja inferior a R$3,6 milhões ( três milhões e seiscentos mil reais) e possuam menos de 5 (cinco)anos de existência, que possuam dispositivos, aparelhos, sistemas físicos complexos, processos ou serviços que utilizem software ou serviços de TIC como elementos do seu esforço de inovação, buscando atingir um modelo de negócios repetível, escalável e inserido no mercado;
+
+
+III –
+
+aceleradoras: pessoas jurídicas dedicadas ao processo de apoio a projetos de empreendedores e startups, ligadas a atividade de seleção, investimento financeiro, acompanhamento e aconselhamento técnico, jurídico e mercadológico e aproximação dos empreendedores e startups a potenciais clientes e investidores;
+
+
+IV –
+
+ecossistemas de startups e empreendedorismo criativo: conjunto de atores relacionados às cadeias produtivas de diferentes setores da economia, tais como aceleradoras, startups, investidores, gestores de fundos de investimento, agências governamentais de apoio ao empreendedorismo e à inovação, iniciativas governamentais, incubadoras, consultorias, associações, nacionais ou internacionais, centro de formação de recursos humanos, dentre outros;
+
+
+V –
+
+pré-aceleração: conjunto de atividades relacionadas ao acompanhamento e aconselhamento a startups e empreendedores digitais em fase inicial de desenvolvimento, por tempo determinado, nos aspectos técnicos, jurídicos e mercadológicos, visando auxiliá-los na modelagem de negócio, realização de protótipos e versão de testes de mercado, pesquisa com clientes e outras atividades de educação para desenvolvimento de negócios, bem como a aproximação com o ecossistema de startups, podendo envolver, inclusive, a realização de incentivos financeiros e projetos previamente selecionados;
+
+
+VI –
+
+aceleração: refere-se às ações voltadas para startups e empreendedores digitais que passaram pelo estágio inicial de desenvolvimento, nas quais aceleradoras e incubadoras coordenam atividades de acompanhamento e aconselhamento na gestão do negócio, posicionamento estratégico e plano de vendas, dentre outros, visando auxiliá-las no crescimento sustentado, bem como, promovem a aproximação com potenciais investidores, podendo, inclusive, realizar investimentos;
+
+
+VII –
+
+investidor anjo: pessoa física que investe em startups e empreendedores digitais mediante aporte da capital financeiro, conhecimento e experiência;
+
+
+VIII –
+
+espaço aberto de fabricação digital (espaço maker): espaço de colaboração para fazer, aprender e explorar por meio do uso de máquinas e ferramentas digitais e mecânicas, tais como: impressora 3D, corte a lazer, CNC e estação de eletrônica.
+
+
+Art. 4º.
+
+As ações estruturantes da Política Inovatec Congonhas deverão ser objeto de programa específicos contemplando, dentre outros:
+
+
+I –
+
+investimentos: promover ações de fomento, utilizando os diversos mecanismos de apoio disponíveis, de modo a prover fontes adequadas de financiamento, inclusive de natureza não reembolsável, bem como fortalecimento de capital de risco, para a formação de empresas ou rede de empresas inovadoras;
+
+
+II –
+
+recursos humanos: incentivar a formação e capacitação de recursos humanos, estimulando o desenvolvimento de centros de formação de alto desempenho;
+
+
+III –
+
+promoção: realizar ações promocionais na cidade de Congonhas com o objetivo de aumentar a visibilidade, atratividade, geração de negócios, novos investimentos, bem como de fortalecer o ecossistema de startups, mediante atração e retenção de investidores, aceleradoras, acadêmicos, programadores e empreendedores de alto potencial;
+
+
+IV –
+
+governo aberto: promover práticas de transparência, acesso à informação, inovação tecnológica e participação social.
+
+
+§ 1º
+
+As ações que envolverem a realização de gastos públicos pelo Município de Congonhas deverão, quanto ao planejamento e administração orçamentários e financeiros, observar as disposições de Lei Complementar nº 101, de 4 de maio de 2004, Lei Federal 4.320, de 17 de março de 1964 e das leis orçamentárias vigentes.
+
+
+§ 2º
+
+A presente Lei observará, no que tange a seus princípios, regras e diretrizes, para fins de interpretação e aplicação, a disciplina já constante da Lei Federal nº 10.973/2004, da Lei Federal nº 13.243/2006 e da Lei Complementar Federal nº 155/2016, devendo os termos de ajuste, cooperação, contrato, convênio ou instrumento congênere fazer menção expressa à legislação nacional regente da matéria (art. 55, XII e art. 116 da Lei nº 8.666/93).
+
+
+Art. 5º.
+
+Sem prejuízo de outros programas e ações específicos, que estejam em consonância com a Política de Desenvolvimento Econômico Sustentável do Município de Congonhas a Inovatec Congonhas incluirá:
+
+
+I –
+
+hackatonas: eventos realizados pela Administração, sob responsabilidade das Secretarias Municipais ligadas aos respectivos temas, reunindo agentes políticos, empreendedores, programadores, conselhos municipais e outros interessados, com o objetivo de buscar soluções tecnológicas para resolver problemas urbanos em áreas como mobilidade, saúde, educação e outras, mediante acesso à base de dados públicos, nos termos da lei;
+
+
+II –
+
+Programa para a Valorização de Iniciativas Tecnológicas, sob responsabilidade da Secretaria Municipal do Desenvolvimento Sustentável, voltado para apoiar financeiramente atividades inovadoras;
+
+
+III –
+
+Programa de Fomento e Pré-Aceleração de Startups e Empreendimentos Digitais, sob responsabilidade da Secretaria Municipal de Desenvolvimento Sustentável, voltado para apoiar startups em estágio inicial e novos empreendimentos, que desenvolvam produtos ou serviços inovadores, utilizando e embarcando software ou serviços de TIC como elementos do seu esforço de inovação;
+
+
+IV –
+
+Programa de Apoio a Aceleração as Startups, empreendimentos digitais e de empresas de inovação e base tecnológica sob responsabilidade da Secretaria de Desenvolvimento Sustentável, mediante conjunto de ações estratégicas que visem potencializar o crescimento de startups e empreendimentos emergentes que passaram pelo estágio de desenvolvimento, podendo compreender, dentre outras iniciativas, formação de parcerias com atores do ecossistema de startups e inovação, incluindo convênios, acordos e outros ajustes, de natureza financeira ou não, com órgãos entidades da administração pública direta ou indireta de qualquer esfera de governo que já desenvolvem ou venham a desenvolver programas correlatos, fundações de apoio, agências de fomento e entidades privadas sem fins lucrativos, visando a realização de projeto, atividade, serviço, aquisição de bens ou evento de interesse recíproco, em regime de mútua cooperação compatível com programa municipal;
+
+
+V –
+
+Programa de Apoio à Capitalização de Startups e Empreendimentos Digitais, sob responsabilidade da Secretaria Municipal de Desenvolvimento Sustentável, compreendendo ações e parcerias voltadas a facilitar a obtenção de capital de risco em instituições financeiras públicas ou privadas, bancos de desenvolvimentos, empresas públicas que promovem o desenvolvimento econômico e social, sociedades e fundos de financiamento e investimento específicos, bem como ações que visem aumentar a base de investidores anjos na Cidade de Congonhas;
+
+
+VI –
+
+criação de um Espaço Maker na cidade, com infraestrutura para prototipagem digital.
+
+
+#### CAPÍTULO II — DO PROGRAMA DE FOMENTO E PRÉ-ACELERAÇÃO DE STARTUPS E EMPREENDIMENTOS DIGITAIS NO MUNICÍPIO DE CONGONHAS-MG
+
+
+Art. 6º.
+
+Fica criado o Programa de Fomento e Pré-Aceleração dos Startups, Empreendimentos Digitais e Empresas de Inovação de base tecnológica no Município, sob a responsabilidade da Secretaria Desenvolvimento Sustentável, com o objetivo de fomentar startups e empresas inovadoras e de base tecnológica que desenvolvam produtos ou serviços inovadores.
+
+
+Art. 7º.
+
+A execução do Programa poderá compreender, dentre outras ações:
+
+
+I –
+
+disponibilização de espaço de trabalho compartilhado e espaço para reuniões e eventos;
+
+
+II –
+
+compartilhamento de laboratórios, equipamento, instrumentos, materiais e demais instalações municipais com startups, microempresas, empresas de pequeno porte e organizações públicas ou privadas sem fins lucrativos voltadas para atividades de empreendedorismo e inovação tecnológica, desde que compatível com as finalidades da Política Inovatec Congonhas;
+
+
+III –
+
+acompanhamento e aconselhamento técnico, gerencial e estratégico;
+
+
+IV –
+
+promoção de eventos, cursos e oficinas voltados para o desenvolvimento de negócios, disseminação de tecnologias, capacitação de empreendedores e programadores, integração e aproximação com o ecossistema de startups, abertos a comunidade sempre que possível;
+
+
+V –
+
+apoio financeiro aos projetos abrangidos pelo Programa, nos termos da legislação em vigor;
+
+
+VI –
+
+estabelecimento de parcerias com órgãos e entidades da Administração Pública Federal, estadual ou municipal, instituições de ensino ou entidades privadas, com ou sem fins lucrativos, para o desenvolvimento de iniciativas consonantes ao objetivo do Programa, nos termos da lei;
+
+
+VII –
+
+promoção de ações e parcerias voltadas a facilitar a obtenção de crédito e de capital de risco por parte de startups.
+
+
+§ 1º
+
+A disponibilização de espaços a que se refere o inciso I do “caput” deste artigo poderá envolver próprios municipais, a título precário, mediante a elaboração do respectivo termo de permissão de uso e observados os requisitos legais.
+
+
+§ 2º
+
+A concessão do apoio financeiro de que trata o inciso V do “caput” deste artigo será precedida de edital de seleção de projetos e formalizada em instrumento jurídico adequado, com a assunção da contrapartida correspondente pelo beneficiado, a ser definida pelo Poder Público em edital e nos instrumentos de ajuste específicos.
+
+
+§ 3º
+
+Os projetos serão analisados e julgados, pelo comitê avaliador, observando-se o seguinte:
+
+
+I –
+
+aderência ao programa e atendimento às condições estabelecidas no edital de seleção;
+
+
+II –
+
+equipe, histórico e trajetória empreendedora, dedicação, capacidade técnica, conhecimento e experiência sobre o setor de atuação do negócio;
+
+
+III –
+
+viabilidade técnica e econômica, oportunidade, diferencial competitivo, grau de inovação, potencial de crescimento e de impacto no ecossistema local.
+
+
+§ 4º
+
+O comitê avaliador de que trata o § 3°deste artigo será composto por 09 (nove) membros:
+
+
+I –
+
+1/3 (um terço) de agentes públicos: SEPLAN, SDS, SEMED;
+
+
+II –
+
+1/3 (um terço) instituições de ensino técnico e superior;
+
+
+III –
+
+1/3 (um terço) de representantes da iniciativa privada ligados à área a que se destina o objeto do edital.
+
+
+Art. 8º.
+
+O Programa poderá ser executado diretamente ou mediante colaboração, cooperação, auxílio, apoio ou assistência, no todo ou em parte, de qualquer das pessoas previstas no inciso VI do “caput” do art. 7º desta lei.
+
+
+§ 1º
+
+A execução operacional do Programa será transferida para entidade sem fins lucrativos ou instituição de ensino, através de edital de chamamento público ou celebração de convênio, ajuste ou instrumento formal congênere, nos termos da legislação municipal vigente.
+
+
+§ 2º
+
+A entidade sem fins lucrativos ou instituição de ensino que receber recursos públicos do Município para execução do Programa de Fomento e Pré-aceleração de startups no município de Congonhas ficará submetida ao controle e à fiscalização dos órgãos municipais de controle interno e externo, nos termos da lei.
+
+
+§ 3º
+
+O edital do chamamento público previsto no § 1º deste artigo especificará:
+
+
+I –
+
+a programação orçamentária que autoriza e fundamenta a celebração da parceria;
+
+
+II –
+
+os termos do convênio e objeto da parceria;
+
+
+III –
+
+as datas, os prazos, as condições, o local e a forma de apresentação das propostas;
+
+
+IV –
+
+as datas e os critérios objetivos de seleção e julgamento das propostas, inclusive no que se refere à metodologia de pontuação e ao peso atribuído a cada um dos critérios estabelecidos, se for o caso;
+
+
+V –
+
+o valor previsto para a realização do objeto;
+
+
+VI –
+
+a vigência de que a entidade sem fins lucrativos tenha:
+
+
+a)
+
+tempo mínimo de existência compatível com a complexidade e natureza do programa, comprovados por meio de documentação emitida pela secretaria da Receita Federal do Brasil, com base no Cadastro Nacional de Pessoa Jurídica – CNPJ;
+
+
+b)
+
+experiência prévia na realização, com efetividade, do objeto da parceria ou de natureza semelhante;
+
+
+c)
+
+capacidade técnica e operacional para o desenvolvimento das atividades previstas e o cumprimento de metas estabelecidas.
+
+
+§ 4º
+
+A aquisição de produtos e a contratação de serviços com recursos transferidos pelo Município de Congonhas a entidades privadas sem fins lucrativos deverão observar os princípios da legalidade, da moralidade, da boa-fé, da probidade, da impessoalidade, da economicidade, da eficiência, da isonomia, da publicidade, da razoabilidade e do julgamento objetivo, além da busca permanente de qualidade e durabilidade.
+
+
+§ 5º
+
+O convênio ou instrumento jurídico congênere firmado entre o Município de Congonhas e o terceiro, entidade pública ou privada com ou sem fim lucrativo, definirá o destino que será dado aos bens remanescentes adquiridos com recursos transferidos pelo Município, nos termos do § 4º deste artigo.
+
+
+#### CAPÍTULO III — DISPOSIÇÕES GERAIS
+
+
+Art. 9º.
+
+O Prefeito poderá expedir normas complementares para garantir o fiel cumprimento desta Lei.
+
+
+Art. 10.
+
+As despesas decorrentes da execução desta Lei correrão por conta das dotações próprias, consignadas no orçamento de cada exercício.
+
+
+Art. 11.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Congonhas, 20 de novembro de 2017.
+
+**JOSÉ DE FREITAS CORDEIRO,**
+
+**Prefeito de Congonhas**
+

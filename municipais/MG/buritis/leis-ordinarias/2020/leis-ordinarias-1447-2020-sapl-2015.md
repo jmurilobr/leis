@@ -1,0 +1,183 @@
+---
+titulo: "Lei nº 1.447, de 02 de setembro de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1447"
+data: "2020-09-02"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/2015"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/645/text"
+sha256_fonte: "ac1f72701cac45599c58044c5fe384363acf8c856535e6980f8998ee5fa0cdc8"
+sha256_texto: "bc9347e0ff2b3abae7b9f832a985947dcab079ead5172316f96c5e7cdf4bad35"
+capturado_em_fonte: "2026-10-27T19:51:03.100487-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.447, de 02 de setembro de 2020
+
+Dispõe sobre a criação de Gratificação Extraordinária de combate à COVID - 19 aos servidores e funcionários públicos da Secretaria de Saúde e de outras Secretarias por serviços essenciais prestados em exposição ao Coronavírus (COVID - 19)
+
+
+A Câmara Municipal de Buritis, Estado de Minas Gerais por seus representantes aprovou, e eu, PREFEITO MUNICIPAL, usando da atribuição que lhe confere o inciso VIII, do artigo 105 da Lei Orgânica Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituída a Gratificação Extraordinária de combate à COVID - 19, a ser paga aos servidores e funcionários públicos da Secretaria de Saúde e de outras Secretarias Municipais que prestem serviços essenciais que estejam expostos à contaminação pelo Coronavírus (COVID-19), no combate à pandemia do Coronavírus (COVID-19).
+
+
+Art. 2º.
+
+A Gratificação Extraordinária criada pelo artigo 1º será paga no meio de folha de pagamento complementar, mediante disponibilidade orçamentária e financeira da Prefeitura Municipal de Buritis.
+
+
+Art. 3º.
+
+Terão direito à Gratificação Extraordinária os servidores e funcionários públicos da Secretaria de Saúde ou de outras Secretarias que estejam efetivamente prestando serviços e estejam potencialmente expostos ao contágio pelo Coronavírus (COVID - 19), principalmente aqueles lotados nas Unidades Básicas de Saúde, Ambulatório e Unidade Mista de Saúde.
+
+
+§ 1º
+
+farão jus ao recebimento da Gratificação Extraordinária os servidores e funcionários que desempenham as seguintes funções:
+
+
+I –
+
+Médicos plantonistas da Unidade Mista de Saúde;
+
+
+II –
+
+Médico clínico geral do Ambulatório;
+
+
+III –
+
+Médicos da Unidades Básicas de Saúde;
+
+
+IV –
+
+Enfermeiros plantonistas na Unidade Mista de Saúde;
+
+
+V –
+
+Enfermeiros das Unidades Básicas de Saúde;
+
+
+VI –
+
+Técnicos de Enfermagem plantonistas da Unidade Mista de Saúde;
+
+
+VII –
+
+Técnicos de Enfermagem das Unidades Básicas de Saúde;
+
+
+VIII –
+
+Condutores de Ambulâncias;
+
+
+IX –
+
+Recepção de Unidade Mista de Saúde, das unidades Básicas de Saúde e do Ambulatório;
+
+
+X –
+
+Servidores e Funcionários que cuidam a limpeza da Unidade Mista de Saúde e das Unidades Básicas de Saúde;
+
+
+XI –
+
+Bioquímicos, Auxiliares de Laboratório ou Análise Clínicas que fazem coleta de material em pacientes na Unidade Mista de Saúde;
+
+
+XII –
+
+Odontólogos e Auxiliares;
+
+
+XIII –
+
+Fiscais Sanitários;
+
+
+XIV –
+
+Psicólogos, Fisioterapeutas e Fonoaudiólogos;
+
+
+XV –
+
+Gerente de Atenção Básica;
+
+
+XVI –
+
+Nutricionistas;
+
+
+XVII –
+
+Agente Comunitário de Saúde;
+
+
+XVIII –
+
+Assistente Social, e;
+
+
+XIX –
+
+Servidores Públicos lotados na Farmácia Pública Municipal.
+
+
+§ 2º
+
+Não poderão receber Gratificação Extraodinária os servidores lotados em cargos comissionados, salvo àqueles que a atribuição de cargo conste atendimento ao COVID-19 ou calamidade pública devidamente criadas por Lei.
+
+
+§ 3º
+
+Farão jus a Gratificação os funcionários e servidores que tenham que se afastar de suas funções por ter contraído COVID - 19 ou Síndrome Gripal, no exercício de suas funções, nos termos do regulamento.
+
+
+Art. 4º.
+
+O valor da gratificação será de 20% (vinte por cento) do vencimento do servidor ou funcionário público.
+
+
+Art. 5º.
+
+A importância concedida à título de Gratificação Extraordinária não será incorporada aos vencimentos ou salários para nenhum efeito e não será considerada para cálculo de qualquer vantagem pecuniária.
+
+
+Parágrafo único
+
+Os acréscimos pecuniários percebidos por servidor público nos termos desta Lei, não serão computados nem acumulados para fins de concessão de acréscimos ulteriores.
+
+
+Art. 6º.
+
+As despesas decorrentes da execução deste Lei correrão por conta de dotações orçamentárias constantes no orçamento vigente, e somente serão pagas com recursos recebidos pelo Município para o combate ao Coronavírus, suplementadas, se necessários.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação, para efeitos inicial de pagamento no mês de agosto de 20020 e até que se encerre o estado de calamidade decretado pelo Município, previsto para o mês de dezembro de 2020.
+
+
+**Dr. Keny Soares Rodrigues Prefeito Muricipal**
+
+Ref. à Proposição de Lei nº 13/20. De autoria do Executivo Municipal
+

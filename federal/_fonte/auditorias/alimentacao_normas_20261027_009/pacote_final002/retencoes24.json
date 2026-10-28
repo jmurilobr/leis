@@ -1,0 +1,1658 @@
+[
+  {
+    "path": "federal/decretos/1937/dec-1344-1937-01-04.md",
+    "urn": "urn:lex:br:federal:decreto:1937-01-04;1344",
+    "sha256_MD_candidato": "21e9e49a9472aa27bf199b149c80cb506b16334c212205558335cd416f7c55f1",
+    "sha256_canonico_ROOT_em_disco": "21e9e49a9472aa27bf199b149c80cb506b16334c212205558335cd416f7c55f1",
+    "sha256_HTML": "08459bed6b2a2b654a602bd1b608dff3d5efeef47aae0640b8689fee6897f0a0",
+    "sha256_API": "24caf3a1736fe58543bf5e54071bb63e6ac3d015bfd58653e4429ba38837cbcf",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1937/dec-1344-1937-01-04.md",
+      "lote": "748",
+      "sha256_MD_candidato": "21e9e49a9472aa27bf199b149c80cb506b16334c212205558335cd416f7c55f1",
+      "sha256_HTML_primario": "08459bed6b2a2b654a602bd1b608dff3d5efeef47aae0640b8689fee6897f0a0",
+      "sha256_API": "24caf3a1736fe58543bf5e54071bb63e6ac3d015bfd58653e4429ba38837cbcf",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/a0ccbda4-4768-4ce0-a61e-e675676d54a4/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 5,
+          "literal_integral": "**Artigo unico.** Ficam approvados, de conformidade com o disposto nas clausulas II e V do contracto celebrado em 21 de maio de 1935, as especificações e os orçamentos na importancia total de 2.790:719$000 (dois mil setecentos e noventa contos e setecentos e dezenove mil réis), do edificio do hangar da Pan American Airways, Inc., no Aeroporto “Santos Dumont”, os quaes com este baixam, rubricados pelo director geral de Expediente da Secretaria de Estado da Viação e Obras Publicas.",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, 4 de janeiro de 1937; 116º da Independencia e 49º da Republica.",
+      "conteudo_integral_apos_fecho": "GETULIO VARGAS.\n\nMarques dos Reis.\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "orcamento_total_com_remissao_documental_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1937-01-04;1344",
+        "data": "1937-01-04",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/a0ccbda4-4768-4ce0-a61e-e675676d54a4/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-28T00:13:45.134393+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/6a3986d42672ae7770d21b5e494d47ea00f7e620222886a17907ab31888b57b8.raw.gz",
+      "sha256_raw": "08459bed6b2a2b654a602bd1b608dff3d5efeef47aae0640b8689fee6897f0a0",
+      "bytes": 8156
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1937-01-04;1344&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-28T00:13:43.246553+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/761c4fa1020d03b2a991603ccd3e134bce94255c6c69b9487cf4e5cabba0a4d7.raw.gz",
+      "sha256_raw": "24caf3a1736fe58543bf5e54071bb63e6ac3d015bfd58653e4429ba38837cbcf",
+      "bytes": 2423
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  },
+  {
+    "path": "federal/decretos/1937/dec-1406-1937-01-22.md",
+    "urn": "urn:lex:br:federal:decreto:1937-01-22;1406",
+    "sha256_MD_candidato": "064a25b42d0e0c10b853da5f85cbf58a0251c1589c63015886e8f98148bc24d7",
+    "sha256_canonico_ROOT_em_disco": "064a25b42d0e0c10b853da5f85cbf58a0251c1589c63015886e8f98148bc24d7",
+    "sha256_HTML": "df19d6d25189a0f1396a919d5d11ded61040cff4fb977dd131f3b4b573d48b49",
+    "sha256_API": "2518e0d05fe96d6892abda3678195517f5d86b5b5d164277d8983686bb7b47a2",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1937/dec-1406-1937-01-22.md",
+      "lote": "748",
+      "sha256_MD_candidato": "064a25b42d0e0c10b853da5f85cbf58a0251c1589c63015886e8f98148bc24d7",
+      "sha256_HTML_primario": "df19d6d25189a0f1396a919d5d11ded61040cff4fb977dd131f3b4b573d48b49",
+      "sha256_API": "2518e0d05fe96d6892abda3678195517f5d86b5b5d164277d8983686bb7b47a2",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/0915faf9-013b-4df0-805a-248f436ebc2a/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Ficam approvados o projecto e o orçamento, na importância de 57:801$117 (cincoenta e sete contos oitocentos e um mil cento e dezesete réis), os quaes com este baixam, rubricados pelo director de Expediente da Secretaria de Estado da Viação e Obras Públicas, para construcção da estação “Immigração”, situada no kilometro 14,460 da linha de Barra, da Estrada de Ferro Sul de Minas, da Rêde Mineira de Viação.",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, 22 de janeiro de 1937; 116º da Independência e 49º da República.",
+      "conteudo_integral_apos_fecho": "GETÚLIO VARGAS.\n\nMarques dos Reis.\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "projeto_estudo_perfil_atual_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1937-01-22;1406",
+        "data": "1937-01-22",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/0915faf9-013b-4df0-805a-248f436ebc2a/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-28T00:12:43.655454+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/00026bc10a47016d8be3d6b05a6f3f67ef0a3ff1d8066be1f443f9bcc88da42a.raw.gz",
+      "sha256_raw": "df19d6d25189a0f1396a919d5d11ded61040cff4fb977dd131f3b4b573d48b49",
+      "bytes": 8560
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1937-01-22;1406&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-28T00:12:41.805811+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/3f9da4b51a034bbeff85be6fbebb8ab1da2cfb6b19d00c7ea4cdc9c0eacc2b65.raw.gz",
+      "sha256_raw": "2518e0d05fe96d6892abda3678195517f5d86b5b5d164277d8983686bb7b47a2",
+      "bytes": 2335
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  },
+  {
+    "path": "federal/decretos/1937/dec-1413-1937-01-23.md",
+    "urn": "urn:lex:br:federal:decreto:1937-01-23;1413",
+    "sha256_MD_candidato": "781c81b64e99aff125e7f91a242def0981dee2a928aef1c3a593a7d70ab76074",
+    "sha256_canonico_ROOT_em_disco": "781c81b64e99aff125e7f91a242def0981dee2a928aef1c3a593a7d70ab76074",
+    "sha256_HTML": "eee3909898e698dc1ff4f14015dac4cd7b63b296f8293d764982afc7050c856d",
+    "sha256_API": "838d65932e97bb30f2632089ca6882f5f4f11af7162897b65c39caf2f5312671",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1937/dec-1413-1937-01-23.md",
+      "lote": "748",
+      "sha256_MD_candidato": "781c81b64e99aff125e7f91a242def0981dee2a928aef1c3a593a7d70ab76074",
+      "sha256_HTML_primario": "eee3909898e698dc1ff4f14015dac4cd7b63b296f8293d764982afc7050c856d",
+      "sha256_API": "838d65932e97bb30f2632089ca6882f5f4f11af7162897b65c39caf2f5312671",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/b784c935-1387-4a48-870f-c059ee919a01/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Ficam aprovados o projeto e orçamento, na importância de 3:864$446 (três contos oitocentos e sessenta e quatro mil quatrocentos e quarenta e seis réis), os quais com este baixam, rubricados pelo diretor de Expediente da Secretaria de Estado da Viação e Obras Publicas, para construção de um estribo no quilometro 893+540, entre as estações Carlos Prates e Bernardo Monteiro, da linha de Belo Horizonte a Garças, da Estrada de Ferro Oeste de Minas, da Rede Mineira de Viação.",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, 23 de janeiro de 1937; 116º da Independência e 49º da Republica.",
+      "conteudo_integral_apos_fecho": "Getulio Vargas.\n\nMarques dos Reis.\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "projeto_estudo_perfil_atual_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1937-01-23;1413",
+        "data": "1937-01-23",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/b784c935-1387-4a48-870f-c059ee919a01/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-28T00:12:36.635469+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/5c28a9300ae023daaebb1742af62787440b19acd5c1f4eafdeb3bba320911e95.raw.gz",
+      "sha256_raw": "eee3909898e698dc1ff4f14015dac4cd7b63b296f8293d764982afc7050c856d",
+      "bytes": 8455
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1937-01-23;1413&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-28T00:12:34.756128+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/835ed6d644eaed56e3bb2780f1b1e9d23cffe6f0bb7b65cf30c64ca9486a1704.raw.gz",
+      "sha256_raw": "838d65932e97bb30f2632089ca6882f5f4f11af7162897b65c39caf2f5312671",
+      "bytes": 2321
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  },
+  {
+    "path": "federal/decretos/1937/dec-1761-1937-07-03.md",
+    "urn": "urn:lex:br:federal:decreto:1937-07-03;1761",
+    "sha256_MD_candidato": "c8ceae1781004cd84b1c3c5160f0533b2383a0adfa41e39addd3db97428705e2",
+    "sha256_canonico_ROOT_em_disco": "c8ceae1781004cd84b1c3c5160f0533b2383a0adfa41e39addd3db97428705e2",
+    "sha256_HTML": "90df91714031ebf4106f8f05fd9ebf698097e65ec79d37b58f335113bb48d7c8",
+    "sha256_API": "01461b64ac86c436b2f3f44023f8cbaf5e20c83637ba7866a6162a2e01496bc9",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1937/dec-1761-1937-07-03.md",
+      "lote": "748",
+      "sha256_MD_candidato": "c8ceae1781004cd84b1c3c5160f0533b2383a0adfa41e39addd3db97428705e2",
+      "sha256_HTML_primario": "90df91714031ebf4106f8f05fd9ebf698097e65ec79d37b58f335113bb48d7c8",
+      "sha256_API": "01461b64ac86c436b2f3f44023f8cbaf5e20c83637ba7866a6162a2e01496bc9",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/510aad3a-bda1-4add-9f0e-85e5be9dbbaf/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único**. Ficam aprovados o projeto e orçamento, relativos aos melhoramentos do pôrto fluvial \"Pôrto Esperança\", à margem do rio Paraguai, no Estado de Mato Grosso, os quais foram organizados pelo Departamento Nacional de Portos e Navegação e com êste baixam rubricados pelo Diretor de Expediente, interino, da Secretaria de Estado da Viação e Obras Publicas.",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, 3 de julho de 1937, 116º da Independência e 49º da República.",
+      "conteudo_integral_apos_fecho": "Getulio Vargas.\n\nMarques dos Reis\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "projeto_estudo_perfil_atual_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1937-07-03;1761",
+        "data": "1937-07-03",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/510aad3a-bda1-4add-9f0e-85e5be9dbbaf/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-28T00:06:58.633288+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/0e41164525373111d0c33632759e9e7e937d87bb9fbc08ffc75861cd2c937d05.raw.gz",
+      "sha256_raw": "90df91714031ebf4106f8f05fd9ebf698097e65ec79d37b58f335113bb48d7c8",
+      "bytes": 8137
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1937-07-03;1761&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-28T00:06:56.792854+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/19a05c974163df16b957fdf86ea912c7ca3e82b9c5bcae0b65273249a86e63fd.raw.gz",
+      "sha256_raw": "01461b64ac86c436b2f3f44023f8cbaf5e20c83637ba7866a6162a2e01496bc9",
+      "bytes": 2427
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  },
+  {
+    "path": "federal/decretos/1937/dec-1920-1937-08-27.md",
+    "urn": "urn:lex:br:federal:decreto:1937-08-27;1920",
+    "sha256_MD_candidato": "27db78d93e20e1b6d493335a87e67214f2bfb4388b9670b54c3645da9c9c94a9",
+    "sha256_canonico_ROOT_em_disco": "27db78d93e20e1b6d493335a87e67214f2bfb4388b9670b54c3645da9c9c94a9",
+    "sha256_HTML": "77853fff347beed7cc9a6419224672f3c2506b0b536a36fe24b076cc6d378756",
+    "sha256_API": "925cc8e70a0c4d8690d71070f53c00acf2972dc2c403e52ef18cfab4c4117796",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1937/dec-1920-1937-08-27.md",
+      "lote": "748",
+      "sha256_MD_candidato": "27db78d93e20e1b6d493335a87e67214f2bfb4388b9670b54c3645da9c9c94a9",
+      "sha256_HTML_primario": "77853fff347beed7cc9a6419224672f3c2506b0b536a36fe24b076cc6d378756",
+      "sha256_API": "925cc8e70a0c4d8690d71070f53c00acf2972dc2c403e52ef18cfab4c4117796",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/ffbef2cb-a544-468c-85d8-f39dd9ba6c69/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Ficam aprovados os projetos e os orçamentos, nas importâncias em seguida discriminadas, os quais com este baixam, rubricados pelo diretor de Expediente interino, da Secretaria de Estado da Viação e Obras Públicas, para a execução das seguintes obras e aquisição, na Rêde de Viação Férrea Federal do Rio Grande do Sul:",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, *27* de agosto de 1937, 116º da Independência e 49º da República.",
+      "conteudo_integral_apos_fecho": "GETULIO VARGAS.\n\nMarques dos Reis.\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "projeto_estudo_perfil_atual_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1937-08-27;1920",
+        "data": "1937-08-27",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/ffbef2cb-a544-468c-85d8-f39dd9ba6c69/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-28T00:04:23.140741+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/f1351b33e4a91885d6b86bfc85f94ea36ae830f591af542de3a735658aba8b2e.raw.gz",
+      "sha256_raw": "77853fff347beed7cc9a6419224672f3c2506b0b536a36fe24b076cc6d378756",
+      "bytes": 10550
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1937-08-27;1920&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-28T00:04:21.240606+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/1ccb0c76d1d176ff066880e5ade78e4f0940015924decb57170cf282cd6ddbf5.raw.gz",
+      "sha256_raw": "925cc8e70a0c4d8690d71070f53c00acf2972dc2c403e52ef18cfab4c4117796",
+      "bytes": 2431
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  },
+  {
+    "path": "federal/decretos/1937/dec-1922-1937-08-27.md",
+    "urn": "urn:lex:br:federal:decreto:1937-08-27;1922",
+    "sha256_MD_candidato": "037be30d95d1a188827f29bc919056ad81fa98bd366944c5e3cc5976e7eb3aef",
+    "sha256_canonico_ROOT_em_disco": "037be30d95d1a188827f29bc919056ad81fa98bd366944c5e3cc5976e7eb3aef",
+    "sha256_HTML": "52ce21929e0508bdad8fda08de749003ea29300d0147b6ee9ee6c5260392c9f3",
+    "sha256_API": "c328658de12adc15538f3ced7571752c2e2506c2ad0d0ac0916d0664935a76eb",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1937/dec-1922-1937-08-27.md",
+      "lote": "748",
+      "sha256_MD_candidato": "037be30d95d1a188827f29bc919056ad81fa98bd366944c5e3cc5976e7eb3aef",
+      "sha256_HTML_primario": "52ce21929e0508bdad8fda08de749003ea29300d0147b6ee9ee6c5260392c9f3",
+      "sha256_API": "c328658de12adc15538f3ced7571752c2e2506c2ad0d0ac0916d0664935a76eb",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/434d8032-0d8b-4738-b8dc-51aca5290d65/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Ficam aprovados, mediante observância, pela requerente, das condições em seguida descritas, o projeto a orçamento estimativo, na importância de 2.635:125$ (dois mil seiscentos e trinta e cinco contos cento e vinte e cinco mil réis), os quais com este baixam, rubricados pelo diretor de Expediente, interino, da Secretaria de Estado da Viação e Obras Públicas, para aumento das instalações de inflamáveis, no pôrto de Belém do Pará:",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, 27 de agôsto de 1937, 116º da Independência e 49º da República.",
+      "conteudo_integral_apos_fecho": "GETULIO VARGAS.\n\nMarques dos Reis.\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "projeto_estudo_perfil_atual_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1937-08-27;1922",
+        "data": "1937-08-27",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/434d8032-0d8b-4738-b8dc-51aca5290d65/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-28T00:04:22.303459+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/b2eae0bb15cbb945b43acfd94cd1f8e3585277b2fa70cdab714020b436b9e5fb.raw.gz",
+      "sha256_raw": "52ce21929e0508bdad8fda08de749003ea29300d0147b6ee9ee6c5260392c9f3",
+      "bytes": 9059
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1937-08-27;1922&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-28T00:04:20.366382+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/710fb14df74a20425ff1bb3a6172add02cda988da12524c58194d736e420e59b.raw.gz",
+      "sha256_raw": "c328658de12adc15538f3ced7571752c2e2506c2ad0d0ac0916d0664935a76eb",
+      "bytes": 2431
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  },
+  {
+    "path": "federal/decretos/1937/dec-1948-1937-09-03.md",
+    "urn": "urn:lex:br:federal:decreto:1937-09-03;1948",
+    "sha256_MD_candidato": "3a018f8e246b489621c953f3a8a81127a602a5543ce387804776507a214d647b",
+    "sha256_canonico_ROOT_em_disco": "3a018f8e246b489621c953f3a8a81127a602a5543ce387804776507a214d647b",
+    "sha256_HTML": "3efebebe5d612a224aab2710d0fb3978b0835dfc17721f3950b4522ba9205cca",
+    "sha256_API": "fd164d9765b5f3efc7525b71f000c62ad0706cfc65afd006d4186f5ff1a75e57",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1937/dec-1948-1937-09-03.md",
+      "lote": "748",
+      "sha256_MD_candidato": "3a018f8e246b489621c953f3a8a81127a602a5543ce387804776507a214d647b",
+      "sha256_HTML_primario": "3efebebe5d612a224aab2710d0fb3978b0835dfc17721f3950b4522ba9205cca",
+      "sha256_API": "fd164d9765b5f3efc7525b71f000c62ad0706cfc65afd006d4186f5ff1a75e57",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/3cb14b7a-bce0-48c4-9c41-6cedca417d25/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Ficam aprovados o projeto e orçamento das obras de melhoramentos do pôrto de São Borja, à margem do rio Uruguai, no Estado do Rio Grande do Sul, os quais foram organizados pelo Departamento Nacional de Portos e Navegação e com este baixam, rubricadas pelo diretor de Expediente, interino, da Secretaria de Estado da Viação e Obras Públicas.",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, 3 de setembro de 1937, 116º da Independência e 49º da República.",
+      "conteudo_integral_apos_fecho": "GETULIO VARGAS.\n\nMarques dos Reis.\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "projeto_estudo_perfil_atual_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1937-09-03;1948",
+        "data": "1937-09-03",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/3cb14b7a-bce0-48c4-9c41-6cedca417d25/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-28T00:03:57.649689+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/0f4200a6e5c6ea09e4b54efb4032faf2bc1b178728ad937dd8c2a3d3c327f170.raw.gz",
+      "sha256_raw": "3efebebe5d612a224aab2710d0fb3978b0835dfc17721f3950b4522ba9205cca",
+      "bytes": 8043
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1937-09-03;1948&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-28T00:03:55.769307+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/3a04ec0d4608fe8980b87d4ecf417a6166c17f05cfe813a5490a7e1f37180e05.raw.gz",
+      "sha256_raw": "fd164d9765b5f3efc7525b71f000c62ad0706cfc65afd006d4186f5ff1a75e57",
+      "bytes": 2421
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  },
+  {
+    "path": "federal/decretos/1937/dec-1955-1937-09-10.md",
+    "urn": "urn:lex:br:federal:decreto:1937-09-10;1955",
+    "sha256_MD_candidato": "f2a4cda404a94e5a3970d96b4ef132884aa66d30f70fedfd23c02ca4306122c6",
+    "sha256_canonico_ROOT_em_disco": "f2a4cda404a94e5a3970d96b4ef132884aa66d30f70fedfd23c02ca4306122c6",
+    "sha256_HTML": "ba96297bb6be8370944e7d4f3e97ac6ba6c9c3e84397155479d10856c138c084",
+    "sha256_API": "6b2f7b8411e12485f8a273087458f651bc9a08f808bbf8061281e697f8747122",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1937/dec-1955-1937-09-10.md",
+      "lote": "748",
+      "sha256_MD_candidato": "f2a4cda404a94e5a3970d96b4ef132884aa66d30f70fedfd23c02ca4306122c6",
+      "sha256_HTML_primario": "ba96297bb6be8370944e7d4f3e97ac6ba6c9c3e84397155479d10856c138c084",
+      "sha256_API": "6b2f7b8411e12485f8a273087458f651bc9a08f808bbf8061281e697f8747122",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/07b4046a-a8ec-4748-8bfc-4fc2f0c4c007/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Ficam aprovados o projeto e o orçamento, na importância de 1.566:504$892 (mil quinhentos e sessenta e seis contos quinhentos e quatro mil oitocentos e noventa e dois réis), para a duplicação da linha no trecho do 8km,550, entre o entroncamento da variante de Barreto e Gravataí, no quilômetro 376 + 700, e a estação de Navegantes, no quilômetro 385 + 250 da linha de Santa Maria a Pôrto Alegre, da Rêde de Viação Férrea Federal do Rio Grande do Sul, os quais com êste baixam, rubricados pelo de Expediente, interino, da Secretaria do Estado da Viação e Obras Públicas.",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, 10 de setembro de 1937, 116º da Independência e 49º da República.",
+      "conteudo_integral_apos_fecho": "Getulio Vargas.\n\nMarques dos Reis.\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "projeto_estudo_perfil_atual_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1937-09-10;1955",
+        "data": "1937-09-10",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/07b4046a-a8ec-4748-8bfc-4fc2f0c4c007/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-28T00:03:50.168337+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/e6b1ee09fa954b80f7c5b2db90fe17079c8b2f370258561938e99073a9e34440.raw.gz",
+      "sha256_raw": "ba96297bb6be8370944e7d4f3e97ac6ba6c9c3e84397155479d10856c138c084",
+      "bytes": 8455
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1937-09-10;1955&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-28T00:03:48.301200+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/724f97d5ba19e5e04c6232d54801f55ae03d60017177e1bb77840232e31355a0.raw.gz",
+      "sha256_raw": "6b2f7b8411e12485f8a273087458f651bc9a08f808bbf8061281e697f8747122",
+      "bytes": 2457
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  },
+  {
+    "path": "federal/decretos/1937/dec-1996-1937-10-01.md",
+    "urn": "urn:lex:br:federal:decreto:1937-10-01;1996",
+    "sha256_MD_candidato": "7e99fcee815b71737a4b9b320eda8ea9163577464b4bbf672855de8dffd71c65",
+    "sha256_canonico_ROOT_em_disco": "7e99fcee815b71737a4b9b320eda8ea9163577464b4bbf672855de8dffd71c65",
+    "sha256_HTML": "f1ec3fc683999980b902a0438a43a2e5cf901f2ed7bfa3c1f486ae867e48dabe",
+    "sha256_API": "1ece470b7b67b053803a6914ee52d4c68491905fadd115a1aa4627743d0ea36c",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1937/dec-1996-1937-10-01.md",
+      "lote": "748",
+      "sha256_MD_candidato": "7e99fcee815b71737a4b9b320eda8ea9163577464b4bbf672855de8dffd71c65",
+      "sha256_HTML_primario": "f1ec3fc683999980b902a0438a43a2e5cf901f2ed7bfa3c1f486ae867e48dabe",
+      "sha256_API": "1ece470b7b67b053803a6914ee52d4c68491905fadd115a1aa4627743d0ea36c",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/acb98467-a5e9-4307-9b8f-9e7db7702b05/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Art. 1º** Ficam aprovados os estudos definitivos e o respectivo orçamento, na importância de 3.086:240$400 (três mil e oitenta e seis contos duzentos e quarenta mil e quatrocentos réis), para a construção do prolongamento da Estrada de Ferro Central do Piauí, no trecho Periperí a Campo Maior, com a extensão de 25km,800 compreendidos entre Periperí e Estreito, os quais com êste baixam, rubricados pelo diretor da Expediente, interino, da Secretaria de Estado da Viação e Obras Públicas;",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, 1 de outubro de 1937, 116º da Independência 49º da República.",
+      "conteudo_integral_apos_fecho": "GETULIO VARGAS\n\nMarques dos Reis\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "projeto_estudo_perfil_atual_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1937-10-01;1996",
+        "data": "1937-10-01",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/acb98467-a5e9-4307-9b8f-9e7db7702b05/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-28T00:03:09.653881+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/3668ef30dd5202e00c18d0ebd0f48c987f7cbb0ce65f41c2998d3e4b8d0f33c5.raw.gz",
+      "sha256_raw": "f1ec3fc683999980b902a0438a43a2e5cf901f2ed7bfa3c1f486ae867e48dabe",
+      "bytes": 8388
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1937-10-01;1996&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-28T00:03:07.779801+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/6fe6b81c4e1fb73527cf91b06dc8910dfc6b0a9c5610fd72472d210e1c90e1fa.raw.gz",
+      "sha256_raw": "1ece470b7b67b053803a6914ee52d4c68491905fadd115a1aa4627743d0ea36c",
+      "bytes": 2400
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  },
+  {
+    "path": "federal/decretos/1937/dec-2000-1937-10-01.md",
+    "urn": "urn:lex:br:federal:decreto:1937-10-01;2000",
+    "sha256_MD_candidato": "475489d4879063f90fb4e923dc205057f7ec40f87f464638befabcc0e43528cd",
+    "sha256_canonico_ROOT_em_disco": "475489d4879063f90fb4e923dc205057f7ec40f87f464638befabcc0e43528cd",
+    "sha256_HTML": "3e01aff43392d32ea5032472c8bf923d0e68f4c2ade4673fcfd0f023401b6380",
+    "sha256_API": "fbf70fe33292bce0857d00869eb7b315c09837323a33a8c15c3b3e185712e477",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1937/dec-2000-1937-10-01.md",
+      "lote": "748",
+      "sha256_MD_candidato": "475489d4879063f90fb4e923dc205057f7ec40f87f464638befabcc0e43528cd",
+      "sha256_HTML_primario": "3e01aff43392d32ea5032472c8bf923d0e68f4c2ade4673fcfd0f023401b6380",
+      "sha256_API": "fbf70fe33292bce0857d00869eb7b315c09837323a33a8c15c3b3e185712e477",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/1f594866-2eab-4bba-9167-8393098c6de9/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "Artigo único. Ficam aprovados o projeto e o respectivo orçamento, na importância de 1:024$280 (um conto vinte e quatro mil duzentos e oitenta réis), para a construção de um desvio na estação de Tuiutí, da Rêde Mineira de Viação, os quais com êste baixam, rubricados pelo Diretor de Expediente, interino, da Secretaria de Estado da Viação e Obras Públicas.",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, 1 de outubro de 1937, 116º da Independência e 49º da República.",
+      "conteudo_integral_apos_fecho": "GETULIO VARGAS.\n\nMarques dos Reis.\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "projeto_estudo_perfil_atual_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1937-10-01;2000",
+        "data": "1937-10-01",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/1f594866-2eab-4bba-9167-8393098c6de9/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-28T00:03:05.657210+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/d31d99ebbedcb00507aad0f9d7c8d91144bffd622fd7040dd85f5eef30cd1517.raw.gz",
+      "sha256_raw": "3e01aff43392d32ea5032472c8bf923d0e68f4c2ade4673fcfd0f023401b6380",
+      "bytes": 8348
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1937-10-01;2000&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-28T00:03:03.755559+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/d61c0d318f83a246b2332120bdf8f426308704ec4cc6b76f5095044a1ffe93e8.raw.gz",
+      "sha256_raw": "fbf70fe33292bce0857d00869eb7b315c09837323a33a8c15c3b3e185712e477",
+      "bytes": 2350
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  },
+  {
+    "path": "federal/decretos/1937/dec-2032-1937-10-08.md",
+    "urn": "urn:lex:br:federal:decreto:1937-10-08;2032",
+    "sha256_MD_candidato": "cba3cdd72f383406c9d4112b844098e7dd10bf73f11f0c47ae023d166fc49ae5",
+    "sha256_canonico_ROOT_em_disco": "cba3cdd72f383406c9d4112b844098e7dd10bf73f11f0c47ae023d166fc49ae5",
+    "sha256_HTML": "5ffe93564460d59923b617545cac6daa869517859cb8e251080dc86bb136f353",
+    "sha256_API": "aa9db17e5c2ca43be5e6ccb3bf30c909e6d7ea4f2b9420c72262db2e9f2b8811",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1937/dec-2032-1937-10-08.md",
+      "lote": "748",
+      "sha256_MD_candidato": "cba3cdd72f383406c9d4112b844098e7dd10bf73f11f0c47ae023d166fc49ae5",
+      "sha256_HTML_primario": "5ffe93564460d59923b617545cac6daa869517859cb8e251080dc86bb136f353",
+      "sha256_API": "aa9db17e5c2ca43be5e6ccb3bf30c909e6d7ea4f2b9420c72262db2e9f2b8811",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/bb9233a2-426e-4b3b-b5a5-fbf50de18de6/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 5,
+          "literal_integral": "**Artigo único.** Ficam aprovados o projeto e orçamento na importância de 8:460$000 (oito contos quatrocentos e sessenta mil novecentos e sessenta seis réis), para a construção de um embarcadouro de gado e respectivo desvio, da estação “Ibitamirim”, no quilômetro 903.270m,50 do ramal de Uberaba, da Rêde Mineira de Viação, os quais com êste baixam, rubricados pelo diretor de Expediente, interino, da Secretaria de Estado da Viação e Obras Públicas.",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, 8 de outubro de 1937, 116º da Independência e 49º da República.",
+      "conteudo_integral_apos_fecho": "GetulioVargas.\n\nMarques dos Reis.\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "projeto_estudo_perfil_atual_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1937-10-08;2032",
+        "data": "1937-10-08",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/bb9233a2-426e-4b3b-b5a5-fbf50de18de6/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-28T00:02:34.145588+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/2591460b71d036acfbbfc533e0af8b05c00e1185448141c6612b5d52902eccca.raw.gz",
+      "sha256_raw": "5ffe93564460d59923b617545cac6daa869517859cb8e251080dc86bb136f353",
+      "bytes": 8190
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1937-10-08;2032&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-28T00:02:32.242623+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/20f9e9d34a2d0a2134c0c32c2b8197eff72b45d7a3450eeac136235ad51a04f3.raw.gz",
+      "sha256_raw": "aa9db17e5c2ca43be5e6ccb3bf30c909e6d7ea4f2b9420c72262db2e9f2b8811",
+      "bytes": 2446
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  },
+  {
+    "path": "federal/decretos/1938/dec-2249-1938-01-21.md",
+    "urn": "urn:lex:br:federal:decreto:1938-01-21;2249",
+    "sha256_MD_candidato": "9862354ccb2b1fa699e27391ad2ce47735d727887317d279814443037d7647b2",
+    "sha256_canonico_ROOT_em_disco": "9862354ccb2b1fa699e27391ad2ce47735d727887317d279814443037d7647b2",
+    "sha256_HTML": "378e36b0524dbaddc8ed13eaab89ddbd2f27b607da8ae69d1758357c51392087",
+    "sha256_API": "d32cf7035ea59f02f0357fc6ba11a603745c0763115b0b13e415376bacfd5063",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1938/dec-2249-1938-01-21.md",
+      "lote": "748",
+      "sha256_MD_candidato": "9862354ccb2b1fa699e27391ad2ce47735d727887317d279814443037d7647b2",
+      "sha256_HTML_primario": "378e36b0524dbaddc8ed13eaab89ddbd2f27b607da8ae69d1758357c51392087",
+      "sha256_API": "d32cf7035ea59f02f0357fc6ba11a603745c0763115b0b13e415376bacfd5063",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/cb98d4b4-f2b8-401e-9b52-1e371fd31370/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Art. 1º** Ficam aprovados os projetos e orçamentos nas importâncias adiante discriminadas, os quais com êste baixam, rubricados pelo Diretor de Expediente da Secretaria de Estado da Viação e Obras Públicas e referentes a:",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, em 21 de janeiro de 1938, 117º da Independência e 50º da República.",
+      "conteudo_integral_apos_fecho": "GETULIO VARGAS.\n\nJoão de Mendonça Lima.\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "projeto_estudo_perfil_atual_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1938-01-21;2249",
+        "data": "1938-01-21",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/cb98d4b4-f2b8-401e-9b52-1e371fd31370/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-27T23:59:03.680227+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/05ae21c3d3c5b388c74a7011fa23c19ee0fba9bd91c29b0a99eb03ece9cfac87.raw.gz",
+      "sha256_raw": "378e36b0524dbaddc8ed13eaab89ddbd2f27b607da8ae69d1758357c51392087",
+      "bytes": 10650
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1938-01-21;2249&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-27T23:59:01.767711+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/de2106d3b96cb49aa4908c7eaf3762084d24c3d4dff356cebbafc816f043d2ef.raw.gz",
+      "sha256_raw": "d32cf7035ea59f02f0357fc6ba11a603745c0763115b0b13e415376bacfd5063",
+      "bytes": 2442
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  },
+  {
+    "path": "federal/decretos/1938/dec-2402-1938-02-19.md",
+    "urn": "urn:lex:br:federal:decreto:1938-02-19;2402",
+    "sha256_MD_candidato": "3a50d6e6ef1e4fd88a2a7917c9ed50556ad1fd4841fd8f30757f20af3bd9b396",
+    "sha256_canonico_ROOT_em_disco": "3a50d6e6ef1e4fd88a2a7917c9ed50556ad1fd4841fd8f30757f20af3bd9b396",
+    "sha256_HTML": "b9d5838bb02ed7e6f5f504b1c6422f8d757ec020bdd4ed5fae84e7712b7a01c9",
+    "sha256_API": "da37dffb14966d9b3e5777db323bfb1ac6dd4c62ed9936156e3364127ba53aaf",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1938/dec-2402-1938-02-19.md",
+      "lote": "748",
+      "sha256_MD_candidato": "3a50d6e6ef1e4fd88a2a7917c9ed50556ad1fd4841fd8f30757f20af3bd9b396",
+      "sha256_HTML_primario": "b9d5838bb02ed7e6f5f504b1c6422f8d757ec020bdd4ed5fae84e7712b7a01c9",
+      "sha256_API": "da37dffb14966d9b3e5777db323bfb1ac6dd4c62ed9936156e3364127ba53aaf",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/2ed700f7-a016-4b17-94a2-2c6f3d6f4437/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo unico**. Ficam aprovados o projecto e respectivo orçamento, na importância total de 12:939$933 (doze contos novecentos e trinta e nove mil novecentos e trinta e três réis), com a reforma da casa do agente de \"Alfenas” – Ramal de Machado – da Rêde de Viação Mineira, os quais com este baixam, rubricados pelo diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas.",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, 19 de fevereiro de 1938, 117º da Independência e 50º da República.",
+      "conteudo_integral_apos_fecho": "GETULIO VARGAS.\n\nJoão de Mendonça Lima\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "projeto_estudo_perfil_atual_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1938-02-19;2402",
+        "data": "1938-02-19",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/2ed700f7-a016-4b17-94a2-2c6f3d6f4437/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-27T23:56:32.137612+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/503f48126baa78de86e6134728551d87a4ca54c5b5553d7df6fba5d3a07f8a9e.raw.gz",
+      "sha256_raw": "b9d5838bb02ed7e6f5f504b1c6422f8d757ec020bdd4ed5fae84e7712b7a01c9",
+      "bytes": 7954
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1938-02-19;2402&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-27T23:56:30.253296+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/5aed46a85497d9d97ede30317329467256eb75191085e689508bb5cb48d8ff13.raw.gz",
+      "sha256_raw": "da37dffb14966d9b3e5777db323bfb1ac6dd4c62ed9936156e3364127ba53aaf",
+      "bytes": 2366
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  },
+  {
+    "path": "federal/decretos/1938/dec-2512-1938-03-18.md",
+    "urn": "urn:lex:br:federal:decreto:1938-03-18;2512",
+    "sha256_MD_candidato": "2b964ac70cc0aa8e3afffa17780ed87ab90bf574aa3ccdf26d0ffb56c865e546",
+    "sha256_canonico_ROOT_em_disco": "2b964ac70cc0aa8e3afffa17780ed87ab90bf574aa3ccdf26d0ffb56c865e546",
+    "sha256_HTML": "bc4d6cfa6c48e9beb990fa78d48ec6702a505f86da0a6f9e8be680bc1d856f33",
+    "sha256_API": "042f8fddc664ecbfc7080e776e2ecf2f21f76416136e263ec966ee09c8ff7df7",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1938/dec-2512-1938-03-18.md",
+      "lote": "748",
+      "sha256_MD_candidato": "2b964ac70cc0aa8e3afffa17780ed87ab90bf574aa3ccdf26d0ffb56c865e546",
+      "sha256_HTML_primario": "bc4d6cfa6c48e9beb990fa78d48ec6702a505f86da0a6f9e8be680bc1d856f33",
+      "sha256_API": "042f8fddc664ecbfc7080e776e2ecf2f21f76416136e263ec966ee09c8ff7df7",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/ad34e2c3-4ac0-461f-b8f2-482dd1e7ab0b/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Ficam aprovados o projeto e respectivo orçamento, na importância de 52:677$926 (cincoenta e dois contos, seiscentos e setenta e sete mil novecentos e vinte e seis réis), com a construção do \"Armazém do Tráfego, em Cruzeiro\", quilômetro 0+203, linha de Cruzeiro a Tuiutí – da Rêde Mineira de Viação, os quais com êste baixam, rubricados pelo diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas.",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, 18 de março de 1938, 117º da Independência e 50º da República.",
+      "conteudo_integral_apos_fecho": "Getulio Vargas\n\nJoão de Mendonça Lima.\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "projeto_estudo_perfil_atual_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1938-03-18;2512",
+        "data": "1938-03-18",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/ad34e2c3-4ac0-461f-b8f2-482dd1e7ab0b/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-27T23:54:46.650630+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/331eab57c7ab68301ab819bceb7c293a5cc7dab56a1e7e059afeb46aa9fc1b47.raw.gz",
+      "sha256_raw": "bc4d6cfa6c48e9beb990fa78d48ec6702a505f86da0a6f9e8be680bc1d856f33",
+      "bytes": 8077
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1938-03-18;2512&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-27T23:54:44.746214+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/0531f2329dabba904980cf7f2e9dd0aaf915c6c3067c894d57ba6aa34864b4f5.raw.gz",
+      "sha256_raw": "042f8fddc664ecbfc7080e776e2ecf2f21f76416136e263ec966ee09c8ff7df7",
+      "bytes": 2389
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  },
+  {
+    "path": "federal/decretos/1938/dec-2557-1938-04-11.md",
+    "urn": "urn:lex:br:federal:decreto:1938-04-11;2557",
+    "sha256_MD_candidato": "b0c610087494970980146d06f35696abd38454a5dd985b8ad39f9792dc1315d7",
+    "sha256_canonico_ROOT_em_disco": "b0c610087494970980146d06f35696abd38454a5dd985b8ad39f9792dc1315d7",
+    "sha256_HTML": "6677357e08f1fb4b2d948cf7ca3dab93e4c20a300efceeb099d807bcba1483d2",
+    "sha256_API": "62278c14a60533ef4600a31374be8cf295906fe85d69fae4b286a5cbf0030419",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1938/dec-2557-1938-04-11.md",
+      "lote": "748",
+      "sha256_MD_candidato": "b0c610087494970980146d06f35696abd38454a5dd985b8ad39f9792dc1315d7",
+      "sha256_HTML_primario": "6677357e08f1fb4b2d948cf7ca3dab93e4c20a300efceeb099d807bcba1483d2",
+      "sha256_API": "62278c14a60533ef4600a31374be8cf295906fe85d69fae4b286a5cbf0030419",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/ebf97bc6-de79-4db5-9d49-b3e26bfdeca4/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Ficam aprovados o projeto e orçamento do canal de Ponta Negra e obras complementares, para a conclusão do saneamento da bacia hidrográfica da Lagôa de Maricá, na baixada do Guanabara, os quais foram organizados pela Diretoria de Saneamento da Baixada Fluminense, e com este baixam, rubricados pelo diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas.",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, 11 de abril de 1938, 117º da Independência e 50º da República.",
+      "conteudo_integral_apos_fecho": "Getulio Vargas.\n\nJoão de Mendonça Lima.\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "projeto_estudo_perfil_atual_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1938-04-11;2557",
+        "data": "1938-04-11",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/ebf97bc6-de79-4db5-9d49-b3e26bfdeca4/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-27T23:54:02.133272+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/1f43d7ab48f6e503c0c12c7c9b36f3c79d9a8421a59cf3808d8d226fc5dc8bc0.raw.gz",
+      "sha256_raw": "6677357e08f1fb4b2d948cf7ca3dab93e4c20a300efceeb099d807bcba1483d2",
+      "bytes": 8106
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1938-04-11;2557&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-27T23:54:00.302973+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/fa0f4d12bffa7ad9a199cb79ea1b3fcb2ac755a1520fadc3803d9ad35fa2872d.raw.gz",
+      "sha256_raw": "62278c14a60533ef4600a31374be8cf295906fe85d69fae4b286a5cbf0030419",
+      "bytes": 2429
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  },
+  {
+    "path": "federal/decretos/1938/dec-2606-1938-04-30.md",
+    "urn": "urn:lex:br:federal:decreto:1938-04-30;2606",
+    "sha256_MD_candidato": "fa170b1cdba96c67a72b9dbfba51a2e6bd07c53917ac713edee8329beb499aeb",
+    "sha256_canonico_ROOT_em_disco": "fa170b1cdba96c67a72b9dbfba51a2e6bd07c53917ac713edee8329beb499aeb",
+    "sha256_HTML": "b7d42d3c2e1a955d22f218c83d636f12844621772eb38123e350917595c9f701",
+    "sha256_API": "d0cb4101130c94ccddb7b683cb5e314ba36af3d37e22d59b81fc0c4a464a38d0",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1938/dec-2606-1938-04-30.md",
+      "lote": "748",
+      "sha256_MD_candidato": "fa170b1cdba96c67a72b9dbfba51a2e6bd07c53917ac713edee8329beb499aeb",
+      "sha256_HTML_primario": "b7d42d3c2e1a955d22f218c83d636f12844621772eb38123e350917595c9f701",
+      "sha256_API": "d0cb4101130c94ccddb7b683cb5e314ba36af3d37e22d59b81fc0c4a464a38d0",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/373f19e1-a822-4429-a48d-6e8243a480be/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Ficam aprovados o projeto e orçamento na importância total de 20.17::960$143 (vinte mil setecentos e dezessete contos novecentos e sessenta mil cento e quarenta e tres réis), os quais com este baixam, rubricados pelo diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas, para a construção da Segunda Secção do cáis do porto de Vitória, no Estado do Espírito Santo, a que se refere a cláusula III, letra d, do contrato para construção e exploração do referido porto, autorizado pelo decreto n. 16.739, de 31 de dezembro de 1924.",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, 30 de abril de 1938, 117º da Independência e 50º da República.",
+      "conteudo_integral_apos_fecho": "Getulio Vargas.\n\nJoão de Medonça Lima.\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "projeto_estudo_perfil_atual_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1938-04-30;2606",
+        "data": "1938-04-30",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/373f19e1-a822-4429-a48d-6e8243a480be/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-27T23:53:14.661663+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/0009a84f28c5b8c7402cb7a5c7b3e1718446eb2be7362c578c2374f5e8aab452.raw.gz",
+      "sha256_raw": "b7d42d3c2e1a955d22f218c83d636f12844621772eb38123e350917595c9f701",
+      "bytes": 8508
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1938-04-30;2606&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-27T23:53:12.729834+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/6aa1df09197c125f8d207e54494a7a807f5f55c8293addd733469ce111e893e7.raw.gz",
+      "sha256_raw": "d0cb4101130c94ccddb7b683cb5e314ba36af3d37e22d59b81fc0c4a464a38d0",
+      "bytes": 2384
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  },
+  {
+    "path": "federal/decretos/1938/dec-2661-1938-05-13.md",
+    "urn": "urn:lex:br:federal:decreto:1938-05-13;2661",
+    "sha256_MD_candidato": "bc17692b93806279c69eb5350feb29eba0d8fd64af098d7cfbc7c66b6e8549b3",
+    "sha256_canonico_ROOT_em_disco": "bc17692b93806279c69eb5350feb29eba0d8fd64af098d7cfbc7c66b6e8549b3",
+    "sha256_HTML": "d4703e8b626c59703ef7491eda69660a741f60030a58d4ad65f9cddec076a8da",
+    "sha256_API": "bff21f2c3061ee4b7f0e6bd4a6eaa948987c1ad4de5d4bc4df7e162464dce28a",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1938/dec-2661-1938-05-13.md",
+      "lote": "748",
+      "sha256_MD_candidato": "bc17692b93806279c69eb5350feb29eba0d8fd64af098d7cfbc7c66b6e8549b3",
+      "sha256_HTML_primario": "d4703e8b626c59703ef7491eda69660a741f60030a58d4ad65f9cddec076a8da",
+      "sha256_API": "bff21f2c3061ee4b7f0e6bd4a6eaa948987c1ad4de5d4bc4df7e162464dce28a",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/16ed8e05-f4f2-4001-b0e9-844a8c77e947/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Art. 1º** Autoriza a Companhia Telefônica Brasileira a fazer a ligação de suas linhas nos limites dos Estados de Minas Gerais a São Paulo, nas proximidades de Poços de Caldas-Cascata e Sapucaí-Eleutério, cuja planta x 3.703 com este baixa autenticada pelo diretor da Contabilidade da Secretaria de Estado do Ministério da Viação e Obras Públicas.",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, 13 de maio de 1938, 117º da Independência e 50º da República.",
+      "conteudo_integral_apos_fecho": "Getulio Vargas.\n\nJoão de Mendonça Lima.\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "planta_atual_sem_representacao_visual_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1938-05-13;2661",
+        "data": "1938-05-13",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/16ed8e05-f4f2-4001-b0e9-844a8c77e947/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-27T23:52:19.132579+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/ac4a951532ed7990b84cd6b370de1e122df621b258e5b32b0ce4e11ce1bb451a.raw.gz",
+      "sha256_raw": "d4703e8b626c59703ef7491eda69660a741f60030a58d4ad65f9cddec076a8da",
+      "bytes": 8068
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1938-05-13;2661&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-27T23:52:17.281698+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/80b404db6e3df5cd3ee4292fd5d3ae9f0dba00a59052080bc1946b8609d30dec.raw.gz",
+      "sha256_raw": "bff21f2c3061ee4b7f0e6bd4a6eaa948987c1ad4de5d4bc4df7e162464dce28a",
+      "bytes": 2507
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  },
+  {
+    "path": "federal/decretos/1938/dec-2702-1938-05-28.md",
+    "urn": "urn:lex:br:federal:decreto:1938-05-28;2702",
+    "sha256_MD_candidato": "a4ad3c33dea8afd916ec2e323ed4d9cf4fd90dc24ec63441ee63dcf30d854035",
+    "sha256_canonico_ROOT_em_disco": "a4ad3c33dea8afd916ec2e323ed4d9cf4fd90dc24ec63441ee63dcf30d854035",
+    "sha256_HTML": "f93dd7796dab0d1fd147ddf2286227ef699e6cf9a34a84eaa4be1d901961ef4e",
+    "sha256_API": "428263e08a10c9ac9a304fcae79b45787ac80f8fc9bb39c8156de23bc4714ac7",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1938/dec-2702-1938-05-28.md",
+      "lote": "748",
+      "sha256_MD_candidato": "a4ad3c33dea8afd916ec2e323ed4d9cf4fd90dc24ec63441ee63dcf30d854035",
+      "sha256_HTML_primario": "f93dd7796dab0d1fd147ddf2286227ef699e6cf9a34a84eaa4be1d901961ef4e",
+      "sha256_API": "428263e08a10c9ac9a304fcae79b45787ac80f8fc9bb39c8156de23bc4714ac7",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/618a4a81-58bb-4ef9-9b91-308e6115913e/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Art. 1º** Ficam aprovados o projeto e orçamento, na importância total de 4.864:728$000 ( quatro mil oitocentos e sessenta e quatro contos, setecentos e vinte e oito mil réis), os quais com este baixam, rubricados pelo diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas, para construção de duzentos metros de cais e obras complementares, no porto de Aracajú, em cumprimento ao disposto na cláusula VI, § 2º , do decreto n. 23.460, de 16 de novembro de 1933, pelo qual foi dada ao Estado concessão para construção, uso e gozo das obras do aludido porto.",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, 28 de maio de 1938, 117º da Independência e 50º da República.",
+      "conteudo_integral_apos_fecho": "Getulio Vargas.\n\nJoão de Mendonça Lima.\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "projeto_estudo_perfil_atual_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1938-05-28;2702",
+        "data": "1938-05-28",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/618a4a81-58bb-4ef9-9b91-308e6115913e/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-27T23:51:39.149989+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/0bf4a6a355f842a26f13e2cf7c3d555a43f5cebccb8d28f256eb7d9258c7c892.raw.gz",
+      "sha256_raw": "f93dd7796dab0d1fd147ddf2286227ef699e6cf9a34a84eaa4be1d901961ef4e",
+      "bytes": 8665
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1938-05-28;2702&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-27T23:51:37.346005+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/6632a3475c6ebd8f0eaedd8d6a7c9774dcc74b67615c533ff263a23084e9da9b.raw.gz",
+      "sha256_raw": "428263e08a10c9ac9a304fcae79b45787ac80f8fc9bb39c8156de23bc4714ac7",
+      "bytes": 2400
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  },
+  {
+    "path": "federal/decretos/1938/dec-2721-1938-06-04.md",
+    "urn": "urn:lex:br:federal:decreto:1938-06-04;2721",
+    "sha256_MD_candidato": "9c39d364da4301cae3056cda425aef2a37e332b315020916c5fde6903de973bc",
+    "sha256_canonico_ROOT_em_disco": "9c39d364da4301cae3056cda425aef2a37e332b315020916c5fde6903de973bc",
+    "sha256_HTML": "25e8851a5f2348d5564269d38b4199b7cc76653bb99161a5980a40fd7d4aa201",
+    "sha256_API": "24f8430d77cf50dd67911bf9739dc62c3840223c237a5e2733ab277a5f8f0012",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1938/dec-2721-1938-06-04.md",
+      "lote": "748",
+      "sha256_MD_candidato": "9c39d364da4301cae3056cda425aef2a37e332b315020916c5fde6903de973bc",
+      "sha256_HTML_primario": "25e8851a5f2348d5564269d38b4199b7cc76653bb99161a5980a40fd7d4aa201",
+      "sha256_API": "24f8430d77cf50dd67911bf9739dc62c3840223c237a5e2733ab277a5f8f0012",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/ad812bf0-07d5-4187-96d7-d760998968bf/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Ficam aprovados o projeto e o orçamento provavel, na importancia de 86.368$356 (oitenta e seis contos trezentos e sessenta e oito mil trezentos e cincoenta e seis réis), os quais com este baixam, rubricados pelo diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas relativos à construção de nove postos para a fiscalização aduaneira, no porto de Santos.",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, 4 de junho de 1938, 117º da Independência e 50º da República.",
+      "conteudo_integral_apos_fecho": "Getulio Vargas.\n\nJoão de Mendonça Lima.\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "projeto_estudo_perfil_atual_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1938-06-04;2721",
+        "data": "1938-06-04",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/ad812bf0-07d5-4187-96d7-d760998968bf/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-27T23:51:21.627962+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/e3f5da8ecfb3415acb69e2aa2acd8e7fc416b49f19fbb38a06a6dc98ec0bb1c2.raw.gz",
+      "sha256_raw": "25e8851a5f2348d5564269d38b4199b7cc76653bb99161a5980a40fd7d4aa201",
+      "bytes": 8171
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1938-06-04;2721&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-27T23:51:19.811482+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/5eebf56ea042a594f3e64b5b78578422af8485ab02e62bbee7ae29e4a3e54a99.raw.gz",
+      "sha256_raw": "24f8430d77cf50dd67911bf9739dc62c3840223c237a5e2733ab277a5f8f0012",
+      "bytes": 2455
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  },
+  {
+    "path": "federal/decretos/1938/dec-2723-1938-06-04.md",
+    "urn": "urn:lex:br:federal:decreto:1938-06-04;2723",
+    "sha256_MD_candidato": "4fe3954a9d9eac47091fdd9c8e310a2b87c8e22a257f461eb3268332b761ea05",
+    "sha256_canonico_ROOT_em_disco": "4fe3954a9d9eac47091fdd9c8e310a2b87c8e22a257f461eb3268332b761ea05",
+    "sha256_HTML": "7d9c0882a79836e4a9f2fb36182fc92eface72c00c33a14bee77f7d09618657d",
+    "sha256_API": "bfb354675951b064ca88268fca6120ce10acab419de62fb7375229e60cf5a418",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1938/dec-2723-1938-06-04.md",
+      "lote": "748",
+      "sha256_MD_candidato": "4fe3954a9d9eac47091fdd9c8e310a2b87c8e22a257f461eb3268332b761ea05",
+      "sha256_HTML_primario": "7d9c0882a79836e4a9f2fb36182fc92eface72c00c33a14bee77f7d09618657d",
+      "sha256_API": "bfb354675951b064ca88268fca6120ce10acab419de62fb7375229e60cf5a418",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/b1f6b753-84a4-4bcd-9145-2fd8edde876b/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Autoriza a Companhia Telefônica Brasileira a fazer a ligação de suas linhas nos limites dos Estados do Rio de Janeiro e Minas Gerais, nas proximidades de Simão Pereira, São José do Além Paraíba e Palma, cuja planta x 3.756 com este baixa autenticada pelo diretor de Contabilidade da Secretaria de Estado do Ministério da Viação e Obras Públicas.",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, 4 de junho de 1938, 117º da Independência e 50º da República.",
+      "conteudo_integral_apos_fecho": "Getulio Vargas.\n\nJoão de Mendonça Lima.\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "planta_atual_sem_representacao_visual_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1938-06-04;2723",
+        "data": "1938-06-04",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/b1f6b753-84a4-4bcd-9145-2fd8edde876b/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-27T23:51:18.645962+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/4215f780bed7f3c7e8848e895d9e1e31aa3f7d41ad540ec644948ccf3e173304.raw.gz",
+      "sha256_raw": "7d9c0882a79836e4a9f2fb36182fc92eface72c00c33a14bee77f7d09618657d",
+      "bytes": 7677
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1938-06-04;2723&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-27T23:51:16.804383+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/a14ed6659f05a987fdd093b352e38fe05d618b0906ecada57daec17cc49ae3d1.raw.gz",
+      "sha256_raw": "bfb354675951b064ca88268fca6120ce10acab419de62fb7375229e60cf5a418",
+      "bytes": 2522
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  },
+  {
+    "path": "federal/decretos/1938/dec-2724-1938-06-04.md",
+    "urn": "urn:lex:br:federal:decreto:1938-06-04;2724",
+    "sha256_MD_candidato": "07fdf556e72580f666e8aface09598919f9086d23249bf32bd009ad4be06a53a",
+    "sha256_canonico_ROOT_em_disco": "07fdf556e72580f666e8aface09598919f9086d23249bf32bd009ad4be06a53a",
+    "sha256_HTML": "a51a5e0f5346d03331e8b9fe0ab0191ed08ea144f0be1c57c834348c0106ebbb",
+    "sha256_API": "3daa5e2f8257246d7dff51d9e26fc4737849d1073800533ceb986e845bcce5a2",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1938/dec-2724-1938-06-04.md",
+      "lote": "748",
+      "sha256_MD_candidato": "07fdf556e72580f666e8aface09598919f9086d23249bf32bd009ad4be06a53a",
+      "sha256_HTML_primario": "a51a5e0f5346d03331e8b9fe0ab0191ed08ea144f0be1c57c834348c0106ebbb",
+      "sha256_API": "3daa5e2f8257246d7dff51d9e26fc4737849d1073800533ceb986e845bcce5a2",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/316072b3-3bf4-4ab8-b316-dece43682c44/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Autoriza a Companhia Telefônica a fazer a ligação de suas linhas nos limites dos Estados do Rio de Janeiro e Minas Gerais, entre as estações de Paquequer e Melo Barreto, cuja planta G 3.768 com este baixa, autenticada pelo diretor de Contabilidade da Secretaria de Estado do Ministério da Viação e Obras Públicas.",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, 4 de junho de 1938, 117º da Independência e 50º da República.",
+      "conteudo_integral_apos_fecho": "Getulio Vargas\n\nJoão de Mendonça Lima.\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "planta_atual_sem_representacao_visual_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1938-06-04;2724",
+        "data": "1938-06-04",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/316072b3-3bf4-4ab8-b316-dece43682c44/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-27T23:51:18.142699+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/22dcc93afef4aeec27d52de96dc576d1dbe8eb7aeaf51edab3d9a01d4917d649.raw.gz",
+      "sha256_raw": "a51a5e0f5346d03331e8b9fe0ab0191ed08ea144f0be1c57c834348c0106ebbb",
+      "bytes": 7623
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1938-06-04;2724&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-27T23:51:16.305131+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/4303d43990b86f7aeb666928edf46d64249d6a7afab6a12f01ea2bd06ec4253c.raw.gz",
+      "sha256_raw": "3daa5e2f8257246d7dff51d9e26fc4737849d1073800533ceb986e845bcce5a2",
+      "bytes": 2498
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  },
+  {
+    "path": "federal/decretos/1938/dec-2726-1938-06-04.md",
+    "urn": "urn:lex:br:federal:decreto:1938-06-04;2726",
+    "sha256_MD_candidato": "08c8a35f581c3237fb74d3909a277bec128e22fb928de2ab70278b1f109df6e0",
+    "sha256_canonico_ROOT_em_disco": "08c8a35f581c3237fb74d3909a277bec128e22fb928de2ab70278b1f109df6e0",
+    "sha256_HTML": "9caa21db567f02bcc64751f7cb40da2fbc3f2036e9f0b4a8b88ac3763f99c380",
+    "sha256_API": "d032c29e2915f521b58aa7de8e8ab76c88a59e5a9a442db51a4d397a8543e4be",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1938/dec-2726-1938-06-04.md",
+      "lote": "748",
+      "sha256_MD_candidato": "08c8a35f581c3237fb74d3909a277bec128e22fb928de2ab70278b1f109df6e0",
+      "sha256_HTML_primario": "9caa21db567f02bcc64751f7cb40da2fbc3f2036e9f0b4a8b88ac3763f99c380",
+      "sha256_API": "d032c29e2915f521b58aa7de8e8ab76c88a59e5a9a442db51a4d397a8543e4be",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/f752dab7-362f-4412-b5df-fb4da747fcef/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Ficam aprovados o projeto e o orçamento provavel, na importância de 84:594$414 (oitenta e quatro contos quinhentos e noventa e quatro mil quatrocentos e quatorze réis). os quais com este baixam, rubricados pelo diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas, relativos à construção do edifício para a oficina mecânica e grupo sanitário da ilha de Barnabé, no porto de Santos.",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, 4 de junho de 1938, 117º da Independência e 50º da República.",
+      "conteudo_integral_apos_fecho": "Getulio Vargas.\n\nJoão de Mendonça Lima.\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "projeto_estudo_perfil_atual_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1938-06-04;2726",
+        "data": "1938-06-04",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/f752dab7-362f-4412-b5df-fb4da747fcef/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-27T23:51:15.181436+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/04b440c24f2c2e1e804435ab0a0d0c657415d2ba7adf539491e0d41e413e3f95.raw.gz",
+      "sha256_raw": "9caa21db567f02bcc64751f7cb40da2fbc3f2036e9f0b4a8b88ac3763f99c380",
+      "bytes": 8172
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1938-06-04;2726&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-27T23:51:13.250971+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/f91cb04c3249841e64678db11cd086b343591d919348070ee3f011f64bf5a9e8.raw.gz",
+      "sha256_raw": "d032c29e2915f521b58aa7de8e8ab76c88a59e5a9a442db51a4d397a8543e4be",
+      "bytes": 2446
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  },
+  {
+    "path": "federal/decretos/1938/dec-2748-1938-06-11.md",
+    "urn": "urn:lex:br:federal:decreto:1938-06-11;2748",
+    "sha256_MD_candidato": "4ebf3929b7416b03b1cc50d5fe4eac2f9289013087a8473548987a913bac9660",
+    "sha256_canonico_ROOT_em_disco": "4ebf3929b7416b03b1cc50d5fe4eac2f9289013087a8473548987a913bac9660",
+    "sha256_HTML": "224d2f50c91d599c5e7331da1feb167a8a0fa05aff2b6fc7451557e6e0b76d2e",
+    "sha256_API": "7303e9bbb23e70ed1e4348743f6532571935027e29d49b51262edf5e4b600ee3",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1938/dec-2748-1938-06-11.md",
+      "lote": "748",
+      "sha256_MD_candidato": "4ebf3929b7416b03b1cc50d5fe4eac2f9289013087a8473548987a913bac9660",
+      "sha256_HTML_primario": "224d2f50c91d599c5e7331da1feb167a8a0fa05aff2b6fc7451557e6e0b76d2e",
+      "sha256_API": "7303e9bbb23e70ed1e4348743f6532571935027e29d49b51262edf5e4b600ee3",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/078d529c-3998-408f-8771-3271ed4d7775/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único**. Ficam aprovados o projeto e orçamento, na importância total de Rs. 666:981$856 (seiscentos e sessenta e seis contos novecentos e oitenta e um mil oitocentos e cincoenta e seis réis), os quais com este baixam, rubricados pelo diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas, para construção de um novo armazem no porto de Porto Alegre, no Estado do Rio Grande do Sul, nos termos do § 3º, da cláusula XVII, do contrato de novação das concessões portuárias outorgadas ao mesmo Estado pelo § 1º do art. 60 da lei n. 2.544, de 4 de janeiro de 1912, e decretos ns. 19.591, de 9 de julho de 1919. e 18.553. de 31 de dezembro de 1928.",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, 11 de junho de 1938, 117º da Independência e 50º da República.",
+      "conteudo_integral_apos_fecho": "Getulio Vargas.\n\nJoão de Mendonça Lima.\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "projeto_estudo_perfil_atual_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1938-06-11;2748",
+        "data": "1938-06-11",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/078d529c-3998-408f-8771-3271ed4d7775/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-27T23:50:54.712624+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/f60dd2d4916fe11d65395a0648d845152b264c1b6e02c173be6acf67b32c7b52.raw.gz",
+      "sha256_raw": "224d2f50c91d599c5e7331da1feb167a8a0fa05aff2b6fc7451557e6e0b76d2e",
+      "bytes": 7988
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1938-06-11;2748&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-27T23:50:52.779352+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/808d348c36297730e50625bb7f2e82a38fe1c06a712ab90ba671a9ace296942e.raw.gz",
+      "sha256_raw": "7303e9bbb23e70ed1e4348743f6532571935027e29d49b51262edf5e4b600ee3",
+      "bytes": 2379
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  },
+  {
+    "path": "federal/decretos/1938/dec-2763-1938-06-16.md",
+    "urn": "urn:lex:br:federal:decreto:1938-06-16;2763",
+    "sha256_MD_candidato": "c2f5252fe57e9abfb4b4b477d8dc9e559bd132226c64a779245dd8787e899a8e",
+    "sha256_canonico_ROOT_em_disco": "c2f5252fe57e9abfb4b4b477d8dc9e559bd132226c64a779245dd8787e899a8e",
+    "sha256_HTML": "abb9fa611f238dfd16f964353fff18d52d0c03a13dd86ad2f8f094d6da31e8d8",
+    "sha256_API": "ded313d6eec9d66f4705f4aae4c90c9af766da48a3aaeba81aae2f7d165a9c29",
+    "motivo": "Objeto técnico próprio prometido como baixando/acompanhando o ato, sem representação comprovada; retenção autorizada ROOT por SHA até leitura documental. Nenhum canônico ROOT foi tocado.",
+    "evidencia": {
+      "path": "federal/decretos/1938/dec-2763-1938-06-16.md",
+      "lote": "748",
+      "sha256_MD_candidato": "c2f5252fe57e9abfb4b4b477d8dc9e559bd132226c64a779245dd8787e899a8e",
+      "sha256_HTML_primario": "abb9fa611f238dfd16f964353fff18d52d0c03a13dd86ad2f8f094d6da31e8d8",
+      "sha256_API": "ded313d6eec9d66f4705f4aae4c90c9af766da48a3aaeba81aae2f7d165a9c29",
+      "fonte_HTML": "https://normas.leg.br/api/public/binario/53582274-9aff-400a-afca-a1ccd4cb059c/texto",
+      "vinculos_tecnicos_antes_fecho": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Ficam aprovados o projeto e o orçamento, na importância de 549:899$900 (quinhentos o quarenta e nove contos, oitocentos e noventa e nove mil e novecentos réis), os quais com este baixam, rubricados pelo diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas, para a construção das novas oficinas, na Esplanada da Estação de Araguarí da Estrada de Ferro de Goíaz.",
+          "reforma_pontual_no_bloco": false
+        }
+      ],
+      "fecho_principal_literal": "Rio de Janeiro, 16 de junho de 1938, 117º da Independência e 50º da República.",
+      "conteudo_integral_apos_fecho": "GETULIO VARGAS.\n\nJoão de Mendonça Lima.\n",
+      "retificacao_apos_fecho": false,
+      "rotulos_tecnicos_apos_fecho": [],
+      "tabelas_HTML_area": 0,
+      "ja_mascarado_HEAD": false,
+      "limites": "Conteúdo posterior ao fecho e elementos visuais inspecionados mecanicamente. A aprovação de um orçamento pode definir valor no próprio artigo; isso requer leitura contextual e não é ausência provada só por regex. Planta própria sem representação é um estrato distinto de mera referência histórica.",
+      "HEAD_real": "ausente",
+      "estrato_contextual": "projeto_estudo_perfil_atual_a_revisar",
+      "identidade_API": {
+        "urn": "urn:lex:br:federal:decreto:1938-06-16;2763",
+        "data": "1938-06-16",
+        "tipo": "Decreto Numerado"
+      },
+      "contagens_visuais_HTML": {
+        "img": 0,
+        "svg": 0,
+        "canvas": 0,
+        "object": 0,
+        "embed": 0,
+        "math": 0
+      },
+      "proposta": "Revisão individual ROOT antes de considerar íntegra; não aprovar suplemento apenas pelo valor resumido ou referência textual. Sem máscara automática."
+    },
+    "fonte_html": {
+      "url": "https://normas.leg.br/api/public/binario/53582274-9aff-400a-afca-a1ccd4cb059c/texto",
+      "accept": "text/html",
+      "captura_utc": "2026-10-27T23:50:39.139787+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/d58cfe65683e8dd2e89d2603885a097dc76f2116c394ea351605aa046c2f94f6.raw.gz",
+      "sha256_raw": "abb9fa611f238dfd16f964353fff18d52d0c03a13dd86ad2f8f094d6da31e8d8",
+      "bytes": 7969
+    },
+    "metadados": {
+      "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1938-06-16;2763&tipo_documento=maior-detalhe",
+      "accept": "application/json",
+      "captura_utc": "2026-10-27T23:50:37.233056+00:00",
+      "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+      "status_http": 200,
+      "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/requests/ed2bc8002c63cf55f8518de3e9b91b184e8bad2ac4a1e42db89d279889e7223a.raw.gz",
+      "sha256_raw": "ded313d6eec9d66f4705f4aae4c90c9af766da48a3aaeba81aae2f7d165a9c29",
+      "bytes": 2390
+    },
+    "estado_coleta_original": "fonte_capturada_para_QA",
+    "limites": "Não declara inexistência ou ausência em todas as fontes; pacote antecedente e canônicos ROOT preservados."
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "commit": "b29bb5f0199860d2e17ba4890b2fb66801a70423",
+  "escopo": "git ls-tree -r -z COMMIT -- municipais; somente Markdown canônico regular",
+  "capturado_em": "2026-10-27T20:08:11.146299-03:00",
+  "normas_head": 24105,
+  "reservas": [
+    {
+      "recibo": "municipais/_indice/_recuperacao_20261027/agregado917-final/entrega-final.json",
+      "sha256": "a53417063d2ec2777583de6df65d44dba455818adebfd4811fd9b6b17eb86702",
+      "normas": 917,
+      "ja_no_head": [],
+      "adicionadas": 917
+    }
+  ],
+  "total": 25022,
+  "metadados": "municipais/_indice/_recuperacao_20261027/baseline-head-ta0009/metadados-integrais.jsonl.gz",
+  "arquivos": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/baseline-head-ta0009/metadados-integrais.jsonl.gz",
+      "sha256": "9fee614403b89f0021ea359f72c0ce8123075efbf926bf50c83b7d6d85f75c38",
+      "bytes": 7175625
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/baseline-head-ta0009/normas.paths.txt",
+      "sha256": "db39889ad390fa94517f5e382858a72e17c4ddaab1418a8f57fcc974f51d6a89",
+      "bytes": 1985290
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/baseline-head-ta0009/ls-tree-municipais.z",
+      "sha256": "c3d271c318b848326e487cb6655f6fa12dd2e3c239b28aae44c1104ff8ffd9b8",
+      "bytes": 13434635
+    },
+    {
+      "arquivo": "scripts/congelar_baseline_municipal_head_20261027.py",
+      "sha256": "191f21e4b21378dd1abaa6609328adf379c8e8c1831ae49b78d231d842a317bf",
+      "bytes": 6132
+    },
+    {
+      "arquivo": "scripts/auditar_colisoes_lote_municipal.py",
+      "sha256": "9a2352f632d8255cfae6f0317caf62a77b84b41a548e4112fe7ae971ac3a434c",
+      "bytes": 3135
+    },
+    {
+      "arquivo": "scripts/auditar_municipal.py",
+      "sha256": "817f196f53162076bac125fb7c509e9ba6d9479e9aa6918ae5428822dec43ac8",
+      "bytes": 8443
+    }
+  ],
+  "limite": "Metadados extraídos do blob completo por OID; cabeçalhos literais integrais preservados. Snapshot não certifica vigência ou identidade correta do acervo anterior."
+}

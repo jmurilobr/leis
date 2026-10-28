@@ -1,0 +1,10 @@
+from pathlib import Path
+import json,re,sys,unicodedata,hashlib
+BASE=Path(__file__).resolve().parent;ROOT=BASE.parents[3];sys.path.insert(0,str(ROOT/'scripts'));from estados.pe_fidelidade_visivel import texto_visivel_html
+rs=json.loads((BASE/'verificacao_9061.json').read_text())['registros'];renders={r['path']:r for r in json.loads((BASE/'render_9061_output.json').read_text())['registros']};out=[];sha=lambda b:hashlib.sha256(b).hexdigest()
+for r in rs:
+ q=renders[r['path']];s=texto_visivel_html(q['html']);n=''.join(c for c in unicodedata.normalize('NFD',s) if not unicodedata.combining(c));matches=list(re.finditer(r'(?i)\bilegivel\b|\bdesenhos?\b[^.;]{0,80}?\banex[oa]s?\b',n));arts=list(re.finditer(r'(?i)\bart\.?\s*(?:\d+[º°o]?|unico)\s*[-.–:]?',n));oc=[]
+ for m in matches:
+  before=[a for a in arts if a.start()<=m.start()];after=[a for a in arts if a.start()>m.end()];start=before[-1].start() if before else max(0,m.start()-350);end=after[0].start() if after else len(s);oc.append({'literal':s[m.start():m.end()],'artigo_ou_contexto_integral':s[start:end]})
+ if oc:out.append({'path':r['path'],'sha256_md_final':r['sha256_md_final'],'sha256_html':r['sha256_html'],'ocorrencias':oc})
+res={'escopo':'Inventário lexical contextual independente dos 9.061 corpos finais, após render novo, sem notas YAML. Não altera normas, snapshots ou registro.','busca':'ilegível/ilegivel; desenho(s) seguido de anexo(s)/anexa(s), até 80 caracteres sem ponto ou ponto e vírgula.','resumo':{'corpos_pesquisados':len(rs),'normas_com_ocorrencias':len(out),'ocorrencias':sum(len(r['ocorrencias']) for r in out)},'registros':out,'limites':'Busca lexical não prova integralidade universal nem inexistência de remissões com outra grafia. Os casos 16.821 e 16.515 e os demais overlays ficam retidos; fontes parciais preservadas não são promovidas por simples fidelidade textual.'};p=BASE/'inventario_contextual9061.json';assert not p.exists();p.write_text(json.dumps(res,ensure_ascii=False,indent=2)+'\n');print(res['resumo'])

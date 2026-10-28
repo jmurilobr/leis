@@ -1,0 +1,111 @@
+---
+titulo: "Lei nº 2.252, de 06 de outubro de 2015"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2252"
+data: "2015-10-06"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/992"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/2393/text"
+sha256_fonte: "352baf486ceb41818a2a8cb5720b4a63ded4828523a4263fba7cb66cf366a2bb"
+sha256_texto: "84f40ce537b7191c5710c0e9a2686266c0c42b9b0c5e4a77a2a65b95f14a6c98"
+capturado_em_fonte: "2026-10-27T20:52:41.515924-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 2.252, de 06 de outubro de 2015
+
+“Fica autorizado o programa “Tapa-Buraco” Município de Porto Velho, e dá outras providências”.
+
+
+**O PRESIDENTE DA CÂMARA MUNICIPAL DE PORTO VELHO**, no uso das atribuições que lhe confere os §§ 4º e 6º, do artigo 72 da Lei Orgânica do Município, combinado com os §§ 4º e 6º, do art. 165 da Resolução nº. 254/CMPV-91 -REGIMENTO INTERNO, PROMULGA a seguinte
+
+**LEI:**
+
+
+Art. 1º.
+
+Fica autorizado o programa “Tapa-Buraco” no âmbito do Município de Porto Velho, a ser executado pela Secretaria Municipal de Obras, com a efetiva participação da população, que consiste imediata execução de serviço do serviço de reparo ou recapeamento das vias públicas do município.
+
+
+§ 1º
+
+O Poder Executivo providenciará no prazo de 30 (trinta) dias da publicação desta Lei, número do telefone com ligação gratuita bem como canal de comunicação no site oficial do Município, para que a população informe e/ou denuncie os locais que necessitam dos serviços previstos no caput deste artigo.
+
+
+§ 2º
+
+Todas as ligações telefônicas ou comunicação via site oficial do Município, darão origem a um número de protocolo que deverá ser informado ao munícipe usuário, bem como deverão ser gravadas e armazenas por um período mínimo de 01 (um) ano.
+
+
+§ 3º
+
+A informação e/ou denúncia poderá, também, ser feita por escrito e protocolada na Secretaria Municipal de Obras ou, visando o fácil acesso à população, em outro órgão a ser definido pelo Poder Executivo.
+
+
+§ 4º
+
+O informante ou denunciante, querendo, poderá não revelar sua identidade, devendo, contudo, informar com a maior precisão possível o lugar que necessita do serviço (rua, número, entre ruas, ponto de referência etc.).
+
+
+Art. 2º.
+
+Tem o Poder Executivo, através da Secretaria Municipal de Obras, o prazo de 03 (três) dias, a contar do primeiro dia útil posterior ao recebimento da informação ou denúncia, para verificar in loco o problema informado e dar início ao serviço de recapeamento ou tapa-buraco.
+
+
+§ 1º
+
+Cabe à Secretaria Municipal de Obras, mediante avaliação técnica, decidir se o caso é de tapa-buraco ou recapeamento da via pública, salvo o previsto no artigo 3º desta Lei.
+
+
+§ 2º
+
+Caso não seja cumprido o previsto no caputdeste artigo, deverá o munícipe informante ou denunciante comunicar imediatamente à Câmara Municipal de Vereadores, inclusive ao Tribunal de Contas e ao Ministério Público Estadual.
+
+
+Art. 3º.
+
+O serviço de tapa-buraco em um mesmo local, no período de 01 (um) ano, só poderá ser realizado por até 02 (duas) vezes, devendo, então, ser providenciado o recapeamento da via pública.
+
+
+Parágrafo único
+
+Se a via pública que já tiver vários tapa-buracos em sua extensão deverá ser providenciado o serviço de recapeamento.
+
+
+Art. 4º.
+
+O Poder Executivo promoverá intensa campanha publicitária, com vistas a dar conhecimento do programa e convocar a população à informar ou denunciar, via telefone, site oficial ou por escrito, os locais que necessitam dos serviços previstos no artigo 1º desta Lei.
+
+
+Art. 5º.
+
+As despesas decorrentes desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 6º.
+
+O Poder Executivo regulamentará esta Lei, visando sua fiel execução, no prazo máximo de 30 dias a contar da data de publicação.
+
+
+Art. 7º.
+
+Esta Lei entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
+
+
+Câmara Municipal de Porto Velho, 06 de outubro de 2015.
+
+**Vereador Jurandir Rodrigues de Oliveira**
+
+**Presidente**
+
+Projeto de Lei Complementar nº. 3.228/2015, substitutivo ao Projeto de Lei nº 2.981/2013
+
+Ver. Ellis Regina – PC do B
+

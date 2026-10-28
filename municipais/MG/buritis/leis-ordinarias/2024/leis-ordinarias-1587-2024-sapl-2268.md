@@ -1,0 +1,104 @@
+---
+titulo: "Lei nº 1.587, de 17 de junho de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1587"
+data: "2024-06-17"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/2268"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/373/text"
+sha256_fonte: "eb6d775ee0beabe1056136653c46d97e9a151f6e451375a92074de2157e98509"
+sha256_texto: "2dcd5d3d10bcf757ff9d9ffe43a1897e433e364b28aeb22485e7d179974a5551"
+capturado_em_fonte: "2026-10-27T19:43:43.327039-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.587, de 17 de junho de 2024
+
+Autoriza o Poder Executivo a desenvolver ações e aporte de contrapartida municipal para implementar o Programa Minha Casa Minha Vida - Lei 11.977, de 07 de julho de 2009, conforme disposições das instruções normativas do Ministério das Cidades e Portaria Interministerial e dá outras providências
+
+
+A Câmara Municipal de Buritis, Estado de Minas Gerais, por seus representantes, aprovou e eu, PREFEITO MUNICIPAL, usando da atribuição a mim conferida pelo disposto no inciso VIII, do art. 105 da Lei Orgânica Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a desenvolver todas as ações necessárias para a aquisição, construção ou reforma de unidades habitacionais para atendimento aos munícipes necessitados, implementadas por intermédio do Programa Minha Casa Minha Vida - (PMCMV) - Modalidades Urbana (PNHU) e Rural (PNHR), alocados na faixa I do Programa, conforme disposições da Lei nº 11.977, de 07 de julho de 2009, na Lei 14.620, de 13 de julho de 2023 e demais Portarias e Instruções Normativas do Ministério das Cidades.
+
+
+Art. 2º.
+
+Para a implementação do programa, fica o Poder Executivo autorizado a celebrar Termo de Parceria e Cooperação com a Caixa Econômica Federal - CAIXA Termo de Acordo e Compromisso com instituições financeiras e agentes financeiros.
+
+
+Parágrafo único
+
+O Poder Executivo poderá celebrar aditamentos ao Termo de Cooperação ou de acordo e parceria, de que trata este artigo, os quais deverão ter por objeto ajustes e adequações direcionadas para a consecução das finalidades do programa.
+
+
+Art. 3º.
+
+O Poder Executivo poderá fazer a doação de lotes de terrenos de sua propriedade aos beneficiários selecionados conforme o disposto na legislação federal que normatiza o Programa Minha Casa Minha Vida, faixa I e em conformidade com os requisitos estabelecidos pela política municipal de habitação vigente.
+
+
+§ 1º
+
+As áreas e terrenos a serem utilizadas no PCMV, faixa I, modalidade urbana (PNHU), deverão integrar a área urbana ou de expansão urbana do município, observado e, em conformidade com a legislação municipal que rege a matéria.
+
+
+§ 2º
+
+As áreas e terrenos deverão contar con infraestrutura básica necessária, de acordo com as exigências da lei municipal, regramento do Ministério das Cidades e demais regrmentos de política habitacional de interesse social vigente.
+
+
+§ 3º
+
+Os projetos de habitação de interesse social serão desenvolvidos mediante planejamento global, podendo envolver as Secretarias Estaduais ou Municipais de Habitação, Ação Social, Obras, Planejamento, Fazenda, além de autarquias e Companhias Municipais de Habitação, se existentes.
+
+
+§ 4º
+
+Poderão ser integradas ao projeto outras entidades ou profissionais, com notória especialização na área de habitação de interesse social, mediante convênio on instrumento congênere, que forneçam metodologias e assistência técnica de processos, desde que tragam ganhos para a produção e condução dos projetos, os quais tem por finalidade a produção imediata de unidades habitacionais.
+
+
+§ 5º
+
+Somente poderão ser beneficiadas no PMCMV, faixa I, pessoas ou famílias que atendam os critérios estabelecidos no referido Programa e de acordo com as prioridades estabelecidas na política municipal de habitação de interesse social vigente, na forma da Lei.
+
+
+§ 6º
+
+Na implementação do PMCMV, faixa I, será aplicável os estímulos e incentivos previstos na Lei Complementar Municipal nº 167, de 01 de agosto de 2023.
+
+
+§ 7º
+
+O beneficiário não poderá ser proprietário de imóvel residencial e nem detentor de financiamento ativo no Sistema Financeiro de Habitação (SFH), em qualquer parte do país, assim cmo obrigatoriamente deverá ser comprovado que reside no município há pelo menos cinco anos.
+
+
+Art. 4º.
+
+O Poder Executivo poderá aportar recursos do PMCMV, bens e serviços economicamente mensuráveis, exclusivamente aos beneficiários selecionaods que compõe a faixa I do PMCMV, visandao a complementação dos recursos necessários à construção da infraestrutura dos empreendimentos e das unidades habitacionais.
+
+
+Art. 5º.
+
+As despesas com a execução da presente Lei, de responsabilidade do Município, correrão por conta da dotação orçamentária vigente na Lei Orçamentária Anual do ano em que ocorrer o evento.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**Dr. Keny Soares Rodrigues**  
+Prefeito Municipal de Buritis
+
+Referente ao Proposição de Lei nº 28/2024, de autoria do Executivo Municipal.
+

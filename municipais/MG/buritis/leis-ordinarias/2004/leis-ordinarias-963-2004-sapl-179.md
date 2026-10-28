@@ -1,0 +1,320 @@
+---
+titulo: "Lei nº 963, de 22 de dezembro de 2004"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "963"
+data: "2004-12-22"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/179"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/811/text"
+sha256_fonte: "1ff4e94fac6ead598f87485b0c8c289b3d2f6559492bd83929080389ef9c9a09"
+sha256_texto: "0379746ec596d97b03fbd423ba67e01cc499d39700d7be393698ea836453adfb"
+capturado_em_fonte: "2026-10-27T20:17:58.618055-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 963, de 22 de dezembro de 2004
+
+Dispõe sobre as restrições ao uso e à propaganda de produtos fumígeros, bebidas alcoólicas, medicamentos, terapias e defensivos agrícolas, nos termos do § 4° do art. 220 da Constituição Federal. Regulamentada pelo Decreto nº 2.018, de 01/10/1996
+
+
+A Câmara Municipal de Buritis, Estado de Minas Gerais, decretou e eu, Prefeito Municipal sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+O uso e a propaganda de produtos fumígeros, derivados ou não do tabaco, de bebidas alcoólicas, de medicamentos e terapias e de defensivos agrícolas estão sujeitos às restrições e condições estabelecidas por esta Lei, nos termos do § 4° do art. 220 da Constituição Federal.
+
+
+Parágrafo único
+
+Consideram-se bebidas alcoólicas, para efeitos desta lei, as bebidas potáveis com teor alcoólico superior a treze graus Gay Lussac.
+
+
+Art. 2º.
+
+É proibido o uso de cigarros, cigarrilhas, charutos, cachimbos ou de qualquer outro produto fumígero, derivado ou não do tabaco, em recinto coletivo, privado ou público, salvo em área destinada exclusivamente a esse fim, devidamente isolada e com arejamento conveniente.
+
+
+§ 1º
+
+Incluem-se nas disposições deste artigo as repartições públicas, os hospitais e postos de saúde, as escolas e suas dependências, as bibliotecas, os recintos de trabalho coletivo e as salas de teatro e cinema, bem como as repartições privadas, os restaurantes, bares, churrascarias, lanchonetes e estabelecimentos comerciais afins no âmbito do município, que possuam área superior a 70m² (setenta metros quadrados), ficam obrigados a dispor espaços reservados a pessoas fumantes
+
+
+§ 3º
+
+O espaço a que se refere o parágrafo anterior não poderá ser inferior a 30% (trinta por cento) da área de consumação ao público.
+
+
+§ 4º
+
+É vedado o uso dos produtos mencionados no "caput" nas aeronaves e veículos de transporte coletivo, salvo quando transcorrida uma hora de viagem e houver nos referidos meios de transporte parte especialmente reservada aos fumantes.
+
+
+Art. 3º.
+
+Ficam dispensadas da obrigatoriedade a que se refere o artigo anterior as casas noturnas de diversão e lazer, tais como casas de dança, boates, casa de shows e congêneres, que também efetuam manipulação, consumo e venda de alimentos.
+
+
+Art. 4º.
+
+Nos estabelecimentos referidos no § 1º do art. 2° deverão ser afixados avisos indicativos da proibição a que alude esta Lei, em pontos de ampla visibilidade e da fácil identificação pelo público, cujas dimensões não excedem a 50 cm (cinqüenta centímetros) x 30 cm (trinta centímetros).
+
+
+Art. 5º.
+
+Para os efeitos desta Lei consideram-se infratores os fumantes e os estabelecimentos nela abrangidos, nos limites das responsabilidades que lhe são atribuída.
+
+
+Parágrafo único
+
+Os infratores deste artigo ficarão sujeitos as seguintes sanções:
+
+
+I –
+
+advertência;
+
+
+II –
+
+multa de 260,00 (duzentos e sessenta reais), devendo ser aplicado o dobro em caso de reincidência aos estabelecimentos elencados nos §§ 1° e 2° do art. 2º desta Lei;
+
+
+Art. 4º.
+
+A propaganda comercial dos produtos referidos no artigo anterior somente será permitida nas emissoras de rádio e televisão no horário compreendido entre as vinte e uma e as seis horas.
+
+
+§ 1º
+
+A propaganda comercial dos produtos referidos neste artigo deverá ajustar-se aos seguintes princípios:
+
+
+I –
+
+não sugerir o consumo exagerado ou irresponsável, nem a indução ao bem-estar ou saúde, ou fazer associação a celebrações cívicas ou religiosas;
+
+
+II –
+
+não induzir as pessoas ao consumo, atribuindo aos produtos propriedades calmantes ou estimulantes, que reduzam a fadiga, ou a tensão, ou qualquer efeito similar;
+
+
+III –
+
+não associar idéias ou imagens de maior êxito na sexualidade das pessoas, insinuando o aumento de virilidade ou feminilidade de pessoas fumantes;
+
+
+IV –
+
+não associar o uso do produto à prática de esportes ou de competição, nem sugerir ou induzir seu consumo em locais ou situações perigosas ou ilegais;
+
+
+V –
+
+não empregar imperativos que induzam diretamente ao consumo;
+
+
+VI –
+
+não incluir, na radiodifusão de sons ou de sons e imagens, a participação de crianças ou adolescentes, nem a eles dirigir-se.
+
+
+§ 2º
+
+A propaganda conterá, nos meios de comunicação e em função de suas características, advertência escrita e/ou falada sobre os maleficios do fumo, através das seguintes frases, usadas seqüencialmente, de forma simultânea ou rotativa, nesta última hipótese devendo variar no máximo a cada cinco meses, todas precedidas da afirmação "O Ministério da Saúde Adverte":
+
+
+I –
+
+fumar pode causar doenças do coração e derrame cerebral;
+
+
+II –
+
+fumar pode causar câncer do pulmão, bronquite crônica e enfisema pulmonar;
+
+
+III –
+
+fumar durante a gravidez pode prejudicar o bebê;
+
+
+IV –
+
+quem fuma adoece mais de úlcera do estômago;
+
+
+V –
+
+evite fumar na presença de crianças;
+
+
+VI –
+
+fumar provoca diversos males á saúde;
+
+
+§ 3º
+
+As embalagens, exceto se destinadas a exportação, os pôsteres, painéis ou cartazes, jornais e revistas que façam difusão ou propaganda dos produtos referidos no art. 2° conterão a advertência mencionada no parágrafo anterior.
+
+
+§ 4º
+
+Nas embalagens, as cláusulas de advertência a que se refere o § 2° deste artigo serão seqüencialmente usadas, de forma simultânea ou rotativa, nesta ultima hipótese devendo variar no máximo a cada cinco meses, inseridas, de forma legível e ostensivamente destacadas, em uma das laterais dos maços, carteiras ou pacotes que sejam habitualmente comercializados diretamente ao consumidor.
+
+
+§ 5º
+
+Nos pôsteres, painéis, cartazes, jornais e revistas, as cláusulas de advertência a que se refere o § 2° deste artigo serão seqüencialmente usadas, de forma simultânea ou rotativa, nesta hipótese variando no máximo a cada cinco meses, devendo ser escritas de forma legível ostensiva.
+
+
+Art. 4º.
+
+Somente será permitida a propaganda comercial de bebidas alcoólicas nas emissoras de rádio e televisão entre as vinte e uma e as seis horas.
+
+
+§ 1º
+
+A propaganda de que trata este artigo não poderá associar o produto ao esporte olímpico ou de competição, ao desempenho saudável de qualquer atividade, à condução de veículos e a imagens ou idéias de maior êxito ou sexualidade das pessoas.
+
+
+§ 2º
+
+-Os rótulos das embalagens de bebidas alcoólicas conterão advertência nos seguintes termos:
+
+
+I –
+
+evite o consumo excessivo de álcool;
+
+
+II –
+
+beba com moderação;
+
+
+III –
+
+o consumo excessivo causa dependência.
+
+
+Art. 5º.
+
+As chamadas e caracterizações de patrocínio dos produtos indicados nos artigos 2° e 4°, para eventos alheios à programação normal ou rotineira das emissoras de rádio e televisão, poderão ser feitas em qualquer horário, desde que identificas apenas com a marca ou "slogan" do produto, sem recomendação do seu consumo.
+
+
+Parágrafo único
+
+Nas condições do "caput", as chamadas e caracterizações de patrocínio dos produtos, para veicular a propaganda dos produtos de que trata esta lei.
+
+
+Art. 6º.
+
+É vedada a utilização de trajes esportivos, relativamente a esportes olímpicos ou de competição, para veicular a propaganda dos produtos de que trata esta Lei.
+
+
+Art. 7º.
+
+A propaganda de medicamentos e terapias de qualquer tipo ou espécie poderá ser feita em publicações especializadas dirigidas direta e especificamente a profissionais e instituições de saúde.
+
+
+§ 1º
+
+Os medicamentos anódinos e de venda livre, assim classificados pelo órgão competente do Ministério da Saúde, poderão ser anunciados nos órgãos de comunicação social com as advertências quanto ao seu abuso, conforme indicado pela autoridade classificatória.
+
+
+§ 2º
+
+A propaganda dos medicamentos referidos neste artigo não poderá conter afirmações que não sejam passíveis de comprovação científica, nem poderá utilizar depoimentos de profissionais que não sejam legalmente qualificados para fazê-lo.
+
+
+§ 3º
+
+Os produtos fitoterápicos da flora medicinal brasileira que se enquadram no disposto no § 1º deste artigo deverão apresentar comprovação científica dos seus efeitos terapêuticos no prazo de cinco anos da publicação desta Lei, sem o que sua propaganda será automaticamente vedada.
+
+
+§ 4º
+
+Toda a propaganda de medicamentos conterá obrigatoriamente advertência indicando que, a persistirem os sintomas, o médico deverá ser consultado.
+
+
+Art. 8º.
+
+A propaganda de defensivos agrícolas que contenham produtos de efeito tóxico, mediato ou imediato, para o ser humano, deverá restringir-se a programas e publicações dirigidas aos agricultores e pecuaristas, contendo completa explicação sobre a sua aplicação, precauções no emprego, consumo ou utilização, segundo o que dispuser o órgão competente do Ministério da Agricultura e do Abastecimento, sem prejuízo das normas estabelecidas pelo Ministério da Saúde ou outro órgão do Sistema Único de Saúde.
+
+
+Art. 9º.
+
+Aplicam-se aos infratores desta Lei, sem prejuízo de outras penalidades previstas na legislação em vigor, especialmente no Código de Defesa do Consumidor, as seguintes sanções:
+
+
+I –
+
+advertência;
+
+
+II –
+
+suspensão, no veículo de divulgação da publicidade, de qualquer outra propaganda do produto, por prazo de até trinta dias;
+
+
+III –
+
+obrigatoriedade de veiculação de retificação ou esclarecimento para compensar propaganda distorcida ou de má-fé;
+
+
+IV –
+
+apreensão do produto;;
+
+
+V –
+
+multa de R$ 500,00 (quinhentos reais) a R$ 1.500,00 (mil e quinhentos reais), cobrada em dobro, em triplo e assim sucessivamente, na reincidência.
+
+
+§ 1º
+
+As sanções previstas neste artigo poderão ser aplicadas gradativamente, e, na reincidência, cumulativamente, de acordo com as especificidades do infrator.
+
+
+§ 2º
+
+Em qualquer caso, a peça publicitária fica definitivamente vetada.
+
+
+§ 3º
+
+Consideram-se infratores, para efeitos deste artigo, os responsáveis pelo produto, pela peça publicitária e pelo veículo de comunicação utilizado.
+
+
+Art. 10º.
+
+O Poder Executivo regulamentará esta Lei no prazo máximo de sessenta dias de sua publicação.
+
+
+Art. 11º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 12º.
+
+Revogam-se as disposições em contrário.
+
+
+Buritis, 22 de dezembro de 2004
+
+**JOSÉ VÍCENTE DAMASCENO Prefeito Municipal**
+
+**Projeto Lei 035/04.**
+

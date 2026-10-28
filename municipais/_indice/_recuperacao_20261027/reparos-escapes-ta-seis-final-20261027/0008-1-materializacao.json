@@ -1,0 +1,73 @@
+{
+  "host": "sapl.bofete.sp.leg.br",
+  "norma_id": 2364,
+  "ta_id": 73,
+  "aprovado": true,
+  "path": "municipais/SP/bofete/leis-ordinarias/2025/leis-ordinarias-2394-2025-sapl-2364.md",
+  "sha256": "b421e31968c0e12f48d69ed9c24b5ec9d4a3c8be39afba5b36e3d68f15dc7241",
+  "bytes": 6653,
+  "gates": {
+    "tabelas_nativas_prova": null,
+    "tipo_oficial": "Lei Ordinária",
+    "identidade_literal": {
+      "epigrafes": [
+        {
+          "tipo": "LEI ORDINARIA",
+          "numero": "2.394",
+          "numero_normalizado": "2394",
+          "trecho": "LEI ORDINARIA Nº 2.394, DE 07 DE ABRIL DE 2025",
+          "data_literal": "2025-04-07"
+        }
+      ],
+      "numero_metadado": "2394",
+      "numero_literal_confirmado": true,
+      "data_literal_confirmada": true,
+      "divergencias": [],
+      "limite": "Tipo completo aceito somente quando literal e igual ao cadastro oficial; todos os números e datas encontrados devem concordar. Divergências do parser anterior são preservadas. Jurisdição, fonte, anexos, contexto e vigência continuam sujeitos aos demais gates."
+    },
+    "categoria": "leis-ordinarias",
+    "tipo_canonico": "Lei ordinária",
+    "titulo_literal": "Lei Ordinária nº 2.394, de 07 de abril de 2025",
+    "tokens_ativos": 847,
+    "dispositivos_ativos": 29,
+    "historicos_excluidos": 0,
+    "cortes_de_vigencia_declarados": [],
+    "anexos_proprios": 0,
+    "limite": "Corte declarado é atribuído ao portal. Ausência de corte não certifica atualização nem vigência integral."
+  },
+  "prova_ta": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bofete.sp.leg.br/6669e74d5c0c2a334cda31a6628ecdb43137451ca7050ef03c50471ee0b82a5d.json",
+    "sha256": "1f93eaf7c30b8b11b341ec15f02d33d9348382bbbb1b61bb5d0e6b9d207d672f",
+    "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.bofete.sp.leg.br/6669e74d5c0c2a334cda31a6628ecdb43137451ca7050ef03c50471ee0b82a5d.meta.json",
+    "sha256_metadata": "a6a90430e4a9ef5c321daeb1b20509c0100f00313b39e98d56349cd87a312552",
+    "url": "https://sapl.bofete.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1"
+  },
+  "prova_casa": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bofete.sp.leg.br/e076c67ee49993e54e6f44c5cf45437f1ad384762fa0a20d22f15c8ee5df59a7.json",
+    "sha256": "1559d099a497fbb5c7359d9e79839da0a4bb813700be6883879e8c07b5023a26",
+    "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.bofete.sp.leg.br/e076c67ee49993e54e6f44c5cf45437f1ad384762fa0a20d22f15c8ee5df59a7.meta.json",
+    "sha256_metadata": "6c3c64b9e4d39146f539bd2d5a50c2930a0ea4b63fff49c6ded225c67a586c56",
+    "url": "https://sapl.bofete.sp.leg.br/api/base/casalegislativa/"
+  },
+  "prova_norma": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bofete.sp.leg.br/66eb911c00575de9177ebcb4f6776b498170c80953079872ef48d0fc14170eb4.json",
+    "url": "https://sapl.bofete.sp.leg.br/api/norma/normajuridica/2364/",
+    "url_final": "https://sapl.bofete.sp.leg.br/api/norma/normajuridica/2364/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "0d5c33afae32c35801a623f57447f065efccb542b7986f22c50d236cf8df2b80",
+    "bytes": 1143,
+    "capturado_em": "2026-10-27T19:11:15.356559-03:00"
+  },
+  "prova_frontend": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bofete.sp.leg.br/5f945a1c963d2c4c0dcccf576693b934d4910ed13860ad5272b8536cd8fe726d.html",
+    "url": "https://sapl.bofete.sp.leg.br/norma/2364",
+    "url_final": "https://sapl.bofete.sp.leg.br/ta/73/text",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "04b64c6c564b3501eee33f8cc7c8610195ee92e9cd271c0cad47014a8b16ecc9",
+    "bytes": 30236,
+    "capturado_em": "2026-10-27T19:11:16.834598-03:00"
+  },
+  "transcricao": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.bofete.sp.leg.br/candidatos/2364-73.txt"
+}

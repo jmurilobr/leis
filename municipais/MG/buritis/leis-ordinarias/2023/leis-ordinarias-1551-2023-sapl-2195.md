@@ -1,0 +1,361 @@
+---
+titulo: "Lei nº 1.551, de 08 de novembro de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1551"
+data: "2023-11-08"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/2195"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/446/text"
+sha256_fonte: "893ae6d9b26047c7702d4f8fc19d2a0b0d01f4de540baa9db79b71e52d1d8bd0"
+sha256_texto: "4b04b9436b715727f72b34bc31fb964ba6a137685082ea5e08d47a2427e8252a"
+capturado_em_fonte: "2026-10-27T19:45:56.316214-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.551, de 08 de novembro de 2023
+
+Institui o Programa Bolsa-Atleta no Município de Buritis e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE BURITIS, Estado de Minas Gerais no uso de suas atribuições legais, que lhe confere a Lei Orgânica Municipal, faz saber que a Câmara Municipal de Buritis, aprova e ele, em seu nome, sanciona a seguinte lei:
+
+
+#### CAPÍTULO I — DO OBJETO DO PROGRAMA BOLSA-ATLETA
+
+
+Art. 1º.
+
+Fica instituído, no Município de Buritis-MG, o Programa Bolsa-Atleta, com o objetivo de valorizar e beneficiar atletas e paratletas, amadores ou de alto rendimento, em competições municipais, regionais, estaduais, nacionais e internacionais.
+
+
+Art. 2º.
+
+O Programa Bolsa-Atleta, de que trata esta Lei, tem como objetivos:
+
+
+I –
+
+valorizar e apoiar, inclusive financeiramente, atletas e paratletas do Município de Buritis;
+
+
+II –
+
+desenvolver a prática do esporte como meio de promoção social, mediante a concessão de bolsas remuneradas e incentivos técnicos e materiais.
+
+
+Art. 3º.
+
+O Programa Bolsa-Atleta atenderá as modalidades olímpicas e não olímpicas constantes do programa a ser estruturado pela Secretaria Municipal de Esportes, com prioridade àquelas em que o Município vem sendo representado em eventos oficiais, de âmbito municipal, regional, nacional e internacional.
+
+
+#### CAPÍTULO II — DOS REQUISITOS DE POSTULAÇÃO E CONCESSÃO DO BENEFÍCIO
+
+
+Art. 4º.
+
+São requisitos para pleitear a Bolsa-Atleta:
+
+
+I –
+
+ter no mínimo 8 (oito) anos de idade, sem limite de idade máxima;
+
+
+II –
+
+estar federado a alguma entidade de prática desportiva ou filiado a Associação ou Liga Municipal Amadora da categoria;
+
+
+III –
+
+manter-se praticando sua atividade durante o período que estiver recebendo o auxílio, comprovado por declaração do professor, instrutor ou técnico da Secretaria de Esportes e do Conselho Municipal de Esportes, que tenha conhecimento do comprometimento do atleta e paratleta e cuja constatação de falta de assiduidade acarretará no cancelamento do auxílio;
+
+
+IV –
+
+residir no Município de Buritis;
+
+
+V –
+
+ter participado de competição esportiva em âmbito municipal e, na ausência desta ter participado de competições regionais, estaduais, nacionais ou internacionais no ano imediatamente anterior aquele em que pleitear a Bolsa-Atleta;
+
+
+VI –
+
+estar representado pelos pais ou responsável legal no caso de atleta e paratletas com menos de 18 (dezoito) anos de idade;
+
+
+VII –
+
+o atleta com idade inferior a 18 (dezoito anos) deverá comprovar que está matriculado em instituição de ensino público ou privado, bem como apresentar rendimento escolar, não podendo ser reprovado no ano letivo da concessão do incentivo, além de ter ótima conduta disciplinar, comprovados através de boletim ou relatório da escola;
+
+
+VIII –
+
+participar de entrevistas com os coordenadores do Programa Bolsa-Atleta, se convocado;
+
+
+IX –
+
+comprometer-se a representar o município de Buritis, em sua modalidade e categoria, em competições promovidas ou consideradas de interesse da Secretária Municipal de Esportes ou de interesse desportivo estadual, nacional ou internacional;
+
+
+X –
+
+não estar cumprindo qualquer tipo de punição imposta por Tribunais de Justiça Desportiva, Liga, Federação e/ou Confederação das modalidades correspondentes, além da necessidade de apresentar Certidão Criminal Negativa;
+
+
+XI –
+
+apresentar calendário anual de preparação e treinamentos em 2 (duas) competições oficiais da modalidade, e que sejam de abrangência regional, estadual, nacional ou internacional;
+
+
+XII –
+
+possuir cadastro na Secretaria Municipal de Esportes na respectiva modalidade de sua atuação através de formulário, observando os critérios de mérito esportivo;
+
+
+XIII –
+
+ceder os direitos de imagem ao Município de Buritis e usar, obrigatoriamente o brasão da cidade em seus uniformes e nas demais ações de divulgação e marketing;
+
+
+XIV –
+
+apresentar declaração do professor, instrutor ou técnico, da qual conste o local onde o atleta desenvolve seus treinamentos bem como quanto tempo pratica a referida modalidade;
+
+
+XV –
+
+apresentar registro profissional do professor, instrutor ou técnico;
+
+
+XVI –
+
+os paratletas deverão apresentar laudo médico comprovando suas limitações.
+
+
+Parágrafo único
+
+A concessão da Bolsa-Atleta é individual, temporária, e perdura enquanto o beneficiado atender as condições estabelecidas na regulamentação do programa.
+
+
+#### CAPÍTULO III — DO PERÍODO DE INSCRIÇÕES E DA COMPETÊNCIA PARA AVALIAÇÃO
+
+
+Art. 5º.
+
+As inscrições para postulado ao Bolsa-Atleta serão abertas uma vez ao ano, observada a existência de disposição orçamentária, cujas datas constarão em edital de convocação expedido pela Secretaria Municipal de Esportes.
+
+
+Parágrafo único
+
+No ato da inscrição, o atleta ou paratleta deverá comprovar o preenchimento dos requisitos constantes do artigo 4º, além de apresentar os demais documentos exigidos no ato convocatório.
+
+
+Art. 6º.
+
+O processo de seleção dos inscritos será subdividido entre:
+
+
+I –
+
+Secretaria Municipal de Esportes, como órgão coordenador e operacional, responsável pela estruturação do programa e pela fixação de critérios classificatórios;
+
+
+II –
+
+Conselho Municipal de Esportes, como órgão deliberativo, responsável pela conferência das inscrições e classificação dos atletas, em observância aos critérios previamente estabelecidas.
+
+
+Art. 7º.
+
+Ao término do prazo fixado para as inscrições do Programa Bolsa-Atleta, as informações de cada atleta serão submetidas à apreciação do Conselho Municipal de Esportes, que deverá concluir a lista classificatória, com identificação dos atletas aprovados em cada categoria e seus suplentes imediatos.
+
+
+Parágrafo único
+
+A ausência de protocolo de documento listado no edital de convocação, assim como a não comprovação de condição exigida pela presente Lei culminará na imediata desclassificação do candidato, cuja condição constará da lista classificatória.
+
+
+Art. 8º.
+
+O ato de homologação deverá ser assinado pelo Secretário Municipal de Esportes, que será a autoridade competente para julgamento de recursos e esclarecimentos quanto aos critérios adotados pelo Conselho.
+
+
+#### CAPÍTULO IV — DA ESTRUTURAÇÃO, PERIODICIDADE E VALORIZAÇÃO
+
+
+Art. 9º.
+
+O valor da Bolsa-Atleta será de R$ 700.00 (setecentos reais) a R$1.400,00 (mil e quatrocentos reais).
+
+
+Art. 10.
+
+A Bolsa-Atleta será concedida pelo prazo máximo de 12 (doze) meses.
+
+
+§ 1º
+
+Transcorrido o lapso temporal fixado pelo caput, deverá ser publicado novo edital de convocação e realizado novo processo classificatório, ainda que resulte na contemplação de atleta beneficiado anteriormente.
+
+
+§ 2º
+
+Fica estimado em 50 atletas acompanhados de seus representantes legais, podendo esse número ser reduzido ou ampliado nos termos das dotações orçamentárias em vigor na data da liberação.
+
+
+Art. 11.
+
+Serão beneficiados pelo Programa Bolsa-Atleta:
+
+
+I –
+
+atletas e paratletas, amadores e de alto rendimento, classificados nos ternos da regulamentação específica;
+
+
+II –
+
+técnicos, treinadores e assistente esportivo, que treinam ou coordenam atividades de treinamento aos atletas contemplados pelo programa, com bolsa equivalente a 50% (cinquenta por cento) da concedida ao atleta.
+
+
+Art. 12.
+
+O Município de Buritis, através da Secretaria Municipal de Esportes, concederá benefício pecuniários aos beneficiários do Programa Bolsa Atleta, cujos valores serão fixados, anualmente, através de ato da administração.
+
+
+#### CAPÍTULO V — DO DESLIGAMENTO DO PROGRAМА
+
+
+Art. 13.
+
+Serão desligados do Programa Bolsa Atleta, atletas e paratletas que:
+
+
+I –
+
+não apresentarem documento comprovando sua participação nas competições previstas no projeto;
+
+
+II –
+
+Frequência escolar mensal inferior a 80% (oitenta por cento) para menores de 18 anos de idade;
+
+
+III –
+
+se mudarem para outro Município, Estado ou País;
+
+
+IV –
+
+ocorrer fraude nas informações e documentos exigidos pelos órgãos públicos e órgãos de competições;
+
+
+V –
+
+interromperem de forma injustificada os treinamentos ou quando convocados, não participarem das competições sem justificativa plausível;
+
+
+VI –
+
+se negarem a representar o Município em competições promovidas de interesse da Secretaria Municipal de Esportes ou de interesse desportivo estadual, nacional ou internacional;
+
+
+VII –
+
+sofrer punição disciplinar aplicada pela Secretaria Municipal de Esportes, federação ou entidade nacional;
+
+
+VIII –
+
+o atleta guia que abandonar o paratleta com quem competia ao pleitear o benefício perderá o direito a Bolsa Atleta Municipal;
+
+
+IX –
+
+utilizarem os recursos da Bolsa Atleta Municipal para fins não especificados no artigo 13 desta Lei;
+
+
+X –
+
+forem dispensados de equipes representativas de Buritis, por indisciplina ou a seu pedido;
+
+
+XI –
+
+representar outra entidade sem anuência da Secretaria Municipal de Esportes;
+
+
+XII –
+
+forem condenados por doping, ou caso seja constatado que fizeram o uso de drogas ilícitas;
+
+
+XIII –
+
+deixarem de cumprir quaisquer das condições exigidas por esta Lei.
+
+
+§ 1º
+
+Ocorrendo o desligamento, o Conselho Municipal de Esportes comunicará de imediato o atleta e convocará, observada a ordem classificatória, o próximo atleta constante da lista de espera, se for o caso, ou o atleta substituto, o qual será beneficiado pelo tempo que faltar para completar o período concedido ao substituído.
+
+
+§ 2º
+
+O desligamento do atleta ou paratleta do Programa Bolsa-Atleta, implicará na descontinuidade do pagamento da bolsa ao técnico, treinador ou assistente esportivo cadastrado conjuntamente a ele.
+
+
+§ 3º
+
+Ocorrendo a constatação de fraude das informações e documentos, nos termos do inciso IV, a Secretaria Municipal de Esportes deverá comunicar ao Ministério Público do Estado de Minas Gerais, para verificação de cometimento de conduta tipificada como crime.
+
+
+#### CAPÍTULO VI — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 14.
+
+A Secretaria Municipal de Esportes ficará incumbida de todo o trabalho de orientação, avaliação, acompanhamento e fiscalização, e estabelecerá normas administrativas para o desenvolvimento deste Programa.
+
+
+Art. 15.
+
+O beneficiário do Programa Bolsa-Atleta, poderá acumulá-la com bolsas do Estado ou da União, uma vez preenchidos os requisitos necessários à concessão por cada um deles.
+
+
+Art. 16.
+
+As despesas decorrentes da concessão da Bolsa-Atleta correrão por conta dos recursos orçamentários próprios, constantes do orçamento vigente.
+
+
+Art. 17.
+
+A concessão da Bolsa -tleta Municipal não gera qualquer vínculo trabalhista entre os beneficiados e a Administração Pública Municipal.
+
+
+Art. 18.
+
+O Chefe do Poder Executivo Municipal regulamentará esta Lei, por ato próprio, no que couber, a fim de estabelecer normas, critérios, termos e condições, a critério de sua conveniência e oportunidade, bem como ratificar os respectivos valores, definidos pela Secretaria Municipal de Esportes, a serem destinados aos beneficiários do Programa Bolsa-Atleta.
+
+
+Art. 19.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**Dr. Keny Soares Rodrigues Prefeito Municipal de Buritis**
+
+Ref. à Proposição de Lei nº 36/2023, de autoria do Executivo Municipal
+

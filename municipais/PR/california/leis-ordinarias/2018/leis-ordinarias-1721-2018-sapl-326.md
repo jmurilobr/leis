@@ -1,0 +1,53 @@
+---
+titulo: "Lei Ordinária Municipal nº 1.721, de 02 de outubro de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "1721"
+data: "2018-10-02"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/326"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/306/text"
+sha256_fonte: "f4d079e635c2f20114430698fe4a978f9384a2f6b09927c6c5aa0c8fc14f0a0d"
+sha256_texto: "dd9b9c9cfde6c0aa0c4fca548741ffc531c7130941e23634edbebf7420739f38"
+capturado_em_fonte: "2026-10-27T22:31:44.277840-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 1.721, de 02 de outubro de 2018
+
+Acrescenta ao Perímetro Urbano de Califórnia, os imóveis: LOTE DE TERRAS SOB Nº 19-97-A e o LOTE DE TERRAS, com 1,50 alqueires, iguais a 36.300,00 m2, situados na Colonização Nova Califórnia, Município de Califórnia.
+
+
+A CÂMARA DE VEREADORES DO MUNICÍPIO DE CALIFÓRNIA, ESTADO DO PARANÁ, APROVOU E EU PREFEITO SANCIONO A SEGUINTE LEI: LEI:
+
+
+Art. 1º.
+
+Passa a fazer parte integrante do Perímetro Urbano desta cidade de Califórnia, Estado do Paraná, os seguintes imóveis:
+
+**- LOTE DE TERRAS sob Nº 19-97-A**, com a área de 50.728,79 m2, iguais a 5,07has, ou seja 2,09 alqueires paulistas, resultante da unificação dos lotes 19-B-REM e 97-1-A, situado na Colonização Nova Califórnia, Município de Califórnia, Comarca de Marilândia do Sul/PR, dentro das seguintes divisas, confrontações e metragens: “Partindo de um marco de madeira, cravado na margem esquerda do Ribeirão Nº 02, segue confrontando com terras de quem é de direito, mede-se 124,88 metros no rumo 59º02’32” SO, indo encontrar um ponto no eixo da Rodovia do Café (BR 376); deste deflete-se a direita, segue pela Rodovia sentido a Apucarana, nas distancias e rumos: 13,74 metros no rumo 14º25’50” NO, 18,89 metros no rumo 09º59’37” NO, 34,25 metros no rumo 7º41’17” NO, 22,55 metros no rumo 05º31’32” NO, indo 19,07 metros no rumo 06º22’39” NO e 161,35 metros no rumo 05º25’56” NO, indo encontrar outro ponto no eixo da rodovia; deste deflete-se a direita, segue confrontando com o Núcleo Habitacional, mede-se 22,04 metros no rumo 89º39’32” SE, indo encontrar outro marco; deste deflete-se a esquerda, segue com a mesma confrontação, mede-se 20,00 metros no rumo 02º03’43” NE, indo encontrar outro marco; deste deflete-se a direita, segue confrontando com o final da Rua Pouso Alegre, mede-se 10,71 metros no rumo 89º39’33” SE, indo encontrar outro ponto no eixo da Estrada Municipal da Água Seis; deste deflete-se a direita, segue pela estrada sentido a Rodovia do Café nas distancias e rumos: 24,11 metros no rumo 22º12’45”SE, 89,29 metros no rumo 10º42’06” SE, e 10,68 metros no rumo 25º07’35” SE, indo encontrar outro ponto no eixo da estrada sobre o Ribeirão Nº 02; deste deflete-se a direita, sobe pelo Ribeirão, até encontrar o marco de partida.”
+
+**Objeto da Matricula Nº 19.935 do CRI de Marilândia do Sul/PR.**
+
+**- LOTE DE TERRAS,** com 1,50 alqueires, iguais a 36.300,00 m2, ou 3,6 has, situado na Colonização Nova Califórnia, distrito e Município de Califórnia, Comarca de Marilândia do Sul/PR, com as seguintes divisas:- “Principiando num marco de madeira de lei cravado a margem da estrada do Bairro Laranjal, segue-se confrontando com o lote nº. 175, da Gleba Barra Nova, numa distancia de 110,00 metros, até outro marco; daí segue-se confrontando com o lote 177 nos rumos e distancias:- NO 44º23’ com 45,50 metros; - NO 42º44’ com 22,00 metros; -NP 12º59’ com 25,00 metros; NO 41º29’ com 111,00 metros; NE 29º56’ com 72,30 metros; NE 24º39’ com 42,00 metros; NE 52º15’ com 92,00 metros; NE 59º15’ com 46,20 metros; NE 22º23’ com 39,00 metros, deste ultimo marco, cravado a margem da referida estrada, segue-se acompanhando a mesma até atingir o marco ponto de partida.”
+
+**Objeto da Matrícula Nº 2.973 do CRI de Marilândia do Sul/PR.**
+
+
+Art. 2º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Edifício da Prefeitura do Município de Califórnia,aos 02 dias do mês de outubro de 2018.
+
+***PAULO WILSON MENDES***
+
+Prefeito
+

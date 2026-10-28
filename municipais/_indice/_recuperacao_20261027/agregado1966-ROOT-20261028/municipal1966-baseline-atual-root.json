@@ -1,0 +1,198 @@
+{
+  "HEAD": "80e3577a4941abd17fc28cdd26f79a157de03152",
+  "baseline": "municipais/_indice/_recuperacao_20261027/agregado1966-v7-20261028/baseline-com-reservas47/manifesto.json",
+  "sha256_baseline": "6ee85e0d9a4623921f3b23135ec20f7ae607e4911773f6087783e88647107b53",
+  "total": 32407,
+  "blobs_identicos_por_oid": 32360,
+  "reservas_agora_publicadas_conferidas_por_sha": {
+    "municipais/GO/cacu/leis-ordinarias/1955/leis-ordinarias-3-1955-sapl-29.md": {
+      "oid": "8fccca31d3f52f90af588681ba7570424f17ee28",
+      "sha256": "bc46030d11fd5ff32e866b1e097b437482751529e0ead89cbcce68c24ecf7b33"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1956/leis-ordinarias-1-1956-sapl-30.md": {
+      "oid": "1ded60eb46816f5a0397359b844fdd8ac9ef9a2c",
+      "sha256": "b9505d6592c1bc31615b58b83d5b4759e0744270b97cf0be40396ac2c03ea568"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1965/leis-ordinarias-1-1965-sapl-121.md": {
+      "oid": "9ad54b8400bee812f0865accf76ec014cd8738fb",
+      "sha256": "fe937cbe795361e8c050369290151d5a0437ea2a4ca2adf4ef797c48b98968a2"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1965/leis-ordinarias-10-1965-sapl-130.md": {
+      "oid": "bf7292be169d5850d81306db6d0883c0fa596d27",
+      "sha256": "6b7f6585980ba8f42426ad90def466d25c63549f8d9a7ee3227eb22733ae3fba"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1965/leis-ordinarias-3-1965-sapl-123.md": {
+      "oid": "da5b55dfcde46a79028e786f9ab370d1a76fcd66",
+      "sha256": "b5dd9a3de74d2418fccc58a967771cc502434a0c0e940cae7c44185250d49333"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1965/leis-ordinarias-5-1965-sapl-125.md": {
+      "oid": "27b093f24b41ad7dbc7e9fc836fa77c4c2e2b410",
+      "sha256": "652cbd0bbda31fc0bf861f0b6227f66f5076cea9374d60010dc999b85ad8ee43"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1965/leis-ordinarias-6-1965-sapl-126.md": {
+      "oid": "e1f51a8069fb50ad70b647b36f9c9fcf1a25f676",
+      "sha256": "56cfc2b9506eade403dee812d04da012f65fef8d1db8ee0928ba6a889550e542"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1965/leis-ordinarias-8-1965-sapl-128.md": {
+      "oid": "9f34722885c9a70f94bece6199c25e9f0a140395",
+      "sha256": "768f5efb2bcd2f58556508f12542a79f8d74a162ff6dcb576bc78839811cedd2"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1965/leis-ordinarias-9-1965-sapl-129.md": {
+      "oid": "d8e8f01bc6b3b2d723d1377f5b5bbeac0d001f69",
+      "sha256": "6044724201a1f5cd8b8403d31beb65d77e13d1098cb3e090bdc69cd7d2e493b6"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1971/leis-ordinarias-7-1971-sapl-257.md": {
+      "oid": "300dd8a9cb80caeb69fe9b232016c3e77cd80425",
+      "sha256": "7fa8712b8f81a2b205ca39b3346274e28cd30d2975ba813773454ab5d0bfc5c6"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1973/leis-ordinarias-28-1973-sapl-351.md": {
+      "oid": "0e9f01a52290c32e11c91f04f536b1662b7437a6",
+      "sha256": "ad1e279c824a4555bfbb3d71ecf690bfbfe86eebeb2e842e3d741f7dd7d5ffe8"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1973/leis-ordinarias-29-1973-sapl-352.md": {
+      "oid": "540e2c8d18cee9924924cea0f66998276563d70a",
+      "sha256": "3f7e5d4a6e0fdd4932aebb216ec1469ba02d2a0842b762dba7896105e0b04132"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1973/leis-ordinarias-30-1973-sapl-353.md": {
+      "oid": "8e617f5b8b21bfe9d7fe0a2c605476f967d652ad",
+      "sha256": "0e00beb3d51890f63d012754722245b5c9c4c859e8403b5428de2d1f5a01a2a6"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1973/leis-ordinarias-31-1973-sapl-354.md": {
+      "oid": "5b9996ac680bdeec63e30bd41c492b3155907027",
+      "sha256": "4f67a830d0c56978c67e1ce7b7f69b4feab3dc42b364acc2bee0c56b573e322f"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1973/leis-ordinarias-32-1973-sapl-355.md": {
+      "oid": "307f4c0d4bd1f0ce1e62078b669e515fdce55e6a",
+      "sha256": "275ec7b682c1bf9e619f919d181ce7bfb28f82a65a0c7b9fe924892cb4098bba"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1973/leis-ordinarias-34-1973-sapl-357.md": {
+      "oid": "56f4546db3a066ce6fab78d3e5afcd13e3cf0615",
+      "sha256": "e47a33312cba6d646f1a001d741a210c6949afdaf00766012ad108714a4325ce"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1973/leis-ordinarias-36-1973-sapl-359.md": {
+      "oid": "81d5a0253992b14ec1abb647bc4ae2c37e12c07c",
+      "sha256": "fc5a57f7acdd1b24a54c04b1e79dc60781936f7da2a6f84c6f9656c89f9c4119"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1973/leis-ordinarias-37-1973-sapl-360.md": {
+      "oid": "5016b92fb86723213d715e695a929a7e02635286",
+      "sha256": "3e261b682e8a9bec55747a945f96945475fe581bdf153265672a7fe95e68004d"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1973/leis-ordinarias-38-1973-sapl-361.md": {
+      "oid": "8e674ac2f2892682816d0e347840adfdd1b72c05",
+      "sha256": "352aece815c40fd56a1a6c01317ce9a1f0fe3f390acb229abe44e83081c9db2c"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1974/leis-ordinarias-41-1974-sapl-364.md": {
+      "oid": "b9c71f7d03480485a47070c15f8741ab976579a9",
+      "sha256": "e401410269505bf6f405ab938a405fce5cb3c6557c6df4679c5bd7c3b449e708"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1974/leis-ordinarias-42-1974-sapl-365.md": {
+      "oid": "525cc540b09a4636271f87385f9b6f0d75464e68",
+      "sha256": "3f895c630815f11c82eb012e59b90f7342d4dd31e5a9530f1288a679b645c18e"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1974/leis-ordinarias-43-1974-sapl-366.md": {
+      "oid": "5bc8e21c30ff6256135203671e56d0fc87f05e74",
+      "sha256": "c86bdc557a5d6dd61c15f7efc1331a881d931aeb7445a6dae7a13e07f0edf179"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1974/leis-ordinarias-44-1974-sapl-367.md": {
+      "oid": "84b0ce5afa28cab359a33d15467c04c227796174",
+      "sha256": "3aca5a038fc7476507eac0049a1a39303c249ad3cf33f8b45c7e7a2e6badf984"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1974/leis-ordinarias-45-1974-sapl-368.md": {
+      "oid": "07723535612ebc630088db0cc653f8b37b55ea29",
+      "sha256": "629d02c2c59a05c9f0c08c849930ce65528d12efc87233c96b66f0f82b72e242"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1974/leis-ordinarias-46-1974-sapl-369.md": {
+      "oid": "719261913b987aec181ef23b9d9e9a658945b024",
+      "sha256": "95e227f49e7f16112fb549bb240ad7df779dcbe94fc26a9c91c329d4ba7056ef"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1974/leis-ordinarias-49-1974-sapl-372.md": {
+      "oid": "a299371d080e4796d5a7f8cd7814a8a10714c3ad",
+      "sha256": "36a9cffc73d4ef3287b28a3e5a32b23a94a211182e546755a31de9e9cf9e728a"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1974/leis-ordinarias-50-1974-sapl-373.md": {
+      "oid": "03825aa1be8783e7bf7634cc60f84cdaadf0430f",
+      "sha256": "710bfc62e24437722b46488d75bbf323d3c5dff1ee3a66b9d81761ce894036a4"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1974/leis-ordinarias-53-1974-sapl-376.md": {
+      "oid": "23c8bf0440ec49d0a321687d5b02b47a20aeb2ae",
+      "sha256": "06485dd102819b091ffd1722d253270dfc238a54dc8950eec895a30795dab486"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1974/leis-ordinarias-54-1974-sapl-377.md": {
+      "oid": "8fba4101877f1bd6039b03cb9c665dfd690faf08",
+      "sha256": "0af94837e320d07d5efa92c58c0af00539018d740cc0dca1cb139b04a0522e64"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1975/leis-ordinarias-58-1975-sapl-381.md": {
+      "oid": "c6051c59865e8e869b5033112e22cb15a7ba8f33",
+      "sha256": "3bc5a8fb711f203963e3bfdf772e19c8b1af44b669984d1b7173d781db537bf3"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1975/leis-ordinarias-60-1975-sapl-383.md": {
+      "oid": "6652836e91c915a84b639f1c60126fd40e23baef",
+      "sha256": "ef828d3fe646460e77ccbcc81669d0fa5bf918ffdcea43bb62415291b3975444"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1975/leis-ordinarias-61-1975-sapl-384.md": {
+      "oid": "6f545d642ee291f1f2667b00acfa296cadbd37f8",
+      "sha256": "5674f1ab850f36eadb282596c234a0ca8c7320b021539e917a5a989c91e8391e"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1975/leis-ordinarias-62-1975-sapl-385.md": {
+      "oid": "999bfd2423f3ea3339ebfac5700b33af18b584b3",
+      "sha256": "55e1fb565776ab541c6c20c989eb71b6e197c62e08c2a32729cff9ff1f1f5135"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1975/leis-ordinarias-63-1975-sapl-386.md": {
+      "oid": "fd94fce8b57e1edd916319a5e5578ac308036d6a",
+      "sha256": "376612dc050b20a85ca750c2782008b9640362628ad5b585a6c0aad7ff420bad"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1975/leis-ordinarias-65-1975-sapl-388.md": {
+      "oid": "8346ae3578e02dd7cb245e1f226c1eeab13e9a2b",
+      "sha256": "b42aed57ca88e54967e022ea227646860834252c9cb4030783e99098175b6f3b"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1975/leis-ordinarias-81-1975-sapl-405.md": {
+      "oid": "431b7176d83874259974c957fd2b0232f0137658",
+      "sha256": "1794d6cbe83c6954af8c097b7522ccebada787840cba1b1369ebffbbd2e00ba6"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1975/leis-ordinarias-82-1975-sapl-406.md": {
+      "oid": "e6be0a24d70b2205855fc8bca23b451cd1defa4a",
+      "sha256": "2239fde7a4ded7f17a178fa4b87d3aea73f870d91b2799959f905a67f387f706"
+    },
+    "municipais/GO/cacu/leis-ordinarias/1976/leis-ordinarias-89-1976-sapl-413.md": {
+      "oid": "5f343e37f6204df317afb54cfafebf23de80e74b",
+      "sha256": "0ab2d254dff07becb345d5b0c6853a8a9f533590f5ed8008eb8b8527ddc61805"
+    },
+    "municipais/GO/cacu/resolucoes/2021/resolucoes-8-2021-sapl-3040.md": {
+      "oid": "ae1bb84ac168280eb0d5b3a12a1357e818646fe1",
+      "sha256": "f0ddcad6c2b9df2a4bc34b81bb84c402fcaae6e06b8a05b17df1bd73bd009ea9"
+    },
+    "municipais/MG/buritis/leis-ordinarias/1971/leis-ordinarias-8-1971-sapl-787.md": {
+      "oid": "e3e92ebefe84ccd8feaa57c2162a62e1385939d1",
+      "sha256": "117f2342d9af090cc68bf8fb573f0679b9b60b774ea125c35756adbcd261fc51"
+    },
+    "municipais/PE/cabo-de-santo-agostinho/leis-ordinarias/1972/leis-ordinarias-1074-1972-sapl-4678.md": {
+      "oid": "038bee3804007b6013a27db1ea564186060bd308",
+      "sha256": "51d1d6431802840ce586808c896a4fb09fb7b3d8a80a9bf66bb9cdad0b12548d"
+    },
+    "municipais/PE/cabo-de-santo-agostinho/leis-ordinarias/1982/leis-ordinarias-1293-1982-sapl-4108.md": {
+      "oid": "6bcf2f9c35fd886b80b2f9266d82a9cc689b7b40",
+      "sha256": "a3c2adc365035ff31e3fefff8f1d870fba9f6e724071c6ab2a48c1abc4f1a33f"
+    },
+    "municipais/PE/cabo-de-santo-agostinho/leis-ordinarias/1995/leis-ordinarias-1710-1995-sapl-2386.md": {
+      "oid": "b2fc7568764540c0d14b6ed47cbf8a7908e7c6d7",
+      "sha256": "9e0d59f744ad2981c701f6460fcca6bd3184e64f312f2d5e228eb5549ef56362"
+    },
+    "municipais/PE/cabo-de-santo-agostinho/leis-ordinarias/2005/leis-ordinarias-2255-2005-sapl-1553.md": {
+      "oid": "1bd257818e39b5abdcffe868bf07e9b292025e9c",
+      "sha256": "d18d262c8bc29afc3d5d11c336a8230c789013e575c30b471f68f7d8b043d926"
+    },
+    "municipais/PE/cabo-de-santo-agostinho/leis-ordinarias/2005/leis-ordinarias-2256-2005-sapl-1552.md": {
+      "oid": "60e8e3ffd0a5b0643415a6182e9122017124a5c1",
+      "sha256": "03f76fa222b335038f26465f2c1c3aff1a99680f5fdd144c774796ffb29f997d"
+    },
+    "municipais/PE/cabo-de-santo-agostinho/leis-ordinarias/2006/leis-ordinarias-2340-2006-sapl-1473.md": {
+      "oid": "b4f56cf1e1f44aa62fc123dba29334dc5d2cac8f",
+      "sha256": "c2ab7dc866530dd8eb6f9dbd88f63373045cfc7cb6cc6f688cdfe901dedb5218"
+    },
+    "municipais/PR/california/leis-ordinarias/2025/leis-ordinarias-2128-2025-sapl-815.md": {
+      "oid": "f1812f23f98c567ed8af4bf1008e08a23e251c14",
+      "sha256": "df29772574a1a451c7d920617fc3b7b5cb271f151ed4ad21cf813eb1e46f7088"
+    }
+  },
+  "criterio": "O conjunto integral do HEAD municipal coincide com o baseline usado na dedup de 1.966 candidatos; as 47 reservas foram publicadas exatamente nos SHA esperados. Nenhuma modificação ou remoção adicional."
+}

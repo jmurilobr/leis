@@ -1,0 +1,107 @@
+{
+  "preparado_em": "2026-10-27T18:00:44.321784-03:00",
+  "normas_novas": 0,
+  "canonicos_incluidos": 0,
+  "escopo": "Auditoria primária AM: amostra inicial de 4 + adicional de 12 e revisão dirigida dos 4 PDFs SAPL já publicados.",
+  "suspensao": "Candidatos AM não cotejados suficientemente contra edição primária permanecem suspensos. Coerência interna do portal não prova fidelidade. A amostra não demonstra que todo o portal esteja incorreto; casos podem ser recuperados individualmente dos PDFs oficiais em pacote separado.",
+  "metas_inalteradas": true,
+  "sem_promocao": true,
+  "receipts_publicos": [
+    {
+      "original": "scripts/estados/manifestos/am-amostra-PDF-cotejo-20261027-001.json",
+      "sha256_original": "e1a1b1c6d9df4b796520806184d3cbe4ec2d761d384babd5a8d5642e96262c46",
+      "publico": "scripts/estados/manifestos/am-auditoria-PDF-publica-20261027-001/am-amostra-PDF-cotejo-20261027-001.json",
+      "sha256_publico": "e1a1b1c6d9df4b796520806184d3cbe4ec2d761d384babd5a8d5642e96262c46"
+    },
+    {
+      "original": "scripts/estados/manifestos/am-amostra-estratificada-PDF-20261027-001.json",
+      "sha256_original": "f75a6d21a3d1cccda48aa0d17398174bb216ae0d4264e3ccfe3610ec0664c5be",
+      "publico": "scripts/estados/manifestos/am-auditoria-PDF-publica-20261027-001/am-amostra-estratificada-PDF-20261027-001.json",
+      "sha256_publico": "f75a6d21a3d1cccda48aa0d17398174bb216ae0d4264e3ccfe3610ec0664c5be"
+    },
+    {
+      "original": "scripts/estados/manifestos/am-amostra-PDF-capturas-20261027-001.json",
+      "sha256_original": "26333f4a275cad06a0e6bac5cccbd7b8c0a010509b94882b129e93cadd1fdba7",
+      "publico": "scripts/estados/manifestos/am-auditoria-PDF-publica-20261027-001/am-amostra-PDF-capturas-20261027-001.json",
+      "sha256_publico": "26333f4a275cad06a0e6bac5cccbd7b8c0a010509b94882b129e93cadd1fdba7"
+    },
+    {
+      "original": "scripts/estados/manifestos/am-amostra-PDF-capturas-20261027-002.json",
+      "sha256_original": "abc864e87d0b69598d0b610a93aebc8939fa3a9724680afd21fa4a83e08ef6e8",
+      "publico": "scripts/estados/manifestos/am-auditoria-PDF-publica-20261027-001/am-amostra-PDF-capturas-20261027-002.json",
+      "sha256_publico": "abc864e87d0b69598d0b610a93aebc8939fa3a9724680afd21fa4a83e08ef6e8"
+    },
+    {
+      "original": "scripts/estados/manifestos/am-amostra-PDF-continuacao-20261027-001.json",
+      "sha256_original": "2f24918b0b3c642004d0df120f67b568108a9a8c6bc6c47a4b21a652de7abf46",
+      "publico": "scripts/estados/manifestos/am-auditoria-PDF-publica-20261027-001/am-amostra-PDF-continuacao-20261027-001.json",
+      "sha256_publico": "2f24918b0b3c642004d0df120f67b568108a9a8c6bc6c47a4b21a652de7abf46"
+    },
+    {
+      "original": "scripts/estados/manifestos/am-amostra-adicional12-20261027-001.json",
+      "sha256_original": "3a252a29f7cb6a8c0c32333f167b118bb5698e4c60f81db8f5e8dbba82de155c",
+      "publico": "scripts/estados/manifestos/am-auditoria-PDF-publica-20261027-001/am-amostra-adicional12-20261027-001.json",
+      "sha256_publico": "3a252a29f7cb6a8c0c32333f167b118bb5698e4c60f81db8f5e8dbba82de155c"
+    },
+    {
+      "original": "scripts/estados/manifestos/am-amostra12-cotejo-PDF-20261027-001.json",
+      "sha256_original": "36424f73b1cc01579d5925776e5083a8a190471ed3245b4e6bbd58fe7fc1f06e",
+      "publico": "scripts/estados/manifestos/am-auditoria-PDF-publica-20261027-001/am-amostra12-cotejo-PDF-20261027-001.json",
+      "sha256_publico": "36424f73b1cc01579d5925776e5083a8a190471ed3245b4e6bbd58fe7fc1f06e"
+    },
+    {
+      "original": "scripts/estados/manifestos/am-amostra12-PDF-capturas-20261027-001.json",
+      "sha256_original": "2b8535f944e692b46b6695fbba0c4d305791c303d5082f1a9d414193b9d55077",
+      "publico": "scripts/estados/manifestos/am-auditoria-PDF-publica-20261027-001/am-amostra12-PDF-capturas-20261027-001.json",
+      "sha256_publico": "2b8535f944e692b46b6695fbba0c4d305791c303d5082f1a9d414193b9d55077"
+    },
+    {
+      "original": "scripts/estados/manifestos/am-amostra12-continuacao-20261027-001.json",
+      "sha256_original": "fe5088ccb2dac944c8b3b2b605c0505da1e2b67b72891ffd05428f2f7b93c2a9",
+      "publico": "scripts/estados/manifestos/am-auditoria-PDF-publica-20261027-001/am-amostra12-continuacao-20261027-001.json",
+      "sha256_publico": "fe5088ccb2dac944c8b3b2b605c0505da1e2b67b72891ffd05428f2f7b93c2a9"
+    },
+    {
+      "original": "scripts/estados/manifestos/am-amostra12-continuacao-20261027-002.json",
+      "sha256_original": "7b8123158400834ba8b6596fb2c820c05605181e7a5198295dca693c1ef4faeb",
+      "publico": "scripts/estados/manifestos/am-auditoria-PDF-publica-20261027-001/am-amostra12-continuacao-20261027-002.json",
+      "sha256_publico": "7b8123158400834ba8b6596fb2c820c05605181e7a5198295dca693c1ef4faeb"
+    },
+    {
+      "original": "scripts/estados/manifestos/am-publicados4-cotejo-primario-20261027-001.json",
+      "sha256_original": "008cca33d69a25919aaa8e14b8553478da506646e262f2f57b16403b2ebbcea4",
+      "publico": "scripts/estados/manifestos/am-auditoria-PDF-publica-20261027-001/am-publicados4-cotejo-primario-20261027-001.json",
+      "sha256_publico": "008cca33d69a25919aaa8e14b8553478da506646e262f2f57b16403b2ebbcea4"
+    },
+    {
+      "original": "scripts/estados/manifestos/am-publicacao-20261021-001.json",
+      "sha256_original": "16e430149cddfd77a7d4b85a8c652ed78719b8f1cfec45ce6f1789a5440b28a6",
+      "publico": "scripts/estados/manifestos/am-auditoria-PDF-publica-20261027-001/am-publicacao-20261021-001.json",
+      "sha256_publico": "16e430149cddfd77a7d4b85a8c652ed78719b8f1cfec45ce6f1789a5440b28a6"
+    },
+    {
+      "original": "scripts/estados/manifestos/am-legisla-suplementos-sondagem-20261027-001.json",
+      "sha256_original": "c459fa21c16bb4fb68185a0f20f21296da412ad2b8eea7517b8a190e3203d532",
+      "publico": "scripts/estados/manifestos/am-auditoria-PDF-publica-20261027-001/am-legisla-suplementos-sondagem-20261027-001.json",
+      "sha256_publico": "c459fa21c16bb4fb68185a0f20f21296da412ad2b8eea7517b8a190e3203d532"
+    },
+    {
+      "original": "scripts/estados/manifestos/am-legisla-suplementos-viewer-20261027-001.json",
+      "sha256_original": "7da5fc34f6c56946644c9255d9648d6f0f6f12174f13092d3151ecdc79f16784",
+      "publico": "scripts/estados/manifestos/am-auditoria-PDF-publica-20261027-001/am-legisla-suplementos-viewer-20261027-001.json",
+      "sha256_publico": "7da5fc34f6c56946644c9255d9648d6f0f6f12174f13092d3151ecdc79f16784"
+    }
+  ],
+  "omissao_headers_sessao": {
+    "politica": "Valores Cookie/Set-Cookie/Authorization/Proxy-Authorization omitidos das cópias públicas; originais privados preservados.",
+    "ocorrencias": 0
+  },
+  "dependencias": "scripts/bin/qa-20261027/python; Poppler 26.10.0; versões exatas no recibo dependencias-qa.json",
+  "reproducao": [
+    "Conferir SHA256 de todos os arquivos pelo mapa.",
+    "Descomprimir caches gzip e comparar sha256_fonte dos registros HTTP.",
+    "Renderizar PDFs preservados com pdftoppm -png -scale-to 3000; comparar os trechos e escopo de ato nos relatórios com HTML integral e PNG. Não tratar atos da mesma página como parte da lei.",
+    "Quatro SAPL: PYTHONPATH absoluto central e snapshots de reexecutar_sapl_recentes_pdf.py --manifesto cópia pública/am-publicacao-20261021-001.json --saida caminho_novo; conferir 4/4, fonte/camada/CommonMark/identidade/imagens."
+  ],
+  "limite_replay": "Cotejo das amostras é humano visual documentado; nenhum algoritmo certifica sozinho igualdade PDF/HTML. Capturadores são prova de método, não devem ser reexecutados em rede para reproduzir auditoria já congelada."
+}

@@ -1,0 +1,133 @@
+---
+titulo: "Lei nº 417, de 31 de agosto de 1968"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "417"
+data: "1968-08-31"
+municipio: "Bicas"
+uf: "MG"
+codigo_ibge: "3106903"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bicas.mg.leg.br/norma/1903"
+fonte_texto: "https://sapl.bicas.mg.leg.br/ta/263/text"
+sha256_fonte: "ae333de1dc55633d6e388cb421d95101d121e08efedc592d63374005d1dc2e26"
+sha256_texto: "3c3505896ea93d77f033c8b48a6e09659e262bbe2d12c8b648f9834ebfe50705"
+capturado_em_fonte: "2026-10-27T17:25:36.717090-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 417, de 31 de agosto de 1968
+
+Dispõe sobre fixação de vencimentos do Pessoal da Prefeitura e contém outras providências.
+
+
+A Câmara Municipal de Bicas decretou, e eu, Prefeito Municipal, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Os vencimentos do pessoal da Prefeitura, a partir de 1º. De janeiro de 1969, passará a ser o seguinte:
+
+Classificação Cargos NCR$ NCR$
+
+0 – Câmara Municipal
+
+00 1 – Auxiliar 780,00 780,00
+
+1 – Gabinete e Secretaria
+
+da Prefeitura
+
+02 1 – Chefe do Gabinete 2040,00
+
+02 1 – Procurador 1500,00
+
+02 1 – Almoxarife 1200,00
+
+02 1 – Auxiliar 1200,00
+
+02 1 – Porteiro- Contínuo 1080,00 7020,00
+
+2 – Serviço da Fazenda
+
+11 1- Coletor 2160,00
+
+11 1 – Escriturário 1200,00
+
+11 1 – Fiscal de Rendas 1620,00
+
+11 1 – Fiscal da Cidade 1200,00
+
+11 1 – Guarda-Fiscal de
+
+Santa Helena 780,00
+
+11 1- Oficial Administrativo 2400,00
+
+11 1- Auxiliar 1200,00
+
+3 – Serviço de Educação
+
+Saúde e Assistência Social
+
+61 3- Auxiliares a NCR$900,00 cada
+
+Uma por ano 2700,00
+
+67 1- Bibliotecário 1200,00
+
+67 1- Auxiliar 1200,00 5.100,00
+
+Soma.....................23.460,00
+
+
+Art. 2º.
+
+As funções gratificadas, constantes da Lei de nº. 400 de 04/12/67, continuam a ser as seguintes:
+
+1- Chefe de Serviço de Fazenda 50,00
+
+1- Chefe de Serv. Contabilidade 50,00
+
+1- Chefe de Serv. Conts. Fiscalização 50,00
+
+1- Chefe do Serv. Mun. Estrada e Rod. 25,00
+
+1- Chefe dos Serviços Urbanos 25,00
+
+1- Chefe do Serviço de Água e Esgoto 20,00
+
+
+Art. 3º.
+
+O Pessoal lotado no Serviço Municipal de Estradas e Rodagens, serviço de Água e Esgoto e Serviços Urbanos, que exerçam categorias profissionais de Artífice, como Motorista, Bombeiro, etc. que estejam vinculados ao I.N.P.S., terão os seus salários fixados por Decreto Executivo.
+
+
+Art. 4º.
+
+Fica fixado, em NCR$3.600,00 (três mil e seis, digo em, cancelamento, em NCR$1620,00 (um mil e seiscentos e vinte cruzeiros novos) anuais o provento de funcionários aposentados no Serviço de Fiscalização.
+
+
+Art. 5º.
+
+Ficam fixados em NCR$3600,00 (três mil e seiscentos cruzeiros novos) anuais, as pensões concedidas pelo Município, correspondente a 6 (seis) pensionistas, precebendo cada um NCR$600,00 (seiscentos cruzeiros novos) anuais.
+
+
+Art. 6º.
+
+Ficam fixados em NCR$5,00 (cinco cruzeiros novos) por dependente, mensalmente, o abono familiar concedido pela lei Municipal.
+
+
+Art. 7º.
+
+Revogadas as disposições em contrário, entrará esta lei em vigor na data de 1º. de janeiro de 1968.
+
+
+Prefeitura Municipal de Bicas, 31 de agosto de 1968.  
+  
+Prefeito Municipal  
+Gilson Lamha
+

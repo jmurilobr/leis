@@ -1,0 +1,20 @@
+{
+  "escopo": "Releitura independente de todos os bytes do arquivo público preparado; gzip concatenado/CRC, JSONL, hashes de HTML/API/MD/preimagem e offsets exatos de cada membro. Não executa runner de promoção.",
+  "resumo": {
+    "registros": 9061,
+    "preimagens": 395,
+    "partes": 1,
+    "divergencias": 0
+  },
+  "partes": [
+    {
+      "path": "federal/_fonte/auditorias/retomada_federal_20261027_001/fontes9061/fontes9061_parte001.jsonl.gz",
+      "sha256_gzip": "88ecdf45f74380c097573ea5dc772eddb83845737cbe349d4b5335ba7f25fb40",
+      "bytes_gzip": 37111271,
+      "registros": 9061,
+      "registros_relidos": 9061,
+      "crc_gzip_integral": true,
+      "offsets_members_conferidos": true
+    }
+  ]
+}

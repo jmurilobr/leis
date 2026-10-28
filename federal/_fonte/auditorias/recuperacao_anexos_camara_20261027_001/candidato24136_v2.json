@@ -1,0 +1,83 @@
+{
+  "escopo": "Candidato privado de edição CLBR integral e coerente; nenhuma promoção ou alteração do registro executada.",
+  "path": "federal/decretos/1947/dec-24136-1947-11-28.md",
+  "sha256_preimagem_HEAD": "eeec67bb46944ffb34bd621b698e2eea90d2841a825dc058651c851fc2ddeba3",
+  "OID_HEAD": "e95ff926e780d1339d0939264693cdc537c59630",
+  "candidato": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/dec-24136-1947-11-28-clbr_v2.md",
+  "sha256_candidato": "344766b025c0c13b72bb3b1d087bee5f23e94f747fe36875d36c4cd96e0ab69c",
+  "preimagem_arquivada": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/preimagem-dec24136.md",
+  "fonte_clbr": {
+    "url": "https://bd.camara.leg.br/bd/bitstreams/6cfdd26f-5f4d-40fa-9607-6128d39a10ec/download",
+    "captura_utc": "2026-10-27T21:12:12.158012+00:00",
+    "catalogo": "1947-catalogo.html.gz",
+    "status": 200,
+    "url_final": "https://bd-rest.camara.leg.br/server/api/core/bitstreams/6cfdd26f-5f4d-40fa-9607-6128d39a10ec/content",
+    "headers": {
+      "server": "envoy",
+      "date": "Tue, 27 Oct 2026 21:12:13 GMT",
+      "content-type": "Adobe/PDF;charset=UTF-8",
+      "content-length": "76824670",
+      "vary": "Origin,Access-Control-Request-Method,Access-Control-Request-Headers",
+      "content-language": "en",
+      "last-modified": "Thu, 09 Oct 2014 14:44:01 GMT",
+      "etag": "\"581a7087e0c4491d887fa93090741bf5\"",
+      "accept-ranges": "bytes",
+      "expires": "Tue, 27 Oct 2026 22:12:13 GMT",
+      "cache-control": "private,no-cache",
+      "access-control-expose-headers": "Accept-Ranges",
+      "content-disposition": "attachment;filename=\"colecao_leis_1947_parte2.pdf\"",
+      "x-content-type-options": "nosniff",
+      "x-xss-protection": "0",
+      "strict-transport-security": "max-age=31536000 ; includeSubDomains",
+      "x-frame-options": "DENY",
+      "x-envoy-upstream-service-time": "369",
+      "connection": "close"
+    },
+    "path": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/1947-parte2.pdf",
+    "sha256": "eeb8a642fae45e498b17bbe95788064639bbd29df22870dd0e57ec1d4a488484",
+    "bytes": 76824670
+  },
+  "paginas": {
+    "383": 1783,
+    "384": 1784
+  },
+  "anexo": {
+    "candidato": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/pagina1784.png",
+    "destino_proposto": "federal/anexos/decretos/1947/dec-24136-1947-11-28-tabelas.png",
+    "sha256": "a5493081b85d518741c523371fcbfad68958364603ea1c679038b596a2f2da56",
+    "representacao": "Fac-símile integral da página 384, exclusivamente tabela deste decreto."
+  },
+  "identidade": {
+    "numero": "24136",
+    "data": "1947-11-28",
+    "epigrafe_clbr": "DECRETO N.º 24.136 — DE 28 DE NOVEMBRO DE 1947",
+    "fecho_clbr": "Rio de Janeiro, em 23 de novembro de 1947, 126.º da Independência e 59.º da República.",
+    "artigos": 3,
+    "assinaturas": [
+      "EURICO G. DUTRA.",
+      "Sylvio de Noronha."
+    ]
+  },
+  "revisao_visual_agente": {
+    "corpo_p383": true,
+    "tabela_p384": true,
+    "numeros_tabela": "Tabela Ordinária: 1 Auxiliar de Escritório XI, 2 Instrutores XVIII e 1 Porteiro XI, em ambas as situações; Tabela Suplementar: 1 Instrutor XXXII e 3 Instrutores XXIX, total 4 na proposta. Siglas T.O.M. e T.S. na situação atual, com campos correspondentes vazios na proposta, preservados na imagem."
+  },
+  "revisao_ROOT_necessaria": "Ler os três artigos e a tabela fac-similar integral antes de promover ou remover a pendência.",
+  "limites": "Não mistura corpo Normas com anexo CLBR; preserva todos os bytes anteriores e a fonte/API anterior no receipt complementar.",
+  "candidato_preliminar": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/dec-24136-1947-11-28-clbr.md",
+  "sha256_candidato_preliminar": "2ab63a4ce9908e491873e7045953c6392f7219243766da05f147be46a70bc07c",
+  "ajuste_apresentacao": "Removida somente uma linha vazia excedente imediatamente após a abertura do frontmatter. Corpo oficial e todas as demais linhas idênticos.",
+  "corpo_oficial_inalterado": true,
+  "sha256_corpo_oficial": "2807234191cb8a9f0493ffccc8efd919182c5a1e616f1e9b58c61123e5b54e30",
+  "qa_formato": {
+    "erros": [],
+    "avisos": [],
+    "epigrafe": {
+      "numero": "24136",
+      "data": "1947-11-28",
+      "epigrafe": "DECRETO N.º 24.136 — DE 28 DE NOVEMBRO DE 1947"
+    }
+  },
+  "sha256_guard_vivo_qa": "3cd60ac4a398a27cc0f646f891e853f6b120b1a963deb4cc9f0ccfd7d6ca0cd0"
+}

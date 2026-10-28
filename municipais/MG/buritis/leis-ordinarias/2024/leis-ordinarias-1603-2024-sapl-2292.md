@@ -1,0 +1,602 @@
+---
+titulo: "Lei nº 1.603, de 04 de novembro de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1603"
+data: "2024-11-04"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/2292"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/340/text"
+sha256_fonte: "75fcdee352bb85384c75486f176d7696a7abd586319670d36c90314336f17fa3"
+sha256_texto: "e6eadf96792d8eff3f859937ac16c9af5174ca10c6321348a8a1823cd996e65f"
+capturado_em_fonte: "2026-10-27T19:42:57.512091-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.603, de 04 de novembro de 2024
+
+Dispõe sobre a destinação e o recebimento de patrocínio pelo Poder Público e dá outras providências.
+
+
+A Câmara Municipal de Buritis, Estado de Minas Gerais, por seus representantes, aprovou e eu, PREFEITO MUNICIPAL, usando da atribuição que me confere o inciso VIII, do artigo 105 da Lei Orgânica Municipal, sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Esta Lei disciplina o recebimento de patrocínio de pessoa física ou jurídica de direito público ou privado a projeto públicos, bem como a concessão de patrimônio pelo Poder Público Municipal a projeto privados de interesse público.
+
+
+Parágrafo único
+
+Para fins de concessão de patrócínio pelo Poder Público Municipal a projetos privados, será avaliado o interesse público de eventos nas seguintes modalidades:
+
+
+I –
+
+festivais de qualquer natureza, festas comunitárias, exposições, concertos musicais;
+
+
+II –
+
+congressos, feiras, palestras e seminários ofertado a categorias profissionais com grande representação no município ou que atração de participantes externos possibilite o fomento da rede de serviços envolvida no espectivo turístico, de forma direta ou indireta;
+
+
+III –
+
+festas carnavalescas;
+
+
+IV –
+
+campanhas de utilidade pública;
+
+
+V –
+
+produção cultural de qualquer natureza, e;
+
+
+VI –
+
+competições esportivas de qualquer natureza e outros.
+
+
+Art. 2º.
+
+Para efeitos desta Lei, considera-se:
+
+
+I –
+
+PATROCÍNIO: toda forma de colaboração em favor de evento, ação ou projeto, por intermédio do custeio total ou parcial que envolva transferência de recursos financeiros, fornecimento de serviços, ou ainda, da cessão de uso de bens móveis ou imóveis, cessão de recursos humanos, materiais e produtos, tendo como contrapartida o direito de associação de associação da marca ou de produto do patrocinador, realizado através de Contrato do Patrocínio;
+
+
+II –
+
+PATROCINADOR: toda pessoa física ou jurídica de direito público ou privado, com ou sem fins lucrativos, que efetue a transferência de recursos financeiros para projeto, forneça bens, serviços ou ceda o uso de bens imóveis, objetivando, como contrapartida, a exposição de sua marca ou produto;
+
+
+III –
+
+PATROCINADO: pessoa física ou jurídica que oferece ao patrocinados oportunidade de patrocinar projeto próprio;
+
+
+IV –
+
+OBJETIVO DO PATROCÍNIO: a geração de identificação e reconhecimento do patrocinador por meio da iniciativa patrocinada, ampliando o relacionamento com públicos de interesse, a divulgação de imagem institucional, símbolos oficiais, logomarca e/ou produtos e serviços, programas e políticas de atuação, de modo a agregar valor positivo à imagem do patrocinador;
+
+
+V –
+
+PROJETO DE PATROCÍNIO: todo evento ou ação, público ou privado, que busca recurso financeiro ou auxílio de bens e serviços para sua execução, tais como festas comunitárias, festivais, feiras, campeonatos esportivos, exposições, concertos musicais, palestras, campanhas de utilidade pública, dentre outros;
+
+
+VI –
+
+CONTRAPARTIDA: obrigação contratual do patrocinado que expressa o direito de associação da imagem institucional, logomarca e/ou produtos e serviços de patrocinador ao projeto;
+
+
+VII –
+
+CONTRATO DE PATROCÍNIO: instrumento formal que ajusta o conjunto de direitos, responsabilidades e obrigações decorrentes de relação jurídica estabelecida formalmente entre patrocinador e patrocinado para concessão de patrocínio;
+
+
+VIII –
+
+UNIDADE DEMANDANTE: Secretaria Municipal, gerência, órgão ou unidade administrativa vinculada ao projeto de patrocínio.
+
+
+Art. 3º.
+
+O Poder Executivo poderá atuar como patrocinador em eventos de interesse público do Município, realizados por terceiros, ou como beneficiário, quando houver interesse de particulares em alocar recursos na realização de eventos públicos.
+
+
+Parágrafo único
+
+Não serão objeto de patrocínio concedido pelo Poder Público Municipal os seguintes eventos:
+
+
+I –
+
+organizados por servidores públicos municipais ou respectivas associações;
+
+
+II –
+
+relacionados com interesse exclusivo de entidades político-partidárias;
+
+
+III –
+
+que possam causar danos ao meio ambiente, à saúde ou que violem as normas de posturas do Município, e;
+
+
+IV –
+
+nos quais o patrocínio corresponda à totalidade dos seus custos, consoante plano de trabalho apresentado pelo patrocinado.
+
+
+Art. 4º.
+
+São formas de patrocínio:
+
+
+I –
+
+o repasse financeiro de valores;
+
+
+II –
+
+a concessão de uso de bens imóveis;
+
+
+III –
+
+a contratação de prestação de serviços para o evento, e;
+
+
+IV –
+
+cessão gratuita de recursos humanos, materiais, bens e produtos.
+
+
+#### CAPÍTULO II — DA HABILITAÇÃO DAS ENTIDADES PRIVADAS AO PATROCÍNIO
+CONCEDIDO PELO MUNICÍPIO
+
+
+Art. 5º.
+
+O Poder Executivo poderá publicar edital de chamamento público informando o prazo, as condições e os documentos de habilitação para as entidades interessadas em obter patrocínio do Município em eventos de interesse público.
+
+
+§ 1º
+
+O edital conterá, no mínimo, as seguintes informações:
+
+
+I –
+
+a data prevista para a realização do projeto de patrocínio, conforme o calendário de eventos, com a indicação da contrapartida esperada;
+
+
+II –
+
+as regras de participação dos interessados, observado o disposto nesta Lei;
+
+
+III –
+
+as formas e condições de apresentação dos projetos;
+
+
+IV –
+
+os critérios de seleção dos projetos;
+
+
+V –
+
+as sanções a serem aplicadas nos casos de inexecução total ou parcial de seu objeto, e;
+
+
+VI –
+
+a minuta do Contrato de Patrocínio a ser celebrado com a pessoa física ou jurídica selecionada.
+
+
+§ 2º
+
+O aviso do edital de chamamento será publicado, no mínimo, na imprensa oficial do Município e site oficial.
+
+
+§ 3º
+
+A opção pela publicação de edital conforme previsto neste artigo não impede a concessão de patrocínios a eventos que atendam os critérios estabelecidos nesta Lei.
+
+
+Art. 6º.
+
+As entidades interessadas em obter patrocínio do Município deverão abrir conta bancária específica para a movimentação dos recursos e apresentar os seguintes documentos e informações:
+
+
+I –
+
+certidão do registro e arquivamento dos atos constitutivos da entidade no Cartório de Registro Civil de Pessoas Jurídicas ou Junta Comercial do Estado;
+
+
+II –
+
+ata ou outro documento formal de designação da diretoria do exercício;
+
+
+III –
+
+apresentação do estatuto, regulamento ou compromisso da entidade, devidamente registrados em cartório;
+
+
+IV –
+
+cópia do Registro Geral (RG) e Cadastro de Pessoa Física (CPF) do representante legal da entidade, responsável pela assinatura do contrato do patrocínio;
+
+
+V –
+
+alvará de funcionamento da entidade;
+
+
+VI –
+
+prova de regularidade com as Fazendas Federal, Estadual e Municipal, mediante a apresentação das respectivas certidões;
+
+
+VII –
+
+certidão de regularidade com o Fundo de Garantia por Tempo de Serviço;
+
+
+VIII –
+
+cópia do cartão do Cadastro Nacional de Pessoa Jurídica - CNPJ;
+
+
+IX –
+
+formulário de Solicitação de Patrocínio, conforme modelo constante em regulamento municipal;
+
+
+X –
+
+plano de trabalho analítico, detalhando o custo total do projeto, a utilização dos recursos financeiros oriundos do patrocínio pretendido, bem como a utilização dos valores a serem despendidos pelo patrocinado e por outros patrocinadores, se for o caso;
+
+
+XI –
+
+proposta de contrapartida, nos termos do art. 17;
+
+
+XII –
+
+outros documentos ou informações que a Administração Pública entender necessários em razão dos objetivos do evento.
+
+
+Parágrafo único
+
+A entidade patrocinada deverá manter durante toda execução do contrato de patrocínio, as obrigações por ele assumidas, bem como todas as condições de regularidade fiscal comprovadas para celebração do ajuste.
+
+
+Art. 7º.
+
+Só serão admitidos os pedidos de patrocínio apresentados pelas pessoas jurídicas que detenham, isolada ou conjuntamente, a responsabilidade legal pela iniciativa do evento.
+
+
+Art. 8º.
+
+Os pedidos serão avaliados por uma comissão constituída por 03 (três) servidores efetivos, designados pelo Prefeito, com base nos seguintes critérios:
+
+
+I –
+
+o objeto do evento não poderá contrariar o disposto no art. 1º desta Lei;
+
+
+II –
+
+a credibilidade e capacidade gerencial do patrocinado em realizar o evento;
+
+
+III –
+
+a contribuição do evento para o desenvolvimento socioeconômico do Município e o impacto social do mesmo;
+
+
+IV –
+
+viabilidade técnica financeira do evento;
+
+
+V –
+
+resultados previstos com a realização do evento.
+
+
+Parágrafo único
+
+A composição, a organização e o funcionamento da comissão serão estipulados e definidos em decreto municipal, sendo assegurado o auxílio de assessoria técnica pertencente ao quadro da Administração Municipal.
+
+
+Art. 9º.
+
+Nos eventos patrocinados pelo Município, o Poder Público fará divulgação dos atos, programas, obras, serviços e campanhas que entender pertinente, observadas as disposições do art. 37, § 1º, da Constituição Federal.
+
+
+Art. 10.
+
+Em sendo aprovada a solicitação de patrocínio pela comissão de que trata o art. 8º, a entidade beneficiária será convocada a assinar o respectivo contrato de patrocínio.
+
+
+Art. 11.
+
+O repasse dos valores obedecerá ao cronograma de desembolso constante do contrato de patrocínio, quando for o caso.
+
+
+Art. 12.
+
+O Poder Executivo designará servidor público para atuar como fiscal na aplicação dos recursos concedidos a título de patrocínio e da divulgação da marca do Município.
+
+
+#### CAPÍTULO III — DA PRESTAÇÃO DE CONTAS DOS PATROCÍNIOS PÚBLICOS
+
+
+Art. 13.
+
+O patrocinado que receber recursos financeiros do Município para realização de projeto de patrocínio está obrigado a prestar contas do valor recebido, no prazo máximo de 60 (sessenta) dias contados:
+
+
+I –
+
+do prazo final para a aplicação de cada parcela, quando o objeto do contrato de patrocínio for executado em etapas, hipótese em que a prestação de contas de etapa anterior é condição necessária para a liberação da etapa seguinte, conforme o período e condições determinados no contrato de patrocínio;
+
+
+II –
+
+do prazo final para conclusão do objeto quando o contrato de patrocínio for executado em uma única etaра;
+
+
+III –
+
+da formalização da extinção do contrato de patrocínio, se esta ocorrer antes do prazo previsto no termo;
+
+
+IV –
+
+da aplicação da última parcela, quando deverá comprovar a conclusão do objeto.
+
+
+Art. 14.
+
+A prestação de contas será autuada em processo administrativo próprio e conterá os seguintes documentos:
+
+
+I –
+
+ofício ou carta de encaminhamento, dirigido à autoridade máxima do órgão ou entidade municipal, onde constem os dados identificadores do contrato de patrocínio;
+
+
+II –
+
+relatório da execução físico-financeira, evidenciando as etapas físicas e os valores, de acordo com o previsto no plano de trabalho;
+
+
+III –
+
+demonstrativo da execução da receita e da despesa do contrato;
+
+
+IV –
+
+relação de pagamentos, evidenciando o nome do credor, o número e valor do documento fiscal e/ou equivalente, em ordem cronológica e classificados em materiais e serviços, acompanhadas das respectivas notas fiscais e recibo, na via original;
+
+
+V –
+
+relação dos bens adquiridos, produzidos ou construídos à conta do contrato de patrocínio, indicando o seu destino final, quando estabelecido no contrato, se houver;
+
+
+VI –
+
+extrato da conta bancária vinculada, desde o recebimento do primeiro depósito até o último pagamento, a movimentação dos rendimentos auferidos da aplicação financeira e a respectiva conciliação bancária, se houver;
+
+
+VII –
+
+demonstrativo do resultado das aplicações financeiras que se adicionarem aos recursos iniciais com os respectivos documentos comprobatórios, se houver;
+
+
+VIII –
+
+comprovantes de recolhimento dos saldos não utilizados, inclusive rendimentos financeiros, à conta do erário municipal, e;
+
+
+IX –
+
+outros documentos expressamente previstos no contrato de patrocínio.
+
+
+§ 1º
+
+Todos os patrocinados deverão apresentar para a secretaria, unidade administrativa ou órgão demandante os seguintes documentos, objetivando atestar a realização integral do projeto e o cumprimento de todas as contrapartidas estipuladas:
+
+
+a)
+
+clipping de todas as matérias que veicularam o projeto em jornais, internet, rádio e TV;
+
+
+b)
+
+exemplar de cada peça promocional produzida para o projeto, previamente aprovado pela secretaria ou órgão demandante;
+
+
+c)
+
+exemplar de cada produto gerado;
+
+
+d)
+
+fotos do projeto e/ou da ação impressas, ficando sob a responsabilidade do patrocinado registrar o seu andamento até a sua conclusão em, no mínimo, 10 (dez) fotografias, com a descrição das imagens;
+
+
+e)
+
+relatório que conste os objetivos propostos e alcançados (resultado qualitativo), principais metas propostas e alcançadas (resultados quantitativos), público previsto e alcançado e perfil do público atingido.
+
+
+§ 2º
+
+O desatendimento das condições impostas no contrato de patrocínio, poderá ensejar, assegurada ampla defesa e contraditório, a aplicação das penalidades previstas contratualmente e a glosa de valores parcial ou total, sendo o descumprimento das condições de contrapartida causa de devolução total dos valores repassados ao patrocinado devidamente corrigido monetariamente.
+
+
+#### CAPÍTULO IV — DO PATROCÍNIO PRIVADO A EVENTOS PÚBLICOS
+
+
+Art. 15.
+
+Os eventos de interesse público realizados pelo Município poderão receber patrocínio de pessoas jurídicas de direito privado e de outras pessoas de direito público.
+
+
+Parágrafo único
+
+O recebimento, pelo Poder Executivo, de patrocínio de pessoas jurídicas de direito privado, com ou sem fins lucrativos, poderá ocorrer mediante a publicação de edital de chamada pública de patrocinadores.
+
+
+Art. 16.
+
+É permitida a divulgação dos patrocinadores de eventos públicos, por áudio ou mídia impressa, nos espaços disponíveis e previamente definidos pela secretaria, unidade administrativa ou órgão demandante.
+
+
+§ 1º
+
+Para os patrocínios de valores equivalentes, a divulgação dos apoiadores do evento se dará por igual espaço de tempo, se ocorrer por áudio, ou com ocupação de espaço físico de igual tamanho, se por mídia impressa.
+
+
+§ 2º
+
+Poderá haver tratamento diferenciado aos patrocinadores e destinação de espaço para mídia diferenciada, de acordo com o montante de recursos destinado à realização do evento público.
+
+
+#### CAPÍTULO V — DAS CONTRAPARTIDAS PARA O MUNICÍPIO
+
+
+Art. 17.
+
+Todos os projetos de captação de patrocínio público deverão apresentar proposta de contrapartidas oferecidas ao Município de Buritis/MG, de forma detalhada.
+
+
+Art. 18.
+
+De acordo com a especialidade do projeto proposto e com o patrocínio pretendido, as contrapartidas consistirão nas seguintes ações, sem prejuízo de outras contrapartidas específicas que constarem do Contrato de Patrocínio:
+
+
+I –
+
+a ampla divulgação do Município de Buritis/MG, com a inserção da logomarca, de forma padronizada, em todas as peças promocionais de divulgação do projeto, peças gráficas, releases de imprensa, peças de comunicação para mídia eletrônica, mídias digitais, sites, dentre outras possibilidades;
+
+
+II –
+
+citação do patrocínio recebido em todas as entrevistas concedidas e veiculações referentes ao projeto;
+
+
+III –
+
+exibição de vídeo institucional, quando for o caso, a ser fornecido pelo Município de Buritis/MG;
+
+
+IV –
+
+disponibilização gratuita aos ambulantes que comercializam bebidas e comidas de espaços com barracas para comercialização dos seus produtos no ambiente interno onde se realize o evento patrocinado.
+
+
+§ 1º
+
+Nos projetos em que, na contrapartida, houver cessão de estande, obrigatoriamente, os custos de montagem, desmontagem e ambientação já estarão inclusos no valor do patrocínio.
+
+
+§ 2º
+
+O tamanho da área cedida deverá ser proporcional ao valor do patrocínio e sua utilização será acordada previamente entre as partes, no contrato de patrocínio.
+
+
+§ 3º
+
+Todas as despesas atinentes às contrapartidas oferecidas ao Município ficarão a cargo do patrocinado.
+
+
+§ 4º
+
+A seleção dos ambulantes, conforme previsto no inciso IV, do art.18, deverá ser precedido de chamamento público divulgado anualmente, com antecedência e ampla publicidade.
+
+
+#### CAPÍTULO VI — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 19.
+
+As especificações para a aplicação das logomarcas deverão ser rigorosamente observadas pelo patrocinado, não podendo o mesmo utilizá-las sem prévia e expressa autorização, nem sem o devido acompanhamento por parte do patrocinador.
+
+
+Parágrafo único
+
+O material deverá ser previamente encaminhado à secretaria, unidade administrativa ou órgão demandante para análise e, somente após a aprovação, será permitida a produção de peças gráficas.
+
+
+Art. 20.
+
+Caso haja contestação de terceiros em relação a qualquer questão e, em especial, à propriedade intelectual, o patrocinado ficará responsável civil e criminalmente, isentando o Município de Buritis de qualquer responsabilidade.
+
+
+Parágrafo único
+
+Não sendo o titular do direito autoral e ou patrimonial, o proponente obriga-se a obter todas as autorizações e cessões de direito de terceiros necessários para a proposição e realização do projeto, bem como a celebração do contrato, comprometendo-se, ainda a obter a cessão por prazo indeterminado e a título gratuito, quando aplicável, de imagem e expressão oral dos artistas para divulgação em gravações, filmagens, sites, informativos, livros e em todos os meios de publicidade e divulgação que achar necessários.
+
+
+Art. 21.
+
+O uso indevido da marca implicará em sanções legais.
+
+
+Art. 22.
+
+O patrocínio contratado não obriga o Município a patrocinar edições futuras do mesmo projeto ou patrocinado, bem como novas tiragens de produtos.
+
+
+Art. 23.
+
+O valor dos patrocínios a serem concedidos pelo Poder Público devem ser estabelecidos na lei orçamentária anual, e previstos no plano plurianual e lei de diretrizes orçamentárias.
+
+
+Art. 24.
+
+O Poder Executivo poderá regulamentar esta Lei, no que couber.
+
+
+Art. 25.
+
+Esta Lei entra em vigor na data da sua publicação.
+
+
+**Dr. Keny Soares Rodrigues Prefeito Municipal de Buritis**
+
+Ref. à Proposição de Lei nº 48/2024, de autoria do Legislativo Municipal.
+

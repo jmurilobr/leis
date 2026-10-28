@@ -1,0 +1,54 @@
+{
+  "capturas": [
+    {
+      "tipo": "4",
+      "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2026",
+      "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2026",
+      "http": 200,
+      "cache": "estaduais/SE/_fonte/auditorias/retomada-indices-20261027-001/ff26d98afc6eed8ec3d6f81fcd19af2b4d63aaab2b507c916d14a9763d82fed8.html.gz",
+      "sha256_fonte": "ff26d98afc6eed8ec3d6f81fcd19af2b4d63aaab2b507c916d14a9763d82fed8",
+      "sha256_cache": "9106ea3e45b71714a06d9cc7c7d0d77e1df0bafff3092df94c4ae7e4ce7eef13",
+      "headers": {
+        "Cache-Control": "public, max-age=120",
+        "Content-Type": "text/html; charset=utf-8",
+        "Expires": "Tue, 27 Oct 2026 21:08:44 GMT",
+        "Last-Modified": "Tue, 27 Oct 2026 21:06:44 GMT",
+        "Vary": "*",
+        "X-Correlation-ID": "18d71b8a-3d6a-49a1-85d7-b34a96a9de97",
+        "X-Powered-By": "ASP.NET",
+        "Access-Control-Allow-Origin": "*",
+        "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+        "Date": "Tue, 27 Oct 2026 21:06:44 GMT",
+        "Connection": "close",
+        "Content-Length": "109966"
+      },
+      "capturado_em": "2026-10-27T18:06:44.833117-03:00"
+    },
+    {
+      "tipo": "3",
+      "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=3&ano=2026",
+      "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=3&ano=2026",
+      "http": 200,
+      "cache": "estaduais/SE/_fonte/auditorias/retomada-indices-20261027-001/b44c48ef35fbb6060c039bfc2cdccce15a84f51fb8e5f61e19766231fe08d493.html.gz",
+      "sha256_fonte": "b44c48ef35fbb6060c039bfc2cdccce15a84f51fb8e5f61e19766231fe08d493",
+      "sha256_cache": "30555ae2138e4773009c6c499a74bb471507aca8f8cc0b90e613898ea7bc9075",
+      "headers": {
+        "Cache-Control": "public, max-age=120",
+        "Content-Type": "text/html; charset=utf-8",
+        "Expires": "Tue, 27 Oct 2026 21:08:46 GMT",
+        "Last-Modified": "Tue, 27 Oct 2026 21:06:46 GMT",
+        "Vary": "*",
+        "X-Correlation-ID": "dddfa094-64bc-41aa-bf46-93ea025c3a22",
+        "X-Powered-By": "ASP.NET",
+        "Access-Control-Allow-Origin": "*",
+        "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+        "Date": "Tue, 27 Oct 2026 21:06:46 GMT",
+        "Connection": "close",
+        "Content-Length": "112412"
+      },
+      "capturado_em": "2026-10-27T18:06:47.287371-03:00"
+    }
+  ],
+  "sem_normas": true,
+  "omissao_headers_sessao": true
+}

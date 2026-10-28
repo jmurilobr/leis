@@ -1,0 +1,83 @@
+---
+titulo: "Lei Ordinária nº 7.530, de 26 de março de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "7530"
+data: "2025-03-26"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/8286"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/2845/text"
+sha256_fonte: "7214b9854e1f9fb909f7502786bc1b21659de7e71f6497fe96c250a9a0aa9b4d"
+sha256_texto: "4b24829bf1133884524ba0252f20dc6e9f08fc1fcac72a4e154802db28fe3aca"
+capturado_em_fonte: "2026-10-27T17:48:47.333866-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 7.530, de 26 de março de 2025
+
+AUTORIZA O MUNICÍPIO DE BIRIGUI A ABRIR CRÉDITO ADICIONAL ESPECIAL NA LEI Nº 7.491/2024 – LEI ORÇAMENTÁRIA DE 2025, NA LEI Nº 7.435/2024 – LEI DE DIRETRIZES ORÇAMENTÁRIAS DE 2025 E NA LEI Nº 7.067/2021 – PLANO PLURIANUAL – PPA DE 2022 A 2025 E ALTERAÇÕES, E PROVIDÊNCIAS CORRELATAS.  
+Projeto de Lei nº 46/2025, de autoria da Prefeita Municipal.
+
+
+Eu, **SAMANTA PAULA ALBANI BORINI**, Prefeita Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,
+
+FAÇO SABER que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a abrir por decreto crédito adicional especial de até R$ 2.307.500,00 (dois milhões trezentos e sete mil e quinhentos reais) na Lei nº 7.067/2021 – PPA 2022/2025 e alterações, na Lei nº 7.435/2024 – LDO de 2025 e alterações e na Lei nº 7.491/2024 – Lei Orçamentária de 2025, com as seguintes classificações contábeis:
+
+
+<table><tbody><tr><td colspan="2">02.10.00 – SECRETARIA MUNICIPAL DE SAÚDE</td></tr><tr><td colspan="2">02.10.01 – FUNDO MUNICIPAL DE SAÚDE</td></tr><tr><td>FUNÇÃO:</td><td>10 – Saúde</td></tr><tr><td>SUB-FUNÇÃO:</td><td>302 – Assistência Hospitalar e Ambulatorial</td></tr><tr><td colspan="2">PROGRAMA:0039 – Média e Alta Complexidade</td></tr><tr><td>ATIVIDADE:</td><td>1.027 – Construção do Centro de Atenção Psicossocial – Vila Troncoso</td></tr><tr><td colspan="2"> </td></tr><tr><td>Elemento Econômico:</td><td>4.4.90.51.00 – Obras e Instalações</td></tr><tr><td>Fonte de Recurso:</td><td>05 – Transferências e Convênios Federais - Vinculados</td></tr><tr><td>Valor:</td><td>R$ 2.143.000,00 (dois milhões, cento e quarenta e três mil reais)</td></tr><tr><td colspan="2"> </td></tr><tr><td>Elemento Econômico:</td><td>4.4.90.51.00 – Obras e Instalações</td></tr><tr><td>Fonte de Recurso:</td><td>01 – Recursos Próprios</td></tr><tr><td>Valor:</td><td>R$ 164.500,00 (cento e sessenta e quatro mil e quinhentos reais)</td></tr></tbody></table>
+
+
+Art. 2º.
+
+O crédito adicional especial autorizado no artigo 1º desta Lei, será coberto conforme especificado abaixo:
+
+
+I –
+
+O valor parcial de R$ 2.143.000,00 (dois milhões, cento e quarenta e três mil reais), correrá à conta de recursos especiﬁcados no art. 43, § 1º, inciso II, da Lei Federal nº 4.320, de 17 de março de 1964, combinado com o disposto no parágrafo único do art. 8º da Lei Federal Complementar 101/00, por **EXCESSO DE ARRECADAÇÃO** conforme Portaria GM/MS nº 4.089 de 27 de maio de 2024.
+
+
+II –
+
+O valor parcial de R$ 164.500,00 (cento e sessenta e três mil e quinhentos reais) correrá à conta de recursos especiﬁcados no art. 43, § 1º, inciso III, da Lei Federal nº 4.320, de 17 de março de 1964, mediante anulação parcial da dotação abaixo, consubstanciada no orçamento corrente:
+
+
+<table><tbody><tr><td colspan="5">SECRETARIA MUNICIPAL DE SAÚDE</td></tr><tr><td>02.10.01</td><td>10.301.0038.2.127 / 3.3.50.85.00</td><td>Ficha nº 505</td><td>Fonte: 01</td><td>R$ 164.500,00</td></tr></tbody></table>
+
+
+Art. 3º.
+
+As alterações constantes nesta Lei, serão efetuadas concomitantemente no PPA – Plano Plurianual 2022 a 2025 e na LDO – Lei de Diretrizes Orçamentárias, para o exercício corrente.
+
+
+Art. 4º.
+
+As dotações incluídas na presente Lei poderão ser suplementadas, se necessário, através de Decreto do Executivo Municipal até o limite de vinte por cento do presente crédito.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Birigui, aos vinte e seis de março de dois mil e vinte e cinco.
+
+**SAMANTA PAULA ALBANI BORINI Prefeita Municipal**
+
+**PAULO REBECCHI Secretário Municipal de Planejamento e Finanças**
+
+Publicada na Secretaria de Municipal de Governo da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**JAQUELINE MORAES SILVA FERNANDES Secretária Adjunta de Governo**
+

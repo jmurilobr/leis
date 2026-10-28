@@ -1,0 +1,121 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 4: admite somente tabelas nativas com prova independente de células, ordem e mesclagens. Mantém todos os demais gates. Também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 2000,
+  "aprovados_nestes_gates": 895,
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.coronelfabriciano.mg.leg.br.prefixo.jsonl",
+      "sha256": "c3e26cd40e11bc0ad3314414967fad927bfbf59f1612623c77d6d659d80911ec",
+      "bytes": 3214
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.coronelfabriciano.mg.leg.br.tipos.json",
+      "url": "https://sapl.coronelfabriciano.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "7e8f660d0f6f8ed650f55a17a51390cd4433ca53e2d9520309d6fa569813343b"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.coronelfabriciano.mg.leg.br.anexos.json",
+      "sha256": "edbc8a787e92ae993c6a109aa5487e4adba5d62cea7e23fd2c3ed6b3e7bcc0ec"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.corumbiara.ro.leg.br.prefixo.jsonl",
+      "sha256": "dae2e3ca2a2bbe1de9c58ec5b760b8520be0e776b9fa759a85c803f7fab85709",
+      "bytes": 709204
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.corumbiara.ro.leg.br.tipos.json",
+      "url": "https://sapl.corumbiara.ro.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "bcd3bcd9a9886e9b0876d220fb4372b2fa426ec97860ee148021e430c34ffdb7"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.corumbiara.ro.leg.br.anexos.json",
+      "sha256": "c71612deb26f68bd8d43f0940196d0470baa066c530cb748fa5f639201903ed3"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.cruzmaltina.pr.leg.br.prefixo.jsonl",
+      "sha256": "f8c41362c66f48bcebf23f5786ef778e360d24e70ccba1b60d802be353008e59",
+      "bytes": 330823
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.cruzmaltina.pr.leg.br.tipos.json",
+      "url": "https://sapl.cruzmaltina.pr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "96a0c5fd57eae90301cb54056567d03fd1fb7aa4a086816b2a086d11592565f9"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.cruzmaltina.pr.leg.br.anexos.json",
+      "sha256": "930a8582010661d8edd8b0cde68d7ce0e5fa2cc43b2935290dd10332bb8f869c"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.cunha.sp.leg.br.prefixo.jsonl",
+      "sha256": "392a3219ff077f9e39fa64848a359f477d394618340b142509ab1cb16e07d783",
+      "bytes": 980808
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.cunha.sp.leg.br.tipos.json",
+      "url": "https://sapl.cunha.sp.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "ae3323882fa852bec4634a636533f8605df04131b6525a8be26ebddf034c7d3f"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.cunha.sp.leg.br.anexos.json",
+      "sha256": "4602c316d51ae1c25701a4a73937d9d5c4746bdacb747b8d6f82378e23d9ceda"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.curraisnovos.rn.leg.br.prefixo.jsonl",
+      "sha256": "73ce23511f6c6ff265bbf599252c1070318701cea6a28c7ff5e1f6b62fc20966",
+      "bytes": 895332
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.curraisnovos.rn.leg.br.tipos.json",
+      "url": "https://sapl.curraisnovos.rn.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "84f1b58403035b7b658b8fe9cbf0a309b1995961a135560e48eb49aad7b464da"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.curraisnovos.rn.leg.br.anexos.json",
+      "sha256": "d14e7faffdd5afdc7a4f66d78354b51ad56a655e8762a3c9efaca07c2b0cbe8e"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.divinopolis.mg.leg.br.prefixo.jsonl",
+      "sha256": "57f4b2c8f65d3e04e0592c7b5bebc0fd396c62dc06b838367239614356a826a5",
+      "bytes": 2071693
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.divinopolis.mg.leg.br.tipos.json",
+      "url": "https://sapl.divinopolis.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "738ddc1f4c29d3c2bc6bd1b6060b0f4fa058cb5b9ef69e49123b8e123a5fa9e0"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.divinopolis.mg.leg.br.anexos.json",
+      "sha256": "d3c7cadb5caabc657a381995441251bdfa071e08350a0e5f909160a6f5fb4e87"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.domexpeditolopes.pi.leg.br.prefixo.jsonl",
+      "sha256": "ed8fba51f03b814556cf5d1a679d3acd67f9c618945dd336414c1fd4031a45f5",
+      "bytes": 6344
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.domexpeditolopes.pi.leg.br.tipos.json",
+      "url": "https://sapl.domexpeditolopes.pi.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "20f8dc682a05bb2600fff888730d7c684198bec4c05a14ba9423a5f9f56c88b3"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.domexpeditolopes.pi.leg.br.anexos.json",
+      "sha256": "6fe0d566f889242b9fd95d69c546d1ed82e924de23f2180cf131fff5728f606e"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.doresdoindaia.mg.leg.br.prefixo.jsonl",
+      "sha256": "f4e445c8016bdb65263033f1e4a46c0444035b10be678f086e4860c95d35a9c3",
+      "bytes": 1801745
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.doresdoindaia.mg.leg.br.tipos.json",
+      "url": "https://sapl.doresdoindaia.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "5a45a38875082c764fffea4c9b3ee362ab5d11e05f92ca73d89caa4229b17f08"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/sapl.doresdoindaia.mg.leg.br.anexos.json",
+      "sha256": "99c09982e40d681133358a8ceae7bb9fc442fa554b51882276c93791414af783"
+    }
+  ],
+  "script_sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

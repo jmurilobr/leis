@@ -1,0 +1,716 @@
+{
+  "escopo": "Promoção cumulativa privada; confrontar preimagem canônica e candidato antes de aplicar. Pacotes anteriores permanecem imutáveis.",
+  "substituicoes": [
+    {
+      "path": "federal/decretos/1945/dec-18543-1945-05-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-18543-1945-05-04.md",
+      "sha256_preimagem": "89e19ed39978da7d39114d2cca41de2e00cc93af9bfbf3917656aab817189938",
+      "sha256_candidato": "5f86d65312578a68cdac09ce345d02a9a39bc4bc2e3d09c584bf921f1a945b9c",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18517-1945-04-30.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-18517-1945-04-30.md",
+      "sha256_preimagem": "b9d31026f0fdd3cadf0f95d1ae7aa8ae78aee75ca290f0c70a43868105737102",
+      "sha256_candidato": "e2df77513c8842a1209ab898547a8d8f4954fef2a6dbb8da97eec5909e0994f5",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18521-1945-04-30.md",
+      "candidate": "federal/_candidatos_commonmark_015018_20261021_001/dec-18521-1945-04-30.md",
+      "sha256_preimagem": "180cf1bcde8e5b545edcf29a334ae5f84959fed50092b61d0ce4c47bdb53dc43",
+      "sha256_candidato": "bbda7e2cda80198ed751b4b28ee23d38fb8bdb286f27aae5828099fe6e0456f6",
+      "mudanca": "Correção de markup ou escape de sinais literais, com replay CommonMark estrutural."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18425-1945-04-19.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-18425-1945-04-19.md",
+      "sha256_preimagem": "66ce2375bfb2221627b128fc234662c99dea19c2d41a08c6fd1d28e9df68ed61",
+      "sha256_candidato": "e7975d44d3d9824f9fcb16a20a664b67d28ec64fef67f1480ddde20665b5b188",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18426-1945-04-19.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-18426-1945-04-19.md",
+      "sha256_preimagem": "2e9ac1575ac5f047ab3e44d4ee9381c5e5678c1b1bd8711b577623a9152e660e",
+      "sha256_candidato": "7702a9272f142a2dc348dde841fa0b3a363ca139850c6775beff0714814b9062",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18372-1945-04-16.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-18372-1945-04-16.md",
+      "sha256_preimagem": "ed851c790e27c044b63a0ef721bbc6a980ad83be18853a936b012d94a4575f5a",
+      "sha256_candidato": "8917765cd160fcf703328b23c3b1b64557ef3ccea7ef92352357b6cbad88c53f",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18365-1945-04-13.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-18365-1945-04-13.md",
+      "sha256_preimagem": "02682ca9166402dd083b601ec0e12766014cc2050d23a8c94f8124b1c95868cc",
+      "sha256_candidato": "6a73f78725d574102595970ed24fd3ea3a35cc7b5ff971f6ffe0d50e6fc49ced",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18342-1945-04-11.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-18342-1945-04-11.md",
+      "sha256_preimagem": "f73f33da5495ad670a57a9121c109ede27dedf3e082534617a534b12a7454256",
+      "sha256_candidato": "b19888767f6c6a0e526f665fa368d3f70721e60e01668765032f8e5da0890d88",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18330-1945-04-10.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-18330-1945-04-10.md",
+      "sha256_preimagem": "33797ec19d891557826f490296dfd433d5d8469b97eeecde4dd8a337db1f2db5",
+      "sha256_candidato": "d5579032087c6fd5d38307f43b83c791320f1b205e23b40aff8907d70ba48119",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18278-1945-04-05.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-18278-1945-04-05.md",
+      "sha256_preimagem": "33bb3960458a22d5e910f23d162f069ca1b5395981aeff419d66ab7007ec98a0",
+      "sha256_candidato": "0dc654c0810380b7006ad109d09b98576cdc49bbbeee03be0e7d9787adbc178d",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18291-1945-04-05.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-18291-1945-04-05.md",
+      "sha256_preimagem": "6fe39e511ad971836e3b98e301217abc824e2a629f0056458bbd7290ec034bf0",
+      "sha256_candidato": "8968b0bda3a5bea300c22da0f2730d51f4383831c9af9a7a01cb365cfc59b337",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18275-1945-04-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-18275-1945-04-04.md",
+      "sha256_preimagem": "a275eaa72e37add1cce69129103cbda027c987b47c1994b111350fb975cef673",
+      "sha256_candidato": "337674d9042620cb9fe82de28c1f516175a07d537d222510db09aa2b3f33d5ef",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18223-1945-03-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-18223-1945-03-28.md",
+      "sha256_preimagem": "391d8951b2cd531f04000bfd9bad11863922f5fb1a3071de0c891bb317091b24",
+      "sha256_candidato": "83fd37b96584526b8e086393f2012bdb87eb60ad2338e5370222f0de0e9e1fda",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18120-1945-03-21.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-18120-1945-03-21.md",
+      "sha256_preimagem": "dde90ee4429510fe3e5f071314d64642a35c97f9fb37b00115c3af39f11cfcf5",
+      "sha256_candidato": "da177ed3a2fbe9fb8a4e233c4032aecb41583460dd8df2ad041f80ae5a345d8f",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18126-1945-03-21.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-18126-1945-03-21.md",
+      "sha256_preimagem": "7623e4d7bf94f26b8b2072777967486e6dc9f11e7459e1ee28457f87589f0fc9",
+      "sha256_candidato": "939efe1a61fc641db15606a808a93e2e59a165130f6747e16b3a07999b5662b8",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18134-1945-03-21.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-18134-1945-03-21.md",
+      "sha256_preimagem": "7328969e132250e6a256c38f2802aefbd6a60a17b3b2213367f82d76acd2d37f",
+      "sha256_candidato": "679a44bde523958633706fffcfbab8a7319cd893cdde1ed710cadc43d0206976",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18112-1945-03-19.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-18112-1945-03-19.md",
+      "sha256_preimagem": "43f6feac0dd78b1d4d44dbf463149530fc912faa3798645250030604dc8498a6",
+      "sha256_candidato": "8ef15adb9eccab1122641fb052bdfd508b6042365b43acaf07ae7b45875172d3",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18067-1945-03-14.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-18067-1945-03-14.md",
+      "sha256_preimagem": "0b56e9b65c65681d83cd96c9e2f9f34cc76f10ff3c808bd77f5a40db95c5a2c7",
+      "sha256_candidato": "d2f5d24216c45b5171044af8ccd4df182a14663e873bed451fc8035d5fc33f82",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18048-1945-03-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-18048-1945-03-12.md",
+      "sha256_preimagem": "ad2e464d15e6cbcb1bafc0a60c888b31530242727ed77f80f102bfdda1093e1a",
+      "sha256_candidato": "cfe88b50beda6daadd340a426807eddfa3313000fe884fc65ba9ab678db1d713",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18025-1945-03-07.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-18025-1945-03-07.md",
+      "sha256_preimagem": "f51f4f4770ad3034238a7872ac5e773ccb2b997d1b37826f730440abdfbd3478",
+      "sha256_candidato": "8db9fcc0741bc3271a899a375800181dd80a5cd5d432772dfb0b317eec27e939",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17916-1945-02-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17916-1945-02-28.md",
+      "sha256_preimagem": "0e6f7ebdc81350a869bb81d679212d5670f0cdcf7acfabf19369ad33639d730e",
+      "sha256_candidato": "249c47f9b12c21f03811182f2b2f1707fbeb01f46e7dd64a785310afe4e40f17",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17931-1945-02-28.md",
+      "candidate": "federal/_candidatos_commonmark_015018_20261021_001/dec-17931-1945-02-28.md",
+      "sha256_preimagem": "5f53766dfa8a4e56fccb76ab54d85e88ce755394604bb2ac565dfed989041427",
+      "sha256_candidato": "ba54247c7b93af0aab5c3e3a11f68a78971d36079cc8957544107f71ee9c699c",
+      "mudanca": "Correção de markup ou escape de sinais literais, com replay CommonMark estrutural."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17941-1945-02-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17941-1945-02-28.md",
+      "sha256_preimagem": "9ca69b9c7afba1c545904506b6e5197fed4f5979808a3af2d43b249f76f389be",
+      "sha256_candidato": "f61d747dc13af3fce18b94eabeffe859d22651a18d3d2d9e230bc1e3ae202e97",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17943-1945-02-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17943-1945-02-28.md",
+      "sha256_preimagem": "3ed64f5443f5c6693ca0de4afe7344128ba34e45ba238245dcc301f090b9f94c",
+      "sha256_candidato": "716b164ff5abeb2be55c195d52fddb5ebc8e6cee589bc03454c3c26790a69f4e",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17882-1945-02-26.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17882-1945-02-26.md",
+      "sha256_preimagem": "8e410e0f1bee0f043c6f5f86ba4575684f1a3a8894a392390ec4437ffa48b482",
+      "sha256_candidato": "f510403f6e91332b5a08dcefecee6f04bb092ab16cb2d87b591e7e7f7f6c4dc0",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17868-1945-02-24.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17868-1945-02-24.md",
+      "sha256_preimagem": "77a39fd993135e7d80d7ab5108722b8d4c8ad6c762436f19543e8083c2942008",
+      "sha256_candidato": "f7ead64774904bff4a97058f6ee2b864051a12b7ca2cad96dabb43a90c771fb2",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17874-1945-02-24.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17874-1945-02-24.md",
+      "sha256_preimagem": "c93d23b6daefa390029eeb5388e2ab706e689c232b85b7ef0ab46ee9ee33b3e3",
+      "sha256_candidato": "ac74ff2d40b768bc4aa1d9bbaaba53623e424277a14972d97016210950144cf5",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17854-1945-02-23.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17854-1945-02-23.md",
+      "sha256_preimagem": "46cd7fbbc6a16ee12bc600ad6ba4d6eea6d4d6d3e6a8184b162116dc3e167d9d",
+      "sha256_candidato": "8a69580ab750a87b19c3c229854a36944126f256a5bea2fa03840a708a7020e8",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17857-1945-02-23.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17857-1945-02-23.md",
+      "sha256_preimagem": "a82f1144dce1995798b83cbadd3c1bf3caf25465c34edcf424a8b92dec03a999",
+      "sha256_candidato": "af4df5d291909a693e9f8c9988afccafc9612082181f0c1b01f6e967392a6106",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17821-1945-02-17.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17821-1945-02-17.md",
+      "sha256_preimagem": "91bc45afca24492d7de3f3a0097716dabd99ddb347698cbcdbede0a47f884244",
+      "sha256_candidato": "2dda9487bb67721003bb37c0f507f85da9ea90190c12e5c11c6a342def886861",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17822-1945-02-17.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17822-1945-02-17.md",
+      "sha256_preimagem": "3908281c5ce70ae6035ba6d4d5e2c2fe57506c684386e9bd6710a58a98b4466e",
+      "sha256_candidato": "2d4ca0b694d12f004bc3f172d459562c8ea2103549d49dadf8ee24a502de0085",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17824-1945-02-17.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17824-1945-02-17.md",
+      "sha256_preimagem": "5722f1792f8e3baf7c9f15a2f07e7c3245f834027e58089626edbd8b674bcff0",
+      "sha256_candidato": "3d2d4c886752492a343cd72cf0d14c67769019b40cdcf3ce9f15bb5fea740263",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17828-1945-02-17.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17828-1945-02-17.md",
+      "sha256_preimagem": "942ff92985f0a2c11ee8a9778c15d62da248347f9702feedfeed1670ef8e0559",
+      "sha256_candidato": "4c86e869283044b7ace6477fff0bddde016d8c92152d2c03d4ff53da91efc753",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17829-1945-02-17.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17829-1945-02-17.md",
+      "sha256_preimagem": "2b40b9707f33ba8842048eb322f289f013f2b0e0ea943f9d15f138c1c583e0cb",
+      "sha256_candidato": "19536639f93290608b5dad3eb819a8b564e35a1ad67ddfc2a73096ccdf597441",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17790-1945-02-08.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17790-1945-02-08.md",
+      "sha256_preimagem": "8d38e50c2cbba088c66d0ed022aaaef0569089e2cd55b4852db6f36e7b9fadee",
+      "sha256_candidato": "e800dce15cc158e6d7904d44a4b9661a86e1355ee6375e8dc9f7b96d2a1f996f",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17738-1945-02-02.md",
+      "candidate": "federal/_candidatos_commonmark_015018_20261021_001/dec-17738-1945-02-02.md",
+      "sha256_preimagem": "5ecc9e6140cafb38cb2f744ba1d74fd143f5792a871d496f2fde55d304753b56",
+      "sha256_candidato": "e02f68c5ca0137054bfbde804974a3dbb552e80fab82a5bf21b5052d367cfc59",
+      "mudanca": "Correção de markup ou escape de sinais literais, com replay CommonMark estrutural."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17748-1945-02-02.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17748-1945-02-02.md",
+      "sha256_preimagem": "3440fcd60a3e262b75d474cd940c6e264c24187a77f0d2ae770310d71aa4763c",
+      "sha256_candidato": "bba69cb8789f42796ae5d4c9442f4a8bd4b8563f3cf54bbb8f899af14d536d59",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17729-1945-02-01.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17729-1945-02-01.md",
+      "sha256_preimagem": "44c1970544de8275d1fcabce7f5781a3e77b0d2862c2d881ca6455257820963d",
+      "sha256_candidato": "15f65cea502f38b94cddfface3f4c80de549e3244024cda5d87a0531858b13cb",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17721-1945-01-31.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17721-1945-01-31.md",
+      "sha256_preimagem": "d3d5af3b0064d92bffb2a4289ab477a4828abf356fcc4a9457d4d1635a4fbfc5",
+      "sha256_candidato": "5477fd4df42da0921ea8a1612edfa9e41b2ef286c90546657d99ce0b8ba167d7",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17722-1945-01-31.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17722-1945-01-31.md",
+      "sha256_preimagem": "92dfd69901d2417fb626c92098204990a7327727030288ef84f23f9e10b52468",
+      "sha256_candidato": "f82b98fc9c091389a0c8dda5959cb28dec44342125caff1a4ddb63313d3dd443",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17655-1945-01-24.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17655-1945-01-24.md",
+      "sha256_preimagem": "ae6e1f4bd1155aa61cb76184e0dbd593954bd803111bd34af6194ea1b6465b31",
+      "sha256_candidato": "77ab861b2a38a780e2afbcaaa8d56b0f84c1001227fe5750b088f4fefea049df",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17580-1945-01-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17580-1945-01-12.md",
+      "sha256_preimagem": "16927fc451b21f57028d1066616f4c557be02b8441b3f564e9e0784217d5bbfc",
+      "sha256_candidato": "02cef98a08d5558ff9a13f040f1780cfa213addab9cc766bbf6f3f9a7bb4ce19",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17582-1945-01-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17582-1945-01-12.md",
+      "sha256_preimagem": "f715143f3a32d0f65d362aa52c066b495eda3e154e752aabf1c41ed8c5945da1",
+      "sha256_candidato": "d0f053df0c35dbb6a7de799b831ba6bd7fae17a4c0b39b90fdb2623f5e183cbb",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17584-1945-01-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17584-1945-01-12.md",
+      "sha256_preimagem": "f7d28049aa1b046993e6d1e0514a209e4432cb9ed0e4e0a4334e4d70ce1d5e9e",
+      "sha256_candidato": "8f04c6b1709dace564cb361f9b125519e55d96ede794a125482798e84ca9e4bc",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17574-1945-01-10.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17574-1945-01-10.md",
+      "sha256_preimagem": "b7a7934f85e907fab40fc576d39c9a92e849028be1aeabe6ffea152643d9246f",
+      "sha256_candidato": "c6fb7d321f49f200ab610217b0f578a8243859097ef1d2a1e04878dde65007f8",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17518-1945-01-03.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17518-1945-01-03.md",
+      "sha256_preimagem": "bc30a1f5d9dc40c8e89c7d055961eee2a434cb395e2a0655dda77a388cfe434a",
+      "sha256_candidato": "1bfc2d218c5a1482919c2bb08463c4efbaf5004e96fd6946c565c6fc0c8f63eb",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17519-1945-01-03.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17519-1945-01-03.md",
+      "sha256_preimagem": "604ee785c7cd0ca9465402b6d5a17857b9e9132f3bb43d947ec29863b4cea4bf",
+      "sha256_candidato": "71ab13a8c473b3e56c474e5a521d854cfbb1c86b46865cbcf60d9ae1214d439e",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1945/dec-17525-1945-01-03.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17525-1945-01-03.md",
+      "sha256_preimagem": "2bf62f7b62147439a179f2fe6aa8c1f5c3fe5bbbfd6205af99de637470483a76",
+      "sha256_candidato": "21bd839727dfd4a8fa9aed00cd3705313aa08cb4b937e3f32bfcaad1b68baba6",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1944/dec-17481-1944-12-30.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17481-1944-12-30.md",
+      "sha256_preimagem": "503e4cd6e612fbb8c13e4b9cb3ebd76ab91965e4a0ac6fe19e28dfb2b848530c",
+      "sha256_candidato": "f299fa897a1cde138b17528d84aa2639ef09f454ced5b5158161b7b2c7d601c8",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1944/dec-17482-1944-12-30.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17482-1944-12-30.md",
+      "sha256_preimagem": "09bc3a58d52d95b16fde2352c5e2674190ccaed868b2dfedd5758106037de64d",
+      "sha256_candidato": "94443084a7920cfd26ed9dddc3e774a6e03effec1059beef66f5b27a15baa34a",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1944/dec-17490-1944-12-30.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17490-1944-12-30.md",
+      "sha256_preimagem": "aa807396b0a4132e10e93592437090bf8db1cbec934d7f5741c4cf68d8144ec7",
+      "sha256_candidato": "24f017891754c1bbdddc1d27f54d91fa3ba6ae5ea76c34bd4748e3740fb483d4",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1944/dec-17508-1944-12-30.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17508-1944-12-30.md",
+      "sha256_preimagem": "ad06e97263292337c7309c0d65854af4ad865cf22e4af803c666ac8d39a88797",
+      "sha256_candidato": "32cb57a8ea02da273db2fb318abac8ed2f0cc651e32197011db2dffa0b7bf727",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1944/dec-17509-1944-12-30.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17509-1944-12-30.md",
+      "sha256_preimagem": "128c2bf2700906e795bbbcf27c5cab2edbdd7fa35519f7fc37bc37711392a58f",
+      "sha256_candidato": "0ea89c2185f65cedad85e8c16023b3b739a407d85cb1865d4eef8bec24d8f47e",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1944/dec-17511-1944-12-30.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17511-1944-12-30.md",
+      "sha256_preimagem": "f5ad21df31fa85f683748f7085ee537c4f488b8fbd5af3b6af6e469267278ecf",
+      "sha256_candidato": "c02333b6bac183c71325cee840a50fef1b8b7addfad939473feafbf0c3ffe3e0",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1944/dec-17469-1944-12-29.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17469-1944-12-29.md",
+      "sha256_preimagem": "1f2ce81d338930786ebb57df89cd10d1728c5bcb9e11a23cd1af02253762f537",
+      "sha256_candidato": "af74d862bb86a468d1f7872bd286b09454bfae1fd152bdb5ce0fabb53c4402df",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1944/dec-17470-1944-12-29.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17470-1944-12-29.md",
+      "sha256_preimagem": "e60d6af6a2a69425400eef057f79c66ee97741701e0810c08899df1f87058bbd",
+      "sha256_candidato": "9b8ce9d8971989eb63b030cd07fe7fdd5529110d9e8469eabe653f602b4de4d1",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1944/dec-17471-1944-12-29.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17471-1944-12-29.md",
+      "sha256_preimagem": "382524a312908535866692f70331441be5c8bee135c538a0e73d3bfcb787c80b",
+      "sha256_candidato": "8fb683d0beb78bf484d29f925b1b11548d8938fd3ba51a357aa07e3318bd040c",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1944/dec-17458-1944-12-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17458-1944-12-28.md",
+      "sha256_preimagem": "b26b4f8396edddf9f081f1da49a74240e46dc0fbac40341018635fd1981f8d1a",
+      "sha256_candidato": "f35403bc6aa63516f6dccbae80cea5638b353c2cc5d233e45bb3a5bceb6f5659",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1944/dec-17464-1944-12-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17464-1944-12-28.md",
+      "sha256_preimagem": "d4c27a153a277e09edb820aa35cf810b448885fc0447e6598dbd4d63c01da957",
+      "sha256_candidato": "afc0e9f86e7b3d8daa8329f223c4d81a4c420f9501c0bce30b726607c65471c2",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1944/dec-17465-1944-12-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17465-1944-12-28.md",
+      "sha256_preimagem": "3f79337e67f48d7748128778318631fa5a83e985da921be4e57553d79d73e4dd",
+      "sha256_candidato": "beab54a5389dce76a5ec1eebbd9d1a6c71b752a2da0c265d7967634ae9a9d55d",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1944/dec-17466-1944-12-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17466-1944-12-28.md",
+      "sha256_preimagem": "ae5b9843d7fdb81a18f6814ab1a0c600a1c9fb259842e7994b2b924a53be721c",
+      "sha256_candidato": "bc70c74baabc5cb3292191cd05c8bc0adf0e5e6368900070d153d0042c233057",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1944/dec-17245-1944-11-27.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17245-1944-11-27.md",
+      "sha256_preimagem": "191382b39a424077cd945ec1e144b09a27f69eeed0b09915a810dc870de9a6f0",
+      "sha256_candidato": "7fa70fadd3cd810e278cf71905f951d6785a74e28212ed6bb4dc1479843d2cc5",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1944/dec-17103-1944-11-09.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17103-1944-11-09.md",
+      "sha256_preimagem": "216d446ffc82764d57eee7f597a33409effd007a2d5a45898df9d051737a876d",
+      "sha256_candidato": "222c5b7425894ed205f58e1488e06ed6a1c44735da746440f397771f28677da6",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1944/dec-17045-1944-11-03.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-17045-1944-11-03.md",
+      "sha256_preimagem": "2910ae75990616da8dda8170dd1590ed1f80ded70cda35a583a0acc2bfc88152",
+      "sha256_candidato": "4a4606ed56bdbc28007ff1be63ae5658b570378cc1bbdf60042dc79505f220c1",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1944/dec-16830-1944-10-16.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-16830-1944-10-16.md",
+      "sha256_preimagem": "1eb58018bbb87b876328c4127d4ac60aa3d15e37771117e9672615e95c235236",
+      "sha256_candidato": "71a1e6de0bf21664cd0a861dae415f0de4315fcaa320da2334e19fa97c83e862",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1944/dec-16822-1944-10-13.md",
+      "candidate": "federal/_candidatos_commonmark_015018_20261021_001/dec-16822-1944-10-13.md",
+      "sha256_preimagem": "2ed4d539d0ddea438d84069bbedbc0d28ce0cd6660f7fe262b33a9ef43308e24",
+      "sha256_candidato": "48aed8dbb8a320da453aabe075f4f35927e803d0b59fc8b3d20f3786c8ca1b10",
+      "mudanca": "Correção de markup ou escape de sinais literais, com replay CommonMark estrutural."
+    },
+    {
+      "path": "federal/decretos/1944/dec-16823-1944-10-13.md",
+      "candidate": "federal/_candidatos_commonmark_015018_20261021_001/dec-16823-1944-10-13.md",
+      "sha256_preimagem": "2b36f73773bd1bf2fb54fd73af58b43424bda4cccc228dceaae84a7a3b026e2e",
+      "sha256_candidato": "5be42c9339c96246b748a0225a47df7f6f2b0e5b933b943c624b829a4da31b8e",
+      "mudanca": "Correção de markup ou escape de sinais literais, com replay CommonMark estrutural."
+    },
+    {
+      "path": "federal/decretos/1944/dec-16828-1944-10-13.md",
+      "candidate": "federal/_candidatos_commonmark_015018_20261021_001/dec-16828-1944-10-13.md",
+      "sha256_preimagem": "97e23cf5e730b64e1f72bbadb3489b055ae721b42d189789a76347994ca8c0bf",
+      "sha256_candidato": "f4d82c573d25586a94da762649aa6975f3ace1a4e921d8905be6639d1a96118f",
+      "mudanca": "Correção de markup ou escape de sinais literais, com replay CommonMark estrutural."
+    },
+    {
+      "path": "federal/decretos/1944/dec-16829-1944-10-13.md",
+      "candidate": "federal/_candidatos_commonmark_015018_20261021_001/dec-16829-1944-10-13.md",
+      "sha256_preimagem": "49b4371b041d88c8bdbc44ea081c2528c38d822ee609833dd7a37c7b8ea03317",
+      "sha256_candidato": "4128f61b60dec5dc3e5b40055b74ce09890a6ce2a6731288614f241aa6e4c012",
+      "mudanca": "Correção de markup ou escape de sinais literais, com replay CommonMark estrutural."
+    },
+    {
+      "path": "federal/decretos/1944/dec-16810-1944-10-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-16810-1944-10-12.md",
+      "sha256_preimagem": "2f5caa71d58288a3f6b6540a8f06a38b3609f779329286b9d451e43dea7826df",
+      "sha256_candidato": "19161fb38fe16daba834ab895d0b9289c98d6bf319fa039016bea87f21caefbb",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1944/dec-16814-1944-10-12.md",
+      "candidate": "federal/_candidatos_commonmark_015018_20261021_001/dec-16814-1944-10-12.md",
+      "sha256_preimagem": "45a67e286b808784deb3eab1dc89e15ce55d3db81d7e41e83fcd6426408dd04e",
+      "sha256_candidato": "79a63b56d99e1a87be0273e8cc666be68aaf1bfad0270cf698da68b7a68afad6",
+      "mudanca": "Correção de markup ou escape de sinais literais, com replay CommonMark estrutural."
+    },
+    {
+      "path": "federal/decretos/1944/dec-16815-1944-10-12.md",
+      "candidate": "federal/_candidatos_commonmark_015018_20261021_001/dec-16815-1944-10-12.md",
+      "sha256_preimagem": "fcea1a1429de7be4fd87c356bdd38aece9337b890ccbb6e2a9263697ced08df9",
+      "sha256_candidato": "6499b26dd8da6fe094fb993fea34feda8592af580fe6a5f5f02d6ae09bbad3ed",
+      "mudanca": "Correção de markup ou escape de sinais literais, com replay CommonMark estrutural."
+    },
+    {
+      "path": "federal/decretos/1944/dec-16816-1944-10-12.md",
+      "candidate": "federal/_candidatos_commonmark_015018_20261021_001/dec-16816-1944-10-12.md",
+      "sha256_preimagem": "96ff31f7820f41e70f2ddc55063933b56c7bb2dc718105c6a9e60055ed510ec6",
+      "sha256_candidato": "4be9c5383c09dcdbf563cc68beb34be12cb11987dabaf15001eb29a0c7cbe774",
+      "mudanca": "Correção de markup ou escape de sinais literais, com replay CommonMark estrutural."
+    },
+    {
+      "path": "federal/decretos/1944/dec-16782-1944-10-10.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-16782-1944-10-10.md",
+      "sha256_preimagem": "217a869671d511abbc1e96aa61ff16294a98bb024d074d51bb011fded626968b",
+      "sha256_candidato": "38f846b26bffaed4cc555667fac8e637a134717fbfe1409f27fae481ca695a35",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1944/dec-16773-1944-10-09.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-16773-1944-10-09.md",
+      "sha256_preimagem": "006868ce567fedde9e3776b0edaa6904ff23b0375bb2f409c9af580e8e734693",
+      "sha256_candidato": "5086ac794f314b41c9a190241343e68ebceb63cd9cfdffaf3de264077351fc28",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    },
+    {
+      "path": "federal/decretos/1944/dec-16690-1944-09-29.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_019/dec-16690-1944-09-29.md",
+      "sha256_preimagem": "be86c7200e505b7d0868694f54bc1abbf96d6b5f5be35d3bb85ee0948fa49eba",
+      "sha256_candidato": "3638b40acd58bf04c83b4c9f3bfe09124415f5a6e2549bb34130f55e553c498c",
+      "mudanca": "Somente nota de literalidade do fecho, sem emendar corpo."
+    }
+  ],
+  "retidos_nao_promover": [
+    "federal/decretos/1945/dec-18589-1945-05-11.md",
+    "federal/decretos/1945/dec-18586-1945-05-10.md",
+    "federal/decretos/1945/dec-18568-1945-05-09.md",
+    "federal/decretos/1945/dec-18537-1945-05-03.md",
+    "federal/decretos/1945/dec-15832-1945-05-02.md",
+    "federal/decretos/1945/dec-18526-1945-05-02.md",
+    "federal/decretos/1945/dec-18532-1945-05-02.md",
+    "federal/decretos/1945/dec-18518-1945-04-30.md",
+    "federal/decretos/1945/dec-18519-1945-04-30.md",
+    "federal/decretos/1945/dec-18507-1945-04-27.md",
+    "federal/decretos/1945/dec-18471-1945-04-25.md",
+    "federal/decretos/1945/dec-18455-1945-04-24.md",
+    "federal/decretos/1945/dec-18432-1945-04-23.md",
+    "federal/decretos/1945/dec-7477-1945-04-19.md",
+    "federal/decretos/1945/dec-18399-1945-04-18.md",
+    "federal/decretos/1945/dec-18381-1945-04-17.md",
+    "federal/decretos/1945/dec-18367-1945-04-16.md",
+    "federal/decretos/1945/dec-18368-1945-04-16.md",
+    "federal/decretos/1945/dec-18380-1945-04-16.md",
+    "federal/decretos/1945/dec-18360-1945-04-12.md",
+    "federal/decretos/1945/dec-18324-1945-04-09.md",
+    "federal/decretos/1945/dec-18325-1945-04-09.md",
+    "federal/decretos/1945/dec-18326-1945-04-09.md",
+    "federal/decretos/1945/dec-18327-1945-04-09.md",
+    "federal/decretos/1945/dec-18329-1945-04-09.md",
+    "federal/decretos/1945/dec-18318-1945-04-06.md",
+    "federal/decretos/1945/dec-18296-1945-04-05.md",
+    "federal/decretos/1945/dec-18264-1945-04-04.md",
+    "federal/decretos/1945/dec-18261-1945-04-03.md",
+    "federal/decretos/1945/dec-18177-1945-03-28.md",
+    "federal/decretos/1945/dec-18179-1945-03-28.md",
+    "federal/decretos/1945/dec-7424-1945-03-27.md",
+    "federal/decretos/1945/dec-18164-1945-03-26.md",
+    "federal/decretos/1945/dec-18165-1945-03-26.md",
+    "federal/decretos/1945/dec-18137-1945-03-22.md",
+    "federal/decretos/1945/dec-18114-1945-03-21.md",
+    "federal/decretos/1945/dec-18121-1945-03-21.md",
+    "federal/decretos/1945/dec-18108-1945-03-19.md",
+    "federal/decretos/1945/dec-18103-1945-03-19.md",
+    "federal/decretos/1945/dec-18077-1945-03-15.md",
+    "federal/decretos/1945/dec-18080-1945-03-15.md",
+    "federal/decretos/1945/dec-18082-1945-03-15.md",
+    "federal/decretos/1945/dec-18087-1945-03-15.md",
+    "federal/decretos/1945/dec-18091-1945-03-15.md",
+    "federal/decretos/1945/dec-18055-1945-03-14.md",
+    "federal/decretos/1945/dec-18054-1945-03-13.md",
+    "federal/decretos/1945/dec-18042-1945-03-12.md",
+    "federal/decretos/1945/dec-18035-1945-03-09.md",
+    "federal/decretos/1945/dec-18034-1945-03-08.md",
+    "federal/decretos/1945/dec-18007-1945-03-07.md",
+    "federal/decretos/1945/dec-17951-1945-03-01.md",
+    "federal/decretos/1945/dec-17919-1945-02-28.md",
+    "federal/decretos/1945/dec-17906-1945-02-27.md",
+    "federal/decretos/1945/dec-17895-1945-02-26.md",
+    "federal/decretos/1945/dec-17898-1945-02-26.md",
+    "federal/decretos/1945/dec-17861-1945-02-24.md",
+    "federal/decretos/1945/dec-17850-1945-02-23.md",
+    "federal/decretos/1945/dec-17789-1945-02-08.md",
+    "federal/decretos/1945/dec-7310-1945-02-08.md",
+    "federal/decretos/1945/dec-17776-1945-02-07.md",
+    "federal/decretos/1945/dec-17750-1945-02-05.md",
+    "federal/decretos/1945/dec-17751-1945-02-05.md",
+    "federal/decretos/1945/dec-17745-1945-02-02.md",
+    "federal/decretos/1945/dec-17730-1945-02-01.md",
+    "federal/decretos/1945/dec-17712-1945-01-31.md",
+    "federal/decretos/1945/dec-17693-1945-01-29.md",
+    "federal/decretos/1945/dec-17694-1945-01-29.md",
+    "federal/decretos/1945/dec-17682-1945-01-26.md",
+    "federal/decretos/1945/dec-17646-1945-01-24.md",
+    "federal/decretos/1945/dec-17649-1945-01-24.md",
+    "federal/decretos/1945/dec-17640-1945-01-22.md",
+    "federal/decretos/1945/dec-17641-1945-01-22.md",
+    "federal/decretos/1945/dec-17593-1945-01-17.md",
+    "federal/decretos/1945/dec-17591-1945-01-16.md",
+    "federal/decretos/1945/dec-17592-1945-01-16.md",
+    "federal/decretos/1945/dec-1586-1945-01-15.md",
+    "federal/decretos/1945/dec-17586-1945-01-15.md",
+    "federal/decretos/1945/dec-17587-1945-01-15.md",
+    "federal/decretos/1945/dec-17585-1945-01-12.md",
+    "federal/decretos/1945/dec-17558-1945-01-10.md",
+    "federal/decretos/1945/dec-17565-v-1945-01-10.md",
+    "federal/decretos/1945/dec-17549-1945-01-09.md",
+    "federal/decretos/1945/dec-17551-1945-01-09.md",
+    "federal/decretos/1945/dec-17552-1945-01-09.md",
+    "federal/decretos/1945/dec-17553-1945-01-09.md",
+    "federal/decretos/1945/dec-17554-1945-01-09.md",
+    "federal/decretos/1945/dec-17548-1945-01-08.md",
+    "federal/decretos/1945/dec-17515-1945-01-03.md",
+    "federal/decretos/1944/dec-17514-1944-12-30.md",
+    "federal/decretos/1944/dec-17463-1944-12-28.md",
+    "federal/decretos/1944/dec-17467-1944-12-28.md",
+    "federal/decretos/1944/dec-17419-1944-12-26.md",
+    "federal/decretos/1944/dec-17421-1944-12-26.md",
+    "federal/decretos/1944/dec-17422-1944-12-26.md",
+    "federal/decretos/1944/dec-17423-1944-12-26.md",
+    "federal/decretos/1944/dec-17424-1944-12-26.md",
+    "federal/decretos/1944/dec-17425-1944-12-26.md",
+    "federal/decretos/1944/dec-17401-1944-12-20.md",
+    "federal/decretos/1944/dec-17396-1944-12-19.md",
+    "federal/decretos/1944/dec-17398-1944-12-19.md",
+    "federal/decretos/1944/dec-17400-1944-12-19.md",
+    "federal/decretos/1944/dec-17381-1944-12-18.md",
+    "federal/decretos/1944/dec-17382-1944-12-18.md",
+    "federal/decretos/1944/dec-17383-1944-12-18.md",
+    "federal/decretos/1944/dec-17384-1944-12-18.md",
+    "federal/decretos/1944/dec-17385-1944-12-18.md",
+    "federal/decretos/1944/dec-17386-1944-12-18.md",
+    "federal/decretos/1944/dec-17387-1944-12-18.md",
+    "federal/decretos/1944/dec-17388-1944-12-18.md",
+    "federal/decretos/1944/dec-17389-1944-12-18.md",
+    "federal/decretos/1944/dec-17390-1944-12-18.md",
+    "federal/decretos/1944/dec-17391-1944-12-18.md",
+    "federal/decretos/1944/dec-17377-1944-12-16.md",
+    "federal/decretos/1944/dec-13340-1944-12-13.md",
+    "federal/decretos/1944/dec-17373-1944-12-13.md",
+    "federal/decretos/1944/dec-17321-1944-12-12.md",
+    "federal/decretos/1944/dec-17291-1944-12-04.md",
+    "federal/decretos/1944/dec-17292-1944-12-04.md",
+    "federal/decretos/1944/dec-17293-1944-12-04.md",
+    "federal/decretos/1944/dec-17294-1944-12-04.md",
+    "federal/decretos/1944/dec-17257-1944-11-28.md",
+    "federal/decretos/1944/dec-17258-1944-11-28.md",
+    "federal/decretos/1944/dec-17259-1944-11-28.md",
+    "federal/decretos/1944/dec-17249-1944-11-27.md",
+    "federal/decretos/1944/dec-17192-1944-11-21.md",
+    "federal/decretos/1944/dec-17193-1944-11-21.md",
+    "federal/decretos/1944/dec-17203-1944-11-21.md",
+    "federal/decretos/1944/dec-17204-1944-11-21.md",
+    "federal/decretos/1944/dec-17205-1944-11-21.md",
+    "federal/decretos/1944/dec-17206-1944-11-21.md",
+    "federal/decretos/1944/dec-17188-1944-11-20.md",
+    "federal/decretos/1944/dec-17191-1944-11-20.md",
+    "federal/decretos/1944/dec-17184-1944-11-17.md",
+    "federal/decretos/1944/dec-17143-1944-11-14.md",
+    "federal/decretos/1944/dec-17145-1944-11-14.md",
+    "federal/decretos/1944/dec-17131-1944-11-13.md",
+    "federal/decretos/1944/dec-17136-1944-11-13.md",
+    "federal/decretos/1944/dec-17068-1944-11-08.md",
+    "federal/decretos/1944/dec-17041-1944-11-03.md",
+    "federal/decretos/1944/dec-17042-1944-11-03.md",
+    "federal/decretos/1944/dec-8155-1944-11-03.md",
+    "federal/decretos/1944/dec-17023-1944-10-31.md",
+    "federal/decretos/1944/dec-17015-1944-10-30.md",
+    "federal/decretos/1944/dec-17007-1944-10-26.md",
+    "federal/decretos/1944/dec-16958-1944-10-25.md",
+    "federal/decretos/1944/dec-16959-1944-10-25.md",
+    "federal/decretos/1944/dec-16947-1944-10-24.md",
+    "federal/decretos/1944/dec-16948-1944-10-24.md",
+    "federal/decretos/1944/dec-16949-1944-10-24.md",
+    "federal/decretos/1944/dec-16950-1944-10-24.md",
+    "federal/decretos/1944/dec-16924-1944-10-23.md",
+    "federal/decretos/1944/dec-16837-1944-10-16.md",
+    "federal/decretos/1944/dec-16838-1944-10-16.md",
+    "federal/decretos/1944/dec-16825-1944-10-13.md",
+    "federal/decretos/1944/dec-16789-1944-10-11.md",
+    "federal/decretos/1944/dec-16743-1944-10-06.md",
+    "federal/decretos/1944/dec-16740-1944-10-05.md",
+    "federal/decretos/1944/dec-16741-1944-10-05.md",
+    "federal/decretos/1944/dec-16719-1944-10-04.md",
+    "federal/decretos/1944/dec-16715-1944-10-03.md",
+    "federal/decretos/1944/dec-16716-1944-10-03.md",
+    "federal/decretos/1944/dec-16717-1944-10-03.md",
+    "federal/decretos/1944/dec-16718-1944-10-03.md",
+    "federal/decretos/1944/dec-16694-1944-09-29.md",
+    "federal/decretos/1944/dec-16695-1944-09-29.md",
+    "federal/decretos/1944/dec-16696-1944-09-29.md",
+    "federal/decretos/1944/dec-16657-1944-09-27.md",
+    "federal/decretos/1944/dec-16653-1944-09-26.md",
+    "federal/decretos/1944/dec-16648-1944-09-25.md",
+    "federal/decretos/1944/dec-16649-1944-09-25.md",
+    "federal/decretos/1944/dec-16650-1944-09-25.md",
+    "federal/decretos/1944/dec-16633-1944-09-21.md",
+    "federal/decretos/1944/dec-11614-1944-09-18.md",
+    "federal/decretos/1944/dec-16613-1944-09-18.md",
+    "federal/decretos/1944/dec-17044-1944-11-03.md",
+    "federal/decretos/1945/dec-18434-1945-04-23.md",
+    "federal/decretos/1944/dec-16788-1944-10-11.md"
+  ]
+}

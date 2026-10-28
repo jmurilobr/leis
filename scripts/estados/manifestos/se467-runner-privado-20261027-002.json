@@ -1,0 +1,23 @@
+{
+  "preparado_em": "2026-10-27T20:43:58.802012-03:00",
+  "codigo": {
+    "scripts/estados/snapshots/se_html_promocao_20261027_002/promover_se_html_privado.py": "1013198873b44daa949e838d81d248d8794a16b4206e03cb566c4572358ddc03",
+    "scripts/estados/snapshots/se_html_promocao_20261027_002/test_promover_se_html_privado.py": "58b31e0eff46235e32b361c00a7acc4cedc17fccf29a5e940b07432b54deffd1"
+  },
+  "testes": 9,
+  "passaram": 9,
+  "dry_run": {
+    "finalizado_em": "2026-10-27T20:41:32.352360-03:00",
+    "modo": "dry-run",
+    "aptos": 467,
+    "promovidos": 0,
+    "HEAD": "b577c1a071e02b65166fdbb9b9f5e01a568fe087"
+  },
+  "apply_executado": false,
+  "apply_exclusivo_ROOT": true,
+  "intencao": "estaduais/SE/_fonte/auditorias/se467-promocao-dry-run-20261027-002/intencao.json",
+  "sha256_intencao": "5377b54bee103dab44ed95cdba0282532c0b3f3f4697494de4b0a13f918685fa",
+  "comando": "/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/estados/snapshots/se_html_promocao_20261027_002/promover_se_html_privado.py --manifesto scripts/estados/manifestos/se467-proposta-privada-20261027-005.json --hashes estaduais/SE/_fonte/auditorias/se467-privado-20261027-005/final/hashes.json --total-esperado 467 --controle estaduais/SE/_fonte/auditorias/SE467_ROOT_CONTROLE_NOVO",
+  "apply": "Somente ROOT pode acrescentar --apply --confirmar-root ROOT. Nunca executado pelo preparador.",
+  "evolucao": "Runner311 preservado. Este sucessor exige total esperado explícito e também confere UFSE no candidato/índice; mantém mapas/fontes/corpos, dedup por blobs integrais HEAD, backups/intenção/journal e criação atômica sem substituição/Git escrita."
+}

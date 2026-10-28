@@ -1,0 +1,176 @@
+---
+titulo: "Lei nº 1.482, de 10 de setembro de 2002"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1482"
+data: "2002-09-10"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/1766"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/3430/text"
+sha256_fonte: "d350d22d817ee6a5cd02fed30d0766f67b6a8493839cc386cab42affd5d81c7d"
+sha256_texto: "3c42a6223e6acf8322d5e96278106879439123509446f9636fc65afaca277a9a"
+capturado_em_fonte: "2026-10-27T21:43:59.695832-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.482, de 10 de setembro de 2002
+
+“Dispõe sobre a criação da campanha anual de combate à violência e exploração contra crianças e adolescentes no município de Porto Velho, e dá outras providências.”
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, no uso das atribuições que lhe confere o inciso IV, do art. 87 da Lei Orgânica do Município de Porto Velho,
+
+**FAÇO SABER**, que a **CÂMARA MUNICIPAL DE PORTO VELHO**, aprova e eu, sanciono a seguinte:
+
+**LEI:**
+
+
+Art. 1º.
+
+Fica instituída, no município de Porto Velho, a Campanha Anual de Combate à Violência e Exploração contra Criança e Adolescentes.
+
+
+Art. 2º.
+
+A Campanha Anual de Combate à Violência e Exploração contra Criança e adolescentes, tem por objetivos:
+
+
+I –
+
+Combater toda e qualquer forma de violência contra crianças e adolescentes no município de Porto Velho, principalmente as relacionadas ao trabalho infantil e a exploração sexual;
+
+
+II –
+
+Planejar e adotar medidas efetivas de esclarecimentos das crianças e adolescentes sobre seus direitos estabelecidos no Estatuto da Criança e do Adolescentes;
+
+
+III –
+
+Inibir a cultura da violência despertando nas crianças e adolescentes no município de Porto Velho a consciência da importância da solidariedade humana e do respeito aos direitos fundamentais da pessoa como pressupostos primordiais da vida em sociedade;
+
+
+IV –
+
+Promover atividades de caráter educativo e socioculturais, nas escolas da rede pública e particular do ensino oficial do Município de Porto Velho, durante uma semana a cada ano visando concretizar o que dispõe os incisos I, II e III deste artigo.
+
+
+Art. 3º.
+
+O Poder Executivo, no prazo de 60 (sessenta) dias, contados da publicação desta lei, constituirá a Comissão Especial que terá como responsabilidade elaborar anualmente a Campanha Anual de Combate à Violência e Exploração contra Criança e Adolescentes.
+
+
+§ 1º
+
+A Comissão Especial será composta pelos seguintes membros:
+
+
+I –
+
+um representante do Conselho Tutelar;
+
+
+II –
+
+um representante da Secretaria Municipal de Educação;
+
+
+III –
+
+um representante da Secretaria Municipal de Ação Social;
+
+
+IV –
+
+um representante do Conselho Municipal dos Direitos da Criança e do Adolescente;
+
+
+V –
+
+um representante do Ministério Público;
+
+
+VI –
+
+um representante do Fórum de Defesa da Criança e Adolescente;
+
+
+VII –
+
+um representante do Fórum de Erradicação do Trabalho Infantil;
+
+
+VIII –
+
+um representante da Pastoral do Menor;
+
+
+IX –
+
+um representante da Câmara Municipal de Porto Velho;
+
+
+X –
+
+um representante da Comissão de Direitos Humanos da Ordem dos Advogados do Brasil;
+
+
+XI –
+
+um representante da Secretaria de Segurança Pública.
+
+
+§ 2º
+
+A Comissão Especial poderá requisitar servidores públicos municipais para assessorá-la.
+
+
+§ 3º
+
+A Comissão funcionará junto a Secretaria Municipal de Ação Social, que lhe prestará todo apoio e infra-estrutura necessários.
+
+
+§ 4º
+
+A Comissão Especial terá 60 (sessenta) dias, contados de sua constituição, para concluir os trabalhos.
+
+
+§ 5º
+
+O Poder Executivo regulamentará a Campanha Anual de Combate à Violência e Exploração contra Criança e Adolescentes no prazo de 30 (trinta) dias a partir da finalização dos trabalhos da Comissão Especial, de acordo as conclusões estabelecidas por esta.
+
+
+Art. 4º.
+
+As despesas com execução desta lei ficarão por conta de dotações financeiras próprias, consignadas no orçamento vigente e suplementadas se necessárias, devendo as previsões futuras destinar recursos específicos para o seu fiel cumprimento.
+
+
+Parágrafo único
+
+Nenhum membro da Comissão Especial receberá salário ou qualquer vantagem financeira.
+
+
+Art. 5º.
+
+Pelo Poder Executivo Municipal serão dotadas todas as providências cabíveis e necessárias para a publicação do disposto nesta lei, incluindo a afixação das espécies legais nas escolas da rede pública e privada do Município em locais visíveis.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+**CARLOS ALBERTO DE AZEVEDO CAMURÇA Prefeito do Município**
+
+JOÃO RICARDO VALLE MACHADO  
+Procurador Geral
+
+RUBENS LUZ SILVA  
+Secretário Municipal de Ação Comunitária
+

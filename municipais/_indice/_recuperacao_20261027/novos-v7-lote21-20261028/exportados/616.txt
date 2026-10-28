@@ -1,0 +1,79 @@
+---
+titulo: "04 - Lei Ordinária nº 30, de 25 de agosto de 1971"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "30"
+data: "1971-08-25"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/679"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/668/text"
+sha256_fonte: "095f84f9fff42b3614a7fbaf7f1c87bb1049068b4e3e80e351884342f2a5fc2f"
+sha256_texto: "824e097bc653091bee03d54208ba43d5a91b8d3bae376681b66f5f2f16c4f7ff"
+capturado_em_fonte: "2026-10-28T09:31:03.371158-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 30, de 25 de agosto de 1971
+
+Fixa a contribuição do Município de Corbélia, para o Programa de Formação do Patrimônio do Servidor Público, e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou e, Eu Prefeito Municipal sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+O Município de Corbélia, contribuirá para o programa de formação de Patrimônio do Servidor Público nos, termos da Lei complementar nº8 da União de 3 de dezembro de 1970, com as seguintes parcelas que serão mensalmente recolhidas ao Banco Brasil S/A.
+
+
+a)
+
+1% (hum por cento) das receitas correntes próprias, deduzidas as transferências feitas a outras entidades de administração pública, a partir de 1º de julho de 1971, 1,5% (um e meio por cento) em 1972 e 2% (dois por cento) no ano de 1973 e subsequentes.
+
+
+b)
+
+2% (dois por cento) das transferências recebidas do Governo da União através do FUNDO DE PARTICIPAÇÕES DOS ESTADOS - DISTRITO FEDERAL E MUNICÍPIOS, a partir de 1 de julho de 1971.
+
+
+Parágrafo único
+
+Não recairá em nenhuma hipótese, sobre as transferências de que trata este artigo mais de uma contribuição.
+
+
+Art. 2º.
+
+As autarquias empresas públicas, sociedades de economia mista e fundações do Município de Corbélia contribuirão para o programa com 0,4 (quatro décimo por custo) da receita orçamentária, inclusive transferência e receita operacional, a partir de 1 de julho de 1971, 06 (seis décimos por custo) em 1972 e 0,8 (oito décimos por custo) no ano de 1973, subsequentes.
+
+
+Art. 3º.
+
+Beneficiar-se-ão das vantagens do programa de formação do patrimônio do Servidor Público, e na forma e condições previstas na Lei complementar nº8 da União, apenas os servidores em atividades do Município de Corbélia, e os de sua entidades da Administração indireta e fundações.
+
+
+Art. 4º.
+
+Esta Lei entrará em vigor a partir da data de sua publicação revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE CORBÉLIA
+
+Em 25 de agosto de 1971.
+
+CAMILO DE LELES GAZINEU
+
+Prefeito Municipal
+
+Não substitui o texto publicado no Diário Oficial.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/679/ta
+

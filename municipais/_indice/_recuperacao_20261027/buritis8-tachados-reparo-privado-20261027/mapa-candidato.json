@@ -1,0 +1,160 @@
+{
+  "path": "municipais/MG/buritis/leis-ordinarias/1971/leis-ordinarias-8-1971-sapl-787.md",
+  "sha256_preimagem": "407f89d8c476b79487840a744769d63589d08d3968039c8ae8b9756446f470ba",
+  "sha256_candidato": "117f2342d9af090cc68bf8fb573f0679b9b60b774ea125c35756adbcd261fc51",
+  "preimagem": "municipais/_indice/_recuperacao_20261027/buritis8-tachados-reparo-privado-20261027/preimagem.txt",
+  "candidato": "municipais/_indice/_recuperacao_20261027/buritis8-tachados-reparo-privado-20261027/candidato.txt",
+  "fonte": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/bac04d6234b8f858cd9e93be4c9d99385d1bc2fe94e6a3b33eb28f44d19e188c.html",
+    "sha256": "e23eecbbc9dff449c9206caadfee308aafec70b8504c08b31304fbbd3d71b78d"
+  },
+  "replay_preservando_tachados": {
+    "aprovado": true,
+    "igualdade_caracteres_nao_brancos": true,
+    "assinatura_numerica_confere": true,
+    "marcacao_tachado_por_caractere_confere": true,
+    "tachados_fonte": [
+      {
+        "inicio": 846,
+        "fim": 870,
+        "texto": "SebastiãoAlvesSecretário"
+      }
+    ],
+    "tachados_renderizados": [
+      {
+        "inicio": 846,
+        "fim": 870,
+        "texto": "SebastiãoAlvesSecretário"
+      }
+    ],
+    "markup_tachado_fonte": [
+      {
+        "tag": "s",
+        "atributos": {},
+        "texto": "Sebastião Alves"
+      },
+      {
+        "tag": "s",
+        "atributos": {},
+        "texto": "Secretário"
+      }
+    ],
+    "markup_tachado_renderizado": [
+      {
+        "tag": "s",
+        "atributos": {},
+        "texto": "Sebastião Alves"
+      },
+      {
+        "tag": "s",
+        "atributos": {},
+        "texto": "Secretário"
+      }
+    ],
+    "ativos": [
+      "dptt41243",
+      "dptt41244",
+      "dptt41245",
+      "dptt41246",
+      "dptt41247",
+      "dptt41248",
+      "dptt41249",
+      "dptt41250",
+      "dptt41251",
+      "dptt41252",
+      "dptt41253",
+      "dptt41254",
+      "dptt41255",
+      "dptt41256"
+    ],
+    "historicos_excluidos": [],
+    "normalizacoes_heading": [],
+    "listas": [],
+    "prova_tabelas": null,
+    "sha256_visivel_fonte": "747f7c7c001e66f5bdcb2f2f21e1bcd513d56dd68f9963238419e9e414082e53",
+    "sha256_visivel_renderizado": "747f7c7c001e66f5bdcb2f2f21e1bcd513d56dd68f9963238419e9e414082e53",
+    "sha256_html_renderizado": "8f4d19d9be722a097979c1572d0f17eb4c142d7188b7cdbf12018280c39045cc",
+    "contexto": null
+  },
+  "materializacao_original": {
+    "registro": {
+      "host": "sapl.buritis.mg.leg.br",
+      "norma_id": 787,
+      "ta_id": 1109,
+      "aprovado": true,
+      "path": "municipais/MG/buritis/leis-ordinarias/1971/leis-ordinarias-8-1971-sapl-787.md",
+      "sha256": "407f89d8c476b79487840a744769d63589d08d3968039c8ae8b9756446f470ba",
+      "bytes": 2279,
+      "gates": {
+        "tabelas_nativas_prova": null,
+        "tipo_oficial": "Lei",
+        "identidade_literal": {
+          "epigrafes": [
+            {
+              "tipo": "LEI",
+              "numero": "8",
+              "numero_normalizado": "8",
+              "trecho": "LEI Nº 8, DE 20 DE MARCO DE 1971",
+              "data_literal": "1971-03-20"
+            }
+          ],
+          "numero_metadado": "8",
+          "numero_literal_confirmado": true,
+          "data_literal_confirmada": true,
+          "divergencias": [],
+          "limite": "Tipo completo aceito somente quando literal e igual ao cadastro oficial; todos os números e datas encontrados devem concordar. Divergências do parser anterior são preservadas. Jurisdição, fonte, anexos, contexto e vigência continuam sujeitos aos demais gates."
+        },
+        "categoria": "leis-ordinarias",
+        "tipo_canonico": "Lei ordinária",
+        "titulo_literal": "Lei nº 8, de 20 de março de 1971",
+        "tokens_ativos": 185,
+        "dispositivos_ativos": 14,
+        "historicos_excluidos": 0,
+        "cortes_de_vigencia_declarados": [],
+        "anexos_proprios": 0,
+        "limite": "Corte declarado é atribuído ao portal. Ausência de corte não certifica atualização nem vigência integral."
+      },
+      "prova_ta": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/e95e782a015363d856a8daff2641cb6c2a4d9ab9aee67ff414bf3be95cc802ca.json",
+        "sha256": "767205bbca076f1a322efc6b2705b1b66927f602d873e4038e6c81915bb2108e",
+        "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/e95e782a015363d856a8daff2641cb6c2a4d9ab9aee67ff414bf3be95cc802ca.meta.json",
+        "sha256_metadata": "aacd288c4cd317ada54ec4ee518d5827d44938a6f64068794cf9586a23735547",
+        "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22"
+      },
+      "prova_casa": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/0d5ed88fa5f4964f90af9947d83dfdcb25abd608a077880db9b35586ad22cda1.json",
+        "sha256": "89991057fd0be5431b21e816bb13f30e0b4b66e06e5b810e7d1b580cae7675eb",
+        "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/0d5ed88fa5f4964f90af9947d83dfdcb25abd608a077880db9b35586ad22cda1.meta.json",
+        "sha256_metadata": "958ec4822c6d8b941bc349bb04c47fa724e583d45b3f5236a856a7a275db3e18",
+        "url": "https://sapl.buritis.mg.leg.br/api/base/casalegislativa/"
+      },
+      "prova_norma": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/da9e30b80ec70cd110ebc71985ee0d3eff1f9198dc71806bdca61123609664f0.json",
+        "url": "https://sapl.buritis.mg.leg.br/api/norma/normajuridica/787/",
+        "url_final": "https://sapl.buritis.mg.leg.br/api/norma/normajuridica/787/",
+        "status": 200,
+        "content_type": "application/json",
+        "sha256": "1db7514393f63b4a1154d26be5c523fa31c46ac0d1a9276a42901711dfd7cef4",
+        "bytes": 868,
+        "capturado_em": "2026-10-27T20:58:40.083456-03:00"
+      },
+      "prova_frontend": {
+        "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/bac04d6234b8f858cd9e93be4c9d99385d1bc2fe94e6a3b33eb28f44d19e188c.html",
+        "url": "https://sapl.buritis.mg.leg.br/norma/787",
+        "url_final": "https://sapl.buritis.mg.leg.br/ta/1109/text",
+        "status": 200,
+        "content_type": "text/html; charset=utf-8",
+        "sha256": "e23eecbbc9dff449c9206caadfee308aafec70b8504c08b31304fbbd3d71b78d",
+        "bytes": 21092,
+        "capturado_em": "2026-10-27T20:58:42.006863-03:00"
+      },
+      "transcricao": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/787-1109.txt"
+    },
+    "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0015-v5/resultados.jsonl",
+    "sha256": "890a919f8ee996aac5384e4e9e6f85792c0aa6f86ebd6da3096d712f26b8dbee"
+  },
+  "metadados_exceto_sha256_texto_iguais": true,
+  "alteracao": "Restaura os dois trechos com ~~ explícito e retira a nota que os qualificava como históricos. Secretário Substituto permanece sem tachado. Não atribui efeito jurídico.",
+  "promovido": false,
+  "codigo_sha256": "efb33a830a37759924e6eff3e7fd117f5cb24ac27263a8ef68b2ae4538159cb1"
+}

@@ -1,0 +1,198 @@
+---
+titulo: "Lei Ordinária nº 1.030, de 19 de julho de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1030"
+data: "2023-07-19"
+municipio: "Conceição do Coité"
+uf: "BA"
+codigo_ibge: "2908408"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.conceicaodocoite.ba.leg.br/norma/217"
+fonte_texto: "https://sapl.conceicaodocoite.ba.leg.br/ta/205/text"
+sha256_fonte: "e0cce413491e606dfbccb3aa3120dfd044d22fec5b59961fcd86531541c4e7d3"
+sha256_texto: "7ee13a520b10dab3898b07745e5e3ed9741a91937180b87e87c1b9590d52013e"
+capturado_em_fonte: "2026-10-27T23:15:46.905925-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.030, de 19 de julho de 2023
+
+Dispõe sobre autorização para repasse do percentual oriundo do recurso recebido via precatório judicial do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério – FUNDEF e dá outras providências.
+
+
+**O PREFEITO MUNICIPAL DE CONCEIÇÃO DO COITÉ, ESTADO DA BAHIA.**
+
+Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte
+
+**LEI**
+
+
+Art. 1º.
+
+Fica autorizado o Chefe do Poder Executivo Municipal a repassar o valor equivalente ao percentual de 60% (sessenta por cento) decorrentes do recurso recebido via precatório judicial do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério - FUNDEF aos profissionais ativos, inativos, aposentados e falecidos, do magistério da educação básica que estavam em cargo, emprego ou função, integrantes da estrutura, com vínculo estatutário, celetista ou temporário, desde que em efetivo exercício das funções na rede pública durante o período em que ocorreram os repasses a menor do Fundef de 1997 a 2006, em conformidade com Emenda Constitucional n.º 114, de 16 de dezembro de 2021 e as Leis Federais n.º 9.394, de 20 de dezembro de 1996; 9.424 de 24 de dezembro de 1996; 14.057, de 11 de setembro de 2020; e, 14.325, de 12 de abril de 2022.
+
+
+§ 1º
+
+O repasse do valor equivalente a 60% (sessenta por cento) disposto no caput corresponde a título de abono, sem incorporação à remuneração dos referidos servidores na forma estabelecida nesta Lei, em rigorosa obediência ao art. 7º, parágrafo único da Lei Federal n.º 14.057/2020.
+
+
+§ 2º
+
+O valor objeto da presente Lei é oriundo da ação judicial de cobrança movida pelo Município de Conceição do Coité em face da União, Processo Judicial n.º 0000093-11.2005.4.01.3304, de ação iniciada em 16/12/2005, em virtude da insuficiência dos depósitos a título de complementação do FUNDEF, tendo em vista o seu repasse inferior ao Município de Conceição do Coité.
+
+
+§ 3º
+
+A autorização que trata o caput do presente artigo objetiva cumprir a finalidade em seu sentido estrito da destinação dos recursos do FUNDEF, na forma de rateio aos profissionais do magistério como prevê o art. 47 da Lei Federal n.º 14.113, de 25 de dezembro de 2020, especialmente para fins de assegurar o percentual de 60% (sessenta por cento) das verbas para os profissionais do magistério, acrescido as correções monetárias decorrentes do período até o efetivo pagamento, na forma prevista no art. 7º, Parágrafo único, da Lei Federal n.º 14.057/2020, bem como no art. 60, §5º, XII, do ADCT da Constituição Federal, com redação dada pela Emenda Constitucional n.º 14, de 12 de setembro de 1996 e artigo 5º da Emenda Constitucional n.º 114/2021, repercutidos pelo princípio da valorização do magistério, previsto no art. 206, inciso V, da Constituição Federal.
+
+
+#### CAPÍTULO I — DOS BENEFICIÁRIOS E CRITÉRIOS
+
+
+Art. 2º.
+
+São beneficiários profissionais do magistério da educação básica da rede municipal de ensino, no período de janeiro de 1997 a dezembro de 2006, ativos, inativos, aposentados e falecidos, que estavam em cargo, emprego ou função, integrantes da estrutura, quadro ou tabela de servidores do Município, com vínculo estatutário, celetista ou temporário, desde que em efetivo exercício das funções na rede pública durante o período acima mencionado e que se encontram habilitados à percepção do abono conforme listagem definitiva publicada no Diário Oficial do Município.
+
+
+§ 1º
+
+Serão estritamente obedecidos os critérios de tempo de serviço submetidos à carga horária de 20 (vinte) e 40 (quarenta) horas, proporcionais à jornada de trabalho e aos meses de efetivo exercício no magistério e na educação básica, por cada beneficiário.
+
+
+§ 2º
+
+As demais diretrizes deverão ser estabelecidas mediante Decreto do Poder Executivo Municipal.
+
+
+§ 3º
+
+Nos casos de beneficiário falecido, estes serão representados por seus herdeiros.
+
+
+#### CAPÍTULO II — DA FORMA DE PAGAMENTO
+
+
+Art. 3º.
+
+Deverá o valor do abono a ser pago aos servidores/beneficiários mediante transferência bancária, na conta bancária vinculada à Folha de Pagamento em caso de servidores com vínculo ativo, e no caso de aposentados, inativos e herdeiros, nas contas indicadas pelos beneficiários mediante documentação comprobatória.
+
+
+§ 1º
+
+Em se tratando de servidores públicos ativos, o pagamento do abono será realizado, preferencialmente, mediante folha de pagamento suplementar.
+
+
+§ 2º
+
+Em caso de falecimento do profissional, os respectivos herdeiros receberão o montante a que tem direito mediante apresentação de alvará judicial, através do qual se autorize o levantamento do valor.
+
+
+#### CAPÍTULO III — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 4º.
+
+A Comissão especial para acompanhamento de aplicação dos recursos oriundos do precatório do FUNDEF, instituída pelo Decreto n.º 4.067, de 20 de dezembro de 2022, combinado com o Decreto n.º 4.085, de 06 de Janeiro de 2023, será responsável pelo levantamento de todos os dados de identificação dos beneficiários, tempo de serviço, carga horária, visando à elaboração da folha de pagamento suplementar e/ou ordens de pagamento, que está composta por:
+
+
+I –
+
+Representante da Secretaria Municipal de Finanças;
+
+
+II –
+
+Representante da Secretaria Municipal da Educação, Cultura e Esporte;
+
+
+III –
+
+Representante do Conselho Municipal de Acompanhamento e Controle Social do fundo de atenção básica e valorização dos profissionais da Educação – CACS\_FUNDEB de Conceição do Coité e Sindicato dos Servidores Públicos Municipais de Conceição do Coité – SPMCC;
+
+
+IV –
+
+Representante da Procuradoria Jurídica;
+
+
+V –
+
+Representante do Departamento de Recursos Humanos – RH, da Secretaria de Administração.
+
+
+Parágrafo único
+
+Para o cumprimento do disposto no caput, os membros da comissão terão amplo e irrestrito acesso às folhas de pagamentos da Secretaria de Educação, Cultura e Esporte do Município de Conceição do Coité, que se referem ao período de janeiro de 1997 a dezembro de 2006.
+
+
+Art. 5º.
+
+A autorização de repasse prevista nesta Lei se estabelece com as seguintes disposições:
+
+
+I –
+
+Possui natureza de abono;
+
+
+II –
+
+Não se incorporará à remuneração do servidor para quaisquer efeitos legais;
+
+
+III –
+
+Não serão considerados para efeitos do pagamento do décimo terceiro salário e férias;
+
+
+IV –
+
+Não haverá incidência para base de cálculo de INSS.
+
+
+V –
+
+É considerado para efeitos de incidência de IRRF.
+
+
+Art. 6º.
+
+Os casos omissos serão resolvidos e solucionados pela Secretaria de Educação, Cultura e Esporte para acompanhamento de aplicação dos recursos oriundos do precatório do FUNDEF.
+
+
+Art. 7º.
+
+As despesas decorrentes desta Lei serão cobertas por Excesso de Arrecadação, decorrente do crédito oriundo do Precatório supramencionado.
+
+
+Art. 8º.
+
+Em casos de não comparecimento ou não habilitação de beneficiários o valor ficará reservado por um período de 05 (cinco) anos quando se dará o prazo prescricional.
+
+
+Parágrafo único
+
+**Parágrafo único.** Após prazo informado no caput, o recurso será redistribuído entre os beneficiários da lista final, conforme critérios estabelecidos no Art.2º, § 1º desta Lei.
+
+
+Art. 9º.
+
+Caberá ao Poder Executivo regulamentar a presente Lei nos aspectos que forem necessários à sua efetiva aplicação.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal,  
+Conceição do Coité, 19 de julho de 2023.
+
+**MARCELO PASSOS DE ARAÚJO**  
+Prefeito Municipal
+

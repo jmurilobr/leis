@@ -1,0 +1,195 @@
+---
+titulo: "Decreto nº 17.222, de 30 de março de 2021"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "17.222"
+data: "2021-03-30"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/12869"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/10701/text"
+sha256_fonte: "2d2e4d96312581671eac79356403c52aa780552c4da1d278b70eecefe357f624"
+sha256_texto: "d2fbec23a4414e0a8d8e95ee0b74bc21d4dd00bbefaabc542c361a4651c701c9"
+capturado_em_fonte: "2026-10-27T20:35:15.252416-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Decreto nº 17.222, de 30 de março de 2021
+
+“*Dispõe sobre as medidas para enfrentamento dos efeitos econômicos decorrentes da pandemia causada pelo novo Coronavírus (COVID-19) no Município de Porto Velho no exercício de 2021."*
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida nos incisos IV e VI, do artigo 87, da Lei Orgânica do Município de Porto Velho;
+
+**CONSIDERANDO** a edição dos Decretos Estadual nº 25.859, de 06 de março de 2021, e Municipal nº 16.620 de 06 de abril de 2020, que decretaram situação de Calamidade Pública, respectivamente em todo território do Estado de Rondônia e no Município de Porto Velho, para fins de prevenção e enfrentamento à pandemia causada pelo novo Coronavírus, COVID-19;
+
+**CONSIDERANDO** a prorrogação do prazo para pagamento dos tributos federais no âmbito do Simples Nacional instituído pela Resolução CGSN 158, de 24 de março de 2021;
+
+**CONSIDERANDO** a necessidade de restrição provisória da circulação de pessoas em espaços e vias públicas, bem como das atividades comerciais, que potencialmente geram a aglomeração de pessoas;
+
+**CONSIDERANDO** por fim, a crise econômica decorrente da situação de calamidade pública que impôs a restrição do funcionamento de atividades, causando assim, uma queda brusca no volume de negócios no mercado local;
+
+**DECRETA:**
+
+
+Art. 1º.
+
+Para fins de enfrentamento dos efeitos econômicos decorrentes da pandemia causada pelo novo Coronavírus, COVID-19 no Município de Porto Velho, ficam estabelecidas as seguintes medidas:
+
+
+I –
+
+prorrogar, para 30 de julho de 2021, a validade das licenças ambientais, sanitárias e de funcionamento regular das atividades de pessoas jurídicas com o funcionamento suspenso ou afetado com as restrições sobre as atividades contidas no Decreto Estadual nº 25.859, de 06 de março de 2021, vencidas entre os meses de janeiro a junho de 2021, conforme especificação dos códigos do CNAE’s das respectivas atividades abaixo indicados;
+
+
+a)
+
+5510-8/01 – Hotéis;
+
+
+b)
+
+5611-2/01 - Restaurantes e similares;
+
+
+c)
+
+5611-2/03 - Lanchonetes, casas de chá, de sucos e similares;
+
+
+d)
+
+5611-2/04 - Bares e outros estabelecimentos especializados em servir bebidas, sem entretenimento;
+
+
+e)
+
+5611-2/05 - Bares e outros estabelecimentos especializados em servir bebidas, com entretenimento;
+
+
+f)
+
+9329-8/01 - Discotecas, danceterias, salões de dança e similares (Boates e congêneres);
+
+
+g)
+
+9003-5/00 - Gestão de espaços para artes cênicas, espetáculos e outras atividades artísticas (Casa de Shows e congêneres);
+
+
+h)
+
+9312-3/00 - Clube Recreativo (Balneários e congêneres);
+
+
+i)
+
+8230-0/02 - Serviços de Eventos (Gestão de Casa de Eventos);
+
+
+j)
+
+9311-5/00 - Gestão de instalações de esportes;
+
+
+k)
+
+9313-1/00 - Academia de Musculação e Aeróbica.
+
+
+II –
+
+no âmbito da tributação municipal:
+
+
+a)
+
+prorrogar a data de vencimento do Imposto sobre a Propriedade Territorial e Predial Urbana (IPTU), cota única sem desconto, com vencimento em 31 de março de 2021, para 30 de julho de 2021;
+
+
+b)
+
+prorrogar a data de vencimento da Taxa de Resíduos Sólidos Domiciliares (TRSD), cota única sem desconto, com vencimento em 31 de março de 2021, para o dia 30 de julho de 2021;
+
+
+c)
+
+prorrogar a data de vencimento da Contribuição para Custeio do Serviço de Iluminação Pública (COSIP), incidente sobre os imóveis não edificados que não possuam unidade medidora, cota única sem desconto, com vencimento em 31 de março de 2021, para 30 de julho de 2021;
+
+
+d)
+
+prorrogar a data de vencimento do Imposto sobre Serviços de Qualquer Natureza (ISSQN) apurados no âmbito do Simples Nacional e devidos pelos sujeitos passivos da seguinte forma:
+
+
+1
+
+o período de apuração - março de 2020, com vencimento original em 20 de abril de 2021, poderá ser pago em duas quotas iguais, com vencimento em 20 de julho de 2021 e 20 de agosto de 2021;
+
+
+2
+
+o período de apuração - abril de 2020, com vencimento original em 20 de maio de 2021, poderá ser pago em duas quotas iguais, com vencimento em 20 de setembro de 2021 e 20 de outubro de 2021; e
+
+
+3
+
+o período de apuração - maio de 2021, com vencimento original em 21 de junho de 2021, poderá ser pago em duas quotas iguais, com vencimento em 22 de novembro de 2021 e 20 de dezembro de 2021.
+
+
+e)
+
+prorrogar, até 30 de julho de 2021, a validade das Certidões Negativas de Tributos Municipais e as Certidões Positivas de Tributos Municipais com efeito negativo, emitidas entre janeiro de 2021 até a data de publicação deste Decreto.
+
+
+§ 1º
+
+O prazo para pagamento das taxas de renovação das licenças a que se refere o inciso I deste artigo, será no último dia útil do mês de vencimento da respectiva licença prorrogada.
+
+
+§ 2º
+
+O efeito de prorrogação de que trata o inciso I deste artigo, independe da emissão de nova licença com validade prorrogada, podendo esta ser emitida, com o vencimento estabelecido neste ato, em substituição àquela com prazo de validade no período indicado, a requerimento do interessado.
+
+
+§ 3º
+
+A validade prorrogada das certidões a que se refere a alínea “e” do inciso II deste artigo, não caracteriza dispensa, cancelamento, redução ou baixa de débitos porventura existentes.
+
+
+Art. 2º.
+
+A prorrogação dos prazos de que trata este Decreto não implica direito à restituição de quantias eventualmente já recolhidas.
+
+
+Art. 3º.
+
+Os Documentos de Arrecadação Municipal (DAM) relativos aos tributos regularmente lançados, cujos vencimentos tenham sido postergados por força do disposto neste Decreto, poderão ser obtidos pelos canais de atendimentos disponibilizados pela Secretaria Municipal de Fazenda.
+
+
+Art. 4º.
+
+Este Decreto entra em vigor na data de sua publicação, revogando as disposições em contrário.
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***ALEXANDRO MIRANDA PINCER***
+
+Secretário Municipal de Meio Ambiente e Desenvolvimento Sustentável
+
+***ELIANA PASINI***
+
+Secretário Municipal de Saúde
+

@@ -1,0 +1,23 @@
+---
+titulo: "PORTARIA Nº 344, DE 13 DE MAIO DE 2020"
+orgao: "Ministério da Cidadania/Secretaria Especial da Cultura/Secretaria de Fomento e Incentivo à Cultura"
+tipo: "Portaria"
+numero: "344"
+data: 2020-05-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 14/05/2020, seção 1, p. 18"
+data_publicacao: 2020-05-14
+edicao: "91"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-344-de-13-de-maio-de-2020-256734302"
+sha256_html_fonte: ada00f5aa447ce2f8764a773bd0b309dfa714d4fd108e482f03af62882786eb2
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# PORTARIA Nº 344, DE 13 DE MAIO DE 2020
+
+<div class="texto-dou"><p class="identifica">PORTARIA Nº 344, DE 13 DE MAIO DE 2020</p><p class="dou-paragraph" >O SECRETÁRIO DE FOMENTO E INCENTIVO À CULTURA - SUBSTITUTO, no uso das atribuições legais, que lhe confere a Portaria nº 541, de 27 de julho de 2016 e o art. 4º da Portaria nº 120, de 30 de março de 2010, resolve:</p><p class="dou-paragraph" >Art. 1.º - Homologar a prorrogação do prazo de captação de recursos do(s) projeto(s) cultural(is), relacionado(s) no(s) anexo(s) desta Portaria, para o(s) qual(is) o(s) proponente(s) fica(m) autorizado(s) a captar recursos, mediante doações ou patrocínios, na forma prevista no § 1º do Artigo 18 e no Artigo 26 da Lei n.º 8.313, de 23 de dezembro de 1991, alterada pela Lei nº 9.874, de 23 de novembro de 1999.</p><p class="dou-paragraph" >Art. 2.º - Esta portaria entra em vigor na data de sua publicação.</p><p class="assina">ODECIR LUIZ PRATA DA COSTA</p><p class="dou-paragraph" >ANEXO I</p><p class="dou-paragraph" >ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )</p><p class="dou-paragraph" >192563 - Francesco - temporada BH</p><p class="dou-paragraph" >VENEZIANO PRODUCOES TEATRAIS E CINEMATOGRAFICAS LTDA - ME - ME</p><p class="dou-paragraph" >CNPJ/CPF: 08.298.098/0001-17</p><p class="dou-paragraph" >Cidade: São Paulo - SP;</p><p class="dou-paragraph" >Prazo de Captação: 29/01/2020 à 29/02/2020</p><p class="dou-paragraph" >193109 - APARECIDA - CARNAVAL 2020</p><p class="dou-paragraph" >GREMIO REC ESCOLA DE SAMBA MO INDEPENDENTE DE APARECIDA</p><p class="dou-paragraph" >CNPJ/CPF: 04.949.947/0001-02</p><p class="dou-paragraph" >Cidade: Manaus - AM;</p><p class="dou-paragraph" >Prazo de Captação: 01/04/2020 à 31/12/2020</p><p class="dou-paragraph" >ÁREA: 3 MÚSICA (Artigo 18 , § 1º )</p><p class="dou-paragraph" >182517 - Festival Semear (título provisório)</p><p class="dou-paragraph" >FGM PRODUCOES CULTURAIS LTDA &amp;#x2013; ME</p><p class="dou-paragraph" >CNPJ/CPF: 21.116.382/0001-93</p><p class="dou-paragraph" >Cidade: São Paulo - SP;</p><p class="dou-paragraph" >Prazo de Captação: 01/04/2020 à 30/11/2020</p><p class="dou-paragraph" >193381 - NATAL IMPERIAL 2019</p><p class="dou-paragraph" >COMPANHIA DE PROMOCOES E EVENTOS K S LTDA - ME</p><p class="dou-paragraph" >CNPJ/CPF: 01.415.205/0001-09</p><p class="dou-paragraph" >Cidade: Rio de Janeiro - RJ;</p><p class="dou-paragraph" >Prazo de Captação: 01/05/2020 à 30/06/2020</p><p class="dou-paragraph" >200124 - I° Festival de Música de Baturité</p><p class="dou-paragraph" >Francisco Alberto Rodrigues da Silva</p><p class="dou-paragraph" >CNPJ/CPF: 430.115.603-82</p><p class="dou-paragraph" >Cidade: Fortaleza - CE;</p><p class="dou-paragraph" >Prazo de Captação: 29/03/2020 à 20/12/2020</p><p class="dou-paragraph" >ÁREA: 4 ARTES VISUAIS (Artigo 18 , § 1º )</p><p class="dou-paragraph" >192997 - PLANO ANUAL CASA FIAT DE CULTURA 2020</p><p class="dou-paragraph" >CASA FIAT DE CULTURA</p><p class="dou-paragraph" >CNPJ/CPF: 02.094.828/0002-62</p><p class="dou-paragraph" >Cidade: Belo Horizonte - MG;</p><p class="dou-paragraph" >Prazo de Captação: 01/01/2020 à 31/12/2020</p><p class="dou-paragraph" >ÁREA: 6 HUMANIDADES (Artigo 18 , § 1º )</p><p class="dou-paragraph" >181931 - Mundoteca</p><p class="dou-paragraph" >FGM PRODUCOES CULTURAIS LTDA &amp;#x2013; ME</p><p class="dou-paragraph" >CNPJ/CPF: 21.116.382/0001-93</p><p class="dou-paragraph" >Cidade: São Paulo - SP;</p><p class="dou-paragraph" >Prazo de Captação: 01/05/2020 à 31/12/2020</p><p class="dou-paragraph" >ANEXO II</p><p class="dou-paragraph" >ÁREA: 3 MÚSICA (Artigo 26)</p><p class="dou-paragraph" >190357 - FESTIVAL ELEMENTO EM MOVIMENTO VII -2019</p><p class="dou-paragraph" >REDE URBANA DE ACOES SOCIOCULTURAIS</p><p class="dou-paragraph" >CNPJ/CPF: 05.834.872/0001-79</p><p class="dou-paragraph" >Cidade: Brasília - DF;</p><p class="dou-paragraph" >Prazo de Captação: 01/03/2020 à 31/12/2020</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

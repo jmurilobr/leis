@@ -1,0 +1,20 @@
+{
+  "total": 16,
+  "resultados": [
+    {
+      "script": "scripts/test_perfil_ta_tachados_preservados_20261027.py",
+      "sha256_codigo": "50e4e5c807358e58fc2dfcc4880005a37773860dbed24213bcba9cf9dfa547df",
+      "exit_code": 0,
+      "testes": 14,
+      "log": "municipais/_indice/_recuperacao_20261027/perfil-v7-testes-fechamento-20261028/test_perfil_ta_tachados_preservados_20261027.py.log"
+    },
+    {
+      "script": "scripts/test_materializador_ta_v7_privado_20261027.py",
+      "sha256_codigo": "c94f5a4ca12852d9d532de2b2450958a3b6bc9dddfe757a1325cd69b2ffea002",
+      "exit_code": 0,
+      "testes": 2,
+      "log": "municipais/_indice/_recuperacao_20261027/perfil-v7-testes-fechamento-20261028/test_materializador_ta_v7_privado_20261027.py.log"
+    }
+  ],
+  "canonicos_reais_alterados": false
+}

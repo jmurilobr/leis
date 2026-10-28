@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "/Volumes/ExternalSSD/GitHub/constituicao/_fonte/operacao_root_20261027/qa-snapshot.py", line 7, in <module>
+    runpy.run_path(str(target),run_name='__main__')
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Volumes/ExternalSSD/GitHub/constituicao/scripts/estados/snapshots/ac_legis_promocao_20261027_006/promover_legis_ac_privado.py", line 205, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "/Volumes/ExternalSSD/GitHub/constituicao/scripts/estados/snapshots/ac_legis_promocao_20261027_006/promover_legis_ac_privado.py", line 179, in main
+    m,candidates=validar(root,manifest,hashes,a.total_esperado)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Volumes/ExternalSSD/GitHub/constituicao/scripts/estados/snapshots/ac_legis_promocao_20261027_006/promover_legis_ac_privado.py", line 151, in validar
+    if os.path.lexists(relpath(root,r['path'])):raise ValueError('destino já existe em disco: '+r['path'])
+                                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: destino já existe em disco: estaduais/AC/leis-ordinarias/2013/l-2803-2013-legis3151.md

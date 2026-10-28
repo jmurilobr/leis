@@ -1,0 +1,560 @@
+---
+titulo: "Resolução nº 1, de 26 de fevereiro de 1997"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "1"
+data: "1997-02-26"
+municipio: "Bofete"
+uf: "SP"
+codigo_ibge: "3506904"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bofete.sp.leg.br/norma/870"
+fonte_texto: "https://sapl.bofete.sp.leg.br/ta/384/text"
+sha256_fonte: "04184891f59352754a2574559951bbb6533b58e47bc3c60bce41d85aac5afa0c"
+sha256_texto: "be3def5332f25a3a9e375266354fe282f40f65ccadc9a5cfb7986d7ceffc13c0"
+capturado_em_fonte: "2026-10-27T19:23:51.802023-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Resolução nº 1, de 26 de fevereiro de 1997
+
+DISPÕE SOBRE A ORGANIZAÇÃO ADMINISTRATIVA DA CÂMARA MUNICIPAL DE BOFETE E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+A Mesa da Câmara Municipal de Bofete, no uso de suas atribuições legais, em Sessão Extraordinária do dia 25/02/97, aprovou a seguinte Resolução:
+
+
+#### CAPÍTULO I — Da Estrutura Administrativa
+
+
+Art. 1º.
+
+Toda organização e toda ação administrativa da Câmara tem como objetivo prover adequado apoio administrativo e técnico às unidades da Câmara e aos Vereadores, com o menor ônus possível aos recursos disponíveis.
+
+
+Art. 2º.
+
+A organização e toda ação administrativa da Câmara compõe-se das seguintes unidades:
+
+
+I –
+
+Presidência;
+
+
+II –
+
+Assessoria Técnica;
+
+
+III –
+
+Secretaria Geral.
+
+
+#### CAPÍTULO II — Das Atividades das Unidades
+
+
+Art. 3º.
+
+À Presidência, naquilo que se relacione com a organização administrativa, cabe responder pelo funcionamento da Assessoria Técnica e Secretaria Geral e pelo atendimento das atribuições, competências e objetivos estabelecidos nesta Resolução, no disposto pela legislação em geral e, em especial, no Regimento Interno da Câmara.
+
+
+Art. 4º.
+
+A Assessoria Técnica compreende:
+
+
+I –
+
+Em relação às atividades jurídicas:
+
+
+a)
+
+Assessorar:
+
+
+1
+
+A Mesa da Câmara nos assuntos legislativos e jurídicos;
+
+
+2
+
+Os Vereadores, na orientação dos trabalhos legislativos e na elaboração de proposições;
+
+
+3
+
+As Comissões, quando solicitada, nos assuntos legislativos e jurídicos;
+
+
+4
+
+O Presidente, no desempenho de suas atribuições e funções;
+
+
+b)
+
+Atender aos pedidos de informações feitos pela Mesa, Presidência e Vereadores;
+
+
+c)
+
+Emitir pareceres sobre assuntos legislativos e jurídicos, quando para isto for solicitado;
+
+
+d)
+
+Manter biblioteca contendo documentos históricos e de interesse geral, legislação, livros e periódicos de utilidade para o desempenho de suas funções legislativas;
+
+
+e)
+
+Organizar e manter os fichários de leis, decretos legislativos, resoluções, jurisprudência e demais legislações referentes a assuntos municipais;
+
+
+f)
+
+Dar solução aos demais assuntos ligados à sua área de atuação ou que lhe sejam atribuídos pela Presidência.
+
+
+II –
+
+Em relação às atividades de Comunicação:
+
+
+a)
+
+Redigir e distribuir comunicados à imprensa, sob a orientação e supervisão da Presidência;
+
+
+b)
+
+Promover a divulgação dos trabalhos da Edilidade, mediante relatórios periódicos;
+
+
+c)
+
+Manter com as autoridades federais, estaduais e municipais os entendimentos que lhe forem determinados pela Presidência;
+
+
+d)
+
+Credenciar os jornalistas, fornecendo-lhes notícias sobre a atividade da Câmara, pondo à disposição dos mesmos a Sala de Imprensa e a tribuna reservada no Plenário;
+
+
+e)
+
+Assessorar o Presidente e as outras unidades quanto à divulgação dos fatos e trabalhos da Edilidade, quando solicitado;
+
+
+f)
+
+Providenciar junto às outras unidades a distribuição da resenha dos trabalhos semanais da Edilidade.
+
+
+III –
+
+Dar soluções aos demais assuntos ligados à sua área de atuação ou que lhe sejam atribuídos pela Presidência.
+
+
+Art. 5º.
+
+À Secretaria Geral cabe:
+
+
+I –
+
+Em relação ao expediente da Presidência:
+
+
+a)
+
+Assistir ao Presidente nas suas relações com os munícipes e autoridades;
+
+
+b)
+
+Elaborar e controlar a agenda de atividades do Presidente;
+
+
+c)
+
+Assistir ao Presidente em seus despachos diários, preparando as respectivas documentações;
+
+
+d)
+
+Redigir e encaminhar toda a correspondência a ser assinada pelo Presidente;
+
+
+e)
+
+Manter atualizado o fichário de autoridades, bem como das entidades com as quais a Câmara mantém correspondência, com os respectivos endereços e telefones;
+
+
+f)
+
+Recepcionar as autoridades e visitantes;
+
+
+g)
+
+Manter sob sua guarda todos os documentos requisitados pelo Presidente.
+
+
+II –
+
+Em relação às atividades legislativas:
+
+
+a)
+
+Assistir a preparar as Atas das Sessões Ordinárias, Extraordinárias, solenes e especiais e transcrevê-las ou arquivá-las nos registros próprios;
+
+
+b)
+
+Expedir convocações, controlar os prazos das Comissões e dos relatores, mantendo informados os seus membros e os Presidentes das Comissões;
+
+
+c)
+
+Assistir às reuniões das Comissões, preparando as Atas, pareceres e votos em separado, quando necessário;
+
+
+d)
+
+Manter fichário geral de controle de movimentação de processos, papéis e documentos entre as comissões;
+
+
+e)
+
+Datilografar os autógrafos de lei, decretos legislativos, leis promulgadas pela Câmara, Resoluções, Atos da Mesa e da Presidência, portarias e demais expedientes a serem encaminhados;
+
+
+f)
+
+Verificar e controlar os prazos legais de apreciação, sanção, promulgação e publicação de Projetos de leis, resoluções, Decretos Legislativos, vetos e outros instrumentos legais, mantendo informada a Presidência;
+
+
+g)
+
+Organizar fichário das questões de ordem levantadas em plenário e que tenham sido fixadas como precedente regimental;
+
+
+h)
+
+Lavrar em livros próprios os termos de posse do Prefeito, Vice-Prefeito, Vereadores e suplentes, bem como os de extinção dos respectivos mandatos;
+
+
+i)
+
+Transcrever em livro próprio e arquivar as declarações de bens do Prefeito, Vice-Prefeito e Vereadores, por ocasião da posse e do término dos mandatos;
+
+
+j)
+
+Registrar, na íntegra, em livros próprios ou mediante outro sistema adequado de arquivo, os seguintes documentos: autógrafos de lei, portarias, resoluções, decretos legislativos, editais, leis promulgadas pela Câmara e atos da Mesa e da Presidência;
+
+
+l)
+
+Manter, separadamente, os papéis, documentos e processos destinados à pauta dos trabalhos; m) Conferir os textos das leis publicadas com os respectivos autógrafos, comunicando as incoerências observadas;
+
+
+m)
+
+conferir os textos das leis publicadas com os respectivos autógrafos, comunicando as incoerências observadas;
+
+
+n)
+
+Lançar os despachos em todas as proposições, correspondências e demais documentos, de conformidade com o deliberado pelo Plenário, pela Mesa e pela Presidência;
+
+
+o)
+
+Operar serviço de som e de gravação das Sessões Legislativas.
+
+
+III –
+
+Em relação às atividades de Protocolo e Arquivo:
+
+
+a)
+
+Executar o serviço de protocolo de documentos e papéis endereçados à Câmara e controlar sua movimentação;
+
+
+b)
+
+Formar processos relativos às proposições, elaborando as fichas de controle de andamento;
+
+
+c)
+
+Organizar fichário por ordem de assunto e nominal por autores, bem como o índice geral de todos os processos;
+
+
+d)
+
+Prestar informações aos servidores, aos Vereadores e ao público em geral, a respeito da tramitação de documentos de seu interesse;
+
+
+e)
+
+Organizar e manter o arquivo permanente de processos e documentos;
+
+
+f)
+
+Rever, periodicamente, os processos e documentos arquivados, propondo a destinação conveniente;
+
+
+g)
+
+Executar os trabalhos de mecanografia e reprodução de documentos, zelando pelas máquinas e materiais usados nos serviços;
+
+
+h)
+
+Promover a divulgação dos trabalhos da Câmara, nos assuntos autorizados;
+
+
+i)
+
+Publicar os atos oficiais do Legislativo;
+
+
+j)
+
+Encadernar e conservar, em local e instalações apropriados, todos os processos, por ordem numérica e divididos por sessões da Câmara e legislaturas.
+
+
+IV –
+
+Em relação às atividades de pessoal:
+
+
+a)
+
+Promover a realização de concursos públicos para admissão de servidores;
+
+
+b)
+
+Preparar os atos necessários à admissão, manutenção e dispensa dos servidores;
+
+
+c)
+
+Organizar e manter atualizados os prontuários e os assentamentos individuais dos servidores e Vereadores;
+
+
+d)
+
+Manter fichários de todos os servidores e Vereadores, com a possível indicação de locais, telefones, bem como do respectivo endereço para orientação de atividades internas e do público;
+
+
+e)
+
+Controlar a frequência de servidores e de Vereadores, fazendo as anotações cabíveis nos respectivos assentamentos individuais;
+
+
+f)
+
+Elaborar, mensalmente, a folha de pagamentos dos servidores e Vereadores, indicando os respectivos descontos;
+
+
+g)
+
+Elaborar as folhas e guias de recolhimentos referente às contribuições sociais da Câmara, incluindo Vereadores e servidores;
+
+
+h)
+
+Controlar e preparar os atos de concessão de direitos e vantagens aos servidores, previstos na legislação vigente;
+
+
+i)
+
+Preparar a escala anual de férias;
+
+
+j)
+
+Providenciar esclarecimentos, certidões e orientações sobre o mandato legislativo de Vereadores e sobre a vida funcional dos servidores;
+
+
+l)
+
+Promover o desenvolvimento do pessoal da Câmara, através de treinamento e participação em cursos;
+
+
+m)
+
+Preparar todos os demais atos relativos a pessoal.
+
+
+V –
+
+Em relação às atividades de material:
+
+
+a)
+
+Proceder às licitações para aquisição de materiais, execução de obras e serviços, de acordo com a legislação pertinente;
+
+
+b)
+
+Manter cadastro de fornecedores e de preços ou utilizar o de outros órgãos públicos;
+
+
+c)
+
+Receber os materiais dos fornecedores e conferir sua qualidade e quantidade;
+
+
+d)
+
+Manter sob sua guarda e controle, em local apropriado, os materiais adquiridos, zelando pela sua conservação e efetuando os inventários periódicos;
+
+
+e)
+
+Proceder à escrituração do controle de materiais, discriminados quantidades e valores;
+
+
+f)
+
+Registrar e controlar a existência, localização e condição de uso de todos os bens patrimoniais da Câmara, anotando as mutações ocorridas em cada exercício;
+
+
+g)
+
+Fazer, anualmente, o inventário dos bens patrimoniais para a elaboração do balanço;
+
+
+h)
+
+Propor e efetuar os contratos de seguros e de serviços da Câmara, além de zelar por seu cumprimento.
+
+
+VI –
+
+Em relação às atividades de zeladoria:
+
+
+a)
+
+Prover o transporte necessário à execução dos serviços da Câmara;
+
+
+b)
+
+Providenciar a manutenção e abastecimento dos veículos da Câmara;
+
+
+c)
+
+Manter o serviço de copa;
+
+
+d)
+
+Manter o funcionamento e a segurança dos equipamentos e instalações da Câmara, mediante inspeções periódicas;
+
+
+e)
+
+Executar a limpeza e conservação das áreas interna e externa da Câmara;
+
+
+f)
+
+Prover a vigilância do prédio da Câmara;
+
+
+g)
+
+Efetuar a abertura e o fechamento do prédio da Câmara, bem como o hasteamento e arriamento dos pavilhões nas ocasiões determinadas;
+
+
+h)
+
+Executar outras atividades relacionadas ao bom funcionamento dos equipamentos e instalações da Câmara.
+
+
+VII –
+
+Com relação às atividades de contabilidade:
+
+
+a)
+
+Elaborar as requisições e controlar os recebimentos dos duodécimos, créditos adicionais e transferências de dotações;
+
+
+b)
+
+Organizar os elementos necessários à elaboração da proposta orçamentária da Câmara, para ser incluída no projeto do orçamento geral do município;
+
+
+c)
+
+Controlar a execução do orçamento em todas as fases, promovendo o empenho prévio das despesas ou anulação de empenhos, quando necessário;
+
+
+d)
+
+Encaminhar à unidade de Contabilidade da Prefeitura o balancete mensal para fins de apropriação das despesas da Câmara na Contabilidade Geral;
+
+
+e)
+
+Controlar a conta bancária da Câmara, fornecendo periodicamente a posição dos depósitos;
+
+
+f)
+
+Realizar depósitos e retirar talões de cheques para movimentação da conta bancária da Câmara.
+
+
+VIII –
+
+Executar outras atividades determinadas pelo Presidente.
+
+
+Art. 6º.
+
+Esta Resolução entrará em vigor na data de sua publicação, revogando as disposições em contrário.
+
+
+Mesa da Câmara Municipal de Bofete, 26 de fevereiro de 1997.
+
+BENEDITO DA SILVA FILHO
+
+Presidente da Câmara
+
+ELZA VIEIRA DA SILVA
+
+1ª Secretária
+
+VALDEREI FRANCISCO DA SILVA
+
+2º Secretário
+
+Registrado em livro próprio, afixado em local de costume no prédio da Câmara Municipal e arquivado no Cartório de Registro Civil e Tabelionato de Bofete, em 01/03/97.
+
+Letícia E. Basso
+
+SECRETÁRIA
+

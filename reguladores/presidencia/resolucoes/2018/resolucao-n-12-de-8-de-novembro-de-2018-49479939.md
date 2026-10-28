@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO Nº 12, DE 8 DE NOVEMBRO DE 2018"
+orgao: "Presidência da República/Gabinete de Segurança Institucional/Comitê de Desenvolvimento do Programa Nuclear Brasileiro"
+tipo: "Resolução"
+numero: "12"
+data: 2018-11-08
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/11/2018, seção 1, p. 41"
+data_publicacao: 2018-11-09
+edicao: "216"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-n-12-de-8-de-novembro-de-2018-49479939"
+sha256_html_fonte: 96708930e91043480deb1775f3f28e7e7d08092fafac4ed1a575447a5aa724b6
+baixado_em: 2026-10-27
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO Nº 12, DE 8 DE NOVEMBRO DE 2018
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO Nº 12, DE 8 DE NOVEMBRO DE 2018</p><p class="ementa">Dispõe sobre a constituição de grupo técnico para dinamizar a aplicação da tecnologia nuclear na agropecuária.</p><p class="dou-paragraph" ><strong class="dou-strong" >O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, Coordenador do Comitê de Desenvolvimento do Programa Nuclear Brasileiro (CDPNB),</strong>no uso da atribuição que lhe confere o art. 87 da Constituição Federal de 1988 e tendo em vista o disposto no art. 3odo Decreto de 2 de julho de 2008, alterado pelo Decreto de 22 de junho de 2017, cumulado com os artigos 12 e 25 do Regimento Interno do CDPNB aprovado pela Resolução nº 1, de 18 de outubro de 2017, torna público que o CDPNB, na 2ª Reunião Plenária realizada em 5 de julho de 2018, resolveu:</p><p class="dou-paragraph" >Art. 1º Constituir grupo técnico com o propósito de dinamizar a aplicação da tecnologia nuclear na agropecuária.</p><p class="dou-paragraph" >Art. 2º O grupo técnico será integrado por representantes dos seguintes órgãos:</p><p class="dou-paragraph" >I - Casa Civil da Presidência da República;</p><p class="dou-paragraph" >II - Ministério das Relações Exteriores;</p><p class="dou-paragraph" >III - Ministério da Agricultura, Pecuária e Abastecimento;</p><p class="dou-paragraph" >IV - Ministério da Indústria, Comércio Exterior e Serviços;</p><p class="dou-paragraph" >V - Ministério da Ciência, Tecnologia, Inovações e Comunicações;</p><p class="dou-paragraph" >VI - Gabinete de Segurança Institucional da Presidência da República;</p><p class="dou-paragraph" >VII - Amazônia Azul Tecnologias de Defesa S.A.;</p><p class="dou-paragraph" >VIII - Empresa Brasileira de Pesquisa Agropecuária;</p><p class="dou-paragraph" >IX - Centro de Energia Nuclear na Agricultura da Universidade de São Paulo;</p><p class="dou-paragraph" >X - Agência Nacional de Vigilância Sanitária;</p><p class="dou-paragraph" >XI - Comissão Nacional de Energia Nuclear;</p><p class="dou-paragraph" >XII - Instituto de Pesquisas Energéticas e Nucleares; e</p><p class="dou-paragraph" >XIII - Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis.</p><p class="dou-paragraph" >§ 1º O grupo técnico será coordenado por representante do Ministério da Agricultura, Pecuária e Abastecimento.</p><p class="dou-paragraph" >§ 2º O grupo técnico poderá convidar representantes de outros órgãos e entidades cuja participação seja considerada indispensável ao estrito cumprimento do disposto nesta Resolução.</p><p class="dou-paragraph" >Art. 3º O grupo técnico terá duração de cento e oitenta dias corridos, contados a partir da data de publicação desta Resolução.</p><p class="dou-paragraph" >Parágrafo único. Por solicitação do coordenador do grupo técnico, o prazo para a conclusão dos seus trabalhos poderá ser prorrogado, uma única vez, por igual período.</p><p class="dou-paragraph" >Art. 4º O produto final do grupo técnico será um relatório contendo um diagnóstico das potencialidades da aplicação da tecnologia nuclear na agropecuária, concluso ao Coordenador do CDPNB.</p><p class="dou-paragraph" >Art. 5º O grupo técnico poderá estabelecer entregas de produtos intermediários que estejam dentro do seu escopo de trabalho e atendam ao propósito definido no art. 1º desta Resolução.</p><p class="dou-paragraph" >Art. 6º As orientações específicas e complementares ao Regimento Interno do CDPNB, quanto ao funcionamento desse grupo técnico, serão publicadas em Portaria do Ministro de Estado Chefe do Gabinete de Segurança Institucional da Presidência da República.</p><p class="dou-paragraph" >Art. 7º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">SERGIO WESTPHALEN ETCHEGOYEN</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

@@ -1,0 +1,994 @@
+---
+titulo: "Resolução nº 1, de 26 de janeiro de 1995"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "1"
+data: "1995-01-26"
+municipio: "Barra de São Miguel"
+uf: "PB"
+codigo_ibge: "2501708"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barradesaomiguel.pb.leg.br/norma/1"
+fonte_texto: "https://sapl.barradesaomiguel.pb.leg.br/ta/1/text"
+sha256_fonte: "82ea674344565e6e13b3994fdc677bbaea0e9aef665219135b1e907bd99a06db"
+sha256_texto: "0039b4b66bcf3e15d78736aed65975a330e81c58e471c79eb51a2e6f3a2c1f5e"
+capturado_em_fonte: "2026-10-27T17:10:30.162686-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Resolução nº 1, de 26 de janeiro de 1995
+
+Dispõe sobre o Regimento Interno da Câmara Municipal de Barra de São Miguel e dá outras providências.
+
+
+O Presidente da Câmara Municipal de Barra de São Miguel faz saber que a Câmara Municipal decreta e eu promulgo a seguinte
+
+
+#### CAPÍTULO I
+
+
+Art. 1º.
+
+A Câmara Municipal, com sede na cidade de Barra de São Miguel, Estado da Paraíba, é o Poder Legislativo do Município e compõe-se de 11 (onze) Vereadores.
+
+
+Art. 2º.
+
+No dia 12 de janeiro do ano subsequente às eleições, os Vereadores se reunirão, em sessão solene de instalação e posse, sob a presidência do mais idoso, entre os presentes, para compromisso e posse.
+
+
+§ 1º
+
+Aberta a sessão, o Presidente convidará um Vereador para servir de Secretário, procederá ao recolhimento dos diplomas e fará o registro para a relação dos Vereadores que serão empossados.
+
+
+§ 2º
+
+Elaborada a relação de que se refere o parágrafo anterior, o Presidente procederá à chamada dos Vereadores diplomados.
+
+
+§ 3º
+
+O Termo de Compromisso que será lido e, de pé, pelo Presidente e, por todos, no mesmo tempo, repetido, é o seguinte: “PROMETO MANTER, CUMPRIR E FAZER RESPEITAR A CONSTITUIÇÃO FEDERAL E AS LEIS DO MEU PAÍS, DESEMPENHAR FIELMENTE E COM DIGNIDADE O MANDATO QUE O POVO ME CONFERIU E PROMOVER O BEM DO MEU MUNICÍPIO.”
+
+
+Art. 3º.
+
+Na sessão solene de instalação, serão convidados para a mesa dos trabalhos, um Representante de casa partido Politico, um representante das autoridades presentes, o Prefeito e o Presidente da Câmara.
+
+
+Art. 4º.
+
+Imediatamente após a solenidade de posse, estando presentes a maioria dos Vereadores eleitos, proceder-se-á à eleição da Mesa por escrutínio secreto.
+
+
+§ 1º
+
+Será eleita a chapa que obtiver o maior número de sufrágios.
+
+
+§ 2º
+
+Em caso de empate, terá-se como eleito o mais idoso.
+
+
+Art. 5º.
+
+A Câmara Municipal reunir-se-á, em sessão ordinária independentemente de convocação, no último sábado de cada mês, na sede do Município, no período de 1º de fevereiro a 15 de junho e de 15 de julho a 15 de dezembro.
+
+
+§ 1º
+
+As reuniões ordinárias de que trata o caput deste artigo serão realizadas nos sábados, com início às 14:00 horas e com duração de aproximadamente 2:00 horas, podendo ser prolongadas por igual período.
+
+
+§ 2º
+
+As sessões extraordinárias da Câmara far-se-ão mediante convocação:
+
+
+a)
+
+do Prefeito, quando julgar necessário;
+
+
+b)
+
+do seu Presidente, para dar conhecimento ao Plenário da extenção de mandato do Prefeito ou, ainda, para apreciação de denuncia que importe em infração político-administrativa;
+
+
+c)
+
+pelo Presidente, quando requerida por 2/3 dos membros da Câmara.
+
+
+§ 3º
+
+Na sessão extraordinária, a Câmara somente deliberará sobre a matéria para a qual for convocada, salvo aprovação do Plenário, poderá ser discutida e votada, outras matérias de interesse do Município.
+
+
+#### CAPÍTULO II — DA MESA
+
+
+Art. 6º.
+
+A Mesa compor-se-á de Presidente, Vice-Presidente, 1º e 2º Secretários.
+
+
+Parágrafo único
+
+O mandato da Mesa é de dois anos, sendo proibida a reeleição para o mesmo cargo.
+
+
+Art. 7º.
+
+São atribuições do Presidente, além de outras, que serão expressas neste Regimento ou que decorrem da natureza de suas funções ou prerrogativas:
+
+
+I –
+
+Substituir o Prefeito, nos termos da Constituição do Estado e da Lei Orgânica do Município.
+
+
+II –
+
+Dar posse ao Prefeito, Vice-Prefeito e Vereadores, bem como, conhecer de sua renuncia e declarar a extinção de mandatos nos casos previstos em Lei;
+
+
+III –
+
+Convocar, abrir, presidir, prorrogar, suspender, levantar, encerrar e manter a ordem das sessões;
+
+
+IV –
+
+Representar a Câmara junto ao Prefeito, às autoridades Federais e Estaduais, e perante a entidades privadas;
+
+
+V –
+
+Requisitar as verbas destinadas ao Legislativo;
+
+
+VI –
+
+Dirigir os debates, concedendo a palavra aos oradores inscritos, cassando-a, disciplinando os apartes, advertindo todos os que incidirem em excesso e suspendendo os trabalhos quando não puder manter a ordem;
+
+
+VII –
+
+Encaminhar ao Prefeito, por ofício, as Leis aprovadas e as rejeitadas ou oriundas do Poder Executivo, bem como os vetos rejeitados ou mantidos;
+
+
+VIII –
+
+Convocar suplente de Vereador na forma da Lei;
+
+
+IX –
+
+Desempatar as votações
+
+
+X –
+
+Assinar a Ata das sessões, os editais, as portatias, o expediente da Câmara e abrir, numerar, rubricar e encerrar os livros destinados ao serviço da Casa
+
+
+XI –
+
+Dar substitutos eventuais aos secretarios ausentes vagas nas Comissões permanentes
+
+
+XII –
+
+Designar os membros das Comissões Especiais e preencher as vagas nas Comissões Permanentes.
+
+
+XIII –
+
+Determinar a leitura das atas, pareceres, requerimentos e outros peças escritas sobre os quais devam deliberar o Plenário, na conformidade do Expediente da Sessão
+
+
+XIV –
+
+Resolver questões de ordem, anunciar a matéria a ser votada e proclamar o resultado da votação
+
+
+XV –
+
+Nomear e demitir funcionários do Poder Legislativo;
+
+
+XVI –
+
+Mediante livre escolha, preencher os cargos de Contador e Consultor Jurídico da Câmara;
+
+
+Art. 8º.
+
+O Presidente da Câmara ou quem estiver substituindo somente terá direito a voto nos seguintes casos:
+
+
+I –
+
+I – Na eleição da Mesa;
+
+
+II –
+
+Quando a matéria exigir, para sua aprovação, o voto favorável da maioria absoluta ou 2/3 dos membros da Câmara.
+
+
+III –
+
+quando houver empate em qualquer votação em Plenário.
+
+
+IV –
+
+nas votações em escrutineo secreto.
+
+
+Art. 9º.
+
+É da competência do Vice-Presidente:
+
+
+I –
+
+Substituir o Presidente nas suas faltas e impedimentos;
+
+
+II –
+
+Convocar as sessões extraordinárias quando o Presidente se recusar-se a fazê-las.
+
+
+Art. 10.
+
+São atribuições do 1º Secretário, entre as outras:
+
+
+I –
+
+Ler a ata, proposições e demais papéis que devem ser do conhecimento da Casa;
+
+
+II –
+
+Redigir as atas, resumindo os trabalhos da sessão e assinando-as juntamente com o Presidente;
+
+
+III –
+
+Substituir o Vice Presidente nas suas faltas e impedimentos.
+
+
+Art. 11.
+
+Compete ao 2º Secretário:
+
+
+I –
+
+Fazer a chamada dos Vereadores ao abrir-se a sessão e nas ocasiões determinadas pelo Presidente;
+
+
+II –
+
+Fazer a inscrição dos oradores na pauta dos trabalhos;
+
+
+III –
+
+Substituir o 1º Secretário nas suas faltas e impedimentos.
+
+
+#### CAPÍTULO III — DAS COMISSÕES
+
+
+Art. 12.
+
+As Comissões permanentes da Câmara, são as seguintes:
+
+
+I –
+
+de Legislação, Justiça e Redação;
+
+
+II –
+
+de Finanças, Orçamento e Tomada de Contas;
+
+
+III –
+
+de Educação, Saúde e Assistência Social;
+
+
+IV –
+
+de Serviços Urbanos e Obras.
+
+
+Art. 13.
+
+As Comissões Especiais serão constituídas, mediante propostas aprovadas pelo Plenário e pelo menos 03 (três) Vereadores e terão suas finalidades específicas na Resolução que as constituírem, o relatório dos seus respectivos trabalhos.
+
+
+Art. 14.
+
+Compete à Comissão de Legislação, Justiça e Redação manifestar-se sobre aspectos legais e constitucionais das matérias submetidas à sua apreciação e, quando aprovadas pelo Plenário, analisá-las sob o aspecto lógico e gramatical de modo a adequar o texto das proposições ao bom vernáculo.
+
+
+Parágrafo único
+
+Saldo expressa disposição em contrário deste Regimento, é obrigatória a audiência da Comissão de Legislação, Justiça e Redação em todos os Projetos de Lei, Decretos Legislativos e Resoluções que tramitarem pela Câmara.
+
+
+Art. 15.
+
+Compete à Comissão de Finanças, Orçamento e Tomada de Contas, opinar obrigatoriamente sobre todas as matérias de caráter financeiro e especialmente quando for o caso de:
+
+
+I –
+
+Proposta orçamentária anual;
+
+
+II –
+
+Apresentação das contas do Prefeito;
+
+
+III –
+
+Proposições referentes a matérias tributárias, abertura de crédito, empréstimos públicos e as que direta ou indiretamente alterem a Receita e Despesa do Municípal, acarretem responsabilidade ao erário municipal ou interessem ao crédito público;
+
+
+IV –
+
+Proposições que fixem ou aumentem os vencimentos dos funcionários e a remuneração do Prefeito, Vice-Prefeito e dos Vereadores.
+
+
+Art. 16.
+
+Compete à Comissão de Educação, Saúde e Assistência Social manifestar-se em todos os Projetos de Leis e matérias que versem sobre assuntos educacionais, desportivos e relacionados com saúde, saneamento e Assitência e Previdência Social em geral.
+
+
+Art. 17.
+
+Compete à Comissão de Serviços Urbanos e Obras, opinar nas matérias referentes à criação de serviços novos, modificações nos existentes, execução de obras públicas e assuntos ligados à indústria, ao comércio, a agricultura e pecuária.
+
+
+Art. 18.
+
+Quando se tratar de vetos, somente se pronunciará a Comissão de Justiça e Redação, salvo se esta solicitar a audiência de outra comissão.
+
+
+Art. 19.
+
+Somente a Comissão de Finanças e Orçamento serão distribuidas a proposta orçamentária e o processo referente as contas do Executivo, acompanhando do parecer do Tribunal de Contas do Estado.
+
+
+Art. 20.
+
+As Comissões permanentes serão constituídas de, pelo menos três Vereadores cujos nomes serão indicados pelo Presidente da Câmara e pelos líderes das respectivas bancadas, no prazo de cinco dias, a contar da eleição da Mesa, após a indicações caberá ao Presidente da Câmara.
+
+
+Art. 21.
+
+Uma vez instalada a Comissão, esta elegerá, em escrutínio aberto, um Presidente pelo prazo de dois anos.
+
+
+Art. 22.
+
+É de cinco dias o prazo para qualquer Comissão Permanente exarar parecer, a contar da data do recebimento da matéria pelo Presidente, podendo este prazo ser aumentado ou diminuído de acordo com os integrantes da Comissão, desde que não exceda 10 dias.
+
+
+§ 1º
+
+Recebido o processo, o Presidente da Comissão designará o relator, podendo, reservá-lo a sua própria consideração.
+
+
+§ 2º
+
+O prazo a que se refere este artigo, será duplicado em se tratando da proposta orçamentária e do processo de Prestação de Contas do Executivo e será reduzido para dois quando se tratar de matéria colocada em regime de urgência.
+
+
+§ 3º
+
+Esgotados os prazos referidos, sem que tenha sido proferido o parecer, a matéria será incluída na ordem do dia que o Plenário delibere sobre ela.
+
+
+#### CAPÍTULO IV — DA ORDEM DOS TRABALHOS E DAS SESSÕES
+
+
+Art. 23.
+
+As deliberações do Plenário serão tomadas por maioria simples de votos, presente a maioria de seus membros, salvo disposições constitucionais em contrário.
+
+
+Art. 24.
+
+Depois de constatar a existência de número legal, o Presidente dará início aos trabalhos que obedecerão à seguinte ordem:
+
+
+I –
+
+Chamada dos Vereadores;
+
+
+II –
+
+Leitura e discussão da Ata da sessão anterior quando esta não for aprovada na sessão passada;
+
+
+III –
+
+Leitura da matéria do expediente;
+
+
+IV –
+
+Apresentação de projetos, indicações, moções, requerimentos e outros disposições;
+
+
+V –
+
+Leitura e pareceres das Comissões;
+
+
+VI –
+
+Discussão e votação das matérias constantes da ordem do dia;
+
+
+VII –
+
+Leitura da ordem do dia da sessão seguinte:
+
+
+Art. 25.
+
+A Ata da sessão anterior ficará à disposição dos Vereadores, para verificação, nas vinte e quatro horas da sessão seguinte.
+
+
+Parágrafo único
+
+Após ser lida, o Presidente colocará a Ata em discussão, e, não sendo retificada ou impugnada, será considerada aprovada independentemente de votação.
+
+
+Art. 26.
+
+Na ata constará resumo de todas as ocorrências da sessão e será assinada pelo Presidente, Secretário e pelos Vereadores presentes à sessão.
+
+
+Art. 27.
+
+As sessões ordinárias serão feitas no último sábado de cada mês, a partir das 14:00 horas.
+
+
+§ 1º
+
+Os primeiros trinta minutos da sessão se destinam a ata e ao expediente.
+
+
+§ 2º
+
+A discussão e votação das matérias constantes da Ordem do Dia ocuparão, a hora final dos trabalhos.
+
+
+Art. 28.
+
+As sessões extraordinárias realizar-se-ão em qualquer dia da semana e a qualquer hora, inclusive, domingos e feriados, ou após as sessões ordinárias.
+
+
+§ 1º
+
+Na sessão extraordinária não haverá expediente, sendo todo tempo, destinado a Ordem do dia.
+
+
+§ 2º
+
+Aplica-se no que couber, as sessões extraordinárias o disposto no art. 25 deste Regimento.
+
+
+Art. 29.
+
+Nas Sessões Solenes somente poderão usar a palavra além do Presidente da Câmara, Líder partidário ou o Vereador pelo mesmo designado, o Vereador que for indicado pelo Plenário como orador oficial da cerimônia e as pessoas homenageadas.
+
+
+Art. 30.
+
+Os debates deverão realizar-se com respeito e ordem, cumprindo ao Vereador atender as seguintes determinações regimentais:
+
+
+I –
+
+Falar de pé dirigindo-se ao Presidente, salvo quando responder a apartes;
+
+
+II –
+
+Não usar da palavra sem a solicitar e sem receber consentimento do Presidente;
+
+
+III –
+
+Em qualquer fase dos trabalhos, salvo durante as votações, é permitido ao Vereador pedir a palavra "pela ordem" para reclamar contra desrespeito ou a falta de aplicações de norma regimental
+
+
+#### CAPÍTULO V — DO ORÇAMENTO, DOS PROJETOS E DAS DISCUSSÕES
+
+
+Art. 31.
+
+Recebida do Prefeito, a proposta orçamentária, o Presidente da Câmara, depois de comunicar o fato ao Plenário, determinará a distribuição de cópias aos Vereadores e imediatamente enviará à Comissão de Finanças, Orçamento e Tomada de Contas.
+
+
+Art. 32.
+
+A Comissão de Finanças terá o prazo de cinco dias, prorrogável por mais três, para emitir parecer e decidir sobre emendas, findo os quais, com ou sem parecer, a matéria será incluída na ordem do dia da sessão seguinte.
+
+
+§ 1º
+
+Na primeira semana de discussão poderão os Vereadores manifestar-se sobre o Projeto e emendas;
+
+
+§ 2º
+
+Se forem aprovadas as emendas, a matéria retornará imediatamente a Comissão de Finanças para incorpora-las ao texto para que disponhã do prazo de três dias, para a redação final.
+
+
+Art. 33.
+
+Aplica-se ao Orçamento Plurianual de Investimentos as regras estabelecidas neste capítulo
+
+
+Art. 34.
+
+Toda matéria legislativa de competência da Câmara com sansão do Prefeito, será objeto de Projeto de Lei, todas as deliberações privativas da Câmara, tomadas em Plenário, quer tenham efeitos interno ou externo, terão forma de Resolução.
+
+
+Art. 35.
+
+A iniciativa das Leis cabe a qualquer Vereador, a Mesa, às Comissões da Câmara e ao Prefeito.
+
+
+Art. 36.
+
+Os Projetos de Lei serão obrigatoriamente apreciados em duas discussões, respeitado o disposto no artigo 39, salvo deliberação em contrário do Plenário.
+
+
+Art. 37.
+
+Terão uma única discussão as propostas seguintes:
+
+
+I –
+
+Os projetos de Leis oriundos do Executivo com a solicitação de urgência;
+
+
+II –
+
+Os Projetos de Lei oriundos de Executivo com a solicitação de prazo;
+
+
+III –
+
+O veto;
+
+
+IV –
+
+Os Projetos de Decreto Legislativo ou a Resolução de qualquer natureza;
+
+
+V –
+
+As indicações, moções e os requerimentos escritos.
+
+
+#### CAPÍTULO VI — DAS DISCUSSÕES
+
+
+Art. 38.
+
+Apresentado o Projeto de Lei, de Resolução ou de Decreto Legislativo, serão imediatamente encaminhados às Comissões competentes para parecer falando sempre em 1º lugar, quando imprescindível a sua audiência, a Comissão de Legislação, Justiça e Redação.
+
+
+§ 1º
+
+Apresentado o parecer de uma Comissão, o Presidente da Câmara encaminhará o Projeto a outra Comissão, que sobre ele tenha que opinar.
+
+
+§ 2º
+
+Devolvido o Projeto com o parecer da última Comissão que tiver de opinar, será este colocado em pauta pelo prazo de vinte e quatro horas para receber emendas.
+
+
+§ 3º
+
+Sendo apresentadas emendas, sobre estas se pronunciarão sucessivamente cada uma das Comissões competentes, prazo de vinte e quatro horas.
+
+
+§ 4º
+
+Devolvido o Projeto ao Plenário ou decorrido o prazo regimental, sem que se apresentem emendas, a matéria entrará em ordem do dia para 1ª votação.
+
+
+§ 5º
+
+Aprovado em 1ª discussão e decorrido o prazo de vinte e quatro horas, o Projeto será submetido à 2ª discussão.
+
+
+§ 6º
+
+O Projeto rejeitado em 1ª discussão, será imediatamente arquivado.
+
+
+Art. 39.
+
+É permitido ao Vereador encaminhar suas emendas diretamente à Comissão, que tiver de se pronunciar sobre o Projeto.
+
+
+Art. 40.
+
+Salvo disposição em contrário, nesse Regimento, serão de cinco dias a contar do seu recebimento, o prazo para cada Comissão emitir parecer em matéria de sua competência.
+
+
+Parágrafo único
+
+Decorrido o prazo de que trata o caput deste artigo, sem que a Comissão tenha se pronunciado, mediante requerimento de qualquer Vereador, a matéria poderá ser incluída na Ordem do Dia, independentemente de parecer, cumpridas as demais formalidades regimentais.
+
+
+Art. 41.
+
+Os prazos contidos neste Capítulo poderão ser dilatados pela Câmara, mediante requerimento aprovado pelo Plenário.
+
+
+Art. 42.
+
+A matéria constante de Projeto rejeitado somente poderá constituir objeto de novo Projeto, na mesma sessão legislativa, mediante proposta da maioria absoluta dos membros da Casa, ressalvadas as proposições de iniciativa do Prefeito.
+
+
+#### CAPÍTULO VII — DAS VOTAÇÕES
+
+
+Art. 43.
+
+A votação de matérias constantes da Ordem do dia, somente poderá ser efetuada com a presença da maioria dos membros da Câmara.
+
+
+Art. 44.
+
+O voto será secreto:
+
+
+I –
+
+nas eleições da Mesa;
+
+
+II –
+
+na apuração das contas do Prefeito;
+
+
+III –
+
+nas deliberações sobre perda de mandato de Vereador, Prefeito e Vice-Prefeito.
+
+
+Parágrafo único
+
+Nos demais casos, o voto será sempre público.
+
+
+Art. 45.
+
+O processo simbólico praticar-se-á conservando-se sentados os Vereadores que aprovam e levantando-se os que desaprovam a proposição.
+
+
+§ 1º
+
+Ao anunciar o resultado da votação, o Presidente declarará quantos Vereadores votaram favoravelmente ou em contrário.
+
+
+§ 2º
+
+Do resultado da votação simbólico, qualquer Vereador poderá requerer verbalmente a verificação mediante votação nominal.
+
+
+Art. 46.
+
+A votação nominal será feita pela chamada dos presentes, pelo Secretário, devendo os Vereadores responder: “SIM” ou “NÃO”, conforme forem favorável ou contrário a proposição.
+
+
+Art. 47.
+
+Na 1ª votação, a discussão será feita, artigo por artigo; na 2ª discussão, a proposição será globalmente e logo em seguida ao encerramento da 1ª.
+
+
+§ 1º
+
+Na ordem de votação será apreciado em primeiro lugar o Projeto originário e depois as emendas, a quais também deverão ser votadas de uma a uma;
+
+
+§ 2º
+
+Terão preferência para votação as emendas supressivas e as emendas substitutivas oriundas das Comissões.
+
+
+§ 3º
+
+Na segunda discussão, o Projeto será votado globalmente e já com a redação final.
+
+
+#### CAPÍTULO VIII — DAS PROPOSIÇÕES
+
+
+Art. 48.
+
+Proposição é toda matéria sujeita à deliberação do Plenário.
+
+
+Parágrafo único
+
+As proposições poderão consistir em projetos de resolução, projeto de lei, indicações, requerimentos, substitutivos, emendas, subemendas, pareceres e recursos.
+
+
+Art. 49.
+
+A Mesa deixará de aceitar qualquer proposição:
+
+
+I –
+
+que verse sobre assunto alheio à competência da Câmara;
+
+
+II –
+
+que delegue a outro poder, atribuições privativas do Legislativo;
+
+
+III –
+
+que apresentada por Vereador, pela Mesa, ou por Comissão do Legislativo, verse sobre assunto de competência privativa do Prefeito.
+
+
+IV –
+
+que seja anti-regimental;
+
+
+V –
+
+que seja apresentada por Vereador ausente da sessão.
+
+
+Parágrafo único
+
+Da decisão da Mesa, caberá recurso ao Plenário que deverá ser apresentado pelo autor e encaminhado à Comissão de Legislação, Justiça e Redação, cujo parecer será incluído na Ordem do Dia e apreciado pelo Plenário.
+
+
+Art. 50.
+
+A votação de requerimento independe de parecer, assim como as indicações e moções.
+
+
+Art. 51.
+
+Aprovado o Projeto de Lei, o Presidente da Câmara enviá-lo-á ao Prefeito que, para fins de sanção.
+
+
+§ 1º
+
+Se o Prefeito julgar o Projeto, no todo ou em parte, inconstitucional ou contrário ao interesse público, vetá-lo-á total ou parcialmente, dentro de quinze dias úteis contados da data do recebimento e comunicará ao Presidente da Câmara, dentro do prazo de quarenta e oito horas, os motivos do veto. Se a sanção for negada quando estiver findada a sessão legislativa o Prefeito publicará o veto.
+
+
+§ 2º
+
+Comunicando o veto ao Presidente, este convocará a Câmara para apreciá-lo, dentro de quinze dias, contados do seu recebimento, considerando-se mantido o veto que, em discussão única e votação secreta, obtiver o voto favorável de dois terços dos membros da Câmara.
+
+
+§ 3º
+
+Decorrido o prazo de quinze dias, o silêncio do Prefeito no tocante à sanção de um Projeto aprovado pela Câmara importará em sanção tácita.
+
+
+§ 4º
+
+Se o veto for apreciado no prazo estabelecido no parágrafo segundo, será considerado mantido.
+
+
+§ 5º
+
+Se a lei for promulgada dentro de quarenta e oito horas pelo Prefeito, nos casos do § 3º e § 4º, o Presidente da Câmara a promulgará, e, na falta deste, o Vice-Presidente da Câmara.
+
+
+§ 6º
+
+Nos casos previstos nos parágrafos anteriores, não ocorrem no período de recesso da Câmara.
+
+
+Art. 52.
+
+Os originais das Leis, antes de serem remetidos ao Prefeito, serão registrados em livros próprios ou arquivados nos arquivos deste Poder.
+
+
+#### CAPÍTULO IX — DOS VEREADORES
+
+
+Art. 53.
+
+É assegurado ao Vereador:
+
+
+I –
+
+Participar de todas as discussões e votar nas deliberações do Plenário;
+
+
+II –
+
+votar e concorrer nos cargos da Mesa, salvo impedimento legal;
+
+
+III –
+
+Apresentar projetos ou proposições e sugerir medidas que visem ao interesse público;
+
+
+IV –
+
+Usar da palavra em defesa das proposições que apresentadas que visem ao interesse do município ou em oposição às que julgar prejudiciais ao interesse público;
+
+
+V –
+
+Retirar-se das sessões, desde que, obtenha o consentimento do Plenário.
+
+
+Art. 54.
+
+São obrigações ou deveres do Vereador:
+
+
+I –
+
+Comparecer convenientemente trajado às sessões;
+
+
+II –
+
+manter o decoro parlamentar;
+
+
+III –
+
+Votar as proposições submetidos à deliberação da Câmara, salvo quando tratar de seu interesse particular;
+
+
+IV –
+
+Conhecer e observar o Regimento Interno.
+
+
+Art. 55.
+
+Se qualquer Vereador faltar às sessões ou cometer, dentro do recinto da Câmara, excesso que deva ser reprimido, o Presidente, conhecendo do fato, tomará as providências seguintes, conforme a gravidade do caso:
+
+
+I –
+
+advertência pessoal;
+
+
+II –
+
+cassação da palavra;
+
+
+III –
+
+determinação para retirar-se do Plenario;
+
+
+IV –
+
+suspensão da sessão para atendimento na sala da presidência ou outro recinto da Câmara;
+
+
+V –
+
+Desconto na parte variável da sua remuneração que será definido o percentual em uma Resolução da Mesa e aprovada pelo Plenário;
+
+
+VI –
+
+proposta para cassação de mandato, a referida cassação só acontecerá se for aprovada pela maioria dos Vereadores.
+
+
+#### CAPÍTULO X — DA PARTICIPAÇÃO POPULAR NOS TRABALHOS LEGISLATIVOS
+
+
+Art. 56.
+
+A participação da Associação Representativa da sociedade civil ou de cidadão nos trabalhos legislativos se processará por intermédio de:
+
+
+I –
+
+uso de tribuna;
+
+
+II –
+
+audiência pública das comissões
+
+
+Art. 57.
+
+Obrigasse-a Associação Representativa ou cidadão que ao solicitar ou ser convidado a participar dos trabalhos legislativo, obedecer o disposto neste Regimento Interno, as determinações do Vereador que estiver dirigindo os trabalhos e respeitar as normas de comportamento do decoro parlamentar.
+
+
+Parágrafo único
+
+O Vereador que estiver na presidência dos trabalhos, poderá a qualquer momento suspender a reunião quando se ferir o caput deste artigo.
+
+
+Art. 58.
+
+As associações Representativas e os cidadãos, que tenham destacada atuação nas atividades do município, terão facultada o uso da Tribuna da Câmara, onde disporão de dez minutos durante o período do Expediente para apresentarem suas opiniões, reivindicações e sugestões.
+
+
+Art. 59.
+
+O Requerimento de uso da Tribuna deverá ser entregue ao Presidente da Câmara pelo interessado e nele constará o motivo da solicitação de uso da Tribuna e a data para sua ocupação.
+
+
+Art. 60.
+
+Qualquer cidadão poderá assistir as sessões da Câmara, na parte do recinto que lhe é reservado, podendo o Presidente dos Trabalhos determinar a retirada de todos os assistentes, se a medida for julgada necessária.
+
+
+Art. 61.
+
+Toda matéria que haja dúvida quanto ao prazo de tramitação, obedecerá ao que prescrever a Lei Orgânica do Município.
+
+
+Art. 62.
+
+A Secretária da Câmara fará a reprodução deste Regimento e entregará cópias a casa Vereador.
+
+
+Art. 63.
+
+Este Regimento estrará em vigor na data de sua aprovação, revogadas as disposições com contrário.
+
+
+CÂMARA DE VEREADORES DE BARRA DE SÃO MIGUEL
+
+
+**26 DE AGOSTO DE 1995**
+
+
+**JOÃO ESTEVAM DE MIRANDA**
+
+**PRESIDENTE**
+
+
+**MARIA DAS DORES FIGUEIROA ARAÚJO**
+
+**1ª SECRETÁRIA**
+

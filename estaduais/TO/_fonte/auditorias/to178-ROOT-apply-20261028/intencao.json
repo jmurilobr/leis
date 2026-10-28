@@ -1,0 +1,1261 @@
+{
+  "preparado_em": "2026-10-28T10:22:24.381566-03:00",
+  "modo": "apply_ROOT",
+  "HEAD": "7b390204c0c3d7cbe3a7e78a779e5e1bba175e92",
+  "total_HEAD": 2607,
+  "total": 178,
+  "manifesto": "scripts/estados/manifestos/to178-proposta-privada-20261028-001.json",
+  "sha256_manifesto": "8e4f2f56aa5f78074b4b1ab6f1c9c1508c0afa9873ddded27fafdaf4697a8ad1",
+  "mapa_sha": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/final/hashes.json",
+  "sha256_mapa": "0f9ebeb3704992443bf1935629110f37a6871b98cc87ac013356bff835ae4676",
+  "dedup": "Blobs integrais do HEAD atual: ID no namespace ALETO/SAPL TO, arquivo por host/path/query, pasta+número literal+ano e paths; também dedup interno.",
+  "documentos": [
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3630-2019-aleto51132.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3630-2019-aleto51132.md",
+      "sha256": "30f1cd08916ff45e0926bb869b32811ed5d5fe3319268dcfed3deab05333354e",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3630-2019-aleto51132.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3629-2019-aleto51130.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3629-2019-aleto51130.md",
+      "sha256": "e6527fd12d40cbe93dceb092cd10c928003d1d49eecbde063992b5fbda864e57",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3629-2019-aleto51130.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3628-2019-aleto51127.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3628-2019-aleto51127.md",
+      "sha256": "c8e7bf6c132def87a7aaebe246c358af17f0a2e14536a8442bb30fec3760222a",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3628-2019-aleto51127.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3627-2019-aleto51126.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3627-2019-aleto51126.md",
+      "sha256": "d7edffa8728e26333f149259694bb3933e401bc5052803468bed370c7deb6b1d",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3627-2019-aleto51126.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3626-2019-aleto51124.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3626-2019-aleto51124.md",
+      "sha256": "a0c37f9883b33bddbf2156aa357de81d6dcd25f0858ef359595a2a9b6aae5a16",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3626-2019-aleto51124.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3624-2019-aleto51122.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3624-2019-aleto51122.md",
+      "sha256": "87c6ab2ea390c1a05b3da531a30638893a482695ea484c5a319516e209a3763f",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3624-2019-aleto51122.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3623-2019-aleto51121.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3623-2019-aleto51121.md",
+      "sha256": "5adeb3e162a0ffb2a012a943bef9687821e9d5ce48e0e4dacf938163ca532571",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3623-2019-aleto51121.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3620-2019-aleto51140.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3620-2019-aleto51140.md",
+      "sha256": "4cc9530f0cecc3d6ae6c5d76ee629a0a33cf03dc1ff356a939ccee6b5d129ef4",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3620-2019-aleto51140.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3613-2019-aleto51342.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3613-2019-aleto51342.md",
+      "sha256": "dbee9185d1d0de13459f27ab594defefd112fef73162f7599f87f3572c17b903",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3613-2019-aleto51342.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3610-2019-aleto51340.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3610-2019-aleto51340.md",
+      "sha256": "2547c155b7c80cf8d3bdda4b1547089193f118fe30ba3a8eb769ad1623f5895a",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3610-2019-aleto51340.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3607-2019-aleto51228.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3607-2019-aleto51228.md",
+      "sha256": "284047e7b57d9fa5a3ea856c05adb78541ff3afd3fa812019572f1c0ae337414",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3607-2019-aleto51228.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3606-2019-aleto51227.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3606-2019-aleto51227.md",
+      "sha256": "fbf1dd03ab42270f58f2ab5d3d5584b1aafca7619322293ece9aad4ac9409896",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3606-2019-aleto51227.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3605-2019-aleto51226.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3605-2019-aleto51226.md",
+      "sha256": "0d562296837d1047fec98ee6d561d2367a39d89837d38b4e688ceb6351617688",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3605-2019-aleto51226.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3604-2019-aleto51225.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3604-2019-aleto51225.md",
+      "sha256": "9432d062deb5fbd8996ebc13dea9cfa11ac780493ecda78a945be86afe42b61a",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3604-2019-aleto51225.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3603-2019-aleto51224.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3603-2019-aleto51224.md",
+      "sha256": "3f663d17546ea84aaae78a993112a3a462a7ce90b806cf809fe4d6d159f18c14",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3603-2019-aleto51224.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3602-2019-aleto51223.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3602-2019-aleto51223.md",
+      "sha256": "722935eb4198e1bc9895e7b5e62941df243c23d1c2026d8a639de064750e911e",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3602-2019-aleto51223.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3601-2019-aleto51222.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3601-2019-aleto51222.md",
+      "sha256": "245f30265e297db26e788d403389e7661edc9941a2d72e00de7d16f9328432da",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3601-2019-aleto51222.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3600-2019-aleto51221.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3600-2019-aleto51221.md",
+      "sha256": "f05a02796ff3a6af5c5a7ded0aab0c29e002f23e598420f0707b6e759d3bacbd",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3600-2019-aleto51221.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3593-2019-aleto51215.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3593-2019-aleto51215.md",
+      "sha256": "78fea5343f336ffe9890b4357233518402f719ce06b470df541e8f35c6cad2b5",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3593-2019-aleto51215.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3592-2019-aleto51214.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3592-2019-aleto51214.md",
+      "sha256": "abcfa164510fc4dd306f8688d6fbb1ccfe72fbe1e372ac037b3d64306392a769",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3592-2019-aleto51214.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3591-2019-aleto51213.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3591-2019-aleto51213.md",
+      "sha256": "048739752f12ef7f0c4311e03f2291c5f2df52e4b74abab5131422cde0697622",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3591-2019-aleto51213.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3590-2019-aleto51062.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3590-2019-aleto51062.md",
+      "sha256": "7f8eed9e1d6667915b3dabe1fe5c8ff8b82bc0c7157dddf77671be5ad31e5572",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3590-2019-aleto51062.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3586-2019-aleto50797.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3586-2019-aleto50797.md",
+      "sha256": "ba1afcf4b86238a0e5445abf497a6e152b5e51e283646b4b48689565af871236",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3586-2019-aleto50797.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3575-2019-aleto50742.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3575-2019-aleto50742.md",
+      "sha256": "4becf3c57217ab02bcef966f942d42b3b93fa7599fb29418b2b29ca304e86a4d",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3575-2019-aleto50742.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3574-2019-aleto50741.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3574-2019-aleto50741.md",
+      "sha256": "04720470a7d43c598ca56bed307da2a70dc5473e5cff174039f680549ceefc8c",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3574-2019-aleto50741.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3572-2019-aleto50739.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3572-2019-aleto50739.md",
+      "sha256": "d8f190c34809731d0b3956417cc8a183d875f68aedd2732c549a8cbf616566d7",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3572-2019-aleto50739.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3571-2019-aleto50738.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3571-2019-aleto50738.md",
+      "sha256": "bee0f9f786b592e3f1a14035d324e0efbab4dfd0f84b32d80ad3251628b957ae",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3571-2019-aleto50738.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3570-2019-aleto50737.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3570-2019-aleto50737.md",
+      "sha256": "bf99817f7a7212495e5bdea653f5b793ce14bc1856d641df4dd2b5c91006ff2d",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3570-2019-aleto50737.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3562-2019-aleto50606.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3562-2019-aleto50606.md",
+      "sha256": "5274f646c6b009586cda70762b193eecbbbee3ffe80f5f53b9e2ded1ed26fe3a",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3562-2019-aleto50606.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3561-2019-aleto50605.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3561-2019-aleto50605.md",
+      "sha256": "d394a1729af9a346d29c21d3c12f6f658c4aede3294c15373812e07e7c3e133c",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3561-2019-aleto50605.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3560-2019-aleto50604.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3560-2019-aleto50604.md",
+      "sha256": "fb11f30815a177543d691697fa2c007b44ba44f7c23210b1a4caada2e3253ebd",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3560-2019-aleto50604.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3557-2019-aleto50594.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3557-2019-aleto50594.md",
+      "sha256": "4bf01045ee4cc236af8b55041a81e19d5954d13789875b3526e28bc03c144009",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3557-2019-aleto50594.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3556-2019-aleto50593.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3556-2019-aleto50593.md",
+      "sha256": "c884c0403218238ac91f4180a5d427c74fbd1b97272cdcdde5646a97b5e2588e",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3556-2019-aleto50593.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3555-2019-aleto50586.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3555-2019-aleto50586.md",
+      "sha256": "0af79fd82cb4d18518ac66539ce19b964b2495189687770ad269b595b7e19ad8",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3555-2019-aleto50586.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3553-2019-aleto50591.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3553-2019-aleto50591.md",
+      "sha256": "4606d3586defc43e7c186e72d34badf2ddd3f10553f5274003273af1602d61b6",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3553-2019-aleto50591.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3552-2019-aleto50590.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3552-2019-aleto50590.md",
+      "sha256": "c3d8f4d1c4589976abba330f53a235e76d2dea9168ab71174577f8830af847c4",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3552-2019-aleto50590.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3551-2019-aleto50589.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3551-2019-aleto50589.md",
+      "sha256": "9526af7327882dc3e4c189dc990af44100627688f8cae9a0d6237133035636c3",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3551-2019-aleto50589.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3549-2019-aleto50379.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3549-2019-aleto50379.md",
+      "sha256": "3a38e35250b1d7a53063930983597f911731b1111770e49f6e6c69fbc4f7035e",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3549-2019-aleto50379.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3548-2019-aleto50377.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3548-2019-aleto50377.md",
+      "sha256": "be06afebea5186addd07463fd29cc8128a1714af0b7a1fa2ead4c135adf2ed17",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3548-2019-aleto50377.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3547-2019-aleto50376.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3547-2019-aleto50376.md",
+      "sha256": "139ac4f62f9913bd834c2c4455e10b1eeb774facdf8ff2d04f33dacedefd6f92",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3547-2019-aleto50376.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3431-2019-aleto48228.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3431-2019-aleto48228.md",
+      "sha256": "6a45db7a154e774d87930734b803ef86f3907857b47c140288dd8c9455e2c37a",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3431-2019-aleto48228.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3430-2019-aleto48227.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3430-2019-aleto48227.md",
+      "sha256": "0251a40ffa0128c63687b4bd81c594e133262b71ba399f261ef81546d0af0050",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3430-2019-aleto48227.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3428-2019-aleto48225.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3428-2019-aleto48225.md",
+      "sha256": "98904905c94e49b914ea898ee665e16ba91efba28f402b261b11884f76b66ba9",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3428-2019-aleto48225.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3427-2019-aleto47964.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3427-2019-aleto47964.md",
+      "sha256": "b8d0cc0e043630556dd698e0f2b447128aa27fe9cf605c28eec097504186bd99",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3427-2019-aleto47964.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3425-2019-aleto47959.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3425-2019-aleto47959.md",
+      "sha256": "1806176a92c53d7f54cfb1c4bbc92407fa6d81cbcc05251fb0970eb717d14023",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3425-2019-aleto47959.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3423-2019-aleto47957.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3423-2019-aleto47957.md",
+      "sha256": "da079c1b2bb56302874a43587c0121816b89fe3b6feb22f7d7f8bbd5bf005b71",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3423-2019-aleto47957.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3419-2019-aleto47128.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3419-2019-aleto47128.md",
+      "sha256": "2ee3526ba65f9e1daf324140822ea6afb3f0fe1d1df66075122e157a957e6ebc",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3419-2019-aleto47128.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3418-2019-aleto47127.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3418-2019-aleto47127.md",
+      "sha256": "9b9590cdbd236efbf2ae71849c859c6ce8958488efdf76c24f4fd7d7cc2430c4",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3418-2019-aleto47127.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3417-2019-aleto47126.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3417-2019-aleto47126.md",
+      "sha256": "6616303cd87ecff216bcd7256812be570d432e93c5eef0e1d39d5f17bcbcc831",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3417-2019-aleto47126.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3416-2019-aleto47125.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3416-2019-aleto47125.md",
+      "sha256": "0e1ed25122440a688ea72b9b6931d255d0755718ae37afc0f9f858bd57cbabca",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3416-2019-aleto47125.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3415-2019-aleto47124.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3415-2019-aleto47124.md",
+      "sha256": "e0237da7d2d09d8f12f08d810ff2e0b0e8ff286329761c02d6b3252789ddc31c",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3415-2019-aleto47124.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3411-2019-aleto47120.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3411-2019-aleto47120.md",
+      "sha256": "e0b605a2798d71a5e955737aacba5f482c344ac88045ae08aff479c268b8d0af",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3411-2019-aleto47120.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3406-2018-aleto48092.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3406-2018-aleto48092.md",
+      "sha256": "4859759a9bb3daea8c3211a6ec4bced483439d71c228407c22570bf35d3e26fb",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3406-2018-aleto48092.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3398-2018-aleto48084.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3398-2018-aleto48084.md",
+      "sha256": "b5110bd00b4d8338b88e2d79da60328f5d1f5752134f62909c4ee7dd186d55ef",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3398-2018-aleto48084.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3395-2018-aleto48081.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3395-2018-aleto48081.md",
+      "sha256": "dd6925fc3c34d4735f0a366a56b659ab54c6454a4fac49e5637f8cb252053782",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3395-2018-aleto48081.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3394-2018-aleto48080.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3394-2018-aleto48080.md",
+      "sha256": "3f581da61c3aaed597ee36b9281c379db258f3701709b323a18b852749aa48c7",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3394-2018-aleto48080.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3393-2018-aleto48079.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3393-2018-aleto48079.md",
+      "sha256": "17b57f2ec2d048565c5d8df0fafbdaa40dd8a19a139f4590f973aa049bec1e5a",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3393-2018-aleto48079.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3392-2018-aleto48078.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3392-2018-aleto48078.md",
+      "sha256": "da32483790cede4e03d044a87450f98bde8670b6bcc8ffca859f884b261be1c4",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3392-2018-aleto48078.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3391-2018-aleto48077.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3391-2018-aleto48077.md",
+      "sha256": "aea586340357e888a62ed6145befc4636d6e76ee0aded5e80ca3abc11ecc3a94",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3391-2018-aleto48077.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3390-2018-aleto48076.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3390-2018-aleto48076.md",
+      "sha256": "32e5b0eaa2f1359212a37d79869a7187019a88bbec680ef2ad660d13c362df08",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3390-2018-aleto48076.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3389-2018-aleto48075.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3389-2018-aleto48075.md",
+      "sha256": "e8d9513b5527ea845c39998428c15274e61ac26dcad15800970d4cb30020931f",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3389-2018-aleto48075.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3384-2018-aleto48070.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3384-2018-aleto48070.md",
+      "sha256": "3524e2ede28b6dae576d8510219f5e10f85967c051a42cf3610f5c12b615226e",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3384-2018-aleto48070.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3383-2018-aleto48069.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3383-2018-aleto48069.md",
+      "sha256": "b6ff26fbea9713552b3c192ade51ad182064d10260e35a9d3f8f8576dfa3d011",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3383-2018-aleto48069.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3382-2018-aleto48068.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3382-2018-aleto48068.md",
+      "sha256": "0e830a3efc5d1ec19102715ba6c20c0087bff62a87699c6f5941b96f00c23194",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3382-2018-aleto48068.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3381-2018-aleto48067.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3381-2018-aleto48067.md",
+      "sha256": "6f729f87ba39c32c1d1590ab803108e64a3c270ed3d74721fffa5f3a47aaaed6",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3381-2018-aleto48067.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3380-2018-aleto48065.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3380-2018-aleto48065.md",
+      "sha256": "f14ba0ca9ef205730e2782ce7e7be3a331b4e1026b9b34c0824e5f9665f77cd5",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3380-2018-aleto48065.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3379-2018-aleto48064.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3379-2018-aleto48064.md",
+      "sha256": "6995236c7d2463a98b15dfd71903cabf1f659251b1460efc06ee6a2ca86f494d",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3379-2018-aleto48064.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3378-2018-aleto48063.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3378-2018-aleto48063.md",
+      "sha256": "04e8c078967ad2f5dbaa38f234a7491f605203041ca99696ec30562545bed722",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3378-2018-aleto48063.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3368-2018-aleto44309.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3368-2018-aleto44309.md",
+      "sha256": "03687f18b2e14f282bd4bea92984d4a565a62aa66e5d1589342de960091a891d",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3368-2018-aleto44309.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3367-2018-aleto44308.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3367-2018-aleto44308.md",
+      "sha256": "e6223efe316c50901ecb781115c7a0fe79a65b4d7c2efb8d5768f3dce4492078",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3367-2018-aleto44308.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3365-2018-aleto49061.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3365-2018-aleto49061.md",
+      "sha256": "d0b76b94ec3eef740da4495cc522ba1ecb86348c0e33a8bcefb3cce4f50fa03f",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3365-2018-aleto49061.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3364-2018-aleto49060.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3364-2018-aleto49060.md",
+      "sha256": "70fa8abfa5b6e8e5ac4d680b38dd7ea8e331ed61dd8593a91e7cc737fe80c9f7",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3364-2018-aleto49060.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3363-2018-aleto49059.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3363-2018-aleto49059.md",
+      "sha256": "5a6adcb30b88839b8dda391c9e5b1e5e5df87bfd3d34611b1cfb4326c6e3ca52",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3363-2018-aleto49059.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3360-2018-aleto43941.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3360-2018-aleto43941.md",
+      "sha256": "3e28562b4d5219b7e83e7be21f044aac86479500ff190cc796f6246b6678a433",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3360-2018-aleto43941.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3359-2018-aleto43940.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3359-2018-aleto43940.md",
+      "sha256": "0012745a37f78888b58d19f8746db908307d25d29122e127d5a690a524b98472",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3359-2018-aleto43940.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3358-2018-aleto43939.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3358-2018-aleto43939.md",
+      "sha256": "0069d982cc0f0058f030b3cbb4cd43c5cdebdd85f398af3fbf0aea5a4eaf238d",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3358-2018-aleto43939.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3357-2018-aleto43938.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3357-2018-aleto43938.md",
+      "sha256": "af086e2b805e09bafc3d60df5bfcdcdc5e5d773fd2ddaa68fb13efe9771f613d",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3357-2018-aleto43938.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3354-2018-aleto43935.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3354-2018-aleto43935.md",
+      "sha256": "791bb631b3bd179431ab31a590fe0cd841caf09d5132c7f02f4db321dad87b4d",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3354-2018-aleto43935.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3349-2018-aleto43830.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3349-2018-aleto43830.md",
+      "sha256": "fda80cc6650059f169ae239fbc0d3e839abd58f8463486f1b030a7e25bc9b121",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3349-2018-aleto43830.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2018/l-3348-2018-aleto43829.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2018/l-3348-2018-aleto43829.md",
+      "sha256": "cf5819e1e667f5cdfb60bac77292d65f45de2af1c0a57405c965e555ec777520",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2018/l-3348-2018-aleto43829.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3340-2017-aleto43499.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3340-2017-aleto43499.md",
+      "sha256": "ec16d8dff7992be9d98d02d21987012a9992af4b96dd3f8cf312c080ec546471",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3340-2017-aleto43499.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3339-2017-aleto43498.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3339-2017-aleto43498.md",
+      "sha256": "8fbddd98e86a8ec6fd59214c2ba7703f462e22c8e325a7d9af398b19f75e5e8c",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3339-2017-aleto43498.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3337-2017-aleto43511.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3337-2017-aleto43511.md",
+      "sha256": "6fff16c34b4c9de8bd380355fe213aee38c35d28019397ede2db07f04a3041e3",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3337-2017-aleto43511.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3336-2017-aleto43496.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3336-2017-aleto43496.md",
+      "sha256": "740cde98a3e145b2d989fd26d94cfd03f10172888eb781da14801ca9f5fb45ed",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3336-2017-aleto43496.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3335-2017-aleto43495.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3335-2017-aleto43495.md",
+      "sha256": "81ff0a833a37774da6b2064b7881eb1e4ae6d0e4e37915c496bd71752445343d",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3335-2017-aleto43495.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3334-2017-aleto43494.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3334-2017-aleto43494.md",
+      "sha256": "b3f25efb0e35847a97b761970d9c4cfb71b99d6026e8b290bcb70aa99e986172",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3334-2017-aleto43494.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3333-2017-aleto43493.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3333-2017-aleto43493.md",
+      "sha256": "1f629109ef374b9f0398f458bf21630b1aa5b1ae7724c15e40beb9369f28d8e9",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3333-2017-aleto43493.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3332-2017-aleto43492.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3332-2017-aleto43492.md",
+      "sha256": "7b644a2d4487cef02ffa1c74bf5cf2b54880e6a4c7137ad6151f2e8f8f521637",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3332-2017-aleto43492.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3324-2017-aleto43537.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3324-2017-aleto43537.md",
+      "sha256": "6f5b6adbc618f197168e2f74ff071ed1430a3d17743fa8737f83455213cb2623",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3324-2017-aleto43537.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3323-2017-aleto43536.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3323-2017-aleto43536.md",
+      "sha256": "2dc8d9737de1d4852c7ce7ed792194d589b65b6153d9084b21a5580f35a3496d",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3323-2017-aleto43536.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3322-2017-aleto43535.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3322-2017-aleto43535.md",
+      "sha256": "26006eb64957faf989d58ddbf995e616aa664a857d9eb228da0cbcd30fed2f87",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3322-2017-aleto43535.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3321-2017-aleto43543.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3321-2017-aleto43543.md",
+      "sha256": "4878b9a1c0bc6ebf16e6eb6e4089c6af4b7eff67cb52e9c4fa43bd7b966ca931",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3321-2017-aleto43543.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3318-2017-aleto43573.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3318-2017-aleto43573.md",
+      "sha256": "d19584c6ebab8cdae0aa88dbc17d7df9c1da2721055c9573ed954c9663c884b3",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3318-2017-aleto43573.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3305-2017-aleto43346.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3305-2017-aleto43346.md",
+      "sha256": "e81c4fac96c1a2833d8f21b3db60fb966134be452ef83db9a88f503d1e1e7fee",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3305-2017-aleto43346.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3301-2017-aleto43291.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3301-2017-aleto43291.md",
+      "sha256": "757baf2ac7fd61b578f277dca2a4dab9f7c3b2555fddb20dbb5af7b9cc5b61be",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3301-2017-aleto43291.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3294-2017-aleto43248.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3294-2017-aleto43248.md",
+      "sha256": "6b54c46f76e4c8133e07559ca1fbb468fb5f7d0d2526ccf8b6511dbf81743ae3",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3294-2017-aleto43248.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3293-2017-aleto43247.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3293-2017-aleto43247.md",
+      "sha256": "a6f1e34e3fdcdcdcded0a540aa4bbf0239846efe72f0e10a2854d3df25142a14",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3293-2017-aleto43247.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3292-2017-aleto43246.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3292-2017-aleto43246.md",
+      "sha256": "e0269818b1876b5c071e256f29d0aca8dd4357d7b59a471beedaf3e50c737b0f",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3292-2017-aleto43246.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3291-2017-aleto43245.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3291-2017-aleto43245.md",
+      "sha256": "74818f2efc5b95059cc32b7512b73ccd1e663bf1089163d39fcec760a933f373",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3291-2017-aleto43245.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3290-2017-aleto43244.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3290-2017-aleto43244.md",
+      "sha256": "df4552b4c09c4073c0085aa7225d497941c69d656e0484b2c4c8cdc59620fb1a",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3290-2017-aleto43244.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3289-2017-aleto43243.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3289-2017-aleto43243.md",
+      "sha256": "1943ea0f11b519cad52f293b0bf023f3f86e4c0d7ce15cf573680aa380428b59",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3289-2017-aleto43243.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3286-2017-aleto43238.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3286-2017-aleto43238.md",
+      "sha256": "64e1d6fee86a343c0615fdd19edb0a9c8ac46c566aaa75f7ab33a9a888ee7dae",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3286-2017-aleto43238.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3284-2017-aleto43152.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3284-2017-aleto43152.md",
+      "sha256": "1e59510620e8f2e609147143f925942f7d00148e03c5319ae294da2d1b5d2341",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3284-2017-aleto43152.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3282-2017-aleto43150.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3282-2017-aleto43150.md",
+      "sha256": "ba0e7cb3682fbea3ec2d3199a6e17e13517d29d1ba7ef19c47b9cf56342f6930",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3282-2017-aleto43150.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3281-2017-aleto49057.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3281-2017-aleto49057.md",
+      "sha256": "b6664be0b95df1cc5b79eb35a4f5d812aeb5a7bcd19f8637ffc471612b35371f",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3281-2017-aleto49057.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3280-2017-aleto49056.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3280-2017-aleto49056.md",
+      "sha256": "e905a383ec2b3711bc6b77156daa4be4276bf650cc9849920fcac5202a95acdd",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3280-2017-aleto49056.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3279-2017-aleto43149.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3279-2017-aleto43149.md",
+      "sha256": "e4e67d17ebd5eaea53e79dc278a4ec655927999215fb1679f179637f99a24af5",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3279-2017-aleto43149.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3278-2017-aleto43148.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3278-2017-aleto43148.md",
+      "sha256": "239e42c1b08cd6ee0f20b889385449760adbf903db9b05288b26db0ade4dc7f6",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3278-2017-aleto43148.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3265-2017-aleto43015.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3265-2017-aleto43015.md",
+      "sha256": "0a9b1bc27f4df30d5761ebcacde81fd87c738f1657ae833fe987a218d8c69261",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3265-2017-aleto43015.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3264-2017-aleto42745.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3264-2017-aleto42745.md",
+      "sha256": "fbcc8d8c7bd666672a11b7aa6955ede63f236324e5a06ff8201a9c66fe332148",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3264-2017-aleto42745.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3263-2017-aleto42096.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3263-2017-aleto42096.md",
+      "sha256": "8d712538795677b7bcc2f4af99f38b35e907ad332d58dc1a1b337c67a764b057",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3263-2017-aleto42096.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3261-2017-aleto42094.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3261-2017-aleto42094.md",
+      "sha256": "2a2380d914f9157e8388cc6a4146da210e7cd0dea53fec83079d6bce4d61c478",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3261-2017-aleto42094.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3260-2017-aleto42093.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3260-2017-aleto42093.md",
+      "sha256": "10dfc480eb594fab0e122dad28b233e4e900c0063d35baecb845b55a5f26a4b8",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3260-2017-aleto42093.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3259-2017-aleto42086.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3259-2017-aleto42086.md",
+      "sha256": "b5656e349b05019daf40d6750ec8d655da6739cf2f8ec07f84429273d5ad86f7",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3259-2017-aleto42086.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3258-2017-aleto42085.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3258-2017-aleto42085.md",
+      "sha256": "d3d4a0443ceb244cf04c90aba6065c6c3f4114ec212f4c3d304ad2eadc6c666d",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3258-2017-aleto42085.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3257-2017-aleto42084.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3257-2017-aleto42084.md",
+      "sha256": "ba365cb69f10ec954fc8520c5032ca0ca5f95651569ce97564c5b3522f5cffb8",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3257-2017-aleto42084.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3256-2017-aleto42083.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3256-2017-aleto42083.md",
+      "sha256": "9c78185442cbb2eecdf876ccea577dc6413545c1dd70d48bd2c2dbc4f4303247",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3256-2017-aleto42083.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3255-2017-aleto42082.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3255-2017-aleto42082.md",
+      "sha256": "022165937cb5ede8dfb110d03b768e7eec09ab4c8e2782baaa6ce95d4c6eb605",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3255-2017-aleto42082.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3254-2017-aleto42081.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3254-2017-aleto42081.md",
+      "sha256": "8598991bad2f974cef0920e4abd7a990eb635ada42dfcdba21e79333563b1969",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3254-2017-aleto42081.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3249-2017-aleto42074.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3249-2017-aleto42074.md",
+      "sha256": "9b256f51e41cb80ecbad8bd3517a95a9c4ba84e405278c98c28f7a2a684557ef",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3249-2017-aleto42074.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3248-2017-aleto42073.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3248-2017-aleto42073.md",
+      "sha256": "7ce6b85eb66815d6cae43d4dd9559a08b496051ba6265eee786625e49ad14cf6",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3248-2017-aleto42073.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3247-2017-aleto42072.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3247-2017-aleto42072.md",
+      "sha256": "82e84ef4914869d4ec181bd71dba4be0b5f716ea3c4c64a55d1f76ac4fce3e86",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3247-2017-aleto42072.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3245-2017-aleto42070.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3245-2017-aleto42070.md",
+      "sha256": "dfb1f1782769e1680b93c34a8ed984dc2568be4db78b2cfaf02d15b3098c18db",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3245-2017-aleto42070.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3242-2017-aleto42067.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3242-2017-aleto42067.md",
+      "sha256": "9c1061d636749a5950f9785b2317770ad2667e03c6a010ef31690b104f4c182d",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3242-2017-aleto42067.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3240-2017-aleto42065.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3240-2017-aleto42065.md",
+      "sha256": "ecbe1a32d8ecf664e1f3b5fc17c4256b454defdc032a460ba94c8eaab294e08d",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3240-2017-aleto42065.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3238-2017-aleto42063.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3238-2017-aleto42063.md",
+      "sha256": "5671c4b31627bbf835dea7439334250c01eed49d30a863b9abc53eddbb49fe32",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3238-2017-aleto42063.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3237-2017-aleto42062.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3237-2017-aleto42062.md",
+      "sha256": "43c667a265e89243a709971f7a02713f798e9c3bdf080c3594ba2a3a762c2053",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3237-2017-aleto42062.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3236-2017-aleto42061.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3236-2017-aleto42061.md",
+      "sha256": "f67739887a49758c3c99037bc84e1c2fd0571f585d32e328220cc630342eb682",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3236-2017-aleto42061.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3235-2017-aleto42060.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3235-2017-aleto42060.md",
+      "sha256": "be94e5629fafc047f44ca985a14949d344189e7f19bccd25bc38b9d79862ab8f",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3235-2017-aleto42060.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3234-2017-aleto42059.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3234-2017-aleto42059.md",
+      "sha256": "223758c73337832eee0e28864f77fb00f108d2cf0143f1dba6b5b2fdc79d414b",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3234-2017-aleto42059.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3233-2017-aleto42058.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3233-2017-aleto42058.md",
+      "sha256": "15d0920a3074897b35a264a923e047e4a7121709c9da3d1e9fb1800c8e5b37d3",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3233-2017-aleto42058.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3226-2017-aleto41680.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3226-2017-aleto41680.md",
+      "sha256": "4e55842f9c1737936e46da7941b0d836547bdadd6fd010cae57bd2a8b96593ed",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3226-2017-aleto41680.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3225-2017-aleto41679.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3225-2017-aleto41679.md",
+      "sha256": "e87cb08a8170b0122f5b65fc3263413e9e23cea1c6795dcab857050aafe23c09",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3225-2017-aleto41679.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3224-2017-aleto41671.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3224-2017-aleto41671.md",
+      "sha256": "f7bbfa7db1961e9b42702c8ddbc40d1285753ba81fe1a56c54be0f9a2c12a8cf",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3224-2017-aleto41671.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3223-2017-aleto41670.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3223-2017-aleto41670.md",
+      "sha256": "c502239407bc55691f05ff79c432f6ee0df74bbe89a18f2cff650cd75e5552ed",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3223-2017-aleto41670.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3222-2017-aleto41669.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3222-2017-aleto41669.md",
+      "sha256": "bc404a7a50ab898c5767dc5ac983329ff051eb10d6092f875b0fb6e0bad65cfd",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3222-2017-aleto41669.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3221-2017-aleto41668.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3221-2017-aleto41668.md",
+      "sha256": "75aa861816de42ee59fe1b1014fb9c49b8f2d8fa7cc634da764f28808ad39d5e",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3221-2017-aleto41668.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3219-2017-aleto41666.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3219-2017-aleto41666.md",
+      "sha256": "bfd57e4890862c83c580c68242eeee16c9620c7f56e735c2a5eb0eee76e2292a",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3219-2017-aleto41666.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3216-2017-aleto41660.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3216-2017-aleto41660.md",
+      "sha256": "b70afba9035cd9310c652c96f694682cd1b3d16f5d55faa6722476541431ea42",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3216-2017-aleto41660.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3198-2017-aleto41342.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3198-2017-aleto41342.md",
+      "sha256": "3fd7bca7e6cbdfb51d3244f95f46b51c2422f14e12c4746190a344e85689d4b8",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3198-2017-aleto41342.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3197-2017-aleto41341.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3197-2017-aleto41341.md",
+      "sha256": "e5d586203e8f050bb6d0471b4aab0878cba285172a410c2a15c40e8afe089b47",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3197-2017-aleto41341.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3186-2017-aleto40692.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3186-2017-aleto40692.md",
+      "sha256": "efad3bea0777c2d9debbdf0e4d8b3376e09a8c5b0f4fccc7274528b99f2c80a1",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3186-2017-aleto40692.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3185-2017-aleto40691.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3185-2017-aleto40691.md",
+      "sha256": "1c6fe775fbfc6eb18b14f9f08becad4d528a9df7c9b88cfe069e04d54caa57f8",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3185-2017-aleto40691.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3184-2017-aleto40690.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3184-2017-aleto40690.md",
+      "sha256": "f84cc96cbf92e3306be0ef9a8a35475dd823b6f2430a33ac92356dff0a12887d",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3184-2017-aleto40690.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3183-2017-aleto40689.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3183-2017-aleto40689.md",
+      "sha256": "f4ae340d9bf8cecb2de2b03a0834264f3de6f74f29bedeaaa3b243826fa7cf86",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3183-2017-aleto40689.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3181-2017-aleto40687.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3181-2017-aleto40687.md",
+      "sha256": "60a82348829b099c87d2db493a70d5f2e03aa7a08131a1bcdf0c019d54fe5ae0",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3181-2017-aleto40687.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3180-2017-aleto40686.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3180-2017-aleto40686.md",
+      "sha256": "768f975c6642b6ae62e82ef79be329fc814641d6167535703527e43653d5e78c",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3180-2017-aleto40686.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3178-2017-aleto40640.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3178-2017-aleto40640.md",
+      "sha256": "285cc975c1ac926f7de8bf637984f941b371599661b9157efada1e62824cf864",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2017/l-3178-2017-aleto40640.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3173-2016-aleto40634.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3173-2016-aleto40634.md",
+      "sha256": "2b8e89606fd8202dc1cffb846e3692092f4d442dc258a41185f4a09ee03c43ce",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3173-2016-aleto40634.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3170-2016-aleto40629.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3170-2016-aleto40629.md",
+      "sha256": "21604653c70e8c5c865c2c0f9c5377d1dceb6c46663e74bfecee109aae078ec0",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3170-2016-aleto40629.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3169-2016-aleto40628.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3169-2016-aleto40628.md",
+      "sha256": "a6cdfb22bf74dc32edd7d563ef5e7d86039e3c7503a1ed7b8ab01020908ce08c",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3169-2016-aleto40628.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3168-2016-aleto40627.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3168-2016-aleto40627.md",
+      "sha256": "79a2942c226519eb0279ce6ad50bf18f8afc5427338043995112017be53d1fee",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3168-2016-aleto40627.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3167-2016-aleto40626.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3167-2016-aleto40626.md",
+      "sha256": "fea753dd7e04859f706bf7c2dbf93d335ec4d1f26bddb0fe6a764e7702af5d49",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3167-2016-aleto40626.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3166-2016-aleto40625.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3166-2016-aleto40625.md",
+      "sha256": "df4cd6df60579fe2ed7f891b80ba3c8caa8e16bf61c2b9bcbd448313528c2e22",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3166-2016-aleto40625.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3165-2016-aleto40624.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3165-2016-aleto40624.md",
+      "sha256": "02e2c0688bfc90d1618647c0aac5ec179ca0d23d215f3cdeb256e4ae241d1dd4",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3165-2016-aleto40624.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3164-2016-aleto40623.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3164-2016-aleto40623.md",
+      "sha256": "ef0b8cb2db5258ab8bd0cd27498a792a17b28ff2c975e7078c13b0c09688e92e",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3164-2016-aleto40623.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3163-2016-aleto40622.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3163-2016-aleto40622.md",
+      "sha256": "dbad91ff4b30b0adbbc0c0ddf2f3d0987ba385bf6168b4ca2d4d7992b30f50dd",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3163-2016-aleto40622.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3162-2016-aleto40621.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3162-2016-aleto40621.md",
+      "sha256": "b302a1110832a12f5445b5bb53d83acb589b614f1bec5bec33097247413b27ea",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3162-2016-aleto40621.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3161-2016-aleto40607.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3161-2016-aleto40607.md",
+      "sha256": "cf971c7680c0a50be4ca105d7fbfa7c390020d62870fb28da7dd4ebd37e57d49",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3161-2016-aleto40607.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3160-2016-aleto40606.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3160-2016-aleto40606.md",
+      "sha256": "7f19f0b3ef4af263b7d0a8deb5ddd455ae5af4a828e5ce584b6285c49c559736",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3160-2016-aleto40606.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3159-2016-aleto40605.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3159-2016-aleto40605.md",
+      "sha256": "abdc43ccced02a8076f1e08d546576fc8c2cb63782e47190095da7e7f6762e72",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3159-2016-aleto40605.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3158-2016-aleto40604.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3158-2016-aleto40604.md",
+      "sha256": "ba690f628e870388f6239f6036cba9cde082ffaadec2bc4bba318606015b63e3",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3158-2016-aleto40604.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3157-2016-aleto40603.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3157-2016-aleto40603.md",
+      "sha256": "0fd712c1b09394c7e5d428b9f3953b6a36b9ce13e44b2d2a7af65e87481f00aa",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3157-2016-aleto40603.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3156-2016-aleto40602.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3156-2016-aleto40602.md",
+      "sha256": "34a7ae2cd04d9ef2b3319413464855734bb2b389c7d2fe99d12a7f220153d117",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3156-2016-aleto40602.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3155-2016-aleto40601.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3155-2016-aleto40601.md",
+      "sha256": "aee65cbec170985b7421652158a766e537ec1889d7a5249ddd27ec3b144558f4",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3155-2016-aleto40601.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3148-2016-aleto40462.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3148-2016-aleto40462.md",
+      "sha256": "b309bdde5d84af42e5f81cdea5072f38c3aff930a541c04b83d4cc3b28a8ac0e",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3148-2016-aleto40462.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3146-2016-aleto40337.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3146-2016-aleto40337.md",
+      "sha256": "ed8c1fe283b126df55ac6c98148afe48180e656a36b4fe995b3ac7c5712c567e",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3146-2016-aleto40337.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3145-2016-aleto40336.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3145-2016-aleto40336.md",
+      "sha256": "edc4420c0576e15727e31407511a0afc42f91ec06f34e262a53d84abc5b29d92",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3145-2016-aleto40336.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3144-2016-aleto40335.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3144-2016-aleto40335.md",
+      "sha256": "4d76965619bd84917d3e3a7fffa8e38811baa6ce16fd2c6ee83c29d6a7ac91f9",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3144-2016-aleto40335.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3143-2016-aleto40334.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3143-2016-aleto40334.md",
+      "sha256": "651e9da5ad4511f63825c1bc9be7a8acc72402309142db5d02fc545aa4ab506e",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3143-2016-aleto40334.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3142-2016-aleto40333.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3142-2016-aleto40333.md",
+      "sha256": "04b173e971a416cab1110e803b3755a639896c19bd43a5d8529eb7397b14a178",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3142-2016-aleto40333.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3141-2016-aleto40332.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3141-2016-aleto40332.md",
+      "sha256": "6295f0dea50da9ef38241a38782b928e2f331fea6e2a6020f01c85e723f17aa3",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3141-2016-aleto40332.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3140-2016-aleto40331.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3140-2016-aleto40331.md",
+      "sha256": "256690b56283b143b84ebe0b093c73fd6a65107304dd74127ec49895912e60a4",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3140-2016-aleto40331.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3139-2016-aleto40330.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3139-2016-aleto40330.md",
+      "sha256": "91ad2a0f2e161345e3d15957fdd0b3dfbc269b3c98097ed75a51a272937a1971",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3139-2016-aleto40330.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3138-2016-aleto40224.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3138-2016-aleto40224.md",
+      "sha256": "2b1ae378978ae2c93a90a48a6c9a35fcd0b2fbc7a3366b7c39711e341b8de072",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3138-2016-aleto40224.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2016/l-3137-2016-aleto40223.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2016/l-3137-2016-aleto40223.md",
+      "sha256": "90833445eb5edd9b082604eecb82b6841ab72cd9a02d57fa96cddd84da21374b",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2016/l-3137-2016-aleto40223.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2010/l-2424-2010-aleto26413.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2010/l-2424-2010-aleto26413.md",
+      "sha256": "829c5db161a879f5d606edd0ad5b191b8a3195c48f00aa339ac0a560a497ab8d",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2010/l-2424-2010-aleto26413.md"
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2019/l-3631-2019-aleto51134.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2019/l-3631-2019-aleto51134.md",
+      "sha256": "f9f77d30c1adfcb460321cefd54aa5bb9a0a211f910228fd4b9ab08e10005b8c",
+      "preimagem_destino": "ausente em disco e HEAD",
+      "backup_candidato": "estaduais/TO/_fonte/auditorias/to178-ROOT-apply-20261028/backup/estaduais/TO/leis-ordinarias/2019/l-3631-2019-aleto51134.md"
+    }
+  ],
+  "limite": "Commit/push não executados. Atomicidade por arquivo, não global; journal registra progresso para recuperação ROOT."
+}

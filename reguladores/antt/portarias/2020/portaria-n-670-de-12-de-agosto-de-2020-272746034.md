@@ -1,0 +1,48 @@
+---
+titulo: "PORTARIA Nº 670, DE 12 DE AGOSTO DE 2020"
+orgao: "Ministério da Infraestrutura/Agência Nacional de Transportes Terrestres/Superintendência de Serviços de Transporte Rodoviário de Passageiros"
+tipo: "Portaria"
+numero: "670"
+data: 2020-08-12
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 18/08/2020, seção 1, p. 203"
+data_publicacao: 2020-08-18
+edicao: "158"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-670-de-12-de-agosto-de-2020-272746034"
+sha256_html_fonte: 731cabe27549945b98cc0c269cd8b2ab8327da45ad16c97df2659c17e9d5c609
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 670, DE 12 DE AGOSTO DE 2020
+
+PORTARIA Nº 670, DE 12 DE AGOSTO DE 2020
+
+A SUPERINTENDENTE SUBSTITUTA DE SERVIÇOS DE TRANSPORTE RODOVIÁRIO DE PASSAGEIROS DA AGÊNCIA NACIONAL DE TRANSPORTES TERRESTRES - ANTT, no uso de suas atribuições, e em conformidade com o art. 8º da Resolução nº 5.818, de 03 de maio de 2018, e CONSIDERANDO a ação ordinária autuada sob o número 5002645-80.2019.4.04.7118/RS , processo de referência nº 00618.009197/2020-46 o que consta no processo nº 50500.023256/2019-41, resolve:
+
+**Art. 1º** Deferir o pedido da empresa LOPES & OLIVEIRA TRANSPORTES E TURISMO LTDA, CNPJ nº 05.423.509/0001-60 para a inclusão dos mercados a seguir em sua Licença Operacional - LOP, de número 138:
+
+I- De: ALTO ARAGUAIA/MT para: JUNDIAÍ/SP, LIMEIRA/SP e SANTA RITA DO ARAGUAIA/GO;
+
+II- De: ALTO GARÇAS/MT para: CATANDUVA/SP, JUNDIAÍ/SP, LIMEIRA/SP e RIO CLARO/SP;
+
+III- De: CUIABÁ/MT para: JUNDIAÍ/SP e LIMEIRA/SP;
+
+IV- De: JATAÍ/GO para: AMERICANA/SP, CATANDUVA/SP, FERNANDÓPOLIS/SP, JALES/SP, JUNDIAÍ/SP, RIO CLARO/SP, SANTA FÉ DO SUL/SP, SÃO CARLOS/SP e SÃO PAULO/SP;
+
+V- De: MINEIROS/GO para: AMERICANA/SP, ARARAQUARA/SP, CATANDUVA/SP, FERNANDÓPOLIS/SP, JALES/SP, JUNDIAÍ/SP, RIO CLARO/SP, SANTA FÉ DO SUL/SP, SÃO CARLOS/SP, SÃO PAULO/SP e VOTUPORANGA/SP;
+
+VI-De: PRIMAVERA DO LESTE/MT para: SÃO PAULO/SP;
+
+VII- De: RIO VERDE/GO para: AMERICANA/SP, ARARAQUARA/SP, CATANDUVA/SP, FERNANDÓPOLIS/SP, JALES/SP, JUNDIAÍ/SP, RIO CLARO/SP, SANTA FÉ DO SUL/SP, SÃO CARLOS/SP, SÃO PAULO/SP, SÃO JOSÉ DO RIO PRETO/SP e VOTUPORANGA/SP;
+
+VIII- De: RONDONÓPOLIS/MT para: JUNDIAÍ/SP e LIMEIRA/SP;
+
+IX- De: SANTA RITA DO ARAGUAIA/GO para: CAMPO VERDE/MT, CATANDUVA/SP e RIO CLARO/SP;
+
+X- De: VÁRZEA GRANDE/MT para: AMERICANA/SP, SÃO PAULO/SP, APARECIDA DO TABOADO/MS, ARARAQUARA/SP, CAMPINAS/SP, CATANDUVA/SP, FERNANDÓPOLIS/SP, JALES/SP, JUNDIAÍ/SP, LIMEIRA/SP, PARANAÍBA/MS, RIO CLARO/SP, SANTA FÉ DO SUL/SP, SANTA RITA DO ARAGUAIA/GO, SÃO CARLOS/SP, SÃO JOSÉ DO RIO PRETO/SP e VOTUPORANGA/SP;
+
+**Art. 2º** Conhecer os pedidos de impugnação das empresas EXPRESSO ITAMARATI S.A.CNPJ nº 59.965.038/0001-41, VIAÇÃO COMETA S/A, CNPJ nº 61.084.018/0001-03, EMPRESA GONTIJO DE TRANSPORTES LIMITADA CNPJ nº 16.624.611/0001-40, CONSÓRCIO GUANABARA DE TRANSPORTES CNPJ nº 23.542.573/0001-42, REUNIDAS TURISMO S.A, CNPJ nº 04.176.082/0001-80 e EMPRESA DE TRANSPORTES ANDORINHA S/A CNPJ nº 55.334.262/0001-84 e no mérito negar-lhes provimento.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+Priscilla Nunes de Oliveira

@@ -1,0 +1,784 @@
+---
+titulo: "Decreto nº 17.567, de 26 de agosto de 2021"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "17.567"
+data: "2021-08-26"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/13555"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/2032/text"
+sha256_fonte: "00706fad680abfceb0e8f974fdb60eb26df8e91bdcea5c2fe0ebad247bd418f1"
+sha256_texto: "6c163ad638a1a0d9aad90249624bbb81fa76fb2f217a51898abf457425374ac9"
+capturado_em_fonte: "2026-10-21T06:59:47.755177-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 17.567, de 26 de agosto de 2021
+
+Regulamenta a Zona Urbana de Restrição de circulação de veículos de carga e de operação de serviço de carga e descarga no Município de Porto Velho, e dá outras providências.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, no uso das atribuições que lhessão conferidas nos incisos III e IV do art. 87 e com base no disposto no inciso X, do art. 7º, todos da Lei Orgânica do Município de Porto Velho e tendo em vista o que consta no Proc. nº 14.00389-000/2021.
+
+**DECRETA:**
+
+
+Art. 1º.
+
+Fica regulamentada a Zona Urbana de Restrição de circulação de veículos de carga e de operação de serviço de carga e descarga no Município de Porto Velho, nos termos da Lei nº 2.785, de 08 de janeiro de 2021.
+
+
+Art. 2º.
+
+A Autorização Especial de Trânsito – AET será expedida pela Secretaria Municipal de Trânsito, Mobilidade e Transportes – SEMTRAN.
+
+
+§ 1º
+
+A competência para expedição da Autorização Especial de Trânsito é do Secretário Municipal de Trânsito, Mobilidade e Transportes.
+
+
+§ 2º
+
+A SEMTRAN deverá efetuar o cadastro prévio dos veículos para a emissão da Autorização Especial de Trânsito.
+
+
+#### CAPÍTULO I — DAS DEFINIÇÕES
+
+
+Art. 3º.
+
+Dependem de Autorização Especial de Trânsito todos os veículos com PBT (peso bruto total) acima de 10 (dez) toneladas para circular fora dos horários ou das áreas não permitidas, em especial:
+
+
+I –
+
+para o transporte de cargas especiais, conforme legislação específica;
+
+
+II –
+
+para o transporte de produtos perigosos (explosivos, gases, líquidos inflamáveis, sólidos inflamáveis, substâncias oxidantes, substâncias tóxicas venenosas, materiais radioativos, corrosivos, substâncias perigosas diversas), exceto o abastecimento de combustíveis (Lei nº 11.097/2005);
+
+
+III –
+
+para os serviços de jardinagem como: regamento, manutenção, construção e podas de árvores;
+
+
+IV –
+
+os veículos de reportagem para cobertura jornalística;
+
+
+V –
+
+os veículos para o serviço de execução de obras da construção civil;
+
+
+VI –
+
+para remoção de terra/entulho e transporte de caçamba;
+
+
+VII –
+
+os veículos de concretagem;
+
+
+VIII –
+
+os veículos de concretagem bomba;
+
+
+IX –
+
+os veículos com acesso a estacionamento próprio;
+
+
+X –
+
+os veículos transportando materiais para feira livre;
+
+
+XI –
+
+os transportadores autônomos (Veículo de Mudança, frete e outros);
+
+
+XII –
+
+o transporte de produtos perecíveis;
+
+
+XIII –
+
+o transporte de máquinas, equipamentos e materiais de construção;
+
+
+XIV –
+
+o transporte de materiais de construção em semirreboque, projetados e para uso exclusivo em serviço.
+
+
+Art. 4º.
+
+Ficam isentos de Autorização Especial de Trânsito:
+
+
+I –
+
+os destinados à manutenção e reparo de redes de energia elétrica, de água e esgotos, de gás combustível canalizado e de comunicações;
+
+
+II –
+
+os que se destinam à conservação, manutenção e sinalização viária, quando a serviço de órgão executivo de trânsito ou executivo rodoviário;
+
+
+III –
+
+os destinados ao socorro mecânico de emergência nas vias abertas à circulação pública;
+
+
+IV –
+
+os veículos especiais destinados ao transporte de valores;
+
+
+V –
+
+os veículos destinados ao serviço de escolta, quando registrados em órgão rodoviário para tal finalidade;
+
+
+VI –
+
+os veículos especiais destinados ao serviço da Administração Pública;
+
+
+VII –
+
+os veículos vinculados à prestação do serviço de transportes regulamentados pelo município de Porto Velho e autorizados pela SEMTRAN.
+
+
+Art. 5º.
+
+Os veículos isentos de Autorização Especial de Trânsito gozarão de livre parada e estacionamento, independentemente de proibições ou restrições estabelecidas na legislação de trânsito ou através de sinalização regulamentar, quando se encontrarem:
+
+
+I –
+
+em efetiva operação no local de prestação dos serviços a que se destinarem;
+
+
+II –
+
+devidamente identificados pela energização ou acionamento do dispositivo luminoso e utilizando dispositivo de sinalização auxiliar que permita aos outros usuários da via enxergarem em tempo hábil o veículo prestador de serviço de utilidade pública.
+
+
+Parágrafo único
+
+Não se aplica o disposto neste artigo aos veículos previstos nos incisos VI e VII, do Art. 4º.
+
+
+Art. 6º.
+
+Os demais veículos não especificados neste Decreto serão analisados a fim de conceder a Autorização Especial de Trânsito.
+
+
+Art. 7º.
+
+Fica autorizada, mediante Autorização Especial de Trânsito, por período integral, a circulação do veículo de reportagem destinado à movimentação de geradores e/ou de link desde que para coberturas jornalísticas.
+
+
+§ 1º
+
+Entende-se por link, para os efeitos deste Decreto, o equipamento que permita a transmissão de dados, voz, sinais, imagens e informações a longa distância.
+
+
+§ 2º
+
+Fica autorizado o estacionamento, na situação prevista no caput deste artigo, desde que não prejudique a segurança e a fluidez do trânsito, a critério do agente da autoridade de trânsito, devendo o condutor permanecer no veículo.
+
+
+Art. 8º.
+
+Fica autorizada, mediante Autorização Especial de Trânsito, por período integral, a circulação de veículo que se encontre exclusivamente no trajeto de entrada ou saída de vaga própria, ou locada para fins de estacionamento próprio, em imóveis na Zona de Restrição Máxima.
+
+
+Parágrafo único
+
+A Autorização Especial de Trânsito deverá identificar o itinerário e horário permitido, conforme sua especificidade.
+
+
+Art. 9º.
+
+Fica autorizado, mediante Autorização Especial de Trânsito, por período integral, o trânsito de veículo para acesso às feiras livres localizadas na Zona Urbana de Restrição.
+
+
+Parágrafo único
+
+O veículo citado no caput deste artigo deverá portar, obrigatoriamente, matrícula de feirante e, caso não seja de propriedade do feirante, qualquer documento comprobatório de que o veículo é destinado à prestação de serviços de feira livre.
+
+
+Art. 10.
+
+Fica autorizado, mediante Autorização Especial de Trânsito, o trânsito de veículo em prestação de serviços de mudança e de frete, entre outros, na Zona de Restrição Urbana, das 8h30min às 11h30min, das 14h30min às 17h00min e das 20:00 h às 6:00 h, aos sábados e domingos, em período integral, com porte de comprovante contendo referência da via ou logradouro a ser acessado e com itinerário definido.
+
+
+Art. 11.
+
+Fica autorizado, mediante Autorização Especial de Trânsito, em período integral, o trânsito de veículo para entrega de produtos perecíveis, com itinerário definido.
+
+
+§ 1º
+
+No caso da entrega já ter sido efetuada, o veículo deverá portar comprovante de entrega com data e hora de recebimento.
+
+
+§ 2º
+
+Entende-se por produtos perecíveis, para efeitos deste Decreto, todo o produto alterável ou não estável à temperatura ambiente, conforme descritos a seguir:
+
+
+I –
+
+ovos e seus subprodutos;
+
+
+II –
+
+todos os alimentos, processados ou não, congelados ou supergelados;
+
+
+III –
+
+proteína animal;
+
+
+IV –
+
+leite in natura e derivados;
+
+
+V –
+
+leveduras e fermentos;
+
+
+VI –
+
+gelo;
+
+
+VII –
+
+frutas, legumes, hortaliças, cogumelos frescos ou crus, processados ou não;
+
+
+VIII –
+
+especiarias;
+
+
+IX –
+
+produtos de tabacos;
+
+
+X –
+
+flores ou plantas;
+
+
+XI –
+
+todos os alimentos, que necessitem estar obrigatoriamente em temperaturas estabelecidas por legislação específica.
+
+
+Art. 12.
+
+Fica autorizado, mediante Autorização Especial de Trânsito, o trânsito de veículo para remoção de terra e entulho e transporte de caçamba em obras, em horários estabelecidos em legislação específica.
+
+
+Art. 13.
+
+Fica autorizado, mediante Autorização Especial de Trânsito, o trânsito de veículos destinados ao transporte de produtos perigosos, para fins de abastecimento no local, desde que identificados na forma estabelecida pela legislação específica, observadas as normas para este tipo de transporte.
+
+
+Art. 14.
+
+Fica autorizado, mediante Autorização Especial de Trânsito, o trânsito dos veículos destinados a puxar ou arrastar maquinaria de qualquer natureza ou a executar trabalhos agrícolas e de construção, de pavimentação ou guindastes (máquinas de elevação), das 20:00 h às 6:00 h, de segunda a sexta, e a partir das 14:00 h, aos sábados, na Zona Urbana de Restrição.
+
+
+§ 1º
+
+Excepcionalmente a SEMTRAN poderá conceder Autorização Especial de Trânsito para veículos de maior porte com necessidades peculiares, desde que observados os requisitos para o trânsito, em via pública, previstos na Resolução nº 454/2013/CONTRAN, ou outra que venha substituí-la.
+
+
+§ 2º
+
+O trânsito dos veículos de que trata o caput poderá ser autorizado em horários excepcionais, a critério da SEMTRAN, em situações com necessidades próprias.
+
+
+§ 3º
+
+É vedado o trânsito em via pública aberta à circulação de tratores de esteiras.
+
+
+#### CAPÍTULO II — DO CADASTRAMENTO
+
+
+Art. 15.
+
+O requerimento para emissão da Autorização Especial de Trânsito – AET deverá ser apresentado com os seguintes documentos:
+
+
+I –
+
+Para Pessoa Física:
+
+
+a)
+
+cópia do Registro Geral (RG) ou Registro Nacional de Estrangeiros (RNE);
+
+
+b)
+
+cópia do Cadastro de Pessoa Física (CPF);
+
+
+c)
+
+apresentar comprovante de residência atualizado do Município de Porto Velho;
+
+
+d)
+
+prova da regularidade fiscal perante as Fazendas Federal, Estadual e Municipal;
+
+
+e)
+
+requerimento em formulário específico a ser estabelecido pela Secretaria Municipal de Trânsito, Mobilidade e Transportes – SEMTRAN;
+
+
+f)
+
+cópia do certificado de propriedade do veículo – CRV e licenciamento do veículo – CRLV em nome da requerente, ou como arrendatária no caso de arrendamento mercantil ou leasing, ou da locadora, no caso de contrato de locação;
+
+
+g)
+
+contrato de arrendamento ou de locação, se houver.
+
+
+II –
+
+Para Pessoa Jurídica:
+
+
+a)
+
+cópia da inscrição no Cadastro Nacional da Pessoa Jurídica – CNPJ;
+
+
+b)
+
+prova da regularidade fiscal perante as Fazendas Federal, Estadual e Municipal;
+
+
+c)
+
+requerimento em formulário específico a ser estabelecido pela Secretaria Municipal de Trânsito, Mobilidade e Transportes – SEMTRAN;
+
+
+d)
+
+apresentar comprovante de residência atualizado do Município de Porto Velho;
+
+
+e)
+
+cópia do certificado de propriedade do veículo - CRV e licenciamento do veículo - CRLV em nome da requerente, ou como arrendatária no caso de arrendamento mercantil ou leasing, ou da locadora, no caso de contrato de locação;
+
+
+f)
+
+contrato de arrendamento ou de locação, se houver;
+
+
+g)
+
+procuração específica, quando for o caso.
+
+
+§ 1º
+
+Deverá ser apresentado o contrato de locação ou de arrendamento mercantil, ou leasing, ou declaração da empresa contratante,nos casos em que o veículo não estiver em nome da requerente.
+
+
+§ 2º
+
+Para fins de comprovante de residência atualizado considerar-se-á a data não superior a 60 (sessenta) dias;
+
+
+§ 3º
+
+A prova da regularidade fiscal dar-se-á mediante a apresentação de certidão negativa ou positiva com efeitos negativos relativo aos créditos tributários federal, estadual e municipal.
+
+
+§ 4º
+
+Além dos documentos exigidos nesse artigo deverão ser apresentados documentos acessórios que comprovem a necessidade do tráfego do veículo em horários ou áreas não permitidas, de forma intermitente ou contínua, dentro do município de Porto Velho, conforme especificado a seguir:
+
+
+I –
+
+cobertura jornalística: fotografia que permita constatar que o veículo possui equipamento de link ou de geradores de imagem;
+
+
+II –
+
+acesso a estacionamento próprio: comprovante de vínculo do beneficiário com o imóvel;
+
+
+III –
+
+concretagem bomba: contrato ou declaração de prestação de serviços onde conste o tipo do serviço;
+
+
+IV –
+
+feiras livres: matrícula de feirante junto à Prefeitura;
+
+
+V –
+
+transportadores autônomos (mudanças e fretes): declaração e ponto de estacionamento;
+
+
+VI –
+
+transporte de produtos perecíveis: declaração e/ou comprovante do serviço de entrega de produtos perecíveis;
+
+
+VII –
+
+transporte de produtos perigosos de consumo local: documento que comprove a prestação do serviço de transporte de produtos perigosos de consumo local.
+
+
+Art. 16.
+
+A Autorização Especial de Trânsito terá validade de 12 (doze) meses, podendo ser renovada sucessivamente, preenchidas as condições previstas neste Decreto.
+
+
+#### CAPÍTULO III — DA EMISSÃO DA AUTORIZAÇÃO ESPECIAL DE TRÂNSITO – AET
+
+
+Art. 17.
+
+A Autorização Especial de Trânsito será emitida observando-se os horários e condições estabelecidos para cada situação e deverá conter:
+
+
+I –
+
+o nome do interessado (pessoa física ou jurídica) e CPF/CNPJ;
+
+
+II –
+
+os dados do veículo (placa, marca, RENAVAM e PBT do veículo);
+
+
+III –
+
+o número da autorização;
+
+
+IV –
+
+o prazo de validade;
+
+
+V –
+
+os horários e/ou áreas autorizadas;
+
+
+VI –
+
+o tipo de atividade ou serviço;
+
+
+VII –
+
+o itinerário a ser obedecido, se for o caso.
+
+
+Art. 18.
+
+O beneficiário do cadastro e da Autorização Especial de Trânsito é responsável por:
+
+
+I –
+
+garantir a veracidade dos dados fornecidos para sua obtenção, sob pena de responsabilização civil, penal e administrativa;
+
+
+II –
+
+observar as condições estabelecidas neste Decreto e demais normas pertinentes, além das descritas na Autorização Especial de Trânsito;
+
+
+III –
+
+comunicar à SEMTRAN os casos de alteração das condições que ensejaram a efetivação do cadastro e Autorização Especial de Trânsito, bem como alteração de dados cadastrais;
+
+
+IV –
+
+promover a atualização do cadastro quando solicitado pela SEMTRAN;
+
+
+V –
+
+restituir a Autorização Especial de Trânsito quando solicitado pela SEMTRAN ou quando alteradas as condições que ensejaram sua concessão;
+
+
+VI –
+
+comunicar de imediato à SEMTRAN os casos de extravio, roubo ou furto da Autorização Especial de Trânsito, apresentando cópia do Boletim de Ocorrência.
+
+
+Art. 19.
+
+Para a renovação da Autorização Especial de Trânsito o interessado deverá apresentar toda documentação prevista para o cadastramento.
+
+
+Art. 20.
+
+A segunda via da Autorização Especial de Trânsito poderá ser requerida em caso de extravio, furto, roubo ou dano, mediante a apresentação:
+
+
+I –
+
+requerimento de solicitação de segunda via;
+
+
+II –
+
+autorização Especial de Trânsito – AET danificada;
+
+
+III –
+
+cópia do Boletim de Ocorrência – BO, no caso de Autorização Especial de Trânsito – AET extraviada, furtada ou roubada;
+
+
+IV –
+
+pagamento da taxa pertinente.
+
+
+Art. 21.
+
+Poderá ser requerida a substituição do veículo, objeto do cadastro e da Autorização Especial de Trânsito válida, com a apresentação dos seguintes documentos:
+
+
+I –
+
+requerimento solicitando a substituição do veículo;
+
+
+II –
+
+a Autorização Especial de Trânsito do veículo a ser substituído;
+
+
+III –
+
+CRLV do novo veículo;
+
+
+IV –
+
+comprovante de vínculo para caso do veículo que não seja de propriedade do beneficiário;
+
+
+Parágrafo único
+
+A SEMTRAN poderá solicitar outros documentos que julgar necessário, conforme o caso.
+
+
+Art. 22.
+
+A Autorização Especial de Trânsito somente tem validade no original e deverá ser afixada na parte interna da cabine, no para-brisa do veículo com a frente visível à ação da fiscalização.
+
+
+Parágrafo único
+
+No caso de ser solicitada uma segunda Autorização Especial de Trânsito, para o mesmo veículo, para outra condição, esta também deverá ser afixada no para-brisa.
+
+
+Art. 23.
+
+Deverão ser respeitadas as condições indicadas na Autorização Especial de Trânsito para fins de estacionamento, nas situações previstas neste Decreto e demais legislações.
+
+
+Art. 24.
+
+Entende-se por comprovante de serviço, para efeitos deste Decreto, nota fiscal, ordem de serviço ou documento similar que comprove a necessidade de ingresso no local.
+
+
+#### CAPÍTULO IV — DOS RECURSOS
+
+
+Art. 25.
+
+Em face das penalidades impostas pelo Município, caberá recurso no prazo de 30 (trinta) dias, que deverá ser interposto perante a Autoridade de Transportes, a qual remetê-lo-á a Comissão de Apuração de Auto de Infração – CAAI.
+
+
+§ 1º
+
+Inicia-se o prazo para apresentação do recurso na data do recebimento do auto de infração por meio pessoal, postal, eletrônico ou publicado no Diário Oficial do Município – DOM.
+
+
+§ 2º
+
+O recurso não terá efeito suspensivo.
+
+
+§ 3º
+
+O recurso poderá ser interposto pelo requerente, pelo condutor ou titular de direito que for parte no processo.
+
+
+§ 4º
+
+Salvo exigência legal, a interposição do recurso independe de caução.
+
+
+§ 5º
+
+A notificação devolvida por desatualização do endereço do proprietário do veículo será considerada válida para todos os efeitos.
+
+
+§ 6º
+
+A não apresentação de defesa no prazo estipulado implicará na aplicação da penalidade correspondente.
+
+
+§ 7º
+
+A Comissão de Apuração de Auto de Infração – CAAI, terá o prazo de 30 (trinta) dias para análise, deferimento ou indeferimento do recurso, contados a partir do seu recebimento, podendo este ser prorrogado por igual período uma única vez.
+
+
+§ 8º
+
+Julgado improcedente o recurso, a decisão administrativa se torna definitiva.
+
+
+§ 9º
+
+Decorrido o prazo sem a interposição de recurso, ou do indeferimento deste, o valor da multa deverá ser pago dentro do prazo de 30 (trinta) dias, sob pena de sua inscrição em dívida ativa.
+
+
+§ 10
+
+Se o valor da multa já tiver sido recolhido, havendo apresentado recurso e cancelado o Auto de Infração, a importância paga ser-lhe-á restituída de acordo com o procedimento previsto no Código Tributário Municipal.
+
+
+§ 11
+
+Para recurso em face às penalidades de trânsito, deverá ser obedecida as regras do CTB e demais resoluções do CONTRAN.
+
+
+#### CAPÍTULO V — DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
+
+
+Art. 26.
+
+Enquadra-se nas disposições deste regulamento todo veículo que, dentro das condições especificadas, tenha necessidade de transitar nas vias e logradouros públicos onde houver restrição ao trânsito.
+
+
+§ 1º
+
+O trânsito dos veículos descritos a seguir, com ou sem carga, deve ser realizado com respeito às disposições legais e regulamentares específicas, subordinando-se, no que couber, ao disposto neste Decreto e demais normas complementares:
+
+
+I –
+
+com dimensões e/ou peso que excedam os limites estabelecidos pelo Conselho Nacional de Trânsito – CONTRAN;
+
+
+II –
+
+especiais;
+
+
+III –
+
+de transporte de produtos perigosos.
+
+
+§ 2º
+
+Não se enquadram nas disposições deste Decreto vias com restrição ao trânsito de veículos em razão de características de natureza física, tais como as decorrentes de limitação de altura e largura, de pavimento, solo e subsolo ou de aclive, declive ou curva acentuados, devendo ser observada a sinalização local específica.
+
+
+Art. 27.
+
+O Secretário da Secretaria Municipal de Trânsito, Mobilidade e Transportes poderá alterar, suspender ou revogar o cadastro e a Autorização Especial de Trânsito, a qualquer tempo, por motivo técnico e, ainda, em caso de sua utilização irregular, observado o interesse público.
+
+
+Art. 28.
+
+Constitui dever dos motoristas dos veículos a fiel observância dos preceitos do Código de Trânsito Brasileiro – CTB, respeito às demais disposições legais vigentes e à sinalização de regulamentação das demais condições de circulação, estacionamento e parada estabelecidas nos locais de prestação dos serviços, respondendo o infrator por eventuais irregularidades constatadas.
+
+
+Art. 29.
+
+As autorizações emitidas nos termos deste Decreto não desobrigam o usuário da utilização de outras autorizações exigidas, bem como de cartões em áreas de estacionamento rotativo pago ou do pagamento de taxa pública quando exigidos, e nem da observância das demais normas legais vigentes.
+
+
+Art. 30.
+
+A fiscalização das disposições estabelecidas por este Decreto será efetuada pelos fiscais e agentes competentes que verificarão a conformidade do trânsito em relação aos horários, locais e condições estabelecidas pelo presente Decreto.
+
+
+§ 1º
+
+Os fiscais e agentes competentes poderão solicitar, a qualquer momento, a imobilização do veículo para a adequada fiscalização do disposto neste Decreto.
+
+
+§ 2º
+
+Os fiscais e agentes competentes têm poder de polícia administrativa, podendo requisitar força policial no estrito cumprimento do seu dever legal.
+
+
+Art. 31.
+
+Os casos não previstos por este Decreto poderão ser objeto de análise e decisão conjunta dos Departamentos de Trânsito, Mobilidade e Transportes da SEMTRAN.
+
+
+Art. 32.
+
+Este Decreto entrará em vigor a partir da data de sua publicação.
+
+
+**HILDON DE LIMA CHAVES**
+
+**Prefeito**
+
+MAURO RONALDO FLÔRES CORRÊA
+
+Secretário Municipal de Trânsito, Mobilidade e Transportes
+

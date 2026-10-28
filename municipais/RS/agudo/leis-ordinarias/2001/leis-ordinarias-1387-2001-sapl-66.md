@@ -1,0 +1,107 @@
+---
+titulo: "Lei nº 1.387, de 28 de novembro de 2001"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1387"
+data: "2001-11-28"
+municipio: "Agudo"
+uf: "RS"
+codigo_ibge: "4300109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.agudo.rs.leg.br/norma/66"
+fonte_texto: "https://sapl.agudo.rs.leg.br/ta/978/text"
+sha256_fonte: "9c51ec5cc30c9c10898b4a11c123b97ae1ac4c23b9c92d8c562484193c89c20a"
+sha256_texto: "bdbd22e2e215444b3fe883fb6851a1d8a2cc02d75c230f96d490a7cb409ce0a8"
+capturado_em_fonte: "2026-10-27T20:58:51.949544-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.387, de 28 de novembro de 2001
+
+AUTORIZA O PODER EXECUTIVO A PERMITIR O USO DE IMÓVEL DO MUNICÍPIO.
+
+
+LAURO REINOLDO REETZ, PREFEITO MUNICIPAL DE AGUDO,
+
+FAÇO SABER, que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a permitir o uso de imóvel de propriedade do Município, bem como os bens móveis e utensílios devidamente inventariados, à Associação Espírita Beneficente Caravana da Solidariedade, pelo prazo de 02 (dois) anos, mediante a celebração de Termo de Permissão de Uso Gratuito de Imóvel, de acordo com as condições estabelecidas no Termo de Permissão de Uso, que fica fazendo parte desta Lei.
+
+
+Parágrafo único.
+
+O imóvel de que trata este artigo possui as seguintes características: prédio em alvenaria, medindo 15,70m de comprimento por 13,60m de largura, totalizando 213,52 m² de área construída, cobertura de telha de aço zincado, sito na Avenida Concórdia, nº 905 em Agudo.
+
+
+Art. 2º.
+
+O uso permitido por esta Lei deverá respeitar o horário e demais peculiaridades de utilização do prédio, por estruturas e/ou órgãos da Administração Direta.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 4º.
+
+Revogam-se as disposições em contrário.
+
+
+GABINETE DO PREFEITO, aos 28 de novembro de 2001; 144º da Colonização e 42º da Emancipação.
+
+LAURO REINOLDO REETZ
+
+Prefeito Municipal
+
+Registre-se e publique-se.
+
+HASSO HARRAS BRÄUNIG
+
+Sec. Mun. de Administração
+
+
+TERMO DE PERMISSÃO DE USO
+
+
+Termo de Permissão de Uso Gratuito de Imóvel que, entre si, fazem o MUNICÍPIO DE AGUDO E A ASSOCIAÇÃO ESPÍRITA BENEFICENTE CARAVANA DA SOLIDARIEDADE, conforme autorização da Lei Municipal nº....../......  
+  
+Entre partes, de um lado o Município de Agudo, de ora em diante designado simplesmente MUNICÍPIO, representado por seu Prefeito, Sr. LAURO REINOLDO REETZ e, de outro lado, a ASSOCIAÇÃO ESPÍRITA BENEFICENTE CARAVANA DA SOLIDARIEDADE, inscrita no CNPJ/MF sob o nº......................, de ora em diante designada ASSOCIAÇÃO, neste ato representada por seu Presidente, Sr. .................. brasileiro, ................, firmam o presente Termo, que se regerá pelas seguintes cláusulas:  
+  
+OBJETO
+
+1.1 – O MUNICÍPIO permite o uso à ASSOCIAÇÃO, para uso exclusivo no desenvolvimento de suas atividades estatutárias, o imóvel localizado na Avenida Concórdia, nº 905.  
+1.2 – O imóvel tem as seguintes características: prédio em alvenaria, medindo 15,70 m de comprimento por 13,60 m de largura, totalizando 213,52 m² de área construída com cobertura de telha de aço zincado.
+
+RESPONSABILIDADES E OBRIGAÇÕES
+
+2.1 – A ASSOCIAÇÃO responsabiliza-se integralmente pela utilização do imóvel e de seus bens móveis e utensílios.  
+2.2 – A ASSOCIAÇÃO é responsável, ainda, pelo pagamento integral de todos os prejuízos eventualmente ocasionados no bem imóvel, bem como em seus móveis e utensílios.
+
+PRAZO
+
+3.1 – O prazo da presente Permissão de Uso é de 02 (dois) anos, contados da data deste instrumento, podendo ser prorrogado por períodos iguais e sucessivos períodos.
+
+REVOGAÇÃO E DEVOLUÇÃO
+
+4.1 – Sempre que entender conveniente, dosados os critérios de oportunidade e conveniência, poderá a Administração revogar o presente ato, notificando a Associação nos três meses anteriores ao término dos dois anos de duração do ato.
+
+4.2 – O presente Termo poderá ser rescindido pelo MUNICÍPIO, na hipótese de descumprimento, pela ASSOCIAÇÃO, de qualquer das obrigações estabelecidas nos itens 2.1 e 2.2, bastando, para tanto, comunicação escrita firmada pelo Prefeito Municipal.
+
+4.3 – Revogado o Termo, a ASSOCIAÇÃO fica obrigada a devolver o imóvel em perfeitas condições de uso.
+
+Agudo, ..........de.......................de...................
+
+LAURO REINOLDO REETZ
+
+Prefeito Municipal
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
+PRESIDENTE DA ASSOCIAÇÃO
+

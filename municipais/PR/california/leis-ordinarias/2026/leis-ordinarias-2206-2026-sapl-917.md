@@ -1,0 +1,288 @@
+---
+titulo: "Lei Ordinária Municipal nº 2.206, de 12 de junho de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "2206"
+data: "2026-06-12"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/917"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/880/text"
+sha256_fonte: "44274d9af657fc23a9b974b911afddf541b5dc357fb37d56cbafaf2245d9849d"
+sha256_texto: "907586ba2999b42770951020338bb0638d5ba20338bbacbdfdb57f37dd3d9ccd"
+capturado_em_fonte: "2026-10-27T22:15:48.994436-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 2.206, de 12 de junho de 2026
+
+Dispõe sobre a reorganização, a composição, as competências e o funcionamento do Conselho Municipal de Educação do Município de Califórnia, Estado do Paraná, e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CALIFÓRNIA, Estado do Paraná, aprovou, e eu, PREFEITO MUNICIPAL, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica reorganizado o Conselho Municipal de Educação CME, órgão colegiado integrante do Sistema Municipal de Ensino do Município de Califórnia, com funções consultiva, normativa, deliberativa, fiscalizadora, mobilizadora e de assessoramento, na forma desta Lei.
+
+
+Art. 2º.
+
+O Conselho Municipal de Educação exercerá suas atribuições em consonância com a Constituição Federal, com a Lei de Diretrizes e Bases da Educação Nacional, com as normas educacionais vigentes e com o Plano Municipal de Educação.
+
+
+Art. 3º.
+
+Compete ao Conselho Municipal de Educação:
+
+
+I –
+
+no exercício da função normativa:
+
+
+a)
+
+elaborar normas complementares para o Sistema Municipal de Ensino, observada a legislação vigente;
+
+
+b)
+
+autorizar, credenciar e supervisionar, nos termos da legislação aplicável, as instituições integrantes do Sistema Municipal de Ensino, no âmbito da competência municipal;
+
+
+c)
+
+autorizar o funcionamento das instituições de Educação Infantil da rede privada, comunitária, confessional ou filantrópica, quando vinculadas ao Sistema Municipal de Ensino do Município;
+
+
+d)
+
+estabelecer diretrizes complementares para a organização e o funcionamento das unidades escolares municipais.
+
+
+II –
+
+no exercício da função normativa:
+
+
+a)
+
+emitir parecer sobre matérias educacionais submetidas à sua apreciação pelo Poder Executivo, pela Secretaria Municipal de Educação, pela Câmara Municipal, pelas unidades escolares e por outras instituições, na forma da lei;
+
+
+b)
+
+opinar sobre planos, programas, projetos e experiências educacionais no âmbito do Município;
+
+
+c)
+
+manifestar-se sobre propostas de formação, capacitação e atualização dos profissionais da educação;
+
+
+d)
+
+opinar sobre convênios, parcerias e demais instrumentos de cooperação na área educacional, quando solicitado.
+
+
+III –
+
+no exercício da função deliberativa:
+
+
+a)
+
+elaborar, aprovar e alterar o seu Regimento Intemo;
+
+
+b)
+
+deliberar sobre matérias de sua competência legal e regimental;
+
+
+c)
+
+apreciar propostas relativas à criação, ampliação, desativação, reorganização e localização de unidades escolares municipais, observada a legislação vigente;
+
+
+d)
+
+deliberar sobre medidas voltadas à melhoria da qualidade do ensino, do fluxo escolar, do rendimento escolar e da gestão democrática.
+
+
+IV –
+
+no exercício da função fiscalizadora e de acompanhamento:
+
+
+a)
+
+acompanhar a execução das políticas públicas educacionais no Município;
+
+
+b)
+
+acompanhar o cumprimento do Plano Municipal de Educação;
+
+
+c)
+
+acompanhar a aplicação dos recursos públicos vinculados à educação, sem prejuízo das competências específicas de outros conselhos legalmente instituídos e dos órgãos de controle interno e externo;
+
+
+d)
+
+zelar pelo cumprimento da legislação educacional no âmbito do Sistema Municipal de Ensino;
+
+
+e)
+
+acompanhar e avaliar o funcionamento do Sistema Municipal de Ensino.
+
+
+Art. 4º.
+
+O Conselho Municipal de Educação será composto por membros titulares e respectivos suplentes, representantes do Poder Público e da sociedade civil, com a seguinte composição:
+
+
+I –
+
+1 (um) representante titular e 1 (um) representante suplente da Secretaria Municipal de Educação;
+
+
+II –
+
+1 (um) representante titular e 1 (um) representante suplente do Poder Executivo Municipal, vinculado à área de Administração e Finanças;
+
+
+III –
+
+1 (um) representante titular e 1 (um) representante suplente da instituição de ensino privada do Município;
+
+
+IV –
+
+1 (um) representante titular e 1 (um) representante suplente da rede estadual de ensino do Município;
+
+
+V –
+
+1 (um) representante titular e 1 (um) representante suplente da Associação de Pais e Amigos dos Excepcionais – APAE;
+
+
+VI –
+
+1 (um) representante titular e 1 (um) representante suplente de entidade da sociedade civil com atuação educacional, social ou comunitária no Município;
+
+
+VII –
+
+VII – 1 (um) representante titular e 1 (um) representante suplente do Conselho Municipal dos Direitos da Criança e do Adolescente – CMDCA;
+
+
+VIII –
+
+
+IX –
+
+1 (um) representante titular e 1 (um) representante suplente das unidades escolares da rede municipal de ensino, sendo servidores efetivos das respectivas instituições.
+
+
+§ 1º
+
+Os membros titulares e suplentes serão indicados pelos respectivos órgãos, entidades ou segmentos que representam, observados os critérios desta Lei e, quando necessário, os procedimentos definidos em regulamento ou no Regimento Interno.
+
+
+§ 2º
+
+Na hipótese de inexistência de algum dos segmentos previstos no caput, a vaga será preenchida por outro representante da mesma natureza de representação, de modo a assegurar o regular funcionamento do Conselho.
+
+
+§ 3º
+
+O exercício da função de conselheiro será considerado de relevante interesse público e não será remunerado.
+
+
+§ 4º
+
+A nomeação dos conselheiros será formalizada por ato do Chefe do Poder Executivo.
+
+
+Art. 5º.
+
+O mandato dos conselheiros será de 2 (dois) anos, permitida a recondução, na forma do Regimento Interno.
+
+
+§ 1º
+
+Ocorrendo vacância, afastamento, renúncia, perda da condição de representante ou impedimento definitivo, o suplente assumirá a titularidade pelo período restante do mandato.
+
+
+§ 2º
+
+A perda da condição de representante do órgão, entidade ou segmento implicará substituição do conselheiro, mediante nova indicação formal do respectivo representado.
+
+
+§ 3º
+
+Perderá o mandato o conselheiro que deixar de comparecer, sem justificativa, ao número de reuniões definido no Regimento Interno.
+
+
+Art. 6º.
+
+O Presidente e o Vice-Presidente do Conselho Municipal de Educação serão eleitos entre seus membros titulares, na forma estabelecida no Regimento Interno, vedada a acumulação dos dois cargos por representantes do mesmo segmento.
+
+
+Art. 7º.
+
+O Conselho Municipal de Educação reunir-se-á ordinariamente, no mínimo, 1 (uma) vez por mês, e extraordinariamente sempre que convocado na forma regimental.
+
+
+Art. 8º.
+
+As reuniões do Conselho instalar-se-ão com a presença da maioria absoluta de seus membros, e as deliberações serão tomadas por maioria simples dos presentes, salvo disposição legal ou regimental em contrário.
+
+
+Parágrafo único
+
+As deliberações do Conselho deverão ser registradas em atas e demais instrumentos próprios.
+
+
+Art. 9º.
+
+É vedado ao conselheiro participar de deliberação que envolva interesse direto do órgão, entidade, instituição ou unidade que represente, devendo declarar-se impedido, na forma do Regimento Interno.
+
+
+Art. 10.
+
+O Regimento Interno do Conselho Municipal de Educação deverá ser adequado às disposições desta Lei no prazo de 60 (sessenta) dias, contados da publicação desta Lei.
+
+
+Art. 11.
+
+O Poder Executivo Municipal assegurará ao Conselho Municipal de Educação o suporte técnico, administrativo e material necessário ao seu regular funcionamento.
+
+
+Art. 12.
+
+Fica revogada a Lei Municipal nº 1.102/2006, bem como as demais disposições em contrário.
+
+
+Art. 13.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Edifício da Prefeitura do Município de Califórnia, 12 de junho de 2026.
+
+PAULO SÉRGIO CHILEIDE
+
+Prefeito
+

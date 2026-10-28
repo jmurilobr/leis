@@ -1,0 +1,32 @@
+---
+titulo: "PORTARIA Nº 39, DE 9 DE OUTUBRO DE 2019"
+orgao: "Ministério da Economia/Secretaria Especial de Comércio Exterior e Assuntos Internacionais/Secretaria de Comércio Exterior"
+tipo: "Portaria"
+numero: "39"
+data: 2019-10-09
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 10/10/2019, seção 1, p. 52"
+data_publicacao: 2019-10-10
+edicao: "197"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-39-de-9-de-outubro-de-2019-221052920"
+sha256_html_fonte: 8755259fb49aeff73b801a382690086db0caddc13f88f5f4cf446834c4f6a676
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 39, DE 9 DE OUTUBRO DE 2019
+
+PORTARIA Nº 39, DE 9 DE OUTUBRO DE 2019
+
+Altera a redação do Anexo XXII - Lista de Entidades Autorizadas pela SECEX a Emitir Certificados de Origem - da Portaria SECEX nº 23, de julho de 2011.
+
+O SECRETÁRIO DE COMÉRCIO EXTERIOR, SUBSTITUTO, DA SECRETARIA ESPECIAL DE COMERCIO EXTERIOR E ASSUNTOS INTERNACIONAIS, DO MINISTÉRIO DA ECONOMIA, no uso das atribuições que lhe foram conferidas pelos incisos I e XX do art. 91 do Anexo I ao Decreto nº 9.745, de 8 de abril de 2019, resolve:
+
+**Art. 1º** Modifica-se, a partir de 1º de novembro de 2019, a redação do Anexo XXII - Lista de Entidades Autorizadas pela SECEX a Emitir Certificados de Origem - da Portaria SECEX nº 23, de julho de 2011, para a que se segue.
+
+Leia-se:
+
+LEONARDO DINIZ LAHUD
+
+## ANEXO XXII — LISTA DE ENTIDADES AUTORIZADAS PELA SECEX A EMITIR CERTIFICADOS DE ORIGEM
+
+<table><tr></tr><tr><td><p>Entidade</p></td><td><p>Código da Entidade p/emissão do Certificado de Origem Digital (COD)</p></td></tr><tr><td><p>Associação Comercial de Santos (SP)</p></td><td><p>2</p></td></tr><tr><td><p>Confederação das Associações Comerciais e Empresariais do Brasil (Incluído pela Portaria SECEX nº 11, de 2012)</p></td><td><p>7</p></td></tr><tr><td><p>Federação das Associações Comerciais do Estado da Bahia</p></td><td><p>10</p></td></tr><tr><td><p>Federação das Associações Comerciais do Estado de São Paulo (Incluído pela Portaria SECEX nº 02, de 2012)</p></td><td><p>12</p></td></tr><tr><td><p>Federação das Associações Comerciais e de Serviços do Rio Grande do Sul</p></td><td><p>15</p></td></tr><tr><td><p>Federação das Associações Comerciais e Empresariais do Estado do Rio de Janeiro</p></td><td><p>18</p></td></tr><tr><td><p>Federação das Associações Comerciais e Empresariais do Estado Paraná</p></td><td><p>19</p></td></tr><tr><td><p>Federação das Associações Comerciais, Industriais e Agropastoris do Estado do Espírito Santo</p></td><td><p>24</p></td></tr><tr><td><p>Federação das Associações Comerciais, Industriais, Agropecuárias e de Serviços do Estado de Minas Gerais</p></td><td><p>27</p></td></tr><tr><td><p>Federação das Associações Empresariais de Santa Catarina</p></td><td><p>28</p></td></tr><tr><td><p>Federação das Associações Empresariais do Mato Grosso do Sul</p></td><td><p>30</p></td></tr><tr><td><p>Federação das Indústrias do Distrito Federal</p></td><td><p>31</p></td></tr><tr><td><p>Federação das Indústrias do Estado da Bahia</p></td><td><p>32</p></td></tr><tr><td><p>Federação das Indústrias do Estado da Paraíba</p></td><td><p>33</p></td></tr><tr><td><p>Federação das Indústrias do Estado de Alagoas</p></td><td><p>34</p></td></tr><tr><td><p>Federação das Indústrias do Estado de Goiás</p></td><td><p>35</p></td></tr><tr><td><p>Federação das Indústrias do Estado de Minas Gerais</p></td><td><p>36</p></td></tr><tr><td><p>Federação das Indústrias do Estado de Pernambuco</p></td><td><p>37</p></td></tr><tr><td><p>Federação das Indústrias do Estado de Rondônia</p></td><td><p>38</p></td></tr><tr><td><p>Federação das Indústrias do Estado de Roraima</p></td><td><p>39</p></td></tr><tr><td><p>Federação das Indústrias do Estado de Santa Catarina</p></td><td><p>40</p></td></tr><tr><td><p>Federação das Indústrias do Estado de São Paulo</p></td><td><p>41</p></td></tr><tr><td><p>Federação das Indústrias do Estado de Sergipe</p></td><td><p>42</p></td></tr><tr><td><p>Federação das Indústrias do Estado do Acre</p></td><td><p>43</p></td></tr><tr><td><p>Federação das Indústrias do Estado do Amazonas</p></td><td><p>44</p></td></tr><tr><td><p>Federação das Indústrias do Estado do Ceará</p></td><td><p>45</p></td></tr><tr><td><p>Federação das Indústrias do Estado do Espírito Santo</p></td><td><p>46</p></td></tr><tr><td><p>Federação das Indústrias do Estado do Maranhão</p></td><td><p>47</p></td></tr><tr><td><p>Federação das Indústrias do Estado do Mato Grosso</p></td><td><p>48</p></td></tr><tr><td><p>Federação das Indústrias do Estado do Mato Grosso do Sul</p></td><td><p>49</p></td></tr><tr><td><p>Federação das Indústrias do Estado do Pará</p></td><td><p>50</p></td></tr><tr><td><p>Federação das Indústrias do Estado do Paraná</p></td><td><p>51</p></td></tr><tr><td><p>Federação das Indústrias do Estado do Piauí</p></td><td><p>52</p></td></tr><tr><td><p>Federação das Indústrias do Estado do Rio de Janeiro</p></td><td><p>53</p></td></tr><tr><td><p>Federação das Indústrias do Estado do Rio Grande do Norte</p></td><td><p>54</p></td></tr><tr><td><p>Federação das Indústrias do Estado do Rio Grande do Sul</p></td><td><p>55</p></td></tr><tr><td><p>Federação do Comércio de Bens e de Serviços do Estado do Rio Grande do Sul</p></td><td><p>57</p></td></tr><tr><td><p>Federação do Comércio de Bens, Serviços e Turismo do Amazonas</p></td><td><p>58</p></td></tr><tr><td><p>Federação do Comércio de Bens, Serviços e Turismo do Estado de São Paulo</p></td><td><p>61</p></td></tr><tr><td><p>Federação do Comércio de Bens, Serviços e Turismo do Estado de Minas Gerais</p></td><td><p>62</p></td></tr><tr><td><p>Federação do Comércio do Estado da Bahia</p></td><td><p>64</p></td></tr><tr><td><p>Federação do Comércio do Estado de Alagoas</p></td><td><p>66</p></td></tr><tr><td><p>Federação do Comércio do Estado de Santa Catarina (Incluído pela Portaria SECEX nº 02, de 2012)</p></td><td><p>69</p></td></tr><tr><td><p>Federação do Comércio de Bens, Serviços e Turismo do Estado do Espírito Santo (Alterado pela Portaria SECEX nº 15, de 2012)</p></td><td><p>74</p></td></tr><tr><td><p>Federação do Comércio do Estado do Pará</p></td><td><p>78</p></td></tr><tr><td><p>Federação do Comércio do Paraná</p></td><td><p>82</p></td></tr><tr><td><p>Federação das Indústrias do Estado do Tocantins (Incluído pela Portaria SECEX nº 11, de 2012)</p></td><td><p>84</p></td></tr><tr><td><p>Associação Comercial da Bahia (Incluído pela Portaria SECEX nº 11, de 2012)</p></td><td><p>85</p></td></tr></table>

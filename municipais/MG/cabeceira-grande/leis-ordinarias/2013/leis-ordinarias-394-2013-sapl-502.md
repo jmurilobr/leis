@@ -1,0 +1,151 @@
+---
+titulo: "LEI ORDINÁRIA nº 394, de 22 de abril de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "394"
+data: "2013-04-22"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/502"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/650/text"
+sha256_fonte: "1a70475050132976e1173893e69a25331bbceb8e497649e8d362841fb762942d"
+sha256_texto: "87205e77a2a7c1801b330237e9d147b8958e78ff3b8722cbb8feec9f08981fe7"
+capturado_em_fonte: "2026-10-27T20:26:34.851877-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 394, de 22 de abril de 2013
+
+**Regulamenta o instituto da vacância de cargo público decorrente de posse em outro cargo inacumulável previsto no inciso VIII do artigo 36 da Lei Complementar n.º 1, de 22 de outubro de 1997, que “dispõe sobre o Estatuto dos Servidores da Administração Direta, Autarquias e Fundações Públicas do Município de Cabeceira Grande (MG) e dá outras providências”.**
+
+
+**O PREFEITO DO MUNICÍPIO DE CABECEIRA GRANDE**, Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 76, inciso III da Lei Orgânica do Município, faz saber que a Câmara Municipal de Cabeceira Grande decreta e ele, em seu nome, sanciona e promulgaa seguinte Lei:
+
+
+Art. 1º.
+
+Esta Lei regulamenta o instituto da vacância de cargo público decorrente de posse em outro cargo inacumulável, previsto no inciso VIII do artigo 36 da Lei Complementar n.º 1, de 22 de outubro de 1997.
+
+
+Art. 2º.
+
+Para os efeitos desta Lei considera-se órgão a unidade da administração direta e indireta do Poder Executivo, bem como o Poder Legislativo.
+
+
+Art. 3º.
+
+O direito à vacância de cargo público decorrente de posse em outro cargo inacumulável é restrito a servidores efetivos e estáveis e tem aplicabilidade se o regime jurídico inerente aos respectivos cargos for o mesmo.
+
+
+Art. 4º.
+
+O novo cargo, no qual o servidor eventualmente tomar posse, poderá pertencer a outro órgão no âmbito do Município, bem como aos demais entes da federação, inclusive outras municipalidades, observada, contudo, a identidade de regime jurídico.
+
+
+Art. 5º.
+
+O direito a que alude o artigo 3º desta Lei confere a seu titular a possibilidade de solicitar a recondução ao cargo anteriormente ocupado na hipótese de inabilitação em estágio probatório relativo a outro cargo público, consubstanciando-se na garantia de manutenção do vínculo jurídico-funcional ao órgão a que pertence durante o período em que perdurar tal situação, observadas as condições previstas nos § § 2º e 3º do artigo 12.
+
+
+Parágrafo único
+
+Sendo habilitado em estágio probatório no outro cargo o servidor será prontamente exonerado do cargo anteriormente ocupado, extinguindo-se, definitivamente, o vínculo jurídico-funcional respectivo.
+
+
+Art. 6º.
+
+Sem prejuízo do disposto no caput do artigo 5º desta Lei, fica facultado ao servidor solicitar voluntariamente seu retorno ao cargo anteriormente ocupado, no período em que mediar entre sua posse no novo cargo até antes de ser submetido a estágio probatório, observadas as condições previstas nos § § 2º e 3º do artigo 12.
+
+
+Art. 7º.
+
+O exercício do direito à solicitação de vacância de cargo público decorrente de posse em outro cargo inacumulável pressupõe, necessária e essencialmente, a existência de estágio probatório no novo cargo, restando devidamente ciente de tal fato o servidor, inclusive ao subscrever sua respectiva petição.
+
+
+Art. 8º.
+
+Na hipótese de omissão por parte de autoridade ou órgão quanto a realização e submissão de servidor a estágio probatório, o termo final para possibilidade de retorno do servidor ao cargo anteriormente ocupado ficará adstrito até 3 (três) anos de efetivo exercício quando é adquirida a estabilidade.
+
+
+Art. 9º.
+
+A declaração de vacância de cargo público decorrente de posse em outro cargo inacumulável será formalizada mediante ato próprio de cada órgão em ato contínuo à posse no outro cargo.
+
+
+Art. 10.
+
+O ato de declaração de vacância ensejará acerto de contas com o servidor mediante pagamento das devidas indenizações, como férias e gratificação natalina, de forma proporcional ou integral, conforme o caso, bem como licença-prêmio adquirida, de maneira que a posse no novo cargo se efetive sem nenhuma pendência funcional relativa ao cargo anterior, considerados, todavia, os direitos pertinentes, aí incluídos tempo de serviço para efeito de aposentadoria, adicional por tempo de serviço e licença-prêmio.
+
+
+Art. 11.
+
+Fica o respectivo órgão de recursos humanos responsável pelo cumprimento do disposto no artigo 10 desta Lei.
+
+
+Art. 12.
+
+Sendo necessária a realização de concurso público para provimento de cargo vago em decorrência de posse em outro cargo inacumulável, caberá ao órgão interessado, antes disso, solicitar ao respectivo servidor sua recondução ao cargo ora vacante ou ainda que este requeira sua exoneração para regular preenchimento do referido cargo, mormente com esteio nos princípios que regem a administração pública, entre eles razoabilidade, ponderação, eficiência e supremacia do interesse público.
+
+
+§ 1º
+
+Persistindo vago o cargo sem que o servidor tenha aceitado ser reconduzido ou requerido sua exoneração, o respectivo órgão poderá realizar concurso público para provimento do cargo vacante.
+
+
+§ 2º
+
+Ocorrendo a hipótese prevista no § 1º deste artigo e caso o servidor retorne ao cargo anteriormente ocupado em decorrência de inabilitação em estágio probatório relativo a outro cargo ou mesmo de forma voluntária, estando provido, assim, o cargo de origem, tal servidor será aproveitado em outro cargo de atribuições e vencimentos compatíveis.
+
+
+§ 3º
+
+Inexistindo cargo de atribuições e vencimentos compatíveis o servidor será posto em disponibilidade com remuneração equivalente ao do cargo anteriormente ocupado até seu adequado aproveitamento em outro cargo, aplicando-se, no que couber, as regras inerentes ao instituto da disponibilidade.
+
+
+Art. 13.
+
+O retorno do servidor ao cargo anteriormente ocupado por qualquer dos motivos passíveis de recondução de que trata esta Lei deverá ser comunicado ao respectivo órgão de forma imediata à situação que lhe der ensejo.
+
+
+Art. 14.
+
+A petição, a ser subscrita pelo servidor interessado em exercer o direito à vacância de cargo público decorrente de posse em outro cargo inacumulável, deverá ser protocolizada até 30 (trinta) dias antes da posse no novo cargo.
+
+
+§ 1º
+
+A petição a que alude o caput deste artigo deverá ser instruída com cópia autenticada do ato de nomeação para o outro cargo ou documento equivalente, devendo o órgão de recursos humanos competente apurar a condição de estabilidade do servidor para dar prosseguimento ao processo administrativo respectivo.
+
+
+§ 2º
+
+Não se aplica o prazo previsto no caput deste artigo às petições eventualmente protocolizadas anteriormente à publicação desta Lei, pendentes ou não de decisão, devendo, todavia, ser satisfeita a instrução a que alude o § 1º deste artigo.
+
+
+§ 3º
+
+Na impossibilidade de cumprimento do prazo a que alude o caput deste artigo o servidor deverá apresentar as devidas justificativas a serem valoradas pelo respectivo órgão que emitirá decisão acerca do fato; em caso de deferimento a dilação deverá atender ao princípio da ponderação e da razoabilidade.
+
+
+Art. 15.
+
+Esta Lei em vigor na data de sua publicação, produzindo efeitos em relação ao caput do artigo 14 somente nos 30 (trinta) dias posteriores à precitada data de publicação.
+
+
+Cabeceira Grande, 22 de abril de 2013; 17º da Instalação do Município.
+
+**ODILON DE OLIVEIRA E SILVA**
+
+**Prefeito**
+
+**DAILTON GERALDO RODRIGUES GONÇALVES**
+
+**Consultor Jurídico, Legislativo, de Governo e Assuntos Administrativos e Institucionais**
+
+**"Este texto não substitui o original."**
+

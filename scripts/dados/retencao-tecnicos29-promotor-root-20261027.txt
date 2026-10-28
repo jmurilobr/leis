@@ -1,0 +1,36 @@
+from pathlib import Path
+import json,gzip,hashlib,subprocess,sys,os
+sys.path.insert(0,'scripts')
+from preparar_lote_decretos_cache import fields
+sha=lambda b:hashlib.sha256(b).hexdigest();h={}
+base=Path('municipais/_indice/_recuperacao_20261027/federal-revisao56-independente')
+mp=base/'manifesto.json';assert sha(mp.read_bytes())=='9fa6cac64f5b3925ccd8a15be86e95a9416019a695077f594a9a1a10ee98ac7b'
+m=json.loads(mp.read_text())
+for r in m['arquivos']+m['fontes_referenciadas']:
+ p=Path(r['path']);assert sha(p.read_bytes())==r['sha256'];h[str(p)]=r['sha256']
+h[str(mp)]=sha(mp.read_bytes())
+prop=Path('federal/_fonte/auditorias/inventario_objetos_tecnicos1347_20261027_001')
+hs=prop/'entrega-hashes.json';obj=json.loads(hs.read_text())
+for r in obj['arquivos']:
+ p=Path(r['path']);assert sha(p.read_bytes())==r['sha256'];h[str(p)]=r['sha256']
+for p in [hs,prop/'entrega-paths.txt']:h[str(p)]=sha(p.read_bytes())
+rows=json.loads((base/'parecer56.json').read_text())['registros']
+published=[r for r in rows if r['HEAD_atual'].get('OID')];assert len(published)==32
+kept=[r for r in published if r['categoria']=='duvida_documental_orcamento_total'];assert {r['numero'] for r in kept}=={3019,3061,3175}
+selected=[r for r in published if r not in kept];assert len(selected)==29
+allowed={'projeto_estudos_proprios_nao_representados','planta_propria_nao_representada','especificacoes_proprias_nao_representadas','relacao_integral_presente_projeto_proprio_nao_representado'}
+head=subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip();entries=[]
+for r in selected:
+ assert r['categoria'] in allowed and r['trechos_vinculo_integrais'] and not r['referencia_somente_historica'] and not r['objeto_proprio_integralmente_demonstrado']
+ raw=subprocess.check_output(['git','show',head+':'+r['path']]);assert sha(raw)==r['sha256_MD']==r['HEAD_atual']['sha256'] and Path(r['path']).read_bytes()==raw
+ _,_,body=fields(raw.decode());assert body.strip()==r['leitura_integral_MD'].strip()
+ entries.append({'path':r['path'],'sha256_md':sha(raw),'estado':'suplemento_em_revisao_contextual','motivo':'Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.','evidencia':{'HEAD_conferido':head,'OID_HEAD':r['HEAD_atual']['OID'],'categoria':r['categoria'],'fonte':r['fonte'],'sha256_HTML':r['sha256_HTML'],'sha256_metadados':r['sha256_API'],'parecer_independente':str(base/'parecer56.json'),'sha256_parecer':sha((base/'parecer56.json').read_bytes()),'vinculos':r['trechos_vinculo_integrais'],'parecer':r['parecer']}})
+rp=Path('scripts/dados/pendencias-integralidade-publicadas.json');old=rp.read_bytes();assert subprocess.check_output(['git','show',head+':'+str(rp)])==old;reg=json.loads(old);assert len(reg['pendentes'])==7602 and not ({x['path'] for x in reg['pendentes']} & {x['path'] for x in entries})
+print('29 publicados com objetos técnicos próprios em revisão; 3 orçamentos totais não mascarados nesta passada; 24 privados continuam fora da publicação.',flush=True)
+if '--apply' not in sys.argv:raise SystemExit(0)
+control=Path('federal/_fonte/auditorias/retencao-tecnicos29-ROOT-20261027');control.mkdir(exist_ok=False)
+backup=control/'pendencias7602.json.gz';backup.write_bytes(gzip.compress(old,mtime=0));h[str(backup)]=sha(backup.read_bytes())
+proof=control/'decisao-ROOT.json';proof.write_text(json.dumps({'HEAD':head,'antes':7602,'depois':7631,'retidos':entries,'sem_mascara_orcamentos_totais':[{'path':r['path'],'sha256_md':r['sha256_MD'],'motivo':'Total e componentes textuais presentes; a dúvida sobre rubricas adicionais não prova sua omissão. Manter em estudo individual, sem retenção automática por regex.'} for r in kept],'privados_24_sem_publicacao':[{'path':r['path'],'sha256_md':r['sha256_MD']} for r in rows if not r['HEAD_atual'].get('OID')],'criterio':'Proponente e revisor independente leram os corpos integrais; ROOT revisou vínculos e estratos, mantendo orçamentos totais distintos de plantas/projetos/especificações. Relações completas não são declaradas ausentes; objeto técnico adicional é a pendência. Todos os 29 textos permanecem byte a byte idênticos. Apenas casos exatos por SHA, sem modificar guard vivo ou metas.'},ensure_ascii=False,indent=2)+'\n');h[str(proof)]=sha(proof.read_bytes())
+reg['pendentes'].extend(entries);assert len(reg['pendentes'])==7631
+temp=control/'registro-preparado.json';temp.write_text(json.dumps(reg,ensure_ascii=False,indent=2)+'\n');assert rp.read_bytes()==old;os.replace(temp,rp);h[str(rp)]=sha(rp.read_bytes())
+Path('_fonte/operacao_root_20261027/retencao-tecnicos29-publicar-hashes.json').write_text(json.dumps(h,ensure_ascii=False,indent=2)+'\n');print('Registro7602 -> 7631, nenhum canônico alterado',flush=True)

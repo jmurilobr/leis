@@ -1,0 +1,42 @@
+---
+titulo: "SOLUÇÃO DE CONSULTA Nº 40, DE 5 DE FEVEREIRO DE 2019"
+orgao: "Ministério da Economia/Secretaria Especial da Receita Federal do Brasil/Subsecretaria-Geral da Receita Federal do Brasil/Subsecretaria de Tributação e Contencioso/Coordenação-Geral de Tributação"
+tipo: "Solução de Consulta"
+numero: "40"
+data: 2019-02-05
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 11/02/2019, seção 1, p. 37"
+data_publicacao: 2019-02-11
+edicao: "29"
+fonte: "https://www.in.gov.br/web/dou/-/solucao-de-consulta-n-40-de-5-de-fevereiro-de-2019-62786709"
+sha256_html_fonte: 1545214124435e859b936340ca66bfc0e75ff15af5bbe0855cef2986808fef96
+baixado_em: 2026-10-21
+---
+# SOLUÇÃO DE CONSULTA Nº 40, DE 5 DE FEVEREIRO DE 2019
+
+SOLUÇÃO DE CONSULTA Nº 40, DE 5 DE FEVEREIRO DE 2019
+
+ASSUNTO: CONTRIBUIÇÃO PARA O PIS/PASEP
+
+EMENTA: OBRAS DE CONSTRUÇÃO CIVIL. SERVIÇOS DE CONSTRUÇÃO CIVIL. DRAGAGEM POR RESULTADO. REGIME CUMULATIVO OU NÃO CUMULATIVO. APLICAÇÃO.
+
+Quando a dragagem por resultado se referir a uma dragagem inicial com o objetivo de aprofundamento, alargamento ou expansão de áreas aquaviárias, contratada mediante os regimes de administração, empreitada ou subempreitada de construção civil, suas receitas estarão sujeitas ao regime de apuração cumulativa da Contribuição para o PIS/Pasep em virtude do inciso XX do art. 10 c/c o inciso V do art. 15 da Lei nº 10.833, de 2003. Os serviços de construção civil aplicados à execução dessa obra e vinculados ao mesmo contrato também estarão abrangidos pelo mesmo regime de apuração.
+
+Quando a dragagem por resultado se referir a uma dragagem de manutenção ou dragagem ambiental, tais serviços não serão classificados como obras de construção civil, mas sim como serviços de construção civil, sendo as receitas delas decorrentes, em regra, sujeitas ao regime de apuração não cumulativa da Contribuição para o PIS/Pasep.
+
+Dispositivos Legais: Lei nº 10.833, de 2003, art. 10, inciso XX, art. 15, inciso V; Lei nº 10637, de 2002; Lei nº 9.718, de 1998; Lei Complementar nº 116, de 2003. Lei nº 12.815, de 2013; Lei nº 8.666, de 1993; Lei nº 5.194, de 1966.
+
+ASSUNTO: CONTRIBUIÇÃO PARA O FINANCIAMENTO DA SEGURIDADE SOCIAL - COFINS
+
+EMENTA: OBRAS DE CONSTRUÇÃO CIVIL. SERVIÇOS DE CONSTRUÇÃO CIVIL. DRAGAGEM POR RESULTADO. REGIME CUMULATIVO OU NÃO CUMULATIVO. APLICAÇÃO.
+
+Quando a dragagem por resultado se referir a uma dragagem inicial com o objetivo de aprofundamento, alargamento ou expansão de áreas aquaviárias, contratada mediante os regimes de administração, empreitada ou subempreitada de construção civil, suas receitas estarão sujeitas ao regime de apuração cumulativa da Cofins em virtude do inciso XX do art. 10 da Lei nº 10.833, de 2003. Os serviços de construção civil aplicados à execução dessa obra e vinculados ao mesmo contrato também estarão abrangidos pelo mesmo regime de apuração.
+
+Quando a dragagem por resultado se referir a uma dragagem de manutenção ou dragagem ambiental, tais serviços não serão classificados como obras de construção civil, mas sim como serviços de construção civil, sendo as receitas delas decorrentes, em regra, sujeitas ao regime de apuração não cumulativa da Cofins.
+
+Dispositivos Legais: Lei nº 10.833, de 2003, art. 10; Lei nº 9.718, de 1998; Lei Complementar nº 116, de 2003. Lei nº 12.815, de 2013; Lei nº 8.666, de 1993; Lei nº 5.194, de 1966.
+
+FERNANDO MOMBELLI
+
+Coordenador-Geral

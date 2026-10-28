@@ -1,0 +1,52 @@
+---
+titulo: "PORTARIA Nº 422, DE 14 DE MAIO DE 2019"
+orgao: "Ministério da Saúde/Secretaria Executiva"
+tipo: "Portaria"
+numero: "422"
+data: 2019-05-14
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 16/05/2019, seção 1, p. 58"
+data_publicacao: 2019-05-16
+edicao: "93"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n%C2%BA-422-de-14-de-maio-de-2019-101780648"
+sha256_html_fonte: 2fba935ac054ba9f6b373c73167e247a4948ef2527ba55d6644ec6d3cf4e021e
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 422, DE 14 DE MAIO DE 2019
+
+PORTARIA Nº 422, DE 14 DE MAIO DE 2019
+
+Defere readequação de projeto no âmbito do Programa Nacional de Apoio à Atenção Oncológica (PRONON).
+
+O SECRETÁRIO-EXECUTIVO DO MINISTÉRIO DA SAÚDE, no uso das atribuições legais que lhe confere o art. 55 do Anexo I do Decreto nº 8.901, de 10 de novembro de 2016; e
+
+Considerando a Lei nº 12.715, de 17 de setembro de 2012, que instituiu o Programa Nacional de Apoio à Atenção Oncológica (PRONON);
+
+Considerando o Decreto nº 7.988, de 17 de abril de 2013, que regulamentou os arts. 1º a 13 da Lei nº 12.715, de 17 de setembro de 2012; e
+
+Considerando o anexo LXXXVI à Portaria de Consolidação Nº 5/GM/MS, de 28 de setembro de 2017, que dispõe sobre as regras e critérios para credenciamento e apresentação de projetos no âmbito do Programa Nacional de Apoio à Atenção Oncológica (PRONON), e dá outras providências;
+
+Considerando o Parecer nº 409/2019-DAET/CGAE/DAET/SAS/MS, que aprova a readequação do projeto, resolve:
+
+**Art. 1º** Deferir a readequação do projeto abaixo relacionado, no âmbito do Programa Nacional de Apoio à Atenção Oncológica (PRONON), nos seguintes termos:
+
+Instituição: Sociedade Literária e Caritativa Santo Agostinho - Hospital São José
+
+CNPJ: 92.736.040/0008-90
+
+Nome do Projeto: O uso da alta tecnologia na modernização do serviço de neurocirurgia oncológica.
+
+SIPAR: 25000.006876/2018-28
+
+Prazo de execução: 18 meses
+
+Valor readequado: R$ 3.925.727,89 (três milhões, novecentos e vinte e cinco mil, setecentos e vinte e sete reais e oitenta e nove centavos).
+
+Resumo do projeto: Modernizar o serviço de neurocirurgia oncológica com um padrão de uso da alta tecnologia.
+
+**Art. 2º** Revogar o inciso IX, do art. 1º da Portaria SE/MS nº 1.318, de 4 de dezembro de 2018.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+JOÃO GABBARDO DOS REIS

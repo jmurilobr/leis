@@ -1,0 +1,104 @@
+{
+  "motivo": "A expansão automática usou a lista de 770 normas do agregado771, omitindo o candidato 29531 promovido. A lista após promoção possui 771. Corrigido por overlay, sem alteração de máscaras, fontes ou pacotes anteriores.",
+  "lista_770": {
+    "path": "municipais/_lotes/20261021-textos-articulados-agregado-771/normas.paths.txt",
+    "sha256": "ade1ec14aaad0c25dff708738e3f8bbed9899809fb7c70e3aab106c69aac34bf"
+  },
+  "lista_771": {
+    "path": "municipais/_lotes/20261021-textos-articulados-agregado-771/normas-apos-promocao.paths.txt",
+    "sha256": "e4594884cbd153d9c3587968086a82e0ec0bc1f98afbffd12d3488fad5eb2584"
+  },
+  "caminho_faltante": {
+    "path": "municipais/RO/porto-velho/decretos/2026/decretos-22256-2026-sapl-29531.md",
+    "sha256": "9106ecfd78ffed8dc86466ed75d5e0e99694683069073d31ef1381f6da9aebca",
+    "head": "a19db809aff56506fe9b66b23bbd7d678ee445a9",
+    "git_blob_sha256": "9106ecfd78ffed8dc86466ed75d5e0e99694683069073d31ef1381f6da9aebca"
+  },
+  "resultados": [
+    {
+      "normas": 286,
+      "recibo": "municipais/_indice/_recuperacao_20261027/agregado286-final/entrega-final.json",
+      "recibo_sha256": "68de91b7099ff52f6bb7d565823a8f77c14f75b7fbab6ba112f79bc9745bf1bf",
+      "lista_normas": "municipais/_indice/_recuperacao_20261027/agregado286-final/normas.paths.txt",
+      "lista_sha256": "aab6c1c0e763a114db3c0f72ef105c9e8f4849a91613d876ca6950a51bb40d0a",
+      "controle_anterior": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0001/colisoes-globais.json",
+      "controle_anterior_sha256": "27ce9219336e729c7f00ac7882db81d051bda3b416954709dba7818dbdcd87f8",
+      "baseline_anterior": 19908,
+      "baseline_completa": 19909,
+      "caminho_suplementar": "municipais/RO/porto-velho/decretos/2026/decretos-22256-2026-sapl-29531.md",
+      "colisoes_suplementares": [],
+      "prova": "O controle anterior sem colisões cobre exatamente o conjunto anterior. A única diferença da lista após promoção é o caminho suplementar, comparado integralmente por URL e identidade contra todas as normas desta seleção. Não altera nem substitui o controle anterior."
+    },
+    {
+      "normas": 393,
+      "recibo": "municipais/_indice/_recuperacao_20261027/agregado393-final/entrega-final.json",
+      "recibo_sha256": "c98cc11dffd52567c253a3413ac745b3a827058b7f424582d22377266360c106",
+      "lista_normas": "municipais/_indice/_recuperacao_20261027/agregado393-final/normas.paths.txt",
+      "lista_sha256": "ba2a4103b15979a26a9e58ad16f92225f3dca5b5266ffb0f677fa4cea1797159",
+      "controle_anterior": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0002/colisoes-globais.json",
+      "controle_anterior_sha256": "cfa562c498f637d8db92831c9d80a6def8cbc97f5584eebc340ea09e8b3a0687",
+      "baseline_anterior": 20194,
+      "baseline_completa": 20195,
+      "caminho_suplementar": "municipais/RO/porto-velho/decretos/2026/decretos-22256-2026-sapl-29531.md",
+      "colisoes_suplementares": [],
+      "prova": "O controle anterior sem colisões cobre exatamente o conjunto anterior. A única diferença da lista após promoção é o caminho suplementar, comparado integralmente por URL e identidade contra todas as normas desta seleção. Não altera nem substitui o controle anterior."
+    },
+    {
+      "normas": 603,
+      "recibo": "municipais/_indice/_recuperacao_20261027/agregado603-final/entrega-final.json",
+      "recibo_sha256": "4799270fe02b2efbb96350b8f3949a1d1d9c366cb94c83bd75cff3f87b1d1ec1",
+      "lista_normas": "municipais/_indice/_recuperacao_20261027/agregado603-final/normas.paths.txt",
+      "lista_sha256": "67dbb47cbcfb0749b870f85aa57e8c962c48507a5cbf40647828fb8f5aa0ed58",
+      "controle_anterior": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0003/colisoes-globais.json",
+      "controle_anterior_sha256": "b4b9a0a0f5741a9699d00d800137296a8ffe362e4e0602bd8e671c037330588c",
+      "baseline_anterior": 20587,
+      "baseline_completa": 20588,
+      "caminho_suplementar": "municipais/RO/porto-velho/decretos/2026/decretos-22256-2026-sapl-29531.md",
+      "colisoes_suplementares": [],
+      "prova": "O controle anterior sem colisões cobre exatamente o conjunto anterior. A única diferença da lista após promoção é o caminho suplementar, comparado integralmente por URL e identidade contra todas as normas desta seleção. Não altera nem substitui o controle anterior."
+    },
+    {
+      "normas": 673,
+      "recibo": "municipais/_indice/_recuperacao_20261027/agregado673-final/entrega-final.json",
+      "recibo_sha256": "c3d3ef94270bfcf0dccca6cdcd9857e672007381cd92c74cee399371eaa7f145",
+      "lista_normas": "municipais/_indice/_recuperacao_20261027/agregado673-final/normas.paths.txt",
+      "lista_sha256": "bbb68685478347abcacc8d555527524e1880444fb19fc837e6d625b58d70f619",
+      "controle_anterior": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0004/colisoes-globais.json",
+      "controle_anterior_sha256": "941e6469b328dac68da7d75c1dac68962c77147c73091fb3946edb23f75990e5",
+      "baseline_anterior": 21190,
+      "baseline_completa": 21191,
+      "caminho_suplementar": "municipais/RO/porto-velho/decretos/2026/decretos-22256-2026-sapl-29531.md",
+      "colisoes_suplementares": [],
+      "prova": "O controle anterior sem colisões cobre exatamente o conjunto anterior. A única diferença da lista após promoção é o caminho suplementar, comparado integralmente por URL e identidade contra todas as normas desta seleção. Não altera nem substitui o controle anterior."
+    },
+    {
+      "normas": 907,
+      "recibo": "municipais/_indice/_recuperacao_20261027/agregado907-final/entrega-final.json",
+      "recibo_sha256": "ce88563a39887534ad97fb7509adf072f84d8d9288acf36a3a1944dafd0f6676",
+      "lista_normas": "municipais/_indice/_recuperacao_20261027/agregado907-final/normas.paths.txt",
+      "lista_sha256": "131e4b9699d6f15158ad6f8cb1be638456a9033a1c942aea0bf6a97e6b775ea7",
+      "controle_anterior": "municipais/_indice/_recuperacao_20261027/lotes/tabelas-contexto-0003/colisoes-globais.json",
+      "controle_anterior_sha256": "65a93d65d300f20716ce006263cd54eec29dc5370fcb248008f571818d47f3ba",
+      "baseline_anterior": 21863,
+      "baseline_completa": 21864,
+      "caminho_suplementar": "municipais/RO/porto-velho/decretos/2026/decretos-22256-2026-sapl-29531.md",
+      "colisoes_suplementares": [],
+      "prova": "O controle anterior sem colisões cobre exatamente o conjunto anterior. A única diferença da lista após promoção é o caminho suplementar, comparado integralmente por URL e identidade contra todas as normas desta seleção. Não altera nem substitui o controle anterior."
+    },
+    {
+      "normas": 509,
+      "recibo": "municipais/_indice/_recuperacao_20261027/agregado509-final/entrega-final.json",
+      "recibo_sha256": "ca67831152eb7f934a94c967d15f10a6e7beb348c03523bc784eedd2d1129ef2",
+      "lista_normas": "municipais/_indice/_recuperacao_20261027/agregado509-final/normas.paths.txt",
+      "lista_sha256": "5d155939f94544bf64a7d322d32bf6a91d1034db6f919721057501625131f1fc",
+      "controle_anterior": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0005/colisoes-globais.json",
+      "controle_anterior_sha256": "1fa4ec113b2b519683e3f3b9fb4560ff41b4df70fff18c360f96586998d11426",
+      "baseline_anterior": 22770,
+      "baseline_completa": 22771,
+      "caminho_suplementar": "municipais/RO/porto-velho/decretos/2026/decretos-22256-2026-sapl-29531.md",
+      "colisoes_suplementares": [],
+      "prova": "O controle anterior sem colisões cobre exatamente o conjunto anterior. A única diferença da lista após promoção é o caminho suplementar, comparado integralmente por URL e identidade contra todas as normas desta seleção. Não altera nem substitui o controle anterior."
+    }
+  ],
+  "limite": "Este overlay trata exclusivamente da diferença de escopo do baseline. Não certifica atualização ou vigência jurídica."
+}

@@ -1,0 +1,2211 @@
+---
+titulo: "Lei Ordinária nº 409, de 28 de março de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "409"
+data: "2023-03-28"
+municipio: "Araci"
+uf: "BA"
+codigo_ibge: "2902104"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.araci.ba.leg.br/norma/468"
+fonte_texto: "https://sapl.araci.ba.leg.br/ta/139/text"
+sha256_fonte: "1c0d7f78a90d8212e579cc22f67dde8287eb7a6561dcf6b65acabc2cbbe04fdf"
+sha256_texto: "744cdc37a43eb5c8ebd5f856e147380b317b45c55a76ea0b7e89d4031358e8bb"
+capturado_em_fonte: "2026-10-27T16:54:07.640055-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 409, de 28 de março de 2023
+
+**LEI Nº 409 DE 28 DE MARÇO DE 2023**
+
+
+Dispõe sobre a Política Municipal de Atendimento aos Direitos da Criança e do Adolescente e dá outras providências.
+
+
+A PREFEITA MUNICIPAL DE ARACI, Estado da Bahia, no uso de suas atribuições e nos termos da Constituição Federal e da Lei Orgânica Municipal, faz saber que o Poder Legislativo  
+Municipal aprova e Ele sanciona e promulga a seguinte Lei:
+
+
+### TÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Esta lei dispõe sobre a Política Municipal de Atendimento aos Direitos da Criança e do Adolescente.
+
+
+Art. 2º.
+
+Ao efetivar a Política Municipal de Atendimento aos Direitos da Criança e do Adolescente, o Poder Executivo observará as normas expedidas pelos Conselhos Nacional, Estadual e Municipal dos Direitos da Criança e do Adolescente.
+
+
+Art. 3º.
+
+São instrumentos da Política Municipal de Atendimento aos Direitos da Criança e do Adolescente:
+
+
+I –
+
+Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA;
+
+
+II –
+
+Conselho Tutelar;
+
+
+III –
+
+Fundo Municipal dos Direitos da Criança e do Adolescente, por meio da Lei Municipal nº 277 de 20 de dezembro de 2018
+
+
+IV –
+
+Conferência Municipal dos Direitos da Criança e do Adolescente.
+
+
+§ 1º
+
+A Conferência Municipal dos Direitos da Criança e do Adolescente, promovida pelo Conselho Municipal dos Direitos da Criança e do Adolescente, com o apoio institucional e  
+operacional da Secretaria Municipal de Assistência Social, constitui-se como foro de participação da sociedade civil organizada, buscando integrar o Executivo, o Legislativo, o  
+Judiciário, o Ministério Público, bem como órgãos e instituições afins visando a efetivação da Política de Atendimento à Criança e ao Adolescente.
+
+
+§ 2º
+
+A Conferência Municipal dos Direitos da Criança e do Adolescente deverá avaliar a situação da criança e do adolescente, propor diretrizes e deliberar ações para o  
+aperfeiçoamento dessas políticas a curto, médio e longo prazo, elegendo-se, para tanto, delegados para a Conferência Estadual.
+
+
+§ 3º
+
+As despesas com a Conferência Municipal dos Direitos da Criança e do Adolescente, bem como aquelas decorrentes da participação nas Conferências Estadual e Nacional, serão custeadas pelo Poder Executivo.
+
+
+Art. 4º.
+
+A Política Municipal de Atendimento aos Direitos da Criança e do Adolescente terá preferência em sua formulação e execução, sendo obrigatória a destinação privilegiada de recursos públicos.
+
+
+Art. 5º.
+
+A implementação da Política Municipal de Atendimento aos Direitos da Criança e do Adolescente será realizada diretamente pelo Município ou por meio de parcerias voluntárias com organizações da sociedade civil, podendo, também, consorciar-se com outros entes federativos.
+
+
+§ 1º
+
+Todos os programas e serviços desenvolvidos pelo Poder Público e pela sociedade civil organizada devem atender integralmente às normativas vigentes.
+
+
+§ 2º
+
+É vedada a criação de programas de caráter compensatório da ausência ou insuficiência das políticas públicas sociais no município sem a prévia manifestação do Conselho  
+Municipal dos Direitos da Criança e do Adolescente;
+
+
+Art. 6º.
+
+São meios de efetivação da Política Municipal de Atendimento aos Direitos da Criança e do Adolescente:
+
+
+I –
+
+políticas públicas sociais de educação, saúde, recreação, esporte, cultura, lazer, profissionalização e outras que assegurem o desenvolvimento físico, mental, espiritual e social da criança e do adolescente em condições de liberdade e dignidade;
+
+
+II –
+
+política pública de assistência social sistematizada e planejada, efetivada mediante serviços, programas, projetos, benefícios e ações em conformidade com as políticas nacional e  
+estadual da assistência social, Sistema Único de Assistência Social - SUAS e demais normativas  
+vigentes.
+
+
+### TÍTULO II — DO CONSELHO MUNICIPAL DOS DIREITOS
+DA CRIANÇA E DO ADOLESCENTE
+
+
+#### CAPÍTULO I — DAS REGRAS E PRINCÍPIOS GERAIS
+
+
+Art. 7º.
+
+O Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA - é órgão deliberativo e controlador da Política de Atendimento aos Direitos da Criança e do Adolescente, composto paritariamente por representantes do Poder Executivo e da sociedade civil organizada.
+
+
+Parágrafo único
+
+O CMDCA está vinculado à Secretaria Municipal de Assistência  
+Social apenas para fins de suporte técnico e administrativo, garantidas a independência e a autonomia de suas decisões e deliberações.
+
+
+Art. 8º.
+
+As decisões e deliberações do Conselho Municipal dos Direitos da Criança e do Adolescente, no âmbito de suas atribuições e competências, vinculam as ações governamentais e da sociedade civil organizada.
+
+
+Parágrafo único
+
+Em caso de descumprimento de suas decisões e deliberações, o  
+Conselho Municipal dos Direitos da Criança e do Adolescente, por meio do seu presidente, sob pena de responsabilidade, representará ao Ministério Público visando à adoção de providências cabíveis, bem como aos demais órgãos legitimados no artigo 210 da Lei Federal n.o 8.069/90.
+
+
+Art. 9º.
+
+A função de membro do Conselho Municipal dos Direitos da Criança e do Adolescente é considerada de interesse público relevante e não será remunerada.
+
+
+Parágrafo único
+
+O Poder Executivo arcará com o custeio ou reembolso de despesas decorrentes de transporte, alimentação e hospedagem dos membros, titulares ou suplentes, para que se façam presentes em cursos, eventos e solenidades.
+
+
+#### CAPÍTULO II — DA ESTRUTURA NECESSÁRIA AO FUNCIONAMENTO DO CONSELHO DOS DIREITOS
+
+
+Art. 10.
+
+A Secretaria Municipal de Assistência Social disponibilizará recursos humanos e estrutura técnica, administrativa e institucional necessários ao adequado e ininterrupto funcionamento do Conselho Municipal dos Direitos da Criança e do Adolescente.
+
+
+§ 1º
+
+O Conselho dos Direitos da Criança e do Adolescente deverá contar com espaço físico, mobiliário e equipamentos, adequados ao seu pleno funcionamento, cuja localização  
+deverá ser amplamente divulgada à sociedade civil.
+
+
+§ 2º
+
+A Secretaria Municipal de Assistência Social manterá uma secretaria executiva, destinada ao suporte administrativo necessário ao funcionamento do Conselho Municipal dos  
+Direitos da Criança e do Adolescente.
+
+
+Art. 11.
+
+O Poder Executivo especificará em dotação orçamentária exclusiva os valores necessários para o funcionamento do Conselho Municipal dos Direitos da Criança e do Adolescente, a qual deverá ser suficiente para custear, dentre outras medidas:
+
+
+I –
+
+despesas com a capacitação continuada dos conselheiros;
+
+
+II –
+
+aquisição e manutenção de espaço físico, mobiliário e equipamentos;
+
+
+III –
+
+outras despesas decorrentes do funcionamento do CMDCA
+
+
+Parágrafo único
+
+É vedado o uso de recursos do Fundo Municipal dos Direitos da  
+Criança e do Adolescente para manutenção do CMDCA.
+
+
+#### CAPÍTULO III — DA COMPOSIÇÃO E DO MANDATO
+
+
+##### Seção I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 12.
+
+O Conselho Municipal dos Direitos da Criança e do Adolescente é composto paritariamente por 4 representantes do governo e 4 representantes da sociedade civil organizada.
+
+
+Art. 13.
+
+O exercício da função de conselheiro requer disponibilidade para o efetivo desempenho de suas funções em razão do interesse público e da prioridade absoluta assegurada  
+aos direitos da criança e do adolescente.
+
+
+##### Seção II — DOS REPRESENTANTES DO GOVERNO
+
+
+Art. 14.
+
+Os representantes do governo serão designados pelo Chefe do Poder Executivo, no prazo máximo de 30 (trinta) dias após a posse.
+
+
+§ 1º
+
+Para cada titular, deverá ser indicado um suplente que o substituirá em caso de ausência ou impedimento, de acordo com o que dispuser o regimento interno do órgão.
+
+
+§ 2º
+
+O mandato de representante governamental está condicionado à nomeação contida no ato designatório da autoridade competente.
+
+
+§ 3º
+
+Os mandatos dos conselheiros representantes do poder público que ocuparem a função quando do término da gestão municipal prorrogam-se automaticamente até que sejam substituídos.
+
+
+Art. 15.
+
+O Chefe do Executivo, ao designar os representantes do governo, deve observar a estrutura administrativa dos diversos níveis de governo dos setores responsáveis pelas políticas de Educação, Saúde, Assistência Social e Administração.
+
+
+Parágrafo único
+
+O representante do governo indicado deverá ter conhecimento e identificação com o público infantojuvenil e sua respectiva política de atendimento, sendo que suas decisões, no âmbito do Conselho Municipal dos Direitos da Criança e do Adolescente,  
+vincularão as ações do Poder Executivo.
+
+
+##### Seção III — DOS REPRESENTANTES DA SOCIEDADE CIVIL
+
+
+Art. 16.
+
+A representação da sociedade civil garantirá a participação da população por meio de organizações representativas escolhidas em fórum próprio convocado pelo Conselho Municipal dos Direitos da Criança e do Adolescente.
+
+
+§ 1º
+
+Poderão participar do processo de escolha as entidades não governamentais de promoção, de atendimento direto, de defesa, de garantia, de estudos e pesquisas dos direitos da  
+criança e do adolescente, com atuação no âmbito territorial do município, constituídas há pelo menos dois anos e em regular funcionamento.
+
+
+§ 2º
+
+A representação da sociedade civil não poderá ser previamente estabelecida, devendo sempre se submeter periodicamente ao processo de escolha.
+
+
+Art. 17.
+
+O processo de escolha iniciará 60 dias antes de término do último mandato, sendo observadas as seguintes etapas:
+
+
+I –
+
+comunicação prévia e formal ao Ministério Público a fim de exercer sua função fiscalizatória.
+
+
+II –
+
+convocação das entidades para comporem o respectivo fórum, mediante edital, publicado na imprensa, afixado no átrio da prefeitura e amplamente divulgado no município.
+
+
+III –
+
+designação pelo Conselho Municipal dos Direitos da Criança e do Adolescente de uma Comissão Eleitoral composta por conselheiros representantes da sociedade civil para organizar e realizar o processo eleitoral;
+
+
+IV –
+
+convocação das entidades para participarem do processo de escolha;
+
+
+V –
+
+realização de assembleia específica e exclusiva para a escolha.
+
+
+Art. 18.
+
+A organização da sociedade civil eleita, detentora do mandato, indicará dentre seus membros, um representante titular e um suplente.
+
+
+Parágrafo único
+
+A eventual substituição dos representantes das organizações da sociedade civil no Conselho dos Direitos da Criança e do Adolescente deverá ser previamente comunicada e justificada, não podendo prejudicar as atividades do Conselho.
+
+
+Art. 19.
+
+É vedada a indicação de nomes ou qualquer outra forma de ingerência do Poder Público sobre o processo de escolha dos representantes da sociedade.
+
+
+Art. 20.
+
+O mandato da sociedade civil será de 02 (dois) anos, não sendo vedada a reeleição
+
+
+Parágrafo único
+
+É vedada a prorrogação de mandatos ou a recondução automática, devendo, para haver a reeleição, novo processo de escolha.
+
+
+Art. 21.
+
+Os representantes da sociedade civil serão empossados no prazo máximo de 30 (trinta) dias após a proclamação do resultado da respectiva eleição, com a publicação dos  
+nomes das organizações da sociedade civil e dos seus respectivos representantes eleitos, titulares e suplentes.
+
+
+##### Seção IV — DOS IMPEDIMENTOS, DA CASSAÇÃO E DA PERDA DO MANDATO
+
+
+Art. 22.
+
+São impedidos de compor o Conselho dos Direitos da Criança e do Adolescente:
+
+
+I –
+
+conselhos de políticas públicas;
+
+
+II –
+
+representantes de órgão de outras esferas governamentais;
+
+
+III –
+
+ocupantes de cargo de confiança e/ou função comissionada do poder público, na qualidade de representante de organização da sociedade civil;
+
+
+IV –
+
+conselheiros tutelares;
+
+
+V –
+
+a autoridade judiciária, legislativa e o órgão de execução do Ministério Público e da Defensoria.
+
+
+Art. 23.
+
+Os membros do Conselho Municipal dos Direitos da Criança e do Adolescente poderão ter seus mandatos suspensos ou cassados quando:
+
+
+I –
+
+não comparecerem, de forma injustificada, a três sessões consecutivas ou cinco alternadas;
+
+
+II –
+
+for constatada a prática de ato incompatível com a função ou com os princípios que regem a Administração Pública, estabelecidos na Lei Federal n. 8.429/92.
+
+
+III –
+
+for condenado por sentença transitada em julgado, por crime doloso ou contravenção penal;
+
+
+§ 1º
+
+Será instaurado processo administrativo, com rito definido no regimento interno, garantindo-se o contraditório, a ampla defesa e a publicidade dos atos, devendo a decisão de  
+cassação ou suspensão ser tomada por maioria absoluta de votos dos membros do Conselho Municipal dos Direitos da Criança e do Adolescente, excetuando-se os votos dos membros  
+processados.
+
+
+§ 2º
+
+A decisão de cassação transitada em julgado será encaminhada, incontinenti, ao Ministério Público para assumir as providências que julgar cabíveis no que tange à responsabilização civil ou criminal do agente.
+
+
+§ 3º
+
+A partir da publicação da decisão de cassação ou suspensão, o membro suplente assumirá o mandato, devendo, para tanto, ser notificado.
+
+
+##### Seção V — DAS DISPOSIÇÕES COMUNS
+
+
+Art. 24.
+
+O membro suplente substituirá o titular em casos de ausência,  
+afastamento ou impedimento, observando-se as disposições do regimento interno.
+
+
+Art. 25.
+
+O Conselho Municipal dos Direitos da Criança e do Adolescente possuirá uma mesa diretora, composta por quatro membros, sendo um presidente, um vice-presidente, um primeiro secretário e um segundo secretário, sendo obrigatória, a cada ano, a alternância e a paridade nos cargos diretivos entre representantes do governo e da sociedade civil organizada.
+
+
+Art. 26.
+
+Aos membros escolhidos como conselheiros será ofertada capacitação inicial e continuada para o cargo, cabendo ao Poder Executivo, via Secretaria de Assistência Social, em até 30 (trinta) dias após a posse, dar início à capacitação, apresentando cronograma e conteúdo programático ao CMDCA e ao Ministério Público.
+
+
+#### CAPÍTULO IV — DAS REUNIÕES E DOS ATOS DELIBERATIVOS
+
+
+Art. 27.
+
+As reuniões do Conselho Municipal dos Direitos da Criança e do Adolescente ocorrerão, no mínimo, uma vez por mês, em data, horário e local a serem definidos em regimento interno, estabelecendo-se uma periodicidade em cronograma semestral ou anual.
+
+
+Art. 28.
+
+Será dada ampla publicidade às reuniões do CMDCA, garantindo-se a participação popular, sendo obrigatória a comunicação formal ao Conselho Tutelar, ao Ministério Público e ao Juizado da Infância e da Juventude.
+
+
+Parágrafo único
+
+As reuniões terão sua publicidade restringida quando a defesa da intimidade ou o interesse social o exigirem.
+
+
+Art. 29.
+
+As convocações para as reuniões informarão, obrigatoriamente, a pauta ou ordem do dia, observada a antecedência mínima de 05 (cinco) dias do evento, por meio de carta-convite, ofício ou correio eletrônico.
+
+
+Art. 30.
+
+De cada reunião, lavrar-se-á a ata.
+
+
+Art. 31.
+
+É assegurado o direito de manifestação a todos que participarem das reuniões, observando o regimento interno a ser elaborado e aprovado pelos conselheiros no prazo máximo de 30 (trinta) dias após a posse.
+
+
+Art. 32.
+
+Os atos deliberativos do Conselho Municipal dos Direitos da Criança e do Adolescente deverão ser publicados no Diário Oficial, na imprensa local ou no átrio da Prefeitura, seguindo as mesmas regras de publicação dos demais atos do Poder Executivo.
+
+
+Parágrafo único
+
+O CMDCA deverá encaminhar uma cópia de suas resoluções ao Juiz da Infância e Juventude, à Promotoria de Justiça com atribuição na defesa dos direitos da criança e do adolescente, bem como ao Conselho Tutelar
+
+
+#### CAPÍTULO V — DAS ATRIBUIÇÕES DO CONSELHO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE
+
+
+Art. 33.
+
+Compete ao Conselho Municipal dos Direitos da Criança e do Adolescente:
+
+
+I –
+
+acompanhar, monitorar e avaliar as políticas no seu âmbito;
+
+
+II –
+
+divulgar e promover as políticas e práticas bem-sucedidas;
+
+
+III –
+
+difundir à sociedade local a concepção de criança e adolescente como sujeitos de direitos e pessoas em situação especial de desenvolvimento, e o paradigma da proteção integral como prioridade absoluta;
+
+
+IV –
+
+conhecer a realidade de seu território e elaborar o seu plano de ação, inclusive solicitando ao Conselho Tutelar, relatórios trimestrais, com as demandas atendidas, não atendidas e/ou reprimidas devido à ausência ou insuficiência de equipamentos, políticas ou atendimentos.
+
+
+V –
+
+realizar a cada biênio diagnóstico da situação da população infantojuvenil no município;
+
+
+VI –
+
+definir prioridades de enfrentamento dos problemas mais urgentes;
+
+
+VII –
+
+articular a rede municipal de proteção, promovendo a integração operacional de todos os órgãos, autoridades, instituições e entidades que atuem direta ou indiretamente no  
+atendimento e defesa dos direitos da criança e do adolescente, preferencialmente mediante assinatura de termo de integração operacional;
+
+
+VIII –
+
+promover e apoiar campanhas educativas sobre os direitos da criança e do adolescente;
+
+
+IX –
+
+propor a elaboração de estudos e pesquisas com vistas a promover, subsidiar e dar mais efetividade às políticas;
+
+
+X –
+
+participar e acompanhar a elaboração, aprovação e execução do PPA (Plano Plurianual), LDO (Lei de Diretrizes Orçamentária) e LOA (Lei Orçamentária Anual) e suas execuções, indicando modificações necessárias à consecução dos objetivos da política dos direitos da criança e do adolescente;
+
+
+XI –
+
+gerir o Fundo Municipal dos Direitos da Criança e do Adolescente, definindo a utilização dos respectivos recursos por meio de plano de aplicação, ficando à cargo do Poder  
+Executivo a execução ou ordenação dos recursos do Fundo;
+
+
+XII –
+
+deliberar o Plano Anual de Aplicação dos Recursos do Fundo Municipal dos Direitos da Criança e do Adolescente e enviá-lo juntamente com o Plano Anual de Ação Municipal de Atendimento à Criança e ao Adolescente ao chefe do Poder Executivo municipal, para que sejam inseridos, respectivamente, na proposta de Lei Orçamentária Anual e na Lei de Diretrizes Orçamentárias, observados os prazos determinados na Lei Orgânica municipal;
+
+
+XIII –
+
+examinar e aprovar os balancetes mensais e o balanço anual do Fundo Municipal dos Direitos da Criança e do Adolescente;
+
+
+XIV –
+
+acompanhar e oferecer subsídios na elaboração legislativa local relacionada à garantia dos direitos da criança e do adolescente;
+
+
+XV –
+
+convocar o fórum de representantes da sociedade civil para escolha dos conselheiros dos direitos não-governamentais;
+
+
+XVI –
+
+atuar como instância de apoio no nível local nos casos de petições, denúncias e reclamações formuladas por qualquer pessoa ou entidade, participando de audiências ou ainda  
+promovendo denúncias públicas quando ocorrer ameaça ou violação de direitos da criança e do adolescente, acolhendo-as e dando encaminhamento aos órgãos competentes;
+
+
+XVII –
+
+registrar as organizações da sociedade civil sediadas em sua base territorial que prestem atendimento a crianças, adolescentes e suas respectivas famílias, executando os  
+programas a que se refere o art. 90, caput, e, no que couber, as medidas previstas nos artigos 101, 112 e 129, todos da Lei nº 8.069/90;
+
+
+XVIII –
+
+inscrever os programas de atendimento a crianças, adolescentes e suas respectivas famílias em execução na sua base territorial por entidades governamentais e organizações da sociedade civil;
+
+
+XIX –
+
+recadastrar as entidades e os programas em execução, certificando-se de seu funcionamento e sua contínua adequação à política traçada para a promoção dos direitos da criança e do adolescente.
+
+
+XX –
+
+regulamentar, organizar e coordenar o processo de escolha dos conselheiros tutelares, seguindo as determinações da Lei nº 8.069/90, das Resoluções do Conselho Nacional dos Direitos da Criança e do Adolescente – CONANDA e desta Lei;
+
+
+XXI –
+
+instaurar sindicância para apurar eventual falta cometida por conselheiro tutelar no exercício de suas funções, observando a legislação municipal pertinente ao processo de sindicância ou administrativo/disciplinar, de acordo com as Resoluções do Conselho Nacional dos Direitos da Criança e do Adolescente – CONANDA;
+
+
+XXII –
+
+elaborar o seu regimento interno, que deverá ser aprovado por pelo menos 2/3 (dois terços) de seus membros.
+
+
+Parágrafo único
+
+O exercício das competências descritas nos incisos XVII a XIX deste artigo, atenderá às seguintes regras:
+
+
+a)
+
+o CMDCA deverá realizar periodicamente, a cada 04 (quatro) anos, no máximo, o recadastramento das entidades, reavaliando o cabimento de sua renovação, nos termos do artigo 91, § 2º, da Lei Federal nº 8.069/90;
+
+
+b)
+
+o CMDCA deverá expedir resolução indicando a relação de documentos a serem fornecidos pela entidade para fins de registro, considerando o disposto no artigo 91, da Lei Federal nº 8.069/90, para aferir a capacidade da entidade em garantir a política de atendimento compatível com os princípios do ECA;
+
+
+c)
+
+será negado registro à entidade, nas hipóteses relacionadas no artigo 91, § 1º, da Lei Federal nº 8.069/90, e em outras situações definidas em resolução do CMDCA;
+
+
+d)
+
+será negado registro e inscrição do serviço ou programa que não respeitar os princípios estabelecidos pela Lei Federal nº 8.069/90, ou que seja incompatível com a Política de Promoção aos Direitos da Criança e do Adolescente traçada pelo CMDCA;
+
+
+e)
+
+o CMDCA não concederá registro para funcionamento de entidades nem inscrição de serviços e programas que desenvolvam somente atendimento em modalidades educacionais formais de educação infantil, ensino fundamental e médio;
+
+
+f)
+
+verificada a ocorrência de alguma das hipóteses das alíneas de “c” a “e”, a qualquer momento poderá ser cassado o registro concedido à entidade ou a inscrição de serviço/programa,  
+comunicando-se o fato à autoridade judiciária, ao Ministério Público e ao Conselho Tutelar;
+
+
+g)
+
+caso alguma entidade ou serviço/programa esteja comprovadamente atendendo crianças ou adolescentes sem o devido registro ou inscrição no CMDCA, deverá o fato ser  
+levado de imediato ao conhecimento da autoridade judiciária, do Ministério Público e do Conselho Tutelar, para a tomada das medidas cabíveis;
+
+
+h)
+
+o CMDCA expedirá ato próprio dando publicidade ao registro das entidades e dos serviços e programas que preencherem os requisitos exigidos, sem prejuízo de sua imediata comunicação ao Juízo da Infância e da Juventude e ao Conselho Tutelar, conforme previsto nos artigos 90, parágrafo único, e 91, “caput”, da Lei nº 8.069/90.
+
+
+i)
+
+o CMDCA deverá realizar periodicamente, a cada 02 (dois) anos, no máximo, o recadastramento dos serviços e programas em execução, constituindo-se critérios para renovação da autorização de funcionamento aqueles previstos nos incisos do § 3º, do artigo 90, da Lei nº 8.069/90.
+
+
+#### CAPÍTULO VI — DA ESTRUTURA E FUNCIONAMENTO DO CONSELHO MUNICIPAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE
+
+
+Art. 34.
+
+O Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA reunir-se-á na forma e periodicidade estabelecidas no seu Regimento, no mínimo 01 (uma) vez por mês, e terá a seguinte estrutura:
+
+
+I –
+
+Mesa Diretiva, composta por:
+
+
+a)
+
+Presidente;
+
+
+b)
+
+Vice-Presidente;
+
+
+II –
+
+Comissões Temáticas e/ou Intersetoriais;
+
+
+III –
+
+Plenária;
+
+
+IV –
+
+Secretaria Executiva.
+
+
+§ 1º
+
+Tendo em vista o disposto no art. 260-I, da Lei Federal nº 8.069/90, o Conselho Municipal de Direitos da Criança e do Adolescente - CMDCA, dará ampla divulgação de seu calendário de reuniões ordinárias e extraordinárias à comunidade, assim como ao Ministério Público, Poder Judiciário e Conselho Tutelar.
+
+
+§ 2º
+
+As pautas contendo as matérias a serem objeto de discussão e deliberação nas reuniões ordinárias e extraordinárias do Conselho Municipal de Direitos da Criança e do Adolescente - CMDCA serão previamente publicadas e comunicadas aos Conselheiros titulares e suplentes, Juízo e Promotoria da Infância e Juventude, Conselhos Tutelares, bem como à população em geral.
+
+
+§ 3º
+
+As sessões serão consideradas instaladas após atingidos o horário regulamentar e o quorum regimental mínimo.
+
+
+§ 4º
+
+As decisões serão tomadas por maioria de votos, conforme dispuser o regimento interno do Órgão, salvo disposição em contrário prevista nesta Lei.
+
+
+§ 5º
+
+As deliberações e resoluções do CMDCA serão publicadas nos órgãos oficiais e/ou  
+na imprensa local, seguindo os mesmos trâmites para publicação dos demais atos do Executivo, porém gozando de absoluta prioridade.
+
+
+§ 6º
+
+As despesas decorrentes da publicação deverão ser suportadas pela administração  
+pública, através de dotação orçamentária específica.
+
+
+Art. 35.
+
+A mesa diretiva será eleita pelo Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA, dentre os seus membros, nos primeiros 30 (trinta) dias de vigência do mandato, em reunião plenária com a presença de no mínimo 2/3 (dois terços) dos conselheiros.
+
+
+§ 1º
+
+Compete à mesa diretiva dirigir os trabalhos e organizar as pautas das plenárias.
+
+
+§ 2º
+
+A presidência deverá ser ocupada alternadamente por conselheiros representantes da sociedade civil e do governo.
+
+
+§ 3º
+
+O mandato dos membros da mesa diretiva será de 02 (dois) ano, vedada a recondução.
+
+
+Art. 36.
+
+As comissões temáticas serão formadas pelos membros titulares e suplentes do Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA, sendo respeitada a paridade, e facultada a participação de convidados, técnicos e especialistas.
+
+
+Parágrafo único
+
+As comissões intersetoriais terão caráter consultivo e serão vinculadas ao Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA.
+
+
+Art. 37.
+
+A Plenária é composta pelo colegiado dos membros titulares e suplentes do Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA, sendo a instância máxima de deliberação e funcionará de acordo com o Regimento do Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA.
+
+
+Art. 38.
+
+A Secretaria Executiva terá por atribuição oferecer apoio operacional e administrativo ao Conselho Municipal dos Direitos da Criança e do Adolescente – CMDCA.
+
+
+§ 1º
+
+Para o adequado e ininterrupto funcionamento do Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA, o Poder Executivo Municipal deverá oferecer estrutura física, equipamentos, materiais de expediente e funcionários do quadro do Município de Araci.
+
+
+§ 2º
+
+Constará da Lei Orçamentária Municipal a previsão dos recursos necessários ao funcionamento regular e ininterrupto do Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA, observado o princípio constitucional da prioridade absoluta à criança e ao adolescente, nos moldes do previsto no art. 4º, caput e par. único, da Lei Federal nº 8.069/90 e art. 227, caput, da Constituição Federal.
+
+
+### TÍTULO III — DO CONSELHO TUTELAR
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 39.
+
+O município terá 01 (um) Conselho Tutelar para cada cem mil habitantes, com  
+estrutura adequada para funcionamento, composto de 5 (cinco) membros escolhidos pela  
+população local, para mandato de 4 (quatro) anos, permitida recondução por novos processos de  
+escolha
+
+
+Art. 40.
+
+O Conselho Tutelar é órgão integrante da administração pública municipal,  
+administrativamente vinculado à Secretaria Municipal de Assistência Social a qual deverá  
+fornecer recursos humanos e estrutura técnica, administrativa e institucional necessária ao seu adequado e ininterrupto funcionamento, conforme abaixo especificado:
+
+
+I –
+
+imóvel próprio ou locado, com exclusividade, identificação, de fácil acesso à  
+população, dotado de salas para recepção, reunião dos conselheiros, equipe multidisciplinar e atendimento individualizado e reservado, possuindo banheiros e demais aspectos habitacionais em perfeito funcionamento;
+
+
+II –
+
+linhas telefônicas, fixa e ou móvel, para uso exclusivo dos conselheiros tutelares,  
+autorizado o controle e a fiscalização das ligações locais e interurbanas pela Secretaria  
+Municipal à qual estiver vinculado;
+
+
+III –
+
+mínimo de três computadores e uma impressoras para uso do Conselho Tutelar,  
+todos em perfeito estado de uso, com placa de rede e acessibilidade à rede mundial de  
+comunicação digital (internet), via banda larga, devidamente interligados, para facilitação das atividades dos conselheiros tutelares, notadamente no preenchimento obrigatório do SIPIA;
+
+
+IV –
+
+uma máquina fotográfica digital e o custeio das impressões que se fizerem  
+necessárias para a instrumentalização do trabalho dos conselheiros tutelares e equipe  
+multidisciplinar;
+
+
+V –
+
+ventiladores, bebedouros, mesas, cadeiras, armários, arquivos e materiais de escritório;
+
+
+VI –
+
+placa, em condições de boa visibilidade para o público em geral, indicando a localização do Conselho Tutelar e os números dos seus telefones, inclusive com a escala e os horários de plantão;
+
+
+VII –
+
+formação inicial e continuada para os membros do Conselho Tutelar, voltada para  
+as atribuições inerentes ao cargo e prática cotidiana.
+
+
+§ 1º
+
+A sede do Conselho Tutelar deverá oferecer espaço físico e instalações que permitam  
+o adequado desempenho das atribuições e competências dos conselheiros e o acolhimento digno ao público, contendo, no mínimo:
+
+
+I –
+
+placa indicativa da sede do Conselho;
+
+
+II –
+
+sala reservada para o atendimento e recepção ao público;
+
+
+III –
+
+sala reservada para o atendimento aos casos;
+
+
+IV –
+
+sala reservada para os serviços administrativos.
+
+
+§ 2º
+
+O número de salas deverá atender a demanda, de modo a possibilitar atendimentos  
+simultâneos, evitando prejuízos à imagem e à intimidade das crianças, dos adolescentes e familiares atendidos.
+
+
+Art. 41.
+
+A Lei Orçamentária Municipal deverá prever dotação específica dos recursos necessários para implantação, manutenção e funcionamento do Conselho Tutelar, como aquisição e manutenção de bens móveis e imóveis, pagamento de serviços de terceiros e encargos, diárias, material de consumo, passagens e outras despesas que se fizerem necessárias, bem como para a formação continuada dos conselheiros tutelares e pagamento da remuneração e demais direitos sociais previstos no art. 134, incisos I a V do ECA.
+
+
+#### CAPÍTULO II
+
+
+Art. 42.
+
+O Conselho Tutelar funcionará em local de fácil acesso, preferencialmente já  
+constituído como referência de atendimento à população, de segunda à sexta-feira, no horário de 08:00 às 18:00 horas, perfazendo carga horária semanal de 40 horas, além dos sobreavisos.
+
+
+§ 1º
+
+O atendimento em sobreaviso será realizado das 18:00 às 08:00, nos dias úteis, nos  
+finais de semanas e feriados.
+
+
+§ 2º
+
+O atendimento em sobreaviso seguirá escala de rodízio e será realizado por um  
+conselheiro tutelar à distância, por meio de aparelho celular. Os sobreavisos serão remunerados em 1/3 (um terço) da hora normal trabalhada.
+
+
+§ 3º
+
+As informações sobre o horário de funcionamento do Conselho Tutelar, inclusive  
+sobre o horário e a escala de atendimento dos sobreavisos e número do celular do plantonista, serão fixadas à porta da sede do Conselho Tutelar, bem como comunicadas por escrito ao Juízo da Infância e da Juventude, ao Ministério Público, às Polícias, Civil e Militar e ao Conselho Municipal dos Direitos da Criança e do Adolescente.
+
+
+§ 4º
+
+A fiscalização do cumprimento do horário de funcionamento do Conselho Tutelar e  
+da jornada de trabalho de seus membros dar-se-á pela Secretaria Municipal de Assistência Social, podendo ser utilizado ponto eletrônico, livro de ponto e outras formas de  
+acompanhamento.
+
+
+Art. 43.
+
+Todos os membros do Conselho Tutelar serão submetidos à mesma carga  
+horária semanal de trabalho, bem como aos mesmos períodos de sobreavisos, sendo vedado qualquer tratamento desigual.
+
+
+Parágrafo único
+
+O disposto no caput não impede a distribuição equitativa dos casos  
+ou a divisão de tarefas entre os conselheiros, evitando sobrecarga e preferências pessoais, para fins de realização de diligências, atendimento descentralizado em comunidades distantes da sede, fiscalização de entidades, programas e outras atividades externas, sem prejuízo do caráter colegiado das decisões tomadas pelo Conselho.
+
+
+Art. 44.
+
+Observados os parâmetros e normas definidas pela Lei Federal nº 8.069/90,  
+compete ao Conselho Tutelar a elaboração e aprovação do seu Regimento Interno
+
+
+§ 1º
+
+A proposta do Regimento Interno deverá ser encaminhada do Conselho Municipal  
+dos Direitos da Criança e do Adolescente para apreciação, sendo-lhes facultado o envio de propostas de alteração.
+
+
+§ 2º
+
+Uma vez aprovado pelo colegiado do Conselho Tutelar, o Regimento Interno será  
+publicado, afixado em local visível na sede do órgão e encaminhado ao Poder Judiciário e ao Ministério Público.
+
+
+Art. 45.
+
+As decisões do Conselho Tutelar serão tomadas pelo seu colegiado, conforme  
+dispuser o Regimento Interno.
+
+
+§ 1º
+
+As medidas de caráter emergencial, tomadas durante os sobreavisos, serão  
+comunicadas ao colegiado no primeiro dia útil subsequente, para ratificação ou retificação.
+
+
+§ 2º
+
+As decisões serão motivadas e comunicadas formalmente aos interessados,  
+mediante documento escrito, no prazo máximo de quarenta e oito horas, sem prejuízo de seu registro em arquivo próprio, na sede do Conselho.
+
+
+§ 3º
+
+Se não localizado, o interessado será intimado através de publicação do extrato da  
+decisão na sede do Conselho Tutelar, admitindo-se outras formas de publicação, de acordo com o disposto na legislação local.
+
+
+§ 4º
+
+É garantido ao Ministério Público e à autoridade judiciária o acesso irrestrito aos  
+registros do Conselho Tutelar, resguardado o sigilo perante terceiros.
+
+
+§ 5º
+
+Os demais interessados ou procuradores legalmente constituídos terão acesso às atas  
+das sessões deliberativas e registros do Conselho Tutelar que lhes digam respeito, ressalvadas as informações que coloquem em risco a imagem ou a integridade física ou psíquica da criança ou adolescente, bem como a segurança de terceiros.
+
+
+§ 6º
+
+Para os efeitos deste artigo, são considerados interessados os pais ou responsável  
+legal da criança ou adolescente atendido, bem como os destinatários das medidas aplicadas e das requisições de serviço efetuadas.
+
+
+Art. 46.
+
+O Conselho Tutelar terá um Conselheiro-Coordenador, que será escolhido pelos  
+seus pares, dentro do prazo de trinta dias da posse, em reunião interna presidida pelo conselheiro com maior tempo de atuação na área da criança e do adolescente, o qual também coordenará o Conselho no decorrer daquele prazo.
+
+
+Art. 47.
+
+É vedado ao Conselho Tutelar executar serviços e programas de atendimento,  
+os quais devem ser requisitados aos órgãos encarregados da execução de políticas públicas
+
+
+Art. 48.
+
+Cabe ao Poder Executivo Municipal fornecer ao Conselho Tutelar os meios  
+necessários para sistematização de informações relativas às demandas e deficiências na estrutura de atendimento à população de crianças e adolescentes, tendo como base o Sistema de Informação para a Infância e Adolescência – SIPIA, ou equivalente.
+
+
+§ 1º
+
+O Conselho Tutelar encaminhará relatório trimestral ao Conselho Municipal dos  
+Direitos da Criança e Adolescente, ao Ministério Público e ao juiz da Vara da Infância e da  
+Juventude, contendo a síntese dos dados referentes ao exercício de suas atribuições, bem como as demandas e deficiências na implementação das políticas públicas, de modo que sejam definidas estratégias e deliberadas providências necessárias para solucionar os problemas existentes.
+
+
+§ 2º
+
+Cabe aos órgãos públicos responsáveis pelo atendimento de crianças e adolescentes  
+com atuação no município auxiliar o Conselho Tutelar na coleta de dados e no encaminhamento das informações relativas às demandas e deficiências das políticas públicas ao Conselho Municipal dos Direitos da Criança e do Adolescente.
+
+
+§ 3º
+
+Cabe ao Conselho Municipal dos Direitos da Criança e do Adolescente a definição  
+do plano de implantação do SIPIA para o Conselho Tutelar
+
+
+#### CAPÍTULO III — DA AUTONOMIA DO CONSELHO TUTELAR E SUA ARTICULAÇÃO COM OS DEMAIS ÓRGÃOS NA GARANTIA DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE
+
+
+Art. 49.
+
+O Conselho Tutelar é autônomo para tomar providências e aplicar medidas de proteção decorrentes da lei, bem como requisitar os serviços necessários dos órgãos públicos.
+
+
+Art. 50.
+
+O Conselho Tutelar exercerá exclusivamente as atribuições previstas na Lei nº  
+8.069/90, não podendo ser criadas novas atribuições por ato de quaisquer outras autoridades do Poder Judiciário, Ministério Público, do Poder Legislativo ou do Poder Executivo municipal e estadual.
+
+
+Art. 51.
+
+A atuação do Conselho Tutelar deve ser voltada à solução efetiva dos casos  
+atendidos, com o objetivo de desjudicializar, desburocratizar e agilizar o atendimento das  
+crianças e dos adolescentes, ressalvado as disposições previstas na Lei Federal nº 8.069/90.
+
+
+§ 1º
+
+No desempenho da função os conselheiros devem agir sempre de forma colegiada e  
+qualificada, devendo estabelecer cronograma de reuniões semanais para estudos de casos e estudos temáticos relacionados às normativas e legislações vigentes, podendo para tanto, destinar horas, dentro do horário de funcionamento, para expediente interno, restringindo o atendimento do público ao plantonista do dia.
+
+
+§ 2º
+
+O caráter resolutivo da intervenção do Conselho Tutelar não impede que o Poder Judiciário seja informado das providências tomadas ou acionado, sempre que necessário.
+
+
+Art. 52.
+
+As decisões do Conselho Tutelar, proferidas no âmbito de suas atribuições e  
+obedecidas as formalidades legais, têm eficácia plena e são passíveis de execução imediata.
+
+
+§ 1º
+
+Cabe ao destinatário da decisão, em caso de discordância, ou a qualquer interessado  
+requerer ao Poder Judiciário sua revisão, na forma prevista pelo art. 137, da Lei Federal nº 8.069/90.
+
+
+§ 2º
+
+Enquanto não suspensa ou revista pelo Poder Judiciário, a decisão proferida pelo  
+Conselho Tutelar deve ser imediata e integralmente cumprida pelo seu destinatário, sob pena da prática da infração administrativa prevista no art. 249, da Lei Federal nº 8.069/90.
+
+
+Art. 53.
+
+É vedado o exercício das atribuições inerentes ao conselheiro tutelar por pessoas  
+estranhas ao órgão ou que não tenham sido escolhidas pela comunidade no processo democrático, sendo nulos os atos por elas praticados.
+
+
+Art. 54.
+
+Conselho Tutelar deverá definir fluxos de atendimentos e articular ações para  
+o estrito cumprimento de suas atribuições de modo a agilizar a prestação do serviço requerido nos órgãos governamentais e não governamentais encarregados da execução das políticas de atendimento de crianças, adolescentes e suas respectivas famílias.
+
+
+Parágrafo único
+
+Articulação similar será também efetuada junto às Polícias Civil e Militar, Ministério Público, Judiciário e Conselho dos Direitos da Criança e do Adolescente, de modo que seu acionamento seja efetuado com o máximo de urgência, sempre que necessário.
+
+
+Art. 55.
+
+No exercício de suas atribuições, o Conselho Tutelar não se subordina ao  
+Conselho Municipal de Direitos da Criança e do Adolescente, com o qual deve manter uma relação de parceria, essencial ao trabalho conjunto dessas duas instâncias de promoção, proteção, defesa e garantia dos direitos das crianças e dos adolescentes.
+
+
+§ 1º
+
+Na hipótese de atentado à autonomia do Conselho Tutelar, deverá o órgão noticiar  
+às autoridades responsáveis para apuração da conduta do agente violador para conhecimento e adoção das medidas cabíveis
+
+
+§ 2º
+
+O Conselho Municipal dos Direitos da Criança e do Adolescente também será comunicado na hipótese de atentado à autonomia do Conselho Tutelar, para acompanhar a apuração dos fatos.
+
+
+Art. 56.
+
+O exercício da autonomia do Conselho Tutelar não isenta seu membro de responder pelas obrigações funcionais e administrativas.
+
+
+#### CAPÍTULO IV — DOS PRINCÍPIOS E CAUTELAS A SEREM OBSERVADOS NO ATENDIMENTO PELO CONSELHO TUTELAR
+
+
+Art. 57.
+
+No exercício de suas atribuições, o Conselho Tutelar deverá observar as  
+normas e princípios contidos na Constituição, na Lei Federal nº 8.069/90, na Convenção das Nações Unidas sobre os Direitos da Criança, promulgada pelo Decreto Federal nº 99.710, de 21 de novembro de 1990, bem como nas Resoluções do CONANDA, especialmente:
+
+
+I –
+
+condição da criança e do adolescente como sujeitos de direitos;
+
+
+II –
+
+proteção integral e prioritária dos direitos da criança e do adolescente;
+
+
+III –
+
+responsabilidade da família, da comunidade da sociedade em geral, e do Poder  
+Público pela plena efetivação dos direitos assegurados a crianças e adolescentes;
+
+
+IV –
+
+municipalização da política de atendimento a crianças e adolescentes;
+
+
+V –
+
+respeito à intimidade, e à imagem da criança e do adolescente;
+
+
+VI –
+
+intervenção precoce, logo que a situação de perigo seja conhecida;
+
+
+VII –
+
+intervenção mínima das autoridades e instituições na promoção e proteção dos  
+direitos da criança e do adolescente;
+
+
+VIII –
+
+proporcionalidade e atualidade da intervenção tutelar;
+
+
+IX –
+
+intervenção tutelar que incentive a responsabilidade parental com a criança e o  
+adolescente;
+
+
+X –
+
+prevalência das medidas que mantenham ou reintegrem a criança e o adolescente na  
+sua família natural ou extensa ou, se isto não for possível, em família substituta;
+
+
+XI –
+
+obrigatoriedade da informação à criança e ao adolescente, respeitada sua idade e  
+capacidade de compreensão, assim como aos seus pais ou responsável, acerca dos seus direitos, dos motivos que determinaram a intervenção e da forma como se processa;
+
+
+XII –
+
+oitiva obrigatória e participação da criança e o adolescente, em separado ou na  
+companhia dos pais, responsável ou de pessoa por si indicada, nos atos e na definição da medida de promoção dos direitos e de proteção, de modo que sua opinião seja devidamente considerada pelo Conselho Tutelar
+
+
+Art. 58.
+
+No caso de atendimento de crianças e adolescentes de comunidades remanescentes de quilombo e outras comunidades tradicionais, o Conselho Tutelar deverá:
+
+
+I –
+
+submeter o caso a análise de organizações sociais reconhecidas por essas  
+comunidades, bem como os representantes de órgãos públicos especializados, quando couber;
+
+
+II –
+
+considerar e respeitar, na aplicação das medidas de proteção, a identidade  
+sociocultural, costumes, tradições e lideranças, bem como suas instituições, desde que não sejam incompatíveis com os direitos fundamentais reconhecidos pela Constituição Federal e pela Lei Federal nº 8.069/90.
+
+
+Art. 59.
+
+No exercício da atribuição prevista no art. 95, da Lei Federal nº 8.069/90,  
+constatando a existência de irregularidade na entidade fiscalizada ou no programa de  
+atendimento executado, o Conselho Tutelar comunicará o fato ao Conselho Municipal de  
+Direitos da Criança e do Adolescente e ao Ministério Público, na forma do art. 191 da mesma lei.
+
+
+Art. 60.
+
+Sempre que necessário o integrante do Conselho Tutelar poderá requisitar o auxílio dos órgãos locais de segurança pública, observados os princípios constitucionais da proteção integral e da prioridade absoluta à criança e ao adolescente.
+
+
+Art. 61.
+
+O Conselho Tutelar, em sua atuação, deverá preservar a identidade da criança  
+ou do adolescente.
+
+
+§ 1º
+
+O membro do Conselho Tutelar poderá se abster de pronunciar publicamente acerca  
+dos casos atendidos pelo órgão.
+
+
+§ 2º
+
+O membro do Conselho Tutelar será responsável pelo uso indevido das informações  
+e documentos que requisitar.
+
+
+§ 3º
+
+A responsabilidade pela divulgação e uso indevidos de informações referentes ao  
+atendimento de crianças e de adolescentes estende-se aos funcionários e auxiliares à disposição do Conselho Tutelar, estando todos sujeitos a responsabilização pelos atos praticados.
+
+
+Art. 62.
+
+As requisições efetuadas pelo Conselho Tutelar às autoridades, órgãos e  
+entidades da Administração Pública direta, indireta ou fundacional, dos Poderes Legislativo e Executivo Municipal serão cumpridas de forma gratuita e prioritária, respeitando-se os princípios da razoabilidade e legalidade
+
+
+Art. 63.
+
+O processo de escolha dos membros do Conselho Tutelar deverá observar as seguintes diretrizes:
+
+
+I –
+
+processo de escolha mediante sufrágio universal e direto, pelo voto facultativo e  
+secreto dos eleitores do município, realizado em data unificada em todo território nacional, a cada quatro anos, no primeiro domingo do mês de outubro do ano subsequente ao da eleição presidencial, sendo todas as suas etapas conduzidas pelo Conselho Municipal dos Direitos da Criança e do Adolescente;
+
+
+II –
+
+candidatura individual, não sendo admitida a composição de chapas;
+
+
+III –
+
+fiscalização pelo Ministério Público;
+
+
+IV –
+
+posse dos conselheiros tutelares no dia 10 de janeiro do ano subsequente ao processo  
+de escolha.
+
+
+Art. 64.
+
+Os 5 (cinco) candidatos mais votados serão nomeados e empossados pelo Chefe  
+do Poder Executivo Municipal e os demais candidatos seguintes serão considerados suplentes, seguindo-se a ordem decrescente de votação.
+
+
+Parágrafo único
+
+O mandato será de 4 (quatro) anos, permitida recondução por novos processos de escolha, em igualdade de condições aos demais candidatos
+
+
+Art. 65.
+
+O Conselho Municipal de Direitos da Criança e do Adolescente - CMDCA  
+iniciará o processo de eleição dos membros dos Conselhos Tutelares até 180 (cento e oitenta) dias antes do término do mandato dos Conselheiros Tutelares em exercício, através da publicação de Resolução específica e Edital de Convocação.
+
+
+Parágrafo único
+
+O Edital de Convocação para Eleição dos Membros dos Conselhos Tutelares  
+disporá sobre:
+
+
+I –
+
+A composição da Comissão do Processo Eleitoral;
+
+
+II –
+
+As condições e requisitos necessários à inscrição dos candidatos a conselheiro  
+tutelar, indicando os prazos e os documentos a serem apresentados pelos candidatos, inclusive registros de impugnações;
+
+
+III –
+
+As normas relativas ao processo eleitoral, indicando as regras de campanha, as condutas permitidas e vedadas aos candidatos com as respectivas sanções;
+
+
+IV –
+
+O mandato e posse dos Conselheiros Tutelares;
+
+
+V –
+
+O calendário oficial, constando a síntese de todos os prazos.
+
+
+##### Seção I — DA COMPOSIÇÃO DA COMISSÃO DO PROCESSO ELEITORAL
+
+
+Art. 66.
+
+A Comissão do Processo Eleitoral deverá ser eleita em plenária do Conselho  
+Municipal dos Direitos da Criança e do Adolescente - CMDCA, sendo composta de forma  
+paritária por conselheiros titulares e/ou suplentes, facultando ao órgão incluir outros  
+profissionais da gestão municipal, que julgue necessário.
+
+
+§ 1º
+
+A Comissão do Processo Eleitoral será presidida pelo Presidente do Conselho  
+Municipal de Direitos da Criança e do Adolescente - CMDCA, devendo ser eleito um Secretário.
+
+
+§ 2º
+
+Fica sob a responsabilidade da Comissão do Processo Eleitoral a elaboração da  
+minuta do Edital de Convocação para Eleição dos Conselheiros Tutelares, a qual será  
+encaminhada à apreciação e deliberação do Conselho Municipal de Direitos da Criança e do Adolescente - CMDCA, sendo a Resolução publicada no Órgão Oficial do Município.
+
+
+§ 3º
+
+. No Edital de Convocação para Eleição dos Membros dos Conselhos Tutelares  
+deverá constar o nome completo dos integrantes da Comissão do Processo Eleitoral, bem como sua representação e o cargo exercido na Comissão.
+
+
+##### Seção II — DOS REQUISITOS À CANDIDATURA
+
+
+Art. 67.
+
+Para a candidatura a membro do Conselho Tutelar, o interessado deverá  
+comprovar:
+
+
+I –
+
+reconhecida idoneidade moral;
+
+
+II –
+
+idade superior a 21 (vinte e um) anos;
+
+
+III –
+
+residência no Município a pelo menos dois anos;
+
+
+IV –
+
+conclusão do Ensino Médio;
+
+
+V –
+
+Ser aprovado (a) em avaliação de suficiência, por meio de prova de caráter eliminatório, a ser formulada sob responsabilidade da Comissão Especial Eleitoral, tendo por objetivo informar o eleitor sobre o nível mínimo de conhecimentos teóricos específicos dos candidatos;
+
+
+VI –
+
+não ter sido anteriormente suspenso ou destituído do cargo de membro do Conselho  
+Tutelar em mandato anterior, por decisão administrativa ou judicial;
+
+
+VII –
+
+ão incidir nas hipóteses do art. 1º, inc. I, da Lei Complementar Federal n. 64/1990  
+(Lei de Inelegibilidade);
+
+
+VIII –
+
+não ser membro, no momento da publicação do edital, do Conselho Municipal  
+dos Direitos da Criança e do Adolescente;
+
+
+IX –
+
+não possuir os impedimentos previstos no art. 140 e parágrafo único da Lei Federal  
+8.069/1990 (Estatuto da Criança e do Adolescente).
+
+
+§ 1º
+
+A prova escrita de que trata o inciso V será regulamentada pelo CMDCA por meio  
+da Comissão Especial Eleitoral, definindo os critérios para a sua elaboração e realização,  
+inclusive dia e hora de aplicação, bem como o índice de aproveitamento mínimo para aprovação.
+
+
+§ 2º
+
+O membro do Conselho Municipal dos Direitos da Criança e do Adolescente -  
+CMDCA ou servidor municipal ocupante de cargo em comissão que pretenda concorrer ao cargo de Conselheiro Tutelar deverá requerer o seu afastamento no ato da inscrição.
+
+
+##### Seção III — DA INSCRIÇÃO
+
+
+Art. 68.
+
+Deverão ser apresentados, por ocasião da inscrição, os seguintes documentos:
+
+
+I –
+
+RG e CPF;
+
+
+II –
+
+Comprovante de residência dos três meses anteriores à publicação do Edital e demais  
+documentos que comprovem o cumprimento da exigência prevista no inciso III do art. 67;
+
+
+III –
+
+Certificado de quitação eleitoral;
+
+
+IV –
+
+Certidão de antecedentes cíveis e criminais da Justiça Estadual;
+
+
+V –
+
+Certidão de antecedentes criminais da Justiça Eleitoral;
+
+
+VI –
+
+Certidão de antecedentes cíveis e criminais da Justiça Federal;
+
+
+VII –
+
+Diploma ou Certificado de Conclusão do Ensino Médio;
+
+
+Art. 69.
+
+O pedido de inscrição deverá ser formulado pelo candidato em requerimento  
+assinado e protocolizado, junto ao Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA até a data-limite prevista no Edital, devidamente instruído com os documentos necessários à comprovação dos requisitos estabelecidos no Edital.
+
+
+Art. 70.
+
+Cada candidato poderá registrar, além do nome, um codinome.
+
+
+Parágrafo único
+
+Não poderá haver registro de codinomes iguais, prevalecendo o codinome do primeiro candidato a efetuar a sua inscrição.
+
+
+Art. 71.
+
+A Comissão do Processo Eleitoral, no prazo de 03 (três) dias contados do  
+término do período de inscrição de candidaturas, homologará as inscrições, publicando edital com a relação dos nomes dos candidatos considerados habilitados e dando ciência pessoal ao Ministério Público.
+
+
+Art. 72.
+
+om a publicação do edital de homologação das inscrições será aberto prazo de  
+05 (cinco) dias para a impugnação dos candidatos que não atendam aos requisitos exigidos, a qual poderá ser realizada por qualquer cidadão, indicando os elementos probatórios.
+
+
+§ 1º
+
+Caso o candidato sofra impugnação, este será intimado para que, em 05 (cinco) dias  
+contados da data da intimação, apresente sua defesa.
+
+
+§ 2º
+
+Decorrido o prazo do parágrafo anterior, a Comissão do Processo Eleitoral decidirá  
+em 03 (três) dias, dando ciência pessoal da decisão ao impugnante, ao candidato impugnado e ao Ministério Público, e também a publicando na sede do CMDCA.
+
+
+§ 3º
+
+Da decisão da Comissão do Processo Eleitoral caberá recurso à Plenária do  
+Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA, composta por no mínimo 2/3 de seus membros, no prazo de 03 (três) dias, que designará reunião extraordinária e decidirá, em igual prazo, em última instância, dando ciência pessoal da decisão ao impugnante, ao candidato impugnado e ao Ministério Público.
+
+
+§ 4º
+
+Julgadas em definitivo todas as impugnações, a Comissão Especial do Processo  
+Eleitoral, no prazo de 03 (três) dias, publicará em Edital no Órgão Oficial do Município, a  
+relação dos candidatos que tiveram suas inscrições homologadas.
+
+
+Art. 73.
+
+Além da impugnação de candidatura, também poderá ser apresentada impugnação quanto ao processo de apuração e do resultado da eleição dos Conselheiros  
+Tutelares.
+
+
+##### Seção IV — DO PROCESSO ELEITORAL
+
+
+Art. 74.
+
+Os membros dos Conselhos Tutelares serão eleitos em sufrágio universal e direto, facultativo e secreto dos membros da comunidade local com domicílio eleitoral no  
+Município, em eleição realizada sob a coordenação da Comissão do Processo Eleitoral do Conselho Municipal de Direitos da Criança e do Adolescente - CMDCA, com apoio da Justiça Eleitoral e fiscalização do Ministério Público.
+
+
+Parágrafo único
+
+Cabe ao Conselho Municipal dos Direitos da Criança e do Adolescente a definição dos locais de votação, zelando para que eventual agrupamento de seções eleitorais respeite as regiões de atuação dos Conselhos Tutelares e não contenha excesso de eleitores, que deverão ser informados com antecedência devida sobre onde irão votar.
+
+
+Art. 75.
+
+A eleição ocorrerá no primeiro domingo do mês de outubro do ano subsequente  
+ao da eleição presidencial
+
+
+Art. 76.
+
+A propaganda eleitoral será objeto de regulamentação específica por parte do  
+Conselho Municipal dos Direitos da Criança e do Adolescente.
+
+
+§ 1º
+
+Serão previstas regras e restrições destinadas a evitar o abuso de poder econômico  
+e político por parte dos candidatos ou seus prepostos.
+
+
+§ 2º
+
+A propaganda eleitoral em vias e logradouros públicos observará, por analogia, os  
+limites impostos pela legislação eleitoral e o Código de Posturas do Município, garantindo  
+igualdade de condições a todos os candidatos.
+
+
+§ 3º
+
+É vedada a vinculação político-partidária das candidaturas, seja através da indicação, no material de propaganda ou inserções na mídia, de legendas de partidos políticos, símbolos, slogans, nomes ou fotografias de pessoas que, direta ou indiretamente, denotem tal vinculação.
+
+
+§ 4º
+
+No dia da eleição é terminantemente proibido o transporte de eleitores e a “boca de  
+urna” pelos candidatos e/ou seus prepostos.
+
+
+§ 5º
+
+É vedado ao candidato doar, oferecer, prometer ou entregar ao eleitor bem ou vantagem pessoal de qualquer natureza, inclusive brindes de pequeno valor.
+
+
+§ 6º
+
+Em reunião própria, a Comissão do Processo Eleitoral dará conhecimento formal  
+das regras de campanha a todos os candidatos considerados habilitados ao pleito, que firmarão compromisso de respeitá-las e que estão cientes e acordes que sua violação importará na exclusão do certame ou cassação do diploma respectivo.
+
+
+Art. 77.
+
+A violação das regras de campanha importará na cassação do registro da candidatura do candidato responsável, observado, no que couber, procedimento administrativo similar ao previsto nesta Lei.
+
+
+Art. 78.
+
+A votação deverá ocorrer preferencialmente em urnas eletrônicas cedidas pela  
+Justiça Eleitoral, observadas as disposições das resoluções aplicáveis expedidas pelo Tribunal Superior Eleitoral e Tribunal Regional Eleitoral.
+
+
+§ 1º
+
+O Conselho Municipal dos Direitos da Criança e do Adolescente providenciará,  
+com a antecedência devida, junto à Justiça Eleitoral, o empréstimo de urnas eletrônicas, assim como de urnas destinadas à votação manual, como medida de segurança.
+
+
+§ 2º
+
+As cédulas para votação manual serão elaboradas pela Comissão Especial do Processo Eleitoral, adotando parâmetros similares aos empregados pela Justiça Eleitoral em sua confecção.
+
+
+§ 3º
+
+Compete ainda ao Conselho Municipal dos Direitos da Criança e do Adolescente, com apoio da Secretaria Municipal de Desenvolvimento Social e outros órgãos públicos:
+
+
+a)
+
+a seleção e treinamento de mesários, escrutinadores e seus respectivos suplentes;
+
+
+b)
+
+a obtenção, junto à Polícia Militar e à Guarda Municipal, de efetivos suficientes para  
+garantia da segurança nos locais de votação e apuração.
+
+
+§ 4º
+
+Nas cabines de votação serão fixadas listas com relação de nomes, codinomes, fotos  
+e número dos candidatos a Conselheiro Tutelar.
+
+
+§ 5º
+
+As mesas receptoras de votos deverão lavrar atas segundo modelo fornecido pela  
+Comissão Especial do Processo Eleitoral, nas quais serão registradas eventuais intercorrências ocorridas no dia da votação, além do número de eleitores votantes em cada uma das urnas.
+
+
+Art. 79.
+
+O eleitor poderá votar em apenas um candidato.
+
+
+Parágrafo único
+
+No caso de votação manual, votos em mais de um candidato ou que contenham rasuras que não permitam aferir a vontade do eleitor serão anulados, devendo ser colocados em envelope separado, conforme previsto no regulamento da eleição.
+
+
+Art. 80.
+
+Encerrada a votação, se procederá a contagem dos votos e a apuração sob a responsabilidade da Comissão Especial do Processo Eleitoral, que acompanhará todo o pleito, que será também fiscalizado Ministério Público.
+
+
+§ 1º
+
+Poderão ser apresentados pedidos de impugnação de votos à medida em que estes  
+forem sendo apurados, cabendo a decisão à Comissão do Processo Eleitoral, pelo voto  
+majoritário de seus componentes, com recurso ao Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA que decidirá em 03 (três) dias, com ciência ao Ministério Público.
+
+
+§ 2º
+
+Os candidatos poderão fiscalizar pessoalmente ou por intermédio de representantes  
+previamente cadastrados e credenciados, a recepção e apuração dos votos;
+
+
+§ 3º
+
+Em cada local de votação será permitida a presença de 01 (um) único representante por candidato ou dele próprio;
+
+
+§ 4º
+
+No local da apuração dos votos será permitida a presença do representante do candidato apenas quando este tiver de se ausentar.
+
+
+§ 5º
+
+A Comissão do Processo Eleitoral manterá registro de todas as intercorrências do processo eleitoral, lavrando ata própria, da qual será dada ciência pessoal ao Ministério Público.
+
+
+§ 6º
+
+O Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA  
+manterá em arquivo permanente todas as resoluções, editais, atas e demais atos referentes ao processo de escolha do Conselho Tutelar, sendo que os votos dos eleitores deverão ser conservados por 04 (quatro) anos e, após, poderão ser destruídos.
+
+
+Art. 81.
+
+Concluída a apuração dos votos e decididos os eventuais recursos, o Conselho  
+Municipal dos Direitos da Criança e do Adolescente - CMDCA proclamará o resultado, providenciando a publicação dos nomes dos candidatos votados, com o número de votos que cada um recebeu.
+
+
+Parágrafo único
+
+Havendo empate na votação, será considerado eleito o candidato com mais idade.
+
+
+Art. 82.
+
+Cada Conselho Tutelar será composto por 05 (cinco) conselheiros titulares e, ao menos, 05 (cinco) suplentes.
+
+
+§ 1º
+
+Os candidatos eleitos como suplentes serão convocados pelo Conselho Municipal  
+de Direitos da Criança e do Adolescente - CMDCA para assumir no caso de férias e vacância, licenças para tratamento de saúde, maternidade ou paternidade.
+
+
+§ 2º
+
+Os conselheiros tutelares suplentes serão remunerados proporcionalmente ao período de efetivo exercício da função.
+
+
+##### Seção V — DO MANDATO E POSSE DOS CONSELHEIROS TUTELARES
+
+
+**Art. 82.** Os conselheiros tutelares eleitos como titulares e suplentes, deverão participar  
+do processo de capacitação/formação continuada relativa à legislação específica às atribuições  
+do cargo e dos demais aspectos da função, promovida pelo Conselho Municipal dos Direitos da  
+Criança e do Adolescente - CMDCA antes da posse, com frequência de no mínimo 75% (setenta  
+e cinco por cento).
+
+**§ 1º.** O conselheiro que não atingir a frequência mínima ou não participar do processo  
+de capacitação, não poderá tomar posse, devendo ser substituído pelo suplente eleito que tenha  
+participado da capacitação/formação continuada, respeitando-se rigorosamente a ordem de  
+classificação.
+
+**§ 2º.** O conselheiro reeleito ou que já tenha exercido a função de Conselheiro Tutelar em  
+outros mandatos, também fica obrigado a participar do processo de capacitação/formação  
+continuada, considerando a importância do aprimoramento continuado e da atualização da  
+legislação e dos processos de trabalho.
+
+**§ 3º.** O Poder Público estimulará a participação dos membros dos Conselhos Tutelares  
+em outros cursos e programas de capacitação/formação continuada, custeando-lhes as despesas  
+necessárias.
+
+
+Art. 83.
+
+São impedidos de servir no mesmo Conselho Tutelar cônjuges, conviventes em união estável, inclusive quando decorrente de união homoafetiva, ou parentes em linha reta, colateral, ou por afinidade até o 3º grau, inclusive.
+
+
+Parágrafo único
+
+Estende-se o impedimento ao Conselheiro, na forma deste artigo, em relação à autoridade judiciária e ao representante do Ministério Público com atuação na Justiça da Infância e da Juventude, em exercício na Comarca de Araci, Estado da Bahia.
+
+
+Art. 84.
+
+Os Conselheiros Tutelares eleitos serão diplomados e empossados pelo Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA, com registro em ata e nomeados pelo Prefeito Municipal, com publicação no Órgão Oficial do Município.
+
+
+##### Seção VI — DO EXERCÍCIO DA FUNÇÃO E DA REMUNERAÇÃO DOS CONSELHEIROS
+
+
+Art. 85.
+
+O exercício efetivo da função de Conselheiro Tutelar constituirá serviço público relevante e estabelecerá presunção de idoneidade moral.
+
+
+Art. 86.
+
+Se o eleito para o Conselho Tutelar for servidor público municipal ocupante de cargo efetivo, poderá optar entre a remuneração do cargo de Conselheiro Tutelar ou o valor de sua remuneração, ficando-lhe garantidos:
+
+
+I –
+
+Retorno ao cargo para o qual foi aprovado em concurso, quando findado o seu  
+mandato de Conselheiro Tutelar;
+
+
+II –
+
+A contagem do tempo de serviço para todos os efeitos legais
+
+
+Art. 87.
+
+Sem prejuízo de sua remuneração, o Conselheiro Tutelar fará jus a percepção  
+das seguintes vantagens:
+
+
+I –
+
+cobertura previdenciária;
+
+
+II –
+
+gozo de férias anuais remuneradas, acrescidas de 1/3 (um terço) do valor da remuneração mensal;
+
+
+III –
+
+licença-maternidade;
+
+
+IV –
+
+licença-paternidade;
+
+
+V –
+
+gratificação natalina.
+
+
+§ 1º
+
+A remuneração do Conselheiro Tutelar será de R$ 2.298,96 (dois mil, duzentos e noventa e oito reais e noventa e seis centavos), sendo reajustada anualmente, na mesma data e índice em que for aplicado a revisão geral anual de que trata o inciso X, do art.37, da Constituição Federal;
+
+
+§ 2º
+
+A remuneração durante o período do exercício efetivo do mandato eletivo não configura vínculo empregatício.
+
+
+§ 3º
+
+As férias deverão ser programadas pelos Conselhos Tutelares, podendo gozá-las apenas um Conselheiro em cada período, devendo ser informado por escrito ao Conselho  
+Municipal de Direitos da Criança e do Adolescente - CMDCA com pelo menos 30 (trinta) dias de antecedência, para que seja providenciada a convocação do suplente.
+
+
+§ 4º
+
+O membro do Conselho Tutelar é segurado obrigatório da Previdência Social, na  
+condição de contribuinte individual, na forma prevista pelo art. 9º, § 15, inciso XV, do Decreto Federal nº 3.048/1999 (Regulamento de Benefícios da Previdência Social).
+
+
+§ 5º
+
+A remuneração da hora extra será, pelo menos, 50% (cinquenta por cento) superior à da hora normal.
+
+
+§ 6º
+
+Poderá ser dispensado o acréscimo de salário se, por força de disposição em Regimento Interno, o excesso de horas em um dia for compensado pela correspondente diminuição em outro dia.
+
+
+§ 7º
+
+Para funcionamento da possibilidade prevista no parágrafo anterior, deverá ser criado banco de horas, onde a compensação ocorra no período máximo de seis meses.
+
+
+§ 8º
+
+A compensação prevista no parágrafo anterior poderá ser realizada apenas por um membro por dia durante a semana.
+
+
+##### Seção VII — DAS LICENÇAS
+
+
+Art. 88.
+
+O Conselheiro Tutelar terá direito a licenças remuneradas para tratamento de  
+saúde, licença maternidade por um período de 180 (cento e oitenta) dias e licença paternidade, aplicando-se por analogia o disposto no Regulamento da Previdência Social.
+
+
+§ 1º
+
+O Conselheiro Tutelar licenciado será imediatamente substituído pelo suplente eleito que tenha participado da capacitação, respeitando a ordem de votação.
+
+
+§ 2º
+
+Não será permitida licença para tratar de assuntos de interesse particular.
+
+
+Art. 89.
+
+Será concedida licença sem remuneração ao Conselheiro Tutelar que pretender se candidatar nas eleições gerais para Prefeito, Vereador, Governador, Deputado Estadual ou Federal e Senador.
+
+
+Parágrafo único
+
+No caso do caput deste artigo, a licença será concedida pelo prazo de 60 (sessenta) dias, sem prejuízo da convocação do suplente.
+
+
+##### Seção VIII — DA VACÂNCIA DO CARGO
+
+
+Art. 90.
+
+A vacância do cargo de Conselheiro Tutelar decorrerá de:
+
+
+I –
+
+Renúncia;
+
+
+II –
+
+Posse e exercício em outro cargo, emprego ou função pública ou privada remunerada;
+
+
+III –
+
+Aplicação de sanção administrativa de destituição da função;
+
+
+IV –
+
+Falecimento; ou
+
+
+V –
+
+Condenação por sentença transitada em julgado pela prática de crime ou ato de improbidade administrativa que comprometa a sua idoneidade moral.
+
+
+Parágrafo único
+
+Ocorrendo vacância o Conselheiro Tutelar será substituído pelo suplente eleito que tenha participado da capacitação, respeitando a ordem de votação.
+
+
+##### Seção IX — DO REGIME DISCIPLINAR
+
+
+Art. 91.
+
+Considera-se infração disciplinar, para efeito desta Lei, o ato praticado pelo Conselheiro Tutelar com omissão dos deveres ou violação das proibições decorrentes da função  
+que exerce elencadas nesta Legislação Municipal e demais legislações pertinentes.
+
+
+Art. 92.
+
+São sanções disciplinares aplicáveis pelo Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA, na ordem crescente de gravidade:
+
+
+I –
+
+Advertência por escrito, aplicada em casos de não observância das atribuições e deveres que não tipifiquem infração sujeita à sanção de perda de mandato;
+
+
+II –
+
+Suspensão disciplinar não remunerada, nos casos de reincidência da infração sujeita à sanção de advertência, com prazo não excedente a 90 (noventa dias);
+
+
+III –
+
+Perda de mandato.
+
+
+§ 1º
+
+A pena de suspensão disciplinar poderá ser convertida em pena de multa, desde que  
+haja conveniência para o Conselho Tutelar, na base de 50% (cinquenta por cento) por dia da remuneração na mesma proporção de dias de suspensão, com desconto em folha de pagamento.
+
+
+§ 2º
+
+Ocorrendo a conversão da pena de suspensão disciplinar em pena de multa, o Conselheiro Tutelar fica obrigado a comparecer em serviço.
+
+
+Art. 93.
+
+Perderá o mandato o Conselheiro Tutelar que:
+
+
+I –
+
+For condenado por sentença transitada em julgado, pela prática de crime culposo e doloso ou contravenção penal;
+
+
+II –
+
+Tenha sido comprovadamente negligente, omisso, não assíduo ou incapaz de cumprir suas funções;
+
+
+III –
+
+Praticar ato contrário à ética, à moralidade e aos bons costumes, ou que seja  
+incompatível com o cargo;
+
+
+IV –
+
+Não cumprir com as atribuições conferidas pelo Estatuto da Criança e do Adolescente;
+
+
+V –
+
+Contribuir, de qualquer modo, para a exposição de crianças e adolescentes, em situação de risco, em prejuízo de sua imagem, intimidade e privacidade;
+
+
+VI –
+
+Receber, a qualquer título e sob qualquer pretexto, vantagem pessoal de qualquer natureza, em razão de suas atribuições, para si ou para outrem;
+
+
+VII –
+
+Transferir residência ou domicílio para outro município;
+
+
+VIII –
+
+Delegar a pessoa que não seja membro do Conselho Tutelar o desempenho da atribuição que seja de sua responsabilidade;
+
+
+IX –
+
+Exercer outra atividade pública ou privada remunerada, ainda que haja compatibilidade de horário;
+
+
+§ 1º
+
+Verificada a sentença condenatória e transitada em julgado do Conselheiro Tutelar  
+na esfera do Poder Judiciário pela prática de crime ou contravenção penal, o Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA em Reunião Ordinária, declarará vago o mandato de Conselheiro Tutelar, dando posse imediata ao suplente
+
+
+§ 2º
+
+Mediante provocação do Ministério Público ou por denúncia fundamentada, o  
+Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA, a depender da  
+gravidade da conduta, poderá promover o afastamento temporário do Conselheiro Tutelar  
+acusado da prática de alguma das condutas relacionadas no caput deste artigo, até que se apurem os fatos, convocando imediatamente o suplente.
+
+
+§ 3º
+
+Durante o período do afastamento, o conselheiro fará jus a 50% (cinquenta por  
+cento) da remuneração.
+
+
+§ 4º
+
+Para apuração dos fatos, o Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA designará uma Comissão Especial, de composição paritária entre representantes do governo e da sociedade, assegurado o contraditório e ampla defesa ao acusado.
+
+
+##### Seção X — DO PROCESSO ADMINISTRATIVO DISCIPLINAR E SUA REVISÃO
+
+
+Art. 94.
+
+As denúncias sobre irregularidades praticadas por Conselheiros Tutelares serão  
+encaminhadas e apreciadas por uma Comissão Especial, instituída pelo Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA.
+
+
+§ 1º
+
+A Comissão Especial terá composição paritária entre representantes do governo e  
+da sociedade, sendo constituída por 04 (quatro) integrantes.
+
+
+§ 2º
+
+A Comissão Especial receberá assessoria jurídica do advogado/procurador do  
+município
+
+
+Art. 95.
+
+A Comissão Especial, ao tomar ciência da possível irregularidade praticada pelo Conselheiro Tutelar promoverá sua apuração mediante Sindicância
+
+
+§ 1º
+
+Recebida a denúncia, a Comissão Especial fará a análise preliminar da  
+irregularidade, dando ciência por escrito da acusação ao Conselheiro investigado de apresentar sua defesa no prazo de 10 (dez) dias de sua notificação, sendo facultada a indicação de testemunhas e juntada de documentos.
+
+
+§ 2º
+
+Decorrido o prazo de defesa, a Comissão Especial poderá ouvir testemunhas e realizar outras diligências que entender pertinentes, dando ciência pessoal ao Conselheiro  
+investigado, para que possa acompanhar os trabalhos por si ou por intermédio de procurador habilitado.
+
+
+§ 3º
+
+Concluída a apuração preliminar, a Comissão Especial deverá elaborar relatório  
+circunstanciado, no prazo de 10 (dez) dias, concluindo pela necessidade ou não da aplicação de sanção disciplinar.
+
+
+§ 4º
+
+O relatório será encaminhado à Plenária do Conselho Municipal dos Direitos da  
+Criança e do Adolescente - CMDCA, dando ciência pessoal ao Conselheiro acusado e ao  
+Ministério Público.
+
+
+§ 5º
+
+O prazo máximo e improrrogável para conclusão da Sindicância é de 30 (trinta) dias.
+
+
+Art. 96.
+
+Caso fique comprovado pela Comissão Especial a prática de conduta que justifique a aplicação de sanção disciplinar, o Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA dará início ao processo administrativo destinado ao julgamento do membro do Conselho Tutelar, intimando pessoalmente o acusado para que apresente sua defesa, no prazo de 10 (dez) e dando ciência pessoal ao Ministério Público.
+
+
+§ 1º
+
+Não sendo localizado o acusado, o mesmo será intimado por Edital com prazo de  
+15 (quinze) dias, a partir da publicação para sua apresentação, nomeando-se-lhe defensor dativo, em caso de revelia.
+
+
+§ 2º
+
+Em sendo o fato passível de aplicação da sanção de perda do mandato, e dependendo das circunstâncias do caso, o Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA poderá determinar o afastamento do Conselheiro acusado de suas funções, pelo prazo de 30 (trinta) dias, prorrogáveis por mais 30 (trinta), sem prejuízo da remuneração e da imediata convocação do suplente.
+
+
+§ 3º
+
+Por ocasião do julgamento, que poderá ocorrer em uma ou mais reuniões extraordinárias convocadas especialmente para tal finalidade, será lido o relatório da Comissão Especial e facultada a apresentação de defesa oral e/ou escrita pelo acusado, que poderá ser representado, no ato, por procurador habilitado, arrolar testemunhas, juntar documentos e requerer a realização de diligências.
+
+
+§ 4º
+
+A condução dos trabalhos nas sessões de instrução e julgamento administrativo disciplinar ficará a cargo do Presidente do Conselho Municipal dos Direitos da Criança e do Adolescente ou, na falta ou impedimento deste, de seu substituto imediato, conforme previsto no regimento interno do órgão.
+
+
+§ 5º
+
+As sessões de julgamento serão públicas, devendo ser tomadas as cautelas necessárias a evitar a exposição da intimidade, privacidade, honra e dignidade de crianças e adolescentes eventualmente envolvidos com os fatos, que deverão ter suas identidades  
+preservada
+
+
+§ 6º
+
+A oitiva das testemunhas eventualmente arroladas e a produção de outras provas requeridas observará o direito ao contraditório.
+
+
+§ 7º
+
+Serão indeferidas, fundamentadamente, diligência consideradas abusivas ou meramente protelatórias.
+
+
+§ 8º
+
+Os atos, diligências, depoimentos e as informações técnicas ou perícias serão reduzidas a termo, passando a constar dos autos do Processo Administrativo Disciplinar.
+
+
+§ 9º
+
+Concluída a instrução, o Conselheiro acusado poderá deduzir, oralmente ou por  
+escrito, alegações finais em sua defesa, passando-se a seguir à fase decisória pela plenária do Conselho Municipal dos Direitos da Criança e do Adolescente.
+
+
+§ 10
+
+A votação será realizada de forma nominal e aberta, sendo a decisão tomada pela  
+maioria absoluta dos membros do Conselho Municipal dos Direitos da Criança e do  
+Adolescente
+
+
+§ 11
+
+É facultado aos Conselheiros de Direitos a fundamentação de seus votos, podendo  
+suas razões ser deduzidas de maneira oral ou por escrito, conforme dispuser o Regimento Interno do Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA.
+
+
+§ 12
+
+Na hipótese do Conselheiro Tutelar acusado ser declarado inocente, ser-lhe-á garantido o restante do salário devido.
+
+
+§ 13
+
+O prazo para a conclusão do Processo Administrativo Disciplinar será de 30 (trinta)  
+dias, prorrogável por mais 30 (trinta), a depender da complexidade do caso e das provas a serem produzidas.
+
+
+§ 14
+
+Da decisão tomada pelo Conselho Municipal dos Direitos da Criança e do Adolescente - CMDCA serão pessoalmente intimados o acusado, seu defensor, se houver e o Ministério Público, sem prejuízo de sua publicação órgão oficial do município.
+
+
+Art. 97.
+
+É assegurado ao investigado a ampla defesa e o contraditório, sendo facultada a produção de todas as provas em direito admitidas e o acesso irrestrito aos autos da sindicância e do processo administrativo disciplinar.
+
+
+Parágrafo único
+
+A consulta e a obtenção de cópias dos autos serão feitas na sede do Conselho Municipal dos Direitos da Criança e do Adolescente, sempre na presença de um servidor público municipal, devidamente autorizado e observadas as cautelas referidas no art. 93, §5º desta Lei quanto à preservação da identidade das crianças e adolescentes eventualmente envolvidas no fato.
+
+
+Art. 98.
+
+Se a irregularidade, objeto do Processo Administrativo Disciplinar, constituir infração penal, o Conselho Municipal dos Direitos da Criança e do Adolescente encaminhará cópia das peças necessárias ao Ministério Público e à autoridade policial competente, para a instauração de inquérito policial.
+
+
+Art. 99.
+
+Nos casos omissos nesta Lei no tocante ao Processo Administrativo Disciplinar,  
+aplicar-se-á subsidiariamente e no que couber, as disposições pertinentes contidas no Estatuto dos Servidores Públicos Municipais.
+
+
+### TÍTULO IV — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 100.
+
+O Conselho Municipal dos Direitos da Criança e do Adolescente, com apoio dos Conselhos Nacional e Estadual dos Direitos da Criança e do Adolescente, deverá estabelecer uma política de qualificação profissional permanente dos seus membros, bem como dos conselheiros tutelares, voltada à correta identificação e atendimento das demandas inerentes ao órgão.
+
+
+Parágrafo único
+
+A política referida no caput compreende o estímulo e o fornecimento dos meios necessários para adequada formação e atualização funcional dos membros dos  
+Conselhos e seus suplentes, o que inclui, dentre outros, a disponibilização de material  
+informativo, realização de encontros com profissionais que atuam na área da criança e do adolescente e patrocínio de cursos e palestras sobre o tema
+
+
+Art. 101.
+
+As despesas para a execução desta Lei correrão por conta de dotação própria.
+
+
+Art. 102.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Gabinete da Prefeita de Araci, Estado da Bahia, em 28 de março de 2023.
+
+**MARIA BETIVÂNIA LIMA DA SILVA Prefeita Municipal**
+

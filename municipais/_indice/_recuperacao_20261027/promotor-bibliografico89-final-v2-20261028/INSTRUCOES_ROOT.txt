@@ -1,0 +1,5 @@
+Overlay final do promotor ROOT-only. Preserva todos os mapas anteriores.
+Usar manifesto e SHA externo deste diretório no promotor; --apply só ROOT, saída sempre nova. Dry-run é padrão. A preparação não executou --apply.
+Testes: 10 de bibliografia literal/negativos/bytes, 4 de promoção e mais 2 de rollback com interferência externa e diretório symlink em raiz isolada. Os 16 passaram; os testes adicionais não alteraram o promotor congelado.
+Não stagear preimagens atuais: primeiro promover por SHA e confirmar cada destino futuro contra promocoes-futuras.json do pacote anterior; só então usar stage.paths.z.
+Os artefatos presentes estão em arquivos; os 89 destinos futuros estão exclusivamente no mapa de promoções. Corpo/H1/identidade/captura e campos anteriores permanecem byte iguais, com apenas três campos bibliográficos da fonte acrescidos. API atribuída, sem certificar AEMERJ ou vigência.

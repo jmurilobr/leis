@@ -1,0 +1,145 @@
+---
+titulo: "LEI ORDINÁRIA-CMC nº 1.550, de 18 de março de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "1550"
+data: "2025-03-18"
+municipio: "Claraval"
+uf: "MG"
+codigo_ibge: "3116407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.claraval.mg.leg.br/norma/1456"
+fonte_texto: "https://sapl.claraval.mg.leg.br/ta/728/text"
+sha256_fonte: "6ac874c98dac0437d68da6a0f452bd2a33f88cc0263774a1f7c03f3214345216"
+sha256_texto: "b248ca0dd126ae594afa6c482178d61ae59d4650ba10f7bb01f34d7bff541069"
+capturado_em_fonte: "2026-10-27T22:44:05.014583-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA-CMC nº 1.550, de 18 de março de 2025
+
+"Estabelece normas e princípios a serem aplicados em todos os eventos realizados com recursos públicos no Município de Claraval/MG."
+
+
+Nilson Martins da Silva, Presidente da Câmara Municipal de Claraval - MG, no uso de suas atribuições que lhes são conferidas por Lei Faço saber, que a Câmara Municipal rejeitou o Veto Total aposto pelo Prefeito Municipal ao Projeto de Lei nº 002/2025 e nos termos do incisos 9º do art° 237 da Lei Orgânica do Município, promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo e Legislativo Municipal obrigado a seguir as normas contidas nesta lei em todos os eventos financiados com dinheiro público.
+
+
+Parágrafo único
+
+O não atendimento de qualquer nas normas constantes desta lei acarretará ao ordenador e organizador do evento a devolução imediata dos valores gastos para a realização do evento. Os valores devem ser devolvidos pela pessoa física ao erário público municipal.
+
+
+Art. 2º.
+
+O organizador responsável por qualquer evento municipal deverá com O convite das autoridades antecedência mínima de 48 horas realizar municipais.
+
+
+I –
+
+para efeito desta lei entende-se como autoridade municipal o Prefeito, o Vice-Prefeito e os Vereadores;
+
+
+II –
+
+o convite deverá ser realizado por escrito e podendo ser enviado às autoridades por qualquer meio disponível como e-mail, whatsApp, convite impresso ou oficio ao ente que a autoridade pertence;
+
+
+III –
+
+o prazo que se refere o caput não se aplica a eventos de recepção de inviabiliza o autoridades que confirmaram presença no município em prazo que cumprimento do estipulado no caput;
+
+
+IV –
+
+o uso do espaço publico ou prédios públicos sem gastos com recepção ou adequações estão excluídos do cumprimento desta norma.
+
+
+Art. 3º.
+
+As autoridades constantes do inciso I do artigo 2º desta lei terão livre acesso a todas as dependências dos eventos, qualquer tentativa de impedir o acesso configurará de imediato o descumprimento desta norma.
+
+
+Art. 4º.
+
+Nos eventos as autoridades constantes desta lei deverão ter local apropriado para se colocarem. Excluindo deste cumprimento somente durante o período eleitoral municipal onde é vedado a participação de autoridades em eventos públicos.
+
+
+Art. 5º.
+
+Para configurar o descumprimento de qualquer dispositivo desta norma será exigido que as autoridade comprovem através de vídeos, fotos, testemunhas (no mínimo duas) ou qualquer outra prova admitida em direito.
+
+
+Parágrafo único
+
+O descumprimento desta lei deverá ser comunicado através de oficio redigido pelo ofendido, explicando o ocorrido e indicando o artigo descumprido, devendo ser este oficio dirigido ao responsável dos poderes Executivo e Legislativo, com o protocolo do oficio se inicia o prazo para pagamento/devolução dos valores ou oferecimento de defesa pelo infrator.
+
+
+Art. 6º.
+
+O descumprimento de qualquer artigo desta lei acarretará ao responsável a obrigação de devolver aos cofres públicos todos os gastos com o evento no prazo máximo de 60 dias após o seu encerramento.
+
+
+Parágrafo único
+
+O prazo do caput será suspenso caso o infrator apresentar defesa em tempo hábil.
+
+
+Art. 7º.
+
+Será concedido ao infrator o direito ao contraditório caso em que deverá o entregar defesa no prazo improrrogável de 15 dias a comissão julgadora destinada a essa finalidade.
+
+
+I –
+
+a comissão deverá ser formada pelo jurídico do Executivo e do Legislativo que farão parecer conjunto;
+
+
+II –
+
+o parecer emitido pela comissão será levado para votação no plenário da Câmara Municipal, que poderá confirmar ou rejeitar o parecer em qualquer caso deve o Ministério Publico ser informado;
+
+
+III –
+
+o prazo para contestação do infrator se dará inicio a partir do momento que for oficiado da irregularidade;
+
+
+IV –
+
+somente após o deferimento de aceitação da irregularidade pelo plenário da Câmara Municipal que se iniciará o prazo de 60 dias para devolução dos recursos públicos;
+
+
+V –
+
+quando o infrator desta norma for componente da casa legislativa, este ficará impedido de realizar a votação do parecer, devendo o mesmo ser substituído por seu suplente legal que será convocado a participar da votação.
+
+
+Art. 8º.
+
+A recusa deliberada do infrator em realizar a devolução dos recursos acarretará na inclusão do debito em divida ativa municipal, e a suspensão de suas funções sem recebimento de salários pelo prazo de 90 dias quando o infrator for Secretário, diretor ou funcionário público contratado, concursado e comissionados de toda natureza.
+
+
+Art. 9º.
+
+Estão excluídos da aplicação desta norma os eventos internos dos entes públicos, como reuniões com funcionários, confraternização interna.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+Claraval - MG, 18 de março de 2025.
+
+**Nilson Martins da Silva**
+
+Presidente da Câmara Municipal de Claraval - MG
+

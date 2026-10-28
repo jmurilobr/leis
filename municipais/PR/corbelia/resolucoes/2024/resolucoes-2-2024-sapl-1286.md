@@ -1,0 +1,110 @@
+---
+titulo: "07 - Resolução Legislativa nº 2, de 09 de janeiro de 2024"
+tipo: "Resolução"
+tipo_na_fonte: "07 - Resolução Legislativa"
+numero: "2"
+data: "2024-01-09"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1286"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1299/text"
+sha256_fonte: "f6b1674d4183c7932ce17f01a751a8b15a9399eac59ee7b7d4a1bc50d2b78801"
+sha256_texto: "5c6192cba65f05e49aa96c48b85a9b9bf0403a78b832b90b8c6e5169f27f963b"
+capturado_em_fonte: "2026-10-28T05:27:07.071713-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 07 - Resolução Legislativa nº 2, de 09 de janeiro de 2024
+
+Dispõe sobre a criação da Procuradoria da Mulher no âmbito do Poder Legislativo do Município de Corbélia e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou e eu, o Presidente, promulgo a seguinte:
+
+RESOLUÇÃO
+
+
+Art. 1º.
+
+Fica criada a Procuradoria da Mulher no âmbito do Poder Legislativo do Município de Corbélia.
+
+
+Parágrafo único
+
+A Procuradoria da Mulher não terá vinculação com nenhum outro órgão desta Casa, sendo órgão independente, que contará com o suporte técnico de toda a estrutura do Poder Legislativo.
+
+
+Art. 2º.
+
+A Procuradoria da Mulher será constituída de 01 (uma) Procuradora da Mulher e de 02 (duas) Procuradoras Adjuntas, quando houver, designada pelo Presidente da Câmara Municipal, a cada 2 (dois) anos.
+
+
+§ 1º
+
+As Procuradoras Adjuntas terão designação de Primeira e Segunda e, nessa ordem, substituirão a Procuradora da Mulher em seus impedimentos e colaborarão no cumprimento das atribuições da Procuradoria.
+
+
+§ 2º
+
+O mandato da Procuradoria da Mulher acompanhará a periodicidade da eleição da Mesa Diretora.
+
+
+§ 3º
+
+Na ausência de Vereadora, poderá ser designada servidora efetiva para a função de Procuradora da Mulher, nos termos do *caput*.
+
+
+Art. 3º.
+
+Compete à Procuradoria da Mulher zelar pela participação efetiva das vereadoras nos órgãos e nas atividades da Câmara Municipal e ainda:
+
+
+I –
+
+receber, examinar e encaminhar aos órgãos competentes denúncias de violência e discriminação contra a mulher;
+
+
+II –
+
+fiscalizar e acompanhar a execução de programas do governo municipal que visem a promoção da igualdade de gênero, assim como a implementação de campanhas educativas e antidiscriminatórias de âmbito municipal;
+
+
+III –
+
+cooperar com organismos estaduais e nacionais, públicos e privados, voltados à implementação de políticas para as mulheres;
+
+
+IV –
+
+promover pesquisas, seminários, palestras e estudos sobre violência e discriminação contra a mulher, bem como acerca da representação feminina na política, inclusive para fins de divulgação pública e fornecimento de subsídio às Comissões da Câmara Municipal.
+
+
+Parágrafo único
+
+A Procuradoria da Mulher poderá elaborar, produzir e distribuir gratuitamente materiais, inclusive, alimentação aos participantes de eventos a qual for responsável ou corresponsável, observados os limites orçamentários.
+
+
+Art. 4º.
+
+Toda iniciativa provocada ou implementada pela Procuradoria da Mulher terá ampla divulgação pelo órgão de comunicação da Câmara Municipal.
+
+
+Art. 5º.
+
+Esta Resolução entra em vigor na data de sua publicação, com a nomeação imediata da procuradora.
+
+
+CÂMARA MUNICIPAL DE CORBÉLIA  
+Em 09 de janeiro de 2024, 63º da Emancipação Política.
+
+Emanuel Andrigo Huff  
+Presidente
+
+Não substitui o texto publicado no DOE 1946 de 09/01/2024, pág. 17-21.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1286/ta
+

@@ -1,0 +1,79 @@
+{
+  "replay_aprovados": 89,
+  "promovidos_observados": 89,
+  "aplicacoes_executadas": 0,
+  "escritas_canonicas": 0,
+  "ancora": {
+    "arquivo": "municipais/_indice/_recuperacao_20261027/promotor-bibliografico89-final-v2-20261028/manifesto.json",
+    "sha256": "52c91cda8ee4f1f5f8945d95412114ea4ed7af15e7b630d7d0582e37fffd8bf4",
+    "bytes": 396866
+  },
+  "cadeia": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/promotor-bibliografico89-final-v2-20261028/manifesto.json",
+      "sha256": "52c91cda8ee4f1f5f8945d95412114ea4ed7af15e7b630d7d0582e37fffd8bf4"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/publicacao-observacoes-bibliograficas89-proposta-20261028/manifesto.json",
+      "sha256": "ce4f6c547a0b2ba386259d8363ae6e625198b1677c06670a62c89c35785a0652"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/promotor-bibliografico89-final-20261028/manifesto.json",
+      "sha256": "28cb4ed1c91fde673e085a84558c6a87c0f5b1c07327821084719ffb847754e8"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/observacoes-bibliograficas-ta-privado-20261028/manifesto.json",
+      "sha256": "9504a18624618dbfeaee3a7f2af18499eac281cbbbb5ca92d45ad6fdbeebd9e9"
+    }
+  ],
+  "testes": 6,
+  "arquivos": [
+    {
+      "arquivo": "scripts/revalidar_observacoes_bibliograficas_ta_v2_privado_20261028.py",
+      "sha256": "a56218b20f4976441ca26db3bafdfbacf5b8683599ba4021eef0741b0e51d09a",
+      "bytes": 5018
+    },
+    {
+      "arquivo": "scripts/test_replay_bibliografico_cadeia_20261028.py",
+      "sha256": "281bf379791a0ca856eeb09838343853aa5c92e90ceab1de18ba8be62b74f876",
+      "bytes": 3345
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/bib89-replay-cadeia-testes-20261028.txt",
+      "sha256": "2731ebb9153fc57d52c97f9af0b73fbe8a93a9379beb4229dce1105f20cb16d4",
+      "bytes": 104
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/bib89-replay-v2-validado-20261028.json",
+      "sha256": "1e59b2096c9144433e4d29ce29914ccf0721916af2e10c051c86b11baf1534d0",
+      "bytes": 1011942
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/promotor-bibliografico89-final-v2-20261028/manifesto.json",
+      "sha256": "52c91cda8ee4f1f5f8945d95412114ea4ed7af15e7b630d7d0582e37fffd8bf4",
+      "bytes": 396866
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/bib89-replay-cadeia-v2-20261028/falha-original-root.txt",
+      "sha256": "74e7b13cc985972e1bf01fb7e0ce1317a17d88dc7438a6b1379b78056668070c",
+      "bytes": 1291
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/bib89-replay-cadeia-v2-20261028/REPRODUZIR.txt",
+      "sha256": "8a0b690622b78aa4bdc44e984e6bfb043a41eee8fd9d6b611e36cc9afa3a45aa",
+      "bytes": 1088
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/bib89-replay-cadeia-v2-20261028/stage.paths.z",
+      "sha256": "dcf64368aff8e9d8805c59cee6c09d74950da5d76d53334b6227697f6671053d",
+      "bytes": 833
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/bib89-replay-cadeia-v2-20261028/stage.paths.txt",
+      "sha256": "6f65f0434650273f37e35931d56dbd488ce4a2b361c1036075a056e36ac1f450",
+      "bytes": 833
+    }
+  ],
+  "paths_stage": 10,
+  "limite": "Suplemento imutável; novos runner/teste/prova. Originais, manifestos congelados, canônicos, HEAD e índice não alterados. API atribuída, sem confirmar AEMERJ ou vigência."
+}

@@ -1,0 +1,54 @@
+---
+titulo: "PORTARIA CONJUNTA CORAT/CODAR/COCAD Nº 47, DE 22 DE NOVEMBRO DE 2021"
+orgao: "Ministério da Economia/Secretaria Especial da Receita Federal do Brasil/Subsecretaria-Geral da Receita Federal do Brasil/Subsecretaria de Arrecadação, Cadastros e Atendimento/Coordenação-Geral de Administração do Crédito Tributário"
+tipo: "Portaria"
+numero: "47"
+data: 2021-11-22
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 24/11/2021, seção 1, p. 48"
+data_publicacao: 2021-11-24
+edicao: "220"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-conjunta-corat/codar/cocad-n-47-de-22-de-novembro-de-2021-361614910"
+sha256_html_fonte: cdbca43947b626676aff4d18abe7f3027cb1796a301b9701b6bdd0beb132b640
+baixado_em: 2026-10-21
+---
+# PORTARIA CONJUNTA CORAT/CODAR/COCAD Nº 47, DE 22 DE NOVEMBRO DE 2021
+
+PORTARIA CONJUNTA CORAT/CODAR/COCAD Nº 47, DE 22 DE NOVEMBRO DE 2021
+
+Dá publicidade ao resultado alcançado no 3º (terceiro) trimestre de 2021 pelos servidores que atuam na modalidade teletrabalho nas Delegacias da Receita Federal do Brasil.
+
+O COORDENADOR-GERAL DE ADMINISTRAÇÃO DO CRÉDITO TRIBUTÁRIO, o COORDENADOR-GERAL DE ARRECADAÇÃO E DE DIREITO CREDITÓRIO e o COORDENADOR-GERAL DE GESTÃO DE CADASTROS E BENEFÍCIOS FISCAIS, no exercício das atribuições previstas, respectivamente, nos arts. 66, 74 e 87 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria ME nº 284, de 27 de julho de 2020, e tendo em vista o disposto no § 6º do art. 6º do Decreto nº 1.590, de 10 de agosto de 1995, na Portaria MF nº 196, de 14 de junho de 2016, nos incisos I e II do § 1º do art. 21 da Portaria RFB nº 2.383, de 13 de julho de 2017, na Portaria RFB nº 390, de 21 de fevereiro de 2019, e na Portaria RFB nº 696, de 9 de abril de 2020, resolveM:
+
+**Art. 1º** Os resultados alcançados no 3º (terceiro) trimestre de 2021, pelos servidores que atuam na modalidade teletrabalho nas Delegacias da Receita Federal do Brasil (DRF), são os que constam do Anexo Único desta Portaria.
+
+**§ 1º** Os resultados a que se refere o caput foram alcançados pelo conjunto de servidores lotados nas DRF na realização das seguintes atividades, cuja autorização foi dada pela Portaria RFB nº 390, de 21 de fevereiro de 2019:
+
+I - preparo, análise, decisão e execução de processos de arrecadação, cobrança, cumprimento das obrigações acessórias e garantia do crédito tributário;
+
+II - Gerir Direito Creditório de Contribuinte; e
+
+III - Gerir Cadastros Tributários e Aduaneiros.
+
+**§ 2º** O resultado individualizado alcançado por servidor lotado na DRF ou na Superintendência Regional da Receita Federal do Brasil (SRRF) em cada atividade desenvolvida será disponibilizado no Boletim de Serviço da RFB.
+
+**Art. 2º** A meta de desempenho para o 3º (terceiro) trimestre de 2021 foi fixada em 1,00 (um inteiro), em razão da suspensão da exigência prevista no § 1º do art. 2º da Portaria RFB nº 2.383, de 13 de julho de 2017, determinada pela Portaria RFB nº 696, de 9 de abril de 2020.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação no Diário Oficial da União.
+
+MARCOS HUBNER FLORES
+
+Coordenador-Geral de Administração do Crédito Tributário
+
+MARCUS VINICIUS MARTINS QUARESMA
+
+Coordenador-Geral de Arrecadação e de Direito Creditório
+
+RÉRITON WELDERT GOMES
+
+Coordenador-Geral de Gestão de Cadastros e Benefícios Fiscais
+
+ANEXO ÚNICO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Atividades</p></td>      <td rowspan="1" colspan="1"><p>Meta estabelecida</p></td>      <td rowspan="1" colspan="1"><p>Resultado alcançado</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Preparo, análise, decisão e execução de processos de arrecadação, cobrança, cumprimento das obrigações acessórias e garantia do crédito tributário</p></td>      <td rowspan="1" colspan="1"><p>1,00</p></td>      <td rowspan="1" colspan="1"><p>1,69</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Gerir Direito Creditório de Contribuinte</p></td>      <td rowspan="1" colspan="1"><p>1,00</p></td>      <td rowspan="1" colspan="1"><p>1,56</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Gerir Cadastros Tributários e Aduaneiros</p></td>      <td rowspan="1" colspan="1"><p>1,00</p></td>      <td rowspan="1" colspan="1"><p>1,38</p></td>     </tr>    </tbody>   </table>

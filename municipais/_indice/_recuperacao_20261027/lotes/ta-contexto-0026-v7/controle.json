@@ -1,0 +1,2789 @@
+{
+  "criterio": "Detecta texto e mídia normativa fora dos dispositivos contabilizados do TA.\n\nControle adicional somente leitura. Qualquer conteúdo não contabilizado é\nretido, sem presumir que se trata de navegação ou decidir vigência por aparência.\n",
+  "aprovados": 21,
+  "retidos": 102,
+  "script_sha256": "f44151983d56fd8ff3380b5ad14ad8557215b895048d6405e7563b21b6a3b066",
+  "resultados": [
+    {
+      "path": "municipais/CE/eusebio/leis-ordinarias/2018/leis-ordinarias-1604-2018-sapl-2024.md",
+      "sha256": "d94f941b4e9d87ea82e977d83f61828ea89eadbb5f806910f551cbe9a92a6d89",
+      "sha256_fonte": "b68db571292fbc08b74ff5190a910009300c6d21c5ffa39782bf2d891d77ad32",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/4dfd5abd2ccf76bc4b9224590bb0f4727b038edb93c31f7f6a660d941d12f168.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2026/decretos-774-2026-sapl-2542.md",
+      "sha256": "9281d31789c6b05d5b145b274df90c9f25c92ffe53d76b2809e32dad064a8108",
+      "sha256_fonte": "d0b860bffce756a66b2616f552970a21c3e663892998ec70d17694920265356d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/19a22e470f9690a9aaa22dfa1d4b3acbb369c9b580511903f9b8882fc5030e32.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 10/02/2026. Edição 4059 A verificação de autenticidade da matéria pode ser feita informando o código identificador no site: https://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/fenix/decretos-legislativos/2025/decretos-legislativos-2-2025-sapl-1498.md",
+      "sha256": "23470d5c99eb8994395882d0efec8b6398daec0e02632a494a6a3a1d268cc0d7",
+      "sha256_fonte": "7fa888bdeace90f8e6b9ee3bf833cb24c22cb046b7e805541dd8e001b3b521aa",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/462532da43dd29612ecd8620be91ab406490f6a93a2e7f74653dde52b1043f23.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2026/decretos-773-2026-sapl-2541.md",
+      "sha256": "1e09fd24a76794663eb5f2e197bc33373d76cfb2c22b1b107439bd6d69763947",
+      "sha256_fonte": "56f90f27199be69ea71373e6eae369edb4f9adcdf91881a61ee269acce392623",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/5e40485b71b237d4243a80a08ae5030c2f592714e667d69515f3cf9058f35875.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 10/02/2026. Edição 4059 A verificação de autenticidade da matéria pode ser feita informando o código identificador no site: https://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2026/decretos-772-2026-sapl-2540.md",
+      "sha256": "5cfd7432052473b997d8b56bc86c13f747f2e37f2a82cc549ccfd5fcefecb7fb",
+      "sha256_fonte": "5b53ef71220ff0359ba018df618f830b328ebbe4432aedb6bce9699591fcb108",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/1e00af171ebc514af149fdd42850319e23a08aa0324249cd75c9d8d7db475981.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 09/02/2026. Edição 4058a A verificação de autenticidade da matéria pode ser feita informando o código identificador no site: https://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/eusebio/decretos-legislativos/2017/decretos-legislativos-293-2017-sapl-1852.md",
+      "sha256": "51fd1e1895e0406ce33223cafb8228926b384693446c4ee169bb37e02e224f4c",
+      "sha256_fonte": "1dfbf85a4b9fb0a72bf9f05394f01a76b5f53c876b0a10eda385226e3650d0a9",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/7284c9bfe1da671ded23fcc37de2d3445072d5902f509551b6e5f8ecff381ca0.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            430,
+            40
+          ]
+        },
+        {
+          "texto": "26 de Abril de 2021",
+          "posicao": [
+            434,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            434,
+            63
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            440,
+            25
+          ]
+        },
+        {
+          "texto": "Decreto Legislativo nº 511, de 26 de abril de 2021",
+          "posicao": [
+            440,
+            56
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2026/decretos-771-2026-sapl-2539.md",
+      "sha256": "e54ec90ff3435f538d8114702fde58032da29f5770f2e84c4a2055cbb29bdd83",
+      "sha256_fonte": "ed53a6e5e9bc1bfb7b31d5dafd96ce173ff020e59b12ca41fcc8a7c3ffeeede4",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/476c0063c09cc44cf1ad824203b79fa96e9818aaac8a6b0cfe17bd9c61d99864.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 04/02/2026. Edição 4055 A verificação de autenticidade da matéria pode ser feita informando o código identificador no site: https://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2026/decretos-770-2026-sapl-2538.md",
+      "sha256": "6f8485d3f1d35c46ce8e541d99f1e39459ecdc099aa826401468e4176da9ff78",
+      "sha256_fonte": "54022417c8ae6805a4913077263464b282a3ba67a566c67d089c0da7dd9c8942",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/d8414b773ea97b8ec9e8fdbabf0582b72824ce67f07958c08e47d8caf9af988b.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 30/01/2026. Edição 4052a A verificação de autenticidade da matéria pode ser feita informando o código identificador no site: https://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/eusebio/leis-complementares/2016/leis-complementares-29-2016-sapl-1689.md",
+      "sha256": "2202099ce6e63106eccf44e88dd18c8dff803c92f04da0293b3456f3bb74cc02",
+      "sha256_fonte": "07ea30ae5f0a87c926f552be0690de713de18e45ae75aeb42dc71d5d549f9139",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/ed81ea355bfb1eefecc38dd4ed06919a32298e7e5a6243d9ce37dfeaeaf712f2.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            430,
+            40
+          ]
+        },
+        {
+          "texto": "29 de Maio de 2023",
+          "posicao": [
+            434,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            434,
+            62
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            440,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Complementar nº 83, de 29 de maio de 2023",
+          "posicao": [
+            440,
+            56
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2026/decretos-768-2026-sapl-2536.md",
+      "sha256": "ec406b5e52cd9822893a954f7a1b6f66e2442854782c1a13a261487f8268c191",
+      "sha256_fonte": "b73a8f086cb63862d2ace4777f229e74d6a9251ed25764e958f766048cceede4",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/a096fbb84a6ed52b48ee99dd127438af708557e237bba9643b51e7bc11856fa4.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 21/01/2026. Edição 4045 A verificação de autenticidade da matéria pode ser feita informando o código identificador no site: https://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/eusebio/resolucoes/2016/resolucoes-20-2016-sapl-1623.md",
+      "sha256": "a97271d905aedaad580f075224719383baa1d93bcad4d8a3dfbd73158e3411ba",
+      "sha256_fonte": "849900881b13ff28e528b024906f3de26b8aad062d48ea4dd4d8b10da1097fb3",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/9798229892e141325a4d51405cebf9504a77f1bfb7cc9adba1632ae5c5864bcf.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            519,
+            132
+          ]
+        },
+        {
+          "texto": "Os Vereadores e servidores só adentrarão ao Plenário vestidos à altura das Sessões, no caso dos homens, vestidos com paletó e gravata ou blaser.",
+          "posicao": [
+            519,
+            140
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/eusebio/resolucoes/2015/resolucoes-17-2015-sapl-1533.md",
+      "sha256": "da2c19c78b4bf46607a6e033d6e35df626b772befd004b198133a4b4d803e3da",
+      "sha256_fonte": "c324fcb4861646d748c232686027c2dc3ad4c2db06e0084c131c39bf143dd7a4",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/87037119b8a5da2fbe34d8c3006b937b4ac780efc1b702c7ad6cd2a22b097c73.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            430,
+            40
+          ]
+        },
+        {
+          "texto": "11 de Março de 2019",
+          "posicao": [
+            434,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            434,
+            63
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            440,
+            25
+          ]
+        },
+        {
+          "texto": "Resolução nº 25, de 11 de março de 2019",
+          "posicao": [
+            440,
+            56
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/eusebio/resolucoes/2014/resolucoes-14-2014-sapl-1395.md",
+      "sha256": "a6af193d36b96eae1d149efd66896f2e76787faf36e2bd2a4328dfdb1f057696",
+      "sha256_fonte": "72348ea8772c3a79d36f062d751e2dbbf6f54f236e1ddd7fca991fd3fdfa44f4",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/594a61c109a99d712f6bde7159f29c42d8d197f603b2f904201212c2aa5f6e0c.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            533,
+            132
+          ]
+        },
+        {
+          "texto": "O momento reservado ao pronunciamento do orador que fizer uso da Tribuna Livre antecederá às intervenções dos vereadores inscritos.",
+          "posicao": [
+            533,
+            152
+          ]
+        },
+        {
+          "texto": "Art. 148.",
+          "posicao": [
+            542,
+            119
+          ]
+        },
+        {
+          "texto": "Não se admitirá o uso da Tribuna Livre por representantes de Partidos Políticos, bem como de cidadãos filiados a partidos políticos.",
+          "posicao": [
+            542,
+            132
+          ]
+        },
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            556,
+            132
+          ]
+        },
+        {
+          "texto": "A regra estabelecida neste artigo poderá sofrer relativização de acordo com o Poder Discricionário da Presidência, o qual, em casos excepcionais, poderá anuir com o uso da Tribuna por cidadãos e cidadãs que tenham filiação partidária, desde que com pauta previamente estabelecida e com tema relacionado a assunto institucional.",
+          "posicao": [
+            556,
+            140
+          ]
+        },
+        {
+          "texto": "§ 2º",
+          "posicao": [
+            565,
+            132
+          ]
+        },
+        {
+          "texto": "Às Autoridades Municipais e aos Agentes Políticos com cargos neste Município não se aplica a regra deste artigo.",
+          "posicao": [
+            565,
+            140
+          ]
+        },
+        {
+          "texto": "§ 3º",
+          "posicao": [
+            574,
+            132
+          ]
+        },
+        {
+          "texto": "Nos meses dos pleitos eleitorais municipal, estadual e federal fica suspenso o uso da Tribuna Livre a fim de se evitar o descumprimento do Código Eleitoral.",
+          "posicao": [
+            574,
+            140
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/fenix/decretos-legislativos/2024/decretos-legislativos-3-2024-sapl-1465.md",
+      "sha256": "5b2efe61e4c9bf99fbd650503f195675a31ca44a6e2bc0411ab3e69b7e48811c",
+      "sha256_fonte": "896915497f4cb9fb09455feba6d4ec5adff4026d8f94678f7305c9b6e474ee3c",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/8260f5143bc34a2dc3138b6a50adbaa75008e6036bcc42d979c3145c887c4b70.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/CE/eusebio/resolucoes/2013/resolucoes-11-2013-sapl-1163.md",
+      "sha256": "9fff3e95d0fd78ae554c13a673a99168d7681f5047f267eb713cd1dcf0528825",
+      "sha256_fonte": "af53729f83d66dc3482b3dafa34ed63f523a92c065d54975cb5ea6aa4ac0668b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/fff5e7a844a95e5e9869bb4da3bd85c2b560e9458b4801c53a27ba43bd9f3b10.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "CAPÍTULO VI",
+          "posicao": [
+            519,
+            124
+          ]
+        },
+        {
+          "texto": "DA CORREGEDORIA-GERAL LEGISLATIVO",
+          "posicao": [
+            519,
+            143
+          ]
+        },
+        {
+          "texto": "Art. 33-A.",
+          "posicao": [
+            527,
+            121
+          ]
+        },
+        {
+          "texto": "O Presidente da Câmara indicará, dentre os Vereadores que não integrem a Mesa Diretora, um Corregedor-Geral Legislativo, sendo este confirmado pelo Plenário por maioria simples.",
+          "posicao": [
+            527,
+            135
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            541,
+            132
+          ]
+        },
+        {
+          "texto": "O Corregedor Parlamentar, quando em exercício, não poderá ocupar a Presidência de nenhuma das comissões permanentes ou especiais.",
+          "posicao": [
+            541,
+            152
+          ]
+        },
+        {
+          "texto": "Art. 33-B.",
+          "posicao": [
+            550,
+            121
+          ]
+        },
+        {
+          "texto": "Ao Corregedor-Geral Legislativo compete:",
+          "posicao": [
+            550,
+            135
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            564,
+            129
+          ]
+        },
+        {
+          "texto": "– supervisionar, com poderes de revista e desarmamento, a proibição do porte de arma nas dependências da Câmara Municipal;",
+          "posicao": [
+            564,
+            134
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            573,
+            129
+          ]
+        },
+        {
+          "texto": "– zelar pela observância da proibição de qualquer comércio nas dependências da Câmara Municipal, salvo em caso de expressa autorização da Mesa;",
+          "posicao": [
+            573,
+            135
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            582,
+            129
+          ]
+        },
+        {
+          "texto": "– assegurar a manutenção do decoro, da ordem e da disciplina nas dependências da Câmara Municipal de Eusébio.",
+          "posicao": [
+            582,
+            136
+          ]
+        },
+        {
+          "texto": "Art. 33-C.",
+          "posicao": [
+            591,
+            121
+          ]
+        },
+        {
+          "texto": "O Corregedor-Geral Legislativo poderá, observados os preceitos regimentais e as normas administrativas expedidas pela Mesa Diretora, baixar provimentos no sentido de prevenir perturbações da ordem e disciplina nas dependências da Câmara Municipal de Eusébio.",
+          "posicao": [
+            591,
+            135
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2026/decretos-760-2026-sapl-2528.md",
+      "sha256": "388de24be8a436817817a6a8bb2231408616931bc42cf4fd512cb2cbc3c4b2de",
+      "sha256_fonte": "9cee59700045c0574cd688b95bb8d8e01a837fd77ab5e7725542bb5c8e0d1fa8",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/7a4203416fed1f9a1c660a52eda8ebe686490588724e1e7ae7107698154ea06d.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 13/01/2026. Edição 4039 A verificação de autenticidade da matéria pode ser feita informando o código identificador no site: https://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/eusebio/resolucoes/2012/resolucoes-10-2012-sapl-1143.md",
+      "sha256": "8ee78b6d455d8dc67309c2074d62ef55e98ac5cf217be66cb3876e3d58c8c9cc",
+      "sha256_fonte": "fcf885317b61bb898dd4f9a25ff2db82fa1a8654560494d7088970784689bf00",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/74a954eb0998bc7f3d3c7b5ca6338ec96716021174d65da518c29cc4a1e93f70.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 34.",
+          "posicao": [
+            519,
+            119
+          ]
+        },
+        {
+          "texto": "A Mesa da Câmara compõe-se dos cargos de Presidente, 1º Vice-Presidente, 2º Vice-Presidente, 1º Secretário, 2º Secretário e 3º Secretário, com mandato de 01 (um) ano.",
+          "posicao": [
+            519,
+            131
+          ]
+        },
+        {
+          "texto": "Art. 37.",
+          "posicao": [
+            547,
+            119
+          ]
+        },
+        {
+          "texto": "Para as eleições a que se refere o caput do art. 35, poderão concorrer quaisquer vereadores titulares.",
+          "posicao": [
+            547,
+            131
+          ]
+        },
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            561,
+            132
+          ]
+        },
+        {
+          "texto": "O Vereador titular de mandato eletivo só poderá concorrer em uma única chapa.",
+          "posicao": [
+            561,
+            140
+          ]
+        },
+        {
+          "texto": "§ 2º",
+          "posicao": [
+            570,
+            132
+          ]
+        },
+        {
+          "texto": "Fica nula a chapa inscrita posteriormente, que contenha qualquer Vereador de mandato eletivo já inscrito.",
+          "posicao": [
+            570,
+            140
+          ]
+        },
+        {
+          "texto": "§ 3º",
+          "posicao": [
+            579,
+            132
+          ]
+        },
+        {
+          "texto": "As chapa concorrentes à Mesa Diretora deverão apresentar à Secretaria da Câmara, com a autorização dos respectivos candidatos, até no máximo 48hs (quarenta e oito horas) antes do pleito, conforme o caput dos arts. 35 e 36 deste Regimento.",
+          "posicao": [
+            579,
+            140
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/fenix/leis-ordinarias/2024/leis-ordinarias-24-2024-sapl-1470.md",
+      "sha256": "5e98820e047d4a16f3cc02f7420723db03e284210a3f1455a14356dba1814a9b",
+      "sha256_fonte": "7990297c7e11107d52c7e43f249c5935f7c826eab130ba4f0ccef2f563422558",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/d721a911e21567011b354b8b1cf61c63e9158f972e9dba484da5738edc996ef4.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2026/decretos-758-2026-sapl-2526.md",
+      "sha256": "570a04cb2a0a8edf1f735845d494fb0a115a535bd744fa2abc6eda9933c84079",
+      "sha256_fonte": "aca7f4e271980a542963e44d483b4fb6a554f48b5bfded905b340053a7a233a4",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/75307832e60a10d5b9adc97f5cae56844011be94936cb739dabb200649293ef6.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 13/01/2026. Edição 4039 A verificação de autenticidade da matéria pode ser feita informando o código identificador no site: https://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/eusebio/resolucoes/2012/resolucoes-9-2012-sapl-1124.md",
+      "sha256": "bef8916cc1ce002abaccaa7898df2d856e53aaf3d1c05c168e1ec23a40739c29",
+      "sha256_fonte": "53e40820d7f2cbc6c98a97e11380e8fcd18f27faf92929059b670c45fce103ff",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/be24b9416f51e285d0f9cc07e5a14e49edba77b1b3559abc3b8418b5789df820.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 56.",
+          "posicao": [
+            533,
+            119
+          ]
+        },
+        {
+          "texto": "O Vice-Presidente substitui o Presidente nas suas faltas e impedimentos e será substituído, nas mesmas condições, pelo 1º e 2º Secretários.",
+          "posicao": [
+            533,
+            131
+          ]
+        },
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            547,
+            132
+          ]
+        },
+        {
+          "texto": "No caso de vaga do cargo de Presidente da Mesa Diretora, assume interinamente a presidência o primeiro Vice-Presidente que convocará eleição para o cargo vago no prazo de 60 (dias) contado da vaga.",
+          "posicao": [
+            547,
+            140
+          ]
+        },
+        {
+          "texto": "§ 2º",
+          "posicao": [
+            556,
+            132
+          ]
+        },
+        {
+          "texto": "Se a vaga no cargo de Presidente se der nos últimos seis meses de mandato o vice-presidente completará o mandato de Presidente.",
+          "posicao": [
+            556,
+            140
+          ]
+        },
+        {
+          "texto": "Art. 57.",
+          "posicao": [
+            565,
+            119
+          ]
+        },
+        {
+          "texto": "Compete aos Vice-Presidentes da Câmara:",
+          "posicao": [
+            565,
+            131
+          ]
+        },
+        {
+          "texto": "Art. 58.",
+          "posicao": [
+            579,
+            119
+          ]
+        },
+        {
+          "texto": "Compete ao 1º Secretário:",
+          "posicao": [
+            579,
+            131
+          ]
+        },
+        {
+          "texto": "Art. 58-A.",
+          "posicao": [
+            593,
+            121
+          ]
+        },
+        {
+          "texto": "O 1º Secretário será substituído pelo 2º Secretário em sua ausência ou impedimento e este será substituído pelo 3º Secretário.",
+          "posicao": [
+            593,
+            135
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/fenix/decretos-legislativos/2023/decretos-legislativos-2-2023-sapl-1459.md",
+      "sha256": "7a90a30a57d5c38b2632a6d68d3f8bdaadf6d6f80506aace8712eed77daa691b",
+      "sha256_fonte": "9d67b5bbe6700b07397d64bcdda46278c4fa989260bf42f79764d8eecdbb8d09",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/54a3d2246512264155856b3fbbd1cb0c4787c92f64dc780dcbd937cad7ba7b9e.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1760-2025-sapl-2507.md",
+      "sha256": "4aca6b6e2315fe2e31b36ad1ad1417f164e368d4361c89ba4cb2dbce91d1cf94",
+      "sha256_fonte": "1995a27874ddf4af52c36576ff9937f3d2fa19c9c4d6198bfdf4eefae639dd3b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/f7e3e88f4809ce1d747b3054c4f45884ff64a6eb5c3417c284e4545d81110be3.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 24/12/2025. Edição 4030\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/eusebio/resolucoes/2009/resolucoes-5-2009-sapl-944.md",
+      "sha256": "7acb8e970c4d35f50519bedf669fd7db3d5b40102a7cf6c7e4f12801473e2a2d",
+      "sha256_fonte": "88487cb83810259181f69faf070a3f91e259e06c820753064aef2c9e848a4eb4",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/791a9c593d32ce77cc144ec31a476d92195de36b47b1562420ce1025be444956.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Seção V-1",
+          "posicao": [
+            584,
+            121
+          ]
+        },
+        {
+          "texto": "DA CÂMARA NAS COMUNIDADES",
+          "posicao": [
+            584,
+            138
+          ]
+        },
+        {
+          "texto": "Art. 148-B.",
+          "posicao": [
+            606,
+            121
+          ]
+        },
+        {
+          "texto": "A Mesa Diretora da Câmara dará todo o suporte, inclusive financeiro, para o deslocamento de seus servidores e equipamentos necessários à realização da Sessão em local distinto de sua sede.",
+          "posicao": [
+            606,
+            136
+          ]
+        },
+        {
+          "texto": "Parágrafo único",
+          "posicao": [
+            620,
+            132
+          ]
+        },
+        {
+          "texto": "Deverá a Mesa Diretora designar uma comissão para viabilizar o deslocamento, que em tempo oportuno visitará o local da realização da sessão itinerante e deslocará todo o equipamento necessário, além dos servidores da Câmara Municipal e ainda cuidará da divulgação do evento em cada localidade.",
+          "posicao": [
+            620,
+            152
+          ]
+        },
+        {
+          "texto": "Art. 148-C.",
+          "posicao": [
+            629,
+            121
+          ]
+        },
+        {
+          "texto": "A Mesa Diretora manterá ao final da sessão nas comunidades o direito de fala dos cidadãos locais que se manifestarão exclusivamente sobre reivindicações e problemas da comunidade local.",
+          "posicao": [
+            629,
+            136
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/fenix/emendas-lei-organica/2022/emendas-lei-organica-2-2022-sapl-1461.md",
+      "sha256": "8d92ab5640b2a6dd5cc8fbaa085b9ca2bc9cb7229eb8c55c048c70c15e44750f",
+      "sha256_fonte": "b75ddf0cd28cdbdf42643246b500d8d9746d928ae5c6063537fea2f411a6d4fa",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/6671b8b481a6c41173e2ac6700eeef64061e21d1576864191f9a3e3d57b3487e.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "VII",
+          "posicao": [
+            547,
+            129
+          ]
+        },
+        {
+          "texto": "–",
+          "posicao": [
+            547,
+            136
+          ]
+        },
+        {
+          "texto": "Escolha direta dos diretores de escolas municipais, através de processo eleitoral instituído",
+          "posicao": [
+            549,
+            17
+          ]
+        },
+        {
+          "texto": "por lei, e regulamentado por Edital da Secretaria Municipal de Educação;",
+          "posicao": [
+            549,
+            113
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1759-2025-sapl-2506.md",
+      "sha256": "413fc4739ab4ae537d4b48b38937bf7c1659ec5bc0dd0d781143a6252e21c247",
+      "sha256_fonte": "c40c371f0bfc3237f5a84c62a6052b80299c8973c474201546c833ec67eb1e20",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/4ab233498b2ddaf539de3fd018458660b341b39a224d190adb30324818d7ef14.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 24/12/2025. Edição 4030\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/eusebio/resolucoes/2009/resolucoes-3-2009-sapl-943.md",
+      "sha256": "3821b34fc681b9fe0c912d72bcbd38ff700c3449383d0b2c38822a1dcd55f653",
+      "sha256_fonte": "d6003c5f9f4676f3dc15cd30bca946734a7ae5a8f5042f726667f410164748a3",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/ef89118ccce9d3533e129adfff19864c0783cc9527b36f0889728c13e7922ba6.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/fenix/leis-ordinarias/2022/leis-ordinarias-19-2022-sapl-42.md",
+      "sha256": "dee401e4a5ecf5a8b83fbc19459cba320b0de068fd2fb93cabc7fdcbb0415faf",
+      "sha256_fonte": "fc8a711ed30fde09d916ebc353b7ed430bebc1a63434cd60b0b14588917c8133",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/123777cb8fe31a456761b83e9771d44ceb87cc1c1c9648b98502158db25790d4.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            831,
+            123
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            836,
+            136
+          ]
+        },
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            841,
+            122
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            841,
+            134
+          ]
+        },
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            855,
+            133
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            855,
+            141
+          ]
+        },
+        {
+          "texto": "§ 2º",
+          "posicao": [
+            864,
+            133
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            864,
+            141
+          ]
+        },
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            873,
+            122
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            873,
+            134
+          ]
+        },
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            887,
+            122
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            887,
+            134
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            901,
+            130
+          ]
+        },
+        {
+          "texto": "– (Revogado)",
+          "posicao": [
+            901,
+            135
+          ]
+        },
+        {
+          "texto": "a)",
+          "posicao": [
+            910,
+            130
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            910,
+            136
+          ]
+        },
+        {
+          "texto": "b)",
+          "posicao": [
+            919,
+            130
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            919,
+            136
+          ]
+        },
+        {
+          "texto": "Art. 4º.",
+          "posicao": [
+            928,
+            122
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            928,
+            134
+          ]
+        },
+        {
+          "texto": "§ 1º",
+          "posicao": [
+            942,
+            133
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            942,
+            141
+          ]
+        },
+        {
+          "texto": "Art. 5º.",
+          "posicao": [
+            951,
+            122
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            951,
+            134
+          ]
+        },
+        {
+          "texto": "Art. 6º.",
+          "posicao": [
+            965,
+            122
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            965,
+            134
+          ]
+        },
+        {
+          "texto": "Art. 7º.",
+          "posicao": [
+            979,
+            122
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            979,
+            134
+          ]
+        },
+        {
+          "texto": "Art. 8º.",
+          "posicao": [
+            993,
+            122
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            993,
+            134
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            1007,
+            136
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1758-2025-sapl-2505.md",
+      "sha256": "160cf2558852f9ccec7b68cf8958f6a002d5cd55f86581e6bdfddfd088737171",
+      "sha256_fonte": "3cb4899eeaaf77a3bf1e8d2828b2939cb982f4f30d8b5e6fef1f91033b4a8cc2",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/f0db1187fb4b04f090a84633b199b1498070971bda499289f41636c5fbc32cf2.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 24/12/2025. Edição 4030\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/fenix/decretos-legislativos/2021/decretos-legislativos-2-2021-sapl-1463.md",
+      "sha256": "9d613bf56c9272a0a6cfbc89ab1550acd4c17a6efc9f18c31c8fd1f9e50a6ed5",
+      "sha256_fonte": "4c8c853c28eeb7be8f31a096db7ae29c3eee8486278e4a8fbb46928da16ce1d4",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/21cd025319acf76ebc99d4ce4a7823cba67286e43a5bf6c6e2bb89eee9638af7.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            1787,
+            122
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            1792,
+            135
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            1797,
+            135
+          ]
+        },
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            1802,
+            122
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            1802,
+            134
+          ]
+        },
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            1811,
+            121
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            1811,
+            133
+          ]
+        },
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            1825,
+            122
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            1825,
+            134
+          ]
+        },
+        {
+          "texto": "Art. 2º.",
+          "posicao": [
+            1834,
+            121
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            1834,
+            133
+          ]
+        },
+        {
+          "texto": "(Revogado)",
+          "posicao": [
+            1848,
+            135
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/CE/eusebio/resolucoes/2008/resolucoes-1-2008-sapl-338.md",
+      "sha256": "25cdf9fd75a545d6169077f988fb3cd716f054d13861a10283bb2ecb44dea377",
+      "sha256_fonte": "26851ad73e9468ff82d778e8c21fb38ac8a2a6e818f8a8129a35313aa1dd23d6",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/a5565f4fd19ab3ac2c3560f3ebf601221706ab89f003fb1d0280af658ba1b0c7.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            901,
+            40
+          ]
+        },
+        {
+          "texto": "4 de Dezembro de 2023",
+          "posicao": [
+            905,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            905,
+            65
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            911,
+            25
+          ]
+        },
+        {
+          "texto": "Resolução nº 1, de 15 de dezembro de 2008",
+          "posicao": [
+            911,
+            56
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/fenix/decretos-legislativos/2021/decretos-legislativos-1-2021-sapl-1462.md",
+      "sha256": "c55b46d34c0f0c2f1365dc21137b7205d26884f9b14399186bc1c8ef90b604e7",
+      "sha256_fonte": "ebdc39420f035db39ea307451dc8b981f2974baf39b293608b16e62ed0c2abd3",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/0192d0e0aa66d0ec073a1dde36acf55a2f40e8410de884c6a59bc8254199e2ad.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            446,
+            40
+          ]
+        },
+        {
+          "texto": "9 de Março de 2021",
+          "posicao": [
+            450,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            450,
+            62
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            456,
+            25
+          ]
+        },
+        {
+          "texto": "Decreto Legislativo-GB nº 2, de 09 de março de 2021",
+          "posicao": [
+            456,
+            56
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/resolucoes/2025/resolucoes-6-2025-sapl-2512.md",
+      "sha256": "85536796cca188e55e5ab973732a5ed0ff7b0b3320f7deca204cafd2fa2c9cc5",
+      "sha256_fonte": "83bd02ffff51474c260c3663cba01ceea52c726a2462604f3c027a7e6e6202f4",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/96f7c15fa76c25511bd95366fdec0a3322331ee6561648bb324b0317651c3eb8.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 1º.",
+          "posicao": [
+            516,
+            127
+          ]
+        },
+        {
+          "texto": "Fica instituída verba indenizatória do exercício parlamentar, destinada exclusivamente ao custeio das despesas relacionadas ao exercício do mandato parlamentar, no valor máximo de R$ 2.650,00 (dois mil seiscentos e cinquenta reais) mensais.",
+          "posicao": [
+            516,
+            139
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/fenix/leis-ordinarias/2018/leis-ordinarias-50-2018-sapl-1358.md",
+      "sha256": "f02b7f0ef5805d6eda840b6847ce831c189324ffb79c803166221b521be52e9f",
+      "sha256_fonte": "83c8fb24fe63054d0c47b7f6d86fa19077a6552c42711c8e34b9433551290eea",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/fa57308a080fafdcd56ca06d01869cc1ffb9bf3a72d55cc365cc4c44987035b1.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1757-2025-sapl-2504.md",
+      "sha256": "95fdd532de8ed0d5ba38f134af83d38f56c601d99c669689a685b921bc58e3d9",
+      "sha256_fonte": "ea947d2778fcc7dde33f825ef793bc17f5761a8b5ca5f740da03eda8233cf125",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/914d24cba63b8c4cef131193c451409ad83a78376b2d27140a2c712832b8bbc7.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 24/12/2025. Edição 4030\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/fenix/leis-ordinarias/2015/leis-ordinarias-9-2015-sapl-3.md",
+      "sha256": "25dc6d4a8ec2a2412e654c1d4fbe77c786b139ac5edd00ddff980130115c5308",
+      "sha256_fonte": "55dcbdaa87c6e15b4baaab0a1bfe9ff2e6c9ba519e238f5e328efbfd09543c79",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/af7ba4be3f1300187d9f9cd78c6770100ce90c7d0b2a257e10f6afa55e101cce.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            476,
+            40
+          ]
+        },
+        {
+          "texto": "12 de Dezembro de 2023",
+          "posicao": [
+            480,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            480,
+            66
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            486,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Municipal-PEX nº 32, de 12 de dezembro de 2023",
+          "posicao": [
+            486,
+            56
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1756-2025-sapl-2503.md",
+      "sha256": "7e3cb4912cd2b2e647b26eb96554cf26be1c50f6af549873501604edabd504c5",
+      "sha256_fonte": "79d0d2c8e265247467ad3034ade6d1cd7d209bb79dcfd393a1eedc494a758918",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/df05e1ff155f49a9fc27f7c4153544f3c0c8ae8f8ace3c410e8b4fc8dc2855a9.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 11/12/2025. Edição 4021\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/fenix/resolucoes/2013/resolucoes-1-2013-sapl-1499.md",
+      "sha256": "5d28b4ce5d25a5bca5d7e257e847fd149e798c2e999ee47b08520e6bbc751b5f",
+      "sha256_fonte": "e300d151d8b66bd31f842ddf4ab65eac68089e9ad8d95c4742fa28e388b19b82",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/4493ee4b6b3e979a93e5b7a5232059143518b1387e5aed775afde960d996a184.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Vigência a partir de",
+          "posicao": [
+            446,
+            40
+          ]
+        },
+        {
+          "texto": "31 de Agosto de 2022",
+          "posicao": [
+            450,
+            40
+          ]
+        },
+        {
+          "texto": ".",
+          "posicao": [
+            450,
+            64
+          ]
+        },
+        {
+          "texto": "Dada por",
+          "posicao": [
+            456,
+            25
+          ]
+        },
+        {
+          "texto": "Lei Municipal-PEX nº 19, de 31 de agosto de 2022",
+          "posicao": [
+            456,
+            57
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1755-2025-sapl-2502.md",
+      "sha256": "8f12ed19b5a980602ba881b29fbbef1a295386635fcbe194c714813bc7233129",
+      "sha256_fonte": "140501589dccbf3be8749a37eafcd09e28bd0948a5fdd11520dcf14fa52ca5a4",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/973c347d503d9755f37f76800a6dab488e779a8246244468b8b79a3ab49515fb.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 11/12/2025. Edição 4021\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/fenix/lei-organica/1990/lei-organica-1-1990-sapl-5.md",
+      "sha256": "e1ef359e37c1a54569b67e35c074b5e1429261a87fcfa5731fc81ba55f56bd01",
+      "sha256_fonte": "32e146a151b90d21b861ad2edb62773957a55ec76ab5f82e9c95bc08a8f0966d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/db54c59039762b81c122a9e37d8388a81f5200a6228d7d1282b4e0b8a2e7354f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-12-1968-sapl-145.md",
+      "sha256": "7a03f6fee58f5fc71711da33d861e97774ffc62d7be5ed1da47a5b388ce0cf7b",
+      "sha256_fonte": "59e48c83aa57745be3294e8e063b45e01266983f411a7e39fe66fb372a130f45",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/4e655b585b87b6699f48103fff05d2f49205be8315bb19da787e988d75460ea8.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1753-2025-sapl-2500.md",
+      "sha256": "e9f032142e9d02d07770da2bc35f22293c3107bc88a2fff05b41d8ef65febf41",
+      "sha256_fonte": "cca9f21eeda7267955a8e3bd14659dd4663699b3963b992f4f1b51f1b62d7468",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/9ecb156cedf96c0c01d24841846b3e1d3b352ad7bb6dd79f4dbcf9bc7102ef6d.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 01/12/2025. Edição 4013\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-11-1968-sapl-144.md",
+      "sha256": "932d13bea6f694c9451cd5d32b49220e3704fdf47b2fbc48b8772286f3cd7aa3",
+      "sha256_fonte": "4de90440cd130339899f3952db8ac1e6598bc06b31e6b450cba7486eb0bab8e8",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/c99cd24f25f5f7b232d12e075141d4d93ca315343041e9d225f11a40a7920a95.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1751-2025-sapl-2498.md",
+      "sha256": "6710346821b59dbae9d5b9bf3bb60728a632bd3d094b672ae4594a20086f9353",
+      "sha256_fonte": "90754b157844c9704a93fe062628c0395bd2574d13139dfbf73a238b1f906268",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/23f1323ee311d1aa2bf5773f42ecbaf18ff127959e119eeffc900228b491446d.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 07/11/2025. Edição 3999\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-10-1968-sapl-143.md",
+      "sha256": "fc51e522f765bf1b4859eee872ed86321451b12cafc84e714624ca114c8c6234",
+      "sha256_fonte": "780f0f37d5c3d60985e27b41436fed634c5f3939e2ea6e182319fd0a8eac668a",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/aaca95f7cd90ab6a9df99b3c1f941a7348c41bb120a10b38907e7e68fc82bf00.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1750-2025-sapl-2497.md",
+      "sha256": "a31d7e2ccc8b6a10ad8805605518f5afbc33c03a6aa5cf531f89c31e0efe1899",
+      "sha256_fonte": "66fdddb69d52022edd9aad214bdfc4497564e4ac44e8f784eb6c4be2a6915cb4",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/685dd950bbe7b385ecf96685a3fe4ad1581e31bf23dfe6a4cfadc75b4ec1dd22.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 07/11/2025. Edição 3999\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-9-1968-sapl-142.md",
+      "sha256": "6b4e3e727eae2a8cc89206677fd511db7acca4006d5ef631d3e778dde1874196",
+      "sha256_fonte": "d95ec32914c21b1fd8173add21a4e5094414af9fed550f48bf692a156129be86",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/b809e5bdf9104460789dc68051abd6f05b3cc48d9b148d1437ea38dd51337d47.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-726-2025-sapl-2478.md",
+      "sha256": "02073fb63486b6f842416170e52583f94788bd2c231a970b6a13b8e4181fc24c",
+      "sha256_fonte": "0fa0e6eb52c943b235e607721145e05086cd545ff494ff93aa343236ae0a16ba",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/89e9b34710f595285f5d00ae254e7a89280c4bc9069e5da3c46ec03f34679ffe.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 03/11/2025. Edição 3995\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-8-1968-sapl-141.md",
+      "sha256": "36aecea8470b055dc162fe297603fa9d338d792e28f1824682773fceeef5a2db",
+      "sha256_fonte": "9b68bf41a6a789fe1ed3c741b5d290ae1af921e78d478b70df8e5ad9bf60f024",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/45f2e19353412d9ab009fbe098db1fb8eb2fbd907d15ee92d8271fe721a6216b.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-727-2025-sapl-2479.md",
+      "sha256": "378b9cf9f075b54e2f1b8c69d97120782ac1333f57b379df79f37a07c61269c7",
+      "sha256_fonte": "34360ebce6ac64d157bf4450bbd34eb51cb7e04826edfb4db6308522986aa509",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/7fed2b1d3d467c8968659d5116b94a9fb183f6d22d74bd7f3698583cc4a9068f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 03/11/2025. Edição 3995\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-7-1968-sapl-140.md",
+      "sha256": "4684e87b04d65985b178ae1820ffdd3f8c3b4a22e18971e45925cc14605a6473",
+      "sha256_fonte": "ea3e97e5489eb7089b5a97ee6a08741d08c42304ecbf34304633e06900079aff",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/afc0b050002aa59943899a18a3858b49561a65520150e0d442cad63313f6ed29.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1749-2025-sapl-2496.md",
+      "sha256": "afeef637a313030d74a55900986ff9574ed94350846f988b5477068922ec6e84",
+      "sha256_fonte": "91addbf256e03550d2af0279168f73d08d5e2c12d5e3c5aeb384e829eff3c243",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/c17e54b3b5613ca13912f2894ff73fc0de8cfbf6474febcd7c9dcc8cf3a53e63.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 04/11/2025. Edição 3996\r\nA verificação de autenticidade da matéria pode ser feitainformando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-6-1968-sapl-139.md",
+      "sha256": "999ee32c0553c89054f40bdebbffbf110269a59051e22d0d2afda22e2b091a28",
+      "sha256_fonte": "e07b6d851a94024a814996d31f3a33152d1099124a120d9ee1eeab67c5d04acb",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/ef35c74a8a099d2322e787a2c5b30a0db1c87068ec374f45b35cf1a048d39f1a.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1748-2025-sapl-2495.md",
+      "sha256": "d40cb853372bc330579fa316b58d9c5b73c0a88b99661afc987e638c97446ddb",
+      "sha256_fonte": "feeb9146d614b0229d9ddbfaa7a0c5421480295694685351c8c4ea480d2ce9b6",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/7de0b0da9b32959e4a7e9db91773434d03f411a85a69fffbd5ce2805d36e4d7a.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 04/11/2025. Edição 3996\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-5-1968-sapl-138.md",
+      "sha256": "a0a98a222a6615ceaf9221f3e0e9d3ebdb2fc57320260ed8b441069464a1064b",
+      "sha256_fonte": "ed51163143a6f8e00d1890a9f0d6d30390c15bac0820e052bc9c313852eba396",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/24d9a687ea59a08b2d1ad272b1ab2c43d988f05b993d94810bbad86229bbf6d0.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1747-2025-sapl-2494.md",
+      "sha256": "3f0c09028a73035dcd9e2aa637d839265af4c5dcb380dbd52d6483cf047e34e6",
+      "sha256_fonte": "fe9ef307f8dd1e87632123bf28cce8b49224692aafa7fbc6a9cbe5ee4ca97b80",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/20a3f5ebf020bb50066d6e60a3af476aa991d5bb28eeb4e9210040336dba1bdd.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 04/11/2025. Edição 3996\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-4-1968-sapl-137.md",
+      "sha256": "56969404632311c6f89eb2d386a988aa3d72c743d1829bafef859e74c124d186",
+      "sha256_fonte": "0c63b48c4e1e7a9c9eb68f7bd5b5da39d0b5f9ba7df49ff9a1ce6c80e06a6abd",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/cebcdae7fddf7472fbae1b331487a330a393f2d333d23dffe991c1495feae485.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1746-2025-sapl-2493.md",
+      "sha256": "55c627880cfcfb9c1bf443fa044dd71b3c5faaa41a313ce136272492e63c8d52",
+      "sha256_fonte": "a81cb1170523e7c2780be30ad27a78c6ac177b7aba55329b945f8e31a6a83e34",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/ea9ec43b3e4bda6a07a2cba8d82a8be64c9549929a7c462e035ffa93d753c04e.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 04/11/2025. Edição 3996\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-3-1968-sapl-136.md",
+      "sha256": "3e89138dcf26ae4646f17eb48f87e13d60240f6647fd009693e89114620d4e62",
+      "sha256_fonte": "a3a16dd8caac341e8c5f5df245de73681493803109af1f691d0878bf84f45cec",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/8c6c48708a99efe21b758c2b46a95a181ea222209cc0c4016a0c72a52723cb29.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1745-2025-sapl-2492.md",
+      "sha256": "8229111572b7d0096dfe13d6566c9a17b90db0fc94be5eb90b27a6dcd0b15787",
+      "sha256_fonte": "2f5f01f5343dc4ab376a1f7cde891566305542008475d57323e082ea2389b926",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/c5e1b1c82c1409178905f9639e3b7e0b5fb55ac8fdaad3d7eff4308c3b9f879c.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 04/11/2025. Edição 3996\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-2-1968-sapl-135.md",
+      "sha256": "8c556b217f62a7d78d4e534f02b9e52aa9a6c0b34dcaf4f630e3598825f4f55c",
+      "sha256_fonte": "628a548b5ee07ff1660a9a6c78aa378e01ba6ded57ca6af4829318d138d3656c",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/282ddc75f96f478b5eefd5e83acbdf139a0d67f35861a609ad5f14e3fcca5eb5.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1744-2025-sapl-2491.md",
+      "sha256": "5a148c1c017304db43a7458aae9f7b9f68ef8ee852d9689fc24919edf2c8dc2f",
+      "sha256_fonte": "848145eb9b5b1e274d15414aad229181c0f1bb73f40f6e1896bcd7b0b7cc3179",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/2cb83ea60b9d11086175c1b0d379ee10e034aa34363b7ac59e84cb43638dd389.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 04/11/2025. Edição 3996\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-1-1968-sapl-134.md",
+      "sha256": "11b5d8fe0bad3b5f7f4af72d3a629970387b79cbece780f83e0b591afd4e77d6",
+      "sha256_fonte": "8b13776d7cb9500d71e3805bba52ce66d55ce329a471443ee9b43b73b59e845b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/d869306013e2e2d664bc46ee2695ead5bd4bd48fb30a03172ad9b96afd342c38.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1743-2025-sapl-2490.md",
+      "sha256": "0513d2a7f392a264bb7a2450e130542f8c7aca171082b197f21d8a5f3ac452eb",
+      "sha256_fonte": "8a96e4687d77a4b444da1321fbd73df563968830eac8d3ee1842039b055af7fc",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/cf70d62d00e1230757a7856c172bf8268c9fd1d53a3c0107f1f4f3752b1dc928.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 03/11/2025. Edição 3995\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1742-2025-sapl-2489.md",
+      "sha256": "1e0751f74e1cbff33ad2b6939e6ca77e449b2005528e5479fb77ab38efcf7247",
+      "sha256_fonte": "a053b9df2af8814b156b1e4a16c6caa833d2847e416b08736cfd98c45d4741bc",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/5812c3ed63c3f038b66743b769aba5a922c067d392a84c42d49395bead9f53d5.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 03/11/2025. Edição 3995\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-725-2025-sapl-2477.md",
+      "sha256": "24263e4adcb83d3c866f73f3d92460f7b974e90c0451a01c0050757dd6cde961",
+      "sha256_fonte": "2656c38c3bf1c15b04851279ed6c6244d46f40b8670b32e33b044fd9ebe1e152",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/b1ec86e372645e2ee285151251f34092426cf4ca9dd5a7d78387d16d1e5e5850.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 29/10/2025. Edição 3992a\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-724-2025-sapl-2476.md",
+      "sha256": "e295e2d1d9abb70cf5ce2d9709d6a9a5d1bdd4b1b75ad2c2a0089df358ef535e",
+      "sha256_fonte": "8dcee60018e48462ce6fd5ae281962bb40139a5aadb071ffd0d74ae2fc04b907",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/87a9e020be7bc1d93f3e488640ebb8399faf54a9d8021fe5a3dc6c074593a81d.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 29/10/2025. Edição 3992a\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1741-2025-sapl-2488.md",
+      "sha256": "eb333e977f9b0a8f36f7c12c36ef115178dee56ba99e7d7c50116b68f450d670",
+      "sha256_fonte": "5967c435762eb3b924bdad98f0dd18673c313640e106e72db1a633956464cc81",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/0a518ad4eac668e77246addbaf6c05d1ba2382a028163f81c7562b3b74900171.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 29/10/2025. Edição 3992a\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-723-2025-sapl-2475.md",
+      "sha256": "264b34b0b54f9e642a4ed33e3bda7321a567c4e9e1824c16ebe04fa38512a1c5",
+      "sha256_fonte": "16ef9fa14a232226b4b6b4ef8761b920b0a1db367098816cd5a40e9f2b8b0394",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/0d7815741b1a38abeeaca01db696b077cbeb074d8c5a04545ff3f60001a8ae45.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 24/10/2025. Edição 3989a\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-722-2025-sapl-2474.md",
+      "sha256": "d78cb4ee4007146033dc2c0aab4d264ddcb4f4ad3400cd6400c8345e9e3e4644",
+      "sha256_fonte": "d09792f5ac5f8b7b896752f3f0d5e787fdd0fe8ec5eef5b43cd2be992a8a57f2",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/5f03de1fec481be6adbc4b007dbcfb8652d7bfef15ed65ad775cbf285b125438.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 27/10/2025. Edição 3990\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-721-2025-sapl-2473.md",
+      "sha256": "7f3613c0395db5617b28be0a8831ff931e420f026b294680c23512c36d3af631",
+      "sha256_fonte": "5bb7960fad74f102f6f4c4923806c01b06c4b7b7747410c77fcfd21f1f7547fc",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/cfec3d95884ac2bc709d211bf773e541194d9db90db7e958171e909f469575d4.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 23/10/2025. Edição 3988a\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1740-2025-sapl-2487.md",
+      "sha256": "92475f90d5e9820284993010a3612c53b52d707cf00aba71d939699b86641111",
+      "sha256_fonte": "a8b3f310bba23d73bd404ad57e9b6b6d111a11afbd50c8205b57d469afff0810",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/343c956b21f3bbbf5afb9c50e2280fb3dfe23d1299dd4b2bc0c925fb0c114d81.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "Art. 3º.",
+          "posicao": [
+            537,
+            126
+          ]
+        },
+        {
+          "texto": "O mandato dos membros do CMC será de 02 (dois) anos, podendo ser prorrogado por igual período, e o exercício será sem ônus para os cofres públicos, sendo considerado serviço relevante prestado ao Município.",
+          "posicao": [
+            537,
+            138
+          ]
+        },
+        {
+          "texto": "Art. 4º.",
+          "posicao": [
+            602,
+            126
+          ]
+        },
+        {
+          "texto": "O Conselho Municipal de Cultura – CMC – de Engenheiro Paulo de Frontin terá na sua composição entidades representadas por 01 (um) conselheiro titular e 01 (um) conselheiro suplente, a saber:",
+          "posicao": [
+            602,
+            138
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            636,
+            134
+          ]
+        },
+        {
+          "texto": "– 50% de entidades representantes da Sociedade Civil (fazedores de culturas, mestres e mestras da cultura popular, artistas, representantes de entidades e/ou associações culturais do município) correspondendo a um total de 07 (sete) vagas referentes a segmentos culturais diferentes;”",
+          "posicao": [
+            636,
+            140
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 27/10/2025. Edição 3990\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1739-2025-sapl-2486.md",
+      "sha256": "01acdc0d6e66ba6668399fd4a0878978f3a228aba422c0f3ac75b34d0e76f6db",
+      "sha256_fonte": "c6bdd0dec7ad0a854838b318603ca81f5339aa4351e89994cb79125f2cca04f3",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/36450e0509ca16e0ea3d3494b1bf3b152a32dc224bafece1e1cd2f0ff052e13f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 27/10/2025. Edição 3990\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-720-2025-sapl-2472.md",
+      "sha256": "dd0f3bee5fc273aa547faf6f363b739b4df49eee0cb0e86203d7b399ceb71319",
+      "sha256_fonte": "c3e2f27090b6fb716857a55686eb15eeffe38efd37c58d56f5cb9a06366f304c",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/75af76133d88b4bac9d00ae131d15f2f3f250023d332aaaa7797ddb8a065d46e.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 23/10/2025. Edição 3988\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-719-2025-sapl-2471.md",
+      "sha256": "731063bcc78a351dc88f98bbcb6b0032631c89d3b0ac3da60657d53746b4b864",
+      "sha256_fonte": "c771af2ad21a301b9cf5297de5d355683d6f317dad370067d1e5aa1a39df3eea",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/4547d6727ebb6ad309c7e2823c0211ea0a999d235f78eeceea06d8f3a0c8e5cd.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 22/10/2025. Edição 3987\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-718-2025-sapl-2470.md",
+      "sha256": "e7ae412b2e95e26f58a07e7292cb2d47e77eee1ccc97f1f886e965515ef83dee",
+      "sha256_fonte": "9cc0b2b27eebab8fb8ccb8b6ed74319f34c52fe7332e571b0ce968ebac6a1b34",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/73adcd7b38a3ed1b9220aa1de6f6a521e1889c6a4566a8fb1c590b62ef172797.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 17/10/2025. Edição 3984\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-715-2025-sapl-2467.md",
+      "sha256": "86955a5cd8a9905582c61775bb1d14a15b5accd3705ad8266f1671aba5d7eb2d",
+      "sha256_fonte": "dd9935414181b9cb90a2c312ccd5f4972cbbf0084fa1a3cd1b99e49ae1a4779b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/7cc8825f8ce9a4789c55d93b3074e41c090cb3c7c58953822b2c8c796c70cb59.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 14/10/2025. Edição 3981a\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-714-2025-sapl-2466.md",
+      "sha256": "c1f4d5bc94dbf824f5efe986ead3d04e883cf9becb9ef3340b860641b410c4b5",
+      "sha256_fonte": "61836df1ad3c76d9c842668f8cdd180dcae3803ef1a2094c0e2ba52946f3ba85",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/d619a80499126fc7bf54221cd5e031e65eafb4c780f1682c21ad6f18e4f02808.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 14/10/2025. Edição 3981a\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-713-2025-sapl-2465.md",
+      "sha256": "8723f7c8a6446d68be54459f6bd6e9d6e8cca95e5bfe0c4f84a21ab01190ba47",
+      "sha256_fonte": "91ffabe80b6b473397428fe647ada088e1db7807eb5a55b12f6c962fc132698c",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/991002765cbcf3848db108a15b1fa98e10d1d98ead5ed1aed6432f6149ded589.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 14/10/2025. Edição 3981\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-712-2025-sapl-2464.md",
+      "sha256": "e183ad3e40a7ff6806608b9a8436ec4c87f8673a0a43c944f01f0f9b21e32e0d",
+      "sha256_fonte": "98bb53c17e046181639a9369bb1cc0d0df2060cba83379f877b7d4b5b6102558",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/54d8392d75b40841d07ef9f40b735055f5304eaea59cc794bed0795138685569.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 13/10/2025. Edição 3980\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1738-2025-sapl-2485.md",
+      "sha256": "7d7a1551acb75e7105d20905b748d01b2c1ccdd35fe4faaf789a447f5ab4583d",
+      "sha256_fonte": "ec74b54e120d3de89f5c4193af753e1886fd9a7dc9d8cc2e1bbf5104406e2a8c",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/6bb0212b95c04f7467b65861a6faf34e504f22d4f2e861390928d2069f49630f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 14/10/2025. Edição 3981a\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1737-2025-sapl-2484.md",
+      "sha256": "a76c8f0c4f567f590da58eb8d41544819b9614af9fc7e43eefe91360ba0d5c2b",
+      "sha256_fonte": "a16f6c6e94598d917cf692cc5b37179c12752ca3b7343ffa9e51785cbc90e97a",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/b8264f2c0593a395f46e7c3b4bf00ee0eaed525ae50e21c7ee3ad76bd07d3715.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 14/10/2025. Edição 3981a\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-711-2025-sapl-2463.md",
+      "sha256": "f4906999c127697ace06f9bc3896c619896b668e0d458c1a3b3aa30014eeb3fd",
+      "sha256_fonte": "81b9cf9be57b468d61f2d49f71b2f7aa16684427ded3dfd37cb8de498fb3cccf",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/16bb00591c6aa3b46dd8453fb9feeb76b0bd936c2dbf4f350fd23238b4d77e0d.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 13/10/2025. Edição 3980\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-710-2025-sapl-2462.md",
+      "sha256": "d2e689c96344603da0b5cf05dfe2f2b2ee4814b429838021e99d6d490d5dfccb",
+      "sha256_fonte": "ecc321d74bc560e7b6e8d8ed1d856aa73b1ef4084c93d755b96ebfc5e7919cf1",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/3bc4c11833686b905ba0c79dbe3947aa9e7035620009387c5e0ad53ef28df1bb.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 10/10/2025. Edição 3979\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-709-2025-sapl-2461.md",
+      "sha256": "d1e57a650a1e1a3a6322b74e90b394e1e33a97add2ef8870c2d15cb5985fca16",
+      "sha256_fonte": "fce41067e10873a35031cf578fba2b204bb96c9653de6cc253c3e13099bbbf77",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/33f50d09d16dd4d01f9634ea38623bd6d9fa1b7a7e988e4f6e571e51472c7aa2.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 10/10/2025. Edição 3979\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-708-2025-sapl-2460.md",
+      "sha256": "26aeb142f31c43a05a6c57c4d388386ff3a8d45ca9456f2f696872cede13a1da",
+      "sha256_fonte": "caf6fd634f1b38b713b9c49d12f9f564bea92b65bc64dda19589e54bb30c9c58",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/3fa474ab528b056643ec4b5cb570e7f2558fd6cb5dbe72bcdd3c54cf76b1b10c.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 10/10/2025. Edição 3979\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-707-2025-sapl-2459.md",
+      "sha256": "bd040949bdaf38efb7de49ad50e9c3e24d298a8cd1554458dfe9403b4f7b7d5a",
+      "sha256_fonte": "c0f589008aa080fc85bd3b2f40f0a91f13cb6d4144f0ec16834ec897c73fe3e8",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/4a90b30457d47b6e1ef442bb1f762d88f18ddfe0aa769c15b8596c24d9a18abf.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 10/10/2025. Edição 3979\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-706-2025-sapl-2458.md",
+      "sha256": "4678b338d4808387a7db8c82cab8ab6aa60c847654639175b5f45d6e2ef0839b",
+      "sha256_fonte": "7d691398effe2393b3c1f1517d3b35afd10b1c74a280639f05f2c8de869bd005",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/bd99cab71d8ea06b5ec34a8cf298c94c94f26db2cc2589269478e8957c146f28.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 08/10/2025. Edição 3977\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-705-2025-sapl-2453.md",
+      "sha256": "f5074e5574174dbaf97f402158df0c1517fb81671d2ebb9a51faf9c5e5b208ef",
+      "sha256_fonte": "73ffa66571720c6021be4d9e8a94b2bf7d72688b274784dd12cef178fae1c26d",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/9cf9c57109e73601faf1e18167dd0834ab4dfe827da239dd78899eb88507e9b6.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 06/10/2025. Edição 3975a\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1736-2025-sapl-2483.md",
+      "sha256": "7a9f1ad4e1a571f4b340deea86116362591d823ea6a0b00271c21e9c5f831ce8",
+      "sha256_fonte": "cf0980c444f0700e3623e308f57b2f03fdcb0197168a0b52dd5be6e123da3575",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/f67ce5dd010a9b771836b41567e7fbd302cd7856e9d28b909246d756103375fd.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 10/10/2025. Edição 3979 \r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1735-2025-sapl-2457.md",
+      "sha256": "eb436bcab56f8405d6dc275f2a92cfe245205206ca75075054a62daf0f7260dd",
+      "sha256_fonte": "000fbcd629b07f0c4cd35da68502fb2677394d598fbf8d7cf49177ba9b73238a",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/23f42fb96c0e1ac5c02f1b2e4aaeb68ba64e8e044248537f910dcf61d5c0ad48.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 02/10/2025. Edição 3973\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1734-2025-sapl-2456.md",
+      "sha256": "4c1aa77abc415b0253f1cc4f67c68906d808ed76f10fcf376e35b0af9691b3ae",
+      "sha256_fonte": "4569113610943b4db283439630812aa08acb63b9b97959209eef6577fc1c4641",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/d9863f91f003db850e3ee38c4833de7f46fc3cdd96b753df23c05d4adf57758a.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 02/10/2025. Edição 3973\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-699-2025-sapl-2447.md",
+      "sha256": "b01959b66e4ec3c3fc13d7ebe0e7fee709fc809982b02765ec0e78c67817e639",
+      "sha256_fonte": "b520b9c87d7c7f9e40e34e1d36d2364e8f2e3e2c87c798356c2d1614a08e2244",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/80068d0493973007393cff1293ddc0d9f74cca550bdd4e7e9114bf1c4de01cc0.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 01/10/2025. Edição 3972\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-697-2025-sapl-2445.md",
+      "sha256": "5cebdb07689ceb3c4d643bb8da5dac9ba2d3b1e1f942b9c8b62f351b4fc21481",
+      "sha256_fonte": "a63a373011bf0792c32c79b959dba177c602d9f429a61027768f56003953609c",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/debcdeeb944372393c4993fdd91b3ec961171dd43c29029935aacff1dedb3ae1.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 30/09/2025. Edição 3971\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-696-2025-sapl-2444.md",
+      "sha256": "b24eccae048b1ae7d58b0a585bad549c1b24621125df9bb990638e6e3fbbe166",
+      "sha256_fonte": "8d27aed5ed57a2e2fd6ec95085d726a055f593472085b5312e4a69ec7871c021",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/72500091000f28479b04a707c8a724796b38e18230ebf4a5051d4bc86e5b7bc1.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 30/09/2025. Edição 3971\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos-legislativos/2025/decretos-legislativos-3-2025-sapl-2411.md",
+      "sha256": "81ce9ca38fcd55bff98848d828152cd4e4edf319529d1410c9e2a4c14b1e49dc",
+      "sha256_fonte": "5938e69742ce71bdc9e807d1899ae96fa94c7575b6766662507ef9b8c1e967a5",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/87cc1bdcbdb2cc7c04d37416ada01fd582cabfd0b8738820f4d4a9f11a7ed817.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 26/09/2025. Edição 3969\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1732-2025-sapl-2454.md",
+      "sha256": "0d766298d38aac171e583546a9f358097dda1654957e2a350736cc2eb408e389",
+      "sha256_fonte": "fddbc6ddb62fe19c5326f5cefe4c9ff991d00d679f6b1c76a0453c4e7c676a8c",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/2be7d8f6ebc202f9df13492a7eeefe25cc67b03275f3d32dfb28ceea0bf70ad5.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 23/09/2025. Edição 3966a\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-685-2025-sapl-2433.md",
+      "sha256": "600656be3dd75a9f7254cea4fc459e8f4aac1baff39e42209a2a9c21cc13c297",
+      "sha256_fonte": "5aa1dde875c75661593ec046d53bc80c637c04efec511d32cec706d4a9f09647",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/43fe952a42d03deb09298a190b7afb64ba8fe98cb73d5a2657482270651393d2.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 22/09/2025. Edição 3965\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos-legislativos/2025/decretos-legislativos-2-2025-sapl-2410.md",
+      "sha256": "f0f7f86b61c6ae7007c6cd21a18af39d18f7ee52631bd1d54c00eef0a20052f3",
+      "sha256_fonte": "d1ccd0fd20369080f3571bfd50b8f5a25a48d86702101c3b7bb1fbf755634c06",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/c49d0242c0f029d933d38434f8334e51b6d356429928f633b6fdcbefc1cfac3f.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": true
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-678-2025-sapl-2426.md",
+      "sha256": "099c0a30a749e5554177fcad5c13c98d6635c1ab160c286eef50fdbb6077e153",
+      "sha256_fonte": "dc957655f0b3d00d6523ed72f89d3881314c88fc72cfc85cae1930cddceec33a",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/5ef47e20cb64b502cd15fefad64a282646fceb30787a14d5ea2e875994b3e068.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 08/09/2025. Edição 3955A verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1731-2025-sapl-2482.md",
+      "sha256": "e9371a737659c34bc12d380619be253da2880a719a4e5605a158b68bf32125ff",
+      "sha256_fonte": "aebafa6902a8b75e654f89ed83f2fe2d0ad768f7a3f04db0be4744733dda5274",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/61293e00b1328105ba3c7e6933b41e07a6564afc21a592c3db3219b939322fa5.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 27/10/2025. Edição 3990\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/resolucoes/2025/resolucoes-4-2025-sapl-2406.md",
+      "sha256": "a4ccf7f5430f90a189e59af64e724c11fd0817fa614c5ba39030d50649e7231c",
+      "sha256_fonte": "ad058bd0ab0219908fb3351e27c9adae601407344cb7f0eed4b4eb6a0a420a9a",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/b4bcebda63752488dd36e1bf0a949bf8a834bf397077e6950eff451fac9222da.html",
+      "texto_fora_dos_dispositivos": [
+        {
+          "texto": "IX",
+          "posicao": [
+            568,
+            134
+          ]
+        },
+        {
+          "texto": "– Proteção e Defesa dos Animais.",
+          "posicao": [
+            568,
+            140
+          ]
+        },
+        {
+          "texto": "Art. 69-A.",
+          "posicao": [
+            628,
+            126
+          ]
+        },
+        {
+          "texto": "Compete â Comissão Permanente em Proteção e Defesa dos Animais:",
+          "posicao": [
+            628,
+            140
+          ]
+        },
+        {
+          "texto": "I",
+          "posicao": [
+            642,
+            134
+          ]
+        },
+        {
+          "texto": "– Promover no âmbito legislativo estudos, pesquisas e a discussão das leis protetivas dos animais e dos sistemas de garantia de direitos com o apoio dos grupos e organizações voltadas ao bem-estar do animal;",
+          "posicao": [
+            642,
+            139
+          ]
+        },
+        {
+          "texto": "II",
+          "posicao": [
+            651,
+            134
+          ]
+        },
+        {
+          "texto": "– Receber representações que contenham denúncias de violação dos direitos dos animais no âmbito do município, apurar sua procedência e encaminha-las as autoridades para providências;",
+          "posicao": [
+            651,
+            140
+          ]
+        },
+        {
+          "texto": "III",
+          "posicao": [
+            660,
+            134
+          ]
+        },
+        {
+          "texto": "– Fiscalizar, no âmbito municipal, programas governamentais ou não governamentais relativos à proteção dos direitos dos animais;",
+          "posicao": [
+            660,
+            141
+          ]
+        },
+        {
+          "texto": "IV",
+          "posicao": [
+            669,
+            134
+          ]
+        },
+        {
+          "texto": "– Atuar no controle, normatização e fiscalização da criação, guarda, exposição e comércio de animais;",
+          "posicao": [
+            669,
+            140
+          ]
+        },
+        {
+          "texto": "V",
+          "posicao": [
+            678,
+            134
+          ]
+        },
+        {
+          "texto": "– Emitir parecer em projetos pertinentes às questões relativas aos animais;",
+          "posicao": [
+            678,
+            139
+          ]
+        },
+        {
+          "texto": "VI",
+          "posicao": [
+            687,
+            134
+          ]
+        },
+        {
+          "texto": "– Realizar campanhas socioeducativas, bem como debates e audiências de sua competência, no âmbito do Poder Legislativo;",
+          "posicao": [
+            687,
+            140
+          ]
+        },
+        {
+          "texto": "VII",
+          "posicao": [
+            696,
+            134
+          ]
+        },
+        {
+          "texto": "– Ter garantida a participação de seus membros, de entidades ou de protetores individuais da causa animal e todo evento ou propositura que tenham como interesse o bem-estar animal.",
+          "posicao": [
+            696,
+            141
+          ]
+        }
+      ],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-665-2025-sapl-2413.md",
+      "sha256": "812c0da4b7379ff2770e4397d5664b3bff22d8218e6bedf93594f76171d667c7",
+      "sha256_fonte": "55e30d9684501cae351b5e2f31264132d8f9705a5bbad36e840ae856e642ae00",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/472ce9cb08ce80e269ef0aa451a3d271bfd017cb99f2294a26a87f1485562f8e.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 21/08/2025. Edição 3943\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1729-2025-sapl-2391.md",
+      "sha256": "9b6254ff769952b0fd7e4e43a533d85a7abfc66ac3e17cf60d09d6bbd035ee2d",
+      "sha256_fonte": "f25c2f27046646a77f5d30973ea589d6d6895820fc76335e5e8180d1d176af73",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/cbfbba681ef9ca294545a4b56f06164106d4c1c0f9b4c52aceac888f85170826.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 14/08/2025. Edição 3938\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-655-2025-sapl-2385.md",
+      "sha256": "67c4688dd1fcdf278be8d452706e622597c935230c777c6ca2567578020784a4",
+      "sha256_fonte": "fe2bb4ca188812026b6c4aff3db531c2b247bb911ff6875cbfb50efa8f4c7137",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/75e66eb31fac40c987838c3ff55affb93938c5ff55042ee5d3fe408c1c5cbdd0.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 08/08/2025. Edição 3934\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-654-2025-sapl-2384.md",
+      "sha256": "65daafa27b0716c72ac35aa614011cace5eaa4bfa8f3da411fee87056923c834",
+      "sha256_fonte": "446994f757ab3313c638b053bbb5395d8905a83befc0dccbb6fec1ce2986e627",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/4eb4b2e55b57b6bea7dcdb16141cd211ac054295f083b3ac4efa8426a4ba4b01.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 05/08/2025. Edição 3931\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1728-2025-sapl-2301.md",
+      "sha256": "c7b2b09eef3796c7d80942ea640f204b92ad180cc23b59a94781b4f4d2d98063",
+      "sha256_fonte": "898c6633023729db20a56dd8d7e4e75b251a5737109cd4112203cd2633f64b4b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/8eb1b50a81d22683bfc98759428cd15033feb0d6d1ea749bf6ba7b412231ba36.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 16/07/2025. Edição 3917\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1726-2025-sapl-2241.md",
+      "sha256": "6a64062ad0a04bcdaf859c3e4b7cdd7b8a8b5c081df64eba74dacc1f28a1ccda",
+      "sha256_fonte": "89678ea979ba879c9f30e2657154aa87408c4bd9d09b81cdcefb3b40c686017e",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/980c238163b04e968d26606c86c0aa797ff679ba4f6e155c616fd5ff01521297.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 11/07/2025. Edição 3914\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1725-2025-sapl-2242.md",
+      "sha256": "46a6f663e8407ada42ab7171d02e196fd5733f5fb51df1bcb0bdda8108035533",
+      "sha256_fonte": "c3184d0bc8fbda4fca8468eae3ba337ee902f443804cd30a067fd65747aab467",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/c2a78a95d605071bc8797e104f352c820691cf91c331795930605ba827006ad6.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 11/07/2025. Edição 3914\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-643-2025-sapl-2106.md",
+      "sha256": "e4d3584745fd74896c1fb85fff7c0e3002ab7ab291055bd91d89ab2b8d6a6e86",
+      "sha256_fonte": "08151e653cd69dc911043cebf0dd53f9e66a6be6241bd1c97c26465af4660eb4",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/9fbcb23bd3617a9e9f04c3eeeb711077d192de1e804e9aee4defb4c5517ea097.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 04/07/2025. Edição 3909a\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-642-2025-sapl-2105.md",
+      "sha256": "9e3f47335f20bdebe422c4f402f6a48260e1b6fe3c4a3cc49a051cb98cfbe2dd",
+      "sha256_fonte": "87a6ac5b581e6a071fe685057b47fabf6f7c45580ed94112838a061d8dc18756",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/a47e9d97295820ea473aac33eec3c644156a7a137e9081eefef237510b188737.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 04/07/2025. Edição 3909\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-640-2025-sapl-2103.md",
+      "sha256": "b8ebfeb066bdee4b601e71ec6a1a7b600089f4ce6f71e32af6a64f511c8de494",
+      "sha256_fonte": "64b13c81176434f6b40e32a8b25101562aaa529661872672f13f04b20b3a69b9",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/b3ad46349190a538acdc2cabe674e82cb00add386e93bff2df23cc4d41aca750.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 03/07/2025. Edição 3908a\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-639-2025-sapl-2102.md",
+      "sha256": "8ab80ff52c318d715585a3cf3bc1199974c5f2f4d300cc493a05f43c907fac59",
+      "sha256_fonte": "5f9f74c4f105cd4788ea196765e32fb5536381965379f0466160a045ca2f5487",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/eca839458f12143717deda621d6fa58cbd90c31d68330848a2ed522b41e6be92.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 03/07/2025. Edição 3908a\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-638-2025-sapl-2101.md",
+      "sha256": "838980bf2ce965c8ceb14dea38023e6883284a09b78aa8ea82620bf4c99189d3",
+      "sha256_fonte": "61d78ff94a93c5d1c54cf667fc34b333fd09ef90c31f9e4bfb2d929ef3bdb73f",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/343d7b6187ccff00047cee014894d1db8f005b77fd2ab1471ecb4cad391d503e.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 03/07/2025. Edição 3908a\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-637-2025-sapl-2100.md",
+      "sha256": "663b64827b23f84bc41f6eb39be648bcd849389bb8b1cffdea39035cfc5ced1b",
+      "sha256_fonte": "478963852b623316d65717493bdb9e034536a84f3feb442bbabdc1572366bdeb",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/d987f960b6e23bb05f102f7950d5f9837406fa3c1c6fa1bd1cf6e5d34d42a637.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 01/07/2025. Edição 3906\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1724-2025-sapl-2099.md",
+      "sha256": "98920cf778003aa8ad03fdbb985d995994135654692d31e4a4db4eef473cff41",
+      "sha256_fonte": "21e6ef24e3dc29aa8599002221ae5036537d784bac070a4785c0beda3ff58d22",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/ff768a965e83bd94c0926efcc78cd8f49afa2f333f9c16f360a217a019c4c7eb.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 01/07/2025. Edição 3906\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-635-2025-sapl-2097.md",
+      "sha256": "df07f54337a2e54604340edd0f7b854d957478a6629887808d435e61753a094d",
+      "sha256_fonte": "b69eea1f48178817471d6c7253f141623328a7229ecc8b57d38cda5c2285ae0b",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/80a829651352f463f81b4bea234c619be27908d1e324bd7fe735b831c1e38441.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 27/06/2025. Edição 3904\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/resolucoes/2025/resolucoes-3-2025-sapl-2085.md",
+      "sha256": "6b64922fffbd3d4328c5cd77ac102a51e3d8e92f4fb59c2365608e36fc398765",
+      "sha256_fonte": "5b44da1a868e98dcceea927be90434d5928156dd3d78ed6c4ff39cd591edb328",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/58834a8e8f0cadb13eb8f77e4a3493b6ca2dadea09bf5c4e42d7c00616052b0c.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 26/06/2025. Edição 3903\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1723-2025-sapl-2084.md",
+      "sha256": "b22ebc054b5b7ec1d71a28688419ca71668a036e2f5bcd769904f60a7840f0a3",
+      "sha256_fonte": "93dc43d5fef7fbdb7e5388bae7d5660111c46892b8dca74d5539482682fbaee7",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/3341159ec6808c4f22d6a01b8771a13d1231b8cb8767dcd2a2f7e0252ceab474.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 26/06/2025. Edição 3903\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1722-2025-sapl-2083.md",
+      "sha256": "24913205f986ee17ab283f4b942836a1cb739a9f9667cd5217ac12059bf05d89",
+      "sha256_fonte": "e469235e1297861f39300c4140b2d117262e555aaca52bc2aed7d5bdaadfb69a",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/59df15d8390afaafff733a73af519669bc3ac4b1e7b84e138f1386a32e05f904.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 26/06/2025. Edição 3903\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1721-2025-sapl-2082.md",
+      "sha256": "876da884b3196cb70e148cde37d4355615bdd486d2525cc33857ce41b30f6b7d",
+      "sha256_fonte": "f64e43f2bf318cca76adf90ac3d569b3ee4e7ab11c0d59a5bfa3f52239109a09",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/75b5c1185558bfa29a26fce584fc24f97410407e1aa6227901e0fe6716c1d9e0.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 26/06/2025. Edição 3903\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1720-2025-sapl-2081.md",
+      "sha256": "19de9f1d1c3a537c2a92f56515b8ee018b03855d6b8c1917c1fe7a9ae485a1d0",
+      "sha256_fonte": "55b5201d3c29bdcf9b583eab26383c3498fb706bd0222573317df08590db9520",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/3a6b5c599f0e28661421631705d6f52bd35543e422a8f00ed6715256b6cdeef6.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 26/06/2025. Edição 3903\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2025/leis-ordinarias-1719-2025-sapl-2080.md",
+      "sha256": "6ebd30afa9c6ae78a582c3581ea722c1c3a83fd97906dd700ab72ce95b86c01d",
+      "sha256_fonte": "9383da9b1f473da4d8bf4a5fd098e31ed5e317fe671664ebbec04900c7cd802f",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/162dfb4ba85728d0536ccfd1f20f4f526f316b5979bba68197626af44f12fcec.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 26/06/2025. Edição 3903\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    },
+    {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2025/decretos-632-2025-sapl-2094.md",
+      "sha256": "9a1bbcf48a17c7a226e370378c335e58495f9994cfb0374de39b6ba5982fffb8",
+      "sha256_fonte": "07e4d8144b0a248b22462e2a594dd7fb44529f0bcc3b27ade8758277896994b6",
+      "fonte": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/eb4db8cee6d215c7632c0524511d70ca7bb8243c49bab55e66529c6d47c94da5.html",
+      "texto_fora_dos_dispositivos": [],
+      "midia_fora_dos_dispositivos": [],
+      "observacao_api": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 25/06/2025. Edição 3902\r\nA verificação de autenticidade da matéria pode ser feita informando o código identificador no site:\r\nhttps://www.diariomunicipal.com.br/aemerj/",
+      "areas_normativas": 1,
+      "dispositivos_fora_da_area": 0,
+      "ativos_em_ancestral_historico": 0,
+      "aprovado_neste_gate": false
+    }
+  ],
+  "limite": "Texto fora do bloco pode ser histórico, alterado ou duplicado; retenção é preventiva, sem afirmar omissão antes de revisão. Os controles de seleção de vigência e de tokens por dispositivo continuam necessários."
+}

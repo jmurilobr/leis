@@ -1,0 +1,157 @@
+---
+titulo: "Lei Ordinária Municipal nº 1.706, de 30 de maio de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "1706"
+data: "2018-05-30"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/306"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/320/text"
+sha256_fonte: "4f918dbed0d545a5fac8d3e89f2b066819f7d5b439fd89e25a00b54e9d863c67"
+sha256_texto: "d0a33f27b65e74042cbb8aa105c6b783896937b3aece15a561d7671d098b22af"
+capturado_em_fonte: "2026-10-27T22:32:14.243687-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 1.706, de 30 de maio de 2018
+
+Institui e regulamente o Programa de Tratamento Fora do Município – TFD, no Município de Califórnia e dá outras providências.
+
+
+Art. 1º.
+
+Fica implantado no Município de Califórnia o Programa Tratamento Fora do Domicílio – TFD, garantindo aos usuários do Sistema Único de Saúde, quando esgotados todos os meios de tratamento neste Município, custeando despesas decorrentes do deslocamento a outro Município de Referência, no Paraná ou em outros Estados da Federação, para tratamento adequado.
+
+
+Art. 2º.
+
+O TFD tem por objetivo custear as despesas decorrentes de transporte, diárias para alimentação e pernoite para o paciente e seu acompanhante, desde que devidamente justificada a necessidade de acompanhante, devendo ser autorizadas de acordo com a disponibilidade orçamentária do município, conforme Portaria SAS/Nº 055, de 24 de fevereiro de 1999.
+
+
+§ 1º
+
+A garantia do presente programa só será concedida quando esgotados todos os recursos dos serviços de saúde dentro do Município de Califórnia e as condições do usuário requererem sua remoção para localidades dotadas de centros mais avançados dentro do Estado do Paraná ou outros estados onde o serviço seja indicado.
+
+
+§ 2º
+
+Será permitido o pagamento de despesas para deslocamento de acompanhante nos casos em que houver indicação médica, esclarecendo o porquê da impossibilidade do paciente se deslocar desacompanhado, nos termos do art. 4º da presente lei.
+
+
+§ 3º
+
+Quando o paciente/acompanhante retornar ao município de origem no mesmo dia, serão autorizadas, apenas, passagem e ajuda de custo para alimentação.
+
+
+Art. 3º.
+
+O processo para solicitação de Tratamento Fora do Domicílio – TFD, será iniciado mediante laudo médico e requisição, encaminhados à Secretaria Municipal de Saúde, via protocolo nesta secretaria direcionada ao Secretário/Diretor de Saúde, com até 10 (dez) dias de antecedência da data prevista para o atendimento, detalhando o problema de saúde do paciente e a indicação do serviço, se de alta ou média complexidade. O TFD será concedido, exclusivamente, a pacientes atendidos na rede pública ou conveniada/contratada do SUS, para encaminhamento ao Município de Referência.
+
+
+§ 1º
+
+O laudo e a requisição de que tratam o caput deste artigo serão emitidos por profissional médico integrante do SUS, onde o paciente foi inicialmente encaminhado, devendo ser preenchidos em 02 vias, em letra de forma legível, atestando a necessidade do paciente em realizar o tratamento indicado.
+
+
+§ 2º
+
+O laudo e a requisição serão analisados por Comissão nomeada para esse fim que, se necessário, poderá solicitar exames e/ou documentos que complementem a análise dos casos.
+
+
+I –
+
+A comissão será constituída por: 01 (um) representante da Secretaria Municipal de Saúde de Califórnia, 01 (um) representante do Conselho Municipal de Saúde de Califórnia, 01 (um) representante da Secretaria Municipal de Assistência Social de Califórnia, 01 (um) representante do Poder Executivo do Município de Califórnia, 01 (um) representante do Departamento Jurídico do Jurídico do Município de Califórnia.
+
+
+Art. 4º.
+
+Para efeito da garantia de transporte e pousada para o acompanhante do paciente, o médico deverá justificar a necessidade de acompanhamento em formulário próprio de TFD.
+
+
+§ 1º
+
+Será autorizado apenas 1 (um) acompanhante maior de 18 (dezoito) anos, capacitado física e mentalmente, parente ou responsável legal pelo paciente.
+
+
+§ 2º
+
+Para menores de 18 anos será permitido 01 (um) acompanhante (pai, mãe ou responsável legal), exceto em casos de lactentes menores de 01 (um) ano em que a mãe seja deficiente física ou mental, com incapacidade de expressão ou compreensão, situação em que será considerada a liberação de um segundo acompanhante, pai ou pessoa a ser indicada.
+
+
+§ 3º
+
+Nos casos omissos serão avaliados pela Comissão responsável pelo TFD.
+
+
+Art. 5º.
+
+O Tratamento Fora do Domicílio somente será autorizado quando houver garantia de atendimento no Município de referência, com horários e datas pré-definidos.
+
+
+Art. 6º.
+
+O TFD não poderá ser autorizado para:
+
+
+§ 1º
+
+Pacientes de tratamento que utilizam procedimentos assistenciais contidos no Piso de Atenção Básica – PAB;
+
+
+§ 2º
+
+Deslocamentos de até 100 km (cem quilômetros) de distância do Município de Califórnia;
+
+
+§ 3º
+
+Assistência em casos de acidente do trabalho, pois acidente de tal natureza são disciplinados em legislação específica previdenciária;
+
+
+§ 4º
+
+Para fins de dispensação de medicamentos e visitas a paciente hospitalizado.
+
+
+Art. 7º.
+
+É vedado o pagamento de diárias aos pacientes que permaneçam hospitalizados no município de referência.
+
+
+Art. 8º.
+
+Concluído o tratamento, o paciente e acompanhante retornarão ao Município de origem, de imediato, protocolando o relatório de alta, declaração de comparecimento e demais documentos solicitados pela Secretaria Municipal de Saúde de origem, junto a Secretaria de Saúde deste Município para que os mesmos fiquem anexados no prontuário do paciente.
+
+
+Art. 9º.
+
+O pagamento das diárias será efetuado através de depósito em conta corrente ou poupança em nome do paciente ou do seu representante legal.
+
+
+Art. 10.
+
+As despesas com a execução desta Lei correrão por conta de dotação especifica criada para tal fim podendo ser suplementadas se necessário.
+
+
+Art. 11.
+
+Os procedimentos, unidades de remuneração e ajuda de custo serão regulamentados mediante Decreto Municipal nos termos da Portaria 55/1999 do Ministério da Saúde.
+
+
+Art. 12.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Edifício da Prefeitura Municipal de Califórnia, 29 de maio de 2018.
+
+***PAULO WILSON MENDES***
+
+Prefeito
+

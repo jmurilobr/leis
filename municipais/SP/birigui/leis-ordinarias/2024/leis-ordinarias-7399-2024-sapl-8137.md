@@ -1,0 +1,136 @@
+---
+titulo: "Lei Ordinária nº 7.399, de 24 de abril de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "7399"
+data: "2024-04-24"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/8137"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/1478/text"
+sha256_fonte: "dfe707d87d6e069296347a7ca4edf8fe7be41bd6d8a9feaeb70ec14594af93d0"
+sha256_texto: "a487b816ebff4d3b12973b22b0ab1494e8fc6f6a2f5bc01580738c1cc96d7e7a"
+capturado_em_fonte: "2026-10-27T17:54:03.833431-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 7.399, de 24 de abril de 2024
+
+AUTORIZA COMPENSAÇÃO PARCIAL AMIGÁVEL DE DÉBITOS E PROVIDÊNCIAS CORRELATAS.  
+Projeto de Lei nº 162/2023, de autoria do Prefeito Municipal
+
+
+Eu, **LEANDRO MAFFEIS MILANI**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,  
+FAÇO SABER que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a proceder compensação amigável de parte dos débitos inscritos no cadastro imobiliário, inscrição nº 03-06-043-0003, lançados em nome do Espólio de Oswaldo Zucolotto, de imóvel localizado na Avenida Euclides Miragaia, nº 2657, desta cidade, com o valor de R$ 3.500.000,00 (três milhões de quinhentos mil reais), necessário à compensação dos débitos com os créditos oriundos da desapropriação realizada de áreas de terra, abaixo descritas:
+
+
+I –
+
+Área de terras, com 1.020,78 m² (mil e vinte metros quadrados e setenta e oito decímetros), denominado área “A”, parte da matrícula nº 77.005, cadastrada nesta municipalidade em uma área maior sob nº 03-06-043-0003, registrada no Cartório de Registro de Imóveis e Anexos da Comarca de Birigui, pertencente a JOÃO ZUCCOLOTTO; OSWALDO ZUCOLOTTO; LUIZ AMÉLIO BIELA ZUCCOLOTTO e SUA ESPOSA SUELI DE AQUINO LEMOS ZUCCOLOTTO.
+
+
+II –
+
+Área de terras, com 1.022,34 m² (mil e vinte e dois metros quadrados e trinta e quatro decímetros), denominado área “B”, parte da matrícula nº 77.005, cadastrada nesta municipalidade em uma área maior sob nº 03-06-043-0003, registrada no Cartório de Registro de Imóveis e Anexos da Comarca de Birigui, pertencente a JOÃO ZUCCOLOTTO; OSWALDO ZUCOLOTTO; LUIZ AMÉLIO BIELA ZUCCOLOTTO e SUA ESPOSA SUELI DE AQUINO LEMOS ZUCCOLOTTO.
+
+
+III –
+
+Área de terras, com 1.026,17 m² (mil e vinte e seis metros quadrados e dezessete decímetros), denominado área “C”, parte da matrícula nº 77.005, cadastrada nesta municipalidade em uma área maior sob nº 03-06-043-0003, registrada no Cartório de Registro de Imóveis e Anexos da Comarca de Birigui, pertencente a JOÃO ZUCCOLOTTO; OSWALDO ZUCOLOTTO; LUIZ AMÉLIO BIELA ZUCCOLOTTO e SUA ESPOSA SUELI DE AQUINO LEMOS ZUCCOLOTTO.
+
+
+IV –
+
+Área de terras, com 1.034,92 m² (mil e trinta e quatro metros quadrados e noventa e dois decímetros), denominado área “D”, parte da matrícula nº 77.005 cadastrada nesta municipalidade em uma área maior sob nº 03-06-043-0003, registrada no Cartório de Registro de Imóveis e Anexos da Comarca de Birigui, pertencente a JOÃO ZUCCOLOTTO; OSWALDO ZUCOLOTTO; LUIZ AMÉLIO BIELA ZUCCOLOTTO e SUA ESPOSA SUELI DE AQUINO LEMOS ZUCCOLOTTO.
+
+
+V –
+
+Área de terras, com 1.039,80 m² (mil e trinta e nove metros quadrados e oitenta decímetros), denominado área “E”, da matrícula nº 77.005, cadastrada nesta municipalidade em uma área maior sob nº 03-06-043-0003, registrada no Cartório de Registro de Imóveis e Anexos da Comarca de Birigui, pertencente a JOÃO ZUCCOLOTTO, OSWALDO ZUCOLOTTO; LUIZ AMÉLIO BIELA ZUCCOLOTTO e SUA ESPOSA SUELI DE AQUINO LEMOS ZUCCOLOTTO.
+
+
+VI –
+
+Área de terras, com 1.043.74 m² (mil e quarenta e três metros quadrados e setenta e quatro decímetros), denominado área “F” da matrícula nº 77.005, cadastrada nesta municipalidade em uma área maior sob nº 03-06-043-0001 registrada no Cartório de Registro de Imóveis e Anexos da Comarca de Birigui, pertencente a JOÃO ZUCCOLOTTO: OSWALDO ZUCOLOTTO: LUIZ AMÉLIO BIELA ZUCCOLOTTO e SUA ESPOSA SUELI DE AQUINO LEMOS ZUCCOLOTTO;
+
+
+VII –
+
+Área de terras, com 899,36 m² (oitocentos e oitenta e nove metros quadrados e trinta e seis decímetros), denominada parte “A” ou área “A” parte da matricula nº 88.241, cadastrada nesta municipalidade em uma área maior sob nº 03-06-043-0003, registrada no Cartório de Registro de Imóveis e Anexos a Comarca de Birigui, pertencente a MARLENE MARIA BIELA ZUCCOLOTTO;
+
+
+VIII –
+
+Área de terras, com 892,42 m² (oitocentos e noventa e dois metros quadrados e quarenta e dois decímetros), denominado área “B” parte da matrícula nº 88.241, cadastrada nesta municipalidade em uma área maior sob nº 03-06-043-0003, registrada no Cartório de Registro de Imóveis e Anexos da Comarca de Birigui, pertencente a MARLENE MARIA BIELA ZUCCOLOTTO;
+
+
+IX –
+
+Área de terras, com 886,73 m² (oitocentos e oitenta e seis metros quadrados e setenta e três decímetros), denominado área “C”, parte da matricula nº 88.241, cadastrada nesta municipalidade em urna área maior sob nº 03-06-043-0003, registrada no Cartório de Registro de Imóveis e Anexos da Comarca de Birigui, pertencente a MARLENE MARIA BIELA ZUCCOLOTTO;
+
+
+X –
+
+Área de terras, com 863,91 m² (oitocentos e sessenta e três metros quadrados e noventa e um decímetros), denominado área “D” parte da matricula nº 88.241, cadastrada nesta municipalidade em urna área maior sob nº 03-06-043-0003, registrada no Cartório de Registro de Imóveis e Anexos da Comarca de Birigui, pertencente a MARLENE MARIA BIELA ZUCCOLOTTO;
+
+
+XI –
+
+Área de terras, com 845.19 m² (oitocentos e quarenta e cinco metros quadrados e dezenove decímetros), denominado área “E”, parte da matrícula nº 88.241, cadastrada nesta municipalidade em uma área maior sob nº 03-06-043-0003, registrada no Cartório de Registro de Imóveis e Anexos da Comarca de Birigui, pertencente a MARLENE MARIA BIELA ZUCCOLOTTO;
+
+
+XII –
+
+Área de terras, com 876,58 m² (oitocentos e setenta e seis metros quadrados e cinquenta e oito decímetros), denominado área “F”, parte da matrícula nº 88.241, cadastrada nesta municipalidade em uma área maior sob nº 03-06-043-0003, registrada no Cartório de Registro de Imóveis e Anexos da Comarca de Birigui, pertencente a MARLENE MARIA BIELA ZUCCOLOTTO.
+
+
+§ 1º
+
+A composição prevista no caput refere-se à desapropriação realizada de áreas de terra, parte das matrículas nº 77.005 e nº 88.241, ambas registradas no Cartório de Registro Imóveis e Anexos da Comarca de Birigui e declaradas de Utilidade Pública pelo Decreto nº 6.998, de 26 de outubro de 2021, para o prolongamento de Ruas, objetivando interligar os bairros Jardim Guaporé, Jardim Europa e Adjacentes ao Bairro Jardim Primavera e adjacentes, desta cidade.
+
+
+§ 2º
+
+Fica, ainda, o Poder Executivo Municipal autorizado a realizar o procedimento de desmembramento das áreas descritas nos incisos I a V do artigo 1º desta Lei.
+
+
+§ 3º
+
+Após as devidas compensações previstas no *caput*, as baixas serão devidamente comunicadas nos respectivos executivos fiscais.
+
+
+Art. 2º.
+
+O pagamento das despesas com a lavratura das respectivas escrituras e competentes registros serão de responsabilidade da Prefeitura Municipal.
+
+
+Art. 3º.
+
+As despesas decorrentes da execução da presente Lei onerarão dotação própria consignada no orçamento vigente, suplementadas se necessário.
+
+
+Art. 4º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Birigui, aos vinte e quatro de abril de dois mil e vinte e quatro.
+
+**LEANDRO MAFFEIS MILANI Prefeito Municipal**
+
+**ALEXANDRE JOSÉ SABINO LASILA Secretário Municipal de Obras**
+
+Publicada na Secretaria Municipal de Governo da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**ANDERSON MATHEUS MENDES SANTOS Diretor de Relações Governamentais**
+

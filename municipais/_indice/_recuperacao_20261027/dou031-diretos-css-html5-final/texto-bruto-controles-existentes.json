@@ -1,0 +1,2280 @@
+[
+  {
+    "path": "reguladores/confaz/atos-normativos/2019/ato-cotepe-mva-n-24-de-24-de-dezembro-de-2019-235340518.md",
+    "sha256_md": "e26b9d9651cc8a92005b61757be1d049ac8179464c2cb2f13b3e4a562ba88bce",
+    "sha256_fonte": "7ae6b6c76c9fdf1c5cade693c70b172808ff4cfa2e31110655a511564950c83a",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "e26b9d9651cc8a92005b61757be1d049ac8179464c2cb2f13b3e4a562ba88bce",
+      "sha256_fonte": "7ae6b6c76c9fdf1c5cade693c70b172808ff4cfa2e31110655a511564950c83a",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — OPERAÇÕES REALIZADAS PELAS DISTRIBUIDORAS E DEMAIS REMETENTES DE OUTRAS UNIDADES DA FEDERAÇÃO",
+          "fonte": "ANEXO I OPERAÇÕES REALIZADAS PELAS DISTRIBUIDORAS E DEMAIS REMETENTES DE OUTRAS UNIDADES DA FEDERAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — OPERAÇÕES REALIZADAS POR PRODUTOR NACIONAL DE COMBUSTÍVEIS",
+          "fonte": "ANEXO II OPERAÇÕES REALIZADAS POR PRODUTOR NACIONAL DE COMBUSTÍVEIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO III — OPERAÇÕES REALIZADAS POR IMPORTADORES DE COMBUSTÍVEIS",
+          "fonte": "ANEXO III OPERAÇÕES REALIZADAS POR IMPORTADORES DE COMBUSTÍVEIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO IV — OPERAÇÕES REALIZADAS PELAS DISTRIBUIDORAS E DEMAIS REMETENTES DE OUTRAS UNIDADES DA FEDERAÇÃO",
+          "fonte": "ANEXO IV OPERAÇÕES REALIZADAS PELAS DISTRIBUIDORAS E DEMAIS REMETENTES DE OUTRAS UNIDADES DA FEDERAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO V — OPERAÇÕES REALIZADAS POR PRODUTOR NACIONAL DE COMBUSTÍVEIS",
+          "fonte": "ANEXO V OPERAÇÕES REALIZADAS POR PRODUTOR NACIONAL DE COMBUSTÍVEIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO VI — OPERAÇÕES REALIZADAS PELAS DISTRIBUIDORAS E DEMAIS REMETENTES DE OUTRAS UNIDADES DA FEDERAÇÃO",
+          "fonte": "ANEXO VI OPERAÇÕES REALIZADAS PELAS DISTRIBUIDORAS E DEMAIS REMETENTES DE OUTRAS UNIDADES DA FEDERAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO VII — OPERAÇÕES REALIZADAS POR PRODUTOR NACIONAL DE COMBUSTÍVEIS",
+          "fonte": "ANEXO VII OPERAÇÕES REALIZADAS POR PRODUTOR NACIONAL DE COMBUSTÍVEIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO VIII — OPERAÇÕES REALIZADAS PELAS DISTRIBUIDORAS E DEMAIS REMETENTES DE OUTRAS UNIDADES DA FEDERAÇÃO",
+          "fonte": "ANEXO VIII OPERAÇÕES REALIZADAS PELAS DISTRIBUIDORAS E DEMAIS REMETENTES DE OUTRAS UNIDADES DA FEDERAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO IX — OPERAÇÕES REALIZADAS POR PRODUTOR NACIONAL DE COMBUSTÍVEIS",
+          "fonte": "ANEXO IX OPERAÇÕES REALIZADAS POR PRODUTOR NACIONAL DE COMBUSTÍVEIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO X — OPERAÇÕES REALIZADAS POR IMPORTADOR DE COMBUSTÍVEIS",
+          "fonte": "ANEXO X OPERAÇÕES REALIZADAS POR IMPORTADOR DE COMBUSTÍVEIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO XI — OPERAÇÕES REALIZADAS POR IMPORTADOR DE COMBUSTÍVEIS",
+          "fonte": "ANEXO XI OPERAÇÕES REALIZADAS POR IMPORTADOR DE COMBUSTÍVEIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO XII — OPERAÇÕES REALIZADAS POR IMPORTADOR DE COMBUSTÍVEIS9",
+          "fonte": "ANEXO XII OPERAÇÕES REALIZADAS POR IMPORTADOR DE COMBUSTÍVEIS9",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO XIII — OPERAÇÕES REALIZADAS PELAS DISTRIBUIDORAS E DEMAIS REMETENTES DE OUTRAS",
+          "fonte": "ANEXO XIII OPERAÇÕES REALIZADAS PELAS DISTRIBUIDORAS E DEMAIS REMETENTES DE OUTRAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO XIV — OPERAÇÕES REALIZADAS POR DISTRIBUIDORAS DE COMBUSTÍVEIS, PRODUTOR NACIONAL DE LUBRIFICANTES, IMPORTADOR DE LUBRIFICANTES E DEMAIS REMETENTES DE OUTRAS UNIDADES DA FEDERAÇÃO",
+          "fonte": "ANEXO XIV OPERAÇÕES REALIZADAS POR DISTRIBUIDORAS DE COMBUSTÍVEIS, PRODUTOR NACIONAL DE LUBRIFICANTES, IMPORTADOR DE LUBRIFICANTES E DEMAIS REMETENTES DE OUTRAS UNIDADES DA FEDERAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/bcb/resolucoes/2019/resolucao-n-4.771-de-19-de-dezembro-de-2019-234967553.md",
+    "sha256_md": "cc990a9e3790e4bab97c1b80f13d838a9c484494e4bffa89e99bbc3ff2c685c5",
+    "sha256_fonte": "e790114748193567067596d7bbcf29ebfe4a35a6f1bfe036e681fb2a402c1ce8",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "cc990a9e3790e4bab97c1b80f13d838a9c484494e4bffa89e99bbc3ff2c685c5",
+      "sha256_fonte": "e790114748193567067596d7bbcf29ebfe4a35a6f1bfe036e681fb2a402c1ce8",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DO OBJETO E DO ÂMBITO DE APLICAÇÃO",
+          "fonte": "CAPÍTULO I DO OBJETO E DO ÂMBITO DE APLICAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DA AUTORIZAÇÃO DE DÉBITOS",
+          "fonte": "CAPÍTULO II DA AUTORIZAÇÃO DE DÉBITOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DA AUTORIZAÇÃO DE DÉBITOS POR MEIO DA INSTITUIÇÃO DESTINATÁRIA",
+          "fonte": "CAPÍTULO III DA AUTORIZAÇÃO DE DÉBITOS POR MEIO DA INSTITUIÇÃO DESTINATÁRIA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DO CANCELAMENTO DA AUTORIZAÇÃO DE DÉBITOS",
+          "fonte": "CAPÍTULO IV DO CANCELAMENTO DA AUTORIZAÇÃO DE DÉBITOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO V DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO VI DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/anp/portarias/2019/portaria-n-553-de-16-de-dezembro-de-2019-233740824.md",
+    "sha256_md": "d836b78004a64e4832abc16cc069d254629a77f795831e48cb738d5feacd9881",
+    "sha256_fonte": "8e0ea3752313677c0729245526a71811a72f687b50a1173f1ca8c32ecced1363",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "d836b78004a64e4832abc16cc069d254629a77f795831e48cb738d5feacd9881",
+      "sha256_fonte": "8e0ea3752313677c0729245526a71811a72f687b50a1173f1ca8c32ecced1363",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — QUADRO QUANTITATIVO DE CARGOS COMISSIONADOS",
+          "fonte": "ANEXO I QUADRO QUANTITATIVO DE CARGOS COMISSIONADOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/anp/resolucoes/2019/resolucao-n-805-de-20-de-dezembro-de-2019-234968934.md",
+    "sha256_md": "4f4311b974a9f3bf0f82bf8f9d3f71cad2bdf06b802e5c5bf3fe5f994728992e",
+    "sha256_fonte": "4620eee77522b31668767de33ca6c5cee898a6cc91614001d70a454fc6a4b9a8",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "4f4311b974a9f3bf0f82bf8f9d3f71cad2bdf06b802e5c5bf3fe5f994728992e",
+      "sha256_fonte": "4620eee77522b31668767de33ca6c5cee898a6cc91614001d70a454fc6a4b9a8",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DISPOSIÇÕES PRELIMINARES",
+          "fonte": "CAPÍTULO I DISPOSIÇÕES PRELIMINARES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — COMUNICAÇÃO DOS ATOS E PRAZOS PARA ATENDIMENTO",
+          "fonte": "CAPÍTULO II COMUNICAÇÃO DOS ATOS E PRAZOS PARA ATENDIMENTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — INSTRUÇÃO DO PROCESSO",
+          "fonte": "CAPÍTULO III INSTRUÇÃO DO PROCESSO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DECISÃO DE PRIMEIRA INSTÂNCIA",
+          "fonte": "CAPÍTULO IV DECISÃO DE PRIMEIRA INSTÂNCIA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — ANÁLISE DE RECURSO",
+          "fonte": "CAPÍTULO V ANÁLISE DE RECURSO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DECISÃO DE SEGUNDA INSTÂNCIA",
+          "fonte": "CAPÍTULO VI DECISÃO DE SEGUNDA INSTÂNCIA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VII — REGISTRO E PUBLICAÇÃO DAS INFORMAÇÕES",
+          "fonte": "CAPÍTULO VII REGISTRO E PUBLICAÇÃO DAS INFORMAÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VIII — ORIENTAÇÕES DE JULGAMENTO E SÚMULAS",
+          "fonte": "CAPÍTULO VIII ORIENTAÇÕES DE JULGAMENTO E SÚMULAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IX — DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+          "fonte": "CAPÍTULO IX DISPOSIÇÕES TRANSITÓRIAS E FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/agu/portarias/2019/portaria-n-610-de-27-de-dezembro-de-2019-236167023.md",
+    "sha256_md": "93037b39b27b8f6b8d1e5d4d9a3316742b38fd8ac858fc8f627c6a8706fbfe60",
+    "sha256_fonte": "b979993f2155367aa6b8fbe64901ec064b65256a16d4f5a168bd63c95e44bdf7",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "93037b39b27b8f6b8d1e5d4d9a3316742b38fd8ac858fc8f627c6a8706fbfe60",
+      "sha256_fonte": "b979993f2155367aa6b8fbe64901ec064b65256a16d4f5a168bd63c95e44bdf7",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DIÁRIAS E PASSAGENS",
+          "fonte": "CAPÍTULO I DIÁRIAS E PASSAGENS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — ATOS RELATIVOS A PESSOAL",
+          "fonte": "CAPÍTULO II ATOS RELATIVOS A PESSOAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — ATOS RELATIVOS À CONTRATAÇÃO",
+          "fonte": "CAPÍTULO III ATOS RELATIVOS À CONTRATAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO IV DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/cgu/portarias/2019/portaria-n-4.104-de-23-de-dezembro-de-2019-235332702.md",
+    "sha256_md": "909b5af34b16e89033af077e944b64f5d48fec0227a243f529e7d95a27347715",
+    "sha256_fonte": "7986932b4dbca485efcef73fa83a4c2f5351cbf8d16c219e12baa17b0419e878",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "909b5af34b16e89033af077e944b64f5d48fec0227a243f529e7d95a27347715",
+      "sha256_fonte": "7986932b4dbca485efcef73fa83a4c2f5351cbf8d16c219e12baa17b0419e878",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — Classes de benefícios",
+          "fonte": "ANEXO I Classes de benefícios",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/capes/portarias/2019/portaria-n-264-de-20-de-dezembro-de-2019-235214523.md",
+    "sha256_md": "670b762408bb3870b399f2f7525ba7408ff70f3da61cfad0fe4b15e751cc5957",
+    "sha256_fonte": "fdfb7a0c4f7a383d8f1d745f03ee4dace18051d1fdd50d043b937c45d1db7ae2",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "670b762408bb3870b399f2f7525ba7408ff70f3da61cfad0fe4b15e751cc5957",
+      "sha256_fonte": "fdfb7a0c4f7a383d8f1d745f03ee4dace18051d1fdd50d043b937c45d1db7ae2",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — PRINCÍPIOS DA COBRANÇA ADMINISTRATIVA",
+          "fonte": "CAPÍTULO I PRINCÍPIOS DA COBRANÇA ADMINISTRATIVA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DISPOSIÇÕES COMUNS",
+          "fonte": "CAPÍTULO II DISPOSIÇÕES COMUNS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — INSTAURAÇÃO DO PROCESSO DE COBRANÇA",
+          "fonte": "CAPÍTULO IV INSTAURAÇÃO DO PROCESSO DE COBRANÇA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — PROCEDIMENTO PARA CARACTERIZAÇÃO OU ELISÃO DA DÍVIDA",
+          "fonte": "CAPÍTULO V PROCEDIMENTO PARA CARACTERIZAÇÃO OU ELISÃO DA DÍVIDA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — SUSPENSÃO DA COBRANÇA ADMINISTRATIVA",
+          "fonte": "CAPÍTULO VI SUSPENSÃO DA COBRANÇA ADMINISTRATIVA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VII — ATUALIZAÇÃO MONETÁRIA E JUROS",
+          "fonte": "CAPÍTULO VII ATUALIZAÇÃO MONETÁRIA E JUROS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IX — DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO IX DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/ancine/portarias/2019/portaria-ancine-n-632-e-de-19-de-dezembro-de-2019-234649682.md",
+    "sha256_md": "b7dd03bfc0bd207f797a487177d509a27c115321f29bb1e2e9df703bbac36c2e",
+    "sha256_fonte": "494ffbd44e8b5dbab75a8014294b237d1a277621105391c5fda497135d0f16e5",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "b7dd03bfc0bd207f797a487177d509a27c115321f29bb1e2e9df703bbac36c2e",
+      "sha256_fonte": "494ffbd44e8b5dbab75a8014294b237d1a277621105391c5fda497135d0f16e5",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DAS DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO I DAS DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DA REPOSIÇÃO AO ERÁRIO",
+          "fonte": "CAPÍTULO II DA REPOSIÇÃO AO ERÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Da instauração do processo administrativo",
+          "fonte": "Seção I Da instauração do processo administrativo",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Da instrução do processo administrativo",
+          "fonte": "Seção II Da instrução do processo administrativo",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Da notificação para o Processo Administrativo",
+          "fonte": "Seção III Da notificação para o Processo Administrativo",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção IV — Dos Prazos",
+          "fonte": "Seção IV Dos Prazos",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DAS DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO III DAS DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/rfb/portarias/2019/portaria-n-2.135-de-12-de-dezembro-de-2019-234648935.md",
+    "sha256_md": "37e0a1305fe32421772f013e9871dfa01826281eedd08fd5f36aecf9c6fb63b4",
+    "sha256_fonte": "82070e0c6cf089a29776c8b74a326d8a983e28335bdd82819ca405229935dff7",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "37e0a1305fe32421772f013e9871dfa01826281eedd08fd5f36aecf9c6fb63b4",
+      "sha256_fonte": "82070e0c6cf089a29776c8b74a326d8a983e28335bdd82819ca405229935dff7",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DA INDICAÇÃO PARA O MONITORAMENTO DIFERENCIADO",
+          "fonte": "CAPÍTULO I DA INDICAÇÃO PARA O MONITORAMENTO DIFERENCIADO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DA INDICAÇÃO PARA O MONITORAMENTO ESPECIAL",
+          "fonte": "CAPÍTULO II DA INDICAÇÃO PARA O MONITORAMENTO ESPECIAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO III DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/rfb/portarias/2019/portaria-n-2.136-de-12-de-dezembro-de-2019-234648877.md",
+    "sha256_md": "2934e2a8d4928e64e9c747b259854b88fdb2276c515e9ce4f5c4320134ba85dc",
+    "sha256_fonte": "e64a7c1f3d257066ff616aec1c172a4416daac51eb71c0cb683c2d68902700f6",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "2934e2a8d4928e64e9c747b259854b88fdb2276c515e9ce4f5c4320134ba85dc",
+      "sha256_fonte": "e64a7c1f3d257066ff616aec1c172a4416daac51eb71c0cb683c2d68902700f6",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DA INDICAÇÃO PARA O MONITORAMENTO DIFERENCIADO",
+          "fonte": "CAPÍTULO I DA INDICAÇÃO PARA O MONITORAMENTO DIFERENCIADO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DA INDICAÇÃO PARA O MONITORAMENTO ESPECIAL",
+          "fonte": "CAPÍTULO II DA INDICAÇÃO PARA O MONITORAMENTO ESPECIAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO III DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/ms/portarias/2019/portaria-n-3.642-de-23-de-dezembro-de-2019-235215821.md",
+    "sha256_md": "4144515363330187fc93bd04793fa763ace4f986eab84e327d74b20521f62b0a",
+    "sha256_fonte": "a6c55f91caf7d9f13fa5bd90a23ee615d1dc6e3e40a9857e4f820859557e7e01",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "4144515363330187fc93bd04793fa763ace4f986eab84e327d74b20521f62b0a",
+      "sha256_fonte": "a6c55f91caf7d9f13fa5bd90a23ee615d1dc6e3e40a9857e4f820859557e7e01",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO I DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Das Definições",
+          "fonte": "Seção I Das Definições",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Das Diretrizes",
+          "fonte": "Seção II Das Diretrizes",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Das Competências",
+          "fonte": "Seção III Das Competências",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção IV — Do Plano de Desenvolvimento de Pessoas (PDP)",
+          "fonte": "Seção IV Do Plano de Desenvolvimento de Pessoas (PDP)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DOS CRITÉRIOS PARA A PARTICIPAÇÃO NAS AÇÕES DE DESENVOLVIMENTO",
+          "fonte": "CAPÍTULO II DOS CRITÉRIOS PARA A PARTICIPAÇÃO NAS AÇÕES DE DESENVOLVIMENTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DOS AFASTAMENTOS",
+          "fonte": "CAPÍTULO III DOS AFASTAMENTOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Dos Afastamentos para Pós-graduação Stricto Sensu",
+          "fonte": "Seção I Dos Afastamentos para Pós-graduação Stricto Sensu",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Licença para Capacitação",
+          "fonte": "Seção II Licença para Capacitação",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DAS OBRIGAÇÕES E DAS PENALIDADES",
+          "fonte": "CAPÍTULO IV DAS OBRIGAÇÕES E DAS PENALIDADES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+          "fonte": "CAPÍTULO V DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/ms/portarias/2019/portaria-n-9.731-de-5-de-dezembro-de-2019-234644653.md",
+    "sha256_md": "369683ff4536c117d3b9fc6718e29740050c49a4239dd73ecd1e95b6cc6be98a",
+    "sha256_fonte": "a446b7ad135bba245067896e7c04f9f13ef5231ba34b417a6cfb3aa18ade2592",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "369683ff4536c117d3b9fc6718e29740050c49a4239dd73ecd1e95b6cc6be98a",
+      "sha256_fonte": "a446b7ad135bba245067896e7c04f9f13ef5231ba34b417a6cfb3aa18ade2592",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DA GOVERNANÇA DO REPOSITÓRIO DO CONHECIMENTO RC FUNASA",
+          "fonte": "CAPÍTULO I DA GOVERNANÇA DO REPOSITÓRIO DO CONHECIMENTO RC FUNASA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Composição, Competências e Funcionamento do",
+          "fonte": "Seção I Composição, Competências e Funcionamento do",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Conteúdo do Repositório do Conhecimento RC Funasa",
+          "fonte": "Seção II Conteúdo do Repositório do Conhecimento RC Funasa",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Acesso e Uso do Conteúdo do Repositório do Conhecimento RC Funasa",
+          "fonte": "Seção III Acesso e Uso do Conteúdo do Repositório do Conhecimento RC Funasa",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção IV — Depósito dos Conteúdos Digitais no Repositório do Conhecimento RC Funasa",
+          "fonte": "Seção IV Depósito dos Conteúdos Digitais no Repositório do Conhecimento RC Funasa",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção V — Aspectos Técnicos da Plataforma Tecnológica do Repositório do Conhecimento RC Funasa",
+          "fonte": "Seção V Aspectos Técnicos da Plataforma Tecnológica do Repositório do Conhecimento RC Funasa",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/ms/portarias/2019/portaria-n-9.994-de-18-de-dezembro-de-2019-234643853.md",
+    "sha256_md": "eae31f6d1081129f892523f0eae53288ab9cc7c3f43c53015b5dd7a9e4ac00ef",
+    "sha256_fonte": "62e532e7ac15f859865e2f9c58d780369bf3fd58f0b09da287a92e5f5fe78325",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "eae31f6d1081129f892523f0eae53288ab9cc7c3f43c53015b5dd7a9e4ac00ef",
+      "sha256_fonte": "62e532e7ac15f859865e2f9c58d780369bf3fd58f0b09da287a92e5f5fe78325",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — PROPOSTAS SELECIONADAS",
+          "fonte": "ANEXO I PROPOSTAS SELECIONADAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/presidencia/instrucoes-normativas/2019/instrucao-normativa-n-2-de-23-de-dezembro-de-2019-235216141.md",
+    "sha256_md": "4a365fd201c71e30aaa8bd518d86b7510969be4a4d67cef44133a76d49d7ecec",
+    "sha256_fonte": "3e50315431c6b15f9fbfd2b3bc90f8238f0701018ada2efc1f96a43b48f944b3",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "4a365fd201c71e30aaa8bd518d86b7510969be4a4d67cef44133a76d49d7ecec",
+      "sha256_fonte": "3e50315431c6b15f9fbfd2b3bc90f8238f0701018ada2efc1f96a43b48f944b3",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DAS DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO I DAS DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DA ATUAÇÃO EM PATROCÍNIO",
+          "fonte": "CAPÍTULO II DA ATUAÇÃO EM PATROCÍNIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Do planejamento",
+          "fonte": "Seção I Do planejamento",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Da seleção de projetos",
+          "fonte": "Seção II Da seleção de projetos",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Dos critérios de escolha de projetos",
+          "fonte": "Seção III Dos critérios de escolha de projetos",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção IV — Do contrato de patrocínio",
+          "fonte": "Seção IV Do contrato de patrocínio",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção V — Da fiscalização do contrato de patrocínio",
+          "fonte": "Seção V Da fiscalização do contrato de patrocínio",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção VI — Da avaliação de resultados",
+          "fonte": "Seção VI Da avaliação de resultados",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DA CONFORMIDADE DAS AÇÕES DE PATROCÍNIO",
+          "fonte": "CAPÍTULO III DA CONFORMIDADE DAS AÇÕES DE PATROCÍNIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DO COMITÊ DE PATROCÍNIOS",
+          "fonte": "CAPÍTULO IV DO COMITÊ DE PATROCÍNIOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DAS DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO V DAS DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/deliberacoes/2019/deliberacao-n-2232-de-18-de-dezembro-de-2019-234962387.md",
+    "sha256_md": "89814806f78b1d2870d21dac6ae5d178b4416d405393e0cef80cb7b0b70194cd",
+    "sha256_fonte": "6eff9f6d32b44c3edad9a03cf16491bd46f54793fdb83ee35a9821b6eb2ad91c",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "89814806f78b1d2870d21dac6ae5d178b4416d405393e0cef80cb7b0b70194cd",
+      "sha256_fonte": "6eff9f6d32b44c3edad9a03cf16491bd46f54793fdb83ee35a9821b6eb2ad91c",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DAS ANUIDADES DE PESSOAS FÍSICAS",
+          "fonte": "CAPÍTULO I DAS ANUIDADES DE PESSOAS FÍSICAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO I — DOS VALORES, PRAZOS E CONDIÇÕES",
+          "fonte": "SEÇÃO I DOS VALORES, PRAZOS E CONDIÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO II — DAS ISENÇÕES",
+          "fonte": "SEÇÃO II DAS ISENÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DAS ANUIDADES DE PESSOAS JURÍDICAS",
+          "fonte": "CAPÍTULO II DAS ANUIDADES DE PESSOAS JURÍDICAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO I — DOS VALORES, PRAZOS E CONDIÇÕES",
+          "fonte": "SEÇÃO I DOS VALORES, PRAZOS E CONDIÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO II — DA ATIVIDADE BÁSICA",
+          "fonte": "SEÇÃO II DA ATIVIDADE BÁSICA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DAS DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO III DAS DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/deliberacoes/2019/deliberacao-n-536-de-9-de-dezembro-de-2019-234332289.md",
+    "sha256_md": "7da6885a889e15ffef908f99e48855a4f7e7bc36e6e94d1b096725783f0e6a82",
+    "sha256_fonte": "78730d3232511398898bf86454654a4d91bc24ac02c5e569a9eb372343970767",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "7da6885a889e15ffef908f99e48855a4f7e7bc36e6e94d1b096725783f0e6a82",
+      "sha256_fonte": "78730d3232511398898bf86454654a4d91bc24ac02c5e569a9eb372343970767",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DAS ANUIDADES DE PESSOAS FÍSICAS",
+          "fonte": "CAPÍTULO I DAS ANUIDADES DE PESSOAS FÍSICAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO II — DAS ISENÇÕES",
+          "fonte": "SEÇÃO II DAS ISENÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DAS ANUIDADES DE PESSOAS JURÍDICAS",
+          "fonte": "CAPÍTULO II DAS ANUIDADES DE PESSOAS JURÍDICAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO II — DA ATIVIDADE BÁSICA",
+          "fonte": "SEÇÃO II DA ATIVIDADE BÁSICA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DAS DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO III DAS DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2019/resolucao-n-102-de-14-de-dezembro-de-2019-234643736.md",
+    "sha256_md": "4c38366cf783c0fe5a304d7e80c580a5aa8002de48310050f7d97a4e3fbdf094",
+    "sha256_fonte": "8c8618f55f437a21fcb14d5d681251839672387bfc2db0a6c11961b1209cd54a",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "4c38366cf783c0fe5a304d7e80c580a5aa8002de48310050f7d97a4e3fbdf094",
+      "sha256_fonte": "8c8618f55f437a21fcb14d5d681251839672387bfc2db0a6c11961b1209cd54a",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — LISTA DE REGIÕES METROPOLITANAS E REGIÕES GEOGRÁFICAS IMEDIATAS DO ESTADO DE SÃO PAULO 1. REGIÃO METROPOLITANA DE SÃO PAULO (INCLUI ABCDMRR)",
+          "fonte": "ANEXO I LISTA DE REGIÕES METROPOLITANAS E REGIÕES GEOGRÁFICAS IMEDIATAS DO ESTADO DE SÃO PAULO 1. REGIÃO METROPOLITANA DE SÃO PAULO (INCLUI ABCDMRR)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2019/resolucao-n-28-de-1-de-novembro-de-2019-235559953.md",
+    "sha256_md": "1ccded6682f529689fab1469e63ef72d900060b8d6ba2cd024ef7fe6bc5ed2e3",
+    "sha256_fonte": "c69100771d75ab4c4445edf67317ae0b7eaf68c4a1b9b5d9ab7989a9a73be322",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "1ccded6682f529689fab1469e63ef72d900060b8d6ba2cd024ef7fe6bc5ed2e3",
+      "sha256_fonte": "c69100771d75ab4c4445edf67317ae0b7eaf68c4a1b9b5d9ab7989a9a73be322",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — CARGO DE FISCAL VETERINÁRIO",
+          "fonte": "ANEXO I CARGO DE FISCAL VETERINÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2019/resolucao-n-372-de-11-de-dezembro-de-2019-235935869.md",
+    "sha256_md": "b4d6a20bf8bb1bea7ea6489f32ca210030ac9c37191f22119f1d7d5e0433dd50",
+    "sha256_fonte": "f2378dfbb0fe36e0a4f5c571d64ae696683feb68de5842cd5851dc5a0262d573",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "b4d6a20bf8bb1bea7ea6489f32ca210030ac9c37191f22119f1d7d5e0433dd50",
+      "sha256_fonte": "f2378dfbb0fe36e0a4f5c571d64ae696683feb68de5842cd5851dc5a0262d573",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO I DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DOS PRINCÍPIOS E OBJETIVOS",
+          "fonte": "CAPÍTULO II DOS PRINCÍPIOS E OBJETIVOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DA OPERACIONALIZAÇÃO",
+          "fonte": "CAPÍTULO III DA OPERACIONALIZAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DAS COMPETÊNCIAS E RESPONSABILIDADES",
+          "fonte": "CAPÍTULO IV DAS COMPETÊNCIAS E RESPONSABILIDADES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO V DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2019/resolucao-n-373-de-11-de-dezembro-de-2019-235936082.md",
+    "sha256_md": "a176aa2ede4f50cb24e1c0dda3106e663a75af6bc2cabe9d512b39eadb0f93a8",
+    "sha256_fonte": "085ba18753e1842a7acb294dfb563ca1e442e0b6c09df27a08c67687762e9006",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "a176aa2ede4f50cb24e1c0dda3106e663a75af6bc2cabe9d512b39eadb0f93a8",
+      "sha256_fonte": "085ba18753e1842a7acb294dfb563ca1e442e0b6c09df27a08c67687762e9006",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DISPOSIÇÕES INICIAIS",
+          "fonte": "CAPÍTULO I DISPOSIÇÕES INICIAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DA ESTRUTURA ORGANIZACIONAL",
+          "fonte": "CAPÍTULO II DA ESTRUTURA ORGANIZACIONAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DOS PRINCÍPIOS E DEVERES DOS MEMBROS DAS COMISSÕES",
+          "fonte": "CAPÍTULO III DOS PRINCÍPIOS E DEVERES DOS MEMBROS DAS COMISSÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DAS COMPETÊNCIAS",
+          "fonte": "CAPÍTULO IV DAS COMPETÊNCIAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DAS ATRIBUIÇÕES E RESPONSABILIDADES",
+          "fonte": "CAPÍTULO V DAS ATRIBUIÇÕES E RESPONSABILIDADES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DO FUNCIONAMENTO",
+          "fonte": "CAPÍTULO VI DO FUNCIONAMENTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VII — DAS NORMAS E PROCEDIMENTOS",
+          "fonte": "CAPÍTULO VII DAS NORMAS E PROCEDIMENTOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO I — DAS CONSULTAS",
+          "fonte": "SEÇÃO I DAS CONSULTAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO II — DA APURAÇÃO DE INDÍCIOS DE INFRAÇÃO À CONDUTA ÉTICA",
+          "fonte": "SEÇÃO II DA APURAÇÃO DE INDÍCIOS DE INFRAÇÃO À CONDUTA ÉTICA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SUBSEÇÃO I — DA DENÚNCIA OU DA REPRESENTAÇÃO",
+          "fonte": "SUBSEÇÃO I DA DENÚNCIA OU DA REPRESENTAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SUBSEÇÃO II — DO PROCEDIMENTO PRELIMINAR",
+          "fonte": "SUBSEÇÃO II DO PROCEDIMENTO PRELIMINAR",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SUBSEÇÃO III — DA INSTAURAÇÃO DO PROCESSO",
+          "fonte": "SUBSEÇÃO III DA INSTAURAÇÃO DO PROCESSO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SUBSEÇÃO IV — DA INSTRUÇÃO DO PROCESSO",
+          "fonte": "SUBSEÇÃO IV DA INSTRUÇÃO DO PROCESSO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SUBSEÇÃO V — DA DECISÃO FINAL",
+          "fonte": "SUBSEÇÃO V DA DECISÃO FINAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VIII — DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO VIII DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2019/resolucao-n-433-de-11-de-dezembro-de-2019-234426829.md",
+    "sha256_md": "4ae2a9f23d895ab6fd7d39537c36fca20aee8c7e9344ac11dcc9ada0ac14cc40",
+    "sha256_fonte": "f53da77cdd2d982e32e9a4480bc12f2ace2857984d74bea130701b72a1772d52",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "4ae2a9f23d895ab6fd7d39537c36fca20aee8c7e9344ac11dcc9ada0ac14cc40",
+      "sha256_fonte": "f53da77cdd2d982e32e9a4480bc12f2ace2857984d74bea130701b72a1772d52",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — Disposições gerais",
+          "fonte": "CAPÍTULO I Disposições gerais",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — Das Formalidades",
+          "fonte": "CAPÍTULO II Das Formalidades",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — Da Coordenação e Dos Membros",
+          "fonte": "CAPÍTULO III Da Coordenação e Dos Membros",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — Do Funcionamento",
+          "fonte": "CAPÍTULO IV Do Funcionamento",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — Disposições finais",
+          "fonte": "CAPÍTULO V Disposições finais",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2019/resolucao-n-472-de-13-de-dezembro-de-2019-234748339.md",
+    "sha256_md": "b6bdc141f69443ed7702b11ee3b083f1fbff5d2d5d6a97f400f738e9f66c8086",
+    "sha256_fonte": "207c10d1d7fb96b10ac44332994054f37219d3687492f0a1fa287755b5f6bd31",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "b6bdc141f69443ed7702b11ee3b083f1fbff5d2d5d6a97f400f738e9f66c8086",
+      "sha256_fonte": "207c10d1d7fb96b10ac44332994054f37219d3687492f0a1fa287755b5f6bd31",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO I DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DOS PRINCÍPIOS E OBJETIVOS",
+          "fonte": "CAPÍTULO II DOS PRINCÍPIOS E OBJETIVOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DA OPERACIONALIZAÇÃO",
+          "fonte": "CAPÍTULO III DA OPERACIONALIZAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DAS DIRETRIZES",
+          "fonte": "CAPÍTULO IV DAS DIRETRIZES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DAS COMPETÊNCIAS E RESPONSABILIDADES",
+          "fonte": "CAPÍTULO V DAS COMPETÊNCIAS E RESPONSABILIDADES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DAS DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO VI DAS DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2019/resolucao-normativa-n-3-de-13-de-marco-de-2019-235558236.md",
+    "sha256_md": "20e7a99324b4889f09c274c5a770798c4c58b1a654fbb2be6ed1ebbba8358ec2",
+    "sha256_fonte": "deaac4534f55e6cad497d7627fa407fc65cab8d7f3aafc3ce0260ac28f041d44",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "20e7a99324b4889f09c274c5a770798c4c58b1a654fbb2be6ed1ebbba8358ec2",
+      "sha256_fonte": "deaac4534f55e6cad497d7627fa407fc65cab8d7f3aafc3ce0260ac28f041d44",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — QUADRO DE DIÁRIAS NO INTERIOR DA BAHIA",
+          "fonte": "ANEXO I QUADRO DE DIÁRIAS NO INTERIOR DA BAHIA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2019/resolucao-normativa-n-4-de-25-de-abril-de-2019-235853331.md",
+    "sha256_md": "c464b042196e98ed984c3eefa01b7049eec1ea60991fa7ab13b2bface583f1fe",
+    "sha256_fonte": "0185342e850afa8b10f48c09daff14ee9940f90ef07d85d24caecad5209c1239",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "c464b042196e98ed984c3eefa01b7049eec1ea60991fa7ab13b2bface583f1fe",
+      "sha256_fonte": "0185342e850afa8b10f48c09daff14ee9940f90ef07d85d24caecad5209c1239",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — DESCRIÇÃO DE CARGO",
+          "fonte": "ANEXO I DESCRIÇÃO DE CARGO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2019/resolucao-normativa-n-5-de-25-de-abril-de-2019-235853255.md",
+    "sha256_md": "288985794b5be26dee7eba76aa9282f71e4d26df6fc7343b7e3495bc7f828dd8",
+    "sha256_fonte": "270afa3b725f02bc59e3f819bacc9d7ee64c1411477dd85278790a1f1e17e108",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "288985794b5be26dee7eba76aa9282f71e4d26df6fc7343b7e3495bc7f828dd8",
+      "sha256_fonte": "270afa3b725f02bc59e3f819bacc9d7ee64c1411477dd85278790a1f1e17e108",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — DESCRIÇÃO DE CARGO",
+          "fonte": "ANEXO I DESCRIÇÃO DE CARGO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2020/resolucao-cffa-n-581-de-14-de-setembro-de-2020-277429660.md",
+    "sha256_md": "abf4bf8bd4a7926f08c4a7c0c8b8668d40de021ab044c4c20e1ba9440590600c",
+    "sha256_fonte": "83e430dfce6f5546b2ebf7aafa8f3383e05b610e6d655bcbfb438ec66446d0ec",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "abf4bf8bd4a7926f08c4a7c0c8b8668d40de021ab044c4c20e1ba9440590600c",
+      "sha256_fonte": "83e430dfce6f5546b2ebf7aafa8f3383e05b610e6d655bcbfb438ec66446d0ec",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — Termo Administrativo de Confissão de Dívida",
+          "fonte": "ANEXO I Termo Administrativo de Confissão de Dívida",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2020/resolucao-cfm-n-2.280-de-6-de-agosto-de-2020-272816967.md",
+    "sha256_md": "8b8b408114267cf4b42fe0316fac74ac8a15956fdc9c916b4faa383b7b9a180f",
+    "sha256_fonte": "56731c4d923b80b0cd00be5bbcfe13459a49a675b3c1098e66f18456d3eac886",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "8b8b408114267cf4b42fe0316fac74ac8a15956fdc9c916b4faa383b7b9a180f",
+      "sha256_fonte": "56731c4d923b80b0cd00be5bbcfe13459a49a675b3c1098e66f18456d3eac886",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DAS ANUIDADES DE PESSOAS FÍSICAS",
+          "fonte": "CAPÍTULO I DAS ANUIDADES DE PESSOAS FÍSICAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Dos valores, prazos e condições",
+          "fonte": "Seção I Dos valores, prazos e condições",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Das isenções",
+          "fonte": "Seção II Das isenções",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DAS ANUIDADES DE PESSOAS JURÍDICAS",
+          "fonte": "CAPÍTULO II DAS ANUIDADES DE PESSOAS JURÍDICAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Dos valores, prazos e condições",
+          "fonte": "Seção I Dos valores, prazos e condições",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Das isenções",
+          "fonte": "Seção II Das isenções",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DAS TAXAS DE PESSOAS FÍSICAS",
+          "fonte": "CAPÍTULO III DAS TAXAS DE PESSOAS FÍSICAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DAS TAXAS DE PESSOAS JURÍDICAS",
+          "fonte": "CAPÍTULO IV DAS TAXAS DE PESSOAS JURÍDICAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DA INSCRIÇÃO E EXECUÇÃO DA DÍVIDA ATIVA E DAS REGRAS PARA RECUPERAÇÃO DE CRÉDITO",
+          "fonte": "CAPÍTULO V DA INSCRIÇÃO E EXECUÇÃO DA DÍVIDA ATIVA E DAS REGRAS PARA RECUPERAÇÃO DE CRÉDITO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Inscrição e execução da dívida ativa",
+          "fonte": "Seção I Inscrição e execução da dívida ativa",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Programa de recuperação de crédito",
+          "fonte": "Seção II Programa de recuperação de crédito",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Protesto extrajudicial",
+          "fonte": "Seção III Protesto extrajudicial",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DO PARCELAMENTO",
+          "fonte": "CAPÍTULO VI DO PARCELAMENTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VII — DOS RECEBIMENTOS COM CARTÕES DE DÉBITO E CRÉDITO",
+          "fonte": "CAPÍTULO VII DOS RECEBIMENTOS COM CARTÕES DE DÉBITO E CRÉDITO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VIII — DAS DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO VIII DAS DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO I — Termo de Confissão e Reconhecimento do Valor da Dívida",
+          "fonte": "ANEXO I Termo de Confissão e Reconhecimento do Valor da Dívida",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2020/resolucao-cfm-n-2.286-de-19-de-novembro-de-2020-292158238.md",
+    "sha256_md": "44e5e7028782d343921600c209d8a5236be2c9a2b5d368857030f7ad86157b3a",
+    "sha256_fonte": "ce66d65a47bc2f40d65419fc84d2d678a11460f5be1d2f8a3871069445f4ad0a",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "44e5e7028782d343921600c209d8a5236be2c9a2b5d368857030f7ad86157b3a",
+      "sha256_fonte": "ce66d65a47bc2f40d65419fc84d2d678a11460f5be1d2f8a3871069445f4ad0a",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — Das Disposições Gerais",
+          "fonte": "CAPÍTULO I Das Disposições Gerais",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — Da Prestação de Contas Anual do CFM",
+          "fonte": "CAPÍTULO II Da Prestação de Contas Anual do CFM",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — Da Prestação de Contas Anual dos CRMs",
+          "fonte": "CAPÍTULO III Da Prestação de Contas Anual dos CRMs",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — Do Conteúdo, Forma, Divulgação e Prazos",
+          "fonte": "CAPÍTULO IV Do Conteúdo, Forma, Divulgação e Prazos",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Divulgação de informações",
+          "fonte": "Seção I Divulgação de informações",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Da Elaboração e Apresentação das Peças",
+          "fonte": "Seção II Da Elaboração e Apresentação das Peças",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção I — Relatório de Gestão",
+          "fonte": "Subseção I Relatório de Gestão",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção II — Das Demonstrações Contábeis",
+          "fonte": "Subseção II Das Demonstrações Contábeis",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção III — Das Notas Explicativas",
+          "fonte": "Subseção III Das Notas Explicativas",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção IV — Da Comissão de Tomada de Contas",
+          "fonte": "Subseção IV Da Comissão de Tomada de Contas",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção V — Da Assembleia Geral dos Médicos",
+          "fonte": "Subseção V Da Assembleia Geral dos Médicos",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção VI — Da Declaração de Bens e Rendas",
+          "fonte": "Subseção VI Da Declaração de Bens e Rendas",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Do Rol de Responsáveis",
+          "fonte": "Seção III Do Rol de Responsáveis",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — Do Julgamento das Contas",
+          "fonte": "CAPÍTULO V Do Julgamento das Contas",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — Da Apresentação Mensal das Contas pelos CRMs",
+          "fonte": "CAPÍTULO VI Da Apresentação Mensal das Contas pelos CRMs",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VII — Da Guarda de Documentos",
+          "fonte": "CAPÍTULO VII Da Guarda de Documentos",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VIII — Da Emissão e Formalização dos Livros Contábeis",
+          "fonte": "CAPÍTULO VIII Da Emissão e Formalização dos Livros Contábeis",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2020/resolucao-crcmt-n-481-de-22-de-agosto-de-2020-286076626.md",
+    "sha256_md": "7e8600673c68a956fb7585ac436d79784bc91f72f5d13eee55e1e872e36db4a0",
+    "sha256_fonte": "e79aa0a361cac7ceb594598050bb9ed104cbd30add8f52c2fd2cc03d07a55814",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "7e8600673c68a956fb7585ac436d79784bc91f72f5d13eee55e1e872e36db4a0",
+      "sha256_fonte": "e79aa0a361cac7ceb594598050bb9ed104cbd30add8f52c2fd2cc03d07a55814",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO I DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DIREITOS E DEVERES DOS EMPREGADOS EM REGIME DE TELETRABALHO",
+          "fonte": "CAPÍTULO II DIREITOS E DEVERES DOS EMPREGADOS EM REGIME DE TELETRABALHO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DOS DEVERES DO EMPREGADOR",
+          "fonte": "CAPÍTULO III DOS DEVERES DO EMPREGADOR",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DEVERES DOS COORDENADORES DOS SETORES",
+          "fonte": "CAPÍTULO IV DEVERES DOS COORDENADORES DOS SETORES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — MONITORAMENTO E CONTROLE DO TELETRABALHO",
+          "fonte": "CAPÍTULO V MONITORAMENTO E CONTROLE DO TELETRABALHO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — TÉRMINO DO TELETRABALHO",
+          "fonte": "CAPÍTULO VI TÉRMINO DO TELETRABALHO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VII — DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO VII DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2020/resolucao-crcsc-n-437-de-23-de-setembro-de-2020-285019262.md",
+    "sha256_md": "7349bd19f7e54047209d142dd5e1be22c27cc0aafabd83a52a9ccbd08f901470",
+    "sha256_fonte": "aaf1e8b6cbbdd0e1d513e992a44a93e71e6848724ab9545417a5eb51844d32f8",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "7349bd19f7e54047209d142dd5e1be22c27cc0aafabd83a52a9ccbd08f901470",
+      "sha256_fonte": "aaf1e8b6cbbdd0e1d513e992a44a93e71e6848724ab9545417a5eb51844d32f8",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — PROGRAMA DE DEMISSÃO VOLUNTÁRIA - PDV",
+          "fonte": "ANEXO I PROGRAMA DE DEMISSÃO VOLUNTÁRIA - PDV",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — PROGRAMA DE DEMISSÃO VOLUNTÁRIA-PDV",
+          "fonte": "ANEXO II PROGRAMA DE DEMISSÃO VOLUNTÁRIA-PDV",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2020/resolucao-cref2-rs-n-169-de-3-de-setembro-de-2020-276996427.md",
+    "sha256_md": "874ce782c0bb8e3e3cc43d96e6e79dd29df688fe5cb1cbc10ab9c7344b99ac3e",
+    "sha256_fonte": "f666dab0facc77de41938569b55d18e8475bba41eb89b172f8c7743b673f01b6",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "874ce782c0bb8e3e3cc43d96e6e79dd29df688fe5cb1cbc10ab9c7344b99ac3e",
+      "sha256_fonte": "f666dab0facc77de41938569b55d18e8475bba41eb89b172f8c7743b673f01b6",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DA COBRANÇA ADMINISTRATIVA",
+          "fonte": "CAPÍTULO I DA COBRANÇA ADMINISTRATIVA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO I — Dos Processos Administrativos de Cobrança",
+          "fonte": "SEÇÃO I Dos Processos Administrativos de Cobrança",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO II — Da Notificação Administrativa Preliminar",
+          "fonte": "SEÇÃO II Da Notificação Administrativa Preliminar",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO III — Da Notificação para Pagamento",
+          "fonte": "SEÇÃO III Da Notificação para Pagamento",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO IV — Da Inscrição do Débito em Dívida Ativa",
+          "fonte": "SEÇÃO IV Da Inscrição do Débito em Dívida Ativa",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DA AÇÃO DE EXECUÇÃO FISCAL",
+          "fonte": "CAPÍTULO II DA AÇÃO DE EXECUÇÃO FISCAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DAS DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO III DAS DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2020/resolucao-cref20-se-n-32-de-2-de-dezembro-de-2020-295257275.md",
+    "sha256_md": "ee9aa83e4ac37c25fe29dc6b33c8523a991a41df165ae1ea31d3e64334a74399",
+    "sha256_fonte": "f4156f67a755f90ce32e1cd2db7d37801686a5e118157e1adc44e40577140f77",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "ee9aa83e4ac37c25fe29dc6b33c8523a991a41df165ae1ea31d3e64334a74399",
+      "sha256_fonte": "f4156f67a755f90ce32e1cd2db7d37801686a5e118157e1adc44e40577140f77",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — Coordenador - 1 vaga - Remuneração R$ 5.740,87",
+          "fonte": "ANEXO I Coordenador - 1 vaga - Remuneração R$ 5.740,87",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2020/resolucao-crp-12-n-7-de-9-de-outubro-de-2020-283216593.md",
+    "sha256_md": "700adbd3b703bf3295c6b82fd6881c90e1d23dbe1763e1ec8ab146798aaf70c3",
+    "sha256_fonte": "de2b3469ee42f6bcf6881b7122a1ecc3c9613f4c2a74b993ab5bb5696270d15a",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "700adbd3b703bf3295c6b82fd6881c90e1d23dbe1763e1ec8ab146798aaf70c3",
+      "sha256_fonte": "de2b3469ee42f6bcf6881b7122a1ecc3c9613f4c2a74b993ab5bb5696270d15a",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — descrições, especificidades e atribuições DO CARGO",
+          "fonte": "ANEXO I descrições, especificidades e atribuições DO CARGO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2020/resolucao-crp-24-n-2-de-21-de-setembro-de-2020-279224510.md",
+    "sha256_md": "d8943c485c1dafd1088e1d022a03f36578c94c4c8c9d606b552d43f8e7d71fae",
+    "sha256_fonte": "e7dda393bd6449ea1e6bfdc1477a2276c5e1676d9a4a6b0af0829cc55735cf0a",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "d8943c485c1dafd1088e1d022a03f36578c94c4c8c9d606b552d43f8e7d71fae",
+      "sha256_fonte": "e7dda393bd6449ea1e6bfdc1477a2276c5e1676d9a4a6b0af0829cc55735cf0a",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — DESCRIÇÃO DOS CARGOS COMISSIONADOS E SALÁRIOS",
+          "fonte": "ANEXO I DESCRIÇÃO DOS CARGOS COMISSIONADOS E SALÁRIOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2020/resolucao-n-1.128-de-10-de-dezembro-de-2020-295505900.md",
+    "sha256_md": "cd337e6d56e20ee5bd4ebf7e0facd80cc8a43b758ae13148a6813f1d1b9d1516",
+    "sha256_fonte": "8d19a44134383f77d6b373507f99b157a80619ef66687ac83586e2adff3457d1",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "cd337e6d56e20ee5bd4ebf7e0facd80cc8a43b758ae13148a6813f1d1b9d1516",
+      "sha256_fonte": "8d19a44134383f77d6b373507f99b157a80619ef66687ac83586e2adff3457d1",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DA COBRANÇA ADMINISTRATIVA",
+          "fonte": "CAPÍTULO I DA COBRANÇA ADMINISTRATIVA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Dos processos administrativos de cobrança",
+          "fonte": "Seção I Dos processos administrativos de cobrança",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Da Notificação para Inscrição em Dívida Ativa",
+          "fonte": "Seção II Da Notificação para Inscrição em Dívida Ativa",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Da Inscrição do débito em Dívida Ativa",
+          "fonte": "Seção III Da Inscrição do débito em Dívida Ativa",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção IV — Do Registro nos cadastros restritivos",
+          "fonte": "Seção IV Do Registro nos cadastros restritivos",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção V — Do pagamento de débitos inscritos em Dívida Ativa",
+          "fonte": "Seção V Do pagamento de débitos inscritos em Dívida Ativa",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DO PROGRAMA DE RECUPERAÇÃO DE CRÉDITOS",
+          "fonte": "CAPÍTULO II DO PROGRAMA DE RECUPERAÇÃO DE CRÉDITOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Instituição do Programa de Recuperação de Créditos",
+          "fonte": "Seção I Instituição do Programa de Recuperação de Créditos",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Critérios Mínimos para a Instituição de Programa de Recuperação de Créditos",
+          "fonte": "Seção II Critérios Mínimos para a Instituição de Programa de Recuperação de Créditos",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DA COBRANÇA JUDICIAL",
+          "fonte": "CAPÍTULO III DA COBRANÇA JUDICIAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DAS DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO IV DAS DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2020/resolucao-n-1.374-de-2-de-dezembro-de-2020-292158318.md",
+    "sha256_md": "c3d2840785fd5b59ca0eecdff382d37c5d4456786a91eefbea77b46b864e7fd5",
+    "sha256_fonte": "2be6e2633644ffb5c6ecab6adcb000e86bf84f054d53b0e9bda600979cc314aa",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "c3d2840785fd5b59ca0eecdff382d37c5d4456786a91eefbea77b46b864e7fd5",
+      "sha256_fonte": "2be6e2633644ffb5c6ecab6adcb000e86bf84f054d53b0e9bda600979cc314aa",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES",
+          "fonte": "CAPÍTULO I DAS DISPOSIÇÕES PRELIMINARES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DA RESPONSABILIDADE TÉCNICA",
+          "fonte": "CAPÍTULO II DA RESPONSABILIDADE TÉCNICA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DA REQUISIÇÃO DE EXAMES E DA EMISSÃO DOS LAUDOS DE RESULTADOS DOS EXAMES",
+          "fonte": "CAPÍTULO III DA REQUISIÇÃO DE EXAMES E DA EMISSÃO DOS LAUDOS DE RESULTADOS DOS EXAMES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DA ESTRUTURA COMUM",
+          "fonte": "CAPÍTULO IV DA ESTRUTURA COMUM",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DO CONTROLE DE QUALIDADE",
+          "fonte": "CAPÍTULO VI DO CONTROLE DE QUALIDADE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VIII — DAS DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO VIII DAS DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2020/resolucao-n-391-de-26-de-agosto-de-2020-274726255.md",
+    "sha256_md": "982a997d0ef1e2f03c9600adacc33ebdfb453e7683e2dd255e5c2af4cbea3aa7",
+    "sha256_fonte": "a568b0c665883abda085464577e92fa082d0eb669c7863f7c1d8456f8d70e7b5",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "982a997d0ef1e2f03c9600adacc33ebdfb453e7683e2dd255e5c2af4cbea3aa7",
+      "sha256_fonte": "a568b0c665883abda085464577e92fa082d0eb669c7863f7c1d8456f8d70e7b5",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "SEÇÃO I — DAS COMPETÊNCIAS E ATRIBUIÇÕES",
+          "fonte": "SEÇÃO I DAS COMPETÊNCIAS E ATRIBUIÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO II — DAS ÁREAS DE ATUAÇÃO",
+          "fonte": "SEÇÃO II DAS ÁREAS DE ATUAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2020/resolucao-n-50-de-17-de-outubro-de-2020-286972643.md",
+    "sha256_md": "35e36a69fcaa0b81fc0ba3d46873166658121f13d12ea5ab9796e2f1e4461a76",
+    "sha256_fonte": "b967a2ed3599345d5912532dc016734c223b6d14152acbf3abb214f86bf5dd0e",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "35e36a69fcaa0b81fc0ba3d46873166658121f13d12ea5ab9796e2f1e4461a76",
+      "sha256_fonte": "b967a2ed3599345d5912532dc016734c223b6d14152acbf3abb214f86bf5dd0e",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — PROPOSTA ORÇAMENTÁRIA PARA O ANO DE 2021",
+          "fonte": "ANEXO I PROPOSTA ORÇAMENTÁRIA PARA O ANO DE 2021",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2020/resolucao-n-566-de-29-de-outubro-de-2020-286062660.md",
+    "sha256_md": "5baf5785861be88195523a0c6ec48e4c6de6421a65f9ca84b824e7cd199361ee",
+    "sha256_fonte": "c04a7283df27651e22e25f88e59c0055cdc83e609da4a9afb44d2da9678c60cb",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "5baf5785861be88195523a0c6ec48e4c6de6421a65f9ca84b824e7cd199361ee",
+      "sha256_fonte": "c04a7283df27651e22e25f88e59c0055cdc83e609da4a9afb44d2da9678c60cb",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DIFERIMENTO DA APLICAÇÃO DA ATUALIZAÇÃO MONETÁRIA",
+          "fonte": "CAPÍTULO I DIFERIMENTO DA APLICAÇÃO DA ATUALIZAÇÃO MONETÁRIA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — ANUIDADES DE PESSOAS FÍSICAS",
+          "fonte": "CAPÍTULO II ANUIDADES DE PESSOAS FÍSICAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — ANUIDADES DE PESSOAS JURÍDICAS",
+          "fonte": "CAPÍTULO III ANUIDADES DE PESSOAS JURÍDICAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — PRINCÍPIO DA PROPORCIONALIDADE E DA IMPOSSIBILIDADE DE PARCELAMENTO DA PRIMEIRA ANUIDADE",
+          "fonte": "CAPÍTULO IV PRINCÍPIO DA PROPORCIONALIDADE E DA IMPOSSIBILIDADE DE PARCELAMENTO DA PRIMEIRA ANUIDADE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — AGÊNCIAS BANCÁRIAS DA COMPENSAÇÃO DA COBRANÇA DE ANUIDADES",
+          "fonte": "CAPÍTULO V AGÊNCIAS BANCÁRIAS DA COMPENSAÇÃO DA COBRANÇA DE ANUIDADES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — ACRÉSCIMOS LEGAIS SOBRE A INADIMPLÊNCIA",
+          "fonte": "CAPÍTULO VI ACRÉSCIMOS LEGAIS SOBRE A INADIMPLÊNCIA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VII — TAXAS, EMOLUMENTOS, SERVIÇOS E MULTAS",
+          "fonte": "CAPÍTULO VII TAXAS, EMOLUMENTOS, SERVIÇOS E MULTAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VIII — RECEBIMENTOS POR MEIO DE CARTÃO DE CRÉDITO OU DE DÉBITO",
+          "fonte": "CAPÍTULO VIII RECEBIMENTOS POR MEIO DE CARTÃO DE CRÉDITO OU DE DÉBITO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2020/resolucao-n-583-de-17-de-dezembro-de-2020-296171070.md",
+    "sha256_md": "e69affcdb6e238ff89cfec21d5527e74ac11eb7f2403d40990b74f0142c9c8a6",
+    "sha256_fonte": "f4c654cd3e220c8e47c0395655aa380528fe003f86988e7a85a9a5798ca4d8fe",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "e69affcdb6e238ff89cfec21d5527e74ac11eb7f2403d40990b74f0142c9c8a6",
+      "sha256_fonte": "f4c654cd3e220c8e47c0395655aa380528fe003f86988e7a85a9a5798ca4d8fe",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DOS DESCONTOS",
+          "fonte": "CAPÍTULO I DOS DESCONTOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DAS ISENÇÕES AOS PROFISSIONAIS RECÉM-FORMADOS",
+          "fonte": "CAPÍTULO II DAS ISENÇÕES AOS PROFISSIONAIS RECÉM-FORMADOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2020/resolucao-n-6-de-2-de-dezembro-de-2020-293796863.md",
+    "sha256_md": "d4dad358fa01e9ca732dacf4f59df0cb1ffde48f22a059f31f1564f9ad07320e",
+    "sha256_fonte": "4d8c4ad80d33ae9791ad7e9c5e36295bcf9a29451ab7fa720e840499a6c7b603",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "d4dad358fa01e9ca732dacf4f59df0cb1ffde48f22a059f31f1564f9ad07320e",
+      "sha256_fonte": "4d8c4ad80d33ae9791ad7e9c5e36295bcf9a29451ab7fa720e840499a6c7b603",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — CÂMARAS DE JULGAMENTO DE PROCESSO ÉTICO-PROFISSIONAL",
+          "fonte": "ANEXO I CÂMARAS DE JULGAMENTO DE PROCESSO ÉTICO-PROFISSIONAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — CÂMARAS DE JULGAMENTO DE SINDICÂNCIA",
+          "fonte": "ANEXO II CÂMARAS DE JULGAMENTO DE SINDICÂNCIA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2020/resolucao-n-663-de-28-de-agosto-de-2020-274892134.md",
+    "sha256_md": "3d2ce68a5b2cdd93c0559229818fbdc05f3369e2027b9b3516002b1a22909445",
+    "sha256_fonte": "ea077e0d18a27fc1c2a9bf606ded307db16890d5d2052d45321477aca41bd68d",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "3d2ce68a5b2cdd93c0559229818fbdc05f3369e2027b9b3516002b1a22909445",
+      "sha256_fonte": "ea077e0d18a27fc1c2a9bf606ded307db16890d5d2052d45321477aca41bd68d",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — GLOSSÁRIO",
+          "fonte": "ANEXO I GLOSSÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — PARÂMETROS NUMÉRICOS MÍNIMOS DE REFERÊNCIA PARA",
+          "fonte": "ANEXO II PARÂMETROS NUMÉRICOS MÍNIMOS DE REFERÊNCIA PARA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2020/resolucao-n-693-de-25-de-novembro-de-2020-290340967.md",
+    "sha256_md": "f7d1c817ac26c83b6dad6f740d4a8964282ecec82656f652f33dcca90a480215",
+    "sha256_fonte": "ecdd192f2caa515c00046f49ece97b1e2bf2e729e1944597ee3afdf77400340f",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "f7d1c817ac26c83b6dad6f740d4a8964282ecec82656f652f33dcca90a480215",
+      "sha256_fonte": "ecdd192f2caa515c00046f49ece97b1e2bf2e729e1944597ee3afdf77400340f",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DAS ANUIDADES DE PESSOAS FÍSICAS",
+          "fonte": "CAPÍTULO I DAS ANUIDADES DE PESSOAS FÍSICAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO II — DAS ISENÇÕES",
+          "fonte": "SEÇÃO II DAS ISENÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DAS ANUIDADES DE PESSOAS JURÍDICAS",
+          "fonte": "CAPÍTULO II DAS ANUIDADES DE PESSOAS JURÍDICAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO II — DA ATIVIDADE BÁSICA",
+          "fonte": "SEÇÃO II DA ATIVIDADE BÁSICA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DAS DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO III DAS DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2020/resolucao-normativa-cfa-n-582-de-20-de-agosto-de-2020-273700846.md",
+    "sha256_md": "a2da2a63f6e77e0d63d1e91080178b7af75b6e58739d3c0a8ea5a6639804681d",
+    "sha256_fonte": "014de875f0069b7ae8e540cc6f2ba56042a5933aa6dea60874e8c0cda03f289c",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "a2da2a63f6e77e0d63d1e91080178b7af75b6e58739d3c0a8ea5a6639804681d",
+      "sha256_fonte": "014de875f0069b7ae8e540cc6f2ba56042a5933aa6dea60874e8c0cda03f289c",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "SEÇÃO IX — Do Diretor de Desenvolvimento Profissional",
+          "fonte": "SEÇÃO IX Do Diretor de Desenvolvimento Profissional",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO X — Do Diretor de Articulação Institucional",
+          "fonte": "SEÇÃO X Do Diretor de Articulação Institucional",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/inmetro/portarias/2019/portaria-n-245-de-20-de-maio-de-2019-118344927.md",
+    "sha256_md": "89ac27f812c4edaa6f8cb8e60acab124cf541f2d73243c49f5c6a77c046945ae",
+    "sha256_fonte": "0360083ba2db6a7bc9228bd557c9d27f0c8170028e8b6c2aa64511859ec0899a",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "89ac27f812c4edaa6f8cb8e60acab124cf541f2d73243c49f5c6a77c046945ae",
+      "sha256_fonte": "0360083ba2db6a7bc9228bd557c9d27f0c8170028e8b6c2aa64511859ec0899a",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — POLÍTICA DE SEGURANÇA E PROTEÇÃO BIOLÓGICA DO INMETRO -INTRODUÇÃO",
+          "fonte": "ANEXO I POLÍTICA DE SEGURANÇA E PROTEÇÃO BIOLÓGICA DO INMETRO -INTRODUÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/inmetro/portarias/2019/portaria-n-511-de-12-de-dezembro-de-2019-234337806.md",
+    "sha256_md": "50ba11c83aefedbd51617c23ac174d717b7b2dc46b34c2339c908014880b989a",
+    "sha256_fonte": "9307a3fe6c4193e39582ab648830faa3e0d2e9d7d46d97a14cd7c8cca4622a30",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "50ba11c83aefedbd51617c23ac174d717b7b2dc46b34c2339c908014880b989a",
+      "sha256_fonte": "9307a3fe6c4193e39582ab648830faa3e0d2e9d7d46d97a14cd7c8cca4622a30",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — PLANO DE TRABALHO - ANUÊNCIA",
+          "fonte": "ANEXO I PLANO DE TRABALHO - ANUÊNCIA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — TERMO DE CIÊNCIA E RESPONSABILIDADE DO SERVIDOR ATUANDO SOB PROGRAMA DE GESTÃO NA MODALIDADE TELETRABALHO",
+          "fonte": "ANEXO II TERMO DE CIÊNCIA E RESPONSABILIDADE DO SERVIDOR ATUANDO SOB PROGRAMA DE GESTÃO NA MODALIDADE TELETRABALHO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO III — PLANO DE TRABALHO - ANUÊNCIA",
+          "fonte": "ANEXO III PLANO DE TRABALHO - ANUÊNCIA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO IV — RELATÓRIO DE ACOMPANHAMENTO",
+          "fonte": "ANEXO IV RELATÓRIO DE ACOMPANHAMENTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/inmetro/portarias/2020/portaria-n-289-de-4-de-setembro-de-2020-276622746.md",
+    "sha256_md": "50e346a66e6be31bc620c4f7200efaa5369da00c769b510642fcc88a0ea77ac9",
+    "sha256_fonte": "26df42b8d0d99b3b5605e6fbfa92a0dd5dac0230f89f5f60f96e9a123e8bf8c6",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "50e346a66e6be31bc620c4f7200efaa5369da00c769b510642fcc88a0ea77ac9",
+      "sha256_fonte": "26df42b8d0d99b3b5605e6fbfa92a0dd5dac0230f89f5f60f96e9a123e8bf8c6",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO C — \"1. OBJETIVO",
+          "fonte": "ANEXO C \"1. OBJETIVO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/inmetro/portarias/2020/portaria-n-296-de-11-de-setembro-de-2020-277430397.md",
+    "sha256_md": "d30cb3c65125c020369c0ec6ed800d8b2b3bc8c2e6dba4a8e8e0dc6f06b54f6b",
+    "sha256_fonte": "5609ba1d347c74e4c98edfc8ff75f362760769cae37fdd2509cf3865507a2081",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": true
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "d30cb3c65125c020369c0ec6ed800d8b2b3bc8c2e6dba4a8e8e0dc6f06b54f6b",
+      "sha256_fonte": "5609ba1d347c74e4c98edfc8ff75f362760769cae37fdd2509cf3865507a2081",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DAS DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO I DAS DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": null
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/rfb/portarias/2019/portaria-n-2.246-de-26-de-dezembro-de-2019-235854513.md",
+    "sha256_md": "ce2f361c97a93bd27faa86c7c705163f4bc1c3dfeb1bfa96717215ba6b3bebef",
+    "sha256_fonte": "594f2b1ed8d49797020e00fbc5358453344a8c96101581ce5a1d90f42df975ef",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": false
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "ce2f361c97a93bd27faa86c7c705163f4bc1c3dfeb1bfa96717215ba6b3bebef",
+      "sha256_fonte": "594f2b1ed8d49797020e00fbc5358453344a8c96101581ce5a1d90f42df975ef",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — Descrição dos Objetivos Estratégicos",
+          "fonte": "ANEXO I Descrição dos Objetivos Estratégicos",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — Indicadores Estratégicos da RFB",
+          "fonte": "ANEXO II Indicadores Estratégicos da RFB",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO III — Projetos Estratégicos Institucionais da RFB",
+          "fonte": "ANEXO III Projetos Estratégicos Institucionais da RFB",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": {
+        "posicao": 1369,
+        "fonte": "erspectivas do Mapa Estratégico, conforme abaixo. I) Perspectiva de Resultados: 1) Garantir a arrecadação necessária ao Estado, com eficiência e aprimoramento do sistema tributário - Garantir o cumprimento da meta de arrecadação definida na",
+        "md": "erspectivas do Mapa Estratégico, conforme abaixo. I) Perspectiva de Resultados: Garantir a arrecadação necessária ao Estado, com eficiência e aprimoramento do sistema tributário - Garantir o cumprimento da meta de arrecadação definida na Le"
+      }
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/conselhos-profissionais/resolucoes/2020/resolucao-n-666-de-30-de-setembro-de-2020-280886179.md",
+    "sha256_md": "2a400327c8d77dc0d73b2e8c2447c92574a4f5597e2c97fc7e028e60ad17f907",
+    "sha256_fonte": "66467801fa9ca8cd2f59a8b8779d7654d75bae250f78a2c0d9b26af16e4c0d66",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": false
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "2a400327c8d77dc0d73b2e8c2447c92574a4f5597e2c97fc7e028e60ad17f907",
+      "sha256_fonte": "66467801fa9ca8cd2f59a8b8779d7654d75bae250f78a2c0d9b26af16e4c0d66",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — TERMO DE ESCLARECIMENTO",
+          "fonte": "ANEXO I TERMO DE ESCLARECIMENTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": {
+        "posicao": 13494,
+        "fonte": "e termo, declaro que recebi e estou de acordo com os seguintes esclarecimentos: 1) A Teleconsulta de Nutrição será realizada em caráter excepcional, decorrente do quadro de pandemia da Covid-19, considerando o isolamento social recomendado ",
+        "md": "e termo, declaro que recebi e estou de acordo com os seguintes esclarecimentos: A Teleconsulta de Nutrição será realizada em caráter excepcional, decorrente do quadro de pandemia da Covid-19, considerando o isolamento social recomendado pel"
+      }
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  },
+  {
+    "path": "reguladores/inmetro/portarias/2019/portaria-n-289-de-11-de-junho-de-2019-167068057.md",
+    "sha256_md": "6aba991d6d5c5ae73fae793dd28b86c4fad31f0c682330c8ead3f74b66e888ec",
+    "sha256_fonte": "50b2af234d1d7047f699a7522e5adcf752ef38ffbf104cb1b74896a177671634",
+    "diagnostico_bruto": {
+      "texto_igual": false,
+      "numeros_iguais": false
+    },
+    "controle_existente": {
+      "controle": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256_md": "6aba991d6d5c5ae73fae793dd28b86c4fad31f0c682330c8ead3f74b66e888ec",
+      "sha256_fonte": "50b2af234d1d7047f699a7522e5adcf752ef38ffbf104cb1b74896a177671634",
+      "md_e_fonte_correspondem": true,
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — INSTRUÇÃO NORMATIVA INMETRO PARA CONTAGEM DE PASSAGEIROS DE SERVÇOS DE TRANSPORTE",
+          "fonte": "ANEXO I INSTRUÇÃO NORMATIVA INMETRO PARA CONTAGEM DE PASSAGEIROS DE SERVÇOS DE TRANSPORTE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — REQUISITOS DE AVALIAÇÃO DA CONFORMIDADE PARA CONTAGEM DE PASSAGEIROS DE SERVÇOS DE TRANSPORTE",
+          "fonte": "ANEXO II REQUISITOS DE AVALIAÇÃO DA CONFORMIDADE PARA CONTAGEM DE PASSAGEIROS DE SERVÇOS DE TRANSPORTE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "primeira_diferenca": {
+        "posicao": 2501,
+        "fonte": "rtaria Inmetro nº 225, de 2016, passa a viger com a seguinte redação: \"4.4 .... 2) Cálculo da soma do número de pessoas que entram e/ou saem, de cada ciclo, para cada equipe executora, configurando o resultado de cada equipe executora (Ni ,",
+        "md": "rtaria Inmetro nº 225, de 2016, passa a viger com a seguinte redação: \"4.4 .... Cálculo da soma do número de pessoas que entram e/ou saem, de cada ciclo, para cada equipe executora, configurando o resultado de cada equipe executora (Ni , se"
+      }
+    },
+    "limite": "Diagnóstico bruto suplementar, sem normalização nova. Marcadores/headings/listas devem ser avaliados pelo controle existente; não tratado automaticamente como perda normativa nem como aprovado."
+  }
+]

@@ -1,0 +1,42 @@
+---
+titulo: "ATO nº 51, DE 2 DE OUTUBRO DE 2018"
+orgao: "Ministério da Fazenda/Conselho Nacional de Política Fazendária"
+tipo: "Ato Normativo"
+numero: "51"
+data: 2018-10-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 03/10/2018, seção 1, p. 18"
+data_publicacao: 2018-10-03
+edicao: "191"
+fonte: "https://www.in.gov.br/web/dou/-/ato-n-51-de-2-de-outubro-de-2018-43668440"
+sha256_html_fonte: f7b6b33c6358eff31a8aadb39ef9b86bc1629083465175012b3f49e07b134c97
+baixado_em: 2026-10-27
+---
+# ATO nº 51, DE 2 DE OUTUBRO DE 2018
+
+SECRETARIA EXECUTIVA
+
+ATO nº 51, DE 2 DE OUTUBRO DE 2018
+
+Divulga a relação de portos, terminais aquaviários e terminais do operador dutoviário não interligados fisicamente ao sistema dutoviário para os quais se estende o tratamento diferenciado na prestação de serviço de transporte e na armazenagem de Etanol Hidratado Combustível - EHC e Etanol Anidro Combustível - EAC pelo sistema dutoviário, previstos no Protocolo ICMS 02/14 e no Protocolo ICMS 05/14.
+
+O Secretário-Executivo do Conselho Nacional de Política Fazendária - CONFAZ, no uso das atribuições que lhe confere o art. 12, XIII, do Regimento da Comissão Técnica Permanente do ICMS - COTEPE/ICMS, de 12 de dezembro de 1997, por este ato, torna público que a Comissão, na sua 173ª reunião ordinária, realizada nos dias 11 a 13 de setembro de 2018, em Brasília, DF, nos termos do § 5º da cláusula primeira do Protocolo ICMS 02/14, de 17 de fevereiro de 2014 e no § 5º da cláusula primeira do Protocolo ICMS 05/14, de 21 de março de 2014, resolveu:
+
+**Art. 1º** Divulgar, na forma dos Anexos I e II, deste ato, a relação de portos, terminais aquaviários e terminais do operador dutoviário não interligados fisicamente ao sistema dutoviário para os quais se estende o tratamento diferenciado na prestação de serviço de transporte e na armazenagem de Etanol Hidratado Combustível - EHC e Etanol Anidro Combustível - EAC pelo sistema dutoviário previstos no Protocolo ICMS 02/14 e no Protocolo ICMS 05/14.
+
+**Art. 2º** Este ato entra em vigor na data da sua publicação no Diário Oficial da União.
+
+RENATA LARISSA SILVESTRE
+
+## ANEXO I
+
+Relação dos portos e terminais aquaviários de entrada no sistema aquaviário.
+
+<table> 	<tbody> 		<tr> 			<td> 			<p>ITEM</p> 			</td> 			<td> 			<p>UF</p> 			</td> 			<td> 			<p>TIPO DE ETANOL (EAC ou EHC)</p> 			</td> 			<td> 			<p>INSTALAÇÃO PORTUÁRIA</p> 			</td> 			<td> 			<p>NOME DO TERMINAL</p> 			</td> 			<td> 			<p>RAZÃO SOCIAL</p> 			</td> 			<td> 			<p>CNPJ</p> 			</td> 			<td> 			<p>INSCRIÇÃO ESTADUAL</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>1</p> 			</td> 			<td> 			<p>RJ</p> 			</td> 			<td> 			<p>EAC e EHC</p> 			</td> 			<td> 			<p>TERMINAL AQUAVIÁRIO DE ILHA D`ÁGUA</p> 			</td> 			<td> 			<p>TRANSPETRO ALMIRANTE TAMANDARE (ILHA D´ÁGUA - TABG)</p> 			</td> 			<td> 			<p>PETROBRAS TRANSPORTE S.A - TRANSPETRO</p> 			</td> 			<td> 			<p>02.709.449/0005-82</p> 			</td> 			<td> 			<p>77.120.637</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>2</p> 			</td> 			<td> 			<p>RJ</p> 			</td> 			<td> 			<p>EAC e EHC</p> 			</td> 			<td> 			<p>TERMINAL AQUAVIÁRIO DE CAMPOS ELISIOS</p> 			</td> 			<td> 			<p>TRANSPETRO CAMPOS ELÍSIOS</p> 			</td> 			<td> 			<p>PETROBRAS TRANSPORTE S.A - TRANSPETRO</p> 			</td> 			<td> 			<p>02.709.449/0002-30</p> 			</td> 			<td> 			<p>77.120.610</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>3</p> 			</td> 			<td> 			<p>SP</p> 			</td> 			<td> 			<p>EAC e EHC</p> 			</td> 			<td> 			<p>TERMINAL AQUAVIÁRIO DE SANTOS</p> 			</td> 			<td> 			<p>TRANSPETRO ALEMOA (SANTOS)</p> 			</td> 			<td> 			<p>PETROBRAS TRANSPORTE S.A - TRANSPETRO</p> 			</td> 			<td> 			<p>02.709.449/0031-74</p> 			</td> 			<td> 			<p>633.567.088.119</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>4</p> 			</td> 			<td> 			<p>SP</p> 			</td> 			<td> 			<p>EAC e EHC</p> 			</td> 			<td> 			<p>TERMINAL AQUAVIÁRIO DE SÃO SEBASTIÃO</p> 			</td> 			<td> 			<p>TRANSPETRO ALMIRANTE BARROSO (SÃO SEBASTIÃO)</p> 			</td> 			<td> 			<p>PETROBRAS TRANSPORTE S.A - TRANSPETRO</p> 			</td> 			<td> 			<p>02.709.449/0040-65</p> 			</td> 			<td> 			<p>654.093.387.110</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>5</p> 			</td> 			<td> 			<p>SP</p> 			</td> 			<td> 			<p>EAC e EHC</p> 			</td> 			<td> 			<p>TERMINAL AQUAVIÁRIO DE SANTOS</p> 			</td> 			<td> 			<p>TEQUIMAR SANTOS</p> 			</td> 			<td> 			<p>TERMINAL QUÍMICO DE ARATU S/A TEQUIMAR</p> 			</td> 			<td> 			<p>14.688.220/0011-36</p> 			</td> 			<td> 			<p>633.613.025.117</p> 			</td> 		</tr> 	</tbody> </table>
+
+## ANEXO II
+
+Relação dos portos e terminais aquaviários de saída do sistema aquaviário.
+
+<table> 	<tbody> 		<tr> 			<td> 			<p>ITEM</p> 			</td> 			<td> 			<p>UF</p> 			</td> 			<td> 			<p>TIPO DE ETANOL (EAC ou EHC)</p> 			</td> 			<td> 			<p>INSTALAÇÃO PORTUÁRIA</p> 			</td> 			<td> 			<p>NOME DO TERMINAL</p> 			</td> 			<td> 			<p>RAZÃO SOCIAL</p> 			</td> 			<td> 			<p>CNPJ</p> 			</td> 			<td> 			<p>INSCRIÇÃO ESTADUAL</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>1</p> 			</td> 			<td> 			<p>BA</p> 			</td> 			<td> 			<p>EAC e EHC</p> 			</td> 			<td> 			<p>PORTO DE ARATU</p> 			</td> 			<td> 			<p>TRANSPETRO CANDEIAS</p> 			</td> 			<td> 			<p>PETROBRAS TRANSPORTE S.A - TRANSPETRO</p> 			</td> 			<td> 			<p>02.709.449/0007-44</p> 			</td> 			<td> 			<p>054.515.811</p>  			<p> </p> 			</td> 		</tr> 		<tr> 			<td> 			<p>2</p> 			</td> 			<td> 			<p>BA</p> 			</td> 			<td> 			<p>EAC e EHC</p> 			</td> 			<td> 			<p>PORTO DE ARATU</p> 			</td> 			<td> 			<p>VOPAK ARATU</p> 			</td> 			<td> 			<p>VOPAK BRASIL S/A</p> 			</td> 			<td> 			<p>44.167.450/0007-34</p> 			</td> 			<td> 			<p>002.270.432</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>3</p> 			</td> 			<td> 			<p>BA</p> 			</td> 			<td> 			<p>EAC e EHC</p> 			</td> 			<td> 			<p>PORTO DE ARATU</p> 			</td> 			<td> 			<p>TEQUIMAR CANDEIAS</p> 			</td> 			<td> 			<p>TERMINAL QUÍMICO DE ARATU S/A TEQUIMAR</p> 			</td> 			<td> 			<p>14.688.220/0001-64</p> 			</td> 			<td> 			<p>071.896.390</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>4</p> 			</td> 			<td> 			<p>BA</p> 			</td> 			<td> 			<p>EAC e EHC</p> 			</td> 			<td> 			<p>TERMINAL AQUAVIÁRIO DE MADRE DE DEUS</p> 			</td> 			<td> 			<p>TRANSPETRO MADRE DE DEUS</p> 			</td> 			<td> 			<p>PETROBRAS TRANSPORTE S.A - TRANSPETRO</p> 			</td> 			<td> 			<p>02.709.449/0008-25</p> 			</td> 			<td> 			<p>054.515.811</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>5</p> 			</td> 			<td> 			<p>BA</p> 			</td> 			<td> 			<p>EAC e EHC</p> 			</td> 			<td> 			<p>PORTO DE ITABUNA</p> 			</td> 			<td> 			<p>TRANSPETRO ITABUNA</p> 			</td> 			<td> 			<p>PETROBRAS TRANSPORTE S.A - TRANSPETRO</p> 			</td> 			<td> 			<p>02.709.449/0015-54</p> 			</td> 			<td> 			<p>054.515.811</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>6</p> 			</td> 			<td> 			<p>BA</p> 			</td> 			<td> 			<p>EAC e EHC</p> 			</td> 			<td> 			<p>PORTO DE JEQUIE</p> 			</td> 			<td> 			<p>TRANSPETRO JEQUIÉ</p> 			</td> 			<td> 			<p>PETROBRAS TRANSPORTE S.A - TRANSPETRO</p> 			</td> 			<td> 			<p>02.709.449/0013-92</p> 			</td> 			<td> 			<p>054.515.811</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>7</p> 			</td> 			<td> 			<p>MA</p> 			</td> 			<td> 			<p>EAC e EHC</p> 			</td> 			<td> 			<p>TERMINAL AQUAVIÁRIO DE ITAQUI</p> 			</td> 			<td> 			<p>TRANSPETRO SÃO LUIS</p> 			</td> 			<td> 			<p>PETROBRAS TRANSPORTE S.A - TRANSPETRO</p> 			</td> 			<td> 			<p>02.709.449/0045-70</p> 			</td> 			<td> 			<p>12.179700-7</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>8</p> 			</td> 			<td> 			<p>MA</p> 			</td> 			<td> 			<p>EAC e EHC</p> 			</td> 			<td> 			<p>TERMINAL AQUAVIÁRIO DE ITAQUI</p> 			</td> 			<td> 			<p>GRANEL QUÍMICA ITAQUI</p> 			</td> 			<td> 			<p>GRANEL QUÍMICA LTDA.</p> 			</td> 			<td> 			<p>44.983.435/0003-30</p> 			</td> 			<td> 			<p>12.095653-5</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>9</p> 			</td> 			<td> 			<p>MA</p> 			</td> 			<td> 			<p>EAC e EHC</p> 			</td> 			<td> 			<p>TERMINAL AQUAVIÁRIO DE ITAQUI</p> 			</td> 			<td> 			<p>GRANEL QUÍMICA ITAQUI 2</p> 			</td> 			<td> 			<p>GRANEL QUÍMICA LTDA.</p> 			</td> 			<td> 			<p>44.983.435/0010-60</p> 			</td> 			<td> 			<p>12.371771-0</p> 			</td> 		</tr> 		<tr> 			<td> 			<p>10</p> 			</td> 			<td> 			<p>MA</p> 			</td> 			<td> 			<p>EAC e EHC</p> 			</td> 			<td> 			<p>TERMINAL AQUAVIÁRIO DE ITAQUI</p> 			</td> 			<td> 			<p>TEQUIMAR ITAQUI</p> 			</td> 			<td> 			<p>TERMINAL QUÍMICO DE ARATU S/A TEQUIMAR</p> 			</td> 			<td> 			<p>14.688.220/0017-21</p> 			</td> 			<td> 			<p>12.421191-7</p> 			</td> 		</tr> 	</tbody> </table>

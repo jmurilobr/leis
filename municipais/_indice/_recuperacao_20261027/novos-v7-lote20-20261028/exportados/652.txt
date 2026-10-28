@@ -1,0 +1,123 @@
+---
+titulo: "04 - Lei Ordinária nº 1.123, de 13 de abril de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "1123"
+data: "2021-04-13"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1019"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1018/text"
+sha256_fonte: "85b56b4968cdf4c7d616d6166ded64d342b90fdf98acb553e29fd230132df859"
+sha256_texto: "2f90016b8084295db32efa01b43cacda992f93faa3907b34716d3294831956c3"
+capturado_em_fonte: "2026-10-28T06:03:31.438196-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 1.123, de 13 de abril de 2021
+
+Abre Crédito Adicional Suplementar e da outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Fica aberto no corrente exercício o Crédito Adicional Suplementar, no orçamento geral do Município, no valor de R$ 2.137.750,00 (dois milhões cento e trinta e sete mil setecentos e cinquenta reais) destinado ao reforço das seguintes dotações orçamentárias.
+
+
+**Suplementação:**
+
+04.000.00.000.0000.0.000. SECRETARIA DE DESENVOLVIMENTO ECONÔMICO
+
+04.003.00.000.0000.0.000. FUNDO AMBIENTAL E DO DESENVOLVIMENTO RURAL
+
+04.003.18.541.0300.2.190. MANUTENÇÃO ATIVIDADES DE RESPONSABILIDADE AMBIENTAL
+
+560 - 4.4.90.52.00.00 31843 EQUIPAMENTOS E MATERIAL PERMANENTE 270.000,00
+
+05.000.00.000.0000.0.000. SECRETARIA DE VIAÇÃO, URBANISMO E OBRAS PÚBLICAS
+
+05.002.00.000.0000.0.000. DEPARTAMENTO RODOVIÁRIO MUNICIPAL
+
+05.002.26.782.0330.1.115. REEQUIPAMENTO DA FROTA MUNICIPAL
+
+557 - 4.4.90.52.00.00 31882 EQUIPAMENTOS E MATERIAL PERMANENTE 382.000,00
+
+05.003.00.000.0000.0.000. DEPARTAMENTO DE INFRA-ESTRUTURA, OBRAS E SERVIÇOS
+
+URBANOS
+
+05.003.15.451.0310.1.145. PAVIMENTAÇÃO DE VIAS URBANAS E RURAIS - ASFÁLTICA,
+
+RECAPE, REVITALIZAÇÃO E COM PEDRAS IRREGULARES
+
+555 - 4.4.90.51.00.00 31880 OBRAS E INSTALAÇÕES 950.000,00
+
+556 - 4.4.90.51.00.00 31881 OBRAS E INSTALAÇÕES 238.750,00
+
+05.003.15.451.0310.1.160. CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE PRÓPRIOS
+
+MUNICIPAIS
+
+559 - 4.4.90.51.00.00 31843 OBRAS E INSTALAÇÕES 240.000,00
+
+05.003.15.451.0310.2.210. MANUTENÇÃO DEPARTAMENTO DE INFRA-ESTRUTURA,
+
+OBRAS E SERVIÇOS
+
+558 - 4.4.90.52.00.00 31877 EQUIPAMENTOS E MATERIAL PERMANENTE 57.000,00
+
+**Total Suplementação: 2.137.750,00**
+
+
+Art. 2º.
+
+Para atender o disposto no Art. 1º desta Lei, servirá como recurso o provável Excesso de Arrecadação conforme disposto no Art. 43, § 3º, da Lei Federal nº 4.320 de 17 de março de 1964, na alínea da Receita discriminada abaixo, no valor de R$ 2.137.750,00 (dois milhões cento e trinta e sete mil setecentos e cinquenta reais):
+
+
+**Receita:**
+
+Receita: 2.4.1.8.10.71.11.00000000 Fonte: 31881 238.750,00
+
+Receita: 2.4.1.8.10.91.07.00000000 Fonte: 31882 382.000,00
+
+Receita: 2.4.2.8.10.71.09.00000000 Fonte: 31880 950.000,00
+
+Receita: 1.7.5.8.99.11.01.00000000 Fonte: 31843 510.000,00
+
+Receita: 2.4.2.8.10.91.00.00000000 Fonte: 31877 57.000,00
+
+**Total da Receita: 2.137.750,00**
+
+
+Art. 3º.
+
+Fica o Poder Executivo Municipal autorizado a atualizar os valores constantes de anexos previstos na LDO - Lei de Diretrizes Orçamentárias e PPA – Plano Plurianual de investimentos considerando o cumprimento das normas estabelecidas no SIM-AM (Sistema de Informações Municipais - Acompanhamento Mensal) do Tribunal de Contas do Estado, especificamente com referência ao Módulo Planejamento.
+
+
+Art. 4º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná
+
+Em 13 de abril de 2021, 60º da Emancipação Política.
+
+Dangelles Decki
+
+Prefeito Municipal em Exercício
+
+Não substitui o texto publicado no DOE 1283 de 13/04/2021, pág. 06-07.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1019/ta
+

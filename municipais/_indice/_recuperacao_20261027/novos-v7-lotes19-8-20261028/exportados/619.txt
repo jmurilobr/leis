@@ -1,0 +1,55 @@
+---
+titulo: "04 - Lei Ordinária nº 1.273, de 20 de dezembro de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "1273"
+data: "2024-12-20"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1366"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1372/text"
+sha256_fonte: "5c9037dfa15b8bda7159a31a8b30b7ab226e960fb05a467a039fc972503a84bd"
+sha256_texto: "b5198db218fb962d112740c785bf3255c1b78a0630fa1db00c51c0784934de9a"
+capturado_em_fonte: "2026-10-28T04:42:51.625388-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 1.273, de 20 de dezembro de 2024
+
+Dispõe sobre a denominação do Plenário da Câmara Municipal de Corbélia que passa a ser denominado “Plenário Vereador Adão Barboza”.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+LEI
+
+
+Art. 1º.
+
+Esta Lei dá denominação ao Plenário da Câmara Municipal de Corbélia.
+
+
+Art. 2º.
+
+O Plenário da Câmara Municipal de Corbélia, localizado na Rua Amor Perfeito, 1622, passa a ser denominado de “Plenário Vereador Adão Barboza”.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná  
+Em 20 de dezembro de 2024, 64º da Emancipação Política.
+
+GIOVANI MIGUEL WOLF HNATUW  
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 2186 de 20/12/2024, pág. 553-554.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1366/ta
+

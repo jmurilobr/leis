@@ -1,0 +1,251 @@
+{
+  "candidato": {
+    "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2026/decretos-841-2026-sapl-2637.md",
+    "preimagem": "municipais/_indice/_recuperacao_20261027/observacoes-bibliograficas-ta-privado-20261028/candidato-29/preimagem.txt",
+    "candidato": "municipais/_indice/_recuperacao_20261027/observacoes-bibliograficas-ta-privado-20261028/candidato-29/candidato.txt",
+    "sha256_preimagem": "27087eb8ea9b1967d12c4c30b8377b9d3db957cfc93ddd6e40799d12fa49a876",
+    "sha256_candidato": "9f31cd1777037961891b2be3e50c9314c7f8741d4a8948a1b110c3239ad39d7d",
+    "materializacao": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0025-v7/resultados.jsonl",
+    "sha256_materializacao": "49eae2752bd0d136fe2237debd1c98f975065d7de23bc71a057eb945c89a444f",
+    "controle_contexto": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0025-v7/controle.json",
+    "sha256_controle_contexto": "a49c2770431932f3370fe1a6249d5745d56672bdd2b4d574dc2e337e0b337fa4",
+    "classificacao": {
+      "modelo": "AEMERJ-publicacao-data-edicao-autenticidade-v1",
+      "data_publicacao_atribuida_API": "2026-07-30",
+      "edicao_atribuida_API": "4173",
+      "URL_literal": "https://www.diariomunicipal.com.br/aemerj/",
+      "observacao_literal": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 30/07/2026. Edição 4173 A verificação de autenticidade da matéria pode ser feita informando o código identificador no site: https://www.diariomunicipal.com.br/aemerj/",
+      "limite": "Descrição bibliográfica atribuída à API; não confirma acesso ao diário, autenticidade externa, vigência ou equivalência entre edições."
+    },
+    "campos_acrescentados": [
+      "observacao_fonte",
+      "fonte_metadados",
+      "sha256_metadados_fonte"
+    ],
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/475889457062b0dc9b332e9febe9ae1f64f8de24a266647fbf017d967f1cbc43.json",
+      "url": "https://sapl.engenheiropaulodefrontin.rj.leg.br/api/norma/normajuridica/2637/",
+      "url_final": "https://sapl.engenheiropaulodefrontin.rj.leg.br/api/norma/normajuridica/2637/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6338890d1c741302c6d0acbd33e3aa55f5cc43cddb2d6d65abca21d158f9e9fe",
+      "bytes": 1263,
+      "capturado_em": "2026-10-28T10:27:49.555247-03:00"
+    },
+    "fonte": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/3a5f34c83b10f340e84bb5207f1bef8399fe7da21bae512ab08ad9b75b062382.html",
+      "url": "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/2637",
+      "url_final": "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/2185/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "5584ba02d0287562d4e299a95dcb9bc784b641aabe9a6c41de37c589a1c6977a",
+      "bytes": 23713,
+      "capturado_em": "2026-10-28T10:27:51.007837-03:00",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/3a5f34c83b10f340e84bb5207f1bef8399fe7da21bae512ab08ad9b75b062382.meta.json",
+      "sha256_metadata": "450bb78b2c02cafb713196874ea5e21d60ac37d0a249df5ce22ab163b0133051"
+    }
+  },
+  "replay": {
+    "aprovado": true,
+    "classificacao": {
+      "modelo": "AEMERJ-publicacao-data-edicao-autenticidade-v1",
+      "data_publicacao_atribuida_API": "2026-07-30",
+      "edicao_atribuida_API": "4173",
+      "URL_literal": "https://www.diariomunicipal.com.br/aemerj/",
+      "observacao_literal": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 30/07/2026. Edição 4173 A verificação de autenticidade da matéria pode ser feita informando o código identificador no site: https://www.diariomunicipal.com.br/aemerj/",
+      "limite": "Descrição bibliográfica atribuída à API; não confirma acesso ao diário, autenticidade externa, vigência ou equivalência entre edições."
+    },
+    "replay": {
+      "aprovado": true,
+      "igualdade_caracteres_nao_brancos": true,
+      "assinatura_numerica_confere": true,
+      "marcacao_tachado_por_caractere_confere": true,
+      "atributos_contextuais_tachados_conferem": true,
+      "tachados_fonte": [],
+      "tachados_renderizados": [],
+      "markup_tachado_fonte": [],
+      "markup_tachado_renderizado": [],
+      "ativos": [
+        "dptt79851",
+        "dptt79852",
+        "dptt79853",
+        "dptt79854",
+        "dptt79855",
+        "dptt79856",
+        "dptt79857",
+        "dptt79858",
+        "dptt79859",
+        "dptt79860",
+        "dptt79861",
+        "dptt79862",
+        "dptt79863",
+        "dptt79864"
+      ],
+      "historicos_excluidos": [],
+      "normalizacoes_heading": [],
+      "listas": [],
+      "prova_tabelas": null,
+      "sha256_visivel_fonte": "655098ccf5bfe320f72f7c800015346465d4e227e0998193188c563245a34c27",
+      "sha256_visivel_renderizado": "655098ccf5bfe320f72f7c800015346465d4e227e0998193188c563245a34c27",
+      "sha256_html_renderizado": "0c4e2c0bbab62d193a24bdfdb6d82b9ded4c7da2fef41e2d2f08237c8cfc8461",
+      "contexto": null
+    },
+    "CSS": {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/decretos/2026/decretos-841-2026-sapl-2637.md",
+      "lote": "observacao_bibliografica_privada",
+      "sha256_candidato": "9f31cd1777037961891b2be3e50c9314c7f8741d4a8948a1b110c3239ad39d7d",
+      "sha256_HTML_primario": "5584ba02d0287562d4e299a95dcb9bc784b641aabe9a6c41de37c589a1c6977a",
+      "fonte_HTML": "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/2185/text",
+      "font_face_declarados_sem_provar_uso": [],
+      "regras_perigosas_sem_match_normativo": [],
+      "seletores_nao_resolvidos": [],
+      "regras_condicionais_com_match": [],
+      "pseudo_elementos_com_match": [],
+      "inline_interessantes": [],
+      "eventos_texto_efetivo_DOM": [],
+      "stylesheets_externas_nao_consultadas": [
+        "/static/sapl/frontend/css/chunk-vendors.045ec640.css",
+        "/static/sapl/frontend/css/global.042f6737.css",
+        "/static/sapl/frontend/css/chunk-vendors.045ec640.css",
+        "/static/sapl/frontend/css/compilacao.0baf3580.css"
+      ],
+      "regras_CSS_examinadas": [],
+      "fontes_CSS_efetivas": [],
+      "ativos": [
+        "dptt79851",
+        "dptt79852",
+        "dptt79853",
+        "dptt79854",
+        "dptt79855",
+        "dptt79856",
+        "dptt79857",
+        "dptt79858",
+        "dptt79859",
+        "dptt79860",
+        "dptt79861",
+        "dptt79862",
+        "dptt79863",
+        "dptt79864"
+      ],
+      "historicos_desativados": [],
+      "tachados_explicitos_selecionador_independente": 0,
+      "dispositivos_ativos_classe_revogado": []
+    },
+    "corpo_H1_identidade_datas_captura_iguais": true,
+    "campos_acrescentados": [
+      "observacao_fonte",
+      "fonte_metadados",
+      "sha256_metadados_fonte"
+    ],
+    "sha256_metadados_fonte": "6338890d1c741302c6d0acbd33e3aa55f5cc43cddb2d6d65abca21d158f9e9fe",
+    "API_status": 200,
+    "API_capturado_em_original": "2026-10-28T10:27:49.555247-03:00",
+    "gates_originais": {
+      "tabelas_nativas_prova": null,
+      "tipo_oficial": "DECRETO EXECUTIVO",
+      "identidade_literal": {
+        "epigrafes": [
+          {
+            "tipo": "DECRETO EXECUTIVO-PMEPF",
+            "numero": "841",
+            "numero_normalizado": "841",
+            "trecho": "DECRETO EXECUTIVO-PMEPF Nº 841, DE 28 DE JULHO DE 2026",
+            "tipo_completo_literal": true,
+            "data_literal": "2026-07-28"
+          }
+        ],
+        "numero_metadado": "841",
+        "numero_literal_confirmado": true,
+        "data_literal_confirmada": true,
+        "divergencias": [],
+        "limite": "Tipo completo aceito somente quando literal e igual ao cadastro oficial; todos os números e datas encontrados devem concordar. Divergências do parser anterior são preservadas. Jurisdição, fonte, anexos, contexto e vigência continuam sujeitos aos demais gates. Sufixo institucional preservado literalmente, sem determinar a esfera por ele.",
+        "rotulo_oficial_com_sufixo": "DECRETO EXECUTIVO-PMEPF nº 841, de 28 de julho de 2026",
+        "tipo_literal_no_rotulo": "DECRETO EXECUTIVO-PMEPF",
+        "prova_rotulo_api": {
+          "epigrafes": [
+            {
+              "tipo": "DECRETO EXECUTIVO-PMEPF",
+              "numero": "841",
+              "numero_normalizado": "841",
+              "trecho": "DECRETO EXECUTIVO-PMEPF Nº 841, DE 28 DE JULHO DE 2026",
+              "tipo_completo_literal": true,
+              "data_literal": "2026-07-28"
+            }
+          ],
+          "numero_metadado": "841",
+          "numero_literal_confirmado": true,
+          "data_literal_confirmada": true,
+          "divergencias": [],
+          "limite": "Tipo completo aceito somente quando literal e igual ao cadastro oficial; todos os números e datas encontrados devem concordar. Divergências do parser anterior são preservadas. Jurisdição, fonte, anexos, contexto e vigência continuam sujeitos aos demais gates."
+        }
+      },
+      "categoria": "decretos",
+      "tipo_canonico": "Decreto",
+      "titulo_literal": "DECRETO EXECUTIVO-PMEPF nº 841, de 28 de julho de 2026",
+      "tokens_ativos": 796,
+      "dispositivos_ativos": 14,
+      "historicos_excluidos": 0,
+      "cortes_de_vigencia_declarados": [],
+      "anexos_proprios": 0,
+      "limite": "Corte declarado é atribuído ao portal. Ausência de corte não certifica atualização nem vigência integral.",
+      "prova_tachados_preservados": {
+        "aprovado": true,
+        "igualdade_caracteres_nao_brancos": true,
+        "assinatura_numerica_confere": true,
+        "marcacao_tachado_por_caractere_confere": true,
+        "atributos_contextuais_tachados_conferem": true,
+        "tachados_fonte": [],
+        "tachados_renderizados": [],
+        "markup_tachado_fonte": [],
+        "markup_tachado_renderizado": [],
+        "ativos": [
+          "dptt79851",
+          "dptt79852",
+          "dptt79853",
+          "dptt79854",
+          "dptt79855",
+          "dptt79856",
+          "dptt79857",
+          "dptt79858",
+          "dptt79859",
+          "dptt79860",
+          "dptt79861",
+          "dptt79862",
+          "dptt79863",
+          "dptt79864"
+        ],
+        "historicos_excluidos": [],
+        "normalizacoes_heading": [],
+        "listas": [],
+        "prova_tabelas": null,
+        "sha256_visivel_fonte": "655098ccf5bfe320f72f7c800015346465d4e227e0998193188c563245a34c27",
+        "sha256_visivel_renderizado": "655098ccf5bfe320f72f7c800015346465d4e227e0998193188c563245a34c27",
+        "sha256_html_renderizado": "0c4e2c0bbab62d193a24bdfdb6d82b9ded4c7da2fef41e2d2f08237c8cfc8461",
+        "contexto": null
+      }
+    },
+    "fonte": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/3a5f34c83b10f340e84bb5207f1bef8399fe7da21bae512ab08ad9b75b062382.html",
+      "url": "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/2637",
+      "url_final": "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/2185/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "5584ba02d0287562d4e299a95dcb9bc784b641aabe9a6c41de37c589a1c6977a",
+      "bytes": 23713,
+      "capturado_em": "2026-10-28T10:27:51.007837-03:00",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/3a5f34c83b10f340e84bb5207f1bef8399fe7da21bae512ab08ad9b75b062382.meta.json",
+      "sha256_metadata": "450bb78b2c02cafb713196874ea5e21d60ac37d0a249df5ce22ab163b0133051"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/475889457062b0dc9b332e9febe9ae1f64f8de24a266647fbf017d967f1cbc43.json",
+      "url": "https://sapl.engenheiropaulodefrontin.rj.leg.br/api/norma/normajuridica/2637/",
+      "url_final": "https://sapl.engenheiropaulodefrontin.rj.leg.br/api/norma/normajuridica/2637/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6338890d1c741302c6d0acbd33e3aa55f5cc43cddb2d6d65abca21d158f9e9fe",
+      "bytes": 1263,
+      "capturado_em": "2026-10-28T10:27:49.555247-03:00"
+    },
+    "matrizes": null
+  }
+}

@@ -1,0 +1,106 @@
+---
+titulo: "Lei nº 2.112, de 17 de dezembro de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2112"
+data: "2013-12-17"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/1167"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/2781/text"
+sha256_fonte: "4f74ecfc193bfd6332e3382293e07e74ed880c11be9635b1b4bb9fd83d9b2f6e"
+sha256_texto: "596bd04bab35e533580933d4bc1be0dea875dbb4b588e8198e6808520227eafe"
+capturado_em_fonte: "2026-10-27T21:02:03.741672-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 2.112, de 17 de dezembro de 2013
+
+“Institui o Programa Municipal de Educação Ambiental e Consciência Ecológica e dá outras providências”.
+
+
+**O PRESIDENTE DA CÂMARA MUNICIPAL DE PORTO VELHO,** Vereador **ALAN KUELSON QUEIROZ FEDER,** no uso das atribuições que lhe confere o § 2º, do artigo 72 da Lei Orgânica do Município, combinado com o § 2º e 6º, do art. 165 da Resolução nº. 254/CMPV-91 - REGIMENTO INTERNO, PROMULGA a seguinte
+
+**LEI:**
+
+
+Art. 1º.
+
+Fica instituído o Programa Municipal de Educação Ambiental e Consciência Ecológica, com o objetivo de promover ações que visam à formação da consciência ecológica dos estudantes da rede pública municipal.
+
+
+Art. 2º.
+
+Compete ao Poder Executivo, junto com a SEMMA – Secretaria Municipal do Meio Ambiente, na execução e coordenação do Programa, desenvolver atividades extra classe, com a realização de palestras destinadas à formação da consciência ecológica do educando, coordenação de atividades práticas do plantio de árvores, preservação das matas ciliares e nascentes dos rios, coleta seletiva dos resíduos sólidos, bem como promover a educação ambiental, com ênfase na importância da preservação das florestas de biodiversidade.
+
+
+§ 1º
+
+O Poder Executivo promoverá a participação de entidades não governamentais de proteção ao meio ambiente na realização das atividades que trata o programa.
+
+
+§ 2º
+
+A participação no Programa de que trata esta Lei fica restrita a entidade cadastrada no órgão público competente e nos demais órgãos envolvidos na questão ambiental do Município.
+
+
+Art. 3º.
+
+As unidades escolares estabelecerão, no seu plano anual de trabalho, número de horas suficientes para a aplicação do programa de que trata esta Lei, planejando preferencialmente a realização das atividades.
+
+
+Art. 4º.
+
+A entidade interessada em participar do programa de que trata a presente Lei formalizará termo de cooperação com as escolas municipais, ouvidos os seus colegiados e ou representantes, não implicando ônus para o Poder Público.
+
+
+Art. 5º.
+
+A entidade que participar do programa de que trata esta Lei poderá divulgar, para fins promocionais e publicitários, as ações praticadas em benefícios da escola com a qual celebrará termo de cooperação.
+
+
+§ 1º
+
+No termo de cooperação firmado com a entidade, deverá constar a obrigatoriedade de deixar arquivado junto ao estabelecimento de ensino todo o material utilizado nos projetos quais sejam: apostilas, relatórios, pareceres, fotos e avaliação técnica final procedida por profissional habilitado da Secretaria Municipal de Educação.
+
+
+§ 2º
+
+Os projetos que se sucedem numa mesma escola deverão ser articulados e integrados de acordo a não haver sobreposições ou repartições de contudo já aplicados.
+
+
+§ 3º
+
+A Secretaria Municipal de Educação deverá proceder avaliação criteriosa de cada projeto, objetivando impedir o desenvolvimento de projetos de baixo nível ou não adequados à realidade escolar da comunidade respectiva.
+
+
+Art. 6º.
+
+Cumpridas as atividades estabelecidas no termo de cooperação a entidade remeterá à Secretaria Municipal de Educação e seus órgãos afins, relatório das atividades desenvolvidas.
+
+
+Art. 7º.
+
+A Secretaria Municipal de Educação encaminhará as unidades municipais de ensino, no início de cada ano letivo, o tema a ser trabalhado pelas entidades não governamentais que se dispuserem a participar do Programa que trata a presente Lei.
+
+
+Art. 8º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Câmara Municipal de Porto Velho, 17 de dezembro de 2013.
+
+***Vereador ALAN QUEIROZ***
+
+***Presidente***
+
+Projeto de Lei nº. 2.894/2013
+
+Vereador Alan Queiroz - PSDB
+

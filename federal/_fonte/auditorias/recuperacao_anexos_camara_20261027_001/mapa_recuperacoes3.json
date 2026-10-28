@@ -1,0 +1,216 @@
+{
+  "escopo": "Mapa privado consolidado das três recuperações CLBR, somente para leitura/promoção ROOT posterior. Nenhum canônico, imagem canônica ou registro foi alterado pelo agente.",
+  "HEAD_conferido": "c482863d23dcc99bd205fc6b7bf860532ec6aa03",
+  "sha256_guard_integrado": "3cd60ac4a398a27cc0f646f891e853f6b120b1a963deb4cc9f0ccfd7d6ca0cd0",
+  "resumo": {
+    "candidatos": 3,
+    "MD_a_substituir": 3,
+    "imagens_normativas": 3,
+    "promovidos": 0
+  },
+  "substituicoes": [
+    {
+      "path": "federal/decretos/1947/dec-24107-1947-11-25.md",
+      "HEAD_preimagem": "c482863d23dcc99bd205fc6b7bf860532ec6aa03",
+      "OID_HEAD": "a89c462355b1308e510bbf731931220d1c3152c3",
+      "sha256_preimagem_HEAD": "2729ab0bebc5e515c7b0513f3228b5c1b383d47df051e05d887f9fea4617d0f5",
+      "candidato": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/dec-24107-1947-11-25-clbr.md",
+      "sha256_candidato": "6174129c8ca02c113e1dd123deb5c3c475a1b68e4d35b16c7d651f23c8a25abb",
+      "numero": "24107",
+      "data_adotada_da_epigrafe": "1947-11-25",
+      "epigrafe_clbr": "DECRETO N.º 24.107 — DE 25 DE NOVEMBRO DE 1947",
+      "fecho_literal_clbr": "Rio de Janeiro, em 25 de novembro de 1947; 126.º da Independência e 59.º da República.",
+      "data_epigrafe_indice_API": "1947-11-25",
+      "urn": "urn:lex:br:federal:decreto:1947-11-25;24107",
+      "fonte_clbr": {
+        "url": "https://bd.camara.leg.br/bd/bitstreams/6cfdd26f-5f4d-40fa-9607-6128d39a10ec/download",
+        "captura_utc": "2026-10-27T21:12:12.158012+00:00",
+        "catalogo": "1947-catalogo.html.gz",
+        "status": 200,
+        "url_final": "https://bd-rest.camara.leg.br/server/api/core/bitstreams/6cfdd26f-5f4d-40fa-9607-6128d39a10ec/content",
+        "headers": {
+          "server": "envoy",
+          "date": "Tue, 27 Oct 2026 21:12:13 GMT",
+          "content-type": "Adobe/PDF;charset=UTF-8",
+          "content-length": "76824670",
+          "vary": "Origin,Access-Control-Request-Method,Access-Control-Request-Headers",
+          "content-language": "en",
+          "last-modified": "Thu, 09 Oct 2014 14:44:01 GMT",
+          "etag": "\"581a7087e0c4491d887fa93090741bf5\"",
+          "accept-ranges": "bytes",
+          "expires": "Tue, 27 Oct 2026 22:12:13 GMT",
+          "cache-control": "private,no-cache",
+          "access-control-expose-headers": "Accept-Ranges",
+          "content-disposition": "attachment;filename=\"colecao_leis_1947_parte2.pdf\"",
+          "x-content-type-options": "nosniff",
+          "x-xss-protection": "0",
+          "strict-transport-security": "max-age=31536000 ; includeSubDomains",
+          "x-frame-options": "DENY",
+          "x-envoy-upstream-service-time": "369",
+          "connection": "close"
+        },
+        "path": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/1947-parte2.pdf",
+        "sha256": "eeb8a642fae45e498b17bbe95788064639bbd29df22870dd0e57ec1d4a488484",
+        "bytes": 76824670
+      },
+      "paginas_clbr": {
+        "316": 1716,
+        "317": 1717
+      },
+      "imagem": {
+        "candidato": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/pagina1717.png",
+        "destino_proposto": "federal/anexos/decretos/1947/dec-24107-1947-11-25-tabela.png",
+        "sha256": "b6cd4323abbec11bc92d6af1f7dcd66a9564f9bdd9d4da6f29f3cc96be994a2a",
+        "representacao": "Fac-símile integral da página 317, exclusivamente tabela deste decreto. Sem OCR substituindo a imagem.",
+        "preexistente_no_destino": false
+      },
+      "manifesto_candidato": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/candidato24107.json",
+      "sha256_manifesto_candidato": "052041b7ef414c7300e5a7863e10d87a100f6a0b24007b3c7f89557d073f00d0",
+      "QA": {
+        "erros_formato": 0,
+        "avisos_formato": 0,
+        "epigrafe_API_concordantes": true,
+        "imagem_existe_e_sha_conferido": true,
+        "corpo_e_anexo_mesma_edicao_CLBR": true,
+        "leitura_visual_ROOT_pendente": true
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-23913-1947-10-22.md",
+      "HEAD_preimagem": "c482863d23dcc99bd205fc6b7bf860532ec6aa03",
+      "OID_HEAD": "4c6c8cbc8c60a1a5fe75a50364accaa381eca4bd",
+      "sha256_preimagem_HEAD": "009aecfa20d2fbf395b9808d8ac973a982904049522ac4415fd8370e460b5650",
+      "candidato": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/dec-23913-1947-10-22-clbr_v2.md",
+      "sha256_candidato": "96c360cce74708c0db5747552e216dce2f3917c90641be3d945861f5e089bd7e",
+      "numero": "23913",
+      "data_adotada_da_epigrafe": "1947-10-22",
+      "epigrafe_clbr": "DECRETO N.º 23.913 — DE 22 DE OUTUBRO DE 1947",
+      "fecho_literal_clbr": "Rio de Janeiro, em 22 de outubro de 1947, 126.º da Independência e 59.º da República.",
+      "data_epigrafe_indice_API": "1947-10-22",
+      "urn": "urn:lex:br:federal:decreto:1947-10-22;23913",
+      "fonte_clbr": {
+        "url": "https://bd.camara.leg.br/bd/bitstreams/6cfdd26f-5f4d-40fa-9607-6128d39a10ec/download",
+        "captura_utc": "2026-10-27T21:12:12.158012+00:00",
+        "catalogo": "1947-catalogo.html.gz",
+        "status": 200,
+        "url_final": "https://bd-rest.camara.leg.br/server/api/core/bitstreams/6cfdd26f-5f4d-40fa-9607-6128d39a10ec/content",
+        "headers": {
+          "server": "envoy",
+          "date": "Tue, 27 Oct 2026 21:12:13 GMT",
+          "content-type": "Adobe/PDF;charset=UTF-8",
+          "content-length": "76824670",
+          "vary": "Origin,Access-Control-Request-Method,Access-Control-Request-Headers",
+          "content-language": "en",
+          "last-modified": "Thu, 09 Oct 2014 14:44:01 GMT",
+          "etag": "\"581a7087e0c4491d887fa93090741bf5\"",
+          "accept-ranges": "bytes",
+          "expires": "Tue, 27 Oct 2026 22:12:13 GMT",
+          "cache-control": "private,no-cache",
+          "access-control-expose-headers": "Accept-Ranges",
+          "content-disposition": "attachment;filename=\"colecao_leis_1947_parte2.pdf\"",
+          "x-content-type-options": "nosniff",
+          "x-xss-protection": "0",
+          "strict-transport-security": "max-age=31536000 ; includeSubDomains",
+          "x-frame-options": "DENY",
+          "x-envoy-upstream-service-time": "369",
+          "connection": "close"
+        },
+        "path": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/1947-parte2.pdf",
+        "sha256": "eeb8a642fae45e498b17bbe95788064639bbd29df22870dd0e57ec1d4a488484",
+        "bytes": 76824670
+      },
+      "paginas_clbr": {
+        "98": 1497,
+        "99": 1498
+      },
+      "imagem": {
+        "candidato": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/pagina1498.png",
+        "destino_proposto": "federal/anexos/decretos/1947/dec-23913-1947-10-22-tabela.png",
+        "sha256": "184ddd2d59760cf181cb786a15f7383a96a2f4cd6419896b35866f2284a04e63",
+        "representacao": "Fac-símile integral da página 99, exclusivamente tabela deste decreto.",
+        "preexistente_no_destino": false
+      },
+      "manifesto_candidato": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/candidato23913_v2.json",
+      "sha256_manifesto_candidato": "23ef42eb83b7c36868a802502ab5b1507f8505a88ec72340c5c99c43e2fa785f",
+      "QA": {
+        "erros_formato": 0,
+        "avisos_formato": 0,
+        "epigrafe_API_concordantes": true,
+        "imagem_existe_e_sha_conferido": true,
+        "corpo_e_anexo_mesma_edicao_CLBR": true,
+        "leitura_visual_ROOT_pendente": true
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-24136-1947-11-28.md",
+      "HEAD_preimagem": "c482863d23dcc99bd205fc6b7bf860532ec6aa03",
+      "OID_HEAD": "e95ff926e780d1339d0939264693cdc537c59630",
+      "sha256_preimagem_HEAD": "eeec67bb46944ffb34bd621b698e2eea90d2841a825dc058651c851fc2ddeba3",
+      "candidato": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/dec-24136-1947-11-28-clbr_v2.md",
+      "sha256_candidato": "344766b025c0c13b72bb3b1d087bee5f23e94f747fe36875d36c4cd96e0ab69c",
+      "numero": "24136",
+      "data_adotada_da_epigrafe": "1947-11-28",
+      "epigrafe_clbr": "DECRETO N.º 24.136 — DE 28 DE NOVEMBRO DE 1947",
+      "fecho_literal_clbr": "Rio de Janeiro, em 23 de novembro de 1947, 126.º da Independência e 59.º da República.",
+      "data_epigrafe_indice_API": "1947-11-28",
+      "urn": "urn:lex:br:federal:decreto:1947-11-28;24136",
+      "fonte_clbr": {
+        "url": "https://bd.camara.leg.br/bd/bitstreams/6cfdd26f-5f4d-40fa-9607-6128d39a10ec/download",
+        "captura_utc": "2026-10-27T21:12:12.158012+00:00",
+        "catalogo": "1947-catalogo.html.gz",
+        "status": 200,
+        "url_final": "https://bd-rest.camara.leg.br/server/api/core/bitstreams/6cfdd26f-5f4d-40fa-9607-6128d39a10ec/content",
+        "headers": {
+          "server": "envoy",
+          "date": "Tue, 27 Oct 2026 21:12:13 GMT",
+          "content-type": "Adobe/PDF;charset=UTF-8",
+          "content-length": "76824670",
+          "vary": "Origin,Access-Control-Request-Method,Access-Control-Request-Headers",
+          "content-language": "en",
+          "last-modified": "Thu, 09 Oct 2014 14:44:01 GMT",
+          "etag": "\"581a7087e0c4491d887fa93090741bf5\"",
+          "accept-ranges": "bytes",
+          "expires": "Tue, 27 Oct 2026 22:12:13 GMT",
+          "cache-control": "private,no-cache",
+          "access-control-expose-headers": "Accept-Ranges",
+          "content-disposition": "attachment;filename=\"colecao_leis_1947_parte2.pdf\"",
+          "x-content-type-options": "nosniff",
+          "x-xss-protection": "0",
+          "strict-transport-security": "max-age=31536000 ; includeSubDomains",
+          "x-frame-options": "DENY",
+          "x-envoy-upstream-service-time": "369",
+          "connection": "close"
+        },
+        "path": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/1947-parte2.pdf",
+        "sha256": "eeb8a642fae45e498b17bbe95788064639bbd29df22870dd0e57ec1d4a488484",
+        "bytes": 76824670
+      },
+      "paginas_clbr": {
+        "383": 1783,
+        "384": 1784
+      },
+      "imagem": {
+        "candidato": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/pagina1784.png",
+        "destino_proposto": "federal/anexos/decretos/1947/dec-24136-1947-11-28-tabelas.png",
+        "sha256": "a5493081b85d518741c523371fcbfad68958364603ea1c679038b596a2f2da56",
+        "representacao": "Fac-símile integral da página 384, exclusivamente tabela deste decreto.",
+        "preexistente_no_destino": false
+      },
+      "manifesto_candidato": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/candidato24136_v2.json",
+      "sha256_manifesto_candidato": "6428b40a05ddd5d7e1914d95d5eea1cf51d7bb2a5415fe7ae22de39e4038cf8e",
+      "QA": {
+        "erros_formato": 0,
+        "avisos_formato": 0,
+        "epigrafe_API_concordantes": true,
+        "imagem_existe_e_sha_conferido": true,
+        "corpo_e_anexo_mesma_edicao_CLBR": true,
+        "leitura_visual_ROOT_pendente": true
+      }
+    }
+  ],
+  "receipts": {
+    "path": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/receipts_recuperacoes3.jsonl.gz",
+    "sha256": "45abab774c84ddb73baa3d6c910b8804d8d491ca505497164b32e9ff9f1ff28d"
+  },
+  "limites": "Cada corpo principal foi transcrito da mesma edição CLBR que sua tabela fac-similar; a versão Normas anterior foi integralmente preservada. 24.136 conserva epígrafe 28 e fecho 23 sem presumir causa nem certificar retificação. 24.107 contém observação explícita de forma/norma para conferência ROOT. 23.932 não faz parte das recuperações: sua relação nominal continua ausente das páginas consultadas."
+}

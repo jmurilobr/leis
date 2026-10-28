@@ -1,0 +1,134 @@
+---
+titulo: "Decreto nº 17.128, de 06 de janeiro de 2021"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "17.128"
+data: "2021-01-06"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/11540"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/9280/text"
+sha256_fonte: "3b9b9395dbc44f5a66643098ceae86bbe0a8c1ffbe41f1035466a77bb4c6f254"
+sha256_texto: "01417eccdc1ad1797bea0682324e7b599629fa556525ea2c13a32df5648ebf85"
+capturado_em_fonte: "2026-10-21T07:10:52.671185-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 17.128, de 06 de janeiro de 2021
+
+“Nomeia membros para a composição do Conselho de Recursos Fiscais do Município de Porto Velho – CRF, para o biênio 2021-2022.”
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando das atribuições que lhe são conferidas pelo inciso IV, do artigo 87, da Lei Orgânica do Município de Porto Velho, fundamentado com o que estabelece a Lei Complementar nº. 691, de 14 de novembro de 2017, que alterou a estrutura organizacional e funcional do Conselho de Recursos Fiscais do Município de Porto Velho (CRF),
+
+**D E C R E T A:**
+
+**Art. 1º.** O Conselho de Recursos Fiscais do Município de Porto Velho – CRF, para o biênio 2021-2022, passa a ter a seguinte composição:
+
+**I – PRESIDÊNCIA:**
+
+a) Ana Cristina Cordeiro da Silva– Presidente
+
+Auditora do Tesouro Municipal – SEMFAZ;
+
+**II - REPRESENTANTES DA SECRETARIA MUNICIPAL DE FAZENDA NO CONSELHO DE RECURSOS FISCAIS**:
+
+a) Ari Carvalho dos Santos – Titular
+
+Auditor do Tesouro Municipal – SEMFAZ;
+
+b) Hugo Simão Alves Casini – Suplente
+
+Auditor do Tesouro Municipal – SEMFAZ;
+
+**III - CONSELHEIROS REPRESENTANTES DA SECRETARIA MUNICIPAL DE FAZENDA – PLENO:**
+
+**a) Titulares:**
+
+**1 –** Orlando de Melo Carvalho – Titular
+
+Auditor do Tesouro Municipal – SEMFAZ;
+
+**2 –** Felipe Ampuero Marques– Titular
+
+Técnico Jurídico – PGM;
+
+**3 –** Jailson Viana de Almeida – Titular
+
+Auditor do Tesouro Municipal – SEMFAZ;
+
+**b) Suplentes:**
+
+**1 –** Rômulo Barbosa Maltez – 1º Suplente
+
+Auditor do Tesouro Municipal – SEMFAZ;
+
+**2 –** Antonio Figueiredo de Lima Filho – 2º Suplente
+
+Técnico Jurídico – PGM;
+
+**3 –** Reginilde Mota de Lima Cedaro– 3º Suplente
+
+Auditora do Tesouro Municipal – SEMFAZ;
+
+**IV - CONSELHEIROS REPRESENTANTES DAS ENTIDADES DE CLASSES EMPRESARIAIS – PLENO:**
+
+**a) Titulares:**
+
+**1 –** Rose Mary Evangelista da Silva – Titular
+
+Federação do Comércio do Estado de Rondônia – Fecomércio;
+
+**2 –** Agno Roberto Monteiro Pereira – Titular
+
+Associação Comercial do Estado de Rondônia – ACR;
+
+**3 –** Dyego Alves Mello – Titular
+
+Federação das Indústrias do Estado de Rondônia – FIERO;
+
+**b) Suplentes:**
+
+**1 –** Canísio Hartmann – Suplente
+
+Federação do Comércio do Estado de Rondônia – Fecomércio;
+
+**2 -** Deyvison Barbosa Moraes – Suplente
+
+Associação Comercial do Estado de Rondônia – ACR;
+
+**3 –** Pamela Duarte Silva – Suplente
+
+Federação das Indústrias do Estado de Rondônia – FIERO;
+
+**V - JULGADORES MONOCRÁTICOS DE PRIMEIRA INSTÂNCIA:**
+
+**a) Titulares:**
+
+**1 –** Leila Martins Nogueira Hentges – 1ª Julgadoria Monocrática (PMJ);
+
+**2 –** Simone Cristina Zwuirtes – 2ª Julgadoria Monocrática (SJM);
+
+**3 –** Ailton Furtado – 3ª Julgadoria Monocrática (TJM).
+
+**b) Suplentes:**
+
+**1 –** Samuel Belarmino Junior – 1ª Julgadoria Monocrática (PMJ);
+
+**2 –** Paulo Henrique Kemp – 2ª Julgadoria Monocrática (SJM);
+
+**3 –** Márcio Jean Gonçalves da Silva – 3ª Julgadoria Monocrática (TJM).
+
+**Art. 2º.** Este Decreto entra em vigor na data de sua publicação, com efeitos a partir de 1º de janeiro de 2021 até 31 de dezembro de 2022.
+
+**Art. 3º**. Revogam-se as disposições em contrário.
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito
+

@@ -1,0 +1,72 @@
+---
+titulo: "Lei Ordinária nº 7.673, de 30 de junho de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "7673"
+data: "2026-06-30"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/8463"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/3667/text"
+sha256_fonte: "c3246c7f9891e01279fae8be9a13856b6051e29109b8450780c76c5b33dd314b"
+sha256_texto: "93f2315753182635e7b5cc28e43f711c7fedf1aef055d4c4727faaf4470ad84f"
+capturado_em_fonte: "2026-10-27T17:42:53.634784-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 7.673, de 30 de junho de 2026
+
+AUTORIZA O MUNICÍPIO DE BIRIGUI A ABRIR CRÉDITO ADICIONAL ESPECIAL NA LEI Nº 7.620/2025 – LEI ORÇAMENTÁRIA DE 2026, NA LEI Nº 7.555/2025 – LEI DE DIRETRIZES ORÇAMENTÁRIAS DE 2026 E NA LEI Nº 7.606/2025 – PLANO PLURIANUAL – PPA DE 2026 A 2029 E ALTERAÇÕES, E PROVIDÊNCIAS CORRELATAS.  
+Projeto de Lei nº 50/2026, de autoria da Prefeita Municipal.
+
+
+Eu, **SAMANTA PAULA ALBANI BORINI**, Prefeita Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,
+
+**FAÇO SABER** que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a abrir por decreto, crédito adicional especial de até R$ 70.000,00 (setenta mil reais) na Lei nº 7.606/2025 – PPA 2026/2029 e alterações, na Lei nº 7.555/2025 – LDO de 2026 e alterações e na Lei nº 7.620/2025 – Lei Orçamentária de 2026, com as seguintes classificações contábeis:
+
+
+<table><tbody><tr><td colspan="2">02.10.00 – SECRETARIA MUNICIPAL DE SAÚDE</td></tr><tr><td colspan="2">02.10.01 – FUNDO MUNICIPAL DE SAÚDE</td></tr><tr><td>FUNÇÃO:</td><td>10 - Saúde</td></tr><tr><td>SUB-FUNÇÃO:</td><td>301 – Atenção Básica</td></tr><tr><td>PROGRAMA:</td><td>0019 – Saúde Mais Próxima de Você</td></tr><tr><td>ATIVIDADE:</td><td>1.028 – Construção da Unidade Básica de Saúde – Parque São Vicente</td></tr><tr><td>Elemento Econômico:</td><td>4.4.90.51.00 – Obras e Instalações</td></tr><tr><td>Fonte de Recurso:</td><td>05 – Transferências e Convênios Federais - Vinculados</td></tr><tr><td>Valor:</td><td>R$ 70.000,00 (setenta mil reais)</td></tr></tbody></table>
+
+
+Art. 2º.
+
+O credito adicional especial de que trata o artigo 1º desta Lei correrá à conta de recursos especificados no art. 43, § 1º, inciso I, da Lei Federal nº 4.320, de 17 de março de 1964, combinado com o disposto no parágrafo único do art. 8º da Lei Federal Complementar 101/00, **SUPERAVIT FINANCEIRO** apurado no fechamento do exercício anterior, vinculado a Fonte 05 – Transferências e Convênios Federais, depositado na Caixa Econômica Federal – CEF – FMS SUS INVESTIMENTO - conta nº 200575848899-9 – Vínculo Detalhado 05.300.0249, Fonte 927.
+
+
+Art. 3º.
+
+As alterações constantes nesta Lei, serão efetuadas concomitantemente no PPA – Plano Plurianual 2026 a 2029 e na LDO – Lei de Diretrizes Orçamentárias, para o exercício corrente.
+
+
+Art. 4º.
+
+As dotações incluídas na presente Lei poderão ser suplementadas, se necessário, através de Decreto do Executivo Municipal até o limite de vinte por cento do presente crédito.
+
+
+Art. 5º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Birigui, aos trinta de junho de dois mil e vinte e seis.
+
+**SAMANTA PAULA ALBANI BORINI Prefeita Municipal**
+
+**VIVIANE MARY SANCHES BARBOSA Secretária Municipal de Negócios Jurídicos**
+
+**PAULO REBECCHI Secretário Municipal de Planejamento e Finanças**
+
+Publicada na Secretaria de Municipal de Governo da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**MARCOS GAJARDONI FERNANDES Secretário Adjunto Municipal da Casa Civil**
+

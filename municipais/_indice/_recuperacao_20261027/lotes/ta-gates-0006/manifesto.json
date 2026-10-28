@@ -1,0 +1,37 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 4: admite somente tabelas nativas com prova independente de células, ordem e mesclagens. Mantém todos os demais gates. Também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 586,
+  "aprovados_nestes_gates": 464,
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0006/sapl.barramansa.rj.leg.br.prefixo.jsonl",
+      "sha256": "eb0dea25c825a92c950050343aa51065bf808ce77cd2ed4019206021ab1a8256",
+      "bytes": 918870
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0006/sapl.barramansa.rj.leg.br.tipos.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "2a904eaa8a812d4332b02387e555e89ce3caa877fc074d79115c56b22d652c06"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0006/sapl.barramansa.rj.leg.br.anexos.json",
+      "sha256": "ba928264001791e4d63540c36b166e2de7087a43a3301615d7cd965bffb60126"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0006/sapl.birigui.sp.leg.br.prefixo.jsonl",
+      "sha256": "8f1d13da8d5c16ab22ff1360b1517e3048e83c29fcf8d723f67e7f20d5086605",
+      "bytes": 975225
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0006/sapl.birigui.sp.leg.br.tipos.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "107e983d5703d542568cb6b71cd3142a27fa2ea1c95a64fc9d2b8bcc107d079d"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0006/sapl.birigui.sp.leg.br.anexos.json",
+      "sha256": "80934cb9a7c8b35437e32bb1eafd9e7e54e44cf5a6d5434c585def7ed8c33e27"
+    }
+  ],
+  "script_sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

@@ -1,0 +1,62 @@
+---
+titulo: "Lei nº 562, de 17 de dezembro de 1991"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "562"
+data: "1991-12-17"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/1059"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/2362/text"
+sha256_fonte: "02bcf2cc1a3bc6e73a82dd1f02b5c52bf8ddf7ee85be5e114f17460542121349"
+sha256_texto: "77c47ec244c0e1b90d8736b8732f4ce59a3baf291ce8ccbfc0dcb145b11b0cc6"
+capturado_em_fonte: "2026-10-27T20:34:20.551519-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 562, de 17 de dezembro de 1991
+
+Autoriza o Poder Executivo a contratar Parceladamente (ou Reparcelamento) de dívida para com o Fundo de Garantia do Tempo de Serviço -FGTS, e dá providências correlatas.
+
+
+O Prefeito do Município de Buritis, Estado de Minas Gerais, faço saber que a Câmara Municipal de Buritis/MG, decreta, e eu Prefeito Municipal de Buritis/MG, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a em nome do Município de Buritis/MG, contratar Parcelamento (ou Reparcelamento) de dívida para com o FGTS, através da Caixa Econômica Federal, na forma da Resolução nº 042 de 24/06/91, do Conselho Curador do FGTS, no valor de Cr$ 34.710.127,08 (trinta e quatro milhões, setecentos e dez mil, cento e vinte sete cruzeiros e oito centavos).
+
+
+Art. 2º.
+
+Para a garantia do principal e acessórios, fica o Poder Executivo Municipal, autorizado a utilizar parcelas do FPM (Fundo de Participação dos Municípios), durante o prazo de vigência do Parcelamento (ou Reparcelamento) autorizado por esta lei.
+
+
+Art. 3º.
+
+O Poder Executivo Municipal consignará nos Orçamentos Anual e Plurianual do Município durante o prazo que vier a ser estabelecido para o Parcelamento (ou Reparcelamento), dotações suficientes à amortização do principal e acessórios resultantes do cumprimento desta lei.
+
+
+Art. 4º.
+
+Esta lei entrará em vigor a partir da data de sua publicação.
+
+
+Art. 5º.
+
+Revogam-se as disposições em contrário.
+
+
+Buritis/MG, 17 de dezembro de 1991.
+
+**Maria das Dores Reis Soares Assessora Especial de Comunicação**
+
+**Elizeu Nadir Nunes Lopes Prefeito Municipal**
+
+Projeto de lei nº 302 de 21/11/91. Aprovado em 2ª discussão por =08= votos a favor e =00= votos contra. Sala das Sessões, 16 de dezembro de 1991.
+

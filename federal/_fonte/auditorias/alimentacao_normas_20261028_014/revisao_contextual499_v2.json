@@ -1,0 +1,656 @@
+{
+  "alertas_revisados": [
+    {
+      "path": "federal/decretos/1925/dec-16852-1925-03-27.md",
+      "sha256_HTML": "1f159c9222e34b4e9aa7909342e53e81e8c0db2a83d6c598066c4ffb9a769b7d",
+      "sha256_MD_preliminar": "bbd82fa635cce6a31861f40291c2aff45202aeefa9f7d2e2b769a496414c5f9d",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Fórmula literal de autoridade preservada; comando, epígrafe, metadados e fecho próprios concordam.",
+      "contexto": {
+        "path": "federal/decretos/1925/dec-16852-1925-03-27.md",
+        "urn": "urn:lex:br:federal:decreto:1925-03-27;16852",
+        "sha256_HTML": "1f159c9222e34b4e9aa7909342e53e81e8c0db2a83d6c598066c4ffb9a769b7d",
+        "sha256_metadados": "3b1dc26ec872ca28d38209331bb46eab6168797609b2493b8bea3b7e500f81f7",
+        "sha256_MD_preliminar": "bbd82fa635cce6a31861f40291c2aff45202aeefa9f7d2e2b769a496414c5f9d",
+        "epigrafe": {
+          "numero": "16852",
+          "data": "1925-03-27",
+          "epigrafe": "DECRETO N. 16.852 – DE 27 DE MARÇO DE 1925"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/4010fd5c-ca8b-4057-acde-345c64de6142/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T12:32:04.210741+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_014/requests/04e54f8c729fb3992ba0dee351d4f6c60e3ccbf9ecb8d3e023d0e7ec2a14f142.raw.gz",
+          "sha256_raw": "1f159c9222e34b4e9aa7909342e53e81e8c0db2a83d6c598066c4ffb9a769b7d",
+          "bytes": 17176
+        },
+        "prefixo_antes_primeiro_artigo": "**DECRETO N. 16.852 – DE 27 DE MARÇO DE 1925**\n\n***Altera os artigos 28,29 e 30 do Regulamento da Escola Naval, approvado pelo decreto n. 16.406, de 12 de março de 1924***\n\nO Presidente da Republica dos Estados Unidos do Brasil, usando da autorização contida no artigo 13 do decreto n.4.015, de 9 de janeiro de 1920, revigorada pelo artigo 11, do decreto n. 4.895, de 3 de dezembro de 1924, e attendendo ao que lhe expoz o almirante, reformado, Alexandrino Faria de Alencar, ministro da Marinha:\n\nResolve alterar os artigos 28, 29 e 30 do Regulamento da Escola Naval, approvado pelo decreto n.16.406 de 12 de março de 1924, substituindo-os pelos seguintes:",
+        "primeiro_bloco_de_artigo": "**Art. 28.** O 5º anno do curso a que se refere o art.11, será feito em conjuncto, no navio ou nos navios para esse fim designados pelo ministro da Marinha, e constará de um periodo de seis mezes.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 27 DE MARCO DE 1925",
+          "data": "1925-03-27",
+          "bloco_literal": "Rio de Janeiro, 27 de março de 1925, 104º da Independencia e 37º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "(*) DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, usando da autorização contida no artigo 13 do decreto n.4.015, de 9 de janeiro de 1920, revigorada pelo artigo 11, do decreto n. 4.895, de 3 de dezembro de 1924, e attendendo ao que lhe expoz o almirante, reformado, Alexandrino Faria de Alencar, ministro da Marinha:",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1923/dec-16208-1923-11-14.md",
+      "sha256_HTML": "639a31960fced489ad7c231b04d277831bccf934c8f25f0cf68a10cc7a503ad7",
+      "sha256_MD_preliminar": "6d7717366875306e508a1a6267d6d0ed8151afc46c942824dad7c376173e5a61",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Fórmula literal de autoridade preservada; comando, epígrafe, metadados e fecho próprios concordam.",
+      "contexto": {
+        "path": "federal/decretos/1923/dec-16208-1923-11-14.md",
+        "urn": "urn:lex:br:federal:decreto:1923-11-14;16208",
+        "sha256_HTML": "639a31960fced489ad7c231b04d277831bccf934c8f25f0cf68a10cc7a503ad7",
+        "sha256_metadados": "1e12dd48683810ca28da71fa31a03b43458badb2619d5a622feec566cb5a2f3e",
+        "sha256_MD_preliminar": "6d7717366875306e508a1a6267d6d0ed8151afc46c942824dad7c376173e5a61",
+        "epigrafe": {
+          "numero": "16208",
+          "data": "1923-11-14",
+          "epigrafe": "DECRETO N. 16.208 – DE 14 DE NOVEMBRO DE 1923"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/b3b37991-8896-4bea-a99d-10d962ad4710/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T12:39:32.722118+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_014/requests/73c6cea16d76b5a257c420a0f32ba0db4d17159efc3e965f2b531b6979b9cdb3.raw.gz",
+          "sha256_raw": "639a31960fced489ad7c231b04d277831bccf934c8f25f0cf68a10cc7a503ad7",
+          "bytes": 10559
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 16.208 – DE 14 DE NOVEMBRO DE 1923\n\nAltera o § 2º do art. 86 do regulamento para os Serviços Administrativos dos corpos de tropa e estabelecimentos militares.\n\nO Presidente da Republica dos Estados Unidos do Brasil, usando da attribuição que lhe confere o art. 48, n. 1 da Constituição, resolve alterar da fórma abaixo indicada o § 2º do art. 86 do regulamento para os Serviços Administrativos dos corpos de tropa e estabelecimentos militares, approvado por decreto n. 15.536, de 28 de junho de 1922:",
+        "primeiro_bloco_de_artigo": "**Art.** 86...",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 14 DE NOVEMBRO DE 1923",
+          "data": "1923-11-14",
+          "bloco_literal": "Rio de Janeiro, 14 de novembro de 1923, 102º da Independencia e 35º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, usando da attribuição que lhe confere o art. 48, n. 1 da Constituição, resolve alterar da fórma abaixo indicada o § 2º do art. 86 do regulamento para os Serviços Administrativos dos corpos de tropa e estabelecimentos militares, approvado por decreto n. 15.536, de 28 de junho de 1922:",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1922/dec-15426-1922-04-01.md",
+      "sha256_HTML": "697d14715c7694d435b48dacbe1e2152bb1be731ce40a6a3cd629f1cdbee1ac2",
+      "sha256_MD_preliminar": "1f22a05887059667a14e522a05e119ab0017e39a0bb345127dcb36f2534adf34",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Novas redações expressamente delimitadas aos artigos 6 e 45, ambos presentes; reforma pontual, não aprovação genérica de estatuto omitido.",
+      "contexto": {
+        "path": "federal/decretos/1922/dec-15426-1922-04-01.md",
+        "urn": "urn:lex:br:federal:decreto:1922-04-01;15426",
+        "sha256_HTML": "697d14715c7694d435b48dacbe1e2152bb1be731ce40a6a3cd629f1cdbee1ac2",
+        "sha256_metadados": "cbe27cdf53fd89c9555f61360f200ebff70a50c66cfbb1f0a45103bd82fd6321",
+        "sha256_MD_preliminar": "1f22a05887059667a14e522a05e119ab0017e39a0bb345127dcb36f2534adf34",
+        "epigrafe": {
+          "numero": "15426",
+          "data": "1922-04-01",
+          "epigrafe": "DECRETO N. 15.426 – DE 1 DE ABRIL DE 1922"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/f81bbe65-1109-4de5-b53c-2d90b599380f/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T12:52:08.182013+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_014/requests/aa6dd15aa281faa9b02785c06c59c061e96b2e129c2612e4c0723cdaea1d0569.raw.gz",
+          "sha256_raw": "697d14715c7694d435b48dacbe1e2152bb1be731ce40a6a3cd629f1cdbee1ac2",
+          "bytes": 10878
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 15.426 – DE 1 DE ABRIL DE 1922\n\nApprova as alterações feitas nos estatutos da Banque Françoise et Italienne pour l’Amérique du Sud pelas assembléas realizadas em 21 de dezembro de 1918 e 30 de abril de 1919, augmentando o seu capital para 50 milhões de francos.\n\nO Presidente da Republica dos Estados Unidos do Brasil, attendendo ao que requereu a Banque Française et Italienne pour l’Amérique du Sud, com séde em Paris, França e autorizada a funccionar na Republica pelo decreto n. 8.169, de 25 de agosto de 1910, resolve approvar as deliberações tomadas pelas assembléas geraes de 21 de dezembro de 1918 e 30 de abril de 1919 do referido banco, pelas quaes o seu capital social ficou augmentado de vinte e cinco para cincoenta milhões de francos passando os artigos dos seus estatutos, abaixo mencionados, a ser redigidos na fórma que se segue:",
+        "primeiro_bloco_de_artigo": "**Art. 6º** O capital social é fixado com cincoenta milhoes de francos, dividido em cem mil acções de quinhentos francos.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 1 DE ABRIL DE 1922",
+          "data": "1922-04-01",
+          "bloco_literal": "Rio de Janeiro, 1 de abril de 1922, 101º da Independencia e 34º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "###DEC-004555-0-000-10-08-1922@@@"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, attendendo ao que requereu a Banque Française et Italienne pour l’Amérique du Sud, com séde em Paris, França e autorizada a funccionar na Republica pelo decreto n. 8.169, de 25 de agosto de 1910, resolve approvar as deliberações tomadas pelas assembléas geraes de 21 de dezembro de 1918 e 30 de abril de 1919 do referido banco, pelas quaes o seu capital social ficou augmentado de vinte e cinco para cincoenta milhões de francos passando os artigos dos seus estatutos, abaixo mencionados, a ser redigidos na fórma que se segue:",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1923/dec-16246-1923-12-05.md",
+      "sha256_HTML": "6a4ebcda5453267433271a47ae37058bcd74a2d48874b29907e07879b245dfbc",
+      "sha256_MD_preliminar": "dc2ce56b375a945da4682dc79c3b975881519e76419b4ca9d57e25bc0ebda048",
+      "decisao": "retido",
+      "fundamento": "Ato aprova estatutos ou resoluções de assembleia com alterações especificadas, mas reproduz somente modificações selecionadas; conjunto documental aprovado não comprovado na transcrição. Retenção contextual, sem concluir ausência em outras fontes.",
+      "contexto": {
+        "path": "federal/decretos/1923/dec-16246-1923-12-05.md",
+        "urn": "urn:lex:br:federal:decreto:1923-12-05;16246",
+        "sha256_HTML": "6a4ebcda5453267433271a47ae37058bcd74a2d48874b29907e07879b245dfbc",
+        "sha256_metadados": "59224fb63c84796b76e00a07baf5779a5d85b56d880858777bc453e3ec8e7174",
+        "sha256_MD_preliminar": "dc2ce56b375a945da4682dc79c3b975881519e76419b4ca9d57e25bc0ebda048",
+        "epigrafe": {
+          "numero": "16246",
+          "data": "1923-12-05",
+          "epigrafe": "DECRETO N. 16.246 – DE 5 DE DEZEMBRO DE 1923"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/ff92757b-59ef-4d9a-a41a-743a3273e443/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T12:38:58.156883+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_014/requests/29515959a1e0b37622b3e08c6957af10149a9020c26bf4de020aa1ecd58820f2.raw.gz",
+          "sha256_raw": "6a4ebcda5453267433271a47ae37058bcd74a2d48874b29907e07879b245dfbc",
+          "bytes": 13730
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 16.246 – DE 5 DE DEZEMBRO DE 1923\n\nApprova com modificações, os novos estatutos do Banco dos Funccionarios Publicos, elaborados em assembléa geral extraordinaria de 14 de agosto do corrente anno\n\nO Presidente da Republica dos Estados Unidos do Brasil, attendendo ao que requereu o Banco dos Funccionarios Publicos, resolve approvar os novos estatutos do Banco dos Funccionarios Publicos, elaborados em assembléa geral extraordinaria de 14 de agosto do corrente anno, com as seguintes modificações:",
+        "primeiro_bloco_de_artigo": "**Art. 3º** Sua duração será de quarenta annos, contados da data da installação (janeiro de 1891), podendo o prazo ser prorogado por deliberação da assembléa geral, com approvação do Governo.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 5 DE DEZEMBRO DE 1923",
+          "data": "1923-12-05",
+          "bloco_literal": "Rio de Janeiro, 5 de dezembro de 1923, 102º da Independencia e 35º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, attendendo ao que requereu o Banco dos Funccionarios Publicos, resolve approvar os novos estatutos do Banco dos Funccionarios Publicos, elaborados em assembléa geral extraordinaria de 14 de agosto do corrente anno, com as seguintes modificações:",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1924/dec-16453-1924-04-09.md",
+      "sha256_HTML": "4b84ac78650b96d3fac78efa28b8ec7bb6143357e47d36e85a48fe19fda91530",
+      "sha256_MD_preliminar": "dd8cfbc321caaddd5be5f0a5ecdc18117add1bf97cb68a6292e053f01ab9d8c0",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Fórmula literal de autoridade preservada; comando, epígrafe, metadados e fecho próprios concordam.",
+      "contexto": {
+        "path": "federal/decretos/1924/dec-16453-1924-04-09.md",
+        "urn": "urn:lex:br:federal:decreto:1924-04-09;16453",
+        "sha256_HTML": "4b84ac78650b96d3fac78efa28b8ec7bb6143357e47d36e85a48fe19fda91530",
+        "sha256_metadados": "569578ba4e6afaea8f7d7ae7d60fbe4dbc27d815c4cba11544ff677d8ba8c66e",
+        "sha256_MD_preliminar": "dd8cfbc321caaddd5be5f0a5ecdc18117add1bf97cb68a6292e053f01ab9d8c0",
+        "epigrafe": {
+          "numero": "16453",
+          "data": "1924-04-09",
+          "epigrafe": "DECRETO N. 16.453 – DE 9 DE ABRIL DE 1924"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/cce08db1-3952-4b1c-a2ab-ee5b0237d475/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T12:36:09.716572+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_014/requests/e86fe03c679a3b653ab13d30cfbbbfbc86fb3a86bca1ca8434dac8ac5fbad402.raw.gz",
+          "sha256_raw": "4b84ac78650b96d3fac78efa28b8ec7bb6143357e47d36e85a48fe19fda91530",
+          "bytes": 8976
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 16.453 – DE 9 DE ABRIL DE 1924\n\nAltera o art. 114, 4º, do regulamento para os collegios militares\n\nO Presidente da Republica dos Estados Unidos do Brasil, usando da attribuição que lhe confere o art. 48, n. 1, da Constituição, resolve alterar o § 4º do art. 114 do regulamento para os collegios militares, approvado por decreto numero 15.416, de 27 de março de 1922, o qual fica assim redigido:",
+        "primeiro_bloco_de_artigo": "**Art. 114** .....................................................................................................................................................",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 9 DE ABRIL DE 1924",
+          "data": "1924-04-09",
+          "bloco_literal": "Rio de Janeiro, 9 de abril de 1924, 103º da Independencia e 36º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "###DEC-016379-0-000-20-02-1924@@@"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, usando da attribuição que lhe confere o art. 48, n. 1, da Constituição, resolve alterar o § 4º do art. 114 do regulamento para os collegios militares, approvado por decreto numero 15.416, de 27 de março de 1922, o qual fica assim redigido:",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1923/dec-15991-1923-03-23.md",
+      "sha256_HTML": "8540caea8c3ef89f3ac0ec0d05dda6c6bd33f335b00d518b77da11eec369a9c9",
+      "sha256_MD_preliminar": "a94d987c7658ddefd529e96b0e1cf422205693fe8b845410868a3d9ddfb5430f",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Fórmula literal de autoridade preservada; comando, epígrafe, metadados e fecho próprios concordam.",
+      "contexto": {
+        "path": "federal/decretos/1923/dec-15991-1923-03-23.md",
+        "urn": "urn:lex:br:federal:decreto:1923-03-23;15991",
+        "sha256_HTML": "8540caea8c3ef89f3ac0ec0d05dda6c6bd33f335b00d518b77da11eec369a9c9",
+        "sha256_metadados": "2ac13c0477e5443925efafb18a9a43c5cb4151a176e1e553cc2d96428a454c00",
+        "sha256_MD_preliminar": "a94d987c7658ddefd529e96b0e1cf422205693fe8b845410868a3d9ddfb5430f",
+        "epigrafe": {
+          "numero": "15991",
+          "data": "1923-03-23",
+          "epigrafe": "DECRETO N. 15.991 – DE 23 DE MARÇO DE 1923"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/0b90e100-500a-4410-8f29-c01a6b3659d6/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T12:42:57.243396+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_014/requests/8fd277b71ded53b80e4fc321af85ce8f6bc382e01aacd7f1b2a8573b91f0617f.raw.gz",
+          "sha256_raw": "8540caea8c3ef89f3ac0ec0d05dda6c6bd33f335b00d518b77da11eec369a9c9",
+          "bytes": 9514
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 15.991 – DE 23 DE MARÇO DE 1923\n\nAltera a alinea a, 3º, do art. 31 do regulamento das Escolas de Intendencia\n\nO Presidente da Republica dos Estados Unidos do Brasil, usando da attribuição que lhe confere o art. 48, n. 1, da Constituição, resolve alterar pela fórma abaixo indicada o art. 31, 3º, alinea a, do regulamento das Escolas de Intendencia, approvado por decreto n. 14.764, de 7 de abril de 1921:",
+        "primeiro_bloco_de_artigo": "**Art.** 31.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 23 DE MARCO DE 1923",
+          "data": "1923-03-23",
+          "bloco_literal": "Rio de Janeiro, 23 de março de 1923, 102º da Independencia e 35º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "###LEI-004632-0-000-06-01-1923@@@"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, usando da attribuição que lhe confere o art. 48, n. 1, da Constituição, resolve alterar pela fórma abaixo indicada o art. 31, 3º, alinea a, do regulamento das Escolas de Intendencia, approvado por decreto n. 14.764, de 7 de abril de 1921:",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1925/dec-16836-1925-03-03.md",
+      "sha256_HTML": "5a01f09f28e0769bae65c267804038f021b367d434fd7d758d0bcee3fae79732",
+      "sha256_MD_preliminar": "01ec757f395fc9cfc76a6fe2dcedfc677a0a3ea2b35c9c5bcc491c5440e2b470",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Grafia literal Presidenle preservada; transferência de favores anteriores sem nova aprovação das plantas antigas.",
+      "contexto": {
+        "path": "federal/decretos/1925/dec-16836-1925-03-03.md",
+        "urn": "urn:lex:br:federal:decreto:1925-03-03;16836",
+        "sha256_HTML": "5a01f09f28e0769bae65c267804038f021b367d434fd7d758d0bcee3fae79732",
+        "sha256_metadados": "be0acaccd8fdce7ea9ad4948068e76f3b33f023a6530fbdf0bd228fbb3ef1d13",
+        "sha256_MD_preliminar": "01ec757f395fc9cfc76a6fe2dcedfc677a0a3ea2b35c9c5bcc491c5440e2b470",
+        "epigrafe": {
+          "numero": "16836",
+          "data": "1925-03-03",
+          "epigrafe": "DECRETO N. 16.836 – DE 3 DE MARÇO DE 1925"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/f90213e6-131a-492b-98d8-2eea7e72c224/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T12:32:20.179264+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_014/requests/b6e24444fbceb6d274034252d225f99231916a2eba8eb65a680cb817e2b8a05a.raw.gz",
+          "sha256_raw": "5a01f09f28e0769bae65c267804038f021b367d434fd7d758d0bcee3fae79732",
+          "bytes": 16793
+        },
+        "prefixo_antes_primeiro_artigo": "**DECRETO N. 16.836 – DE 3 DE MARÇO DE 1925**\n\n***Autoriza a transferencia á „The São Paulo Tramway, Light and Power Company, Limited“ dos favores de que gosa a \"Companhia Brasileira de Energia Electrica“ para o aproveitamento da força hydraulica do rio Itapanhaú, no Estado de S. Paulo.***\n\nO Presidenle da Republica dos Estados Unidos do Brasil, attendendo ao que requereram \"The São Paulo Tramway, Light and Power Company, Limited“ e a „Companhia Brasileira de Energia Electrica“, esta ultima cessionaria, ex-vi do decreto n. 7.456, de 15 de julho de 1909, dos favores concedidos a Guinle & Comp. pelo decreto n. 7.052, de 30 de julho de 1908, para o aproveitamento da força hydraulica do rio Itapanhaú, no Estado de S. Paulo,\n\n**DECRETA:**",
+        "primeiro_bloco_de_artigo": "**Artigo unico.** Fica autorizada a transferencia a \"The São-Paulo Tramway, Light and Power Company, Limited“, dos favores concedidos a Guinle & Comp., pelo decreto n. 7.052, de 30 de julho de 1908, e transferidos á „Companhia Brasileira de Energia Electrica“ pelo decreto n. 7.456, de 15 de julho de 1909, para o aproveitamento da força hydraulica do rio Itapanhaú, no municipio de Santos, Estado de S. Paulo, e aos quaes se referem os decretos ns. 7.100, de 3 de setembro de 1908, e 8.626, de 29 de março de 1911, que approvaram as plantas da linha de transmissão de energia electrica aproveitada daquelle rio e da bifurcação dessa linha, bem como declararam de utilidade publica as respectivas desapropriações.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 3 DE MARCO DE 1925",
+          "data": "1925-03-03",
+          "bloco_literal": "Rio de Janeiro, 3 de março de 1925, 104º da Independencia e 37º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "(*) DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": null,
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1925/dec-17102-1925-10-28.md",
+      "sha256_HTML": "7f7ee021571ee7cfae682e5ff3cac7f2d7734486a49a80c8f86166d8e8e51fe0",
+      "sha256_MD_preliminar": "af4aa06a2ddb3c16da4ac29295345bf641270a092b5aff04a9c39d564f886f05",
+      "decisao": "retido",
+      "fundamento": "Ato aprova estatutos ou resoluções de assembleia com alterações especificadas, mas reproduz somente modificações selecionadas; conjunto documental aprovado não comprovado na transcrição. Retenção contextual, sem concluir ausência em outras fontes.",
+      "contexto": {
+        "path": "federal/decretos/1925/dec-17102-1925-10-28.md",
+        "urn": "urn:lex:br:federal:decreto:1925-10-28;17102",
+        "sha256_HTML": "7f7ee021571ee7cfae682e5ff3cac7f2d7734486a49a80c8f86166d8e8e51fe0",
+        "sha256_metadados": "16095968bc687682d08ce07c26a098489e040774ac08c4ee82a34fc256b4a8aa",
+        "sha256_MD_preliminar": "af4aa06a2ddb3c16da4ac29295345bf641270a092b5aff04a9c39d564f886f05",
+        "epigrafe": {
+          "numero": "17102",
+          "data": "1925-10-28",
+          "epigrafe": "DECRETO N. 17.102 – DE 28 DE OUTUBRO DE 1925"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/cb50689c-ebf9-4971-a57e-f4682a4e623b/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T12:28:04.055888+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_014/requests/0eaad88ab501921fafc907570d55e3b23a239bccbcb80ca5c73b13b052e6f011.raw.gz",
+          "sha256_raw": "7f7ee021571ee7cfae682e5ff3cac7f2d7734486a49a80c8f86166d8e8e51fe0",
+          "bytes": 21092
+        },
+        "prefixo_antes_primeiro_artigo": "**DECRETO N. 17.102 – DE 28 DE OUTUBRO DE 1925**\n\n***Concede autorização á Companhia Nacional de Seguros „Alliança de Minas Geraes.“ para funccionar na Republica e approva seus estatutos.***\n\nO Presidente da Republica dos Estados Unidos do Brasil, attendendo ao que requereu a Companhia Nacional de Seguros „AIIiança de Minas Geraes“, com séde na cidade de Bello Horizonte, Estado de Minas Geraes, resolve conceder-lhe autorização para funccionar no territorio da Republica, operando em seguros e reseguros maritimos e terrestres, e approvar os estatutos com que se constituiu em assembléa geral realizada a 3 de maio do anno corrente, mediante as seguintes clausulas :\n\nI\n\nA Companhia Nacional de Seguros „Alliança de Minas Geraes“ funccionará sujeita integralmente ás leis e regulamentos em vigor ou que vierem a vigorar sobre o objecto de suas operações.\n\nII\n\nOs estatutos da companhia são approvados com as alterações abaixo, que deverão ser ratificadas por uma assembléa geral extraordinaria, antes da realização do deposito de garantia inicial:",
+        "primeiro_bloco_de_artigo": "**Art. 2º** – Redija-se da seguinte maneira : „A companhia tem a sua séde, para todos os effeitos juridicos, nesta cidade de Bello Horinzonte e reserva, desde já, para si, privilegio de foro, salvo o disposto no § 3º do art. 35 do Codigo Civil“.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 28 DE OUTUBRO DE 1925",
+          "data": "1925-10-28",
+          "bloco_literal": "Rio de Janeiro, 28 de outubro de 1925, 104º da Independencia e 37º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "###DEC-017096-0-000-28-10-1925@@@"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, attendendo ao que requereu a Companhia Nacional de Seguros „AIIiança de Minas Geraes“, com séde na cidade de Bello Horizonte, Estado de Minas Geraes, resolve conceder-lhe autorização para funccionar no territorio da Republica, operando em seguros e reseguros maritimos e terrestres, e approvar os estatutos com que se constituiu em assembléa geral realizada a 3 de maio do anno corrente, mediante as seguintes clausulas :",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1926/dec-17249-1926-03-24.md",
+      "sha256_HTML": "f9f1bfe0d949e3c3caf6e516665e809e453def17bf4d9c12ab90fc5c63f8661b",
+      "sha256_MD_preliminar": "74d1bfb81307592dec0d97a51ab8b6ab195f72067ca42029a4aa5a1b57f3e7b0",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Grafia literal Presidenta preservada; desapropriação para executar projeto aprovado por ato anterior, sem comando de anexo novo.",
+      "contexto": {
+        "path": "federal/decretos/1926/dec-17249-1926-03-24.md",
+        "urn": "urn:lex:br:federal:decreto:1926-03-24;17249",
+        "sha256_HTML": "f9f1bfe0d949e3c3caf6e516665e809e453def17bf4d9c12ab90fc5c63f8661b",
+        "sha256_metadados": "9fab56477268a159bf948de542053e520e18942d87a00e984857b72e4f53a63c",
+        "sha256_MD_preliminar": "74d1bfb81307592dec0d97a51ab8b6ab195f72067ca42029a4aa5a1b57f3e7b0",
+        "epigrafe": {
+          "numero": "17249",
+          "data": "1926-03-24",
+          "epigrafe": "DECRETO N. 17.249 – DE 24 DE MARÇO DE 1926"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/8db9177b-405f-41fd-87d6-2d7663c9c545/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T12:25:51.580298+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_014/requests/4d46a7e0e99fe6dd16cc6faa63afec7653d2e201cc811188ff04fb645a0f4ae0.raw.gz",
+          "sha256_raw": "f9f1bfe0d949e3c3caf6e516665e809e453def17bf4d9c12ab90fc5c63f8661b",
+          "bytes": 16365
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 17.249 – DE 24 DE MARÇO DE 1926\n\n**Desapropria o trecho da rua Figueira de Mello, comprehendido entre o viaducto da Estrada de Ferro Central do Brasil e a rua Francisco Eugenio para execução do decreto n. 16.513, de 25 de junho de 1924**\n\nO Presidenta da Republica dos Estados Unidos do Brasil, de accordo com o decreto n. 4.956, de 9 de setembro de 1903 e art. 590, § 2º, ns. II e III do Codigo Civil,\n\nDECRETA:",
+        "primeiro_bloco_de_artigo": "**Artigo unico.** Fica desapropriado em favor da União o trecho da rua Figueira de Mello comprehendido entre o viaducto da Estrada de Ferro Central do Brasil e a rua Francisco Eugenio, necessario á execução do projecto de construcção da estação inicial das linhas de bitola estreita na Capital da Republica, approvado pelo decreto n. 16. 513, de 25 de junho de 1924.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 24 DE MARCO DE 1926",
+          "data": "1926-03-24",
+          "bloco_literal": "Rio de Janeiro, 24 de março de 1926, 105º da Independencia e 38º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": null,
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1926/dec-17363-1926-06-23.md",
+      "sha256_HTML": "3321c8f3cefee67f0f93f455bd13453e4d16dc5c0cf2b45bfc52d85e6f1e42a1",
+      "sha256_MD_preliminar": "815cff556bb86a3a375c9d133b8e52a3bc6c43ad8ac238f699a86a15fc02a4a7",
+      "decisao": "retido",
+      "fundamento": "Ato aprova estatutos ou resoluções de assembleia com alterações especificadas, mas reproduz somente modificações selecionadas; conjunto documental aprovado não comprovado na transcrição. Retenção contextual, sem concluir ausência em outras fontes.",
+      "contexto": {
+        "path": "federal/decretos/1926/dec-17363-1926-06-23.md",
+        "urn": "urn:lex:br:federal:decreto:1926-06-23;17363",
+        "sha256_HTML": "3321c8f3cefee67f0f93f455bd13453e4d16dc5c0cf2b45bfc52d85e6f1e42a1",
+        "sha256_metadados": "3e3cee96129013a269eb631baf577f3cb015523214b34c9711d72c645c66401b",
+        "sha256_MD_preliminar": "815cff556bb86a3a375c9d133b8e52a3bc6c43ad8ac238f699a86a15fc02a4a7",
+        "epigrafe": {
+          "numero": "17363",
+          "data": "1926-06-23",
+          "epigrafe": "DECRETO N. 17.363 – DE 23 DE JUNHO DE 1926"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/e36afeb8-1015-41a8-a69b-77dea03c9791/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T12:24:00.592504+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_014/requests/e2be9464f3b7d3571510ed3259c5e2ea6c9f74c9b4f762662086307c0f60a5b8.raw.gz",
+          "sha256_raw": "3321c8f3cefee67f0f93f455bd13453e4d16dc5c0cf2b45bfc52d85e6f1e42a1",
+          "bytes": 20386
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 17.363 – DE 23 DE JUNHO DE 1926\n\n**Concede prorogação do prazo de duração da Companhia de Seguros Terrestres e Maritimos „Indemnisadora“, com séde em Recife, e approva seus novos estatutos adoptados pela assembléa geral extraordinaria de 26 de novembro de 1925**\n\nO Presidente da Republica dos Estados Unidos do Brasil, attendendo ao que requereu a sociedade anonyma Companhia de Seguros Terrestres e Maritimos „Indemnisadora“, com séde em Recife, Capital do Estado de Pernambuco, resolve approvar as resoluções da sua assembléa geral extraordinaria realizada em 26 de novembro de 1925, prorogando o prazo da duração social até 31 do dezembro de 1954 e adoptando novos estatutos, mediante as seguintes condições:\n\nI\n\nA companhia continuará integralmente sujeita ás leis e regulamentos vigentes ou que vierem a vigorar sobre as operações de seguros.\n\nII\n\nOs estatutos ficam approvados com as modificações abaixo, que deverão ser ratificados pela companhia, dentro do prazo de trinta dias, por deliberação de assembléa geral extraordinaria:",
+        "primeiro_bloco_de_artigo": "**Art. 1º** – Intercalem-se entre „capital do Estado de Pernambuco\" e – „sob a denominação“, as seguintes palavras \"onde tem séde“. Accrescente-se o seguinte paragrapho: \" O prazo de duração da companhia é de trinta annos, a partir de 1 de janeiro de 1925 e a terminar em 31 de dezembro de 1954.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 23 DE JUNHO DE 1926",
+          "data": "1926-06-23",
+          "bloco_literal": "Rio de Janeiro, 23 de junho de 1926, 105º da Independencia e 38º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, attendendo ao que requereu a sociedade anonyma Companhia de Seguros Terrestres e Maritimos „Indemnisadora“, com séde em Recife, Capital do Estado de Pernambuco, resolve approvar as resoluções da sua assembléa geral extraordinaria realizada em 26 de novembro de 1925, prorogando o prazo da duração social até 31 do dezembro de 1954 e adoptando novos estatutos, mediante as seguintes condições:",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1925/dec-16793-1925-02-13.md",
+      "sha256_HTML": "0ea1e6ee34ecf2af5fabcc4a43931c51256ac7256ab26d310386ac9a4e22f269",
+      "sha256_MD_preliminar": "ff01839fa2e020093ef31d2415a92b0fbb0e6d581ca702e068333e290819cb0e",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Fórmula literal de autoridade preservada; comando, epígrafe, metadados e fecho próprios concordam.",
+      "contexto": {
+        "path": "federal/decretos/1925/dec-16793-1925-02-13.md",
+        "urn": "urn:lex:br:federal:decreto:1925-02-13;16793",
+        "sha256_HTML": "0ea1e6ee34ecf2af5fabcc4a43931c51256ac7256ab26d310386ac9a4e22f269",
+        "sha256_metadados": "e7731c3ea37dca0ea1dc6596bedc3cd49ba69293cd167a54301a28eb804b239f",
+        "sha256_MD_preliminar": "ff01839fa2e020093ef31d2415a92b0fbb0e6d581ca702e068333e290819cb0e",
+        "epigrafe": {
+          "numero": "16793",
+          "data": "1925-02-13",
+          "epigrafe": "DECRETO N. 16.793 – DE 13 DE FEVEREIRO DE 1925"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/8c04f94d-0099-48bc-8cb6-76b5acdd2550/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T12:33:00.707151+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_014/requests/3608ce0ba968b59120db38ae261a25e6281568e6852f7115d10b851b2b6495c5.raw.gz",
+          "sha256_raw": "0ea1e6ee34ecf2af5fabcc4a43931c51256ac7256ab26d310386ac9a4e22f269",
+          "bytes": 17061
+        },
+        "prefixo_antes_primeiro_artigo": "**DECRETO N. 16.793 – DE 13 DE FEVEREIRO DE 1925**\n\n***Altera o Regulamento para a Escola de Estado Maior***\n\nO Presidente da Republica dos Estados Unidos do Brasil, usando da attribuição, que lhe confere o art. 48, n. 1, da Constituição, resolve alterar, como abaixo especifica, o Regulamento para a Escola de Estado Maior, approvado pelo decreto n. 14.130, de 7 de abril de 1920, e alterado pelos de ns. 15.236, de 11 de janeiro de 1922, e 16.393, de 27 de fevereiro de 1924 :",
+        "primeiro_bloco_de_artigo": "**Art.** 1º........................................................................................................................................................",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO. 13 DE FEVEREIRO DE 1925",
+          "data": "1925-02-13",
+          "bloco_literal": "Rio de Janeiro. 13 de fevereiro de 1925, 104º da Independencia e 37º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "(*) DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, usando da attribuição, que lhe confere o art. 48, n. 1, da Constituição, resolve alterar, como abaixo especifica, o Regulamento para a Escola de Estado Maior, approvado pelo decreto n. 14.130, de 7 de abril de 1920, e alterado pelos de ns. 15.236, de 11 de janeiro de 1922, e 16.393, de 27 de fevereiro de 1924 :",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1924/dec-16393-1924-02-27.md",
+      "sha256_HTML": "71b0c26cee15aead03bceede642a9d62b7a502539230a4daadb2010fcb28eb73",
+      "sha256_MD_preliminar": "9479908555d60b3d3442572c45dbbbbd3633c476179430ad2280ab6de65d15ab",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Fórmula literal de autoridade preservada; comando, epígrafe, metadados e fecho próprios concordam.",
+      "contexto": {
+        "path": "federal/decretos/1924/dec-16393-1924-02-27.md",
+        "urn": "urn:lex:br:federal:decreto:1924-02-27;16393",
+        "sha256_HTML": "71b0c26cee15aead03bceede642a9d62b7a502539230a4daadb2010fcb28eb73",
+        "sha256_metadados": "7d2a35da6949db13038e08153bf6e8a66c34e3a634e7437832e05bef37ef6ae5",
+        "sha256_MD_preliminar": "9479908555d60b3d3442572c45dbbbbd3633c476179430ad2280ab6de65d15ab",
+        "epigrafe": {
+          "numero": "16393",
+          "data": "1924-02-27",
+          "epigrafe": "DECRETO N. 16.393 – DE 27 DE FEVEREIRO DE 1924"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/173e0bc6-1655-40d4-b16a-b97e3a63e9cf/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T12:37:07.670561+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_014/requests/47e7a1f7418ba3210ea676bc33cce89886dc3c1452148df0b6d2d2dd6e015338.raw.gz",
+          "sha256_raw": "71b0c26cee15aead03bceede642a9d62b7a502539230a4daadb2010fcb28eb73",
+          "bytes": 13469
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 16.393 – DE 27 DE FEVEREIRO DE 1924\n\nAltera o regulamento da Escola de Estado-Maior\n\nO Presidente da Republica dos Estados Unidos do Brasil, usando da autorização que lhe confere o art. 56, XXXI, da lei n. 4.632, de 6 de janeiro de 1923, revigorada pelo art. 173, alinea i, da de n. 4.793, de 7 de janeiro do corrente, resolve alterar, como abaixo se especifica, o regulamento para a Escola de Estado Maior, approvado por decreto n. 14.130, de 7 de abril de 1920, e alterado pelo de n. 15.236, de 11 de janeiro de 1922:",
+        "primeiro_bloco_de_artigo": "**Art. 1º** A Escola de Estado-Maior constará:",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 27 DE FEVEREIRO DE 1924",
+          "data": "1924-02-27",
+          "bloco_literal": "Rio de Janeiro, 27 de fevereiro de 1924, 103º da Independencia e 36º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "###DEC-016379-0-000-20-02-1924@@@"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, usando da autorização que lhe confere o art. 56, XXXI, da lei n. 4.632, de 6 de janeiro de 1923, revigorada pelo art. 173, alinea i, da de n. 4.793, de 7 de janeiro do corrente, resolve alterar, como abaixo se especifica, o regulamento para a Escola de Estado Maior, approvado por decreto n. 14.130, de 7 de abril de 1920, e alterado pelo de n. 15.236, de 11 de janeiro de 1922:",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1925/dec-17167-1925-12-23.md",
+      "sha256_HTML": "dbb937b5488f8ea7dfc4d0126845c43c95df8b63c820f2e286a06d28effb6a69",
+      "sha256_MD_preliminar": "4c2f41ad46dbdf65c36026a2325fa80a57943c375bf8d4dcecc996041b1ca5c5",
+      "decisao": "retido",
+      "fundamento": "Ato aprova estatutos ou resoluções de assembleia com alterações especificadas, mas reproduz somente modificações selecionadas; conjunto documental aprovado não comprovado na transcrição. Retenção contextual, sem concluir ausência em outras fontes.",
+      "contexto": {
+        "path": "federal/decretos/1925/dec-17167-1925-12-23.md",
+        "urn": "urn:lex:br:federal:decreto:1925-12-23;17167",
+        "sha256_HTML": "dbb937b5488f8ea7dfc4d0126845c43c95df8b63c820f2e286a06d28effb6a69",
+        "sha256_metadados": "1eed93926b06eaf89ca4635d22d9f89ed931918b3f948f1f257f5b8941b50ee6",
+        "sha256_MD_preliminar": "4c2f41ad46dbdf65c36026a2325fa80a57943c375bf8d4dcecc996041b1ca5c5",
+        "epigrafe": {
+          "numero": "17167",
+          "data": "1925-12-23",
+          "epigrafe": "DECRETO N. 17.167 – DE 23 DE DEZEMBRO DE 1925"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/e3bb9b32-35f8-4dcb-9f80-bce73059a913/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T12:27:03.098245+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_014/requests/57a17f272c2885c5898f0e8c96ed391519364e2c00625700c83d6b0c60f4f356.raw.gz",
+          "sha256_raw": "dbb937b5488f8ea7dfc4d0126845c43c95df8b63c820f2e286a06d28effb6a69",
+          "bytes": 17507
+        },
+        "prefixo_antes_primeiro_artigo": "**DECRETO N. 17.167 – DE 23 DE DEZEMBRO DE 1925**\n\n***Approva, com modificações, a alteração dos estatutos da Companhia de Seguros „Sagres\" com séde nesta Capital, e autorizada a funccionar pelo decreto n. 16.576, de 27 de agosto de 1924.***\n\nO Presidente da Republica dos Estados Unidos do Brasil, attendendo ao que requereu a companhia de Seguros „Sagres“, com séde nesta Capital, e autorizada a funccionar pelo decreto n. 16.576, de 27 de agosto de 1924, resolve approvar as resoluções da assembléa geral extraordinaria realizada a 14 de setembro de 1925, alterando os seus estatutos, mediante as seguintes clausulas:\n\nI\n\nA companhia continuará a funccionar sujeita integralmente ás leis e regulamentos em vigor ou que vierem a ser adoptados sobre o objeto de operações.\n\nII\n\nAs alterações são approvadas com as modificações abaixo, que deverão ser ratificadas por uma assembléa geral extraordinaria, antes de entrarem em execução:",
+        "primeiro_bloco_de_artigo": "**Art. 1º** – Supprimam-se as palavras – \"e fôro juridico\".",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 23 DE DEZEMBRO DE 1925",
+          "data": "1925-12-23",
+          "bloco_literal": "Rio de Janeiro, 23 de dezembro de 1925, 104º da Independencia e 37º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "###DEC-017096-0-000-28-10-1925@@@"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, attendendo ao que requereu a companhia de Seguros „Sagres“, com séde nesta Capital, e autorizada a funccionar pelo decreto n. 16.576, de 27 de agosto de 1924, resolve approvar as resoluções da assembléa geral extraordinaria realizada a 14 de setembro de 1925, alterando os seus estatutos, mediante as seguintes clausulas:",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1923/dec-16237-1923-12-05.md",
+      "sha256_HTML": "e70cfbbb4f143e6e7e29988d08940e48db75a147ba3c3a464956c354e681b0ee",
+      "sha256_MD_preliminar": "76871e69eb216869f46bfeaba920e03cc696f959c0131670c0d4743e0c9fdeee",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Fórmula literal de autoridade preservada; comando, epígrafe, metadados e fecho próprios concordam.",
+      "contexto": {
+        "path": "federal/decretos/1923/dec-16237-1923-12-05.md",
+        "urn": "urn:lex:br:federal:decreto:1923-12-05;16237",
+        "sha256_HTML": "e70cfbbb4f143e6e7e29988d08940e48db75a147ba3c3a464956c354e681b0ee",
+        "sha256_metadados": "dc7f0361b6446ea30d587fe82a1f9b428574bc9ef470f27cf4e4f0040f155bce",
+        "sha256_MD_preliminar": "76871e69eb216869f46bfeaba920e03cc696f959c0131670c0d4743e0c9fdeee",
+        "epigrafe": {
+          "numero": "16237",
+          "data": "1923-12-05",
+          "epigrafe": "DECRETO N. 16.237 – DE 5 DE DEZEMBRO DE 1923"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/cdac6404-c383-4fd7-85b8-713f318a078f/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T12:39:06.172563+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_014/requests/bdb2a3dd3cc478e0ce163e88cf3cdde894af857553e79a9a6f540c91da16e2fa.raw.gz",
+          "sha256_raw": "e70cfbbb4f143e6e7e29988d08940e48db75a147ba3c3a464956c354e681b0ee",
+          "bytes": 19271
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 16.237 – DE 5 DE DEZEMBRO DE 1923\n\nEstabelece as bases das alterações a serem feitas na reorganização administrativa do Ministerio da Marinha e dá outras providencias.\n\nO Presidente da Republica dos Estados Unidos do Brasil, usando da autorização contida no art. 13 do decreto n. 4.015, de 9 de janeiro de 1920, revigorada pelo art. 11 do decreto n. 4.626, de 3 de janeiro ultimo, resolve estabelecer as seguintes bases das alterações a serem feitas na reorganização administrativa do Ministerio da Marinha:",
+        "primeiro_bloco_de_artigo": "**Art. 1º** No Ministerio da Marinha haverá como orgãos de administração e consulta, directamente subordinadas ao ministro, as seguintes repartições militares:",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 5 DE DEZEMBRO DE 1923",
+          "data": "1923-12-05",
+          "bloco_literal": "Rio de Janeiro, 5 de dezembro de 1923, 102º da Independencia e 35º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, usando da autorização contida no art. 13 do decreto n. 4.015, de 9 de janeiro de 1920, revigorada pelo art. 11 do decreto n. 4.626, de 3 de janeiro ultimo, resolve estabelecer as seguintes bases das alterações a serem feitas na reorganização administrativa do Ministerio da Marinha:",
+        "ocorrencias_contextuais": []
+      }
+    }
+  ],
+  "controles_explicitos": {
+    "16315": "Relação própria dos materiais integralmente presente após o fecho; planos aprovados por outro decreto são remissão histórica. Referências internas a especificações comerciais não foram tratadas como comando de novo projeto próprio.",
+    "16433": "Relação dos materiais presente, incluindo grupos I a XIII; projetos aprovados pelo decreto 16.405 são objeto de outra norma.",
+    "15426": "Novas redações expressamente delimitadas aos artigos 6 e 45, ambos presentes; reforma pontual, não aprovação genérica de estatuto omitido.",
+    "16836": "Grafia literal Presidenle preservada; transferência de favores anteriores sem nova aprovação das plantas antigas.",
+    "17249": "Grafia literal Presidenta preservada; desapropriação para executar projeto aprovado por ato anterior, sem comando de anexo novo."
+  },
+  "limites": "Leitura dirigida dos vínculos e alertas, sem afirmar revisão humana universal de 499 atos. Corpo e documentos incorporados permanecem integrais; limites servem apenas para avaliar o fecho principal."
+}

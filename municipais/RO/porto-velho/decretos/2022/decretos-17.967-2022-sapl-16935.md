@@ -1,0 +1,72 @@
+---
+titulo: "Decreto-SEMPOG nº 17.967, de 18 de março de 2022"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "17.967"
+data: "2022-03-18"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/16935"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/9095/text"
+sha256_fonte: "a9743eb4673250fe76f151f33ffebe5f59c87d54691bcc7f4474649c82092d35"
+sha256_texto: "d3450b4926e7bbc216d51520e8f63800c932d1be9f0f398bf4d5a2d4f56ec3a4"
+capturado_em_fonte: "2026-10-21T06:49:22.337091-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 17.967, de 18 de março de 2022
+
+Abre no Orçamento Anual do Município de Porto Velho Crédito Adicional Suplementar, e dá outras providências.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, amparado pelo Art. 6º da Lei n.º 2.903 de 20 de dezembro de 2021, e Considerando o Ofício n.º 066/2022/GAB/EMDUR, de 25 de fevereiro de 2022, referente ao Processo n.° 02.41.00070/2021 que tem como objeto a contratação de empresa especializada para erestação de serviços de cadastramento de pontos de iluminação pública e confecção/instalação de placas de identificação no Município de Porto Velho e Distritos; D E C R E T A:
+
+
+Art. 1º.
+
+Fica aberto no Orçamento do Município de Porto Velho, Crédito Adicional Suplementar no valor de R$ 1.339.909,72 (um milhão, trezentos e trinta e nove mil, novecentos e nove reais e setenta e dois centavos).
+
+
+Art. 2º.
+
+Os recursos necessários à execução do disposto no artigo anterior são decorrentes de Superávit Financeiro apurado no Balanço Patrimonial do Município no exercício de 2021, observado os preceitos do Inciso I, Parágrafo 1º do Art. 43, da Lei n.º 4.320 de 17 de março de 1964, consignados no orçamento na sequência detalhada:
+
+<table><tbody><tr><td colspan="6"><p><strong>02.00 – SECRETARIA GERAL DE GOVERNO - SGG</strong></p></td></tr><tr><td colspan="6"><p><strong>02.41 – EMPRESA DE DESENVOLVIMENTO URBANO - EMDUR</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>SUPLEMENTA</strong></p><p><strong>R$</strong></p></td></tr><tr><td><p>02.41.15.122.007.2.303</p></td><td><p>Apoio a logística dos Serviços Básico</p></td><td><p>FIS</p></td><td><p>3.3.90.39</p></td><td><p>2.500</p></td><td><p>1.339.909,72</p></td></tr><tr><td colspan="5"><p><strong>SUB TOTAL</strong></p></td><td><p><strong>1.339.909,72</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>1.339.909,72</strong></p></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 17.852 de 20.12.2021 e o Detalhamento da Despesa, estabelecido pelo Decreto n.º 17.853 de 20.12.2021.
+
+
+Art. 4º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Art. 5º.
+
+Revogam-se as disposições em contrário.
+
+
+***MAURÍCIO FONSECA RIBEIRO CARVALHO DE MORAES***
+
+Prefeito Em Exercício
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto do Município
+

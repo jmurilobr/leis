@@ -1,0 +1,130 @@
+---
+titulo: "Lei Ordinária nº 643, de 28 de abril de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "643"
+data: "2021-04-28"
+municipio: "Brasilândia de Minas"
+uf: "MG"
+codigo_ibge: "3108552"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.brasilandiademinas.mg.leg.br/norma/659"
+fonte_texto: "https://sapl.brasilandiademinas.mg.leg.br/ta/580/text"
+sha256_fonte: "6d0bd6f9e2c275ff2dccec591f8d111795915bed7982de3c50c574b9235ff9ba"
+sha256_texto: "4f304ca5bedffd7066b75feccc3f580dd40779afa52b95739bd8881a07717ed0"
+capturado_em_fonte: "2026-10-27T19:42:06.951674-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 643, de 28 de abril de 2021
+
+"Determina a instalação, organização e funcionamento do Conselho Municipal de Saneamento Básico CMSB, do Município de Brasilândia de Minas MG, e dá outras providências."
+
+
+O PREFEITO DO MUNICÍPIO DE BRASILÂNDIA DE MINAS, ESTADO DE MINAS GERAIS, no uso da atribuição que lhe confere o artigo 86, inciso VII, da Lei Orgânica, faz saber que a Câmara Municipal decreta e ele, em seu nome, sanciona e promulga a seguinte lei:
+
+
+Art. 1º.
+
+O Poder Executivo Municipal fica obrigado a instalar, organizar e manter em regular funcionamento o Conselho Municipal de Saneamento Básico CMSB, o qual constituirá o órgão colegiado de gestão com caráter deliberado, fiscalizador e consultivo de composição multisetorial e democrática, formado paritariamente por 4 (quatro) representantes do Governo Municipal e 4 (quatro) representantes de entidades associativas da Sociedade Civil, e ainda, 1 (um) representante da empresa concessionária de serviços de abastecimento de água e saneamento no município, especificamente designados para este fim, e a ser nomeado por ato o prefeito municipal, com as atribuições de:
+
+
+I –
+
+estabelecer e fiscalizar a política de aplicação dos recursos do FMSB, observadas as diretrizes básicas e prioritárias da política e do plano municipal de saneamento básico;
+
+
+II –
+
+elaborar o Plano Orçamentário e de Aplicação dos recursos do FMSB, em consonância com a Lei de Diretrizes Orçamentárias;
+
+
+III –
+
+aprovar as demonstrações mensais de receitas e despesas do FMSB;
+
+
+IV –
+
+aprovar as contas anuais do FMSB, as quais integrarão as contas gerais do Município de Brasilândia de Minas;
+
+
+V –
+
+deliberar sobre questões relacionadas ao FMSB, em consonância com as normas de gestão financeira e os interesses do Município.
+
+
+Parágrafo único
+
+O conselho gestor de que trata este artigo terá vinculação direta à Administração Pública Municipal, e terá a gestão administrativa exercida pela Secretaria Municipal do Desenvolvimento Econômico, e a gestão financeira pela Secretaria da Fazenda.
+
+
+Art. 2º.
+
+0 Poder Público Municipal no Conselho Municipal de Saneamento Básico, deverá ser representado por conselheiro titular e suplente integrantes das seguintes secretarias municipais:
+
+
+I –
+
+Secretaria Municipal de Desenvolvimento Econômico.
+
+
+II –
+
+Secretaria Municipal de Agropecuária e Meio Ambiente.
+
+
+II –
+
+Secretaria de Saúde.
+
+
+III –
+
+Secretaria de Fazenda.
+
+
+§ 1º
+
+A presidência do Conselho Municipal de Saneamento Básico será exercida pelo representante da Secretaria de Desenvolvimento Econômico.
+
+
+§ 2º
+
+Os membros do Conselho Municipal de Saneamento Básico e os seus respectivos suplentes exercerão mandato de dois (dois) anos, admitindo uma recondução por igual período.
+
+
+§ 3º
+
+Quando o membro do Conselho Municipal de Saneamento Básico, em atividade titular no conselho, postular cargo eletivo no âmbito municipal, estadual ou federal, ao registrar sua candidatura será automaticamente afastado do conselho, sendo substituído pelo suplente
+
+
+Art. 3º.
+
+A organização, funcionamento e competência do Conselho Municipal de Saneamento Básico, deverão constar do seu Regimento Interno, instituído e aprovado por meio ato privativo do Prefeito Municipal.
+
+
+Art. 4º.
+
+Os membros do Conselho Municipal de Saneamento Básico não receberão qualquer remuneração pelo exercício de suas funções, sendo considerado para todos os efeitos serviço de relevante interesse público.
+
+
+Art. 5º.
+
+Os recursos do Fundo Municipal de Saneamento Básico, instituído em lei própria, somente serão aplicados em ações e projetos que tenham sido aprovados pelo Conselho Municipal de Saneamento Básico.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
+
+
+Prefeitura de Brasilândia de Minas - MG, 28 de abril de 2021.
+
+**OSÉIAS CARDOSO QUEIROZ**
+
+**Prefeito**
+

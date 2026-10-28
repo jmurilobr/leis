@@ -1,0 +1,61 @@
+---
+titulo: "Lei Ordinária nº 1.291, de 06 de dezembro de 1982"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1291"
+data: "1982-12-06"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/4103"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/4153/text"
+sha256_fonte: "4cc1cd6830f144dc77f1a3da2a48172df0242f5e33cc51a85c9435c093b5dab0"
+sha256_texto: "52180193198004e4fe950e9b5a14a2cf151cb3d36ec07aa7ecd29fd358da66bd"
+capturado_em_fonte: "2026-10-27T22:07:58.994576-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.291, de 06 de dezembro de 1982
+
+DISPÕE SOBRE O ORÇAMENTO PLURIANUAL DE INVESTIMENTOS RELATIVO AO TRIÊNIO DE 1983 A 1985.
+
+
+O Prefeito do Município do Cabo, no uso de suas atribuições, as quais lhes são conferidas pelo Artigo 74 da Lei de Organização Municipal do Estado de Pernambuco, PROMULGA a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a dispen­der até a importância de Cr$ 3.398.200.000,00 ( Três bilhões, Trezentos Noventa Oito milhões, Duzentos mil cruzeiros) correspondente as Despe­sas de Capital, discriminadas no Orçamento Plurianual de Investimentos, para o período de 1983 a 1985 conforme se segue:
+
+<table><tbody><tr><th>FUNÇÕES DE GOVERNO</th><th>1983</th><th>1984</th><th>1985</th><th>TOTAL</th></tr><tr><td>01 - Legislativa</td><td>3.200.000</td><td>5.500.000</td><td>9.800.000</td><td>18.500.000</td></tr><tr><td>02 - Judiciária</td><td>300.000</td><td>500.000</td><td>900.000</td><td>1.700.000</td></tr><tr><td>03 - Administração e Planejamento</td><td>86.300.000</td><td>168.450.000</td><td>271.850.000</td><td>526.600.000</td></tr><tr><td>08 - Educação e Cultura</td><td>30.500.000</td><td>47.000.000</td><td>79.500.000</td><td>157.000.000</td></tr><tr><td>10 - Habitação e Urbanismo</td><td>437.600.000</td><td>632.800.000</td><td>1.040.000.000</td><td>2.110.400.000</td></tr><tr><td>11 - Indústria, Comércio e Serviços</td><td>5.000.000</td><td>7.500.000</td><td>11.000.000</td><td>23.500.000</td></tr><tr><td>13 - Saúde e Saneamento</td><td>14.500.000</td><td>23.500.000</td><td>38.000.000</td><td>76.000.000</td></tr><tr><td>16 - Transporte</td><td>87.000.000</td><td>151.000.000</td><td>246.500.000</td><td>484.500.000</td></tr><tr><td>T O T A I S.................</td><td>664.400.000</td><td>1.036.250.000</td><td>1.697.550.000</td><td>3.398.200.000</td></tr></tbody></table>
+
+
+Art. 2º.
+
+No cumprimento do disposto no artigo 1º serão observados em cada exercício os limites parciais das Despesas de Capital fixadas no Orçamento Plurianual de Investimentos.
+
+
+Art. 3º.
+
+Não atingidos no exercício , os limites parciais a que se refere o Art. 2º as parcelas não utilizadas, passarão a crescer as disponibilidades do exercício seguinte, destinadas ao mesmo Investimento.
+
+
+Art. 4º.
+
+As Receitas de Capital para os exercícios dos programas constantes do mencionado Orçamento, serão formadas pelos superávits dos respectivos orçamentos correspondentes, pela obtenção de empréstimo e financiamento bem como pelas demais fontes enumeradas no parágrafo 2º do Artigo 11 da Lei Federal nº 4.320 de 17 de março de 1964.
+
+
+Art. 5º.
+
+Esta Lei entrará em vigor a partir de 1º de janeiro de 1983, revogadas as disposições em contrário.
+
+
+PALÁCIO CONDE DA BOA VISTA, em 06 de dezembro de 1982.
+
+JOSÉ ALBERTO DE LIMA  
+Prefeito
+

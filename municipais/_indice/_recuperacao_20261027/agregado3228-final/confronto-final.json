@@ -1,0 +1,16 @@
+{
+  "commit": "b6e474f7f8b219d23343933b67f8d68579cfe2d3",
+  "normas_head": 27626,
+  "reservas": [],
+  "candidatos": 3228,
+  "colisoes": 0,
+  "intersecoes_internas": 0,
+  "fixtures_referencia": 3,
+  "baseline": "municipais/_indice/_recuperacao_20261027/baseline-head-agregado3228-final/manifesto.json",
+  "sha256_baseline": "77540f9450392dac09e91a50961f96b1088df3755825280a5221f03627feaacf",
+  "confronto": "municipais/_indice/_recuperacao_20261027/agregado3228-confronto-head.json",
+  "sha256_confronto": "b16c1d2d286c7e093d8a3aba8130887a699d0d0c834e970e0c2ace088b019c76",
+  "replay_integral": "municipais/_indice/_recuperacao_20261027/agregado3228-replay-integral.json",
+  "sha256_replay": "d6334c927eae76202dbc88d642c1649825ad1ee7b774fb2a0a171903518476cd",
+  "criterio": "Confronto conjunto das 3.228 identidades contra blobs completos por OID de HEAD; nenhum componente foi adicionado como reserva nesta comparação final."
+}

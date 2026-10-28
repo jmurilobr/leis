@@ -1,0 +1,200 @@
+---
+titulo: "Lei nº 97, de 01 de março de 1990"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "97"
+data: "1990-03-01"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/98"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/327/text"
+sha256_fonte: "af07a247316f54bfca5d444593d65d90bceb2cf91555a5e4907c154e93073f8f"
+sha256_texto: "39aac21af5de278b7a5e467d9adb4b9f21c9216915eff2ff5f32014e297d6f53"
+capturado_em_fonte: "2026-10-21T07:18:36.411521-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 97, de 01 de março de 1990
+
+Dá nova redação da Lei nº 008/86 que trata da adoção do regime de suprimento de fundos e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE AMONTADA, ESTADO DO CEARÁ.  
+Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Suprimento de Fundos é a entrega de numerários autorizados pelo Ordenador da Despesa, a servidor público, para ocorrer a dispêndios não atendíveis pela via bancária ou para atender casos excepcionais, consoante as disposições nºs. 68 e 69 da Lei nº 4.320/64.
+
+
+Art. 2º.
+
+Considera-se Ordenador da Despesa, a autoridade de cujos atos resultarem emissão de empenho, autorização de pagamentos, suprimento ou dispêndio de recursos do Município, conforme legislação específica vigente.
+
+
+Art. 3º.
+
+O Suprimento de Fundos a servidor deverá sempre ser precedido da extração do empenho em nome do beneficiado.
+
+
+Parágrafo único
+
+O Suprimento feito para determinar Despesa não poderá ter aplicação diferente daquela prevista no empenho.
+
+
+Art. 4º.
+
+São despesas especiais processáveis pelo regime de Suprimento de Fundos:
+
+
+I –
+
+De pequeno vulto e de pronto pagamento;
+
+
+II –
+
+De viagens ou para atender a diligência, bem assim de caráter secreto ou reservado;
+
+
+III –
+
+Que devem ser feitas em locais não servidos pela rede bancária, autorizada;
+
+
+IV –
+
+Despesas de difícil previsibilidade e que não possam ser identificadas de pronto.
+
+
+Art. 5º.
+
+O ato concessivo do Suprimento, deverá conter:
+
+
+I –
+
+O exercício financeiro;
+
+
+II –
+
+Classificação completa da Despesa por conta do crédito orçamentário ou adicional;
+
+
+III –
+
+Nome, cargo ou função do servidor a quem deve ser entregue o Suprimento;
+
+
+IV –
+
+Indicação em algarismos e por extenso, da importância do Suprimento;
+
+
+V –
+
+Período de aplicação e prazo para comprovação;
+
+
+VI –
+
+Espécie de pagamento a realizar.
+
+
+Art. 6º.
+
+Não se fará suprimento a servidor em alcance ou em atraso na prestação de contas de suprimento anterior nem a responsável por dois (2) suprimentos.
+
+
+Art. 7º.
+
+O servidor público municipal que receber Suprimento é obrigado, na forma da Lei, a prestar contas de sua aplicação procedendo-se, automaticamente, a tomada de contas, se não fizer no prazo assinalado pelo Ordenador da Despesa.
+
+
+Art. 8º.
+
+O responsável não pode pagar-se a si mesmo, salvo caos previstos em Lei.
+
+
+Art. 9º.
+
+Os recibos deverão ser passados em nome do responsável pela aplicação do Suprimento e por quem prestou o serviço, forneceu o material ou executou a obra, indicando-se o respectivo órgão.
+
+
+Art. 10.
+
+Quando o interessado não souber ou não puder escrever, tomar-se-á o número do documento de identidade oficial no próprio recibo.
+
+
+Art. 11.
+
+Nos casos de aquisição de Material ou de qualquer outra operação sujeita a tributo, nenhuma Despesa será admitida quando desacompanhada da nota fiscal ou documento equivalente.
+
+
+Art. 12.
+
+Só serão admitidos documentos de Despesas realizadas em data posterior à do recebimento do quantitativo, pelo responsável.
+
+
+Art. 13.
+
+Deverá constar dos comprovantes ou recibos, o atestado de que os serviços foram prestados ou de que o material foi recebido pela repartição, passado pelo servidor que não o responsável pelo Suprimento.
+
+
+Art. 14.
+
+Aprovada a comprovação das Despesas, a autoridade ordenadora, mediante despacho, encaminhará o processo central do controle interno.
+
+
+Art. 15.
+
+Impugnada a prestação de contas do recebedor do suprimento, a autoridade ordenadora da despesa remeterá o processo final das irregularidades apuradas à Contabilidade para registrar definitivo as responsabilidades do servidor e levantamento da respectiva tomada de contas.
+
+
+Art. 16.
+
+A importância aplicada até 31 de dezembro será comprovada nos quinze primeiros dias de janeiro seguinte.
+
+
+Art. 17.
+
+Cabe aos detentores de Suprimentos de Fundos, fornecer indicação precisa dos saldos em seus poder em 31 de dezembro, para efeito de contabilização e reinscrição em data posterior, observando os prazos fixados pelo Ordenador da Despesa.
+
+
+Art. 18.
+
+Os documentos relativos à comprovação das despesas deverão ficar arquivados na Contabilidade da Prefeitura à disposição das autoridades responsáveis pelo acompanhamento administrativo e fiscalização financeira e, bem assim dos agentes incumbidos do Controle Externo, de competência do Conselho de Contas dos Municípios.
+
+
+Art. 19.
+
+Não será concedido Suprimento de Fundos a servidor que tenha a seu cargo a guarda ou utilização do próprio material adquirido, salvo se não houver, na reapartição, outro servidor, nem será concedido Suprimento de Fundos no último mês do exercício.
+
+
+Parágrafo único
+
+Na hipótese de necessidade imperiosa de entrega de suprimento em dezembro, a importância a suprir não será superior à estrita necessidade de seu objetivo.
+
+
+Art. 20.
+
+O Chefe do Poder Executivo baixará através de DECRETO os valores limites para cobertura do Suprimento de Fundos a servidores, podendo, inclusive, estabelecer parâmetros de indexação.
+
+
+Art. 21.
+
+Esta Lei entrará em vigor nesta data, revogadas as disposições em contrário.
+
+
+PAÇO DA PREFEITURA MUNICIPAL DE AMONTADA-CE, 01 DE MARÇO DE 1990.
+
+FRANCISCO EDILSON TEIXEIRA  
+Prefeito Municipal
+

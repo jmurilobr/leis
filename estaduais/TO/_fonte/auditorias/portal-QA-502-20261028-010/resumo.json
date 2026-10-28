@@ -1,0 +1,39 @@
+{
+  "preparado_em": "2026-10-28T09:40:54.380638-03:00",
+  "total": 502,
+  "aptos": 178,
+  "retidos": 324,
+  "motivos": {
+    "ValueError: tipo/número/data próprios divergem do cartão": 10,
+    "apto": 178,
+    "ValueError: epígrafe própria não única; possível múltiplo ato/edição": 93,
+    "ValueError: promulgação/dispositivo próprio inicial não comprovado": 11,
+    "ValueError: PDF com raster/vetor exige revisão gráfica individual": 58,
+    "ValueError: texto alternativo/propriedades de marcação exigem contexto": 11,
+    "ValueError: edição com anotações de alteração/revogação exige contexto histórico": 21,
+    "ValueError: fecho ausente/divergente ou ambíguo": 23,
+    "ValueError: texto colorido/oculto exige contexto": 84,
+    "Referência a objeto/anexo exige contexto individual": 10,
+    "ValueError: camada textual tem glifo não resolvido": 1,
+    "ValueError: fonte/cache PDF diverge": 1,
+    "ValueError: cargo da assinatura não comprovado": 1
+  },
+  "fonte_manifesto": "estaduais/TO/_fonte/auditorias/portal-QA-502-20261028-010/entrada-fontes-502.json",
+  "sha256_manifesto": "12ae8f5ace34b8b2b4794834b1c749bf247b672f6e91cce194f40781213e5fc2",
+  "codigo": {
+    "scripts/estados/snapshots/to_pdf_simples_20261028_002/pdf_texto_fiel.py": "8a7488a99a1b8b3661093f67263df586f9502ccf9758ca7c4c0a1184a602ed7a",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_002/test_visibilidade_pdf_to.py": "34d4a6b403415be2efd562740db9d340a025accca8049d539a038fc7ee79e4fa",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_002/requirements.txt": "a023a8907435e7d31a06d035348932008e192af2a3fd3a73cf5cb165ea3ed6e5",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_002/REPLAY.txt": "689fec7e903e3170281e2994e8312fd6d4a4d69d785c3e6e102b7ed119a12d9c",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_002/visibilidade_pdf_to.py": "87a36b4d0c9e40a713c41c9fada9efd5ffad2077295abc22073f9452e23c78d0",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_002/test_to_pdf_simples.py": "4a2d5177b5f1216e51154c0538cb82d5535a2be6b5eb77eafcec831e88028376",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_002/test_metadados_to_pdf.py": "da3938c4258d1547ce759ae7cb1caf2657d5bf185bdc1e2ef036731a6f756754",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_002/auditar_to_pdf_simples.py": "121905c45d3b5e330822c256662b238073804ef6e31c413c74f88b993a6b7729",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_002/metadados_to_pdf.py": "a66f4e4149ce6d9016cfc4318347ec41b04d5f654c7c95b185753b6d02c8927a",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_002/coletar_to_portal_indice.py": "15263ad6ec643232b7eaca59c86b42fbb591cf93ca66f9244d85549d90b346bf",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_002/reexecutar_to_pdf.py": "f96437614fc16523c2baa31cbd2d4a7ad669cb804820443520f84e49a239f3fb"
+  },
+  "sem_promocao": true,
+  "sem_mascara": true,
+  "metas_inalteradas": true
+}

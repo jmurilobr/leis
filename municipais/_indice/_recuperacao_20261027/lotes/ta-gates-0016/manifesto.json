@@ -1,0 +1,37 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 4: admite somente tabelas nativas com prova independente de células, ordem e mesclagens. Mantém todos os demais gates. Também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 1000,
+  "aprovados_nestes_gates": 847,
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0016/sapl.cabodesantoagostinho.pe.leg.br.prefixo.jsonl",
+      "sha256": "5c20d13ce0ca6b59454ccc9629efcbd9753722cd5ff015d305cb42a2bd308d23",
+      "bytes": 2334096
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0016/sapl.cabodesantoagostinho.pe.leg.br.tipos.json",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "0fe957a28c4885fd60450a3dcd62e4d7fc5f93e919b393d5703c3b89eb0caeae"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0016/sapl.cabodesantoagostinho.pe.leg.br.anexos.json",
+      "sha256": "d9aae99029eab971b222407dbd32691c98a885a0f26a8ba0a14fb3e44f0bdbd5"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0016/sapl.cacu.go.leg.br.prefixo.jsonl",
+      "sha256": "ac17d865112c172375865546c558349a473a312e831bc61d41920d7ff69e2098",
+      "bytes": 882009
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0016/sapl.cacu.go.leg.br.tipos.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "4c6b76b4d541b210dff27556441ee17560595b7a8047f8bb1825b27c49d4e2cd"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0016/sapl.cacu.go.leg.br.anexos.json",
+      "sha256": "a4d20dc50e5e0f311231831c93fe7ad597adce973b61411df18b0b099614c24a"
+    }
+  ],
+  "script_sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

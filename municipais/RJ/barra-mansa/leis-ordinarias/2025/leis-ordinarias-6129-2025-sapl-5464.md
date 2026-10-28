@@ -1,0 +1,248 @@
+---
+titulo: "Lei Ordinária nº 6.129, de 17 de dezembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "6129"
+data: "2025-12-17"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/5464"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/2434/text"
+sha256_fonte: "7675b796c83512c59bb42f65da83ae47118019df9659612f47ee68d01f309021"
+sha256_texto: "894c6c46fc1f2c8c52bee67c0c0de2fe0f8d61f62550bce352911043c081a01b"
+capturado_em_fonte: "2026-10-27T17:16:41.016885-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 6.129, de 17 de dezembro de 2025
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI N° 6129 DE 17 DE DEZEMBRO DE 2025.
+
+
+Dispõe sobre a criação do Conselho Municipal de Saneamento Básico de Barra Mansa e dá outras providências.
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal de Saneamento Básico, órgão de acompanhamento social colegiado e permanente, de caráter consultivo na formulação, no planejamento e na avaliação da política de saneamento básico do município de Barra Mansa.
+
+
+Art. 2º.
+
+Os serviços de saneamento básico, compreendem o conjunto de serviços públicos, infraestruturas e instalações operacionais de abastecimento de água, esgotamento sanitário, limpeza urbana e manejo de resíduos sólidos, drenagem e manejo de águas pluviais, conforme disposto na Lei Federal n° 14.026/2020 - Lei do Novo Marco Legal do Saneamento.
+
+
+Art. 3º.
+
+Compete ao Conselho Municipal de Saneamento Básico de Barra Mansa:
+
+
+I –
+
+participar da formulação da Política Municipal de Saneamento Básico, bem como no seu planejamento e avaliação;
+
+
+II –
+
+propor metas relativas à cobertura de abastecimento de água potável, de cobertura dos serviços de esgotamento sanitário, índices e níveis de tratamento de esgotos, perdas em sistemas de água e de regularidade do abastecimento local;
+
+
+III –
+
+apreciar e recomendar os projetos e planos de aplicação de recursos da Agência Reguladora de Saneamento Básico do município de Barra Mansa;
+
+
+IV –
+
+conhecer e se manifestar, em caráter consultivo, em matéria de interesse da Agência Reguladora de Saneamento Básico do município de Barra Mansa, quando solicitado;
+
+
+V –
+
+assegurar a efetiva participação da sociedade civil na elaboração, avaliação e revisão do Plano Municipal Integrado de Saneamento Básico;
+
+
+VI –
+
+avaliar os serviços públicos de saneamento básico no município;
+
+
+VII –
+
+articular com organizações privadas e governamentais, nacionais e/ou estrangeiras, e propor intercâmbios, celebração de convênios ou outros meios, com vistas à superação de problemas na implementação das políticas públicas na área de saneamento no município;
+
+
+VIII –
+
+acompanhar a execução dos projetos e planos aprovados na área de saneamento, em especial os relacionados ao Plano Municipal Integrado de Saneamento Básico, à Política Municipal de Saneamento Básico, ao Marco Legal do Saneamento Básico e à Política Nacional de Resíduos Sólidos;
+
+
+IX –
+
+articular-se com os demais conselhos municipais cujas funções guardem relação com as ações de saneamento, notadamente os da área de saúde, meio ambiente e habitação;
+
+
+X –
+
+fomentar o desenvolvimento científico, a pesquisa, a capacitação tecnológica e a formação de recursos humanos ligados ao saneamento básico;
+
+
+XI –
+
+analisar as prestações de contas da Agência Reguladora de Saneamento Básico do município de Barra Mansa;
+
+
+XII –
+
+realizar as diligências necessárias ao esclarecimento de dúvida quanto à correta utilização de recursos da Agência Reguladora de Saneamento Básico do município de Barra Mansa;
+
+
+XIII –
+
+elaborar, aprovar e reformar seu regimento, que será publicado por meio de ato do Poder Executivo Municipal;
+
+
+XIV –
+
+receber e examinar propostas e denúncias e responder a consultas sobre assuntos pertinentes a ações e serviços de saneamento;
+
+
+XV –
+
+prestar contas anualmente, ou sempre que requisitado, aos órgãos de controle interno, à Câmara Municipal e aos Tribunais de Contas;
+
+
+XVI –
+
+expedir resoluções necessárias ao exercício de suas competências;
+
+
+XVII –
+
+deliberar sobre casos omissos, controvérsias e conflitos de competência.
+
+
+Parágrafo único
+
+O Conselho Municipal de Saneamento Básico deverá reunir-se, ordinariamente, pelo menos uma vez, a cada 02 (dois) meses.
+
+
+Art. 4º.
+
+Compõem o Conselho Municipal de Saneamento Básico:
+
+
+I –
+
+um representante do Poder Executivo Municipal;
+
+
+II –
+
+um representante do Poder Legislativo Municipal;
+
+
+III –
+
+um representante da Agência Reguladora de Saneamento Básico de Barra Mansa;
+
+
+IV –
+
+um representante do Serviço Autônomo de Água e Esgoto de Barra Mansa;
+
+
+V –
+
+um representante de associação de moradores de Barra Mansa;
+
+
+VI –
+
+um representante da Câmara de Dirigentes Lojistas de Barra Mansa - CDL BM;
+
+
+VII –
+
+um representante do Comitê de Gerenciamento da Bacia Hidrográfica do Rio Paraíba do Sul.
+
+
+§ 1º
+
+Cada órgão e/ou entidade integrante do Conselho Municipal de Saneamento Básico deverá indicar um representante titular e um suplente para as vagas que Ihe forem destinadas.
+
+
+§ 2º
+
+Os representantes suplentes do Conselho substituirão os membros titulares em suas faltas e/ou seus impedimentos.
+
+
+§ 3º
+
+Os membros do Conselho serão nomeados por ato do Chefe do Poder Executivo Municipal, a partir da indicação de cada ente representado.
+
+
+§ 4º
+
+Os membros do Conselho desempenharão mandato de 02(dois) anos a cada nomeação, podendo ser reconduzidos uma única vez.
+
+
+§ 5º
+
+O Presidente do Conselho será eleito dentre seus membros titulares, por escrutínio direto com votação nominal e aberta, para o mandato de 01 (um) ano, podendo ser reeleito somente para mais um mandato.
+
+
+§ 6º
+
+Os membros do Conselho não serão remunerados no desempenho de suas atividades no conselho e suas funções serão consideradas de relevante serviço público.
+
+
+Art. 5º.
+
+Poderão convocar reuniões do Conselho Municipal de Saneamento, além do Presidente do Conselho, o Prefeito Municipal ou o Diretor Presidente da Agência Reguladora de Saneamento de Barra Mansa.
+
+
+Parágrafo único
+
+Na hipótese do caput, a impossibilidade de realização da reunião por ausência de quórum de 2/3 dos seus membros importará em manifestação tácita favorável em relação às matérias que ensejou a convocação.
+
+
+Art. 6º.
+
+As sessões do Conselho serão públicas, devendo a ata ser disponibilizada no sítio da Prefeitura Municipal de Barra Mansa para consulta dos interessados por, no mínimo, 60 (sessenta) dias.
+
+
+Art. 7º.
+
+Os pareceres e opiniões do Conselho serão tomados pelo voto da maioria simples, presentes a maioria absoluta de seus membros, cabendo ao Regimento Interno dispor sobre a convocação de suas reuniões e sobre o seu funcionamento.
+
+
+Parágrafo único
+
+Em caso de empate, prevalecerá para fins de deliberação o voto qualificado do Presidente do Conselho.
+
+
+Art. 8º.
+
+O regimento interno do Conselho será estabelecido por seus membros e disciplinará seu funcionamento e estruturação interna, naquilo que não conflitar com a presente Lei.
+
+
+Art. 9º.
+
+Revogadas as disposições em contrário, esta Lei entra em vigor na data de sua publicação.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 17 DE DEZEMBRO DE 2025.
+
+
+LUIZ ANTÔNIO FURLANI FILHO  
+PREFEITO
+

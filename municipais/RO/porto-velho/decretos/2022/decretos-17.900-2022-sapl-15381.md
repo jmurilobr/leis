@@ -1,0 +1,223 @@
+---
+titulo: "Decreto nº 17.900, de 07 de fevereiro de 2022"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "17.900"
+data: "2022-02-07"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/15381"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/8794/text"
+sha256_fonte: "ecb076ca5beb4951bc4ab0f0a83b86b82ffee0dbb5ad5a1ede2304fb2f7c9af5"
+sha256_texto: "a0f4df820a5fd662444cfdec2a27fc389039037723182037bcf21cc9b531f019"
+capturado_em_fonte: "2026-10-21T06:53:39.111876-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 17.900, de 07 de fevereiro de 2022
+
+Nomeia os membros para compor o Conselho de Servidores pertencentes ao Grupo TAF (Tributação, Arrecadação e Fiscalização) para o biênio referente ao período de outubro/2021 a setembro/2023.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO,** usando da atribuição que lhe é conferida no inciso IV e VI do artigo 87 da Lei Orgânica do Município de Porto Velho.
+
+
+**CONSIDERANDO** a necessidade de atender ao disposto no Art. 28, da Lei Complementar nº 187, de 28 de maio de 2004, que instituiu o Conselho de Servidores pertencentes ao Grupo de Tributação, Arrecadação e Fiscalização (CONSTAF).
+
+**RESOLVE:**
+
+
+Art. 1º.
+
+Ficam nomeados para compor o Conselho de Servidores pertencentes ao Grupo Tributação, Arrecadação e Fiscalização (CONSTAF), no período de 1º de outubro de 2021 a 30 de setembro de 2013, biênio 2021/2023, os seguintes representantes, observada sua respectiva representação:
+
+
+I –
+
+Secretaria Municipal de Fazenda (SEMFAZ):
+
+
+a)
+
+Membros natos:
+
+
+1
+
+Secretário Municipal de Fazenda;
+
+
+2
+
+Diretor do Departamento de Fiscalização – Secretaria Municipal de Fazenda (SEMFAZ).
+
+
+b)
+
+Membros indicados para período de 02 (dois) anos:
+
+
+1
+
+Auditor do Tesouro Municipal: Neirlene dos Santos Silva Reimann, cadastro nº 69.692;
+
+
+2
+
+Auditor do Tesouro Municipal: Eudes Andrade de Barros, cadastro nº 249.343;
+
+
+3
+
+Fiscal Municipal de Tributos: Paulo Henrique Kemp, cadastro nº 45.717;
+
+
+II –
+
+Secretaria Municipal de Serviços Básicos (SEMUSB):
+
+
+a)
+
+Membro nato: Secretário Municipal de Serviços Básicos;
+
+
+b)
+
+Membros indicados para período de 02 (dois) anos:
+
+
+1
+
+Fiscal Municipal de Posturas: Igor de Melo Trivério, cadastro nº 56.467;
+
+
+2
+
+Fiscal Municipal de Posturas: Cláudia do Nascimento, cadastro nº 224.395;
+
+
+III –
+
+Secretaria Municipal de Trânsito, Mobilidade e Transportes:
+
+
+a)
+
+Membro nato: Secretário Municipal de Trânsito, Mobilidade e Transportes;
+
+
+b)
+
+Membros indicados para período de 02 (dois) anos:
+
+
+1
+
+Fiscal Municipal de Transportes: Carlos de Azevedo, cadastro nº 9.200;
+
+
+2
+
+Fiscal Municipal de Transportes: Paulo Prado da Costa, cadastro nº 243.494;
+
+
+IV –
+
+ecretaria Municipal de Regularização Fundiária, Habitação e Urbanismo (SEMUR):
+
+
+a)
+
+Membro nato: Secretário Municipal de Regularização Fundiária, Habitação e Urbanismo (SEMUR);
+
+
+b)
+
+Membros indicados para período de 02 (dois) anos:
+
+
+1
+
+Fiscal Municipal de Obras: Guilherme Matheus Silva, cadastro nº 316.035;
+
+
+2
+
+Fiscal Municipal de Obras: Paulo Sérgio Queiroz da Silva, cadastro nº 625.700;
+
+
+V –
+
+Secretaria Municipal de Saúde (SEMUSA):
+
+
+a)
+
+Membro nato: Secretário Municipal de Saúde;
+
+
+b)
+
+Membros indicados para período de 02 (dois) anos:
+
+
+1
+
+Fiscal Municipal de Vigilância Sanitária: Daniele Silva de Souza, cadastro nº 117.706;
+
+
+2
+
+Fiscal Municipal de Vigilância Sanitária: Marcelo Ferreira Alencar Mourão, cadastro nº 118.077;
+
+
+VI –
+
+Secretaria Municipal de Meio Ambiente e Desenvolvimento Sustentável (SEMA):
+
+
+a)
+
+Membro nato: Secretário Municipal de Meio Ambiente e Desenvolvimento Sustentável;
+
+
+b)
+
+Membros indicados para período de 02 (dois) anos:
+
+
+1
+
+Fiscal Municipal de Meio Ambiente: Romer Soares Paz, cadastro nº 196.057;
+
+
+2
+
+Fiscal Municipal de Meio Ambiente: Silene Lima da Silva, cadastro nº 171.364.
+
+
+Parágrafo único
+
+Os cargos, cujos titulares são membros natos do CONSTAF, conforme disposto na Lei Complementar nº 187, de 28 de maio de 2004, e que tiverem as respectivas nomenclaturas alteradas pela reforma administrativa serão exercidos por àqueles decorrentes da mencionada reforma, nos termos dos artigos 101 e 102 da Lei Complementar nº 648, de 06 de janeiro de 2017 e suas alterações.
+
+
+Art. 2º.
+
+Este Decreto entra em vigor na data de sua publicação, com efeitos administrativos a partir de 1° de outubro de 2021.
+
+
+Art. 3º.
+
+Revogam-se as disposições em contrário.
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito
+

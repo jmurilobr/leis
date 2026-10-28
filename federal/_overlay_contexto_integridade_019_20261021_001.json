@@ -1,0 +1,67 @@
+{
+  "escopo": "Retenções conservadoras contextuais do lote 019; não altera canônicos ou registro.",
+  "registros": [
+    {
+      "path": "federal/decretos/1944/dec-16243-1944-07-28.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1944-07-28;16243",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1944-07-28;16243",
+      "url_texto": "https://normas.leg.br/api/binario/6141ea44-7266-4fda-bbea-3ff3efe9a97b/texto",
+      "sha256": "9ac949f41fa080af1947dc35382a606ff97fc072c6636c5d7640e4b5f8b711b4",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "125c4a93bf7453c7ba2156e22dd5bdbf35083d239f0888799a977b7e7d8a9acd",
+      "sha256_metadados": "6d944cd936774fa2fe2d487bee116f32f20e21a7ad8b173552d1fe62abc362a2",
+      "captura_metadados": "federal/_fonte/metadados-normas/d003b8fcea077652c58892ac979fa1ebfddda1e9491a69f92eab690ac6572be3/6d944cd936774fa2fe2d487bee116f32f20e21a7ad8b173552d1fe62abc362a2.json.gz",
+      "epigrafe": {
+        "numero": "16243",
+        "data": "1944-07-28",
+        "epigrafe": "decreto nº 16.243, de 28 de julho de 1944."
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "lote": 19,
+      "status": "retido_revisao_documental_contextual",
+      "motivo": "Corpo principal identifica 16.243, mas retificação anexada identifica 19.243 e marcador administrativo identifica 17.243. Ementa coincidente não resolve sozinha a divergência de identidade. Mantido para contextualização, preservando integralmente a retificação e o original."
+    },
+    {
+      "path": "federal/decretos/1944/dec-15484-1944-05-08.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1944-05-08;15484",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1944-05-08;15484",
+      "url_texto": "https://normas.leg.br/api/binario/f54ae4c5-13e7-49e5-a687-abc6ad1a0c04/texto",
+      "sha256": "bc3440570aa7ec1e6341d2fc2cdb1685cb49a4f943cd2cd2561b96571eece924",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "c5819897164383dba38505790ad09ef63701cdd5cd5758de0aa4366d9e096e08",
+      "sha256_metadados": "cbedd77855dd985654fdf6e5831432d8076994bd8b87d7c77d1f726941ffb796",
+      "captura_metadados": "federal/_fonte/metadados-normas/96ff1848e3e533e98790e298c5fe4b350610cdd80fc618ccd8539545628ebee9/cbedd77855dd985654fdf6e5831432d8076994bd8b87d7c77d1f726941ffb796.json.gz",
+      "epigrafe": {
+        "numero": "15484",
+        "data": "1944-05-08",
+        "epigrafe": "DECRETO N. 15.484 – DE 8 DE MAIO DE 1944"
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "lote": 19,
+      "status": "retido_revisao_documental_contextual",
+      "motivo": "Texto preservado inicia diretamente o Regimento do Serviço Nacional de Lepra, com 24 artigos, após epígrafe/ementa. Não reproduz o comando presidencial de aprovação, fecho ou assinatura próprios do decreto; regimento não substitui esse corpo principal."
+    }
+  ]
+}

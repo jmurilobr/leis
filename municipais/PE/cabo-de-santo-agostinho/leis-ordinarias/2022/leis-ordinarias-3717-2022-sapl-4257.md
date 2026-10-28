@@ -1,0 +1,225 @@
+---
+titulo: "Lei Ordinária nº 3.717, de 31 de março de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3717"
+data: "2022-03-31"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/4257"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/4303/text"
+sha256_fonte: "7d8f411e5f9c1ee96146a9a2c40dea52054b4bb44a4286b5696246a1266d5ee0"
+sha256_texto: "db0c0443a9d70f60ff5ae15e06a2be3edbfb56c56c47663f978777017ccfdb66"
+capturado_em_fonte: "2026-10-27T21:28:53.777661-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 3.717, de 31 de março de 2022
+
+Institui a Política Municipal de Recursos Hídricos e a compensação financeira pelo resultado da exploração de recursos hídricos para o fornecimento de água potável à população no âmbito do município do Cabo de Santo Agostinho, e dá outras providências.
+
+
+**O PRESIDENTE DA CÂMARA MUNICIPAL DO CABO DE SANTO AGOSTINHO PROMULGA A SEGUINTE LEI:**
+
+
+Art. 1º.
+
+Fica instituída a Política de Recursos Hídricos do Município do Cabo de Santo Agostinho envolvendo o gerenciamento e o monitoramento dos recursos hídricos no âmbito municipal.
+
+
+Art. 2º.
+
+A Política Municipal de Recursos Hídricos baseia-se nos seguintes fundamentos:
+
+
+I –
+
+a água é um bem de domínio público;
+
+
+II –
+
+a água é um recurso natural limitado, dotado de valor econômico, social e ambiental;
+
+
+III –
+
+em situações de escassez, o uso prioritário dos recursos hídricos é o consumo humano e a dessendentação de animais;
+
+
+IV –
+
+a gestão dos recursos hídricos deve proporcionar o uso múltiplo das águas;
+
+
+V –
+
+a bacia hidrográfica é a unidade territorial para implementação da Política Estadual de Recursos Hídricos e para a atuação do Sistema Municipal de Gerenciamento de Recursos Hídricos;
+
+
+VI –
+
+a gestão dos recursos hídricos d deve ser descentralizada e contar com a participação do Poder Público, dos usuários e das organizações da sociedade civil, considerando os aspectos quantitativos e qualitativo das fases meteórica, superficial e subterrânea do ciclo hidrológico;
+
+
+VII –
+
+o acesso aos recursos hídricos é um direito de todos;
+
+
+VIII –
+
+a compatibilização do gerenciamento dos recursos hídricos com o desenvolvimento regional e local, bem como a proteção ambiental;
+
+
+IX –
+
+a prevenção e a defesa em face dos eventos hidrológicos críticos de origem natural ou decorrentes do uso inadequado dos recursos naturais; e
+
+
+X –
+
+a integração das ações estaduais, bem como a articulação com os municípios e a União, com vistas à associação de suas iniciativas no planejamento dos usos das águas.
+
+
+Art. 3º.
+
+São objetivos da Política Municipal de Recursos Hídricos:
+
+
+I –
+
+assegurar a atual e as futuras gerações a necessária disponibilidade dos recursos hídricos;
+
+
+II –
+
+assegurar que a água seja protegida, utilizada e conservada, em níveis e padrões adequados de quantidade e qualidade, por seus usuários atuais e futuros, em todo o território do Município do Cabo de Santo Agostinho, garantindo as condições para o desenvolvimento econômico e social, bem como para melhoria da qualidade de vida e o equilíbrio do meio ambiente; e
+
+
+III –
+
+utilizar racionalmente e de forma integrada os recursos hídricos, com vistas ao desenvolvimento sustentável.
+
+
+Art. 4º.
+
+Constituem diretrizes gerais de ação para implementação da Política Municipal de recursos Hídricos:
+
+
+I –
+
+a gestão sistemática dos recursos hídricos, sem dissociação dos aspectos de quantidade e qualidade, bem como sua adequação às diversidades físicas, bióticas, demográficas, econômicas, sociais e culturais das diversas regiões do Estado;
+
+
+II –
+
+a integração da gestão de recursos hídricos com a gestão ambiental;
+
+
+III –
+
+a articulação da gestão dos recursos hídricos com a dos setores usuários e com os planejamentos regional, municipal, estadual e nacional;
+
+
+IV –
+
+a articulação da gestão de recursos hídricos com a do uso e ocupação do solo;
+
+
+V –
+
+a integração da gestão das bacias hidrográficas com a dos sistemas estuarinos, costeiros e de áreas legalmente protegidas;
+
+
+VI –
+
+a atuação preventiva e de mitigação de eventos críticos, como secas e cheias; e
+
+
+VII –
+
+a maximização dos benefícios econômicos e sociais resultantes do aproveitamento múltiplo dos recursos hídricos e minimização dos impactos ambientais.
+
+
+Art. 5º.
+
+Nos territórios do Município do Cabo de Santo Agostinho onde se localizarem instalações destinada a retenção e conservação de água potável, ou que tenham áreas invadidas por águas no âmbito do Município será devida a compensação financeira correspondentes a um fator percentual de dois por cento (02%) do valor constante da fatura emitida pela concessionária do serviço público estadual.
+
+
+Art. 6º.
+
+A compensação financeira de que o caput do art. 5º será dividida da seguinte forma:
+
+
+I –
+
+setenta e cinco por cento (75%) do valor da compensação financeira serão destinados ao Município do Cabo de Santo Agostinho, nos termos da presente Lei; e
+
+
+II –
+
+vinte e cinco (25%) do valor da compensação financeira para a Secretaria Municipal de Meio Ambiente para a fiscalização das áreas de proteção permanente, além da promoção de programas de preservação ambiental das áreas ambientais afetadas em cujos territórios se localizarem instalações destinadas à retenção e conservação de água potável, ou que tenham áreas invadidas por águas no âmbito do Município.
+
+
+Parágrafo único
+
+A Companhia Pernambucana de Saneamento poderá conceder uma redução do valor cobrado a título de esgotamento sanitário para os usuários do sistema do município do Cabo de Santo Agostinho podendo este valo ser abatido do montante previsto no art. 5º desta Lei.
+
+
+Art. 7º.
+
+O órgão competente para gerenciar os recursos hídricos e o de meio ambiente, no âmbito das respectivas atribuições, fiscalizará o uso e aproveitamento das águas superficiais e subterrâneas.
+
+
+Art. 8º.
+
+Às autoridades competentes cabe:
+
+
+I –
+
+supervisionar, controlar e avaliar as atividades decorrentes do cumprimento da legislação pertinente;
+
+
+II –
+
+fiscalizar, com poder de polícia, os usos dos recursos hídricos nos corpos de água de domínio do Estado, lavrando os competentes instrumentos; e
+
+
+III –
+
+fiscalizar as condições de operação de reservatórios por agentes públicos e privados, visando a garantir o uso múltiplo dos recursos hídricos, conforme estabelecido nos Planos Diretores de Recursos Hídricos das respectivas bacias hidrográficas e nos aproveitamentos hidroelétricos, em articulação com componentes do SIGRH/PE.
+
+
+Art. 9º.
+
+O titular da outorga de direito de uso de recursos hídricos é obrigado a instalar e manter em perfeito funcionamento os equipamentos da medição, bem como efetuar e disponibilizar os registros de vazões captadas e de vazões e características dos lançamentos de despejos efluentes líquidos, conforme estabelecido pelo ato de outorga.
+
+
+Art. 10.
+
+Fica assegurado aos fiscais municipais o livre acesso aos locais em que estiverem situadas as captações ou onde forem executados serviços ou obras.
+
+
+Art. 11.
+
+O Poder Executivo Municipal poderá regulamentar esta Lei, no prazo de 90 (noventa) dias, contados de sua publicação.
+
+
+Art. 12.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Cabo de Santo Agostinho, 31 de março de 2022
+
+***RICARDO CARNEIRO DA SILVA***
+
+Presidente
+

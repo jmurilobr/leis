@@ -1,0 +1,784 @@
+{
+  "fonte": {
+    "arquivo": "reguladores/_fonte/auditorias/confaz-piloto-v2-20261027/226420989c256cce047c764b27f057b29b75fb8442daec64d27babfa190147ed.html",
+    "metadata": "reguladores/_fonte/auditorias/confaz-piloto-v2-20261027/226420989c256cce047c764b27f057b29b75fb8442daec64d27babfa190147ed.meta.json",
+    "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/2026",
+    "url_final": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/2026",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 21:22:22 GMT",
+      "Content-Type": "text/html;charset=utf-8"
+    },
+    "sha256": "c46ae9805d0c20cb05db052b594eb6a189b3ad8df80c0e286add5f120198ab5d",
+    "bytes": 182168,
+    "categoria": "html",
+    "capturado_em_cliente": null,
+    "captura_http_date": "Tue, 27 Oct 2026 21:22:22 GMT",
+    "origem_sondagem": "reguladores/_fonte/auditorias/confaz-probe-root-20261027/01.html",
+    "limite_data": "Sondagem ROOT anterior reutilizada; HTTP Date preservado, timestamp do cliente não fornecido. Cópia não representa captura nova."
+  },
+  "targets": [
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV001_26",
+      "numero_indice": 1,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV002_26",
+      "numero_indice": 2,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV003_26",
+      "numero_indice": 3,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV004_26",
+      "numero_indice": 4,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV005_26",
+      "numero_indice": 5,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV006_26",
+      "numero_indice": 6,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV007_26",
+      "numero_indice": 7,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV008_26",
+      "numero_indice": 8,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV009_26",
+      "numero_indice": 9,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV010_26",
+      "numero_indice": 10,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV011_26",
+      "numero_indice": 11,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV012_26",
+      "numero_indice": 12,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV013_26",
+      "numero_indice": 13,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV014_26",
+      "numero_indice": 14,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV015_26",
+      "numero_indice": 15,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV016_26",
+      "numero_indice": 16,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV017_26",
+      "numero_indice": 17,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV018_26",
+      "numero_indice": 18,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV019_26",
+      "numero_indice": 19,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV020_26",
+      "numero_indice": 20,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV021_26",
+      "numero_indice": 21,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV022_26",
+      "numero_indice": 22,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV023_26",
+      "numero_indice": 23,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV024_26",
+      "numero_indice": 24,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV025_26",
+      "numero_indice": 25,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV026_26",
+      "numero_indice": 26,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV027_26",
+      "numero_indice": 27,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV028_26",
+      "numero_indice": 28,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV029_26",
+      "numero_indice": 29,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV030_26",
+      "numero_indice": 30,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV031_26",
+      "numero_indice": 31,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV032_26",
+      "numero_indice": 32,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV033_26",
+      "numero_indice": 33,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV034_26",
+      "numero_indice": 34,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV035_26",
+      "numero_indice": 35,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV036_26",
+      "numero_indice": 36,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV037_26",
+      "numero_indice": 37,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV038_26",
+      "numero_indice": 38,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV039_26",
+      "numero_indice": 39,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV040_26",
+      "numero_indice": 40,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV041_26",
+      "numero_indice": 41,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV042_26",
+      "numero_indice": 42,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV043_26",
+      "numero_indice": 43,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV044_26",
+      "numero_indice": 44,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV045_26",
+      "numero_indice": 45,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV046_26",
+      "numero_indice": 46,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV047_26",
+      "numero_indice": 47,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV048_26",
+      "numero_indice": 48,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV049_26",
+      "numero_indice": 49,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV050_26",
+      "numero_indice": 50,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV051_26",
+      "numero_indice": 51,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV052_26",
+      "numero_indice": 52,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV053_26",
+      "numero_indice": 53,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV054_26",
+      "numero_indice": 54,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV055_26",
+      "numero_indice": 55,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV056_26",
+      "numero_indice": 56,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV057_26",
+      "numero_indice": 57,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV058_26",
+      "numero_indice": 58,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV059_26",
+      "numero_indice": 59,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV060_26",
+      "numero_indice": 60,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV061_26",
+      "numero_indice": 61,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV062_26",
+      "numero_indice": 62,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV063_26",
+      "numero_indice": 63,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV064_26",
+      "numero_indice": 64,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV065_26",
+      "numero_indice": 65,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV066_26",
+      "numero_indice": 66,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV067_26",
+      "numero_indice": 67,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV068_26",
+      "numero_indice": 68,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV069_26",
+      "numero_indice": 69,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV070_26",
+      "numero_indice": 70,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV071_26",
+      "numero_indice": 71,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV072_26",
+      "numero_indice": 72,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV073_26",
+      "numero_indice": 73,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV074_26",
+      "numero_indice": 74,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV075_26",
+      "numero_indice": 75,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV076_26",
+      "numero_indice": 76,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV077_26",
+      "numero_indice": 77,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV078_26",
+      "numero_indice": 78,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV079_26",
+      "numero_indice": 79,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV080_26",
+      "numero_indice": 80,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV081_26",
+      "numero_indice": 81,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV082_26",
+      "numero_indice": 82,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV083_26",
+      "numero_indice": 83,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV084_26",
+      "numero_indice": 84,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV085_26",
+      "numero_indice": 85,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV086_26",
+      "numero_indice": 86,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV087_26",
+      "numero_indice": 87,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV088_26",
+      "numero_indice": 88,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV089_26",
+      "numero_indice": 89,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV090_26",
+      "numero_indice": 90,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV091_26",
+      "numero_indice": 91,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV092_26",
+      "numero_indice": 92,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV093_26",
+      "numero_indice": 93,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV094_26",
+      "numero_indice": 94,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV095_26",
+      "numero_indice": 95,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV096_26",
+      "numero_indice": 96,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV096_26%20-%20%20RETIFICACAO",
+      "numero_indice": 96,
+      "ano": 2026,
+      "tipo_link_indice": "retificacao_ou_republicacao"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV097_26",
+      "numero_indice": 97,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV098_26",
+      "numero_indice": 98,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV099_26",
+      "numero_indice": 99,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV100_26",
+      "numero_indice": 100,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV101_26",
+      "numero_indice": 101,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV102_26",
+      "numero_indice": 102,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV103_26",
+      "numero_indice": 103,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV104_26",
+      "numero_indice": 104,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV105_26",
+      "numero_indice": 105,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV106_26",
+      "numero_indice": 106,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV107_26",
+      "numero_indice": 107,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV108_26",
+      "numero_indice": 108,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV109_26",
+      "numero_indice": 109,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV110_26",
+      "numero_indice": 110,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV111_26",
+      "numero_indice": 111,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV112_26",
+      "numero_indice": 112,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV113_26",
+      "numero_indice": 113,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV114_26",
+      "numero_indice": 114,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV115_26",
+      "numero_indice": 115,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV116_26",
+      "numero_indice": 116,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV117_26",
+      "numero_indice": 117,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV118_26",
+      "numero_indice": 118,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV119_26",
+      "numero_indice": 119,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV120_26",
+      "numero_indice": 120,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+      "numero_indice": 121,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/convenio-icms-122-26",
+      "numero_indice": 122,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/convenio-icms-123-26",
+      "numero_indice": 123,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/convenio-icms-124-26-1",
+      "numero_indice": 124,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/convenio-icms-125-26",
+      "numero_indice": 125,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/convenio-icms-126-26",
+      "numero_indice": 126,
+      "ano": 2026,
+      "tipo_link_indice": "principal"
+    }
+  ]
+}

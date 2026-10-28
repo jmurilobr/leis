@@ -1,0 +1,20 @@
+{
+  "criterio": "Comparação dos mesmos nomes e ordem da hierarquia, ignorando somente whitespace nas bordas do separador /. Valores brutos preservados no resultado. Departamentos diferentes, ordem invertida e níveis vazios continuam rejeitados. Nenhum corpo ou metadado reescrito.",
+  "testes": 26,
+  "resultado": "aprovados",
+  "reexecucao_2096": {
+    "aceitos_antes": 1423,
+    "aceitos_depois": 1423,
+    "mesmos_caminhos": true,
+    "explicacao": "Os casos cuja comparação hierárquica foi resolvida continuam retidos por outras verificações. Não houve liberação automática de normas."
+  },
+  "sha256": {
+    "reguladores/_fonte/auditorias/orgao-hierarquia-20261027/auditar_cache_dou.py.preimagem.gz": "a012b931a84722a4d2717bb27536eb00e90d88dce879986717f212bb509e5bfb",
+    "reguladores/_fonte/auditorias/orgao-hierarquia-20261027/test_auditar_cache_dou.py.preimagem.gz": "ff0a6892d22f8f7bbc613098b94d796e2fb49cbb02ca5464ab54d4149191b429",
+    "scripts/auditar_cache_dou.py": "95d34a3d29ae7b52539f3171734e3cc2694cdbcdfa8569332794efd3e2ba394b",
+    "scripts/test_auditar_cache_dou.py": "0bac9629c080b9aea4cf422c3696f865c05d90c2031295a351f98045cb3e25e4",
+    "scripts/dados/orgao-hierarquia-testes-root-20261027.txt": "8806dd09720b183dc429b2e7b77f6176f2c45adfe9dc73f6d3029aecee98c69a",
+    "scripts/dados/dou-cache-20261027-030.json": "3b4e2f8a47a9453cf643f0cdc7b2c72d021cba4ba74cdb45b28eb29e61545247",
+    "scripts/dados/dou-cache-20261027-031.json": "b5219f41b2c0f5e10f61505e20f1a68155f79abfe23d0f3da25bd504988e0624"
+  }
+}

@@ -1,0 +1,136 @@
+---
+titulo: "LEI ORDINÁRIA nº 542, de 25 de maio de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "542"
+data: "2017-05-25"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/680"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/501/text"
+sha256_fonte: "2f310965c54203c0a524c1694d4f9cbaa21fdedd16a6c0d045ed7386b09df17a"
+sha256_texto: "bcc5de0579aad1d74b32318472035638142ddb8cf05d469ccd7946cb6494dd98"
+capturado_em_fonte: "2026-10-27T20:20:44.718370-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 542, de 25 de maio de 2017
+
+**Estatui o programa denominado “Parceria Legal”, que dispõe sobre a adoção de praças, parques, canteiros, jardins e demais logradouros públicos e dá outras providências.**
+
+
+**O PREFEITO MUNICIPAL DE UNAÍ**, Estado de Minas Gerais, no uso da atribuição que lhe confere o art. 96, VII, da Lei Orgânica do Município, faz saber que a Câmara Municipal decreta e ele, em seu nome, sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Fica estatuído o programa denominado “Parceria Legal”, que dispõe sobre a adoção de praças, parques, canteiros, jardins e demais logradouros públicos por pessoas físicas ou jurídicas, interessadas em preservar, urbanizar, embelezar e propiciar manutenção e conservação desses próprios públicos.
+
+
+Parágrafo único
+
+Para os efeitos desta Lei consideram-se próprios ou logradouros públicos:
+
+
+I –
+
+praças públicas;
+
+
+II –
+
+parques naturais;
+
+
+III –
+
+parquinhos infantis;
+
+
+IV –
+
+academias populares;
+
+
+V –
+
+vias públicas, como ruas e avenidas;
+
+
+VI –
+
+canteiros;
+
+
+VII –
+
+jardins; e
+
+
+VIII –
+
+outros próprios públicos.
+
+
+Art. 2º.
+
+Podem participar do programa “Parceria Legal” pessoas físicas ou jurídicas, inclusive igrejas, associações, escolas, por meio de requerimento dirigido à Prefeitura de Cabeceira Grande, instruído com os seguintes documentos:
+
+
+I –
+
+cópia da Carteira de Identidade, CPF e demais documentos pessoais em se tratando de pessoa física; e
+
+
+II –
+
+cópia do comprovante de inscrição no CNPJ e ato constitutivo ou contrato social em se tratando de pessoa jurídica.
+
+
+Art. 4º.
+
+Deferido o requerimento pela Secretaria Municipal de Obras, Infraestrutura, Trânsito e Serviços Urbanos, será firmado Termo de Parceria, Adoção e Compromisso, conforme modelo a ser disposto em decreto regulamentar.
+
+
+Parágrafo único
+
+Havendo mais de um pedido de adoção para o mesmo espaço, a decisão será por deliberação soberana do Prefeito caso não haja consenso entre as partes, ouvida a Secretaria Municipal de Obras, Infraestrutura, Trânsito e Serviços Urbanos.
+
+
+Art. 5º.
+
+Será permitida a veiculação de publicidade no logradouro público adotado, por parte da pessoa física ou jurídica parceira e a divulgação da parceria na imprensa e em outros veículos e meios de comunicação, bem assim em informes publicitários envolvendo a área objeto do termo de parceria, cujo projeto publicitário será submetido à análise e apreciação do órgão competente da Prefeitura de Cabeceira Grande.
+
+
+Art. 6º.
+
+Fica instituído o Título honorífico denominado “Parceiro Legal”, na forma de certificado, a ser outorgado à pessoa física ou jurídica que adotar um logradouro público na forma desta Lei, e executar, a contento, o Termo de Parceria, Adoção e Compromisso.
+
+
+Art. 7º.
+
+O Poder Executivo regulamentará, por decreto, esta Lei.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Cabeceira Grande, 25 de maio de 2017; 21º da Instalação do Município.
+
+**ODILON DE OLIVEIRA E SILVA**
+
+**Prefeito**
+
+DAILTON GERALDO RODRIGUES GONÇALVES
+
+Consultor Jurídico, Legislativo, de Governo e Assuntos Administrativos e Institucionais.
+
+**"Este texto não substitui o original."**
+

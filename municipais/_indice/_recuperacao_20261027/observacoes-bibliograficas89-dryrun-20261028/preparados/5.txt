@@ -1,0 +1,65 @@
+---
+titulo: "DECRETO EXECUTIVO-PMEPF nº 867, de 02 de setembro de 2026"
+tipo: "Decreto"
+tipo_na_fonte: "DECRETO EXECUTIVO"
+numero: "867"
+data: "2026-09-02"
+municipio: "Engenheiro Paulo de Frontin"
+uf: "RJ"
+codigo_ibge: "3301801"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/2674"
+fonte_texto: "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/2168/text"
+sha256_fonte: "48bfbe7b4abee2f11180c2f7ad3ba9d47d920a9165cf13803b79c1304edbd416"
+sha256_texto: "4c652abb9989a6ae467949791cb47b6c8360f0df9139cf3fce814120ddc6f15f"
+capturado_em_fonte: "2026-10-28T10:26:38.863386-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+observacao_fonte: "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 04/09/2026. Edição 4199 A verificação de autenticidade da matéria pode ser feita informando o código identificador no site: https://www.diariomunicipal.com.br/aemerj/"
+fonte_metadados: "https://sapl.engenheiropaulodefrontin.rj.leg.br/api/norma/normajuridica/2674/"
+sha256_metadados_fonte: "3006221123a73707170df9fd341961a2f470592191451a725b587528ed33a0e5"
+---
+
+# DECRETO EXECUTIVO-PMEPF nº 867, de 02 de setembro de 2026
+
+O Prefeito Municipal de Engº Paulo de Frontin, no uso de suas atribuições legais, e com fulcro no disposto no artigo 5º da Lei Municipal nº 1762, de 30 de dezembro de 2025,
+
+
+DECRETA:
+
+
+Art. 1º.
+
+Fica aberto um Crédito Adicional suplementar no valor de R$ 200.000,00 (Duzentos mil reais), para suprimento da dotação orçamentária, como segue:
+
+
+Rdz. Org. Un Função Sub função Programa Proj./Ativ. Elemento de Despesa Fonte Valor R$  
+78 02 007 04 122 2001 2201 3.3.90.39.00.00.00.00 1.704.0000 100.000,00  
+78 02 007 04 122 2001 2201 3.3.90.39.00.00.00.00 1.705.0000 100.000,00
+
+
+Art. 2º.
+
+Os recursos orçamentários para atender ao crédito adicional são provenientes de anulação das despesas das categorias econômicas, com fulcro no artigo 43, parágrafo 1º, inciso III da Lei 4.320/64, como segue:
+
+
+Rdz. Org. Un Função Sub função Programa Proj./Ativ. Elemento de Despesa Fonte Valor R$  
+76 02 007 04 122 2001 2201 3.3.90.30.00.00.00.00 1.704.0000 100.000,00  
+76 02 007 04 122 2001 2201 3.3.90.30.00.00.00.00 1.705.0000 100.000,00
+
+
+Art. 3º.
+
+Este Decreto entra em vigor na data de sua publicação, revogando as disposições em contrário.
+
+
+Engenheiro Paulo de Frontin, 03 de setembro de 2026.
+
+
+JOSÉ EMMANOEL RODRIGUES ARTEMENKO
+
+
+Prefeito Municipal
+

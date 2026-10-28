@@ -1,0 +1,53 @@
+from pathlib import Path
+import sys,json,gzip,hashlib,subprocess,re,os
+from zoneinfo import ZoneInfo
+from datetime import datetime
+sys.path.insert(0,'scripts')
+from preparar_lote_decretos_cache import fields
+sha=lambda b:hashlib.sha256(b).hexdigest()
+base=Path('federal/_fonte/auditorias/clbr_1945_recuperacao_20261027_001');h={}
+hp=base/'entrega20175-hashes.json';o=json.loads(hp.read_text());rows=o['arquivos'] if isinstance(o,dict) else o
+for row in rows:
+ p=Path(row['path']);assert sha(p.read_bytes())==row['sha256'];h[str(p)]=row['sha256']
+for p in [hp,base/'entrega20175-paths.txt']:h[str(p)]=sha(p.read_bytes())
+r=json.loads((base/'candidato20175.json').read_text());head=subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip()
+p=Path(r['path']);old=p.read_bytes();assert sha(old)==r['sha256_preimagem'];assert subprocess.check_output(['git','show',head+':'+str(p)])==old
+assert Path(r['preimagem_privada']).read_bytes()==old
+new=Path(r['candidato']).read_bytes();assert sha(new)==r['sha256_candidato']
+om,_,ob=fields(old.decode());nm,_,nb=fields(new.decode());expected=ob
+assert set(nm)-set(om)=={'fonte_anexos_1_2','sha256_pdf_anexos_1_2','edicao_anexos_1_2','baixado_texto_anterior_em','observacao_complementacao'}
+assert {k:v for k,v in om.items() if k not in {'versao_texto','baixado_em'}}=={k:nm[k] for k in om if k not in {'versao_texto','baixado_em'}}
+assert nm['baixado_texto_anterior_em']==om['baixado_em']
+pdf=r['fontes']['PDF'];q=Path(pdf['arquivo']);assert q.stat().st_size==pdf['bytes']<95*1024**2 and sha(q.read_bytes())==pdf['sha256_PDF']==nm['sha256_pdf_anexos_1_2'];h[str(q)]=pdf['sha256_PDF']
+assert datetime.fromisoformat(pdf['captura_fim_utc']).astimezone(ZoneInfo('America/Recife')).date().isoformat()==nm['baixado_em']
+assert len(r['assets'])==2
+for i,a in enumerate(r['assets'],1):
+ source=Path(a['arquivo_privado']);target=Path(a['destino_proposto']);assert sha(source.read_bytes())==a['sha256'] and not target.exists()
+ assert subprocess.check_output(['git','cat-file','--batch-check'],input=(head+':'+str(target)+'\n').encode()).endswith(b' missing\n')
+ image=next(x for x in re.findall(r'!\[[^\n]+\]\([^\n]+\)',nb) if x.endswith('anexo'+str(i)+'.png)'))
+ link=re.search(r'\]\(([^)]+)\)$',image)[1];assert (p.parent/link).resolve()==target.resolve()
+ pointer='&lt;&lt;ANEXO>>CLBR VOL 08 Ano 1945 Pág. '+str(453+i)+' Tabela.';assert expected.count(pointer)==1;expected=expected.replace(pointer,image)
+assert expected==nb,'Corpo mudou fora dos dois ponteiros'
+rp=Path('scripts/dados/pendencias-integralidade-publicadas.json');oldreg=rp.read_bytes();assert subprocess.check_output(['git','show',head+':'+str(rp)])==oldreg
+reg=json.loads(oldreg);removed=[x for x in reg['pendentes'] if x['path']==str(p)];assert len(reg['pendentes'])==7603 and len(removed)==1 and removed[0]['sha256_md']==sha(old)
+print('Principal/113 artigos/Anexos3–6 byte idênticos; dois fac-símiles da mesma edição CLBR conferidos visualmente pelo ROOT; 7603 -> 7602; zero normas novas.',flush=True)
+if '--apply' not in sys.argv:raise SystemExit(0)
+control=Path('federal/_fonte/auditorias/recuperacao20175-ROOT-20261027');control.mkdir(exist_ok=False)
+for name,raw in [('preimagem.md.gz',gzip.compress(old,mtime=0)),('pendencias7603.json.gz',gzip.compress(oldreg,mtime=0)),('candidato.md.gz',gzip.compress(new,mtime=0))]:
+ dst=control/name;dst.write_bytes(raw);h[str(dst)]=sha(raw)
+intention=control/'intencao.json';intention.write_text(json.dumps({'HEAD':head,'preimagem':sha(old),'candidato':sha(new),'pendencias_antes':7603,'remover':removed,'assets':r['assets'],'criterio_ROOT':'Folha de rosto: coleção1945, volumeVIII, outubro–dezembro, impressão1946. Índice e principal próprios na página427. Anexo1: quadro completo do pessoal, total24. Anexo2: tabelaPrice completa com taxas/prazos/observações. Páginas454/455 integrais, orientação e pixels originais do render; texto fora dos ponteiros preservado. Nenhuma inferência de vigência ou correção de números/grafia.'},ensure_ascii=False,indent=2)+'\n');h[str(intention)]=sha(intention.read_bytes())
+for a in r['assets']:
+ target=Path(a['destino_proposto']);target.parent.mkdir(parents=True,exist_ok=True)
+ with target.open('xb') as out:out.write(Path(a['arquivo_privado']).read_bytes());out.flush();os.fsync(out.fileno())
+ assert sha(target.read_bytes())==a['sha256'];h[str(target)]=a['sha256']
+def replace(path,data,preimage):
+ assert path.read_bytes()==preimage
+ temp=path.with_name('.'+path.name+'.root20175.tmp');assert not temp.exists()
+ with temp.open('xb') as out:out.write(data);out.flush();os.fsync(out.fileno())
+ assert path.read_bytes()==preimage;os.replace(temp,path);assert path.read_bytes()==data
+assert subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip()==head
+replace(p,new,old);h[str(p)]=sha(new)
+reg['pendentes']=[x for x in reg['pendentes'] if x['path']!=str(p)];assert len(reg['pendentes'])==7602
+replace(rp,(json.dumps(reg,ensure_ascii=False,indent=2)+'\n').encode(),oldreg);h[str(rp)]=sha(rp.read_bytes())
+out=control/'resultado.json';out.write_text(json.dumps({'HEAD':head,'recuperados':1,'novas_normas':0,'pendencias_antes':7603,'pendencias_depois':7602,'corpo_fora_dos_ponteiros_byte_identico':True,'sha256':h},ensure_ascii=False,indent=2)+'\n');h[str(out)]=sha(out.read_bytes())
+Path('_fonte/operacao_root_20261027/recuperacao20175-hashes.json').write_text(json.dumps(h,ensure_ascii=False,indent=2)+'\n');print('Recuperação aplicada com preimagens e registro preservados',flush=True)

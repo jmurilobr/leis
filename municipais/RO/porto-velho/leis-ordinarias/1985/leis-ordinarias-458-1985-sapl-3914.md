@@ -1,0 +1,106 @@
+---
+titulo: "Lei nº 458, de 09 de julho de 1985"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "458"
+data: "1985-07-09"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/3914"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/4082/text"
+sha256_fonte: "92de2e77e7197689ccbe8f1b984d7b5c1a419cfbed8135a4866bb9d20fb3e27c"
+sha256_texto: "ef2116f06a00f442949cc2f1c5f07dedc6eb20b43f52c76ad8eb5d106d9cac27"
+capturado_em_fonte: "2026-10-27T22:30:29.237841-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 458, de 09 de julho de 1985
+
+"Autoriza ao Executivo Municipal a doar uma área de terra aos SOLDADOS DA BORRACHA, e dá outras providências".
+
+
+O PREFEITO DO MUNICÍPIO DE PORTO VELHO, no uso das atribuições que lhe confere a Constituição do Estado de Rondônia,
+
+FAÇO SABER, que a Câmara Municipal de Porto Velho aprovou e eu sanciono a seguinte
+
+L E I :
+
+
+Art. 1º.
+
+Fica autorizado o Executivo Municipal a doar uma área de terra do patrimônio Físico do Município, no setor urbano, aos SOLDADOS DA BORRACHA residentes nesta Cidade.
+
+
+Parágrafo único
+
+A área que trata este artigo será destinada, a construção de casas residenciais dos beneficiados.
+
+
+Art. 2º.
+
+Ao Poder Executivo Municipal caberá a seleção dos que terão direito a receber a referida área de terra.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 4º.
+
+Revogam-se as disposições em contrário.
+
+
+JOSÉ ALVES VIEIRA GUEDES
+
+Prefeito Municipal
+
+HUMBERTO VIANA NONATO
+
+Sec. Municipal da Fazenda
+
+LUCINDO JOSÉ QUINTANS
+
+Sec. Municipal de Planejamento.
+
+LUCIVALDO EVANGELISTA DE SOUZA
+
+Sec. Municipal de Administração.
+
+DANIEL SOARES DO NASCIMENTO
+
+Secretário Municipal de Educação e Cultura.
+
+SILVIO NASCIMENTO GUALBERTO
+
+Sec. Municipal de Saúde.
+
+VIVALDO GARCIA
+
+Sec. Municipal de Obras.
+
+PAULO ROBERTO OTTO BARBOSA
+
+Sec. Municipal de Serviços Públicos.
+
+JOSÉ WALDIR ALMEIDA GALVÃO
+
+Sec. Municipal de Assist. ao Interior
+
+ODAIZA FERNANDES FERREIRA
+
+Secretária Municipal de Assist. e Promoção Social.
+
+JOSÉ FERREIRA DA COSTA
+
+Sec. Municipal de Transporte.
+
+STEFENSON PINHEIRO SILVA
+
+Procurador Geral
+

@@ -1,0 +1,60 @@
+---
+titulo: "Lei Ordinária nº 7.198, de 12 de dezembro de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "7198"
+data: "2022-12-12"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/7853"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/1147/text"
+sha256_fonte: "e38f3388a9c78a5ecf2429f873f30c6219a7f24b38cb197a5050d5853850eed7"
+sha256_texto: "2a01ee785c43d4cf390a7804b0e16855d3fe03161bee9750014de71a4f1c23b7"
+capturado_em_fonte: "2026-10-27T18:02:57.792877-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 7.198, de 12 de dezembro de 2022
+
+ALTERA E SUBSTITUI O ANEXO ÚNICO DA LEI Nº 4.012, DE 27 DE DEZEMBRO DE 2001.  
+Projeto de Lei nº 139/2022, de autoria do Prefeito Municipal.
+
+
+Eu, **LEANDRO MAFFEIS MILANI**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,
+
+FAÇO SABER que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+O Anexo Único da Lei nº 4.012, de 27 de dezembro de 2001, que Dispõe sobre autorização para celebração de convênios ou acordos com entes da Federação e entidades sediadas no Município para cessão de servidores, e providências correlatas, fica alterado e substituído pelo que integra a presente Lei.
+
+
+Art. 2º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Birigui, aos doze de dezembro de dois mil e vinte e dois.
+
+**LEANDRO MAFFEIS MILANI Prefeito Municipal**
+
+**MILTON PAULO BOER Secretário Municipal de Administração**
+
+Publicado na Secretaria de Municipal de Governo da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**VICTÓRIA ZOCANTE DOS ANJOS Secretária Adjunta de Governo**
+
+
+Anexo Único
+
+ENTIDADES FEDERADOS / ENTIDADES SEDIADAS NO MUNICÍPIO
+
+
+ABRIGO VÓ TEREZARua Das Hortências, nº 40 – Cidade Jardim – Birigui – SP.APAC – ASSOCIAÇÃO DE PROTEÇÃO E ASSISTÊNCIA CARCERÁRIARua Bento da Cruz, nº 805 – Centro – Birigui – SP.APAE – ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAISRua Oswaldo Cruz, nº 5 – Centro – Birigui – SP.ASSOCIAÇÃO BOMBEIROS MIRINS JUVENIS VOLUNTÁRIOS DE BIRIGUIRua Maestro Antonio Passarelli, nº 935 – Centro – Birigui – SP.BANCO DO POVOPraça James Mellor, s/nº – Centro – Birigui – SP.CÂMARA MUNICIPAL DE BIRIGUIAvenida Nove de Julho, nº 2505 – Jardim Novo Stábile – Birigui – SP.CARTÓRIO DA 25 ZONA ELEITORAL DA COMARCA DE BIRIGUIRua Santos Dumont, nº 317– Centro – Birigui - SPCASA DE AGRICULTURARua Roberto Clark, nº 443 – Centro – Birigui – SP.CASA DO CAMINHO AVE CRISTORua Ave Cristo, nº 600, Bairro Colinas – Birigui – SP.CASA SÃO CAMILORua Santa Tereza, nº 133 – Birigui – SP.CENTRO DE APOIO PROF. REYNALDO CISOTO GIANNECHINIRua Ave Cristo, nº 600 – Bairro Colinas – Birigui - SPCIRETRAN - 67ª CIRCUNSCRIÇÃO REGIONAL DE TRÂNSITORua Bento da Cruz, nº 805-Fundos – Centro – Birigui – SP.CONSELHO TUTELAR DO MENORAvenida José Agostinho Rossi, nº 301 – Vila Roberto – Birigui – SP.CORPO DE BOMBEIROSRua Cândido Tomas de Carvalho, nº 190– Parque Paineiras – Birigui – SP.CRECHE JOSEFINA G. SILVATravessa Carlos Gomes, nº 3 – Centro – Birigui – SP.DELEGACIA DE POLÍCIA DO MUNICÍPIO DE BIRIGÜIRua Bento da Cruz, nº 805 – Centro – Birigui – SP.DELEGACIA DE POLÍCIA DO MUNICÍPIO DE BIRIGÜI –1º DISTRITO POLICIALRua Noroeste, nº 815 – Bairro Perdizes – Birigui – SP.DELEGACIA DE POLICIA DO MUNICIPIO DE BIRIGÜI –2º DISTRITO POLICIALRua Afonso Pena, nº 2.546 – Bairro Izabel Marin – Birigui – SP.DELEGACIA DE POLÍCIA DE DEFESA DA MULHERRua Getúlio Vargas, nº 443 – Bairro Silvares – Birigui – SP.DELEGACIA DO TRABALHORua Bandeirantes, nº 143 – Centro – Birigui – SP.DEPARTAMENTO DE ÁGUA E ENERGIA ELÉTRICA – DAEERua Silvares, nº 100 – Bairro Silvares – Birigui – SP.ESCOLA ESTADUAL DR. CARLOS CARVALHO ROSATravessa Clélia, nº 94 – Vila Guanabara – Birigui – SP.ESCOLA ESTADUAL MONTE LÍBANORua Antonio Agatieli s/nº - Jardim Monte Líbano – Birigui – SP.ESCOLA ESTADUAL PROFA. ESMERALDA MILANO MARONIEstrada Municipal, nº 1075 – Jandaia Residencial Parque – Birigui – SP.ESCOLA ESTADUAL PROFA. GERACINA MENEZES SANCHESRua Orélio Loli, nº 970 – Jardim São Conrado – Birigui – SP.ESCOLA ESTADUAL PROFA. ()LÍVIA ANGELA FURLANIRua Antonio Agatiello, nº 2020 – Residencial Monte Libano – Birigui – SP.ESCOLA ESTADUAL PROF. ANTONIO SALES DE OLIVEIRARua José Vieira, nº 438 – Residencial Tereza Maria Barbieri – Birigui – SP.ESCOLA ESTADUAL PROF. HERMÍNIO CANTIZANIRua Arthur Albertin s/nº - Jardim Recanto dos Pássaros – Birigui – SP.ESCOLA ESTADUAL PROFA. ISABEL BRANCORua Antonio Fabrício, nº 200 – Núcleo Habitacional Ivone Alves Palma – Birigui – SP.ESCOLA ESTADUAL PROFA. IZABEL DE ALMEIDA MARINRua Manoel Marin Berbel, nº 2.200 – Vila Izabel Marin – Birigui – SP.ESCOLA ESTADUAL PROFA. LYDIA HELENA FRANDSEN STHURRua João Lopes Hydalgo, nº 168 – Bairro Morumbi – Birigui – SP.ESCOLA ESTADUAL PROFA. NAYR BORGES PENTEADORua Braz Sanches Arriaga, nº 1.638 – Jardim São Braz – Birigui – SP.ESCOLA ESTADUAL PROFA. REGINA VALARINI VIEIRARua Roberto Clark, nº 357– Centro – Birigui – SP.ESCOLA ESTADUAL PROF. RICARDO PERUZZORua Dr. Luiz Toledo Piza Sobrinho, nº 453 – Residencial Alvorada – Birigui – SPESCOLA ESTADUAL PROF. STÉLIO MACHADO LOUREIRORua Mário de Souza Campos, nº 545 – Centro – Birigui – SP.ESCOLA ESTADUAL VICENTE FELíCIO PRIMOAvenida João Cernach, nº 3106 – Residencial Nelson Calixto – Birigui – SP.FUNDAÇÃO MUNICIPAL DE ENSINO DE BIRIGUI – FUMDEBRua Antonio Simões, nº 4 – Centro- Birigui – SP.INCUBADORA – PARQUE INDUSTRIALRua Marco Botteon, nº 280 – Jardim São Cristóvão – Birigui – SP.INSTITUTO DE PREVIDÊNCIA DO MUNICÍPIO DE BIRIGÜI – BIRIGUIPREVRua 9 de Julho, nº 202 – Birigui – SP.INSTITUTO EMPRESARIAL DE APOIO À FORMAÇÃO DA CRIANÇA E DO ADOLESCENTE – PRÓ-CRIANÇA IPIS – INSTITUTO DE PROMOÇÃO E INCLUSÃO SOCIALRua São Paulo, nº 1.105 – Birigui – SP.JUNTA MILITARRua Afonso Pena, nº 1 – Vila Maria – Birigui – SP.LAR NOSSA SENHORA DAS GRAÇASRua Lorena, nº 342 – Bairro Santo Antonio – Birigui – SP.PASTORAL DA CRIANÇARua Paraíba, nº 355 – Vila Moimaz – Birigui – SP.POLICIA MILITARRua Anchieta, nº 857 – Vila Germano – Birigui – SP.POLICIA MIRIMAvenida João Cernach, nº 2.200 – Vila Moimaz – Birigui – SP.PROCONRua Bandeirantes, nº 800 – Jardim Sumaré – Birigui – SP.PROJETO RECREAR UNIÃO DE TODOS – ASSPRUTAvenida Francisco Contel, 20, Acapulco – Birigui/SPRECANTO DO VOVÔRua Campos Sales, nº 362 – Jardim Icaray – Birigui – SP.SANTA CASA DE MISERICÓRIDA DE BIRIGUIRua Dr. Carlos Carvalho Rosa, nº 115 – Patrimônio Silvares – Birigui – SP.SAPICRua Santos Dumont, nº 161 – Centro – Birigui – SP.SEBRAERua Santos Dumont, nº 223 – Centro – Birigui – SP.SENAIAvenida João Cernach, nº 2.180 – Vila Moimaz – Birigui – SP.SESI – SERVIÇO SOCIAL DA INDÚSTRIAAvenida José Agostinho Rossi s/nº - Birigui – SP.SINDICATO DOS FUNCIONÁRIOS E SERVIDORES PÚBLICOS MUNICIPAIS DE BIRIGUI E BREJO ALEGRE / SP – SISEPRua Islândia, nº 200 – Birigui – SP.TIRO DE GUERRARua Afonso Pena, nº 1 – Vila Maria – Birigui – SP.TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULORua Faustino Segura, nº 214 – Parque São Vicente – Birigui – SP.INCRA – Instituto de Colonização e Reforma AgráriaRua Brasílio Machado, nº 203 – 6º andar - São Paulo – SPTRIBUNAL REGIONAL DO TRABALHO DA 15ª REGIÃO – VARA DO TRABALHO DE BIRIGUIRua Nenohate Etto, nº 262 – Residencial Capuano – Birigui – SP.
+

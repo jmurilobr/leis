@@ -1,0 +1,592 @@
+{
+  "resumo": {
+    "fila": 21,
+    "obtidos_HTML": 21,
+    "candidatos": 16,
+    "replay_aprovados": 16,
+    "replay_divergencias": 0,
+    "retidos_preparo_total": 5,
+    "retidos_sem_HTML": 0,
+    "retidos_preparo_com_HTML": 5,
+    "promovidos": 0
+  },
+  "registros": [
+    {
+      "path": "federal/decretos/1940/dec-6410-1940-10-30.md",
+      "sha256_candidato": "21f88f0d8d0379fd1bf9532ddd584683a1c67d93628b7c96939c78701bfe2395",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.410, de 30 de Outubro de 1940 Concede inspenção permanente ao curso secundário fundamental do Ginásio Diocesano de Lages, com sede em Lages, Estado de Santa Catarina. O Presidente da República, resolve nos termos do art. 55, do decreto nº. 21.241, de 4 de abril de 1832, conceder inspeção permanente ao curso secundário fundamental do Ginásio Diocesano de Lages, com sede em Lages, Estado de Santa Catarina. Rio de Janeiro, 30 de outubro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS. Gustavo Capanema.",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.410, de 30 de Outubro de 1940</p>\n<p>Concede inspenção permanente ao curso secundário fundamental do Ginásio Diocesano de Lages, com sede em Lages, Estado de Santa Catarina.</p>\n<p>O Presidente da República, resolve nos termos do art. 55, do decreto nº. 21.241, de 4 de abril de 1832, conceder inspeção permanente ao curso secundário fundamental do Ginásio Diocesano de Lages, com sede em Lages, Estado de Santa Catarina.</p>\n<p>Rio de Janeiro, 30 de outubro de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS.<br>Gustavo Capanema.</p>\n",
+          "sha256_html_renderizado": "46c618fda5abaf100efbe8c675e1adfbe04e7b786637c56ec491d8d48b053e33",
+          "texto_visivel": "Decreto nº 6.410, de 30 de Outubro de 1940 Concede inspenção permanente ao curso secundário fundamental do Ginásio Diocesano de Lages, com sede em Lages, Estado de Santa Catarina. O Presidente da República, resolve nos termos do art. 55, do decreto nº. 21.241, de 4 de abril de 1832, conceder inspeção permanente ao curso secundário fundamental do Ginásio Diocesano de Lages, com sede em Lages, Estado de Santa Catarina. Rio de Janeiro, 30 de outubro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS. Gustavo Capanema."
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.410, de 30 de Outubro de 1940</p>\n<p>Concede inspenção permanente ao curso secundário fundamental do Ginásio Diocesano de Lages, com sede em Lages, Estado de Santa Catarina.</p>\n<p>O Presidente da República, resolve nos termos do art. 55, do decreto nº. 21.241, de 4 de abril de 1832, conceder inspeção permanente ao curso secundário fundamental do Ginásio Diocesano de Lages, com sede em Lages, Estado de Santa Catarina.</p>\n<p>Rio de Janeiro, 30 de outubro de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS.<br />\nGustavo Capanema.</p>\n",
+          "sha256_html_renderizado": "a9bc86425fbe9135c675726cccc540511f8224a218f53ab650570971807e7496",
+          "texto_visivel": "Decreto nº 6.410, de 30 de Outubro de 1940 Concede inspenção permanente ao curso secundário fundamental do Ginásio Diocesano de Lages, com sede em Lages, Estado de Santa Catarina. O Presidente da República, resolve nos termos do art. 55, do decreto nº. 21.241, de 4 de abril de 1832, conceder inspeção permanente ao curso secundário fundamental do Ginásio Diocesano de Lages, com sede em Lages, Estado de Santa Catarina. Rio de Janeiro, 30 de outubro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS. Gustavo Capanema."
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6292-1940-09-17.md",
+      "sha256_candidato": "f6c6898f091b307a6fde3c6c15a4cfee8252f1febbc0c0781b63d43f005a383a",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "DECRETO Nº 6.292, DE 17 DE SETEMBRO DE 1940 Extingue um (1) cargo excedente da Classe L, da carreira de Engenheiro, do Quadro I, do Ministério da Educação e Saúde. O Presidente da República, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição: Resolve declarar extinto um (1) cargo excedente da classe L, da carreira de Engenheiro, do Quadro I, do Ministério da Educação e Saude, vago em virtude da exoneração de Walter Ribeiro Quadros, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabelas anexas à lei n. 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei n. 378 e atos posteriores. Rio de Janeiro, 17 de setembro de 1940, 119º da Independência e 52º da República. GETULIO VARGAS. Gustavo Capanema.",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>DECRETO Nº 6.292, DE 17 DE SETEMBRO DE 1940</p>\n<p>Extingue um (1) cargo excedente da Classe L, da carreira de Engenheiro, do Quadro I, do Ministério da Educação e Saúde.</p>\n<p>O Presidente da República, usando da atribuição que lhe é conferida pelo art. 74, letra <em>a</em>, da Constituição:</p>\n<p>Resolve declarar extinto um (1) cargo excedente da classe L, da carreira de Engenheiro, do Quadro I, do Ministério da Educação e Saude, vago em virtude da exoneração de Walter Ribeiro Quadros, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabelas anexas à lei n. 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei n. 378 e atos posteriores.</p>\n<p>Rio de Janeiro, 17 de setembro de 1940, 119º da Independência e 52º da República.</p>\n<p>GETULIO VARGAS.<br>Gustavo Capanema.</p>\n",
+          "sha256_html_renderizado": "58febf979e4c67abafa7c8228226442f769b6d64e01e6c201bf6ba1baeeecfb6",
+          "texto_visivel": "DECRETO Nº 6.292, DE 17 DE SETEMBRO DE 1940 Extingue um (1) cargo excedente da Classe L, da carreira de Engenheiro, do Quadro I, do Ministério da Educação e Saúde. O Presidente da República, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição: Resolve declarar extinto um (1) cargo excedente da classe L, da carreira de Engenheiro, do Quadro I, do Ministério da Educação e Saude, vago em virtude da exoneração de Walter Ribeiro Quadros, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabelas anexas à lei n. 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei n. 378 e atos posteriores. Rio de Janeiro, 17 de setembro de 1940, 119º da Independência e 52º da República. GETULIO VARGAS. Gustavo Capanema."
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>DECRETO Nº 6.292, DE 17 DE SETEMBRO DE 1940</p>\n<p>Extingue um (1) cargo excedente da Classe L, da carreira de Engenheiro, do Quadro I, do Ministério da Educação e Saúde.</p>\n<p>O Presidente da República, usando da atribuição que lhe é conferida pelo art. 74, letra <em>a</em>, da Constituição:</p>\n<p>Resolve declarar extinto um (1) cargo excedente da classe L, da carreira de Engenheiro, do Quadro I, do Ministério da Educação e Saude, vago em virtude da exoneração de Walter Ribeiro Quadros, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabelas anexas à lei n. 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei n. 378 e atos posteriores.</p>\n<p>Rio de Janeiro, 17 de setembro de 1940, 119º da Independência e 52º da República.</p>\n<p>GETULIO VARGAS.<br />\nGustavo Capanema.</p>\n",
+          "sha256_html_renderizado": "c5262a65255a32a0d9a1bb4e9125e9d281d907eb8c72c2a628b59cb5cdc43881",
+          "texto_visivel": "DECRETO Nº 6.292, DE 17 DE SETEMBRO DE 1940 Extingue um (1) cargo excedente da Classe L, da carreira de Engenheiro, do Quadro I, do Ministério da Educação e Saúde. O Presidente da República, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição: Resolve declarar extinto um (1) cargo excedente da classe L, da carreira de Engenheiro, do Quadro I, do Ministério da Educação e Saude, vago em virtude da exoneração de Walter Ribeiro Quadros, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabelas anexas à lei n. 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei n. 378 e atos posteriores. Rio de Janeiro, 17 de setembro de 1940, 119º da Independência e 52º da República. GETULIO VARGAS. Gustavo Capanema."
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6293-1940-09-17.md",
+      "sha256_candidato": "b61f2652571f17ee5a9fe248b4130d0a9332e269b492b6574cfd12660228941c",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "DECRETO Nº 6.293, DE 17 DE SETEMBRO DE 1940 Extingue um (1) cargo excedente da classe C, da carreira de Servente, do Quadro I, do Ministério da Educação e Saúde. O Presidente da República, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição: Resolve declarar extinto um (1) cargo excedente da classe C, da carreira de Servente, do Quadro I, do Ministério da Educação e Saude, vago em virtude da transferência de Francisco Benigno José Monteiro, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabelas anexas à lei n. 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei n. 378 e atos posteriores. Rio de Janeiro, 17 de setembro de 1940, 119º da Independência e 52º da República. GETULIO VARGAS. Gustavo Capanema.",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>DECRETO Nº 6.293, DE 17 DE SETEMBRO DE 1940</p>\n<p>Extingue um (1) cargo excedente da classe C, da carreira de Servente, do Quadro I, do Ministério da Educação e Saúde.</p>\n<p>O Presidente da República, usando da atribuição que lhe é conferida pelo art. 74, letra <em>a</em>, da Constituição:</p>\n<p>Resolve declarar extinto um (1) cargo excedente da classe C, da carreira de Servente, do Quadro I, do Ministério da Educação e Saude, vago em virtude da transferência de Francisco Benigno José Monteiro, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabelas anexas à lei n. 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei n. 378 e atos posteriores.</p>\n<p>Rio de Janeiro, 17 de setembro de 1940, 119º da Independência e 52º da República.</p>\n<p>GETULIO VARGAS.<br>Gustavo Capanema.</p>\n",
+          "sha256_html_renderizado": "edf8a3db47bf25dff1306253363f63487d599dd22fcb538cbf41a09b73809489",
+          "texto_visivel": "DECRETO Nº 6.293, DE 17 DE SETEMBRO DE 1940 Extingue um (1) cargo excedente da classe C, da carreira de Servente, do Quadro I, do Ministério da Educação e Saúde. O Presidente da República, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição: Resolve declarar extinto um (1) cargo excedente da classe C, da carreira de Servente, do Quadro I, do Ministério da Educação e Saude, vago em virtude da transferência de Francisco Benigno José Monteiro, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabelas anexas à lei n. 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei n. 378 e atos posteriores. Rio de Janeiro, 17 de setembro de 1940, 119º da Independência e 52º da República. GETULIO VARGAS. Gustavo Capanema."
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>DECRETO Nº 6.293, DE 17 DE SETEMBRO DE 1940</p>\n<p>Extingue um (1) cargo excedente da classe C, da carreira de Servente, do Quadro I, do Ministério da Educação e Saúde.</p>\n<p>O Presidente da República, usando da atribuição que lhe é conferida pelo art. 74, letra <em>a</em>, da Constituição:</p>\n<p>Resolve declarar extinto um (1) cargo excedente da classe C, da carreira de Servente, do Quadro I, do Ministério da Educação e Saude, vago em virtude da transferência de Francisco Benigno José Monteiro, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabelas anexas à lei n. 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei n. 378 e atos posteriores.</p>\n<p>Rio de Janeiro, 17 de setembro de 1940, 119º da Independência e 52º da República.</p>\n<p>GETULIO VARGAS.<br />\nGustavo Capanema.</p>\n",
+          "sha256_html_renderizado": "52b99dfcb4570e784d3ba243f08fcfe247033a4e4e303754eeac321e612d176d",
+          "texto_visivel": "DECRETO Nº 6.293, DE 17 DE SETEMBRO DE 1940 Extingue um (1) cargo excedente da classe C, da carreira de Servente, do Quadro I, do Ministério da Educação e Saúde. O Presidente da República, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição: Resolve declarar extinto um (1) cargo excedente da classe C, da carreira de Servente, do Quadro I, do Ministério da Educação e Saude, vago em virtude da transferência de Francisco Benigno José Monteiro, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabelas anexas à lei n. 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei n. 378 e atos posteriores. Rio de Janeiro, 17 de setembro de 1940, 119º da Independência e 52º da República. GETULIO VARGAS. Gustavo Capanema."
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6285-1940-09-14.md",
+      "sha256_candidato": "f2597d118b8b2b730ac3df1b8253dd70bd375cd5b3c13ca35cce4a1268de0e8b",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "DECRETO Nº 6.285, DE 14 DE SETEMBRO DE 1940 Declara extinto cargo excedente. O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição, resolve declarar extinto o cargo excedente da classe II, da carreira de Prático de Engenharia (DNPN-DAC-DNOS), do Quadro I do Ministério da Viação e Obras Públicas, vago em virtude da aposentadoria de Joaquim Falco Uriarte, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à lei n. 284, de 28 de outubro de 1936, e o ato n. 16. de 29 de abril de 1937, do extinto Conselho Federal do Serviço Público Civil. Rio de Janeiro, 14 de setembro de 1940, 119º da Independência e 52º da República. GETULIO VARGAS. João de Mendonça Lima.",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>DECRETO Nº 6.285, DE 14 DE SETEMBRO DE 1940</p>\n<p>Declara extinto cargo excedente.</p>\n<p>O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição, resolve declarar extinto o cargo excedente da classe II, da carreira de Prático de Engenharia (DNPN-DAC-DNOS), do Quadro I do Ministério da Viação e Obras Públicas, vago em virtude da aposentadoria de Joaquim Falco Uriarte, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à lei n. 284, de 28 de outubro de 1936, e o ato n. 16. de 29 de abril de 1937, do extinto Conselho Federal do Serviço Público Civil.</p>\n<p>Rio de Janeiro, 14 de setembro de 1940, 119º da Independência e 52º da República.</p>\n<p>GETULIO VARGAS.<br>João de Mendonça Lima.</p>\n",
+          "sha256_html_renderizado": "6c26802a566512003bfbd5f5952ee729b95438f0727683a160bb595ce928978c",
+          "texto_visivel": "DECRETO Nº 6.285, DE 14 DE SETEMBRO DE 1940 Declara extinto cargo excedente. O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição, resolve declarar extinto o cargo excedente da classe II, da carreira de Prático de Engenharia (DNPN-DAC-DNOS), do Quadro I do Ministério da Viação e Obras Públicas, vago em virtude da aposentadoria de Joaquim Falco Uriarte, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à lei n. 284, de 28 de outubro de 1936, e o ato n. 16. de 29 de abril de 1937, do extinto Conselho Federal do Serviço Público Civil. Rio de Janeiro, 14 de setembro de 1940, 119º da Independência e 52º da República. GETULIO VARGAS. João de Mendonça Lima."
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>DECRETO Nº 6.285, DE 14 DE SETEMBRO DE 1940</p>\n<p>Declara extinto cargo excedente.</p>\n<p>O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição, resolve declarar extinto o cargo excedente da classe II, da carreira de Prático de Engenharia (DNPN-DAC-DNOS), do Quadro I do Ministério da Viação e Obras Públicas, vago em virtude da aposentadoria de Joaquim Falco Uriarte, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à lei n. 284, de 28 de outubro de 1936, e o ato n. 16. de 29 de abril de 1937, do extinto Conselho Federal do Serviço Público Civil.</p>\n<p>Rio de Janeiro, 14 de setembro de 1940, 119º da Independência e 52º da República.</p>\n<p>GETULIO VARGAS.<br />\nJoão de Mendonça Lima.</p>\n",
+          "sha256_html_renderizado": "4fcbd6d2eacd14bf5ec8e3002f2d44d74a84050645fe8a02ed723613155b5e22",
+          "texto_visivel": "DECRETO Nº 6.285, DE 14 DE SETEMBRO DE 1940 Declara extinto cargo excedente. O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição, resolve declarar extinto o cargo excedente da classe II, da carreira de Prático de Engenharia (DNPN-DAC-DNOS), do Quadro I do Ministério da Viação e Obras Públicas, vago em virtude da aposentadoria de Joaquim Falco Uriarte, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à lei n. 284, de 28 de outubro de 1936, e o ato n. 16. de 29 de abril de 1937, do extinto Conselho Federal do Serviço Público Civil. Rio de Janeiro, 14 de setembro de 1940, 119º da Independência e 52º da República. GETULIO VARGAS. João de Mendonça Lima."
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6272-1940-09-12.md",
+      "sha256_candidato": "0c418577a36901c5a5a5d1108c32f4d17b103d61b8d28a1dd048dab354ea78a9",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "DECRETO Nº 6.272, DE 12 DE SETEMBRO DE 1940 Declara extinto um cargo excedente na classe \"J\" da carreira de Agrônomo Fruticultor do Quadro único do Ministério da Agricultura. O Presidente da República Resolve declarar extinto, por se achar vago, em virtude da nomeação de Juvenal Gomes Ferreira, um (1) cargo excedente na classe J da carreira de Agrônomo Fruticultor, do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na carreira de Agrônomo, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>DECRETO Nº 6.272, DE 12 DE SETEMBRO DE 1940</p>\n<p>Declara extinto um cargo excedente na classe &quot;J&quot; da carreira de Agrônomo Fruticultor do Quadro único do Ministério da Agricultura.</p>\n<p>O Presidente da República</p>\n<p>Resolve declarar extinto, por se achar vago, em virtude da nomeação de Juvenal Gomes Ferreira, um (1) cargo excedente na classe J da carreira de Agrônomo Fruticultor, do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na carreira de Agrônomo, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República.</p>\n<p>GETÚLIO VARGAS<br>Fernando Costa</p>\n",
+          "sha256_html_renderizado": "1e6a9991bfd3981a3c40fec22591292b55933acae1a19259f68b77e861abead9",
+          "texto_visivel": "DECRETO Nº 6.272, DE 12 DE SETEMBRO DE 1940 Declara extinto um cargo excedente na classe \"J\" da carreira de Agrônomo Fruticultor do Quadro único do Ministério da Agricultura. O Presidente da República Resolve declarar extinto, por se achar vago, em virtude da nomeação de Juvenal Gomes Ferreira, um (1) cargo excedente na classe J da carreira de Agrônomo Fruticultor, do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na carreira de Agrônomo, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>DECRETO Nº 6.272, DE 12 DE SETEMBRO DE 1940</p>\n<p>Declara extinto um cargo excedente na classe &quot;J&quot; da carreira de Agrônomo Fruticultor do Quadro único do Ministério da Agricultura.</p>\n<p>O Presidente da República</p>\n<p>Resolve declarar extinto, por se achar vago, em virtude da nomeação de Juvenal Gomes Ferreira, um (1) cargo excedente na classe J da carreira de Agrônomo Fruticultor, do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na carreira de Agrônomo, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República.</p>\n<p>GETÚLIO VARGAS<br />\nFernando Costa</p>\n",
+          "sha256_html_renderizado": "2090ed03280265b6437a806110c433b046da3c5aeb8bfa07e4b3a14e425bc9dc",
+          "texto_visivel": "DECRETO Nº 6.272, DE 12 DE SETEMBRO DE 1940 Declara extinto um cargo excedente na classe \"J\" da carreira de Agrônomo Fruticultor do Quadro único do Ministério da Agricultura. O Presidente da República Resolve declarar extinto, por se achar vago, em virtude da nomeação de Juvenal Gomes Ferreira, um (1) cargo excedente na classe J da carreira de Agrônomo Fruticultor, do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na carreira de Agrônomo, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6273-1940-09-12.md",
+      "sha256_candidato": "00d88b29a5f7f1e3bc988f8fac724bd434953f4e3587b7798d1e53c34237d2d9",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "DECRETO Nº 6.273, DE 12 DE SETEMBRO DE 1940 Declara extinto um cargo excedente na classe \"J\" da carreira de Técnico de Laboratório do Quadro único do Ministério da Agricultura. O Presidente da República, Resolve declarar extinto, por se achar vago, em virtude da nomeação de Camilo Rodrigues Dantas, um (1) cargo excedente na classe J da carreira de Técnico de Laboratório, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>DECRETO Nº 6.273, DE 12 DE SETEMBRO DE 1940</p>\n<p>Declara extinto um cargo excedente na classe &quot;J&quot; da carreira de Técnico de Laboratório do Quadro único do Ministério da Agricultura.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, em virtude da nomeação de Camilo Rodrigues Dantas, um (1) cargo excedente na classe J da carreira de Técnico de Laboratório, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República.</p>\n<p>GETÚLIO VARGAS<br>Fernando Costa</p>\n",
+          "sha256_html_renderizado": "6e3bfdb000e57cf0146ef8a5a6ecb4b182e14efc898eca22b1ad098db8f0a1ca",
+          "texto_visivel": "DECRETO Nº 6.273, DE 12 DE SETEMBRO DE 1940 Declara extinto um cargo excedente na classe \"J\" da carreira de Técnico de Laboratório do Quadro único do Ministério da Agricultura. O Presidente da República, Resolve declarar extinto, por se achar vago, em virtude da nomeação de Camilo Rodrigues Dantas, um (1) cargo excedente na classe J da carreira de Técnico de Laboratório, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>DECRETO Nº 6.273, DE 12 DE SETEMBRO DE 1940</p>\n<p>Declara extinto um cargo excedente na classe &quot;J&quot; da carreira de Técnico de Laboratório do Quadro único do Ministério da Agricultura.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, em virtude da nomeação de Camilo Rodrigues Dantas, um (1) cargo excedente na classe J da carreira de Técnico de Laboratório, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República.</p>\n<p>GETÚLIO VARGAS<br />\nFernando Costa</p>\n",
+          "sha256_html_renderizado": "2c092c468e7c641b9407cc7b742b60284133a6a6edbb1e8a5e432e1e2c41d9cf",
+          "texto_visivel": "DECRETO Nº 6.273, DE 12 DE SETEMBRO DE 1940 Declara extinto um cargo excedente na classe \"J\" da carreira de Técnico de Laboratório do Quadro único do Ministério da Agricultura. O Presidente da República, Resolve declarar extinto, por se achar vago, em virtude da nomeação de Camilo Rodrigues Dantas, um (1) cargo excedente na classe J da carreira de Técnico de Laboratório, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6275-1940-09-12.md",
+      "sha256_candidato": "238ac2bc52e327f94cc09be0ef701293ec40b0adddfdb89caa75112da24081f5",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "DECRETO Nº 6.275, DE 12 DE SETEMBRO DE 1940 Extingue cargo excedente na classe \"G\" da carreira de Contabilista. O Presidente da República, Resolve declarar extinto, por se achar vago, em virtude da promoção de Alcindo Pereira da Silva, um (1) cargo excedente na classe G da carreira de Contabilista do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo, apurado dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>DECRETO Nº 6.275, DE 12 DE SETEMBRO DE 1940</p>\n<p>Extingue cargo excedente na classe &quot;G&quot; da carreira de Contabilista.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, em virtude da promoção de Alcindo Pereira da Silva, um (1) cargo excedente na classe G da carreira de Contabilista do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo, apurado dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República.</p>\n<p>GETÚLIO VARGAS<br>Fernando Costa</p>\n",
+          "sha256_html_renderizado": "d8fdd879117ff4bab4512cc4abb9e681bf608225b9d6bad468da3b0cd188329c",
+          "texto_visivel": "DECRETO Nº 6.275, DE 12 DE SETEMBRO DE 1940 Extingue cargo excedente na classe \"G\" da carreira de Contabilista. O Presidente da República, Resolve declarar extinto, por se achar vago, em virtude da promoção de Alcindo Pereira da Silva, um (1) cargo excedente na classe G da carreira de Contabilista do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo, apurado dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>DECRETO Nº 6.275, DE 12 DE SETEMBRO DE 1940</p>\n<p>Extingue cargo excedente na classe &quot;G&quot; da carreira de Contabilista.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, em virtude da promoção de Alcindo Pereira da Silva, um (1) cargo excedente na classe G da carreira de Contabilista do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo, apurado dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República.</p>\n<p>GETÚLIO VARGAS<br />\nFernando Costa</p>\n",
+          "sha256_html_renderizado": "09d9e4b240344f95fd6ae0be281063a406c5516e0e1c54c21aab94d38ac5e28d",
+          "texto_visivel": "DECRETO Nº 6.275, DE 12 DE SETEMBRO DE 1940 Extingue cargo excedente na classe \"G\" da carreira de Contabilista. O Presidente da República, Resolve declarar extinto, por se achar vago, em virtude da promoção de Alcindo Pereira da Silva, um (1) cargo excedente na classe G da carreira de Contabilista do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo, apurado dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6276-1940-09-12.md",
+      "sha256_candidato": "5adae377fcf7ba5d32e2acd10099fd74246a4cbb7d821437ead67019dd8352b4",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "DECRETO Nº 6.276, DE 12 DE SETEMBRO DE 1940 Declara extinto um cargo excedente na classe \"C\" da carreira de Servente do Quadro único do Ministério da Agricultura. O Presidente da República, Resolve declarar extinto, por se achar vago, em virtude da demição de José Leone, um (1) cargo excedente na classe C da carreira de Servente do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>DECRETO Nº 6.276, DE 12 DE SETEMBRO DE 1940</p>\n<p>Declara extinto um cargo excedente na classe &quot;C&quot; da carreira de Servente do Quadro único do Ministério da Agricultura.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, em virtude da demição de José Leone, um (1) cargo excedente na classe C da carreira de Servente do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República.</p>\n<p>GETÚLIO VARGAS<br>Fernando Costa</p>\n",
+          "sha256_html_renderizado": "f93fe2e66da5d4a1a4f7296fa91b446960a0deb49853da19656084e7f15f2279",
+          "texto_visivel": "DECRETO Nº 6.276, DE 12 DE SETEMBRO DE 1940 Declara extinto um cargo excedente na classe \"C\" da carreira de Servente do Quadro único do Ministério da Agricultura. O Presidente da República, Resolve declarar extinto, por se achar vago, em virtude da demição de José Leone, um (1) cargo excedente na classe C da carreira de Servente do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>DECRETO Nº 6.276, DE 12 DE SETEMBRO DE 1940</p>\n<p>Declara extinto um cargo excedente na classe &quot;C&quot; da carreira de Servente do Quadro único do Ministério da Agricultura.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, em virtude da demição de José Leone, um (1) cargo excedente na classe C da carreira de Servente do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República.</p>\n<p>GETÚLIO VARGAS<br />\nFernando Costa</p>\n",
+          "sha256_html_renderizado": "41b71b7b41367cb32ee770a0403730b50ca4db9b74b284fc8c228b0d3d42505b",
+          "texto_visivel": "DECRETO Nº 6.276, DE 12 DE SETEMBRO DE 1940 Declara extinto um cargo excedente na classe \"C\" da carreira de Servente do Quadro único do Ministério da Agricultura. O Presidente da República, Resolve declarar extinto, por se achar vago, em virtude da demição de José Leone, um (1) cargo excedente na classe C da carreira de Servente do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6278-1940-09-12.md",
+      "sha256_candidato": "5ef47f5ceb9d8da689b816df8128d6f0e3527b2548aebfc49aa75690a3cb0c82",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "DECRETO Nº 6.278, DE 12 DE SETEMBRO DE 1940 Suprime um quadro da carreira extinta, de Estacionário, do Quadro único do Ministério da Agricultura. O Presidente da República, Resolve suprimir, por se achar vago, em virtude da exoneração de Januário da Silva Fernandes, um (1) cargo da carreira extinta de Estacionário, do Quadro Único do Ministério da Agricultura, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>DECRETO Nº 6.278, DE 12 DE SETEMBRO DE 1940</p>\n<p>Suprime um quadro da carreira extinta, de Estacionário, do Quadro único do Ministério da Agricultura.</p>\n<p>O Presidente da República,</p>\n<p>Resolve suprimir, por se achar vago, em virtude da exoneração de Januário da Silva Fernandes, um (1) cargo da carreira extinta de Estacionário, do Quadro Único do Ministério da Agricultura, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República.</p>\n<p>GETÚLIO VARGAS<br>Fernando Costa</p>\n",
+          "sha256_html_renderizado": "9c722b19d61b12a292b75756bd4dcc9950aa0b6d5979e24f7ceed36d006b781b",
+          "texto_visivel": "DECRETO Nº 6.278, DE 12 DE SETEMBRO DE 1940 Suprime um quadro da carreira extinta, de Estacionário, do Quadro único do Ministério da Agricultura. O Presidente da República, Resolve suprimir, por se achar vago, em virtude da exoneração de Januário da Silva Fernandes, um (1) cargo da carreira extinta de Estacionário, do Quadro Único do Ministério da Agricultura, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>DECRETO Nº 6.278, DE 12 DE SETEMBRO DE 1940</p>\n<p>Suprime um quadro da carreira extinta, de Estacionário, do Quadro único do Ministério da Agricultura.</p>\n<p>O Presidente da República,</p>\n<p>Resolve suprimir, por se achar vago, em virtude da exoneração de Januário da Silva Fernandes, um (1) cargo da carreira extinta de Estacionário, do Quadro Único do Ministério da Agricultura, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República.</p>\n<p>GETÚLIO VARGAS<br />\nFernando Costa</p>\n",
+          "sha256_html_renderizado": "48c5785db85713d80b35a5def398d23a2d12dd2951882089c12a6db0f60475f2",
+          "texto_visivel": "DECRETO Nº 6.278, DE 12 DE SETEMBRO DE 1940 Suprime um quadro da carreira extinta, de Estacionário, do Quadro único do Ministério da Agricultura. O Presidente da República, Resolve suprimir, por se achar vago, em virtude da exoneração de Januário da Silva Fernandes, um (1) cargo da carreira extinta de Estacionário, do Quadro Único do Ministério da Agricultura, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6279-1940-09-12.md",
+      "sha256_candidato": "79385432130945a5f86eb59ca9d1189d52837b857fbaadc33b5098fe2e356a7d",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "DECRETO Nº 6.279, DE 12 DE SETEMBRO DE 1940 Extingue um cargo excedente na classe \"G\", carreira de Observador Metereológico, do Quadro único do Ministério da Agricultura. O Presidente da República, Resolve extinguir, por se achar vago, em virtude da promoção de Paulo Muylaert Tinoco, um (1) cargo excedente da classe G da carreira de Observador Meteorológico, do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na classe F da referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>DECRETO Nº 6.279, DE 12 DE SETEMBRO DE 1940</p>\n<p>Extingue um cargo excedente na classe &quot;G&quot;, carreira de Observador Metereológico, do Quadro único do Ministério da Agricultura.</p>\n<p>O Presidente da República,</p>\n<p>Resolve extinguir, por se achar vago, em virtude da promoção de Paulo Muylaert Tinoco, um (1) cargo excedente da classe G da carreira de Observador Meteorológico, do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na classe F da referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República.</p>\n<p>GETÚLIO VARGAS<br>Fernando Costa</p>\n",
+          "sha256_html_renderizado": "386bcb1787d2aeab4315777d2c080996f8d95d440de51a2eb87a6687db94e0ee",
+          "texto_visivel": "DECRETO Nº 6.279, DE 12 DE SETEMBRO DE 1940 Extingue um cargo excedente na classe \"G\", carreira de Observador Metereológico, do Quadro único do Ministério da Agricultura. O Presidente da República, Resolve extinguir, por se achar vago, em virtude da promoção de Paulo Muylaert Tinoco, um (1) cargo excedente da classe G da carreira de Observador Meteorológico, do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na classe F da referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>DECRETO Nº 6.279, DE 12 DE SETEMBRO DE 1940</p>\n<p>Extingue um cargo excedente na classe &quot;G&quot;, carreira de Observador Metereológico, do Quadro único do Ministério da Agricultura.</p>\n<p>O Presidente da República,</p>\n<p>Resolve extinguir, por se achar vago, em virtude da promoção de Paulo Muylaert Tinoco, um (1) cargo excedente da classe G da carreira de Observador Meteorológico, do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na classe F da referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República.</p>\n<p>GETÚLIO VARGAS<br />\nFernando Costa</p>\n",
+          "sha256_html_renderizado": "0479168c68266e2121fd9259f84c5acfa39f01473f9b7356562ad0b1e62f083a",
+          "texto_visivel": "DECRETO Nº 6.279, DE 12 DE SETEMBRO DE 1940 Extingue um cargo excedente na classe \"G\", carreira de Observador Metereológico, do Quadro único do Ministério da Agricultura. O Presidente da República, Resolve extinguir, por se achar vago, em virtude da promoção de Paulo Muylaert Tinoco, um (1) cargo excedente da classe G da carreira de Observador Meteorológico, do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na classe F da referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6277-1940-09-12.md",
+      "sha256_candidato": "f78cd34201dbf416e72293bca84fe5a37dc183efc338ce17b1f531100e0bc3df",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "DECRETO Nº 6.277, DE 12 DE SETEMBRO DE 1940 Declara extinto um cargo excedente na classe \"E\" da carreira de prático rural, do Quadro único do Ministério da Agricultura. O Presidente da República, Resolve declarar extinto, por se achar vago, em virtude do falecimento de Olípio Branco Orsi, um (1) cargo excedente na classe E da carreira de prático rural, do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>DECRETO Nº 6.277, DE 12 DE SETEMBRO DE 1940</p>\n<p>Declara extinto um cargo excedente na classe &quot;E&quot; da carreira de prático rural, do Quadro único do Ministério da Agricultura.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, em virtude do falecimento de Olípio Branco Orsi, um (1) cargo excedente na classe E da carreira de prático rural, do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República.</p>\n<p>GETÚLIO VARGAS<br>Fernando Costa</p>\n",
+          "sha256_html_renderizado": "5bb34e9291d842f6f8573c65fe9632bcee5dbfba000e8595d8737485994437ec",
+          "texto_visivel": "DECRETO Nº 6.277, DE 12 DE SETEMBRO DE 1940 Declara extinto um cargo excedente na classe \"E\" da carreira de prático rural, do Quadro único do Ministério da Agricultura. O Presidente da República, Resolve declarar extinto, por se achar vago, em virtude do falecimento de Olípio Branco Orsi, um (1) cargo excedente na classe E da carreira de prático rural, do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>DECRETO Nº 6.277, DE 12 DE SETEMBRO DE 1940</p>\n<p>Declara extinto um cargo excedente na classe &quot;E&quot; da carreira de prático rural, do Quadro único do Ministério da Agricultura.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, em virtude do falecimento de Olípio Branco Orsi, um (1) cargo excedente na classe E da carreira de prático rural, do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República.</p>\n<p>GETÚLIO VARGAS<br />\nFernando Costa</p>\n",
+          "sha256_html_renderizado": "515056fa6c067ff5d68138e62cf80d15ce78d0ad3e72a99ad873c78aebb44088",
+          "texto_visivel": "DECRETO Nº 6.277, DE 12 DE SETEMBRO DE 1940 Declara extinto um cargo excedente na classe \"E\" da carreira de prático rural, do Quadro único do Ministério da Agricultura. O Presidente da República, Resolve declarar extinto, por se achar vago, em virtude do falecimento de Olípio Branco Orsi, um (1) cargo excedente na classe E da carreira de prático rural, do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6274-1940-09-12.md",
+      "sha256_candidato": "16999da8b9a8c1b5a2179d3cd0ddb304672bca942ac99104e1fed8ab0d158859",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "DECRETO Nº 6.274, DE 12 DE SETEMBRO DE 1940 Extingue três cargos excedentes da classe \"G\" da carreira de Estatístico Auxiliar. O Presidente da República, Resolve declarar extintos três (3) cargos excedentes na classe G da carreira de Estatístico Auxiliar, do Quadro Único do Ministério da Agricultura, vagos em virtude das promoções de Alberto Augusto Cavalcante de Gusmão, Augusto Paulo de Souza Vianna e Francisco Rodrigues de Alencar, aproveitando-se o saldo, apurado dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>DECRETO Nº 6.274, DE 12 DE SETEMBRO DE 1940</p>\n<p>Extingue três cargos excedentes da classe &quot;G&quot; da carreira de Estatístico Auxiliar.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extintos três (3) cargos excedentes na classe G da carreira de Estatístico Auxiliar, do Quadro Único do Ministério da Agricultura, vagos em virtude das promoções de Alberto Augusto Cavalcante de Gusmão, Augusto Paulo de Souza Vianna e Francisco Rodrigues de Alencar, aproveitando-se o saldo, apurado dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República.</p>\n<p>GETÚLIO VARGAS<br>Fernando Costa</p>\n",
+          "sha256_html_renderizado": "ac88d272b994ecc29d059c3969a7384cddfab5d2414171a05ff07919faf1f26e",
+          "texto_visivel": "DECRETO Nº 6.274, DE 12 DE SETEMBRO DE 1940 Extingue três cargos excedentes da classe \"G\" da carreira de Estatístico Auxiliar. O Presidente da República, Resolve declarar extintos três (3) cargos excedentes na classe G da carreira de Estatístico Auxiliar, do Quadro Único do Ministério da Agricultura, vagos em virtude das promoções de Alberto Augusto Cavalcante de Gusmão, Augusto Paulo de Souza Vianna e Francisco Rodrigues de Alencar, aproveitando-se o saldo, apurado dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>DECRETO Nº 6.274, DE 12 DE SETEMBRO DE 1940</p>\n<p>Extingue três cargos excedentes da classe &quot;G&quot; da carreira de Estatístico Auxiliar.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extintos três (3) cargos excedentes na classe G da carreira de Estatístico Auxiliar, do Quadro Único do Ministério da Agricultura, vagos em virtude das promoções de Alberto Augusto Cavalcante de Gusmão, Augusto Paulo de Souza Vianna e Francisco Rodrigues de Alencar, aproveitando-se o saldo, apurado dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República.</p>\n<p>GETÚLIO VARGAS<br />\nFernando Costa</p>\n",
+          "sha256_html_renderizado": "c5b9c60540d9735d0baa3a71be0675081eebe11dd20cae7768078d3309062137",
+          "texto_visivel": "DECRETO Nº 6.274, DE 12 DE SETEMBRO DE 1940 Extingue três cargos excedentes da classe \"G\" da carreira de Estatístico Auxiliar. O Presidente da República, Resolve declarar extintos três (3) cargos excedentes na classe G da carreira de Estatístico Auxiliar, do Quadro Único do Ministério da Agricultura, vagos em virtude das promoções de Alberto Augusto Cavalcante de Gusmão, Augusto Paulo de Souza Vianna e Francisco Rodrigues de Alencar, aproveitando-se o saldo, apurado dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei n. 284, de 28 de outubro de 1936. Rio de Janeiro, 12 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Fernando Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6253-1940-09-10.md",
+      "sha256_candidato": "a5b9c0a7b78d52497a927c970402c60c8d7d04d6e73b1d3d0c2e6cc35e2bd0fc",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.253, de 10 de Setembro de 1940 Extingue um cargo excedente da classe \"C\", da carreira de Servente, do Quadro I, do Ministério da Educação e Saude. O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição, Resolve declarar extinto um cargo excedente da classe C, da carreira de Servente, Quadro I, do Ministério da Educação e Saúde, vago em virtude do falecimento de Fidely de Almeida Rodrigues, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento para o preenchimento e cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabelas anexas à Lei n. 284 de 28 de outubro de 1936, com as modificações determinadas pela Lei n. 378 e atos posteriores. Rio de Janeiro, 10 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Gustavo Capanema",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.253, de 10 de Setembro de 1940</p>\n<p>Extingue um cargo excedente da classe &quot;C&quot;, da carreira de Servente, do Quadro I, do Ministério da Educação e Saude.</p>\n<p>O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,</p>\n<p>Resolve declarar extinto um cargo excedente da classe C, da carreira de Servente, Quadro I, do Ministério da Educação e Saúde, vago em virtude do falecimento de Fidely de Almeida Rodrigues, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento para o preenchimento e cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabelas anexas à Lei n. 284 de 28 de outubro de 1936, com as modificações determinadas pela Lei n. 378 e atos posteriores.</p>\n<p>Rio de Janeiro, 10 de setembro de 1940, 119° da Independência e 52° da República.</p>\n<p>GETÚLIO VARGAS<br>Gustavo Capanema</p>\n",
+          "sha256_html_renderizado": "ded96c1a43777f5aa19ed5cc16168cf13044ccbf67d379af9183e216aff2d9f1",
+          "texto_visivel": "Decreto nº 6.253, de 10 de Setembro de 1940 Extingue um cargo excedente da classe \"C\", da carreira de Servente, do Quadro I, do Ministério da Educação e Saude. O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição, Resolve declarar extinto um cargo excedente da classe C, da carreira de Servente, Quadro I, do Ministério da Educação e Saúde, vago em virtude do falecimento de Fidely de Almeida Rodrigues, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento para o preenchimento e cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabelas anexas à Lei n. 284 de 28 de outubro de 1936, com as modificações determinadas pela Lei n. 378 e atos posteriores. Rio de Janeiro, 10 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Gustavo Capanema"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.253, de 10 de Setembro de 1940</p>\n<p>Extingue um cargo excedente da classe &quot;C&quot;, da carreira de Servente, do Quadro I, do Ministério da Educação e Saude.</p>\n<p>O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,</p>\n<p>Resolve declarar extinto um cargo excedente da classe C, da carreira de Servente, Quadro I, do Ministério da Educação e Saúde, vago em virtude do falecimento de Fidely de Almeida Rodrigues, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento para o preenchimento e cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabelas anexas à Lei n. 284 de 28 de outubro de 1936, com as modificações determinadas pela Lei n. 378 e atos posteriores.</p>\n<p>Rio de Janeiro, 10 de setembro de 1940, 119° da Independência e 52° da República.</p>\n<p>GETÚLIO VARGAS<br />\nGustavo Capanema</p>\n",
+          "sha256_html_renderizado": "121da1bd75bfdd45df13fe98e30dd308101bbe902f4353764a71345c3fe3db87",
+          "texto_visivel": "Decreto nº 6.253, de 10 de Setembro de 1940 Extingue um cargo excedente da classe \"C\", da carreira de Servente, do Quadro I, do Ministério da Educação e Saude. O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição, Resolve declarar extinto um cargo excedente da classe C, da carreira de Servente, Quadro I, do Ministério da Educação e Saúde, vago em virtude do falecimento de Fidely de Almeida Rodrigues, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento para o preenchimento e cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabelas anexas à Lei n. 284 de 28 de outubro de 1936, com as modificações determinadas pela Lei n. 378 e atos posteriores. Rio de Janeiro, 10 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Gustavo Capanema"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6252-1940-09-10.md",
+      "sha256_candidato": "5986c0904eb29ffba60206892cafb81a2440830a35e60dbd933c95e4224de00c",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.252, de 10 de Setembro de 1940 Suprime 1 cargo esxtinto do Quadro II, do Ministério da Educação e Saúde. O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição, Resolve suprimir 1 cargo extinto, da classe D, da carreira de Foguista, do Quadro II, do Ministério da Educação e Saúde, que se acha vago em virtude do falecimento de Modesto de Souza. Rio de Janeiro, 10 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Gustavo Capanema",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.252, de 10 de Setembro de 1940</p>\n<p>Suprime 1 cargo esxtinto do Quadro II, do Ministério da Educação e Saúde.</p>\n<p>O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,</p>\n<p>Resolve suprimir 1 cargo extinto, da classe D, da carreira de Foguista, do Quadro II, do Ministério da Educação e Saúde, que se acha vago em virtude do falecimento de Modesto de Souza.</p>\n<p>Rio de Janeiro, 10 de setembro de 1940, 119° da Independência e 52° da República.</p>\n<p>GETÚLIO VARGAS<br>Gustavo Capanema</p>\n",
+          "sha256_html_renderizado": "296f37131294d1bb11c9a8f7f5df95ffe49772242664031f05a4d8b049ff4781",
+          "texto_visivel": "Decreto nº 6.252, de 10 de Setembro de 1940 Suprime 1 cargo esxtinto do Quadro II, do Ministério da Educação e Saúde. O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição, Resolve suprimir 1 cargo extinto, da classe D, da carreira de Foguista, do Quadro II, do Ministério da Educação e Saúde, que se acha vago em virtude do falecimento de Modesto de Souza. Rio de Janeiro, 10 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Gustavo Capanema"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.252, de 10 de Setembro de 1940</p>\n<p>Suprime 1 cargo esxtinto do Quadro II, do Ministério da Educação e Saúde.</p>\n<p>O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,</p>\n<p>Resolve suprimir 1 cargo extinto, da classe D, da carreira de Foguista, do Quadro II, do Ministério da Educação e Saúde, que se acha vago em virtude do falecimento de Modesto de Souza.</p>\n<p>Rio de Janeiro, 10 de setembro de 1940, 119° da Independência e 52° da República.</p>\n<p>GETÚLIO VARGAS<br />\nGustavo Capanema</p>\n",
+          "sha256_html_renderizado": "447de4c256890ba1bf1b1f572a895713ea3e50ef70b7da5ff03e3cf6eec2015e",
+          "texto_visivel": "Decreto nº 6.252, de 10 de Setembro de 1940 Suprime 1 cargo esxtinto do Quadro II, do Ministério da Educação e Saúde. O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição, Resolve suprimir 1 cargo extinto, da classe D, da carreira de Foguista, do Quadro II, do Ministério da Educação e Saúde, que se acha vago em virtude do falecimento de Modesto de Souza. Rio de Janeiro, 10 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Gustavo Capanema"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6249-1940-09-09.md",
+      "sha256_candidato": "e5a45cf8c5481b87c3bb021527f0022c4e496149af3780bd0b960e0190ca74bf",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "DECRETO Nº 6.249, DE 9 DE SETEMBRO DE 1940 Declara extintos cargos excedentes. O Presidente da República, usando da atribuição que lhe confere o art. 74, letra a, da Constituição, Resolve declarar extintos por se acharem vagos os seguintes cargos excedentes do Ministério da Viação e Obras públicas: sete (7) da classe \"E\", da carreira de \"Condutor de trem\", do Quadro II, em vista da promoções de Deocleciano Chrysostomo de Lima, José de Alvarenga Cintra, Oscar Ferreira Dias Torres, Tasso Kelly Marques, Manoel Freire Jucá Junior, Rizeiro Michel e Matias Salles; três (3) da classe \"B\", da carreira de \"Agente de Estrada de Ferro\", do Quadro IX, em virtude das promoções de Aristides Alves do Valle, Deoclécio Nunes e Nemésio Lebre; seis (6) da classe \"C\", da carreira de \"Escriturário\", do Quadro IX, em conseqüência das promoções de Ana Jesus, Antonio Barredo de Jesus, João Cancio da Costa Ferreira, Luiz Mariano da Costa Soares, Raymundo Leite Mesquita e Sebastião Augusto de Morais Rego, e um (1) da classe \"E\", da carreira de \"Escriturário\", do Quadro X, pela promoção de João Augusto da Silva Massa Filho, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos nas referidas carreiras, conforme dispõem as tabelas anexas à Lei n. 284 de 28 de outubro de 1936, e ao Decreto-lei n. 1.711, de 27 de outubro de 1939. Rio de Janeiro, 9 de setembro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS João de Mendonça Lima",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>DECRETO Nº 6.249, DE 9 DE SETEMBRO DE 1940</p>\n<p>Declara extintos cargos excedentes.</p>\n<p>O Presidente da República, usando da atribuição que lhe confere o art. 74, letra a, da Constituição,</p>\n<p>Resolve declarar extintos por se acharem vagos os seguintes cargos excedentes do Ministério da Viação e Obras públicas: sete (7) da classe &quot;E&quot;, da carreira de &quot;Condutor de trem&quot;, do Quadro II, em vista da promoções de Deocleciano Chrysostomo de Lima, José de Alvarenga Cintra, Oscar Ferreira Dias Torres, Tasso Kelly Marques, Manoel Freire Jucá Junior, Rizeiro Michel e Matias Salles; três (3) da classe &quot;B&quot;, da carreira de &quot;Agente de Estrada de Ferro&quot;, do Quadro IX, em virtude das promoções de Aristides Alves do Valle, Deoclécio Nunes e Nemésio Lebre; seis (6) da classe &quot;C&quot;, da carreira de &quot;Escriturário&quot;, do Quadro IX, em conseqüência das promoções de Ana Jesus, Antonio Barredo de Jesus, João Cancio da Costa Ferreira, Luiz Mariano da Costa Soares, Raymundo Leite Mesquita e Sebastião Augusto de Morais Rego, e um (1) da classe &quot;E&quot;, da carreira de &quot;Escriturário&quot;, do Quadro X, pela promoção de João Augusto da Silva Massa Filho, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos nas referidas carreiras, conforme dispõem as tabelas anexas à Lei n. 284 de 28 de outubro de 1936, e ao Decreto-lei n. 1.711, de 27 de outubro de 1939.</p>\n<p>Rio de Janeiro, 9 de setembro de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br>João de Mendonça Lima</p>\n",
+          "sha256_html_renderizado": "ecda4522ffc668d58889c6d68b14f5c81a910136efcd78c41203562466c13b58",
+          "texto_visivel": "DECRETO Nº 6.249, DE 9 DE SETEMBRO DE 1940 Declara extintos cargos excedentes. O Presidente da República, usando da atribuição que lhe confere o art. 74, letra a, da Constituição, Resolve declarar extintos por se acharem vagos os seguintes cargos excedentes do Ministério da Viação e Obras públicas: sete (7) da classe \"E\", da carreira de \"Condutor de trem\", do Quadro II, em vista da promoções de Deocleciano Chrysostomo de Lima, José de Alvarenga Cintra, Oscar Ferreira Dias Torres, Tasso Kelly Marques, Manoel Freire Jucá Junior, Rizeiro Michel e Matias Salles; três (3) da classe \"B\", da carreira de \"Agente de Estrada de Ferro\", do Quadro IX, em virtude das promoções de Aristides Alves do Valle, Deoclécio Nunes e Nemésio Lebre; seis (6) da classe \"C\", da carreira de \"Escriturário\", do Quadro IX, em conseqüência das promoções de Ana Jesus, Antonio Barredo de Jesus, João Cancio da Costa Ferreira, Luiz Mariano da Costa Soares, Raymundo Leite Mesquita e Sebastião Augusto de Morais Rego, e um (1) da classe \"E\", da carreira de \"Escriturário\", do Quadro X, pela promoção de João Augusto da Silva Massa Filho, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos nas referidas carreiras, conforme dispõem as tabelas anexas à Lei n. 284 de 28 de outubro de 1936, e ao Decreto-lei n. 1.711, de 27 de outubro de 1939. Rio de Janeiro, 9 de setembro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS João de Mendonça Lima"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>DECRETO Nº 6.249, DE 9 DE SETEMBRO DE 1940</p>\n<p>Declara extintos cargos excedentes.</p>\n<p>O Presidente da República, usando da atribuição que lhe confere o art. 74, letra a, da Constituição,</p>\n<p>Resolve declarar extintos por se acharem vagos os seguintes cargos excedentes do Ministério da Viação e Obras públicas: sete (7) da classe &quot;E&quot;, da carreira de &quot;Condutor de trem&quot;, do Quadro II, em vista da promoções de Deocleciano Chrysostomo de Lima, José de Alvarenga Cintra, Oscar Ferreira Dias Torres, Tasso Kelly Marques, Manoel Freire Jucá Junior, Rizeiro Michel e Matias Salles; três (3) da classe &quot;B&quot;, da carreira de &quot;Agente de Estrada de Ferro&quot;, do Quadro IX, em virtude das promoções de Aristides Alves do Valle, Deoclécio Nunes e Nemésio Lebre; seis (6) da classe &quot;C&quot;, da carreira de &quot;Escriturário&quot;, do Quadro IX, em conseqüência das promoções de Ana Jesus, Antonio Barredo de Jesus, João Cancio da Costa Ferreira, Luiz Mariano da Costa Soares, Raymundo Leite Mesquita e Sebastião Augusto de Morais Rego, e um (1) da classe &quot;E&quot;, da carreira de &quot;Escriturário&quot;, do Quadro X, pela promoção de João Augusto da Silva Massa Filho, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos nas referidas carreiras, conforme dispõem as tabelas anexas à Lei n. 284 de 28 de outubro de 1936, e ao Decreto-lei n. 1.711, de 27 de outubro de 1939.</p>\n<p>Rio de Janeiro, 9 de setembro de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nJoão de Mendonça Lima</p>\n",
+          "sha256_html_renderizado": "6dc6b461ade2166146c7d0f1d5becf6a99e2c9c2a07767b663a93c2fa18d9c1d",
+          "texto_visivel": "DECRETO Nº 6.249, DE 9 DE SETEMBRO DE 1940 Declara extintos cargos excedentes. O Presidente da República, usando da atribuição que lhe confere o art. 74, letra a, da Constituição, Resolve declarar extintos por se acharem vagos os seguintes cargos excedentes do Ministério da Viação e Obras públicas: sete (7) da classe \"E\", da carreira de \"Condutor de trem\", do Quadro II, em vista da promoções de Deocleciano Chrysostomo de Lima, José de Alvarenga Cintra, Oscar Ferreira Dias Torres, Tasso Kelly Marques, Manoel Freire Jucá Junior, Rizeiro Michel e Matias Salles; três (3) da classe \"B\", da carreira de \"Agente de Estrada de Ferro\", do Quadro IX, em virtude das promoções de Aristides Alves do Valle, Deoclécio Nunes e Nemésio Lebre; seis (6) da classe \"C\", da carreira de \"Escriturário\", do Quadro IX, em conseqüência das promoções de Ana Jesus, Antonio Barredo de Jesus, João Cancio da Costa Ferreira, Luiz Mariano da Costa Soares, Raymundo Leite Mesquita e Sebastião Augusto de Morais Rego, e um (1) da classe \"E\", da carreira de \"Escriturário\", do Quadro X, pela promoção de João Augusto da Silva Massa Filho, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos nas referidas carreiras, conforme dispõem as tabelas anexas à Lei n. 284 de 28 de outubro de 1936, e ao Decreto-lei n. 1.711, de 27 de outubro de 1939. Rio de Janeiro, 9 de setembro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS João de Mendonça Lima"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6251-1940-09-09.md",
+      "sha256_candidato": "93ecece1e7b40a9e0b7b88459b0d16413bbb07d6c47163f24a69f8448cc56b66",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.251, de 9 de Setembro de 1940 Decreta luto oficial por três dias. O Presidente da República dos Estados Unidos do Brasil, em vista da comunicação oficial recebida de haver falecido o General José Félix Estigarribia, Presidente da República do Paraguai, resolve que lhe sejam tributadas as honras fúnebres de Chefe de Estado e decreta luto oficial por três dias, a partir da data de hoje. Rio de Janeiro, 9 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Francisco Campos Oswaldo aranha",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.251, de 9 de Setembro de 1940</p>\n<p>Decreta luto oficial por três dias.</p>\n<p>O Presidente da República dos Estados Unidos do Brasil, em vista da comunicação oficial recebida de haver falecido o General José Félix Estigarribia, Presidente da República do Paraguai, resolve que lhe sejam tributadas as honras fúnebres de Chefe de Estado e decreta luto oficial por três dias, a partir da data de hoje.</p>\n<p>Rio de Janeiro, 9 de setembro de 1940, 119° da Independência e 52° da República.</p>\n<p>GETÚLIO VARGAS<br>Francisco Campos<br>Oswaldo aranha</p>\n",
+          "sha256_html_renderizado": "ad7f386450a8c2777e88e3ffc8b403b1e6e8727dce830e668cf8e8c6d72a0b82",
+          "texto_visivel": "Decreto nº 6.251, de 9 de Setembro de 1940 Decreta luto oficial por três dias. O Presidente da República dos Estados Unidos do Brasil, em vista da comunicação oficial recebida de haver falecido o General José Félix Estigarribia, Presidente da República do Paraguai, resolve que lhe sejam tributadas as honras fúnebres de Chefe de Estado e decreta luto oficial por três dias, a partir da data de hoje. Rio de Janeiro, 9 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Francisco Campos Oswaldo aranha"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.251, de 9 de Setembro de 1940</p>\n<p>Decreta luto oficial por três dias.</p>\n<p>O Presidente da República dos Estados Unidos do Brasil, em vista da comunicação oficial recebida de haver falecido o General José Félix Estigarribia, Presidente da República do Paraguai, resolve que lhe sejam tributadas as honras fúnebres de Chefe de Estado e decreta luto oficial por três dias, a partir da data de hoje.</p>\n<p>Rio de Janeiro, 9 de setembro de 1940, 119° da Independência e 52° da República.</p>\n<p>GETÚLIO VARGAS<br />\nFrancisco Campos<br />\nOswaldo aranha</p>\n",
+          "sha256_html_renderizado": "3b21dde3c1244fa7e1c4d8a31148eb6d9a0aedc6d6435391baa4b907802dfcd6",
+          "texto_visivel": "Decreto nº 6.251, de 9 de Setembro de 1940 Decreta luto oficial por três dias. O Presidente da República dos Estados Unidos do Brasil, em vista da comunicação oficial recebida de haver falecido o General José Félix Estigarribia, Presidente da República do Paraguai, resolve que lhe sejam tributadas as honras fúnebres de Chefe de Estado e decreta luto oficial por três dias, a partir da data de hoje. Rio de Janeiro, 9 de setembro de 1940, 119° da Independência e 52° da República. GETÚLIO VARGAS Francisco Campos Oswaldo aranha"
+        }
+      }
+    }
+  ],
+  "limites": "Candidatos privados. Busca não prova identidade; epígrafe própria, fecho, índice/API e fonte integral são gates separados. Pontuação e estrutura verificadas em dois motores; CSS não certificado. Listas HTML e listas novas geradas ficam retidas para QA específico, sem relaxar comparadores."
+}

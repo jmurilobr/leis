@@ -1,0 +1,78 @@
+---
+titulo: "Decreto-SEMPOG nº 20.023, de 24 de maio de 2024"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "20.023"
+data: "2024-05-24"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/26642"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/6720/text"
+sha256_fonte: "1faff230fe52b07f90f8547b5f50b5cbe061095258966d9591042ffe0aec4ff6"
+sha256_texto: "4bb787e2cb34c3683fd5103d902619f5aed6674ff9fcc2eef878a93704e97cbf"
+capturado_em_fonte: "2026-10-21T04:26:18.146303-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 20.023, de 24 de maio de 2024
+
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Remanejamento de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei nº 3.130, de 20 de dezembro de 2023, a fim de proceder às adequações orçamentárias no exercício 2024;
+
+Considerando o reajuste anual procedido aos servidores do Município de Porto Velho e o deficit orçamentário para empenho da folha de pagamento, referente ao mês de Maio de 2024,
+
+**D E C R E T A:**
+
+
+Art. 1º.
+
+Fica alterado o Orçamento Anual do Município de Porto Velho por meio de remanejamento de recursos orçamentários no valor de R$ 104.419,85 (cento e quatro mil, quatrocentos e dezenove reais e oitenta e cinco centavos).
+
+
+Art. 2º.
+
+Os remanejamentos são decorrentes da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas de um órgão para o outro ou de uma unidade orçamentária para outra, conforme disposto no inciso XV do Artigo 6º da Lei nº 3.094, de 25 de setembro de 2023 – Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><tbody><tr><td colspan="7"><p><strong>05.00 – SECRETARIA MUNICIPAL DE PLANEJAMENTO, ORÇAMENTO E GESTÃO - SEMPOG</strong></p></td></tr><tr><td colspan="7"><p><strong>05.01 – SECRETARIA MUNICIPAL DE PLANEJAMENTO, ORÇAMENTO E GESTÃO - SEMPOG</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>REMANEJA</strong> <strong>R$</strong></p></td><td><p><strong>REALOCA</strong> <strong>R$</strong></p></td></tr><tr><td><p>05.01.04.127.152.2.867</p></td><td><p>Execução, Monitoramento e Avaliação do Plano Diretor Participativo do Município de Porto Velho - PDPM</p></td><td><p>FIS</p></td><td><p>3.3.90.35</p></td><td><p>1.500</p></td><td><p>104.419,85</p></td><td><p>-</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>104.419,85</strong></p></td><td><p><strong>-</strong></p></td></tr></tbody></table>
+
+<table><tbody><tr><td colspan="7"><p><strong>07.00 – SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO - SEMAD</strong></p></td></tr><tr><td colspan="7"><p><strong>07.01 – SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO - SEMAD</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>REMANEJA</strong> <strong>R$</strong></p></td><td><p><strong>REALOCA</strong> <strong>R$</strong></p></td></tr><tr><td><p>07.01.04.122.007.2.217</p></td><td><p>Remuneração de Pessoal Ativo e Encargos Sociais</p></td><td><p>FIS</p></td><td><p>3.1.90.03</p></td><td><p>1.500</p></td><td><p>-</p></td><td><p>104.419,85</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>104.419,85</strong></p></td><td><p><strong>104.419,85</strong></p></td></tr><tr><td colspan="5"><p> </p></td><td><p><strong>104.419,85</strong></p></td><td><p><strong>104.419,85</strong></p></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 19.668, de 20 de dezembro de 2023 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 19.669, de 20 de dezembro de 2023.
+
+
+Art. 4º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Art. 5º.
+
+Revogam-se as disposições em contrário.
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***SERGIO LUIZ PACÍFICO***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto
+

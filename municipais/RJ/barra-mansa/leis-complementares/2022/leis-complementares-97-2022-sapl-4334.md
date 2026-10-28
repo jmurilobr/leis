@@ -1,0 +1,203 @@
+---
+titulo: "Lei Complementar nº 97, de 30 de dezembro de 2022"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "97"
+data: "2022-12-30"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/4334"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/890/text"
+sha256_fonte: "78f38af44e14d9b6fc955757a194874c9790dea8309fa0fd75a36566e1e3effc"
+sha256_texto: "a96c796c492e4542d655b53e0c4eb16756dd987c6e0b2eb33f8178d26a2e0748"
+capturado_em_fonte: "2026-10-27T17:23:28.993594-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 97, de 30 de dezembro de 2022
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI COMPLEMENTAR Nº97, DE 30 DE DEZEMBRO DE 2022
+
+
+Dispõe sobre o incentivo à verticalização na área central do distrito sede.
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a criar um programa de incentivo à verticalização de edifícios residenciais, comerciais e mistos a serem construídos na zona classificada como “Zona Área Central – ZAC”, conforme definição da Lei Complementar n.º 49/2006 – Zoneamento e o Uso do Solo no Perímetro Urbano na sede do Município de Barra Mansa.
+
+
+Parágrafo único
+
+O programa ora autorizado deverá ser incluído na revisão da atual Lei Complementar n.º 49/2006.
+
+
+Art. 2º.
+
+O objetivo principal deste programa seguirá as diretrizes gerais:
+
+
+I –
+
+Concentração de investimentos do poder público em área com infraestrutura consolidada;
+
+
+II –
+
+Mais qualidade de vida e acesso à infraestrutura existente;
+
+
+III –
+
+Melhor acesso da população aos serviços públicos, escolas, hospitais e comércio, reduzindo os seus deslocamentos;
+
+
+IV –
+
+Controle da expansão urbana para áreas periféricas e preservação de áreas verdes no entorno das cidades;
+
+
+V –
+
+Valorização e melhor aproveitamento do solo urbano;
+
+
+VI –
+
+Melhoria da mobilidade urbana, com pessoas morando perto do local de trabalho e estudo;
+
+
+VII –
+
+Divisão de custos entre os moradores (manutenção, reparos, equipamentos de esporte e lazer com custos rateado pelo condomínio).
+
+
+Parágrafo único
+
+Este programa consolida o lema adotado pelo Plano Diretor de 2006 que é “Fazer Cidade onde tem Cidade”.
+
+
+Art. 3º.
+
+O gabarito máximo do programa é igual 20 (vinte) andares, excluídos os pavimentos destinados às garagens e/ou estacionamentos, sendo que a taxa de ocupação máxima da área do terreno, será igual a 100%.
+
+
+Art. 4º.
+
+Para aa aprovação do Projeto de que se trata a presente Lei, deverão ser observados os seguintes requisitos, sob pena de nulidade do mesmo:
+
+
+I –
+
+A construção de edifícios deverá observar as proporcionalidades estabelecidas pelo Plano Diretor para as vagas de garagem e estacionamento, vedada a existência de unidades sem as respectivas demarcações destes espaços;
+
+
+II –
+
+Os pavimentos destinados às garagens e /ou estacionamento, preferencialmente, deverão conter rampas de subidas e descida projetadas de forma independente;
+
+
+III –
+
+A entrada para as garagens e/ ou estacionamento deverão dispor de calhas de acumulação de pelo menos 01 (um) automóvel, de forma a não permitir a ocupação da via pública com veículos aguardando sua vez de entrar;
+
+
+IV –
+
+Deverá ser assegurado a total acessibilidade as pessoa com deficiência e/ou mobilidade reduzida, com observação as regras constantes nas legislações em vigor, bem como da ABNT;
+
+
+V –
+
+Será obrigatório a instalação de elevadores nos projetos com mais de 04 (quatro) pavimentos, incluindo nesse contagem os pavimentos destinados às garagens e/ou estacionamentos;
+
+
+VI –
+
+Os projetos deverão contemplar modelos de sustentabilidade ambiental, tais com, aproveitamento de energia solar, capitação e reserva de água pluvial das chuvas, dentre outras;
+
+
+VII –
+
+Os projetos deverão conter Estudos de Impacto de Vizinhança (EIV), a ser desenvolvido por profissional ou empresa qualificada e com o recolhimento da respectiva ART/RRT estabelecida no próximo inciso;
+
+
+VIII –
+
+Em atenção ao disposto no artigo 37 da Lei Federal Nº10.257/2001 – Estatuto da Cidade, o EIV será executado de forma a contemplar os efeitos positivos e negativos do empreendimento ou atividade quanto à qualidade de vida da população residente na área e suas proximidades, incluindo a análise, no mínimo, das seguintes questões:
+
+
+a)
+
+adensamento populacional;
+
+
+b)
+
+equipamentos urbanos e comunitários;
+
+
+c)
+
+uso e ocupação do solo;
+
+
+d)
+
+valorização imobiliária;
+
+
+e)
+
+geração de tráfego e demanda por transporte público;
+
+
+f)
+
+ventilação e iluminação;
+
+
+g)
+
+paisagem urbana e patrimônio natural e cultural.
+
+
+§ 1º
+
+Fica o Município desobrigado de regulamentar do Estudo de Impacto de Vizinhança – EIV de que trata o inciso VII deste artigo.
+
+
+§ 2º
+
+O modelo disponibilizado disposto no inciso VIII deste artigo, trata-se de mera referência, devendo o EIV abordar, no mínimo, os tópicos elencados neste artigo.
+
+
+Art. 5º.
+
+Fica o Chefe do Executivo autorizado a regulamentar a presente lei num prazo máximo de 30 (trinta) dias a contar da sua publicação.
+
+
+Parágrafo único
+
+Competirá ao setor de análise de grandes empreendimentos da SMPU a aprovação dos projetos de que trata esta lei, ouvida a Coordenadoria de Trânsito e Transporte da Secretaria Municipal de Ordem Pública.
+
+
+Art. 6º.
+
+Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 30 DE DEZEMBRO DE 2022.
+
+
+RODRIGO DRABLE COSTA  
+PREFEITO
+

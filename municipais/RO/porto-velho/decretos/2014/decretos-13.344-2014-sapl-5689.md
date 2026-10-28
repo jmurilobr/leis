@@ -1,0 +1,219 @@
+---
+titulo: "Decreto nº 13.344, de 06 de janeiro de 2014"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "13.344"
+data: "2014-01-06"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/5689"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/1454/text"
+sha256_fonte: "0718aa732fd96bcd508135c167f2d85ef79835e8f9ee5bf830b5eb01fb9392b3"
+sha256_texto: "d3b935a9133757dff34b793cb3825ce92f17c4a1616948f54f9ecdc0d862ec40"
+capturado_em_fonte: "2026-10-27T21:01:12.213615-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Decreto nº 13.344, de 06 de janeiro de 2014
+
+“Regulamenta dispositivos da Lei Complementar nº 490, de 16 de julho de 2013, Lei Complementar N° 491, de 16 de julho de 2013, Lei Complementar nº 492, de 16 de julho de 2013, e alterações procedidas pela Lei Complementar nº 493, de 11 de setembro de 2013, que cria auxílio incentivo aos profissionais da área da educação ou da saúde que estejam exclusivamente lotados na Secretaria Municipal de Educação SEMED ou na Secretaria Municipal de Saúde – SEMUSA e dá outras providências”.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando das atribuições que lhe é conferida no inciso IV, do artigo 87 da Lei Orgânica do Município de Porto Velho,
+
+**CONSIDERANDO**, o disposto no art. 1º, da Lei Complementar nº 490, de 16 de julho de 2013, que Cria o Auxilio de Incentivo ao Aprimoramento dos servidores e profissionais da área da saúde, ocupantes de Cargos de Apoio Técnico Administrativo e Operacional de Nível Superior, Médio, Fundamental, Fundamental Incompleto, exclusivamente lotados na Secretaria Municipal de Saúde – SEMUSA;
+
+**CONSIDERANDO**, o disposto no art. 1° e incisos I, II e III, da Lei Complementar nº 491, de 16 de julho de 2013, que Cria o Auxílio de Incentivo ao Aprimoramento dos servidores e profissionais da área da educação, ocupantes de Cargos de Apoio Técnico Administrativo e Operacional de Nível Superior, Médio, Fundamental, Fundamental Incompleto, exclusivamente lotados na Secretaria Municipal de Educação – SEMED;
+
+**CONSIDERANDO**, o disposto no art. 1º e incisos I e II, da Lei Complementar nº 492, de 16 de julho de 2013, que Cria Auxílio de Incentivo ao Aprimoramento à Saúde Bucal exclusivamente aos profissionais que atuam no Programa de Saúde Bucal, lotados na Secretaria Municipal de Saúde do Município – SEMUSA;
+
+**CONSIDERANDO**, as alterações determinadas pela Lei Complementar nº 493, de 11 de setembro de 2013;  
+  
+**DECRETA:**
+
+
+Art. 1º.
+
+O Auxílio de Incentivo ao Aprimoramento dos servidores e profissionais da área de Educação e da Saúde, instituídos pelas Leis Complementares N° 490, 491 e 492, de 16 de julho de 2013, e suas respectivas alterações, serão concedidos exclusivamente aos servidores e profissionais lotados e em efetivo exercício na zona urbana ou na zona rural nas seguintes unidades administrativas:
+
+
+I –
+
+da SEMED:
+
+
+a)
+
+Sede da Secretaria Municipal de Educação de Porto Velho: nos Departamentos e na Coordenadoria Municipal de Transporte Escolar;
+
+
+b)
+
+Escolas da Rede Pública Municipal de Ensino que atendem à Educação Básica nas Modalidades Regular, a Educação Especial e a Educação de Jovens e Adultos;
+
+
+c)
+
+Escolas Municipais de Música;
+
+
+d)
+
+Centro de Formação dos Profissionais da Educação do Município;
+
+
+e)
+
+Bibliotecas Públicas Municipais;
+
+
+f)
+
+Órgãos Colegiados vinculados à SEMED: Conselho Municipal de Educação - CME, Conselho de Alimentação Escolar do Município - CAE e Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação – CACS/FUNDEB;
+
+
+g)
+
+Escolas conveniadas e/ou com as quais a SEMED mantenha parcerias envolvendo a lotação de pessoal da educação;
+
+
+II –
+
+da SEMUSA: Unidade de Saúde da Família da Secretaria Municipal de Saúde de Porto Velho, e demais unidades de prontos atendimento e centro de especialidade odontológica – CEO, situados nas zonas urbana ou rural;
+
+
+§ 1º
+
+Farão jus ao benefício os servidores lotados nas unidades elencadas nos incisos deste artigo que:
+
+
+I –
+
+se encontrarem no gozo de Licença para tratamento de saúde; ou
+
+
+II –
+
+estejam cedidos ao Município com ônus para a municipalidade;
+
+
+§ 2º
+
+Não fazem jus ao pagamento do benefício tratado neste artigo:
+
+
+I –
+
+servidoras em gozo de Licença Maternidade;
+
+
+II –
+
+servidores cedidos para órgãos ou instituições ou entidades não elencadas neste artigo, mesmo que a cedência seja com ônus para o Município;
+
+
+III –
+
+servidores que estejam em gozo de quaisquer outros afastamentos previstos na legislação aplicável, conforme a situação específica.
+
+
+Art. 2º.
+
+A comprovação da lotação dos servidores beneficiados com o Auxílio de Incentivo ao Aprimoramento será feita mediante relatório mensal elaborado pela Secretaria Municipal de Administração em conjunto com a Secretaria Municipal de Educação e a Secretaria Municipal de Saúde.
+
+
+Art. 3º.
+
+O pagamento do Auxílio de Incentivo ao Aprimoramento será feito com recursos do orçamento próprio da Secretaria Municipal de Educação, Transferências Cota parte do Fundeb ou com recursos próprios do orçamento da Secretaria Municipal de Saúde, e com recursos do Ministério da Saúde, por intermédio do Centro de Especialidade Odontológica, Programa “REDE VIVER SEM LIMITES” – CEO, conforme o caso.
+
+
+Parágrafo único
+
+Os recursos para a cobertura das despesas com o Auxílio de Incentivo ao Aprimoramento serão suplementados, se necessário, com a observância da legislação aplicável.
+
+
+Art. 4º.
+
+O pagamento do Auxílio de Incentivo ao Aprimoramento, de que se trata neste Decreto será efetuado no período de julho de 2013 a julho de 2014, incluído no contracheque mensal do servidor, identificado por código específico, observando os seguintes valores:
+
+
+I –
+
+para os servidores da SEMED:
+
+
+a)
+
+R$ 140,00 (cento e quarenta reais) para os ocupantes de cargos de Professor, Especialista em Educação e Instrutor de Artes, com carga horária de 40 horas;
+
+
+b)
+
+R$ 100,00 (cem reais) para os ocupantes de cargos de Professor, Especialista em Educação, com carga horária de 20 ou 25 horas;
+
+
+c)
+
+R$ 80,00 (oitenta reais) para os ocupantes dos cargos de Apoio Técnico Administrativo e Operacional de Nível Superior, Médio. Fundamental e Fundamental Incompleto, excluídos os tratados nos incisos I e II deste artigo;
+
+
+II –
+
+para os servidores da SEMUSA:
+
+
+a)
+
+R$ 80,00 (oitenta reais) para os profissionais da área de saúde, lotados na Secretaria Municipal de Saúde e demais unidades administrativas da SEMUSA, situados nas zonas urbana e rural;
+
+
+b)
+
+R$ 300,00 (trezentos reais) para os servidores ocupantes do cargo de odontólogo que estejam lotados na Secretaria Municipal de Saúde, situados nas zonas urbana e rural e que participem do Programa de Saúde Bucal;
+
+
+c)
+
+R$ 90,00 (noventa reais) para os servidores ocupantes de cargo de nível fundamental e médio que desempenhe suas atividades no Programa de Saúde Bucal e que estejam lotados na Secretaria Municipal de Saúde, situados nas zonas urbana e rural;
+
+
+§ 1º
+
+A comprovação do pagamento dos servidores beneficiados com o Auxílio de Incentivo ao Aprimoramento, tratado neste Decreto, será feita mediante relatório mensal de Folha de Pagamento a ser emitido pela Secretaria Municipal de Administração.
+
+
+§ 2º
+
+A exclusão do benefício do servidor se dará mediante a perda das condições estabelecidas no caput e no § 1°, do art. 1°, deste Decreto, a partir do mês em que tenha ocorrido a situação e será informado pela chefia imediata sob pena de responsabilidade.
+
+
+Art. 5º.
+
+Este Decreto entra em vigor na data de sua publicação, retroagindo seus efeitos financeiros a julho de 2013.
+
+
+Art. 6º.
+
+Revogam-se as disposições em contrário.
+
+
+**MAURO NAZIF RASUL**
+
+Prefeito Secretária
+
+**FRANCISCA DAS CHAGAS HOLANDA XAVIER**
+
+Municipal de Educação
+
+**CARLOS DOBBIS**
+
+Procurador Geral do Município  
+  
+**DOMINGOS SÁVIO FERNANDES DE ARAÚJO**  
+Secretário Municipal de Saúde
+

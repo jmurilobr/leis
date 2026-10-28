@@ -1,0 +1,47 @@
+---
+titulo: "Lei Ordinária nº 11, de 01 de julho de 1971"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "11"
+data: "1971-07-01"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/261"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/737/text"
+sha256_fonte: "fb86243c23c661ddae719162ba9c7a5cbfdc0346ec066bfdd655e699be91a157"
+sha256_texto: "ad1df1fe6afc5dd418f883763a5e25c32829ae7e789b37905bd3b9b218629d5b"
+capturado_em_fonte: "2026-10-27T22:09:43.186919-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 11, de 01 de julho de 1971
+
+Dispõe sobre a delimitação da Zona Urbana de Caçu.
+
+
+O PREFEITO MUNICIPAL DE CAÇU: Faço saber que a Câmara Municipal de Caçu, Estado de Goiás, aprovou e eu sanciono a seguinte lei:
+
+
+Art. 1º.
+
+A cidade de Caçu, sede do Município a que dá nome, Estado de Goiás, situada à margem esquerda do Córrego Água Fria, afluente da margem direita do Rio Claro, contém a área total de 120,88 há (cento e vinte hectares e oitenta e oito ares) e está dentro das seguintes divisas e confrontações:
+
+
+“Começa na margem esquerda do Córrego Água Fria, 96m antes de sua embocadura no Rio Claro, na divisa com a propriedade agrícola de Candor Pereira Guimarães; daí, tomando o rumo de 61° 45’SW, vai ter ao canto dos lotes “E” e “B” da quadra 1 do Loteamento Municipal, na distância de 124m; daí tomando o rumo de 21° 15’NW, vai ter ao canto inferior direito da propriedade urbana de Vital Abadio dos Santos, na distância de 35m; daí, tomando o rumo 67° 45’SW, vai ter à divisa da propriedade agrícola de Rufino Pereira de Assis, na distância de 102m, dividindo, até aí, com a propriedade agrícola de Candor Pereira Guimarães; daí tomando o rumo de 59° 30’SW, vai ter à esquina da Avenida Izidoro Goulart com a Rua Ludgero Pereira de Castro, na distância de 100m; daí tomando o rumo de 27° 45’NW, vai ter à divisa da propriedade agrícola de Josino Carneiro Guimarães, na distância de 203m, dividindo, até aí, com a propriedade agrícola de Rufino Pereira de Assis; daí tomando o rumo de 42° 30’SW, vai ter ao corredor do campo de aviação, na distância de 57m; daí, com o rumo de 31° 30’NW, vai ter ao canto de divisas das propriedades rurais de Renato Junqueiroz e Dolorito Pereira da Silva, na distância de 286m, dividindo, até os primeiros 188m, com Josino Carneiro Guimarães e, até referido canto de divisas, com Dolorito pereira da Silva; daí, tomando o rumo de 36° 30’SW, vai ter ao marco na distância de 706,70m; daí, por cerca de arame, com o rumo de 65° 00’SW, vai ter à estrada municipal Caçu-1, na distância de 47,60m, dividindo, até aí, com Renato Junqueiroz; daí, pela referida estrada, à esquerda, com o rumo de 32° 15’SE, vai ter à Rua José Reinaldo Vieira, na distância de 359,30m, dividindo, até aí, com a estrada municipal; daí com o rumo de64° 00’SW, tomando pela Rua José Reinaldo Vieira, vai ter à esquina com a Rua 31, após salta-la, na distância de 803m, dividindo, até completar 579m, com a propriedade agrícola de Juarez Gama da Silva e, até aí, com a propriedade agrícola de Paulo César Junqueiroz; daí, pela Rua 31, com o rumo de 26° 00’SE, vai ter à esquina com a Rua 10, após saltá-la, na distância de 364m, dividindo, até aos 100m, com a propriedade agrícola de Antônio Vieira da Cunha e, até aí, com a propriedade agrícola de Antônio Vieira da Cunha e, até aí, com a propriedade agrícola de Izonel Carneiro Guimarães; daí pela Rua 10, com o rumo de 64° 00’NE, vai ter à esquina com a Rua 25, na distância de 345m; daí, pela Rua 25, com o rumo de 26° 00’SE, vai ter à esquina com a Rua 12, após salta-la, na distância de 95m; daí, pela Rua 12, com o rumo de 64° 00NE, vai ter à esquina com a Rua 23, na distância de 116m; daí, pela Rua 23, com o rumo de 26° 00’SE, vai ter ao Córrego Água Fria, na distância de 250m, dividindo, até aí, com a propriedade agrícola de Izonel Carneiro Guimarães; daí, pelo veio d’água do Córrego Água Fria abaixo, vai ter ao ponto inicial destas divisas, na distância de 1.656m, medidos em reta, dividindo com as propriedades agrícolas de Anísio Pereira Alves, Joaquim Alves da Costa, Ildefonso José Guimarães, Olívio Girotto e Manoel Carneiro Guimarães.
+
+
+Art. 2º.
+
+Esta lei entra em vigor nesta data, revogadas as disposições em contrário.
+
+
+**PREFEITURA MUNICIPAL DE CAÇU,** Estado de Goiás, em 1° de julho de 1971.
+
+
+**Oldack Musa dos Santos Prefeito**
+

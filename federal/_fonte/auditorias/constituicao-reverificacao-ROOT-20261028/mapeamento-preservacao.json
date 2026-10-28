@@ -1,0 +1,73 @@
+{
+  "arquivos": [
+    {
+      "origem": "_fonte/vigencia_cf_20261028_001/README.txt",
+      "publicado": "federal/_fonte/auditorias/constituicao-reverificacao-ROOT-20261028/tentativa28/README.txt",
+      "sha256": "bbe244bd4477d436fca99a186bee2d6a22675bd8fb6970a351a3559c2518e619"
+    },
+    {
+      "origem": "_fonte/vigencia_cf_20261028_001/codigo/converter_constituicao.py",
+      "publicado": "federal/_fonte/auditorias/constituicao-reverificacao-ROOT-20261028/tentativa28/codigo/converter_constituicao.py",
+      "sha256": "c9fe0e80d67834a76a8541a4a7da3eab26fdd0784f1efea769fcd7701e6c40ae"
+    },
+    {
+      "origem": "_fonte/vigencia_cf_20261028_001/codigo/html2md.py",
+      "publicado": "federal/_fonte/auditorias/constituicao-reverificacao-ROOT-20261028/tentativa28/codigo/html2md.py",
+      "sha256": "6ad648a6a94c8d51d880a2d79c39f1abe751032d3355e468363e43ca83fdcdc6"
+    },
+    {
+      "origem": "_fonte/vigencia_cf_20261028_001/comparacao.json",
+      "publicado": "federal/_fonte/auditorias/constituicao-reverificacao-ROOT-20261028/tentativa28/comparacao.json",
+      "sha256": "a2bfe36663650a175839ea9fdd28445b8d6af9a6391e214d1e6e29b7b67c14e0"
+    },
+    {
+      "origem": "_fonte/vigencia_cf_20261028_001/conclusao.json",
+      "publicado": "federal/_fonte/auditorias/constituicao-reverificacao-ROOT-20261028/tentativa28/conclusao.json",
+      "sha256": "091f7ebf6277b8c2c3536f1f56bddfebbccadaa0ae15771cc9978d79f9ae1bb9"
+    },
+    {
+      "origem": "_fonte/vigencia_cf_20261028_001/consultar_uma_vez.py",
+      "publicado": "federal/_fonte/auditorias/constituicao-reverificacao-ROOT-20261028/tentativa28/consultar_uma_vez.py",
+      "sha256": "5ff04cbbb54703d8addc2546aca6314a3fbc983beb02f580492992e7e7d5dcfe"
+    },
+    {
+      "origem": "_fonte/vigencia_cf_20261028_001/curl.stderr.txt",
+      "publicado": "federal/_fonte/auditorias/constituicao-reverificacao-ROOT-20261028/tentativa28/curl.stderr.txt",
+      "sha256": "4fbeb3b068dfd0a00fd3fcd95b81af2190310bf9d119abbd0a75dfe1725b0c16"
+    },
+    {
+      "origem": "_fonte/vigencia_cf_20261028_001/curl.stdout.txt",
+      "publicado": "federal/_fonte/auditorias/constituicao-reverificacao-ROOT-20261028/tentativa28/curl.stdout.txt",
+      "sha256": "c028a8ecf7c94c15324042d2a87885fbcffa00ea5152c90abdf62f24ece6b3d3"
+    },
+    {
+      "origem": "_fonte/vigencia_cf_20261028_001/headers.http.txt",
+      "publicado": "federal/_fonte/auditorias/constituicao-reverificacao-ROOT-20261028/tentativa28/headers.http.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "origem": "_fonte/vigencia_cf_20261028_001/manifesto.json",
+      "publicado": "federal/_fonte/auditorias/constituicao-reverificacao-ROOT-20261028/tentativa28/manifesto.json",
+      "sha256": "8d9d55a577ea70264677da9de982a41c532b812ed981d7054e722e85e5010b76"
+    },
+    {
+      "origem": "_fonte/vigencia_cf_20261028_001/recibo-http.json",
+      "publicado": "federal/_fonte/auditorias/constituicao-reverificacao-ROOT-20261028/tentativa28/recibo-http.json",
+      "sha256": "cc6c584da3257763afee23f5980bb55ea8d61bc9c52362a4b2c9aabb74c3626b"
+    },
+    {
+      "origem": "_fonte/operacao_root_20261027/constituicao-compilado-20261027.htm",
+      "publicado_gzip": "federal/_fonte/auditorias/constituicao-reverificacao-ROOT-20261028/constituicao-compilado-20261027.htm.gz",
+      "sha256_descomprimido": "79c0e37327bd73faa58a690514cb8878ff3206c08e4fcf27f622e9d631151d99",
+      "sha256_gzip": "f70f3b7a013d89c49468d44c75c065cce9550617a33da838c79e992f50a31796"
+    },
+    {
+      "origem": "_fonte/operacao_root_20261027/constituicao-consulta-20261027.json",
+      "publicado_gzip": "federal/_fonte/auditorias/constituicao-reverificacao-ROOT-20261028/constituicao-consulta-20261027.json.gz",
+      "sha256_descomprimido": "df86ffd5958dc620b6a9e32c20de50f7deb6a15aa49277e1949932d8c23c6906",
+      "sha256_gzip": "e0a015ae1ffe7855e51ec14cbb407b33c0602605ee86babb73367bd603c5e694"
+    }
+  ],
+  "novas_normas": 0,
+  "limite": "Cópias dos recibos originais com caminhos históricos preservados; replay ROOT usa cópias públicas. Nenhum HTML de 28/10 foi recebido. O raw de 27/10 foi encontrado e conferido por SHA; não foi reconstruído."
+}

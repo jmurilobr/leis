@@ -1,0 +1,76 @@
+{
+  "sha256_original": "125cc1b2898b85f74ebf4d0f6940a4cc01e7a835dc2981f35cb1707d45ef5960",
+  "sha256_candidato": "9510896867c48443f5e96209874a07fcf2b4b02567b987b3f5c60f01133d0dc0",
+  "sha256_pdf": "64bd928b860f125d4b92d332397fd7d61e72088e8f86c01d9a0ced55825f04fc",
+  "sha256_fontfile2": "b0789de62c3a4eff572499738348a84faebc4ab6df854902aded9d846daffac0",
+  "sha256_tounicode": "ef79ed7722d6f089aaaf14f94d266b796c439de39e4ae1bcaf9ad76480a78f56",
+  "fonte_recurso": "/F2",
+  "cid_to_gid": "/Identity",
+  "cmap_fonte": [
+    {
+      "platform": 0,
+      "encoding": 3,
+      "mapeamento": {
+        "U+2013": 177,
+        "U+2014": 178,
+        "U+2015": 0,
+        "U+2016": 0,
+        "U+201C": 179,
+        "U+201D": 180
+      }
+    },
+    {
+      "platform": 3,
+      "encoding": 1,
+      "mapeamento": {
+        "U+2013": 177,
+        "U+2014": 178,
+        "U+2015": 0,
+        "U+2016": 0,
+        "U+201C": 179,
+        "U+201D": 180
+      }
+    }
+  ],
+  "operadores": [
+    {
+      "cid": 179,
+      "matriz": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        88.704,
+        250.85
+      ],
+      "hex": "00b3"
+    },
+    {
+      "cid": 180,
+      "matriz": [
+        1.0,
+        0.0,
+        0.0,
+        1.0,
+        88.704,
+        240.53
+      ],
+      "hex": "00b4"
+    }
+  ],
+  "alteracoes_corpo": [
+    {
+      "posicao": 155,
+      "antes": "U+2015",
+      "depois": "U+201C"
+    },
+    {
+      "posicao": 248,
+      "antes": "U+2016",
+      "depois": "U+201D"
+    }
+  ],
+  "demais_grafias_inalteradas": true,
+  "replay_commonmark": true,
+  "limite": "Variante isolada de dois sinais, comprovados pelo glyph e cmap da fonte incorporada. Preserva a transcricao textual anterior como evidencia e nao altera canonico."
+}

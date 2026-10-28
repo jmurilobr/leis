@@ -1,0 +1,10 @@
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/test_promover_reparos_escapes_ta_seis_20261027.py
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/test_reparos_escapes_ta_20261027.py
+
+Dry-run, saída nova:
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/promover_reparos_escapes_ta_seis_20261027.py --saida municipais/_indice/_recuperacao_20261027/NOVA_SAIDA_DRYRUN
+
+Somente ROOT, após revisar o dry-run:
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/promover_reparos_escapes_ta_seis_20261027.py --saida municipais/_indice/_recuperacao_20261027/NOVA_SAIDA_APPLY --apply
+
+Troca atômica por arquivo, sob lock e preimagem revalidada. Backup integral exclusivo antes de cada troca. Falha parcial registra aplicações concluídas e hashes atuais para reconciliação; não é transação Git. Nenhuma escrita Git ou HTTP. Alvos já no HEAD ou índice são recusados.

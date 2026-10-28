@@ -1,0 +1,158 @@
+---
+titulo: "Lei Ordinária nº 4.123, de 02 de setembro de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4123"
+data: "2013-09-02"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/3972"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/1438/text"
+sha256_fonte: "7d1e4e0fafe461d8b7c7d588f7c42b756eacf01b14b14e8ea16a40bad549edd8"
+sha256_texto: "a814f0abc87e8f2516e969f8d1e526ac227351297b01bd68b3f6c726b55e3692"
+capturado_em_fonte: "2026-10-27T17:58:08.199280-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.123, de 02 de setembro de 2013
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI N°4123, DE 2 DE SETEMBRO DE 2013.
+
+
+Institui o Programa de Recuperação Fiscal no Município de Barra Mansa - REFIS, e dá outras providências.
+
+
+Art. 1º.
+
+Fica instituído, no Município de Barra Mansa, o Programa de Recuperação Fiscal - REFIS, destinado a promover a regularização de créditos no Município, decorrentes de débitos de contribuintes, relativos a impostos, taxas, contribuições de melhorias, preços públicos e tarifas, inclusive os lançados pelo SAAE - Serviço Autônomo de Água e Esgoto do Município de Barra Mansa, em razão de fatos geradores ocorridos até 31 de dezembro de 2012, constituídos ou não, e inscritos ou não em dívida ativa, ajuizados ou a ajuizar, com exigibilidade suspensa ou não, inclusive os decorrentes de falta de recolhimento de valores retidos.
+
+
+§ 1º
+
+O REFIS será administrado pela Secretaria Municipal de Fazenda.
+
+
+§ 2º
+
+Os beneficios desta Lei serão concedidos mediante instrumento próprio, conforme modelo aprovado por ato do Poder Executivo, regularmente instruído.
+
+
+§ 3º
+
+O disposto nesta Lei não implicará restituição de quantias pagas.
+
+
+Art. 2º.
+
+Os benefícios concedidos no art. 1º não alcançam os créditos da Fazenda Municipal constituídos no exercício em curso, nem os provenientes de retenção na fonte, nem os casos de compensação de crédito.
+
+
+Art. 3º.
+
+O Programa do REFIS obriga a preservação dos débitos originais atualizados monetariamente.
+
+
+Art. 4º.
+
+O ingresso no REFIS dar-se-á por opção do contribuinte, que fará jus a regime especial de consolidação dos débitos incluídos no Programa, sejam os decorrentes de obrigação própria, sejam os resultantes de responsabilidade tributária, tendo por base a data da opção.
+
+
+§ 1º
+
+A opção pelo REFIS poderá ser formalizada, nos prazos e condições abaixo descritos:
+
+
+I –
+
+100% de anistia dos juros e multa, para pagamento em parcela única, até o dia 10 de outubro de 2013;
+
+
+II –
+
+80% de anistia dos juros e multa, para pagamento em parcela única, até o dia 10 de novembro de 2013;
+
+
+III –
+
+60% de anistia nos juros e multa, para pagamento em parcela única, até o dia 10 de dezembro de 2013;
+
+
+IV –
+
+80% de anistia dos juros e multa, para pagamento em 3 (três) parcelas, com vencimentos nos dias 10 (dez) dos meses de outubro, novembro e dezembro de 2013, sendo que a opção pelo parcelamento deverá ser firmada, consequentemente, até a data de 10 de outubro de 2013.
+
+
+§ 2º
+
+Os contribuintes que tiverem débitos já parcelados ou reparcelados poderão usufruir dos benefícios desta lei, em relação ao saldo remanescente, mediante pagamento à vista ou novo parcelamento nos termos acima descritos.
+
+
+§ 3º
+
+O valor das parcelas será atualizado monetariamente em 1° de janeiro de cada exercício, de acordo com a variação do Índice de Preços ao Consumidor Amplo Especial (IPCA-E), fixado pelo Instituto Brasileiro de Geografia e Estatística (IBGE), ou outro específico que venha substituí-lo, acumulado no exercício anterior.
+
+
+§ 4º
+
+Cada parcela não poderá ser inferior a 20 UFMs para contribuintes pessoas fisicas e 100 UFMs para contribuintes pessoas jurídicas.
+
+
+§ 5º
+
+Nos débitos ajuizados, sobre os valores apurados após a redução dos juros e multas pelo REFIS, incidirá o percentual de 10% (dez por cento) a título de honorários advocatícios que serão objeto de parcelamento, juntamente, com os valores das custas judiciais, ficando isentos dos honorários advocatícios acima referidos, os contribuintes que gozarem de gratuidade de justiça, concedida pelo Juízo da execução.
+
+
+Art. 5º.
+
+Tratando-se de crédito tributário objeto de impugnação, inclusive já em grau de recurso, o sujeito passivo deverá reconhecer, expressamente, a procedência do lançamento que tenha dado origem ao procedimento e formalizar a desistência no ato do pagamento ou parcelamento.
+
+
+Parágrafo único
+
+Quando o crédito tributário, ou não, for objeto de ação judicial contra o Município, a concessão dos beneficios previstos nesta Lei fica condicionada à desistência da ação e ao pagamento das custas respectivas, arcando o devedor com os honorários do seu advogado.
+
+
+Art. 6º.
+
+A opção pelo REFIS dar-se-á mediante requerimento do contribuinte, em formulário próprio a ser definido pela Secretaria Municipal de Fazenda.
+
+
+Art. 7º.
+
+O devedor que atrasar o pagamento de qualquer das parcelas pactuadas, terá o seu parcelamento cancelado, restabelecendo-se os valores e as condições anteriores do crédito, considerando-se os pagamentos efetuados até a data do cancelamento.
+
+
+§ 1º
+
+O parcelamento, uma vez cancelado, ensejará a inscrição do saldo remanescente em Dívida Ativa, se o crédito não estiver ali inscrito; a sua execução, caso já esteja inscrito ou o prosseguimento da execução, na hipótese de se encontrar ajuizado.
+
+
+§ 2º
+
+A falta de pagamento de qualquer parcela no vencimento ensejará o acréscimo de multa de 0,33% (trinta e três centésimos por cento) por dia de atraso, limitada ao máximo de 10% (dez por cento) e de juros de mora de 0,5% (meio por cento) ao mês.
+
+
+Art. 8º.
+
+Os beneficios desta Lei não se aplicam à extinção parcial ou integral do crédito, mediante dação em pagamento.
+
+
+Art. 9º.
+
+Esta Lei entrará em vigor na data de sua publicação, com vigência determinada até 10 de dezembro de 2013, quando será encerrado este programa de recuperação fiscal, revogando as disposições em contrário.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 2 DE SETEMBRO DE 2013.
+
+
+JONASTONIAN MARINS AGUIAR  
+PREFEITO
+

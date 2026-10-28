@@ -1,0 +1,54 @@
+---
+titulo: "Lei Ordinária Municipal nº 2.021, de 11 de julho de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "2021"
+data: "2023-07-11"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/682"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/607/text"
+sha256_fonte: "be9b07581b3fe31278ee4ac73e7ff5fe5b103707ca6280464c407542a9341f80"
+sha256_texto: "2913f6232ae8414ffb9e73da6d8eac8c20266a53c03a24915526b936da0374be"
+capturado_em_fonte: "2026-10-27T22:21:24.250348-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 2.021, de 11 de julho de 2023
+
+Afeta para o Domínio Público Imóvel Urbano, e dá outras providenciais.
+
+
+A CÂMARA DE VEREADORES DO MUNICÍPIO DE CALIFÓRNIA, ESTADO DO PARANÁ, APROVOU E EU PREFEITO SANCIONO A SEGUINTE L E I :
+
+
+Art. 1º.
+
+Fica AFETADO PARA O DOMÍNIO PÚBLICO o imóvel abaixo descrito:
+
+
+**- PARTE DO LOTE DE TERRAS denominado de PROLONGAMENTO DA RUA PROJETADA A, com a área de 1.385,94 m2.**
+
+\- Inicia-se a descrição deste perímetro no vértice **-M-0001**, georreferenciado no Sistema Geodésico Brasileiro, DATUM - SIRGAS2000, MC-45°W, de coordenadas **N 7.383.435,143m** e **E 463.310,164m**; deste segue confrontando com a propriedade de ARMANDO GASPARETO – FAZENDA CALIFÓRNIA I, MATRÍCULA 275,6599,10645, com azimute de 121°00'29" por uma distância de 5,44m até o vértice **-M-0002**, de coordenadas **N 7.383.432,338m** e **E 463.314,830m**; deste segue confrontando com o Lote D1 - Quadra 1, com azimute de 148°05'25" por uma distância de 30,26m até o vértice **-M-0003**, de coordenadas **N 7.383.406,650m** e **E 463.330,826m**; deste segue confrontando com o Lote D2 - Quadra 1, com azimute de 148°05'25" por uma distância de 8,60m até o vértice **-M-0004**, de coordenadas **N 7.383.399,350m** e **E 463.335,372m**; deste segue confrontando com o Lote D3 - Quadra 1, com azimute de 148°05'25" por uma distância de 8,60m até o vértice **-M-0005**, de coordenadas **N 7.383.392,049m** e **E 463.339,918m**; deste segue confrontando com o Lote D4 - Quadra 1, com azimute de 148°05'25" por uma distância de 8,60m até o vértice **-M-0006**, de coordenadas **N 7.383.384,749m** e **E 463.344,463m**; deste segue confrontando com o Lote D5 - Quadra 1, com azimute de 148°05'25" por uma distância de 9,32m até o vértice **-M-0007**, de coordenadas **N 7.383.376,837m** e **E 463.349,390m**; deste segue confrontando com o Lote D6 - Quadra 1, com azimute de 148°05'25" por uma distância de 9,32m até o vértice **-M-0008**, de coordenadas **N 7.383.368,926m** e **E 463.354,316m**; deste segue confrontando com o Lote D7 - Quadra 1, com azimute de 148°05'25" por uma distância de 9,32m até o vértice **-M-0009**, de coordenadas **N 7.383.361,014m** e **E 463.359,243m**; deste segue confrontando com o Lote D8 - Quadra 1, com azimute de 148°05'25" por uma distância de 9,32m até o vértice **-M-0010**, de coordenadas **N 7.383.353,103m** e **E 463.364,169m**; deste segue confrontando com o Lote D9 - Quadra 1, com azimute de 148°05'25" por uma distância de 8,60m até o vértice **-M-0011**, de coordenadas **N 7.383.345,802m** e **E 463.368,715m**; deste segue confrontando com a propriedade de ADILSON BRAGA THEODORO MATRÍCULA 20.735 LOTE N° 72-C-167, com azimute de 235°56'11" por uma distância de 13,00m até o vértice **-M-0012**, de coordenadas **N 7.383.338,525m** e **E 463.357,951m**; deste segue confrontando com o Lote B11 - Quadra 2, com azimute de 328°05'39" por uma distância de 13,86m até o vértice **-M-0013**, de coordenadas **N 7.383.350,289m** e **E 463.350,627m**; deste segue confrontando com o Lote B10 - Quadra 2, com azimute de 328°05'39" por uma distância de 9,00m até o vértice **-M-0014**, de coordenadas **N 7.383.357,929m** e **E 463.345,870m**; deste segue confrontando com a propriedade de Lote B9 - Quadra 2, com azimute de 328°05'39" por uma distância de 10,00m até o vértice **-M-0015**, de coordenadas **N 7.383.366,418m** e **E 463.340,585m**; deste segue confrontando com a propriedade de Lote B8 - Quadra 2, com azimute de 328°05'39" por uma distância de 9,83m até o vértice **-M-0016**, de coordenadas **N 7.383.374,763m** e **E 463.335,390m**; deste segue confrontando com a propriedade de Lote B7 - Quadra 2, com azimute de 328°05'39" por uma distância de 8,60m até o vértice **-M-0017**, de coordenadas **N 7.383.382,064m** e **E 463.330,844m**; deste segue confrontando com a propriedade de Lote B6 - Quadra 2, com azimute de 328°05'39" por uma distância de 8,60m até o vértice **-M-0018**, de coordenadas **N 7.383.389,364m** e **E 463.326,299m**; deste segue confrontando com a propriedade de Lote B5 - Quadra 2, com azimute de 328°05'39" por uma distância de 8,60m até o vértice **-M-0019**, de coordenadas **N 7.383.396,665m** e **E 463.321,754m**; deste segue confrontando com a propriedade de Lote B4 - Quadra 2, com azimute de 328°05'39" por uma distância de 8,60m até o vértice **-M-0020**, de coordenadas **N 7.383.403,966m** e **E 463.317,208m**; deste segue confrontando com a propriedade de Lote B3 - Quadra 2, com azimute de 328°05'39" por uma distância de 8,60m até o vértice **-M-0021**, de coordenadas **N 7.383.411,266m** e **E 463.312,663m**; deste segue confrontando com a propriedade de Lote B2 - Quadra 2, com azimute de 328°05'39" por uma distância de 8,60m até o vértice **-M-0022**, de coordenadas **N 7.383.418,567m** e **E 463.308,118m**; deste segue confrontando com a propriedade de Lote B1 - Quadra 2, com azimute de 328°05'39" por uma distância de 13,50m até o vértice **-M-0023**, de coordenadas **N 7.383.430,027m** e **E 463.300,983m**; deste segue confrontando com a RUA PARÁ, com azimute 60°52'24" por uma distância de 10,50m até o vértice **-M-0001**, ponto inicial da descrição deste perímetro de 238,67 m.
+
+Todas as coordenadas aqui descritas estão georreferenciadas ao Sistema Geodésico Brasileiro e encontram-se representadas no Sistema UTM, referenciadas ao **Meridiano Central nº 45 WGr,** tendo como Datum o **SIRGAS2000**. Todos os azimutes e distâncias, área e perímetro foram calculados no plano de projeção UTM.
+
+DESMEMBRAMENTO DA MATRÍCULA 20.353 do CRI - Marilândia do Sul-PR.
+
+
+Art. 2º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Edifício da Prefeitura do Município de Califórnia, aos 11 dias do mês de julho de 2023.
+
+**PAULO WILSON MENDES**
+
+Prefeito
+

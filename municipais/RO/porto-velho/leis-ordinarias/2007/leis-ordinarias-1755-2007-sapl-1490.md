@@ -1,0 +1,197 @@
+---
+titulo: "Lei nº 1.755, de 08 de novembro de 2007"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1755"
+data: "2007-11-08"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/1490"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/3161/text"
+sha256_fonte: "2b5b273a2b4234832f768aefdda2807e73adb18cc5ad857eb28388394928810f"
+sha256_texto: "720faa85449d164796fde90bc13d6c0934874c0deb5d45069b90a712dadd38df"
+capturado_em_fonte: "2026-10-27T21:26:57.191623-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.755, de 08 de novembro de 2007
+
+"Institui o Programa de Adoção de Praças Públicas e de Esportes e Áreas Verdes e Estabelece seus objetivos e processos, suas espécies e limitações das responsabilidades e dos benefícios adotantes".
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é confere o inciso IV, do art. 87, da LEI ORGÂNICA MUNICIPAL.
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte:
+
+**LEI:**
+
+
+Da Instituição e Objetivos do Programa
+
+
+Art. 1º.
+
+Fica instituido o Programa de Adoção de Praças Públicas e de Esportes e Áreas Verdes no âmbito do Município de Porto Velho – RO, com os seguintes objetivos, entre outros:
+
+
+I –
+
+Promover a participação da sociedade civil organizada e das pessoas jurídicas na urbanização, nos cuidados e na manutenção das praças públicas, de esportes e de áreas verdes do Município de Porto Velho, em conjunto com o Poder Público Municipal;
+
+
+II –
+
+Levar a população vizinha às praças públicas, de esportes e verdes e entenderem esses espaços com de responsabilidade concorrente com o Poder Público Municipal;
+
+
+III –
+
+incentivar o uso das praças, de esportes e áreas verdes pela população, por associações desportivas, de lazer e culturais da área de abrangência das mesmas;
+
+
+IV –
+
+Propiciar que grupos organizados da população elaborem projetos de utilização das praças públicas, de esportes e áreas verdes que atinjam as diversas faixas etárias e necessidades especiais da população.
+
+
+Do Processo de Adoção
+
+
+Art. 2º.
+
+Podem participar do programa quaisquer entidades da sociedade civil, associações de moradores, sociedade amigos de bairro e pessoas jurídicas legalmente constituídas e cadastradas no Município de Porto Velho e também pessoa física moradora no Município.
+
+
+Parágrafo único
+
+Ficam excluídas da participação no programa pessoas jurídicas relacionadas a cigarro e bebidas alcoólicas, bem como outras que possam ser consideradas impróprias aos objetivos propostos nesta lei.
+
+
+Art. 3º.
+
+Para participar no programa será necessária à assinatura de convênio entre a entidade ou pessoa física que vai assumir a adoção e o Poder Público Municipal.
+
+
+Art. 4º.
+
+Para dar início ao processo de adoção com vistas à assinatura do convênio referido no artigo anterior, a entidade, pessoa jurídica ou pessoa física, interessada em adotar determinada área pública, objeto desta lei, deve dar entrada a proposta de adoção, anexando o necessário projeto a ser desenvolvido.
+
+
+Art. 5º.
+
+A adoção de uma praça pública de esportes ou área verde pode se destinar
+
+
+I –
+
+Urbanização da praça pública ou de esportes de acordo com projeto elaborado pelo departamento competente do Executivo Municipal ou por ele aprovado;
+
+
+II –
+
+Construção dos diversos equipamentos esportivos ou lazer em praça pública, ou de esportes, de acordo com o projeto elaborado pelo departamento competente do Executivo Municipal ou por ele aprovado;
+
+
+III –
+
+Conservação e manutenção da área adotada;
+
+
+IV –
+
+Realização de atividades culturais, educacionais, esportivas ou de lazer, de acordo com o projeto apresentado para aprovação e assinatura do convênio.
+
+
+Art. 6º.
+
+Caberá ao Executivo Municipal, através dos órgãos competentes:
+
+
+I –
+
+A elaboração dos projetos de urbanização e construção de praças públicas, de esportes e áreas verdes que venham a ser adotadas;
+
+
+II –
+
+A aprovação dos projetos de urbanização ou de construção de praças públicas, de esporte e áreas verdes que sejam elaboradas fora dos órgãos do Executivo Municipal em função do convênio estabelecido.
+
+
+Art. 7º.
+
+A adoção de praças públicas, de esporte e áreas verdes opera-se sem prejuízo da função do Poder Executivo de Administrar os próprios municipais.
+
+
+Das Responsabilidades
+
+
+Art. 8º.
+
+Caberá à entidade ou pessoa jurídica adotante a responsabilidade:
+
+
+I –
+
+Pela execução dos projetos elaborados pelo Poder Público Municipal, com verba pessoal ou material próprio;
+
+
+II –
+
+Pela prevenção e manutenção conforme estabelecidos no convênio e no projeto apresentado.
+
+
+Art. 9º.
+
+As entidades, pessoas jurídicas e pessoas físicas que vierem a participar do programa, deverão zelar pela manutenção, conservação, recuperação e iluminação da área que adotar, bem como a elaboração e execução dos trabalhos de arborização, com a adoção de sementes e mudas de árvores.
+
+
+Dos Beneficios pela Adoção de Praças Públicas, de Esporte e Áreas Verdes.
+
+
+Art. 10.
+
+A entidade, pessoa jurídica ou física adotante ficará autorizada, após a assinatura do convênio, a afixar, na área adotada, uma ou mais placas padronizadas alusivas ao processo de colaboração com o Poder Executivo Municipal, bem como o objetivo da adoção, conforme modelo a ser estabelecido no decreto regulamentador.
+
+
+Art. 11.
+
+O convênio de adoção em momento algum deverá conceder qualquer tipo de uso à entidade adotante a não ser aqueles estabelecidos nesta lei, principalmente no que diz respeito à concessão de uso ou permissão de uso.
+
+
+Art. 12.
+
+Esta lei deverá ser regulamentada por decreto no prazo de 60 (sessenta) dias a contar da sua publicação, no qual se estabelecerá, entre outras medidas:
+
+
+I –
+
+Os órgãos responsáveis pela aprovação dos projetos citados no artigo 4º desta Lei;
+
+
+II –
+
+a forma e o tipo de placa padronizada estabelecida no artigo 10;
+
+
+Art. 13.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 14.
+
+Revogadas as disposições em contrário.
+
+
+**ROBERTO EDUARDO SOBRINHO Prefeito do Município**
+
+MARIO JONAS FREITAS GUTERRES  
+Procurador Geral do Município
+
+**Projeto de Lei n. 2.394/2007 Autoria: Vereador Alan Queiroz**
+

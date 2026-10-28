@@ -1,0 +1,36 @@
+---
+titulo: "PORTARIA Nº 10.112, DE 11 DE NOVEMBRO DE 2019"
+orgao: "Ministério da Economia/Secretaria Especial de Fazenda"
+tipo: "Portaria"
+numero: "10112"
+data: 2019-11-11
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 12/11/2019, seção 1, p. 314"
+data_publicacao: 2019-11-12
+edicao: "219"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-10.112-de-11-de-novembro-de-2019-227377829"
+sha256_html_fonte: e75c7ef64a5ee0d0f87d7924a2feccefbf0059ec0f73d77c66bbb1a78fa7f57c
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 10.112, DE 11 DE NOVEMBRO DE 2019
+
+PORTARIA Nº 10.112, DE 11 DE NOVEMBRO DE 2019
+
+Transfere dotações orçamentárias constantes dos Orçamentos Fiscal e da Seguridade Social da União, do Ministério da Mulher, da Família e dos Direitos Humanos para o Ministério da Justiça e Segurança Pública, no valor de R$ 3.561.815,00.
+
+O SECRETÁRIO ESPECIAL ADJUNTO DE FAZENDA DO MINISTÉRIO DA ECONOMIA, tendo em vista a autorização contida no art. 54 da Lei nº 13.707, de 14 de agosto de 2018, e a subdelegação de competência de que trata o inciso IV do art. 2º da Portaria nº 157, de 22 de agosto de 2019, do Secretário Especial de Fazenda, resolve:
+
+**Art. 1º** Transferir, do Ministério da Mulher, da Família e dos Direitos Humanos para o Ministério da Justiça e Segurança Pública, dotações orçamentárias constantes dos Orçamentos Fiscal e da Seguridade Social da União (Lei nº 13.808, de 15 de janeiro de 2019), no valor de R$ 3.561.815,00 (três milhões, quinhentos e sessenta e um mil, oitocentos e quinze reais), de acordo com os Anexos I e II.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+ESTEVES PEDRO COLNAGO JUNIOR
+
+## ANEXO I
+
+<table><tr><td><p>ÓRGÃO: 30000 - Ministério da Justiça e Segurança Pública</p></td></tr><tr><td><p>UNIDADE: 30202 - Fundação Nacional do Índio - FUNAI</p></td><td></td></tr><tr><td><p>ANEXO I</p></td><td><p>Outras Alterações Orçamentárias</p></td></tr><tr><td><p>PROGRAMA DE TRABALHO ( ACRÉSCIMO )</p></td><td><p>Recurso de Todas as Fontes R$ 1,00</p></td></tr><tr><td><p>FUNCIONAL</p></td><td><p>PROGRAMÁTICA</p></td><td><p>PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO</p></td><td><p>E S F</p></td><td><p>G N D</p></td><td><p>R P</p></td><td><p>M O D</p></td><td><p>I U</p></td><td><p>F T E</p></td><td><p>VALOR</p></td></tr><tr><td><p>0901</p></td><td><p>Operações Especiais: Cumprimento de Sentenças Judiciais</p></td><td><p>3.398.951</p></td></tr><tr><td></td><td></td><td><p>Operações Especiais</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>28 846</p></td><td><p>0901 0005</p></td><td><p>Sentenças Judiciais Transitadas em Julgado (Precatórios)</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>3.398.951</p></td></tr><tr><td><p>28 846</p></td><td><p>0901 0005 0001</p></td><td><p>Sentenças Judiciais Transitadas em Julgado (Precatórios) - Nacional</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>3.398.951</p></td></tr><tr><td></td><td></td><td></td><td><p>F</p></td><td><p>1</p></td><td><p>1</p></td><td><p>90</p></td><td><p>0</p></td><td><p>100</p></td><td><p>1.447.801</p></td></tr><tr><td></td><td></td><td></td><td><p>F</p></td><td><p>3</p></td><td><p>1</p></td><td><p>90</p></td><td><p>0</p></td><td><p>100</p></td><td><p>1.951.150</p></td></tr><tr><td><p>0909</p></td><td><p>Operações Especiais: Outros Encargos Especiais</p></td><td><p>162.864</p></td></tr><tr><td></td><td></td><td><p>Operações Especiais</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>28 846</p></td><td><p>0909 0536</p></td><td><p>Benefícios e Pensões Indenizatórias Decorrentes de Legislação Especial e/ou Decisões Judiciais</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>162.864</p></td></tr><tr><td><p>28 846</p></td><td><p>0909 0536 0001</p></td><td><p>Benefícios e Pensões Indenizatórias Decorrentes de Legislação Especial e/ou Decisões Judiciais - Nacional</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>162.864</p></td></tr><tr><td></td><td></td><td></td><td><p>S</p></td><td><p>3</p></td><td><p>1</p></td><td><p>90</p></td><td><p>0</p></td><td><p>100</p></td><td><p>162.864</p></td></tr><tr><td><p>TOTAL - FISCAL</p></td><td><p>3.398.951</p></td></tr><tr><td><p>TOTAL - SEGURIDADE</p></td><td><p>162.864</p></td></tr><tr><td><p>TOTAL - GERAL</p></td><td><p>3.561.815</p></td></tr></table>
+
+## ANEXO II
+
+<table><tr><td><p>ÓRGÃO: 81000 - Ministério da Mulher, da Família e dos Direitos Humanos</p></td></tr><tr><td><p>UNIDADE: 81201 - Fundação Nacional do Índio - FUNAI</p></td><td></td></tr><tr><td><p>ANEXO II</p></td><td><p>Outras Alterações Orçamentárias</p></td></tr><tr><td><p>PROGRAMA DE TRABALHO ( REDUÇÃO )</p></td><td><p>Recurso de Todas as Fontes R$ 1,00</p></td></tr><tr><td><p>FUNCIONAL</p></td><td><p>PROGRAMÁTICA</p></td><td><p>PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO</p></td><td><p>E S F</p></td><td><p>G N D</p></td><td><p>R P</p></td><td><p>M O D</p></td><td><p>I U</p></td><td><p>F T E</p></td><td><p>VALOR</p></td></tr><tr><td><p>0901</p></td><td><p>Operações Especiais: Cumprimento de Sentenças Judiciais</p></td><td><p>3.398.951</p></td></tr><tr><td></td><td></td><td><p>Operações Especiais</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>28 846</p></td><td><p>0901 0005</p></td><td><p>Sentenças Judiciais Transitadas em Julgado (Precatórios)</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>3.398.951</p></td></tr><tr><td><p>28 846</p></td><td><p>0901 0005 0001</p></td><td><p>Sentenças Judiciais Transitadas em Julgado (Precatórios) - Nacional</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>3.398.951</p></td></tr><tr><td></td><td></td><td></td><td><p>F</p></td><td><p>1</p></td><td><p>1</p></td><td><p>90</p></td><td><p>0</p></td><td><p>100</p></td><td><p>1.447.801</p></td></tr><tr><td></td><td></td><td></td><td><p>F</p></td><td><p>3</p></td><td><p>1</p></td><td><p>90</p></td><td><p>0</p></td><td><p>100</p></td><td><p>1.951.150</p></td></tr><tr><td><p>0909</p></td><td><p>Operações Especiais: Outros Encargos Especiais</p></td><td><p>162.864</p></td></tr><tr><td></td><td></td><td><p>Operações Especiais</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td><p>28 846</p></td><td><p>0909 0536</p></td><td><p>Benefícios e Pensões Indenizatórias Decorrentes de Legislação Especial e/ou Decisões Judiciais</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>162.864</p></td></tr><tr><td><p>28 846</p></td><td><p>0909 0536 0001</p></td><td><p>Benefícios e Pensões Indenizatórias Decorrentes de Legislação Especial e/ou Decisões Judiciais - Nacional</p></td><td></td><td></td><td></td><td></td><td></td><td></td><td><p>162.864</p></td></tr><tr><td></td><td></td><td></td><td><p>S</p></td><td><p>3</p></td><td><p>1</p></td><td><p>90</p></td><td><p>0</p></td><td><p>100</p></td><td><p>162.864</p></td></tr><tr><td><p>TOTAL - FISCAL</p></td><td><p>3.398.951</p></td></tr><tr><td><p>TOTAL - SEGURIDADE</p></td><td><p>162.864</p></td></tr><tr><td><p>TOTAL - GERAL</p></td><td><p>3.561.815</p></td></tr><tr><td><p></p></td><td></td></tr></table>

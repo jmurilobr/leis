@@ -1,0 +1,40 @@
+{
+  "escopo": "Runner116 preparado para revisão ROOT; apenas AST conferida, nunca executado pelo agente. Default valida sem escrever; --apply somente ROOT, após validação integral de todos os insumos e ausência em HEAD por path/número/ano.",
+  "sha256_runner": "9366e90a595609670a5cb0ab66386ef823cc69b301957acf08d0d631842ea112",
+  "HEAD_preparacao": "9f40d93db2a7b7959c0dda8469cf73c75a3b805b",
+  "insumos": [
+    {
+      "path": "federal/_fonte/auditorias/retomada_federal_20261027_002/verificacao_3608.json",
+      "sha256": "be222b86f3b1d9f1f4a133411b61673a7015bc89add51a128a8d40e5d3820006"
+    },
+    {
+      "path": "federal/_fonte/auditorias/retomada_federal_20261027_002/promocoes_116.json",
+      "sha256": "3bde62b02a0987e503825d0280af294843c12e516cb27fb8e802e6eb6fab0482"
+    },
+    {
+      "path": "federal/_fonte/auditorias/retomada_federal_20261027_002/publicar3608-hashes.json",
+      "sha256": "be88dde77f89d75c6f78b279a1aa67edbf00d3a777b5f052397a21fea958a1a8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/retomada_federal_20261027_002/fontes3608/mapa_fontes3608.json",
+      "sha256": "de161e479ff0f194533e5de143c34d664b87ff3e0c5af3ea5f7e80223c8fe952"
+    },
+    {
+      "path": "federal/_fonte/auditorias/retomada_federal_20261027_002/validacao_arquivo_publico3608.json",
+      "sha256": "d97f1f158535a68efdd3cc38663d1409b184a3c0c4ddd8ad81ec379a1f957e3f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/retomada_federal_20261027_002/inventario3608.json",
+      "sha256": "47fc21c1f017f96a3b3facea373614fa78138f80932b7f947e4a7c736db96de8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/retomada_federal_20261027_003/replay3608_cumulativo.json",
+      "sha256": "8446a9c38ffa792dc1c4bdd84d5e905f9e03ee4ba9317633882e69bd3dcaec4d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/retomada_federal_20261027_003/github_dois/resultado.json",
+      "sha256": "e443991b11e384a0ab199a1f5adf242e497bb7d5d8c4495d3a21538e9bd8c725"
+    }
+  ],
+  "limites": "Nenhum Git de escrita, rede ou conversor é executado pelo runner. Dois renders oficiais novos entram como complemento; CSS não certificado. Pacotes 9061/3608 e registro permanecem intactos."
+}

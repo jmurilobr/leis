@@ -1,0 +1,26 @@
+{
+  "commit": "9b64a802d0c4808557c69d22925301973e26ea3a",
+  "baseline": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_recuperacao_20261027/reparos-seis-ROOT-dryrun-20261027/baseline-head/manifesto.json",
+  "sha256_baseline": "6dc4ccb3ce4606d87fad60ffe92b36269a27b20aa5d667d6eb40e2fe6bc78d6e",
+  "comparados": 27620,
+  "candidatos": 6,
+  "colisoes": [],
+  "fontes": [
+    {
+      "arquivo": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_recuperacao_20261027/reparos-seis-ROOT-dryrun-20261027/baseline-head/manifesto.json",
+      "sha256": "6dc4ccb3ce4606d87fad60ffe92b36269a27b20aa5d667d6eb40e2fe6bc78d6e"
+    }
+  ],
+  "lista": "/Volumes/ExternalSSD/GitHub/constituicao/municipais/_indice/_recuperacao_20261027/reparos-seis-ROOT-dryrun-20261027/identidades-preimagens.paths.txt",
+  "sha256_lista": "8224c1682f4f151076f0e65bb39033d4c705613096e22ad54f412ddfb58f5fdf",
+  "sha256_candidatos": {
+    "municipais/SP/bofete/leis-ordinarias/2025/leis-ordinarias-2394-2025-sapl-2364.md": "b421e31968c0e12f48d69ed9c24b5ec9d4a3c8be39afba5b36e3d68f15dc7241",
+    "municipais/SP/bofete/leis-ordinarias/1999/leis-ordinarias-1630-1999-sapl-2390.md": "df4b88dace37544a02d352b29000435ab93c82e7ab2dde8563559c30234a1c0f",
+    "municipais/RJ/barra-mansa/leis-ordinarias/1995/leis-ordinarias-2808-1995-sapl-4088.md": "d9ffe6c651a28a2941cf463abef2bdc8213e0c09b38c2237cebf561bee8b9c1c",
+    "municipais/RJ/barra-mansa/leis-ordinarias/1990/leis-ordinarias-2325-1990-sapl-1427.md": "b87282b6383de05e9ef11da9b1ad84252a7221670e46a68aca989c0f11f1c60d",
+    "municipais/MG/buritis/resolucoes/2015/resolucoes-298-2015-sapl-1790.md": "658117bb5d1843839002cea3b027912059cdcd9bb01dd3b19bc24d0343096fbb",
+    "municipais/MG/buritis/leis-ordinarias/2015/leis-ordinarias-1326-2015-sapl-362.md": "14312a8621d563607ac3310a4614383cda3d971e03768dba52db41d5a82b1fac"
+  },
+  "criterio": "URLs oficiais e identidade IBGE/rota/tipo/número/ano. O índice usa somente metadados do blob integral por OID do commit registrado e reservas qualificadas com SHA conferido; não lê versões do working tree para substituir HEAD.",
+  "codigo_sha256": "6cf4eb7ef24c88aff11487039d766cd27be1f6f21d4a30fa7a93f4128f7b7ab2"
+}

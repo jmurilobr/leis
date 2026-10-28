@@ -1,0 +1,114 @@
+---
+titulo: "Lei nº 1.605, de 04 de abril de 2005"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1605"
+data: "2005-04-04"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/1562"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/3302/text"
+sha256_fonte: "fb8d4709412335481c4156059380539f074308ecf89d3dae0ee3f9c801070961"
+sha256_texto: "d2758d224d81150c739e1f403d1f9b35c2200936362d153cab6b8a12c1aa8564"
+capturado_em_fonte: "2026-10-27T21:36:10.799673-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.605, de 04 de abril de 2005
+
+Dispõe sobre autorização legislativa ao Município para doação de área de terras destinada à construção de moradias populares a pessoas comprovadamente de baixa renda.
+
+
+O PREFEITO DO MUNICÍPIO DE PORTO VELHO, usando da atribuição que lhe é conferida no inciso IX, do art. 23, da Constituição Federal combinado com o inciso XLII, art. 7º e inciso IV, do art. 87, ambos da Lei Orgânica,
+
+FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO aprovou e eu sanciono a seguinte
+
+LEI:
+
+
+Art. 1º.
+
+Fica o Município, por intermédio do Poder Executivo, autorizado a doar área de terras urbanas, conforme especificações, limites e confrontações previstos nesta Lei, às pessoas comprovadamente de baixa renda.
+
+
+Parágrafo único
+
+A área mencionada no caput deste artigo, encontra-se situada na Rua Raimundo Cantuária, Bairro Tiradentes, neste Município, medindo 11.850,00m² (onze mil, oitocentos e cinqüenta metros quadrados) e está localizada na Unidade 01, Lote 844, Quadra 73, Setor 23, Zona 03, Distrito 01, limitando-se ao Norte com os lotes de terra de nº 70 à 190, ao Sul com a Rua Raimundo Cantuária, à Leste com o Lote nº 742 e à Oeste com o lote nº 695, com o seguinte perímetro: de frente 118,50m, de fundos, 118,50m, lado direito 100,00m e lado esquerdo 100,00m.
+
+
+Art. 2º.
+
+A área de que trata o artigo anterior, destina-se exclusivamente à construção de moradias populares para pessoas comprovadamente de baixa renda, a ser efetuada com recursos da Caixa Econômica Federal – CEF e do Município de Porto Velho, através do Programa de Subsídio à Habitação de Interesse Social – PSH.
+
+
+§ 1º
+
+Cada beneficiado receberá um único lote, com área nao superior a 300m², os quais destinam-se exclusivamente à construção da residência dos donatários e de suas respectivas famílias, sendo vedada a utilização para qualquer outro fim e proibida a sua alienação através de venda, permuta, troca, doação ou dação em pagamento, bem como cessão a terceiros, inclusive por comodato ou locação pelo prazo de dez anos.
+
+
+§ 2º
+
+No caso de descumprimento das exigências constantes desta lei, a doação será anulada e o imóvel reverterá ao patrimônio do Município.
+
+
+Art. 3º.
+
+Fará jus a receber a doação aquele que comprovar:
+
+
+I –
+
+ter renda mensal não superior a 2 (dois) salários mínimos;
+
+
+II –
+
+não possuir imóvel no Município de Porto Velho, atualmente e nos últimos dois anos;
+
+
+III –
+
+para efeito das doações e localização das residências, será efetuado sorteio entre os beneficiários;
+
+
+IV –
+
+serão beneficiadas com as referidas doações as famílias notificadas pelo corpo de bombeiros, defesa civil e Prefeitura do Município de Porto Velho com os devidos laudos de comprovação das áreas de risco.
+
+
+§ 1º
+
+Outras condições poderão ser exigidas pelo Poder Executivo, para priorizar aqueles de maior carência e necessidade da doação.
+
+
+§ 2º
+
+A situação do candidato será comprovada através de documentos, de testemunhas de declaração pessoal e levantamento sócio-econômico.
+
+
+Art. 4º.
+
+O Município poderá estabelecer outros encargos ao donatário, por intermédio do termo de doação.
+
+
+Art. 5º.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Art. 6º.
+
+Revogadas as disposições em contrário.
+
+
+**ROBERTO EDUARDO SOBRINHO**  
+Prefeito do Município
+
+**MÁRIO JONAS FREITAS GUTERRES**  
+Procurador Geral do Município
+

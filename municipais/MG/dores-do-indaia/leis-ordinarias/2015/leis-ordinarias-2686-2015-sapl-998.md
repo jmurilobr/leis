@@ -1,0 +1,142 @@
+---
+titulo: "Lei Ordinária nº 2.686, de 17 de dezembro de 2015"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2686"
+data: "2015-12-17"
+municipio: "Dores do Indaiá"
+uf: "MG"
+codigo_ibge: "3123205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.doresdoindaia.mg.leg.br/norma/998"
+fonte_texto: "https://sapl.doresdoindaia.mg.leg.br/ta/480/text"
+sha256_fonte: "7cafce05ffb2b89f5e502cb710ce9539d8b89a0c51fd91ae5529cac51f400db3"
+sha256_texto: "f78541009891a5489f0e5cef4f83d8e0a965c6f9ee207a16febf63e6cedab512"
+capturado_em_fonte: "2026-10-28T10:11:32.022729-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.686, de 17 de dezembro de 2015
+
+**TEXTO ORIGINAL EM PDF**
+
+
+“Institui Contribuição para Custeio do Serviço de Iluminação Pública CIP
+
+
+Câmara Municipal de Dores do Indaiá/MG, por seus representantes legais, aprova, eu, Prefeito Municipal, sanciono seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituída Contribuição para Custeio do Serviço de Iluminação Pública CIP, prevista no Art. 149-A da Constituição Federal, para custeio dos serviços de iluminação pública prestados aos contribuintes nas vias logradouros públicos do município de Dores do Indaiá.
+
+
+Parágrafo único
+
+O serviço previsto no caput deste artigo compreende consumo de energia destinada iluminação de vias, logradouros demais bens públicos, custo administrativo direto indireto instalação, manutenção, eficientização expansão do sistema de iluminação publica do Município de Dores do Indaiá.
+
+
+Art. 2º.
+
+O fato gerador da Contribuição para Custeio“do Serviço de Iluminação Pública é:
+
+
+I –
+
+o consumo de energia elétrica por pessoa natural ou jurídica, mediante ligação regular de energia elétrica no território do Município;
+
+
+II –
+
+a propriedade imobiliária de imóvel (urbano) edificado ou não, que não disponha de ligação regular de energia elétrica.
+
+
+Art. 3º.
+
+O sujeito passivo da Contribuição para Custeio do Serviço de Iluminação Pública consumidor de energia elétrica residente ou estabelecido no território do Município que esteja cadastrado junto concessionária distribuidora de energia elétrica titular da concessão no território do município, excetuando-se os consumidores localizados em área rural.
+
+
+Parágrafo único
+
+No caso previsto no art. 2º, inciso Il, sujeito passivo da Contribuição para Custeio do Serviço de Iluminação Pública será proprietário, possuidor ou titular do domínio útil de imóvel (urbano) edificado ou não, que não disponha de ligação regular de energia elétrica, conforme caso.
+
+
+Art. 4º.
+
+Contribuição para Custeio do Serviço de Iluminação Pública será calculada mensalmente sobre valor da Tarifa de Iluminação Pública, aplicada pela Concessionária de Distribuição de Energia Elétrica ao Município, incluindo-se acréscimos ou adições determinados pela ANEEL Agência Nacional de Energia Elétrica ou outro órgão que vier substituíla, devendo ser adotados, nos intervalos de consumo indicados, os percentuais correspondentes conforme tabela seguir:
+
+
+<table><colgroup><col><col></colgroup><tbody><tr><td>Consumo Mensal - KWh</td><td>Percentual da Tarifa aplicada pela Concessionária de Distribuição de Energia Elétrica ao Município</td></tr><tr><td>0 a 50</td><td>isento</td></tr><tr><td>51 a 100</td><td>2,5%</td></tr><tr><td>101 a 200</td><td><div>5,0%</div></td></tr><tr><td>201 a 300</td><td>6,0%</td></tr><tr><td>Acima de 301</td><td>7,5%</td></tr></tbody></table>
+
+
+Parágrafo único
+
+No caso previsto no Art. 2º, inciso II, base de cálculo  
+da Contribuição para Custeio do Serviço de Iluminação Pública será 30% da tarifa vigente
+
+
+Art. 5º.
+
+O produto da Contribuição constituirá receita destinada cobrir os dispêndios da municipalidade decorrentes do custeio do serviço de iluminação pública.
+
+
+a)
+
+despesas com energia consumida pelos serviços de iluminação  
+pública;
+
+
+b)
+
+despesas com administração, operações, manutenção,  
+eficientização ampliação do sistema de iluminação pública.
+
+
+Art. 6º.
+
+facultada cobrança da Contribuição na fatura de consumo de  
+energia elétrica emitida pela empresa concessionária, condicionada celebração de contrato convênio.
+
+
+Parágrafo único
+
+Poder Executivo fica autorizado celebrar contrato convênio com empresa concessionária ou permissionária de energia elétrica  
+local, para promover arrecadação da Contribuição para Custeio do Serviço de Iluminação Pública CIP.
+
+
+Art. 7º.
+
+Na hipótese do art. 2º, inciso II, responsabilidade pela  
+arrecadação da Contribuição para Custeio do Serviço de Iluminação Pública será do ente municipal, mediante lançamento juntamente ao IPTU Imposto Predial  
+Territorial Urbano ou outro meio previsto pelo município.
+
+
+Art. 8º.
+
+Aplicam-se Contribuição para Custeio do Serviço de Iluminação  
+Pública, no que couber, as normas do Código Tributário Nacional legislação  
+tributária do Município, inclusive aquelas relativas às infrações penalidades.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação, observadas as  
+limitações constitucionais.
+
+
+Art. 10.
+
+Ficam revogadas as leis 2.069 de 31 de dezembro de 2.002  
+2.079 de 20 de junho de 2.003.
+
+
+Dores do Indaiá - MG, 17 de dezembro de 2015
+
+Ronaldo Antônio Zica da Costa
+
+Prefeito Municipal
+

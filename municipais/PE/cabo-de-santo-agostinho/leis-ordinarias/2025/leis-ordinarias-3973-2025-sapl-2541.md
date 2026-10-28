@@ -1,0 +1,370 @@
+---
+titulo: "Lei Ordinária nº 3.973, de 12 de maio de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3973"
+data: "2025-05-12"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2541"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/2431/text"
+sha256_fonte: "63ade387f29d6a1970b9163297f4f5b0e0684bf3b60db944a16275a68ac768cf"
+sha256_texto: "c570c3c98d2e7c7784b187c1ecd46398ac104e0734c33ada5b51e29186f225d2"
+capturado_em_fonte: "2026-10-27T21:10:37.669656-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 3.973, de 12 de maio de 2025
+
+Dispõe sobre as normas que regulam a anuência e a fiscalização da execução de obras que interfiram no pavimento dos logradouros públicos e das obras de pavimentação das vias públicas, e dá outras providências.
+
+
+O PRESIDENTE DA CÂMARA MUNICIPAL DO CABO DE SANTO AGOSTINHO PROMULGA A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Esta Lei estabelece as normas que regulam a anuência e a fiscalização da execução de obras que interfiram no pavimento dos logradouros públicos e das obras de pavimentação das vias públicas
+
+
+Art. 2º.
+
+Para efeitos desta Lei, define-se como obra de pavimentação a execução de intervenções que se destinem a recomposição de pavimento das vias públicas e dos logradouros públicos.
+
+
+Art. 3º.
+
+Somente poderão ser iniciadas obras que interfiram no pavimento dos logradouros públicos e obras de pavimentação das vias públicas, mediante anuência da Prefeitura do Cabo de Santo Agostinho, por intermédio da Secretaria Municipal de Infraestrutura (SMI).
+
+
+§ 1º
+
+A anuência será configurada a partir da prestação de informações do executante da obra.
+
+
+§ 2º
+
+A prestação de informações de que trata este artigo será regulamentada em decreto do Poder Executivo, devendo conter, no mínimo, as seguintes indicações:
+
+
+I –
+
+a localização da obra pelo nome do logradouro;
+
+
+II –
+
+localização por georreferenciamento;
+
+
+III –
+
+finalidade da obra;
+
+
+IV –
+
+indicação de responsabilidade técnica:
+
+
+V –
+
+período da realização da intervenção; e
+
+
+VI –
+
+telefone, e-mail e endereço do contato do responsável técnico.
+
+
+§ 3º
+
+a prestação de informações de que trata este artigo deverá ser realizada com antecedência mínima de 30 dias de inicio da intervenção, através do e-mail da Secretaria Municipal de Infraestrutura (SMI).
+
+
+§ 4º
+
+Em todo caso de mudança de programação deverá ser enviada nova informação, conforme descrito no §2º deste artigo, sem prejuízo do disposto no §3º deste artigo.
+
+
+§ 5º
+
+Se não houver pronunciamento por parte da Secretaria Municipal de Infraestrutura, dentro do prazo de 30 (trinta) dias a contar da data da prestação das informações de que trata este artigo, considera-se concedida a anuência, de forma tácita, não eximindo a responsabilidade do executor quanto as obrigatoriedades técnicas nesta Lei.
+
+
+§ 6º
+
+A anuência não se configurará apenas se a Secretaria Municipal de Infraestrutura – SMI expedir posicionamento formal contrário a execução da intervenção pretendida, no qual solicitará as respectivas justificativas técnicas.
+
+
+Art. 4º.
+
+Não será requerida anuência nos termos do §3º do art. 3º em intervenções de natureza emergencial.
+
+
+§ 1º
+
+Para efeitos desta Lei, define-se como intervenções de natureza emergencial todo e qualquer serviço necessário em decorrência de caso fortuito, ocorrência perigosa ou situação crítica.
+
+
+§ 2º
+
+Nas intervenções de natureza emergencial, o executante deverá comunicá-la, ou no prazo máximo de 24 (vinte e quatro) horas a contar do início de sua execução, nos mesmos termos do §2º do artigo 3º.
+
+
+§ 3º
+
+As intervenções de natureza emergencial mencionadas no art. 4º não exime a obrigatoriedade em reconstruir o pavimento dos logradouros públicos e a pavimentação das vias públicas, caso o tenha executado em desconformidade com o que determina a Lei.
+
+
+Art. 5º.
+
+As concessionárias e permissionárias de serviço público deverão apresentar a Secretaria Municipal de Infraestrutura o planejamento semestral das intervenções que serão executadas nas vias públicas, conforme regulamentação a ser disposta em Decreto do Poder Executivo.
+
+
+§ 1º
+
+Os planos quadrimestrais deverão ser entregues a Secretaria Municipal de Infraestrutura no prazo de 45 dias antes do início de sua vigência.
+
+
+§ 2º
+
+A apresentação do planejamento disposto neste artigo não dispensa o processo de anuência.
+
+
+Art. 6º.
+
+A execução de obras que interfiram no pavimento dos logradouros públicos e das obras de pavimentação das vias públicas deverá ser realizada observando as normas técnicas específicas para a matéria e ainda o descrito no caderno de encargos da Secretaria Municipal de Infraestrutura (SMI).
+
+
+§ 1º
+
+Nas vias públicas que tenham passado por serviço de recuperação total do pavimento há menos de dois anos deverão ser seguidos os procedimentos descritos em capítulo específico próprio do caderno de encargos da Secretaria Municipal de Infraestrutura (SMI).
+
+
+§ 2º
+
+A empresa ou concessionária ou permissionária de serviços públicos responsável pela obra deverá identificar-se por meio da instalação de placa indicativa com a metragem mínima de metros quadrados, estabelecida e descrita no caderno de encargos da Secretaria Municipal de Infraestrutura (SMI)
+
+
+Art. 7º.
+
+Deverá ser instituída, na Secretaria Municipal de Infraestrutura, equipe técnica para acompanhamento e fiscalização da execução de recomposição do pavimento dos logradouros públicos e de obras de pavimentação em vias públicas.
+
+
+Art. 8º.
+
+Compete a equipe técnica a análise do processo de anuência e a fiscalização da execução da recomposição do pavimento dos logradouros públicos e de obras de pavimentação
+
+
+Art. 9º.
+
+A constatação, pela equipe técnica, do descumprimento das disposições desta Lei poderá ensejar as seguintes penalidades:
+
+
+I –
+
+embargos; e
+
+
+II –
+
+multa.
+
+
+Art. 10.
+
+O embargo consiste na ordem de paralização da intervenção
+
+
+Parágrafo único
+
+O embargo não impede a aplicação concomitante de outras penalidades estabelecidas nesta Lei
+
+
+Art. 11.
+
+Cabe embargo nos seguintes casos e condições:
+
+
+I –
+
+descumprimento do dispositivo no art. 3º desta Lei;
+
+
+II –
+
+execução da intervenção em desconformidade com o disposto no art. 6º da presente Lei
+
+
+Art. 12.
+
+A multa consiste na imposição de penas pecuniárias.
+
+
+Art. 13.
+
+Para formalização do disposto no art. 9º será lavrado auto de infração, por agente de fiscalização da equipe técnica da Secretaria Municipal de Infraestrutura, devendo ser comunicado ao infrator por qualquer dos meios a seguir:
+
+
+I –
+
+pessoalmente;
+
+
+II –
+
+pelo correio com aviso de recebimento (AR);
+
+
+III –
+
+por qualquer meio que cumpra a finalidade de cientificar da aplicação de penalidade ao responsável, inclusive através do site da Secretaria Municipal de Infraestrutura; e
+
+
+IV –
+
+por edital, quando tiverem sido esgotadas as buscas pela localização.
+
+
+§ 1º
+
+O infrator será considerado ciente de aplicação do auto de infração, por comunicação via edital, quando decorrido o prazo de 10 (dez) dias da data da publicação na imprensa oficial e jornal de circulação local.
+
+
+§ 2º
+
+O auto de infração deverá ser precedido de verificação pessoal do agente fiscalizador, não bastando mera comunicação dou denúncia de terceiros.
+
+
+§ 3º
+
+No auto de infração deverão constar as seguintes informações:
+
+
+I –
+
+nome do responsável técnico pela infração;
+
+
+II –
+
+endereço do responsável técnico;
+
+
+III –
+
+local em que a infração tiver ocorrido;
+
+
+IV –
+
+data da constatação da infração;
+
+
+V –
+
+breve descrição da infração;
+
+
+VI –
+
+capitulação da infração com indicação do dispositivo legal infringido;
+
+
+VII –
+
+importância da multa aplicada;
+
+
+VIII –
+
+capitulação da multa com indicação do dispositivo legal que a estabelece; e
+
+
+IX –
+
+concessão do prazo de 10 (dez) dias, para que o infrator compareça ao órgão competente e recolha o valor da multa imposta ao Tesouro Municipal, sob pena de inscrição do seu débito em dívida ativa.
+
+
+§ 4º
+
+o autuado deverá apresentar ao órgão competente comprovante do recolhimento de multa, para anexação no processo respectivo;
+
+
+§ 5º
+
+O auto de infração será lavrado em duas vias, sendo a primeira entregue ou remetida ao infrator e a segunda juntada na ação fiscal
+
+
+§ 6º
+
+A regularização de uma infração pelo seu saneamento ou pelo pagamento das licenças ou dos emolumentos em débito, não anula um auto de infração, que não poderá ser cancelado ou anulado, quando tiver sido regularmente lavrado.
+
+
+§ 7º
+
+quanto ao direito de defesa, o notificado deverá seguir a lei específica que trata do tema.
+
+
+Art. 14.
+
+Caso o infrator não recomponha a via ou faça de forma considerada inadequada pela equipe técnica da Secretaria Municipal de Infraestrutura, a intervenção poderá ser executada a qualquer tempo pela Secretaria Municipal de Infraestrutura, respondendo o infrator pelo custo de sua execução, não o eximindo das penalidades cabíveis.
+
+
+§ 1º
+
+Os custos da intervenção serão calculados de acordo com a composição unitária do metro quadrado típico de reposição do pavimento e sinalização, utilizando a tabela de preços para a contratação de obras e serviços de engenharia em vigor, elaborada pela divisão de orçamento da Secretaria Municipal de Infraestrutura e disponível para consulta pública.
+
+
+§ 2º
+
+O infrator será notificado em 24 (vinte e quatro) horas de antecedência sobre a execução a ser realizada pela Secretaria Municipal de Infraestrutura.
+
+
+Art. 15.
+
+Iniciar a execução de obras que interfiram no pavimento dos logradouros públicos ou obras de pavimentação das vias públicas, sem cumprir o que prever esta Lei. Pena – Multa de R$ 5.000,00 (cinco mil reais)
+
+
+Art. 16.
+
+Danificar a via pública e não iniciar em um prazo de vinte e quatro hora, sua recomposição. Pena – multa diária de R$ 2.000,00 (dois mil reais) até o início da intervenção de recomposição.
+
+
+Art. 17.
+
+Executar obras de recomposição do pavimento dos logradouros públicos e da pavimentação das ruas públicas em desacordo com as normas técnicas específicas para a matéria, e ainda o descrito no caderno de encargos da Secretaria Municipal de Infraestrutura | Pena – multa de R$ 2.000,00
+
+
+Art. 18.
+
+Deixar a empresa ou concessionária ou permissionária de serviços públicos responsável pela obra de identificar por meio de instalação de placa indicativa com metragem mínima de metros quadrados, estabelecidas e descrita no caderno de encargos da Secretaria Municipal de Infraestrutura. Pena – Multa de R4 1.000,00 (mil reais) por metro quadrado
+
+
+Art. 19.
+
+Não entregar o plano semestral. Pena – Multa de R$ 50.000,00
+
+
+Art. 20.
+
+A correção dos valores será anual e terá como referência o Indice Nacional de Preços ao Consumidor Amplo – IPCA.
+
+
+Art. 21.
+
+Esta Lei entra em vigor a partir da data de sua publicação.
+
+
+Cabo de Santo Agostinho, 12 de maio de 2025
+
+***MÁRIO ANDERSON DA SILVA BARRETO***
+
+Presidente
+

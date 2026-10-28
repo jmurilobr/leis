@@ -1,0 +1,544 @@
+---
+titulo: "Lei-CMC nº 3.193, de 12 de junho de 2012"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3193"
+data: "2012-06-12"
+municipio: "Congonhas"
+uf: "MG"
+codigo_ibge: "3118007"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.congonhas.mg.leg.br/norma/6698"
+fonte_texto: "https://sapl.congonhas.mg.leg.br/ta/4466/text"
+sha256_fonte: "68cd1f534d93a87d03e0b2901dfe3c43c4db6cd8bfdfd58ced50b1b00c140f05"
+sha256_texto: "c67bf4707b553a639aceb7454d4bc08014e696d8a6df9f21e407ead1f091198b"
+capturado_em_fonte: "2026-10-28T06:09:31.820113-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei-CMC nº 3.193, de 12 de junho de 2012
+
+Institui a Política Municipal para a Juventude, cria o Programa de Educação em Sexualidade e Cidadania, além de permitir que outros programas sejam instituídos e denominados por decreto.
+
+
+A Câmara Municipal de Congonhas, Estado de Minas Gerais, decreta e eu, Prefeito, sanciono e promulgo a seguinte Lei:
+
+
+#### CAPÍTULO I — DA POLÍTICA MUNICIPAL PARA A JUVENTUDE
+
+
+Art. 1º.
+
+Esta Lei institui a Política Municipal para a Juventude, cria o Programa de Educação em Sexualidade e Cidadania, em consonância com a legislação federal e estadual vigente e permite que outros programas direcionados à adolescência e juventude sejam criados e denominados por decreto.
+
+
+§ 1º
+
+Para os efeitos desta Lei, entende-se adolescência e juventude em toda sua amplitude e diversidade.
+
+
+§ 2º
+
+A perspectiva desta Lei é a de inserir os jovens na vida política da sociedade, a fim de que estes exerçam a cidadania de forma plena, cujos programas deverão ser desenvolvidos sob cinco eixos básicos: Educacional, Esporte e Lazer, Saúde, Desenvolvimento e Assistência Social e Trabalho e Renda.
+
+
+Art. 2º.
+
+A Política Municipal para a Juventude será destinada a pessoas com idade entre dez e vinte e nove anos.
+
+
+Art. 3º.
+
+São objetivos da Política Municipal para a Juventude:
+
+
+I –
+
+auxiliar na erradicação do analfabetismo;
+
+
+II –
+
+incentivar o empreendedorismo;
+
+
+III –
+
+incentivar a participação política;
+
+
+IV –
+
+contribuir para a promoção de ações de atenção integral na área da saúde;
+
+
+V –
+
+promover a criação de áreas de lazer e ampliar as práticas esportivas;
+
+
+VI –
+
+fomentar projetos culturais produzidos pela juventude e especialmente valorizar nossa cultura local;
+
+
+VII –
+
+garantir o acesso dos jovens aos recursos de tecnologia da informação;
+
+
+VIII –
+
+estimular a criação e manutenção de Centros de Referência da Juventude;
+
+
+IX –
+
+desenvolver programas municipais de transferência de rendas, especialmente a jovens em situação de vulnerabilidade social;
+
+
+X –
+
+auxiliar a inclusão da juventude no mercado de trabalho e no aumento de sua empregabilidade e renda de acordo com a legislação vigente;
+
+
+XI –
+
+garantir ações em cumprimento aos direitos fundamentais, sexuais e reprodutivos da juventude, sem distinção de raça, cor, gênero e ou orientação sexual, respeitada a legislação vigente;
+
+
+XII –
+
+apoiar a participação da Juventude em todas as conferências, seminários, fóruns e debates;
+
+
+XIII –
+
+garantir a participação da juventude em todas as conferências, seminários, fóruns e debates;
+
+
+XIV –
+
+estimular a criação e manutenção de associações de jovens;
+
+
+XV –
+
+garantir nos Conselhos a representatividade dos jovens, com idade mínima de 18 anos, além de promover a integração e formação dos membros do Conselho Municipal da Juventude, Grêmios Estudantis e outros grupos representativos;
+
+
+XVI –
+
+estimular e apoiar a realização, a cada dois anos, da Conferência Municipal da Juventude em consonância com o Conselho Nacional da Juventude;
+
+
+XVII –
+
+garantir a participação dos estudantes no processo de gestão educacional por meio dos Grêmios Estudantis;
+
+
+XVIII –
+
+promover o desenvolvimento integral dos jovens nos aspectos humano, familiar, social, educacional, econômico, cultural e desportivo;
+
+
+XIX –
+
+fomentar a construção do diálogo e a convivência plural entre as diversas representações juvenis e entre estas e o município;
+
+
+XX –
+
+a singularidade da juventude;
+
+
+XXI –
+
+o fortalecimento dos segmentos juvenis vulneráveis;
+
+
+XXII –
+
+formar pessoas para o exercício de sua cidadania, a atuação como agentes de mudanças e transformações sociais e a vivência de sua sexualidade adotando comportamentos de prevenção e o cuidado consigo e com o outro;
+
+
+XXIII –
+
+facilitar a criação de entidades de representação estudantil nas escolas municipais, orientando a direção das escolas a oferecer espaços para as sedes dessas entidades;
+
+
+XXIV –
+
+garantir e custear, na forma do regulamento, a participação de jovens em eventos intermunicipais, estadual e nacional, quando considerados relevantes pelo Conselho Municipal da Juventude e, quando pertinente, pelos grupos gestores de programas;
+
+
+XXV –
+
+ampliar espaços de participação dos jovens nas escolas, nas unidades de saúde e nos programas da Secretaria Municipal de Desenvolvimento e Assistência Social.
+
+
+Art. 4º.
+
+O Município promoverá, com recursos próprios ou privados, ações intersetoriais para o desenvolvimento dos jovens a fim de se atingir os propósitos desta Lei.
+
+
+Art. 5º.
+
+Os Conselhos municipais terão participação garantida no planejamento das ações e na execução, quando pertinentes.
+
+
+Art. 6º.
+
+O Município, por meio das Secretarias afins, dos Conselhos de Educação, da Juventude e dos Direitos da Criança e do Adolescente avaliará periodicamente a Política Municipal da Juventude.
+
+
+##### Seção I — Dos princípios fundamentais
+
+
+Art. 7º.
+
+Naquilo que esta Lei for omissa, o Município adotará as normas e princípios federais a fim de se orientar nas ações de Política Municipal para a Juventude.
+
+
+Art. 8º.
+
+É garantida à juventude a participação na elaboração de políticas públicas a ela destinadas, cabendo ao Município e à sociedade em geral estimularem o protagonismo juvenil.
+
+
+Art. 9º.
+
+O Município e a sociedade são obrigados a assegurar ao jovem a liberdade, o respeito e a dignidade como pessoa humana, sujeito de direitos civis, políticos individuais e sociais, garantidos na Constituição Federal e nas demais leis vigentes.
+
+
+Art. 10.
+
+O Município e a Sociedade devem buscar a eliminação de estereótipos, em todos os tipos, formas de comunicação e de educação que possam reforçar as desigualdades existentes entre homens e mulheres, sem deixar de reconhecer as necessidades específicas de cada sexo.
+
+
+##### Seção II — Dos objetivos
+
+
+Art. 11.
+
+Para o fiel cumprimento dos objetivos da Política Municipal para a Juventude cabe ao Município, através dos órgãos e conselhos específicos para questões de juventude:
+
+
+I –
+
+manter comunicação permanente sobre questões relacionadas à educação básica, profissionalizante e superior, visando o desenvolvimento do jovem;
+
+
+II –
+
+promover e Garantir a continuidade dos programas municipais destinados a Juventude;
+
+
+III –
+
+garantir a democratização das informações de todos os programas instituídos em benefício do jovem, a fim de fornecer subsídios para a elaboração dos planos de ação educacionais.
+
+
+Art. 12.
+
+O Município destinará, anualmente, recursos financeiros previstos no orçamento das secretarias envolvidas, a fim de atender os programas instituídos por esta Lei e aqueles denominados pelo decreto que a regulamentar.
+
+
+#### CAPÍTULO II — DO PROGRAMA MUNICIPAL DE EDUCAÇÃO EM SEXUALIDADE E CIDADANIA
+
+
+##### Seção I — Das Disposições Gerais
+
+
+Art. 13.
+
+O Programa Municipal de Educação em Sexualidade e Cidadania tem por finalidade promover o desenvolvimento pessoal e social dos jovens por meio de ações de caráter educativo e participativo.
+
+
+Parágrafo único
+
+As ações serão focalizadas nas questões relacionadas à afetividade e sexualidade, juventude e cidadania, mundo do trabalho e perspectiva de vida.
+
+
+Art. 14.
+
+O Programa será desenvolvido de forma intersetorial como uma prática educativa integrada, contínua e permanente.
+
+
+Art. 15.
+
+A concepção pedagógica do programa de Educação em Sexualidade e Cidadania se norteará na metodologia dialógica, participativa e problematizadora.
+
+
+Art. 16.
+
+São princípios norteadores do Programa Municipal de Educação em Sexualidade e Cidadania:
+
+
+I –
+
+contextualização dos processos de ensino - aprendizagem;
+
+
+II –
+
+da prática coeducativa e globalizada;
+
+
+III –
+
+da receptividade;
+
+
+IV –
+
+da Integralidade;
+
+
+V –
+
+dialógico;
+
+
+VI –
+
+da coparticipação familiar.
+
+
+Art. 17.
+
+O Programa Municipal de Educação em Sexualidade e Cidadania deverá:
+
+
+I –
+
+disponibilizar profissionais para atuarem como Coordenadores e Referências;
+
+
+II –
+
+garantir disponibilidade de servidores das Secretarias de Educação, de Saúde, de Desenvolvimento e Assistência Social e de Esporte e Lazer para os objetivos desta Lei, respeitando-se, contudo, a jornada de trabalho do servidor de acordo com o estabelecido para cada cargo público;
+
+
+III –
+
+garantir disponibilidade de Professores Referência para desenvolverem as atividades correlatas ao programa; e
+
+
+IV –
+
+garantir carga horária mensal mínima de 04 horas mensais para a formação continuada de Educadores nas Escolas Municipais e dos facilitadores das Secretarias da Educação, Saúde, de Esporte e Lazer e de Desenvolvimento e Assistência Social.
+
+
+##### Seção II — Dos objetivos do programa municipal de educação em sexualidade e cidadania
+
+
+Art. 18.
+
+São objetivos específicos do Programa Municipal de Educação em Sexualidade e Cidadania:
+
+
+I –
+
+garantir a formação de profissionais da Educação, Saúde, Esporte e Lazer e de Desenvolvimento e Assistência Social para promoverem o desenvolvimento pessoal e social do jovem;
+
+
+II –
+
+possibilitar que as ações preventivas ao uso e abuso de drogas lícitas e ilícitas sejam incorporadas e fortalecidas nas escolas, nas unidades de saúde, de esportes e de assistência social;
+
+
+III –
+
+criar condições adequadas para atendimento do jovem que contribua para sua saúde sexual e reprodutiva;
+
+
+IV –
+
+fortalecer as escolas, as unidades de saúde e os telecentros como pólos irradiadores de ações educativas, participativas e preventivas;
+
+
+V –
+
+divulgar campanhas educativas e informações acerca da temática juvenil;
+
+
+VI –
+
+incentivar a participação das comunidades nas ações afins; e
+
+
+VII –
+
+monitorar e diagnosticar as atividades realizadas.
+
+
+Art. 19.
+
+O Programa Municipal de Educação em Sexualidade e Cidadania estimulará, entre outras ações:
+
+
+I –
+
+a promoção de eventos para formação dos profissionais que atuam no programa, em caráter continuado;
+
+
+II –
+
+realizar Encontros Municipais de Jovens; e
+
+
+III –
+
+promover cursos de Formação Básica para novos profissionais, jovens referência e conselheiros municipais, na forma do regulamento.
+
+
+##### Seção III — Da Constituição dos Grupos de Trabalho e Execução do Programa
+
+
+Art. 20.
+
+O Programa Municipal de Educação em Sexualidade e Cidadania se constitui em dois Grupos, Gestor do Programa Municipal de Educação em Sexualidade e Cidadania e o de Referência de Educação em Sexualidade e Cidadania.
+
+
+Art. 21.
+
+A Execução do programa se desenvolverá mediante:
+
+
+I –
+
+Edital Anual, que estabelecerá as diretrizes para orientação das Escolas na elaboração de seus planos de trabalho anual;
+
+
+II –
+
+plano de trabalho anual das escolas referente às ações que serão desenvolvidas; e
+
+
+III –
+
+planilha financeira para monitoramento das ações.
+
+
+Art. 22.
+
+O Grupo gestor será composto de no mínimo dois profissionais das Secretarias de Educação, Saúde, Esporte e Lazer, Desenvolvimento e Assistência Social e Procuradoria Jurídica, que terá as seguintes atribuições:
+
+
+I –
+
+promover a publicação do Edital Anual;
+
+
+II –
+
+estimular as escolas municipais a elaborarem planos de trabalho;
+
+
+III –
+
+aprovar os planos de trabalho;
+
+
+IV –
+
+coordenar, executar, acompanhar e propor a regulamentação necessária para implementação do Programa;
+
+
+V –
+
+elaborar, acompanhar e avaliar a formação dos profissionais e jovens envolvidos;
+
+
+VI –
+
+executar o Programa de forma interdisciplinar, com o apoio dos órgãos municipais de Educação, Esporte e Lazer, Saúde e Desenvolvimento e Assistência Social;
+
+
+VII –
+
+promover a integração dos diferentes segmentos sociais por meio de projetos e pesquisas relacionados à Educação em Sexualidade e Cidadania;
+
+
+VIII –
+
+divulgar as fontes de financiamento disponíveis para realização de projetos do programa;
+
+
+IX –
+
+incentivar a criação de espaços para promover a reflexão, a construção de conhecimentos, a socialização de experiências e a integração de educadores e facilitadores do programa;
+
+
+X –
+
+criar Banco de Dados;
+
+
+XI –
+
+atuar em parceria com outras instituições públicas e privadas; e
+
+
+XII –
+
+analisar projetos apresentados por instituições públicas e/ou privadas, para sua posterior implantação nos mais diversos segmentos do município.
+
+
+Art. 23.
+
+O Grupo de Referência será composto de professores, servidores das unidades de saúde e aqueles envolvidos com programas e projetos de juventude das Secretarias de Esporte e Lazer e Desenvolvimento e Assistência Social, tendo as seguintes competências:
+
+
+I –
+
+participar da elaboração do plano anual das ações do programa, juntamente com as equipes de lideranças dos segmentos envolvidos;
+
+
+II –
+
+articular e desenvolver as atividades do programa nas unidades escolares, de esportes, de saúde e de desenvolvimento social;
+
+
+III –
+
+participar de reuniões mensais para o acompanhamento das atividades promovidas pelo Grupo de Trabalho de Facilitadores;
+
+
+IV –
+
+colaborar com o Grupo de Trabalho de Facilitadores na elaboração de diagnósticos, pesquisas e projetos bem como na ampla divulgação desses instrumentos e das diretrizes do Plano do Programa.
+
+
+#### CAPÍTULO III — DA LOGISTICA INSTITUCIONAL E ALOCAÇÃO DE RECURSOS
+
+
+Art. 24.
+
+Caberá ao Poder Publico, através de suas secretarias, oferecer apoio institucional para a consolidação do grupo gestor, além de garantir espaço físico, materiais e equipamentos para o acompanhamento e desenvolvimento das ações do programa.
+
+
+Art. 25.
+
+O município de Congonhas, por meio das Secretarias de Educação, de Saúde, de Esporte e Lazer, Desenvolvimento e Assistência Social e órgãos municipais relacionados à Juventude, deverá prever recursos na lei orçamentária para viabilizar a execução da Política Municipal da Juventude.
+
+
+Art. 26.
+
+O Poder Executivo regulamentará esta Lei no prazo de 90 (noventa) dias.
+
+
+Art. 27.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Congonhas, 12 de junho de 2012.
+
+**ANDERSON COSTA CABIDO**
+
+**Prefeito de Congonhas**
+

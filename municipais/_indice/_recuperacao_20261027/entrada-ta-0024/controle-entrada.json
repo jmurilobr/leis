@@ -1,0 +1,2826 @@
+{
+  "candidatos": 492,
+  "portais": 4,
+  "fontes": [
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "origem": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.divinopolis.mg.leg.br/resultados.jsonl",
+      "bytes_prefixo": 4181495,
+      "sha256_prefixo": "eb5bb1b88d607b1cf7c33c73cb3449d73185436a0009d56c736db8f4fc31876b",
+      "candidatos": 248,
+      "snapshot": "municipais/_indice/_recuperacao_20261027/entrada-ta-0024/sapl.divinopolis.mg.leg.br/resultados.jsonl",
+      "sha256_snapshot": "60e5400a945d456f81f48b4b6acf64b1821a01fd94fe662eb9a4a2fc5512808b",
+      "anexos_origem": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.divinopolis.mg.leg.br/anexos-index.json",
+      "sha256_anexos": "d3c7cadb5caabc657a381995441251bdfa071e08350a0e5f909160a6f5fb4e87",
+      "tipos_origem": "municipais/_indice/organicas-sapl/sapl.divinopolis.mg.leg.br/cbac81708b06c4589b26d4543cd9e10b0e9d1968bf82b3d6b96a0e4e5b919470.json",
+      "sha256_tipos": "738ddc1f4c29d3c2bc6bd1b6060b0f4fa058cb5b9ef69e49123b8e123a5fa9e0",
+      "linhas": [
+        {
+          "ta_id": 239,
+          "norma_id": 19060,
+          "sha256_linha_original": "b9d4a7ac1ceb7c040dcafaf20f485d71f87032a1a900d519ed055fc02a8f62c7"
+        },
+        {
+          "ta_id": 238,
+          "norma_id": 19058,
+          "sha256_linha_original": "4b3c9085696e333449c8662fe613b3bcbec97ef52f22d276cbd4010e87c23db8"
+        },
+        {
+          "ta_id": 237,
+          "norma_id": 19066,
+          "sha256_linha_original": "b9e89e064aece77c67263095e970139900ce643793593d040c993ab75f53b3d6"
+        },
+        {
+          "ta_id": 236,
+          "norma_id": 19059,
+          "sha256_linha_original": "49439cb7b5d35aa584f49d1c9a1398ccad6c6211cc42947ce7ee8543baed3db3"
+        },
+        {
+          "ta_id": 235,
+          "norma_id": 19063,
+          "sha256_linha_original": "5a3c50e6ef3d61240b59de16d2b373d14348b1f24c5c4167c70b4da7b0f2990a"
+        },
+        {
+          "ta_id": 234,
+          "norma_id": 19067,
+          "sha256_linha_original": "5c7bbe6c5cdddd4a851d3f9593888e6d10f64feeff7253aab704b4f54eabff21"
+        },
+        {
+          "ta_id": 233,
+          "norma_id": 19062,
+          "sha256_linha_original": "6f53bcce6a4e07ff176b2359959050626f12e60bf88e75466c023196efe6a76e"
+        },
+        {
+          "ta_id": 227,
+          "norma_id": 19065,
+          "sha256_linha_original": "4d0433e4783c7a93da33f04dbd128ecee7c083a3de80b6c7a407c94ce242e5dd"
+        },
+        {
+          "ta_id": 226,
+          "norma_id": 19068,
+          "sha256_linha_original": "f203b88af074d322ae9fb43dcf337a8cf4b5433827120cb34a3a1f801224dc1a"
+        },
+        {
+          "ta_id": 225,
+          "norma_id": 19061,
+          "sha256_linha_original": "d3f729746750a494cd9f0d265c524484f6c0f1ed56c7cf8f335d2fdac0d85211"
+        },
+        {
+          "ta_id": 224,
+          "norma_id": 19056,
+          "sha256_linha_original": "be4503dd5568cbdb544d2805b63559de6d6866c319f5f77ea231c7c732cfee6f"
+        },
+        {
+          "ta_id": 223,
+          "norma_id": 19053,
+          "sha256_linha_original": "41f99c650c7daf857b81aa2ad1c1d81d2e092051dbc7263eb498dc7eb8d5d612"
+        },
+        {
+          "ta_id": 219,
+          "norma_id": 19052,
+          "sha256_linha_original": "40c17969d7f4a6297ed356e8f2ef0c4c5faf1c43106fe85e81c72104ae615ec5"
+        },
+        {
+          "ta_id": 211,
+          "norma_id": 19051,
+          "sha256_linha_original": "a93650710007cccf907f3bf084714f2057968794b04841c5c48dba7b4b2f2afc"
+        },
+        {
+          "ta_id": 210,
+          "norma_id": 19044,
+          "sha256_linha_original": "a40babeede7a6ecd88fb456f62b97ec73c6574ed92e981a9bd2545b3149bcf6e"
+        },
+        {
+          "ta_id": 209,
+          "norma_id": 19033,
+          "sha256_linha_original": "f1b399bbd54ad55051289700c82abf38d1a8790f372e5eab4a69366bbf7ca598"
+        },
+        {
+          "ta_id": 204,
+          "norma_id": 19018,
+          "sha256_linha_original": "b7b69fc5f153b1ad390fea327c40f5122fade5b399ac27582661851c3c6ba24b"
+        },
+        {
+          "ta_id": 203,
+          "norma_id": 19027,
+          "sha256_linha_original": "e9c967d3c23ddf417fb4fbd366152445df0bcdd2215dca2de673add02ca26296"
+        },
+        {
+          "ta_id": 202,
+          "norma_id": 19026,
+          "sha256_linha_original": "51e99a0307117a4517c4f635c4e4d6bd5f051bb4b4928c1bae5a6e23e68bd52a"
+        },
+        {
+          "ta_id": 199,
+          "norma_id": 19025,
+          "sha256_linha_original": "f85bb6147c9b4f4bad4eca0f169d18300450a2af06be8ff59c52b841b1251e0c"
+        },
+        {
+          "ta_id": 201,
+          "norma_id": 19024,
+          "sha256_linha_original": "61ba7b803df3790a1f1606ba7b754c9ca5ec38f2e78f69ab8a8bca0451303c0d"
+        },
+        {
+          "ta_id": 200,
+          "norma_id": 19023,
+          "sha256_linha_original": "096086fe796d8dba209eb642ccb2fb8e8e5bbb4a85f890203d6a0ac30f3ac820"
+        },
+        {
+          "ta_id": 198,
+          "norma_id": 19020,
+          "sha256_linha_original": "0b33fee65a3742b6a576611b1a7d2ba49ea40a671ddb22a7f0503894b3f28ba2"
+        },
+        {
+          "ta_id": 197,
+          "norma_id": 18867,
+          "sha256_linha_original": "b4ee89d3325673582ef8a970b9f58456b06771d75bde6f0a91e05079bb4b2c6d"
+        },
+        {
+          "ta_id": 1245,
+          "norma_id": 18866,
+          "sha256_linha_original": "593a665aea3961cb351ed626cf73a6e8eccf174e3ef0a0c0e4f2427b2a5ee7f9"
+        },
+        {
+          "ta_id": 1403,
+          "norma_id": 18726,
+          "sha256_linha_original": "0522a36369b06760644e1e3ffaeca5ee97c768e3aeb095984581669e14931e44"
+        },
+        {
+          "ta_id": 831,
+          "norma_id": 18611,
+          "sha256_linha_original": "dbea0e34b4c3f578b0a5c23e45452cdaa213592c43a6c697f3d961b47ec11c64"
+        },
+        {
+          "ta_id": 420,
+          "norma_id": 18571,
+          "sha256_linha_original": "bf4880e4436cbd68585873c318d6e75c9468b4959f0cefcf57cd27d6f2fd1a1c"
+        },
+        {
+          "ta_id": 1415,
+          "norma_id": 18553,
+          "sha256_linha_original": "a09832866e4f0fb225cdb0934b463ee458d13c9be2dfcdbf5e0fa58199924f98"
+        },
+        {
+          "ta_id": 281,
+          "norma_id": 18534,
+          "sha256_linha_original": "5a6732b12474c863f1c56f275befa4691fda7ec81b2538440f562fd4acf9bd5d"
+        },
+        {
+          "ta_id": 1353,
+          "norma_id": 18349,
+          "sha256_linha_original": "abe62f3dcba6f6851f229ea0d8bcb6369aafeefcffc1a3facabe71f1a1cb70a2"
+        },
+        {
+          "ta_id": 1085,
+          "norma_id": 18317,
+          "sha256_linha_original": "e216baabb044a2aff6ef10523270b840bbeb6fd520ba4d0548bbde7ba0376216"
+        },
+        {
+          "ta_id": 427,
+          "norma_id": 18287,
+          "sha256_linha_original": "ee717cddd256a1fb94ec780a7c6fe715ee95d278496ba28995be2e1ad092f32a"
+        },
+        {
+          "ta_id": 629,
+          "norma_id": 18268,
+          "sha256_linha_original": "9278ab0c83da305b43df47eb62b44a366411e3d2d2b60bfa32b70454e5c1bb78"
+        },
+        {
+          "ta_id": 697,
+          "norma_id": 18431,
+          "sha256_linha_original": "de1f6a8d971a3daa7e801b47024a35df5db845239386808045a9c698e964c4b4"
+        },
+        {
+          "ta_id": 1386,
+          "norma_id": 18140,
+          "sha256_linha_original": "410cb8de52ce2c05e53a410ca90d665bfa3337f4b6a8cd8e9db51552509ef436"
+        },
+        {
+          "ta_id": 1084,
+          "norma_id": 18137,
+          "sha256_linha_original": "f1b66978cd83d9d3565882ca4264d9cb8dde8c21677d8eb8d21bc0013e76b0f6"
+        },
+        {
+          "ta_id": 1064,
+          "norma_id": 18080,
+          "sha256_linha_original": "588ecafde6f8cfa8da5f42f80571c1121a9f841f268d51e75f90f989173b1463"
+        },
+        {
+          "ta_id": 1244,
+          "norma_id": 18083,
+          "sha256_linha_original": "f0343198c02e2fb74b2036d130cac44d71bf400cf74c626d189655838eb6eff3"
+        },
+        {
+          "ta_id": 628,
+          "norma_id": 18099,
+          "sha256_linha_original": "45459cc6318ede1a8bdca6336e0bb805ea74a1ed05ceeeff5c796735eacd92b9"
+        },
+        {
+          "ta_id": 627,
+          "norma_id": 18096,
+          "sha256_linha_original": "26753511e51f1fca9c0fdbb954fa466e7bbaa1714e28fb87e9afeea1701f94f8"
+        },
+        {
+          "ta_id": 1336,
+          "norma_id": 17796,
+          "sha256_linha_original": "d687eb664d86122d18ad6d7c14823470c7b61dd0998ac5566d3a47f8ea87b607"
+        },
+        {
+          "ta_id": 717,
+          "norma_id": 17777,
+          "sha256_linha_original": "b9fa1fddff602c5905807d1b6c35384b0b976a935bb397f420ad4dea87f3d733"
+        },
+        {
+          "ta_id": 419,
+          "norma_id": 17751,
+          "sha256_linha_original": "31207245736253eced3d59fb9103af9e9d682c6ebf0d52700b0524ecc9c64cbc"
+        },
+        {
+          "ta_id": 647,
+          "norma_id": 17658,
+          "sha256_linha_original": "4e6917b5e1847673410777ce23f2fbc35ef1dcbc17b502bc425c0d2001ed0050"
+        },
+        {
+          "ta_id": 626,
+          "norma_id": 17657,
+          "sha256_linha_original": "6d375e77ebe7d26b57c79bee68564d460b48fd26f45992eb271754123405e12a"
+        },
+        {
+          "ta_id": 757,
+          "norma_id": 17561,
+          "sha256_linha_original": "18b16007c56c31872a523e39cacdcce8d77786eb1fef7c27a2a06e915358a29b"
+        },
+        {
+          "ta_id": 418,
+          "norma_id": 17518,
+          "sha256_linha_original": "c4111c98870c1ef84bf3abc2bf31ff53d09796e30b94ecc6d48b45e09b0d6e40"
+        },
+        {
+          "ta_id": 861,
+          "norma_id": 17467,
+          "sha256_linha_original": "e17b801b2a487aed07ca022a7ebc9acb745df0e8ef630a9c5dd4965a5e1f3d68"
+        },
+        {
+          "ta_id": 696,
+          "norma_id": 17457,
+          "sha256_linha_original": "e64e9d2ead6f1aca489a0cdeb8be53cde767410b5d022bc9dbe92d19c9d35aae"
+        },
+        {
+          "ta_id": 773,
+          "norma_id": 17446,
+          "sha256_linha_original": "f5891f8d955f47a62ba3f51d565a86916c17a5de181bed0872559d3e2387e01d"
+        },
+        {
+          "ta_id": 1243,
+          "norma_id": 17340,
+          "sha256_linha_original": "848de29bfb6d14547dc039069a2288f7b67484050591fb0c2b7e8e80465ec139"
+        },
+        {
+          "ta_id": 743,
+          "norma_id": 17295,
+          "sha256_linha_original": "8b10779be478519346c60a4c927b7d1d23284ab04bc53b0d36ea6d1290763032"
+        },
+        {
+          "ta_id": 1232,
+          "norma_id": 17243,
+          "sha256_linha_original": "8d0318cd74f69dee5971a8b235fb49f47e75b442bf974086352674ef9326da2f"
+        },
+        {
+          "ta_id": 1231,
+          "norma_id": 17138,
+          "sha256_linha_original": "db1759626ff3557663384c80ca384a5234f0503cc4d480cff6ba247c3422d788"
+        },
+        {
+          "ta_id": 772,
+          "norma_id": 17014,
+          "sha256_linha_original": "e29abc6438d70fcff9d80cdd4e29cbc794ae904b3aa3b0f8dd51197f65736163"
+        },
+        {
+          "ta_id": 1083,
+          "norma_id": 16999,
+          "sha256_linha_original": "e3f6ace1f034af09c03da0c6b9182f4f3921feb91a84de34c00e95c8b85077ef"
+        },
+        {
+          "ta_id": 625,
+          "norma_id": 17012,
+          "sha256_linha_original": "8612b954426708d21df320647c8dca17ede8508bcbefea934cfca34faf0c3821"
+        },
+        {
+          "ta_id": 286,
+          "norma_id": 16626,
+          "sha256_linha_original": "ecaf951cfb8c94923a99e15a1e15dbb9685ad2a3a9ff96f51dd43d906e5c7470"
+        },
+        {
+          "ta_id": 416,
+          "norma_id": 16585,
+          "sha256_linha_original": "a3515e63babf4c6889fb73e9c07fde72b718a0a10682b481da0eb4bb30b56762"
+        },
+        {
+          "ta_id": 898,
+          "norma_id": 16493,
+          "sha256_linha_original": "487e98e6824342a18cb08e2abda1e0990d94ba17eef94e0af778010378015846"
+        },
+        {
+          "ta_id": 695,
+          "norma_id": 16543,
+          "sha256_linha_original": "681341c564e35c324d0c7aeaf9eb5caa32fd53d06a8e88204078195561e565c9"
+        },
+        {
+          "ta_id": 112,
+          "norma_id": 16466,
+          "sha256_linha_original": "0048b51361335c4dffae82c7311f4652a33d1f1b1387f1c58c6fbc04d8cbfd65"
+        },
+        {
+          "ta_id": 624,
+          "norma_id": 16583,
+          "sha256_linha_original": "ffacfdd9f5cb1dd543be35a248b4766ffd26a6b60d46b53cb0357439ccfa0a69"
+        },
+        {
+          "ta_id": 694,
+          "norma_id": 16464,
+          "sha256_linha_original": "205a460989a49adebcaac4d1913c0bbfb2a7a3b9854157f97c30e3be2f7bedad"
+        },
+        {
+          "ta_id": 623,
+          "norma_id": 16584,
+          "sha256_linha_original": "a689f5fb2bb3022ff283b55d12d117d03096fc3d1c741dff17e2645c38ea9bac"
+        },
+        {
+          "ta_id": 1230,
+          "norma_id": 16332,
+          "sha256_linha_original": "9ed70d6cd7aa1cd4924c022e4e55b598b0e26159dc1f1d3af53d769069eb427e"
+        },
+        {
+          "ta_id": 646,
+          "norma_id": 16265,
+          "sha256_linha_original": "9000064857934f41199b58c3758a3b197dd7cd411766825c61143379042359d8"
+        },
+        {
+          "ta_id": 1066,
+          "norma_id": 16019,
+          "sha256_linha_original": "ac6a5ed3c355e109d1c1e60388e510b27ff207a6796145e2747224b8e911d127"
+        },
+        {
+          "ta_id": 1067,
+          "norma_id": 16018,
+          "sha256_linha_original": "4409a17716f044a489263f97d449b8d10a2dcba997b7a9d2170385d3edddbd5a"
+        },
+        {
+          "ta_id": 1073,
+          "norma_id": 15970,
+          "sha256_linha_original": "8e279c9a4a5d4a56618f7793063d3315c278e7859afc3dcdcc26e274286f8d5c"
+        },
+        {
+          "ta_id": 1072,
+          "norma_id": 15967,
+          "sha256_linha_original": "aad79f3e676e47dfe02a976082007b17f27b3057ad048b00910faeb384043f1c"
+        },
+        {
+          "ta_id": 1071,
+          "norma_id": 15966,
+          "sha256_linha_original": "81d62d2b3ea28b67f937b36201a6215c32d62cc00c5d361a9bb8da31243675ff"
+        },
+        {
+          "ta_id": 1070,
+          "norma_id": 15965,
+          "sha256_linha_original": "2004f6af21cdd1ab2abb4b90bea06f187f009a3ebdfca832d9cb3aa7f287793f"
+        },
+        {
+          "ta_id": 1069,
+          "norma_id": 15964,
+          "sha256_linha_original": "15c42cb81e5d9c5370ee8bea22cc18e87693d90ef7b2b0829f1ca502dbf2e905"
+        },
+        {
+          "ta_id": 1068,
+          "norma_id": 15963,
+          "sha256_linha_original": "e2302b6f692adeb8af77a40ae7d09e4b5b89c6f83889612b401e0d2d6ed50d5b"
+        },
+        {
+          "ta_id": 959,
+          "norma_id": 15962,
+          "sha256_linha_original": "fab99f30eabbbbb19a27f9d5a17d76beddbe42411701889471aa1f7385d45c54"
+        },
+        {
+          "ta_id": 958,
+          "norma_id": 15960,
+          "sha256_linha_original": "32d4f9498e9976c9ea88dfaf82c3fcc9065d2b23f8355a7bbdb61417ae5a6615"
+        },
+        {
+          "ta_id": 956,
+          "norma_id": 15959,
+          "sha256_linha_original": "5ca104eaa2bc087ed685c20b36524404232faad67ce80c251ae0ee52055cd85a"
+        },
+        {
+          "ta_id": 1065,
+          "norma_id": 15950,
+          "sha256_linha_original": "2c59c4f2c2366335c95765b27ca6e8ed0ccf00da3c01e70808344fc2a31cc3a4"
+        },
+        {
+          "ta_id": 955,
+          "norma_id": 15949,
+          "sha256_linha_original": "178eeda2d74dcc95a995b38719ae9883fc945bab37de90c474d65978da149ae6"
+        },
+        {
+          "ta_id": 954,
+          "norma_id": 15948,
+          "sha256_linha_original": "356ca66ad5cfe38e8c4973c5b7d51e0a350b366be4660d899b5df0e016d2f03a"
+        },
+        {
+          "ta_id": 953,
+          "norma_id": 15947,
+          "sha256_linha_original": "983244e982f1bd0c5bbcf3d4a379be8343268dff2d0baadf96f8e7cebe3a7b5e"
+        },
+        {
+          "ta_id": 952,
+          "norma_id": 15938,
+          "sha256_linha_original": "f715f3ef5c1b79c6d4c9f6179a846e581adb5c4ac47e14f4a652166dd53ca384"
+        },
+        {
+          "ta_id": 951,
+          "norma_id": 15937,
+          "sha256_linha_original": "a55d1472ecd99d4629a73774a115e8a0cb6e420944856cb65b8ededebf55cc28"
+        },
+        {
+          "ta_id": 950,
+          "norma_id": 15936,
+          "sha256_linha_original": "871baf9fe4993757e1e9071cd0667fc32d5f0c48e7d339d96840819e7367dbee"
+        },
+        {
+          "ta_id": 949,
+          "norma_id": 15935,
+          "sha256_linha_original": "98270ca045bdf3ee2e04c9759f595d765e6d7ff72f331bb778cc72d6a304c545"
+        },
+        {
+          "ta_id": 716,
+          "norma_id": 15808,
+          "sha256_linha_original": "44da3693965d17e5784d3a7a3998e301faad187dffe15266cd310bae37a19ee1"
+        },
+        {
+          "ta_id": 1271,
+          "norma_id": 15806,
+          "sha256_linha_original": "71e9c29ddb4241b2f2db48f8828c1802a52d6af7fe7e375bc9c252e2c69a6c6d"
+        },
+        {
+          "ta_id": 824,
+          "norma_id": 15804,
+          "sha256_linha_original": "ba0e2b1ad102904294ef753455a280e125f3d54ea6d0f8f3c5a9f45612e0dfa6"
+        },
+        {
+          "ta_id": 291,
+          "norma_id": 15753,
+          "sha256_linha_original": "56415fc4edf3d35ab6288cbc94d57f6f45441691cb1ebb474039f78557a818d8"
+        },
+        {
+          "ta_id": 765,
+          "norma_id": 15476,
+          "sha256_linha_original": "b927a44f0a1db71c37dfabe8d9e7731c8b744cb21025f03a5083c4c93d91cbb1"
+        },
+        {
+          "ta_id": 1225,
+          "norma_id": 15453,
+          "sha256_linha_original": "e94415b213a3e2cb14c0e1b7e5f8a47a77e6b6669c67026aa4c9943bb315c91d"
+        },
+        {
+          "ta_id": 693,
+          "norma_id": 15430,
+          "sha256_linha_original": "7dd1738c7099bc652b38b3b5e3a9f03aa827b1ade5aade51b6191be5643eb30d"
+        },
+        {
+          "ta_id": 622,
+          "norma_id": 15354,
+          "sha256_linha_original": "65e281c5283482e6ccd6e043c267f28b10427d3817601d03b9f076a2a1a7d859"
+        },
+        {
+          "ta_id": 1132,
+          "norma_id": 15358,
+          "sha256_linha_original": "1631dda64dc1b69ce134120d282e8aeb1a0d9a829e4a5a813735b0a2abe0c3b3"
+        },
+        {
+          "ta_id": 565,
+          "norma_id": 15335,
+          "sha256_linha_original": "e6f330b4c11681abcf7a65bd0a3a7ef709f8e97f748364661fdda8cb2a51084e"
+        },
+        {
+          "ta_id": 1407,
+          "norma_id": 15156,
+          "sha256_linha_original": "929562a4c4101cf2796370e15da102fef5b135c08b6d581312bf32b50696a4ae"
+        },
+        {
+          "ta_id": 692,
+          "norma_id": 15133,
+          "sha256_linha_original": "bd19b87d59b966dc32f0311117674ae74ebd6a974dc3b0353bbebff54894b76c"
+        },
+        {
+          "ta_id": 621,
+          "norma_id": 15134,
+          "sha256_linha_original": "74ced4252b1d878d1a5c030de91dd7ecbb427f8d37956e81bf229ab220cababc"
+        },
+        {
+          "ta_id": 620,
+          "norma_id": 14985,
+          "sha256_linha_original": "8cb2a653fca64637d6a9a2f58f05826358990a55e99404910ccd0e5510eae7d3"
+        },
+        {
+          "ta_id": 619,
+          "norma_id": 14978,
+          "sha256_linha_original": "aede8555ad12845bd2738b47a78c1a7ce73f8f69ff585194720bf043479d4c0c"
+        },
+        {
+          "ta_id": 333,
+          "norma_id": 14979,
+          "sha256_linha_original": "10e4cdf11be5215f3b1acba79f084890f17534444505cb1e417bf8a31573089a"
+        },
+        {
+          "ta_id": 823,
+          "norma_id": 14928,
+          "sha256_linha_original": "d3f878c7be0fd774f6640ec9a6f2a7a176ea95645e4c64758e1ddd1186644668"
+        },
+        {
+          "ta_id": 809,
+          "norma_id": 14921,
+          "sha256_linha_original": "40cd6b3c27d96ea1a86e0d2bd9c73f7ecb480ea63066ac2c5c430212a69581b2"
+        },
+        {
+          "ta_id": 808,
+          "norma_id": 14917,
+          "sha256_linha_original": "57540264024b8dbaf2b9e12e6235393a9a09d8f60b132005b47e346f4525b0d4"
+        },
+        {
+          "ta_id": 691,
+          "norma_id": 14803,
+          "sha256_linha_original": "a3677a26278cb8c120ce29c4620a408fc052e3a7bfd5c3d24835081072539647"
+        },
+        {
+          "ta_id": 1063,
+          "norma_id": 14804,
+          "sha256_linha_original": "314def24d713a917fdd6dca2bde071e522347b3d4f11a1bd43bac98d98ee2cbf"
+        },
+        {
+          "ta_id": 618,
+          "norma_id": 14794,
+          "sha256_linha_original": "1d4dc4395c24b087fd37f28ae2b09be41bd4dc053a7c4b3bb7d0cfb2aeba58db"
+        },
+        {
+          "ta_id": 690,
+          "norma_id": 14736,
+          "sha256_linha_original": "b057107ecaa39bdf4d3eb2b3b3f0f2b6473c0be86ac8cc1040a4434aa1763cf6"
+        },
+        {
+          "ta_id": 689,
+          "norma_id": 14651,
+          "sha256_linha_original": "8abf5fb5fd81a54732113fb7b2bd5aa4269792fde0c1074edf1795acc5cb69e1"
+        },
+        {
+          "ta_id": 617,
+          "norma_id": 14649,
+          "sha256_linha_original": "921f0fa72193f2867693ad85f18c90bc45f99bd2ff6eeaa27b0c56aa03d3351b"
+        },
+        {
+          "ta_id": 1095,
+          "norma_id": 14637,
+          "sha256_linha_original": "9ae038b021cb1ed802344ac1ba3f9d86ddbd864409d29cf3040ef3078ce146af"
+        },
+        {
+          "ta_id": 616,
+          "norma_id": 14616,
+          "sha256_linha_original": "6b266ed396cd54087adcb2e8db7604d4082c0e1aa5beb4fe77061d11e16a0b99"
+        },
+        {
+          "ta_id": 1013,
+          "norma_id": 14602,
+          "sha256_linha_original": "cabc4177a7113de89d816f0f4585c42192d0366ef6080328f63b26bbb36b4709"
+        },
+        {
+          "ta_id": 1224,
+          "norma_id": 14587,
+          "sha256_linha_original": "0e37a60e538f45c761815bd0842e18824061522bab8acd5702e7636cfcda36fd"
+        },
+        {
+          "ta_id": 892,
+          "norma_id": 14589,
+          "sha256_linha_original": "16078ad57a894dea7f9609a0222c7f57aa2c9f1d7425322775cd3faa061d49f8"
+        },
+        {
+          "ta_id": 1210,
+          "norma_id": 14578,
+          "sha256_linha_original": "5cdf01373420a1c7926b812dec0d4f493281e3a7e47e666c53afb43f713a8b80"
+        },
+        {
+          "ta_id": 615,
+          "norma_id": 14484,
+          "sha256_linha_original": "7d22becd5aca3aba006896fd98aef57147f252676369601c5d2f618fcbb262c8"
+        },
+        {
+          "ta_id": 1350,
+          "norma_id": 14418,
+          "sha256_linha_original": "be2581063e68670d56f4d4f85bc4a99045e587dd7d26944269ab9f6f384ad8a1"
+        },
+        {
+          "ta_id": 1094,
+          "norma_id": 14415,
+          "sha256_linha_original": "dc035a62a48da5199ee8ef43f77cc654408a123ecfbf973e251fba2aeea302d0"
+        },
+        {
+          "ta_id": 1208,
+          "norma_id": 14315,
+          "sha256_linha_original": "1a541eb82f0ffc62ee3b4126f28a97de6ac973b028aa007db6dd5b7cdaee0788"
+        },
+        {
+          "ta_id": 1209,
+          "norma_id": 14314,
+          "sha256_linha_original": "0d80e47c8011a0e79a5dd3c0dfaa2ea763fb55139c8f9038ef45f12651d1294f"
+        },
+        {
+          "ta_id": 730,
+          "norma_id": 14420,
+          "sha256_linha_original": "6048605daec289e4e1d446a0c4906bc313aab6707e82b878914d5ba2fa922c71"
+        },
+        {
+          "ta_id": 645,
+          "norma_id": 14250,
+          "sha256_linha_original": "5f16582a7f2ce88f8194f216e94b84ddd217b86c4a6bd2e066da79d2410eba61"
+        },
+        {
+          "ta_id": 1207,
+          "norma_id": 14248,
+          "sha256_linha_original": "e75e53e038790c4eb667dcf19ab60c03e95aa7ea9a13d38933d237a51a03b8c3"
+        },
+        {
+          "ta_id": 309,
+          "norma_id": 14239,
+          "sha256_linha_original": "136caa974d974ec10077bed9702fd4042eb368e4b732db09dc140c2352f95952"
+        },
+        {
+          "ta_id": 1205,
+          "norma_id": 14241,
+          "sha256_linha_original": "03971115a548e2ebcc9da719dd2523af9721346a26afb2b6fc5707135eb42843"
+        },
+        {
+          "ta_id": 1124,
+          "norma_id": 14234,
+          "sha256_linha_original": "eb67a6fcd0941916ba1f8ffb928616ce92c0f95adb543bc1ce8f1496890ba6ae"
+        },
+        {
+          "ta_id": 1122,
+          "norma_id": 14222,
+          "sha256_linha_original": "3f332e16f4826ccb47090526ce4b1e3e936d86aafcbb1d3d86fbda1e4c991c77"
+        },
+        {
+          "ta_id": 614,
+          "norma_id": 14223,
+          "sha256_linha_original": "221115972bc6187ce0b4ebd646c3f0053c98a7365e39d3a5439aa5c11cb99829"
+        },
+        {
+          "ta_id": 807,
+          "norma_id": 14167,
+          "sha256_linha_original": "6b89097065f65f8712bb50a2308d91e5e107d1a792b3c9ab3914aa6b77a7e168"
+        },
+        {
+          "ta_id": 728,
+          "norma_id": 14196,
+          "sha256_linha_original": "5d98b7ee0fed01cec738562e21034905c1ffd511202cc4d0d2af729079ff382f"
+        },
+        {
+          "ta_id": 688,
+          "norma_id": 14026,
+          "sha256_linha_original": "0a22d473fffed998fbc751530b118fd2ff57683061aef963c2ca8e204a261956"
+        },
+        {
+          "ta_id": 184,
+          "norma_id": 14146,
+          "sha256_linha_original": "39e54a82e40e05c37572952a37a152ec5898e2d1caa025456b4c9b3bb185a092"
+        },
+        {
+          "ta_id": 613,
+          "norma_id": 13920,
+          "sha256_linha_original": "1188c7be0187a36013d781c840e698ca555dcf0e88e055139e7a6b05c735dd94"
+        },
+        {
+          "ta_id": 183,
+          "norma_id": 13765,
+          "sha256_linha_original": "2633358ddb1ff5980c3f64a9218b963258c8f7923de9599c05c7a2a6c3126667"
+        },
+        {
+          "ta_id": 796,
+          "norma_id": 13745,
+          "sha256_linha_original": "464efa76b9a4b60cda00765866569b27884e5f442781964366013e35b65b8752"
+        },
+        {
+          "ta_id": 806,
+          "norma_id": 13740,
+          "sha256_linha_original": "9fc64f4e66c8017f380924b260e312afd6ccaacaf9807ee79740b43457a5bb08"
+        },
+        {
+          "ta_id": 938,
+          "norma_id": 13566,
+          "sha256_linha_original": "2a0a67a8f05e2ddb1ade4cc365f76bae5eb134f7921816f523cb45a7fca8f8e2"
+        },
+        {
+          "ta_id": 988,
+          "norma_id": 13469,
+          "sha256_linha_original": "fab4578498cc51026eb88a8fe90a1b4fa2f7c73799b7a971657c87daf902e113"
+        },
+        {
+          "ta_id": 721,
+          "norma_id": 13446,
+          "sha256_linha_original": "58fa25ccedbfef254cc6ae24a6878e65a8405d77890c4c15cdd98288eacf5232"
+        },
+        {
+          "ta_id": 644,
+          "norma_id": 12514,
+          "sha256_linha_original": "c6b998a468b31ae80131df3aa49f97455bca23a22e19ab5c4b0ab613b9b319e9"
+        },
+        {
+          "ta_id": 805,
+          "norma_id": 11653,
+          "sha256_linha_original": "0c1e57f8f8b924d38adf6a38a74bb0c77969251c95bf5f76c5813846155a8601"
+        },
+        {
+          "ta_id": 433,
+          "norma_id": 11997,
+          "sha256_linha_original": "4b4367df245b71ade6852891060088083f93c6ff942244a71a932298275ab09b"
+        },
+        {
+          "ta_id": 686,
+          "norma_id": 10922,
+          "sha256_linha_original": "9f0761517f54605683f083245bd54cc47ad507bf2dddab5da0be0012af1eb119"
+        },
+        {
+          "ta_id": 939,
+          "norma_id": 10897,
+          "sha256_linha_original": "d872dd424058db9e3c2a00d903fa21bdfdc9873ee71e5a27d84d143588ed6fa5"
+        },
+        {
+          "ta_id": 415,
+          "norma_id": 10938,
+          "sha256_linha_original": "b0ca2bd2c95f60277b41f39bb21b2ba0da6c03ed22079d28870bd1f743345d42"
+        },
+        {
+          "ta_id": 937,
+          "norma_id": 10833,
+          "sha256_linha_original": "48dadfd8c9124822edc203431dbe31d3759f9613a96b1b96ba41a7de7d4659b1"
+        },
+        {
+          "ta_id": 740,
+          "norma_id": 10778,
+          "sha256_linha_original": "e0caee341e5ceebe1f109424a0234521fcdf912c1dcba54fcc54a66952039461"
+        },
+        {
+          "ta_id": 793,
+          "norma_id": 10757,
+          "sha256_linha_original": "351660fdaf1fa936a629d1c73fcbf62ffa2e45ba7883a1dc1eb4060bac882a5e"
+        },
+        {
+          "ta_id": 270,
+          "norma_id": 10748,
+          "sha256_linha_original": "520eb2705bf83c999ff88a7e1b27ca01b844248f87ac773feb7fddd3a89d6156"
+        },
+        {
+          "ta_id": 612,
+          "norma_id": 10742,
+          "sha256_linha_original": "676c54e690acfce8ca8e03d28352d642985318d37f89097a43d9cdcb9eb45e65"
+        },
+        {
+          "ta_id": 611,
+          "norma_id": 10741,
+          "sha256_linha_original": "15c2e9ebe67d71415c477b122fc0a449514c6e86d77ed0aad5179e4d27e7026b"
+        },
+        {
+          "ta_id": 610,
+          "norma_id": 10739,
+          "sha256_linha_original": "0d082767ab5aa1c0066943f609c90f4cfc2b3dd2e15ee548ab2e43b51c8c348c"
+        },
+        {
+          "ta_id": 280,
+          "norma_id": 10676,
+          "sha256_linha_original": "4019288c3817d7b1aaf90fe77313badd177b73ddc707b6723aa382d8cff4d418"
+        },
+        {
+          "ta_id": 727,
+          "norma_id": 10693,
+          "sha256_linha_original": "4ba3ef3828528b37ee6f5f3c4e3f793172052d1288b20b263853005d6883bf36"
+        },
+        {
+          "ta_id": 685,
+          "norma_id": 10694,
+          "sha256_linha_original": "a1a52742c74480945e2e77effaecdbccfa794d50d6c665ef7aa44597f975f028"
+        },
+        {
+          "ta_id": 1062,
+          "norma_id": 10666,
+          "sha256_linha_original": "78b6fcde204284da6ab0ee7877bf0359f8ff407a0a5490eb70bbaa53377a09cc"
+        },
+        {
+          "ta_id": 643,
+          "norma_id": 10661,
+          "sha256_linha_original": "99cf862b4cf74defc36d7a2c5ebc15c3ba95d7c00df8300b8341a1abe256d7a5"
+        },
+        {
+          "ta_id": 1120,
+          "norma_id": 10644,
+          "sha256_linha_original": "8c6c568fc9c8b60cf825a13b350d6386315ac03aad420fc421ff24ce8f2ccf22"
+        },
+        {
+          "ta_id": 609,
+          "norma_id": 10625,
+          "sha256_linha_original": "386e6c6e1b9b4ec0ddfb2d8330a38a7faf4e56ee1ace1e64b5f61f9ab555fe14"
+        },
+        {
+          "ta_id": 608,
+          "norma_id": 10624,
+          "sha256_linha_original": "1f1855d3f347cbe1b1894566dec47356a9af7fd971b995ef52d686a288cc857e"
+        },
+        {
+          "ta_id": 1119,
+          "norma_id": 10598,
+          "sha256_linha_original": "6d99c6cba2d01348e6c9b82115697760c96feb94abc2da45e509056f59f7257a"
+        },
+        {
+          "ta_id": 266,
+          "norma_id": 10592,
+          "sha256_linha_original": "8ed02b3d858f2e5ff38865de50b4d65e4785f3e91d4c59616d7aed684f9f0668"
+        },
+        {
+          "ta_id": 607,
+          "norma_id": 10597,
+          "sha256_linha_original": "36b12fd9208eae49f1e5ce24d66ea55dd77b2a16e26152f18fcc2202ea7fa164"
+        },
+        {
+          "ta_id": 1118,
+          "norma_id": 10579,
+          "sha256_linha_original": "108ef96cbf99bffaf9e8b97de68ac3c4aee02ffe8b36ae698308eaefc626c48a"
+        },
+        {
+          "ta_id": 684,
+          "norma_id": 10548,
+          "sha256_linha_original": "9e356ae422a8cb971780eff08825c157b3fd58040c7b90fae11530cf328a1d12"
+        },
+        {
+          "ta_id": 683,
+          "norma_id": 10542,
+          "sha256_linha_original": "5f0768c2853c1d2da3a88bc4fa97208c2a68d806b6e16e2167371f18369fbac5"
+        },
+        {
+          "ta_id": 257,
+          "norma_id": 10535,
+          "sha256_linha_original": "17990164da7897cbb1aade41d6906a4fd6fd7d6fe3bcf15fd39ee1e87fa11066"
+        },
+        {
+          "ta_id": 242,
+          "norma_id": 10526,
+          "sha256_linha_original": "770470f88908765cad069b5d96767a6b6c978174f07c3a70a954de0f8425431c"
+        },
+        {
+          "ta_id": 792,
+          "norma_id": 10521,
+          "sha256_linha_original": "74f4e5c5c405d85cbfb4d9eb614f75904121eccc379cae4485d4abd0aa989137"
+        },
+        {
+          "ta_id": 1186,
+          "norma_id": 10525,
+          "sha256_linha_original": "82ab65e841df7a79f7a3ccf6d72f06c299ac4a4a114c9fe451ec994ff7af59a3"
+        },
+        {
+          "ta_id": 791,
+          "norma_id": 10494,
+          "sha256_linha_original": "1b6c986b122a606a8bfc6b8e2bd657f36dd0d14d0af177c53987f6e0b4de04b2"
+        },
+        {
+          "ta_id": 790,
+          "norma_id": 10467,
+          "sha256_linha_original": "fd79404c6d3b601164281a5fe3bddd5dce61b841fb2e453224a11607d40e70b8"
+        },
+        {
+          "ta_id": 736,
+          "norma_id": 10439,
+          "sha256_linha_original": "1f21e5d63ac9080c6c527d86da2d86f664c7462af779f11140018e2450ea05f8"
+        },
+        {
+          "ta_id": 606,
+          "norma_id": 10451,
+          "sha256_linha_original": "9c57e04acc4090f48c2585605f61bc874b8f1acbebe753716901c576aadbb012"
+        },
+        {
+          "ta_id": 1061,
+          "norma_id": 10422,
+          "sha256_linha_original": "64259a4dc19926c1768380e90c6f625282da3c27c797c60475c4f1390d6169ca"
+        },
+        {
+          "ta_id": 605,
+          "norma_id": 10404,
+          "sha256_linha_original": "dbdbf65e77c9c5fc5512153798049a102a7428ce942c3ba2c5f3262ddada6974"
+        },
+        {
+          "ta_id": 789,
+          "norma_id": 10393,
+          "sha256_linha_original": "f9253f93aece892f32e643962733240a15c898c35daf2d5f459a8076ee5d8cbe"
+        },
+        {
+          "ta_id": 788,
+          "norma_id": 10394,
+          "sha256_linha_original": "29d25664d23b7bf4d04ec97d0259889f99763403ec2b4e448ade0cffeadd3cd4"
+        },
+        {
+          "ta_id": 251,
+          "norma_id": 10368,
+          "sha256_linha_original": "b81ed9da6f6def0bfa59db4d3e6f4a54414ea6d2f0c00a289f96dc1f2affa820"
+        },
+        {
+          "ta_id": 604,
+          "norma_id": 10362,
+          "sha256_linha_original": "26187c446838a85711ae68dbb70333f54a1dceea233681a78a7301eff6dece39"
+        },
+        {
+          "ta_id": 603,
+          "norma_id": 10333,
+          "sha256_linha_original": "946639845747a39fc367a0d5f3085bfc1fc530575a15fa106ba11ccb8693bc9a"
+        },
+        {
+          "ta_id": 250,
+          "norma_id": 10330,
+          "sha256_linha_original": "6ad759756dcfdef84407ece06876eb88fd081924088a970b039e6f0bf9628860"
+        },
+        {
+          "ta_id": 602,
+          "norma_id": 10345,
+          "sha256_linha_original": "21c9577a3e9fc86e9f5e89c910c83418797e5bba5a9e3a038183c6437c0b619f"
+        },
+        {
+          "ta_id": 601,
+          "norma_id": 10251,
+          "sha256_linha_original": "67b403cf4b3ef93cc6ea40000e03c3a6e21ae3f187777891f19325809d4d02d7"
+        },
+        {
+          "ta_id": 1117,
+          "norma_id": 10208,
+          "sha256_linha_original": "f91356856ac9f974f0ea446068481196989d12fcc5c2119924efaf82c748c38f"
+        },
+        {
+          "ta_id": 564,
+          "norma_id": 10173,
+          "sha256_linha_original": "3cb93ee953164e9545fc1250890f810831508b3125c1a7b3d6b214a7d1218de2"
+        },
+        {
+          "ta_id": 1334,
+          "norma_id": 10161,
+          "sha256_linha_original": "4d49e4b9ba30ce8e129d6f4461876c3767254546357d3e739bbe1ffdf8452712"
+        },
+        {
+          "ta_id": 563,
+          "norma_id": 10109,
+          "sha256_linha_original": "fb06f9aff9b6585fd4604359713544effa1fb9207cfb499a1c2b68078b86a601"
+        },
+        {
+          "ta_id": 775,
+          "norma_id": 10035,
+          "sha256_linha_original": "f3baee8b7cb01116ad185b29cae3ac33c66165a6a4a1b47277e3c5e6a0762d51"
+        },
+        {
+          "ta_id": 599,
+          "norma_id": 10032,
+          "sha256_linha_original": "42a4557696180d4bc87fd14823908c9f4d3ea14ef336ee5a60eae0d0130aced0"
+        },
+        {
+          "ta_id": 360,
+          "norma_id": 10085,
+          "sha256_linha_original": "65848dfa559f6b93c292a825ccb4c824f45d043b60ffe7cb2f0badffb4cb2efc"
+        },
+        {
+          "ta_id": 1216,
+          "norma_id": 10018,
+          "sha256_linha_original": "ffc23b5b6f986c27b805031813bc3f73c387cf5ebbb61593dfb9493e543952e1"
+        },
+        {
+          "ta_id": 682,
+          "norma_id": 10025,
+          "sha256_linha_original": "0236757d22310e5799b5a84b5a1924113d1b3f36e7dd360cfc07cc242c765057"
+        },
+        {
+          "ta_id": 1116,
+          "norma_id": 10004,
+          "sha256_linha_original": "278f1d58f61980a6e991a62facd85e6c6c43f2f02c7322cbb3446550f5e60a90"
+        },
+        {
+          "ta_id": 936,
+          "norma_id": 9974,
+          "sha256_linha_original": "a63fadac785795f1ae6d294f34f3e95d6f29a5bfea240883b162115544aaac96"
+        },
+        {
+          "ta_id": 1406,
+          "norma_id": 9988,
+          "sha256_linha_original": "74a83da3928b1e944981f2d92b670cecf01f5504960898d89b75e026f47d6c62"
+        },
+        {
+          "ta_id": 359,
+          "norma_id": 9991,
+          "sha256_linha_original": "1a8255bf2d50d56763bcd9e481a92209196e0d9fc72a873cf47ee041375f3edd"
+        },
+        {
+          "ta_id": 434,
+          "norma_id": 9962,
+          "sha256_linha_original": "a7c6bfa360c22771b8ff76ed2c7920aa6b4e68da56af703a309499aa6f3f80b9"
+        },
+        {
+          "ta_id": 1054,
+          "norma_id": 9993,
+          "sha256_linha_original": "defb83eb45d94157d474780fbdb80c1c649fd6b7e342ca28739e593054902fec"
+        },
+        {
+          "ta_id": 1060,
+          "norma_id": 9995,
+          "sha256_linha_original": "5b190f621f12da93113693855783fb40cf19535c6e87139e53ea88dbfcb3099c"
+        },
+        {
+          "ta_id": 681,
+          "norma_id": 9960,
+          "sha256_linha_original": "2a00c13d69cc4e1925ecd214c4e9209481a88470a5e7060a685c9606c80468e0"
+        },
+        {
+          "ta_id": 680,
+          "norma_id": 9959,
+          "sha256_linha_original": "d3431cbeba4e67907a9f7d4c7e2761277b51bab2ecd52a64242562d287ca36ed"
+        },
+        {
+          "ta_id": 358,
+          "norma_id": 9952,
+          "sha256_linha_original": "3ebe6d864d830da802cdc1cfdc9314b7b5b1635a92c6697a55ef30d3a7ed157f"
+        },
+        {
+          "ta_id": 787,
+          "norma_id": 9807,
+          "sha256_linha_original": "17a65820b9109361068eef248bc5613047bcf1c55cd5b0633489aed2646f45e2"
+        },
+        {
+          "ta_id": 679,
+          "norma_id": 9809,
+          "sha256_linha_original": "ccd585336745f9e731ef85ab3e9f095451eced63862e2c44a01d3e5cce3a4608"
+        },
+        {
+          "ta_id": 642,
+          "norma_id": 9848,
+          "sha256_linha_original": "279e5e43cacaa5c3cc0938cea30574641ac990a6299e2f518fe0abc67c4c6fdd"
+        },
+        {
+          "ta_id": 1053,
+          "norma_id": 9703,
+          "sha256_linha_original": "a311dba62f17e425c7638d4e246e283a2d4eb82938d597e04460fd5d432293dd"
+        },
+        {
+          "ta_id": 723,
+          "norma_id": 9694,
+          "sha256_linha_original": "02c3748321ce00e869b40b3c8999e2d303fb9470a5b243bd051b6d2d1a75e027"
+        },
+        {
+          "ta_id": 1215,
+          "norma_id": 9673,
+          "sha256_linha_original": "d0001870e444326a3cc4ec9453e3f6752753bf9414c339eb3c9f5b64f63fb924"
+        },
+        {
+          "ta_id": 786,
+          "norma_id": 9657,
+          "sha256_linha_original": "58017786e7370b9a35602181bd7a8f08823c9bf4afc5e38c6ecbd5efb3c4e368"
+        },
+        {
+          "ta_id": 455,
+          "norma_id": 9676,
+          "sha256_linha_original": "acaa5849617b182e3bc682e5bdd2ec9d0550513205f23050ab63842b30dd0c67"
+        },
+        {
+          "ta_id": 785,
+          "norma_id": 9624,
+          "sha256_linha_original": "99f5b4a56fb178631c1bfd53651414562c315dfc6592b24710e84ac1f5fe0ee2"
+        },
+        {
+          "ta_id": 406,
+          "norma_id": 9533,
+          "sha256_linha_original": "229de0a117a8a3f0fe2e559ac6e0eb4c33d60dce2d832c3fb74aeafdb4ac6ec7"
+        },
+        {
+          "ta_id": 677,
+          "norma_id": 9957,
+          "sha256_linha_original": "ec4b70ed442a7ed866790a3ba17d90f105ae2a4caf4f52c35525760b429eabdc"
+        },
+        {
+          "ta_id": 405,
+          "norma_id": 9532,
+          "sha256_linha_original": "09209cc32a8ef7e3370b806c22a43dfff0f63241967f4716ebc833905d91ed73"
+        },
+        {
+          "ta_id": 641,
+          "norma_id": 9495,
+          "sha256_linha_original": "2623b96af4cb0f7f087be1225ce8d5433c03d890293620328729d65ae76c141e"
+        },
+        {
+          "ta_id": 249,
+          "norma_id": 9551,
+          "sha256_linha_original": "e0a628036a680543c1a9635b3a73f913d4d9ce347454881c15c26a5834cb8263"
+        },
+        {
+          "ta_id": 795,
+          "norma_id": 9751,
+          "sha256_linha_original": "68c4f709bbf147b1658a734e123155094f2719e1a171a1a7b21e8e0d52b390d0"
+        },
+        {
+          "ta_id": 782,
+          "norma_id": 9628,
+          "sha256_linha_original": "77efbca277e083fa12a82c1fcde5ab15e204250b495aad48dcb9bc6935a5000e"
+        },
+        {
+          "ta_id": 676,
+          "norma_id": 9958,
+          "sha256_linha_original": "16f25cb7434d59b233c23b5c9657030affec97af1bfff948adf9eaf489154831"
+        },
+        {
+          "ta_id": 794,
+          "norma_id": 9449,
+          "sha256_linha_original": "848bbc2facce7b1078c849d7db00933fee6e71090ef0919975788d16abfdeee8"
+        },
+        {
+          "ta_id": 380,
+          "norma_id": 9474,
+          "sha256_linha_original": "ba90909490e5f37850978711b1b8df2fe4389ab46e26af8015b65ffa91e094d1"
+        },
+        {
+          "ta_id": 1185,
+          "norma_id": 9410,
+          "sha256_linha_original": "f2318a7bad5d153143fb4a009780863c9c316757b032be664cbe840181cad27f"
+        },
+        {
+          "ta_id": 781,
+          "norma_id": 9302,
+          "sha256_linha_original": "d2fc7133940297330b4a13d550fbb2149a6b8b07262730194cc7447d30df17d0"
+        },
+        {
+          "ta_id": 306,
+          "norma_id": 9300,
+          "sha256_linha_original": "7b89b44b304c2db54c39d888c7fe00ef0197a877387b20d528020d8d72b00c28"
+        },
+        {
+          "ta_id": 675,
+          "norma_id": 9342,
+          "sha256_linha_original": "e049b8b3123c22c73b0c08831494c727916e0d59b8b3aaf06d9d806b4a8ecb2f"
+        },
+        {
+          "ta_id": 703,
+          "norma_id": 9262,
+          "sha256_linha_original": "2e6dafb8aa779ac7f9add0dbce44e99e9a674621e1cfabfecfcb9ad840856b49"
+        },
+        {
+          "ta_id": 305,
+          "norma_id": 9261,
+          "sha256_linha_original": "7add37e591f988eb1c9dfd440ac9fb6646f6faaaf1ac65192f80d6f3033b29ba"
+        },
+        {
+          "ta_id": 248,
+          "norma_id": 9232,
+          "sha256_linha_original": "414b6a1c27016f545266f4e227566461395d5071ab900c6787cf742ffacfcafd"
+        },
+        {
+          "ta_id": 674,
+          "norma_id": 9384,
+          "sha256_linha_original": "65832af58a152a3abbb6eac6946f6f620908e351c5829cdd4edce922226a3f26"
+        },
+        {
+          "ta_id": 655,
+          "norma_id": 9298,
+          "sha256_linha_original": "d2e57d41325e587a78ced9b495e30809f634b6313f9f88c72a37a9f49c57fccd"
+        },
+        {
+          "ta_id": 259,
+          "norma_id": 9071,
+          "sha256_linha_original": "c397ef89b9250262eaff28c9cfa8cbaf079511db2c2bee69ae24fc96dcb28bfe"
+        },
+        {
+          "ta_id": 1052,
+          "norma_id": 9046,
+          "sha256_linha_original": "d240a873d327b8f676ee9ecc37475646e39f68f9a4f1fb8bdd36af26c24874c8"
+        },
+        {
+          "ta_id": 363,
+          "norma_id": 8936,
+          "sha256_linha_original": "c312b37df7e5fbc0abaea588530337ca10fa4b9c689b39a0d553191bc3dc40e7"
+        },
+        {
+          "ta_id": 654,
+          "norma_id": 8931,
+          "sha256_linha_original": "389e0b3af2220de71dbef6965589e5015ba689998a0e00746e9b85b481945e4d"
+        },
+        {
+          "ta_id": 1051,
+          "norma_id": 8882,
+          "sha256_linha_original": "a96b808e7884bcb4164b72b1c68b50ddde68f204be265e855f3732da8e220ae6"
+        },
+        {
+          "ta_id": 328,
+          "norma_id": 8800,
+          "sha256_linha_original": "2ca8afd9830d8780afa3a3792d2f320b78cf7b61d81e807d4ffa06cd42f48e6e"
+        },
+        {
+          "ta_id": 322,
+          "norma_id": 8801,
+          "sha256_linha_original": "1be78573079e8b0f2352a108b0801cde6161082fcfeffeaba3ea4b65f1781374"
+        },
+        {
+          "ta_id": 285,
+          "norma_id": 8752,
+          "sha256_linha_original": "2e5ef1359c55320232c7ec729b31a10a49dce0d16a1bbe5aed8241ea317529d3"
+        },
+        {
+          "ta_id": 673,
+          "norma_id": 8713,
+          "sha256_linha_original": "13fb310083e8f055d7f0c24c22f94783894d3e3cdef2fc342e83354f732f9ead"
+        },
+        {
+          "ta_id": 640,
+          "norma_id": 8726,
+          "sha256_linha_original": "6a00dc34789ee2574b257df56c1803c1c88c0c25e5586e7da745b11b5d18cc06"
+        },
+        {
+          "ta_id": 298,
+          "norma_id": 7234,
+          "sha256_linha_original": "6770f9d900a17d36d99c61c7ddfee89ac9171b3aff8d00d6d901c3189fdead16"
+        },
+        {
+          "ta_id": 454,
+          "norma_id": 7202,
+          "sha256_linha_original": "6cdbefec2b9a12abcf8b0ca5f6628af1a6edc86da611a6d1a2710c1891edaddd"
+        },
+        {
+          "ta_id": 638,
+          "norma_id": 6985,
+          "sha256_linha_original": "0e8755cb21e00a41bc0b04e3b4fcd3c6fe9af7e9d7b0e5f3a6e3cca0ba6fc109"
+        },
+        {
+          "ta_id": 297,
+          "norma_id": 6920,
+          "sha256_linha_original": "694a37ce67966f32c5e2054ea3c2afa873a565e7a5ce44ec0196f995d6448a3d"
+        }
+      ]
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "origem": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.doresdoindaia.mg.leg.br/resultados.jsonl",
+      "bytes_prefixo": 3399848,
+      "sha256_prefixo": "466f7bfe8d20b6f67cff036287daebac8c1dd27744e208256e2b30bb2a014fe2",
+      "candidatos": 230,
+      "snapshot": "municipais/_indice/_recuperacao_20261027/entrada-ta-0024/sapl.doresdoindaia.mg.leg.br/resultados.jsonl",
+      "sha256_snapshot": "437a16b34f67212f099a035a5e8d54dc7f40e862e7f7897becb4c800e0a9b0d1",
+      "anexos_origem": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.doresdoindaia.mg.leg.br/anexos-index.json",
+      "sha256_anexos": "99c09982e40d681133358a8ceae7bb9fc442fa554b51882276c93791414af783",
+      "tipos_origem": "municipais/_indice/organicas-sapl/sapl.doresdoindaia.mg.leg.br/4d5cb47693ccc2a0dab0c27f26e70be01140eee997a78cfb7445e775abb62d40.json",
+      "sha256_tipos": "5a45a38875082c764fffea4c9b3ee362ab5d11e05f92ca73d89caa4229b17f08",
+      "linhas": [
+        {
+          "ta_id": 734,
+          "norma_id": 794,
+          "sha256_linha_original": "8d7b87845a250d19cf575d12bda517e224d0af341e85df02661503fcf7126dce"
+        },
+        {
+          "ta_id": 732,
+          "norma_id": 792,
+          "sha256_linha_original": "63967c8384fa830a7a90a84d16f3ba39db25c708a697ad81c411867812933a5f"
+        },
+        {
+          "ta_id": 75,
+          "norma_id": 791,
+          "sha256_linha_original": "8d47ddb064bf3a37e48e8d66032a6f422aaeb7f9814e9b6f498f5851fb9c4561"
+        },
+        {
+          "ta_id": 731,
+          "norma_id": 790,
+          "sha256_linha_original": "7b1d888d9690808cbb66fd18be44662248c90d8b6e8279bc23e044cffc0e4154"
+        },
+        {
+          "ta_id": 730,
+          "norma_id": 789,
+          "sha256_linha_original": "153644f350ddc3639e7b31a7cf73542567074360248dc9b1f17beb9081436aa5"
+        },
+        {
+          "ta_id": 729,
+          "norma_id": 788,
+          "sha256_linha_original": "e62870ae6cd2d076a32aa3891290b565b8f0be2262633dc77c76ed64c692260b"
+        },
+        {
+          "ta_id": 728,
+          "norma_id": 787,
+          "sha256_linha_original": "534a536772a2a3c3d397dd3f0c5d77b016e43f036d07095bd6a0e65312b1bad1"
+        },
+        {
+          "ta_id": 726,
+          "norma_id": 785,
+          "sha256_linha_original": "f1008ff48938813363523199a98ca21b2c8e6ba3687b4585430b5da55d056dc3"
+        },
+        {
+          "ta_id": 733,
+          "norma_id": 793,
+          "sha256_linha_original": "12a169d2b3c9c026b02d916bf5e8bcd41285a7316efdea9ede713ee5b64ed6d7"
+        },
+        {
+          "ta_id": 725,
+          "norma_id": 784,
+          "sha256_linha_original": "5a7adf174faa848635d85f34d2abb1c88328c022a879be33ed0148c2a3a527c8"
+        },
+        {
+          "ta_id": 724,
+          "norma_id": 783,
+          "sha256_linha_original": "5670f9b3478362af612050ed5a86fb64a63c6483fa25dd8cc496932d07d2463d"
+        },
+        {
+          "ta_id": 723,
+          "norma_id": 782,
+          "sha256_linha_original": "624ee08c285c7382b924fe4631ca9ff2ae6653c10b578adb7c66659eebf5b3f0"
+        },
+        {
+          "ta_id": 722,
+          "norma_id": 781,
+          "sha256_linha_original": "11027abf83c212eee15368a9ba12660a631dce1bbf5d6a2cbafdcbe6515032b3"
+        },
+        {
+          "ta_id": 721,
+          "norma_id": 780,
+          "sha256_linha_original": "f63c41fea253ffc81b4dd1bf744b9d89b594e3931306e86e58595937e3a47752"
+        },
+        {
+          "ta_id": 720,
+          "norma_id": 779,
+          "sha256_linha_original": "854b7311cbadd8f9695ace548b8233806bbdc7e13094c6a924bbe38ada18888f"
+        },
+        {
+          "ta_id": 595,
+          "norma_id": 777,
+          "sha256_linha_original": "b30be469a11f77836dddb23392baab881d509969ce437f9d0c6a5da896b76f1f"
+        },
+        {
+          "ta_id": 719,
+          "norma_id": 778,
+          "sha256_linha_original": "383d4072fab3f6cddb9a989c8a815afd14365fe239c81d960add49affa77adbf"
+        },
+        {
+          "ta_id": 581,
+          "norma_id": 776,
+          "sha256_linha_original": "f2c4a8d5e2384565ba2612f062b67bea7e8a5c1e43600720b89ac3e19bad3844"
+        },
+        {
+          "ta_id": 580,
+          "norma_id": 775,
+          "sha256_linha_original": "d94804f1b2cff7cead8fdc843dd05633a196f21026ad29ad874869a33d0704c6"
+        },
+        {
+          "ta_id": 579,
+          "norma_id": 774,
+          "sha256_linha_original": "0ccd769da68b6485b699411f763b03435d1e8d97635fb6abcd1d886ccb7a591c"
+        },
+        {
+          "ta_id": 577,
+          "norma_id": 772,
+          "sha256_linha_original": "152e9d0eeea20b3cb567e3b15bb4dae9ac3b7de95bd71f3cf40dacd0fdbc7ac9"
+        },
+        {
+          "ta_id": 576,
+          "norma_id": 771,
+          "sha256_linha_original": "a942f117380ee22a901368ed9946a92921ce6b4b1833de72c2010fcfe311e64a"
+        },
+        {
+          "ta_id": 575,
+          "norma_id": 770,
+          "sha256_linha_original": "c53d78ce71f22a7b1a80bb5e437ae8d887f1f261481d47e7f7d6aa049c411e7d"
+        },
+        {
+          "ta_id": 718,
+          "norma_id": 769,
+          "sha256_linha_original": "7ba46cbda5d19887748569981206d41387ae1f73387fef5b8d8195514a434dd2"
+        },
+        {
+          "ta_id": 574,
+          "norma_id": 768,
+          "sha256_linha_original": "011b90642edb8f193dcba93defe701159a544e45e63e7ff4bb7f62e35583a708"
+        },
+        {
+          "ta_id": 573,
+          "norma_id": 767,
+          "sha256_linha_original": "09c7b82423263f08896888a4ef8147bef423e1e8fe8d6bf9032804356e841528"
+        },
+        {
+          "ta_id": 572,
+          "norma_id": 766,
+          "sha256_linha_original": "d493730032fd67dc626d87b2e1d67dfb780d423512332ccf65edc9acfde308f4"
+        },
+        {
+          "ta_id": 560,
+          "norma_id": 754,
+          "sha256_linha_original": "54e2da47cacfa86abe27c61eb3196ac5eb5f67ce62369d92bb1eb496803f1a39"
+        },
+        {
+          "ta_id": 570,
+          "norma_id": 764,
+          "sha256_linha_original": "089560db2c7e0737620be2c9136df773b4fcd90a493826733e0a00b1f8534f37"
+        },
+        {
+          "ta_id": 569,
+          "norma_id": 763,
+          "sha256_linha_original": "ed5ea84b584471ccb9ebfdc2171db2378824eb5eab77e8d358e2864da4b0a74e"
+        },
+        {
+          "ta_id": 568,
+          "norma_id": 762,
+          "sha256_linha_original": "c553ed5d9d7b4239e5a1267a9e457ac0c74deb6a30735339819c8233036ec719"
+        },
+        {
+          "ta_id": 567,
+          "norma_id": 761,
+          "sha256_linha_original": "111da5e7b727899c1debaaa7656256fb9476f740ba2c83516201dc41f57c256c"
+        },
+        {
+          "ta_id": 566,
+          "norma_id": 760,
+          "sha256_linha_original": "7f0d1d48826dcd533e8232056bd21055a0e6beaf6b6b5ffd80d156ae6c02c3e6"
+        },
+        {
+          "ta_id": 565,
+          "norma_id": 759,
+          "sha256_linha_original": "4ca23ec7f037888858372ed1d1d6cb03f80f2ff58b2401772255d6cc7e31c53d"
+        },
+        {
+          "ta_id": 564,
+          "norma_id": 758,
+          "sha256_linha_original": "2342e1a04a28234bc689081f470b9474f7f0acd5b3dfaf16ab4e0a8c301a39f1"
+        },
+        {
+          "ta_id": 563,
+          "norma_id": 757,
+          "sha256_linha_original": "4d5920bb4e9aa8fc9c69597af5f85876a55f5d96a11a57a160997f1d1b70eb51"
+        },
+        {
+          "ta_id": 562,
+          "norma_id": 756,
+          "sha256_linha_original": "c6230203884714f676d941dc66b5f625c480c13aed0d141c20b12fc3d8251dec"
+        },
+        {
+          "ta_id": 558,
+          "norma_id": 752,
+          "sha256_linha_original": "d9570082b6d7e1bbaf9e61db83f909946beeee1dbaad2988249423837ec211c5"
+        },
+        {
+          "ta_id": 557,
+          "norma_id": 751,
+          "sha256_linha_original": "dd0c8391c0c86b5db69e16664bf9fa5fd8feedfee4e3c644bc67ae727f8b7011"
+        },
+        {
+          "ta_id": 556,
+          "norma_id": 750,
+          "sha256_linha_original": "c75dc6ed899c509180f57ec27e0cfe6a8abcd359fa83d01e06606b4f98947c32"
+        },
+        {
+          "ta_id": 717,
+          "norma_id": 749,
+          "sha256_linha_original": "1fffbd873f82ba3913d14eb0f2b5147366487dd62c1d7223d3d66aeaf09e8d96"
+        },
+        {
+          "ta_id": 561,
+          "norma_id": 748,
+          "sha256_linha_original": "3250fa36eeec3363dca2be5febaa2636325b23b31234348e1dc230841bc8554d"
+        },
+        {
+          "ta_id": 716,
+          "norma_id": 747,
+          "sha256_linha_original": "772e6961cf3617712427674d9282e573c19c687545fbfa64058d9cde4da6bc59"
+        },
+        {
+          "ta_id": 715,
+          "norma_id": 746,
+          "sha256_linha_original": "fab939b42c2946112bb751b17a31154c30c39ba3c2aa9c25b61926f88f7d7558"
+        },
+        {
+          "ta_id": 714,
+          "norma_id": 745,
+          "sha256_linha_original": "5d5625f4b1edbc03d4b88bbc10dedcaa314a8739679a90057dc31b80749108b4"
+        },
+        {
+          "ta_id": 713,
+          "norma_id": 744,
+          "sha256_linha_original": "e61c97ef1918231275fe7332b17b675cf6a312074072650d8337b1df9e5ce654"
+        },
+        {
+          "ta_id": 712,
+          "norma_id": 743,
+          "sha256_linha_original": "6aa8cf56a12997bd89e1aef7f0f02cbbb169ee3974351bd47abd962251e8a517"
+        },
+        {
+          "ta_id": 40,
+          "norma_id": 742,
+          "sha256_linha_original": "a4024145baa710476d9ec74e4acd2b24cd99712207767103d7070f3dca40b4fc"
+        },
+        {
+          "ta_id": 711,
+          "norma_id": 741,
+          "sha256_linha_original": "e92f4c7ee66463c6d2fe4dade4ee9640b3b9261f08c22b38290d06e9f4872efe"
+        },
+        {
+          "ta_id": 710,
+          "norma_id": 740,
+          "sha256_linha_original": "5471e52ea5b31207df2b1a622a81785874c748bca7245360e4d01d3697d960ff"
+        },
+        {
+          "ta_id": 709,
+          "norma_id": 739,
+          "sha256_linha_original": "4283618f7591633cb7e03827f89d66b8a716c0eaca2f83844fd418fd8a1b47a6"
+        },
+        {
+          "ta_id": 708,
+          "norma_id": 738,
+          "sha256_linha_original": "401a5c0d3187018936e27479810a340b1993e1c5cad054f787d798a5cdb1e0d8"
+        },
+        {
+          "ta_id": 707,
+          "norma_id": 737,
+          "sha256_linha_original": "a3934f9090b4cb170f8675a92bf66e39539b7aa6c79e229b27c5a3d18267b587"
+        },
+        {
+          "ta_id": 706,
+          "norma_id": 736,
+          "sha256_linha_original": "c47e0cc1adaaa979a658315a947d31320bbce1eb480d9fb474ccff665b714083"
+        },
+        {
+          "ta_id": 705,
+          "norma_id": 735,
+          "sha256_linha_original": "1b4597bd3b3093c42e8f33178e54c84f5378a9b7ba059a7c4fcfd3fca7e1c656"
+        },
+        {
+          "ta_id": 39,
+          "norma_id": 733,
+          "sha256_linha_original": "60a98fb2bf2909ccd0d376e3ab9f9a6ec29ae37538677f44fd67d55d501055e8"
+        },
+        {
+          "ta_id": 5,
+          "norma_id": 730,
+          "sha256_linha_original": "0680e9b8c3573f31d83c2b82fbd186a40932c3debc131c28339c065a9b6768ab"
+        },
+        {
+          "ta_id": 702,
+          "norma_id": 731,
+          "sha256_linha_original": "117c837db4262c4187c132fed75de63d5e47cfdab1c4e0d7aad828e611c6c6e5"
+        },
+        {
+          "ta_id": 701,
+          "norma_id": 729,
+          "sha256_linha_original": "b4413a30080271fe0437d9d0076c5f3939ad455f22bbe6ff7442b5b2d75632a1"
+        },
+        {
+          "ta_id": 127,
+          "norma_id": 728,
+          "sha256_linha_original": "c95a7101d9735540d4ceeea689621a7708a2979864a96f45f955dc2b0ed653bc"
+        },
+        {
+          "ta_id": 700,
+          "norma_id": 727,
+          "sha256_linha_original": "03064dacf2904efa7cdfd4be8f2964aa4ef5f741c5874b8104c29a8792e32d9d"
+        },
+        {
+          "ta_id": 699,
+          "norma_id": 726,
+          "sha256_linha_original": "43a566a3276df8dfac49e9dc90fdc9e101c597b1cc31f5efc94dea4f98d65110"
+        },
+        {
+          "ta_id": 698,
+          "norma_id": 725,
+          "sha256_linha_original": "c075c3704a5680eaa0ea5b95407a98e4a33c879b071109257472ad6122f142a7"
+        },
+        {
+          "ta_id": 352,
+          "norma_id": 724,
+          "sha256_linha_original": "249b689d640a9af01d4d9bd2ec39d2e1cae8d0e463ac03fb978a9484e9dc2f36"
+        },
+        {
+          "ta_id": 697,
+          "norma_id": 723,
+          "sha256_linha_original": "2ca3213ca35068aab3ea75a43cee924a4dcd950a05a37a8be97973e13343aaab"
+        },
+        {
+          "ta_id": 696,
+          "norma_id": 722,
+          "sha256_linha_original": "fde02d9d39b19f337f9ce48a879c49623bbcb0394be98dfc392b1e6d4d9ca0c3"
+        },
+        {
+          "ta_id": 286,
+          "norma_id": 721,
+          "sha256_linha_original": "dee685054309926354bde80350404c1c42c765d4e6f9fc02d6dad2cac0b1f28e"
+        },
+        {
+          "ta_id": 695,
+          "norma_id": 720,
+          "sha256_linha_original": "2c513a99d56e38bbfbb6778597a3e18f8465ab14756c2f80b01d69d0e621d444"
+        },
+        {
+          "ta_id": 694,
+          "norma_id": 719,
+          "sha256_linha_original": "ddfb141daf890149ebc8681df74a1068f87a7c7c6b8d30677710924a1cdaedf2"
+        },
+        {
+          "ta_id": 690,
+          "norma_id": 717,
+          "sha256_linha_original": "d054591d9e52fe4e32356a1498d475552452413238fd2d61b6e723df962179f4"
+        },
+        {
+          "ta_id": 686,
+          "norma_id": 714,
+          "sha256_linha_original": "1a63fe58ed467f2a5a9c47f738082df14ddaaf6ff9d060701eca37d216364d1a"
+        },
+        {
+          "ta_id": 689,
+          "norma_id": 716,
+          "sha256_linha_original": "f34b785e4447c03beaedd6bb237421c8ffb037532598239ac28be9b1bea623cc"
+        },
+        {
+          "ta_id": 688,
+          "norma_id": 715,
+          "sha256_linha_original": "f79f750a41c7eb8ee0d4b8469c3c8e3852d89c776483d50fdcecde571d74ae34"
+        },
+        {
+          "ta_id": 684,
+          "norma_id": 712,
+          "sha256_linha_original": "b791f16bb8871fbe66c212e0efe2e001af15e12da2ddc30192c88f46f95aeb7a"
+        },
+        {
+          "ta_id": 683,
+          "norma_id": 711,
+          "sha256_linha_original": "78ddde900dafae41c1e3fed50cde83dacc1bb70f32a1e73d5b1e4e572eb3ff2c"
+        },
+        {
+          "ta_id": 446,
+          "norma_id": 710,
+          "sha256_linha_original": "aa9f35a3c8b8d5f8a3fb11d708103088d071575ac16a11cf868df391e08ac093"
+        },
+        {
+          "ta_id": 682,
+          "norma_id": 709,
+          "sha256_linha_original": "6ee26ff3643475c7dbda90bbfedff7ec24ae88bbc6dac7f50ca2544dbae3a127"
+        },
+        {
+          "ta_id": 607,
+          "norma_id": 708,
+          "sha256_linha_original": "c519f35729c6045ea576274b3db799448e5174ce154d57e9278c3395b4f03587"
+        },
+        {
+          "ta_id": 681,
+          "norma_id": 707,
+          "sha256_linha_original": "74dc62c395bed6f49724774844f10c09eefa1d94e770f51028a895d561af71fe"
+        },
+        {
+          "ta_id": 680,
+          "norma_id": 706,
+          "sha256_linha_original": "775bf723094409321b038e0bb6a87c505feb8d5c20c53821e64f18383a7007a9"
+        },
+        {
+          "ta_id": 679,
+          "norma_id": 705,
+          "sha256_linha_original": "febdc5fbf9247cbec3e3ecac24f00b748211e656d919318b1e7090dc78ff88b5"
+        },
+        {
+          "ta_id": 668,
+          "norma_id": 704,
+          "sha256_linha_original": "c8bafc44c002e5768205f1e894aae1893327deba7a6c004d4f50a33391f9c17d"
+        },
+        {
+          "ta_id": 677,
+          "norma_id": 702,
+          "sha256_linha_original": "88c34be25c1303ee2df4bd0b53c37ff4c0e9cc5a5e393aede7e9bb03ef1e56ca"
+        },
+        {
+          "ta_id": 678,
+          "norma_id": 703,
+          "sha256_linha_original": "c6fa2ad930ed9e85acdb18893122ffb688f20f33c6387548a245c87470bd4966"
+        },
+        {
+          "ta_id": 676,
+          "norma_id": 700,
+          "sha256_linha_original": "e9ec9996530a515915e82183e2f9743cb4ce31a83840fe7345006521ce89813b"
+        },
+        {
+          "ta_id": 675,
+          "norma_id": 699,
+          "sha256_linha_original": "fa9afa066b052564b8970a8b5b185c754cba8645b57df2ad182e49537ba6f3d4"
+        },
+        {
+          "ta_id": 652,
+          "norma_id": 698,
+          "sha256_linha_original": "f11babc7bf3abb40133cbfbfde959ca166e684a25a005eb2161e2dc9de69852a"
+        },
+        {
+          "ta_id": 674,
+          "norma_id": 697,
+          "sha256_linha_original": "d8f23b70268f670a3d7803dc23dbd9a32d6754038ae4e9a4bb44ebec41bef052"
+        },
+        {
+          "ta_id": 673,
+          "norma_id": 696,
+          "sha256_linha_original": "0f0bcd90dbdd107f43b8482a19b78e0a83aa868c9fa78e32cfd76f735ac50b01"
+        },
+        {
+          "ta_id": 672,
+          "norma_id": 695,
+          "sha256_linha_original": "7d8bfa13a015b34a98549a383ecb6285ae8f3bc761b5ca179846c683515b889c"
+        },
+        {
+          "ta_id": 671,
+          "norma_id": 694,
+          "sha256_linha_original": "0510c491e931e6afd297a62cd830d7bdc2798f7f050c730c3580506051562573"
+        },
+        {
+          "ta_id": 651,
+          "norma_id": 693,
+          "sha256_linha_original": "84638dcadebee7ed2c51a8a6565ae5af86452d155ca2f1190861f8cb17d3ab28"
+        },
+        {
+          "ta_id": 670,
+          "norma_id": 692,
+          "sha256_linha_original": "fda396016e218c624a75966542f648831d4334b6d89d92065093b52578e7cfd4"
+        },
+        {
+          "ta_id": 669,
+          "norma_id": 691,
+          "sha256_linha_original": "91f8b7722e54d7dab6b24b0c26193b9072be505713be42076df8fcfae8dcebcb"
+        },
+        {
+          "ta_id": 667,
+          "norma_id": 690,
+          "sha256_linha_original": "9be010f84d40a4d25cb5a85f1a337b3c97e46f6548f08e4e0df7cc4e3045205b"
+        },
+        {
+          "ta_id": 650,
+          "norma_id": 689,
+          "sha256_linha_original": "f8f61159a15e4ecab24eac7232366c526078a23f38c09b12be40c348903628fd"
+        },
+        {
+          "ta_id": 664,
+          "norma_id": 688,
+          "sha256_linha_original": "0e4f37c194ac8604265f3657904fc9fe8435d7dbfeddf7a5248285d21a447aec"
+        },
+        {
+          "ta_id": 663,
+          "norma_id": 687,
+          "sha256_linha_original": "ec3cc65744229a9ae571653046d947ea3674d53251639e68bd2a93bd2ce2f76e"
+        },
+        {
+          "ta_id": 662,
+          "norma_id": 686,
+          "sha256_linha_original": "7d62c33918fa45fa99bc532cca3373e4dad5eef3bd3eefe317005dda59b84ecc"
+        },
+        {
+          "ta_id": 661,
+          "norma_id": 685,
+          "sha256_linha_original": "4c47302eac3231b6ce84b72b588a563e3164b111764c6559efe7d6b5c09136a3"
+        },
+        {
+          "ta_id": 660,
+          "norma_id": 684,
+          "sha256_linha_original": "23d42b2fdeb22f87b1e5ab90630d6fe4069fc59c67c43b6315b5a1c96f9a1763"
+        },
+        {
+          "ta_id": 659,
+          "norma_id": 683,
+          "sha256_linha_original": "f8608b900b4773035433d293136fc6e869701d26b02a51c5c97ebd22620b8c21"
+        },
+        {
+          "ta_id": 203,
+          "norma_id": 682,
+          "sha256_linha_original": "b79428041a95b1c6c6d3e19571395db3e8818c89822d7eddeded01bcde5a9bca"
+        },
+        {
+          "ta_id": 658,
+          "norma_id": 681,
+          "sha256_linha_original": "550558fef1983db9d4f1fcf3c56926b053a0909e978906b857136131b89eb50d"
+        },
+        {
+          "ta_id": 657,
+          "norma_id": 680,
+          "sha256_linha_original": "be260b6a22ac9ee1b6fa160909a11e5fc51b77325a58435a3936b6f6c575af1b"
+        },
+        {
+          "ta_id": 656,
+          "norma_id": 672,
+          "sha256_linha_original": "091599a1233cee58291748c6ee9f551281801092ba1d5f85794e3a3fd3bd2a0f"
+        },
+        {
+          "ta_id": 655,
+          "norma_id": 671,
+          "sha256_linha_original": "df29f4782a5cafee0d01a6baa5d92ed20d53dfc2b333cc80bf9bdbe26cf03f22"
+        },
+        {
+          "ta_id": 354,
+          "norma_id": 670,
+          "sha256_linha_original": "74383ee344985ea3e41805dbfd836a18ad8c7eae7a18421e6d4b2a790d8704a6"
+        },
+        {
+          "ta_id": 444,
+          "norma_id": 669,
+          "sha256_linha_original": "33d8502016027592ec3a361acdc1bff6cb889310f60b026c5c1b1a95d585ef33"
+        },
+        {
+          "ta_id": 653,
+          "norma_id": 668,
+          "sha256_linha_original": "ab13d605772333233644c5b03296bc7c8c20cfa13b6cb38d7d5447103de31798"
+        },
+        {
+          "ta_id": 649,
+          "norma_id": 667,
+          "sha256_linha_original": "df2f5b3f6a834026973e047fcdd52e0bcc113ce190ab261962d208d9624ed331"
+        },
+        {
+          "ta_id": 648,
+          "norma_id": 666,
+          "sha256_linha_original": "6ff13c21eec8284aa07f696501246fcdf7236d866a2392d9f6ac71dda5823270"
+        },
+        {
+          "ta_id": 647,
+          "norma_id": 665,
+          "sha256_linha_original": "b1a023224f265176fac2d1ebc8623d58ebff6355234ad5314d21b247fddfda90"
+        },
+        {
+          "ta_id": 646,
+          "norma_id": 664,
+          "sha256_linha_original": "f68b02baac20420a5fbc7bec76b8805fc1bd4c26ae16e23636187a7e933d21e0"
+        },
+        {
+          "ta_id": 603,
+          "norma_id": 663,
+          "sha256_linha_original": "ae1da23b8a97e558967d90e926c358c197a39cfc93cc46680268a3745adb2134"
+        },
+        {
+          "ta_id": 645,
+          "norma_id": 662,
+          "sha256_linha_original": "de717a297bac8dc99e5063d4204be560df64fc7ff859681409ef7f976115b04e"
+        },
+        {
+          "ta_id": 643,
+          "norma_id": 660,
+          "sha256_linha_original": "32eb008288edf9d80503243ef5d888dd46c140e41633e5bf4a66ca6d7760f8a8"
+        },
+        {
+          "ta_id": 644,
+          "norma_id": 661,
+          "sha256_linha_original": "829b737ff13a4f5ef7af80ca922cf29f8bf1b53c8c944c18e0544d6d098a0313"
+        },
+        {
+          "ta_id": 639,
+          "norma_id": 659,
+          "sha256_linha_original": "1e0294ad786f47068eb26cb6458d8ce65e28b711969d6ed61c5bfc8ef70e3ee8"
+        },
+        {
+          "ta_id": 486,
+          "norma_id": 658,
+          "sha256_linha_original": "e04118182e63368a25bed78820f08995500d02a0c9a17b66ea3f1bb37609b8fd"
+        },
+        {
+          "ta_id": 638,
+          "norma_id": 657,
+          "sha256_linha_original": "46ed38ac4164f27f090e57d24ec571c3cb4e7558156bd38edb488678b4ec6559"
+        },
+        {
+          "ta_id": 76,
+          "norma_id": 656,
+          "sha256_linha_original": "bbf7819cdb8d1aabc2f2a660add01d685966c94df9f8cb1321b338474523bfa2"
+        },
+        {
+          "ta_id": 637,
+          "norma_id": 654,
+          "sha256_linha_original": "9d674a46343cfecf31c79f9fb45de68d6e58e414bbb6990dd2572f439b5c010b"
+        },
+        {
+          "ta_id": 623,
+          "norma_id": 637,
+          "sha256_linha_original": "2b14adad64ac6d63b0d22d31fd5d1258fe740defcb9190be6e65dd7dfcd7a412"
+        },
+        {
+          "ta_id": 636,
+          "norma_id": 653,
+          "sha256_linha_original": "83b85dbaecaf1f6dc7c58afa91bba50e834ab34d727f20627ae2a6502ff7332d"
+        },
+        {
+          "ta_id": 635,
+          "norma_id": 652,
+          "sha256_linha_original": "f9c388459c9e4c190a607f87009ac051b0cfede876063b5375e60911a9e004bb"
+        },
+        {
+          "ta_id": 634,
+          "norma_id": 651,
+          "sha256_linha_original": "2adcf4f9c229baa9b14b644d1bc3ffeadaac51931bea52760c883e35075b3b59"
+        },
+        {
+          "ta_id": 633,
+          "norma_id": 650,
+          "sha256_linha_original": "d8f63f50b1bf998709c760ceb5e78e9e0f358e0e8d72e03b4e4c96a3bc9d728d"
+        },
+        {
+          "ta_id": 631,
+          "norma_id": 649,
+          "sha256_linha_original": "35c0914a17d034478fcebf42895428e6af1f780e08bc6d2ec19210c8f20a2fc9"
+        },
+        {
+          "ta_id": 630,
+          "norma_id": 648,
+          "sha256_linha_original": "1cf81db4443db048062d93e001a4b7e30b1b4d0c286ff1dbe9cb2bba4f663c9a"
+        },
+        {
+          "ta_id": 450,
+          "norma_id": 647,
+          "sha256_linha_original": "4e01061a5961c045a05a2506e40a431d3e59336a7c619fc027946a9b301a72fd"
+        },
+        {
+          "ta_id": 442,
+          "norma_id": 646,
+          "sha256_linha_original": "3a29445ce99b80e92e44b0dc3ef894ea1c8ff28cd2202852b866d2dec17882da"
+        },
+        {
+          "ta_id": 629,
+          "norma_id": 645,
+          "sha256_linha_original": "3ba9b94d4fcf1f40e253563b2cfc7de605ef4400011a06f216326538ad3aec65"
+        },
+        {
+          "ta_id": 632,
+          "norma_id": 644,
+          "sha256_linha_original": "7f403705ab3c4d1639c69fc6fe1712ca4569880788af8c3b9f94960fcc8507fd"
+        },
+        {
+          "ta_id": 628,
+          "norma_id": 643,
+          "sha256_linha_original": "563ac68c67ce4d73d14ca375e12b9b2fe16d346cb96c7c0e251c05156eb5672f"
+        },
+        {
+          "ta_id": 627,
+          "norma_id": 642,
+          "sha256_linha_original": "5e3053af004275b1812d1ea87c6ed627e98652668777cd1eeb50b8ef1adfc7ad"
+        },
+        {
+          "ta_id": 626,
+          "norma_id": 641,
+          "sha256_linha_original": "1f6de1a9db29e246a2ed533da9bb5cb86eeabaa959d0610e0a78f1e08f0cec08"
+        },
+        {
+          "ta_id": 597,
+          "norma_id": 640,
+          "sha256_linha_original": "04d5f24935370cabf6f95136208070900e2954a12b501d5c665b0608c31d8884"
+        },
+        {
+          "ta_id": 625,
+          "norma_id": 639,
+          "sha256_linha_original": "007a954ed21351497cbf8b73145bb373383d1f18ed517d1bd3b1ecf8037ec316"
+        },
+        {
+          "ta_id": 624,
+          "norma_id": 638,
+          "sha256_linha_original": "c6d0b1744b01e628c3efaae9ad950e5fa30ddee9fe02b953fb58034fa2bd9c44"
+        },
+        {
+          "ta_id": 622,
+          "norma_id": 635,
+          "sha256_linha_original": "336b68b95ad85a1c740f16ba899567ce738cb2dbf9b7f556b272fba2dc343023"
+        },
+        {
+          "ta_id": 620,
+          "norma_id": 632,
+          "sha256_linha_original": "464c3858836115a54326e34bb838a70ee2a725ef9e19351c503453b80d01260d"
+        },
+        {
+          "ta_id": 619,
+          "norma_id": 631,
+          "sha256_linha_original": "012f9daaaa51715c47673c6df2259e3a5f8e4747a7712f5283167265d0d50ac3"
+        },
+        {
+          "ta_id": 615,
+          "norma_id": 630,
+          "sha256_linha_original": "071860276c0d4faad61b1a6107a664c1ef1d2968e01c363bbd7acadc97f338e6"
+        },
+        {
+          "ta_id": 611,
+          "norma_id": 629,
+          "sha256_linha_original": "7d7bee9dd5025365f4e7f77c7374552950be020d04b21d9386df99ff0c73427b"
+        },
+        {
+          "ta_id": 621,
+          "norma_id": 634,
+          "sha256_linha_original": "26f2cf5503c9d42144b91ae7286019fdff0858a7dfde54d9982d37e63e1bb78f"
+        },
+        {
+          "ta_id": 610,
+          "norma_id": 628,
+          "sha256_linha_original": "ba755bcdf5b1b04fc66b0d6cc72aee6008e260439adc2c66473fd8bbf66b673e"
+        },
+        {
+          "ta_id": 608,
+          "norma_id": 626,
+          "sha256_linha_original": "dec9e17497ce528def3be5ab3a051a16cc2a20e1784a9fc281de2587d4460a41"
+        },
+        {
+          "ta_id": 606,
+          "norma_id": 625,
+          "sha256_linha_original": "723ba51b5d41abfc05b7ed5b4893198ff1b33e0b7d619998dfb9fd18a4640522"
+        },
+        {
+          "ta_id": 605,
+          "norma_id": 624,
+          "sha256_linha_original": "f69580126d67e2a61bca27572768a851425d1117a23203d2ac7fd4a6b0dd45da"
+        },
+        {
+          "ta_id": 609,
+          "norma_id": 627,
+          "sha256_linha_original": "2d52279b2e326661ebdbfe7b2ca0cb226c640de0c5d754f1a0b975d63eaf89ee"
+        },
+        {
+          "ta_id": 604,
+          "norma_id": 623,
+          "sha256_linha_original": "e6d838c320049ee795aade0ff1085f58ecbcd29c20e313474080ac705f7c0b1e"
+        },
+        {
+          "ta_id": 602,
+          "norma_id": 622,
+          "sha256_linha_original": "942a028cc6b950c4a590f7d803333fe1cf594c3f384718c36f4c196ee11fd86a"
+        },
+        {
+          "ta_id": 599,
+          "norma_id": 621,
+          "sha256_linha_original": "6a330fde9b687afc4bffdd17c7e59d2e7f44469eeba2ff9d4e5d6ddf0a3c3d3c"
+        },
+        {
+          "ta_id": 601,
+          "norma_id": 620,
+          "sha256_linha_original": "47c16e574e7dfab129e8a741bdec1bef53a376913a7be545a350bdcf660f7ed5"
+        },
+        {
+          "ta_id": 600,
+          "norma_id": 619,
+          "sha256_linha_original": "2df1de558a2505f4d4395a60a9b235d7c4ea704bf5b7a58fcbb59fe6593f6822"
+        },
+        {
+          "ta_id": 598,
+          "norma_id": 618,
+          "sha256_linha_original": "69e352e0df8ccaa6c791583ecfd2febcd4f2276bd09f9eda84089b19ddbc03c5"
+        },
+        {
+          "ta_id": 596,
+          "norma_id": 617,
+          "sha256_linha_original": "5e63ab6c1c0c65e1e11494569bf4b869a7829a7e6e7f58f9b0d08550efd0723d"
+        },
+        {
+          "ta_id": 594,
+          "norma_id": 616,
+          "sha256_linha_original": "8608a34049cd74def4afeecceb47f1a8f53b7ac6363545dead805990a5f40ac8"
+        },
+        {
+          "ta_id": 593,
+          "norma_id": 615,
+          "sha256_linha_original": "f45cfae685ec2489bb73c13aac33fe7527bceea137afcef0de8373598187d273"
+        },
+        {
+          "ta_id": 618,
+          "norma_id": 599,
+          "sha256_linha_original": "ed17b0767d80896be3d9523d0bae001f73ba95bede9c83af30787902b1f4540f"
+        },
+        {
+          "ta_id": 617,
+          "norma_id": 598,
+          "sha256_linha_original": "e30921031cd2ce7b97ac96ce221164bdf5aec024f4c0baaf9edab18fc84a4cac"
+        },
+        {
+          "ta_id": 616,
+          "norma_id": 597,
+          "sha256_linha_original": "567a9712fdbae16269a16ffb3350207c8ad99a9a9a725497c32785a296cfe446"
+        },
+        {
+          "ta_id": 355,
+          "norma_id": 596,
+          "sha256_linha_original": "d0279f3ff96a6efc14dc7a6d14641cf47743841f83bdefc7d44d3f53f5b235ca"
+        },
+        {
+          "ta_id": 290,
+          "norma_id": 594,
+          "sha256_linha_original": "6532f23f23f802956cf7200a2420b1cc094cf3d8031e43dee23e0686231c1889"
+        },
+        {
+          "ta_id": 285,
+          "norma_id": 593,
+          "sha256_linha_original": "d71fcdf05716510bed291dcc1cfe8c700ad07aefb4b90af3df4d0c16a4a601d4"
+        },
+        {
+          "ta_id": 331,
+          "norma_id": 577,
+          "sha256_linha_original": "a555c4b2feb379e3f4d5414c1eee38cfa8ef577d8765b4b1e22a51bf1b19a217"
+        },
+        {
+          "ta_id": 614,
+          "norma_id": 576,
+          "sha256_linha_original": "962931ed4eecb6609623256617786a972c61742ec14c7e7b44b4ac2958dfd2b0"
+        },
+        {
+          "ta_id": 1020,
+          "norma_id": 575,
+          "sha256_linha_original": "42cb62586d4d7de097fd991b2bc1167ce8d1ea8692e6f02ddd4cc5ee1cec6721"
+        },
+        {
+          "ta_id": 1019,
+          "norma_id": 574,
+          "sha256_linha_original": "b99ec1369ceb917f9fd9e239c11d8ad5f0d5719fcfa845be37173029a28ca6d9"
+        },
+        {
+          "ta_id": 1017,
+          "norma_id": 573,
+          "sha256_linha_original": "9ae91d9d7814bf9438a887d460a53dae20026f76f22eb578b8a27df3b4010692"
+        },
+        {
+          "ta_id": 1016,
+          "norma_id": 572,
+          "sha256_linha_original": "fe86bac437a1c5a2800d028732a5ad42aca993b3cbe168bffbff730d485952e2"
+        },
+        {
+          "ta_id": 1015,
+          "norma_id": 571,
+          "sha256_linha_original": "09ad50c0fd61f53b736de4b8c1a97d2ecf35eacfc52e7eec654f3d272c4cb44b"
+        },
+        {
+          "ta_id": 744,
+          "norma_id": 569,
+          "sha256_linha_original": "36e85ee48ebfff11969ef46319ef01301fc5eed06a2bdc05f96c2984e9ecc3bd"
+        },
+        {
+          "ta_id": 743,
+          "norma_id": 568,
+          "sha256_linha_original": "455ad45164c0c4152041327ed90e0b0f2fe166fa385f2a1fd0bc3e5d95a5fcde"
+        },
+        {
+          "ta_id": 742,
+          "norma_id": 567,
+          "sha256_linha_original": "486f0a1c596614b3d158c754cc6255401de66fd486a239d6b4d2efaa078f0e44"
+        },
+        {
+          "ta_id": 142,
+          "norma_id": 557,
+          "sha256_linha_original": "8980307c61a312684aeba21309b5ec9d9736558a8b901c6e73f92556d5dc5a07"
+        },
+        {
+          "ta_id": 426,
+          "norma_id": 539,
+          "sha256_linha_original": "fa1cabf1f92297b9f46931744682e6c198d3d36b3f215c54ca559303d756ec39"
+        },
+        {
+          "ta_id": 687,
+          "norma_id": 534,
+          "sha256_linha_original": "0bbb08e089a10dc975d68bad384060008e1a84cc1e173ccffe0d95ca13efbebd"
+        },
+        {
+          "ta_id": 230,
+          "norma_id": 530,
+          "sha256_linha_original": "65f29a2c20651f50203992c4b438ee82cd78e867688459449226c8ad538bbfa5"
+        },
+        {
+          "ta_id": 126,
+          "norma_id": 506,
+          "sha256_linha_original": "c2eb9125923cec985c7680243778e36a53b2f27f9d5d1b8e4c9f6662f6bcf25e"
+        },
+        {
+          "ta_id": 425,
+          "norma_id": 485,
+          "sha256_linha_original": "0efac7dacbf343ab449fa69a7cb3cb30c15f453b8df4dbbccfe79d2bdca1cd62"
+        },
+        {
+          "ta_id": 613,
+          "norma_id": 484,
+          "sha256_linha_original": "f0dee27bdfe2e1ca723e77da1671b5296c694f0a226029827fa623b5ffff4284"
+        },
+        {
+          "ta_id": 1018,
+          "norma_id": 452,
+          "sha256_linha_original": "779757e99759584efb74be7a1aab5ca4e82e0a8c7ddb88b4f5df63ed4ae6e258"
+        },
+        {
+          "ta_id": 74,
+          "norma_id": 2293,
+          "sha256_linha_original": "7a154e6a327767e85ad0300938ef62955181362d5a360bd7025022fd25f3c59b"
+        },
+        {
+          "ta_id": 36,
+          "norma_id": 422,
+          "sha256_linha_original": "f381716476d3ef4d67f3504c45634576f88dbdb9e413276cf3618e238f65c979"
+        },
+        {
+          "ta_id": 1082,
+          "norma_id": 2348,
+          "sha256_linha_original": "345b2151a40138df612e04be550e26535915cd8bc815337e9ca92ab165c9503c"
+        },
+        {
+          "ta_id": 250,
+          "norma_id": 413,
+          "sha256_linha_original": "740f87cc8371127febad3972e62cb612e8ad654a0e05ed92ec0f833446e87b1c"
+        },
+        {
+          "ta_id": 424,
+          "norma_id": 399,
+          "sha256_linha_original": "f143a5c272cd3be1035f68b12e52d85273ebc34854a0ad1051fc4d24a2be3a57"
+        },
+        {
+          "ta_id": 423,
+          "norma_id": 380,
+          "sha256_linha_original": "398a44cd63e9e3884f1a35684291d0c3bce4ab4bede6f23accbcfb160ad67613"
+        },
+        {
+          "ta_id": 202,
+          "norma_id": 368,
+          "sha256_linha_original": "38cfe3f05e88bde5a99ce76e17fcb4080518eba8de6920020b035142550dea54"
+        },
+        {
+          "ta_id": 654,
+          "norma_id": 353,
+          "sha256_linha_original": "a20481a7708c6f0acc528309b10eb673d217c74f59a7f17c22e2cc62d5350814"
+        },
+        {
+          "ta_id": 275,
+          "norma_id": 339,
+          "sha256_linha_original": "47610cf595a1ad64723eaf27010a680d8deb7aa7aa496543345ffed6fba11450"
+        },
+        {
+          "ta_id": 469,
+          "norma_id": 301,
+          "sha256_linha_original": "28959842b48a63c1aef02f2eafabe4a41e9ab5fb67fdde1668c5b3dbdd23edbc"
+        },
+        {
+          "ta_id": 1091,
+          "norma_id": 290,
+          "sha256_linha_original": "ea7bf1511d8e0f96c76c4faf7945451d4669bafaaf1fc39920dd7180aa8fe987"
+        },
+        {
+          "ta_id": 1092,
+          "norma_id": 261,
+          "sha256_linha_original": "3e8f46c156e0e6dd52b2dcc623a12091d79b45f1af5d9d2cfd66f23742f73347"
+        },
+        {
+          "ta_id": 256,
+          "norma_id": 244,
+          "sha256_linha_original": "aad07a6a2e7612c7355d81c4be94a8b73849f7092eca16da1caa521cdc9710dc"
+        },
+        {
+          "ta_id": 555,
+          "norma_id": 208,
+          "sha256_linha_original": "f26cf199c0b3cf93456d2c4362dc831e0e7b018cce006fca589ebd74674abe96"
+        },
+        {
+          "ta_id": 31,
+          "norma_id": 206,
+          "sha256_linha_original": "64439de6dac51efd5ce74a2afe7a766e2cac1126630fff2666fb5bf99e97f11e"
+        },
+        {
+          "ta_id": 200,
+          "norma_id": 203,
+          "sha256_linha_original": "59cdd7f363404dbd74b92ddbf77cad470f6b560a0bb1f09ad3d83253019b2890"
+        },
+        {
+          "ta_id": 231,
+          "norma_id": 1484,
+          "sha256_linha_original": "a03c21775592da58ede3f5a7a52b1369c3fdc28a0055b1c042e8203bb568d02d"
+        },
+        {
+          "ta_id": 460,
+          "norma_id": 1487,
+          "sha256_linha_original": "d1390389b6a088259d3743492ead9c78a1e35cc9d52973152ecf7111b3e62394"
+        },
+        {
+          "ta_id": 454,
+          "norma_id": 1486,
+          "sha256_linha_original": "7b6b5e0c6bbd9468072e8106fba1091219ea32e6df55da6f844baa494d0b9eb0"
+        },
+        {
+          "ta_id": 115,
+          "norma_id": 1432,
+          "sha256_linha_original": "8e02fbf4f8beaf6d61de2d709000692be762a670ba195b1f18005c30ffb07e16"
+        },
+        {
+          "ta_id": 612,
+          "norma_id": 1416,
+          "sha256_linha_original": "4d50ef5a1e628011869741cc8a86fdf7b619027e47ffa17cae3d535111383e25"
+        },
+        {
+          "ta_id": 468,
+          "norma_id": 1376,
+          "sha256_linha_original": "18899b77a2b9cb294cc4e294a35bcf85b6839fe44f001cc020f2b5ad8cf3a498"
+        },
+        {
+          "ta_id": 453,
+          "norma_id": 1304,
+          "sha256_linha_original": "549dd2b96dfcd2909c7f529df7356bd07e2b169f98d5a22fada4ad1db47908cc"
+        },
+        {
+          "ta_id": 504,
+          "norma_id": 1243,
+          "sha256_linha_original": "226e71526815ff513eb758b5156f5fbe32b7e40ab5b2030f57e4a6468690523a"
+        },
+        {
+          "ta_id": 26,
+          "norma_id": 326,
+          "sha256_linha_original": "b456a19ecefa82e0a2d08963c72ff741d4fd8a40f0615143d36a6a084cbff959"
+        },
+        {
+          "ta_id": 1008,
+          "norma_id": 1102,
+          "sha256_linha_original": "49db6579cc2f79dbfd29d3ff60d58e89a99cfe052bb313f68b11b315f7cd9cd8"
+        },
+        {
+          "ta_id": 1007,
+          "norma_id": 1101,
+          "sha256_linha_original": "8f6b0cbd9b7857c1f9cd35fdfe41a89683a1b2b35cfb44b716f077db23f6ea28"
+        },
+        {
+          "ta_id": 1005,
+          "norma_id": 1103,
+          "sha256_linha_original": "9290134390d857b94ce02450d56868309a5b7188dfcfa947838226938c7cf203"
+        },
+        {
+          "ta_id": 892,
+          "norma_id": 2086,
+          "sha256_linha_original": "ba5af344da014524529eab356b4b8db564cd08259e13e9b7c44cb21d0760b64b"
+        },
+        {
+          "ta_id": 237,
+          "norma_id": 2039,
+          "sha256_linha_original": "1b33f01c327ec8136f12c1f10d71840d951bc6a4ca6addaebffd3230bc28689f"
+        },
+        {
+          "ta_id": 1003,
+          "norma_id": 1776,
+          "sha256_linha_original": "9f278e0286b5d363ea5a8cc223cc9e5dc3261f96d96ef898c5ae71912165b92a"
+        },
+        {
+          "ta_id": 930,
+          "norma_id": 1775,
+          "sha256_linha_original": "f2a16b8bed78e7cf13d3350f77c04b1de5073a11950e44888f5124f573414c4b"
+        },
+        {
+          "ta_id": 929,
+          "norma_id": 1774,
+          "sha256_linha_original": "6c2f94ebfef9192bce047108e30a96043223235824b19ad38be52ae18ae20f4a"
+        },
+        {
+          "ta_id": 928,
+          "norma_id": 1773,
+          "sha256_linha_original": "5c9cddab7aa4105f66402b3c77f54cbdcdcedc21a3d8115a1cf04f41cc4bb1f3"
+        },
+        {
+          "ta_id": 927,
+          "norma_id": 1772,
+          "sha256_linha_original": "9e1b478c0cdd4a9677518395b4c5fec75500503fe1bf035a5bd94ca9976d4e0d"
+        },
+        {
+          "ta_id": 926,
+          "norma_id": 1771,
+          "sha256_linha_original": "6d550acde41c60ff1de60332439777257a2f3ee396363b8d076a08c3b22597cb"
+        },
+        {
+          "ta_id": 924,
+          "norma_id": 1770,
+          "sha256_linha_original": "901ba058e6776dbfca6e62651d5ce01248ab900c3209710e889207f692dd967e"
+        },
+        {
+          "ta_id": 925,
+          "norma_id": 1769,
+          "sha256_linha_original": "eed37f3ff828d0237dc6855f3952fa094aebb7b7a40230892a5557aa3ba1b79c"
+        },
+        {
+          "ta_id": 919,
+          "norma_id": 1768,
+          "sha256_linha_original": "896a91e6f1a0bbfc8e51248eed41a860ec482c0388b2a01896c78263b8fbcb19"
+        },
+        {
+          "ta_id": 918,
+          "norma_id": 1767,
+          "sha256_linha_original": "6c48beb9b3a761dd9565430ee53c5527b9b91a224a47d4aca1e738f402f7b6bb"
+        },
+        {
+          "ta_id": 917,
+          "norma_id": 1766,
+          "sha256_linha_original": "e29b708ab881548f46d1d9fe595cc37ae3d5fcd78c2662992e4223b7e2145fc7"
+        },
+        {
+          "ta_id": 916,
+          "norma_id": 1765,
+          "sha256_linha_original": "a31fdcf7e9c4062d196d55aa4b4528051ff3da485d3aca3cc9ee1aad108f0f3f"
+        },
+        {
+          "ta_id": 915,
+          "norma_id": 1764,
+          "sha256_linha_original": "cd6bdc439e20ee55461d6ad5db46d08f293ce501378b59dc063d8bff0f6daa6e"
+        },
+        {
+          "ta_id": 914,
+          "norma_id": 1763,
+          "sha256_linha_original": "f76ce0b43583ac0dae780e8487c4853ff901596ba83e1c2b8bbad7826363139d"
+        },
+        {
+          "ta_id": 913,
+          "norma_id": 1762,
+          "sha256_linha_original": "3d396b73835df4ea7774cf389e3b2d41c967adf66c7f98b012500e0d6c8923cf"
+        },
+        {
+          "ta_id": 912,
+          "norma_id": 1761,
+          "sha256_linha_original": "a255a197b1c7e9fa3bffdf583cf32ccec239932a3738d9113aab9f0f3a53c27a"
+        }
+      ]
+    },
+    {
+      "host": "sapl.duasbarras.rj.leg.br",
+      "origem": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.duasbarras.rj.leg.br/resultados.jsonl",
+      "bytes_prefixo": 65170,
+      "sha256_prefixo": "4f755a3ccfb977677cb83465807b7e3b4b5bdef469438fa052ea870489791de8",
+      "candidatos": 10,
+      "snapshot": "municipais/_indice/_recuperacao_20261027/entrada-ta-0024/sapl.duasbarras.rj.leg.br/resultados.jsonl",
+      "sha256_snapshot": "601dc80d1ae74407cade75ca4e5a956408789f60ca810372593a2c3058f9e0d4",
+      "anexos_origem": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.duasbarras.rj.leg.br/anexos-index.json",
+      "sha256_anexos": "5136b5d4a401a7bd164127f6ce5737e0639aac8c3e7a0f243170184f25239734",
+      "tipos_origem": "municipais/_indice/organicas-sapl/sapl.duasbarras.rj.leg.br/c5f1bc77fcc38e6f1d729cfc8cf6dd1751704e584addef26f4240020411fd51a.json",
+      "sha256_tipos": "cfd22980ae652bcf7d4cf21a9656ab7c7fe33af2f16f23a14c2616cf925c8a3b",
+      "linhas": [
+        {
+          "ta_id": 30,
+          "norma_id": 243,
+          "sha256_linha_original": "53e6335634b77de6e26573fac612f9efa3a66d70381eb10cf2933ebcb973e0e6"
+        },
+        {
+          "ta_id": 24,
+          "norma_id": 228,
+          "sha256_linha_original": "a4bb89558e4731afae9d365cf9464bc972a48d24e62b34e6c510feb44fb01589"
+        },
+        {
+          "ta_id": 21,
+          "norma_id": 227,
+          "sha256_linha_original": "261fad3ede1c0c3f99723e699488f32233a6929baf52e54e7980c9500c94af04"
+        },
+        {
+          "ta_id": 18,
+          "norma_id": 225,
+          "sha256_linha_original": "92bc55e29107b489b075f7f18ec9a097ecb9bf33c75305421aae95de92a353ed"
+        },
+        {
+          "ta_id": 34,
+          "norma_id": 249,
+          "sha256_linha_original": "45bc320577770e211e60514571f0745a78abeac47a34e78241917d26689214e6"
+        },
+        {
+          "ta_id": 43,
+          "norma_id": 143,
+          "sha256_linha_original": "441e1baccfd8e8dc819d91bf4ec17ca6e76aee51d1c3003d7684250347d2e634"
+        },
+        {
+          "ta_id": 36,
+          "norma_id": 250,
+          "sha256_linha_original": "8a91ef0d1a81d275431ae955af2e9cb5232eb7de6a55b8adc0cd85d4292d627a"
+        },
+        {
+          "ta_id": 29,
+          "norma_id": 239,
+          "sha256_linha_original": "c8553435d60211fec36d17ed47b1e92e18acdaaeac13a8d9e28165ce50b3a338"
+        },
+        {
+          "ta_id": 25,
+          "norma_id": 226,
+          "sha256_linha_original": "d3c4faab906f5ec0df6d20e00c8e0ecef9cb4b200a82728f37c9b3de37941b8c"
+        },
+        {
+          "ta_id": 42,
+          "norma_id": 260,
+          "sha256_linha_original": "3fad57fe49df445288ad1820762332657eb71821931598918420502722bc4f8d"
+        }
+      ]
+    },
+    {
+      "host": "sapl.durande.mg.leg.br",
+      "origem": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.durande.mg.leg.br/resultados.jsonl",
+      "bytes_prefixo": 14718,
+      "sha256_prefixo": "5707d3cb39eac159bb79b102fcd5036780c1447e55883ccc6dd27eeba5e76f0c",
+      "candidatos": 4,
+      "snapshot": "municipais/_indice/_recuperacao_20261027/entrada-ta-0024/sapl.durande.mg.leg.br/resultados.jsonl",
+      "sha256_snapshot": "55f6ffb14113755f31cd1ab997d287354b0b7cf8aef4b5be84d0790ac2908a15",
+      "anexos_origem": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.durande.mg.leg.br/anexos-index.json",
+      "sha256_anexos": "963b1cf4ba6054c3c9c385833aa251d4392763a3e8200e1b285511a2969dba13",
+      "tipos_origem": "municipais/_indice/organicas-sapl/sapl.durande.mg.leg.br/29d19effd82f348369d40e9394e7d1463921fd8d9a6fc9cd2808a0715ad457ad.json",
+      "sha256_tipos": "587d9f0fb7fbb6a99a3b20f2f3d298b9f5db557419cd49a6f85586659b7c32e1",
+      "linhas": [
+        {
+          "ta_id": 3,
+          "norma_id": 5,
+          "sha256_linha_original": "d9b2befca8a6b0f3b51e233026c34dad9ad3790d2223d785a8fa5264e1f54186"
+        },
+        {
+          "ta_id": 2,
+          "norma_id": 4,
+          "sha256_linha_original": "c01de8ff454d7a98b5ad9a4e80c06a5a2ac0ea0f3292e6b472fa1031897de14a"
+        },
+        {
+          "ta_id": 11,
+          "norma_id": 12,
+          "sha256_linha_original": "1e40638d3608de2b3da50077c10537f7f7b7b81ef4410dc934b26934052a5864"
+        },
+        {
+          "ta_id": 9,
+          "norma_id": 10,
+          "sha256_linha_original": "af31ae18c26bbdadb560c48e016a43192d4177479112b79b868a740c7ac805ab"
+        }
+      ]
+    }
+  ],
+  "exclusoes": [
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0001/resultados.jsonl",
+      "sha256": "cb49d44c92fe2e8f0102be164a449805bff97fcee62248f3da16a5563bc74148",
+      "bytes": 2296001
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0002-v2/resultados.jsonl",
+      "sha256": "2b2730a051cb96a4ff159162e98366a0a4bfc431290aacaa9f15b0b1897e4472",
+      "bytes": 2029160
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0003/resultados.jsonl",
+      "sha256": "fe9d893e621397986d9cb3b0f264d70cf401d36db5f8ee4947e8f9a0a33082fe",
+      "bytes": 3938894
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0004/resultados.jsonl",
+      "sha256": "727700d434820dcd22f5ec9fb9aed079e99e58450a3c18b98cd15eed1a711c32",
+      "bytes": 4174779
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0005/resultados.jsonl",
+      "sha256": "3235bf84baef24f08e4bc7ebf5803fbe3ddab23c3aae882926bc66e7885e2570",
+      "bytes": 3462220
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0006/resultados.jsonl",
+      "sha256": "1d067d4f848aa353b30e6884798f35b5aa9b55f5a9ba3e897367d48dce75ffb1",
+      "bytes": 2894239
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0007/resultados.jsonl",
+      "sha256": "7e9065d204ef26054f26dbb6118b997c2ca789b8fd83286ea74c57a2ff2361a2",
+      "bytes": 2080413
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-piloto-gates-0001/resultados.jsonl",
+      "sha256": "2f3d2a94ffd99335a5c9d782692aaa5b865570ef4f8cced270c94073e15278ae",
+      "bytes": 88917
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/formas-gates-0001/resultados.jsonl",
+      "sha256": "60c71f5205eb437a4c42f289d873ae3b9d4bea6b13a7c00e79337939feb73dfa",
+      "bytes": 601421
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/resultados.jsonl",
+      "sha256": "e02a8d1e15f881485d78bfb6bac0b0a0a7f13ebc35875898b06f22e12fcf9969",
+      "bytes": 4125982
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0002/resultados.jsonl",
+      "sha256": "4a236a292f92deb5da31a24f10e313f93187a130772028803738532174987183",
+      "bytes": 4026389
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0003/resultados.jsonl",
+      "sha256": "a30f0beb3bcdf6410883449224177c20241655bccee8cb845e917c42cfb9a508",
+      "bytes": 4077842
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0004/resultados.jsonl",
+      "sha256": "c4742688d9d15e5c8c53d8dbf43547d565f377bdbabef622fe3e42574678ac28",
+      "bytes": 4915862
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0005/resultados.jsonl",
+      "sha256": "34d785b4180b63f7b735c3cf221ac2e905b01ac6570e8175a4d0c666323e8d6e",
+      "bytes": 3005652
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0006/resultados.jsonl",
+      "sha256": "2df97b04e59b5977127005a710a9cea7d04d81a4b4a4d4f135b218bfffacabd0",
+      "bytes": 2442867
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0007/resultados.jsonl",
+      "sha256": "4c4930cc4e19e5b0c912835b33b61d56c821e718f40a415d39038cf6f31a82b1",
+      "bytes": 3050027
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0008/resultados.jsonl",
+      "sha256": "d92d281e8e8ac10320c86127535c065cd8b5cba4f0f33877d803d6802efb4c16",
+      "bytes": 8643489
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0009/resultados.jsonl",
+      "sha256": "f4039cccc51c6f8b48a556c23e804cb037c8ba55d047e4cd38a573959eb45632",
+      "bytes": 8823594
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0010/resultados.jsonl",
+      "sha256": "747062b23203a4330bc86d01a35a53c94dd3330f717513ab3ed5321bcceca306",
+      "bytes": 9201886
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/resultados.jsonl",
+      "sha256": "d00e56bac03cf106f7ee2182c4797a2b188f1ad73a42d28571c1c7b5a376db3e",
+      "bytes": 1908271
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0012/resultados.jsonl",
+      "sha256": "411f9a9e76c09ec62ef5f3e4f58714de8ab0c32097980ef2097c2b96667ade58",
+      "bytes": 3085873
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0013/resultados.jsonl",
+      "sha256": "e81b1d45cc85bdd1d2f95b63c21e9ba574c6daa2380a27e7495ec9a591118470",
+      "bytes": 3888012
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0014/resultados.jsonl",
+      "sha256": "7ae08befcd3728cdaf5ae4b1c0a123506b7fa25479026b75df5a3a68ace88701",
+      "bytes": 4268026
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0015/resultados.jsonl",
+      "sha256": "27a69317ef9cf93fb11eaf0bda63267183a6c1a44c2d28cdc8d1550564ec7bc7",
+      "bytes": 8054158
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0016/resultados.jsonl",
+      "sha256": "b2d842b5108e0e4d20c7a45d28f80e7d91cab96fed43d2278e036c4d7e87fa22",
+      "bytes": 4219110
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0017/resultados.jsonl",
+      "sha256": "434043a3daaed4f634f5ae038bc07e30e1931a2394968249da6a326408867380",
+      "bytes": 4744040
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/resultados.jsonl",
+      "sha256": "36305a676ed16ad48e6c4bd81ff4dce30d0d70e885cd9472c790b594930a8e35",
+      "bytes": 2543699
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/tabelas-gates-0003/resultados.jsonl",
+      "sha256": "2401e2e10b5b5525b1f74ca700bd6ed3afdd76f8b26a8d58b7910dcda58642c5",
+      "bytes": 16208502
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0001/resultados.jsonl",
+      "sha256": "5932a21d2f981ad60fb193e59905cb200a864ba63fdc6c6b82cdcb2fb4c8a803",
+      "bytes": 1758054
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0002/resultados.jsonl",
+      "sha256": "743684bf7245afe2ce980a1c69e9b9f710145ee757458699075004a2ab54c59b",
+      "bytes": 1777513
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0003/resultados.jsonl",
+      "sha256": "fec8db37da0df80f24d140744fd160a69d7d54e524757678db4fe532b8d32c6b",
+      "bytes": 1777962
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0004/resultados.jsonl",
+      "sha256": "973a23f5b8058ae80a9bc8e50f72f6c139658c2e4e278d5e8ed3b678aecc4eb2",
+      "bytes": 1762208
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0005/resultados.jsonl",
+      "sha256": "c94f3121369d1d538755aa1db82b139844dd2c059620913a05e6672657ac08a7",
+      "bytes": 1778102
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/resultados.jsonl",
+      "sha256": "07d2def1265a88da175c93cce49b1cb0b6e614a39392a8b34298c5077ec67933",
+      "bytes": 4168630
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0002/resultados.jsonl",
+      "sha256": "00b0379793a8cefcc6856103200a894027cc12b4ebaa00a0888624acdeb77924",
+      "bytes": 3494947
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0003/resultados.jsonl",
+      "sha256": "703972bf99466f32af3ea505376726e60953103c80bfcb015b138b322027bada",
+      "bytes": 1101856
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/resultados.jsonl",
+      "sha256": "839b37cdab75de94ecc9f5cb8edaa0a2e6170edb8ef80efcbbe64922b10dee5e",
+      "bytes": 6302980
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001-v2/resultados.jsonl",
+      "sha256": "a4757881e0f7c5cc09735b4607fb9436a2681fc6bbdc9bdc884942ba269b02d0",
+      "bytes": 6162758
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0002/resultados.jsonl",
+      "sha256": "353d1230a0e13fe4e46b88fdb81aff47a12838c7fbb380c8261269e3df03f5ea",
+      "bytes": 6891933
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0006/resultados.jsonl",
+      "sha256": "77fa0bfd91207f69ce1f69b8f288d536fd309260252cbb69eba7992069ea63cc",
+      "bytes": 1794879
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0007/resultados.jsonl",
+      "sha256": "17d885bf36143f9de9ba0b2affb3df2e32a291901a3f825be96461c575a3cbf1",
+      "bytes": 3352085
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0008/resultados.jsonl",
+      "sha256": "40710202641b46c142de773af6e360358bc0ebc342f005fa9ab2ee5efa6b4d53",
+      "bytes": 2455651
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0009/resultados.jsonl",
+      "sha256": "1b47ce849a273d4dc8867137c695a57e05a09daaf1395142e0223a5948143689",
+      "bytes": 3496941
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "sha256": "07c28b7649ab8d2b66e5457dc4a91e301c0ad10f207e14d5f8d5386d9d0f922d",
+      "bytes": 1957520
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "sha256": "88151915faa9eee309d14b21682d66e7df027ce2c06a26be1c4bcb4d1e715400",
+      "bytes": 1825209
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "sha256": "4163cc2ede430d59996828d6c55032be7055f8ac96f55dc7500b36b0bdadecb3",
+      "bytes": 2578228
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012-v2/resultados.jsonl",
+      "sha256": "e2da31dfcdbbbf388ec02f9b311e85f5c88669fc7cd3efda03355694394576ac",
+      "bytes": 2579447
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012-v3/resultados.jsonl",
+      "sha256": "96f11eb8a39c3f95785207414dcb951cd09e7e6775509a143cd97824a18c9d2c",
+      "bytes": 2971372
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0013/resultados.jsonl",
+      "sha256": "938def4e7698e31c7415a6981465ed65dbc789793350b359b499e3381d0fa10b",
+      "bytes": 3932854
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0014/resultados.jsonl",
+      "sha256": "4c3cfeeb0a05b2bb00c0f4cb762fd4f7488aedd8d6f71ab7357ff5b1213ff27b",
+      "bytes": 3800472
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0015/resultados.jsonl",
+      "sha256": "bbf88caafca24ef2881e3c07118ac25262b4c48173aefe57d0e074929364e301",
+      "bytes": 3008632
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0016/resultados.jsonl",
+      "sha256": "b0e76b22e26e2be97db8a67c9bb2d972208287c115aa662250b186ff6f07df9b",
+      "bytes": 2555506
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0017/resultados.jsonl",
+      "sha256": "9579a7eb8988886a89e1ba1c778264f2ce53ce9dab591885b5201ba8a8badf16",
+      "bytes": 2246224
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/resultados.jsonl",
+      "sha256": "64be15e2213da7eafa32b6022b3449299796aa668f859ff87dcd78e55f046a17",
+      "bytes": 8096920
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0008/resultados.jsonl",
+      "sha256": "d133cfa0c781a2b375502106a50242648deba0b8263a90c94014904644345766",
+      "bytes": 2984828
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0020/resultados.jsonl",
+      "sha256": "31acff44e532afca9c66e424f5af09e5a42b2c6a1acf6ce0b5a41ce038815cee",
+      "bytes": 8023816
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0021/resultados.jsonl",
+      "sha256": "2936b9ed3b45a6130e00bb401a7eb8c084819b1bb3f0eeeab28bb47539b70c65",
+      "bytes": 6991616
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/resultados.jsonl",
+      "sha256": "98e1f8df5a1ea8e884d0d231fb8d87eca21986891c7db424842bd5c596a5714e",
+      "bytes": 8359872
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0023/resultados.jsonl",
+      "sha256": "bd2fbc5eef79e6113f6d60fa70a02a9890c1f0586cd9749525d9d94701775fdf",
+      "bytes": 2305888
+    }
+  ],
+  "pendentes": [],
+  "codigo_sha256": "19a2e6e8cef83141b84f9aeeaba4c8bfa29b6920d7708b8ac4ad1ca16da8f79c",
+  "limite": "Entrada privada derivada de linhas originais; não prova catálogo completo, vigência ou publicação. Gates de API municipal, identidade, fonte, contexto, render e dedup continuam obrigatórios."
+}

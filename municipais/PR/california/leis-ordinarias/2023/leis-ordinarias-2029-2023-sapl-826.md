@@ -1,0 +1,245 @@
+---
+titulo: "Lei Ordinária Municipal nº 2.029, de 03 de outubro de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "2029"
+data: "2023-10-03"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/826"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/817/text"
+sha256_fonte: "17f5c697565b522eb89cbc7725616ff637e0d72aceda3f67f1f16e38dcfc29bc"
+sha256_texto: "3ae4bec49d43673f297c21580d12de3bd25108c3119fa05b7e6011dfce30d7a2"
+capturado_em_fonte: "2026-10-27T22:21:08.450254-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 2.029, de 03 de outubro de 2023
+
+Dispõe sobre o Fundo Municipal dos Direitos da Pessoa com Deficiência, de que trata a Lei nº 1855, de 20 de abril de 2021, que Criou o Conselho Municipal dos Direitos da Pessoa com Deficiência de Califórnia - PR, e dá outras providências.
+
+
+Prefeito Municipal de Califórnia – Estado do Paraná, no uso das suas atribuições legais, sanciona a seguinte LEI:
+
+
+Art. 1º.
+
+Fica criado, vinculado à Secretaria de Assistência Social e Cidadania, o Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, de natureza contábil, com o objetivo de gerenciar recursos para a inserção e implementação de programas, projetos e manutenção das atividades relacionadas aos direitos da pessoa com deficiência no Município de Califórnia – PR
+
+
+Parágrafo único
+
+O Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD visa garantir recursos necessários para a implantação de programas, desenvolvimento e manutenção das atividades relacionadas aos direitos da pessoa com deficiência.
+
+
+Art. 2º.
+
+O Conselho Municipal dos Direitos da Pessoa com Deficiência de Califórnia, estabelecerá o percentual de utilização dos recursos orçados pelo Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, e conforme a disponibilidade de recursos os aplicarão nas respectivas áreas, em consonância com as prioridades estipuladas no planejamento anual, e nas ações e projetos constantes do orçamento anual.
+
+
+Art. 3º.
+
+O Fundo Municipal dos Direitos da Pessoa com Deficiência tem por objetivo:
+
+
+I –
+
+financiar programas e ações voltadas à garantia dos direitos das pessoas com deficiência no Município;
+
+
+II –
+
+financiar ações de apoio ao desenvolvimento, estruturação e ampliação dos equipamentos públicos de atendimento à pessoa com deficiência em situação de violência;
+
+
+III –
+
+subsidiar ações de aperfeiçoamento e qualificação dos atendimentos por parte dos profissionais da rede de atendimento à pessoa com deficiência em situação de vulnerabilidade e violência no Município de Califórnia - PR;
+
+
+IV –
+
+apoiar ações promovidas pelo Conselho Municipal dos Direitos da Pessoa com Deficiência;
+
+
+V –
+
+financiar campanhas de conscientização social acerca dos direitos das pessoas com deficiência.
+
+
+Art. 4º.
+
+Constituirão receitas do Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD:
+
+
+I –
+
+dotação atribuída no orçamento municipal;
+
+
+II –
+
+recursos provenientes dos Fundos Estadual e Federal dos Direitos da Pessoa com Deficiência;
+
+
+III –
+
+doações, auxílios e contribuições de terceiros feitos diretamente ao fundo;
+
+
+IV –
+
+recursos financeiros oriundos do governo federal, estadual ou municipal, ou de outros órgãos públicos ou instituições privadas, nacionais ou estrangeiras, de pessoas físicas ou jurídicas;
+
+
+V –
+
+rendas eventuais, inclusive as resultantes de depósitos e aplicações de capital;
+
+
+VI –
+
+outros recursos que lhe forem destinados legalmente.
+
+
+§ 1º
+
+Poderão ser consignadas na Lei de Diretriz Orçamentária e na Lei Orçamentária Anual dotações orçamentárias próprias destinadas ao Fundo Municipal dos Direitos da Pessoa com Deficiência – FMDPCD.
+
+
+§ 2º
+
+Os recursos arrecadados e/ou recebidos em transferência pelo Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD serão depositados em instituições oficiais, em conta específica e CNPJ sob denominação de Fundo Municipal dos Direitos da Pessoa com Deficiência.
+
+
+Art. 5º.
+
+São atribuições dos gestores do Fundo:
+
+
+I –
+
+administrar o Fundo e estabelecer as diretrizes para o plano de ação e aplicação dos recursos em conjunto com o Conselho Municipal dos Direitos da Pessoa com Deficiência - CMDPCD;
+
+
+II –
+
+analisar e decidir, juntamente com o Conselho Municipal dos Direitos da Pessoa com Deficiência -, sobre a realização de programas, projetos ou serviços de interesse da pessoa com deficiência;
+
+
+III –
+
+submeter ao Conselho Municipal dos Direitos da Pessoa com Deficiência as demonstrações mensais de receita e despesa do Fundo e o relatório das atividades relacionadas;
+
+
+IV –
+
+encaminhar à contabilidade geral do Município as demonstrações mensais de receita e de despesa do Fundo;
+
+
+V –
+
+manter os controles necessários à execução orçamentária do Fundo referente empenhos, liquidação e pagamentos de despesas e recebimento de receitas.
+
+
+Art. 6º.
+
+O orçamento do Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, integrará a dotação orçamentária da Secretaria Municipal de Assistência Social e Cidadania.
+
+
+Art. 7º.
+
+O orçamento do Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, integrará a dotação orçamentária da Secretaria Municipal de Assistência Social e Cidadania.
+
+
+I –
+
+Disponibilidade monetária em bancos ou aplicações financeiras oriundas das receitas;
+
+
+II –
+
+Direitos que porventura vierem constituir;
+
+
+III –
+
+Bens imóveis e móveis, com ou sem ônus, destinados à execução dos programas e projetos do Plano Anual de Ação dos Direitos da Pessoa com Deficiência.
+
+
+Parágrafo único
+
+Anualmente se processará o inventário dos bens e direitos vinculados ao Fundo Municipal dos Direitos da Pessoa com Deficiência.
+
+
+Art. 8º.
+
+Constituem passivos do Fundo, as obrigações de qualquer natureza que porventura o Município venha assumir, de comum acordo com o Conselho Municipal dos Direitos da Pessoa com Deficiência para a manutenção e a implementação dos programas, projetos e serviços municipais de promoção, proteção e defesa dos Direitos da Pessoa com Deficiência de Califórnia.
+
+
+Art. 9º.
+
+A Contabilidade do Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, tem por objetivo evidenciar a situação financeira, patrimonial e orçamentária do próprio Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, observados os padrões e normas estabelecidas na legislação.
+
+
+Art. 10.
+
+A Contabilidade do Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, tem por objetivo evidenciar a situação financeira, patrimonial e orçamentária do próprio Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, observados os padrões e normas estabelecidas na legislação.
+
+
+§ 1º
+
+A Contabilidade do Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, tem por objetivo evidenciar a situação financeira, patrimonial e orçamentária do próprio Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, observados os padrões e normas estabelecidas na legislação.
+
+
+§ 2º
+
+A Contabilidade do Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, tem por objetivo evidenciar a situação financeira, patrimonial e orçamentária do próprio Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, observados os padrões e normas estabelecidas na legislação.
+
+
+Art. 11.
+
+A Contabilidade do Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, tem por objetivo evidenciar a situação financeira, patrimonial e orçamentária do próprio Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, observados os padrões e normas estabelecidas na legislação.
+
+
+I –
+
+A Contabilidade do Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, tem por objetivo evidenciar a situação financeira, patrimonial e orçamentária do próprio Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, observados os padrões e normas estabelecidas na legislação.
+
+
+II –
+
+A Contabilidade do Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, tem por objetivo evidenciar a situação financeira, patrimonial e orçamentária do próprio Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, observados os padrões e normas estabelecidas na legislação.
+
+
+III –
+
+A Contabilidade do Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, tem por objetivo evidenciar a situação financeira, patrimonial e orçamentária do próprio Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, observados os padrões e normas estabelecidas na legislação.
+
+
+IV –
+
+A Contabilidade do Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, tem por objetivo evidenciar a situação financeira, patrimonial e orçamentária do próprio Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, observados os padrões e normas estabelecidas na legislação.
+
+
+V –
+
+A Contabilidade do Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, tem por objetivo evidenciar a situação financeira, patrimonial e orçamentária do próprio Fundo Municipal dos Direitos da Pessoa com Deficiência - FMDPCD, observados os padrões e normas estabelecidas na legislação.
+
+
+Art. 12.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Califórnia, 03 de outubro de 2023
+
+PAULO WILSON MENDES
+
+Prefeito
+

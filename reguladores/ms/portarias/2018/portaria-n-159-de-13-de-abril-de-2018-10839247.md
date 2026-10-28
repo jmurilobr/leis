@@ -1,0 +1,32 @@
+---
+titulo: "PORTARIA Nº 159, DE 13 DE ABRIL DE 2018"
+orgao: "Ministério da Saúde/Secretaria de Gestão do Trabalho e da Educação na Saúde"
+tipo: "Portaria"
+numero: "159"
+data: 2018-04-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 18/04/2018, seção 1, p. 98"
+data_publicacao: 2018-04-18
+edicao: "74"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-159-de-13-de-abril-de-2018-10839247"
+sha256_html_fonte: 9069c0e9a7d61ca2b09264981011173c360e192c38d10b7dcbe8da3cda2bf307
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 159, DE 13 DE ABRIL DE 2018
+
+PORTARIA Nº 159, DE 13 DE ABRIL DE 2018
+
+Altera o Anexo da Portaria nº 560/SGTES/MS, de 26 de dezembro de 2016, que divulga a lista dos nomes e respectivos registros únicos de médicos intercambistas participantes do Projeto Mais Médicos para
+
+O SECRETÁRIO DE GESTÃO DO TRABALHO E DA EDUCAÇÃO NA SAÚDE, no uso da atribuição que lhe confere o art. 56, do Anexo I do Decreto nº 8.901, de 10 de novembro de 2016, e das atribuições pertinentes ao Projeto Mais Médicos para o Brasil, nos termos do art. 16, § 3º, da Lei nº 12.871, de 22 de outubro de 2013, do art. 1º, § 1º, do Decreto nº 8.126, de 22 de outubro de 2013, e dos arts. 6º e 7º da Portaria nº 2.477/GM/MS, de 22 de outubro de 2013, resolve:
+
+**Art. 1º** O Anexo da Portaria nº 560/SGTES/MS, de 26 de dezembro de 2016, passa a vigorar com as alterações constantes no anexo desta portaria.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+ROGÉRIO LUIZ ZERAIK ABDALLA
+
+## ANEXO
+
+<table><tr></tr><tr><td><p>PROCESSO</p></td><td><p>NOME</p></td><td><p>RMS</p></td><td><p>UF</p></td><td><p>MUNICÍPIO</p></td></tr><tr><td><p>25000.193213/2016-72</p></td><td><p>LEANDRIS ALMIRA CUENCA</p></td><td><p>2301232</p></td><td><p>CE</p></td><td><p>PENTECOSTE</p></td></tr></table>

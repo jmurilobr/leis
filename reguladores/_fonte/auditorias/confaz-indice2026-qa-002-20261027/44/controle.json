@@ -1,0 +1,96 @@
+{
+  "numero_indice": 44,
+  "ano_indice": 2026,
+  "fonte": {
+    "arquivo": "reguladores/_fonte/auditorias/confaz-indice2026-captura-001-20261027/c5c9bc7300551ed6991dbd34dfe5549cb14e1c3748cf5bc9ccb73595ce2e8eea.html",
+    "metadata": "reguladores/_fonte/auditorias/confaz-indice2026-captura-001-20261027/c5c9bc7300551ed6991dbd34dfe5549cb14e1c3748cf5bc9ccb73595ce2e8eea.meta.json",
+    "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV044_26",
+    "url_final": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV044_26",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 23:00:11 GMT",
+      "Server": "Zope/(2.13.22, python 2.7.3, linux2) ZServer/1.1",
+      "X-Cache-Operation": "plone.app.caching.moderateCaching",
+      "Content-Language": "pt-br",
+      "Expires": "Sat, 29 Oct 2016 21:04:01 GMT",
+      "Vary": "Accept-Encoding",
+      "X-Ua-Compatible": "IE=edge,chrome=1",
+      "X-Cache-Rule": "plone.content.itemView",
+      "Content-Type": "text/html;charset=utf-8",
+      "Cache-Control": "max-age=0, s-maxage=0, must-revalidate",
+      "X-Varnish": "438133096 438107955",
+      "Via": "1.1 varnish",
+      "X-Cache": "HIT",
+      "X-Varnish-Age": "3371",
+      "Age": "0",
+      "Transfer-Encoding": "chunked"
+    },
+    "categoria": "html",
+    "sha256": "323edabaec1160a27cbfbaa02c0df5d0998d9d8e8c395784ee63e66d26438c46",
+    "bytes": 112502,
+    "capturado_em_cliente": "2026-10-27T20:00:12.214022-03:00",
+    "inicio_requisicao": "2026-10-27T20:00:11.637452-03:00",
+    "ssl_verify_result": 0,
+    "headers_arquivo": "reguladores/_fonte/auditorias/confaz-indice2026-captura-001-20261027/c5c9bc7300551ed6991dbd34dfe5549cb14e1c3748cf5bc9ccb73595ce2e8eea.headers",
+    "stderr_arquivo": "reguladores/_fonte/auditorias/confaz-indice2026-captura-001-20261027/c5c9bc7300551ed6991dbd34dfe5549cb14e1c3748cf5bc9ccb73595ce2e8eea.stderr"
+  },
+  "estado": "retido",
+  "css": {
+    "css_capturados": [
+      "https://www.confaz.fazenda.gov.br/++theme++custom/css/style.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/base-cachekey-7fe23631c792beb0db30931a4ae02a97.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/confaz-print.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/embedder-cachekey-828ecc01dce09625ab9cacea3089e2ea.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/estilos_leis.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/jquery.autocomplete-cachekey-59fbd2a5fc6773a864adabd685eb1ee4.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/mobile-cachekey-1cc23e6e0f0a9f6be71ec18201c3a16e.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/ploneCustom-cachekey-bde1d13299199e784e65560bebf1e385.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/reset-cachekey-616583c06c3943a72f9f969a1240fbf8.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourceProducts.Doormat.stylesheetsdoormat-cachekey-ab318da4bb3f5c97abc64bb1453da10a.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcebrasil.gov.agendaagenda-cachekey-0b9b457891daf70874b650666229b581.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcebrasil.gov.barracssmain-cachekey-b8678e7b9f5de2c3db8378c7faa229fa.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcebrasil.gov.tilestiles-cachekey-08106e5424b0cd9b17b1c56aa9d8a2c0.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcecalendar_stylescalendar-cachekey-ab87c47333464a5f1d4a22f5f4f9f144.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcecollective.nitfcharcount-cachekey-964c273a546fb8d92d505f365c035a97.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcecollective.uploadcssbootstrap.min-cachekey-f3505dfe9331657bc329aeabdbd210fb.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-b7f1245ffe10632ff3183a40e45e945b.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete-cachekey-8a1ada68d10450ed014103370f01e143.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.querystring.querywidget-cachekey-5ee55ca46052729481269d2ce2efecfe.css"
+    ],
+    "regras_sensiveis": 94,
+    "riscos_aplicaveis": [],
+    "incompletos": [],
+    "criterio": "CSS completos e imports capturados; tinycss2/cssselect2 sobre a árvore HTML5 completa, incluindo ancestrais. Regras sensíveis são conservadoramente retidas; não se infere revogação de todo ato."
+  },
+  "identidade": {
+    "tipo": "Convênio ICMS",
+    "numero": 44,
+    "ano": 2026,
+    "data": "2026-04-06",
+    "epigrafe_normalizada": "CONVENIO ICMS NO 44, DE 6 DE ABRIL DE 2026"
+  },
+  "historico_identificado": [
+    {
+      "classe": "A8-2RemissaoAnt",
+      "texto_literal": "Redação anterior dada ao caput da cláusula primeira pelo Conv. ICMS 55/26, efeitos de 14.05.26. a 28.05.26.",
+      "criterio": "Rótulo ou classe editorial da própria fonte identifica redação anterior/original; não é inferência de revogação do ato."
+    },
+    {
+      "classe": "A8-3RedacaoAnt",
+      "texto_literal": "Cláusula primeira Os Estados do Acre, Alagoas, Amapá, Espírito Santo, Mato Grosso do Sul, Piauí, Rio Grande do Sul, Sergipe e Tocantins e o Distrito Federal ficam autorizados a instituir transação resolutiva de litígios na área administrativa relativa à cobrança de créditos tributários decorrentes do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, sob a administração da Secretaria de Estado de Fazenda, de acordo com as disposições deste convênio.",
+      "criterio": "Rótulo ou classe editorial da própria fonte identifica redação anterior/original; não é inferência de revogação do ato."
+    },
+    {
+      "classe": "A8-2RemissaoAnt",
+      "texto_literal": "Redação original, efeitos até 13.05.26",
+      "criterio": "Rótulo ou classe editorial da própria fonte identifica redação anterior/original; não é inferência de revogação do ato."
+    },
+    {
+      "classe": "A8-3RedacaoAnt",
+      "texto_literal": "Cláusula primeira Os Estados do Acre, Alagoas, Amapá, Mato Grosso do Sul, Piauí, Rio Grande do Sul, Sergipe e Tocantins e o Distrito Federal ficam autorizados a instituir transação resolutiva de litígios na área administrativa relativa à cobrança de créditos tributários decorrentes do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, sob a administração da Secretaria de Estado de Fazenda, de acordo com as disposições deste convênio.",
+      "criterio": "Rótulo ou classe editorial da própria fonte identifica redação anterior/original; não é inferência de revogação do ato."
+    }
+  ],
+  "versao": "Compilação com redações anteriores/originais identificadas pela fonte; retida até modo explícito de versões.",
+  "motivo": "ValueError: Histórico declarado pela fonte exige versão e tratamento próprios; igualdade textual não libera o caso"
+}

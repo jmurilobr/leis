@@ -1,0 +1,54 @@
+---
+titulo: "PORTARIA Nº 757, DE 27 DE MARÇO DE 2018"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "757"
+data: 2018-03-27
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 28/03/2018, seção 1, p. 129"
+data_publicacao: 2018-03-28
+edicao: "60"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-757-de-27-de-marco-de-2018-8252748"
+sha256_html_fonte: 5887a3c7f2966d5d39c5332d9ffb60fc05176c0b9d214b76af4fdf77f401bddd
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 757, DE 27 DE MARÇO DE 2018
+
+PORTARIA Nº 757, DE 27 DE MARÇO DE 2018
+
+O MINISTRO DE ESTADO DA SAÚDE, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, e
+
+Considerando a Lei Complementar nº 141, de 13 de janeiro de 2012, que regulamenta o § 3º do art. 198 da Constituição Federal para dispor sobre os valores mínimos a serem aplicados anualmente pela União, Estados, Distrito Federal e Municípios em ações e serviços públicos de saúde; estabelece os critérios de rateio dos recursos de transferências para a saúde e as normas de fiscalização, avaliação e controle das despesas com saúde nas 3 (três) esferas de governo; revoga dispositivos das Leis nos 8.080, de 19 de setembro de 1990, e 8.689, de 27 de julho de 1993, e dá providências;
+
+Considerando o Decreto nº1.232, de 30 de agosto de 1994, que dispõe sobre as condições e a forma de repasse regular e automático de recursos do Fundo Nacional de Saúde para os Fundos de Saúde Estaduais, Municipais e do Distrito Federal;
+
+Considerando o Decreto nº 7.507, de 27 de junho de 2011, que dispõe sobre a movimentação de recursos federais transferidos a Estados, Distrito Federal e Municípios, em decorrência das leis citadas;
+
+Considerando o Art. 11, inciso VI do Título II da Portaria de Consolidação nº 06/GM/MS, de 28 de setembro de 2017, que apresenta o Componente PAB Variável destinado ao financiamento de estratégias, realizadas no âmbito da atenção básica em saúde - Incentivo para a Atenção Integral à Saúde do Adolescente em Conflito com a Lei, em regime de internação e internação provisória;
+
+Considerando a necessidade de um financiamento federal diferenciado para a implementação da Atenção à Saúde dos Adolescentes em conflito com a Lei, conforme Anexo XVII, da Portaria de Consolidação nº 02/GM/MS, de 28 de setembro de 2017 e Seção V, capítulo II da Portaria de Consolidação nº 06/GM/MS, de 28 de setembro de 2017;
+
+Considerando o Art. 129 da Seção V, capitulo II da Portaria de Consolidação nº 06/GM/MS, de 28 de setembro de 2017, que institui o incentivo financeiro de custeio para o desenvolvimento de ações de atenção integral à Saúde de adolescentes em privação de liberdade, a ser repassado pelo Ministério da Saúde, com o objetivo de complementar o financiamento das ações de atenção integral à saúde dessa população; e
+
+Considerando o preenchimento dos requisitos e o envio de documentação previsto no Art. 25 do Anexo XVII, da Portaria de Consolidação nº 02/GM/MS, de 28 de setembro de 2017, resolve:
+
+**Art. 1º** Fica habilitado o município de Rio do Sul (SC) até o teto físico/financeiro constante no Anexo a esta Portaria, a receber o Incentivo para Atenção Integral à Saúde de Adolescentes em Conflito com a Lei, conforme indicado no Plano Operativo Municipal.
+
+**§ 1º** A transferência de recursos será baseada no limite financeiro correspondente ao número de adolescentes por unidade de internação, internação provisória e semiliberdade, conforme os critérios previstos no Art. 130 da Seção V, capítulo II da Portaria de Consolidação nº 06/GM/MS, de 28 de setembro de 2017.
+
+**§2º** Os recursos serão repassados mensalmente conforme Art. 130 da Seção V, capítulo II da Portaria de Consolidação nº 06/GM/MS, de 28 de setembro de 2017.
+
+**Art. 2º** Os recursos orçamentários de que trata a presente Portaria serão plurianuais e correrão à conta do orçamento do Ministério da Saúde, onerando o programa de trabalho 10.301.2015.219A - Promoção da Atenção Básica em Saúde PO: 0001.
+
+**Art. 3°** O Fundo Nacional de Saúde adotará as medidas necessárias para a transferência regular e automática dos recursos para o Fundo Municipal de Saúde de Rio do Sul (SC).
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+RICARDO BARROS
+
+## ANEXO
+
+INCENTIVOS FINANCEIROS PARA A ATENÇÃO À SAÚDE DE ADOLESCENTES EM CONFLITO COM A LEI, EM REGIME DE INTERNAÇÃO, INTERNAÇÃO PROVISÓRIA E SEMILIBERDADE.
+
+<table><tr></tr><tr><td><p>UF</p></td><td><p>Município</p></td><td><p>Unidade</p></td><td><p>Tipo de medida socioeducativa</p></td><td><p>Gestão</p></td><td><p>Total de Adolescentes</p></td><td><p>Valor total a ser repassado mensalmente</p></td></tr><tr><td><p>SC</p></td><td><p>Rio do Sul</p></td><td><p>CASEP Rio do Sul</p></td><td><p>Internação provisória</p></td><td><p>Municipal</p></td><td><p>05</p></td><td><p>R$ 7.486,50</p></td></tr></table>

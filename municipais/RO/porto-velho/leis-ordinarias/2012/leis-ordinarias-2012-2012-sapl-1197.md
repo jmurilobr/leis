@@ -1,0 +1,135 @@
+---
+titulo: "Lei nº 2.012, de 23 de maio de 2012"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2012"
+data: "2012-05-23"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/1197"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/2923/text"
+sha256_fonte: "fdf55cac9d48feaace3c6886c517eb909b622f4323ab39d8794835a752930c73"
+sha256_texto: "b6b1941d77bd52cd0a7b547c6dd2aea6e9b6fbf348006b4f726d4c3f9da16138"
+capturado_em_fonte: "2026-10-27T21:08:58.397847-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 2.012, de 23 de maio de 2012
+
+“Cria o Programa de Residência Médica e Residência Multiprofissional no âmbito da Secretaria Municipal de Saúde – SEMUSA, e dá outras providências”.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando das atribuições que lhe são conferidas pelo artigo 87, no inciso IV, da Lei Orgânica do Município de Porto Velho,
+
+**FAZ SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte
+
+**LEI:**
+
+
+Art. 1º.
+
+Fica autorizada a criação dos Programas de Residência Médica (PRM) e Residência Multiprofissional, no âmbito da Secretaria Municipal de Saúde – SEMUSA, em regime especial de treinamento em serviço, com carga horária de 60 (sessenta) horas semanais, em consonância com a grade curricular de cada curso, aprovada previamente pela coordenação de Residência Médica e Residência Multiprofissional.
+
+
+Parágrafo único
+
+O Programa de Residência Médica autorizado será implantado na Maternidade Municipal Mãe Esperança, com expansão de implementação em toda a rede municipal de saúde e instituições filantrópicas.
+
+
+Art. 2º.
+
+O Programa de Residência Médica terá como objeto a implantação de programas de formação de residência médica inicialmente nas áreas de ginecologia e obstetrícia, devendo ser implantado em nível de Residente 1, Residente 2 e Residente 3, podendo ser ampliado para outras especialidades, de acordo com a compatibilidade de organização dos serviços.
+
+
+Art. 3º.
+
+A SEMUSA garantirá o funcionamento dos Programas de Residências, coordenando a implantação e organização nas unidades executoras, juntamente com a Comissão Municipal de Residência Médica e Multiprofissional.
+
+
+Art. 4º.
+
+Os programas de residências serão voltados para o cidadão residente no território nacional, portador do diploma com habilitação legal para atuar no território brasileiro.
+
+
+Art. 5º.
+
+O ingresso do residente dar-se-á mediante concurso público com divulgação nacional, de acordo com as normas vigentes da Comissão Nacional de Residência Médica.
+
+
+Art. 6º.
+
+O médico residente receberá a bolsa de estudo no valor estabelecido em lei federal, de acordo com o artigo 4º da Lei nº 6.932, de 07 de julho de 1981, com nova redação dada pela lei 12.514, de 28 de outubro de 2011, devendo acompanhar ajustes em âmbito nacional, conforme edital e financiamento do Ministério da saúde.
+
+
+Parágrafo único
+
+Fica a Secretaria Municipal de Saúde – SEMUSA, autorizada a conceder ajuda de custo, conforme exigência do § 5º, inciso III, do artigo 4º, da Lei Federal nº 6.932, de 7 de julho de 1981, com nova redação dada pela lei 12.514, de 28 de outubro de 2011, na ordem de um salário mínimo aos residentes admitidos no Programa de Residência da Secretaria Municipal de Saúde – SEMUSA, durante o período de duração do programa, desde que regularmente matriculado e devidamente comprovada a necessidade pelo residente.
+
+
+Art. 7º.
+
+A SEMUSA e a Universidade Federal de Rondônia serão responsáveis pela seleção do corpo docente/preceptor para os programas de residência.
+
+
+Parágrafo único
+
+A SEMUSA será responsável pelos Preceptores para execução dos programas, os quais serão compostos pelo corpo clínico das unidades municipais onde ocorrerão os programas de residência, sendo inicialmente, a Maternidade Municipal “Mãe Esperança”.
+
+
+Art. 8º.
+
+Para fins de execução do Programa de Residência Médica e Multiprofissional, fica criada a Coordenação Municipal dos Programas de Residência Médica (COMUREME) e das coordenações dos programas de residência de cada unidade (COREMEs) e Residência Multiprofissional (COREMUP) no âmbito da Secretaria Municipal de Saúde de Porto Velho, responsável por organizar, dirigir e orientar as residências, bem como supervisionar seus programas.
+
+
+Art. 9º.
+
+A Coordenação Municipal dos Programas de Residência Médica (COMUREME); coordenações dos programas de residência de cada unidade (COREMEs) e Residência Multiprofissional (COREMUP) abrangem:
+
+
+1
+
+Coordenador Geral;
+
+
+2
+
+Coordenador Pedagógico;
+
+
+3
+
+Comissão Executiva;
+
+
+4
+
+Coordenador administrativo.
+
+
+Parágrafo único
+
+Os cargos poderão ser preenchidos por candidatos indicados pela SEMUSA e UNIR.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**ROBERTO EDUARDO SOBRINHO**
+
+**Prefeito do Município**
+
+WILLIAMES PIMENTEL DE OLIVEIRA
+
+Secretário Municipal de Saúde
+
+SALATIEL LEMOS VALVERDE
+
+Procurador Geral do Município
+

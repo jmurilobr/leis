@@ -1,0 +1,129 @@
+---
+titulo: "Lei Ordinária nº 1.031, de 19 de julho de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1031"
+data: "2023-07-19"
+municipio: "Conceição do Coité"
+uf: "BA"
+codigo_ibge: "2908408"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.conceicaodocoite.ba.leg.br/norma/218"
+fonte_texto: "https://sapl.conceicaodocoite.ba.leg.br/ta/203/text"
+sha256_fonte: "4d662fd23a4f1b0755dc7b0bc5e1032e2b8f5f253a8c3d08fa2157f0d3f138dd"
+sha256_texto: "becb0a3892ceb4bc4377bcecd433e37bd3b2894770110e7c1a3e8226c6652beb"
+capturado_em_fonte: "2026-10-27T23:15:44.889039-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.031, de 19 de julho de 2023
+
+Dispõe sobre a criação do Museu Municipal Maria Neves de Freitas - Maria Palheira.
+
+
+**O PREFEITO MUNICIPAL DE CONCEIÇÃO DO COITÉ, ESTADO DA BAHIA.**
+
+Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte
+
+**LEI**
+
+
+Art. 1º.
+
+Fica instituído o Museu Municipal Maria Neves de Freitas - Maria Palheira, com atribuições e organização prevista nesta Lei.
+
+
+Parágrafo único
+
+O Museu Municipal é órgão integrante Secretaria Municipal de Educação, Cultura e Esporte responsável pelos recursos para sua manutenção.
+
+
+Art. 2º.
+
+O Museu Municipal tem como objetivos a conservação e a divulgação, para fins de preservação, estudo, pesquisa, educação, contemplação e turismo, de conjuntos e coleções de valor histórico, artístico, científico, técnico ou de qualquer outra natureza cultural do Município de Conceição do Coité e de todo território do sisal, abertas ao público, a serviço da sociedade e de seu desenvolvimento.
+
+
+§ 1º
+
+Compete ao Museu Municipal:
+
+
+I –
+
+arquivar e salvaguardar documentações relacionadas a antigos moradores, que fizeram parte do contexto histórico do município e do território do sisal, com a finalidade de divulgar e preservar a memória da região;
+
+
+II –
+
+restaurar e conservar objetos histórico-culturais pertencentes ao acervo ou que venham a ser doados ou cedidos;
+
+
+III –
+
+elaborar campanhas de doação de objetos histórico-culturais;
+
+
+IV –
+
+realizar exposições locais e/ou itinerantes.
+
+
+V –
+
+promover palestras, oficinas, mini-cursos, formações e eventos de contexto histórico-cultural;
+
+
+VI –
+
+poderá realizar exposições de natureza intercultural, abarcando exposições de peças e artefatos de outros entes da federação, bem como de outros países.
+
+
+§ 2º
+
+Para os fins previstos no caput, fica o município de Conceição do Coité autorizado a receber doações e empréstimos de acervos e objetos histórico-culturais, desde que a título gratuito e sem contrapartidas, na forma e pelos prazos que os instrumentos específicos próprios venham oportunamente a regular.
+
+
+Art. 3º.
+
+O Município adotará providências para registrar o Museu Municipal no Instituto do Patrimônio Artístico e Cultural da Bahia – IPAC, bem como no Instituto de Patrimônio Histórico e Artístico Nacional – IPHAN, órgão específico de acompanhamento dos Museus nacionais, para supervisão e elaboração de políticas públicas para a execução dos Planos Museológicos.
+
+
+Art. 4º.
+
+O município concederá recursos orçamentários para a conservação e manutenção dos objetos do museu.
+
+
+Art. 5º.
+
+O Município poderá ceder servidores públicos municipais para desempenharem suas funções junto ao Museu Municipal, em jornada integral ou parcial, na forma da Lei n.º 133, de 23 de dezembro de 1996.
+
+
+Art. 6º.
+
+O Poder Executivo, nos termos do parágrafo único do art.15, da Lei Federal n.º 11.904, de 14 de janeiro de 2009, que “institui o Estatuto de Museus e dá outras providências”, fica autorizado a celebrar convênios, termos de cooperação ou instrumentos congêneres, com entidades públicas ou instituições privadas, objetivando viabilizar a instalação, gestão, manutenção e desenvolvimento das atividades do Museu Municipal.
+
+
+Art. 7º.
+
+Esta Lei será regularizada por decreto do Poder Executivo.
+
+
+Art. 8º.
+
+Fica revogada integralmente a Lei n.º 971, de 01 de abril de 2022.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal,  
+Conceição do Coité, 19 de julho de 2023.
+
+**MARCELO PASSOS DE ARAÚJO**  
+Prefeito Municipal
+

@@ -1,0 +1,337 @@
+---
+titulo: "Lei nº 1.919, de 23 de dezembro de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1919"
+data: "2010-12-23"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/1338"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/3021/text"
+sha256_fonte: "94b65e4ba59ab3ce2b49fff301768fc512b784037e26a25e6967558b47f08860"
+sha256_texto: "32de9d875256a0a47eb101b4d430151dc6ab725a9263584ae078ad113b35fc43"
+capturado_em_fonte: "2026-10-27T21:15:08.396834-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.919, de 23 de dezembro de 2010
+
+“Dispõe sobre a Permissão a Título Precário de Uso das Áreas Públicas de Lazer e das Vias de Circulação, para a Constituição de Loteamentos Fechados no Município de Porto Velho, e dá outras providencias.”
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no inciso III, do art. 87 da Lei Orgânica do Município de Porto Velho,
+
+**FAÇO SABER** que a Câmara Municipal de Porto Velho aprovou e eu sanciono a seguinte.
+
+**LEI:**
+
+
+Art. 1º.
+
+Fica admitida a implantação de loteamentos com perímetro fechado e acesso controlado, caracterizando-se pela adoção de acessos privativos e de muros delimitadores, ou de outro sistema de tapagem admitido pela Administração Municipal, que se separam da malha viária urbana ou da área rural adjacente.
+
+
+§ 1º
+
+Os loteamentos fechados terão a área com acesso controlado com dimensão máxima de 600.000m2 (seiscentos mil metros quadrados), admitindo-se empreendimentos contíguos, apenas a critério da Administração Municipal, devendo o empreendedor interessado em qualquer hipótese, apresentar Estudo Prévio de Impacto de Vizinhança (EIV), Estudo Prévio de Impacto de Trânsito (EIT) e Estudo de Impacto Ambiental (EIA).
+
+
+§ 2º
+
+Para os loteamentos fechados admite-se comprimento de quadras de até 300m (trezentos metros) e largura mínima de 50m (cinquenta metros)
+
+
+Art. 2º.
+
+Observadas as diretrizes viárias, será admitida a implantação de loteamentos fechados na Zona Urbana e de Expansão Urbana do Município de Porto Velho, salvo em empreendimentos com áreas superiores a 30.000 m2 (trinta mil metros quadrados) que serão admitidos apenas na Zona de Uso Especial e na Zona de Expansão Urbana do Município de Porto Velho, devendo o interessado atender as diretrizes do sistema viário do órgão competente e apresentar Estudo Prévio de Impacto de Vizinhança (EIV), Estudo Prévio de Impacto de Trânsito (EIT) e Estudo de Impacto Ambiental (EIA).
+
+
+Art. 3º.
+
+Nos loteamentos fechados, as áreas destinadas a uso público, incluindo vias de circulação, serão incorporadas ao patrimônio público municipal, situadas ou não internamente ao perímetro com acesso controlado.
+
+
+§ 1º
+
+Sobre as áreas situadas internamente ao perímetro com acesso controlado recairá regime de permissão de uso por prazo determinado em favor da Associação dos Proprietários, podendo ser revogada a qualquer tempo pela Prefeitura Municipal, se houver necessidade devidamente comprovada, e sem implicar em ressarcimento de qualquer natureza.
+
+
+§ 2º
+
+A permissão de uso será outorgada à Associação dos Proprietários independentemente de licitação.
+
+
+§ 3º
+
+As áreas situadas internamente ao perímetro com acesso controlado são consideradas bens de uso exclusivo do loteamento fechado, cuja manutenção competirá à Associação dos Proprietários enquanto mantido o regime de permissão de uso.
+
+
+§ 4º
+
+As áreas públicas de lazer e as vias de circulação que serão objeto de permissão de uso por tempo determinado, deverão ser definidas pela Administração Municipal por ocasião da aprovação do loteamento, aprovado de acordo com as exigências da Lei Federal n° 6.766 de 19 de dezembro de 1979 e das demais exigências das legislações estaduais e municipais.
+
+
+§ 5º
+
+A permissão de uso das áreas públicas de lazer e das vias de circulação somente será autorizada quando os loteadores submeterem a administração das mesmas à Associação dos Proprietários, constituída sob a forma de pessoa jurídica de direito privado, com explícita definição de responsabilidade para aquela finalidade.
+
+
+Art. 4º.
+
+Observado o disposto no art. 18 da Lei Complementar nº 97, de 29 de dezembro de 1999, as áreas verdes e de equipamentos comunitários, definidas por ocasião do projeto de loteamento, deverão obedecer as seguintes disposições:
+
+
+I –
+
+uma parte correspondente no mínimo a 55% (cinquenta e cinco por cento), sobre a qual não incidirá permissão de uso, deverá estar situada externamente ao loteamento, contígua ao mesmo.
+
+
+II –
+
+as áreas destinadas para fins institucionais e verdes, sobre as quais não incidirá permissão de uso, nos termos previstos na Legislação Federal, serão definidas por ocasião do projeto do loteamento e serão mantidas sob responsabilidade da Associação dos Proprietários, que exercerá, supletivamente, a defesa da utilização prevista no projeto, até que a Prefeitura exerça plenamente esta função.
+
+
+Art. 5º.
+
+Fica a Prefeitura Municipal autorizada a permitir o uso de que trata o artigo 1º, nos seguintes termos:
+
+
+I –
+
+a permissão de uso e a aprovação do loteamento fechado serão formalizados por decreto do Poder Executivo;
+
+
+II –
+
+a outorga da permissão de uso deverá constar do Registro do Loteamento no Cartório de Registro de Imóveis;
+
+
+III –
+
+no decreto de outorga da permissão de uso deverão constar todos os encargos relativos à manutenção e à conservação dos bens públicos em causa;
+
+
+IV –
+
+no decreto constará que qualquer outra utilização das áreas públicas será objeto de autorização específica da Administração Direta da Prefeitura Municipal.
+
+
+Art. 6º.
+
+Será de inteira responsabilidade da Associação dos Proprietários a obrigação de desempenhar:
+
+
+I –
+
+os serviços de manutenção das árvores e poda, quando necessário;
+
+
+II –
+
+a manutenção e conservação das vias públicas de circulação, do calçamento e da sinalização de trânsito das vias internas ao loteamento e vias externas num raio de 5km;
+
+
+III –
+
+a coleta e remoção de lixo domiciliar que deverá ser depositado na portaria onde houver recolhimento da coleta pública;
+
+
+IV –
+
+limpeza das vias públicas internas;
+
+
+V –
+
+prevenção de sinistros;
+
+
+VI –
+
+manutenção e conservação da rede de iluminação pública;
+
+
+VII –
+
+garantia da ação livre e desimpedida das autoridades e entidades públicas que zelam pela segurança e bem estar da população;
+
+
+VIII –
+
+outros serviços que se fizerem necessários.
+
+
+Parágrafo único
+
+A Associação de Proprietários poderá a fim de dar cumprimento às obrigações previstas neste artigo e sob sua responsabilidade, firmar convênios ou contratar com órgãos públicos ou entidades privadas.
+
+
+Art. 7º.
+
+Caberá à Prefeitura Municipal a responsabilidade pela determinação, aprovação e fiscalização das obras de manutenção dos bens públicos.
+
+
+Art. 8º.
+
+Quando a Associação dos Proprietários se omitir na prestação dos serviços previstos no art. 6º, ou houver desvirtuamento da utilização das áreas públicas, a Prefeitura Municipal de Porto Velho os assumirá, determinando o seguinte:
+
+
+I –
+
+perda do caráter de loteamento fechado;
+
+
+II –
+
+pagamento de multa correspondente a 0,5 (zero vírgula cinco)UPF/m² de terreno, aplicável a cada proprietário de lote pertencente ao loteamento fechado.
+
+
+Parágrafo único
+
+Quando a Prefeitura Municipal determinar a retirada das benfeitorias tais como fechamentos, portarias e outros esses serviços serão de responsabilidade dos proprietários. Se não executados nos prazos determinados, serão realizados pela Prefeitura, cabendo à Associação dos Proprietários o ressarcimento de seus custos.
+
+
+Art. 9º.
+
+Será permitido à Associação dos Proprietários controlar o acesso à área fechada do loteamento.
+
+
+Art. 10.
+
+As despesas do fechamento do loteamento, bem como toda a sinalização que vier a ser necessária em virtude de sua implantação, serão de responsabilidade da Associação dos Proprietários.
+
+
+Art. 11.
+
+As disposições construtivas e os parâmetros de ocupação do solo a serem observados para edificações nos lotes de terrenos deverão atender às exigências definidas pelo zoneamento da área onde o loteamento estiver localizado.
+
+
+Art. 12.
+
+Após a publicação do decreto de outorga da permissão de uso, a utilização das áreas públicas internas ao loteamento, respeitados os dispositivos legais vigentes, poderão ser objeto de regulamentação própria da entidade representada pela Associação dos Proprietários, enquanto perdurar a citada permissão de uso.
+
+
+Art. 13.
+
+Quando da descaracterização de loteamento fechado com abertura ao uso público das áreas objeto de permissão de uso, as mesmas passarão a reintegrar normalmente o sistema viário e de lazer do Município, bem como as benfeitorias nelas executadas, sem qualquer ônus, sendo que a responsabilidade pela retirada do muro de fechamento e pelos encargos decorrentes será da Associação dos Proprietários respectivos.
+
+
+Parágrafo único
+
+Se por razões urbanísticas for necessário intervir nos espaços públicos sobre os quais incide a permissão de uso segundo esta Lei, não caberá à Associação dos Proprietários qualquer indenização ou ressarcimento por benfeitorias eventualmente afetadas.
+
+
+Art. 14.
+
+A permissão de uso das áreas públicas de lazer e das vias de circulação poderá ser total ou parcial em loteamentos já existentes que se situarem exclusivamente em Zona de Expansão Urbana, desde que:
+
+
+I –
+
+haja a anuência de 50% (cinqüenta por cento) mais 01 (um) dos proprietários dos lotes inseridos na porção objeto do fechamento;
+
+
+II –
+
+o fechamento não venha a interromper o sistema viário da região;
+
+
+III –
+
+100% (cem por cento) dos equipamentos urbanos institucionais não possam ser objeto de fechamento, sendo considerados comunitários os equipamentos públicos de educação, cultura, saúde, lazer e similares;
+
+
+IV –
+
+sejam obedecidas, no que couber, as exigências constantes desta Lei.
+
+
+§ 1º
+
+Os loteamentos que foram fechados sem a devida permissão de uso das áreas públicas, e encontrarem-se em situação irregular deverão se enquadrar nas exigências constantes desta Lei.
+
+
+§ 2º
+
+Os loteamentos referidos no § 1º terão prazo de 180 (cento e oitenta) dias para sua regularização, sob pena de aplicação de multa igual a 0,3 (zero virgula três)UPF/m² de terreno, a cada proprietário de lote pertencente ao loteamento, por dia de permanência em situação irregular, após expirado o prazo estipulado.
+
+
+Art. 15.
+
+As penalidades previstas no artigo 8º e no § 2º do artigo 14 desta Lei serão processadas através de Auto de Infração e Multa que deverá ser lavrado com clareza, sem omissões, ressalvas e entrelinhas e deverá constar obrigatoriamente:
+
+
+I –
+
+data da lavratura;
+
+
+II –
+
+nome e localização do loteamento;
+
+
+III –
+
+descrição dos fatos e elementos que caracterizam a infração;
+
+
+IV –
+
+dispositivo legal infringido;
+
+
+V –
+
+penalidade aplicável;
+
+
+VI –
+
+assinatura, nome legível, cargo e matrícula da autoridade fiscal que constatou a infração e lavrou o auto.
+
+
+Parágrafo único
+
+Após a lavratura do Auto de Infração, será instaurado o processo administrativo contra o infrator, providenciando-se, se ainda não tiver ocorrido, a sua intimação pessoal, ou por via postal com aviso de recebimento ou por edital publicado no Diário Oficial do Município.
+
+
+Art. 16.
+
+Caberá impugnação do Auto de Infração e a imposição de penalidade, a ser apresentada pelo autuado, junto ao serviço de protocolado da Prefeitura Municipal, no prazo de 15 (quinze) dias, contados da data da lavratura do auto, sob pena de revelia.
+
+
+Art. 17.
+
+A decisão definitiva que impuser ao autuado a pena de multa ou a perda do caráter de loteamento fechado deverá ser cumprida no prazo de 10 (dez) dias contados da data da notificação.
+
+
+Art. 18.
+
+As Associações de Proprietários permissionárias afixarão em lugar visível na(s) entrada(s) do loteamento fechado, placa(s) com os seguintes dizeres:
+
+
+-(denominação do loteamento) PERMISSÃO DE USO REGULAMENTADA PELO DECRETO (n° e data) NOS TERMOS DA LEI MUNICIPAL (n° e ano) OUTORGADA À (razão social da Associação, n° do CNPJ e/ou Inscrição Municipal).
+
+
+Art. 19.
+
+Fica o Poder Executivo autorizado a regulamentar a presente Lei, no que couber, no prazo de 90 (noventa) dias.
+
+
+Art. 20.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**ROBERTO EDUARDO SOBRINHO**  
+Prefeito do Município
+
+**MARIO JONAS FREITAS GUTERRES**  
+Procurador Geral do Município
+

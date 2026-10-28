@@ -1,0 +1,62 @@
+---
+titulo: "Lei nº 1.342, de 23 de março de 2016"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1342"
+data: "2016-03-23"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/378"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/849/text"
+sha256_fonte: "46d2805d977c5aff9b1ed0948e577cb624063fb6246f3eb2f51f816c7ee994c8"
+sha256_texto: "6c252e6573242caa720bf0636ae3e8dd0b1f5cc08315baa3d18ceffea93151cf"
+capturado_em_fonte: "2026-10-27T19:56:51.228887-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.342, de 23 de março de 2016
+
+Abre crédito adicional especial no importe de R$713.969,00(setecentos e treze mil, novecentos sessenta e nove reais) e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE BURITIS, Estado de Minas Gerais, no uso da atribuição que lhe confere, faz saber que a Câmara Municipal de Buritis, decreta e ele, em seu nome, sanciona e promulga a seguinte lei:
+
+
+Art. 1º.
+
+Fica aberto crédito especial adicional às dotações da Lei Orçamentária Anual n.º 1337, de 17 de dezembro de 2015 no valor de R$ R$713.969,00(setecentos e treze mil, novecentos sessenta e nove reais), distribuídos nas seguintes dotações:
+
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td colspan="2"><strong>PROJETO/ATIVIDADE</strong></td><td><strong>FICHA</strong></td><td><strong>VALOR</strong><br><strong>ORÇADO</strong></td><td><strong>VALOR</strong><br><strong>TOTAL</strong></td></tr><tr><td><strong>03.01.01.02.062.0002.2259</strong></td><td colspan="3"><strong>Manutenção dos Serviços de</strong><br><strong>Assessoria Jurídica</strong></td><td rowspan="9"><strong>R$</strong><br><strong>51.000,00</strong></td></tr><tr><td>3.1.90.04.00</td><td>Contratação por Tempо<br>Determinado</td><td>868</td><td>R$<br>1.000,00</td></tr><tr><td>3.3.90.14.00</td><td>Diárias - Pessoal Civil</td><td>869</td><td>R$<br>1.000,00</td></tr><tr><td>3.3.90.30.00</td><td>Material de consumo</td><td>870</td><td>R$<br>1.000,00</td></tr><tr><td>3.3.90.33.00</td><td>Passagens e Despesas com<br>Locomoção</td><td>871</td><td>R$<br>1.000,00</td></tr><tr><td>3.3.90.35.00</td><td>Serviços de Consultoria</td><td>872</td><td>R$<br>40.000,00</td></tr><tr><td>3.3.90.36.00</td><td>Outros Serviços de Terceiros -<br>Pessoa Física</td><td>873</td><td>R$<br>1.000,00</td></tr><tr><td>3.3.90.39.00</td><td>Outros Serviços de Terceiros -<br>Pessoa Jurídica</td><td>874</td><td>R$<br>5.000,00</td></tr><tr><td>3.3.90.93.00</td><td>Indenizações e Restituições</td><td>875</td><td>R$<br>1.000,00</td></tr><tr><td><strong>03.01.01.04.122.0002.2260</strong></td><td colspan="3"><strong>Manutenção de Atividades dos</strong><br><strong>Serviços Administrativos do</strong><br><strong>IPREB</strong></td><td rowspan="10"><strong>R$</strong><br><strong>132.600,00</strong></td></tr><tr><td>3.1.90.04.00</td><td>Contratação por Tempо<br>Determinado</td><td>876</td><td>R$<br>21.600,00</td></tr><tr><td>3.1.90.11.00</td><td>Vencimentos E Vantagens Fixas -<br>Pessoal Civil</td><td> </td><td>R$<br>59.000,00</td></tr><tr><td>3.3.90.14.00</td><td>Diárias - Pessoal Civil</td><td>877</td><td>R$<br>8.000,00</td></tr><tr><td>3.3.90.30.00</td><td>Material de consumo</td><td>878</td><td>R$<br>8.000,00</td></tr><tr><td>3.3.90.33.00</td><td>Passagens e Despesas com<br>Locomoção</td><td>879</td><td>R$<br>4.000,00</td></tr><tr><td>3.3.90.35.00</td><td>Serviços de Consultoria</td><td>880</td><td>R$<br>8.000,00</td></tr><tr><td>3.3.90.36.00</td><td>Outros Serviços de Terceiros -<br>Pessoa Física</td><td>881</td><td>R$<br>8.000,00</td></tr><tr><td>3.3.90.39.00</td><td>Outros Serviços de Terceiros -<br>Pessoa Jurídica</td><td>882</td><td>R$<br>15.000,00</td></tr><tr><td>3.3.90.93.00</td><td>Indenizações e Restituições</td><td>883</td><td>R$<br>1.000,00</td></tr><tr><td><strong>03.01.01.04.123.0002.2261</strong></td><td><strong>Manutenção das Atividades dos</strong><br><strong>Serviços da Tesouraria do</strong><br><strong>IPREB</strong></td><td> </td><td> </td><td rowspan="9"><strong>R$</strong><br><strong>29.300,00</strong></td></tr><tr><td>3.1.90.04.00</td><td>Contratação por Tempо<br>Determinado</td><td>884</td><td>R$<br>1.000,00</td></tr><tr><td>3.1.90.11.00</td><td>Vencimentos E Vantagens Fixas -<br>Pessoal Civil</td><td>885</td><td>R$<br>14.300,00</td></tr><tr><td>3.3.90.14.00</td><td>Diárias - Pessoal Civil</td><td>886</td><td>R$6.000,00</td></tr><tr><td>3.3.90.30.00</td><td>Material de consumo</td><td>887</td><td>R$<br>1.000,00</td></tr><tr><td>3.3.90.33.00</td><td><p>Passagens e Despesas com<br>Locomoção</p></td><td>888</td><td><p> </p> R$<br>3.000,00 <p> </p></td></tr><tr><td>3.3.90.36.00</td><td>Outros Serviços de Terceiros -<br>Pessoa Física</td><td>889</td><td>R$<br>1.000,00</td></tr><tr><td>3.3.90.39.00</td><td>Outros Serviços de Terceiros -<br>Pessoa Jurídica</td><td>890</td><td>R$<br>2.000,00</td></tr><tr><td>3.3.90.93.00</td><td>Indenizações e Restituições</td><td>891</td><td>R$<br>1.000,00</td></tr><tr><td><strong>03.01.01.04.124.0002.2262</strong></td><td><strong>Manutenção de Atividades dos</strong><br><strong>Serviços de Contabilidade do</strong><br><strong>IPREB</strong></td><td> </td><td> </td><td rowspan="2"> </td></tr><tr><td>3.1.90.11.00</td><td>Vencimentos E Vantagens Fixas -<br>Pessoal Civil</td><td>892</td><td>R$<br>1.000,00</td></tr><tr><td>3.1.90.04.00</td><td>Contratação por Tempо<br>Determinado</td><td>893</td><td>R$<br>27.000,00</td><td rowspan="8"><strong>RS</strong><br><strong>62.000,00</strong></td></tr><tr><td>3.3.90.14.00</td><td>Diárias - Pessoal Civil</td><td>894</td><td>R$<br>2.000,00</td></tr><tr><td>3.3.90.30.00</td><td>Material de consumo</td><td>895</td><td>R$<br>4.000,00</td></tr><tr><td>3.3.90.33.00</td><td>Passagens e Despesas com<br>Locomoção</td><td>896</td><td>R$<br>1.000,00</td></tr><tr><td>3.3.90.35.00</td><td>Serviços de Consultoria</td><td>897</td><td>R$<br>20.000,00</td></tr><tr><td>3.3.90.36.00</td><td>Outros Serviços de Terceiros -<br>Pessoa Física</td><td>898</td><td>R$<br>1.000,00</td></tr><tr><td>3.3.90.39.00</td><td>Outros Serviços de Terceiros -<br>Pessoa Jurídica</td><td>899</td><td>R$<br>5.000,00</td></tr><tr><td>3.3.90.93.00</td><td>Indenizações e Restituições</td><td>900</td><td>R$<br>1.000,00</td></tr><tr><td><strong>03.01.01.04.124.0002.2263</strong></td><td><strong>Manutenção de Atividades dos</strong><br><strong>Serviços do Controle Interno do</strong><br><strong>IPREB</strong></td><td> </td><td> </td><td rowspan="13"><strong>R$</strong><br><strong>378.000,00</strong></td></tr><tr><td>3.1.90.04.00</td><td>Contratação por Tempо<br>Determinado</td><td>901</td><td>R$<br>27.000,00</td></tr><tr><td>3.3.90.14.00</td><td>Diárias - Pessoal Civil</td><td>902</td><td>R$<br>1.000,00</td></tr><tr><td>3.3.90.30.00</td><td>Material de consumo</td><td>903</td><td>R$<br>1.000,00</td></tr><tr><td>3.3.90.33.00</td><td>Passagens e Despesas com<br>Locomoção</td><td>904</td><td>R$<br>1.000,00</td></tr><tr><td>3.3.90.36.00</td><td>Outros Serviços de Terceiros -<br>Pessoa Física</td><td>905</td><td>R$<br>1.000,00</td></tr><tr><td>3.3.90.39.00</td><td>Outros Serviços de Terceiros -<br>Pessoa Jurídica</td><td>906</td><td>R$<br>2.000,00</td></tr><tr><td>3.3.90.93.00</td><td>Indenizações e Restituições</td><td>907</td><td>R$<br>1.000,00</td></tr><tr><td><strong>03.01.01.09.272.0002.2264</strong></td><td>Serviços de Divisão de Benefícios<br>do IPREB</td><td> </td><td> </td></tr><tr><td>3.1.90.01.00</td><td>Aposentadoria, Reserva<br>Remunerada e Reformas</td><td>908</td><td>R$<br>360.000,00</td></tr><tr><td>3.1.90.03.00</td><td>Pensões</td><td>909</td><td>R$<br>6.000,00</td></tr><tr><td>3.1.90.05.00</td><td>Outros Benefícios Previdenciários</td><td>910</td><td>R$<br>2.000,00</td></tr><tr><td>3.3.90.08.00</td><td>Outros Beneficios Assistenciais</td><td>911</td><td>R$<br>10.000,00</td></tr><tr><td><strong>03.01.01.04.122.0002.1161</strong></td><td><strong>Aquisição de Equipamentos e</strong><br><strong>Material Permanente para o</strong><br><strong>IPREB</strong></td><td> </td><td> </td><td rowspan="2"><strong>RS</strong><br><strong>20.000,00</strong></td></tr><tr><td>4.4.90.52.00</td><td>Equipamentos e Material<br>Permanente</td><td>912</td><td>R$<br>20.000,00</td></tr><tr><td><strong>99.999.9999.9002</strong></td><td><strong>Reserva de Contingência / Res.</strong><br><strong>RPPS</strong></td><td> </td><td> </td><td rowspan="2"><strong>R$</strong><br><strong>7.069,00</strong></td></tr><tr><td>9.9.99.99.00</td><td>Reserva de Contingência ou Reserva RPPS</td><td>913</td><td>R$<br>7.069,00</td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td colspan="2"><strong>TOTAL</strong></td><td> </td><td> </td><td> </td></tr></tbody></table>
+
+
+Art. 2º.
+
+Como recurso à abertura do Crédito Especial no art. 1°, deste Projeto de Lei, ficam anuladas, parcial e ou totalmente, as seguintes dotações vigentes, conforme art. 43,§ 1°, III da Lei 4.320/64, no valor de R$ 713.969,00( Setecentos e treze mil, novecentos e sessenta e nove reais).
+
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td colspan="2"><strong>PROJETO / ATIVIDADE</strong></td><td><strong>FICHA</strong></td><td><strong>VALOR</strong><br><strong>ORÇADΟ</strong></td><td><strong>VALOR</strong><br><strong>TOTAL</strong></td></tr><tr><td><strong>02.02.01.04.122.0003.2013</strong></td><td colspan="3"><strong>Manutenção de Atividades</strong><br><strong>Administrativas SEMAP</strong></td><td rowspan="3"><strong>RS</strong><br><strong>100.000,00</strong></td></tr><tr><td>3.1.91.13.00</td><td>Obrigações Patronais(IntraOrçamentárias)</td><td>77</td><td>R$<br>100.000,00</td></tr><tr><td> </td><td> </td><td> </td><td> </td></tr></tbody></table>
+
+
+<table><tbody><tr><td colspan="2"><strong>PROJETO / ATIVIDADE</strong></td><td><strong>FICHA</strong></td><td><strong>VALOR</strong><br><strong>ORÇADΟ</strong></td><td><strong>VALOR</strong><br><strong>TOTAL</strong></td></tr><tr><td><strong>02.02.01.25.752.0003.2025</strong></td><td colspan="3"><strong>Manutenção de Atividades com</strong><br><strong>Serviços de Iluminação Pública</strong><br><strong>(COSIP)</strong></td><td rowspan="3"><strong>RS</strong><br><strong>100.000,00</strong></td></tr><tr><td>3.3.90.39.00</td><td>Outros Serviços de Terceiros - Pessoa<br>Jurídica</td><td>144</td><td>R$<br>100.000,00</td></tr><tr><td> </td><td> </td><td> </td><td> </td></tr></tbody></table>
+
+
+<table><tbody><tr><td colspan="2"><strong>PROJETO / ATIVIDADE</strong></td><td><strong>FICHA</strong></td><td><strong>VALOR</strong><br><strong>ORÇADΟ</strong></td><td><strong>VALOR</strong><br><strong>TOTAL</strong></td></tr><tr><td><strong>02.04.02.12.361.0006.20</strong><br><strong>38</strong></td><td colspan="3"><strong>Administração do Ensino</strong><br><strong>Fundamental</strong></td><td rowspan="3"><strong>R$</strong><br><strong>513.969,00</strong></td></tr><tr><td>3.1.91.13.00</td><td>Obrigações Patronais (IntraOrçamentárias</td><td>207</td><td>R$<br>513.969,00</td></tr><tr><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td><strong>TOTAL</strong></td><td> </td><td><strong>R$</strong></td><td><strong>R$</strong><br><strong>713.969,00</strong></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Buritis - MG, 23 de março de 2016.
+
+**João José Alves de Souza Prefeito Municipal**
+
+Referente à Proposição de Lei nº 004, de 22 de MARÇO de 2016.
+

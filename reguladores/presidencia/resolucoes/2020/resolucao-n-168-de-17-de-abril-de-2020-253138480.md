@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO Nº 168, DE 17 DE ABRIL DE 2020"
+orgao: "Presidência da República/Casa Civil/Comitê Gestor da Infraestrutura de Chaves Públicas"
+tipo: "Resolução"
+numero: "168"
+data: 2020-04-17
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 20/04/2020, seção 1, p. 4"
+data_publicacao: 2020-04-20
+edicao: "75"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-n-168-de-17-de-abril-de-2020-253138480"
+sha256_html_fonte: f96214e2d5f86cbc6471ed8ac79291222ca46528443c355a17399d9be5969864
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO Nº 168, DE 17 DE ABRIL DE 2020
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO Nº 168, DE 17 DE ABRIL DE 2020</p><p class="ementa">Ampliação dos prazos para as providências após a notificação do deferimento de AC e ACT.</p><p class="dou-paragraph" ><strong class="dou-strong" >O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,</strong>no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Interno, torna público que o COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA, no exercício das competências previstas no art. 4º da Medida Provisória nº 2.200-2, de 24 de agosto de 2001, em plenária virtual encerrada em 17 de abril de 2020, resolveu:</p><p class="dou-paragraph" >Art. 1º Esta Resolução amplia os prazos para as providências após a notificação do deferimento de AC e ACT.</p><p class="dou-paragraph" >Art. 2º O anexo II da Resolução nº 151, de 30 maio de 2019, DOC-ICP-03, passa a vigorar com as seguintes alterações:</p><p class="dou-paragraph" >".................................................................................................................................</p><p class="dou-paragraph" >2.2.2.3.3 Após a notificação do deferimento, o requisitante deverá:</p><p class="dou-paragraph" >a) apresentar à Diretoria de Auditoria, Fiscalização e Normalização do ITI, no prazo máximo de 90 (noventa) dias após a notificação do deferimento, apólice de contrato de seguro de cobertura de responsabilidade civil decorrente das atividades de certificação digital e de registro, com cobertura suficiente e compatível com o risco dessas atividades, válido por, no mínimo, 1 (um) ano;</p><p class="dou-paragraph" >b) emitir o certificado da AC credenciada e de sua LCR, os quais devem ser apresentados à Diretoria de Auditoria, Fiscalização e Normalização do ITI, no prazo máximo de 90 (noventa) dias após a notificação do deferimento, para análise de conformidade e posterior publicação no site do ITI.</p><p class="dou-paragraph" >...........................................................................................................................................</p><p class="dou-paragraph" >..........................................................................................................................................</p><p class="dou-paragraph" >2.2.4.3.2 Após a notificação do deferimento, o requisitante deverá:</p><p class="dou-paragraph" >a) apresentar à Diretoria de Auditoria, Fiscalização e Normalização do ITI, no prazo máximo de 90 (noventa) dias após a notificação do deferimento, apólice de contrato de seguro de cobertura de responsabilidade civil decorrente da atividade de emissão de carimbos do tempo, com cobertura suficiente e compatível com o risco dessa atividade, válido por, no mínimo, 1 (um) ano;</p><p class="dou-paragraph" >b) emitir os certificados para os equipamentos da ACT, por AC credenciada na ICP-Brasil, os quais devem ser apresentados à Diretoria de Auditoria, Fiscalização e Normalização do ITI, no prazo máximo de 90 (noventa) dias após a notificação do deferimento, para análise de conformidade.</p><p class="dou-paragraph" >..........................................................................................................................................</p><p class="dou-paragraph" >..........................................................................................................................................</p><p class="dou-paragraph" >" (NR)</p><p class="dou-paragraph" >Art. 3º Fica aprovada a versão 6.2 do documento DOC-ICP-03 - CREDENCIAMENTO DAS ENTIDADES INTEGRANTES DA ICP-BRASIL.</p><p class="dou-paragraph" >Art. 4º Esta Resolução entra em vigor em 4 de maio de 2020.</p><p class="assina">THIAGO MEIRELLES FERNANDES PEREIRA</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

@@ -1,0 +1,38 @@
+
+/* - ploneCustom.css - */
+@media all {
+/* https://www.confaz.fazenda.gov.br/portal_css/ploneCustom.css?original=1 */
+#plone-contentmenu-workflow .state-provisorio {
+background-color: #ffa500;
+border: 0.1em solid #ffa500;
+border-radius: 0.5em;
+color: White !important;
+padding: 0 0.5em;
+}
+.state-provisorio {
+color: #ffa500 !important;
+}
+#plone-contentmenu-workflow .state-definitivo {
+background-color: #436976;
+border: 0.1em solid #436976;
+border-radius: 0.5em;
+color: White !important;
+padding: 0 0.5em;
+}
+.state-definitivo {
+color: #436976 !important;
+}
+#plone-contentmenu-workflow .state-invalido {
+background-color: red;
+border: 0.1em solid red;
+border-radius: 0.5em;
+color: White !important;
+padding: 0 0.5em;
+}
+.state-invalido {
+color: red !important;
+}
+/* */
+
+}
+

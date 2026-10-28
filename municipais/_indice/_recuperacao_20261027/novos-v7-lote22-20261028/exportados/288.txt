@@ -1,0 +1,68 @@
+---
+titulo: "Lei Ordinária-CMCN nº 4.053, de 01 de dezembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4053"
+data: "2025-12-01"
+municipio: "Currais Novos"
+uf: "RN"
+codigo_ibge: "2403103"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.curraisnovos.rn.leg.br/norma/4123"
+fonte_texto: "https://sapl.curraisnovos.rn.leg.br/ta/7/text"
+sha256_fonte: "a3568612fa818ca97f797d2d7b17ae6e07014091b252edcf2d21a44e8989332d"
+sha256_texto: "a4c1ac6f35c124ebc4c6b20775631f2ec47c6927ee32bc36f560930f9f558ebe"
+capturado_em_fonte: "2026-10-28T09:42:11.323670-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-CMCN nº 4.053, de 01 de dezembro de 2025
+
+Dispõe sobre a garantia de que agressores de mulheres não possam assumir cargos públicos no município de Currais Novos, e dá outras providências.
+
+
+O PREFEITO DO MUNICÍPIO DE CURRAIS NOVOS, no uso de suas atribuições legais.
+
+
+Faço saber que a Câmara Municipal de Currais Novos aprovou o Projeto de Lei nº 046/2025, de autoria do Vereador Ycleyber Trajano da Silva, e EU sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica vedada, no âmbito da administração pública direta e indireta do Município de Currais Novos/RN, a nomeação, contratação ou investidura, a qualquer título, em cargo público efetivo, comissionado ou função pública, de pessoa condenada, em decisão transitada em julgado ou proferida por órgão judicial colegiado, por crime de violência contra a mulher, nos termos da legislação vigente.
+
+
+Art. 2º.
+
+A vedação de que trata esta Lei aplica-se às hipóteses em que a condenação criminal tenha sido proferida por crime de violência física, psicológica, sexual, moral ou patrimonial, praticado contra mulher, conforme previsto na Lei Federal nº 11.340/2006 (Lei Maria da Penha) e demais normas aplicáveis.
+
+
+Art. 3º.
+
+A proibição prevista nesta Lei vigorará enquanto persistirem os efeitos da condenação penal, nos termos da sentença ou da legislação específica.
+
+
+Art. 4º.
+
+A administração pública municipal deverá exigir, como condição para investidura em cargo ou função pública, a apresentação de certidões negativas de antecedentes criminais, expedidas pelos órgãos competentes da Justiça Federal e Estadual, abrangendo, no mínimo, os crimes praticados contra a mulher.
+
+
+Art. 5º.
+
+O descumprimento do disposto nesta Lei implicará a nulidade do ato de nomeação, contratação ou designação, sem prejuízo da apuração de responsabilidade administrativa, civil e penal do agente responsável.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+Prefeitura Municipal de Currais Novos/RN, Palácio Prefeito “Raul Macêdo”, em 1º de dezembro de 2025.
+
+***LUCAS GALVÃO DA CRUZ***
+
+Prefeito Municipal
+

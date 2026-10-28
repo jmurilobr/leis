@@ -1,0 +1,23 @@
+from pathlib import Path
+import json,os,hashlib
+base=Path('_fonte/operacao_root_20261027');processed=set();controls=[]
+for p in sorted(Path('scripts/dados').glob('dou-cache-*.json')):
+ o=json.loads(p.read_text());n=0
+ for field in ['documentos','retidos']:
+  for r in o.get(field,[]):
+   if isinstance(r,dict) and r.get('path'):processed.add(r['path']);n+=1
+ controls.append({'path':str(p),'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),'registros':n})
+tracked=set((base/'constituicao-index-reguladores-head-v9-20261027.z').read_text().split('\0'))
+
+paths=[];unprocessed=0
+for parent,dirs,files in os.walk('reguladores'):
+ dirs[:]=[d for d in dirs if not d.startswith(('_','.'))]
+ for name in files:
+  if not name.endswith('.md'):continue
+  p=str(Path(parent)/name)
+  if p in tracked or p in processed:continue
+  unprocessed+=1
+  with open(p,'rb') as f:head=f.read(16384)
+  if b'fonte: "https://www.in.gov.br/' in head:paths.append(p)
+paths.sort();out=base/'dou-candidatos-novos-v4-20261027.json';assert not out.exists();out.write_text(json.dumps(paths,ensure_ascii=False,indent=2)+'\n')
+p=base/'dou-inventario-novo-v4-20261027.json';assert not p.exists();p.write_text(json.dumps({'candidatos_dou':len(paths),'privados_nao_processados_todas_fontes':unprocessed,'caminhos_auditorias_anteriores':len(processed),'controles':controls,'criterio':'Enumeracao de documentos privados ainda nao auditados; exclui HEAD real v9 e todos os caminhos das auditorias anteriores. Registros retidos anteriores continuam preservados para recuperacao separada. Filtro de cabecalho apenas para roteamento; fontes/cabecalhos completos exigidos na auditoria.'},ensure_ascii=False,indent=2)+'\n');print(len(paths),'candidatos DOU novos; privado restante todas fontes',unprocessed,flush=True)

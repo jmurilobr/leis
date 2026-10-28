@@ -1,0 +1,29 @@
+from pathlib import Path
+import json,hashlib,subprocess,importlib.util,os,sys
+sha=lambda b:hashlib.sha256(b).hexdigest();root=Path.cwd();mp=Path('scripts/estados/manifestos/se-LOA8963-proposta-individual-20261027-001.json');m=json.loads(mp.read_bytes());h={}
+mapfile=Path('estaduais/SE/_fonte/auditorias/loa8963-privado-20261027-001/final/hashes.json');d=json.loads(mapfile.read_bytes());rows=d['arquivos'] if 'arquivos' in d else [{'path':p,'sha256':s} for p,s in d.items()]
+for r in rows:
+ p,s=r['path'],r['sha256'];assert sha(Path(p).read_bytes())==s,p;h[p]=s
+h[str(mapfile)]=sha(mapfile.read_bytes())
+proof=json.loads(Path('scripts/estados/manifestos/se-LOA8963-replay-root-20261027.json').read_bytes());assert proof['falhas']==0 and proof['PDF']['total_paginas']==522
+control=Path('estaduais/SE/_fonte/auditorias/loa8963-ROOT-dedup-20261027');assert not control.exists();control.mkdir()
+spec=importlib.util.spec_from_file_location('se311_qa','scripts/estados/snapshots/se311_promocao_20261027_001/promover_se311.py');helper=importlib.util.module_from_spec(spec);spec.loader.exec_module(helper);head,heads=helper.ler_HEAD(root,control);assert len(heads)==10410;raw=Path(m['documento']['privado']).read_bytes();meta,_=helper.metadata(raw);helper.conferir_dedup(heads,[{'path':m['documento']['path'],'meta':meta}]);assert meta['revogada'] is None
+pending=[]
+for r,skey in [(m['documento'],'sha256_md'),(m['anexo'],'sha256')]:
+ p=Path(r['path']);data=Path(r['privado']).read_bytes();assert sha(data)==r[skey] and not os.path.lexists(p);assert subprocess.check_output(['git','cat-file','--batch-check'],input=(head+':'+str(p)+'\n').encode()).endswith(b' missing\n');pending.append((p,data))
+print('LOA8.963: HTML integral e PDF522 páginas qualificados; nenhum alias contra10410 blobs SE integrais do HEAD. Nenhuma escrita canônica.',flush=True)
+if '--apply' not in sys.argv:raise SystemExit(0)
+assert subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip()==head
+backup=control/'backup';backup.mkdir()
+for p,data in pending:
+ q=backup/p.name;q.write_bytes(data);assert q.read_bytes()==data;h[str(q)]=sha(data)
+intent=control/'intencao.json';intent.write_text(json.dumps({'HEAD':head,'novas':1,'arquivos':[{'path':str(p),'sha256':sha(data),'preimagem':'ausente'} for p,data in pending]},ensure_ascii=False,indent=2)+'\n')
+for p,data in pending:
+ assert not os.path.lexists(p);p.parent.mkdir(parents=True,exist_ok=True);temp=p.with_name('.'+p.name+'.loa-root.tmp');assert not temp.exists()
+ with temp.open('xb') as f:f.write(data);f.flush();os.fsync(f.fileno())
+ os.link(temp,p);temp.unlink();assert p.read_bytes()==data;h[str(p)]=sha(data)
+for p in control.rglob('*'):
+ if p.is_file():h[str(p)]=sha(p.read_bytes())
+p=Path('scripts/estados/manifestos/se-LOA8963-integracao-root-20261027.json');assert not p.exists();p.write_text(json.dumps({'HEAD':head,'normas_novas':1,'PDF_paginas':522,'criterio':'ROOT repetiu replay individual e42 testes; viu capa, AnexoII e página final, conferiu516 fólios e seis preliminares. PDF oficial completo preservado byte a byte, com tabelas, imagens e vetores; extração diagnóstica não substitui seu conteúdo. HTML principal integral e brasão decorativo conferidos. Duas ressalvas explícitas: rodapé DOE07/01 diverge de epígrafe/fecho/capa13/01; URL PDF8819 contém efetivamente8.963. Datas não alteradas, edição DOE não certificada. Dedup independente contra todos10410 blobs SE atuais por OID; zero colisões e destinos ausentes. Nenhuma exceção global ou máscara; backups/intenção anteriores à criação exclusiva.','sha256':h},ensure_ascii=False,indent=2)+'\n');h[str(p)]=sha(p.read_bytes())
+for p in [Path('scripts/estados/manifestos/se-LOA8963-replay-root-20261027.json')]:h[str(p)]=sha(p.read_bytes())
+Path('_fonte/operacao_root_20261027/loa8963-publicar-hashes.json').write_text(json.dumps(h,ensure_ascii=False,indent=2)+'\n');print('Uma norma e seu PDF integral criados; nenhum registro de pendências alterado',flush=True)

@@ -1,0 +1,91 @@
+---
+titulo: "Lei Ordinária nº 2.762, de 06 de dezembro de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2762"
+data: "2017-12-06"
+municipio: "Dores do Indaiá"
+uf: "MG"
+codigo_ibge: "3123205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.doresdoindaia.mg.leg.br/norma/1085"
+fonte_texto: "https://sapl.doresdoindaia.mg.leg.br/ta/369/text"
+sha256_fonte: "ede2153832ef6d774f267378916d6e6eeadc27517e30b9687485b50c44aa4e40"
+sha256_texto: "c45663b57965e944946ff6158d4f9b80fef64d5730df76f3e5c596fe9485bf21"
+capturado_em_fonte: "2026-10-28T10:09:03.760751-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.762, de 06 de dezembro de 2017
+
+**TEXTO ORIGINAL EM PDF**
+
+
+"Estima receita e fixa despesa para o exercício de 2018".
+
+
+o povo do Município de Dores do Indaiá, Estado de Minas Gerais por seus representantes legais na Câmara Municipal,  
+  
+APROVA:
+
+
+Art. 1º.
+
+O Orçamento geral do Município de Dores do Indaiá, para o exercício de 2018, estima a Receita e fixa a Despesa em R$ 40.919.851,22 (Quarenta Milhões, novecentos e dezenove mil, oitocentos e cinqüenta e um reais e vinte e dois centavos).
+
+
+Art. 2º.
+
+A Receita será realizada mediante a arrecadação dos tributos, rendas e outras Receitas Correntes e de Capital, na forma da Legislação em vigor e das especificadas constantes do anexo I da Lei 4.320/64, com as modificações introduzidas pela Lei 101/2000 e portarias da STN, conforme o seguinte desdobramento:
+
+
+<table><tbody><tr><td>DISCRIMANAÇÃO DA RECEITA</td><td>VALOR</td></tr><tr><td>Receita Tributária</td><td>2.135.007,89</td></tr><tr><td>Receitas de Contribuições</td><td>1.704.250,83</td></tr><tr><td>Receita Patrimonial</td><td>1.249.198,04</td></tr><tr><td>Receita Industrial</td><td>177.969,25</td></tr><tr><td>Receita de Serviços</td><td>12.381,72</td></tr><tr><td>Transferências Correntes</td><td>30.152.850,86</td></tr><tr><td>Outras Receitas Correntes</td><td>1.183.829,98</td></tr><tr><td>TOTAL DAS RECEITAS CORRENTES</td><td>36.615.488,57</td></tr><tr><td>Receitas Intra-orçamentárias</td><td>2.855.000,00</td></tr><tr><td>TOTAL DAS RECEITAS INTRA-ORÇAMENTÁRIAS</td><td>2.855.000,00</td></tr><tr><td>Operação de Crédito </td><td>1.688.416,65</td></tr><tr><td>Transferências de Capital</td><td>3.992.488,94</td></tr><tr><td>TOTAL DAS RECEITAS DE CAPITAL</td><td>5.680.905,59</td></tr><tr><td>TOTAL GERAL</td><td>45.151.394,16</td></tr><tr><td>(-) Dedução de Receita para Formação do FUNDEB</td><td>4.231.542,94</td></tr><tr><td>TOTAL DA RECEITA LÍQUIDA ORÇAMENTÁRIA</td><td>40.919.851,22</td></tr></tbody></table>
+
+
+Art. 3º.
+
+A Despesa será realizada de acordo com a discriminação por Órgãos e Unidades Orçamentárias e por Funções de governo, conforme o seguinte desdobramento:
+
+
+<table><tbody><tr><td>01</td><td>CÂMARA MUNICIPAL</td><td> </td></tr><tr><td> </td><td>01 Legislativa</td><td>1.680.000,00</td></tr><tr><td> </td><td>TOTAL</td><td>1.680.000,00</td></tr><tr><td>02</td><td>PREFEITURA MUNICIPAL</td><td> </td></tr><tr><td> </td><td>02 - Judiciária</td><td>227.500,00</td></tr><tr><td> </td><td>04 - Administração</td><td>2.949.264,76</td></tr><tr><td> </td><td>08 - Assistência Social</td><td>1.068.729,03</td></tr><tr><td> </td><td>09 - Previdência Social</td><td>1.350.000,00</td></tr><tr><td> </td><td>10 - Saúde</td><td>8.862.906,69</td></tr><tr><td> </td><td>12 - Educação</td><td>9.107.991,57</td></tr><tr><td> </td><td>13 - Cultura</td><td>698.264,67</td></tr><tr><td> </td><td>15 - Urbanismo</td><td>4.535.266,41</td></tr><tr><td> </td><td>16 - Habitação</td><td>185.000,00</td></tr><tr><td> </td><td>17 - Saneamento</td><td>20.000,00</td></tr><tr><td> </td><td>18 - Gestão Ambiental</td><td>234.000,00</td></tr><tr><td> </td><td>20 - Agricultura</td><td>316.900,00</td></tr><tr><td> </td><td>23 - Comércio e Serviços</td><td>84.131,43</td></tr><tr><td> </td><td>24 - Comunicações</td><td>27.500,00</td></tr><tr><td> </td><td>25 - Energia</td><td>702.880,26</td></tr><tr><td> </td><td>26 - Transporte</td><td>1.607.699,84</td></tr><tr><td> </td><td>27 - Desporto e Lazer</td><td>286.713,71</td></tr><tr><td> </td><td>28 - Encargos Especiais</td><td>1.150.000,00</td></tr><tr><td> </td><td>99 - Reserva de Contigência</td><td>90.102,85</td></tr><tr><td> </td><td>TOTAL</td><td>33.504.851,22</td></tr><tr><td>03</td><td>IPSEMDI</td><td> </td></tr><tr><td> </td><td>04 - Administração</td><td>404.000,00</td></tr><tr><td> </td><td>09 - Previdência Social</td><td>4.431.000,00</td></tr><tr><td> </td><td>99 - Reserva de Contigência</td><td>900.000,00</td></tr><tr><td> </td><td>TOTAL</td><td>5.735.000,00</td></tr><tr><td> </td><td>TOTAL GERAL</td><td>40.919.851,22</td></tr></tbody></table>
+
+
+Art. 4º.
+
+Ficam o Executivo e Legislativo Municipal, autorizados no que couber a:
+
+
+I –
+
+Realizar operações de crédito por Antecipação da Receita até o limite e nas condições autorizadas pela Lei 101, de 04 de maio de 2000;
+
+
+II –
+
+Abrir créditos suplementares à dotações do orçamento vigente até o limite de 30% (Trinta por cento) nos termos do artigo 43, parágrafo 1.° da Lei 4320/64;
+
+
+III –
+
+Anular parcial ou totalmente dotações do presente orçamento, como recursos à abertura de créditos adicionais, aproveitar o superávit financeiro apurado no balanço patrimonial do exercício anterior, aproveitar o excesso de arrecadação verificado no exercício em curso.
+
+
+Parágrafo único
+
+As suplementações acima do limite fixado neste artigo dependerão de autorização legislativa específica.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação, com efeitos a partir de 1° de janeiro de 2018.
+
+
+Dores do Indaiá/MG, 06 de dezembro de 2017
+
+**RONALDO ANTÔNIO ZICA DA COSTA**
+
+Prefeito Municipal
+

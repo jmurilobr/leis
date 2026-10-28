@@ -1,0 +1,96 @@
+---
+titulo: "04 - Lei Ordinária nº 139, de 01 de julho de 1981"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "139"
+data: "1981-07-01"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1086"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1083/text"
+sha256_fonte: "fe4c21a81f2f437b0a2e32b3f7adb2f351f6ed30e71dce74557521aef8ad82dc"
+sha256_texto: "4820b4b7ee5867ebc09a85557aa9a4a5ae8f0e6ac46617f00a36345cb44f0cfc"
+capturado_em_fonte: "2026-10-28T09:18:47.592181-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 139, de 01 de julho de 1981
+
+Dispõe sobre autorização para fixar à Assoeste e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou e, Eu Prefeito Municipal sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Fica o chefe do executivo municipal autorizado a filiar o Município de Corbélia na Associação Educacional do Oeste do Paraná – Assoeste, entidade sem fins lucrativos, de caráter técnico – educacional – assistencial.
+
+
+Art. 2º.
+
+Fica outrossim o Prefeito Municipal autorizado a abrir, no corrente exercício, um crédito adicional especial até o limite de Cr$ 82.082,00 (oitenta e dois mil e oitenta e dois cruzeiros) destinado, a atender as despesas com a execução do artigo primeiro, de acordo com a classificação abaixo:
+
+
+0800 Departamento de Educação e Cultura
+
+0801 Administração
+
+0801.08810312 Assistência financeira à Instituição Privadas
+
+3.0.0.0 Despesas correntes
+
+3.2.0.0 Transferências correntes
+
+3.2.3.0 Transferências e instituições privadas
+
+3.2.3.3 Contribuições correntes Cr$ 82.082,00
+
+
+Art. 3º.
+
+Para cobertura do crédito adicional especial, objeto desta lei, fica o executivo o municipal autorizado a reduzir igual importância da seguinte dotação do orçamento vigente:
+
+
+0800 Departamento de educação e cultura
+
+0801 Administração
+
+0801.08430312.33 Auxílio a campanha nacional de escolas da comunidade
+
+3.0.0.0 Despesas correntes
+
+3.2.3.0 Transferências a instituições privadas
+
+3.2.00 Transferências correntes
+
+3.2.3.3 Contribuições correntes Cr$82.082,00
+
+
+Art. 4º.
+
+Anualmente a Lei de meias consignará recursos para ocorrer a essa despesa.
+
+
+Art. 5º.
+
+Revogadas as disposições em contrário esta Lei entrará em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Corbélia,  
+Em 01 de julho de 1981
+
+DAVID C. LUBE  
+Prefeito em Exercício do Município de Corbélia
+
+Não substitui o texto publicado no Diário Oficial.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1086/ta
+

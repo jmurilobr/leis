@@ -1,0 +1,45 @@
+---
+titulo: "Lei Ordinária nº 82, de 24 de novembro de 1975"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "82"
+data: "1975-11-24"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/406"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/921/text"
+sha256_fonte: "48b3fb52cf083c366892cd0b20ddbcd2195384e8054595f6a7523daa3ea1fcba"
+sha256_texto: "4011e5cb2ea85043c2f679b52c6e66ec2a3ee279e5b2bc66107b9e422648394a"
+capturado_em_fonte: "2026-10-27T22:03:47.505274-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 82, de 24 de novembro de 1975
+
+Revoga a lei nº 75, de 12 de agosto de 1975.
+
+
+O Prefeito Municipal de Caçu: Faço saber que a Câmara Municipal de Caçu, Estado de Goiás, aprovou e eu sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica revogada a lei municipal nº 75, de 12 de agosto de 1975, que autoriza a doação de imóvel à Empresa Brasileira de Correios e Telégrafos, para o fim que especifica.
+
+
+Art. 2º.
+
+Esta lei entra em vigor nesta data, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Caçu, Estado de Goiás, em 24 de novembro de 1975.
+
+
+**Noé Nunes Guimarães**  
+\- Prefeito Municipal -
+

@@ -1,0 +1,248 @@
+---
+titulo: "04 - Lei Ordinária nº 63, de 11 de junho de 1985"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "63"
+data: "1985-06-11"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1192"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1208/text"
+sha256_fonte: "2d4f41203a15758395dfa9757f4d4961ff015475e320a7de6b5b11e829f17337"
+sha256_texto: "426939b9c338a700cc9babf9ca118ee2daedb1ee671855acf1c39fca46e47cc0"
+capturado_em_fonte: "2026-10-28T09:01:39.254991-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 63, de 11 de junho de 1985
+
+Dispõe sobre o Regime Tributário da micro-empresa e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou e, Eu Prefeito Municipal sanciono a seguinte:
+
+
+LEI
+
+
+#### CAPÍTULO I — CONCEITO DE MICROEMPRESA
+
+
+Art. 1º.
+
+À empresa é assegurado tratamento tributário simplificado e favorecido, nos termos da presente Lei.
+
+
+Art. 2º.
+
+Considera-se microempresa as pessoas jurídicas e as pessoas ou firmas individuais que tiverem receita bruta igual ou inferior ao valor nominal de 250 (duzentas e cinquenta) obrigações reajustáveis do Tesouro Nacional (ORTN) apurada com base no valor desses títulos no mês de janeiro de cada exercício financeiro.
+
+
+§ 1º
+
+Receita bruta, de que consta este artigo, é toda a receita da empresa inclusive as não operacionais, sem qualquer dedução, mesmo as permitidas para recolhimento do ISSQN.
+
+
+§ 2º
+
+Na apuração da receita a que se refere este artigo, serão computadas as receitas de todos os estabelecimentos da empresa, prestadores ou não de serviços situados ou não no município.
+
+
+§ 3º
+
+Para efeito da apuração da receita bruta anual, será considerado o período de 1º de janeiro à 31 de dezembro.
+
+
+§ 4º
+
+No primeiro ano de atividade, o limite da receita bruta, será calculado proporcionalmente ao número de meses decorridos entre o mês da constituição da empresa e 31 de dezembro.
+
+
+Art. 3º.
+
+Não se inclui no regime desta Lei a empresa:
+
+
+I –
+
+em que o titular ou sócio seja pessoa jurídica ou ainda pessoa física domiciliada no exterior;
+
+
+II –
+
+que participe do capital de outra pessoa jurídica, exceto os investimentos provenientes de incentivos fiscais;
+
+
+III –
+
+cujos titulares, sócios e respectivos cônjuges, participem com mais de cinco (5%) por cento do capital de outra pessoa jurídica, salvo se a receita bruta global das empresas não ultrapassar o limite referido no art. 2º;
+
+
+IV –
+
+conceituada como instituição financeira;
+
+
+V –
+
+enquadrada no regime do § 3º do art. 9º do Decreto – Lei Federal nº 406/68, de 31 de dezembro de 1968;
+
+
+VI –
+
+que realizem operações ou prestem serviços relativos à:
+
+
+a)
+
+importação de produtos estrangeiros;
+
+
+b)
+
+compra e venda, loteamento, incorporação, locação, administração ou construção de imóveis;
+
+
+c)
+
+armazenamento ou depósito de bens de terceiros;
+
+
+d)
+
+publicidade e propaganda;
+
+
+e)
+
+diversões públicas.
+
+
+#### CAPÍTULO II — REGISTRO ESPECIAL
+
+
+Art. 4º.
+
+O registro da microempresa será feito no departamento da receita e realizado mediante simples declaração da qual constarão:
+
+
+I –
+
+o nome e a identificação da empresa individual ou da pessoa jurídica e de seus sócios;
+
+
+II –
+
+indicação de arquivamento dos atos constitutivos da sociedade;
+
+
+III –
+
+a declaração do titular ou de todos os sócios de que o volume da receita anual não excedeu no ano anterior, o limite fixado no art. 2º e de que a empresa não se enquadra em qualquer das hipóteses de exclusão relacionados no art. 3º desta Lei.
+
+
+Parágrafo único
+
+Em se tratando de empresa nova, não haverá exigência da declaração no inciso III deste artigo relativamente à receita bruta anual.
+
+
+Art. 5º.
+
+A empresa que, a qualquer tempo, deixar de preencher os requisitos postos nesta Lei para seu enquadramento como microempresa, deverá comunicar o jato ao órgão fazendário, para o cancelamento de seu registro, no prazo de trinta (30) dias da respectiva ocorrência.
+
+
+Art. 6º.
+
+Os requerimentos e comunicações previstos neste capítulo poderão ser encaminhados por via postal.
+
+
+#### CAPÍTULO III — REGIME TRIBUTÁRIO
+
+
+Art. 7º.
+
+O regime tributário aplicável à microempresa obedecerá as seguintes normas:
+
+
+I –
+
+isenção:
+
+
+a)
+
+do imposto sobre serviços, para as empresas que não atingirem a receita bruta de 250 (duzentas e cinquenta) ORTNs
+
+
+II –
+
+dispensa:
+
+
+a)
+
+da escrituração contábil perante a Fazenda Municipal e do livro de prestação de serviços;
+
+
+b)
+
+da condição de responsáveis pela retenção na fonte, do imposto sobre serviços de terceiros;
+
+
+c)
+
+da fiscalização no estabelecimento, salvo em sistema especial por determinação do Titular da Fazenda Municipal.
+
+
+III –
+
+obrigatoriedade da emissão da nota fiscal de serviços, com opção por nota fiscal simplificada, aprovada em regulamento, cuja segunda via ficará no estabelecimento.
+
+
+#### CAPÍTULO IV
+
+(INDISPONÍVEL NO ORIGINAL).
+
+
+Art. 8º.
+
+(indisponível no original).
+
+
+#### CAPÍTULO V — DISPOSIÇÕES GERAIS E FINAIS
+
+
+Art. 9º.
+
+É assegurado à microempresa o direito de continuar no regime de tributação, quando então não se lhe aplicarão as normas da Legislação Municipal que disciplinam o ISSQN.
+
+
+Art. 10.
+
+Aplicam-se, no que couber, à matéria tratada nesta Lei as demais normas da Legislação Municipal que disciplinam o ISSQN.
+
+
+Art. 11.
+
+A implantação do regime previsto nesta Lei far-se-á decorridos sessenta (60) dias da publicação desta Lei.
+
+
+Art. 12.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de Corbélia,  
+Em 11 de junho de 1985
+
+DELSO JOSÉ TRENTIN  
+Prefeito Municipal
+
+Não substitui o texto publicado no Diário Oficial.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1192/ta
+

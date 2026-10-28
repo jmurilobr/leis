@@ -1,0 +1,4 @@
+Replay independente (use diretório de saída novo):
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/qa_municipal_persistente_20261027.py scripts/auditar_commonmark_ta_v2.py --lista municipais/_indice/_recuperacao_20261027/lotes/ta-final286-0001/normas.paths.txt --materializados municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0001-v5 --saida municipais/_indice/_recuperacao_20261027/replay-root-ta286-NOVO
+Esperado: 286 aprovados, 0 retidos.
+Verifique também todos os SHA/bytes de manifesto.json antes do staging. Não incorporar normas de listas intermediárias.

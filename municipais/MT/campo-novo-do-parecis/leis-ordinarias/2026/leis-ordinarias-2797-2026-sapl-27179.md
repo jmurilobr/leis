@@ -1,0 +1,91 @@
+---
+titulo: "Lei Ordinária nº 2.797, de 27 de maio de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2797"
+data: "2026-05-27"
+municipio: "Campo Novo do Parecis"
+uf: "MT"
+codigo_ibge: "5102637"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.camponovodoparecis.mt.leg.br/norma/27179"
+fonte_texto: "https://sapl.camponovodoparecis.mt.leg.br/ta/79/text"
+sha256_fonte: "3a30c7d17e91f69de9ddf28456415cb943a07981fa68f4979942151d231d10f9"
+sha256_texto: "88ac1142fb73413087d7132af6b47db10ff4c2407c892ffdf50dd59db08893e6"
+capturado_em_fonte: "2026-10-27T22:23:12.139547-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.797, de 27 de maio de 2026
+
+Autoriza o Poder Executivo Municipal a abrir crédito adicional suplementar no orçamento vigente, no valor de R$ 985.000,00.
+
+
+O PREFEITO DO MUNICÍPIO DE CAMPO NOVO DO PARECIS Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a abrir crédito adicional suplementar no Orçamento Geral do Município, no valor de R$ 985.000,00 (novecentos e oitenta e cinco mil reais), nos termos dos artigos 41, I, e 42 da Lei Federal nº 4.320, de 1964, nas seguintes classificações orçamentárias:
+
+
+I –
+
+03 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO  
+  
+03.001 GABINETE DA SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO  
+  
+Dotação 1: 001.04.122.0002.20009  
+Projeto/Atividade: GESTÃO E MANUTENÇÃO DA SECRETARIA DE ADMINISTRAÇÃO  
+Elemento de Despesa: 3.3.90.00.00.00 Aplicações Diretas  
+Fonte de Recurso: 25000000000000 Recursos Ordinários - Exercício Anterior  
+Valor: R$ 375.000,00 (trezentos e setenta e cinco mil reais)  
+  
+Dotação 2: 001.04.122.0002.20010  
+Projeto/Atividade: GESTÃO E MANUTENÇÃO DAS AÇÕES DE TECNOLOGIA DA INFORMAÇÃO - TI  
+Elemento de Despesa: 3.3.90.00.00.00 Aplicações Diretas  
+Fonte de Recurso: 25000000000000 Recursos Ordinários - Exercício Anterior  
+Valor: R$ 480.000,00 (quatrocentos e oitenta mil reais)  
+  
+Dotação 3: 001.04.131.0002.20014  
+Projeto/Atividade: PUBLICAÇÕES OFICIAIS  
+Elemento de Despesa: 3.3.90.00.00.00 Aplicações Diretas  
+Fonte de Recurso: 25000000000000 Recursos Ordinários - Exercício Anterior  
+Valor: R$ 30.000,00 (trinta mil reais)  
+  
+Dotação 4: 002.14.422.0002.20015  
+Projeto/Atividade: GESTÃO E MANUTENÇÃO DAS AÇÕES DO PROCON  
+Elemento de Despesa: 3.3.90.00.00.00 Aplicações Diretas  
+Fonte de Recurso: 28990000000001 Outros Recursos Vinculados - Procon - Exercício Anterior  
+Valor: R$ 100.000,00 (cem mil reais)  
+TOTAL: R$ 985.000,00
+
+
+Art. 2º.
+
+Os recursos necessários à execução dos créditos suplementares de que trata o art. 1º., I, no valor total de R$ 985.000,00 (novecentos e oitenta e cinco mil reais), decorrerão do superávit financeiro do exercício anterior, na fonte livre, consoante o art. 43, § 1º, I, da Lei Federal nº 4.320, de 1964.
+
+
+Art. 3º.
+
+As alterações constantes desta Lei passam a integrar a Lei Municipal nº 2.691, de 15 de agosto de 2025, que dispõe sobre o Plano Plurianual - PPA, para o período de 2026 a 2029, a Lei Municipal nº 2.708, de 7 de outubro de 2025, que dispõe sobre as Diretrizes Orçamentárias - LDO para o exercício financeiro de 2026, e a Lei Municipal nº 2.745, de 29 de dezembro de 2025, que dispõe sobre a Lei Orçamentária Anual - LOA, para o exercício financeiro de 2026.
+
+
+Art. 4º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Campo Novo do Parecis/MT, 27 de maio de 2026.  
+  
+EDILSON ANTÔNIO PIAIA  
+Prefeito Municipal  
+  
+PRISCILLA GIMENEZ SIQUEIRA GONÇALVES OLSSON  
+Secretária Municipal de Administração Interina  
+  
+Autoria: Poder Executivo
+

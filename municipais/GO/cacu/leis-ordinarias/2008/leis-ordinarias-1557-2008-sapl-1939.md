@@ -1,0 +1,417 @@
+---
+titulo: "Lei Ordinária nº 1.557, de 15 de dezembro de 2008"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1557"
+data: "2008-12-15"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/1939"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/387/text"
+sha256_fonte: "da6456e02f166e545a474ae5682dd3819c4022005a07365d400938d221433dab"
+sha256_texto: "7c1378d22f35ba5e474502aedc2ae9ecdcdfa57774f95cec8650ae51ddbe444a"
+capturado_em_fonte: "2026-10-27T21:37:18.891709-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.557, de 15 de dezembro de 2008
+
+Cria o Conselho Gestor do Telecentro Comunitário do Município de Caçu-GO, e dá outras providências.
+
+
+GILMAR JOSÉ DE FREITAS GUIMARÃES, PREFEITO MUNICIPAL DE CAÇU-GO, faz saber a todos os habitantes deste Município, que a Câmara Municipal aprovou, e ele, sanciona a seguinte Lei:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Esta Lei dispõe sobre a Criação do Conselho Gestor do Telecentro Comunitário do Município de Caçu-GO e estabelece normas gerais em conformidade com o dispositivo no Termo de Doação com Encargos celebrado entre a União Federal por intermédio do Ministério das Comunicações e o Município de Caçu-GO, através do processo nº 53000.051102/2007.
+
+
+Art. 2º.
+
+O Telecentro Comunitário é um espaço público provido de computadores conectados à Internet em banda larga, onde são realizadas atividades, por meio do uso das TICs (Tecnologias da Informação e Comunicação), com o objetivo de promover a inclusão digital e social das comunidades atendidas.
+
+
+Art. 3º.
+
+O Conselho Gestor do Município de Caçu-GO tem a função de acompanhar e observar as atividades realizadas e sugerir melhorias na organização e utilização da unidade.
+
+
+#### CAPÍTULO II
+
+
+##### Seção I — Da Finalidade do Conselho Gestor do Telecentro Comunitário
+
+
+Art. 4º.
+
+A finalidade do Conselho Gestor é estabelecer as regras de funcionamento e uso do espaço do Telecentro, apontando os rumos futuros, incentivando o exercício pleno da cidadania e dando ferramenta para que a comunidade se desenvolva social e economicamente.
+
+
+##### Seção II — Das Obrigações do Conselho Gestor do Telecentro Comunitário
+
+
+Art. 5º.
+
+O Conselho Gestor tem por obrigações básicas:
+
+
+I –
+
+realizar a gestão do Telecentro;
+
+
+II –
+
+guiar todo o processo de começar o Telecentro e, em longo prazo, assegurar seu contínuo funcionamento;
+
+
+III –
+
+ajudar na gestão e fiscalização do Telecentro;
+
+
+IV –
+
+organizar o uso do Telecentro pela comunidade;
+
+
+V –
+
+assegurar que todas as atividades oferecidas pelo Telecentro sejam abertas para qualquer pessoa da comunidade sem a necessidade de ser sócio ou filiado a partidos políticos, associações, entidades ou organizações de caráter associativo, religioso de defesa de direitos, etc.;
+
+
+VI –
+
+assegurar que o uso dos equipamentos do Telecentro seja de livre acesso a comunidade, sem nenhuma restrição, desde que garantidos horário e espaço para todas as atividades decididas pelo Conselho Gestor e a manutenção e utilização adequada dos equipamentos;
+
+
+VII –
+
+organizar a distribuição e a recepção de inscrições para as atividades oferecidas pelo Telecentro;
+
+
+VIII –
+
+organizar os cursos, horários e forma de atendimento dos inscritos para este fim;
+
+
+IX –
+
+coibir o desperdício e limitar o número de impressões por usuário;
+
+
+X –
+
+regulamentar o uso de equipamentos do Telecentro;
+
+
+XI –
+
+realizar reuniões mensais ordinárias para avaliar o funcionamento do Telecentro, bem como receber sugestões e solicitações dos usuários.
+
+
+Parágrafo único
+
+Uma das primeiras tarefas do Conselho Gestor é identificar as necessidades de informação e comunicação da comunidade e designar instrutores e monitores que estarão mais envolvidos no começo e na gerência do dia-a-dia do Telecentro.
+
+
+##### Seção III — Dos Princípios e Diretrizes do Telecentro Comunitário
+
+
+Art. 6º.
+
+O Telecentro Comunitário reger-se-á pelos seguintes princípios:
+
+
+I –
+
+respeito à dignidade, à sua autonomia e o direito ao acesso ao Programa de Inclusão Digital;
+
+
+II –
+
+igualdade de direitos no acesso a inclusão digital, sem discriminação de qualquer natureza, garantindo-se a equivalência entre as populações urbanas e rurais.
+
+
+Art. 7º.
+
+A organização do Telecentro Comunitário tem como base as seguintes diretrizes:
+
+
+I –
+
+participação da comunidade no acesso a inclusão digital e no controle das atividades em todos os níveis;
+
+
+II –
+
+desenvolvimento social e econômico da comunidade;
+
+
+III –
+
+redução da exclusão social e digital, criando oportunidades aos cidadãos;
+
+
+IV –
+
+capacitação da população e inseri-la na sociedade.
+
+
+#### CAPÍTULO III
+
+
+##### Seção I — Da Criação do Conselho Gestor do Telecentro Comunitário
+
+
+Art. 8º.
+
+Fica criado o Conselho Gestor do Telecentro Comunitário do município de Caçu-GO, como órgão fiscalizador e com a função de realizar a gestão Telecentro.
+
+
+Art. 9º.
+
+O Conselho Gestor deve reunir membros da comunidade, do poder público, do corpo docente municipal das associações de moradores, enfim, deve reunir os cidadãos em torno da proposta de usar a inclusão digital para promover a inserção social da população.
+
+
+##### Seção II — Da Composição do Conselho Gestor
+
+
+Art. 10.
+
+O Conselho Gestor do Telecentro Comunitário – doravante denominado pela sigla CGTC, é órgão superior de proposição, fiscalização e controle social do Telecentro.
+
+
+§ 1º
+
+O Conselho Gestor está vinculado diretamente a Secretaria de Administração do Município de Caçu-GO.
+
+
+§ 2º
+
+O Conselho Gestor de Caçu-GO, será composto por 05 (cinco) membros efetivos e respectivos suplentes de acordo com os critérios seguintes:
+
+
+I –
+
+Sendo: 02 (dois) representantes do governo, um, ligado a Secretaria de Administração e outro, a Secretaria Municipal de Educação, ambos, indicados pelo Prefeito Municipal;
+
+
+II –
+
+03 (três) representantes da sociedade civil organizada, dentre representantes das entidades e organizações (Associações de Moradores, Câmara dos Dirigentes Lojistas, Associação de Apoio a Criança e ao Adolescente, Lions Clube, Associação dos Pais e Amigos dos Excepcionais e outros) escolhidos bienalmente e indicados pelas próprias entidades.
+
+
+§ 3º
+
+A composição da nominativa dos membros efetivos e suplentes do Conselho Gestor será oficializada mediante Decreto publicado a ser baixado pela Secretaria de Administração e Finanças.
+
+
+Art. 11.
+
+O mandato dos Conselheiros será de 02 (dois) anos facultada apenas uma recondução, sendo o seu exercício considerado de interesse público relevante, não remunerado.
+
+
+§ 1º
+
+Os membros efetivos do Conselho Gestor serão substituídos em suas funções, por motivos de falta injustificada a 3 (três) reuniões consecutivas ou a 5 (cinco) alternadas, no período de 1 (um) ano.
+
+
+§ 2º
+
+Os membros do Conselho Gestor poderão ainda ser substituídos mediante solicitação com justificativa do dirigente da entidade que o representa.
+
+
+Art. 12.
+
+Eleito o Conselho Gestor, a cada nova gestão municipal, deverão ser indicados novos representantes empossados pelo Prefeito Municipal, ou representante indicado por ele, num prazo máximo de 10 (dez) dias sob a coordenação do Gestor Municipal de Assistência Social.
+
+
+##### Seção III — Da Estrutura e do Funcionamento do Conselho Gestor
+
+
+Art. 13.
+
+A diretoria do Conselho Gestor será obrigatoriamente eleita entre os seus membros e nomeada por Decreto Municipal.
+
+
+Art. 14.
+
+O Conselho Gestor terá seu funcionamento regido por um Regimento Interno próprio, o qual obedecerá à seguinte estrutura:
+
+
+I –
+
+Plenário;
+
+
+II –
+
+Presidente;
+
+
+III –
+
+Vice-Presidente;
+
+
+IV –
+
+Secretária;
+
+
+V –
+
+Vice-Secretária.
+
+
+Art. 15.
+
+O plenário é constituído da totalidade dos membros do Conselho Gestor, é o órgão deliberativo sobre as matérias de competência ao Conselho.
+
+
+Art. 16.
+
+As atribuições do Presidente do Conselho Gestor são:
+
+
+I –
+
+cumprir e zelar pelo cumprimento das deliberações do Plenário;
+
+
+II –
+
+representar externamente o Conselho Gestor;
+
+
+III –
+
+convocar, presidir e coordenar as reuniões do Plenário;
+
+
+IV –
+
+preparar juntamente com o Secretário a ordem do dia submetê-la à apreciação do Plenário;
+
+
+V –
+
+fazer cumprir o Regimento Interno;
+
+
+VI –
+
+expedir os atos decorrentes das deliberações do conselho, encaminhando-os a quem de direito;
+
+
+VII –
+
+delegar competências desde que previamente submetidas à aprovação do Plenário;
+
+
+VIII –
+
+decidir sobre as questões de ordem;
+
+
+IX –
+
+convocar reuniões extraordinárias quando necessário;
+
+
+X –
+
+propor grupos de trabalho e cobrar apresentação de resultados nos prazos estabelecidos.
+
+
+Art. 17.
+
+Ao Vice-Presidente do Conselho Gestor compete substituir e auxiliar o Presidente no cumprimento das suas atribuições.
+
+
+Art. 18.
+
+São atribuições do Secretário do Conselho Gestor:
+
+
+I –
+
+organizar, juntamente com o Presidente do Conselho, as agendas de trabalho do Plenário;
+
+
+II –
+
+responsabilizar-se pelo funcionamento administrativo do Conselho;
+
+
+III –
+
+secretariar as reuniões, lavrar atas e proceder a todos os registros relativos ao funcionamento do Conselho;
+
+
+IV –
+
+distribuir aos Conselheiros, projetos, programas, serviços, processos, indicações, moções e expedientes diversos submetidos ao Conselho;
+
+
+V –
+
+preparar e encaminhar aos órgãos competentes as publicações deliberadas pelo Conselho;
+
+
+VI –
+
+responsabilizar-se pelo expediente do Conselho;
+
+
+VII –
+
+assinar todos os expedientes da Secretaria e outros assemelhados quando delegados pelo Presidente;
+
+
+VIII –
+
+comunicar à entidade a ausência do Conselheiro que completar 3 (três) faltas consecutivas não justificadas, ou 5 (cinco) intercaladas, também não justificadas, no período de um ano;
+
+
+IX –
+
+executar outras competências que lhe sejam atribuídas pelo Presidente do CMAS ou pelo Plenário.
+
+
+Art. 19.
+
+As reuniões somente poderão ser realizadas com a presença da maioria de seus membros em primeira convocação, ou com número a ser definido no Regimento Interno, em segunda convocação.
+
+
+Parágrafo único
+
+Todas as sessões do Conselho Gestor serão públicas e precedidas de divulgação.
+
+
+Art. 20.
+
+Considerar-se-á instalado o Conselho Gestor do Telecentro Comunitário, em sua primeira gestão, com a publicação dos nomes de seus integrantes no órgão de imprensa oficial do Município e suas respectivas posses.
+
+
+Art. 21.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**Gabinete do Prefeito de Caçu**, Estado de Goiás, em 15 de dezembro de 2008.
+
+**GILMAR JOSÉ DE FREITAS GUIMARÃES**
+
+**Prefeito**
+

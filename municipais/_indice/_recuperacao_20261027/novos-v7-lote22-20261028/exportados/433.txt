@@ -1,0 +1,55 @@
+---
+titulo: "Lei nº 1.822, de 20 de abril de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1822"
+data: "2022-04-20"
+municipio: "Cunha"
+uf: "SP"
+codigo_ibge: "3513603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cunha.sp.leg.br/norma/1310"
+fonte_texto: "https://sapl.cunha.sp.leg.br/ta/116/text"
+sha256_fonte: "420b4d45aff2c5155824e17dc86691b640b5d6017a2d528bc0d6e18f81bcb08b"
+sha256_texto: "eb850c07fafb062cfb269835615363f6612d7b18540ed7147bed540a864d6819"
+capturado_em_fonte: "2026-10-28T09:41:45.447173-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 1.822, de 20 de abril de 2022
+
+Autoriza o Município de Cunha/SP a celebrar convênio com o Estado de São Paulo, por intermédio de sua Secretaria de Agricultura e Abastecimento, tendo como objetivo receber a transferência de recursos financeiros, a transferência da posse de bens móveis ou a transferência de bens móveis destinados à execução do Programa Patrulha Agrícola e dá outras providências.
+
+
+José Éder Galdino da Costa, Prefeito Municipal da Estância Climática de Cunha, no uso de suas atribuições legais, que lhe são conferidas por Lei, faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Município de Cunha/SP autorizado a celebrar convênio com o Estado de São Paulo, por intermédio de sua Secretaria de Agricultura e Abastecimento, tendo como objeto receber a transferência de recursos financeiros, a transferência da posse de bens móveis ou a transferência de bens móveis destinados à execução do Programa Patrulha Agrícola.
+
+
+§ 1º
+
+Após a assinatura do convênio de que trata o caput do presente artigo, a Prefeitura do Município de Cunha/SP encaminhará, no prazo máximo de 30 (trinta) dias, cópia do instrumento para conhecimento da Câmara de Vereadores.
+
+
+§ 2º
+
+Para a realização dos projetos, programas ou ações que visem a efetivar os objetivos do convênio de que trata esta Lei, o Município de Cunha/SP promoverá a celebração de termos aditivos e outros instrumentos legais que se façam necessários.
+
+
+Art. 2º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+PM de Cunha em 13 de ABRIL de 2022.
+
+**JOSÉ ÉDER GALDINO DA COSTA**
+
+**PREFEITO MUNICIPAL**
+

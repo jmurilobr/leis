@@ -1,0 +1,167 @@
+---
+titulo: "Lei nº 77, de 12 de novembro de 1973"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "77"
+data: "1973-11-12"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/4396"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/1072/text"
+sha256_fonte: "810e0399eea14b91a175c7f3d1b7326545c02bca8de80fb3fadf465537f60212"
+sha256_texto: "426c31b88c58d8ee2bbcf1ee7cb0dc5a87d6fa674b13edb4e4cb841a99cf107d"
+capturado_em_fonte: "2026-10-27T22:45:52.440325-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 77, de 12 de novembro de 1973
+
+Autoriza abertura de Crédito Adicional Especial, até a importância de Cr$-242.306,79 e dá outras providências.
+
+
+O DOUTOR JACOB FREITAS ATALLAH, Prefeito Municipal de Porto Velho,  
+  
+**FAÇO SABER** que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte  
+  
+**LEI**:
+
+
+Art. 1º.
+
+Fica o Executivo autorizado a abrir,no corrente exercício, com vigência até 31 de dezembro de 1974, Crédito Adicional, Especial, até o limite de Cr$-242.306,79 ( DUZENTOS E QUARENTA E DOIS MIL, TREZENTOS E SEIS CRUZEIROS E SETENTA E NOVE CENTAVOS), para ocorrer com as despesas abaixo especifica das:
+
+
+FUNDO DE MINERAIS DO PAÍS
+
+
+Função:
+
+7\. - Saúde
+
+
+Programa:
+
+7.1. - Assistência Médico - Hospitalar
+
+
+Projeto:
+
+7.1.0.2.06 - Complementação e Modificação de Obras
+
+
+4.0.0.
+
+\- Despesas de Capital
+
+
+4.1.0.0.
+
+\- Investimentos
+
+
+4.1.1.0
+
+\- Obras Públicas ............Cr$-47.892,00
+
+
+FUNDO DE MINERAIS DO PAÍS
+
+
+Função:
+
+6\. - Educação e Cultura
+
+
+Programa:
+
+6.1. - Ensino de Primeiro Gráu
+
+
+Projeto:
+
+6.1.0.2.05 - Complementação de Obras: Construção de muro e calçada.
+
+
+4.0.0.0
+
+\- Despesas de Capital
+
+
+4.1.0.0
+
+\- Investimentos
+
+
+4.1.1.0
+
+\- Obras Publicas
+
+
+4.1.1.01
+
+\- Construção de muro e calçada da escola municipal...........Cr$-86.000,00
+
+
+Função:
+
+6\. - Educação e Cultura
+
+
+Programa:
+
+6.6. - Educação Física e Desportos
+
+
+Projeto:
+
+6.6.0.2.06 - Equipamentos de Educação Física e Desportos
+
+
+4.1.3.0
+
+\- Equipamentos e Instalações Cr$108.414,79
+
+
+Art. 2º.
+
+As despesas decorrentes da abertura do Crédito Adicional, Especial, de que trata o art. 1º desta Lei, correrão à conta do superavit financeiro apurado em Balanço patrimonial do exercício de 1972, correspondente aos recursos financeiros oriundos do FUNDO DE MINERAIS DO PAÍS.
+
+
+Art. 3º.
+
+Esta Lei vigorará na data de sua publicação.
+
+
+\- Dr. Jacob Freitas Atallah -
+
+PREFEITO MUNICIPAL
+
+\- Claúdio Batista Feitosa -
+
+DIRETOR DO DEPARTAMENTO E ADMINISTRAÇÃO
+
+\- José Maria Aguiar -
+
+DIRETOR DO DEPARTAMENTO DE FINANÇAS
+
+\- Walter Paula de Sales -
+
+DIRETOR DO DEPARTAMENTO DE PLANEJAMENTO
+
+\- Sebastião Assaf Valladares -
+
+DIRETOR DE DEPARTAMENTO DE OBRAS
+
+\- Francisco Araújo da Silva -
+
+DIRETOR DOS SERVIÇOS URBANOS
+
+\- Nina Rosa Champeaux de La Boulaye -
+
+DIRETOR DO SERVIÇO DE EDUCAÇÃO E CULTURA
+

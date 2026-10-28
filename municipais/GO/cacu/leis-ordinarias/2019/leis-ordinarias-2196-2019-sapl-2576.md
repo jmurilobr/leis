@@ -1,0 +1,123 @@
+---
+titulo: "Lei Ordinária nº 2.196, de 27 de fevereiro de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2196"
+data: "2019-02-27"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/2576"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/1574/text"
+sha256_fonte: "18753141ddb8213802ac67f524c94f6f0ad77b2ee6a2730ec52cef269ef21250"
+sha256_texto: "248c4710482f89ab4638dd1aaba5ec4f919010356191f00fd12d68cabcda0ce5"
+capturado_em_fonte: "2026-10-27T21:32:16.159096-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.196, de 27 de fevereiro de 2019
+
+“Autoriza o Município a firmar Termo de Parceria com o Conselho da Comunidade da Comarca de Cachoeira Alta/GO e dá outras providências”.
+
+
+**A CÂMARA MUNICIPAL DE CAÇU/GO,** por seus vereadores, **APROVA**, e eu, **PREFEITA MUNICIPAL,** no uso das atribuições conferidas pela Lei Orgânica do Município, **SANCIONO** a seguinte **LEI MUNICIPAL**:
+
+
+Art. 1º.
+
+Fica o Município de Caçu/GO, através do Fundo Municipal de Segurança Pública, inscrito no CNPJ/MF sob o nº 19.795.868/0001-53, autorizado a formalizar termo de parceria com o Conselho da Comunidade da Comarca de Cachoeira Alta/GO, pessoa jurídica de direito privado, inscrita no CNPJ/MF sob o nº 05.592.799/0001-76, associação civil sem fins lucrativos, com sede provisória no Fórum da Comarca de Cachoeira Alta/GO.
+
+
+§ 1º
+
+Dentre as atribuições do Conselho da Comunidade da Comarca de Cachoeira Alta/GO, consta a finalidade de dar assistência aos presos; planejar, acompanhar e executar projetos de ação comunitária ligados à prevenção da delinquência; organizar, administrar e fiscalizar a prestação de serviços à Comunidade pelos sentenciados.
+
+
+§ 2º
+
+O Termo de Parceria mencionado no “caput” deste artigo tem por objeto a articulação interinstitucional e respectivas competências entre as partes, visando dar continuidade ao cumprimento de sentença aos presos da Comarca de Caçu/GO, na Comarca de Cachoeira Alta/GO, em atendimento aos termos da Lei Estadual nº 19.962/2018, de 03/01/2018.
+
+
+§ 3º
+
+Serão transferidos da Comarca do Município de Caçu/GO, para a Cadeia Pública do Município de Cachoeira Alta/GO, todos os presos que se encontram em cumprimento de sentença, na fase de execução penal.
+
+
+Art. 2º.
+
+Para fins de formalização do termo de parceria mencionado no artigo anterior, o Município de Caçu/GO, através do Fundo Municipal de Segurança Pública, repassará a título de subvenção o valor total de R$ 85.100,00 (oitenta e cinco mil e cem reais) durante o ano de 2019, em parcelas, de acordo com a disponibilidade de caixa do Município e o Plano de Trabalho apresentado pelo Conselho, para custeio e manutenção das atividades institucionais da entidade, assim discriminadas:
+
+
+a)
+
+a importância de R$ 15.000,00 (quinze mil reais) dividida em 03 (três) parcelas de R$ 5.000,00 (cinco mil reais) cada uma;
+
+
+b)
+
+12 (doze) parcelas, no valor cada uma de R$ 5.700,00 (cinco mil e setecentos reais), totalizando a importância de R$ 68.400,00 (sessenta e oito mil e quatrocentos reais);
+
+
+c)
+
+01 (uma) parcela, no valor de R$ 1.700,00 (hum mil e setecentos reais), destinada à contratação de um servidor, com conhecimento em informática, para cuidar do serviço de cadastramento de presos e outras atividades correlatas.
+
+
+§ 1º
+
+O repasse da verba prevista na letra “a”, referente a primeira parcela, bem assim da primeira parcela prevista na letra “b”, deste artigo, será feito na data de 26 de janeiro de 2019, ou na data de entrada em vigor desta lei, ou seja, a que acontecer em último lugar.
+
+
+§ 2º
+
+Os repasses das demais parcelas previstas nas letras “a” e “b” deste artigo, serão feitos todo dia 26 dos meses subsequentes.
+
+
+§ 3º
+
+O repasse da parcela prevista na letra “c” deste artigo será feita no dia 26 de dezembro de 2019.
+
+
+Art. 3º.
+
+As demais disposições serão estabelecidas em termo de parceria a ser celebrado entre as partes, regido nos termos da presente lei e legislação correlata.
+
+
+Art. 4º.
+
+Para acorrer as despesas decorrentes da presente lei fica a Chefe do Poder Executivo autorizada, mediante expedição de decreto, abrir no orçamento do corrente exercício crédito adicional de natureza especial, no valor de R$ 85.100,00 (oitenta e cinco mil e cem reais), sob a seguinte dotação orçamentária:
+
+
+**Órgão: 11.00 – Fundo Municipal de Segurança Pública.**
+
+**Unidade: 6 – Fundo Municipal de Segurança Pública.**
+
+**- 2.142 – Segurança Pública.**
+
+**- 3.3.50.41.00.00.00.00 – Contribuições.**
+
+
+§ 1º
+
+Para cobertura do crédito aberto será usado como recursos os dispositivos previstos no artigo 43, § 1º da Lei Federal nº 4.320/64, de 17 de março de 1964.
+
+
+§ 2º
+
+Em decorrência do disposto no “caput” deste artigo, fica o Poder Executivo autorizado a promover as adequações do PPA e LDO em ato próprio.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação, revogando as disposições em contrário.
+
+
+**GABINETE DA PREFEITA MUNICIPAL DE CAÇU,** Estado de Goiás, aos 27 dias do mês de fevereiro de 2019.
+
+
+**ANA CLÁUDIA LEMOS OLIVEIRA Prefeita Municipal**
+

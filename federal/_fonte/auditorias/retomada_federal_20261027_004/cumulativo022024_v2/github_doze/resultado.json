@@ -1,0 +1,30 @@
+{
+  "escopo": "Até doze POST oficiais GitHub markdown autorizados, somente render, sem publicação ou nova fonte governamental. Nenhum retry.",
+  "sha256_guard_vivo_ao_render": "3cd60ac4a398a27cc0f646f891e853f6b120b1a963deb4cc9f0ccfd7d6ca0cd0",
+  "sha256_insumo_nativos12": "3624a682cd7adf3f96bdb631e13df0a368c2136b6bfdf8e0da6bcd539b80a30e",
+  "resumo": {
+    "chamadas": 1,
+    "aprovados": 0,
+    "divergencias": 1,
+    "bloqueio": true
+  },
+  "registros": [
+    {
+      "path": "federal/decretos/1942/dec-8886-1942-03-02.md",
+      "candidato": "federal/_fonte/auditorias/retomada_federal_20261027_004/cumulativo022024_v2/candidatos/dec-8886-1942-03-02.md",
+      "sha256_candidato": "064fa0022dcd3cc91eff9a8baf65294720d975e3938b17b68f1bae590576eef7",
+      "request": {
+        "path": "federal/_fonte/auditorias/retomada_federal_20261027_004/cumulativo022024_v2/github_doze/01_request.json",
+        "sha256": "d59e2a1300826f78ad8e744c4a5979cc706d288955d48013c51ec2e21c23435c"
+      },
+      "response": {
+        "path": "federal/_fonte/auditorias/retomada_federal_20261027_004/cumulativo022024_v2/github_doze/01_response.html",
+        "sha256": "41614873b76dd8c7ff8e6a82fba3cc6eae82e6cfed272efba979bdab979a5115"
+      },
+      "returncode": 1,
+      "aprovado": false,
+      "erro": "gh: This API renders Markdown text up to 400 KB in size. The requested text is too large to render via the API. (HTTP 403)\n"
+    }
+  ],
+  "limites": "Preserva requests/responses integrais. Compara texto literal, sinais, números/contextos, ol/ul/li/type/start/value e matrizes de células com rowspan/colspan e grade expandida. CSS/classes podem ser sanitizados; não afirma identidade visual CSS nem revisão humana universal."
+}

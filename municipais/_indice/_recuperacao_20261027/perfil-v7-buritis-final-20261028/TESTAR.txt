@@ -1,0 +1,4 @@
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/test_perfil_ta_tachados_preservados_20261027.py
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/test_materializador_ta_v7_privado_20261027.py
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/revalidar_buritis8_tachados_privado_20261028.py --saida NOVA_SAIDA_BURITIS.json
+Esperado: 16 testes e um reparo com texto+markup comprovados, zero promoção. Replays 3.227/921/586 estão vinculados ao pacote; podem ser repetidos com verificar_entrega_ta_sem_promocoes_v3_privado_20261027.py em saídas novas.

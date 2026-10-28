@@ -1,0 +1,2193 @@
+{
+  "criterio": "Revisão contextual apenas dos alertas anteriores: contadores efetivos de ol/start/li associados à AST e ao delimitador manual, sem copiar número da fonte. Preserva pontuação e sinais; divergências remanescentes continuam retidas. Listas nativas da fonte não recebem materialização automática.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "63b916abe1e6c687db373e67610a4ea584fb04e3c2029873da8c84c91b77ee72",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "revisar": 91,
+    "iguais": 4
+  },
+  "documentos": [
+    {
+      "path": "reguladores/tcu/portarias/2018/portaria-n-46-de-26-de-outubro-de-2018-47539534.md",
+      "sha256_md": "06323601ea5b26c6d0895cb2e69088efcc8c81a3b67e16058bbb5ff3b7a84047",
+      "sha256_fonte": "d9c79ceac9f4d53c000bb798d6297929fc7b2fe2833137483bfcf173f236bbee",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "b28e5b3d0d5c3ca6f92f181d7a2ec9b5716532fb26a1e53ec8baa30f1621f81e",
+      "sha256_visivel_md": "7e5a917fc5e2e8bd2d9a798a3f6772e4d809b91357073efdbbec6683394475ce",
+      "primeira_diferenca": {
+        "posicao": 322,
+        "fonte": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea\"d\", da Portaria-TCU nº 1, de 2 de janeiro de 2017, e considerando as informações constantes do processo nº TC 001.636/2016-2, resolve: Art. 1º Fica autorizada,",
+        "md": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea*\"d\"*, da Portaria-TCU nº 1, de 2 de janeiro de 2017, e considerando as informações constantes do processo nº TC 001.636/2016-2, resolve: Art. 1º Fica autorizad"
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2018/portaria-n-51-de-30-de-novembro-de-2018-52994674.md",
+      "sha256_md": "a6aa11bbb018d710db476dbf04b69d65db119c1a2c36d54fc69e61e79c399448",
+      "sha256_fonte": "5cfeca9d30969235f368253832841bfd86860afb552ec9372c725cef7d8e0c40",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "a3e0f4d2702d410bf79c440f6a24c8366fa42297b086c2e21520b9a48e339179",
+      "sha256_visivel_md": "230a6a712e7c8b1e47ea7bab7f382a9901ce159403166c3311547b10c4c92bab",
+      "primeira_diferenca": {
+        "posicao": 326,
+        "fonte": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea\"d\", da Portaria-TCU nº 1, de 2 de janeiro de 2017, e considerando as informações constantes do processo nº TC 041.0862018-0, resolve Art. 1º Fica autorizada, n",
+        "md": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea*\"d\"*, da Portaria-TCU nº 1, de 2 de janeiro de 2017, e considerando as informações constantes do processo nº TC 041.0862018-0, resolve Art. 1º Fica autorizada,"
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2018/portaria-n-52-de-5-de-dezembro-de-2018-53755545.md",
+      "sha256_md": "9068738878973ca2348a1b79b891306a05c12692b2d5ef5498074920e932686b",
+      "sha256_fonte": "8c83545483dca7e0d942e897342669c55520530e095586a2181c619022dd226a",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "580f23f45715ffc307207b413d2967b426fc64095b3db2f7558f7160491c3c78",
+      "sha256_visivel_md": "2334fed39af502f96eda6e976ced85ca271d4dbe84453124da5b8092bbcd7e95",
+      "primeira_diferenca": {
+        "posicao": 325,
+        "fonte": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea\"d\", da Portaria-TCU nº 1, de 2 de janeiro de 2017, e considerando as informações constantes do processo nº TC 041.0862018-0, resolve Art. 1º Fica autorizado, n",
+        "md": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea*\"d\"*, da Portaria-TCU nº 1, de 2 de janeiro de 2017, e considerando as informações constantes do processo nº TC 041.0862018-0, resolve Art. 1º Fica autorizado,"
+      }
+    },
+    {
+      "path": "reguladores/fazenda/resolucoes/2018/resolucao-cnsp-n-369-de-13-de-dezembro-de-2018-55879166.md",
+      "sha256_md": "db4303b2ee5761109a0723fc85281d900cd97b0fccecebc729ef66c16ca2e51e",
+      "sha256_fonte": "bebfd63776df301a0fc91251bfe1fbd1913e12e9aa4f122e8de3482a51ec0875",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — TERMO DE AUTORIZAÇÃO DE COBRANÇA DE PRÊMIO DE SEGURO",
+          "fonte": "ANEXO I TERMO DE AUTORIZAÇÃO DE COBRANÇA DE PRÊMIO DE SEGURO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              62,
+              65
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "3030759ca0deb20d4cccefa9689b1fd0cad8e48d931f23d9190de749102dd7aa",
+      "sha256_visivel_md": "6bc097cdc7f939b610dbcb6b3cb6029129d53f1e2136bd2e15efd54eb3bd4629"
+    },
+    {
+      "path": "reguladores/cns/resolucoes/2018/resolucao-n-573-de-31-de-janeiro-de-2018-48742847.md",
+      "sha256_md": "8016ddb0f00b629c75e7042788d1de833802f21574666472a7c7c2a9854e929a",
+      "sha256_fonte": "dea85b916ecc12bd890f61d8aad48a06c23b65b9b19679149235b1786e71212a",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DAS DIRETRIZES",
+          "fonte": "CAPÍTULO I DAS DIRETRIZES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DOS MARCOS TEÓRICO E METODOLÓGICO",
+          "fonte": "CAPÍTULO II DOS MARCOS TEÓRICO E METODOLÓGICO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DAS ÁREAS DO PROCESSO FORMATIVO",
+          "fonte": "CAPÍTULO III DAS ÁREAS DO PROCESSO FORMATIVO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Do Cuidado de Enfermagem na Atenção à Saúde Humana",
+          "fonte": "Seção I Do Cuidado de Enfermagem na Atenção à Saúde Humana",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Da Educação em Saúde",
+          "fonte": "Seção III Da Educação em Saúde",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção IV — Do Desenvolvimento Profissional em Enfermagem",
+          "fonte": "Seção IV Do Desenvolvimento Profissional em Enfermagem",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção V — Da Investigação e Pesquisa em Enfermagem e Saúde",
+          "fonte": "Seção V Da Investigação e Pesquisa em Enfermagem e Saúde",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção VI — Docência para a Educação Profissional Técnica de Nível Médio em Enfermagem",
+          "fonte": "Seção VI Docência para a Educação Profissional Técnica de Nível Médio em Enfermagem",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DOS CONTEÚDOS CURRICULARES E PROJETO PEDAGÓGICO",
+          "fonte": "CAPÍTULO IV DOS CONTEÚDOS CURRICULARES E PROJETO PEDAGÓGICO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DA ORGANIZAÇÃO DO CURSO",
+          "fonte": "CAPÍTULO V DA ORGANIZAÇÃO DO CURSO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DO ACOMPANHAMENTO E AVALIAÇÃO",
+          "fonte": "CAPÍTULO VI DO ACOMPANHAMENTO E AVALIAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              32,
+              34
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "33794b53156f9e6f80adb8d606dc09f88858472d1eb36ea461aabdd3899316ec",
+      "sha256_visivel_md": "b5722d90f0e18080bb5afcd57181ef3dee92451b96d201e400a26d8315d6a89b"
+    },
+    {
+      "path": "reguladores/anp/resolucoes/2018/resolucao-n-748-de-20-de-setembro-de-2018-41781436.md",
+      "sha256_md": "77896900df1a250236222a86308dc9de39403831af0ffcdab25cd6ff89043633",
+      "sha256_fonte": "81550301eeca5bcacf9500b547f0b5d77a1432ed92e4783f64f79d0bde399ec9",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              22,
+              26
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "0dcc04879497297ba7266501dacb543b391e270ba2c64b3bc1a9b9fbb4384e56",
+      "sha256_visivel_md": "0dcc04879497297ba7266501dacb543b391e270ba2c64b3bc1a9b9fbb4384e56"
+    },
+    {
+      "path": "reguladores/agu/portarias/2018/portaria-n-317-de-25-de-outubro-de-2018-47325746.md",
+      "sha256_md": "2a49004a7f084ff0f5cf0421ac1554446204f02dccdcea93cad3be2a0cd82f47",
+      "sha256_fonte": "e7bbbea3c3ea034e3a52aeeafa84fc0fecb646be5cf5e43ef7b59e4ee758fb0b",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "7dbf2b48fe3d6117d49c23fcc0813a9232f91502488e5dc032fe8ecf22d3e11a",
+      "sha256_visivel_md": "8de55c6940000cc6755e967eebb55468a9bfb010ca5775c3727ff6e7c892520d",
+      "primeira_diferenca": {
+        "posicao": 42,
+        "fonte": "PORTARIA Nº 317, DE 25 DE OUTUBRO DE 2018 A ADVOGADA-GERAL DA UNIÃO,no uso das atribuições que lhe confere o art. 4º, incisos I e XVIII, da Lei Complementar nº 73, de 10 de fevereiro de 1993, consideran",
+        "md": "PORTARIA Nº 317, DE 25 DE OUTUBRO DE 2018 **A ADVOGADA-GERAL DA UNIÃO,**no uso das atribuições que lhe confere o art. 4º, incisos I e XVIII, da Lei Complementar nº 73, de 10 de fevereiro de 1993, consid"
+      }
+    },
+    {
+      "path": "reguladores/agu/portarias/2018/portaria-n-324-de-29-de-outubro-de-2018-47741761.md",
+      "sha256_md": "e3a6fbe200569edbc328c70edce83eb618a69a2a47070360f87c8c1c85c89256",
+      "sha256_fonte": "716b2d9b981475e60fc104eba93ee35ab52e72df3416b92f652ff491ba75a538",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "66598018c1587a33c055b3e806b5f8c1e4c2dbfc4ad34a2ec3d858d0d42283e4",
+      "sha256_visivel_md": "5b890c49e6f34304c62b0c4cd3a5ba0010c6dde76278ad803b9c2d841ce584ea",
+      "primeira_diferenca": {
+        "posicao": 251,
+        "fonte": " para análise de precatórios a serem incluídos na Lei Orçamentária Anual - LOA. A ADVOGADA-GERAL DA UNIÃO,no uso das atribuições que lhe confere o art. 4º, incisos I, XIII e XIII, da Lei Complementar nº 73, de 10 de fevereiro de 1993, resol",
+        "md": " para análise de precatórios a serem incluídos na Lei Orçamentária Anual - LOA. **A ADVOGADA-GERAL DA UNIÃO,**no uso das atribuições que lhe confere o art. 4º, incisos I, XIII e XIII, da Lei Complementar nº 73, de 10 de fevereiro de 1993, r"
+      }
+    },
+    {
+      "path": "reguladores/agu/portarias/2018/portaria-n-42-de-25-de-outubro-de-2018-47329977.md",
+      "sha256_md": "f3e6a814e6733dd7e22e1825a8ee71d709574f09247ef167d9fb307f96d3094f",
+      "sha256_fonte": "b7d8c19b5ac2e58c9e91244560e585afa14bfd5f146200f254aba6e2ed6610ec",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DAS DISPOSIÇÕS PRELIMINARES",
+          "fonte": "CAPÍTULO I DAS DISPOSIÇÕS PRELIMINARES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DA REPRESENTAÇÃO EXTRAJUDICIAL DA UNIÃO",
+          "fonte": "CAPÍTULO II DA REPRESENTAÇÃO EXTRAJUDICIAL DA UNIÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Das Disposições Gerais",
+          "fonte": "Seção I Das Disposições Gerais",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Da Representação Extrajudicial da União perante o Tribunal de Contas da União",
+          "fonte": "Seção II Da Representação Extrajudicial da União perante o Tribunal de Contas da União",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DA REPRESENTAÇÃO EXTRAJUDICIAL DE AGENTES PÚBLICOS DA UNIÃO",
+          "fonte": "CAPÍTULO III DA REPRESENTAÇÃO EXTRAJUDICIAL DE AGENTES PÚBLICOS DA UNIÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DA ATUAÇÃO NOS CASOS DE VIOLAÇÃO ÀS PRERROGATIVAS FUNCIONAIS DOS MEMBROS DA AGU",
+          "fonte": "CAPÍTULO IV DA ATUAÇÃO NOS CASOS DE VIOLAÇÃO ÀS PRERROGATIVAS FUNCIONAIS DOS MEMBROS DA AGU",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DAS DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO V DAS DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "dffcc6a61f40ebda53169aa0a74a56ce6386920a074bb321fe56f064e62244ac",
+      "sha256_visivel_md": "2b43035d1c8d9eaca3e09a5d1a58589dd9a24b21c19a9e8ed1663444cd5c55e8",
+      "primeira_diferenca": {
+        "posicao": 587,
+        "fonte": "endo em vista o disposto no art. 131,caput, da Constituição Federal, no art. 1º,caput,da Lei Complementar nº 73, de 10 de fevereiro de 1993, e no art. 22 da Lei n° 9.028, de 12 de abril de 1995, resolve: CAPÍTULO I DAS DISPOSIÇÕS PRELIMINAR",
+        "md": "endo em vista o disposto no art. 131,caput, da Constituição Federal, no art. 1º,**caput,**da Lei Complementar nº 73, de 10 de fevereiro de 1993, e no art. 22 da Lei n° 9.028, de 12 de abril de 1995, resolve: CAPÍTULO I DAS DISPOSIÇÕS PRELIM"
+      }
+    },
+    {
+      "path": "reguladores/agu/portarias/2018/portaria-n-783-de-26-de-outubro-de-2018-49476438.md",
+      "sha256_md": "ece95584a9917df80dc14504f485b01a3297ee1e10ff0aec673771eac6830258",
+      "sha256_fonte": "e297da5a406cfc11710c635006690c7ed777ac1769b8b6367d0dacbd0676171d",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "0cf5a4fcaab6416d17118ba506ef6569fef4dedea6ed687b49b1d6df249f020f",
+      "sha256_visivel_md": "281c7137f72d20d3484a1efbcb61c1e961e039b5ceab6276e2a0cf7fbb18344d",
+      "primeira_diferenca": {
+        "posicao": 42,
+        "fonte": "PORTARIA Nº 783, DE 26 DE OUTUBRO DE 2018 O PROCURADOR-GERAL FEDERAL,no uso das atribuições que lhe conferem os incisos I e VIII do § 2º do art. 11 da Lei nº 10.480, de 2 de julho de 2002, o artigo 8º, ",
+        "md": "PORTARIA Nº 783, DE 26 DE OUTUBRO DE 2018 **O PROCURADOR-GERAL FEDERAL,**no uso das atribuições que lhe conferem os incisos I e VIII do § 2º do art. 11 da Lei nº 10.480, de 2 de julho de 2002, o artigo "
+      }
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2018/instrucao-normativa-n-1-836-de-3-de-outubro-de-2018-44303362.md",
+      "sha256_md": "9c7b4b7f03c6d751e37a1a9a014a37668be4d6ea0c7a77b7171b6f4baefc56a4",
+      "sha256_fonte": "38dcbd9591def53385b6381340695eb84f53f6bdd1d5125ccc920560be969166",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DA OBRIGATORIEDADE DE APRESENTAÇÃO DA DIRF 2019",
+          "fonte": "CAPÍTULO I DA OBRIGATORIEDADE DE APRESENTAÇÃO DA DIRF 2019",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DO PROGRAMA GERADOR DA DIRF 2019",
+          "fonte": "CAPÍTULO II DO PROGRAMA GERADOR DA DIRF 2019",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DA APRESENTAÇÃO DA DIRF 2019",
+          "fonte": "CAPÍTULO III DA APRESENTAÇÃO DA DIRF 2019",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DO PRAZO DE APRESENTAÇÃO DA DIRF 2019",
+          "fonte": "CAPÍTULO IV DO PRAZO DE APRESENTAÇÃO DA DIRF 2019",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DO PREENCHIMENTO DA DIRF 2019",
+          "fonte": "CAPÍTULO V DO PREENCHIMENTO DA DIRF 2019",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DA RETIFICAÇÃO DA Dirf 2019",
+          "fonte": "CAPÍTULO VI DA RETIFICAÇÃO DA Dirf 2019",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VII — DO PROCESSAMENTO DA Dirf 2019",
+          "fonte": "CAPÍTULO VII DO PROCESSAMENTO DA Dirf 2019",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VIII — DAS PENALIDADES",
+          "fonte": "CAPÍTULO VIII DAS PENALIDADES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IX — DA GUARDA DAS INFORMAÇÕES",
+          "fonte": "CAPÍTULO IX DA GUARDA DAS INFORMAÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO X — DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO X DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO I — TABELA DE CÓDIGOS DE RECEITAS",
+          "fonte": "ANEXO I TABELA DE CÓDIGOS DE RECEITAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — TABELAS RELATIVAS A Rendimentos DE BENEFICIÁRIO NO EXTERIOR",
+          "fonte": "ANEXO II TABELAS RELATIVAS A Rendimentos DE BENEFICIÁRIO NO EXTERIOR",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO III — TABELA DE CÓDIGOS DOS PAÍSES",
+          "fonte": "ANEXO III TABELA DE CÓDIGOS DOS PAÍSES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              496,
+              498
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              500,
+              502
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              504,
+              506
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ")",
+            "linhas": [
+              510,
+              512
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 5,
+            "markup": ")",
+            "linhas": [
+              514,
+              516
+            ]
+          },
+          "html_start": "5",
+          "inicio_efetivo": 5,
+          "contadores": [
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              530,
+              532
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              534,
+              536
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              538,
+              540
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "49d0eeb4fec6be5b7569844082c98e1a51c03ce16c155cdf2cab21428c029b90",
+      "sha256_visivel_md": "4aecec56ba20a0e337de7fc357d46f4a832a7d42225bc3ab781b9b54a7e68fb4"
+    },
+    {
+      "path": "reguladores/rfb/pareceres-normativos/2018/parecer-normativo-n-4-de-10-de-dezembro-de-2018-54734094.md",
+      "sha256_md": "0d4dfe0f09dfc5f4aa495a848d15c6da2170791b61e46ea1302e1efd46db70d0",
+      "sha256_fonte": "7c5b79ac04a70459cc8373e88d789c3750273c9fd804670ed5ee4df776204537",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "b151c4dec5aed527b002249568292c49b96554c85b760888ca9ef8c0b51d69a3",
+      "sha256_visivel_md": "f877e766c322031c71970a73c26280f372790c41460c04b35f4d431731b99dc1",
+      "primeira_diferenca": {
+        "posicao": 58105,
+        "fonte": "rmédio de outras pessoas jurídicas (numa junção com a desconsideração inversa). ------------------------------------------------------------- (1) NEDER, Marcos Vinícus. Solidariedade de Direito e de Fato - Reflexões acerca de seu Conceito i",
+        "md": "rmédio de outras pessoas jurídicas (numa junção com a desconsideração inversa). (1) NEDER, Marcos Vinícus. Solidariedade de Direito e de Fato - Reflexões acerca de seu Conceito in NÉDER, Marcos Vinícius; FARRAGUT, Maria Rita. Responsabilida"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/instrucoes-normativas/2018/instrucao-normativa-n-13-de-23-de-outubro-de-2018-47325419.md",
+      "sha256_md": "9cb1e1402ad01500e8e5edaeb4f1b3fdfe69a6867a94bfed2d238bd165d5982c",
+      "sha256_fonte": "1e7231778cc3f5c9f68756ad1a236c2183814cc19b231dc23ec5be93c8d865fc",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "c7aba4a6bba62a273c30d0db259a205201d971266a08177c75e53b0cb841da05",
+      "sha256_visivel_md": "f2900d585235714825b62c02b8586853a2aebd65d04fdda2340b6f89d9b4eae8",
+      "primeira_diferenca": {
+        "posicao": 229,
+        "fonte": " órgãos de auditoria interna no âmbito da ICP-Brasil, e dá outras providências. O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I do D",
+        "md": " órgãos de auditoria interna no âmbito da ICP-Brasil, e dá outras providências. **O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,**no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/instrucoes-normativas/2018/instrucao-normativa-n-15-de-26-de-novembro-de-2018-52247470.md",
+      "sha256_md": "381bde655758e66d877ea9b896f527e464313725ed6e1759e9c3bc91a67f7e7f",
+      "sha256_fonte": "09f84c670a45b008114d50ded0ca2677997efc8fe61119a1c4bd959b558f371e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "5285c974297bbb4e3c9ed01de0cb08da6899ecf87c9e28297da8a682fc01d530",
+      "sha256_visivel_md": "180de924fe63682ad7cc01f8ba39ea37fc68c323df72aeb7657918318e19ef10",
+      "primeira_diferenca": {
+        "posicao": 171,
+        "fonte": "os Algoritmos e as Suítes de Assinatura e definir parâmetros para a curva E521. O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,SUBSTITUTO,no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do a",
+        "md": "os Algoritmos e as Suítes de Assinatura e definir parâmetros para a curva E521. **O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,SUBSTITUTO,**no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/instrucoes-normativas/2018/instrucao-normativa-n-16-de-4-de-dezembro-de-2018-54031616.md",
+      "sha256_md": "610c1c86a088b51757adc8aa46a8512eec4c31153d811cab04a98025eb1416d4",
+      "sha256_fonte": "e7618f89a119b63d5b7ca14969fb1b1e3e92a084bb6f5745b34f452219210bf5",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "3198fac5f0cf38b60b366c39c46f31cdfeb88a71453b88c783a133921e394246",
+      "sha256_visivel_md": "92dd78867adeb45304480ab7ceca0da79eb5c3412a489108549361bc08480a43",
+      "primeira_diferenca": {
+        "posicao": 153,
+        "fonte": " do Art. 2º e o Art. 4º da Instrução Normativa nº 12, de 23 de outubro de 2018. O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I do D",
+        "md": " do Art. 2º e o Art. 4º da Instrução Normativa nº 12, de 23 de outubro de 2018. **O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,**no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/instrucoes-normativas/2018/instrucao-normativa-n-9-de-29-de-agosto-de-2018-39379751.md",
+      "sha256_md": "c453d997b6078b72d8fdb1df3a7d9f3eb988a6665faf5a42a0d98bfcaab1f874",
+      "sha256_fonte": "82a619889bcdc413202450da34e8444ae8d531ab3e26d939e4cbc45c7dc08ce3",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "922002c9782a7933239ff89110df69be31dd2978c5f05457165d66659bd1b4d3",
+      "sha256_visivel_md": "d5e356ee45a644b897a5e779dead970f058fc7679982fc4cd203961861fc6ec0",
+      "primeira_diferenca": {
+        "posicao": 230,
+        "fonte": "ue trata dos requisitos para emissão de certificados digitais para condomínios. O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO, SUBSTITUTO,no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do ",
+        "md": "ue trata dos requisitos para emissão de certificados digitais para condomínios. **O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO, SUBSTITUTO,**no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-123-de-5-de-julho-de-2018-47097366.md",
+      "sha256_md": "24ea27fc4e299f58b5ffaa7b9664f36a53d66e6392e0144ba3f3058d0d19f958",
+      "sha256_fonte": "fb52a94526e0bca63d3612feaef573466f295a38b364e91aac5d1b16cf25723b",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "902fb0f99a8d0a573df540e68b02ce906d2873f6b5f30b9ab6c39256a75079df",
+      "sha256_visivel_md": "06cdd69f1b7babe86ae456390cf650bcf49e2e558430c995dec014bdcc970f0b",
+      "primeira_diferenca": {
+        "posicao": 41,
+        "fonte": "PORTARIA Nº 1.123, DE 5 DE JULHO DE 2018 O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA,no uso das atribuições que lhe são conferidas pelo art. 21, da Estrutura Regimental ",
+        "md": "PORTARIA Nº 1.123, DE 5 DE JULHO DE 2018 **O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA,**no uso das atribuições que lhe são conferidas pelo art. 21, da Estrutura Regimen"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-461-de-31-de-agosto-de-2018-42630520.md",
+      "sha256_md": "4f456b84572736da687ae1402905b1198b5e2eb37d54cf1b5e4069e866bbc56e",
+      "sha256_fonte": "d395ad18ba9e0d46127f8778206f6a300984594ecf2e051563ced9c45db76a02",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "ecb80522d1af5d1b5fcb45cd7d17b0e177fd9b97d1cc43825ea3be56f54536ed",
+      "sha256_visivel_md": "57b953e6a3200377c25aff7bf1ac60789a18c03d341a9968f5542ceeaf1bb1f9",
+      "primeira_diferenca": {
+        "posicao": 43,
+        "fonte": "PORTARIA Nº 1.461, DE 31 DE AGOSTO DE 2018 O SUPERINTENDENTE REGIONAL DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA NO ESTADO DO MARANHÃO,no uso das atribuições que lhe são conferidas pe",
+        "md": "PORTARIA Nº 1.461, DE 31 DE AGOSTO DE 2018 **O SUPERINTENDENTE REGIONAL DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA NO ESTADO DO MARANHÃO,**no uso das atribuições que lhe são conferida"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-507-de-11-de-setembro-de-2018-40549083.md",
+      "sha256_md": "bb92711134c3d7518964da478431ac3efd1b8d785be5bc609781ce3fa42c5af2",
+      "sha256_fonte": "0935af028fc1f2715a84ca67467c0f5efdf2927c629b61c84d84ff63e20f0d54",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "0fbe229f3867d4680e34d6b407b84fde9abe697f2630c6ee567eaa8c9525bf52",
+      "sha256_visivel_md": "979bfe9634c3cd121bee9604b67939594de934ebad6c547c4ef2382cc86fd0f9",
+      "primeira_diferenca": {
+        "posicao": 45,
+        "fonte": "PORTARIA Nº 1.507, DE 11 DE SETEMBRO DE 2018 O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA,no uso das atribuições que lhe são conferidas pelo art. 21, da Estrutura Regimental ",
+        "md": "PORTARIA Nº 1.507, DE 11 DE SETEMBRO DE 2018 **O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA,**no uso das atribuições que lhe são conferidas pelo art. 21, da Estrutura Regimen"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-524-de-14-de-setembro-de-2018-42630420.md",
+      "sha256_md": "e8d9869239eb11ea75eee63ddf870bc3c4bd74d42258ca5bca083c73697d5ed1",
+      "sha256_fonte": "1afdebb27b143c952f36dba930596397062f45ca05b5228250932800b4abcf8d",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "a88877ebcd9a305ed5b689eabd64ae8ee1b6427e85ae99ccba5ab65abd30e891",
+      "sha256_visivel_md": "7b57617478e4a24b05cca3363b29754e5cb6d124490f2f0983d238854eb3f0c9",
+      "primeira_diferenca": {
+        "posicao": 45,
+        "fonte": "PORTARIA Nº 1.524, DE 14 DE SETEMBRO DE 2018 O SUPERINTENDENTE REGIONAL SUBSTITUTO DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA NO OESTE DO PARÁ - INCRA/SR(30),no uso das atribuições que lhe são ",
+        "md": "PORTARIA Nº 1.524, DE 14 DE SETEMBRO DE 2018 **O SUPERINTENDENTE REGIONAL SUBSTITUTO DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA NO OESTE DO PARÁ - INCRA/SR(30),**no uso das atribuições que lhe "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-651-de-10-de-outubro-de-2018-46674049.md",
+      "sha256_md": "7039b75a82e86c9e63f1b1918decaf9e916582937b6d52d0198fbb2993ca7d02",
+      "sha256_fonte": "fad935bdf73d0037da6a62468337791bb3f58e526bc620f9697e2265363402d6",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "9302b255d2d23d5e8a8133aa14d61584d26abc8da434c8dbbe25a8e219166f5f",
+      "sha256_visivel_md": "7503f935d935a70dbd9c0a706e6908cb986407fe61c443459cb969504976a081",
+      "primeira_diferenca": {
+        "posicao": 44,
+        "fonte": "PORTARIA Nº 1.651, DE 10 DE OUTUBRO DE 2018 A SUPERINTENDENTE REGIONAL SUBSTITUTA DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA NO ESTADO DO RIO GRANDE DO NORTE - SR(19)RN,nomeada através",
+        "md": "PORTARIA Nº 1.651, DE 10 DE OUTUBRO DE 2018 **A SUPERINTENDENTE REGIONAL SUBSTITUTA DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA NO ESTADO DO RIO GRANDE DO NORTE - SR(19)RN,**nomeada atr"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-660-de-11-de-outubro-de-2018-47324644.md",
+      "sha256_md": "81d64de18f02c4d81e6c690d847dea681bf1a9d024503afbff9d296bfa55ca04",
+      "sha256_fonte": "ab8223a1ba93b650265aa2c0a00558aabea65ab83943d5aa6084bdecbd6f2129",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "b72672e62ccecd72b9ab85bf2456f90fa9c665cc6cbff0891e4c5b3f6140e0d2",
+      "sha256_visivel_md": "dbfe59d64e8ae636470749baeeb358f4d6720a15d328ea8a859866e11948cacc",
+      "primeira_diferenca": {
+        "posicao": 44,
+        "fonte": "PORTARIA Nº 1.660, DE 11 DE OUTUBRO DE 2018 O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA,Autarquia Federal criada pelo Decreto-lei nº 1.110, de 9 de julho de 1970, alterado ",
+        "md": "PORTARIA Nº 1.660, DE 11 DE OUTUBRO DE 2018 **O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA,**Autarquia Federal criada pelo Decreto-lei nº 1.110, de 9 de julho de 1970, alter"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-690-de-17-de-outubro-de-2018-46674098.md",
+      "sha256_md": "b0e932d2e388780202556116e60e7bcc6d325b39561d0cb14fba8156d3de5975",
+      "sha256_fonte": "768bb4d51f84e5b328561d130c4f4f8fc5b56bd7f7b203b0ae33b700fabfb0ed",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "7dc3c6b62ae48ed2c2fb328cd5e3b34be7072692a4eec8d0361c1e663a2e8c31",
+      "sha256_visivel_md": "a7e9bb5ea0e5e4ebbefc0904505eca6a8bf799d058b6ae8583f74f7e3fc34292",
+      "primeira_diferenca": {
+        "posicao": 44,
+        "fonte": "PORTARIA Nº 1.690, DE 17 DE OUTUBRO DE 2018 O SUPERINTENDENTE REGIONAL SUBSTITUTO DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA NO ESTADO DE SÃO PAULO,no uso das atribuições que lhe são c",
+        "md": "PORTARIA Nº 1.690, DE 17 DE OUTUBRO DE 2018 **O SUPERINTENDENTE REGIONAL SUBSTITUTO DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA NO ESTADO DE SÃO PAULO,**no uso das atribuições que lhe s"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-691-de-17-de-outubro-de-2018-46674092.md",
+      "sha256_md": "753cd31d6bea8d9c3301645c949110bde5432f93e4da133891818bbee68d5378",
+      "sha256_fonte": "ed13be51483b94a6cfd3c58693858f3e6684c587120d862412d157cd0e27b16a",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "c72313f1bb4490be7735a98d3af5904a6b34bbdcdf21259aa290fd4116a94b4e",
+      "sha256_visivel_md": "124d76a4708d46ce6539cc8ac6e46f38c321fbc69e83666dd3c1cae68131f971",
+      "primeira_diferenca": {
+        "posicao": 44,
+        "fonte": "PORTARIA Nº 1.691, DE 17 DE OUTUBRO DE 2018 O SUPERINTENDENTE REGIONAL SUBSTITUTO DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA DO ESTADO DE SÃO PAULO,no uso das atribuições que lhe são c",
+        "md": "PORTARIA Nº 1.691, DE 17 DE OUTUBRO DE 2018 **O SUPERINTENDENTE REGIONAL SUBSTITUTO DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA DO ESTADO DE SÃO PAULO,**no uso das atribuições que lhe s"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-692-de-17-de-outubro-de-2018-46674200.md",
+      "sha256_md": "5d4e2e19f365ef6657e22eb028b6df27130da3411e7f3ea084c2625b3c67bb8f",
+      "sha256_fonte": "283eaf68bf32614865e50189dc7ea95c36de5033a79a312723bab03b1019fe60",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "0a03ab1738801540a5354c10602ea9842ffa0d7a44b2a6f8378385e6b339c347",
+      "sha256_visivel_md": "cbe792132facd6def323d13fb35e424bff7b7e92bd20c4324076ed0d9f7562c9",
+      "primeira_diferenca": {
+        "posicao": 44,
+        "fonte": "PORTARIA Nº 1.692, DE 17 DE OUTUBRO DE 2018 O SUPERINTENDENTE REGIONAL SUBSTITUTO DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA DO ESTADO DE SÃO PAULO,no uso das atribuições que lhe são c",
+        "md": "PORTARIA Nº 1.692, DE 17 DE OUTUBRO DE 2018 **O SUPERINTENDENTE REGIONAL SUBSTITUTO DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA DO ESTADO DE SÃO PAULO,**no uso das atribuições que lhe s"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-694-de-17-de-outubro-de-2018-46674090.md",
+      "sha256_md": "2c50f7ea61efed5e30315ec996c87c53418df99eb0d6cc47d248d611acdf66b8",
+      "sha256_fonte": "a8d0746d9d30e41354ac0bb8c618fa8380f6528035e6646adafbf99c4d858552",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "04bdf43297de3a2a5b85beb2caa85481ffbfc07dcc759a45d43a8d7de2033cf4",
+      "sha256_visivel_md": "3c2cfd8ed3975017d1c490b1de5d0eb310eb4bb5ccaf05a66b9aaa66aa30aedc",
+      "primeira_diferenca": {
+        "posicao": 44,
+        "fonte": "PORTARIA Nº 1.694, DE 17 DE OUTUBRO DE 2018 O SUPERINTENDENTE REGIONAL SUBSTITUTO DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA DO ESTADO DE SÃO PAULO,no uso das atribuições que lhe são c",
+        "md": "PORTARIA Nº 1.694, DE 17 DE OUTUBRO DE 2018 **O SUPERINTENDENTE REGIONAL SUBSTITUTO DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA DO ESTADO DE SÃO PAULO,**no uso das atribuições que lhe s"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-695-de-17-de-outubro-de-2018-46674169.md",
+      "sha256_md": "09f285ee43a8f0778e8ff3b0277052e21d19bfe520ddf89cdef15feabd1e3b37",
+      "sha256_fonte": "9490f7629f55f9ac1a546615b33b5b5a2adb77509c4503e46f9771d5576bb553",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "d7950f192f8eed2c37a4d6c57d549dee3332afa9d74477756096d0298b3f8667",
+      "sha256_visivel_md": "a10c65e8fedf2aab965b2ccef8bdb33070e248441803636a19a13bed59c6b0f0",
+      "primeira_diferenca": {
+        "posicao": 44,
+        "fonte": "PORTARIA Nº 1.695, DE 17 DE OUTUBRO DE 2018 O SUPERINTENDENTE REGIONAL SUBSTITUTO DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA DO ESTADO DE SÃO PAULO,no uso das atribuições que lhe são c",
+        "md": "PORTARIA Nº 1.695, DE 17 DE OUTUBRO DE 2018 **O SUPERINTENDENTE REGIONAL SUBSTITUTO DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA DO ESTADO DE SÃO PAULO,**no uso das atribuições que lhe s"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-698-de-18-de-outubro-de-2018-46886284.md",
+      "sha256_md": "fb09057ca85910a32b7a4dc0acdd4f0a28445bbf186bf9454e10e895ffe3dd9f",
+      "sha256_fonte": "9aa48ea02542a07ed778e8e400c31d7f1116bcd9c494b6e296fac2469ccf4e48",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e865090f25a8102d953e8e8ab8a70cab4cf94b1fa705b0bf01003e1fe020f15b",
+      "sha256_visivel_md": "475068f2fc61fd930b7a73a60c3d2718756dca2efbf30df0b992f3fc49493163",
+      "primeira_diferenca": {
+        "posicao": 44,
+        "fonte": "PORTARIA Nº 1.698, DE 18 DE OUTUBRO DE 2018 O SUPERINTENDENTE REGIONAL INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA DO INCRA DO ESTADO DO MARANHÃO,no uso das atribuições que lhe são conferidas pelo",
+        "md": "PORTARIA Nº 1.698, DE 18 DE OUTUBRO DE 2018 **O SUPERINTENDENTE REGIONAL INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA DO INCRA DO ESTADO DO MARANHÃO,**no uso das atribuições que lhe são conferidas "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-709-de-23-de-outubro-de-2018-47542779.md",
+      "sha256_md": "a2aa4fb40720072de6b1cee936ac04f45e369ff8dd60791458830c39d8969b90",
+      "sha256_fonte": "c90a8ebd5077fe379ce823cac34d5be67688f6bf0261bc9828643ea4dde8b1da",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "f13ffd6302560bc4c0744a2929b226132ab8cffc2484e877dbb7bc39137a6021",
+      "sha256_visivel_md": "81f4ad43dc64c416a3b1bdf123c6dad03ea915aae4cb57968da6039090b6ac75",
+      "primeira_diferenca": {
+        "posicao": 153,
+        "fonte": " de famílias da comunidade remanescente de quilombo Preto Forro, Cabo Frio -RJ. O SUPERINTENDENTE REGIONAL DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA NO RIO DE JANEIRO SR(07)/RJ,no uso das atribuições que lhe são conferi",
+        "md": " de famílias da comunidade remanescente de quilombo Preto Forro, Cabo Frio -RJ. **O SUPERINTENDENTE REGIONAL DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA NO RIO DE JANEIRO SR(07)/RJ,**no uso das atribuições que lhe são con"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-747-de-31-de-outubro-de-2018-48229827.md",
+      "sha256_md": "e69235891bcb966d26881911e2150c1ae1a793cf6a889db669cff908877424d6",
+      "sha256_fonte": "a8a852ac11cebd37426edeca4cb6f9a04b86f05964cdc28a1a0251256859b021",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "b2505e77c1bb64989cf8bffe67db843e97c1aa7616f48f33138c5a322192a79f",
+      "sha256_visivel_md": "ba862e4e77a36b3446d5dc3e579aa5fc69007a11b4cfa924fadb31f152702c77",
+      "primeira_diferenca": {
+        "posicao": 44,
+        "fonte": "PORTARIA Nº 1.747, DE 31 DE OUTUBRO DE 2018 O SUPERINTENDENTE REGIONAL SUBSTITUTO DA INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA DO ESTADO DE RONDÔNIA - SR-17/RO,nomeado pela PORTARIA/INCRA/P/Nº. ",
+        "md": "PORTARIA Nº 1.747, DE 31 DE OUTUBRO DE 2018 **O SUPERINTENDENTE REGIONAL SUBSTITUTO DA INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA DO ESTADO DE RONDÔNIA - SR-17/RO,**nomeado pela PORTARIA/INCRA/P/"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-755-de-5-de-novembro-de-2018-48972815.md",
+      "sha256_md": "fe332d7278c36d8eef26412a82b197973374efe8657bfb349dd2a92c63617e8b",
+      "sha256_fonte": "c2948203ef25c6e95ec54efe4c0558fdc89a47b385939f89354a00695be604ef",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "8e5249aee33c6297d9aa7232da620b3fcc730dd33a9d8bd3b09a7872dab5f370",
+      "sha256_visivel_md": "141c71382b949f8b85c46de98ab23ca8679cae18da224df3d5dc20c097b40876",
+      "primeira_diferenca": {
+        "posicao": 166,
+        "fonte": " da comunidade negra remanescente da fazenda de São José da Serra, Valença -RJ. O SUPERINTENDE REGIONAL DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA DO INCRA DO ESTADO DO RIO DE JANEIRO,no uso das atribuições que lhe foram conferi",
+        "md": " da comunidade negra remanescente da fazenda de São José da Serra, Valença -RJ. **O SUPERINTENDE REGIONAL DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA DO INCRA DO ESTADO DO RIO DE JANEIRO,**no uso das atribuições que lhe foram con"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-791-de-12-de-novembro-de-2018-50683345.md",
+      "sha256_md": "4bb74bc5e61d33170d5dcce9bd8248017afdec57ff032b5553c52aeacab43a58",
+      "sha256_fonte": "d01d51b8e7d5c8f382f74a6ef2bd2017c4dc359ae9058d89a12574648e3f7a69",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "f82fd52647dfbed765aec71c06eea265d092eaff2861486b0b3c2a635e28a2f7",
+      "sha256_visivel_md": "9fbc79a13480956e4453157c6438a34fe8c4906984c11da052b8ba78fd8ee7ef",
+      "primeira_diferenca": {
+        "posicao": 45,
+        "fonte": "PORTARIA Nº 1.791, DE 12 DE NOVEMBRO DE 2018 O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA,no uso das atribuições que lhe foram conferidas pelo Artigo 21 da Estrutura Regimental deste",
+        "md": "PORTARIA Nº 1.791, DE 12 DE NOVEMBRO DE 2018 **O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA,**no uso das atribuições que lhe foram conferidas pelo Artigo 21 da Estrutura Regimental d"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-799-de-13-de-novembro-de-2018-50860931.md",
+      "sha256_md": "cb2e767158a1b31496c8fe746309eca5e03cca95935ef22ccb29c114a61a50ae",
+      "sha256_fonte": "9aa56adb3e53a801356e97f46c14a1b7cb0efa8e8d6b1f7bfc5dc8ba944a3d94",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "162b51c5a34bc28910efefc00b57db93a413cb02ebc1e2d2c30d103df4ab5bbf",
+      "sha256_visivel_md": "400858750b80b6b728ce0e37d1a4894f69ff3907b395c5aa2533b49efffa2ec6",
+      "primeira_diferenca": {
+        "posicao": 45,
+        "fonte": "PORTARIA Nº 1.799, DE 13 DE NOVEMBRO DE 2018 O SUPERINTENDENTE REGIONAL DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA, INCRA DO ESTADO DO CEARÁ,no uso das atribuições que lhe são conferidas pelo i",
+        "md": "PORTARIA Nº 1.799, DE 13 DE NOVEMBRO DE 2018 **O SUPERINTENDENTE REGIONAL DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA, INCRA DO ESTADO DO CEARÁ,**no uso das atribuições que lhe são conferidas pe"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-846-de-21-de-novembro-de-2018-51522844.md",
+      "sha256_md": "9898d980f2fa8a650010124418e75af589c4f3ce8ad802f19ea961c3cdefba8d",
+      "sha256_fonte": "a8aa435c5807831a5228bc8c214d9e6f37bbfebfd09eaf1d45b968ebe0c75a90",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "9fade597e48b810f1fa04e9be8671de24388a987c0415a32f53a5457b7ae6bbe",
+      "sha256_visivel_md": "747d40d6dc35ee4db69ff137c44a259105d081334868537112bfe1ee42d8fce6",
+      "primeira_diferenca": {
+        "posicao": 45,
+        "fonte": "PORTARIA Nº 1.846, DE 21 DE NOVEMBRO DE 2018 O SUPERINTENDENTE REGIONAL SUBSTITUTO DA INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA DO ESTADO DE RONDÔNIA - SR-17/RO,nomeado pela PORTARIA/INCRA/P/Nº. ",
+        "md": "PORTARIA Nº 1.846, DE 21 DE NOVEMBRO DE 2018 **O SUPERINTENDENTE REGIONAL SUBSTITUTO DA INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA DO ESTADO DE RONDÔNIA - SR-17/RO,**nomeado pela PORTARIA/INCRA/P/"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-2-de-8-de-novembro-de-2018-49479934.md",
+      "sha256_md": "4518491444b562d1a6282c9d5a60ce9a6f8dc8767c471657c2cd806190bd194b",
+      "sha256_fonte": "06c82de5827cf0ac173b5778d9e7f5e507f59a7b6ef4b457d10c7bee5ff7a4ef",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "facb1288ba98ed5960d14daa170d3a28b07a52c41a75a17512b3514f77398527",
+      "sha256_visivel_md": "b80ba1845f16aaee82701a1c3bfe77f93212ebf0f4e341cb41ec010f8e5741e5",
+      "primeira_diferenca": {
+        "posicao": 13,
+        "fonte": "PORTARIA Nº 2, DE 8 DE NOVEMBRO DE 2018 Dispõe sobre a organização interna e o funcionamento do Gabinete de Transição de que trata a Lei nº 10.609, de 20 de dezembro de 2002",
+        "md": "PORTARIA Nº 2**, DE 8 DE NOVEMBRO DE 2018** Dispõe sobre a organização interna e o funcionamento do Gabinete de Transição de que trata a Lei nº 10.609, de 20 de dezembro de "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-256-de-28-de-agosto-de-2018-38919113.md",
+      "sha256_md": "74028f9fa7d8ca7ade464fb0744457d047eb0dc85b072a0c66bbe5add0cfdb8a",
+      "sha256_fonte": "1079b549c9e96f252d633b44e4966e1be776557e86b99a286c5bab500435247e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "2dca742d4da89aa31171100e56124f0165c81d57f4beb2417c8ff2f99ccc77e1",
+      "sha256_visivel_md": "6f75d4b69ad6a5df4b1b0914a1be5c1efc762a2d752850e71842f20b409b9bbb",
+      "primeira_diferenca": {
+        "posicao": 151,
+        "fonte": "ecadação e cobrança de publicações de atos oficiais no Diário Oficial da União. ODIRETOR-GERAL DA IMPRENSA NACIONAL,no uso da atribuição que lhe confere o art. 5º,caput,inciso II do Regimento Interno aprovado pela Portaria nº 147, de 9 de m",
+        "md": "ecadação e cobrança de publicações de atos oficiais no Diário Oficial da União. **ODIRETOR-GERAL DA IMPRENSA NACIONAL,**no uso da atribuição que lhe confere o art. 5º,*caput,*inciso II do Regimento Interno aprovado pela Portaria nº 147, de "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-30-de-18-de-outubro-de-2018-45994161.md",
+      "sha256_md": "98b75b98d28342d28c95a72d74c5d43a030b90f44c6326c47205e9e2ae11cc48",
+      "sha256_fonte": "9d8f133f244f4b3e9b8c851aaf16d39473f61b3322489499cf259564de0bd20b",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "cfde555d8dd61d423d5336f0093c0a29b13eab0bcf27c88e4bdac0ef274c4e22",
+      "sha256_visivel_md": "5fb797ec4e8c0298788444a7bdfacc0f0154ec5aedcf713847bf941d2f09d0cc",
+      "primeira_diferenca": {
+        "posicao": 41,
+        "fonte": "PORTARIA Nº 30, DE 18 DE OUTUBRO DE 2018 O SECRETÁRIO NACIONAL DE JUVENTUDE DA SECRETARIA DE GOVERNO DA PRESIDÊNCIA DA REPÚBLICA,no uso das atribuições que lhe confere o § 1º do art. 6º do Decreto 9024",
+        "md": "PORTARIA Nº 30, DE 18 DE OUTUBRO DE 2018 **O SECRETÁRIO NACIONAL DE JUVENTUDE DA SECRETARIA DE GOVERNO DA PRESIDÊNCIA DA REPÚBLICA,**no uso das atribuições que lhe confere o § 1º do art. 6º do Decreto "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-315-de-23-de-novembro-de-2018-51774410.md",
+      "sha256_md": "65f7b62109abd255180e5b7c7fe33f458b6a74d50a42330741163e2439f1668d",
+      "sha256_fonte": "55a969122901831c77014dc2d5f5b8f2057ce5d447ed366724b0f50f9d5d48ef",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "7e753267164042c02efff4b6cdc60afc7f4ff39ad5cef656d894dbf1c1042a88",
+      "sha256_visivel_md": "4139f787f10b940d3f863b62d59e59c655e8e7df8c26a769f817356516b2180d",
+      "primeira_diferenca": {
+        "posicao": 43,
+        "fonte": "PORTARIA Nº 315, DE 23 DE NOVEMBRO DE 2018 ODIRETOR-GERAL DA IMPRENSA NACIONAL,usando da competência que lhe confere o art. 5º, inciso XXI do Regimento Interno, aprovado pela Portaria nº 147, de 9 de mar",
+        "md": "PORTARIA Nº 315, DE 23 DE NOVEMBRO DE 2018 **ODIRETOR-GERAL DA IMPRENSA NACIONAL,**usando da competência que lhe confere o art. 5º, inciso XXI do Regimento Interno, aprovado pela Portaria nº 147, de 9 de"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-35-de-14-de-novembro-de-2018-50486659.md",
+      "sha256_md": "fc43fd3a46c43acb27d0883eb74c8eaf8345508b9e1ee6cf3f703dbbd02e7061",
+      "sha256_fonte": "93b05f9c4197bdb5122b6b6a490d3c9299b9b9374ce6f30d88854b80ee91cfd8",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "8747c6f64be442e7a8236626acad20e121328ed4c753b3b70868443e93fc829d",
+      "sha256_visivel_md": "c4df37feb8db54f0801b0d4944e5269f9cb6d28544d6f8b9aaba2de27a3c0f4c",
+      "primeira_diferenca": {
+        "posicao": 110,
+        "fonte": "BRO DE 2018 Institui a Comenda \"Parceiro da Juventude\" e dá outras providências O SECRETÁRIO NACIONAL DE JUVENTUDE DA SECRETARIA DE GOVERNO DA PRESIDÊNCIA DA REPÚBLICA,no uso de suas atribuições legais, resolve: Art. 1º Fica criada a Comend",
+        "md": "BRO DE 2018 Institui a Comenda \"Parceiro da Juventude\" e dá outras providências **O SECRETÁRIO NACIONAL DE JUVENTUDE DA SECRETARIA DE GOVERNO DA PRESIDÊNCIA DA REPÚBLICA,**no uso de suas atribuições legais, resolve: Art. 1º Fica criada a Co"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-551-de-6-de-setembro-de-2018-40067514.md",
+      "sha256_md": "25424d639009c49e91f84e9eb60290d3f845337a5922f6a17730090bed01df1b",
+      "sha256_fonte": "f159e0c4a8b6d339337242f1f3379f1245137ebcd5990916bbe71c9657478e31",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e4fe5285023346ddc0051004817eea4d80064b6a61b68a9bb3a007c0373737d5",
+      "sha256_visivel_md": "6c86e504011087eb2a39a4a4de0171b17f8f6eced7bfd8996071a487acf3e109",
+      "primeira_diferenca": {
+        "posicao": 42,
+        "fonte": "PORTARIA Nº 551, DE 6 DE SETEMBRO DE 2018 O SECRETÁRIO ESPECIAL DE AGRICULTURA FAMILIAR E DO DESENVOLVIMENTO AGRÁRIO, SUBSTITUTO,no uso de suas atribuições, e de acordo com o disposto no art. 5º do Decr",
+        "md": "PORTARIA Nº 551, DE 6 DE SETEMBRO DE 2018 **O SECRETÁRIO ESPECIAL DE AGRICULTURA FAMILIAR E DO DESENVOLVIMENTO AGRÁRIO, SUBSTITUTO,**no uso de suas atribuições, e de acordo com o disposto no art. 5º do "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-59-de-8-de-novembro-de-2018-49479929.md",
+      "sha256_md": "03a8cf680b6c3563da89843fa011833c81f43e10ccc0fa5fce9b8c7349f685c2",
+      "sha256_fonte": "10cd21987636123bea747fda668277827c39380b7f40f51b958579020641339a",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DO CAMPO DE APLICAÇÃO",
+          "fonte": "CAPÍTULO I DO CAMPO DE APLICAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DOS PRINCÍPIOS",
+          "fonte": "CAPÍTULO II DOS PRINCÍPIOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Princípio da Oportunidade",
+          "fonte": "Seção I Princípio da Oportunidade",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Princípio da Publicidade",
+          "fonte": "Seção II Princípio da Publicidade",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Princípio da Preservação do Bem Cultural",
+          "fonte": "Seção III Princípio da Preservação do Bem Cultural",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DAS DIRETRIZES",
+          "fonte": "CAPÍTULO III DAS DIRETRIZES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Da entrada de bens históricos e artísticos no acervo patrimonial da PR",
+          "fonte": "Seção I Da entrada de bens históricos e artísticos no acervo patrimonial da PR",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Da movimentação de bens históricos e artísticos do acervo patrimonial da PR",
+          "fonte": "Seção II Da movimentação de bens históricos e artísticos do acervo patrimonial da PR",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Da preservação dos bens históricos e artísticos do acervo patrimonial da PR",
+          "fonte": "Seção III Da preservação dos bens históricos e artísticos do acervo patrimonial da PR",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção IV — Da guarda, do zelo, da conservação e do controle dos bens históricos e artísticos do acervo patrimonial da PR",
+          "fonte": "Seção IV Da guarda, do zelo, da conservação e do controle dos bens históricos e artísticos do acervo patrimonial da PR",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção V — Do desfazimento de bens históricos e artísticos do acervo patrimonial da PR",
+          "fonte": "Seção V Do desfazimento de bens históricos e artísticos do acervo patrimonial da PR",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO IV DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "ad61c90e81a1b06dc163eda61a22346b72dde452b43d596bc2daeee2f217ca44",
+      "sha256_visivel_md": "42a214a57364bc8e320847c958063be8023aaabb29be1b4748ac4923a8f6d61e",
+      "primeira_diferenca": {
+        "posicao": 165,
+        "fonte": "s Históricos e Artísticos da Presidência da República e dá outras providências. O MINISTRO DE ESTADO CHEFE DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA,no uso das atribuições que lhe conferem o art. 87, parágrafo único, inciso II, da Con",
+        "md": "s Históricos e Artísticos da Presidência da República e dá outras providências. **O MINISTRO DE ESTADO CHEFE DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA,**no uso das atribuições que lhe conferem o art. 87, parágrafo único, inciso II, da"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-617-de-5-de-outubro-de-2018-44306739.md",
+      "sha256_md": "ee9e98d46beccc0f31a5e5e3fc6570850fd78aaa1d34f70514e459aab2879a11",
+      "sha256_fonte": "9d519393cb37aa70f2128dd842429e4167a19da075178231053a6fa8cdcd3681",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "568711d05b7eae9f83b00bd04c5d371f087f1c9afe371d0add10e151893b0d60",
+      "sha256_visivel_md": "1875dafef86df517717f44890d544ed36d41a6d4d5e296ce4d0a73cf156671ad",
+      "primeira_diferenca": {
+        "posicao": 238,
+        "fonte": "to da Secretaria Especial de Agricultura Familiar e do Desenvolvimento Agrário. O SECRETÁRIO ESPECIAL DE AGRICULTURA FAMILIAR E DO DESENVOLVIMENTO AGRÁRIO,no uso das atribuições que lhe confere a Portaria Casa Civil nº 1.390, de 08 de julho",
+        "md": "to da Secretaria Especial de Agricultura Familiar e do Desenvolvimento Agrário. **O SECRETÁRIO ESPECIAL DE AGRICULTURA FAMILIAR E DO DESENVOLVIMENTO AGRÁRIO,**no uso das atribuições que lhe confere a Portaria Casa Civil nº 1.390, de 08 de j"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-645-de-30-de-outubro-de-2018-47987406.md",
+      "sha256_md": "cf3233fa3a05df1f3fff66e8c7701e5cb2154f7126ed9b53f2abcae27ba68bdc",
+      "sha256_fonte": "a9eab67dd4c1039673e6135279b853b5cf90a93e54c11300d10506c171176ad1",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO I DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DOS REQUISITOS E PROCEDIMENTOS",
+          "fonte": "CAPÍTULO II DOS REQUISITOS E PROCEDIMENTOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — DA MEDIÇÃO E DEMARCAÇÃO",
+          "fonte": "Seção I DA MEDIÇÃO E DEMARCAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — DA VISTORIA DAS OCUPAÇÕES",
+          "fonte": "Seção II DA VISTORIA DAS OCUPAÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — DAS DECLARAÇÕES",
+          "fonte": "Seção III DAS DECLARAÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção IV — DAS CONSULTAS OBRIGATÓRIAS",
+          "fonte": "Seção IV DAS CONSULTAS OBRIGATÓRIAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção V — DOS DOCUMENTOS NECESSÁRIOS E DA ANÁLISE PROCESSUAL",
+          "fonte": "Seção V DOS DOCUMENTOS NECESSÁRIOS E DA ANÁLISE PROCESSUAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DA DECISÃO DO MÉRITO",
+          "fonte": "CAPÍTULO III DA DECISÃO DO MÉRITO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DA TITULAÇÃO",
+          "fonte": "CAPÍTULO IV DA TITULAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+          "fonte": "CAPÍTULO V DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO I — MODELO DE DOCUMENTO DE PROCURAÇÃO",
+          "fonte": "ANEXO I MODELO DE DOCUMENTO DE PROCURAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — MODELO DE declaraÇÃO DE ACORDO",
+          "fonte": "ANEXO II MODELO DE declaraÇÃO DE ACORDO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO III — MODELO REVOGAÇÃO PROCURAÇÃO",
+          "fonte": "ANEXO III MODELO REVOGAÇÃO PROCURAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e5af442b8b21a792e82d152630bc81383fe407d275509b40d71b334fe0deb6b7",
+      "sha256_visivel_md": "d4fe97a6c8a0786dbddd80237a81d5b5a023846319d7775b28ff53cf64d2743f",
+      "primeira_diferenca": {
+        "posicao": 352,
+        "fonte": "DA nº 23, de 30 de abril de 2010 e a Portaria MDA nº 37 de 18 de junho de 2009. O SECRETÁRIO ESPECIAL DE AGRICULTURA FAMILIAR E DO DESENVOLVIMENTO AGRÁRIO,no uso de sua atribuição que lhe confere o art. 33 da Lei nº 11.952 de junho de 2009,",
+        "md": "DA nº 23, de 30 de abril de 2010 e a Portaria MDA nº 37 de 18 de junho de 2009. **O SECRETÁRIO ESPECIAL DE AGRICULTURA FAMILIAR E DO DESENVOLVIMENTO AGRÁRIO,**no uso de sua atribuição que lhe confere o art. 33 da Lei nº 11.952 de junho de 2"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-663-de-19-de-novembro-de-2018-50863023.md",
+      "sha256_md": "a4ed9b64fa9f72aee7405145218c8fafbaa55ee782639eaf61e065890f7c2b94",
+      "sha256_fonte": "f752e94e63fea895204bec999bb9f4157ec6f3bf06fc6848423bcc6550eef721",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DAS DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO I DAS DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DAS CARACTERÍSTICAS DO CAF",
+          "fonte": "CAPÍTULO II DAS CARACTERÍSTICAS DO CAF",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DOS BENEFICIÁRIOS E DAS EXIGÊNCIAS PARA REGISTRO DO CAF",
+          "fonte": "CAPÍTULO III DOS BENEFICIÁRIOS E DAS EXIGÊNCIAS PARA REGISTRO DO CAF",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DA REDE PÚBLICA CADASTRADORA DO CAF",
+          "fonte": "CAPÍTULO IV DA REDE PÚBLICA CADASTRADORA DO CAF",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DA REDE PRIVADA CADASTRADORA DO CAF",
+          "fonte": "CAPÍTULO V DA REDE PRIVADA CADASTRADORA DO CAF",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DA VALIDADE DO REGISTRO CAF",
+          "fonte": "CAPÍTULO VI DA VALIDADE DO REGISTRO CAF",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VII — DO CONTROLE SOCIAL",
+          "fonte": "CAPÍTULO VII DO CONTROLE SOCIAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VIII — DAS PENALIDADES",
+          "fonte": "CAPÍTULO VIII DAS PENALIDADES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IX — DAS DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO IX DAS DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "2f29b03f87a45736f558eebf3490d75da47ab4620bd2e16adc61896efc426090",
+      "sha256_visivel_md": "543703301da61cbe4085a73dffa84bf6ecc565621c73a76c7d0da9b44296117f",
+      "primeira_diferenca": {
+        "posicao": 209,
+        "fonte": " Política Nacional da Agricultura Familiar e empreendimentos familiares rurais. O SECRETÁRIO ESPECIAL DE AGRICULTURA FAMILIAR E DO DESENVOLVIMENTO AGRÁRIO,no uso das atribuições conferidas pelo inciso II do artigo 3º do Decreto nº 8.865 de ",
+        "md": " Política Nacional da Agricultura Familiar e empreendimentos familiares rurais. **O SECRETÁRIO ESPECIAL DE AGRICULTURA FAMILIAR E DO DESENVOLVIMENTO AGRÁRIO,**no uso das atribuições conferidas pelo inciso II do artigo 3º do Decreto nº 8.865"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-10-de-23-de-outubro-de-2018-46888094.md",
+      "sha256_md": "744fbf97f0e0882873fd1c92b847f8cd8114c3886cfd7808fe437001c2891e57",
+      "sha256_fonte": "d2f3188f81cb6b7baf2cf8d0657b5b10883ef073f93fb483fdb9ba093293721d",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "ff102700400e2bba77324e4b2f8fc57288f7415f1c00a9eaa9870385d4ec7a4e",
+      "sha256_visivel_md": "61342974c31b560b276d82f9c413fcd12252f79b21d1f99f7fe5c6a08c97b7a9",
+      "primeira_diferenca": {
+        "posicao": 172,
+        "fonte": "elaborar a proposta da Estratégia Nacional para a Expansão da Medicina Nuclear. O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, Coordenador do Comitê de Desenvolvimento do Programa Nuclear Bras",
+        "md": "elaborar a proposta da Estratégia Nacional para a Expansão da Medicina Nuclear. **O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, Coordenador do Comitê de Desenvolvimento do Programa Nuclear Br"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-101-de-17-de-dezembro-de-2018-55683568.md",
+      "sha256_md": "5574a116d4ae62b9cd82100ad809adbf5f0743fdef5c19fee69fa15ccd5534cd",
+      "sha256_fonte": "7dffd6a9317be9feb4288ea7dee949de4d1dc71beea608b1b5f9dcbd64a3f325",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "66ad5470bb67c6aa12a657ad59b7e5dced3d8f3b884a8c5a4a7b2bf39da88ac8",
+      "sha256_visivel_md": "655b51f1850adee46bf63f659a52d316348bff7857e91fdebc11d702a873c992",
+      "primeira_diferenca": {
+        "posicao": 110,
+        "fonte": "EMBRO DE 2018 Altera o Anexo II da Resolução nº 125, de 15 de dezembro de 2016. O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,tendo em vista a deliberação em sua 161areunião, realizada em 23 de outubro de 2018, no uso das atri",
+        "md": "EMBRO DE 2018 Altera o Anexo II da Resolução nº 125, de 15 de dezembro de 2016. **O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,**tendo em vista a deliberação em sua 161areunião, realizada em 23 de outubro de 2018, no uso das "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-103-de-28-de-agosto-de-2018-39528767.md",
+      "sha256_md": "33d46d389326f0d9de67ff767624102282dbee7fcbba53c71037ad17fc7b0654",
+      "sha256_fonte": "7175b5b0e54c1ed445eabb05b2d12721120ae27f8ca80f57123926b3d2c4589e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e35e851ee2aed45c200f05edbdda04dd49c528bf089486044d1cff65a8dd3d9c",
+      "sha256_visivel_md": "83e38f3bfe0401a0786eaf94bb37ec6f6722442a450fcbc2b32b33e717db69b2",
+      "primeira_diferenca": {
+        "posicao": 352,
+        "fonte": "erno da Autarquia, aprovado pelaPORTARIA/INCRA/P/N. 338, de 09 de março de 2018,presidido pelo SUPERINTENDENTE REGIONAL DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA, NO DISTRITRO FEDERAL E ENTORNO - SR (28)DFE,este, nomead",
+        "md": "erno da Autarquia, aprovado pelaPORTARIA/INCRA/P/N. 338, de 09 de março de 2018,**presidido pelo SUPERINTENDENTE REGIONAL DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA, NO DISTRITRO FEDERAL E ENTORNO - SR (28)DFE,**este, no"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-104-de-20-de-dezembro-de-2018-56419090.md",
+      "sha256_md": "c7442f4e57d9b679576d61474018fce515cd94cffc19d92b022fedf413ecb68b",
+      "sha256_fonte": "2b405bc3ffa0f3121566a8e1e0e9552f3a99fbd9bf6ee40f2cf400449f890f61",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ESTRATÉGIA PARA ABERTURA, AMPLIAÇÃO E PROMOÇÃO DO AGRONEGÓCIO BRASILEIRO NO MERCADO INTERNACIONAL",
+          "fonte": "ANEXO I ESTRATÉGIA PARA ABERTURA, AMPLIAÇÃO E PROMOÇÃO DO AGRONEGÓCIO BRASILEIRO NO MERCADO INTERNACIONAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "ab077af26fbffc0bdbedfaee6dadf3d9c4c6c19f3504ede796e60ef7c9ecc421",
+      "sha256_visivel_md": "5f629ad3b1cc98a0b51352fb44dfa3f859bd220f9ffccd4525dab3fcb4e1d72b",
+      "primeira_diferenca": {
+        "posicao": 330,
+        "fonte": "o art. 4°, § 3º do Decreto nº 4.732, de 10 de junho de 2003, torna público que oCONSELHO DE MINISTROS DA CÂMARA DE COMÉRCIO EXTERIOR,em sua 119ª reunião, realizada em 11 de dezembro de 2018, assim como Nota Técnica nº 32/2018/SRI/MAPA, de 0",
+        "md": "o art. 4°, § 3º do Decreto nº 4.732, de 10 de junho de 2003, torna público que o**CONSELHO DE MINISTROS DA CÂMARA DE COMÉRCIO EXTERIOR,**em sua 119ª reunião, realizada em 11 de dezembro de 2018, assim como Nota Técnica nº 32/2018/SRI/MAPA, "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-11-de-29-de-outubro-de-2018-47744637.md",
+      "sha256_md": "a30c4454223d11cdca40e14f77a0a029ac6932ca00d0f96c06a64744f0a6f201",
+      "sha256_fonte": "62b39f2e9992c7c6c531f84aac4d9493eea5bb53f66adbd19b5b540f6f81d7fa",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "895ac96447cc5bf8e9bacc53d151f1dd22354e5d848e2c5f7476c4ad2e2630fa",
+      "sha256_visivel_md": "b0fbb66c064d478d0e6e345b99c808ba9db0a8e2efe999e60022c7baffe237aa",
+      "primeira_diferenca": {
+        "posicao": 253,
+        "fonte": "io Nacional de Rejeitos Radioativos de Baixo e Médio Níveis de Radiação (RBMN). O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, Coordenador do Comitê de Desenvolvimento do Programa Nuclear Bras",
+        "md": "io Nacional de Rejeitos Radioativos de Baixo e Médio Níveis de Radiação (RBMN). **O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, Coordenador do Comitê de Desenvolvimento do Programa Nuclear Br"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-12-de-8-de-novembro-de-2018-49479939.md",
+      "sha256_md": "b328eaeccb0e798e3070013ab85ac557146f0a04cc7b0106e4e93807e205bc3b",
+      "sha256_fonte": "96708930e91043480deb1775f3f28e7e7d08092fafac4ed1a575447a5aa724b6",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "0df9e891c9cbd1fe6d2110bb8e0a39f50654ae19c111372685f0edb979a8abd6",
+      "sha256_visivel_md": "e597bba3690f2af9640706700dc1079c18184367df4624b68f09a61d7f65ef24",
+      "primeira_diferenca": {
+        "posicao": 153,
+        "fonte": "grupo técnico para dinamizar a aplicação da tecnologia nuclear na agropecuária. O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, Coordenador do Comitê de Desenvolvimento do Programa Nuclear Bras",
+        "md": "grupo técnico para dinamizar a aplicação da tecnologia nuclear na agropecuária. **O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, Coordenador do Comitê de Desenvolvimento do Programa Nuclear Br"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-142-de-22-de-agosto-de-2018-41422786.md",
+      "sha256_md": "a088b4f52be821206eb2efd22d7fa9201579bf0e50f477c8097ba2fb0257afa5",
+      "sha256_fonte": "cb078fb362ce53b3640e0766e8ecbc37d8a84683e5456ace42f1a0ad6c8d2fc2",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "2245927eb4627490fc6cc5427c7732d5eea4056da47a11b34c4a54bd39a41736",
+      "sha256_visivel_md": "9cb2c822c523861e894d8c1d25318b2b3754fe3d39d774240c9769c22b13744b",
+      "primeira_diferenca": {
+        "posicao": 151,
+        "fonte": "ião ordinária do Comitê Gestor da Infraestrutura de Chaves Públicas Brasileira. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "ião ordinária do Comitê Gestor da Infraestrutura de Chaves Públicas Brasileira. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-143-de-12-de-novembro-de-2018-50860984.md",
+      "sha256_md": "c4d8082373e5d0d215ceb07904d229a9e37966d9b23c1d61d00777342d2005c0",
+      "sha256_fonte": "1b978d3e5e7eadb95543c4f8dd0ff7fa5b8543b6d4d07d6fd92440b193d53cac",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "1dd2bcaa724b7a05a1a04b8078274f5933d138055b32c505c461bb4d59f3b4d0",
+      "sha256_visivel_md": "52bb22604a720e652a79475de003e1712936c7730eae21f5153ec5f1af75827a",
+      "primeira_diferenca": {
+        "posicao": 71,
+        "fonte": "COMITÊ DE DECISÃO REGIONAL RESOLUÇÃO Nº 143, DE 12 DE NOVEMBRO DE 2018 O COMITÊ DE DECISÃO REGIONAL - CDR,considerando o contido no Decreto n. 8.955, de 11 de janeiro de 2017, que aprovou a Estrutura Regimental do INCRA, com suport",
+        "md": "COMITÊ DE DECISÃO REGIONAL RESOLUÇÃO Nº 143, DE 12 DE NOVEMBRO DE 2018 **O COMITÊ DE DECISÃO REGIONAL - CDR,**considerando o contido no Decreto n. 8.955, de 11 de janeiro de 2017, que aprovou a Estrutura Regimental do INCRA, com su"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-143-de-6-de-setembro-de-2018-41422815.md",
+      "sha256_md": "554310913e4ee69033fbe58de06b68bf46d54762541e9d001ae6e61ecc27f3ae",
+      "sha256_fonte": "3b98fb2192393afa696817245abf26e5e790f609ba808c947ed098f3ebf2dc82",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "4c487e53398e13e994537c374d74a92c1bb5e8c4479d18c3bd4c08b4608b25e7",
+      "sha256_visivel_md": "7e6d5795e51bd301025a6dec230f56ba0825bac783c1f24ee64a02a05b33ca60",
+      "primeira_diferenca": {
+        "posicao": 176,
+        "fonte": "as de certificação da autoridade certificadora raiz da ICP-Brasil (DOC-ICP-01). O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "as de certificação da autoridade certificadora raiz da ICP-Brasil (DOC-ICP-01). **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-144-de-7-de-novembro-de-2018-54522243.md",
+      "sha256_md": "5d6c1a7e4d2757b5154ec457d9d8fc8596958d2cce7dffcb59de86add0ebe437",
+      "sha256_fonte": "1e198f6dd770944b53e4cd846b3c904b6d977ae12a3cbcf6302d016781d0d2c8",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "1841cb78111e17cd9303efe6996fa53262d2f8b9a7fa92d62ae549e03b0f04ca",
+      "sha256_visivel_md": "982d78805c3a7e30b4d449164627b59b21e191a20b79fd0c85365af57a8b9c48",
+      "primeira_diferenca": {
+        "posicao": 198,
+        "fonte": "o endereço eletrônico utilizado no procedimento de credenciamento simplificado. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "o endereço eletrônico utilizado no procedimento de credenciamento simplificado. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-145-de-7-de-novembro-de-2018-54035864.md",
+      "sha256_md": "1fdef98e743ed17a2bd09d3498324f25d4a8f42edabb7b82471e4b74119549f6",
+      "sha256_fonte": "7f493a08d0ae45169eb3e021bf90f9c2522bf975dd07949a42d56774baa99960",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "790a25cb8829cbb3356467ecb970d4914c31f4d9e565cc0a2616ef1bd0c6d982",
+      "sha256_visivel_md": "88d7955f5be473d35fb2e6047ced8da6d3b37337c7f744ea074b041aa73b110d",
+      "primeira_diferenca": {
+        "posicao": 129,
+        "fonte": " o item 7.5 do DOC-ICP-08, que trata de requisitos para auditoria independente. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": " o item 7.5 do DOC-ICP-08, que trata de requisitos para auditoria independente. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-146-de-7-de-novembro-de-2018-54035875.md",
+      "sha256_md": "54f5c12e44312b6da7b505acca104405d99d3c0ce609c40bbc09947eab6196ee",
+      "sha256_fonte": "f741eb2941b527272880c711997b3d861d5d5c2721aaf78b248ef6002e5fcbdb",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "fad38575170256f6444df6dbdf636df2795b8e98dadc694b926fa2a461ba2c85",
+      "sha256_visivel_md": "f068a05d5ff2f5a526dac612672d7b33ded53bb24efe9e3efb0a49a788e98715",
+      "primeira_diferenca": {
+        "posicao": 175,
+        "fonte": " ao ProgramaWebTrustde Princípios e Critérios para Autoridades de Certificação. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": " ao ProgramaWebTrustde Princípios e Critérios para Autoridades de Certificação. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-147-de-7-de-novembro-de-2018-54035987.md",
+      "sha256_md": "54e01c09e40d0203600fbc66f7145d6ecd47c36866df904da2aebdc5d84380b2",
+      "sha256_fonte": "decbbaa4228b9b5c904272b9b5bdb0f978bbb11414283569a1c427a9392fe080",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "71657b44602f5c1f9ebef38be856ec5b34946a782c7c38fb6f179bb8d4020864",
+      "sha256_visivel_md": "84b4895e89a5709c5f7331cb09574af1f35d8ec6118b71d93ce9619b4db1a350",
+      "primeira_diferenca": {
+        "posicao": 176,
+        "fonte": "as de Certificação da Autoridade Certificadora Raiz da ICP-Brasil (DOC-ICP-01). O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "as de Certificação da Autoridade Certificadora Raiz da ICP-Brasil (DOC-ICP-01). **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-148-de-7-de-novembro-de-2018-54036020.md",
+      "sha256_md": "2ad1a038754cc0d8017399acf7608b2ff80e2897c750c357570ba0a1e34e7f26",
+      "sha256_fonte": "03daf6246e689d1a70878f467748ef4823d4dae8072116d29a9a5ef3ba18e81c",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "0e0b788ad0a8e4a1d0e0244b5e29a298a024e2730ed8fb93cd2cb29e1a1ca367",
+      "sha256_visivel_md": "d200189c78bb5f3de30994baa254eec774feda0f324d17174a6073d48ec41aeb",
+      "primeira_diferenca": {
+        "posicao": 138,
+        "fonte": "ério para a qualificação econômico-financeira de entidades sem fins lucrativos. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "ério para a qualificação econômico-financeira de entidades sem fins lucrativos. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-149-de-7-de-novembro-de-2018-54036136.md",
+      "sha256_md": "da03520d7708ec1a040b1582c37a73fafe602307122fe2f429b3cfbeaad453b7",
+      "sha256_fonte": "5a8447f91813755bc9a408a0fe25555cfa19826d5b84b35e79963f80cde13d11",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "bb53c8c7d57f346b2852155c4a0d9a03d17caf599c901649d120c72fbfd23b6b",
+      "sha256_visivel_md": "f03f108f4958242106b9a38db92837893dd7c57da56c69bcb36b4c3a310c65fd",
+      "primeira_diferenca": {
+        "posicao": 167,
+        "fonte": "ômico-financeira e as diretrizes da política tarifária no âmbito da ICP-Brasil. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "ômico-financeira e as diretrizes da política tarifária no âmbito da ICP-Brasil. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-150-de-7-de-novembro-de-2018-54036148.md",
+      "sha256_md": "7ef4cdd0fe49c100a122d1e7c98247bb5a78147769be66ddc90304a8ad020095",
+      "sha256_fonte": "666db8b53764023863c65bebae2293f1b43d6b801e500455cb1c9dc6a91ff8ee",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "282b5e1c4db8e780c7568f7067bfff994cb3f55531159c33f8e00a943ffac72c",
+      "sha256_visivel_md": "989c5ab890dd06bb1275f81874a3f3f216424c82f3869966eee5e45cf3a5aa6a",
+      "primeira_diferenca": {
+        "posicao": 147,
+        "fonte": "gital o CNPJ da Autoridade de Registro onde ocorreu a identificação presencial. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "gital o CNPJ da Autoridade de Registro onde ocorreu a identificação presencial. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-153-de-22-de-novembro-de-2018-51522707.md",
+      "sha256_md": "5ee5a50f855396b434c4685e4e0db755ec2cb125baeb60beb61774ce6e753b7a",
+      "sha256_fonte": "728d8d50c6b8aa0375a13648ca6c9916e2f52fd50dec06177dbd678e0510c340",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "270606a18ced486956f89e352c4b874836c87b494490b05dd02aa16cdc71d961",
+      "sha256_visivel_md": "f1fdc394ae97e20b9d8749b0855c9f311027be18eadd522038c825a97e5ceeaf",
+      "primeira_diferenca": {
+        "posicao": 71,
+        "fonte": "COMITÊ DE DECISÃO REGIONAL RESOLUÇÃO Nº 153, DE 22 DE NOVEMBRO DE 2018 O COMITÊ DE DECISÃO REGIONAL - CDR,considerando o contido no Decreto n. 8.955, de 11 de janeiro de 2017, que aprovou a Estrutura Regimental do INCRA, com suport",
+        "md": "COMITÊ DE DECISÃO REGIONAL RESOLUÇÃO Nº 153, DE 22 DE NOVEMBRO DE 2018 **O COMITÊ DE DECISÃO REGIONAL - CDR,**considerando o contido no Decreto n. 8.955, de 11 de janeiro de 2017, que aprovou a Estrutura Regimental do INCRA, com su"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-27-de-19-de-outubro-de-2018-46888132.md",
+      "sha256_md": "53277ce8affffaa2d074adf074bfb3b6848a63583a1535049f9b8d39e27483c3",
+      "sha256_fonte": "f8bb79497601990f989063a597f72fd1687eb0fa6430fbd3a094529db2d98933",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "6e2edbe3c563a4517e8e1a79349f287a0ac6f2718ca75304a8693276da1c6c05",
+      "sha256_visivel_md": "0d1975a104fda022d8a0a5317291dd212186e6d732ab7625b737c10ec3e0fe07",
+      "primeira_diferenca": {
+        "posicao": 173,
+        "fonte": "o do Programa Espacial Brasileiro na quarta reunião plenária daquele colegiado. O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, Coordenador do Comitê de Desenvolvimento do Programa Espacial Bra",
+        "md": "o do Programa Espacial Brasileiro na quarta reunião plenária daquele colegiado. **O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, Coordenador do Comitê de Desenvolvimento do Programa Espacial B"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-63-de-10-de-setembro-de-2018-40549115.md",
+      "sha256_md": "c140ab07226c715cb8b89fabc46d7c13eccc09cab589c578a0d998d700b63fe9",
+      "sha256_fonte": "a8932c9e0a3d0c0ca012b349500b271388d2b0adf9b2d67dbba0c155f1820ac4",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e728dec80c9196ffb82611e4cf2fb33f9f21a7e018c83b92268c1230efde3aa3",
+      "sha256_visivel_md": "0bf7a9f7ad652ebab2bf40c0baa68a105d268867d59c633c08b86909691a2301",
+      "primeira_diferenca": {
+        "posicao": 117,
+        "fonte": " 2018 Altera a Lista Brasileira de Exceções à Tarifa Externa Comum do Mercosul. O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,tendo em vista a deliberação em sua 159areunião, realizada em 29 de agosto de 2018, no uso das atrib",
+        "md": " 2018 Altera a Lista Brasileira de Exceções à Tarifa Externa Comum do Mercosul. **O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,**tendo em vista a deliberação em sua 159areunião, realizada em 29 de agosto de 2018, no uso das a"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-77-de-17-de-outubro-de-2018-45779307.md",
+      "sha256_md": "57ae5cb83b651cbd6eb3368df59d0d3c512b561545ffea8747c60cfe83ae8e64",
+      "sha256_fonte": "b7d7db029613e03c126617467231e59629f635f183936299d246dbf432c51d53",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "fd74ad61fd47ae71183f571cb4f57c9086cc4766659ffdf10928214ee9f1c25c",
+      "sha256_visivel_md": "d109f34e53151092b4c59a92eac933e984ba9f91da989e4249485c21ddeac768",
+      "primeira_diferenca": {
+        "posicao": 116,
+        "fonte": " 2018 Altera a Lista Brasileira de Exceções à Tarifa Externa Comum do Mercosul. O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,tendo em vista a deliberação em sua 160areunião, realizada em 25 de setembro de 2018, no uso das atr",
+        "md": " 2018 Altera a Lista Brasileira de Exceções à Tarifa Externa Comum do Mercosul. **O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,**tendo em vista a deliberação em sua 160areunião, realizada em 25 de setembro de 2018, no uso das"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-90-de-7-de-dezembro-de-2018-54295220.md",
+      "sha256_md": "9820c09cee695dd17d8dcf333947a70279a86439f0d4c6af6e724e8f99d16047",
+      "sha256_fonte": "c131d749c54413ebd0f96e52a4f2d12c58f474b53e143476863a8b29845daa89",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "5fffb9e7a5620734721d1702a1e31243169721a8ccf2ac47ed1c1286c47cd344",
+      "sha256_visivel_md": "fe672e720b9398b9b8a399f61c53e3cf8dfacc3d43241ca6974615ae0b136a4c",
+      "primeira_diferenca": {
+        "posicao": 151,
+        "fonte": " a elaboração e revisão de medidas regulatórias que afetam o comércio exterior. O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,no uso das atribuições conferidas pelo inciso II do § 4º do art. 5º e pelos incisos II e III do capu",
+        "md": " a elaboração e revisão de medidas regulatórias que afetam o comércio exterior. **O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,**no uso das atribuições conferidas pelo inciso II do § 4º do art. 5º e pelos incisos II e III do "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-92-de-7-de-dezembro-de-2018-54295219.md",
+      "sha256_md": "0c8d8b4877c68e162b884ef1943ed8b3f0c247ea72ae92a8358f48126d8870eb",
+      "sha256_fonte": "d92986b5b581f90bebc119b4028762f9a5aa5fd7bcbd8b188c05f998edb769b8",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "5455c1172c0631764a4e4b5747ba888d318c1fd160c26c0f51275822a5e3e644",
+      "sha256_visivel_md": "6b2d5c425305ab086fcb3a0acffcb921b1906f5e6c8a3481b94556dcdc7d5f9d",
+      "primeira_diferenca": {
+        "posicao": 109,
+        "fonte": "MBRO DE 2018 Altera o Anexo III da Resolução no 125, de 15 de dezembro de 2016. O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,tendo em vista a deliberação de sua 162ª reunião, realizada 28 de novembro de 2018, no uso das atrib",
+        "md": "MBRO DE 2018 Altera o Anexo III da Resolução no 125, de 15 de dezembro de 2016. **O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,**tendo em vista a deliberação de sua 162ª reunião, realizada 28 de novembro de 2018, no uso das a"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-94-de-7-de-dezembro-de-2018-54295142.md",
+      "sha256_md": "0a90d8631eccbec85577c6a8b11e1687a1a368cfe87bafa9623ebd16d990f23f",
+      "sha256_fonte": "14d774cc416f95e57191012cc39b8359a11f2e55b8291ae93e441199532c1ac2",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "41edce832675a656c00beeccfd7774dd997281b6e2841a1f4e340fe73852784c",
+      "sha256_visivel_md": "61ac3d6c8c5fc04529756a5fc46bb2336f1d2dfba6ca7d119fffcbde3517b964",
+      "primeira_diferenca": {
+        "posicao": 20086,
+        "fonte": "e, caso solicitado, informação relativa a seu cumprimento e permitir verificaçãoin locodos dados pertinentes, sob pena de serem considerados violados os termos do compromisso.\" Nesse sentido, a alegada única circunstância que poderia indica",
+        "md": "e, caso solicitado, informação relativa a seu cumprimento e permitir verificação in loco dos dados pertinentes, sob pena de serem considerados violados os termos do compromisso.\" Nesse sentido, a alegada única circunstância que poderia indi"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-98-de-7-de-dezembro-de-2018-54295193.md",
+      "sha256_md": "c8d7442da0afb0ab6277d2b2d99b02aa02221ee5fbcc7ea44886ae97d2b8fd4a",
+      "sha256_fonte": "f1dd9f9d0ec3a35c33ea696f4dfacd80b8309d42d2d3212362d3e3dcadf2244e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "d3e0dbc49f506d77ed270b68dcd3614948032af45dfd4c779c3c02881eddc322",
+      "sha256_visivel_md": "4d9594549ff6f4e14b933618579692a8f32c356b890c8df21e680b68ca737783",
+      "primeira_diferenca": {
+        "posicao": 108,
+        "fonte": "EMBRO DE 2018 Altera o Anexo II da Resolução no 125, de 15 de dezembro de 2016. O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,tendo em vista as deliberações de suas 157ae 162areuniões, realizadas em 19 de junho de 2018 e 28 de",
+        "md": "EMBRO DE 2018 Altera o Anexo II da Resolução no 125, de 15 de dezembro de 2016. **O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,**tendo em vista as deliberações de suas 157ae 162areuniões, realizadas em 19 de junho de 2018 e 2"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-99-de-7-de-dezembro-de-2018-54295211.md",
+      "sha256_md": "4b44a017d7397569a4a8ea5697d8a0310ba060e787970ad2ea01acf25cd276e5",
+      "sha256_fonte": "7612338f70478acfa7ee85ba86028decb9857f95d817e44f7f00ba9a0c452cb7",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "41f80cd46117e48422630f07d49d7f6e04210691f781996e25f883685facb48a",
+      "sha256_visivel_md": "d6fcffe37871d9ce69670a670050f2691b678bbd438c2c78f6325c7e21d42dc1",
+      "primeira_diferenca": {
+        "posicao": 16316,
+        "fonte": "ão), a fim de complementar o preço de duas operações de vendas (faturas de venda[Confidencial]), cujos preços haviam sido inferiores àquele estabelecido pelo compromisso. Acrescentou que as duas faturas emitidas representariam 0,00374% ([Co",
+        "md": "ão), a fim de complementar o preço de duas operações de vendas (faturas de venda*[Confidencial]), cujos preços haviam sido inferiores àquele estabelecido pelo compromisso. Acrescentou que as duas faturas emitidas representariam 0,00374% ([C"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-136-de-1-de-marco-de-2019-65868135.md",
+      "sha256_md": "f86d129c9a59937914a89346ade5d62a2633b173d7739aa550f327ed93e00211",
+      "sha256_fonte": "e57d9ec3bb208317a922044c41483f324bc1f8bab801c5958980b0a48a66556f",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26 , § 1º )",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "6644a5c48d154d87acaf4c76da8b9751f43add9a065e24c160a854961d793ef6",
+      "sha256_visivel_md": "4c8e40d5f2dd4ca2286fa39d7a691a02427b66c5767e62142699259b73c7f9d2",
+      "primeira_diferenca": {
+        "posicao": 8018,
+        "fonte": "2019 à 31/12/2019 184012 - BAU DE HISTORIAS INCENTIVAR FOMENTO DE PROJETOS LTDA &#x2013; EPP CNPJ/CPF: 09.314.456/0001-09 Cidade: Campinas - SP; Prazo de Captação: 01/01/2019 à 31/12/2019 184100 - Livro Palácio das Laranjeiras Arco Arquitet",
+        "md": "2019 à 31/12/2019 184012 - BAU DE HISTORIAS INCENTIVAR FOMENTO DE PROJETOS LTDA – EPP CNPJ/CPF: 09.314.456/0001-09 Cidade: Campinas - SP; Prazo de Captação: 01/01/2019 à 31/12/2019 184100 - Livro Palácio das Laranjeiras Arco Arquitetura e P"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-142-de-7-de-marco-de-2019-66150275.md",
+      "sha256_md": "d38aad1d9a0f18a75aaa0a0d5c9b9738d240a26d257b2ee0b31cf41065e0ef82",
+      "sha256_fonte": "cd44bced24911e0e61feb9f379562553afc890fd51aacc2eddf6e53ee3e201dc",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 3 MÚSICA (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 3 MÚSICA (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "564f33204479284b32a6482c114338a26e9334d69205cdb36aa40386e47bb728",
+      "sha256_visivel_md": "59980f3421343ced7328956c4b8eff5c9badd8a868db1ac489572388ce7d02e1",
+      "primeira_diferenca": {
+        "posicao": 1596,
+        "fonte": "º ) 184537 - Uma Virada de Cores BURBURINHO CULTURAL PRODUCOES ARTISTICAS LTDA. &#x2013; ME CNPJ/CPF: 08.422.837/0001-30 Cidade: Rio de Janeiro - RJ; Prazo de Captação: 01/01/2019 à 31/12/2019 185378 - ESPAÇO JOLIE (Título Provisório) Digit",
+        "md": "º ) 184537 - Uma Virada de Cores BURBURINHO CULTURAL PRODUCOES ARTISTICAS LTDA. – ME CNPJ/CPF: 08.422.837/0001-30 Cidade: Rio de Janeiro - RJ; Prazo de Captação: 01/01/2019 à 31/12/2019 185378 - ESPAÇO JOLIE (Título Provisório) Digital Live"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-148-de-12-de-marco-de-2019-66748346.md",
+      "sha256_md": "13709342c7e4a2a13e53300a19ef5e5abc0dd8b8b1052f7a0881e53dfe7b2020",
+      "sha256_fonte": "c5e7af97f02f3d51c2db5f0de8cb86f3eea0408b7af23134e0e0e0c6b05845c3",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26 , § 1º )",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "312c669699e1cde0000c2ea1a91a6cfe880ee9843a20a2f27efb03c72297599b",
+      "sha256_visivel_md": "268ef39c0aaa432a9d6e41f9677d5756488dd8b994a7952fdd449b8d38436e53",
+      "primeira_diferenca": {
+        "posicao": 4092,
+        "fonte": "Grande - MS; Prazo de Captação: 01/01/2019 à 31/12/2019 184131 - Concertos Astra&#8208;Finamax &#8208; 22ª Temporada &#8208; 2019 ATIQUE & ATIQUE PRODUCOES CULTURAIS LTDA - ME CNPJ/CPF: 13.379.766/0001-70 Cidade: Jundiaí - SP; Prazo de Capt",
+        "md": "Grande - MS; Prazo de Captação: 01/01/2019 à 31/12/2019 184131 - Concertos Astra‐Finamax ‐ 22ª Temporada ‐ 2019 ATIQUE & ATIQUE PRODUCOES CULTURAIS LTDA - ME CNPJ/CPF: 13.379.766/0001-70 Cidade: Jundiaí - SP; Prazo de Captação: 01/01/2019 à"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-158-de-15-de-marco-de-2019-67379943.md",
+      "sha256_md": "978a38e5e0c6225c0d26702279b9788c0ebbd32c6e4640c2ad5f20ea70ec546c",
+      "sha256_fonte": "be06c32d828bd49eea475171e792c6dc0f276ad41bd3585ce3aa3b62fc17cdfb",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26 , § 1º )",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "31708c524549d4de0dbad35db6e4d1c87b1d7377e50332a543a570e9efe84268",
+      "sha256_visivel_md": "525d1ddd8ce72055b35c7a8ebf0f5db82b41c84b2c221f919fbac274c5970192",
+      "primeira_diferenca": {
+        "posicao": 12866,
+        "fonte": " (Artigo 18 , § 1º ) 190481 - Mostra de performance arte Verbo 2019 (15ª edição)&#8232; Ateliê Aberto Produções Contemporâneas Ltda. ME CNPJ/CPF: 10.238.972/0001-72 Processo: 01400002464201929 Cidade: Campinas - SP; Valor Aprovado: R$ 468.6",
+        "md": " (Artigo 18 , § 1º ) 190481 - Mostra de performance arte Verbo 2019 (15ª edição) Ateliê Aberto Produções Contemporâneas Ltda. ME CNPJ/CPF: 10.238.972/0001-72 Processo: 01400002464201929 Cidade: Campinas - SP; Valor Aprovado: R$ 468.618,16 P"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-198-de-2-de-abril-de-2019-69872588.md",
+      "sha256_md": "4f85da3380b26f39ce5acdfaa834fd9439b9b4073dbce4ffd8df3a442828b70f",
+      "sha256_fonte": "d7885d4c7b7d1f33a6d0d77429c6b4778b79d6bb5b312ce57642bb9cb0f1c4be",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26 , § 1º )",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "7975767e27325799d05f976dc87e25d6035e4ab348cbd8e06cb34b807a3eb60b",
+      "sha256_visivel_md": "896abc5fe805082f80ee13f09450aeb040858e3593f7a8793fc58b220f2327cc",
+      "primeira_diferenca": {
+        "posicao": 8971,
+        "fonte": "Prazo de Captação: 02/04/2019 à 31/12/2019 182501 - Festival Música na Estrada 8&#730; edição Kommitment Produções Artísticas ltda CNPJ/CPF: 12.602.246/0001-12 Cidade: Rio de Janeiro - RJ; Prazo de Captação: 01/04/2019 à 31/08/2019 182517 -",
+        "md": "Prazo de Captação: 02/04/2019 à 31/12/2019 182501 - Festival Música na Estrada 8˚ edição Kommitment Produções Artísticas ltda CNPJ/CPF: 12.602.246/0001-12 Cidade: Rio de Janeiro - RJ; Prazo de Captação: 01/04/2019 à 31/08/2019 182517 - Fest"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-314-de-30-de-maio-de-2019-148951528.md",
+      "sha256_md": "37e51c22125300aa662b87d9bdf1af17c9136eac33c390bdea8fa7e43c1edaa9",
+      "sha256_fonte": "4272b0a91fe887523352ab85ea1d56d0b4eb62836de3d523e1b78fd7bb54d2e5",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "6f844153dc74d836f39887f68f85f01ee263e893dd6b074a32040f57f2dd7088",
+      "sha256_visivel_md": "a97dcc2a11688bec2ebc209856d85be8d4f19c4c58e4734724560b7d37ee40ba",
+      "primeira_diferenca": {
+        "posicao": 4523,
+        "fonte": "resentações de óperas. 190764 - Órfão de Pai AUTONAUTA PRODUÇÕES CULTURAIS LTDA &#x2013; ME CNPJ/CPF: 05.765.198/0001-18 Processo: 01400004796201948 Cidade: Curitiba - PR; Valor Aprovado: R$ 995.346,00 Prazo de Captação: 31/05/2019 à 30/12/",
+        "md": "resentações de óperas. 190764 - Órfão de Pai AUTONAUTA PRODUÇÕES CULTURAIS LTDA – ME CNPJ/CPF: 05.765.198/0001-18 Processo: 01400004796201948 Cidade: Curitiba - PR; Valor Aprovado: R$ 995.346,00 Prazo de Captação: 31/05/2019 à 30/12/2019 Re"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-324-de-3-de-junho-de-2019-152011327.md",
+      "sha256_md": "4d4039e234e2c2d0ce7f87174c5aeb22db9e197d47781ee3e6c9b8a21dc69188",
+      "sha256_fonte": "ca2312578fc09c3f2e09ea6579e668994b58471ee77479bb95fe131666c0e9ec",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "08412b27335692963006ad06c63278dacc920a048c4052135931405bd4bcc741",
+      "sha256_visivel_md": "bcd253607bcba22b5c2622776d4713cc1b29c7cc4c602f91723aa8d64782c872",
+      "primeira_diferenca": {
+        "posicao": 1361,
+        "fonte": "STRUMENTAL- 4a Edição - O VIOLÃO SCHOFFEN & MAURUTTO PRODUCOES ARTISTICAS LTDA. &#x2013; ME CNPJ/CPF: 10.317.692/0001-50 Cidade: Maringá - PR; Valor Complementado: R$ 1.448,04 Valor total atual: R$ 218.729,28 182446 - FESTIVAL CULTURAL E AM",
+        "md": "STRUMENTAL- 4a Edição - O VIOLÃO SCHOFFEN & MAURUTTO PRODUCOES ARTISTICAS LTDA. – ME CNPJ/CPF: 10.317.692/0001-50 Cidade: Maringá - PR; Valor Complementado: R$ 1.448,04 Valor total atual: R$ 218.729,28 182446 - FESTIVAL CULTURAL E AMBIENTAL"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-330-de-5-de-junho-de-2019-155976187.md",
+      "sha256_md": "eab0a0709beca41338d19694b19dc7b1b2b9a3b5dcc8cce4d0cd4a688db9b534",
+      "sha256_fonte": "393bb3e5aec763074639478217e01ebc36b1c8c619f06a573dbc2b8632d44262",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "7b8aaea58590ddd51f4cc401ea3d89297cecc95a79925c2ea21f3c6b9b9fa4ac",
+      "sha256_visivel_md": "9e78262f43fe72a9b7c1a52c1222ee1910b2b7d52087c7b7eff4421654f2c987",
+      "primeira_diferenca": {
+        "posicao": 3365,
+        "fonte": " a Mata Atlântica e o Mico-Leão-Dourado ANDREA JAKOBSSON ESTUDIO EDITORIAL LTDA &#x2013; EPP CNPJ/CPF: 04.295.246/0001-99 Cidade: Rio de Janeiro - RJ; Valor Reduzido: R$ 263.555,15 Valor total atual: R$ 201.790,05",
+        "md": " a Mata Atlântica e o Mico-Leão-Dourado ANDREA JAKOBSSON ESTUDIO EDITORIAL LTDA – EPP CNPJ/CPF: 04.295.246/0001-99 Cidade: Rio de Janeiro - RJ; Valor Reduzido: R$ 263.555,15 Valor total atual: R$ 201.790,05"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-369-de-26-de-junho-de-2019-176004061.md",
+      "sha256_md": "17bbf80e34632abb4aaf41e49628c15e04549235d878f2dd326b785bb5f94a40",
+      "sha256_fonte": "40aab299ecc2e7b9cddb3849a300a15e155846162f85069ed49286ad5d756cd9",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26 )",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26 )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "426355150daf5ccbc56cc8155421299f2323351eb73a29fd6aa147cf5a6d5e8a",
+      "sha256_visivel_md": "ac81cc740b20f22d6ac570d9ee43fd6723aeba2d30365edcbe0983d07861d761",
+      "primeira_diferenca": {
+        "posicao": 3407,
+        "fonte": "ALO PHILIPPE DUSSAERT - CIRCULAÇÃO NACIONAL BEM LEGAL PRODUCOES ARTISTICAS LTDA &#x2013; ME CNPJ/CPF: 10.455.663/0001-54 Processo: 01400005458201923 Cidade: Rio de Janeiro - RJ; Valor Aprovado: R$ 870.581,25 Prazo de Captação: 27/06/2019 à ",
+        "md": "ALO PHILIPPE DUSSAERT - CIRCULAÇÃO NACIONAL BEM LEGAL PRODUCOES ARTISTICAS LTDA – ME CNPJ/CPF: 10.455.663/0001-54 Processo: 01400005458201923 Cidade: Rio de Janeiro - RJ; Valor Aprovado: R$ 870.581,25 Prazo de Captação: 27/06/2019 à 31/12/2"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-382-de-2-de-julho-de-2019-187162350.md",
+      "sha256_md": "eede2d5cd922e1b9056b516e65730e78a02f361894fecb86780605c1e49d686f",
+      "sha256_fonte": "6da05b45b651e8cc32e0564a1c369a47f317c3554077299bb1fae097cb7d47e4",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "ca56a87c5e9e38ef7f21b0451ef015d9178d8d334ae32a9c2940e129be7f705e",
+      "sha256_visivel_md": "fd2f27fd48af2a69487653a472ce32fcf7d67b8f542ba2a7480396587e8a7eb2",
+      "primeira_diferenca": {
+        "posicao": 730,
+        "fonte": "18 , § 1º ) 191100 - HAMLET - JOGO DE DAMAS BEM LEGAL PRODUCOES ARTISTICAS LTDA &#x2013; ME CNPJ/CPF: 10.455.663/0001-54 Processo: 01400005506201983 Cidade: Rio de Janeiro - RJ; Valor Aprovado: R$ 997.611,67 Prazo de Captação: 03/07/2019 à ",
+        "md": "18 , § 1º ) 191100 - HAMLET - JOGO DE DAMAS BEM LEGAL PRODUCOES ARTISTICAS LTDA – ME CNPJ/CPF: 10.455.663/0001-54 Processo: 01400005506201983 Cidade: Rio de Janeiro - RJ; Valor Aprovado: R$ 997.611,67 Prazo de Captação: 03/07/2019 à 31/12/2"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-411-de-11-de-julho-de-2019-191921001.md",
+      "sha256_md": "04d2e0475c1336f2dafb302e2da5e63fa94d9328ecc2db5b1e6e2decb151dc1d",
+      "sha256_fonte": "fbc0f231b9ac76c8d558e7385e1404fcb36e501096ec800a07e56fb22c6b3cff",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "309284e996fa405e1a89080dfb2c837eea3d35f1c16abcb15360a7d7da869834",
+      "sha256_visivel_md": "ca4cfe54a0fc55ba22b641f122175b94ca4e2f94b5a5d9e19bca8069c1f55f3c",
+      "primeira_diferenca": {
+        "posicao": 1083,
+        "fonte": "ATRAL PELO INTERIOR DE MINAS GERAIS NUCLEO AS DE PAUS - PRODUCOES TEATRAIS LTDA &#x2013; ME CNPJ/CPF: 12.651.039/0001-58 Cidade: Abatiá - PR; Valor Reduzido: R$ -500,00 Valor total atual: R$ 77.870,00 177405 - FOME FORMIGA PRODUCOES CULTURA",
+        "md": "ATRAL PELO INTERIOR DE MINAS GERAIS NUCLEO AS DE PAUS - PRODUCOES TEATRAIS LTDA – ME CNPJ/CPF: 12.651.039/0001-58 Cidade: Abatiá - PR; Valor Reduzido: R$ -500,00 Valor total atual: R$ 77.870,00 177405 - FOME FORMIGA PRODUCOES CULTURAIS LTDA"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-416-de-15-de-julho-de-2019-196104193.md",
+      "sha256_md": "2b578265a65b492aa41c3d595750c51ad4ae1c4bef017f6f57b6a8410aa9a337",
+      "sha256_fonte": "4eb24cdac1d96868fb74ad2b31e85db8666a0767cee2ad9ca02bb72f76c4d128",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26 )",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26 )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "26a325daf65bf25c1d3000778847801f51343b68a6ae9185cac3788438eb5ea5",
+      "sha256_visivel_md": "5dac28befd58153d3325c270945acd31be26d0d09a23667b95af837c215919fa",
+      "primeira_diferenca": {
+        "posicao": 1155,
+        "fonte": " Janeiro - RJ; Prazo de Captação: 01/04/2019 à 31/12/2019 179599 - SUL EM DANÇA &#x2013; 16º EDIÇÃO Margit Kolling CNPJ/CPF: 440.821.420-53 Cidade: São Leopoldo - RS; Prazo de Captação: 20/08/2019 à 31/12/2019 181058 - Circuito Praça Cultur",
+        "md": " Janeiro - RJ; Prazo de Captação: 01/04/2019 à 31/12/2019 179599 - SUL EM DANÇA – 16º EDIÇÃO Margit Kolling CNPJ/CPF: 440.821.420-53 Cidade: São Leopoldo - RS; Prazo de Captação: 20/08/2019 à 31/12/2019 181058 - Circuito Praça Cultural krie"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-424-de-17-de-julho-de-2019-197103535.md",
+      "sha256_md": "44e4a31bc613e3d0a5db2c9ebaf7ec41d152a94e27e0440cf65ec42c9ff8e4f0",
+      "sha256_fonte": "635be8aedd94fa2b6701b6b0f2ca29c17ca74ee04f80cc66be39eb3de250e4d4",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "c3169b1ad05532289066414a60bd4dd58c6dcf7639752678b09b28cabb732938",
+      "sha256_visivel_md": "2934f6cc78a5f43772cb27f3b26a53361ad535f901e7d490c18e115ff27a66f0",
+      "primeira_diferenca": {
+        "posicao": 1416,
+        "fonte": "18 , § 1º ) 181470 - Concertos Especiais Echo II ECHO PROMOCOES ARTISTICAS LTDA &#x2013; ME CNPJ/CPF: 59.393.421/0001-72 Cidade: São Paulo - SP; Valor Reduzido: R$ 79.473,94 Valor total atual: R$ 1.073.645,84 ÁREA: 4 ARTES VISUAIS (Artigo 1",
+        "md": "18 , § 1º ) 181470 - Concertos Especiais Echo II ECHO PROMOCOES ARTISTICAS LTDA – ME CNPJ/CPF: 59.393.421/0001-72 Cidade: São Paulo - SP; Valor Reduzido: R$ 79.473,94 Valor total atual: R$ 1.073.645,84 ÁREA: 4 ARTES VISUAIS (Artigo 18 , § 1"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-431-de-19-de-julho-de-2019-201621049.md",
+      "sha256_md": "005f34a13a91e52048e304507972e69eb7c99b2b0987907c2a869944a106a6fb",
+      "sha256_fonte": "0b4c10ff8c2916e7feee54e00fe61972399ad444874389facfc56f79b87b3d11",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "b139ed9b21a7fec516d34295848e5d435b362b91c6334d7b82b1c0f18880946f",
+      "sha256_visivel_md": "b443d288922f01cd0e1d351ff00e1e32b3654eddca1a61e53bb38b289a89f949",
+      "primeira_diferenca": {
+        "posicao": 1377,
+        "fonte": "18 , § 1º ) 181470 - Concertos Especiais Echo II ECHO PROMOCOES ARTISTICAS LTDA &#x2013; ME CNPJ/CPF: 59.393.421/0001-72 Cidade: São Paulo - SP; Prazo de Captação: 01/01/2019 à 31/12/2019 ÁREA: 4 ARTES VISUAIS (Artigo 18 , § 1º ) 179156 - E",
+        "md": "18 , § 1º ) 181470 - Concertos Especiais Echo II ECHO PROMOCOES ARTISTICAS LTDA – ME CNPJ/CPF: 59.393.421/0001-72 Cidade: São Paulo - SP; Prazo de Captação: 01/01/2019 à 31/12/2019 ÁREA: 4 ARTES VISUAIS (Artigo 18 , § 1º ) 179156 - Exposiçã"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-445-de-30-de-julho-de-2019-207943331.md",
+      "sha256_md": "4aad020aac5716f1246fbb659725b83e54cf34e14c4ea648d212530c63b8a5af",
+      "sha256_fonte": "3008c7bcfda7a646b4bac08cc28b7a155654370cd906fac2c27aa6156e26ac89",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e34bdecf49a663f391e3fc734e656ef7b3339128e5dcd9164393f651e78dc3c9",
+      "sha256_visivel_md": "748d2e54a91f3d1b6b42a9be307fe1e64f70da239b82ab686abbec581269ca6d",
+      "primeira_diferenca": {
+        "posicao": 1738,
+        "fonte": "159639 - II Conversarte MONTENEGRO PENSAMENTO CRIATIVO PRODUCOES & EVENTOS LTDA &#x2013; ME CNPJ/CPF: 12.932.765/0001-49 Cidade: Curitiba - PR; Valor Reduzido: R$ 144,82 Valor total atual: R$ 682.055,18",
+        "md": "159639 - II Conversarte MONTENEGRO PENSAMENTO CRIATIVO PRODUCOES & EVENTOS LTDA – ME CNPJ/CPF: 12.932.765/0001-49 Cidade: Curitiba - PR; Valor Reduzido: R$ 144,82 Valor total atual: R$ 682.055,18"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-457-de-5-de-agosto-de-2019-208990516.md",
+      "sha256_md": "a236c083e3b297d7066a10140c38ba7fc857f84719784d611d0a4b64c723f303",
+      "sha256_fonte": "174f53c0b38b6fdf36c677c0fa6330854b231ea06c0d54d2490c801734a8adb3",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "c33dafa637054bae55cecb427beee0717d213d35507cdc8a66d287cdbcce9ad8",
+      "sha256_visivel_md": "468f8ac682ebe205ec83d4e7a20c45bac2b5bf7c854b1c9f26b57bbc7b37f450",
+      "primeira_diferenca": {
+        "posicao": 8783,
+        "fonte": " de Shakespeare. 191499 - MÃE FORA DA CAIXA BEM LEGAL PRODUCOES ARTISTICAS LTDA &#x2013; ME CNPJ/CPF: 10.455.663/0001-54 Processo: 01400006000201991 Cidade: Rio de Janeiro - RJ; Valor Aprovado: R$ 818.832,30 Prazo de Captação: 06/08/2019 à ",
+        "md": " de Shakespeare. 191499 - MÃE FORA DA CAIXA BEM LEGAL PRODUCOES ARTISTICAS LTDA – ME CNPJ/CPF: 10.455.663/0001-54 Processo: 01400006000201991 Cidade: Rio de Janeiro - RJ; Valor Aprovado: R$ 818.832,30 Prazo de Captação: 06/08/2019 à 31/12/2"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-464-de-6-de-agosto-de-2019-209277082.md",
+      "sha256_md": "6e9ecb2b65b2577f67bbbf063ebe94f5668864aa5cf7cf5220e0f04119b4cfaa",
+      "sha256_fonte": "d5b8c5d955119475db44241c94f969b796e3b7fd3f53f3a167f652055bcaed57",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "225576328367e228bee3d0601b453b7e53ffa6a0ca2c7c3635296f1904b3a024",
+      "sha256_visivel_md": "2cf1a2b553fb1081beb08b35a538099130f2736c49491e8663164b5e27ba3974",
+      "primeira_diferenca": {
+        "posicao": 2075,
+        "fonte": " 18 , § 1º ) 179597 - Cores do Mundo MAKARRA PROMOCAO DE EVENTOS CULTURAIS LTDA &#x2013; EPP CNPJ/CPF: 22.636.584/0001-29 Cidade: Bertioga - SP; Prazo de Captação: 02/04/2019 à 31/12/2019 183149 - Rio Tietê - Exposição ALCEU DUVAL XAVIER DA",
+        "md": " 18 , § 1º ) 179597 - Cores do Mundo MAKARRA PROMOCAO DE EVENTOS CULTURAIS LTDA – EPP CNPJ/CPF: 22.636.584/0001-29 Cidade: Bertioga - SP; Prazo de Captação: 02/04/2019 à 31/12/2019 183149 - Rio Tietê - Exposição ALCEU DUVAL XAVIER DA SILVA "
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-476-de-12-de-agosto-de-2019-210274401.md",
+      "sha256_md": "179bc478fea6ddf8e4636564df7995ee5aad77a3793aa08f5189243ba3792b17",
+      "sha256_fonte": "5b2752e52cbf419d7d1a39b55c557ae364fc8f126c7da442d2f44d6e4071affb",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "efd211f286c93b44b9c24dbf3893934db56cf02f495dde709a7412c8563fddce",
+      "sha256_visivel_md": "300ae730b2c559ad4eae05e3009be67fd638e0851ba4ceea1d0cf4fae719acac",
+      "primeira_diferenca": {
+        "posicao": 17421,
+        "fonte": "nacoteca Contemporânea - Projeto Executivo Associação Pinacoteca Arte e Cultura &#x2013; APAC CNPJ/CPF: 96.290.846/0001-82 Processo: 01400006103201951 Cidade: São Paulo - SP; Valor Aprovado: R$ 2.617.086,69 Prazo de Captação: 13/08/2019 à 3",
+        "md": "nacoteca Contemporânea - Projeto Executivo Associação Pinacoteca Arte e Cultura – APAC CNPJ/CPF: 96.290.846/0001-82 Processo: 01400006103201951 Cidade: São Paulo - SP; Valor Aprovado: R$ 2.617.086,69 Prazo de Captação: 13/08/2019 à 31/12/20"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-489-de-19-de-agosto-de-2019-211444098.md",
+      "sha256_md": "0d8062016122c45ea496be58ce874a9c84a66bd73465133653c17f056098868d",
+      "sha256_fonte": "513eb071dc8b8136a95aa03558222d27ed0f892cfab717faa1d17c78ed44eccf",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "02556b73476b7e8420243e9f5e6cf7d23a1bea9b669fd5c90ecf83c0276fe6fd",
+      "sha256_visivel_md": "6c2378cd79a19455ab1bfda69d7cc83e7fb18ef10bcd8efb32f73e148f4b9513",
+      "primeira_diferenca": {
+        "posicao": 46995,
+        "fonte": "lano Anual 2020 da Pinacoteca de São Paulo Associação Pinacoteca Arte e Cultura &#x2013; APAC CNPJ/CPF: 96.290.846/0001-82 Processo: 01400006142201959 Cidade: São Paulo - SP; Valor Aprovado: R$ 20.149.726,33 Prazo de Captação: 20/08/2019 à ",
+        "md": "lano Anual 2020 da Pinacoteca de São Paulo Associação Pinacoteca Arte e Cultura – APAC CNPJ/CPF: 96.290.846/0001-82 Processo: 01400006142201959 Cidade: São Paulo - SP; Valor Aprovado: R$ 20.149.726,33 Prazo de Captação: 20/08/2019 à 31/12/2"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-500-de-23-de-agosto-de-2019-212421677.md",
+      "sha256_md": "214774abf5dce1720294557087bcd13992621400a17e3850799b2326ca097819",
+      "sha256_fonte": "b48b174a0eb73eab092ab6f293fab840426ed0c0d4ba18ef9cf44f2700bc4945",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "c0d8a0e02358b9d51997261d6a843b70df849bcab910fa5ec2f19de3f723360f",
+      "sha256_visivel_md": "71798ec40963b78f1fb0c65b6901cdad86c4f6437fbd20fe5f09398bc631e2cd",
+      "primeira_diferenca": {
+        "posicao": 873,
+        "fonte": ") 181285 - Até as Princesas soltam Pum - o musical FGM PRODUCOES CULTURAIS LTDA &#x2013; ME CNPJ/CPF: 21.116.382/0001-93 Cidade: São Paulo - SP; Prazo de Captação: 23/08/2019 à 31/12/2019 184625 - NATAL IMPERIAL DOI2 ENTRETENIMENTO LTDA - M",
+        "md": ") 181285 - Até as Princesas soltam Pum - o musical FGM PRODUCOES CULTURAIS LTDA – ME CNPJ/CPF: 21.116.382/0001-93 Cidade: São Paulo - SP; Prazo de Captação: 23/08/2019 à 31/12/2019 184625 - NATAL IMPERIAL DOI2 ENTRETENIMENTO LTDA - ME CNPJ/"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-503-de-26-de-agosto-de-2019-212646223.md",
+      "sha256_md": "51bffafd6c45289f8a66c105b0d35b0028762a62d2a55fbf47a96eb4711fd65a",
+      "sha256_fonte": "a37c6e71526d47b8efb56c965f5c82c546aef670d8442efb0f9b0f1f10b061f8",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26 , § 1º )",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "a3e5bf0faa52fa8457ded308cc22f3e05f5a8129b4279f4c2d32dc1bf0d7dfb1",
+      "sha256_visivel_md": "33c682b828db6fb1722cac7b5db506720b37cfeb33f3bd15de8fe7c3f3a628d7",
+      "primeira_diferenca": {
+        "posicao": 806,
+        "fonte": "ULO SOARES MARTINS ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º ) 170770 - 15&#730;FESQ - Festival de Teatro e Artes P.R.T. PRODUÇÕES LTDA-ME CNPJ/CPF: 20.551.561/0001-96 Cidade: Cabo Frio - RJ; Prazo de Captação: 01/01/2020 à 21/06/2020",
+        "md": "ULO SOARES MARTINS ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º ) 170770 - 15˚FESQ - Festival de Teatro e Artes P.R.T. PRODUÇÕES LTDA-ME CNPJ/CPF: 20.551.561/0001-96 Cidade: Cabo Frio - RJ; Prazo de Captação: 01/01/2020 à 21/06/2020 1774"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-51-de-19-de-junho-de-2019-167068681.md",
+      "sha256_md": "7e5158ddf2447ccd3ca6eeda9d5da2d2e8bb4de3328b9e592b7c560680bced96",
+      "sha256_fonte": "472ad0843dbe9fb2214873145e7c2db47707511a84cf9316c6818b516d2b7949",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "bb226b2020d2c8375ec5971b4eb6a1bc42cf721ded6bfa65cc5e35241519d151",
+      "sha256_visivel_md": "da49ecfce173c06e1d4e7714948bebacc7d395d93b8b3aac9d331dd05153b263",
+      "primeira_diferenca": {
+        "posicao": 6317,
+        "fonte": "uita, através da exibição de 25 títulos por dia. 191041 - Nos tempos de Vindita &#8208; Floripa na década de 20 Antonio Celso dos Santos CNPJ/CPF: 976.464.158-04 Processo: 01400.005390/2019-82 Cidade: Florianópolis - SC; Valor Aprovado: R$ ",
+        "md": "uita, através da exibição de 25 títulos por dia. 191041 - Nos tempos de Vindita ‐ Floripa na década de 20 Antonio Celso dos Santos CNPJ/CPF: 976.464.158-04 Processo: 01400.005390/2019-82 Cidade: Florianópolis - SC; Valor Aprovado: R$ 400.76"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-522-de-5-de-setembro-de-2019-214856980.md",
+      "sha256_md": "3717f8982107f58caa7323ab66ff202280cafd93a01de519107e1ae916916b6f",
+      "sha256_fonte": "8b7681d093aeb6b9c4e4d8caf2db1161635391f333922b45f422c52f06d8c890",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "d55fb1a30bdc5f51cd70efb51f29a3b1bde7bf6015e9a59c918881496282a71c",
+      "sha256_visivel_md": "9ad7bcd41b5c619bcdb2310d4a2eea79208238134d6f05629fcda6ec7b683eef",
+      "primeira_diferenca": {
+        "posicao": 748,
+        "fonte": "952 - Turnê Brasilia, BH e SP - Órfão de Pai AUTONAUTA PRODUÇÕES CULTURAIS LTDA &#x2013; ME CNPJ/CPF: 05.765.198/0001-18 Processo: 01400006478201911 Cidade: Curitiba - PR; Valor Aprovado: R$ 996.576,00 Prazo de Captação: 06/09/2019 à 31/12/",
+        "md": "952 - Turnê Brasilia, BH e SP - Órfão de Pai AUTONAUTA PRODUÇÕES CULTURAIS LTDA – ME CNPJ/CPF: 05.765.198/0001-18 Processo: 01400006478201911 Cidade: Curitiba - PR; Valor Aprovado: R$ 996.576,00 Prazo de Captação: 06/09/2019 à 31/12/2019 Re"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-533-de-10-de-setembro-de-2019-215565573.md",
+      "sha256_md": "7eee22d1999c598ecf4887ba0bb49c355f15c617cd3aeed71f48f3ea5f9518af",
+      "sha256_fonte": "6a0045674d51687c9c7cc1ed9e30550bcd3e3d9f1d6e53a4f3237f1dd4e69523",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 3 MÚSICA (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 3 MÚSICA (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "b55129b5b9af51072f4972cd4d2899dc3539feed838884d96d882e33ebffac84",
+      "sha256_visivel_md": "e8e505dfd10b33085084d6696c7357f0f35bd0f7c0a25620388093789269e80c",
+      "primeira_diferenca": {
+        "posicao": 1483,
+        "fonte": "l: R$ 922.179,06 184816 - Amazônia Azul ANDREA JAKOBSSON ESTUDIO EDITORIAL LTDA &#x2013; EPP CNPJ/CPF: 04.295.246/0001-99 Cidade: Rio de Janeiro - RJ; Valor Reduzido: R$ 94.985,00 Valor total atual: R$ 539.371,25 ANEXO II ÁREA: 3 MÚSICA (Ar",
+        "md": "l: R$ 922.179,06 184816 - Amazônia Azul ANDREA JAKOBSSON ESTUDIO EDITORIAL LTDA – EPP CNPJ/CPF: 04.295.246/0001-99 Cidade: Rio de Janeiro - RJ; Valor Reduzido: R$ 94.985,00 Valor total atual: R$ 539.371,25 ANEXO II ÁREA: 3 MÚSICA (Artigo 26"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-547-de-18-de-setembro-de-2019-217041496.md",
+      "sha256_md": "36116494d8784d05c380e04f2aa67948888de8883a8366551e1923e702567c67",
+      "sha256_fonte": "ba67736dfeb9193b1be5ffb4e7c9ffe2734b63055a53879c9c035419326df28b",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "255b3103ebaa5c02d2eba8015576b494ec250aa5d88468a7820f17b7e9305009",
+      "sha256_visivel_md": "d92127a384ed0d3d74fb6b105669f3986a6de5ef100da531d44abd6c126a0da5",
+      "primeira_diferenca": {
+        "posicao": 1565,
+        "fonte": " 192215 - Mostra de Arte Circuíto da Maré CONVERGENCIA CONTEUDO E PRODUCAO LTDA &#x2013; ME CNPJ/CPF: 04.647.273/0001-83 Processo: 01400006743201961 Cidade: Antonina - PR; Valor Aprovado: R$ 496.960,20 Prazo de Captação: 19/09/2019 à 31/12/",
+        "md": " 192215 - Mostra de Arte Circuíto da Maré CONVERGENCIA CONTEUDO E PRODUCAO LTDA – ME CNPJ/CPF: 04.647.273/0001-83 Processo: 01400006743201961 Cidade: Antonina - PR; Valor Aprovado: R$ 496.960,20 Prazo de Captação: 19/09/2019 à 31/12/2019 Re"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2019/portaria-n-557-de-23-de-setembro-de-2019-217771957.md",
+      "sha256_md": "57f95cd3907c6d6703fc7c2b7ec6b2db1adf7fe0c7da9c3540f18cb88ea2c04e",
+      "sha256_fonte": "7e91f9df845e6f7da697322d2c6f744dd859eaf702f7eeb362cf36ac53f552d9",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "94125bc1b2ff47ffefa82f5aa4c33873f5013cbeb68c8e18b0ff648ccc5ab9a7",
+      "sha256_visivel_md": "61349dab42b202bc383e1b4fc38f19f397dd288b583c78eed3a7d5887b47cdee",
+      "primeira_diferenca": {
+        "posicao": 828,
+        "fonte": " ANEXO ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º ) 176771 - FESTIVAL NOITE DE LUZ &#x2013; ANO IV FUNDAÇÃO EDUCACIONAL DE CRICIÚMA CNPJ/CPF: 83.661.074/0001-04 Cidade: Criciúma - SC; Prazo de Captação: 31/08/2019 à 31/10/2019 185290 - Título ",
+        "md": " ANEXO ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º ) 176771 - FESTIVAL NOITE DE LUZ – ANO IV FUNDAÇÃO EDUCACIONAL DE CRICIÚMA CNPJ/CPF: 83.661.074/0001-04 Cidade: Criciúma - SC; Prazo de Captação: 31/08/2019 à 31/10/2019 185290 - Título Provisó"
+      }
+    }
+  ]
+}

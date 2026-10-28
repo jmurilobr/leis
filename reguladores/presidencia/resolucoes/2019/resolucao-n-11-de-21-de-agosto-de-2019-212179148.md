@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO Nº 11, DE 21 DE AGOSTO DE 2019"
+orgao: "Presidência da República/Conselho de Governo/Câmara de Relações Exteriores e Defesa Nacional"
+tipo: "Resolução"
+numero: "11"
+data: 2019-08-21
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/08/2019, seção 1, p. 7"
+data_publicacao: 2019-08-23
+edicao: "163"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-n-11-de-21-de-agosto-de-2019-212179148"
+sha256_html_fonte: 00ad150799d6eb863cf4cc52fd68d3919c09523b3043fbd8b5ea99380c7bd49f
+baixado_em: 2026-10-27
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO Nº 11, DE 21 DE AGOSTO DE 2019
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO Nº 11, DE 21 DE AGOSTO DE 2019</p><p class="ementa">Institui o Grupo Técnico relacionado à área de Finanças, no âmbito da Câmara de Relações Exteriores e Defesa Nacional do Conselho de Governo.</p><p class="dou-paragraph" ><strong class="dou-strong" >O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA,</strong>na condição de Presidente da Câmara de Relações Exteriores e Defesa Nacional do Conselho de Governo, no uso das atribuições que lhe confere o parágrafo único do art. 87 da Constituição, tendo em vista o que dispõem o art. 13 da Lei nº 13.844, de 18 de junho de 2019, e o Decreto nº 9.819, de 3 de junho de 2019; e</p><p class="dou-paragraph" >Considerando que compete à Câmara de Relações Exteriores e Defesa Nacional formular diretrizes de matérias relacionadas a assuntos de segurança e defesa nacional, resolve:</p><p class="dou-paragraph" >Art. 1º Instituir o Grupo Técnico de Segurança de Infraestruturas Críticas de Finanças, da Câmara de Relações Exteriores e Defesa Nacional, destinado a estudar e propor a implementação de medidas e de ações relacionadas com a segurança das infraestruturas críticas na área de Finanças.</p><p class="dou-paragraph" >Art. 2º O Grupo Técnico de Segurança de Infraestruturas Críticas de Finanças tem como finalidade elaborar relatório contendo recomendações de segurança das infraestruturas críticas da área de Finanças.</p><p class="dou-paragraph" >Art. 3º O Grupo Técnico de Segurança de Infraestruturas Críticas de Finanças será composto por representantes dos seguintes órgãos e entidades:</p><p class="dou-paragraph" >I - Gabinete de Segurança Institucional da Presidência da República, que o coordenará;</p><p class="dou-paragraph" >II - Ministério da Economia; e</p><p class="dou-paragraph" >III - Banco Central do Brasil.</p><p class="dou-paragraph" >§ 1º Os representantes, titular e suplente, de cada órgão que compõe esse Grupo Técnico serão indicados por seus dirigentes máximos, em até 30 (trinta)<strong class="dou-strong" ></strong>dias corridos, a contar da data de publicação desta Resolução, e designados por ato do Ministro de Estado Chefe do Gabinete de Segurança Institucional da Presidência da República.</p><p class="dou-paragraph" >§ 2º Poderão participar do Grupo Técnico representantes de outros órgãos ou de entidades públicas e privadas, quando houver necessidade e as atribuições do grupo técnico justifiquem o convite.</p><p class="dou-paragraph" >Art. 4º Os membros do Grupo Técnico que se encontrarem no Distrito Federal se reunirão presencialmente e os membros que se encontrarem em outros entes federativos participarão da reunião por meio de videoconferência.</p><p class="dou-paragraph" >Art. 5º Ao final dos trabalhos, o Grupo Técnico de Segurança de Infraestruturas Críticas de Finanças apresentará, à Câmara de Relações Exteriores e Defesa Nacional, relatório de recomendações de segurança das infraestruturas críticas da área de Finanças.</p><p class="dou-paragraph" >Art. 6º Os trabalhos dos Grupos Técnicos serão concluídos no prazo de 1 (um) ano a contar da data de publicação desta Resolução.</p><p class="dou-paragraph" >Art. 7º A participação no Grupo Técnico será considerada prestação de serviço público relevante, não remunerada.</p><p class="dou-paragraph" >Art. 8º A Secretaria-Executiva do Grupo Técnico será exercida pelo Departamento de Assuntos da Câmara de Relações Exteriores e Defesa Nacional da Secretaria de Assuntos de Defesa e Segurança Nacional do Gabinete de Segurança Institucional da Presidência da República.</p><p class="dou-paragraph" >Art. 9º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">AUGUSTO HELENO RIBEIRO PEREIRA</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

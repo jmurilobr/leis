@@ -1,0 +1,49 @@
+{
+  "total": 1,
+  "contagens": {
+    "aceitos": 1
+  },
+  "criterio": "Candidatos privados dos alertas de renderizacao. Fonte texto-dou preservada em modo HTML explicito ja suportado. Metadados/H1 e datas originais preservados, exceto campo de modo. GFM integral/sinais e auditor integrado de fonte/identidade/publicacao/integra suplementar repetidos, sem rede nem alteracao canonica. Exige promocao porpreimagem e cruzamento final antes de publicar.",
+  "helper_sha256": "1ae5cecda55ddd32ab00fdb2598d50b7cd5aeadaad0e0e73d720e4727bf1732d",
+  "helper_v2_sha256": "2f16eda246d73eb770357ff310e98ffb40a62a2e0519974d5bcf98ffaa440644",
+  "auditor_sha256": "95d34a3d29ae7b52539f3171734e3cc2694cdbcdfa8569332794efd3e2ba394b",
+  "script_sha256": "523793429d0da9f97408f3edba5ac12df3b13d5c8fd0b2982527ec787833f5b6",
+  "documentos": [
+    {
+      "path": "reguladores/presidencia/resolucoes/2019/resolucao-n-97-de-19-de-novembro-de-2019-234040718.md",
+      "sha256_md_preimagem": "6de8adbaebe280edb7f27351576e804815b95d5a941478833e000ccd4bc9e64c",
+      "cache": "reguladores/_fonte/presidencia/2019/resolucao-n-97-de-19-de-novembro-de-2019-234040718-9458c1d2b87805dafc05f352115cf8e376a4f7236193c25a378d1cab99ab98dd.html.gz",
+      "sha256_fonte": "9458c1d2b87805dafc05f352115cf8e376a4f7236193c25a378d1cab99ab98dd",
+      "aceito": true,
+      "modo": "html-nativo-texto-dou-v1",
+      "candidato": "reguladores/_fonte/auditorias/dou031-nativo-candidatos-v2-20261027/7101aeee09d5bed9aa27d17cbc1c2b32f1ed9f7b267ae0e196f820ce3b004cad.candidato.md.gz",
+      "sha256_candidato_gzip": "c76facf897c35e478158c7106356cdc9181862a68e346379b278160b4d051aac",
+      "sha256_md_candidato": "7a983e6e172c79f2a669bd398050966d3cea78b770a6b77ad52e3e3c21b05123",
+      "backup": "reguladores/_fonte/auditorias/dou031-nativo-candidatos-v2-20261027/7101aeee09d5bed9aa27d17cbc1c2b32f1ed9f7b267ae0e196f820ce3b004cad.preimagem.md.gz",
+      "sha256_backup_gzip": "86b4d190ab08cc68d0319761eebed7a5462e8148734e721fbcf423bd81e7b18c",
+      "sha256_fragmento": "bed0d7908e50f4d0c4c499a4deb4b1585a824876183e6df25458cd3f1d305e0d",
+      "registro_auditor_integrado": {
+        "path": "reguladores/presidencia/resolucoes/2019/resolucao-n-97-de-19-de-novembro-de-2019-234040718.md",
+        "sha256_md": "7a983e6e172c79f2a669bd398050966d3cea78b770a6b77ad52e3e3c21b05123",
+        "fonte": "https://www.in.gov.br/web/dou/-/resolucao-n-97-de-19-de-novembro-de-2019-234040718",
+        "cache": "reguladores/_fonte/presidencia/2019/resolucao-n-97-de-19-de-novembro-de-2019-234040718-9458c1d2b87805dafc05f352115cf8e376a4f7236193c25a378d1cab99ab98dd.html.gz",
+        "orgao_html": "Presidência da República/Conselho do Programa de Parcerias de Investimentos da Presidência da República",
+        "orgao_metadados": "Presidência da República/Conselho do Programa de Parcerias de Investimentos da Presidência da República",
+        "criterio_orgao": "Nomes e ordem dos níveis idênticos; somente espaços nas bordas de / ignorados.",
+        "sha256_html": "9458c1d2b87805dafc05f352115cf8e376a4f7236193c25a378d1cab99ab98dd",
+        "data": "2019-11-19",
+        "publicacao": "2019-12-18",
+        "identidade": [
+          "presidencia da republica conselho do programa de parcerias de investimentos da presidencia da republica",
+          "resolucao",
+          "97",
+          "2019 11 19"
+        ],
+        "tabelas": 0,
+        "avisos_formato": []
+      },
+      "igualdade_GFM": true,
+      "metadados_preservados_exceto_modo": true
+    }
+  ]
+}

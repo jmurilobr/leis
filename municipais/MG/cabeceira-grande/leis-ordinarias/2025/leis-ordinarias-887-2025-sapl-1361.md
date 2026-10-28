@@ -1,0 +1,78 @@
+---
+titulo: "LEI ORDINÁRIA nº 887, de 05 de novembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "887"
+data: "2025-11-05"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/1361"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/1126/text"
+sha256_fonte: "4fa2a834e147c64eee0a9e45aac5e02449d74795bead8b47e72b60fb54f5e982"
+sha256_texto: "17ac69710ff4ff54877a3dfdcea4db8acd25bb80c9a3994a49125b47c4bf416e"
+capturado_em_fonte: "2026-10-27T20:08:53.415619-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 887, de 05 de novembro de 2025
+
+Dispõe sobre a reintegração dos cargos e funções de Agente Comunitário de Saúde e de Agente de Combate às Endemias ao Plano de Cargos, Carreiras e Vencimentos de que trata a Lei n. 500, de 21 de junho de 2016, e dá outras providências.
+
+
+O PREFEITO DO MUNICÍPIO DE CABECEIRA GRANDE, Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 76, inciso III da Lei Orgânica do Município, faz saber que a Câmara Municipal de Cabeceira Grande decreta e ele, em seu nome, sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Os cargos públicos e funções de Agente Comunitário de Saúde - ACS e de Agente de Combate às Endemias - ACE passam a integrar novamente o Plano de Cargos, Carreiras e Vencimentos - PCCV, instituído pela Lei n.º 500, de 21 de junho de 2016, no âmbito do Quadro Setorial de Saúde Pública - QSSP, no Grupo Ocupacional de Governança "Agentes de Saúde" -Tabela de Vencimento Básico 14 – TVB-14.
+
+
+Art. 2º.
+
+Para dar efetividade ao disposto no artigo 1°, fica sem efeito a revogação prevista no artigo 26, inciso II, alíneas "a" a "f" da Lei Complementar n. 57, de 28 de novembro de 2022, restaurando, expressamente, de forma irretroativa e prospectiva (ex nunc), os precitados dispositivos da Lei Municipal n.° 500, de 21 de junho de 2016, em conformidade com o disposto no artigo 2°, parágrafo 3º, do Decreto-Lei n.º 4.657, de 4 de setembro de 1942 - Lei de Introdução às Normas do Direito Brasileiro - LINDB.
+
+
+Art. 3º.
+
+Os atuais ocupantes dos cargos e funções de ACS e ACE ficam automaticamente reenquadrados nos cargos e padrões equivalentes da TVB-14 do Quadro A.2 - Auxiliar em Saúde Pública do Grupo Ocupacional de Governança: Agentes de Saúde do Quadro Setorial de Saúde Pública da Lei n.º 500, de 21 de junho de 2016, preservados os direitos, vantagens e tempo de serviço já adquiridos e consolidados sob a égide da Lei Municipal n.° 500, de 21 de junho de 2016 e da Lei Complementar n.º 57, de 28 de novembro de 2022.
+
+
+Parágrafo único
+
+O reenquadramento referido no caput será formalizado por Decreto do Poder Executivo, que discriminará o posicionamento individual de cada servidor na classe e padrão de vencimento respectivos da TVB - 14, observados os parâmetros legais.
+
+
+Art. 4º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 5º.
+
+Ficam revogados os seguintes dispositivos da Lei Complementar n.° 57, de 28 de novembro de 2022:
+
+
+I –
+
+os Capítulos II e III, com os seus respectivos desdobramentos (artigos, parágrafos, incisos, alíneas e itens); e
+
+
+II –
+
+o artigo 26, inciso II, alíneas "a" a "f".
+
+
+Parágrafo único
+
+Fica mantido em vigor, exclusivamente, o disposto no Capítulo 1-Do Regime Estatutário Especial da Lei Complementar n.° 57, de 28 de novembro de 2022 - com os seus respectivos desdobramentos, o qual continua a reger os ACS e ACE nos termos do disposto no artigo 198, parágrafo 4º, da Constituição Federal e da Lei Federal n.° 11.350, de 5 de outubro de 2006.
+
+
+Cabeceira Grande, 5 de novembro de 2025; 29° da Instalação do Município.
+
+**ELBER DE OLIVEIRA SILVA Prefeito**
+

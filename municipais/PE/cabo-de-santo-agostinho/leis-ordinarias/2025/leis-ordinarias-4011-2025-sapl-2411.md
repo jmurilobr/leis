@@ -1,0 +1,228 @@
+---
+titulo: "Lei Ordinária nº 4.011, de 08 de agosto de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4011"
+data: "2025-08-08"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2411"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/2301/text"
+sha256_fonte: "95fbd8154e2d75123e555698d385d02373d57a1d1220a00c8366b1c6d4002965"
+sha256_texto: "704ed8b0e883d3917c29c0b2e013ae722c34d1b4e8ed4a14f0c5371925f66970"
+capturado_em_fonte: "2026-10-27T21:09:06.416347-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.011, de 08 de agosto de 2025
+
+CRIA O PROGRAMA DO CABO PARA O MUNDO, QUE VISA OFERTAR INTERCÂMBIO INTERNACIONAL AOS ESTUDANTES DO ENSINO FUNDAMENTAL - ANOS FINAIS DA REDE MUNICIPAL DE ENSINO.
+
+
+**O Prefeito do Município do Cabo de Santo Agostinho, Faço saber que a Câmara Municipal aprova e eu sanciono a seguinte Lei:**
+
+
+Art. 1º.
+
+Fica criado o Programa do Cabo para o Mundo, com a finalidade de estabelecer uma política de Governo à Rede Pública Municipal, que visa a ofertar aos estudantes do Ensino Fundamental Anos Finais da rede Municipal de Ensino do Cabo de Santo Agostinho, de forma gratuita, programa de intercâmbio internacional, supervisionada e custeado pelo Poder Público.
+
+
+Parágrafo único
+
+O Programa do Cabo Para o Mundo tem como objetivos fortalecer o conhecimento e o domínio prático dos estudantes da rede pública municipal do ensino em uma língua estrangeira e motivá-los a aumentar o desempenho acadêmico e a frequência escolar.
+
+
+Art. 2º.
+
+Somente pode participar do programa de intercâmbio internacional referido no art. 1º, o estudante regularmente matriculado no Ensino Fundamental Anos Finais da Rede Municipal de Ensino, que atende aos seguintes requisitos do intercâmbio:
+
+
+I –
+
+possua no mínimo 13 anos (até a data do embarque de viagem) e no máximo 17 anos (até a data de retorno do intercâmbio);
+
+
+II –
+
+haja se submetido a processo regular de concessão de visto, conforme as normas de cada país destinatário;
+
+
+III –
+
+tenha obtido, ao longo do oitavo ano do Ensino Fundamental, a frequência mínima de 85% (oitenta e cinco por cento) nas aulas regulares da escola de Ensino Fundamental em que esteja matriculado;
+
+
+IV –
+
+tenha alcançado a média mínima de 7,0 (sete) pontos no desempenho acadêmico escolar na disciplina de Português e de Matemática no oitavo ano do Ensino Fundamental;
+
+
+V –
+
+tenha sido autorizado a participar do programa de intercâmbio por seu representante legal;
+
+
+VI –
+
+tenha sido aprovado em processo seletivo, de caráter eliminatório e classificatório, dentro do número de vagas disponibilizadas;
+
+
+VII –
+
+Não tenha sido selecionado anteriormente para participar do programa.
+
+
+Art. 3º.
+
+A seleção dos alunos da rede pública municipal para participação no Programa realizar-se-á por meio de processo seletivo, a ser conduzido pela Secretaria Municipal de Educação, com vistas ao preenchimento das vagas ofertadas, entre os estudantes que atendam aos demais requisitos do art. 2º, contemplando as etapas eliminatórias e classificatórias, visando a garantir a observância aos princípios da isonomia e da impessoalidade.
+
+
+Parágrafo único
+
+Os requisitos do processo seletivo serão estabelecidos em Edital de Seleção.
+
+
+Art. 4º.
+
+O estudante da rede pública municipal de ensino que for selecionado para o programa oficial de intercâmbio internacional, custeado pelo Município do Cabo de Santo Agostinho, *fará jus* a:
+
+
+I –
+
+bilhetes aéreos, hospedagem, alimentação e matrícula em escola de educação básica no país de destino;
+
+
+II –
+
+3 (três) bolsas de manutenção, que lhe serão pagas no decorrer do programa, enquanto estiver residindo no exterior, para custear despesas pessoais.
+
+
+Parágrafo único
+
+As despesas com a obtenção de passaporte, visto para o país de destino e autorizações de viagem, serão igualmente custeadas pelo Município do Cabo de Santo Agostinho.
+
+
+Art. 5º.
+
+O Programa do Cabo para o Mundo deverá contemplar a participação de professores da rede pública municipal.
+
+
+Art. 6º.
+
+Para participação no Programa, o professor deverá preencher os seguintes requisitos:
+
+
+I –
+
+ser professor titular de cargo de provimento efetivo da Secretaria Municipal de Educação;
+
+
+II –
+
+ser estável no cargo;
+
+
+III –
+
+ter habilitação na língua estrangeira do Programa;
+
+
+IV –
+
+ter atribuídas a si aulas de ensino de língua estrangeira;
+
+
+V –
+
+não estar em gozo de qualquer licença ou afastamento superiores a 60 (sessenta) dias;
+
+
+VI –
+
+ter assinado o termo de inscrição;
+
+
+VII –
+
+ter 75% de participação nas formações continuadas ou colegiados promovidos pela Secretaria Municipal de Educação no ano da seleção para o intercâmbio
+
+
+§ 1º
+
+Fica o Poder Executivo autorizado a realizar processo seletivo para participação de professores da rede pública municipal.
+
+
+§ 2º
+
+As despesas com obtenção de passaporte, visto para o país de destino e autorizações de viagem serão custeadas pelo Município do Cabo de Santo Agostinho.
+
+
+Art. 7º.
+
+Fica a critério do Poder Público Municipal o firmamento de Acordos de Colaboração com os países/províncias de destino para o desenvolvimento de intercâmbio educacional para estudantes e professores da Rede Pública Municipal de Ensino.
+
+
+Art. 8º.
+
+Caberá a Secretaria Municipal de Educação:
+
+
+I –
+
+disciplinar o processo seletivo para participação dos candidatos;
+
+
+II –
+
+conceder bolsas para os participantes do Programa;
+
+
+III –
+
+divulgar a abertura e o resultado de todas as fases dos processos seletivos do Programa;
+
+
+IV –
+
+realizar os procedimentos de equivalência e revalidação de estudos realizados no exterior conforme legislação vigente; e
+
+
+V –
+
+executar todas as fases do programa.
+
+
+Parágrafo único
+
+Para a execução do Programa, a Secretaria de Educação poderá firmar convênios, ajustes ou outros instrumentos congêneres, com instituições nacionais ou internacionais.
+
+
+Art. 9º.
+
+As despesas decorrentes desta Lei correrão por conta das dotações orçamentárias alocadas nas leis orçamentárias anuais, condicionadas a efetiva disponibilidade financeira.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Palácio Joaquim Nabuco, 08 de agosto de 2025.
+
+**LUIZ CABRAL DE OLIVEIRA FILHO**
+
+**Prefeito**
+
+***CHANCELAS:***
+
+**Flavio Bruno de Almeida Silva**
+
+Secretário Municipal de Assuntos Jurídicos
+
+“Lei decorrente do Projeto de Lei nº 124/2025, originário do Anteprojeto nº 027/2025 de autoria do Poder Executivo do Município Cabo de Santo Agostinho”.
+

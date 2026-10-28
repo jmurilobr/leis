@@ -1,0 +1,142 @@
+---
+titulo: "LEI ORDINÁRIA nº 700, de 15 de dezembro de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "700"
+data: "2020-12-15"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/873"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/352/text"
+sha256_fonte: "f4b7447f2636199f8ecd5c3de4da6ec778593bc1cf6b6e0e14cf4d4ba9eb6856"
+sha256_texto: "c733aec2b852520998175bedf10ede5bc1a4b2a4eca7736a75719765086b522d"
+capturado_em_fonte: "2026-10-27T20:15:01.497800-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 700, de 15 de dezembro de 2020
+
+Regulamenta a distribuição de honorários advocatícios no âmbito do Município de Cabeceira Grande e dá outras providências.
+
+
+**O PREFEITO DO MUNICÍPIO DE CABECEIRA GRANDE**, Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 76, inciso III da Lei Orgânica do Município, faz saber que a Câmara Municipal de Cabeceira Grande decreta e ele, em seu nome, sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Nas ações de qualquer natureza, em que for parte o Município de Cabeceira Grande/Fazenda Pública, o pagamento de honorários advocatícios fixados por arbitramento, acordo ou sucumbência, serão repassados aos advogados públicos do Município (titular da Consultoria Jurídica, Legislativa, de Governo e Assuntos Administrativos e Institucionais que equivale a Procurador Geral do Município, ou órgão jurídico que venha substituí-la, Procuradores Jurídicos e demais advogados públicos ocupantes de cargos efetivos, comissionados, contratados, prestadores de serviços da área jurídica da administração direta e indireta do Poder Executivo com atuação judicial), em conformidade com o disposto no parágrafo 19 do artigo 85 da Lei Federal n.º 13.105, de 16 de março de 2015 – Código de Processo Civil e com o disposto nos artigos 21, 22 e seguintes da Lei Federal n.º 8.906, de 4 de julho de 1994 – Estatuto da Advocacia e da Ordem dos Advogados do Brasil – OAB, observada a seguinte distribuição:
+
+
+I –
+
+integralmente ao destinatário do direito no caso de somente um advogado público ter atuado no processo judicial que originou a verba sucumbencial;
+
+
+II –
+
+no caso de mais de um advogado público ter atuado no processo que originou a verba sucumbencial, a distribuição será proporcional, sendo 75% (setenta e cinco por cento) para o advogado público que tiver atuado nas peças e fases mais relevantes do processo (petição inicial, contestação, impugnação, interposição de recursos dentre outros) e 25% (vinte e cinco por cento) para o outro ou outros advogados públicos que tiverem atuado no processo em fases e peças de menor complexidade e relevância;
+
+
+III –
+
+no caso de mais de um advogado público ter atuado no processo que originou a verba sucumbencial de forma conjunta, a distribuição será igualitária entre os mesmos.
+
+
+§ 1º
+
+De acordo com o artigo 85 e ss da Lei Federal n.° 13.105, de 2015, a sentença condenará o vencido a pagar honorários ao advogado do vencedor, sendo devidos honorários advocatícios, inclusive, na reconvenção, no cumprimento de sentença, provisório ou definitivo, na execução, resistida ou não, e nos recursos interpostos, cumulativamente.
+
+
+§ 2º
+
+A distribuição de honorários advocatícios sucumbenciais de que trata este artigo independe do exercício do profissional, contemplando-se tanto o advogado público em exercício do cargo quanto o advogado público servidor licenciado na forma do Estatuto dos Servidores Públicos Municipais, bem como o advogado que tenha tido o vínculo rompido com o Município por exoneração, rescisão ou outra forma de desligamento, que tenham, em todos os casos, atuado no processo que deu causa à verba sucumbencial.
+
+
+Art. 2º.
+
+Os honorários advocatícios serão depositados em conta bancária específica sob a designação de "honorários advocatícios", para posterior distribuição entre os titulares do direito na forma especificada nos incisos I a III do caput do artigo 1º desta Lei, ressalvado o caso previsto no precitado inciso I quando admitir-se-á o depósito direto na conta bancária do titular integral do direito que a informará por meio de petição.
+
+
+§ 1º
+
+Os valores serão repassados aos titulares do direito até o quinto dia útil do mês subsequente ao mês de depósito dos honorários.
+
+
+§ 2º
+
+Os valores de honorários que forem recolhidos diretamente junto aos cofres do Município de Cabeceira Grande, serão imediatamente transferidos para a conta específica prevista no caput deste artigo.
+
+
+Art. 3º.
+
+Os honorários advocatícios:
+
+
+I –
+
+caracterizam como retribuição de natureza indenizatória para todos os efeitos legais;
+
+
+II –
+
+constituem como verba variável, não incorporável nem computável para cálculo de qualquer vantagem remuneratória;
+
+
+III –
+
+não integram a respectiva remuneração, não integrando, também, as parcelas componentes do teto remuneratório constitucional respectivo;
+
+
+IV –
+
+não integram a base de cálculo, compulsória ou facultativa, da contribuição previdenciária; e
+
+
+V –
+
+consubstanciam verbas de natureza privada e alimentar, não constituindo nem receita e nem despesa públicas, sendo pagos exclusivamente pela parte sucumbente ou devedora vencida em litígio, constituindo direito e prerrogativa exclusiva da advocacia, no exercício da representação judicial.
+
+
+Art. 5º.
+
+O Poder Judiciário será cientificado do teor da presente Lei para efeito de serem disponibilizados os alvarás judiciais ou outros atos judiciais congêneres relativos aos honorários advocatícios de acordo com o presente Diploma Legal.
+
+
+Art. 6º.
+
+Os advogados públicos que se considerarem prejudicados na distribuição e repasse dos honorários advocatícios poderão formalizar reclamação ao titular da Consultoria Jurídica, Legislativa, de Governo e Assuntos Administrativos e Institucionais, equivalente a Procurador Geral do Município, ou a órgão jurídico que venha a substituí-la, cuja decisão caberá a interposição de recurso ao Chefe do Poder Executivo Municipal.
+
+
+Art. 7º.
+
+É nula qualquer disposição, cláusula, regulamentação ou ato administrativo que retire do advogado público o direito ao recebimento e dos honorários advocatícios de que trata essa Lei.
+
+
+Art. 8º.
+
+Os honorários advocatícios enquadram-se como valores por ingresso extraorçamentário, em conformidade com o disposto no artigo 3°, parágrafo único, da Lei Federal n.° 4.320, de 17 de março de 1964, salvo classificação diversa oriunda da Nova Contabilidade Aplicada ao Setor Público.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação, retroagindo os seus efeitos à data de entrada em vigor da Lei Federal n.° 13.105, de 16 de março de 2015.
+
+
+Art. 10º.
+
+Fica revogada a Lei n.º 603, de 14 de setembro de 2018.
+
+
+Cabeceira Grande, 15 de dezembro de 2020.
+
+**ODILON DE OLIVEIRA E SILVA**
+
+**Prefeito**
+
+**"Este texto não substitui o original."**
+

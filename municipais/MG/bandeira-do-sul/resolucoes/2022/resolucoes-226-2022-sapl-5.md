@@ -1,0 +1,278 @@
+---
+titulo: "Resolução nº 226, de 22 de novembro de 2022"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "226"
+data: "2022-11-22"
+municipio: "Bandeira do Sul"
+uf: "MG"
+codigo_ibge: "3105301"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bandeiradosul.mg.leg.br/norma/5"
+fonte_texto: "https://sapl.bandeiradosul.mg.leg.br/ta/6/text"
+sha256_fonte: "04dca195324bc536fad40059972425838fb8af6df997aae2d03b1c4c584d1d48"
+sha256_texto: "befbd528a49d555c71ef61ded2603a03a907ec9ee9ae7eb9914bbc553feff9e0"
+capturado_em_fonte: "2026-10-27T17:06:42.018528-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Resolução nº 226, de 22 de novembro de 2022
+
+Institui o Parlamento Jovem no âmbito da Câmara Municipal de Bandeira do Sul e dá outras providências.
+
+
+O Presidente da Câmara Municipal de Bandeira do Sul faz saber que os vereadores aprovaram e promulga a seguinte RESOLUÇÃO:
+
+
+Art. 1º.
+
+Esta resolução trata da parceria da Câmara Municipal de Bandeira do Sul com a Assembleia Legislativa de Minas Gerais (ALMG) na implementação do Parlamento Jovem, um programa de educação política e cidadã da Escola do Legislativo da ALMG, em parceria com as câmaras municipais.
+
+
+Art. 2º.
+
+Fica instituído de forma permanente o projeto Parlamento Jovem, no âmbito da Câmara Municipal, que tem por objetivo proporcionar aos estudantes de nível médio uma formação política e cidadã, bem como incentivar a comunidade estudantil a contribuir para solução de problemas da sociedade civil.
+
+
+Art. 3º.
+
+Poderão participar do Parlamento Jovem estudantes do ensino médio regular da Escola Estadual José Bandeira de Carvalho ou de outras escolas de nível médio, desde que residentes em Bandeira do Sul.
+
+
+Art. 4º.
+
+O desenvolvimento do Projeto em âmbito municipal dependerá da observância do seu regulamento em âmbito estadual editado pela Assembleia Legislativa de Minas Gerais, cujas regras deverão ser integralmente respeitadas.
+
+
+Art. 5º.
+
+Para o desenvolvimento do projeto, poderão ser contratados serviços de profissionais com formação, experiências e conhecimentos corretados aos temas abordados, para a função de coordenadores do Parlamento Jovem no município.
+
+
+Art. 6º.
+
+Serão realizadas oficinas de formação política e temática do Parlamento Jovem, que deverão ocorrer na Câmara Municipal, de acordo com o cronograma definido pela coordenação municipal.
+
+
+Parágrafo único
+
+É vedado qualquer tipo de manipulação ideológica por parte da coordenação municipal com os estudantes, incluindo a exposição de preferências político-partidárias dos Coordenadores, críticas ou elogios reiterados a partidos políticos e/ou seus agentes e quaisquer formas e tentativas de imposição de suas convicções políticas pessoais aos estudantes.
+
+
+Art. 7º.
+
+Constituem objetivos específicos do Parlamento Jovem:
+
+
+I –
+
+Possibilitar aos alunos o acesso e conhecimento dos Vereadores da Câmara Municipal de Bandeira do Sul;
+
+
+II –
+
+Favorecer atividades de discussão e reflexão sobre os problemas da cidade que mais afetam a população;
+
+
+III –
+
+Incentivar a apresentação de propostas de solução para os problemas municipais, regionais ou nacionais relativos aos temas em discussão;
+
+
+IV –
+
+Estimular a formação política e cidadã de estudantes do ensino médio por meio de atividades que os levem a compreender a organização dos Poderes, especialmente do Legislativo, e a importância da participação popular no Parlamento;
+
+
+V –
+
+Propiciar aos jovens espaços para a vivência em situações de estudos, pesquisas, debates e negociações;
+
+
+VI –
+
+Estimular o interesse dos jovens pela agenda sociopolítica do município, do Estado e pelo exercício da participação democrática na discussão e na decisão de questões relevantes para a comunidade.
+
+
+Art. 8º.
+
+O Parlamento Jovem se desenvolverá através das seguintes atividades:
+
+
+I –
+
+Capacitação dos Coordenadores que trabalharão junto aos estudantes, ministrando cursos sobre o funcionamento do Poder Legislativo, palestras e oficinas sobre o tema a ser abordado;
+
+
+II –
+
+Realização de mobilizações nas escolas participantes;
+
+
+III –
+
+Realização de oficinas preparatórias com os alunos participantes;
+
+
+IV –
+
+Elaboração pelos alunos de propostas relacionadas ao tema definido para aquele ano;
+
+
+V –
+
+Realização da Plenária Municipal, onde serão discutidas e aprovadas as propostas de solução de problemas apresentadas pelos alunos participantes, com seleção das propostas que serão encaminhadas à etapa regional do projeto e da eleição dos representantes que participarão da Plenária Regional;
+
+
+VI –
+
+Realização da Plenária Regional com a participação dos representantes eleitos durante a etapa municipal;
+
+
+VII –
+
+Realização da Plenária Estadual com a participação dos representantes eleitos durante a etapa regional;
+
+
+VIII –
+
+Realização da Sessão de Encerramento do Parlamento Jovem, para apresentação a todos os participantes das propostas aprovadas na Etapa Estadual e entrega de certificados.
+
+
+Art. 9º.
+
+Nos termos do regulamento do Parlamento Jovem, conforme cronograma previamente definido, poderão ser desenvolvidas oficinas teóricas e práticas sobre os seguintes temas:
+
+
+I –
+
+Democracia, Cidadania e Participação Política;
+
+
+II –
+
+Ética Pública e Cidadania;
+
+
+III –
+
+Participação Popular no Processo Legislativo;
+
+
+IV –
+
+Estado e Sociedade;
+
+
+V –
+
+Funcionamento dos Poderes Municipais;
+
+
+VI –
+
+Orçamento e Planejamento;
+
+
+VII –
+
+Redação;
+
+
+VIII –
+
+Entrosamento;
+
+
+IX –
+
+Oficinas temáticas;
+
+
+X –
+
+Oratória;
+
+
+XI –
+
+Dinâmica dos grupos de trabalho e plenária.
+
+
+XII –
+
+Outros previamente definidos no momento do lançamento anual do projeto.
+
+
+Art. 10.
+
+As propostas apresentadas e aprovadas pelos participantes da etapa municipal serão compiladas e disponibilizadas aos Vereadores, que poderão convertê-las em requerimentos, indicações, anteprojetos ou projetos, observadas as condições legais e constitucionais de cada matéria.
+
+
+Art. 11.
+
+Fica autorizada a utilização do Plenário da Câmara Municipal para a realização das oficinas preparatórias, grupos de trabalho e votação das propostas.
+
+
+Art. 12.
+
+É dever do Presidente da Câmara:
+
+
+I –
+
+Providenciar o fornecimento de lanches aos participantes quando da realização das oficinas;
+
+
+II –
+
+Providenciar a aquisição de uma camiseta personalizada para utilização pelos participantes durante o Encontro Regional, Plenária Municipal e Plenária Regional;
+
+
+III –
+
+Providenciar transporte rodoviário, hospedagem e alimentação de alunos, coordenadores, monitores ou agentes para atividades em outros municípios, nas etapas preparatória, municipal, regional e estadual;
+
+
+IV –
+
+Providenciar certificados de participação;
+
+
+V –
+
+Garantir a assessoria e apoio técnico para realização de todas as atividades;
+
+
+VI –
+
+Contratação de profissionais para ministrar oficinas ou para coordenar o projeto em âmbito municipal, se julgar necessário.
+
+
+VII –
+
+Assinar anualmente e encaminhar à Assembleia Legislativa de Minas Gerais o termo de adesão ao Parlamento Jovem.
+
+
+Parágrafo único
+
+A Câmara não participará do Parlamento Jovem somente em caso de impedimentos de ordem técnica, devidamente justificados em ato da Presidência, a exemplo da ausência de interessados em coordenar o projeto.
+
+
+Art. 13.
+
+As despesas decorrentes da execução da presente Resolução serão suportadas por dotações orçamentárias de projetos/atividades próprios para o Parlamento Jovem, ou ainda por dotações de projetos/atividades já existentes no orçamento do Poder Legislativo.
+
+
+Art. 14.
+
+Esta Resolução entra em vigor na data de sua publicação.
+
+
+Bandeira do Sul, 22 de novembro de 2022.
+
+**VEREADOR DENIS PRATES Presidente**
+

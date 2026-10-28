@@ -1,0 +1,6 @@
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/test_diagnosticar_css_glifos_ta_20261027.py
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I federal/_fonte/auditorias/diagnostico_glifos1347_20261027_002/testar_analisador.py
+
+Replay CSS em diretório novo:
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/diagnosticar_css_glifos_ta_20261027.py --manifesto municipais/_indice/_recuperacao_20261027/agregado3228-final/entrega-final.json --manifesto municipais/_indice/_recuperacao_20261027/agregado921-validado-final/entrega-final.json --manifesto municipais/_indice/_recuperacao_20261027/agregado586-validado-final/entrega-final.json --saida NOVO_DIRETORIO_REPLAY
+Esperado: 4.735 normas; zero fontes especiais/ocultação do predicado em ativos; um fecho com dois tachados. Não consultar rede/CSS externas.

@@ -1,0 +1,285 @@
+---
+titulo: "RESOLUÇÃO nº 3, de 05 de agosto de 2005"
+tipo: "Resolução"
+tipo_na_fonte: "RESOLUÇÃO"
+numero: "3"
+data: "2005-08-05"
+municipio: "Corumbiara"
+uf: "RO"
+codigo_ibge: "1100072"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corumbiara.ro.leg.br/norma/1025"
+fonte_texto: "https://sapl.corumbiara.ro.leg.br/ta/215/text"
+sha256_fonte: "e30b7509b76a87a981c870274398f20ab212a70a97d55fd833aff6bebfc1b29e"
+sha256_texto: "3a3c75341f846efa781ed2c356c0a41736c27bb0d862756edd345b61128a6c8d"
+capturado_em_fonte: "2026-10-28T09:26:33.552479-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# RESOLUÇÃO nº 3, de 05 de agosto de 2005
+
+DISPÕE SOBRE REGIME DE ADIANTAMENTO A SERVIDORES E/OU AGENTES POLÍTICOS EM CARÁTER EXCEPCIONAL E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+A Câmara Municipal de Corumbiara, Estado de Rondônia, aprova e a Mesa Diretora promulga a seguinte
+
+**RESOLUÇÃO:**
+
+
+Art. 1º.
+
+Fica o Poder Legislativo Municipal autorizado, por motivos excepcionais ou para suprir despesas que por sua natureza não se possam subordinar ao processamento normal, a conceder em regime de adiantamento numerário a servidor e/ou agentes políticos.
+
+
+§ 1º
+
+A entrega do numerário será sempre precedida de Portaria de Concessão e de emissão de nota de empenho de dotação própria.
+
+
+§ 2º
+
+A Portaria de Concessão fixará os prazos, que não poderão exceder a sessenta dias para aplicação e dez dias para prestação de contas.
+
+
+§ 3º
+
+Deverão constar na Portaria de Concessão:
+
+
+a)
+
+nome, matrícula, cargo e função do servidor e/ou agentes políticos;
+
+
+b)
+
+período de aplicação e prazo para prestação de contas;
+
+
+c)
+
+importância do adiantamento por elemento de despesa.
+
+
+Art. 2º.
+
+Não se fará adiantamento a servidor e/ou agentes políticos em alcance e nem a responsável por dois adiantamentos conforme Art. 69 da Lei Federal nº 4.320/64.
+
+
+Art. 3º.
+
+Poderão ser atendidas pelo regime de adiantamento as despesas decorrentes de:
+
+
+I –
+
+transporte e fretes em geral, para deslocamento em serviço;
+
+
+II –
+
+alimentação, quando as circunstâncias não permitirem o regime comum de atendimento;
+
+
+III –
+
+materiais de consumo, em quantidade restritiva para consumo imediato, de inconveniente estocagem ou por falta temporária e eventual no almoxarifado;
+
+
+IV –
+
+serviços de terceiros em geral e encargos de pequena monta;
+
+
+V –
+
+com diárias e ajuda de custo;
+
+
+VI –
+
+que tenha de ser efetuada distante da sede ou em outro município;
+
+
+VII –
+
+compras ou serviços de valor ou especificações especiais, previamente autorizados pela Mesa Diretora;
+
+
+VIII –
+
+despesas miúdas e de pronto pagamento.
+
+
+Art. 4º.
+
+Consideram-se despesas miúdas e de pronto pagamento, para efeito desta Resolução, as que se realizarem como:
+
+
+I –
+
+selos postais, telegramas, radiogramas, material e serviços de limpeza e higiene, lavagem de roupas, alimentação, café e lanches, pequenos carretos, transportes urbanos, fretes, pequenos consertos, telefones, água, luz, gás e aquisição avulsa de livros, jornais e outras publicações;
+
+
+II –
+
+Encadernações avulsas e artigos de escritório, de desenho, impressos e papelaria em quantidade restrita para uso ou consumo próprio ou imediato;
+
+
+III –
+
+Outra qualquer de pequeno vulto e de necessidade imediata, desde que devidamente justificada.
+
+
+Art. 5º.
+
+Os adiantamentos para atender as despesas prescritas no Art. 3º poderão englobar vários elementos de despesas a um único responsável, ficando que as despesas com artigos em quantidade maior, de uso ou consumo remoto, correrão pelos itens orçamentários próprios e seguirão o processamento normal da despesa.
+
+
+Art. 6º.
+
+O Requerimento de adiantamento será feito pelo vereador ou servidor, dirigido ao Presidente da Câmara, no qual constarão necessariamente as seguintes informações:
+
+
+I –
+
+disposição legal em que se baseia;
+
+
+II –
+
+identificação da espécie da despesa mencionando o inciso do Art. 3º, no qual se classifica;
+
+
+III –
+
+nome completo, cargo ou função do servidor ou vereador responsável pelo adiantamento;
+
+
+IV –
+
+dotação orçamentária a ser onerada;
+
+
+V –
+
+o prazo para a aplicação;
+
+
+VI –
+
+autorização do Presidente da Câmara.
+
+
+Art. 7º.
+
+É proibida a utilização do adiantamento em finalidade diferente daquela para a qual fora concedido.
+
+
+Art. 8º.
+
+Nenhum pagamento poderá ser efetuado fora do período de aplicação.
+
+
+Art. 9º.
+
+As Notas Fiscais, notas simplificadas, cupom, recibo etc. serão sempre emitidas em nome da Câmara Municipal de Corumbiara, contendo todos os dados exigidos.
+
+
+Art. 10.
+
+Os documentos comprovantes de despesas não poderão conter rasuras, emendas, borrões e valores ilegíveis, não sendo admitidos em hipótese alguma segunda via, ou outras vias, cópias, fotocópias ou qualquer outra forma ou espécie de reprodução.
+
+
+Art. 11.
+
+Nenhuma despesa realizada pelo regime de adiantamento poderá ultrapassar o valor correspondente a duas vezes o valor do salário mínimo vigente na região.
+
+
+Parágrafo único
+
+Excluem-se do limite estabelecido neste artigo as despesas correspondentes aos incisos VI e VII do art. 3º desta Resolução.
+
+
+Art. 12.
+
+O prazo para o recolhimento do saldo não utilizado será de 03 (três) dias a contar do término do período de aplicação.
+
+
+Art. 13.
+
+No prazo de 10 (dez) dias a prestação de contas relativa ao adiantamento será constituída dos seguintes elementos:
+
+
+a)
+
+Cópia da Portaria de Concessão;
+
+
+b)
+
+Primeira via da Nota de Empenho;
+
+
+c)
+
+Comprovantes das despesas realizadas, numerados seguidamente em ordem e data;
+
+
+d)
+
+Comprovante de recolhimento do saldo do adiantamento, se houver;
+
+
+e)
+
+Relação dos documentos anexados e resumo final demonstrativo do valor total recebido, pago e recolhido.
+
+
+§ 1º
+
+Os documentos que constarem de Processo de Prestação de Contas deverão conter o atestado de recebimento e pagamento do material ou execução dos serviços pelo beneficiado.
+
+
+§ 2º
+
+Os recibos de pagamento de serviços pessoais conterão as seguintes informações:
+
+
+a)
+
+Especificação do serviço prestado;
+
+
+b)
+
+Nome completo do prestador de serviço;
+
+
+c)
+
+Número da Carteira de Identidade e CPF do prestador de serviço.
+
+
+Art. 14.
+
+Os procedimentos a serem cumpridos, por ocasião da comprovação, homologação e baixa de responsabilidade dos adiantamentos, serão de conformidade com a Legislação Vigente.
+
+
+Art. 15.
+
+Esta Resolução entra em vigor na data de sua aprovação.
+
+
+Art. 16.
+
+Revogam-se as disposições em contrário, em especial a Resolução nº 004/01, de 31 de agosto de 2001.
+
+
+Sala das Sessões, 05 de agosto de 2005.
+
+<table><tbody><tr><td><strong>João Ribeiro de Amorim</strong><br>Pres. da Câmara Municipal<br>Biênio 2005/2006</td><td><strong>Pedro Célio Beatto</strong><br>2º Secretário<br>Biênio 2005/2006</td><td><strong>Valter de Oliveira</strong><br>Vice-Presidente<br>Biênio 2005/2006</td></tr><tr><td colspan="3"><strong>Osmário Martins Prado</strong><br>1º Secretário<br>Biênio 2005/2006</td></tr></tbody></table>
+

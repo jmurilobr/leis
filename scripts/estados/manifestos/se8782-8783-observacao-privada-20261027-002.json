@@ -1,0 +1,78 @@
+{
+  "preparado_em": "2026-10-27T19:51:56.084328-03:00",
+  "total": 2,
+  "normas_novas": 0,
+  "sem_promocao": true,
+  "sem_mascara": true,
+  "documentos": [
+    {
+      "path": "estaduais/SE/leis-ordinarias/2020/l-8783-2020-id9754.md",
+      "HEAD": "23b26033d587fd1c2f6d8fc63a3b502623108663",
+      "OID": "f3257b37657206525f2f830b96cbf8fc5acba345",
+      "sha256_MD": "e592bdf69a0e7e9d54fdbfe1c572a6aa7136c922b3c2fe310b7c2a580307cafd",
+      "preimagem": "estaduais/SE/_fonte/auditorias/duvida-rodape-8782-8783-20261027-001/l-8783-2020-id9754.md.preimagem",
+      "fonte_original": {
+        "url": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L87832020.html",
+        "arquivo": "estaduais/SE/_fonte/auditorias/duvida-rodape-8782-8783-20261027-001/4536b68c5389f85a53e0bc383a1fff17dcb4d9b5b74af5277f5abe8efbb48f1b.fonte.html.gz",
+        "sha256_fonte": "cc2aaf15f4c6cd15ecd8e5bcf739817fe5f2709fd40d6ecdc09a3cc362774216",
+        "sha256_cache": "4536b68c5389f85a53e0bc383a1fff17dcb4d9b5b74af5277f5abe8efbb48f1b",
+        "capturado_em": "2026-10-27T18:21:35.906855-03:00"
+      },
+      "indice": {
+        "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2020",
+        "arquivo": "estaduais/SE/_fonte/auditorias/duvida-rodape-8782-8783-20261027-001/bffe24b3fc52de2f2ee2e03a728dd2a713f6ab0747fcd7857af6455c41686059.indice.html.gz",
+        "sha256_fonte": "5ce6abea48d5f693f956d9f5ea38c253e5848d33190d1821dceba40becff2e3f",
+        "sha256_cache": "bffe24b3fc52de2f2ee2e03a728dd2a713f6ab0747fcd7857af6455c41686059",
+        "cartao_derivado": "estaduais/SE/_fonte/auditorias/duvida-rodape-8782-8783-20261027-001/9754-cartao-derivado.html",
+        "sha256_cartao_derivado": "8c706b3cafb77e8e7c86f08bb7fbb8d59b5313458204c34929fc3b63538c580a",
+        "data": "2020-11-06",
+        "titulo": "Lei Ordinária n° 8.783/2020"
+      },
+      "trechos": {
+        "epigrafe": "LEI Nº 8.783, DE 06 DE NOVEMBRO DE 2020",
+        "fecho": "Aracaju, 06 de novembro de 2020;",
+        "rodape": "Este texto não substitui o publicado no D.O.E de 27.10.2020."
+      },
+      "diagnostico": "Dúvida cronológica: epígrafe/fecho/cartão indicam 06/11/2020; rodapé literal indica DOE de 27/10/2020. Sem escolher data, inferir qual campo esteja errado ou concluir defeito do articulado.",
+      "privado": "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/SE/_fonte/auditorias/duvida-rodape-8782-8783-20261027-002/candidatos/estaduais/SE/leis-ordinarias/2020/l-8783-2020-id9754.md",
+      "sha256_candidato": "fd7c1d6249bc63c5f4f75c7a0d92159dc244256fde168b89a205523f51665729",
+      "sha256_corpo": "5b53ea8496b522d184edc5ee082b894c8d84a8b3b05850db9971579b3c9f3f81",
+      "alteracao_unica": "Acréscimo do campo observacao_edicao; todos os campos anteriores e corpo byte a byte preservados."
+    },
+    {
+      "path": "estaduais/SE/leis-ordinarias/2020/l-8782-2020-id9755.md",
+      "HEAD": "23b26033d587fd1c2f6d8fc63a3b502623108663",
+      "OID": "0b58d0a9def2b9859983be88c747dbd4af3342d5",
+      "sha256_MD": "b6e57e8b582aed9d90567fe3c1dc9e2bbcc7cb6d636a2af84b5d533db120a7f4",
+      "preimagem": "estaduais/SE/_fonte/auditorias/duvida-rodape-8782-8783-20261027-001/l-8782-2020-id9755.md.preimagem",
+      "fonte_original": {
+        "url": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L87822020.html",
+        "arquivo": "estaduais/SE/_fonte/auditorias/duvida-rodape-8782-8783-20261027-001/9de0cf8c7b281df6c4e220b4f83ad1b8075340f9c071109e4e91aa434544183a.fonte.html.gz",
+        "sha256_fonte": "b59577e766687a685417415bffa8cd672dc97771efe3c35c96e2cab73679e88b",
+        "sha256_cache": "9de0cf8c7b281df6c4e220b4f83ad1b8075340f9c071109e4e91aa434544183a",
+        "capturado_em": "2026-10-27T18:21:38.478861-03:00"
+      },
+      "indice": {
+        "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2020",
+        "arquivo": "estaduais/SE/_fonte/auditorias/duvida-rodape-8782-8783-20261027-001/bffe24b3fc52de2f2ee2e03a728dd2a713f6ab0747fcd7857af6455c41686059.indice.html.gz",
+        "sha256_fonte": "5ce6abea48d5f693f956d9f5ea38c253e5848d33190d1821dceba40becff2e3f",
+        "sha256_cache": "bffe24b3fc52de2f2ee2e03a728dd2a713f6ab0747fcd7857af6455c41686059",
+        "cartao_derivado": "estaduais/SE/_fonte/auditorias/duvida-rodape-8782-8783-20261027-001/9755-cartao-derivado.html",
+        "sha256_cartao_derivado": "9cb82bd864b100b8ff961df0cab2a2a75e2d408eaa3a3a62809c04612216de11",
+        "data": "2020-11-06",
+        "titulo": "Lei Ordinária n° 8.782/2020"
+      },
+      "trechos": {
+        "epigrafe": "LEI Nº 8.782, DE 06 DE NOVEMBRO DE 2020",
+        "fecho": "Aracaju, 06 de novembro de 2020;",
+        "rodape": "Este texto não substitui o publicado no D.O.E de 27.10.2020."
+      },
+      "diagnostico": "Dúvida cronológica: epígrafe/fecho/cartão indicam 06/11/2020; rodapé literal indica DOE de 27/10/2020. Sem escolher data, inferir qual campo esteja errado ou concluir defeito do articulado.",
+      "privado": "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/SE/_fonte/auditorias/duvida-rodape-8782-8783-20261027-002/candidatos/estaduais/SE/leis-ordinarias/2020/l-8782-2020-id9755.md",
+      "sha256_candidato": "5c9537e18d509153d709ab0ec65d579fc656d30fc68fbf9b7a1bf84145d98d3e",
+      "sha256_corpo": "76c654722b3270575ba969a05b19221972fcbed48e9234c712a76e7c978f6521",
+      "alteracao_unica": "Acréscimo do campo observacao_edicao; todos os campos anteriores e corpo byte a byte preservados."
+    }
+  ],
+  "base": "scripts/estados/manifestos/se8782-8783-duvida-cronologica-20261027-001.json"
+}

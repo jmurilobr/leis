@@ -1,0 +1,4 @@
+usage: promover_to_pdf_privado.py [-h] --manifesto MANIFESTO --hashes HASHES
+                                  --total-esperado TOTAL_ESPERADO --controle
+                                  CONTROLE [--apply] [--confirmar-root {ROOT}]
+promover_to_pdf_privado.py: error: --apply é exclusivo ROOT e requer --confirmar-root ROOT

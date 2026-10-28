@@ -1,0 +1,510 @@
+---
+titulo: "Lei Ordinária nº 2.927, de 12 de janeiro de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2927"
+data: "2021-01-12"
+municipio: "Dores do Indaiá"
+uf: "MG"
+codigo_ibge: "3123205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.doresdoindaia.mg.leg.br/norma/10"
+fonte_texto: "https://sapl.doresdoindaia.mg.leg.br/ta/119/text"
+sha256_fonte: "c62b6ad6d62d8ff00cdc9feec2b52a9e2384ce7240194dea1b7d2daa7457eaf1"
+sha256_texto: "888f8ec9ca650b5658794966025e6413fc7a1a087561893647a11c7f454c66a1"
+capturado_em_fonte: "2026-10-28T10:03:18.978036-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.927, de 12 de janeiro de 2021
+
+“DISPÕE SOBRE A CONTRATAÇÃO DE PESSOAL PARA ATENDER A NECESSIDADE TEMPORÁRIA DE EXCEPCIONAL INTERESSE PÚBLICO E DÁ OUTRAS PROVIDENCIAS”
+
+
+A Câmara Municipal de Dores do Indaiá — MG, através de seu Plenário, APROVA, e eu, Prefeito Municipal SANCIONO a seguinte Lei:
+
+
+Art. 1º.
+
+Para atender à necessidade temporária de excepcional interesse público, em conformidade com o inciso IX do art. 37 da Constituição Federal e com o art. 102, caput, da Lei Orgânica do Município de Dores do Indaiá — Minas Gerais, a Administração Direta, Autarquias e Fundações Públicas do Município de Dores do Indaiá poderão efetuar contratação de pessoal por tempo determinado, nas condições e prazos estabelecidos nesta Lei, tendo como requisitos de validade:
+
+
+I –
+
+Tempo determinado;
+
+
+II –
+
+Necessidade temporária de interesse público;
+
+
+III –
+
+Interesse público excepcional.
+
+
+§ 1º
+
+A eventual contratação por tempo determinado obrigatoriamente deve-se dar apenas em casos excepcionais, em que eventual demora cause danos ao interesse público ou, mais especificamente, ao princípio da continuidade do serviço público.
+
+
+§ 2º
+
+As contratações realizadas por meio de processo seletivo simplificado devem ser realizadas preferencialmente para cargos já existentes, devendo obedecer o número de vagas previstos em Lei.
+
+
+§ 3º
+
+s contratações na forma da presente Lei somente poderão ser feitas com estrita observância dos limites de gastos com pessoal e mediante prévia e expressa autorização do Chefe do Poder Executivo.
+
+
+Art. 2º.
+
+Considera-se necessidade temporária de excepcional interesse público:
+
+
+I –
+
+atendimento a situação caracterizada como de calamidade pública;
+
+
+II –
+
+combate a surtos epidêmicos;
+
+
+III –
+
+realização de censo, pesquisas e levantamentos estatísticos;
+
+
+IV –
+
+admissão, no quadro de magistério, em substituição e para suprimento de demanda com aumento de salas ou número de alunos;
+
+
+V –
+
+execução de serviços temporários, que não exijam habilitação dos servidores em caráter efetivo, desde que inexistentes no Cargo nos Planos de Carreiras do Município de Dores do Indaiá e para manutenção, conserto e construção de obras específicas por prazo certo;
+
+
+VI –
+
+exercício de cargos, funções e execução de serviços para cujas atividades não existam servidores aprovados em concursos aptos a serem nomeados e que não possam aguardar a realização de concurso público, sob pena de comprometer a prestação de serviço público;
+
+
+VII –
+
+execução de serviços técnicos profissionais especializados, desde que se trate de profissional de notória especialização, cujas atividades não constem em nenhum cargo nos Planos de Carreiras do Município de Dores do Indaiá;
+
+
+VIII –
+
+atendimento a situação de urgência e necessidade administrativa, devidamente comprovada e não referidas expressamente nesta Lei;
+
+
+IX –
+
+substituição de servidor nomeado em caráter efetivo, que esteja em gozo de férias regulamentares, afastado para gozo de licença de férias-prêmio em época determinada;
+
+
+X –
+
+substituição de servidor nomeado em caráter efetivo ou contratado, que esteja afastado em licença maternidade;
+
+
+XI –
+
+substituição de servidor nomeado em caráter efetivo, que esteja afastado em licença para atividade política; para desempenho de mandato classita; por motivo de doença na família e para tratamento de assuntos de interesse particular;
+
+
+XII –
+
+substituição de servidor nomeado em caráter efetivo ou contratado, que esteja em gozo de afastamento em razão de licença para tratamento de saúde.
+
+
+XIII –
+
+ubstituição de servidor nomeado em caráter efetivo, que esteja nomeado e em exercício de cargo de provimento em comissão;
+
+
+XIV –
+
+para atender convênios de cooperação firmados entre o Município de Dores do Indaiá e a Justiça Eleitoral Federal, 0 Poder Executivo Estadual (Secretarias de Estado e Órgãos) e o Poder Judiciário Estadual.
+
+
+§ 1º
+
+No caso do inciso VIII deste artigo, a contratação será efetivada após minucioso estudo de urgência e necessidade pelo órgão competente e na forma prevista em justificativa aprovada pelo Prefeito Municipal.
+
+
+§ 2º
+
+Nos casos dos incisos IV, IX, X, XI, XII, XIII e XIV deste artigo, a contratação será admitida, desde que não seja possível a substituição por outro servidor do quadro efetivo, sem prejuízo para o serviço público.
+
+
+§ 3º
+
+No caso do inciso VI, a contratação será admitida, somente até 180 (cento e oitenta) dias depois da homologação de Concurso Público para provimento dos cargos em caráter efetivo;
+
+
+§ 4º
+
+Não será admitida contratação para a hipótese do inciso VI deste artigo, no caso de a mesma não se caracterizar como sendo temporária e havendo concursados aptos a serem nomeados.
+
+
+Art. 3º.
+
+As contratações serão feitas por tempo determinado, observados os seguintes prazos máximos:
+
+
+I –
+
+seis meses, nos casos dos incisos I, II e VIII do artigo 2º;
+
+
+II –
+
+até doze meses, nos casos dos incisos IV e V do artigo 2º;
+
+
+III –
+
+até vinte e quatro meses, nos casos dos incisos HI, VI, VII e XIV do artigo 2º;
+
+
+IV –
+
+enquanto durar o período de afastamento de que tratam os incisos IX, X, XI, XII e XIII do art. 2º desta Lei.
+
+
+Parágrafo único
+
+No quadro do magistério, o prazo de contrato será de um ano letivo, inadmitida prorrogação automática.
+
+
+Art. 4º.
+
+O contrato, de que trata esta Lei, regular-se á pelas cláusulas e preceitos próprios de Direito Administrativo, Direito Público em geral, aplicando-se-lhe supletivamente os princípios e disposições de Direito Privado.
+
+
+Art. 5º.
+
+É competente para celebrar o contrato, O Prefeito Municipal ou quem tiver delegação para tal.
+
+
+Art. 6º.
+
+A remuneração do pessoal contratado nos termos desta será fixada:
+
+
+I –
+
+nos casos dos incisos I, IL, IV, V, VI, VIII, IX, X, XI, XII e XIII do Art. 2º, em importância não superior ao valor da remuneração de início de carreira constante dos Planos dos Quadros de Cargos e Salários e Carreiras do Pessoal Administrativo, da Saúde e do Magistério Público Municipal de Dores do Indaiá;
+
+
+II –
+
+no caso do inciso VII do Art. 2º, em importância não superior ao valor da remuneração do final de carreira constante dos quadros dos Planos de Carreira, Cargos e Salários do pessoal administrativo, da saúde e do magistério público municipal de Dores do Indaiá, para servidores que desempenhem função semelhante, ou não existindo semelhança às condições do mercado de trabalho;
+
+
+III –
+
+no caso do inciso II do Art. 2º, o valor da remuneração, poderá ser formado por unidade produzida, desde que obedecida o disposto no inciso II deste artigo.
+
+
+Art. 7º.
+
+Aplica-se ao pessoal contratado nos termos desta Lei o disposto no art. 8º, incisos I a VI, no art. 61, caput, no art. 76, incisos I e II, no art. 87, 8 1º e & 2º, no art. 88, Parágrafo único, no art. 90, caput, no art. 91, caput, no art. 97, incisos IL, IV, V, VI, VII, VII e IX, no art. 129, incisos I, II e III, no art. 163 inciso I, II, alíneas “a” e “b”, III e IV, no art. 178, incisos 1, I, HI, IV, V, alíneas “a”, “b” e “Cc”, VI, VII, VIII, IX, X, XI, XII, XIII e XIV, no art. 179, incisos 1 a XXI, no art. 190, incisos I, II e III, no art. 195, incisos 1 a XVII, da Lei Complementar Municipal n.º 78/2019, de 22 de Março de 2019.
+
+
+Art. 8º.
+
+As infrações disciplinares atribuídas ao pessoal contratado nos termos desta Lei serão apuradas mediante sindicância, concluída no prazo de trinta dias e assegurada ampla defesa.
+
+
+Art. 9º.
+
+São formalidades essenciais do contrato previsto nesta Lei:
+
+
+I –
+
+celebração por autoridade competente,
+
+
+II –
+
+forma escrita;
+
+
+III –
+
+fixação expressa da função a ser desenvolvida, local da prestação, forma do pagamento e prazo e duração;
+
+
+IV –
+
+valor do pagamento em moeda nacional;
+
+
+V –
+
+forma e causas da rescisão contratual,
+
+
+VI –
+
+foro para dirimir as questões contratuais.
+
+
+Parágrafo único
+
+É vedado a servidor público celebrar contrato, na forma desta Lei, com a Administração Direta ou Indireta do Município, salvo motivação fundamentada do órgão competente, aprovado pelo Prefeito Municipal e ocorrente compatibilidade horária.
+
+
+Art. 10.
+
+O contratado, com fundamento nesta Lei, não pode:
+
+
+I –
+
+receber atribuições, funções ou encargos não previstos no contrato;
+
+
+II –
+
+ser nomeado ou designado, durante a vigência do contrato, ainda a título precário ou em substituição, para exercício de cargo em comissão ou função de confiança;
+
+
+III –
+
+celebrar outro contrato concomitante, ressalvado o disposto nesta Lei;
+
+
+IV –
+
+receber vantagens, adicionais e valores diversos dos expressamente constantes desta Lei.
+
+
+Parágrafo único
+
+inobservância do disposto neste artigo importará na rescisão contratual, nos casos dos incisos I e TI ou declaração de insubsistência dos efeitos por ato do Prefeito Municipal, no caso do inciso III, sem prejuízo da responsabilidade administrativa das autoridades envolvidas na transgressão.
+
+
+Art. 11.
+
+O contrato, firmado de acordo com esta Lei, extinguir-se-á:
+
+
+I –
+
+no término do prazo contratual;
+
+
+II –
+
+por iniciativa do contratado ou contratante.
+
+
+§ 1º
+
+No caso de rescisão contratual por iniciativa do contratado, será obrigatória comunicação escrita.
+
+
+§ 2º
+
+A rescisão, decorrente de iniciativa do contratante, faz-se-á precedido de notificação ao contratado.
+
+
+Art. 12.
+
+O tempo de serviço prestado em virtude da contratação nos termos desta Lei será contado para todos os efeitos legais no âmbito do Município, com exceção para fins de obtenção de gratificação quinquenal e de férias prêmio, bem como para promoção e progressão nas carreiras, em razão da natureza temporária da contratação.
+
+
+Art. 13.
+
+Far-se-á o registro do contrato, referido nesta Lei, no órgão administrativo competente, observadas as formalidades próprias.
+
+
+Art. 14.
+
+O recrutamento e seleção do pessoal a ser contratado, nos termos desta Lei, será feito mediante processo seletivo simplificado de provas e/ou títulos e/ou provas e títulos, a critério da Administração, obedecido os princípios da legalidade e da publicidade, o qual terá validade máxima de 01 (um) ano, podendo ser prorrogado por igual período.
+
+
+Art. 15.
+
+A Contratação nos termos desta Lei será, obrigatoriamente, precedida do devido Processo Administrativo no qual deverá conter, obrigatoriamente:
+
+
+I –
+
+Requisição fundamentada da autoridade requisitante dirigida à Secretaria Municipal de Administração;
+
+
+II –
+
+Certidão emitida pelo Serviço Administrativo de Recursos Humanos da Prefeitura Municipal de Dores do Indaiá, acerca da existência ou não de Concurso Público vigente para o cargo cuja contratação está sendo requisitada;
+
+
+III –
+
+Documentos que justifiquem a contratação para a situação pretendida;
+
+
+IV –
+
+Despacho do Prefeito Municipal ou do Secretário Municipal de Administração deferindo ou não a contratação;
+
+
+V –
+
+Outros documentos que podem ser solicitados por qualquer uma das autoridades de que trata o inciso anterior ou da Procuradoria Jurídica da Prefeitura Municipal de Dores do Indaiá;
+
+
+VI –
+
+Parecer Jurídico.
+
+
+§ 1º
+
+O Processo Administrativo de que trata este artigo será instaurado e processado pelo Serviço de Administração de Recursos - Humanos da Prefeitura Municipal de Dores do Indaiá, que ficará responsável pela sua guarda.
+
+
+§ 2º
+
+Para cada requisição de trata o inciso I deste artigo será instaurado um processo administrativo;
+
+
+§ 3º
+
+O disposto neste artigo terá que ser observado pela Administração Direta, Autarquias e Fundações Públicas do Município de Dores do Indaiá.
+
+
+Art. 16.
+
+No ato de formalização do Contrato para os fins desta Lei, o contratado deve apresentar os seguintes documentos originais e cópias, que serão arquivadas no Processo Funcional do servidor, depois de conferidas, datadas e assinadas:
+
+
+I –
+
+comprovante de habilitação para a função que for contratado, de Registro Profissional e Diploma Registrado de Curso exigido para a função, quando for o caso;
+
+
+II –
+
+documento de identidade;
+
+
+III –
+
+comprovante de estar em dia com as obrigações eleitorais,
+
+
+IV –
+
+comprovante de estar em dia com as obrigações militares, para candidato do sexo masculino, dispensada a exigência quando se tratar de cidadão com mais de 45 (quarenta e cinco) anos;
+
+
+V –
+
+comprovante de inscrição no PIS/PASEP, quando for o caso;
+
+
+VI –
+
+comprovante de registro no Cadastro Nacional de Pessoas Físicas — CPF;
+
+
+VII –
+
+comprovante de aptidão para a função, avaliada em exame médico pré-admissional;
+
+
+VIII –
+
+comprovante de endereço;
+
+
+IX –
+
+certidão de nascimento ou de casamento se for casado;
+
+
+X –
+
+certidão de nascimento e cartão de vacina para os filhos até 7 anos;
+
+
+XI –
+
+certidão de nascimento e comprovante de frequência escolar para os filhos de 6 a 14 anos;
+
+
+XII –
+
+comprovante de número de conta bancária e agência;
+
+
+XIII –
+
+carteira nacional de habilitação (CNH) para as funções, que a exigir;
+
+
+XIV –
+
+Cursos de Transporte de Passageiros e Escolar para o cargo de motorista.
+
+
+§ 1º
+
+Não constitui impedimento para a contratação a não apresentação de cópias de documentos se o contratado apresenta os originais.
+
+
+§ 2º
+
+Constitui impedimento para a contratação, a recusa do candidato em assinar qualquer formulário ou documento necessário .à correta e legal formalização de seu contrato com a Prefeitura Municipal de Dores do Indaiá.
+
+
+§ 3º
+
+Além da documentação prevista neste artigo, O contratado assinará Termo de Compromisso, de que se submete integralmente às regras do contrato e as normas administrativas, pertinentes a horários, atividades e outras necessidades das unidades ou dos setores da Administração Pública, em que for lotado.
+
+
+§ 4º
+
+O exame médico pré-admissional é obrigatório e tem a validade de 01(um) ano a contar da data de sua realização.
+
+
+§ 5º
+
+Está dispensado de novo exame médico..o contratado considerado apto em exame pré-admissional realizado ou homologado pelo perito oficial, para a função, com menos de um ano.
+
+
+§ 6º
+
+Será exigido novo exame médico pré-admissional do candidato à contratação que tiver permanecido afastado do trabalho por motivo de saúde ou em gozo de auxílio-doença por período superior a 30 (trinta) dias consecutivos ou não, nos últimos 12 (doze) meses, ainda que tenha contratação ininterrupta ou exame médico pré-admissional válido.
+
+
+Art. 17.
+
+Fica revogada a Lei Municipal n.º 1.619/91, de 31 de Janeiro de 1.991.
+
+
+Art. 18.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Dores do Indaiá, 12 de Janeiro de 2.021.
+
+**ALEXANDRO COÊLHO FERREIRA**
+
+**PREFEITO MUNICIPAL**
+

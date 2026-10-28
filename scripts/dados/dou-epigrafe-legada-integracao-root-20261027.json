@@ -1,0 +1,16 @@
+{
+  "testes": 32,
+  "aprovados": true,
+  "candidatos_retidos_revisados": 521,
+  "aptos_para_gates": 158,
+  "continuam_retidos": 363,
+  "criterio": "Reconhece somente um h3.titulo-dou único imediatamente anterior a texto-dou quando não há p.identifica interno. Exige correspondência com título cadastrado; conserva demais provas de fonte, publicação, assinatura e corpo integral. Dois títulos, epígrafe ausente/divergente ou qualquer conteúdo entre título e campo continuam retidos. Ementas ou subtítulos externos não são ignorados nem incorporados por heurística. Nenhum corpo ou metadado alterado. Os 158 ainda dependem de gates e fidelidade posteriores, sem contagem automática.",
+  "sha256": {
+    "reguladores/_fonte/auditorias/dou031-auditor-congelado-root-20261027/auditar_cache_dou.py.gz": "80622f14ee1a4992086dc270447a2c63d809c54e369ce0d46910073c750152ab",
+    "reguladores/_fonte/auditorias/dou031-auditor-congelado-root-20261027/test_auditar_cache_dou.py.gz": "f3cd33d863591e1b41e859cd42dabb1cef0cfaf2947fa16001506b5f20c46405",
+    "scripts/auditar_cache_dou.py": "f7ca46afc626712457a1c13574708718382993e41a1421a4385485fd0fb3ef22",
+    "scripts/test_auditar_cache_dou.py": "be49c725f112bfe0c8cb1e24b1b917b06c33425d7e9cebaee7aaa393aa0272a3",
+    "scripts/dados/dou-epigrafe-legada-testes-root-20261027.txt": "1f6749ce63f89574559c23f28ba55f34318cdb00890d7788d30d71f801641f46",
+    "scripts/dados/dou-cache-20261027-032.json": "7b49a674f19df15174dfe35d71672228770db68dc4200687ba86cf9e598e03c4"
+  }
+}

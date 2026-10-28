@@ -1,0 +1,196 @@
+---
+titulo: "CIRCULAR Nº 3.902, DE 30 DE MAIO DE 2018"
+orgao: "Ministério da Fazenda/Banco Central do Brasil/Diretoria Colegiada"
+tipo: "Circular"
+numero: "3902"
+data: 2018-05-30
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 04/06/2018, seção 1, p. 20"
+data_publicacao: 2018-06-04
+edicao: "105"
+fonte: "https://www.in.gov.br/web/dou/-/circular-n-3-902-de-30-de-maio-de-2018-16908951"
+sha256_html_fonte: 2b21e482fbe1afce312019c761ca8cec7c7e38640b9e48ed227f5fca82a94e74
+baixado_em: 2026-10-27
+---
+# CIRCULAR Nº 3.902, DE 30 DE MAIO DE 2018
+
+CIRCULAR Nº 3.902, DE 30 DE MAIO DE 2018
+
+Dispõe sobre os procedimentos para o cumprimento do requerimento de margem bilateral de garantia em operações com instrumentos financeiros derivativos realizadas no País ou no exterior por instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil, não liquidadas por meio de entidade que se interponha como contraparte central.
+
+A Diretoria Colegiada do Banco Central do Brasil, em sessão realizada em 30 de maio de 2018, com base nos arts. 9º da Lei nº 4.595, de 31 de dezembro de 1964, e 28 da Resolução nº 4.662, de 25 de maio de 2018, resolve:
+
+**Art. 1º** Esta Circular estabelece procedimentos para o cumprimento do requerimento de margem bilateral de garantia em operações com instrumentos financeiros derivativos realizadas no País ou no exterior por instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil, não liquidadas por meio de entidade que se interponha como contraparte central, de que trata a Resolução nº 4.662 de 25 de maio de 2018.
+
+**Art. 2º** Para fins de apuração das margens de garantia de que trata esta Circular, devem ser considerados apenas os acordos bilaterais para compensação e liquidação de obrigações que satisfaçam as seguintes condições:
+
+I - o acordo deve ser formalizado em instrumento contratual que atenda aos seguintes requisitos:
+
+a) o contrato que ampara a cobertura da exposição relativa ao acordo deve ter eficácia jurídica plena em todas as jurisdições nas quais deva ou possa produzir efeitos; e
+
+b) os direitos e obrigações decorrentes do uso do acordo devem estar previstos no contrato, salvo os que decorram diretamente da lei; e
+
+II - o acordo deve estabelecer as hipóteses que impliquem antecipação do vencimento, bem como a metodologia para a apuração, compensação e liquidação das obrigações a ele sujeitas.
+
+**§ 1º** Na hipótese de os acordos estabelecerem a antecipação do vencimento por inadimplência de uma das partes, devem ser estipuladas as situações que caracterizem a inadimplência.
+
+**§ 2º** Sem prejuízo do disposto no § 1º, devem ser consideradas como situações que caracterizam a inadimplência a declaração de insolvência e a decretação de intervenção, de falência, de liquidação extrajudicial ou de outro regime de resolução pelas autoridades competentes.
+
+**§ 3º** É vedada a estipulação de cláusulas estabelecendo que, após o vencimento, apuração e compensação de obrigações, a contraparte adimplente não pague ou limite o pronto pagamento do valor final devido, caso a contraparte inadimplente seja credora.
+
+**Art. 3º** A margem inicial mínima (MIM) deve ser apurada com base na soma da margem inicial bruta (MIB) das operações cobertas que não estão sujeitas aos acordos de que trata o art. 2º desta Circular com o somatório das margens iniciais líquidas associadas a esses acordos, conforme a seguinte fórmula:
+
+I - N é o número de acordos mencionados no caput, celebrados entre a instituição coberta e sua contraparte coberta; e
+
+II - MILNetting,né a margem inicial líquida das operações sujeitas ao n-ésimo acordo celebrado e mantido pela instituição coberta e sua contraparte coberta.
+
+**§ 1º** A margem inicial bruta (MIB) corresponde ao somatório da multiplicação entre o valor nocional de cada operação coberta e o seu respectivo fator de ponderação, considerando a classe de derivativos e o prazo de vencimento associados à operação, conforme estabelecido a seguir:
+
+I - 2% (dois por cento), no caso de derivativos de crédito com prazo de vencimento remanescente inferior a 2 anos;
+
+II - 5% (cinco por cento), no caso de derivativos de crédito com prazo de vencimento remanescente entre 2 e 5 anos;
+
+III - 10% (dez por cento), no caso de derivativos de crédito com prazo de vencimento remanescente maior que 5 anos;
+
+IV - 15% (quinze por cento), no caso de derivativos de mercadorias (commodities);
+
+V - 15% (quinze por cento), no caso de derivativos de ações;
+
+VI - 6% (seis por cento), no caso de derivativos de moeda estrangeira e de derivativos de ouro;
+
+VII - 1% (um por cento), no caso de derivativos de taxa de juros com prazo de vencimento remanescente inferior a 2 anos;
+
+VIII - 2% (dois por cento), no caso de derivativos de taxa de juros com prazo de vencimento remanescente entre 2 e 5 anos;
+
+IX - 4% (quatro por cento), no caso de derivativos de taxa de juros com prazo de vencimento remanescente maior que 5 anos; e
+
+X - 15% (quinze por cento), no caso de outros derivativos.
+
+**§ 2º** No caso de derivativos com características não lineares, a MIB deve ser apurada com base na multiplicação entre o valor nocional, a variação do preço do derivativo em relação à variação do preço do ativo objeto (delta) e os fatores indicados nos incisos do § 1º, conforme a classe de derivativos e seus prazos de vencimento.
+
+**§ 3º** No caso de uma operação classificada em mais de uma das classes de derivativos elencadas nos incisos do § 1º, deve ser utilizado o maior dos fatores de ponderação.
+
+**§ 4º** A MILNetting,ndeve ser apurada de acordo com a seguinte fórmula:
+
+MILNetting,n= 0,4 x MIBNetting,n+ 0,6 x NGRnx MIBNetting,n, em que:
+
+I - a MIBNetting,nrepresenta a margem inicial bruta do n-ésimo acordo, apurada conforme metodologia descrita no § 1º; e
+
+II - o NGRn'para o n-ésimo acordo mencionado no caput, deve ser calculado pela instituição coberta por meio dos seguintes procedimentos:
+
+a) para cada parte "p" do n-ésimo acordo, a instituição coberta deve computar a razão:
+
+1\. "p" assume o valor 1 para indicar a instituição coberta e assume o valor 2 para indicar sua contraparte coberta;
+
+2\. Kné o número de operações cobertas que integram o n-ésimo acordo mencionado no caput;
+
+3\. MtMi,pé o valor de mercado da operação "i" para a parte "p"; e
+
+4\. Max ( ) é a função máximo, cujo valor consiste no maior valor de seus argumentos.
+
+b) caso ocorra a situação na qual, para alguma parte "p" do n-ésimo acordo, o denominador da razão a que se refere a alínea "a" seja nulo, a instituição coberta deve considerar que NGRn=1; e
+
+c) em qualquer caso distinto do previsto na alínea "b", a instituição coberta deve considerar que o valor do NGRné o maior valor entre as razões computadas na alínea "a", de acordo com a seguinte fórmula:
+
+**§ 5º** Para fins de apuração da MIM a ser entregue pela instituição coberta, não devem ser consideradas no cômputo da MIB e da MIBNetting,nas modalidades de operações com derivativos nas quais a instituição não ofereça risco de crédito para sua contraparte, a exemplo do contrato de opções em que referida instituição atue como parte compradora da opção.
+
+**§ 6º** Para fins de apuração da MIM a ser recebida pela instituição coberta, não devem ser consideradas no cômputo da MIB e da MIBNetting,nas modalidades de operações com derivativos nas quais a instituição não corre risco de crédito de sua contraparte, a exemplo do contrato de opções em que referida instituição atue como parte vendedora da opção.
+
+**§ 7º** As modalidades mencionadas nos §§ 5º e 6º devem ser consideradas na apuração do NGR, para fins de apuração da MIM a ser entregue pela instituição coberta e para fins de apuração da MIM a ser recebida pela instituição coberta.
+
+**Art. 4º** A margem de variação mínima (MVM) a ser mantida pela instituição coberta a favor da sua contraparte coberta é igual ao valor absoluto do somatório dos valores de mercado das operações cobertas que possuem valor de mercado negativo para a instituição coberta.
+
+**Art. 5º** A MVM a ser mantida pela contraparte coberta a favor da instituição coberta é igual ao somatório dos valores de mercado das operações cobertas que possuem valor de mercado positivo para a instituição coberta.
+
+**Art. 6º** No caso de operações cobertas sujeitas a um mesmo acordo bilateral para compensação e liquidação de obrigações, conforme requisitos estabelecidos no art. 2º, a MVM poderá ser calculada considerando o valor de mercado líquido das operações sujeitas a um mesmo acordo, para efeitos das apurações das margens mínimas mencionadas nos arts. 4º e 5º.
+
+**Art. 7º** Para fins desta Circular, a margem de garantia poderá ser constituída com base no recebimento ou na entrega dos seguintes instrumentos financeiros:
+
+I - depósitos à vista e depósitos de poupança mantidos na instituição coberta receptora da garantia;
+
+II - depósitos a prazo, depósitos interfinanceiros, letras financeiras, letras de crédito imobiliário, letras de crédito do agronegócio e certificados de operações estruturadas emitidos pela instituição coberta receptora da garantia e custodiados na própria instituição ou em seu favor por terceiros;
+
+III - títulos públicos federais aceitos pelo Banco Central do Brasil em operações de redesconto intradia;
+
+IV - títulos e valores mobiliários emitidos pela União Europeia, pelo Banco Central Europeu ou pelas demais entidades elencadas no art. 2º, § 1º, inciso IV da Resolução nº 4.662, de 2018;
+
+V - títulos e valores mobiliários emitidos por governos centrais de jurisdições estrangeiras e respectivos bancos centrais, desde que a classificação externa de risco da emissão, conferida por agência de classificação de risco de crédito registrada ou reconhecida no Brasil pela Comissão de Valores Mobiliários, seja igual ou superior a AA- ou classificação equivalente;
+
+VI - ações incluídas em índices relevantes de bolsa de valores reconhecida pela autoridade supervisora da jurisdição em que esteja localizada, ou títulos nelas conversíveis;
+
+VII - ouro ativo financeiro;
+
+VIII - títulos de crédito emitidos por entidades não financeiras que possuam ações em índices relevantes de bolsa de valores sujeita a regulação e supervisão governamental e cuja classificação externa de risco da emissão, conferida por agência de classificação de risco de crédito registrada ou reconhecida no Brasil pela Comissão de Valores Mobiliários, seja igual ou superior à classificação em escala nacional brAAA ou equivalente; e
+
+IX - cotas de fundos de investimento, desde que atendidas as seguintes condições:
+
+a) o valor de mercado das cotas deve ser avaliado e divulgado, no mínimo, diariamente;
+
+b) o resgate ou negociação das cotas pode ser realizado diariamente;
+
+c) os investimentos do fundo devem restringir-se aos instrumentos elencados nos incisos I a VIII do caput e a cotas de outros fundos de investimento que satisfaçam o disposto na alínea "e" deste inciso;
+
+d) o fundo deve ser administrado por entidade supervisionada pela Comissão de Valores Mobiliários ou deve submeter-se a alguma das jurisdições estrangeiras elencadas no art. 2º, § 1º, incisos II e III da Resolução nº 4.662, de 2018; e
+
+e) o disposto nas alíneas "a" a "d" deste inciso deve aplicar-se às cotas de fundos de investimento que integram os ativos do fundo de investimento titular das cotas.
+
+**§ 1º** A classificação externa de risco de que trata o inciso V do caput deve ser a de maior grau de risco, se houver mais de uma classificação disponível.
+
+**§ 2º** Para os efeitos do disposto no caput, não poderão ser utilizados instrumentos financeiros:
+
+I - cuja obrigação de pagamento seja assegurada pela própria contraparte que entrega os instrumentos ou por entidade a ela ligada, com a qual sejam elaboradas demonstrações financeiras em bases consolidadas;
+
+II - cujo risco de crédito apresente correlação positiva relevante com o risco de crédito da entidade que entrega os instrumentos;
+
+III - cujo valor de mercado apresente correlação negativa relevante com o risco de crédito da entidade que entrega os instrumentos; e
+
+IV - cujo valor de mercado apresente correlação negativa relevante com o valor de mercado da carteira de derivativos.
+
+**§ 3º** Os instrumentos financeiros listados nos incisos II a IX do caput, para serem admitidos como margens de garantia, devem ser objeto de:
+
+I - registro ou depósito centralizado em entidade que exerça atividades de registro ou de depósito centralizado de ativos financeiros ou valores mobiliários, autorizadas pelo Banco Central do Brasil ou pela Comissão de Valores Mobiliários; ou
+
+II - registro, custódia ou depósito centralizado em infraestrutura do mercado financeiro regulada e supervisionada por autoridade competente em sua jurisdição quando emitidos ou custodiados no exterior.
+
+**Art. 8º** A instituição coberta deve proceder à substituição do instrumento financeiro utilizado como margem de garantia no dia útil subsequente ao dia em que o instrumento deixe de atender aos critérios de elegibilidade estabelecidos nesta Circular.
+
+**Art. 9º** Para fins de cumprimento do requerimento das margens de garantia inicial e de variação, devem ser considerados os valores ajustados dos valores de mercado dos instrumentos financeiros de que trata o art. 7º, conforme a seguinte fórmula:
+
+VA = VM x (1 - HC - HFX), em que:
+
+I - VM o valor de mercado do instrumento financeiro;
+
+II - HC o fator de ajuste padronizado associado à natureza do instrumento financeiro; e
+
+III - HFX o fator de ajuste padronizado associado ao descasamento entre a moeda de referência para a liquidação das obrigações relativas à operação coberta e a moeda na qual é denominado ou indexado o instrumento financeiro de que trata o art. 7º.
+
+**§ 1º** O valor do fator de ajuste padronizado (HC) de que trata o inciso II do caput deve ser equivalente a, no mínimo:
+
+I - 0% (zero por cento), para os instrumentos financeiros de que trata o art. 7º, incisos I e II;
+
+II - 0,5% (meio por cento), para os instrumentos financeiros de que trata o art. 7º, incisos III, IV e V, quando o prazo efetivo de vencimento remanescente for inferior ou igual a 1 ano;
+
+III - 2% (dois por cento), para os instrumentos financeiros de que trata o art. 7º, incisos III, IV e V, quando o prazo efetivo de vencimento remanescente for superior a 1 ano e inferior ou igual a 5 anos;
+
+IV - 4% (quatro por cento), para os instrumentos financeiros de que trata o art. 7º, incisos III, IV e V, quando o prazo efetivo de vencimento remanescente for superior a 5 anos;
+
+V - 15% (quinze por cento), para os instrumentos financeiros de que trata o art. 7º, incisos VI, VII e VIII; e
+
+VI - o maior dos valores de HC aplicáveis aos ativos que integram a carteira do fundo de investimentos, no caso dos instrumentos financeiros de que trata o art. 7º, inciso IX.
+
+**§ 2º** No caso de impossibilidade de identificação dos ativos mencionados no § 1º, inciso VI, o valor do HC deve ser equivalente a, no mínimo, 15% (quinze por cento).
+
+**§ 3º** O valor do fator de ajuste padronizado HFX deve ser igual a:
+
+I - 8% (oito por cento), se existir descasamento entre a moeda de referência para a liquidação das obrigações relativas à operação coberta e a moeda na qual é denominado ou indexado o instrumento financeiro de que trata o art. 7º; ou
+
+II - 0% (zero por cento), na ausência do descasamento de que trata o inciso I.
+
+**§ 4º** O valor de mercado do certificado de operação estruturada deve ser limitado à parcela relativa ao valor nominal protegido, de que trata a Resolução nº 4.263, de 5 de setembro de 2013.
+
+**Art. 10.** Esta Circular entra em vigor na data de sua publicação.
+
+OTÁVIO RIBEIRO DAMASO
+
+Diretor de Regulação

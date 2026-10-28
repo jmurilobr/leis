@@ -1,0 +1,200 @@
+---
+titulo: "Lei Ordinária nº 2.701, de 02 de dezembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2701"
+data: "2025-12-02"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/5563"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/1715/text"
+sha256_fonte: "42204813fc096a813c1f36ce3a772b5737f260e7f87ecdecdfbe042cac5d13e5"
+sha256_texto: "ad150ef71f832ab134610fc969cf02588247db59ce468311209f47943d06394b"
+capturado_em_fonte: "2026-10-27T21:17:51.411388-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.701, de 02 de dezembro de 2025
+
+Autoriza o Poder Executivo Municipal a fazer Concessão de Direito Real de Uso de Área às pessoas físicas e jurídicas especificadas nesta Lei, que buscam fixar sede definitiva neste Município, e dá outras providências.
+
+
+A **Câmara Municipal de Caçu, Estado de Goiás**, por seus representantes aprova e eu, Prefeito Municipal, no uso das atribuições conferidas pela Lei Orgânica do Município, **SANCIONO** a seguinte **LEI:**
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a fazer Concessão de Direito Real de Uso das áreas descritas nesta Lei, às pessoas físicas e jurídicas nominadas, para instalação e funcionamento dos respectivos empreendimentos:
+
+
+I –
+
+Alexandre Lourenço Gomes, brasileiro, solteiro, empresário, portador da Cédula de Identidade RG nº 1997318 –SSP/PI e do CPF nº 650.664.723-04, residente e domiciliado na Rua Manoel Franco, n° 138, Loteamento Municipal, referente ao lote: Lote nº 03, Quadra n° 06, com área total de 1.712,11m² (um mil, setecentos e doze metros e onze decímetros quadrados), no Setor Polo Empresarial Walter Guimarães do Nascimento “Waltão”, avaliada em R$ 68.484,40 (sessenta e oito mil, quatrocentos e oitenta e quatro reais e quarenta centavos) e será destinada à instalação de empresa de Extração de Madeira em área plantada;
+
+
+II –
+
+Clésio Lira, brasileiro, solteiro, empresário, portador do CPF nº 835.339.742-00, residente e domiciliado na Rua Pacifico Leal da Silva, Q. 30 L. 10, n° 1785, Loteamento Vale do Sol II, referente ao lote: Lote nº 04, da Quadra nº 06, com área total de 1.904,93m² (um mil, novecentos e quatro metros e noventa e três decímetros quadrados), no Setor Polo Empresarial Walter Guimarães do Nascimento “Waltão”, avaliada em R$ 76.197,20 (setenta e seis mil, cento e noventa e sete reais e vinte centavos) e será destinada à instalação de Horta Orgânica;
+
+
+III –
+
+Ferro Velho Barakiobhama LTDA, inscrito no CNPJ/MF n° 17.043.547/0001-77, representada por Mônica Lopes Ferreira, portadora do CPF n° 009.920.741-93, residente e domiciliada na Rua Otildes Luiz, n° 145, Quadra 44, Lote 12, Centro, Aparecida do Rio Doce, referente ao lote: Lote nº 01, da Quadra nº 06, com área total de 5.016,39m² (cinco mil, dezesseis metros e trinta e nove decímetros quadrados), no Setor Polo Empresarial Walter Guimarães do Nascimento “Waltão”, avaliada em R$ 200.655,60 (duzentos mil, seiscentos e cinquenta e cinco reais e sessenta centavos) e será destinada à instalação de empresa de Ferro Velho (serviços de recuperação de materiais metálicos, exceto alumínio);
+
+
+IV –
+
+João Batista da Silva, brasileiro, solteiro, empresário, portador da Cédula de Identidade RG nº 2859689 SEJUSP/MS e do CPF nº 431.274.441-68, residente e domiciliado na Rua Manoel Carneiro Guimarães, n° 63, Centro, referente ao lote: Lote 3A, da Quadra nº 19, com área total de 750,26m² (setecentos e cinquenta metros e vinte e seis decímetros quadrados), no Setor Industrial II, avaliada em R$ 30.010,40 (trinta mil, dez reais e quarenta centavos) e será destinada à instalação empresa de Serralheria;
+
+
+V –
+
+Luiz Guilherme Rodrigues Ravagnani, brasileiro, solteiro, empresário, portador da Cédula de Identidade RG nº 7317792 –SSP/GO e do CPF nº 701.856.831-50, residente e domiciliado na Rua Ubaldino Cardoso de Lemos, n° 470, Setor Industrial, Bloco I, referente ao lote: Lote G, da Quadra nº 10, com área total de 1.050,00m² (mil e cinquenta metros quadrados), no Setor Industrial I, avaliada em R$ 105.000,00 (cento e cinco mil reais) e será destinada à instalação da empresa de Reciclagem;
+
+
+VI –
+
+M A Borges da Silva, inscrita no CNPJ/MF n° 43.552.761/0001-69, representada por Marcos André Borges da Silva, inscrito no CPF n° 783.764.751-34, residente e domiciliado na Rua Arthur Ferraz de Almeida, n°1753, Residencial São Paulo referente ao lote: Lote nº 02, da Quadra nº 06, com área total de 738,08m² (setecentos e trinta e oito metros e oito decímetros quadrados), no Setor Polo Empresarial Walter Guimarães do Nascimento “Waltão”, avaliada em R$ 29.523,20 (vinte e nove mil, quinhentos e vinte e três reais e vinte centavos) e será destinada à instalação de empresa de Serviços de Cartografia e Topografia;
+
+
+VII –
+
+Vitória Garcia de Freitas, brasileira, casada, empresária, portadora da Cédula de Identidade RG nº 6069761 SSP/GO e do CPF nº 701.626.581-17, residente e domiciliada na Rua Neca Borges, n° 2030, Setor São Paulo, referente ao lote: Lote nº 3B, da Quadra nº 19, do Setor Industrial II, com área total de 748,01m² (setecentos e quarenta e oito metros e um decímetro quadrado), no Setor Industrial II, avaliada em R$ 29.920,40 (vinte e nove mil, novecentos e vinte reais e quarenta centavos) e será destinada à instalação de empresa de Escritório de Organização de Cargas;
+
+
+VIII –
+
+Windiston Diony Alves de Lima, brasileiro, solteiro, empresário, portador da Cédula de  
+Identidade RG n° 2570392 DRT/GO e do CPF n° 040.711.761-05, residente e domiciliado na Avenida Clarice Machado Guimarães, n° 1770, Setor São Paulo, referente aos lotes: Lote n° 06 da Quadra 02, com área total de 503,35 m² (quinhentos e três metros e trinta e cinco decímetros quadrados), no Polo Empresarial Walter Guimarães do Nascimento “Waltão”, avaliada em R$ 20.134,00 (vinte mil e cento e trinta e quatro reais) e será destinada a instalação de empresa de Fabricação de Ração; Lote n° 07 da Quadra 02, com área total de 503,35 m² (quinhentos e três metros e trinta e cinco decímetros quadrados), no Polo Empresarial Walter Guimarães do Nascimento “Waltão”, avaliada em R$ 20.134,00 (vinte mil e cento e trinta e quatro reais) e será destinada a instalação de empresa de Fabricação de Ração; Lote n° 10 da Quadra 02, com área total de 503,35 m² (quinhentos e três metros e trinta e cinco decímetros quadrados), no Polo Empresarial Walter Guimarães do Nascimento “Waltão”, avaliada em R$ 20.134,00 (vinte mil e cento e trinta e quatro reais) e será destinada a instalação de empresa de Fabricação de Ração; Lote n° 11 da Quadra 02, com área total de 503,35 m² (quinhentos e três metros e trinta e cinco decímetros quadrados), no Polo Empresarial Walter Guimarães do Nascimento “Waltão”, avaliada em R$ 20.134,00 (vinte mil e cento e trinta e quatro reais) e será destinada a instalação de empresa de Fabricação de Ração.
+
+
+Art. 2º.
+
+A concessão de direito real de uso da área de que trata o artigo 1º desta Lei será formalizada por meio de contrato administrativo, mediante apresentação do cronograma de construção, instalação e desenvolvimento da atividade, devidamente instruído com os seguintes documentos:
+
+
+I –
+
+comprovação de regular personalidade jurídica;
+
+
+II –
+
+última declaração de imposto de renda, para fins de comprovação da capacidade financeira e econômica;
+
+
+III –
+
+prova de quitação com a fiscalização federal, estadual, municipal, previdenciário e outros órgãos de administração pública;
+
+
+IV –
+
+certidões negativas de protestos de títulos;
+
+
+V –
+
+certidões de distribuição de ações judiciais da sede da empresa;
+
+
+VI –
+
+planta do imóvel a ser construído;
+
+
+VII –
+
+declarar, por escrito, estar de acordo com os encargos e demais condições estabelecidas nesta lei, em especial com a legislação ambiental.
+
+
+Art. 3º.
+
+A concessão de direito real de uso de que trata o artigo 1º desta Lei é pelo período de 10 (dez) anos, a contar da assinatura do contrato administrativo ou equivalente escritura pública.
+
+
+Art. 4º.
+
+Os concessionários assumem os seguintes encargos, os quais, obrigatoriamente, deverão constar no instrumento de formalização de concessão:
+
+
+I –
+
+iniciar sua construção até 30 (trinta) dias após firmar o contrato de concessão da área e expedição do competente alvará de construção, e concluí-la no prazo improrrogável de 01 (um) ano, sob pena de tornar nula de pleno direito a concessão efetuada, sem direito a qualquer indenização e retenção de benfeitorias;
+
+
+II –
+
+dar início a atividade até 30 (trinta) dias após o término da obra, sob pena de tornar nula de pleno direito a concessão efetuada, sem direito a qualquer indenização e retenção de benfeitorias;
+
+
+III –
+
+utilizar o imóvel exclusivamente para o fim descrito no artigo 1º desta Lei, sob pena de tornar nula de pleno direito a concessão efetuada, sem direito a qualquer indenização e retenção de benfeitorias;
+
+
+IV –
+
+a mão-de-obra na construção e no desenvolver da atividade, a ser empregada deverá ser de, no mínimo, 60% (sessenta por cento) de operários residentes neste município, exceto as funções especializadas;
+
+
+V –
+
+cumprir fielmente, sob pena de rescisão do contrato de concessão de direito real de uso, as normas ambientais, tributárias, empresariais, trabalhista e outras em vigor, relacionadas ao ramo de atividade da beneficiária, e os encargos elencados no inciso VI deste artigo;
+
+
+VI –
+
+o imóvel reverterá ao patrimônio municipal se a concessionária, durante o prazo de 10 (dez) anos, suspender suas atividades por mais de 06 (seis) meses, consecutivos ou não, sem direito a qualquer tipo de indenização e retenção de benfeitorias;
+
+
+VII –
+
+para a aplicação das penalidades previstas nesta Lei é indispensável a prévia notificação do Município à Concessionária.
+
+
+Parágrafo único
+
+Constarão no instrumento de formalização da concessão, as penalidades para o caso de descumprimento parcial ou total dos encargos estabelecidos nesta Lei.
+
+
+Art. 5º.
+
+As empresas deverão comprovar ao Poder Executivo Municipal, por meio de demonstrativos contábeis, relatórios trabalhistas e demais documentos pertinentes, o atendimento do previsto no inciso V, do artigo 5º, desta Lei.
+
+
+Parágrafo único
+
+A comprovação de que trata o caput deste artigo deverá ser feita anualmente, enquanto durar a vigência da Concessão de Direito Real de Uso.
+
+
+Art. 6º.
+
+Após 10 (dez) anos de atividade no imóvel recebido em concessão de direito real de uso, e comprovados pela beneficiária o cumprimento dos encargos e prazos previstos no artigo 5º desta Lei e a manutenção da empresa em atividade, o Poder Executivo Municipal ficará autorizado a realizar a doação desse imóvel à empresa concessionária, com a condição de ser mantida a sua destinação como previsto no Art. 1º desta Lei.
+
+
+Art. 7º.
+
+Fica dispensada a concorrência pública para os fins da presente Lei.
+
+
+Art. 8º.
+
+Revogam-se as disposições em contrário.
+
+
+Art. 9º.
+
+A presente Lei entra em vigor na data de sua publicação.
+
+
+**GABINETE DO PREFEITO DE CAÇU,** Estado de Goiás, aos 02 dias do mês de dezembro do ano de 2025.
+
+**KELSON SOUZA VILARINHO**  
+Prefeito Municipal
+

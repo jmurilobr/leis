@@ -1,0 +1,82 @@
+---
+titulo: "Lei Ordinária nº 1.324, de 12 de março de 1984"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1324"
+data: "1984-03-12"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/4179"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/4227/text"
+sha256_fonte: "cd4ce137c3e79acc5ae81921b8cc851df80014cecdd94f97c3845a2e5b566b5d"
+sha256_texto: "e1d0a2c8808171022f421479f947d671844939a4fb118ac1d2dd54088ddc35aa"
+capturado_em_fonte: "2026-10-27T22:06:50.569387-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.324, de 12 de março de 1984
+
+ESTABELECE O REAJUSTE SEMESTRAL E FIXA O REAJUSTE SALARIAL DOS SERVIDORES PÚBLICOS MUNICIPAIS.
+
+
+O Prefeito do Município do Cabo, Estado de Pernambuco, Sr. ELIAS GOMES DA SILVA, no uso de suas atribuições legais, faço saber que a CÂMARA MUNICIPAL DO CABO aprovou e eu sanciono a seguinte LEI:
+
+
+Art. 1º.
+
+Fica instituído, a partir do presente exercício, o Reajuste Semestral, a ser concedido nos meses de JANEIRO e JULHO, para todos os servidores municipais, Ativos e Inativos.
+
+
+Parágrafo único
+
+Ficam excluídos os profissionais de nível superior regidos por Legislação Federal.
+
+
+Art. 2º.
+
+Os atuais salários dos servidores públicos municipais serão reajustados, a partir de 01 de janeiro de 1984, com base nos seguintes índices:
+
+Servidores com salários até:
+
+Cr$ 30.600,00 ........................................ 80% (oitenta por cento)
+
+Servidores com salários de:
+
+Cr$ 30.601,00 até  
+Cr$ 33.913,00 ........................................ 63% (sessenta e três por cento)
+
+Servidores com salários de:
+
+Cr$ 33.814,00 até  
+Cr$ 36.414,00 ........................................ 52% (cinquenta e dois por cento)
+
+Servidores com salário superior a:
+
+Cr$ 36.415,00 serão reajustados em 50% (cinquenta por cento)
+
+
+Parágrafo único
+
+Fica estabelecido um piso salarial de Cr$ 55.080,00 (cinquenta e cinco mil e oitenta cruzeiros).
+
+
+Art. 3º.
+
+O Município não poderá contratar servidores com vencimentos superiores aos funcionários do quadro para Cargo e Funções idênticas ou equivalentes, tomando-se por base os Símbolos CC-1, CC-2 e CC-3, inclusive contratados na forma do Art. 12 § Único.
+
+
+Art. 4º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+PALÁCIO CONDE DA BOA VISTA, em 12 de Março de 1984.
+
+ELIAS GOMES DA SILVA  
+PREFEITO
+

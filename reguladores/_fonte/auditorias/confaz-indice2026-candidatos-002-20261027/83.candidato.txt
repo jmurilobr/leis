@@ -1,0 +1,35 @@
+---
+titulo: "CONVÊNIO ICMS Nº 83, DE 3 DE JULHO DE 2026"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "83"
+data: "2026-07-03"
+revogada: null
+versao_texto: "Texto e notas oficiais do portal CONFAZ conforme a captura; sem certificação de vigência."
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV083_26"
+sha256_html_fonte: "8bfff18b6561dc2d5e2c1371b33cdd9e62aa735800e67d64d467a98951e46bc0"
+sha256_texto: "90b116703651948c33e18800ef5a409fe5d830365e22d55a77d0d62ed53976b7"
+baixado_em: "2026-10-27"
+representacao_corpo: "html-nativo-confaz-piloto-v1"
+observacao_captura: "timestamp original do cliente com fuso, convertido para America/Recife"
+observacao_efeitos: "Condições de ratificação e produção de efeitos preservadas literalmente. Nenhuma data de vigência calculada."
+publicacao_fonte: "Publicado no DOU de 08.07.26, pelo despacho 28/26. | Ratificação Nacional no DOU de 27.07.26, pelo Ato Declaratório 15/26."
+---
+# CONVÊNIO ICMS Nº 83, DE 3 DE JULHO DE 2026
+
+<div id="parent-fieldname-text"><p class="A1-1TituloAcordo">CONVÊNIO ICMS Nº 83, DE 3 DE JULHO DE 2026</p>
+<p class="A2DataPublicacao">Publicado no DOU de 08.07.26, pelo despacho <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/despacho/2026/dp028_26" target="_self" title="despacho 28/26">28/26</a>.</p>
+<p class="A2DataPublicacao">Ratificação Nacional no DOU de 27.07.26, pelo Ato Declaratório <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/atos-declaratorios/2026/ad015_26" target="_self" title="ato declaratorio 15/26">15/26</a>.<b></b></p>
+<p class="A3Ementa">Altera o Convênio ICMS nº 41, de 25 de abril de 2024, que autoriza o Estado de Pernambuco a conceder isenção de ICMS nas operações interestaduais com leite em estado natural, nas condições que especifica.</p>
+<p class="A5-1TextoAcordo"><b>O Conselho Nacional de Política Fazendária – CONFAZ, </b>na sua 201ª Reunião Ordinária, realizada em Macapá, AP, no dia 3 de julho de 2026, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte</p>
+<p align="center">CONVÊNIO</p>
+<p class="A5-1TextoAcordo"><b>Cláusula primeira </b>Os dispositivos a seguir indicados do <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV041_24" target="_self" title="convenio icms 41/24">Convênio ICMS nº 41, de 25 de abril de 2024</a>, publicado no Diário Oficial da União de 29 de abril de 2024, passam a vigorar com as seguintes redações:</p>
+<p class="A5-1TextoAcordo">I – a ementa:</p>
+<p class="A5-2NovaRedacao">“Autoriza a concessão de isenção de ICMS nas operações interestaduais com leite em estado natural, nas condições que especifica.”;</p>
+<p class="A5-1TextoAcordo">II – a cláusula segunda:</p>
+<p class="A5-2NovaRedacao">“<b>Cláusula segunda </b>Os Estados de Alagoas e de Pernambuco ficam autorizados a não exigir o estorno de crédito fiscal de que trata o art. 21 da Lei Complementar nº 87, de 13 de setembro de 1996, nas operações de que trata este convênio.”;</p>
+<p class="A5-1TextoAcordo">III – a cláusula terceira:</p>
+<p class="A5-2NovaRedacao">“<b>Cláusula terceira </b>As legislações dos Estados de Alagoas e de Pernambuco disporão sobre as condições e limites do benefício fiscal previsto neste convênio.”.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula segunda</b> A cláusula primeira-A fica acrescida ao <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV041_24" target="_self" title="convneio icms 41/24">Convênio ICMS nº 41/24</a> com a seguinte redação:</p>
+<p class="A5-2NovaRedacao">“<b>Cláusula primeira-A </b>O Estado de Alagoas fica autorizado a conceder isenção ICMS nas operações interestaduais com leite em estado natural, quando destinado ao Estado de Sergipe.”.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula terceira </b>Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.</p></div>

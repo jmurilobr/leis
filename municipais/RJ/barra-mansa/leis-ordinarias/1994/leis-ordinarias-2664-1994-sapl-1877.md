@@ -1,0 +1,78 @@
+---
+titulo: "Lei Ordinária nº 2.664, de 14 de abril de 1994"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2664"
+data: "1994-04-14"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/1877"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/2657/text"
+sha256_fonte: "20535c4a7849f0c82c220205796d628693451dfe73ae777a9904cbe2a2f1f1a0"
+sha256_texto: "156051cf2bfc4b38c91d52d2f2acd4681a2f8f7c58b503959b3ffcbfda76b10c"
+capturado_em_fonte: "2026-10-27T18:40:47.697168-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.664, de 14 de abril de 1994
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI Nº 2664, DE 14 DE ABRIL DE 1994.
+
+
+Concede Direito Real de Uso à Associação de Moradores do Bairro Morada Verde de terras que menciona e dá outras providências.
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado aconceder Direito Real de Uso a Associação de Moradores do Bairro Morada Verde de uma area de terras com 300,00 m2, localizada à Rua "B", quadra "M" no Loteamento Morada Verde, com as seguintes medidas e confrontações: mede10,00 m de frente para a Rua B; mede 10,00 m de fundos, confrontando com aarea reservada para a PMBM; pela direita mede 30,00 m, confrontando com o lote nº 26 e pela esquerda mede 30,00 m, confrontando com o lote nº 24, consoante planta de situaçao nº DT-93.022.01.
+
+
+Art. 2º.
+
+O imóvel destinar-se-á à construção da sede da Associação de Moradores, conforme projeto a ser aprovado pela Municipalidade.
+
+
+Art. 3º.
+
+Em face do relevante interesse público, fica dispensada a Concorrência para a presente Concessão.
+
+
+Art. 4º.
+
+Caso a concessionária não inicie as obras, de que trata o art. 2º, dentro de 01 (um) ano, a contar da data da concessão e seu término não ocorra dentro de 03(três) anos, a contar da mesma data, ou se for dada outra destinação ao imóvel, ficará sem efeito a Concessão ora autorizada.
+
+
+Art. 5º.
+
+Do instrumento de Concessão constará cláusula de reversão do mencionado imóvel ao Município, sem que caiba qualquer indenização, inclusive por benfeitorias já realizadas, no caso de desvio das finalidades desta Lei.
+
+
+Art. 6º.
+
+Em contrapartida a Concessão ora autorizada, a entidade beneficiária deverá prestar, dentro de suas possibilidades, serviços de assistência filantrópica a comunidade periférica.
+
+
+Art. 7º.
+
+A Concessão se dará por prazo indeterminado.
+
+
+Art. 8º.
+
+Revogadas as disposições em contrário, esta Lei entrará em vigor na data de sua publicação.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 14 DE ABRIL DE 1994.
+
+
+DR. LUIZ CARLOS SUCKOW F. DO AMARAL  
+PREFEITO
+

@@ -1,0 +1,479 @@
+---
+titulo: "Lei Ordinária nº 384, de 18 de abril de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "384"
+data: "2022-04-18"
+municipio: "Araci"
+uf: "BA"
+codigo_ibge: "2902104"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.araci.ba.leg.br/norma/415"
+fonte_texto: "https://sapl.araci.ba.leg.br/ta/100/text"
+sha256_fonte: "f3336f19db8bb7a3169bdb15616648301005cbf7c31d66acb034014df110dc3c"
+sha256_texto: "33befae53d0105842032d902221ef7109b872e2c5275c22611a6be124d215334"
+capturado_em_fonte: "2026-10-27T16:54:44.706869-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 384, de 18 de abril de 2022
+
+**LEI Nº 384 DE 18 DE ABRIL DE 2022**
+
+
+Dispõe sobre a criação do Sistema de Trânsito e Transportes Públicos do Município de Araci, da Junta Administrativa de Recursos de Infração - JARI e adota outras providências.
+
+
+A PREFEITA MUNICIPAL DE ARACI, Estado da Bahia, no uso de suas atribuições e nos termos da Constituição Federal e da Lei Orgânica Municipal, faz saber que o Poder Legislativo Municipal aprova e ela sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o Sistema Municipal de Trânsito e Transportes Públicos do Município de Araci, a ser gerido pela Secretaria de Governo, Administração, Finanças e Planejamento, através  
+da Diretoria de Trânsito e Transportes Públicos, criado pela Lei Municipal Nº 025 de 02 de dezembro  
+de 2021.
+
+
+Art. 2º.
+
+Compete a Diretoria de Trânsito e Transportes Públicos:
+
+
+I –
+
+Cumprir e fazer cumprir a legislação e as normas de trânsito, no âmbito de suas atribuições;
+
+
+II –
+
+Planejar, projetar, regulamentar e operar o trânsito de veículos, pedestres e animais, e promover o desenvolvimento da circulação e segurança de ciclistas;
+
+
+III –
+
+Implantar, manter e operar o sistema de sinalização, os dispositivos e equipamentos de controle  
+viário;
+
+
+IV –
+
+Coletar dados estatísticos e elaborar estudos sobre os acidentes de trânsitos e suas causas;
+
+
+V –
+
+Estabelecer, em conjunto com órgão de polícia de trânsito, as diretrizes para o policiamento ostensivo de trânsito;
+
+
+VI –
+
+Executar a fiscalização de trânsito, autuar e aplicar as medidas administrativas cabíveis por infração de circulação, manobra, estacionamento e paradas, previstas no Código de Trânsito  
+Brasileiro, no exercício regular do Poder de Polícia de Trânsito;
+
+
+VII –
+
+Aplicar as penalidades de advertência por escrito, autuar e multar por infrações de Circulação, manobra, estacionamento e paradas previstas no Código de Trânsito Brasileiro - CTB, notificando os infratores e arrecadando as multas aplicadas;
+
+
+VIII –
+
+Fiscalizar, autuar e aplicar as penalidades e medidas administrativas cabíveis, relativas às infrações por excesso de peso, dimensão e lotação dos veículos, bem como notificar e arrecadar as multas aplicadas;
+
+
+IX –
+
+Fiscalizar o cumprimento do disposto no artigo 95, da Lei Federal nº 9.503/1997 (Código Brasileiro de Trânsito), aplicando as penalidades e arrecadando as multas previstas;
+
+
+X –
+
+Implantar, manter, operar e fiscalizar, o sistema de estacionamento rotativo pago nas vias;
+
+
+XI –
+
+Arrecadar valores provenientes de estada e remoção de veículos e objetos, e escolta de veículos de cargas superdimensionadas ou perigosas;
+
+
+XII –
+
+Credenciar os serviços de escoltas, fiscalizar e adotar medidas de segurança relativas aos serviços de remoção de veículos escoltas, e transportes de carga indivisível;
+
+
+XIII –
+
+Integrar-se a outros órgãos e sistema nacional de trânsito para fins de arrecadação e compensação de multas impostas na área de sua competência, com vistas à unificação do licenciamento, à simplificação e a celeridade das transferências de veículos e de proprietários dos condutores, de uma para outra unidade da federação;
+
+
+XIV –
+
+Implantar as medidas da Política Nacional de Trânsito e do Programa Nacional de Trânsito;
+
+
+XV –
+
+Promover e participar de projetos e programas de Educação e Segurança de Trânsito, de acordo com as diretrizes estabelecidas pelo CONTRAN;
+
+
+XVI –
+
+Planejar e implantar medidas para a redução da circulação de veículos e reorientação do tráfego, com objetivo de diminuir a emissão global de poluentes;
+
+
+XVII –
+
+Registrar e licenciar, na forma da legislação, ciclomotores, veículos de tração e propulsão humana e tração animal, fiscalizando, atuando, aplicando penalidades e arrecadando as multas decorrentes de infrações;
+
+
+XVIII –
+
+Conceder autorização para conduzir veículos de propulsão humana e tração animal;
+
+
+XIX –
+
+Articular-se com os demais órgãos do Sistema Nacional de Trânsito no Estado, sob a coordenação do respectivo CETRAN;
+
+
+XX –
+
+Fiscalizar o nível de emissão de poluentes e ruídos produzidos pelos veículos automotores ou pela sua carga, de acordo com o estabelecido no art. 66, da Lei Federal nº 9.503/1997, além de dar apoio às específicas de órgão ambiental, quando solicitados;
+
+
+XXI –
+
+Vistoriar veículos que necessitem de autorização especial por transitar e estabelecer os requisitos técnicos a serem observados para sua circulação;
+
+
+XXII –
+
+Coordenar e fiscalizar os trabalhos na área de Educação de Trânsito no Município;
+
+
+XXIII –
+
+Executar, fiscalizar e manter em perfeitas condições de uso a sinalização semafórica;
+
+
+XXIV –
+
+Realizar estatística no que tange a todas as peculiaridades dos sistemas de tráfego.
+
+
+Parágrafo único
+
+Para o exercício de atribuições que impliquem na implementação de taxas ou tarifas, em especial aquelas decorrentes do sistema de estacionamento rotativo pago previsto no inciso X deste artigo, o Poder Executivo necessitará de autorização legal específica da Câmara Municipal, sem a qual as cobranças não poderão ser efetuadas.
+
+
+Art. 3º.
+
+A Diretoria de Trânsito e Transportes Públicos tem a seguinte estrutura, criada pela Lei Municipal N° 025 de 02 de dezembro de 2021.
+
+
+I –
+
+Diretoria de Trânsito e Transportes Públicos
+
+
+II –
+
+Coordenação de Educação para o Trânsito
+
+
+III –
+
+Coordenação de Engenharia
+
+
+IV –
+
+Coordenação de Operação e Fiscalização
+
+
+Art. 4º.
+
+Ao Diretor de Trânsito e Transportes Públicos compete:
+
+
+I –
+
+A administração e gestão do Departamento de Trânsito e Transporte Público, implementando planos, programas e projetos;
+
+
+II –
+
+O planejamento, projeto, regulamentação, educação e operação do trânsito dos usuários das vias nos limites do município;
+
+
+III –
+
+Executar atividades correlatas.
+
+
+Parágrafo único
+
+O Diretor de Trânsito e Transportes Públicos é a autoridade competente para aplicar as penalidades previstas na legislação de trânsito.
+
+
+Art. 5º.
+
+À Coordenação de Educação para o Trânsito compete:
+
+
+I –
+
+Promover a Educação de Trânsito junto a Rede Municipal de Ensino, por meio de planejamento e ações coordenadas entre os órgãos e entidades do Sistema Nacional de Trânsito;
+
+
+II –
+
+Promover campanhas educativas e o funcionamento de escolas públicas de trânsito nos moldes e padrões estabelecidos pelo CONTRAN;
+
+
+III –
+
+Executar atividades correlatas.
+
+
+Art. 6º.
+
+À Coordenação de Engenharia compete:
+
+
+I –
+
+Planejar e elaborar projetos, bem como coordenar estratégias de estudos do sistema viário;
+
+
+II –
+
+Planejar o sistema de circulação viária do município;
+
+
+III –
+
+Proceder a estudos de viabilidade técnica para a implantação de projetos de trânsito;
+
+
+IV –
+
+Integrar-se com os diferentes órgãos públicos para estudos sobre o impacto no sistema viário para aprovação de novos projetos;
+
+
+V –
+
+Elaborar projetos de engenharia de tráfego, atendendo os padrões a serem praticados por todos os órgãos e entidades do Sistema Nacional de Trânsito, conforme normas do CONTRAN,  
+SENATRAN e CETRAN;
+
+
+VI –
+
+Acompanhar a implantação dos projetos, bem como avaliar seus resultados;
+
+
+VII –
+
+Executar atividades correlatas.
+
+
+Art. 7º.
+
+À Coordenação de Fiscalização e Operação compete:
+
+
+I –
+
+Administrar o controle de utilização dos talões e ou Talonários eletrônicos de multa, processamento dos autos de infração e cobranças das respectivas multas;
+
+
+II –
+
+Administrar as multas aplicadas por equipamentos eletrônicos;
+
+
+III –
+
+Controlar as áreas de operação de campo, fiscalização e administração do pátio e veículos;
+
+
+IV –
+
+Controlar a implantação, manutenção e durabilidade da sinalização;
+
+
+V –
+
+Operar em segurança das escolas;
+
+
+VI –
+
+Operar em rotas alternativas;
+
+
+VII –
+
+Operar em travessia de pedestres e locais de emergência sem a devida sinalização;
+
+
+VIII –
+
+Operar a sinalização (verificação ou deficiências na sinalização);
+
+
+IX –
+
+Coletar dados estatísticos para elaboração de estudos sobre acidentes de trânsitos e suas causas;
+
+
+X –
+
+Controlar os dados estatísticos da frota circulante do município;
+
+
+XI –
+
+Controlar os veículos registrados e licenciados no município;
+
+
+XII –
+
+Elaborar estudos sobre eventos e obras que possam perturbar ou interromper a livre circulação do sistema viário;
+
+
+XIII –
+
+Exercer atividades correlatas.
+
+
+Art. 8º.
+
+A receita arrecadada com a cobrança das multas de trânsito pelo Município será aplicada em engenharia de tráfego, fiscalização, sinalização, infraestrutura física e educação para o trânsito, observadas as disposições pertinentes da legislação federal aplicável.
+
+
+Art. 9º.
+
+O Poder Executivo Municipal fica autorizado a repassar o correspondente a 05% (cinco por cento) da arrecadação das multas de trânsito para o fundo de âmbito nacional destinado à segurança e educação de trânsito, nos termos do parágrafo único, do art. 320, da Lei Federal n° 9.503/1997.
+
+
+Art. 10.
+
+Fica criada no Município de ARACI uma Junta Administrativa de Recursos de Infração – JARI, responsável pelo julgamento de recursos interpostos contra a penalidade imposta pelo  
+Departamento de Trânsito e Transportes Públicos, criado nos termos desta Lei, e na esfera de sua competência, conforme determinado no seu Regimento Interno.
+
+
+Art. 11.
+
+A JARI será composta por 03 (três) membros titulares, respectivos suplentes e um Presidente, sendo:
+
+
+I –
+
+01 (um) integrante com conhecimento na área de trânsito;
+
+
+II –
+
+01 (um) representante servidor do Departamento Municipal de Trânsito e Transporte;
+
+
+III –
+
+01 (um) representante de entidade representativa da sociedade ligada à área de trânsito.
+
+
+§ 1º
+
+O presidente poderá ser qualquer um dos integrantes do colegiado, a critério do Chefe do Poder Executivo Municipal.
+
+
+§ 2º
+
+A Prefeita Municipal nomeará, para o exercício de 01 (um) ano, permitida a recondução, os membros titulares da JARI, com seus respectivos suplentes, que os substituirão nos casos de ausência, perda de mandato ou impedimentos eventuais.
+
+
+§ 3º
+
+Os membros suplentes serão indicados e nomeados, observados os mesmos critérios exigidos para os respectivos titulares.
+
+
+§ 4º
+
+Não poderão integrar a JARI:
+
+
+I –
+
+As pessoas que estejam sendo processadas administrativas, civil e criminalmente;
+
+
+II –
+
+Os condenados por sentença transitada em julgado;
+
+
+III –
+
+Os servidores que ocupem os cargos ligados ao exercício da fiscalização do trânsito, ou cujos serviços, atividades ou funções profissionais estejam relacionados com autoescolas e despachantes;
+
+
+IV –
+
+Condutores de veículos cuja pontuação na Carteira Nacional de Habilitação esteja acima dos 20 (vinte) pontos.
+
+
+§ 5º
+
+É vedado ao integrante das JARI compor o Conselho Estadual de Trânsito – CETRAN e/ou o Conselho Municipal de Trânsito.
+
+
+§ 6º
+
+Todos os membros da JARI, titulares e suplentes, deverão ser portadores de Carteira Nacional de Habilitação (CNH).
+
+
+Art. 12.
+
+A JARI deverá informar ao Conselho Estadual de Trânsito (CETRAN) a sua composição e encaminhará o seu Regimento Interno, observada a Resolução CONTRAN N° 357/2010, que  
+estabelece as diretrizes para elaboração do regimento interno da JARI.
+
+
+Art. 13.
+
+Fica o Poder Executivo Municipal autorizado a firmar convênio com a União, Estado, Municípios, órgãos e demais entidades públicas e privadas, objetivando a perfeita aplicação desta  
+Lei.
+
+
+Art. 14.
+
+Para cumprimento desta Lei e sua adequação à Lei Orçamentária Anual - LOA, fica o Poder Executivo autorizado a abrir créditos adicionais, suplementar e especial, e a promover transposições, transferências e remanejamento de recursos.
+
+
+Art. 15.
+
+A regulamentação desta Lei será feita mediante Decreto do Poder Executivo, no prazo de 120 (cento e vinte) dias da data da sua publicação.
+
+
+Parágrafo único
+
+Os Regimentos Internos da JARI e do Departamento de Trânsito e Transporte serão homologados por Decreto do Poder Executivo, no mesmo prazo da regulamentação desta Lei.
+
+
+Art. 16.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Art. 17.
+
+Revogam-se as disposições em contrário.
+
+
+Gabinete da Prefeita de Araci, Estado da Bahia, 18 de abril de 2022. 63º da Emancipação Política do Município.
+
+**MARIA BETIVÂNIA LIMA DA SILVA Prefeita Municipal**
+

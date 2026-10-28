@@ -1,0 +1,82 @@
+---
+titulo: "PORTARIA Nº 1.693, DE 10 DE AGOSTO DE 2020"
+orgao: "Ministério da Infraestrutura/Secretaria Nacional de Transportes Terrestres"
+tipo: "Portaria"
+numero: "1693"
+data: 2020-08-10
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 12/08/2020, seção 1, p. 54"
+data_publicacao: 2020-08-12
+edicao: "154"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-1.693-de-10-de-agosto-de-2020-271713656"
+sha256_html_fonte: 2ac7cb4bd8529649118f5d8e7a263301e13ba440d649bf5d140d661852c7d20f
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 1.693, DE 10 DE AGOSTO DE 2020
+
+PORTARIA Nº 1.693, DE 10 DE AGOSTO DE 2020
+
+O SECRETÁRIO NACIONAL DE TRANSPORTES TERRESTRES, DO MINISTÉRIO DA INFRAESTRUTURA, no uso das atribuições que lhe confere o artigo 5º da Portaria nº 2.787, de 24 de junho de 2019, e;
+
+Considerando o determinado nos incisos I e II, do § 8º, do artigo 1º-A da Lei nº 10.336, de 19 de dezembro de 2001;
+
+Considerando o disposto na Portaria n° 228, de 11 de outubro de 2007, do Ministro de Estado dos Transportes;
+
+Considerando o disposto no artigo 5º da Portaria nº 2.787, de 24 de junho de 2019, do Ministro da Infraestrutura, resolve:
+
+**Art. 1º** Publicar o Programa de Trabalho proposto pelo Distrito Federal para o exercício 2020 - 1ª alteração, referente à aplicação dos recursos que lhe cabem, relativos à Contribuição de Intervenção no Domínio Econômico - CIDE, instituída pela Lei nº. 10.336, de 19 de dezembro de 2001, nos termos do respectivo processo administrativo, conforme discriminado no anexo desta Portaria.
+
+**Art. 2º** Revogar o Anexo VII da Portaria nº 5.156, de 18 de dezembro de 2019, publicada no Diário Oficial da União do dia 23 de dezembro de 2019, edição nº 247, Seção 1, página 123.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+MARCELLO DA COSTA VIEIRA
+
+## ANEXO
+
+<table><tr></tr><tr><td rowspan="1" colspan="1"><p>Unidade da Federação: DISTRITO FEDERAL</p><p>Processo nº 50000.050680/2019-17</p></td></tr></table>
+
+1ª ALTERAÇÃO DO PROGRAMA DE TRABALHO PARA 2020
+
+Relação de Empreendimentos
+
+A - Programa de Restauração de Rodovias
+
+<table><tr></tr><tr><td rowspan="1" colspan="1"><p>RODOVIA</p></td><td rowspan="1" colspan="1"><p>DETALHAMENTO DO TRECHO</p></td><td rowspan="1" colspan="1"><p>CUSTO (R$)</p></td></tr><tr><td rowspan="1" colspan="1"><p>VC-361</p></td><td rowspan="1" colspan="1"><p>Acesso na VC-361 e marginal DF-480</p></td><td rowspan="1" colspan="1"><p>286.491,07</p></td></tr><tr><td rowspan="1" colspan="2"><p>TOTAL A</p></td><td rowspan="1" colspan="1"><p>286.491,07</p></td></tr></table>
+
+B - Programa de Pavimentação
+
+<table><tr></tr><tr><td rowspan="1" colspan="1"><p>RODOVIA</p></td><td rowspan="1" colspan="1"><p>DETALHAMENTO DO TRECHO</p></td><td rowspan="1" colspan="1"><p>CUSTO (R$)</p></td></tr><tr><td rowspan="1" colspan="1"><p>DF-285</p></td><td rowspan="1" colspan="1"><p>DF-285 até a interseção com a DF-100</p></td><td rowspan="1" colspan="1"><p>5.668.635,20</p></td></tr><tr><td rowspan="1" colspan="1"><p>DF-001</p></td><td rowspan="1" colspan="1"><p>Entr. DF-430 ao Entr. DF-170</p></td><td rowspan="1" colspan="1"><p>3.154.912,93</p></td></tr><tr><td rowspan="1" colspan="2"><p>TOTAL B</p></td><td rowspan="1" colspan="1"><p>8.823.548,13</p></td></tr></table>
+
+C - Programa de Recuperação de Obras de Artes Especiais - Passarelas
+
+<table><tr></tr><tr><td rowspan="1" colspan="1"><p>RODOVIA</p></td><td rowspan="1" colspan="1"><p>DETALHAMENTO DO TRECHO</p></td><td rowspan="1" colspan="1"><p>CUSTO (R$)</p></td></tr><tr><td rowspan="1" colspan="1"><p>DF-001</p></td><td rowspan="1" colspan="1"><p>Passarelas de responsabilidade do DER-DF</p></td><td rowspan="1" colspan="1"><p>1.179.700,71</p></td></tr><tr><td rowspan="1" colspan="2"><p>TOTAL C</p></td><td rowspan="1" colspan="1"><p>1.179.700,71</p></td></tr></table>
+
+D - Programa de Aquisição de Equipamentos
+
+<table><tr></tr><tr><td rowspan="1" colspan="1"><p>DESCRIÇÃ O</p></td><td rowspan="1" colspan="1"><p>DETALHAMENTO DOS EQUIPAMENTOS</p></td><td rowspan="1" colspan="1"><p>QUANTIDADE</p></td><td rowspan="1" colspan="1"><p>CUSTO (R$)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Equipamento</p></td><td rowspan="1" colspan="1"><p>Rolo Compactador Tipo CG11</p></td><td rowspan="1" colspan="1"><p>1</p></td><td rowspan="1" colspan="1"><p>183.430,69</p></td></tr><tr><td rowspan="1" colspan="1"><p>Equipamento</p></td><td rowspan="1" colspan="1"><p>Prancha Carrega-Tudo</p></td><td rowspan="1" colspan="1"><p>1</p></td><td rowspan="1" colspan="1"><p>181.000,00</p></td></tr><tr><td rowspan="1" colspan="2"><p>TOTAL D</p></td><td rowspan="1" colspan="1"><p>02</p></td><td rowspan="1" colspan="1"><p>364.430,69</p></td></tr></table>
+
+E - Programa de Construção de Pontes
+
+<table><tr></tr><tr><td rowspan="1" colspan="1"><p>RODOVIA</p></td><td rowspan="1" colspan="1"><p>TRECHO</p></td><td rowspan="1" colspan="1"><p>CUSTO (R$)</p></td></tr><tr><td rowspan="1" colspan="1"><p>DF-079 (EPVP)</p></td><td rowspan="1" colspan="1"><p>Entre a DF-075 (EPNB) e DF-085 (EPTG)</p></td><td rowspan="1" colspan="1"><p>1.834.902,04</p></td></tr><tr><td rowspan="1" colspan="2"><p>TOTAL E</p></td><td rowspan="1" colspan="1"><p>1.834.902,04</p></td></tr></table>
+
+F - Programa de Manutenção de Equipamentos
+
+<table><tr></tr><tr><td rowspan="1" colspan="1"><p>DESCRIÇÃO</p></td><td rowspan="1" colspan="1"><p>CUSTO (R$)</p></td></tr><tr><td rowspan="1" colspan="1"><p>Manutenção de Equipamentos das Obras do Programa</p></td><td rowspan="1" colspan="1"><p>1.882,51</p></td></tr><tr><td rowspan="1" colspan="1"><p>TOTAL F</p></td><td rowspan="1" colspan="1"><p>1.882,51</p></td></tr></table>
+
+G - Programa de Elaboração de Projetos
+
+<table><tr></tr><tr><td rowspan="1" colspan="1"><p>RODOVIA</p></td><td rowspan="1" colspan="1"><p>TRECHO</p></td><td rowspan="1" colspan="1"><p>CUSTO (R$)</p></td></tr><tr><td rowspan="1" colspan="1"><p>DF-001 (EPCT)-</p><p>Pistão Sul</p></td><td rowspan="1" colspan="1"><p>Entre a DF-075 (EPNB) e a DF-085 (EPTG)</p></td><td rowspan="1" colspan="1"><p>269.963,46</p></td></tr><tr><td rowspan="1" colspan="1"><p>DF-011 (EPIG)</p></td><td rowspan="1" colspan="1"><p>Entre a DF-085 (EPTG) e o Eixo Monumental</p></td><td rowspan="1" colspan="1"><p>200.316,79</p></td></tr><tr><td rowspan="1" colspan="2"><p>TOTAL G</p></td><td rowspan="1" colspan="1"><p>470.280,25</p></td></tr></table>
+
+H - Programa de Realização de Estudos e Pesquisas:
+
+<table><tr></tr><tr><td rowspan="1" colspan="1"><p>RODOVIA</p></td><td rowspan="1" colspan="1"><p>TRECHO</p></td><td rowspan="1" colspan="1"><p>CUSTO (R$)</p></td></tr><tr><td rowspan="1" colspan="1"><p>DF-285</p></td><td rowspan="1" colspan="1"><p>BR-251/DF-285 KM 06 à Divisa com Estado de Minas Gerais</p></td><td rowspan="1" colspan="1"><p>49.854,13</p></td></tr><tr><td rowspan="1" colspan="1"><p>DF-001 (EPCT)</p></td><td rowspan="1" colspan="1"><p>Entroncamento DF-430 ao Entroncamento DF-170</p></td><td rowspan="1" colspan="1"><p>47.588,50</p></td></tr><tr><td rowspan="1" colspan="2"><p>TOTAL H</p></td><td rowspan="1" colspan="1"><p>97.442,63</p></td></tr></table>
+
+I - Programa de Encabeçamento de Pontes
+
+<table><tr></tr><tr><td rowspan="1" colspan="1"><p>RODOVIA</p></td><td rowspan="1" colspan="1"><p>TRECHO</p></td><td rowspan="1" colspan="1"><p>CUSTO (R$)</p></td></tr><tr><td rowspan="1" colspan="1"><p>DF-079 (EPVP)</p></td><td rowspan="1" colspan="1"><p>Entre a DF-075 (EPNB) e DF-085 (EPTG)</p></td><td rowspan="1" colspan="1"><p>688.527,80</p></td></tr><tr><td rowspan="1" colspan="2"><p>TOTAL I</p></td><td rowspan="1" colspan="1"><p>688.527,80</p></td></tr></table>
+
+Cronograma Financeiro
+
+<table><tr></tr><tr><td rowspan="1" colspan="1"><p>PROGRAMA</p></td><td rowspan="1" colspan="4"><p>TRIMESTRE</p></td><td rowspan="1" colspan="1"><p>TOTAL (R$)</p></td></tr><tr><td rowspan="1" colspan="1"></td><td rowspan="1" colspan="1"><p>1º</p></td><td rowspan="1" colspan="1"><p>2º</p></td><td rowspan="1" colspan="1"><p>3º</p></td><td rowspan="1" colspan="1"><p>4º</p></td><td rowspan="1" colspan="1"></td></tr><tr><td rowspan="1" colspan="1"><p>A</p></td><td rowspan="1" colspan="1"><p>0,0</p></td><td rowspan="1" colspan="1"><p>0,0</p></td><td rowspan="1" colspan="1"><p>0,0</p></td><td rowspan="1" colspan="1"><p>286.491,07</p></td><td rowspan="1" colspan="1"><p>286.491,07</p></td></tr><tr><td rowspan="1" colspan="1"><p>B</p></td><td rowspan="1" colspan="1"><p>0,0</p></td><td rowspan="1" colspan="1"><p>0,0</p></td><td rowspan="1" colspan="1"><p>3.931.465,75</p></td><td rowspan="1" colspan="1"><p>4.892.082,38</p></td><td rowspan="1" colspan="1"><p>8.823.548,13</p></td></tr><tr><td rowspan="1" colspan="1"><p>C</p></td><td rowspan="1" colspan="1"><p>0,0</p></td><td rowspan="1" colspan="1"><p>0,0</p></td><td rowspan="1" colspan="1"><p>589.850,36</p></td><td rowspan="1" colspan="1"><p>589.850,35</p></td><td rowspan="1" colspan="1"><p>1.179.700,71</p></td></tr><tr><td rowspan="1" colspan="1"><p>D</p></td><td rowspan="1" colspan="1"><p>0,0</p></td><td rowspan="1" colspan="1"><p>0,0</p></td><td rowspan="1" colspan="1"><p>0,0</p></td><td rowspan="1" colspan="1"><p>364.430,69</p></td><td rowspan="1" colspan="1"><p>364.430,69</p></td></tr><tr><td rowspan="1" colspan="1"><p>E</p></td><td rowspan="1" colspan="1"><p>0,0</p></td><td rowspan="1" colspan="1"><p>0,0</p></td><td rowspan="1" colspan="1"><p>917.451,02</p></td><td rowspan="1" colspan="1"><p>917.451,02</p></td><td rowspan="1" colspan="1"><p>1.834.902,04</p></td></tr><tr><td rowspan="1" colspan="1"><p>F</p></td><td rowspan="1" colspan="1"><p>0,0</p></td><td rowspan="1" colspan="1"><p>0,0</p></td><td rowspan="1" colspan="1"><p>1.882,51</p></td><td rowspan="1" colspan="1"><p>0,0</p></td><td rowspan="1" colspan="1"><p>1.882,51</p></td></tr><tr><td rowspan="1" colspan="1"><p>G</p></td><td rowspan="1" colspan="1"><p>0,0</p></td><td rowspan="1" colspan="1"><p>0,0</p></td><td rowspan="1" colspan="1"><p>215.604,76</p></td><td rowspan="1" colspan="1"><p>254.675,49</p></td><td rowspan="1" colspan="1"><p>470.280,25</p></td></tr><tr><td rowspan="1" colspan="1"><p>H</p></td><td rowspan="1" colspan="1"><p>0,0</p></td><td rowspan="1" colspan="1"><p>0,0</p></td><td rowspan="1" colspan="1"><p>63.337,71</p></td><td rowspan="1" colspan="1"><p>34.104,92</p></td><td rowspan="1" colspan="1"><p>97.442,63</p></td></tr><tr><td rowspan="1" colspan="1"><p>I</p></td><td rowspan="1" colspan="1"><p>0,0</p></td><td rowspan="1" colspan="1"><p>0,0</p></td><td rowspan="1" colspan="1"><p>174.284,58</p></td><td rowspan="1" colspan="1"><p>514.243,22</p></td><td rowspan="1" colspan="1"><p>688.527,80</p></td></tr><tr><td rowspan="1" colspan="1"><p>TOTAL (R$)</p></td><td rowspan="1" colspan="1"><p>0,0</p></td><td rowspan="1" colspan="1"><p>0,0</p></td><td rowspan="1" colspan="1"><p>5.893.876,69</p></td><td rowspan="1" colspan="1"><p>7.853.329,14</p></td><td rowspan="1" colspan="1"><p>13.747.205,83</p></td></tr></table>

@@ -1,0 +1,23 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 4: admite somente tabelas nativas com prova independente de células, ordem e mesclagens. Mantém todos os demais gates. Também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 500,
+  "aprovados_nestes_gates": 428,
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0007/sapl.portovelho.ro.leg.br.prefixo.jsonl",
+      "sha256": "edbda8efca8166d3616c729d4516223235cf0c33d77f56e30eb1519958f82ad8",
+      "bytes": 1619143
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0007/sapl.portovelho.ro.leg.br.tipos.json",
+      "url": "https://sapl.portovelho.ro.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "d805dad9f0a5409f538b93c34b0e6ac8cef59bbbfcf7f2584f6ff348d7119eda"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0007/sapl.portovelho.ro.leg.br.anexos.json",
+      "sha256": "73e6ae82595ab1f99b7a2e1c9c7ba5e3a3d3cf54e6fb302915d5d3bec271ef9f"
+    }
+  ],
+  "script_sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

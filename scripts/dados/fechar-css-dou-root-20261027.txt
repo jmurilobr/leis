@@ -1,0 +1,13 @@
+from pathlib import Path
+import json,gzip,hashlib,sys
+num,total=sys.argv[1:];total=int(total);sha=lambda b:hashlib.sha256(b).hexdigest();base=Path('reguladores/_fonte/auditorias/dou'+num+'-css-html5-root-20261027');results=[json.loads(x) for x in gzip.decompress((base/'resultados.jsonl.gz').read_bytes()).splitlines()];assert len(results)==total
+proofs={}
+for kind in ['renderizada','listas']:
+ for r in json.loads(Path('scripts/dados/reguladores-fidelidade-'+kind+'-20261027-'+num+'.json').read_text())['documentos']:
+  if r['igual_fonte'] and r['assinatura_numerica_igual']:proofs[r['path']]=r
+assert len(proofs)==total;diags=[];bound={};tables=0
+for r in results:
+ assert not any(r.get(k) for k in ['erro','md_diverge_mapa','riscos','nativo_excluido']),r
+ assert r['estrutura_celulas_texto_spans_igual'] and r['distribuicao_texto_spans_sem_papel_td_th_igual'],r['path'];p=proofs[r['path']];assert r['sha256_md']==p['sha256_md'] and r['sha256_fonte']==p['sha256_fonte'];tables+=r['tabelas_fonte']
+ if not (r['texto_visivel_igual'] and r['assinatura_numerica_igual']):diags.append(r['path']);bound[r['path']]=p
+p=Path('scripts/dados/dou'+num+'-css-html5-root-20261027.json');assert not p.exists();p.write_text(json.dumps({'documentos':len(results),'tabelas':tables,'riscos_css_hidden_tachados':0,'divergencias_matrizes':0,'diagnosticos_brutos':diags,'controles_literais_vinculados':bound,'criterio':'CSS inline/hidden/tachados e matrizes HTML5 das fontes completas. Diagnosticos brutos vinculados aos controles literais anteriores de heading e contadores AST; nenhuma normalizacao adicional ou alteracao de corpo. CSS externo nao fornecido nao certificado.','codigo_sha256':sha(Path(__file__).read_bytes())},ensure_ascii=False,indent=2)+'\n');print(len(results),'diretos',tables,'tabelas',len(diags),'diagnosticos vinculados',flush=True)

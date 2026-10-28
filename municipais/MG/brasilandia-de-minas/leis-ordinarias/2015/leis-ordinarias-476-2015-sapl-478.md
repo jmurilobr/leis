@@ -1,0 +1,561 @@
+---
+titulo: "Lei Ordinária nº 476, de 23 de outubro de 2015"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "476"
+data: "2015-10-23"
+municipio: "Brasilândia de Minas"
+uf: "MG"
+codigo_ibge: "3108552"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.brasilandiademinas.mg.leg.br/norma/478"
+fonte_texto: "https://sapl.brasilandiademinas.mg.leg.br/ta/429/text"
+sha256_fonte: "0835b2ad8ed8c5e65637e51731d1df6546741e5b1d7877d9777e4c9d550d4039"
+sha256_texto: "2af59c2cdb4640683060e250b5ad4dfab8db1a0261c895c375de4da9edfd69f2"
+capturado_em_fonte: "2026-10-27T19:47:53.350968-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 476, de 23 de outubro de 2015
+
+"Dispõe sobre a criação do Sistema Municipal de Cultura de Brasilândia de Minas e dá outras providências."
+
+
+O PREFEITO MUNICIPAL DE BRASILANDIA DE MINAS (MG) Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DO SISTEMA MUNICIPAL DE CULTIRA - SMC
+
+
+Art. 1º.
+
+Fica instituído o Sistema Municipal de Cultura SMC, com as seguintes finalidades e objetivos:
+
+
+I –
+
+integrar os órgãos, programas e ações culturais do Governo Municipal com os programas dos Governos Federal e Estadual e instituições parceiras;
+
+
+II –
+
+contribuir para a implantação de politicas culturais democráticas e permanentes, pactuadas entre os entes da sociedade civil e Poder Público Municipal.
+
+
+III –
+
+articular ações transversais, descentralizadas e participativas, com vistas a estabelecer e efetivar o Plano Municipal de Cultura.
+
+
+IV –
+
+promover iniciativas para apoiar o desenvolvimento social com pleno exercício dos direitos culturais e acesso às fontes da cultura.
+
+
+V –
+
+consolidar um sistema público municipal de gestão cultural, com ampla participação e transparência nas ações públicas, por meio da revisão de marcos legais já estabelecidos e da implantação de novos instrumentos institucionais;
+
+
+VI –
+
+assegurar a centralidade da cultura no conjunto das politicas locais, reconhecendo o município como território onde se traduzem os princípios da diversidade e da multiplicidade cultural.
+
+
+VII –
+
+estabelecer e implantar politicas culturais de longo prazo, em consonância com as necessidades e aspirações da comunidade;
+
+
+VIII –
+
+incentivar parcerias no âmbito do setor público com o setor privado, na área de gestão e promoção da cultura:
+
+
+IX –
+
+reunir, consolidar e disseminar informações dos órgãos e entidades dele integrantes em base de dados, a ser articulada, coordenada e difundida pela Secretaria Municipal de Cultura, Esporte e Lazer;
+
+
+X –
+
+promover a transparência dos investimentos na área cultural;
+
+
+XI –
+
+incentivar, integrar e coordenar a formação de redes e sistemas setoriais nas áreas do fazer cultural;
+
+
+XII –
+
+promover a integração das culturas locais ás políticas públicas de cultura do Brasil;
+
+
+XIII –
+
+promover a cultura em toda sua amplitude, buscando os meios para realizar o encontro dos conhecimentos e técnicas criativos, concorrendo para a valorização das atividades e profissões culturais e artísticas e fomentando a cultura crítica e a liberdade de criação e de expressão como elementos indissociáveis do desenvolvimento cultural.
+
+
+XIV –
+
+estimular a organização e a sustentabilidade de grupo, associações, cooperativas e outras entidades atuantes na área cultural;
+
+
+XV –
+
+levantar, divulgar e preservar o patrimônio cultural do município e as memórias (materiais e imateriais) da comunidade, bem como proteger e aperfeiçoar os espaços destinados às manifestações culturais,
+
+
+XVI –
+
+garantir continuidade aos projetos culturais já consolidados e com notório reconhecimento da comunidade.
+
+
+Art. 2º.
+
+São elementos e instâncias integrantes do SMC:
+
+
+I –
+
+O órgão específico para gestão da cultura: Secretaria Municipal de Cultura Esporte e Lazer,
+
+
+II –
+
+O Plano Municipal de Cultura;
+
+
+III –
+
+O Fundo Municipal de Cultura e Patrimônio;
+
+
+IV –
+
+O Departamento Municipal de Defesa do Património;
+
+
+V –
+
+O Conselho Municipal do Patrimônio e da politica Cultural;
+
+
+VI –
+
+A Conferência Municipal de Cultura.
+
+
+#### CAPÍTULO II — DOS ELEMENTOS E INSTANCIAS COMPONENTES DO SMC
+
+
+##### Seção I — Do Órgão Gestor da Cultura
+
+
+Art. 3º.
+
+A Secretaria Municipal de Cultura, Esporte e Lazer órgão central do SMC, tem por competências:
+
+
+I –
+
+exercer a coordenação geral do SMC;
+
+
+II –
+
+estabelecer as orientações e deliberações normativas e de gestão aprovadas pelo Conselho Municipal de Politica Cultural de Brasilândia de Minas e pelo Conselho Municipal do Patrimônio Cultural de Brasilândia de Minas;
+
+
+III –
+
+emitir recomendações, resoluções e outros pronunciamentos sobre matérias relacionadas ao SMC, observadas as diretrizes sugeridas pelos conselhos;
+
+
+IV –
+
+desenvolver e reunir, com apoio dos órgãos integrantes do SMC. indicadores e parâmetros quantitativos e qualitativos para democratização dos bens e culturais promovidos ou apoiados, direta ou indiretamente com recursos do Município e conveniados;
+
+
+V –
+
+subsidiar as políticas e ações transversais da cultura nos planos e ações estratégicos do Governo Municipal;
+
+
+VI –
+
+auxiliar o Governo Municipal e subsidiar os órgãos do Poder Público no estabelecimento de instrumentos metodológicos e na classificação dos programas e ações culturais no âmbito dos respectivos planos plurianuais.
+
+
+VII –
+
+coordenar e convocar a Conferência Municipal de Cultura;
+
+
+Art. 4º.
+
+A Secretaria Municipal de Cultura, Esporte e Lazer prestará apoio técnico e administrativo ao Conselho Municipal do Patrimônio e da Politica Cultural.
+
+
+##### Seção II — Do Conselho Municipal de Politica Cultural
+
+
+Art. 5º.
+
+O Conselho Municipal do Patrimônio e da política Cultural (CPPC), órgão integrante da estrutura básica do Sistema Municipal de Cultura SMC é instância permanente, de caráter normativo, consultivo, deliberativo e fiscalizador, que atua na formulação de estratégias e controle da execução das políticas públicas de cultura no município de Brasilândia de Minas.
+
+
+Art. 6º.
+
+O CPPC é composto pelos seguintes órgãos colegiados:
+
+
+I –
+
+Diretoria
+
+
+II –
+
+Plenário
+
+
+III –
+
+Câmaras Setoriais compreendidas por:
+
+
+a)
+
+Comissão de Ação Cultural (CAC);
+
+
+b)
+
+Comissão de Análise de Projetos (CAP);
+
+
+Art. 7º.
+
+O CPPC, formado por representantes da sociedade civil e do poder público municipal, será constituído por 10 (dez) membros, sendo 05 (cinco) titulares e 05(cinco) suplentes, nomeados pelo Chefe do Poder Executivo para um mandato de 2 (dois) anos, permitida a recondução.
+
+
+§ 1º
+
+Os membros do CPPC serão escolhidos entre pessoas de reconhecida idoneidade, vivência e representatividade no meio cultural do Município;
+
+
+§ 2º
+
+No caso de vacância de membro titular, será nomeado o membro suplente, que completará o tempo restante do mandato;
+
+
+§ 3º
+
+Nas ausências ocasionais e justificadas dos membros titulares, os membros suplentes deverão substituí-los, com direito a voz e voto;
+
+
+§ 4º
+
+A função de membro do CPPC não será remunerada, sendo considerada de relevante interesse público.
+
+
+Art. 8º.
+
+A diretoria, órgão diretivo do CPPC, é composta pelo Presidente e pelo Vice-Presidente, eleitos por seus pares mediante maioria absoluta de votos.
+
+
+Art. 9º.
+
+A Comissão de Ação Cultural é composta de 03 membros do Conselho tendo por competência: indicar programas, projetos e ações, indicar as aplicações dos recursos destinados ao fomento da cultura, elaborar, anualmente, em parceria com a Secretaria de Cultura os editais e instrumentos de financiamento a cultura, fiscalizar deliberando sobre os percentuais de aplicação dos recursos para cada setor da cultura, acompanhar, fiscalizar e emitir parecer sobre as prestações de contas dos projetos contemplados com recursos públicos.
+
+
+Art. 10.
+
+A Comissão de Análise de Projetos CAP, instância de composição paritária vinculada à Secretaria e ao CPPC, é responsável pela avaliação e aprovação de todos os projetos encaminhados, sejam eles através de editais específicos ou de outros instrumentos de financiamento à cultura, aprovados pelo CPPC, pela análise, parecer, aprovação ou reprovação das prestações de contas.
+
+
+Parágrafo único
+
+A Comissão de Análise de Projetos será designada pelo Conselho Municipal de Patrimônio e Politica Cultural, tendo por objetivo analisar, avaliar, aprovar ou reprovar os projetos que pleiteiam recursos do Fundo Municipal de Cultura.
+
+
+##### Seção III — DO PLANO MUNICIPAL DE CULTURA - PMC
+
+
+Art. 11.
+
+O Plano Municipal de Cultura - PMC tem duração decenal e é um instrumento de planejamento estratégico que organiza, regula e norteia a execução da Política Municipal de Cultura na perspectiva do Sistema Municipal de Cultura - SMC.
+
+
+Art. 12.
+
+A elaboração do Plano Municipal de Cultura PMC e dos Planos Setoriais de âmbito municipal é de responsabilidade da Secretaria Municipal de Esporte Lazer e Cultura, que, a partir das diretrizes propostas pela Conferência Municipal de Cultura CMC, desenvolve Projeto de Lei a ser submetido ao Conselho Municipal de Patrimônio e Política Cultural CPPC e, posteriormente, encaminhado à Câmara de Vereadores.
+
+
+Parágrafo único
+
+Os Planos devem conter:
+
+
+I –
+
+diagnóstico do desenvolvimento da cultura;
+
+
+II –
+
+diretrizes e prioridades;
+
+
+III –
+
+objetivos gerais e específicos;
+
+
+IV –
+
+estratégias, metas e ações;
+
+
+V –
+
+prazos de execução;
+
+
+VI –
+
+resultados e impactos esperados;
+
+
+VII –
+
+recursos materiais, humanos e financeiros disponíveis e necessários;
+
+
+VIII –
+
+mecanismos e fontes de financiamento;
+
+
+IX –
+
+indicadores de monitoramento e avaliação.
+
+
+##### Seção IV — DO FUNDO MUNICIPAL DE CULTURA E PATRIMONIO-FMCP
+
+
+Art. 13.
+
+Fica criado o Fundo Municipal de Cultura e patrimônio FMCP, vinculado à Secretaria Municipal de Esporte Lazer e Cultura de Brasilândia de Minas, gerido e representado ativa e passivamente pelo CPPC, sob o controle do setor financeiro do município como fundo de natureza contábil e financeira, com prazo. indeterminado de duração, de acordo com as regras definidas nesta Lei.
+
+
+Art. 14.
+
+O Fundo Municipal de Cultura e Patrimônio FMCP se constitui no principal mecanismo de financiamento das políticas públicas de cultura no município, com recursos destinados a programas, projetos e ações culturais implementados de forma descentralizada, em regime de colaboração e cofinanciamento com a União e com o Governo do Estado de Minas Gerais.
+
+
+Parágrafo único
+
+É vedada a utilização de recursos do Fundo Municipal de Cultura e Patrimônio FMC com despesas de manutenção administrativa dos - Governos Municipal, Estadual e Federal, bem como de suas entidades vinculadas.
+
+
+Art. 15.
+
+São receitas do Fundo Municipal de Cultura - FMC:
+
+
+I –
+
+dotações consignadas na Lei Orçamentária Anual (LOA) do Município de Brasilândia de Minas e seus créditos adicionais;
+
+
+II –
+
+transferências federais e/ou estaduais à conta do Fundo Municipal de Cultura FMC;
+
+
+III –
+
+contribuições de mantenedores;
+
+
+IV –
+
+produto do desenvolvimento de suas finalidades institucionais, tais como: arrecadação dos preços públicos cobrados pela cessão de bens municipais sujeitos à administração da Secretaria Municipal de Cultura; resultado da venda de ingressos de espetáculos ou de outros eventos artísticos e promoções, produtos e serviços de caráter cultural;
+
+
+V –
+
+doações e legados nos termos da legislação vigente;
+
+
+VI –
+
+subvenções e auxílios de entidades de qualquer natureza, inclusive de organismos internacionais;
+
+
+VII –
+
+resultado das aplicações em títulos públicos federais, obedecida a legislação vigente sobre a matéria;
+
+
+VIII –
+
+saldos não utilizados na execução dos projetos culturais financiados com recursos dos mecanismos previstos no Sistema Municipal de Financiamento à Cultura - SMFC;
+
+
+IX –
+
+saldos de exercícios anteriores; e
+
+
+X –
+
+outras receitas legalmente incorporáveis que lhe vierem a ser destinadas.
+
+
+Art. 16.
+
+O Fundo Municipal de Cultura - FMC será administrado pela Secretaria Municipal de Cultura na forma estabelecida no regulamento, e apoiará projetos culturais por meio das seguintes modalidades:
+
+
+I –
+
+não reembolsáveis, na forma do regulamento, para apoio a projetos culturais apresentados por pessoas físicas e pessoas jurídicas de direito público e de direito privado, com ou sem fins lucrativos, preponderantemente por meio de editais de seleção pública; e
+
+
+II –
+
+reembolsáveis destinados ao estimulo da atividade produtiva das empresas de natureza cultural e pessoas físicas, mediante a concessão de empréstimos.
+
+
+§ 1º
+
+Nos casos previstos no inciso II do caput, a Secretaria Municipal de Cultura definirá com os agentes financeiros credenciados a taxa de administração, os prazos de carência, os juros limites, as garantias exigidas e as formas de pagamento.
+
+
+§ 2º
+
+Os riscos das operações previstas no parágrafo anterior serão assumidos, solidariamente pelo Fundo Municipal de Cultura FMC e pelos agentes financeiros credenciados, na forma que dispuser o regulamento.
+
+
+§ 3º
+
+A taxa de administração a que se refere o § 1º não poderá ser superior a três por cento dos recursos disponibilizados para o financiamento.
+
+
+§ 4º
+
+Para o financiamento de que trata o inciso II, serão fixadas taxas de remuneração que, no minimo, preservem o valor originalmente concedido.
+
+
+Art. 17.
+
+O Fundo Municipal de Cultura - FMC poderá financiar projetos culturais apresentados por pessoas físicas e pessoas juridicas de direito público e de direito privado, com ou sem fins lucrativos.
+
+
+§ 1º
+
+Poderá ser dispensada contrapartida do proponente no âmbito de programas setoriais definidos pela Comissão de Análise de Projetos- CAP.
+
+
+§ 2º
+
+Nos casos em que a contrapartida for exigida, o proponente deve comprovar que dispõe de recursos financeiros ou de bens ou serviços, se economicamente mensuráveis, para complementar o montante aportado pelo Fundo Municipal de Cultura - FMC, ou que está assegurada a obtenção de financiamento por outra fonte.
+
+
+##### Seção V — DA CONFERÊNCIA MUNICIPAL DE CULTURA
+
+
+Art. 18.
+
+À Conferência Municipal de Cultura, aberta à participação de todos os cidadãos brasilandenses, compete:
+
+
+I –
+
+subsidiar o Municipio, bem como seus respectivos órgãos gestores, na definição das diretrizes para elaboração do Piano Municipal de Cultura;
+
+
+II –
+
+mapear a produção cultural de Brasilândia de Minas, discutir suas peculiaridades, contradições e necessidades, estabelecendo prioridades e metas;
+
+
+III –
+
+criar diretrizes pertinentes à demanda local, para subsidiar a elaboração do respectivo Plano Municipal de Cultura, colaborando assim, para a integração dos Sistemas Municipal, Estadual e Nacional de Cultura;
+
+
+IV –
+
+colaborar e incentivar a organização de redes sociais culturais em torno de planos e metas comuns, bem como interação regional nas ações artísticas e culturais, facilitando e fortalecendo o estabelecimento de novas redes;
+
+
+V –
+
+contribuir para a formação dos Sistemas Municipal, Estadual e Nacional de Informações Culturais;
+
+
+VI –
+
+mobilizar a sociedade, o poder público e os meios de comunicação, para a importância da cultura, bem como de suas manifestações, para o desenvolvimento sustentável do município, da região e, notadamente do país;
+
+
+VII –
+
+promover, ampliar e diversificar o acesso aos mecanismos de participação popular no município, por meio de debates sobre as representações e os processos constitutivos da identidade e diversidade cultural de Brasilândia de Minas;
+
+
+VIII –
+
+consolidar os conceitos de cultura junto aos diversos setores da sociedade local;
+
+
+IX –
+
+eleger os representantes da sociedade civil para o Conselho Municipal de Patrimônio e Politica Cultural;
+
+
+X –
+
+validar a participação de delegados para a Conferência Estadual de Cultura, quando for o caso.
+
+
+XI –
+
+avaliar o resultado das ações propostas em edições anteriores da Conferência Municipal de Cultura;
+
+
+Art. 19.
+
+O Chefe do Poder Executivo regulamentará esta Lei no prazo de até 60 (sessenta) dias, contados da data em que entrar em vigor.
+
+
+Art. 20.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Art. 21.
+
+Revogam-se as disposições em contrário.
+
+
+Art. 22.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Prefeitura de Brasilândia de Minas - MG, 23 de outubro de 2015.
+
+**Marden Júnior Teles Pereira da Costa**
+
+**Prefeito**
+

@@ -1,0 +1,28 @@
+---
+titulo: "CONVÊNIO ICMS Nº 63, DE 3 DE JULHO DE 2026"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "63"
+data: "2026-07-03"
+revogada: null
+versao_texto: "Texto e notas oficiais do portal CONFAZ conforme a captura; sem certificação de vigência."
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV063_26"
+sha256_html_fonte: "10f4ab2b213e1593c6d49deb76875a24bcd9c71996098969ff1e6cab5000d6c5"
+sha256_texto: "288128e017bce763fc74483f489a81218bcdeb2fb3950369c115a6d8f683326c"
+baixado_em: "2026-10-27"
+representacao_corpo: "html-nativo-confaz-piloto-v1"
+observacao_captura: "timestamp original do cliente com fuso, convertido para America/Recife"
+observacao_efeitos: "Condições de ratificação e produção de efeitos preservadas literalmente. Nenhuma data de vigência calculada."
+publicacao_fonte: "Publicado no DOU de 08.07.26, pelo despacho 28/26. | Ratificação Nacional no DOU de 27.07.26, pelo Ato Declaratório 15/26."
+---
+# CONVÊNIO ICMS Nº 63, DE 3 DE JULHO DE 2026
+
+<div id="parent-fieldname-text"><p align="center" class="A1-1TituloAcordo" style="text-align: center; "><span>CONVÊNIO ICMS Nº 63, DE 3 DE JULHO DE 2026</span></p>
+<p class="A2DataPublicacao">Publicado no DOU de 08.07.26, pelo despacho <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/despacho/2026/dp028_26" target="_self" title="despacho 28/26">28/26</a>.</p>
+<p class="A2DataPublicacao">Ratificação Nacional no DOU de 27.07.26, pelo Ato Declaratório <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/atos-declaratorios/2026/ad015_26" target="_self" title="ato declaratorio 15/26">15/26</a>.</p>
+<p class="A3Ementa">Altera o Convênio ICMS nº 87, de 9 de julho de 2010, que autoriza o Estado de São Paulo a conceder isenção do ICMS incidente nas prestações de serviço de transporte ferroviário de passageiros.</p>
+<p class="A5-1TextoAcordo"><b>O</b> <b>Conselho Nacional de Política Fazendária – CONFAZ,</b> na sua 201ª Reunião Ordinária, realizada em Macapá, AP, no dia 3 de julho de 2026, tendo em vista o disposto nos arts. 102 e 109 do Código Tributário Nacional (Lei nº 5.172, de 25 de outubro de 1966), na Lei Complementar nº 24, de 7 de janeiro de 1975, e no inciso II do art. 6º da Lei Complementar n<sup>o</sup> 192, de 11 de março de 2022, resolve celebrar o seguinte</p>
+<p class="A4AcordoTipo">CONVÊNIO</p>
+<p class="A5-1TextoAcordo"><b>Cláusula primeira</b> A cláusula primeira do <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV087_10" target="_self" title="Convenio icms 87/10">Convênio ICMS nº 87, de 9 de julho de 2010</a>, publicado no Diário Oficial da União de 13 de julho de 2010, passa a vigorar com a seguinte redação:</p>
+<p class="A5-2NovaRedacao">“Cláusula primeira O Estado de São Paulo fica autorizado a conceder, nos termos e condições estabelecidos em legislação estadual, isenção do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS – incidente nas prestações de serviço de transporte ferroviário intermunicipal de passageiros, prestados pela Companhia Paulista de Trens Metropolitanos - CPTM - ou por parceiro privado operador, cujos trajetos tenham início e fim em território paulista.”.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula segunda</b> Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.</p></div>

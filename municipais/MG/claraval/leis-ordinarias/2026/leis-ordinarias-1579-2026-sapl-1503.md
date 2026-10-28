@@ -1,0 +1,142 @@
+---
+titulo: "LEI ORDINÁRIA-CMC nº 1.579, de 04 de fevereiro de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "1579"
+data: "2026-02-04"
+municipio: "Claraval"
+uf: "MG"
+codigo_ibge: "3116407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.claraval.mg.leg.br/norma/1503"
+fonte_texto: "https://sapl.claraval.mg.leg.br/ta/836/text"
+sha256_fonte: "1c02eb1436474da9954ea94854ff9bf0a20d179e4ee12012d3484c32bfb0313f"
+sha256_texto: "813269648a487a476597752d508ecee048ffbeebb883c081f1ae1ee0e72f10cd"
+capturado_em_fonte: "2026-10-27T22:43:01.714926-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA-CMC nº 1.579, de 04 de fevereiro de 2026
+
+"Autoriza concessão de Subvenções, Auxílios Financeiros e Contribuições e contém outras providências."
+
+
+O Prefeito do Município de Claraval, MG, José Reinaldo Cintra, no uso de suas atribuições legais, faz saber que a Câmara Municipal APROVOU e eu SANCIONO a seguinte Lei:
+
+
+Art. 1º.
+
+Com base nas consignações orçamentárias do Município e respectivos créditos adicionais autorizados, fica o Executivo Municipal autorizado a conceder subvenções, auxílios financeiros e contribuições, conforme a seguinte designação:
+
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td><strong>Nº</strong></td><td><strong>Descrição</strong></td><td><strong>Valor Orçado</strong> </td></tr><tr><td>01</td><td>SUBVENÇÃO A APAE DE FRANCA</td><td> 192.505,00 </td></tr><tr><td>02</td><td>CONTRIBUICAO A ASSOC.MINEIRA DOS MUNICIPIO-AMM </td><td> 10.593,00 </td></tr><tr><td>03</td><td>CONTRIBUICAO A ASSOCIACAO NASCENTES DAS GERAIS-ANG </td><td>20.000,00</td></tr><tr><td>04</td><td>INCENTIVO AS ASSOCIACOES RURAIS </td><td>2.000,00 </td></tr><tr><td>05</td><td>SUBVENÇÃO A APAE DE FRANCA – SAUDE </td><td> 6.464,00 </td></tr><tr><td>06</td><td>MANUTENCAO DO CONSORCIO DE SAUDE – CISLAP </td><td>40.000,00</td></tr><tr><td>07</td><td>CLUBE HIPICO DE CLARAVAL </td><td>30.000,00</td></tr><tr><td>08</td><td>SUBVENÇÃO A APAE DE FRANCA- AS. SOCIAL </td><td>82.667,00 </td></tr><tr><td>09</td><td>CONTRATO DE RATEIO AO CONSORCIO AMEG </td><td>20.820,04</td></tr><tr><td>10</td><td>SUBVENÇÃO SOCIAL - ACOLHIMENTO AO IDOSO </td><td>30.000,00</td></tr><tr><td>11</td><td>SUBVENÇÃO A CASA DA SOPA </td><td>   110.160,00 </td></tr><tr><td>12</td><td>SUBVENÇÃO SOCIAL – ACOLHIMENTO DE MENOR </td><td>60.000,00</td></tr><tr><td> </td><td> </td><td> </td></tr><tr><td> </td><td><strong>TOTAL </strong></td><td><strong>605.209,04 </strong></td></tr></tbody></table>
+
+
+Parágrafo único
+
+O disposto no caput aplica-se a toda a administração direta.
+
+
+Art. 2º.
+
+Fundamentalmente e nos limites das possibilidades do Município, a concessão de subvenções sociais, auxílios e contribuições visará a prestação de serviços essenciais, de assistência social, médica, hospitalar, educacional, cultural e desportiva.
+
+
+Art. 3º.
+
+Somente às instituições cujas condições de funcionamento forem julgadas satisfatórias, a critério da Administração Municipal, serão concedidos os benefícios desta lei.
+
+
+Art. 4º.
+
+A concessão de subvenções sociais destinadas às entidades sem fins lucrativos somente poderão ser realizadas após observadas às seguintes condições:
+
+
+I –
+
+atender ao público, de forma gratuita;
+
+
+II –
+
+não possuir débito de prestação de contas de recursos recebidos anteriormente;
+
+
+III –
+
+apresentar declaração de regular funcionamento nos últimos dois anos, emitida no exercício de 2026 por autoridade local;
+
+
+IV –
+
+comprovar a regularidade do mandato de sua diretoria;
+
+
+V –
+
+ser declarada por lei como entidade de utilidade pública;
+
+
+VI –
+
+apresentar o Plano de Aplicação dos Recursos, especificando as metas e objetivos;
+
+
+VII –
+
+existir recursos orçamentários e financeiros;
+
+
+VIII –
+
+celebrar o respectivo convênio.
+
+
+Art. 5º.
+
+O valor do auxílio sempre que possível, será calculado com base em unidade de serviços efetivamente prestados postos a disposição dos interessados, obedecendo aos padrões mínimos de eficiência previamente fixados por autoridade competente.
+
+
+Art. 6º.
+
+É vedada a concessão de ajuda financeira a qualquer título a empresas de fins lucrativos, salvo se tratar de subvenções econômicas cuja autorização seja expressa em lei especial e atender às condições estabelecidas na lei de diretrizes orçamentárias.
+
+
+Art. 7º.
+
+A destinação de recursos a título de “contribuições”, a qualquer entidade, para despesas correntes e de capital, além de atender ao que determina o artigo 12, parágrafos 2º e 6º, da Lei nº 4.320/64, somente poderá ser efetivada mediante previsão na lei orçamentária.
+
+
+Art. 8º.
+
+As transferências de recursos do Município, consignadas na lei orçamentária anual, para o Estado, União ou outro Município, a qualquer título, inclusive auxílios financeiros e contribuições, serão realizadas exclusivamente mediante convênio, acordo, ajuste ou outros instrumentos congêneres, na forma da legislação vigente.
+
+
+Art. 9º.
+
+Fica o Executivo Municipal autorizado a conceder auxílio-funeral, auxílio-moradia, auxílio-transporte, auxílios de assistência médica e hospitalar e auxílio de medicamentos a indigentes e desvalidos até o limite das dotações orçamentárias e seus respectivos créditos adicionais.
+
+
+Art. 10.
+
+As entidades privadas beneficiadas com recursos públicos a qualquer título submeter-se-ão à fiscalização do Poder concedente através do envio de prestação de contas ao órgão competente, com a finalidade de verificar o cumprimento de metas e objetivos constantes no Plano de Aplicação dos Recursos.
+
+
+Parágrafo único
+
+O prazo para prestação de contas dos recursos recebidos será tratado no respectivo convênio.
+
+
+Art. 11.
+
+Esta Lei entra em vigor em 1º de janeiro de 2026, revogando as disposições em contrário.
+
+
+Claraval/MG, 4 de fevereiro de 2026.
+
+**José Reinaldo Cintra**  
+Prefeito Municipal
+

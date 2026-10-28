@@ -1,0 +1,74 @@
+---
+titulo: "04 - Lei Ordinária nº 157, de 18 de maio de 1988"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "157"
+data: "1988-05-18"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/286"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/188/text"
+sha256_fonte: "74deae5bac7ef2c36f77f7da5f2a61a4cc55534e1fa2d09321018405d611b9e3"
+sha256_texto: "0da66abff4da0683e754ccd49c89220365a104cde7b7db067a4050cb37022310"
+capturado_em_fonte: "2026-10-28T08:45:40.722719-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 157, de 18 de maio de 1988
+
+Autoriza o Chefe do Poder Executivo a contratar operações de créditos com o BANCO DO ESTADO DO PARANÁ S/A através do programa FINAME, com recursos do BANCO NACIONAL DO DESENVOLVIMENTO ECONÔMICO E SOCIAL BNDES.
+
+
+FAÇO SABER, QUE A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANA, DECRETOU E EU PREFEITO MUNICIPAL SANCIONO A SEGUINTE:
+
+
+LEI
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal, autorizado a contratar operações de crédito no valor de 7.000.000,00 (sete milhões de cruzados), equivalente nesta data, a 6.165,93 (seis mil, cento e sessenta e cinco e noventa e três) OTNs, correspondente a 100% do valor total do equipamento, incluindo IPI, sendo 70% desse valor pelo FINAME, pelo prazo total de 60 sessenta) meses, incluída a carência de 12 (doze) meses, reajuste monetário da OTN, comissão de reserva de capital de 0,1% a.m. e de condições a serem fixadas no contrato, através do Programa FINAME SOCIAL, com recursos do BANCO NACIONAL DO DESENVOLVIMENTO ECONÔMICO E SOCIAL - BNDES, tendo como Agente Financeiro o BANCO DO ESTADO DO PARANÁ S/A.
+
+
+Art. 2º.
+
+Em garantia à operação descrita nesta Lei, fica o Chefe do Poder Executivo Municipal autorizado a ceder ao Agente Financeiro do BANCO NACIONAL DO DESENVOLVIMENTO ECONÔMICO E SOCIAL- BNDES, Alienação Fiduciária do(s) bem(s) financiados(s) e parcelas do Imposto Sobre Operação à Circulação de Mercadorias - ICM - ou tributos que o substituir ao qual fica vincula presente operação de crédito, em montante necessário para amortizar as prestações do principal e dos encargos.
+
+
+Art. 3º.
+
+Para garantir o pagamento do principal juros, multas e demais encargos financeiros da operação referidas nesta Lei, o Chefe do Poder Executivo, poderá outorgar ao BANCO NACIONAL DO DESENVOLVIMENTO ECONÔMICO E SOCIAL - BNDES, poderes para substabelecer mandato pleno e irrevogável para receber e dar quitação no vencimento das referidas obrigações financeiras.
+
+
+Art. 4º.
+
+Os prazos e o valor da operação estabelecidos pelo Chefe do Executivo, com o Agente Financeiro, obedecido os critérios de que trata o Art.1º, desta Lei.
+
+
+Art. 5º.
+
+Anualmente, a partir do exercício subsequente ao da contratação da presente operação, o orçamento do Município consignará dotação própria para amortização do principal encargos da dívida contratada.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor a partir da data de sua publicação, revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de CORBÉLIA
+
+Aos 18 dias do mês de maio de 1988.
+
+DELSO JOSÉ TRENTIN
+
+Prefeito Municipal
+
+Não substitui o texto publicado no Diário Oficial.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/286/ta
+

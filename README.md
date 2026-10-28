@@ -88,6 +88,13 @@ Fora do versionamento, porque os scripts os reproduzem: `_fonte/` (27 GB com o H
 originais, comprimidos), `_indice/` (os índices de cada fonte) e os logs. Os `_falhas.jsonl`, que
 registram linha por linha o que não entrou, **estão** versionados.
 
+Fontes integrais, anexos e recibos necessários para verificar uma inclusão podem ser
+versionados pontualmente, identificados por origem, captura e SHA-256. Isso preserva a
+edição efetivamente consultada quando a fonte muda ou sua conversão exige revisão.
+
+As auditorias registram hashes das dependências de cada lote. Execute os replays no commit
+que publicou o lote, ou use os módulos legados e mapas de leitura quando disponibilizados.
+
 ---
 
 ## Formato dos arquivos
@@ -122,6 +129,17 @@ Institui o Código Civil.
 
 `titulo`, `tipo`, `numero`, `data`, `versao_texto`, `fonte` e `baixado_em` existem em **todos** os
 arquivos; os demais aparecem quando a fonte os fornece. Os campos saem sempre nessa ordem.
+
+Quando uma transcrição perderia conteúdo visual ou exigiria adivinhar uma leitura, a
+representação individual pode incluir fac-símiles ou um PDF oficial integral como anexo
+local. O Markdown identifica a forma de representação, a edição e os arquivos por caminho
+relativo e SHA-256; texto principal e anexos precisam ter identidade e escopo conferidos.
+Esses recursos compõem a mesma norma, sem contagem adicional. Uma referência externa
+sem o conteúdo recuperado não resolve uma pendência de integralidade.
+
+No LEGIS/AC, `versao_texto` e `edicao` identificam a transcrição digital do campo
+`body-law` no modo Padrão. Esse modo pode incorporar alterações posteriores; a captura
+não certifica a edição original do DOE ou a redação vigente.
 
 O campo `tipo` usa o vocabulário canônico definido em `CANONICO`, em
 `scripts/comum.py`. O mesmo mapa vale para quem baixa e para `scripts/normalizar.py`, que o reaplica

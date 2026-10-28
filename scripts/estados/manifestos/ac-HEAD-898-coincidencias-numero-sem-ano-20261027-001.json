@@ -1,0 +1,2591 @@
+{
+  "preparado_em": "2026-10-27T22:14:45.405666-03:00",
+  "HEAD": "b6e474f7f8b219d23343933b67f8d68579cfe2d3",
+  "blobs_HEAD": 2868,
+  "HEAD_leis_indexadas": 2354,
+  "aplicados440": 440,
+  "privados458": 458,
+  "coincidencias_grupos": 0,
+  "coincidencias_mesmo_path_SHA": 0,
+  "coincidencias_potencial_alias": 0,
+  "coincidencias_anos_distintos": 0,
+  "sem_ano_na_chave": true,
+  "sufixos_preservados": true,
+  "sem_mascara": true,
+  "sem_canonicos_alterados": true,
+  "sem_reclassificacao": true,
+  "limite": "Diagnóstico por coincidência; metadados históricos podem ter datas ausentes/divergentes. Nenhuma data escolhida, ID de namespaces distintos não é equiparado, corpo não foi cortado nem substituído.",
+  "coincididos": [],
+  "fora_escopo": [
+    {
+      "path": "estaduais/AC/constituicao/1989/constituicao-ac-casa-civil.md",
+      "OID": "f92be6fa9b7ed9ff082678521c04bca230bb6009",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/emendas-constitucionais/2006/emenda-constitucional-1-2006-id1980.md",
+      "OID": "6eb7ff2832b6c5a18511c272d6ac098359ddf629",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/regimentos/2007/regimento-interno-1-2007-id2919.md",
+      "OID": "91cdd0fee11df7b234b267b2189740bde8bd9b74",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/200/resolucao-20-200-id2096.md",
+      "OID": "a0e88051bbb4a63dd61c4414ff4671bee559c581",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-1-2003-id2747.md",
+      "OID": "043aa2c5e0b086482dc67a1d68637acb65bd4b1c",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-10-2003-id2756.md",
+      "OID": "8e5d7d62b7fea1eb60e914a2ef7571e89329b968",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-100-2003-id2844.md",
+      "OID": "570a3e7c6a9122e65984925d04d79e0d7531a069",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-101-2003-id2845.md",
+      "OID": "ee375bfe133775f642c3948dad92cf5c5db49987",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-102-2003-id2846.md",
+      "OID": "8559be96067225eacc8c28269b7a09fbdedfa012",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-103-2003-id2847.md",
+      "OID": "b27107978091c94ac01b842feae8fc2506fd5609",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-104-2003-id2848.md",
+      "OID": "242c00b72dd96928d181e0aec98c25e63b069d04",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-105-2003-id2849.md",
+      "OID": "acf32b996b00d357fd5d10ff93ffd81515376005",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-106-2003-id2850.md",
+      "OID": "d464056029411feeaa2b5964bb1c98ede50ead6f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-107-2003-id2851.md",
+      "OID": "71036f115932b9a719859259afe705420ad95ebf",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-108-2003-id2852.md",
+      "OID": "6b4a09ebad53e332bce7d7263929bf5e89b21724",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-109-2003-id2853.md",
+      "OID": "897f901ac5a8456d0e32b006f9cd8a128b442d10",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-11-2003-id2757.md",
+      "OID": "c9505ada04091b170f76b08e5c7d3a3971e46f0c",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-110-2003-id2854.md",
+      "OID": "4c1bccf8c9a2a7ab7438b2f2c318cc4ec08f0ee2",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-111-2003-id2855.md",
+      "OID": "f75759f2cf9697c1bbd198df833e124f0f62d6b9",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-112-2003-id2856.md",
+      "OID": "2eb5f73cb55e9b223580a12747a69d4fa5e037ed",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-113-2003-id2857.md",
+      "OID": "d2fd2fb345c4595984d1734d6b97eab6e86a8f98",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-114-2003-id2858.md",
+      "OID": "d55a8d6b09a3f237ac1139c2d41fd49294e41320",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-115-2003-id2859.md",
+      "OID": "bda67580d01bfb5da1f6ea069df46c09f109c6c5",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-116-2003-id2860.md",
+      "OID": "7eb928c9394f33b1fd26fac6b751e091faaf7d11",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-117-2003-id2861.md",
+      "OID": "4d57534c315737b17a1e7a37a94d69685f3df2ec",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-118-2003-id2862.md",
+      "OID": "7ff3f6376517b7ccf83531db7eb310f91f43f134",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-119-2003-id2863.md",
+      "OID": "d1029d4378e4fd120f4666c200ce13fe63e967c9",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-12-2003-id2758.md",
+      "OID": "b5e44500cfa239f8b8c790947bd9c14c608f7192",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-120-2003-id2864.md",
+      "OID": "9390c39f3afe5038ceedbeb21d02424047b325ec",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-121-2003-id2865.md",
+      "OID": "88cf53d62dca5b401e918ac36005c80b5f810efb",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-122-2003-id2866.md",
+      "OID": "0f7b7e2d0ae519ec94242f0f91884867c7d4afbe",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-123-2003-id2867.md",
+      "OID": "d40196856c98f56660049a0c86b70786bb5e2270",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-124-2003-id2868.md",
+      "OID": "ac70ca532578a4438409c756afcf7245a98041df",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-125-2003-id2869.md",
+      "OID": "200077f5d85dd13380075f64a93196e4a515ff2e",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-126-2003-id2870.md",
+      "OID": "1e1b52dc2f1cc1cce29dbcff5a815bfbc2f58f05",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-127-2003-id2871.md",
+      "OID": "da1b1990e3f6799cc161eef3fe8d6f4879ad23cd",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-128-2003-id2872.md",
+      "OID": "0d418fbd29a571b95722b002649bcb16d6d13798",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-129-2003-id2873.md",
+      "OID": "7553eb102c48e4ad9c1f06deb29508be898e3ee9",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-13-2003-id2759.md",
+      "OID": "6fe3670da4993a335ecc365b18ad01b4cdc29911",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-130-2003-id2874.md",
+      "OID": "2ebbe19476fb4906096fa0090b5cc9fae2ce03d2",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-131-2003-id2875.md",
+      "OID": "c29a482fa18f37ca6780778ad1b4991016ccc2b3",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-132-2003-id2876.md",
+      "OID": "54b4c6241cf3557e0f13f7270981ee2f7ef8815e",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-133-2003-id2877.md",
+      "OID": "62429779d412b613c23715121a1156f874b7528b",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-134-2003-id2878.md",
+      "OID": "ca16ddb18d6fb5f0f2d898d4ed170b3952a436d2",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-135-2003-id2879.md",
+      "OID": "1b4e3b06b2f90eff47ae11ddcfcad700fd227e52",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-136-2003-id2880.md",
+      "OID": "543a6e5f7ae7784af50cd4258df71d0e943982d2",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-137-2003-id2881.md",
+      "OID": "911a864edfdeec37c8ed9136372f692761e71e3e",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-138-2003-id2882.md",
+      "OID": "976ce69bd006ef1607e8524c837853224f8a71f4",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-139-2003-id2883.md",
+      "OID": "0568079967a133619e628e50e10a6e07bc33cf07",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-14-2003-id2760.md",
+      "OID": "68f76e617b7dbfc032303b4e1e690fbdc5e46560",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-140-2003-id2884.md",
+      "OID": "e4e7a1134d65dcd4cf492b5fe3c9160df39d9bc7",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-141-2003-id2885.md",
+      "OID": "e5ee2dda79824af2089c60205fe57390164cf56b",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-142-2003-id2886.md",
+      "OID": "0e9e3f15ecdd068bc8a66c9c96f8ce5f8eedc944",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-143-2003-id2887.md",
+      "OID": "133a259d49b5e79b96688aa52a4d22fa599e9aa5",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-144-2003-id2888.md",
+      "OID": "dd6c4e346f367d493f01d4af290d26239d823846",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-145-2003-id2889.md",
+      "OID": "a1a74c1333988d71481ab99045a4ad359e0b3afd",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-146-2003-id2890.md",
+      "OID": "5c33dc1c863f9086a056c9d82d93e09750670dc2",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-147-2003-id2891.md",
+      "OID": "4e4bc2c4ffa317c4b0e9083d76bf29b1c4286ecc",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-148-2003-id2892.md",
+      "OID": "2937a4cf06bffbb717b734fea914c82c62e3854e",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-149-2003-id2893.md",
+      "OID": "4ba8db788594fb31a51937bd902e0d0e1e5c2d4a",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-15-2003-id2761.md",
+      "OID": "a4fa08959182b21c0565b24581951c7d0dc19079",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-150-2003-id2894.md",
+      "OID": "fcf017cec630b5ad9009011db5c6d0ae48d67c25",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-151-2003-id2895.md",
+      "OID": "ecf56d14572c3ab17c1227ed5fbbe0098e337ee6",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-152-2003-id2896.md",
+      "OID": "c27decfb5f46d501c36363ce8433c1eb2641d301",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-153-2003-id2897.md",
+      "OID": "8422e7cf4124bd84d5d6fa5622dc3fe8d0e0dee3",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-154-2003-id2898.md",
+      "OID": "f64eff102e8a85d0c86731d796ba4068e881f4e9",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-155-2003-id2899.md",
+      "OID": "be4468f8eb83d53c8e39f8a3ffed4dec0ce799d3",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-156-2003-id2900.md",
+      "OID": "09e812ac782a06d8924a2626804038ad11c97efe",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-157-2003-id2901.md",
+      "OID": "3f8c008e23076c80905d28f7ee8af859502f31d8",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-158-2003-id2902.md",
+      "OID": "162449069bc09b162897642233210016793ef552",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-159-2003-id2903.md",
+      "OID": "6b19c8f54e427c3da08c1cd65b09d3934c1ed26b",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-16-2003-id2762.md",
+      "OID": "42f21dab3bca4c4795b539d2925de1a969fc3a16",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-160-2003-id2904.md",
+      "OID": "4e0bad9443e48e132669bca754387998d89fffea",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-161-2003-id2905.md",
+      "OID": "07767a05ac0635e2c3c7e7e5d64501944702851c",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-162-2003-id2906.md",
+      "OID": "60ec503f593e087af486e6cb7b0ee63c580ad264",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-163-2003-id2907.md",
+      "OID": "c061e18f2cff3b12425bd7f644a6ba0a03991f25",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-164-2003-id2908.md",
+      "OID": "9d1193bb8009bac1a34782d7e96f30ad8d7fa0ba",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-165-2003-id2909.md",
+      "OID": "1ccc7de317ce17fd17f891dd484eb8bc29c2f53e",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-166-2003-id2910.md",
+      "OID": "59895e1831c8f1376dee6c56568c1cef2028dade",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-167-2003-id2911.md",
+      "OID": "e263f9344efa8101fbf305c4680241ee0be81d45",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-168-2003-id2912.md",
+      "OID": "50c8b07d649e01737a0d2bb70d5b4f0efad40064",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-169-2003-id2913.md",
+      "OID": "95b71918669ba8914dbbffc605b41b4f8abf818f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-17-2003-id2763.md",
+      "OID": "541d5fa4fa86de9b52a5ac47eed96fd4ae2d117f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-170-2003-id2914.md",
+      "OID": "7a36890bb2226116d1139354333190ac62bed2ae",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-171-2003-id2915.md",
+      "OID": "1187a6b62302799a7da1d19e9c865f293a656737",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-172-2003-id2916.md",
+      "OID": "0b3bf45cae1918c19513752c9187defff3cad198",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-173-2003-id2917.md",
+      "OID": "d51f32357a01aec4b6a778bd8159f46827a96480",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-174-2003-id2918.md",
+      "OID": "2ecdebf1788738e8b8bb118e99ae0ded48cc2845",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-175-2003-id2920.md",
+      "OID": "0e2950249ac344e358dd4f12b08e0741edab3122",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-176-2003-id2921.md",
+      "OID": "d8984e3c14811f437fee108829ff81d444e210c7",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-177-2003-id2922.md",
+      "OID": "bad0eea1a95108fa38e4bc3fdb5b9835acdef1a5",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-178-2003-id3091.md",
+      "OID": "4779282021d5317be40b2bd58180a6da38f32a3e",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-179-2003-id2924.md",
+      "OID": "69dab5013f6db84a102ebf3eebab40085ccaa7dc",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-18-2003-id2764.md",
+      "OID": "fda780643d93a77d317b1e4a2e3d26a1a3fda9f9",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-180-2003-id2925.md",
+      "OID": "2e0286113e0956c2229530b9065b815550cb13b2",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-181-2003-id2926.md",
+      "OID": "ef9fb11bafe53d814ab200fe3cffc356841dde0f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-182-2003-id3092.md",
+      "OID": "dcd595dd3799a6824b40c629d5c03020e9af9c4c",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-183-2003-id3093.md",
+      "OID": "38fdd76cf30133ec04dd0b111f5d03ca451f668a",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-184-2003-id3094.md",
+      "OID": "0e4c6b67e763e345ffa3f00320bc158306fbd6b5",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-185-2003-id3095.md",
+      "OID": "44ea2b1a7366bc5ea1579542d23d81642432aefa",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-186-2003-id3096.md",
+      "OID": "1f70de3c923bbeebd74dd00e33721ee0251ead93",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-187-2003-id3097.md",
+      "OID": "1a38fbca78d2e9bcc00b6cd39c0e3cba20335aad",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-188-2003-id3098.md",
+      "OID": "240127488ac0673369acd1cd04208617145191b5",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-189-2003-id3145.md",
+      "OID": "478bcce2dc529ad0d074a9d3273528a7da944bbf",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-19-2003-id2765.md",
+      "OID": "1f10801127fbc0fdd0a81da487a81449d14ee9b3",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-190-2003-id3146.md",
+      "OID": "d1ce9281d67b816a65d41e604e692e4ee185e19c",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-191-2003-id3147.md",
+      "OID": "2f29a5bb3992db9361139dff51077132868dd6b5",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-192-2003-id3148.md",
+      "OID": "5f5748c7d8e36f69a1ad81750961e2eb889b7e82",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-193-2003-id3149.md",
+      "OID": "b4ff7fa686444996d65ece9c299f469ccab57a76",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-194-2003-id3150.md",
+      "OID": "1c9db4f392e0e836993940f2356b7a36f19cf559",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-195-2003-id3151.md",
+      "OID": "68098158e2ed8aadbfef1a1c6bdbcfb7e8e62038",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-196-2003-id3152.md",
+      "OID": "a6bb9dfdbe3aeff30d75513787b47c70ae0d9277",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-197-2003-id3153.md",
+      "OID": "0034d7597e1fb1a35f045dea71da9d220b041e75",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-198-2003-id3154.md",
+      "OID": "5376c30603eed6c2c894999062234a9370fe26af",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-199-2003-id3155.md",
+      "OID": "3972dab4256aa60e830010d1a969a854194ca35c",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-2-2003-id2748.md",
+      "OID": "89cad999a270db060c70f8812c336457b1c579a5",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-20-2003-id2766.md",
+      "OID": "a88885116f422c5cb97b3dd1d373ed79cf1022a6",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-200-2003-id3156.md",
+      "OID": "e6679df0f1ad013b1c08e179ed757b2e72c5a424",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-201-2003-id3157.md",
+      "OID": "bc796ae49d748ef80cd137130f9dc7e4867623c4",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-202-2003-id3158.md",
+      "OID": "3eb95476bf6e5288086d079b9ab85289d8b85fd9",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-203-2003-id3159.md",
+      "OID": "582851ed82eb2335b23a89627aaa4063e4263982",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-204-2003-id3160.md",
+      "OID": "bee7ce93c18f5cbc80f2727b699ad9ee5bdd08bd",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-205-2003-id3161.md",
+      "OID": "3cbc9ccb95e5fc06b97458ae64d5053f13b5c9c8",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-206-2003-id3162.md",
+      "OID": "9e386525aac11eb705741c153b084b946beeaea1",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-207-2003-id3163.md",
+      "OID": "c276c34b718535adeaa46a383454433293aec715",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-208-2003-id3164.md",
+      "OID": "69867540b05b20bdb57f6216c435b68bd55d4701",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-209-2003-id3166.md",
+      "OID": "174514441ffa1c7afdfbf5ce706d1fd24bd7b87e",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-21-2003-id2767.md",
+      "OID": "aa0112356d0620e5af64e559f85d3255967e2b74",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-210-2003-id3167.md",
+      "OID": "0c66fd57c85472e8e40f240e255b6797288ff72b",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-211-2003-id3168.md",
+      "OID": "de04edad756b8b680adc76206bc59a51431022f5",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-212-2003-id3169.md",
+      "OID": "97fce9bf7f47b2902402d266f2a91ef9b9f74a04",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-213-2003-id3170.md",
+      "OID": "5453bdc078975f6b270c729e6e62c11168fb98b0",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-214-2003-id3171.md",
+      "OID": "778ebaa7b8806975e7769159b6ca8a5ee04a099b",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-215-2003-id3165.md",
+      "OID": "f4256fee43cf39a6939075eed33f0ece375ff1cc",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-216-2003-id3172.md",
+      "OID": "0f0adedb3133147e84d4bde410d7e8c7fbca8fd2",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-217-2003-id3173.md",
+      "OID": "dad15cfb8293b4997bda66c7b7253a46e8e65d6f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-218-2003-id3174.md",
+      "OID": "b19242e37bcd4029a420d17f4e29913e47deed0e",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-219-2003-id3175.md",
+      "OID": "3ace3ee4f9c5370c25bbfab1e46e8b6893721c4c",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-22-2003-id2768.md",
+      "OID": "1c6133dab9f4b5070c993820d05d89d7e07206c1",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-220-2003-id3176.md",
+      "OID": "44ca1f0097ebf160f8d19065ea929d38709ee75b",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-221-2003-id3177.md",
+      "OID": "4c2c0b29f3bcb3493a7e3e86acd8b5495945d414",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-222-2003-id3178.md",
+      "OID": "780d7a231ed20ae64f61ffb5fcfbe89f1c7d440f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-223-2003-id3179.md",
+      "OID": "70d6455fceea42509e6529a4e4715dc11bd853c8",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-224-2003-id3180.md",
+      "OID": "dba57bfdd831a7344c620a2be5ddeb25ea712bb9",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-225-2003-id3181.md",
+      "OID": "348bdca450ee32c4a1ca50b697d8b3dafe091f38",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-226-2003-id3182.md",
+      "OID": "d5857dca97225d1c4bdc52933f3f5bc469fd7382",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-227-2003-id3183.md",
+      "OID": "5a210434d2b93a6868786dc11420efab023f58d1",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-228-2003-id3184.md",
+      "OID": "b25e18242cfff5fd2e03e1686872c767d431cc93",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-23-2003-id2769.md",
+      "OID": "6e5b3659373619ad1f20a8b24d9c8b9da606d709",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-24-2003-id2770.md",
+      "OID": "d095e600582f25d6f4590172a13b8a8297f2bd47",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-25-2003-id2771.md",
+      "OID": "1aa3da288b1acb042602a9ee2681cd8da94e58ba",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-27-2003-id2772.md",
+      "OID": "e3f65411cb4d3135b2a30420c5d59715f87bce2b",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-28-2003-id2773.md",
+      "OID": "6318f02feac1b5b53f3564271a561e0fc376d133",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-29-2003-id2774.md",
+      "OID": "513be73ff57e70cab3afedbb9611719093cf5946",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-3-2003-id2749.md",
+      "OID": "6d8d6e2277a5467007069f041677726bb7ebc0e1",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-30-2003-id2775.md",
+      "OID": "1e02c59c144d5855864bf67507dfd6053acc718e",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-31-2003-id2776.md",
+      "OID": "58e17e05bf99bc427330b44f8a9f7fc2b43f2902",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-32-2003-id2777.md",
+      "OID": "1bca3a9d8288057914021a9e68677c000cc5c6d3",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-33-2003-id2778.md",
+      "OID": "f306a8904e282632a6bad623f14a165d72fc8801",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-34-2003-id2779.md",
+      "OID": "076aae83cb7298e0916facb0f326ea8fa5dbf5ac",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-36-2003-id2780.md",
+      "OID": "d1522aeddb544edd092293e6c3f85428bd8dcc73",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-37-2003-id2781.md",
+      "OID": "904381d576e6bb1cf639960be22afde85d91834f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-38-2003-id2782.md",
+      "OID": "73e8bae346d4661ee82cae4b8f36e7d2fb8e1f5b",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-39-2003-id2783.md",
+      "OID": "4fbb2ecfc5592c2c55525ba042230716e2e92f70",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-4-2003-id2750.md",
+      "OID": "13bb266e2ef7eee17245171169aa332818a436c6",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-40-2003-id2784.md",
+      "OID": "a2b0182502e16a5797ba7c2a954cebd922eb9d29",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-41-2003-id2785.md",
+      "OID": "ca4a5f623c022e1a1d9688c5b62fe31ab2551268",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-42-2003-id2786.md",
+      "OID": "c1a9e393d0002eab7db237b44b92c6b087197e1f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-43-2003-id2787.md",
+      "OID": "6e1de0950e4cb7d9bf71028d782d010e5f603ba8",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-44-2003-id2788.md",
+      "OID": "e0c98baa1283506651944d3bd040765eb2cf6783",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-45-2003-id2789.md",
+      "OID": "4cd81b636dc867fd60cc54bdba595fbb5b25161d",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-46-2003-id2790.md",
+      "OID": "021dfe696e832341f038f9cc5d6b5eff8aec848f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-47-2003-id2791.md",
+      "OID": "1d193240e104fdc10cf224dcf3ac5b9ccb5d60cb",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-48-2003-id2792.md",
+      "OID": "c8b2500ee5b249314f1f7f90e8d817479d1ad5ce",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-49-2003-id2793.md",
+      "OID": "907b9611c1bb0336e8d85d6968b019db5a0248c2",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-5-2003-id2751.md",
+      "OID": "99338df26c596ee7273efe2b143b0a2372890953",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-50-2003-id2794.md",
+      "OID": "793702d105adb9964f3a4835d2208a8ee8f8c457",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-51-2003-id2795.md",
+      "OID": "81eb4e0fe7b33ebf682ce175fae4c456af256ed2",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-52-2003-id2796.md",
+      "OID": "b365fd05c898f7771330237985e469a903eb84a8",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-53-2003-id2797.md",
+      "OID": "b32f84288028f15dd23e61010f593858b4603ad5",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-54-2003-id2798.md",
+      "OID": "289a0cd332ef779b080d536a37f764dbb89bca32",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-55-2003-id2799.md",
+      "OID": "27f1ab15f2f879066375d46f0671de8e87e9814e",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-56-2003-id2800.md",
+      "OID": "7f48383315a41faaa698a7b8904ab6254effd128",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-57-2003-id2801.md",
+      "OID": "87a98df179e14af3d9a6a33a7070e580ec6fe547",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-58-2003-id2802.md",
+      "OID": "c9ed23d58688fdf7422714be9535bae1d0eca019",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-59-2003-id2803.md",
+      "OID": "4f02ea035a223b1085c8c9e663221e0dcdda3a6b",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-6-2003-id2752.md",
+      "OID": "483ae1f1d01137aa742caa4f3a88c1d93e0cc400",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-60-2003-id2804.md",
+      "OID": "fb902df0431ee4ed8c70e7840e58ab88e744f6de",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-61-2003-id2805.md",
+      "OID": "4fae3f2007797bd04c575f94a24470d09c35b514",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-62-2003-id2806.md",
+      "OID": "41aff34165fb7ec49834039b5d3072e8a458ceb6",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-63-2003-id2807.md",
+      "OID": "eddedda61699966fba393a12e49e54ddef77d2f8",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-65-2003-id2809.md",
+      "OID": "47a47f0760bd225247f5961bdbda2f854e4e77fd",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-66-2003-id2810.md",
+      "OID": "16661747b3c48b07e18f47c14c9353673ab18c18",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-67-2003-id2811.md",
+      "OID": "545cc9608dc6956fffeb3593ac288a48c8f92b56",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-68-2003-id2812.md",
+      "OID": "85b99643f7b9881a1e3aa94cefe5a9f23127d2c5",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-69-2003-id2813.md",
+      "OID": "ece4c166d09bd850f203393259ff7d72fcabbc35",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-7-2003-id2753.md",
+      "OID": "1bdee81efdf832cae827a97670b10895ef377486",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-70-2003-id2814.md",
+      "OID": "b738d56c90316fda8663e6dfa36fd5a748792674",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-71-2003-id2815.md",
+      "OID": "61c59670ec61bff11b6a2cbdae383ddc4b4fc127",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-72-2003-id2816.md",
+      "OID": "24349847a96f02ecb434f60e19b901f2e7825ed8",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-73-2003-id2817.md",
+      "OID": "8fc766f65076fb5ffc10acfcc3052ee0bb582ae4",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-74-2003-id2818.md",
+      "OID": "eb29f774790a6f076d4dbdb4fa081ca5f9d21c8a",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-75-2003-id2819.md",
+      "OID": "7c86e204c26a86d468aec2a12e12e6b58a3dbeec",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-76-2003-id2820.md",
+      "OID": "8b220f61948f205e31ab87f1481e8c2078f15b1e",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-77-2003-id2821.md",
+      "OID": "eefec2227568901d7800681b2e74bb6bd683c333",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-78-2003-id2822.md",
+      "OID": "a54328b680d89089b3418492b9d7b8dc95385880",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-79-2003-id2823.md",
+      "OID": "b8588bcb6b975c0610b86440c9c47dc6611f55c6",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-8-2003-id2754.md",
+      "OID": "49cbe1c4a2d8a88dcb1c119804b5707d8c67e7ef",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-80-2003-id2824.md",
+      "OID": "b2e60b3b43db9be5de225a488d69acf5c84e0be6",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-81-2003-id2825.md",
+      "OID": "6e3d2a347a3c8cebc12938ca791184907c2a00f1",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-82-2003-id2826.md",
+      "OID": "5e184b22fb0f1597bf2c2151b67ae40e7413429d",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-83-2003-id2827.md",
+      "OID": "f997015b84870a562b0e2d518c646dba915981ca",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-84-2003-id2828.md",
+      "OID": "eac52957022a016b1393428422730bdc3c5ac116",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-85-2003-id2829.md",
+      "OID": "8e79218f2ac962679f6de759c55c7a82b5714667",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-86-2003-id2830.md",
+      "OID": "c1932026793e954bf1f041cb342a277cee02b7ff",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-87-2003-id2831.md",
+      "OID": "c1934006cba48442a05e991c87d9207f3c5aba02",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-88-2003-id2833.md",
+      "OID": "6eea754be2fef26358392ea1e63824047c5d5f83",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-89-2003-id2832.md",
+      "OID": "d487ce2fb367e279e896647af10d4a9e85ac4152",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-9-2003-id2755.md",
+      "OID": "a1015bb4c1dbf767ede25e9849ccb14bc678d222",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-90-2003-id2834.md",
+      "OID": "e120da4ec2336efb6dd486ed505b8954828bcfcd",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-91-2003-id2835.md",
+      "OID": "987ae6e313ffee1056efcd86968199573d7f3e43",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-92-2003-id2836.md",
+      "OID": "c324d84510955ee49d46171124fd247fa3af9d29",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-93-2003-id2837.md",
+      "OID": "2d4f49415d0ff12c3e10117e443a7bd83d96afee",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-94-2003-id2838.md",
+      "OID": "f3456d70dbf638a005980328bec29e9fe58e8f9c",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-95-2003-id2839.md",
+      "OID": "913a23e22a23b9161aeb5792d069c0ad4edbe059",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-96-2003-id2840.md",
+      "OID": "b26c1f400c8281150e4b64ee675f6e06fcd52d0b",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-97-2003-id2841.md",
+      "OID": "ee82a5872aa1dcfc8ce152b6ed5490526fdc1bf0",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-98-2003-id2842.md",
+      "OID": "64ca5493babc3a17e1acf8b9b2fd003dde2353e9",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2003/resolucao-99-2003-id2843.md",
+      "OID": "f8e7cad70faaeffb862e53e93c73e904bd1549c0",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-1-2004-id2076.md",
+      "OID": "c4854cababba41b2550be307ad374c06d9c62c2f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-10-2004-id2085.md",
+      "OID": "9599768131323ea380f1ff3a7b16cf0daf8fe6b4",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-11-2004-id2086.md",
+      "OID": "38c8f57a1162ed320f731d70f848db9cfbf2b411",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-12-2004-id2087.md",
+      "OID": "a439b0573a8f2d24e0c7132ea245687fed6b508c",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-13-2004-id2088.md",
+      "OID": "4d4271b48da9311a35cd7e9465627cfd531f97e7",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-14-2004-id2089.md",
+      "OID": "9656dbb30b92339a64d31d35916463559057c8fc",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-15-2004-id2090.md",
+      "OID": "0f082c34d4069018c197f0ca023e6544d6873a03",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-16-2004-id2091.md",
+      "OID": "17df6965a2d5ff6f3d07f2fee48080b10f23148e",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-17-2004-id2092.md",
+      "OID": "272669e927fa2c5952d89d7d73ef60b95e7f9ae0",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-18-2004-id2093.md",
+      "OID": "d820944a8ce8c53d684b3f4acff555ea7dba7cd9",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-19-2004-id2095.md",
+      "OID": "a519ff745e3e03bf22e9bfadd38a48fe41bd9f6b",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-2-2004-id2077.md",
+      "OID": "2ff1716acad23fe45074fcc64baa14e3007dcf59",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-20-2004-id2094.md",
+      "OID": "451c696b2ca3cb8ed7f1132cf772c3f092f46d3c",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-21-2004-id2097.md",
+      "OID": "3236d2d1958302113226ee10435d7618bde4edfe",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-22-2004-id2098.md",
+      "OID": "6b10699d5c2f64f4ba8e1367f2aa5f52efa01b11",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-23-2004-id2101.md",
+      "OID": "7bdd63955d302272890c5c7bfedadc848b22228e",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-24-2004-id2099.md",
+      "OID": "0523de28f47ba699ea2ccbb8ba0e06c7cfc7f301",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-25-2004-id2100.md",
+      "OID": "17259240af5544e138c6c44366fcb382b4fc07d9",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-26-2004-id2102.md",
+      "OID": "14a6a1f4cba3a6db233666a84bffa8064f004966",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-27-2004-id2104.md",
+      "OID": "f33ad2727f777f1d6be982b4b3ca1c9152cd3b2d",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-28-2004-id2103.md",
+      "OID": "714a53798acbf8a4a55fd55522b2c81f971fbf1f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-29-2004-id2105.md",
+      "OID": "4aba532b9bb0ec696d8249aca6d1ba262dbf7f7d",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-3-2004-id2078.md",
+      "OID": "d1cb2a82ca9c0896c91efb76fce1bb1cdb57ad88",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-30-2004-id2106.md",
+      "OID": "9c13bb9dde78d6952df01cfd657614174f680e42",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-31-2004-id2107.md",
+      "OID": "888e20a64e949c4e655978e0df8cb2ad2e7dc4c6",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-32-2004-id2108.md",
+      "OID": "9f666c5a59b2e89dc3a54e3710b0983324961767",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-33-2004-id2109.md",
+      "OID": "48bce9d6a30492e6fbed9903fb452f2ef5f39e86",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-34-2004-id2110.md",
+      "OID": "c2892061723cea1f7a869c2f285dc9ef24163efb",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-35-2004-id2111.md",
+      "OID": "18d0e092227be57410b31ac3593cc195437f0813",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-36-2004-id2112.md",
+      "OID": "b92ca0794c240658b0719a5a625ca447e7ae52a3",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-37-2004-id2115.md",
+      "OID": "09b671750e731bc42af204a49e018d625d8b0cec",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-38-2004-id2113.md",
+      "OID": "732c12fe63f5db3c32e33228d7e54865d605de70",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-39-2004-id2116.md",
+      "OID": "f3655580c357001416f3c7742240a2c2300a20af",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-4-2004-id2079.md",
+      "OID": "98c718509272a804f7bb62360000f37bc21b5597",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-40-2004-id2114.md",
+      "OID": "0ca50e572ff4ea37a3c6227294de2bf6fede0f28",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-41-2004-id2117.md",
+      "OID": "0659d8de7282d71263ede00c33b08d5e5d116b7c",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-42-2004-id2639.md",
+      "OID": "7704d1ccccec2c07b4a1d18e82395d9d258f180a",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-43-2004-id2640.md",
+      "OID": "5f9c0fd64d2a74502d9fac193220281483087872",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-44-2004-id2641.md",
+      "OID": "7e78fbf28b3d37873764b7b809f65a3830f74a6d",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-46-2004-id2642.md",
+      "OID": "57ac323d55b5a222c6a19445670b9f655b1fc8fa",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-47-2004-id2643.md",
+      "OID": "2dd836fe6c972d2c3c964d5ed400e24bfb96ac51",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-48-2004-id2644.md",
+      "OID": "ec20f08a7a3f7c86da51a23ddab1a3d80e31fb70",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-49-2004-id2646.md",
+      "OID": "70db9f16a2da1794680bc9f94f217237224161eb",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-5-2004-id2080.md",
+      "OID": "2044a10c2690bdcd75d0ed79779e599d73ee8bdb",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-50-2004-id2645.md",
+      "OID": "ccc62df011009ce7563ad811e7ea2efea6a58da0",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-51-2004-id2647.md",
+      "OID": "88cbd347b0bc9a44369db940f3d72268e9855514",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-52-2004-id2648.md",
+      "OID": "09fec8998d5cd4cd76547b365639240b6cf36dcf",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-53-2004-id2649.md",
+      "OID": "37cf743111a6cbf77e90b63929b2fafc49ad92db",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-54-2004-id2650.md",
+      "OID": "1eb86a31f9f005c83f14fbf4c58806ea9f05b2cd",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-55-2004-id2651.md",
+      "OID": "b90cbc163f70742a4245545bc7fce823e2625406",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-56-2004-id2652.md",
+      "OID": "25580740cf0bd2de8efd9f9bad1f6581846bd960",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-57-2004-id2653.md",
+      "OID": "12a9a5d7a5053010b76caace51b196c675b691a2",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-58-2004-id2654.md",
+      "OID": "06d9589ffa95afdd75e1c810821c17efd62f33e9",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-59-2004-id2655.md",
+      "OID": "82062109b0e83a73650d10b211bbbd18c3d912e1",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-6-2004-id2081.md",
+      "OID": "324b5f730a66eca44124b618997838bc10bc7a8d",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-60-2004-id2656.md",
+      "OID": "c502ab235432ba84b8fd6264df68eb33b4803ed4",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-61-2004-id2657.md",
+      "OID": "c527fa193f7b4947e1b5eae2f0f1909d5207809f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-62-2004-id2658.md",
+      "OID": "c17e9dc72030fb4ec3050a8e4a5d2c9b1407977c",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-63-2004-id2659.md",
+      "OID": "1048a18ce0f935c8e3f718942ce9ad87814725f1",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-64-2004-id2660.md",
+      "OID": "253a8517b0b25eb8f0590a6855a6b5592cd47e7a",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-65-2004-id2661.md",
+      "OID": "2e7eeb67f28df66b4018c2a726bd8bfaff88f39b",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-66-2004-id2662.md",
+      "OID": "2a16f2423d61eec1141d827d2568da7a18691f22",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-67-2004-id2663.md",
+      "OID": "5380aa1cf34b0dde34248aa53ee65ac59a27871f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-68-2004-id2664.md",
+      "OID": "33aaa8b1fac9f72e11d12ca25b1b4fc4c02a959d",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-69-2004-id2665.md",
+      "OID": "f94c5a76244db338a50c1cb3dc96497911a68785",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-7-2004-id2082.md",
+      "OID": "f64080772ae67041a13b824fcc5efc92f5de85ff",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-70-2004-id2666.md",
+      "OID": "876ab25763582c5c83860fccfd4791d1e52ccb06",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-71-2004-id2667.md",
+      "OID": "90d415e1da93737ea6f3414407114b95bc17ec41",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-72-2004-id2668.md",
+      "OID": "ced036c72ae7e2201b1973827819a8426a3f4e2b",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-73-2004-id2669.md",
+      "OID": "f4bd0186294f50506a182173f627cb414ca2a5bc",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-74-2004-id2670.md",
+      "OID": "a7930765c6ea5f4bf36ab5d0980b340edc13d483",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-75-2004-id2671.md",
+      "OID": "7d8e2b01588090e29366aac08a6900b2aca01003",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-76-2004-id2672.md",
+      "OID": "a3e7d6daa25ed419a2ddcfaf83af9111f82b1c4d",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-77-2004-id2673.md",
+      "OID": "f549edb8fb5163ccc082e815c6f90e9eb0ab27fd",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-78-2004-id2674.md",
+      "OID": "6b6cbbee3c5241b5256793e642d8e17a7c53e98e",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-79-2004-id2675.md",
+      "OID": "6c59607667e257f68071a12efb940ced9d302753",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-8-2004-id2083.md",
+      "OID": "d91f51f833cdd25aa1feee17b3ba9e5f3f42f238",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-80-2004-id2676.md",
+      "OID": "b8eef28ebcd6b01c7e81769f3bebcf55b747fb5e",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-81-2004-id2677.md",
+      "OID": "8f3d9007c67cfcc295be9910cbfa8829976d388a",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-82-2004-id2678.md",
+      "OID": "e246563c21b11f24f4cfa45282c72530779f961b",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-83-2004-id2679.md",
+      "OID": "81e405e98bbd8c6b9b991013fe35fb1f0b7259e8",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-84-2004-id2680.md",
+      "OID": "e31614e71fa08adde0c7a818b682797155d8db59",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2004/resolucao-9-2004-id2084.md",
+      "OID": "d056ee0dd0b1409f5e1e1f10805c2c6d236c5160",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-1-2005-id2035.md",
+      "OID": "583fb7cce816d5fc7cc08eebd636406ffd7e307f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-10-2005-id2043.md",
+      "OID": "72203b2e670130360ba1cf3faba6ed23fda93811",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-100-2005-id2735.md",
+      "OID": "20802bd2063dcd0f2d5f19ca6513bd89056fd828",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-101-2005-id2736.md",
+      "OID": "90bf36a63725e9de513ddee0654082c977dda681",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-102-2005-id2737.md",
+      "OID": "b3a6d22d25c872410ea10016fded6ac65eaeecf1",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-103-2005-id2738.md",
+      "OID": "684849d874d6fedc3c17a14d57447a3bcf710403",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-104-2005-id2739.md",
+      "OID": "2160205265ae6bc1c00124b117d08d20ef1cc875",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-105-2005-id2740.md",
+      "OID": "854e62aca788620daefd26765160838b2ac3ccc7",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-106-2005-id2741.md",
+      "OID": "c68dd8967a823f6a4410fe35bf93f6f63e2a76e9",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-107-2005-id2742.md",
+      "OID": "aa4bce79ded491f1750fde802a5317414c26a6e2",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-108-2005-id2743.md",
+      "OID": "614da6c5f7b4a1a96259c21c568dc2f60b4e16fb",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-109-2005-id2744.md",
+      "OID": "b407268b94b0cf5209decc1ebd7e3f3f7bafd3a8",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-11-2005-id2044.md",
+      "OID": "95577cb45d1798229cfe6f2a8c484fc1a4c1e81f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-110-2005-id2745.md",
+      "OID": "e17426fbe045ee517d485bb71c8bb024a284e9cf",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-111-2005-id2746.md",
+      "OID": "95058708986ec01f6e1764df18ba1a0a6d16e815",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-12-2005-id2045.md",
+      "OID": "aa1f2ec5e6eadfa00b86d924f787d5280531eac7",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-13-2005-id2046.md",
+      "OID": "7dd96cb0403b2f83e371b30073d0a9beaaeefa66",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-14-2005-id2047.md",
+      "OID": "b1156f0be21ef74286a16eefdffc34202be280d3",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-15-2005-id2048.md",
+      "OID": "e5e40f53809796f635a3cbd5af1ccce93f00b57d",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-16-2005-id2049.md",
+      "OID": "ff9f1d07080d8f50c0835c07fe6c2b70bc3c6595",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-17-2005-id2050.md",
+      "OID": "b540f33ecdd308bf9f12ae3ba78184933948df19",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-18-2005-id2051.md",
+      "OID": "439d00ebf6567cc5d9af3c647faa6f70310ead4d",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-19-2005-id2052.md",
+      "OID": "fe28c30e7578c3db783777ee5ab0ec67a2bcee73",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-2-2005-id2036.md",
+      "OID": "4f545f7023aefd631a23ddaae55db0958cfca79f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-20-2005-id2053.md",
+      "OID": "29257e18eb99dee6f36cd032aad4bad22bbb7958",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-21-2005-id2054.md",
+      "OID": "b13d24a4336e557b7ca556220220345d415e167d",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-22-2005-id2055.md",
+      "OID": "54e53177160de382eb6abf2aadbc6f742ac9885a",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-23-2005-id2056.md",
+      "OID": "515b894476a4eacf3db362b7ccd2dc45eac749f2",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-24-2005-id2057.md",
+      "OID": "e42be68318a9533a939f625323320619e6eb02d6",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-25-2005-id2058.md",
+      "OID": "f7edb6b3b2dcd7a1ef94a7013c48519cc11d8efe",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-26-2005-id2059.md",
+      "OID": "5410a5ff7ac10a422bd72c6d6b92631b413e1f7f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-27-2005-id2060.md",
+      "OID": "15f4dd3c5c8e8e57c25dec800b1c0a9a5df991bd",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-29-2005-id2062.md",
+      "OID": "a7f6565ea9493c3b26ba9751536031db1d241ba0",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-3-2005-id2037.md",
+      "OID": "97c16aa8629ba41ec1c432ad0139525d113d965c",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-31-2005-id2064.md",
+      "OID": "ee9933440ed16a2ccdd06dbd78db84e27a2790fb",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-32-2005-id2065.md",
+      "OID": "9d79b0f428f8fab30f07116cd94011d32abb9087",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-33-2005-id2066.md",
+      "OID": "fe42aba0547c68f0e3536e7fd95b9be0720b9f59",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-34-2005-id2067.md",
+      "OID": "3f83ee1f3e26d46141027bb3026e3b4e06e0215e",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-35-2005-id2068.md",
+      "OID": "554c23523500f4141614c80829c01f968bdf5417",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-36-2005-id2069.md",
+      "OID": "5c38a6de8d4cf7540d81a84b02c5bd0ec477efe6",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-37-2005-id2070.md",
+      "OID": "53e81972a4060451f5a4f1946748d2e88756b283",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-38-2005-id2071.md",
+      "OID": "f15432e7febda1d60912ed7bd1d5daad1f628d6e",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-39-2005-id2072.md",
+      "OID": "e223e09f2a969e3b65312bbf60dc42627090d0ca",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-4-2005-id2038.md",
+      "OID": "b799601bba2dc322bb46bb8e600830bd10778cd9",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-40-2005-id2073.md",
+      "OID": "fa11efb606c2f019a857c634388b21c14e517034",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-41-2005-id2074.md",
+      "OID": "71c6f0aef6dfa8ec3e15b25d6796fceff71d7ca6",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-42-2005-id2075.md",
+      "OID": "d1746a4c683ab76db8d4e08c8d0b37275a3788e3",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-43-2005-id2683.md",
+      "OID": "e272c9c20e1eb0f05644407af49236df3974027c",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-44-2005-id2684.md",
+      "OID": "aac3b99194c0ce341a3ddb8d9ad6b45199158e02",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-45-2005-id2685.md",
+      "OID": "7e160ea298a56a939968a511e73d89a4c71e64a3",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-46-2005-id2686.md",
+      "OID": "55b6f53450a186d647fc224882b88ea03a82cc8f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-47-2005-id2687.md",
+      "OID": "421d44f6b398915e5fb982520aa579268d0f1d22",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-48-2005-id2688.md",
+      "OID": "201ded6ff7fefda61315f212d03ae4d9c6d65e91",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-49-2005-id2689.md",
+      "OID": "c9a99e676cef449e4884a563fc82a8733f509cc0",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-5-2005-id2039.md",
+      "OID": "40f63b6169c091b044afecdd0c87b31142dab59b",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-50-2005-id2690.md",
+      "OID": "071efd8483f3ac95162f825b81d0ccb43c2f562d",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-51-2005-id2691.md",
+      "OID": "3d7858f535f7c3a4338bee3866687ba1573409d7",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-52-2005-id2692.md",
+      "OID": "34e2aff6255cbc82567df05927a2ae793c9a23b8",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-53-2005-id2693.md",
+      "OID": "8e4bb3c949be6f4e8ebb64285aa5ffe05ef4fa27",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-54-2005-id2694.md",
+      "OID": "10730651bf69d47a13cedea162b6116e6df9e74e",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-55-2005-id2695.md",
+      "OID": "5d5f72f3f0007e7cd882e042936ed41e33e4e810",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-56-2005-id2696.md",
+      "OID": "0b45ba2ba7ba0a621a84dbff6a321935cbb830bf",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-57-2005-id2697.md",
+      "OID": "9a161007b39dba87f138d818299972358678148d",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-58-2005-id2698.md",
+      "OID": "5cd4c001ba17f66da4ffbd7b4e0d8005f1b2fc48",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-59-2005-id2699.md",
+      "OID": "372a7487e268f0d26cdaa0f33cf0be5052215777",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-60-2005-id2700.md",
+      "OID": "13d50165da148fe2ef389ef2ede892859ebe21d1",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-61-2005-id2701.md",
+      "OID": "49ae49f241e5dbb68d9cf2ff93f699c96828e70b",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-62-2005-id2702.md",
+      "OID": "141f0a818690fe2b6521dc61898802cadb97bd16",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-63-2005-id2703.md",
+      "OID": "8053f482ad4a93a06615b6eefbd417f7c6dd70b5",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-64-2005-id2704.md",
+      "OID": "2a34b3cc777574d76b384b69f6e6b7b783747323",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-65-2005-id2705.md",
+      "OID": "9244a9ac291ddd6db5c1f197d38011741afd5233",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-66-2005-id2706.md",
+      "OID": "991fb1c04eecf7690eccf9defa69e9b415d01df0",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-67-2005-id2707.md",
+      "OID": "a81153af2a176673cf2f2b7e08e9bd643a7cea95",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-68-2005-id2708.md",
+      "OID": "25c11c240b84a04681b9b5db898b81b4bad82537",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-69-2005-id2709.md",
+      "OID": "54e1e08c08a3699d89bd0cf149a2a08264ca98f2",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-7-2005-id2040.md",
+      "OID": "4f32dde23535e3b691978fff30fa242897e3199c",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-70-2005-id2710.md",
+      "OID": "4f7f3810a76270cb4380325c32ba2b3abfabbc48",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-71-2005-id2711.md",
+      "OID": "ef4948b4fbdb3c78d1fc1f993b414f7352b3dc9b",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-72-2005-id2712.md",
+      "OID": "81839f073f0c7a558637bab3caa237fe854f087f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-73-2005-id2713.md",
+      "OID": "136058bb9dffb6faf87a039018f9cf15c1f30645",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-75-2005-id2714.md",
+      "OID": "ba5613ab22983d46361f1c13b9cb7a5237a5c077",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-76-2005-id2715.md",
+      "OID": "3c0340a579d1e49d01af05c9fb11aa33cb2de293",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-77-2005-id2716.md",
+      "OID": "3c4524c3f498863914be70bad1f93e480bcc06e7",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-78-2005-id2717.md",
+      "OID": "100ae2a3c68a8fa9175b1468e10ea345e62058eb",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-79-2005-id2718.md",
+      "OID": "d318ac4317c0596e771da755ff9ec96f8563e8e3",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-8-2005-id2041.md",
+      "OID": "869a425b03bd1b43e8a855ccb0bec715186655a4",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-80-2005-id2719.md",
+      "OID": "ae88649496dc58b67181bf1b41d59cd65a8f38ef",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-81-2005-id2720.md",
+      "OID": "19e3d1f55bed09d324d7eea0a1db17bb41181522",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-82-2005-id2721.md",
+      "OID": "70e16d9eb2215dd7d773bfed38118944bca867f3",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-83-2005-id2722.md",
+      "OID": "84e0f3352dfa74eaccba12694e923a5f326dfa68",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-84-2005-id2723.md",
+      "OID": "132e8429ded1ae65b3a80e07288a0856f4b05b45",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-85-2005-id2724.md",
+      "OID": "a9d764ad1c70fd2ce82f4d8fdcd9262d293e4c6a",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-88-2005-id2725.md",
+      "OID": "a1393e9fa094e4a3a8fb95d0d5166ba326a067ad",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-89-2005-id2726.md",
+      "OID": "90a79bc6dc616d3945ddcc3847191a38eef5f60e",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-9-2005-id2042.md",
+      "OID": "1df0c0279b506db64e4ed1fa21697359fe978aff",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-90-2005-id2727.md",
+      "OID": "efac02c895135048e8336ea1124d4cab2dc48216",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-92-2005-id2728.md",
+      "OID": "c9b86cde899c16c902c00cb96ca97b3bd6732c95",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-93-2005-id2729.md",
+      "OID": "891a5b69c0b9b69f0ada822887e58e00d652fde6",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-94-2005-id2730.md",
+      "OID": "e0a532a04fe4e506c5e7ceec5498a2ca8196d913",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-95-2005-id2731.md",
+      "OID": "0d1e6481a31897f550afa078dc4e98bafd192279",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-97-2005-id2732.md",
+      "OID": "ffb65b97f88d7ce83afea0ef39ec452ae1743431",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-98-2005-id2733.md",
+      "OID": "9afb479122841b699b620929ca1883bd7890421d",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2005/resolucao-99-2005-id2734.md",
+      "OID": "d876c1d34ab4e8eb579cb9eb4041a60042c41389",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-1-2006-id2118.md",
+      "OID": "8f981a798e839ead7a6fc0906ccc238149b39502",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-10-2006-id2126.md",
+      "OID": "2cc5c41fc200e49491c9f946e421832a3bcc3ae5",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-100-2006-id2209.md",
+      "OID": "bdbafc38768f22817d98682aeed5180b57131562",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-101-2006-id2210.md",
+      "OID": "2c88db11032a8254d0f3e1cf7a6d8a0ad71727d1",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-102-2006-id2211.md",
+      "OID": "8e457053bad84948d4c68567633d592856fa52e4",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-103-2006-id2212.md",
+      "OID": "fd414e8f014de5cce9e96ec865000db5eb8c1268",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-104-2006-id2213.md",
+      "OID": "775bbe930d5e14edf5ebb6f4f16dc937772a9d44",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-105-2006-id2214.md",
+      "OID": "b96d532c5caf06d824041d6b49cd08be6538fd8f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-11-2006-id2127.md",
+      "OID": "ba13e8379b837db1983826ee2a7b0b1a874f1aad",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-12-2006-id2128.md",
+      "OID": "5b8899107c16ca22a98a57af5ef28e6a4f52aacf",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-13-2006-id2129.md",
+      "OID": "6bc77d487c1b956a31147f6e0905e505b72d1bb4",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-14-2006-id2130.md",
+      "OID": "72b28aa3867eb6a6d642ee741b2d2d6cfd148a26",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-15-2006-id2131.md",
+      "OID": "6548b42c7fbbb0c0a65253dd37a98596815f0c1f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-16-2006-id2132.md",
+      "OID": "f0b05c05bbfd499706eda3c0441ae607dccb39d9",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-17-2006-id2133.md",
+      "OID": "ad3190944da0403361b94701831260ef9a870df0",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-18-2006-id2134.md",
+      "OID": "af75e818734df358dba4e9266bc7a176537c5772",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-19-2006-id2135.md",
+      "OID": "4c0c33c24cbacf65879898932aba2e5490cb7961",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-2-2006-id2139.md",
+      "OID": "e9b59289156def90b3a89b32b1050df58501a244",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-20-2006-id2136.md",
+      "OID": "b07d41470a67a355f3c9d79951f0b96c131c4d21",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-21-2006-id2137.md",
+      "OID": "f44517a7f08c343091dad4bf862e59184036b78f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-22-2006-id2138.md",
+      "OID": "7df2c6de6aa10b1cf8b973b28507c32fea62d840",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-28-2006-id2061.md",
+      "OID": "550c182770f4de97fe3aba399256353fa075450f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-3-2006-id2119.md",
+      "OID": "30610b5cda1158da6f9f997e974e2b140369d1e1",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-30-2006-id2063.md",
+      "OID": "95f9f01059576f5ac600050305fd006e74965a01",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-31-2006-id2140.md",
+      "OID": "f0f70273b6924c463141091f516086d9091d5b71",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-32-2006-id2141.md",
+      "OID": "2a576ef7d066cb5ec75f908e2041fe487dbddc10",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-33-2006-id2142.md",
+      "OID": "d02bbfa660d84475a1172684d87e052d4fae6faa",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-34-2006-id2143.md",
+      "OID": "acf48b13a0f3683b1f7c05ffa9c5dd3f9285a28a",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-35-2006-id2144.md",
+      "OID": "798625a878ec7f63ed1417f36d1e50b058d67b9c",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-36-2006-id2145.md",
+      "OID": "10f7012c9eef1ee47309b5e0a154aba2c2f3813c",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-37-2006-id2146.md",
+      "OID": "d7709bc9c22e5a8e0579cdb162e25ba7494add2f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-38-2006-id2147.md",
+      "OID": "0d601bd9b0347c2259f0f7631e09a9b426d843cd",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-39-2006-id2148.md",
+      "OID": "3d102d07d51d0dba434abb7e9397436455d8972c",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-4-2006-id2120.md",
+      "OID": "2fe56f0679f1e2ac041a08e1161bffede5dec0e1",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-40-2006-id2149.md",
+      "OID": "48213d10e746e86fc35509edc56e47627345f1a0",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-41-2006-id2150.md",
+      "OID": "548680622a690c009f0bc6181f748de8a09297bd",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-42-2006-id2151.md",
+      "OID": "96d424da212eb0092ede238b0e6ffd1801540ed3",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-43-2006-id2152.md",
+      "OID": "ec6ec2586c131057921d368bde49c7e4e99bc9e5",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-44-2006-id2153.md",
+      "OID": "30c08566d7a2232a3949862bfb871cdc2fdeee22",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-45-2006-id2154.md",
+      "OID": "8ab941f5197f1f39d5e506915c54fbf954ecc5b4",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-46-2006-id2155.md",
+      "OID": "a0be986ddfa30887fc146ed3d4950f45db15f582",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-47-2006-id2156.md",
+      "OID": "b014725f69483ad2fba55781de2674d4e140e9f5",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-48-2006-id2157.md",
+      "OID": "6fe5502a6a59c80ba6e27dc5dbb66fd3bfffd22e",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-49-2006-id2158.md",
+      "OID": "17bb4852b4a8d72c756c671a475c92130026cd2f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-5-2006-id2121.md",
+      "OID": "7f02949bd1e7649b18499f22aca7c2360c6791a2",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-50-2006-id2159.md",
+      "OID": "8bbb0884f9ff8086faa7c8bf7f7fb21b47ea65b7",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-51-2006-id2160.md",
+      "OID": "6a7aa7785db564385de36ee08728fc8424080f75",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-52-2006-id2161.md",
+      "OID": "1aa1d777289e43d9d8132e752013315db72a6fe1",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-53-2006-id2162.md",
+      "OID": "e27e3c62a100f552261375912c48a4627c66262d",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-54-2006-id2163.md",
+      "OID": "e8b4b2bccd1cec474f9c651d7c839fcb821b7a46",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-55-2006-id2164.md",
+      "OID": "f1e0496a0bf7020bfa710bb42b1d951a7381a9f7",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-56-2006-id2165.md",
+      "OID": "1d85e729cf222bc439a58d4a2a0182c87606ea75",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-57-2006-id2166.md",
+      "OID": "2738a48c74073f49d60c04e44fe0448e7075b973",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-58-2006-id2167.md",
+      "OID": "eea136256921f7322425c2c7f6df34f64bbc4053",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-59-2006-id2168.md",
+      "OID": "afc905b26a78bea8b144b579d552c94e88dae7fc",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-6-2006-id2122.md",
+      "OID": "676d8ec117ce663cc8fb6379d1f8c961b3683fee",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-60-2006-id2169.md",
+      "OID": "d4071f585105ecc131edd845a9dccfa368b611d5",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-61-2006-id2170.md",
+      "OID": "d89d90e9abc21f1d84387b0ac91f8c712e6fcfac",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-62-2006-id2171.md",
+      "OID": "62e5f6821a51cf67cd21a4e1e22480ee7f4fc5c6",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-63-2006-id2172.md",
+      "OID": "1aa942f308f2a6dc2dba73e3cf2302da791b5921",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-64-2006-id2173.md",
+      "OID": "5fec82eef2b29c7be17273dae2b8b126e576c8f3",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-65-2006-id2174.md",
+      "OID": "877ba0f9526fa5ba17f5387befb84fef2ce4895a",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-66-2006-id2175.md",
+      "OID": "661d50dcd24abcc253963021bea5f4df5813fd60",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-67-2006-id2176.md",
+      "OID": "d73eb00f6d97deb8ac3aa5f129dea1c795918088",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-68-2006-id2177.md",
+      "OID": "105e35368c579ff1f5d40fdc7c48172f03a2bf45",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-69-2006-id2178.md",
+      "OID": "b543f5d890d70bb87a82791f31141dbc44b2f10a",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-7-2006-id2123.md",
+      "OID": "6e1dbded6207d276ac26fc08d3e0722169c27884",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-70-2006-id2179.md",
+      "OID": "2bbefa110a5232a47177787277a1e7a52c0e878f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-71-2006-id2180.md",
+      "OID": "132e2381e0b5a1ca890f807331a2b3adb5319d52",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-72-2006-id2181.md",
+      "OID": "da1df8e1bf0612ec0bde83dda4d9ebf289b96e3d",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-73-2006-id2182.md",
+      "OID": "7261e4f23d7dd22752973b0562d9233f73e80591",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-74-2006-id2183.md",
+      "OID": "73d1bf0120283f281fd4994089aa60a3a00b7d23",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-75-2006-id2184.md",
+      "OID": "4712b8a25ed507478f490c1ef2488fbd83245974",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-76-2006-id2185.md",
+      "OID": "40965e442c6c937b68432b3e8f314a0987e44154",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-77-2006-id2186.md",
+      "OID": "8389dae8df6b6bd3558638c6b061599d3649b2e8",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-78-2006-id2187.md",
+      "OID": "77ba5b9ed8b7d046d3c27cbed7073a28a969da5b",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-79-2006-id2188.md",
+      "OID": "d1bf2f21fa3e837c9c699889b2857411d18a4753",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-8-2006-id2124.md",
+      "OID": "8ddc3f2cd1dc2cf835b5d3204f1d000441fb6f16",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-80-2006-id2189.md",
+      "OID": "f7a2e5cf9be85f339e57b38bb69e6e6a65e5070b",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-81-2006-id2190.md",
+      "OID": "bd8d7ffff0dac758dfe67fa641e6e216189423fa",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-82-2006-id2191.md",
+      "OID": "7f1c72d16cf8a1cba45c1acc7ade0f262fe80a4f",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-83-2006-id2192.md",
+      "OID": "b13fbcbd9e2a88339bb2d85225e871c0bf5213b5",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-84-2006-id2193.md",
+      "OID": "c8bf7b585367c9a3160461f34d0f89860d431334",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-85-2006-id2194.md",
+      "OID": "1328cd5c4663d8a4eb2a8fed6b3e0865141f2761",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-86-2006-id2195.md",
+      "OID": "928ad7bf7b60db0bd01402fcb755f2ee8b520854",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-87-2006-id2196.md",
+      "OID": "761812f4cc13b7fde6bb5ab3bf1cd8ea9293f473",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-88-2006-id2197.md",
+      "OID": "66976b4a7cdb686ea29fe1d04073babb5ad26caa",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-89-2006-id2198.md",
+      "OID": "cc473e22f36db4ff588d59d884b3c3b60a289a04",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-9-2006-id2125.md",
+      "OID": "c9ab4742f33c623576ffc7a94eaf541442bb31da",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-90-2006-id2199.md",
+      "OID": "6d1a0edc081fd4b99fb6821614e80e3e54ee96bf",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-91-2006-id2200.md",
+      "OID": "09f593801077ffb2ff7aafbbd89a2505a1070643",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-92-2006-id2201.md",
+      "OID": "61c573c63841296c6b3a39699c381d8e55f9db0d",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-93-2006-id2202.md",
+      "OID": "933842829bfa4b6d7bf57ae39b5b0f99ced0035e",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-94-2006-id2203.md",
+      "OID": "aa31a95a2eeadd551ce465eff685758e0c84d2f0",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-95-2006-id2204.md",
+      "OID": "d35f82e256dc23b585295c1334587a8a386bbcd3",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-96-2006-id2205.md",
+      "OID": "700c29e0197836dbaa66d415812aca2a4db4caff",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-97-2006-id2206.md",
+      "OID": "b26df8518dcde205702fb31a3d106dd486e0aae9",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-98-2006-id2207.md",
+      "OID": "591c382520212e7427b03cdd4004147559066bb0",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    },
+    {
+      "path": "estaduais/AC/resolucoes/2006/resolucao-99-2006-id2208.md",
+      "OID": "f4030d7f649bd263678b3b46cef417f6d83e97ca",
+      "motivo": "fora das pastas de leis ou número não disponível; nenhum conteúdo reclassificado"
+    }
+  ]
+}

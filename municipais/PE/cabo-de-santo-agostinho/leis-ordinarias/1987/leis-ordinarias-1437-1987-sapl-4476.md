@@ -1,0 +1,77 @@
+---
+titulo: "Lei Ordinária nº 1.437, de 16 de julho de 1987"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1437"
+data: "1987-07-16"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/4476"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/4517/text"
+sha256_fonte: "adf7840cebff41987d1caaadc58c659e96bc2d374ec3d4f119827cb204638a01"
+sha256_texto: "0b27068e3d26ea78cfe527061b04cbfec9b2e6291c4c0ca2347ef18186a10db7"
+capturado_em_fonte: "2026-10-27T22:02:36.756173-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.437, de 16 de julho de 1987
+
+AUTORIZA O CHEFE DO PODER EXECUTIVO A CONTRATAR FINANCIAMENTO COM O BANCO DO NORDESTE DO BRASIL (BNB), E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O Prefeito do Município do Cabo, Estado de Pernambuco, Sr. ELIAS GOMES DA SILVA, no uso de suas atribuições legais;
+
+Faço a saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei.
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo autorizado a contratar junto ao BANCO DO NORDESTE DO BRASIL S/A (BNB) Operação de Crédito no valor de até 13.676 OTN, equivalentes nesta data a Cz$ 3.440.335,00 (Três milhões, quatrocentos e quarenta mil, trezentos e trinta e cinco cruzados), por prazo não superior a 05 (cinco) anos, juros, reajuste monetário e demais encargos e condições a serem estabelecidas pelo BNB.
+
+
+Parágrafo único
+
+O reajuste monetário será calculado com base nos mesmos índices de variação das Obrigações do Tesouro Nacional (OTN), ou com base em outros critérios que, em substituição, vierem a ser fixados pelas Autoridades Monetárias do País.
+
+
+Art. 2º.
+
+Os recursos oriundos da Operação de Crédito a que se refere o Art. 1º, serão aplicados na aquisição de 04 (quatro) caminhões Caçamba, destinados à coleta de lixo.
+
+
+Art. 3º.
+
+Em garantia e como meio de pagamento do financiamento, o Município cederá ao BNB, em caráter irrevogável e irretratável, parcelas de quotas do Fundo de Participação dos Municípios (FPM), as quais ficam vinculadas à Operação de Crédito, até a total liquidação, em montantes necessários para amortizar a principal da dívida reajustada monetariamente e pagar os acessórios devidos, na forma de legislação em vigor.
+
+
+Art. 4º.
+
+Para tornar efetiva a garantia de que trata o artigo anterior, fica o BANCO DO BRASIL S/A., ou outra repartição pagadora competente, expressa e irrevogavelmente autorizado a reter os referidos recursos em favor do BNB, podendo este, na qualidade de mandatário do Município, utilizá-los no pagamento do que lhe for devido por força do contrato da operação mencionada no artigo 1º.
+
+
+Art. 5º.
+
+Anualmente, a partir da proposta orçamentária para 1987, o Orçamento Anual consignará verbas próprias para a amortização das prestações de principal e pagamento dos acessórios da dívida, bem como atender os compromissos da contrapartida de recursos na fase de execução do projeto.
+
+
+Art. 6º.
+
+Fica o Chefe do Poder Executivo também autorizado a abrir, em adicional ao Orçamento vigente, créditos especiais até a importância de Cz$ 10.321.005,00 (Dez milhões, trezentos e vinte e um mil e cinco cruzados), destinados a fazer face a pagamentos de obrigações decorrentes da operação de crédito a que se refere o artigo 1º e que venham a se vencer neste exercício, bem como para assegurar a participação de recursos próprios no financiamento das inversões previstas no Artigo 2º desta Lei.
+
+
+Art. 7º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+PALÁCIO CONDE DA BOA VISTA, 16 de julho de 1987.
+
+**ELIAS GOMES DA SILVA**
+
+PREFEITO
+

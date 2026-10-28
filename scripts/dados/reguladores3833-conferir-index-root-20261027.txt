@@ -1,0 +1,8 @@
+from pathlib import Path
+import subprocess,json,hashlib
+sha=lambda b:hashlib.sha256(b).hexdigest();proof=Path('scripts/dados/reguladores3833-selecao-final-root-20261021.json');h=json.loads(proof.read_text())['sha256'];h[str(proof)]=sha(proof.read_bytes());staged=set(subprocess.check_output(['git','diff','--cached','--name-only','-z']).decode().strip('\0').split('\0'));assert staged<=h.keys(),staged-h.keys();p=subprocess.Popen(['git','cat-file','--batch'],stdin=subprocess.PIPE,stdout=subprocess.PIPE)
+for path,digest in h.items():
+ assert sha(Path(path).read_bytes())==digest,path
+ p.stdin.write((':'+path+'\n').encode());p.stdin.flush();header=p.stdout.readline().split();assert len(header)==3 and header[1]==b'blob',(path,header);data=p.stdout.read(int(header[2]));assert p.stdout.read(1)==b'\n' and sha(data)==digest,path
+p.stdin.close();assert p.wait()==0
+Path('_fonte/operacao_root_20261027/reguladores3833-hashes.json').write_text(json.dumps(h,ensure_ascii=False,indent=2)+'\n');print('index e disco',len(h),'alterados',len(staged),'conferidos')

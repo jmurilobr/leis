@@ -1,0 +1,959 @@
+
+/* - estilos_leis.css - */
+
+/* - estilos_leis.css - */
+
+/* - estilos_leis.css - */
+/* Style Definitions */
+
+#content .documentFirstHeading{
+display:none;
+}
+#content p.MsoNormal, #content li.MsoNormal, #content div.MsoNormal {
+	margin:0;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	}
+
+#content h1{ 
+	margin:0;
+	margin-bottom:.0001pt;
+	text-align:center;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-weight:normal;}
+#content p.MsoHeading7, #content li.MsoHeading7, #content div.MsoHeading7 {
+	margin-top:12.0pt;
+	margin-right:0;
+	margin-bottom:3.0pt;
+	margin-left:0;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	}
+#content a:link, #content span.MsoHyperlink
+	{
+	color:blue;
+	text-decoration:underline;}
+#content a:visited, span.MsoHyperlinkFollowed
+	{
+	color:purple;
+	text-decoration:underline;}
+	
+#content p.AcordoTipo, #content li.AcordoTipo,#content  div.AcordoTipo
+	{margin-top:18.0pt;
+	margin-right:0cm;
+	margin-bottom:18.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:10.0pt;
+	font-family:Arial;
+	letter-spacing:3.5pt;}
+	
+#content p.DataPublicao, #content li.DataPublicao, #content div.DataPublicao
+	{margin-top:0cm;
+	margin-right:4.0cm;
+	margin-left:0pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:Arial;
+	color:red;
+	font-weight:bold;}
+	
+#content p.Ementa, #content li.Ementa, #content div.Ementa
+	{margin-top:18.0pt;
+	margin-right:0cm;
+	margin-bottom:15.0pt;
+	margin-left:7.0cm;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+	
+#content p.NovaRedao, #content li.NovaRedao, #content div.NovaRedao
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:99.25pt;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:Arial;}
+	
+#content p.RedaoAnt, #content li.RedaoAnt, #content div.RedaoAnt
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:4.0cm;
+	text-align:justify;
+	text-indent:34.0pt;
+	font-size:10.0pt;
+	font-family:Arial;
+	color:green;}
+	
+#content p.RemissoAnt, #content li.RemissoAnt, #content div.RemissoAnt
+	{margin-top:3.0pt;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:4.0cm;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:Arial;
+	color:green;
+	font-weight:bold;}
+	
+#content p.Remisso, #content li.Remisso, #content div.Remisso
+	{
+	margin-top:3.0pt;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:Arial;
+	color:red;}
+	
+#content p.Subtitulo,#content  li.Subtitulo, #content div.Subtitulo
+	{margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:10.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+	
+#content p.Tabeladireita, #content li.Tabeladireita,#content  div.Tabeladireita
+	{margin-top:1.4pt;
+	margin-right:0cm;
+	margin-bottom:1.4pt;
+	margin-left:0cm;
+	text-align:right;
+	font-size:9.0pt;
+	font-family:Arial;}
+	
+#content p.Tabeladireitaverde,#content  li.Tabeladireitaverde,#content  div.Tabeladireitaverde
+	{margin-top:1.4pt;
+	margin-right:0cm;
+	margin-bottom:1.4pt;
+	margin-left:0cm;
+	text-align:right;
+	font-size:9.0pt;
+	font-family:Arial;
+	color:green;}
+	
+#content p.Tabelaesquerda, #content li.Tabelaesquerda, #content div.Tabelaesquerda
+	{margin-top:1.4pt;
+	margin-right:0cm;
+	margin-bottom:1.4pt;
+	margin-left:0cm;
+	font-size:9.0pt;
+	font-family:Arial;}
+	
+#content p.Tabelaesquerdaverde,#content  li.Tabelaesquerdaverde,#content  div.Tabelaesquerdaverde
+	{margin-top:1.4pt;
+	margin-right:0cm;
+	margin-bottom:1.4pt;
+	margin-left:0cm;
+	font-size:9.0pt;
+	font-family:Arial;
+	color:green;}
+	
+#content p.Tabelajustificado, #content li.Tabelajustificado,#content  div.Tabelajustificado
+	{margin-top:1.4pt;
+	margin-right:0cm;
+	margin-bottom:1.4pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:9.0pt;
+	font-family:Arial;}
+	
+#content p.Tabelajustificadoverde, #content li.Tabelajustificadoverde, #content div.Tabelajustificadoverde
+	{margin-top:1.4pt;
+	margin-right:0cm;
+	margin-bottom:1.4pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:9.0pt;
+	font-family:Arial;
+	color:green;}
+	
+#content p.TabelaSubtitulo,#content  li.TabelaSubtitulo,#content  div.TabelaSubtitulo
+	{margin-top:1.4pt;
+	margin-right:0cm;
+	margin-bottom:1.4pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:9.0pt;
+	font-family:Arial;}
+	
+#content p.TabelaSubtituloverde,#content  li.TabelaSubtituloverde, #content div.TabelaSubtituloverde
+	{margin-top:1.4pt;
+	margin-right:0cm;
+	margin-bottom:1.4pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:9.0pt;
+	font-family:Arial;
+	color:green;}
+	
+#content p.TextoAcordo, #content li.TextoAcordo, #content div.TextoAcordo
+	{margin-top:3.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:2.0cm;
+	font-size:10.0pt;
+	font-family:Arial;}
+	
+#content p.TituloAcordo,#content  li.TituloAcordo,#content  div.TituloAcordo
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:18.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:14.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+
+#content div.Section1
+	{page:Section1;}
+ /* List Definitions */
+
+#content ol{margin-bottom:0;}
+#content ul{margin-bottom:0;}
+
+#content p.MsoHeader,#content li.MsoHeader,#content div.MsoHeader
+	{margin:0;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+
+
+
+
+
+#content p.MsoNormal,#content  li.MsoNormal,#content  div.MsoNormal
+	{
+	margin:0;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+#content h1
+	{
+	margin:0;
+	margin-bottom:.0001pt;
+	text-align:center;
+	page-break-after:avoid;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	font-weight:normal;}
+#content p.MsoHeader,#content  li.MsoHeader, #content div.MsoHeader
+	{margin:0;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+#content p.MsoFooter, #content li.MsoFooter,#content  div.MsoFooter
+	{margin:0;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+#content p.MsoBodyText,#content  li.MsoBodyText,#content  div.MsoBodyText
+	{margin:0;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+#content p.MsoBodyTextIndent,#content  li.MsoBodyTextIndent,#content  div.MsoBodyTextIndent
+	{margin-top:0;
+	margin-right:0;
+	margin-left:48.2pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:-48.2pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+#content p.MsoBodyText2, #content li.MsoBodyText2, #content div.MsoBodyText2
+	{margin:0;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+#content p.MsoBodyTextIndent2,#content  li.MsoBodyTextIndent2,#content  div.MsoBodyTextIndent2
+	{margin-top:0;
+	margin-right:0;
+	margin-left:71.25pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+
+#content p.MsoBodyTextIndent3,#content  li.MsoBodyTextIndent3,#content  div.MsoBodyTextIndent3
+	{margin-top:0;
+	margin-right:0;
+	margin-left:8.0;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Arial Narrow";}
+
+#content a:visited,#content  span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+
+#content p.MsoHeading8, #content li.MsoHeading8,#content  div.MsoHeading8
+	{
+	margin:0;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+
+
+
+#content p.MsoBlockText, #content li.MsoBlockText,#content  div.MsoBlockText
+	{margin-top:0;
+	margin-right:-21.3pt;
+	margin-left:8.0;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+
+#content p.MsoDocumentMap,#content  li.MsoDocumentMap, #content div.MsoDocumentMap
+	{
+	margin-bottom:.0001pt;
+	background:navy;
+	font-size:12.0pt;
+	font-family:Tahoma;}
+
+#content p.Titulo,#content  li.Titulo, #content div.Titulo
+	{
+	margin:0;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:11.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+
+#content p.DataDoe,#content  li.DataDoe,#content  div.DataDoe
+	{
+	margin:0;
+	margin-bottom:.0001pt;
+	text-align:center;
+	font-size:8.0pt;
+	font-family:Arial;}
+
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+
+
+#content ol
+	{margin-bottom:0;}
+#content ul
+	{margin-bottom:0;}
+
+#content *{line-height:normal;}
+
+
+
+
+#content p.MsoToc1, #content li.MsoToc1,#content  div.MsoToc1
+	{margin-top:6.0pt;
+	margin-right:0;
+	margin-bottom:6.0pt;
+	margin-left:0;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	text-transform:uppercase;
+	font-weight:bold;}
+#content  p.MsoToc2,#content  li.MsoToc2,#content  div.MsoToc2
+	{margin:0;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	font-variant:small-caps;}
+#content  p.MsoToc3, #content  li.MsoToc3,#content  div.MsoToc3
+	{margin-top:0;
+	margin-right:0;
+	margin-left:10.0pt;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	font-style:italic;}
+#content  p.MsoToc4,#content  li.MsoToc4,#content  div.MsoToc4
+	{
+	margin-top:0;
+	margin-right:0;
+	margin-left:20.0pt;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Times New Roman";}
+#content p.MsoToc5, #content li.MsoToc5,#content  div.MsoToc5
+	{margin-top:0;
+	margin-right:0;
+	margin-left:30.0pt;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Times New Roman";}
+
+#content p.MsoToc6,#content  li.MsoToc6, #content div.MsoToc6
+	{margin-top:0;
+	margin-right:0;
+	margin-left:40.0pt;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Times New Roman";}
+
+#content p.MsoToc7,#content  li.MsoToc7,#content  div.MsoToc7
+	{margin-top:0;
+	margin-right:0;
+	margin-left:50.0pt;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Times New Roman";}
+
+#content p.MsoToc8,#content  li.MsoToc8,#content  div.MsoToc8
+	{margin-top:0;
+	margin-right:0;
+	margin-left:60.0pt;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Times New Roman";}
+#content p.MsoToc9,#content  li.MsoToc9,#content  div.MsoToc9
+	{margin-top:0;
+	margin-right:0;
+	margin-left:70.0pt;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Times New Roman";}
+
+#content p.MsoHeader,#content  li.MsoHeader, #content div.MsoHeader
+	{margin:0;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+
+#content p.MsoFooter,#content  li.MsoFooter,#content  div.MsoFooter
+	{margin:0;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+
+#content p.Lei,#content  li.Lei,#content  div.Lei
+	{margin-top:0;
+	margin-right:0;
+	margin-bottom:6.0pt;
+	margin-left:0;
+	text-align:justify;
+	text-indent:36.0pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+
+#content p.alterao, #content li.alterao,#content  div.alterao
+	{margin-top:0;
+	margin-right:0;
+	margin-left:2.0;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	color:red;}
+
+#content p.Azul,#content  li.Azul,#content  div.Azul
+	{margin-top:0;
+	margin-right:0;
+	margin-bottom:6.0pt;
+	margin-left:0;
+	text-align:justify;
+	text-indent:36.0pt;
+	font-size:14.0pt;
+	font-family:"Footlight MT Light";
+	color:blue;}
+
+
+#content p.MsoList, #content  li.MsoList, #content div.MsoList
+	{margin-top:0;
+	margin-right:0;
+	margin-bottom:6.0pt;
+	margin-left:0;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:Calibri;}
+
+
+
+#content p.A1-1TituloAcordo, #content li.A1-1TituloAcordo,#content div.A1-1TituloAcordo
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:18.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:14.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+
+#content p.A1-2TituloAcordoDP, #content li.A1-2TituloAcordoDP,#content div.A1-2TituloAcordoDP
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:14.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+#content p.A2DataPublicacao, #content li.A2DataPublicacao,#content div.A2DataPublicacao
+	{margin-top:0cm;
+	margin-right:4.0cm;
+	margin-left:0pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:Arial;
+	color:red;
+	font-weight:bold;}
+#content p.A3Ementa,#content li.A3Ementa,#content div.A3Ementa
+	{margin-top:18.0pt;
+	margin-right:0cm;
+	margin-bottom:15.0pt;
+	margin-left:7.0cm;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+
+#content p.A4AcordoTipo,#content li.A4AcordoTipo,#content div.A4AcordoTipo
+	{margin-top:18.0pt;
+	margin-right:0cm;
+	margin-bottom:18.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:10.0pt;
+	font-family:Arial;
+	letter-spacing:3.5pt;}
+
+#content p.A5-1TextoAcordo,#content li.A5-1TextoAcordo,#content div.A5-1TextoAcordo
+	{margin-top:3.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:2.0cm;
+	font-size:10.0pt;
+	font-family:Arial;}
+	
+#content p.A5-2NovaRedacao,#content li.A5-2NovaRedacao,#content div.A5-2NovaRedacao
+	{
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:99.25pt;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:Arial;}
+
+#content p.A6-1Subtitulo,#content li.A6-1Subtitulo,#content div.A6-1Subtitulo
+	{margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:10.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+
+#content p.A6-2SubtituloDP,#content li.A6-2SubtituloDP, #content div.A6-2SubtituloDP
+	{margin-top:3.0pt;
+	margin-right:0cm;
+	margin-bottom:18.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:10.0pt;
+	font-family:Arial;}
+
+#content p.A7-1TabelaSubtitulo,#content li.A7-1TabelaSubtitulo, #content div.A7-1TabelaSubtitulo
+	{margin-top:1.4pt;
+	margin-right:0cm;
+	margin-bottom:1.4pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:9.0pt;
+	font-family:Arial;}
+
+#content p.A7-2Tabelajustificado, #content li.A7-2Tabelajustificado,#content div.A7-2Tabelajustificado
+	{margin-top:1.4pt;
+	margin-right:0cm;
+	margin-bottom:1.4pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:9.0pt;
+	font-family:Arial;}
+
+#content p.A7-3Tabelaesquerda,#content  li.A7-3Tabelaesquerda,#content  div.A7-3Tabelaesquerda
+	{margin-top:1.4pt;
+	margin-right:0cm;
+	margin-bottom:1.4pt;
+	margin-left:0cm;
+	font-size:9.0pt;
+	font-family:Arial;}
+
+#content p.A7-4Tabeladireita,#content li.A7-4Tabeladireita,#content div.A7-4Tabeladireita
+	{margin-top:1.4pt;
+	margin-right:0cm;
+	margin-bottom:1.4pt;
+	margin-left:0cm;
+	text-align:right;
+	font-size:9.0pt;
+	font-family:Arial;}
+
+#content p.A8-1Remissao,#content li.A8-1Remissao,#content div.A8-1Remissao
+	{
+	margin-top:3.0pt;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:Arial;
+	color:red;}
+
+#content p.A8-2RemissaoAnt,#content li.A8-2RemissaoAnt, #content div.A8-2RemissaoAnt
+	{margin-top:3.0pt;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:4.0cm;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:Arial;
+	color:green;
+	font-weight:bold;}
+	
+#content p.A8-3RedacaoAnt,#content  li.A8-3RedacaoAnt,#content div.A8-3RedacaoAnt
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:4.0cm;
+	text-align:justify;
+	text-indent:34.0pt;
+	font-size:10.0pt;
+	font-family:Arial;
+	color:green;}
+
+#content p.A9-1TabelaSubtituloverde,#content li.A9-1TabelaSubtituloverde,#content div.A9-1TabelaSubtituloverde
+	{margin-top:1.4pt;
+	margin-right:0cm;
+	margin-bottom:1.4pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:9.0pt;
+	font-family:Arial;
+	color:green;}
+
+#content p.A9-2Tabelajustificadoverde,#content li.A9-2Tabelajustificadoverde,#content div.A9-2Tabelajustificadoverde
+	{margin-top:1.4pt;
+	margin-right:0cm;
+	margin-bottom:1.4pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:9.0pt;
+	font-family:Arial;
+	color:green;}
+
+#content p.A9-3Tabelaesquerdaverde,#content li.A9-3Tabelaesquerdaverde,#content div.A9-3Tabelaesquerdaverde
+	{margin-top:1.4pt;
+	margin-right:0cm;
+	margin-bottom:1.4pt;
+	margin-left:0cm;
+	font-size:9.0pt;
+	font-family:Arial;
+	color:green;}
+
+#content p.A9-4Tabeladireitaverde,#content li.A9-4Tabeladireitaverde,#content div.A9-4Tabeladireitaverde
+	{margin-top:1.4pt;
+	margin-right:0cm;
+	margin-bottom:1.4pt;
+	margin-left:0cm;
+	text-align:right;
+	font-size:9.0pt;
+	font-family:Arial;
+	color:green;}
+
+#content span.Ttulo1Char
+	{font-weight:bold;}
+#content span.Ttulo2Char
+	{
+	font-weight:bold;}
+#content span.Ttulo3Char
+	{
+	font-weight:bold;}
+#content span.Ttulo8Char
+	{
+	font-weight:bold;}
+#content p.A2DataPublicao, #content li.A2DataPublicao, #coontent div.A2DataPublicao
+	{margin-top:0cm;
+	margin-right:4.0cm;
+	margin-left:0pt;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:Arial;
+	color:red;
+	font-weight:bold;}
+	
+#content p.A41TextoAcordo,#content  li.A41TextoAcordo,#content  div.A41TextoAcordo
+	{margin-top:3.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:2.0cm;
+	font-size:10.0pt;
+	font-family:Arial;}
+	
+#content p.A61Subtitulo, #content li.A61Subtitulo, #content div.A61Subtitulo
+	{margin-top:6.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:10.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+
+#content p.A72Tabelajustificado,#content li.A72Tabelajustificado,#content div.A72Tabelajustificado
+	{margin-top:1.4pt;
+	margin-right:0cm;
+	margin-bottom:1.4pt;
+	margin-left:0cm;
+	text-align:justify;
+	font-size:9.0pt;
+	font-family:Arial;}
+	
+#content p.A11TituloAcordo, #content li.A11TituloAcordo,#content div.A11TituloAcordo
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:18.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:14.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+	
+#content p.A12TituloAcordoDP,#content  li.A12TituloAcordoDP, #content div.A12TituloAcordoDP
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:14.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+
+#content p.A42NovaRedao, #content li.A42NovaRedao,#content  div.A42NovaRedao
+	{
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:99.25pt;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:Arial;}
+
+#content p.A5AcordoTipo,#content li.A5AcordoTipo,#content div.A5AcordoTipo
+	{margin-top:18.0pt;
+	margin-right:0cm;
+	margin-bottom:18.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:10.0pt;
+	font-family:Arial;
+	letter-spacing:3.5pt;}
+
+#content p.A62SubtituloDP,#content li.A62SubtituloDP,#content div.A62SubtituloDP
+	{margin-top:3.0pt;
+	margin-right:0cm;
+	margin-bottom:18.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:10.0pt;
+	font-family:Arial;}
+
+
+#content p.A71TabelaSubtitulo,#content li.A71TabelaSubtitulo, #content div.A71TabelaSubtitulo
+	{margin-top:1.4pt;
+	margin-right:0cm;
+	margin-bottom:1.4pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:9.0pt;
+	font-family:Arial;}
+
+#content p.A73Tabelaesquerda, #content li.A73Tabelaesquerda,#content div.A73Tabelaesquerda
+	{margin-top:1.4pt;
+	margin-right:0cm;
+	margin-bottom:1.4pt;
+	margin-left:0cm;
+	font-size:9.0pt;
+	font-family:Arial;}
+
+#content p.A74Tabeladireita,#content li.A74Tabeladireita,#content div.A74Tabeladireita
+	{margin-top:1.4pt;
+	margin-right:0cm;
+	margin-bottom:1.4pt;
+	margin-left:0cm;
+	text-align:right;
+	font-size:9.0pt;
+	font-family:Arial;}
+	
+#content p.A81Remisso,#content  li.A81Remisso,#content  div.A81Remisso
+	{
+	margin-top:3.0pt;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:70.9pt;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:Arial;
+	color:red;}
+	
+#content p.A82RemissoAnt,#content  li.A82RemissoAnt,#content  div.A82RemissoAnt
+	{margin-top:3.0pt;
+	margin-right:0cm;
+	margin-bottom:3.0pt;
+	margin-left:4.0cm;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:Arial;
+	color:green;
+	font-weight:bold;}
+	
+#content p.A83RedaoAnt,#content li.A83RedaoAnt,#content div.A83RedaoAnt
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:4.0cm;
+	text-align:justify;
+	text-indent:34.0pt;
+	font-size:10.0pt;
+	font-family:Arial;
+	color:green;}
+
+#content p.Tabela,#content li.Tabela, #content div.Tabela
+	{
+	margin:0;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:Arial;}
+
+#content p.TabelaCombustivel,#content li.TabelaCombustivel,#content div.TabelaCombustivel
+	{
+	margin:0;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	font-size:10.0pt;
+	font-family:Arial;}
+
+#content p.Link,#content li.Link, #content div.Link
+	{
+	margin-top:2.0pt;
+	margin-right:0;
+	margin-bottom:2.0pt;
+	margin-left:0;
+	text-align:center;
+	font-size:12.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+
+#content p.TabelaRedAnt, #content li.TabelaRedAnt,#content div.TabelaRedAnt
+	{
+	margin-top:0;
+	margin-right:0;
+	margin-left:14.2pt;
+	margin-bottom:.0001pt;
+	font-size:10.0pt;
+	font-family:Arial;
+	color:green;}
+
+#content p.Tabulado,#content li.Tabulado,#content div.Tabulado
+	{
+	margin-top:6.0pt;
+	margin-right:42.55pt;
+	margin-left:1.0;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:Arial;
+	color:black;}
+
+#content p.TextoAcordo0,#content li.TextoAcordo0, #content div.TextoAcordo0
+	{margin-top:3.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	text-align:justify;
+	text-indent:2.0cm;
+	font-size:10.0pt;
+	font-family:Arial;}
+
+#content p.ParNormal,#content li.ParNormal,#content div.ParNormal
+	{
+	margin-top:6.0pt;
+	margin-right:0;
+	margin-left:0;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-indent:14.2pt;
+	font-size:10.0pt;
+	font-family:Arial;}
+
+
+
+#content p.Central, #content li.Central,#content div.Central
+	{
+	margin-top:9.0pt;
+	margin-right:0;
+	margin-bottom:3.0pt;
+	margin-left:0;
+	text-align:center;
+	font-size:10.0pt;
+	font-family:Arial;}
+
+
+#content .MsoHyperlink{
+	font-family:Arial;
+	font-size:10pt;
+	color:blue;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+#content .Ttacordo{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:18.0pt;
+	margin-left:0cm;
+	text-align:center;
+	font-size:14.0pt;
+	font-family:Arial;
+	font-weight:bold;}
+
+#content td.Normal{
+	font-family:Arial;
+	font-size:10pt;
+	background-color : #D9ECFF;
+}
+#content a:Link{
+	font-family:Arial;
+	font-size:10pt;
+	color:blue;
+}
+#content a:Hover{
+	font-family:Arial;
+	color:#000000;
+	text-decoration:underline;
+}
+
+#content table{border-collapse:initial;}
+
+

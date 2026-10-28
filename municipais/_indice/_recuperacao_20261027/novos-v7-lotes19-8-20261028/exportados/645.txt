@@ -1,0 +1,662 @@
+---
+titulo: "04 - Lei Ordinária nº 1.324, de 22 de julho de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "1324"
+data: "2025-07-22"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1443"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1460/text"
+sha256_fonte: "87ae90857f2b8dac7dacdf0e78c2776b98a7b9ce16699090c6fedfb3d416ee85"
+sha256_texto: "dbc4cb49ca04cdd679e493e273103d5099e8ba567bc3b79e4d1051df9b00636e"
+capturado_em_fonte: "2026-10-28T04:13:53.896290-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 1.324, de 22 de julho de 2025
+
+Dispõe sobre a regulamentação dos Cemitérios no âmbito do Município de Corbélia.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+LEI
+
+
+Art. 1º.
+
+Esta Lei regulamenta a construção, o funcionamento, a utilização, a administração, a fiscalização dos cemitérios e a execução dos serviços funerários no Município de Corbélia, sem prejuízo da aplicação da legislação federal, estadual e demais normas municipais que tratam do zoneamento, uso e ocupação do solo.
+
+
+#### CAPÍTULO I — Disposições Preliminares
+
+
+Art. 2º.
+
+Para efeito desta Lei serão adotadas as seguintes definições:
+
+
+I –
+
+cemitério: área destinada a sepultamentos;
+
+
+a)
+
+cemitério horizontal: é aquele localizado em área descoberta compreendendo os tradicionais e o do tipo parque ou jardim;
+
+
+b)
+
+cemitério parque ou jardim: é aquele predominantemente recoberto por jardins, isento de construções tumulares, e no qual as sepulturas são identificadas por uma lápide, ao nível do chão, e de pequenas dimensões;
+
+
+c)
+
+cemitério vertical: é um edifício de um ou mais pavimentos dotados de compartimentos destinados a sepultamentos; e
+
+
+d)
+
+cemitérios de animais: cemitérios destinados a sepultamentos de animais.
+
+
+II –
+
+sepultar ou inumar: é o ato de colocar pessoa falecida, membros amputados e restos mortais em local adequado;
+
+
+III –
+
+sepultura: espaço unitário, destinado a sepultamentos;
+
+
+IV –
+
+construção tumular: é uma construção erigida em uma sepultura, dotada ou não de compartimentos para sepultamento, compreendendo-se:
+
+
+a)
+
+jazigo: é o compartimento destinado a sepultamento contido;
+
+
+b)
+
+carneiro ou gaveta: é a unidade de cada um dos compartimentos para sepultamentos existentes em uma construção tumular; e
+
+
+c)
+
+cripta: compartimento destinado a sepultamento no interior de edificações, templos ou suas dependências.
+
+
+V –
+
+lóculo: é o compartimento destinado a sepultamento contido no cemitério vertical;
+
+
+VI –
+
+produto da coliqüação: é o líquido biodegradável oriundo do processo de decomposição dos corpos ou partes;
+
+
+VII –
+
+exumar: retirar a pessoa falecida, partes ou restos mortais do local em que se acha sepultado;
+
+
+VIII –
+
+reinumar: reintroduzir a pessoa falecida ou seus restos mortais, após exumação, na mesma sepultura ou em outra;
+
+
+IX –
+
+urna, caixão, ataúde ou esquife: é a caixa com formato adequado para conter pessoa falecida ou partes;
+
+
+X –
+
+urna ossuária: é o recipiente de tamanho adequado para conter ossos ou partes de corpos exumados;
+
+
+XI –
+
+urna cinerária: é o recipiente destinado a cinzas de corpos cremados;
+
+
+XII –
+
+ossuário ou ossário - é o local para acomodação de ossos, contidos ou não em urna ossuária;
+
+
+XIII –
+
+cinerário: é o local para acomodação de urnas cinerárias;
+
+
+XIV –
+
+columbário: é o local para guardar urnas e cinzas funerárias, dispostos horizontal e verticalmente, com acesso coberto ou não, adjacente ao fundo, com um muro ou outro conjunto de jazigos;
+
+
+XV –
+
+nicho: é o local para colocar urnas com cinzas funerárias ou ossos; e
+
+
+XVI –
+
+translado: ato de remover pessoa falecida ou restos mortais de um lugar para outro.
+
+
+Art. 3º.
+
+Os cemitérios são utilidade pública, reservados ao sepultamento dos mortos, de caráter secular, onde respeitam-se todos os símbolos, crenças e confissões religiosas, garante-se o direito ao culto e às cerimônias fúnebres conforme os preceitos de cada religião, desde que não contrariem a ordem pública.
+
+
+Parágrafo único
+
+A prática dos ritos religiosos, a que se refere este artigo, limitar-se-á ao interior das capelas ou à beira das sepulturas.
+
+
+#### CAPÍTULO II — DA COMPETÊNCIA MUNICIPAL
+
+
+Art. 4º.
+
+Compete ao Município de Corbélia:
+
+
+I –
+
+regulamentar, licenciar, autorizar e fiscalizar a implantação e o funcionamento de cemitérios, crematórios, ossários e serviços funerários, públicos ou privados;
+
+
+II –
+
+definir as áreas apropriadas para implantação de cemitérios no plano diretor e legislação urbanística;
+
+
+III –
+
+aprovar projetos de construção, ampliação e reforma das unidades funerárias;
+
+
+IV –
+
+garantir o respeito à dignidade dos sepultamentos e o cumprimento das normas sanitárias, urbanísticas e ambientais;
+
+
+V –
+
+aplicar sanções administrativas pelo descumprimento desta Lei e regulamentos decorrentes.
+
+
+#### CAPÍTULO III — DA IMPLANTAÇÃO E LICENCIAMENTO DE CEMITÉRIOS
+
+
+Art. 5º.
+
+A instalação de cemitérios no Município está condicionada à obtenção de:
+
+
+I –
+
+aprovação urbanística e ambiental;
+
+
+II –
+
+estudo de impacto de vizinhança, quando exigido;
+
+
+III –
+
+licença sanitária junto aos órgãos competentes;
+
+
+IV –
+
+aprovação de projeto técnico com infraestrutura mínima.
+
+
+Art. 6º.
+
+Os cemitérios deverão observar:
+
+
+I –
+
+distâncias mínimas em relação a corpos hídricos, escolas, unidades de saúde, áreas residenciais e de outros cemitérios, conforme normas da vigilância sanitária e ambiental;
+
+
+II –
+
+cercamento adequado por muro ou tela, conforme a zona de localização;
+
+
+III –
+
+infraestrutura mínima: vias de acesso, banheiros, iluminação, paisagismo e acessibilidade.
+
+
+#### CAPÍTULO IV — DA ADMINISTRAÇÃO E FUNCIONAMENTO
+
+
+Art. 7º.
+
+Os cemitérios públicos poderão ser administrados:
+
+
+I –
+
+diretamente pelo Poder Executivo;
+
+
+II –
+
+por autarquia ou empresa pública;
+
+
+III –
+
+mediante concessão ou permissão, conforme legislação.
+
+
+Art. 8º.
+
+Os cemitérios privados dependerão de autorização municipal e estarão sujeitos às mesmas exigências legais que os públicos.
+
+
+Art. 9º.
+
+Os cemitérios manterão registros completos de sepultamentos, exumações, concessões e construções, de forma informatizada e acessível ao público, conforme regulamentação.
+
+
+Parágrafo único
+
+Os registros das sepulturas deverão identificar pelo menos uma pessoa responsável pelas obrigações dispostas nesta Lei e no regulamento, sob pena de declaração de abandono.
+
+
+#### CAPÍTULO V — DA INFRAESTRUTURA E ACESSIBILIDADE
+
+
+Art. 10.
+
+Os cemitérios deverão dispor de:
+
+
+I –
+
+vias internas pavimentadas e sinalizadas;
+
+
+II –
+
+banheiros e áreas comuns com acessibilidade;
+
+
+III –
+
+iluminação, arborização e sistema de segurança;
+
+
+IV –
+
+espaço para instalação de ossário;
+
+
+V –
+
+espaço para sepultamentos de pessoas carentes;
+
+
+VI –
+
+sede administrativa e setor de informações ao público.
+
+
+#### CAPÍTULO VI — DAS CONSTRUÇÕES E REGRAS DE USO
+
+
+Art. 11.
+
+Nenhuma construção será iniciada sem prévia autorização e aprovação de planta pela municipalidade.
+
+
+Parágrafo único
+
+As infrações serão penalizadas com a demolição da obra irregular e multa, conforme regulamento.
+
+
+Art. 12.
+
+Somente será permitida a construção de:
+
+
+I –
+
+sepultura simples: até 4 (quatro) sepultamentos verticais sobrepostos;
+
+
+II –
+
+sepultura especial: até 6 (seis) sepultamentos em dois compartimentos;
+
+
+III –
+
+capelas, monumentos e jazigos mediante aprovação formal.
+
+
+Parágrafo único
+
+A execução das construções e conservação serão realizados somente por prestadores de serviços credenciados pela Administração Pública.
+
+
+Art. 13.
+
+Os responsáveis pela sepultura devem mantê-la limpa, conservada e identificada.
+
+
+Parágrafo único
+
+O não cumprimento implicará notificação e eventual perda da concessão.
+
+
+#### CAPÍTULO VII — DOS SEPULTAMENTOS
+
+
+Art. 14.
+
+Os sepultamentos ocorrerão:
+
+
+I –
+
+sem distinção de crença, etnia ou condição;
+
+
+II –
+
+de forma sequencial e conforme disponibilidade;
+
+
+III –
+
+com caixão individual, salvo recém-nascido com mãe.
+
+
+Art. 15.
+
+O sepultamento será autorizado após 24h do óbito, salvo por moléstia contagiosa ou sinais de putrefação.
+
+
+Parágrafo único
+
+É obrigatória a apresentação da Certidão de Óbito ou, em caso excepcional, da Declaração Médica.
+
+
+Art. 16.
+
+A realocação de sepulturas poderá ser realizada, de ofício pela Administração, por razões de interesse público, ou mediante requerimento fundamentado do familiar responsável, nos termos do regulamento.
+
+
+#### CAPÍTULO VIII — DA EXUMAÇÃO, CREMAÇÃO E OSSUÁRIOS
+
+
+Art. 17.
+
+A exumação só ocorrerá após 5 (cinco) anos, salvo por ordem judicial ou sanitária.
+
+
+Art. 18.
+
+A instalação de crematórios dependerá de licença ambiental e urbanística.
+
+
+Art. 19.
+
+Os ossários públicos obedecerão a critérios sanitários e urbanísticos e serão mantidos pelo Município.
+
+
+#### CAPÍTULO IX — DAS CONCESSÕES DE USO E PREÇOS PÚBLICOS
+
+
+Art. 20.
+
+O uso de sepulturas será mediante concessão com prazo determinado e renovável.
+
+
+§ 1º
+
+É vedada a venda ou cessão onerosa da sepultura.
+
+
+§ 2º
+
+Extinta ou revogada a concessão, a sepultura retorna ao domínio público, sem indenização.
+
+
+Art. 21.
+
+A concessão poderá ser revogada por:
+
+
+I –
+
+inadimplência;
+
+
+II –
+
+abandono;
+
+
+III –
+
+necessidade pública.
+
+
+Art. 22.
+
+Estão sujeitos ao pagamento de preço público, definidos em regulamento:
+
+
+I –
+
+a concessão de sepultura para falecidos não residentes no município;
+
+
+II –
+
+a concessão de sepultura especial;
+
+
+III –
+
+os serviços decorrentes do sepultamento.
+
+
+Parágrafo único
+
+Estarão isentos do pagamento previsto neste artigo os sepultamentos de indigentes, pessoas não identificadas ou não reclamadas, bem como de pessoas em comprovada situação de vulnerabilidade social, mediante laudo.
+
+
+#### CAPÍTULO X — DOS SERVIÇOS FUNERÁRIOS
+
+
+Art. 23.
+
+Os serviços funerários são de interesse público e podem ser executados por empresas autorizadas ou pela municipalidade.
+
+
+Art. 24.
+
+Incluem-se nesses serviços a confecção de urnas, preparação de corpos, transporte e realização de cerimônias e pompas fúnebres.
+
+
+#### CAPÍTULO XI — DAS NORMAS SANITÁRIAS E AMBIENTAIS
+
+
+Art. 25.
+
+Os cemitérios devem observar:
+
+
+I –
+
+impermeabilização e drenagem do solo;
+
+
+II –
+
+distanciamento de fontes e lençol freático;
+
+
+III –
+
+controle de resíduos;
+
+
+IV –
+
+regularidade da limpeza.
+
+
+#### CAPÍTULO XII — DAS PROIBIÇÕES
+
+
+Art. 26.
+
+É vedado nos cemitérios:
+
+
+I –
+
+pisar em sepulturas, vandalizar monumentos, arrancar ou colher flores;
+
+
+II –
+
+realização de sepultamento sem caixão, salvo nos casos excepcionais devidamente autorizados pela autoridade sanitária competente, como em situações de epidemias, conflitos armados ou catástrofes naturais;
+
+
+III –
+
+fazer obras sem autorização;
+
+
+IV –
+
+entrar fora do horário permitido;
+
+
+V –
+
+permitir presença de ébrios, animais, ou menores desacompanhados.
+
+
+Parágrafo único
+
+As infrações serão punidas com multa ou revogação da concessão.
+
+
+#### CAPÍTULO XIII — DAS PENALIDADES
+
+
+Art. 27.
+
+O descumprimento desta Lei sujeita o infrator a:
+
+
+I –
+
+advertência escrita;
+
+
+II –
+
+multa proporcional entre 2 (duas) a 10 (dez) UFM;
+
+
+III –
+
+revogação da concessão;
+
+
+IV –
+
+interdição da atividade irregular;
+
+
+V –
+
+responsabilidade civil e criminal, quando for o caso.
+
+
+#### CAPÍTULO XIV — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 28.
+
+Os cemitérios existentes terão o prazo de 24 (vinte e quatro) meses para adequação.
+
+
+Art. 29.
+
+As empresas prestadoras de serviços funerários terão 12 (doze) meses para regularização.
+
+
+Art. 30.
+
+O Poder Público realizará no prazo de 180 (cento e oitenta) dias:
+
+
+I –
+
+a atualização cadastral de todas as sepulturas existentes no território do Município;
+
+
+II –
+
+a emissão da concessão ou declaração de vacância por abandono ou outro motivo previsto em regulamento;
+
+
+III –
+
+as providências para exumação das sepulturas declaradas vagas;
+
+
+IV –
+
+a publicação da relação completa dos registros de sepultamento e mapa geral dos lotes disponíveis para sepultamento.
+
+
+Art. 31.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 32.
+
+Revoga a Lei Municipal nº 850, de 15 de setembro de 2014.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná  
+Em 22 de julho de 2025, 65º da Emancipação Política.
+
+Thiago Daross Stefanello  
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 2333 de 22/07/2025, pág. 07-16.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1443/ta
+

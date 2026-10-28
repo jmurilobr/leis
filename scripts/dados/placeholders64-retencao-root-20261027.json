@@ -1,0 +1,22 @@
+{
+  "retidos": 64,
+  "comando_proprio": 62,
+  "contexto_pendente": 2,
+  "controle_inline_sem_retencao": [
+    "federal/decretos/1945/dec-18735-1945-05-28.md"
+  ],
+  "pendentes_antes": 7544,
+  "pendentes_depois": 7608,
+  "sha256_registro_antes": "e39113683137ee3bb341495b53979d1da56250621ac0e828eff8c49f5a878779",
+  "criterio": "ROOT leu todos65 comandos/contextos,conferiu todosMD por OID/SHA realHEAD e reabriu receipts HTML/API/MD comCRC/SHA.64 ficam fora do progresso ate fonte suplementar;1 inline completo nao foi retido por marcador isolado. Textos/fontes e7544 entradas anteriores preservados;metas inalteradas.",
+  "sha256": {
+    "federal/_fonte/auditorias/retomada_federal_20261027_004/inventariar_placeholders_publicados12669.py": "43ceb9a16f659e4d7ff10391a085836359f640222f5463fd2c9a62783fb4ab7b",
+    "federal/_fonte/auditorias/retomada_federal_20261027_004/contextualizar_placeholders12669.py": "df58196a065cd0aed0d04bc86eee225fce1f5cfaa9bff5ca1e584eed182ea1ec",
+    "federal/_fonte/auditorias/retomada_federal_20261027_004/inventario_placeholders_publicados12669_v1.json": "483949fcea4f3948b2ee2b672d120bf78f22e31d7463bfd68986c59d4e686596",
+    "federal/_fonte/auditorias/retomada_federal_20261027_004/receipts_placeholders_publicados12669_v1.jsonl.gz": "68cdc64fa296e622507f17111a049b941deaae062f379d4f6f4a07ecea3b35e5",
+    "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+    "federal/_historico_pendencias_20261027/antes-placeholder64.json.gz": "6631a2e57ce91a445832d8c6ad5946fa9eb7779d3d9fd31601b0353c9d79436f",
+    "scripts/dados/pendencias-integralidade-publicadas.json": "889df8fde7193717c1e523d019e3fca7eb39bf2adaf2e84f4eae9ae6e8c4863c",
+    "federal/_fonte/auditorias/retomada_federal_20261027_004/entrega_placeholders12669-hashes.json": "772897ab9d7268113aeb12e9a87d09c62fb12fd095c6adb2ff20fb17509e293a"
+  }
+}

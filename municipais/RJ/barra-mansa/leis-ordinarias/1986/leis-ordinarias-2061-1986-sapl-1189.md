@@ -1,0 +1,163 @@
+---
+titulo: "Lei Ordinária nº 2.061, de 27 de novembro de 1986"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2061"
+data: "1986-11-27"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/1189"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/3279/text"
+sha256_fonte: "0d7afd856e83291a2e02feb879b843edbd63f0c18f63bf8dea75ecff9f0420d9"
+sha256_texto: "58dc139c1725ca6f40340b1894d401d38f254896ae3ba71a6bd694941ac81668"
+capturado_em_fonte: "2026-10-27T19:00:02.264273-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.061, de 27 de novembro de 1986
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCINO A SEGUINTE
+
+
+LEI Nº2061, DE 27 DE NOVEMBRO DE 1986.
+
+
+DISPÕE SOBRE A CONSTRUÇÃO E FUNCIONAMENTO DE POSTOS REVENDEDORES DE COMBUSTÍVEIS, SERVIÇOS DE LAVAGENS E TROCA DE ÓLEO E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+Art. 1º.
+
+A construção e o funcionamento de Postos e Revendodores de combustíveis, serviços de lavagens e troca de óleo depender de licença municipal, observados os dispositivos do Código de Posturas, de Código Tributário e o constante na presente Lei.
+
+
+Art. 2º.
+
+Considera-se Posto- para os fins desta Lei - o estabelecimento comercial destinado preponderadamente à venda de combustíveis derivados de petróleo e lubrificantes para veículos automotores, serviços de lavagem e troca de óleo, incluidos aqueles que não vendam combustíveis derivados.
+
+
+§1º
+
+São atividades permitidas e compreendidas na respectiva licença do funcionamento:
+
+
+I –
+
+lavagem, lubrificação de veículos e troca de óleo;
+
+
+II –
+
+suprimento do água e ar;
+
+
+III –
+
+comércio de peças e acessórios para veículos e de artigos relacionados com a higiene, conservação, aparência e segurança dos veículos;
+
+
+IV –
+
+comércio de bar, restaurante, café, mercearia e correlatos, desde que atendidas a exigências dos Poderes Públicos pera estes fins.
+
+
+Art. 3º.
+
+Somente serão aprovadas plantas para construção, bem como expedido alvará de funcionamento, de Posto que satisfaça, além das exigências da legislação sobre construções, as seguintes condições:
+
+
+a)
+
+terreno de área mínina de 720 m² (setecentos e vinte metros quadrados);
+
+
+b)
+
+distância mínima de 500 m (quinhentos metros) - dos limites de escolas, creches, asilos, hospitais e casas de saúde;
+
+
+c)
+
+distância mínima de 300 m (trezentes metros) de passagem do nível em vias férreas, pontee e viadutos;
+
+
+d)
+
+instalação sanitária para uso público - masculino e feminino.
+
+
+Art. 4º.
+
+Os Postos são obrigados a manter:
+
+
+a)
+
+compressor e balanças de ar em perfeito funcionamento;
+
+
+b)
+
+medida oficial padrão, aferida pelo IMETRO para comprovação da exatidão da quantidate de produtos fornecidos, quando solicitado pelo consumidor ou fiscalização;
+
+
+c)
+
+em local visível o Certificado de Aferição expedido pelo IMETRO;
+
+
+d)
+
+extintores e demais equipamentos de incêndio em perfeitas condições de funcionamento, observadas as prescrições do Corpo de Bombeiros para cada caso particular;
+
+
+e)
+
+atualizado seguro contra insêndio, para cobertura de terceiros, no valor nunca inferior a 400 (quatrocentos) salários mínimos;
+
+
+f)
+
+telefone público para uso durante seu período de funcionamento ou comprovante de solicitação para obtê-lo.
+
+
+Parágrafo único
+
+Os Postos são obrigados distribuir prospectos contendo informações turísticas e de campanhas educativas, culturais d de saúde e higiêne, desde que fornecidos pelos Poderes Públicos.
+
+
+Art. 5º.
+
+Nenhuma licença poderá ser concedida para construção de Postos, sem que o pretendente faça prova de estar legalmente como constituído, com declaração de firma individual ou atos constitutivos de sociedade, devidamente arquivados na Junta Comercial do Estado do Rio de Janeiro e a ponto do Certificado de Ponto Revendedor emitido pelo CNF, quando for o caso.
+
+
+Parágrafo único
+
+Toda construção de Posto deve ser concluída no prazo máximo de 6(seis) meses, salvo motivo de força maior.
+
+
+Art. 6º.
+
+O disposto nos artigos 3º e 5º desta lei, não se aplica aos Postos já existentes, nem agueles com licença para a construção aprovada até a data que esta Lei entrar em vigor, sendo concedido a estes o prazo improrrogável de dois meses, salvo motivo de força maior.
+
+
+Art. 7º.
+
+O disposto nos artigos 3º e 5º desta Lei, não se aplica aos Postos já existentes, nem áqueles com licença para construção aprovada até a data que esta Lei entrar em vigor, sendo concedido a estes o prazo improrrogável de dois meses, salvo motivo de força maior.
+
+
+Art. 8º.
+
+Os postos ficam obrigados a manter suas áreas sempre limpas e com caixas coletoras de lixo, sob pena de multa de 15(quinze) UFIN's.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 27 DE NOVEMBRO DE 1986.
+
+
+DR. LUIZ CARLOS SUCKOW F. DO AMARAL  
+PREFEITO
+

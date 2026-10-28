@@ -1,0 +1,257 @@
+{
+  "candidato": {
+    "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2026/leis-ordinarias-1789-2026-sapl-2619.md",
+    "preimagem": "municipais/_indice/_recuperacao_20261027/observacoes-bibliograficas-ta-privado-20261028/candidato-40/preimagem.txt",
+    "candidato": "municipais/_indice/_recuperacao_20261027/observacoes-bibliograficas-ta-privado-20261028/candidato-40/candidato.txt",
+    "sha256_preimagem": "03e1210527e9cc127fc8470ddb5c64e49052a86bca2dfb2d749e93d1d7ff1a90",
+    "sha256_candidato": "41b0d79a1e7c43567a9b0a021ec01a8ebe2924fcc0548dedde9f7e0ec8d7d812",
+    "materializacao": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0025-v7/resultados.jsonl",
+    "sha256_materializacao": "49eae2752bd0d136fe2237debd1c98f975065d7de23bc71a057eb945c89a444f",
+    "controle_contexto": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0025-v7/controle.json",
+    "sha256_controle_contexto": "a49c2770431932f3370fe1a6249d5745d56672bdd2b4d574dc2e337e0b337fa4",
+    "classificacao": {
+      "modelo": "AEMERJ-publicacao-data-edicao-autenticidade-v1",
+      "data_publicacao_atribuida_API": "2026-06-29",
+      "edicao_atribuida_API": "4151",
+      "URL_literal": "https://www.diariomunicipal.com.br/aemerj/",
+      "observacao_literal": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 29/06/2026. Edição 4151 A verificação de autenticidade da matéria pode ser feita informando o código identificador no site: https://www.diariomunicipal.com.br/aemerj/",
+      "limite": "Descrição bibliográfica atribuída à API; não confirma acesso ao diário, autenticidade externa, vigência ou equivalência entre edições."
+    },
+    "campos_acrescentados": [
+      "observacao_fonte",
+      "fonte_metadados",
+      "sha256_metadados_fonte"
+    ],
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/d2d06d49517072b50dada74cea913fcb4fc02be14747ed337c6d11abc56e9f71.json",
+      "url": "https://sapl.engenheiropaulodefrontin.rj.leg.br/api/norma/normajuridica/2619/",
+      "url_final": "https://sapl.engenheiropaulodefrontin.rj.leg.br/api/norma/normajuridica/2619/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "608f9113192aaa70cd9597e1087eba536561ff7d71f49af2b8318728ce6adc12",
+      "bytes": 1283,
+      "capturado_em": "2026-10-28T10:28:23.795412-03:00"
+    },
+    "fonte": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/5b28b916962a88269107769cee13059848ce22de77c3c73d7c025d81fbfb241f.html",
+      "url": "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/2619",
+      "url_final": "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/1740/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "4d3e7c58869cd1b9260b4dff5dccb2beee90e14d2ddba180e12ee3a00bf3d48f",
+      "bytes": 22184,
+      "capturado_em": "2026-10-28T10:28:25.296725-03:00",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/5b28b916962a88269107769cee13059848ce22de77c3c73d7c025d81fbfb241f.meta.json",
+      "sha256_metadata": "6ee75534067eec8803a6ed84417f1ec74cd8b73f5981863873095bc228658f47"
+    }
+  },
+  "replay": {
+    "aprovado": true,
+    "classificacao": {
+      "modelo": "AEMERJ-publicacao-data-edicao-autenticidade-v1",
+      "data_publicacao_atribuida_API": "2026-06-29",
+      "edicao_atribuida_API": "4151",
+      "URL_literal": "https://www.diariomunicipal.com.br/aemerj/",
+      "observacao_literal": "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 29/06/2026. Edição 4151 A verificação de autenticidade da matéria pode ser feita informando o código identificador no site: https://www.diariomunicipal.com.br/aemerj/",
+      "limite": "Descrição bibliográfica atribuída à API; não confirma acesso ao diário, autenticidade externa, vigência ou equivalência entre edições."
+    },
+    "replay": {
+      "aprovado": true,
+      "igualdade_caracteres_nao_brancos": true,
+      "assinatura_numerica_confere": true,
+      "marcacao_tachado_por_caractere_confere": true,
+      "atributos_contextuais_tachados_conferem": true,
+      "tachados_fonte": [],
+      "tachados_renderizados": [],
+      "markup_tachado_fonte": [],
+      "markup_tachado_renderizado": [],
+      "ativos": [
+        "dptt58574",
+        "dptt58575",
+        "dptt58576",
+        "dptt58577",
+        "dptt58578",
+        "dptt58579",
+        "dptt58580",
+        "dptt58581",
+        "dptt58582",
+        "dptt58583",
+        "dptt58584",
+        "dptt58585",
+        "dptt58586",
+        "dptt58587",
+        "dptt58588",
+        "dptt58589"
+      ],
+      "historicos_excluidos": [],
+      "normalizacoes_heading": [],
+      "listas": [],
+      "prova_tabelas": null,
+      "sha256_visivel_fonte": "00a8a36120ad0d401c1e64a4ecd02060926aeee92facdfc08a08afba71d054cc",
+      "sha256_visivel_renderizado": "00a8a36120ad0d401c1e64a4ecd02060926aeee92facdfc08a08afba71d054cc",
+      "sha256_html_renderizado": "d641add3ae9411bf67d075dbaebff52aa1fe73e1d26d1c07bb54202730d8595d",
+      "contexto": null
+    },
+    "CSS": {
+      "path": "municipais/RJ/engenheiro-paulo-de-frontin/leis-ordinarias/2026/leis-ordinarias-1789-2026-sapl-2619.md",
+      "lote": "observacao_bibliografica_privada",
+      "sha256_candidato": "41b0d79a1e7c43567a9b0a021ec01a8ebe2924fcc0548dedde9f7e0ec8d7d812",
+      "sha256_HTML_primario": "4d3e7c58869cd1b9260b4dff5dccb2beee90e14d2ddba180e12ee3a00bf3d48f",
+      "fonte_HTML": "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/1740/text",
+      "font_face_declarados_sem_provar_uso": [],
+      "regras_perigosas_sem_match_normativo": [],
+      "seletores_nao_resolvidos": [],
+      "regras_condicionais_com_match": [],
+      "pseudo_elementos_com_match": [],
+      "inline_interessantes": [],
+      "eventos_texto_efetivo_DOM": [],
+      "stylesheets_externas_nao_consultadas": [
+        "/static/sapl/frontend/css/chunk-vendors.045ec640.css",
+        "/static/sapl/frontend/css/global.042f6737.css",
+        "/static/sapl/frontend/css/chunk-vendors.045ec640.css",
+        "/static/sapl/frontend/css/compilacao.0baf3580.css"
+      ],
+      "regras_CSS_examinadas": [],
+      "fontes_CSS_efetivas": [],
+      "ativos": [
+        "dptt58574",
+        "dptt58575",
+        "dptt58576",
+        "dptt58577",
+        "dptt58578",
+        "dptt58579",
+        "dptt58580",
+        "dptt58581",
+        "dptt58582",
+        "dptt58583",
+        "dptt58584",
+        "dptt58585",
+        "dptt58586",
+        "dptt58587",
+        "dptt58588",
+        "dptt58589"
+      ],
+      "historicos_desativados": [],
+      "tachados_explicitos_selecionador_independente": 0,
+      "dispositivos_ativos_classe_revogado": []
+    },
+    "corpo_H1_identidade_datas_captura_iguais": true,
+    "campos_acrescentados": [
+      "observacao_fonte",
+      "fonte_metadados",
+      "sha256_metadados_fonte"
+    ],
+    "sha256_metadados_fonte": "608f9113192aaa70cd9597e1087eba536561ff7d71f49af2b8318728ce6adc12",
+    "API_status": 200,
+    "API_capturado_em_original": "2026-10-28T10:28:23.795412-03:00",
+    "gates_originais": {
+      "tabelas_nativas_prova": null,
+      "tipo_oficial": "Lei Ordinária",
+      "identidade_literal": {
+        "epigrafes": [
+          {
+            "tipo": "LEI ORDINARIA-PMEPF",
+            "numero": "1.789",
+            "numero_normalizado": "1789",
+            "trecho": "LEI ORDINARIA-PMEPF Nº 1.789, DE 23 DE JUNHO DE 2026",
+            "tipo_completo_literal": true,
+            "data_literal": "2026-06-23"
+          }
+        ],
+        "numero_metadado": "1789",
+        "numero_literal_confirmado": true,
+        "data_literal_confirmada": true,
+        "divergencias": [],
+        "limite": "Tipo completo aceito somente quando literal e igual ao cadastro oficial; todos os números e datas encontrados devem concordar. Divergências do parser anterior são preservadas. Jurisdição, fonte, anexos, contexto e vigência continuam sujeitos aos demais gates. Sufixo institucional preservado literalmente, sem determinar a esfera por ele.",
+        "rotulo_oficial_com_sufixo": "Lei Ordinária-PMEPF nº 1.789, de 23 de junho de 2026",
+        "tipo_literal_no_rotulo": "Lei Ordinária-PMEPF",
+        "prova_rotulo_api": {
+          "epigrafes": [
+            {
+              "tipo": "LEI ORDINARIA-PMEPF",
+              "numero": "1.789",
+              "numero_normalizado": "1789",
+              "trecho": "LEI ORDINARIA-PMEPF Nº 1.789, DE 23 DE JUNHO DE 2026",
+              "tipo_completo_literal": true,
+              "data_literal": "2026-06-23"
+            }
+          ],
+          "numero_metadado": "1789",
+          "numero_literal_confirmado": true,
+          "data_literal_confirmada": true,
+          "divergencias": [],
+          "limite": "Tipo completo aceito somente quando literal e igual ao cadastro oficial; todos os números e datas encontrados devem concordar. Divergências do parser anterior são preservadas. Jurisdição, fonte, anexos, contexto e vigência continuam sujeitos aos demais gates."
+        }
+      },
+      "categoria": "leis-ordinarias",
+      "tipo_canonico": "Lei ordinária",
+      "titulo_literal": "Lei Ordinária-PMEPF nº 1.789, de 23 de junho de 2026",
+      "tokens_ativos": 157,
+      "dispositivos_ativos": 16,
+      "historicos_excluidos": 0,
+      "cortes_de_vigencia_declarados": [],
+      "anexos_proprios": 0,
+      "limite": "Corte declarado é atribuído ao portal. Ausência de corte não certifica atualização nem vigência integral.",
+      "prova_tachados_preservados": {
+        "aprovado": true,
+        "igualdade_caracteres_nao_brancos": true,
+        "assinatura_numerica_confere": true,
+        "marcacao_tachado_por_caractere_confere": true,
+        "atributos_contextuais_tachados_conferem": true,
+        "tachados_fonte": [],
+        "tachados_renderizados": [],
+        "markup_tachado_fonte": [],
+        "markup_tachado_renderizado": [],
+        "ativos": [
+          "dptt58574",
+          "dptt58575",
+          "dptt58576",
+          "dptt58577",
+          "dptt58578",
+          "dptt58579",
+          "dptt58580",
+          "dptt58581",
+          "dptt58582",
+          "dptt58583",
+          "dptt58584",
+          "dptt58585",
+          "dptt58586",
+          "dptt58587",
+          "dptt58588",
+          "dptt58589"
+        ],
+        "historicos_excluidos": [],
+        "normalizacoes_heading": [],
+        "listas": [],
+        "prova_tabelas": null,
+        "sha256_visivel_fonte": "00a8a36120ad0d401c1e64a4ecd02060926aeee92facdfc08a08afba71d054cc",
+        "sha256_visivel_renderizado": "00a8a36120ad0d401c1e64a4ecd02060926aeee92facdfc08a08afba71d054cc",
+        "sha256_html_renderizado": "d641add3ae9411bf67d075dbaebff52aa1fe73e1d26d1c07bb54202730d8595d",
+        "contexto": null
+      }
+    },
+    "fonte": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/5b28b916962a88269107769cee13059848ce22de77c3c73d7c025d81fbfb241f.html",
+      "url": "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/2619",
+      "url_final": "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/1740/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "4d3e7c58869cd1b9260b4dff5dccb2beee90e14d2ddba180e12ee3a00bf3d48f",
+      "bytes": 22184,
+      "capturado_em": "2026-10-28T10:28:25.296725-03:00",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/5b28b916962a88269107769cee13059848ce22de77c3c73d7c025d81fbfb241f.meta.json",
+      "sha256_metadata": "6ee75534067eec8803a6ed84417f1ec74cd8b73f5981863873095bc228658f47"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/d2d06d49517072b50dada74cea913fcb4fc02be14747ed337c6d11abc56e9f71.json",
+      "url": "https://sapl.engenheiropaulodefrontin.rj.leg.br/api/norma/normajuridica/2619/",
+      "url_final": "https://sapl.engenheiropaulodefrontin.rj.leg.br/api/norma/normajuridica/2619/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "608f9113192aaa70cd9597e1087eba536561ff7d71f49af2b8318728ce6adc12",
+      "bytes": 1283,
+      "capturado_em": "2026-10-28T10:28:23.795412-03:00"
+    },
+    "matrizes": null
+  }
+}

@@ -1,0 +1,245 @@
+---
+titulo: "04 - Lei Ordinária nº 1.090, de 19 de maio de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "1090"
+data: "2020-05-19"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/410"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/389/text"
+sha256_fonte: "0ccc36c6ee2b5908b43bd12de919aa32176fd55c40625eeebc1e926bc7964d22"
+sha256_texto: "13c79c200e9fbeeac3f54a4c23c7e88a7b61b2333c843383c2587de47eee86e6"
+capturado_em_fonte: "2026-10-28T06:04:47.010713-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 1.090, de 19 de maio de 2020
+
+Abre Crédito Adicional Suplementar e da outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Fica aberto no corrente exercício o Crédito Adicional Suplementar, no orçamento geral do Município, no valor de **R$ 4.362.591,94 (quarto milhões, trezentos e sessenta e dois mil, quinhentos e noventa e um reais e noventa e quatro centavos)** destinado ao reforço das seguintes dotações orçamentárias.
+
+
+**Suplementação:**
+
+02.000.00.000.0000.0.000. GOVERNO MUNICIPAL
+
+02.001.00.000.0000.0.000. GABINETE DO PREFEITO
+
+02.001.04.122.0020.2.100. MANUTENÇÃO GABINETE DO PREFEITO
+
+10 - 3.3.90.39.00.00 01000 OUTROS SERVIÇOS DE TERCEIROS - PESSOA 10.000,00
+
+JURÍDICA
+
+02.002.00.000.0000.0.000. ASSESSORIA JURÍDICA
+
+02.002.02.061.0020.2.115. MANUTENÇÃO DAS ATIVIDADES JUDICIÁRIAS
+
+26 - 3.3.90.91.00.00 01000 SENTENÇAS JUDICIAIS 36.000,00
+
+04.000.00.000.0000.0.000. SECRETARIA DE DESENVOLVIMENTO ECONÔMICO
+
+04.002.00.000.0000.0.000. DIVISÃO DE INDÚSTRIA, COMÉRCIO E SERVIÇOS
+
+04.002.22.661.0290.2.185. MANUTENÇÃO DIVISÃO DE INDUSTRIA, COMÉRCIO E
+
+SERVIÇOS
+
+99 - 3.3.90.39.00.00 01000 OUTROS SERVIÇOS DE TERCEIROS - PESSOA 10.000,00
+
+JURÍDICA
+
+04.003.00.000.0000.0.000. FUNDO AMBIENTAL E DO DESENVOLVIMENTO RURAL
+
+04.003.17.512.0300.2.913. MANUTENÇAO DO PROGRAMA COLETA SELETIVA
+
+113 - 3.3.90.39.00.00 01000 OUTROS SERVIÇOS DE TERCEIROS - PESSOA 20.000,00
+
+JURÍDICA
+
+05.000.00.000.0000.0.000. SECRETARIA DE VIAÇÃO, URBANISMO E OBRAS PÚBLICAS
+
+05.002.00.000.0000.0.000. DEPARTAMENTO RODOVIÁRIO MUNICIPAL
+
+05.002.26.782.0330.1.115. REEQUIPAMENTO DA FROTA MUNICIPAL
+
+143 - 4.4.90.52.00.00 01000 EQUIPAMENTOS E MATERIAL PERMANENTE 133.500,00
+
+560 - 4.4.90.52.00.00 31875 EQUIPAMENTOS E MATERIAL PERMANENTE 286.500,00
+
+05.003.00.000.0000.0.000. DEPARTAMENTO DE INFRA-ESTRUTURA, OBRAS E SERVIÇOS
+
+URBANOS
+
+05.003.15.451.0310.1.145. PAVIMENTAÇÃO DE VIAS URBANAS E RURAIS - ASFÁLTICA,
+
+RECAPE, REVITALIZAÇÃO E COM PEDRAS IRREGULARES
+
+160 - 4.4.90.51.00.00 01000 OBRAS E INSTALAÇÕES 82.000,00
+
+542 - 4.4.90.51.00.00 31855 OBRAS E INSTALAÇÕES 500.000,00
+
+162 - 4.4.90.51.00.00 31864 OBRAS E INSTALAÇÕES 213.333,33
+
+556 - 4.4.90.51.00.00 31868 OBRAS E INSTALAÇÕES 232.380,95
+
+561 - 4.4.90.51.00.00 31876 OBRAS E INSTALAÇÕES 716.250,00
+
+562 - 4.4.90.51.00.00 31874 OBRAS E INSTALAÇÕES 650.000,00
+
+06.000.00.000.0000.0.000. SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA
+
+06.003.00.000.0000.0.000. DEPARTAMENTO DE ENSINO FUNDAMENTAL
+
+06.003.12.361.0180.1.310. CONSTRUÇÃO, AMPLIAÇÃO E REFORMA DE ESTABELECIMENTOS
+
+DE ENSINO
+
+563 - 4.4.90.51.00.00 31133 OBRAS E INSTALAÇÕES 1.334.627,66
+
+07.000.00.000.0000.0.000. SECRETARIA DE SAÚDE
+
+07.002.00.000.0000.0.000. FUNDO MUNICIPAL DE SAÚDE
+
+07.002.10.302.0140.2.310. MANUTENÇÃO DE CONSÓRCIO DE SAÚDE - CISOP E
+
+INTERGESTOTES
+
+381 - 3.3.71.70.00.00 01303 RATEIO PELA PARTICIPAÇÃO EM CONSÓRCIO 120.000,00
+
+PÚBLICO
+
+08.000.00.000.0000.0.000. SECRETARIA MUNICIPAL DA AÇÃO SOCIAL
+
+08.001.00.000.0000.0.000. GABINETE DO SECRETÁRIO DA AÇÃO SOCIAL
+
+08.001.08.244.0120.2.365. MANUTENÇÃO CONSELHO TUTELAR
+
+415 - 3.3.90.30.00.00 01000 MATERIAL DE CONSUMO 3.000,00
+
+08.002.00.000.0000.0.000. FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+08.002.08.244.0100.2.325. MANUTENÇÃO PROGRAMA DE PROTEÇÃO SOCIAL
+
+421 - 3.3.90.30.00.00 01000 MATERIAL DE CONSUMO 10.000,00
+
+08.002.08.244.0110.2.335. MANUTENÇÃO DO PROGRAMA DE PROTEÇÃO SOCIAL
+
+ESPECIAL
+
+444 - 3.3.90.39.00.00 01000 OUTROS SERVIÇOS DE TERCEIROS - PESSOA 5.000,00
+
+JURÍDICA
+
+**Total Suplementação: 4.362.591,94**
+
+
+Art. 2º.
+
+Para atender o disposto no Artigo 1º desta Lei, servirá como recurso:
+
+
+§ 1º
+
+O provável Excesso de Arrecadação conforme disposto no Art. 43, § 3º, da Lei 4320 de 17 de março de 1964, nas alíneas das Receitas discriminadas abaixo, no valor de R$ 3.933.091,94 (Três milhões, novecentos e trinta e três mil, noventa e um reais, noventa e quatro centavos).
+
+
+**Receita:**
+
+Receita: 2.4.1.8.10.71.05.00000000 Fonte: 31864 213.333,33
+
+Receita: 2.4.1.8.10.71.07.00000000 Fonte: 31868 232.380,95
+
+Receita: 2.4.1.8.10.71.10.00000000 Fonte: 31876 716.250,00
+
+Receita: 2.4.1.8.10.91.06.00000000 Fonte: 31875 286.500,00
+
+Receita: 2.4.2.8.10.71.07.00000000 Fonte: 31855 500.000,00
+
+Receita: 2.4.1.8.05.90.01.00000000 Fonte: 31133 1.334.627,66
+
+Receita: 2.4.2.8.10.71.08.00000000 Fonte: 31874 650.000,00
+
+**Total da Receita: 3.933.091,94**
+
+
+§ 2º
+
+O cancelamento parcial de dotações orçamentárias, conforme discriminação abaixo, de acordo com o Artigo 43, § 1º, Inciso III da Lei Federal nº 4.320/64 , no valor de R$ 429.500,00 (quatrocentos e vinte e nove mil, quinhentos reais).
+
+
+**Redução:**
+
+07.000.00.000.0000.0.000. SECRETARIA DE SAÚDE
+
+07.002.00.000.0000.0.000. FUNDO MUNICIPAL DE SAÚDE
+
+07.002.10.301.0130.2.525. MANUTENÇÃO DO DEPARTAMENTO DE ATENDIMENTO
+
+PRIMÁRIO SAÚDE COMUNITÁRIA
+
+363 - 3.3.90.32.00.00 01303 MATERIAL, BEM OU SERVIÇO PARA 20.000,00
+
+DISTRIBUIÇÃO GRATUITA
+
+367 - 3.3.90.39.00.00 01303 OUTROS SERVIÇOS DE TERCEIROS - PESSOA 29.580,00
+
+JURÍDICA
+
+07.002.10.302.0140.2.310. MANUTENÇÃO DE CONSÓRCIO DE SAÚDE - CISOP E
+
+INTERGESTOTES
+
+379 - 3.1.71.70.00.00 01303 RATEIO PELA PARTICIPAÇÃO EM CONSÓRCIO 30.000,00
+
+PÚBLICO
+
+99.000.00.000.0000.0.000. RESERVA DE CONTINGÊNCIA
+
+99.099.00.000.0000.0.000. RESERVA DE CONTINGÊNCIA
+
+99.099.99.999.9999.9.999. RESERVA DE CONTINGÊNCIA
+
+510 - 9.9.99.99.00.00 99999 RESERVA DE CONTINGÊNCIA 349.920,00
+
+**Total Redução: 429.500,00**
+
+
+Art. 3º.
+
+Fica o Poder Executivo Municipal autorizado a atualizar os valores constantes de anexos previstos na LDO - Lei de Diretrizes Orçamentárias e PPA – Plano Plurianual de investimentos considerando o cumprimento das normas estabelecidas no SIM-AM (Sistema de Informações Municipais - Acompanhamento Mensal) do Tribunal de Contas do Estado, especificamente com referência ao Módulo Planejamento.
+
+
+Art. 4º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná
+
+Em 19 de maio de 2020, 59º da Emancipação Política.
+
+GIOVANI MIGUEL WOLF HNATUW
+
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 1061 de 19/05/2020, pág. 11-13.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/410/ta
+

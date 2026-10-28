@@ -1,0 +1,31 @@
+{
+  "candidatos": 422,
+  "aprovados": 59,
+  "retidos": 363,
+  "jurisdicao": [
+    {
+      "path": "municipais/MG/buritis/leis-ordinarias/2009/leis-ordinarias-1138-2009-sapl-544.md",
+      "sha256": "0f4448088d978a1d21455efbbc171fccb21153ae093e06e12ef8af7e2ce79101",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/MG/buritis/leis-ordinarias/2008/leis-ordinarias-1134-2008-sapl-540.md",
+      "sha256": "fad88b96fdbf304804d51069648d4bc63c2adacf43172fda59d1d4b8c6fb5a97",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    }
+  ],
+  "replay_retidos": [],
+  "criterio": "Retidos não integram a lista de normas. Controles conservam os motivos e identidades; não promovidos por contagem ou por comparação da mesma conversão."
+}

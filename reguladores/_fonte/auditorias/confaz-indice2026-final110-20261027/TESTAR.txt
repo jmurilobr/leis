@@ -1,0 +1,7 @@
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/test_confaz_piloto_privado_v2_20261027.py
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/test_confaz_indice2026_privado_20261027.py
+
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/confaz_auditar_piloto_privado_v3_20261027.py --captura reguladores/_fonte/auditorias/confaz-indice2026-entrada-qa-002-20261027 --saida NOVA_SAIDA_QA
+Esperado: 116 representações, 10 retidos. Seis representações são aliases já publicados, não novas adições.
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/confaz_confrontar_head_privado_v3_20261027.py --qa reguladores/_fonte/auditorias/confaz-indice2026-qa-002-20261027 --saida NOVA_SAIDA_HEAD
+O confronto lê HEAD real; novas publicações podem aumentar aliases. Nenhum comando faz HTTP ou promove canônicos.

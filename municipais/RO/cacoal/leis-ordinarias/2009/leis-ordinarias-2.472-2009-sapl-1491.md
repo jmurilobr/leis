@@ -1,0 +1,289 @@
+---
+titulo: "Lei Ordinária nº 2.472, de 01 de julho de 2009"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2.472"
+data: "2009-07-01"
+municipio: "Cacoal"
+uf: "RO"
+codigo_ibge: "1100049"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacoal.ro.leg.br/norma/1491"
+fonte_texto: "https://sapl.cacoal.ro.leg.br/ta/110/text"
+sha256_fonte: "a5f6867e9d875618a393f9f2291ab3f4976340df8a85c3d81b596aca0a29387a"
+sha256_texto: "e89311c8d7863bb367fdee59882c5a5717657144d9d16665231cff52170f10ef"
+capturado_em_fonte: "2026-10-27T21:12:17.254780-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.472, de 01 de julho de 2009
+
+REORGANIZA O CONSELHO MUNICIPAL DOS DIREITOS DA PESSOA COM DEFICIÊNCIA, DEFININDO NOVA ESTRUTURA E ORGANIZAÇÃO DO CONSELHO MUNICIPAL E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O **PREFEITO MUNICIPAL DE CACOAL**, no uso de suas atribuições legais, faz saber que a Câmara Municipal de Cacoal, aprovou e ele sanciona a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal dos Direitos da Pessoa com Deficiência - CMPD, órgão consultivo e deliberativo com a finalidade e competências seguintes:
+
+
+I –
+
+formular e encaminhar propostas junto à Prefeitura do Município de Cacoal, bem como assessorar e acompanhar a implementação de políticas de interesse das pessoas com deficiência;
+
+
+II –
+
+promover e apoiar atividades que contribuam para a efetiva integração cultural, econômica, social e política das pessoas com deficiência, garantindo a representação dessas pessoas em Conselhos Municipais, nas áreas da Saúde, Habitação, Transporte, Educação e outras;
+
+
+III –
+
+colaborar na defesa dos direitos das pessoas com deficiências, por todos os meios legais que se fizerem necessários;
+
+
+IV –
+
+receber, examinar e efetuar, junto aos órgãos competentes, denúncias acerca de fatos e ocorrências envolvendo práticas discriminatórias;
+
+
+V –
+
+elaborar e aprovar seu Regimento Interno.
+
+
+Art. 2º.
+
+Para a consecução de seus objetivos, caberá, ainda, ao Conselho Municipal dos Direitos da Pessoa com Deficiência:
+
+
+I –
+
+Estimular, apoiar e desenvolver estudos e diagnósticos acerca das situações e da problemática das pessoas com deficiências, no âmbito do Município de Cacoal;
+
+
+II –
+
+Formular políticas municipais de atendimento à pessoa com deficiência, de forma articulada com as Secretarias ou demais órgãos da Administração Municipal envolvidos;
+
+
+III –
+
+Traçar diretrizes, em seu campo de atuação, para a Administração Municipal Direta e Indireta e, de modo subsidiário e indicativo, para o setor privado;
+
+
+IV –
+
+Elaborar e divulgar, por meios diversos, material sobre a situação econômica, social, política e cultural das pessoas com deficiência, seus direitos e garantias, assim como difundir textos de natureza educativa e denunciar práticas, atos ou meios que, direta ou indiretamente, incentivem ou revelem a sua discriminação ou, ainda, restrinjam o seu papel social;
+
+
+V –
+
+Estabelecer, com as Secretarias afins, programas de formação e treinamento dos servidores públicos municipais, objetivando a supressão de práticas discriminatórias nas relações entre os profissionais e entre estes e a população em geral;
+
+
+VI –
+
+Propor, nas áreas que concernem às questões específicas, a celebração de convênios de assessoria das pessoas com deficiência, com entidades públicas e privadas, sem fins lucrativos;
+
+
+VII –
+
+Elaborar e executar projetos ou programas concernentes às condições das pessoas com deficiências que, por sua temática, complexidade ou caráter inovador, não possam, de forma imediata, ser incorporados por outras Secretarias e demais órgãos da Administração Municipal;
+
+
+VIII –
+
+Propor e acompanhar programas ou serviços que, no âmbito da Administração Municipal, sejam destinados ao atendimento das pessoas com deficiências, através de medidas de aperfeiçoamento de coleta de dados para finalidades de ordem estatística;
+
+
+IX –
+
+Gerenciar os elementos necessários ao desenvolvimento do trabalho do Conselho.
+
+
+Art. 3º.
+
+Conforme calendário do Conselho Nacional dos Direitos da Pessoa com Deficiência será realizado, a Conferência Municipal dos Direitos da Pessoa com Deficiência, para definição ou reavaliação de propostas de ação.
+
+
+Parágrafo único
+
+A Conferência Municipal será convocada pelo Conselho Municipal com, no mínimo 30 (trinta) dias de antecedência, a contar da data de sua realização.
+
+
+Art. 4º.
+
+O Conselho Municipal da Pessoa com Deficiência será composto por 14 (quatorze) membros, garantindo-se nessa composição a participação de órgãos governamentais e não governamentais.
+
+
+§ 1º
+
+A participação dos órgãos governamentais se dará da seguinte forma:
+
+
+I –
+
+01 (um) membro da Representação de Ensino;
+
+
+II –
+
+01 (um) membro de Secretaria Municipal de Saúde;
+
+
+III –
+
+01 (um) membro de Secretaria Municipal de Educação;
+
+
+IV –
+
+01 (um) membro da Secretaria Municipal de Ação Social e Trabalho;
+
+
+V –
+
+01 (um) membro da Secretaria Municipal de Planejamento;
+
+
+VI –
+
+01 (um) membro da II Gerencia Regional de Saúde;
+
+
+VII –
+
+01 (um) membro da Câmara Municipal de Cacoal.
+
+
+§ 2º
+
+A participação dos órgãos não governamentais se dará da seguinte forma:
+
+
+I –
+
+01 (um) membro de Instituição de Ensino Superior;
+
+
+II –
+
+01 (um) membro da APASA;
+
+
+III –
+
+01 (um) membro do CERNIC;
+
+
+IV –
+
+01 (um) membro representante da Pastoral da Criança;
+
+
+V –
+
+01 (um) membro representativo de clubes de serviço;
+
+
+VI –
+
+01 (um) membro representante da AAPEC – Associação dos Aposentados, Pensionista, Idosos e Portadores de Deficiência de Cacoal –RO.
+
+
+VII –
+
+01 (um) membro da APEC – Associação dos Pastores Evangélicos de Cacoal.
+
+
+Art. 5º.
+
+O Conselho elegerá a sua diretoria executiva composta por um Presidente, um Vice-presidente e um Secretário, na forma do regimento interno
+
+
+§ 1º
+
+O mandato dos membros da diretoria executiva será de 2 (dois) anos, permitida uma recondução.
+
+
+§ 2º
+
+As funções dos membros do Conselho Municipal não serão remuneradas, sendo consideradas serviço público relevante.
+
+
+§ 3º
+
+Os casos de impedimentos e substituições dos membros da Diretoria, bem como os motivos relevantes que possam determinar tais providências, a serem apreciados em reunião ampla, serão disciplinados pelo Regimento Interno do Conselho Municipal da Pessoa com Deficiência.
+
+
+Art. 6º.
+
+Competirá a diretoria executiva:
+
+
+I –
+
+Elaborar e definir a programação geral do Conselho Municipal da Pessoa Deficiente;
+
+
+II –
+
+Incentivar e garantir a integração de todas as equipes na definição das diretrizes políticas e da programação geral do Conselho;
+
+
+III –
+
+Propor a estrutura administrativa do Conselho;
+
+
+IV –
+
+Articular os programas de implantação de Projetos com os Programas das diversas Secretarias, Autarquias e Empresas Municipais;
+
+
+V –
+
+Propor, incentivar, assessorar e acompanhar iniciativas que concernem às questões das pessoas portadoras de deficiência;
+
+
+VI –
+
+Convocar a Conferência municipal e as Reuniões Plenárias Mensais do Conselho, definindo as pautas concernentes a tais eventos, na forma de seu Regimento Interno.
+
+
+Art. 7º.
+
+A Secretaria Municipal de Ação Social e Trabalho propiciará ao Conselho as condições necessárias ao seu funcionamento.
+
+
+Art. 8º.
+
+O Conselho poderá manter contato direto com as diversas Secretarias, Autarquias e Empresas Municipais, objetivando o efetivo encaminhamento de suas propostas.
+
+
+Art. 9º.
+
+Das deliberações do Conselho, em suas várias instâncias, serão lavradas atas a serem registradas em livro próprio, na Secretaria Municipal de Ação Social e Trabalho.
+
+
+Art. 10.
+
+Esta lei entra em vigor na data de sua publicação, revogando as disposições em contrário e em especial a Lei n.º 1.856/PMC/05.
+
+
+Cacoal-RO, 01 de julho de 2009.
+
+FRANCESCO VIALETTO
+
+Prefeito de Cacoal
+
+MARCELO VAGNER PENA DE CARVALHO
+
+Procurador-Geral do Município - OAB/RO 1171
+

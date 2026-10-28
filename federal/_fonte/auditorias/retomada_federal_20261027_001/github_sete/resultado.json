@@ -1,0 +1,1265 @@
+{
+  "escopo": "Exatamente sete POST ao endpoint oficial GitHub markdown para render, sem publicação nem requisição governamental adicional. Requests e responses integrais preservados.",
+  "limite": "GitHub pode sanitizar CSS/classes; compara texto, sinais, números/contextos e ol/ul/li/type/start/value. Não afirma identidade visual de CSS.",
+  "resumo": {
+    "chamadas": 7,
+    "aprovados": 7,
+    "divergencias": 0
+  },
+  "registros": [
+    {
+      "path": "federal/decretos/1947/dec-23680-1947-09-16.md",
+      "lote": 15,
+      "arquivo_final": "federal/_candidatos_listas_html_original_20261021_002/dec-23680-1947-09-16.md",
+      "urn": "urn:lex:br:federal:decreto:1947-09-16;23680",
+      "numero": "23680",
+      "data": "1947-09-16",
+      "sha256_md_final": "a4f7d3159770448ab62195a5b9cbb5c2ffc6100e8c0fc3492bb71a60f148933d",
+      "sha256_md_canonico": "2e0145ae22aed0b4aa70ebe51b7ca7cfd3c74b094d7814a68bb037f87d54cf27",
+      "sha256_html": "502c77b0e5dcd580d90ef3bcdf8e2c53b39a1475386a53b511878354f2cb786d",
+      "fonte_html_cache": "federal/_fonte/decretos/1947/dec-23680-1947-09-16.html.gz",
+      "sha256_metadados": "acc0667001592ad2df0b103a7891d50e6e46f64a7e0f2d5ddff5a4137f42ca18",
+      "captura_metadados": "federal/_fonte/metadados-normas/c6bffa449c92a9010827e6518707d5f738ebdbbb0e568538c6001b642e1e5fb9/acc0667001592ad2df0b103a7891d50e6e46f64a7e0f2d5ddff5a4137f42ca18.json.gz",
+      "estado": "preimagem canônica intacta",
+      "request": {
+        "path": "federal/_fonte/auditorias/retomada_federal_20261027_001/github_sete/01_request.json",
+        "sha256": "6c3a4c6d613562112a74f6c3dfe2929ef35223fae3b356592e5742483bcef7b1"
+      },
+      "response": {
+        "path": "federal/_fonte/auditorias/retomada_federal_20261027_001/github_sete/01_response.html",
+        "sha256": "fb4570f87e36db35226d4d3da50f8c0f170b63c256e3d8621b0e30dcc063cdfe"
+      },
+      "texto_pontuacao_numeros_contextos_iguais": true,
+      "estrutura_listas_type_start_value_igual": true,
+      "listas_fonte": [
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "start",
+              "2"
+            ],
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "start",
+              "3"
+            ],
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "start",
+              "4"
+            ],
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "start",
+              "2"
+            ],
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "start",
+              "8"
+            ],
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "start",
+              "2"
+            ],
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ]
+      ],
+      "listas_render": [
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "start",
+              "2"
+            ],
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "start",
+              "3"
+            ],
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "start",
+              "4"
+            ],
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "start",
+              "2"
+            ],
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "start",
+              "8"
+            ],
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ],
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "start",
+              "2"
+            ],
+            [
+              "type",
+              "1"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ]
+      ],
+      "sha256_visivel_fonte": "669541707730d8fd86a9f11cbc6577455ca22214af5f409422e38392b8cfc5b4",
+      "sha256_visivel_github": "669541707730d8fd86a9f11cbc6577455ca22214af5f409422e38392b8cfc5b4",
+      "aprovado": true
+    },
+    {
+      "path": "federal/decretos/1946/dec-21815-1946-09-04.md",
+      "lote": 16,
+      "arquivo_final": "federal/_candidatos_listas_html_original_20261021_001/dec-21815-1946-09-04.md",
+      "urn": "urn:lex:br:federal:decreto:1946-09-04;21815",
+      "numero": "21815",
+      "data": "1946-09-04",
+      "sha256_md_final": "b47ab7b56cabd1947db7712e0e4b382e3a8cdced3a2138cc02bc4a968aa1ff3c",
+      "sha256_md_canonico": "eea28c830c3d1c116282e50c5c0c2a87ad415308e9dc42144d85dca76d6bf766",
+      "sha256_html": "b5ebb140ef0b7fe6d7e40e3cb4d58bc7dca87ddf9aaf7219fc47bf918dbcce26",
+      "fonte_html_cache": "federal/_fonte/decretos/1946/dec-21815-1946-09-04.html.gz",
+      "sha256_metadados": "840f6d38f0465e904a17118b26c6351c961028b674f019d764eac9edcbcc9ee9",
+      "captura_metadados": "federal/_fonte/metadados-normas/442bc4726318ab0d71b6e3f9ca05798934105782bcdd1bfe238ef2bdb56f5dc9/840f6d38f0465e904a17118b26c6351c961028b674f019d764eac9edcbcc9ee9.json.gz",
+      "estado": "preimagem canônica intacta",
+      "request": {
+        "path": "federal/_fonte/auditorias/retomada_federal_20261027_001/github_sete/02_request.json",
+        "sha256": "6b60966901e68ece1be9d10ecf4e7ff423d3c271bb3135ee5d8ae8b6aeb31eb5"
+      },
+      "response": {
+        "path": "federal/_fonte/auditorias/retomada_federal_20261027_001/github_sete/02_response.html",
+        "sha256": "96b6fdd4325a09319112a5021c7734b5f26bf59fd61f27a6f43e81e5b4a9e760"
+      },
+      "texto_pontuacao_numeros_contextos_iguais": true,
+      "estrutura_listas_type_start_value_igual": true,
+      "listas_fonte": [],
+      "listas_render": [],
+      "sha256_visivel_fonte": "4e755b6d0973ae5896504fc33bb21a1e119f4d3ad79f5341c9d1a1d3b46398a0",
+      "sha256_visivel_github": "4e755b6d0973ae5896504fc33bb21a1e119f4d3ad79f5341c9d1a1d3b46398a0",
+      "aprovado": true
+    },
+    {
+      "path": "federal/decretos/1946/dec-21598-1946-08-10.md",
+      "lote": 16,
+      "arquivo_final": "federal/_candidatos_listas_html_original_20261021_001/dec-21598-1946-08-10.md",
+      "urn": "urn:lex:br:federal:decreto:1946-08-10;21598",
+      "numero": "21598",
+      "data": "1946-08-10",
+      "sha256_md_final": "ded39d8e4e52e43bad657919126199754029504592433fd59f5559a9215b8f55",
+      "sha256_md_canonico": "3467f785d7c654736fc3966a72c8d326764b652b03c5e0e92b5033e22afad4e0",
+      "sha256_html": "5748237177ae36301bf72005da8950f451aabea764de9113b20cb2c8f74ff8ed",
+      "fonte_html_cache": "federal/_fonte/decretos/1946/dec-21598-1946-08-10.html.gz",
+      "sha256_metadados": "748bc53b92308b9b09984a244b31e301e98038c6c75a095ef78fdebdecddaaa0",
+      "captura_metadados": "federal/_fonte/metadados-normas/cd80d1d27dd8e07fea83ad02f7a69c3e19114b51a86ea3def645c1354958aef1/748bc53b92308b9b09984a244b31e301e98038c6c75a095ef78fdebdecddaaa0.json.gz",
+      "estado": "preimagem canônica intacta",
+      "request": {
+        "path": "federal/_fonte/auditorias/retomada_federal_20261027_001/github_sete/03_request.json",
+        "sha256": "eef1c5548bc6f2337fc26343b02fb546b9e0af3707a77cdacf0a4d824acde2fd"
+      },
+      "response": {
+        "path": "federal/_fonte/auditorias/retomada_federal_20261027_001/github_sete/03_response.html",
+        "sha256": "5947daa5c9f5834edb390c02f4c19a7692d4e1827c11cdda7fc07c9d207a506b"
+      },
+      "texto_pontuacao_numeros_contextos_iguais": true,
+      "estrutura_listas_type_start_value_igual": true,
+      "listas_fonte": [],
+      "listas_render": [],
+      "sha256_visivel_fonte": "647e6d3e9ab81a784d228dbaee1f3f33721ebb2dabfaa85118f66a857fac8d3a",
+      "sha256_visivel_github": "647e6d3e9ab81a784d228dbaee1f3f33721ebb2dabfaa85118f66a857fac8d3a",
+      "aprovado": true
+    },
+    {
+      "path": "federal/decretos/1945/dec-19741-1945-10-06.md",
+      "lote": 17,
+      "arquivo_final": "federal/_candidatos_listas_html_original_20261021_002/dec-19741-1945-10-06.md",
+      "urn": "urn:lex:br:federal:decreto:1945-10-06;19741",
+      "numero": "19741",
+      "data": "1945-10-06",
+      "sha256_md_final": "a71438834e071f82f0f7a9fd7aff1e47b56f164dd2f7abe6245a45f3d8bed445",
+      "sha256_md_canonico": "431a9032fe75573a2d2f3115462c5a56729494fd69973b39cdaca8df79d2f5d1",
+      "sha256_html": "e8ea8fcf6f8007c743c51bb7a76057b352beff504682ae01d452fef0d05ecc79",
+      "fonte_html_cache": "federal/_fonte/decretos/1945/dec-19741-1945-10-06.html.gz",
+      "sha256_metadados": "bb38fe63e7399052978a78e440eb4245a280d70cb320c17663700dac61c159cb",
+      "captura_metadados": "federal/_fonte/metadados-normas/f95f48279ef78f214e61587372fefed2aa701d764924f5dce9112e47e4b8af24/bb38fe63e7399052978a78e440eb4245a280d70cb320c17663700dac61c159cb.json.gz",
+      "estado": "preimagem canônica intacta",
+      "request": {
+        "path": "federal/_fonte/auditorias/retomada_federal_20261027_001/github_sete/04_request.json",
+        "sha256": "d747a7960b360dbef214225d867cb313e257555dad8ae121b4fede51d285feb3"
+      },
+      "response": {
+        "path": "federal/_fonte/auditorias/retomada_federal_20261027_001/github_sete/04_response.html",
+        "sha256": "36ccecdd0a5a8f695f7d95cfb3a7c08baa134e6e9ca0039f253e0e4990476e2b"
+      },
+      "texto_pontuacao_numeros_contextos_iguais": true,
+      "estrutura_listas_type_start_value_igual": true,
+      "listas_fonte": [
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "A"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ]
+      ],
+      "listas_render": [
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "A"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ]
+      ],
+      "sha256_visivel_fonte": "5e6b33c190d6a7d5cebb56065474389f6f5a888454b71ef0a62141b6c587a584",
+      "sha256_visivel_github": "5e6b33c190d6a7d5cebb56065474389f6f5a888454b71ef0a62141b6c587a584",
+      "aprovado": true
+    },
+    {
+      "path": "federal/decretos/1945/dec-19602-1945-09-13.md",
+      "lote": 17,
+      "arquivo_final": "federal/_candidatos_listas_html_original_20261021_001/dec-19602-1945-09-13.md",
+      "urn": "urn:lex:br:federal:decreto:1945-09-13;19602",
+      "numero": "19602",
+      "data": "1945-09-13",
+      "sha256_md_final": "e05446192cd29f955df4dacbd064b47c4701e593e5b710118cb4daa6ff238d88",
+      "sha256_md_canonico": "6d2d2389f0a5a6b08582c0cfacb07fe467d7cf427c602c1d089a363145cf8eb9",
+      "sha256_html": "866c875713c9b855f88af541719e4b98bfc5c63b8c4ed3dfd23573215946e287",
+      "fonte_html_cache": "federal/_fonte/decretos/1945/dec-19602-1945-09-13.html.gz",
+      "sha256_metadados": "ca923aa863e8b456938b61208c8c5b03906b95f04e66e324b35fa22b6b730dac",
+      "captura_metadados": "federal/_fonte/metadados-normas/03243e50d2aa4de62b74821526eb20fb511f691033e9e8cdfbdbfa388fb69a05/ca923aa863e8b456938b61208c8c5b03906b95f04e66e324b35fa22b6b730dac.json.gz",
+      "estado": "preimagem canônica intacta",
+      "request": {
+        "path": "federal/_fonte/auditorias/retomada_federal_20261027_001/github_sete/05_request.json",
+        "sha256": "3724e1595e5dd4041d557140c9c3e10de8935a41ea6b396abcf504f2cede3185"
+      },
+      "response": {
+        "path": "federal/_fonte/auditorias/retomada_federal_20261027_001/github_sete/05_response.html",
+        "sha256": "529553cbd536bd4e94fbbe478acefd1c51a4cb0c1d74eda68aca2da9521bcdd1"
+      },
+      "texto_pontuacao_numeros_contextos_iguais": true,
+      "estrutura_listas_type_start_value_igual": true,
+      "listas_fonte": [],
+      "listas_render": [],
+      "sha256_visivel_fonte": "810ade0c56bdf851f632ba46888ba9abb2b2e81d5d86847a2ccc0e14bb0b1507",
+      "sha256_visivel_github": "810ade0c56bdf851f632ba46888ba9abb2b2e81d5d86847a2ccc0e14bb0b1507",
+      "aprovado": true
+    },
+    {
+      "path": "federal/decretos/1944/dec-16604-1944-09-15.md",
+      "lote": 19,
+      "arquivo_final": "federal/_candidatos_listas_html_original_20261021_003/dec-16604-1944-09-15.md",
+      "urn": "urn:lex:br:federal:decreto:1944-09-15;16604",
+      "numero": "16604",
+      "data": "1944-09-15",
+      "sha256_md_final": "0ec1e9ab7fe764a611f5f9d354df9aa43ed9115244fd47e9d7bf8f19b5253c76",
+      "sha256_md_canonico": "eeb74870679a01891ed9f098483eb308a9136c2126cb2f62cc80bc7bd77f17b8",
+      "sha256_html": "38e6c0e608e7f4046a091d42c01b4660ad2655c7dd8ef5f52bc34beca5683b89",
+      "fonte_html_cache": "federal/_fonte/decretos/1944/dec-16604-1944-09-15.html.gz",
+      "sha256_metadados": "b491d59ae6a7f89066729b9408a3735b68f193a77f3084bac2977989437c0d9f",
+      "captura_metadados": "federal/_fonte/metadados-normas/6b732a6add2eba301f921c6d1716cc72abe9aed4844d3079af8c89de0ccc754a/b491d59ae6a7f89066729b9408a3735b68f193a77f3084bac2977989437c0d9f.json.gz",
+      "estado": "preimagem canônica intacta",
+      "request": {
+        "path": "federal/_fonte/auditorias/retomada_federal_20261027_001/github_sete/06_request.json",
+        "sha256": "f2f398a3147ab873d650ed92a59de73e26dc826ae1663a26d260221d397361df"
+      },
+      "response": {
+        "path": "federal/_fonte/auditorias/retomada_federal_20261027_001/github_sete/06_response.html",
+        "sha256": "2f308ee1fc7a59498b17d850921b3dfe935340f102a232b4690df11150729177"
+      },
+      "texto_pontuacao_numeros_contextos_iguais": true,
+      "estrutura_listas_type_start_value_igual": true,
+      "listas_fonte": [
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "A"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ]
+      ],
+      "listas_render": [
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "A"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ]
+      ],
+      "sha256_visivel_fonte": "6d9ba28048723dab405335d13b671043ab7da040d9931fb54e89316aac9e5c34",
+      "sha256_visivel_github": "6d9ba28048723dab405335d13b671043ab7da040d9931fb54e89316aac9e5c34",
+      "aprovado": true
+    },
+    {
+      "path": "federal/decretos/1944/dec-16603-1944-09-15.md",
+      "lote": 19,
+      "arquivo_final": "federal/_candidatos_listas_html_original_20261021_003/dec-16603-1944-09-15.md",
+      "urn": "urn:lex:br:federal:decreto:1944-09-15;16603",
+      "numero": "16603",
+      "data": "1944-09-15",
+      "sha256_md_final": "2e9f56ebe7ca2ce890c7256ed8f241e647974651386f5a8387e0f6afa94b180b",
+      "sha256_md_canonico": "a0cadcdc480552f3b61438be5298cb31f33b489219f6170beb462d7e2cf1529e",
+      "sha256_html": "00e3f4431b20240f18d4db5beac751e2f64038b6d5192f846c9ee59d097d7eba",
+      "fonte_html_cache": "federal/_fonte/decretos/1944/dec-16603-1944-09-15.html.gz",
+      "sha256_metadados": "e73ce420f828936c1027a1530cb3c64758112ca311a5687b12652e189fd7f11f",
+      "captura_metadados": "federal/_fonte/metadados-normas/e9e2e03dcd5f71739260d846a66b88cdf55eaef5cc308a3b06eb71da6afdff65/e73ce420f828936c1027a1530cb3c64758112ca311a5687b12652e189fd7f11f.json.gz",
+      "estado": "preimagem canônica intacta",
+      "request": {
+        "path": "federal/_fonte/auditorias/retomada_federal_20261027_001/github_sete/07_request.json",
+        "sha256": "bed9c67a4daef9c1c46e028dd8ecb96ae2b93132142813e0d7eb61a8e5079fe7"
+      },
+      "response": {
+        "path": "federal/_fonte/auditorias/retomada_federal_20261027_001/github_sete/07_response.html",
+        "sha256": "2597236f5cdb879f733f3fdc5e1f90d74341b55ebcc032e3053ac511f1293c15"
+      },
+      "texto_pontuacao_numeros_contextos_iguais": true,
+      "estrutura_listas_type_start_value_igual": true,
+      "listas_fonte": [
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "A"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ]
+      ],
+      "listas_render": [
+        [
+          "inicio",
+          "ol",
+          [
+            [
+              "type",
+              "A"
+            ]
+          ]
+        ],
+        [
+          "inicio",
+          "li",
+          []
+        ],
+        [
+          "fim",
+          "li"
+        ],
+        [
+          "fim",
+          "ol"
+        ]
+      ],
+      "sha256_visivel_fonte": "5ffddb9a731096181bc4887d5b0b776c04010a3f0057f5f320f7ef5b23a1d76c",
+      "sha256_visivel_github": "5ffddb9a731096181bc4887d5b0b776c04010a3f0057f5f320f7ef5b23a1d76c",
+      "aprovado": true
+    }
+  ]
+}

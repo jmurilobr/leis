@@ -1,0 +1,188 @@
+---
+titulo: "Lei Ordinária Municipal nº 1.646, de 12 de abril de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "1646"
+data: "2017-04-12"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/239"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/377/text"
+sha256_fonte: "aebd51f885cb5a1a26e8b4dbbb0a1865799eea06c49125a427e50b5a94731af5"
+sha256_texto: "b5f7f187c499ea223caf7afd89d9434ef42a8f000e3abc547332dd8e8e350fce"
+capturado_em_fonte: "2026-10-27T22:34:20.915584-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 1.646, de 12 de abril de 2017
+
+Fica o Poder Executivo Municipal autorizado a Promover no Município de Califórnia, o programa “FRENTE DE TRABALHO” e dá outras providências.
+
+
+A CÂMARA DE VEREADORES DO MUNICÍPIO DE CALIFÓRNIA, ESTADO DO PARANÁ, APROVOU E EU, PREFEITO, SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a Promover no Município de Califórnia, o programa “FRENTE DE TRABALHO”, sendo de caráter assistencial, de adesão voluntária e com o objetivo de atender necessidade excepcional de interesse público, visando minorar grave problema social existente no município, causado pelo desemprego.
+
+
+Parágrafo único
+
+O programa FRENTE DE TRABALHO terá duração de 12 (doze) meses, com inicio após a publicação da presente Lei.
+
+
+Art. 2º.
+
+O programa “FRENTE DE TRABALHO” será priorizado através de chamamento público pela Secretaria Municipal Assistência Social e Cidadania - SASC, que após a seleção dos beneficiários disponibilizará a criação de postos de trabalho, visando atender os moradores em condição de vulnerabilidade social.
+
+
+Art. 3º.
+
+A preferência de acesso às vagas criadas respeitará a seguinte ordem:
+
+
+I –
+
+I. Maior tempo de desemprego e não estar recebendo seguro desemprego ou qualquer tipo de beneficio ou auxilio previdenciário;
+
+
+II –
+
+II. Não ter outra pessoa da família trabalhando na Frente de Trabalho;
+
+
+III –
+
+III. Morar em residência alugada;
+
+
+IV –
+
+IV. Maior número de pessoas desempregadas na família;
+
+
+V –
+
+V. Família com maior número de integrantes com idade inferior a 16 (dezesseis) anos e superior a 60 (sessenta) anos;
+
+
+VI –
+
+VI. Família com integrantes portadores de necessidades especiais ou doença crônica;
+
+
+VII –
+
+VII. Família com menor renda per capita;
+
+
+VIII –
+
+VIII. Maior tempo morando no município;
+
+
+Parágrafo único
+
+O trabalho no programa somente será concedido às pessoas com CPF regularizado e com idade mínima de 18 (dezoito) anos.
+
+
+Art. 4º.
+
+Será repassado auxilio financeiro ao beneficiário do Programa “FRENTE de TRABALHO” correspondente aos seguintes valores;
+
+
+a) No valor de R$ 46,85 (quarenta e seis reais e oitenta e cinco centavos), por 08 horas/dia.
+
+
+Art. 5º.
+
+O Programa “Frente de Trabalho” consiste na contratação temporária de caráter excepcional em conformidade com o art. 37, inciso IX da Constituição Federal. A participação no programa não gerará quaisquer vínculos empregatícios ou profissionais, desconto ou contribuição previdenciária entre o beneficiário e o Município de Califórnia.
+
+
+Art. 6º.
+
+Os interessados em participar do programa deverão estar em condições de saúde física e mental para desempenhar os serviços na Frente de Trabalho.
+
+
+§ 1º
+
+Os beneficiários do Programa Frente de Trabalho desenvolverão suas atividades junto aos órgãos da administração pública direta ou indireta e entidades sem fins lucrativos, como instrutor de programas ou projetos sociais, limpeza de ruas, praças, bueiros, terrenos, coleta de lixo, manutenção de esgoto, pintura e conservação dos prédios públicos e outras atividades necessárias da administração pública.
+
+
+§ 2º
+
+Os beneficiários do Programa estarão sujeitos à avaliação sistemática e controle periódico, a critério da Secretaria, sendo condição para o recebimento a assiduidade absoluta ao trabalho.
+
+
+§ 3º
+
+Cada beneficiário poderá trabalhar, no máximo, 20 (vinte) dias em cada mês e 180 (cento e oitenta) dias no ano.
+
+
+§ 4º
+
+O horário da atividade poderá ser reduzido, sem qualquer prejuízo dos valores, desde que o beneficiário participe dos cursos, estudos, capacitações, alfabetização e outras atividades ministradas pela Secretaria Municipal Assistência Social e Cidadania - SASC ou outros órgãos da administração municipal.
+
+
+Art. 7º.
+
+As pessoas beneficiadas pelo programa, que tenham filhos em idade escolar, se obrigam a mantê-los matriculados e frequentando a rede pública de ensino.
+
+
+Art. 8º.
+
+O Executivo Municipal poderá firmar parcerias/convênios com instituições da administração pública direta ou indireta e privada sem fins lucrativos, para o pleno desenvolvimento do programa.
+
+
+Art. 9º.
+
+As despesas decorrentes da presente Lei, correrão por conta da seguinte dotação:
+
+06 – SECRETARIA DE ASSISTÊNCIA SOCIAL E CIDADANIA
+
+06.015 – FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+08 – ASSISTÊNCIA SOCIAL
+
+08 244 – MANUTENÇÃO DO FUNDO MUNICIPAL DE ASSISTÊNCIA
+
+SOCIAL
+
+08 244 0010 – PROGRAMA DE ASSISTENCIA COMUNITÁRIA
+
+08 244 0010 2031 – MANUTENÇÃO DO FUNDO MUNICIPAL DE
+
+ASSISTÊNCIA SOCIAL
+
+339048000000 0177 – OUTROS AUXÍLIOS FINANCEIROS A PESSOAS FÍSICAS
+
+
+Art. 10.
+
+Os casos omissos no programa Frente de Trabalho, bem como o reajuste no valor horas/dia ou benefícios/incentivos aos seus beneficiários, serão regulamentados através de Decreto pelo Executivo Municipal.
+
+
+Art. 11.
+
+A quantidade de vagas se limita a 30 (trinta) pessoas.
+
+
+Art. 12.
+
+Esta Lei entra em vigor, na data de sua publicação, revogando as disposições em contrário.
+
+
+Edifício da Prefeitura do Município de Califórnia,
+
+aos 12 dias do mês de abril de 2017.
+
+**PAULO WILSON MENDES**
+
+Prefeito
+

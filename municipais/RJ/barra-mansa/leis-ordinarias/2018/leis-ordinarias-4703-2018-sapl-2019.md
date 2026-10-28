@@ -1,0 +1,61 @@
+---
+titulo: "Lei Ordinária nº 4.703, de 14 de maio de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4703"
+data: "2018-05-14"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/2019"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/791/text"
+sha256_fonte: "b869da0155654fd3eed5aac06543b1c654e1c0d6534a7b4c1db71ffe51736e22"
+sha256_texto: "24a492872faab3273d3c22b47a7caf197a2fdbcdf18b337ad374c90d8cdc0306"
+capturado_em_fonte: "2026-10-27T17:38:06.665212-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.703, de 14 de maio de 2018
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI Nº4703, DE 14 DE MAIO DE 2018.
+
+
+“Fixa os vencimentos dos Cargos Efetivos da Câmara Municipal de Barra Mansa, constantes da Resolução 074/2017”.
+
+
+Art. 1º.
+
+Fica fixado os vencimentos básicos dos cargos efetivos da Câmara Municipal de Barra Mansa, contidos na Resolução 074/2017, de acordo a tabela que faz parte integrante desta lei, conforme abaixo:
+
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td><strong>Nomenclatura dos Cargos Efetivos</strong></td><td><strong>Nível</strong></td><td><strong>N° de Cargos</strong></td></tr><tr><td><p>Procurador</p></td><td><p>V</p></td><td>01</td></tr><tr><td><p>Supervisor de Secretaria</p></td><td><p>V</p></td><td><p>01</p></td></tr><tr><td><p>Analista de Tesouraria</p></td><td><p>V</p></td><td><p>01</p></td></tr><tr><td><p>Supervisor de Recursos Humanos</p></td><td><p>V</p></td><td><p>01</p></td></tr><tr><td><p>Analista de Recursos Humanos</p></td><td><p>V</p></td><td><p>01</p></td></tr><tr><td><p> Contador</p></td><td><p>V</p></td><td><p>01</p></td></tr><tr><td><p>Oficial de Almoxarifado</p></td><td><p>V</p></td><td><p>01</p></td></tr><tr><td><p>Oficial de Arquivo</p></td><td><p>V</p></td><td><p>01</p></td></tr><tr><td><p>Oficial de Patrimônio</p></td><td><p>V</p></td><td><p>01</p></td></tr><tr><td><p>Contabilista do Controle Interno</p></td><td><p>V</p></td><td><p>02</p></td></tr><tr><td><p>Analista de Informática</p></td><td><p>V</p></td><td><p>01</p></td></tr><tr><td><p>Operador de som</p></td><td><p>III</p></td><td><p>01</p></td></tr><tr><td><p>Operador de Som, Câmera e Radiodifusão</p></td><td><p>IV</p></td><td><p>01</p></td></tr><tr><td><p>Analista de compras, licitação e contratos</p></td><td><p>V</p></td><td><p>02</p></td></tr><tr><td><p>Oficial Administrativo</p></td><td><p>V</p></td><td><p>01</p></td></tr><tr><td><p>Auxiliar Administrativo</p></td><td><p>IV</p></td><td><p>03</p></td></tr><tr><td><p>Auxiliar de Imprensa</p></td><td><p>V</p></td><td><p>01</p></td></tr><tr><td><p>Auxiliar de Secretaria</p></td><td><p>IV</p></td><td><p>01</p></td></tr><tr><td><p>Secretário de Atas</p></td><td><p>V</p></td><td><p>01</p></td></tr><tr><td><p>Oficial de Livros</p></td><td><p>V</p></td><td><p>01</p></td></tr><tr><td><p>Auxiliar de Protocolo</p></td><td><p>IV</p></td><td><p>01</p></td></tr><tr><td><p>Recepcionista</p></td><td><p>III</p></td><td><p>01</p></td></tr><tr><td><p>Telefonista</p></td><td><p>III</p></td><td><p>02</p></td></tr><tr><td><p>Motorista III 05</p></td><td><p>III</p></td><td><p>05</p></td></tr><tr><td><p>Vigia</p></td><td><p>II</p></td><td><p>01</p></td></tr><tr><td><p>Auxiliar de Serviços Gerais</p></td><td><p>II</p></td><td><p>08</p></td></tr></tbody></table>
+
+
+Art. 2º.
+
+Fica a Mesa Executiva autorizada a promover o reenquadramento dos servidores ocupantes dos cargos de recepcionista e telefonista, em virtude da extinção de nível de que trata a Resolução 001/2015, cujo requisito é o ensino médio, para o nível III.
+
+
+Art. 3º.
+
+Fica o nível de referência II para os cargos de exigência de escolaridade o ensino fundamental.
+
+
+Art. 4º.
+
+Revogada as disposições em contrario, esta Lei entrará em vigor na data de sua publicação, retroagindo seus efeitos a partir de 1° de maio de 2018.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 14 DE MAIO DE 2018.
+
+
+RODRIGO DRABLE COSTA  
+PREFEITO
+

@@ -1,0 +1,259 @@
+{
+  "criterio": "Revisão contextual apenas dos alertas anteriores: contadores efetivos de ol/start/li associados à AST e ao delimitador manual, sem copiar número da fonte. Preserva pontuação e sinais; divergências remanescentes continuam retidas. Listas nativas da fonte não recebem materialização automática.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "63b916abe1e6c687db373e67610a4ea584fb04e3c2029873da8c84c91b77ee72",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "iguais": 5,
+    "revisar": 1
+  },
+  "documentos": [
+    {
+      "path": "reguladores/ministerio-da-infraestrutura/resolucoes/2020/resolucao-n-12-de-26-de-maio-de-2020-258705468.md",
+      "sha256_md": "3103c00106ca97cb920e0ff8c43ed6012dea938f7a7d344b52214d38c300699a",
+      "sha256_fonte": "b84b8a278b971f9793a8260b0e4e7b666b127b13d23178c480c092394bada394",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              12,
+              14
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              22,
+              24
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "3a1aae0912aba4b27555a0038ea5f735c7713fb9fd0b88c62119bbc1f0b3e564",
+      "sha256_visivel_md": "3a1aae0912aba4b27555a0038ea5f735c7713fb9fd0b88c62119bbc1f0b3e564"
+    },
+    {
+      "path": "reguladores/ministerio-da-mulher-da-familia-e-dos-di/portarias/2021/portaria-n-3.484-de-6-de-outubro-de-2021-350935539.md",
+      "sha256_md": "4f31f4aa389feb679f577886e12d6169aafee555a25f20fe5e4d4ddc8bf1f7e2",
+      "sha256_fonte": "f902a6861c2bed2abe4d66c23c665036f817887b4734d0f5acc326030ced5ec7",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — FLUXO NACIONAL DE ATENDIMENTO ÀS VÍTIMAS DE TRABALHO ESCRAVO",
+          "fonte": "ANEXO I FLUXO NACIONAL DE ATENDIMENTO ÀS VÍTIMAS DE TRABALHO ESCRAVO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — TERMO DE ADESÃO",
+          "fonte": "ANEXO II TERMO DE ADESÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO III — TERMO DE ADESÃO",
+          "fonte": "ANEXO III TERMO DE ADESÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              50,
+              52
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              54,
+              56
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              58,
+              60
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "5b02151f494d0af3d2940ef49323dc43ba770875565659a5cdeac0e2cb38dcb3",
+      "sha256_visivel_md": "29172a38cac66865be389cfceca076f07eb6c0f4a664bbd42e10a7e697118f11"
+    },
+    {
+      "path": "reguladores/ministerio-da-mulher-da-familia-e-dos-di/resolucoes/2020/resolucao-n-14-de-11-de-dezembro-de-2019-236401658.md",
+      "sha256_md": "b056779bc5b82be486a994a50d42436b46684c2e6361df156f90e9d8ab8075b0",
+      "sha256_fonte": "682d8c8ff56ccee0b799305722d196aecfc98fb94ee3f52367c12d9a06530098",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              72,
+              122
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "86d0c29cd6637f4dd06c501bb2b60fcda771bca07b3f99c392fa782018267b08",
+      "sha256_visivel_md": "86d0c29cd6637f4dd06c501bb2b60fcda771bca07b3f99c392fa782018267b08"
+    },
+    {
+      "path": "reguladores/ministerio-do-desenvolvimento-regional/portarias/2021/portaria-n-3.108-de-9-de-dezembro-de-2021-366043655.md",
+      "sha256_md": "47f4f92564ac295816d3e3792ded067574ff82408f6c3836c7b043fa847dad83",
+      "sha256_fonte": "81207ce3779cb44e0fb795b20223687320bfbbb0feba6689a7e74d4ef41def99",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              178,
+              180
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "1ab80acc6b383423138ad9cb2e5a2cc8629301b1cb1b73cbb3d5f502adb8494e",
+      "sha256_visivel_md": "1ab80acc6b383423138ad9cb2e5a2cc8629301b1cb1b73cbb3d5f502adb8494e"
+    },
+    {
+      "path": "reguladores/ministerio-do-desenvolvimento-regional/resolucoes/2019/resolucao-n-91-de-16-de-setembro-de-2019-219918446.md",
+      "sha256_md": "1f01f40f472f1de06edb1be3f345882f73f48136636ccbf045b30adb7c533d4b",
+      "sha256_fonte": "819ff43d34539ab5d37b925953ef2bd9ef59268a8b0139c336b35182d28937b9",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 4,
+            "markup": ")",
+            "linhas": [
+              28,
+              30
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "043ba46bc2fb55d92b59cd3ef5a4efee2a6dac57fd4ffc216ed1b1fd032a577f",
+      "sha256_visivel_md": "043ba46bc2fb55d92b59cd3ef5a4efee2a6dac57fd4ffc216ed1b1fd032a577f"
+    },
+    {
+      "path": "reguladores/secretaria-especial-da-cultura/portarias/2019/portaria-n-1-de-2-de-janeiro-de-2019-57732532.md",
+      "sha256_md": "b14bacaa63c6b4fb7820d83d77745263b26809f8bdbfbca241940c32c6652d17",
+      "sha256_fonte": "d4c3784329ed1f3968302cd64754bebbb5c18c145bccb2aded56d280e8c42476",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 2 AUDIOVISUAL (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 2 AUDIOVISUAL (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — 161051 - \"Pessoa 4km2 - A Lisboa do Poeta\"",
+          "fonte": "ANEXO II 161051 - \"Pessoa 4km2 - A Lisboa do Poeta\"",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "68d02313993389adec1c2d042524bc55bbb9112cf8824e3703a12e5dd3b7d13e",
+      "sha256_visivel_md": "3a3a1277b7a43d01695dc5445ad040602d379294ae73d86685c003f3226c9076",
+      "primeira_diferenca": {
+        "posicao": 20328,
+        "fonte": "019 176255 - Cidade em movimento BURBURINHO CULTURAL PRODUCOES ARTISTICAS LTDA. &#x2013; ME CNPJ/CPF: 08.422.837/0001-30 Cidade: Rio de Janeiro - RJ; Prazo de Captação: 01/01/2019 à 31/12/2019 179567 - Cine & Bate-Papo - Brasília RAFAEL AUG",
+        "md": "019 176255 - Cidade em movimento BURBURINHO CULTURAL PRODUCOES ARTISTICAS LTDA. – ME CNPJ/CPF: 08.422.837/0001-30 Cidade: Rio de Janeiro - RJ; Prazo de Captação: 01/01/2019 à 31/12/2019 179567 - Cine & Bate-Papo - Brasília RAFAEL AUGUSTO DA"
+      }
+    }
+  ]
+}

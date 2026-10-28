@@ -1,0 +1,116 @@
+{
+  "recursos": [
+    {
+      "sha256": "1fc50b2d464855b8e203432dbc746dc99a4ae7fb94c88f662e6d9612a435ab79",
+      "arquivo": "estaduais/SE/_fonte/auditorias/visuais-html-20261027-005/1fc50b2d464855b8e203432dbc746dc99a4ae7fb94c88f662e6d9612a435ab79.bin",
+      "dimensoes": [
+        83,
+        125
+      ],
+      "id_exemplo": "10237",
+      "ocorrencias": 1
+    },
+    {
+      "sha256": "248763c6729f1f98e184972bbea3aa56eb348cdc323e8658310fc00b7c60ff6e",
+      "arquivo": "estaduais/SE/_fonte/auditorias/visuais-html-20261027-005/248763c6729f1f98e184972bbea3aa56eb348cdc323e8658310fc00b7c60ff6e.bin",
+      "dimensoes": [
+        82,
+        125
+      ],
+      "id_exemplo": "9590",
+      "ocorrencias": 2
+    },
+    {
+      "sha256": "31331045fb310ed78bcf3fabf5ae4b4ae0154b54ecc56cf26667a2d134c331e2",
+      "arquivo": "estaduais/SE/_fonte/auditorias/visuais-html-20261027-005/31331045fb310ed78bcf3fabf5ae4b4ae0154b54ecc56cf26667a2d134c331e2.bin",
+      "dimensoes": [
+        83,
+        125
+      ],
+      "id_exemplo": "11307",
+      "ocorrencias": 1
+    },
+    {
+      "sha256": "4b02f0dff709b8b5c1633a0968cb6cd7e249f87b8a785a5f9c7e2e963010c78d",
+      "arquivo": "estaduais/SE/_fonte/auditorias/visuais-html-20261027-005/4b02f0dff709b8b5c1633a0968cb6cd7e249f87b8a785a5f9c7e2e963010c78d.bin",
+      "dimensoes": [
+        84,
+        125
+      ],
+      "id_exemplo": "10173",
+      "ocorrencias": 11
+    },
+    {
+      "sha256": "6503c3fde229020563b454bb9bc1cf44483d4358b3ca802afbac677fdefdcb47",
+      "arquivo": "estaduais/SE/_fonte/auditorias/visuais-html-20261027-005/6503c3fde229020563b454bb9bc1cf44483d4358b3ca802afbac677fdefdcb47.bin",
+      "dimensoes": [
+        83,
+        126
+      ],
+      "id_exemplo": "10084",
+      "ocorrencias": 1
+    },
+    {
+      "sha256": "9cca16065d32c08180f491a16c013dd9b0039e2d892a24e90f9f6f39ad7517e8",
+      "arquivo": "estaduais/SE/_fonte/auditorias/visuais-html-20261027-005/9cca16065d32c08180f491a16c013dd9b0039e2d892a24e90f9f6f39ad7517e8.bin",
+      "dimensoes": [
+        103,
+        156
+      ],
+      "id_exemplo": "9738",
+      "ocorrencias": 18
+    },
+    {
+      "sha256": "c43b9bfa3cd3485126c18ad91e69c210dabbcd716e3a76405d0f91f5aa7a0309",
+      "arquivo": "estaduais/SE/_fonte/auditorias/visuais-html-20261027-005/c43b9bfa3cd3485126c18ad91e69c210dabbcd716e3a76405d0f91f5aa7a0309.bin",
+      "dimensoes": [
+        83,
+        125
+      ],
+      "id_exemplo": "12028",
+      "ocorrencias": 1
+    },
+    {
+      "sha256": "e1b2e09da9916eff8f5d8acedba4cd8f859a624a0c5c7109f0f35d38b4172833",
+      "arquivo": "estaduais/SE/_fonte/auditorias/visuais-html-20261027-005/e1b2e09da9916eff8f5d8acedba4cd8f859a624a0c5c7109f0f35d38b4172833.bin",
+      "dimensoes": [
+        4,
+        19
+      ],
+      "id_exemplo": "10237",
+      "ocorrencias": 1
+    },
+    {
+      "sha256": "f6dd75fe77c5ded4dfa9cebd5eea16121e17a6a6280205f0289349b25d9dc4a8",
+      "arquivo": "estaduais/SE/_fonte/auditorias/visuais-html-20261027-005/f6dd75fe77c5ded4dfa9cebd5eea16121e17a6a6280205f0289349b25d9dc4a8.bin",
+      "dimensoes": [
+        85,
+        125
+      ],
+      "id_exemplo": "2796",
+      "ocorrencias": 3
+    }
+  ],
+  "nao_identificados": [
+    {
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "arquivo": "estaduais/SE/_fonte/auditorias/visuais-html-20261027-005/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.bin",
+      "erro": "cannot identify image file 'estaduais/SE/_fonte/auditorias/visuais-html-20261027-005/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.bin'",
+      "ocorrencias": [
+        {
+          "id": "2824",
+          "url": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L72682011_files/brasao.png",
+          "url_final": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L72682011_files/brasao.png",
+          "http": 404,
+          "arquivo": "estaduais/SE/_fonte/auditorias/visuais-html-20261027-005/e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.bin",
+          "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "capturado_em": "2026-10-27T19:17:42.747776-03:00"
+        }
+      ]
+    }
+  ],
+  "http": {
+    "200": 317,
+    "404": 1
+  }
+}

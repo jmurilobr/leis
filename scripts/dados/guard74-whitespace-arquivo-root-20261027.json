@@ -1,0 +1,25 @@
+{
+  "criterio": "Somente bytes historicos da proposta congelada e marcadores vazios de contexto do patch; codigo vivo foi normalizado e nao tem advertencias. Quatro linhas verificadas no index porSHA;demais classes passaram.",
+  "linhas": [
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_003/guard-bibliografia.patch",
+      "linha": 5,
+      "sha256": "d7ec6797d0869145105e22b3afe186a10795f99b0e79a28e417a9e49d11bc026"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_003/guard-bibliografia.patch",
+      "linha": 6,
+      "sha256": "d7ec6797d0869145105e22b3afe186a10795f99b0e79a28e417a9e49d11bc026"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_003/guard-bibliografia.patch",
+      "linha": 40,
+      "sha256": "d7ec6797d0869145105e22b3afe186a10795f99b0e79a28e417a9e49d11bc026"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_003/integridade_anexos_decreto.py",
+      "linha": 127,
+      "sha256": "5613c25b3c7588001c7ea5df443c80e01e305f2578f7c78a582a66bd87b1ec6d"
+    }
+  ]
+}

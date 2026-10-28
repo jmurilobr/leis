@@ -1,0 +1,86 @@
+---
+titulo: "Lei nº 2.877, de 08 de novembro de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2877"
+data: "2021-11-08"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/14504"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/1893/text"
+sha256_fonte: "205509cb1936d0c15cf6b7af97d148b88f889c0184358f290e3d519046baa0ee"
+sha256_texto: "84e49a5e7de8ec78f675f9c564e90a816e497169bfe4603ae258c67644d2c7d8"
+capturado_em_fonte: "2026-10-21T06:57:47.545697-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 2.877, de 08 de novembro de 2021
+
+“Dispõe sobre a realização do exame de “Ecocardiograma Fetal” durante o pré-natal e em bebês de até 02 (dois) anos de idade, nas Maternidades e Hospitais-Maternidades localizados no âmbito do município de Porto Velho.”
+
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou, e eu, Vereador EDWILSON NEGREIROS, Presidente da Câmara Municipal, promulgo, nos termos do § 2º, do art. 72 da Lei Orgânica do Município, a seguinte
+
+**L E I:**
+
+
+Art. 1º.
+
+Fica autorizado a realização do exame clínico para diagnóstico de identificação na fase do pré-natal nas mães e em bebês de até 02 (dois) anos de idade, por meio do exame de Ecocardiograma nas Maternidades e em Hospitais-Maternidades localizados no âmbito do município de Porto Velho.
+
+
+Parágrafo único
+
+O exame será realizado na própria Unidade Hospitalar, por profissional graduado em cardiologia.
+
+
+Art. 2º.
+
+As famílias dos recém-nascidos e bebês receberão, por ocasião da alta médica, relatório dos exames e dos procedimentos realizados, contendo esclarecimentos e orientação quanto à conduta a ser adotada.
+
+
+Parágrafo único
+
+Para os efeitos desta Lei, consideram-se bebês, crianças com até 02 (dois) anos de idade.
+
+
+Art. 3º.
+
+Caberá ao Poder Executivo Municipal, por meio da Secretaria Municipal da Saúde – SEMUSA, a fiscalização da realização do “Ecocardiograma”, em gestantes e em bebês, pelas Maternidades e Hospitais-Maternidades localizados no município de Porto Velho.
+
+
+Parágrafo único
+
+A Secretaria Municipal de Saúde promoverá ampla divulgação acerca da obrigatoriedade do “Exame de Ecocardiograma”, na rede pública e privada de saúde.
+
+
+Art. 4º.
+
+O Poder Executivo, com vistas a dar fiel cumprimento, regulamentará esta Lei no prazo de 30 (trinta) dias, a contar da data de sua publicação.
+
+
+Art. 5º.
+
+As despesas decorrentes da realização do exame de que trata esta Lei, na rede pública municipal de saúde, serão arcadas pelo município de Porto Velho, por meio de dotação orçamentária da Secretaria Municipal de Saúde.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data da sua publicação, ficando revogadas as disposições em contrário.
+
+
+Câmara Municipal de Porto Velho, 08 de novembro de 2021.
+
+**Vereador Edwilson Negreiros**
+
+**Presidente**
+
+Projeto de Lei nº 4.192/2021
+
+Vereadora Ellis Regina
+

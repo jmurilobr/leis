@@ -1,0 +1,15 @@
+{
+  "periodo": [
+    "2019-08-19",
+    "2019-12-31"
+  ],
+  "novos_textos_brutos": 12163,
+  "ja_existentes_pulados": 178,
+  "sem_texto_retidos": 1013,
+  "erros": 0,
+  "workers": 4,
+  "rps_por_host": 3,
+  "log": "scripts/dados/dou2019-retomada-log-root-20261027.txt",
+  "sha256_log": "26249718da9ac3e5bdbdf2c2a6d2e0b5edb2a3193ecadf1235c38fb387039ac2",
+  "limite": "Fim do coletor para o recorte, sem afirmar cobertura juridica completa. Textos brutos permanecem privados ate auditoria/dedup/fonte/integra;1013 respostas sem texto nao contam. Fila unica prosseguiu para2018,sem cliente duplicado. Metas nao alteradas."
+}

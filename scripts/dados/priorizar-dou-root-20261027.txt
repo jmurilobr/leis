@@ -1,0 +1,19 @@
+from pathlib import Path
+import json,re,hashlib,subprocess,collections,sys
+base=Path('_fonte/operacao_root_20261027');version,source=sys.argv[1:3];raw=Path(source).read_bytes();paths=json.loads(raw);progress=Path('PROGRESSO.md').read_text();metrics={}
+for line in progress.splitlines():
+ cols=line.split('|')
+ if len(cols)<7:continue
+ orgs=re.findall(r'`reguladores/([^`/]+)`',cols[5])
+ if not orgs:continue
+ current=re.sub(r'\D','',cols[3]);goal=re.sub(r'\D','',cols[4])
+ if current and goal:
+  for org in orgs:metrics[org]=(int(current),int(goal))
+def priority(p):
+ org=p.split('/')[1]
+ if org not in metrics:return (1,1.,org,p)
+ cur,goal=metrics[org];return (0 if cur<goal else 2,cur/goal,org,p)
+paths.sort(key=priority);assert len(set(paths))==len(paths);counts=collections.Counter(priority(p)[0] for p in paths);manifest={'head':subprocess.check_output(['git','rev-parse','HEAD']).decode().strip(),'progresso_sha256':hashlib.sha256(progress.encode()).hexdigest(),'candidatos_origem':source,'sha256_candidatos_origem':hashlib.sha256(raw).hexdigest(),'criterio':'Prioriza series com deficit numerico do plano,depois sem meta e depois numericamente saturadas. Nenhum candidato excluido,nenhuma meta alterada,cobertura qualitativa nao inferida dos numeros. Filas anteriores permanecem preservadas.','contagens_por_prioridade':dict(counts),'metricas_orgao':metrics,'fatias':[]}
+for i in range(0,len(paths),6000):
+ p=base/('dou-prioridade-'+version+'-fatia-'+str(i//6000+1).zfill(3)+'.json');assert not p.exists();p.write_text(json.dumps(paths[i:i+6000],ensure_ascii=False,indent=2)+'\n');manifest['fatias'].append({'path':str(p),'sha256':hashlib.sha256(p.read_bytes()).hexdigest(),'candidatos':len(paths[i:i+6000])})
+p=base/('dou-prioridade-'+version+'-manifesto.json');assert not p.exists();p.write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n');print('Prioridades',dict(counts),'primeira fatia',collections.Counter(p.split('/')[1] for p in paths[:6000]))

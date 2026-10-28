@@ -1,0 +1,48 @@
+---
+titulo: "PORTARIA Nº 811, DE 2 DE JULHO DE 2019"
+orgao: "Ministério da Saúde/Secretaria de Atenção Especializada à Saúde"
+tipo: "Portaria"
+numero: "811"
+data: 2019-07-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 04/07/2019, seção 1, p. 93"
+data_publicacao: 2019-07-04
+edicao: "127"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-811-de-2-de-julho-de-2019-187432644"
+sha256_html_fonte: 0ab6e68d057bde1887f2377ea0acc02967d09758118cd6154ef85fb22269f8e9
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 811, DE 2 DE JULHO DE 2019
+
+PORTARIA Nº 811, DE 2 DE JULHO DE 2019
+
+Concede classificação de acordo com a complexidade tecnológica a estabelecimento de saúde.
+
+O Secretário de Atenção Especializada à Saúde, no uso de suas atribuições,
+
+Considerando o disposto na Lei nº 9.434, de 4 de fevereiro de 1997, no Decreto nº 9.175, de 18 de outubro de 2017, e tudo no que diz respeito à concessão de autorização a equipes especializadas e estabelecimentos de saúde para a retirada e realização de transplantes ou enxertos de tecidos, órgãos ou partes do corpo humano;
+
+Considerando a Portaria de Consolidação nº 6/GM/MS, de 28 de setembro de 2017, que estabelece a consolidação das normas sobre o financiamento e a transferência dos recursos federais para as ações e os serviços de saúde do Sistema Único de Saúde, seção IX, que trata do incremento financeiro para a realização de procedimentos de transplante e o processo de doação de órgãos (IFTDO) e estabelece estratégia de qualificação e ampliação do acesso aos transplantes de órgãos sólidos e de medula óssea, por meio da criação de novos procedimentos e de custeio diferenciado para a realização de procedimentos de transplantes e processo de doação de órgãos; e
+
+Considerando a manifestação favorável das respectivas Secretarias Estaduais de Saúde/Centrais Estaduais de Transplantes (CET), em cujo âmbito de atuação se encontra o estabelecimento de saúde, resolve:
+
+**Art. 1º** Fica concedida classificação, de acordo com a complexidade tecnológica, aos estabelecimentos de saúde a seguir identificados:
+
+NÍVEL C: 24.28
+
+RIO GRANDE DO SUL
+
+<table><tr></tr><tr><td><p>I - denominação: Hospital São Vicente de Paulo</p></td></tr><tr><td><p>II - CNPJ: 92.021.062/0001-06</p></td></tr><tr><td><p>III - CNES: 2246988</p></td></tr><tr><td><p>IV - endereço: Avenida Teixeira Soares, n° 808, Bairro: Centro, Passo Fundo/RS, CEP: 99.010-080.</p></td></tr></table>
+
+NÍVEL D: 24.29
+
+RIO GRANDE DO SUL
+
+<table><tr></tr><tr><td><p>I - denominação: Instituto de Cardiologia</p></td></tr><tr><td><p>II - CNPJ: 92.898.550/0001-98</p></td></tr><tr><td><p>III - CNES: 2237849</p></td></tr><tr><td><p>IV - endereço: Avenida Princesa Isabel, n° 395, Bairro: Azenha, Porto Alegre/RS, CEP: 90.620-001.</p></td></tr></table>
+
+**Art. 2º** As classificações concedidas para o estabelecimento de saúde por meio desta Portaria, terão validade pelo período de dois anos a contar desta publicação, de acordo com o estabelecido no § 3º do art. 229 da Portaria de Consolidação nº 6/GM/MS, de 28 de setembro de 2017.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+FRANCISCO DE ASSIS FIGUEIREDO

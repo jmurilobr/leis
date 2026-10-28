@@ -1,0 +1,268 @@
+---
+titulo: "Lei Ordinária nº 6.093, de 13 de junho de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "6093"
+data: "2025-06-13"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/5317"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/1563/text"
+sha256_fonte: "4b6bdac8ac96199156b5b0de3c1b20523fe84a918d1712ef9a58da7f53629a1d"
+sha256_texto: "dd1f1c75cd15b8fe610399449ea05ce24751365d6ae789fe54464fe271426269"
+capturado_em_fonte: "2026-10-27T17:18:03.738656-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 6.093, de 13 de junho de 2025
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI N° 6093 ,DE 13 DE JUNHO DE 2025.
+
+
+Dispõe sobre a criação e instituição do Domicílio Municipal Eletrônico (DMe) no município e dá outras providências.
+
+
+Art. 1º.
+
+Fica instituída a comunicação por meio eletrônico entre o Município de Barra Mansa/RJ e as pessoas físicas e jurídicas inscritas no Cadastro de Pessoas Físicas (CPF) ou no Cadastro Nacional da Pessoa Jurídica (CNPJ). Que será de uso obrigatório para as pessoas jurídicas cadastradas e que se relacionam com o Município.
+
+
+§ 1º
+
+Para os efeitos desta Lei, consideram-se equiparados à pessoa jurídica:
+
+
+I –
+
+Os empresários individuais previstos no artigo 966 da Lei Federal nº 10.406 de 10 de janeiro de 2002;
+
+
+II –
+
+Os condomínios edilícios sujeitos à inscrição no CNPJ;
+
+
+III –
+
+Os registradores cartorários, tabeliães e oficiais das serventias extrajudiciais.
+
+
+§ 2º
+
+Excetuam-se da obrigação prevista no caput os Microempreendedores Individuais - MEI, enquanto optantes pela sistemática prevista no artigo 18-A da Lei Complementar Nacional nº 123 de 14 de dezembro de 2006.
+
+
+§ 3º
+
+As pessoas físicas ou jurídicas não obrigadas poderão, facultativamente, requerer seu credenciamento.
+
+
+§ 4º
+
+A Secretaria Municipal de Finanças poderá realizar o credenciamento de ofício das pessoas obrigadas que não se credenciarem no DMe a partir do 15° (décimo quinto) dia contado do término do prazo previsto para credenciamento voluntário, que é de 60 dias.
+
+
+§ 5º
+
+O credenciamento de ofício no DMe na forma do parágrafo anterior, será comunicado ao sujeito passivo mediante sua ciência pessoal, por via postal com aviso de recebimento, ou, caso frustrada uma das tentativas anteriores, mediante publicação do ato no Boletim Oficial do Município - BOМ.
+
+
+§ 6º
+
+A Secretaria Municipal de Finanças poderá, ainda, a seu critério, credenciar de ofício outras pessoas para recebimento de comunicação eletrônica por meio do DMe, sendo que a notificação desse ato de ofício dar-se-á mediante ciência pessoal, por via postal com aviso de recebimento, ou alternativamente com a publicação do ato no Boletim Oficial do Município - BOM.
+
+
+Art. 2º.
+
+A inscrição de pessoa jurídica no Cadastro de Contribuintes do Município após o decurso do prazo estabelecido no art. 1º,§ 4°, desta Lei, acarretará automaticamente seu credenciamento no DMe.
+
+
+§ 1º
+
+O cancelamento ou baixa das inscrições de todos os estabelecimentos da pessoa jurídica no Cadastro de Contribuintes do Município, após a ciência das mensagens eletrônicas pendentes no DMe e desde que não tenha a propriedade, posse ou domínio útil de bens imóveis localizados no Município, acarretará seu descredenciamento do DMe.
+
+
+§ 2º
+
+Consideram-se mensagens eletrônicas pendentes, para fins do disposto neste artigo, quaisquer comunicações eletrônicas enviadas ao sujeito passivo via DMe anteriormente ao cancelamento de sua última inscrição no Cadastro de Contribuintes do Município que ainda não tenham sido objeto de ciência expressa ou tácita.
+
+
+Art. 3º.
+
+A comunicação eletrônica será realizada através do Domicílio Municipal Eletrônico - DMe, disponível na internet, para os usuários que optarem por aderir ao sistema ou forem obrigados.
+
+
+§ 1º
+
+A adesão do usuário ao DMe ocorrerá após seu credenciamento no sistema de Domicílio Municipal Eletrônico - DMе.
+
+
+§ 2º
+
+No credenciamento, será fornecido um meio de acesso ao sistema que permita comprovar a autoria, a emissão e o recebimento das comunicações, notificações e intimações, independentemente da leitura.
+
+
+§ 3º
+
+A senha de segurança é intransferível, sigilosa e de inteira responsabilidade do usuário que a cadastrou, não sendo admitida alegação de uso indevido em qualquer hipótese.
+
+
+§ 4º
+
+A comunicação eletrônica entre o Município e terceiros poderá ser efetuada mediante autorização do usuário no sistema de Domicílio Municipal Eletrônico - DMe.
+
+
+§ 5º
+
+O usuário cuja adesão não seja obrigatória poderá, a qualquer momento e sem necessidade de justificativa, optar pelo fim das comunicações, notificações e intimações por meio eletrônico.
+
+
+Art. 4º.
+
+A Secretaria Municipal de Finanças poderá, a seu critério, permitir a inscrição no DMe de outras pessoas além daquelas previstas na legislação vigente, no interesse da fazenda municipal.
+
+
+Art. 5º.
+
+O Município poderá realizar todas as comunicações, notificações e intimações por meio eletrônico, conforme disposto no art. 3º desta lei, para todos os efeitos legais.
+
+
+§ 1º
+
+Após o credenciamento, as comunicações, notificações е intimações do Município ao usuário serão feitas por meio eletrônico, dispensando-se as formas de comunicação:
+
+
+I –
+
+Pessoal;
+
+
+II –
+
+Via postal;
+
+
+III –
+
+Publicação no Boletim Oficial do Município (BOM).
+
+
+§ 2º
+
+Considerar-se-á realizada a comunicação por meio eletrônico na data em que o usuário efetuar a leitura da comunicação eletrônica.
+
+
+§ 3º
+
+A leitura mencionada no § 2º deverá ser feita em até 10 (dez) dias corridos, contados da data do recebimento da comunicação por meio eletrônico. Caso contrário, a leitura será considerada automaticamente realizada na data do término desse prazo (tácita).
+
+
+§ 4º
+
+Nos casos em que a leitura ocorrer em dia não útil, a comunicação por meio eletrônico será considerada realizada no primeiro dia útil seguinte.
+
+
+Art. 6º.
+
+Caberá à Secretaria Municipal de Finanças suspender os prazos de ciência tácita das mensagens encaminhadas via DMe nos casos em que ocorram prejuízos evidentes na utilização do seu portal na Internet pelos sujeitos passivos em virtude de falhas de sistema.
+
+
+Parágrafo único
+
+Cessada a suspensão determinada nos termos do caput deste artigo, os prazos voltam a correr pelo tempo que restava antes do advento da causa suspensiva.
+
+
+Art. 7º.
+
+Os documentos eletrônicos transmitidos conforme estabelecido nesta lei, com garantia de autoria, autenticidade e integridade, serão considerados originais para todos os efeitos legais.
+
+
+Art. 8º.
+
+O acesso ao DMe será efetuado através da rede mundial de computadores por meio do endereço eletrônico\_https://barramansa.rj.gov.br/, na funcionalidade ou link relativo ao Domicílio Municipal Eletrônico ou através da assistente virtual SARA.
+
+
+§ 1º
+
+O credenciamento e identificação do usuário para acesso ao DMe dar-se-á, para pessoa jurídica, pela utilização de certificado digital emitido conforme os critérios estabelecidos pela Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil) e, para pessoa física, mediante a Plataforma gov.br.
+
+
+§ 2º
+
+As solicitações de credenciamento efetuadas serão registradas no DMe e, independentemente de sua efetivação, o registro conterá a identificação do sujeito passivo e do solicitante, a data e hora da ação e o código de controle.
+
+
+§ 3º
+
+O credenciamento será efetivado e o acesso liberado de forma imediata.
+
+
+§ 4º
+
+No credenciamento, será atribuído meio de acesso ao sistema que permita comprovar autoria, emissão e recebimento, ainda que não de leitura, das comunicações, notificações e intimações.
+
+
+§ 5º
+
+O credenciamento efetivado:
+
+
+I –
+
+Será irrevogável e terá prazo de validade indeterminado para os credenciamentos obrigatórios previstos nesta Lei;
+
+
+II –
+
+Para credenciamentos não obrigatórios, poderá ser encerrado a qualquer momento, independentemente de justificativa, pelo usuário que optar pelo fim das comunicações, notificações e intimações por meio eletrônico.
+
+
+III –
+
+Será único por CNPJ e CPF.
+
+
+Art. 9º.
+
+O sujeito passivo credenciado nos termos deste decreto poderá, no próprio sistema do DMe, autorizar terceiros para consultar as mensagens eletrônicas recebidas por meio do DMe.
+
+
+Parágrafo único
+
+A leitura efetuada por terceiro devidamente autorizado, será considerada atendida e válida para todos os efeitos e em conformidade com o art. 6 desta Lei.
+
+
+Art. 10.
+
+Além das condicionantes impostas pelo Código Tributário Municipal (CTM) e alterações, o contribuinte também tem que aderir ao DMe para ter direito a qualquer benefício fiscal junto ao Município, com os seus dados válidos, em seus pedidos a partir da vigência desta Lei.
+
+
+Art. 11.
+
+Esta lei poderá ser regulamentada por Decreto do Poder Executivo Municipal, inclusive quanto às normas para adesão ao DMe pelos órgãos da administração direta e indireta do Município e ou incentivos específicos a sua adesão.
+
+
+Art. 12.
+
+Esta lei revoga as anteriores no que for incompatível que regular sobre o mesmo tema.
+
+
+Art. 13.
+
+Esta lei entra em vigor na data da sua publicação.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 13 DE JUNHO DE 2025.
+
+
+LUIZ ANTÔNIO FURLANI FILHO  
+PREFEIТО
+

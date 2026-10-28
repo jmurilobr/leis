@@ -1,0 +1,197 @@
+---
+titulo: "04 - Lei Ordinária nº 1.414, de 06 de julho de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "1414"
+data: "2026-07-06"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1554"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1570/text"
+sha256_fonte: "7a88bc112d179abf18d4967deee5afc04594c450cd1b2e8cb54126e4a755f187"
+sha256_texto: "83835aff7581cec13a775fd832eef72d20c22c7e6e12fcc3fe8ea042dd054456"
+capturado_em_fonte: "2026-10-28T02:40:04.367976-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 1.414, de 06 de julho de 2026
+
+Institui diretrizes para a promoção da Educação a Distância (EaD) no Município de Corbélia e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+LEI
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Esta Lei estabelece as diretrizes para a organização e o fortalecimento da Educação a Distância (EaD) no âmbito do Município de Corbélia, em conformidade com a Lei Federal nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação Nacional), visando à promoção de metodologias ativas, à pesquisa, à colaboração e ao desenvolvimento da autonomia dos estudantes.
+
+
+Parágrafo único
+
+As práticas pedagógicas na modalidade de Educação a Distância deverão priorizar a participação ativa dos estudantes, a construção coletiva do conhecimento e a aplicação prática dos conteúdos programáticos.
+
+
+#### CAPÍTULO II — DOS OBJETIVOS
+
+
+Art. 2º.
+
+São objetivos fundamentais desta Lei:
+
+
+I –
+
+fomentar a aprendizagem baseada em pesquisa, análise crítica e resolução de problemas;
+
+
+II –
+
+incentivar a colaboração e a troca de experiências entre estudantes, professores, tutores e a comunidade;
+
+
+III –
+
+desenvolver a autonomia intelectual e o protagonismo discente;
+
+
+IV –
+
+democratizar e ampliar o acesso à educação de qualidade por meio de tecnologias digitais de informação e comunicação;
+
+
+V –
+
+estimular a adoção de práticas pedagógicas inovadoras e eficazes no ensino a distância.
+
+
+#### CAPÍTULO III — DAS DIRETRIZES PEDAGÓGICAS E OPERACIONAIS
+
+
+Art. 3º.
+
+As ações educacionais na modalidade EaD deverão observar as seguintes diretrizes:
+
+
+I –
+
+utilização de metodologias ativas, tais como aprendizagem baseada em projetos, estudos de caso e aprendizagem colaborativa;
+
+
+II –
+
+respeito aos diferentes estilos e ritmos de aprendizagem dos estudantes;
+
+
+III –
+
+articulação entre ensino, pesquisa e extensão, como pilares do processo formativo;
+
+
+IV –
+
+promoção do uso crítico, ético e responsável das tecnologias digitais;
+
+
+V –
+
+incentivo à produção e ao compartilhamento de conhecimento em formato aberto.
+
+
+Art. 4º.
+
+O corpo docente e de tutoria atuará como mediador do processo de ensino-aprendizagem, incumbindo-lhe:
+
+
+I –
+
+estimular a participação, a interatividade e o engajamento dos estudantes nas atividades propostas;
+
+
+II –
+
+promover o diálogo e a construção de um ambiente de aprendizado respeitoso e colaborativo;
+
+
+III –
+
+realizar o acompanhamento contínuo e individualizado do progresso dos estudantes;
+
+
+IV –
+
+incentivar o desenvolvimento da pesquisa, da reflexão crítica e da autonomia intelectual;
+
+
+V –
+
+empregar estratégias de ensino diversificadas e adequadas ao ambiente virtual.
+
+
+Art. 5º.
+
+O ambiente virtual de aprendizagem (AVA) deverá ser estruturado para:
+
+
+I –
+
+facilitar a comunicação síncrona e assíncrona entre todos os participantes;
+
+
+II –
+
+disponibilizar recursos digitais variados, acessíveis e atualizados;
+
+
+III –
+
+integrar ferramentas colaborativas que permitam o trabalho em equipe e a co-criação;
+
+
+IV –
+
+assegurar a acessibilidade e o desenho universal para garantir a inclusão de todos os estudantes;
+
+
+V –
+
+fomentar o senso de comunidade e o sentimento de pertencimento institucional entre os participantes.
+
+
+#### CAPÍTULO IV — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 6º.
+
+Fica o Poder Executivo autorizado a celebrar convênios, parcerias e acordos de cooperação com instituições de ensino, públicas ou privadas, e com outras entidades, para a plena consecução dos objetivos desta Lei.
+
+
+Art. 7º.
+
+O Poder Executivo regulamentará a presente Lei no que couber, para garantir sua fiel execução.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná  
+Em 6 de julho de 2026, 66º da Emancipação Política.
+
+Thiago Daross Stefanello  
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 2560 de 06/07/2026, pág. 14-17.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1554/ta
+

@@ -1,0 +1,61 @@
+{
+  "path": "reguladores/ministerio-da-economia/portarias/2020/portaria-n-11.997-de-12-de-maio-de-2020-256528089.md",
+  "sha256_md": "7d21e44963dd7413ef79c0cae4c5cf07478ff22728af97660bc2cc94448c2dd8",
+  "endpoint": "https://api.github.com/markdown",
+  "request_sha256": "8db36c1d32a2184d5d22583576b3c9e210de1769a3821f24cedb7291a83acccb",
+  "response_sha256": "bbf4b3ba83669aad7461c2b28a23c39f4c006dd7ba31adb8ad8db4c7dcae07dd",
+  "fonte_cache": "reguladores/_fonte/ministerio-da-economia/2020/portaria-n-11.997-de-12-de-maio-de-2020-256528089-6af8777b39085ed68168257221175ff4f8ef57016a210ceecec6d2a3793c9898.html.gz",
+  "fonte_sha256": "6af8777b39085ed68168257221175ff4f8ef57016a210ceecec6d2a3793c9898",
+  "h1_removido": "Portaria Nº 11.997, DE 12 DE MAIO DE 2020",
+  "caracteres_visiveis": 29071,
+  "texto_integral_igual": true,
+  "assinatura_numerica_igual": true,
+  "tabelas": 4,
+  "aberturas_tr_literais_fonte": 473,
+  "aberturas_tr_literais_github": 474,
+  "celulas": 2584,
+  "estrutura_literal_identica": false,
+  "diferencas_eventos_html": [
+    {
+      "operacao": "insert",
+      "fonte_intervalo": [
+        5286,
+        5286
+      ],
+      "github_intervalo": [
+        5286,
+        5287
+      ],
+      "fonte": [],
+      "github": [
+        [
+          "tr"
+        ]
+      ]
+    }
+  ],
+  "html5": {
+    "versao": "1.1",
+    "mesma_distribuicao_linhas_celulas_texto_colspan_rowspan": true,
+    "linhas_por_tabela": [
+      120,
+      133,
+      125,
+      96
+    ],
+    "celulas_por_tabela": [
+      665,
+      737,
+      674,
+      508
+    ]
+  },
+  "sanitizacao": {
+    "p_style_text_align_center_removidos": 67,
+    "p_class_dou_paragraph_removidos_dentro_tabelas": 1949,
+    "table_class_dou_table_removidos": 4,
+    "table_role_table_adicionados": 4
+  },
+  "criterio": "Uma requisição POST /markdown com corpo completo e mode=gfm. Remove somente o H1 de metadados esperado; compara a sequência integral de texto, pontuação, sinais, números e células com a fonte oficial arquivada. Sem consulta a in.gov.br.",
+  "limite": "GitHub remove CSS de alinhamento central e classes; não há identidade literal de DOM/atributos. HTML5 comprova a mesma distribuição normativa das células e mesclagens após recompor um tr ausente na fonte. Não certifica vigência ou completude do universo jurídico."
+}

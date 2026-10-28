@@ -1,0 +1,35 @@
+import sys,json,gzip,hashlib,re,collections,datetime
+from pathlib import Path
+sys.path.insert(0,'scripts')
+import baixar_federal as f
+from identidade_decreto import numero_normalizado,extrair_epigrafe_decreto
+from preparar_lote_decretos_cache import fields
+sha=lambda x:hashlib.sha256(x).hexdigest()
+base=Path('federal'); stem='fechos_contextuais_20261021_020'; dest=base/('_candidatos_'+stem);assert not dest.exists();dest.mkdir()
+rows={r['path']:dict(r,lote=n) for n in (19,) for r in json.load(open(f'federal/_lote_dec_continuacao_20261020_{n:03}.json'))['publicaveis']}
+annex={'15801':'O fecho próprio do decreto é 8 de junho de 1944; a data de 27 de março encerra os Estatutos da Fundação Abrigo do Cristo Redentor, assinados por seus dirigentes.'}
+diverg=json.load(open('/tmp/federal20261020-triagem-fechos019-v1.json'))['divergencias']; unknown=json.load(open('/tmp/federal20261020-contextos-fechos-inconclusivos019.json'))
+index=collections.defaultdict(list)
+for d in f.carregar_indice('DEC-n'):
+ info=f.montar(d);index[(numero_normalizado(f.numero_oficial(d)),info['data'][:4])].append({'urn':info['urn'],'id':d.get('id'),'data':info['data'],'indice':d})
+physical=collections.defaultdict(list)
+for p in (base/'decretos').glob('*/*.md'):
+ m=re.match(r'dec-(.+)-(\d{4})-(\d\d)-(\d\d).md$',p.name)
+ if m:physical[(numero_normalizado(m[1]),m[2])].append(str(p))
+extra_holds={r['path'] for r in json.load(open('federal/_overlay_contexto_integridade_019_20261021_001.json'))['registros']}
+records=[];receipts=[];paths=[]
+items=[(r['path'],'fecho_divergente',r) for r in diverg]+[(r['path'],'fecho_com_grafia_atipica_ou_ausente',r) for r in unknown]
+for path,kind,triage in items:
+ r=rows[path];raw=Path(path).read_bytes();assert sha(raw)==r['sha256'];meta,cab,body=fields(raw.decode());num=numero_normalizado(r['epigrafe']['numero']);key=(num,r['epigrafe']['data'][:4]);srcp=Path(path.replace('federal/decretos/','federal/_fonte/decretos/').replace('.md','.html.gz'));src=gzip.decompress(srcp.read_bytes());assert sha(src)==r['sha256_fonte_html'];mr=gzip.decompress(Path(r['captura_metadados']).read_bytes());assert sha(mr)==r['sha256_metadados'];md=json.loads(mr);ep=extrair_epigrafe_decreto(body);assert ep and numero_normalizado(ep['numero'])==num and ep['data']==r['epigrafe']['data'];assert md['legislationDate']==ep['data'] and md['legislationIdentifier']==r['urn'];assert md['legislationType'] in {'Decreto Numerado','Decreto'}
+ ix=index[key];ownix=[x for x in ix if x['urn']==r['urn']];assert ownix,'URN ausente no índice';otherix=[x for x in ix if x['urn']!=r['urn']];otherphysical=[x for x in physical[key] if x!=path]
+ out={'path':path,'lote':r['lote'],'urn':r['urn'],'numero':num,'data_epigrafe_indice_metadados':ep['data'],'epigrafe':ep,'sha256_preimagem':sha(raw),'sha256_fonte_html':sha(src),'sha256_metadados':sha(mr),'fonte':r['fonte'],'url_texto':r['url_texto'],'triagem':triage,'indice_identidade':ix,'outros_paths_numero_ano':otherphysical,'gate_identidade':not otherix and not otherphysical}
+ if num in annex:
+  out.update(status='fecho_de_anexo_ou_citacao_nao_concorre_com_principal',conclusao=annex[num]);records.append(out);continue
+ if otherix or otherphysical or path in extra_holds or num=='43925':
+  out.update(status='retido_revisao',motivo='Lacuna editorial própria ou desenho ausente; consultar overlay contextual.' if path in extra_holds else 'Concorrem datas/identidades que exigem revisão própria.' if num=='43925' else 'Mais de um registro físico ou identidade de índice para o mesmo número/ano.');records.append(out);continue
+ literal=triage['fechos'][-1]['literal'] if kind=='fecho_divergente' else triage['contexto']
+ note=('Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº '+num+', de '+ep['data']+'. A fonte oficial apresenta '+('no fecho próprio a literalidade '+json.dumps(literal,ensure_ascii=False) if kind=='fecho_divergente' else 'grafia atípica ou ausência de data no fecho; o contexto literal é '+json.dumps(literal,ensure_ascii=False))+'. O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: '+r['url_texto']+'; SHA-256 do HTML: '+sha(src)+'.')
+ assert 'observacao_literalidade_fecho:' not in cab
+ new=('---\n'+cab.rstrip('\n')+'\nobservacao_literalidade_fecho: '+json.dumps(note,ensure_ascii=False)+'\n---\n'+body).encode();assert fields(new.decode())[2]==body
+ candidate=dest/Path(path).name;candidate.write_bytes(new);paths.append(str(candidate));out.update(status='candidato_privado_com_nota_literal_sem_emenda',candidato=str(candidate),sha256_candidato=sha(new),nota=note,corpo_oficial_inalterado=True);records.append(out);receipts.append(dict(out,preimagem_md=raw.decode(),candidato_md=new.decode(),fonte_html=src.decode(),metadados_raw=mr.decode()))
+manifest=base/('_'+stem+'.json');manifest.write_text(json.dumps({'data':datetime.date.today().isoformat(),'escopo':'Revisão contextual dos 20 últimos fechos divergentes e 25 fechos de grafia não reconhecida nos 1.796 aceitos preliminares do lote 019. Não altera canônicos nem entregas congeladas.','resumo':dict(collections.Counter(x['status'] for x in records)),'registros':records,'limites':'As notas preservam a divergência literal. Não constituem emenda ao texto oficial, correção definitiva da data ou prova de integralidade de suplemento. Demais gates dos lotes permanecem cumulativos.'},ensure_ascii=False,indent=2)+'\n');rp=base/('_receipts_'+stem+'.jsonl.gz');rp.write_bytes(gzip.compress(('\n'.join(json.dumps(r,ensure_ascii=False) for r in receipts)+'\n').encode(),mtime=0));paths.extend([str(manifest),str(rp)]);outbase='/tmp/federal20261021-fechos-contextuais-020';Path(outbase+'-paths.txt').write_text('\n'.join(paths)+'\n');Path(outbase+'-hashes.json').write_text(json.dumps([{'path':p,'sha256':sha(Path(p).read_bytes())} for p in paths],indent=2)+'\n');print(json.load(open(manifest))['resumo']);print('retidos',[(r['path'],r['motivo']) for r in records if r['status']=='retido_revisao'])

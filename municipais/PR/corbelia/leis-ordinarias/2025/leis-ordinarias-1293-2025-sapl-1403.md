@@ -1,0 +1,200 @@
+---
+titulo: "04 - Lei Ordinária nº 1.293, de 26 de março de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "1293"
+data: "2025-03-26"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1403"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1410/text"
+sha256_fonte: "65e89628e64d0105f7c35305e987c8cb33ee2968f98f05cfb196545c2e4fa7a2"
+sha256_texto: "c76ab6ffd7914f1c9de7b986120847ca37fe1bf8ea173c1534bc0b2b66068501"
+capturado_em_fonte: "2026-10-28T04:25:39.671311-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 1.293, de 26 de março de 2025
+
+Dispõe sobre a criação do Fundo Municipal de Educação e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+LEI
+
+
+Art. 1º.
+
+Fica criado o Fundo Municipal de Educação – FME, instrumento de captação e aplicação de recursos na implementação da política educacional pública, bem como em outras iniciativas ao cumprimento dos objetivos do Conselho Municipal de Educação destinada à mesma.
+
+
+Art. 2º.
+
+Constituirão receitas do Fundo Municipal de Educação:
+
+
+I –
+
+recursos provenientes das transferências do Fundo Nacional de Desenvolvimento da Educação;
+
+
+II –
+
+dotações orçamentárias do Município e recursos adicionais que a Lei estabelecer no transcorrer de cada exercício;
+
+
+III –
+
+produto de convênios firmados com outras entidades financeiras;
+
+
+IV –
+
+receitas de aplicações financeiras de recursos do fundo, realizadas na forma da Lei;
+
+
+V –
+
+outras receitas que venham a ser legalmente instituídas.
+
+
+Parágrafo único
+
+Os recursos que compõem o Fundo serão depositados em conta específica com a denominação de Fundo Municipal de Educação, em instituições financeiras oficiais.
+
+
+Art. 3º.
+
+O Fundo Municipal de Educação será regido pela Secretaria Municipal de Educação em conjunto com a Secretaria Municipal de Finanças, através dos responsáveis legais, Secretários Municipais de Educação e de Finanças, sob a orientação do Conselho Municipal de Educação e do Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e Valorização dos Profissionais da Educação.
+
+
+Parágrafo único
+
+O orçamento do Fundo Municipal de Educação – FME integrará o orçamento do município.
+
+
+Art. 4º.
+
+Cabem ao Secretário Municipal de Educação as seguintes atribuições:
+
+
+I –
+
+administrar o Fundo Municipal de Educação – FME e estabelecer políticas de aplicação dos seus recursos em conjunto com o Conselho Municipal de Educação e Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e Valorização dos Profissionais da Educação;
+
+
+II –
+
+acompanhar, avaliar e decidir sobre a realização das ações previstas no Plano Municipal de Educação de Corbélia;
+
+
+III –
+
+submeter ao Conselho Municipal de Educação o plano de aplicação a cargo do Fundo Municipal de Educação, em consonância com o Plano Municipal de Educação e com a Lei de Diretrizes Orçamentárias – LDO;
+
+
+IV –
+
+submeter ao Conselho Municipal de Educação e ao Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e Valorização dos Profissionais da Educação as demonstrações mensais de receita e despesa do Fundo Municipal de Educação;
+
+
+V –
+
+encaminhar à contabilidade geral do Município as demonstrações mencionadas no inciso anterior;
+
+
+VI –
+
+firmar convênios e contratos, inclusive de empréstimos, juntamente com o Poder Executivo Municipal, referentes a recursos que serão administrados pelo Fundo Municipal de Educação.
+
+
+Art. 5º.
+
+Cabem ao Secretário Municipal de Finanças as seguintes atribuições:
+
+
+I –
+
+preparar as demonstrações mensais das receitas e despesas a serem apresentadas na Secretaria Municipal de Educação e, posteriormente, ao Conselho Municipal de Educação e ao Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e Valorização dos Profissionais da Educação;
+
+
+II –
+
+manter os controles necessários à execução orçamentária do Fundo referente a empenhos, liquidação e pagamento das despesas e aos recebimentos das receitas;
+
+
+III –
+
+encaminhar ao Presidente do Conselho Municipal de Educação e do Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e Valorização dos Profissionais da Educação:
+
+
+a)
+
+mensalmente, as demonstrações de receitas e despesas;
+
+
+b)
+
+anualmente, o balanço geral do Fundo.
+
+
+Art. 6º.
+
+Os recursos do Fundo Municipal de Educação – FME serão aplicados em:
+
+
+I –
+
+aquisição de material permanente e de consumo e de outros insumos necessários ao desenvolvimento das ações aprovadas pelo Conselho Municipal de Educação;
+
+
+II –
+
+apoio e aperfeiçoamento dos instrumentos de gestão, planejamento, administração e controle das ações, bem como do Plano Municipal de Educação e outros projetos aprovados pelo Conselho Municipal de Educação;
+
+
+III –
+
+apoio e desenvolvimento de programas de estudos, pesquisa, capacitação e aperfeiçoamento de recursos humanos necessários à execução do Plano Municipal de Educação e outros aprovados pelo Conselho Municipal de Educação para a melhoria da qualidade de ensino e aumento do nível de escolaridade da população;
+
+
+IV –
+
+democratização da gestão da educação pública e a superação das desigualdades sociais e regionais no que tange ao acesso, permanência e atendimento do aluno na escola, priorizando localidades de índices elevados de tais desigualdades;
+
+
+V –
+
+financiamento total ou parcial de programas e projetos da educação, desenvolvidos pela Secretaria Municipal de Educação, órgão da Administração Pública Municipal responsável pela execução da política da educação neste município.
+
+
+Art. 7º.
+
+Todo e/ou qualquer repasse de recursos para as escolas será efetivado pelo Fundo Municipal de Educação – FME, de acordo com critérios estabelecidos pela Secretaria Municipal de Educação e apreciação do Conselho Municipal de Educação e do Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e Valorização dos Profissionais da Educação.
+
+
+Art. 8º.
+
+As contas e os relatórios do gestor do Fundo Municipal de Educação – FME serão submetidas à apreciação do Conselho Municipal de Educação e do Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e Valorização dos Profissionais da Educação, trimestralmente, de forma sintética e, anualmente, de forma analítica ou ainda em consonância com as legislações vigentes.
+
+
+Art. 9º.
+
+Esta lei entrará em vigor na data de sua publicação.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná  
+Em 26 de março de 2025, 64º da Emancipação Política.
+
+Thiago Daross Stefanello  
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 2250 de 26/03/2025, pág. 29-33.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1403/ta
+

@@ -1,0 +1,80 @@
+---
+titulo: "Lei Ordinária nº 6.989, de 11 de maio de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "6989"
+data: "2021-05-11"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/7580"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/636/text"
+sha256_fonte: "e908260da064909ba8d9b9cc535315ae0266c4e1c4c8b09f69710db9dccdb7fa"
+sha256_texto: "c53123d8e7021d31c08d62e34790c41828b3335f15113788ab3641e87e5f210a"
+capturado_em_fonte: "2026-10-27T18:11:26.781827-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 6.989, de 11 de maio de 2021
+
+AUTORIZA O MUNICÍPIO DE BIRIGUI ABRIR CRÉDITO ADICIONAL SUPLEMENTAR NOS TERMOS DO ARTIGO 43 DA LEI FEDERAL Nº 4.320/1964, PARA REFORÇO DE DOTAÇÕES CONSIGNADAS NA LEI Nº 6.955/2020 – LEI ORÇAMENTÁRIA DE 2021, NA LEI Nº 6.888/2020 – LEI DE DIRETRIZES ORÇAMENTÁRIAS DE 2021 E NA LEI Nº 6.430/2017 – PLANO PLURIANUAL – PPA DE 2018 A 2021 E ALTERAÇÕES, E PROVIDÊNCIAS CORRELATAS.  
+Projeto de Lei nº 50/21, de autoria do Prefeito Municipal.
+
+
+Eu, **LEANDRO MAFFEIS MILANI,**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,
+
+FAÇO SABER que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a realizar por Decreto, através da Secretaria Municipal de Planejamento e Finanças crédito adicional especial no valor de R$ 1.504.972,47 (um milhão, quinhentos e quatro mil, novecentos e setenta e dois reais e quarenta e sete centavos), para reforço de dotações consignadas na Lei nº 6.660/2018 – Lei Orçamentária de 2019, na Lei nº 6.588/2018 – LDO de 2019 e alterações, Lei nº 6.430/2017 – PPA 2018/2021 e alterações, suplementando a dotação abaixo:
+
+
+<table><tbody><tr><th colspan="5">PODER EXECUTIVO</th></tr><tr><th colspan="5">SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL</th></tr><tr><td>02.09.02</td><td>08.241.0008.2.021 / 3.3.90.30.00</td><td>Ficha nº 262</td><td>Fonte: 05</td><td>R$ 15.000,00</td></tr><tr><td>02.09.02</td><td>08.241.0008.2.021 / 3.3.90.39.00</td><td>Ficha nº 265</td><td>Fonte: 05</td><td>R$ 19.000,00</td></tr><tr><td>02.09.02</td><td>08.241.0008.2.021 / 4.4.90.52.00</td><td>Ficha nº 267</td><td>Fonte: 05</td><td>R$ 5.000,00</td></tr><tr><td>02.09.02</td><td>08.243.0008.2.023 / 3.3.90.30.00</td><td>Ficha nº 275</td><td>Fonte: 05</td><td>R$ 120.000,00</td></tr><tr><td>02.09.02</td><td>08.243.0008.2.023 / 3.3.90.39.00</td><td>Ficha nº 277</td><td>Fonte: 05</td><td>R$ 69.000,00</td></tr><tr><td>02.09.02</td><td>08.243.0008.2.023 / 3.3.90.40.00</td><td>Ficha nº 278</td><td>Fonte: 05</td><td>R$ 5.000,00</td></tr><tr><td>02.09.02</td><td>08.243.0008.2.023 / 4.4.90.52.00</td><td>Ficha nº 279</td><td>Fonte: 05</td><td>R$ 9.000,00</td></tr><tr><td>02.09.02</td><td>08.244.0007.2.018 / 3.3.90.30.00</td><td>Ficha nº 298</td><td>Fonte: 05</td><td>R$ 80.000,00</td></tr><tr><td>02.09.02</td><td>08.244.0007.2.018 / 3.3.90.39.00</td><td>Ficha nº 302</td><td>Fonte: 05</td><td>R$ 150.000,00</td></tr><tr><td>02.09.02</td><td>08.244.0007.2.018 / 3.3.90.40.00</td><td>Ficha nº 303</td><td>Fonte: 05</td><td>R$ 50.000,00</td></tr><tr><td>02.09.02</td><td>08.244.0007.2.018 / 4.4.90.52.00</td><td>Ficha nº 305</td><td>Fonte: 05</td><td>R$ 110.000,00</td></tr><tr><td>02.09.02</td><td>08.244.0007.2.019 / 3.3.90.30.00</td><td>Ficha nº 306</td><td>Fonte: 05</td><td>R$ 16.000,00</td></tr><tr><td>02.09.02</td><td>08.244.0007.2.019 / 3.3.90.39.00</td><td>Ficha nº 308</td><td>Fonte: 05</td><td>R$ 92.000,00</td></tr><tr><td>02.09.02</td><td>08.244.0007.2.019 / 4.4.90.52.00</td><td>Ficha nº 310</td><td>Fonte: 05</td><td>R$ 47.584,36</td></tr><tr><td>02.09.02</td><td>08.244.0007.2.078 / 3.3.90.30.00</td><td>Ficha nº 311</td><td>Fonte: 05</td><td>R$ 124.973,23</td></tr><tr><td>02.09.02</td><td>08.244.0007.2.078 / 3.3.90.39.00</td><td>Ficha nº 312</td><td>Fonte: 05</td><td>R$ 100.000,00</td></tr><tr><td>02.09.02</td><td>08.244.0007.2.078 / 4.4.90.52.00</td><td>Ficha nº 314</td><td>Fonte: 05</td><td>R$ 69.500,00</td></tr><tr><td>02.09.02</td><td>08.244.0008.2.013 / 3.3.90.30.00</td><td>Ficha nº 323</td><td>Fonte: 05</td><td>R$ 5.400,00</td></tr><tr><td>02.09.02</td><td>08.244.0008.2.013 / 3.3.90.39.00</td><td>Ficha nº 325</td><td>Fonte: 05</td><td>R$ 7.700,00</td></tr><tr><td>02.09.02</td><td>08.244.0008.2.013 / 3.3.90.40.00</td><td>Ficha nº 326</td><td>Fonte: 05</td><td>R$ 6.900,00</td></tr><tr><td>02.09.02</td><td>08.244.0008.2.013 / 4.4.90.52.00</td><td>Ficha nº 328</td><td>Fonte: 05</td><td>R$ 6.000,00</td></tr><tr><td>02.09.02</td><td>08.244.0008.2.024 / 3.1.90.05.00</td><td>Ficha nº 332</td><td>Fonte: 05</td><td>R$ 1.500,00</td></tr><tr><td>02.09.02</td><td>08.244.0008.2.024 / 3.1.90.11.00</td><td>Ficha nº 333</td><td>Fonte: 05</td><td>R$ 50.000,00</td></tr><tr><td>02.09.02</td><td>08.244.0008.2.024 / 3.1.91.13.00</td><td>Ficha nº 334</td><td>Fonte: 05</td><td>R$ 1.000,00</td></tr><tr><td>02.09.02</td><td>08.244.0008.2.024 / 3.3.90.08.00</td><td>Ficha nº 335</td><td>Fonte: 05</td><td>R$ 1.500,00</td></tr><tr><td>02.09.02</td><td>08.244.0008.2.024 / 3.3.90.30.00</td><td>Ficha nº 336</td><td>Fonte: 05</td><td>R$ 12.500,00</td></tr><tr><td>02.09.02</td><td>08.244.0008.2.024 / 3.3.90.36.00</td><td>Ficha nº 337</td><td>Fonte: 05</td><td>R$ 18.000,00</td></tr><tr><td>02.09.02</td><td>08.244.0008.2.024 / 3.3.90.39.00</td><td>Ficha nº 339</td><td>Fonte: 05</td><td>R$ 21.000,00</td></tr><tr><td>02.09.02</td><td>08.244.0008.2.024 / 3.3.90.40.00</td><td>Ficha nº 340</td><td>Fonte: 05</td><td>R$ 1.814,88</td></tr><tr><td>02.09.02</td><td>08.244.0008.2.024 / 3.3.90.46.00</td><td>Ficha nº 341</td><td>Fonte: 05</td><td>R$ 3.500,00</td></tr><tr><td>02.09.02</td><td>08.244.0008.2.027 / 3.3.90.30.00</td><td>Ficha nº 344</td><td>Fonte: 05</td><td>R$ 21.000,00</td></tr><tr><td>02.09.02</td><td>08.244.0008.2.027 / 3.3.90.39.00</td><td>Ficha nº 348</td><td>Fonte: 05</td><td>R$ 66.000,00</td></tr><tr><td>02.09.02</td><td>08.244.0008.2.027 / 3.3.90.40.00</td><td>Ficha nº 349</td><td>Fonte: 05</td><td>R$ 4.600,00</td></tr><tr><td>02.09.02</td><td>08.244.0008.2.027 / 4.4.90.52.00</td><td>Ficha nº 350</td><td>Fonte: 05</td><td>R$ 49.000,00</td></tr><tr><td>02.09.02</td><td>08.244.0008.2.163 / 3.3.90.30.00</td><td>Ficha nº 352</td><td>Fonte: 05</td><td>R$ 44.500,00</td></tr><tr><td>02.09.02</td><td>08.244.0008.2.163 / 3.3.90.39.00</td><td>Ficha nº 355</td><td>Fonte: 05</td><td>R$ 66.000,00</td></tr><tr><td>02.09.02</td><td>08.244.0008.2.163 / 3.3.90.40.00</td><td>Ficha nº 356</td><td>Fonte: 05</td><td>R$ 5.000,00</td></tr><tr><td>02.09.02</td><td>08.244.0008.2.163 / 4.4.90.52.00</td><td>Ficha nº 357</td><td>Fonte: 05</td><td>R$ 30.000,00</td></tr></tbody></table>
+
+
+Art. 2º.
+
+O crédito adicional especial autorizado no artigo 2º desta Lei, será coberto conforme especificado abaixo:
+
+
+I –
+
+o valor parcial de R$ 664.914,88 (seiscentos e sessenta e quatro mil, novecentos e quatorze reais e oitenta e oito centavos), com recursos provenientes de **SUPERÁVIT FINANCEIRO** apurado no fechamento do exercício anterior, vinculado a Fonte 05 – Transferências e Convênios Federais, depositado no Banco do Brasil - Agência 0348-4 conta nº 89.097-9 – BANCO DO BRASIL – BL MAC FNAS.
+
+
+II –
+
+o valor parcial de R$ 684.473,23 (seiscentos e oitenta e quatro mil, quatrocentos e setenta e três reais e vinte e três centavos) provenientes de **SUPERÁVIT FINANCEIRO** apurado no fechamento do exercício anterior, vinculado a Fonte 05 – Transferências e Convênios Federais, depositado no Banco do Brasil - Agência 0348-4 conta nº 85.109-4 – BL PSB FNAS.
+
+
+III –
+
+o valor parcial de R$ 155.584,36 (cento e cinquenta e cinco mil, quinhentos e oitenta e quatro reais e trinta e seis centavos) provenientes de **SUPERÁVIT FINANCEIRO** apurado no fechamento do exercício anterior, vinculado a Fonte 05 – Transferências e Convênios Federais, depositado no Banco do Brasil - Agência 0348-4 conta nº 85094-2 – BL GBF FNAS, vínculo detalhado 05.500.0009.
+
+
+Art. 3º.
+
+As alterações constantes nesta Lei, serão efetuadas concomitantemente no P.P.A. - Plano Plurianual e L.D.O. - Lei de Diretrizes Orçamentárias, para o exercício corrente.
+
+
+Art. 4º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Birigui, aos onze de maio de dois mil e vinte e um.
+
+**LEANDRO MAFFEIS MILANI Prefeito Municipal**
+
+**ANTÔNIA LUCILENE FERREIRO JARDIM Secretária Municipal de Planejamento e Finanças**
+
+Publicado na Secretaria de Municipal de Governo da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**VICTÓRIA ZOCANTE DOS ANJOS Secretária Adjunta de Governo**
+

@@ -1,0 +1,237 @@
+{
+  "piloto": true,
+  "coleta_volumosa": false,
+  "paginas": [
+    {
+      "numero": 121,
+      "ano": 2026,
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+      "fonte": {
+        "arquivo": "reguladores/_fonte/auditorias/confaz-piloto-v1-20261027/01de2884b964646d89782e3d5c8a610b3a2da0a3fc1c564dc0f24ca22e747932.html",
+        "metadata": "reguladores/_fonte/auditorias/confaz-piloto-v1-20261027/01de2884b964646d89782e3d5c8a610b3a2da0a3fc1c564dc0f24ca22e747932.meta.json",
+        "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+        "url_final": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+        "status": 200,
+        "headers": {
+          "Date": "Tue, 27 Oct 2026 21:22:23 GMT",
+          "Content-Type": "text/html;charset=utf-8"
+        },
+        "sha256": "846ad3ef8394fc575eb6dc8cf84e5e8677f5b51db44f0a626cd4b02593300210",
+        "bytes": 106837,
+        "categoria": "html",
+        "capturado_em_cliente": null,
+        "captura_http_date": "Tue, 27 Oct 2026 21:22:23 GMT",
+        "origem_sondagem": "reguladores/_fonte/auditorias/confaz-probe-root-20261027/02.html",
+        "limite_data": "Sondagem ROOT anterior reutilizada; HTTP Date preservado, timestamp do cliente não fornecido. Cópia não representa captura nova."
+      }
+    }
+  ],
+  "capturas": [
+    {
+      "arquivo": "reguladores/_fonte/auditorias/confaz-piloto-v1-20261027/65a788a28ce0c29ef96bb2f340122e1602dc255c9fc26707264f28013e6bb111.html",
+      "metadata": "reguladores/_fonte/auditorias/confaz-piloto-v1-20261027/65a788a28ce0c29ef96bb2f340122e1602dc255c9fc26707264f28013e6bb111.meta.json",
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios",
+      "url_final": "https://www.confaz.fazenda.gov.br/legislacao/convenios",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 27 Oct 2026 21:22:20 GMT",
+        "Content-Type": "text/html;charset=utf-8"
+      },
+      "sha256": "6eec11c77da74d4a9b52df5e73d16f913e7300e51e26fd4392f109310f48e809",
+      "bytes": 50520,
+      "categoria": "html",
+      "capturado_em_cliente": null,
+      "captura_http_date": "Tue, 27 Oct 2026 21:22:20 GMT",
+      "origem_sondagem": "reguladores/_fonte/auditorias/confaz-probe-root-20261027/00.html",
+      "limite_data": "Sondagem ROOT anterior reutilizada; HTTP Date preservado, timestamp do cliente não fornecido. Cópia não representa captura nova."
+    },
+    {
+      "arquivo": "reguladores/_fonte/auditorias/confaz-piloto-v1-20261027/226420989c256cce047c764b27f057b29b75fb8442daec64d27babfa190147ed.html",
+      "metadata": "reguladores/_fonte/auditorias/confaz-piloto-v1-20261027/226420989c256cce047c764b27f057b29b75fb8442daec64d27babfa190147ed.meta.json",
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/2026",
+      "url_final": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/2026",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 27 Oct 2026 21:22:22 GMT",
+        "Content-Type": "text/html;charset=utf-8"
+      },
+      "sha256": "c46ae9805d0c20cb05db052b594eb6a189b3ad8df80c0e286add5f120198ab5d",
+      "bytes": 182168,
+      "categoria": "html",
+      "capturado_em_cliente": null,
+      "captura_http_date": "Tue, 27 Oct 2026 21:22:22 GMT",
+      "origem_sondagem": "reguladores/_fonte/auditorias/confaz-probe-root-20261027/01.html",
+      "limite_data": "Sondagem ROOT anterior reutilizada; HTTP Date preservado, timestamp do cliente não fornecido. Cópia não representa captura nova."
+    },
+    {
+      "arquivo": "reguladores/_fonte/auditorias/confaz-piloto-v1-20261027/01de2884b964646d89782e3d5c8a610b3a2da0a3fc1c564dc0f24ca22e747932.html",
+      "metadata": "reguladores/_fonte/auditorias/confaz-piloto-v1-20261027/01de2884b964646d89782e3d5c8a610b3a2da0a3fc1c564dc0f24ca22e747932.meta.json",
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+      "url_final": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+      "status": 200,
+      "headers": {
+        "Date": "Tue, 27 Oct 2026 21:22:23 GMT",
+        "Content-Type": "text/html;charset=utf-8"
+      },
+      "sha256": "846ad3ef8394fc575eb6dc8cf84e5e8677f5b51db44f0a626cd4b02593300210",
+      "bytes": 106837,
+      "categoria": "html",
+      "capturado_em_cliente": null,
+      "captura_http_date": "Tue, 27 Oct 2026 21:22:23 GMT",
+      "origem_sondagem": "reguladores/_fonte/auditorias/confaz-probe-root-20261027/02.html",
+      "limite_data": "Sondagem ROOT anterior reutilizada; HTTP Date preservado, timestamp do cliente não fornecido. Cópia não representa captura nova."
+    }
+  ],
+  "css_origens": {
+    "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/reset-cachekey-616583c06c3943a72f9f969a1240fbf8.css": [
+      {
+        "pagina": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+        "media": "screen",
+        "tipo": "link"
+      }
+    ],
+    "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/base-cachekey-7fe23631c792beb0db30931a4ae02a97.css": [
+      {
+        "pagina": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+        "media": "screen",
+        "tipo": "link"
+      }
+    ],
+    "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/mobile-cachekey-1cc23e6e0f0a9f6be71ec18201c3a16e.css": [
+      {
+        "pagina": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+        "media": "handheld, screen and (max-device-width: 480px)",
+        "tipo": "link"
+      }
+    ],
+    "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-b7f1245ffe10632ff3183a40e45e945b.css": [
+      {
+        "pagina": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+        "media": "screen",
+        "tipo": "link"
+      }
+    ],
+    "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.querystring.querywidget-cachekey-5ee55ca46052729481269d2ce2efecfe.css": [
+      {
+        "pagina": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+        "media": "screen",
+        "tipo": "link"
+      }
+    ],
+    "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcebrasil.gov.agendaagenda-cachekey-0b9b457891daf70874b650666229b581.css": [
+      {
+        "pagina": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+        "media": "all",
+        "tipo": "link"
+      }
+    ],
+    "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcebrasil.gov.barracssmain-cachekey-b8678e7b9f5de2c3db8378c7faa229fa.css": [
+      {
+        "pagina": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+        "media": "all",
+        "tipo": "link"
+      }
+    ],
+    "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/embedder-cachekey-828ecc01dce09625ab9cacea3089e2ea.css": [
+      {
+        "pagina": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+        "media": "screen",
+        "tipo": "link"
+      }
+    ],
+    "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/ploneCustom-cachekey-bde1d13299199e784e65560bebf1e385.css": [
+      {
+        "pagina": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+        "media": "all",
+        "tipo": "link"
+      }
+    ],
+    "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcebrasil.gov.tilestiles-cachekey-08106e5424b0cd9b17b1c56aa9d8a2c0.css": [
+      {
+        "pagina": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+        "media": "screen",
+        "tipo": "link"
+      }
+    ],
+    "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/confaz-print.css": [
+      {
+        "pagina": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+        "media": "print",
+        "tipo": "link"
+      }
+    ],
+    "https://www.confaz.fazenda.gov.br/++theme++custom/css/style.css": [
+      {
+        "pagina": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+        "media": "all",
+        "tipo": "link"
+      }
+    ],
+    "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete-cachekey-8a1ada68d10450ed014103370f01e143.css": [
+      {
+        "pagina": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+        "media": "screen",
+        "tipo": "style @import",
+        "bloco": 0
+      }
+    ],
+    "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcecalendar_stylescalendar-cachekey-ab87c47333464a5f1d4a22f5f4f9f144.css": [
+      {
+        "pagina": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+        "media": "screen",
+        "tipo": "style @import",
+        "bloco": 1
+      }
+    ],
+    "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/jquery.autocomplete-cachekey-59fbd2a5fc6773a864adabd685eb1ee4.css": [
+      {
+        "pagina": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+        "media": "screen",
+        "tipo": "style @import",
+        "bloco": 2
+      }
+    ],
+    "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourceProducts.Doormat.stylesheetsdoormat-cachekey-ab318da4bb3f5c97abc64bb1453da10a.css": [
+      {
+        "pagina": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+        "media": "screen",
+        "tipo": "style @import",
+        "bloco": 3
+      }
+    ],
+    "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcecollective.nitfcharcount-cachekey-964c273a546fb8d92d505f365c035a97.css": [
+      {
+        "pagina": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+        "media": "screen",
+        "tipo": "style @import",
+        "bloco": 4
+      }
+    ],
+    "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcecollective.uploadcssbootstrap.min-cachekey-f3505dfe9331657bc329aeabdbd210fb.css": [
+      {
+        "pagina": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+        "media": "screen",
+        "tipo": "style @import",
+        "bloco": 5
+      }
+    ],
+    "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/estilos_leis.css": [
+      {
+        "pagina": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV121_26",
+        "media": "all",
+        "tipo": "style @import",
+        "bloco": 6
+      }
+    ]
+  },
+  "requisicoes_novas": 0,
+  "cliente_unico": true,
+  "limite_por_host": "1 requisição por segundo",
+  "incompletos": [
+    {
+      "erro": "URLError: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1010)>"
+    }
+  ],
+  "codigo_sha256": "992e82b127dd746008d3195fa37a22b4d8066680c86dcb2c3882e6e9989d8648",
+  "limite": "Nenhuma publicação ou afirmação de vigência. Fontes preservam condições de ratificação/efeitos; CSS e versões históricas ainda exigem auditoria independente."
+}

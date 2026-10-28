@@ -1,0 +1,60 @@
+---
+titulo: "Decreto-SEMPOG nº 19.661, de 18 de dezembro de 2023"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "19.661"
+data: "2023-12-18"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/26136"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/8480/text"
+sha256_fonte: "627c10f39291de014308d709e1b36c76c288c526e5bb24766b4bc310c270daa2"
+sha256_texto: "c4d92654a2045a3edd98767acd5834a1a4dc49e92a35e3e531819ca5940a9116"
+capturado_em_fonte: "2026-10-21T04:49:48.505776-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 19.661, de 18 de dezembro de 2023
+
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Remanejamento de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei nº 2.998, de 19 de dezembro de 2022, a fim de proceder às adequações orçamentárias no exercício 2023;
+
+Considerando o Ofício n° 85/GAB/DA/SEMOB/2023, de 29 de novembro de 2023, pelo qual a Secretaria Municipal de Obras e Pavimentação - SEMOB, solicita movimentação de recursos para cobertura de despesas com reajuste contratual - Contrato n.° 20/PGM/2022, tendo como objeto pavimentação asfáltica no Bairro Igarapé,
+
+**D E C R E T A:**
+
+**Art. 1º** – Fica alterado o Orçamento Anual do Município de Porto Velho por meio de remanejamento de recursos orçamentários no valor de R$ 1.771.359,62 (um milhão, setecentos e setenta e um mil, trezentos e cinquenta e nove reais e sessenta e dois centavos).
+
+**Art. 2º** - Os remanejamentos são decorrentes da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas de um órgão para o outro ou de uma unidade orçamentária para outra, conforme disposto no inciso XV do Artigo 6º da Lei nº 2.946, de 30 de junho de 2022 – Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><colgroup><col><col><col><col><col><col><col></colgroup><tbody><tr><td colspan="7"><strong>03.00 – CONTROLADORIA GERAL DE GOVERNO - CGM</strong></td></tr><tr><td colspan="7"><strong>03.01 – CONTROLADORIA GERAL DE GOVERNO - CGM</strong></td></tr><tr><td><strong>PROJETO/ATIVIDADE</strong></td><td><strong>ESPECIFICAÇÃO</strong></td><td><strong>ESFERA</strong></td><td><strong>NATUREZA DE DESPESA</strong></td><td><strong>FONTE DE RECURSOS</strong></td><td><p><strong>REMANEJA </strong><strong>R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td>03.01.04.124.007.2.077</td><td><p>Capacitação e formação em Áreas de</p><p>Interesse (graduação e pós-graduação)</p></td><td>FIS</td><td>3.3.90.39</td><td>1.500</td><td>139.170,00</td><td>-</td></tr><tr><td rowspan="2"><p>03.01.04.122.007.2.183</p><p> </p></td><td rowspan="2"><p>CGM - Manutenção da Controladoria</p><p> </p></td><td rowspan="2"><p>FIS</p><p> </p></td><td>3.3.90.30</td><td>1.500</td><td>158.924,38</td><td>-</td></tr><tr><td>3.3.90.39</td><td>1.500</td><td>164.421,59</td><td>-</td></tr><tr><td colspan="5"><strong>SUBTOTAL</strong></td><td><strong>462.515,97</strong></td><td>-</td></tr><tr><td colspan="7"><strong>04.00 – PROCURADORIA GERAL DO MUNICÍPIO - PGM</strong></td></tr><tr><td colspan="7"><strong>04.01 – PROCURADORIA GERAL DO MUNICÍPIO - PGM</strong></td></tr><tr><td><strong>PROJETO/ATIVIDADE</strong></td><td><strong>ESPECIFICAÇÃO</strong></td><td><strong>ESFERA</strong></td><td><strong>NATUREZA DE DESPESA</strong></td><td><strong>FONTE DE RECURSOS</strong></td><td><p><strong>REMANEJA </strong><strong>R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td>04.01.28.846.000.0.077</td><td>Cumprimento de Sentenças Judiciais</td><td>FIS</td><td>3.1.90.91</td><td>1.500</td><td>150.030,53</td><td>-</td></tr><tr><td colspan="5"><strong>SUBTOTAL</strong></td><td><strong>150.030,53</strong></td><td>-</td></tr><tr><td colspan="7"><strong>06.00 – SECRETARIA MUNICIPAL DE FAZENDA - SEMFAZ</strong></td></tr><tr><td colspan="7"><strong>06.01 – SECRETARIA MUNICIPAL DE FAZENDA - SEMFAZ</strong></td></tr><tr><td><strong>PROJETO/ATIVIDADE</strong></td><td><strong>ESPECIFICAÇÃO</strong></td><td><strong>ESFERA</strong></td><td><strong>NATUREZA DE DESPESA</strong></td><td><strong>FONTE DE RECURSOS</strong></td><td><p><strong>REMANEJA </strong><strong>R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td>06.01.04.129.032.2.903</td><td><p>Implantação e Implementação das Políticas</p><p>de Arrecadação e Fiscalização</p></td><td>FIS</td><td>3.3.90.30</td><td>1.500</td><td>350.000,00</td><td>-</td></tr><tr><td> </td><td> </td><td> </td><td>3.3.90.39</td><td>1.500</td><td>20.000,00</td><td>-</td></tr><tr><td colspan="5"><strong>SUBTOTAL</strong></td><td><strong>370.000,00</strong></td><td><strong>-</strong></td></tr><tr><td colspan="7"><strong>12.00 – SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL E DA FAMÍLIA - SEMASF</strong></td></tr><tr><td colspan="7"><strong>12.32 – FUNDO MUNICIPAL DO IDOSO - FMI</strong></td></tr><tr><td><strong>PROJETO/ATIVIDADE</strong></td><td><strong>ESPECIFICAÇÃO</strong></td><td><strong>ESFERA</strong></td><td><strong>NATUREZA DE DESPESA</strong></td><td><strong>FONTE DE RECURSOS</strong></td><td><p><strong>REMANEJA </strong><strong>R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td>12.32.08.241.327.2.992</td><td>Manutenção do Conselho Municipal do Idoso</td><td>FIS</td><td>4.4.90.52</td><td>1.500</td><td>102.675,00</td><td>-</td></tr><tr><td colspan="5"><strong>SUBTOTAL</strong></td><td><strong>102.675,00</strong></td><td>-</td></tr><tr><td colspan="7"><strong>12.00 – SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL E DA FAMÍLIA - SEMASF</strong></td></tr><tr><td colspan="7"><strong>12.33 – FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL - FMAS</strong></td></tr><tr><td><strong>PROJETO/ATIVIDADE</strong></td><td><strong>ESPECIFICAÇÃO</strong></td><td><strong>ESFERA</strong></td><td><strong>NATUREZA DE DESPESA</strong></td><td><strong>FONTE DE RECURSOS</strong></td><td><p><strong>REMANEJA </strong><strong>R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td>12.33.08.244.165.2.850</td><td><p>Serviço de proteção e atendimento</p><p>especializado a famílias e indivíduos</p></td><td>FIS</td><td>3.3.90.30</td><td>1.500</td><td>115.990,00</td><td>-</td></tr><tr><td>12.33.08.244.160.2.852</td><td><p>Manutenção das Unidades da Proteção</p><p>Social Básica</p></td><td>FIS</td><td>4.4.90.51</td><td>1.500</td><td>570.148,12</td><td>-</td></tr><tr><td colspan="5"><strong>SUBTOTAL</strong></td><td><strong>686.138,12</strong></td><td>-</td></tr><tr><td colspan="7"><strong>11.00 – SECRETARIA MUNICIPAL DE OBRAS E PAVIMENTAÇÃO - SEMOB</strong></td></tr><tr><td colspan="7"><strong>11.01 – SECRETARIA MUNICIPAL DE OBRAS E PAVIMENTAÇÃO - SEMOB</strong></td></tr><tr><td><strong>PROJETO/ATIVIDADE</strong></td><td><strong>ESPECIFICAÇÃO</strong></td><td><strong>ESFERA</strong></td><td><strong>NATUREZA DE DESPESA</strong></td><td><strong>FONTE DE RECURSOS</strong></td><td><p><strong>REMANEJA </strong><strong>R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td>11.01.15.451.075.1.188</td><td>Pavimentação de Vias Urbanas</td><td>FIS</td><td>4.4.90.51</td><td>1.500</td><td>-</td><td>1.771.359,62</td></tr><tr><td colspan="5"><strong>SUBTOTAL</strong></td><td><strong>-</strong></td><td><strong>1.771.359,62</strong></td></tr><tr><td colspan="5"><strong>TOTAL</strong></td><td><strong>1.771.359,62</strong></td><td><strong>1.771.359,62</strong></td></tr></tbody></table>
+
+**Art. 3º** – Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 18.721, de 19 de dezembro de 2022 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 18.722, de 19 de dezembro de 2022.
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** - Revogam-se as disposições em contrário.
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto
+

@@ -1,0 +1,73 @@
+---
+titulo: "Decreto-SEMPOG nº 20.598, de 19 de novembro de 2024"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "20.598"
+data: "2024-11-19"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/27366"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/5373/text"
+sha256_fonte: "7081f66f3cb39e7b174efef36fd5fadd54d002e04bd07ddb0bfe5f9232267c18"
+sha256_texto: "4b2c9b96b20d6ab295840733224369ec92c40fdb5e0e4be3034fe4d3043273d0"
+capturado_em_fonte: "2026-10-21T03:46:21.155196-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 20.598, de 19 de novembro de 2024
+
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Transposição de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei n.º 3.130, de 20 de dezembro de 2023, a fim de proceder às adequações orçamentárias no exercício 2024
+
+Considerando o Ofício n.° 101/ASTEC/SEMES , de 04 de Novembro de 2024, pelo qual a Secretaria Municipal de Esporte e Lazer - SEMES, solicita a movimentação de recursos para cobertura de despesas com aquisição de kit lanche para atender o Programa Talentos do Futuro,
+
+**D E C R E T A**
+
+
+Art. 1º.
+
+Fica alterado o Orçamento Anual do Município de Porto Velho por meio de transposição de recursos orçamentários no valor de R$ 201.568,00 (duzentos e um mil e quinhentos e sessenta e oito reais).
+
+
+Art. 2º.
+
+A transposição decorre da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas dentro da mesma unidade orçamentária, conforme disposto no inciso XVII do Artigo o 6º da Lei nº 3.094, de 25 de setembro de 2023 – Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+
+<table><colgroup><col><col><col><col><col><col><col></colgroup><tbody><tr><td colspan="7"><strong>13.00 - SECRETARIA MUNICIPAL DE ESPORTES E LAZER - SEMES</strong></td></tr><tr><td colspan="7"><strong>13.01 - SECRETARIA MUNICIPAL DE ESPORTES E LAZER - SEMES</strong></td></tr><tr><td><strong>PROJETO/ATIVIDADE</strong></td><td><strong>ESPECIFICAÇÃO </strong></td><td><strong>ESPERA </strong></td><td><strong>NATUREZA DA DESPESA </strong></td><td><strong>FONTE DE RECURSOS </strong></td><td><strong>TRANSPÕE R$ </strong></td><td><strong>REALOCA R$ </strong></td></tr><tr><td rowspan="2">13.01.27.813.344.2.823 </td><td rowspan="2">Viva Bem -<br>Manutenção de<br>Atividades<br>Físicas ao Ar<br>Livre</td><td rowspan="2">FIS</td><td>3.3.90.30</td><td>1.500.0000.0000</td><td>200.568,00</td><td>-</td></tr><tr><td>3.3.90.32</td><td>1.500.0000.0000</td><td>1.000,00</td><td>-</td></tr><tr><td>13.01.27.122.007.2.001</td><td>Administração<br>da Unidade</td><td>FIS</td><td>4.4.90.52</td><td>1.500.0000.0000</td><td>-</td><td>356,00</td></tr><tr><td>13.01.27.812.343.2.822</td><td>Implantação<br>das<br>Escolinhas de<br>Iniciação<br>Esportivas</td><td> </td><td>3.3.90.30</td><td>1.500.0000.0000</td><td> </td><td>163.799,00</td></tr><tr><td>13.01.27.812.345.2.826 </td><td>Manutenção<br>dos Eventos<br>Esportivos de<br>Competições<br>de Porto<br>Velho</td><td> </td><td>3.3.90.39</td><td>1.500.0000.0000</td><td> </td><td>37.413,00</td></tr><tr><td colspan="5"><strong>SUBTOTAL</strong></td><td><strong>201.568,00</strong></td><td><strong>201.568,00</strong></td></tr><tr><td colspan="5"><strong>TOTAL</strong></td><td><strong>201.568,00</strong></td><td><strong>201.568,00</strong></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 19.668, de 20 de dezembro de 2023 e o Detalhamento da Despesa, estabelecido pelo Decreto n.º 19.669, de 20 de dezembro de 2023.
+
+
+Art. 4º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Art. 5º.
+
+Revogam-se as disposições em contrário.
+
+
+**HILDON DE LIMA CHAVES**  
+Prefeito do Município
+
+**SERGIO LUIZ PACÍFICO**  
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+**JOÃO ALTAIR CAETANO DOS SANTOS**  
+Secretário Municipal de Fazenda
+
+**SALATIEL LEMOS VALVERDE**  
+Procurador Geral Adjunto
+

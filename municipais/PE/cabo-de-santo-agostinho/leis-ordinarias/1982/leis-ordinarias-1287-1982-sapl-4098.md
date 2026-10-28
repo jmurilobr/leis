@@ -1,0 +1,69 @@
+---
+titulo: "Lei Ordinária nº 1.287, de 07 de outubro de 1982"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1287"
+data: "1982-10-07"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/4098"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/4148/text"
+sha256_fonte: "0fe2ffdb08cc1f901b7b664e1f9bc19c9d6c390ac080291a6b41693e03ef63ad"
+sha256_texto: "91d2e973eccfefdccd125747aee139844fdc0114e9d388c1aec9fbb15426bbdc"
+capturado_em_fonte: "2026-10-27T22:08:08.381460-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.287, de 07 de outubro de 1982
+
+AUTORIZA ABERTURA DE CRÉDITO ESPECIAL.
+
+
+O Prefeito do Município do Cabo, no uso de suas atribuições legais, faço saber que a Câmara Municipal do Cabo, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a abrir CRÉDITO ESPECIAL na importância de Cr$ 168.000,00 (Cento e Sessenta e Oito mil cruzeiros) para cobrir as despesas com o funeral do Ex-Vereador Gilberto Fragoso da Silva.
+
+
+Art. 2º.
+
+O presente CRÉDITO ESPECIAL terá a seguinte classificação:
+
+**CRÉDITO ESPECIAL - Nº 02/82**
+
+1900 - SECRETARIA DE ADMINISTRAÇÃO  
+3.0.0.0 - DESPESAS CORRENTES  
+3.2.0.0 - TRANSFERENCIAS CORRENTES  
+3.2.5.0 - Transferências a Pessoas  
+3.2.5.9 - Outras Transferências a Pessoas  
+15.81.4862.108 - Outras Transferências a Pessoas..........Cr$ 168.000,00
+
+
+Art. 3º.
+
+As despesas decorrentes com o referido CRÉDITO ESPECIAL correrão por conta da anulação parcial da seguinte Dotação Orçamentária:
+
+1400 - SECRETARIA-GERAL DO PLANEJAMENTO  
+4.0.0.0 - DESPESAS DE CAPITAL  
+4.1.0.0 - INVESTIMENTOS  
+4.1.3.0 - Investimentos em Regime de Execução Especial  
+03.09.0211.010 - Execução de Projetos Especiais..........Cr$ 168.000,00
+
+
+Art. 4º.
+
+A presente Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+PALÁCIO CONDE DA BOA VISTA, em 07 de outubro de 1982.
+
+JOSÉ ALBERTO DE LIMA  
+Prefeito
+

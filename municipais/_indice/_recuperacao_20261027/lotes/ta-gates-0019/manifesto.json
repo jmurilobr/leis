@@ -1,0 +1,219 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 4: admite somente tabelas nativas com prova independente de células, ordem e mesclagens. Mantém todos os demais gates. Também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 2000,
+  "aprovados_nestes_gates": 1014,
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.california.pr.leg.br.prefixo.jsonl",
+      "sha256": "0ae607373061351d91d976f354fa8c6e04ee0aa01ec8e598f327aa9a07e36258",
+      "bytes": 12972
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.california.pr.leg.br.tipos.json",
+      "url": "https://sapl.california.pr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "1b0b105c345d79e79f4e9064a866d3c2a87c99152a77a6bb275627db1b217cd0"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.california.pr.leg.br.anexos.json",
+      "sha256": "d39b1de073f3e10ab72c199b92c180de74b56bb864b739c5e63001d1c567f364"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.chapadagaucha.mg.leg.br.prefixo.jsonl",
+      "sha256": "58939a627e39cd2497b469007d8bcdcd3a473205d913507a1a9c8d14053e6a32",
+      "bytes": 638887
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.chapadagaucha.mg.leg.br.tipos.json",
+      "url": "https://sapl.chapadagaucha.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "20567d88fb991a23247b997ac020fd6a5721172c17393c096f4c906165283ac5"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.chapadagaucha.mg.leg.br.anexos.json",
+      "sha256": "717ebaacad9bc1af799cac902f54d13056f496a3d6aa0d8c06998c8a5697a7eb"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.chopinzinho.pr.leg.br.prefixo.jsonl",
+      "sha256": "e0df12274ca69c80e0cc389a18e212a851d9dd68fd9b773c0fca77bc7fcf9b80",
+      "bytes": 68127
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.chopinzinho.pr.leg.br.tipos.json",
+      "url": "https://sapl.chopinzinho.pr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "0e8648e91b1885ab7dc413612f9ed7d4d21a56717511c58e500d0d9accf114a6"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.chopinzinho.pr.leg.br.anexos.json",
+      "sha256": "00249345b85f3b09d3886ecae536fef0e0a0e1ff7627300042cc2cf2e521df16"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.chupinguaia.ro.leg.br.prefixo.jsonl",
+      "sha256": "f9d9d34fb1641e916cae7c4d179f7a440e32443bc9449baf0fdfaa435bf0e959",
+      "bytes": 3147
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.chupinguaia.ro.leg.br.tipos.json",
+      "url": "https://sapl.chupinguaia.ro.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "11a25fb7873ea8674abaf5b3d014260e91f2dd7381ddb55e4825564fd4e3ff9c"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.chupinguaia.ro.leg.br.anexos.json",
+      "sha256": "b2d43fe543fd9a0bae993e4638a5f1c2297265ab7bfc934f4834a3131837ba10"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.claraval.mg.leg.br.prefixo.jsonl",
+      "sha256": "b82ba2eea8e5c2f208e42a4102dd8acfbeb95897eeb41c61d20e2035d9e85bd9",
+      "bytes": 959976
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.claraval.mg.leg.br.tipos.json",
+      "url": "https://sapl.claraval.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "0b2b44790e7f80a405ee78d1735c43e4f3928f46355d12a1e9fc28aa6aa3e707"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.claraval.mg.leg.br.anexos.json",
+      "sha256": "0ce348c8eb1a5fd4503b26a138912ccd034d05e469afff3a79359e5b68a9f8c8"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.clevelandia.pr.leg.br.prefixo.jsonl",
+      "sha256": "f23dc66a072d9f00d9b5eef5e78525dd87a377e60bd48acb7f025be3e2f227d2",
+      "bytes": 226004
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.clevelandia.pr.leg.br.tipos.json",
+      "url": "https://sapl.clevelandia.pr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "d348e79b1ce54926bf65366cfddc1e91815d0c5d8a0336bfe4d5e26fe0cdb01f"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.clevelandia.pr.leg.br.anexos.json",
+      "sha256": "03b34b11d137517a7d9b2bc2fbe7438e4bc26378700b138d0fee3465b1c56591"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.colniza.mt.leg.br.prefixo.jsonl",
+      "sha256": "888a9cfaccc101a85c630e85782d40838bfdcafe7330827e79df8399460e04d2",
+      "bytes": 71571
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.colniza.mt.leg.br.tipos.json",
+      "url": "https://sapl.colniza.mt.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "2b70aaff61daf3de2e69fc9ff82649817666482c4f85d3fedf8cdcb095f0eb07"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.colniza.mt.leg.br.anexos.json",
+      "sha256": "b69173e87bb286da4341561c373f7b017fea3b85254ace51cf2957a3d59ec6ef"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.coloradodooeste.ro.leg.br.prefixo.jsonl",
+      "sha256": "ab1fae682808750aca01d9e2fdb26b4f61951d38836b1f2666e3635ccf591399",
+      "bytes": 308920
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.coloradodooeste.ro.leg.br.tipos.json",
+      "url": "https://sapl.coloradodooeste.ro.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "c818f596c64189ab57bf6e70226eb9e3c62c1bfe7231af6665ff9d17f33aa022"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.coloradodooeste.ro.leg.br.anexos.json",
+      "sha256": "67e4c25d55cf41a214643bf3bd89a1274d74b7f3809164f28bec2d948097ed54"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.comendadorlevygasparian.rj.leg.br.prefixo.jsonl",
+      "sha256": "fbc5e899ca72d0178c739e2e30be987e1724e197d8b404c6d259c9b7abd9972e",
+      "bytes": 1045691
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.comendadorlevygasparian.rj.leg.br.tipos.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "0fd98d48215733efca521af73260883c2142a3639f06611b5b471c84e36b9615"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.comendadorlevygasparian.rj.leg.br.anexos.json",
+      "sha256": "43161958e01f73abf4428f553ba49cc4912b7f287335385e97d6aba05195df65"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.comodoro.mt.leg.br.prefixo.jsonl",
+      "sha256": "c80ef7436e35369f27d0ad1d28722d0e0cdd09ad2cbd3bfd560f2a6ff88e1f5b",
+      "bytes": 3492
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.comodoro.mt.leg.br.tipos.json",
+      "url": "https://sapl.comodoro.mt.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "eb75e3c62327599d259baa86eed08825ceaecd4b3e775b1665f233e89f922e9d"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.comodoro.mt.leg.br.anexos.json",
+      "sha256": "7db5767744335070f420b9b6ca672042e7c3b4cd18a306165ed4d3b586fdb835"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.conceicaodemacabu.rj.leg.br.prefixo.jsonl",
+      "sha256": "7c6ba2ddb090d96c3f92d5f60441d08e1ff3d0fb531d444b91a5808555ea4fe5",
+      "bytes": 48984
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.conceicaodemacabu.rj.leg.br.tipos.json",
+      "url": "https://sapl.conceicaodemacabu.rj.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "b170e1e2e6d1a6749230717d9214e9b36dcabec9be32cc70b8514c914a241bc4"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.conceicaodemacabu.rj.leg.br.anexos.json",
+      "sha256": "28c0b5ce7e29b0f3b3b8a358651effaedf9b048073c20f0e00fd3801e6882d64"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.conceicaodocoite.ba.leg.br.prefixo.jsonl",
+      "sha256": "cce1f1ceb42b1107e695997c7f62c11ba94029f5f8ee621617ac40113cfce644",
+      "bytes": 991495
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.conceicaodocoite.ba.leg.br.tipos.json",
+      "url": "https://sapl.conceicaodocoite.ba.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "d2bb3e76f75e2aa48f353652ee7aaba19c23208d04ca37f1958e902e3603aef5"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.conceicaodocoite.ba.leg.br.anexos.json",
+      "sha256": "dd327b2279d6d824c69dfbfc89a388855e20f64ef778fdfc9de8f7b71edc733d"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.congonhas.mg.leg.br.prefixo.jsonl",
+      "sha256": "41480523712d16120cf1cca9c6ea3d2132844a9ab0133a2a709cddc227874fa0",
+      "bytes": 952388
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.congonhas.mg.leg.br.tipos.json",
+      "url": "https://sapl.congonhas.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "38da80fd2a35f87d07cc57f384dcd5681c546e7bafa102c84aca0272cf922f1f"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.congonhas.mg.leg.br.anexos.json",
+      "sha256": "553b14b1cf74edaa40848786b5e4aef211319116ea2c6a7ad92a2cf27b806702"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.conselheirolafaiete.mg.leg.br.prefixo.jsonl",
+      "sha256": "c1f39215ce0744f0e813700496b224094624067325ce6f19497b670f15675fd9",
+      "bytes": 279082
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.conselheirolafaiete.mg.leg.br.tipos.json",
+      "url": "https://sapl.conselheirolafaiete.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "08df70ffe4eb0d9e4d75d737827ffa0c8970b8fbe88a2bf50841628e8a08cdfb"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.conselheirolafaiete.mg.leg.br.anexos.json",
+      "sha256": "014d4d258d7926a9dbda7e382960b29a5e3532c6276a1b9991c9486d22b24232"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.corbelia.pr.leg.br.prefixo.jsonl",
+      "sha256": "87151163fffb59733b874b90f86b0c515fb84d70f0534bbdd5c6d5c9a5474847",
+      "bytes": 986095
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.corbelia.pr.leg.br.tipos.json",
+      "url": "https://sapl.corbelia.pr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "8c101e7d702bb75471f3a3865edf635d7b52ca2f9740c7442f1104429671b152"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/sapl.corbelia.pr.leg.br.anexos.json",
+      "sha256": "9b18c9ec6be9ebda28bd517e17fd9596a637d34a3ddc6f7560327811d71c0319"
+    }
+  ],
+  "script_sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

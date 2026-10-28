@@ -1,0 +1,75 @@
+---
+titulo: "Lei Ordinária nº 1.152, de 31 de maio de 1976"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1152"
+data: "1976-05-31"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/4084"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/4134/text"
+sha256_fonte: "a8edc1b50618628fc671e3d09b649d6ebe38f12a1a6c53f4c410a5f574560289"
+sha256_texto: "3e5d8b7ba9616218925af4f6df170baf2b85cae9fa20fe8b8624a940373865c1"
+capturado_em_fonte: "2026-10-27T22:13:13.345761-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.152, de 31 de maio de 1976
+
+Autoriza abrir Crédito Especial para fazer face a doação à Associação do Ministério Público de Pernambuco, para aplicação em investimentos.
+
+
+O Prefeito do Municipio do Cabo, Bel. José Feliciano de Barros Neto, faço saber que a Câmara Municipal do Cabo, decretou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo, autorizado a abrir Crédito Especial no valor de Cr$ 10.000,00 (dez mil cruzeiros) destinados a fazer face à doação à Associação do Ministério Público de Pernambuco.
+
+
+Art. 2º.
+
+O presente Crédito Especial terá na despesa a seguinte classificação:
+
+2.2 – Assessoria Jurídica
+
+4.0.0.0 – Despesas de Capital
+
+4.3.0.0 – Transferência de Capital
+
+4.3.7.0 – Contribuições Diversas
+
+02.04.0141.097 – Auxílio para aplicação em investimento da Associação do Ministério Público de Pernambuco. . .Cr$ 10.000,00
+
+
+Art. 3º.
+
+Para atender as despesas efetuadas com o presente Crédito Especial, será anulada parcialmente a seguinte dotação:
+
+2.2 – Assessoria Jurídica
+
+4.0.0.0 – Despesas de Capital
+
+4.1.0.0 – Investimentos
+
+4.1.4.0 – Material Permanente
+
+02.04.0141.008 – Aquisição de móveis, máquinas, aparelhos e utensílios de uso comum. . . . . . . . . . . . . . . . . . . . .Cr$ 10.000,00
+
+
+Art. 4º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Palácio Conde da Bôa Vista, 31 de maio de 1976
+
+Bel. José Feliciano de Barros Neto
+
+Prefeito
+

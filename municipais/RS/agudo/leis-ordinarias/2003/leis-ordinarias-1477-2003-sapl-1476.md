@@ -1,0 +1,120 @@
+---
+titulo: "Lei nº 1.477, de 08 de abril de 2003"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1477"
+data: "2003-04-08"
+municipio: "Agudo"
+uf: "RS"
+codigo_ibge: "4300109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.agudo.rs.leg.br/norma/1476"
+fonte_texto: "https://sapl.agudo.rs.leg.br/ta/1054/text"
+sha256_fonte: "4f89df13fb9c77664dc3b2eeea67d10d2089f6c192a3e4436276f34ba0f27141"
+sha256_texto: "4d380bbee42e7d311ff1f2f4a5667620469dff8662bb3472aaf06093f19da49f"
+capturado_em_fonte: "2026-10-27T20:53:30.222208-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.477, de 08 de abril de 2003
+
+DISPÕE SOBRE O PAGAMENTO DE DIÁRIAS E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+LAURO REINOLDO REETZ, PREFEITO MUNICIPAL DE AGUDO, FAÇO SABER, que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Os Servidores Públicos Municipais, que no desempenho de suas atribuições, ausentarem-se do Município, por determinação da autoridade competente, além do transporte, receberão diárias para cobrir as despesas de alimentação e hospedagem, sendo o valor calculado sobre o Padrão de Referência dos Vencimentos do Município conforme tabela abaixo:
+
+<table><colgroup></colgroup><colgroup span="3"></colgroup><tbody><tr><td>SERVIDORES</td><td>DIÁRIA INTEIRA</td><td>½ DIÁRIA</td><td>¼ DIÁRIA</td></tr><tr><td>Padrão 01 a 05<br>Padrão 06 a 10<br>Padrão 11<br>Magistério</td><td>38%<br>44%<br>48%<br>44%</td><td>19%<br>22%<br>24%<br>22%</td><td>9,5%<br>11%<br>12%<br>11%</td></tr><tr><td>CARGOS EM COMISSÃO<br></td><td> </td><td> </td><td> </td></tr><tr><td>Padrão 01 a 02<br>Padrão 03 a 04<br>Padrão 05</td><td>38%<br>44%<br>48%</td><td>19%<br>22%<br>24%</td><td>9,5%<br>11%<br>12%</td></tr></tbody></table>
+
+
+§ 1º
+
+Nos casos em que o deslocamento não exija pernoite fora da sede, acarretando apenas despesas com duas refeições, as diárias serão pagas por metade. Quando o deslocamento exigir apenas uma refeição, as diárias serão pagas pela quarta parte.
+
+
+§ 2º
+
+Nos deslocamentos para a capital do Estado, as diárias serão acrescidas de 25% (vinte e cinco porcento).
+
+
+§ 3º
+
+Nos deslocamentos para fora do Estado ou do País, as diárias serão pagas com o seu valor multiplicado por 2,5 (dois vírgula cinco).
+
+
+§ 4º
+
+Os valores serão arredondados para números pares, sem centavos.
+
+
+Art. 2º.
+
+Aos Agentes Políticos Municipais, quando ausentarem-se do Município no desempenho de suas funções, além do transporte, serão pagas diárias sobre o Padrão de Referência dos Vencimentos do Município conforme tabela abaixo:
+
+<table><colgroup></colgroup><colgroup span="3"></colgroup><tbody><tr><td colspan="4">CARGOS EM COMISSÃO-AGENTES POLÍTICOS<br></td></tr><tr><td> </td><td>DIÁRIA INTEIRA</td><td>½ DIÁRIA</td><td>¼ DIÁRIA</td></tr><tr><td>Padrão 05<br>PREFEITO<br>Vice-Prefeito<br></td><td>48%<br>56%<br>56%<br></td><td>24%<br>28%<br>28%<br></td><td>12%<br>14%<br>14%<br></td></tr></tbody></table>
+
+
+§ 1º
+
+Nos casos em que o deslocamento não exija pernoite fora da sede, acarretando apenas despesas com duas refeições, as diárias serão pagas por metade. Quando o deslocamento exigir apenas uma refeição, as diárias serão pagas pela quarta parte.
+
+
+§ 2º
+
+Nos deslocamentos para a capital do Estado, as diárias serão acrescidas de 25% (vinte e cinco porcento).
+
+
+§ 3º
+
+Nos deslocamentos para fora do Estado ou do País, as diárias serão pagas com o seu valor multiplicado por 2,5 (dois vírgula cinco).
+
+
+§ 4º
+
+Os valores serão arredondados para números pares, sem centavos.
+
+
+Art. 3º.
+
+As despesas decorrentes da aplicação desta Lei serão atendidas pelas dotações orçamentarias próprias.
+
+
+Art. 4º.
+
+O Município normatizará os valores através de Decreto sempre que o valor do Padrão de Referencia for alterado.
+
+
+Art. 5º.
+
+Para o recebimento da diária é obrigatória a apresentação das notas fiscais que comprovem a viagem do Servidor.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário, especialmente a Lei Municipal nº 1.189/98.
+
+
+GABINETE DO PREFEITO MUNICIPAL, aos 08 de abril de 2003; 145º da Colonização e 44º da Emancipação.
+
+LAURO REINOLDO REETZ
+
+Prefeito Municipal
+
+Registre se e publique se.  
+  
+HASSO HARRAS BRÄUNIG  
+Sec. Mun. da Administração
+
+
+## Anexo I — TABELA DIÁRIAS
+
+
+<table><colgroup></colgroup><colgroup span="5"></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><tbody><tr><td>SERVIDORES</td><td>PR</td><td> </td><td> </td><td> </td><td>PR</td><td>VLR.ARRED.</td><td>VLR.ARRED.</td><td>VLR.ARRED.</td></tr><tr><td>PADRÃO</td><td>212,40</td><td>INTEIRA</td><td>MEIA</td><td>QUARTO</td><td>212,40</td><td>INTEIRA</td><td>MEIA</td><td>QUARTO</td></tr><tr><td>01 A 05</td><td>38%</td><td>80,71</td><td>40,35</td><td>20,17</td><td> </td><td>81,00</td><td>40,00</td><td>20,00</td></tr><tr><td>06 A 10</td><td>44%</td><td>93,45</td><td>46,72</td><td>23,36</td><td> </td><td>93,00</td><td>47,00</td><td>23,00</td></tr><tr><td>11</td><td>48%</td><td>101,95</td><td>50,97</td><td>25,48</td><td> </td><td>102,00</td><td>51,00</td><td>25,00</td></tr><tr><td>MAGISTÉRIO</td><td>44%</td><td>93,45</td><td>46,72</td><td>23,36</td><td> </td><td>93,00</td><td>47,00</td><td>23,00</td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>C COMISSÃO</td><td>-</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>PADRÃO</td><td>-</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>01 A 02</td><td>38%</td><td>80,71</td><td>40,35</td><td>20,17</td><td> </td><td>81,00</td><td>40,00</td><td>20,00</td></tr><tr><td>03 A 04</td><td>44%</td><td>93,45</td><td>46,72</td><td>23,36</td><td> </td><td>93,00</td><td>47,00</td><td>23,00</td></tr><tr><td>5</td><td>48%</td><td>101,95</td><td>50,97</td><td>25,48</td><td> </td><td>102,00</td><td>51,00</td><td>25,00</td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>GABINETE</td><td>56%</td><td>118,94</td><td>59,47</td><td>29,73</td><td> </td><td>119,00</td><td>59,00</td><td>30,00</td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td colspan="3"><strong>PORTO ALEGRE</strong></td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>SERVIDORES</td><td>PR</td><td> </td><td> </td><td> </td><td>PR</td><td>VLR.ARRED.</td><td>VLR.ARRED.</td><td>VLR.ARRED.</td></tr><tr><td>PADRÃO</td><td>212,40</td><td>INTEIRA</td><td>MEIA</td><td>QUARTO</td><td>212,40</td><td>INTEIRA</td><td>MEIA</td><td>QUARTO</td></tr><tr><td>01 A 05</td><td>38%</td><td>100,89</td><td>50,44</td><td>25,22</td><td> </td><td>101,00</td><td>50,00</td><td>25,00</td></tr><tr><td>06 A 10</td><td>44%</td><td>116,82</td><td>58,41</td><td>29,20</td><td> </td><td>117,00</td><td>58,00</td><td>29,00</td></tr><tr><td>11</td><td>48%</td><td>127,44</td><td>63,72</td><td>31,86</td><td> </td><td>127,00</td><td>64,00</td><td>32,00</td></tr><tr><td>MAGISTÉRIO</td><td>44%</td><td>116,82</td><td>58,41</td><td>29,20</td><td> </td><td>117,00</td><td>58,00</td><td>29,00</td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>C COMISSÃO</td><td>-</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>PADRÃO</td><td>-</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>01 A 02</td><td>38%</td><td>100,89</td><td>50,44</td><td>25,22</td><td> </td><td>101,00</td><td>50,00</td><td>25,00</td></tr><tr><td>03 A 04</td><td>44%</td><td>116,82</td><td>58,41</td><td>29,20</td><td> </td><td>117,00</td><td>58,00</td><td>29,00</td></tr><tr><td>5</td><td>48%</td><td>127,44</td><td>63,72</td><td>31,86</td><td> </td><td>127,00</td><td>64,00</td><td>32,00</td></tr><tr><td>GABINETE</td><td>56%</td><td>148,68</td><td>74,34</td><td>37,17</td><td> </td><td>149,00</td><td>74,00</td><td>37,00</td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td colspan="4"><strong>PARA FORA DO ESTADO E/ OU PAÍS</strong></td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>SERVIDORES</td><td>PR</td><td> </td><td> </td><td> </td><td>PR</td><td>VLR.ARRED.</td><td>VLR. REND.</td><td>VLR.ARRED.</td></tr><tr><td>PADRÃO</td><td>212,40</td><td>INTEIRA</td><td>MEIA</td><td>QUARTO</td><td>212,40</td><td>INTEIRA</td><td>MEIA</td><td>QUARTO</td></tr><tr><td>01 A 05</td><td>38%</td><td>201,78</td><td>100,89</td><td>50,44</td><td> </td><td>202,00</td><td>101,00</td><td>50,00</td></tr><tr><td>06 A 10</td><td>44%</td><td>233,64</td><td>116,82</td><td>58,41</td><td> </td><td>234,00</td><td>117,00</td><td>58,00</td></tr><tr><td>11</td><td>48%</td><td>254,88</td><td>127,44</td><td>63,72</td><td> </td><td>255,00</td><td>127,00</td><td>64,00</td></tr><tr><td>MAGISTÉRIO</td><td>44%</td><td>233,64</td><td>116,82</td><td>58,41</td><td> </td><td>234,00</td><td>117,00</td><td>58,00</td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>C COMISSÃO</td><td>-</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>PADRÃO</td><td>-</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>01 A 02</td><td>38%</td><td>201,78</td><td>100,89</td><td>50,44</td><td> </td><td>202,00</td><td>101,00</td><td>50,00</td></tr><tr><td>03 A 04</td><td>44%</td><td>233,64</td><td>116,82</td><td>58,41</td><td> </td><td>234,00</td><td>117,00</td><td>58,00</td></tr><tr><td>5</td><td>48%</td><td>254,88</td><td>127,44</td><td>63,72</td><td> </td><td>255,00</td><td>127,00</td><td>64,00</td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>GABINETE</td><td>56%</td><td>297,36</td><td>148,68</td><td>74,34</td><td> </td><td>297,00</td><td>149,00</td><td>74,00</td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr></tbody></table>
+

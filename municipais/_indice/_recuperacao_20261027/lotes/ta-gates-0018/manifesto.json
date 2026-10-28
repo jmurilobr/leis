@@ -1,0 +1,191 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 4: admite somente tabelas nativas com prova independente de células, ordem e mesclagens. Mantém todos os demais gates. Também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 584,
+  "aprovados_nestes_gates": 403,
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.california.pr.leg.br.prefixo.jsonl",
+      "sha256": "9c73f753a39ed159393cbd3679dd85f723e0d10eba44a132d82864ff37ab6c4c",
+      "bytes": 1177082
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.california.pr.leg.br.tipos.json",
+      "url": "https://sapl.california.pr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "1b0b105c345d79e79f4e9064a866d3c2a87c99152a77a6bb275627db1b217cd0"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.california.pr.leg.br.anexos.json",
+      "sha256": "d39b1de073f3e10ab72c199b92c180de74b56bb864b739c5e63001d1c567f364"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.canaverde.mg.leg.br.prefixo.jsonl",
+      "sha256": "62a0caed4e39c7511898e38b06766cb7e854e4ff92b417f9225ab334e72c0030",
+      "bytes": 42833
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.canaverde.mg.leg.br.tipos.json",
+      "url": "https://sapl.canaverde.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "15a853c24ab63dc1455f66d927ea48b747bafedd5a9ea5dd6c9029632cd50392"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.canaverde.mg.leg.br.anexos.json",
+      "sha256": "1c7f7b1158b04cd44fe4ecaa454ee34d090fa32d69ac1b0cb0e84f196cd872d5"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.caninde.ce.leg.br.prefixo.jsonl",
+      "sha256": "3083c5adfe391f9eed2d32ccc28e27e63fae7c4695cfa200dcdf0e2e51e2ed60",
+      "bytes": 12937
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.caninde.ce.leg.br.tipos.json",
+      "url": "https://sapl.caninde.ce.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "8164cad71293366a5af04cefae7869683b64864097d56efd0727c1ff33f02987"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.caninde.ce.leg.br.anexos.json",
+      "sha256": "bc34ab0b006e625db944a4f29806ad9f162130da9cc71b86ea34b02dd00ed9b5"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.capitaoeneas.mg.leg.br.prefixo.jsonl",
+      "sha256": "684460790b5ce3d51b36584045847f340c108cc528ef01b09d303271ad2866bd",
+      "bytes": 181976
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.capitaoeneas.mg.leg.br.tipos.json",
+      "url": "https://sapl.capitaoeneas.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "c5d7dc53da8fa8c7bce4dca57ca813938ad8049bd68a1850731ef633b839532c"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.capitaoeneas.mg.leg.br.anexos.json",
+      "sha256": "7be6f3a8dfd83201e01f1c7af97d284c6b2e71b73358b281b5063530d7b0519e"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.carambei.pr.leg.br.prefixo.jsonl",
+      "sha256": "3e9d58074ece4e6dca363e97b440e2d9142e76d14e758b242f21a9274a34af92",
+      "bytes": 19762
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.carambei.pr.leg.br.tipos.json",
+      "url": "https://sapl.carambei.pr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "422ee22dec26728b1f13cf1124ddb04e0b3c4c32e0ce57486f285c41dca1d66f"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.carambei.pr.leg.br.anexos.json",
+      "sha256": "e68362dc0d343d0fc3f6aa078ef0867d964ff45da2075b40bb93d3e1e6690035"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.caraubas.rn.leg.br.prefixo.jsonl",
+      "sha256": "4ef48b76835a746715a8a49ec10058a820c678fcd6409ea2b51ff73df2414eb3",
+      "bytes": 5903
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.caraubas.rn.leg.br.tipos.json",
+      "url": "https://sapl.caraubas.rn.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "0b67360ac6d9886226346feecaa8d7e1fc06e48a0ab1d267b8f37c8f4229f137"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.caraubas.rn.leg.br.anexos.json",
+      "sha256": "26166d862be0c649dc93c1838d8f9fcc3e9221105079ea55169f96864bdce9c6"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.careacu.mg.leg.br.prefixo.jsonl",
+      "sha256": "6fb005c0d07d63e93f6d020485d9e28428a59eec352662df5d2d78164bec52b4",
+      "bytes": 12285
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.careacu.mg.leg.br.tipos.json",
+      "url": "https://sapl.careacu.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "092039b176d571a04f9081db08c9964c8bb3a9ddfe0909987ccb184dfefadcd9"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.careacu.mg.leg.br.anexos.json",
+      "sha256": "7651bf963d2d561bacd7e10d7ec06a7f82d67638aeabe16c213ec086a8b2ae0f"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.carmodoparanaiba.mg.leg.br.prefixo.jsonl",
+      "sha256": "afad3d87ba7865f3bf817cb113b5a4de36c26e853bb0fc7fa49a5b9894c1a7ea",
+      "bytes": 206350
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.carmodoparanaiba.mg.leg.br.tipos.json",
+      "url": "https://sapl.carmodoparanaiba.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "de159ba0be7ad76bc3352fd8ec813f2dd36a4df24a9203d3b1b0050e05434c44"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.carmodoparanaiba.mg.leg.br.anexos.json",
+      "sha256": "153ca6344d14f2c20b59dfa7c7ca5ed66ec13997d3d98ebcc8ea5eef84625c8d"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.carnaubadosdantas.rn.leg.br.prefixo.jsonl",
+      "sha256": "6c7c330891e32d67b82ada9c18dfb2d70551f39fc956f3f7e33d9686a180ebfd",
+      "bytes": 79842
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.carnaubadosdantas.rn.leg.br.tipos.json",
+      "url": "https://sapl.carnaubadosdantas.rn.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "0ca87fe1e713e37f2903ff7169fb41c9e0db0c5b9659a30a44f75fc9baffb300"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.carnaubadosdantas.rn.leg.br.anexos.json",
+      "sha256": "ccc8c625a1f1c1df68302929b86d26f64131d7426c4be00ad158284e822f10e7"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.carneirinho.mg.leg.br.prefixo.jsonl",
+      "sha256": "43d7fd3d0304c2a68a0b94747cefbaca11d2dc4bfc003adb531713598951125d",
+      "bytes": 93466
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.carneirinho.mg.leg.br.tipos.json",
+      "url": "https://sapl.carneirinho.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "5115341885435808e5ec2720e7f9cd6dad46a58a8503894f57f17f9e164a72a4"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.carneirinho.mg.leg.br.anexos.json",
+      "sha256": "aa5e8f04792a19845cbcad9685120ad9c64a947ab5d0943a9fa21bf8ab25d334"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.cascavel.ce.leg.br.prefixo.jsonl",
+      "sha256": "9fb72490f91e2208f7a0255801b1774acc3b7fb3e9197ddda2f5fa2e8ed0401f",
+      "bytes": 56773
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.cascavel.ce.leg.br.tipos.json",
+      "url": "https://sapl.cascavel.ce.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "a0e0e24d2f7facf6363089ea1f5c45c7ff7a322a03490e3de5f9f53ceb307de2"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.cascavel.ce.leg.br.anexos.json",
+      "sha256": "57005ec2ff42e94cc2635f97b45fc97533f346be1da06a34ebbf6d1cbc78840d"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.castro.pr.leg.br.prefixo.jsonl",
+      "sha256": "b163b60db576a8c9bf36c92914eaabee62d41e439f917316f2b133403d40b12c",
+      "bytes": 9428
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.castro.pr.leg.br.tipos.json",
+      "url": "https://sapl.castro.pr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "5725e9791e3d4cb0f32c18f5ce0fa4f7b5f47ae6d7b33f09b1128755bb193d57"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.castro.pr.leg.br.anexos.json",
+      "sha256": "9c86c2e8219a4cd330c62255f83dee6a13025302e06e107e39cec3979efe6750"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.chapadagaucha.mg.leg.br.prefixo.jsonl",
+      "sha256": "ed486eb0008f78b49d76efdf19e490bc6fc211ff47c4301ab31008181a28abbd",
+      "bytes": 92592
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.chapadagaucha.mg.leg.br.tipos.json",
+      "url": "https://sapl.chapadagaucha.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "20567d88fb991a23247b997ac020fd6a5721172c17393c096f4c906165283ac5"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/sapl.chapadagaucha.mg.leg.br.anexos.json",
+      "sha256": "717ebaacad9bc1af799cac902f54d13056f496a3d6aa0d8c06998c8a5697a7eb"
+    }
+  ],
+  "script_sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

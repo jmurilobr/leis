@@ -1,0 +1,8 @@
+{
+  "candidatos_conferidos": 1155,
+  "baixado_em_por_data_real": {
+    "2026-10-28": 330,
+    "2026-10-27": 825
+  },
+  "criterio": "datetime.fromisoformat(captura_utc).astimezone(America/Recife).date(); nome do diretório não entra no cálculo. Nenhum corpo/YAML/pacote alterado."
+}

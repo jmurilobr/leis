@@ -1,0 +1,2116 @@
+{
+  "criterio": "Revisão contextual apenas dos alertas anteriores: contadores efetivos de ol/start/li associados à AST e ao delimitador manual, sem copiar número da fonte. Preserva pontuação e sinais; divergências remanescentes continuam retidas. Listas nativas da fonte não recebem materialização automática.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "63b916abe1e6c687db373e67610a4ea584fb04e3c2029873da8c84c91b77ee72",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "revisar": 49,
+    "iguais": 10
+  },
+  "documentos": [
+    {
+      "path": "reguladores/tcu/portarias/2020/portaria-n-105-de-2-de-julho-de-2020-264915292.md",
+      "sha256_md": "174230ffd0e0e5b08c27c8473cf838519a31d34f9e594dc4596ff525e7e5fa4a",
+      "sha256_fonte": "1aaf75eec02ed860d32fb642de600b350dc3f2ac0d4b4b2df684bb20d1fd8631",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "fda1c07438d926928480679067a69a6b58e4c77b03b6a7227aed0f559cba7772",
+      "sha256_visivel_md": "d9f0e0ccfd8ea26b913f407a849937abc30a6e1ce279422131278a4cbc837d72",
+      "primeira_diferenca": {
+        "posicao": 616,
+        "fonte": " 11 de novembro de 2019 (LDO), combinado com o art. 4º, caput, inciso II, alínea\"a\", item \"1\", da Lei nº 13.978, de 20 de janeiro de 2020 (LOA) e as disposições contidas na Portaria SOF nº 5.509, de 21 de fevereiro de 2020, resolve: Art. 1º",
+        "md": " 11 de novembro de 2019 (LDO), combinado com o art. 4º, caput, inciso II, alínea*\"a\"*, item \"1\", da Lei nº 13.978, de 20 de janeiro de 2020 (LOA) e as disposições contidas na Portaria SOF nº 5.509, de 21 de fevereiro de 2020, resolve: Art. "
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2020/portaria-n-3-de-12-de-fevereiro-de-2020-244577576.md",
+      "sha256_md": "ee8d4a4e4377d07f2a9cb83e2cc49f91f85923ee6e0e274d9320d85da101bd9c",
+      "sha256_fonte": "8c6778c845f202e47bbc0cc1bff7d6c1ca1cdf28c7b7456734fb31ea6da1eb75",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "2fd56bff00d62c425f4476d44812c368da409bb1cfe8c4dcabc9d41fc7db3b1b",
+      "sha256_visivel_md": "07634e20a08a2139495813a4374ceca520d923ad1abe4f9906c87ea6c5dc58ee",
+      "primeira_diferenca": {
+        "posicao": 381,
+        "fonte": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea\"d\", da Portaria-TCU nº 1, de 2 de janeiro de 2019, resolve: Art. 1º Fica autorizada, na forma do Anexo único desta portaria, a descentralização externa de créd",
+        "md": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea*\"d\"*, da Portaria-TCU nº 1, de 2 de janeiro de 2019, resolve: Art. 1º Fica autorizada, na forma do Anexo único desta portaria, a descentralização externa de cr"
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2020/portaria-n-66-de-27-de-marco-de-2020-250196265.md",
+      "sha256_md": "7effdf886c08ded9f6a6e44b2e51b075e259adf970616bf82b0feb17c118e2ac",
+      "sha256_fonte": "43cf3dc6016f657ad102c072fb34c1423c16fc244884940d2d7804c66d9905c9",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "68b9d0d65e5179328f7b5d162d082ec3695039befac7819c30a5333f49f433c3",
+      "sha256_visivel_md": "4ed9eeadee7c56bb38381e84d27059b64aa9e2bbc9fbc546200289c8f5096dfd",
+      "primeira_diferenca": {
+        "posicao": 581,
+        "fonte": " 11 de novembro de 2019 (LDO), combinado com o art. 4º, caput, inciso II, alínea\"a\", itens \"1\" e \"2\", da Lei nº 13.978, de 20 de janeiro de 2020 (LOA), o art. 4º, da Lei Complementar nº 101, 4 de maio de 2000 (LRF) e as disposições contidas",
+        "md": " 11 de novembro de 2019 (LDO), combinado com o art. 4º, caput, inciso II, alínea*\"a\"*, itens \"1\" e \"2\", da Lei nº 13.978, de 20 de janeiro de 2020 (LOA), o art. 4º, da Lei Complementar nº 101, 4 de maio de 2000 (LRF) e as disposições contid"
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2020/portaria-n-79-de-4-de-maio-de-2020-255167217.md",
+      "sha256_md": "53c904830ee3ce9370fe60003e97fe123970dbfc8be153394e1e4d0bc93a33f3",
+      "sha256_fonte": "f437fb0f8dc86be9c04b5c34248d44816c9043f5895f721fcf2c2f2373dee274",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "4590f077e96bfc54150d465aa1bc18209b1f283d5b3a095f1cd98b806ef6af5d",
+      "sha256_visivel_md": "465095fdf62bf97c62816c5833a6ca4c9c371208820b811bc9cc26d9563effca",
+      "primeira_diferenca": {
+        "posicao": 558,
+        "fonte": "11 de novembro de 2019 (LDO), combinado com o art. 4º, caput, inciso III, alínea\"a\", da Lei nº 13.978, de 20 de janeiro de 2020 (LOA), o art. 4 º, da Lei Complementar nº 101, 4 de maio de 2000 (LRF) e as disposições contidas na Portaria SOF",
+        "md": "11 de novembro de 2019 (LDO), combinado com o art. 4º, caput, inciso III, alínea*\"a\"*, da Lei nº 13.978, de 20 de janeiro de 2020 (LOA), o art. 4 º, da Lei Complementar nº 101, 4 de maio de 2000 (LRF) e as disposições contidas na Portaria S"
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2021/portaria-segedam-n-11-de-5-de-marco-de-2021-307079294.md",
+      "sha256_md": "37209009c373a5aaee5e73d749584983652f70a74a8d224b5d81caea80e5a536",
+      "sha256_fonte": "afe75e5358d01f6dfa7e33e0e5bad6f1eca9b5e16ce612df3e5cd0b631d357b2",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "a9efd1844f5a9d2b6589d1d5599076866ee79e97fc578ffe0d2bc7992d9c2238",
+      "sha256_visivel_md": "f0a6a9d7a4a0be844ceb4a7769c5006b82c8ace9aed441400f99835bf567545c",
+      "primeira_diferenca": {
+        "posicao": 386,
+        "fonte": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea\"d\", da Portaria-TCU nº 6, de 5 de janeiro de 2021, resolve: Art. 1º Fica autorizada, na forma do Anexo único desta portaria, a descentralização externa de créd",
+        "md": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea*\"d\"*, da Portaria-TCU nº 6, de 5 de janeiro de 2021, resolve: Art. 1º Fica autorizada, na forma do Anexo único desta portaria, a descentralização externa de cr"
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2022/portaria-segedam-n-27-de-4-de-novembro-de-2022-441693869.md",
+      "sha256_md": "7bf9f14574fed4b0c4754538455b496555eaa97a79570a57b54ef5a450eda336",
+      "sha256_fonte": "3a5134eaeec63f3cd39e0d83b70d2a00b6333e22bdc0d8351835895b60cbcf63",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "27bdbaffe2b020221d1ee188d342b556b13b035dc40de03bdfee2ebf57ec7885",
+      "sha256_visivel_md": "973798cb598c51f61e2fd5e80c2fcbc5ef16d08f3d35d8d4b4454674af2e333c",
+      "primeira_diferenca": {
+        "posicao": 310,
+        "fonte": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea\"d\", da Portaria-TCU nº 119, de 25 de julho de 2022, resolve: Art. 1º Fica autorizada, na forma do Anexo único desta portaria, a descentralização externa de cré",
+        "md": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea*\"d\"*, da Portaria-TCU nº 119, de 25 de julho de 2022, resolve: Art. 1º Fica autorizada, na forma do Anexo único desta portaria, a descentralização externa de c"
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2022/portaria-segedam-n-28-de-5-de-dezembro-de-2022-448342560.md",
+      "sha256_md": "d50832f2e935935a31b813726a6bca33717a7490df1a7bb9d96a2923bbf2b75b",
+      "sha256_fonte": "8430a0dccfe25ff061d02a1f1345b239e17ee7c9f7039240d2f3b6bd61162432",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "059bb03cc6aa9a6ebe14c1dc1af3c7eeb37719f50e34ae7fb892d113ea2a4d7d",
+      "sha256_visivel_md": "ac6e5b48041150942d77b28bf5c8b33f0ba67fb56f8fe0c59a466bb214849a53",
+      "primeira_diferenca": {
+        "posicao": 378,
+        "fonte": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea\"d\", da Portaria-TCU nº 119, de 25 de julho de 2022, resolve: Art. 1º Fica autorizada, na forma do Anexo único desta portaria, a descentralização externa de cré",
+        "md": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea*\"d\"*, da Portaria-TCU nº 119, de 25 de julho de 2022, resolve: Art. 1º Fica autorizada, na forma do Anexo único desta portaria, a descentralização externa de c"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-1-de-2-de-janeiro-de-2020-236402982.md",
+      "sha256_md": "486198c3f3a7729a69e3d2e3c2f2b0c4e119d8c0a9fe4080c9824e4f6fe54735",
+      "sha256_fonte": "60839e6f15e254fd43c7da1daede6479a972fab29e4a393777245a312a6c7eaa",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "004a8e654b849231be85d1209aa44dc01b3b61d7e32f8351e7c4073a244c1c49",
+      "sha256_visivel_md": "f538c64bb658de2d62385306b5fb769057224531559b8c7adf9caa6cf02d9a08",
+      "primeira_diferenca": {
+        "posicao": 1586,
+        "fonte": "ura! - Teatro das Artes | 2016 LOALBA PRODUCOES ARTISTICAS E CULTURAIS LIMITADA &#x2013; EPP CNPJ/CPF: 21.258.410/0001-07 Cidade: Santo André - SP; Prazo de Captação: 01/01/2020 à 31/08/2020 159448 - ?SYLVIA? SPZ Produções Artísticas Ltda C",
+        "md": "ura! - Teatro das Artes | 2016 LOALBA PRODUCOES ARTISTICAS E CULTURAIS LIMITADA – EPP CNPJ/CPF: 21.258.410/0001-07 Cidade: Santo André - SP; Prazo de Captação: 01/01/2020 à 31/08/2020 159448 - ?SYLVIA? SPZ Produções Artísticas Ltda CNPJ/CPF"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-11-de-3-de-fevereiro-de-2020-241336378.md",
+      "sha256_md": "3bc5667598986fa6642d14423f1edd6ed4a853a6339c5555f54f8c07e30e9f38",
+      "sha256_fonte": "f1a51085d294309b1a4fa84f3523c6ee7182596f6e5159c4b25b0f42d0ecb149",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 2 AUDIOVISUAL (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 2 AUDIOVISUAL (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — 185412 - A Poética dos Beiradões",
+          "fonte": "ANEXO II 185412 - A Poética dos Beiradões",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "f06ddf9d8a43b273f550d8745d317634a64f894e7b279bc730376a6555d9d816",
+      "sha256_visivel_md": "7b797cb076e53c3aa0935b86543388b6c61d71ece7f6ced6d493df1296ef0e01",
+      "primeira_diferenca": {
+        "posicao": 3087,
+        "fonte": "20 193078 - Abelha: a pequena gigante IMAGEM ESSENCIAL PRODUCOES CULTURAIS LTDA &#x2013; ME CNPJ/CPF: 05.135.030/0001-29 Cidade: São Paulo - SP; Prazo de Captação: 01/01/2020 à 30/09/2020 193251 - 13ª MOSCA - Mostra Audiovisual de Cambuquir",
+        "md": "20 193078 - Abelha: a pequena gigante IMAGEM ESSENCIAL PRODUCOES CULTURAIS LTDA – ME CNPJ/CPF: 05.135.030/0001-29 Cidade: São Paulo - SP; Prazo de Captação: 01/01/2020 à 30/09/2020 193251 - 13ª MOSCA - Mostra Audiovisual de Cambuquira ROMA "
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-125-de-14-de-fevereiro-de-2020-243578057.md",
+      "sha256_md": "de6c035b507e28d6e2cd971a3c638c4295671b12d8094dfaef7e9f6e2cf2607d",
+      "sha256_fonte": "92169f658b0992f6064c0e77e05316bedaa2cf9d11264805557613c077b70d41",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "db987549ece0e185979e7e1db2e7b69f894efd9cb15562dfc3388534aaa77ecf",
+      "sha256_visivel_md": "85efed7c5d3588541a89ecab10e92dc42ad07e01c0be6125a7b82e182179fc72",
+      "primeira_diferenca": {
+        "posicao": 862,
+        "fonte": "tigo 18 , § 1º ) 191499 - MÃE FORA DA CAIXA BEM LEGAL PRODUCOES ARTISTICAS LTDA &#x2013; ME CNPJ/CPF: 10.455.663/0001-54 Cidade: Rio de Janeiro - RJ; Prazo de Captação: 01/01/2020 à 31/12/2020 193121 - My Dream INTERLUDIO EVENTOS E SERVICOS",
+        "md": "tigo 18 , § 1º ) 191499 - MÃE FORA DA CAIXA BEM LEGAL PRODUCOES ARTISTICAS LTDA – ME CNPJ/CPF: 10.455.663/0001-54 Cidade: Rio de Janeiro - RJ; Prazo de Captação: 01/01/2020 à 31/12/2020 193121 - My Dream INTERLUDIO EVENTOS E SERVICOS ARTIST"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-137-de-20-de-fevereiro-de-2020-244582013.md",
+      "sha256_md": "7e11b9b5e0ad8744f4390a632a40d12fff72dba05c734b1278700aba6779a30b",
+      "sha256_fonte": "aaa720ac51f1eed5654dce52ba91f42211eae35c847e5355d7b66ea872c48e0f",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "8aac2e01d398c0410ecd9acccacb40ca28690c718939d0b8e49d44740e1b8f20",
+      "sha256_visivel_md": "33cc4dd44ea65cb8ff5e3e537680b3a157b406e6ab9ee6cd5c6fe7a1cac6e26c",
+      "primeira_diferenca": {
+        "posicao": 1858,
+        "fonte": " 3 MÚSICA (Artigo 18 , § 1º ) 177601 - EcoMúsica ECHO PROMOCOES ARTISTICAS LTDA &#x2013; ME CNPJ/CPF: 59.393.421/0001-72 Cidade: São Paulo - SP; Valor Reduzido: R$ 28.490,34 Valor total atual: R$ 650.894,82 177904 - Vale Música Serra (ES) N",
+        "md": " 3 MÚSICA (Artigo 18 , § 1º ) 177601 - EcoMúsica ECHO PROMOCOES ARTISTICAS LTDA – ME CNPJ/CPF: 59.393.421/0001-72 Cidade: São Paulo - SP; Valor Reduzido: R$ 28.490,34 Valor total atual: R$ 650.894,82 177904 - Vale Música Serra (ES) Núcleo d"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-155-de-2-de-marco-de-2020-245732105.md",
+      "sha256_md": "9b9fffde029b9425cbbe0875a16efc34c857a51e122ba81d58606e6cd7cfef9d",
+      "sha256_fonte": "e3aebfcb657b401e425c37425a7f12b3b262b24bf031a29da71f2e12abe56de6",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "9316babeff562f7e9e45860bd4204ab258966618f61ab2c060be806065e81fcf",
+      "sha256_visivel_md": "77adc3f7c59f9b4366af11332610ad479e2ca18953bcc6ff835e60f3241093e1",
+      "primeira_diferenca": {
+        "posicao": 2911,
+        "fonte": "Pele - Um Musical Off-Broadway 4 ACT PERFORMING ARTS ATIVIDADES ARTISTICAS LTDA &#x2013; ME CNPJ/CPF: 11.063.027/0001-40 Cidade: São Paulo - SP; Prazo de Captação: 01/03/2020 à 31/12/2020 185928 - GREASE 4 ACT PERFORMING ARTS ATIVIDADES ART",
+        "md": "Pele - Um Musical Off-Broadway 4 ACT PERFORMING ARTS ATIVIDADES ARTISTICAS LTDA – ME CNPJ/CPF: 11.063.027/0001-40 Cidade: São Paulo - SP; Prazo de Captação: 01/03/2020 à 31/12/2020 185928 - GREASE 4 ACT PERFORMING ARTS ATIVIDADES ARTISTICAS"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-17-de-8-de-janeiro-de-2020-237203900.md",
+      "sha256_md": "596e52d73d73cce26ef025dd63b3600e6aa84f35dbd8cd925424967a95903198",
+      "sha256_fonte": "a6c6bb852b61fc52045a3b1249b165c4383fdc1dbf7fc7d9eba78b0a0ac5541a",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "b6f65247843007f933fb8fd14a82f817c6a544310707d500e6dbeff4089bfd42",
+      "sha256_visivel_md": "f131abc11ff7d7bf9686a08c5045a6f4d7c678e0786f3331e3b71249d0e2e8ca",
+      "primeira_diferenca": {
+        "posicao": 1206,
+        "fonte": "ura! - Teatro das Artes | 2016 LOALBA PRODUCOES ARTISTICAS E CULTURAIS LIMITADA &#x2013; EPP CNPJ/CPF: 21.258.410/0001-07 Cidade: Santo André - SP; Prazo de Captação: 01/01/2020 à 31/08/2020 159448 - ?SYLVIA? SPZ Produções Artísticas Ltda C",
+        "md": "ura! - Teatro das Artes | 2016 LOALBA PRODUCOES ARTISTICAS E CULTURAIS LIMITADA – EPP CNPJ/CPF: 21.258.410/0001-07 Cidade: Santo André - SP; Prazo de Captação: 01/01/2020 à 31/08/2020 159448 - ?SYLVIA? SPZ Produções Artísticas Ltda CNPJ/CPF"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-178-de-9-de-marco-de-2020-247020879.md",
+      "sha256_md": "3727d2ac1dab292c49008927275720c681b17dd4c703a5be5a0a9c0c311479e9",
+      "sha256_fonte": "b356f86d8b91d3191f7155633efb0c39725593483226e756c88b59964524aa24",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "f1bfe6be8db5744fc715c372cebcdfff481619a7b19544e8a3024f468e613f6f",
+      "sha256_visivel_md": "c17f0b532be20416e96994c5742cd12b1e96049b64d1fa4e82f1936de847168f",
+      "primeira_diferenca": {
+        "posicao": 2163,
+        "fonte": "lo. 201027 - MÃE FORA DA CAIXA - CIRCULAÇÃO BEM LEGAL PRODUCOES ARTISTICAS LTDA &#x2013; ME CNPJ/CPF: 10.455.663/0001-54 Processo: 01400000994202076 Cidade: Rio de Janeiro - RJ; Valor Aprovado: R$ 984.792,60 Prazo de Captação: 10/03/2020 à ",
+        "md": "lo. 201027 - MÃE FORA DA CAIXA - CIRCULAÇÃO BEM LEGAL PRODUCOES ARTISTICAS LTDA – ME CNPJ/CPF: 10.455.663/0001-54 Processo: 01400000994202076 Cidade: Rio de Janeiro - RJ; Valor Aprovado: R$ 984.792,60 Prazo de Captação: 10/03/2020 à 31/12/2"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-18-de-9-de-janeiro-de-2020-237439866.md",
+      "sha256_md": "045a671a5b408c50d9d9328cdb9636c34af6a38c1bb2c568e9f6dc85b373b1a7",
+      "sha256_fonte": "fc5580923bf22a3d7b7102f7049305d7f3c92fe416f1c734c7fe584b5779ccea",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "bca4fcfbc369d5d2f729cf4147ab67f714ede33d0d677052b6fec285f5ba734e",
+      "sha256_visivel_md": "62324991a63deef7e195e43723e6826e736f482f8efd68d6aba3e39f8dc8eb01",
+      "primeira_diferenca": {
+        "posicao": 2378,
+        "fonte": "lorestas e madeiras: ensaios históricos ANDREA JAKOBSSON ESTUDIO EDITORIAL LTDA &#x2013; EPP CNPJ/CPF: 04.295.246/0001-99 Processo: 01400000134202032 Cidade: Rio de Janeiro - RJ; Valor Aprovado: R$ 498.400,87 Prazo de Captação: 10/01/2020 à",
+        "md": "lorestas e madeiras: ensaios históricos ANDREA JAKOBSSON ESTUDIO EDITORIAL LTDA – EPP CNPJ/CPF: 04.295.246/0001-99 Processo: 01400000134202032 Cidade: Rio de Janeiro - RJ; Valor Aprovado: R$ 498.400,87 Prazo de Captação: 10/01/2020 à 31/12/"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-187-de-12-de-marco-de-2020-247798016.md",
+      "sha256_md": "0c3b373220281ae75e6f6375b0afb29f873d6ba5218f7b14c3a0f28706e85599",
+      "sha256_fonte": "cff0b378cd599a5c249dd3ea7d5027977d971f7887abd3edf1ddb19faf3f2a45",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "ba9cc7052fe3f61b18d71bd3f94b65e299a390ddf589e237eb5b477a16fe7586",
+      "sha256_visivel_md": "977983c26b1ad1d2c40f93f259618dea8d0b3b32abdbf577f0584ca5cf306c32",
+      "primeira_diferenca": {
+        "posicao": 1449,
+        "fonte": ": 5 PATRIMÔNIO CULTURAL (Artigo 18 , § 1º ) 183431 - Museu das Telecomunicações &#x2013; Tratamento de Acervo e Projeto Especial de Democratização de Acesso - Fase 4 INSTITUTO TELEMAR CNPJ/CPF: 04.256.109/0001-45 Cidade: Rio de Janeiro - RJ",
+        "md": ": 5 PATRIMÔNIO CULTURAL (Artigo 18 , § 1º ) 183431 - Museu das Telecomunicações – Tratamento de Acervo e Projeto Especial de Democratização de Acesso - Fase 4 INSTITUTO TELEMAR CNPJ/CPF: 04.256.109/0001-45 Cidade: Rio de Janeiro - RJ; Valor"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-192-de-16-de-marco-de-2020-248327000.md",
+      "sha256_md": "a467483e477ec98c9d34b1f1db065d1ff51eb3622fd2c95783d3bf3397646109",
+      "sha256_fonte": "307898afe7b8b69b03da386fd0cf34ca0a11c8e2e4865c35ece159db178f13e8",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "1e7946eb19802e216bc052fd36490da43d276744be64bbba5e17005ebaca205d",
+      "sha256_visivel_md": "31f52b64e78a4cc4769c560b0fed1576779277806abf9ca452eb82c1183160ac",
+      "primeira_diferenca": {
+        "posicao": 11494,
+        "fonte": "as, criando uma nova expressão musical instrumental. 201442 - MARTE Festival - 3&#730; edição NEUTRA PRODUTORA DE SOM LTDA CNPJ/CPF: 01.824.647/0001-09 Processo: 01400001409202055 Cidade: Belo Horizonte - MG; Valor Aprovado: R$ 599.922,27 P",
+        "md": "as, criando uma nova expressão musical instrumental. 201442 - MARTE Festival - 3˚ edição NEUTRA PRODUTORA DE SOM LTDA CNPJ/CPF: 01.824.647/0001-09 Processo: 01400001409202055 Cidade: Belo Horizonte - MG; Valor Aprovado: R$ 599.922,27 Prazo "
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-2-de-3-de-janeiro-de-2020-236560737.md",
+      "sha256_md": "84213a23d75546f883f91b69197a82322f6a62118d33ecafa99bbc7dbf9e381f",
+      "sha256_fonte": "3d1582e8f4f3980d292da38416e184f04d6f4782d636e371ecfaae0ca90d0cbe",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "eb05d1296e5c97c35896bb011fb7776f04af32fa4092a3876896b43e54da6582",
+      "sha256_visivel_md": "2d958f68c61534ad49ff8c4c67ecb3c8eabe560b96330b9387445cfc7d6cee6a",
+      "primeira_diferenca": {
+        "posicao": 5286,
+        "fonte": "1/01/2020 à 31/12/2020 190764 - Órfão de Pai AUTONAUTA PRODUÇÕES CULTURAIS LTDA &#x2013; ME CNPJ/CPF: 05.765.198/0001-18 Cidade: Curitiba - PR; Prazo de Captação: 01/01/2020 à 31/12/2020 190852 - CARAVANA RODA BOYÁSHA BOYASHA TRUPE DE TEATR",
+        "md": "1/01/2020 à 31/12/2020 190764 - Órfão de Pai AUTONAUTA PRODUÇÕES CULTURAIS LTDA – ME CNPJ/CPF: 05.765.198/0001-18 Cidade: Curitiba - PR; Prazo de Captação: 01/01/2020 à 31/12/2020 190852 - CARAVANA RODA BOYÁSHA BOYASHA TRUPE DE TEATRO LTDA "
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-202-de-18-de-marco-de-2020-248806539.md",
+      "sha256_md": "ae59d9a8702de261eef78468509bc558c5be5a5acc72117246e9517e4475aea2",
+      "sha256_fonte": "000456945f501c82dcf3e10cb97cc4ed0d8e72a6bb3ff975995a02b959345555",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "d86796be36093ab1c834dd3b82d38a1b0a4c06c0c88577a0b9be0a0ecfdc8460",
+      "sha256_visivel_md": "c454015ceb3587c61b2c1ac2adf515cfb522bf877d8c21e24b978f83d5b5e134",
+      "primeira_diferenca": {
+        "posicao": 1269,
+        "fonte": " 6 HUMANIDADES (Artigo 18 , § 1º ) 185750 - Instituto de Veterinária à FMVZ-USP &#x2013; 100 de história FUNDACAO DE APOIO A PESQUISA, ENSINO E EXTENSAO - FUNEP CNPJ/CPF: 50.511.286/0001-48 Cidade: Jaboticabal - SP; Valor Complementado: R$ ",
+        "md": " 6 HUMANIDADES (Artigo 18 , § 1º ) 185750 - Instituto de Veterinária à FMVZ-USP – 100 de história FUNDACAO DE APOIO A PESQUISA, ENSINO E EXTENSAO - FUNEP CNPJ/CPF: 50.511.286/0001-48 Cidade: Jaboticabal - SP; Valor Complementado: R$ 10.150,"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-208-de-20-de-marco-de-2020-249243525.md",
+      "sha256_md": "51795ea03fb65b4f04ff0f9bc9cef0ad27d568940d00a9696421dec37a5c9c11",
+      "sha256_fonte": "8d3233f547dade2748c07d5c8ca9fd9d77a729a4563cbb572efdc7dacc5153c8",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 5 PATRIMÔNIO CULTURAL (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 5 PATRIMÔNIO CULTURAL (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "222528d543026acc54c4cca9f9c04d7b1b58193b7c2ba5d1a4a7ab0a6b0a92bd",
+      "sha256_visivel_md": "92eadad7eabce112635aedf5d1bc1fc3a5790a99c36e111b58907f650c12da58",
+      "primeira_diferenca": {
+        "posicao": 1040,
+        "fonte": " 6 HUMANIDADES (Artigo 18 , § 1º ) 185750 - Instituto de Veterinária à FMVZ-USP &#x2013; 100 de história FUNDACAO DE APOIO A PESQUISA, ENSINO E EXTENSAO - FUNEP CNPJ/CPF: 50.511.286/0001-48 Cidade: Jaboticabal - SP; Prazo de Captação: 01/01",
+        "md": " 6 HUMANIDADES (Artigo 18 , § 1º ) 185750 - Instituto de Veterinária à FMVZ-USP – 100 de história FUNDACAO DE APOIO A PESQUISA, ENSINO E EXTENSAO - FUNEP CNPJ/CPF: 50.511.286/0001-48 Cidade: Jaboticabal - SP; Prazo de Captação: 01/01/2019 à"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-233-de-30-de-marco-de-2020-250406408.md",
+      "sha256_md": "40e53fb062df45704ef4614f1d07e77236ddb761531667e2306fbe396a5b8081",
+      "sha256_fonte": "c539e170cfda850e654d7616dfbf2b74a9d73e63a73644e97443f15b100e852d",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26 )",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26 )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "41d054235f527fbc2f22b0f669c5bcd1942e5f8c579fffd8b28d862dcf5e38f0",
+      "sha256_visivel_md": "10c69648c500a828a225ed5815c324e971f17aefe59a74aba0019af59bba7a07",
+      "primeira_diferenca": {
+        "posicao": 4262,
+        "fonte": "kuá - Exposição de Arte MONTENEGRO PENSAMENTO CRIATIVO PRODUCOES & EVENTOS LTDA &#x2013; ME CNPJ/CPF: 12.932.765/0001-49 Cidade: Curitiba - PR; Valor Reduzido: R$ 3.415,50 Valor total atual: R$ 848.974,50 185417 - Escola Criativa EDUQATIVO ",
+        "md": "kuá - Exposição de Arte MONTENEGRO PENSAMENTO CRIATIVO PRODUCOES & EVENTOS LTDA – ME CNPJ/CPF: 12.932.765/0001-49 Cidade: Curitiba - PR; Valor Reduzido: R$ 3.415,50 Valor total atual: R$ 848.974,50 185417 - Escola Criativa EDUQATIVO - INSTI"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-235-de-31-de-marco-de-2020-250637548.md",
+      "sha256_md": "f1daa515ef66c3108a190ba3b1f88452895c104cae2c5536fa122ad3e6be17d5",
+      "sha256_fonte": "ab3fe818053cf1f4325a90e126ed2d779a465abeff2f4363033c422dc42cdbe9",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "6e1085126f08655a89f51e073bff22710a9c95cea85a08d18bec986a7a259a46",
+      "sha256_visivel_md": "d672d25df144fd18dfa884d04b8d4ffe2a219c87bb0666c31cbf62d9509e49de",
+      "primeira_diferenca": {
+        "posicao": 858,
+        "fonte": "tigo 18 , § 1º ) 191499 - MÃE FORA DA CAIXA BEM LEGAL PRODUCOES ARTISTICAS LTDA &#x2013; ME CNPJ/CPF: 10.455.663/0001-54 Cidade: Rio de Janeiro - RJ; Valor Complementado: R$ 180.895,00 Valor total atual: R$ 999.727,30 ÁREA: 3 MÚSICA (Artigo",
+        "md": "tigo 18 , § 1º ) 191499 - MÃE FORA DA CAIXA BEM LEGAL PRODUCOES ARTISTICAS LTDA – ME CNPJ/CPF: 10.455.663/0001-54 Cidade: Rio de Janeiro - RJ; Valor Complementado: R$ 180.895,00 Valor total atual: R$ 999.727,30 ÁREA: 3 MÚSICA (Artigo 18 , §"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-240-de-1-de-abril-de-2020-250849601.md",
+      "sha256_md": "d5d9c29b4f69f59a713d382d9f429d07476c438cb5f2ebb6ea78cf85112a91f0",
+      "sha256_fonte": "ef8432d907c47a1bf4543d15bcfc67911f32dc890267b8ed11e557c57d1c5863",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "5e920f062532ed2e6cb9449fdd337f88d51eae0520b175767672f2a973691742",
+      "sha256_visivel_md": "c1379b6f003c1783b5267f711050292259137e25876c058f519f32d02e595e06",
+      "primeira_diferenca": {
+        "posicao": 1494,
+        "fonte": " NO FORTE - XIII FESTIVAL DE CULTURA E GASTRONOMIA DE PRAIA DO FORTE e SALVADOR &#x2013;BA 2D Comunicação Promoções e Eventos CNPJ/CPF: 33.873.860/0001-99 Cidade: Salvador - BA; Valor Complementado: R$ 7.370,00 Valor total atual: R$ 603.013",
+        "md": " NO FORTE - XIII FESTIVAL DE CULTURA E GASTRONOMIA DE PRAIA DO FORTE e SALVADOR –BA 2D Comunicação Promoções e Eventos CNPJ/CPF: 33.873.860/0001-99 Cidade: Salvador - BA; Valor Complementado: R$ 7.370,00 Valor total atual: R$ 603.013,66"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-27-de-14-de-janeiro-de-2020-238089238.md",
+      "sha256_md": "dc34395793635ac2d0114010c92bab968ff71c074c2a4861d312888ed3e81aba",
+      "sha256_fonte": "23ed67cea4fecdec12a585ff4da67999e103a357fea9432bac54118e3b56316b",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e9e06568b0b694b94ff6815ef25edaae976fc91b57f8dfeaec38382024c423bf",
+      "sha256_visivel_md": "daedfe82470f42833da29889dcf01770b6f7ca89fb0a4d68dc54dbd40c91dc88",
+      "primeira_diferenca": {
+        "posicao": 2993,
+        "fonte": " 200158 - Todas elas em uma - Show Viva O Musical OFICINA VIVA PRODUCOES EIRELI &#x2013; ME CNPJ/CPF: 20.835.123/0001-50 Processo: 01400000157202047 Cidade: São José dos Campos - SP; Valor Aprovado: R$ 813.532,90 Prazo de Captação: 15/01/20",
+        "md": " 200158 - Todas elas em uma - Show Viva O Musical OFICINA VIVA PRODUCOES EIRELI – ME CNPJ/CPF: 20.835.123/0001-50 Processo: 01400000157202047 Cidade: São José dos Campos - SP; Valor Aprovado: R$ 813.532,90 Prazo de Captação: 15/01/2020 à 31"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-281-de-15-de-abril-de-2020-252724948.md",
+      "sha256_md": "4a490ef9f2ec5401c8e599f286e396a532790dbbaa278e3a8e31bc59934bdd29",
+      "sha256_fonte": "93888ff00590c8383b663043bdc16736c8e0a1d41583f650f1c6730eb5a04b5a",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "3d53b9603796230bf461ff9347cd1f300b0ba40020f48b4901e536b8cbd068dd",
+      "sha256_visivel_md": "2b7f803784c6f93edef5e76afa0a67a25935715620da7b6d4d46630803434d4a",
+      "primeira_diferenca": {
+        "posicao": 15133,
+        "fonte": "antil inédito, Zaquim. 201924 - DOM QUIXOTE BEM LEGAL PRODUCOES ARTISTICAS LTDA &#x2013; ME CNPJ/CPF: 10.455.663/0001-54 Processo: 01400001891202023 Cidade: Rio de Janeiro - RJ; Valor Aprovado: R$ 997.089,27 Prazo de Captação: 16/04/2020 à ",
+        "md": "antil inédito, Zaquim. 201924 - DOM QUIXOTE BEM LEGAL PRODUCOES ARTISTICAS LTDA – ME CNPJ/CPF: 10.455.663/0001-54 Processo: 01400001891202023 Cidade: Rio de Janeiro - RJ; Valor Aprovado: R$ 997.089,27 Prazo de Captação: 16/04/2020 à 31/12/2"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-295-de-22-de-abril-de-2020-253542623.md",
+      "sha256_md": "cf57e21714d71ed2071a8e61ad92dfc87b7b243ab6c2df317987aefc800ef9b9",
+      "sha256_fonte": "9c91bf6ce795b8192179658f9a3ce9d597d59701f798c2de1a92c9b24ac1e17f",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 6 HUMANIDADES (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 6 HUMANIDADES (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "88fc8f8a987cd3f8d532be5e45baac800286fffc9eb13eafefb0604fe56ac101",
+      "sha256_visivel_md": "d7525c3677f06e747b79a874b84064c76f224afb349cd54af997b995310ae386",
+      "primeira_diferenca": {
+        "posicao": 22189,
+        "fonte": "em escola pública. 202008 - Rios do Rio ANDREA JAKOBSSON ESTUDIO EDITORIAL LTDA &#x2013; EPP CNPJ/CPF: 04.295.246/0001-99 Processo: 01400001975202067 Cidade: Rio de Janeiro - RJ; Valor Aprovado: R$ 423.182,76 Prazo de Captação: 23/04/2020 à",
+        "md": "em escola pública. 202008 - Rios do Rio ANDREA JAKOBSSON ESTUDIO EDITORIAL LTDA – EPP CNPJ/CPF: 04.295.246/0001-99 Processo: 01400001975202067 Cidade: Rio de Janeiro - RJ; Valor Aprovado: R$ 423.182,76 Prazo de Captação: 23/04/2020 à 31/12/"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-296-de-22-de-abril-de-2020-253542769.md",
+      "sha256_md": "1ef2c57cb07844f42726c57f397e5d789e6532f091380758a3fa183f3c8f1bc2",
+      "sha256_fonte": "20e8a7fbb28e315ff4728b965f372ebcc903c28cec9b9b50c6834e2563bd5d3e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "b1bca2cf19e920a8b7d7dd5a69738ddf3747ac4e998db505e4dbbc3fc1de8a6e",
+      "sha256_visivel_md": "bad667ac9bcbaf6c90159c0654aef711967b68c4093329969a46dc7ca7d09938",
+      "primeira_diferenca": {
+        "posicao": 3659,
+        "fonte": " Poá - SP; Prazo de Captação: 01/01/2020 à 31/12/2020 194073 - TEMPERO NO FORTE &#8208; XV FESTIVAL DE CULTURA E GASTRONOMIA DE PRAIA DO FORTE, SALVADOR e LISBOA 2D Comunicação Promoções e Eventos CNPJ/CPF: 33.873.860/0001-99 Cidade: Salvad",
+        "md": " Poá - SP; Prazo de Captação: 01/01/2020 à 31/12/2020 194073 - TEMPERO NO FORTE ‐ XV FESTIVAL DE CULTURA E GASTRONOMIA DE PRAIA DO FORTE, SALVADOR e LISBOA 2D Comunicação Promoções e Eventos CNPJ/CPF: 33.873.860/0001-99 Cidade: Salvador - B"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-3-de-6-de-janeiro-de-2020-236760350.md",
+      "sha256_md": "f991371ab3a7747f72243eeb1896703d918ffd4d78a72ab76df0f9ffd4c5d775",
+      "sha256_fonte": "865b809fae0265c87df6430f279eb55a70b5f91fe92cb637c9efb92f201ceb8c",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "46aaa93a3bbab38e54e51cc77a0eb179d6659310b1b06f2506f68c6d1455a9a5",
+      "sha256_visivel_md": "5443f4c46599709b9891a34ef158ff1e9c069a28088983bd50c04fd436f7adcd",
+      "primeira_diferenca": {
+        "posicao": 5282,
+        "fonte": " (Artigo 18 , § 1º ) 185322 - Camerata Ecofonia nas Igrejas C.M.A DE FIGUEIREDO &#x2013; ME CNPJ/CPF: 10.292.875/0001-68 Cidade: Rio de Janeiro - RJ; Prazo de Captação: 01/01/2020 à 31/12/2020 186278 - GAITAÇO - Oficina de Gaiteiros CHILI P",
+        "md": " (Artigo 18 , § 1º ) 185322 - Camerata Ecofonia nas Igrejas C.M.A DE FIGUEIREDO – ME CNPJ/CPF: 10.292.875/0001-68 Cidade: Rio de Janeiro - RJ; Prazo de Captação: 01/01/2020 à 31/12/2020 186278 - GAITAÇO - Oficina de Gaiteiros CHILI PRODUCOE"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-31-de-15-de-janeiro-de-2020-238312074.md",
+      "sha256_md": "ed303df64ecbc9a92692b2bc5b0e734fa24d505ac38cd5ec8eb4cfa37a967b9d",
+      "sha256_fonte": "7d6aee5ce2c107fd689bf0024b506039248a654bf1ec043600ffc13a91c27892",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 5 PATRIMÔNIO CULTURAL (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 5 PATRIMÔNIO CULTURAL (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "c132e0655516d41f4ef458949a508dc6c49664eccb57665d999d267d6bbe0584",
+      "sha256_visivel_md": "f28532d037d86e46812de2b14379d47f6ca09d0c277315aaa448f52a6c4e2e31",
+      "primeira_diferenca": {
+        "posicao": 27268,
+        "fonte": "ade. 200223 - Batukka na Cozinha BURBURINHO CULTURAL PRODUCOES ARTISTICAS LTDA. &#x2013; ME CNPJ/CPF: 08.422.837/0001-30 Processo: 01400000222202034 Cidade: Rio de Janeiro - RJ; Valor Aprovado: R$ 2.019.160,00 Prazo de Captação: 16/01/2020 ",
+        "md": "ade. 200223 - Batukka na Cozinha BURBURINHO CULTURAL PRODUCOES ARTISTICAS LTDA. – ME CNPJ/CPF: 08.422.837/0001-30 Processo: 01400000222202034 Cidade: Rio de Janeiro - RJ; Valor Aprovado: R$ 2.019.160,00 Prazo de Captação: 16/01/2020 à 14/12"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-344-de-13-de-maio-de-2020-256734302.md",
+      "sha256_md": "701545270a7342ac1326553789c89c0fe253258f3a7b30c013e7b9ee7d156165",
+      "sha256_fonte": "ada00f5aa447ce2f8764a773bd0b309dfa714d4fd108e482f03af62882786eb2",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "64ab09af81040a49cfe142c20fd58c9b48d8fd09054fcb5dbffaa7808035fb61",
+      "sha256_visivel_md": "2f8024b5c509af30f93053ab8ba7b8e334480d7922e3878d6643e860703a826e",
+      "primeira_diferenca": {
+        "posicao": 1294,
+        "fonte": " 1º ) 182517 - Festival Semear (título provisório) FGM PRODUCOES CULTURAIS LTDA &#x2013; ME CNPJ/CPF: 21.116.382/0001-93 Cidade: São Paulo - SP; Prazo de Captação: 01/04/2020 à 30/11/2020 193381 - NATAL IMPERIAL 2019 COMPANHIA DE PROMOCOES ",
+        "md": " 1º ) 182517 - Festival Semear (título provisório) FGM PRODUCOES CULTURAIS LTDA – ME CNPJ/CPF: 21.116.382/0001-93 Cidade: São Paulo - SP; Prazo de Captação: 01/04/2020 à 30/11/2020 193381 - NATAL IMPERIAL 2019 COMPANHIA DE PROMOCOES E EVENT"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-361-de-20-de-maio-de-2020-257817737.md",
+      "sha256_md": "55234722003ba9b0427c6ba3abc6034e7faec1d85b99e12c86721d88a90ee740",
+      "sha256_fonte": "d1a457339c55b491e192c48664eea221f246c6ff000d05d08a9a4c40a525d7d3",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "651963eb19ce7affbc6733bca4eaac79e19a00a642928d08b7a4bad12f41fa56",
+      "sha256_visivel_md": "efd1651d5a0712e36aa548fb8650c16d4f9fd8c8ee2d99c7df57c342eeb7428a",
+      "primeira_diferenca": {
+        "posicao": 23294,
+        "fonte": "utar pelo circo. 202297 - BEM NO MEIO BOROGODÓ EMPREENDIMENTOS CULTURAIS EIRELI &#x2013; ME CNPJ/CPF: 00.447.697/0001-43 Processo: 01400002264202018 Cidade: Rio de Janeiro - RJ; Valor Aprovado: R$ 999.494,10 Prazo de Captação: 21/05/2020 à ",
+        "md": "utar pelo circo. 202297 - BEM NO MEIO BOROGODÓ EMPREENDIMENTOS CULTURAIS EIRELI – ME CNPJ/CPF: 00.447.697/0001-43 Processo: 01400002264202018 Cidade: Rio de Janeiro - RJ; Valor Aprovado: R$ 999.494,10 Prazo de Captação: 21/05/2020 à 31/12/2"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-392-de-1-de-junho-de-2020-259639200.md",
+      "sha256_md": "7c41320ef93d27d2c4a2449b8d7babea9d8e73627b1982afe11af1ab47339343",
+      "sha256_fonte": "eab65ac063e42ed6fbf33e29f36b8ee7b740132b589b36a2453e7d33ab5a2579",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "2cb7fc49613f5103466dd6df44d8196e07c37f971f5afaff0de24d042690705d",
+      "sha256_visivel_md": "5f54d147d6087d107535d27c98077a7eaa3f16a15e15d40855452660007dd2bc",
+      "primeira_diferenca": {
+        "posicao": 8505,
+        "fonte": "ão da Ascarte e sua Proposta de Formação de Multiplicadores em Educação Musical &#x2013; Plano Anual, Ano Novo Associação Pró-Cultura e Arte Ivoti - ASCARTE CNPJ/CPF: 05.919.347/0001-56 Cidade: Ivoti - RS; Prazo de Captação: 01/06/2020 à 31",
+        "md": "ão da Ascarte e sua Proposta de Formação de Multiplicadores em Educação Musical – Plano Anual, Ano Novo Associação Pró-Cultura e Arte Ivoti - ASCARTE CNPJ/CPF: 05.919.347/0001-56 Cidade: Ivoti - RS; Prazo de Captação: 01/06/2020 à 31/12/202"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-40-de-17-de-janeiro-de-2020-238767881.md",
+      "sha256_md": "20e09acf2c15d50fe705dae7417fdf6dbc4666f8b1cc613fe5e247a4549b3ab3",
+      "sha256_fonte": "de5eef4e389bb5a1b43e05dde78a6796e809bb73b19e8486d91e6a3fd5b4ab6e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "1f26d3c7632e7180df5f624c59ee87cc6b286d5dcd0c72ec20c91bd45530d0b4",
+      "sha256_visivel_md": "37a95534416103d37502bf9b4bffb0c45fe2ea318f3e7ebe8d6881d9e69c5e33",
+      "primeira_diferenca": {
+        "posicao": 830,
+        "fonte": "IDADES (Artigo 18 , § 1º ) 182817 - BiciBiblioteca FGM PRODUCOES CULTURAIS LTDA &#x2013; ME CNPJ/CPF: 21.116.382/0001-93 Cidade: São Paulo - SP; Valor Complementado: R$ 274.051,35 Valor total atual: R$ 974.354,15 182886 - Viagem de Goethe a",
+        "md": "IDADES (Artigo 18 , § 1º ) 182817 - BiciBiblioteca FGM PRODUCOES CULTURAIS LTDA – ME CNPJ/CPF: 21.116.382/0001-93 Cidade: São Paulo - SP; Valor Complementado: R$ 274.051,35 Valor total atual: R$ 974.354,15 182886 - Viagem de Goethe ao Brasi"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-409-de-9-de-junho-de-2020-261040445.md",
+      "sha256_md": "7aa91befde6264a5ca125b4fa9ae1bd5fa50e006daa688df95896e0c80554618",
+      "sha256_fonte": "b980fbd2a2f9017f13555ca499af37e04b8ca56c02a68b74315b88a57c7406fa",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 5 PATRIMÔNIO CULTURAL (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 5 PATRIMÔNIO CULTURAL (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "29d24dfd2c16c6817f5221161f1c72f1814aaa6ec888723f468e39570f767c68",
+      "sha256_visivel_md": "4a6c43e2b711b48f8d29d871c00be71b3556062a8c53f41926f95031d38b72c0",
+      "primeira_diferenca": {
+        "posicao": 20220,
+        "fonte": "ocial. 202538 - Caravana INCLUIR BURBURINHO CULTURAL PRODUCOES ARTISTICAS LTDA. &#x2013; ME CNPJ/CPF: 08.422.837/0001-30 Processo: 01400002505202011 Cidade: Rio de Janeiro - RJ; Valor Aprovado: R$ 997.845,75 Prazo de Captação: 13/06/2020 à ",
+        "md": "ocial. 202538 - Caravana INCLUIR BURBURINHO CULTURAL PRODUCOES ARTISTICAS LTDA. – ME CNPJ/CPF: 08.422.837/0001-30 Processo: 01400002505202011 Cidade: Rio de Janeiro - RJ; Valor Aprovado: R$ 997.845,75 Prazo de Captação: 13/06/2020 à 31/12/2"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-42-de-17-de-janeiro-de-2020-238767810.md",
+      "sha256_md": "9c4c0c78b9f687fba2ca0a3145c49ae95e43cd0191c65a78c81508560726d353",
+      "sha256_fonte": "02e0f682d11df981c87b91b9e10558415d2ab80d39d2026a66029892160d2125",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "3201fd4952f3451b588a1570b8551bae9c0e8080210ae4c13b2728ac32c256d1",
+      "sha256_visivel_md": "04fb6284e6cb522f429c6a30b2efd63c3dc89d3ef539be521e3a3a6d745199b0",
+      "primeira_diferenca": {
+        "posicao": 2189,
+        "fonte": " Reduzido: R$ 1.572,81 Valor total atual: R$ 456.899,56 193291 - Concertos Astra&#8208;Finamax &#8208; 23ª Temporada &#8208; 2020 ATIQUE & ATIQUE PRODUCOES CULTURAIS LTDA - ME CNPJ/CPF: 13.379.766/0001-70 Cidade: Jundiaí - SP; Valor Reduzid",
+        "md": " Reduzido: R$ 1.572,81 Valor total atual: R$ 456.899,56 193291 - Concertos Astra‐Finamax ‐ 23ª Temporada ‐ 2020 ATIQUE & ATIQUE PRODUCOES CULTURAIS LTDA - ME CNPJ/CPF: 13.379.766/0001-70 Cidade: Jundiaí - SP; Valor Reduzido: R$ 14.421,00 Va"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-48-de-20-de-janeiro-de-2020-238973374.md",
+      "sha256_md": "9e0645d12bd6750e3a4eb52c4a228b74365088a1771bca6ae7a26523696c1a1c",
+      "sha256_fonte": "913e98b94bed2c9d3ae17c8d35d174a21a7f236c713ad8960853242787965583",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "962f4dd1ccfa24afafe2572fb9681452a6ff717bd44f5d142f2f54bc260ea9d3",
+      "sha256_visivel_md": "860e1adb5936de52138d913342b84063cb0b7b8e36e7ab437c458340ee94ff1b",
+      "primeira_diferenca": {
+        "posicao": 11685,
+        "fonte": "ENTAL- 5a EDIÇÃO - O CONTRABAIXO SCHOFFEN & MAURUTTO PRODUCOES ARTISTICAS LTDA. &#x2013; ME CNPJ/CPF: 10.317.692/0001-50 Processo: 01400000312202025 Cidade: Maringá - PR; Valor Aprovado: R$ 194.240,75 Prazo de Captação: 21/01/2020 à 31/12/2",
+        "md": "ENTAL- 5a EDIÇÃO - O CONTRABAIXO SCHOFFEN & MAURUTTO PRODUCOES ARTISTICAS LTDA. – ME CNPJ/CPF: 10.317.692/0001-50 Processo: 01400000312202025 Cidade: Maringá - PR; Valor Aprovado: R$ 194.240,75 Prazo de Captação: 21/01/2020 à 31/12/2020 Res"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-50-de-21-de-janeiro-de-2020-239182455.md",
+      "sha256_md": "5afe494e81f269745a869382393220eb43a308046333b9f1f55127e3aea81215",
+      "sha256_fonte": "14285297bae6a36c92bc8c6144ba9ff5fcdaab64a12b2bf4b6322796aa477af1",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "978b6f119e7f2a10a1dfde426a005e866d20a8767e8444d57a6a30c78c54a719",
+      "sha256_visivel_md": "7a795b5abcbcda45aa37ca3e8309ed0c6a126b3dab78ba0d38e880686a92c4e9",
+      "primeira_diferenca": {
+        "posicao": 2232,
+        "fonte": "scavel - PR; Prazo de Captação: 01/01/2020 à 31/12/2020 193291 - Concertos Astra&#8208;Finamax &#8208; 23ª Temporada &#8208; 2020 ATIQUE & ATIQUE PRODUCOES CULTURAIS LTDA - ME CNPJ/CPF: 13.379.766/0001-70 Cidade: Jundiaí - SP; Prazo de Capt",
+        "md": "scavel - PR; Prazo de Captação: 01/01/2020 à 31/12/2020 193291 - Concertos Astra‐Finamax ‐ 23ª Temporada ‐ 2020 ATIQUE & ATIQUE PRODUCOES CULTURAIS LTDA - ME CNPJ/CPF: 13.379.766/0001-70 Cidade: Jundiaí - SP; Prazo de Captação: 01/01/2020 à"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-53-de-22-de-janeiro-de-2020-239404195.md",
+      "sha256_md": "4ee9ffeaa8305d66a659692d14fde2951da9d62a73cf66aaeb0727c72fa996ca",
+      "sha256_fonte": "4aa49659e1b01a69743c0c524af2f96de3fb346b8cfe28a806b9b6936121b844",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "90d876378d532971783327d2b0159e669f015ad0ccb89d19d118de319c8b18c4",
+      "sha256_visivel_md": "5da55a4d244c0fc3232e8b2d0795c9c10dbda57e2bba7dfe63fd52690652e5e9",
+      "primeira_diferenca": {
+        "posicao": 32656,
+        "fonte": " Música Lira de Ouro. 200430 - Projeto EcoMúsica ECHO PROMOCOES ARTISTICAS LTDA &#x2013; ME CNPJ/CPF: 59.393.421/0001-72 Processo: 01400000397202041 Cidade: São Paulo - SP; Valor Aprovado: R$ 838.845,31 Prazo de Captação: 23/01/2020 à 31/12",
+        "md": " Música Lira de Ouro. 200430 - Projeto EcoMúsica ECHO PROMOCOES ARTISTICAS LTDA – ME CNPJ/CPF: 59.393.421/0001-72 Processo: 01400000397202041 Cidade: São Paulo - SP; Valor Aprovado: R$ 838.845,31 Prazo de Captação: 23/01/2020 à 31/12/2020 R"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-58-de-23-de-janeiro-de-2020-239634431.md",
+      "sha256_md": "b9c2e001ddff8ae8168e8ab01faa2a53a2548e03731d4ba705b3cc64dc58eb12",
+      "sha256_fonte": "7207547afd22c57f2d83c6240bf5412b9e98a204d7198117155cd4ec76ce75d1",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "10dd01d431ec824c7a09fc8059d024d6d0bc6f6a80776b4edcb78cd3fc520a8f",
+      "sha256_visivel_md": "6768ea88537e1182c750f6f4318345c074bae5fa613f152895fd11fac43abc53",
+      "primeira_diferenca": {
+        "posicao": 21349,
+        "fonte": "ENTAL- 5a EDIÇÃO - O CONTRABAIXO SCHOFFEN & MAURUTTO PRODUCOES ARTISTICAS LTDA. &#x2013; ME CNPJ/CPF: 10.317.692/0001-50 Processo: 01400000312202025 Cidade: Maringá - PR; Valor Aprovado: R$ 194.240,75 Prazo de Captação: 21/01/2020 à 31/12/2",
+        "md": "ENTAL- 5a EDIÇÃO - O CONTRABAIXO SCHOFFEN & MAURUTTO PRODUCOES ARTISTICAS LTDA. – ME CNPJ/CPF: 10.317.692/0001-50 Processo: 01400000312202025 Cidade: Maringá - PR; Valor Aprovado: R$ 194.240,75 Prazo de Captação: 21/01/2020 à 31/12/2020 Res"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-63-de-24-de-janeiro-de-2020-239862069.md",
+      "sha256_md": "08a10e67dc926aec49a2b305737cd904d0d38017c4b5c27e084ae6b8b4834a31",
+      "sha256_fonte": "51f84f563b346e302b103c05e51c1030f600c22d142569f951135ae32294c0d5",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "b1008ccd4594fa1249f03b80b28558f55c71263ac8619220f74cf370b44006ec",
+      "sha256_visivel_md": "e411615763b94eb29bb9b53e0fd61c357b898643e32e27a9baef2994a2eb294a",
+      "primeira_diferenca": {
+        "posicao": 81444,
+        "fonte": " ricas culturas. ANEXO II ÁREA: 3 MÚSICA (Artigo 26) 200545 - MARTE Festival - 3&#730; edição NEUTRA PRODUTORA DE SOM LTDA - ME CNPJ/CPF: 01.824.647/0002-81 Processo: 01400000512202088 Cidade: Belo Horizonte - MG; Valor Aprovado: R$ 998.752",
+        "md": " ricas culturas. ANEXO II ÁREA: 3 MÚSICA (Artigo 26) 200545 - MARTE Festival - 3˚ edição NEUTRA PRODUTORA DE SOM LTDA - ME CNPJ/CPF: 01.824.647/0002-81 Processo: 01400000512202088 Cidade: Belo Horizonte - MG; Valor Aprovado: R$ 998.752,17 P"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-66-de-27-de-janeiro-de-2020-240087938.md",
+      "sha256_md": "f7b8c69a118dfda702ec645f62422a9f7a3e9d0fb1978c47f52508a1cb04f0dd",
+      "sha256_fonte": "04a60fd2dac56dacfdec576047149e02c8b0cda5ffa6c64dc41778039add1de0",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "d6aacdedfc1941a30151649d36ede09156925ec55650aee7b16fa3f8df359a2a",
+      "sha256_visivel_md": "12ba5ad8416711d019b640047a4f69ba0214ddf9134669f741f359e094ba3ded",
+      "primeira_diferenca": {
+        "posicao": 20540,
+        "fonte": "1 - COMPANHIA BRASILEIRA DE TEATRO - 20 ANOS AUTONAUTA PRODUÇÕES CULTURAIS LTDA &#x2013; ME CNPJ/CPF: 05.765.198/0001-18 Processo: 01400000758202050 Cidade: Curitiba - PR; Valor Aprovado: R$ 999.958,47 Prazo de Captação: 28/01/2020 à 31/12/",
+        "md": "1 - COMPANHIA BRASILEIRA DE TEATRO - 20 ANOS AUTONAUTA PRODUÇÕES CULTURAIS LTDA – ME CNPJ/CPF: 05.765.198/0001-18 Processo: 01400000758202050 Cidade: Curitiba - PR; Valor Aprovado: R$ 999.958,47 Prazo de Captação: 28/01/2020 à 31/12/2020 Re"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-75-de-29-de-janeiro-de-2020-240569377.md",
+      "sha256_md": "178ffbd5814a6afb7e25c4cde386b21901e7469c6f4636df614cf47397dce2b5",
+      "sha256_fonte": "a70be11c5c41df2900bfbe957b9c9bc4f7a6154805d05e35005aba484e3aa20e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 4 ARTES VISUAIS (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 4 ARTES VISUAIS (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "837df4fe288ad7b10a5c9e3390cbcd22ebde4118a51124385178c13e4dcb5048",
+      "sha256_visivel_md": "4d5a3080b3be63b7c8bc1d8e60deefcb0706270d7ce6ca26fcdc16787a824f3e",
+      "primeira_diferenca": {
+        "posicao": 25303,
+        "fonte": "00880 - Paixão de Cristo Segundo Antonina CONVERGENCIA CONTEUDO E PRODUCAO LTDA &#x2013; ME CNPJ/CPF: 04.647.273/0001-83 Processo: 01400000847202004 Cidade: Antonina - PR; Valor Aprovado: R$ 104.924,04 Prazo de Captação: 30/01/2020 à 10/06/",
+        "md": "00880 - Paixão de Cristo Segundo Antonina CONVERGENCIA CONTEUDO E PRODUCAO LTDA – ME CNPJ/CPF: 04.647.273/0001-83 Processo: 01400000847202004 Cidade: Antonina - PR; Valor Aprovado: R$ 104.924,04 Prazo de Captação: 30/01/2020 à 10/06/2020 Re"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2020/portaria-n-771-de-31-de-dezembro-de-2019-236265740.md",
+      "sha256_md": "c6380bc4857d9544ee3bcc4e46d55864e85e156a698512f5a8a76261df0d3e44",
+      "sha256_fonte": "c32b597dd0224c246f041a5aafa43b0baf76329820a63254314009b21fb8363d",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "fonte": "ANEXO I ÁREA: 1 ARTES CÊNICAS (Artigo 18 , § 1º )",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — ÁREA: 3 MÚSICA (Artigo 26)",
+          "fonte": "ANEXO II ÁREA: 3 MÚSICA (Artigo 26)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "8626d688040e9795122708921228020b42c7aea9616db726ab95af611c4a67ad",
+      "sha256_visivel_md": "3fb58597f3d27305e1100217c666bc18910571bf1d9d9231b18a3c6900876c8f",
+      "primeira_diferenca": {
+        "posicao": 4732,
+        "fonte": "1/12/2019 à 31/12/2019 190764 - Órfão de Pai AUTONAUTA PRODUÇÕES CULTURAIS LTDA &#x2013; ME CNPJ/CPF: 05.765.198/0001-18 Cidade: Curitiba - PR; Prazo de Captação: 31/12/2019 à 31/12/2019 190852 - CARAVANA RODA BOYÁSHA BOYASHA TRUPE DE TEATR",
+        "md": "1/12/2019 à 31/12/2019 190764 - Órfão de Pai AUTONAUTA PRODUÇÕES CULTURAIS LTDA – ME CNPJ/CPF: 05.765.198/0001-18 Cidade: Curitiba - PR; Prazo de Captação: 31/12/2019 à 31/12/2019 190852 - CARAVANA RODA BOYÁSHA BOYASHA TRUPE DE TEATRO LTDA "
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2021/portaria-n-121-de-19-de-outubro-de-2021-353307083.md",
+      "sha256_md": "2269ee68355f8be7112cb8cd89c297c9b42f565fc484a326694bef56c2799d1e",
+      "sha256_fonte": "9d8ed9db366ce741f953ede17d0fa8f0a497021e7f07e39db39fc1ea286d44db",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — CONFIGURAÇÕES MÍNIMAS PARA AQUISIÇÃO DE VEÍCULOS",
+          "fonte": "ANEXO I CONFIGURAÇÕES MÍNIMAS PARA AQUISIÇÃO DE VEÍCULOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — IDENTIDADE VISUAL DOS VEÍCULOS QUE INTEGRAM O MOBSUAS",
+          "fonte": "ANEXO II IDENTIDADE VISUAL DOS VEÍCULOS QUE INTEGRAM O MOBSUAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              28,
+              30
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              36,
+              38
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              48,
+              50
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ")",
+            "linhas": [
+              64,
+              66
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 5,
+            "markup": ")",
+            "linhas": [
+              86,
+              88
+            ]
+          },
+          "html_start": "5",
+          "inicio_efetivo": 5,
+          "contadores": [
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 6,
+            "markup": ")",
+            "linhas": [
+              94,
+              96
+            ]
+          },
+          "html_start": "6",
+          "inicio_efetivo": 6,
+          "contadores": [
+            6
+          ]
+        },
+        {
+          "ast": {
+            "start": 7,
+            "markup": ")",
+            "linhas": [
+              110,
+              112
+            ]
+          },
+          "html_start": "7",
+          "inicio_efetivo": 7,
+          "contadores": [
+            7
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "c9cc800b11d192dfd5e7f10b2ae15a19152348815d2a8552ff5b011063772090",
+      "sha256_visivel_md": "d36ca2b55419cb91ee974479fc803e95d3cddf3585a346e8a2716939f82e2fe4"
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2021/portaria-n-53-de-19-de-abril-de-2021-315795322.md",
+      "sha256_md": "ae739049d111a4edb06bb1074048cc4da26596dbdebb83ad20228beec4c54a7e",
+      "sha256_fonte": "d6209ec35c24cd0ffcc6e5c84312b4d41950bdc226da17452ddd42a5765a3a53",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              6,
+              8
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "a7552c298f4bbe6b69716e19f4cb2fa5d548d5877d098cbdefcaf178a92d2309",
+      "sha256_visivel_md": "a7552c298f4bbe6b69716e19f4cb2fa5d548d5877d098cbdefcaf178a92d2309"
+    },
+    {
+      "path": "reguladores/ministerio-da-cidadania/portarias/2022/portaria-n-115-de-10-de-novembro-de-2022-443383335.md",
+      "sha256_md": "156be00c0a13c0cb1e39e1f476bdb7d9b344686d01bf299e8ad530c7078e4e21",
+      "sha256_fonte": "bffbac6fd0c729985e1e9f684baf717a4e05896f2208ec29cb11c23d7538b851",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              6,
+              408
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45,
+            46,
+            47,
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54,
+            55,
+            56,
+            57,
+            58,
+            59,
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66,
+            67,
+            68,
+            69,
+            70,
+            71,
+            72,
+            73,
+            74,
+            75,
+            76,
+            77,
+            78,
+            79,
+            80,
+            81,
+            82,
+            83,
+            84,
+            85,
+            86,
+            87,
+            88,
+            89,
+            90,
+            91,
+            92,
+            93,
+            94,
+            95,
+            96,
+            97,
+            98,
+            99,
+            100,
+            101,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112,
+            113,
+            114,
+            115,
+            116,
+            117,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124,
+            125,
+            126,
+            127,
+            128,
+            129,
+            130,
+            131,
+            132,
+            133,
+            134,
+            135,
+            136,
+            137,
+            138,
+            139,
+            140,
+            141,
+            142,
+            143,
+            144,
+            145,
+            146,
+            147,
+            148,
+            149,
+            150,
+            151,
+            152,
+            153,
+            154,
+            155,
+            156,
+            157,
+            158,
+            159,
+            160,
+            161,
+            162,
+            163,
+            164,
+            165,
+            166,
+            167,
+            168,
+            169,
+            170,
+            171,
+            172,
+            173,
+            174,
+            175,
+            176,
+            177,
+            178,
+            179,
+            180,
+            181,
+            182,
+            183,
+            184,
+            185,
+            186,
+            187,
+            188,
+            189,
+            190,
+            191,
+            192,
+            193,
+            194,
+            195,
+            196,
+            197,
+            198,
+            199,
+            200,
+            201
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              410,
+              484
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "f64d706df7bb6b0985acf5beb533924f32c7a45ac157674ce09facb4da2b1b09",
+      "sha256_visivel_md": "f64d706df7bb6b0985acf5beb533924f32c7a45ac157674ce09facb4da2b1b09"
+    },
+    {
+      "path": "reguladores/ministerio-da-economia/portarias/2020/portaria-n-11.997-de-12-de-maio-de-2020-256528089.md",
+      "sha256_md": "04322f5512d1d6228ca56d51b1a410864658aee51f56925c97303a92907633f1",
+      "sha256_fonte": "6af8777b39085ed68168257221175ff4f8ef57016a210ceecec6d2a3793c9898",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "9b951e59b6c687bce1601a10ebd23f9271cf7bae6ea8a37651e1b2b341b4060f",
+      "sha256_visivel_md": "fd5cc3e774f58c283545647ff47baf8943700a2427b13958ee8fcd79fbfeaf1e",
+      "primeira_diferenca": {
+        "posicao": 8867,
+        "fonte": " 8 250 20.000 TOTAL - FISCAL 220.000 TOTAL - SEGURIDADE 0 TOTAL - GERAL 220.000 > ÓRGÃO: 26000 - Ministério da Educação UNIDADE: 26270 - Fundação Universidade do Amazonas ANEXO I Crédito Suplementar PROGRAMA DE TRABALHO ( SUPLEMENTAÇÃO ) Re",
+        "md": " 8 250 20.000 TOTAL - FISCAL 220.000 TOTAL - SEGURIDADE 0 TOTAL - GERAL 220.000 ÓRGÃO: 26000 - Ministério da Educação UNIDADE: 26270 - Fundação Universidade do Amazonas ANEXO I Crédito Suplementar PROGRAMA DE TRABALHO ( SUPLEMENTAÇÃO ) Recu"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-economia/portarias/2020/portaria-n-114-de-5-de-maio-de-2020-255373371.md",
+      "sha256_md": "7f40bf8d29836baf282d9469a022cd437cbfe107c17a7defb9514f2fbca64b9a",
+      "sha256_fonte": "14d717fa777f9f40c58fc5a062a66aa029b8a203bca9b8f9407830d77a8c9082",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — APURAÇÃO DAS Metas globais DO 4º ciclo",
+          "fonte": "ANEXO I APURAÇÃO DAS Metas globais DO 4º ciclo",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — APURAÇÃO das METAS INTERMEDIÁRIAS DO 4º ciclo",
+          "fonte": "ANEXO II APURAÇÃO das METAS INTERMEDIÁRIAS DO 4º ciclo",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO III — APURAÇÃO dO INDICADOR FINAL DE DESEMPENHO INSTITUCIONAL (IFDI) DO 4º ciclo",
+          "fonte": "ANEXO III APURAÇÃO dO INDICADOR FINAL DE DESEMPENHO INSTITUCIONAL (IFDI) DO 4º ciclo",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              28,
+              32
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "6563a8d70f38e5e4f898b4911cb9ec9aa11fa04fd9b2f8445f23527bd3934975",
+      "sha256_visivel_md": "c8ac2a2285b8541d23850d705813a30de87abb7c302667e798ca757bde50d2ca"
+    },
+    {
+      "path": "reguladores/ministerio-da-economia/portarias/2020/portaria-n-13.469-de-2-de-junho-de-2020-262147163.md",
+      "sha256_md": "a16dacf0aa7414ddce380df787b84fc1fe3ddb3ba191e1448ea3f2ab3524f534",
+      "sha256_fonte": "995db6b72f255f456e84325016adcb76484bbabb911bafc4abfabd39f27e62c0",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — ATA DA REUNIÃO Nº 02/2020",
+          "fonte": "ANEXO I ATA DA REUNIÃO Nº 02/2020",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              16,
+              18
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              34,
+              36
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              38,
+              40
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ")",
+            "linhas": [
+              44,
+              46
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              62,
+              64
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              66,
+              68
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              72,
+              74
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ")",
+            "linhas": [
+              76,
+              78
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              90,
+              92
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "3874db306b1ebca928b2778358153e061a534ff4cb49dd33c3ba3cdcc027cf81",
+      "sha256_visivel_md": "a4e797cbbe95a3f649893fe0d9dcf79c292c56a83573192652aa4ba510456b1e"
+    },
+    {
+      "path": "reguladores/ministerio-da-economia/portarias/2020/portaria-n-29-de-15-de-maio-de-2020-257201560.md",
+      "sha256_md": "e08691c2b045ba80bd141afa00deb6261028339c294c4d775f2567df46aeeee8",
+      "sha256_fonte": "3c350d4838721d9a97b8238bc0f51c79865f015ff662af57c4f46adf5e159847",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              24,
+              26
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "73b2313c2581093471064963db7b88c22fe475f9c10e7cb4e373f20e3200c078",
+      "sha256_visivel_md": "73b2313c2581093471064963db7b88c22fe475f9c10e7cb4e373f20e3200c078"
+    },
+    {
+      "path": "reguladores/ministerio-da-economia/portarias/2020/portaria-n-307-de-16-de-abril-de-2020-253341306.md",
+      "sha256_md": "c18365a7874b0bb87461bbf00b321c6f40cc4e81ed19016c142ebc44906e6e5a",
+      "sha256_fonte": "43aad7897f54b955726d1c01bc55bac5dce9c01f021e64c21ce6a81bafe65434",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "625df30ff6623a56f64e9eeb2c5fdae15fd62d3521894ba9ec57ca30abd6c736",
+      "sha256_visivel_md": "4e3c1e88fd60f9a9aa52e87997e9c9fa82ebd47c0b3c8d3a33abdeb8e5fcb7f2",
+      "primeira_diferenca": {
+        "posicao": 1719,
+        "fonte": "a necessidade de regularização referente ao investimento em atividades de P&amp;amp;D, resolve: Art. 1º Suspender, por 90 dias, com base no § 4º do art. 27 da Resolução SUFRAMA nº 71, de 6 de maio de 2016, os incentivos fiscais concedidos à",
+        "md": "a necessidade de regularização referente ao investimento em atividades de P&amp;D, resolve: Art. 1º Suspender, por 90 dias, com base no § 4º do art. 27 da Resolução SUFRAMA nº 71, de 6 de maio de 2016, os incentivos fiscais concedidos às li"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-economia/portarias/2020/portaria-n-308-de-17-de-abril-de-2020-254000346.md",
+      "sha256_md": "4cd2fe170ee0d577d6990d4e25eac38d81365d515bd643d3a1ca884557c29f12",
+      "sha256_fonte": "3d733fb47d4def7d5849c918f6222886c71be0de2ae815d5bc60644a6a242876",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "5a753abbdd285c96ed97f64f15acced5039732b813e4726a90cf765dc6086301",
+      "sha256_visivel_md": "0502b08e5b32a1d243d1a393da950cee126d123851be41249e94de296f635081",
+      "primeira_diferenca": {
+        "posicao": 1198,
+        "fonte": "ciasse sobre a regularização referente aos investimentos em atividades de P&amp;amp;D, resolve: Art. 1º Suspender, por 90 dias, com base no § 2º do art. 33 do Decreto n° 6.008, de 2006, disciplinado pelo § 4º do art. 27 da Resolução SUFRAMA",
+        "md": "ciasse sobre a regularização referente aos investimentos em atividades de P&amp;D, resolve: Art. 1º Suspender, por 90 dias, com base no § 2º do art. 33 do Decreto n° 6.008, de 2006, disciplinado pelo § 4º do art. 27 da Resolução SUFRAMA nº "
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-economia/portarias/2020/portaria-n-319-de-22-de-abril-de-2020-253754337.md",
+      "sha256_md": "db749244c45051464a386810c74cc55c63e6b79c4531b6d1d76dcaf17edc3c9e",
+      "sha256_fonte": "1b45ff2e04d849436dbb4f592118725bd802fe869834c4edacf2eede9c85115e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "9a2940a136aa3e1383adde72be7bbf819232f5e361750db5f3caf5b45a645c91",
+      "sha256_visivel_md": "0ee0dc9c38a4d0d66aeb50ad3c78b3687620709c8dd5a78376eddbd20ccf6ced",
+      "primeira_diferenca": {
+        "posicao": 1497,
+        "fonte": "ciasse sobre a regularização referente aos investimentos em atividades de P&amp;amp;D;, resolve: Art. 1º Suspender, por 90 dias, com base no § 2º do art. 33 do Decreto n° 6.008, de 2006, disciplinado pelo § 4º do art. 27 da Resolução SUFRAM",
+        "md": "ciasse sobre a regularização referente aos investimentos em atividades de P&amp;D;, resolve: Art. 1º Suspender, por 90 dias, com base no § 2º do art. 33 do Decreto n° 6.008, de 2006, disciplinado pelo § 4º do art. 27 da Resolução SUFRAMA nº"
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-economia/portarias/2020/portaria-n-45-de-24-de-julho-de-2020-268684402.md",
+      "sha256_md": "1e4e01a8b973a55186c9ac763c20a383959b3132d41bfa78123d48a59cd6fbe3",
+      "sha256_fonte": "d38d1afa01dae0e2417bb6f3294e18deb2d3b2e7535d7e60b2f1d74f0be8545e",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              24,
+              32
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "8309322148c8f3c4587a78131c596f84f9cec65dcc409b9b688969d00e4708d8",
+      "sha256_visivel_md": "8309322148c8f3c4587a78131c596f84f9cec65dcc409b9b688969d00e4708d8"
+    },
+    {
+      "path": "reguladores/ministerio-da-economia/portarias/2021/portaria-n-421-de-1-de-junho-de-2021-324138764.md",
+      "sha256_md": "2a61678789cd107999bf94d87b4f30ab3fa65b6810d551ad417e97612799e615",
+      "sha256_fonte": "f31c3419538991e089b1098e0a09139797d8b2ef98f22de8d8f904b3905f2043",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "3a855e9c538f6bb1cc3c70bc2afb0ae58c3916e306fab2ec2fa7ee2ca6ddd770",
+      "sha256_visivel_md": "32fe420994b1b955ed04912554068c1358340554a62213ccb0ce538aed04c384",
+      "primeira_diferenca": {
+        "posicao": 1208,
+        "fonte": "ciasse sobre a regularização referente aos investimentos em atividades de P&amp;amp;D, resolve: Art. 1º Suspender, por 90 dias, com base no § 2º do art. 33 do Decreto n° 6.008, de 2006, disciplinado pelo § 4º do art. 27 da Resolução SUFRAMA",
+        "md": "ciasse sobre a regularização referente aos investimentos em atividades de P&amp;D, resolve: Art. 1º Suspender, por 90 dias, com base no § 2º do art. 33 do Decreto n° 6.008, de 2006, disciplinado pelo § 4º do art. 27 da Resolução SUFRAMA nº "
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-economia/portarias/2021/portaria-n-425-de-2-de-junho-de-2021-324119517.md",
+      "sha256_md": "978ebbc63720d24f84a3251305ab609e0d0410f05b9a385214cf680d227232be",
+      "sha256_fonte": "6a6bd75e4064e9a19e378ee51002235a436307c2614f746ed5a7c48f7b3cb793",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e1a71f4fd45e8dc135c0dbd91d698e33ebe2b9efd9ee60ebb8e1d06fd8b10687",
+      "sha256_visivel_md": "90fd1a4b1ce92e617fb3cc196e33454d2e9cbd4b54f25a214bf8207c69ff5f27",
+      "primeira_diferenca": {
+        "posicao": 1215,
+        "fonte": "ciasse sobre a regularização referente aos investimentos em atividades de P&amp;amp;D, resolve: Art. 1º Suspender, por 90 dias, com base no § 2º do art. 33 do Decreto n° 6.008, de 2006, disciplinado pelo § 4º do art. 27 da Resolução SUFRAMA",
+        "md": "ciasse sobre a regularização referente aos investimentos em atividades de P&amp;D, resolve: Art. 1º Suspender, por 90 dias, com base no § 2º do art. 33 do Decreto n° 6.008, de 2006, disciplinado pelo § 4º do art. 27 da Resolução SUFRAMA nº "
+      }
+    },
+    {
+      "path": "reguladores/ministerio-da-economia/portarias/2021/portaria-n-543-de-9-de-abril-de-2021-313211542.md",
+      "sha256_md": "e3d338df8cff495186dfeddebce20ff36424012f9cd25dcfc3abe361ae24cf25",
+      "sha256_fonte": "490b931bd940713ff90f4def63662af0bec1de2633b653b21852488cf9c4b801",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              38,
+              42
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "b707a64c7afb2b68f39a545c2de99bb872430933ce3fdfa30f2ed3182d86d975",
+      "sha256_visivel_md": "b707a64c7afb2b68f39a545c2de99bb872430933ce3fdfa30f2ed3182d86d975"
+    },
+    {
+      "path": "reguladores/ministerio-da-economia/portarias/2021/portaria-secex-n-82-de-26-de-fevereiro-de-2021-305682485.md",
+      "sha256_md": "77da8e90e814874bbb91211d0504b98682cd99a84ef013238bc26879be4af1ab",
+      "sha256_fonte": "a30537e1c6595821812a5584463c30d35bb189852488d2e3fa124dfed0efef5e",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              20,
+              24
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "524beb636c9c15108f144750f40dce8f9e608d765d3e95e2784556ef90ffc747",
+      "sha256_visivel_md": "524beb636c9c15108f144750f40dce8f9e608d765d3e95e2784556ef90ffc747"
+    },
+    {
+      "path": "reguladores/ministerio-da-economia/portarias/2021/portaria-seprt-me-n-1.809-de-12-de-fevereiro-de-2021-304158105.md",
+      "sha256_md": "c43b6b1f8327475a189aeca5828fa18334807e0fc42d855bb420d2df4a511a85",
+      "sha256_fonte": "0bb61be1f5cb871702edba035fb1b5dc2f18ebd6d6eea50c79a8b8935134e868",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              18,
+              26
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 5,
+            "markup": ")",
+            "linhas": [
+              30,
+              110
+            ]
+          },
+          "html_start": "5",
+          "inicio_efetivo": 5,
+          "contadores": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35,
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              112,
+              168
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            23,
+            24,
+            25,
+            26,
+            27,
+            28
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              170,
+              190
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              192,
+              202
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              204,
+              220
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              222,
+              224
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              226,
+              238
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              240,
+              248
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              250,
+              266
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              268,
+              283
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "10a60b3e30b60d9b86ac632c3367710e74ea3bce8504e2e5be74cae0dcb6cead",
+      "sha256_visivel_md": "10a60b3e30b60d9b86ac632c3367710e74ea3bce8504e2e5be74cae0dcb6cead"
+    }
+  ]
+}

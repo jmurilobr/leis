@@ -1,0 +1,595 @@
+---
+titulo: "LEI ORDINÁRIA-CMC nº 1.290, de 28 de junho de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "1290"
+data: "2013-06-28"
+municipio: "Claraval"
+uf: "MG"
+codigo_ibge: "3116407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.claraval.mg.leg.br/norma/929"
+fonte_texto: "https://sapl.claraval.mg.leg.br/ta/261/text"
+sha256_fonte: "832fc0a699bfec5b441ec6be4263c433e4af43f5abe9ae5c36a76dcddbb5d964"
+sha256_texto: "1687878486d1d323a333557d4858ab4e931c1883296a7cee5b1061b0831e785f"
+capturado_em_fonte: "2026-10-27T22:52:01.716704-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA-CMC nº 1.290, de 28 de junho de 2013
+
+Juliano Diogo Pereira, Prefeito Municipal de Claraval, Estado de Minas Gerais, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprova e ele sanciona e promulga a seguinte
+
+LEI:
+
+
+### TÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a criar a Feira Livre de Claraval.
+
+
+Art. 2º.
+
+A Feira Livre de Claraval destinar-se-á à comercialização de produtos manufaturados, caseiros, artesanais, flores, plantas ornamentais, hortifrutigranjeiros e demais gêneros alimentícios, pescados frescos, mel, produtos da lavoura e da agroindústria artesanal.
+
+
+Parágrafo único
+
+A Feira Livre de Claraval tem por objetivo prioritário proporcionar melhoria de renda aos pequenos produtores rurais e artesãos de Claraval, através de difusão cultural de produtos e do modo de vida Claravalense.
+
+
+Art. 3º.
+
+A Prefeitura Municipal editará decreto determinando locais, dias e horários de funcionamento da Feira Livre.
+
+
+Art. 4º.
+
+A Feira Livre funcionará exclusivamente mediante uso de barracas em modelo padronizado e segundo normas regulamentares expedidas pela Administração Municipal, em conformidade com a orientação da fiscalização geral do Município.
+
+
+Parágrafo único
+
+As normas de funcionamento serão elaboradas sob a forma de instruções normativas editadas pela Coordenação da Feira Livre de Claraval, composta por servidores ligados às áreas de Agricultura e Desenvolvimento Econômico da Prefeitura, designada pelo Prefeito Municipal, que observarão os seguintes requisitos:
+
+
+I –
+
+padronização de uniformes, vestimentas ou acessórios especiais e restrição ao uso de trajes incompatíveis;
+
+
+II –
+
+conduta de higiene;
+
+
+III –
+
+condutas exigidas ou vedadas no interesse da harmonia e bom funcionamento da feira;
+
+
+IV –
+
+organização do espaço físico;
+
+
+V –
+
+utilização de equipamentos de som;
+
+
+VI –
+
+limitação da publicidade;
+
+
+VII –
+
+normas sobre exposição de produtos;
+
+
+VIII –
+
+horário de carga e descarga de produtos;
+
+
+IX –
+
+modelo padronizado das barracas, dele constando medida, materiais e cores a serem utilizadas em sua confecção, ficando a critério do feirante a sua aquisição de quem já possua ou de quem as confecciona.
+
+
+Art. 5º.
+
+Os interessados em comercializar seus produtos deverão inscrever-se junto à Prefeitura Municipal de Claraval, devendo esta proceder à seleção de participantes, classificando-os com base nos seguintes critérios:
+
+
+I –
+
+residir no Município de Claraval;
+
+
+II –
+
+artigos fabricados ou produzidos no Município de Claraval;
+
+
+III –
+
+idade do comerciante.
+
+
+§ 1º
+
+As inscrições serão abertas anualmente, por período estabelecido em decreto, a fim de que sejam ocupados eventuais espaços vagos decorrentes da desistência do titular ou pela imposição de penalidade, classificando-se os inscritos conforme os critérios estabelecidos por este artigo.
+
+
+§ 2º
+
+Publicada a lista de classificados, qualquer interessado poderá apresentar impugnação no prazo de três dias, que será julgada pela Comissão da Feira Livre e do qual não caberá recurso.
+
+
+§ 3º
+
+Encerrado o período de inscrição, outros interessados poderão também se inscrever, devendo, no entanto, serem classificados após o último colocado da lista de interessados.
+
+
+§ 4º
+
+A exploração da atividade poderá ser realizada com o auxilio de cônjuge ou companheiro(a), bem como por ascendentes e descendentes do respectivo titular.
+
+
+§ 5º
+
+A concessão do direito de uso do espaço na feira é pessoal, sendo vedada a transferência desse direito, de forma onerosa ou gratuita, a qualquer outra pessoa.
+
+
+§ 6º
+
+O feirante que desejar não mais comercializar seus produtos deverá comunicar tal decisão à Coordenação da Feira Livre, que selecionará outro inscrito conforme a ordem de classificação da lista de interessados.
+
+
+### TÍTULO II — DO REGIME DISCIPLINAR
+
+
+#### CAPÍTULO I — Dos deveres e das obrigações
+
+
+Art. 6º.
+
+Os feirantes deverão requerer, até o último dia útil do mês de fevereiro de cada ano, a expedição de Alvará de Licença e Funcionamento, após o recolhimento da taxa de ocupação de solo urbano.
+
+
+Art. 7º.
+
+Só será permitida a venda de produtos e subprodutos de origem animal, como leite e seus derivados, linguiças e outros após a liberação pelos órgãos competentes.
+
+
+Art. 8º.
+
+Não será permitida a venda de produtos oriundos de exploração que agrida o meio ambiente.
+
+
+Art. 9º.
+
+É expressamente proibida a venda de produtos de origem ilícita, assim entendendo aqueles provenientes de contrabando, que violem as leis referentes à proteção dos direitos autorais bem como quaisquer outros fabricados ou comercializados em desacordo com a legislação fiscal.
+
+
+#### CAPÍTULO II — Das infrações
+
+
+Art. 10.
+
+Constitui infração a ação ou omissão, voluntária ou não, por parte do feirante, que importe a inobservância dos seguintes dispositivos:
+
+
+I –
+
+vender produtos proibidos ou em desacordo com os autorizados no alvará;
+
+
+II –
+
+vender produtos proibidos por esta lei, diversos ou em desacordo com a legislação aplicável;
+
+
+III –
+
+descumprir as disposições legais e regulamentares;
+
+
+IV –
+
+desacatar servidores da Administração Pública no exercício de suas funções ou em razão delas;
+
+
+V –
+
+agir sem observar condutas compatíveis com a urbanidade e o decoro em relação a feirantes e ao público;
+
+
+VI –
+
+utilizar qualquer elemento do mobiliário urbano para colocação de mostruários ou para qualquer outra finalidade;
+
+
+VII –
+
+deixar de observar o horário de funcionamento da feira;
+
+
+VIII –
+
+utilizar como embalagem jornais e papeis usados ou qualquer outro que contenha substâncias químicas prejudiciais à saúde;
+
+
+IX –
+
+vender animais doentes ou em estado de desnutrição;
+
+
+X –
+
+prestar declaração que não corresponda à realidade ao agente fiscalizador;
+
+
+XI –
+
+exercer atividade na feira em estado de consciência alterado pelo uso de substâncias psicoativas;
+
+
+XII –
+
+deixar de zelar pela conservação e higiene da área de sua barraca ou da feira, inclusive quando do encerramento das atividades;
+
+
+XIII –
+
+faltar injustificadamente por três vezes consecutivas ou por quatro, ainda que por motivos diversos, no período de um ano;
+
+
+XIV –
+
+deixar de exibir a documentação exigida para o exercício de suas atividades, quando solicitada pela fiscalização;
+
+
+XV –
+
+utilizar qualquer tipo de aparelho ou equipamento de som, bem como executar músicas ao vivo nas áreas da feira, salvo mediante a expressa permissão da Administração Municipal;
+
+
+XVI –
+
+praticar jogos de azar no recinto da feira;
+
+
+XVII –
+
+praticar qualquer ato de comércio em desacordo com as disposições desta lei ou da legislação aplicável;
+
+
+XVIII –
+
+deixar de recolher multas impostas;
+
+
+XIX –
+
+transferir a qualquer título e por qualquer meio a exploração da atividade ou direitos de uso do solo urbano;
+
+
+XX –
+
+deixar de proceder à limpeza da área circundante ao espaço ocupado pela respectiva barraca;
+
+
+XXI –
+
+agir com fraude nos preços, medidas ou pesos.
+
+
+Art. 11.
+
+As infrações ao disposto nesta lei serão punidas com:
+
+
+I –
+
+advertência;
+
+
+II –
+
+apreensão de produtos;
+
+
+III –
+
+suspensão da autorização para atuar na feira por até 180 (cento e oitenta) dias corridos;
+
+
+V –
+
+cassação do alvará;
+
+
+VI –
+
+multa.
+
+
+#### CAPÍTULO III — Do processo Administrativo
+
+
+Art. 12.
+
+A competência para imposição de penalidade com base na lei, bem como para prática de todos os atos correlatos, é da Coordenação da Feira Livre de Claraval.
+
+
+Parágrafo único
+
+A competência atribuída no caput não exclui a competência específica de outra entidade ou órgão, inclusive municipal, relacionado à fiscalização de outras legislações aplicáveis.
+
+
+Art. 13.
+
+Na imposição de penalidade serão observados os princípios constitucionais da ampla defesa e contraditório, devendo ser seguido o seguinte trâmite:
+
+
+I –
+
+verificada qualquer irregularidade o agente responsável a descreverá em auto de constatação, dando imediata ciência ao infrator, fazendo constar, no mesmo:
+
+
+a)
+
+a conduta ou postura irregular observada;
+
+
+b)
+
+o dispositivo legal infringido;
+
+
+c)
+
+a penalidade ou penalidades a que fica sujeito o suposto infrator;
+
+
+d)
+
+os fundamentos legais para imposição de penalidades;
+
+
+e)
+
+notificação para que o infrator apresente justificativa ou defesa no prazo de 5 (cinco) dias úteis;
+
+
+f)
+
+as possibilidades de conversão automática em auto de infração e imposição de penalidade prevista nos incisos seguintes;
+
+
+II –
+
+se o infrator não apresentar justificativa ou defesa no prazo previsto, o auto de constatação converter-se-á, automaticamente em auto de infração e de imposição de penalidade;
+
+
+III –
+
+se o infrator não apresentar justificativa ou defesa, o auto será analisado no prazo de 10 (dez) dias úteis, pela Coordenação da Feira Livre de Claraval, que, em despacho fundamentado, decidirá por aceitá-lo ou determinará o seu arquivamento;
+
+
+IV –
+
+em caso de apresentação de defesa, no prazo de dez dias, o órgão competente decidirá por aceitá-la ou negar-lhe-á provimento;
+
+
+V –
+
+o infrator poderá apresentar, no prazo de 5 (cinco) dias úteis, recurso à junta formada pelos diretores ou secretários responsáveis pela área de agricultura, meio ambiente e assistência social;
+
+
+VI –
+
+interposto recurso, a Coordenação da Feira Livre de Claraval se manifestará em 05 (cinco) dias úteis, sobre seu teor, podendo reconsiderar sua decisão anterior ou remetê-lo à análise da instância superior;
+
+
+VII –
+
+não havendo reconsideração, por parte da Coordenação da Feira Livre de Claraval, o procedimento será enviado para análise jurídica, sendo de 10 (dez) dias úteis o prazo para apresentar parecer;
+
+
+VIII –
+
+com o parecer jurídico a junta de recursos deverá decidir no prazo de 10 (dez) dias úteis;
+
+
+IX –
+
+não haverá recurso administrativo da decisão da junta.
+
+
+§ 1º
+
+O recurso terá efeito suspensivo.
+
+
+§ 2º
+
+Em se tratando de infração de menor gravidade o agente responsável poderá, discricionariamente, optar por orientação ou advertência verbal ao infrator ao invés de lavrar auto de constatação, hipótese em que nenhum registro se fará sobre a conduta do feirante.
+
+
+Art. 14.
+
+A penalidade de advertência será aplicada ao feirante que infringir, pela primeira vez, qualquer disposto constante desta lei, não se lhe atribuindo pena maior.
+
+
+Art. 15.
+
+A penalidade de multa será aplicada ao feirante que:
+
+
+I –
+
+no prazo de 90 (noventa) dias corridos receber duas advertências pelo mesmo motivo ou três advertências por motivos diferentes;
+
+
+II –
+
+agir ou tentar agir fisicamente contra qualquer pessoa no espaço da feira;
+
+
+III –
+
+Comercializar produtos que coloquem em risco à integridade física ou à saúde de feirantes e consumidores;
+
+
+IV –
+
+desacatar servidores da Administração Pública no exercício de suas funções ou em razão delas;
+
+
+V –
+
+deixar de exibir a documentação exigida para o exercício de sua atividade quando solicitada pela fiscalização;
+
+
+VI –
+
+praticar qualquer ato que, pela sua intensidade ou gravidade, ponha em risco a integridade de pessoas ou da Feira Livre de Claraval.
+
+
+§ 1º
+
+A multa deverá, justificadamente, ser aplicada dentro do principio da razoabilidade não ultrapassando os seguintes valores:
+
+
+I –
+
+mínimo de 05 (cinco) unidades fiscais do Município;
+
+
+II –
+
+máximo de 10 (dez) unidades fiscais do Município.
+
+
+§ 2º
+
+O feirante a quem foi imposta multa poderá pedir a sua conversão em suspensão, desde que não seja reincidente pelo prazo de 01 (um) mês.
+
+
+Art. 16.
+
+No caso de infração do artigo 10, o feirante terá seus produtos apreendidos, sem prejuízo das demais medidas administrativas e judiciais cabíveis.
+
+
+Art. 17.
+
+O feirante advertido por três vezes, no prazo de sessenta dias, terá sua atividade comercial suspensa pelo prazo de até 06 (seis) meses, sem prejuízo do pagamento de multa, se for o caso.
+
+
+§ 1º
+
+A cassação do alvará de licença e funcionamento será aplicada ao feirante que:
+
+
+I –
+
+\- houver sido suspenso por três vezes, no período de um ano;
+
+
+II –
+
+deixar de comparecer à feira por três vezes consecutivas ou quatro alternadas no decorrer de noventa dias, sem motivo justificado.
+
+
+§ 2º
+
+A aplicação de qualquer sanção prevista nesta Lei não exime o infrator de sanar, quando for o caso, a irregularidade constatada.
+
+
+§ 3º
+
+As infrações cometidas pelos feirantes prescreverão no prazo de um ano contado da data de sua anotação no prontuário da Administração Regional.
+
+
+§ 4º
+
+A pena de cassação só poderá ser aplicada após procedimento administrativo que assegure ampla defesa ao feirante.
+
+
+§ 5º
+
+O feirante que tiver a autorização, permissão ou concessão cassada ficará impedido de participar de processo seletivo ou licitação para obtenção de espaço em feira livre ou permanente no Município de Claraval, pelo período de dois anos.
+
+
+§ 6º
+
+Aplicada a penalidade de cassação, o espaço do feirante será declarado vago e concedido ao primeiro colocado da lista de inscritos.
+
+
+### TÍTULO III — DA COMISSÃO DE FEIRANTES
+
+
+Art. 18.
+
+Os feirantes poderão formar comissão representativa de seus interesses.
+
+
+§ 1º
+
+A comissão será formada por três feirantes, eleitos em assembleia geral a ser realizada no primeiro bimestre de cada ano.
+
+
+§ 2º
+
+Aos membros da comissão compete orientar, esclarecer e fiscalizar o bom andamento da Feira, devendo eles, caso constatada alguma irregularidade passível de punição, comunicá-la à Coordenação da Feira Livre.
+
+
+### TÍTULO IV — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 19.
+
+Cabe à Secretaria Municipal de Saúde, juntamente com a Vigilância Sanitária, a Secretaria Municipal de Agricultura e Meio Ambiente fiscalizar a produção, a qualidade, a origem e a venda dos alimentos.
+
+
+Art. 20.
+
+A manutenção da ordem e da disciplina, bem como a segurança durante o expediente da Feira, estará a cargo da Polícia Militar, a qual deverá ser solicitada pela coordenação da Feira Livre.
+
+
+Art. 21.
+
+Haverá durante a realização da Feira fiscais da Prefeitura Municipal a fim de observarem e fazerem observar as disposições da presente Lei e regulamentos.
+
+
+Parágrafo único
+
+Ao fiscal caberá manter rigorosa fiscalização no que se refere à higiene dos produtos expostos à venda, mandando retirar os que julgar impróprios ao consumo, sem prejuízo de outras sanções previstas na Lei. Ficará responsável ainda pela elaboração de relatório das ocorrências verificadas no recinto da feira, fazendo-o em livro próprio, que ficará sob a guarda da Prefeitura Municipal e levado ao conhecimento da Coordenação da Feira Livre.
+
+
+Art. 22.
+
+As despesas decorrentes da execução desta lei correrão à conta de dotação orçamentária própria, suplementada se necessário, ou crédito especial ao orçamento vigente.
+
+
+Art. 23.
+
+Esta Lei entra em vigor na data de sua publicação, revogando as disposições em contrário.
+
+
+Claraval, 28 de junho de 2013.
+
+Juliano Diogo Pereira
+
+Prefeito Municipal.
+

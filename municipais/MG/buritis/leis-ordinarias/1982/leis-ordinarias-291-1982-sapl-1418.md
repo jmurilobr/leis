@@ -1,0 +1,79 @@
+---
+titulo: "Lei nº 291, de 09 de dezembro de 1982"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "291"
+data: "1982-12-09"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/1418"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/240/text"
+sha256_fonte: "45c9294facff813a95fb8e9f613843af7a178767617ff59fdaea86a25c895e45"
+sha256_texto: "ffa383c1b8d1cc09c5aa009b195b2aa19d87644e65787b31770ecd5d7d80c476"
+capturado_em_fonte: "2026-10-27T20:46:01.759718-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 291, de 09 de dezembro de 1982
+
+AUTORIZA DOAÇÃO DE TERRENOS DO MUNICÍPIO À COMPANHIA DE SANEAMENTO DE MINAS GERAIS - COPASA-MG.
+
+
+O Povo do Município de Buritis, do Estado de Minas Gerais, por seus representantes decretou, e eu, em seu nome, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a doar à Companhia de Saneamento de Minas Gerais – COPASA-MG os terrenos necessários à construção do sistema de abastecimento de água da Sede do Município.
+
+
+Art. 2º.
+
+Os terrenos de que tratam o artigo anterior têm as seguintes divisas e confrontações:
+
+
+I –
+
+Terreno compreendido dentro de uma área de 180,00m² (cento e oitenta metros quadrados), com a seguinte descrição topográfica: Partindo-se do vértice 1 (um), estabelecido no eixo do cruzamento da Rua Vereador Poti J. Ramos com a Rua 21 de Abril com o rumo de 18º50’ NE (dezoito graus e cinquenta minutos Nordeste) e a distância de 17,94m (dezessete metros e noventa e quatro centímetros) tem-se o marco "A" no canto direito da casa nº 94 (noventa e quatro) da Rua Vereador Poti J. Ramos e com o rumo de 44º00’ NE (quarenta e quatro graus Nordeste) e a distância de 27,97m (vinte e sete metros e noventa e sete centímetros) tem-se o marco "B" no canto esquerdo, ficando-se assim este vértice amarrado a estes dois pontos. Do vértice 1 (um) com rumo de 05º14’ NW (cinco graus e quatorze minutos Noroeste) e à distância de 191,64m (cento e noventa e um metros e sessenta e quatro centímetros) tem-se o RN-F estabelecido no marco de concreto cravado dentro dos terrenos da Prefeitura Municipal de Buritis, onde começa a demarcação da área. Descrição das divisas: Do RN-F com rumo de 89º40’SW (oitenta e nove graus e quarenta minutos Sudoeste) e à distância 5,59m (cinco metros e cinquenta e nove centímetros) tem-se o vértice 0 (zero), donde com o rumo de 89º40’SW (oitenta e nove graus e quarenta minutos Sudoeste) e à distância de 6,05m (seis metros e cinco centímetros) tem-se o marco "C". Do marco "C" com o rumo de 009º20'NW (vinte minutos Noroeste) e à distância de 15,00m (quinze metros) tem-se o marco "D", donde com o rumo de 089º40'NE (oitenta e nove graus e quarenta minutos Nordeste) e à distância de 12,00m (doze metros), tem-se o marco "E". Do marco "E" seguindo o alinhamento da cerca, com o rumo de 089º20'SE (vinte minutos Sudeste) e à distância de 15,00m (quinze metros) tem-se o RN-F já conhecido, fechando-se assim a área delimitada pelos marcos RN-F, vértices 0 (zero), "C", "D", "E" e RN-F, que faz divisa pelo lado ERN-F, com os terrenos do Sr. João Norato Primo, pelo lado CD com os terrenos do Sr. Pedro Valadares Versiane e pelos demais lados com os terrenos do próprio proprietário.
+
+
+II –
+
+Terreno compreendido dentro de uma área de 1.297,00m² (um mil duzentos e noventa e sete metros quadrados), com a seguinte descrição topográfica: Partindo-se do vértice 1 (um), estabelecido no eixo do cruzamento da Rua Vereador Poti J. Ramos com a Rua 21 de Abril, com o rumo de 18º50'NE (dezoito graus e cinquenta minutos Nordeste) e à distância de 17,94m (dezessete metros e noventa e quatro centímetros) tem-se o marco "A" estabelecido no canto direito da casa de nº94 (noventa e quatro) no mesmo cruzamento e com o rumo de 44º00'NE (quarenta e quatro graus Nordeste) à uma distância de 27,97m (vinte e sete metros e noventa e sete centímetros) tem-se o marco "B" no canto esquerdo, ficando-se assim esta área amarrada a estes dois pontos. Do vértice 1 (um) com o rumo de 75º00'SW (setenta e cinco graus Sudoeste) e à distância de 80,99m (oitenta metros e noventa e nove centímetros) tem-se o vértice 2 (dois) donde com o rumo de 290º00'SW (vinte e nove graus Sudoeste) e à distância de 75,81m (setenta e cinco metros e oitenta e um centímetros) tem-se o RN-H, onde começa a demarcação da área. Descrição das divisas: Partindo-se do RN-H com o rumo de 87º04'SW (oitenta e sete graus e quatro minutos Sudoeste) e à distância de 24,00m (vinte e quatro metros) tem-se o marco "N", donde, com o rumo de 11º07'NW (onze graus e sete minutos Noroeste) e à distância de 40,00m (quarenta metros), tem-se o marco "O". Do marco "O", com o rumo de 78º26'NE (setenta e oito graus e vinte e seis minutos Nordeste) e à distância de 14,50m (quatorze metros e cinquenta centímetros) tem-se o vértice 4 (quatro) donde com o mesmo rumo e à distância de 15,93m (quinze metros e noventa e três centímetros) tem-se o marco "P". Do marco "P" com o rumo de 059º11'SE (cinco graus e cinquenta e um minutos Sudeste) e à distância de 46,00m (quarenta e seis metros) tem-se o marco "Q", donde com o rumo de 87º04'SW (oitenta e sete graus e quatro minutos Sudoeste) e à distância de 5,00m (cinco metros) tem-se o RN-H já conhecido, fechando-se assim a área delimitada pelos marcos RN-H, "N", "O", vértice 4 (quatro), "P", "Q" e RN-H, que faz divisa pelos lados dos RN-H e RN-H Q com a Rua São Domingos, pelo lado N O com terrenos do Sr. Gerino Gonçalves, pelos lados V vértice 4 (quatro) e vértice 4 (quatro) P com a Rua Vereador Poti J. Ramos e pelo lado P Q com terrenos do próprio proprietário. Tudo conforme plantas e memórias topográficas, conhecidas das partes contratantes.
+
+
+III –
+
+Terreno compreendido dentro de uma área de 140,00m² (cento e quarenta metros quadrados) com a seguinte descrição topográfica: Partindo-se do vértice 12 (doze) da AAB II, local localizado no eixo da Rua Vereador Poti J. Ramos, próximo à casa nº 268 (duzentos e sessenta e oito), com o rumo de 35º40'SW (trinta e cinco graus e quarenta minutos Sudoeste) e à distância de 55,75m (cinquenta e cinco metros e setenta e cinco centímetros), tem-se o marco "I" no canto direito da casa nº 10 e com o rumo de 49º10'SW (quarenta e nove graus e dez minutos Sudoeste) e à distância de 49,67m (quarenta e nove metros e sessenta e sete centímetros) tem-se o marco "J" no canto esquerdo, ficando-se assim este vértice amarrado a estes dois pontos. Do vértice 12 (doze), com o rumo de 53º24'NW (cinquenta e três graus e vinte e quatro minutos Noroeste) à distância de 98,85m (noventa e oito metros e oitenta e cinco centímetros) tem-se o RN-G, onde começa a demarcação da área.
+
+
+Art. 3º.
+
+Fica o Executivo Municipal autorizado também a conceder serviço de administrativa em terreno municipal, nos termos das exigências técnicas da COPASA-MG, podendo firmar os necessários documentos.
+
+
+Art. 4º.
+
+Os terrenos referidos nesta Lei não podem ter destinação estranha ao serviço de abastecimento de água sob pena de nulidade da doação com retorno dos referidos bens ao patrimônio do Município.
+
+
+Art. 5º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Mando, portanto, a todas as autoridades a quem o conhecimento e execução desta Lei pertencer, que a cumpram e a façam cumprir tão inteiramente como nela se contém.
+
+PREFEITURA MUNICIPAL DE BURITIS, EM 09 DE DEZEMBRO DE 1982
+
+**ELIZEU NADIR JOSÉ LOPES PREFEITO MUNICIPAL DE BURITIS**
+
+**Antônio Pedro André Silva SECRETÁRIO**
+
+**Aprovada em 1ª discussão em 13/12/82 – Projeto de Lei nº 189/82**
+

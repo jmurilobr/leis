@@ -1,0 +1,28 @@
+---
+titulo: "PORTARIA Nº 3.059, DE 11 DE OUTUBRO DE 2022"
+orgao: "Ministério do Desenvolvimento Regional/Secretaria Nacional de Proteção e Defesa Civil"
+tipo: "Portaria"
+numero: "3059"
+data: 2022-10-11
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 13/10/2022, seção 1, p. 19"
+data_publicacao: 2022-10-13
+edicao: "195"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-3.059-de-11-de-outubro-de-2022-435506102"
+sha256_html_fonte: 600d7a4a669ce1a245dae0f61fae227198fdf96dabe7e15452976d99a0b5f6c1
+baixado_em: 2026-10-20
+---
+# PORTARIA Nº 3.059, DE 11 DE OUTUBRO DE 2022
+
+PORTARIA Nº 3.059, DE 11 DE OUTUBRO DE 2022
+
+A UNIÃO, por intermédio do MINISTÉRIO DO DESENVOLVIMENTO REGIONAL, neste ato representado pelo SECRETÁRIO NACIONAL DE PROTEÇÃO E DEFESA CIVIL, nomeado pela Portaria n. 830, de 25 de janeiro de 2019, publicada no DOU, de 25 de janeiro de 2019, Seção II, Edição Extra A, consoante delegação de competência conferida pela Portaria n. 2.708, de 28 de outubro de 2021, publicada no DOU de 29 de outubro de 2021, Seção 1, e tendo em vista o disposto na Lei nº 12.340, de 01 de dezembro de 2010, na Lei nº 12.608, de 10 de abril de 2012 e no Decreto nº 11.219, de 05 de outubro de 2022
+
+**Art. 1°** Prorrogar o prazo de execução das ações de resposta, previsto no art. 3° da Portaria n. 1.169, de 13 de abril de 2022, constante no processo administrativo nº 59052.009027/2022-19, que autorizou o empenho e a transferência de recursos ao Município de Monte Formoso - MG, para ações de Defesa Civil até 08/01/2023.
+
+**Art. 2°** Ficam ratificados os demais dispositivos da Portaria acima citada, não alterados por esta.
+
+**Art. 3°** Esta Portaria entra em vigor na data de sua assinatura.
+
+ALEXANDRE LUCAS ALVES

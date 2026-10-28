@@ -1,0 +1,62 @@
+---
+titulo: "Decreto-SEMPOG nº 18.392, de 24 de agosto de 2022"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "18.392"
+data: "2022-08-24"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/20684"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/10104/text"
+sha256_fonte: "e5c161cde3e5f58890a2e88162203e76538d493501ea6d750eee0b1cf0e63a76"
+sha256_texto: "b7ce42045354e29080ecb5e237218239b4c9853eba029d1fea8f09b2b7a06d0b"
+capturado_em_fonte: "2026-10-21T06:16:47.177164-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 18.392, de 24 de agosto de 2022
+
+Abre no Orçamento Anual do Município de Porto Velho Crédito Adicional Suplementar, e dá outras providências.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, amparado pelo Art. 6º da Lei n.º 2.903, de 20 de dezembro de 2021, a fim de proceder as adequações orçamentárias no exercício 2022;
+
+Considerando o Ofício n.º 1721/GAB/DA/SEMOB/2022, de 09 de agosto de 2022, pelo qual a Secretaria Municipal de Obras e Pavimentação – SEMOB, solicita suplementação para cobertura orçamentária de Contrapartida do Convênio n.° 894493/2019/MDR/CAIXA, contrato de repasse que entre si celebram a união federal, por intermédio do Ministério do Desenvolvimento Regional, representado pela Caixa Econômica Federal e o Município de Porto Velho, objetivando a execução de ações relativas ao planejamento urbano da Estrada dos Periquitos, constante no Processo Administrativo n.° 10.00080-007/2020;
+
+Considerando a tendência de Excesso de Arrecadação para o exercício financeiro de 2022 de acordo com o art. 43 § 3° da Lei Federal n.º 4.320, de 17 de março de 1964, planilha de Acompanhamento de Receita Arrecadada Mensal para o exercício de 2022 (anexo).
+
+D E C R E T A:
+
+**Art. 1º** – Fica aberto no Orçamento do Município de Porto Velho, Crédito Adicional Suplementar no valor de R$ 1.033.410,34 (um milhão, trinta e três mil, quatrocentos e dez reais e trinta e quatro centavos).
+
+**Art. 2º** – Os recursos necessários à execução do disposto no artigo anterior decorrerão de Excesso de Arrecadação, provenientes da Fonte de Recursos 1.500 – Recursos do Exercício Corrente – Recursos não vinculados de Impostos, consignados no orçamento, conforme detalhado na sequência:
+
+<table><tbody><tr><td colspan="6"><p><strong>11.00 – SECRETARIA MUNICIPAL DE OBRAS E PAVIMENTAÇÃO - SEMOB</strong></p></td></tr><tr><td colspan="6"><p><strong>11.01 – SECRETARIA MUNICIPAL DE OBRAS E PAVIMENTAÇÃO - SEMOB</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>SUPLEMENTA</strong></p><p><strong>R$</strong></p></td></tr><tr><td><p>11.01.15.451.075.1.188</p></td><td><p>Pavimentação de Vias Urbanas</p></td><td><p>FIS</p></td><td><p>4.4.90.51</p></td><td><p>1.500</p></td><td><p>1.033.410,34</p></td></tr><tr><td colspan="5"><p><strong>SUB TOTAL</strong></p></td><td><p><strong>1.033.410,34</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>1.033.410,34</strong></p></td></tr></tbody></table>
+
+**Art. 3º** – Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 17.852, de 20 de dezembro de 2021 e o Detalhamento da Despesa, estabelecido pelo Decreto n.º 17.853, de 20 de dezembro de 2021.
+
+**Art. 4º** – Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** – Revogam-se as disposições em contrário.
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto do Município
+

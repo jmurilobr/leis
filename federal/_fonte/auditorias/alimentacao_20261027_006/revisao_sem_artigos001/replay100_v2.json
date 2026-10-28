@@ -1,0 +1,1132 @@
+{
+  "resumo": {
+    "fila": 35,
+    "obtidos_HTML": 35,
+    "candidatos": 31,
+    "replay_aprovados": 31,
+    "replay_divergencias": 0,
+    "retidos_preparo_total": 4,
+    "retidos_sem_HTML": 0,
+    "retidos_preparo_com_HTML": 4,
+    "promovidos": 0
+  },
+  "registros": [
+    {
+      "path": "federal/decretos/1940/dec-6228-1940-09-05.md",
+      "sha256_candidato": "090efb460e4ebb53340089913b02d4e5bdb776127bc6b68dd05e0c5c12705a20",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.228, de 5 de Setembro de 1940 Extingue cargos excedentes. O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 74, letra a, da Constituição, e na conformidade do que dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936 e Decreto-lei nº 1.513, de 16 de agosto de 1939, DECRETA: Ficam extintos no Quadro II, do Ministério da Justiça e Negócios Interiores, três (3) cargos excedentes de classe F, da carreira de Escriturário, vagos em virtude da aposentadoria de Manuel da Silva Costa e promoções de Célio Oscar Porto e Otávio Henrique Malet, e um (1) cargo excedente de classe K, da carreira de Médico Legista, vago em virtude da promoção de Raul Santiago Bergalo, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, no preenchimento de cargos vagos das referidas carreiras. Rio de Janeiro, 5 de setembro de 1940; 119º da Independência e 52º da República. GETÚLIO VARGAS Francisco Campos",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.228, de 5 de Setembro de 1940</p>\n<p>Extingue cargos excedentes.</p>\n<p>O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 74, letra a, da Constituição, e na conformidade do que dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936 e Decreto-lei nº 1.513, de 16 de agosto de 1939,</p>\n<p>DECRETA:</p>\n<p>Ficam extintos no Quadro II, do Ministério da Justiça e Negócios Interiores, três (3) cargos excedentes de classe F, da carreira de Escriturário, vagos em virtude da aposentadoria de Manuel da Silva Costa e promoções de Célio Oscar Porto e Otávio Henrique Malet, e um (1) cargo excedente de classe K, da carreira de Médico Legista, vago em virtude da promoção de Raul Santiago Bergalo, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, no preenchimento de cargos vagos das referidas carreiras.</p>\n<p>Rio de Janeiro, 5 de setembro de 1940; 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br>Francisco Campos</p>\n",
+          "sha256_html_renderizado": "81b2b3560470acda302d047d6d934e3d9dd1cd9a38c14144f0f88cd8e620e856",
+          "texto_visivel": "Decreto nº 6.228, de 5 de Setembro de 1940 Extingue cargos excedentes. O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 74, letra a, da Constituição, e na conformidade do que dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936 e Decreto-lei nº 1.513, de 16 de agosto de 1939, DECRETA: Ficam extintos no Quadro II, do Ministério da Justiça e Negócios Interiores, três (3) cargos excedentes de classe F, da carreira de Escriturário, vagos em virtude da aposentadoria de Manuel da Silva Costa e promoções de Célio Oscar Porto e Otávio Henrique Malet, e um (1) cargo excedente de classe K, da carreira de Médico Legista, vago em virtude da promoção de Raul Santiago Bergalo, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, no preenchimento de cargos vagos das referidas carreiras. Rio de Janeiro, 5 de setembro de 1940; 119º da Independência e 52º da República. GETÚLIO VARGAS Francisco Campos"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.228, de 5 de Setembro de 1940</p>\n<p>Extingue cargos excedentes.</p>\n<p>O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 74, letra a, da Constituição, e na conformidade do que dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936 e Decreto-lei nº 1.513, de 16 de agosto de 1939,</p>\n<p>DECRETA:</p>\n<p>Ficam extintos no Quadro II, do Ministério da Justiça e Negócios Interiores, três (3) cargos excedentes de classe F, da carreira de Escriturário, vagos em virtude da aposentadoria de Manuel da Silva Costa e promoções de Célio Oscar Porto e Otávio Henrique Malet, e um (1) cargo excedente de classe K, da carreira de Médico Legista, vago em virtude da promoção de Raul Santiago Bergalo, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, no preenchimento de cargos vagos das referidas carreiras.</p>\n<p>Rio de Janeiro, 5 de setembro de 1940; 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nFrancisco Campos</p>\n",
+          "sha256_html_renderizado": "ba462a428436271c4916631a4df3b000098b0c8696996392aeff306393184c8a",
+          "texto_visivel": "Decreto nº 6.228, de 5 de Setembro de 1940 Extingue cargos excedentes. O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 74, letra a, da Constituição, e na conformidade do que dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936 e Decreto-lei nº 1.513, de 16 de agosto de 1939, DECRETA: Ficam extintos no Quadro II, do Ministério da Justiça e Negócios Interiores, três (3) cargos excedentes de classe F, da carreira de Escriturário, vagos em virtude da aposentadoria de Manuel da Silva Costa e promoções de Célio Oscar Porto e Otávio Henrique Malet, e um (1) cargo excedente de classe K, da carreira de Médico Legista, vago em virtude da promoção de Raul Santiago Bergalo, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, no preenchimento de cargos vagos das referidas carreiras. Rio de Janeiro, 5 de setembro de 1940; 119º da Independência e 52º da República. GETÚLIO VARGAS Francisco Campos"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6229-1940-09-05.md",
+      "sha256_candidato": "6bedaab33ead5e86d7bb9b19c958bcd17343d92d5750e104494ba3f3d3453d36",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.229, de 5 de Setembro de 1940 Extingue cargos excedentes. O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 74, letra a, da Constituição, e na conformidade do que dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936 e Decreto-lei nº 1.513, de 16 de agosto de 1936, DECRETA: Ficam extintos no Quadro II, do Ministério da Justiça e Negócios Interiores, um (1) cargo excedente de classe J, da carreira de Oficial Administrativo, vago em virtude da aposentadoria de Ênio Augusto Marques e um (1) cargo excedente, classe H, da carreira de Detetive, vago em virtude da promoção de Hicrólio Vieira, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, na importância de trinta e um constos e duzentos mil réis (31:200$0), para o preenchimento de dois (2) cargos vagos de classe I, da carreira de Oficial Administrativo. Rio de Janeiro, 5 de setembro de 1940; 119º da Independência e 52º da República. GETÚLIO VARGAS Francisco Campos",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.229, de 5 de Setembro de 1940</p>\n<p>Extingue cargos excedentes.</p>\n<p>O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 74, letra a, da Constituição, e na conformidade do que dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936 e Decreto-lei nº 1.513, de 16 de agosto de 1936,</p>\n<p>DECRETA:</p>\n<p>Ficam extintos no Quadro II, do Ministério da Justiça e Negócios Interiores, um (1) cargo excedente de classe J, da carreira de Oficial Administrativo, vago em virtude da aposentadoria de Ênio Augusto Marques e um (1) cargo excedente, classe H, da carreira de Detetive, vago em virtude da promoção de Hicrólio Vieira, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, na importância de trinta e um constos e duzentos mil réis (31:200$0), para o preenchimento de dois (2) cargos vagos de classe I, da carreira de Oficial Administrativo.</p>\n<p>Rio de Janeiro, 5 de setembro de 1940; 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br>Francisco Campos</p>\n",
+          "sha256_html_renderizado": "55cdbdae37c58742f574f21833cab215877f6303cac144048249758c8f9f0b2e",
+          "texto_visivel": "Decreto nº 6.229, de 5 de Setembro de 1940 Extingue cargos excedentes. O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 74, letra a, da Constituição, e na conformidade do que dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936 e Decreto-lei nº 1.513, de 16 de agosto de 1936, DECRETA: Ficam extintos no Quadro II, do Ministério da Justiça e Negócios Interiores, um (1) cargo excedente de classe J, da carreira de Oficial Administrativo, vago em virtude da aposentadoria de Ênio Augusto Marques e um (1) cargo excedente, classe H, da carreira de Detetive, vago em virtude da promoção de Hicrólio Vieira, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, na importância de trinta e um constos e duzentos mil réis (31:200$0), para o preenchimento de dois (2) cargos vagos de classe I, da carreira de Oficial Administrativo. Rio de Janeiro, 5 de setembro de 1940; 119º da Independência e 52º da República. GETÚLIO VARGAS Francisco Campos"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.229, de 5 de Setembro de 1940</p>\n<p>Extingue cargos excedentes.</p>\n<p>O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 74, letra a, da Constituição, e na conformidade do que dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936 e Decreto-lei nº 1.513, de 16 de agosto de 1936,</p>\n<p>DECRETA:</p>\n<p>Ficam extintos no Quadro II, do Ministério da Justiça e Negócios Interiores, um (1) cargo excedente de classe J, da carreira de Oficial Administrativo, vago em virtude da aposentadoria de Ênio Augusto Marques e um (1) cargo excedente, classe H, da carreira de Detetive, vago em virtude da promoção de Hicrólio Vieira, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, na importância de trinta e um constos e duzentos mil réis (31:200$0), para o preenchimento de dois (2) cargos vagos de classe I, da carreira de Oficial Administrativo.</p>\n<p>Rio de Janeiro, 5 de setembro de 1940; 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nFrancisco Campos</p>\n",
+          "sha256_html_renderizado": "b22857fae41eaa30083908369f64c47c2c7e43328160bda1f83979d791f2e170",
+          "texto_visivel": "Decreto nº 6.229, de 5 de Setembro de 1940 Extingue cargos excedentes. O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 74, letra a, da Constituição, e na conformidade do que dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936 e Decreto-lei nº 1.513, de 16 de agosto de 1936, DECRETA: Ficam extintos no Quadro II, do Ministério da Justiça e Negócios Interiores, um (1) cargo excedente de classe J, da carreira de Oficial Administrativo, vago em virtude da aposentadoria de Ênio Augusto Marques e um (1) cargo excedente, classe H, da carreira de Detetive, vago em virtude da promoção de Hicrólio Vieira, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, na importância de trinta e um constos e duzentos mil réis (31:200$0), para o preenchimento de dois (2) cargos vagos de classe I, da carreira de Oficial Administrativo. Rio de Janeiro, 5 de setembro de 1940; 119º da Independência e 52º da República. GETÚLIO VARGAS Francisco Campos"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6213-1940-09-04.md",
+      "sha256_candidato": "93c37dd0b31469bb32bcb503372532f70523e7c3c484e7e86b8f288016f6a11d",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.213, de 4 de Setembro de 1940 Declara extinto um cargo excedente na classe E da carreira de Auxiliar de Ensino do Quadro Único do Ministério da Agricultura. O PRESIDENTE DA REPÚBLICA, resolve declarar extinto, por se achar vago, em virtude da transferência de Alexandre Pinto Costa, um cargo excedente na classe E da carreira de Auxiliar de Ensino do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936. Rio de Janeiro, em 4 de setembro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Fernando Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.213, de 4 de Setembro de 1940</p>\n<p>Declara extinto um cargo excedente na classe E da carreira de Auxiliar de Ensino do Quadro Único do Ministério da Agricultura.</p>\n<p>O PRESIDENTE DA REPÚBLICA, resolve declarar extinto, por se achar vago, em virtude da transferência de Alexandre Pinto Costa, um cargo excedente na classe E da carreira de Auxiliar de Ensino do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, em 4 de setembro de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br>Fernando Costa</p>\n",
+          "sha256_html_renderizado": "c2e7894b17e4d16aa9336594aac74f92208ba14531a8359fe4c59bd881ea8014",
+          "texto_visivel": "Decreto nº 6.213, de 4 de Setembro de 1940 Declara extinto um cargo excedente na classe E da carreira de Auxiliar de Ensino do Quadro Único do Ministério da Agricultura. O PRESIDENTE DA REPÚBLICA, resolve declarar extinto, por se achar vago, em virtude da transferência de Alexandre Pinto Costa, um cargo excedente na classe E da carreira de Auxiliar de Ensino do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936. Rio de Janeiro, em 4 de setembro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Fernando Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.213, de 4 de Setembro de 1940</p>\n<p>Declara extinto um cargo excedente na classe E da carreira de Auxiliar de Ensino do Quadro Único do Ministério da Agricultura.</p>\n<p>O PRESIDENTE DA REPÚBLICA, resolve declarar extinto, por se achar vago, em virtude da transferência de Alexandre Pinto Costa, um cargo excedente na classe E da carreira de Auxiliar de Ensino do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, em 4 de setembro de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nFernando Costa</p>\n",
+          "sha256_html_renderizado": "84af9c8fc55f7150e1996209db291b50a7aeb17dd09dd982570cfc3c143f5f9b",
+          "texto_visivel": "Decreto nº 6.213, de 4 de Setembro de 1940 Declara extinto um cargo excedente na classe E da carreira de Auxiliar de Ensino do Quadro Único do Ministério da Agricultura. O PRESIDENTE DA REPÚBLICA, resolve declarar extinto, por se achar vago, em virtude da transferência de Alexandre Pinto Costa, um cargo excedente na classe E da carreira de Auxiliar de Ensino do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na referida carreira, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936. Rio de Janeiro, em 4 de setembro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Fernando Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6214-1940-09-04.md",
+      "sha256_candidato": "7b6aee50513209ba2ce980b0708b7dbc5cd20b79dfc044844de47a9ac408bb73",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.214, de 4 de Setembro de 1940 Extingue um cargo excedente na classe F da carreira de Prático Rural, do Quadro Único do Ministério da Agricultura. O PRESIDENTE DA REPÚBLICA, resolve extinguir, por se achar vago, em virtude da demissão de Silverio Vianna, um (1) cargo excedente na classe F da carreira de Prático Rural, do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na classe inicial da referida carreira, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936. Rio de Janeiro, em 4 de setembro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Fernando Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.214, de 4 de Setembro de 1940</p>\n<p>Extingue um cargo excedente na classe F da carreira de Prático Rural, do Quadro Único do Ministério da Agricultura.</p>\n<p>O PRESIDENTE DA REPÚBLICA, resolve extinguir, por se achar vago, em virtude da demissão de Silverio Vianna, um (1) cargo excedente na classe F da carreira de Prático Rural, do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na classe inicial da referida carreira, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, em 4 de setembro de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br>Fernando Costa</p>\n",
+          "sha256_html_renderizado": "b00587b9f1c58958487df565aa18b8112ad80ca124074dd7544a1b42517ab9ab",
+          "texto_visivel": "Decreto nº 6.214, de 4 de Setembro de 1940 Extingue um cargo excedente na classe F da carreira de Prático Rural, do Quadro Único do Ministério da Agricultura. O PRESIDENTE DA REPÚBLICA, resolve extinguir, por se achar vago, em virtude da demissão de Silverio Vianna, um (1) cargo excedente na classe F da carreira de Prático Rural, do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na classe inicial da referida carreira, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936. Rio de Janeiro, em 4 de setembro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Fernando Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.214, de 4 de Setembro de 1940</p>\n<p>Extingue um cargo excedente na classe F da carreira de Prático Rural, do Quadro Único do Ministério da Agricultura.</p>\n<p>O PRESIDENTE DA REPÚBLICA, resolve extinguir, por se achar vago, em virtude da demissão de Silverio Vianna, um (1) cargo excedente na classe F da carreira de Prático Rural, do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na classe inicial da referida carreira, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, em 4 de setembro de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nFernando Costa</p>\n",
+          "sha256_html_renderizado": "6fef56c5e817714c999309cd5ce09792638333b4e12e21908f5c8687d280bd7d",
+          "texto_visivel": "Decreto nº 6.214, de 4 de Setembro de 1940 Extingue um cargo excedente na classe F da carreira de Prático Rural, do Quadro Único do Ministério da Agricultura. O PRESIDENTE DA REPÚBLICA, resolve extinguir, por se achar vago, em virtude da demissão de Silverio Vianna, um (1) cargo excedente na classe F da carreira de Prático Rural, do Quadro Único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na classe inicial da referida carreira, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936. Rio de Janeiro, em 4 de setembro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Fernando Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6208-1940-09-03.md",
+      "sha256_candidato": "267d98230c30680f7342e4ff6bf4cec14ffb973962992ba3b3d43048d437e329",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.208, de 3 de Setembro de 1940 Suprime 2 cargos extintos do Quadro Suplementar do Ministério da Educação e Saúde. O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição, Resolve suprimir 2 cargos de Secretário, padrões K e J, do Quadro Suplementar do Ministério da Educação e Saúde, que se acham vagos em virtude das transferências de Adalberto Faria Pereira da Silva e Americo Lourenço Jacobina Lacombe. Rio de Janeiro, em 3 de setembro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Gustavo Capanema",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.208, de 3 de Setembro de 1940</p>\n<p>Suprime 2 cargos extintos do Quadro Suplementar do Ministério da Educação e Saúde.</p>\n<p>O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição,</p>\n<p>Resolve suprimir 2 cargos de Secretário, padrões K e J, do Quadro Suplementar do Ministério da Educação e Saúde, que se acham vagos em virtude das transferências de Adalberto Faria Pereira da Silva e Americo Lourenço Jacobina Lacombe.</p>\n<p>Rio de Janeiro, em 3 de setembro de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br>Gustavo Capanema</p>\n",
+          "sha256_html_renderizado": "f7ddf9741094b970a8aab51176e95c61458208dfd3acdf1faf355657696ed737",
+          "texto_visivel": "Decreto nº 6.208, de 3 de Setembro de 1940 Suprime 2 cargos extintos do Quadro Suplementar do Ministério da Educação e Saúde. O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição, Resolve suprimir 2 cargos de Secretário, padrões K e J, do Quadro Suplementar do Ministério da Educação e Saúde, que se acham vagos em virtude das transferências de Adalberto Faria Pereira da Silva e Americo Lourenço Jacobina Lacombe. Rio de Janeiro, em 3 de setembro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Gustavo Capanema"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.208, de 3 de Setembro de 1940</p>\n<p>Suprime 2 cargos extintos do Quadro Suplementar do Ministério da Educação e Saúde.</p>\n<p>O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição,</p>\n<p>Resolve suprimir 2 cargos de Secretário, padrões K e J, do Quadro Suplementar do Ministério da Educação e Saúde, que se acham vagos em virtude das transferências de Adalberto Faria Pereira da Silva e Americo Lourenço Jacobina Lacombe.</p>\n<p>Rio de Janeiro, em 3 de setembro de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nGustavo Capanema</p>\n",
+          "sha256_html_renderizado": "bacdfbd8de633ed1760e6e2eff11a0b79575fd0daa0d3da220d65c8bd3e71ac7",
+          "texto_visivel": "Decreto nº 6.208, de 3 de Setembro de 1940 Suprime 2 cargos extintos do Quadro Suplementar do Ministério da Educação e Saúde. O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição, Resolve suprimir 2 cargos de Secretário, padrões K e J, do Quadro Suplementar do Ministério da Educação e Saúde, que se acham vagos em virtude das transferências de Adalberto Faria Pereira da Silva e Americo Lourenço Jacobina Lacombe. Rio de Janeiro, em 3 de setembro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Gustavo Capanema"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6209-1940-09-03.md",
+      "sha256_candidato": "6ad10c00d99878f12fd61f22e32f78b504589a171c01ceb2e5759a6fb01b3288",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.209, de 3 de Setembro de 1940 Suprime um cargo extinto do Quadro I do Ministério da Educação e Saúde. O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição, Resolve suprimir 1 cargo extinto, da classe C, da carreira de Trabalhador, do Quadro I, do Ministério da Educação e Saúde, que se acha vago em virtude da aposentadoria de Carlos Ferreira. Rio de Janeiro, em 3 de setembro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Gustavo Capanema",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.209, de 3 de Setembro de 1940</p>\n<p>Suprime um cargo extinto do Quadro I do Ministério da Educação e Saúde.</p>\n<p>O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição,</p>\n<p>Resolve suprimir 1 cargo extinto, da classe C, da carreira de Trabalhador, do Quadro I, do Ministério da Educação e Saúde, que se acha vago em virtude da aposentadoria de Carlos Ferreira.</p>\n<p>Rio de Janeiro, em 3 de setembro de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br>Gustavo Capanema</p>\n",
+          "sha256_html_renderizado": "6a0581babe306e01bd59219fca6c0b406ecb429788a474a9779a7ba635b32be2",
+          "texto_visivel": "Decreto nº 6.209, de 3 de Setembro de 1940 Suprime um cargo extinto do Quadro I do Ministério da Educação e Saúde. O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição, Resolve suprimir 1 cargo extinto, da classe C, da carreira de Trabalhador, do Quadro I, do Ministério da Educação e Saúde, que se acha vago em virtude da aposentadoria de Carlos Ferreira. Rio de Janeiro, em 3 de setembro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Gustavo Capanema"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.209, de 3 de Setembro de 1940</p>\n<p>Suprime um cargo extinto do Quadro I do Ministério da Educação e Saúde.</p>\n<p>O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição,</p>\n<p>Resolve suprimir 1 cargo extinto, da classe C, da carreira de Trabalhador, do Quadro I, do Ministério da Educação e Saúde, que se acha vago em virtude da aposentadoria de Carlos Ferreira.</p>\n<p>Rio de Janeiro, em 3 de setembro de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nGustavo Capanema</p>\n",
+          "sha256_html_renderizado": "3133f86a7b3bc220811629000f19901778c57f812d03057cca3ec8da51966f81",
+          "texto_visivel": "Decreto nº 6.209, de 3 de Setembro de 1940 Suprime um cargo extinto do Quadro I do Ministério da Educação e Saúde. O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição, Resolve suprimir 1 cargo extinto, da classe C, da carreira de Trabalhador, do Quadro I, do Ministério da Educação e Saúde, que se acha vago em virtude da aposentadoria de Carlos Ferreira. Rio de Janeiro, em 3 de setembro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Gustavo Capanema"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6210-1940-09-03.md",
+      "sha256_candidato": "d1cd7646509b78660bcbc98ce30a5e83c3d8bdda81c63b28370acfec64ffeb43",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.210, de 3 de Setembro de 1940 Extingue 1cargo excedente da classe \"C\", da carreira de Servente, do Quadro I, do Ministério da Educação e Saúde. O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição, Resolve declarar extinto um cargo excedente da Classe C, da carreira de servente, do Quadro I, do Ministério da Educação e Saúde, vago em virtude da aposentadoria de Americo de Andrade, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõe as tabelas anexas a Lei nº 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei nº 378 e atos posteriores. Rio de Janeiro, em 3 de setembro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Gustavo Capanema",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.210, de 3 de Setembro de 1940</p>\n<p>Extingue 1cargo excedente da classe &quot;C&quot;, da carreira de Servente, do Quadro I, do Ministério da Educação e Saúde.</p>\n<p>O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição,</p>\n<p>Resolve declarar extinto um cargo excedente da Classe C, da carreira de servente, do Quadro I, do Ministério da Educação e Saúde, vago em virtude da aposentadoria de Americo de Andrade, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõe as tabelas anexas a Lei nº 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei nº 378 e atos posteriores.</p>\n<p>Rio de Janeiro, em 3 de setembro de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br>Gustavo Capanema</p>\n",
+          "sha256_html_renderizado": "0240ff9451900e2c30a1e7ac9d05dedf89dcb144d76b4cc6c31a33d71c27bd57",
+          "texto_visivel": "Decreto nº 6.210, de 3 de Setembro de 1940 Extingue 1cargo excedente da classe \"C\", da carreira de Servente, do Quadro I, do Ministério da Educação e Saúde. O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição, Resolve declarar extinto um cargo excedente da Classe C, da carreira de servente, do Quadro I, do Ministério da Educação e Saúde, vago em virtude da aposentadoria de Americo de Andrade, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõe as tabelas anexas a Lei nº 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei nº 378 e atos posteriores. Rio de Janeiro, em 3 de setembro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Gustavo Capanema"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.210, de 3 de Setembro de 1940</p>\n<p>Extingue 1cargo excedente da classe &quot;C&quot;, da carreira de Servente, do Quadro I, do Ministério da Educação e Saúde.</p>\n<p>O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição,</p>\n<p>Resolve declarar extinto um cargo excedente da Classe C, da carreira de servente, do Quadro I, do Ministério da Educação e Saúde, vago em virtude da aposentadoria de Americo de Andrade, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõe as tabelas anexas a Lei nº 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei nº 378 e atos posteriores.</p>\n<p>Rio de Janeiro, em 3 de setembro de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nGustavo Capanema</p>\n",
+          "sha256_html_renderizado": "30c4ac1ed35ec89ccc749c11a3b7f4e1fa442bff1a4c6d863b70994ba6985a71",
+          "texto_visivel": "Decreto nº 6.210, de 3 de Setembro de 1940 Extingue 1cargo excedente da classe \"C\", da carreira de Servente, do Quadro I, do Ministério da Educação e Saúde. O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição, Resolve declarar extinto um cargo excedente da Classe C, da carreira de servente, do Quadro I, do Ministério da Educação e Saúde, vago em virtude da aposentadoria de Americo de Andrade, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõe as tabelas anexas a Lei nº 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei nº 378 e atos posteriores. Rio de Janeiro, em 3 de setembro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Gustavo Capanema"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6211-1940-09-03.md",
+      "sha256_candidato": "7e706c4b98a08514b81187ca67b2cca109890dcc9c4de588e34033611ee63d30",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.211, de 3 de Setembro de 1940 Extingue 1 cargo excedente da classe \"E\", da carreira de Zelador, do Quadro I, do Ministério da Educação e Saúde. O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição, Resolve declara extinto um cargo da Classe E, da carreira de Zelador, do Quadro I, do Ministério da Educação e Saúde, vago em virtude da exoneração de José Maria Bello Filho, aproveirando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei nº 378 e atos posteriores. Rio de Janeiro, em 3 de setembro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Gustavo Capanema",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.211, de 3 de Setembro de 1940</p>\n<p>Extingue 1 cargo excedente da classe &quot;E&quot;, da carreira de Zelador, do Quadro I, do Ministério da Educação e Saúde.</p>\n<p>O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição,</p>\n<p>Resolve declara extinto um cargo da Classe E, da carreira de Zelador, do Quadro I, do Ministério da Educação e Saúde, vago em virtude da exoneração de José Maria Bello Filho, aproveirando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei nº 378 e atos posteriores.</p>\n<p>Rio de Janeiro, em 3 de setembro de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br>Gustavo Capanema</p>\n",
+          "sha256_html_renderizado": "721a5af873f2bab42984ec215419ed5a176adf6a65233f45324f6f61abc5d643",
+          "texto_visivel": "Decreto nº 6.211, de 3 de Setembro de 1940 Extingue 1 cargo excedente da classe \"E\", da carreira de Zelador, do Quadro I, do Ministério da Educação e Saúde. O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição, Resolve declara extinto um cargo da Classe E, da carreira de Zelador, do Quadro I, do Ministério da Educação e Saúde, vago em virtude da exoneração de José Maria Bello Filho, aproveirando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei nº 378 e atos posteriores. Rio de Janeiro, em 3 de setembro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Gustavo Capanema"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.211, de 3 de Setembro de 1940</p>\n<p>Extingue 1 cargo excedente da classe &quot;E&quot;, da carreira de Zelador, do Quadro I, do Ministério da Educação e Saúde.</p>\n<p>O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição,</p>\n<p>Resolve declara extinto um cargo da Classe E, da carreira de Zelador, do Quadro I, do Ministério da Educação e Saúde, vago em virtude da exoneração de José Maria Bello Filho, aproveirando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei nº 378 e atos posteriores.</p>\n<p>Rio de Janeiro, em 3 de setembro de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nGustavo Capanema</p>\n",
+          "sha256_html_renderizado": "733cfe4e12f5e2cf77f2d7ab96a579954727cc62ad51c261ca6179b7807d0776",
+          "texto_visivel": "Decreto nº 6.211, de 3 de Setembro de 1940 Extingue 1 cargo excedente da classe \"E\", da carreira de Zelador, do Quadro I, do Ministério da Educação e Saúde. O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe é conferida pelo art. 74, letra a, da Constituição, Resolve declara extinto um cargo da Classe E, da carreira de Zelador, do Quadro I, do Ministério da Educação e Saúde, vago em virtude da exoneração de José Maria Bello Filho, aproveirando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei nº 378 e atos posteriores. Rio de Janeiro, em 3 de setembro de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Gustavo Capanema"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6173-1940-08-27.md",
+      "sha256_candidato": "b277ffb7df0184ab7e1eef03ac10659d5a407e6bcf75911ea640f153ba1a23b2",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.173, de 27 de Agosto de 1940 Extingue um cargo excedente da classe B, da carreira de Servente do Quadro VII do Ministério da Educação e Saúde. O Presidente da República, usando das atribuições que lhe confere o art. 74, letra \"a\", da Constituição, resolve declarar extinto um cargo excedente da classe B, da carreira de Servente do Quadro VII do M.E.S., vago em virtude do falecimento de Venâncio Mello, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabela anexas à Lei nº 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei nº 378 e atos posteriores. Rio de Janeiro, 27 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Gustavo Capanema",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.173, de 27 de Agosto de 1940</p>\n<p>Extingue um cargo excedente da classe B, da carreira de Servente do Quadro VII do Ministério da Educação e Saúde.</p>\n<p>O Presidente da República, usando das atribuições que lhe confere o art. 74, letra &quot;<em>a&quot;,</em> da Constituição, resolve declarar extinto um cargo excedente da classe B, da carreira de Servente do Quadro VII do M.E.S., vago em virtude do falecimento de Venâncio Mello, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabela anexas à Lei nº 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei nº 378 e atos posteriores.</p>\n<p>Rio de Janeiro, 27 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br>Gustavo Capanema</p>\n",
+          "sha256_html_renderizado": "6e21d65162b40e943b1d62e4052853088b002265302c5acb17c26317bdb2f43c",
+          "texto_visivel": "Decreto nº 6.173, de 27 de Agosto de 1940 Extingue um cargo excedente da classe B, da carreira de Servente do Quadro VII do Ministério da Educação e Saúde. O Presidente da República, usando das atribuições que lhe confere o art. 74, letra \"a\", da Constituição, resolve declarar extinto um cargo excedente da classe B, da carreira de Servente do Quadro VII do M.E.S., vago em virtude do falecimento de Venâncio Mello, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabela anexas à Lei nº 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei nº 378 e atos posteriores. Rio de Janeiro, 27 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Gustavo Capanema"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.173, de 27 de Agosto de 1940</p>\n<p>Extingue um cargo excedente da classe B, da carreira de Servente do Quadro VII do Ministério da Educação e Saúde.</p>\n<p>O Presidente da República, usando das atribuições que lhe confere o art. 74, letra &quot;<em>a&quot;,</em> da Constituição, resolve declarar extinto um cargo excedente da classe B, da carreira de Servente do Quadro VII do M.E.S., vago em virtude do falecimento de Venâncio Mello, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabela anexas à Lei nº 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei nº 378 e atos posteriores.</p>\n<p>Rio de Janeiro, 27 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nGustavo Capanema</p>\n",
+          "sha256_html_renderizado": "fbc92c9b21f9bc311717d32d8c2d5fe5c384048bf9da7ed9b170b65757e0c79a",
+          "texto_visivel": "Decreto nº 6.173, de 27 de Agosto de 1940 Extingue um cargo excedente da classe B, da carreira de Servente do Quadro VII do Ministério da Educação e Saúde. O Presidente da República, usando das atribuições que lhe confere o art. 74, letra \"a\", da Constituição, resolve declarar extinto um cargo excedente da classe B, da carreira de Servente do Quadro VII do M.E.S., vago em virtude do falecimento de Venâncio Mello, aproveitando-se o saldo apurado dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na referida carreira do mesmo quadro, conforme dispõem as tabela anexas à Lei nº 284, de 28 de outubro de 1936, com as modificações determinadas pela Lei nº 378 e atos posteriores. Rio de Janeiro, 27 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Gustavo Capanema"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6175-1940-08-27.md",
+      "sha256_candidato": "e2f52d86c29d8f30f21f040ef19a263ec829f884a312e5e91f6e9fac7e56633f",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.175, de 27 de Agosto de 1940 Suprime cargo extinto. O Presidente da República resolve suprimir, por se achar vago o cargo de Hortelão, classe G, do Quadro I do Ministério da Justiça e Negócios Interiores. Rio de Janeiro, 27 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Francisco Campos",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.175, de 27 de Agosto de 1940</p>\n<p>Suprime cargo extinto.</p>\n<p>O Presidente da República resolve suprimir, por se achar vago o cargo de Hortelão, classe G, do Quadro I do Ministério da Justiça e Negócios Interiores.</p>\n<p>Rio de Janeiro, 27 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br>Francisco Campos</p>\n",
+          "sha256_html_renderizado": "2c2ee458201e2e940d80ac140e399cb79dcd49e626b67c5ec0f89e5d7938f4a0",
+          "texto_visivel": "Decreto nº 6.175, de 27 de Agosto de 1940 Suprime cargo extinto. O Presidente da República resolve suprimir, por se achar vago o cargo de Hortelão, classe G, do Quadro I do Ministério da Justiça e Negócios Interiores. Rio de Janeiro, 27 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Francisco Campos"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.175, de 27 de Agosto de 1940</p>\n<p>Suprime cargo extinto.</p>\n<p>O Presidente da República resolve suprimir, por se achar vago o cargo de Hortelão, classe G, do Quadro I do Ministério da Justiça e Negócios Interiores.</p>\n<p>Rio de Janeiro, 27 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nFrancisco Campos</p>\n",
+          "sha256_html_renderizado": "76ee8b34d6f95db9c4460c3989a54a767818c28c052611646e664d0ee4d4c321",
+          "texto_visivel": "Decreto nº 6.175, de 27 de Agosto de 1940 Suprime cargo extinto. O Presidente da República resolve suprimir, por se achar vago o cargo de Hortelão, classe G, do Quadro I do Ministério da Justiça e Negócios Interiores. Rio de Janeiro, 27 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Francisco Campos"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6147-1940-08-26.md",
+      "sha256_candidato": "60e2cab20f38f43469ffb94333f54d4f074aef5cb1a5bbdea2091c509e54f76d",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.147, de 26 de Agosto de 1940 Extingue cargo excedente. O Presidente da República, Resolve declarar extinto, por se achar vago, um (1) cargo excedente da classe 24, da carreira de Oficial Administrativo, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude de aposantadoria de Euclides Cícero de Carvalho. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.147, de 26 de Agosto de 1940</p>\n<p>Extingue cargo excedente.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, um (1) cargo excedente da classe 24, da carreira de Oficial Administrativo, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude de aposantadoria de Euclides Cícero de Carvalho.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.  </p>\n<p>GETÚLIO VARGAS<br>A. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "f51fb830da433a8a85edb6d5e0576d59c8dcfaf2e49cc6ae5a31bfd6fd51b8e7",
+          "texto_visivel": "Decreto nº 6.147, de 26 de Agosto de 1940 Extingue cargo excedente. O Presidente da República, Resolve declarar extinto, por se achar vago, um (1) cargo excedente da classe 24, da carreira de Oficial Administrativo, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude de aposantadoria de Euclides Cícero de Carvalho. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.147, de 26 de Agosto de 1940</p>\n<p>Extingue cargo excedente.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, um (1) cargo excedente da classe 24, da carreira de Oficial Administrativo, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude de aposantadoria de Euclides Cícero de Carvalho.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nA. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "b5d5bb41e0c2ae1b2e4cfb3e0efe99352414ea5ed0d12504a80c5fc19d2434af",
+          "texto_visivel": "Decreto nº 6.147, de 26 de Agosto de 1940 Extingue cargo excedente. O Presidente da República, Resolve declarar extinto, por se achar vago, um (1) cargo excedente da classe 24, da carreira de Oficial Administrativo, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude de aposantadoria de Euclides Cícero de Carvalho. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6149-1940-08-26.md",
+      "sha256_candidato": "42b014772f234814193663584d2fc5f7a0688fa4cf714c0744e102bc404be985",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.149, de 26 de Agosto de 1940 Extingue cargo excedente. O Presidente da República, Resolve declarar extinto, por se achar vago, um (1) cargo excedente da classe 20, da carreira de Oficial Administrativo, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do falecimento de Antônio Chaves de MAorais Bittencourt. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.149, de 26 de Agosto de 1940</p>\n<p>Extingue cargo excedente.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, um (1) cargo excedente da classe 20, da carreira de Oficial Administrativo, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do falecimento de Antônio Chaves de MAorais Bittencourt.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.  </p>\n<p>GETÚLIO VARGAS<br>A. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "375f8f5ad735320892d3b9cb47478739969c69e48ede2d59dcdf57f4e8da1150",
+          "texto_visivel": "Decreto nº 6.149, de 26 de Agosto de 1940 Extingue cargo excedente. O Presidente da República, Resolve declarar extinto, por se achar vago, um (1) cargo excedente da classe 20, da carreira de Oficial Administrativo, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do falecimento de Antônio Chaves de MAorais Bittencourt. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.149, de 26 de Agosto de 1940</p>\n<p>Extingue cargo excedente.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, um (1) cargo excedente da classe 20, da carreira de Oficial Administrativo, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do falecimento de Antônio Chaves de MAorais Bittencourt.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nA. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "f32d12607cf78f46985ffc76dada7f05117226537e349df0c006c218349cb66c",
+          "texto_visivel": "Decreto nº 6.149, de 26 de Agosto de 1940 Extingue cargo excedente. O Presidente da República, Resolve declarar extinto, por se achar vago, um (1) cargo excedente da classe 20, da carreira de Oficial Administrativo, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do falecimento de Antônio Chaves de MAorais Bittencourt. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6148-1940-08-26.md",
+      "sha256_candidato": "801e7dc0d98271eeac4539fb7f97adac6c9f3398f2a8515b138d55cc8ac98be2",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.148, de 26 de Agosto de 1940 Extingue cargo excedente. O Presidente da República, Resolve declarar extinto, por se achar vago, um (1) cargo excedente da classe 21, da carreira de Oficial Administrativo, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do vago existente na relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.148, de 26 de Agosto de 1940</p>\n<p>Extingue cargo excedente.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, um (1) cargo excedente da classe 21, da carreira de Oficial Administrativo, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do vago existente na relação nominal publicada no Suplemento do <em>&quot;Diário Oficial&quot;</em> de 29 de fevereiro de 1940.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.  </p>\n<p>GETÚLIO VARGAS<br>A. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "2e5ab510a16a5691fc8ec5db83b8098784c10376eae9e30d6a7461bcd0edfb92",
+          "texto_visivel": "Decreto nº 6.148, de 26 de Agosto de 1940 Extingue cargo excedente. O Presidente da República, Resolve declarar extinto, por se achar vago, um (1) cargo excedente da classe 21, da carreira de Oficial Administrativo, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do vago existente na relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.148, de 26 de Agosto de 1940</p>\n<p>Extingue cargo excedente.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, um (1) cargo excedente da classe 21, da carreira de Oficial Administrativo, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do vago existente na relação nominal publicada no Suplemento do <em>&quot;Diário Oficial&quot;</em> de 29 de fevereiro de 1940.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nA. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "f744e5d7d9a982d397547bc8e54c1a7dc2e0707e43c2daf6edb9df21afe6b0be",
+          "texto_visivel": "Decreto nº 6.148, de 26 de Agosto de 1940 Extingue cargo excedente. O Presidente da República, Resolve declarar extinto, por se achar vago, um (1) cargo excedente da classe 21, da carreira de Oficial Administrativo, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do vago existente na relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6151-1940-08-26.md",
+      "sha256_candidato": "f2822145c3e1bff973ed34b4191daf7ebc6d1108f10bd88b8f34f649116cfe00",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "DECRETO Nº 6.151, DE 26 DE AGOSTO DE 1940 Extingue cargos excedentes. O Presidente da República, Resolve declarar extinto, por se acharem vagos, dois (2) cargos excedentes da carreira de Escriturário, classe 11, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude de aposantadoria de Manoel Felix de Souza, e vaga constante da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>DECRETO Nº 6.151, DE 26 DE AGOSTO DE 1940</p>\n<p>Extingue cargos excedentes.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se acharem vagos, dois (2) cargos excedentes da carreira de Escriturário, classe 11, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude de aposantadoria de Manoel Felix de Souza, e vaga constante da relação nominal publicada no Suplemento do <em>&quot;Diário Oficial&quot;</em> de 29 de fevereiro de 1940.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.  </p>\n<p>GETÚLIO VARGAS<br>A. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "a98babb746ac77418851b6158210db11e3b9d09d61f2ec36c51c59def387e262",
+          "texto_visivel": "DECRETO Nº 6.151, DE 26 DE AGOSTO DE 1940 Extingue cargos excedentes. O Presidente da República, Resolve declarar extinto, por se acharem vagos, dois (2) cargos excedentes da carreira de Escriturário, classe 11, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude de aposantadoria de Manoel Felix de Souza, e vaga constante da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>DECRETO Nº 6.151, DE 26 DE AGOSTO DE 1940</p>\n<p>Extingue cargos excedentes.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se acharem vagos, dois (2) cargos excedentes da carreira de Escriturário, classe 11, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude de aposantadoria de Manoel Felix de Souza, e vaga constante da relação nominal publicada no Suplemento do <em>&quot;Diário Oficial&quot;</em> de 29 de fevereiro de 1940.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nA. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "35d3590a8d31a46028c467e9975001b1a7b36447807c586fc7d08fca4df65af9",
+          "texto_visivel": "DECRETO Nº 6.151, DE 26 DE AGOSTO DE 1940 Extingue cargos excedentes. O Presidente da República, Resolve declarar extinto, por se acharem vagos, dois (2) cargos excedentes da carreira de Escriturário, classe 11, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude de aposantadoria de Manoel Felix de Souza, e vaga constante da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6152-1940-08-26.md",
+      "sha256_candidato": "4bd88ff600be297db8c59b4ebeb117101f4ade7f1c86ec63716c2ce48d60acf0",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.152, de 26 de Agosto de 1940 Extingue cargos excedentes. O Presidente da República, Resolve declarar extinto, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\", de 29 de fevereiro de 1940, dois (2) cargos excedentes da classe 10, da carreira de Escriturário, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.152, de 26 de Agosto de 1940</p>\n<p>Extingue cargos excedentes.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do <em>&quot;Diário Oficial&quot;,</em> de 29 de fevereiro de 1940, dois (2) cargos excedentes da classe 10, da carreira de Escriturário, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.  </p>\n<p>GETÚLIO VARGAS<br>A. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "0caaa652e7ef6364170aa4d0499c720cc6dcf59dfe44c0ef95705dc8639a1bbe",
+          "texto_visivel": "Decreto nº 6.152, de 26 de Agosto de 1940 Extingue cargos excedentes. O Presidente da República, Resolve declarar extinto, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\", de 29 de fevereiro de 1940, dois (2) cargos excedentes da classe 10, da carreira de Escriturário, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.152, de 26 de Agosto de 1940</p>\n<p>Extingue cargos excedentes.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do <em>&quot;Diário Oficial&quot;,</em> de 29 de fevereiro de 1940, dois (2) cargos excedentes da classe 10, da carreira de Escriturário, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nA. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "919ed14f432e21c74de0d10134a547fd0b05394e8c179ede4a830e4368112fdd",
+          "texto_visivel": "Decreto nº 6.152, de 26 de Agosto de 1940 Extingue cargos excedentes. O Presidente da República, Resolve declarar extinto, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\", de 29 de fevereiro de 1940, dois (2) cargos excedentes da classe 10, da carreira de Escriturário, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6153-1940-08-26.md",
+      "sha256_candidato": "75aaefd3169be61effc0be31bc80b2fc8a6733f94d851c4790d2ce9bd433ae27",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.153, de 26 de Agosto de 1940 Extingue cargos excedentes. O Presidente da República, Resolve declarar extinto, por se acharem vagos, oito (8) cargos excedentes da classe 8, da carreira de Escriturário, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude di falecimento de Artur Torres da Silva e sete cargos constantes da relação nominal publicada no Suplemento do \" Diário Oficial\" de 29 de fevereiro de 1940. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.153, de 26 de Agosto de 1940</p>\n<p>Extingue cargos excedentes.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se acharem vagos, oito (8) cargos excedentes da classe 8, da carreira de Escriturário, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude di falecimento de Artur Torres da Silva e sete cargos constantes da relação nominal publicada no Suplemento do <em>&quot; Diário Oficial&quot;</em> de 29 de fevereiro de 1940.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.  </p>\n<p>GETÚLIO VARGAS<br>A. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "f7a2bf852b84079a2fe143ad0aba4ba2d8ee9926d6518d2c7fef95d9bfe6ce66",
+          "texto_visivel": "Decreto nº 6.153, de 26 de Agosto de 1940 Extingue cargos excedentes. O Presidente da República, Resolve declarar extinto, por se acharem vagos, oito (8) cargos excedentes da classe 8, da carreira de Escriturário, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude di falecimento de Artur Torres da Silva e sete cargos constantes da relação nominal publicada no Suplemento do \" Diário Oficial\" de 29 de fevereiro de 1940. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.153, de 26 de Agosto de 1940</p>\n<p>Extingue cargos excedentes.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se acharem vagos, oito (8) cargos excedentes da classe 8, da carreira de Escriturário, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude di falecimento de Artur Torres da Silva e sete cargos constantes da relação nominal publicada no Suplemento do <em>&quot; Diário Oficial&quot;</em> de 29 de fevereiro de 1940.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nA. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "2af6f7186c2d280b3fb24939432eb7a41740995109fcbd23ca2e3c904c959f9c",
+          "texto_visivel": "Decreto nº 6.153, de 26 de Agosto de 1940 Extingue cargos excedentes. O Presidente da República, Resolve declarar extinto, por se acharem vagos, oito (8) cargos excedentes da classe 8, da carreira de Escriturário, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude di falecimento de Artur Torres da Silva e sete cargos constantes da relação nominal publicada no Suplemento do \" Diário Oficial\" de 29 de fevereiro de 1940. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6154-1940-08-26.md",
+      "sha256_candidato": "a8d0411e96f235785e6549247646dc4e82b467d04d3082d14291598055386bac",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.154, de 26 de Agosto de 1940 Extingue cargos excedentes. O Presidente da República, Resolve declarar extinto, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940, dois (2) cargos excedentes da classe 6, da carreira de Escriturário, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.154, de 26 de Agosto de 1940</p>\n<p>Extingue cargos excedentes.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do <em>&quot;Diário Oficial&quot;</em> de 29 de fevereiro de 1940, dois (2) cargos excedentes da classe 6, da carreira de Escriturário, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.  </p>\n<p>GETÚLIO VARGAS<br>A. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "8769981e6e633eacbab471df8b7bf93c10d14bd4ae5919ac827a888cd1b35cfc",
+          "texto_visivel": "Decreto nº 6.154, de 26 de Agosto de 1940 Extingue cargos excedentes. O Presidente da República, Resolve declarar extinto, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940, dois (2) cargos excedentes da classe 6, da carreira de Escriturário, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.154, de 26 de Agosto de 1940</p>\n<p>Extingue cargos excedentes.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do <em>&quot;Diário Oficial&quot;</em> de 29 de fevereiro de 1940, dois (2) cargos excedentes da classe 6, da carreira de Escriturário, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nA. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "8f25d6781916afa755fb5664107a8b99d496b098e56d7119890f2f206d49bdae",
+          "texto_visivel": "Decreto nº 6.154, de 26 de Agosto de 1940 Extingue cargos excedentes. O Presidente da República, Resolve declarar extinto, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940, dois (2) cargos excedentes da classe 6, da carreira de Escriturário, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6155-1940-08-26.md",
+      "sha256_candidato": "7a15859d786d984f3b7aa15f5590f2cc45e9530bcd9c8836c31602cde842aed8",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.155, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extinto, por se achar vago, um (1) cargo de intendente, da classe 26, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na carreira de Engenheiro, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude da promoção de Lourival Teles de Menezes. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.155, de 26 de Agosto de 1940</p>\n<p>Suprime cargo extinto.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, um (1) cargo de intendente, da classe 26, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na carreira de Engenheiro, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude da promoção de Lourival Teles de Menezes.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.  </p>\n<p>GETÚLIO VARGAS<br>A. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "6260e3eea993104e18016caed99b43147612a2a4169dfdcc1b8f4533790a11af",
+          "texto_visivel": "Decreto nº 6.155, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extinto, por se achar vago, um (1) cargo de intendente, da classe 26, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na carreira de Engenheiro, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude da promoção de Lourival Teles de Menezes. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.155, de 26 de Agosto de 1940</p>\n<p>Suprime cargo extinto.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, um (1) cargo de intendente, da classe 26, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na carreira de Engenheiro, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude da promoção de Lourival Teles de Menezes.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nA. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "9c0db9d26cfbed5eb8b026c04ead0a2b6d83930c776a15eb3ad010a02d76c954",
+          "texto_visivel": "Decreto nº 6.155, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extinto, por se achar vago, um (1) cargo de intendente, da classe 26, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na carreira de Engenheiro, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude da promoção de Lourival Teles de Menezes. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6157-1940-08-26.md",
+      "sha256_candidato": "3c8e7ece5a6a9c3cb3fd680f15d6cdfdf30a1fc062e5400e1d9ff48a25c30d5c",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.157, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extinto, por se achar vago, um (1) cargo de Operário de Artes Gráficas, da classe C, do Quadro Suplementar, do Ministério da Fazenda, conforme dispõe o parágrafo único, do art.3º, do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do falecimento de Armando Verdi. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.157, de 26 de Agosto de 1940</p>\n<p>Suprime cargo extinto.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, um (1) cargo de Operário de Artes Gráficas, da classe C, do Quadro Suplementar, do Ministério da Fazenda, conforme dispõe o parágrafo único, do art.3º, do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do falecimento de Armando Verdi.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.  </p>\n<p>GETÚLIO VARGAS<br>A. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "acbbb9999b9c8a095da4aa08f5f8832e32323a78a4794af6cecfa011fb464ab2",
+          "texto_visivel": "Decreto nº 6.157, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extinto, por se achar vago, um (1) cargo de Operário de Artes Gráficas, da classe C, do Quadro Suplementar, do Ministério da Fazenda, conforme dispõe o parágrafo único, do art.3º, do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do falecimento de Armando Verdi. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.157, de 26 de Agosto de 1940</p>\n<p>Suprime cargo extinto.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, um (1) cargo de Operário de Artes Gráficas, da classe C, do Quadro Suplementar, do Ministério da Fazenda, conforme dispõe o parágrafo único, do art.3º, do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do falecimento de Armando Verdi.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nA. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "5dddac33811112dd470bdeec0122ff106b934cb8707f51f58f7b79c485d1101c",
+          "texto_visivel": "Decreto nº 6.157, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extinto, por se achar vago, um (1) cargo de Operário de Artes Gráficas, da classe C, do Quadro Suplementar, do Ministério da Fazenda, conforme dispõe o parágrafo único, do art.3º, do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do falecimento de Armando Verdi. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6150-1940-08-26.md",
+      "sha256_candidato": "80a1a6b87316be4666c0a03176b380263eaf8837b3af2a1e9c4ecad22059c164",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.150, de 26 de Agosto de 1940 Extingue cargo excedente. O Presidente da República, Resolve declarar extinto, por se acharem vagos, dois (2) cargos excedentes da classe 18, da carreira de Oficial Administrativo, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do falecimento de Pedro Tavares Dias Pessoa e Manoel Alves Garcia. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.150, de 26 de Agosto de 1940</p>\n<p>Extingue cargo excedente.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se acharem vagos, dois (2) cargos excedentes da classe 18, da carreira de Oficial Administrativo, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do falecimento de Pedro Tavares Dias Pessoa e Manoel Alves Garcia.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.  </p>\n<p>GETÚLIO VARGAS<br>A. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "5bc767ed9073640d1568df47212b95e027e15026fb6319daf9df8f2b87f64212",
+          "texto_visivel": "Decreto nº 6.150, de 26 de Agosto de 1940 Extingue cargo excedente. O Presidente da República, Resolve declarar extinto, por se acharem vagos, dois (2) cargos excedentes da classe 18, da carreira de Oficial Administrativo, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do falecimento de Pedro Tavares Dias Pessoa e Manoel Alves Garcia. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.150, de 26 de Agosto de 1940</p>\n<p>Extingue cargo excedente.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se acharem vagos, dois (2) cargos excedentes da classe 18, da carreira de Oficial Administrativo, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do falecimento de Pedro Tavares Dias Pessoa e Manoel Alves Garcia.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nA. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "f2e3cf6962203e6452553e4f14523b597b7c5e4829cbfe19a463a561e8568f7e",
+          "texto_visivel": "Decreto nº 6.150, de 26 de Agosto de 1940 Extingue cargo excedente. O Presidente da República, Resolve declarar extinto, por se acharem vagos, dois (2) cargos excedentes da classe 18, da carreira de Oficial Administrativo, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na mesma carreira e quadro, conforme dispõe o art. 5º do Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do falecimento de Pedro Tavares Dias Pessoa e Manoel Alves Garcia. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6159-1940-08-26.md",
+      "sha256_candidato": "c896b4347cf132be89292651bdcaea2c5dc9fd6eb4d8d0581d94f799843fe042",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.159, de 26 de Agosto de 1940 Extingue cargo excedente. O Presidente da República, Resolve declarar extinto, por se achar vago, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940, um (1) cargo excedente da classe 28, da Carreira de Contador, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na carreira de Engenheiro, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939.Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.159, de 26 de Agosto de 1940</p>\n<p>Extingue cargo excedente.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, conforme consta da relação nominal publicada no Suplemento do <em>&quot;Diário Oficial&quot;</em> de 29 de fevereiro de 1940, um (1) cargo excedente da classe 28, da Carreira de Contador, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na carreira de Engenheiro, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939.Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.  </p>\n<p>GETÚLIO VARGAS<br>A. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "55c00176939e0d767f53b032ee4d886875b33896d59d5a1ad60ee0f1c9d58497",
+          "texto_visivel": "Decreto nº 6.159, de 26 de Agosto de 1940 Extingue cargo excedente. O Presidente da República, Resolve declarar extinto, por se achar vago, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940, um (1) cargo excedente da classe 28, da Carreira de Contador, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na carreira de Engenheiro, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939.Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.159, de 26 de Agosto de 1940</p>\n<p>Extingue cargo excedente.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, conforme consta da relação nominal publicada no Suplemento do <em>&quot;Diário Oficial&quot;</em> de 29 de fevereiro de 1940, um (1) cargo excedente da classe 28, da Carreira de Contador, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na carreira de Engenheiro, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939.Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nA. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "4e6674c40c0ddf20f47e9c27729acf0f2ec95d943687da94432684a934cff34a",
+          "texto_visivel": "Decreto nº 6.159, de 26 de Agosto de 1940 Extingue cargo excedente. O Presidente da República, Resolve declarar extinto, por se achar vago, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940, um (1) cargo excedente da classe 28, da Carreira de Contador, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargo vago na carreira de Engenheiro, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939.Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6160-1940-08-26.md",
+      "sha256_candidato": "3cb62c47d9da2c89416e0a53ce98febfdf6a2360f39bc63de8e9c74c365cda0d",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.160, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extinto, por se achar vago, um (1) cargo de Escriturário, classe 3, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude da aposentadoria de João Francisco da Silveira. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.160, de 26 de Agosto de 1940</p>\n<p>Suprime cargo extinto.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, um (1) cargo de Escriturário, classe 3, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude da aposentadoria de João Francisco da Silveira.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.  </p>\n<p>GETÚLIO VARGAS<br>A. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "0740cc133f79501c5beb62dac202dec2d7b32051c477a111492cdb1001997933",
+          "texto_visivel": "Decreto nº 6.160, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extinto, por se achar vago, um (1) cargo de Escriturário, classe 3, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude da aposentadoria de João Francisco da Silveira. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.160, de 26 de Agosto de 1940</p>\n<p>Suprime cargo extinto.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, um (1) cargo de Escriturário, classe 3, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude da aposentadoria de João Francisco da Silveira.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nA. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "0c04c4957b27f53d3806d5b86f561b464f8fe22cb331e9c0f6a5b52a77845c23",
+          "texto_visivel": "Decreto nº 6.160, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extinto, por se achar vago, um (1) cargo de Escriturário, classe 3, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude da aposentadoria de João Francisco da Silveira. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6161-1940-08-26.md",
+      "sha256_candidato": "012696ceecba08053bf497fd1ecdddfb878129c8244b2316259fdef466bc1835",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.161, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extintos, por se acharem vagos, conforme consta da relação nominal publicada no Suplementp do \" Diário Oficial\", de 29 de fevereiro de 1940, dois (2) cargos de Escriturário, classe 3, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira, do Quadro Permanente, conforme dispõe o artigo 3º parágrafo único, do Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.161, de 26 de Agosto de 1940</p>\n<p>Suprime cargo extinto.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extintos, por se acharem vagos, conforme consta da relação nominal publicada no Suplementp do <em>&quot; Diário Oficial&quot;,</em> de 29 de fevereiro de 1940, dois (2) cargos de Escriturário, classe 3, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira, do Quadro Permanente, conforme dispõe o artigo 3º parágrafo único, do Decreto-lei nº 1.847, de 7 de dezembro de 1939.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.  </p>\n<p>GETÚLIO VARGAS<br>A. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "90c8f11e84cb21fffa67f1d010ef0b9bed51ae31be609d90f7d2dd58b91b829f",
+          "texto_visivel": "Decreto nº 6.161, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extintos, por se acharem vagos, conforme consta da relação nominal publicada no Suplementp do \" Diário Oficial\", de 29 de fevereiro de 1940, dois (2) cargos de Escriturário, classe 3, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira, do Quadro Permanente, conforme dispõe o artigo 3º parágrafo único, do Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.161, de 26 de Agosto de 1940</p>\n<p>Suprime cargo extinto.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extintos, por se acharem vagos, conforme consta da relação nominal publicada no Suplementp do <em>&quot; Diário Oficial&quot;,</em> de 29 de fevereiro de 1940, dois (2) cargos de Escriturário, classe 3, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira, do Quadro Permanente, conforme dispõe o artigo 3º parágrafo único, do Decreto-lei nº 1.847, de 7 de dezembro de 1939.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nA. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "e851fbf257d4f02a581df0f22691fa2c3750c925a42df08ee89fae39746ddd42",
+          "texto_visivel": "Decreto nº 6.161, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extintos, por se acharem vagos, conforme consta da relação nominal publicada no Suplementp do \" Diário Oficial\", de 29 de fevereiro de 1940, dois (2) cargos de Escriturário, classe 3, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira, do Quadro Permanente, conforme dispõe o artigo 3º parágrafo único, do Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6162-1940-08-26.md",
+      "sha256_candidato": "bdc510ff9093ba7c64498dfcc50f16d661427b22698f536327423c9efb30f2f6",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.162, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extintos, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940, dezesseis (16) cargos da classe A, da carreira de Marinheiro, do Quadro Suplementar, do Ministério da Fazenda, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.162, de 26 de Agosto de 1940</p>\n<p>Suprime cargo extinto.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extintos, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do <em>&quot;Diário Oficial&quot;</em> de 29 de fevereiro de 1940, dezesseis (16) cargos da classe A, da carreira de Marinheiro, do Quadro Suplementar, do Ministério da Fazenda, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.  </p>\n<p>GETÚLIO VARGAS<br>A. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "5e2ab338b712e7259bf482bd5c8557a2edc6623bbd18a2896f6e4033eb555222",
+          "texto_visivel": "Decreto nº 6.162, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extintos, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940, dezesseis (16) cargos da classe A, da carreira de Marinheiro, do Quadro Suplementar, do Ministério da Fazenda, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.162, de 26 de Agosto de 1940</p>\n<p>Suprime cargo extinto.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extintos, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do <em>&quot;Diário Oficial&quot;</em> de 29 de fevereiro de 1940, dezesseis (16) cargos da classe A, da carreira de Marinheiro, do Quadro Suplementar, do Ministério da Fazenda, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nA. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "8e05f431020808a736ddbc593b971504f06892b1eb07900c1e14f9746eab64d7",
+          "texto_visivel": "Decreto nº 6.162, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extintos, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940, dezesseis (16) cargos da classe A, da carreira de Marinheiro, do Quadro Suplementar, do Ministério da Fazenda, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6163-1940-08-26.md",
+      "sha256_candidato": "77893a84a8ca8c3b0e01adb3cae9bc2f5e0b640c007960a87f0a076de7462ae7",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.163, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extintos, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940, vinte e seis (26) cargos de Trabalhador, classe A, do Quadro Suplementar, do Ministério da Fazenda, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.163, de 26 de Agosto de 1940</p>\n<p>Suprime cargo extinto.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extintos, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do <em>&quot;Diário Oficial&quot;</em> de 29 de fevereiro de 1940, vinte e seis (26) cargos de Trabalhador, classe A, do Quadro Suplementar, do Ministério da Fazenda, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.  </p>\n<p>GETÚLIO VARGAS<br>A. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "f27ca656e68e0d60a5d555d7618781ae4542b2f0b36108b0a327759936572131",
+          "texto_visivel": "Decreto nº 6.163, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extintos, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940, vinte e seis (26) cargos de Trabalhador, classe A, do Quadro Suplementar, do Ministério da Fazenda, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.163, de 26 de Agosto de 1940</p>\n<p>Suprime cargo extinto.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extintos, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do <em>&quot;Diário Oficial&quot;</em> de 29 de fevereiro de 1940, vinte e seis (26) cargos de Trabalhador, classe A, do Quadro Suplementar, do Ministério da Fazenda, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nA. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "e71732327a3907b666aa63adecff67c623ab279c23d11e5dbda4d8a32b5ddc38",
+          "texto_visivel": "Decreto nº 6.163, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extintos, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940, vinte e seis (26) cargos de Trabalhador, classe A, do Quadro Suplementar, do Ministério da Fazenda, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6164-1940-08-26.md",
+      "sha256_candidato": "162e5ff7416bec3bc68b930503ad1763fc84a23d67620f36632f7e96c2731d59",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.164, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extinto, por se achar vago, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940, um (1) cargo de Contador, classe 17, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global - do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.164, de 26 de Agosto de 1940</p>\n<p>Suprime cargo extinto.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, conforme consta da relação nominal publicada no Suplemento do <em>&quot;Diário Oficial&quot;</em> de 29 de fevereiro de 1940, um (1) cargo de Contador, classe 17, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global - do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.  </p>\n<p>GETÚLIO VARGAS<br>A. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "3fa24036c6abe3d513bdd08744bb39f9546d81ea36ca5974d1799530dbbc41be",
+          "texto_visivel": "Decreto nº 6.164, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extinto, por se achar vago, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940, um (1) cargo de Contador, classe 17, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global - do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.164, de 26 de Agosto de 1940</p>\n<p>Suprime cargo extinto.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, conforme consta da relação nominal publicada no Suplemento do <em>&quot;Diário Oficial&quot;</em> de 29 de fevereiro de 1940, um (1) cargo de Contador, classe 17, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global - do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nA. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "4429bfbef2989158099a412b8b8bc1e249f87943225ddff9db48faf3595547c2",
+          "texto_visivel": "Decreto nº 6.164, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extinto, por se achar vago, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940, um (1) cargo de Contador, classe 17, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global - do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6165-1940-08-26.md",
+      "sha256_candidato": "f027defbe228ad5243d96f9e3c40744ab255a07416a8d8f4b74c79fa47a8a9bf",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.165, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extintos, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940, três (3) cargos da classe A, da carreira de Escrivão, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global - do respectivo orçamento, para o preenchimento de cargos vagos na carreira de Escriturário, do Quadro Permanente, como dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.165, de 26 de Agosto de 1940</p>\n<p>Suprime cargo extinto.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extintos, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do <em>&quot;Diário Oficial&quot;</em> de 29 de fevereiro de 1940, três (3) cargos da classe A, da carreira de Escrivão, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global - do respectivo orçamento, para o preenchimento de cargos vagos na carreira de Escriturário, do Quadro Permanente, como dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.  </p>\n<p>GETÚLIO VARGAS<br>A. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "c07e851116f31ce5263139c2cf6d3be3353f2fcadf607255c7054748d8c0cf36",
+          "texto_visivel": "Decreto nº 6.165, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extintos, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940, três (3) cargos da classe A, da carreira de Escrivão, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global - do respectivo orçamento, para o preenchimento de cargos vagos na carreira de Escriturário, do Quadro Permanente, como dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.165, de 26 de Agosto de 1940</p>\n<p>Suprime cargo extinto.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extintos, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do <em>&quot;Diário Oficial&quot;</em> de 29 de fevereiro de 1940, três (3) cargos da classe A, da carreira de Escrivão, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global - do respectivo orçamento, para o preenchimento de cargos vagos na carreira de Escriturário, do Quadro Permanente, como dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nA. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "b515afe1d1fd9c0d0328ef91ef1e27e685bf7537a243ee1f7a5ce7c0de3515fd",
+          "texto_visivel": "Decreto nº 6.165, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extintos, por se acharem vagos, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940, três (3) cargos da classe A, da carreira de Escrivão, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global - do respectivo orçamento, para o preenchimento de cargos vagos na carreira de Escriturário, do Quadro Permanente, como dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6166-1940-08-26.md",
+      "sha256_candidato": "eca4338bcb76fa4edc7752cb6a360650ebbb0b1c69a76a3c4cc7db2d459d970e",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.166, de 26 de Agosto de 1940 Extingue cargo excedente. O Presidente da República, Resolve declarar extinto, por se achar vago, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940, um (1) cargo excedente da carreira de Escriturário, classe 8, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global - do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira e Quadro, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.166, de 26 de Agosto de 1940</p>\n<p>Extingue cargo excedente.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, conforme consta da relação nominal publicada no Suplemento do <em>&quot;Diário Oficial&quot;</em> de 29 de fevereiro de 1940, um (1) cargo excedente da carreira de Escriturário, classe 8, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global - do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira e Quadro, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.  </p>\n<p>GETÚLIO VARGAS<br>A. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "beffc5d8157529112f6b1212033dc5e85fb624424a37eb07179e1757ec8c0ded",
+          "texto_visivel": "Decreto nº 6.166, de 26 de Agosto de 1940 Extingue cargo excedente. O Presidente da República, Resolve declarar extinto, por se achar vago, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940, um (1) cargo excedente da carreira de Escriturário, classe 8, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global - do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira e Quadro, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.166, de 26 de Agosto de 1940</p>\n<p>Extingue cargo excedente.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, conforme consta da relação nominal publicada no Suplemento do <em>&quot;Diário Oficial&quot;</em> de 29 de fevereiro de 1940, um (1) cargo excedente da carreira de Escriturário, classe 8, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global - do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira e Quadro, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nA. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "8f347ceb968da97cb605f36c59fbccd491221790075286ec71f5ae65e6cf4374",
+          "texto_visivel": "Decreto nº 6.166, de 26 de Agosto de 1940 Extingue cargo excedente. O Presidente da República, Resolve declarar extinto, por se achar vago, conforme consta da relação nominal publicada no Suplemento do \"Diário Oficial\" de 29 de fevereiro de 1940, um (1) cargo excedente da carreira de Escriturário, classe 8, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global - do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira e Quadro, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6167-1940-08-26.md",
+      "sha256_candidato": "9c5257dbcfae0603da8acbc4a6d85214d332e15b3d7b404a12e2115522d48299",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.167, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extinto, por se achar vago, um (1) cargo de Engenheiro, classe 19, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do falecimento de Benedito de Oliveira Leite. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.167, de 26 de Agosto de 1940</p>\n<p>Suprime cargo extinto.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, um (1) cargo de Engenheiro, classe 19, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do falecimento de Benedito de Oliveira Leite.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.  </p>\n<p>GETÚLIO VARGAS<br>A. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "679adfa021fb68764d4e76e38dfcc878316e88a620c051fc504c095ae9ccb715",
+          "texto_visivel": "Decreto nº 6.167, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extinto, por se achar vago, um (1) cargo de Engenheiro, classe 19, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do falecimento de Benedito de Oliveira Leite. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.167, de 26 de Agosto de 1940</p>\n<p>Suprime cargo extinto.</p>\n<p>O Presidente da República,</p>\n<p>Resolve declarar extinto, por se achar vago, um (1) cargo de Engenheiro, classe 19, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do falecimento de Benedito de Oliveira Leite.</p>\n<p>Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nA. de Sousa Costa</p>\n",
+          "sha256_html_renderizado": "149f73980e16f72bb04a47f1c5a7345bd13eed6cd32ad758fa5cf09d60a2a828",
+          "texto_visivel": "Decreto nº 6.167, de 26 de Agosto de 1940 Suprime cargo extinto. O Presidente da República, Resolve declarar extinto, por se achar vago, um (1) cargo de Engenheiro, classe 19, do Quadro Suplementar, do Ministério da Fazenda, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para o preenchimento de cargos vagos na mesma carreira, do Quadro Permanente, conforme dispõem as tabelas anexas ao Decreto-lei nº 1.847, de 7 de dezembro de 1939, em virtude do falecimento de Benedito de Oliveira Leite. Rio de Janeiro, 26 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS A. de Sousa Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6136-1940-08-22.md",
+      "sha256_candidato": "38067b84481dc1e38d9d7a1cb5246d7deee76c599bdde31abe1ad4550d0f671b",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.136, de 22 de Agosto de 1940 Extingue um (1) cargo excedente da classe J, da carreira de agrônomo do Ensino Agrícola do Quadro único do Ministério da Agricultura. O Presidente da República resolve declarar extinto, por se achar vago, em virtude do falecimento de Henrique Cesar da Fonseca Vaz, um (1) cargo excedente da classe J. da carreira de Agrônomo do ensino agrícola, do Quadro único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na carreira de Agrônomo, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936. Rio de Janeiro, em 22 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Fernando Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.136, de 22 de Agosto de 1940</p>\n<p>Extingue um (1) cargo excedente da classe J, da carreira de agrônomo do Ensino Agrícola do Quadro único do Ministério da Agricultura.</p>\n<p>O Presidente da República resolve declarar extinto, por se achar vago, em virtude do falecimento de Henrique Cesar da Fonseca Vaz, um (1) cargo excedente da classe J. da carreira de Agrônomo do ensino agrícola, do Quadro único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na carreira de Agrônomo, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, em 22 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br>Fernando Costa</p>\n",
+          "sha256_html_renderizado": "f999fb8fac92da5281ac6607fff62db920959223250b8b2a267df7ce9ff2e3e4",
+          "texto_visivel": "Decreto nº 6.136, de 22 de Agosto de 1940 Extingue um (1) cargo excedente da classe J, da carreira de agrônomo do Ensino Agrícola do Quadro único do Ministério da Agricultura. O Presidente da República resolve declarar extinto, por se achar vago, em virtude do falecimento de Henrique Cesar da Fonseca Vaz, um (1) cargo excedente da classe J. da carreira de Agrônomo do ensino agrícola, do Quadro único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na carreira de Agrônomo, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936. Rio de Janeiro, em 22 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Fernando Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.136, de 22 de Agosto de 1940</p>\n<p>Extingue um (1) cargo excedente da classe J, da carreira de agrônomo do Ensino Agrícola do Quadro único do Ministério da Agricultura.</p>\n<p>O Presidente da República resolve declarar extinto, por se achar vago, em virtude do falecimento de Henrique Cesar da Fonseca Vaz, um (1) cargo excedente da classe J. da carreira de Agrônomo do ensino agrícola, do Quadro único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na carreira de Agrônomo, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, em 22 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nFernando Costa</p>\n",
+          "sha256_html_renderizado": "530d06670178a6366f6ab8ea95c908091b9b6aae54dd89726940297e037dfd4c",
+          "texto_visivel": "Decreto nº 6.136, de 22 de Agosto de 1940 Extingue um (1) cargo excedente da classe J, da carreira de agrônomo do Ensino Agrícola do Quadro único do Ministério da Agricultura. O Presidente da República resolve declarar extinto, por se achar vago, em virtude do falecimento de Henrique Cesar da Fonseca Vaz, um (1) cargo excedente da classe J. da carreira de Agrônomo do ensino agrícola, do Quadro único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na carreira de Agrônomo, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936. Rio de Janeiro, em 22 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Fernando Costa"
+        }
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6137-1940-08-22.md",
+      "sha256_candidato": "2955de3423ce803c56d2a61e56817d6c09d6fc5d9f9b0c5a605ee615035b8633",
+      "aprovado": true,
+      "checks": {
+        "marked17": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        },
+        "commonmark_markdown_it4": {
+          "texto_pontuacao": true,
+          "assinatura_numerica": true,
+          "contextos_numericos": true,
+          "matriz_tabelas": true,
+          "sem_novas_listas": true,
+          "sem_objetos_visuais": true
+        }
+      },
+      "texto_visivel_fonte": "Decreto nº 6.137, de 22 de Agosto de 1940 Extingue um (1) cargo excedente da classe C, da carreira de Servente do Quadro único do Ministério da Agricultura. O Presidente da República resolve declarar extinto, por se achar vago, em virtude da aposentadoria de Leopoldo Caldeira Pinheiro Machado, um (1) cargo excedente da classeC da carreira de Servente, do Quadro único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na carreira de Agrônomo, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936. Rio de Janeiro, em 22 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Fernando Costa",
+      "renders": {
+        "marked17": {
+          "html_renderizado": "<p>Decreto nº 6.137, de 22 de Agosto de 1940</p>\n<p>Extingue um (1) cargo excedente da classe C, da carreira de Servente do Quadro único do Ministério da Agricultura.</p>\n<p>O Presidente da República resolve declarar extinto, por se achar vago, em virtude da aposentadoria de Leopoldo Caldeira Pinheiro Machado, um (1) cargo excedente da classeC da carreira de Servente, do Quadro único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na carreira de Agrônomo, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, em 22 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br>Fernando Costa</p>\n",
+          "sha256_html_renderizado": "39ae71422d8eb26aae50ca2b542c40281eac11e071a06f6ea041af214eb857f1",
+          "texto_visivel": "Decreto nº 6.137, de 22 de Agosto de 1940 Extingue um (1) cargo excedente da classe C, da carreira de Servente do Quadro único do Ministério da Agricultura. O Presidente da República resolve declarar extinto, por se achar vago, em virtude da aposentadoria de Leopoldo Caldeira Pinheiro Machado, um (1) cargo excedente da classeC da carreira de Servente, do Quadro único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na carreira de Agrônomo, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936. Rio de Janeiro, em 22 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Fernando Costa"
+        },
+        "commonmark_markdown_it4": {
+          "html_renderizado": "<p>Decreto nº 6.137, de 22 de Agosto de 1940</p>\n<p>Extingue um (1) cargo excedente da classe C, da carreira de Servente do Quadro único do Ministério da Agricultura.</p>\n<p>O Presidente da República resolve declarar extinto, por se achar vago, em virtude da aposentadoria de Leopoldo Caldeira Pinheiro Machado, um (1) cargo excedente da classeC da carreira de Servente, do Quadro único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na carreira de Agrônomo, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936.</p>\n<p>Rio de Janeiro, em 22 de agosto de 1940, 119º da Independência e 52º da República.</p>\n<p>GETÚLIO VARGAS<br />\nFernando Costa</p>\n",
+          "sha256_html_renderizado": "f73f78a29b7c52d1a47c5581207bd13446f114ddf0c39850b6e94de0b56de3af",
+          "texto_visivel": "Decreto nº 6.137, de 22 de Agosto de 1940 Extingue um (1) cargo excedente da classe C, da carreira de Servente do Quadro único do Ministério da Agricultura. O Presidente da República resolve declarar extinto, por se achar vago, em virtude da aposentadoria de Leopoldo Caldeira Pinheiro Machado, um (1) cargo excedente da classeC da carreira de Servente, do Quadro único do Ministério da Agricultura, aproveitando-se o saldo apurado, dentro da verba global do respectivo orçamento, para preenchimento de cargos vagos na carreira de Agrônomo, conforme dispõem as tabelas anexas à Lei nº 284, de 28 de outubro de 1936. Rio de Janeiro, em 22 de agosto de 1940, 119º da Independência e 52º da República. GETÚLIO VARGAS Fernando Costa"
+        }
+      }
+    }
+  ],
+  "limites": "Candidatos privados. Busca não prova identidade; epígrafe própria, fecho, índice/API e fonte integral são gates separados. Pontuação e estrutura verificadas em dois motores; CSS não certificado. Listas HTML e listas novas geradas ficam retidas para QA específico, sem relaxar comparadores."
+}

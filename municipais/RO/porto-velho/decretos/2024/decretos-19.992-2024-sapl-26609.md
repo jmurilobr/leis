@@ -1,0 +1,78 @@
+---
+titulo: "Decreto-SEMPOG nº 19.992, de 17 de maio de 2024"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "19.992"
+data: "2024-05-17"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/26609"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/6732/text"
+sha256_fonte: "27d83f99150a27f873811710942ff92877befe1eaa8c8a895070e6b8d56d47ad"
+sha256_texto: "a476c7b6d71a45b4b1009cf8a288f06a45b7e6d1bd40582e659ccb0ef52774f7"
+capturado_em_fonte: "2026-10-21T04:28:20.733981-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 19.992, de 17 de maio de 2024
+
+Abre no Orçamento Anual do Município de Porto Velho Crédito Adicional Suplementar, e dá outras providências.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, amparado pelo Art. 6º da Lei n.º 3.130, de 20 de dezembro de 2023 - Lei Orçamentária Anual - LOA 2024;
+
+Considerando o Ofício n.º 022/2024/DFMAS/DGSUAS/SEMASF, de 21de maio de 2024, pelo qual a Secretaria Municipal de Assistência Social e da Família - SEMASF, solicita abertura de crédito adicional por superávit financeiro no Fundo Municipal de Assistência Social;
+
+Considerando os Ofícios n.° 071/2024/DEC/SUFIN/SEMFAZ, de 12 de março de 2024, oriundo da Secretaria Municipal de Fazenda – SEMFAZque apresenta o demonstrativo dos Superávits Financeiros apurados nos Balanços Patrimoniais do exercício de 2023,
+
+**D E C R E T A:**
+
+
+Art. 1º.
+
+Fica aberto no Orçamento do Município de Porto Velho, Crédito Adicional Suplementar no valor de R$ 16.975.612,74(dezesseis milhões, novecentos e setenta e cinco mil, seiscentos e doze reais e setenta e quatro centavos).
+
+
+Art. 2º.
+
+Os recursos necessários à execução do disposto no artigo anterior são decorrentes de Superávit Financeiro apurado no Balanço Patrimonial do Município no exercício de 2023, observado os preceitos do Inciso I, Parágrafo 1º do Art. 43, da Lei n.º 4.320 de 17 de março de 1964, consignados no orçamento na sequência detalhada:
+
+<table><tbody><tr><td colspan="6"><p><strong>12.00 - SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL E DA FAMÍLIA - SEMASF</strong></p></td></tr><tr><td colspan="6"><p><strong>12.33 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL - FMAS</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>SUPLEMENTA R$</strong></p></td></tr><tr><td rowspan="5"><p>12.33.08.244.160.2.839</p></td><td rowspan="5"><p>Serviço de proteção e atendimento integral à família</p></td><td rowspan="5"><p>SEG</p></td><td><p>3.1.90.04</p></td><td rowspan="5"><p>2.660.0000.0000</p></td><td><p>602.000,00</p></td></tr><tr><td><p>3.3.90.14</p></td><td><p>145.000,00</p></td></tr><tr><td><p>3.3.90.33</p></td><td><p>150.536,83</p></td></tr><tr><td><p>3.3.90.93</p></td><td><p>32.196,89</p></td></tr><tr><td><p>4.4.90.52</p></td><td><p>145.429,76</p></td></tr><tr><td><p>12.33.08.244.160.2.842</p></td><td><p>Serviço de convivência e fortalecimento de vínculos</p></td><td><p>SEG</p></td><td><p>4.4.90.52</p></td><td><p>2.660.0000.0000</p></td><td><p>1.100.000,00</p></td></tr><tr><td><p>12.33.08.244.160.2.845</p></td><td><p>Serviço de proteção social básica no domicílio para pessoas com deficiência e idosas</p></td><td><p>SEG</p></td><td><p>3.3.90.39</p></td><td><p>2.660.0000.0000</p></td><td><p>53.935,62</p></td></tr><tr><td rowspan="2"><p>12.33.08.244.165.2.854</p></td><td rowspan="2"><p>Serviço de Acolhimento Institucional e Familiar</p></td><td rowspan="2"><p>SEG</p></td><td><p>3.3.90.30</p></td><td rowspan="2"><p>2.660.0000.0000</p></td><td><p>970.712,58</p></td></tr><tr><td><p>3.1.90.04</p></td><td><p>880.567,86</p></td></tr><tr><td rowspan="7"><p>12.33.08.244.168.2.860</p></td><td rowspan="7"><p>Manutenção dos Programas de Transferência de Renda</p></td><td rowspan="7"><p>SEG</p></td><td><p>3.3.90.14</p></td><td rowspan="7"><p>2.660.0000.0000</p></td><td><p>80.000,00</p></td></tr><tr><td><p>3.3.90.30</p></td><td><p>85.662,64</p></td></tr><tr><td><p>3.3.90.32</p></td><td><p>40.000,00</p></td></tr><tr><td><p>3.3.90.33</p></td><td><p>85.017,89</p></td></tr><tr><td><p>3.3.90.39</p></td><td><p>600.000,00</p></td></tr><tr><td><p>3.1.90.04</p></td><td><p>618.270,23</p></td></tr><tr><td><p>4.4.90.52</p></td><td><p>400.000,00</p></td></tr><tr><td><p>12.33.08.244.168.2.862</p></td><td><p>Ações Estratégicas do Programa de Erradicação do Trabalho Infantil</p></td><td><p>SEG</p></td><td><p>3.3.90.30</p></td><td><p>2.660.0000.0000</p></td><td><p>3.921,20</p></td></tr><tr><td><p>12.33.08.244.168.2.864</p></td><td><p>Apoio a programas e projetos de inclusão socioprodutiva</p></td><td><p>SEG</p></td><td><p>3.3.90.43</p></td><td><p>2.660.0000.0000</p></td><td><p>1.026.342,54</p></td></tr><tr><td rowspan="2"><p>12.33.08.244.324.2.976</p></td><td rowspan="2"><p>Gestão do Sistema Único de Assistência Social</p></td><td rowspan="2"><p>SEG</p></td><td><p>3.3.90.43</p></td><td rowspan="2"><p>2.660.0000.0000</p></td><td><p>8.525.000,00</p></td></tr><tr><td><p>4.4.90.52</p></td><td><p>1.326.911,43</p></td></tr><tr><td rowspan="4"><p>12.33.08.244.324.2.978</p></td><td rowspan="4"><p>Fortalecimento do Controle Social do SUAS</p></td><td rowspan="4"><p>SEG</p></td><td><p>3.3.90.14</p></td><td rowspan="4"><p>2.660.0000.0000</p></td><td><p>33.404,39</p></td></tr><tr><td><p>3.3.90.30</p></td><td><p>422,88</p></td></tr><tr><td><p>3.3.90.33</p></td><td><p>29.000,00</p></td></tr><tr><td><p>4.4.90.52</p></td><td><p>41.280,00</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>16.975.612,74</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>16.975.612,74</strong></p></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 19.668, de 20 de dezembro de 2023 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 19.669, de 20 de dezembro de 2023.
+
+
+Art. 4º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Art. 5º.
+
+Revogam-se as disposições em contrário.
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***SERGIO LUIZ PACÍFICO***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto
+

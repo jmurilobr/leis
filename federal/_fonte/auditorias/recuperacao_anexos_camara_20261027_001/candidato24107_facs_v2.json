@@ -1,0 +1,99 @@
+{
+  "escopo": "Sucessor solicitado por ROOT: principal e tabela em fac-símile integral da mesma edição, sem leitura presumida da palavra ambígua. Nenhuma promoção executada.",
+  "path": "federal/decretos/1947/dec-24107-1947-11-25.md",
+  "sha256_preimagem_HEAD": "2729ab0bebc5e515c7b0513f3228b5c1b383d47df051e05d887f9fea4617d0f5",
+  "preimagem_arquivada": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/preimagem-dec24107.md",
+  "candidato": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/dec-24107-1947-11-25-clbr_facs_v2.md",
+  "sha256_candidato": "10614492b99d875460efa6074e76ddfb3d101ca871eb63645b0c4d272a64dc76",
+  "predecessor_preservado": {
+    "path": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/dec-24107-1947-11-25-clbr.md",
+    "sha256": "6174129c8ca02c113e1dd123deb5c3c475a1b68e4d35b16c7d651f23c8a25abb",
+    "estado": "preliminar textual substituído por este sucessor, sem promover"
+  },
+  "fonte_clbr": {
+    "url": "https://bd.camara.leg.br/bd/bitstreams/6cfdd26f-5f4d-40fa-9607-6128d39a10ec/download",
+    "captura_utc": "2026-10-27T21:12:12.158012+00:00",
+    "catalogo": "1947-catalogo.html.gz",
+    "status": 200,
+    "url_final": "https://bd-rest.camara.leg.br/server/api/core/bitstreams/6cfdd26f-5f4d-40fa-9607-6128d39a10ec/content",
+    "headers": {
+      "server": "envoy",
+      "date": "Tue, 27 Oct 2026 21:12:13 GMT",
+      "content-type": "Adobe/PDF;charset=UTF-8",
+      "content-length": "76824670",
+      "vary": "Origin,Access-Control-Request-Method,Access-Control-Request-Headers",
+      "content-language": "en",
+      "last-modified": "Thu, 09 Oct 2014 14:44:01 GMT",
+      "etag": "\"581a7087e0c4491d887fa93090741bf5\"",
+      "accept-ranges": "bytes",
+      "expires": "Tue, 27 Oct 2026 22:12:13 GMT",
+      "cache-control": "private,no-cache",
+      "access-control-expose-headers": "Accept-Ranges",
+      "content-disposition": "attachment;filename=\"colecao_leis_1947_parte2.pdf\"",
+      "x-content-type-options": "nosniff",
+      "x-xss-protection": "0",
+      "strict-transport-security": "max-age=31536000 ; includeSubDomains",
+      "x-frame-options": "DENY",
+      "x-envoy-upstream-service-time": "369",
+      "connection": "close"
+    },
+    "path": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/1947-parte2.pdf",
+    "sha256": "eeb8a642fae45e498b17bbe95788064639bbd29df22870dd0e57ec1d4a488484",
+    "bytes": 76824670
+  },
+  "identidade_por_fontes_visuais_API": {
+    "numero": "24107",
+    "data": "1947-11-25",
+    "epigrafe_clbr": "DECRETO N.º 24.107 — DE 25 DE NOVEMBRO DE 1947",
+    "fecho_clbr": "Rio de Janeiro, em 25 de novembro de 1947; 126.º da Independência e 59.º da República.",
+    "artigos": 3,
+    "assinaturas": [
+      "EURICO G. DUTRA.",
+      "Clovis Pestana."
+    ]
+  },
+  "imagens": [
+    {
+      "candidato": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/dec24107-principal-facs-v2.png",
+      "destino_proposto": "federal/anexos/decretos/1947/dec-24107-1947-11-25-principal.png",
+      "pagina_impressa": 316,
+      "pagina_pdf": 1716,
+      "render": {
+        "ferramenta": "pdftoppm",
+        "dpi": 400,
+        "x": 1230,
+        "y": 1080,
+        "largura": 940,
+        "altura": 1340
+      },
+      "limites": "Somente renderização/recorte retangular do PDF, sem edição de pixels ou reconstrução de letras.",
+      "sha256": "8e40eac5aa312b215ae268ac6b5eed4392b2520c7a53d972f969592de661056c",
+      "dimensoes": [
+        940,
+        1340
+      ]
+    },
+    {
+      "candidato": "federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001/pagina1717.png",
+      "destino_proposto": "federal/anexos/decretos/1947/dec-24107-1947-11-25-tabela.png",
+      "sha256": "b6cd4323abbec11bc92d6af1f7dcd66a9564f9bdd9d4da6f29f3cc96be994a2a",
+      "representacao": "Fac-símile integral da página 317, exclusivamente tabela deste decreto. Sem OCR substituindo a imagem.",
+      "pagina_impressa": 317,
+      "pagina_pdf": 1717,
+      "dimensoes": [
+        2600,
+        1875
+      ]
+    }
+  ],
+  "QA": {
+    "erros_formato": [],
+    "avisos_formato": [],
+    "principal_visto_integralmente_pelo_agente": true,
+    "somente_24107_no_recorte": true,
+    "tabela_vista_integralmente_pelo_agente": true,
+    "nenhuma_transcricao_resolve_palavra_ambigua": true
+  },
+  "observacao_editorial": "Texto principal e tabela reproduzidos integralmente em fac-símile da mesma edição CLBR, páginas 316–317. Não se escolhe por transcrição a leitura da palavra ambígua do artigo 1º. O recorte do principal contém somente este decreto, da epígrafe à assinatura; a versão textual anterior Normas permanece preservada no histórico.",
+  "limites": "A representação fac-similar preserva as ambiguidades e artefatos materiais da edição. Metadados e título editorial identificam o ato; o corpo normativo não foi inventado como transcrição. PDF anual e todas as versões anteriores preservados. ROOT confere o recorte e promove MD/imagens antes de remover qualquer pendência."
+}

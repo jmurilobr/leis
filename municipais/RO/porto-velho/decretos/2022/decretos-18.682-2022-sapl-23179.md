@@ -1,0 +1,62 @@
+---
+titulo: "Decreto-SEMPOG nº 18.682, de 06 de dezembro de 2022"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "18.682"
+data: "2022-12-06"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/23179"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/10517/text"
+sha256_fonte: "60a04c2f229a20745c38e8c44ddc82eb21992ffa76b8a3a29d196658c3d7880e"
+sha256_texto: "bdbd99da74694bb62a6d1ebb04387d5be1ce42ca12011789d578010952a8c541"
+capturado_em_fonte: "2026-10-21T05:59:05.205105-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 18.682, de 06 de dezembro de 2022
+
+Abre no Orçamento Anual do Município de Porto Velho Crédito Adicional Suplementar, e dá outras providências.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, amparado pelo Art. 6º da Lei n.º 2.903, de 20 de dezembro de 2021, a fim de proceder as adequações orçamentárias no exercício 2022;
+
+Considerando o Ofício n° 5896/CGF/GAB/SEMUSA, de 29 de novembro de 2022, no qual a Secretaria Municipal de Saúde – SEMUSA, solicita suplementação para cobertura orçamentária referente à Emenda Parlamentar Individual n.° 1006 para aquisição de equipamentos odontológicos para atender as unidades de saúde desta secretaria;
+
+Considerando a tendência de Excesso de Arrecadação para o exercício financeiro de 2022 de acordo com o art. 43 § 3° da Lei Federal n.º 4.320, de 17 de março de 1964, planilha de Acompanhamento de Receita Arrecadada Mensal para o exercício de 2022 (anexa),
+
+D E C R E T A:
+
+**Art. 1º** – Fica aberto no Orçamento do Município de Porto Velho, Crédito Adicional Suplementar no valor de R$ 448.000,00 (quatrocentos e quarenta e oito mil reais).
+
+**Art. 2º** – Os recursos necessários à execução do disposto no artigo anterior decorrerão de Excesso de Arrecadação, provenientes da Fonte de Recursos 1.621 – Recursos do Exercício Corrente – Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo Estadual, consignados no orçamento, conforme detalhado na sequência:
+
+<table><tbody><tr><td colspan="6"><p><strong>08.00 – SECRETARIA MUNICIPAL DE SAÚDE – SEMUSA</strong></p></td></tr><tr><td colspan="6"><p><strong>08.31 – FUNDO MUNICIPAL DE SAÚDE – FMS</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>SUPLEMENTA  </strong><strong>R$</strong></p></td></tr><tr><td><p>08.31.10.301.317.2.662</p></td><td><p>Manutenção dos serviços do Centro de Especialidades Odontológicas</p></td><td><p>SEG</p></td><td><p>4.4.90.52</p></td><td><p>1.621</p></td><td><p>448.000,00</p></td></tr><tr><td colspan="5"><p><strong>SUB TOTAL</strong></p></td><td><p><strong>448.000,00</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>448.000,00</strong></p></td></tr></tbody></table>
+
+**Art. 3º** – Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 17.852, de 20 de dezembro de 2021 e o Detalhamento da Despesa, estabelecido pelo Decreto n.º 17.853, de 20 de dezembro de 2021.
+
+**Art. 4º** – Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** – Revogam-se as disposições em contrário.
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto do Município
+

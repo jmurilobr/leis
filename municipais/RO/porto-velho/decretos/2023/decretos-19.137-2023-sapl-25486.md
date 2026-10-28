@@ -1,0 +1,60 @@
+---
+titulo: "Decreto-SEMPOG nº 19.137, de 13 de julho de 2023"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "19.137"
+data: "2023-07-13"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/25486"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/8053/text"
+sha256_fonte: "4141a58895da64db649982e59ce86701c90d287eae4ae6b8daf3082e5e233235"
+sha256_texto: "de5de76d5642dee65d4bae70beed6be32098d11abc26f40db4286d91fbcf8e86"
+capturado_em_fonte: "2026-10-21T05:27:55.683949-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 19.137, de 13 de julho de 2023
+
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Transposição de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei n.º 2.998, de 19 de dezembro de 2022, a fim de proceder às adequações orçamentárias no exercício 2023, e
+
+Considerando o Ofício n.° 507/GAB/SEMAGRIC/2023, de 03 de julho de 2023, pelo qual a Secretaria Municipal de Agricultura e Abastecimento - SEMAGRIC, solicita a movimentação de recursos para cobertura de despesas com a concessão de diárias;
+
+**D E C R E T A**
+
+**Art. 1º** – Fica alterado o Orçamento Anual do Município de Porto Velho por meio de transposição de recursos orçamentários no valor de R$ 265.000,00 (duzentos e sessenta e cinco mil reais).
+
+**Art. 2º** - A transposição decorre da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas dentro da mesma uidade orçamentária, conforme disposto no inciso XVII do Artigo 6º da Lei nº 2.946, de 30 de junho de 2022 – Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><tbody><tr><td colspan="7"><p>15.00 - SECRETARIA MUNICIPAL DE AGRICULTURA, PECUÁRIA E ABASTECIEMNTO - SEMAGRIC</p></td></tr><tr><td colspan="7"><p>15.01 - SECRETARIA MUNICIPAL DE AGRICULTURA, PECUÁRIA E ABASTECIEMNTO - SEMAGRIC</p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESPERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>TRANSPÕE R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td><p>15.01.20.122.167.2.595</p></td><td><p>Combate a comercialização de produtos não</p><p>cadastrados no sistema de inspeção</p></td><td><p>FIS</p></td><td><p>3.3.90.30</p></td><td><p>1.500</p></td><td><p>200.000,00</p></td><td><p>-</p></td></tr><tr><td><p>15.01.20.608.340.2.641</p></td><td><p>Promover o Desenvolvimento das Cadeias</p><p>Produtivas da Agropecuária Familiar</p></td><td><p>FIS</p></td><td><p>3.3.90.30</p></td><td><p>1.500</p></td><td><p>65.000,00</p></td><td><p>-</p></td></tr><tr><td><p>15.01.20.782.240.2.643</p></td><td><p>Conservação de Rodovias Vicinais</p></td><td><p>FIS</p></td><td><p>3.3.90.14</p></td><td><p>1.500</p></td><td><p>-</p></td><td><p>265.000,00</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>265.000,00</strong></p></td><td><p><strong>265.000,00</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>265.000,00</strong></p></td><td><p><strong>265.000,00</strong></p></td></tr></tbody></table>
+
+**Art. 3º** – Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 18.721, de 19 de dezembro de 2022 e o Detalhamento da Despesa, estabelecido pelo Decreto n.º 18.722, de 19 de dezembro de 2022.
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** - Revogam-se as disposições em contrário.
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto
+

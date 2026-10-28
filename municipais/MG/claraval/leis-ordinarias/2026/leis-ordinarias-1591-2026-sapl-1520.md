@@ -1,0 +1,144 @@
+---
+titulo: "LEI ORDINÁRIA-CMC nº 1.591, de 18 de março de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "1591"
+data: "2026-03-18"
+municipio: "Claraval"
+uf: "MG"
+codigo_ibge: "3116407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.claraval.mg.leg.br/norma/1520"
+fonte_texto: "https://sapl.claraval.mg.leg.br/ta/861/text"
+sha256_fonte: "c164addf26e5acd809ab602faed5b983d0f062b82f4876efc553589701e5b02e"
+sha256_texto: "918d898cd24b9c62c7f6f4b52d22b599b9fcc0e61be6649aa23dfc98d7f5cbb6"
+capturado_em_fonte: "2026-10-27T22:42:37.705388-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA-CMC nº 1.591, de 18 de março de 2026
+
+"INSTITUI O CADASTRO E O MAPEAMENTO MUNICIPAL DAS ESTRADAS RURAIS E PONTOS CRÍTICOS NO MUNICÍPIO DE CLARAVAL/MG E DÁ OUTRAS PROVIDÊNCIAS."
+
+
+O Prefeito do Município de Claraval, MG, José Reinaldo Cintra, no uso de suas atribuições legais, faz saber que a Câmara Municipal APRESENTOU e APROVOU e, eu SANCIONO a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído, no âmbito do Município de Claraval/MG, o Cadastro e Mapeamento Municipal das Estradas Rurais e Pontos Críticos, com a finalidade de identificar, registrar e monitorar trechos e estruturas que impactem o tráfego, o escoamento da produção agrícola e pecuária e o acesso a serviços essenciais.
+
+
+Art. 2º.
+
+Para fins desta Lei, consideram-se pontos críticos os locais que apresentem, de forma recorrente ou potencial:
+
+
+I –
+
+alagamentos, enxurradas, erosões, atoleiros e desmoronamentos;
+
+
+II –
+
+pontes, pontilhões, bueiros e mata-burros com risco estrutural ou insuficiência de vazão;
+
+
+III –
+
+trechos com risco de isolamento de comunidades rurais;
+
+
+IV –
+
+trechos com maior fluxo de veículos de transporte escolar, leite, insumos agrícolas e escoamento de safra.
+
+
+Art. 3º.
+
+O Cadastro e Mapeamento Municipal terão, no mínimo, as seguintes informações:
+
+
+I –
+
+identificação da estrada/trecho (nome local, referência e comunidade atendida);
+
+
+II –
+
+descrição do ponto crítico e sua classificação de risco;
+
+
+III –
+
+registro fotográfico e, quando possível, georreferenciamento;
+
+
+IV –
+
+período de maior incidência do problema (ex.: chuvas);
+
+
+V –
+
+histórico de intervenções realizadas e necessidades estimadas.
+
+
+Art. 4º.
+
+O Poder Executivo poderá utilizar, para execução desta Lei:
+
+
+I –
+
+equipe técnica municipal;
+
+
+II –
+
+colaboração de comunidades rurais, associações, sindicatos e cooperativas;
+
+
+III –
+
+convênios e parcerias com órgãos estaduais e federais, universidades, EMATER-MG, consórcios intermunicipais e entidades afins.
+
+
+Art. 5º.
+
+O Poder Executivo deverá, sempre que possível, disponibilizar ao público:
+
+
+I –
+
+relatório anual resumido do mapeamento e prioridades;
+
+
+II –
+
+mapa simplificado dos pontos críticos para transparência e planejamento, observada a legislação aplicável.
+
+
+Art. 6º.
+
+A implementação do Cadastro e Mapeamento Municipal não cria obrigação de execução imediata de obras específicas, servindo como instrumento de planejamento, priorização e captação de recursos, inclusive para instruir pedidos de emendas, convênios e programas.
+
+
+Art. 7º.
+
+As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Claraval/MG, 18 de março de 2026.
+
+**José Reinaldo Cintra**  
+Prefeito Municipal
+

@@ -1,0 +1,9 @@
+import json,gzip,hashlib
+from pathlib import Path
+sha=lambda b:hashlib.sha256(b).hexdigest();B=Path('federal');rows=json.load(open(B/'_lote_dec_continuacao_20261020_019.json'))['publicaveis'];holds=[];backs=[]
+for r in rows:
+ n=r['epigrafe']['numero']
+ if n not in {'15484','16243'}:continue
+ raw=Path(r['path']).read_bytes();sp=Path(r['path'].replace('federal/decretos/','federal/_fonte/decretos/').replace('.md','.html.gz'));src=gzip.open(sp,'rt').read();assert sha(raw)==r['sha256'] and sha(src.encode())==r['sha256_fonte_html'];motivo='Texto preservado inicia diretamente o Regimento do Serviço Nacional de Lepra, com 24 artigos, após epígrafe/ementa. Não reproduz o comando presidencial de aprovação, fecho ou assinatura próprios do decreto; regimento não substitui esse corpo principal.' if n=='15484' else 'Corpo principal identifica 16.243, mas retificação anexada identifica 19.243 e marcador administrativo identifica 17.243. Ementa coincidente não resolve sozinha a divergência de identidade. Mantido para contextualização, preservando integralmente a retificação e o original.';q=dict(r,lote=19,status='retido_revisao_documental_contextual',motivo=motivo);holds.append(q);backs.append(dict(q,html_fonte_original=src,md_preimagem=raw.decode()))
+assert len(holds)==2
+(B/'_overlay_contexto_integridade_019_20261021_001.json').write_text(json.dumps({'escopo':'Retenções conservadoras contextuais do lote 019; não altera canônicos ou registro.','registros':holds},ensure_ascii=False,indent=2)+'\n');(B/'_receipts_contexto_integridade_019_20261021_001.jsonl.gz').write_bytes(gzip.compress(('\n'.join(json.dumps(r,ensure_ascii=False) for r in backs)+'\n').encode(),mtime=0));print('retidos',len(holds))

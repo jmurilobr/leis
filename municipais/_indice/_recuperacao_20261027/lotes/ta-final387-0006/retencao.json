@@ -1,0 +1,48 @@
+{
+  "candidatos": 586,
+  "aprovados": 387,
+  "retidos": 199,
+  "jurisdicao": [
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2013/leis-ordinarias-4179-2013-sapl-3387.md",
+      "sha256": "c1f8413359ffce5779eae08b0affc07b0201b3d816f19735aa0f4aa2f2990cc5",
+      "esfera_federacao_api": "M",
+      "alertas": [
+        {
+          "municipio_declarado": "Barra Mansa",
+          "municipio_no_cabecalho_normalizado": "barra",
+          "offset": 2,
+          "trecho": "A CÂMARA MUNICIPAL DE BARRA MANSAAPROVA E EU SANCIONO A SEGUINTE:\n\n\nLEI N° 4179, DE 26 DE NOVEMBRO DE 2013.\n\n\n\"Dispõe sobre critério diferenciado para o licenciamento municipal à extração artesanal de a"
+        }
+      ]
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2013/leis-ordinarias-4050-2013-sapl-3901.md",
+      "sha256": "83ffac23cf34aee41ba973a195393c2dc065b541588661f69e78ef7fa6dd3e3d",
+      "esfera_federacao_api": "M",
+      "alertas": [
+        {
+          "municipio_declarado": "Barra Mansa",
+          "municipio_no_cabecalho_normalizado": "barra",
+          "offset": 1883,
+          "trecho": "gadas as disposições em contrário, esta Lei entrará em vigor na data de sua publicação.\n\n\nPREFEITURA MUNICIPAL DE BARRA MANS4, 8 DE FEVEREIRO DE 2013.\n\n\nJONASTONIAN MARINS AGUIAR  \nPREFEITO\n\n"
+        }
+      ]
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2012/leis-ordinarias-4002-2012-sapl-3853.md",
+      "sha256": "e5b3e9984d7651a9f9393974ac1811dcc96614200f18f02f923f4ff6a1e23fc5",
+      "esfera_federacao_api": "M",
+      "alertas": [
+        {
+          "municipio_declarado": "Barra Mansa",
+          "municipio_no_cabecalho_normalizado": "barra",
+          "offset": 2,
+          "trecho": "A CÂMARA MUNICIPAL DE BARRA MANSAAPROVA E EU SANCIONO A SEGUINTE:\n\n\nLEI N° 4002, DE 06 DE MARÇO DE 2012.\n\n\nDá denominação a Logradouro Público Municipal, Rua Hélio Jandorno de Abreu, Bairro Getúlio Varg"
+        }
+      ]
+    }
+  ],
+  "replay_retidos": [],
+  "criterio": "Retidos não integram a lista de normas. Controles conservam os motivos e identidades; não promovidos por contagem ou por comparação da mesma conversão."
+}

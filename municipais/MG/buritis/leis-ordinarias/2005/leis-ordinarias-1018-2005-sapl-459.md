@@ -1,0 +1,146 @@
+---
+titulo: "Lei nº 1.018, de 19 de dezembro de 2005"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1018"
+data: "2005-12-19"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/459"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/1838/text"
+sha256_fonte: "3c9b1da291980843056f28615c43991392dd57980cb1e19df28976b4792c1e3b"
+sha256_texto: "fa979d8ead737b3cc9d33506acb3f762906d98e2fe1eba0607015f70dfd7ad73"
+capturado_em_fonte: "2026-10-27T20:15:38.237176-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.018, de 19 de dezembro de 2005
+
+CONCEDE SUBVENÇÕES E CONTRIBUIÇÕES, E, DÁ OUTRA PROVIDENCIAS.
+
+
+A Câmara Municipal de Buritis, por seus Representantes, aprovou e eu, o Prefeito Municipal, sanciono a seguinte Lei.
+
+
+Art. 1º.
+
+Fica o poder executivo municipal autorizado a conceder subvenções contribuições no total de R$ 431.600,00 ( Quatrocentos e trinta e hum mil, seiscentos reais), às seguintes entidades:
+
+
+a)
+
+**SUBVENÇÕES:**
+
+Abrigo João da Silva Santarém..................................................................................................................................................... R$ 5.000,00
+
+Associação do Grupo da 3ª idade Alegria de Viver.............................................................................................................. R$ 4.000,00
+
+Associação dos Deficientes Físicos de Buritis......................................................................................................................... R$ 1.000,00
+
+Pastoral da Criança de Buritis...................................................................................................................................................... R$ 10.000,00
+
+Ass. dos Moradores da Comunidade do Divino Espírito Santo.......................................................................................... R$ 800,00
+
+Associação dos Moradores da Comunidade Sagrado Coração......................................................................................... R$ 800,00
+
+Associação de Trabalhadores Rurais Caminho da Paz........................................................................................................... R$ 800,00
+
+Associação Feliz das Trabalhadoras da Região do Taquaril................................................................................................. R$ 800,00
+
+Associação dos Pequenos Produtores Rurais dos Cupins................................................................................................... R$ 800,00
+
+Associação dos Pequenos Produtores Rurais das Pedras.................................................................................................... R$ 800,00
+
+Conselho Comunitário de Desenvolvimento Vila São Vicente.......................................................................................... R$ 800,00
+
+Conselho Comunitário de Desenvolvimento Rural Mata Frade........................................................................................ R$ 800,00
+
+Conselho Comunitário do Distrito Serra Bonita...................................................................................................................... R$ 800,00
+
+Conselho Comunitário de Desenvolvimento Vila Palmeira................................................................................................ R$ 800,00
+
+Conselho de Desenvolvimento Comunitário Vila Serrana.................................................................................................. R$ 800,00
+
+Conselho de Desenvolvimento Comunitário Vila Cordeiro................................................................................................ R$ 800,00
+
+Conselho Comunitário do Pernambuco..................................................................................................................................... R$ 800,00
+
+Conselho Comunitário de Desenvolvimento Vila Maravilha............................................................................................. R$ 800,00
+
+Associação Nossa Senhora do Perpétuo Socorro........................................................................................................... R$ 48.000,00
+
+Associação Frei Pio Baars.......................................................................................................................................................... R$ 80.000,00
+
+Associação dos Feirantes................................................................................................................................................................ R$ 800,00
+
+APAE.................................................................................................................................................................................................. R$ 30.000,00
+
+Ass. de Artesões, Artistas Plásticos E Prod. Caseiros De Buritis .................................................................................. R$ 3.600,00
+
+**TOTAL DAS SUBVENÇÕES.................................................................................................................... R$ 193.600,00**
+
+
+b)
+
+**CONTRIBUIÇÕES:**
+
+AMAB/ Amnor....................................................................................................................................................................................... R$ 50.000,00
+
+ADISBUR.................................................................................................................................................................................................. R$ 12.000,00
+
+Manut. de Cons. Intermun. dos Rios Urucuia e Carinhanha............................................................................................... R$ 12.000,00
+
+Apoio às operações da Polícia Civil.............................................................................................................................................. R$ 12.000,00
+
+Apoio às operações da Polícia Militar Ostensiva.................................................................................................................... R$ 16.000,00
+
+Apoio às operações da Polícia Ambiental Militar..................................................................................................................... R$ 8.000,00
+
+Apoio ao Buritis Esporte Clube........................................................................................................................................................ R$ 1.500,00
+
+Apoio ao Bandeirantes Esporte Clube.......................................................................................................................................... R$ 1.500,00
+
+Manutenção do Consórcio Intermunicipal de Saúde............................................................................................................. R$ 1.000,00
+
+Manutenção do Consórcio de Segurança Alimentar - CONSAD....................................................................................... R$ 8.000,00
+
+APAE........................................................................................................................................................................................................ R$ 36.000,00
+
+EMATER................................................................................................................................................................................................. R$ 30.000,00
+
+Sindicato Rural De Buritis.............................................................................................................................................................. R$ 26.000,00
+
+Conselho De Desenv. Do Distrito São Pedro De Passa Três ............................................................................................ R$ 12.000,00
+
+Conselho Comunitário De Serra Bonita.................................................................................................................................... R$ 12.000,00
+
+**TOTAL DAS CONTRIBUIÇÕES................................................................................................................... R$ 238.000,00**
+
+
+Art. 2º.
+
+Os pagamentos de que trata o artigo anterior dessa Lei, somente serão autorizados pelo Executivo Municipal, mediante apresentação de prova de regularidade da personalidade jurídica da Entidade ou Instituição beneficiada por esta Lei.
+
+
+Parágrafo único
+
+Para recebimento da subvenção, ou contribuição de que trata o artigo anterior, fica a entidade ou instituição beneficiada obrigada a apresentação de balancetes do exercício anterior, comprovando a aplicação da subvenção ou contribuição recebida e comprovação de receita própria no percentual de 30% (trinta por cento) do valor do repasse da subvenção ou contribuição.
+
+
+Art. 3º.
+
+Revogadas as disposições em contrário, entrará a presente Lei em vigor a partir de 1º de Janeiro de 2.006.
+
+
+Buritis-MG, 19 de dezembro de 2.005.
+
+**Dr. Keny Soares Rodrigues Prefeito Municipal**
+
+Projeto de Lei 0046/2005, de autoria do Executivo Municipal, aprovado pela Proposição de Lei  
+n° 061/2005 de 13/12/2005 e sancionada em 19/12/2005, sem emendas.
+

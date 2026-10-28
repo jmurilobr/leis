@@ -1,0 +1,37 @@
+{
+  "fontes_diretas_arquivadas": 9234,
+  "retidas_identidade_final": 1,
+  "partes": [
+    {
+      "path": "reguladores/_fonte/auditorias/reguladores-dou028-primarias-20261027-parte001.jsonl.gz",
+      "sha256": "15a4b3d7795045b12519de696e99e84ce44aeb34d0a67697549d03171660430c",
+      "fontes_reabertas": 2079
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/reguladores-dou028-primarias-20261027-parte002.jsonl.gz",
+      "sha256": "8845befb7515a881cb872687e56ded319f434fb1b28827f7a8e287542a7e4fce",
+      "fontes_reabertas": 2074
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/reguladores-dou028-primarias-20261027-parte003.jsonl.gz",
+      "sha256": "74f7e44eb3ce4d1c78dcf0a3afcfc8a6cf2452592f90ef1b7e2a328453653a18",
+      "fontes_reabertas": 564
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/reguladores-dou029-primarias-20261027-parte001.jsonl.gz",
+      "sha256": "60f31ac603962d7a020c42359f96c295166c48f3fb9de108ef5a1769cf1a1bde",
+      "fontes_reabertas": 2164
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/reguladores-dou029-primarias-20261027-parte002.jsonl.gz",
+      "sha256": "d484f22ee5895457c48eb6df071c75d46a0148ffd8ff1817e30c6b73080ba044",
+      "fontes_reabertas": 2180
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/reguladores-dou029-primarias-20261027-parte003.jsonl.gz",
+      "sha256": "0f0090604d7062cfa20128e589c20e9683885d0a528447ad6661cb0e64854359",
+      "fontes_reabertas": 173
+    }
+  ],
+  "criterio": "Reabertura independente completa dos6 arquivos primarios JSONL/gzip,CRC e SHA de cada fonte e MD conferidos. Uma coincidencia final de identidade preservada no arquivo de fontes mas fora da adicao normativa;72 fontes individuais de candidatos nativos conferidas por SHA na promocao. Metas inalteradas."
+}

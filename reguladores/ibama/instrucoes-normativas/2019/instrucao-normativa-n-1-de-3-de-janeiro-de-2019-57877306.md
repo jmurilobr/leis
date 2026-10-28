@@ -1,0 +1,108 @@
+---
+titulo: "INSTRUÇÃO NORMATIVA Nº 1, DE 3 DE JANEIRO DE 2019"
+orgao: "Ministério do Meio Ambiente/Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis"
+tipo: "Instrução Normativa"
+numero: "1"
+data: 2019-01-03
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 04/01/2019, seção 1, p. 85"
+data_publicacao: 2019-01-04
+edicao: "3"
+fonte: "https://www.in.gov.br/web/dou/-/instrucao-normativa-n-1-de-3-de-janeiro-de-2019-57877306"
+sha256_html_fonte: 036314b0886e76a391930dbc15e1e98ff1b876af4bce4575e5060fa82c4f9bba
+baixado_em: 2026-10-21
+---
+# INSTRUÇÃO NORMATIVA Nº 1, DE 3 DE JANEIRO DE 2019
+
+INSTRUÇÃO NORMATIVA Nº 1, DE 3 DE JANEIRO DE 2019
+
+A PRESIDENTE DO INSTITUTO BRASILEIRO DO MEIO AMBIENTE E DOS RECURSOS NATURAIS RENOVÁVEIS (IBAMA), no uso das atribuições que lhe conferem o artigo 23, inciso V, do Anexo I do Decreto nº 8.973, de 24 de janeiro de 2017, publicado no D.O.U. de 25 de janeiro de 2017 e o artigo 130, inciso VI, do Anexo I da Portaria Ibama nº 14, de 29 de junho de 2017, publicada no D.O.U. do dia subsequente;
+
+Considerando as disposições do art. 17-C, parágrafo 1º, da Lei nº 6.938, de 31 de agosto de 1981, e suas alterações, que instituiu a obrigatoriedade, pelo sujeito passivo da TCFA, de entrega de Relatório das Atividades exercidas no ano anterior; considerando a Instrução Normativa Ibama nº 11, de 13 de abril de 2018;
+
+Considerando o contido nos processos nº 02001.007590/2012-69 e nº 02001.107781/2017-34, e;
+
+Considerando ainda o processo administrativo nº 02001.005174/2012-26, que dispõe sobre a edição de instrução normativa específica para o Relatório Anual de Atividades Potencialmente Poluidoras e Utilizadoras de Recursos Ambientais;, resolve:
+
+**Art. 1º** Alterar o artigo 2º, inciso II, da Instrução Normativa nº 6, de 24 de março de 2014, que passa a vigorar com a seguinte redação:
+
+"Art. 2º ..........................................................
+
+II - Cadastro Técnico Federal de Atividades Potencialmente Poluidoras e Utilizadoras de Recursos Ambientais - CTF/APP: o cadastro que identifica as pessoas físicas e jurídicas e sua localização, em razão das atividades potencialmente poluidoras e utilizadoras de recursos ambientais por elas exercidas, nos termos do art. 17, inciso II, da Lei nº 6.938, de 1981 e as relacionadas no Anexo I, da Instrução Normativa no 11, de 2018;"
+
+**Art. 2º** Alterar o artigo 6º, caput, da Instrução Normativa nº 6, de 24 de março de 2014, que passa a vigorar com a seguinte redação:
+
+"Art. 6º Compete à Coordenação de Avaliação e Instrumentos de Qualidade Ambiental (COAVI):
+
+................................................................."
+
+**Art. 3º** Alterar o artigo 10, inciso I e parágrafo 2º, da Instrução Normativa nº 6, de 24 de março de 2014, que passam a vigorar com a seguinte redação:
+
+"Art. 10 .............................................................
+
+I - de iniciativa da COAVI/CGQUA/DIQUA
+
+...........................................................................
+
+**§ 2º** Em qualquer caso, antes da aprovação do Presidente do Ibama, as alterações propostas serão avaliadas pela COAVI/CGQUA/DIQUA, mediante consulta, quando pertinente, às demais unidades do Ibama ou aos órgãos e entidades interessados, no âmbito dos instrumentos de cooperação institucional formalizados."
+
+**Art. 4º** Alterar os Anexos C, D, III, V, VII, XV, XVIII, XX, XXI, XXII, XXIII, XXV, XXVI, XXVII da Instrução Normativa nº 06, de 24 de março de 2014, que passam a vigorar com a seguinte redação:
+
+Anexo C FORMULÁRIO EFLUENTES LÍQUIDOS
+
+....................................................................
+
+04 - Quantidade (m3/h);
+
+05 - Monitoramento utilizado;
+
+06 - Eficiência do Tratamento;
+
+07 - Tipo de tratamento realizado;
+
+08 - Nível do tratamento;
+
+09 - Compartimento ambiental da emissão.
+
+Anexo D FORMULÁRIO DE FONTES ENERGÉTICAS POLUENTES
+
+....................................................................
+
+07 - Poder calorífico inferior da fonte energética (valor padrão que pode ser alterado pelo declarante);
+
+08 - Conteúdo de carbono da fonte energética (valor padrão que pode ser alterado pelo declarante);
+
+09 - Fator de oxidação da fonte
+
+**Art. 5º** Atualizar os Anexos III, V, VII, XV, XVIII, XX, XXI, XXII, XXIII, XXV, XXVI, XXVII da Instrução Normativa nº 06, de 24 de março de 2014, que passam a vigorar com a seguinte redação:
+
+<table><tr></tr><tr><td><p>Anexo III</p></td></tr><tr><td><p>Cód.</p></td><td><p>Descrição</p></td><td><p>Formulários a serem preenchidos</p></td></tr><tr><td><p>3-1</p></td><td><p>Fabricação de aço e de produtos siderúrgicos.</p></td><td><p>Matéria Prima/Insumo - (Anexo A)</p><p>Produtos e Subprodutos Industriais - (Anexo B)</p><p>Efluentes Líquidos - (Anexo C)</p><p>Fontes Energéticas Poluidoras - (Anexo D)</p><p>Poluentes Atmosféricos - (Anexo E)</p><p>Resíduos Sólidos - Gerador - (Anexo F)</p></td></tr><tr><td><p>3-2</p></td><td><p>Produção de fundidos de ferro e aço, forjados, arames, relaminados com ou sem tratamento de superfície, inclusive galvanoplastia</p></td><td></td></tr><tr><td><p>3-3</p></td><td><p>Metalurgia dos metais não-ferrosos em formas primárias e secundárias inclusive ouro</p></td><td></td></tr><tr><td><p>3-4</p></td><td><p>Produção de laminados, ligas, artefatos de metais não-ferrosos com ou sem tratamento de superfície, inclusive galvanoplastia</p></td><td></td></tr><tr><td><p>3-5</p></td><td><p>Relaminação de metais não-ferrosos, inclusive ligas</p></td><td></td></tr><tr><td><p>3-6</p></td><td><p>Produção de soldas e anodos</p></td><td></td></tr><tr><td><p>3-7</p></td><td><p>Metalurgia de metais preciosos</p></td><td></td></tr><tr><td><p>3-8</p></td><td><p>Metalurgia do pó, inclusive peças moldadas</p></td><td></td></tr><tr><td><p>3-9</p></td><td><p>Fabricação de estruturas metálicas com ou sem tratamento de superfície, inclusive galvanoplastia</p></td><td></td></tr><tr><td><p>3-10</p></td><td><p>Fabricação de artefatos de ferro, aço e de metais não-ferrosos com ou sem tratamento de superfície, inclusive galvanoplastia</p></td><td></td></tr><tr><td><p>3-11</p></td><td><p>Têmpera e cementação de aço, recozimento de arames, tratamento de superfície</p></td><td></td></tr><tr><td><p>3-12</p></td><td><p>Metalurgia de metais preciosos - Decreto no97.634/1989</p></td><td><p>Matéria Prima/Insumos - (Anexo A)</p><p>Produtos e Subprodutos Industriais - (Anexo B)</p><p>Efluentes Líquidos - (Anexo C)</p><p>Resíduos Sólidos - Gerador - (Anexo F)</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>Anexo V</p></td></tr><tr><td><p>Cód.</p></td><td><p>Descrição</p></td><td><p>Formulários a serem preenchidos</p></td></tr><tr><td><p>5-1</p></td><td><p>Fabricação de pilhas, baterias e outros acumuladores</p></td><td><p>Matéria Prima/Insumo - (Anexo A)</p><p>Produtos e Subprodutos Industriais - (Anexo B)</p><p>Efluentes Líquidos - (Anexo C)</p><p>Fontes Energéticas Poluidoras - (Anexo D)</p><p>Poluentes Atmosféricos - (Anexo E)</p><p>Resíduos Sólidos - Gerador - (Anexo F)</p><p>Pilhas e Baterias - Fabricante Nacional - (Anexo J)</p></td></tr><tr><td><p>5-2</p></td><td><p>Fabricação de material elétrico, eletrônico e equipamentos para telecomunicação e informática</p></td><td></td></tr><tr><td><p>5-3</p></td><td><p>Fabricação de aparelhos elétricos e eletrodomésticos</p></td><td><p>Matéria Prima/Insumo - (Anexo A)</p><p>Produtos e Subprodutos Industriais - (Anexo B)</p><p>Efluentes Líquidos - (Anexo C)</p><p>Fontes Energéticas Poluidoras - (Anexo D)</p><p>Poluentes Atmosféricos - (Anexo E)</p><p>Resíduos Sólidos - Gerador - (Anexo F)</p></td></tr><tr><td><p>5-4</p></td><td><p>Fabricação de material elétrico, eletrônico e equipamentos para telecomunicação e informática - Lei no 12.305/10: art. 33, V</p></td><td></td></tr></table>
+
+<table><tr></tr><tr><td><p>Anexo VII</p></td></tr><tr><td><p>Cód.</p></td><td><p>Descrição</p></td><td><p>Formulários a serem preenchidos</p></td></tr><tr><td><p>7-1</p></td><td><p>Serraria e desdobramento de madeira</p></td><td><p>Matéria Prima/Insumo - (Anexo A)</p><p>Produtos e Subprodutos Industriais - (Anexo B)</p><p>Efluentes Líquidos - (Anexo C)</p><p>Fontes Energéticas Poluidoras - (Anexo D)</p></td></tr><tr><td><p>7-2</p></td><td><p>Preservação de madeira</p></td><td></td></tr><tr><td></td><td></td><td><p>Poluentes Atmosféricos - (Anexo E)</p></td></tr><tr><td><p>7-3</p></td><td><p>Fabricação de chapas, placas de madeira aglomerada, prensada e compensada</p></td><td><p>Resíduos Sólidos - Gerador - (Anexo F)</p></td></tr><tr><td><p>7-4</p></td><td><p>Fabricação de estruturas de madeira e móveis</p></td><td></td></tr></table>
+
+<table><tr></tr><tr><td><p>Anexo XV</p></td></tr><tr><td><p>Cód.</p></td><td><p>Descrição</p></td><td><p>Formulários a serem preenchidos</p></td></tr><tr><td><p>15-1</p></td><td><p>Produção de substâncias e fabricação de produtos químicos</p></td><td><p>Matéria Prima/Insumo - (Anexo A)</p><p>Produtos e Subprodutos Industriais - (Anexo B)</p><p>Efluentes Líquidos - (Anexo C)</p><p>Fontes Energéticas Poluidoras - (Anexo D)</p><p>Poluentes Atmosféricos - (Anexo E)</p></td></tr><tr><td><p>15-2</p></td><td><p>Fabricação de produtos derivados do processamento de petróleo, de rochas betuminosas e da madeira</p></td><td></td></tr><tr><td></td><td></td><td><p>Resíduos Sólidos - Gerador - (Anexo F)</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>15-3</p></td><td><p>Fabricação de combustíveis não derivados de petróleo</p></td><td></td></tr><tr><td><p>15-4</p></td><td><p>Produção de óleos, gorduras, ceras, vegetais e animais, óleos essenciais, vegetais e produtos similares, da destilação da madeira</p></td><td></td></tr><tr><td><p>15-5</p></td><td><p>Fabricação de resinas e de fibras e fios artificiais e sintéticos e de borracha e látex sintéticos</p></td><td></td></tr><tr><td><p>15-6</p></td><td><p>Fabricação de pólvora, explosivos, detonantes, munição para caça e desporto, fósforo de segurança e artigos pirotécnicos</p></td><td></td></tr><tr><td><p>15-7</p></td><td><p>Recuperação e refino de solventes, óleos minerais, vegetais e animais</p></td><td></td></tr><tr><td><p>15-8</p></td><td><p>Fabricação de concentrados aromáticos naturais, artificiais e sintéticos</p></td><td></td></tr><tr><td><p>15-9</p></td><td><p>Fabricação de preparados para limpeza e polimento, desinfetantes, inseticidas, germicidas e fungicidas</p></td><td></td></tr><tr><td><p>15-10</p></td><td><p>Fabricação de tintas, esmaltes, lacas, vernizes, impermeabilizantes, solventes e secantes</p></td><td></td></tr><tr><td><p>15-11</p></td><td><p>Fabricação de fertilizantes e agroquímicos</p></td><td></td></tr><tr><td><p>15-12</p></td><td><p>Fabricação de produtos farmacêuticos e veterinários</p></td><td></td></tr><tr><td><p>15-13</p></td><td><p>Fabricação de sabões, detergentes e velas</p></td><td></td></tr><tr><td><p>15-14</p></td><td><p>Fabricação de perfumarias e cosméticos</p></td><td></td></tr><tr><td><p>15-15</p></td><td><p>Produção de álcool etílico, metanol e similares</p></td><td></td></tr><tr><td><p>15-17</p></td><td><p>Produção de substâncias e fabricação de produtos químicos - fabricação de preservativos de madeira</p></td><td></td></tr><tr><td><p>15-19</p></td><td><p>Produção de óleos - Resolução CONAMA nº 362/2005</p></td><td></td></tr><tr><td><p>15-20</p></td><td><p>Produção de substâncias e fabricação de produtos químicos - uso de mercúrio metálico</p></td><td></td></tr><tr><td><p>15-21</p></td><td><p>Produção de substâncias e fabricação de produtos químicos - fabricação, formulação e /ou manipulação de produtos remediadores físico-químicos</p></td><td></td></tr><tr><td><p>15-22</p></td><td><p>Fabricação de preparados para limpeza e polimento, desinfetantes, inseticidas, germicidas e fungicidas - saneantes de uso domissanitário</p></td><td></td></tr><tr><td><p>15-23</p></td><td><p>Fabricação de produtos derivados do processamento de petróleo, de rochas betuminosas e da madeira - Resolução CONAMA nº 362/2005: art. 2º, XIV</p></td><td></td></tr></table>
+
+<table><tr></tr><tr><td><p>Anexo XVIII</p></td></tr><tr><td><p>Cód.</p></td><td><p>Descrição</p></td><td><p>Formulários a serem preenchidos</p></td></tr><tr><td><p>17-4</p></td><td><p>Destinação de resíduos de esgotos sanitários e de resíduos sólidos urbanos, inclusive aqueles provenientes de fossas</p></td><td><p>Matéria Prima/Insumo - (Anexo A)</p><p>Produtos e Subprodutos Industriais - (Anexo B)</p><p>Efluentes Líquidos - (Anexo C)</p><p>Fontes Energéticas Poluidoras - (Anexo D)</p><p>Poluentes Atmosféricos - (Anexo E)</p></td></tr><tr><td><p>17-57</p></td><td><p>Tratamento e destinação de resíduos industriais líquidos e sólidos - Decreto nº 7.404/2010: art. 36</p></td><td></td></tr><tr><td></td><td></td><td><p>Resíduos Sólidos - Gerador - (Anexo F)</p><p>Resíduos Sólidos - Destinador - (Anexo G)</p><p>Resíduos Sólidos - Armazenador - (Anexo H)</p></td></tr><tr><td><p>17-58</p></td><td><p>Tratamento e destinação de resíduos industriais líquidos e sólidos - Lei nº 12.305/2010: art. 3º, VIII</p></td><td></td></tr><tr><td><p>17-59</p></td><td><p>Tratamento e destinação de resíduos industriais líquidos e sólidos - Lei nº 12.305/2010: art. 13, I, "f", "k"</p></td><td></td></tr><tr><td><p>17-60</p></td><td><p>Tratamento e destinação de resíduos industriais líquidos e sólidos - Lei nº 12.305/2010: art. 3º, XIV</p></td><td></td></tr><tr><td><p>17-61</p></td><td><p>Disposição de resíduos especiais: Lei nº 12.305/2010: art. 33, I</p></td><td></td></tr><tr><td><p>17-63</p></td><td><p>Disposição de resíduos especiais: Lei nº 12.305/2010: art. 33, III</p></td><td></td></tr><tr><td><p>17-64</p></td><td><p>Disposição de resíduos especiais: Lei nº 12.305/2010: art. 13, I, "g"</p></td><td></td></tr><tr><td><p>17-65</p></td><td><p>Disposição de resíduos especiais: Lei nº 12.305/2010: art. 13, I, "h"</p></td><td></td></tr><tr><td><p>17-66</p></td><td><p>Disposição de resíduos especiais: Protocolo de Montreal</p></td><td></td></tr><tr><td><p>17-62</p></td><td><p>Disposição de resíduos especiais: Lei nº 12.305/2010: art. 33, II</p></td><td><p>Matéria Prima/Insumo - (Anexo A)</p><p>Produtos e Subprodutos Industriais - (Anexo B)</p><p>Efluentes Líquidos - (Anexo C)</p><p>Resíduos Sólidos - Gerador - (Anexo F)</p><p>Pilhas e Baterias - Reciclador - (Anexo K)</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>Anexo XX</p></td></tr><tr><td><p>Cód.</p></td><td><p>Descrição</p></td><td><p>Formulários a serem preenchidos</p></td></tr><tr><td><p>17-67</p></td><td><p>Recuperação de áreas degradadas</p></td><td><p>Efluentes Líquidos - (Anexo C)</p><p>Fontes Energéticas Poluidoras - (Anexo D)</p><p>Poluentes Atmosféricos - (Anexo E)</p><p>Resíduos Sólidos - Gerador - (Anexo F)</p></td></tr><tr><td><p>17-68</p></td><td><p>Recuperação de áreas contaminadas</p></td><td></td></tr></table>
+
+<table><tr></tr><tr><td><p>Anexo XXI</p></td></tr><tr><td><p>Cód.</p></td><td><p>Descrição</p></td><td><p>Formulários a serem preenchidos</p></td></tr><tr><td><p>18-1</p></td><td><p>Transporte de cargas perigosas</p></td><td><p>Resíduos Sólidos - Gerador - (Anexo F)</p><p>Resíduos Sólidos - Transportador - (Anexo I)</p><p>Transporte de Produtos Químicos Perigosos ou Combustíveis - (Anexo N)</p></td></tr><tr><td><p>18-2</p></td><td><p>Transporte por dutos</p></td><td></td></tr><tr><td><p>18-74</p></td><td><p>Transporte de cargas perigosas - Lei nº 12.305/2010</p></td><td></td></tr><tr><td><p>18-83</p></td><td><p>Transporte de cargas perigosas - Lei Complementar nº 140/2011: art. 7º, XIV, "g"</p></td><td></td></tr><tr><td><p>18-14</p></td><td><p>Transporte de cargas perigosas - Resolução CONAMA nº 362/2005</p></td><td><p>Efluentes Líquidos - (Anexo C)</p><p>Resíduos Sólidos - Gerador - (Anexo F)</p><p>Resíduos Sólidos - Transportador - (Anexo I)</p><p>Transporte de Produtos Químicos Perigosos ou Combustíveis - (Anexo N)</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>Anexo XXII</p></td></tr><tr><td><p>Cód.</p></td><td><p>Descrição</p></td><td><p>Formulários a serem preenchidos</p></td></tr><tr><td><p>18-3</p></td><td><p>Marinas, portos e aeroportos</p></td><td><p>Resíduos Sólidos - Gerador - (Anexo F)</p><p>Resíduos Sólidos - Armazenador - (Anexo H)</p></td></tr><tr><td><p>18-4</p></td><td><p>Terminais de minério, petróleo e derivados e produtos químicos</p></td><td></td></tr><tr><td><p>18-5</p></td><td><p>Depósitos de produtos químicos e produtos perigosos</p></td><td></td></tr><tr><td><p>18-80</p></td><td><p>Depósito de produtos químicos e produtos perigosos - Lei nº 12.305/2010</p></td><td></td></tr></table>
+
+<table><tr></tr><tr><td><p>Anexo XXIII</p></td></tr><tr><td><p>Cód.</p></td><td><p>Descrição</p></td><td><p>Formulários a serem preenchidos</p></td></tr><tr><td><p>18-6</p></td><td><p>Comércio de combustíveis e derivados de petróleo</p></td><td><p>Resíduos Sólidos - Gerador - (Anexo F)</p><p>Comerciante de Produtos Químicos, Produtos Perigosos, Pneus, Combustíveis e Derivados - (Anexo M)</p></td></tr><tr><td><p>18-7</p></td><td><p>Comércio de produtos químicos e produtos perigosos</p></td><td></td></tr><tr><td><p>18-8</p></td><td><p>Comércio de produtos químicos e produtos perigosos - Decreto nº 97.634/1989</p></td><td></td></tr><tr><td><p>18-13</p></td><td><p>Comércio de produtos químicos e produtos perigosos - Resolução CONAMA nº 362/2005</p></td><td></td></tr><tr><td><p>18-79</p></td><td><p>Comércio de produtos químicos e produtos perigosos - Decreto nº 875/1993</p></td><td></td></tr><tr><td><p>18-10</p></td><td><p>Comércio de produtos químicos e produtos perigosos - Protocolo de Montreal</p></td><td><p>Resíduos Sólidos - Gerador - (Anexo F)</p></td></tr><tr><td><p>18-66</p></td><td><p>Comércio de produtos químicos e produtos perigosos - Lei nº 7.802/1989</p></td><td></td></tr><tr><td><p>18-17</p></td><td><p>Comércio de produtos químicos e produtos perigosos - Convenção de Estocolmo / PI nº 292/1989</p></td><td><p>Comerciante de Produtos Químicos, Produtos Perigosos, Pneus, Combustíveis e Derivados - (Anexo M)</p></td></tr><tr><td><p>18-64</p></td><td><p>Comércio de produtos químicos e produtos perigosos - Resolução CONAMA nº 463/2014 / Resolução CONAMA nº 472/2015</p></td><td></td></tr></table>
+
+<table><tr></tr><tr><td><p>Anexo XXV</p></td></tr><tr><td><p>Cód.</p></td><td><p>Descrição</p></td><td><p>Formulários a serem preenchidos</p></td></tr><tr><td><p>20-60</p></td><td><p>Silvicultura - Lei nº 12.651/2012: art. 35, §§ 1º, 3º</p></td><td><p>Resíduos Sólidos - Gerador - (Anexo F)</p><p>Silvicultura - (Anexo U)</p></td></tr><tr><td><p>20-61</p></td><td><p>Silvicultura - Lei nº 12.651/2012: art. 35, § 1º</p></td><td></td></tr><tr><td><p>20-2</p></td><td><p>Exploração econômica da madeira ou lenha e subprodutos florestais</p></td><td><p>Resíduos Sólidos - Gerador - (Anexo F)</p><p>Exploração Econômica da Madeira ou Lenha e Subprodutos Florestais - (Anexo W)</p></td></tr><tr><td><p>20-63</p></td><td><p>Exploração econômica da madeira ou lenha e subprodutos florestais - Instrução Normativa IBAMA nº 21/2014: 7º, II</p></td><td></td></tr><tr><td><p>20-22</p></td><td><p>Importação ou exportação de flora nativa brasileira</p></td><td><p>Importação e Exportação de Fauna e Flora- (Anexo S)</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>Anexo XXVI</p></td></tr><tr><td><p>Cód.</p></td><td><p>Descrição</p></td><td><p>Formulários a serem preenchidos</p></td></tr><tr><td><p>20-25</p></td><td><p>Atividade de criação e exploração econômica de fauna exótica e de fauna silvestre - Instrução Normativa IBAMA nº 7/2015: art. 3º, X</p></td><td><p>Resíduos Sólidos - Gerador - (Anexo F)</p><p>Sisfauna - Plantel Exato - (Anexo O)</p><p>Sisfauna - Plantel Estimado - (Anexo P)</p><p>Sisfauna - Comercialização de Partes &amp; Produtos - (Anexo Q)</p></td></tr><tr><td><p>20-6</p></td><td><p>Exploração de recursos aquáticos vivos</p></td><td><p>Resíduos Sólidos - Gerador - (Anexo F)</p><p>Efluentes Líquidos - (Anexo C)</p></td></tr><tr><td><p>20-54</p></td><td><p>Exploração de recursos aquátcos vivos - Lei nº 11.959/2009: art. 2º, II</p></td><td></td></tr><tr><td><p>20-21</p></td><td><p>Importação ou exportação de fauna nativa brasileira</p></td><td><p>Importação e Exportação de Fauna e Flora - (Anexo S)</p></td></tr><tr><td><p>20-23</p></td><td><p>Atividade de criação e exploração econômica de fauna exótica e de fauna silvestre - Instrução Normativa IBAMA nº7/2015: art. 3º, VII</p></td><td><p>Sisfauna - Plantel Exato - (Anexo O)</p><p>Sisfauna - Plantel Estimado - (Anexo P)</p><p>Sisfauna - Comercialização de Partes &amp; Produtos - (Anexo Q)</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>Anexo XXVII</p></td></tr><tr><td><p>Cód.</p></td><td><p>Descrição</p></td><td><p>Formulários a serem preenchidos</p></td></tr><tr><td><p>20-5</p></td><td><p>Utilização do patrimônio genético natural</p></td><td><p>Uso do Patrimônio Genético Natural ou Introdução de Espécies Exóticas ou Geneticamente Modificadas - (Anexo T)</p></td></tr><tr><td><p>20-26</p></td><td><p>Introdução de espécies exóticas, exceto para melhoramento genético vegetal e uso na agricultura</p></td><td></td></tr><tr><td><p>20-35</p></td><td><p>Introdução de espécies geneticamente modificadas previamente identificadas pela CTNBio como potencialmente causadoras de significativa degradação do meio ambiente</p></td><td></td></tr><tr><td><p>20-37</p></td><td><p>Uso da diversidade biológica pela biotecnologia em atividades previamente identificadas pela CTNBio como potencialmente causadoras de significativa degradação do meio ambiente</p></td><td></td></tr></table>
+
+**Art. 6º** Esta Instrução Normativa entra em vigor na data de sua publicação.
+
+SUELY ARAÚJO

@@ -1,0 +1,1642 @@
+{
+  "criterio": "Congela o próximo lote de candidatos TA, sem repetir identidades já examinadas.\n\nVersão 2: exporta diários/anexos apenas de portais selecionados, evitando exigir\nmetadados de tipos de portais sem candidatos neste lote.\n\nO limite é somente o tamanho do lote de trabalho. A coleta de portais continua;\nreexecuções com as exclusões anteriores cobrem os candidatos seguintes.\n",
+  "selecionados": 272,
+  "disponiveis_apos_exclusoes": 272,
+  "exclusoes": [
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0001/resultados.jsonl",
+      "sha256": "cb49d44c92fe2e8f0102be164a449805bff97fcee62248f3da16a5563bc74148"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0002-v2/resultados.jsonl",
+      "sha256": "2b2730a051cb96a4ff159162e98366a0a4bfc431290aacaa9f15b0b1897e4472"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0003/resultados.jsonl",
+      "sha256": "fe9d893e621397986d9cb3b0f264d70cf401d36db5f8ee4947e8f9a0a33082fe"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0004/resultados.jsonl",
+      "sha256": "727700d434820dcd22f5ec9fb9aed079e99e58450a3c18b98cd15eed1a711c32"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0005/resultados.jsonl",
+      "sha256": "3235bf84baef24f08e4bc7ebf5803fbe3ddab23c3aae882926bc66e7885e2570"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0006/resultados.jsonl",
+      "sha256": "1d067d4f848aa353b30e6884798f35b5aa9b55f5a9ba3e897367d48dce75ffb1"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0007/resultados.jsonl",
+      "sha256": "7e9065d204ef26054f26dbb6118b997c2ca789b8fd83286ea74c57a2ff2361a2"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-piloto-gates-0001/resultados.jsonl",
+      "sha256": "2f3d2a94ffd99335a5c9d782692aaa5b865570ef4f8cced270c94073e15278ae"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/formas-gates-0001/resultados.jsonl",
+      "sha256": "60c71f5205eb437a4c42f289d873ae3b9d4bea6b13a7c00e79337939feb73dfa"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/resultados.jsonl",
+      "sha256": "e02a8d1e15f881485d78bfb6bac0b0a0a7f13ebc35875898b06f22e12fcf9969"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0002/resultados.jsonl",
+      "sha256": "4a236a292f92deb5da31a24f10e313f93187a130772028803738532174987183"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0003/resultados.jsonl",
+      "sha256": "a30f0beb3bcdf6410883449224177c20241655bccee8cb845e917c42cfb9a508"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0004/resultados.jsonl",
+      "sha256": "c4742688d9d15e5c8c53d8dbf43547d565f377bdbabef622fe3e42574678ac28"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0005/resultados.jsonl",
+      "sha256": "34d785b4180b63f7b735c3cf221ac2e905b01ac6570e8175a4d0c666323e8d6e"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0006/resultados.jsonl",
+      "sha256": "2df97b04e59b5977127005a710a9cea7d04d81a4b4a4d4f135b218bfffacabd0"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0007/resultados.jsonl",
+      "sha256": "4c4930cc4e19e5b0c912835b33b61d56c821e718f40a415d39038cf6f31a82b1"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0008/resultados.jsonl",
+      "sha256": "d92d281e8e8ac10320c86127535c065cd8b5cba4f0f33877d803d6802efb4c16"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0009/resultados.jsonl",
+      "sha256": "f4039cccc51c6f8b48a556c23e804cb037c8ba55d047e4cd38a573959eb45632"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0010/resultados.jsonl",
+      "sha256": "747062b23203a4330bc86d01a35a53c94dd3330f717513ab3ed5321bcceca306"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/resultados.jsonl",
+      "sha256": "d00e56bac03cf106f7ee2182c4797a2b188f1ad73a42d28571c1c7b5a376db3e"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0012/resultados.jsonl",
+      "sha256": "411f9a9e76c09ec62ef5f3e4f58714de8ab0c32097980ef2097c2b96667ade58"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0013/resultados.jsonl",
+      "sha256": "e81b1d45cc85bdd1d2f95b63c21e9ba574c6daa2380a27e7495ec9a591118470"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0014/resultados.jsonl",
+      "sha256": "7ae08befcd3728cdaf5ae4b1c0a123506b7fa25479026b75df5a3a68ace88701"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0015/resultados.jsonl",
+      "sha256": "27a69317ef9cf93fb11eaf0bda63267183a6c1a44c2d28cdc8d1550564ec7bc7"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0016/resultados.jsonl",
+      "sha256": "b2d842b5108e0e4d20c7a45d28f80e7d91cab96fed43d2278e036c4d7e87fa22"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0017/resultados.jsonl",
+      "sha256": "434043a3daaed4f634f5ae038bc07e30e1931a2394968249da6a326408867380"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/resultados.jsonl",
+      "sha256": "36305a676ed16ad48e6c4bd81ff4dce30d0d70e885cd9472c790b594930a8e35"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/tabelas-gates-0003/resultados.jsonl",
+      "sha256": "2401e2e10b5b5525b1f74ca700bd6ed3afdd76f8b26a8d58b7910dcda58642c5"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0001/resultados.jsonl",
+      "sha256": "5932a21d2f981ad60fb193e59905cb200a864ba63fdc6c6b82cdcb2fb4c8a803"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0002/resultados.jsonl",
+      "sha256": "743684bf7245afe2ce980a1c69e9b9f710145ee757458699075004a2ab54c59b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0003/resultados.jsonl",
+      "sha256": "fec8db37da0df80f24d140744fd160a69d7d54e524757678db4fe532b8d32c6b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0004/resultados.jsonl",
+      "sha256": "973a23f5b8058ae80a9bc8e50f72f6c139658c2e4e278d5e8ed3b678aecc4eb2"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0005/resultados.jsonl",
+      "sha256": "c94f3121369d1d538755aa1db82b139844dd2c059620913a05e6672657ac08a7"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/resultados.jsonl",
+      "sha256": "07d2def1265a88da175c93cce49b1cb0b6e614a39392a8b34298c5077ec67933"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0002/resultados.jsonl",
+      "sha256": "00b0379793a8cefcc6856103200a894027cc12b4ebaa00a0888624acdeb77924"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0003/resultados.jsonl",
+      "sha256": "703972bf99466f32af3ea505376726e60953103c80bfcb015b138b322027bada"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/resultados.jsonl",
+      "sha256": "839b37cdab75de94ecc9f5cb8edaa0a2e6170edb8ef80efcbbe64922b10dee5e"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001-v2/resultados.jsonl",
+      "sha256": "a4757881e0f7c5cc09735b4607fb9436a2681fc6bbdc9bdc884942ba269b02d0"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0002/resultados.jsonl",
+      "sha256": "353d1230a0e13fe4e46b88fdb81aff47a12838c7fbb380c8261269e3df03f5ea"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0006/resultados.jsonl",
+      "sha256": "77fa0bfd91207f69ce1f69b8f288d536fd309260252cbb69eba7992069ea63cc"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0007/resultados.jsonl",
+      "sha256": "17d885bf36143f9de9ba0b2affb3df2e32a291901a3f825be96461c575a3cbf1"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0008/resultados.jsonl",
+      "sha256": "40710202641b46c142de773af6e360358bc0ebc342f005fa9ab2ee5efa6b4d53"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0009/resultados.jsonl",
+      "sha256": "1b47ce849a273d4dc8867137c695a57e05a09daaf1395142e0223a5948143689"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "sha256": "07c28b7649ab8d2b66e5457dc4a91e301c0ad10f207e14d5f8d5386d9d0f922d"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "sha256": "88151915faa9eee309d14b21682d66e7df027ce2c06a26be1c4bcb4d1e715400"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "sha256": "4163cc2ede430d59996828d6c55032be7055f8ac96f55dc7500b36b0bdadecb3"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012-v2/resultados.jsonl",
+      "sha256": "e2da31dfcdbbbf388ec02f9b311e85f5c88669fc7cd3efda03355694394576ac"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012-v3/resultados.jsonl",
+      "sha256": "96f11eb8a39c3f95785207414dcb951cd09e7e6775509a143cd97824a18c9d2c"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0013/resultados.jsonl",
+      "sha256": "938def4e7698e31c7415a6981465ed65dbc789793350b359b499e3381d0fa10b"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0014/resultados.jsonl",
+      "sha256": "4c3cfeeb0a05b2bb00c0f4cb762fd4f7488aedd8d6f71ab7357ff5b1213ff27b"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0015/resultados.jsonl",
+      "sha256": "bbf88caafca24ef2881e3c07118ac25262b4c48173aefe57d0e074929364e301"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0016/resultados.jsonl",
+      "sha256": "b0e76b22e26e2be97db8a67c9bb2d972208287c115aa662250b186ff6f07df9b"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0017/resultados.jsonl",
+      "sha256": "9579a7eb8988886a89e1ba1c778264f2ce53ce9dab591885b5201ba8a8badf16"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/resultados.jsonl",
+      "sha256": "64be15e2213da7eafa32b6022b3449299796aa668f859ff87dcd78e55f046a17"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0008/resultados.jsonl",
+      "sha256": "d133cfa0c781a2b375502106a50242648deba0b8263a90c94014904644345766"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0020/resultados.jsonl",
+      "sha256": "31acff44e532afca9c66e424f5af09e5a42b2c6a1acf6ce0b5a41ce038815cee"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0021/resultados.jsonl",
+      "sha256": "2936b9ed3b45a6130e00bb401a7eb8c084819b1bb3f0eeeab28bb47539b70c65"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/resultados.jsonl",
+      "sha256": "98e1f8df5a1ea8e884d0d231fb8d87eca21986891c7db424842bd5c596a5714e"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0023/resultados.jsonl",
+      "sha256": "bd2fbc5eef79e6113f6d60fa70a02a9890c1f0586cd9749525d9d94701775fdf"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0024/resultados.jsonl",
+      "sha256": "dc997b3f0bd5badb44d2bae4136bb9fcee0839612546ffd28037e10322665423"
+    }
+  ],
+  "prefixos_origem": [
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0025/sapl.divinopolis.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "fca86e8794dd1557a05eab704b7939683fce765dcf29bb89075228ba358dcd5d",
+      "bytes_prefixo": 220073
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0025/sapl.durande.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "2bc260497049e7f238395f86ea6a158f280ff751be2208d227009c3f9aa5b7aa",
+      "bytes_prefixo": 56344
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0025/sapl.embuguacu.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "ac2dda057e01c4d8f8663f0000cbbf0b6d287bf36e4d04a601e3526b112cd3ae",
+      "bytes_prefixo": 3279
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0025/sapl.engenheiropaulodefrontin.rj.leg.br/resultados.jsonl",
+      "sha256_prefixo": "9be1174268ce445edf8911590675c2ebf7a0bdda60716a5b3ac7f82e4ad79ed4",
+      "bytes_prefixo": 507692
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0025/sapl.esperafeliz.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "fe9ebcdffeb952b4e59a8f7b8c1fb0b66361eb19195a2a82ee819bf265b312e6",
+      "bytes_prefixo": 76975
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0025/sapl.eusebio.ce.leg.br/resultados.jsonl",
+      "sha256_prefixo": "39f6dea82ee505a2d6339fd547eae91beb09693fbbdb30cf09be127896d32bee",
+      "bytes_prefixo": 111716
+    }
+  ],
+  "script_sha256": "ed1f0a1eaeda7c9c3f1271ecdbbae4634b92e070bb936d4d89f3e5d2ac57f520",
+  "identidades": [
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 637,
+      "norma_id": 6933
+    },
+    {
+      "host": "sapl.durande.mg.leg.br",
+      "ta_id": 5,
+      "norma_id": 6
+    },
+    {
+      "host": "sapl.embuguacu.sp.leg.br",
+      "ta_id": 4,
+      "norma_id": 567
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2163,
+      "norma_id": 2684
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 49,
+      "norma_id": 2758
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 76,
+      "norma_id": 3031
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 636,
+      "norma_id": 6479
+    },
+    {
+      "host": "sapl.durande.mg.leg.br",
+      "ta_id": 6,
+      "norma_id": 7
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2164,
+      "norma_id": 2683
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 48,
+      "norma_id": 2755
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 75,
+      "norma_id": 3023
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 672,
+      "norma_id": 8668
+    },
+    {
+      "host": "sapl.durande.mg.leg.br",
+      "ta_id": 23,
+      "norma_id": 24
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2165,
+      "norma_id": 2678
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 45,
+      "norma_id": 2746
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 71,
+      "norma_id": 2968
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1050,
+      "norma_id": 4799
+    },
+    {
+      "host": "sapl.durande.mg.leg.br",
+      "ta_id": 22,
+      "norma_id": 22
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2166,
+      "norma_id": 2676
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 44,
+      "norma_id": 2737
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 70,
+      "norma_id": 2858
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 240,
+      "norma_id": 3976
+    },
+    {
+      "host": "sapl.durande.mg.leg.br",
+      "ta_id": 20,
+      "norma_id": 21
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2438,
+      "norma_id": 2677
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 46,
+      "norma_id": 2725
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 72,
+      "norma_id": 2771
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 635,
+      "norma_id": 6478
+    },
+    {
+      "host": "sapl.durande.mg.leg.br",
+      "ta_id": 19,
+      "norma_id": 20
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2167,
+      "norma_id": 2675
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 24,
+      "norma_id": 2712
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 62,
+      "norma_id": 2755
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1303,
+      "norma_id": 3948
+    },
+    {
+      "host": "sapl.durande.mg.leg.br",
+      "ta_id": 18,
+      "norma_id": 19
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2168,
+      "norma_id": 2674
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 26,
+      "norma_id": 2710
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 61,
+      "norma_id": 2731
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 634,
+      "norma_id": 7793
+    },
+    {
+      "host": "sapl.durande.mg.leg.br",
+      "ta_id": 15,
+      "norma_id": 16
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1893,
+      "norma_id": 2673
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 25,
+      "norma_id": 2709
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 60,
+      "norma_id": 2730
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1299,
+      "norma_id": 7168
+    },
+    {
+      "host": "sapl.durande.mg.leg.br",
+      "ta_id": 17,
+      "norma_id": 18
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2169,
+      "norma_id": 2672
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 21,
+      "norma_id": 2688
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 59,
+      "norma_id": 2703
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 671,
+      "norma_id": 3904
+    },
+    {
+      "host": "sapl.durande.mg.leg.br",
+      "ta_id": 16,
+      "norma_id": 17
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2170,
+      "norma_id": 2671
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 19,
+      "norma_id": 2676
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 58,
+      "norma_id": 2693
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 232,
+      "norma_id": 3826
+    },
+    {
+      "host": "sapl.durande.mg.leg.br",
+      "ta_id": 14,
+      "norma_id": 15
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2171,
+      "norma_id": 2670
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 2,
+      "norma_id": 2642
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 57,
+      "norma_id": 2691
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1058,
+      "norma_id": 3780
+    },
+    {
+      "host": "sapl.durande.mg.leg.br",
+      "ta_id": 13,
+      "norma_id": 14
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1894,
+      "norma_id": 2669
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 37,
+      "norma_id": 2601
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 52,
+      "norma_id": 2402
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1059,
+      "norma_id": 7106
+    },
+    {
+      "host": "sapl.durande.mg.leg.br",
+      "ta_id": 12,
+      "norma_id": 13
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1769,
+      "norma_id": 2668
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 35,
+      "norma_id": 2484
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 51,
+      "norma_id": 2384
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 670,
+      "norma_id": 3903
+    },
+    {
+      "host": "sapl.durande.mg.leg.br",
+      "ta_id": 10,
+      "norma_id": 11
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1770,
+      "norma_id": 2667
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 3,
+      "norma_id": 2543
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 49,
+      "norma_id": 2322
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 633,
+      "norma_id": 3417
+    },
+    {
+      "host": "sapl.durande.mg.leg.br",
+      "ta_id": 21,
+      "norma_id": 23
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1803,
+      "norma_id": 2666
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 33,
+      "norma_id": 2193
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 48,
+      "norma_id": 2289
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 632,
+      "norma_id": 3418
+    },
+    {
+      "host": "sapl.durande.mg.leg.br",
+      "ta_id": 8,
+      "norma_id": 9
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1771,
+      "norma_id": 2665
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 30,
+      "norma_id": 2324
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 47,
+      "norma_id": 2274
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 228,
+      "norma_id": 1419
+    },
+    {
+      "host": "sapl.durande.mg.leg.br",
+      "ta_id": 7,
+      "norma_id": 8
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2172,
+      "norma_id": 2664
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 29,
+      "norma_id": 2322
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 40,
+      "norma_id": 2273
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 668,
+      "norma_id": 10416
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2173,
+      "norma_id": 2663
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 18,
+      "norma_id": 2334
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 41,
+      "norma_id": 2272
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 667,
+      "norma_id": 2083
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2174,
+      "norma_id": 2662
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 17,
+      "norma_id": 2333
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 42,
+      "norma_id": 2271
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1057,
+      "norma_id": 672
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2175,
+      "norma_id": 2661
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 1,
+      "norma_id": 2429
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 44,
+      "norma_id": 2270
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1049,
+      "norma_id": 243
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2151,
+      "norma_id": 2660
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 9,
+      "norma_id": 2667
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 45,
+      "norma_id": 2269
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1184,
+      "norma_id": 205
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2152,
+      "norma_id": 2659
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 8,
+      "norma_id": 2666
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 46,
+      "norma_id": 2268
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 212,
+      "norma_id": 168
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2149,
+      "norma_id": 2658
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 7,
+      "norma_id": 2665
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 29,
+      "norma_id": 2188
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1021,
+      "norma_id": 178
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1772,
+      "norma_id": 2657
+    },
+    {
+      "host": "sapl.esperafeliz.mg.leg.br",
+      "ta_id": 4,
+      "norma_id": 1340
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 27,
+      "norma_id": 2184
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 630,
+      "norma_id": 290
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2176,
+      "norma_id": 2655
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 26,
+      "norma_id": 2132
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 267,
+      "norma_id": 134
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2177,
+      "norma_id": 2653
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 25,
+      "norma_id": 2131
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1020,
+      "norma_id": 132
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2150,
+      "norma_id": 2652
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 24,
+      "norma_id": 2130
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 666,
+      "norma_id": 2342
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2178,
+      "norma_id": 2651
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 23,
+      "norma_id": 2127
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 258,
+      "norma_id": 529
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1752,
+      "norma_id": 2654
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 22,
+      "norma_id": 2110
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 437,
+      "norma_id": 337
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2179,
+      "norma_id": 2650
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 21,
+      "norma_id": 2094
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1242,
+      "norma_id": 338
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2181,
+      "norma_id": 2647
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 8,
+      "norma_id": 2058
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 661,
+      "norma_id": 2341
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1804,
+      "norma_id": 2656
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 30,
+      "norma_id": 2012
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 660,
+      "norma_id": 2340
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2153,
+      "norma_id": 2648
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 6,
+      "norma_id": 2028
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1024,
+      "norma_id": 949
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2180,
+      "norma_id": 2649
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 5,
+      "norma_id": 2027
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 370,
+      "norma_id": 733
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2182,
+      "norma_id": 2646
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 4,
+      "norma_id": 2026
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1022,
+      "norma_id": 1202
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1895,
+      "norma_id": 2645
+    },
+    {
+      "host": "sapl.eusebio.ce.leg.br",
+      "ta_id": 3,
+      "norma_id": 2025
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 598,
+      "norma_id": 1034
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1896,
+      "norma_id": 2644
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1048,
+      "norma_id": 1182
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1897,
+      "norma_id": 2642
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1333,
+      "norma_id": 1032
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2183,
+      "norma_id": 2641
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 659,
+      "norma_id": 8678
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1898,
+      "norma_id": 2640
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 658,
+      "norma_id": 8679
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1899,
+      "norma_id": 2639
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1047,
+      "norma_id": 1100
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2184,
+      "norma_id": 2636
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 283,
+      "norma_id": 1366
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2185,
+      "norma_id": 2637
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 594,
+      "norma_id": 1211
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2186,
+      "norma_id": 2633
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1298,
+      "norma_id": 1632
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1900,
+      "norma_id": 2632
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1241,
+      "norma_id": 1718
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1753,
+      "norma_id": 2638
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1302,
+      "norma_id": 8109
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2070,
+      "norma_id": 2631
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 424,
+      "norma_id": 8118
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2187,
+      "norma_id": 2630
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 189,
+      "norma_id": 1963
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2188,
+      "norma_id": 2629
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 593,
+      "norma_id": 1744
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2189,
+      "norma_id": 2628
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1246,
+      "norma_id": 1741
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2190,
+      "norma_id": 2622
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1239,
+      "norma_id": 1740
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2154,
+      "norma_id": 2627
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1056,
+      "norma_id": 8043
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2155,
+      "norma_id": 2626
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 423,
+      "norma_id": 1739
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1773,
+      "norma_id": 2625
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1238,
+      "norma_id": 1736
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1774,
+      "norma_id": 2624
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1204,
+      "norma_id": 1735
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1805,
+      "norma_id": 2623
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 863,
+      "norma_id": 1734
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2191,
+      "norma_id": 2621
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 597,
+      "norma_id": 1733
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2071,
+      "norma_id": 2620
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 596,
+      "norma_id": 1732
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2072,
+      "norma_id": 2617
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 595,
+      "norma_id": 1731
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1740,
+      "norma_id": 2619
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 372,
+      "norma_id": 4765
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2192,
+      "norma_id": 2615
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 188,
+      "norma_id": 4877
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2156,
+      "norma_id": 2616
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 371,
+      "norma_id": 6655
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1737,
+      "norma_id": 2614
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1213,
+      "norma_id": 6181
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2364,
+      "norma_id": 2613
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2193,
+      "norma_id": 2611
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2194,
+      "norma_id": 2610
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2195,
+      "norma_id": 2609
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1901,
+      "norma_id": 2596
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2196,
+      "norma_id": 2595
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2365,
+      "norma_id": 2607
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2366,
+      "norma_id": 2606
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2197,
+      "norma_id": 2592
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2073,
+      "norma_id": 2591
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2198,
+      "norma_id": 2590
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1736,
+      "norma_id": 2605
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1775,
+      "norma_id": 2604
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1776,
+      "norma_id": 2603
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1806,
+      "norma_id": 2602
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1735,
+      "norma_id": 2601
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1777,
+      "norma_id": 2600
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1778,
+      "norma_id": 2599
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1779,
+      "norma_id": 2598
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2199,
+      "norma_id": 2589
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2200,
+      "norma_id": 2588
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2201,
+      "norma_id": 2586
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1902,
+      "norma_id": 2585
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2202,
+      "norma_id": 2583
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1903,
+      "norma_id": 2582
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2203,
+      "norma_id": 2581
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2204,
+      "norma_id": 2577
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2205,
+      "norma_id": 2576
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2206,
+      "norma_id": 2575
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2207,
+      "norma_id": 2574
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1904,
+      "norma_id": 2573
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2208,
+      "norma_id": 2572
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2209,
+      "norma_id": 2571
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1905,
+      "norma_id": 2570
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1906,
+      "norma_id": 2569
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2210,
+      "norma_id": 2568
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1730,
+      "norma_id": 2522
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1780,
+      "norma_id": 2597
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2211,
+      "norma_id": 2567
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2074,
+      "norma_id": 2566
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1731,
+      "norma_id": 2521
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2212,
+      "norma_id": 2565
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2213,
+      "norma_id": 2564
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2075,
+      "norma_id": 2562
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2076,
+      "norma_id": 2561
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1732,
+      "norma_id": 2520
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2214,
+      "norma_id": 2560
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2215,
+      "norma_id": 2559
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2216,
+      "norma_id": 2558
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2217,
+      "norma_id": 2557
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1781,
+      "norma_id": 2519
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2218,
+      "norma_id": 2556
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2219,
+      "norma_id": 2555
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2157,
+      "norma_id": 2518
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2358,
+      "norma_id": 2517
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2220,
+      "norma_id": 2553
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2159,
+      "norma_id": 2516
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1907,
+      "norma_id": 2552
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2221,
+      "norma_id": 2550
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1908,
+      "norma_id": 2548
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1909,
+      "norma_id": 2547
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 1910,
+      "norma_id": 2546
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2222,
+      "norma_id": 2545
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2223,
+      "norma_id": 2544
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2224,
+      "norma_id": 2543
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2160,
+      "norma_id": 2515
+    },
+    {
+      "host": "sapl.engenheiropaulodefrontin.rj.leg.br",
+      "ta_id": 2161,
+      "norma_id": 2514
+    }
+  ]
+}

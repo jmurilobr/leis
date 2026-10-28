@@ -1,0 +1,23 @@
+from pathlib import Path
+import json,sys,re,hashlib
+sys.path.insert(0,'scripts');from preparar_lote_decretos_cache import fields
+sha=lambda b:hashlib.sha256(b).hexdigest();B=Path('federal');D=B/'_candidatos_commonmark_015018_20261021_001';D.mkdir(exist_ok=False);diag=json.load(open('/tmp/federal20261021-commonmark-semantico015018.json'));prep={r['path']:r for r in json.load(open('/tmp/federal20261021-commonmark-todos015018-preparo.json'))};out=[];render=[]
+for flag in diag['registros']:
+ if flag['mesmo_texto_apos_extracao_semantica'] or flag['contador_render_diverge_do_literal']:continue
+ r=prep[flag['path']];n=r['epigrafe']['numero']
+ if n=='23439':continue # suplemento próprio ausente, retido no overlay contextual
+ old=Path(r['md_path_usado']).read_bytes();assert sha(old)==r['sha256'];prior=B/'_candidatos_fidelidade_018_20261021_001'/Path(r['path']).name;chosen=prior if r['lote']==18 and prior.exists() else Path(r['md_path_usado']);raw=chosen.read_bytes();meta,cab,body=fields(raw.decode());before=body;changes=[]
+ exact={'24088':('n*, d*o','n, do'),'17738':('75*. O*','75. O')}
+ if n in exact:
+  a,b=exact[n];assert body.count(a)==1;body=body.replace(a,b);changes.append({'antes':a,'depois':b})
+ elif n=='23155' or n=='22770':
+  count=len(re.findall(r'(?m)^-$',body));assert count=={'23155':1,'22770':2}[n];body=re.sub(r'(?m)^-$',r'\\-',body);changes.append({'mudanca':'Escape de sinais - isolados em campos da fonte, sem converter enumerações em parágrafos.','ocorrencias':count})
+ elif n in ['22947','22305','21893','20495','18521']:
+  pat=r'(?m)^(\d+[.)]\s+)-(?=\s)';count=len(re.findall(pat,body));assert count=={'22947':2,'22305':6,'21893':6,'20495':13,'18521':3}[n];body=re.sub(pat,lambda m:m[1]+'\\-',body);changes.append({'mudanca':'Escape somente do hífen literal após o marcador numérico; conserva a lista ordenada, seu marcador e o texto dos itens.','ocorrencias':count})
+ elif n=='18717':
+  pat=r'\*\*Art\.\*\*(?=\d)';assert len(re.findall(pat,body))==2;body=re.sub(pat,'Art.',body);changes.append({'mudanca':'Retira somente ênfase inválida em dois rótulos Art. adjacentes ao número, preservando adjacência/pontuação.'})
+ else:
+  assert r['lote']==18 and n in ['17931','16822','16823','16828','16829','16814','16815','16816'];assert chosen==prior;changes.append({'mudanca':'Incorpora candidato privado anterior de correção estrita de markup, já preparado contra a mesma fonte.'})
+ new=('---\n'+cab.rstrip('\n')+'\n---\n'+body).encode();assert new!=old;dest=D/Path(r['path']).name;dest.write_bytes(new);out.append({'path':r['path'],'lote':r['lote'],'urn':r['urn'],'candidato':str(dest),'sha256_candidato':sha(new),'preimagem_canonica_sha256':sha(Path(r['path']).read_bytes()),'preimagem_privada':r['md_path_usado'],'sha256_preimagem_privada':sha(old),'incorpora_privado_anterior':str(chosen) if chosen!=Path(r['md_path_usado']) else None,'sha256_fonte_html':r['sha256_fonte_html'],'mudancas':changes,'status':'candidato_privado_pendente_replay_estrutural'});render.append({'path':r['path'],'markdown':fields(new.decode())[2].lstrip().partition('\n')[2]})
+assert len(out)==18
+Path('/tmp/federal20261021-reparos-commonmark015018-preparo.json').write_text(json.dumps(out,ensure_ascii=False,indent=2)+'\n');Path('/tmp/federal20261021-reparos-commonmark015018-render-input.json').write_text(json.dumps(render));print('candidatos',len(out))

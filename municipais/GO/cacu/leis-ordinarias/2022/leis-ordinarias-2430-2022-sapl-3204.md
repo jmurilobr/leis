@@ -1,0 +1,226 @@
+---
+titulo: "Lei Ordinária nº 2.430, de 14 de março de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2430"
+data: "2022-03-14"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/3204"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/233/text"
+sha256_fonte: "9512ed549973d7f5e0a2dc262d4d2ba2d705cc5ba8fcedc89e4c7c8922485afa"
+sha256_texto: "781340c8ece1c0d794b7853851e7a3bbc5f3c362b34ff5ad295d588d1ab73036"
+capturado_em_fonte: "2026-10-27T21:29:28.176660-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.430, de 14 de março de 2022
+
+Autoriza o Poder Executivo Municipal a fazer Concessão de Direito Real de Uso da área do lote nº 01 da Qd. “B”, da AV-2 da matrícula nº 7.440, do Livro 2 do CRI local, para a empresa ACADEMIA PERFORMANCE DE CAÇU LTDA., e dá outras providências.
+
+
+**A Câmara Municipal de Caçu**, Estado de Goiás, por seus Representantes aprova e eu, **Prefeita**, no uso das atribuições conferidas pela Lei Orgânica do Município, SANCIONO a seguinte LEI:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a fazer Concessão de Direito Real de Uso, da totalidade da área do lote 01, da Quadra nº “B”, objeto do desmembramento da matrícula nº 7.440 do Livro nº 02, do CRI local, referente a AV-2, para a empresa ACADEMIA PERFORMANCE DE CAÇU LTDA., estabelecida nesta Cidade, na Rua Neca Borges, nº 1.080-A, Bairro Morada dos Sonhos, CEP Nº 75813-000, inscrita no CNPJ/MF sob o nº 21.662.636/0001-79, com atividade de condicionamento físico, neste ato representada pelo seu sócio administrador JOSÉ HILTON ALVES CARDOSO, brasileiro, solteiro, empresário, portador da Cédula de Identidade RG nº 1069344-SSP/AL e do CPF/MF nº 777.546.204-30, residente e domiciliado na Rua Joaquim Camilo, nº 1.060, Setor Morada dos Sonhos, CEP nº 75813-000 – Caçu/GO., referente ao imóvel: A totalidade da área do lote nº 01 da Quadra “B”, objeto da matrícula nº 7.440 do Livro 2 do CRI local, desmembrada conforme AV-2 da mencionada matrícula, contendo a área total de 1.236,50m² (um mil, duzentos e trinta e seis metros e cinquenta decímetros quadrados), com as seguintes descrições perimétricas: frente: 36,00m para a Rua Teodorico Rodrigues da Fonseca; fundo: 34,59m para o lote 03; lateral direita: 37,56m para o lote nº 02; lateral esquerda: 33,00m para a Rua Raimunda Maria da Conceição.
+
+
+Art. 2º.
+
+A área urbanizada objeto da presente concessão de direito real de uso, para fins legais, foi avaliada em R$ 105.102,50 (cento e cinco mil, cento e dois reais e cinquenta centavos) e será destinado à instalação da sede da empresa CESSIONÁRIA, que terá como ramo de negócio a atividade de condicionamento físico.
+
+
+Art. 3º.
+
+A concessão de direito real de uso da área de que trata o artigo 1º desta Lei será formalizada através de contrato administrativo ou de escritura pública, mediante apresentação do cronograma de construção e desenvolvimento da atividade, devidamente instruído com os seguintes documentos:
+
+
+I –
+
+comprovação de regular personalidade jurídica;
+
+
+II –
+
+última declaração de imposto de renda, ou comprovante da dispensa de apresentação, para fins de comprovação da capacidade financeira e econômica;
+
+
+III –
+
+prova de quitação com fiscalização federal, estadual, municipal, previdenciário e outros órgãos de administração pública;
+
+
+IV –
+
+certidões negativas de protestos de títulos;
+
+
+V –
+
+certidões de distribuição de ações judiciais da sede da empresa;
+
+
+VI –
+
+planta do imóvel a ser construído;
+
+
+VII –
+
+declarar, por escrito, estar de acordo com os encargos e demais condições estabelecidas nesta Lei, em especial com a legislação ambiental.
+
+
+Art. 4º.
+
+A concessão de direito real de uso de que trata o artigo 1º desta Lei é pelo período de 10 (dez) anos, a contar da assinatura do contrato administrativo ou equivalente escritura pública.
+
+
+Art. 5º.
+
+São encargos da concessionária os quais, obrigatoriamente, deverão constar no instrumento de formalização de concessão:
+
+
+I –
+
+iniciar sua construção até 30 (trinta) dias após firmar o contrato de concessão da área e expedição do competente alvará de construção, e concluí-la no prazo improrrogável de 01 (um) ano, sob pena de tornar nula de pleno direito a concessão efetuada, sem direito a qualquer indenização e retenção de benfeitorias;
+
+
+II –
+
+dar início a atividade até 30 (trinta) dias após o término da obra, sob pena de tornar nula de pleno direito a concessão efetuada, sem direito a qualquer indenização e retenção de benfeitorias;
+
+
+III –
+
+utilizar o imóvel exclusivamente para o fim descrito no artigo 2º desta Lei, sob pena de tornar nula de pleno direito a concessão efetuada, sem direito a qualquer indenização e retenção de benfeitorias;
+
+
+IV –
+
+a mão de obra na construção e no desenvolver da atividade, a ser empregada deverá ser de, no mínimo, 60% (sessenta por cento) de operários residentes neste município, exceto as funções especializadas;
+
+
+V –
+
+cumprir fielmente, sob pena de rescisão do contrato de concessão de direito real de uso ou de revogação da escritura pública, as normas ambientais, tributárias, empresariais, trabalhista e outras em vigor, relacionadas ao ramo de atividade da beneficiária, e os encargos elencados no inciso VI deste artigo;
+
+
+VI –
+
+a partir da instalação da beneficiária no imóvel concedido, assumir a responsabilidade de:
+
+
+a)
+
+no 1º ano de atividades, obter faturamento superior a R$20.000,00 (vinte mil reais), mensais, e empregar, no mínimo, 02 (dois) funcionários;
+
+
+b)
+
+no 2º ano de atividades, obter faturamento superior a R$30.000,00 (trinta mil reais), mensais, e empregar, no mínimo, 05 (cinco) funcionários;
+
+
+c)
+
+no 3º ano de atividades, obter faturamento superior a R$60.000,00 (sessenta mil reais), mensais, e empregar, no mínimo, 06 (seis) funcionários;
+
+
+d)
+
+nos demais períodos da concessão de direito real de uso, a empresa terá liberdade no aumento do faturamento e geração de empregos, respeitando os valores e quantidades mínimas exigidas na alínea “c” deste inciso;
+
+
+VII –
+
+o imóvel reverterá ao patrimônio municipal se a concessionária, durante o prazo de 10 (dez) anos, suspender suas atividades por mais de 06 (seis) meses, consecutivos ou não, sem direito a qualquer tipo de indenização e retenção de benfeitorias;
+
+
+VIII –
+
+deve ainda a concessionária ser compromissada às seguintes condições:
+
+
+a)
+
+não desviar a finalidade dada ao imóvel recebido sob o regime de concessão de direito real de uso de imóvel;
+
+
+b)
+
+conservar o imóvel sempre em bom estado, incluindo limpeza, capina, cerca e/ou muros, entre outros;
+
+
+c)
+
+não praticar qualquer ação atentatória, contra os bons costumes e a boa vizinhança;
+
+
+d)
+
+não efetuar transferência do imóvel, seja a que título for, sem anuência do Município;
+
+
+e)
+
+não praticar qualquer irregularidade que, por sua gravidade, possa comprometer aos objetivos desta concessão;
+
+
+f)
+
+cumprimento dos demais encargos estabelecidos nesta Lei.
+
+
+Parágrafo único
+
+Constarão no instrumento de formalização da concessão, as penalidades para o caso de descumprimento parcial ou total dos encargos estabelecidos nesta Lei.
+
+
+Art. 6º.
+
+A empresa deverá comprovar ao Poder Executivo Municipal, por meio de demonstrativos contábeis, relatórios trabalhistas e demais documentos pertinentes, o atendimento do previsto nos incisos V e VI do artigo 5º desta Lei.
+
+
+Parágrafo único
+
+A comprovação de que trata o caput deste artigo deverá ser feita anualmente, enquanto durar a vigência da Concessão de Direito Real de Uso.
+
+
+Art. 7º.
+
+Após 10 (dez) anos de atividade no imóvel recebido em concessão do direito real de uso, e comprovados pela beneficiária o cumprimento dos encargos e prazos previstos no artigo 5º desta Lei e a manutenção da empresa em atividade, o Poder Executivo Municipal ficará autorizado a realizar a doação desse imóvel à empresa concessionária, com a condição de nele ser mantida a sede da empresa, com as atividades descritas no Art. 2º desta Lei.
+
+
+Parágrafo único
+
+O município poderá escriturar o terreno em nome da concessionária antes de decorrido o prazo previsto no caput deste artigo, em caso da concessionária necessitar da escritura definitiva, com vista a oferece-lo em garantia junto às instituições financeiras, no caso de financiamento da construção e/ou aquisição de equipamentos da empresa prevista nesta Lei, constando da escritura cláusula reversiva para o caso de não efetivação da construção ou desistência a qualquer tempo.
+
+
+Art. 8º.
+
+Fica dispensada a concorrência pública para os fins da presente Lei.
+
+
+Art. 9º.
+
+Fica revogada a Lei nº 2.334/2019, de 26 de dezembro de 2019 e demais disposições em contrário.
+
+
+Art. 10.
+
+A presente Lei entra em vigor na data de sua publicação.
+
+
+**GABINETE DA PREFEITA DE CAÇU,** Estado de Goiás, aos 14 dias do mês de março do ano de 2022.
+
+
+**ANA CLÁUDIA LEMOS OLIVEIRA**
+
+**Prefeita Municipal**
+

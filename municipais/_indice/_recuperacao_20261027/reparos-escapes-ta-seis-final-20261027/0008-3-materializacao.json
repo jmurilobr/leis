@@ -1,0 +1,73 @@
+{
+  "host": "sapl.barramansa.rj.leg.br",
+  "norma_id": 4088,
+  "ta_id": 2509,
+  "aprovado": true,
+  "path": "municipais/RJ/barra-mansa/leis-ordinarias/1995/leis-ordinarias-2808-1995-sapl-4088.md",
+  "sha256": "d9ffe6c651a28a2941cf463abef2bdc8213e0c09b38c2237cebf561bee8b9c1c",
+  "bytes": 12799,
+  "gates": {
+    "tabelas_nativas_prova": null,
+    "tipo_oficial": "Lei Ordinária",
+    "identidade_literal": {
+      "epigrafes": [
+        {
+          "tipo": "LEI ORDINARIA",
+          "numero": "2.808",
+          "numero_normalizado": "2808",
+          "trecho": "LEI ORDINARIA Nº 2.808, DE 22 DE DEZEMBRO DE 1995",
+          "data_literal": "1995-12-22"
+        }
+      ],
+      "numero_metadado": "2808",
+      "numero_literal_confirmado": true,
+      "data_literal_confirmada": true,
+      "divergencias": [],
+      "limite": "Tipo completo aceito somente quando literal e igual ao cadastro oficial; todos os números e datas encontrados devem concordar. Divergências do parser anterior são preservadas. Jurisdição, fonte, anexos, contexto e vigência continuam sujeitos aos demais gates."
+    },
+    "categoria": "leis-ordinarias",
+    "tipo_canonico": "Lei ordinária",
+    "titulo_literal": "Lei Ordinária nº 2.808, de 22 de dezembro de 1995",
+    "tokens_ativos": 1660,
+    "dispositivos_ativos": 120,
+    "historicos_excluidos": 0,
+    "cortes_de_vigencia_declarados": [],
+    "anexos_proprios": 0,
+    "limite": "Corte declarado é atribuído ao portal. Ausência de corte não certifica atualização nem vigência integral."
+  },
+  "prova_ta": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/01e48b9036d6d21327ad2ec5390fd37a8e1f20e30cbed05f699cdb6d7c1f55cd.json",
+    "sha256": "bbec2450c1bf13f247db361b3fbebf06ac22c2635568fd66479bfe6ed2eb1667",
+    "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/01e48b9036d6d21327ad2ec5390fd37a8e1f20e30cbed05f699cdb6d7c1f55cd.meta.json",
+    "sha256_metadata": "aa8bc87f57a332052f3cad66513d65b90534074c69c1a8687c5916b9993c666a",
+    "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=24"
+  },
+  "prova_casa": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/6717e25619227decda40c6b074cc70ca4fe85232d53eff287b21d033498f426d.json",
+    "sha256": "a3ded238476ebbfe315a4c408a258cca4b5016fd2b93393aa99961ec0087f866",
+    "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/6717e25619227decda40c6b074cc70ca4fe85232d53eff287b21d033498f426d.meta.json",
+    "sha256_metadata": "d57962a24f1018ca0ac80edf2ab00460a2d0b849cbf86cf661353923973f466c",
+    "url": "https://sapl.barramansa.rj.leg.br/api/base/casalegislativa/"
+  },
+  "prova_norma": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/f645684dc95df3259e80626f1a294448dd3ff4c3bcf3b2ff80900ca0b104f699.json",
+    "url": "https://sapl.barramansa.rj.leg.br/api/norma/normajuridica/4088/",
+    "url_final": "https://sapl.barramansa.rj.leg.br/api/norma/normajuridica/4088/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "bde64c1b7c5a91e3d7dd5843be2cfc3693959e28d29260b2b475e9ccc97f214c",
+    "bytes": 882,
+    "capturado_em": "2026-10-27T18:35:59.269805-03:00"
+  },
+  "prova_frontend": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/b3dd59119ec8252c3efaea2a72aa9b687dae64b8645bede42852e74a25c692dd.html",
+    "url": "https://sapl.barramansa.rj.leg.br/norma/4088",
+    "url_final": "https://sapl.barramansa.rj.leg.br/ta/2509/text",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "3a0e86c3cfb9b3fc0ecdc1e6eade0b469b51fe10d1c280e8be96960868b94f4e",
+    "bytes": 70448,
+    "capturado_em": "2026-10-27T18:36:00.863286-03:00"
+  },
+  "transcricao": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.barramansa.rj.leg.br/candidatos/4088-2509.txt"
+}

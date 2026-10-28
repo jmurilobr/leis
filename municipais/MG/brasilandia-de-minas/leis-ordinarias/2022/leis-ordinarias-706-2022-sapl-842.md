@@ -1,0 +1,249 @@
+---
+titulo: "Lei Ordinária-PL nº 706, de 27 de setembro de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "706"
+data: "2022-09-27"
+municipio: "Brasilândia de Minas"
+uf: "MG"
+codigo_ibge: "3108552"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.brasilandiademinas.mg.leg.br/norma/842"
+fonte_texto: "https://sapl.brasilandiademinas.mg.leg.br/ta/637/text"
+sha256_fonte: "fc5dbc6b34073eef219a51ea5aaeb6a64131e47314858291d76bf8c77d84eae6"
+sha256_texto: "093b40777cbc9da756951b2df524b77b22266efc825ef1b080b54eab7f0c068a"
+capturado_em_fonte: "2026-10-27T19:39:42.882227-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária-PL nº 706, de 27 de setembro de 2022
+
+"Dispõe sobre a regulamentação das atividades de Escritório Virtual, Coworking e assemelhados по Município de Brasilândia de Minas MG, e dá outras providências."
+
+
+O PREFEITO DO MUNICÍPIO DE BRASILÂNDIA DE MINAS, Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 86, inciso VII, da Lei Orgânica do Municipio, faz saber que a Câmara Municipal decreta e ele, em seu nome, sanciona e promulga a seguinte Lei:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Esta Lei estabelece normas gerais para disciplinar as atividades de Coworking e Escritório Virtual no âmbito do Município de Brasilândia de Minas.
+
+
+Parágrafo único
+
+Subordinam-se ao regime desta lei as pessoas físicas ou jurídicas prestadoras ou tomadoras dos serviços aqui disciplinados e executados no território do municipio de Brasilândia de Minas.
+
+
+Art. 2º.
+
+Para os fins desta lei considera-se:
+
+
+I –
+
+Escritório Virtual: Serviço de suporte administrativo a distância, prestado a pessoas físicas ou jurídicas;
+
+
+II –
+
+Coworking: Serviço de suporte administrativo e cessão de espaço físico para a utilização por pessoas físicas ou jurídicas que mantenham ou não domicilio no mesmo endereço;
+
+
+III –
+
+Coworking Center, Espaço físico disponibilizado aos usuários dos serviços de Coworking como domicilio fiscal e/ou comercial;
+
+
+IV –
+
+Usuário: Tomador dos serviços de Coworking ou Escritório Virtual.
+
+
+Art. 2º-A.
+
+Para os fins desta Lei, os serviços de Coworking englobam os serviços de Escritório Virtual.
+
+
+§ 1º
+
+A prestação de serviços de Coworking não se confunde com sublocação.
+
+
+§ 2º
+
+É vedada a regulamentação e funcionamento dos estabelecimentos descritos no caput, que tenham por objetivo apenas o domicilio de empresas e que não forneçam a prestação de serviços e suporte administrativo aos clientes.
+
+
+§ 3º
+
+Considera-se escritórios virtuais, coworkings e coworkings centers, todo aquele empreendimento que está autorizado a sediar múltiplas empresas, com o registro de sua atividade no Cadastro Nacional de Atividade Econômica CNAE, sob o código 8211 (serviços combinados de escritório e apoio administrativo).
+
+
+Art. 3º.
+
+Para efeito dessa lei, e legislação correlata, são considerados escritórios virtuais ou coworkings centers e coworkings, as empresas que fornecem uma combinação ou pacote de serviços administrativos, tais como:
+
+
+I –
+
+cessão do endereço com registro nos órgãos oficiais, serviços de recepção, planejamentos empresariais, arquivamentos, recebimento e processamento de correspondências, secretariado, serviços de atendimento telefônico, recepção, entre outros:
+
+
+II –
+
+espaço físico com salas executivas para reuniões, auditórios e recepção;
+
+
+III –
+
+tenham como objeto social o código CNAE 8211 serviços combinados de escritório e apoio administrativo conforme mencionado no art. 1º dessa lei.
+
+
+Art. 4º.
+
+Os prestadores de serviços de Coworking ou Escritório Virtual ficam obrigados a manter a disposição dos agentes de fiscalização o contrato de prestação de serviços celebrado com o usuário.
+
+
+Art. 5º.
+
+Somente as empresas prestadoras de serviços de Coworking, nos termos da presente lei, poderão sediar múltiplas empresas no mesmo endereço.
+
+
+#### CAPÍTULO II — DO ESCRITÓRIO VIRTUAL
+
+
+Art. 6º.
+
+A prestação de serviços de escritório virtual poderá ser realizado por pessoas jurídicas.
+
+
+Art. 7º.
+
+Os serviços de suporte administrativo compreendidos pela atividade de Escritório Virtual são o de atendimento telefônico, secretariado, digitalização, impressão, caixa postal, contratação de motoboy, entre outros correlatos.
+
+
+Art. 8º.
+
+Os prestadores de serviço de Escritório Virtual não poderão ceder domicilio fiscal a usuários.
+
+
+#### CAPÍTULO III — DO COWORKING
+
+
+Art. 9º.
+
+O serviço de Coworking somente poderá ser prestado por pessoas jurídicas.
+
+
+Art. 10.
+
+Os serviços de suporte administrativo compreendidos pela atividade de Coworking são, além daqueles descritos no Art. 6º, os de cessão do domicilio fiscal e comercial, cessão de espaço físico para atividades relativas ao exercício de empresa do usuário, recepção física, arquivamento, recebimento, processamento de correspondências e outros correlatos.
+
+
+Art. 11.
+
+É facultada aos usuários de estabelecimentos que forneçam serviços de Coworking a transferência de seu domicilio fiscal para o Coworkings Centers, nos termos do contrato de prestação de serviços.
+
+
+Art. 12.
+
+Aquele que presta serviços de Coworking fica obrigado a:
+
+
+I –
+
+inscrever-se no Município e obter o Alvará de Licença para Localização e Permanência no Local;
+
+
+II –
+
+permanecer em funcionamento, no mínimo, em horário comercial;
+
+
+III –
+
+oferecer estrutura compatível com os serviços administrativos prestados;
+
+
+IV –
+
+fornecer espaço de uso comum aos usuários lá domiciliados que possibilite o exercicio de suas atividades empresariais;
+
+
+V –
+
+arcar com os custos relativos à manutenção dos espaços comuns, água, eletricidade e coleta de lixo, condomínio, IPTU, impostos e taxas;
+
+
+VI –
+
+estabelecer critérios claros e transparentes no que diz respeito aos custos dos usuários para a utilização do espaço e prestação de serviços;
+
+
+VII –
+
+disponibilizar as condições necessárias para o exercício dos trabalhos dos agentes fiscais.
+
+
+Art. 13.
+
+Os usuários de serviços de Coworking são obrigados a:
+
+
+I –
+
+comunicar ao setor competente da Prefeitura Municipal, imediatamente, qualquer alteração nos seus dados que possa influir na arrecadação ou fiscalização de suas atividades;
+
+
+II –
+
+apresentar a documentação fiscal sempre que solicitada e nos prazos assinalados pelos agentes fiscais do Município;
+
+
+III –
+
+caso domiciliado no Coworkings Centers, manter no local disponível, atualizado e em bom estado de conservação o Alvará de Licença para Localização e Permanência, bem como cópias autenticadas dos atos constitutivos e do cartão de CNPJ, se pessoa jurídica, para imediata apresentação à fiscalização;
+
+
+IV –
+
+estar inscritos nos órgãos municipais, providenciar e manter os registros oficiais como alvará de localização e funcionamento, inscrição municipal e CNPJ, quando for o caso.
+
+
+Parágrafo único
+
+No ato da inscrição do usuário domiciliado em Coworkings Centers junto à Prefeitura deverá ser apresentada a documentação prevista na legislação vigente, além do contrato de prestação de serviços relativos ao Coworking.
+
+
+Art. 14.
+
+Os condicionantes para o exercício da atividade em coworkings centers serão indicados na consulta de viabilidade pelo órgão municipal responsável pela aprovação, via sistema informatizado no site da Prefeitura de Brasilândia de Minas - MG.
+
+
+Art. 15.
+
+Os órgãos municipais procederão com a imediata correção dos cadastros de todos os usuários de serviços de Coworking que não mais funcionem nesses estabelecimentos, inclusive com a retirada do domicilio fiscal dos seus registros e a consequente suspensão de emissão dos documentos fiscais até a efetiva regularização.
+
+
+Parágrafo único
+
+Caso se trate o usuário de Microempresa (ME), Empresa de Pequeno Porte (EPP) ou Microempreendedor Individual (MEI), além das normas estabelecidas nesta Lei, será observado o tratamento favorecido e diferenciado estabelecido pela Lei Complementar Federal nº 123/2006 e suas posteriores alterações.
+
+
+Art. 21.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Brasilândia de Minas-MG, 21 de novembro de 2022.
+
+**OSÉIAS CARDOSO QUEIRÓZ**
+
+**Prefeito Municipal**
+

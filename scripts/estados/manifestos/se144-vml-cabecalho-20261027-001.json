@@ -1,0 +1,15 @@
+{
+  "preparado_em": "2026-10-27T19:31:16.906367-03:00",
+  "total": 144,
+  "retidos": 0,
+  "QA": "estaduais/SE/_fonte/auditorias/se131-privado-20261027-002/VML-suplementar.json",
+  "sha256_QA": "d39dba248dedafa916dbc902846155df539a766c72df1e009d1066ecd24fad30",
+  "prova": "13 sem VML e 122 de 131 com única picture VML no cabeçalho vinculada por ID ao mesmo fallback raster de brasão já capturado e inspecionado; nove sem VML. Nenhum grupo/textbox/OfficeMath/vetor no articulado.",
+  "codigo": {
+    "scripts/estados/snapshots/visuais_word_spl_20261027_001/visuais_word_spl.py": "e218e4fd98f96f45eba496e9ecac54a6c4863ecdd2f798363c2cd616ef126d28",
+    "scripts/estados/snapshots/visuais_word_spl_20261027_001/pe_fidelidade_visivel.py": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+    "scripts/estados/snapshots/visuais_word_spl_20261027_001/test_visuais_word_spl.py": "528af5e0ae1c1b25334197dcade7d2d21e3482b7d178a7cc095cca81d54b3b43"
+  },
+  "testes_especificos": 4,
+  "limite": "Fallback da edição HTML pública; sem certificação visual de Word/IE legado. Pacotes SE13/SE131 não foram alterados."
+}

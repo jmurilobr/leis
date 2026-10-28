@@ -1,0 +1,105 @@
+---
+titulo: "04 - Lei Ordinária nº 1.209, de 29 de setembro de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "1209"
+data: "2023-09-29"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1270"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1288/text"
+sha256_fonte: "bc3e1741550507f1a871f74fbe3f0c5970655187923cc4ed5bfb4a726b97f603"
+sha256_texto: "6a59afbdb34e4ae0826d94046afcbd47e5b541d308720fed4328397e95eb1a21"
+capturado_em_fonte: "2026-10-28T05:59:59.347736-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 1.209, de 29 de setembro de 2023
+
+Dispõe sobre a regulamentação da Assistência Financeira Complementar repassada pela União Federal visando dar cumprimento ao disposto na Lei Federal n° 14.434, de 4 de agosto de 2022 que instituiu o piso salarial nacional do Enfermeiro, do Técnico de Enfermagem, do Auxiliar de Enfermagem e da Parteira.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+LEI
+
+
+Art. 1º.
+
+Esta lei regulamenta o valor adicional repassado pela União Federal a este Município a título de Assistência Financeira Complementar visando dar cumprimento ao disposto na Lei Federal nº 14.434, de 4 de agosto de 2022 que instituiu o piso salarial do Enfermeiro, do Técnico de Enfermagem, do Auxiliar de Enfermagem e da Parteira.
+
+
+Art. 2º.
+
+Considera-se piso salarial para os fins desta Lei o valor remuneratório dos profissionais, equivalente ao somatório do vencimento básico (VB) e às vantagens pecuniárias de natureza Fixa, Geral e Permanente (FGP), não sendo computadas, dessa forma, parcelas indenizatórias, vantagens pecuniárias variáveis, individuais ou transitórias.
+
+
+Art. 3º.
+
+O valor da Assistência Financeira Complementar não altera o vencimento básico dos respectivos servidores.
+
+
+Art. 4º.
+
+A Assistência Financeira Complementar transferida pela União não implica em aumento automático de outras parcelas ou vantagens remuneratórias e não será incorporada aos vencimentos ou às remunerações dos profissionais contemplados.
+
+
+Art. 5º.
+
+Compete a União custear, nos termos da Emenda Constitucional nº 127, de 22 de dezembro de 2022, os valores a título de Assistência Financeira Complementar para atingimento do piso salarial, não sendo repassada essa responsabilidade de forma automática ao Município, estando este desobrigado do seu cumprimento em caso de não custeio pela União.
+
+
+Parágrafo único
+
+Fica autorizado o Município conceder o pagamento da complementação de valores aos enfermeiros, técnicos e auxiliares de enfermagem, e parteiras, vinculados à Administração Municipal para o alcance do piso salarial estipulado, até o limite da Assistência Financeira Complementar transferida pela União.
+
+
+Art. 6º.
+
+O pagamento da diferença salarial a título de complementariedade da União para fins de atingimento do piso, não altera o Regime Jurídico dos respectivos servidores previstos na Lei Municipal nº 286, de 20 de julho de 1992.
+
+
+Parágrafo único
+
+Permanece inalterada a legislação que fixa a remuneração e o vencimento base dos respectivos servidores nos termos da Lei Municipal nº 823, de 18 de outubro de 2013.
+
+
+Art. 7º.
+
+Os valores repassados a título de Assistência Financeira Complementar da União, serão destacados no contracheque dos profissionais com rubrica específica.
+
+
+Art. 8º.
+
+Caberá ao gestor municipal o repasse dos recursos às entidades privadas sem fins lucrativos e às que participam de forma complementar ao SUS e atendam, no mínimo, 60% (sessenta por cento) de seus pacientes pelo SUS até o limite da Assistência Financeira Complementar transferida pela União, de acordo com os registros dos estabelecimentos validados pelo Ministério da Saúde.
+
+
+§ 1º
+
+Esse repasse deve ser realizado pelo gestor em até 30 (trinta) dias após o Fundo Nacional de Saúde (FNS) creditar os valores da Assistência Financeira Complementar na conta bancária específica do Fundo Municipal de Saúde.
+
+
+§ 2º
+
+As entidades beneficiadas deverão prestar contas da aplicação dos recursos ao respectivo gestor do Município, o que deverá compor o Relatório Anual de Gestão – RAG.
+
+
+Art. 9º.
+
+Esta lei entra em vigor na data de sua publicação, com efeitos a contar de 1º de maio de 2023.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná  
+Em 29 de setembro de 2023, 63º da Emancipação Política.
+
+GIOVANI MIGUEL WOLF HNATUW  
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 1886 de 29/09/2023, pág. 108-110.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1270/ta
+

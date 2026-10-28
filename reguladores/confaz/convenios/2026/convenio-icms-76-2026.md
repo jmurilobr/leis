@@ -1,0 +1,37 @@
+---
+titulo: "CONVÊNIO ICMS Nº 76, DE 3 DE JULHO DE 2026"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "76"
+data: "2026-07-03"
+revogada: null
+versao_texto: "Texto e notas oficiais do portal CONFAZ conforme a captura; sem certificação de vigência."
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV076_26"
+sha256_html_fonte: "1f2122d1c7ae9d7a8e9ea09c495e11483d3d68cab722536b992d1b6f5b65f4c6"
+sha256_texto: "515185d0f7f90ae5f6ba9256aa6f2547c6b8a7f8c7e51bbd09d86ca8a9a175d8"
+baixado_em: "2026-10-27"
+representacao_corpo: "html-nativo-confaz-piloto-v1"
+observacao_captura: "timestamp original do cliente com fuso, convertido para America/Recife"
+observacao_efeitos: "Condições de ratificação e produção de efeitos preservadas literalmente. Nenhuma data de vigência calculada."
+publicacao_fonte: "Publicado no DOU de 08.07.26, pelo despacho 28/26. | Ratificação Nacional no DOU de 27.07.26, pelo Ato Declaratório 15/26."
+---
+# CONVÊNIO ICMS Nº 76, DE 3 DE JULHO DE 2026
+
+<div id="parent-fieldname-text"><p class="A1-1TituloAcordo">CONVÊNIO ICMS Nº 76, DE 3 DE JULHO DE 2026</p>
+<p class="A2DataPublicacao">Publicado no DOU de 08.07.26, pelo despacho <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/despacho/2026/dp028_26" target="_self" title="despacho 28/26">28/26</a>.</p>
+<p class="A2DataPublicacao">Ratificação Nacional no DOU de 27.07.26, pelo Ato Declaratório <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/atos-declaratorios/2026/ad015_26" target="_self" title="ato declaratorio 15/26">15/26</a>.<b></b></p>
+<p class="A3Ementa">Autoriza a concessão de isenção de ICMS nas operações internas e na importação, em doação, de mercadorias e bens destinados ao Centro Regional Integrado de Oncologia – CRIO, para fins de emprego em pesquisas relativas ao tratamento de câncer, que envolvam seres humanos, inclusive em acesso expandido.</p>
+<p class="A5-1TextoAcordo"><b>O</b> <b>Conselho Nacional de Política Fazendária – CONFAZ,</b> na sua 201ª Reunião Ordinária, realizada em Macapá, AP, no dia 3 de julho de 2026, tendo em vista o disposto na Lei Complementar n° 24, de 7 de janeiro de 1975, resolve celebrar o seguinte</p>
+<p class="A4AcordoTipo">CONVÊNIO</p>
+<p class="A5-1TextoAcordo"><b>Cláusula primeira</b> O Estado do Ceará fica autorizado a conceder isenção do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS – nas operações internas e na importação sem similar nacional, em doação, de mercadorias e bens, destinados ao Centro Regional Integrado de Oncologia – CRIO – inscrito no Cadastro Nacional de Pessoas Jurídicas – CNPJ – sob o nº 07.990.336/0001-98, para fins de emprego em pesquisas e ao desenvolvimento de novos medicamentos para o tratamento de câncer que envolvam seres humanos, inclusive em programas de acesso expandido, a seguir indicados:</p>
+<p class="A5-1TextoAcordo">I - medicamentos oncológicos e imunoterápicos;</p>
+<p class="A5-1TextoAcordo">II - reagentes químicos e kits laboratoriais;</p>
+<p class="A5-1TextoAcordo">III - insumos e medicamentos destinados especificamente a pesquisas clínicas com seres humanos e programas de acesso expandido.</p>
+<p class="A5-1TextoAcordo">§ 1º O disposto no “caput” desta cláusula aplica-se também ao ICMS relativo à diferença entre alíquota interna e alíquota interestadual.</p>
+<p class="A5-1TextoAcordo">§ 2º A isenção prevista no “caput” fica condicionada:</p>
+<p class="A5-1TextoAcordo">I - a pesquisa e o programa sejam registrados pela Agência Nacional de Vigilância Sanitária - ANVISA/MS - ou, se estes estiverem dispensados de registro na ANVISA/MS, tenham sido aprovados pelo Comitê de Ética em Pesquisa - CEP - da instituição pública ou privada que for realizar a pesquisa ou realizar o programa;</p>
+<p class="A5-1TextoAcordo">II - ao fornecimento das mercadorias ou bens ao paciente seja efetuado de forma gratuita.</p>
+<p class="A5-1TextoAcordo">§ 3º A comprovação da inexistência de produto produzido no país será atestada por órgão federal competente ou por entidade representativa do setor produtivo de máquinas e equipamentos, com abrangência em todo o território nacional.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula segunda</b> O Estado do Ceará fica autorizado a não exigir o estorno do crédito fiscal previsto no art. 21 da Lei Complementar nº 87, de 13 de setembro de 1996, relativo às operações beneficiadas por este convênio.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula terceira</b> O Estado do Ceará poderá estabelecer limites e condições para a fruição do benefício, bem como as obrigações acessórias necessárias ao controle e à fiscalização das operações.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula quarta</b> Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos até 31 de dezembro de 2027.</p></div>

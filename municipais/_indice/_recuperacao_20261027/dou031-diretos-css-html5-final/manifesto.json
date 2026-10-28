@@ -1,0 +1,99 @@
+{
+  "arquivos": [
+    {
+      "arquivo": "_fonte/operacao_root_20261027/reguladores-dou031-hashes.json",
+      "sha256": "0597fcaca77d552a1934e9b242ceff56bf6c696e7e5fefaee9b56880aad91b44",
+      "bytes": 197231
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/dou031-diretos-css-html5-final/achados-escopo.json",
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+      "bytes": 3
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/dou031-diretos-css-html5-final/artefatos.paths.txt",
+      "sha256": "8e7d2012e53b4c471a1ff245ecc3b02403e9f30b4a784fdbf80eca90b68ce35b",
+      "bytes": 1050
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/dou031-diretos-css-html5-final/resumo-final.json",
+      "sha256": "f0e659e1edbbf7a2005c7d816dbfe20031f9d8faee066607b9e956124edfcc48",
+      "bytes": 838
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/dou031-diretos-css-html5-final/texto-bruto-controles-existentes.json",
+      "sha256": "af016ac8ce927aecad832ae1abe238d0152dc8e2af56c7e64474ba036b18304b",
+      "bytes": 141824
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/dou031-diretos-css-html5/mapa-1.json",
+      "sha256": "0597fcaca77d552a1934e9b242ceff56bf6c696e7e5fefaee9b56880aad91b44",
+      "bytes": 197231
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/dou031-diretos-css-html5/resultados.jsonl.gz",
+      "sha256": "d773f6fec1373cbc115d689f649a6920b329f396b68450b53490770838dee5ef",
+      "bytes": 222932
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/dou031-diretos-css-html5/resumo.json",
+      "sha256": "d4efcd1ea53e1835cbadacef436bd3d48a41d0c566cd903c95c41c091007badb",
+      "bytes": 974
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/dou031-diretos-css-html5/suspeitos.json",
+      "sha256": "6e3746cdb2d625d510437ff24585c2b6082a5217f14b245140e422e8e45ccb13",
+      "bytes": 117545
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/dou11997-github/final/runtime.json",
+      "sha256": "9fa70f0766c11baea411e3803abfd425d5d4fb2a15f6e2569349ea06110598e1",
+      "bytes": 11836
+    },
+    {
+      "arquivo": "scripts/auditar_dou_css_tabelas_privado_20261027.py",
+      "sha256": "a00ff82f45872703dc57b501decb23c9065ecbc7fcca3e5d6244e128f65a5439",
+      "bytes": 9546
+    },
+    {
+      "arquivo": "scripts/congelar_diagnostico_dou_css_html5_20261027.py",
+      "sha256": "ffa6f50c6988aa1ffcf0a90c5a501ce9b8aa46ac6d2381bb3ff2050698d6f274",
+      "bytes": 4969
+    },
+    {
+      "arquivo": "scripts/dados/reguladores-fidelidade-renderizada-20261027-031.json",
+      "sha256": "786ccb6f520da65b2e862be594d95d24f7949d3dfa7adec4262407dd830c0008",
+      "bytes": 778162
+    },
+    {
+      "arquivo": "scripts/estados/pe_fidelidade_visivel.py",
+      "sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+      "bytes": 7551
+    },
+    {
+      "arquivo": "scripts/representacao_html_dou.py",
+      "sha256": "1ae5cecda55ddd32ab00fdb2598d50b7cd5aeadaad0e0e73d720e4727bf1732d",
+      "bytes": 6313
+    },
+    {
+      "arquivo": "scripts/test_dou_css_tabelas_privado_20261027.py",
+      "sha256": "39a0be15bfe7e9aff84a886a812163bea3c56bb17dc1de06c7055d43542e8481",
+      "bytes": 2174
+    }
+  ],
+  "bytes": 1700179,
+  "escopo": {
+    "paths": 1152,
+    "diretos": 1152,
+    "documentos_com_tabelas": 445,
+    "tabelas": 901,
+    "achados_escopo_css_hidden_tachado_tabelas": 0,
+    "diagnosticos_texto_bruto_fora_escopo": 51
+  },
+  "fontes": [
+    {
+      "auditoria": "municipais/_indice/_recuperacao_20261027/dou031-diretos-css-html5",
+      "resumo_sha256": "d4efcd1ea53e1835cbadacef436bd3d48a41d0c566cd903c95c41c091007badb"
+    }
+  ]
+}

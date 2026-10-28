@@ -1,0 +1,270 @@
+---
+titulo: "Lei Ordinária nº 526, de 08 de fevereiro de 1988"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "526"
+data: "1988-02-08"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/855"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/1392/text"
+sha256_fonte: "b479b32110b05580a978b9be48d66d00d8d67888ab6968ea4116154ee539c239"
+sha256_texto: "8587ba5a873bf8b5acd8b7839cbf585549735d958c6c42382bfa10074de8de17"
+capturado_em_fonte: "2026-10-27T21:46:50.266061-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 526, de 08 de fevereiro de 1988
+
+Autoriza a abertura de crédito especial e dá outras providências.
+
+
+**O PREFEITO MUNICIPAL DE CAÇU:** Faço saber que Câmara Municipal de Caçu, Estado de Goiás, aprovou e eu, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a, mediante decreto, abrir, no corrente exercício, um crédito especial até o limite de Cz$ 3.180.580,18 (três milhões, cento e oitenta mil, quinhentos e oitenta cruzados e dezoito centavos), sob os seguintes códigos:
+
+
+01 – LEGISLATIVA
+
+1.01010012.01 – Atividades Legislativas:
+
+3.1.1.1 – Pessoal Civil 18.465,00
+
+3.1.3.2 – Outros Serviços e Encargos 1.800,00
+
+03 – ADMINISTRAÇÃO E PLANEJAMENTO
+
+2.03070202.02 – Administração Superior:
+
+3.1.1.1 – Pessoal Civil 45.000,00
+
+3.1.2.0 – Material de Consumo 6.924,00
+
+3.1.3.2 – Outros Serviços e Encargos 21.906,00
+
+06 – DEFESA NACIONAL E SEGURANÇA PÚBLICA
+
+2.06281662.03 – Alistamento Militar:
+
+3.1.3.2 – Outros Serviços e Encargos 2.037,09
+
+03 – ADMINISTRAÇÃO E PLANEJAMENTO
+
+3.03070212.04 – Apoio e Coordenação Administrativa
+
+3.1.1.1 – Pessoal Civil 26.622,00
+
+3.1.2.0 – Material de Consumo 3.500,00
+
+3.1.3.1 – Remuneração de Serviços Pessoais 1.981,28
+
+3.1.3.2 – Outros Serviços e Encargos 105.555,52
+
+15 – ASSISTÊNCIA E PREVIDÊNCIA
+
+3.15824942.05 – Encargos Previdenciários:
+
+3.2.5.3 – Salário Família 942,90
+
+03 – ADMINISTRAÇÃO E PLANEJAMENTO
+
+3.03080212.08 – Administração Fazendária:
+
+3.1.1.1 – Pessoal Civil 100.286,00
+
+3.1.3.2 – Outros Serviços e Encargos 112.445,72
+
+5.03080332.09 – Encargos e Amortização da Dívida Pública:
+
+3.2.6.0 – Encargo da Dívida Interna 82.741,32
+
+04 – AGRICULTURA
+
+5.041811112.10 – Colaboração com a Emater – GO:
+
+3.1.3.2 – Outros Serviços e Encargos 17.730,59
+
+02 – JUDICIÁRIA
+
+6.02040132.11 – Colaboração com o Judiciário:
+
+3.1.1.1 – Pessoal Civil 3.660,00
+
+3.1.3.2 – Outros Serviços e Encargos 9.643,22
+
+03 – ADMINISTRAÇÃO E PLANEJAMENTO
+
+6.03070212.12 – Administração de Obras e Serviços:
+
+3.1.1.1 – Pessoal Civil 89.207,00
+
+3.1.2.0 – Material de Consumo 3.197,00
+
+3.1.3.1 – Remuneração de Serviços Pessoais 9.000,00
+
+3.1.3.2 – Outros Serviços e Encargos 402,60
+
+05 – COMUNICAÇÕES
+
+6.05221342.14 – Manutenção do Serviço Telefônico:
+
+3.1.1.1 – Pessoal Civil 17.053,00
+
+3.1.2.0 – Material de Consumo 7.048,00
+
+3.1.3.2 – Outros Serviços e Encargos 2.898,35
+
+08 – EDUCAÇÃO E CULTURA
+
+6.08421881.09 – Construção e Melhoramento de Escolas:
+
+4.1.1.0 – Obras e Instalações 84.977,22
+
+10 – HABITAÇÃO E URBANISMO
+
+6.10600212.17 – Manutenção dos Serviços Urbanos:
+
+3.1.1.1 – Pessoal Civil 37.292,00
+
+3.1.2.0 – Material de Consumo 600,00
+
+3.1.3.1 – Remuneração de Serviços Pessoais 118.767,20
+
+3.1.3.2 – Outros Serviços e Encargos 4.450,00
+
+16 – TRANSPORTE
+
+7.16880211.25 – Ampliação da Frota Municipal:
+
+4.2.9.0 – Diversas Inversões Financeiras 727.507,71
+
+7.16880212.19 – Administração dos Sistemas de Transporte:
+
+3.1.1.1 – Pessoal Civil 77.543,00
+
+3.1.2.0 – Material de Consumo 68.021,00
+
+3.1.3.1 – Remuneração de Serviços Pessoais 11.250,00
+
+3.1.3.2 – Outros Serviços e Encargos 11.060,00
+
+7.16885341.26 – Construção e Melhoramento de Estradas:
+
+4.1.1.0 – Obras e Instalações 32.690,00
+
+7.16885342.20 – Conservação da Rede Rodoviária:
+
+3.1.2.0 – Material de Consumo 510,00
+
+08 – EDUCAÇÃO E CULTURA
+
+8.08070212.21 – Administração Educacional:
+
+3.1.1.1 – Pessoal Civil 29.206,00
+
+3.1.2.0 – Material de Consumo 780,00
+
+3.1.3.1 – Remuneração de Serviços Pessoais 8.750,87
+
+8.08421282.22 – Manutenção do Ensino de Primeiro Grau:
+
+3.1.1.1 – Pessoal Civil 47.104,00
+
+3.1.2.0 – Material de Consumo 4.649,00
+
+3.1.3.1 – Remuneração de Serviços Pessoais 4.638,73
+
+8.08424272.23 – Alimentação Escolar:
+
+3.1.1.1 – Pessoal Civil 11.974,00
+
+3.1.3.1 – Remuneração de Serviços Pessoais 7.907,03
+
+8.08431982.24 – Manutenção de Cursos Profissionalizantes:
+
+3.1.1.1 – Pessoal Civil 29.515,00
+
+3.1.3.2 – Outros Serviços e Encargos 5.508,00
+
+8.08452132.26 – Alfabetização Funcional e Educação Integrada:
+
+3.1.1.1 – Pessoal Civil 40.630,00
+
+8.08462242.27 – Manutenção do Desporto Amador:
+
+3.1.2.0 – Material de Consumo 3.000,00
+
+8.08482472.28 – Atividades Culturais, Cívicas e Recreativas;
+
+3.1.1.1 – Pessoal Civil 11.974,00
+
+3.1.2.0 – Material de Consumo 13.860,00
+
+3.1.3.1 – Remuneração de Serviços Pessoais 14.345,00
+
+03 – ADMINISTRAÇÃO E PLANEJAMENTO
+
+9.03070212.29 – Manutenção dos Serviços de Material e Patrimônio:
+
+3.1.1.1 – Pessoal Civil 5.731,00
+
+04 – AGRICULTURA
+
+10.04160212.31 – Incentivos à Agropecuária, Indústria e Comércio:
+
+3.1.1.1 – Pessoal Civil 20.056,00
+
+3.1.2.0 – Material de Consumo 160.555,00
+
+3.1.3.2 – Outros Serviços e Encargos 23.700,00
+
+13 – SAÚDE E SANEAMENTO
+
+11.15814832.33 – Manutenção da Creche Municipal e Assistência ao Menor em Geral:
+
+3.1.2.0 – Material de Consumo 7.865,50
+
+3.1.3.1 – Remuneração de Serviços Pessoais 16.905,99
+
+3.1.3.2 – Outros Serviços e Encargos 836,10
+
+11.15814852.34 – Manutenção do Abrigo dos Velhos:
+
+3.1.2.0 – Material de Consumo 6.840,00
+
+3.1.3.1 – Remuneração de Serviços Pessoais 1.537,38
+
+11.15814862.35 – Promoção e Assistência Social:
+
+3.1.2.0 – Material de Consumo 67.579,20
+
+3.1.3.2 – Outros Serviços e Encargos 34.263,58
+
+SOMA: ................................................................................ Cz$ 3.180.580,18
+
+
+Art. 2º.
+
+O crédito autorizado pelo artigo anterior será coberto com recursos disponíveis, na forma do art. 43, § 1º, da Lei Federal nº 4.320, de 17 de março de 1964.
+
+
+Art. 3º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**PREFEITURA MUNICIPAL DE CAÇU**, Estado de Goiás, em 08 de fevereiro de 1988.
+
+
+**Oldack Musa dos Santos**
+
+**Ana Maura de Sousa**
+

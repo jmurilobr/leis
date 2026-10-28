@@ -1,0 +1,15 @@
+{
+  "baseline": "estaduais/AC/_fonte/auditorias/ac458-ROOT-apply-20261028/HEAD-inventario.jsonl.gz",
+  "sha256_baseline": "ad5efe93046567771de0e89ba0167e00103dd94de8b84e8c9086b39749c3205f",
+  "HEAD_baseline": "59532a6b8b9e302ce4a10e221625d019f2fc9acd",
+  "total_HEAD": 3308,
+  "candidatos": 1898,
+  "lotes": [
+    458,
+    761,
+    679
+  ],
+  "coincidencias_pasta_numero_sem_ano": [],
+  "HEAD_numero_indisponivel": [],
+  "criterio": "Diagnóstico adicional sem ano, mantendo sufixo e pasta. Complementa dedup porID/URL/número/ano de cada aplicação; não altera identidade histórica."
+}

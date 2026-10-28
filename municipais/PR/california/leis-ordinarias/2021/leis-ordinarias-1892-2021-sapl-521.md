@@ -1,0 +1,267 @@
+---
+titulo: "Lei Ordinária Municipal nº 1.892, de 21 de dezembro de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "1892"
+data: "2021-12-21"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/521"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/160/text"
+sha256_fonte: "6baaa7c9b6f3d0403731e7835492d73eaf6044fab05dabbb5a0a5e99dcf2feb3"
+sha256_texto: "ed26c27b2bf3e5ef7648cb24e54eba7fba072ca2839307c94e0dfed740feb01a"
+capturado_em_fonte: "2026-10-27T22:25:58.049016-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 1.892, de 21 de dezembro de 2021
+
+“CRIA O CONSELHO MUNICIPAL DE PROMOÇÃO DA IGUALDADE RACIAL (CMPIR) DO MUNICÍPIO DE CALIFÓRNIA, ESTADO DO PARANÁ E DÁ OUTRAS PROVIDÊNCIAS “.
+
+
+A CÂMARA DE VEREADORES DO MUNICÍPIO DE CALIFÓRNIA, ESTADO DO PARANÁ, APROVOU E EU, PREFEITO, SANCIONO A SEGUINTE LEI:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMIINARES
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal de Promoção da Igualdade Racial – CMPIR– órgão colegiado, permanente e autônomo de caráter consultivo e (deliberativo), fiscalizador e articulador das políticas de promoção da igualdade racial, juntamente com à Secretaria Municipal de Assistência Social, Cidadania e Cultura do Município de Califórnia, Estado do Paraná.
+
+
+Art. 2º.
+
+O Conselho Municipal de Promoção da Igualdade Racial tem por finalidade deliberar e fiscalizar políticas públicas, programas, projetos e ações voltadas à promoção da igualdade racial e atuar no controle social de políticas públicas, assim como exercer a orientação normativa e consultiva sobre temáticas atinentes à igualdade racial no Município de Califórnia, Estado do Paraná.
+
+
+#### CAPÍTULO II — DAS ATRIBUIÇÕES
+
+
+Art. 3º.
+
+O Conselho Municipal de Promoção da Igualdade Racial possui as seguintes atribuições:
+
+
+I –
+
+Deliberar sobre políticas públicas e diretrizes para promoção da igualdade racial no âmbito municipal;
+
+
+II –
+
+Receber encaminhar e monitorar denúncias ou queixas discriminação em razão de raça, cor, etnia, religião ou procedência nacional ocorridas no território do Município de Califórnia;
+
+
+III –
+
+fomentar o desenvolvimento de programas educativos, visando à promoção da igualdade racial;
+
+
+IV –
+
+Promover trabalhos, emitir pareceres, realizar estudos, pesquisas sobre temáticas atinentes à igualdade racial na Cidade de Califórnia;
+
+
+V –
+
+Realizar campanhas informativas, cursos e outros eventos objetivando a promoção da igualdade racial;
+
+
+VI –
+
+Estabelecer a cooperação e firmar convênios com órgão federais, estaduais e municipais na consecução de meios destinados à promoção da igualdade racial;
+
+
+VII –
+
+Fomentar o intercâmbio com outras organizações congêneres nacionais e internacionais, e a contribuição com iniciativas pertinentes à promoção da igualdade racial;
+
+
+VIII –
+
+Recomendar e colaborar com o aperfeiçoamento dos serviços públicos notadamente no que concerne à adequação profissional e cívica de seus integrantes, com vistas à conciliação entre o exercício das funções administrativas e o respeito à diversidade étnico-racial;
+
+
+IX –
+
+Pugnar pelo cumprimento das normas internacionais, nacionais, estaduais e municipais sobre promoção da igualdade racial e pela atualização da legislação municipal;
+
+
+X –
+
+Promover canais de diálogo com a sociedade civil;
+
+
+XI –
+
+Pronunciar-se, por deliberação expressa de seus integrantes, através de moção, sobre situações que envolvam a promoção da igualdade racial;
+
+
+XII –
+
+Elaborar o Plano Municipal de Políticas Públicas de Promoção da Igualdade Racial em consonância com as conclusões das Conferências Municipal, Estadual e Nacional e com os Planos e Programas contemplados no Orçamento Público;
+
+
+XIII –
+
+Instituir comissões ou grupos de trabalhos;
+
+
+XIV –
+
+Elaborar e aprovar o seu regimento interno;
+
+
+XV –
+
+Elaborar e apresentar, anualmente relatório circunstanciado de todas as atividades.
+
+
+Art. 4º.
+
+Para cumprir suas finalidades institucionais, o CMPIR, no exercício das respectivas atribuições, poderá:
+
+
+I –
+
+Solicitar aos órgãos públicos municipais e estaduais integrantes da rede de serviços de promoção da igualdade racial, certidões, atestados, informações, cópias de documentos e de expedientes ou processos administrativos;
+
+
+II –
+
+Propor à autoridade competente de qualquer nível a instauração de sindicâncias, inquéritos e processos administrativos ou judiciais para apuração de responsabilidade pela discriminação em razão da raça, cor, etnia, religião ou procedência nacional;
+
+
+III –
+
+Incidir sobre o orçamento público municipal, em suas fases e etapas, visando à destinação de recursos para a implementação de políticas públicas de promoção da igualdade racial;
+
+
+IV –
+
+Apresentar um plano orçamentário para o seu funcionamento;
+
+
+V –
+
+Solicitar à Prefeitura da Cidade de Califórnia, Estado do Paraná; a adoção de medidas para serem desenvolvidas pelo Conselho no período, dando ampla divulgação ao mesmo, de forma a prestar contas de suas atividades à sociedade.
+
+
+#### CAPÍTULO III — DA COMPOSIÇÃO
+
+
+Art. 5º.
+
+O Conselho Municipal de Promoção da Igualdade Racial será composto por 12 membros a saber:
+
+
+I –
+
+2(dois) representantes do poder Executivo Municipal;
+
+
+II –
+
+2(dois) representantes do poder Legislativo Municipal;
+
+
+III –
+
+8(oito) representantes de entidades da sociedade civil organizada;
+
+
+§ 1º
+
+Os membros representativos do Poder Executivo Municipal serão indicados pelo Prefeito;
+
+
+§ 2º
+
+Os membros representativos do Poder Legislativo Municipal serão indicados pelo Presidente da Câmara Municipal de Califórnia;
+
+
+§ 3º
+
+Os membros representativos de entidades da sociedade civil serão eleitos em assembléia especial a ser estabelecida e regulamentada no Regimento Interno do Conselho;
+
+
+§ 4º
+
+Recebidas as indicações, os Conselheiros serão nomeados por ato do Chefe do Poder Executivo;
+
+
+§ 5º
+
+O mandato de conselheiro será de 02 anos, permitida uma recondução;
+
+
+§ 6º
+
+Para cada conselheiro indicado será indicado um conselheiro suplente;
+
+
+Art. 6º.
+
+A função de Conselheiro será considerada de caráter público relevante e será exercida gratuitamente;
+
+
+Art. 7º.
+
+O conselho elaborará o seu regimento interno, no prazo de 120 dias após sua implementação;
+
+
+Art. 8º.
+
+O Conselho Municipal de Promoção da Igualdade Racial reunir-se-á ordinariamente a cada mês e, extraordinariamente, por convocação de sua Presidência ou a requerimento da maioria de seus integrantes;
+
+
+#### CAPÍTULO IV — DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
+
+
+Art. 9º.
+
+Todas as reuniões do Conselho Municipal de Promoção da Igualdade Racial serão abertas à participação de quaisquer pessoas interessadas.
+
+
+Art. 10.
+
+O Conselho Municipal de Promoção da Igualdade Racial deverá ser instalado em local destinado pelo Município, incumbindo à Secretaria Municipal de Assistência Social, Cidadania e Cultura adotar as providências para tanto.
+
+
+Art. 11.
+
+A Secretaria Municipal de Assistência Social, Cidadania e Cultura prestará todo o apoio técnico, administrativo e de infraestrutura, necessários ao pleno funcionamento do Conselho Municipal de Promoção da Igualdade Racial.
+
+
+Art. 12.
+
+O Poder Executivo do Município arcará com os custos de deslocamento, alimentação e permanência das Conselheiras e Conselheiros quando necessário e justificadamente, para o exercício de suas funções.
+
+
+Art. 13.
+
+O Poder Executivo do Município deverá arcar com as despesas necessárias à realização das Conferências Municipais de Promoção da Igualdade Racial.
+
+
+Art. 14.
+
+O Poder Executivo do Município poderá, conforme disponibilidade orçamentária, custear as despesas das Conselheiras e Conselheiros, representantes da sociedade civil e representantes do poder público, quando necessário e justificadamente, para tornar possível sua presença nas Conferências Estadual e Nacional de Promoção da Igualdade Racial.
+
+
+Art. 23.
+
+Revogam-se disposições em contrário, entrando em vigor a presente Lei na data de sua publicação.
+
+
+Edifício da Prefeitura do Município de Califórnia, aos 21 de dezembro de 2021.
+
+***PAULO WILSON MENDES***
+
+Prefeito
+

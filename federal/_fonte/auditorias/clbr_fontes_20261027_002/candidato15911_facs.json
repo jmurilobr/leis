@@ -1,0 +1,117 @@
+{
+  "escopo": "Recuperação privada de corpo e tabela na mesma edição CLBR, sem promover canônico ou alterar registro.",
+  "path": "federal/decretos/1944/dec-15911-1944-06-26.md",
+  "urn": "urn:lex:br:federal:decreto:1944-06-26;15911",
+  "numero": "15911",
+  "data": "1944-06-26",
+  "HEAD": "15b4b0a5114c0946a7c523d0cec5524be3364477",
+  "sha256_preimagem_HEAD": "d063abf65dcb6f9dc22b45fea11dae27ccc7216db6f9dcf24e5f5aaea98dec60",
+  "preimagem_arquivada": "federal/_fonte/auditorias/clbr_fontes_20261027_002/preimagem-dec15911.md",
+  "candidato": "federal/_fonte/auditorias/clbr_fontes_20261027_002/dec-15911-1944-06-26-clbr_facs.md",
+  "sha256_candidato": "1ff8fb2f1a0e1ea0c0893983297ab87c80ddc6b699a83e972752d7584e5459b8",
+  "fonte_clbr": {
+    "url": "https://bd.camara.leg.br/bd/bitstreams/4be6a61c-abe5-44ef-850e-0bf6d5a68458/download",
+    "papel_no_indice": "Decretos de 1944, link observado sob esse cabeçalho no índice oficial.",
+    "sha256_indice_oficial": "c0d699fc95c0b86da39ac1ac43db307bf63eaf85b960bcee49bd707afd1b508b",
+    "captura_utc": "2026-10-27T22:01:47.497378+00:00",
+    "estado": "concluido",
+    "status": 200,
+    "url_final": "https://bd-rest.camara.leg.br/server/api/core/bitstreams/4be6a61c-abe5-44ef-850e-0bf6d5a68458/content",
+    "headers": {
+      "server": "envoy",
+      "date": "Tue, 27 Oct 2026 22:01:49 GMT",
+      "content-type": "Adobe/PDF;charset=UTF-8",
+      "content-length": "90931199",
+      "vary": "Origin,Access-Control-Request-Method,Access-Control-Request-Headers",
+      "content-language": "en",
+      "last-modified": "Wed, 08 Oct 2014 17:53:59 GMT",
+      "etag": "\"4f3e22ad2d8e616b8c3f4733e974a89a\"",
+      "accept-ranges": "bytes",
+      "expires": "Tue, 27 Oct 2026 23:01:49 GMT",
+      "cache-control": "private,no-cache",
+      "access-control-expose-headers": "Accept-Ranges",
+      "content-disposition": "attachment;filename=\"colecao_leis_1944_parte1.pdf\"",
+      "x-content-type-options": "nosniff",
+      "x-xss-protection": "0",
+      "strict-transport-security": "max-age=31536000 ; includeSubDomains",
+      "x-frame-options": "DENY",
+      "x-envoy-upstream-service-time": "374",
+      "connection": "close"
+    },
+    "path": "federal/_fonte/auditorias/clbr_fontes_20261027_002/1944-decretos.pdf",
+    "sha256": "0121bbf0f93a4056977babdbe9f423bee9d9cbb91000db47e804104831569d87",
+    "bytes": 90931199,
+    "captura_final_utc": "2026-10-27T22:01:55.697638+00:00"
+  },
+  "volume_comprovado": {
+    "volume": "IV",
+    "parte": "2.ª",
+    "folha_rosto_PDF": 1323,
+    "arquivo": "federal/_fonte/auditorias/clbr_fontes_20261027_002/render15911/folha-rosto-pdf1323.png",
+    "sha256": "cce7ec81f07843a8a366c3a8e1b265c1ada2505b354611a436818bec4b64588c",
+    "leitura_visual": "COLEÇÃO DAS LEIS DE 1944 — VOLUME IV — DECRETOS DE ABRIL A JUNHO (2.ª PARTE)"
+  },
+  "imagens": [
+    {
+      "candidato": "federal/_fonte/auditorias/clbr_fontes_20261027_002/render15911/principal-recorte.png",
+      "destino_proposto": "federal/anexos/decretos/1944/dec-15911-1944-06-26-principal.png",
+      "sha256": "5e5bfbfd0143ce3594fd0e21dbb6d6db6725283cce444808b3750a4a60acc078",
+      "pagina_impressa": 104,
+      "pagina_pdf": 1448,
+      "dimensoes": [
+        1750,
+        1240
+      ],
+      "render": {
+        "ferramenta": "pdftoppm",
+        "scale_to": 3200,
+        "recorte": {
+          "x": 260,
+          "y": 1780,
+          "largura": 1750,
+          "altura": 1240
+        },
+        "sem_edicao_de_pixels": true
+      },
+      "visto_integralmente_pelo_agente": true
+    },
+    {
+      "candidato": "federal/_fonte/auditorias/clbr_fontes_20261027_002/render15911/tabela-recorte.png",
+      "destino_proposto": "federal/anexos/decretos/1944/dec-15911-1944-06-26-tabela.png",
+      "sha256": "1dc61cc4fa1d457b8dcb8c8774772cfedd27e050ceaa772a122505bca82a91b3",
+      "pagina_impressa": 105,
+      "pagina_pdf": 1449,
+      "dimensoes": [
+        1740,
+        2050
+      ],
+      "render": {
+        "ferramenta": "pdftoppm",
+        "scale_to": 3200,
+        "recorte": {
+          "x": 200,
+          "y": 320,
+          "largura": 1740,
+          "altura": 2050
+        },
+        "sem_edicao_de_pixels": true
+      },
+      "visto_integralmente_pelo_agente": true
+    }
+  ],
+  "identidade": {
+    "epigrafe_visual": "DECRETO N.º 15.911 — DE 26 DE JUNHO DE 1944",
+    "fecho_visual": "Rio de Janeiro, 26 de junho de 1944",
+    "API_indice_URN_concordam": true,
+    "objeto": "Tabela numérica ordinária da Pagadoria Central da Fôrça Expedicionária Brasileira, Ministério da Guerra",
+    "assinaturas": "Getulio Vargas; Eurico G. Dutra"
+  },
+  "edicao": "CLBR 1944, volume IV, 2.ª parte, páginas impressas 104–105, páginas PDF 1448–1449. Folha de rosto e páginas do ato no mesmo PDF por SHA.",
+  "QA": {
+    "erros_formato": [],
+    "avisos_formato": [],
+    "principal_tabela_folha_rosto_vistos_integralmente": true,
+    "guard_sha256_registrado": "3cd60ac4a398a27cc0f646f891e853f6b120b1a963deb4cc9f0ccfd7d6ca0cd0"
+  },
+  "limites": "Sem transcrição automática ou reconstrução de letras. Fac-símiles preservam a qualidade material da fonte. ROOT lê, confere e promove MD/imagens antes de remover pendência."
+}

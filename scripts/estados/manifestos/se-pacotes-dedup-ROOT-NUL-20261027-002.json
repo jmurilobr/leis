@@ -1,0 +1,96 @@
+{
+  "preparado_em": "2026-10-27T19:03:49.969787-03:00",
+  "controle_ROOT": "scripts/estados/manifestos/se13-head-dedup-root-20261027.json",
+  "sha256_controle_ROOT": "dc40e6efdb3257e53b7c1582a048e579fe5d7cb51a6c8ea70b36b1683db5f0f9",
+  "cache_ROOT": "estaduais/SE/_fonte/auditorias/se13-head-root-20261027.jsonl.gz",
+  "sha256_cache_ROOT": "bbb8cf294ed8a749627e59df91a550b1f516bc92d71997ed05c8dcdf9f900db8",
+  "HEAD_ROOT": "c482863d23dcc99bd205fc6b7bf860532ec6aa03",
+  "cabecalhos_ROOT": 9955,
+  "correcao_metodo": "ls-tree --format=%(path) ainda aplica C-quoting a aspas, mesmo com -z; o filtro endswith .md excluiu seis paths. Árvore padrão ls-tree -rz sem --format confirma 9955. Usado baseline ROOT integral por OID, sem working tree.",
+  "omitidos_na_listagem_antiga": [
+    {
+      "path": "estaduais/SE/leis-ordinarias/1950/l-322-1950-idoficializados.\".md",
+      "OID": "408f19917c02df81c57263219a40a606905384eb",
+      "sha256": "ffc41def945eb1493677932a0e7fcdaa5c66626cbeff0b43917c679aa9859e54",
+      "numero": "322",
+      "arquivo": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L3221950.html"
+    },
+    {
+      "path": "estaduais/SE/leis-ordinarias/1974/l-1828-1974-idSergipe.\".md",
+      "OID": "e67948718cbb541f1268d877835e2a7b1678511c",
+      "sha256": "bf0af2a7143b2d0a8fe7b2da2c65a19099de9eeb881e698c3e2cc745467329b5",
+      "numero": "1828",
+      "arquivo": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L18281974.html"
+    },
+    {
+      "path": "estaduais/SE/leis-ordinarias/1974/l-1833-1974-idEx-Orfanato.\".md",
+      "OID": "833ef0273c8615e369f61ea42b993b1a49f86e3b",
+      "sha256": "88cf206ef117698ccdec17f948d9886fd443ec520f65d0b71223b4133078c24b",
+      "numero": "1833",
+      "arquivo": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L18331974.html"
+    },
+    {
+      "path": "estaduais/SE/leis-ordinarias/1990/l-2860-1990-idSOC\".md",
+      "OID": "8a8049a6a0072163ab90b50e621cabb924aee2c8",
+      "sha256": "6188959349de39ef11fb7c8d8c6c8ba2426991629ee30739968f42b91dc5fd48",
+      "numero": "2860",
+      "arquivo": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L28601990.html"
+    },
+    {
+      "path": "estaduais/SE/leis-ordinarias/2003/l-4941-2003-id\".md",
+      "OID": "ecde9e663aa90361da85fc2d98a7f33b28cbd145",
+      "sha256": "3efad2ca2a936c155c4b0c075581d15217be08c967982f8e37691c4544d85fa8",
+      "numero": "4941",
+      "arquivo": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L49412003.html"
+    },
+    {
+      "path": "estaduais/SE/leis-ordinarias/2021/l-8886-2021-id\"b\".md",
+      "OID": "c95ad5560b6e56a63fb2da72def352001d92860c",
+      "sha256": "f3377e4452985c9e15e7f2736bbe44d4d634ecbe4cd9864772be3b99691a7c13",
+      "numero": "8886",
+      "arquivo": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L88862021.html"
+    }
+  ],
+  "pacotes": [
+    {
+      "manifesto": "scripts/estados/manifestos/se13-proposta-privada-20261027-001.json",
+      "sha256_manifesto": "9a7d0ea81aadc83e6ea0ad77986d89879adf59ee234a7ea442ac6eef75d7b63e",
+      "total": 13,
+      "colisoes": []
+    },
+    {
+      "manifesto": "scripts/estados/manifestos/se131-proposta-privada-20261027-003.json",
+      "sha256_manifesto": "f72e97065e4654a6095614cdbd4786d5d72fe9cdb2bead8d798d16d016b8660a",
+      "total": 131,
+      "colisoes": []
+    }
+  ],
+  "reparo8494A": {
+    "manifesto": "scripts/estados/manifestos/se-8494A-proposta-privada-20261027-001.json",
+    "coincidencias_distintas": [
+      {
+        "path": "estaduais/SE/leis-ordinarias/2018/l-8494-2018-id11810.md",
+        "OID": "e7eea10fcae793908676923cb8274f564c32256c",
+        "sha256": "515de8571a19872d716e398810d66f401bb95f717cfb0fb976943d521de8feb4"
+      },
+      {
+        "path": "estaduais/SE/leis-ordinarias/2018/l-8494-2018-id3754.md",
+        "OID": "5183be3453705f4db020d152728bd5d579ff8a20",
+        "sha256": "183924677223e889b0271b3e840a61128e7f097f0ed5147b3443d33e454cf141"
+      }
+    ],
+    "destino_ausente": true,
+    "normativo_inalterado": true
+  },
+  "impacto_id_b": {
+    "path": "estaduais/SE/leis-ordinarias/2021/l-8886-2021-id\"b\".md",
+    "OID": "c95ad5560b6e56a63fb2da72def352001d92860c",
+    "sha256": "f3377e4452985c9e15e7f2736bbe44d4d634ecbe4cd9864772be3b99691a7c13",
+    "numero": "8886",
+    "data": "2021-08-31",
+    "arquivo": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L88862021.html",
+    "decisao": "Lei 8886/2021 já publicada com ID/fonte deslocado de CSV. O cache foi separado antes de qualquer nova coleta, não entra em SE13/SE131 ou novos356; zero norma nova. Reparos posteriores exigem fonte original e ID observado."
+  },
+  "sem_alterar_pacotes": true,
+  "sem_promocao": true
+}

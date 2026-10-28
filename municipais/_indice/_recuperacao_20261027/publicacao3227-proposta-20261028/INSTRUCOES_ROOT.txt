@@ -1,0 +1,15 @@
+Mapa de publicação exclusivo: 3.227 MDs novos. Há três fixtures idênticos a HEAD, sem contagem; não há canônico antigo de Buritis, nem MDs novos dos 921/586. Provas e candidatos de reparo são TXT privados, sem promoção. Os três pacotes de origem continuam intactos.
+
+1. Repetir SHA/bytes deste manifesto e dos artefatos. Repetir dedup contra HEAD real por OID, formato e gates do índice no ROOT.
+2. Replay: /Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/verificar_entrega_ta_sem_promocoes_v3_privado_20261027.py --manifesto municipais/_indice/_recuperacao_20261027/publicacao3227-proposta-20261028/manifesto.json --replay --saida NOVA_SAIDA_REPLAY3227.json
+3. Testes: python3 -I scripts/test_perfil_ta_tachados_preservados_20261027.py e python3 -I scripts/test_materializador_ta_v7_privado_20261027.py, usando o Python bundled. Esperado: 14 + 2 testes.
+
+Stage somente ROOT, quando os gates passarem (não executado pelo agente):
+git --literal-pathspecs -c core.autocrlf=false add -f --pathspec-from-file=municipais/_indice/_recuperacao_20261027/publicacao3227-proposta-20261028/stage.paths.z --pathspec-file-nul
+O NUL mantém nomes literais e evita ARG_MAX. O manifesto não contém seu próprio SHA; confira o SHA externo entregue e os blobs do índice por :PATH contra cada registro. stage.paths.z inclui o manifesto e a si próprio.
+
+Hardbreak/EOF: whitespace-preservado.json enumera os bytes intencionais. Não remover espaços duplos, quebras finais ou CRLF de snapshots, nem usar git apply --whitespace=fix. Preservar SHA no índice é o gate definitivo. Para triagem de whitespace intencional: git -c core.whitespace=-blank-at-eol,-blank-at-eof diff --cached --check -- municipais scripts. Alertas de snapshot bruto exigem conferência SHA, não normalização. .gitattributes já preserva HTMLs municipais em _fonte; o mapa também contém cópias de prova fora desse padrão.
+
+Dependências: o runtime QA já está pronto e foi validado; não instalar duplicado. Em máquina limpa, usar Python compatível e pip install --target scripts/bin/qa-20261027/python -r municipais/_indice/_recuperacao_20261027/publicacao3227-proposta-20261028/requirements-qa-v7.txt. Bibliotecas/runtime não entram na lista de stage. As versões efetivas estão em dependencias-runtime.json.
+
+CSS4735 inclui controle dos 921/586 que serão publicados depois: seus MDs não são stage deste mapa. O replay CSS integral requer os candidatos locais preservados ou esses dois lotes publicados; as três listas/mapas/recibos e o diagnóstico SHA ficam preservados. O replay de publicação deste mapa exige somente os 3.227 selecionados.

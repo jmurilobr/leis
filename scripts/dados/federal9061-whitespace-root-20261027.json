@@ -1,0 +1,30 @@
+{
+  "avisos": 4,
+  "criterio": "Todos avisos do index conferidos nos bytes dos blobs; somente4 quebras de exatamente2espacos,demais classes sem dispensa.",
+  "registros": [
+    {
+      "path": "federal/decretos/1944/dec-15006-1944-03-10.md",
+      "linha": 34,
+      "sha256_md": "a9b68e04549154a10c3d2f3afd04a865962a72b7789794c12c23796c065703c1",
+      "classe": "quebra GFM de exatamente dois espacos"
+    },
+    {
+      "path": "federal/decretos/1944/dec-15011-1944-03-10.md",
+      "linha": 34,
+      "sha256_md": "de52d835af70dfe5cb7c6c0105b179955c336ab5a54a2342b4b6fb01f4cdce1f",
+      "classe": "quebra GFM de exatamente dois espacos"
+    },
+    {
+      "path": "federal/decretos/1944/dec-16250-1944-07-31.md",
+      "linha": 30,
+      "sha256_md": "f7d4dd8d4a99eb5edb4eac6494834692dab47d0c8877dafa818f820afacebd53",
+      "classe": "quebra GFM de exatamente dois espacos"
+    },
+    {
+      "path": "federal/decretos/1944/dec-17260-1944-11-29.md",
+      "linha": 106,
+      "sha256_md": "539435e2ab0cb85a17c46acc343c6b6fa4885cc3e2ff2661d595816dae953d90",
+      "classe": "quebra GFM de exatamente dois espacos"
+    }
+  ]
+}

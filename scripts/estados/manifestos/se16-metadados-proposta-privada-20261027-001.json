@@ -1,0 +1,1160 @@
+{
+  "preparado_em": "2026-10-27T19:16:54.770140-03:00",
+  "total_reparos": 16,
+  "normas_novas": 0,
+  "sem_promocao": true,
+  "HEAD_ROOT": "c482863d23dcc99bd205fc6b7bf860532ec6aa03",
+  "controle_ROOT": "scripts/estados/manifestos/se13-head-dedup-root-20261027.json",
+  "sha256_controle_ROOT": "dc40e6efdb3257e53b7c1582a048e579fe5d7cb51a6c8ea70b36b1683db5f0f9",
+  "baseline_ROOT": "estaduais/SE/_fonte/auditorias/se13-head-root-20261027.jsonl.gz",
+  "sha256_baseline_ROOT": "bbb8cf294ed8a749627e59df91a550b1f516bc92d71997ed05c8dcdf9f900db8",
+  "documentos": [
+    {
+      "origem": "estaduais/SE/leis-ordinarias/1950/l-322-1950-idoficializados.\".md",
+      "destino": "estaduais/SE/leis-ordinarias/1950/l-322-1950-fonteefd78d32ee17.md",
+      "privado": "estaduais/SE/_fonte/auditorias/metadados16-privado-20261027-001/candidatos/l-322-1950-fonteefd78d32ee17.md",
+      "sha256_candidato": "57ac8fc6ab1f7afb54d05441bc21e6af77566a5ced64df5b8f32e73c367fc996",
+      "OID_preimagem": "408f19917c02df81c57263219a40a606905384eb",
+      "preimagem": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/preimagens/ffc41def945eb1493677932a0e7fcdaa5c66626cbeff0b43917c679aa9859e54.md.gz",
+      "sha256_MD_preimagem": "ffc41def945eb1493677932a0e7fcdaa5c66626cbeff0b43917c679aa9859e54",
+      "fonte_original_preservada": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/fontes-originais/52a705b730a3d2915a0da6b4e62fb47cfeb12373afa4e231330b66a99fdd9d3d.bin.gz",
+      "sha256_cache_original": "52a705b730a3d2915a0da6b4e62fb47cfeb12373afa4e231330b66a99fdd9d3d",
+      "sha256_fonte_original": "efd78d32ee172e61f2ca4e1e8931f29cde652eb6396396799bb5f60eb06a49ec",
+      "arquivo_observado": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L3221950.html",
+      "ID_observado": null,
+      "nome_por_hash_quando_ID_nao_observado": true,
+      "QA": {
+        "ementa": {
+          "epigrafe_literal": "LEI Nº 322, DE 28 DE DEZEMBRO DE 1950",
+          "ementa_literal": "Autoriza a abertura, pela Secretaria da Justiça e Interior, do crédito especial de Cr$ 13.065,00 destinado à aquisição de livros de \"Registros Escolares\", oficializados.",
+          "tag": "p",
+          "sha256_no_ementa_serializado": "575b8d8383a44eeef6f1434b55f81ceaf3bb13b276122ab75950843658db81d9",
+          "criterio": "Bloco textual único imediatamente após epígrafe própria e antes de autoridade/nota editorial; nenhuma reconstrução de palavras ou aspas."
+        },
+        "alteracoes": [
+          {
+            "campo": "ementa",
+            "antes": "ementa: \"Autoriza a abertura, pela Secretaria da Justiça e Interior, do crédito especial de Cr$ 13.065,00 destinado à aquisição de livros de Registros Escolares\\\"\"",
+            "depois": "ementa: \"Autoriza a abertura, pela Secretaria da Justiça e Interior, do crédito especial de Cr$ 13.065,00 destinado à aquisição de livros de \\\"Registros Escolares\\\", oficializados.\""
+          },
+          {
+            "campo": "situacao",
+            "antes": "situacao: \"\"",
+            "depois": "situacao: null"
+          },
+          {
+            "campo": "revogada",
+            "antes": "revogada: false",
+            "depois": "revogada: null"
+          },
+          {
+            "campo": "fonte",
+            "antes": "fonte: \"https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=oficializados.\\\"\"",
+            "depois": "fonte: \"https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L3221950.html\""
+          }
+        ],
+        "sha256_corpo_incluindo_H1": "0ceae9c8e64a139a4999db50eb23f69048525b24fca161d97b3a26365e0fa93d",
+        "limite": "Corpo inteiro inclusive H1 preservado; sem certificação de edição compilada, tipografia ou equivalência DOE. Datas/números/títulos mantidos, sem inferência de IDs."
+      },
+      "limite": "Os demais metadados e todo o corpo, inclusive H1, foram mantidos. A ementa literal original, incluindo f^’ no caso 8886, não recebeu correção textual por inferência."
+    },
+    {
+      "origem": "estaduais/SE/leis-ordinarias/1968/l-1514-1968-idRadio.md",
+      "destino": "estaduais/SE/leis-ordinarias/1968/l-1514-1968-fonte3b5128988e3a.md",
+      "privado": "estaduais/SE/_fonte/auditorias/metadados16-privado-20261027-001/candidatos/l-1514-1968-fonte3b5128988e3a.md",
+      "sha256_candidato": "cc72332ee12875997c667051ea0e36638ababcee771c36f2018208dcbdd05579",
+      "OID_preimagem": "e24916868b41447ffac8bc94a3fc7b7c88824870",
+      "preimagem": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/preimagens/2097ef2037419fe3a748c5af05ca18ba48f7749ffa59653cdde21b747275a8b7.md.gz",
+      "sha256_MD_preimagem": "2097ef2037419fe3a748c5af05ca18ba48f7749ffa59653cdde21b747275a8b7",
+      "fonte_original_preservada": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/fontes-originais/452354b90b5308c46bc55b4ce141d00979b9ada9c2135a8e0b03ce2ab7250b1d.bin.gz",
+      "sha256_cache_original": "452354b90b5308c46bc55b4ce141d00979b9ada9c2135a8e0b03ce2ab7250b1d",
+      "sha256_fonte_original": "3b5128988e3a3eb26a56103a2b5c8322c59a28c9b2b2cb965702404d5d8c42a2",
+      "arquivo_observado": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L15141968.html",
+      "ID_observado": null,
+      "nome_por_hash_quando_ID_nao_observado": true,
+      "QA": {
+        "ementa": {
+          "epigrafe_literal": "LEI Nº 1.514, DE 21 DE MARÇO DE 1968",
+          "ementa_literal": "Reconhece de Utilidade Pública o \"Centro de Imprensa, Radio, Letras e Artes Plásticas\" (CIRLAP).",
+          "tag": "p",
+          "sha256_no_ementa_serializado": "4eeb57a82f02393ab85ffb68b6d13c3f82e42afb38c09558a4d42079bfdb345d",
+          "criterio": "Bloco textual único imediatamente após epígrafe própria e antes de autoridade/nota editorial; nenhuma reconstrução de palavras ou aspas."
+        },
+        "alteracoes": [
+          {
+            "campo": "ementa",
+            "antes": "ementa: \"Reconhece de Utilidade Pública o Centro de Imprensa\"",
+            "depois": "ementa: \"Reconhece de Utilidade Pública o \\\"Centro de Imprensa, Radio, Letras e Artes Plásticas\\\" (CIRLAP).\""
+          },
+          {
+            "campo": "situacao",
+            "antes": "situacao: \"8507\"",
+            "depois": "situacao: null"
+          },
+          {
+            "campo": "revogada",
+            "antes": "revogada: false",
+            "depois": "revogada: null"
+          },
+          {
+            "campo": "fonte",
+            "antes": "fonte: \"https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=Radio\"",
+            "depois": "fonte: \"https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L15141968.html\""
+          }
+        ],
+        "sha256_corpo_incluindo_H1": "bb4e8b2971568831f852e8a0d19d3db6dfa825fdacd5537911e3655e171c4aa0",
+        "limite": "Corpo inteiro inclusive H1 preservado; sem certificação de edição compilada, tipografia ou equivalência DOE. Datas/números/títulos mantidos, sem inferência de IDs."
+      },
+      "limite": "Os demais metadados e todo o corpo, inclusive H1, foram mantidos. A ementa literal original, incluindo f^’ no caso 8886, não recebeu correção textual por inferência."
+    },
+    {
+      "origem": "estaduais/SE/leis-ordinarias/1974/l-1828-1974-idSergipe.\".md",
+      "destino": "estaduais/SE/leis-ordinarias/1974/l-1828-1974-fonte7f6d209fcc8b.md",
+      "privado": "estaduais/SE/_fonte/auditorias/metadados16-privado-20261027-001/candidatos/l-1828-1974-fonte7f6d209fcc8b.md",
+      "sha256_candidato": "b784eaa5992731ce6b369cca803a29ba7a20be966516dd876059f4ba32ed9e34",
+      "OID_preimagem": "e67948718cbb541f1268d877835e2a7b1678511c",
+      "preimagem": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/preimagens/bf0af2a7143b2d0a8fe7b2da2c65a19099de9eeb881e698c3e2cc745467329b5.md.gz",
+      "sha256_MD_preimagem": "bf0af2a7143b2d0a8fe7b2da2c65a19099de9eeb881e698c3e2cc745467329b5",
+      "fonte_original_preservada": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/fontes-originais/7e0a363c53d64d3374b54809d92020ce9bb185f0c0344f4a3de93fc2b57d8a78.bin.gz",
+      "sha256_cache_original": "7e0a363c53d64d3374b54809d92020ce9bb185f0c0344f4a3de93fc2b57d8a78",
+      "sha256_fonte_original": "7f6d209fcc8b74694def066365d81f284247fcce00049a6fd70319192df4ee06",
+      "arquivo_observado": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L18281974.html",
+      "ID_observado": null,
+      "nome_por_hash_quando_ID_nao_observado": true,
+      "QA": {
+        "ementa": {
+          "epigrafe_literal": "LEI Nº 1.828, DE 22 DE ABRIL DE 1974",
+          "ementa_literal": "Reconhece de utilidade pública o Colégio \"Dom Bosco\" na cidade de Itabaiana, Sergipe.",
+          "tag": "p",
+          "sha256_no_ementa_serializado": "1d3ee8d551f5676bdc62e5ae973262b625f37e01c046dfbbc21af8ce435bf269",
+          "criterio": "Bloco textual único imediatamente após epígrafe própria e antes de autoridade/nota editorial; nenhuma reconstrução de palavras ou aspas."
+        },
+        "alteracoes": [
+          {
+            "campo": "ementa",
+            "antes": "ementa: \"Reconhece de utilidade pública o Colégio Dom Bosco\\\" na cidade de Itabaiana\"",
+            "depois": "ementa: \"Reconhece de utilidade pública o Colégio \\\"Dom Bosco\\\" na cidade de Itabaiana, Sergipe.\""
+          },
+          {
+            "campo": "situacao",
+            "antes": "situacao: \"\"",
+            "depois": "situacao: null"
+          },
+          {
+            "campo": "revogada",
+            "antes": "revogada: false",
+            "depois": "revogada: null"
+          },
+          {
+            "campo": "fonte",
+            "antes": "fonte: \"https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=Sergipe.\\\"\"",
+            "depois": "fonte: \"https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L18281974.html\""
+          }
+        ],
+        "sha256_corpo_incluindo_H1": "529f2f3812f040ccb15707b14ab3b1d8e374f62b3f5541c2f3bdf3ba2d715000",
+        "limite": "Corpo inteiro inclusive H1 preservado; sem certificação de edição compilada, tipografia ou equivalência DOE. Datas/números/títulos mantidos, sem inferência de IDs."
+      },
+      "limite": "Os demais metadados e todo o corpo, inclusive H1, foram mantidos. A ementa literal original, incluindo f^’ no caso 8886, não recebeu correção textual por inferência."
+    },
+    {
+      "origem": "estaduais/SE/leis-ordinarias/1974/l-1833-1974-idEx-Orfanato.\".md",
+      "destino": "estaduais/SE/leis-ordinarias/1974/l-1833-1974-fonte216fa2793367.md",
+      "privado": "estaduais/SE/_fonte/auditorias/metadados16-privado-20261027-001/candidatos/l-1833-1974-fonte216fa2793367.md",
+      "sha256_candidato": "fb598d79273f84354ee47fab03c32f4ef000ed4e0b635d72d3c735e29d368e73",
+      "OID_preimagem": "833ef0273c8615e369f61ea42b993b1a49f86e3b",
+      "preimagem": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/preimagens/88cf206ef117698ccdec17f948d9886fd443ec520f65d0b71223b4133078c24b.md.gz",
+      "sha256_MD_preimagem": "88cf206ef117698ccdec17f948d9886fd443ec520f65d0b71223b4133078c24b",
+      "fonte_original_preservada": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/fontes-originais/d831dbd0ea4c7b99458b116f96c850ad0104531e6cbe1871e48d2276de236d5e.bin.gz",
+      "sha256_cache_original": "d831dbd0ea4c7b99458b116f96c850ad0104531e6cbe1871e48d2276de236d5e",
+      "sha256_fonte_original": "216fa279336769996980891e118c7ac09e66796a041f8b81822a109d87e25560",
+      "arquivo_observado": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L18331974.html",
+      "ID_observado": null,
+      "nome_por_hash_quando_ID_nao_observado": true,
+      "QA": {
+        "ementa": {
+          "epigrafe_literal": "LEI Nº 1.833, DE 30 DE MAIO DE 1974",
+          "ementa_literal": "Reconhece de utilidade pública o Lar Evangélico das \"Assembléias de Deus\" no Estado de Sergipe, Ex-Orfanato.",
+          "tag": "p",
+          "sha256_no_ementa_serializado": "a717b7dfcb4da58713b837408534b6baac72a86a25f41b543f246709e4f0f8ff",
+          "criterio": "Bloco textual único imediatamente após epígrafe própria e antes de autoridade/nota editorial; nenhuma reconstrução de palavras ou aspas."
+        },
+        "alteracoes": [
+          {
+            "campo": "ementa",
+            "antes": "ementa: \"Reconhece de utilidade pública o Lar Evangélico das Assembléias de Deus\\\" no Estado de Sergipe\"",
+            "depois": "ementa: \"Reconhece de utilidade pública o Lar Evangélico das \\\"Assembléias de Deus\\\" no Estado de Sergipe, Ex-Orfanato.\""
+          },
+          {
+            "campo": "situacao",
+            "antes": "situacao: \"\"",
+            "depois": "situacao: null"
+          },
+          {
+            "campo": "revogada",
+            "antes": "revogada: false",
+            "depois": "revogada: null"
+          },
+          {
+            "campo": "fonte",
+            "antes": "fonte: \"https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=Ex-Orfanato.\\\"\"",
+            "depois": "fonte: \"https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L18331974.html\""
+          }
+        ],
+        "sha256_corpo_incluindo_H1": "1e1b22d5a56eb3134e72a43580b3f8840f7cbcbde38ebfadfe034c2ac434f49a",
+        "limite": "Corpo inteiro inclusive H1 preservado; sem certificação de edição compilada, tipografia ou equivalência DOE. Datas/números/títulos mantidos, sem inferência de IDs."
+      },
+      "limite": "Os demais metadados e todo o corpo, inclusive H1, foram mantidos. A ementa literal original, incluindo f^’ no caso 8886, não recebeu correção textual por inferência."
+    },
+    {
+      "origem": "estaduais/SE/leis-ordinarias/1990/l-2859-1990-idSOCAMPOS.md",
+      "destino": "estaduais/SE/leis-ordinarias/1990/l-2859-1990-fonte3227dae52ef6.md",
+      "privado": "estaduais/SE/_fonte/auditorias/metadados16-privado-20261027-001/candidatos/l-2859-1990-fonte3227dae52ef6.md",
+      "sha256_candidato": "63d9b7118bf4753fa1c1bb77fce10cf8a0cfaa2bced26fd5934818a5b506c281",
+      "OID_preimagem": "8582837bd91e8c2f4e1d4fae119c59570c170106",
+      "preimagem": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/preimagens/e56e36e9f87f773cea75ca1255fe501c4dba381b1eab62638eebfed243e85ae7.md.gz",
+      "sha256_MD_preimagem": "e56e36e9f87f773cea75ca1255fe501c4dba381b1eab62638eebfed243e85ae7",
+      "fonte_original_preservada": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/fontes-originais/e9c4c8c7f1143e8bc0f0183a497a4c9ae197c9debd83675361252a8cd393bbec.bin.gz",
+      "sha256_cache_original": "e9c4c8c7f1143e8bc0f0183a497a4c9ae197c9debd83675361252a8cd393bbec",
+      "sha256_fonte_original": "3227dae52ef69105dcca3e34c84d3f9dd5935a241103b4753a7b510881275c5a",
+      "arquivo_observado": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L28591990.html",
+      "ID_observado": null,
+      "nome_por_hash_quando_ID_nao_observado": true,
+      "QA": {
+        "ementa": {
+          "epigrafe_literal": "LEI Nº 2.859, DE 24 DE OUTUBRO DE 1990",
+          "ementa_literal": "Reconhece de utilidade pública a \"Sociedade Comunitária do Bairro Siqueira Campos\", SOCAMPOS, com sede e foro na cidade de Aracaju - SE.",
+          "tag": "p",
+          "sha256_no_ementa_serializado": "c96e6a1dddfad39029a306c031200b05871bd58c8dce77f79be1db80fbd75ffb",
+          "criterio": "Bloco textual único imediatamente após epígrafe própria e antes de autoridade/nota editorial; nenhuma reconstrução de palavras ou aspas."
+        },
+        "alteracoes": [
+          {
+            "campo": "ementa",
+            "antes": "ementa: \"Reconhece de utilidade pública a Sociedade Comunitária do Bairro Siqueira Campos\\\"\"",
+            "depois": "ementa: \"Reconhece de utilidade pública a \\\"Sociedade Comunitária do Bairro Siqueira Campos\\\", SOCAMPOS, com sede e foro na cidade de Aracaju - SE.\""
+          },
+          {
+            "campo": "situacao",
+            "antes": "situacao: \"6851\"",
+            "depois": "situacao: null"
+          },
+          {
+            "campo": "revogada",
+            "antes": "revogada: false",
+            "depois": "revogada: null"
+          },
+          {
+            "campo": "fonte",
+            "antes": "fonte: \"https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=SOCAMPOS\"",
+            "depois": "fonte: \"https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L28591990.html\""
+          }
+        ],
+        "sha256_corpo_incluindo_H1": "9627bfaf9dc092d50cddfc098b84134408c82c64bf2e6cb5299f8d04048f7584",
+        "limite": "Corpo inteiro inclusive H1 preservado; sem certificação de edição compilada, tipografia ou equivalência DOE. Datas/números/títulos mantidos, sem inferência de IDs."
+      },
+      "limite": "Os demais metadados e todo o corpo, inclusive H1, foram mantidos. A ementa literal original, incluindo f^’ no caso 8886, não recebeu correção textual por inferência."
+    },
+    {
+      "origem": "estaduais/SE/leis-ordinarias/1990/l-2860-1990-idSOC\".md",
+      "destino": "estaduais/SE/leis-ordinarias/1990/l-2860-1990-fonte9e175d0ae406.md",
+      "privado": "estaduais/SE/_fonte/auditorias/metadados16-privado-20261027-001/candidatos/l-2860-1990-fonte9e175d0ae406.md",
+      "sha256_candidato": "e566175aacbc9e6e179467545a457ea651c92cfcfc16a0b27d5f1d84c11ae70e",
+      "OID_preimagem": "8a8049a6a0072163ab90b50e621cabb924aee2c8",
+      "preimagem": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/preimagens/6188959349de39ef11fb7c8d8c6c8ba2426991629ee30739968f42b91dc5fd48.md.gz",
+      "sha256_MD_preimagem": "6188959349de39ef11fb7c8d8c6c8ba2426991629ee30739968f42b91dc5fd48",
+      "fonte_original_preservada": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/fontes-originais/d0898ea8a3b6e65f7b603f35c6de4f809930d663237eeb63b345da80d212047a.bin.gz",
+      "sha256_cache_original": "d0898ea8a3b6e65f7b603f35c6de4f809930d663237eeb63b345da80d212047a",
+      "sha256_fonte_original": "9e175d0ae406f711591ee7d5135943c387d3dfe0dbe0a81d737b5ac180d65244",
+      "arquivo_observado": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L28601990.html",
+      "ID_observado": null,
+      "nome_por_hash_quando_ID_nao_observado": true,
+      "QA": {
+        "ementa": {
+          "epigrafe_literal": "LEI Nº 2.860, DE 24 DE OUTUBRO DE 1990",
+          "ementa_literal": "Reconhece de utilidade pública a Associação de Desenvolvimento Comunitário do Povoado Ilha, com sede no Povoado Ilha e foro na Comarca de Itabainiha, Estado de Sergipe.",
+          "tag": "p",
+          "sha256_no_ementa_serializado": "725dc3522fdf432514715839ba54986dfb95b7b94bbb6102aad719f286c14813",
+          "criterio": "Bloco textual único imediatamente após epígrafe própria e antes de autoridade/nota editorial; nenhuma reconstrução de palavras ou aspas."
+        },
+        "alteracoes": [
+          {
+            "campo": "ementa",
+            "antes": "ementa: \"Reconhece de utilidade pública a Associação de Desenvolvimento Comunitário do Povoado Ilha, com sede no Povoado Ilha e foro na Comarca de Itabainiha, Estado de Sergipe.Reconhece de utilidade pública a Sociedade Comunitária do Bairro Siqueira Campos\\\"\"",
+            "depois": "ementa: \"Reconhece de utilidade pública a Associação de Desenvolvimento Comunitário do Povoado Ilha, com sede no Povoado Ilha e foro na Comarca de Itabainiha, Estado de Sergipe.\""
+          },
+          {
+            "campo": "situacao",
+            "antes": "situacao: \"\"",
+            "depois": "situacao: null"
+          },
+          {
+            "campo": "revogada",
+            "antes": "revogada: false",
+            "depois": "revogada: null"
+          },
+          {
+            "campo": "fonte",
+            "antes": "fonte: \"https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=SOC\\\"\"",
+            "depois": "fonte: \"https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L28601990.html\""
+          }
+        ],
+        "sha256_corpo_incluindo_H1": "8b2ad875ef4b8d96b5cdd125959b1577d3ac56956cec259939389bedd429c580",
+        "limite": "Corpo inteiro inclusive H1 preservado; sem certificação de edição compilada, tipografia ou equivalência DOE. Datas/números/títulos mantidos, sem inferência de IDs."
+      },
+      "limite": "Os demais metadados e todo o corpo, inclusive H1, foram mantidos. A ementa literal original, incluindo f^’ no caso 8886, não recebeu correção textual por inferência."
+    },
+    {
+      "origem": "estaduais/SE/leis-ordinarias/2003/l-4941-2003-id\".md",
+      "destino": "estaduais/SE/leis-ordinarias/2003/l-4941-2003-fonte2c43f8d46226.md",
+      "privado": "estaduais/SE/_fonte/auditorias/metadados16-privado-20261027-001/candidatos/l-4941-2003-fonte2c43f8d46226.md",
+      "sha256_candidato": "f43577b5f08f0540d5392b10383a31abba3a09f5a10b7c07843fe32e11375ae7",
+      "OID_preimagem": "ecde9e663aa90361da85fc2d98a7f33b28cbd145",
+      "preimagem": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/preimagens/3efad2ca2a936c155c4b0c075581d15217be08c967982f8e37691c4544d85fa8.md.gz",
+      "sha256_MD_preimagem": "3efad2ca2a936c155c4b0c075581d15217be08c967982f8e37691c4544d85fa8",
+      "fonte_original_preservada": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/fontes-originais/1e4f28ef4bd3a9d41123948719b00073c1ac09d8830963f532aca95917f56904.bin.gz",
+      "sha256_cache_original": "1e4f28ef4bd3a9d41123948719b00073c1ac09d8830963f532aca95917f56904",
+      "sha256_fonte_original": "2c43f8d462264bb4c44e389d12002746d9c26a541bc87dc2d7c5e17bafa6effe",
+      "arquivo_observado": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L49412003.html",
+      "ID_observado": null,
+      "nome_por_hash_quando_ID_nao_observado": true,
+      "QA": {
+        "ementa": {
+          "epigrafe_literal": "LEI Nº 4.941, DE 08 DE SETEMBRO DE 2003",
+          "ementa_literal": "Autoriza o Poder Executivo a abrir, em favor da Secretaria de Estado da Infra-Estrutura, Créditos Especiais, no valor de até R$ 290.713,94 para inclusão do Projeto \"Construção e Aquisição de Equipamentos da Biblioteca do Conjunto 'Augusto Franco'\", no Orçamento - Programa do Estado para 2003.",
+          "tag": "p",
+          "sha256_no_ementa_serializado": "536119ec218547590d4969a29bf8d6f33d74520a1939dec24c1210053f9dcc9a",
+          "criterio": "Bloco textual único imediatamente após epígrafe própria e antes de autoridade/nota editorial; nenhuma reconstrução de palavras ou aspas."
+        },
+        "alteracoes": [
+          {
+            "campo": "ementa",
+            "antes": "ementa: \"Autoriza o Poder Executivo a abrir, em favor da Secretaria de Estado da Infra-Estrutura, Créditos Especiais, no valor de até R$ 290.713,94 para inclusão do Projeto Construção e Aquisição de Equipamentos da Biblioteca do Conjunto 'Augusto Franco'\\\"\"",
+            "depois": "ementa: \"Autoriza o Poder Executivo a abrir, em favor da Secretaria de Estado da Infra-Estrutura, Créditos Especiais, no valor de até R$ 290.713,94 para inclusão do Projeto \\\"Construção e Aquisição de Equipamentos da Biblioteca do Conjunto 'Augusto Franco'\\\", no Orçamento - Programa do Estado para 2003.\""
+          },
+          {
+            "campo": "situacao",
+            "antes": "situacao: \"\"",
+            "depois": "situacao: null"
+          },
+          {
+            "campo": "revogada",
+            "antes": "revogada: false",
+            "depois": "revogada: null"
+          },
+          {
+            "campo": "fonte",
+            "antes": "fonte: \"https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=\\\"\"",
+            "depois": "fonte: \"https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L49412003.html\""
+          }
+        ],
+        "sha256_corpo_incluindo_H1": "296840fc0aa7828152cc633feceaf4f455fbc196c201015232a988a3ac3cbefa",
+        "limite": "Corpo inteiro inclusive H1 preservado; sem certificação de edição compilada, tipografia ou equivalência DOE. Datas/números/títulos mantidos, sem inferência de IDs."
+      },
+      "limite": "Os demais metadados e todo o corpo, inclusive H1, foram mantidos. A ementa literal original, incluindo f^’ no caso 8886, não recebeu correção textual por inferência."
+    },
+    {
+      "origem": "estaduais/SE/leis-ordinarias/2007/l-6189-2007-ido.md",
+      "destino": "estaduais/SE/leis-ordinarias/2007/l-6189-2007-fonted32d8da98b7f.md",
+      "privado": "estaduais/SE/_fonte/auditorias/metadados16-privado-20261027-001/candidatos/l-6189-2007-fonted32d8da98b7f.md",
+      "sha256_candidato": "533d704fa7fb67c45d4b5704e601a2b1ccbe7d0c8cc9bc553f098abdd6ae1c10",
+      "OID_preimagem": "5c34a62ef690e8b33a4a16b016d8a7908d09d3a2",
+      "preimagem": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/preimagens/0403e98d53076b762e75bf8a0e41a7dee8e2b0ba0627655517d623955c75f0b5.md.gz",
+      "sha256_MD_preimagem": "0403e98d53076b762e75bf8a0e41a7dee8e2b0ba0627655517d623955c75f0b5",
+      "fonte_original_preservada": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/fontes-originais/8c118c60e39c0fcbdc57b1fbdf351bf8ac864205c20ee41a41ae8f84e5563912.bin.gz",
+      "sha256_cache_original": "8c118c60e39c0fcbdc57b1fbdf351bf8ac864205c20ee41a41ae8f84e5563912",
+      "sha256_fonte_original": "d32d8da98b7f178c90b71cab9972d6036ebcfdaf2158ab297c79c9e585e5dc19",
+      "arquivo_observado": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L61892007.html",
+      "ID_observado": null,
+      "nome_por_hash_quando_ID_nao_observado": true,
+      "QA": {
+        "ementa": {
+          "epigrafe_literal": "LEI Nº 6.189, DE 11 DE SETEMBRO DE 2007",
+          "ementa_literal": "Altera os incisos VII, VIII, IX e XII, do “caput” do art. 48, o inciso V e suas alíneas “d” e “g”, do art. 72, o § 2º do art. 74 e o item 122 do Anexo Único e acrescenta o § 3º ao art. 48, todos da Lei nº 3.796, de 26 de dezembro de 1996, que dispõe quanto ao Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS, e dá providências correlatas.",
+          "tag": "p",
+          "sha256_no_ementa_serializado": "0f1b061c4b106dd83f12a1a20f88584980372366cd8254d67d8f48c63baf3a38",
+          "criterio": "Bloco textual único imediatamente após epígrafe própria e antes de autoridade/nota editorial; nenhuma reconstrução de palavras ou aspas."
+        },
+        "alteracoes": [
+          {
+            "campo": "ementa",
+            "antes": "ementa: \"Altera os incisos VII, VIII, IX e XII, do caput\\\" do art. 48\"",
+            "depois": "ementa: \"Altera os incisos VII, VIII, IX e XII, do “caput” do art. 48, o inciso V e suas alíneas “d” e “g”, do art. 72, o § 2º do art. 74 e o item 122 do Anexo Único e acrescenta o § 3º ao art. 48, todos da Lei nº 3.796, de 26 de dezembro de 1996, que dispõe quanto ao Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS, e dá providências correlatas.\""
+          },
+          {
+            "campo": "situacao",
+            "antes": "situacao: \"\"",
+            "depois": "situacao: null"
+          },
+          {
+            "campo": "revogada",
+            "antes": "revogada: false",
+            "depois": "revogada: null"
+          },
+          {
+            "campo": "fonte",
+            "antes": "fonte: \"https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=o\"",
+            "depois": "fonte: \"https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L61892007.html\""
+          }
+        ],
+        "sha256_corpo_incluindo_H1": "6be56e0c274ee9cca938774b2d7d20ce171925e151d6c00ca19bf8ade253f6b7",
+        "limite": "Corpo inteiro inclusive H1 preservado; sem certificação de edição compilada, tipografia ou equivalência DOE. Datas/números/títulos mantidos, sem inferência de IDs."
+      },
+      "limite": "Os demais metadados e todo o corpo, inclusive H1, foram mantidos. A ementa literal original, incluindo f^’ no caso 8886, não recebeu correção textual por inferência."
+    },
+    {
+      "origem": "estaduais/SE/leis-ordinarias/2011/l-7174-2011-idhipermercados.md",
+      "destino": "estaduais/SE/leis-ordinarias/2011/l-7174-2011-id2730.md",
+      "privado": "estaduais/SE/_fonte/auditorias/metadados16-privado-20261027-001/candidatos/l-7174-2011-id2730.md",
+      "sha256_candidato": "f6c7a47d1cc4b0a0153c27fa129b336d0ff2ba3cbff7f3cb244ff80976268933",
+      "OID_preimagem": "46d7aaf99b0239c8808579ec0b3769a5729dcb23",
+      "preimagem": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/preimagens/0bbdb7bfde07b5021a72924f254e58d8cd701348b9aaeb68f567427e02eaa261.md.gz",
+      "sha256_MD_preimagem": "0bbdb7bfde07b5021a72924f254e58d8cd701348b9aaeb68f567427e02eaa261",
+      "fonte_original_preservada": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/fontes-originais/0822b0093db5797c3e6973c1a7b287db14b216b06196ff7fbfd9c65fe951f602.bin.gz",
+      "sha256_cache_original": "0822b0093db5797c3e6973c1a7b287db14b216b06196ff7fbfd9c65fe951f602",
+      "sha256_fonte_original": "7ceae464ae3f2afaab1a67268af1f595c9e3e29fdb67c36bfcb9af753c4faeab",
+      "arquivo_observado": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L71742011.html",
+      "ID_observado": {
+        "UF": "SE",
+        "tipo": "Lei Ordinária",
+        "tipo_indice": "4",
+        "id": "2730",
+        "numero": "7174",
+        "ano": 2011,
+        "data": "2011-06-30",
+        "titulo_indice": "Lei Ordinária n° 7.174/2011",
+        "ementa": "Dispõe sobre a proibição, no âmbito do Estado de Sergipe, de cobrança de valores pela utilização de estacionamento em \"shoppings centers\", hipermercados, supermercados, lojas, instituições de ensino, e outros estabelecimentos, e dá providências correlatas.",
+        "situacao": "Em vigor",
+        "fonte": "https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=2730&tipo=4&ano=2011",
+        "textos_completos_observados": [
+          "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L71742011.html"
+        ],
+        "indice": {
+          "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2011",
+          "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2011",
+          "metodo": "POST",
+          "campos_publicos": [
+            "ctl00$ContentPlaceHolder1$ddl_ItensExibidos"
+          ],
+          "postback": "ctl00$ContentPlaceHolder1$lbNext",
+          "http": 200,
+          "cache": "estaduais/SE/_fonte/auditorias/indices-html-20261027-004/b30f74e4bfe248e333c3fe1e20d2171b900cea23641cc70f6a8ea5da85945fb7.html.gz",
+          "sha256_fonte": "b30f74e4bfe248e333c3fe1e20d2171b900cea23641cc70f6a8ea5da85945fb7",
+          "sha256_cache": "bc34351d946f3ce3b3793a0908fcaa18ada4aa4932c7d7025b096350af33883b",
+          "headers": {
+            "Cache-Control": "public, max-age=120",
+            "Content-Type": "text/html; charset=utf-8",
+            "Expires": "Tue, 27 Oct 2026 21:33:57 GMT",
+            "Last-Modified": "Tue, 27 Oct 2026 21:31:57 GMT",
+            "Vary": "*",
+            "X-Correlation-ID": "aec902a9-f6fd-4507-be0d-03d8b739e9cb",
+            "X-Powered-By": "ASP.NET",
+            "Access-Control-Allow-Origin": "*",
+            "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+            "Date": "Tue, 27 Oct 2026 21:32:01 GMT",
+            "Connection": "close",
+            "Content-Length": "472852"
+          },
+          "capturado_em": "2026-10-27T18:32:01.624885-03:00"
+        },
+        "pagina_observada": 3
+      },
+      "nome_por_hash_quando_ID_nao_observado": false,
+      "QA": {
+        "ementa": {
+          "epigrafe_literal": "LEI Nº 7.174, DE 30 DE JUNHO DE 2011",
+          "ementa_literal": "Dispõe sobre a proibição, no âmbito do Estado de Sergipe, de cobrança de valores pela utilização de estacionamento em \"shoppings centers\", hipermercados, supermercados, lojas, instituições de ensino, e outros estabelecimentos, e dá providências correlatas.",
+          "tag": "h2",
+          "sha256_no_ementa_serializado": "b07f0b30c714df3d15cdb8e36c0a4f83419fcf6d14eaf6ff54c72ff3160791bd",
+          "criterio": "Bloco textual único imediatamente após epígrafe própria e antes de autoridade/nota editorial; nenhuma reconstrução de palavras ou aspas."
+        },
+        "alteracoes": [
+          {
+            "campo": "ementa",
+            "antes": "ementa: \"Dispõe sobre a proibição, no âmbito do Estado de Sergipe, de cobrança de valores pela utilização de estacionamento em shoppings centers\\\"\"",
+            "depois": "ementa: \"Dispõe sobre a proibição, no âmbito do Estado de Sergipe, de cobrança de valores pela utilização de estacionamento em \\\"shoppings centers\\\", hipermercados, supermercados, lojas, instituições de ensino, e outros estabelecimentos, e dá providências correlatas.\""
+          },
+          {
+            "campo": "situacao",
+            "antes": "situacao: \"\"",
+            "depois": "situacao: null"
+          },
+          {
+            "campo": "revogada",
+            "antes": "revogada: false",
+            "depois": "revogada: null"
+          },
+          {
+            "campo": "fonte",
+            "antes": "fonte: \"https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=hipermercados\"",
+            "depois": "fonte: \"https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L71742011.html\""
+          }
+        ],
+        "sha256_corpo_incluindo_H1": "9a30d12a853ce2729a8e55e5e243196828b3b71819e82aa6456c08c89db143ca",
+        "limite": "Corpo inteiro inclusive H1 preservado; sem certificação de edição compilada, tipografia ou equivalência DOE. Datas/números/títulos mantidos, sem inferência de IDs."
+      },
+      "limite": "Os demais metadados e todo o corpo, inclusive H1, foram mantidos. A ementa literal original, incluindo f^’ no caso 8886, não recebeu correção textual por inferência."
+    },
+    {
+      "origem": "estaduais/SE/leis-ordinarias/2011/l-7224-2011-idcom.md",
+      "destino": "estaduais/SE/leis-ordinarias/2011/l-7224-2011-id2780.md",
+      "privado": "estaduais/SE/_fonte/auditorias/metadados16-privado-20261027-001/candidatos/l-7224-2011-id2780.md",
+      "sha256_candidato": "5e92770093e77beab83ab34ae01847421e075d6f8cb816d8fbe26a17efbb673f",
+      "OID_preimagem": "5e5ea2048617e2d347459e5cecd2a340875a9e89",
+      "preimagem": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/preimagens/c796063b640fa4a981540fb5e250c36b33332ce2fc60aae13b041ed3ae502413.md.gz",
+      "sha256_MD_preimagem": "c796063b640fa4a981540fb5e250c36b33332ce2fc60aae13b041ed3ae502413",
+      "fonte_original_preservada": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/fontes-originais/7360266ecd7e0bcb0d6010cb187914cd0886b756b9ba3eb84385737b918234fb.bin.gz",
+      "sha256_cache_original": "7360266ecd7e0bcb0d6010cb187914cd0886b756b9ba3eb84385737b918234fb",
+      "sha256_fonte_original": "d5ffe8ebbf67ddcffdbb188bfbd35457781f3e70536c4388cb76fb2d21944254",
+      "arquivo_observado": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L72242011.html",
+      "ID_observado": {
+        "UF": "SE",
+        "tipo": "Lei Ordinária",
+        "tipo_indice": "4",
+        "id": "2780",
+        "numero": "7224",
+        "ano": 2011,
+        "data": "2011-10-13",
+        "titulo_indice": "Lei Ordinária n° 7.224/2011",
+        "ementa": "Reconhece de Utilidade Pública Estadual a Associação Comunitária \"Nova Esperança\", com sede e foro na Cidade de Japaratuba - SE.",
+        "situacao": "Em vigor",
+        "fonte": "https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=2780&tipo=4&ano=2011",
+        "textos_completos_observados": [
+          "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L72242011.html"
+        ],
+        "indice": {
+          "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2011",
+          "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2011",
+          "metodo": "POST",
+          "campos_publicos": [
+            "ctl00$ContentPlaceHolder1$ddl_ItensExibidos"
+          ],
+          "postback": "ctl00$ContentPlaceHolder1$lbNext",
+          "http": 200,
+          "cache": "estaduais/SE/_fonte/auditorias/indices-html-20261027-004/77be1e08b46e92a707b60557c3c54ccafbac1ef375d37e6d878306c1c6e143cc.html.gz",
+          "sha256_fonte": "77be1e08b46e92a707b60557c3c54ccafbac1ef375d37e6d878306c1c6e143cc",
+          "sha256_cache": "199cc797b2031d55554adc5cc0d6ab1fd9885001cdbe9e1bbf1fec02ca6e04ac",
+          "headers": {
+            "Cache-Control": "public, max-age=120",
+            "Content-Type": "text/html; charset=utf-8",
+            "Expires": "Tue, 27 Oct 2026 21:33:50 GMT",
+            "Last-Modified": "Tue, 27 Oct 2026 21:31:50 GMT",
+            "Vary": "*",
+            "X-Correlation-ID": "b1a6c5a6-4810-4abe-8f3b-a1fff93a66ce",
+            "X-Powered-By": "ASP.NET",
+            "Access-Control-Allow-Origin": "*",
+            "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+            "Date": "Tue, 27 Oct 2026 21:31:56 GMT",
+            "Connection": "close",
+            "Content-Length": "675775"
+          },
+          "capturado_em": "2026-10-27T18:31:57.120235-03:00"
+        },
+        "pagina_observada": 2
+      },
+      "nome_por_hash_quando_ID_nao_observado": false,
+      "QA": {
+        "ementa": {
+          "epigrafe_literal": "LEI Nº 7.224, DE 13 DE OUTUBRO DE 2011",
+          "ementa_literal": "Reconhece de Utilidade Pública Estadual a Associação Comunitária \"Nova Esperança\", com sede e foro na Cidade de Japaratuba - SE.",
+          "tag": "h2",
+          "sha256_no_ementa_serializado": "df1628ae66c4cf190d79ecad17383a30b4ac02a6f6843e80f098ba6a4409e53d",
+          "criterio": "Bloco textual único imediatamente após epígrafe própria e antes de autoridade/nota editorial; nenhuma reconstrução de palavras ou aspas."
+        },
+        "alteracoes": [
+          {
+            "campo": "ementa",
+            "antes": "ementa: \"Reconhece de Utilidade Pública Estadual a Associação Comunitária Nova Esperança\\\"\"",
+            "depois": "ementa: \"Reconhece de Utilidade Pública Estadual a Associação Comunitária \\\"Nova Esperança\\\", com sede e foro na Cidade de Japaratuba - SE.\""
+          },
+          {
+            "campo": "situacao",
+            "antes": "situacao: \"\"",
+            "depois": "situacao: null"
+          },
+          {
+            "campo": "revogada",
+            "antes": "revogada: false",
+            "depois": "revogada: null"
+          },
+          {
+            "campo": "fonte",
+            "antes": "fonte: \"https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=com\"",
+            "depois": "fonte: \"https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L72242011.html\""
+          }
+        ],
+        "sha256_corpo_incluindo_H1": "eaaba3a2490f914ea68a6ad8b052f2e2cdcd74c04159951909c2cff4032380ea",
+        "limite": "Corpo inteiro inclusive H1 preservado; sem certificação de edição compilada, tipografia ou equivalência DOE. Datas/números/títulos mantidos, sem inferência de IDs."
+      },
+      "limite": "Os demais metadados e todo o corpo, inclusive H1, foram mantidos. A ementa literal original, incluindo f^’ no caso 8886, não recebeu correção textual por inferência."
+    },
+    {
+      "origem": "estaduais/SE/leis-ordinarias/2016/l-8146-2016-idno.md",
+      "destino": "estaduais/SE/leis-ordinarias/2016/l-8146-2016-id5369.md",
+      "privado": "estaduais/SE/_fonte/auditorias/metadados16-privado-20261027-001/candidatos/l-8146-2016-id5369.md",
+      "sha256_candidato": "114feaad1844df6baf464c6ec4f3e7802d9118e1540041ebb667a1cab76398d0",
+      "OID_preimagem": "9c7008954131a17d260fd579641328481215d0dc",
+      "preimagem": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/preimagens/d91ba9b5c0cc2d0641023c39bfb47e49a5d2524167c70b3e9ebd4d430ccf111c.md.gz",
+      "sha256_MD_preimagem": "d91ba9b5c0cc2d0641023c39bfb47e49a5d2524167c70b3e9ebd4d430ccf111c",
+      "fonte_original_preservada": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/fontes-originais/5c084e0ed305ff7e0e9892b633310e0c0146fde98ba8c8a1756a2074d5d0e77f.bin.gz",
+      "sha256_cache_original": "5c084e0ed305ff7e0e9892b633310e0c0146fde98ba8c8a1756a2074d5d0e77f",
+      "sha256_fonte_original": "4a53579d6c72bc2088f96a7b9b31f77fadbfecaed011a4c9a2c91405465df732",
+      "arquivo_observado": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L81462016.html",
+      "ID_observado": {
+        "UF": "SE",
+        "tipo": "Lei Ordinária",
+        "tipo_indice": "4",
+        "id": "5369",
+        "numero": "8146",
+        "ano": 2016,
+        "data": "2016-10-25",
+        "titulo_indice": "Lei Ordinária n° 8.146/2016",
+        "ementa": "Inclui o cortejo de Santa Bárbara, denominado \"Prova de Fogo\", no Calendário Oficial Cultural do Estado de Sergipe.",
+        "situacao": "Em vigor",
+        "fonte": "https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=5369&tipo=4&ano=2016",
+        "textos_completos_observados": [
+          "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L81462016.html"
+        ],
+        "indice": {
+          "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2016",
+          "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2016",
+          "metodo": "POST",
+          "campos_publicos": [
+            "ctl00$ContentPlaceHolder1$ddl_ItensExibidos"
+          ],
+          "postback": "ctl00$ContentPlaceHolder1$ddl_ItensExibidos",
+          "http": 200,
+          "cache": "estaduais/SE/_fonte/auditorias/indices-html-20261027-004/34da36cdd57c5e9943d627cb4c9db6785a6bab04e93aaa38bb579de711da8fa2.html.gz",
+          "sha256_fonte": "34da36cdd57c5e9943d627cb4c9db6785a6bab04e93aaa38bb579de711da8fa2",
+          "sha256_cache": "bd6f57b3e1bfcd7cab4a3eac4e1989996a9fef7e4b1a3a1b8e66912a3955c8c7",
+          "headers": {
+            "Cache-Control": "public, max-age=120",
+            "Content-Type": "text/html; charset=utf-8",
+            "Expires": "Tue, 27 Oct 2026 21:32:32 GMT",
+            "Last-Modified": "Tue, 27 Oct 2026 21:30:32 GMT",
+            "Vary": "*",
+            "X-Correlation-ID": "c8b1ea4b-093c-43ae-906c-52f36dbbd0ef",
+            "X-Powered-By": "ASP.NET",
+            "Access-Control-Allow-Origin": "*",
+            "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+            "Date": "Tue, 27 Oct 2026 21:30:38 GMT",
+            "Connection": "close",
+            "Content-Length": "677714"
+          },
+          "capturado_em": "2026-10-27T18:30:38.617386-03:00"
+        },
+        "pagina_observada": 1
+      },
+      "nome_por_hash_quando_ID_nao_observado": false,
+      "QA": {
+        "ementa": {
+          "epigrafe_literal": "LEI Nº 8.146, DE 25 DE OUTUBRO DE 2016",
+          "ementa_literal": "Inclui o cortejo de Santa Bárbara, denominado “Prova de Fogo”, no Calendário Oficial Cultural do Estado de Sergipe.",
+          "tag": "p",
+          "sha256_no_ementa_serializado": "ff84ca970aadb73e0bfef79256f868961c9b95d6c1937c3349d228559bde05a8",
+          "criterio": "Bloco textual único imediatamente após epígrafe própria e antes de autoridade/nota editorial; nenhuma reconstrução de palavras ou aspas."
+        },
+        "alteracoes": [
+          {
+            "campo": "ementa",
+            "antes": "ementa: \"Inclui o cortejo de Santa Bárbara, denominado Prova de Fogo\\\"\"",
+            "depois": "ementa: \"Inclui o cortejo de Santa Bárbara, denominado “Prova de Fogo”, no Calendário Oficial Cultural do Estado de Sergipe.\""
+          },
+          {
+            "campo": "situacao",
+            "antes": "situacao: \"\"",
+            "depois": "situacao: null"
+          },
+          {
+            "campo": "revogada",
+            "antes": "revogada: false",
+            "depois": "revogada: null"
+          },
+          {
+            "campo": "fonte",
+            "antes": "fonte: \"https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=no\"",
+            "depois": "fonte: \"https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L81462016.html\""
+          }
+        ],
+        "sha256_corpo_incluindo_H1": "931ea075fdbec65bf7d15b38af0b93981b231dfc25069e7b634d103c05f2a45e",
+        "limite": "Corpo inteiro inclusive H1 preservado; sem certificação de edição compilada, tipografia ou equivalência DOE. Datas/números/títulos mantidos, sem inferência de IDs."
+      },
+      "limite": "Os demais metadados e todo o corpo, inclusive H1, foram mantidos. A ementa literal original, incluindo f^’ no caso 8886, não recebeu correção textual por inferência."
+    },
+    {
+      "origem": "estaduais/SE/leis-ordinarias/2017/l-8253-2017-idcomo.md",
+      "destino": "estaduais/SE/leis-ordinarias/2017/l-8253-2017-id5454.md",
+      "privado": "estaduais/SE/_fonte/auditorias/metadados16-privado-20261027-001/candidatos/l-8253-2017-id5454.md",
+      "sha256_candidato": "7f43f4287be0496ccbe2736ae75480187009116df389dd813a75e97ca6e351c1",
+      "OID_preimagem": "60019b44aa47699053d3442c3c126429c6591550",
+      "preimagem": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/preimagens/35fcfbe269587186032a3c5d9da3fd9bebeba2e44c2e396b73dae54ad237c1d3.md.gz",
+      "sha256_MD_preimagem": "35fcfbe269587186032a3c5d9da3fd9bebeba2e44c2e396b73dae54ad237c1d3",
+      "fonte_original_preservada": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/fontes-originais/b0e38e3fcc9634bce64c5e53f23d42fa7cdb745f00fc3be381fd96a452f88699.bin.gz",
+      "sha256_cache_original": "b0e38e3fcc9634bce64c5e53f23d42fa7cdb745f00fc3be381fd96a452f88699",
+      "sha256_fonte_original": "a3d1dfa0fce962bb6556923357ed37acebe847150728fd77e8d8be30f67fe848",
+      "arquivo_observado": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L82532017.html",
+      "ID_observado": {
+        "UF": "SE",
+        "tipo": "Lei Ordinária",
+        "tipo_indice": "4",
+        "id": "5454",
+        "numero": "8253",
+        "ano": 2017,
+        "data": "2017-07-17",
+        "titulo_indice": "Lei Ordinária n° 8.253/2017",
+        "ementa": "Institui nos últimos 15 dias do mês, o \"Setembro Amarelo\", como campanha de prevenção ao suicídio, em Sergipe.",
+        "situacao": "Em vigor",
+        "fonte": "https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=5454&tipo=4&ano=2017",
+        "textos_completos_observados": [
+          "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L82532017.html"
+        ],
+        "indice": {
+          "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2017",
+          "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2017",
+          "metodo": "POST",
+          "campos_publicos": [
+            "ctl00$ContentPlaceHolder1$ddl_ItensExibidos"
+          ],
+          "postback": "ctl00$ContentPlaceHolder1$lbNext",
+          "http": 200,
+          "cache": "estaduais/SE/_fonte/auditorias/indices-html-20261027-004/17d933c7c130f0b998bcdcdfd6bce3a693700ea3e72d86a613963609511cf12d.html.gz",
+          "sha256_fonte": "17d933c7c130f0b998bcdcdfd6bce3a693700ea3e72d86a613963609511cf12d",
+          "sha256_cache": "877a2298b629d52435f0abd1eebd63d79b13a06961d248fbbf849dd848e6b71e",
+          "headers": {
+            "Cache-Control": "public, max-age=120",
+            "Content-Type": "text/html; charset=utf-8",
+            "Expires": "Tue, 27 Oct 2026 21:32:23 GMT",
+            "Last-Modified": "Tue, 27 Oct 2026 21:30:23 GMT",
+            "Vary": "*",
+            "X-Correlation-ID": "be061521-0d53-4538-b2b0-d03f14277ade",
+            "X-Powered-By": "ASP.NET",
+            "Access-Control-Allow-Origin": "*",
+            "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+            "Date": "Tue, 27 Oct 2026 21:30:27 GMT",
+            "Connection": "close",
+            "Content-Length": "534243"
+          },
+          "capturado_em": "2026-10-27T18:30:28.310756-03:00"
+        },
+        "pagina_observada": 2
+      },
+      "nome_por_hash_quando_ID_nao_observado": false,
+      "QA": {
+        "ementa": {
+          "epigrafe_literal": "LEI Nº 8.253, DE 17 DE JULHO DE 2017",
+          "ementa_literal": "Institui nos últimos 15 dias do mês, o \"Setembro Amarelo\", como campanha de prevenção ao suicídio, em Sergipe.",
+          "tag": "p",
+          "sha256_no_ementa_serializado": "d8587f93b78c9a608399d942776361579c019266bee81497223c479ee6b1c85e",
+          "criterio": "Bloco textual único imediatamente após epígrafe própria e antes de autoridade/nota editorial; nenhuma reconstrução de palavras ou aspas."
+        },
+        "alteracoes": [
+          {
+            "campo": "ementa",
+            "antes": "ementa: \"Institui nos últimos 15 dias do mês, o Setembro Amarelo\\\"\"",
+            "depois": "ementa: \"Institui nos últimos 15 dias do mês, o \\\"Setembro Amarelo\\\", como campanha de prevenção ao suicídio, em Sergipe.\""
+          },
+          {
+            "campo": "situacao",
+            "antes": "situacao: \"\"",
+            "depois": "situacao: null"
+          },
+          {
+            "campo": "revogada",
+            "antes": "revogada: false",
+            "depois": "revogada: null"
+          },
+          {
+            "campo": "fonte",
+            "antes": "fonte: \"https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=como\"",
+            "depois": "fonte: \"https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L82532017.html\""
+          }
+        ],
+        "sha256_corpo_incluindo_H1": "97b0fe56d3c6d971f088dcc35adac1a0f619390205c3e30da8754ad33e99124d",
+        "limite": "Corpo inteiro inclusive H1 preservado; sem certificação de edição compilada, tipografia ou equivalência DOE. Datas/números/títulos mantidos, sem inferência de IDs."
+      },
+      "limite": "Os demais metadados e todo o corpo, inclusive H1, foram mantidos. A ementa literal original, incluindo f^’ no caso 8886, não recebeu correção textual por inferência."
+    },
+    {
+      "origem": "estaduais/SE/leis-ordinarias/2017/l-8263-2017-idna.md",
+      "destino": "estaduais/SE/leis-ordinarias/2017/l-8263-2017-id5464.md",
+      "privado": "estaduais/SE/_fonte/auditorias/metadados16-privado-20261027-001/candidatos/l-8263-2017-id5464.md",
+      "sha256_candidato": "57c9cb58f3f2ef8cd36aa7d1c623f1878cf5c1e0c4c770428208cbd69fb0a7f7",
+      "OID_preimagem": "3065e5e4bba68b754ec5d00ac36d05a1e9ba7bea",
+      "preimagem": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/preimagens/49ea9b79a34dc84ff4ceb223e3dda2dc381b1663367385df29af4ada95f1950c.md.gz",
+      "sha256_MD_preimagem": "49ea9b79a34dc84ff4ceb223e3dda2dc381b1663367385df29af4ada95f1950c",
+      "fonte_original_preservada": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/fontes-originais/c215edf70578260aba55cb02da280b39152243a1f669176e8a3007802e571425.bin.gz",
+      "sha256_cache_original": "c215edf70578260aba55cb02da280b39152243a1f669176e8a3007802e571425",
+      "sha256_fonte_original": "0fc32cb9412dafd86cacb0eca8f7654e832be8f0cb7965dd5d7e787fca2f0958",
+      "arquivo_observado": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L82632017.html",
+      "ID_observado": {
+        "UF": "SE",
+        "tipo": "Lei Ordinária",
+        "tipo_indice": "4",
+        "id": "5464",
+        "numero": "8263",
+        "ano": 2017,
+        "data": "2017-07-17",
+        "titulo_indice": "Lei Ordinária n° 8.263/2017",
+        "ementa": "Declara a \"Festa Religiosa do Bom Jesus dos Navegantes\", na Cidade de Propriá, como Patrimônio Cultural e Imaterial do Estado de Sergipe e a inclui no Calendário Oficial de Eventos do Estado de Sergipe.",
+        "situacao": "Em vigor",
+        "fonte": "https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=5464&tipo=4&ano=2017",
+        "textos_completos_observados": [
+          "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L82632017.html"
+        ],
+        "indice": {
+          "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2017",
+          "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2017",
+          "metodo": "POST",
+          "campos_publicos": [
+            "ctl00$ContentPlaceHolder1$ddl_ItensExibidos"
+          ],
+          "postback": "ctl00$ContentPlaceHolder1$lbNext",
+          "http": 200,
+          "cache": "estaduais/SE/_fonte/auditorias/indices-html-20261027-004/17d933c7c130f0b998bcdcdfd6bce3a693700ea3e72d86a613963609511cf12d.html.gz",
+          "sha256_fonte": "17d933c7c130f0b998bcdcdfd6bce3a693700ea3e72d86a613963609511cf12d",
+          "sha256_cache": "877a2298b629d52435f0abd1eebd63d79b13a06961d248fbbf849dd848e6b71e",
+          "headers": {
+            "Cache-Control": "public, max-age=120",
+            "Content-Type": "text/html; charset=utf-8",
+            "Expires": "Tue, 27 Oct 2026 21:32:23 GMT",
+            "Last-Modified": "Tue, 27 Oct 2026 21:30:23 GMT",
+            "Vary": "*",
+            "X-Correlation-ID": "be061521-0d53-4538-b2b0-d03f14277ade",
+            "X-Powered-By": "ASP.NET",
+            "Access-Control-Allow-Origin": "*",
+            "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+            "Date": "Tue, 27 Oct 2026 21:30:27 GMT",
+            "Connection": "close",
+            "Content-Length": "534243"
+          },
+          "capturado_em": "2026-10-27T18:30:28.310756-03:00"
+        },
+        "pagina_observada": 2
+      },
+      "nome_por_hash_quando_ID_nao_observado": false,
+      "QA": {
+        "ementa": {
+          "epigrafe_literal": "LEI Nº 8.263, DE 17 DE JULHO DE 2017",
+          "ementa_literal": "Declara a \"Festa Religiosa do Bom Jesus dos Navegantes\", na Cidade de Propriá, como Patrimônio Cultural e Imaterial do Estado de Sergipe e a inclui no Calendário Oficial de Eventos do Estado de Sergipe.",
+          "tag": "p",
+          "sha256_no_ementa_serializado": "c525968ee3e00df70a9c6e681fe9829ba91a97102637f870d744ef271594e192",
+          "criterio": "Bloco textual único imediatamente após epígrafe própria e antes de autoridade/nota editorial; nenhuma reconstrução de palavras ou aspas."
+        },
+        "alteracoes": [
+          {
+            "campo": "ementa",
+            "antes": "ementa: \"Declara a Festa Religiosa do Bom Jesus dos Navegantes\\\"\"",
+            "depois": "ementa: \"Declara a \\\"Festa Religiosa do Bom Jesus dos Navegantes\\\", na Cidade de Propriá, como Patrimônio Cultural e Imaterial do Estado de Sergipe e a inclui no Calendário Oficial de Eventos do Estado de Sergipe.\""
+          },
+          {
+            "campo": "situacao",
+            "antes": "situacao: \"\"",
+            "depois": "situacao: null"
+          },
+          {
+            "campo": "revogada",
+            "antes": "revogada: false",
+            "depois": "revogada: null"
+          },
+          {
+            "campo": "fonte",
+            "antes": "fonte: \"https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=na\"",
+            "depois": "fonte: \"https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L82632017.html\""
+          }
+        ],
+        "sha256_corpo_incluindo_H1": "5575ab37b713828d1d77414cfc9f2bb1b6ca993e9c5832115cba159d0e9594b0",
+        "limite": "Corpo inteiro inclusive H1 preservado; sem certificação de edição compilada, tipografia ou equivalência DOE. Datas/números/títulos mantidos, sem inferência de IDs."
+      },
+      "limite": "Os demais metadados e todo o corpo, inclusive H1, foram mantidos. A ementa literal original, incluindo f^’ no caso 8886, não recebeu correção textual por inferência."
+    },
+    {
+      "origem": "estaduais/SE/leis-ordinarias/2017/l-8277-2017-ida.md",
+      "destino": "estaduais/SE/leis-ordinarias/2017/l-8277-2017-id5478.md",
+      "privado": "estaduais/SE/_fonte/auditorias/metadados16-privado-20261027-001/candidatos/l-8277-2017-id5478.md",
+      "sha256_candidato": "41e7c4084357a62205ea9e3226631d2f2da3ee0d684f5e1568b8fbdfa926c872",
+      "OID_preimagem": "4a9d42fd0655f58d80b49189543a796d11cbd4b0",
+      "preimagem": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/preimagens/5b69d7c22bb7aa433ad562376be1f3f3b8dadc0a7be956717b0bb452f697525d.md.gz",
+      "sha256_MD_preimagem": "5b69d7c22bb7aa433ad562376be1f3f3b8dadc0a7be956717b0bb452f697525d",
+      "fonte_original_preservada": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/fontes-originais/b3eb7c7f58ae1e3ceb2b38435336013534ab83eadd3a4cabdcbc253de7c450c3.bin.gz",
+      "sha256_cache_original": "b3eb7c7f58ae1e3ceb2b38435336013534ab83eadd3a4cabdcbc253de7c450c3",
+      "sha256_fonte_original": "e01f6b8c5e9c883596b1b7316209ec477721eea5aa400612821a59e686f82bcf",
+      "arquivo_observado": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L82772017.html",
+      "ID_observado": {
+        "UF": "SE",
+        "tipo": "Lei Ordinária",
+        "tipo_indice": "4",
+        "id": "5478",
+        "numero": "8277",
+        "ano": 2017,
+        "data": "2017-09-06",
+        "titulo_indice": "Lei Ordinária n° 8.277/2017",
+        "ementa": "Revalida o reconhecimento de Utilidade Pública Estadual e altera para \"ASSOCIAÇÃO COMERCIAL E EMPRESARIAL DE SERGIPE - ACESE\", a denominação da então \"ASSOCIAÇÃO COMERCIAL DE SERGIPE\", de que trata a Lei nº 3.463, de 29 de abril de 1994, com sede e foro n",
+        "situacao": "Em vigor",
+        "fonte": "https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=5478&tipo=4&ano=2017",
+        "textos_completos_observados": [
+          "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L82772017.html"
+        ],
+        "indice": {
+          "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2017",
+          "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2017",
+          "metodo": "POST",
+          "campos_publicos": [
+            "ctl00$ContentPlaceHolder1$ddl_ItensExibidos"
+          ],
+          "postback": "ctl00$ContentPlaceHolder1$lbNext",
+          "http": 200,
+          "cache": "estaduais/SE/_fonte/auditorias/indices-html-20261027-004/17d933c7c130f0b998bcdcdfd6bce3a693700ea3e72d86a613963609511cf12d.html.gz",
+          "sha256_fonte": "17d933c7c130f0b998bcdcdfd6bce3a693700ea3e72d86a613963609511cf12d",
+          "sha256_cache": "877a2298b629d52435f0abd1eebd63d79b13a06961d248fbbf849dd848e6b71e",
+          "headers": {
+            "Cache-Control": "public, max-age=120",
+            "Content-Type": "text/html; charset=utf-8",
+            "Expires": "Tue, 27 Oct 2026 21:32:23 GMT",
+            "Last-Modified": "Tue, 27 Oct 2026 21:30:23 GMT",
+            "Vary": "*",
+            "X-Correlation-ID": "be061521-0d53-4538-b2b0-d03f14277ade",
+            "X-Powered-By": "ASP.NET",
+            "Access-Control-Allow-Origin": "*",
+            "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+            "Date": "Tue, 27 Oct 2026 21:30:27 GMT",
+            "Connection": "close",
+            "Content-Length": "534243"
+          },
+          "capturado_em": "2026-10-27T18:30:28.310756-03:00"
+        },
+        "pagina_observada": 2
+      },
+      "nome_por_hash_quando_ID_nao_observado": false,
+      "QA": {
+        "ementa": {
+          "epigrafe_literal": "LEI Nº 8.277, DE 06 DE SETEMBRO DE 2017",
+          "ementa_literal": "Revalida o reconhecimento de Utilidade Pública Estadual e altera para \"ASSOCIAÇÃO COMERCIAL E EMPRESARIAL DE SERGIPE - ACESE\", a denominação da então \"Associação Comercial de Sergipe\", de que trata a Lei nº 3.463, de 29 de abril de 1994, com sede e foro na Cidade de Aracaju - SE.",
+          "tag": "p",
+          "sha256_no_ementa_serializado": "98a8b348ddf7ad89fda4081f59b17b6a72d928d9303d651beec5d6acfa66c7d5",
+          "criterio": "Bloco textual único imediatamente após epígrafe própria e antes de autoridade/nota editorial; nenhuma reconstrução de palavras ou aspas."
+        },
+        "alteracoes": [
+          {
+            "campo": "ementa",
+            "antes": "ementa: \"Revalida o reconhecimento de Utilidade Pública Estadual e altera para ASSOCIAÇÃO COMERCIAL E EMPRESARIAL DE SERGIPE - ACESE\\\"\"",
+            "depois": "ementa: \"Revalida o reconhecimento de Utilidade Pública Estadual e altera para \\\"ASSOCIAÇÃO COMERCIAL E EMPRESARIAL DE SERGIPE - ACESE\\\", a denominação da então \\\"Associação Comercial de Sergipe\\\", de que trata a Lei nº 3.463, de 29 de abril de 1994, com sede e foro na Cidade de Aracaju - SE.\""
+          },
+          {
+            "campo": "situacao",
+            "antes": "situacao: \"\"",
+            "depois": "situacao: null"
+          },
+          {
+            "campo": "revogada",
+            "antes": "revogada: false",
+            "depois": "revogada: null"
+          },
+          {
+            "campo": "fonte",
+            "antes": "fonte: \"https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=a\"",
+            "depois": "fonte: \"https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L82772017.html\""
+          }
+        ],
+        "sha256_corpo_incluindo_H1": "965ac1dac4a045e434287a194f0ad8af7493634344090fd51f1bce92b4f527c3",
+        "limite": "Corpo inteiro inclusive H1 preservado; sem certificação de edição compilada, tipografia ou equivalência DOE. Datas/números/títulos mantidos, sem inferência de IDs."
+      },
+      "limite": "Os demais metadados e todo o corpo, inclusive H1, foram mantidos. A ementa literal original, incluindo f^’ no caso 8886, não recebeu correção textual por inferência."
+    },
+    {
+      "origem": "estaduais/SE/leis-ordinarias/2021/l-8886-2021-id\"b\".md",
+      "destino": "estaduais/SE/leis-ordinarias/2021/l-8886-2021-id9998.md",
+      "privado": "estaduais/SE/_fonte/auditorias/metadados16-privado-20261027-001/candidatos/l-8886-2021-id9998.md",
+      "sha256_candidato": "2ed278caae797560bb91d8bfe9cdb04319a69fae7453fa309ef8f18c242cf0a2",
+      "OID_preimagem": "c95ad5560b6e56a63fb2da72def352001d92860c",
+      "preimagem": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/preimagens/f3377e4452985c9e15e7f2736bbe44d4d634ecbe4cd9864772be3b99691a7c13.md.gz",
+      "sha256_MD_preimagem": "f3377e4452985c9e15e7f2736bbe44d4d634ecbe4cd9864772be3b99691a7c13",
+      "fonte_original_preservada": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/fontes-originais/22e269b3e90baf9b44a9b4cf625ebd1cf17f2cb3239354fbfe203fd37c26f36e.bin.gz",
+      "sha256_cache_original": "22e269b3e90baf9b44a9b4cf625ebd1cf17f2cb3239354fbfe203fd37c26f36e",
+      "sha256_fonte_original": "0836abea2516ed88d40e28d0e70a54e1bb1048fe82990ba56c432ee83adcc433",
+      "arquivo_observado": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L88862021.html",
+      "ID_observado": {
+        "UF": "SE",
+        "tipo": "Lei Ordinária",
+        "tipo_indice": "4",
+        "id": "9998",
+        "numero": "8886",
+        "ano": 2021,
+        "data": "2021-08-31",
+        "titulo_indice": "Lei Ordinária n° 8.886/2021",
+        "ementa": "Altera o § 1º do art. 43, o § 1º do art. 45, as alíneas \"a\", \"b\", \"g\", \"h\", \"i\" e \"j\" do inciso I, as alíneas \"a\", \"b\", \"d\", \"f^’, \"i\", \"j\", \"l\", \"m\", \"q\", \"v\" e \"z-2\" do inciso III, as alíneas \"b\" e \"c\" do inciso III-A e a alínea \"a\" do inciso IV, todas do art. 72; acrescenta o § 2º-A ao art. 49- A, e revoga o § 2º do art. 43, todos da Lei nº 3.796, de 26 de dezembro de 1996, que dispõe quanto ao Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, e dá providências correlatas.",
+        "situacao": "Em vigor",
+        "fonte": "https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=9998&tipo=4&ano=2021",
+        "textos_completos_observados": [
+          "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L88862021.html"
+        ],
+        "indice": {
+          "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2021",
+          "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2021",
+          "metodo": "POST",
+          "campos_publicos": [
+            "ctl00$ContentPlaceHolder1$ddl_ItensExibidos"
+          ],
+          "postback": "ctl00$ContentPlaceHolder1$ddl_ItensExibidos",
+          "http": 200,
+          "cache": "estaduais/SE/_fonte/auditorias/indices-html-20261027-002/fa42853351cda9a54fabde5dbf6da1f6b5e8916a660b379e9ebbc8813b8e4cd4.html.gz",
+          "sha256_fonte": "fa42853351cda9a54fabde5dbf6da1f6b5e8916a660b379e9ebbc8813b8e4cd4",
+          "sha256_cache": "c28f53c1610538889ddfe10b7464644c336be95e002aff2b3eb39f8a006ec846",
+          "headers": {
+            "Cache-Control": "public, max-age=120",
+            "Content-Type": "text/html; charset=utf-8",
+            "Expires": "Tue, 27 Oct 2026 21:19:41 GMT",
+            "Last-Modified": "Tue, 27 Oct 2026 21:17:41 GMT",
+            "Vary": "*",
+            "X-Correlation-ID": "0dee71ae-fe19-45e6-ba1f-732102dfbe09",
+            "X-Powered-By": "ASP.NET",
+            "Access-Control-Allow-Origin": "*",
+            "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+            "Date": "Tue, 27 Oct 2026 21:17:46 GMT",
+            "Connection": "close",
+            "Content-Length": "695745"
+          },
+          "capturado_em": "2026-10-27T18:17:46.972322-03:00"
+        },
+        "pagina_observada": 1
+      },
+      "nome_por_hash_quando_ID_nao_observado": false,
+      "QA": {
+        "ementa": {
+          "epigrafe_literal": "LEI Nº 8.886, DE 31 DE AGOSTO DE 2021",
+          "ementa_literal": "Altera o § 1º do art. 43, o § 1º do art. 45, as alíneas \"a\", \"b\", \"g\", \"h\", \"i\" e \"j\" do inciso I, as alíneas \"a\", \"b\", \"d\", \"f^’, \"i\", \"j\", \"l\", \"m\", \"q\", \"v\" e \"z-2\" do inciso III, as alíneas \"b\" e \"c\" do inciso III-A e a alínea \"a\" do inciso IV, todas do art. 72; acrescenta o § 2º-A ao art. 49- A, e revoga o § 2º do art. 43, todos da Lei nº 3.796, de 26 de dezembro de 1996, que dispõe quanto ao Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, e dá providências correlatas.",
+          "tag": "h2",
+          "sha256_no_ementa_serializado": "08b201935a10cb73cbf630d64c92dcd69e4106a1e07cb60aa9c2df1230ed0b32",
+          "criterio": "Bloco textual único imediatamente após epígrafe própria e antes de autoridade/nota editorial; nenhuma reconstrução de palavras ou aspas."
+        },
+        "alteracoes": [
+          {
+            "campo": "ementa",
+            "antes": "ementa: \"Altera o § 1º do art. 43, o § 1º do art. 45, as alíneas a\\\"\"",
+            "depois": "ementa: \"Altera o § 1º do art. 43, o § 1º do art. 45, as alíneas \\\"a\\\", \\\"b\\\", \\\"g\\\", \\\"h\\\", \\\"i\\\" e \\\"j\\\" do inciso I, as alíneas \\\"a\\\", \\\"b\\\", \\\"d\\\", \\\"f^’, \\\"i\\\", \\\"j\\\", \\\"l\\\", \\\"m\\\", \\\"q\\\", \\\"v\\\" e \\\"z-2\\\" do inciso III, as alíneas \\\"b\\\" e \\\"c\\\" do inciso III-A e a alínea \\\"a\\\" do inciso IV, todas do art. 72; acrescenta o § 2º-A ao art. 49- A, e revoga o § 2º do art. 43, todos da Lei nº 3.796, de 26 de dezembro de 1996, que dispõe quanto ao Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, e dá providências correlatas.\""
+          },
+          {
+            "campo": "situacao",
+            "antes": "situacao: \"\\\"h\\\"\"",
+            "depois": "situacao: null"
+          },
+          {
+            "campo": "revogada",
+            "antes": "revogada: false",
+            "depois": "revogada: null"
+          },
+          {
+            "campo": "fonte",
+            "antes": "fonte: \"https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=\\\"b\\\"\"",
+            "depois": "fonte: \"https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L88862021.html\""
+          }
+        ],
+        "sha256_corpo_incluindo_H1": "0474a0c26cc8a3d806231836e42cb7bafc6058faa2817a9017b74b2667ad219a",
+        "limite": "Corpo inteiro inclusive H1 preservado; sem certificação de edição compilada, tipografia ou equivalência DOE. Datas/números/títulos mantidos, sem inferência de IDs."
+      },
+      "limite": "Os demais metadados e todo o corpo, inclusive H1, foram mantidos. A ementa literal original, incluindo f^’ no caso 8886, não recebeu correção textual por inferência."
+    },
+    {
+      "origem": "estaduais/SE/leis-ordinarias/2023/l-9178-2023-idmedicinais.md",
+      "destino": "estaduais/SE/leis-ordinarias/2023/l-9178-2023-id11658.md",
+      "privado": "estaduais/SE/_fonte/auditorias/metadados16-privado-20261027-001/candidatos/l-9178-2023-id11658.md",
+      "sha256_candidato": "68e9079f820059a1967b361d1e371544128fb888e6d9206bf9ca12118dcf598d",
+      "OID_preimagem": "9419c2c4a37bb8fa979151c0cd3f9357632eb6cf",
+      "preimagem": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/preimagens/9ffd6dcde6a2779da51d3953bc061e1d19e9662c33529bc1f071ac69a7ad4b76.md.gz",
+      "sha256_MD_preimagem": "9ffd6dcde6a2779da51d3953bc061e1d19e9662c33529bc1f071ac69a7ad4b76",
+      "fonte_original_preservada": "estaduais/SE/_fonte/auditorias/inventario-CSV-publicados-20261027-001/fontes-originais/3c41cd1cbd3262741bed71f79023954171fb9a5fef573267ef76bb9172077659.bin.gz",
+      "sha256_cache_original": "3c41cd1cbd3262741bed71f79023954171fb9a5fef573267ef76bb9172077659",
+      "sha256_fonte_original": "5dc882b3ac9300319c416aac7cfac1bb907230b02f28774f0c50147e688b623a",
+      "arquivo_observado": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L91782023.html",
+      "ID_observado": {
+        "UF": "SE",
+        "tipo": "Lei Ordinária",
+        "tipo_indice": "4",
+        "id": "11658",
+        "numero": "9178",
+        "ano": 2023,
+        "data": "2023-04-10",
+        "titulo_indice": "Lei Ordinária n° 9.178/2023",
+        "ementa": "Institui a \"Política Estadual de Cannabis spp.\" para fins terapêuticos, medicinais, veterinários e científicos, com foco no amparo a pacientes e associações congêneres, e incentivo à pesquisa e à capacitação dos profissionais da Rede Estadual de Saúde, no âmbito do Estado de Sergipe.",
+        "situacao": "Em vigor",
+        "fonte": "https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=11658&tipo=4&ano=2023",
+        "textos_completos_observados": [
+          "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L91782023.html"
+        ],
+        "indice": {
+          "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2023",
+          "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2023",
+          "metodo": "POST",
+          "campos_publicos": [
+            "ctl00$ContentPlaceHolder1$ddl_ItensExibidos"
+          ],
+          "postback": "ctl00$ContentPlaceHolder1$lbNext",
+          "http": 200,
+          "cache": "estaduais/SE/_fonte/auditorias/indices-html-20261027-002/620cc469ed336fef971ee37bd5765ee2a045c1944257bba9f3aa914e42dc581e.html.gz",
+          "sha256_fonte": "620cc469ed336fef971ee37bd5765ee2a045c1944257bba9f3aa914e42dc581e",
+          "sha256_cache": "c61ac07f85c9bb591744d931a8fdbf2e9dcb3919a0a5a984d6f157a3929c5680",
+          "headers": {
+            "Cache-Control": "public, max-age=120",
+            "Content-Type": "text/html; charset=utf-8",
+            "Expires": "Tue, 27 Oct 2026 21:20:15 GMT",
+            "Last-Modified": "Tue, 27 Oct 2026 21:18:15 GMT",
+            "Vary": "*",
+            "X-Correlation-ID": "29d9502a-66df-45cd-b5b1-53c3f340b93e",
+            "X-Powered-By": "ASP.NET",
+            "Access-Control-Allow-Origin": "*",
+            "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+            "Date": "Tue, 27 Oct 2026 21:18:26 GMT",
+            "Connection": "close",
+            "Content-Length": "728747"
+          },
+          "capturado_em": "2026-10-27T18:18:26.350408-03:00"
+        },
+        "pagina_observada": 2
+      },
+      "nome_por_hash_quando_ID_nao_observado": false,
+      "QA": {
+        "ementa": {
+          "epigrafe_literal": "LEI Nº 9.178, DE 10 DE ABRIL DE 2023",
+          "ementa_literal": "Institui a \"Política Estadual de Cannabis spp.\" para fins terapêuticos, medicinais, veterinários e científicos, com foco no amparo a pacientes e associações congêneres, e incentivo à pesquisa e à capacitação dos profissionais da Rede Estadual de Saúde, no âmbito do Estado de Sergipe.",
+          "tag": "p",
+          "sha256_no_ementa_serializado": "3989a3c63686df1bab7f3df16a80c3d9bcd41396090738c62be310e0bd90e1e4",
+          "criterio": "Bloco textual único imediatamente após epígrafe própria e antes de autoridade/nota editorial; nenhuma reconstrução de palavras ou aspas."
+        },
+        "alteracoes": [
+          {
+            "campo": "ementa",
+            "antes": "ementa: \"Institui a Política Estadual de Cannabis spp.\\\" para fins terapêuticos\"",
+            "depois": "ementa: \"Institui a \\\"Política Estadual de Cannabis spp.\\\" para fins terapêuticos, medicinais, veterinários e científicos, com foco no amparo a pacientes e associações congêneres, e incentivo à pesquisa e à capacitação dos profissionais da Rede Estadual de Saúde, no âmbito do Estado de Sergipe.\""
+          },
+          {
+            "campo": "situacao",
+            "antes": "situacao: \"com foco no amparo a pacientes e associações congêneres\"",
+            "depois": "situacao: null"
+          },
+          {
+            "campo": "revogada",
+            "antes": "revogada: false",
+            "depois": "revogada: null"
+          },
+          {
+            "campo": "fonte",
+            "antes": "fonte: \"https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=medicinais\"",
+            "depois": "fonte: \"https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L91782023.html\""
+          }
+        ],
+        "sha256_corpo_incluindo_H1": "cbcf2db0091304d85ec3531d5aac1a965060c9b5303321c85c014631d744eeb0",
+        "limite": "Corpo inteiro inclusive H1 preservado; sem certificação de edição compilada, tipografia ou equivalência DOE. Datas/números/títulos mantidos, sem inferência de IDs."
+      },
+      "limite": "Os demais metadados e todo o corpo, inclusive H1, foram mantidos. A ementa literal original, incluindo f^’ no caso 8886, não recebeu correção textual por inferência."
+    }
+  ],
+  "codigo": {
+    "scripts/estados/snapshots/metadados_spl_csv16_20261027_001/comum.py": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24",
+    "scripts/estados/snapshots/metadados_spl_csv16_20261027_001/reparar_metadata_spl_csv.py": "f65e3400e9ba116ccc474adfba32682c038d70800c3e7a56404f0755ea0b4e8a",
+    "scripts/estados/snapshots/metadados_spl_csv16_20261027_001/html2md.py": "6ad648a6a94c8d51d880a2d79c39f1abe751032d3355e468363e43ca83fdcdc6",
+    "scripts/estados/snapshots/metadados_spl_csv16_20261027_001/test_reparar_metadata_spl_csv.py": "d532e1c2e54883c99bbd8e7aaf8642377f7b7fbee0bf408a45e8e132147d7f77"
+  },
+  "casos_com_ID_observado": 8,
+  "casos_nomeados_por_hash": 8,
+  "historico": "Nenhuma renomeação aplicada; nomes e MD antigos preservados no HEAD, no inventário e nas preimagens completas por OID/SHA. Corpo inteiro inclusive H1 byte a byte preservado.",
+  "escopo": "Somente fonte primária, ementa literal identificada na captura original, situação desconhecida null e revogada null. IDs só quando diretamente observados no índice HTML oficial; demais nomes usam número/ano/hash da fonte.",
+  "limite": "Reparo de metadata, sem certificar íntegra da transcrição histórica/compilada ou equivalência DOE. Nenhum status, ID, data, nome ou texto normativo foi inferido. Reparo 8494-A permanece separado."
+}

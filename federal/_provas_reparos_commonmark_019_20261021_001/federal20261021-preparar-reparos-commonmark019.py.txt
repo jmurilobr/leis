@@ -1,0 +1,9 @@
+from pathlib import Path
+import json,re,hashlib,sys
+sys.path.insert(0,'scripts');from preparar_lote_decretos_cache import fields
+sha=lambda b:hashlib.sha256(b).hexdigest();B=Path('federal');D=B/'_candidatos_commonmark_019_20261021_001';D.mkdir(exist_ok=True);rows=json.load(open('/tmp/federal20261021-commonmark-todos019-preparo.json'));out=[];render=[]
+for r in rows:
+ if r['epigrafe']['numero'] not in {'15615','14837'}:continue
+ raw=Path(r['path']).read_bytes();assert sha(raw)==r['sha256'];m,c,b=fields(raw.decode());pat=r'\*\*Art\. ('+('(?:1|2|3)' if r['epigrafe']['numero']=='15615' else '4')+r'[º°o]?)\*\*';count=len(re.findall(pat,b));assert count=={'15615':3,'14837':1}[r['epigrafe']['numero']];newbody=re.sub(pat,r'**Art.\1**',b);new=('---\n'+c.rstrip('\n')+'\n---\n'+newbody).encode();p=D/Path(r['path']).name;p.write_bytes(new);out.append({'path':r['path'],'lote':19,'urn':r['urn'],'candidato':str(p),'sha256_candidato':sha(new),'sha256_fonte_html':r['sha256_fonte_html'],'preimagem_privada':r['path'],'sha256_preimagem_privada':sha(raw),'preimagem_canonica_sha256':sha(raw),'mudancas':[{'mudanca':'Retira somente espaço editorial que a fonte não contém entre Art. e número; preserva pontuação e todos os caracteres literais.','ocorrencias':count}]});render.append({'path':r['path'],'markdown':fields(new.decode())[2].lstrip().partition('\n')[2]})
+assert len(out)==2
+Path('/tmp/federal20261021-reparos-commonmark019-preparo.json').write_text(json.dumps(out,ensure_ascii=False,indent=2)+'\n');Path('/tmp/federal20261021-reparos-commonmark019-render-input.json').write_text(json.dumps(render));print(len(out))

@@ -1,0 +1,260 @@
+{
+  "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "html5lib": "1.1",
+  "six": "1.17.0",
+  "webencodings": "0.5.1",
+  "runtime": "scripts/bin/qa-html5-20261027/python",
+  "instalacao": "municipais/_indice/_recuperacao_20261027/dou11997-github/instalacao-html5lib.log",
+  "bibliotecas_incluidas": false,
+  "limite": "Runtime isolado ignorado, disponível em disco. O recibo publica versões e script; não inclui bibliotecas bundled.",
+  "instalados": [
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/six.py",
+      "sha256": "c51c91f703d3d4b3696c923cb5fec213e05e75d9215393befac7f2fa6a3904df"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/webencodings/labels.py",
+      "sha256": "e003bf2b14dd76a1adacbf67b3b9003e36f409c37ac6c088c5b2b7ec763daf71"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/webencodings/mklabels.py",
+      "sha256": "19821ecb09e968b9cfd064a273c2c55a0774515bcefe5d4d73a62817ef3b47fe"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/webencodings/x_user_defined.py",
+      "sha256": "c8ea9649d9a9cad19f52087f67a258803361a1cf81007cb279e4f5e45af8dad3"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/webencodings/__init__.py",
+      "sha256": "a8e04922e3f2ff8072607e96fdb360245faa610d83a14f9d2ac0eee724560978"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/webencodings/tests.py",
+      "sha256": "3ad18bca384d6357ef916d46bcb27f155f59a2a0bd027ca3afbab79314dbccdb"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/webencodings-0.5.1.dist-info/RECORD",
+      "sha256": "760f43af44f1b84b798db3b5fc3b909c883af8586e502ce46573cb6082d075cb"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/webencodings-0.5.1.dist-info/metadata.json",
+      "sha256": "0186e4b27844e45ae5e40a3af2d3038067b2b6747162fbd696f360c4a3224056"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/webencodings-0.5.1.dist-info/WHEEL",
+      "sha256": "a3693e41af9130d20999474873b294e95591fc4acd45b58d9710c8a65ee59b7e"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/webencodings-0.5.1.dist-info/DESCRIPTION.rst",
+      "sha256": "fcdcd4f3a567773bc17a35edcac8436d4533fe5cf33ab879e3f398f53d0eba14"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/webencodings-0.5.1.dist-info/top_level.txt",
+      "sha256": "6d9b3f6991d27ff3cd95f2070f8f81113266462f7d04974a2eb396eeb42781ea"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/webencodings-0.5.1.dist-info/REQUESTED",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/webencodings-0.5.1.dist-info/INSTALLER",
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/webencodings-0.5.1.dist-info/METADATA",
+      "sha256": "290ec583c2efe3f9db5006f3012dbd426897cc6ec79d62c85e9176a0de0fdaee"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/_inputstream.py",
+      "sha256": "20ab8c898f2bcdbee9a88182a5bbd3aacc72b0b1298041d662f60416ee0b5002"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/_ihatexml.py",
+      "sha256": "89f3b017ba57aa6c938485dcddba1673deace0c0decea46b455a7b1700d8505b"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/constants.py",
+      "sha256": "2e5fb2ccb53f8dc8f2008fe1e7bce4a99eda416139b79c40e32fe3420a14521c"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/html5parser.py",
+      "sha256": "c39859261d1cbc3de0e024b5f7a0e24e6b86a522823187b5192e3afb27ff5994"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/__init__.py",
+      "sha256": "a569d871f67af7034badd40bedba6be3d1548bc3bcc342a1282387b324606064"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/serializer.py",
+      "sha256": "2b691fa0bc8c3cc14f7ddbac7d1df44abc4d91fd26241f76f8fe7f467b7269a2"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/_tokenizer.py",
+      "sha256": "5af2506b63258b836d4e684b5e45fc272e45716b6da826a20d388ac9ac3c0fe9"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/_utils.py",
+      "sha256": "031009486d797b26ab0a028c9e5530cecd57ea31475ea12f8656043b10059a2b"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib-1.1.dist-info/RECORD",
+      "sha256": "6b197a7738b58796731eb2df6299bad8f0924271e6d6dbfea2f042169788354d"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib-1.1.dist-info/LICENSE",
+      "sha256": "16a39991619e92f18680932da2a9199fdf7d95df3ecaedc52ea06218aabafd6f"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib-1.1.dist-info/WHEEL",
+      "sha256": "9064fbe0b5b245466b2f85602e1ebf835d8879597ff6ef5956169dae05d95046"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib-1.1.dist-info/AUTHORS.rst",
+      "sha256": "0eb3403227e80e9b90c899fe296f87e8af13b766b9aca9d5d94178f8346b1942"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib-1.1.dist-info/top_level.txt",
+      "sha256": "5c45fa087a6c9129af8c9078b4fea6e10e4d6178487ffd1c78c7343cd6f324f4"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib-1.1.dist-info/REQUESTED",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib-1.1.dist-info/INSTALLER",
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib-1.1.dist-info/METADATA",
+      "sha256": "637c3e9ddff6d87427411cb7cb2a55b15fe47b6145f78b940f8faf1a97360e72"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/six-1.17.0.dist-info/RECORD",
+      "sha256": "9f1c0d6da86acfde698b1a0a31931cba957b2896a49bce80c4b0e3cac9d03aef"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/six-1.17.0.dist-info/LICENSE",
+      "sha256": "4375ba20e2b9c6c4e7cad2940a628fd90e95cc3d50ee92aae755715d8ba1fbd0"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/six-1.17.0.dist-info/WHEEL",
+      "sha256": "a7178d5f925db427b9f0f51260ff6ea6673b8dd44f82f4f41a6f646f5487955c"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/six-1.17.0.dist-info/top_level.txt",
+      "sha256": "fe2547fe2604b445e70fc9d819062960552f9145bdb043b51986e478a4806a2b"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/six-1.17.0.dist-info/REQUESTED",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/six-1.17.0.dist-info/INSTALLER",
+      "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/six-1.17.0.dist-info/METADATA",
+      "sha256": "562042078c2752549f6d8a7c86dbc5dd708088a7be6d80672ec7b07100b72468"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/filters/sanitizer.py",
+      "sha256": "5c635277322a0d3687a2dd55fab463d55fd73a8940a49ee7f79b473fd25c80d5"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/filters/inject_meta_charset.py",
+      "sha256": "7a00d75041d79801bde74e31cf42ba00b0e0624bd4ac2daad7961455e3655508"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/filters/__init__.py",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/filters/base.py",
+      "sha256": "cfe214f590188e9b15b2a995b7b92e582eb78d1d7584332be8256bbee6a8f16d"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/filters/alphabeticalattributes.py",
+      "sha256": "95589973624c09c9578bfe6076ebe6773ad1c6d3b95e8f4e3676c70550acca45"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/filters/optionaltags.py",
+      "sha256": "f25593ef927468138798f81f9aa4c749f3e93cca74d53f3834abb409179dc5c1"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/filters/lint.py",
+      "sha256": "ba95c04ece81cbb728b7ba346e736a475e6c3ead859fa5678efa32de0c8efeb6"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/filters/whitespace.py",
+      "sha256": "f1e5aa671778502e33945196ea2c98e9ffb6bae4fca4e09200b737219b7bfede"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/treewalkers/etree_lxml.py",
+      "sha256": "78b79d6e7ea73e396979b89bb165628decbb584a730f0c54dee6f0528b9d06e0"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/treewalkers/__init__.py",
+      "sha256": "3813ed7354d4e661b2cb5f100ccc4a132604cf4c3115450d8f9bf4f978266216"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/treewalkers/etree.py",
+      "sha256": "8240f8b5f11f4563ec106be01c72716662995d4bc1cd5546cf7bf90bf30888e1"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/treewalkers/genshi.py",
+      "sha256": "e03d8f1026799f764ddeabb78cc97dc98ec1f358e7400a414125657da22e61b0"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/treewalkers/base.py",
+      "sha256": "a2e88eb2e4b3bc8d0a8337563fc3e5c4869236cf5f6a585b8a29c011cfd42096"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/treewalkers/dom.py",
+      "sha256": "107c8547c0fc958367c8353d971fc82a2815251c9e7141ae6b498e8bb1c1ba47"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/treebuilders/etree_lxml.py",
+      "sha256": "39acc31d918efeae059d5b380e1b38873ce7d89c0600eb3eadf57c2c0954196e"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/treebuilders/__init__.py",
+      "sha256": "032b12272bcf7e290230cb1356f6b1c2480389e10b0f975f47c149200baaee16"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/treebuilders/etree.py",
+      "sha256": "11b987c7ec10fb5d4c56e7133ed17b525f76fa640637751dbbf29f0e7f887e19"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/treebuilders/base.py",
+      "sha256": "a1e64d18407e92df746091951f4e606f96bc13b89db3601b630191b150a27969"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/treebuilders/dom.py",
+      "sha256": "db6c216f40bbd735c8b1a8b999a9a0eaacc11228a070122f683cb802cc376add"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/_trie/_base.py",
+      "sha256": "09ac9b63232ba3cb844506236f2dad4de4946ad9d60df5aba1437d37b7adcb9c"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/_trie/__init__.py",
+      "sha256": "9ea7e03bdd74df6f411152794f8a6c57042d8ddda2272117436f97f1cd58c705"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/_trie/py.py",
+      "sha256": "ce0ed16521f127c98b9ae23fed510857c0289884ab824bea08fe3bec0817686d"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/treeadapters/sax.py",
+      "sha256": "04a4bcc284139ca8aa79f7c7b310a152a2f8ab6651ff06f97dcf4c277cd00bcb"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/treeadapters/__init__.py",
+      "sha256": "d7c87223e6add9a06c74ace9c11c1ae65185d62a6072d693617a14f449f66508"
+    },
+    {
+      "arquivo": "scripts/bin/qa-html5-20261027/python/html5lib/treeadapters/genshi.py",
+      "sha256": "087dbba40b032a6bb864690052bc2dcbbbb429ab862c26512cf33368edcce6fa"
+    }
+  ]
+}

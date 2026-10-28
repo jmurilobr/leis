@@ -1,0 +1,2395 @@
+{
+  "criterio": "Revisão contextual apenas dos alertas anteriores: contadores efetivos de ol/start/li associados à AST e ao delimitador manual, sem copiar número da fonte. Preserva pontuação e sinais; divergências remanescentes continuam retidas. Listas nativas da fonte não recebem materialização automática.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "22c9478bddaccafdb352d55b6c15bb5b0ae9b4a65d9a1b5ee790ffd1224508c8",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "revisar": 50,
+    "iguais": 23
+  },
+  "documentos": [
+    {
+      "path": "reguladores/ms/portarias/2022/portaria-n-701-de-29-de-setembro-de-2022-437615995.md",
+      "sha256_md": "70fecfead107aaf2fe57aaa57a1f7e72f5f7e58ca026d4fc633fa18f8f1b4440",
+      "sha256_fonte": "d78e0266125c0165c5bca35cea068ec4305a2c1011de950f00ba8214dae3771a",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "62627a1ebfc66d999f652ffd9ad9325c55167f3adc663951e5bc117eaf22edc3",
+      "sha256_visivel_md": "68a3603ef3b8d5a9a62a03b63af622b16fcff5538d0a2069f5a37441ddcfcc27",
+      "primeira_diferenca": {
+        "posicao": 30196,
+        "fonte": "uição aos blocos de informações disponíveis em outros campos do sumário de alta. -",
+        "md": "uição aos blocos de informações disponíveis em outros campos do sumário de alta."
+      }
+    },
+    {
+      "path": "reguladores/mte/portarias/2021/portaria-mtp-n-424-de-7-de-outubro-de-2021-351615633.md",
+      "sha256_md": "f9d9508a9db5b02ef71e79474f0ad825e2e36c90c3548642bf63e3e048cce5a3",
+      "sha256_fonte": "cc4d7fd409069b32fd43f287757b5218c1e2d147ab0482e4430eb9a0bc5e24e3",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              776,
+              780
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              814,
+              816
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "999c4443581b3d03e1baea13c7ea0d01effa6b251396affd5291715c29b77bfd",
+      "sha256_visivel_md": "999c4443581b3d03e1baea13c7ea0d01effa6b251396affd5291715c29b77bfd"
+    },
+    {
+      "path": "reguladores/poder-judiciario/portarias/2020/portaria-n-3-de-27-de-maio-de-2020-259215114.md",
+      "sha256_md": "5ab1e51352168400911e8acd00ffc05024520b15b356865d79f610cdf40e4238",
+      "sha256_fonte": "e2d26b09d7ed9d4a30c504bfb07a3e8d7f6eae9939d82ed43a47acbc4bf5e725",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO II — UNIÃO - PODER JUDICIÁRIO",
+          "fonte": "ANEXO II UNIÃO - PODER JUDICIÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              28,
+              30
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              34,
+              38
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "eb78e40d66a7b067cb57e2f87754af9993a2301de4c7bfd5f1fbc1250ea563a2",
+      "sha256_visivel_md": "041e90496701a5957db37006aefc2925fbd3d5ce5b97f9cb915cd122d0ece1c3"
+    },
+    {
+      "path": "reguladores/poder-judiciario/portarias/2020/portaria-n-573-de-26-de-maio-de-2020-258976756.md",
+      "sha256_md": "522e61a154ecf1880036cc7c47e70455bb3d7891164b539fe34f755024c9b6da",
+      "sha256_fonte": "98b7aa3b54da0b7f5c72e6328fd4839e212e2cef69da5c1751fa687a0a71d268",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — UNIÃO - PODER JUDICIÁRIO",
+          "fonte": "ANEXO I UNIÃO - PODER JUDICIÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — UNIÃO - PODER JUDICIÁRIO",
+          "fonte": "ANEXO II UNIÃO - PODER JUDICIÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              32,
+              34
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              40,
+              46
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "c67295b89f3b2b788c8ca4193d82df491dcdec7be3dcbe14f50ecef9c076ae85",
+      "sha256_visivel_md": "476c5afce9ec3f8187166e477db86d99aeae2759e78fba44fe36afe72916037c"
+    },
+    {
+      "path": "reguladores/poder-judiciario/portarias/2020/portaria-n-61-de-26-de-maio-de-2020-258703312.md",
+      "sha256_md": "0561a0cbd9cbd632b4e3d264b5a6ae2b31ef6daa594223f105ac0c2489a5b6bb",
+      "sha256_fonte": "2029d353038d02efe7ef6b994b763cdc2d58b296fc51a8c9173c97d7e78254b5",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              34,
+              36
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              42,
+              44
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "4030579e044f4dfeb143e45d6fa54490763f3215bca6f0c1254868636b0aeae0",
+      "sha256_visivel_md": "4030579e044f4dfeb143e45d6fa54490763f3215bca6f0c1254868636b0aeae0"
+    },
+    {
+      "path": "reguladores/poder-judiciario/portarias/2020/portaria-n-73-26-de-maio-de-2020-258910319.md",
+      "sha256_md": "78f3c1c8b37d205c9be11ba2051be1a447a4f6018ce9d2e60e91b7bedaa45f75",
+      "sha256_fonte": "88259e9d9dafbd595ef49b67ced6ab81f84d95d6be24780bfadc3c15052f27fb",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              26,
+              36
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "4ee2018d353b6a37369dc63cf89bfc2c299d00b1be7516b65db43c242c943988",
+      "sha256_visivel_md": "4ee2018d353b6a37369dc63cf89bfc2c299d00b1be7516b65db43c242c943988"
+    },
+    {
+      "path": "reguladores/poder-judiciario/portarias/2021/portaria-gp-n-504-de-25-de-maio-de-2021-322071480.md",
+      "sha256_md": "111f97850458f781972513aa14253b80e44e4db130e906b8d884509617b99e2d",
+      "sha256_fonte": "f7c1032374ce160ae19b824c7754d0f95d80c3135f413f1513b83fd8eafa84fd",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO II — RELATÓRIO DE GESTÃO FISCAL",
+          "fonte": "ANEXO II RELATÓRIO DE GESTÃO FISCAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              18,
+              24
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "c652b62b1d751cbc111abd21726803d31f372252da83fa468f5120a6cf09fef2",
+      "sha256_visivel_md": "e1091c04d5582d4b4697ab3970f014dca73e1147e924f6e02efef3be6c2a5a7d"
+    },
+    {
+      "path": "reguladores/poder-judiciario/portarias/2021/portaria-jp-n-25-de-27-de-maio-de-2021-322359895.md",
+      "sha256_md": "2a932568bf5b28064cb82eca398ad5c0d6338382c287eed60a654f272c7ae410",
+      "sha256_fonte": "47da3b08678334bf9fbf7aea596f517c6f3421463416ea5d0f2798e78322d350",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — UNIÃO - PODER JUDICIÁRIO",
+          "fonte": "ANEXO I UNIÃO - PODER JUDICIÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — UNIÃO - PODER JUDICIÁRIO",
+          "fonte": "ANEXO II UNIÃO - PODER JUDICIÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              28,
+              30
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              34,
+              36
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "1060f32d2de6b55bbf0524246312d840e8390ce82fb034de5dffa6a2a4c30e77",
+      "sha256_visivel_md": "1f041ca97088fc51cdf85aed938746c2a7a96630a08897e70585d221ff47cece"
+    },
+    {
+      "path": "reguladores/poder-judiciario/portarias/2021/portaria-jp-n-48-de-27-de-setembro-de-2021-348119669.md",
+      "sha256_md": "53638d95ffeca204b14f710788ca4e163078a8b6ec12475cde458e6191c1a93a",
+      "sha256_fonte": "79e8c42f65983323bec35296e6fda960f064e1b8c14332a65cb2a1cff5621e7a",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — UNIÃO - PODER JUDICIÁRIO",
+          "fonte": "ANEXO I UNIÃO - PODER JUDICIÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — UNIÃO - PODER JUDICIÁRIO",
+          "fonte": "ANEXO II UNIÃO - PODER JUDICIÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              30,
+              32
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              36,
+              38
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              44,
+              46
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "902b542057df9a56c3731c8feb7b9226ea05e2ac8377fe53e9270f7fa0c077f1",
+      "sha256_visivel_md": "07926335c76ba92b1e9674a9b8857eabd763b2e9456d5418bd69704980615e8d"
+    },
+    {
+      "path": "reguladores/poder-judiciario/portarias/2021/portaria-n-1.255-de-24-de-setembro-de-2021-347620011.md",
+      "sha256_md": "b3f2e10e6b0abae8a92752aac7a5d2342cd15f9cec4b8e48c243c9aada0e8397",
+      "sha256_fonte": "e223423a4f8ddf9ee706bdb64500890d35b5761de5af2c1bdefca0a4f922986f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — UNIÃO - PODER JUDICIÁRIO",
+          "fonte": "ANEXO I UNIÃO - PODER JUDICIÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — UNIÃO - PODER JUDICIÁRIO",
+          "fonte": "ANEXO II UNIÃO - PODER JUDICIÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              32,
+              34
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              38,
+              48
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "7c83c741eae592bb3f736f90e3f2e22276ad077cd2b8887716e18659438f57c6",
+      "sha256_visivel_md": "6fde39c1fe71d27cc121c842672f453d423a80eccd93995d3e431391937e1f55"
+    },
+    {
+      "path": "reguladores/poder-judiciario/portarias/2021/portaria-n-141-24-de-maio-de-2021-322359799.md",
+      "sha256_md": "e5e019b52e5ca1ef7a148886ef1742bcd89ad75b797f9fab1e70529c692ed33e",
+      "sha256_fonte": "b95ffd45163e941ed79dae94b5ec73c2a1ca5d27751c293376d3c47af5e1b5d9",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              26,
+              40
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "3ce15132d4cccacc281c5e5455a7a8ad83707372de98307e97de977091cf20e2",
+      "sha256_visivel_md": "3ce15132d4cccacc281c5e5455a7a8ad83707372de98307e97de977091cf20e2"
+    },
+    {
+      "path": "reguladores/poder-judiciario/portarias/2021/portaria-n-201-de-24-de-setembro-de-2021-348270370.md",
+      "sha256_md": "ac10bdfc17b1efe17f433109f30d6fb9360f49d2976a5de180b303c1807f4760",
+      "sha256_fonte": "5c6c680195fa78f7411d07fe486a7cc3cd1f42d30a057da01e2674b87b62382f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — UNIÃO - PODER JUDICIÁRIO",
+          "fonte": "ANEXO I UNIÃO - PODER JUDICIÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — UNIÃO - PODER JUDICIÁRIO",
+          "fonte": "ANEXO II UNIÃO - PODER JUDICIÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              34,
+              48
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "db23c7eec1b8fba0bca89655f82cdcd307be6fa844aba7cd698d73412e00ecc7",
+      "sha256_visivel_md": "370b46e079d17586544a8bd87b7a201fec688309243a442b95bfefdd56b249b7"
+    },
+    {
+      "path": "reguladores/poder-judiciario/portarias/2021/portaria-n-864-de-24-de-setembro-de-2021-348271874.md",
+      "sha256_md": "d0161f287ab3b2b85a6c084b601a66a93d4c6b22c235ba8040f9bd51cf0c64a8",
+      "sha256_fonte": "faa937a1d72a485bc8dea2e00c0e70cce3662368fca0669594ab4c04911fa324",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — RELATÓRIO DE GESTÃO FISCAL",
+          "fonte": "ANEXO I RELATÓRIO DE GESTÃO FISCAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — DEMONSTRATIVO DOS LIMITES DE DESPESA COM PESSOAL EM CUMPRIMENTO AO ACÓRDÃO 553/2017 - TCU-PLENÁRIO.ITEM 9.4",
+          "fonte": "ANEXO II DEMONSTRATIVO DOS LIMITES DE DESPESA COM PESSOAL EM CUMPRIMENTO AO ACÓRDÃO 553/2017 - TCU-PLENÁRIO.ITEM 9.4",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              30,
+              32
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              36,
+              40
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "25dc2c048cfac9a189b5407f7628611eae850fc7453b7594c7016e3335bd8ae0",
+      "sha256_visivel_md": "65d02296ec931b5ae8b67c2c0b35a0fb3018f0a9abd6077cd20eafaed494502d"
+    },
+    {
+      "path": "reguladores/poder-judiciario/portarias/2021/portaria-trt-gp-n-153-de-25-de-maio-de-2021-322351202.md",
+      "sha256_md": "c3a50aa869d173a22c4cebb13fd539c8cf051ca6fdc41506ed17dc7860e1c167",
+      "sha256_fonte": "6422a1d6bd5f4dd9ebf07df3e928dc6536aafaf181c292cfea43db7e74b30ebe",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              34,
+              36
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              40,
+              46
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "ce838aa3994c6fc7b5831249909b983f699c0de44573297b576506e93a876f2c",
+      "sha256_visivel_md": "ce838aa3994c6fc7b5831249909b983f699c0de44573297b576506e93a876f2c"
+    },
+    {
+      "path": "reguladores/poder-judiciario/portarias/2021/portaria-trt-gp-n-246-de-23-de-setembro-de-2021-347647462.md",
+      "sha256_md": "9cea11fa143cf40549ea8a09921c5863bb67e5f6543864f08719250c55da7d07",
+      "sha256_fonte": "ded78a1443ec32bc327775961c74d653c8629872716838fcbd7cfe12e965f8fc",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — UNIÃO - PODER JUDICIÁRIO",
+          "fonte": "ANEXO I UNIÃO - PODER JUDICIÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — UNIÃO - PODER JUDICIÁRIO",
+          "fonte": "ANEXO II UNIÃO - PODER JUDICIÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              36,
+              40
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "214bd166a437ebbf392ac329d0cf81e4952d58fa2442f938960b7449afc96f8b",
+      "sha256_visivel_md": "9ca864c3be0dc5590df58965cd80bd5e2b66b4c0071457413499aa37c37aba15"
+    },
+    {
+      "path": "reguladores/poder-judiciario/portarias/2021/portaria-trt-n-192-de-28-de-setembro-de-2021-348270548.md",
+      "sha256_md": "a66866121ca442c338b4ed76da016f936072eaef978f21fc86ea8fe9e301b3df",
+      "sha256_fonte": "406d572e720e81d7dbcde84c4384958d1ee53a283d94ccbf2974b04aecde4c8f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — UNIÃO - PODER JUDICIÁRIO",
+          "fonte": "ANEXO I UNIÃO - PODER JUDICIÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — UNIÃO - PODER JUDICIÁRIO",
+          "fonte": "ANEXO II UNIÃO - PODER JUDICIÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              34,
+              36
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              42,
+              44
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "4ace1d98f979f2f963f5c3c434dded026ad87ff5985321b99df1206f7f26cb26",
+      "sha256_visivel_md": "ba658eef754c8b86b2df4e0fe0c5c821f991aeabc3f40efb68f4295980116318"
+    },
+    {
+      "path": "reguladores/poder-judiciario/portarias/2021/portaria-trt.-17.-regiao.-presi-diger-n-3-de-28-de-setembro-de-2021-348271052.md",
+      "sha256_md": "c025ef5a6de34ded1465b0c3723edf57ad8929084bd45c817d9b6ae0c5d2c8fc",
+      "sha256_fonte": "7d56d8d465f07ea8266651730ace9c7cf14f5da8698c6cb7ead5f9b17e71df2f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — UNIÃO - PODER JUDICIÁRIO",
+          "fonte": "ANEXO I UNIÃO - PODER JUDICIÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — UNIÃO - PODER JUDICIÁRIO",
+          "fonte": "ANEXO II UNIÃO - PODER JUDICIÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              28,
+              30
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              34,
+              40
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "4f25c6c0722ae61e0f77214e1f67604b79b583add1f46272e7f56b6eef02c151",
+      "sha256_visivel_md": "e601318f784fff6eda9b6b7ef259b36605849b378bd93a9279a2fdcc36fd9ba0"
+    },
+    {
+      "path": "reguladores/poder-judiciario/portarias/2021/portaria-trt.-17.-regiao.diger-presi-n-13-de-25-de-maio-de-2021-322671022.md",
+      "sha256_md": "1098be4b7d5ea15d7e28c48bb279d1bed7e36c410fa690831540063f35a6add1",
+      "sha256_fonte": "6113a0bd31f987803dde1b704beef15ca178caec30aa646ba907219ca37c4c5a",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — UNIÃO - PODER JUDICIÁRIO",
+          "fonte": "ANEXO I UNIÃO - PODER JUDICIÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — UNIÃO - PODER JUDICIÁRIO",
+          "fonte": "ANEXO II UNIÃO - PODER JUDICIÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              26,
+              28
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              32,
+              38
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "deb7e83ca49eb1dfd27212de3e0a83b50f18ac42cdf17be9c725fb4cb6323bd3",
+      "sha256_visivel_md": "6c2a1afff7258a159199b3ddf7884870ba347aee0a12026dfdce53b611a4f349"
+    },
+    {
+      "path": "reguladores/poder-judiciario/portarias/2022/portaria-jp-n-3-de-28-de-setembro-de-2022-433239971.md",
+      "sha256_md": "19b6ed8eb9a2c029e1c6202a6349c538287f949e947032e804ee8605e7877742",
+      "sha256_fonte": "07bb91a30c49162abae727866211006bfe443a16116bb65fad6a78b0c0c878fe",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              30,
+              34
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              38,
+              40
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ")",
+            "linhas": [
+              46,
+              50
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4,
+            5
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "0c00dd188186eb86fa264fec05bf2f4e81c4782189aad505d8f85097d8a37f1f",
+      "sha256_visivel_md": "0c00dd188186eb86fa264fec05bf2f4e81c4782189aad505d8f85097d8a37f1f"
+    },
+    {
+      "path": "reguladores/poder-judiciario/portarias/2022/portaria-n-154-26-de-setembro-de-2022-432265948.md",
+      "sha256_md": "e2d2f4aed63d04f95e000b04dad00992c58be034b636b5b25661a5ce018379f3",
+      "sha256_fonte": "603a5ec252fbb149861a20b7f47018d37965af28735c26693e81b22c9c5d0b88",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              24,
+              36
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "4d9ddbef34424c24c61b681ad22612dc03003d628271247ca4b4bea767b7b37f",
+      "sha256_visivel_md": "4d9ddbef34424c24c61b681ad22612dc03003d628271247ca4b4bea767b7b37f"
+    },
+    {
+      "path": "reguladores/poder-judiciario/portarias/2022/portaria-n-303-tre-pre-dg-aedg-de-26-de-setembro-de-2022-432306662.md",
+      "sha256_md": "4a60a211c171a1730d9e3e14e0bf574f3c0e702ae5200fd12a5a572f9b02cee9",
+      "sha256_fonte": "f412f195fec6c6c526940be71b7a9bd7cf257c2545c8f8cddf7c35c9329dd26c",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — UNIÃO - PODER JUDICIÁRIO",
+          "fonte": "ANEXO I UNIÃO - PODER JUDICIÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              30,
+              32
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "6b6f7cf9d8003e2aad72fbd1f8b8238261150eb6d16623646ae79bc3031199b5",
+      "sha256_visivel_md": "8dec132d049a566a7464e2226641b59ab3b5fbdfc4f8e227ee4b1da3b7556b86"
+    },
+    {
+      "path": "reguladores/poder-judiciario/portarias/2022/portaria-trt.-17.-regiao.presi-diger-n-176-de-27-de-setembro-de-2022-433233282.md",
+      "sha256_md": "2b7bcd9ff77f2d178f09ca5dec217407a598d96533c0a49821f07438dec57dac",
+      "sha256_fonte": "102f9124263ef2959bd03d8eb3e90cf9cc25f5b4dc313173c704544221789e79",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              28,
+              30
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              34,
+              40
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2,
+            3,
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "9056b6a25aeb577d0f72640a43868cc58eb870ab31d840b86eabb6cdc793731a",
+      "sha256_visivel_md": "9056b6a25aeb577d0f72640a43868cc58eb870ab31d840b86eabb6cdc793731a"
+    },
+    {
+      "path": "reguladores/poder-legislativo/portarias/2020/portaria-n-57-de-5-de-marco-de-2020-247534850.md",
+      "sha256_md": "ddd71ba4db20ee1377b4274def4c2dbf4d0346e0a1397bb5bebf8ad969d52e53",
+      "sha256_fonte": "5ad7b974948a38060b69c3a80809ae103ad710f5e00fae716727c0ab8e7deb6e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "20906a638f105bcc8117ff39fbca6e849efb11562376f0d84bc8e63c9ee279f5",
+      "sha256_visivel_md": "7f864ff0337aad71ad6fd41920f945256d133fb0952b3760cabf54585155d743",
+      "primeira_diferenca": {
+        "posicao": 379,
+        "fonte": "nciso XXXVII do art. 147 da Resolução 20/1971, Considerando que a empresa R&amp;amp;R EQUIPAMENTOS ELETRÔNICOS EIRELI, com domicílio na CLN 209 Bloco C nº 59 sala 206 - Letra Parte A, Asa Norte, em Brasília (DF), inscrita no CNPJ sob o n° 1",
+        "md": "nciso XXXVII do art. 147 da Resolução 20/1971, Considerando que a empresa R&amp;R EQUIPAMENTOS ELETRÔNICOS EIRELI, com domicílio na CLN 209 Bloco C nº 59 sala 206 - Letra Parte A, Asa Norte, em Brasília (DF), inscrita no CNPJ sob o n° 10.80"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/instrucoes-normativas/2020/instrucao-normativa-n-6-de-12-de-maio-de-2020-256732737.md",
+      "sha256_md": "faa31e41aa413e486d1141b1483f8fdfc9e69175cf1875dc6b44e296e780527a",
+      "sha256_fonte": "bbc09b21791994cdf3fe7ddf5d234de8504954468773aec7f7b909642ab62cd1",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              20,
+              22
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "234aa88b3c7a8d827bfecb0dc4e985f06ac6436ea017554e1ae202dcd501b221",
+      "sha256_visivel_md": "d66ba82fa3d20317c80319c7879ca9c12f3ca5781cd969bc29360778df7fb7fa",
+      "primeira_diferenca": {
+        "posicao": 177,
+        "fonte": "cumentos digitais no Documento de Atribuição de OID na ICP-Brasil-DOC-ICP-04.01 O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I do D",
+        "md": "cumentos digitais no Documento de Atribuição de OID na ICP-Brasil-DOC-ICP-04.01 **O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,**no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/instrucoes-normativas/2020/instrucao-normativa-n-8-de-30-de-junho-de-2020-264424038.md",
+      "sha256_md": "1abb66adca986fd4d76eaa7b10bc9eb9340bbc91f94c6e0e6fc18fec4c3c1adb",
+      "sha256_fonte": "8aa21bc307c67ddd8949286a7414193d213edd7174cdf1bf7b9e714d17a143ff",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "f8f6bb694a4ad7837f77e8f39a4b44f668896d9ca2650c272d88bb5239e65928",
+      "sha256_visivel_md": "9ab559e1fec148a4cedd9f9167180d85de16544d92d442fbe09c143bf4e0243b",
+      "primeira_diferenca": {
+        "posicao": 141,
+        "fonte": "trução Normativa 02, de 20 de março de 2020, para adiar o prazo que estabelece. O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I do D",
+        "md": "trução Normativa 02, de 20 de março de 2020, para adiar o prazo que estabelece. **O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,**no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/instrucoes-normativas/2021/instrucao-normativa-iti-n-4-de-12-de-fevereiro-de-2021-304445868.md",
+      "sha256_md": "475be3f62b57c793ece437946032bb2fec048258518eb0de2788aa7da13899a2",
+      "sha256_fonte": "204de3840dba8536d562ac0c9dd2bbd206b3aede5c00e074bd4658bdca5e2bd6",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "d9338b685db4c5b4b970bdffd5350156ef6c2c75ab8c636395fa53d3a64d524a",
+      "sha256_visivel_md": "1871637511e756551829ac545e6ffbaab79c598f1aa76c1ff165610efddbb51d",
+      "primeira_diferenca": {
+        "posicao": 4100,
+        "fonte": "or uma Entidade Emissora de Atributos - EEA, conforme estabelecido no DOC-ICP-16[1]. 1.5 O restante deste documento está organizado da seguinte forma. O capítulo 2 apresenta o perfil do Certificado de Atributo considerando a estrutura lógic",
+        "md": "or uma Entidade Emissora de Atributos - EEA, conforme estabelecido no DOC-ICP-16**[1]**. 1.5 O restante deste documento está organizado da seguinte forma. O capítulo 2 apresenta o perfil do Certificado de Atributo considerando a estrutura l"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/instrucoes-normativas/2021/instrucao-normativa-iti-n-9-de-20-de-maio-de-2021-321682415.md",
+      "sha256_md": "942124790d53fd516fde804cb32ce15178d4caa697986e4a9a255937fed95cd8",
+      "sha256_fonte": "4d3e0d2bf02cdf129ce85ca32afbb592c36f24b281aa6e65bdc1a5f5042fdbcb",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "9471ec54607a5c44a60f68276597fc33fcdf6fe56eedc993c50fb7764389c6b5",
+      "sha256_visivel_md": "baa1c56e77b672bc82b32ed65ebb0a871e54aab695911d7677f897b2b04d868e",
+      "primeira_diferenca": {
+        "posicao": 1121,
+        "fonte": "s e Procedimentos Técnicos para Processos de Homologação de Cartões Inteligentes(Smart Cards), Leitoras de Cartões Inteligentes eTokensCriptográficos na ICP-Brasil. Art. 2º Fica aprovada a versão 4.0 do documento DOC-ICP-10.03 - Padrões e P",
+        "md": "s e Procedimentos Técnicos para Processos de Homologação de Cartões Inteligentes**(Smart Cards), Leitoras de Cartões Inteligentes eTokens**Criptográficos na ICP-Brasil. Art. 2º Fica aprovada a versão 4.0 do documento DOC-ICP-10.03 - Padrões"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2020/portaria-n-11-de-5-de-fevereiro-de-2020-241828688.md",
+      "sha256_md": "c88f34bc190dbe461a87d7844690f69e7d1580d61c6d9da98d17080a23c210c1",
+      "sha256_fonte": "82865d25e0efd40350586f9455eca9512218ba43a1c8276f8ca59c8faff2a8ce",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "9976895d9d97b9b8fc0faccebdf27a4ae1853aa652dfd21dd70938598400545f",
+      "sha256_visivel_md": "c72c22110142c42dcac329b389f9ac7f0ff3deb52df907577559178777137167",
+      "primeira_diferenca": {
+        "posicao": 290,
+        "fonte": "s, para a prática de atos administrativos mencionados e dá outras providências. O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA,no uso das atribuições que lhe conferem os incisos I, II e IV do p",
+        "md": "s, para a prática de atos administrativos mencionados e dá outras providências. **O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA,**no uso das atribuições que lhe conferem os incisos I, II e IV "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2020/portaria-n-120-de-17-de-marco-de-2020-248564454.md",
+      "sha256_md": "8eaf60e796d8e04c4b3b56dc98e285be08d0a4fda2562b9fb7efb519b8cc4058",
+      "sha256_fonte": "37951eef51e74d95dc2a102c392e85a59145404e7dde93817d2d4228bfe668b4",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "045942ac5e90c471354c0ba52e8e521289aef8e72cf427de626b70f1c7f5d776",
+      "sha256_visivel_md": "5240b0225703d85bad8160590a452de735b8733f96f88755eb23bb0fc2e90147",
+      "primeira_diferenca": {
+        "posicao": 574,
+        "fonte": "a Lei nº 13.844, de 18 de junho de 2019, e tendo em vista o disposto no art. 3º,caput,inciso VI, da Lei nº 13.979, de 6 de fevereiro de 2020, e Considerando a declaração de emergência em saúde pública de importância internacional pela Organ",
+        "md": "a Lei nº 13.844, de 18 de junho de 2019, e tendo em vista o disposto no art. 3º,**caput,**inciso VI, da Lei nº 13.979, de 6 de fevereiro de 2020, e Considerando a declaração de emergência em saúde pública de importância internacional pela O"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2020/portaria-n-3-de-9-de-janeiro-de-2020-237441627.md",
+      "sha256_md": "a887179d65ac2ad2189f5e34830f4771cc93eda629c917a179534c6aa0e68b4d",
+      "sha256_fonte": "c612cfe9e893335668f30f91d45c389e727ba61c36029faeed998c922d477872",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "1382fd77242dc6be55d16e6b7e98861062cb77e37e6fda9be6586a16971b787f",
+      "sha256_visivel_md": "8b468915c070bf25a2504cb709faf78e7465703d873fef4108fd95ac935c867b",
+      "primeira_diferenca": {
+        "posicao": 164,
+        "fonte": "o Poder Executivo Federal junto ao Instituto de Tecnologia da Informação - ITI. O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,no uso de suas atribuições e tendo em vista o disposto no art. 16 do Decreto nº 9.739, de",
+        "md": "o Poder Executivo Federal junto ao Instituto de Tecnologia da Informação - ITI. **O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,**no uso de suas atribuições e tendo em vista o disposto no art. 16 do Decreto nº 9.739"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2020/portaria-n-48-de-12-de-junho-de-2020-261499694.md",
+      "sha256_md": "2928b2ea4cb35e00b1b697c084f9e8cd44521c9d3a28fedd2a4efda93fba8df3",
+      "sha256_fonte": "c765affee3a207db130beb98cdcc1aef44ff21ba80de34e999976215a6d6a725",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "3721a4874d900f26d6474c8302c3e37a0c4341f143f58a068486cec6fad704aa",
+      "sha256_visivel_md": "dafed98d2465b71db604b2cdc874039448db26d916dfeb92a81345ff110ba2ce",
+      "primeira_diferenca": {
+        "posicao": 186,
+        "fonte": " a gestão e a curadoria do acervo da legislação e dos atos normativos federais. O MINISTRO DE ESTADO CHEFE DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA,no uso das atribuições que lhe foram conferidas pelos incisos I, II e IV do parágrafo",
+        "md": " a gestão e a curadoria do acervo da legislação e dos atos normativos federais. **O MINISTRO DE ESTADO CHEFE DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA,**no uso das atribuições que lhe foram conferidas pelos incisos I, II e IV do parág"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2021/portaria-gsi-pr-n-93-de-18-de-outubro-de-2021-353056370.md",
+      "sha256_md": "f38a2ef87a9e637f990f8c1adc4204807c745ce8f8087fbb1f4589292a969fa8",
+      "sha256_fonte": "f1ba23d6ba89306e2c9e0cb5c19bed8b6b0217bfa70646e5af01d3569d487bd2",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "ffc29d6e457e59af186316c96cc2ed93af674d9f37558fab3a12ccc9a3001cdf",
+      "sha256_visivel_md": "b6df58d849446aa6354bfcc15b076d15dbf00b1616662d025eb2a1bbba8dd463",
+      "primeira_diferenca": {
+        "posicao": 86628,
+        "fonte": "ias, documentação, ferramentas e tecnologias no campo da segurança de aplicaçõesweb,a todos os interessados em aperfeiçoar a segurança em aplicações; OPERADOR - pessoa natural ou jurídica, de direito público ou privado, que realiza o tratam",
+        "md": "ias, documentação, ferramentas e tecnologias no campo da segurança de aplicações*web,*a todos os interessados em aperfeiçoar a segurança em aplicações; OPERADOR - pessoa natural ou jurídica, de direito público ou privado, que realiza o trat"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2021/portaria-gsi-pr-n-94-de-29-de-outubro-de-2021-356175227.md",
+      "sha256_md": "c60caccc2015bb0dbb23511e2a3658f05c5de9918d6bd8e940a80fe1768238a5",
+      "sha256_fonte": "1cfb5564f36c5f2a10313a700d63ffdaddc0bd4f8503d2e3166deaee1af6ecb5",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "04d311ce10eba5cddf9e8abe9debefc9d02f94a2d77f06374fec77d30aba9dbd",
+      "sha256_visivel_md": "aa512bede29c8c4a8a52935b06ed70d6b4321a384c4c61d2adb9ca46d5badb58",
+      "primeira_diferenca": {
+        "posicao": 207,
+        "fonte": "e Segurança Institucional da Presidência da República e dá outras providências. O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA,no uso das atribuições que lhe confere o art. 87, parágrafo único,",
+        "md": "e Segurança Institucional da Presidência da República e dá outras providências. **O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA,**no uso das atribuições que lhe confere o art. 87, parágrafo ún"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2021/portaria-in-sg-pr-n-1-de-13-de-janeiro-de-2021-298899618.md",
+      "sha256_md": "1657cfe2e19f4b2ac6c6ded10842f5ecadc5f9117347dc57c64fc5b84fa88a19",
+      "sha256_fonte": "8af580f34cf9414cc4367cb32b15018b50ab7c05e1e68968dfb97051d635b7fb",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "da28040a912a3cdb71be4521b19f3fec531e650fb3baf08e6faf487092aa2bb0",
+      "sha256_visivel_md": "4be3fb0a850fe0079f056af2b2358e1e4d4657a3b621b372e6c0d897a749a153",
+      "primeira_diferenca": {
+        "posicao": 191,
+        "fonte": "obrança de valores por publicações de atos oficiais no Diário Oficial da União. A DIRETORA-GERAL SUBSTITUTA DA IMPRENSA NACIONAL,no uso da atribuição que lhe conferem o art. 16 e o art. 20 do Decreto nº 9.215, de 29 de novembro de 2017, res",
+        "md": "obrança de valores por publicações de atos oficiais no Diário Oficial da União. **A DIRETORA-GERAL SUBSTITUTA DA IMPRENSA NACIONAL,**no uso da atribuição que lhe conferem o art. 16 e o art. 20 do Decreto nº 9.215, de 29 de novembro de 2017,"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2021/portaria-n-664-de-27-de-dezembro-de-2021-370300423.md",
+      "sha256_md": "e965b669d0fb5ec671f295f1598b8f5ac5d79b4da3bcd12b1eb11f2f8bba7f3e",
+      "sha256_fonte": "3999073b6e41bcedfa4eb5f0011eaa55191d008962fd979397e86022e9546a40",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e34ac58d89864e8e6fcdfffdc7e96b5b6cb8c5cd1d7e788bacd672db3fff6be2",
+      "sha256_visivel_md": "ff799972e23adcc15c81f2aa5ee40088e9e503c646c0fea79ec1cd9b163ba2a4",
+      "primeira_diferenca": {
+        "posicao": 149,
+        "fonte": "idades e suas respectivas siglas para a Casa Civil da Presidência da República. O MINISTRO DE ESTADO CHEFE DA CASA CIVIL DA PRESIDÊNCIA DA REPÚBLICA,no uso da atribuição que lhe confere o art. 87, parágrafo único, incisos I e II, da Constit",
+        "md": "idades e suas respectivas siglas para a Casa Civil da Presidência da República. **O MINISTRO DE ESTADO CHEFE DA CASA CIVIL DA PRESIDÊNCIA DA REPÚBLICA,**no uso da atribuição que lhe confere o art. 87, parágrafo único, incisos I e II, da Con"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2021/portaria-n-90-de-27-de-janeiro-de-2021-301055809.md",
+      "sha256_md": "07f084af44ad7506255ad2967cba084f2d49197e3139bc34398fac832b5fde3e",
+      "sha256_fonte": "88440be01e92dec419ca6f6eb62077eaa6f0bb8cfcf0223e9e2049796269f4ed",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "d6a7138f5c6d02b613b0f6ef9def6b80213e7cb6b44a8d7ec2c1a9c5a8df5ebe",
+      "sha256_visivel_md": "fb30b4b9fd5176f8dfc1a6452dfc88a53f5b5d60ccbc194e104ef463e11c1ad5",
+      "primeira_diferenca": {
+        "posicao": 222,
+        "fonte": "a República, para os fins do disposto no art. 8º do Decreto nº 10.139, de 2019. O MINISTRO DE ESTADO CHEFE DA SECRETARIA DE GOVERNO DA PRESIDÊNCIA DA REPÚBLICA,no uso da atribuição que lheconfere o art. 87, parágrafo único, incisos I e II, ",
+        "md": "a República, para os fins do disposto no art. 8º do Decreto nº 10.139, de 2019. **O MINISTRO DE ESTADO CHEFE DA SECRETARIA DE GOVERNO DA PRESIDÊNCIA DA REPÚBLICA,**no uso da atribuição que lheconfere o art. 87, parágrafo único, incisos I e "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2021/portaria-saj-sg-pr-n-1-de-22-de-dezembro-de-2021-369668910.md",
+      "sha256_md": "a6b1e4ea608dcc0f2e8b6862a2af64f80d984336def06c06be749b5914541c5b",
+      "sha256_fonte": "5c0dbd2e2ba584dc07433cefbfbfe070fcbc9eb474bd1da414a5aa232d41aaca",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "750db88ab10477c0a4138410ac5b1e7059938127c89ca846a0a280d63185b5ba",
+      "sha256_visivel_md": "31df5a432ac79a610420f3d941519eee04c09b7b526a425fd397afd8ee8a6c12",
+      "primeira_diferenca": {
+        "posicao": 167,
+        "fonte": "chefia para Assuntos Jurídicos da Secretaria-Geral da Presidência da República. O SUBCHEFE PARA ASSUNTOS JURÍDICOS DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA,no uso das atribuições que lhe conferem o art. 26, parágrafo único, do Decret",
+        "md": "chefia para Assuntos Jurídicos da Secretaria-Geral da Presidência da República. **O SUBCHEFE PARA ASSUNTOS JURÍDICOS DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA,**no uso das atribuições que lhe conferem o art. 26, parágrafo único, do De"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2021/portaria-se-sg-pr-n-691-de-31-de-marco-de-2021-311863742.md",
+      "sha256_md": "4c9fda09dc38b9bf4f43ea915279695793dda3c280d998f4ac0f77709049af52",
+      "sha256_fonte": "bf0fc8d7cb82c8df0fbe7fda7d7163b9df160dce9bae0a8133b5a47f0f3e2a4a",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "4b6e00e690e48e5f5ca33c0f2000d040e622de7933a2040ea6e128d595fe37e6",
+      "sha256_visivel_md": "5b2bd3e6f412a23d99fd389ba472a47066b4fd0df5bf3c3bae6717c0458398bd",
+      "primeira_diferenca": {
+        "posicao": 191,
+        "fonte": "o da Secretaria-Geral da Presidência da República, praticar atos especificados. O SECRETÁRIO-EXECUTIVO DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA,no uso das competências que lhe foram delegadas por meio da Portaria SG/PR nº 113, de 19 ",
+        "md": "o da Secretaria-Geral da Presidência da República, praticar atos especificados. **O SECRETÁRIO-EXECUTIVO DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA,**no uso das competências que lhe foram delegadas por meio da Portaria SG/PR nº 113, de"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2021/portaria-sg-pr-n-120-de-6-de-julho-de-2021-330636032.md",
+      "sha256_md": "8c5fe8ea6a145f8a7184c58fce5f4b9e5a028e3c75db92089bd417e44175bac7",
+      "sha256_fonte": "7b517ed4577289d5779f82427342183bab23de90b10ac48f04248e729631ec4d",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "0e68f30998fa59a2622580dc9b808d8da047fccf9b521cbe6b33be32cc1d2c01",
+      "sha256_visivel_md": "a1ebf30737220e84cd22e575730f73e555a880294cbd416f369d70a6ddceb420",
+      "primeira_diferenca": {
+        "posicao": 124,
+        "fonte": " Altera a Portaria nº 48, de 12 de junho de 2020, que institui o Projeto CodeX. O MINISTRO DE ESTADO CHEFE DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA,no uso das atribuições que lhe foram conferidas pelos incisos I, II e IV do parágrafo",
+        "md": " Altera a Portaria nº 48, de 12 de junho de 2020, que institui o Projeto CodeX. **O MINISTRO DE ESTADO CHEFE DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA,**no uso das atribuições que lhe foram conferidas pelos incisos I, II e IV do parág"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2021/portaria-sg-pr-n-123-de-8-de-novembro-de-2021-357706584.md",
+      "sha256_md": "7e8960454d5fe2c2da912fdeb358821b2c636036c89730c3b252ecb57edb1b82",
+      "sha256_fonte": "4e49104f1192d59eccdf1343c4c2b78db7fb8e94b72cdc0989fd720e99cbaaab",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "6f7e685befa7dec08d85c9ccf97993f02c74a27e0ae5b2ca74e72e39e476f26e",
+      "sha256_visivel_md": "3bec5883696b18da150dc8af4c1c156eb45cb046200ce4b7c564cc6e03867ab8",
+      "primeira_diferenca": {
+        "posicao": 253,
+        "fonte": "os de pequeno vulto, no âmbito da Secretaria-Geral da Presidência da República. O MINISTRO CHEFE DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA, Substituto,no uso das atribuições que lhe confere o art. 87, parágrafo único, inciso I, da Con",
+        "md": "os de pequeno vulto, no âmbito da Secretaria-Geral da Presidência da República. **O MINISTRO CHEFE DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA, Substituto,**no uso das atribuições que lhe confere o art. 87, parágrafo único, inciso I, da"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2022/portaria-in-sg-pr-n-369-de-26-de-setembro-de-2022-432261629.md",
+      "sha256_md": "4671a80ee73b29526bdabbd97c946ad21d94e2d62cb0d80dacfef8727a68324c",
+      "sha256_fonte": "f8b753cae3cf60ab15a9bf76a59f9eb2920933eddcb2241360a6a1b6e350efdc",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "046ee7f3450b0991caa723f765fdaaadcf967ef0e7e988235fccb7da319b0a26",
+      "sha256_visivel_md": "2ca1eba6338caa4068464747fb3c4a19bdf45be78cb322e6aad7e89b770a0320",
+      "primeira_diferenca": {
+        "posicao": 52,
+        "fonte": "PORTARIA IN/SG/PR Nº 369, DE 26 DE SETEMBRO DE 2022 O DIRETOR-GERAL DA IMPRENSA NACIONAL,no uso das atribuições que lhe confere o inciso IV do artigo 3º da Portaria nº 59, de 17 de dezembro de 2019, e o art. 1º P",
+        "md": "PORTARIA IN/SG/PR Nº 369, DE 26 DE SETEMBRO DE 2022 **O DIRETOR-GERAL DA IMPRENSA NACIONAL,**no uso das atribuições que lhe confere o inciso IV do artigo 3º da Portaria nº 59, de 17 de dezembro de 2019, e o art. "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2022/portaria-n-100-de-7-de-novembro-de-2022-442057732.md",
+      "sha256_md": "d81802026064732f3fbfdca204afc20dae35aa5cfd9c47b588e4ebdeb0c5bb10",
+      "sha256_fonte": "378f8518eaf34a8c855d4e5d2046c5bdb0a43cf2120afb83f0b1298bd2137852",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "2852e1189dcf894add99a0d3964c775a918c58e6fd4b41ad7db36971dacdda23",
+      "sha256_visivel_md": "7d55f661663efa24a5426bd729a72de182ce1cf7edc0b9399b55587fd68deff9",
+      "primeira_diferenca": {
+        "posicao": 215,
+        "fonte": "vel e categoria no âmbito da Secretaria de Governo da Presidência da República. O MINISTRO DE ESTADO CHEFE DA SECRETARIA DE GOVERNO DA PRESIDÊNCIA DA REPÚBLICA,no uso de suas atribuições e tendo em vista o disposto no art. 6º, inciso IV, do",
+        "md": "vel e categoria no âmbito da Secretaria de Governo da Presidência da República. **O MINISTRO DE ESTADO CHEFE DA SECRETARIA DE GOVERNO DA PRESIDÊNCIA DA REPÚBLICA,**no uso de suas atribuições e tendo em vista o disposto no art. 6º, inciso IV"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2022/portaria-n-343-de-1-de-setembro-de-2022-426588154.md",
+      "sha256_md": "40b780cacbe6c6635eacb8dd49275afcee43210c3870079097dddb57c45aef81",
+      "sha256_fonte": "91c08a8b036ff08f0c37ccb36e40ca2dfc492d134e50b58cecdc48991c88a06d",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "7fe5de828b888de5bfe9db8cf92c0c38448b699ed97d6691a82fa46074579bcb",
+      "sha256_visivel_md": "e620cf58ea241becf73907a75cff9eab261911c23496d7a7f76945954e3990a0",
+      "primeira_diferenca": {
+        "posicao": 43,
+        "fonte": "PORTARIA Nº 343, DE 1º DE SETEMBRO DE 2022 O DIRETOR-GERAL DA IMPRENSA NACIONAL,no uso das atribuições que lhe confere o art. 1º da Portaria nº 29, de 12 de julho de 2022, do Ministro de Estado Chefe da ",
+        "md": "PORTARIA Nº 343, DE 1º DE SETEMBRO DE 2022 **O DIRETOR-GERAL DA IMPRENSA NACIONAL,**no uso das atribuições que lhe confere o art. 1º da Portaria nº 29, de 12 de julho de 2022, do Ministro de Estado Chefe"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2020/resolucao-n-10-de-30-de-janeiro-de-2020-242078780.md",
+      "sha256_md": "5a0f56b5fb609dbee0a4307e113722eed062eb30f9535baae0fca827436fe03f",
+      "sha256_fonte": "a59a9c7327a295e42464f8a3747271606d77c20dbb423a084aefa46a36b79b63",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "564c159207d738fd6f15d926c904346e996e84e332f223e086d36aee1d64c156",
+      "sha256_visivel_md": "e2d3a8a6914faddb00e8c7ebd01c847519f5025bad6e22d56924c1d305cb457c",
+      "primeira_diferenca": {
+        "posicao": 388,
+        "fonte": "TADO CHEFE DO GABINETE INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, na condição deCoordenador do Comitê de Desenvolvimento do Programa Espacial Brasileiro,no uso das atribuições que lhe foram conferidas pelo art. 87 da Constituição Federal, p",
+        "md": "TADO CHEFE DO GABINETE INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, na condição de**Coordenador do Comitê de Desenvolvimento do Programa Espacial Brasileiro,**no uso das atribuições que lhe foram conferidas pelo art. 87 da Constituição Federa"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2020/resolucao-n-119-de-19-de-fevereiro-de-2020-246505205.md",
+      "sha256_md": "22665e678d05fba9d12258a1d3bbb62ce92f2f37a549d666f39ec35e85e1d1c0",
+      "sha256_fonte": "bacae2d57b535c7e97c772a2594d73bd87171216762ee95ac92b0c2c6dfa5db6",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "25b64e868aeaabb13eb7505357d464e1f46b6fdb556b35171287eee806bf8e5c",
+      "sha256_visivel_md": "3478478bc737d4786a7b1fdcaabff08f3c2d6c78c86a7ad7c165a7d25a8eb525",
+      "primeira_diferenca": {
+        "posicao": 192,
+        "fonte": "Regimento Interno do Conselho do Programa de Parcerias de Investimentos - CPPI. O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS - CPPI,no uso das atribuições que lhe confere o artigo 7º, inciso VI, da Lei nº 13.334, de 13 de setembro d",
+        "md": "Regimento Interno do Conselho do Programa de Parcerias de Investimentos - CPPI. **O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS - CPPI,**no uso das atribuições que lhe confere o artigo 7º, inciso VI, da Lei nº 13.334, de 13 de setemb"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2020/resolucao-n-156-de-7-de-fevereiro-de-2020-242820296.md",
+      "sha256_md": "99f28335685499a2322f58e53b26f7f9e59634e7906232d167ad3c08b39422fe",
+      "sha256_fonte": "5361c0f00a93f08355098de3215141f8081b7265ff5b23000eee83783bc37445",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "274f3d13ee169ea0f9a08d36cc33c1b0e1efa5cdbf906a29b4f154e163da688c",
+      "sha256_visivel_md": "39a3cf8e0f23e2925b6cb9bc4e75a79d5bb8978ce88a4d52319f39af076886fa",
+      "primeira_diferenca": {
+        "posicao": 254,
+        "fonte": "ificados digitais pelos conselhos de classes profissionais instituídos por lei. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "ificados digitais pelos conselhos de classes profissionais instituídos por lei. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2020/resolucao-n-157-de-7-de-fevereiro-de-2020-242820048.md",
+      "sha256_md": "2c9993bb3c624234d72e5e5c9231b8c93a966e90469aef7e3345454505a68826",
+      "sha256_fonte": "483b5b0fa2a78cf49b595828f8d0487c12ad2554f405c7626c7fec210f148a6c",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "fad7091dec3559e8f5b6b3489c80960bc5e507ded3f658906bca3e91e14d982c",
+      "sha256_visivel_md": "b3c2fd9d4e21805629659effa2c04b893824e95143105962aaf71c2b6a374b28",
+      "primeira_diferenca": {
+        "posicao": 106,
+        "fonte": "FEVEREIRO DE 2020 Autoriza à AC Raiz a gerir a identidade visual da ICP-Brasil. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "FEVEREIRO DE 2020 Autoriza à AC Raiz a gerir a identidade visual da ICP-Brasil. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2020/resolucao-n-158-de-7-de-fevereiro-de-2020-242820078.md",
+      "sha256_md": "af572168fbcb0369be0c0b3248f2c57a036325fd61844f867e6eb91fa17ca863",
+      "sha256_fonte": "9748f78eac594495119eefc50ca07ffb2dd040d1d5cc3fff3f42ba73df9d80cb",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "c37d21725d7212e33364752000a0bf38bf4f65e71f7b3eab6b1c5f3592f895da",
+      "sha256_visivel_md": "30de0df151d88d4deede5b28e86c38133b7ee0c3fc0b2aa9b98a446987c7e56a",
+      "primeira_diferenca": {
+        "posicao": 175,
+        "fonte": "izada no ambiente operacional da AC Raiz e seu Prestador de Serviço de Suporte. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "izada no ambiente operacional da AC Raiz e seu Prestador de Serviço de Suporte. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2020/resolucao-n-159-de-7-de-fevereiro-de-2020-242819856.md",
+      "sha256_md": "c14bdfeb07ba3174e156c17056619182ec7fdce637996eec996d80b13113258b",
+      "sha256_fonte": "e3d452a5e422fce86b81d4fad55cc675c7396a1e5ab232adbd750ffe2ae6ce09",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "3f83455881278f7d2d5940c26204b73a4d1a47cc38c9d5ddc55f96d4435b9aa4",
+      "sha256_visivel_md": "9a92553f20d245e880eb9b8dc182a126c7a96baf511d83914f592e23d81f9e23",
+      "primeira_diferenca": {
+        "posicao": 150,
+        "fonte": "presa de auditoria independente para auditar o ambiente operacional da AC Raiz. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "presa de auditoria independente para auditar o ambiente operacional da AC Raiz. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2020/resolucao-n-160-de-17-de-abril-de-2020-253138129.md",
+      "sha256_md": "8db658851e659049ca47018a03f1f3a21376eacaec407ad9e4d100d541d32dcb",
+      "sha256_fonte": "f59dddf1c548c421125f8a3807edbd9ff9c7f63d0c24817221f7c32c7624b88f",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "8a22a4a86cdfac1e41ebe0d43df233f0d8aeee155d36e68be0572ed64a17aefc",
+      "sha256_visivel_md": "503e4a31f38fdf9e92ec2de778b0e7cd11a5377a67775e543714ed8e667ff110",
+      "primeira_diferenca": {
+        "posicao": 301,
+        "fonte": "aúde pública de importância internacional decorrente do coronavírus (COVID-19). O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "aúde pública de importância internacional decorrente do coronavírus (COVID-19). **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2020/resolucao-n-161-de-17-de-abril-de-2020-253138613.md",
+      "sha256_md": "bf19136a410e338f21fb48957ea9111d238cab979c99d5d78145fd8bacf894d0",
+      "sha256_fonte": "9dde59843dfc3f406c0e6cd98c8499e60e9bbc47219bb55ce6961cffbfe553c9",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "146ac7becb90fceb471a275db3af73d02a993a39b835a5fe19dc78bdfd5ab93a",
+      "sha256_visivel_md": "94d2caf8c1589bd6c01e8b6275d282f8d7f9fada19c06840a8510edc87430dfd",
+      "primeira_diferenca": {
+        "posicao": 189,
+        "fonte": "normativos inferiores a decreto, de competência do Comitê Gestor da ICP-Brasil. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "normativos inferiores a decreto, de competência do Comitê Gestor da ICP-Brasil. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2020/resolucao-n-162-de-17-de-abril-de-2020-253138625.md",
+      "sha256_md": "a7c31fcf2fc47fda7e3e7b7563458751b34979f3db3e6a3d7105f0a8d152fbee",
+      "sha256_fonte": "cda5882ab7e5695c8f39f2204a001d9af98ab3a5c594992cfcbc1470b7bb41ce",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "65c2e2b49a02c1860e0d787fe60c005dece50ab8d0d00b3d2981f637c31232b3",
+      "sha256_visivel_md": "d38b0146867a7f5c394c8a9314cb227725afc86561039f4165cf65f5e1317083",
+      "primeira_diferenca": {
+        "posicao": 117,
+        "fonte": "020 Consolidação dos Procedimentos para Identificação Biométrica na ICP-Brasil. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "020 Consolidação dos Procedimentos para Identificação Biométrica na ICP-Brasil. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2020/resolucao-n-163-de-17-de-abril-de-2020-253138539.md",
+      "sha256_md": "35e4ae240b10279933013d5e0cc38340d0d6044de2667ae4e8f788443fbdc0be",
+      "sha256_fonte": "143636e6803c456e94cf81f59bd053962e0f2a3c67dab282f93efb63a5800f29",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "cd638eefebb19d3a0148ad7000ed90c40774f0f47c357090cdcd876490383f72",
+      "sha256_visivel_md": "e1df74a22e66aad38f37473d9a9c8163eda25482b9eb5d0cdca003f497360811",
+      "primeira_diferenca": {
+        "posicao": 192,
+        "fonte": "rasileira - ICP-Brasil as atribuições que especifica e traz outras disposições. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "rasileira - ICP-Brasil as atribuições que especifica e traz outras disposições. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2020/resolucao-n-164-de-17-de-abril-de-2020-253138614.md",
+      "sha256_md": "37049b95cc6f7bdc440df05097fbc7024c1c8df7784cdaeeebd7beb6b99ade50",
+      "sha256_fonte": "ec6d659b74b7592eec903bdda4d6ccaf0bb32269857da079eca0dc43f3b65aae",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "9a9e587947ef18574480cc7b4b5b8009b074421d3c9704e6fd5feafbcb84193a",
+      "sha256_visivel_md": "4df6d842f4a69d6a9d04cba041ff2c7274acbd6c6be688c864a4fac6ed9e31ba",
+      "primeira_diferenca": {
+        "posicao": 111,
+        "fonte": "L DE 2020 Altera o tempo de armazenamento do vídeo resultante da gravação 24x7. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "L DE 2020 Altera o tempo de armazenamento do vídeo resultante da gravação 24x7. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2020/resolucao-n-165-de-17-de-abril-de-2020-253138383.md",
+      "sha256_md": "5a41f408daf57bded91a934896ed2672d86b87ccfb884ee0dc0479a973497450",
+      "sha256_fonte": "c7a2b21fda30e514f092d72ed13bf2aa43df156188169eff353f3a2f926e96d0",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "3d4e0a66b4966f00d66e23d75b8432cf2c13759cee423ba5594e0fc5a19f4324",
+      "sha256_visivel_md": "f7fcaaa9689e48d9bb81e98d864d615bceeba21a7f626e1b8c30099e7748b973",
+      "primeira_diferenca": {
+        "posicao": 137,
+        "fonte": "ção de Práticas de Certificação da Autoridade Certificadora Raiz da ICP-Brasil. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "ção de Práticas de Certificação da Autoridade Certificadora Raiz da ICP-Brasil. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2020/resolucao-n-166-de-17-de-abril-de-2020-253138311.md",
+      "sha256_md": "b78c351f75cbd63ddf74469ec88edfd7260d99d20204e9a3eecc317e60936b88",
+      "sha256_fonte": "3e27a6454e70da8032c7c5c81b017d5b6b628d546cf56347a81ec77f79d14398",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "06430ac7e9323c2008391da9e4b14875bb0dca096c06cec78fb6f0e1d8661279",
+      "sha256_visivel_md": "58a6528e118657a399616767f3494344bd9baf762ef539d1526e0817a300b851",
+      "primeira_diferenca": {
+        "posicao": 156,
+        "fonte": "contador sobre a qualificação econômico-financeira para Autoridade de Registro. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "contador sobre a qualificação econômico-financeira para Autoridade de Registro. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2020/resolucao-n-167-de-17-de-abril-de-2020-253138340.md",
+      "sha256_md": "f51a82dd208519b00e3bfb9ed584afee0d8757e05333c5eddbfe27c0c8aaeec4",
+      "sha256_fonte": "ce7a0f3be316f741aa0ead6c68951392c167b05913d49183d6b3aaf339886d36",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "87a633751e4b2e030f1f5355c38788d36556c793bf8af230fbc2b2ee757949b4",
+      "sha256_visivel_md": "1a872d32f5ce1454a61ea7457c92ec0922b8358247a441a0cf21566573b66213",
+      "primeira_diferenca": {
+        "posicao": 158,
+        "fonte": "ra a emissão de LCR e para a conclusão do processo de revogação de certificado. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "ra a emissão de LCR e para a conclusão do processo de revogação de certificado. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2020/resolucao-n-168-de-17-de-abril-de-2020-253138480.md",
+      "sha256_md": "1a090e83c2a89dcc20670b51329ab6ca9eb4a12ee6ddc6ecb8645f63bef9da0c",
+      "sha256_fonte": "f96214e2d5f86cbc6471ed8ac79291222ca46528443c355a17399d9be5969864",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "0f80924e56180119d1240353121fcf274711adffeea5b8ba46e46db7a2b7621c",
+      "sha256_visivel_md": "d53da33a6b4b08842dc01a07700841beef1020f21feec314d0768a73510a53d0",
+      "primeira_diferenca": {
+        "posicao": 130,
+        "fonte": " dos prazos para as providências após a notificação do deferimento de AC e ACT. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": " dos prazos para as providências após a notificação do deferimento de AC e ACT. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2020/resolucao-n-169-de-17-de-abril-de-2020-253138298.md",
+      "sha256_md": "1a142f97d0773d22b3f310ef1b1dc3120539bd22d6869a1b298443cdd7f83dbc",
+      "sha256_fonte": "5775d1c900bf05874628f42447dbbc4c74ea8beee84a3eafae053b6a14527b27",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "949f219f9c59ac4ab6c2b68df4902bd63a8084b1a0b128f805c563e29772f483",
+      "sha256_visivel_md": "46df7f04e85dcf9ab28fb8526a7228b65a313d8ed1e253b00eca4907c1b3e0fc",
+      "primeira_diferenca": {
+        "posicao": 134,
+        "fonte": "tificado digital a informação de como foi realizada a identificação do titular. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "tificado digital a informação de como foi realizada a identificação do titular. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2020/resolucao-n-170-de-23-de-abril-de-2020-253759543.md",
+      "sha256_md": "5e7900880c9e5b60eab487e5c838301630e2b0e32c9e63e2fb26bdc90c359311",
+      "sha256_fonte": "e4048e5c183f31960f8a18411a573a8686b0ac393c2eda8b54de8f55caa85298",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "3ab404fd359479d9d5461383d216851997d7b2fe9928466247b49c63a5491271",
+      "sha256_visivel_md": "26b340ae032ea5a88cd64f958f8541ec16d462d03a088b133f500a32b744a2c5",
+      "primeira_diferenca": {
+        "posicao": 171,
+        "fonte": "ndo da primeira emissão de um certificado digital por meio de videoconferência. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "ndo da primeira emissão de um certificado digital por meio de videoconferência. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2021/resolu-c3-87-c3-83o-n-c2-ba-1-de-31-de-dezembro-de-2020.md",
+      "sha256_md": "0ef14bfb05ca62d85020a75630424fdea50ce509ae4c73900ac4dad243a894c1",
+      "sha256_fonte": "b6fedf3847f140058c1c13bae2ffcc4e0008b06f3ae861c43208c48233284a03",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e2b830fa9ccc8e6282dc0e2d62eedbb4c5ae37484d8c6bd81b53a20a2835f9b1",
+      "sha256_visivel_md": "f5eb6fbbed7f25bdd18082b80bfd7575b3f54931f9e70458f612cc7c4c91a7e0",
+      "primeira_diferenca": {
+        "posicao": 257,
+        "fonte": "o da Presidência da República às disposições da Lei Geral de Proteção de Dados. O PRESIDENTE DO COMITÊ MINISTERIAL DE GOVERNANÇA DA SECRETARIA DE GOVERNO DA PRESIDÊNCIA DA REPÚBLICA,no uso da atribuição que lhe confere o Decreto nº 9.203, d",
+        "md": "o da Presidência da República às disposições da Lei Geral de Proteção de Dados. **O PRESIDENTE DO COMITÊ MINISTERIAL DE GOVERNANÇA DA SECRETARIA DE GOVERNO DA PRESIDÊNCIA DA REPÚBLICA,**no uso da atribuição que lhe confere o Decreto nº 9.20"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2021/resolucao-cg-icp-brasil-n-184-de-19-de-marco-de-2021-309558300.md",
+      "sha256_md": "d1c7d3ad5e7914efb6ad83b37d00790d775a56a6e2483942af1d603ab6648741",
+      "sha256_fonte": "4b9135d43c2851d3ae89e1dd17cd1dd1a653436a0c22892432c411ac1d9182b3",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "1694f74653d86475ec447bc6fbcf7fb1e40ceac59bd1b2fc52bde01789b9ecf7",
+      "sha256_visivel_md": "0050b400f62b8d05d5776a3842a2dabf2118bb09d2ea0a18deb75b4a2cb2836a",
+      "primeira_diferenca": {
+        "posicao": 163,
+        "fonte": "ara a migração da rede de carimbo do tempo ICP-Brasil para os novos protocolos. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "ara a migração da rede de carimbo do tempo ICP-Brasil para os novos protocolos. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2021/resolucao-cg-icp-brasil-n-189-de-18-de-maio-de-2021-321113068.md",
+      "sha256_md": "52067f57106f08ab76641594372727a0e4ffb1fa657de12db55f6866fc5f2e61",
+      "sha256_fonte": "67c1a2b99cd63b3872be458566a8678365f7670d39e659fb1d254eb06f93250b",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "49f1354472ba0f4c6930a4961ca947528a11b07b7c31b22395ac085364e55d64",
+      "sha256_visivel_md": "64c062f422914bbe7aef0e6342e81b3d4e1fcc1de18c61ef901da29125569c21",
+      "primeira_diferenca": {
+        "posicao": 185,
+        "fonte": "izada no ambiente operacional da AC Raiz e seu Prestador de Serviço de Suporte. A COORDENADORA DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6°, §1°, inc. IV, do Regimento Int",
+        "md": "izada no ambiente operacional da AC Raiz e seu Prestador de Serviço de Suporte. **A COORDENADORA DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6°, §1°, inc. IV, do Regimento"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2021/resolucao-cg-icp-brasil-n-195-de-16-de-novembro-de-2021-360524428.md",
+      "sha256_md": "994e5d0cebcb8018f31a9de23be451a5fd791f9b77a15f2492217920a176b2a7",
+      "sha256_fonte": "99fb4142091e6aeb9a3f478113d5ac899f776cc05a4762a703ac35e9fea28b3e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "6dd1d6212bbeaf9aa93ad7dd22ed0c7089f9227b6b2649febf2764b0a8cd12a2",
+      "sha256_visivel_md": "2db53729c954c246f0022a55a865855f541ae641fcf31b222d01e4d4efcfa11d",
+      "primeira_diferenca": {
+        "posicao": 207,
+        "fonte": "os atos normativos no âmbito do Instituto Nacional de Tecnologia da Informação. O COORDENADOR SUBSTITUTO DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6°, §1°, inc. IV, do Reg",
+        "md": "os atos normativos no âmbito do Instituto Nacional de Tecnologia da Informação. **O COORDENADOR SUBSTITUTO DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6°, §1°, inc. IV, do"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2021/resolucao-cte-cmed-n-1-de-12-de-fevereiro-de-2021-304154267.md",
+      "sha256_md": "db4acf72264d1554fa9a000d35a27544628bcd2a5815e3571d8174def6ae5a55",
+      "sha256_fonte": "abe2395e2a57b5e35d75506ef3b4bb938aef6adc584af2c7401d0e6599e5b71c",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "60958ecc0ea64f6b5a008309ac64f525daf3d6f9887eb2259a620cb1b2bc7965",
+      "sha256_visivel_md": "808ea2b9a0be4c309315af364c1dd2ae2fd2d23130aaf547a262585d5b06899f",
+      "primeira_diferenca": {
+        "posicao": 277,
+        "fonte": "ão utilizados no ajuste de preços de 2021. O SECRETÁRIO-EXECUTIVOfaz saber que oCOMITÊ TÉCNICO-EXECUTIVO da CÂMARA DE REGULAÇÃO DO MERCADO DE MEDICAMENTOS,no uso das competências que lhe conferem o Artigo 6º da Lei nº 10.742, de 6 de outubr",
+        "md": "ão utilizados no ajuste de preços de 2021. O SECRETÁRIO-EXECUTIVOfaz saber que o**COMITÊ TÉCNICO-EXECUTIVO da CÂMARA DE REGULAÇÃO DO MERCADO DE MEDICAMENTOS,**no uso das competências que lhe conferem o Artigo 6º da Lei nº 10.742, de 6 de ou"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2021/resolucao-n-1-de-9-de-dezembro-de-2021-366809189.md",
+      "sha256_md": "d803e458a8d8f04dabe6f99f0699f53f56f11f73015e0179aee1523f1ddadee7",
+      "sha256_fonte": "bdde583b6c14be230488e85d4691b8cda404b2ed1bb41d7176499eea55bb4d3f",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DAS DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO I DAS DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "561a0537246fd379644b940f61d8238b125776c6b4c0f7fdcc1e60dc7c299472",
+      "sha256_visivel_md": "fc2dd0c702121bdaeed756017173796e67f022ee8de35a69fa120cb69a0c7dbb",
+      "primeira_diferenca": {
+        "posicao": 4023,
+        "fonte": " a projetos educativos, científicos e culturais. §1º Para o apoio de que trata ocaput,os detentores devem aderir e cumprir as orientações técnicas desta Política e as condições dispostas no art. 15 da Lei nº 8.394, de 1991 e no art. 7º, § 2",
+        "md": " a projetos educativos, científicos e culturais. §1º Para o apoio de que trata o**caput,**os detentores devem aderir e cumprir as orientações técnicas desta Política e as condições dispostas no art. 15 da Lei nº 8.394, de 1991 e no art. 7º,"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2021/resolucao-n-15-de-29-de-marco-de-2021-311352467.md",
+      "sha256_md": "cc449a30efaf989694cad06676215c14b3c960d6b57fefb5f0c6724609efad8f",
+      "sha256_fonte": "e1531383cfaa787ec684904d4c9306693460ae49bc29e7fb0a7013f37d7bd3b5",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e7693879f63b1f7581934d004cad0e29fd8807ba5832bb7da99fed5183098198",
+      "sha256_visivel_md": "8b2be9e19bfd01a083eece77364ebb1e3af8ad943d11f1f60662a30c6891a3eb",
+      "primeira_diferenca": {
+        "posicao": 457,
+        "fonte": " GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, na condição deCOORDENADOR DO COMITÊ DE DESENVOLVIMENTO DO PROGRAMA ESPACIAL BRASILEIRO,no uso das atribuições que lhe foram conferidas pelo art. 87 da Constituição, pelos art",
+        "md": " GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, na condição de**COORDENADOR DO COMITÊ DE DESENVOLVIMENTO DO PROGRAMA ESPACIAL BRASILEIRO,**no uso das atribuições que lhe foram conferidas pelo art. 87 da Constituição, pelos"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2021/resolucao-n-2-de-17-de-agosto-de-2021-346383636.md",
+      "sha256_md": "b3dcc153a5be4895fd7bb0021fcf0b64f74836bdec7dc0625f0ee6ad263c1c60",
+      "sha256_fonte": "4aeb817df8dec527572909d107859e7d4a050bd9d5fe01cc2d145cb46f4231f6",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "9914683fa53c22fd3dbd72334224f34df9a822535c8acca8f0705c11b04d59e2",
+      "sha256_visivel_md": "3bc522fb190486d55929aa5ddab71eea5270e017346f8b83da9886a8b6c7a39b",
+      "primeira_diferenca": {
+        "posicao": 198,
+        "fonte": "rar proposta de atualização da Política Nacional sobre Mudança do Clima - PNMC. O PRESIDENTE DO COMITÊ INTERMINISTERIAL SOBRE MUDANÇA DO CLIMA - CIM,no uso das atribuições que lhe conferem o Decreto nº 10.145, de 28 de novembro de 2019, e a",
+        "md": "rar proposta de atualização da Política Nacional sobre Mudança do Clima - PNMC. **O PRESIDENTE DO COMITÊ INTERMINISTERIAL SOBRE MUDANÇA DO CLIMA - CIM,**no uso das atribuições que lhe conferem o Decreto nº 10.145, de 28 de novembro de 2019,"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2022/resolucao-cg-icp-brasil-n-202-de-15-de-setembro-de-2022-431636588.md",
+      "sha256_md": "9ed8e1e7aee8f411e91f0f860534fe5681da1a18ee50328ea529962f46d0fa96",
+      "sha256_fonte": "d97310b0b7c7f797337ad5fab939f5fd67931f9676fe6b095018a9422ce11181",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "21cf08778a628cca5e05af0b737a0f5b9cab78066ce3c46a22268364f3034cfb",
+      "sha256_visivel_md": "d52a9e940684ec9e4283d1f6bf4ad1fe9f07163a954b5c9978a8e8524ef7b60e",
+      "primeira_diferenca": {
+        "posicao": 141,
+        "fonte": "oga a Resolução nº 160, de 17 de abril de 2020, do Comitê-Gestor da ICP-Brasil. A COORDENADORA DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Int",
+        "md": "oga a Resolução nº 160, de 17 de abril de 2020, do Comitê-Gestor da ICP-Brasil. **A COORDENADORA DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2022/resolucao-cg-icp-brasil-n-203-de-15-de-setembro-de-2022-431643740.md",
+      "sha256_md": "9ab61cad09091d5f973d0dee6077f99ae2acae723f598bc4d2099f17f71ae49c",
+      "sha256_fonte": "c19289be0d2a937c53e26ae6cb382845d33539aa3f366e6e4caa99047d4cfa3b",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "be3b3f5fd3331c97ccb677071ee9808f2811d21d9a6557f7ca2f50838e45b9ab",
+      "sha256_visivel_md": "b3265fbf7ac225771efe86b02a2ef3caa8df02f87be9178c2f6f6dcc728c5cbf",
+      "primeira_diferenca": {
+        "posicao": 189,
+        "fonte": "izada no ambiente operacional da AC Raiz e seu Prestador de Serviço de Suporte. A COORDENADORA DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Int",
+        "md": "izada no ambiente operacional da AC Raiz e seu Prestador de Serviço de Suporte. **A COORDENADORA DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2022/resolucao-n-7-de-13-de-outubro-de-2022-435824241.md",
+      "sha256_md": "42f81b3ad58dc3ecf248b9b8508d81e821aaa0ad82fe85789321123a19e79222",
+      "sha256_fonte": "891bcee1bb93080770d504e8cc41494221d090048039305e7f5988536af34e3c",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "cba15a3316ea5d7818aea52f63d917218ee9ef64407a62aaa8b5031f0fa517a9",
+      "sha256_visivel_md": "02c1360afafdaa06751dc5dde28a4f3c6b503482f2953e2b3138c09aa4178b05",
+      "primeira_diferenca": {
+        "posicao": 2657,
+        "fonte": " III - um do Conselho Nacional dos Diretores de Órgãos de Identificação - CONADI; e IV-dois Ministério da Economia, sendo um representante da Secretaria Especial da Receita Federal do Brasil e outro da Secretaria de Governo Digital. Art. 3º",
+        "md": " III - um do Conselho Nacional dos Diretores de Órgãos de Identificação - CONADI*; e* IV-dois Ministério da Economia, sendo um representante da Secretaria Especial da Receita Federal do Brasil e outro da Secretaria de Governo Digital. Art. "
+      }
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2021/instrucao-normativa-rfb-n-2.054-de-6-de-dezembro-de-2021-366031507.md",
+      "sha256_md": "40350d8c7d68ebbf30954189f5bcd34e596068ecd517192eda99e43e6e63d415",
+      "sha256_fonte": "ddba5667a5226301d97ff8fa0c41251009476184425830419049b3f68b96a31d",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "SEÇÃO I — ANIMAIS VIVOS E PRODUTOS DO REINO ANIMAL",
+          "fonte": "SEÇÃO I ANIMAIS VIVOS E PRODUTOS DO REINO ANIMAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO II — PRODUTOS DO REINO VEGETAL",
+          "fonte": "SEÇÃO II PRODUTOS DO REINO VEGETAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO III — GORDURAS E ÓLEOS ANIMAIS, VEGETAIS OU DE ORIGEM MICROBIANA E",
+          "fonte": "SEÇÃO III GORDURAS E ÓLEOS ANIMAIS, VEGETAIS OU DE ORIGEM MICROBIANA E",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO IV — PRODUTOS DAS INDÚSTRIAS ALIMENTARES; BEBIDAS, LÍQUIDOS ALCOÓLICOS E",
+          "fonte": "SEÇÃO IV PRODUTOS DAS INDÚSTRIAS ALIMENTARES; BEBIDAS, LÍQUIDOS ALCOÓLICOS E",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO V — PRODUTOS MINERAIS",
+          "fonte": "SEÇÃO V PRODUTOS MINERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO VI — PRODUTOS DAS INDÚSTRIAS QUÍMICAS",
+          "fonte": "SEÇÃO VI PRODUTOS DAS INDÚSTRIAS QUÍMICAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO VIII — PELES, COUROS, PELES COM PELO E OBRAS DESTAS",
+          "fonte": "SEÇÃO VIII PELES, COUROS, PELES COM PELO E OBRAS DESTAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO XI — MATÉRIAS TÊXTEIS E SUAS OBRAS",
+          "fonte": "SEÇÃO XI MATÉRIAS TÊXTEIS E SUAS OBRAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO XIII — OBRAS DE PEDRA, GESSO, CIMENTO, AMIANTO, MICA",
+          "fonte": "SEÇÃO XIII OBRAS DE PEDRA, GESSO, CIMENTO, AMIANTO, MICA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO XIV — PÉROLAS NATURAIS OU CULTIVADAS, PEDRAS PRECIOSAS",
+          "fonte": "SEÇÃO XIV PÉROLAS NATURAIS OU CULTIVADAS, PEDRAS PRECIOSAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO XV — METAIS COMUNS E SUAS OBRAS",
+          "fonte": "SEÇÃO XV METAIS COMUNS E SUAS OBRAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO XVII — MATERIAL DE TRANSPORTE",
+          "fonte": "SEÇÃO XVII MATERIAL DE TRANSPORTE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO XIX — ARMAS E MUNIÇÕES; SUAS PARTES E ACESSÓRIOS",
+          "fonte": "SEÇÃO XIX ARMAS E MUNIÇÕES; SUAS PARTES E ACESSÓRIOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO XX — MERCADORIAS E PRODUTOS DIVERSOS",
+          "fonte": "SEÇÃO XX MERCADORIAS E PRODUTOS DIVERSOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO XXI — OBJETOS DE ARTE, DE COLEÇÃO E ANTIGUIDADES",
+          "fonte": "SEÇÃO XXI OBJETOS DE ARTE, DE COLEÇÃO E ANTIGUIDADES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — ANIMAIS VIVOS E PRODUTOS DO REINO ANIMAL",
+          "fonte": "Seção I ANIMAIS VIVOS E PRODUTOS DO REINO ANIMAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — PRODUTOS DO REINO VEGETAL",
+          "fonte": "Seção II PRODUTOS DO REINO VEGETAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — GORDURAS E ÓLEOS ANIMAIS, VEGETAIS OU DE",
+          "fonte": "Seção III GORDURAS E ÓLEOS ANIMAIS, VEGETAIS OU DE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção V — PRODUTOS MINERAIS",
+          "fonte": "Seção V PRODUTOS MINERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção VI — PRODUTOS DAS INDÚSTRIAS QUÍMICAS",
+          "fonte": "Seção VI PRODUTOS DAS INDÚSTRIAS QUÍMICAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção VIII — PELES, COUROS, PELES COM PELO E OBRAS",
+          "fonte": "Seção VIII PELES, COUROS, PELES COM PELO E OBRAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção XI — MATÉRIAS TÊXTEIS E SUAS OBRAS",
+          "fonte": "Seção XI MATÉRIAS TÊXTEIS E SUAS OBRAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção XIII — OBRAS DE PEDRA, GESSO, CIMENTO, AMIANTO, MICA OU",
+          "fonte": "Seção XIII OBRAS DE PEDRA, GESSO, CIMENTO, AMIANTO, MICA OU",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção XIV — PÉROLAS NATURAIS OU CULTIVADAS, PEDRAS PRECIOSAS OU",
+          "fonte": "Seção XIV PÉROLAS NATURAIS OU CULTIVADAS, PEDRAS PRECIOSAS OU",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção XV — METAIS COMUNS E SUAS OBRAS",
+          "fonte": "Seção XV METAIS COMUNS E SUAS OBRAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção XVII — MATERIAL DE TRANSPORTE",
+          "fonte": "Seção XVII MATERIAL DE TRANSPORTE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção XVIII — INSTRUMENTOS E APARELHOS DE ÓPTICA, DE FOTOGRAFIA, DE",
+          "fonte": "Seção XVIII INSTRUMENTOS E APARELHOS DE ÓPTICA, DE FOTOGRAFIA, DE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção XIX — ARMAS E MUNIÇÕES; SUAS PARTES E ACESSÓRIOS",
+          "fonte": "Seção XIX ARMAS E MUNIÇÕES; SUAS PARTES E ACESSÓRIOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção XX — MERCADORIAS E PRODUTOS DIVERSOS",
+          "fonte": "Seção XX MERCADORIAS E PRODUTOS DIVERSOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção XXI — OBJETOS DE ARTE, DE COLEÇÃO E ANTIGUIDADES",
+          "fonte": "Seção XXI OBJETOS DE ARTE, DE COLEÇÃO E ANTIGUIDADES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              934,
+              938
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              1376,
+              1382
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              1444,
+              1450
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              1452,
+              1458
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              1490,
+              1496
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              1518,
+              1534
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              1544,
+              1552
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              1560,
+              1568
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              1756,
+              1766
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              2356,
+              2360
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              2362,
+              2366
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              2378,
+              2382
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              2400,
+              2408
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              2958,
+              2970
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              3980,
+              3984
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              4028,
+              4032
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              4040,
+              4046
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              4070,
+              4074
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              4142,
+              4146
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              4492,
+              4504
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "78e0bde211b3ed80fb1e38a2d80eb66fd451b223065700626c99b61e55d63261",
+      "sha256_visivel_md": "97fe8ddebeec88430b0921a7f46bf7ea8aa2df6abe4a2e230cddcc27d7495fdb"
+    },
+    {
+      "path": "reguladores/rfb/portarias/2020/portaria-n-18-de-4-de-fevereiro-de-2020-243324017.md",
+      "sha256_md": "ebbc7465937d59778ae120b4d1308d2ce4c34a615e43f9f3900b40573d660d38",
+      "sha256_fonte": "909cd4faeeb63275d13e1e9b05440f6fe117b1d9cf9525dda382370bbfa6a2a4",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              70,
+              72
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              98,
+              100
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              102,
+              104
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ")",
+            "linhas": [
+              150,
+              152
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "2927ceb7c01aae2e675fe724ab1ccd4892e6f573f580e7a42f4cfb17a1f7f53d",
+      "sha256_visivel_md": "2927ceb7c01aae2e675fe724ab1ccd4892e6f573f580e7a42f4cfb17a1f7f53d"
+    }
+  ]
+}

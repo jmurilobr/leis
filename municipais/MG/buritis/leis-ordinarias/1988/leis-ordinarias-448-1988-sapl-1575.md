@@ -1,0 +1,129 @@
+---
+titulo: "Lei nº 448, de 08 de novembro de 1988"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "448"
+data: "1988-11-08"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/1575"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/777/text"
+sha256_fonte: "1e97da6ff99713628bffe4a363b83d414ad54f405edc2b5e7b9eb019c286651b"
+sha256_texto: "f63f55a83d74e18c43013d786342653038d6c1f30279c1c459851a01d05350a1"
+capturado_em_fonte: "2026-10-27T20:39:12.310470-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 448, de 08 de novembro de 1988
+
+ESTABELECE O QUADRO GERAL DE FUNCIONÁRIOS DE BURITIS-MG., FIXA-LHES OS VENCIMENTOS, E DÁ OUTRAS PROVIDÊNCIAS
+
+
+O Prefeito Municipal de Buritis, promulga a seguinte Lei:
+
+
+Art. 1º.
+
+O Quadro Geral de Funcionários do Município de Buritis, assim como seus níveis de vencimento a partir de 01 de janeiro de 1.989, passam a ser os seguintes:
+
+QUADRO GERAL DE FUNCIONÁRIOS
+
+1.1 – GABINETE E SECRETARIA DA CÂMARA
+
+<table><tbody><tr><td>01</td><td>Secretário Executivo</td><td>137.700,00</td><td>1.652.400,00</td></tr><tr><td>01</td><td>Assessor Jurídico</td><td>137.700,00</td><td>1.652.400,00</td></tr><tr><td>01</td><td>Auxiliar de Secretaria</td><td>97.200,00</td><td>1.166.400,00</td></tr><tr><td>01</td><td>Contínuo</td><td>43.222,50</td><td>518.670,00</td></tr><tr><td>01</td><td>Faxineiro</td><td>43.222,50</td><td>518.670,00</td></tr></tbody></table>
+
+TOTAL: ................................................ 5.508.540,00
+
+2.1 – GABINETE E SECRETARIA DA PREFEITURA
+
+<table><tbody><tr><td>01</td><td>Secretário</td><td>137.700,00</td><td>1.652.400,00</td></tr><tr><td>01</td><td>Assistente Administrativo</td><td>137.700,00</td><td>1.652.400,00</td></tr><tr><td>01</td><td>Auxiliar de Secretaria</td><td>137.700,00</td><td>1.652.400,00</td></tr><tr><td>01</td><td>Auxiliar de Secretaria</td><td>97.200,00</td><td>1.166.400,00</td></tr><tr><td>01</td><td>Chefe do Departamento Pessoal</td><td>137.700,00</td><td>1.652.400,00</td></tr><tr><td>01</td><td>Encarregado Almoxarifado</td><td>55.688,00</td><td>668.256,00</td></tr><tr><td>01</td><td>Telefonista</td><td>97.200,00</td><td>1.166.400,00</td></tr><tr><td>01</td><td>Recepcionista</td><td>55.688,00</td><td>668.256,00</td></tr></tbody></table>
+
+<table><tbody><tr><td>01</td><td>Escrivão Municipal</td><td>97.200,00</td><td>1.166.400,00</td></tr><tr><td>01</td><td>Secretário da J.S.M.</td><td>97.200,00</td><td>1.166.400,00</td></tr><tr><td>01</td><td>Motorista</td><td>97.200,00</td><td>1.166.400,00</td></tr><tr><td>02</td><td>Guarda Noturno</td><td>55.688,00</td><td>1.336.512,00</td></tr><tr><td>04</td><td>Contínuo</td><td>43.222,50</td><td>2.074.680,00</td></tr><tr><td>02</td><td>Cantineira</td><td>43.222,50</td><td>1.037.340,00</td></tr><tr><td>04</td><td>Telefonista Vilas e Povoados</td><td>46.000,00</td><td>2.208.000,00</td></tr><tr><td>01</td><td>Encarregado Rep. do Município na vila São Pedro</td><td>97.200,00</td><td>1.166.400,00</td></tr><tr><td>02</td><td>Auxiliar Escritório do Município na vila São Pedro</td><td>55.688,00</td><td>1.336.512,00</td></tr></tbody></table>
+
+TOTAL: ................................................ 22.937.556,00
+
+2.2 – SERVIÇO DE FAZENDA
+
+<table><tbody><tr><td>01</td><td>Chefe do Serviço de Fazenda</td><td>137.700,00</td><td>1.652.400,00</td></tr><tr><td>03</td><td>Auxiliar de Tesouraria</td><td>97.200,00</td><td>3.499.200,00</td></tr><tr><td>01</td><td>Chefe de Cadastro</td><td>137.700,00</td><td>1.652.400,00</td></tr><tr><td>04</td><td>Auxiliar de Cadastro</td><td>97.200,00</td><td>4.665.600,00</td></tr><tr><td>01</td><td>Fiscal Geral</td><td>137.700,00</td><td>1.652.400,00</td></tr><tr><td>01</td><td>Fiscal</td><td>97.200,00</td><td>1.166.400,00</td></tr><tr><td>02</td><td>Fiscal Auxiliar</td><td>63.828,00</td><td>1.531.872,00</td></tr><tr><td>01</td><td>Desenhista</td><td>137.700,00</td><td>1.652.400,00</td></tr><tr><td>02</td><td>Fiscal de Distrito</td><td>50.750,00</td><td>1.218.000,00</td></tr><tr><td>01</td><td>Chefe do SIAT</td><td>137.700,00</td><td>1.652.400,00</td></tr><tr><td>02</td><td>Auxiliar do SIAT</td><td>97.200,00</td><td>2.332.800,00</td></tr></tbody></table>
+
+TOTAL: ................................................ 22.675.872,00
+
+2.3 – SERVIÇO DE CONTABILIDADE
+
+<table><tbody><tr><td>01</td><td>Chefe do Serviço de Contabilidade</td><td>137.700,00</td><td>1.652.400,00</td></tr><tr><td>03</td><td>Auxiliar de Contabilidade</td><td>97.200,00</td><td>3.499.200,00</td></tr></tbody></table>
+
+TOTAL: ................................................ 5.151.600,00
+
+2.4 – SERVIÇO DE EDUCAÇÃO E CULTURA
+
+<table><tbody><tr><td>01</td><td>Inspetor Escolar</td><td>97.200,00</td><td>1.166.400,00</td></tr><tr><td>03</td><td>Diretor de Escolas Municipais</td><td>114.750,00</td><td>4.131.000,00</td></tr><tr><td>01</td><td>Encarregado O.M.E.</td><td>137.700,00</td><td>1.652.400,00</td></tr><tr><td>05</td><td>Auxiliar do O.M.E.</td><td>97.200,00</td><td>5.832.000,00</td></tr><tr><td>01</td><td>Técnico Encarregado do Serv. TV</td><td>55.688,00</td><td>668.256,00</td></tr><tr><td>70</td><td>Professores Municipais com até 2º grau Incompleto</td><td>37.125,00</td><td>31.185.000,00</td></tr><tr><td>30</td><td>Professores Municipais com até 2º grau Completo</td><td>57.375,00</td><td>20.655.000,00</td></tr><tr><td>—</td><td>5.800 horas/aulas de Extensão de Série</td><td>878,00</td><td>5.092.400,00</td></tr><tr><td>10</td><td>Cantineiras das vilas</td><td>33.750,00</td><td>4.050.000,00</td></tr><tr><td>10</td><td>Cantineiras das Escolas Municipais</td><td>19.575,00</td><td>2.349.000,00</td></tr></tbody></table>
+
+TOTAL: ................................................ 76.781.456,00
+
+2.5 – SAÚDE E ASSISTÊNCIA SOCIAL
+
+<table><tbody><tr><td>03</td><td>Auxiliar de Enfermagem nas Vilas e Distrito</td><td>45.000,00</td><td>1.620.000,00</td></tr><tr><td>04</td><td>Auxiliar de Enfermagem na Sede</td><td>55.688,00</td><td>2.673.024,00</td></tr><tr><td>01</td><td>Motorista</td><td>97.200,00</td><td>1.166.400,00</td></tr><tr><td>01</td><td>Parteira</td><td>54.600,00</td><td>655.200,00</td></tr><tr><td>01</td><td>Aposentado</td><td>55.688,00</td><td>668.256,00</td></tr><tr><td>02</td><td>Aposentado</td><td>97.200,00</td><td>2.332.800,00</td></tr><tr><td>06</td><td>Aposentado (Div.)</td><td>37.125,00</td><td>2.227.500,00</td></tr><tr><td>01</td><td>Pensionista</td><td>48.600,00</td><td>583.200,00</td></tr><tr><td>03</td><td>Pensionista (Div.)</td><td>37.125,00</td><td>1.336.500,00</td></tr><tr><td>01</td><td>Assistente Social</td><td>137.700,00</td><td>1.652.400,00</td></tr></tbody></table>
+
+TOTAL: ................................................ 14.915.280,00
+
+2.6 – SERVIÇO DE OBRAS PÚBLICAS
+
+<table><thead><tr><th>Qtde</th><th>Cargo</th><th>Vencimento</th><th>Total Anual</th></tr></thead><tbody><tr><td>01</td><td>Encarregado Geral de Obras</td><td>137.700,00</td><td>1.652.400,00</td></tr><tr><td>02</td><td>Encarregado do Cemitério</td><td>55.688,00</td><td>1.336.512,00</td></tr></tbody></table>
+
+TOTAL: ................................................ 4.155.312,00
+
+2.7 – SERVIÇO MUNICIPAL DE ESTRADAS DE RODAGEM
+
+<table><tbody><tr><td>01</td><td>Encarregado do Serviço de Estradas</td><td>137.700,00</td><td>1.652.400,00</td></tr><tr><td>02</td><td>Operador de Máquinas</td><td>121.500,00</td><td>2.916.000,00</td></tr><tr><td>02</td><td>Auxiliar de Operador de Máquinas</td><td>97.200,00</td><td>2.332.800,00</td></tr><tr><td>08</td><td>Motorista</td><td>97.200,00</td><td>9.331.200,00</td></tr><tr><td>06</td><td>Barqueiros</td><td>74.670,00</td><td>5.376.240,00</td></tr><tr><td>01 </td><td>Mecânico</td><td>97.200,00</td><td>1.166.400,00</td></tr></tbody></table>
+
+TOTAL .......................................................... 22.775.040,00
+
+TOTAL GERAL .............................................. 174.900.656,00
+
+
+Art. 2º.
+
+Aos cargos de Chefia será concedido um aumento de 50% de seus vencimentos, a título de Comissão.
+
+
+Art. 3º.
+
+Fica autorizado aumentar os vencimentos dos funcionários independentemente de nova Lei, com base nos índices Nacionais para a matéria, quando o Chefe do Executivo julgar necessário para cobrir defasagem salarial.
+
+
+Art. 4º.
+
+Os Operários braçais, perceberão 1, 1/2 (hum e meio) salário mínimo do estabelecido pela Lei Federal ou na sua extinção, o que vier a ser criado.
+
+
+Art. 5º.
+
+Fica estabelecido o valor de Cz$ 1.000,00 (Hum mil cruzados), o abono família por dependente, sendo observada a Legislação que rege a matéria para os funcionários do Município.
+
+
+Art. 6º.
+
+Todos os cargos ainda não criados e que constam desta Lei, ficam por esta criados, ficando automaticamente extintos os cargos anteriormente criados, mas que não constam desta Lei.
+
+
+Art. 7º.
+
+Fica o Executivo Municipal autorizado a conceder subvenções e auxílio eventuais em geral até o limite das respectivas dotações Orçamentárias e eventuais créditos adicionais autorizados, mediante observância da Lei Municipal reguladora da espécie e lavratura de competente Decreto Executivo de distribuição.
+
+
+Art. 8º.
+
+Revogadas as disposições em contrário, esta Lei entrará em vigor em 01 (primeiro) de Janeiro de 1.989.
+
+
+Prefeitura Municipal de Buritis, 08 de Novembro de 1.988.
+
+**Adair Francisco de Oliveira**
+
+**Prefeito**
+

@@ -1,0 +1,137 @@
+---
+titulo: "Lei Ordinária Municipal nº 1.885, de 11 de outubro de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "1885"
+data: "2021-10-11"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/512"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/164/text"
+sha256_fonte: "7911b0fb07f53c80810b9f7d71d9574db7959cab2f8b67fec1c27b15f1ecb46a"
+sha256_texto: "4e5e918bba548e360c4a8d39ceb1a6f3d6808c5a77f5aecd1e4186700bf060e9"
+capturado_em_fonte: "2026-10-27T22:26:12.329971-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 1.885, de 11 de outubro de 2021
+
+Autoriza o poder executivo municipal a proceder a realização de Processo Seletivo Simplificado – PSS, visando à contratação de profissionais enfermeiros para a área de saúde, para atender à necessidade temporária de excepcional interesse público.
+
+
+A CÂMARA DE VEREADORES DO MUNICÍPIO DE CALIFÓRNIA, ESTADO DO PARANÁ, APROVOU E EU, PREFEITO, SANCIONO A SEGUINTE: LEI:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a proceder à realização de Processo Seletivo Simplificado – PSS, com fulcro nos preceitos do art. 37, inciso IX, da Constituição Federal, Lei Municipal nº. 1.127/2007, Lei Municipal nº 1.128/2007 e alterações posteriores, para a contratação, por tempo determinado, de profissionais da área da saúde, na forma do que se segue:
+
+<table><tbody><tr><td><p><strong>Cargo</strong></p></td><td><p><strong>Nível de Formação</strong></p></td><td><p><strong>Nº de vagas</strong></p></td><td><p><strong>Carga horária semanal</strong></p></td><td><p><strong>Vencimento</strong></p></td></tr><tr><td><p>Enfermeiro (a)</p></td><td><p>Superior Completo</p></td><td><p>02</p></td><td><p>40h</p></td><td><p>R$ 3.591,69</p></td></tr></tbody></table>
+
+
+§ 1º
+
+Os cargos previstos nos termos do caput deste artigo, integrarão quadro específico e distinto para todos os efeitos legais, do quadro permanente de pessoal do Poder Executivo Municipal, os quais serão regidos pela CLT - Consolidação das Leis do Trabalho, e destinados exclusivamente a atender à demanda temporária da área de saúde do Município.
+
+
+§ 2º
+
+O provimento dos referidos cargos, será precedido de Processo de Seleção Simplificada, conforme sua natureza, complexidade e requisitos próprios, mediante o atendimento de condições estabelecidas no respectivo Edital.
+
+
+Art. 2º.
+
+Os contratos de trabalho celebrados com fundamento na presente Lei vigorarão pelo prazo de 1 (um) ano, à Administração Pública, em persistindo o interesse público, prorrogá-los por igual período, cuja rescisão antecipada dar-se-á somente nos seguintes casos:
+
+
+I –
+
+prática de falta grave, dentre as enumeradas no artigo 482 da Consolidação das Leis do Trabalho (CLT), apurada em procedimento administrativo;
+
+
+II –
+
+acumulação ilegal de cargos, empregos ou funções públicas;
+
+
+III –
+
+necessidade de redução de quadro de pessoal, por excesso de despesa, nos termos da Lei Complementar Federal nº 101/2000;
+
+
+IV –
+
+insuficiência de desempenho, apurada em procedimento no qual se assegurem pelo menos um recurso hierárquico dotado de efeito suspensivo, que será apreciado em trinta dias;
+
+
+V –
+
+extinção dos programas federais e estaduais implementados mediante convênio ou ajustes similares, e que originaram as respectivas contratações.
+
+
+Art. 3º.
+
+O recrutamento do pessoal a ser contratado, nos termos desta Lei, será feito mediante processo seletivo simplificado sujeito a ampla divulgação, inclusive através do Órgão Oficial de Publicação do Município.
+
+
+§ 1º
+
+O processo seletivo simplificado consistirá em umas das opções:
+
+
+I –
+
+somente em prova escrita;
+
+
+II –
+
+em prova de títulos;
+
+
+III –
+
+em prova escrita e prova de títulos; referentes à escolaridade, tempo de serviço e aperfeiçoamento profissional, levando-se em consideração as especificações de cada cargo ofertado, a serem definidas no Edital de convocação.
+
+
+§ 2º
+
+O processo seletivo simplificado deverá atender, ao menos, aos seguintes pressupostos mínimos de validade:
+
+
+I –
+
+estabelecimento de critérios objetivos de julgamento e avaliação, a serem estabelecidos no Edital de convocação;
+
+
+II –
+
+inexistência de critérios que dificultem a recorribilidade das decisões da comissão de avaliação e julgamento, por parte dos candidatos, bem como pelo controle externo e social;
+
+
+III –
+
+vinculação às regras do edital e à classificação final do certame.
+
+
+§ 3º
+
+O processo seletivo simplificado terá organização realizada por Comissão própria do Município, a ser designada através de Decreto Municipal.
+
+
+Art. 4º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Edifício da Prefeitura do Município de Califórnia, aos 11 de outubro de 2021.
+
+***PAULO WILSON MENDES***
+
+Prefeito
+

@@ -1,0 +1,70 @@
+---
+titulo: "Lei Ordinária nº 45, de 15 de abril de 1974"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "45"
+data: "1974-04-15"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/368"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/883/text"
+sha256_fonte: "d23894876a7b1fa3ba1a509c1323cda63dc096dbdb7f4eb85ea8ac6d67b51513"
+sha256_texto: "2351dc7bc77fa5ca080902b747ed3e226b4d39aa2300493cdc4d1dd427b9f3a4"
+capturado_em_fonte: "2026-10-27T22:05:15.754046-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 45, de 15 de abril de 1974
+
+Dispõe sobre o funcionamento dos estabelecimentos comerciais, industriais e de prestação de serviços.
+
+
+O Prefeito Municipal de Caçu: Faço saber que a Câmara Municipal de Caçu, Estado de Goiás, aprovou e eu sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Os estabelecimentos de comércio, indústria e prestação de serviços, no Município de Caçu, ressalvados os casos dos artigos 2º e 3º desta lei, funcionarão das 6 às 18 horas, de segunda-feira a sábado e das 6 às 12 horas, nos domingos.
+
+
+Art. 2º.
+
+Poderão funcionar diariamente, das 6 às 23 horas, os bares, confeitarias, açougues, frutarias, barbearias institutos de beleza e similares.
+
+
+Parágrafo único
+
+Não se incluirão neste artigo os estabelecimentos comerciais com atividades simultâneas do bar e armazém, os quais ficarão sujeitos ao disposto no artigo 1º.
+
+
+Art. 3º.
+
+Os hospitais, farmácias, hotéis, pensões, restaurantes, panifcadoras, postos de serviços de veículos e outros estabelecimentos congêneres funcionarão livremente, nos dias e horários determinados pelos seus proprietários ou administradores.
+
+
+Art. 4º.
+
+Ficarão sujeitos às comunicações legais os infratores das disposições da presente lei.
+
+
+Art. 5º.
+
+Esta lei entrará em vigor 30 dias após a sua publicação.
+
+
+Art. 6º.
+
+Revogam-se as disposições em contrário, especialmente a Lei nº 12, de 26 de junho de 1973.
+
+
+Prefeitura Municipal de Caçu, Estado de Goiás, em 15 de abril de 1974.
+
+
+**Noé Nunes Guimarães**  
+\- Prefeito Municipal -
+

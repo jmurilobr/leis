@@ -1,0 +1,279 @@
+---
+titulo: "Lei Complementar nº 167, de 01 de agosto de 2023"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "167"
+data: "2023-08-01"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/2178"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/2329/text"
+sha256_fonte: "a0e45ea3bf4ac2703f8fe19e7402d26d5fd595e519221532d75de83440758396"
+sha256_texto: "0214c477dce578dca13363d39bed9ec29a84c3c9f8cc6d532f23fae09d82e248"
+capturado_em_fonte: "2026-10-27T19:46:14.206184-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 167, de 01 de agosto de 2023
+
+Cria Plano de Estímulos e Incentivos aos Empreendimentos Habitacionais Populares no âmbito do Programa "Minha Casa, Minha Vida" e da outras providências.
+
+
+O Prefeito Municipal de Buritis - MG, no uso de suas atribuições que lhe confere o artigo 105, inciso VIII da Lei Orgânica do Município, faz saber que a Câmara Municipal decreta e ele sanciona a seguinte lei complementar:
+
+
+Art. 1º.
+
+Fica instituído no âmbito do Município de Buritis, Estado de Minas Gerais, o Plano de Estímulos e Incentivos aos Empreendimentos Habitacionais Populares no âmbito do Programa "Minha Casa, Minha Vida".
+
+
+Parágrafo único
+
+O Plano de Estímulos e Incentivos tem por finalidade promover o direito à moradia de famílias, associado ao desenvolvimento urbano e econômico, à geração de trabalho e de renda e à elevação dos padrões de habitualidade e de qualidade de vida da população.
+
+
+Art. 2º.
+
+São objetivos do Plano:
+
+
+I –
+
+reduzir o déficit habitacional da população de baixa renda;
+
+
+II –
+
+fomentar a participação da iniciativa privada, na execução de empreendimentos destinados a empreendimentos habitacionais no Município;
+
+
+III –
+
+ampliar a oferta de moradias para atender às necessidades habitacionais da população de baixa renda.
+
+
+#### CAPÍTULO II — DA RENDA FAMILIAR
+
+
+Art. 3º.
+
+Os empreendimentos habitacionais Populares visam atender famílias residentes em áreas urbanas com renda bruta familiar mensal de até R$ 8.000,00 (oito mil reais) consideradas as seguintes faixas:
+
+
+I –
+
+Faixa Urbano 1 - renda bruta mensal até R$ 2.640,00 (dois mil seiscentos e quarenta reais);
+
+
+II –
+
+Faixa Urbano 2 - renda bruta familiar mensal de R$2.640,01 (dois mil seiscentos e quarenta reais e um centavo) até R$ 4.400,00 (quatro mil e quatrocentos reais); e
+
+
+III –
+
+Faixa Urbano 3 - renda bruta familiar mensal de R$ 4.400,01 (quatro mil е quatrocentos reais e um centavo) até R$ 8.000,00 (oito mil reais).
+
+
+§ 1º
+
+Para fins de enquadramento nas faixas de renda, o cálculo do valor de renda bruta familiar não deve considerar os benefícios temporários de natureza indenizatória, assistencial ou previdenciária, como auxílio-doença, auxílio-acidente, seguro-desemprego, Benefício de Prestação Continuada - BPC e benefício do Programa Bolsa Família, ou outros que vierem a substituí-los.
+
+
+§ 2º
+
+Os valores podem ser alterados por ato do Executivo, em conformidade com os valores fixados pelo Governo Federal.
+
+
+#### CAPÍTULO III — DAS FAMÍLIAS ATENDIDAS
+
+
+Art. 4º.
+
+Os empreendimentos habitacionais populares devem priorizar as famílias:
+
+
+I –
+
+que tenham a mulher como responsável pela unidade familiar;
+
+
+II –
+
+de que façam parte:
+
+
+a)
+
+Pessoas com deficiência, conforme o disposto na Lei nº 13.146, de 6 de julho de 2015;
+
+
+b)
+
+Pessoas idosas, conforme o disposto na Lei nº 10.741, de 1º de outubro de 2003; e
+
+
+c)
+
+Crianças ou adolescentes, conforme o disposto na Lei nº 8.069, de 13 de julho de 1990;
+
+
+III –
+
+em situação de risco e vulnerabilidade;
+
+
+IV –
+
+em situação de emergência ou calamidade;
+
+
+V –
+
+em deslocamento involuntário em razão de obras públicas; e
+
+
+VI –
+
+em situação de rua.
+
+
+Parágrafo único
+
+De forma complementar, devem ser observadas outras prioridades sociais estabelecidas em leis específicas ou compatíveis com as linhas de atendimento do Programa, como a Lei nº 12.288, de 20 de julho de 2010, entre outras.
+
+
+#### CAPÍTULO IV — DOS ESTÍMULOS E INCENTIVOS
+
+
+Art. 5º.
+
+Os Estímulos e Incentivos de que trata esta Lei compreende:
+
+
+I –
+
+Isenção total ou parcial dos seguintes tributos:
+
+
+a)
+
+Taxas incidentes sobre a expedição de diretrizes urbanísticas, análises, aprovações e conclusão;
+
+
+b)
+
+A primeira incidência do Imposto sobre Transmissão de Bens Imóveis por Ato Oneroso Inter vivos - ITBI, específica e exclusivamente sobre as transmissões de propriedade imobiliária que vierem a integrar o PMCMV - Programa Minha Casa Minha Vida;
+
+
+c)
+
+Imposto sobre transmissão de Bens Imóveis por Ato Oneroso Inter vivos - ITBІ referente à aquisição da gleba pelo empreendedor a ser utilizada exclusivamente para o PMCMV - Programa Minha Casa Minha Vida;
+
+
+d)
+
+ISSQN - Imposto Sobre Serviços de Qualquer Natureza, incidente sobre a execução por administração, empreitada ou subempreitada de construção civil, de obras hidráulicas e outras obras semelhantes e respectivas engenharias consultivas, inclusive serviços auxiliares ou complementares, típicos da construção civil, a reparação, conservação, reforma e demolição de edifícios, prestados diretamente para implantação de parcelamento do solo e/ou de unidades acabadas unifamiliares ou multifamiliares.
+
+
+e)
+
+IPTU- Imposto sobre a Propriedade Predial e Territorial Urbana.
+
+
+II –
+
+através de órgãos da administração, executar obras de infraestrutura básica e/ou complementares.
+
+
+Parágrafo único
+
+A concessão dos Estímulos e Incentivos deste artigo depende do grau de investimento e número de famílias atendidas, conforme regulamento, vedada a adoção de critérios subjetivos.
+
+
+##### Seção I — Faixa 1
+
+
+Art. 6º.
+
+Faixa Urbano 1 - renda bruta mensal até R$ 2.640,00 (dois mil seiscentos e quarenta reais), podem ser concedidos todos os estímulos e incentivos descritos no artigo 5º.
+
+
+§ 1º
+
+O empreendimento habitacional enquadrado na faixa 1 é destinado às famílias que comprovem residir no município há mais de 5 (cinco) anos.
+
+
+§ 2º
+
+O Município pode doar às famílias beneficiadas materiais para construção de muro de divisa.
+
+
+##### Seção II — Faixa 2
+
+
+Art. 7º.
+
+Faixa Urbano 2 - renda bruta familiar mensal de R$2.640,01 (dois mil seiscentos e quarenta reais e um centavo) até R$ 4.400,00 (quatro mil e quatrocentos reais) podem ser concedidos todos os estímulos e incentivos descritos no artigo 5º.
+
+
+Parágrafo único
+
+O empreendimento habitacional enquadrado na faixa 2 é destinado às famílias que comprovem residir no município há mais de 5 (cinco) anos.
+
+
+##### Seção III — Faixa 3
+
+
+Art. 8º.
+
+Faixa Urbano 3 - renda bruta familiar mensal de R$ 4.400,01 (quatro mil e quatrocentos reais e um centavo) até R$ 8.000,00 (oito mil reais) podem ser concedidos os estímulos e incentivos previstos no inciso I, alíneas "a", "c" e "d" do artigo 5º ео IPTU - Imposto sobre a Propriedade Predial e Territorial Urbana conforme o Código Tributário Municipal.
+
+
+#### CAPÍTULO V — DISPOSIÇÃO FINAIS
+
+
+Art. 9º.
+
+Os empreendimentos e edificações devem observar as leis urbanísticas do município.
+
+
+Art. 10.
+
+O empreendedor deve destinar área de uso misto em conformidade com legislação de Parcelamento do Solo.
+
+
+Art. 11.
+
+Os interessados em implantar empreendimentos enquadrados nesta Lei devem protocolar solicitação de diretrizes urbanísticas para análise e caracterização de Zona de Interesse Social - ZEIS.
+
+
+Art. 12.
+
+Os empreendimentos enquadrados nas Faixas 1 e 2 ficam dispensados da cobrança de quaisquer medidas compensatórias.
+
+
+Art. 13.
+
+Fica vedada a transferência das obrigações assumidas pelo empreendedor a terceiros.
+
+
+Art. 14.
+
+Esta Lei entra em vigor na data de sua publicação, revogando a Lei Complementar nº 101 de 15 de abril de 2.014.
+
+
+Art. 15.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**Dr. Keny Soares Rodrigues Prefeito Municipal**
+
+Referente a Proposição de Lei Complementar 07/23, de autoria Executivo Municipal
+

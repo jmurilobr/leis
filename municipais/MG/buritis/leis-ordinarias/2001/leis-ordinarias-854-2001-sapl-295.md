@@ -1,0 +1,200 @@
+---
+titulo: "Lei nº 854, de 11 de junho de 2001"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "854"
+data: "2001-06-11"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/295"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/576/text"
+sha256_fonte: "f9f0159c58fa5db953d07ab2ace0e183dcb1eef6b722287eae76c57bba311c8a"
+sha256_texto: "021a1289f6a9b047aef93ea18b94c0693301ad649a09c56679c13aa17777c4a8"
+capturado_em_fonte: "2026-10-27T20:22:33.526170-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 854, de 11 de junho de 2001
+
+Institui o Programa de Garantia de Renda Mínima associado a ações sócio-educativas, e determina outras providências. - "Bolsa-Escola".
+
+
+O povo, por seus representantes aprova e o prefeito municipal sanciona a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído, no âmbito deste Município, o Programa de Garantia de Renda Mínima associado a ações sócio-educativas.
+
+
+§ 1º
+
+São beneficiárias do programa instituído por esta Lei, as famílias com renda familiar per capita de até noventa reais mensais, que possuam sob sua responsabilidade crianças com idade entre seis e quinze anos, matriculados em estabelecimentos de ensino fundamental regular, com frequência escolar igual ou superior a oitenta e cinco por cento.
+
+
+§ 2º
+
+Para os fins do parágrafo anterior, considera-se:
+
+
+I –
+
+família a unidade nuclear, eventualmente ampliada por outros indivíduos que com ela possuam laços de parentesco, que forme um grupo doméstico, vivendo sob o mesmo teto e mantendo sua economia pela contribuição de seus membros;
+
+
+II –
+
+para enquadramento na faixa etária, a idade da criança, em número de anos completados até o primeiro dia do ano no qual se dará a participação financeira da União; e
+
+
+III –
+
+para determinação da renda familiar per capita, a soma dos rendimentos brutos auferidos pela totalidade dos membros da família dividida pelo número de seus membros.
+
+
+§ 3º
+
+O Poder Executivo poderá reajustar o limite de renda per capita fixado no § 1°, desde que atendidas todas as famílias compreendidas na faixa original.
+
+
+Art. 2º.
+
+O programa instituído por esta Lei tem como objetivo incentivar a permanência das crianças beneficiárias na rede escolar de ensino fundamental, por meio de ações sócioeducativas de apoio aos trabalhos escolares, de alimentação e de práticas desportivas e culturais em horário complementar ao das aulas.
+
+
+§ 1º
+
+O Poder Executivo definirá as ações específicas a serem desenvolvidas ou patrocinadas pela municipalidade para atingimento dos objetivos do programa.
+
+
+§ 2º
+
+As despesas decorrentes do disposto no parágrafo anterior correrão à conta dos orçamentos dos órgãos encarregados de sua implementação.
+
+
+Art. 3º.
+
+Fica o Poder Executivo municipal autorizado a formalizar a adesão ao Programa Nacional de Renda Mínima vinculado à educação - "Bolsa Escola", instituído pelo Governo Federal.
+
+
+§ 1º
+
+Fica o Poder Executivo municipal igualmente autorizado a assumir, perante a União, as responsabilidades administrativas e financeiras decorrentes da adesão ao referido programa.
+
+
+§ 2º
+
+.Compete à Secretaria Municipal de Educação, Cultura, Esporte, Lazer e Turismo, desempenhar as funções de responsabilidade do Município em decorrência da adesão ao Programa Nacional de Renda Mínima vinculado à educação - "Bolsa Escola".
+
+
+Art. 4º.
+
+Fica instituído o Conselho de Acompanhamento e Controle Social do Programa de Garantia de Renda Mínima com as seguintes competências:
+
+
+I –
+
+acompanhar e avaliar a execução das ações definidas na forma do § 1º do art. 2°;
+
+
+II –
+
+aprovar a relação de famílias cadastradas pelo Poder Executivo municipal como beneficiárias do programa;
+
+
+III –
+
+aprovar os relatórios trimestrais de frequência escolar das crianças beneficiárias;
+
+
+IV –
+
+estimular a participação comunitária no controle da execução do programa no âmbito municipal;
+
+
+V –
+
+desempenhar as funções reservadas no Regulamento do Programa Nacional de Renda Mínima - "Bolsa-Escola";
+
+
+VI –
+
+elaborar, aprovar e modificar o seu regimento interno; e
+
+
+VII –
+
+exercer outras atribuições estabelecidas em normas complementares.
+
+
+§ 1º
+
+O Conselho instituído nos termos deste artigo terá seis membros titulares e respectivos suplentes, nomeados pelo chefe do Poder Executivo, por indicação das seguintes entidades:
+
+
+I –
+
+Representante da Secretaria Municipal de Educação;
+
+
+II –
+
+Representante da Secretaria Municipal do Trabalho, Assistência Social, Criança e Adolescente;
+
+
+III –
+
+Representante das Igrejas;
+
+
+IV –
+
+Representantes dos Diretores das Escolas Municipais;
+
+
+V –
+
+Representes dos Diretores da Escolas Estaduais;
+
+
+VI –
+
+Representante das Associações Comunitárias
+
+
+§ 2º
+
+O Presidente do Conselho será eleito entre os membros.
+
+
+§ 3º
+
+A participação no conselho instituído nos termos deste artigo não será remunerada, ressalvado o ressarcimento das despesas necessárias à participação nas reuniões.
+
+
+§ 4º
+
+É assegurado ao Conselho de que trata este artigo o acesso a toda a documentação necessária ao exercício de suas competências.
+
+
+Art. 5º.
+
+Esta lei, entra em vigor na data de sua publicação.
+
+
+Art. 6º.
+
+Revogam-se as disposições em contrário.
+
+
+Buritis-MG, 11 de Junho de 2001.
+
+**JOSÉ VICENTE DAMASCENO Prefeito do Município de Buritis**
+
+**Projeto de Lei n° 014/2001. Aprovado por =10= votos a favor e =00=votos contra.Sala das sessões 04/06/2001. Autor: Executivo Municipal.**
+

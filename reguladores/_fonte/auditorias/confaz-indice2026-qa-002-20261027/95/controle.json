@@ -1,0 +1,106 @@
+{
+  "numero_indice": 95,
+  "ano_indice": 2026,
+  "fonte": {
+    "arquivo": "reguladores/_fonte/auditorias/confaz-indice2026-captura-001-20261027/c0417fec73d73f7a3e69312dbfb4d8003c0d4cc19c2e6dd6ae52597fcb3d63bf.html",
+    "metadata": "reguladores/_fonte/auditorias/confaz-indice2026-captura-001-20261027/c0417fec73d73f7a3e69312dbfb4d8003c0d4cc19c2e6dd6ae52597fcb3d63bf.meta.json",
+    "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV095_26",
+    "url_final": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV095_26",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 23:01:30 GMT",
+      "Server": "Zope/(2.13.22, python 2.7.3, linux2) ZServer/1.1",
+      "X-Cache-Operation": "plone.app.caching.moderateCaching",
+      "Content-Language": "pt-br",
+      "Expires": "Sat, 29 Oct 2016 21:05:19 GMT",
+      "Vary": "Accept-Encoding",
+      "X-Ua-Compatible": "IE=edge,chrome=1",
+      "X-Cache-Rule": "plone.content.itemView",
+      "Content-Type": "text/html;charset=utf-8",
+      "Cache-Control": "max-age=0, s-maxage=0, must-revalidate",
+      "X-Varnish": "438134451 438108886",
+      "Via": "1.1 varnish",
+      "X-Cache": "HIT",
+      "X-Varnish-Age": "3371",
+      "Age": "0",
+      "Transfer-Encoding": "chunked"
+    },
+    "categoria": "html",
+    "sha256": "4d6077b8a431715dccf0b6b18feb3c97116d7e5c961fd14d3f32089a86a6922e",
+    "bytes": 108320,
+    "capturado_em_cliente": "2026-10-27T20:01:30.489721-03:00",
+    "inicio_requisicao": "2026-10-27T20:01:29.937451-03:00",
+    "ssl_verify_result": 0,
+    "headers_arquivo": "reguladores/_fonte/auditorias/confaz-indice2026-captura-001-20261027/c0417fec73d73f7a3e69312dbfb4d8003c0d4cc19c2e6dd6ae52597fcb3d63bf.headers",
+    "stderr_arquivo": "reguladores/_fonte/auditorias/confaz-indice2026-captura-001-20261027/c0417fec73d73f7a3e69312dbfb4d8003c0d4cc19c2e6dd6ae52597fcb3d63bf.stderr"
+  },
+  "estado": "representacao_privada_verificada_aguarda_confronto_HEAD",
+  "css": {
+    "css_capturados": [
+      "https://www.confaz.fazenda.gov.br/++theme++custom/css/style.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/base-cachekey-7fe23631c792beb0db30931a4ae02a97.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/confaz-print.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/embedder-cachekey-828ecc01dce09625ab9cacea3089e2ea.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/estilos_leis.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/jquery.autocomplete-cachekey-59fbd2a5fc6773a864adabd685eb1ee4.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/mobile-cachekey-1cc23e6e0f0a9f6be71ec18201c3a16e.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/ploneCustom-cachekey-bde1d13299199e784e65560bebf1e385.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/reset-cachekey-616583c06c3943a72f9f969a1240fbf8.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourceProducts.Doormat.stylesheetsdoormat-cachekey-ab318da4bb3f5c97abc64bb1453da10a.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcebrasil.gov.agendaagenda-cachekey-0b9b457891daf70874b650666229b581.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcebrasil.gov.barracssmain-cachekey-b8678e7b9f5de2c3db8378c7faa229fa.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcebrasil.gov.tilestiles-cachekey-08106e5424b0cd9b17b1c56aa9d8a2c0.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcecalendar_stylescalendar-cachekey-ab87c47333464a5f1d4a22f5f4f9f144.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcecollective.nitfcharcount-cachekey-964c273a546fb8d92d505f365c035a97.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcecollective.uploadcssbootstrap.min-cachekey-f3505dfe9331657bc329aeabdbd210fb.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-b7f1245ffe10632ff3183a40e45e945b.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete-cachekey-8a1ada68d10450ed014103370f01e143.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.querystring.querywidget-cachekey-5ee55ca46052729481269d2ce2efecfe.css"
+    ],
+    "regras_sensiveis": 94,
+    "riscos_aplicaveis": [],
+    "incompletos": [],
+    "criterio": "CSS completos e imports capturados; tinycss2/cssselect2 sobre a árvore HTML5 completa, incluindo ancestrais. Regras sensíveis são conservadoramente retidas; não se infere revogação de todo ato."
+  },
+  "identidade": {
+    "tipo": "Convênio ICMS",
+    "numero": 95,
+    "ano": 2026,
+    "data": "2026-09-04",
+    "epigrafe_normalizada": "CONVENIO ICMS NO 95, DE 4 DE SETEMBRO DE 2026"
+  },
+  "historico_identificado": [],
+  "sha256_campo": "5bf7fe2eaca9db9a2c64cb877c0aeb15001304b5116adb9f8f73ab316043d58c",
+  "sha256_representacao": "5bf7fe2eaca9db9a2c64cb877c0aeb15001304b5116adb9f8f73ab316043d58c",
+  "sha256_visivel": "7a608032c64b375d2f5d21e9844b38ee7af07de0856ebd59cf21cea8f583ae7b",
+  "notas_publicacao_ratificacao_literais": [
+    "Publicado no DOU de 09.09.26, pelo despacho 40/26.",
+    "Ratificação Nacional no DOU de 28.09.26, pelo Ato Declaratório 20/26."
+  ],
+  "condicoes_efeitos_literais": [
+    "Ratificação Nacional no DOU de 28.09.26, pelo Ato Declaratório 20/26.",
+    "“Cláusula primeira O Estado de Alagoas fica autorizado a instituir programa de extinção de créditos tributários relacionados com o Imposto sobre Operações relativas à Circulação de Mercadorias – ICM – e o Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, cujos fatos geradores tenham ocorrido até 30 de abril de 2026, constituídos ou não, inscritos ou não em Dívida Ativa, inclusive objeto de parcelamentos anteriores rescindidos ou ativos, espontaneamente denunciados pelo contribuinte, em discussão administrativa ou judicial, ou ainda proveniente de lançamento de ofício efetuado após a ratificação deste convênio, com redução dos juros, multas e demais acréscimos legais, observadas as condições e limites estabelecidos neste convênio e na legislação estadual, em até 95% (noventa e cinco por cento), observado os seguintes prazos:”;",
+    "Cláusula segunda Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União."
+  ],
+  "links": [
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/despacho/2026/dp040_26",
+      "texto": "40/26"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/atos-declaratorios/2026/ad020_26",
+      "texto": "20/26"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV113_22",
+      "texto": "Convênio ICMS nº 113, de 11 de julho de 2022"
+    }
+  ],
+  "prova": {
+    "dom_textual_atributos_preservados": true,
+    "texto_visivel_integral": true,
+    "assinatura_numerica": true,
+    "matrizes_html5": true
+  },
+  "versao": "Texto e notas oficiais do portal CONFAZ conforme a captura; não se afirma vigência ou edição original imutável."
+}

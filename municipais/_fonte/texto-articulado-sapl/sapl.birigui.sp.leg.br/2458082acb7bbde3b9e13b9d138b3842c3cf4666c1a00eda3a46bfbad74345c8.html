@@ -1,0 +1,925 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>SAPL - Câmara Municipal de Birigüi - SP</title>
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Câmara Municipal de Birigüi - SP",
+      "url" : "http://sapl.birigui.sp.leg.br"
+    }
+  </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#343a40">
+
+    
+      <link rel="icon" href="/static/sapl/frontend/img/favicon.ico"  type="image/png">
+      
+    
+        
+        <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/global.042f6737.css" rel="stylesheet" />
+      
+    <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/compilacao.0baf3580.css" rel="stylesheet" />
+
+
+      
+      
+
+    
+  </head>
+
+  <body>
+    <div class="page fadein">
+
+      
+        <div class="info-atualizacao hidden-print" style="background-color:#0d2b45;color:#fff;text-align:center;padding:6px 12px;font-size:14px;font-weight:600;">
+          Informações foram atualizadas em
+          27/10/2026
+        </div>
+      
+
+      
+        
+          
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+              <div class="container">
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+
+                   
+
+
+  <ul class="navbar-nav">
+    
+      
+        
+          <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Institucional
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/mesa-diretora/">Mesa Diretora</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bancada/">Bancadas Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bloco/">Blocos Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/comissao/">Comissões</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/frente/">Frentes</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/parlamentar/">Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/audiencia/">Audiências Públicas</a></li>
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Atividade Legislativa
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/materia/pesquisar-materia">Matérias Legislativas</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pauta-sessao">Pautas das Sessões</a></li>
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/relatorios/">Relatórios</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pesquisar-sessao">Sessões Plenárias</a></li>
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Normas Jurídicas
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/norma/pesquisar">Pesquisar Normas Jurídicas</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+  </ul>
+
+ 
+
+                  <ul class="nav navbar-nav justify-content-end" id="autenticacao">
+                    <li class="nav-item dropdown pesquisa">
+                      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="/static/sapl/frontend/img/search.png"><span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li class="dropdown-item">
+                            <form id="formulario-lexml" class="navbar-form search-form" method="get" action="">
+                              <input id="input-lexml" type="text" class="form-control" placeholder="Pesquisar no LexML" />
+                            </form>
+                          </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link"href="/sistema/ajuda"><img src="/static/sapl/frontend/img/manual.png"></a></li>
+                    
+                      <li class="nav-item"><a class="nav-link" href="/login/"><img src="/static/sapl/frontend/img/user.png"></a></li>
+                    
+                  </ul>
+
+                </div><!--/.nav-collapse -->
+              </div>
+            </nav>
+          
+        
+      
+      
+        
+        
+        <header class="masthead">
+          <div class="container">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/">
+                <img src="/media/sapl/public/casa/logotipo/logo_casa.png"
+                alt="Logo" class="img-responsive" >
+                <span class="vcenter">Câmara Municipal de Birigüi - SP
+                  <br/><small>Sistema de Apoio ao Processo Legislativo</small>
+                </span>
+              </a>
+            </div>
+            <div class="hidden-print">
+              
+  
+
+
+  <ul class="nav nav-tabs justify-content-end">
+    
+      <li class="nav-item">
+        
+          <a class="nav-link" href="/norma/8425?display" title="Dados Complementares ">Dados Complementares </a>
+        
+      </li>
+      
+        <li class="nav-item"><a class="nav-link" href="/ta/3612/publicacao">Publicações</a></li>
+      
+      
+      
+      
+    
+  </ul>
+
+
+            </div>
+          </div>
+        </header>
+        
+      
+
+      
+      
+        <main id="content" class="content page__row">
+          <div class="container">
+
+            
+            
+
+            
+            
+              <div class="clearfix">
+
+                
+
+
+
+                
+
+                
+                  <h1 class="page-header">
+                    
+                      Lei Ordinária nº 7.642, de 11 de março de 2026
+                    
+                  </h1>
+                
+
+              </div>
+            
+
+            
+            <div id="app"></div>
+
+            
+            
+
+  
+    
+    <div class="context-actions d-flex justify-content-between mb-4">
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+    </div>
+  
+  
+
+
+  
+   
+    <fieldset class="hidden-print">
+        <legend>Identificação Básica</legend>
+        <div class="row">
+          <div class="col-md-3">
+            <div id="div_id_tipo" class="holder">
+              <label>Tipo de Texto Articulado</label>
+              <p>Norma Jurídica</p>
+            </div>
+          </div>
+
+          
+            <div class="col-md-3">
+              <div id="div_id_tipo" class="holder">
+                <label>Tipo da Norma Jurídica</label>
+                <p>Lei Ordinária</p>
+              </div>
+            </div>
+          
+
+          <div class="col-md-2">
+            <div id="div_id_numero" class="holder">
+              <label>Número</label>
+              <p>7642</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_ano" class="holder">
+              <label>Ano</label>
+              <p>2026</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_data" class="holder">
+              <label>Data</label>
+              <p>11 de Março de 2026</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div id="div_id_ementa" class="holder">
+              <label>Ementa</label>
+              <p>DISPÕE SOBRE A POSSIBILIDADE DE CONVERSÃO DO PAGAMENTO DE MULTAS DE TRÂNSITO DE NATUREZA LEVE, APLICADAS PELO MUNICÍPIO DE BIRIGUI, EM DOAÇÃO DE SANGUE E DE MEDULA ÓSSEA.</p>
+            </div>
+          </div>
+        </div>
+    </fieldset>
+  
+  
+
+
+  
+      
+        <div class="actions btn-group" role="group">
+            
+            <a href="/ta/3612/text?print" class="btn btn-outline-primary" id="btn_impressao">Preparar para impressão</a>
+        </div>
+      
+
+      <div class="actions btn-group float-right" role="group">
+        <a class="btn btn-outline-primary" id="btn_font_menos" title="Diminuir tamanho da letra">a</a>
+        <a class="btn btn-outline-primary" id="btn_font_mais"  title="Aumentar tamanho da Letra">A</a>
+      </div>
+  
+
+  
+    
+
+
+
+<div class="row py-4">
+    
+      
+
+      
+
+      
+  
+
+</div>
+
+  
+
+  
+
+
+
+<div class="cp">
+  
+  <div class="d-none tipo-vigencias fixed-bottom justify-content-center">
+    <div class="btn-group btn-group-sm">
+      <a class="btn btn-primary active" onclick="textoMultiVigente(this, false);" title="Texto Compilado Sequencial">TMS</a>
+      <a class="btn btn-primary" onclick="textoMultiVigente(this, true);" title="Texto Compilado Integrado com Realce de Alterações">TMI</a>
+      <a class="btn btn-primary"  onclick="textoMultiVigente(this, false); textoVigente(this, true);" title="Texto Vigente COM Links para Textos Alteradores">TVL</a>
+      <a class="btn btn-primary"  onclick="textoVigente(this, false);" title="Texto Vigente">TVT</a>
+      <a class="btn btn-primary"  onclick="textoVigenteSemRevogados(this, false);" title="Texto Vigente Sem Dispositivos Revogados">TVR</a>
+    </div>
+  </div>
+
+  
+
+
+
+
+
+  
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt91855" ><div class="dtxt" id="d91855" pks="" pk="91855"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="ementa  "><div class="dptt "  id="dptt91856" ><a class="dpt-link" name="91856" title="91856"></a><div class="dtxt" id="d91856" pks="" pk="91856">DISPÕE SOBRE A POSSIBILIDADE DE CONVERSÃO DO PAGAMENTO DE MULTAS DE TRÂNSITO DE NATUREZA LEVE, APLICADAS PELO MUNICÍPIO DE BIRIGUI, EM DOAÇÃO DE SANGUE E DE MEDULA ÓSSEA.
+<br>Projeto de Lei nº 165/2025, de autoria do Vereador Paulo Sergio de Oliveira.</div></div><div class="dn" id="dn91856" pk="91856"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt91857" ><a class="dpt-link" name="91857" title="91857"></a><div class="dtxt" id="d91857" pks="" pk="91857"><p><b>A CÂMARA MUNICIPAL DE BIRIGUI DECRETA:</b></p><br></div></div><div class="dn" id="dn91857" pk="91857"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt91858" ><div class="dtxt" id="d91858" pks="" pk="91858"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt91859" ><div class="dtxt" id="d91859" pks="" pk="91859"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt91860" ><a class="dpt-link" name="91860">Art. 1º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d91860" pks="" pk="91860">Fica estabelecida, no âmbito do Município de
+Birigui, a possibilidade de conversão do pagamento de
+multas de trânsito de natureza leve, impostas pela
+autoridade de trânsito municipal, em doação de sangue ou
+de medula óssea unidades oficiais de hemoterapia, nos
+termos desta Lei.</div></div><div class="dn" id="dn91860" pk="91860"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt91876" ><a class="dpt-link" name="91876" title="91876">Parágrafo único </a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d91876" pks="" pk="91876">O <i lang="la">caput</i> desse artigo não será aplicado às multas decorrentes de infração cometida por veículo licenciado em outro Estado.</div></div><div class="dn" id="dn91876" pk="91876"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt91861" ><div class="dtxt" id="d91861" pks="" pk="91861"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt91862" ><a class="dpt-link" name="91862">Art. 2º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d91862" pks="" pk="91862">O direito previsto nesta Lei será facultativo,
+cabendo ao condutor optar entre a doação de sangue, a
+doação de medula óssea ou o pagamento tradicional da multa.</div></div><div class="dn" id="dn91862" pk="91862"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt91863" ><div class="dtxt" id="d91863" pks="" pk="91863"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt91864" ><a class="dpt-link" name="91864">Art. 3º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d91864" pks="" pk="91864">Caberá à autoridade de trânsito do Município de
+Birigui informar as infrações leves conforme CTB (Código de
+Trânsito Brasileiro), que poderão ser sanadas mediante
+doação de sangue ou de medula óssea, observando
+critérios técnicos e legais, limitadas a 2 (duas) por ano, para
+cada condutor.</div></div><div class="dn" id="dn91864" pk="91864"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt91865" ><div class="dtxt" id="d91865" pks="" pk="91865"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt91866" ><a class="dpt-link" name="91866">Art. 4º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d91866" pks="" pk="91866">O condutor, munido do comprovante de doação
+de sangue ou de medula óssea, deverá dirigir-se ao órgão
+competente para solicitar a conversão da penalidade,
+conforme previsto nesta Lei.</div></div><div class="dn" id="dn91866" pk="91866"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt indent " nivel="2">
+    
+
+    <div class="paragrafo indent  "><div class="dptt "  id="dptt91867" ><a class="dpt-link" name="91867" title="91867">Parágrafo único </a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d91867" pks="" pk="91867">O comprovante de doação deverá ser
+emitido no ato da doação e conter as seguintes
+informações: nome completo do doador, CPF, data da
+doação, identificação da unidade de hemoterapia ou de
+medula óssea, carimbo oficial e assinatura do responsável
+técnico.</div></div><div class="dn" id="dn91867" pk="91867"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt91868" ><div class="dtxt" id="d91868" pks="" pk="91868"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt91869" ><a class="dpt-link" name="91869">Art. 5º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d91869" pks="" pk="91869">O não cumprimento das exigências
+estabelecidas pela autoridade municipal de trânsito
+implicará a perda do direito à conversão da penalidade,
+devendo o infrator quitar a multa conforme os meios
+previstos na legislação vigente.</div></div><div class="dn" id="dn91869" pk="91869"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt91870" ><div class="dtxt" id="d91870" pks="" pk="91870"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt91871" ><a class="dpt-link" name="91871">Art. 6º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d91871" pks="" pk="91871">Esta Lei trata exclusivamente da competência
+do Município de Birigui, não interferindo nas sanções de
+trânsito impostas pelo Estado ou pelo Governo Federal. O
+pagamento de multas de trânsito de competência estadual
+ou federal não será passível de conversão conforme
+disposto nesta Lei.</div></div><div class="dn" id="dn91871" pk="91871"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt91872" ><div class="dtxt" id="d91872" pks="" pk="91872"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt91873" ><a class="dpt-link" name="91873">Art. 7º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d91873" pks="" pk="91873">Esta Lei entra em vigor após decorridos 60
+(sessenta) dias de sua publicação oficial.</div></div><div class="dn" id="dn91873" pk="91873"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt91874" ><div class="dtxt" id="d91874" pks="" pk="91874"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt91875" ><a class="dpt-link" name="91875" title="91875"></a><div class="dtxt" id="d91875" pks="" pk="91875"><p><br>Câmara Municipal de Birigui, onze de março de dois mil e vinte e seis.</p><p align="center"><br><b>REGINALDO FERNANDO PEREIRA<br>PRESIDENTE</b><br></p><p><br>Publicada na Secretaria da Câmara Municipal, na data supra, por afixação no local de costume.</p><p align="center"><br><b>MARINEUVA ALVES DE SOUZA<br>DIRETORA-GERAL DA CÂMARA</b><br></p></div></div><div class="dn" id="dn91875" pk="91875"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+
+
+  </div></div>
+
+
+</div>
+
+  <div class="dont-break-out"><p class="MsoNormal" style="margin-bottom: .0001pt; text-align: justify; line-height: normal; background: white;">&nbsp;</p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: justify; line-height: normal; background: white;">&nbsp;</p>
+<p class="MsoNormal" style="margin-bottom: .0001pt; text-align: justify; line-height: normal; background: white;"><strong><span style="font-size: 12.0pt; mso-ascii-font-family: Calibri; mso-fareast-font-family: 'Times New Roman'; mso-hansi-font-family: Calibri; mso-bidi-font-family: Calibri; color: #212529; mso-fareast-language: PT-BR;">Os Textos Articulados tem cunho informativo, educativo, e &eacute; a fonte de publica&ccedil;&atilde;o eletr&ocirc;nica da C&acirc;mara Municipal de Birigui dada sua capacidade de abrang&ecirc;ncia, por&eacute;m, quanto aos textos normativos, n&atilde;o dispensa a consulta aos textos oficiais impressos para a prova da exist&ecirc;ncia de direito, nos termos do art. 376 do C&oacute;digo de Processo Civil.</span></strong></p>
+<p class="MsoNormal" style="text-align: justify; line-height: normal; background: white; margin: 3.0pt 0cm 3.0pt 0cm;"><strong><span style="font-size: 12.0pt; font-family: 'Arial','sans-serif'; mso-fareast-font-family: 'Times New Roman'; color: #aa0000; mso-fareast-language: PT-BR;"><br><span style="color: rgb(0, 0, 0);">ALERTA-SE</span></span></strong><span style="font-size: 12pt; font-family: Arial, 'sans-serif'; color: rgb(0, 0, 0);">, quanto as compila&ccedil;&otilde;es:<br>O&nbsp;<em>Dicion&aacute;rio Jur&iacute;dico Brasileiro Acquaviva</em>&nbsp;define compila&ccedil;&atilde;o de leis como a &ldquo;reuni&atilde;o e sele&ccedil;&atilde;o de textos legais, com o&nbsp;intuito&nbsp;de ordenar tal material. A compila&ccedil;&atilde;o tem por finalidade abreviar e facilitar a consulta &agrave;s fontes de informa&ccedil;&atilde;o legislativa. Na compila&ccedil;&atilde;o, ao contr&aacute;rio do que ocorre na consolida&ccedil;&atilde;o, as normas nem mesmo s&atilde;o reescritas.&rdquo;&nbsp;<br><br><strong>PORTANTO:</strong><br>A Compila&ccedil;&atilde;o de Leis do Munic&iacute;pio de Birigui &eacute; uma iniciativa do Departamento Legislativo da C&acirc;mara Municipal de Birigui, mantida, em respeito &agrave; sociedade e ao seu direito &agrave; transpar&ecirc;ncia, com o fim de contribuir com o moroso processo de pesquisa de leis e suas rela&ccedil;&otilde;es. Assim, dado &agrave;s limita&ccedil;&otilde;es existentes, <strong>a Compila&ccedil;&atilde;o ofertada &eacute; um norte relevante</strong>&nbsp;para constitui&ccedil;&atilde;o de tese jur&iacute;dica mas n&atilde;o resume todo o processo e, n&atilde;o se deve, no est&aacute;gio atual, ser refer&ecirc;ncia &uacute;nica para tal.</span></p></div>
+
+
+
+
+          </div>
+        </main>
+
+      
+
+      
+
+
+      
+      <footer id="footer" class="footer page__row hidden-print">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+
+              <a class="footer__logo" href="#">
+                <a href="http://www.interlegis.leg.br/">
+                  <img src="/static/sapl/frontend/img/logo_interlegis.png" alt="Logo do Interlegis ">
+                </a>
+              </a>
+              <p>
+                <small>
+                  Desenvolvido pelo <a href="http://www.interlegis.leg.br/">Interlegis</a> em software livre e aberto.
+                </small>
+		<span>Release: 3.1.165-RC4</span>
+              </p>
+
+            </div>
+            <div class="col-md-4">
+              <a class="footer__logo" href="#">
+                <img src="/static/sapl/frontend/img/logo_cc.png" alt="Logo do Creative Commons BY SA">
+              </a>
+              <p>
+                <small>
+                  Conteúdo e dados sob licença <a href="https://creativecommons.org">Creative Commons</a> 4.0<br><a href="https://creativecommons.org/licenses/by/4.0/">Atribuir Fonte - Compartilhar Igual</a>
+                </small>
+              </p>
+            </div>
+            <div class="col-md-4">
+              
+              <address>
+                <small>
+                  <strong>
+                    <span class="org">Câmara Municipal de Birigüi - SP</span>
+                  </strong>
+                  <br>
+                  <span class="street-address">Av. Youssef Ismail Mansour, 850</span>
+                  <br>
+                  CEP: <span class="postal-code">16202-484</span>
+                  |
+                  Telefone: <span>(18) 3649-3000</span>
+                  <br>
+                  <small><a href="/api/schema/swagger-ui/">OpenAPI</a></small> |
+                  <a href="https://www.birigui.sp.leg.br/" class="url">Site</a> |
+                  <a href="mailto:portalweb@camarabirigui.sp.gov.br" class="email">Fale Conosco</a>
+                </small>
+              </address>
+              
+
+
+
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    
+
+    <div vw class="enabled btn-vlibras">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+
+    
+
+          
+    
+        
+        <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/global.d557d20c.js" ></script>
+      
+    <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/compilacao.148cb66b.js" ></script>
+
+
+      
+      
+
+      
+
+      <script type="text/javascript" >
+        function inIframe () {
+          try {
+              return window.location !== window.parent.location
+          } catch (e) {
+              return true;
+          }
+        }
+        $(document).ready(function(){
+          let iframe_set_backend = false
+          if (iframe_set_backend && !inIframe() ) {
+            location.href = location.origin + '?iframe=0'
+          }
+
+          var form = document.getElementById("formulario-lexml");
+          $("#input-lexml").change(function(){
+            let value = $("#input-lexml").val();
+            let url = "/sistema/lexml/request_search/xxx/"
+            url = url.replace('xxx', value)
+            form.action = url;
+          });
+
+        });
+      </script>
+
+    
+      <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+      <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+      </script>
+
+      
+    
+
+    
+  </body>
+</html>

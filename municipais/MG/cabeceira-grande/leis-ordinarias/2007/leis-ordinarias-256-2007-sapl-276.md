@@ -1,0 +1,77 @@
+---
+titulo: "LEI ORDINÁRIA nº 256, de 27 de agosto de 2007"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "256"
+data: "2007-08-27"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/276"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/267/text"
+sha256_fonte: "5eaadc59640750d23d6bb94de0d6deee0c2b5645caa146fc00c1fe2ea24d33ca"
+sha256_texto: "89a8323312fbf1a55ffbfe08b11b9349c8c3aada8a4594b466474fcad77c5740"
+capturado_em_fonte: "2026-10-27T20:32:34.410278-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 256, de 27 de agosto de 2007
+
+AUTORIZA O PODER EXECUTIVO A CONTRATAR FINANCIAMENTO JUNTO A UNIÃO, POR MEIO DA CAIXA ECONÔMICA FEDERAL, NA QUALIDADE DE AGENTE FINANCEIRO, A OFERECER GARANTIAS E DÁ OUTRAS PROVIDÊNCIAS CORRELATAS.
+
+
+O PREFEITO DO MUNICÍPIO DE .CABECEIRA GRANDE (MG), faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a contrair e garantir financiamento junto à União, através da Caixa Econômica Federal, até o valor de R$ 216.942,00 (Duzentos e dezesseis mil, novecentos e quarenta e dois reais), obedecidas as demais prescrições legais à contratação de operações da espécie.
+
+
+Parágrafo único
+
+Os recursos resultantes da operação de crédito autorizada neste artigo são provenientes do Banco Interamericano de Desenvolvimento (BID), e serão obrigatoriamente aplicados na execução de projeto integrante do Programa Nacional de Apoio à Gestão Administrativa e Fiscal dos Municípios Brasileiros (PNAFM).
+
+
+Art. 2º.
+
+Para garantia do principal e encargos do financiamento, fica o Poder Executivo autorizado a ceder ou transferir à União, em caráter irrevogável e irretratável, a título pró solvendo, os créditos provenientes das receitas a que se referem os artigos 156, 158 e 159, inciso I, alínea “b”, e § 3º, da Constituição Federal.
+
+
+Parágrafo único
+
+O procedimento autorizado no “caput” deste artigo somente poderá ser adotado na hipótese de inadimplemento, no vencimento, das obrigações pactuadas pelo Poder Executivo, ficando a Caixa Econômica Federal autorizada a requerer, em nome da União, a transferência dos referidos recursos para quitação do débito.
+
+
+Art. 3º.
+
+Os recursos provenientes da operação de crédito serão consignados como receita no Orçamento do Município ou em Créditos Adicionais.
+
+
+Art. 4º.
+
+O Chefe do Poder Executivo fica autorizado a abrir por decreto, o crédito orçamentário especial para inserir no orçamento vigente as dotações necessárias à execução das despesas, bem como a promover as alterações e adequações no Plano Plurianual em vigor.
+
+
+Art. 5º.
+
+O orçamento do Município consignará, anualmente, os recursos necessários ao atendimento da contrapartida financeira do município no Projeto e das despesas relativas à amortização do principal, juros e demais encargos decorrentes da operação de crédito autorizada por esta Lei.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**Cabeceira Grande (MG), 27 de agosto de 2007.**
+
+**Antônio Nazaré Santana Melo**
+
+**Prefeito Municipal**
+
+**"Este texto não substitui o original"**
+

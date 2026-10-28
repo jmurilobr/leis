@@ -1,0 +1,136 @@
+---
+titulo: "Lei Ordinária Municipal nº 1.742, de 14 de dezembro de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "1742"
+data: "2018-12-14"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/347"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/287/text"
+sha256_fonte: "e55d33c1082e942a953006c21f697137ca6b6338f7c67b957a2c7edd879e4ebd"
+sha256_texto: "d02347e428007f876c0a1b7ae4abb1f11b63318e821f68fa876214f85495985e"
+capturado_em_fonte: "2026-10-27T22:31:06.338786-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 1.742, de 14 de dezembro de 2018
+
+AUTORIZA O EXECUTIVO MUNICIPAL A FIRMAR TERMO DE CESSÃO DE USO DE BEM PÚBLICO PARA UTILIZAÇÃO DE IMPLEMENTOS AGRÍCOLAS.
+
+
+A CÂMARA DE VEREADORES DO MUNICÍPIO DE CALIFÓRNIA, ESTADO DO PARANÁ, APROVOU E EU PREFEITO SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica o Executivo Municipal, autorizado a firmar Termo de Concessão de Uso de Bem Público para utilização de Implementos Agrícolas, com a APAC – Associação dos Produtores Agropecuários de Califórnia, inscrita no CNPJ/MF sob Nº 07.594.439/0001-39 com sede na Rua Luiz Gaspareto, s/nº - Núcleo Habitacional Guiomar Rosária de Mattos.
+
+
+Art. 2º.
+
+Os implementos agrícolas de que trata o Artigo 1º, são os representados pelos seguintes itens:
+
+
+a)
+
+01 Tanque resfriador de leite horizontal, novo, em aço inoxidável AISI 304, com programador de limpeza automático e capacidade mínima de 6.000 litros, com mínimo de 02 ordenhas, motor com potência mínima de 04;
+
+
+b)
+
+01 Colhedora de forragens Cremasco Custom 950 C III, 12 facas, bica manual, número de série 5794, cor verde, ano de fabricação 2018;
+
+
+c)
+
+01 Escarificador controle remoto ES5CR, número de série 18/2576, cor vermelho, ano de fabricação 2018;
+
+
+d)
+
+01 Grade Niveladora 36 discos de 18” com pneus novos, cor vermelha, marca Metalfreitas, modelo GNH36X18, ano 2018, série 459;
+
+
+e)
+
+06 Carreta Basculante Hidraulica Met. 5T, com pneus novos, cor azul, marca Metalfreitas, modelo MFME5T, ano 2018, série 276A281.
+
+
+Art. 3º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Edifício da Prefeitura do Município de Califórnia, aos 14 dias do mês de dezembro de 2018.
+
+***PAULO WILSON MENDES***
+
+Prefeito
+
+
+## Anexo I — ANEXO AO PROJETO DE LEI Nº 065/2018
+
+**TERMO DE CONCESSÃO DE USO DE BEM PÚBLICO**
+
+**TERMO DE CONCESSÃO DE USO DE BEM PÚBLICO QUE ENTRE SI CELEBRAM A PREFEITURA DO MUNICIPIO DE CALIFÓRNIA E A A.P.A.C – ASSOCIAÇÃO DOS PRODUTORES AGROPECUÁRIOS DE CALIFÓRNIA, PARA UTILIZAÇÃO DE IMPLEMETOS AGRÍCOLAS.**
+
+Por este instrumento, a **PREFEITURA DO MUNICÍPIO DE CALIFÓRNIA**, Estado do Paraná, inscrita no CNPJ/MF sob nº 75.771.279/0001-06, estabelecida na Rua 17 de Dezembro, nº 149, neste ato legalmente representada pelo Prefeito, Sr. **PAULO WILSON MENDES**, portador da cédula de identidade nº 761.650-3 SSP/PR e inscrito no CPF 045.433.009-04, amparada pela Lei Municipal Nº 1715/2018 de 23/08/2018, publicada no jornal Tribuna do Norte – Edição 8.265 de 24/08/2018, doravante, simplesmente denominada **CONCEDENTE.**
+
+E de outro lado, a **A.P.A.C – ASSOCIAÇÃO DOS PRODUTORES AGROPECUÁRIOS DE CALIFÓRNIA,** inscrita no CNPJ/MF sob Nº 07.594.439/0001-39, com sede na Rua Luiz Gaspareto, s/nº - Núcleo Habitacional Guiomar Rosária de Mattos, reconhecida de Utilidade Pública pela Lei nº 1029/2005, neste ato representada pelo Sr. **JOSÉ PAULO VOLTARELI**, portador da cédula de identidade nº 4.251.585-0 e inscrito no CPF/MF nº 592.336.999-00, doravante, simplesmente denominada **CONCESSIONÁRIA**, mediante as cláusulas e condições seguintes:
+
+**CLÁUSULA PRIMEIRA – DO OBJETO:**
+
+O presente Termo de Concessão de Uso de Bem Público se refere aos bens adquiridos pelo Município de Califórnia, quais sejam, **IMPLEMENTOS AGRÍCOLAS,** representados pelos seguintes itens:
+
+a) 01 Tanque resfriador de leite horizontal, novo, em aço inoxidável AISI 304, com programador de limpeza automático e capacidade mínima de 6.000 litros, com mínimo de 02 ordenhas, motor com potência mínima de 04;
+
+b) 01 Colhedora de forragens Cremasco Custom 950 C III, 12 facas, bica manual, número de série 5794, cor verde, ano de fabricação 2018;
+
+c) 01 Escarificador controle remoto ES5CR, número de série 18/2576, cor vermelho, ano de fabricação 2018;
+
+d) 01 Grade Niveladora 36 discos de 18” com pneus novos, cor vermelha, marca Metalfreitas, modelo GNH36X18, ano 2018, série 459;
+
+e) 06 Carreta Basculante Hidraulica Met. 5T, com pneus novos, cor azul, marca Metalfreitas, modelo MFME5T, ano 2018, série 276A281.
+
+**CLÁUSULA SEGUNDA DAS OBRIGAÇÕES:**
+
+II- **DA CONCESSIONÁRIA** (A.P.A.C)
+
+A) Sustentar e ampliar as metas de atuação em favor do incremento da produção agropecuária do município;
+
+B) Os trabalhos dos Implementos Agrícolas, obrigatoriamente, terão como base de prestação de serviços aos pequenos produtores rurais e à pequena propriedade familiar rural;
+
+C) Adotar todas as medidas necessárias para manter em perfeitas condições de uso e de conservação os Implementos recebidos;
+
+D) Entregar, ao final deste, os implementos em perfeita condições, tais quais as do momento do repasse;
+
+E) Atuar com prioridade no incremento da função social do associativismo, visando atender prioritariamente aos pequenos produtores e as pequenas propriedades familiares rurais.
+
+**CLÁUSULA TERCEIRA DO BEM:**
+
+A **PREFEITURA DO MUNICÍPIO DE CALIFÓRNIA** “Concedente” é detentora do direito da propriedade dos implementos, objetos deste termo, e a **A.P.A.C – ASSOCIAÇÃO DOS PRODUTORES AGROPECUÁRIOS DE CALIFÓRNIA** “Concessionária” somente tem direito de utilização dos mesmos.
+
+Quando houver a necessidade de reparos ou reposição de peças em qualquer dos implementos, estas deverão ser realizados como a maior brevidade, não tendo a Concessionária direito a qualquer ressarcimento financeiro e ou indenização, em qualquer tempo, e de quem quer que seja, das despesas realizadas.
+
+**CLÁUSULA QUARTA – DO PRAZO:**
+
+O prazo de vigência deste TERMO é de 02 anos, contados da data da celebração do mesmo, prorrogável uma vez por igual período.
+
+**CLÁUSULA QUINTA – DA RENÚNCIA OU RESCISÃO:**
+
+Este TERMO poderá ser renunciado ou rescindido a qualquer tempo por iniciativa dos convenientes, com aviso prévio de 30 (trinta) dias, em especial por iniciativa da Concedente, se a Concessionária não cumprir com o previamente estabelecido neste TERMO.
+
+**CLÁUSULA SEXTA – DO FORO:**
+
+Fica eleito o Fórum da Comarca de Marilândia do Sul, Estado do Paraná, para dirimir toda e qualquer dúvida oriunda ou fundada do presente TERMO DE CONCESSÃO DE BEM PÚBLICO.
+
+**CLÁUSULA SÉTIMA - DAS ASSINATURAS:**
+
+E por estarem assim, justas e contratadas, assinam o presente em 03 (três) vias de igual teor e forma, dando tudo por bom, justo e certo, na presença de 02 (duas) testemunhas.
+

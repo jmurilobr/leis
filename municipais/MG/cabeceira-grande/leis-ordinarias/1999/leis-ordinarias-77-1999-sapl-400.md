@@ -1,0 +1,353 @@
+---
+titulo: "LEI ORDINÁRIA nº 77, de 03 de dezembro de 1999"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "77"
+data: "1999-12-03"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/400"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/96/text"
+sha256_fonte: "66efef3c48af863b0e6f17f6427aad4f4a0b182b3babffda9713f6043f52fd57"
+sha256_texto: "cc4175f5b9d93ad26a8c295a3da1c07b091e9281e76634d8219287290ade1b7c"
+capturado_em_fonte: "2026-10-27T20:41:13.125085-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 77, de 03 de dezembro de 1999
+
+DISPÕE SOBRE A FORMA E A APRESENTAÇÃO DOS SÍMBOLOS DO MUNICÍPIO DE CABECEIRA GRANDE E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+**O Prefeito Municipal de Cabeceira Grande, Estado de Minas Gerais,** no uso da atribuição que lhe confere o art. 76, III, da Lei Orgânica do Município, faz saber que a Câmara Municipal decreta e ele, em seu nome, promulga a seguinte Lei:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+São Símbolos do Município de Cabeceira Grande(MG), de conformidade com o disposto no Parágrafo único do art. 1º da Lei Orgânica do Município:
+
+
+I –
+
+o Brasão Municipal;
+
+
+II –
+
+a Bandeira Municipal;
+
+
+III –
+
+o Hino Municipal.
+
+
+#### CAPÍTULO II — DA FORMA DOS SÍMBOLOS MUNICIPAIS
+
+
+##### Seção I — DOS SÍMBOLOS EM GERAL
+
+
+Art. 2º.
+
+Consideram-se padrões dos símbolos do Município de Cabeceira Grande, os exemplares confeccionados nos termos e dispositivos da presente Lei.
+
+
+Art. 3º.
+
+No Gabinete do Prefeito, no Gabinete e Secretaria Geral da Câmara Municipal e no Departamento de Educação e Cultura, serão conservados exemplares-padrões dos símbolos municipais, no sentido de servirem de modelo obrigatório para a respectiva confecção, constituindo-se em elemento de confronto para a comprovação dos exemplares destinados a apresentação, procedamou não de iniciativa particular.
+
+
+Art. 4º.
+
+A confecção da Bandeira Municipal somente será executada mediante determinação dos Poderes Legislativo ou Executivo Municipal e com autorização especial escrita, quando a execução for efetuada por conta de terceiros.
+
+
+§ 1º
+
+De forma idêntica proceder-se-á com o Hino Municipal, cuja autorização deverá conter a assinatura e data do despacho do Prefeito Municipal ou do Presidente da Câmara, ou seus delegados competentes.
+
+
+§ 2º
+
+É vedada a colocação de qualquer indicação sobre a Bandeira e o Brasão Municipal.
+
+
+§ 3º
+
+É proibida a reprodução, tanto do Brasão como da Bandeira Municipal, para servirem de propaganda política ou comercial.
+
+
+Art. 5º.
+
+Em qualquer reprodução feita por conta de terceiros da Bandeira ou do Brasão Municipal, com autorização especial, o beneficiário deverá fazer prova da peça reproduzida, com arquivamento de um exemplar na Secretaria competente da Prefeitura Municipal, que exercerá fiscalização e a observância dos módulos, cores e palavras.
+
+
+Parágrafo único
+
+Não se aplica à Bandeira Municipal a exigência anterior, cuja apresentação será feita após a sua confecção, para simples verificação e registro no livro competente.
+
+
+##### Seção II — DA BANDEIRA MUNICIPAL
+
+
+Art. 6º.
+
+A Bandeira Municipal de Cabeceira Grande será dimensionada conforme determina a Lei Federal nº 5.700, de 01.09.1971, e tem o seu corpo dividido em 4 (quatro) campos assim descritos:
+
+
+§ 1º
+
+Três faixas horizontais que tem os seguintes significados:
+
+
+I –
+
+superior em vermelho simbolizando a cor natural da terra da região;
+
+
+II –
+
+centro azul, simbolizando o córrego que deu origem ao nome do Município;
+
+
+III –
+
+inferior verde, simboliza os campos no período de germinação da cultura e das matas;
+
+
+IV –
+
+à destra temos um triângulo obtuso com o lado maior na vertical, em amarelo símbolo da riqueza e do colorido do amadurecimento da cultura;
+
+
+V –
+
+como que fundindo todo este simbolismo, temos o Brasão do município no vértice do triângulo.
+
+
+§ 2º
+
+Ocasionalmente a critério do Vexilologista que a ideou a Bandeira pode ter outros formatos não desprezando contudo as cores, bem ordenadas e algo que signifique o que o Brasão traduz.
+
+
+Art. 7º.
+
+De conformidade com as regras heráldicas a Bandeira Municipal terá as dimensões oficiais adotadas para a Bandeira Nacional.
+
+
+Parágrafo único
+
+De conformidade com as regras heráldicas a Bandeira Municipal terá as dimensões oficiais adotadas para a Bandeira Nacional.
+
+
+Art. 8º.
+
+No Gabinete do Prefeito será mantido um livro para registro de todas as Bandeiras Municipais mandadas confeccionar, quer sejam por conta do Município, quer seja por conta de terceiros com autorização especial, determinando se as datas, estabelecimentos para os quais foram destinadas, bem como todo e qualquer ato relacionado às mesmas.
+
+
+Parágrafo único
+
+Preferencialmente, a inauguração de uma Bandeira deverá ser efetuada em solenidade cívica, podendo ser designado um padrinho e uma madrinha, com benção especial, seguindo-se hasteamento com execução de marcha batida, ou Hino Nacional ou Hino Municipal, para em seguida proceder-se ao juramento feito pelos padrinhos (podendo ser acompanhado por todos os presentes) que, prestando a continência de juramento (braço direito estendido e mão espalmada para baixo), versando as seguintes palavras "Juro honrar, amar e defender os Símbolos Municipais de Cabeceira Grande, e lutar pelo engrandecimento desta cidade, com lealdade e perseverança"; o acontecimento será consignado em ata, conforme determinado neste artigo.
+
+
+Art. 9º.
+
+As Bandeiras velhas ou rôtas serão incineradas, de conformidade com o dispositivo no Artigo 33 do Decreto-Lei Nº 4.545 de 31 de Julho de 1.942, registrando-se o fato no livro especial.
+
+
+Parágrafo único
+
+Não será incinerada, mas recolhida ao Museu Histórico Municipal, o exemplar da Bandeira Municipal ao qual esteja ligado fato de relevante significação histórica do Município, como no caso da primeira Bandeira Municipal inaugurada após a sua instalação.
+
+
+Art. 10.
+
+A Bandeira Municipal deve ser hasteada de sol a sol, sendo permitido o seu uso à noite, uma vez que se encontre convenientemente iluminada; normalmente, far-se-á o hasteamento ás 8 horas e o arriamento às 18 horas.
+
+
+§ 1º
+
+Quando a Bandeira Municipal é hasteada em conjunto com a Bandeira Nacional, estará disposta a esquerda desta; sendo que quando a Bandeira Estadual for também hasteada, ficará a Nacional ao centro, ladeada pela Municipal à esquerda e a Estadual à direita, colocando-se a Nacional em plano superior às demais.
+
+
+§ 2º
+
+Quando a Bandeira Municipal é distendida e sem mastro, em rua ou praça, entre edifícios ou em porta, será colocada ao comprido, de modo que o lado maior do retângulo esteja em sentido horizontal e a coroa mural voltada para cima.
+
+
+§ 3º
+
+Quando aparecer em sala ou salão, por motivo de reuniões, conferências ou solenidades, ficará a Bandeira Municipal distendida ao longo da parede, por trás da cadeira de presidência, ou do local da tribuna, sempre acima da cabeça do respectivo ocupante, observando-se o disposto no § 1º deste artigo, quando colocada em conjunto com as Bandeiras Nacional e Estadual.
+
+
+Art. 11.
+
+A Bandeira Municipal deve ser hasteada obrigatoriamente nas repartições e próprios municipais, nos estabelecimentos de ensino públicos e particulares, nas instituições particulares de assistência, letras, artes, ciências e desportos:
+
+
+I –
+
+nos dias de festa ou luto Municipal, Estadual ou Nacional;
+
+
+II –
+
+iariamente na fachada dos edifícios-sede dos Poderes Legislativo e Executivo Municipal, isoladamente em dias de expediente comum e em conjunto com as Bandeiras Estadual e Nacional em datas festivas;
+
+
+III –
+
+na fachada do edifício-sede do Poder Executivo, será a Bandeira Municipal hasteada isoladamente em dias de expediente comum, sempre que estiver presente o Chefe Executivo, sendo recolhida na ausência deste;
+
+
+IV –
+
+na fachada do edifício-sede do Poder Legislativo em dias de sessão.
+
+
+Art. 12.
+
+Em funeral, para o hasteamento, será a Bandeira Municipal levada ao tope do mastro, antes de ser baixada a meia adriça ou meio mastro, e subirá novamente ao tope, antes do arriamento; sempre que conduzida em marcha, o luto será indicado por um laço de crepe atado junto à lança.
+
+
+Parágrafo único
+
+Somente por determinação do Prefeito Municipal, será a Bandeira Municipal hasteada em funeral, não o podendo ser, todavia, em dias feriados.
+
+
+Art. 13.
+
+Quando distendida sobre esquife mortuário de cidadão que tenha direito a esta homenagem, ficará a tralha do lado direito da cabeça do morto e a coroa mural do Brasão à direita, devendo ser retirada por ocasião do sepultamento.
+
+
+Art. 14.
+
+Nos desfiles, a Bandeira Municipal contará com uma Guarda de Honra, composta de seis pessoas, sendo uma a Porta Bandeira, seguindo a testa da coluna quando isolada ou precedida pelas Bandeiras Nacional e Estadual estas também estiverem concorrendo ao desfile.
+
+
+Art. 15.
+
+s estabelecimentos de ensino municipais deverão manter a Bandeira Municipal em lugar de honra, quando não esteja hasteada, do mesmo modo procedendo-se com as Bandeiras Nacional e Estadual.
+
+
+Art. 16.
+
+É terminantemente proibido o uso da Bandeira Municipal para servir de pano de mesa em solenidades, devendo ser obedecido o previsto no § do art. 10 da presente Lei.
+
+
+Art. 17.
+
+É proibido o uso e hasteamento da Bandeira Municipal em locais considerados inconvenientes pelos Poderes competentes.
+
+
+##### Seção III — DO HINO MUNICIPAL
+
+
+Art. 18.
+
+Fica o Poder Executivo autorizado a contratar serviços de um compositor ou instituir concurso entre compositores para a escolha do Hino Municipal.
+
+
+Parágrafo único
+
+A regulamentação do Hino Municipal obedecerá em princípio a presente Lei e o prescrito no Decreto-Lei nº 4.545 de 31 de Julho de 1.942, com relação ao Hino Nacional.
+
+
+##### Seção IV — DO BRASÃO MUNICIPAL
+
+
+Art. 19.
+
+O Brasão de Armas de Cabeceira é descrito heraldicamente da seguinte forma: tem seu escudo baseado no escudo de origem holandesa, o brasão do Município de Cabeceira Grande que tem este nome em homenagem ao Córrego Cabeceira Grande, que nasce na cabeceira da região mais alta e plana do município.
+
+
+Parágrafo único
+
+Tem seu campo quartejado em faixas verticais, que simbolizam:
+
+
+I –
+
+a central em azul, simboliza o córrego que deu seu nome ao Município;
+
+
+II –
+
+à destra, o vermelho, simboliza a cor natural da terra;
+
+
+III –
+
+à sinistra, o verde, simboliza as matas e os campos cultivados;
+
+
+IV –
+
+o pedestal, em amarelo ouro símbolo da riqueza, representa o sustentáculo da pujança da região simbolizada no campo do brasão, onde o gado representa a pecuária e o trator a agricultura;
+
+
+V –
+
+como suporte, à destra, o arroz e o trigo ao natural e, à sinistra o milho também ao natural;
+
+
+VI –
+
+no campo do pedestal contem o nome e a data de instalação do município, em letras romanas modernas;
+
+
+VII –
+
+o feijão e a soja estão simbolizados em grãos no núcleo do pedestal.
+
+
+Art. 20.
+
+O Brasão Municipal será reproduzido em clichês, para timbrar a documentação oficial do Município de Cabeceira Grande, com a representação icnográfica das cores, em conformidade com a Convenção Heráldica Internacional, quando a impressão é feita a uma só cor e a obediência das cores heráldicas, quando a impressão e feita em policromia.
+
+
+Art. 21.
+
+Objetivando a divulgação municipalista o Brasão Municipal poderá ser reproduzido em decalcomanias, brasões de fachada, flâmulas, clichês, distintivos, medalhas e outros materiais, bem como apostos a objetos de arte, desde que em qualquer reprodução, sejam observados os módulos e cores heráldicas.
+
+
+Art. 22.
+
+A critério dos Poderes Municipais, poderá ser instituída a Ordem Municipal do Brasão, para comenda àqueles que, de algum modo e sem injunções políticas, tenham merecido e justificado a honraria outorgada.
+
+
+Parágrafo único
+
+Será comenda constituída por medalhas do Brasão, esmaltadas em cores ou fundida em metal ouro ou prata fixada em lapela com as cores municipais, acompanhada de Diploma da Ordem de "Comendador da Ordem Municipal do Brasão".
+
+
+Art. 23.
+
+As despesas decorrentes da execução desta Lei, correrão por conta de dotações próprias já incluídas no orçamento vigente.
+
+
+Art. 24.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 25.
+
+Revogam-se as disposições em contrário.
+
+
+Cabeceira Grande-MG, 03 de dezembro de 1.999.
+
+**Antônio Nazaré Santana Melo Prefeito Municipal**
+
+**"Este texto não substitui o original."**
+

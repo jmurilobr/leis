@@ -1,0 +1,294 @@
+---
+titulo: "Lei Ordinária nº 11, de 04 de março de 1997"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "11"
+data: "1997-03-04"
+municipio: "Cruzmaltina"
+uf: "PR"
+codigo_ibge: "4106852"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cruzmaltina.pr.leg.br/norma/65"
+fonte_texto: "https://sapl.cruzmaltina.pr.leg.br/ta/8/text"
+sha256_fonte: "ea0ca3625810c3db06e609b36e34ba04d62d457251778a91006e6eb36a80471f"
+sha256_texto: "4ade7e2becd56866dc6f91be5fb00cb61cf7feee2bff353213d10e2a1bd1c1de"
+capturado_em_fonte: "2026-10-28T09:33:38.043691-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 11, de 04 de março de 1997
+
+Dispõe sobre a forma e a apresentação dos Símbolos do Município de Cruzmaltina e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CRU7MALTINA, ESTADO DO PARANÁ, APROVOU E EU PREFEITO MUNICIPAL SANCIONO A SEGUINTE LEI:
+
+
+#### CAPÍTULO I
+
+
+Disposições Preliminares
+
+
+Art. 1º.
+
+Ficam criados nos termos desta Lei, os Símbolos de Município de Cruzmaltina, Estado do Paraná, de conformidade com o disposto na constituição Federal.
+
+
+a)
+
+O Brasão de Armas Municipal.
+
+
+b)
+
+A Bandeira Municipal
+
+
+c)
+
+O Hino Municipal.
+
+
+Art. 2º.
+
+A Confecção da Bandeira Municipal, somente será executada mediante determinação dos Poderes Executivo e Legislativo Municipal e com autorização especial escrita, quando a execução for efetuada por conta de terceiros.
+
+
+a)
+
+De forma idêntica proceder-se-á com o Hino Municipal, cuja autorização especial deverá conter assinatura e data do despacho do Prefeito Municipal ou Presidente da Câmara, ou seus delegados competentes.
+
+
+b)
+
+E proibido tanto a reprodução do Brasão como a da Bandeira Municipal para servirem de propaganda político ou comercial.
+
+
+Art. 3º.
+
+Consideram-se padrões os símbolos do Município de Cruzmaltina são os exemplares confeccionados nos termos e dispositivos da presente lei.
+
+
+Art. 4º.
+
+No Gabinete do Prefeito Municipal, na Diretoria da Câmara Municipal, no Departamento de Educação e cultura, serão conservados exemplares padrão dos símbolos Municipais, no sentido de servirem de modelo obrigatório para respectiva confecção constituída dos exemplares destinados a apresentação, procedam ou não da iniciativa privada.
+
+
+Art. 5º.
+
+Em qualquer reprodução feita por terceiros, da Bandeira ou do Brasão de Armas Municipal, com autorização especial o beneficiário deverá fazer prova da peça reproduzida com o arquivamento de um exemplar no Departamento competente da Prefeitura Municipal, que exercerá fiscalização e a observância dos módulos, cores e palavras.
+
+
+Parágrafo único
+
+Se aplica a bandeira municipal a exigência anterior cuja apresentação será feita após sua confecção para simples verificação e registro no livro próprio.
+
+
+##### Seção I — DA BANDEIRA MUNICIPAL
+
+
+Art. 6º.
+
+A Bandeira do Município de Cruzmaltina foi idealizada e desenhada pelo Sr. José Domingos Casavechia pioneiro e morador na sede do Município de Cruzmaltina, trabalho este aprovado pelo corpo docente do Colégio Estadual de Cruzmaltina e pelas autoridades atualmente constituídas e os seus trabalhos aperfeiçoados a Heráldiaca Municipalista pelo PRof. Reynaldo Velascki, heraldista e vexilogogo, que adaptou a mesma dentro das normas da Lei Federal nº 5.700 de 01/08/1971, apresentando as seguintes características:
+
+
+1
+
+A presente bandeira do Município de Cruzmaltina foi projetada em (4) quatro partes distintas sendo uma (1) em cor amarela (metal ouro), que representa a riqueza Municipal em suas grandes plantações de cereais.
+
+
+2
+
+A segunda parte, em desenho de um losango em cor vermelha (goles) sobreposto no retângulo amarelo - assim representando a audácia, o trabalho, a integridade administrativa a pureza, o amor.
+
+
+3
+
+A terceira parte é aplicada uma cruz de malta no centro do retângulo (bandeira) em cor branca (metal prata) que simboliza a paz, a fé e a religiosidade do povo Cruzmaltinense.
+
+
+4
+
+O quarto trabalho é aplicação do Brasão de armas bem no centro do retângulo, o qual representa a "Sede do Município de Cruzmaltina". o Brasão de Armas aplicado no centro da Bandeira também representa "O GOVERNO MUNICIPAL E SUA ERRADIAÇÃO QUE SE EXPANDE EM TODOS OS QUADRANTES DO TERRITÓRIO MUNICIPAL".
+
+
+Art. 7º.
+
+De conformidade com as regras heráldicas a bandeira de Cruzmaltina terá as dimensções oficiais adotadas para a Bandeira Nacional, levando-se em consideração 14 (quatorze) módulos de altura por 20 (vinte) módulos de comprimento no retângulo.
+
+
+Parágrafo único
+
+A Bandeira de Cruzmaltina poderá ser reproduzida em bandeirolas de papel nas comemorações e efemérides, observando-se os módulos e as cores heráldicas.
+
+
+Art. 8º.
+
+No Gabinete do Prefeito Municipal será mantido um livro para registro de todas as bandeiras municipais mandadas confeccionar, quer seja por conta do Município, quer seja por conta dos terceiros com autorização especial, determinando-se as datas e os estabelecimentos para os quais foram destinados, bem como e qualquer ato relacionado com as mesmas.
+
+
+Parágrafo único
+
+Preferencialmente a inauguração da Bandeira deverá ser efetuada com solenidade cívica, podendo ser designado um padrinho e uma madrinha com benção especial, seguindo o hasteamento com execução de MARCHA BATIDA, ou Hino Nacional, para em seguida proceder-se ao juramento que será feito pelos padrinhos (podendo ser acompanhados por todos os presentes) que, prestando continência ao juramento (braço direito estentido e mão espalmada para baixo) versando as seguintes palavras: "JURO HONRAR E DEFENDER , AMAR OS SÍMBOLOS MUNICIPAIS DE CRUZMALTINA, E LUTAR PELO ENGRANDECIMENTO DA CIDADE E MUNICIPIO COM LEALDADE E PERSEVERANÇA". O acontecimento deverá ser designado em ata conforme determinação neste artigo.
+
+
+Art. 9º.
+
+As bandeiras velhas e rotas serão incineradas em conformidade com o disposto no artigo 33 do Decreto Lei nº 4545 de 31 de julho de 1942, registrando-se o fato em livro especial.
+
+
+Parágrafo único
+
+Não será incinerada mas recolhida ao Museu Histórico Municipal ou Biblioteca o exemplar da bandeira municipal ao qual esteja ligado ao fato de relevante significação histórica do Município, como no caso a primeira bandeira municipal, inaugurada após sua instituição.
+
+
+Art. 10.
+
+A Bandeira Municipal deve ser hasteada de sol a sol, sendo permitido o seu uso a noite uma vez que e encontre convinientemente iluminada; normalmente, faz-se-o hasteamento as 08:00 e seu arreamento as 18:00.
+
+
+§ 1º
+
+Quando a bandeira municipal for hasteada em conjunto com a bandeira nacional está disposto a esquerda desta, sendo que a bandeira estadual também hasteada, ficará a Nacional ao centro ladeada pela Municipal à esquerda e a Estadual a direita, colocando-se a Nacional em plano superior as demais.
+
+
+§ 2º
+
+Quando a bandeira Municipal e destendida em seu mastro em rua, praça ou entre edifícios ou partes, será colocada ao comprimento de modo que o lado maior do retângulo esteja no sentido horizontal e a coroa mural voltada para cima.
+
+
+§ 3º
+
+Quando aparecer em salão ou sala por motivos de reunião, conferência ou solenidade ficará a bandeira municipal destendida ao longo da parede, por trás da cadeira da Presidência ou do local da tribuna, sempre acima da cabeça do devido ocupante, observando-se o disposto do § 1º deste artigo, quando colocada em conjunto com as bandeiras nacional e estadual.
+
+
+Art. 11.
+
+A bandeira municipal deverá ser hasteada obrigatoriamente nas repartições e prédios Municipais, nos estabelecimentos de Ensino Público e particulares, nas instituições particulares, de assistência, letras, artes e desportos.
+
+
+a)
+
+Nos dias de festas municipais, estadual e nacional.
+
+
+b)
+
+Diariamente na fachada do edifício sede do Poder Executivo e Legislativo Municipal, isoladamente em dia de expediente comum e em conjunto com as bandeiras Municipal, Estadual e nacional em dias festivos.
+
+
+c)
+
+Na fachada do Edifício-Sede do Poder Executivo será a bandeira municipal hasteada isoladamente em dias de expediente comum sempre que estiver presente o chefe do Poder Executivo, sendo a mesma recolhida na ausência do mesmo.
+
+
+d)
+
+Obrigatoriamente na fachada do Edifício sede do poder Legislativo em dias de Sessão.
+
+
+Art. 12.
+
+Em funeral, para hasteamento, será a Bandeira Municipal levada ao topo do mastro, antes de ser baixada a meia adriça (mastro) e subirá ao topo antes do arreamento; e sempre que conduzida em marcha de luto será indicado por um laço crepe atado junto a lança.
+
+
+Parágrafo único
+
+Somente por determinação do Prefeito Municipal será hasteada a Bandeira em funeral, não podendo ser todavia em dias de feriado.
+
+
+Art. 13.
+
+Quando destinado sobre esquife mortuário de cidadão que tenha direito a essa homenagem, ficará a tralhe ao lado direito da cabeça do morto e a coroa mural e o brasão de armas a direita devendo ser retirada por ocasião do sepultamento.
+
+
+Art. 14.
+
+Nos desfiles a Bandeira Municipal contará com uma guarda de honra, composta por 06 (seis) pessoas, sendo uma porta-bandeira, seguido a testa de coluna isolada e precedida pelas bandeiras nacional estadual, quanto estes também estiverem concorrendo ao desfile.
+
+
+Art. 15.
+
+Os estabelecimentos de Ensino Municipal deverão manter a bandeira Municipal em lugar de honra, quando esteja hasteada do mesmo modo procedendo-se com as bandeiras nacional e estadual.
+
+
+Art. 16.
+
+É terminantemente proibido o uso da Bandeira Municipal para servir de pano de mesa nas solenidades, devendo ser obedecido o previsto no Parágrafo terceiro do artigo 10° da presente Lei.
+
+
+Art. 17.
+
+É proibido o uso e hasteamento da Bandeira Municipal em locais considerados inconvenientes pelos poderes incompetentes.
+
+
+##### Seção II — DO HINO MUNICIPAL
+
+
+Art. 18.
+
+Fica o Poder Executivo autorizado a contratar os serviços de compositor, ou instituir concurso entre compositores para escolha do Hino Municipal.
+
+
+Parágrafo único
+
+A regulamentação do Hino Municipal obedecerá em princípio a seguinte Lei e o prescrito Decreto Lei nº 4545 de 31 de julho de 1942, com relação ao Hino Nacional.
+
+
+##### Seção III — DO BRASÃO DE ARMAS MUNICIPAL
+
+
+Art. 19.
+
+O Brasão de armas do município de Cruzmaltina foi idealizado desenhado, seus trabalhos executados pelo Heraldista e Vexilologo Reynaldo Valaski, e descrito nos termos próprios na seguinte forma: O Brasão de Armas do Município de Cruzmaltina desenhado em estilo Português-Samnítico, preferido para representar o Brasão de Armas de Cruzmaltina, sendo o primeiro estilo de escudo adotado em Portugal servindo de referência a raça colonizadora e a principal formadora da nacionalidade brasileira.
+
+
+a)
+
+A coroa mural que sobrepõe o escudo é em cor amarela (metal ouro) , tem 08 torres, das quais 05 são vistas em perspectivas no desenho, o qual identifica o "Brasão de Domínio", indicando a condição de Cidade de Terceira Grandeza, ou seja, "Sede do Município".
+
+
+b)
+
+A cor vermelho (goles) que vemos nas janelas da coroa mural e no listel, simbolizam a audácia a intrepidez, o valor, a galhardia, o amor, a nobreza de domínio, predicados estes atribuídos aos imigrantes, os primeiros moradores e colonizadores que com coragem e audácia que na realidade os identifica, pois deixaram a terra natal e aqui vieram fixar-se a respeito das condições adversas ao clima para lavrar os fundamentos da cidade que é o Município de Cruzmaltina.
+
+
+c)
+
+O escudo em seu abismo divide-se em o campo em 04 quartéis na parte superior sendo dividido o mesmo por uma linha sinuosa e na parte inferior em abismo uma cruz de malta em cor vermelha (goles). Na parte superior em abismo vemos desenhado em escudete e em seu interior a linha imagem de Nossa Senhora Aparecida, padroeira no Municipio de Cruzmaltina e do nosso querido e imenso Brasil. A felicidade do povo Crumaltinense vemos estampado nos olhares dos mesmos, pois tem a benção perpétua e são cobertos com o manto sagrado de Nossa Senhora Aparecida.
+
+
+d)
+
+No primeiro quartel está desenhado o Mapa do Paraná em cor verde, que simboliza a "esperança".
+
+
+e)
+
+No segundo quartel estão desenhado uma caneta tinteiro e um livro e mais o globo terrestre assim representamos a Educação e cultura no Município.
+
+
+f)
+
+Em dois quartéis vemos quatro estrelas que distintamente representam as quatro comunidades no Município de Cruzmaltina - São Domingos, Primavera, Dinizópolis e João Vieira.
+
+
+g)
+
+A linha sinuosa em cor azul (blue) simboliza os Rios Ivaí, Alonso e outros riachos que irrigam o rico solo Cruzmaltino.
+
+
+h)
+
+Abaixo em abismo na parte inferior do campo de escudo vemos desenhado uma linha "Cruz de Malta" o símbolo real do Município de Cruzmaltina. Como suporte do Brasão de armas temos desenhado ao vivo ramos de trigo, soja, arroz, feijão e milho, cereais estes que são o esteio das riquezas do Município de Cruzmaltina. No listel em cor vermelha (goles) o toponimo "Cruzmaltina" , e em flâmula a esquerda os algarismos 13.12.1995, dia, mês e ano da criação do Município e a direita os algarismo 01.01.1997, dia, mês e ano da posse do primeiro Prefeito Municipal de Cruzmaltina, o grande dia da emancipação política e administrativa do Município de Cruzmaltina. Os moradores de Cruzmaltina serão denominados "Crusmaltinenses".
+
+
+EDIFÍCIO DA PREFEITURA DO MUNICÍPIO DE CRUZMALTINA, Gabinete do Prefeito, aos vinte e quatro dias do mês de fevereiro do ano de hum mil novecentos e noventa e sete. (24.02.1997)
+
+JOSÉ CARLOS PASTORI  
+Prefeito Municipal.
+

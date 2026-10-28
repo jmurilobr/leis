@@ -1,0 +1,157 @@
+---
+titulo: "Lei Ordinária nº 2.816, de 04 de abril de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2816"
+data: "2023-04-04"
+municipio: "Clevelândia"
+uf: "PR"
+codigo_ibge: "4105706"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.clevelandia.pr.leg.br/norma/67"
+fonte_texto: "https://sapl.clevelandia.pr.leg.br/ta/67/text"
+sha256_fonte: "224253c4c81f230c6d81af35c28239dbb540f6dbce102aab63c8c84add13bdcb"
+sha256_texto: "2680783842d160da1a0c5d60da745de8508ef2d0bb0f2b37385c46167c9db6fb"
+capturado_em_fonte: "2026-10-27T22:49:56.246928-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.816, de 04 de abril de 2023
+
+**Lei nº 2.816/202**
+
+Dispõe sobre a alteração da Casa Lar Vó Júlia em Unidade Municipal de Acolhimento Institucional – estruturada na modalidade abrigo e dá outras providências.
+
+
+A Câmara Municipal de Clevelândia, Estado do Paraná, aprovou e eu, Prefeita Municipal sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica alterada a Casa Lar Vó Júlia em unidade de Acolhimento Institucional do Município de Clevelândia, Estado do Paraná, sob a modalidade Abrigo Institucional, devido a uma sucessão de demandas envolvendo crianças e adolescentes em situação de vulnerabilidade social.
+
+
+Parágrafo único
+
+A Unidade Municipal de Acolhimento Institucional, tem como objetivo o acolhimento de crianças e adolescentes no Município de Clevelândia, Estado do Paraná, e denominar-se-á Abrigo Vó Júlia;.
+
+
+Parágrafo único
+
+A instituição será regida em conformidade com o art. 227 da Constituição Federal e Estatuto da Criança e do Adolescente - ECA.
+
+
+Art. 2º.
+
+A Unidade Municipal de Acolhimento Institucional é órgão público vinculado à Secretaria Municipal de Assistência Social e funcionará sob a modalidade abrigo institucional, mantida pela Municipalidade.
+
+
+Art. 3º.
+
+Os serviços de acolhimento para crianças e adolescentes prestados na Unidade não devem ser confundidos com estabelecimentos organizados para o acompanhamento de adolescentes que estejam cumprindo medidas socioeducativas de internação em estabelecimento educacional (ECA, Art. 112)
+
+
+Parágrafo único
+
+A Unidade Municipal de Acolhimento funcionará como medida de proteção provisória e de caráter excepcional, para crianças e adolescentes de ambos os sexos, afastados do convívio familiar, em situação de abandono, por ameaça e violação dos direitos fundamentais, ou por violência física, sexual, emocional, doméstica, ou por destituição do poder familiar, ou por negligência familiar, ou cujas famílias ou responsáveis encontrem-se temporariamente impossibilitados de cumprir sua função de cuidado e proteção, por meio de medida protetiva ou judicial, ou seja inclusive por determinações do Ministério Público ou ordem judicial, até que seja viabilizado o retorno ao convívio familiar na família de origem, ou extensa, ou, na sua impossibilidade, encaminhamento para família substituta.
+
+
+Art. 4º.
+
+A Unidade Municipal de Acolhimento Institucional para Crianças e Adolescentes de 0 a 18 anos tem como objetivos:
+
+
+I –
+
+Prestar cuidados a um grupo de crianças e adolescentes afastados do convívio familiar por meio de medida protetiva de acolhimento institucional (ECA, Art.101), administrado pelo Município de Clevelândia, Estado do Paraná;
+
+
+II –
+
+Acolher e proteger crianças e adolescentes de 0 (zero) a 18 (dezoito) anos, sem distinção socioeconômica, étnica, religiosa, sexual, ou ainda, por serem pessoas com necessidades especiais em decorrência de deficiência mental ou física.
+
+
+III –
+
+Acolher crianças e adolescentes conforme art. 98 do ECA, somente depois de esgotados todos os recursos para sua manutenção na família de origem, extensa ou comunidade, a fim de garantir que o afastamento da criança ou do adolescente do contexto familiar seja uma medida excepcional, aplicada apenas nas situações de grave risco a sua integridade física e/ou psíquica, advindas de famílias vulneráveis e afastadas por decisão judicial, do vínculo familiar;
+
+
+IV –
+
+Ofertar à criança e ao adolescente um ambiente de cuidados facilitadores de desenvolvimento, em conformidade com o art. 92 do ECA;
+
+
+V –
+
+Estimular o desenvolvimento de relações mais próximas do ambiente familiar, oferecendo um ambiente acolhedor, promovendo o bem-estar e a busca do restabelecimento da saúde física, mental e emocional, e a confiança através de uma vivencia saudável;
+
+
+VI –
+
+Proporcionar vínculo estável entre a equipe integrante do abrigo e as crianças e adolescentes atendidos, além de favorecer o convívio comunitário dos mesmos;
+
+
+VII –
+
+Capacitar a equipe de profissionais, por meio de reuniões, palestras, debates e encontros dirigidos ao trabalho desenvolvido bem como acompanhamento psicológico periódico;
+
+
+VIII –
+
+Utilizar-se de serviços e projetos disponíveis na comunidade local;
+
+
+IX –
+
+Atender as premissas do Estatuto da Criança e do Adolescente - ECA, especialmente no que diz respeito ao fortalecimento dos vínculos familiares e sociais, e oferecimento de oportunidades para a reinserção na família de origem ou substituta;
+
+
+X –
+
+Proporcionar aos acolhidos durante sua permanência na Unidade: alimentação, vestuário, material escolar, entre outros materiais necessários.
+
+
+Parágrafo único
+
+Em prestígio a garantia do direito à convivência e reinserção familiar, a Unidade de Acolhimento Institucional não receberá crianças e adolescentes de outros municípios, salvo em situações excepcionalíssimas, devidamente justificadas.
+
+
+Art. 5º.
+
+As despesas decorrentes da aplicação desta lei serão atendidas por dotação orçamentária própria e específica da Secretaria Municipal de Assistência Social.
+
+
+Art. 6º.
+
+O Abrigo Institucional Vó Júlia funcionará 24 (vinte e quatro) horas por dia, todos os dias da semana e será dirigida e administrada por equipe constituída de servidores públicos municipal.
+
+
+Parágrafo único
+
+O Poder Executivo Municipal, dotará a unidade de acolhimento ora criada dos recursos materiais e humanos necessários ao seu funcionamento.
+
+
+Art. 7º.
+
+O Município de Clevelândia poderá celebrar convênio com entidade assistencial para execução do serviço de acolhimento a crianças e adolescentes.
+
+
+Art. 8º.
+
+Revogam-se as disposições em contrário, especialmente a Lei Municipal nº 2.629/2017.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**GABINETE DA PREFEITA MUNICIPAL DE CLEVELÂNDIA, ESTADO DO PARANÁ, EM 04 DE ABRIL DE 2023.**
+
+**Rafaela Martins Losi**
+
+Prefeita Municipal
+

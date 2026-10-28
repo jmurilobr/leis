@@ -1,0 +1,149 @@
+---
+titulo: "LEI ORDINÁRIA-CMC nº 1.127, de 30 de junho de 2009"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "1127"
+data: "2009-06-30"
+municipio: "Claraval"
+uf: "MG"
+codigo_ibge: "3116407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.claraval.mg.leg.br/norma/1112"
+fonte_texto: "https://sapl.claraval.mg.leg.br/ta/447/text"
+sha256_fonte: "3bdfa4c61d7b5cf58dc29f9b7d6aab713dab42e6f287b136c76ea8f201e408a3"
+sha256_texto: "83b81440679c43f75821fd0225298531d72ce3945afbe31b325d955135410e7c"
+capturado_em_fonte: "2026-10-27T22:57:21.869892-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA-CMC nº 1.127, de 30 de junho de 2009
+
+“DISPÕE SOBRE ABERTURA DE CREDITO ADICIONAL SUPLEMENTAR, AS DOTAÇÕES ORÇAMENTÁRIAS, E DÁ OUTRAS PROVIDÊNCIAS.”
+
+
+O PREFEITO MUNICIPAL DE CLARAVAL / MG, Sr. Juscelino Batista Borges, no uso de suas atribuições legais, faz saber a todos os habitantes do Município, que a Câmara de Vereadores aprovou e ele sanciona a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o chefe do Poder Executivo autorizado a abrir Crédito Adicional Suplementar no Valor de R$290.000,00 (Duzentos e noventa mil reais), nas seguintes dotações do orçamento em vigor:
+
+
+02.02 - ADMINISTRAÇÃO E FINANÇAS
+
+02.02.01 - ADMINISTRAÇÃO GERAL
+
+04.122.040.2.006 - Manutenção das Atividades da Administração
+
+339039 - Outros Serviços de Terceiros - Pessoa Jurídica (Ficha 28)............................R$30.000,00
+
+04.331.0401.2.010 - Contribuição para Formação do PASEP (ficha 36)......................R$10.000,00
+
+02.02 - ADMINISTRAÇÃO E FINANÇAS
+
+02.02.03 - TESOURARIA
+
+04.123.0402.2.071 - Manutenção das Atividades de Tesouraria
+
+339039 - Outros Serviços de Terceiros - Pessoal Jurídica (ficha 50)...........................R$10.000,00
+
+02.03 - EDUCAÇÃO, CULTURA, ESPORTE E LAZER
+
+02.03.01 - ENSINO FUNDAMENTAL RECURSO PROPRIO
+
+12.361.1201.2.037 - Manutenção das Atividades da Educação Rec.Próprios
+
+339030 - Material de Consumo (ficha 72)...................................................................R$20.000,00
+
+449052 - Equipamentos e Material Permanente (ficha 75)........................................R$20.000,00
+
+12.361.1201.2.039 - Contribuição para Formação do PASEP (ficha 76)........................R$3.000,00
+
+02.03 - EDUCAÇÃO, CULTURA, ESPORTE E LAZER
+
+02.03.02 - ENSINO FUNDEB
+
+12.365.1202.2.099 - Manutenção do Fundeb-Infantil
+
+319011 - Vencimentos e Vantagens Fixas - Pessoal Civil (Ficha 100)..........................R$35.000,00
+
+319013 - Obrigações Patronais (ficha 101)...................................................................R$8.000,00
+
+02.03 - EDUCAÇÃO, CULTURA, ESPORTE E LAZER
+
+02.03.03 - CRECHE
+
+12.365.1203.2.048 - Manutenção de Creches no Município
+
+339030 - Material de Consumo (Ficha 110)..................................................................R$5,000,00
+
+02.03 - EDUCAÇÃO, CULTURA, ESPORTE E LAZER
+
+02.03.05 - ENSINO GERAL
+
+12.306.1204.2.034 - Manutenção da Merenda Escolar - Recurso Próprio
+
+339030-Material de Consumo (Ficha 122)..................................................................R$20.000,00
+
+02.03 - EDUCAÇÃO, CULTURA, ESPORTE E LAZER
+
+02.03.06 - ESPORTE E LAZER
+
+27.122.2701.2.055 - Manutenção das Atividades do Esporte e Lazer
+
+339030 - Material de Consumo (Ficha 147)................................................................R$10.000,00
+
+02.04 - SAUDE E AÇÃO SOCIAL
+
+02.04.01 - SAUDE
+
+10.301.1002.2.077 - Manutenção das Atividades da Saúde - SUS
+
+319011 - Vencimentos e Vantagens Fixas - Pessoal Civil (Ficha 195)..........................R$15.000,00
+
+319013 Obrigações Patronais (Ficha 196).....................................................................R$4.000,00
+
+10.302.1002.2.032 - Manutenção das Atividades da Saúde - Rec. Próprio
+
+339039 - Outros Serviços de Terceiros - Pessoa Jurídica (Ficha 206)..........................R$60.000,00
+
+10.302.1002.2.079 - Manut. Do Cons. Intermunicipal de Saúde - CISLAP
+
+377041 - Contribuições (Ficha 209).............................................................................R$10.000,00
+
+02.04 - SAÚDE E AÇÃO SOCIAL
+
+02.04.02 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+08.244.0801.2.018 - Atendimento a População Carente - Distr.Leite
+
+339032 - Material de Distribuição Gratuita (ficha 220)..............................................R$20.000,00
+
+08.244.0801.2.020 - Atend. a População Carente - Distribuição Diversas
+
+339032 - Material de Distribuição Gratuita (Ficha 222)................................................R$5.000,00
+
+08.244.0801.2.084 - Manutenção do Centro Múltiplo-Uso
+
+339039 - Outros Serviços de Terceiros - Pessoa Jurídica (Ficha 245)............................R$5.000,00
+
+
+Art. 2º.
+
+Como recursos às dotações constantes do Art. 1° será utilizado o Superávit Financeiro do ano de 2008.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário, entrando a presente Lei em vigor na data de sua publicação.
+
+
+**Claraval, 30 de Junho de 2009.**
+
+**Juscelino Batista Borges**
+
+**Prefeito Municipal**
+

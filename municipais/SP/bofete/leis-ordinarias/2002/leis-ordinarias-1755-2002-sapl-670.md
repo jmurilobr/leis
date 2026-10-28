@@ -1,0 +1,75 @@
+---
+titulo: "Lei Ordinária nº 1.755, de 10 de dezembro de 2002"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1755"
+data: "2002-12-10"
+municipio: "Bofete"
+uf: "SP"
+codigo_ibge: "3506904"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bofete.sp.leg.br/norma/670"
+fonte_texto: "https://sapl.bofete.sp.leg.br/ta/491/text"
+sha256_fonte: "be5e7784e54583f24dfe5eaa32f3dfa725891595524ca69b9ecf5433271b2c3f"
+sha256_texto: "cc5b95aa49f282e1acd3c9a0ee1c7709f95159c662f79192cd3647d4f2f83de3"
+capturado_em_fonte: "2026-10-27T19:21:05.357016-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.755, de 10 de dezembro de 2002
+
+AUTORIZA O PODER EXECUTIVO MUNICIPAL A OUTORGAR À CÂMARA MUNICIPAL DE BOFETE A CONCESSÃO DE USO DE UM TERRENO COM ÁREA DE 260,00 METROS QUADRADOS.
+
+
+JOSÉ CARLOS RODER, Prefeito Municipal de Bofete, Estado de São Paulo, usando de suas atribuições legais, faz saber que a Câmara Municipal aprova e ele sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a outorgar gratuitamente à Câmara Municipal de Bofete a concessão de uso, por um período de 99 (noventa e nove) anos, devidamente inscrita no Cadastro Nacional de Pessoas Jurídicas - CNPJ sob o n.º 01.646.008/0001-92, com sede à Praça Prefeito Sílio Pelegrino Biagioni, n.º 193, nesta cidade, pessoa jurídica de Direito Público, uma área de terreno com 260,00 metros quadrados, sem benfeitorias, situado à Rua Sete de Setembro, s/n, nesta cidade.
+
+
+Parágrafo único
+
+O prazo da autorização poderá ser prorrogado por igual período.
+
+
+Art. 2º.
+
+A área de que trata o artigo anterior possui a seguinte descrição: Um lote de terreno com frente para a Rua Sete de Setembro, onde mede 13,00 metros; mesma medida nos fundos, com Domingos Ermenegildo Simionato (antes herdeiros de Antonio Ebúrneo), por 20,00 metros da frente aos fundos, de ambos os lados, dividindo com Iraci Canato Felipe (antes com o poço artesiano), por um lado e por outro lado com a Secretaria de Segurança Pública (Delegacia de Polícia), fechando-se o perímetro e encerrando a área de 260,00 metros quadrados.
+
+
+Art. 3º.
+
+A concessão de uso visa permitir o melhor aproveitamento do imóvel, especialmente para abrigar a construção do prédio para a sede da Câmara Municipal de Bofete.
+
+
+Art. 4º.
+
+A concessionária arcará com todas as despesas decorrentes de investimentos e construções no imóvel, objeto de concessão, sem direito a retenção ou indenização de qualquer natureza.
+
+
+Art. 5º.
+
+Nenhum projeto de investimento, de construção ou embelezamento terá início sem antes ser aprovado pelo Departamento de Planejamento do Município.
+
+
+Art. 6º.
+
+A concessão de uso será formalizada por contrato, estabelecendo os direitos e obrigações das partes contratantes.
+
+
+Art. 7º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Bofete, Gabinete do Prefeito, em 10 de dezembro de 2002.
+
+JOSÉ CARLOS RODER
+
+Prefeito Municipal
+

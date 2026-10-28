@@ -1,0 +1,57 @@
+---
+titulo: "Lei Ordinária nº 28, de 30 de novembro de 1973"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "28"
+data: "1973-11-30"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/351"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/863/text"
+sha256_fonte: "27169c6808272a2639411af16d0794af1f1e24ce77c65fbb5d409a9643adf01e"
+sha256_texto: "372b8e033d04ae72f1a65b324bedb1938be5d75540484f025d6ce1e864354f52"
+capturado_em_fonte: "2026-10-27T22:05:55.932399-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 28, de 30 de novembro de 1973
+
+Autoriza a abertura de crédito especial, para o fim que especifica.
+
+
+O Prefeito Municipal de Caçu, Estado de Goiás, aprovou e eu sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a, mediante decreto, abrir, no corrente exercício, um crédito especial na importância de Cr$ 3.000,00 (três mil cruzeiros), destinados à construção de calçadas e muros no Grupo Escolar Dom Pedro II, desta cidade, sob o seguinte código:
+
+
+Setor da Educação e Saúde
+
+6.1-4.1.1.0 – Obras Públicas
+
+03 – Construção de Calçadas e muros no Grupo Escolar Dom Pedro II.
+
+
+Art. 2º.
+
+O crédito autorizado pelo artigo anterior será coberto com recursos disponíveis, resultantes de real economia, a serem obtidos de conformidade com o artigo 43 da Lei federal nº 4.320, de 17 de março de 1964.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor nesta data, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Caçu, Estado de Goiás, em 30 de novembro de 1973.
+
+
+**Noé Nunes Guimarães**  
+\- Prefeito Municipal -
+

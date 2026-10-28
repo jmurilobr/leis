@@ -1,0 +1,510 @@
+---
+titulo: "Lei-CMC nº 2.829, de 30 de dezembro de 2008"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2829"
+data: "2008-12-30"
+municipio: "Congonhas"
+uf: "MG"
+codigo_ibge: "3118007"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.congonhas.mg.leg.br/norma/6351"
+fonte_texto: "https://sapl.congonhas.mg.leg.br/ta/3880/text"
+sha256_fonte: "e5f7516472fef5c5ef419186720653439a30543af0327241fbd101e02106f8a7"
+sha256_texto: "654e6a0ae69457b4e0ce6be6a39770f4ba2c6c9d4ef03abfaf64704e37d00e80"
+capturado_em_fonte: "2026-10-28T09:17:23.438519-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei-CMC nº 2.829, de 30 de dezembro de 2008
+
+CRIA O CONSELHO MUNICIPAL DE PROMOÇÃO DA IGUALDADE RACIAL DE CONGONHAS E DÁ OUTRAS PROVIDÊNCIAS
+
+
+A Câmara Municipal de Congonhas, Estado de Minas Gerais, decreta e eu, Prefeito, sanciono e promulgo a seguinte Lei:
+
+
+#### CAPÍTULO I — Disposições Preliminares
+
+
+Art. 1º.
+
+Fica instituído o Conselho Municipal da Promoção da Igualdade Racial de Congonhas - COMPIR, órgão de composição paritário, permanente e colegiado de caráter consultivo, normativo, avaliador, propositivo e fiscalizador das políticas públicas que visem a igualdade racial no Município de Congonhas, Estado de minas Gerais.
+
+
+Parágrafo único
+
+O Conselho Municipal da Promoção da Igualdade Racial de Congonhas - COMPIR ficará vinculado diretamente à Secretaria Municipal de Desenvolvimento e Assistência Social.
+
+
+Art. 2º.
+
+Compete ao COMPIR dentre outras ações: desenvolver estudos, propor políticas públicas voltadas à promoção da igualdade racial, combate a todas as formas de racismo, xenofobia e outras formas de discriminação. Buscando formas de efetivar ações afirmativas, visando a valorização e reconhecimento da participação histórica das populações afrodecendente, indígena e outras etnias vulneráveis a discriminações, reconhecendo-os como agentes sociais de produção de conhecimento, riqueza, estimulando a preservação de suas tradições, como forma de eliminar a discriminação, racismo e suas manifestações.
+
+
+Art. 3º.
+
+Compete ainda ao Conselho Municipal da Promoção da Igualdade Racial de Congonhas:
+
+
+I –
+
+formular a políticas de Promoção da Igualdade Racial;
+
+
+II –
+
+deliberar sobre conveniência e oportunidade de implantação de programas ações afirmativas e serviços a que se referem as políticas sociais básicas de educação, saúde, recreação, esporte, lazer, profissionalização, e assistência social, em caráter supletivo, para aqueles de dela necessitam, para que possa assegurar a plena inserção da comunidade afrodecendente na vida sócio econômica;
+
+
+III –
+
+fiscalizar, monitorar e avaliar as políticas públicas de promoção da igualdade racial;
+
+
+IV –
+
+desenvolver estudos, pesquisas e debates relativos aos problemas sócio-raciais vividos pela comunidade;
+
+
+V –
+
+manter uma ouvidoria que receba denúncias e informações de atos discriminatórios, fiscalizar e adotar as providências necessárias à apuração dos fatos e aplicação das sanções cabíveis pelos órgãos competentes;
+
+
+VI –
+
+deliberar sobre a aplicação do Fundo Municipal de Promoção da Igualdade Racial;
+
+
+VII –
+
+opinar sobre o orçamento do município destinado ao desenvolvimento dos programas de ações afirmativas que visem a promoção da igualdade racial, indicando as modificações necessárias à consecução da política formulada;
+
+
+VIII –
+
+fixar critérios para celebração de contratos ou convênios entre órgãos governamentais e organizações não governamentais representativas que promovem a igualdade racial no município;
+
+
+IX –
+
+elaborar seu regimento interno;
+
+
+X –
+
+elaborar sua proposta orçamentária;
+
+
+XI –
+
+promover intercâmbio entre as entidades e o COMPIR;
+
+
+XII –
+
+divulgar o Conselho e sua atuação junto à sociedade em geral através dos meios de comunicação;
+
+
+XIII –
+
+promover e apoiar eventos em geral com o objetivo de valorizar a cultura afro-brasileira;
+
+
+XIV –
+
+assegurar o cumprimento dos direitos e garantias decorrentes dos princípios Constitucionais, bem como os previsto na Lei Orgânica do Município pertinentes as populações negras, indígena e outras etnias especialmente quanto à orientação sexual, identidade de gênero e liberdade religiosa; e
+
+
+XV –
+
+propor políticas públicas que promovam a cidadania, a igualdade nas relações sociais de homens e mulheres das populações negras, indígenas e outras etnias.
+
+
+#### CAPÍTULO II — Da composição e atribuição
+
+
+Art. 4º.
+
+O Conselho Municipal da Promoção da Igualdade Racial será composto por dezesseis membros titulares e respectivos suplentes, nomeados pelo Prefeito do Município, assim distribuídos:
+
+
+I –
+
+oito representantes da sociedade civil organizada, comprometidas com a promoção da igualdade racial, sendo:
+
+
+a)
+
+três representantes de organizações não governamentais que atuem com políticas de promoção da igualdade racial, sendo uma do segmento estudantil;
+
+
+b)
+
+dois representantes de expressões culturais e religiões de matriz africana; e
+
+
+c)
+
+três representantes escolhidos entre organizações não governamentais, culturais, comunitárias, sindicato dos trabalhadores, que desenvolvam ações voltadas para o debate da superação e promoção da igualdade racial.
+
+
+II –
+
+Oito representantes do Poder Público, indicados pelo Prefeito do Município, dentre os seguintes órgãos, preferencialmente:
+
+
+a)
+
+Secretaria Municipal da Educação;
+
+
+b)
+
+Secretaria Municipal de Saúde;
+
+
+c)
+
+Secretaria Municipal de Desenvolvimento e Assistência Social;
+
+
+d)
+
+Secretaria Municipal de Governo e;
+
+
+e)
+
+Outras de livre escolha do Prefeito Municipal.
+
+
+§ 1º
+
+O mandato dos membros do COMPIR será de dois anos, permitida a reeleição por um único mandato consecutivo.
+
+
+§ 2º
+
+O suplente substituirá o titular em suas faltas e impedimentos e o sucederá para lhe completar o mandato em caso de vacância.
+
+
+§ 3º
+
+Em caso de vacância em algum assento do Conselho o mesmo permanecerá aberto, podendo ser ocupado a qualquer tempo, somente pela etnia de direito.
+
+
+Art. 5º.
+
+Os Conselheiros, representantes da Sociedade Civil, serão escolhidos dentre os delegados de sua respectiva entidade, indicados à Conferência Municipal da Promoção da Igualdade Racial, com notável prestação de serviços à comunidade e idoneidade moral.
+
+
+Art. 6º.
+
+Os membros do Conselho Municipal da Promoção da Igualdade Racial poderão ser substituídos, mediante solicitação da instituição ou autoridade pública à qual estejam vinculados, apresentada ao Conselho Municipal da Promoção da Igualdade Racial, o qual fará comunicação do ato ao Prefeito Municipal.
+
+
+Parágrafo único
+
+Os membros representantes do Poder Executivo Municipal poderão ser substituídos a qualquer momento, por ato do Prefeito Municipal.
+
+
+Art. 7º.
+
+Perderá o mandato, o Conselheiro que:
+
+
+I –
+
+desvincular-se do órgão de origem da sua representação;
+
+
+II –
+
+faltar a 03 (três) reuniões consecutivas, ou 05 (cinco) intercaladas, sem justificativa, que deverá ser apresentada na forma prevista no Regimento Interno do Conselho;
+
+
+III –
+
+apresentar renúncia ao Plenário do Conselho, que será lida na sessão seguinte à de sua recepção na Secretaria do Conselho;
+
+
+IV –
+
+apresentar procedimento incompatível com a dignidade das funções; e
+
+
+V –
+
+for condenado por sentença irrecorrível, por crime ou contravenção penal.
+
+
+Parágrafo único
+
+A substituição se dará por deliberação da maioria dos componentes do Conselho, em procedimento iniciado mediante provocação de integrante do Conselho Municipal, do Ministério Público ou de qualquer cidadão, assegurada ampla defesa.
+
+
+Art. 8º.
+
+Nos casos de renúncia, impedimento ou falta, os membros efetivos do Conselho Municipal da Promoção da Igualdade Racial serão substituídos pelos suplentes, automaticamente, podendo estes exercerem os mesmos direitos e deveres dos efetivos.
+
+
+Art. 9º.
+
+As entidades ou organizações representadas pelos conselheiros faltosos deverão ser comunicadas a partir da segunda falta consecutiva, ou quarta intercalada, através de correspondência da Secretaria do Conselho Municipal da Promoção da Igualdade Racial.
+
+
+Art. 10.
+
+Perderá o mandato, a instituição que:
+
+
+I –
+
+extinguir sua base territorial de atuação no Município de Congonhas;
+
+
+II –
+
+tiver constatado em seu funcionamento irregularidade de acentuada gravidade, que torne incompatível sua representação no Conselho Municipal da Promoção da Igualdade Racial; e
+
+
+III –
+
+sofrer penalidade administrativa reconhecidamente grave.
+
+
+Art. 11.
+
+O Conselho Municipal da Promoção da Igualdade Racial de Congonhas possuirá a seguinte estrutura:
+
+
+I –
+
+Diretoria Executiva;
+
+
+II –
+
+Plenário; e
+
+
+III –
+
+Comissões, constituídas por resolução do Plenário.
+
+
+§ 1º
+
+A Diretoria Executiva será composta por um Presidente, um Vice-presidente, Primeiro Secretário e Segundo Secretário, eleitos para o mandato de um ano, na primeira seção ordinária, escolhidos pelo Plenário entre os membros titulares.
+
+
+§ 2º
+
+O Plenário é o fórum máximo de deliberação do Conselho, constituído por todos conselheiros membros, sendo que os titulares têm direito a voz e voto e os suplentes apenas a voz.
+
+
+§ 3º
+
+As Comissões serão formadas a partir de demandas advindas da Plenária e constituídas por Resoluções da Diretoria, podendo ser permanentes e /ou provisória.
+
+
+Art. 12.
+
+A escolha da Diretoria Executiva a que alude o § 1º do art. 11 se dará na primeira reunião subseqüente à posse dos membros do Conselho, sendo escolhida entre os membros titulares para o mandato de um ano.
+
+
+Art. 13.
+
+A função dos membros do Conselho Municipal da Promoção da Igualdade Racial é considerada serviço público relevante para o Município e para a comunidade, e não será remunerada.
+
+
+Art. 14.
+
+As reuniões do Conselho Municipal da Promoção da Igualdade Racial de Congonhas somente poderão ser realizadas com a presença mínima de 3/4 dos seus membros, em primeira convocação, ou com número a ser definido em seu Regimento Interno, em segunda e terceira convocações.
+
+
+Art. 15.
+
+O COMPIR instituirá seus atos, através de Resoluções aprovadas pela maioria de seus membros.
+
+
+Art. 16.
+
+Cada membro do COMPIR terá direito a um único voto na sessão plenária.
+
+
+Art. 17.
+
+Todas as sessões do Conselho Municipal da Promoção da Igualdade Racial de Congonhas serão abertas ao público e precedidas de ampla divulgação.
+
+
+Art. 18.
+
+O Conselho Municipal da Promoção da Igualdade Racial de Congonhas reunir-se-á ordinariamente uma vez por mês em data previamente estabelecida e, extraordinariamente, sempre que convocado por sua Diretoria Executiva ou por maioria de seus membros.
+
+
+Art. 19.
+
+O Regimento Interno do Conselho Municipal da Promoção da Igualdade Racial definirá, nos termos da presente lei, sua estrutura interna, seu funcionamento, a competência do Plenário, da Diretoria Executiva, de seus membros e Comissões que vierem a ser formadas.
+
+
+#### CAPÍTULO III — Da Conferencia Municipal
+
+
+Art. 20.
+
+Fica instituída a Conferência Municipal da Promoção da Igualdade Racial órgão colegiado, de caráter consultivo e propositivo composto por delegados representantes dos poderes públicos e da sociedade civil, relacionados diretamente à defesa dos interesses das comunidades afrodecendente, indígena e outras etnias, vulneráveis ao preconceito racial e étnico, que se reunirá a cada dois anos, sob a coordenação do Conselho.
+
+
+Art. 21.
+
+A Conferência Municipal da Promoção da Igualdade Racial será convocada pelo Conselho Municipal da Promoção da Igualdade Racial e pela Secretaria Municipal de Desenvolvimento e Assistência Social, no período de até noventa dias anteriores à data da Conferência Estadual.
+
+
+§ 1º
+
+Ato do Poder Executivo oficializará a convocação da Conferencia Municipal de Promoção da Igualdade de Congonhas.
+
+
+§ 2º
+
+Em caso de não-convocação, por parte do COMPIR e SEDAS, no prazo referido no caput deste artigo, a iniciativa poderá ser realizada por 1/5 das instituições registradas no Conselho Municipal da Promoção da Igualdade Racial, que formarão comissão paritária para a organização e coordenação da Conferência.
+
+
+Art. 22.
+
+Os participantes da Conferência Municipal da Promoção da Igualdade Racial serão eleitos em reuniões convocadas para este fim e realizadas por entidades da sociedade civil, no período de trinta dias que antecede a realização da Conferência, garantida a participação dos representantes das entidades e instituições mencionadas no artigo 4° desta Lei.
+
+
+Parágrafo único
+
+Os participantes da Conferência Municipal da Promoção da Igualdade Racial, representantes do poder público serão indicados pelos chefes dos respectivos poderes ou órgãos mediante ofício enviado ao Conselho Municipal da Promoção da Igualdade Racial, no prazo de até cinco dias que antecede a Conferência.
+
+
+Art. 23.
+
+Compete à Conferência Municipal da Promoção da Igualdade Racial:
+
+
+I –
+
+avaliar as situações relacionadas à comunidade afrodecendente, indígena e demais etnias;
+
+
+II –
+
+propor, avaliar e discutir as diretrizes gerais da política municipal em defesa dos direitos de todas as etnias vulneráveis ao preconceito racial, social, cultural, religioso e todas as formas de intolerância, no biênio subseqüente ao de sua realização;
+
+
+III –
+
+eleger os representantes da sociedade civil para comporem o Conselho Municipal da Promoção da Igualdade Racial;
+
+
+IV –
+
+aprovar seu regimento interno;
+
+
+V –
+
+aprovar suas resoluções e delas dar publicidade, registrando as em documento final; e
+
+
+VI –
+
+elaborar proposta de atuação do COMPIR no município nos próximos dois anos.
+
+
+Art. 24.
+
+As etnias não-negras, os representantes de ONG’s, entidades e sindicatos, na primeira composição do Conselho, serão convidadas a ocupar as vagas destinadas às suas respectivas etnias e categorias.
+
+
+Art. 25.
+
+A primeira Conferência Municipal da Promoção da Igualdade Racial será convocada no prazo de noventa antecedente à Conferencia Estadual.
+
+
+Parágrafo único
+
+Será composta comissão paritária, conforme art. 4º desta Lei, nomeada pelo Prefeito do Município, no prazo de trinta dias, contados da publicação desta lei, para fins de organização e realização da primeira Conferência Municipal da Promoção da Igualdade Racial.
+
+
+#### CAPÍTULO IV — Do Fundo Municipal de Promoção da Igualdade Racial
+
+
+Art. 26.
+
+O Fundo Municipal de Promoção da Igualdade Racial, vinculado ao Conselho Municipal de Promoção da Igualdade Racial será constituído por:
+
+
+I –
+
+dotação consignada anualmente no orçamento do Município, para atividade vinculadas ao Conselho Municipal de Promoção da Igualdade Racial;
+
+
+II –
+
+transferência de recursos financeiros oriundos do tesouro federal e estadual;
+
+
+III –
+
+doações, auxílios, contribuições e legados, transferência de entidades nacionais, internacionais, governamentais e não-governamentais que lhe venham a ser destinados;
+
+
+IV –
+
+recursos advindos de convênios, acordos e contratos firmados entre o Município e instituições privadas e públicas, nacionais e internacionais, federais, estaduais e municipais;
+
+
+V –
+
+produtos de aplicações financeiras dor recursos disponíveis, respeitada a legislação em vigor; e
+
+
+VI –
+
+outros recursos que por ventura lhe forem destinados.
+
+
+Art. 27.
+
+O Fundo Municipal de Promoção da Igualdade Racial, vinculado ao Conselho Municipal de Promoção da Igualdade Racial será administrado pela Secretaria Municipal de Desenvolvimento e Assistência Social.
+
+
+Art. 28.
+
+O Fundo elaborará em 90 (noventa dias) um Regimento Interno que estabelecerá as formas e gestão, administração e destinação dos recursos.
+
+
+#### CAPÍTULO V — Das Disposições Gerais
+
+
+Art. 29.
+
+O Conselho Municipal de Promoção da Igualdade Racial, no prazo de 90 (noventa) dias da nomeação de seus membros elaborará seu Regimento Interno.
+
+
+Art. 30.
+
+Fica o Executivo autorizado a abrir crédito suplementar para as despesas iniciais, decorrentes do cumprimento desta Lei.
+
+
+Art. 31.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Congonhas, 30 de dezembro de 2008.
+
+**ANDERON COSTA CABIDO**
+
+**Prefeito de Congonhas**
+

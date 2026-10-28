@@ -1,0 +1,174 @@
+---
+titulo: "Lei Ordinária nº 1.052, de 20 de maio de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1052"
+data: "2022-05-20"
+municipio: "Cana Verde"
+uf: "MG"
+codigo_ibge: "3111903"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.canaverde.mg.leg.br/norma/505"
+fonte_texto: "https://sapl.canaverde.mg.leg.br/ta/108/text"
+sha256_fonte: "a84ac68fcb638d0720f7389c7fec59b5b38696538ec52b8659682b2f5a63d1be"
+sha256_texto: "e5a98a8db84fa8f6672479bde163afd9d59ed172a51291d7ebd37184d15c033a"
+capturado_em_fonte: "2026-10-27T22:28:41.374289-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.052, de 20 de maio de 2022
+
+*AUTORIZA A CONCESSÃO DE DIREITO REAL DE USO DE IMÓVEL PÚBLICO QUE MENCIONA, E DÁ OUTRAS PROVIDÊNCIAS.*
+
+
+A Câmara Municipal de Cana Verde, Estado de Minas Gerais, pela maioria de seus representantes, aprovou, e eu, Aender Anastácio de Morais, Prefeito Municipal, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a conceder, com fundamento nos artigos 14, § 1°, e 15 caput e § 1º da Lei Orgânica do Município, Direito Real de Uso do imóvel mencionado no artigo 2º desta Lei.
+
+
+Art. 2º.
+
+O imóvel objeto da Concessão de Direito Real de Uso de que trata a presente Lei, registrado sob a Matrícula nº 19342 do serviço registral de Imóveis de Perdões, situa-se no Distrito do Cerradinho, no Município de Cana Verde/MG, com área útil a ser concedida de 200m² (duzentos metros quadrados), consoante memorial descritivo e planta em anexo, devidamente assinada por responsável técnico.
+
+
+Art. 3º.
+
+Destina-se a Concessão de Direito real de Uso, por relevante interesse público, para fins específicos de instalação, operação e compartilhamento de equipamentos de telecomunicações, especialmente estações rádio base (“ERB"), bem como de equipamentos e/ou dispositivos de processamento, armazenamento e transmissão de dados e informação abrangendo suas estruturas, esteios, base de fixação, benfeitorias, tudo em conjunto chamado "estruturas", necessários para prestação de serviços de comunicações, telecomunicações por terceiros e/ou outros serviços relacionados a atividades de telecomunicações, telefonia, etc. no Distrito do Cerradinho, neste município de Cana Verde(MG).
+
+
+Art. 4º.
+
+A Concessão de Direito Real de Uso do Imóvel de que trata o artigo 2º desta Lei será formalizada através de contrato administrativo e de escritura pública, devendo ser previsto, obrigatoriamente:
+
+
+I –
+
+a vinculação de uso, que não poderá ser diferente daqueles previstos nesta Lei;
+
+
+II –
+
+as hipóteses de rescisão administrativa da Concessão, incluindo a promovida por infração contratual;
+
+
+III –
+
+o prazo da Concessão;
+
+
+IV –
+
+a manutenção das benfeitorias atuais existentes e do terreno, pela concessionária;
+
+
+V –
+
+a previsão indenizatória de bens que restarem incorporados ao patrimônio municipal nos casos de rescisão administrativa imotivada;
+
+
+VI –
+
+as penalidades para o caso de descumprimento parcial ou total das obrigações inseridas no contrato administrativo e das inseridas nesta Lei.
+
+
+Art. 5º.
+
+A Concessão de Direito Real de Uso de que trata o artigo 1º desta Lei se dará pelo prazo de 20 (vinte anos), podendo ser prorrogado a critério da Administração Pública Municipal, desde que preenchidos os requisitos legais e o constante no contrato administrativo.
+
+
+Parágrafo único
+
+Na hipótese de superveniente decisão capaz de alterar o titular da propriedade ou da posse do imóvel objeto da concessão, o prazo previsto no caput poderá ser alterado e/ou findada a Concessão de Direito Real de Uso a qualquer tempo, sem direito a indenização.
+
+
+Art. 6º.
+
+A presente Concessão de Direito Real de Uso poderá resolver-se a qualquer tempo desde que o concessionário dê ao imóvel destinação diversa da estabelecida no artigo 3° desta Lei.
+
+
+Art. 7º.
+
+Constituem motivos para a rescisão do contrato administrativo, implicando na imediata retomada da área concedida e demais providências cabíveis, não gerando qualquer direito de indenização à concessionária por benfeitorias e acessões levantas, dentre outros a serem estabelecidos no contrato:
+
+
+I –
+
+desvio pela concessionária ou sucessores, a qualquer título, de sua finalidade e/ou atividade contratual;
+
+
+II –
+
+utilização do imóvel para finalidade diversa da prevista no artigo desta Lei;
+
+
+III –
+
+descumprimento das disposições desta Lei;
+
+
+IV –
+
+extinção ou dissolução da concessionária a qualquer título, falência, insolvência ou comprometimento do patrimônio ou situação financeira;
+
+
+V –
+
+descumprimento, a qualquer tempo, da legislação ambiental pertinente ao tipo atividade da concessionária e/ou ausência de adequada destinação aos resíduos resultantes da atividade;
+
+
+VI –
+
+paralisação do funcionamento do serviço, sem justas causa e prévia comunicação à concedente;
+
+
+VII –
+
+descumprimento qualquer das cláusulas contratuais ou prazos;
+
+
+VIII –
+
+demais razões de interesse público.
+
+
+Parágrafo único
+
+A devolução do imóvel incontinente ao concedente sem o direito de indenização à concessionária, não exclui a aplicação das penalidades previstas no Contrato.
+
+
+Art. 8º.
+
+É expressamente vedada a cessão, subconcessão ou transferência, total ou parcial, dos direitos decorrentes da concessão a terceiros, bem como sua sublocação total ou parcial, fusão, cisão ou incorporação que afetem a boa execução deste, sem prévia e expressa anuência do Concedente, sob pena de rescisão e cominação de penalidade aplicável à espécie, de pleno direito, independente de notificação judicial.
+
+
+Art. 9º.
+
+Findo o prazo estabelecido para Concessão, o concessionário se obrigado a devolver o imóvel tempestivamente e as benfeitorias então realizadas e existentes, incorporar-se-ão ao patrimônio público municipal, independentemente de qualquer indenização ou ato formalizado.
+
+
+Art. 10.
+
+A concessionária responderá por todos os encargos civis, administrativos e tributários que venham a incidir sobre o imóvel objeto da Concessão de Direito Real de Uso a que se refere esta Lei.
+
+
+Art. 11.
+
+O poder Executivo poderá regulamentar esta Lei através de Decreto, se necessário.
+
+
+Art. 12.
+
+Revogadas as disposições em contrário, esta Lei entra em vigor na data se sua publicação.
+
+
+Cana Verde, 20 de Maio de 2022.
+
+AENDER ANASTACIO DE MORAIS  
+Prefeito Municipal
+

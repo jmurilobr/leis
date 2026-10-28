@@ -1,0 +1,26 @@
+---
+titulo: "PORTARIA Nº 1.832, DE 6 DE OUTUBRO DE 2020"
+orgao: "Ministério da Justiça e Segurança Pública/Polícia Federal/Diretoria Executiva/Coordenação-Geral de Controle de Serviços e Produtos"
+tipo: "Portaria"
+numero: "1832"
+data: 2020-10-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/11/2020, seção 1, p. 43"
+data_publicacao: 2020-11-09
+edicao: "213"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-1.832-de-6-de-outubro-de-2020-286974550"
+sha256_html_fonte: cc3fb33eb44891f0b8570af6e2bdaef3afef42bfab93de95d30f223eb1d3f621
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 1.832, DE 6 DE OUTUBRO DE 2020
+
+PORTARIA Nº 1.832, DE 6 DE OUTUBRO DE 2020
+
+O(A) COORDENADOR(A)-GERAL DE CONTROLE DE SERVIÇOS E PRODUTOS, por delegação do DIREX/PF, no uso das atribuições, acolhendo os fundamentos do Parecer nº 22620/2020, decide:
+
+Aplicar a pena de CANCELAMENTO PUNITIVO a CONDOMINIO DO EDIFICIO SHERATON BARRA, CNPJ nº 05.597.887/0001-60, sediada no Rio de Janeiro, por praticar a conduta tipificada no artigo 173, inciso VIII PORT.N° 3.233/12-DG/DPF DE 10/12/12, conforme consta no Processo nº 2020/38180.
+
+O prazo para apresentação de recurso é de 10 (dez) dias a contar da ciência no processo.
+
+LICINIO NUNES DE MORAES NETTO

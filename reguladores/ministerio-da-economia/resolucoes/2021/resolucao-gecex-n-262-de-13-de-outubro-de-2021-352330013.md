@@ -1,0 +1,34 @@
+---
+titulo: "RESOLUÇÃO GECEX Nº 262, DE 13 DE OUTUBRO DE 2021"
+orgao: "Ministério da Economia/Câmara de Comércio Exterior/Comitê-Executivo de Gestão"
+tipo: "Resolução"
+numero: "262"
+data: 2021-10-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 15/10/2021, seção 1, p. 19"
+data_publicacao: 2021-10-15
+edicao: "195"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-gecex-n-262-de-13-de-outubro-de-2021-352330013"
+sha256_html_fonte: 3e2953baa873994627d8614e81fe6b8dbccdf415f5b0bbcf074fd2dc2f97a232
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO GECEX Nº 262, DE 13 DE OUTUBRO DE 2021
+
+RESOLUÇÃO GECEX Nº 262, DE 13 DE OUTUBRO DE 2021
+
+Retifica a Resolução nº 259, de 24 de setembro de 2021, que alterou a Lista de Autopeças não Produzidas, constante dos Anexos I e II da Resolução nº 23, de 30 de dezembro de 2019, do Comitê-Executivo de Gestão da Câmara de Comércio Exterior.
+
+O COMITÊ-EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR, no uso da atribuição que lhe confere o art. 7º, incisos IV e V, do Decreto nº 10.044, de 4 de outubro de 2019, e o disposto no Decreto nº 6.500, de 2 de julho de 2008, no Decreto nº 8.278, de 27 de junho de 2014, no Decreto nº 8.797, de 30 de junho de 2016, no Decreto nº 10.343, de 8 de maio de 2020, e na Resolução nº 61, de 23 de junho de 2015, da Câmara de Comércio Exterior, e tendo em vista a deliberação em sua 186ª Reunião Ordinária, ocorrida em 15 de setembro de 2021, resolve:
+
+**Art. 1º** No Anexo II da Resolução Gecex nº 259, de 24 de setembro de 2021, do Comitê-Executivo da Câmara de Comércio Exterior, publicada no Diário Oficial da União de 27 de setembro de 2021, Edição 183, Seção 1, página 36, onde se lê:
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>NCM</p></td>      <td rowspan="1" colspan="1"><p>Nº Ex</p></td>      <td rowspan="1" colspan="1"><p>Descrição</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>--------------</p></td>      <td rowspan="1" colspan="1"><p>-----</p></td>      <td rowspan="1" colspan="1"><p>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>--------------</p></td>      <td rowspan="1" colspan="1"><p>-----</p></td>      <td rowspan="1" colspan="1"><p>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>8421.29.90</p></td>      <td rowspan="1" colspan="1"><p>179</p></td>      <td rowspan="1" colspan="1"><p>Filtro hidráulico com cabeçote de ferro fundido e com válvula termostática embutida, com a função de após realizar a filtragem direcionar o óleo para o trocador de calor ou para tanque do sistema hidráulico do trator, conforme a necessidade de resfriar o óleo devido a temperatura, possui pressão máxima de operação de 20 bar e vazão máxima de trabalho de 270 l/min, capacidade de filtragem Beta15 maior ou igual a 200, temperatura de operação entre -20 graus Celsius e + 120 graus Celsius e peso aproximado de 5.3 kg.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>8431.41.00</p></td>      <td rowspan="1" colspan="1"><p>016</p></td>      <td rowspan="1" colspan="1"><p>Dente de caçamba de carregamento, de aço fundido, com sistema de fixação de troca rápida por meio de pino passante com eixo móvel com cabeça sextavada e aba de fixação, possui conformação própria para utilização em máquinas de construção autopropulsadas, com peso entre de 3 a 7 kg.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>--------------</p></td>      <td rowspan="1" colspan="1"><p>-----</p></td>      <td rowspan="1" colspan="1"><p>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p></td>     </tr>    </tbody>   </table>
+
+Leia-se:
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>NCM</p></td>      <td rowspan="1" colspan="1"><p>Nº Ex</p></td>      <td rowspan="1" colspan="1"><p>Descrição</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>--------------</p></td>      <td rowspan="1" colspan="1"><p>-----</p></td>      <td rowspan="1" colspan="1"><p>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>--------------</p></td>      <td rowspan="1" colspan="1"><p>-----</p></td>      <td rowspan="1" colspan="1"><p>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>8421.29.90</p></td>      <td rowspan="1" colspan="1"><p>008</p></td>      <td rowspan="1" colspan="1"><p>Filtro hidráulico com cabeçote de ferro fundido e com válvula termostática embutida, com a função de após realizar a filtragem direcionar o óleo para o trocador de calor ou para tanque do sistema hidráulico do trator, conforme a necessidade de resfriar o óleo devido a temperatura, possui pressão máxima de operação de 20 bar e vazão máxima de trabalho de 270 l/min, capacidade de filtragem Beta15 maior ou igual a 200, temperatura de operação entre -20 graus Celsius e + 120 graus Celsius e peso aproximado de 5.3 kg.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>8431.41.00</p></td>      <td rowspan="1" colspan="1"><p>001</p></td>      <td rowspan="1" colspan="1"><p>Dente de caçamba de carregamento, de aço fundido, com sistema de fixação de troca rápida por meio de pino passante com eixo móvel com cabeça sextavada e aba de fixação, possui conformação própria para utilização em máquinas de construção autopropulsadas, com peso entre de 3 a 7 kg.</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>--------------</p></td>      <td rowspan="1" colspan="1"><p>-----</p></td>      <td rowspan="1" colspan="1"><p>--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p></td>     </tr>    </tbody>   </table>
+
+MARCELO PACHECO DOS GUARANYS
+
+Presidente do Comitê Substituto

@@ -1,0 +1,25 @@
+{
+  "preparado_em": "2026-10-28T09:32:13.221648-03:00",
+  "entrada": "scripts/estados/manifestos/to45-overlay-visibilidade-complementar-20261028-001.json",
+  "sha256_entrada": "29c4bc2b4e27e7ae5b79b4de7d6a0240efb2d1bfcd5e44e7fe4b7f1248429225",
+  "mapa": "estaduais/TO/_fonte/auditorias/to45-visibilidade-complementar-20261028-001/hashes.json",
+  "sha256_mapa": "63718a69f8f1398e78ed159452549ccd68bc8aec577876bc5de3f74076b34615",
+  "resultado": {
+    "replay": {
+      "total": 45,
+      "aprovados": 45,
+      "falhas": 0,
+      "rede": false,
+      "alterados": 0
+    },
+    "testes": 6,
+    "falhas": 0,
+    "erros": 0,
+    "bloqueios": []
+  },
+  "Python": "-I -B",
+  "exportacao_somente_mapa": true,
+  "QA_externo": "scripts/bin/qa-20261027/python",
+  "alterados": 0,
+  "sem_Git_escrita": true
+}

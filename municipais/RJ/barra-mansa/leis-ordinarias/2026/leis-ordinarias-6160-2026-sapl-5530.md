@@ -1,0 +1,79 @@
+---
+titulo: "Lei Ordinária nº 6.160, de 17 de junho de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "6160"
+data: "2026-06-17"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/5530"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/3126/text"
+sha256_fonte: "89bcdf87a5ae23f08f48144a9d48527afc3d6a24f27367932828794861306ffd"
+sha256_texto: "34f235ff2e2d8f9481b98ac9d1ad4e407f6130f0340cb49251b0ef9618007cb7"
+capturado_em_fonte: "2026-10-27T17:15:28.463245-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 6.160, de 17 de junho de 2026
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU PROMULGO A SEGUINTE:
+
+
+LEI Nº 6.160, DE 17 DE JUNHO DE 2026.
+
+
+Estabelece os profissionais aptos a fornecer laudos e perícias relacionados ao Transtorno do Espectro Autista (TEA) e a Síndrome de Down, bem como determina a validade permanente de laudos que disponham sobre deficiências ou transtornos físicos, mentais ou intelectuais de caráter irreversível, e dá outras providências.
+
+
+Art. 1º.
+
+Fica autorizada a emissão de laudos e perícias médicas que atestem o Transtorno do Espectro Autista (TEA) e a Síndrome de Down, por médicos do setor público ou privado com especialidade em Neurologia e Psiquiatria, com validade por tempo indeterminado, no âmbito do Município de Barra Mansa, ressalvada a necessidade de declaração de vida, quando for o caso.
+
+
+§ 1º
+
+Os laudos emitidos pelos profissionais acima listados serão válidos para todos os órgãos públicos municipais, para fins de matrícula escolar, atendimento em políticas públicas, benefícios sociais ou qualquer outro procedimento administrativo municipal.
+
+
+§ 2º
+
+A Administração Municipal poderá solicitar atualização de informações funcionais, quando necessária exclusivamente para definição de atendimento, sem substituir ou invalidar o laudo original.
+
+
+Art. 2º.
+
+Ficam estabelecidos como permanentes os laudos e perícias médicas que atestem deficiências ou transtornos físicos, mentais ou intelectuais de caráter irreversível, sendo desnecessária a sua renovação para fins de comprovação da condição perante os órgãos públicos e privados, no âmbito do Município de Barra Mansa.
+
+
+Art. 3º.
+
+Quando do requerimento de renovação das carteiras de gratuidade a que se refere esta Lei, será expedida, de imediato, carteira provisória à pessoa com deficiência e ao doente crônico, pelo prazo de 30 (trinta) dias, renovável por igual período, enquanto não apreciado o pedido, sendo este direito extensivo ao acompanhante.
+
+
+Art. 4º.
+
+As redes pública e privada situadas no Município deverão aceitar laudos de qualquer desses profissionais, sendo proibida a recusa por não ter sido emitido por profissional exclusivo ou único.
+
+
+Art. 5º.
+
+Nenhum órgão municipal poderá exigir CID específico quando as diretrizes federais reconhecerem a descrição funcional e multiprofissional da condição, conforme a Lei nº 12.764/2012 (Lei Berenice Piana) e a Lei nº 13.146/2015 (LBI).
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+CÂMARA MUNICIPAL DE BARRA MANSA, 17 DE JUNHO DE 2026.
+
+
+PAULO SANDRO SOARES
+
+PRESIDENTE
+

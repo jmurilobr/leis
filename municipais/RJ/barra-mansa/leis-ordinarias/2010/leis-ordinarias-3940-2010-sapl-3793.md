@@ -1,0 +1,133 @@
+---
+titulo: "Lei Ordinária nº 3.940, de 17 de dezembro de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3940"
+data: "2010-12-17"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/3793"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/1617/text"
+sha256_fonte: "a9784028108db72fdc649dbeb3511fd491afbaf6fc1793131d2ae4e67c7ee113"
+sha256_texto: "e3951fa621a4b194c1b83fbfe3765b156e5dda5ec3dff8c9dbaab5267c2f2404"
+capturado_em_fonte: "2026-10-27T18:04:31.113664-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 3.940, de 17 de dezembro de 2010
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI N° 3940, DE 17 DE DEZEMBRO DE 2010.
+
+
+Dispõe sobre a instalação de cercas energizadas destinadas à proteção de perímetros de imóveis.
+
+
+Art. 1º.
+
+Todas as cercas destinadas à proteção de perímetros de imóveis e que sejam dotadas de corrente elétrica serão classificadas como energizadas, incluindo- com outras denominações tais como eletrônicas, elétricas, eletrificadas ou similares.
+
+
+Art. 2º.
+
+Serão obrigatórias em todas as instalações de cercas energizadas a indicação de Engenheiro Eletricista, responsável técnico pelo projeto e execução e a apresentação da Anotação de Responsabilidade Técnica (ART).
+
+
+Art. 3º.
+
+As cercas energizadas obedecerão às Normas Técnicas Brasileiras, na sua ausência, às Normas Técnicas Internacionais, editadas pela International Eletrotechnical Commission (IEC).
+
+
+Art. 4º.
+
+Fica obrigatória a instalação, a cada 05 (cinco) metros de cerca energizada, de placas de advertência.
+
+
+§ 1º
+
+Deverão ser colocadas placas de advertência nos portões e/ou portas de acesso existentes ao longo da cerca e em cada mudança de direção.
+
+
+§ 2º
+
+As placas de advertência deverão, obrigatoriamente, possuir dimensões mínimas de 10 cm (dez centímetros) x 20 cm (vinte centímetros) e deverão ter seus textos e símbolos voltados para ambos os lados da cerca.
+
+
+§ 3º
+
+A cor de fundo das placas de advertência será, obrigatoriamente, amarela.
+
+
+§ 4º
+
+O texto mínimo das placas de advertência, será de: CERCA ENERGIZADA, CERCA ELETRIFICADA, CERCA ELETRÔNICA OU CERCA ELÉTRICА.
+
+
+§ 5º
+
+As letras do texto mencionado no parágrafo anterior serão obrigatoriamente, de cor preta e com as dimensões mínimas de 2 cm (dois centímetros) de altura e 0,5 cm (meio centímetro) de espessura.
+
+
+§ 6º
+
+Fica obrigatória a inserção na mesma placa de advertência de símbolos que possibilitem, sem suscitar dúvidas, a interpretação de que se trata de um sistema dotado de energia elétrica e que pode transmitir choque.
+
+
+§ 7º
+
+Os símbolos mencionados no parágrafo anterior serão obrigatoriamente, de cor preta.
+
+
+Art. 5º.
+
+Os arames utilizados para condução da corrente elétrica serão, obrigatoriamente, do tipo liso, com seção mínima de 2 mm (dois milímetros) ficando proibida a utilização de arames farpados ou similares.
+
+
+Art. 6º.
+
+Sempre que a cerca energizada for instalada na parte superior de muros, grades, telas ou outras estruturas semelhantes a altura mínima do primeiro fio de arame energizado serão de 2.00 m (dois metros) em relação ao nível do solo da parte externa do imóvel cercado.
+
+
+Art. 7º.
+
+Sempre que a cerca energizada possuir fios de arame energizados desde o nível do solo estes estarão separados da parte externa do imóvel, protegidos com muros, grades ou similares, respeitando-se um espaçamento horizontal entre os arames energizados e outras estruturas na faixa de 10 cm (dez centímetros) a 20 cm (vinte centimetros).
+
+
+Art. 8º.
+
+Sempre que a cerca energizada estiver instalada em linha divisória de imóveis haverá a concordância expressa dos proprietários desses imóveis com a referida instalação. Havendo recusa por parte dos proprietários dos imóveis vizinhos a referida cerca só poderá ser instalada com um ângulo de 45° (quarenta e cinco graus) de inclinação para dentro do imóvel protegido.
+
+
+Art. 9º.
+
+A empresa ou técnico instalador, sempre que solicitado pela fiscalização comprovará, por ocasião da conclusão da instalação e/ou dentro do periodo de 01 (um) ano após a conclusão da instalação, as características técnicas da corrente elétrica na cerca energizada instalada.
+
+
+Art. 10.
+
+As instalações descritas nesta Lei estarão sujeitas à competente fiscalização do Poder Executivo a quem caberá determinar as sanções prescritas na legislação municipal, arbritando as penalidades impostas aos infratores.
+
+
+Art. 11.
+
+O Executivo Municipal regulamentará esta Lei no prazo de 60 (sessenta) dias, a contar da data de sua publicação.
+
+
+Art. 12.
+
+Esta Lei entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 17 DE DEZEMBRO DE 2010.
+
+
+JOSÉ RENATO BRUNO CARVALHO  
+PREFEITO
+

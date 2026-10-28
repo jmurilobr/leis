@@ -1,0 +1,465 @@
+---
+titulo: "Lei nº 1.128, de 23 de dezembro de 2008"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1128"
+data: "2008-12-23"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/534"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/928/text"
+sha256_fonte: "513a0c0e85bd4ad169e3d6274b0e2db867d50e80735d6dc29651bc7bf7da039f"
+sha256_texto: "d55ab401901ea8c6db2cf8899210f5e62832174640a3d87cdaa9b258c3d0571d"
+capturado_em_fonte: "2026-10-27T20:10:06.383310-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.128, de 23 de dezembro de 2008
+
+Autoriza a criação do Fundo Municipal Antidrogas - FUMAD- vinculado à Secretaria Municipal de Saúde
+
+
+A Câmara Municipal de Buritis, Estado de Minas Gerais, por seus representantes, aprova e Eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DO FUNDO MUNICIPAL ANTIDROGAS – FUMAD
+
+
+##### Seção I — Da instituição do Fundo Municipal Antidrogas - FUMAD
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo autorizado a criar o FUNDO MUNICIPAL ANTIDROGAS – FUMAD -, vinculado à Secretaria Municipal de Saúde, com a finalidade de captar e administrar recursos financeiros destinados ao desenvolvimento das ações antidrogas, executadas ou coordenadas pela Secretaria Municipal Saúde, que compreendem:
+
+
+I –
+
+o atendimento universalizado, integral, regionalizado e hierarquizado;
+
+
+II –
+
+o controle e a fiscalização, compreendido o ambiente de trabalho, em comum acordo com as organizações competentes das esferas Federais e Estaduais.
+
+
+Parágrafo único
+
+O Fundo Municipal Antidrogas de que trata este artigo, será identificado pela sigla - FUMAD.
+
+
+##### Seção II — Da subordinação do Fundo
+
+
+Art. 2º.
+
+O Fundo Municipal Antidrogas ficará subordinado diretamente ao Secretário Municipal de Saúde, na qualidade de Presidente.
+
+
+##### Seção III — Das atribuições do Secretário Municipal de Saúde
+
+
+Art. 3º.
+
+São atribuições do Secretário Municipal Antidrogas, como Presidente:
+
+
+I –
+
+gerir o Fundo Municipal Antidrogas e estabelecer políticas de aplicação dos seus recursos em conjunto com o Conselho Municipal Antidrogas - COMAD;
+
+
+II –
+
+acompanhar, avaliar e decidir sobre a realização das ações previstas;
+
+
+III –
+
+submeter ao Conselho Municipal Antidrogas o Plano de Aplicação a cargo do Fundo, em consonância com a Lei de Diretrizes Orçamentárias;
+
+
+IV –
+
+submeter ao Conselho Municipal Antidrogas as demonstrações mensais de receita e despesa do Fundo;
+
+
+V –
+
+encaminhar ao Departamento Financeiro, da Secretaria Municipal da Fazenda, as demonstrações mencionadas no inciso IV;
+
+
+VI –
+
+assinar cheques com o responsável pela Tesouraria, quando for o caso;
+
+
+VII –
+
+ordenar empenhos e pagamentos das despesas do fundo;
+
+
+VIII –
+
+firmar convênios e contratos, inclusive de empréstimos, juntamente com o Prefeito, referente a recursos que serão administrados pelo Fundo.
+
+
+##### Seção IV — Da coordenação do Fundo
+
+
+Art. 4º.
+
+São atribuições do coordenador do Fundo Municipal Antidrogas:
+
+
+I –
+
+preparar as demonstrações mensais da receita e despesa a serem encaminhadas ao Secretário Municipal de Saúde;
+
+
+II –
+
+manter os controles necessários à execução orçamentária do Fundo referente a empenhos, liquidação e pagamento das despesas e ao recebimento das receitas do Fundo;
+
+
+III –
+
+manter, em coordenação com o Setor de Patrimônio da Prefeitura Municipal, os controles necessários sobre os bens patrimoniais com carga ao Fundo;
+
+
+IV –
+
+encaminhar ao Departamento Financeiro, da Secretaria Municipal da Fazenda:
+
+
+a)
+
+Mensalmente, as demonstrações de receita e despesas;
+
+
+b)
+
+Trimestralmente, os inventários de estoques de instrumentos médicos;
+
+
+c)
+
+Anualmente, o inventário dos bens móveis e imóveis e o balanço geral do Fundo.
+
+
+V –
+
+firmar, com o responsável pelos controles da execução orçamentária, as demonstrações mencionadas anteriormente;
+
+
+VI –
+
+preparar os relatórios de acompanhamento da realização das ações para serem submetidos ao Secretário Municipal de Saúde;
+
+
+VII –
+
+providenciar junto ao Departamento Financeiro, da Secretaria Municipal da Fazenda, as demonstrações que indiquem a situação econômico-financeira geral do Fundo Municipal Antidrogas;
+
+
+VIII –
+
+apresentar ao Secretário Municipal de Saúde, a análise e a avaliação da situação econômico-financeira do Fundo Municipal Antidrogas, detectada nas demonstrações mencionadas;
+
+
+IX –
+
+manter os controles necessários sobre convênios ou contratos de prestação de serviços pelo setor privado;
+
+
+X –
+
+encaminhar mensalmente ao Secretário Municipal de Saúde, relatórios de acompanhamento e avaliação da produção de serviços prestados pelo setor privado na forma mencionada no inciso IХ;
+
+
+XI –
+
+encaminhar mensalmente ao Secretário Municipal de Saúde, relatórios de acompanhamentos e avaliação da produção de serviços prestados pela Rede Municipal.
+
+
+#### CAPÍTULO II — DOS RECURSOS DO FUNDO
+
+
+##### Seção I — Dos Recursos Financeiros
+
+
+Art. 5º.
+
+Os recursos obtidos pelo FUMAD serão destinados exclusivamente para:
+
+
+I –
+
+a realização de programas de prevenção, fiscalização e repressão do tráfico de drogas e do tratamento de reabilitação de dependentes químicos;
+
+
+II –
+
+o incentivo à formação de grupos de apoio para atendimento aos usuários de drogas e aos seus familiares;
+
+
+III –
+
+a elaboração de textos educativos para divulgação junto a grupos de risco com informação sobre prevenção e tratamento de usuários de drogas, bem como de seus familiares;
+
+
+IV –
+
+o desenvolvimento de projetos de formação profissional para tratamento e reabilitação de dependentes, bem como para o controle de uso e tráfico de drogas, em conjunto com diversos segmentos da sociedade e órgãos competentes;
+
+
+V –
+
+o apoio às entidades legalmente constituídas que desenvolvam atividades de tratamento, reabilitação e reinserção social de usuários de drogas e de orientação e assistência especializada aos familiares de dependentes químicos;
+
+
+VI –
+
+o subsídio à participação de representantes do Município de Buritis em eventos estaduais, nacionais e internacionais voltados à discussão de questões ligadas ao combate às drogas; e
+
+
+VII –
+
+o desenvolvimento de campanhas de esclarecimento ao público que abordem a temática relacionada às drogas.
+
+
+Art. 6º.
+
+São receitas do Fundo:
+
+
+I –
+
+doações de pessoas físicas ou jurídicas, públicas ou privadas, nacionais estrangeiras;
+
+
+II –
+
+recursos oriundos de convênios firmados com órgãos ou entidades de direito público e privado nacionais e internacional;
+
+
+III –
+
+transferência do Fundo Nacional Antidrogas - FUNAD - para o Fundo Municipal Antidrogas - FUMAD;
+
+
+IV –
+
+dotação anual do poder Público, consignada no Orçamento Municipal, além de créditos adicionais que lhe sejam destinados;
+
+
+V –
+
+rendimentos arrecadados através de promoções e eventos realizados pelo COMAD;
+
+
+VI –
+
+outras receitas e arrecadações que vierem a ser destinadas ao COMAD;
+
+
+VII –
+
+saldo financeiro de exercícios anteriores.
+
+
+§ 1º
+
+As receitas descritas neste artigo serão depositadas obrigatoriamente em conta especial a ser aberta e mantida em agência de estabelecimento oficial de crédito.
+
+
+§ 2º
+
+A aplicação dos recursos de natureza financeira dependerá:
+
+
+I –
+
+da existência de disponibilidade em função do cumprimento de programação;
+
+
+II –
+
+da prévia aprovação do Secretário Municipal de Saúde;
+
+
+##### Seção II — Dos ativos do Fundo
+
+
+Art. 7º.
+
+Constituem ativos do Fundo Municipal Antidrogas:
+
+
+I –
+
+disponibilidade monetária em bancos ou em caixa especial oriunda das receitas especificadas;
+
+
+II –
+
+direitos que por ventura vierem a constituir.
+
+
+##### Seção III — Dos Passivos do Fundo
+
+
+Art. 8º.
+
+Constituem passivos do Fundo Municipal Antidrogas as obrigações de qualquer natureza que porventura o Município venha a assumir para a manutenção e o funcionamento do Sistema Municipal Antidrogas.
+
+
+#### CAPÍTULO III — DO ORÇAMENTO E DA CONTABILIDADE
+
+
+##### Seção I — Do Orçamento
+
+
+Art. 9º.
+
+O orçamento do Fundo Municipal Antidrogas evidenciará as políticas e o programa de trabalhos governamentais, observados o Plano Plurianual, a Lei de Diretrizes Orçamentárias e os princípios da universalidade e do equilíbrio.
+
+
+§ 1º
+
+O orçamento do Fundo Municipal Antidrogas integrará o orçamento do Município, em obediência ao princípio da unidade.
+
+
+§ 2º
+
+O orçamento do Fundo Municipal Antidrogas observará, na sua elaboração e na sua execução, os padrões e normas estabelecidas na legislação pertinente.
+
+
+##### Seção II — Da Contabilidade
+
+
+Art. 10.
+
+A contabilidade do Fundo Municipal Antidrogas tem por objetivo evidenciar a situação financeira, patrimonial e orçamentária do Sistema Municipal Antidrogas, observados os padrões e normas estabelecidas na legislação pertinente.
+
+
+Art. 11.
+
+A contabilidade será organizada de forma a permitir o exercício das suas funções de controle prévio, de informar, apropriar e apurar custos, concretizar o seu objetivo, bem como interpretar e analisar os resultados obtidos.
+
+
+Art. 12.
+
+A escrituração contábil será feita pelo método das partidas dobradas.
+
+
+§ 1º
+
+A contabilidade emitirá relatórios mensais de gestão, inclusive dos custos dos serviços.
+
+
+§ 2º
+
+Entende-se por relatórios de gestão, os balancetes mensais de receita e de despesa do Fundo Municipal Antidrogas e demais demonstrações exigidas pela administração e pela legislação pertinente.
+
+
+§ 3º
+
+As demonstrações e os relatórios elaborados passarão a integrar a contabilidade geral do Município.
+
+
+#### CAPÍTULO IV — DA EXECUÇÃO ORÇAMENTÁRIA
+
+
+##### Seção I — Das Despesas
+
+
+Art. 13.
+
+Imediatamente após a promulgação da Lei Orçamentária, o Secretário Municipal de Saúde aprovará o quadro de cotas mensais.
+
+
+Parágrafo único
+
+As cotas mensais poderão ser alteradas durante o exercício, observados o limite fixado no orçamento e o comportamento de sua execução.
+
+
+Art. 14.
+
+Nenhuma despesa será realizada sem a necessária autorização orçamentária.
+
+
+Parágrafo único
+
+Para os casos de insuficiência e omissões orçamentárias poderão ser utilizados os créditos adicionais, suplementares e especiais, autorizados por Lei e abertos por Decreto do Executivo.
+
+
+Art. 15.
+
+A despesa do Fundo Municipal Antidrogas se constituirá de:
+
+
+I –
+
+Financiamento total ou parcial de programas integrados e desenvolvidos pela Secretaria Municipal de Saúde e com ela conveniados;
+
+
+II –
+
+pagamento de vencimentos, salários, gratificações ao pessoal dos órgãos ou entidades da administração direta ou indireta que participem da execução das ações previstas no artigo 1º da presente lei;
+
+
+III –
+
+pagamento pela prestação de serviços a entidades de direito privado para execução de programas ou projetos específicos do setor;
+
+
+IV –
+
+aquisição de material permanente e de consumo e de outros insumos necessários ao desenvolvimento dos programas;
+
+
+V –
+
+desenvolvimento e aperfeiçoamento dos instrumentos de gestão, planejamento, administração e controle das ações antidrogas;
+
+
+VI –
+
+desenvolvimento de programas de capacitação e aperfeiçoamento de recursos humanos;
+
+
+VII –
+
+atendimento de despesas diversas, de caráter urgente inadiável, necessárias à execução das ações e serviços mencionados no artigo 1º da presente Lei.
+
+
+VIII –
+
+construção, reforma, ampliação ou locação de imóveis, necessários aos objetivos do Conselho Municipal Antidrogas.
+
+
+##### Seção II — Das Receitas
+
+
+Art. 16.
+
+A execução orçamentária das receitas se processará através da obtenção do seu produto nas fontes determinadas nesta Lei.
+
+
+Art. 17.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Buritis, 23 de Dezembro de 2008.
+
+**Dr. Keny Soares Rodrigues Prefeito Municipal**
+
+**Proposição de Lei 036/2008. Projeto de Lei 042/2008.**
+

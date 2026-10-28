@@ -1,0 +1,58 @@
+{
+  "documentos": 116,
+  "tabelas": 76,
+  "riscos_css_hidden_tachados": 0,
+  "divergencias_matrizes": 0,
+  "diagnosticos_brutos": [
+    "reguladores/planejamento/portarias/2018/portaria-n-486-de-29-de-dezembro-de-2017-1537697.md"
+  ],
+  "controle_textual_vinculado": [
+    {
+      "path": "reguladores/planejamento/portarias/2018/portaria-n-486-de-29-de-dezembro-de-2017-1537697.md",
+      "sha256_md": "b13b8c5364d4b9308bac0edf0cc78d3c61a035dfc552924908b4a2108b92b4a3",
+      "sha256_fonte": "b6713d6124dba038abaff1b74ddfa9664797fceb317134a366c275c4c88c1064",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DO OBJETO",
+          "fonte": "CAPÍTULO I DO OBJETO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DO EXPEDIENTE E DA JORNADA DE TRABALHO",
+          "fonte": "CAPÍTULO II DO EXPEDIENTE E DA JORNADA DE TRABALHO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — DO EXPEDIENTE",
+          "fonte": "Seção I DO EXPEDIENTE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — DA JORNADA DE TRABALHO",
+          "fonte": "Seção II DA JORNADA DE TRABALHO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — DO CONTROLE DE FREQUÊNCIA",
+          "fonte": "Seção III DO CONTROLE DE FREQUÊNCIA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção IV — DO INTERVALO PARA REFEIÇÃO E DESCANSO",
+          "fonte": "Seção IV DO INTERVALO PARA REFEIÇÃO E DESCANSO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DAS DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO III DAS DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "sha256_visivel_fonte": "c7d3d273e5b7e2d8855c51017f7713e8c23101205f1eacc3595d310a61455582",
+      "sha256_visivel_md": "3a5970ae377bea8ea6a6a2c359e653810e5a904c8c3c10e625ed8df87db291a9"
+    }
+  ],
+  "criterio": "Supplemento de CSS inline/hidden/tachados e matrizes HTML5 das fontes completas; único diagnóstico bruto vinculado à igualdade textual literal já comprovada no render com heading editorial. Nenhuma nova normalização ou alteração de corpo. CSS externo não fornecido não certificado."
+}

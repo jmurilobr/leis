@@ -1,0 +1,171 @@
+---
+titulo: "Lei nº 2.869, de 14 de outubro de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2869"
+data: "2021-10-14"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/13871"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/1939/text"
+sha256_fonte: "59b3f5b8a8bee3e8ce17ed70b689f25154a664645123dfcd5df3a1cfd63a8a0a"
+sha256_texto: "f5480df6523b426696cbf82ed19a1c32e576e98f558839538af69925ca00850d"
+capturado_em_fonte: "2026-10-21T06:58:33.987204-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 2.869, de 14 de outubro de 2021
+
+“Dispõe de medidas para promover a segurança, a prevenção, a proteção e o combate à violência contra profissionais do ensino no município de Porto Velho – RO e dá outras providências.”
+
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou, e eu, Vereador EDWILSON NEGREIROS, Presidente da Câmara Municipal, promulgo, nos termos do § 2º, do art. 72 da Lei Orgânica do Município, a seguinte
+
+**L E I:**
+
+
+Art. 1º.
+
+Institui medidas para promover a segurança, a prevenção, a proteção e o combate à violência física ou moral contra os profissionais de ensino no município de Porto Velho.
+
+
+Art. 2º.
+
+São profissionais de ensino os docentes, os que oferecem suporte pedagógico direto no exercício da docência, os dirigentes ou administradores das instituições de ensino, do seu planejamento, inspeção, supervisão, orientação educacional e coordenação pedagógica.
+
+
+Art. 3º.
+
+Considera-se violência contra os profissionais de ensino, qualquer ação ou omissão decorrente, direta ou indiretamente, do exercício de sua profissão que lhe cause:
+
+
+I –
+
+dano moral;
+
+
+II –
+
+dano patrimonial;
+
+
+III –
+
+lesão corporal leve, grave ou gravíssima;
+
+
+IV –
+
+morte.
+
+
+Art. 4º.
+
+Para fins de prevenção e combate à violência nas unidades educacionais, o município deverá:
+
+
+I –
+
+Estimular seus docentes e discentes, familiares e comunidades a promover atividades de reflexão e análise da violência contra os profissionais de ensino;
+
+
+II –
+
+Adotar medidas preventivas e corretivas para situações em que profissionais de ensino, em decorrência de suas funções, estejam sendo vítimas de violência, ou quando sua integridade física ou moral esteja sob risco;
+
+
+III –
+
+Estabelecer, em parceria com a comunidade escolar, normas de segurança, prevenção e proteção de seus educadores como parte da proposta pedagógica;
+
+
+IV –
+
+Motivar os discentes a participar das decisões disciplinares da instituição sobre segurança, prevenção e proteção aos profissionais do ensino;
+
+
+V –
+
+Demonstrar à comunidade escolar que o respeito aos educadores é indispensável ao pleno desenvolvimento da pessoa dos educandos;
+
+
+VI –
+
+Realizar seminários, palestras e debates semestrais nas unidades de ensino sobre o tema da violência no ambiente escolar, com a participação de alunos e servidores da unidade de ensino, pais e comunidade escolar;
+
+
+VII –
+
+Outras medidas voltadas para a redução ou a eliminação da violência no ambiente escolar.
+
+
+Art. 5º.
+
+Na possibilidade de prática de violência física contra o profissional da educação o gestor imediato, ao tomar conhecimento da ocorrência, adotará as seguintes providências:
+
+
+I –
+
+Acionará imediatamente a Polícia Militar, comunicando o fato ocorrido, com o devido registro por meio de boletim de ocorrência;
+
+
+II –
+
+Encaminhar o profissional da educação agredido ao atendimento de saúde;
+
+
+III –
+
+Acompanhar o profissional da educação agredido à unidade de ensino, se necessário, para a retirada de seus pertences;
+
+
+IV –
+
+No caso de violência praticada por estudante menor de dezoito anos, comunicar o fato ocorrido aos pais ou ao responsável legal do agressor e acionar o Conselho Tutelar e o Ministério Público;
+
+
+V –
+
+Adotar as medidas necessárias para garantir o afastamento do profissional da educação, vítima de agressão, do convívio com o agressor no ambiente escolar, possibilitando ao agredido, conforme o caso e mediante atestado médico, o direito de mudar de turno ou de local de trabalho ou de afastar-se de suas atividades, assegurada a percepção total de sua remuneração, observada a legislação pertinente;
+
+
+VI –
+
+Dar início aos procedimentos necessários para a caracterização de violência sofrido no ambiente de trabalho, comunicando oficialmente, por escrito, à Secretaria Municipal de Educação, a agressão ocorrida;
+
+
+VII –
+
+Registrar todas as agressões ocorridas contra os profissionais de ensino no ambiente escolar seja verbais, psicológicas, virtuais ou físicas, a fim de gerar estatísticas que permitam avaliar a frequência dos eventos e estimar a eficácia da presente lei.
+
+
+Art. 6º.
+
+O Poder Executivo terá um prazo de sessenta dias para regulamentar a presente lei.
+
+
+Art. 7º.
+
+As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Câmara Municipal de Porto Velho, 14 de outubro de 2021.
+
+**Vereador Edwilson Negreiros**
+
+**Presidente**
+
+Projeto de Lei nº 4.166/2021
+
+Vereadora Ellis Regina
+

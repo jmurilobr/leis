@@ -1,0 +1,266 @@
+---
+titulo: "04 - Lei Ordinária nº 1.091, de 10 de junho de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "1091"
+data: "2020-06-10"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/426"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/409/text"
+sha256_fonte: "5a014b05e52e23f1399dbe0ae1f1c840baaa0f0d8dd0a1bd56c577831a3161ee"
+sha256_texto: "71deebe174410f3797717c034727bc802a07b7857709d773a07187aaa59b77e4"
+capturado_em_fonte: "2026-10-28T06:04:45.033251-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 1.091, de 10 de junho de 2020
+
+Abre Crédito Adicional Especial e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou e, Eu Prefeito Municipal sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado:
+
+
+I –
+
+a incluir no orçamento o projeto atividade 2.526;
+
+
+II –
+
+a incluir no orçamento os elementos de despesas: 3.3.90.39.00.00 - Outros Serviços de terceiros-PJ, 3.3.90.08.00.00 - Outros Benefícios Assistenciais e 3.3.90.33.00.00 - Passagens e despesas com locomoção;
+
+
+III –
+
+a alterar os anexos do PLANO PLURIANUAL para o quadriênio 2018 a 2021, da Lei Municipal nº 974 de 21/12/2017 - PPA e alterar a Lei Municipal nº 1.080 de 19/12/2018 -LOA 2020.
+
+
+Art. 2º.
+
+Fica aberto no corrente exercício o Crédito Adicional Especial, no orçamento geral do Município, no valor de **R$ 719.546,73 (setecentos e dezenove mil quinhentos e quarenta e seis reais e setenta e três centavos)** nas seguintes dotações orçamentárias:
+
+
+**Suplementação:**
+
+05.000.00.000.0000.0.000. SECRETARIA DE VIAÇÃO, URBANISMO E OBRAS PÚBLICAS
+
+05.001.00.000.0000.0.000. GABINETE DO SECRETÁRIO DE VIAÇÃO, URBANISMO E
+
+OBRAS PÚBLICAS
+
+05.001.04.122.0330.2.200. MANUTENÇÃO GABINETE DO SECRETÁRIO DE OBRAS E
+
+URBANISMO
+
+572 - 3.3.90.08.00.00 01507 OUTROS BENEFÍCIOS ASSISTENCIAIS DO 2.000,00
+
+SERVIDOR E DO MILITAR
+
+06.000.00.000.0000.0.000. SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA
+
+06.002.00.000.0000.0.000. FUNDEB - FUNDO DE DESENVOLVIMENTO DA EDUCAÇÃO
+
+06.002.12.361.0180.2.230. FUNDEB 60% - MAGISTÉRIO
+
+567 - 3.3.90.08.00.00 01101 OUTROS BENEFÍCIOS ASSISTENCIAIS DO 30.000,00
+
+SERVIDOR E DO MILITAR
+
+06.002.12.361.0180.2.235. FUNDEB 40% - ATIVIDADES ESCOLARES
+
+569 - 3.3.90.08.00.00 01102 OUTROS BENEFÍCIOS ASSISTENCIAIS DO 15.000,00
+
+SERVIDOR E DO MILITAR
+
+06.002.12.365.0200.2.585. FUNDEB 60% - MAGISTÉRIO
+
+568 - 3.3.90.08.00.00 01101 OUTROS BENEFÍCIOS ASSISTENCIAIS DO 5.000,00
+
+SERVIDOR E DO MILITAR
+
+06.005.00.000.0000.0.000. DEPARTAMENTO DE EDUCAÇÃO ESPECIAL
+
+06.005.12.367.0210.2.270. MANUTENÇÃO ATIVIDADES DA EDUCAÇÃO ESPECIAL
+
+573 - 3.3.90.33.00.00 01104 PASSAGENS E DESPESAS COM LOCOMOÇÃO 50.000,00
+
+07.000.00.000.0000.0.000. SECRETARIA DE SAÚDE
+
+07.002.00.000.0000.0.000. FUNDO MUNICIPAL DE SAÚDE
+
+07.002.10.122.0130.2.526. MANUTENÇÃO DO PROGRAMA DE ENFRENTAMENTO
+
+EMERGENCIAL AO COVID-19
+
+575 - 3.3.90.39.00.00 31346 OUTROS SERVIÇOS DE TERCEIROS - PESSOA 292.546,73
+
+JURÍDICA
+
+07.002.10.301.0130.2.525. MANUTENÇÃO DO DEPARTAMENTO DE ATENDIMENTO
+
+PRIMÁRIO SAÚDE COMUNITÁRIA
+
+570 - 3.3.90.08.00.00 01303 OUTROS BENEFÍCIOS ASSISTENCIAIS DO 20.000,00
+
+SERVIDOR E DO MILITAR
+
+558 - 3.3.90.30.00.00 9494 MATERIAL DE CONSUMO 80.000,00
+
+557 - 3.3.90.39.00.00 9494 OUTROS SERVIÇOS DE TERCEIROS - PESSOA 220.000,00
+
+JURÍDICA
+
+07.002.10.304.0360.2.520. EXECUÇÃO DO PROGRAMA DE VIGILÂNCIA EM SAUDE
+
+571 - 3.3.90.08.00.00 1494 OUTROS BENEFÍCIOS ASSISTENCIAIS DO 5.000,00
+
+SERVIDOR E DO MILITAR
+
+**Total Suplementação: 719.546,73**
+
+
+Art. 3º.
+
+Para atender o disposto no Artigo 2º desta Lei, servirá como recurso:
+
+
+§ 1º
+
+O provável Excesso de Arrecadação conforme disposto no Art. 43, § 3º, da Lei 4320 de 17 de março de 1964, nas alíneas das Receitas discriminadas abaixo, no valor de R$ 592.546,73 (Quinhentos e noventa e dois mil, quinhentos e quarenta e seis reais, e setenta e três centavos).
+
+
+**Receita:**
+
+Receita: 1.7.1.8.03.91.00.00000000 Fonte: 31346 292.546,73
+
+Receita: 1.7.1.8.99.11.01.00000000 Fonte: 9494 300.000,00
+
+**Total da Receita: 592.546,73**
+
+
+§ 2º
+
+O cancelamento parcial de dotações orçamentárias, conforme discriminação abaixo, de acordo com o Artigo 43, § 1º, Inciso III da Lei Federal nº 4.320/64 , no valor de R$ 127.000,00 (cento e vinte e sete mil reais).
+
+
+**Redução:**
+
+05.000.00.000.0000.0.000. SECRETARIA DE VIAÇÃO, URBANISMO E OBRAS PÚBLICAS
+
+05.001.00.000.0000.0.000. GABINETE DO SECRETÁRIO DE VIAÇÃO, URBANISMO E
+
+OBRAS PÚBLICAS
+
+05.001.04.122.0330.2.200. MANUTENÇÃO GABINETE DO SECRETÁRIO DE OBRAS E
+
+URBANISMO
+
+130 - 3.1.90.05.00.00 01507 OUTROS BENEFÍCIOS PREVIDENCIÁRIOS DO 2.000,00
+
+SERVIDOR OU DO MILITAR
+
+06.000.00.000.0000.0.000. SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA
+
+06.002.00.000.0000.0.000. FUNDEB - FUNDO DE DESENVOLVIMENTO DA EDUCAÇÃO
+
+06.002.12.361.0180.2.230. FUNDEB 60% - MAGISTÉRIO
+
+200 - 3.1.90.05.00.00 01101 OUTROS BENEFÍCIOS PREVIDENCIÁRIOS DO 30.000,00
+
+SERVIDOR OU DO MILITAR
+
+06.002.12.361.0180.2.235. FUNDEB 40% - ATIVIDADES ESCOLARES
+
+205 - 3.1.90.05.00.00 01102 OUTROS BENEFÍCIOS PREVIDENCIÁRIOS DO 15.000,00
+
+SERVIDOR OU DO MILITAR
+
+06.002.12.365.0200.2.585. FUNDEB 60% - MAGISTÉRIO
+
+212 - 3.1.90.05.00.00 01101 OUTROS BENEFÍCIOS PREVIDENCIÁRIOS DO 5.000,00
+
+SERVIDOR OU DO MILITAR
+
+06.003.00.000.0000.0.000. DEPARTAMENTO DE ENSINO FUNDAMENTAL
+
+06.003.12.361.0180.1.730. READEQUAÇÃO DA ACESSIBILIDADE NAS ESCOLAS
+
+228 - 3.3.90.30.00.00 01104 MATERIAL DE CONSUMO 8.000,00
+
+06.004.00.000.0000.0.000. DEPARTAMENTO DE ENSINO PRÉ-ESCOLAR
+
+06.004.12.365.0200.2.255. MANUTENÇÃO TRANSPORTE ESCOLAR – ENSINO
+
+PRÉ-ESCOLAR
+
+279 - 3.3.90.33.00.00 01104 PASSAGENS E DESPESAS COM LOCOMOÇÃO 22.000,00
+
+06.005.00.000.0000.0.000. DEPARTAMENTO DE EDUCAÇÃO ESPECIAL
+
+06.005.12.367.0210.2.270. MANUTENÇÃO ATIVIDADES DA EDUCAÇÃO ESPECIAL
+
+299 - 3.3.50.43.00.00 01000 SUBVENÇÕES SOCIAIS 20.000,00
+
+07.000.00.000.0000.0.000. SECRETARIA DE SAÚDE
+
+07.002.00.000.0000.0.000. FUNDO MUNICIPAL DE SAÚDE
+
+07.002.10.301.0130.2.525. MANUTENÇÃO DO DEPARTAMENTO DE ATENDIMENTO
+
+PRIMÁRIO SAÚDE COMUNITÁRIA
+
+345 - 3.1.90.05.00.00 01303 OUTROS BENEFÍCIOS PREVIDENCIÁRIOS DO 20.000,00
+
+SERVIDOR OU DO MILITAR
+
+07.002.10.304.0360.2.520. EXECUÇÃO DO PROGRAMA DE VIGILÂNCIA EM SAUDE
+
+394 - 3.1.90.05.00.00 1494 OUTROS BENEFÍCIOS PREVIDENCIÁRIOS DO 5.000,00
+
+SERVIDOR OU DO MILITAR
+
+**Total Redução: 127.000,00**
+
+
+Art. 4º.
+
+A abertura deste CRÉDITO ESPECIAL, tem por finalidade suprir as omissões da Lei Orçamentária para o ano de 2020 e ao mesmo tempo adequar a LDO e o PPA 2018-2021 à inclusão dos novos elementos de despesas.
+
+
+Art. 5º.
+
+As demais legislações orçamentárias municipais, se necessário, deverão se compatibilizar com o Plano Plurianual em virtude das alterações contidas nesta Lei.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná
+
+Em 10 de junho de 2020, 59º da Emancipação Política.
+
+GIOVANI MIGUEL WOLF HNATUW
+
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 1077 de 10/06/2020, pág. 02-05.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/426/ta
+

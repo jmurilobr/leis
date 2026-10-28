@@ -1,0 +1,93 @@
+---
+titulo: "04 - Lei Ordinária nº 1.121, de 13 de abril de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "1121"
+data: "2021-04-13"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1017"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1016/text"
+sha256_fonte: "b033860b0ba46cbecd020897bce44d75660dcd1c6d9323d4471a6d39a370a013"
+sha256_texto: "91bad30f48fcc085f56d437a6cca380bdeb22bdd60b221794ba6074583bf6cf1"
+capturado_em_fonte: "2026-10-28T06:03:35.420460-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 1.121, de 13 de abril de 2021
+
+Dispõe sobre a proibição da queima e ou soltura de fogos de artifício de altos estampidos, assim como de quaisquer artefatos pirotécnicos de efeito sonoro ruidoso, que causem poluição sonora acima de 85 decibéis, no Município de Corbélia.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Fica proibida a utilização por meio de queima e ou soltura de fogos de estampidos e ou de artifícios, assim como de quaisquer artefatos pirotécnicos de efeito sonoro ruidoso, tanto em ambientes abertos como em recintos fechados, quanto em áreas públicas, como em locais privados, que causem poluição sonora acima de 85 dB (decibéis), em todo o território do município de Corbélia.
+
+
+Parágrafo único
+
+A medição dos decibéis deverá ser realizada em uma distância de 100 m de distância do local onde está sendo realizada a soltura/queima.
+
+
+Art. 2º.
+
+Ficam permitidos o uso de fogos de artifícios e similares, que não causem poluição sonora, que não ultrapasse 85dB.
+
+
+Parágrafo único
+
+A poluição sonora, será considerada conforme as recomendações das NBR 10.151 e NBR 70.752, ou as que lhe sucederem.
+
+
+Art. 3º.
+
+As condutas que infringirem as determinações desta lei, estarão sujeitando seus responsáveis as seguintes penalidades e multas:
+
+
+I –
+
+multa, no valor de 20 (vinte) Unidades Fiscais do Município (UFM’s), em caso de pessoa física ou jurídica que queimar ou soltar fogos de artifício ou similares com ruídos sonoros;
+
+
+II –
+
+em caso de reincidência, aplicar-se-á multa dobrada.
+
+
+§ 1º
+
+A reincidência da infração, em caso de pessoa jurídica, ocasionara a cassação do Alvará de Funcionamento, sem prejuízo das demais penalidades previstas neste artigo, caso seja realizada a soltura nas dependências da mesma.
+
+
+§ 2º
+
+Cabe ao Poder Executivo à regulamentar a estrutura de fiscalização, aplicação e execução das penas previstas nesta Lei.
+
+
+Art. 4º.
+
+Esta Lei entrará em vigor na data se sua publicação.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná
+
+Em 13 de abril de 2021, 60º da Emancipação Política.
+
+Dangelles Decki
+
+Prefeito Municipal em Exercício
+
+Não substitui o texto publicado no DOE 1283 de 13/04/2021, pág. 02-03.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1017/ta
+

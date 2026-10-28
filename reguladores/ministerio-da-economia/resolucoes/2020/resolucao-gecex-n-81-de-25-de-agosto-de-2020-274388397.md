@@ -1,0 +1,40 @@
+---
+titulo: "RESOLUÇÃO GECEX Nº 81, DE 25 DE AGOSTO DE 2020"
+orgao: "Ministério da Economia/Câmara de Comércio Exterior/Comitê-Executivo de Gestão"
+tipo: "Resolução"
+numero: "81"
+data: 2020-08-25
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 27/08/2020, seção 1, p. 60"
+data_publicacao: 2020-08-27
+edicao: "165"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-gecex-n-81-de-25-de-agosto-de-2020-274388397"
+sha256_html_fonte: e7d1681edea4c8b1cc61a7003ae0af88f9115e1bb42c55fc42007bb985daf671
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO GECEX Nº 81, DE 25 DE AGOSTO DE 2020
+
+RESOLUÇÃO GECEX Nº 81, DE 25 DE AGOSTO DE 2020
+
+Altera as Listas de Autopeças não Produzidas, constantes dos Anexos I e II da Resolução nº 102, de 17 de dezembro de 2018, da Câmara de Comércio Exterior.
+
+O COMITÊ-EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR, no uso da atribuição que lhe conferem o art. 21, § 2º, da Lei nº 13.755, de 10 de dezembro de 2018, o art. 34 do Decreto nº 9.557, de 8 de novembro de 2018, o art. 7º, caput, do Decreto nº 10.044, de 4 de outubro de 2019, o art. 16 da Resolução nº 102, de 17 de dezembro de 2018, da Câmara de Comércio Exterior, e tendo em vista a deliberação de sua 173ª reunião, ocorrida em 12 de agosto de 2020, resolve:
+
+**Art. 1º** Ficam excluídas do Anexo I da Resolução nº 102, de 2018, da Câmara de Comércio Exterior, as seguintes autopeças, incluídas pelos respectivos atos legais indicados:
+
+<table><tr></tr><tr><td rowspan="1" colspan="1"><p>NCM</p></td><td rowspan="1" colspan="1"><p>Nº Ex</p></td><td rowspan="1" colspan="1"><p>Ato Legal</p></td></tr><tr><td rowspan="1" colspan="1"><p>8505.11.00</p></td><td rowspan="1" colspan="1"><p>003</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 41, de 04/05/2020.</p></td></tr><tr><td rowspan="1" colspan="1"><p>8523.52.10</p></td><td rowspan="1" colspan="1"><p>001</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 102, de 17/12/2018.</p></td></tr><tr><td rowspan="1" colspan="1"><p>8523.52.10</p></td><td rowspan="1" colspan="1"><p>002</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 102, de 17/12/2018.</p></td></tr><tr><td rowspan="1" colspan="1"><p>8412.21.90</p></td><td rowspan="1" colspan="1"><p>021</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 102, de 17/12/2018.</p></td></tr><tr><td rowspan="1" colspan="1"><p>8412.21.90</p></td><td rowspan="1" colspan="1"><p>023</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 102, de 17/12/2018.</p></td></tr><tr><td rowspan="1" colspan="1"><p>8412.21.90</p></td><td rowspan="1" colspan="1"><p>070</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 102, de 17/12/2018.</p></td></tr><tr><td rowspan="1" colspan="1"><p>8482.91.19</p></td><td rowspan="1" colspan="1"><p>003</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 102, de 17/12/2018.</p></td></tr><tr><td rowspan="1" colspan="1"><p>8483.10.90</p></td><td rowspan="1" colspan="1"><p>003</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 102, de 17/12/2018.</p></td></tr><tr><td rowspan="1" colspan="1"><p>8483.10.90</p></td><td rowspan="1" colspan="1"><p>006</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 102, de 17/12/2018.</p></td></tr><tr><td rowspan="1" colspan="1"><p>8708.50.99</p></td><td rowspan="1" colspan="1"><p>021</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 102, de 17/12/2018.</p></td></tr><tr><td rowspan="1" colspan="1"><p>8708.50.99</p></td><td rowspan="1" colspan="1"><p>022</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 102, de 17/12/2018.</p></td></tr><tr><td rowspan="1" colspan="1"><p>8708.50.99</p></td><td rowspan="1" colspan="1"><p>023</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 102, de 17/12/2018.</p></td></tr><tr><td rowspan="1" colspan="1"><p>8708.91.00</p></td><td rowspan="1" colspan="1"><p>005</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 102, de 17/12/2018.</p></td></tr><tr><td rowspan="1" colspan="1"><p>9401.90.90</p></td><td rowspan="1" colspan="1"><p>004</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 102, de 17/12/2018.</p></td></tr></table>
+
+**Art. 2º** Ficam excluídas do Anexo II da Resolução nº 102, de 2018, da Câmara de Comércio Exterior, as seguintes autopeças, incluídas pelos respectivos atos legais indicados:
+
+<table><tr></tr><tr><td rowspan="1" colspan="1"><p>NCM</p></td><td rowspan="1" colspan="1"><p>Nº Ex</p></td><td rowspan="1" colspan="1"><p>Resolução que concedeu o Ex-tarifário</p></td></tr><tr><td rowspan="1" colspan="1"><p>8412.21.90</p></td><td rowspan="1" colspan="1"><p>028</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 102, de 17/12/2018.</p></td></tr><tr><td rowspan="1" colspan="1"><p>8412.21.90</p></td><td rowspan="1" colspan="1"><p>029</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 102, de 17/12/2018.</p></td></tr><tr><td rowspan="1" colspan="1"><p>8412.21.90</p></td><td rowspan="1" colspan="1"><p>033</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 102, de 17/12/2018.</p></td></tr><tr><td rowspan="1" colspan="1"><p>8412.21.90</p></td><td rowspan="1" colspan="1"><p>036</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 102, de 17/12/2018.</p></td></tr><tr><td rowspan="1" colspan="1"><p>8412.21.90</p></td><td rowspan="1" colspan="1"><p>039</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 102, de 17/12/2018.</p></td></tr><tr><td rowspan="1" colspan="1"><p>8412.21.90</p></td><td rowspan="1" colspan="1"><p>045</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 102, de 17/12/2018.</p></td></tr><tr><td rowspan="1" colspan="1"><p>8412.21.90</p></td><td rowspan="1" colspan="1"><p>050</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 102, de 17/12/2018.</p></td></tr><tr><td rowspan="1" colspan="1"><p>8412.21.90</p></td><td rowspan="1" colspan="1"><p>053</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 102, de 17/12/2018.</p></td></tr><tr><td rowspan="1" colspan="1"><p>8412.21.90</p></td><td rowspan="1" colspan="1"><p>054</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 102, de 17/12/2018.</p></td></tr><tr><td rowspan="1" colspan="1"><p>8412.21.90</p></td><td rowspan="1" colspan="1"><p>056</p></td><td rowspan="1" colspan="1"><p>Resolução CAMEX n° 102, de 17/12/2018.</p></td></tr></table>
+
+**Art. 3º** Ficam incluídos, no Anexo I do respectivo ato legal indicado, os Ex-tarifários:
+
+<table><tr></tr><tr><td rowspan="1" colspan="1"><p>NCM</p></td><td rowspan="1" colspan="1"><p>Nº Ex</p></td><td rowspan="1" colspan="1"><p>Descrição</p></td><td rowspan="1" colspan="1"><p>Ato Legal</p></td></tr><tr><td rowspan="1" colspan="1"><p>8505.11.00</p></td><td rowspan="1" colspan="1"><p>005</p></td><td rowspan="1" colspan="1"><p>Imã permanente de neodímio ou outra composição de terras raras, com baixa massa e volume, para a geração de campo magnético de alta performance, do tipo usado em produto automotivo.</p></td><td rowspan="1" colspan="1"><p>Resolução Camex nº 102, 17/12/2018.</p></td></tr><tr><td rowspan="1" colspan="1"><p>8523.52.10</p></td><td rowspan="1" colspan="1"><p>008</p></td><td rowspan="1" colspan="1"><p>Transponder de comunicação por radiofrequência entre 100 e 150 KHz (RF-ID) de acionamento por aproximação para identificação de chave veicular, envolto em encapsulamento plástico.</p></td><td rowspan="1" colspan="1"><p>Resolução Camex nº 102, 17/12/2018.</p></td></tr><tr><td rowspan="1" colspan="1"><p>8523.52.10</p></td><td rowspan="1" colspan="1"><p>009</p></td><td rowspan="1" colspan="1"><p>Transponder de comunicação por radiofrequência entre 100 e 150 KHz (RF-ID), de acionamento por aproximação para identificação de chave veicular, envolto em encapsulamento vítreo.</p></td><td rowspan="1" colspan="1"><p>Resolução Camex nº 102, 17/12/2018.</p></td></tr></table>
+
+**Art. 4º** Esta Resolução entrará em vigor na data de sua publicação, produzindo efeitos a partir de 1º de setembro de 2020.
+
+MARCELO PACHECO DOS GUARANYS
+
+Presidente do Comitê-Executivo de Gestão Substituto

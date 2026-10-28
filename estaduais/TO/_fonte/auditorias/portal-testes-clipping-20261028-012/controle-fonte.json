@@ -1,0 +1,67 @@
+{
+  "captura": {
+    "item": {
+      "id_ALETO": "7445",
+      "fonte": "https://www.al.to.leg.br/arquivo/7445",
+      "titulo_indice": "Lei nº 1199 de 2000 (ordinária)",
+      "numero": "1199",
+      "ano_titulo": "2000",
+      "tipo": "Lei Ordinária",
+      "pasta": "leis-ordinarias",
+      "data_cartao": "2000-12-19",
+      "data_literal": "| Data: 19/12/2000",
+      "ementa": "Autoriza a AD-TOCANTINS a participar do capital social de empresa privada, e adota outras providências.",
+      "divergencia_ano_cartao_titulo": false,
+      "indicacao_editorial_compilacao": false,
+      "indice": {
+        "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2000&pagPaginaAtual=1",
+        "iniciado_em": "2026-10-27T22:54:58.186287-03:00",
+        "capturado_em": "2026-10-27T22:54:59.215418-03:00",
+        "retorno_curl": 0,
+        "ano_filtro": 2000,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2000&pagPaginaAtual=1",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-sondagem-20261027-001/2396cf7ece8fc6526a0d563df6265c3f97cc15e3c11612de4c742d97d3a79ede.html.gz",
+        "sha256_fonte": "2396cf7ece8fc6526a0d563df6265c3f97cc15e3c11612de4c742d97d3a79ede",
+        "sha256_cache": "71f34033a8e2fb4e08771ac061c96279d16d053fb70291eccee0f7ef12dcd167",
+        "bytes": 41835,
+        "headers": {
+          "cache-control": "private",
+          "content-type": "text/html;charset=UTF-8",
+          "date": "Wed, 28 Oct 2026 01:51:52 GMT"
+        },
+        "headers_sessao_omitidos": true,
+        "reutilizado": true,
+        "pagina": 1,
+        "total_registros_declarado": 86,
+        "paginas_esperadas": 5
+      },
+      "ano_filtro": 2000,
+      "pagina": 1
+    },
+    "url": "https://www.al.to.leg.br/arquivo/7445",
+    "iniciado_em": "2026-10-28T06:01:16.570442-03:00",
+    "capturado_em": "2026-10-28T06:01:17.367510-03:00",
+    "retorno_curl": 0,
+    "http": 200,
+    "url_final": "https://www.al.to.leg.br/arquivos/7445.pdf",
+    "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/fbb21b9ed36f65f9e53d41ed6f6d749d87aee2509a4f722198802c81790f353e.bin.gz",
+    "sha256_fonte": "fbb21b9ed36f65f9e53d41ed6f6d749d87aee2509a4f722198802c81790f353e",
+    "sha256_cache": "16fe4489071b3b52b8890c3d21a4fe36356f232c10391d3ce2a8e0e628318d3d",
+    "bytes": 21540,
+    "PDF": true,
+    "headers": {
+      "cache-control": "private",
+      "location": "https://www.al.to.leg.br/arquivos/7445.pdf",
+      "content-length": "21540",
+      "date": "Wed, 28 Oct 2026 08:58:10 GMT",
+      "accept-ranges": "bytes",
+      "etag": "W/\"21540-1560775745222\"",
+      "last-modified": "Mon, 17 Jun 2019 12:49:05 GMT",
+      "content-type": "application/pdf"
+    },
+    "headers_sessao_omitidos": true
+  },
+  "sha256_PDF": "fbb21b9ed36f65f9e53d41ed6f6d749d87aee2509a4f722198802c81790f353e",
+  "limite": "PDF original íntegro usado como prova e provedor de fontes incorporadas para fixtures modificados exclusivamente em memória; fixtures não representam novas fontes oficiais."
+}

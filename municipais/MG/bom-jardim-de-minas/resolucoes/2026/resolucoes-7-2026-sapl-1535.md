@@ -1,0 +1,493 @@
+---
+titulo: "RESOLUÇÃO nº 7, de 18 de junho de 2026"
+tipo: "Resolução"
+tipo_na_fonte: "RESOLUÇÃO"
+numero: "7"
+data: "2026-06-18"
+municipio: "Bom Jardim de Minas"
+uf: "MG"
+codigo_ibge: "3107505"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bomjardimdeminas.mg.leg.br/norma/1535"
+fonte_texto: "https://sapl.bomjardimdeminas.mg.leg.br/ta/51/text"
+sha256_fonte: "a190a57c68addd5178c68ddc32f6bdbd3ddd612cb06314e9e42e280c00f58c5a"
+sha256_texto: "934787b75b753ca664af5048c09669f3836948f817258850fbaaf2dd49e85ca7"
+capturado_em_fonte: "2026-10-27T19:33:38.042826-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# RESOLUÇÃO nº 7, de 18 de junho de 2026
+
+Faço saber que a Câmara Municipal de Bom Jardim de Minas-MG aprovou e eu, Presidente, nos termos do inciso IV do art. 32 da Lei Orgânica do Município, promulgo a seguinte Resolução:
+
+
+Regulamenta a ouvidoria da Câmara Municipal de Bom Jardim de Minas MG.
+
+
+A CÂMARA MUNICIPAL de Bom Jardim de Minas RESOLVE:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Esta Resolução regulamenta, no âmbito da Câmara Municipal de Bom Jardim de Minas, os capítulos III, IV e VI da Lei Federal nº 13.460, de 26 de junho de 2017.
+
+
+Parágrafo único
+
+A Câmara Municipal deverá assegurar ao usuário de serviços públicos o direito à participação na administração pública, bem como a existência de mecanismos efetivos e ágeis de proteção e defesa dos direitos de que trata a Lei Federal nº 13.460, de 2017.
+
+
+Art. 2º.
+
+A Ouvidoria é um canal permanente de interlocução e aproximação entre o Poder Legislativo Municipal e a comunidade, constituindo-se em um canal aberto para o recebimento de denúncias ou representações, reclamações, críticas, elogios, sugestões, e quaisquer outros tipos de manifestação da sociedade.
+
+
+Art. 3º.
+
+Para garantir a autonomia e permitir que exerça seu papel de auxiliar na melhoria contínua da qualidade dos serviços prestados aos usuários, a Ouvidoria atuará com autonomia funcional, estando vinculada administrativamente à Presidência da Câmara Municipal.
+
+
+Art. 4º.
+
+Para os efeitos desta norma, considera-se:
+
+
+I –
+
+Ouvidoria: instância de participação e controle social responsável pelo tratamento das manifestações relativas aos serviços públicos prestados sob qualquer forma ou regime, com vistas à avaliação da efetividade e ao aprimoramento da gestão pública;
+
+
+II –
+
+Manifestação: reclamações, denúncias, sugestões, elogios e demais pronunciamentos de usuários que tenham como objeto a prestação de serviços públicos e a conduta de agentes públicos na prestação e fiscalização de tais serviços;
+
+
+III –
+
+Reclamação: demonstração de insatisfação ou irregularidade relativa à prestação de serviço público;
+
+
+IV –
+
+Denúncia: comunicação de prática de ilícito cuja solução dependa da atuação das unidades apuratórias competentes.
+
+
+V –
+
+Elogio: demonstração de reconhecimento ou de satisfação sobre o serviço público oferecido ou atendimento recebido;
+
+
+VI –
+
+Sugestão: apresentação de ideia ou formulação de proposta de aprimoramento de serviços públicos;
+
+
+VII –
+
+Solicitação de providências: pedido para a realização de ato, conduta ou medida administrativa por parte dos órgãos e entidades da administração pública;
+
+
+VIII –
+
+Identificação: qualquer elemento de informação que permita a individualização de pessoa física ou jurídica;
+
+
+IX –
+
+Certificação de identidade: procedimento de conferência de identidade do manifestante por meio de identificação válido;
+
+
+X –
+
+Usuário: pessoa física ou jurídica que se beneficia ou utiliza, efetiva ou potencialmente, de serviço público;
+
+
+XI –
+
+Decisão administrativa final: ato administrativo por meio do qual órgão ou entidade se posiciona sobre a manifestação, com apresentação de solução ou comunicação quanto à sua impossibilidade;
+
+
+XII –
+
+Serviços públicos: atividade administrativa ou de prestação direta ou indireta de bens ou serviços à população, exercida por órgão ou entidade da administração pública;
+
+
+XIII –
+
+Comunicação: registro de fatos que relatam irregularidades ou atos ilícitos, sem identificação do usuário;
+
+
+XIV –
+
+Informe: ato de encaminhar manifestação ou comunicação aos órgãos ou às entidades mesmo que não contenham os elementos mínimos necessários para apuração, mas que foram considerados relevantes para conhecimento ou adoção de medidas preventivas.
+
+
+#### CAPÍTULO II — ATRIBUIÇÕES DA OUVIDORIA
+
+
+Art. 5º.
+
+Compete à Ouvidoria da Câmara Municipal:
+
+
+I –
+
+Receber, analisar, encaminhar e acompanhar as manifestações de pessoas físicas ou jurídicas dirigidas à Câmara Municipal, em especial aquelas que versarem sobre:
+
+
+a)
+
+Funcionamento ineficiente de serviços da Câmara Municipal;
+
+
+b)
+
+Violação das normas ou princípios da Administração Pública, ou qualquer desrespeito aos direitos e liberdades fundamentais;
+
+
+c)
+
+Ilegalidades, irregularidades, atos de improbidade e abuso de poder;
+
+
+d)
+
+Outras demandas recebidas pelos canais disponibilizados ao público.
+
+
+II –
+
+Organizar os mecanismos e canais de acesso dos interessados à Ouvidoria e orientar o público sobre as formas de sua utilização para formalização de manifestações dirigidas à Câmara Municipal;
+
+
+III –
+
+Receber sugestões de aprimoramento, críticas e elogios sobre as atividades do Poder Legislativo Municipal;
+
+
+IV –
+
+Diligenciar junto aos setores administrativos competentes, de acordo com a demanda recebida, a fim de subsidiar as informações e esclarecimentos a serem prestados, na forma e prazos definidos em lei ou em regulamento;
+
+
+V –
+
+Informar ao cidadão ou organização interessada sobre o andamento e o resultado das suas manifestações efetuadas junto à Ouvidoria;
+
+
+VI –
+
+Reunir as sugestões e necessidades manifestadas pela comunidade para sugerir à Câmara Municipal as mudanças por ela almejadas;
+
+
+VII –
+
+Organizar e manter atualizado arquivo da documentação relativa às manifestações recebidas;
+
+
+VIII –
+
+Elaborar relatório anual de gestão consolidando as informações relativas às manifestações e com base nelas apontar falhas e sugerir melhorias na prestação de serviços públicos, sem prejuízo de norma que estabeleça outra periodicidade.
+
+
+Parágrafo único
+
+O relatório anual de gestão será encaminhado à Presidência da Câmara Municipal e publicado em sítio eletrônico oficial, e deverá indicar, ao menos:
+
+
+I –
+
+O número de manifestações recebidas;
+
+
+II –
+
+Os motivos das manifestações;
+
+
+III –
+
+A análise dos pontos recorrentes;
+
+
+IV –
+
+As providências adotadas pela administração pública para solucionar as questões
+
+
+Art. 6º.
+
+A Ouvidoria Legislativa não tem atribuições correcionais, sendo constituída para atendimento direto aos munícipes.
+
+
+Parágrafo único
+
+Compete à Ouvidoria Legislativa levar ao conhecimento da Presidência da Câmara Municipal e do seu Controle Interno as irregularidades de que tiver ciência no desempenho de suas funções, a fim de que a autoridade competente possa tomar as providências e encaminhamentos que entender necessários.
+
+
+Art. 7º.
+
+A Ouvidoria poderá receber manifestações das seguintes formas, sem prejuízo de outras:
+
+
+I –
+
+Presenciais;
+
+
+II –
+
+Por telefone;
+
+
+III –
+
+Correspondência convencional; e
+
+
+IV –
+
+Por meio eletrônico em sistema informatizado.
+
+
+§ 1º
+
+Em nenhuma hipótese será recusado o recebimento de manifestações formuladas nos termos desta Resolução, sob pena de responsabilidade do agente público.
+
+
+§ 2º
+
+A solicitação de providência deve ser apresentada aos órgãos e entidades responsáveis pela prestação do serviço público.
+
+
+§ 3º
+
+No caso do recebimento de solicitação de providência pela ouvidoria, o encaminhamento será realizado ao setor responsável.
+
+
+§ 4º
+
+As comunicações não serão consideradas manifestações formais e não ensejarão resposta conclusiva, devendo ser encaminhadas para apuração, desde que presentes indícios suficientes de relevância, autoria e materialidade.
+
+
+§ 5º
+
+A certificação da identidade do usuário de serviços públicos somente será exigida, quando a resposta à manifestação implicar o acesso à informação pessoal própria ou de terceiros.
+
+
+§ 6º
+
+É vedada à Ouvidoria impor ao usuário quaisquer exigências relativas à motivação da manifestação.
+
+
+§ 7º
+
+Os procedimentos de ouvidoria de que trata esta Resolução são gratuitos, sendo vedada a cobrança de quaisquer valores ao usuário.
+
+
+§ 8º
+
+A Ouvidoria assegurará ao usuário dos serviços públicos a proteção da identidade e dos elementos que permitam a sua identificação ou do autor da manifestação, nos termos do disposto no art. 31 da Lei Federal nº 12.527, de 18 de novembro de 2011.
+
+
+##### Seção I — PROCEDIMENTOS
+
+
+Art. 8º.
+
+Recebida a manifestação, a Ouvidoria deverá realizar análise prévia e, caso necessário, encaminhá-la às áreas responsáveis para providências.
+
+
+§ 1º
+
+Sempre que as informações apresentadas pelo usuário forem insuficientes para a análise da manifestação, a Ouvidoria deverá solicitar ao usuário pedido de complementação de informações no prazo de até dez dias corridos, a contar do recebimento da manifestação.
+
+
+§ 2º
+
+Não serão admitidos pedidos de complementação de informação sucessivos, exceto se decorrentes da complementação de informações de que trata o § 1º.
+
+
+§ 3º
+
+O pedido de complementação de informações suspende o prazo previsto no caput do art. 13, que será retomado a partir da resposta do usuário.
+
+
+§ 4º
+
+A ausência de complementação da informação, pelo usuário, no prazo de dez dias corridos acarretará o arquivamento da manifestação, sem produção de resposta conclusiva.
+
+
+§ 5º
+
+A Ouvidoria poderá solicitar informações às áreas responsáveis do Poder Legislativo e Executivo, as quais deverão responder dentro do prazo de dez dias corridos, contados do recebimento na área competente, prorrogáveis por igual período mediante justificativa expressa.
+
+
+§ 6º
+
+Os prazos referidos neste artigo poderão ser reduzidos em normas específicas.
+
+
+Art. 9º.
+
+A reclamação recebida será encaminhada à autoridade responsável pela prestação do atendimento ou do serviço.
+
+
+Parágrafo único
+
+A resposta conclusiva da reclamação conterá informação objetiva acerca do fato apontado.
+
+
+Art. 10.
+
+A denúncia recebida será conhecida caso contenha elementos mínimos descritivos da irregularidade ou indícios que permitam à administração pública chegar a tais elementos.
+
+
+§ 1º
+
+Recebida a denúncia, será ela encaminhada ao Presidente da Câmara Municipal e ao órgão de Controle Interno para instauração de procedimentos administrativos investigatórios ou disciplinares cabíveis;
+
+
+§ 2º
+
+Quando a denúncia ou reclamação versar sobre fatos, atos ou condutas atribuídas a órgãos, agentes ou serviços vinculados ao Poder Executivo Municipal, a Ouvidoria da Câmara Municipal limitar-se-á à análise do que couber à sua competência institucional, especialmente quanto ao controle externo e à fiscalização parlamentar, encaminhando a manifestação, quando for o caso, ao Poder Executivo ou ao órgão competente, para adoção das providências administrativas cabíveis, vedada qualquer ingerência na gestão administrativa daquele Poder.
+
+
+§ 3º
+
+A resposta conclusiva da denúncia conterá informação sobre o seu encaminhamento aos órgãos apuratórios e sobre os procedimentos a serem adotados, ou sobre o seu arquivamento.
+
+
+§ 4º
+
+Para as manifestações do tipo denúncia, entende-se por resposta:
+
+
+I –
+
+Parcial: aquela que contenha informação sobre o seu encaminhamento ao órgão apuratório competente, sobre os procedimentos a serem adotados e respectivo número que identifique a denúncia junto ao órgão apuratório, ou sobre o seu arquivamento;
+
+
+II –
+
+Conclusiva: a resposta que contenha resultado do procedimento administrativo apuratório.
+
+
+§ 5º
+
+A denúncia poderá ser encerrada quando:
+
+
+I –
+
+Estiver dirigida a órgão não pertencente ao Poder Legislativo Municipal de Bom Jardim de Minas;
+
+
+II –
+
+Não contenha elementos mínimos indispensáveis à sua apuração.
+
+
+Art. 11.
+
+A sugestão recebida será encaminhada à autoridade responsável pela prestação do atendimento ou serviço público, que se manifestará acerca da possibilidade de adoção da medida sugerida.
+
+
+Art. 12.
+
+O elogio recebido será encaminhado ao agente público que prestou o atendimento ou ao responsável pela prestação do serviço, e à sua chefia imediata.
+
+
+Parágrafo único
+
+A resposta conclusiva do elogio conterá informação sobre o encaminhamento e a cientificação ao agente público ou ao responsável pelo serviço prestado e à sua chefia imediata.
+
+
+Art. 13.
+
+A Ouvidoria deverá responder de maneira conclusiva às manifestações, em linguagem objetiva, simples, compreensível e sem jargões técnicos, no prazo de até trinta dias corridos, contados do recebimento da manifestação, prorrogável por igual período, por uma única vez, mediante justificativa expressa.
+
+
+Parágrafo único
+
+O prazo indicado no caput poderá ser reduzido em virtude de normas regulamentadoras específicas.
+
+
+Art. 14.
+
+Para os casos em que a resposta conclusiva demandar fiscalização in loco, abertura de processo de auditoria ou correicional, as manifestações poderão ter seu prazo sobrestado.
+
+
+§ 1º
+
+O sobrestamento deverá ser solicitado pelo órgão, entidade ou secretaria, em momento anterior ao término do prazo inicial, justificando a necessidade do pedido e informando a previsão do prazo necessário para resposta da manifestação.
+
+
+§ 2º
+
+Compete à Ouvidoria acatar ou não o pedido de sobrestamento, ou de sua prorrogação, justificando a decisão.
+
+
+##### Seção II — DO OUVIDOR LEGISLATIVO
+
+
+Art. 15.
+
+A Ouvidoria Legislativa será representada e coordenada, preferencialmente, por um servidor da Câmara Municipal, integrante do quadro próprio da Casa, independente da sua forma de provimento, designado pelo Presidente da Câmara Municipal por meio de portaria.
+
+
+§ 1º
+
+A função de Ouvidor é diretamente vinculada ao Presidente da Câmara Municipal.
+
+
+§ 2º
+
+A função de Ouvidor será desempenhada em caráter não exclusivo, conciliando-se com as atribuições regulares do servidor designado.
+
+
+Art. 16.
+
+É dever do Ouvidor manter-se sempre atualizado quanto à legislação, assim como às práticas inerentes aos serviços da Ouvidoria.
+
+
+#### CAPÍTULO III — DISPOSIÇÕES FINAIS
+
+
+Art. 17.
+
+A Câmara Municipal deverá dar ampla divulgação dos canais de atendimento da Ouvidoria Legislativa, por todos os veículos de comunicação utilizados pela Casa, orientando sobre as formas de participação do usuário na administração pública, e viabilizando o acesso dos usuários aos meios de integração entre o Poder Legislativo e a sociedade.
+
+
+Art. 18.
+
+A Ouvidoria deverá manter sigilo sobre denúncias e reclamações que receber, bem como sobre suas fontes, quando o caso assim requerer ou for solicitado pelo usuário, assegurado em qualquer caso a privacidade dos dados dos denunciantes, nos termos da Lei Federal n° 13.709/2018 – Lei Geral de Proteção de Dados Pessoais (LGPD).
+
+
+Art. 19.
+
+O Presidente da Câmara Municipal assegurará a estrutura administrativa e operacional necessária ao bom funcionamento da Ouvidoria.
+
+
+Art. 20.
+
+Poderão ser expedidas normas complementares necessárias ao cumprimento do disposto nesta Resolução.
+
+
+Art. 21.
+
+Esta Resolução entra em vigor na data de sua publicação, revogando-se a Resolução nº 002, de 06 de julho de 2009.
+
+
+Bom Jardim de Minas, 18 de junho de 2026.
+
+Ana Claudia Gomes
+
+Presidente
+

@@ -1,0 +1,433 @@
+---
+titulo: "Lei Ordinária nº 7.628, de 13 de janeiro de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "7628"
+data: "2026-01-13"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/8410"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/3546/text"
+sha256_fonte: "5cfa6bcdb74676aef3c85e4f61ec57e34a815a21055bca3e27653f4ed075552f"
+sha256_texto: "e5a1e7278b11ec3a87849e80024a1d781faef7cd012bdc461bdb580697d29913"
+capturado_em_fonte: "2026-10-27T17:44:40.563371-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 7.628, de 13 de janeiro de 2026
+
+INSTITUI A FEIRA GASTRONÔMICA DO PARQUE DO POVO, NO MUNICÍPIO DE BIRIGUI, REGULAMENTA SEU FUNCIONAMENTO E DÁ OUTRAS PROVIDÊNCIAS.  
+Projeto de Lei nº 145/2025, de autoria da Prefeita Municipal.
+
+
+**A CÂMARA MUNICIPAL DE BIRIGUI DECRETA:**
+
+
+Art. 1º.
+
+Fica instituída, no Município de Birigui, a **Feira Gastronômica do Parque do Povo**, a ser realizada preferencialmente aos domingos, das 16h às 22h, com o objetivo de fomentar a economia criativa, o empreendedorismo, a geração de renda, o turismo e a cultura gastronômica local.
+
+
+Art. 2º.
+
+A Feira ocorrerá na Praça Anna Nunes Garcia (Parque do Povo), em área pública de uso comum previamente demarcada pela Administração Municipal.
+
+
+Parágrafo único
+
+A organização e fiscalização da Feira ficará a cargo das seguintes Secretarias Municipais, de forma integrada e compartilhada:
+
+
+IV –
+
+Secretaria Municipal de Cultura;
+
+
+II –
+
+Secretaria Municipal de Obras;
+
+
+III –
+
+Secretaria Municipal de Meio Ambiente;
+
+
+IV –
+
+Secretaria Municipal de Tributos e Fiscalização.
+
+
+Art. 3º.
+
+A participação dos expositores se dará exclusivamente por meio de chamamento público, com critérios objetivos, ampla divulgação e respeito aos princípios da legalidade, impessoalidade, moralidade, publicidade, eficiência e interesse público.
+
+
+§ 1º
+
+A autorização será precária, pessoal e intransferível, válida por até 6 (seis) meses, podendo ser prorrogada por igual período.
+
+
+§ 2º
+
+A autorização poderá ser revogada a qualquer tempo por interesse público, mediante decisão fundamentada.
+
+
+§ 3º
+
+A participação na Feira não gera qualquer vínculo empregatício ou contratual com o Município.
+
+
+Art. 4º.
+
+O número de vagas será limitado por segmento de produtos, a ser definido em cada edital de chamamento, observando a seguinte segmentação padrão:
+
+
+I –
+
+Pastéis: até 3 vagas
+
+
+II –
+
+Lanches e hambúrgueres: até 3 vagas
+
+
+III –
+
+Espetinhos: até 2 vagas
+
+
+IV –
+
+Comida oriental: até 2 vagas
+
+
+V –
+
+Massas/artesanais: até 2 vagas
+
+
+VI –
+
+Doces e sobremesas: até 3 vagas
+
+
+VII –
+
+Bebidas não alcoólicas: até 2 vagas
+
+
+VIII –
+
+Outros alimentos: até 3 vagas
+
+
+IX –
+
+IX – Pratos Regionais Brasileiros
+
+
+X –
+
+Leitoa Mineira – até 2 vagas (origem: Minas Gerais);
+
+
+XI –
+
+Pururuca Mineira – até 2 vagas (origem: Minas Gerais);
+
+
+XII –
+
+Galinhada com Pequi – até 2 vagas (origem: Goiás);
+
+
+XIII –
+
+Peixada Mato-Grossense – até 2 vagas (origem: Mato Grosso);
+
+
+XIV –
+
+Churrasco Fogo de Chão Gaúcho – até 2 vagas (origem: Rio Grande do Sul);
+
+
+XV –
+
+Culinária Baiana (Acarajé e Vatapá) – até 2 vagas (origem: Bahia);
+
+
+XVI –
+
+Caldo de Mocotó – até 2 vagas (origem: Nordeste);
+
+
+XVII –
+
+Dobradinha – até 2 vagas (origem: Nordeste);
+
+
+XVIII –
+
+Chambari – até 2 vagas (origem: Tocantins);
+
+
+XIX –
+
+Feijão Tropeiro – até 2 vagas (origem: Minas Gerais e Goiás);
+
+
+XX –
+
+Virado Paulista – até 2 vagas (origem: Estado de São Paulo).
+
+
+XXI –
+
+X – Pratos Típicos e Tradicionais de Birigui e Região
+
+
+XXII –
+
+Pão com Linguiça – até 2 vagas (origem: Bairro Taquari – Birigui);
+
+
+XXIII –
+
+Caldo de Jegue – até 2 vagas (origem: Birigui – receita premiada nacionalmente);
+
+
+XXIV –
+
+Panceta de Rolo – até 2 vagas (origem: Birigui);
+
+
+XXV –
+
+Espeto de Língua de Vaca – até 2 vagas (origem: Birigui);
+
+
+XXVI –
+
+Cupim Casqueirado Biriguiense – receita tradicional representativa de Birigui e
+
+
+XXVII –
+
+região – até 2 vagas;
+
+
+XXVIII –
+
+Pizza Biriguiense – até 2 vagas (origem: Birigui).
+
+
+Parágrafo único
+
+A Administração poderá alterar distribuição de vagas por segmento, conforme demanda, interesse público e diversidade gastronômica.
+
+
+Art. 5º.
+
+O processo de seleção considerará os seguintes critérios de pontuação:
+
+
+I –
+
+Participação em ao menos 2 (duas) edições da Feira experimental promovida pela Prefeitura: 3 pontos;
+
+
+II –
+
+Apresentação de cardápio exclusivo ou inovador: 2 pontos;
+
+
+III –
+
+Residência ou sede no Município de Birigui: 1 ponto;
+
+
+IV –
+
+Experiência comprovada em feiras ou eventos similares: 1 ponto;
+
+
+V –
+
+Participação em curso de capacitação do SEBRAE voltado ao setor de alimentação ou empreendedorismo: 1 ponto.
+
+
+§ 1º
+
+Em caso de empate, será realizado sorteio público entre os candidatos.
+
+
+§ 2º
+
+A ausência injustiﬁcada em 2 (duas) edições consecutivas da Feira, poderá ensejar suspensão temporária ou exclusão deﬁnitiva do participante, conforme regulamentação complementar.
+
+
+§ 3º
+
+A análise da documentação e do atendimento aos critérios será feita por Comissão Técnica de Avaliação, composta por servidores indicados pelas Secretarias de Cultura, Obras, Governo, Meio Ambiente, Negócios Jurídicos e Tributos e Fiscalização.
+
+
+Art. 6º.
+
+Poderão se inscrever exclusivamente pessoas jurídicas, incluindo Microempreendedores Individuais (MEI), com atividade compatível com o objeto da Feira, desde que regularmente constituídas no país.
+
+
+Parágrafo único
+
+O interessado deverá comprovar regularidade jurídica, ﬁscal e sanitária, bem como apresentar os demais documentos exigidos no edital de chamamento.
+
+
+Art. 7º.
+
+São obrigações dos expositores participantes da feira.
+
+
+I –
+
+Cumprir rigorosamente as normas sanitárias, ﬁscais e de segurança;
+
+
+II –
+
+Providenciar, por conta própria, a estrutura física necessária (barraca, trailer, food truck etc.);
+
+
+III –
+
+Instalar e desmontar sua estrutura no mesmo dia da Feira, nos horários determinados;
+
+
+IV –
+
+Zelar pela limpeza do espaço utilizado e recolher seus resíduos;
+
+
+V –
+
+Apresentar a autorização durante todo o período do evento;
+
+
+VI –
+
+Pagar pontualmente a taxa de uso do espaço público, se instituída;
+
+
+VII –
+
+Manter conduta respeitosa e colaborativa com os organizadores da Feira e com os demais expositores, sob pena de advertência, suspensão ou exclusão do evento.
+
+
+Art. 8º.
+
+O uso do espaço público poderá ser gratuito ou condicionado ao pagamento mensal de taxa simbólica, cujo valor será ﬁxado por Decreto do Poder Executivo, com base no Código Tributário Municipal.
+
+
+Parágrafo único
+
+O não pagamento da taxa no prazo regulamentar ensejará a revogação da autorização de uso.
+
+
+Art. 9º.
+
+As penalidades aplicáveis em caso de descumprimento das normas da Feira serão:
+
+
+I –
+
+Advertência verbal ou por escrito;
+
+
+II –
+
+Suspensão da participação por até 2 edições;
+
+
+III –
+
+Revogação deﬁnitiva da autorização, com exclusão do cadastro.
+
+
+Art. 10.
+
+Caberá à Secretaria Municipal de Cultura, Secretaria Municipal de Obras, Secretaria Municipal de Meio Ambiente e Secretaria Municipal de Tributos e Fiscalização o planejamento, execução, ﬁscalização, controle e avaliação da Feira, de forma coordenada e integrada, competindo-lhes, especialmente:
+
+
+I –
+
+Elaborar e publicar os editais de chamamento público para seleção dos participantes;
+
+
+II –
+
+Coordenar e acompanhar a ﬁscalização da feira, em articulação com os órgãos competentes, especialmente a Vigilância Sanitária;
+
+
+III –
+
+Manter cadastro atualizado dos feirantes autorizados;
+
+
+IV –
+
+Deliberar sobre situações omissas ou excepcionais, no âmbito de suas competências;
+
+
+V –
+
+Apoiar ações de capacitação, sustentabilidade e educação alimentar vinculadas ao evento;
+
+
+VI –
+
+Promover a interlocução com os feirantes e com os demais setores públicos e privados envolvidos.
+
+
+Art. 11.
+
+Fica o Poder Executivo autorizado a celebrar parcerias com instituições públicas ou privadas, sem ﬁns lucrativos, para apoio à realização da Feira, capacitação dos feirantes e promoção de ações educativas e culturais.
+
+
+Art. 11-A.
+
+A – A Administração Municipal poderá ceder, na forma do regulamento, espaços destinados exclusivamente a entidades ﬁlantrópicas e organizações sociais sem ﬁns lucrativos, para ﬁns de arrecadação de recursos e manutenção de suas atividades essenciais. Incluem-se, entre outras: APAE; Recanto do Vovô; Polícia Mirim; Abrigo Vá Tereza; Comunidade Terapêutica; Bombeiro Mirim; Casa do Caminho Ave Cristo; Instituto Cadeirante; Apac; Instituto Religare, Desenvolvimento social, educacional e proﬁssional. Creches conveniadas; AGA; SAPIC; Raimundo Mariano Dias; Associações e projetos sociais oﬁcialmente cadastrados.
+
+
+§ 1º
+
+A participação terá caráter beneficente, vedada a finalidade lucrativa.
+
+
+Art. 11-B.
+
+O Município poderá autorizar a participação de pequenos comerciantes locais, desde que devidamente cadastrados e cumprindo normas sanitárias, fiscais e de segurança.
+
+
+Art. 11-C.
+
+A Prefeitura criará espaço físico ou digital para divulgar a origem cultural, histórica e regional de cada prato, destacando a diversidade gastronômica do Brasil e valorizando especialmente a produção culinária tradicional de Birigui.
+
+
+Art. 12.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Câmara Municipal de Birigui, em treze de janeiro de dois mil e vinte e seis.
+
+**REGINALDO FERNANDO PEREIRA PRESIDENTE**
+
+Publicada na Secretaria da Câmara Municipal, na data supra, por afixação no local de costume.
+
+**MARINEUVA ALVES DE SOUZA DIRETORA-GERAL DA CÂMARA**
+

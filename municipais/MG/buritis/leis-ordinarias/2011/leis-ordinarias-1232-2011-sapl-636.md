@@ -1,0 +1,245 @@
+---
+titulo: "Lei nº 1.232, de 28 de novembro de 2011"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1232"
+data: "2011-11-28"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/636"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/872/text"
+sha256_fonte: "de8e76464c337e09e4788b16727383e079a891f7371871dfbd2e9fa412efd82e"
+sha256_texto: "9aff8618bcd9fb63733eeae75bb02f8add7bccc7e7580851eea7000a0a788943"
+capturado_em_fonte: "2026-10-27T20:02:55.551397-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.232, de 28 de novembro de 2011
+
+Estabelece medidas de controle para evitar a formação de criadouros de "Aedes Aegypti" e "Aedes Albopictus" e dá outras providências.
+
+
+A Câmara Municipal de Buritis, por seus representantes, aprovaram e Eu, Prefeito Municipal, sanciono е promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Fica toda e qualquer pessoa, pública ou privada, que desenvolva, no Município de Buritis e seus distritos, atividade empresarial ou social que resulte em depósito de materiais de qualquer natureza, obrigada a adotar medidas de controle que visem a evitar a existência de locais propícios à reprodução do Ades Aegypt e Aedes Albopictus.
+
+
+Art. 2º.
+
+Os estabelecimentos públicos e privados onde se desenvolvam as atividades de que trata o art. 1º serão classificados como potenciais focos de criadouros do mosquito transmissor da dengue, e os critérios para classificação serão objeto de regulamentação.
+
+
+Art. 3º.
+
+As pessoas referidas no art. 1º ficam obrigadas a realizar a proteção adequada de qualquer local ou material que se encontre no âmbito de suas instalações, evitando sua exposição às intempéries, na forma do regulamento.
+
+
+Art. 4º.
+
+O Poder Executivo deverá realizar ampla campanha educativa, dirigida aos responsáveis pelos estabelecimentos referidos no art. 1º, alertando sobre os riscos de existência de criadouros do inseto.
+
+
+Parágrafo único
+
+A campanha educativa consistirá em visitas e supervisões periódicas a estabelecimentos mencionados no art. 1º, com distribuição de material explicativo e orientação quanto aos procedimentos preventivos a serem adotados.
+
+
+Art. 5º.
+
+O descumprimento das orientações e determinações sanitárias estabelecidas pela autoridade do Sistema Único de Saúde - SUS - é punível na forma prevista no Código Municipal de Saúde, sem prejuízo da possibilidade da execução forçada da determinação, bem como das demais sanções administrativas, civis e penais cabíveis.
+
+
+Parágrafo único
+
+Na apuração da infração sanitária serão adotados os procedimentos estabelecidos nesta Lei e, subsidiariamente, aqueles previstos no Código Municipal de Saúde e Legislação correlata, sem prejuízo de outras medidas procedimentais estabelecidas pela Vigilância em Saúde.
+
+
+Art. 6º.
+
+Os infratores sujeitam-se às seguintes penalidades:
+
+
+I –
+
+Advertências;
+
+
+II –
+
+Pena educativa;
+
+
+III –
+
+Interdição para cumprimento das recomendações sanitárias;
+
+
+IV –
+
+Suspensão temporária da autorização de funcionamento por 30 (trinta) dias;
+
+
+V –
+
+Cassação da autorização de funcionamento; e
+
+
+VI –
+
+Multa de R$ 500,00 (quinhentos reais) até R$ 50.000,00 (cinquenta mil reais).
+
+
+§ 1º
+
+O valor da multa de que trata o "caput" deste artigo será graduada por Decreto.
+
+
+§ 2º
+
+As sanções previstas neste artigo serão aplicadas pela autoridade competente, observados os princípios do devido processo legal, da ampla defesa e do contraditório.
+
+
+§ 3º
+
+A reincidência torna o infrator possível de enquadramento na penalidade máxima, e a infração será caracterizada como gravíssima.
+
+
+§ 4º
+
+A aplicação da penalidade observará o disposto no Código Municipal de Saúde.
+
+
+Art. 7º.
+
+A pena de multa, graduada de acordo com a gravidade da infração e a condição econômica do infrator, será aplicada mediante o devido procedimento administrativo, e o valor da multa será recolhido à conta do Fundo Municipal de Saúde.
+
+
+Art. 8º.
+
+A penalidade educativa consiste em:
+
+
+I –
+
+Veiculação de mensagens educativas dirigidas à comunidade, sem símbolo, nome ou qualquer dispositivo que identifique a atuada, aprovadas pela autoridade sanitária;
+
+
+II –
+
+Fornecimento de cursos de capacitação e reciclagem aos empregados com temas relacionados a questões sanitárias;
+
+
+III –
+
+Execução de atividades de cumbo educativo em benefício da comunidade, aprovadas pela autoridade sanitária.
+
+
+Parágrafo único
+
+A penalidade educativa só poderá ser aplicada isoladamente se não verificada a reincidência e desde que a transgressão cometida não comine multa, cujo valor seja superior a duas vezes o menor valor base existente nesta Lei.
+
+
+Art. 9º.
+
+Constituem infrações sanitárias, sem prejuízo daquelas previstas no Código Municipal de Saúde:
+
+
+I –
+
+Descumprir as orientações e determinações sanitárias da autoridade do Sistema Único de Saúde - SUS; infração leve: penalidade - advertência e/ou multa;
+
+
+II –
+
+Permitir a exposição direta às intempéries de qualquer local ou material propício a formação de focos do mosquito transmissor da dengue; infração grave: penalidade - advertência e pena educativa ou multa;
+
+
+III –
+
+Deixar de adotar medidas de controle que visem a evitar a existência de locais propícios à reprodução da Aedes Aegypt e Aedes Albopictus; infração grave: penalidade - pena educativa e multa;
+
+
+IV –
+
+Existência de focos do mosquito transmissor da dengue nos imóveis de sua propriedade ou posse; infração gravíssima: penalidade:
+
+
+a)
+
+Pena educativa
+
+
+b)
+
+sempre que for constatado risco iminente para a saúde pública e as circunstâncias do fato o aconselharem:
+
+
+1
+
+interdição para cumprimento das recomendações sanitárias;
+
+
+2
+
+suspensão temporária da autorização de funcionamento, por 30 (trinta) dias; ou
+
+
+3
+
+cassação da autorização de funcionamento.
+
+
+Art. 10.
+
+Sempre que houver a necessidade de ingresso forçado em qualquer estabelecimento, а autoridade no âmbito do Sistema de Vigilância em Saúde lavrará auto de infração, no qual constará a recusa do proprietário ou a impossibilidade do ingresso no local em que esta for verificada.
+
+
+§ 1º
+
+A autoridade é responsável pelas declarações que fizer no auto de infração e ingresso forçado.
+
+
+§ 2º
+
+Sempre que se mostrar necessário, a autoridade competente no âmbito do Sistema de Vigilância em Saúde poderá requerer o auxílio da força policial.
+
+
+Art. 11.
+
+Ficam as sociedades empresariais sediadas no Município que possuírem mais de cinquenta trabalhadores, com área instalada igual ou superior a quinhentos metros quadrados, obrigadas а instituir Comissão Permanente de Combate aos Focos do Mosquito Transmissor da Dengue - CPCD:
+
+
+§ 1º
+
+A CPCD tem como objetivos a prevenção e o combate a focos do mosquito transmissor da dengue no âmbito dos estabelecimentos da sociedade empresarial a qual se vinculem, de acordo com recomendações da Secretaria de Estado de Saúde - SES - e da Secretaria Municipal de Saúde.
+
+
+§ 2º
+
+A composição, as competências, as atribuições e o funcionamento da Comissão serão estabelecidas em regulamento.
+
+
+§ 3º
+
+O descumprimento do disposto no "caput" sujeita os responsáveis às penalidades previstas nesta Lei.
+
+
+Art. 12.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Buritis, 28 de novembro de 2011.
+
+**Dr. Keny Soares Rodrigues Prefeito Municipal de Buritis**
+
+Proposição de Lei nº 027/2011, ref. Projeto de Lei nº 028/2011 do Executivo Municipal
+

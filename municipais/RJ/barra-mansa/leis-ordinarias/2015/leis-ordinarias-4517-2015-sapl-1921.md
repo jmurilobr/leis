@@ -1,0 +1,129 @@
+---
+titulo: "Lei Ordinária nº 4.517, de 29 de dezembro de 2015"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4517"
+data: "2015-12-29"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/1921"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/1005/text"
+sha256_fonte: "57e29ad782df190bde242e9a8f23aba5017c8afa274c25b6982ad85c6fc83b30"
+sha256_texto: "6f758d7a0ca8e2f7da90f111bbc134aac91abf5968d5a9b32a9d24bcc5f757de"
+capturado_em_fonte: "2026-10-27T17:44:45.450505-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.517, de 29 de dezembro de 2015
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE
+
+
+LEI Nº4517, DE 29 DE SETEMBRO DE 2015.
+
+
+Cria o Fórum Permanente da Cultura da Paz, a Semana da Paz, institui o Dia Municipal da Paz, revoga a Lei Municipal 4034/2012 e dá outras providências.
+
+
+Art. 1º.
+
+Fica instituído o Fórum Permanente da Cultura da Paz e a Semana da Paz, que serão realizados na última semana de outubro e visará à promoção da cultura da paz.
+
+
+Parágrafo único
+
+Caberá ao Fórum envolver todos os setores do município, debater a realidade, promover e fomentar a cultura.
+
+
+Art. 2º.
+
+Na Semana da Paz serão desenvolvidas ações educativas nas instituições de ensino de todos os níveis, sobre violência e suas causas como incentivo para o desenvolvimento de pesquisas e estudos que apontem opções e soluções inovadoras para a construção da cultura da paz.
+
+
+Art. 3º.
+
+O Executivo, coordenará, na "Semana da Paz" campanha de desarmamento com estudantes, policiais e toda a sociedade organizada.
+
+
+Art. 4º.
+
+Fica instituída e adotada a Bandeira da Paz, que deverá ser escolhida por meio de concurso público a ser realizado pelas Secretarias Municipais de Educação, Cultura e Assistência Social.
+
+
+Art. 5º.
+
+Na Semana da Paz haverá em todo o município, grande confraternização, com atividades artísticas, esportivas e religiosas, devendo as instituições públicas, privadas e entidades da sociedade civil hastear a bandeira da Paz.
+
+
+Art. 6º.
+
+Na Semana da Paz será homenageado a cada ano quem tenha se destacado na promoção da paz do município, pessoa física ou entidade da sociedade civil e governamental.
+
+
+Art. 7º.
+
+Fica instituído o Dia Municipal da Paz a ser comemorado anualmente no dia 27 de outubro.
+
+
+I –
+
+O Poder Executivo determinará à inclusão desta data no calendário de comemorações oficiais do município de Barra Mansa;
+
+
+II –
+
+Na Semana da Paz será realizada à Caminhada da Paz, em trajeto a ser definido, pela comissão.
+
+
+Art. 8º.
+
+Com o objetivo de articular o Fórum Permanente da Cultura da Paz, encaminhar e acompanhar as deliberações dos mesmos será constituída a Comissão Municipal da Cultura da Paz da seguinte forma:
+
+
+I –
+
+04(quatro) representantes do Poder Executivo das Secretarias de Educação, Assistência Social e Direitos Humanos, Cultura e Ordem Pública, indicados pelo senhor prefeito.
+
+
+II –
+
+Um presente do Poder Legislativo indicado pelo Presidente.
+
+
+III –
+
+Cinco representantes da sociedade civil eleitos pelo Fórum Permanente da Cultura da Paz.
+
+
+Parágrafo único
+
+O Executivo Municipal nomeará, por decreto, a composição da Comissão Municipal da Cultura da Paz eleito pelo Fórum Permanente da Cultura da Paz.
+
+
+Art. 9º.
+
+Caberá à Comissão Permanente da Cultura da Paz as demais normas e providências para a implementação e cumprimento da presente Lei.
+
+
+Art. 10.
+
+Fica revogada, em todo o seu teor, a Lei Municipal 4034 de 18 de setembro de 2012.
+
+
+Art. 11.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 29 DE DEZEMBRO DE 2015.
+
+
+JONASTONIAN MARINS AGUIAR
+
+PREFEITO
+

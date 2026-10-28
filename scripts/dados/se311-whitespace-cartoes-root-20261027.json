@@ -1,0 +1,49 @@
+{
+  "criterio": "Somente os dois cartões HTML derivados da captura oficial, arquivados com os bytes observados, conferidos byte a byte contra o mapa congelado e o índice. Preserva whitespace da extração literal; nenhum canônico ou código dispensado. Nenhuma outra classe de aviso tolerada.",
+  "arquivos": {
+    "estaduais/SE/_fonte/auditorias/duvida-rodape-8782-8783-20261027-001/9754-cartao-derivado.html": {
+      "sha256_index_fonte_congelada": "8c706b3cafb77e8e7c86f08bb7fbb8d59b5313458204c34929fc3b63538c580a",
+      "trailing": [
+        2,
+        11,
+        42,
+        43,
+        44,
+        45,
+        50,
+        57,
+        61,
+        62,
+        67,
+        75,
+        77,
+        78
+      ],
+      "eof": [
+        77
+      ]
+    },
+    "estaduais/SE/_fonte/auditorias/duvida-rodape-8782-8783-20261027-001/9755-cartao-derivado.html": {
+      "sha256_index_fonte_congelada": "9cb82bd864b100b8ff961df0cab2a2a75e2d408eaa3a3a62809c04612216de11",
+      "trailing": [
+        2,
+        11,
+        42,
+        43,
+        44,
+        45,
+        50,
+        57,
+        61,
+        62,
+        67,
+        75,
+        77,
+        78
+      ],
+      "eof": [
+        77
+      ]
+    }
+  }
+}

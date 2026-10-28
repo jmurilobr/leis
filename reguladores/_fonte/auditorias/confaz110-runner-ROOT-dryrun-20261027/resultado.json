@@ -1,0 +1,781 @@
+{
+  "modo": "dry-run",
+  "commit_confrontado": "57220f8e18bde7c9894a7bb8e6fdf74337a7d2b2",
+  "propostas": [
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-1-2026.md",
+      "sha256": "b377454f25fe91a4d1c553257d09d915435c6d6e6890a892673495c48aaa4a45",
+      "bytes": 4114,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/1.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-2-2026.md",
+      "sha256": "3c974e547ff8f0ee5810f33dc53b4597cb53ae4bc8b52ddf705bfa911ec52d14",
+      "bytes": 3377,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/2.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-3-2026.md",
+      "sha256": "1ca8d711eda19ce46068af51614d69f201ba8a541d62d2855ffb64f824a1029d",
+      "bytes": 3934,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/3.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-6-2026.md",
+      "sha256": "2ea162ab03147623dbc7560cc8bdf697d98310a82e939d7cada35b38ba5b55e1",
+      "bytes": 3830,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/6.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-7-2026.md",
+      "sha256": "4bdb2eea0c62975fb7eba52fa54f3b0f00b70f27a23a36f1de1154072735d7d3",
+      "bytes": 3181,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/7.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-8-2026.md",
+      "sha256": "c031f858ba92783e4ad20830827c116a0c548acf1046cb8428de5223430eb031",
+      "bytes": 4183,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/8.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-9-2026.md",
+      "sha256": "884f5efeb7b4f26d6ed549c4cbc87b9e7805e26bef3751f6d9b67aab091cdcbf",
+      "bytes": 3712,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/9.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-10-2026.md",
+      "sha256": "031eb8b43925c35f86991321b69f9f9acbb59d14532abb060f57cad8082e00fb",
+      "bytes": 3337,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/10.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-11-2026.md",
+      "sha256": "b05f304904499e87377fa4e1fb2aa7c5428cde882b1f0e673ce77c409633e101",
+      "bytes": 4194,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/11.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-12-2026.md",
+      "sha256": "af2e80415156e656265a1b20744d7b325a8073d5072f59b2aeb8c884749b5b4a",
+      "bytes": 3740,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/12.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-13-2026.md",
+      "sha256": "f3c9d96e7489c6ef02e6ef0f1c62d7dab6f6453090270d5df27eed13a458b94f",
+      "bytes": 4075,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/13.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-14-2026.md",
+      "sha256": "0114003940ad322e484191f070cca65a10aca537bc68d46144863dc60dd57826",
+      "bytes": 3790,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/14.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-16-2026.md",
+      "sha256": "6ed770935cce3d2489b87d9fadea00939c0d8a2e40dccb22b8c9bd7bf73f3311",
+      "bytes": 3688,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/16.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-17-2026.md",
+      "sha256": "20e715abc8c25f41c09ccdc73d00b65e8711dd277dce33792ae2c2f0a82313f2",
+      "bytes": 3578,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/17.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-18-2026.md",
+      "sha256": "fa7da283036dba34521c011eda2e09a7ebe775bd8df1f27924b2c144a1f5f39c",
+      "bytes": 4391,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/18.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-19-2026.md",
+      "sha256": "ea9f5369e3ee68489097c12463cbaf1343f44b33b31c4e7959edfd774237ba5b",
+      "bytes": 5675,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/19.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-20-2026.md",
+      "sha256": "544d1936d3a3d4e95d21dc91dea0554b1307dcd4645b2c85328562cb07a2e209",
+      "bytes": 4508,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/20.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-21-2026.md",
+      "sha256": "75500044f4479aed32e1df0fffde540996c18fc946e933c6eccc551b9a202018",
+      "bytes": 124345,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/21.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-22-2026.md",
+      "sha256": "c017fc1679a2803ed8c82ad998a153f1a8a20fb612aee30e2be54671db0d014d",
+      "bytes": 4103,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/22.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-23-2026.md",
+      "sha256": "1771822825743ea2af718f427b3c3318e118937183be9641273e8289157f012a",
+      "bytes": 3568,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/23.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-24-2026.md",
+      "sha256": "559a9193d1db72010bc91e420c04bb6caae5667bf33ebb2897ff66e31b5aaf76",
+      "bytes": 4232,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/24.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-25-2026.md",
+      "sha256": "00fbe62c70b187bdc095052c2c0b7859e9b7df1b30560253cf3efccc35c0ab1d",
+      "bytes": 4177,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/25.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-26-2026.md",
+      "sha256": "24444f07ad7f38172ccc1b3acfdbb92f3ef0431afefe9121f3df01636bb30c40",
+      "bytes": 3895,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/26.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-27-2026.md",
+      "sha256": "dd7b7c6239a0544cd96d6e1d68c1b2c8e09e2ac72e9b3bbdcd643854dab61570",
+      "bytes": 7704,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/27.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-28-2026.md",
+      "sha256": "d11eb777c0af41a4bd9af5328e9fb794d02d484e588b17059d59e06cb4f09579",
+      "bytes": 3295,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/28.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-29-2026.md",
+      "sha256": "b2ff913ebed1cdca2a59ab2bc95484b931a8fbb790b554cc47bdeb81f470609e",
+      "bytes": 2979,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/29.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-30-2026.md",
+      "sha256": "b14301e5a22586781f6534bdc95cdd200402b748b3b2c344b7b98ab063d7a754",
+      "bytes": 4243,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/30.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-31-2026.md",
+      "sha256": "3d5984ddc20a4b422116624ccb3afc66b7e4255e8b4553cf766f0edb5d3e4d45",
+      "bytes": 3009,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/31.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-32-2026.md",
+      "sha256": "8189054018230f616393f4c2707d3fb27276285caca9c907ea61cc3efe3c8dcd",
+      "bytes": 4050,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/32.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-33-2026.md",
+      "sha256": "97de3751a24ffda2c0da6232b9d1a4ee366f9ef7b0fcfdd7241bce8b119a90b9",
+      "bytes": 2995,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/33.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-34-2026.md",
+      "sha256": "2e3ee4e3f782d183cf0e6d0d7f71632ee10ca8760d216e061c820d27306bb7e9",
+      "bytes": 3573,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/34.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-35-2026.md",
+      "sha256": "333c7d2ca8c00fb2d6511c5bab59331668d30e832a6f4e25ac44a4866096918b",
+      "bytes": 3203,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/35.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-36-2026.md",
+      "sha256": "a42536890d42846bd10b9ca0905ec8f55d15d3919e1a96af47dfbff03acbe05a",
+      "bytes": 3636,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/36.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-37-2026.md",
+      "sha256": "92b373fd63d7b7d3ac4ebcbfe0ac349bbfc5917ea00dbd00fcdc2bf34e4e413d",
+      "bytes": 4210,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/37.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-38-2026.md",
+      "sha256": "9b871880a3b422164406d90bdea1e68dd74269c05e505ad1233f13d66374bc26",
+      "bytes": 5182,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/38.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-39-2026.md",
+      "sha256": "37ab62eee0fd7d707f8135b82ae628072d6c8a2cec6c365c58e1dbe699ac6144",
+      "bytes": 3956,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/39.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-40-2026.md",
+      "sha256": "1a48d009ef7f134e2b01dc86cdad2851ff9704a35aa30f66a07155c401668959",
+      "bytes": 3674,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/40.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-41-2026.md",
+      "sha256": "12dcd1e51db90656b80979ef7a0d62039a99e6f50f1e28bcfa03ec610d1631a0",
+      "bytes": 4841,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/41.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-42-2026.md",
+      "sha256": "097f83cbcdd0807b7510594ae8cb9e206e4cb029cdcd92eecf1105170bc76aaf",
+      "bytes": 3109,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/42.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-43-2026.md",
+      "sha256": "c4feeec131f92c17295fed589a37d74eb1c0e71dd1d2bb6bd3ea9f04cf035254",
+      "bytes": 4891,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/43.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-45-2026.md",
+      "sha256": "2fe9b4c83214f7e1cda8e8580f98d1b768a111a83b0c598c45a3f1473688b325",
+      "bytes": 3723,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/45.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-46-2026.md",
+      "sha256": "86fffde91afd45cd8a532c42a738c3b3382b8c7dfb1afda6d6d0b8f1d1ba0d3b",
+      "bytes": 4481,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/46.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-47-2026.md",
+      "sha256": "c7abe60cd860416a6400d63a04df482052337603133b89234122393ef125ab63",
+      "bytes": 4184,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/47.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-48-2026.md",
+      "sha256": "0fe8eff76bc6e2698126ba628c36823689d62f833513bd4113a3721107dd0339",
+      "bytes": 3856,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/48.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-49-2026.md",
+      "sha256": "3e55f09f45e5b61294ecf7959aecfb87e68da24766b680686210910488717070",
+      "bytes": 2909,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/49.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-50-2026.md",
+      "sha256": "869a850bb95b7f625e9582a6a64af202e2ef6bf0dd58a5b19ee69a3e6d1339ef",
+      "bytes": 3248,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/50.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-52-2026.md",
+      "sha256": "6b44a02d3502693e3a73c8e4d0393013e70d7726a7f9caa28149d14291eadf94",
+      "bytes": 2555,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/52.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-53-2026.md",
+      "sha256": "d0726dc07fd9447354620d52240f5455fe4c5c8ba4ad23ad2d864a7368cf5eaa",
+      "bytes": 5356,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/53.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-54-2026.md",
+      "sha256": "99118e4059ee4cf9955445b4ba3f638f0466706ecb78cd945ac0da5a300c7e41",
+      "bytes": 3016,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/54.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-55-2026.md",
+      "sha256": "538f436819e8a85cedeacf02a78f4d5c3cefe1b77a08f7d30b2e29d79d332a2a",
+      "bytes": 3716,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/55.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-56-2026.md",
+      "sha256": "50c5b89c46bade808052b24aaea7111b74173963327808f4b060cc56cdbaeb02",
+      "bytes": 3807,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/56.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-57-2026.md",
+      "sha256": "1f1bb88db392f98f39e9ef67eba6f2867e6cec7d1aa28cfb5dde4f8560ede92a",
+      "bytes": 2718,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/57.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-58-2026.md",
+      "sha256": "88540fa3e90ccdd681e15dc3c6e3fe39493367cb5341ab5679bb99ef54845dc2",
+      "bytes": 3699,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/58.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-60-2026.md",
+      "sha256": "44f01ab81ee0c76310bf6bbb48baf3b45eb4a08595a54797d808f62520e1b2e8",
+      "bytes": 3839,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/60.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-62-2026.md",
+      "sha256": "2f534064bdfc0a1ca58f674168978a4e43cef382c1619c1b44200e5977176c6a",
+      "bytes": 3631,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/62.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-63-2026.md",
+      "sha256": "b9652348681d959363acffafabd470b1e9c5601f33d073d17b899e4324cc9ce2",
+      "bytes": 3638,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/63.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-64-2026.md",
+      "sha256": "7b72a9f80599a5f6594cac73a1fd0acb0d8852c85f00b307136d541b6921dcea",
+      "bytes": 3639,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/64.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-65-2026.md",
+      "sha256": "ced31a7e27e8142f61a9cec90c247d177bcd29b0b2266b792afc57160fe626a2",
+      "bytes": 4709,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/65.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-66-2026.md",
+      "sha256": "ddd9ce438087f46593937bd3a3257d19d67e99aa8a2d67dcd1a533daaad7cb87",
+      "bytes": 4299,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/66.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-67-2026.md",
+      "sha256": "3f1a634652346589779d51c8335fde7d2706efc59f0114bebbc1796ec9eadcd1",
+      "bytes": 5076,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/67.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-68-2026.md",
+      "sha256": "50911cdbf0371f2b05fe5dbcf941cfeae012204689cb40533b2b381cf2520dbd",
+      "bytes": 5173,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/68.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-69-2026.md",
+      "sha256": "98e002fbc00674145f78de0c81bbca76c91c55c56c03798cc416a4eac933a465",
+      "bytes": 6746,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/69.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-70-2026.md",
+      "sha256": "cf0055616628123ac9cd1a8391cf8b7f332b25524df489e20553a34965a69fc0",
+      "bytes": 3809,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/70.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-71-2026.md",
+      "sha256": "c470ce968178af2fdbdebb1571c490a1cb37232ff51701e332de77bced462e56",
+      "bytes": 3278,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/71.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-72-2026.md",
+      "sha256": "21188433423376e1c4ccb5e6c1871cf7a5e4b7fca9a1fbaf93e51b3db5da4b33",
+      "bytes": 3108,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/72.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-73-2026.md",
+      "sha256": "4ea8c6317ac5c300e782b7b05133542931000613fd3f359055018766f9b765c8",
+      "bytes": 3883,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/73.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-74-2026.md",
+      "sha256": "5b96a4cbfdc81adcbf6200a7e3b28bf6bdace2b84dfac7b8a8aa4acdb7c9363d",
+      "bytes": 4202,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/74.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-75-2026.md",
+      "sha256": "f5678db8853bd456347bc30b6147d4d9bf3cf5036b5d80bb74002dccfc06b17a",
+      "bytes": 4170,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/75.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-76-2026.md",
+      "sha256": "da2d855600fca4df20a04dc9dfd641459b25d23d6ece62cbe43fef8e6f2dcf29",
+      "bytes": 5178,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/76.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-77-2026.md",
+      "sha256": "bd2db5a64eaa1e29a9f0a977a804f2e5e62ec5c2975ea6f4cad445b884a2e4c8",
+      "bytes": 3087,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/77.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-78-2026.md",
+      "sha256": "d42821cc3996c62674d6f079981ae7569dd43823cf9173bc633bd13d1fdd49fa",
+      "bytes": 3938,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/78.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-80-2026.md",
+      "sha256": "5087211faf60ad2b864cf582e30f4a4447a4067230d515cf6269c159cdd91193",
+      "bytes": 2977,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/80.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-81-2026.md",
+      "sha256": "2f56acdf121c2f63bd1dee3e45a168d95e1650353ee59e450deda2df054b92ad",
+      "bytes": 5567,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/81.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-82-2026.md",
+      "sha256": "d0d83b64b5b4d6629ab24821b58a0a52ea6b93e434a95afefa186b910c1a6c05",
+      "bytes": 4303,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/82.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-83-2026.md",
+      "sha256": "ae5c232471b006879d311290a8fc2de9f5c00228dfe14037762a35342fd935f5",
+      "bytes": 4154,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/83.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-84-2026.md",
+      "sha256": "961819ab45d9911a3d6ec68900c76eeb992ad1662525dbe303db29499b4ae6b7",
+      "bytes": 7548,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/84.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-85-2026.md",
+      "sha256": "f4a824afaaa7574fb38f908e3793a14ca1c5ac9ab4e266a5aa0547e9aceb1ed3",
+      "bytes": 3470,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/85.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-86-2026.md",
+      "sha256": "e9d66fbbad97e5d2677aeb6d69bed23152938957f18ce1452c83162ad7257e83",
+      "bytes": 2971,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/86.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-87-2026.md",
+      "sha256": "cb8f8e6fe875b40cc8d662e7b7f139d9ef2a59d0800fcacfd3f33207b1459843",
+      "bytes": 3273,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/87.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-88-2026.md",
+      "sha256": "d0eddaab34caea9c074c7796736dc5ca0bfc36f82c0bcb60a84ce43d97e8d6a5",
+      "bytes": 3089,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/88.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-89-2026.md",
+      "sha256": "ac14ca66a29c36bddb01d0dc1faab88a958c663f965e2a3a877f8c8220ed1e29",
+      "bytes": 4406,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/89.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-91-2026.md",
+      "sha256": "d6a0a33107a50fb09031bec9c1b22d79bfa0863934bce69ead5b26472adaf08c",
+      "bytes": 3146,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/91.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-93-2026.md",
+      "sha256": "9083efbce30f9be6a8a34a7a17c9d1891d8575eb636d5045e22d3e33730fd08f",
+      "bytes": 3633,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/93.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-94-2026.md",
+      "sha256": "cffa4fc48d009cc9788fa460325b7ab8272c78c45575a09d6cc51f6ce197a661",
+      "bytes": 4505,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/94.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-95-2026.md",
+      "sha256": "c476c36aa99985ed7623d1bfa8f5d2f2851a03180a2ad0e7b2a52777c041bb8a",
+      "bytes": 4300,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/95.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-96-2026.md",
+      "sha256": "bdf0166d6ff6ef48b439a1a942c98fb27a36073cbb8aa8ffc8c70bedc0babbbe",
+      "bytes": 6087,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/96.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-97-2026.md",
+      "sha256": "5b5cee8d32ce23d72d98e6ff5dc1d1519e3604136d0faf232f3f83329527f335",
+      "bytes": 3447,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/97.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-98-2026.md",
+      "sha256": "e731e76c5ef177fca7a57d00148293cfa8d3585225d7ac421ea7f54fd9be1539",
+      "bytes": 5318,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/98.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-99-2026.md",
+      "sha256": "cbb66da1fadfd8098f09bbbfe285e60b947b4ef5d8588e1c6d288842e6776f79",
+      "bytes": 4260,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/99.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-100-2026.md",
+      "sha256": "0012ebdd01cb7603141c0f65c2fb6cca37b511a160da9175792c1fd61ac7b8f6",
+      "bytes": 11657,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/100.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-101-2026.md",
+      "sha256": "c0ce35a9dfe909902ae38a27750e93b8e92f4949007aefc57c1675939a3dc323",
+      "bytes": 4428,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/101.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-102-2026.md",
+      "sha256": "d7d2d645158dc1e527866671e55fa9e347444645ae28097829864b7af591a82c",
+      "bytes": 3585,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/102.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-103-2026.md",
+      "sha256": "d1ac68f6ddc7a2de3a0e2140fbb30e7c76709c902b2d7c0b0cf2dc7b05b1d4be",
+      "bytes": 3951,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/103.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-104-2026.md",
+      "sha256": "e02cd457e067142b094e9cb582ea3f14a11b1398f1ff1b507db3a17b1f7f9856",
+      "bytes": 3287,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/104.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-105-2026.md",
+      "sha256": "f0c07380a1ca40a8ac277ec1261bd1bcf4e1454d471b5b06812b8af4387e82ac",
+      "bytes": 3314,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/105.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-106-2026.md",
+      "sha256": "525b7f152269953152a3b6849b351a470750a235ab647d36854435fd6645bcd7",
+      "bytes": 3575,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/106.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-107-2026.md",
+      "sha256": "d71f8b02c1359a44c623ecc4f7de801f6ee8b5c6250f9f566fcc22924c07569e",
+      "bytes": 6354,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/107.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-108-2026.md",
+      "sha256": "ec783acfa2e631aa6b987f6f1cbca6b12248b7ec7efb3f36ced8338b19f87af0",
+      "bytes": 3899,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/108.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-109-2026.md",
+      "sha256": "9dab93223d9fdc8dd89ce072a6f99a1e39c758f9997ddb359ed50c3b412e6978",
+      "bytes": 3419,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/109.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-110-2026.md",
+      "sha256": "cfe415915eca91c56b1c8ee8d649f7a1f9d4ed2e338117a6000b1940e8a56865",
+      "bytes": 3769,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/110.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-111-2026.md",
+      "sha256": "db8056465e31fc3e90e2827e19c160f86d67a97c40d62c3d8ef74e7cecc9e449",
+      "bytes": 9411,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/111.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-112-2026.md",
+      "sha256": "dd362250f517ddd22c69a87f16c8c9fe48e18a79e871b2217600b300ae7953a0",
+      "bytes": 3230,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/112.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-113-2026.md",
+      "sha256": "d910db11c646512bfa22bae9d6b363853d0db69c513fb53bf2bca07cbfe09ddb",
+      "bytes": 4250,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/113.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-114-2026.md",
+      "sha256": "56d85c09666123d1694187c8809c7234de572e365933d9c5e8adbffc12816acb",
+      "bytes": 5656,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/114.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-115-2026.md",
+      "sha256": "b6b92f5f1cff4cf33d9556b57a9137ef8691e153d80c8b5208a9ce548e3400f5",
+      "bytes": 3542,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/115.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-116-2026.md",
+      "sha256": "7dc8351b956c713992b18766b98a7465587696ee3b04d2f0ca7eb0acd80edb38",
+      "bytes": 13267,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/116.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-117-2026.md",
+      "sha256": "faf8454db335270932ba520a3843c658a91acb21757d9c9193bc45aa7cbab08f",
+      "bytes": 3785,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/117.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-118-2026.md",
+      "sha256": "12d56175ba7023ed43cb381e5fc4d0a6a4473af519c0dfeceb780fb28e015343",
+      "bytes": 3189,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/118.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-119-2026.md",
+      "sha256": "e64b350eb1566cd505c5c5e910703e01ebd871f5f9a67af0f9caa100ebe2fcdf",
+      "bytes": 7650,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/119.txt",
+      "avisos": []
+    },
+    {
+      "path": "reguladores/confaz/convenios/2026/convenio-icms-120-2026.md",
+      "sha256": "eaf14121868652fecb37795822f5b01642948588b9cfce1fcabbe47f8fbbb0fd",
+      "bytes": 3104,
+      "preparado": "reguladores/_fonte/auditorias/confaz110-runner-ROOT-dryrun-20261027/validados/120.txt",
+      "avisos": []
+    }
+  ],
+  "publicados": [],
+  "codigo_sha256": "e84c5a4332e9420e8090142844a05c2a6ba128c5d4882f42eb89eba0ff597088",
+  "manifesto": "reguladores/_fonte/auditorias/confaz-indice2026-final110-dependencias-20261027/manifesto.json",
+  "sha256_manifesto": "a1bc691ded46d9b401312c9c2f0aafbfc26c1d3335a20aa38f909ada43da6b77",
+  "limite": "Edição capturada do portal; condições literais preservadas, sem afirmar vigência ou equivalência editorial DOU. Arquivos preparados são temporários e removidos após link exclusivo bem-sucedido; candidatos originais preservados. Nenhuma reserva DOU não publicada é presumida; ROOT deve conferir suas seleções privadas antes de --apply."
+}

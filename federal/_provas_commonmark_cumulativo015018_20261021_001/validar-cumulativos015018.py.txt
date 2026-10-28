@@ -1,0 +1,36 @@
+import sys,json,gzip,hashlib,re,importlib.util,collections
+from pathlib import Path
+from html.parser import HTMLParser
+sys.path.insert(0,'scripts');from estados import pe_fidelidade_visivel as v
+from auditar_pontuacao_federal import contexto_numerico
+from integridade_html_federal import Visivel
+from identidade_decreto import numero_normalizado
+spec=importlib.util.spec_from_file_location('semantic','/tmp/federal20261021-commonmark-listas-helper.py');mod=importlib.util.module_from_spec(spec);spec.loader.exec_module(mod)
+sha=lambda b:hashlib.sha256(b).hexdigest()
+class Lists(HTMLParser):
+ def __init__(self):super().__init__();self.events=[]
+ def handle_starttag(self,t,a):
+  if t in ['ol','ul','li']:self.events.append(('inicio',t,tuple(sorted(a))))
+ def handle_endtag(self,t):
+  if t in ['ol','ul','li']:self.events.append(('fim',t))
+plans=json.load(open('/tmp/federal20261021-cumulativos015018-preparo.json'));render={r['path']:r for r in json.load(open('/tmp/federal20261021-cumulativos015018-render-output.json'))['registros']};prep={r['path']:r for r in json.load(open('/tmp/federal20261021-commonmark-todos015018-preparo.json'))};html={r['path']:r for no in ['001','002'] for r in json.load(open(f'federal/_candidatos_listas_html_original_20261021_{no}.json'))['registros']};out=[];bad=[]
+for plan in plans:
+ for r in plan['publicaveis']:
+  p=prep[r['path']];pr=p['proof'];src=gzip.open(pr['fonte_html_cache'],'rt').read();assert sha(src.encode())==pr['sha256_fonte_html'];norm=src;admin=pr['marcador_administrativo_excluido'];cuts=admin['paragrafos'] if admin else []
+  for c in sorted(cuts,key=lambda c:c['inicio'],reverse=True):assert src[c['inicio']:c['fim']]==c['paragrafo_html'];assert sha(c['paragrafo_html'].encode())==c['sha256_paragrafo_html'];norm=norm[:c['inicio']]+c['prefixo_literal_preservado']+c['sufixo_literal_preservado']+norm[c['fim']:]
+  codes=[]
+  for m in reversed(list(re.finditer(r'###DEC-(\d+)-([A-Za-z0-9]+)-000-(\d\d)-(\d\d)-(\d{4})@@@',norm))):
+   if m.start()<norm.lower().find('<body'):continue
+   n,c,d,mo,y=m.groups();num=str(int(n))+('' if c=='0' else '-'+c)
+   if numero_normalizado(num)==numero_normalizado(r['epigrafe']['numero']) and y+'-'+mo+'-'+d==r['epigrafe']['data']:codes.append(m.group());norm=norm[:m.start()]+norm[m.end():]
+  a=v.texto_visivel_html(norm);q=render[r['path']];sl=Lists();sl.feed(norm);ml=Lists();ml.feed(q['html']);native=r['path'] in html
+  if native:b=v.texto_visivel_html(q['html']);lp=[];oklist=sl.events==ml.events
+  else:
+   assert not sl.events,(r['path'],'Lista nativa não preservada');parser=mod.Semantic(q['listas_ordenadas']);parser.feed(q['html']);assert parser.i==len(q['listas_ordenadas']);lp=parser.proof;oklist=all(i['mesmo_numero'] for l in lp for i in l['itens']);b=v.texto_visivel_html(''.join(parser.parts))
+  for n in pr['normalizacoes_apresentacao']:b=b.replace(n['markdown'],n['fonte'],1)
+  sp=Visivel();sp.feed(norm);mp=Visivel();mp.feed(q['html']);raw=Path(r.get('candidato_promocao',r['path'])).read_bytes();assert sha(raw)==r['sha256'];ok=a==b and v.assinatura_numerica(a)==v.assinatura_numerica(b) and contexto_numerico(a)==contexto_numerico(b) and oklist and sp.structure==mp.structure and sp.visual==mp.visual==[]
+  rec={'path':r['path'],'lote':plan['lote'],'sha256_md':sha(raw),'sha256_fonte_html':sha(src.encode()),'sha256_render_html':sha(q['html'].encode()),'sha256_visivel_fonte':sha(a.encode()),'sha256_visivel_render':sha(b.encode()),'aprovado':ok,'HTML_original':native,'listas_contadores':lp,'listas_nativas_atributos':sl.events if native else [],'administrativos_excluidos':cuts,'codigos_contiguos_proprios_excluidos':codes,'normalizacoes_apresentacao':pr['normalizacoes_apresentacao']};out.append(rec)
+  if not ok:bad.append(dict(rec,fonte_visivel=a,render_visivel=b,listas_iguais=oklist,tabelas_iguais=sp.structure==mp.structure,visuais_fonte=sp.visual,visuais_render=mp.visual))
+ print('lote',plan['lote'],'auditados',len(plan['publicaveis']),'divergencias',len(bad),flush=True)
+res={'metodo':'Replay independente marked 17.0.5 GFM de todos os corpos finais. Comparação de caracteres visíveis, pontuação, assinaturas numéricas e contexto, tabelas, imagens/objetos e contadores reais das listas. Os cinco candidatos HTML original preservam eventos e todos os atributos de listas da fonte.','limite':'Nas listas Markdown, o delimitador literal do código é conservado na comparação semântica; CSS padrão de ol pode apresentar ponto no lugar de parêntese. Não transforma listas em parágrafos. Revisão contextual humana das exceções, sem alegação de revisão humana de todas as normas.','resumo':{'auditados':len(out),'aprovados':sum(r['aprovado'] for r in out),'divergencias':len(bad)},'registros':out,'divergencias':bad}
+Path('/tmp/federal20261021-cumulativos015018-auditoria.json').write_text(json.dumps(res,ensure_ascii=False,indent=2)+'\n');print(res['resumo'])

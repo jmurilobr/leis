@@ -1,0 +1,50 @@
+{
+  "candidatos": 1000,
+  "aprovados": 563,
+  "retidos": 437,
+  "jurisdicao": [
+    {
+      "path": "municipais/MG/buritis/leis-ordinarias/1993/leis-ordinarias-605-1993-sapl-1102.md",
+      "sha256": "b703fb7be3a00fd478feb86152ca738338564fb6b8e3979bf4f59f0dc7e6c631",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/MG/cabeceira-grande/leis-ordinarias/2004/leis-ordinarias-190-2004-sapl-342.md",
+      "sha256": "0aa826aae7e9d7111a6d5f004eb611db6c1bc851146de1ce997c789e78ff7536",
+      "esfera_federacao_api": "M",
+      "alertas": [
+        {
+          "municipio_declarado": "Cabeceira Grande",
+          "municipio_no_cabecalho_normalizado": "unai",
+          "offset": 2118,
+          "trecho": "Maria Celestina Costa e Wilson Costa Vale. Em 1950 fez a doação de 38 hectares de terra à Prefeitura Municipal de Unaí em parceria com o Senhor Trajano Caetano que comprou duas glebas de terras uma de Valeriano Francisco das Neves e outras de Manuel Mariano de Oliveira Para que fosse ligada a "
+        }
+      ]
+    },
+    {
+      "path": "municipais/MG/cabeceira-grande/leis-ordinarias/2003/leis-ordinarias-168-2003-sapl-364.md",
+      "sha256": "7a00375772e4fae4720f8e364f1561ea09fb686a61b1e053538c2f04bdc182dd",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    }
+  ],
+  "replay_retidos": [
+    "municipais/GO/cacu/resolucoes/2024/resolucoes-19-2024-sapl-4273.md",
+    "municipais/GO/cacu/resolucoes/2024/resolucoes-17-2024-sapl-4208.md",
+    "municipais/MG/cabeceira-grande/leis-ordinarias/2004/leis-ordinarias-176-2004-sapl-356.md",
+    "municipais/MG/cabeceira-grande/leis-ordinarias/2002/leis-ordinarias-147-2002-sapl-386.md",
+    "municipais/GO/cacu/leis-ordinarias/2022/leis-ordinarias-2436-2022-sapl-3211.md"
+  ],
+  "criterio": "Retidos não integram a lista de normas. Controles conservam os motivos e identidades; não promovidos por contagem ou por comparação da mesma conversão."
+}

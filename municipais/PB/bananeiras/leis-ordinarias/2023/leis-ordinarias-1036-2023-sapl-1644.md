@@ -1,0 +1,165 @@
+---
+titulo: "Lei nº 1.036, de 15 de agosto de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1036"
+data: "2023-08-15"
+municipio: "Bananeiras"
+uf: "PB"
+codigo_ibge: "2501500"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bananeiras.pb.leg.br/norma/1644"
+fonte_texto: "https://sapl.bananeiras.pb.leg.br/ta/129/text"
+sha256_fonte: "52139b1a4b423a1df245769eecdb179a5721e6da8c10a5a3d55419ba200205b5"
+sha256_texto: "d903fb2554ff05e4cd0519a03d2d792e5666d7091cbbafc69f19c0e4fac349e7"
+capturado_em_fonte: "2026-10-27T17:07:27.423147-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.036, de 15 de agosto de 2023
+
+Autoriza a abertura de Crédito Especial ao Orçamento vigente para fins que menciona e dá outras providências.
+
+
+O **PREFEITO DO MUNICÍPIO DE BANANEIRAS, ESTADO DA PARAÍBA**, NO USO DE SUAS ATRIBUIÇÕES LEGAIS FAÇO SABER QUE O PODER LEGISLATIVO MUNICIPAL APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a abrir crédito especial ao orçamento vigente, no valor de R$ 104.000,00 (Cento e quatro mil reais), para atender as despesas para modernizar a guarda municipal de Bananeiras/PB por meio da aquisição de viatura, através do convênio nº 18010/2018, SIAFI/SICONV nº 879920, conforme processo nº 08020001708201899, destinado a guarda municipal do município de Bananeiras, firmado com o Ministério de Justiça e Segurança Pública.
+
+
+Parágrafo único
+
+A discriminação do crédito especial no caput deste artigo será assim distribuída:
+
+
+**03.000 Secretaria de Administração**
+
+**Rubrica:** 04 122 2001 2009 Manutenção da Secretaria de Administração
+
+**Valor:** R$ 104.000,00
+
+**Elementos de Despesas**
+
+4490.52 – Equipamentos e Material Permanente...............................R$ 104.000,00
+
+**Fonte:** 17000000 - Outras Transferências de Convênios ou Instrumentos Congêneres da União
+
+**Finalidade:** Liquidação de despesa para modernizar a guarda municipal por meio da aquisição de viatura.
+
+
+Art. 2º.
+
+Para a cobertura do Crédito Suplementar autorizado pelo artigo anterior serão usadas as fontes de recursos caracterizadas no art. 43, da Lei Federal nº 4.320 de 17 de março de 1964.
+
+
+Parágrafo único
+
+Fica ainda o Poder executivo municipal autorizado a suplementar os referidos créditos, caso seja necessário, nos moldes do artigo 42, da Lei Federal nº 4.320 de 17 de março de 1964, bem como, nos limites do valor autorizado na Lei Orçamentária Anual de 2023.
+
+
+Art. 3º.
+
+A estimativa do impacto orçamentário-financeiro decorrente da adoção das medidas previstas nesta lei, bem como, a declaração de adequação orçamentária e financeira estão contidos nos Anexos I e II, consoante determinação ínsita no art. 16 da Lei Complementar nº 101/00.
+
+
+Art. 4º.
+
+Fica ainda o Prefeito Municipal autorizada a realizar as modificações oriundas do referido crédito especial na LDO e PPA vigentes promovendo à compatibilização da ação ora proposta.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+Prefeitura Municipal de Bananeiras, em 15 de
+
+agosto de 2023; 135º da Proclamação da
+
+República.
+
+**MATHEUS DE MELO BEZERRA CAVALCANTI**
+
+Prefeito Constitucional do Município de Bananeiras/PB
+
+
+## Anexo I — RELATÓRIO DE ESTIMATIVA DO IMPACTO ORÇAMENTÁRIO-FINANCEIRO
+
+**(artigo 16, I, Lei Complementar nº 101/2000)**
+
+
+**OBJETO DA DESPESA:**
+
+Fica o Poder Executivo Municipal autorizado a abrir crédito especial ao orçamento vigente, no valor de R$ 104.000,00 (Cento e quatro mil reais), para atender as despesas para modernizar a guarda municipal de Bananeiras/PB por meio da aquisição de viatura, através do convênio nº 18010/2018, SIAFI/SICONV nº 879920, conforme processo nº 08020001708201899, destinado a guarda municipal do município de Bananeiras, firmado com o Ministério de Justiça e Segurança Pública.
+
+**Parágrafo Único** – A discriminação do crédito especial no caput deste artigo será assim distribuída:
+
+**03.000 Secretaria de Administração**
+
+**Rubrica:** 04 122 2001 2009 Manutenção da Secretaria de Administração
+
+**Valor:** R$ 104.000,00
+
+**Elementos de Despesas**
+
+4490.52 – Equipamentos e Material Permanente...............................R$ 104.000,00
+
+**Fonte:** 17000000 - Outras Transferências de Convênios ou Instrumentos Congêneres da União
+
+**Finalidade:** Liquidação de despesa para modernizar a guarda municipal por meio da aquisição de viatura.
+
+**IMPACTO NO ORÇAMENTO/2023:**
+
+Sem reflexo, pois não aumenta a despesa já prevista no orçamento corrente, uma vez que os recursos de capital decorrerão do Excesso de Arrecadação que será apurado no corrente exercício.
+
+**IMPACTO NO ORÇAMENTO/2024**
+
+Sem reflexo, pois a despesa emanada desta lei já estará adequada à realidade orçamentária futura.
+
+**IMPACTO NO ORÇAMENTO/2025**
+
+Sem reflexo, pois a despesa emanada desta lei já estará adequada à realidade orçamentária futura.
+
+
+Prefeitura Municipal de Bananeiras, em 15 de
+
+agosto de 2023; 135º da Proclamação da
+
+República.
+
+**MATHEUS DE MELO BEZERRA CAVALCANTI**
+
+Prefeito Constitucional do Município de Bananeiras/PB
+
+
+## Anexo II — DECLARAÇÃO DE ADEQUAÇÃO ORÇAMENTÁRIA E FINANCEIRO
+
+**(artigo 16, II, Lei Complementar nº 101/2000)**
+
+
+**OBJETO DA DESPESA:**
+
+Fica o Poder Executivo Municipal autorizado a abrir crédito especial ao orçamento vigente, no valor de R$ 104.000,00 (Cento e quatro mil reais), para atender as despesas para modernizar a guarda municipal de Bananeiras/PB por meio da aquisição de viatura, através do convênio nº 18010/2018, SIAFI/SICONV nº 879920, conforme processo nº 08020001708201899, destinado a guarda municipal do município de Bananeiras, firmado com o Ministério de Justiça e Segurança Pública.
+
+**FONTE DE CAPITAL:**
+
+Crédito Especial a ser aberto na LOA/2023 tendo como fontes de recursos oriundos de Outras Transferências de Convênios ou Instrumentos Congêneres da União.
+
+Na qualidade de ordenador de "despesas" do Município de Bananeiras, declaro, para os efeitos do artigo 16, II da Lei Complementar nº 101 – Lei de Responsabilidade Fiscal, que a despesa acima especificada possui adequação Orçamentária e financeira com a Lei Orçamentária Anual, em razão da abertura do Crédito Especial para esse fim autorizado.
+
+
+Prefeitura Municipal de Bananeiras, em 15 de
+
+agosto de 2023; 135º da Proclamação da
+
+República.
+
+**MATHEUS DE MELO BEZERRA CAVALCANTI**
+
+Prefeito Constitucional do Município de Bananeiras/PB
+

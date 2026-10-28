@@ -1,0 +1,63 @@
+---
+titulo: "Lei Ordinária nº 651, de 17 de novembro de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "651"
+data: "2020-11-17"
+municipio: "Cruzmaltina"
+uf: "PR"
+codigo_ibge: "4106852"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cruzmaltina.pr.leg.br/norma/940"
+fonte_texto: "https://sapl.cruzmaltina.pr.leg.br/ta/67/text"
+sha256_fonte: "2b962c7fc471959e8c4fe05b3d60512d6a05a7004df6608257c74a9927cbc82a"
+sha256_texto: "b180eea0e2801339e3d9f15ea4b5922ec841e25fb9f6ee6f01781307f63076ce"
+capturado_em_fonte: "2026-10-28T09:31:34.512079-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 651, de 17 de novembro de 2020
+
+AUTORIZA CRÉDITO ESPECIAL NA IMPORTÂNCIA DE ATÉ 14.600,00 (CATORZE MIL SEISCENTOS REAIS)
+
+
+A PREFEITA MUNICIPAL DE CRUZMALTINA, Estado do Paraná, Sra. LUCIANA LOPES DE CAMARGO no uso das atribuições que são conferidas por lei, FAZ SABER que a Câmara Municipal de Cruzmaltina aprovou e ele sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a abrir no PPA/LDO e orçamento municipal um crédito especial, nas dotações abaixo discriminadas no valor de até R$ 14.600,00 (catorze mil seiscentos reais)
+
+Suplementação
+
+13.000.00.000.0000.0.000. ENCARGOS DO MUNICIPIO
+
+13.001.00.000.0000.0.000 Encargos Gerais  
+13.001.28.844.0000.2.042 Devolução de Recursos de Convênios  
+460 - 3.3.90.93.00.00 808 INDENIZAÇÕES E RESTITUIÇÕES 14.600,00  
+Total Suplementação 14.600,00
+
+
+Art. 2º.
+
+Para atender o disposto no Artigo 1º desta Lei, servirá como recurso o Excesso de Arrecadação, de acordo com o Artigo 43, § 1º, Inciso III da Lei Federal nº 4.320/64.  
+  
+Receita  
+Receita: 2.4.1.8.10.91.00.00000000 Fonte 808 - 14.281,35  
+Receita: 1.3.2.1.00.11.00.00000000 Fonte 808 - 318,65  
+Total da Receita 14.600,00
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Edificio da Prefeitura Municipal de CRUZMALTINA, Estado do Paraná, em 17/11/2020
+
+LUCIAA LOPES DE CAMARGO  
+PREFEITA
+

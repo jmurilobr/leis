@@ -1,0 +1,692 @@
+---
+titulo: "Lei nº 792, de 02 de fevereiro de 1989"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "792"
+data: "1989-02-02"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/3251"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/4412/text"
+sha256_fonte: "aa02259973f39dfea6d84d66a316da335ce8a386c4acb2fb258dcde2accf6546"
+sha256_texto: "18d502096f3630f68d825246b4b4403ef3e69607a4d3b2406c971435e585e1a1"
+capturado_em_fonte: "2026-10-27T22:19:28.340607-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 792, de 02 de fevereiro de 1989
+
+"Institui o Imposto sobre a transmissão "inter-vivos" de bens imóveis e dá outras providências".
+
+
+O PREFEITO DO MUNICÍPIO DE PORTO VELHO, usando da atribuição que lhe faculta o inciso VII do art. 185, da Constituição do Estado de Rondônia, combinado com o que estabelece a Seção V- dos Impostos dos Municípios art. 156, inciso II da Constituição da Republica Federativa do Brasil.
+
+FAÇO SABER que a Câmara Municipal de Porto Velho decreta e eu sanciono a seguinte
+
+LEI:
+
+
+Art. 1º.
+
+O imposto sobre a transmissão " inter-vivos" de bens imóveis ITBI e de direitos a eles relativos tem como fato gerador:
+
+
+I –
+
+a transmissão, a qualquer título, da propriedade ou domínio útil de bens imóveis por natureza ou por acessão física, como definidos na Lei Civil;
+
+
+II –
+
+a transmissão, a qualquer título, de direitos reais sobre imóveis, exceto os direitos reais de garantia e a servidão;
+
+
+III –
+
+a cessão de direitos relativos às transmissões referidas nos incisos anteriores.
+
+
+Art. 2º.
+
+Para os efeitos do artigo anterior, considera-se ocorrido o fato gerador quando haja transmissão decorrente de:
+
+
+I –
+
+arrematação, adjudicação e remição;
+
+
+II –
+
+compra e venda;
+
+
+III –
+
+dação em pagamento;
+
+
+IV –
+
+cessão de direitos à sucessão aberta de imóveis situados no município de Porto Velho;
+
+
+V –
+
+cessão de direitos do arrematante ou adjudicatório de bem imóvel;
+
+
+VI –
+
+promessa ou compromisso de compra e venda de imóvel, quando quitado, bem como a cessão de direitos decorrentes de promessa ou compromisso;
+
+
+VII –
+
+instituição de usufruto, convencional, sobre bem imóvel;
+
+
+VIII –
+
+mandato em causa própria ou com poderes equivalentes e seus substabelecimentos, que importem em transferência de bens imóveis ou na cessão de direitos relativos a tais bens;
+
+
+IX –
+
+tornas ou reposições, que ocorram na partilha ou na divisão de patrimônio comum, decorrentes de separação judicial ou divórcio, quando o cônjuge receber quota-parte de imóveis, situados no município, de valor maior que a quota-parte que lhe for devida;
+
+
+X –
+
+tornas ou reposições, que ocorram em divisão decorrente de extinção de condomínio de imóveis, quando qualquer condômino receber quota-parte de valor maior que o da sua quota-parte ideal;
+
+
+XI –
+
+partilha de bens imóveis, feitas pelos pais por ato entre vivos, prevista no artigo 1.176 do Código Civil;
+
+
+XII –
+
+permuta de bens imóveis e de direitos a eles relativos;
+
+
+XIII –
+
+sentença declaratória de usucapião;
+
+
+XIV –
+
+qualquer outro ato translativo da propriedade de bem imóvel por natureza ou acessão física, sujeito a transcrição na forma da lei.
+
+
+Art. 3º.
+
+O imposto é devido nos casos em que o imóvel da transmissão ou sobre o qual incide o direito transmitido ou cedido, esteja situado no Território do Município, ainda que a mutação patrimonial decorra de ato praticado ou de sucessão aberta em outra Unidade da Federação ou no Exterior.
+
+
+##### Seção II — DA NÃO INCIDÊNCIA
+
+
+Art. 4º.
+
+O imposto não incide na transmissão de bens e direitos ao patrimônio:
+
+
+I –
+
+da União, dos Estados, do Distrito Federal dos Municípios, inclusive de suas entidades autárquicas, no que se refere aos bens e direitos vinculados às finalidades essenciais destas ou delas decorrentes.
+
+
+II –
+
+de templo de qualquer culto;
+
+
+III –
+
+de partido político, inclusive suas fundações;
+
+
+IV –
+
+de instituição de educação ou de assistência social, observado o disposto nos parágrafos 1º e 2° deste artigo.
+
+
+V –
+
+das entidades sindicais dos trabalhadores.
+
+
+§ 1º
+
+O disposto nos incisos III, IV e V, deste artigo é subordinado à observância dos seguintes requisitos pelas entidades neles referidas:
+
+
+1
+
+não distribuir qualquer parcela de seu patrimônio ou de sua renda, a título de lucro ou participação no seu resultado;
+
+
+2
+
+aplicar integralmente, no País, os seus recursos, na manutenção dos seus objetivos institucionais;
+
+
+3
+
+manter escrituração de suas receitas e despesas em livros revestidos de formalidade capazes de assegurar a sua exatidão.
+
+
+§ 2º
+
+na falta de cumprimento ao disposto no parágrafo anterior, a autoridade competente poderá suspender a aplicação do benefício.
+
+
+Art. 5º.
+
+O imposto não incide sobre a transmissão de bens ou direitos, quando:
+
+
+I –
+
+efetuada para a sua incorporação ao patrimônio de pessoa jurídica em pagamento de capital nela subscrito;
+
+
+II –
+
+decorrente da incorporação ou da jusão uma pessoa jurídica por outra ou com outra;
+
+
+III –
+
+ocorrer a desincorporação dos bens e diretos transmitidos na forma do inciso I, deste artigo, e forem revistados aos primitivos alienantes;
+
+
+IV –
+
+ocorrer a renúncia pura e simples à sucessão aberta;
+
+
+V –
+
+na retrovenda, perempção ou retrocessão, bem como nas transmissões clausuladas com pacto de melhor comprador ou comissão, quando voltem os bens ao domínio do alienante, por força de estipulação contratual ou falta de destinação do imóvel desapropriado, observado o disposto no parágrafo único do artigo 16, desta Lei.
+
+
+§ 1º
+
+O disposto nos incisos I e III, deste artigo, não se aplica quando a pessoa jurídica adquirente tiver como atividade preponderante a venda ou locação de propriedade imobiliária ou a cessão de direitos relativos a sua aquisição.
+
+
+§ 2º
+
+Considera-se caracterizada a atividade preponderante referida no parágrafo anterior, quando mais de 50% (cinquenta por cento) da receita operacional da pessoa jurídica adquirente, nos 02 (dois) anos anteriores e nos 02 (dois) anos subsequentes à aquisição, decorrer de transações nele mencionadas.
+
+
+§ 3º
+
+Se a pessoa, jurídica adquirente iniciar suas atividades após a aquisição, ou menos de 02 (dois) anos antes dela, apurar-se-á preponderância referida no parágrafo anterior, levando-se em conta os 03 (três) primeiros anos seguintes à data da aquisição.
+
+
+§ 4º
+
+Verificada a preponderância da atividade referida no parágrafo 2º, deste artigo, tornar-se-á devido o imposto previsto na Lei vigente à data da aquisição, sobre o valor do bem ou direito naquela data.
+
+
+§ 5º
+
+O disposto nos parágrafos anteriores não se aplica à transmissão de bens e direitos, quando realizada em conjunto com a totalidade do patrimônio da pessoa jurídica alienante.
+
+
+##### Seção III — DA ISENÇÃO
+
+
+Art. 6º.
+
+É isenta do imposto:
+
+
+I –
+
+a aquisição, por estado estrangeiro, imóvel destinado exclusivamente a uso de sua missão diplomatica ou consular;
+
+
+II –
+
+a aquisição, a qualquer título, de imóvel, promovida por órgão ou entidade encarregada do programa de habitação no município de Porto Velho, cooperativa ou entidade de classe;
+
+
+III –
+
+a transmissão em que o alienante seja o município de Porto Velho;
+
+
+IV –
+
+a aquisição decorrente da investidura determinada por pessoa jurídica de direito público;
+
+
+V –
+
+a aquisição, por funcionário público municipal, de imóvel para seu uso próprio, desde que não possua nenhum outro;
+
+
+VI –
+
+a transmissão do domínio direto ou da sua propriedade.
+
+
+Parágrafo único
+
+Entende-se por investidura, para fins do inciso IV, deste artigo, a adjudicação, por preço nunca inferior ao de avaliação prévia, de área, urbana ou rural, remanescente ou resultante de obra pública, inaproveitável isoladamente, de acordo com a legislação pertinente aos proprietários de imóveis lindeiros.
+
+
+##### Seção IV — DA ALÍQUOTA
+
+
+Art. 7º.
+
+As alíquotas do imposto são:
+
+
+I –
+
+nas transmissões compreendidas no Sistema Financeiro de Habitação - SFH, a que se refere a Lei Federal nº 4.380, de 21 de agosto de 1964:
+
+
+a)
+
+sobre o valor efetivamente financiado- 0,5% (meio por cento);
+
+
+b)
+
+sobre o valor excedente - 2% (dois por cento) ;
+
+
+II –
+
+nas transmissões ou cessões a título oneroso 2% (dois por cento);
+
+
+III –
+
+nas demais transmissões ou cessões - 4% (quatro por cento).
+
+
+§ 1º
+
+O benefício a que se refere a alínea "a", do inciso I, deste artigo, é limitado à primeira aquisição imobiliária objeto de Financiamento através do Sistema Financeiro de Habitação - SFH.
+
+
+§ 2º
+
+Na transmissão por sucessão legítima, a alíquota aplicável é a vigente no momento da liquidação do imposto.
+
+
+§ 3º
+
+O nú-proprietário e o fideicomissário pagarão o imposto de acordo com a alíquota vigente no momento da extinção do usufruto ou da substituição do fideicomisso, respectivamente.
+
+
+##### Seção V — DA BASE DE CÁLCULO
+
+
+Art. 8º.
+
+A base de calculo do imposto é o valor venal dos bens ou direitos, no momento de transmissão ou cessao, segundo estimativa fiscal aceita pelo contribuinte, ou o preço pago, se este for maior.
+
+
+§ 1º
+
+Não concordando com o valor estimado, poderá o contribuinte requerer avaliação fiscal, instruindo o pedido com documentação que o fundamente.
+
+
+§ 2º
+
+O valor estabelecido na forma deste artigo prevalecerá pelo prazo de 90 (noventa) dias, findo o qual, sem o pagamento do imposto, ficará sem efeito o lançamento ou a avaliação.
+
+
+Art. 9º.
+
+Tratando-se de transmissão ou cessão judicialmente processada, o valor para efeito de base de cálculo será o resultante da homologação judicial, nos termos do Código de Processo Civil.
+
+
+Art. 10.
+
+A base de cálculo, nos seguintes casos, será:
+
+
+I –
+
+na adjudicação, o valor estabelecido pela avaliação judicial ou administrativo;
+
+
+II –
+
+na arrematação ou leilão, o preço pago;
+
+
+III –
+
+na cessão de direitos, o valor venal do imóvel;
+
+
+IV –
+
+na dação em pagamento, o valor venal dos bens imóveis dados para solver o débito;
+
+
+V –
+
+na instituição do fideicomisso, o valor venal do imóvel;
+
+
+VI –
+
+na instituição e extinção do usufruto, o valor venal do imóvel usufruído;
+
+
+VII –
+
+na permuta, o valor venal de cada imóvel ou direito permutado;
+
+
+VIII –
+
+na transmissão do domínio útil, o valor venal do imóvel aforado;
+
+
+IX –
+
+na transmissão por sentença declaratória usucapião ou supletiva da manifestação de vontade, o valor estabelecido pela avaliação judicial;
+
+
+X –
+
+nas tornas ou reposição verificadas em partilha ou divisão, o valor da parte excedente da meação ou quinhão, ou de parte ideal consistente em imóvel;
+
+
+XI –
+
+em qualquer outra transmissão ou cessão de imóvel ou de direitos reais, não especificada nos incisos anteriores, o valor venal dos bens.
+
+
+##### Seção VI — DO CONTRIBUINTE
+
+
+Art. 11.
+
+É contribuinte do imposto:
+
+
+I –
+
+nas transmissões decorrentes de atos entre vivos, exceto a hipóteses previstas nos incisos seguintes, os adquirentes dos bens ou direitos transmitidos;
+
+
+II –
+
+nas cessões de direitos relativos à aquisição de imóveis, os cedentes;
+
+
+III –
+
+na instituição de usufruto, o usufrutuário ;
+
+
+IV –
+
+na permuta, cada permutante, relativamente ao bem ou direito adquirido.
+
+
+##### Seção VII — DO RESPONSÁVEL
+
+
+Art. 12.
+
+Na transmissão ou cessão efetivada sem o pagamento do imposto ou em desacordo com o que estabelece esta Lei, respondem pelo tributo, seus acréscimos legais e penalidades pecuniárias que venham a ser aplicadas, relativamente aos atos em que intervierem ou pelas omissões de que forem responsáveis:
+
+
+I –
+
+solidariamente com o contribuinte, o transmitente, o cedente ou o cessionário, quando for o caso;
+
+
+II –
+
+subsidiariamente, com relação ao imposto acréscimos moratórios, quando:
+
+
+a)
+
+ao filho menor, ao tutelado ou ao curatelado, o pai, o tutor ou o curador, respectivamente;
+
+
+b)
+
+ao respectivo titular, o administrador de seus imóveis;
+
+
+c)
+
+à massa falida ou ao concordatário, o síndico ou o comissário, respectivamente;
+
+
+d)
+
+ao adquirente, ao cedente ou ao cessionário, quando for o caso, o tabelião, o escrivão ou outro serventuário de ofício;
+
+
+e)
+
+à sociedade, o diretor ou o sócio.
+
+
+##### Seção VIII — DO LOCAL, PRAZO E FORMA DE PAGAMENTO DO IMPOSTO
+
+
+Art. 13.
+
+O imposto será pago através do Documento de Arrecadação Municipal-DAM, acompanhado de uma guia, segundo modelo a ser estabelecido pela Secretaria Municipal da Fazenda.
+
+
+Art. 14.
+
+O pagamento do imposto far-se-á na Tesouraria da Secretaria Municipal de Fazenda ou em estabelecimento bancário de indicação desta ou em local diverso daquele, por motivo relevante, a critério da Fazenda Municipal.
+
+
+§ 1º
+
+No caso de localização do imóvel em mais de um Município, o imposto será pago naquele onde ficar localizada a maior parte do imóvel.
+
+
+Art. 15.
+
+Na transmissão ou cessão entre vivos, o imposto será pago:
+
+
+I –
+
+na transmissão ou cessão, por escritura pública, antes de sua lavratura;
+
+
+II –
+
+na transmissão ou cessão, por documento particular, mediante apresentação do mesmo à fiscalização, dentro de 30 (trinta) dias, contados da data de sua assinatura, mas sempre antes da inscrição, transcrição ou averbação no registro competente;
+
+
+III –
+
+na transmissão ou cessão por meio de procuração em causa própria ou documento que lhe seja assemelhado, bem como no substabelecimento, que represente uma transmissão uma cessão, antes de lavrado o respectivo instrumento;
+
+
+IV –
+
+na transmissão em virtude de qualquer sentença judicial, dentro de 30 (trinta) dias, contados da data do trânsito da sentença em julgado;
+
+
+V –
+
+na arrematação, adjudicação, remissão e usucapião, até 30 (trinta) dias, após o ato ou o trânsito da sentença em julgado;
+
+
+VI –
+
+na aquisição de terra devoluta, antes de assinado o respectivo título;
+
+
+VII –
+
+nas tornas ou reposições, em que sejam interessados incapazes, dentro de 30 (trinta) dias, contados da data da intimação do despacho que as autorizar;
+
+
+VIII –
+
+na aquisição por escritura lavrada fora do Estado, dentro de 30 (trinta) dias após o ato, vencendo-se, no entanto, o prazo, à data de qualquer anotação, inscrição ou transcrição feita no Estado e referente ao citado documento.
+
+
+§ 1º
+
+No caso de oferecimento de embargos contar-se-á o prazo, a que se refere o item IV deste artigo, a partir do trânsito da sentença em julgado, que os rejeitar.
+
+
+§ 2º
+
+Os prazos serão contínuos, excluindo-se, na contagem, o dia do início e incluindo-se o do vencimento;
+
+
+§ 3º
+
+Os prazos só se iniciam ou se vencem em dia de expediente normal na repartição onde deva ser pago o imposto.
+
+
+##### Seção IX — DA RESTITUIÇÃO DO IMPOSTO
+
+
+Art. 16.
+
+O imposto será restituído:
+
+
+I –
+
+quando indevidamente recolhido, no todo ou em parte;
+
+
+II –
+
+quando, posteriormente ao seu pagamento, vier a ser reconhecida a não incidência ou o direito a isenção;
+
+
+III –
+
+quando não se efetivar o ato ou contrapor força do qual foi pago.
+
+
+Parágrafo único
+
+No caso de retrovenda e de compra e venda clausulada com o pacto de melhor comprador, a volta dos bens ao domínio do alienante não importa em direito à restituição do imposto originariamente pago.
+
+
+##### Seção X — DA FISCALIZAÇÃO DO IMPOSTO
+
+
+Art. 17.
+
+A fiscalização do imposto compete a unidade administrativa da Secretaria Municipal da Fazenda, que para garantir a exatidão do credito tributário, terá ampla faculdade de fiscalização, bem como pelos Fiscais que, no exercício de suas funções, deverão, obrigatoriamente, exibir ao contribuintes e demais obrigados nos termos desta Lei, sua credencial, fornecida pela Fazenda Municipal.
+
+
+Art. 18.
+
+Não serão lavrados, registrados, inscritos ou averbados pelos tabeliões, escrivães e oficiais do Registro de Imóveis, os atos e termos de seu cargo, sem a prova do pagamento do imposto, sendo responsável pela observância das disposições desta Lei, referente ao imposto, nos atos oficiais de que participarem as autoridades judiciais, os serventuários da justiça e os membros do Ministério Público Estadual, observadas ainda, as disposições do Código de Processo Civil e do Código de Organização Judiciária.
+
+
+Parágrafo único
+
+As autoridades e os agentes referidos neste artigo são obrigados a:
+
+
+I –
+
+exigir a transcrição literal do Documento de Arrecadação Municipal - DAM e da Certidão Negativa do Débito para com a Fazenda Municipal, nos instrumentos formais de transmissão de bens imóveis ou cessão de direitos a eles relativos;
+
+
+II –
+
+facultar, ao funcionário do fisco municipal, o exame de livros ou quaisquer documentos que interessem à arrecadação e fiscalização do imposto.
+
+
+##### Seção XI — DAS PENALIDADES
+
+
+Art. 19.
+
+A infração à legislação do imposto será punida com multa;
+
+
+I –
+
+de 50% (cinquenta por cento) do valor do imposto, quando a infração se referir à falta de pagamento do imposto dentro do prazo previsto;
+
+
+II –
+
+100% (cem por cento) do valor do imposto quando ocorrer a falta ou inexatidão de declaração relativa a elementos que possam influir no cálculo do imposto com intuito de fraude ou sonegação.
+
+
+Parágrafo único
+
+A reincidência punir-se-á com a multa majorada de 100% (cem por cento).
+
+
+Art. 20.
+
+O serventuário ou funcionário do fisco que não observar os dispositivos legais e regulamentares relativos ao imposto, concorrendo de qualquer modo para o seu não pagamento, ficará sujeito à mesma penalidade estabelecida para o contribuinte, devendo ser notificado para o pagamento da multa, sem prejuízo do processo criminal e/ou administrativo cabível.
+
+
+##### Seção XII — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 21.
+
+O instrumento de compromisso de compra e venda de terreno ou de fração ideal deste, bem como de cessão dos respectivos direitos, cumulados com ò de construção por empreitada de labor e materiais, deve ser exibido à Fazenda, antes de iniciada a obra contratada.
+
+
+Parágrafo único
+
+Na falta de cumprimento da formalidade prevista neste artigo, a base de cálculo do imposto incluirá o valor venal da construção, no estado em que se encontrar, no momento do pagamento do tributo.
+
+
+Art. 22.
+
+Esta Lei entra em vigor na data da sua publicação, com eficácia a partir do mês de março do corrente ano.
+
+
+Art. 23.
+
+Revogam-se as disposições em contrário.
+
+
+FRANCISCO JOSÉ CHIQUILITO COIMBRA ERSE
+
+Prefeito Municipal
+
+LUIZ GUILHERME ERSE DA SILVA
+
+Secretário Munic. De Planejamento e Coordenação
+
+HAMILTON ALMEIDA SILVA
+
+Secretário Munic. de Fazenda
+
+NEY LUIZ DE FREITAS LEAL
+
+Procurador Geral
+

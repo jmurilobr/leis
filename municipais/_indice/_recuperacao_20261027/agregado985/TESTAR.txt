@@ -1,0 +1,3 @@
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/qa_municipal_persistente_20261027.py scripts/verificar_entrega_ta_sem_promocoes_v2.py --manifesto municipais/_indice/_recuperacao_20261027/agregado985/entrega-final.json --replay --saida municipais/_indice/_recuperacao_20261027/agregado985/replay-root-novo.json
+Esperado: 985 replays aprovados, 0 problemas. Use saida nova.
+Originais 698 e 287 preservados; nenhum MD ou codigo congelado foi alterado. Nenhum coletor reiniciado para a recuperacao destes pacotes. Capturas antigas nao foram reetiquetadas como novas.

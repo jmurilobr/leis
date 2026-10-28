@@ -1,0 +1,24 @@
+---
+titulo: "RESOLUÇÃO CFESS Nº 954, de 18 de agosto de 2020"
+orgao: "Entidades de Fiscalização do Exercício das Profissões Liberais/Conselho Federal de Serviço Social"
+tipo: "Resolução"
+numero: "954"
+data: 2020-08-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 19/08/2020, seção 1, p. 104"
+data_publicacao: 2020-08-19
+edicao: "159"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-cfess-n-954-de-18-de-agosto-de-2020-272980483"
+sha256_html_fonte: 8c856bd1a9826b17c7db5028df93b24f25998687dec0fc4f9050cfd6706380bf
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO CFESS Nº 954, de 18 de agosto de 2020
+
+RESOLUÇÃO CFESS Nº 954, de 18 de agosto de 2020
+
+Extingue, no âmbito do Conjunto CFESS/CRESS, a infração disciplinar que consiste em deixar de pagar, regularmente, as anuidades e contribuições devidas ao CRESS, com a consequente extinção da penalidade de suspensão do exercício profissional por débito.
+
+A Presidente do Conselho Federal de Serviço Social, no uso de suas atribuições legais e regimentais, e Considerando que segundo o artigo 8º, I, da Lei no8.662, de 7 de junho de 1993, publicada no Diário Oficial da União no107, de 8 de junho de 1993, Seção 1, compete ao Conselho Federal de Serviço Social (CFESS), na qualidade de órgão normativo de grau superior, orientar, disciplinar, normatizar, fiscalizar e defender o exercício da profissão de Assistente Social, em conjunto com o CRESS; Considerando que segundo o artigo 13 da Lei no8.662, de 7 de junho de 1993, publicada no Diário Oficial da União no107, de 8 de junho de 1993, Seção 1, a inscrição nos Conselhos Regionais sujeita os Assistentes Sociais ao pagamento das contribuições compulsórias (anuidades), taxas e demais emolumentos que forem estabelecidos em regulamentação baixada pelo Conselho Federal, em deliberação conjunta com os Conselhos Regionais; Considerando que os artigos 3º ao 11 da Lei nº12.514, de 28 de outubro de 2011, publicada no Diário Oficial da União nº209, de 31 de outubro de 2011, Seção 1, relativas as anuidades das entidades de fiscalização do exercício de profissões regulamentadas; Considerando a Resolução CFESS no273, de 13 março de 1993, publicada no Diário Oficial da União nº 60, de 30 de março de 1993, Seção 1, que Institui o Código de Ética Profissional do/a Assistente Social e daì outras providências; Considerando a Resolução CFESS no354, de 17 de dezembro de 1997, que dispõe sobre procedimentos formais, que deverão ser utilizados para efeito de aplicação da penalidade de suspensão do exercício profissional por débito; Considerando a Resolução CFESS no582, de 01 de julho de 2010, publicada no Diário Oficial da União no125, de 2 de julho de 2010, Seção 1, que regulamenta a Consolidação das Resoluções do Conjunto CFESS/CRESS; Considerando a Resolução CFESS no777, de 21 de novembro de 2016, publicada no Diário Oficial da União no223, de 22 de novembro de 2016, Seção 1que institui Política Nacional de Enfrentamento aÌ Inadimplência no âmbito do Conjunto CFESS/CRESS; Considerando a Resolução CFESS nº829, de 22 de setembro de 2017, publicada Diário Oficial da União nº184, de 25 de setembro de 2017, Seção 1, que regulamenta as anuidades de pessoa física e de pessoa jurídica e as taxas no âmbito dos CRESS, e determina outras providências; Considerando ainda tese de julgamento para efeitos de repercussão geral do Supremo Tribunal Federal no Recurso Extraordinário 647.885 RS, julgado pelo Plenário em 27 de abril de 2020; Considerando, finalmente, a aprovação da presente Resolução pelo Conselho Pleno do CFESS de 07 e 08 de agosto de 2020, rsolve: Art. 1º Extinguir, no âmbito do Conjunto CFESS/CRESS, a infração disciplinar que consiste em deixar de pagar, regularmente, as anuidades e contribuições devidas ao CRESS (tipificada no artigo 22, "c", da Resolução CFESS no273/1993), com a consequente extinção da penalidade de suspensão do exercício profissional por débito. Parágrafo único Os CRESS deverão arquivar todos os procedimentos formais que se encontrem em tramitação na data da publicação da presente resolução, que visem a aplicação da penalidade de suspensão do exercício profissional por débito, conforme a Resolução CFESS no354/1997. Art. 2º As penas de suspensão do exercício profissional por débito que estiverem sendo cumpridas no âmbito do Conjunto CFESS/CRESS ficam extintas na data da publicação da presente resolução, sessando seus efeitos para fins de regularização da inscrição perante os CRESS. Art. 3º Ficam revogados/as: I - a alínea "c" do artigo 22 e o parágrafo único do artigo 25 da Resolução CFESS no273/1993. II - a Resolução CFESS no354/1997. III - a alínea "e" do artigo 54 e os parágrafos quarto, quinto e sexto do artigo 78 da Resolução CFESS no582/2010. IV - o inciso IV do artigo 5º da Resolução CFESS no777/2016. Art. 4º Esta Resolução entra em vigor na data de sua publicação no Diário Oficial da União.
+
+Maria Elizabeth Santana Borges

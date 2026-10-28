@@ -1,0 +1,42 @@
+{
+  "resumo": {
+    "atos": 1,
+    "eventos_normativos": 0,
+    "eventos_fontes_especiais": 0,
+    "eventos_ocultacao": 0,
+    "eventos_tachado": 0,
+    "seletores_condicionais_ou_pendentes": 0,
+    "mascaras_aplicadas": 0,
+    "canônicos_alterados": 0
+  },
+  "prova_primaria": {
+    "path": "federal/_fonte/auditorias/inventario_remissoes_publicados_20261027_003/prova20175.json.gz",
+    "sha256": "afc090d383d55104f167ebc79c9da661d4ba50d1986776f15fcb8754679467cf"
+  },
+  "predicado_congelado": {
+    "path": "federal/_fonte/auditorias/diagnostico_glifos1347_20261027_002/diagnosticar.py",
+    "sha256": "beadf267d897ef287c7525935f833c73d8b7337a58db27b6fc43a0f5cc62a4e2"
+  },
+  "diagnostico": {
+    "path": "federal/decretos/1945/dec-20175-1945-12-11.md",
+    "lote": "20175 complemento",
+    "sha256_candidato": "26111038e0ad49173d7d73f1949e0aca65a61da05100e2c2cff85b41e5c7a799",
+    "sha256_HTML_primario": "7c0e050f99d8ae751d6817bcbb78c44bc2dd53336e198127122b74696d31c15f",
+    "sha256_API": "f56be7e826d87ec3ac490b057bfdf5d5e6da00a0e986928a3c8f5657ed492ded",
+    "fonte_HTML": "https://normas.leg.br/api/binario/1521012d-b275-4594-9466-c03980cc61c5/texto",
+    "font_face_declarados_sem_provar_uso": [],
+    "regras_perigosas_sem_match_normativo": [],
+    "seletores_nao_resolvidos": [],
+    "regras_condicionais_com_match": [],
+    "pseudo_elementos_com_match": [],
+    "inline_interessantes": [],
+    "eventos_texto_efetivo_DOM": [],
+    "stylesheets_externas_nao_consultadas": []
+  },
+  "motores": {
+    "tinycss2": "1.5.1",
+    "cssselect2": "0.10.1",
+    "html5lib": "1.1"
+  },
+  "limites": "Mesma análise estática congelada dos 1347, sem alterar aquele relatório. Normas original completo, incluindo fórmulas e tabelas; não usa o candidato recuperado para inferir como era a fonte. Não comprova glifos por Unicode, render visual ou CSS/fontes externas. Sem promoção/máscara."
+}

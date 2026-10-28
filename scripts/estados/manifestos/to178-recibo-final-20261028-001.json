@@ -1,0 +1,80 @@
+{
+  "preparado_em": "2026-10-28T09:51:25.784114-03:00",
+  "total": 178,
+  "leis_ordinarias": 178,
+  "leis_complementares": 0,
+  "retidos": 324,
+  "manifesto": "scripts/estados/manifestos/to178-proposta-privada-20261028-001.json",
+  "sha256_manifesto": "8e4f2f56aa5f78074b4b1ab6f1c9c1508c0afa9873ddded27fafdaf4697a8ad1",
+  "mapa_replay": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/final/hashes.json",
+  "sha256_mapa_replay": "0f9ebeb3704992443bf1935629110f37a6871b98cc87ac013356bff835ae4676",
+  "replay": {
+    "total": 178,
+    "aprovados": 178,
+    "falhas": 0,
+    "rede": false,
+    "promovidos": 0
+  },
+  "portabilidade": {
+    "replay": {
+      "total": 178,
+      "aprovados": 178,
+      "falhas": 0,
+      "rede": false,
+      "promovidos": 0
+    },
+    "testes": 35,
+    "falhas": 0,
+    "erros": 0,
+    "bloqueios_fora_exportacao": [],
+    "exportacao_somente_mapa": true,
+    "QA_externo": "scripts/bin/qa-20261027/python",
+    "Python": "-I -B"
+  },
+  "dry_run": {
+    "finalizado_em": "2026-10-28T09:42:29.091138-03:00",
+    "modo": "dry-run",
+    "aptos": 178,
+    "promovidos": 0,
+    "HEAD": "9b8e7e0a0bfe3138c3ca88a3a4724afe54ac9443"
+  },
+  "diff_check": {
+    "arquivos": 189,
+    "diagnosticos": []
+  },
+  "sem_Git_escrita": true,
+  "nenhum_apply_executado": true,
+  "metas_inalteradas": true,
+  "esquema": "versao_texto obrigatória; baixado_em somente YYYY-MM-DD da captura UTC-03; timestamp integral no recibo; ordem README; situação e revogada null.",
+  "diagnostico_sem_ano": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/final/coincidencias-numero-sem-ano.json",
+  "inspecao_visual": "estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/inspecao/recibo-visual.json",
+  "versoes": {
+    "pdfplumber": "0.11.9",
+    "pdfminer.six": "20251230",
+    "pypdf": "6.10.0",
+    "markdown-it-py": "4.0.0",
+    "mdurl": "0.1.2",
+    "lxml": "6.1.1"
+  },
+  "Python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "pdftotext": "pdftotext version 26.10.0\nCopyright 2005-2026 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC",
+  "codigo": {
+    "scripts/estados/snapshots/to_pdf_simples_20261028_002/pdf_texto_fiel.py": "8a7488a99a1b8b3661093f67263df586f9502ccf9758ca7c4c0a1184a602ed7a",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_002/test_visibilidade_pdf_to.py": "34d4a6b403415be2efd562740db9d340a025accca8049d539a038fc7ee79e4fa",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_002/requirements.txt": "a023a8907435e7d31a06d035348932008e192af2a3fd3a73cf5cb165ea3ed6e5",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_002/REPLAY.txt": "689fec7e903e3170281e2994e8312fd6d4a4d69d785c3e6e102b7ed119a12d9c",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_002/visibilidade_pdf_to.py": "87a36b4d0c9e40a713c41c9fada9efd5ffad2077295abc22073f9452e23c78d0",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_002/test_to_pdf_simples.py": "4a2d5177b5f1216e51154c0538cb82d5535a2be6b5eb77eafcec831e88028376",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_002/test_metadados_to_pdf.py": "da3938c4258d1547ce759ae7cb1caf2657d5bf185bdc1e2ef036731a6f756754",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_002/auditar_to_pdf_simples.py": "121905c45d3b5e330822c256662b238073804ef6e31c413c74f88b993a6b7729",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_002/metadados_to_pdf.py": "a66f4e4149ce6d9016cfc4318347ec41b04d5f654c7c95b185753b6d02c8927a",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_002/coletar_to_portal_indice.py": "15263ad6ec643232b7eaca59c86b42fbb591cf93ca66f9244d85549d90b346bf",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_002/reexecutar_to_pdf.py": "f96437614fc16523c2baa31cbd2d4a7ad669cb804820443520f84e49a239f3fb",
+    "scripts/estados/snapshots/to_promocao_20261028_001/promover_to_pdf_privado.py": "da46be194e42693cf905b797f8d412619152045e61732ec92ee87f8595e82371",
+    "scripts/estados/snapshots/to_promocao_20261028_001/test_promover_to_pdf_privado.py": "b1e7c055085fad2e9588b58faddc7150f3b3c9b1d7477942820893b724c99e8f"
+  },
+  "comandos": {
+    "replay": "PYTHONPATH=\"$PWD/scripts/bin/qa-20261027/python:$PWD/scripts/estados/snapshots/to_promocao_20261028_001\" python3 -B scripts/estados/snapshots/to_pdf_simples_20261028_002/reexecutar_to_pdf.py --manifesto scripts/estados/manifestos/to178-proposta-privada-20261028-001.json --hashes estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/final/hashes.json --recibo RECIBO_NOVO.json",
+    "dry_run": "PYTHONPATH=\"$PWD/scripts/bin/qa-20261027/python:$PWD/scripts/estados/snapshots/to_pdf_simples_20261028_002\" python3 -B scripts/estados/snapshots/to_promocao_20261028_001/promover_to_pdf_privado.py --manifesto scripts/estados/manifestos/to178-proposta-privada-20261028-001.json --hashes estaduais/TO/_fonte/auditorias/to178-privado-20261028-001/final/hashes.json --total-esperado 178 --controle CONTROLE_PRIVADO_NOVO"
+  }
+}

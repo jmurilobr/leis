@@ -1,0 +1,133 @@
+{
+  "total": 21,
+  "arquivos": [
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_html_20261027_004/auditar_legis_ac.py",
+      "sha256_original": "489d39fedbefc511411893aa20a72c8f04d5152cef8fe9d7f25bb3203cf6934b",
+      "gzip": "estaduais/AC/_fonte/auditorias/ac458-metadados-privado-20261027-002/codigo-anterior-gzip/489d39fedbefc511411893aa20a72c8f04d5152cef8fe9d7f25bb3203cf6934b.py.gz",
+      "sha256_gzip": "4df746503684c4d4a3d00f18ad170787233b23f34374ae40a1d19cb5c38b9d58"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_html_20261027_004/auditar_spl_html_recente.py",
+      "sha256_original": "274840b3ab948a1c55e2db79fd7edf51a8865d0fa936a361e5d2af85fd395a14",
+      "gzip": "estaduais/AC/_fonte/auditorias/ac458-metadados-privado-20261027-002/codigo-anterior-gzip/274840b3ab948a1c55e2db79fd7edf51a8865d0fa936a361e5d2af85fd395a14.py.gz",
+      "sha256_gzip": "f39e0b635702b050bbf8c98fe67be21c4733d6fec6f2a97268133a9a679efcc1"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_html_20261027_004/avisos_fonte.py",
+      "sha256_original": "913429d61b37e338f9b292b54e0f9d81e9f9adae0e8d386f5b22ea8f128479cd",
+      "gzip": "estaduais/AC/_fonte/auditorias/ac458-metadados-privado-20261027-002/codigo-anterior-gzip/913429d61b37e338f9b292b54e0f9d81e9f9adae0e8d386f5b22ea8f128479cd.py.gz",
+      "sha256_gzip": "04999dd2da12e4306e745b407c7c0c14d8ba6a7c50a5c5a12e318a3143aadb3d"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_html_20261027_004/comum.py",
+      "sha256_original": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24",
+      "gzip": "estaduais/AC/_fonte/auditorias/ac458-metadados-privado-20261027-002/codigo-anterior-gzip/9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24.py.gz",
+      "sha256_gzip": "40439e97f6294f4ec753694ad39b015bb8ff2ac66fc0d4d544e36ad2077c7549"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_html_20261027_004/css_contexto_campo.py",
+      "sha256_original": "8787dd3702c159ea31d2703d3c84ea709348742a5f84b08b6916faefed01a626",
+      "gzip": "estaduais/AC/_fonte/auditorias/ac458-metadados-privado-20261027-002/codigo-anterior-gzip/8787dd3702c159ea31d2703d3c84ea709348742a5f84b08b6916faefed01a626.py.gz",
+      "sha256_gzip": "4b121d163cf9e16771d16f01da98feb7f9b69a8326bdf27d739d752591987f0e"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_html_20261027_004/html2md.py",
+      "sha256_original": "6ad648a6a94c8d51d880a2d79c39f1abe751032d3355e468363e43ca83fdcdc6",
+      "gzip": "estaduais/AC/_fonte/auditorias/ac458-metadados-privado-20261027-002/codigo-anterior-gzip/6ad648a6a94c8d51d880a2d79c39f1abe751032d3355e468363e43ca83fdcdc6.py.gz",
+      "sha256_gzip": "21a36fa947efe32ba3f4bea58a20fdd01bc32976089651eaee5859d081d8d23d"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_html_20261027_004/identidade_legis_ac.py",
+      "sha256_original": "66ccb2c148dbfa769aeda1c59a2f2212aa783b76ab24fd80d1f7194808842a64",
+      "gzip": "estaduais/AC/_fonte/auditorias/ac458-metadados-privado-20261027-002/codigo-anterior-gzip/66ccb2c148dbfa769aeda1c59a2f2212aa783b76ab24fd80d1f7194808842a64.py.gz",
+      "sha256_gzip": "f66ea78cd580e680219a52e02077f5ddbb69324c13707c5f82641ebd700ae5a2"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_html_20261027_004/integridade_texto.py",
+      "sha256_original": "d882d0ca69b76c61b594561598634994ca25b350f67054eb08e8eecf97170a82",
+      "gzip": "estaduais/AC/_fonte/auditorias/ac458-metadados-privado-20261027-002/codigo-anterior-gzip/d882d0ca69b76c61b594561598634994ca25b350f67054eb08e8eecf97170a82.py.gz",
+      "sha256_gzip": "883500867dd146721c48342285b2aff01a270c3b98405188cf4b2beeafb970f6"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_html_20261027_004/pe_fidelidade_visivel.py",
+      "sha256_original": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+      "gzip": "estaduais/AC/_fonte/auditorias/ac458-metadados-privado-20261027-002/codigo-anterior-gzip/8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838.py.gz",
+      "sha256_gzip": "e3613d7630486078c9fa12a663b4eb9b960a7641cf2c7b810e09adc2f8e5d2d2"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_html_20261027_004/reexecutar_legis_ac.py",
+      "sha256_original": "aa71e13012b05ded45fa8fa0727486408133d82cf247ec6978be276d4b92da71",
+      "gzip": "estaduais/AC/_fonte/auditorias/ac458-metadados-privado-20261027-002/codigo-anterior-gzip/aa71e13012b05ded45fa8fa0727486408133d82cf247ec6978be276d4b92da71.py.gz",
+      "sha256_gzip": "7f354c5492220099357d1d890ead489aeaabc972df0c29b5252c34868cab2a2b"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_html_20261027_004/representacao_html_ac_legis.py",
+      "sha256_original": "ef2a7a64265d2a54f7eb50e870a1ba214aa9896b54169857d5bf7e176a5b4e73",
+      "gzip": "estaduais/AC/_fonte/auditorias/ac458-metadados-privado-20261027-002/codigo-anterior-gzip/ef2a7a64265d2a54f7eb50e870a1ba214aa9896b54169857d5bf7e176a5b4e73.py.gz",
+      "sha256_gzip": "a39011359f20783a79e9c0e78b89f03f146c74fb2909c5c27706f051a31a0e88"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_html_20261027_004/representacao_html_dou.py",
+      "sha256_original": "1ae5cecda55ddd32ab00fdb2598d50b7cd5aeadaad0e0e73d720e4727bf1732d",
+      "gzip": "estaduais/AC/_fonte/auditorias/ac458-metadados-privado-20261027-002/codigo-anterior-gzip/1ae5cecda55ddd32ab00fdb2598d50b7cd5aeadaad0e0e73d720e4727bf1732d.py.gz",
+      "sha256_gzip": "1b18bc129eaf8fd936034ce0a6673a2e4d8f8f80f2149c3ccd62b7a7ff8f5131"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_html_20261027_004/tabelas_estrutura.py",
+      "sha256_original": "d0dde502c2794626bb9848673f23b2992d1722653c15bbf3768737408f9b6df7",
+      "gzip": "estaduais/AC/_fonte/auditorias/ac458-metadados-privado-20261027-002/codigo-anterior-gzip/d0dde502c2794626bb9848673f23b2992d1722653c15bbf3768737408f9b6df7.py.gz",
+      "sha256_gzip": "5d6502884a5f857152913ef52fb3b5b9d650c7cd2fd8078b5db2165cd613f1b5"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_html_20261027_004/test_auditar_legis_ac.py",
+      "sha256_original": "542c6f2fc0af2a319c44e305f62136a8b22ca3f5fd3ed58f17a869812a7fe36c",
+      "gzip": "estaduais/AC/_fonte/auditorias/ac458-metadados-privado-20261027-002/codigo-anterior-gzip/542c6f2fc0af2a319c44e305f62136a8b22ca3f5fd3ed58f17a869812a7fe36c.py.gz",
+      "sha256_gzip": "991628fddea1828882f8cc2f093a7e01a11a299280d6aea212c0d70c9deb2873"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_html_20261027_004/test_css_contexto_campo.py",
+      "sha256_original": "dbdfa5a95f13d1a424ddaa92a3085b5b2ddf6cf6efa3528ef766a6837ca65739",
+      "gzip": "estaduais/AC/_fonte/auditorias/ac458-metadados-privado-20261027-002/codigo-anterior-gzip/dbdfa5a95f13d1a424ddaa92a3085b5b2ddf6cf6efa3528ef766a6837ca65739.py.gz",
+      "sha256_gzip": "d4dc82225ef8f6994cb874ea1720064a7d2bca9718cf5aa94cf4e4712dfcf196"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_html_20261027_004/test_identidade_legis_ac.py",
+      "sha256_original": "e8201763e1749241b901e7917d017d9d14e93ad96613503495111055399290d2",
+      "gzip": "estaduais/AC/_fonte/auditorias/ac458-metadados-privado-20261027-002/codigo-anterior-gzip/e8201763e1749241b901e7917d017d9d14e93ad96613503495111055399290d2.py.gz",
+      "sha256_gzip": "aabb8c1247d2a8be7f4ed399a7cdac9503b47c9e000f08021737190c8d4d6fe5"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_html_20261027_004/test_reexecutar_legis_ac.py",
+      "sha256_original": "f15b90278ea78fcb58d2f46c5b1950bc27e54f4f3c4b5086621cc5d86977c974",
+      "gzip": "estaduais/AC/_fonte/auditorias/ac458-metadados-privado-20261027-002/codigo-anterior-gzip/f15b90278ea78fcb58d2f46c5b1950bc27e54f4f3c4b5086621cc5d86977c974.py.gz",
+      "sha256_gzip": "243a79d20d7bc32a5724de0104368e5de2ba2a6b9a54f86185729424347251bf"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_html_20261027_004/test_representacao_html_ac_legis.py",
+      "sha256_original": "8334f70c647192baa26b9d180dcb91e4cf49c0da6d3bc8713707fea073c427a5",
+      "gzip": "estaduais/AC/_fonte/auditorias/ac458-metadados-privado-20261027-002/codigo-anterior-gzip/8334f70c647192baa26b9d180dcb91e4cf49c0da6d3bc8713707fea073c427a5.py.gz",
+      "sha256_gzip": "0a94f40e5ad4ffc0d735c3e6c68259e928e6c579b57eae7203518cd3d955eb85"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_html_20261027_004/visuais_word_spl.py",
+      "sha256_original": "e218e4fd98f96f45eba496e9ecac54a6c4863ecdd2f798363c2cd616ef126d28",
+      "gzip": "estaduais/AC/_fonte/auditorias/ac458-metadados-privado-20261027-002/codigo-anterior-gzip/e218e4fd98f96f45eba496e9ecac54a6c4863ecdd2f798363c2cd616ef126d28.py.gz",
+      "sha256_gzip": "485f436da400455d600daaf16497fef8f5d4cc9c36697a8fae8b878cc019534c"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_promocao_20261027_004/promover_legis_ac_privado.py",
+      "sha256_original": "2ca9e686808483b3e996d610b24d3748e5c82f8b884368987061ee081a665362",
+      "gzip": "estaduais/AC/_fonte/auditorias/ac458-metadados-privado-20261027-002/codigo-anterior-gzip/2ca9e686808483b3e996d610b24d3748e5c82f8b884368987061ee081a665362.py.gz",
+      "sha256_gzip": "b07b09078654f77bac556672a8f7859280d7a40a4c430351495c468d0ca93d40"
+    },
+    {
+      "caminho_original": "scripts/estados/snapshots/ac_legis_promocao_20261027_004/test_promover_legis_ac_privado.py",
+      "sha256_original": "435abe01864ab8561ee0510a55a36238303bb83d41e724942c063594e95c8fec",
+      "gzip": "estaduais/AC/_fonte/auditorias/ac458-metadados-privado-20261027-002/codigo-anterior-gzip/435abe01864ab8561ee0510a55a36238303bb83d41e724942c063594e95c8fec.py.gz",
+      "sha256_gzip": "7038d9d2ec7e10740c2dd31439503539a9b9158f7b63ccf1e374048216e647a4"
+    }
+  ],
+  "originais_intactos": true,
+  "instrucao": "Reconstruir apenas em diretório privado separado; nunca necessário ao replay ativo."
+}

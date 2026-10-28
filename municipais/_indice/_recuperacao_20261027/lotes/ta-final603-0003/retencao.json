@@ -1,0 +1,64 @@
+{
+  "candidatos": 1000,
+  "aprovados": 603,
+  "retidos": 397,
+  "jurisdicao": [
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1973/leis-ordinarias-536-1973-sapl-1570.md",
+      "sha256": "bd01df6d73f9bc5febfbc980577562a96de0f194b5ea8034dc1121f6951f40e9",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6110-2025-sapl-5431.md",
+      "sha256": "56d2b6b571f89369fec0901d64ffb5648df5e32df970265e3d89b3260b24a655",
+      "esfera_federacao_api": "M",
+      "alertas": [
+        {
+          "municipio_declarado": "Barra Mansa",
+          "municipio_no_cabecalho_normalizado": "barra",
+          "offset": 1025,
+          "trecho": "gadas as disposições em contrário, esta Lei entrará em vigor na data de sua publicação.\n\n\nPREFEITURA MUNICIPAL DE BARRA MANSА, 16 DE OUTUBRO DE 2025.\n\n\nLUIZ ANTÔNIO FURLANI FILHO  \nPREFEITO\n\n"
+        }
+      ]
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6108-2025-sapl-5437.md",
+      "sha256": "b88d1bbac93743cf3dd8c62e19e9507744a440baaac56be6fc1316e678639a8f",
+      "esfera_federacao_api": "M",
+      "alertas": [
+        {
+          "municipio_declarado": "Barra Mansa",
+          "municipio_no_cabecalho_normalizado": "barra",
+          "offset": 1054,
+          "trecho": "vogadas as disposições em contrário, esta Lei entra em vigor na data de sua publicação.\n\n\nPREFEITURA MUNICIPAL DE BARRA MANSА, 29 DE SETEMBRO DE 2025.\n\n\nLUIZ ANTONIO FURLANI FILHO  \nPREFEITO\n\n"
+        }
+      ]
+    }
+  ],
+  "replay_retidos": [
+    "municipais/PB/bananeiras/leis-ordinarias/2024/leis-ordinarias-1080-2024-sapl-1727.md",
+    "municipais/PB/bananeiras/leis-ordinarias/2024/leis-ordinarias-1079-2024-sapl-1726.md",
+    "municipais/PB/bananeiras/leis-ordinarias/2024/leis-ordinarias-1077-2024-sapl-1724.md",
+    "municipais/PB/bananeiras/leis-ordinarias/2024/leis-ordinarias-1070-2024-sapl-1712.md",
+    "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1063-2023-sapl-1696.md",
+    "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1062-2023-sapl-1695.md",
+    "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-118-1990-sapl-119.md",
+    "municipais/MG/bicas/leis-ordinarias/1971/leis-ordinarias-482-1971-sapl-1786.md",
+    "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1041-2023-sapl-1649.md",
+    "municipais/CE/amontada/leis-ordinarias/1989/leis-ordinarias-79-1989-sapl-80.md",
+    "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1000-2023-sapl-1272.md",
+    "municipais/BA/banzae/leis-ordinarias/1990/leis-ordinarias-8-1990-sapl-7.md",
+    "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-995-2023-sapl-855.md",
+    "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-994-2023-sapl-849.md",
+    "municipais/PB/bananeiras/leis-ordinarias/2022/leis-ordinarias-989-2022-sapl-1759.md",
+    "municipais/PB/bananeiras/leis-ordinarias/2022/leis-ordinarias-982-2022-sapl-769.md",
+    "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-380-1967-sapl-1867.md"
+  ],
+  "criterio": "Retidos não integram a lista de normas. Controles conservam os motivos e identidades; não promovidos por contagem ou por comparação da mesma conversão."
+}

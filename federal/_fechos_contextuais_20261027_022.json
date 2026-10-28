@@ -1,0 +1,2606 @@
+{
+  "data": "2026-10-27",
+  "escopo": "Revisão contextual dos 18 últimos fechos divergentes e 30 fechos de grafia não reconhecida nos 1.791 aceitos preliminares do lote 021. Não altera canônicos nem entregas congeladas.",
+  "resumo": {
+    "fecho_de_anexo_ou_citacao_nao_concorre_com_principal": 3,
+    "candidato_privado_com_nota_literal_sem_emenda": 44,
+    "retido_revisao": 1
+  },
+  "registros": [
+    {
+      "path": "federal/decretos/1943/dec-12500-1943-06-01.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-06-01;12500",
+      "numero": "12500",
+      "data_epigrafe_indice_metadados": "1943-06-01",
+      "epigrafe": {
+        "numero": "12500",
+        "data": "1943-06-01",
+        "epigrafe": "DECRETO Nº 12.500, DE 1 de JUNHO de 1943."
+      },
+      "sha256_preimagem": "7f8cf020fde135aa15b4a584d19e13f6b0dbfb5d3328b620fa02061231f78e61",
+      "sha256_fonte_html": "a0b58d59e048b76bfae86d4c5c2d7978ce36c3e5bbfac069c0ee192251658f4b",
+      "sha256_metadados": "5642eaf809d203c8b7282f2c7b39e67aba82082d2be3651f030e04b6fce5bc19",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-06-01;12500",
+      "url_texto": "https://normas.leg.br/api/binario/e68e42cb-40af-4e64-a87e-e67cb4505276/texto",
+      "triagem": {
+        "lote": 21,
+        "path": "federal/decretos/1943/dec-12500-1943-06-01.md",
+        "urn": "urn:lex:br:federal:decreto:1943-06-01;12500",
+        "sha256_md": "7f8cf020fde135aa15b4a584d19e13f6b0dbfb5d3328b620fa02061231f78e61",
+        "sha256_fonte_html": "a0b58d59e048b76bfae86d4c5c2d7978ce36c3e5bbfac069c0ee192251658f4b",
+        "epigrafe": {
+          "numero": "12500",
+          "data": "1943-06-01",
+          "epigrafe": "DECRETO Nº 12.500, DE 1 de JUNHO de 1943."
+        },
+        "fechos": [
+          {
+            "data": "1943-06-01",
+            "literal": "Rio de Janeiro, 1 de junho de 1943",
+            "contexto": "O presente decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário. Rio de Janeiro, 1 de junho de 1943; 122º da Independência e 55º da República. Getulio Vargas Gustavo Capanema A. de Sousa Costa Cláusulas aprovadas pelo decreto n. 12.500, de 1 de junho de 1943, do têrmo aditivo a ser assinado pelo Go"
+          },
+          {
+            "data": "1943-06-01",
+            "literal": "Rio de Janeiro, 1 de junho de 1943",
+            "contexto": "es, com as modificações por que têm passado e não sejam contrariadas pelas disposições deste termo. Rio de Janeiro, 1 de junho de 1943. Gustavo Capanema A. de Souza Costa Rio de Janeiro, 25 de outubro de 1943. GUSTAVO CAPANEMA"
+          },
+          {
+            "data": "1943-10-25",
+            "literal": "Rio de Janeiro, 25 de outubro de 1943",
+            "contexto": "las disposições deste termo. Rio de Janeiro, 1 de junho de 1943. Gustavo Capanema A. de Souza Costa Rio de Janeiro, 25 de outubro de 1943. GUSTAVO CAPANEMA"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-06-01;12500",
+          "id": "423384",
+          "data": "1943-06-01",
+          "indice": {
+            "id": "423384",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "12500",
+            "norma": "DEC-12500-1943-06-01",
+            "normaNome": "Decreto nº 12.500 de 01/06/1943",
+            "ementa": "APROVA AS CLÁUSULAS DE UM NOVO TERMO ADITIVO AOS CONTRATOS DE THE RIO DE JANEIRO CITY IMPROVEMENTS COMPANY, LIMITED, PARA REVISÃO DA TAXA DE ESGOTO PAGA A MESMA COMPANHIA PELO GOVERNO FEDERAL.",
+            "dataassinatura": "01/06/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-12500-1943-06-01"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "fecho_de_anexo_ou_citacao_nao_concorre_com_principal",
+      "conclusao": "O decreto tem fecho próprio de 1 de junho de 1943, concordante. Após as cláusulas há assinaturas ministeriais de 1 de junho e outro fecho ministerial de 25 de outubro; os dois permanecem literalmente na fonte, sem atribuir causa ao fecho posterior ou tratá-lo como data do decreto."
+    },
+    {
+      "path": "federal/decretos/1943/dec-12429-1943-05-18.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-05-18;12429",
+      "numero": "12429",
+      "data_epigrafe_indice_metadados": "1943-05-18",
+      "epigrafe": {
+        "numero": "12429",
+        "data": "1943-05-18",
+        "epigrafe": "DECRETO nº 12.429, DE 18 de maio de 1943."
+      },
+      "sha256_preimagem": "8dc417782383405724fe94f595d8eca66f5f917aa6f5c9253c7687592e17fb84",
+      "sha256_fonte_html": "16b3d59ef81652ef186e4d7a6f5d76e60ce8b51ea421ec4b51a939dbc42661d9",
+      "sha256_metadados": "82158057cc1511389aa037c4f4285f8f1a4d4649ac2e26e12610b8e6a874f082",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-05-18;12429",
+      "url_texto": "https://normas.leg.br/api/binario/fd666e86-950b-4846-9b9f-efd2acb181a1/texto",
+      "triagem": {
+        "lote": 21,
+        "path": "federal/decretos/1943/dec-12429-1943-05-18.md",
+        "urn": "urn:lex:br:federal:decreto:1943-05-18;12429",
+        "sha256_md": "8dc417782383405724fe94f595d8eca66f5f917aa6f5c9253c7687592e17fb84",
+        "sha256_fonte_html": "16b3d59ef81652ef186e4d7a6f5d76e60ce8b51ea421ec4b51a939dbc42661d9",
+        "epigrafe": {
+          "numero": "12429",
+          "data": "1943-05-18",
+          "epigrafe": "DECRETO nº 12.429, DE 18 de maio de 1943."
+        },
+        "fechos": [
+          {
+            "data": "1943-05-19",
+            "literal": "Rio de Janeiro, 19 de maio de 1943",
+            "contexto": "mil seiscentos e oitenta cruzeiros (Cr$ 3.680,00). Art. 7.º Revogam-se as disposições em contrário. Rio de Janeiro, 19 de maio de 1943, 122.º da Independência e 55.º da República. Getulio Vargas. Apolonio Salles."
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-05-18;12429",
+          "id": "423246",
+          "data": "1943-05-18",
+          "indice": {
+            "id": "423246",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "12429",
+            "norma": "DEC-12429-1943-05-18",
+            "normaNome": "Decreto nº 12.429 de 18/05/1943",
+            "ementa": "CRIA UMA FUNÇÃO DE QUIMICO, REFERENCIA XVII, NA TABELA NUMERICA DO PESSOAL EXTRANUMERARIO MENSALISTA DA INSPETORIA GERAL DE ILUMINAÇÃO E DA OUTRAS PROVIDENCIAS.",
+            "dataassinatura": "18/05/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-12429-1943-05-18"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-12429-1943-05-18.md",
+      "sha256_candidato": "747ebab8702a2cf184c0ff5ef42be743012e492720827bd3d4dd321375ccb9b7",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 12429, de 1943-05-18. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 19 de maio de 1943\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/fd666e86-950b-4846-9b9f-efd2acb181a1/texto; SHA-256 do HTML: 16b3d59ef81652ef186e4d7a6f5d76e60ce8b51ea421ec4b51a939dbc42661d9.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-12325-1943-05-04.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-05-04;12325",
+      "numero": "12325",
+      "data_epigrafe_indice_metadados": "1943-05-04",
+      "epigrafe": {
+        "numero": "12325",
+        "data": "1943-05-04",
+        "epigrafe": "decreto nº 12.325, de 4 de maio de 1943."
+      },
+      "sha256_preimagem": "edbd8d8b046c5e24d187cd2f996e6d812a9be6461beb43c3c21b31cb07be52c1",
+      "sha256_fonte_html": "189e9388c72ff6cc9274229c750d364bd9f15aff12e1e27377818a324fcb6fb2",
+      "sha256_metadados": "61513df820e66b44ffbe091e4477f854303218dc424656d2475c913e1e002ce1",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-05-04;12325",
+      "url_texto": "https://normas.leg.br/api/binario/6f004769-4ee1-4add-ac6a-63ac350d6d8a/texto",
+      "triagem": {
+        "lote": 21,
+        "path": "federal/decretos/1943/dec-12325-1943-05-04.md",
+        "urn": "urn:lex:br:federal:decreto:1943-05-04;12325",
+        "sha256_md": "edbd8d8b046c5e24d187cd2f996e6d812a9be6461beb43c3c21b31cb07be52c1",
+        "sha256_fonte_html": "189e9388c72ff6cc9274229c750d364bd9f15aff12e1e27377818a324fcb6fb2",
+        "epigrafe": {
+          "numero": "12325",
+          "data": "1943-05-04",
+          "epigrafe": "decreto nº 12.325, de 4 de maio de 1943."
+        },
+        "fechos": [
+          {
+            "data": "1943-04-04",
+            "literal": "Rio de Janeiro, 4 de abril de 1943",
+            "contexto": "cia, do vigente orçamento do Ministério da Guerra. Art. 3.º Revogam-se as disposições em contrário. Rio de Janeiro, 4 de abril de 1943, 122.º da Independência e 55.º da República. getulio vargas. Eurico G. Dutra. MINISTÉRIO DA GUERRA Diretoria de Saude do Exército DEPÓSITO CENTRAL DE MATERIAL SANITÁRIO TABELA NUMÉRICA Número Função "
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-05-04;12325",
+          "id": "423040",
+          "data": "1943-05-04",
+          "indice": {
+            "id": "423040",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "12325",
+            "norma": "DEC-12325-1943-05-04",
+            "normaNome": "Decreto nº 12.325 de 04/05/1943",
+            "ementa": "APROVA TABELA NUMÉRICA PARA O PESSOAL EXTRANUMERÁRIO MENSALISTA DO DEPÓSITO CENTRAL DE MATERIAL SANITÁRIO DO EXÉRCITO.",
+            "dataassinatura": "04/05/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-12325-1943-05-04"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-12325-1943-05-04.md",
+      "sha256_candidato": "7c27afa99d7254b9d19daf923f517107aaebc9da24ad913f213bce5738e142e2",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 12325, de 1943-05-04. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 4 de abril de 1943\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/6f004769-4ee1-4add-ac6a-63ac350d6d8a/texto; SHA-256 do HTML: 189e9388c72ff6cc9274229c750d364bd9f15aff12e1e27377818a324fcb6fb2.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-12284-1943-04-22.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-04-22;12284",
+      "numero": "12284",
+      "data_epigrafe_indice_metadados": "1943-04-22",
+      "epigrafe": {
+        "numero": "12284",
+        "data": "1943-04-22",
+        "epigrafe": "decreto nº 12.284, de 22 de abril de 1943."
+      },
+      "sha256_preimagem": "467ad8dae1040809fc53497311f47e5715b40adf119b4bb8ba71e0fa169d6bfa",
+      "sha256_fonte_html": "71e225aa6db5bfda20e5ab943d99bda2cdf4b8111f6b481de8c8e11814fdc1d9",
+      "sha256_metadados": "3dbb75aec092eeb3ffbf088ded9c7b6759e0a95f60c6d75988793447d64896fd",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-04-22;12284",
+      "url_texto": "https://normas.leg.br/api/binario/11c91db7-85f1-4ead-8124-f03c4f4c2b60/texto",
+      "triagem": {
+        "lote": 21,
+        "path": "federal/decretos/1943/dec-12284-1943-04-22.md",
+        "urn": "urn:lex:br:federal:decreto:1943-04-22;12284",
+        "sha256_md": "467ad8dae1040809fc53497311f47e5715b40adf119b4bb8ba71e0fa169d6bfa",
+        "sha256_fonte_html": "71e225aa6db5bfda20e5ab943d99bda2cdf4b8111f6b481de8c8e11814fdc1d9",
+        "epigrafe": {
+          "numero": "12284",
+          "data": "1943-04-22",
+          "epigrafe": "decreto nº 12.284, de 22 de abril de 1943."
+        },
+        "fechos": [
+          {
+            "data": "1943-04-14",
+            "literal": "Rio de Janeiro, 14 de abril de 1943",
+            "contexto": " da Produção Mineral do Ministério da Agricultura. Art. 4.º Revogam-se as disposições em contrário. Rio de Janeiro, 14 de abril de 1943, 122.º da Independência e 55.º da República. getulio vargas Apolonio Salles"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-04-22;12284",
+          "id": "422958",
+          "data": "1943-04-22",
+          "indice": {
+            "id": "422958",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "12284",
+            "norma": "DEC-12284-1943-04-22",
+            "normaNome": "Decreto nº 12.284 de 22/04/1943",
+            "ementa": "AUTORIZA O CIDADÃO BRASILEIRO MANOEL DA SILVEIRA DANTAS A PESQUISAR SCHEELITA NO MUNICÍPIO DE SANTA LUZIA, DO ESTADO DA PARAÍBA.",
+            "dataassinatura": "22/04/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-12284-1943-04-22"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-12284-1943-04-22.md",
+      "sha256_candidato": "87a19cbd7dffcb960c04d0d1ff1a4370c894f2bb4d221037bd4fa5f3ce5e627e",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 12284, de 1943-04-22. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 14 de abril de 1943\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/11c91db7-85f1-4ead-8124-f03c4f4c2b60/texto; SHA-256 do HTML: 71e225aa6db5bfda20e5ab943d99bda2cdf4b8111f6b481de8c8e11814fdc1d9.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-12259-1943-04-14.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-04-14;12259",
+      "numero": "12259",
+      "data_epigrafe_indice_metadados": "1943-04-14",
+      "epigrafe": {
+        "numero": "12259",
+        "data": "1943-04-14",
+        "epigrafe": "DECRETO Nº 12.259, DE 14 de abril de 1943."
+      },
+      "sha256_preimagem": "8fc6b00a6afbea2277eda4a21cce635f6b13191788f779dfad1bfe94acb9274f",
+      "sha256_fonte_html": "2233e7881dea7900084f06fd82cec753683282d3b2e2b632b011c1e7c80d05fd",
+      "sha256_metadados": "3a88a76d9450f2942a2bb474f0bb58e45d1d8fb7569d5bb97b00ab786a5e11f2",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-04-14;12259",
+      "url_texto": "https://normas.leg.br/api/binario/6aac1880-0645-4a0d-a764-b93f7e68144e/texto",
+      "triagem": {
+        "lote": 21,
+        "path": "federal/decretos/1943/dec-12259-1943-04-14.md",
+        "urn": "urn:lex:br:federal:decreto:1943-04-14;12259",
+        "sha256_md": "8fc6b00a6afbea2277eda4a21cce635f6b13191788f779dfad1bfe94acb9274f",
+        "sha256_fonte_html": "2233e7881dea7900084f06fd82cec753683282d3b2e2b632b011c1e7c80d05fd",
+        "epigrafe": {
+          "numero": "12259",
+          "data": "1943-04-14",
+          "epigrafe": "DECRETO Nº 12.259, DE 14 de abril de 1943."
+        },
+        "fechos": [
+          {
+            "data": "1943-04-12",
+            "literal": "Rio de Janeiro, 12 de abril de 1943",
+            "contexto": " da Produção Mineral do Ministério da Agricultura. Art. 4.º Revogam-se as disposições em contrário. Rio de Janeiro, 12 de abril de 1943, 122.º da Independência e 55.º da República. getúlio vargas Apolonio Salles"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-04-14;12259",
+          "id": "422908",
+          "data": "1943-04-14",
+          "indice": {
+            "id": "422908",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "12259",
+            "norma": "DEC-12259-1943-04-14",
+            "normaNome": "Decreto nº 12.259 de 14/04/1943",
+            "ementa": "AUTORIZA OS CIDADÃOS BRASILEIROS CESAR CANDIDO DE QUEIROZ E OSCAR CANDIDO DE QUEIROZ A PESQUISAREM CONCHAS CALCÁREAS EM GUARATIBA, DISTRITO FEDERAL.",
+            "dataassinatura": "14/04/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-12259-1943-04-14"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-12259-1943-04-14.md",
+      "sha256_candidato": "f3ab0346fae5894db05722236accea4c927872a922d247710c02aa1e602db085",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 12259, de 1943-04-14. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 12 de abril de 1943\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/6aac1880-0645-4a0d-a764-b93f7e68144e/texto; SHA-256 do HTML: 2233e7881dea7900084f06fd82cec753683282d3b2e2b632b011c1e7c80d05fd.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-12100-1943-03-25.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-03-25;12100",
+      "numero": "12100",
+      "data_epigrafe_indice_metadados": "1943-03-25",
+      "epigrafe": {
+        "numero": "12100",
+        "data": "1943-03-25",
+        "epigrafe": "decreto nº 12.100, de 25 de março de 1943."
+      },
+      "sha256_preimagem": "ef3ddf861b54d8a0e85f6dcc25ba7e4d66ff0dc8c7ba9e8f39d584aa37bf375e",
+      "sha256_fonte_html": "0065689ab41daac5f24846022347586602de79ec6d1c0cf95a85d4a2d4e20d07",
+      "sha256_metadados": "854e0dd7b9af46cdfc8ff657457b64c4d778120ca766cd8da687856ff40273da",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-03-25;12100",
+      "url_texto": "https://normas.leg.br/api/binario/44425273-8598-43a6-93df-e5929d7fb43d/texto",
+      "triagem": {
+        "lote": 21,
+        "path": "federal/decretos/1943/dec-12100-1943-03-25.md",
+        "urn": "urn:lex:br:federal:decreto:1943-03-25;12100",
+        "sha256_md": "ef3ddf861b54d8a0e85f6dcc25ba7e4d66ff0dc8c7ba9e8f39d584aa37bf375e",
+        "sha256_fonte_html": "0065689ab41daac5f24846022347586602de79ec6d1c0cf95a85d4a2d4e20d07",
+        "epigrafe": {
+          "numero": "12100",
+          "data": "1943-03-25",
+          "epigrafe": "decreto nº 12.100, de 25 de março de 1943."
+        },
+        "fechos": [
+          {
+            "data": "1943-03-25",
+            "literal": "Rio de Janeiro, 25 de março de 1943",
+            "contexto": "Estado da Educação e Saúde. Art. 2.º O presente decreto entrará em vigor na data de sua publicação. Rio de Janeiro, 25 de março de 1943, 12.º da Independência e 55.º da República. getulio vargas Gustavo Capanema Regimento Da Direção Nacional Da Juventude Brasileira capítulo i Disposições Gerais Art. 1.º A Direção Nacional da Juventud"
+          },
+          {
+            "data": "1943-03-22",
+            "literal": "Rio de Janeiro, 22 de março de 1943",
+            "contexto": "ões terão a duração máxima de duas horas, salvo requerimento de prorrogação aprovado pelo plenário. Rio de Janeiro, 22 de março de 1943. Gustavo Capenema"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-03-25;12100",
+          "id": "422593",
+          "data": "1943-03-25",
+          "indice": {
+            "id": "422593",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "12100",
+            "norma": "DEC-12100-1943-03-25",
+            "normaNome": "Decreto nº 12.100 de 25/03/1943",
+            "ementa": "APROVA O REGIMENTO DA DIREÇÃO NACIONAL DA JUVENTUDE BRASILEIRO.",
+            "dataassinatura": "25/03/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-12100-1943-03-25"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "fecho_de_anexo_ou_citacao_nao_concorre_com_principal",
+      "conclusao": "O fecho de 22 de março pertence ao Regimento da Direção Nacional da Juventude Brasileira, assinado pelo Ministro; o decreto tem fecho próprio de 25 de março de 1943."
+    },
+    {
+      "path": "federal/decretos/1943/dec-12072-1943-03-24.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-03-24;12072",
+      "numero": "12072",
+      "data_epigrafe_indice_metadados": "1943-03-24",
+      "epigrafe": {
+        "numero": "12072",
+        "data": "1943-03-24",
+        "epigrafe": "DECRETO Nº 12.072, DE 24 de março de 1943."
+      },
+      "sha256_preimagem": "c907ec68ea169ce32ac6a45e8eb9ad477c55c9bb1e17806abb91e81de9a7a7f2",
+      "sha256_fonte_html": "d251fa30a7388bc66b8c5e70dbaf5f11487f00cc063c54caeebb0029a622e189",
+      "sha256_metadados": "05013a3c00adf5c295e8873c137ad2f77984572c36f02334833f3eb469d58f01",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-03-24;12072",
+      "url_texto": "https://normas.leg.br/api/binario/07983639-faff-4756-ba63-6d3bb1e6105b/texto",
+      "triagem": {
+        "lote": 21,
+        "path": "federal/decretos/1943/dec-12072-1943-03-24.md",
+        "urn": "urn:lex:br:federal:decreto:1943-03-24;12072",
+        "sha256_md": "c907ec68ea169ce32ac6a45e8eb9ad477c55c9bb1e17806abb91e81de9a7a7f2",
+        "sha256_fonte_html": "d251fa30a7388bc66b8c5e70dbaf5f11487f00cc063c54caeebb0029a622e189",
+        "epigrafe": {
+          "numero": "12072",
+          "data": "1943-03-24",
+          "epigrafe": "DECRETO Nº 12.072, DE 24 de março de 1943."
+        },
+        "fechos": [
+          {
+            "data": "1943-03-25",
+            "literal": "Rio de Janeiro, 25 de março de 1943",
+            "contexto": " da Produção Mineral do Ministério da Agricultura. Art. 4.º Revogam-se as disposições em contrário. Rio de Janeiro, 25 de março de 1943, 122.º da Independência e 55.º da República. getulio vargas. Apolonio Salles."
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-03-24;12072",
+          "id": "422539",
+          "data": "1943-03-24",
+          "indice": {
+            "id": "422539",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "12072",
+            "norma": "DEC-12072-1943-03-24",
+            "normaNome": "Decreto nº 12.072 de 24/03/1943",
+            "ementa": "AUTORIZA O CIDADÃO BRASILEIRO FELICIO DO ESPÍRITO SANTO COSTA A PESQUISAR MICA E ASSOCIADOS NO MUNICÍPIO DE SANTA MARIA DO SUASSUÍ, DO ESTADO DE MINAS GERAIS.",
+            "dataassinatura": "24/03/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-12072-1943-03-24"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-12072-1943-03-24.md",
+      "sha256_candidato": "2fba1154ff28be2d9444d29b9f9be9ac0c631c0bd6daab54858fa4d60da98787",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 12072, de 1943-03-24. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 25 de março de 1943\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/07983639-faff-4756-ba63-6d3bb1e6105b/texto; SHA-256 do HTML: d251fa30a7388bc66b8c5e70dbaf5f11487f00cc063c54caeebb0029a622e189.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-12057-1943-03-23.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-03-23;12057",
+      "numero": "12057",
+      "data_epigrafe_indice_metadados": "1943-03-23",
+      "epigrafe": {
+        "numero": "12057",
+        "data": "1943-03-23",
+        "epigrafe": "DECRETO nº 12.057, DE 23 DE março de 1943."
+      },
+      "sha256_preimagem": "05a070e258b93f1917f88327298e1f650e33cc2595c4abea3fd006245ef338f8",
+      "sha256_fonte_html": "6ef7750bc0e9b0bfe9bfbf5bc9e8b96d556017f590442491c5233f375130ff6c",
+      "sha256_metadados": "83f5bd800abb56f6302560ffd44121220e156a52eae9ce2bd913836d675df14b",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-03-23;12057",
+      "url_texto": "https://normas.leg.br/api/binario/aeffc91a-9964-4faa-87f3-033a16c21605/texto",
+      "triagem": {
+        "lote": 21,
+        "path": "federal/decretos/1943/dec-12057-1943-03-23.md",
+        "urn": "urn:lex:br:federal:decreto:1943-03-23;12057",
+        "sha256_md": "05a070e258b93f1917f88327298e1f650e33cc2595c4abea3fd006245ef338f8",
+        "sha256_fonte_html": "6ef7750bc0e9b0bfe9bfbf5bc9e8b96d556017f590442491c5233f375130ff6c",
+        "epigrafe": {
+          "numero": "12057",
+          "data": "1943-03-23",
+          "epigrafe": "DECRETO nº 12.057, DE 23 DE março de 1943."
+        },
+        "fechos": [
+          {
+            "data": "1943-09-22",
+            "literal": "Rio de Janeiro, 22 de setembro de 1943",
+            "contexto": "e decreto entrará em vigor a partir da data de sua publicação, revodas as disposições em contrário. Rio de Janeiro, 22 de setembro de 1943, 122.º da Independência e 55.º da República. getulio vargas. Apolônio Sales.Conselho nacional de águas e energia elétrica SITUAÇÃO ATUAL SITUAÇÃO PROPOSTA Número de funções Séries funcionais Ref Tabe"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-03-23;12057",
+          "id": "422509",
+          "data": "1943-03-23",
+          "indice": {
+            "id": "422509",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "12057",
+            "norma": "DEC-12057-1943-03-23",
+            "normaNome": "Decreto nº 12.057 de 23/03/1943",
+            "ementa": "ALTERA TABELA NUMÉRICA DE EXTRANUMERÁRIOS MENSALISTAS E DÁ OUTRAS PROVIDÊNCIAS.",
+            "dataassinatura": "23/03/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-12057-1943-03-23"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "retido_revisao",
+      "motivo": "Edição temporal inconclusiva; consultar overlay contextual individual."
+    },
+    {
+      "path": "federal/decretos/1943/dec-12007-1943-03-19.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-03-19;12007",
+      "numero": "12007",
+      "data_epigrafe_indice_metadados": "1943-03-19",
+      "epigrafe": {
+        "numero": "12007",
+        "data": "1943-03-19",
+        "epigrafe": "DECRETO Nº 12.007, DE 19 DE março DE 1943."
+      },
+      "sha256_preimagem": "ba2c88c8ae0008459e3dc9a9c0dbcdae0445fe2d49b45d94d5babee57647eec8",
+      "sha256_fonte_html": "8943bcad23e9345805b9b137848b97818a5175c6500f1b75b538319626d5e338",
+      "sha256_metadados": "a52bc89921ed04fd05f51b26c635b6562b196240e7fda3d1746736dc38707774",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-03-19;12007",
+      "url_texto": "https://normas.leg.br/api/binario/dbc9c075-38d8-4c27-9821-398a477f18c9/texto",
+      "triagem": {
+        "lote": 21,
+        "path": "federal/decretos/1943/dec-12007-1943-03-19.md",
+        "urn": "urn:lex:br:federal:decreto:1943-03-19;12007",
+        "sha256_md": "ba2c88c8ae0008459e3dc9a9c0dbcdae0445fe2d49b45d94d5babee57647eec8",
+        "sha256_fonte_html": "8943bcad23e9345805b9b137848b97818a5175c6500f1b75b538319626d5e338",
+        "epigrafe": {
+          "numero": "12007",
+          "data": "1943-03-19",
+          "epigrafe": "DECRETO Nº 12.007, DE 19 DE março DE 1943."
+        },
+        "fechos": [
+          {
+            "data": "1948-03-19",
+            "literal": "Rio de Janeiro, 19 de março de 1948",
+            "contexto": " no município de Bicas, do Estado de Minas Gerais. Art. 2.º Revogam-se as disposições em contrário. Rio de Janeiro, 19 de março de 1948, 127.º da Independência e 60.º da República. getulio vargas. Apolônio Salles."
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-03-19;12007",
+          "id": "422426",
+          "data": "1943-03-19",
+          "indice": {
+            "id": "422426",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "12007",
+            "norma": "DEC-12007-1943-03-19",
+            "normaNome": "Decreto nº 12.007 de 19/03/1943",
+            "ementa": "DECLARA A CADUCIDADE DO DECRETO NÚMERO 7.919 DE 25 DE SETEMBRO DE 1941, QUE AUTORIZOU O CIDADÃO BRASILEIRO ANTONIO PARANHOS DA SILVA GONÇALVES A PESQUISAR MICA E ASSOCIADOS NO MUNICÍPIO DE BICAS, DO ESADO DE MINAS GERAIS.",
+            "dataassinatura": "19/03/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-12007-1943-03-19"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-12007-1943-03-19.md",
+      "sha256_candidato": "5083dbe5e554290f984763165567383e76667639aded9548c72c776f867e4a9c",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 12007, de 1943-03-19. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 19 de março de 1948\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/dbc9c075-38d8-4c27-9821-398a477f18c9/texto; SHA-256 do HTML: 8943bcad23e9345805b9b137848b97818a5175c6500f1b75b538319626d5e338.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-11580-1943-02-09.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-02-09;11580",
+      "numero": "11580",
+      "data_epigrafe_indice_metadados": "1943-02-09",
+      "epigrafe": {
+        "numero": "11580",
+        "data": "1943-02-09",
+        "epigrafe": "DECRETO N. 11.580 – DE 9 DE FEVEREIRO DE 1943"
+      },
+      "sha256_preimagem": "c6720ad19e21cfc11ffe68316a9d9393446787e3d602e627b90f156a2183732f",
+      "sha256_fonte_html": "00ece7f99081085836844aaf3b18599c090f41a24e24c6a18c70b2ccf4a62efb",
+      "sha256_metadados": "ff35e4fb95aacfd79e1bed2e7cbd0123345c2c87047c5bed3f323b0be96ba6e6",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-02-09;11580",
+      "url_texto": "https://normas.leg.br/api/binario/b237bd0d-c0c9-4ade-b674-d02e04b3bb51/texto",
+      "triagem": {
+        "lote": 21,
+        "path": "federal/decretos/1943/dec-11580-1943-02-09.md",
+        "urn": "urn:lex:br:federal:decreto:1943-02-09;11580",
+        "sha256_md": "c6720ad19e21cfc11ffe68316a9d9393446787e3d602e627b90f156a2183732f",
+        "sha256_fonte_html": "00ece7f99081085836844aaf3b18599c090f41a24e24c6a18c70b2ccf4a62efb",
+        "epigrafe": {
+          "numero": "11580",
+          "data": "1943-02-09",
+          "epigrafe": "DECRETO N. 11.580 – DE 9 DE FEVEREIRO DE 1943"
+        },
+        "fechos": [
+          {
+            "data": "1942-02-09",
+            "literal": "Rio de Janeiro, 9 de fevereiro de 1942",
+            "contexto": "o da Produção Mineral do Ministério da Agricultura. Art. 4º Revogam-se as disposições em contrário. Rio de Janeiro, 9 de fevereiro de 1942, 121º da Independência e 54º da República. Getulio Vargas. Apolonio Salles."
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-02-09;11580",
+          "id": "421593",
+          "data": "1943-02-09",
+          "indice": {
+            "id": "421593",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "11580",
+            "norma": "DEC-11580-1943-02-09",
+            "normaNome": "Decreto nº 11.580 de 09/02/1943",
+            "ementa": "AUTORIZA O CIDADÃO BRASILEIRO JOSÉ RIBEIRO DE ARAÚJO A PESQUISAR QUARTZO E ASSOCIADOS NO MUNICÍPIO DE DIAMANTINA, DO ESTADO DE MINAS GERAIS.",
+            "dataassinatura": "09/02/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-11580-1943-02-09"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-11580-1943-02-09.md",
+      "sha256_candidato": "c1fd0b075ae48eb2ed7686f3d3d4d64a31617244d8cd2e6763c04c563217d352",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 11580, de 1943-02-09. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 9 de fevereiro de 1942\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/b237bd0d-c0c9-4ade-b674-d02e04b3bb51/texto; SHA-256 do HTML: 00ece7f99081085836844aaf3b18599c090f41a24e24c6a18c70b2ccf4a62efb.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-11509-1943-02-03.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-02-03;11509",
+      "numero": "11509",
+      "data_epigrafe_indice_metadados": "1943-02-03",
+      "epigrafe": {
+        "numero": "11509",
+        "data": "1943-02-03",
+        "epigrafe": "DECRETO N. 11.509 – DE 3 DE FEVEREIRO DE 1943"
+      },
+      "sha256_preimagem": "92f414adc735dc8cb25accfa8a02f7c060857117da4a6e5e554ef13de37e9f08",
+      "sha256_fonte_html": "229ed947ab634878afabd259f2bd3b6058a050c80e45e9e57eda77c93c505e09",
+      "sha256_metadados": "5aadae0582367d3dcb2aa6181f48a2d63aa2f2838dea69f816f3d3a7d23d21a6",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-02-03;11509",
+      "url_texto": "https://normas.leg.br/api/binario/84ae2937-d3b8-4352-8480-0479769e9e23/texto",
+      "triagem": {
+        "lote": 21,
+        "path": "federal/decretos/1943/dec-11509-1943-02-03.md",
+        "urn": "urn:lex:br:federal:decreto:1943-02-03;11509",
+        "sha256_md": "92f414adc735dc8cb25accfa8a02f7c060857117da4a6e5e554ef13de37e9f08",
+        "sha256_fonte_html": "229ed947ab634878afabd259f2bd3b6058a050c80e45e9e57eda77c93c505e09",
+        "epigrafe": {
+          "numero": "11509",
+          "data": "1943-02-03",
+          "epigrafe": "DECRETO N. 11.509 – DE 3 DE FEVEREIRO DE 1943"
+        },
+        "fechos": [
+          {
+            "data": "1943-02-05",
+            "literal": "Rio de Janeiro, em 5 de fevereiro de 1943",
+            "contexto": " Corrente do Quadro Permanente do mesmo Ministério. Art. 2º Revogam-se as disposições em contrário. Rio de Janeiro, em 5 de fevereiro de 1943, 122º da Independência e 55º da República. Getulio Vargas. Gustavo Capanema."
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-02-03;11509",
+          "id": "421452",
+          "data": "1943-02-03",
+          "indice": {
+            "id": "421452",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "11509",
+            "norma": "DEC-11509-1943-02-03",
+            "normaNome": "Decreto nº 11.509 de 03/02/1943",
+            "ementa": "SUPRIME CARGOS EXTINTOS.",
+            "dataassinatura": "03/02/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-11509-1943-02-03"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-11509-1943-02-03.md",
+      "sha256_candidato": "e1c87ff2229d88c1aa4b7de9f32775d066a81b8beadeae82d1506c427b576c99",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 11509, de 1943-02-03. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, em 5 de fevereiro de 1943\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/84ae2937-d3b8-4352-8480-0479769e9e23/texto; SHA-256 do HTML: 229ed947ab634878afabd259f2bd3b6058a050c80e45e9e57eda77c93c505e09.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-11334-1943-01-15.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-01-15;11334",
+      "numero": "11334",
+      "data_epigrafe_indice_metadados": "1943-01-15",
+      "epigrafe": {
+        "numero": "11334",
+        "data": "1943-01-15",
+        "epigrafe": "DECRETO N. 11.334 – DE 15 DE JANEIRO DE 1943"
+      },
+      "sha256_preimagem": "c839ce86db0f8ad057c1fd0bd5b1aaf8992804a8bad9c0e0e514d6ebecb0bd91",
+      "sha256_fonte_html": "3f27bcd2cf5554c6e4404476c977491afddd99fc1b2f54b228e524034ee22aa7",
+      "sha256_metadados": "7d01e98f36f29a7c83c33bcf21d7e854a98638ff612814f530e43b6480180c58",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-01-15;11334",
+      "url_texto": "https://normas.leg.br/api/binario/6d5478d0-bfce-4f25-b4bc-d6bdd6db61ec/texto",
+      "triagem": {
+        "lote": 21,
+        "path": "federal/decretos/1943/dec-11334-1943-01-15.md",
+        "urn": "urn:lex:br:federal:decreto:1943-01-15;11334",
+        "sha256_md": "c839ce86db0f8ad057c1fd0bd5b1aaf8992804a8bad9c0e0e514d6ebecb0bd91",
+        "sha256_fonte_html": "3f27bcd2cf5554c6e4404476c977491afddd99fc1b2f54b228e524034ee22aa7",
+        "epigrafe": {
+          "numero": "11334",
+          "data": "1943-01-15",
+          "epigrafe": "DECRETO N. 11.334 – DE 15 DE JANEIRO DE 1943"
+        },
+        "fechos": [
+          {
+            "data": "1943-01-14",
+            "literal": "Rio de Janeiro, 14 de janeiro de 1943",
+            "contexto": "pio de Conselheiro Pena, do Estado de Minas Gerais. Art. 2º Revogam-se as disposições em contrário. Rio de Janeiro, 14 de janeiro de 1943, 122º da Independência e 55º da República. GETÚLIO VARGAS. Apolonio Salles."
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-01-15;11334",
+          "id": "421111",
+          "data": "1943-01-15",
+          "indice": {
+            "id": "421111",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "11334",
+            "norma": "DEC-11334-1943-01-15",
+            "normaNome": "Decreto nº 11.334 de 15/01/1943",
+            "ementa": "DECLARA SEM EFEITO A AUTORIZAÇÃO CONFERIDA AO CIDADÃO BRASILEIRO DILERMANDO ROCHA PELO DECRETO 9.784, DE 25 DE JUNHO DE 1942, PARA PESQUISAR MICA E ASSOCIADOS NO MUNICIPIO DE CONSELHEIRO PENA, DO ESTADO DE MINAS GERAIS.",
+            "dataassinatura": "15/01/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-11334-1943-01-15"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-11334-1943-01-15.md",
+      "sha256_candidato": "d0019e35f166f5bc72dd65b33c165e25f5757c3833bb56500ee98e2c0513cfa5",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 11334, de 1943-01-15. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 14 de janeiro de 1943\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/6d5478d0-bfce-4f25-b4bc-d6bdd6db61ec/texto; SHA-256 do HTML: 3f27bcd2cf5554c6e4404476c977491afddd99fc1b2f54b228e524034ee22aa7.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-11245-1943-01-06.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-01-06;11245",
+      "numero": "11245",
+      "data_epigrafe_indice_metadados": "1943-01-06",
+      "epigrafe": {
+        "numero": "11245",
+        "data": "1943-01-06",
+        "epigrafe": "DECRETO N. 11.245 – DE 6 DE JANEIRO DE 1943"
+      },
+      "sha256_preimagem": "3b2ff0f0aeec5c6471ab35e1a4d7251f0e6f6943a2745882ae041d47ad8631a5",
+      "sha256_fonte_html": "7acd6dac21ea9e137f8fe5a083981fb715e9f89d5d0e644d52d7079f34543058",
+      "sha256_metadados": "5de78a981cd28b07b53a012ae0844f861c1bed3b467dfa042d1dae886df824b1",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-01-06;11245",
+      "url_texto": "https://normas.leg.br/api/binario/4962111a-58e3-4f4b-8819-530e75f0d7c6/texto",
+      "triagem": {
+        "lote": 21,
+        "path": "federal/decretos/1943/dec-11245-1943-01-06.md",
+        "urn": "urn:lex:br:federal:decreto:1943-01-06;11245",
+        "sha256_md": "3b2ff0f0aeec5c6471ab35e1a4d7251f0e6f6943a2745882ae041d47ad8631a5",
+        "sha256_fonte_html": "7acd6dac21ea9e137f8fe5a083981fb715e9f89d5d0e644d52d7079f34543058",
+        "epigrafe": {
+          "numero": "11245",
+          "data": "1943-01-06",
+          "epigrafe": "DECRETO N. 11.245 – DE 6 DE JANEIRO DE 1943"
+        },
+        "fechos": [
+          {
+            "data": "1942-01-06",
+            "literal": "Rio de Janeiro, 6 de Janeiro de 1942",
+            "contexto": "............................................... 1 – Art. 2º Revogam-se as disposições em contrário. Rio de Janeiro, 6 de Janeiro de 1942, 122º da Independência e 55º da República. GETULIO VARGAS Apolonio Salles."
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-01-06;11245",
+          "id": "420935",
+          "data": "1943-01-06",
+          "indice": {
+            "id": "420935",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "11245",
+            "norma": "DEC-11245-1943-01-06",
+            "normaNome": "Decreto nº 11.245 de 06/01/1943",
+            "ementa": "ALTERA O DECRETO 6.294, DE 18 DE SETEMBRO DE 1940, QUE DISPÕE SOBRE A LOTAÇÃO DAS REPARTIÇÕES DO MINISTÉRIO DA AGRICULTURA.",
+            "dataassinatura": "06/01/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-11245-1943-01-06"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-11245-1943-01-06.md",
+      "sha256_candidato": "8db721f47a8041f8c0c49e1e46754b4b24f2852d7a8440405fcaaa88fd68ea11",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 11245, de 1943-01-06. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 6 de Janeiro de 1942\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/4962111a-58e3-4f4b-8819-530e75f0d7c6/texto; SHA-256 do HTML: 7acd6dac21ea9e137f8fe5a083981fb715e9f89d5d0e644d52d7079f34543058.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1942/dec-11002-1942-12-02.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1942-12-02;11002",
+      "numero": "11002",
+      "data_epigrafe_indice_metadados": "1942-12-02",
+      "epigrafe": {
+        "numero": "11002",
+        "data": "1942-12-02",
+        "epigrafe": "DECRETO N. 11.002 – DE 2 DE DEZEMBRO DE 1942"
+      },
+      "sha256_preimagem": "78761ff05c2e8cfb38f2713e28d5876a7a0cf7d11d12aa93c043f125f829b324",
+      "sha256_fonte_html": "9285566c09ae9de966ce0675ceca37b8bed1c8e756ab5f513039135cbd6aec2b",
+      "sha256_metadados": "5220c5e4a6d251461c7bdb61db01e66b1fe73fdc2c392caecece762e7fd7fa37",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1942-12-02;11002",
+      "url_texto": "https://normas.leg.br/api/binario/6bcecaaf-283e-45b1-a29a-23da1a4b562a/texto",
+      "triagem": {
+        "lote": 21,
+        "path": "federal/decretos/1942/dec-11002-1942-12-02.md",
+        "urn": "urn:lex:br:federal:decreto:1942-12-02;11002",
+        "sha256_md": "78761ff05c2e8cfb38f2713e28d5876a7a0cf7d11d12aa93c043f125f829b324",
+        "sha256_fonte_html": "9285566c09ae9de966ce0675ceca37b8bed1c8e756ab5f513039135cbd6aec2b",
+        "epigrafe": {
+          "numero": "11002",
+          "data": "1942-12-02",
+          "epigrafe": "DECRETO N. 11.002 – DE 2 DE DEZEMBRO DE 1942"
+        },
+        "fechos": [
+          {
+            "data": "1942-12-03",
+            "literal": "Rio de Janeiro, 3 de dezembro de 1942",
+            "contexto": "de 4 de junho de 1938, constituindo título desta autorização uma via autêntica do presente decreto. Rio de Janeiro, 3 de dezembro de 1942, 121º da Independência e 54º da República. Getulio Vargas. A. de Souza Costa."
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1942-12-02;11002",
+          "id": "420463",
+          "data": "1942-12-02",
+          "indice": {
+            "id": "420463",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "11002",
+            "norma": "DEC-11002-1942-12-02",
+            "normaNome": "Decreto nº 11.002 de 02/12/1942",
+            "ementa": "AUTORIZA O CIDADÃO BRASILEIRO NEWTON FERREIRA A COMPRAR PEDRAS PRECIOSAS.",
+            "dataassinatura": "02/12/1942",
+            "anoassinatura": "1942",
+            "apelido": "DEC-11002-1942-12-02"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-11002-1942-12-02.md",
+      "sha256_candidato": "5c289b95d0f8d26357b395aba7aff6c8150b2e0257dc0c7b0673f330ba125b22",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 11002, de 1942-12-02. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 3 de dezembro de 1942\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/6bcecaaf-283e-45b1-a29a-23da1a4b562a/texto; SHA-256 do HTML: 9285566c09ae9de966ce0675ceca37b8bed1c8e756ab5f513039135cbd6aec2b.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1942/dec-10919-1942-11-25.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1942-11-25;10919",
+      "numero": "10919",
+      "data_epigrafe_indice_metadados": "1942-11-25",
+      "epigrafe": {
+        "numero": "10919",
+        "data": "1942-11-25",
+        "epigrafe": "DECRETO N. 10.919 – DE 25 DE NOVEMBRO DE 1942"
+      },
+      "sha256_preimagem": "6625c05f8808c55ca8c43ef7d09795e407dbb339f29b9a568b71459061025439",
+      "sha256_fonte_html": "b993fc56360ccfdc974a2f9fc133bbcf571439ad3714e94a69074b496b0cbe58",
+      "sha256_metadados": "0c701ce6b8de43669565c33e2c9fd93cacec02e1b629c3b5304e64a3c9360805",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1942-11-25;10919",
+      "url_texto": "https://normas.leg.br/api/binario/130a99d6-5ae8-4135-8ba9-a25daa5baff7/texto",
+      "triagem": {
+        "lote": 21,
+        "path": "federal/decretos/1942/dec-10919-1942-11-25.md",
+        "urn": "urn:lex:br:federal:decreto:1942-11-25;10919",
+        "sha256_md": "6625c05f8808c55ca8c43ef7d09795e407dbb339f29b9a568b71459061025439",
+        "sha256_fonte_html": "b993fc56360ccfdc974a2f9fc133bbcf571439ad3714e94a69074b496b0cbe58",
+        "epigrafe": {
+          "numero": "10919",
+          "data": "1942-11-25",
+          "epigrafe": "DECRETO N. 10.919 – DE 25 DE NOVEMBRO DE 1942"
+        },
+        "fechos": [
+          {
+            "data": "1942-11-26",
+            "literal": "Rio de Janeiro, 26 de novembro de 1942",
+            "contexto": "a taxa de mil e duzentos cruzeiros (Cr$ 1 200,00) . Art. 7º Revogam-se as disposições em contrário. Rio de Janeiro, 26 de novembro de 1942, 121º da Independência e 54º da República Getulio Vargas. Apolonio Selles"
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1942-11-25;10919",
+          "id": "420300",
+          "data": "1942-11-25",
+          "indice": {
+            "id": "420300",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "10919",
+            "norma": "DEC-10919-1942-11-25",
+            "normaNome": "Decreto nº 10.919 de 25/11/1942",
+            "ementa": "AUTORIZA O CIDADÃO BRASILEIRO AMINTAS JORGE DOS SANTOS A LAVRAR JAZIDAS DE AREIAS MONAZITICAS E ILMENITA NO MUNICIPIO DE SÃO JOÃO DA BARRA, DO ESTADO DO RIO DE JANEIRO.",
+            "dataassinatura": "25/11/1942",
+            "anoassinatura": "1942",
+            "apelido": "DEC-10919-1942-11-25"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-10919-1942-11-25.md",
+      "sha256_candidato": "6022e9726aceb6274e1112f3709371d7643f51ffbb9e890ec91b61429c48321d",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 10919, de 1942-11-25. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 26 de novembro de 1942\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/130a99d6-5ae8-4135-8ba9-a25daa5baff7/texto; SHA-256 do HTML: b993fc56360ccfdc974a2f9fc133bbcf571439ad3714e94a69074b496b0cbe58.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1942/dec-10790-1942-11-09.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1942-11-09;10790",
+      "numero": "10790",
+      "data_epigrafe_indice_metadados": "1942-11-09",
+      "epigrafe": {
+        "numero": "10790",
+        "data": "1942-11-09",
+        "epigrafe": "DECRETO N. 10.790 – DE 9 DE NOVEMBRO DE 1942"
+      },
+      "sha256_preimagem": "6dbe8b56315659f2a0fe29e1c7fa67d48f44221c4458948543ca6e5001ff322e",
+      "sha256_fonte_html": "ffee2f9cde6aa139c7455acb94e5bb09316260effe6887020f80ca82b5c8360c",
+      "sha256_metadados": "f30a785944e1993d3fe1c44051af8a11ce783db901c28a2c435a0c0befa8a6fe",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1942-11-09;10790",
+      "url_texto": "https://normas.leg.br/api/binario/34ac06a5-5298-447b-8768-3776ff4cc8a2/texto",
+      "triagem": {
+        "lote": 21,
+        "path": "federal/decretos/1942/dec-10790-1942-11-09.md",
+        "urn": "urn:lex:br:federal:decreto:1942-11-09;10790",
+        "sha256_md": "6dbe8b56315659f2a0fe29e1c7fa67d48f44221c4458948543ca6e5001ff322e",
+        "sha256_fonte_html": "ffee2f9cde6aa139c7455acb94e5bb09316260effe6887020f80ca82b5c8360c",
+        "epigrafe": {
+          "numero": "10790",
+          "data": "1942-11-09",
+          "epigrafe": "DECRETO N. 10.790 – DE 9 DE NOVEMBRO DE 1942"
+        },
+        "fechos": [
+          {
+            "data": "1942-11-09",
+            "literal": "Rio de Janeiro, 9 de novembro de 1942",
+            "contexto": "com este baixa, assinado pelo Ministro de Estado da Guerra, general de divisão Eurico Gaspar Dutra. Rio de Janeiro, 9 de novembro de 1942, 121º da Independência e 54º da República. Getulio Vargas. Eurico G. Dutra. Regulamento da Escola de Estado-Maior PARTE PRIMEIRA Do Ensino TÍTULO I Da Escola de Estado-Maior e seus fins Art. 1º A Esc"
+          },
+          {
+            "data": "1942-11-10",
+            "literal": "Rio de Janeiro, 10 de novembro de 1942",
+            "contexto": ". DISPOSIÇÃO TRANSITÓRIA Art. 105. Em 1943 a prova obrigatória de línguas será: inglês ou espanhol. Rio de Janeiro, 10 de novembro de 1942. – General Eurico G. Dutra. Informações para o concurso de matrícula na Escola de Estado-Maior ........Região Militar, I PARTE Folha de informações relativa ao (posto e nome)........................."
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1942-11-09;10790",
+          "id": "420048",
+          "data": "1942-11-09",
+          "indice": {
+            "id": "420048",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "10790",
+            "norma": "DEC-10790-1942-11-09",
+            "normaNome": "Decreto nº 10.790 de 09/11/1942",
+            "ementa": "APROVA O REGULAMENTO DA ESCOLA DE ESTADO-MAIOR.",
+            "dataassinatura": "09/11/1942",
+            "anoassinatura": "1942",
+            "apelido": "DEC-10790-1942-11-09"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "fecho_de_anexo_ou_citacao_nao_concorre_com_principal",
+      "conclusao": "O decreto tem fecho próprio de 9 de novembro de 1942; a data de 10 de novembro encerra o Regulamento da Escola de Estado-Maior, assinado pelo Ministro da Guerra."
+    },
+    {
+      "path": "federal/decretos/1942/dec-10727-1942-10-28.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1942-10-28;10727",
+      "numero": "10727",
+      "data_epigrafe_indice_metadados": "1942-10-28",
+      "epigrafe": {
+        "numero": "10727",
+        "data": "1942-10-28",
+        "epigrafe": "DECRETO N. 10.727 – DE 28 DE OUTUBRO DE 1942"
+      },
+      "sha256_preimagem": "de743b2d0d09dd80bfdc280bcbbad03a6bd10ef5b3234835039e686eee82a17b",
+      "sha256_fonte_html": "35736bb0ecdb4c5aaab13e91bf20d3df4eb568e57f0e8128c87f0f45234e85a8",
+      "sha256_metadados": "24257e0e81717abbbe9d4f1236017640a6e4df7f520971434aa208aa033a0ff2",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1942-10-28;10727",
+      "url_texto": "https://normas.leg.br/api/binario/a34bbd11-602a-48dd-80d1-7d62e41acf32/texto",
+      "triagem": {
+        "lote": 21,
+        "path": "federal/decretos/1942/dec-10727-1942-10-28.md",
+        "urn": "urn:lex:br:federal:decreto:1942-10-28;10727",
+        "sha256_md": "de743b2d0d09dd80bfdc280bcbbad03a6bd10ef5b3234835039e686eee82a17b",
+        "sha256_fonte_html": "35736bb0ecdb4c5aaab13e91bf20d3df4eb568e57f0e8128c87f0f45234e85a8",
+        "epigrafe": {
+          "numero": "10727",
+          "data": "1942-10-28",
+          "epigrafe": "DECRETO N. 10.727 – DE 28 DE OUTUBRO DE 1942"
+        },
+        "fechos": [
+          {
+            "data": "1942-10-23",
+            "literal": "Rio de Janeiro, 23 de outubro de 1942",
+            "contexto": "vos do decreto n. 7.334, de 5 de fevereiro de 1941. Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro, 23 de outubro de 1942, 121º da Independência e 54 º da República, Getulio Vargas Apolonio Salles."
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1942-10-28;10727",
+          "id": "419924",
+          "data": "1942-10-28",
+          "indice": {
+            "id": "419924",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "10727",
+            "norma": "DEC-10727-1942-10-28",
+            "normaNome": "Decreto nº 10.727 de 28/10/1942",
+            "ementa": "RETIFICA O DECRETO NÚMERO 7.334, DE 5 DE JUNHO DE 1941.",
+            "dataassinatura": "28/10/1942",
+            "anoassinatura": "1942",
+            "apelido": "DEC-10727-1942-10-28"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-10727-1942-10-28.md",
+      "sha256_candidato": "edb6c9e14a9a6a0f8a4403fef1776f6f12bae9f07deda3b4f7b8dfcc0690ebc3",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 10727, de 1942-10-28. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 23 de outubro de 1942\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/a34bbd11-602a-48dd-80d1-7d62e41acf32/texto; SHA-256 do HTML: 35736bb0ecdb4c5aaab13e91bf20d3df4eb568e57f0e8128c87f0f45234e85a8.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1942/dec-10724-1942-10-27.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1942-10-27;10724",
+      "numero": "10724",
+      "data_epigrafe_indice_metadados": "1942-10-27",
+      "epigrafe": {
+        "numero": "10724",
+        "data": "1942-10-27",
+        "epigrafe": "DECRETO N. 10.724 – DE 27 DE OUTUBRO DE 1942"
+      },
+      "sha256_preimagem": "5185f6808a93862554569df5ed361cbfac47c925b9ac81369b9dc915446e53a7",
+      "sha256_fonte_html": "13f3646fd814420cbf5002cc70e204cef43ffeaf96f3bce25bd2bc1750246c4c",
+      "sha256_metadados": "63682ad0ded68bf62b89c514a9e31fee0f06946fe9a831b57aa0403f117d258c",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1942-10-27;10724",
+      "url_texto": "https://normas.leg.br/api/binario/cd4f4a2f-5649-4538-b183-1e011b72d649/texto",
+      "triagem": {
+        "lote": 21,
+        "path": "federal/decretos/1942/dec-10724-1942-10-27.md",
+        "urn": "urn:lex:br:federal:decreto:1942-10-27;10724",
+        "sha256_md": "5185f6808a93862554569df5ed361cbfac47c925b9ac81369b9dc915446e53a7",
+        "sha256_fonte_html": "13f3646fd814420cbf5002cc70e204cef43ffeaf96f3bce25bd2bc1750246c4c",
+        "epigrafe": {
+          "numero": "10724",
+          "data": "1942-10-27",
+          "epigrafe": "DECRETO N. 10.724 – DE 27 DE OUTUBRO DE 1942"
+        },
+        "fechos": [
+          {
+            "data": "1942-09-27",
+            "literal": "Rio de Janeiro, 27 de setembro de 1942",
+            "contexto": "e as leis e regulamentos em vigor, ou que venham a vigorar, sobre o objeto da referida autorização. Rio de Janeiro, 27 de setembro de 1942, 121º da Independência e 54º da República. Getulio Vargas. Alexandre Marcondes Filho."
+          }
+        ]
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1942-10-27;10724",
+          "id": "419918",
+          "data": "1942-10-27",
+          "indice": {
+            "id": "419918",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "10724",
+            "norma": "DEC-10724-1942-10-27",
+            "normaNome": "Decreto nº 10.724 de 27/10/1942",
+            "ementa": "CONCEDE À SOCIEDADE ANÔNIMA \"COMPANHIA AGRÍCOLA E INDUSTRIAL MAGALHÃES\", AUTORIZAÇÃO PARA CONTINUAR A FUNCIONAR.",
+            "dataassinatura": "27/10/1942",
+            "anoassinatura": "1942",
+            "apelido": "DEC-10724-1942-10-27"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-10724-1942-10-27.md",
+      "sha256_candidato": "43b40d42f10630a94a4557257a730dd7678efe6e120426afc41ee48a1bace1b1",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 10724, de 1942-10-27. A fonte oficial apresenta no fecho próprio a literalidade \"Rio de Janeiro, 27 de setembro de 1942\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/cd4f4a2f-5649-4538-b183-1e011b72d649/texto; SHA-256 do HTML: 13f3646fd814420cbf5002cc70e204cef43ffeaf96f3bce25bd2bc1750246c4c.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-12246-1943-04-14.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-04-14;12246",
+      "numero": "12246",
+      "data_epigrafe_indice_metadados": "1943-04-14",
+      "epigrafe": {
+        "numero": "12246",
+        "data": "1943-04-14",
+        "epigrafe": "decreto nº 12.246, de 14 de abril de 1943."
+      },
+      "sha256_preimagem": "542bbec5800dbf6284c9f2fcba1bbdc0633e53d8d0cc866e82244707f8e94bac",
+      "sha256_fonte_html": "04a7c3b3ed437a382c89bcfd39ec3bcefb710e543df02f076b3e9898925a52c9",
+      "sha256_metadados": "03fcb8a18231db9186b445e296ae9588be93e6694905aeffbf855a1b4da0c10a",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-04-14;12246",
+      "url_texto": "https://normas.leg.br/api/binario/02242bed-e696-49d8-a52e-a6db95dc6b76/texto",
+      "triagem": {
+        "path": "federal/decretos/1943/dec-12246-1943-04-14.md",
+        "data_epigrafe": "1943-04-14",
+        "contexto": " de Fomento da Produção Mineral do Ministério da Agricultura. Art. 4º Revogam-se as disposições em contrário. Rio de Janeiro, 14 de abri l de 1943, 122º da Independência e 55º da República. getulio vargas Apolonio Salles",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-04-14;12246",
+          "id": "422882",
+          "data": "1943-04-14",
+          "indice": {
+            "id": "422882",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "12246",
+            "norma": "DEC-12246-1943-04-14",
+            "normaNome": "Decreto nº 12.246 de 14/04/1943",
+            "ementa": "AUTORIZA A CIDADÃ BRASILEIRA CATARINA LATINI A PESQUISAR MICA E ASSOCIADOS NO MUNICÍPIO DE RIO CASCA, DO ESTADO DE MINAS GERAIS.",
+            "dataassinatura": "14/04/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-12246-1943-04-14"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-12246-1943-04-14.md",
+      "sha256_candidato": "deeed132888e66daead5fe942475156c89b467872c9ea7837d2f682433d43d05",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 12246, de 1943-04-14. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \" de Fomento da Produção Mineral do Ministério da Agricultura. Art. 4º Revogam-se as disposições em contrário. Rio de Janeiro, 14 de abri l de 1943, 122º da Independência e 55º da República. getulio vargas Apolonio Salles\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/02242bed-e696-49d8-a52e-a6db95dc6b76/texto; SHA-256 do HTML: 04a7c3b3ed437a382c89bcfd39ec3bcefb710e543df02f076b3e9898925a52c9.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-12247-1943-04-14.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-04-14;12247",
+      "numero": "12247",
+      "data_epigrafe_indice_metadados": "1943-04-14",
+      "epigrafe": {
+        "numero": "12247",
+        "data": "1943-04-14",
+        "epigrafe": "decreto nº 12.247, de 14 de abril de 1943."
+      },
+      "sha256_preimagem": "47818eff4fb767b71216104e8626368546facabbff3ba05acf9dc4ae80091f58",
+      "sha256_fonte_html": "cdda6f4b0d5945f6462b2dfc20f33422d990547db6cbe3ae891720a70dd7f5e4",
+      "sha256_metadados": "1fc71264a76e4656b0a5e04cba624a6a4add562494fa23e65f5421e847757767",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-04-14;12247",
+      "url_texto": "https://normas.leg.br/api/binario/651b835b-1101-4ddd-9bcd-b7f0bd6a951a/texto",
+      "triagem": {
+        "path": "federal/decretos/1943/dec-12247-1943-04-14.md",
+        "data_epigrafe": "1943-04-14",
+        "contexto": " Fomento da Produção Mineral do Ministério da Agricultura. Art. 4.º Revogam-se as disposições em contrário. Rio de Janeiro, 14 de abri l de 1943, 122.º da Independência e 55.º da República. getulio vargas Apolonio Salles",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-04-14;12247",
+          "id": "422884",
+          "data": "1943-04-14",
+          "indice": {
+            "id": "422884",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "12247",
+            "norma": "DEC-12247-1943-04-14",
+            "normaNome": "Decreto nº 12.247 de 14/04/1943",
+            "ementa": "AUTORIZA O CIDADÃO BRASILEIRO EMANUEL DE SOUSA LIMA A PESQUISAR QUARTZO, MICA, PEDRAS CORADAS E ASSOCIADOS NO MUNICIPIO DE FERROS, DO ESTADO DE MINAS GERAIS.",
+            "dataassinatura": "14/04/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-12247-1943-04-14"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-12247-1943-04-14.md",
+      "sha256_candidato": "06e2f904cdceb0cefb040c0f2e2a11351a0bde23874a2428ef1a573519223125",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 12247, de 1943-04-14. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \" Fomento da Produção Mineral do Ministério da Agricultura. Art. 4.º Revogam-se as disposições em contrário. Rio de Janeiro, 14 de abri l de 1943, 122.º da Independência e 55.º da República. getulio vargas Apolonio Salles\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/651b835b-1101-4ddd-9bcd-b7f0bd6a951a/texto; SHA-256 do HTML: cdda6f4b0d5945f6462b2dfc20f33422d990547db6cbe3ae891720a70dd7f5e4.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-12250-1943-04-14.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-04-14;12250",
+      "numero": "12250",
+      "data_epigrafe_indice_metadados": "1943-04-14",
+      "epigrafe": {
+        "numero": "12250",
+        "data": "1943-04-14",
+        "epigrafe": "decreto nº 12.250, de 14 de abril de 1943."
+      },
+      "sha256_preimagem": "3df00e8ed064db7db42742c6a4aed57ee096659380086166fdffc6605a07f7c7",
+      "sha256_fonte_html": "d693c848ef96344f432371e005efefe3811425558468b9894d4dc1b32d02a112",
+      "sha256_metadados": "ddee0519de0b41932036c7beb810bf40ddc6a4e619c9ffa12a4d12f929e79a03",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-04-14;12250",
+      "url_texto": "https://normas.leg.br/api/binario/7747c146-2e83-4467-872e-30f1090f90b0/texto",
+      "triagem": {
+        "path": "federal/decretos/1943/dec-12250-1943-04-14.md",
+        "data_epigrafe": "1943-04-14",
+        "contexto": " Fomento da Produção Mineral do Ministério da Agricultura. Art. 4.º Revogam-se as disposições em contrário. Rio de Janeiro, 14 de abri l de 1943, 122.º da Independência e 55.º da República. getulio vargas Apolonio Salles",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-04-14;12250",
+          "id": "422890",
+          "data": "1943-04-14",
+          "indice": {
+            "id": "422890",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "12250",
+            "norma": "DEC-12250-1943-04-14",
+            "normaNome": "Decreto nº 12.250 de 14/04/1943",
+            "ementa": "AUTORIZA O CIDADÃO BRASILEIRO ANTÔNIO VIEIRA PENA A PESQUISAR MICA E ASSOCIADOS NO MUNICÍPIO DE RESPLENDOR, DO ESTADO DE MINAS GERAIS.",
+            "dataassinatura": "14/04/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-12250-1943-04-14"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-12250-1943-04-14.md",
+      "sha256_candidato": "013e0031e4c3ef7652a7f687804be2934ad31a01006bc5e45b488043eda180d2",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 12250, de 1943-04-14. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \" Fomento da Produção Mineral do Ministério da Agricultura. Art. 4.º Revogam-se as disposições em contrário. Rio de Janeiro, 14 de abri l de 1943, 122.º da Independência e 55.º da República. getulio vargas Apolonio Salles\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/7747c146-2e83-4467-872e-30f1090f90b0/texto; SHA-256 do HTML: d693c848ef96344f432371e005efefe3811425558468b9894d4dc1b32d02a112.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-12251-1943-04-14.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-04-14;12251",
+      "numero": "12251",
+      "data_epigrafe_indice_metadados": "1943-04-14",
+      "epigrafe": {
+        "numero": "12251",
+        "data": "1943-04-14",
+        "epigrafe": "decreto nº 12.251, de 14 de abril de 1943."
+      },
+      "sha256_preimagem": "c36fcd646e448bbd8bc61d18d4a053c7cf210d27f2858c8db6d14fd2e9fd2417",
+      "sha256_fonte_html": "eeb45a1885aebdf53a366f1a849a07f88951e7fc62961caac114430910fb432e",
+      "sha256_metadados": "1e45a6785fc5f09a0bb2dc610f17e46fa455ca5251012ac92b18ce3a2dde75d6",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-04-14;12251",
+      "url_texto": "https://normas.leg.br/api/binario/257de9f7-4843-46a4-b3ac-5c0e8d06d9f7/texto",
+      "triagem": {
+        "path": "federal/decretos/1943/dec-12251-1943-04-14.md",
+        "data_epigrafe": "1943-04-14",
+        "contexto": " Fomento da Produção Mineral do Ministério da Agricultura. Art. 4.º Revogam-se as disposições em contrário. Rio de Janeiro, 14 de abri l de 1943, 122.º da Independência e 55.º da República. getulio vargas Apolonio Salles",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-04-14;12251",
+          "id": "422892",
+          "data": "1943-04-14",
+          "indice": {
+            "id": "422892",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "12251",
+            "norma": "DEC-12251-1943-04-14",
+            "normaNome": "Decreto nº 12.251 de 14/04/1943",
+            "ementa": "AUTORIZA O CIDADÃO BRASILEIRO JANUARIO ALVES FEITOSA A PESQUISAR OURO NO MUNICÍPIO DE MILAGRES, DO ESTADO DO CEARÁ.",
+            "dataassinatura": "14/04/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-12251-1943-04-14"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-12251-1943-04-14.md",
+      "sha256_candidato": "46a5379a4968cb01a57fa4fbf913cf31f2af1bff579ecc637e68bf9e6dab7cec",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 12251, de 1943-04-14. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \" Fomento da Produção Mineral do Ministério da Agricultura. Art. 4.º Revogam-se as disposições em contrário. Rio de Janeiro, 14 de abri l de 1943, 122.º da Independência e 55.º da República. getulio vargas Apolonio Salles\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/257de9f7-4843-46a4-b3ac-5c0e8d06d9f7/texto; SHA-256 do HTML: eeb45a1885aebdf53a366f1a849a07f88951e7fc62961caac114430910fb432e.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-12252-1943-04-14.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-04-14;12252",
+      "numero": "12252",
+      "data_epigrafe_indice_metadados": "1943-04-14",
+      "epigrafe": {
+        "numero": "12252",
+        "data": "1943-04-14",
+        "epigrafe": "decreto nº 12.252, de 14 de abril de 1943."
+      },
+      "sha256_preimagem": "a9b1b3a05627d2e48cdfe6892ce0825c0b35706dbbb4118b7c3c83d0634ecc60",
+      "sha256_fonte_html": "d8ca7b037c269b2ca4dd891e8fd2ccbd136b8944422ad2594ba816bb3a41b6bb",
+      "sha256_metadados": "04efde3bf737aa3df75772150d34c3d883019c4efa3f5fe1be9490ea218de6e5",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-04-14;12252",
+      "url_texto": "https://normas.leg.br/api/binario/f19a3cee-aac0-406f-9d37-13a761791745/texto",
+      "triagem": {
+        "path": "federal/decretos/1943/dec-12252-1943-04-14.md",
+        "data_epigrafe": "1943-04-14",
+        "contexto": " Fomento da Produção Mineral do Ministério da Agricultura. Art. 4.º Revogam-se as disposições em contrário. Rio de Janeiro, 14 de abri l de 1943, 122.º da Independência e 55.º da República. getulio vargas Apolonio Salles",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-04-14;12252",
+          "id": "422894",
+          "data": "1943-04-14",
+          "indice": {
+            "id": "422894",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "12252",
+            "norma": "DEC-12252-1943-04-14",
+            "normaNome": "Decreto nº 12.252 de 14/04/1943",
+            "ementa": "AUTORIZA O CIDADÃO BRASILEIRO ANTONIO NOTINI JUNIOR A PESQUISAR MINÉRIO DE MANGANÊS GRAFITOSO E ASSOCIADOS NO MUNICÍPIO DE ITAPERUNA, DO ESTADO DO RIO DE JANEIRO.",
+            "dataassinatura": "14/04/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-12252-1943-04-14"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-12252-1943-04-14.md",
+      "sha256_candidato": "73eef9415f9434758e491a41d78e30b9c72e74e41861ab6c9cc249a10783881a",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 12252, de 1943-04-14. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \" Fomento da Produção Mineral do Ministério da Agricultura. Art. 4.º Revogam-se as disposições em contrário. Rio de Janeiro, 14 de abri l de 1943, 122.º da Independência e 55.º da República. getulio vargas Apolonio Salles\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/f19a3cee-aac0-406f-9d37-13a761791745/texto; SHA-256 do HTML: d8ca7b037c269b2ca4dd891e8fd2ccbd136b8944422ad2594ba816bb3a41b6bb.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-12253-1943-04-14.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-04-14;12253",
+      "numero": "12253",
+      "data_epigrafe_indice_metadados": "1943-04-14",
+      "epigrafe": {
+        "numero": "12253",
+        "data": "1943-04-14",
+        "epigrafe": "decreto nº 12.253, de 14 de abril de 1943."
+      },
+      "sha256_preimagem": "2d625703053f7dc3ed799eb5adddb8f7fe8275b99f5a09d77d6858b28c84e995",
+      "sha256_fonte_html": "87bed4145eec7fe8963374310ba7535a2e8c8f0f3125be8dc8e3b954f7747f96",
+      "sha256_metadados": "43fd74952a92746bb9cceb12410af0bc54bc6b8d4322f03cc31a309a2471744c",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-04-14;12253",
+      "url_texto": "https://normas.leg.br/api/binario/75fd81d4-5006-45dc-b840-6a9972c91664/texto",
+      "triagem": {
+        "path": "federal/decretos/1943/dec-12253-1943-04-14.md",
+        "data_epigrafe": "1943-04-14",
+        "contexto": " Fomento da Produção Mineral do Ministério da Agricultura. Art. 4.º Revogam-se as disposições em contrário. Rio de Janeiro, 14 de abri l de 1943, 122.º da Independência e 55.º da República. getulio vargas Apolonio Salles",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-04-14;12253",
+          "id": "422896",
+          "data": "1943-04-14",
+          "indice": {
+            "id": "422896",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "12253",
+            "norma": "DEC-12253-1943-04-14",
+            "normaNome": "Decreto nº 12.253 de 14/04/1943",
+            "ementa": "AUTORIZA O CIDADÃO BRASILEIRO FRANCISCO LOTUFO FILHO A PESQUISAR MICA, CAOLIM E ASSOCIADOS NO MUNICÍPIO DE ITAPECERICA, DO ESTADO DE SÃO PAULO.",
+            "dataassinatura": "14/04/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-12253-1943-04-14"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-12253-1943-04-14.md",
+      "sha256_candidato": "f72e98b29e045fa38230c6960750d916a82c1fed7b041a83e8cca77db99ec1ce",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 12253, de 1943-04-14. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \" Fomento da Produção Mineral do Ministério da Agricultura. Art. 4.º Revogam-se as disposições em contrário. Rio de Janeiro, 14 de abri l de 1943, 122.º da Independência e 55.º da República. getulio vargas Apolonio Salles\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/75fd81d4-5006-45dc-b840-6a9972c91664/texto; SHA-256 do HTML: 87bed4145eec7fe8963374310ba7535a2e8c8f0f3125be8dc8e3b954f7747f96.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-12254-1943-04-14.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-04-14;12254",
+      "numero": "12254",
+      "data_epigrafe_indice_metadados": "1943-04-14",
+      "epigrafe": {
+        "numero": "12254",
+        "data": "1943-04-14",
+        "epigrafe": "decreto nº 12.254, de 14 de abril de 1943."
+      },
+      "sha256_preimagem": "25bad5e36405e3a877c634bcdd00bc4c94a98fae731b161d55d8d35dc52d298a",
+      "sha256_fonte_html": "b8c613ed7ecdcc9d71ad5016feee06e26bff6fde15324ac0235caf265dbe75d8",
+      "sha256_metadados": "b8fb7721caccafba82030c3b23961168e863232f666f5e563d25796e3c628ec2",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-04-14;12254",
+      "url_texto": "https://normas.leg.br/api/binario/46fcdad5-e3de-4661-b36c-f88f93201218/texto",
+      "triagem": {
+        "path": "federal/decretos/1943/dec-12254-1943-04-14.md",
+        "data_epigrafe": "1943-04-14",
+        "contexto": " Fomento da Produção Mineral do Ministério da Agricultura. Art. 4.º Revogam-se as disposições em contrário. Rio de Janeiro, 14 de abri l de 1943, 122.º da Independência e 55.º da República. getulio vargas Apolonio Salles",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-04-14;12254",
+          "id": "422898",
+          "data": "1943-04-14",
+          "indice": {
+            "id": "422898",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "12254",
+            "norma": "DEC-12254-1943-04-14",
+            "normaNome": "Decreto nº 12.254 de 14/04/1943",
+            "ementa": "AUTORIZA A EMPRESA DE MINERAÇÃO \"MINERAÇÃO RIO DOCE LIMITADA\" A PESQUISAR MICA E ASSOCIADOS NO MUNICÍPIO DE GOVERNADOR VALADARES, DO ESTADO DE MINAS GERAIS.",
+            "dataassinatura": "14/04/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-12254-1943-04-14"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-12254-1943-04-14.md",
+      "sha256_candidato": "8dfa6e80982992884d823228661b025dbcdf0a71cb04ebdfdab37b9c11884fd9",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 12254, de 1943-04-14. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \" Fomento da Produção Mineral do Ministério da Agricultura. Art. 4.º Revogam-se as disposições em contrário. Rio de Janeiro, 14 de abri l de 1943, 122.º da Independência e 55.º da República. getulio vargas Apolonio Salles\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/46fcdad5-e3de-4661-b36c-f88f93201218/texto; SHA-256 do HTML: b8c613ed7ecdcc9d71ad5016feee06e26bff6fde15324ac0235caf265dbe75d8.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-12256-1943-04-14.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-04-14;12256",
+      "numero": "12256",
+      "data_epigrafe_indice_metadados": "1943-04-14",
+      "epigrafe": {
+        "numero": "12256",
+        "data": "1943-04-14",
+        "epigrafe": "decreto nº 12.256, de 14 de abril de 1943."
+      },
+      "sha256_preimagem": "6aa7c5a9c838b99a6c370b996e874f70fcffe9722c815e15f63391b5f9d9019b",
+      "sha256_fonte_html": "5871e9065f917efdf91b06b3b593814b533d8940f1ac1b73957fa6247a5f96ae",
+      "sha256_metadados": "1d3df0f0449180c3f17dbb7383b9518df0be9f335b4ce510f25fd7df19cc05ac",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-04-14;12256",
+      "url_texto": "https://normas.leg.br/api/binario/2eb060f8-c1f1-43d8-9468-4c115d196cb9/texto",
+      "triagem": {
+        "path": "federal/decretos/1943/dec-12256-1943-04-14.md",
+        "data_epigrafe": "1943-04-14",
+        "contexto": " Fomento da Produção Mineral do Ministério da Agricultura. Art. 4.º Revogam-se as disposições em contrário. Rio de Janeiro, 14 de abri l de 1943, 122.º da Independência e 55.º da República. getulio vargas Apolonio Salles",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-04-14;12256",
+          "id": "422902",
+          "data": "1943-04-14",
+          "indice": {
+            "id": "422902",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "12256",
+            "norma": "DEC-12256-1943-04-14",
+            "normaNome": "Decreto nº 12.256 de 14/04/1943",
+            "ementa": "AUTORIZA O CIDADÃO BRASILEIRO OROZIMBO JOSÉ DE CASTRO A PESQUISAR CASSITERITA NO MUNICÍPIO DE BOM SUCESSO, DO ESTADO DE MINAS GERAIS.",
+            "dataassinatura": "14/04/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-12256-1943-04-14"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-12256-1943-04-14.md",
+      "sha256_candidato": "776086d43687ba4e6f198fcf5b11583eba985441876528fefa12e9f0a1818eb6",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 12256, de 1943-04-14. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \" Fomento da Produção Mineral do Ministério da Agricultura. Art. 4.º Revogam-se as disposições em contrário. Rio de Janeiro, 14 de abri l de 1943, 122.º da Independência e 55.º da República. getulio vargas Apolonio Salles\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/2eb060f8-c1f1-43d8-9468-4c115d196cb9/texto; SHA-256 do HTML: 5871e9065f917efdf91b06b3b593814b533d8940f1ac1b73957fa6247a5f96ae.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-11855-1943-03-06.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-03-06;11855",
+      "numero": "11855",
+      "data_epigrafe_indice_metadados": "1943-03-06",
+      "epigrafe": {
+        "numero": "11855",
+        "data": "1943-03-06",
+        "epigrafe": "DECRETO N. 11.855 – DE 6 DE MARÇO DE 1943"
+      },
+      "sha256_preimagem": "00ebdea49639ea89f781d82d7ee4f277a0084dbe602385f976aeeebba7cec111",
+      "sha256_fonte_html": "f4f0e98bd701d1a2f78a7c40bb8d9ef368b71d90a7e1fe9feaf2aa0c88729065",
+      "sha256_metadados": "55a9e46f331b41b2ef58f7322cf1eb0cebd3a21e68bec8ea5695c379ce544922",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-03-06;11855",
+      "url_texto": "https://normas.leg.br/api/binario/9513895b-f998-4026-a200-d78a09a40d37/texto",
+      "triagem": {
+        "path": "federal/decretos/1943/dec-11855-1943-03-06.md",
+        "data_epigrafe": "1943-03-06",
+        "contexto": "sé da Silveira, ficando sem aplicação a dotação correspondente. Art. 2º Revogam‑se as disposições em contrário. Rio do Janeiro, 6 do março do 1943, 122º da Independência e 55º da República. GETULIO VARGAS. João de Mendonça Lima.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-03-06;11855",
+          "id": "422144",
+          "data": "1943-03-06",
+          "indice": {
+            "id": "422144",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "11855",
+            "norma": "DEC-11855-1943-03-06",
+            "normaNome": "Decreto nº 11.855 de 06/03/1943",
+            "ementa": "SUPRIME CARGO EXTINTO.",
+            "dataassinatura": "06/03/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-11855-1943-03-06"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-11855-1943-03-06.md",
+      "sha256_candidato": "aad529087d10d9f2022d1f99461736ba8efa607b8f554229c75a5e9705207a08",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 11855, de 1943-03-06. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"sé da Silveira, ficando sem aplicação a dotação correspondente. Art. 2º Revogam‑se as disposições em contrário. Rio do Janeiro, 6 do março do 1943, 122º da Independência e 55º da República. GETULIO VARGAS. João de Mendonça Lima.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/9513895b-f998-4026-a200-d78a09a40d37/texto; SHA-256 do HTML: f4f0e98bd701d1a2f78a7c40bb8d9ef368b71d90a7e1fe9feaf2aa0c88729065.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-11608-1943-02-10.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-02-10;11608",
+      "numero": "11608",
+      "data_epigrafe_indice_metadados": "1943-02-10",
+      "epigrafe": {
+        "numero": "11608",
+        "data": "1943-02-10",
+        "epigrafe": "DECRETO N. 11.608 – DE 10 DE FEVEREIRO DE 1943"
+      },
+      "sha256_preimagem": "222242223a8c45bbac3d78e102f80d7a6cc9002e8fb320d10bb88943f52e5e7e",
+      "sha256_fonte_html": "8489a96a676b2a91f0de355a3e8142364d3badfce32ff0c1a05aca5826297865",
+      "sha256_metadados": "b54cffd7d9c3cc574887af9fd7bbb132211c03c2c49881a68ec497160cd7ab91",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-02-10;11608",
+      "url_texto": "https://normas.leg.br/api/binario/f776b672-4fba-4017-bb7f-43a7722fe32f/texto",
+      "triagem": {
+        "path": "federal/decretos/1943/dec-11608-1943-02-10.md",
+        "data_epigrafe": "1943-02-10",
+        "contexto": " Fomento da Produção Mineral do Ministério da Agricultura. Art. 4º Revogam-se as disposições em contrário. Rio de Janeiro, 10 da fevereiro de 1943, 122º da Independência e 55º da República. Getulio VARGAS. Apolonio Salles.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-02-10;11608",
+          "id": "421649",
+          "data": "1943-02-10",
+          "indice": {
+            "id": "421649",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "11608",
+            "norma": "DEC-11608-1943-02-10",
+            "normaNome": "Decreto nº 11.608 de 10/02/1943",
+            "ementa": "AUTORIZA O CIDADÃO BRASILEIRO NELSON BRANDÃO LIBANIO A PESQUISAR DOLOMITA NO MUNICÍPIO DE BANANAL, DO ESTADO DE SÃO PAULO.",
+            "dataassinatura": "10/02/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-11608-1943-02-10"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-11608-1943-02-10.md",
+      "sha256_candidato": "8a4456ed0640707658f8a42d4874de5d73ed683c78ad94fef122d2ab8cf643ae",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 11608, de 1943-02-10. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \" Fomento da Produção Mineral do Ministério da Agricultura. Art. 4º Revogam-se as disposições em contrário. Rio de Janeiro, 10 da fevereiro de 1943, 122º da Independência e 55º da República. Getulio VARGAS. Apolonio Salles.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/f776b672-4fba-4017-bb7f-43a7722fe32f/texto; SHA-256 do HTML: 8489a96a676b2a91f0de355a3e8142364d3badfce32ff0c1a05aca5826297865.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-11507-1943-02-05.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-02-05;11507",
+      "numero": "11507",
+      "data_epigrafe_indice_metadados": "1943-02-05",
+      "epigrafe": {
+        "numero": "11507",
+        "data": "1943-02-05",
+        "epigrafe": "DECRETO N. 11.507 – DE 5 DE FEVEREIRO DE 1943"
+      },
+      "sha256_preimagem": "f874757d13021a14d8c11ef62a8e43b5ee262a5c91ee4acb2cdf39d2c24facae",
+      "sha256_fonte_html": "da88334fbbc7b85da12cc97459444c2fcc60e1a50f8de5bae0c8fe7eb6a08036",
+      "sha256_metadados": "126043def5f0bad0c1304ad5105582b54e2805da812cd466700fdfd633c9ae08",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-02-05;11507",
+      "url_texto": "https://normas.leg.br/api/binario/826cfcf5-636d-4275-9d1b-2121d55bd78f/texto",
+      "triagem": {
+        "path": "federal/decretos/1943/dec-11507-1943-02-05.md",
+        "data_epigrafe": "1943-02-05",
+        "contexto": "Conta Corrente do Quadro Permanente do mesmo Ministério. Art. 2º Revogam-se as disposições em contrário. Rio da Janeiro, em 5 de fevereiro de 1943, 122º da Independência e 55º da República. Getulio Vargas. Gustavo Capanema.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-02-05;11507",
+          "id": "421448",
+          "data": "1943-02-05",
+          "indice": {
+            "id": "421448",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "11507",
+            "norma": "DEC-11507-1943-02-05",
+            "normaNome": "Decreto nº 11.507 de 05/02/1943",
+            "ementa": "SUPRIME CARGOS EXTINTOS.",
+            "dataassinatura": "05/02/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-11507-1943-02-05"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-11507-1943-02-05.md",
+      "sha256_candidato": "6a21f93434f0bbcd0bb055c0f15fa2bc2056d1a04d5be423145e3d2be22529bf",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 11507, de 1943-02-05. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"Conta Corrente do Quadro Permanente do mesmo Ministério. Art. 2º Revogam-se as disposições em contrário. Rio da Janeiro, em 5 de fevereiro de 1943, 122º da Independência e 55º da República. Getulio Vargas. Gustavo Capanema.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/826cfcf5-636d-4275-9d1b-2121d55bd78f/texto; SHA-256 do HTML: da88334fbbc7b85da12cc97459444c2fcc60e1a50f8de5bae0c8fe7eb6a08036.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-11508-1943-02-05.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-02-05;11508",
+      "numero": "11508",
+      "data_epigrafe_indice_metadados": "1943-02-05",
+      "epigrafe": {
+        "numero": "11508",
+        "data": "1943-02-05",
+        "epigrafe": "DECRETO N. 11.508 – DE 5 DE FEVEREIRO DE 1943"
+      },
+      "sha256_preimagem": "3001784bb068f418139909bfc44b75af64ffb73eef191bd2cc41f474fa748ae3",
+      "sha256_fonte_html": "93da616be9e5b52c892526e14a4002454a96a5a83166b47c584142f5799f4743",
+      "sha256_metadados": "7ee42cae2981ec1481eed6c3f680eab959e2b1cf8f3177b686a6d2358af17cec",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-02-05;11508",
+      "url_texto": "https://normas.leg.br/api/binario/d30bdb24-d940-4faa-bdc0-deb6a976653b/texto",
+      "triagem": {
+        "path": "federal/decretos/1943/dec-11508-1943-02-05.md",
+        "data_epigrafe": "1943-02-05",
+        "contexto": "Conta Corrente do Quadro Permanente do mesmo Ministério. Art. 2º Revogam-se as disposições em contrário. Rio da Janeiro, em 5 de fevereiro de 1943, 122º da Independência e 55º da República. Getulio Vargas. Gustavo Capanema.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-02-05;11508",
+          "id": "421450",
+          "data": "1943-02-05",
+          "indice": {
+            "id": "421450",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "11508",
+            "norma": "DEC-11508-1943-02-05",
+            "normaNome": "Decreto nº 11.508 de 05/02/1943",
+            "ementa": "SUPRIME CARGOS EXTINTOS.",
+            "dataassinatura": "05/02/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-11508-1943-02-05"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-11508-1943-02-05.md",
+      "sha256_candidato": "2f20d209ee4373cc6575a360a3cf051d117c6e60afa02411aec7af6898e407a0",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 11508, de 1943-02-05. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"Conta Corrente do Quadro Permanente do mesmo Ministério. Art. 2º Revogam-se as disposições em contrário. Rio da Janeiro, em 5 de fevereiro de 1943, 122º da Independência e 55º da República. Getulio Vargas. Gustavo Capanema.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/d30bdb24-d940-4faa-bdc0-deb6a976653b/texto; SHA-256 do HTML: 93da616be9e5b52c892526e14a4002454a96a5a83166b47c584142f5799f4743.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-11469-1943-02-03.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-02-03;11469",
+      "numero": "11469",
+      "data_epigrafe_indice_metadados": "1943-02-03",
+      "epigrafe": {
+        "numero": "11469",
+        "data": "1943-02-03",
+        "epigrafe": "DECRETO N. 11.469 – DE 3 DE FEVEREIRO DE 1943"
+      },
+      "sha256_preimagem": "2a27e8b4ca0ac1de2d22b65622df3daaf11b59a1fa028d5e8f4e8f1fbc9b3222",
+      "sha256_fonte_html": "b79cfd9f2d8f47c30363a15cdeb9ebda5aa3d5edb1f38c1e55f67969d3e80ce1",
+      "sha256_metadados": "383c0e8ad522257f11afa883194249acf10b9de8c0f9b6bb051aeedc23eba732",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-02-03;11469",
+      "url_texto": "https://normas.leg.br/api/binario/2fec99e5-676c-4c6b-881d-8d64984a55ad/texto",
+      "triagem": {
+        "path": "federal/decretos/1943/dec-11469-1943-02-03.md",
+        "data_epigrafe": "1943-02-03",
+        "contexto": "rsos clássico e científico, sob regime de inspeção preliminar. Art. 4º Revogam-se as disposições em contrário. Rio de Janeiro, 3 fevereiro de 1943, 122º da Independência e 55º da República. Getulio Vargas. Gustavo Capanema.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-02-03;11469",
+          "id": "421375",
+          "data": "1943-02-03",
+          "indice": {
+            "id": "421375",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "11469",
+            "norma": "DEC-11469-1943-02-03",
+            "normaNome": "Decreto nº 11.469 de 03/02/1943",
+            "ementa": "AUTORIZA QUE O GINÁSIO SANTISTA, COM SEDE EM SANTOS, NO ESTADO DE SÃO PAULO, FUNCIONE COMO COLÉGIO.",
+            "dataassinatura": "03/02/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-11469-1943-02-03"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-11469-1943-02-03.md",
+      "sha256_candidato": "93d61c8a4e946218b74f93dff5e3203a52a57f2bd5c769cc474ec181f5a3fe7c",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 11469, de 1943-02-03. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"rsos clássico e científico, sob regime de inspeção preliminar. Art. 4º Revogam-se as disposições em contrário. Rio de Janeiro, 3 fevereiro de 1943, 122º da Independência e 55º da República. Getulio Vargas. Gustavo Capanema.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/2fec99e5-676c-4c6b-881d-8d64984a55ad/texto; SHA-256 do HTML: b79cfd9f2d8f47c30363a15cdeb9ebda5aa3d5edb1f38c1e55f67969d3e80ce1.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-11490-1943-02-03.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-02-03;11490",
+      "numero": "11490",
+      "data_epigrafe_indice_metadados": "1943-02-03",
+      "epigrafe": {
+        "numero": "11490",
+        "data": "1943-02-03",
+        "epigrafe": "DECRETO N. 11.490 – DE 3 DE FEVEREIRO DE 1943"
+      },
+      "sha256_preimagem": "6bf40b048e783030b59037d3261d3e6399fb553e22a4b391985ad1424c124903",
+      "sha256_fonte_html": "b314229d619f895e6d9967994094f4daa04ddc9026cdf0d31ff9bc376ed25b69",
+      "sha256_metadados": "69d6b04d38d417cc95f7c681f3819e743a9b5bcc65d7c017095c6eb7f22698f7",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-02-03;11490",
+      "url_texto": "https://normas.leg.br/api/binario/e92646e2-075e-441b-a679-8e3d359af7e3/texto",
+      "triagem": {
+        "path": "federal/decretos/1943/dec-11490-1943-02-03.md",
+        "data_epigrafe": "1943-02-03",
+        "contexto": "Latino, com sede em São Paulo, Capital do Estado de São Paulo. Art. 2º Revogam-se as disposições em contrário. Rio de Janeiro, 3 fevereiro de 1943, 122º da Independência e 55º da República. GETULIO VARGAS. Gustavo Capanema.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-02-03;11490",
+          "id": "421415",
+          "data": "1943-02-03",
+          "indice": {
+            "id": "421415",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "11490",
+            "norma": "DEC-11490-1943-02-03",
+            "normaNome": "Decreto nº 11.490 de 03/02/1943",
+            "ementa": "CONCEDE RECONHECIMENTO, SOB REGIME DE INSPEÇÃO PERMANENTE, AO CURSO GINASIAL DO GINÁSIO ANGLO-LATINO, COM SEDE EM SÃO PAULO, CAPITAL DO ESTADO DE SÃO PAULO.",
+            "dataassinatura": "03/02/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-11490-1943-02-03"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-11490-1943-02-03.md",
+      "sha256_candidato": "fde2ad33d2279298d38eca69beba2ec52d0379cff7287ee8489026283773ff3f",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 11490, de 1943-02-03. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"Latino, com sede em São Paulo, Capital do Estado de São Paulo. Art. 2º Revogam-se as disposições em contrário. Rio de Janeiro, 3 fevereiro de 1943, 122º da Independência e 55º da República. GETULIO VARGAS. Gustavo Capanema.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/e92646e2-075e-441b-a679-8e3d359af7e3/texto; SHA-256 do HTML: b314229d619f895e6d9967994094f4daa04ddc9026cdf0d31ff9bc376ed25b69.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-11449-1943-01-25.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-01-25;11449",
+      "numero": "11449",
+      "data_epigrafe_indice_metadados": "1943-01-25",
+      "epigrafe": {
+        "numero": "11449",
+        "data": "1943-01-25",
+        "epigrafe": "DECRETO N. 11.449 – DE 25 DE JANEIRO DE 1943"
+      },
+      "sha256_preimagem": "393b876a8e686ec207aae30ab0f092069efdb3d1e7c11a75a944866a51b433fa",
+      "sha256_fonte_html": "9d0c8d4581d0515de8483809e4bbfacbc3d0ad5e38f8930120d28c916e31beed",
+      "sha256_metadados": "751960479c50977be2b3876b86559ce52f4ba5d3a2ffe0a10b155c62f48ba2ff",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-01-25;11449",
+      "url_texto": "https://normas.leg.br/api/binario/87c39721-19d4-4d1e-92c8-5b3c9b8c84c3/texto",
+      "triagem": {
+        "path": "federal/decretos/1943/dec-11449-1943-01-25.md",
+        "data_epigrafe": "1943-01-25",
+        "contexto": "ossessões dos Estados Unidos da América no mar das Antilhas. Art. 2º Revogam-se as disposições em contrário, Rio de Janeiro, 25 de janeiro da 1943, 122º da Independência e 55º da República. Getulio Vargas. Oswaldo Aranha.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-01-25;11449",
+          "id": "421335",
+          "data": "1943-01-25",
+          "indice": {
+            "id": "421335",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "11449",
+            "norma": "DEC-11449-1943-01-25",
+            "normaNome": "Decreto nº 11.449 de 25/01/1943",
+            "ementa": "CRIA UM CONSULADO DE CARREIRA EM SAN JUAN DE PORTO RICO.",
+            "dataassinatura": "25/01/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-11449-1943-01-25"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-11449-1943-01-25.md",
+      "sha256_candidato": "fb84fea22bab70817bb9c2e9870541a0682b95e8d082f36acc05b9f21705c737",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 11449, de 1943-01-25. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"ossessões dos Estados Unidos da América no mar das Antilhas. Art. 2º Revogam-se as disposições em contrário, Rio de Janeiro, 25 de janeiro da 1943, 122º da Independência e 55º da República. Getulio Vargas. Oswaldo Aranha.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/87c39721-19d4-4d1e-92c8-5b3c9b8c84c3/texto; SHA-256 do HTML: 9d0c8d4581d0515de8483809e4bbfacbc3d0ad5e38f8930120d28c916e31beed.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-11198-1943-01-04.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-01-04;11198",
+      "numero": "11198",
+      "data_epigrafe_indice_metadados": "1943-01-04",
+      "epigrafe": {
+        "numero": "11198",
+        "data": "1943-01-04",
+        "epigrafe": "DECRETO N. 11.198 – DE 4 DE JANEIRO DE 1943"
+      },
+      "sha256_preimagem": "54e911d62c4a663bccea316cd92594c89810f6ea5c6c3839be993cb321147ddd",
+      "sha256_fonte_html": "6b3408e24aca078b3d3ddc64f2ecbf01d30358d86ac60c52062bf807a1513d70",
+      "sha256_metadados": "030fd6e9793a028f3f1ec7aa85dd0e95a4a7e30b48870baa83023f00882ffd7c",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-01-04;11198",
+      "url_texto": "https://normas.leg.br/api/binario/bbaa1998-e040-4fff-9409-2e77f7a4c4d6/texto",
+      "triagem": {
+        "path": "federal/decretos/1943/dec-11198-1943-01-04.md",
+        "data_epigrafe": "1943-01-04",
+        "contexto": "ursos clássico científico, sob regime de inspeção preliminar. Art. 4º Revogam-se as disposições em contrário. Rio de Janeiro, 4 do janeiro de 1943, 122º da Independência e 55º da República. Getulio Vargas. Gustavo Capanema.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-01-04;11198",
+          "id": "420846",
+          "data": "1943-01-04",
+          "indice": {
+            "id": "420846",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "11198",
+            "norma": "DEC-11198-1943-01-04",
+            "normaNome": "Decreto nº 11.198 de 04/01/1943",
+            "ementa": "AUTORIZA QUE O COLÉGIO BATISTA BRASILEIRO, COM SEDE EM SÃO PAULO, CAPITAL DO ESTADO DE SÃO PAULO, FUNCIONE COMO COLÉGIO.",
+            "dataassinatura": "04/01/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-11198-1943-01-04"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-11198-1943-01-04.md",
+      "sha256_candidato": "0c70d6dafe11882cb6b5428f69d24ad4f2cd7ead6b22e9fd0f697a0da0a5532c",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 11198, de 1943-01-04. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"ursos clássico científico, sob regime de inspeção preliminar. Art. 4º Revogam-se as disposições em contrário. Rio de Janeiro, 4 do janeiro de 1943, 122º da Independência e 55º da República. Getulio Vargas. Gustavo Capanema.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/bbaa1998-e040-4fff-9409-2e77f7a4c4d6/texto; SHA-256 do HTML: 6b3408e24aca078b3d3ddc64f2ecbf01d30358d86ac60c52062bf807a1513d70.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1943/dec-11211-1943-01-04.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1943-01-04;11211",
+      "numero": "11211",
+      "data_epigrafe_indice_metadados": "1943-01-04",
+      "epigrafe": {
+        "numero": "11211",
+        "data": "1943-01-04",
+        "epigrafe": "DECRETO N. 11.211 – DE 4 DE JANEIRO DE 1943"
+      },
+      "sha256_preimagem": "a4fb63b8cbc3990993b3622dcdf9c57a329d1a513b71e9f624f23949b1db91bb",
+      "sha256_fonte_html": "97430617d210978b5c3d806d6611052b48fdca6a5ed03aa2942c87cd6a8fc26d",
+      "sha256_metadados": "0822bf7a98b973a85f8c0349232fc02a0a2d9fbcaad3cea3edd9fe35c3e05696",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-01-04;11211",
+      "url_texto": "https://normas.leg.br/api/binario/e4a09e74-850b-4881-94b0-ea024d9b500e/texto",
+      "triagem": {
+        "path": "federal/decretos/1943/dec-11211-1943-01-04.md",
+        "data_epigrafe": "1943-01-04",
+        "contexto": "sos clássico e científico, sob regime de inspeção preliminar. Art. 4º Revogam-se as disposições em contrário. Rio de Janeiro, 4 da janeiro de 1943, 122º da Independência e 55º da República. Getulio Vargas. Gustavo Capanema.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1943-01-04;11211",
+          "id": "420871",
+          "data": "1943-01-04",
+          "indice": {
+            "id": "420871",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "11211",
+            "norma": "DEC-11211-1943-01-04",
+            "normaNome": "Decreto nº 11.211 de 04/01/1943",
+            "ementa": "AUTORIZA QUE O GINÁSIO SÃO BENTO, COM SEDE EM SÃO PAULO, CAPITAL DO ESTADO DE SÃO PAULO, FUNCIONE COMO COLÉGIO.",
+            "dataassinatura": "04/01/1943",
+            "anoassinatura": "1943",
+            "apelido": "DEC-11211-1943-01-04"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-11211-1943-01-04.md",
+      "sha256_candidato": "33f2afb0d62089bf002d373c292290f18578d408a24018c7e0364050d692ab1a",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 11211, de 1943-01-04. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"sos clássico e científico, sob regime de inspeção preliminar. Art. 4º Revogam-se as disposições em contrário. Rio de Janeiro, 4 da janeiro de 1943, 122º da Independência e 55º da República. Getulio Vargas. Gustavo Capanema.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/e4a09e74-850b-4881-94b0-ea024d9b500e/texto; SHA-256 do HTML: 97430617d210978b5c3d806d6611052b48fdca6a5ed03aa2942c87cd6a8fc26d.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1942/dec-10964-1942-11-27.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1942-11-27;10964",
+      "numero": "10964",
+      "data_epigrafe_indice_metadados": "1942-11-27",
+      "epigrafe": {
+        "numero": "10964",
+        "data": "1942-11-27",
+        "epigrafe": "DECRETO N. 10.964 – DE 27 DE NOVEMBRO DE 1942"
+      },
+      "sha256_preimagem": "75e8586c10771172035befe9e70a3d67c37c90b6a4e8398a788b7ed5ede3a3b5",
+      "sha256_fonte_html": "c00db86b60659427a3140d3b4f12cf435cbbfea21bf8dfe68f6cafafe6f69061",
+      "sha256_metadados": "3bc1d5a7e3400c0169c8f2ff7a9fdbef114d7a44c9ea4b5adcd11ea27ab16dcd",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1942-11-27;10964",
+      "url_texto": "https://normas.leg.br/api/binario/33e8a393-75e5-4025-8281-518f53d5a4d4/texto",
+      "triagem": {
+        "path": "federal/decretos/1942/dec-10964-1942-11-27.md",
+        "data_epigrafe": "1942-11-27",
+        "contexto": "da Conta-Corrente do Quadro Permanente do mesmo Ministério. Art. 2º Revogam-se as disposições em contrário. Rio de Janeiro, 27 de novembro da 1942, 121º da Independência e 54º da República. Getulio Vargas. Gustavo Capanema.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1942-11-27;10964",
+          "id": "420389",
+          "data": "1942-11-27",
+          "indice": {
+            "id": "420389",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "10964",
+            "norma": "DEC-10964-1942-11-27",
+            "normaNome": "Decreto nº 10.964 de 27/11/1942",
+            "ementa": "SUPRIME CARGOS EXTINTOS.",
+            "dataassinatura": "27/11/1942",
+            "anoassinatura": "1942",
+            "apelido": "DEC-10964-1942-11-27"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-10964-1942-11-27.md",
+      "sha256_candidato": "d26c02582bcc50efee98212bdb5463b3e5954edca9f0034e8af85b72d9c8e871",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 10964, de 1942-11-27. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"da Conta-Corrente do Quadro Permanente do mesmo Ministério. Art. 2º Revogam-se as disposições em contrário. Rio de Janeiro, 27 de novembro da 1942, 121º da Independência e 54º da República. Getulio Vargas. Gustavo Capanema.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/33e8a393-75e5-4025-8281-518f53d5a4d4/texto; SHA-256 do HTML: c00db86b60659427a3140d3b4f12cf435cbbfea21bf8dfe68f6cafafe6f69061.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1942/dec-10949-1942-11-26.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1942-11-26;10949",
+      "numero": "10949",
+      "data_epigrafe_indice_metadados": "1942-11-26",
+      "epigrafe": {
+        "numero": "10949",
+        "data": "1942-11-26",
+        "epigrafe": "DECRETO N. 10.949 – DE 26 DE NOVEMBRO DE 1942"
+      },
+      "sha256_preimagem": "ed07dd1b3cfec99cf22a753e5b7cac9af34e12d7f0eca5ef53f9f45862ea3ec8",
+      "sha256_fonte_html": "3ff9704d8459d3a69fafcf2132e838c9436ce9066f925c35bbc1ba14c9240d73",
+      "sha256_metadados": "a354f862596444256850161600364e0a9d26ffe88ead77ec58cadda51651689e",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1942-11-26;10949",
+      "url_texto": "https://normas.leg.br/api/binario/961e9920-9e5f-498b-8e48-21edf3ae90bd/texto",
+      "triagem": {
+        "path": "federal/decretos/1942/dec-10949-1942-11-26.md",
+        "data_epigrafe": "1942-11-26",
+        "contexto": "e Fomento da Produção Mineral do Ministério da Agricultura. Art. 4º Revogam-se as disposições em contrário. Rio de Janeiro, 26 de navembro de 1942, 121º da Independência e 54º da República. GETULIO VARGAS. Apolonio Salles.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1942-11-26;10949",
+          "id": "420359",
+          "data": "1942-11-26",
+          "indice": {
+            "id": "420359",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "10949",
+            "norma": "DEC-10949-1942-11-26",
+            "normaNome": "Decreto nº 10.949 de 26/11/1942",
+            "ementa": "AUTORIZA O CIDADÃO BRASILEIRO, FAUSTO MAIA A PESQUISAR MICA, BERILO E ESTANHO NO MUNICÍPIO DE SÃO PEDRO, DO ESTADO DO CEARÁ.",
+            "dataassinatura": "26/11/1942",
+            "anoassinatura": "1942",
+            "apelido": "DEC-10949-1942-11-26"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-10949-1942-11-26.md",
+      "sha256_candidato": "20d731ac496dbf65862131dcc62bb684242cf81315c2cb23355e4940a59d2868",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 10949, de 1942-11-26. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"e Fomento da Produção Mineral do Ministério da Agricultura. Art. 4º Revogam-se as disposições em contrário. Rio de Janeiro, 26 de navembro de 1942, 121º da Independência e 54º da República. GETULIO VARGAS. Apolonio Salles.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/961e9920-9e5f-498b-8e48-21edf3ae90bd/texto; SHA-256 do HTML: 3ff9704d8459d3a69fafcf2132e838c9436ce9066f925c35bbc1ba14c9240d73.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1942/dec-10931-1942-11-25.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1942-11-25;10931",
+      "numero": "10931",
+      "data_epigrafe_indice_metadados": "1942-11-25",
+      "epigrafe": {
+        "numero": "10931",
+        "data": "1942-11-25",
+        "epigrafe": "DECRETO N. 10.931 – DE 25 DE NOVEMBRO DE 1942"
+      },
+      "sha256_preimagem": "a77573a552a4d35f0024bc93b267d07a347bec4848fb1e31ca70345c5105cf04",
+      "sha256_fonte_html": "811cf6fec73e55ef6ea0aa3bb6615a8efb7068fff9ee8602376ac7b2230ce807",
+      "sha256_metadados": "d30a840f8f29fc74f7573e6c26ef9aa528136e244d3ec9535e2d0e7260e189b8",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1942-11-25;10931",
+      "url_texto": "https://normas.leg.br/api/binario/1f641618-3890-4dcc-aee4-ec54e91224ae/texto",
+      "triagem": {
+        "path": "federal/decretos/1942/dec-10931-1942-11-25.md",
+        "data_epigrafe": "1942-11-25",
+        "contexto": "e Fomento da Produção Mineral do Ministério da Agricultura. Art. 4º Revogam-se as disposições em contrário. Rio da Janeiro, 25 de novembro de 1942, 121º da Independência e 54º da República. Getulio Vargas. Apolonio Salles.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1942-11-25;10931",
+          "id": "420324",
+          "data": "1942-11-25",
+          "indice": {
+            "id": "420324",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "10931",
+            "norma": "DEC-10931-1942-11-25",
+            "normaNome": "Decreto nº 10.931 de 25/11/1942",
+            "ementa": "AUTORIZA O CIDADÃO BRASILEIRO THIERS FLEMING A PESQUISAR FERRO NO MUNICÍPIO DE NOVA LIMA, DO ESTADO DE MINAS GERAIS.",
+            "dataassinatura": "25/11/1942",
+            "anoassinatura": "1942",
+            "apelido": "DEC-10931-1942-11-25"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-10931-1942-11-25.md",
+      "sha256_candidato": "f3d6c0a4e78ce76fd26bda6dd0f09c8dc946cd1a49534d74b2f8ebd85ba62df7",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 10931, de 1942-11-25. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"e Fomento da Produção Mineral do Ministério da Agricultura. Art. 4º Revogam-se as disposições em contrário. Rio da Janeiro, 25 de novembro de 1942, 121º da Independência e 54º da República. Getulio Vargas. Apolonio Salles.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/1f641618-3890-4dcc-aee4-ec54e91224ae/texto; SHA-256 do HTML: 811cf6fec73e55ef6ea0aa3bb6615a8efb7068fff9ee8602376ac7b2230ce807.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1942/dec-10880-1942-11-20.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1942-11-20;10880",
+      "numero": "10880",
+      "data_epigrafe_indice_metadados": "1942-11-20",
+      "epigrafe": {
+        "numero": "10880",
+        "data": "1942-11-20",
+        "epigrafe": "DECRETO N. 10.880 – DE 20 DE NOVEMBRO DE 1942"
+      },
+      "sha256_preimagem": "6e05fabd865ad26868ccbed0a093324f0c2e2ba1ab25048257569878541b2f0c",
+      "sha256_fonte_html": "fef586ffbd14a2bb3e5e57794c6199f9a17eda1bdff4d283b6749e939bfa7e5e",
+      "sha256_metadados": "3adccdcf8d92e4484fcee39ee3c65c81dce2c51140e68d6daedd12fceb4961b3",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1942-11-20;10880",
+      "url_texto": "https://normas.leg.br/api/binario/532a174f-f210-4fad-b98b-e7fa3f07cfd5/texto",
+      "triagem": {
+        "path": "federal/decretos/1942/dec-10880-1942-11-20.md",
+        "data_epigrafe": "1942-11-20",
+        "contexto": "o de Fomento da Produção Mineral do Ministério da Agricultura. Art. 4º Revogam-se as disposições em contrário. Rio Janeiro, 20 de novembro de 1942, 121º da Independência e 54º da República. Getulio Vargas. Apolonio Salles.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1942-11-20;10880",
+          "id": "420224",
+          "data": "1942-11-20",
+          "indice": {
+            "id": "420224",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "10880",
+            "norma": "DEC-10880-1942-11-20",
+            "normaNome": "Decreto nº 10.880 de 20/11/1942",
+            "ementa": "AUTORIZA O CIDADÃO BRASILEIRO ROZENDO DE ALMEIDA BOREM A PESQUISAR QUARTZO NO MUNICÍPIO DE CORAÇÃO DE JESUS, DO ESTADO DE MINAS GERAIS.",
+            "dataassinatura": "20/11/1942",
+            "anoassinatura": "1942",
+            "apelido": "DEC-10880-1942-11-20"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-10880-1942-11-20.md",
+      "sha256_candidato": "806b3069303afd5694c14a287d277753add9352a23f38ec1aaf3ed9e4c5d21cb",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 10880, de 1942-11-20. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"o de Fomento da Produção Mineral do Ministério da Agricultura. Art. 4º Revogam-se as disposições em contrário. Rio Janeiro, 20 de novembro de 1942, 121º da Independência e 54º da República. Getulio Vargas. Apolonio Salles.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/532a174f-f210-4fad-b98b-e7fa3f07cfd5/texto; SHA-256 do HTML: fef586ffbd14a2bb3e5e57794c6199f9a17eda1bdff4d283b6749e939bfa7e5e.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1942/dec-10848-1942-11-19.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1942-11-19;10848",
+      "numero": "10848",
+      "data_epigrafe_indice_metadados": "1942-11-19",
+      "epigrafe": {
+        "numero": "10848",
+        "data": "1942-11-19",
+        "epigrafe": "DECRETO N. 10.848 – DE 19 DE NOVEMBRO DE 1942"
+      },
+      "sha256_preimagem": "aa02fc674f46ae1cb45cbae14b1ce65735386a15beb5a44e035ec23170983c72",
+      "sha256_fonte_html": "4cce6f953eacbdd8480286fae96d72b6994cd29ca05efa3bd380547d1d42cc9d",
+      "sha256_metadados": "6e45f1d97c492a12300894832db100fc3e42b8a20b647a97b6941554ccc33951",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1942-11-19;10848",
+      "url_texto": "https://normas.leg.br/api/binario/6e0fc634-986a-443f-abac-ea646390283b/texto",
+      "triagem": {
+        "path": "federal/decretos/1942/dec-10848-1942-11-19.md",
+        "data_epigrafe": "1942-11-19",
+        "contexto": "igo anterior passa a ser Colégio Evangélico de Alto Jequitibá. Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro, 19 de novembro da 1942, 121º da Independência e 54º República. Getulio Vargas. Gustavo Capanema.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1942-11-19;10848",
+          "id": "420161",
+          "data": "1942-11-19",
+          "indice": {
+            "id": "420161",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "10848",
+            "norma": "DEC-10848-1942-11-19",
+            "normaNome": "Decreto nº 10.848 de 19/11/1942",
+            "ementa": "AUTORIZA QUE O GINÁSIO EVANGÉLICO DE ALTO JEQUITIBÁ, COM SEDE EM PRESIDENTE SOARES, NO ESTADO DE MINAS GERAIS, FUNCIONE COMO COLÉGIO.",
+            "dataassinatura": "19/11/1942",
+            "anoassinatura": "1942",
+            "apelido": "DEC-10848-1942-11-19"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-10848-1942-11-19.md",
+      "sha256_candidato": "6ec9a8d2d307217b4326d210b8ba035a08e340724cce1b592f898893ad79ff0a",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 10848, de 1942-11-19. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"igo anterior passa a ser Colégio Evangélico de Alto Jequitibá. Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro, 19 de novembro da 1942, 121º da Independência e 54º República. Getulio Vargas. Gustavo Capanema.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/6e0fc634-986a-443f-abac-ea646390283b/texto; SHA-256 do HTML: 4cce6f953eacbdd8480286fae96d72b6994cd29ca05efa3bd380547d1d42cc9d.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1942/dec-10815-1942-11-13.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1942-11-13;10815",
+      "numero": "10815",
+      "data_epigrafe_indice_metadados": "1942-11-13",
+      "epigrafe": {
+        "numero": "10815",
+        "data": "1942-11-13",
+        "epigrafe": "DECRETO N. 10.815 – DE 13 DE NOVEMBRO DE 1942"
+      },
+      "sha256_preimagem": "bc35f184e20940e8ce437bd947b575b11f40eff913dd6886f965c9020ef37f6d",
+      "sha256_fonte_html": "87088ce45f058370d9ecbff73f3d3ae03da54f77ec44d076c8d510a5f333bb49",
+      "sha256_metadados": "b9b91d6972073f1060da7bebc8e67e632ff3b333850af2c03c5d3a2d110c0ef1",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1942-11-13;10815",
+      "url_texto": "https://normas.leg.br/api/binario/9cd29cde-07c4-42f9-8ffd-81f78b3dd4d5/texto",
+      "triagem": {
+        "path": "federal/decretos/1942/dec-10815-1942-11-13.md",
+        "data_epigrafe": "1942-11-13",
+        "contexto": "e Fomento da Produção Mineral ao Ministério da Agricultura. Art. 4º Revogam-se as disposições em contrário. Rio de Janeiro. 13 de novembro de 1942, 121º da Independência e 54º da República. GETULIO VARGAS. Apolonio Salles.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1942-11-13;10815",
+          "id": "420097",
+          "data": "1942-11-13",
+          "indice": {
+            "id": "420097",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "10815",
+            "norma": "DEC-10815-1942-11-13",
+            "normaNome": "Decreto nº 10.815 de 13/11/1942",
+            "ementa": "AUTORIZA O CIDADÃO BRASILEIRO JOSÉ CUPERTINO PINHEIRO CHAGAS A PESQUISAR MINÉRIOS DE FERRO E ASSOCIADOS NO MUNICÍPIO DE CARMO DA MATA, DO ESTADO DE MINAS GERAIS.",
+            "dataassinatura": "13/11/1942",
+            "anoassinatura": "1942",
+            "apelido": "DEC-10815-1942-11-13"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-10815-1942-11-13.md",
+      "sha256_candidato": "f6dcfaa0b106204d43c1c656e286140ea32a1b8f2326b3521c5443b548f5e5dc",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 10815, de 1942-11-13. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"e Fomento da Produção Mineral ao Ministério da Agricultura. Art. 4º Revogam-se as disposições em contrário. Rio de Janeiro. 13 de novembro de 1942, 121º da Independência e 54º da República. GETULIO VARGAS. Apolonio Salles.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/9cd29cde-07c4-42f9-8ffd-81f78b3dd4d5/texto; SHA-256 do HTML: 87088ce45f058370d9ecbff73f3d3ae03da54f77ec44d076c8d510a5f333bb49.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1942/dec-10785-1942-11-06.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1942-11-06;10785",
+      "numero": "10785",
+      "data_epigrafe_indice_metadados": "1942-11-06",
+      "epigrafe": {
+        "numero": "10785",
+        "data": "1942-11-06",
+        "epigrafe": "DECRETO N. 10.785 – DE 6 DE NOVEMBRO DE 1942"
+      },
+      "sha256_preimagem": "bdf5388c535a49421e8dbd0f0296e4cefbcfeb36018dccec404aa4c6bb283631",
+      "sha256_fonte_html": "c552c28965f244ec5738b5fc75082e3cbd6d0d0f5efa89332a48e3be2f0fd00e",
+      "sha256_metadados": "44da6ec0fc96452cefcab5dc0f766b3ffe44113dca8185acdddc7e93bb1b6496",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1942-11-06;10785",
+      "url_texto": "https://normas.leg.br/api/binario/03686574-733a-4031-8f1e-6ccafd55fdfb/texto",
+      "triagem": {
+        "path": "federal/decretos/1942/dec-10785-1942-11-06.md",
+        "data_epigrafe": "1942-11-06",
+        "contexto": "Art. 4º O presente decreto entra em vigor, na data de sua publicação, revogadas as disposições em contrário. Rio de janeiro, 6 de novembro da 1942, 121º da Independência e 54º da República. Getulio Vargas Apolonio Salles.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1942-11-06;10785",
+          "id": "420038",
+          "data": "1942-11-06",
+          "indice": {
+            "id": "420038",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "10785",
+            "norma": "DEC-10785-1942-11-06",
+            "normaNome": "Decreto nº 10.785 de 06/11/1942",
+            "ementa": "OUTORGA Á COMPANHIA FABRIL MASCARENHAS CONCESSÃO PARA O APROVEITAMENTO DE ENERGIA HIDRÁULICA NA CACHOEIRA QUEBRA CUIAS OU COTAS, SITUADA NO RIO DO PEIXE, DISTRITO DE ALVINÓPOLIS, MUNICÍPIO DO MESMO NOME, ESTADO DE MINAS GERAIS.",
+            "dataassinatura": "06/11/1942",
+            "anoassinatura": "1942",
+            "apelido": "DEC-10785-1942-11-06"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-10785-1942-11-06.md",
+      "sha256_candidato": "f6e5f127c51c367daf82dc267a079666d5dc1ce766d3cdb2c44c9d5957c37038",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 10785, de 1942-11-06. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"Art. 4º O presente decreto entra em vigor, na data de sua publicação, revogadas as disposições em contrário. Rio de janeiro, 6 de novembro da 1942, 121º da Independência e 54º da República. Getulio Vargas Apolonio Salles.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/03686574-733a-4031-8f1e-6ccafd55fdfb/texto; SHA-256 do HTML: c552c28965f244ec5738b5fc75082e3cbd6d0d0f5efa89332a48e3be2f0fd00e.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1942/dec-10681-1942-10-23.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1942-10-23;10681",
+      "numero": "10681",
+      "data_epigrafe_indice_metadados": "1942-10-23",
+      "epigrafe": {
+        "numero": "10681",
+        "data": "1942-10-23",
+        "epigrafe": "DECRETO N. 10.681 – DE 23 DE OUTUBRO DE 1942"
+      },
+      "sha256_preimagem": "fde8cdbb06c2ac5f31cda12610d4a965c657582c09ee638d8d3cd93d0ec68a6a",
+      "sha256_fonte_html": "4b3fb209cb6b7b6eca621af88707ba8f1493341928fc8fa9d820b86352c93ef4",
+      "sha256_metadados": "c5a88875a7562159ccc68c568140eac2b67bc125705d87aca4b07202228887e9",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1942-10-23;10681",
+      "url_texto": "https://normas.leg.br/api/binario/cd944439-84bf-41d2-ad81-97e0141bcb0d/texto",
+      "triagem": {
+        "path": "federal/decretos/1942/dec-10681-1942-10-23.md",
+        "data_epigrafe": "1942-10-23",
+        "contexto": " da Conta-Corrente do quadro Permanente do mesmo Ministério. Art. 2º Revogam-se as disposições em contrário. Rio de Janeiro, 23 do outubro de 1942, 121º da Independência e 54º da República. Getulio Vargas, A. de Souza Costa.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1942-10-23;10681",
+          "id": "419830",
+          "data": "1942-10-23",
+          "indice": {
+            "id": "419830",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "10681",
+            "norma": "DEC-10681-1942-10-23",
+            "normaNome": "Decreto nº 10.681 de 23/10/1942",
+            "ementa": "SUPRIME CARGOS EXTINTOS.",
+            "dataassinatura": "23/10/1942",
+            "anoassinatura": "1942",
+            "apelido": "DEC-10681-1942-10-23"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-10681-1942-10-23.md",
+      "sha256_candidato": "6735f09ab1345d892898fde76497c513891b85e5125b6a1cc77f05cebaaee973",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 10681, de 1942-10-23. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \" da Conta-Corrente do quadro Permanente do mesmo Ministério. Art. 2º Revogam-se as disposições em contrário. Rio de Janeiro, 23 do outubro de 1942, 121º da Independência e 54º da República. Getulio Vargas, A. de Souza Costa.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/cd944439-84bf-41d2-ad81-97e0141bcb0d/texto; SHA-256 do HTML: 4b3fb209cb6b7b6eca621af88707ba8f1493341928fc8fa9d820b86352c93ef4.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1942/dec-10672-1942-10-22.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1942-10-22;10672",
+      "numero": "10672",
+      "data_epigrafe_indice_metadados": "1942-10-22",
+      "epigrafe": {
+        "numero": "10672",
+        "data": "1942-10-22",
+        "epigrafe": "DECRETO N. 10.672 – De 22 DE OUTUBRO DE 1942"
+      },
+      "sha256_preimagem": "fa747ceeeeefb8eacfe7cb8b8c5b8c1bdfbe2e943ed1fc0f6a3ca126ce18f1b5",
+      "sha256_fonte_html": "a696247ecf3f02456ae6b73831caf193900bf5f9c7ddbe985b2f0c68d8f07045",
+      "sha256_metadados": "8dba2c7789e8fd710c7e886478f11bffcafb60bdfc0da40d58860b4ff34b7559",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1942-10-22;10672",
+      "url_texto": "https://normas.leg.br/api/binario/c8422d03-ae92-448a-9687-c1237fa93f1f/texto",
+      "triagem": {
+        "path": "federal/decretos/1942/dec-10672-1942-10-22.md",
+        "data_epigrafe": "1942-10-22",
+        "contexto": "as anexas ao decreto-lei n. 4.645, de 2 de setembro de 1942. Art. 2º Revogam-se as disposições em contrário. Rio de Janeiro, 22 da outubro de 1942, 121º da Independência e 54º da República. Getulio Vargas. João de Mendonça Lima.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1942-10-22;10672",
+          "id": "419812",
+          "data": "1942-10-22",
+          "indice": {
+            "id": "419812",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "10672",
+            "norma": "DEC-10672-1942-10-22",
+            "normaNome": "Decreto nº 10.672 de 22/10/1942",
+            "ementa": "SUPRIME CARGO EXTINTO.",
+            "dataassinatura": "22/10/1942",
+            "anoassinatura": "1942",
+            "apelido": "DEC-10672-1942-10-22"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-10672-1942-10-22.md",
+      "sha256_candidato": "cedb9bd71325085da82b81e64327d611f7280d4f30d3b34c6e3e03d4cea08e33",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 10672, de 1942-10-22. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"as anexas ao decreto-lei n. 4.645, de 2 de setembro de 1942. Art. 2º Revogam-se as disposições em contrário. Rio de Janeiro, 22 da outubro de 1942, 121º da Independência e 54º da República. Getulio Vargas. João de Mendonça Lima.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/c8422d03-ae92-448a-9687-c1237fa93f1f/texto; SHA-256 do HTML: a696247ecf3f02456ae6b73831caf193900bf5f9c7ddbe985b2f0c68d8f07045.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1942/dec-10650-1942-10-15.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1942-10-15;10650",
+      "numero": "10650",
+      "data_epigrafe_indice_metadados": "1942-10-15",
+      "epigrafe": {
+        "numero": "10650",
+        "data": "1942-10-15",
+        "epigrafe": "DECRETO N. 10.650 – DE 15 DE OUTUBRO DE 1942"
+      },
+      "sha256_preimagem": "f19cdbee78355dcabccd8b573603f8bc6ecc65ebef56893cc212cc57ecce8a22",
+      "sha256_fonte_html": "bb25a55a1c02da23c95398c917eabadbb4838f12069d1fd3dff1a313699b6ed8",
+      "sha256_metadados": "ea7310f9f6ed2d56af9533ac015610326860c3d905a18cf06fe83e66d070fb1e",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1942-10-15;10650",
+      "url_texto": "https://normas.leg.br/api/binario/dc306b3a-d84e-4bef-8758-84d676375cd4/texto",
+      "triagem": {
+        "path": "federal/decretos/1942/dec-10650-1942-10-15.md",
+        "data_epigrafe": "1942-10-15",
+        "contexto": " Art. 4º O presente decreto entra em vigor na data da sua publicação, revogadas as disposições em contrário. Rio de Janeiro, 15 do outubro de 1942, 121º da Independência e 54º da República. Getulio Vargas. Apolonio Salles.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1942-10-15;10650",
+          "id": "419768",
+          "data": "1942-10-15",
+          "indice": {
+            "id": "419768",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "10650",
+            "norma": "DEC-10650-1942-10-15",
+            "normaNome": "Decreto nº 10.650 de 15/10/1942",
+            "ementa": "REVALIDA, PARA APROVEITAMENTO PROGRESSIVO DE ENERGIA HIDRÁULICA DA CACHOEIRA DO SAMBURÁ, NO RIO DO MESMO NOME, A CONCESSÃO OUTORGADA À PREFEITURA MUNICIPAL DE BAMBUÍ, PELO DECRETO 4.889, DE 16 DE NOVEMBRO DE 1939.",
+            "dataassinatura": "15/10/1942",
+            "anoassinatura": "1942",
+            "apelido": "DEC-10650-1942-10-15"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-10650-1942-10-15.md",
+      "sha256_candidato": "c0f8a3f5443fb6250e1c279818e2f3d82bae9139acbc19d60be49ad5a96e1f6d",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 10650, de 1942-10-15. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \" Art. 4º O presente decreto entra em vigor na data da sua publicação, revogadas as disposições em contrário. Rio de Janeiro, 15 do outubro de 1942, 121º da Independência e 54º da República. Getulio Vargas. Apolonio Salles.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/dc306b3a-d84e-4bef-8758-84d676375cd4/texto; SHA-256 do HTML: bb25a55a1c02da23c95398c917eabadbb4838f12069d1fd3dff1a313699b6ed8.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1942/dec-10631-1942-10-14.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1942-10-14;10631",
+      "numero": "10631",
+      "data_epigrafe_indice_metadados": "1942-10-14",
+      "epigrafe": {
+        "numero": "10631",
+        "data": "1942-10-14",
+        "epigrafe": "DECRETO N. 10.631 – DE 14 DE OUTUBRO DE 1942"
+      },
+      "sha256_preimagem": "13e6762ff484c5977de266951723273283f8e13f93f27c7a3acb0f276c2dcdb5",
+      "sha256_fonte_html": "574d4377b5f92f2c4e83c53e835d0752afbb24a46d74d6cd1ad9ed50f1ffff01",
+      "sha256_metadados": "997acdf83eefa89bf943e9fa05c67cd44a766e5d98bd153c9960169f6dc7a6cb",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1942-10-14;10631",
+      "url_texto": "https://normas.leg.br/api/binario/b36c8bb2-2395-4cc5-ab84-f5581e034bd7/texto",
+      "triagem": {
+        "path": "federal/decretos/1942/dec-10631-1942-10-14.md",
+        "data_epigrafe": "1942-10-14",
+        "contexto": ", após o pagamento da taxa de dois contos de réis (2:000$0) . Art. 7º Revogam-se as disposições em contrário. Rio de Janeira 14 de outubro de 1942, 121º da Independência e 54º da República. Getulio Vargas. Apolonio Salles.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1942-10-14;10631",
+          "id": "419730",
+          "data": "1942-10-14",
+          "indice": {
+            "id": "419730",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "10631",
+            "norma": "DEC-10631-1942-10-14",
+            "normaNome": "Decreto nº 10.631 de 14/10/1942",
+            "ementa": "AUTORIZA A COMPANHIA CIMENTO PORTLAND ITAÚ A LAVRAR A JAZIDA DE CALCÁRIO NO MUNICÍPIO DE SANTA LUZIA, DO ESTADO DE MINAS GERAIS.",
+            "dataassinatura": "14/10/1942",
+            "anoassinatura": "1942",
+            "apelido": "DEC-10631-1942-10-14"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-10631-1942-10-14.md",
+      "sha256_candidato": "3d0c54ba8eab5ab9cae85f71ae90b5a820e0d08939736f483c2e05b12f11789a",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 10631, de 1942-10-14. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \", após o pagamento da taxa de dois contos de réis (2:000$0) . Art. 7º Revogam-se as disposições em contrário. Rio de Janeira 14 de outubro de 1942, 121º da Independência e 54º da República. Getulio Vargas. Apolonio Salles.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/b36c8bb2-2395-4cc5-ab84-f5581e034bd7/texto; SHA-256 do HTML: 574d4377b5f92f2c4e83c53e835d0752afbb24a46d74d6cd1ad9ed50f1ffff01.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1942/dec-10583-1942-10-07.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1942-10-07;10583",
+      "numero": "10583",
+      "data_epigrafe_indice_metadados": "1942-10-07",
+      "epigrafe": {
+        "numero": "10583",
+        "data": "1942-10-07",
+        "epigrafe": "DECRETO N. 10.583 – DE 7 DE OUTUBRO DE 1942"
+      },
+      "sha256_preimagem": "19b301bb5f635fdaae212a84dc3da4d142fca77f137ee70aa14ee72d0fdb0c42",
+      "sha256_fonte_html": "bb020385854c71ac96fc5514db7912abf459998ad5c53f8e11c4620dbc8f8017",
+      "sha256_metadados": "2a364fb0630971ec087b4c306e27b3f1ee98a0d826384551e790782e5a3924c6",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1942-10-07;10583",
+      "url_texto": "https://normas.leg.br/api/binario/a59aeb4b-4460-42b9-a5d5-53d0d898189e/texto",
+      "triagem": {
+        "path": "federal/decretos/1942/dec-10583-1942-10-07.md",
+        "data_epigrafe": "1942-10-07",
+        "contexto": " de Fomento da Produção Mineral do Ministério da Agricultura. Art. 4º Revogam-se as disposições em contrário. Rio de Janeira, 7 de outubro de 1942, 121º da Independência e 54º da República. Getulio Vargas. Apolonio Salles.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1942-10-07;10583",
+          "id": "419636",
+          "data": "1942-10-07",
+          "indice": {
+            "id": "419636",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "10583",
+            "norma": "DEC-10583-1942-10-07",
+            "normaNome": "Decreto nº 10.583 de 07/10/1942",
+            "ementa": "AUTORIZA A \"EMPRESA DE ÁGUAS MINERAIS LIMITADA\" A PESQUISAR ÁGUAS MINERAIS NO MUNICÍPIO DE FORTALEZA, DO ESTADO DO CEARÁ.",
+            "dataassinatura": "07/10/1942",
+            "anoassinatura": "1942",
+            "apelido": "DEC-10583-1942-10-07"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-10583-1942-10-07.md",
+      "sha256_candidato": "263d66c2152494320a0978511685e7e34e9ff4a1c4eac3de8f8780e40de07490",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 10583, de 1942-10-07. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \" de Fomento da Produção Mineral do Ministério da Agricultura. Art. 4º Revogam-se as disposições em contrário. Rio de Janeira, 7 de outubro de 1942, 121º da Independência e 54º da República. Getulio Vargas. Apolonio Salles.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/a59aeb4b-4460-42b9-a5d5-53d0d898189e/texto; SHA-256 do HTML: bb020385854c71ac96fc5514db7912abf459998ad5c53f8e11c4620dbc8f8017.",
+      "corpo_oficial_inalterado": true
+    },
+    {
+      "path": "federal/decretos/1942/dec-10555-1942-10-02.md",
+      "lote": 21,
+      "urn": "urn:lex:br:federal:decreto:1942-10-02;10555",
+      "numero": "10555",
+      "data_epigrafe_indice_metadados": "1942-10-02",
+      "epigrafe": {
+        "numero": "10555",
+        "data": "1942-10-02",
+        "epigrafe": "DECRETO N. 10.555 – DE 2 DE OUTUBRO DE 1942"
+      },
+      "sha256_preimagem": "b479cdaffb696eb36d31f2ead88a013043496c358ee0b6eb6db23b14daec6c35",
+      "sha256_fonte_html": "30c2e2a031acc2019f2c8eb7e1276db4b1eec421039a0faca37148a967bac949",
+      "sha256_metadados": "6077835f85641444df1a25e052636ce96fdbe5a65d116143b84d50ebe89f1f51",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1942-10-02;10555",
+      "url_texto": "https://normas.leg.br/api/binario/22e1056e-bfec-4209-be78-b15d97417b30/texto",
+      "triagem": {
+        "path": "federal/decretos/1942/dec-10555-1942-10-02.md",
+        "data_epigrafe": "1942-10-02",
+        "contexto": "o da Conta-Corrente do Quadro Permanente do mesmo Ministério. Art. 2º Revogam-se as disposições em contrário. Rio de Janeiro, 2 de outubro da 1942, 121º da Independência e 54º da República. Getulio Vargas. Gustavo Capanema.",
+        "assinatura_presidencial_localizada": true
+      },
+      "indice_identidade": [
+        {
+          "urn": "urn:lex:br:federal:decreto:1942-10-02;10555",
+          "id": "419580",
+          "data": "1942-10-02",
+          "indice": {
+            "id": "419580",
+            "tipo": "DEC-n",
+            "descricao": "Decreto Numerado",
+            "numero": "10555",
+            "norma": "DEC-10555-1942-10-02",
+            "normaNome": "Decreto nº 10.555 de 02/10/1942",
+            "ementa": "SUPRIME CARGO EXTINTO.",
+            "dataassinatura": "02/10/1942",
+            "anoassinatura": "1942",
+            "apelido": "DEC-10555-1942-10-02"
+          }
+        }
+      ],
+      "outros_paths_numero_ano": [],
+      "gate_identidade": true,
+      "status": "candidato_privado_com_nota_literal_sem_emenda",
+      "candidato": "federal/_candidatos_fechos_contextuais_20261027_022/dec-10555-1942-10-02.md",
+      "sha256_candidato": "dcc4153f46eafe712e75956b58b1a81aff2477130299388950ad49ed66653fc8",
+      "nota": "Nota editorial: a epígrafe do texto oficial, o índice do Senado e os metadados oficiais identificam este decreto como nº 10555, de 1942-10-02. A fonte oficial apresenta grafia atípica ou ausência de data no fecho; o contexto literal é \"o da Conta-Corrente do Quadro Permanente do mesmo Ministério. Art. 2º Revogam-se as disposições em contrário. Rio de Janeiro, 2 de outubro da 1942, 121º da Independência e 54º da República. Getulio Vargas. Gustavo Capanema.\". O corpo foi preservado integralmente como publicado na fonte consultada, sem corrigir essa literalidade nem certificar uma retificação da data. Fonte: https://normas.leg.br/api/binario/22e1056e-bfec-4209-be78-b15d97417b30/texto; SHA-256 do HTML: 30c2e2a031acc2019f2c8eb7e1276db4b1eec421039a0faca37148a967bac949.",
+      "corpo_oficial_inalterado": true
+    }
+  ],
+  "limites": "As notas preservam a divergência literal. Não constituem emenda ao texto oficial, correção definitiva da data ou prova de integralidade de suplemento. Demais gates dos lotes permanecem cumulativos."
+}

@@ -1,0 +1,122 @@
+---
+titulo: "Lei nº 773, de 19 de janeiro de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "773"
+data: "2010-01-19"
+municipio: "Capitão Enéas"
+uf: "MG"
+codigo_ibge: "3112703"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.capitaoeneas.mg.leg.br/norma/139"
+fonte_texto: "https://sapl.capitaoeneas.mg.leg.br/ta/96/text"
+sha256_fonte: "06876c75806a97faf6bca651fb9ca3738c393e25521fb8d17ffc865c2c793fc7"
+sha256_texto: "1705e075ba32600d594d7635ce188d5fa16297b475d9b89fc69bd1d3f47988f1"
+capturado_em_fonte: "2026-10-27T22:31:53.741348-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 773, de 19 de janeiro de 2010
+
+Adota o Diário Oficial dos Municípios do Estado de Minas Gerais, instituído e administrado pela AMM, como meio oficial de comunicação dos atos normativos e administrativos do Município de Capitão Enéas - MG.
+
+
+O Povo do Município de Capitão Enéas, Estado de Minas Gerais, por seus representantes na Câmara Municipal, aprovou e eu, em seu nome, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+O Diário Oficial dos Municípios do Estado de Minas Gerais, instituído e administrado pela Associação Mineira de Municípios (AMM), será o meio oficial de comunicação, publicidade e divulgação dos atos normativos e administrativos do Município de Capitão Enéas - MG, bem como dos órgãos da administração indireta, suas autarquias e fundações.
+
+
+Art. 2º.
+
+O Diário Eletrônico será veiculado na rede mundial de computadores, no endereço eletrônico www.diariomunicipal.com.br/amm-mg, podendo ser consultado sem custos e independentemente de cadastramento.
+
+
+Art. 3º.
+
+As publicações no Diário Eletrônico substituirão quaisquer outras formas de publicação utilizada pelo Município, e serão realizadas a partir da regulamentação desta Lei, que se dará por ato do Chefe do Executivo no prazo máximo de 30 (trinta) dias.
+
+
+Art. 4º.
+
+A implantação do Diário Eletrônico no Município deverá ser precedida de divulgação por meio de afixação no quadro de avisos da Prefeitura Municipal.
+
+
+Art. 5º.
+
+Os direitos autorais dos atos municipais publicados no Diário Eletrônico são reservados ao Município.
+
+
+§ 1º
+
+O Município manterá no quadro de avisos da Prefeitura, cópia da versão impressa da última edição que constar na publicação de atos municipais.
+
+
+§ 2º
+
+O Município poderá disponibilizar cópia da versão impressa do Diário Oficial dos Municípios do Estado de Minas Gerais, mediante solicitação e o pagamento do valor correspondente à sua reprodução.
+
+
+Art. 6º.
+
+Compete à AMM o funcionamento e a manutenção do sistema gerenciador do Diário Eletrônico, bem como a responsabilidade pelas cópias de segurança dos atos nele publicados.
+
+
+Art. 7º.
+
+As edições do Diário Eletrônico atenderão ao calendário designado pela AMM, sendo que os atos cadastrados e assinados pela autoridade competente até o horário definido na Resolução AMM nº 01/2009, serão publicadas na edição do dia útil subseqüente, disponibilizadas para o acesso a partir de 00h00 (zero hora).
+
+
+Art. 8º.
+
+As edições do Diário Eletrônico atenderão aos requisitos de autenticidade, integridade, validade jurídica e interoperabilidade da Infra-Estrutura de Chaves Públicas Brasileira - ICP Brasil, instituída pela Medida Provisória nº 2.200-2, de 24 de agosto de 2001.
+
+
+Parágrafo único
+
+Competirá ao Prefeito Municipal designar as pessoas responsáveis pelas assinaturas dos atos do Poder Executivo e ao Presidente da Câmara de Vereadores designar as pessoas responsáveis pelas assinaturas dos atos do Poder Legislativo, e aos representantes das Autarquias e Fundações, as assinaturas dos atos a serem publicados no Diário Eletrônico.
+
+
+Art. 9º.
+
+Os atos, após serem publicados no Diário Eletrônico, não poderão sofrer modificações ou supressões.
+
+
+Parágrafo único
+
+Eventuais retificações de atos deverão constar de nova publicação.
+
+
+Art. 10.
+
+A responsabilidade pelo conteúdo da publicação é do órgão que o produziu.
+
+
+Art. 11.
+
+As despesas com a execução da presente Lei correrão à conta das dotações orçamentárias próprias.
+
+
+Art. 12.
+
+Esta Lei entra em vigor na data de sua publicação, com efeitos retroativos a dia 04 de janeiro de 2.010.
+
+
+Art. 13.
+
+Revogam-se as disposições em contrário.
+
+
+Capitão Enéas-MG, 13 de janeiro de 2010.
+
+Reinaldo Landulfo Teixeira
+
+PREFEITO MUNICIPAL
+
+.
+

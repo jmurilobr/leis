@@ -1,0 +1,82 @@
+{
+  "preparado_em": "2026-10-28T12:23:18.622103-03:00",
+  "total": 472,
+  "leis_ordinarias": 468,
+  "leis_complementares": 4,
+  "entrada": 1384,
+  "retidos": 912,
+  "manifesto": "scripts/estados/manifestos/to472-proposta-privada-20261028-001.json",
+  "sha256_manifesto": "a65f78a42a8ac76398a602ae3e7bebbe4a3947ad7d7c36d9cfc90ba9cad8d797",
+  "mapa_replay": "estaduais/TO/_fonte/auditorias/to472-privado-20261028-001/final/hashes.json",
+  "sha256_mapa_replay": "876411596b377342e8533d97f54f6ec0649e15fc2fa76d5fbf21a5ab575f9d76",
+  "portabilidade": {
+    "replay": {
+      "total": 472,
+      "aprovados": 472,
+      "falhas": 0,
+      "rede": false,
+      "promovidos": 0
+    },
+    "testes": 76,
+    "falhas": 0,
+    "erros": 0,
+    "bloqueios_fora_exportacao": [],
+    "fontTools_do_wheel_do_mapa": true,
+    "exportacao_somente_mapa": true,
+    "QA_externo": "scripts/bin/qa-20261027/python",
+    "Python": "-I -B"
+  },
+  "dry_run": {
+    "finalizado_em": "2026-10-28T12:21:55.791165-03:00",
+    "modo": "dry-run",
+    "aptos": 472,
+    "promovidos": 0,
+    "HEAD": "a40c58b1ff4badbe66224bd33976a413a637da94"
+  },
+  "diff_check": {
+    "arquivos": 487,
+    "diagnosticos": []
+  },
+  "diagnostico_sem_ano": "estaduais/TO/_fonte/auditorias/to472-privado-20261028-001/coincidencias-numero-sem-ano.json",
+  "inspecao_visual": "estaduais/TO/_fonte/auditorias/amostra-472-20261028-027/recibo-visual.json",
+  "sha256_inspecao_visual": "ed4dd691a4e16f61304bde6375a9a72a91fc27a6a2eeeb64bd2d41f55be863c0",
+  "codigo": {
+    "scripts/estados/snapshots/to_pdf_simples_20261028_004/pdf_texto_fiel.py": "8a7488a99a1b8b3661093f67263df586f9502ccf9758ca7c4c0a1184a602ed7a",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_004/test_visibilidade_pdf_to.py": "34d4a6b403415be2efd562740db9d340a025accca8049d539a038fc7ee79e4fa",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_004/test_contexto_to_pdf.py": "8add9728f701f5c9bdb0f66c98370caa524c1c9b28c52d9e160ed3b64bc15060",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_004/requirements.txt": "35a6bc9d92c12ed11357e68e793e8ce32e9204317aa1a01d3fe1378f58c0bc60",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_004/REPLAY.txt": "7ba99c0f1306d0d6cab07d5acd88be5a87ddfd626c154032e4f7a5a6fa8ca57e",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_004/visibilidade_pdf_to.py": "87a36b4d0c9e40a713c41c9fada9efd5ffad2077295abc22073f9452e23c78d0",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_004/test_to_pdf_simples.py": "4a2d5177b5f1216e51154c0538cb82d5535a2be6b5eb77eafcec831e88028376",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_004/test_metadados_to_pdf.py": "da3938c4258d1547ce759ae7cb1caf2657d5bf185bdc1e2ef036731a6f756754",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_004/auditar_to_pdf_simples.py": "5917e36475eb862c2d8eeb59d21f742dfb6da21dd18e556a6e267d44749d8200",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_004/contexto_to_pdf.py": "5017c0f3b3b8c824d3995dc10d7102b0a7dcec4eebbeed74f550b0015879b509",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_004/metadados_to_pdf.py": "2b2c00a18daf1ef7b50378167ee2e72f41d86c1b0182c14353fdfd15f2875db6",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_004/clipping_pdf_textual_to.py": "85ed6406b45c4cef675425cb2fe857bb1c05a5f642cdff924877d3ffdd51c13c",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_004/test_clipping_pdf_textual_to.py": "afbe1fe89ecffbc09860357ef32d5357e175c2892c6276fffd68f16ff1da8892",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_004/coletar_to_portal_indice.py": "15263ad6ec643232b7eaca59c86b42fbb591cf93ca66f9244d85549d90b346bf",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_004/reexecutar_to_pdf.py": "f96437614fc16523c2baa31cbd2d4a7ad669cb804820443520f84e49a239f3fb",
+    "scripts/estados/snapshots/to_promocao_20261028_001/promover_to_pdf_privado.py": "da46be194e42693cf905b797f8d412619152045e61732ec92ee87f8595e82371",
+    "scripts/estados/snapshots/to_promocao_20261028_001/test_promover_to_pdf_privado.py": "b1e7c055085fad2e9588b58faddc7150f3b3c9b1d7477942820893b724c99e8f"
+  },
+  "versoes": {
+    "pdfplumber": "0.11.9",
+    "pdfminer.six": "20251230",
+    "pypdf": "6.10.0",
+    "markdown-it-py": "4.0.0",
+    "mdurl": "0.1.2",
+    "lxml": "6.1.1",
+    "fonttools": "4.60.1, wheel puro do mapa"
+  },
+  "Python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "pdftotext": "pdftotext version 26.10.0\nCopyright 2005-2026 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC",
+  "sem_Git_escrita": true,
+  "nenhum_apply_executado": true,
+  "metas_inalteradas": true,
+  "esquema": "Ordem/campos README; baixado_em data real YYYY-MM-DD em UTC-03. Situação/revogada null; edição DOE e vigência não certificadas.",
+  "retencao_individual": "LC 82/2012, ID ALETO 30738: sequência de artigos 1º e 3º preservada na fonte; dúvida contextual, sem afirmar lacuna e sem corrigir numeração.",
+  "comandos": {
+    "replay": "PYTHONPATH=\"$PWD/estaduais/TO/_fonte/auditorias/qa-fontes-20261028-001/fonttools-4.60.1-py3-none-any.whl:$PWD/scripts/bin/qa-20261027/python:$PWD/scripts/estados/snapshots/to_pdf_simples_20261028_004:$PWD/scripts/estados/snapshots/to_promocao_20261028_001\" python3 -B scripts/estados/snapshots/to_pdf_simples_20261028_004/reexecutar_to_pdf.py --manifesto scripts/estados/manifestos/to472-proposta-privada-20261028-001.json --hashes estaduais/TO/_fonte/auditorias/to472-privado-20261028-001/final/hashes.json --recibo RECIBO_NOVO.json",
+    "dry_run": "PYTHONPATH=\"$PWD/estaduais/TO/_fonte/auditorias/qa-fontes-20261028-001/fonttools-4.60.1-py3-none-any.whl:$PWD/scripts/bin/qa-20261027/python:$PWD/scripts/estados/snapshots/to_pdf_simples_20261028_004:$PWD/scripts/estados/snapshots/to_promocao_20261028_001\" python3 -B scripts/estados/snapshots/to_promocao_20261028_001/promover_to_pdf_privado.py --manifesto scripts/estados/manifestos/to472-proposta-privada-20261028-001.json --hashes estaduais/TO/_fonte/auditorias/to472-privado-20261028-001/final/hashes.json --total-esperado 472 --controle CONTROLE_PRIVADO_NOVO"
+  }
+}

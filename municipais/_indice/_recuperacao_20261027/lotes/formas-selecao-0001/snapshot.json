@@ -1,0 +1,641 @@
+{
+  "criterio": "Congela o próximo lote de candidatos TA, sem repetir identidades já examinadas.\n\nVersão 2: exporta diários/anexos apenas de portais selecionados, evitando exigir\nmetadados de tipos de portais sem candidatos neste lote.\n\nO limite é somente o tamanho do lote de trabalho. A coleta de portais continua;\nreexecuções com as exclusões anteriores cobrem os candidatos seguintes.\n",
+  "selecionados": 125,
+  "disponiveis_apos_exclusoes": 125,
+  "exclusoes": [],
+  "prefixos_origem": [
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-formas-admitidas-0001/sapl.agudo.rs.leg.br/resultados.jsonl",
+      "sha256_prefixo": "f62d18ef19f6580e4d88b77a5bf83059939687a4db895ff5631bcfa2fa45fe32",
+      "bytes_prefixo": 453300
+    }
+  ],
+  "script_sha256": "ed1f0a1eaeda7c9c3f1271ecdbbae4634b92e070bb936d4d89f3e5d2ac57f520",
+  "identidades": [
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3178,
+      "norma_id": 3489
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3176,
+      "norma_id": 3487
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3175,
+      "norma_id": 3486
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3174,
+      "norma_id": 3485
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3171,
+      "norma_id": 3483
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3170,
+      "norma_id": 3482
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3169,
+      "norma_id": 3481
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3168,
+      "norma_id": 3480
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5196,
+      "norma_id": 2227
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3167,
+      "norma_id": 3479
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3166,
+      "norma_id": 3478
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3163,
+      "norma_id": 3476
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3162,
+      "norma_id": 3475
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3160,
+      "norma_id": 3473
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3159,
+      "norma_id": 3472
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3158,
+      "norma_id": 3471
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3157,
+      "norma_id": 3470
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3153,
+      "norma_id": 3468
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3152,
+      "norma_id": 3467
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3151,
+      "norma_id": 3466
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3150,
+      "norma_id": 3490
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3148,
+      "norma_id": 3464
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3146,
+      "norma_id": 3463
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3145,
+      "norma_id": 3462
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3147,
+      "norma_id": 3495
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3142,
+      "norma_id": 3460
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3141,
+      "norma_id": 3459
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3140,
+      "norma_id": 3458
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3139,
+      "norma_id": 3457
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3138,
+      "norma_id": 3456
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3137,
+      "norma_id": 3455
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3136,
+      "norma_id": 3454
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3135,
+      "norma_id": 3453
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3134,
+      "norma_id": 3452
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3133,
+      "norma_id": 3451
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3132,
+      "norma_id": 3450
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3130,
+      "norma_id": 3449
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3129,
+      "norma_id": 3448
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3127,
+      "norma_id": 3446
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3126,
+      "norma_id": 3445
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3125,
+      "norma_id": 3444
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3124,
+      "norma_id": 3443
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3121,
+      "norma_id": 3441
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3119,
+      "norma_id": 3440
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3118,
+      "norma_id": 3492
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3117,
+      "norma_id": 3439
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3116,
+      "norma_id": 3438
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3115,
+      "norma_id": 3437
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5211,
+      "norma_id": 2121
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5210,
+      "norma_id": 2120
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3113,
+      "norma_id": 3435
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3109,
+      "norma_id": 3434
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3108,
+      "norma_id": 3433
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3107,
+      "norma_id": 3432
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3103,
+      "norma_id": 3431
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3102,
+      "norma_id": 3430
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3095,
+      "norma_id": 3429
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3094,
+      "norma_id": 3428
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3093,
+      "norma_id": 3427
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3092,
+      "norma_id": 3426
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3091,
+      "norma_id": 3425
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3090,
+      "norma_id": 3424
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3599,
+      "norma_id": 3493
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3088,
+      "norma_id": 3423
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3086,
+      "norma_id": 3422
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3085,
+      "norma_id": 3421
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3082,
+      "norma_id": 3419
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5217,
+      "norma_id": 2083
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5216,
+      "norma_id": 2082
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3081,
+      "norma_id": 3418
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3080,
+      "norma_id": 3417
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3079,
+      "norma_id": 3416
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3078,
+      "norma_id": 3415
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3077,
+      "norma_id": 3414
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3076,
+      "norma_id": 3413
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3075,
+      "norma_id": 3412
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3074,
+      "norma_id": 3411
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3073,
+      "norma_id": 3410
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3072,
+      "norma_id": 3409
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3071,
+      "norma_id": 3408
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5228,
+      "norma_id": 2005
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5227,
+      "norma_id": 2004
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5241,
+      "norma_id": 1975
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3066,
+      "norma_id": 3406
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3065,
+      "norma_id": 3405
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3064,
+      "norma_id": 3404
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3063,
+      "norma_id": 3403
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5237,
+      "norma_id": 1489
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5236,
+      "norma_id": 1488
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5235,
+      "norma_id": 1487
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5233,
+      "norma_id": 1486
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3060,
+      "norma_id": 3401
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3057,
+      "norma_id": 3399
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3055,
+      "norma_id": 3398
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3053,
+      "norma_id": 3396
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3052,
+      "norma_id": 3395
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3051,
+      "norma_id": 3394
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3050,
+      "norma_id": 3393
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3049,
+      "norma_id": 3392
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3044,
+      "norma_id": 3380
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3043,
+      "norma_id": 3379
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3056,
+      "norma_id": 3377
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3041,
+      "norma_id": 3376
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3040,
+      "norma_id": 3375
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3038,
+      "norma_id": 3373
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3037,
+      "norma_id": 3372
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3036,
+      "norma_id": 3371
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3035,
+      "norma_id": 3370
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3034,
+      "norma_id": 3369
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3032,
+      "norma_id": 3367
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3031,
+      "norma_id": 3366
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3030,
+      "norma_id": 3365
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3029,
+      "norma_id": 3364
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3027,
+      "norma_id": 3361
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3019,
+      "norma_id": 3356
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3018,
+      "norma_id": 3355
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3017,
+      "norma_id": 3354
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3016,
+      "norma_id": 3353
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3014,
+      "norma_id": 3352
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3013,
+      "norma_id": 3351
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5271,
+      "norma_id": 1562
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3010,
+      "norma_id": 3348
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3009,
+      "norma_id": 3347
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3008,
+      "norma_id": 3346
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5279,
+      "norma_id": 1556
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "preparado_em": "2026-10-27T20:40:58.345590-03:00",
+  "manifesto": "scripts/estados/manifestos/se467-proposta-privada-20261027-005.json",
+  "sha256_manifesto": "477f3a43737e30565152761c5a60336ac7c45211a071615e55342530a0101a2f",
+  "replay": "estaduais/SE/_fonte/auditorias/se467-privado-20261027-005/replay.jsonl",
+  "sha256_replay": "13b72d380b22d8244d739ac15063a0747f6d8fd3cb93718f89b6f0619259675c",
+  "total": 467,
+  "falhas": 0,
+  "testes": 40,
+  "testes_passaram": 40,
+  "retidos": 100,
+  "promovidas": 0,
+  "metas_inalteradas": true,
+  "diff_check_codigo": "git diff --check escopado aos quatro módulos atuais: exit0",
+  "marcadores_dados": "467 documentos sem marcadores literais de conflito na checagem específica",
+  "limites": "Aptos privados ao HTML oficial e seus recursos comprovados; edição DOE não certificada. Nenhuma norma retida é contabilizada como íntegra/publicada."
+}

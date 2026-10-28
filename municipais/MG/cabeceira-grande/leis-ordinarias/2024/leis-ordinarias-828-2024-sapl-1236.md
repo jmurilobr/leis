@@ -1,0 +1,353 @@
+---
+titulo: "LEI ORDINÁRIA nº 828, de 17 de outubro de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "828"
+data: "2024-10-17"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/1236"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/1051/text"
+sha256_fonte: "8bfce6b33806c93f66a2f94e9c6bc803438ddd6b6fa8b27b7d973150fa44d5b3"
+sha256_texto: "5468510371e23475b0f214d46306e6963a0e56edff8744d2a55a1f4dc4d248db"
+capturado_em_fonte: "2026-10-27T20:10:34.741507-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 828, de 17 de outubro de 2024
+
+Cria o Conselho Municipal de Direitos do Idoso e o Fundo Municipal de Direitos do Idoso e dá outras providências.
+
+
+**O PREFEITO DO MUNICÍPIO DE CABECEIRA GRANDE**, Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 76, inciso III da Lei Orgânica do Município, faz saber que a Câmara Municipal de Cabeceira Grande decreta e ele, em seu nome, sanciona e promulgaa seguinte Lei:
+
+
+#### CAPÍTULO I — DO CONSELHO MUNICIPAL DE DIREITOS DO IDOSO
+
+
+##### Seção I — Disposição Geral
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal de Direitos do Idoso – CMDI – órgão permanente, paritário, consultivo, formulador e controlador das políticas públicas e ações voltadas para o idoso no âmbito do Município de Pederneiras, vinculado e acompanhado pelo Departamento Municipal de Assistência e Desenvolvimento Social, órgão gestor das políticas de assistência social do Município.
+
+
+##### Seção II — Da Competência e da Composição
+
+
+Art. 2º.
+
+Compete ao Conselho Municipal de Direitos do Idoso:
+
+
+I –
+
+formular, acompanhar, fiscalizar e avaliar a Política Municipal dos Direitos dos Idosos, zelando pela sua execução;
+
+
+II –
+
+indicar as prioridades a serem incluídas no planejamento municipal quanto às questões que dizem respeito ao idoso;
+
+
+III –
+
+cumprir e zelar pelo cumprimento das normas constitucionais e legais referentes ao idoso, sobretudo a Lei Federal nº 8.842, de 04/07/94, a Lei Federal nº 10.741, de 1º/10/03 (Estatuto do Idoso) e leis pertinentes de caráter estadual e municipal, denunciando à autoridade competente e ao Ministério Público o descumprimento de qualquer uma delas;
+
+
+IV –
+
+fiscalizar as entidades governamentais e não-governamentais de atendimento ao idoso, conforme o disposto no artigo 52 da Lei nº 10.741/03.
+
+
+V –
+
+propor, incentivar e apoiar a realização de eventos, estudos, programas e pesquisas voltados para a promoção, a proteção e a defesa dos direitos do idoso;
+
+
+VI –
+
+inscrever os programas das entidades governamentais e não governamentais de assistência ao idoso;
+
+
+VII –
+
+Indicar prioridades para a destinação dos valores depositados no Fundo Municipal dos Direitos do Idoso, elaborando ou aprovando planos e programas em que está prevista a aplicação de recursos oriundos daquele;
+
+
+VIII –
+
+elaborar o seu regimento interno; e
+
+
+IX –
+
+outras ações visando à proteção do Direito do Idoso.
+
+
+Parágrafo único
+
+Aos membros do Conselho Municipal de Direito do Idoso será facilitado o acesso a todos os setores da administração pública municipal, especialmente aos Departamentos e aos programas prestados à população, a fim de possibilitar a apresentação de sugestões e propostas de medidas de atuação, subsidiando as políticas de ação em cada área de interesse do idoso.
+
+
+Art. 3º.
+
+O Conselho Municipal de Direitos do Idoso composto de forma paritária entre o poder público municipal e a sociedade civil será constituído:
+
+
+I –
+
+por representantes de cada uma das Secretarias a seguir indicadas:
+
+
+a)
+
+Secretaria Municipal de Assistência Social;
+
+
+b)
+
+Secretaria Municipal de Saúde;
+
+
+c)
+
+Secretaria Municipal de Educação;
+
+
+d)
+
+Secretaria Municipal de Esportes
+
+
+e)
+
+Secretaria Municipal de Meio Ambiente, Cultura e Turismo; e
+
+
+II –
+
+por quatro representantes da sociedade civil.
+
+
+§ 1º
+
+Cada membro do Conselho Municipal de Direitos do Idoso terá um suplente.
+
+
+§ 2º
+
+Os membros do Conselho Municipal de Direitos do Idoso e seus respectivos suplentes serão nomeados pelo Prefeito Municipal, respeitadas as indicações previstas nesta Lei.
+
+
+§ 3º
+
+Os membros do Conselho terão um mandado de dois anos, podendo ser reconduzidos por um mandado de igual período, enquanto no desempenho das funções ou cargos nos quais foram nomeados ou indicados.
+
+
+Art. 4º.
+
+O Presidente e o Vice-Presidente do Conselho Municipal de Direitos do Idoso serão escolhidos, mediante votação, dentre os seus membros, por maioria absoluta, devendo haver, no que tange à Presidência e à Vice-Presidência, uma alternância entre as entidades governamentais e não-governamentais.
+
+
+§ 1º
+
+O Vice-Presidente do Conselho Municipal de Direitos do Idoso substituirá o Presidente em suas ausências e impedimentos, e, em caso de ocorrência simultânea em relação aos dois, a presidência será exercida pelo conselheiro mais idoso.
+
+
+§ 2º
+
+O Presidente do Conselho Municipal de Direitos do Idoso poderá convidar para participar das reuniões ordinárias e extraordinárias membros dos Poderes Executivo, Legislativo e Judiciário, e do Ministério Público, além de pessoas de notória especialização em assuntos de interesse do idoso.
+
+
+Art. 5º.
+
+Cada membro do Conselho Municipal terá direito a um único voto na sessão plenário, excetuando o Presidente que também exercerá o voto de qualidade.
+
+
+Art. 6º.
+
+A função do membro do Conselho Municipal de Direitos do Idoso não será remunerada e seu exercício será considerado de relevante interesse público.
+
+
+Art. 7º.
+
+As entidades não governamentais representadas no Conselho Municipal de Direitos do Idoso perderão essa condição quando ocorrer uma das seguintes situações:
+
+
+I –
+
+extinção de sua base territorial de atuação no Município;
+
+
+II –
+
+irregularidades no seu funcionamento, devidamente comprovadas, que tornem incompatível a sua representação no Conselho; ou
+
+
+III –
+
+aplicação de penalidades administrativas de natureza grave, devidamente comprovadas.
+
+
+Art. 8º.
+
+Perderá o mandato o Conselheiro que:
+
+
+I –
+
+desvincular-se do órgão ou entidade de origem de sua representação;
+
+
+II –
+
+faltar a três reuniões consecutivas ou cinco intercaladas, sem justificativa;
+
+
+III –
+
+apresentar renúncia ao plenário do Conselho, que será lida na sessão seguinte à de sua recepção na Secretaria do Conselho;
+
+
+IV –
+
+apresentar procedimento incompatível com a dignidade das funções; e
+
+
+V –
+
+for condenado em sentença irrecorrível, por crime ou contravenção penal.
+
+
+Art. 9º.
+
+Nos casos de renúncia, impedimento ou falta, os membros do Conselho Municipal dos Direitos do Idoso serão substituídos pelos suplentes, automaticamente, podendo estes exercer os mesmos direitos e deveres dos efetivos.
+
+
+Art. 10.
+
+Os órgãos ou entidades representadas pelos Conselheiros faltosos deverão ser comunicados a partir da segunda falta consecutiva ou da quarta intercalada
+
+
+##### Seção III — Do Funcionamento
+
+
+Art. 11.
+
+O Conselho Municipal de Direitos do Idoso reunir-se-á bimestralmente, em caráter ordinário, e extraordinariamente, por convocação do seu Presidente ou por requerimento da maioria de seus membros.
+
+
+Art. 12.
+
+O Conselho Municipal de Direitos do Idoso instituirá seus atos por meio da resolução aprovada pela maioria de seus membros.
+
+
+Art. 13.
+
+As sessões do Conselho Municipal de Direitos do Idoso serão públicas.
+
+
+Art. 14.
+
+A Secretaria Municipal de Assistência Social proporcionará o apoio técnico-administrativo necessário ao funcionamento do Conselho Municipal de Direitos do Idoso.
+
+
+#### CAPÍTULO II — DO FUNDO MUNICIPAL DE DIREITOS DO IDOSO
+
+
+Art. 15.
+
+Fica criado o Fundo Municipal de Direitos do Idoso, instrumento de captação, repasse e aplicação de recursos destinados a propiciar suporte financeiro para a implantação, manutenção e desenvolvimento de planos, programas, projetos e ações voltadas aos idosos no Município de Cabeceira Grande-MG.
+
+
+Art. 16.
+
+Constituirão receitas do Fundo Municipal de Direitos do Idoso:
+
+
+I –
+
+recursos provenientes de órgãos da União ou do Estado vinculados à Política Nacional do Idoso;
+
+
+II –
+
+transferências do Município;
+
+
+III –
+
+as resultantes de doações do Setor Privado, pessoas físicas ou jurídicas;
+
+
+IV –
+
+rendimentos eventuais, inclusive de aplicações financeiras dos recursos disponíveis; V. as advindas de acordos e convênios; e
+
+
+V –
+
+as advindas de acordos e convênios; e
+
+
+VI –
+
+as provenientes das multas aplicadas com base na Lei nº 10.741, de 1º de outubro de 2003.
+
+
+Art. 17.
+
+O Fundo Municipal ficará vinculado diretamente a Secretaria Municipal de Assistência Social, tendo sua destinação liberada através de projetos, programas e atividades aprovados pelo Conselho Municipal de Direitos do Idoso
+
+
+§ 1º
+
+Será aberta conta bancária específica em instituição financeira oficial, sob a denominação “Fundo Municipal de Direitos do Idoso”, para a movimentação dos recursos financeiros do Fundo, sendo elaborado, mensalmente balancete demonstrativo da receita e da despesa, que deverá ser apresentado ao Conselho Municipal de Direitos do Idoso.
+
+
+§ 2º
+
+A contabilidade do Fundo tem por objetivo evidenciar a sua situação financeira e patrimonial, observados os padrões e normas estabelecidas na legislação pertinente.
+
+
+§ 3º
+
+Caberá ao Poder Executivo Municipal gerir o Fundo Municipal de Direitos do Idoso, sob a orientação e controle do Conselho Municipal de Direitos do Idoso.
+
+
+#### CAPÍTULO III — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 18.
+
+O Conselho Municipal de Direitos do Idoso elaborará o seu regimento interno, no prazo máximo de 90 (noventa) dias a contar da data de sua instalação, o qual será aprovado por ato próprio, devidamente publicado e dada ampla divulgação.
+
+
+Parágrafo único
+
+O regimento interno disporá sobre o funcionamento do Conselho Municipal do Idoso, das atribuições de seus membros, entre outros assuntos.
+
+
+Art. 19.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 20.
+
+Ficam revogadas: I - a Lei Municipal nº 86, de 4 de maio de 2000; e II - a Lei Municipal nº 251, de 22 de junho de 2007.
+
+
+**Cabeceira Grande-MG, 17 de outubro de 2024; 28º da Instalação do Município.**
+
+**ELDSON AMORIM DUARTE**
+
+**Prefeito**
+

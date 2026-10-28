@@ -1,0 +1,51 @@
+---
+titulo: "Lei nº 1.047, de 13 de outubro de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1047"
+data: "2023-10-13"
+municipio: "Bananeiras"
+uf: "PB"
+codigo_ibge: "2501500"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bananeiras.pb.leg.br/norma/1668"
+fonte_texto: "https://sapl.bananeiras.pb.leg.br/ta/119/text"
+sha256_fonte: "34af8a5ae9f0af4c9ea18109af24e3d6dc8743c8008f17906cd81cb6b0c0d448"
+sha256_texto: "42c623a32d66c67efc90407049b987539fa19350ae39bac515e919064c520c23"
+capturado_em_fonte: "2026-10-27T17:07:04.960240-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.047, de 13 de outubro de 2023
+
+Incluir Dia da Apraxia de Fala na Infância (AFI) – no Calendário de Datas Comemorativas e de Conscientização do Município de Bananeiras e dá outras providências.
+
+
+O **PREFEITO DO MUNICÍPIO DE BANANEIRAS, ESTADO DA PARAÍBA**, NO USO DE SUAS ATRIBUIÇÕES LEGAIS, FAÇO SABER QUE O PODER LEGISLATIVO MUNICIPAL APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica incluída o Dia Municipal da Apraxia de Fala na Infância (AFI) no Calendário de Datas Comemorativas e de Conscientização do Município de Bananeiras, a ser comemorado no dia 14 de maio.
+
+
+Art. 2º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Bananeiras, em 13 de
+
+outubro de 2023; 135º da Proclamação da
+
+República.
+
+**MATHEUS DE MELO BEZERRA CAVALCANTI**
+
+Prefeito Constitucional do Município de Bananeiras/PB
+
+Autoria: Lucivânia Barbosa Oliveira da Silva
+

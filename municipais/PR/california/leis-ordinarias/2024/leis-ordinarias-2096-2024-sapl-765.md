@@ -1,0 +1,85 @@
+---
+titulo: "Lei Ordinária Municipal nº 2.096, de 08 de outubro de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "2096"
+data: "2024-10-08"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/765"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/706/text"
+sha256_fonte: "c8e302edbc3006d308c3c6e5dd8f8af488c3bf93c599b2c9a01f28d2c36b04b1"
+sha256_texto: "d5ea62a3f2a63a2e3c44ef9dc89ee5060b74a7f2565e938ff6d56b92108503a8"
+capturado_em_fonte: "2026-10-27T22:19:03.837859-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 2.096, de 08 de outubro de 2024
+
+Autoriza a abertura de crédito adicional especial para criação de novo elemento de despesa no orçamento de 2024 e dá outras providências.
+
+
+A câmara Municipal de Califórnia, Estado do Paraná, aprova e eu, Paulo Wilson Mendes, Prefeito Municipal, sanciono a seguinte LEI
+
+
+Art. 1º.
+
+Esta Lei autoriza o Executivo Municipal a criar no orçamento vigente, Lei nº 2024 de 27 de setembro de 2023, créditos adicionais especiais, na importância de R$ 115.000,00 (cento e quinze mil reais), para inclusão de elementos, conforme segue:
+
+
+**Suplementação**
+
+**06 Secretaria Municipal de Assistência Social, Cidadania - SMASC**
+
+**06.029 Fundo Municipal dos Direitos da Mulher - FMDM**
+
+**06.029.08.244.0010.2.085. Manutenção do Fundo Municipal dos Direitos da Mulher**
+
+3.3.90.30.00.00 1011 MATERIAL DE CONSUMO 57.500,00
+
+3.3.90.39.00.00 1011 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 22.500,00
+
+4.4.90.52.00.00 1011 EQUIPAMENTOS E MATERIAL PERMANENTE 35.000,00
+
+
+Art. 2º.
+
+Para atender o disposto no Artigo 1º desta Lei, serão utilizados recursos no valor de R$45.000,00 (quarenta e cinco mil reais), correspondente a I - Superávit Financeiro, de acordo com o Artigo 43, § 1º, Inciso I, da Lei Federal nº 4.320/64 e o valor de R$ 70.000,00 (setenta mil reais), resultante do II - Excesso de arrecadação, verificado na receita a seguir, de acordo com o Artigo 43, § 1º, Inciso II, da Lei Federal nº 4.320/64:
+
+
+**I – Superávit Financeiro**
+
+**Fonte:**
+
+1011 Apoio e Fortalecimento dos Direitos da Mulher 45.000,00
+
+**II - Excesso de arrecadação**
+
+**Receita:**
+
+1.7.2.9.99.0.1.12.00.00.00.00. Fortalecimento da Rede de Proteção e Enfrentamento às Violências contra as Mulheres 70.000,00
+
+**Soma Total dos Recursos: 115.000,00**
+
+
+Art. 3º.
+
+O crédito previsto no artigo 1° desta Lei, não será computado para fins do limite fixado no artigo 4°, inciso I, da Lei Orçamentária Anual – Lei n° 2024/2023.
+
+
+Art. 4º.
+
+Esta Lei entra em vigor na data de sua publicação, revogando a as disposições em contrário.
+
+
+Edifício da Prefeitura do Município de Califórnia, em 08 de outubro de 2024.
+
+***PAULO WILSON MENDES***
+
+Prefeito Municipal
+

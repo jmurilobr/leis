@@ -1,0 +1,88 @@
+---
+titulo: "Lei Ordinária nº 2.575, de 03 de julho de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2575"
+data: "2014-07-03"
+municipio: "Dores do Indaiá"
+uf: "MG"
+codigo_ibge: "3123205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.doresdoindaia.mg.leg.br/norma/871"
+fonte_texto: "https://sapl.doresdoindaia.mg.leg.br/ta/517/text"
+sha256_fonte: "1d1cfefa5510bfe23241d8403ef3656e859e11eca75bea9588622fb6c58dfac9"
+sha256_texto: "f2144f8094f35a2fae18d2491cc4001bd1b8c9c37c7fc8d10169b8cd7952813b"
+capturado_em_fonte: "2026-10-28T10:15:02.289954-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.575, de 03 de julho de 2014
+
+**TEXTO ORIGINAL EM PDF**
+
+
+“Dispõe sobre implantação do Certificado Amigo do Esporte no Município.
+
+
+A Câmara Municipal de Dores do Indaiá MG, através de seus representantes legais, APROVA, eu Prefeito Municipal sanciono seguinte Lei:
+
+
+Art. 1º.
+
+Fica autorizado Poder Executivo implantar no âmbito do Município de Dores do Indaiá, Certificado Amigo do Esporte para as pessoas físicas jurídicas que participem de iniciativas visando desenvolvimento do esporte no Município.
+
+
+Art. 2º.
+
+Será considerado Amigo do Esporte, pessoa física e/ou jurídica que patrocinar, divulgar, estimular ou colaborar de alguma maneira para apoiar desenvolvimento do esporte no Município de Dores do Indaiá.
+
+
+Art. 3º.
+
+Certificado Amigo do Esporte poderá ser utilizado por pessoas físicas jurídicas em qualquer tipo de peças publicitárias para divulgação do apoio ao esporte.
+
+
+Parágrafo único
+
+O modelo do Certificado Amigo do Esporte será estabelecido pelo Poder Executivo, através da Diretoria competente, por meio de concurso ou outra forma de criação.
+
+
+Art. 4º.
+
+A permissão do uso do Certificado Amigo do Esporte será concedida, após análise do projeto, pela Secretaria Municipal de Esportes, Lazer, Cultura, Eventos Turismo.
+
+
+Parágrafo único
+
+A permissão de uso será válida por um ano, podendo ser renovada, critério da Secretaria Municipal competente.
+
+
+Art. 5º.
+
+A pessoa física ou jurídica interessada em conseguir permissão para uso do Certificado Amigo do Esporte deverá pleiteá-la junto Secretaria Municipal de Esportes, Lazer, Cultura, Eventos Turismo.
+
+
+Art. 6º.
+
+O Poder Executivo fará ampla divulgação, nos meios de comunicação, da criação do Certificado Amigo do Esporte CAE.
+
+
+Art. 7º.
+
+O Poder Executivo regulamentará presente lei, para implantação do Certificado Amigo do Esporte CAE.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Dores do Indaiá, 03 de Julho de 2014
+
+Ronaldo Antônio Zica da Costa
+
+Prefeito Municipal
+

@@ -1,0 +1,76 @@
+---
+titulo: "Decreto-SEMPOG nº 20.030, de 29 de maio de 2024"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "20.030"
+data: "2024-05-29"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/26649"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/6718/text"
+sha256_fonte: "9f791ffc80290c026a8ed9deda6d82dffa8a941e884d9aff55154dadce4874f7"
+sha256_texto: "128184514e63b577e0527f7b6d40a1b8b542f8f505fd0e93b59d5e4cfffbe661"
+capturado_em_fonte: "2026-10-21T04:25:51.318153-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 20.030, de 29 de maio de 2024
+
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Transferência de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei n.º 3.130, de 20 de dezembro de 2023 - Lei Orçamentária Anual - LOA 2024;
+
+Considerando o Ofício n° 105/2024/DA/SMTI/SGG, de 23 de maio de 2024, pelo qual a Superintendência Municipal de Tecnologia de Informação e Pesquisa - SMTI, solicita a movimentação de recursos para cobertura de despesas com o Processo n.º 00600-00038656/2023-21 - manutenção e melhorias dos serviços do e-cidade,
+
+**D E C R E T A**
+
+
+Art. 1º.
+
+Fica alterado o Orçamento Anual do Município de Porto Velho por meio de transferência de recursos orçamentários no valor de R$ 577.968,00 (quinhentos e setenta e sete mil e novecentos e sessenta e oito reais).
+
+
+Art. 2º.
+
+sos entre as categorias econômicas, grupos de despesas, modalidades de aplicações e elementos de despesa, dentro da mesma uidade orçamentária, conforme disposto no inciso o XVII do Artigo 6º da Lei nº 3.094, de 25 de setembro de 2023 – Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><tbody><tr><td colspan="7"><p><strong>02.00 - SECRETARIA GERAL DE GOVERNO - SGG</strong></p></td></tr><tr><td colspan="7"><p><strong>02.81 - SUPERINTENDÊNCIA MUNICIPAL DE TECNOLOGIA DA INFORMAÇÃO E PESQUISA - SMTI</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>REMANEJA R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td rowspan="2"><p>02.81.19.572.356.2.844</p></td><td rowspan="2"><p>Modernizar as Soluções e Ativos de TI</p></td><td rowspan="2"><p>FIS</p></td><td><p>4.4.90.52</p></td><td><p>1.500</p></td><td><p>577.968,00</p></td><td><p>-</p></td></tr><tr><td><p>3.3.90.40</p></td><td><p>1.500</p></td><td><p>-</p></td><td><p>577.968,00</p></td></tr><tr><td><p> </p></td><td colspan="4"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>577.968,00</strong></p></td><td><p><strong>577.968,00</strong></p></td></tr><tr><td><p> </p></td><td colspan="4"><p><strong>TOTAL</strong></p></td><td><p><strong>577.968,00</strong></p></td><td><p><strong>577.968,00</strong></p></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 19.668, de 20 de dezembro de 2023 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 19.669, de 20 de dezembro de 2023.
+
+
+Art. 4º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Art. 5º.
+
+Revogam-se as disposições em contrário.
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***SERGIO LUIZ PACÍFICO***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto
+

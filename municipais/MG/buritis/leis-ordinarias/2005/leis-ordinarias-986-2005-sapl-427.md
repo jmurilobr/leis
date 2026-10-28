@@ -1,0 +1,160 @@
+---
+titulo: "Lei nº 986, de 30 de maio de 2005"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "986"
+data: "2005-05-30"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/427"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/1717/text"
+sha256_fonte: "3984bb8094e60a256f9d643acede5d40934743616389f27124903c3d36eb9aaf"
+sha256_texto: "1cf2de6d75589243754822f8dcabcc6f7a92f35dbe41f7fcfec897bdd249b034"
+capturado_em_fonte: "2026-10-27T20:16:59.000989-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 986, de 30 de maio de 2005
+
+Cria o "Projeto Alimentar" de distribuição de cestas básicas às famílias carentes e dá outras providências.
+
+
+A Câmara Municipal de Buritis, por seus representantes legais aprovou, e eu, em seu nome, sanciono seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o Projeto Alimentar destinado a atender às famílias comprovadamente carentes nas suas necessidades básicas de alimentação.
+
+
+Art. 2º.
+
+Para enquadramento no projeto a família deverá preencher as seguintes condições:
+
+
+I –
+
+residir no Município, no mínimo, há 03 (três) anos consecutivos, contados da data da promulgação desta Lei;
+
+
+II –
+
+ter renda mensal familiar per capita igual ou inferior a R$ 75,00 (setenta e cinco reais).
+
+
+Parágrafo único
+
+Por renda mensal familiar per capita fica entendido o somatório de todos os rendimentos produzidos pela família, dividido pelo número de pessoas que a compõe.
+
+
+Art. 3º.
+
+Será de competência da Secretaria Municipal de Assistência Social a operacionalização e fiscalização do projeto, devendo seguir as seguintes diretrizes no cadastramento das famílias:
+
+
+I –
+
+comprovação de atendimento aos requisitos previstos no artigo anterior;
+
+
+II –
+
+montagem e manutenção de banco de dados das famílias, constando, no mínimo:
+
+
+a)
+
+nome do arrimo da família;
+
+
+b)
+
+endereço;
+
+
+c)
+
+quantidade de pessoas: idade, sexo e grau de instrução;
+
+
+d)
+
+renda familiar;
+
+
+e)
+
+controle das cestas entregues.
+
+
+III –
+
+revisão e atualização periódica das informações constantes do banco de dados criado na forma do inciso anterior;
+
+
+IV –
+
+fiscalização "in loco" para comprovação das informações emitidas pela família;
+
+
+§ 1º
+
+A família beneficiada deverá informar qualquer mudança de endereço e em sua renda familiar, sob pena de exclusão do cadastro de beneficiários do projeto.
+
+
+§ 2º
+
+Fica a Secretaria Municipal de Assistência Social autorizada a baixar normas, supletivas a essa Lei, com o objetivo de melhor operacionalização do projeto.
+
+
+Art. 4º.
+
+As cestas básicas serão entregues mediante recibo com a identificação completa da família beneficiada, obedecendo aos seguintes critérios de classificação:
+
+
+I –
+
+menor renda mensal per capita;
+
+
+II –
+
+maior número de pessoas na família;
+
+
+§ 1º
+
+A classificação das famílias seguirá a ordem dos incisos constantes no caput desse artigo e no caso de empate em todos os critérios será selecionada a família que tiver o maior número crianças com idade de 0 (zero) a 7 (sete) anos.
+
+
+§ 2º
+
+O número de cestas básicas a distribuir, mensalmente, irá depender das disponibilidades financeiras e orçamentárias da Prefeitura.
+
+
+Art. 5º.
+
+O servidor público que concorra para a concessão indevida dos benefícios admitidos por esta Lei responderá civil e criminalmente pelo delito, independentemente de instauração de inquérito administrativo.
+
+
+Art. 6º.
+
+As despesas decorrentes desta Lei constarão, em dotação orçamentária específica, na Lei Orçamentária Anual.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Buritis, 30 de Maio de 2005
+
+**DR. KENY SOARES RODRIGUES PREFEITO MUNICIPAL**
+
+Projeto de Lei 025/2005 de autoria do Vereador Edílson Lopes Santana aprovado em 24/05/2005 e sancionado em 30/05/2005 sem emendas.
+

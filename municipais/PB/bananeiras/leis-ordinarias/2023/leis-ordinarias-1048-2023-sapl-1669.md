@@ -1,0 +1,101 @@
+---
+titulo: "Lei nº 1.048, de 13 de outubro de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1048"
+data: "2023-10-13"
+municipio: "Bananeiras"
+uf: "PB"
+codigo_ibge: "2501500"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bananeiras.pb.leg.br/norma/1669"
+fonte_texto: "https://sapl.bananeiras.pb.leg.br/ta/118/text"
+sha256_fonte: "5cc93a0f576a98bad3eb89d84891216ba78ea3fa63a5f3ae12b065198d468ef0"
+sha256_texto: "25a3b99a14c37e575a005908a123c5824c72a29061b436555d8a4e1db16bca53"
+capturado_em_fonte: "2026-10-27T17:07:03.196832-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.048, de 13 de outubro de 2023
+
+Regulamenta o uso de quadriciclos e UTVs no município de BananeirasPB, para fins de atividade de turismo, de interesse de lazer e dá outras providências.
+
+
+O **PREFEITO DO MUNICÍPIO DE BANANEIRAS, ESTADO DA PARAÍBA,** NO USO DE SUAS ATRIBUIÇÕES LEGAIS, FAÇO SABER QUE O PODER LEGISLATIVO MUNICIPAL APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica regulamentado o uso de quadriciclos/UTVs no município de BananeirasPB, os quais serão definidos como veículos terrestres de quatro rodas de uso recreativo, profissional e não profissional.
+
+
+Parágrafo único
+
+Para fins de passeio turístico, o passeio turístico deve ser, quando executada por empresa, em quadriciclos/UTVs guiados por condutor e com limitador de velocidade.
+
+
+Art. 2º.
+
+Para a condução de quadriciclos/UTVs no município, o condutor deverá possuir Carteira Nacional de Habilitação (CNH) dentro da categoria B ou superior e estar devidamente habilitado pelo órgão de trânsito competente.
+
+
+Art. 3º.
+
+Os quadriciclos só poderão trafegar em vias públicas urbanas que permitam o trânsito de veículos de pequeno porte e com velocidade máxima de 25km/h.
+
+
+Parágrafo único
+
+Fica estabelecida que na Zona de Área Central (ZAC), trecho que liga o Centro ao Conjunto Major Augusto Bezerra, passagem pelo Paraverum, os UTVs não podem circular.
+
+
+Art. 4º.
+
+Os quadriciclos vinculados às empresas só poderão trafegar devidamente identificados com a logo da empresa e a respectiva numeração.
+
+
+Art. 5º.
+
+A empresa que exercer atividade comercial com uso de quadriciclos/UTVs para fins de atividade turística na cidade deverá manter inscrição mercantil municipal, com CNPJ sede no município e Cadastur.
+
+
+Art. 6º.
+
+O uso de capacete é obrigatório para o condutor e passageiro do quadriciclos/UTVs, sendo vedada a condução sem este equipamento de segurança.
+
+
+Art. 7º.
+
+A circulação de quadriciclos/UTVs em calçadas, praças, parques e áreas de pedestres é proibida, salvo em casos de eventos específicos previamente autorizados pelo órgão de trânsito competente.
+
+
+Art. 8º.
+
+A utilização de quadriciclos/UTVs em áreas públicas de preservação ambiental e atividades de turismo de aventura deverá ser previamente autorizada pelos órgãos responsáveis.
+
+
+Art. 9º.
+
+A utilização de quadriciclos/UTVs em áreas públicas de preservação ambiental e atividades de turismo de aventura deverá ser previamente autorizada pelos órgãos responsáveis.
+
+
+Art. 10.
+
+Esta lei entra em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Bananeiras, em 13 de
+
+outubro de 2023; 135º da Proclamação da
+
+República.
+
+**MATHEUS DE MELO BEZERRA CAVALCANTI**
+
+Prefeito Constitucional do Município de Bananeiras/PB
+
+Autoria: Bancada de Situação
+

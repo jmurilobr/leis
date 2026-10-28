@@ -1,0 +1,137 @@
+---
+titulo: "Lei nº 2.128, de 17 de fevereiro de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2128"
+data: "2014-02-17"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/1078"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/669/text"
+sha256_fonte: "b29587b05563089977bd93b96fa36a0048100bd13c9a19ad14c81004d5b346cd"
+sha256_texto: "b8821264e58ed507a2c60c169af93ce6c25e6dd2f4633805097882c8f70dae93"
+capturado_em_fonte: "2026-10-27T21:00:50.946670-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 2.128, de 17 de fevereiro de 2014
+
+“Dispõe Sobre a Aplicação de Penalidades no Trânsito e dá Outras Providências”
+
+
+**O PRESIDENTE DA CÂMARA MUNICIPAL DE PORTO VELHO**, Vereador **ALAN KUELSON QUEIROZ FEDER**, no uso das atribuições que lhe confere os §§ 4º e 6º, do artigo 72 da Lei Orgânica do Município, combinado com os §§ 4º e 6º, do art. 165 da Resolução nº. 254/CMPV-91 - REGIMENTO INTERNO, PROMULGA a seguinte  
+  
+**LEI**:
+
+
+Art. 1º.
+
+O Poder Executivo deverá impor a pena de advertência por escrito nas infrações de trânsito, de natureza leve ou média, não sendo reincidente o infrator, na mesma infração, nos últimos doze meses.
+
+
+Art. 2º.
+
+O Poder Executivo não poderá lavrar o auto de infração de trânsito, com intuito de penalizar em pecúnia, quando houver a superveniência de fato novo mudando as regras no trânsito local, durante os primeiros 90 (noventa) dias, de sua vigência.
+
+
+Art. 3º.
+
+O disposto nessa Lei independe da situação de flagrante.
+
+
+Art. 4º.
+
+As multas aplicadas em desacordo com esta Lei, deverão, a requerimento da parte, ser substituídas por advertência por escrito.
+
+
+§ 1º
+
+O requerimento deverá ser integralmente gratuito e protocolado dentro do prazo de 60(sessenta) dias, a contar do recebimento da notificação.
+
+
+§ 2º
+
+As multas aplicadas antes da vigência dessa Lei somente retroagirão se for para beneficiar o infrator, a contar do dia 1º de janeiro do vigente ano.
+
+
+Art. 5º.
+
+Para efeitos desta Lei entende-se por:
+
+
+I –
+
+trânsito: é a circulação de qualquer natureza nas vias terrestres do município de Porto Velho.
+
+
+II –
+
+fato novo: são as leis, decretos, atos administrativos e demais situações que tragam mudanças no comportamento do condutor e nas regras do trânsito local, durante aos primeiros 90 (noventa) dias de sua vigência.
+
+
+Art. 6º.
+
+O Poder Executivo fica obrigado:
+
+
+I –
+
+a disponibilizar na sua página virtual link específico para o preenchimento e protocolo de recursos administrativos e denúncias.
+
+
+II –
+
+a imprimir no verso dos autos, campanhas educativas, expondo frases, fotos e informações sobre o recurso administrativo, em fonte não inferior ao tamanho 12 (doze).
+
+
+III –
+
+a realizar no mínimo 02 (duas) vezes no ano, ações itinerantes nos Distritos, com objetivo único e exclusivo de promover a educação no trânsito.
+
+
+IV –
+
+a divulgar anualmente e amplamente na mídia local, o valor total arrecadado com multas no trânsito e sua destinação, devendo-se remeter cópia do mesmo a Câmara Municipal.
+
+
+Art. 7º.
+
+Na interpretação desta Lei levar-se-ão em conta os fins sociais a que ela se dirige, as exigências do bem comum, os direitos e deveres individuais e coletivos envolvidos, bem como as peculiaridades locais.
+
+
+Art. 8º.
+
+A Secretaria Municipal de Transporte e Trânsito – SEMTRAN, fica responsável pela execução e fiscalização da presente Lei.
+
+
+Art. 9º.
+
+As despesas decorrentes da execução desta lei correrão à conta das dotações orçamentárias próprias do órgão competente do Poder Executivo Municipal, sendo suplementadas, se necessário.
+
+
+Art. 10.
+
+O Poder Executivo Municipal regulamentará esta Lei no prazo de 60(sessenta) dias da sua publicação.
+
+
+Art. 11.
+
+Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+Câmara Municipal de Porto Velho, 17 de fevereiro de 2014.  
+  
+  
+**Vereador ALAN QUEIROZ Presidente**  
+  
+  
+  
+  
+Projeto de Lei nº. 2.973/2013,  
+Ver. Edmo Ferreira- DIM DIM.
+

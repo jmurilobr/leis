@@ -1,0 +1,51 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 4: admite somente tabelas nativas com prova independente de células, ordem e mesclagens. Mantém todos os demais gates. Também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 1289,
+  "aprovados_nestes_gates": 910,
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/tabelas-gates-0003/sapl.agudo.rs.leg.br.prefixo.jsonl",
+      "sha256": "1091039b5201496d9a3f85616ae64cf4c2ad9b0593ab209b1dfd5f15f6f25c7b",
+      "bytes": 2951
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/tabelas-gates-0003/sapl.agudo.rs.leg.br.tipos.json",
+      "url": "https://sapl.agudo.rs.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "b057e0780b8e70fb396b5b733022f17c7a2a434f848534ea30a256ec8653882d"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/tabelas-gates-0003/sapl.agudo.rs.leg.br.anexos.json",
+      "sha256": "0bb5a98fd2ba2cec0c0675f55f0d9bc26f1fd2b89e7dc9bb616f83cb6004aa7d"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/tabelas-gates-0003/sapl.amontada.ce.leg.br.prefixo.jsonl",
+      "sha256": "2cfd357cf3e298ddb4ffbb7ca8387164f9dcae0161b6f5e31817c6aef514a12c",
+      "bytes": 55604
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/tabelas-gates-0003/sapl.amontada.ce.leg.br.tipos.json",
+      "url": "https://sapl.amontada.ce.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "4769e996a4cfdc2946b5c0f02b3621e95e8cbdf9a0a0c35c77252a3a8cd05490"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/tabelas-gates-0003/sapl.amontada.ce.leg.br.anexos.json",
+      "sha256": "e33c36b1aae5e0af16e6623654340c826323bf3bc0266b476b7e48e51366bcee"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/tabelas-gates-0003/sapl.portovelho.ro.leg.br.prefixo.jsonl",
+      "sha256": "0e6552473623abc04c6365b8e9b9d118406e7324b3aa0a5353172d8d153f69ba",
+      "bytes": 4204973
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/tabelas-gates-0003/sapl.portovelho.ro.leg.br.tipos.json",
+      "url": "https://sapl.portovelho.ro.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "d805dad9f0a5409f538b93c34b0e6ac8cef59bbbfcf7f2584f6ff348d7119eda"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/tabelas-gates-0003/sapl.portovelho.ro.leg.br.anexos.json",
+      "sha256": "b5c1a05dee20c699cc22665af9744c1d4a3cc61dcaa439c2d6310054218149a6"
+    }
+  ],
+  "script_sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

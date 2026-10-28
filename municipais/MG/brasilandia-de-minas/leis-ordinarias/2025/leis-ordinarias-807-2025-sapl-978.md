@@ -1,0 +1,93 @@
+---
+titulo: "Lei Ordinária nº 807, de 18 de março de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "807"
+data: "2025-03-18"
+municipio: "Brasilândia de Minas"
+uf: "MG"
+codigo_ibge: "3108552"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.brasilandiademinas.mg.leg.br/norma/978"
+fonte_texto: "https://sapl.brasilandiademinas.mg.leg.br/ta/985/text"
+sha256_fonte: "253fa9eab23dcb6fe063d5dc32b1f7891e35aa1a6b2d024a2d465c04cd6ca236"
+sha256_texto: "d1bbb217041557f784e46379ca7bd55f4968ec011f0d4bf14f26378ca01b9ab9"
+capturado_em_fonte: "2026-10-27T19:36:49.689526-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 807, de 18 de março de 2025
+
+AUTORIZA O PODER EXECUTIVO MUNICIPAL A REPASSAR ASSISTÊNCIA A PARCELA ADICIONAL DE FINANCEIRA COMPLEMENTAR AOS AGENTES COMUNITÁRIOS DE SAÚDE (ACS), PREVISTO NA PORTARIA GM/MS Nº 3.061, DE 17 DE JANEIRO DE 2024, PORTARIA GM/MS Nº 3.162, DE 20 DE FEVEREIRO DE 2024, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O PREFEITO DO MUNICÍPIO DE BRASILÂNDIA DE MINAS, Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 86, inciso VII, da Lei Orgânica, faz saber que a Câmara Municipal decreta e ele, em seu nome, sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado, por meio desta Lei, o repasse do Incentivo Financeiro Adicional aos ocupantes dos cargos de AGENTES COMUNITÁRIOS DE SAÚDE (ACS), o qual se regerá pelo contido nos artigos seguintes.
+
+
+Parágrafo único
+
+Farão jus ao Incentivo Financeiro Adicional previsto no caput deste artigo todos os profissionais que se encontrem registrados junto ao Fundo Nacional de Saúde (FNS).
+
+
+Art. 2º.
+
+O montante do incentivo será advindo do valor recebido do Governo Federal Ministério da Saúde destinado para essa finalidade em específico, conforme o contido na Portaria nº 3.061, de 17 de janeiro de 2024, PORTARIA GM/Ms Nº 3.162, DE 20 DE FEVEREIRO DE 2024 e suas alterações posteriores.
+
+
+Parágrafo único
+
+A ausência de repasse dos valores referentes ao incentivo financeiro aos Agente de Saúde por parte do Governo Federal/Ministério da Saúde ao Município, por meio do Fundo Nacional de Saúde é causa impeditiva ao repasse do incentivo aos profissionais correspondentes.
+
+
+Art. 3º.
+
+O incentivo financeiro adicional a que se refere esta lei será pago em parcela única, porém, ficando vinculado ao repasse dos recursos pelo Governo Federal/Ministério da Saúde,
+
+
+§ 1º
+
+Os Agentes de Saúde que estiverem em Licença Prêmio, ocupando cargo Comissionado, desviado de função ou afastado, exceto se o afastamento for por motivo de doença, Licença Maternidade, acidente de trabalho ou gozo de férias, receberão o incentivo de que trata esta lei na proporcionalidade, ou seja, terão descontados os meses que estiverem ausentes de sua atividade laboral.
+
+
+§ 3º
+
+O Incentivo Financeiro Adicional somente será pago enquanto perdurar o repasse realizado pelo Governo Federal para este fim em específico, cessando a obrigação da Municipalidade em caso de término ou suspensão dos respectivos repasses pelo Governo Federal/Ministério da Saúde.
+
+
+Art. 4º.
+
+Por não ter natureza salarial, não haverá incidência de quaisquer encargos sociais, previdenciários e fundiários sobre o valor do Incentivo Financeiro Adicional de que trata esta lei.
+
+
+Art. 5º.
+
+O valor repassado por meio da presente Lei não tem natureza salarial e não se incorpora à remuneração dos Agentes de Saúde, não servindo de base de cálculo para o recebimento de qualquer outra vantagem funcional.
+
+
+Art. 6º.
+
+As despesas decorrentes da execução desta Lei correrão por conta dos orçamentos vigentes de cada exercício financeiro em que a parcela for efetivamente paga.
+
+
+Art. 7º.
+
+No que for necessário esta lei poderá ser regulamentada por ato do chefe do Poder Executivo via decreto.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Brasilândia de Minas - MG, 18 de março de 2025.
+
+**OSÉIAS CARDOSO QUEIROZ Prefeito Municipal.**
+

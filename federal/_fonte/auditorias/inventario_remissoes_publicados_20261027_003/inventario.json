@@ -1,0 +1,887 @@
+{
+  "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+  "faixa_primaria_solicitada": {
+    "anos": [
+      1936,
+      1937,
+      1938
+    ],
+    "blobs_HEAD": 0
+  },
+  "extensao_contextual": "Publicados 1939–1945, descontadas máscaras HEAD e recuperações/fac-símiles; nenhuma rede.",
+  "resumo": {
+    "blobs_por_ano": {
+      "1936": 0,
+      "1937": 0,
+      "1938": 0,
+      "1939": 249,
+      "1940": 664,
+      "1941": 1386,
+      "1942": 2325,
+      "1943": 2916,
+      "1944": 2770,
+      "1945": 2568
+    },
+    "lidos_sem_mascara": 12835,
+    "recuperados_excluidos": 3,
+    "alertas_para_revisao": 26,
+    "mascaras_aplicadas": 0
+  },
+  "snapshot_tree_SHA256": "ade958d3e7735fce310d0d8b40faeaad0ee41386869cd7c8464e43f7ce27ef0f",
+  "snapshot_registro_SHA256": "bbc2e8bf7090c1fc8c64bff9a110f545198016818749ab24d24d34e2c08e7f54",
+  "registros": [
+    {
+      "path": "federal/decretos/1939/dec-4987-1939-12-08.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "ae515dd9ca4b22b442714f647c4fbe15d5c00558",
+      "sha256_MD_HEAD_real": "edad955d9226626ea9b6ab7c90369102c608e36583bfc2dc6e32fc8123f22a4d",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        "ção de 10 de novembro de 1937, e no uso das atribuições que esta lhe confere :\n\nResolve aprovar e mandar executar o novo Regulamento Disciplinar para a Armada, que a este acompanha, assinado pelo Vice- Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha.\n\nRio de Janeiro, 8 de dezembro de 1939, 118º da Independência e 51º da Repúb"
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 4.987 de 08/12/1939\n\nDECRETO N. 4.987 – DE 8 DE DEZEMBRO DE 1939\n\nAprova e manda executar o novo Regulamento Disciplinar para a Armada\n\nO Presidente da República, atendendo à necessidade de harmonizar o Regulamento Disciplinar para a Armada, aprovado pelo Decreto n. 15.961, de 16 de fevereiro de 1923, com os dispositivos da Constituição de 10 de novembro de 1937, e no uso das atribuições que esta lhe confere :\n\nResolve aprovar e mandar executar o novo Regulamento Disciplinar para a Armada, que a este acompanha, assinado pelo Vice- Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha.\n\nRio de Janeiro, 8 de dezembro de 1939, 118º da Independência e 51º da República.\n\nGetulio Vargas\n\nHenrique A. Guilhem\n\nRegulamento Disciplinar para a Armada, de que trata o Decreto n. 4.987, de 8 de dezembro de 1939\n\n TÍTULO I — Das contravenções e das penas disciplinares\n\n CAPÍTULO I — DEFINIÇÃO E ESPECIFICAÇÃO DAS CONTRAVENÇÕES\n",
+      "contextos": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "Resolve aprovar e mandar executar o novo Regulamento Disciplinar para a Armada, que a este acompanha, assinado pelo Vice- Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha."
+        },
+        {
+          "bloco_indice": 246,
+          "literal_integral": "Parágrafo único. O acusado poderá indicar um oficial para acompanhar o processo, orientando sua defesa."
+        },
+        {
+          "bloco_indice": 247,
+          "literal_integral": "Art. 46. Concluídas as formalidades do artigo anterior, o Conselho proferirá sua decisão, por maioria de votos, que será assinada por todos os juizes e pelo oficial que houver acompanhado o processo."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1939/dec-4987-1939-12-08.html.gz",
+        "sha256_HTML": "3891498ffeb489075cd9fc59b52c74e39890a0f39e3eea2101c63264e5d8f766",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1939/dec-5028-1939-12-15.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "58b25b09651821ce38d31fba503047446685ba1e",
+      "sha256_MD_HEAD_real": "ad475f335c0878e269e8f1a0639f300814f90b4b750dc1d2a1af9a1c07cea814",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        "ibuições que lhe confere a letra – a – do art. 74 da Constituição, resolve aprovar e mandar executar, para o Laboratório Farmacêutico Naval, o novo Regulamento que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha.\n\nRio de Janeiro, 15º de dezembro de 1939, 118º da Independência e 51º da Repú"
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 5.028 de 15/12/1939\n\nDECRETO N. 5.028 – DE 15 DE DEZEMBRO DE 1939\n\nAprova e manda executar novo Regulamento para o Laboratório Farmacêutico Naval.\n\nO Presidente da república, usando das atribuições que lhe confere a letra – a – do art. 74 da Constituição, resolve aprovar e mandar executar, para o Laboratório Farmacêutico Naval, o novo Regulamento que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha.\n\nRio de Janeiro, 15º de dezembro de 1939, 118º da Independência e 51º da República.\n\nGETULIO VARGAS.\n\nHenrique A. Guilhem.\n\nRegulamento para o Laboratório Farmacêutico Naval, a que se refere o Decreto n. 5.028, de 15 de dezembro de 1939\n\n CAPÍTULO I — DA ORGANIZAÇÃO\n",
+      "contextos": [
+        {
+          "bloco_indice": 3,
+          "literal_integral": "O Presidente da república, usando das atribuições que lhe confere a letra – a – do art. 74 da Constituição, resolve aprovar e mandar executar, para o Laboratório Farmacêutico Naval, o novo Regulamento que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1939/dec-5028-1939-12-15.html.gz",
+        "sha256_HTML": "4aea29086bd00a04256ce48325e2982f270928d2d78f32a5cb6730b68450fa0f",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1939/dec-5051-1939-12-22.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "41a7fdf89c21daf288f480b45ba78663fcabb897",
+      "sha256_MD_HEAD_real": "ea60f237d604375fe08419a2f6d72718516d35a69a77fb0e84cee99a8a1966a1",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        "solve aprovar e mandar executar para a Escola de Marinha Mercante do Rio de Janeiro, criada pelo Decreto-lei n. 1.766, de 10 de novembro de 1939, o Regulamento que a este acompanha, assinado pelo Vice Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha.\n\nRio de Janeiro, 22 de dezembro de 1939, 118º da Independência e 51º da Repúb"
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 5.051 de 22/12/1939\n\nDECRETO N. 5.051 – DE 22 DE DEZEMBRO DE 1939\n\nAprova e manda executar o regulamemto para a Escola de Marinha Mercante do Rio de Janeiro.\n\nO Presidente da República, usando da faculdade que lhe confere a letra “a” do art. 74 da Constituição:\n\nResolve aprovar e mandar executar para a Escola de Marinha Mercante do Rio de Janeiro, criada pelo Decreto-lei n. 1.766, de 10 de novembro de 1939, o Regulamento que a este acompanha, assinado pelo Vice Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha.\n\nRio de Janeiro, 22 de dezembro de 1939, 118º da Independência e 51º da República.\n\nGetulio Vargas.\n\nHenrique A. Guilhem.\n\nRegulamento para a Escola da Marinha Mercante, de que trata o Decreto n. 5.051, de 22 de dezembro de 1939\n\n CAPÍTULO I — DA ESCOLA E SEUS FINS\n",
+      "contextos": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "Resolve aprovar e mandar executar para a Escola de Marinha Mercante do Rio de Janeiro, criada pelo Decreto-lei n. 1.766, de 10 de novembro de 1939, o Regulamento que a este acompanha, assinado pelo Vice Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha."
+        },
+        {
+          "bloco_indice": 168,
+          "literal_integral": "a) para 2º Piloto – uma derrota estimada completa, acompanhada dos respectivos cálculos;"
+        },
+        {
+          "bloco_indice": 170,
+          "literal_integral": "c) para Capitães de Longo Curso – uma derrota completa de viagem de longo curso acompanhada do Diário de Cronômetros."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1939/dec-5051-1939-12-22.html.gz",
+        "sha256_HTML": "4f59d976de923e4e454a4f7d3f17f27402830d4e21fae99084e587ac54b079b8",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1940/dec-5131-1940-01-15.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "0bd54bde0d7a08d292a5b245ac8302917c0afe00",
+      "sha256_MD_HEAD_real": "6f1d5ac52b52d5d2e41a0d4b0dffde27e72e008bc14bfd151b11c125469552be",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        "ando das atribuições que lhe confere o art. 74, letra a, da Constituição, resolve aprovar o Regulamento para o Centro de Instrução de Motorização e Mecanização que com este baixa, assinado pelo general de divisão Eurico Gaspar Dutra, Ministro de Estado da Guerra.\n\nRio de janeiro, 15 de janeiro de 1940, 119º da Independência e 52º da República.\n\nGETULIO VAR"
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 5.131 de 15/01/1940\n\nDECRETO N. 5.131 – DE 15 DE JANEIRO DE 1940\n\nAprova o Regulamento para o Centro de Instrução de Motorização e Mecanização\n\nO Presidente da República, usando das atribuições que lhe confere o art. 74, letra a, da Constituição, resolve aprovar o Regulamento para o Centro de Instrução de Motorização e Mecanização que com este baixa, assinado pelo general de divisão Eurico Gaspar Dutra, Ministro de Estado da Guerra.\n\nRio de janeiro, 15 de janeiro de 1940, 119º da Independência e 52º da República.\n\nGETULIO VARGAS.\n\nEurico G. Dutra.\n\nRegulamento para o Centro de Instrução de Motorização e Mecanização\n\n Parte I\n\n TÍTULO I — Do Centro de Instrução de Motorização e Mecanização\n\nCAPÍTULO ÚNICO\n\nFINS E SEDE\n",
+      "contextos": [
+        {
+          "bloco_indice": 3,
+          "literal_integral": "O Presidente da República, usando das atribuições que lhe confere o art. 74, letra a, da Constituição, resolve aprovar o Regulamento para o Centro de Instrução de Motorização e Mecanização que com este baixa, assinado pelo general de divisão Eurico Gaspar Dutra, Ministro de Estado da Guerra."
+        },
+        {
+          "bloco_indice": 152,
+          "literal_integral": "f) devem dar-se no ensino todas as oportunidades para a observação. Nas diversas matérias certas aulas serão substituidas por excursões às grandes organizações industriais e de transporte. As excursões serão precedidas de aulas especiais em que o instrutor ou instrutores interessados farão descrição minuciosa da sua finalidade e fornecerão aos alunos todos os dados que lhes permitam formar idéia clara do que devem observar. Conforme sua importância os alunos apresentarão, uma semana após a excursão, um relatório do que hajam observado, fazendo-o acompanhar, sempre que possivel, de fotografias, diagramas e outros documentos ilustrativos;"
+        },
+        {
+          "bloco_indice": 163,
+          "literal_integral": "Tanto quanto possivel, durante os estágios os alunos ficarão subordinados ao regime normal dos trabalhos das oficinas e serão acompanhados pelos instrutores;"
+        },
+        {
+          "bloco_indice": 343,
+          "literal_integral": "e) terminado o prazo marcado para a solução das questões propostas, todas as provas serão recolhidas e fechadas em sobrecartas, fazendo-as acompanhar de um relatório sucinto da comissão, sobre os trabalhos efetuados, presença ou ausência dos candidatos;"
+        },
+        {
+          "bloco_indice": 361,
+          "literal_integral": "d) acompanhar o funcionamento dos serviços técnicos e administrativos, no sentido de verificar se a legislação é cumprida com exatidão;"
+        },
+        {
+          "bloco_indice": 466,
+          "literal_integral": "Art. 86. O Sub-diretor do Ensino, os instrutores e os auxiliares de instrutores só poderão ser designados para qualquer comissão ou incumbência estranha, depois de decorrido o tempo necessário para acompanhar, do princípio ao fim do ano escolar, uma turma de alunos."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1940/dec-5131-1940-01-15.html.gz",
+        "sha256_HTML": "8568dffe908276b37cd08117c8bd4505612ef067d29f0f57f10cca2def147575",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1940/dec-5132-1940-01-15.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "bc3dbb095d6c043a6829726e1a717b1b95ded896",
+      "sha256_MD_HEAD_real": "b997c300f173a816113c122591f871ad7c120bbb534760cfb12b5b946850f310",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        "epública, usando das atribuições que lhe confere o art. 74, letra a, da Constituição, resolve aprovar o Regulamento do Centro de Instrução de Defesa Anti-Aérea que com este baixa assinado pelo general de Divisão Eurico Gaspar Dutra, ministro de Estado da Guerra.\n\nRio de Janeiro, 15 de janeiro de 1940, 119º da Independência e 52º da República.\n\nGETULIO VARG"
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 5.132 de 15/01/1940\n\nDECRETO N. 5.132 – DE 15 DE JANEIRO DE 1940\n\nAprova o Regulamento do Centro de Instrução de Defesa Anti-Aérea\n\nO Presidente da República, usando das atribuições que lhe confere o art. 74, letra a, da Constituição, resolve aprovar o Regulamento do Centro de Instrução de Defesa Anti-Aérea que com este baixa assinado pelo general de Divisão Eurico Gaspar Dutra, ministro de Estado da Guerra.\n\nRio de Janeiro, 15 de janeiro de 1940, 119º da Independência e 52º da República.\n\nGETULIO VARGAS.\n\nEurico G. Dutra.\n\nRegulamento do Centro de Instrução e Defesa Anti-Aérea\n\n Parte I — TITULO I\n\nDo Centro de Instrução de Defesa Anti-Aérea\n\nCAPÍTULO ÚNICO\n\nFINS E SEDE\n",
+      "contextos": [
+        {
+          "bloco_indice": 3,
+          "literal_integral": "O Presidente da República, usando das atribuições que lhe confere o art. 74, letra a, da Constituição, resolve aprovar o Regulamento do Centro de Instrução de Defesa Anti-Aérea que com este baixa assinado pelo general de Divisão Eurico Gaspar Dutra, ministro de Estado da Guerra."
+        },
+        {
+          "bloco_indice": 83,
+          "literal_integral": "Art. 8º O ensino será ministrado de modo a proporcionar aos alunos dos diferentes cursos os conhecimentos atuais sobre defesa anti-aérea, levando-se em consideração o âmbito em que deverão atuar e permitindo-lhes acompanhar a evolução dos meios de ação."
+        },
+        {
+          "bloco_indice": 305,
+          "literal_integral": "e) terminado o prazo marcado para a solução das questões propostas, todas as provas serão recolhidas, e fechadas em sobrecarta, fazendo-as acompanhar de um relatório sucinto da comissão sobre os trabalhos efetuados, presença e ausência dos candidatos;"
+        },
+        {
+          "bloco_indice": 326,
+          "literal_integral": "e) acompanhar o funcionamento dos serviços técnicos e administrativos, no sentido de verificar se a legislação é cumprida com exatidão;"
+        },
+        {
+          "bloco_indice": 394,
+          "literal_integral": "g) propor e dirigir, nas épocas oportunas, todos os exercícios de conjunto, designando, quando necessário, os instrutores que os deverão acompanhar e neles colaborar; os principios ou métodos que devem ser empregados, sempre que possivel, em uma situação presumida ou criada mas semelhante às condições reais da guerra;"
+        },
+        {
+          "bloco_indice": 444,
+          "literal_integral": "Art. 96. O Sub-diretor do Ensino, os instrutores-chefes, os instrutores e os auxiliares de instrutor só poderão ser designados para qualquer comissão ou incumbência estranha, depois de decorrido o tempo necessário para acompanhar, do princípio ao fim do ano escolar, uma turma de alunos."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1940/dec-5132-1940-01-15.html.gz",
+        "sha256_HTML": "fc520d218492534fbef88db47c8f52310708a26d2df40dad2fff5032cbcfcca7",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1940/dec-5844-1940-06-21.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "cc63f1f45e9b6e218199bc459dbc7ac55dd24e55",
+      "sha256_MD_HEAD_real": "cfa5385473e2533f8303aa65e25d71b8d73b6e5c3c591bd3b1f15fd511ff4540",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        "ública, na forma do que estatue a letra a), art. 74, da Constituição, resolve aprovar e mandar executar o Regulamento para o Laboratório de Provas de Material, que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha.\n\nRio de Janeiro, 21 de junho de 1940, 119º da Independência e 52º da Repúblic"
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 5.844 de 21/06/1940\n\nDECRETO N. 5.844 – DE 21 DE JUNHO DE 1940\n\nAprova e manda executar o Regulamento para o Laboratório de Provas de Material\n\nO Presidente da República, na forma do que estatue a letra a), art. 74, da Constituição, resolve aprovar e mandar executar o Regulamento para o Laboratório de Provas de Material, que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha.\n\nRio de Janeiro, 21 de junho de 1940, 119º da Independência e 52º da República.\n\nGetulio Vargas.\n\nHenrique A. Guilhem.\n\nRegulamento para o Laboratório de Provas de Material, a que se refere o Decreto n. 5.844, de 21 de junho de 1940\n\n CAPÍTULO I — DA ORGANIZAÇÃO\n",
+      "contextos": [
+        {
+          "bloco_indice": 3,
+          "literal_integral": "O Presidente da República, na forma do que estatue a letra a), art. 74, da Constituição, resolve aprovar e mandar executar o Regulamento para o Laboratório de Provas de Material, que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1940/dec-5844-1940-06-21.html.gz",
+        "sha256_HTML": "9c53ffbcde63882f8d80e2f2c0fe39a87844716332d61b001547c13bf50d64a2",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1940/dec-5845-1940-06-21.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "ee582f07db9d844d478fae479f0140bfdc479d53",
+      "sha256_MD_HEAD_real": "6a62e21cc45d47f012ba3947d476cfeddc43ef213a9940144f3d0277859ddcac",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        "na forma do que estatue o art. 74, letra a, da Constituição, resolve aprovar e mandar executar o Regulamento para o Departamento de Educação Física da Marinha, que a este acompanha, assinado pelo vice-almirante Henrique Aristides Guilhem, ministro de Estado dos Negócios da Marinha.\n\nRio de Janeiro, 21 de junho de 1940, 119º da Independência e 52º da Repúblic"
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 5.845 de 21/06/1940\n\nDECRETO N. 5.845 – DE 21 DE JUNHO DE 1940\n\nAprova e manda executar o Regulamento para o Departamento de Educação Física da Marinha\n\nO Presidente da República, na forma do que estatue o art. 74, letra a, da Constituição, resolve aprovar e mandar executar o Regulamento para o Departamento de Educação Física da Marinha, que a este acompanha, assinado pelo vice-almirante Henrique Aristides Guilhem, ministro de Estado dos Negócios da Marinha.\n\nRio de Janeiro, 21 de junho de 1940, 119º da Independência e 52º da República.\n\nGetulio Vargas.\n\nHenrique A. Guilhem.\n\nRegulamento para o Departamento de Educação Física da Marinha, a que se refere o Decreto n. 5.845, de 21 de junho de 1940\n\n CAPÍTULO I — DO DEPARTAMENTO E SEUS FINS\n",
+      "contextos": [
+        {
+          "bloco_indice": 3,
+          "literal_integral": "O Presidente da República, na forma do que estatue o art. 74, letra a, da Constituição, resolve aprovar e mandar executar o Regulamento para o Departamento de Educação Física da Marinha, que a este acompanha, assinado pelo vice-almirante Henrique Aristides Guilhem, ministro de Estado dos Negócios da Marinha."
+        },
+        {
+          "bloco_indice": 73,
+          "literal_integral": "Art. 25. Tais fichas deverão acompanhar as cadernetas sanitárias dos praticantes de esportes na Marinha."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1940/dec-5845-1940-06-21.html.gz",
+        "sha256_HTML": "dfed0c2b76715185eedacc2008fc7369097769ad14a73ce125c35d5d7b3143d5",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1940/dec-5895-1940-06-28.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "4d1cbba9a41db878f1fe73866868c11dc250211c",
+      "sha256_MD_HEAD_real": "f517ae3bdf92f6e522d084b3e135ca1393c1950611a029736e754d2c427743d8",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        "rma do que estatuto a letra a, art. 74, da Constituição, resolve aprovar e mandar executar o regulamento para o Quadro de Oficiais Auxiliares da Aviação Naval, que a este acompanha, assinado pelo vice-almirante Henrique Aristides Guilhem, ministro de Estado dos Negócios da Marinha.\n\nRio de Janeiro, 28 de junho de 1940, 119º da Independência e 52º da Repúblic"
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 5.895 de 28/06/1940\n\nDECRETO N. 5.895 – DE 28 DE JUNHO DE 1940\n\nAprova e manda executar o regulamento para o Quadro de Oficiais Auxiliares da Aviação Naval\n\nO Presidente da República, na forma do que estatuto a letra a, art. 74, da Constituição, resolve aprovar e mandar executar o regulamento para o Quadro de Oficiais Auxiliares da Aviação Naval, que a este acompanha, assinado pelo vice-almirante Henrique Aristides Guilhem, ministro de Estado dos Negócios da Marinha.\n\nRio de Janeiro, 28 de junho de 1940, 119º da Independência e 52º da República.\n\nRegulamento para o Quadro de Oficiais Auxiliares da Aviação Naval, a que se refere o Decreto a. 5.895, de 28 de junho de 1940\n\n CAPÍTULO I — DA ORGANIZAÇÃO E FINS\n",
+      "contextos": [
+        {
+          "bloco_indice": 3,
+          "literal_integral": "O Presidente da República, na forma do que estatuto a letra a, art. 74, da Constituição, resolve aprovar e mandar executar o regulamento para o Quadro de Oficiais Auxiliares da Aviação Naval, que a este acompanha, assinado pelo vice-almirante Henrique Aristides Guilhem, ministro de Estado dos Negócios da Marinha."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1940/dec-5895-1940-06-28.html.gz",
+        "sha256_HTML": "be23cb4786b2e65f604f4177567adfa288ee157c43f41526b9d9cb499bd22a54",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1940/dec-5938-1940-07-10.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "75e86aaee98b3b3b6184fa8dd66ddb45762a1605",
+      "sha256_MD_HEAD_real": "46a9b4156d4c08199cfa3400bdfb565699ff459466c7554817189ed5ce2a34b3",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        "residente da República, na forma do que estatue a letra a, art. 74 da Constituição, resolve aprovar e mandar executar o Regulamento para a Reserva Naval Aérea, que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha.\n\nRio de Janeiro, 10 de julho de 1940, 119º da Independência e 52º da Repúblic"
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 5.938 de 10/07/1940\n\nDECRETO N. 5.938 – DE 10 DE JULHO DE 1940\n\nAprova e manda executar o Regulamento para a Reserva Naval Aérea\n\nO Presidente da República, na forma do que estatue a letra a, art. 74 da Constituição, resolve aprovar e mandar executar o Regulamento para a Reserva Naval Aérea, que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha.\n\nRio de Janeiro, 10 de julho de 1940, 119º da Independência e 52º da República.\n\nGetulio Vargas.\n\nHenrique A. Guilhem.\n\nRegulamento para a Reserva Naval Aérea, a que se refere o decreto n. 5.938, de 10 de julho de 1940\n\n CAPÍTULO I — OBJETIVO E ORGANIZAÇÃO\n",
+      "contextos": [
+        {
+          "bloco_indice": 3,
+          "literal_integral": "O Presidente da República, na forma do que estatue a letra a, art. 74 da Constituição, resolve aprovar e mandar executar o Regulamento para a Reserva Naval Aérea, que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1940/dec-5938-1940-07-10.html.gz",
+        "sha256_HTML": "7cc98e270510006a831fe281ccd355d1cc7fc15bdc74f28e42be3b25e33a77f5",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1940/dec-6386-1940-10-04.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "ac0e0205f5fc9b66bb8490d84b29b063477e704f",
+      "sha256_MD_HEAD_real": "5ea45ff9e305a1f84c7c7629b6d0d90a6be3608782c30e353abe2e4694286213",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        "lica, usando da atribuição que lhe confere o art. 74, letra a, da Constituição:\n\nResolve aprovar e mandar executar o Regulamento para a Escola de Guerra Naval, que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha.\n\nRio de Janeiro, 4 de outubro de 1940, 119º da Independência e 52º da Repúbli"
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 6.386 de 04/10/1940\n\nDECRETO N. 6.386 – DE 4 DE OUTUBRO DE 1940\n\nA prova e manda executar novo Regulamento para a Escola de Guerra Naval\n\nO Presidente da República, usando da atribuição que lhe confere o art. 74, letra a, da Constituição:\n\nResolve aprovar e mandar executar o Regulamento para a Escola de Guerra Naval, que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha.\n\nRio de Janeiro, 4 de outubro de 1940, 119º da Independência e 52º da República.\n\nGetulio Vargas.\n\nHenrique A. Guilhem.\n\nRegulamento para a Escola de Guerra Naval\n\n CAPÍTULO I — DA ESCOLA DE GUERRA NAVAL E SEUS FINS\n",
+      "contextos": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "Resolve aprovar e mandar executar o Regulamento para a Escola de Guerra Naval, que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha."
+        },
+        {
+          "bloco_indice": 58,
+          "literal_integral": "Parágrafo único. Os oficiais do Curso Superior acompanharão o Curso de Comando e participarão dos seus exercícios e jogos, quando for julgado conveniente."
+        },
+        {
+          "bloco_indice": 85,
+          "literal_integral": "Art. 23. Para tornar efetiva a cooperação entre as forças de mar e as de terra, o Ministro da Marinha poderá solicitar ao da Guerra a designação de Oficiais do Exército, quer para acompanharem os cursos, quer para colaborarem no ensino."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1940/dec-6386-1940-10-04.html.gz",
+        "sha256_HTML": "f1c72e0159353c102b1a79c9bc97b1b9be55fb40d2c3e22b8f92c4a77c2a31c9",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1941/dec-6949-1941-03-12.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "3bf523c6f4d4753a6f7b8f32d47b0337f8437896",
+      "sha256_MD_HEAD_real": "224178f0216ebc44507c2114190c45e528244f212d88b6f48ef7f4c6b83f302b",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        "ente da República, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição, resolve aprovar o Regulamento do Gabinete do ministro da Guerra, que com este baixa, assinado pelo general de divisão Eurico Gaspar Dutra, ministro da Guerra.\n\nRio de Janeiro, 12 de março de 1941, 120º da Independência e 53º da República.\n\nGETULIO VARGAS.\n\nEurico"
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 6.949 de 12/03/1941\n\nDECRETO N. 6.949 – DE 12 DE MARÇO DE 1941\n\nAprova o Regulamento do gabinete do ministro da Guerra\n\nO Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição, resolve aprovar o Regulamento do Gabinete do ministro da Guerra, que com este baixa, assinado pelo general de divisão Eurico Gaspar Dutra, ministro da Guerra.\n\nRio de Janeiro, 12 de março de 1941, 120º da Independência e 53º da República.\n\nGETULIO VARGAS.\n\nEurico G. Dutra.\n\nRegulamento do Gabinete do Ministro da Guerra\n\n TÍTULO I — FI M\n",
+      "contextos": [
+        {
+          "bloco_indice": 3,
+          "literal_integral": "O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição, resolve aprovar o Regulamento do Gabinete do ministro da Guerra, que com este baixa, assinado pelo general de divisão Eurico Gaspar Dutra, ministro da Guerra."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1941/dec-6949-1941-03-12.html.gz",
+        "sha256_HTML": "db1b7d3a0b6c1569f2b0a3b45a61655acd20732a6ddd7ef4550fe855cc6b230a",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1941/dec-7227-1941-05-28.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "b602d54e50ac2d87ee369beb0f864a307af67d02",
+      "sha256_MD_HEAD_real": "787b30ec7dd24bd96b6acea96cc72cf0a3d1478c9f86a24bc8ea260f737d67a5",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        " usando da atribuição que Ihe confere o art. 74, letra a, da Constituição:\n\nResolve aprovar e mandar executar o Regulamento para o Comando Naval de Mato-Grosso que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha.\n\nRio de Janeiro, em 28 de maio de 1941 – 120º da Independência e 53º da Repúb"
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 7.227 de 28/05/1941\n\nDECRETO N. 7.227 – DE 28 DE MAIO DE 1941\n\nAprova o Regulamento para o Comando Naval de Mato-Grosso\n\nO Presidente da República, usando da atribuição que Ihe confere o art. 74, letra a, da Constituição:\n\nResolve aprovar e mandar executar o Regulamento para o Comando Naval de Mato-Grosso que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha.\n\nRio de Janeiro, em 28 de maio de 1941 – 120º da Independência e 53º da República.\n\nGETULIO VARGAS.\n\nHenrique A. Guilhem.\n\nRegulamento para o Comando Naval de Mato Grosso, a que se refere o decreto n. 7.227, de 28 de maio de 1941\n\n CAPÍTULO I — FINALIDADE E ORGANIZAÇÃO\n",
+      "contextos": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "Resolve aprovar e mandar executar o Regulamento para o Comando Naval de Mato-Grosso que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1941/dec-7227-1941-05-28.html.gz",
+        "sha256_HTML": "0f1d56570c49797a094b52eeb81a8e81e061237f78beec823e77b16db365cfd9",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1941/dec-7368-1941-06-11.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "0090fd786a44b678d36438a0141d989beefdf5be",
+      "sha256_MD_HEAD_real": "ce3c3247287252a8abd28a099abfaa46cec50e8e83d5d82bcbc0ddc3e966bac8",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        " Presidente da República resolve aprovar e mandar executar o “Regulamento para o Quadro de Práticos dos rios da Prata, baixo e médio Paraná, Paraguai e costa”, que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha.\n\nRio de Janeiro, 11 de junho de 1941, 120º da Independência e 53º da Repúblic"
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 7.368 de 11/06/1941\n\nDECRETO N. 7.368 – DE 11 DE JUNHO DE 1941\n\nAprova e manda executar o Regulamento para o Quadro de Práticos dos rios da Prata, baixo e médio Paraná, Paraguai e costa\n\nO Presidente da República resolve aprovar e mandar executar o “Regulamento para o Quadro de Práticos dos rios da Prata, baixo e médio Paraná, Paraguai e costa”, que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha.\n\nRio de Janeiro, 11 de junho de 1941, 120º da Independência e 53º da República.\n\nGETULIO VARGAS.\n\nHenrique A. Guilhem.\n\n\\\\\\\\\\\\\\\\\\\\\\\\\n\nRegulamento para o Quadro de Práticos dos rios da Prata, baixo e médio Paraná, Paraguai e costa, a que se refere o decreto n. 7.368, de 11 de junho de 1941.\n\n CAPÍTULO I — DA ORGANIZAÇÃO\n",
+      "contextos": [
+        {
+          "bloco_indice": 3,
+          "literal_integral": "O Presidente da República resolve aprovar e mandar executar o “Regulamento para o Quadro de Práticos dos rios da Prata, baixo e médio Paraná, Paraguai e costa”, que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha."
+        },
+        {
+          "bloco_indice": 85,
+          "literal_integral": "b) adquirir os conhecimentos indispensaveis à profissão a que se destinam, acompanhando toda a praticagem feita pelos práticos."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1941/dec-7368-1941-06-11.html.gz",
+        "sha256_HTML": "06fa3d57aa3dfc00839c40519b776e12d680d48062fe765b448b1a71655bbec5",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1942/dec-10389-1942-09-03.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "45433085f97749093d76ce7fab8caf6bdffa9673",
+      "sha256_MD_HEAD_real": "b2d3aeacc3815909d8c9dea11b74e4d96d4dd0e16e32269ac0d1b8d00115f321",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        " atribuição que lhe confere o artigo 74, letra a, da Constituição, resolve aprovar o Regulamento de Preceitos Comuns aos Estabelecimentos de Ensino do Exército que com este baixa, assinado pelo General de Divisão Eurico Gaspar Dutra, ministro de Estado da Guerra,\n\nRio de Janeiro, 3 de setembro de 1942, 121º da Independência e 54º da República.\n\nGetulio Var"
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 10.389 de 03/09/1942\n\nDECRETO N. 10.389 – DE 3 DE SETEMBRO DE 1942\n\nAprova o Regulamento de Preceitos Comuns aos Estabelecimentos de Ensino do Exército\n\nO Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição, resolve aprovar o Regulamento de Preceitos Comuns aos Estabelecimentos de Ensino do Exército que com este baixa, assinado pelo General de Divisão Eurico Gaspar Dutra, ministro de Estado da Guerra,\n\nRio de Janeiro, 3 de setembro de 1942, 121º da Independência e 54º da República.\n\nGetulio Vargas.\n\nEurico G. Dutra.\n\nREGULAMENTO DE PRECEITOS COMUNS AOS ESTABELECIMENTOS DE ENSINO\n\n CAPÍTULO I — FINALIDADE DO REGULAMENTO\n",
+      "contextos": [
+        {
+          "bloco_indice": 3,
+          "literal_integral": "O Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição, resolve aprovar o Regulamento de Preceitos Comuns aos Estabelecimentos de Ensino do Exército que com este baixa, assinado pelo General de Divisão Eurico Gaspar Dutra, ministro de Estado da Guerra,"
+        },
+        {
+          "bloco_indice": 282,
+          "literal_integral": "b) acompanhar o funcionamento dos serviços técnicos e administrativos, no sentido de verificar se a legislação escolar é cumprida com exatidão;"
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1942/dec-10389-1942-09-03.html.gz",
+        "sha256_HTML": "29035b0d46b900950706d3358e1672c6c0c314c33d99f342a17696c87fc56689",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1942/dec-10489-1942-09-24.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "58bb77b70dde0ad1260dd3536d08f748530b1e7c",
+      "sha256_MD_HEAD_real": "082fcb64534e5dab9c7c657f52e546b767e22585c35c86b5a2ba58d6f4689fee",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        "rmada\n\nO Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,\n\nResolve aprovar e mandar executar o Regulamento, que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha, para a Reserva da Armada.\n\nRio de Janeiro, 24 de setembro de 1942, 121º da In"
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 10.489 de 24/09/1942\n\nDECRETO N. 10.489 – DE 24 DE SETEMBRO DE 1942\n\nAprova e manda executar o Regulamento para a Reserva da Armada\n\nO Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,\n\nResolve aprovar e mandar executar o Regulamento, que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha, para a Reserva da Armada.\n\nRio de Janeiro, 24 de setembro de 1942, 121º da Independência e 54º da República.\n\nGetulio Vargas.\n\nHenrique A. Guilhem.\n\nRegulamento para a Reserva da Armada, a que se refere o decreto n. 10 489, de 24 de setembro de 1942\n\n CAPÍTULO I — DOS FINS\n",
+      "contextos": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "Resolve aprovar e mandar executar o Regulamento, que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha, para a Reserva da Armada."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1942/dec-10489-1942-09-24.html.gz",
+        "sha256_HTML": "ba69477c5b580a320df8b7466778a85293f69e157b4972ae188da2d459e71e97",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1942/dec-10790-1942-11-09.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "65144a26f79d255d5984fc2fb4b1482e2f8e166a",
+      "sha256_MD_HEAD_real": "92abdb5a222536376c47b5b41f22cf630ec1ca997a795a2aece12d87fa7dcda2",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        "\n\nO Presidente da República, usando da atribuição que lhe confere o art. 74, letra a, da Constituição, resolve aprovar o Regulamento da Escola de Estado-Maior, que com este baixa, assinado pelo Ministro de Estado da Guerra, general de divisão Eurico Gaspar Dutra.\n\nRio de Janeiro, 9 de novembro de 1942, 121º da Independência e 54º da República.\n\nGetulio Var"
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 10.790 de 09/11/1942\n\nDECRETO N. 10.790 – DE 9 DE NOVEMBRO DE 1942\n\nAprova o Regulamento da Escola de Estado-Maior\n\nO Presidente da República, usando da atribuição que lhe confere o art. 74, letra a, da Constituição, resolve aprovar o Regulamento da Escola de Estado-Maior, que com este baixa, assinado pelo Ministro de Estado da Guerra, general de divisão Eurico Gaspar Dutra.\n\nRio de Janeiro, 9 de novembro de 1942, 121º da Independência e 54º da República.\n\nGetulio Vargas.\n\nEurico G. Dutra.\n\nRegulamento da Escola de Estado-Maior\n\nPARTE PRIMEIRA\n\nDo Ensino\n\n TÍTULO I — Da Escola de Estado-Maior e seus fins\n",
+      "contextos": [
+        {
+          "bloco_indice": 3,
+          "literal_integral": "O Presidente da República, usando da atribuição que lhe confere o art. 74, letra a, da Constituição, resolve aprovar o Regulamento da Escola de Estado-Maior, que com este baixa, assinado pelo Ministro de Estado da Guerra, general de divisão Eurico Gaspar Dutra."
+        },
+        {
+          "bloco_indice": 101,
+          "literal_integral": "De maneira análoga, o estudo da Geografia não se limitará à simples descrição física da Terra, mas visará principalmente as relações entre ela e o homem, nos seus diferentes aspectos. De maneira análoga, o estudo da História Geral focalizará antes as razões de ser dos fatos do que sua exposição meramente descritiva. Na explanação dos assuntos referentes à História Militar e aos recursos que a técnica moderna põe ao serviço da guerra, visar-se-á, de um lado, acompanhar a evolução dos processos e métodos de guerra através dos tempos, e de outro, as causas de suas transformações operadas até o presente, graças aos progressos da técnica, e sem perder de vista tudo quanto possa relacionar-se, direta ou indiretamente, com as realidades brasileiras."
+        },
+        {
+          "bloco_indice": 250,
+          "literal_integral": "Art. 49. As informações que acompanham o requerimento de inscrição, alem de indicarem se o candidato satisfaz as condições do art. 47, devem conter os julgamentos dos chefes relativos aos itens seguintes:"
+        },
+        {
+          "bloco_indice": 388,
+          "literal_integral": "Art. 78. Anualmente, a 1 de novembro, os instrutores-chefes de ano entregarão ao sub-diretor do Ensino uma apreciação sintética relativa a cada oficial-aluno, do respectivo ano do curso, a respeito das qualidades e rnanifestações referidas no artigo anterior, acompanhada de uma nota numérica que traduza seu julgamento."
+        },
+        {
+          "bloco_indice": 407,
+          "literal_integral": "§ 2º A relação geral dos oficiais, classificados por ordem decrescente da “nota final do curso”, será remetida ao E.M.E., e tem carater “secreto”. Dessa relação consta apenas o número de ordem correspondente a cada oficial, expresso sob a forma de fração ordinária, cujo numerador é o número de ordem da classificação final e o denominador o número de oficiais da turma correspondente. Essa relação é acompanhada do “conceito” relativo a cada oficial (art. 79), emitido pelo diretor do Ensino."
+        },
+        {
+          "bloco_indice": 477,
+          "literal_integral": "5\\. Acompanhar as turmas de alunos em trabalhos fora do estabelecimento, quando lhe for determinado."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1942/dec-10790-1942-11-09.html.gz",
+        "sha256_HTML": "ffee2f9cde6aa139c7455acb94e5bb09316260effe6887020f80ca82b5c8360c",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1942/dec-11141-1942-12-28.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "85dff1eb770222cc97261bc552e4cc5b3bb9815e",
+      "sha256_MD_HEAD_real": "effbbe474524605f7b02d2bd8a75dd6eda7bf1ef4cdedbc343c1c9eb9191f9a9",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        " Janeiro.\n\nO Presidente da República, usando da atribuição que lhe confere o art. 74, letra a da Constituição,\n\nResolve aprovar e mandar executar o Regulamento que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha, para a Escola de Marinha Mercante do Rio de Janeiro, revogadas as disposições"
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 11.141 de 28/12/1942\n\nDECRETO N. 11.141 – DE 28 DE DEZEMBRO DE 1942\n\nAprova e manda executar o novo Regulamento para Escola de Marinha Mercante do Rio de Janeiro.\n\nO Presidente da República, usando da atribuição que lhe confere o art. 74, letra a da Constituição,\n\nResolve aprovar e mandar executar o Regulamento que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha, para a Escola de Marinha Mercante do Rio de Janeiro, revogadas as disposições em contrário.\n\nRio de Janeiro, 28 de dezembro de 1942, 121º da Independência e 54º da República.\n\nGETULIO VARGAS.\n\nHenrique A. Guilhem.\n\nREGULAMENTO PARA A ESCOLA DE MARINHA MERCANTE DO RIO DE JANEIRO, A QUE SE REFERE O DECRETO N. 11.141, DE 28 DE DEZEMBRO DE 1942\n\n CAPÍTULO I — DA ESCOLA E SEUS FINS\n",
+      "contextos": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "Resolve aprovar e mandar executar o Regulamento que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha, para a Escola de Marinha Mercante do Rio de Janeiro, revogadas as disposições em contrário."
+        },
+        {
+          "bloco_indice": 113,
+          "literal_integral": "Art. 23. A inscrição dos candidatos à matrícula no Curso de Especialização far-se-á mediante requerimento do próprio, acompanhado de 2 retratos de 4 x 3 em, e dos seguintes documentos:"
+        },
+        {
+          "bloco_indice": 122,
+          "literal_integral": "Diploma de artífice dos Cursos do Ensino Industrial Federal, equiparado ou reconhecido, das Secções de Trabalho de metal, de Indústria mecânica ou de Eletrotécnica (Secções I, II ou III, art. 1º do decreto n. 8.673, de 3-2-42). Ou então, certificado de exame de licença Ginasial ou da 3ª série Comercial acompanhado de atestado de ter frequentado com aproveitamento, por um ano, no mínimo, como operário ou aprendiz, oficinas, mecânicas oficiais ou dos Cursos Industriais acima referidos."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1942/dec-11141-1942-12-28.html.gz",
+        "sha256_HTML": "bbfdff7b69bc2d6b41dec14d94cc54aba87a7354be0607dc71daa285a9a59966",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1942/dec-9086-1942-03-23.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "178aa4d9671a2d848361859c70d40c8737ff2c79",
+      "sha256_MD_HEAD_real": "a23120b4eccba137911277326c251036bd7b3be1f2715cb98c7a87a0509e1c19",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        ", usando da atribuição que, lhe confere o art. 74, letra a, da Constituição, resolve aprovar o Regulamento do Gabinete Fotocartográfico do Ministério da Guerra que com este baixa assinado pelo General de Divisão Eurico Gaspar Dutra. Ministro de Estado dos Negócios da Guerra.\n\nRio de Janeiro, 23 de março de 1942, 121° da Independência e 54° da República.\n\nG"
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 9.086 de 23/03/1942\n\nDECRETO N. 9.086 – DE 23 DE MARÇO DE 1942\n\nAprova o Regulamento do Gabinete Fotocartográfico do Ministério da Guerra\n\nO Presidente da República, usando da atribuição que, lhe confere o art. 74, letra a, da Constituição, resolve aprovar o Regulamento do Gabinete Fotocartográfico do Ministério da Guerra que com este baixa assinado pelo General de Divisão Eurico Gaspar Dutra. Ministro de Estado dos Negócios da Guerra.\n\nRio de Janeiro, 23 de março de 1942, 121° da Independência e 54° da República.\n\nGetulio Vargas.\n\nEurico G. Dutra.\n\nREGULAMENTO DO GABINETE FOTOCARTOGRÁFICO\n\n TÍTULO I — DOS FINS\n",
+      "contextos": [
+        {
+          "bloco_indice": 3,
+          "literal_integral": "O Presidente da República, usando da atribuição que, lhe confere o art. 74, letra a, da Constituição, resolve aprovar o Regulamento do Gabinete Fotocartográfico do Ministério da Guerra que com este baixa assinado pelo General de Divisão Eurico Gaspar Dutra. Ministro de Estado dos Negócios da Guerra."
+        },
+        {
+          "bloco_indice": 111,
+          "literal_integral": "Art. 17. Os trabalhos, uma vez concluido, serão entregues às repartições interessadas, acompanhados de uma guia de remessa, que será, arquivada, quando devolvida com o competente recibo."
+        },
+        {
+          "bloco_indice": 114,
+          "literal_integral": "Art. 19. A distribuição dos trabalhos aos encarregados das secções será feita pelo Chefe do Gabinete Fotocartográfico, por meio de papeletas numeradas, as quais, depois de rubricadas por eles, serão devolvidas acompanhando o trabalho concluido, com a discriminação do material nele empregado."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1942/dec-9086-1942-03-23.html.gz",
+        "sha256_HTML": "fa2710a0009cfb634f71e87c72357fbf58cd1c453c1968f75658e16328228cae",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1942/dec-9946-1942-07-10.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "592275a89dbe46c36f43f62cc9f6e7a05f31e97a",
+      "sha256_MD_HEAD_real": "baab5e5e7048572a1566ff8259a0fa80d35bc85cc42433c377a11d3ca1e6a309",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        "uição que lhe confere a letra a do art. 74 da Constituição,\n\nResolve aprovar e mandar executar o Regulamento para o Departamento de Educação Física da Marinha, que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha, revogadas as disposições em contrário.\n\nRio de Janeiro, 10 de julho de 1942, "
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 9.946 de 10/07/1942\n\nDECRETO N. 9.946 – DE 10 DE JULHO DE 1942\n\nAprova e manda executar o Regulamento para o Departamento de Educação Física da Marinha\n\nO Presidente da República, usando da atribuição que lhe confere a letra a do art. 74 da Constituição,\n\nResolve aprovar e mandar executar o Regulamento para o Departamento de Educação Física da Marinha, que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha, revogadas as disposições em contrário.\n\nRio de Janeiro, 10 de julho de 1942, 121º da Independência e 54º da República.\n\nGetulio Vargas.\n\nHenrique A. Guilhem.\n\nRegulamento para o Departamento de Educação Física da Marinha, a que se refere o decreto n. 9.946, de 10 de julho de 1942\n\n CAPÍTULO I — DOS FINS\n",
+      "contextos": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "Resolve aprovar e mandar executar o Regulamento para o Departamento de Educação Física da Marinha, que a este acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha, revogadas as disposições em contrário."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1942/dec-9946-1942-07-10.html.gz",
+        "sha256_HTML": "877d582f1782b0801c77cef0468b22100741640df9570b93e517e3423bbd363c",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18323-1945-04-09.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "20c0953e01617c04a6c79ce39014a75d99540363",
+      "sha256_MD_HEAD_real": "0e95d6432634f049e0fb30c30baee080fc095682a93e532df084f3e3dba61f12",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        "ICA, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição, resolve aprovar e mandar executar o Regulamento para a Diretoria de Navegação, que a êste acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro da Marinha, revogadas as disposições em contrário.\n\nRio de Janeiro, 9 de abril de 1945, 124º da Independência e "
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 18.323 de 09/04/1945\n\ndecreto nº 18.323, de 9 de abril de 1945.\n\nAprova e manda executar o Regulamento para a Diretoria de Navegação.\n\nO PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição, resolve aprovar e mandar executar o Regulamento para a Diretoria de Navegação, que a êste acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro da Marinha, revogadas as disposições em contrário.\n\nRio de Janeiro, 9 de abril de 1945, 124º da Independência e 57º da República.\n\nGetúlio Vargas\n\nHenrique A. Guilhem\n\nregulamento para a diretoria de navegação da marinha, a que se refere O decreto nº 18.323, de 9 de abril de 1944\n\n capítulo i — DOS FINS\n",
+      "contextos": [
+        {
+          "bloco_indice": 3,
+          "literal_integral": "O PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição, resolve aprovar e mandar executar o Regulamento para a Diretoria de Navegação, que a êste acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro da Marinha, revogadas as disposições em contrário."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1945/dec-18323-1945-04-09.html.gz",
+        "sha256_HTML": "69bdf843f2e68055bf031e9bd552f4feca13d1e26cfa5ca1dd4d6476eb187c8c",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18382-1945-04-17.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "38d8939dbd31d30001af717cd59d70eea5595749",
+      "sha256_MD_HEAD_real": "e0f074d55ff4f4c008ea898e332266f2ba284cc4e06065021fb678bed8afa7e7",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        "tribuição que lhe confere o artigo 74, letra a, da Constituição,\n\nRESOLVE aprovar e mandar executar o Regulamento para o Centro de Instrução do Rio de Janeiro, que a êste acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro do Estado dos Negócios de Marinha.\n\nRio de Janeiro, 17 de abril de 1945; 124º da Independência e 57º da Repúblic"
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 18.382 de 17/04/1945\n\nDECRETO Nº 18.382, DE 17 de abril DE 1945.\n\nAprova e manda executar o Regulamento para o Centro de Instrução do Rio de Janeiro.\n\nO PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,\n\nRESOLVE aprovar e mandar executar o Regulamento para o Centro de Instrução do Rio de Janeiro, que a êste acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro do Estado dos Negócios de Marinha.\n\nRio de Janeiro, 17 de abril de 1945; 124º da Independência e 57º da República.\n\nGetulio Vargas\n\nHenrique A. Guilhem\n\nREGULAMENTO PARA O CENTRO DE INSTRUÇÃO DO RIO DE JANEIRO, A QUE SE REFERE O DECRETO Nº 18.382, DE 17 DE ABRIL DE 1945.\n\n CAPÍTULO I — DO CENTRO DE INSTRUÇÃO E SEUS FINS\n",
+      "contextos": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "RESOLVE aprovar e mandar executar o Regulamento para o Centro de Instrução do Rio de Janeiro, que a êste acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro do Estado dos Negócios de Marinha."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1945/dec-18382-1945-04-17.html.gz",
+        "sha256_HTML": "25af04c34325b903c3ad33eac81bb569c70103bfb33b85e742fc9e4113767548",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18506-1945-04-27.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "dd8902359a5eed58da7dbc64f2b5106c283683a7",
+      "sha256_MD_HEAD_real": "90d170a1b61e5683222478fa25bb31b80cb0d18a4a09972b6741521a41e62720",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        "LICA, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição:\n\nResolve aprovar e mandar executar o Regulamento da Diretoria de Saúde Naval, que a êste acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha, revogadas as disposições em contrário.\n\nRio de Janeiro, 27 de abril de 1945, "
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 18.506 de 27/04/1945\n\ndecreto nº 18.506, de 27 de abril de 1945.\n\nAprova e manda executar o Regulamento para a Diretoria de Saúde Naval.\n\nO PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição:\n\nResolve aprovar e mandar executar o Regulamento da Diretoria de Saúde Naval, que a êste acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha, revogadas as disposições em contrário.\n\nRio de Janeiro, 27 de abril de 1945, 124º da Independência e 57º da República.\n\nGetulio vargas\n\nHenrique A. Guilhem\n\nregulamento para a diretoria de saúde naval, a que refere o decreto nº 18.506, de 27 de abril de 1945\n\n capítulo i — DOS FINS\n",
+      "contextos": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "Resolve aprovar e mandar executar o Regulamento da Diretoria de Saúde Naval, que a êste acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha, revogadas as disposições em contrário."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1945/dec-18506-1945-04-27.html.gz",
+        "sha256_HTML": "032b89d9b5858f809a343f4304dd7623ab45b28765b520c59eead9505bfb0a75",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18735-1945-05-28.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "7701f7035bfc03249747dde164ef020b1e904802",
+      "sha256_MD_HEAD_real": "d9fa0ae68f0535158694c6328e89ea87e0d2986dde11f1399c495f81dcfb4cd6",
+      "categoria_contextual_automatica": "ponteiro_com_referencia_externa_historica",
+      "ponteiro_CLBR": true,
+      "remissoes_atuais_literais": [],
+      "aprovacao_integral_preambulo": false,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": true,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 18.735 de 28/05/1945\n\nDECRETO N. 18.735 – DE 28 DE MAIO DE 1945\n\nAltera a relação nominal que acompanhou o Decreto n. 17.894-45\n\nO Presidente da República, usando da atribuição que 1he confere o artigo 74, letra a, da Constituição,\n\ndecreta:\n",
+      "contextos": [
+        {
+          "bloco_indice": 31,
+          "literal_integral": "<<ANEXO>>CLBR Vol. 04 Ano 1945 Págs. 585 a 587 Tabelas."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1945/dec-18735-1945-05-28.html.gz",
+        "sha256_HTML": "5c882f355430cd9837cf913c53b50d83812c7df90672d0510d8f30d491e6a4d5",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1945/dec-18846-1945-06-11.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "1abeb3e0dd389114fa3a8954a2426584bb4b3991",
+      "sha256_MD_HEAD_real": "73747e17a9c081b93529e61ed1a0358e484ac841c921eb77c983fa3b93bcb13d",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        "rasil.\n\nO PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,\n\nRESOLVE aprovar e mandar executar o Regulamento que a êste acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha, para o Serviço de Praticagem dos Portos, Costas, Lagoas e Rio Navegáveis do B"
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 18.846 de 11/06/1945\n\nDECRETO Nº 18.846, DE 11 DE JUNHO DE 1945.\n\nAprova e manda executar o Regulamento Geral do Serviço de Praticagem dos Portos, Costas, Lagoas e Rios Navegáveis do Brasil.\n\nO PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,\n\nRESOLVE aprovar e mandar executar o Regulamento que a êste acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha, para o Serviço de Praticagem dos Portos, Costas, Lagoas e Rio Navegáveis do Brasil.\n\nRio de Janeiro, 11 de junho de 1945; 124º da Independência e 57º da República.\n\nGETúLIO VARGAS\n\nHenrique A. Guilhem\n\nRegulamento geral do Serviço da Praticagem dos Portos, Costas, Lagoas e Rios navegáveis dos Estados Unidos do Brasil a que se refere o Decreto nº 18.847, de 11 de junho de 1945.\n\n CAPÍTULO I — OBJETO DA PRATICAGEM - SUA ORGANIZAÇÃO\n",
+      "contextos": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "RESOLVE aprovar e mandar executar o Regulamento que a êste acompanha, assinado pelo Vice-Almirante Henrique Aristides Guilhem, Ministro de Estado dos Negócios da Marinha, para o Serviço de Praticagem dos Portos, Costas, Lagoas e Rio Navegáveis do Brasil."
+        },
+        {
+          "bloco_indice": 90,
+          "literal_integral": "Art. 28. O Capitão dos Portos, findas as provas, remeterá à D. do Ensino Naval a cópia da ata lavrada, acompanhada dos têrmos de inspeção de saúde, das provas escritas, dos documentos de inscrição e de um mapa de classificação."
+        },
+        {
+          "bloco_indice": 139,
+          "literal_integral": "h) encaminhar à D.M.M., para fins de fiscalização, as cópias dos balancetes mensais e dos livros P-5, P-6, P-7, todos em duas vias, as cópias dos documentos comprovantes da receita e de despesa, uma relação autenticada das despesas, que não puderem ser comprovadas por faturas ou talões e uma cópia das atas relativas ao movimento da receita e despesa e das reuniões do peesoal incorporado, fazendo-as acompanhar de um ofício com as informações e observações, que possam facilitar o exame da D.M.M.;"
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1945/dec-18846-1945-06-11.html.gz",
+        "sha256_HTML": "fc798c6c552ea305c57a8bee3f79b903d366bf90773dd159cb3878cc3a1fd469",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1945/dec-19696-1945-10-01.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "893e0a336d88665898b4fd0ac59741d92c82babf",
+      "sha256_MD_HEAD_real": "001a705f4ffa983964a10b2aa36670e1cb06e821d2da02efd33631f5438768ba",
+      "categoria_contextual_automatica": "objeto_integral_proprio_a_revisar",
+      "ponteiro_CLBR": false,
+      "remissoes_atuais_literais": [
+        " atribuição que lhe confere o artigo 74, letra a, da Constituição:\n\nRESOLVE aprovar e mandar executar, para as Escolas de Aprendizes Marinheiros, o Regulamento que a este acompanha, assinado pelo Vice-amilrante Henrique Aristides Guilhem - Ministro de Estado dos Negócios da Marinha.\n\nO presente Decreto entrará em vigor na data de sua publicação, revogadas as"
+      ],
+      "aprovacao_integral_preambulo": true,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 19.696 de 01/10/1945\n\nDECRETO Nº 19.696, DE 1 DE Outubro DE 1945.\n\nAprova e manda executar o Regulamento para as Escolas de Aprendizes Marinheiros.\n\nO PRESIDENTE REPÚBLICA, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição:\n\nRESOLVE aprovar e mandar executar, para as Escolas de Aprendizes Marinheiros, o Regulamento que a este acompanha, assinado pelo Vice-amilrante Henrique Aristides Guilhem - Ministro de Estado dos Negócios da Marinha.\n\nO presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\n\nRio de Janeiro, 1 de outubro de 1945; 124º da Independência e 57º da República.\n\nGetulio vargas\n\nHenrique A. Guilhem\n\nRegulamentos para as Escolas de Aprendizes Marinheiros, a que se refere o Decreto nº 19.696, de 1 de outubro de 1945.\n\n capítulo i — DOS FINS\n",
+      "contextos": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "RESOLVE aprovar e mandar executar, para as Escolas de Aprendizes Marinheiros, o Regulamento que a este acompanha, assinado pelo Vice-amilrante Henrique Aristides Guilhem - Ministro de Estado dos Negócios da Marinha."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1945/dec-19696-1945-10-01.html.gz",
+        "sha256_HTML": "766ffaba73865d3adbdbb30e8971f219bd24a782d9edba361877e6fd88bd2315",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    },
+    {
+      "path": "federal/decretos/1945/dec-20175-1945-12-11.md",
+      "HEAD": "24946be9d63d30d55067a28a9add601e63e62ad9",
+      "OID_HEAD": "08e10741ba7945302335de301a5c4d1060704a47",
+      "sha256_MD_HEAD_real": "26111038e0ad49173d7d73f1949e0aca65a61da05100e2c2cff85b41e5c7a799",
+      "categoria_contextual_automatica": "ponteiro_com_remissao_atual_a_revisar",
+      "ponteiro_CLBR": true,
+      "remissoes_atuais_literais": [
+        "Guerra,”\n\nO Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a da Constituição,\n\ndecreta:\n\nArt. 1º Fica aprovado o Regulamento, que com êste baixa, para a \"Caixa de Construções de Casas do Ministério da Guerra”, assinado pelo Ministro da Guerra.\n\nArt. 2º O presente Decreto entrará em vigor na data de sua publicação, revogada"
+      ],
+      "aprovacao_integral_preambulo": false,
+      "reforma_pontual_no_texto": false,
+      "referencia_externa_no_texto": false,
+      "prefixo_antes_primeiro_artigo": " Decreto nº 20.175 de 11/12/1945\n\nDECRETO N. 20.175 – DE 11 DE DEZEMBRO DE 1945\n\nAprova o Regulamento para a “Caixa de Construções de Casas do Ministério da Guerra,”\n\nO Presidente da República, usando da atribuição que lhe confere o artigo 74, letra a da Constituição,\n\ndecreta:\n",
+      "contextos": [
+        {
+          "bloco_indice": 291,
+          "literal_integral": "c) organizar o mapa do movimento diária da pagadoria, entregando-o, no dia seguinte, ao gerente, acompanhado dos respectivos documentos comprovantes;"
+        },
+        {
+          "bloco_indice": 478,
+          "literal_integral": "Art. 109 Para acompanhar o movimento de suas contas, cada mutuário receberá uma caderneta distribuída pela Caixa."
+        },
+        {
+          "bloco_indice": 480,
+          "literal_integral": "§ 1º O requerimento pedindo autorização para reconstrução, consertos ou reparos referidos neste artigo, dirigido ao diretor-geral, deverá ser acompanhado de orçamento e mais deta1hes dos trabalhos a executar."
+        },
+        {
+          "bloco_indice": 487,
+          "literal_integral": "<<ANEXO>>CLBR VOL 08 Ano 1945 Pág. 454 Tabela."
+        },
+        {
+          "bloco_indice": 489,
+          "literal_integral": "<<ANEXO>>CLBR VOL 08 Ano 1945 Pág. 455 Tabela."
+        }
+      ],
+      "fonte_cache": {
+        "path": "federal/_fonte/decretos/1945/dec-20175-1945-12-11.html.gz",
+        "sha256_HTML": "7c0e050f99d8ae751d6817bcbb78c44bc2dd53336e198127122b74696d31c15f",
+        "limite": "Cache oficial por caminho; cotejo da edição deve ser feito antes de concluir lacuna. Não substitui prova do SHA real do MD publicado."
+      },
+      "limites": "Categoria é alerta de leitura, não conclusão de falta do objeto. Referência histórica ou alteração pontual pode ser íntegra; aprovação integral própria exige conferir todo o objeto. Nenhuma máscara ou alteração aplicada."
+    }
+  ],
+  "recuperados_excluidos": [
+    {
+      "path": "federal/decretos/1944/dec-15616-1944-05-19.md",
+      "sha256_MD_HEAD": "6cfa89f3b932b5f28bce235eb4b31873a1bf3f6b710976b6191cc61f5febd8d7",
+      "motivo": "Edição/fac-símile recuperado: não inferir pelo HTML Normas antigo."
+    },
+    {
+      "path": "federal/decretos/1944/dec-15911-1944-06-26.md",
+      "sha256_MD_HEAD": "1ff8fb2f1a0e1ea0c0893983297ab87c80ddc6b699a83e972752d7584e5459b8",
+      "motivo": "Edição/fac-símile recuperado: não inferir pelo HTML Normas antigo."
+    },
+    {
+      "path": "federal/decretos/1944/dec-16611-1944-09-18.md",
+      "sha256_MD_HEAD": "5faf6e7662bf60ec4a4b88e2b441d7dc42026d753e74a6eb4c874c90948dee36",
+      "motivo": "Edição/fac-símile recuperado: não inferir pelo HTML Normas antigo."
+    }
+  ]
+}

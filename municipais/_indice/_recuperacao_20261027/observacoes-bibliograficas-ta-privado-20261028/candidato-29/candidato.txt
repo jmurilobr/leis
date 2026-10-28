@@ -1,0 +1,91 @@
+---
+titulo: "DECRETO EXECUTIVO-PMEPF nº 841, de 28 de julho de 2026"
+tipo: "Decreto"
+tipo_na_fonte: "DECRETO EXECUTIVO"
+numero: "841"
+data: "2026-07-28"
+municipio: "Engenheiro Paulo de Frontin"
+uf: "RJ"
+codigo_ibge: "3301801"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/2637"
+fonte_texto: "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/2185/text"
+sha256_fonte: "5584ba02d0287562d4e299a95dcb9bc784b641aabe9a6c41de37c589a1c6977a"
+sha256_texto: "26ba9aa35e40c0b10730319d4e1ae442b3b47961bea9af258b7ba18170ab5830"
+capturado_em_fonte: "2026-10-28T10:27:51.007837-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+observacao_fonte: "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 30/07/2026. Edição 4173 A verificação de autenticidade da matéria pode ser feita informando o código identificador no site: https://www.diariomunicipal.com.br/aemerj/"
+fonte_metadados: "https://sapl.engenheiropaulodefrontin.rj.leg.br/api/norma/normajuridica/2637/"
+sha256_metadados_fonte: "6338890d1c741302c6d0acbd33e3aa55f5cc43cddb2d6d65abca21d158f9e9fe"
+---
+
+# DECRETO EXECUTIVO-PMEPF nº 841, de 28 de julho de 2026
+
+O Prefeito Municipal de Eng. Paulo de Frontin, no uso de suas atribuições legais, e com fulcro no disposto no artigo 5º da Lei Municipal nº 1762, de 30 de dezembro de 2025,
+
+
+DECRETA:
+
+
+Art. 1º.
+
+Fica aberto um Crédito Adicional suplementar no valor de R$ 4.657.000,00 (Quatro milhões, seiscentos e cinquenta e sete mil reais), para suprimento da dotação orçamentária, como segue:
+
+
+Rdz. Org. Un Função Sub função Programa Proj./Ativ. Elemento de Despesa Fonte Valor R$  
+43 02 005 12 365 2008 2210 3.1.90.11.00.00.00.00 1.540.0002 240.000,00  
+43 02 005 12 365 2008 2210 3.1.90.11.00.00.00.00 1.540.1070 792.000,00  
+122 02 005 12 367 2007 2209 3.1.90.11.00.00.00.00 1.540.0002 50.000,00  
+122 02 005 12 367 2007 2209 3.1.90.11.00.00.00.00 1.540.1070 450.000,00  
+49 02 005 12 361 2009 2211 3.1.90.11.00.00.00.00 1.500.0001 3.125.000,00
+
+
+Art. 2º.
+
+Os recursos orçamentários para atender ao crédito adicional são provenientes de anulação das despesas das categorias econômicas, com fulcro no artigo 43, parágrafo 1º, inciso III da Lei 4.320/64, como segue:
+
+
+Rdz. Org. Un Função Sub função Programa Proj./Ativ. Elemento de Despesa Fonte Valor R$  
+49 02 005 12 361 2009 2211 3.1.90.11.00.00.00.00 1.540.0000 290.000,00  
+49 02 005 12 361 2009 2211 3.1.90.11.00.00.00.00 1.540.1070 1.242.000,00  
+10 02 002 04 061 2001 2201 3.3.90.91.00.00.00.00 1.500.0000 1.500.000,00  
+19 02 003 99 999 2001 2201 9.9.99.99.00.00.00.00 1.500.0000 350.410,45  
+35 02 005 12 122 2001 2201 3.3.90.30.00.00.00.00 1.500.0000 2.000,00  
+38 02 005 12 122 2001 2201 4.4.90.52.00.00.00.00 1.500.1001 2.000,00  
+40 02 005 12 367 2007 2209 3.3.90.32.00.00.00.00 1.500.1001 5.500,00  
+45 02 005 12 365 2008 2210 3.3.90.30.00.00.00.00 1.500.1001 27.500,00  
+46 02 005 12 365 2008 2210 3.3.90.32.00.00.00.00 1.500.1001 5.500,00  
+47 02 005 12 365 2008 2210 3.3.90.39.00.00.00.00 1.500.1001 55.000,00  
+48 02 005 12 365 2008 2210 4.4.90.52.00.00.00.00 1.500.1001 40.000,00  
+53 02 005 12 361 2009 2211 3.3.90.14.00.00.00.00 1.500.1001 17.824,50  
+55 02 005 12 361 2009 2211 3.3.90.32.00.00.00.00 1.500.1001 11.883,00  
+56 02 005 12 361 2009 2211 3.3.90.36.00.00.00.00 1.500.1001 106.261,00  
+57 02 005 12 361 2009 2211 3.3.90.39.00.00.00.00 1.500.1001 48.466,55  
+58 02 005 12 361 2009 2211 3.3.90.49.00.00.00.00 1.500.1001 11.883,00  
+59 02 005 12 361 2009 2211 3.3.90.92.00.00.00.00 1.500.1001 5.941,50  
+61 02 005 12 361 2009 2211 4.4.90.52.00.00.00.00 1.500.1001 59.415,00  
+63 02 005 12 361 2010 2212 3.3.90.39.00.00.00.00 1.500.1001 28.000,00  
+64 02 005 12 361 2010 2212 4.4.90.52.00.00.00.00 1.500.1001 328.000,00  
+65 02 005 12 366 2011 2213 3.3.90.30.00.00.00.00 1.500.1001 55.000,00  
+66 02 005 12 366 2011 2213 3.3.90.36.00.00.00.00 1.500.1001 55.000,00  
+68 02 005 12 366 2011 2213 4.4.90.52.00.00.00.00 1.500.1001 59.415,00  
+15 06 001 18 122 2001 2201 3.3.90.30.00.00.00.00 1.500.0000 175.000,00  
+16 06 001 18 122 2001 2201 3.3.90.39.00.00.00.00 1.500.0000 175.000,00
+
+
+Art. 3º.
+
+Este Decreto entra em vigor na data de sua publicação, revogando as disposições em contrário.
+
+
+Engenheiro Paulo de Frontin, 28 de julho de 2026.
+
+
+JOSÉ EMMANOEL RODRIGUES ARTEMENKO
+
+
+Prefeito Municipal
+

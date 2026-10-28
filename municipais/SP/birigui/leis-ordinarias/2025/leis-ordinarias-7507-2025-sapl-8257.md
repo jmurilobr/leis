@@ -1,0 +1,93 @@
+---
+titulo: "Lei Ordinária nº 7.507, de 20 de fevereiro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "7507"
+data: "2025-02-20"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/8257"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/2764/text"
+sha256_fonte: "ed12f2ba34c24c30cfaadb1de8bcc7e306782bed2b8ed0f844a795631c1f6145"
+sha256_texto: "8184a13fbe19b963461bd42bf42938817fdf19ea50eef6e87484e476a267cc0c"
+capturado_em_fonte: "2026-10-27T17:49:45.352123-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 7.507, de 20 de fevereiro de 2025
+
+DENOMINA AVENIDA *DR. ROBERTO CLARK REIS* A ÁREA DESTINADA À IMPLANTAÇÃO DE UMA NOVA VIA PÚBLICA EM BIRIGUI.  
+Projeto de Lei nº 4/2025, de autoria da Prefeita Municipal
+
+
+Eu, **SAMANTA PAULA ALBANI BORINI**, Prefeita Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,
+
+FAÇO SABER que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica denominada **Avenida DR. ROBERTO CLARK REIS**, a área destinada à implantação de uma avenida, em conformidade com as descrições expostas nas matrículas nº 96.026 e nº 96.030, do Cartório de Registro de Imóveis da Comarca de Birigui, Estado de São Paulo, que dará acesso, da Avenida José Sanches Arriaga Filho ao futuro Hospital Regional, incluindo seu prolongamento natural, nesta cidade.
+
+
+Parágrafo único
+
+A biografia do homenageado passa a fazer parte integrante desta Lei.
+
+
+Art. 2º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Birigui, aos vinte de fevereiro de dois mil e vinte e cinco.
+
+**SAMANTA PAULA ALBANI BORINI Prefeita Municipal**
+
+**ROGÉRIO VENÍCIUS COSTA FERNANDES Secretário Municipal de Obras**
+
+Publicada na Secretaria de Municipal de Governo da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**JAQUELINE MORAES SILVA FERNANDES Secretária Adjunta de Governo**
+
+
+## Anexo I — DADOS BIOGRÁFICOS DO DR. ROBERTO CLARK REIS
+
+
+ROBERTO CLARK REIS, nasceu em Cravinhos, interior de São Paulo, em 2 de agosto de 1918, mudou-se ainda menino para Birigui.
+
+Pertence a uma família tradicional: é neto de Robert William Clark, um dos fundadores de Birigui e um de seus grandes líderes do passado.
+
+Cursou o 1º grau no Instituto Noroeste e, posteriormente, o ginásio no Instituto Americano de Lins, uma vez que não havia ainda em Birigui o curso ginasial. Foi além de bom aluno, um bom atleta, participando da equipe de basquete que representava o Instituto naquela época. Terminou seus estudos em Lins em 1937.
+
+Depois de concluir os estudos preparatórios no Colégio Rio Branco, em São Paulo, ingressou na faculdade de Medicina em 1942. Formou-se em 1947 pela centenária Faculdade de Medicina da Universidade Federal do Paraná, em Curitiba, a mais antiga do Brasil.
+
+Iniciou sua vida médica logo em seguida, em 1948, trabalhando num hospital missionário, o Hospital Presbiteriano Dr. Gordon - Hospital Evangélico de Rio Verde de Goiás.
+
+Em 1949 transfere-se para Bilac, onde as estradas e os meios de transporte eram precários e não havia energia elétrica, nem hospital. Montou nessa cidade seu primeiro consultório. Atendia a clientes em toda a região de Bilac e municípios vizinhos. Era comum o atendimento na zona rural, que às vezes exigia locomoção a cavalo e em trator até chegar ao paciente. Bilac não dispunha de hospital e quando necessário, internava os pacientes em Birigui, os quais visitava todos os dias, apesar das dificuldades. Trabalhou incansavelmente e sem sucesso para a instalação de um hospital em Bilac.
+
+Casou-se em 1949 com Lady Müller Reis, companheira inseparável de todas as horas e fizeram muitos amigos em Bilac.
+
+Respeitado pela comunidade Bilaquense, teve o seu trabalho reconhecido através da Prefeitura Municipal, que deu seu nome a uma rua da cidade.
+
+Diagnosticou precocemente, em 1952, uma epidemia de poliomielite, cuja notificação aos órgãos de saúde, permitiu que várias crianças fossem salvas e que a epidemia não se alastrasse pela região.
+
+Mudou-se para Birigui em 1961, estabelecendo seu consultório à Praça Dr. Gama e posteriormente à Rua Conselheiro Antonio Prado, onde clinicou até decidir encerrar os seus trabalhos. Percebendo precocemente os sinais de uma doença degenerativa, decidiu sabiamente deixar de atender aos seus clientes em 2007.
+
+Clínico geral, cirurgião e obstetra, realizou aproximadamente 10000 partos, visitava diariamente todos os seus pacientes necessitados.
+
+Procurando se atualizar na profissão, participou de congressos e conferências em todo o país. Estudava diariamente assuntos relacionados à medicina. Livros de medicina eram um de seus prazeres, aos 80 anos importou dos Estados Unidos, uma coleção de livros médicos.
+
+Foi Diretor Clínico da Santa Casa de Misericórdia de Birigui, Presidente do Rotary Clube, um dos fundadores da Unimed de Birigui e fez parte da comissão de construção do Hospital Unimed. Recebeu como reconhecimento de seus colegas médicos a honra de ter seu nome dado à UTI do referido hospital.
+
+Teve a oportunidade, enquanto viveu, de ver seu trabalho, dedicação e amor pela profissão, reconhecidos por variados segmentos da sociedade: Rádio Pérola, TV Birigui, Prefeitura Municipal de Birigui, Associação Paulista de Medicina, Rotary Clube e Loja Maçônica Sete de Dezembro. Sua humildade não lhe fazia sentir merecedor das homenagens, mas lhe faziam sentir orgulhoso pelo reconhecimento.
+
+Viveu e dedicou-se intensamente às suas duas paixões, a Medicina e a Família, faleceu em 20 de dezembro de 2012 aos 94 anos, deixando um legado de honestidade, ética, honradez e amor ao próximo.
+
+**SAMANTA PAULA ALBANI BORINI Prefeita Municipal**
+

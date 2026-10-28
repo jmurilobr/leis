@@ -1,0 +1,104 @@
+---
+titulo: "RESOLUÇÃO Nº 331, DE 20 DE NOVEMBRO DE 2020"
+orgao: "Entidades de Fiscalização do Exercício das Profissões Liberais/Conselho Federal de Biomedicina"
+tipo: "Resolução"
+numero: "331"
+data: 2020-11-20
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/11/2020, seção 1, p. 211"
+data_publicacao: 2020-11-23
+edicao: "223"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-n-331-de-20-de-novembro-de-2020-289566994"
+sha256_html_fonte: 9da3d6194f616dc5965a0b1a365c3821ea5325b8fbd438aed6116810337339c4
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO Nº 331, DE 20 DE NOVEMBRO DE 2020
+
+RESOLUÇÃO Nº 331, DE 20 DE NOVEMBRO DE 2020
+
+Homologar os Orçamentos Programa, exercício 2021, dos Conselhos Regionais de Biomedicina das 1ª, 2ª, 3ª, 4ª, 5ª e 6ª Regiões.
+
+O CONSELHO FEDERAL DE BIOMEDICINA - CFBM, no uso de suas atribuições que lhe confere o inciso X e XVI do artigo 10, da Lei n.º 6684/79, de 03 de Setembro de 1979, com a modificação contida na Lei n.º 7017, de 30 de Agosto de 1982 e, o disposto no artigo 12, incisos XI e XVII do Decreto n.º 88.439/83, de 28 de Junho de 1983 e, cumprindo deliberação do Plenário em sua reunião realizada no dia 20 de Novembro de 2020, resolve:
+
+**Artigo 1º** - Homologar os Orçamentos Programa para o exercício de 2021, dos Conselhos Regionais de Biomedicina das 1ª, 2ª, 3ª, 4ª, 5ª e 6ª Regiões, conforme resumos abaixo:
+
+CONSELHO REGIONAL DE BIOMEDICINA 1ª REGIÃO
+
+ORÇAMENTO PROGRAMA - EXERCÍCIO 2021
+
+RECEITA DESPESA
+
+RECEITAS E DESPESAS CORRENTES 17.000.000,00 17.000.000,00
+
+RECEITAS E DESPESAS DE CAPITAL 3.100.000,00 3.100.000,00
+
+TOTAL 20.100.000,00 20.100.000,00
+
+CONSELHO REGIONAL DE BIOMEDICINA 2ª REGIÃO
+
+ORÇAMENTO PROGRAMA - EXERCÍCIO 2021
+
+RECEITA DESPESA
+
+RECEITAS E DESPESAS CORRENTES 4.978.418,00 4.898.338,00
+
+RECEITAS E DESPESAS DE CAPITAL 80.080,00
+
+TOTAL 4.978.418,00 4.978.418,00
+
+CONSELHO REGIONAL DE BIOMEDICINA 3ª REGIÃO
+
+ORÇAMENTO PROGRAMA - EXERCÍCIO 2021
+
+RECEITA DESPESA
+
+RECEITAS E DESPESAS CORRENTES 7.078.470,52 6.814.497,58
+
+RECEITAS E DESPESAS DE CAPITAL 51.580,00 315.552,94
+
+TOTAL 7.130.050,52 7.130.050,52
+
+CONSELHO REGIONAL DE BIOMEDICINA 4ª REGIÃO
+
+ORÇAMENTO PROGRAMA - EXERCÍCIO 2021
+
+RECEITA DESPESA
+
+RECEITAS E DESPESAS CORRENTES 2.671.712,06 2.162.036,43
+
+RECEITAS E DESPESAS DE CAPITAL 509.675,65
+
+TOTAL 2.671.712,06 2.671.712,08
+
+CONSELHO REGIONAL DE BIOMEDICINA 5ª REGIÃO
+
+ORÇAMENTO PROGRAMA - EXERCÍCIO 2021
+
+RECEITA DESPESA
+
+RECEITAS E DESPESAS CORRENTES 3.197.400,00 2.823.400,00
+
+RECEITAS E DESPESAS DE CAPITAL 2.700.000,00 3.074.000,00
+
+TOTAL 5.897.400,00 5.897.400,00
+
+CONSELHO REGIONAL DE BIOMEDICINA 6ª REGIÃO
+
+ORÇAMENTO PROGRAMA - EXERCÍCIO 2021
+
+RECEITA DESPESA
+
+RECEITAS E DESPESAS CORRENTES 2.272.623,02 2.203.533,41
+
+RECEITAS E DESPESAS DE CAPITAL 69.089,62
+
+TOTAL 2.272.623,02 2.272.623,06
+
+SILVIO JOSÉ CECCHI
+
+Presidente do Conselho
+
+RENATO MINOZZO
+
+Secretário-Geral

@@ -1,0 +1,3607 @@
+{
+  "preparado_em": "2026-10-27T21:55:37.142705-03:00",
+  "total": 36,
+  "aptos_contextuais": 34,
+  "retidos": [
+    {
+      "item": {
+        "UF": "AC",
+        "tipo": "Lei Ordinária",
+        "pasta": "leis-ordinarias",
+        "numero": "4741",
+        "data": "2025-12-18",
+        "id_LEGIS": "6618",
+        "fonte": "https://legis.ac.gov.br/detalhar/6618",
+        "titulo_indice": "Lei nº 4.741, de 18/12/2025",
+        "publicacao_literal": "Publicada no DOE de 19/12/2025",
+        "texto_cartao": "Lei nº 4.741, de 18/12/2025 Publicada no DOE de 19/12/2025 Ementa Autoriza o Poder Executivo a efetivar a adesão do Estado ao Programa de Pleno Pagamento de Dívidas dos Estados - Propag, nos termos da Lei Complementar Federal nº 212, de 13 de janeiro de 2025.",
+        "indice": {
+          "url": "https://legis.ac.gov.br/principal/1",
+          "metodo": "POST",
+          "campos": {},
+          "iniciado_em": "2026-10-27T20:19:31.123238-03:00",
+          "retorno_curl": 0,
+          "status_final": "200 https://legis.ac.gov.br/principal/1",
+          "erro": "",
+          "cache": "estaduais/AC/_fonte/auditorias/legis-indice-sondagem-20261027-003/4d859d00d621157017383063f2c09e00cd1429d1707b576bf76befd1f862b58b.html.gz",
+          "sha256_fonte": "4d859d00d621157017383063f2c09e00cd1429d1707b576bf76befd1f862b58b",
+          "sha256_cache": "92e0af49090b61aca69af21e4daea63b553509761b3333d151e3aa2198a92f97",
+          "headers": {
+            "Date": "Tue, 27 Oct 2026 23:19:31 GMT",
+            "Server": "Apache/2.4.41 (Ubuntu)",
+            "Expires": "0",
+            "Cache-Control": "no-cache, no-store, must-revalidate",
+            "Pragma": "no-cache",
+            "Vary": "Accept-Encoding",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Headers": "origin, x-requested-with, content-type",
+            "Access-Control-Allow-Methods": "PUT, GET, POST, DELETE, OPTIONS",
+            "Transfer-Encoding": "chunked",
+            "Content-Type": "text/html; charset=UTF-8"
+          },
+          "headers_sessao_omitidos": true
+        },
+        "sha256_cartao_derivado": "ba8f3f53a62cc8e0bd98a4f99318296899e33464b37c48a2903f3c3b86f7c6ef"
+      },
+      "sha256_corpo": "752a716d119e048bbd44fbf917cebff32fa05f7ba8d3634dd94423c1269662de",
+      "motivo": "Incorporação posterior explícita pela Lei4.815/2026 exige rotulagem da edição.",
+      "sem_conclusao_defeito": true
+    },
+    {
+      "item": {
+        "UF": "AC",
+        "tipo": "Lei Ordinária",
+        "pasta": "leis-ordinarias",
+        "numero": "4595",
+        "data": "2025-05-26",
+        "id_LEGIS": "6471",
+        "fonte": "https://legis.ac.gov.br/detalhar/6471",
+        "titulo_indice": "Lei nº 4.595, de 26/05/2025",
+        "publicacao_literal": "Publicada no DOE de 27/05/2025",
+        "texto_cartao": "Lei nº 4.595, de 26/05/2025 Publicada no DOE de 27/05/2025 Ementa Concede reajuste aos servidores efetivos do Tribunal de Contas do Estado do Acre - TCE/AC e altera dispositivos da Lei n° 1.781, de 3 de julho de 2006, que dispõe sobre a instituição do Plano de Cargos, Funções, Carreira e Remuneração dos servidores do Tribunal de Contas do Estado do Acre, e dá outras providências.",
+        "indice": {
+          "url": "https://legis.ac.gov.br/principal/1",
+          "metodo": "POST",
+          "campos": {},
+          "iniciado_em": "2026-10-27T20:19:31.123238-03:00",
+          "retorno_curl": 0,
+          "status_final": "200 https://legis.ac.gov.br/principal/1",
+          "erro": "",
+          "cache": "estaduais/AC/_fonte/auditorias/legis-indice-sondagem-20261027-003/4d859d00d621157017383063f2c09e00cd1429d1707b576bf76befd1f862b58b.html.gz",
+          "sha256_fonte": "4d859d00d621157017383063f2c09e00cd1429d1707b576bf76befd1f862b58b",
+          "sha256_cache": "92e0af49090b61aca69af21e4daea63b553509761b3333d151e3aa2198a92f97",
+          "headers": {
+            "Date": "Tue, 27 Oct 2026 23:19:31 GMT",
+            "Server": "Apache/2.4.41 (Ubuntu)",
+            "Expires": "0",
+            "Cache-Control": "no-cache, no-store, must-revalidate",
+            "Pragma": "no-cache",
+            "Vary": "Accept-Encoding",
+            "Access-Control-Allow-Origin": "*",
+            "Access-Control-Allow-Headers": "origin, x-requested-with, content-type",
+            "Access-Control-Allow-Methods": "PUT, GET, POST, DELETE, OPTIONS",
+            "Transfer-Encoding": "chunked",
+            "Content-Type": "text/html; charset=UTF-8"
+          },
+          "headers_sessao_omitidos": true
+        },
+        "sha256_cartao_derivado": "bef524428f966696470e9493d8dcd10b3893f52531da0e225204cfa7460a9e03"
+      },
+      "sha256_corpo": "520a81ca9ce7e2a4c6126da605f59def058cee2f895cc67a2758b8837c31d48c",
+      "motivo": "Lei4.595: rótulo literal ANEXO IIII e remissões a anexos requerem revisão própria; preservar sem escolher/corrigir numeração.",
+      "sem_conclusao_defeito": true
+    }
+  ],
+  "revisoes": [
+    {
+      "id_LEGIS": "6866",
+      "tipo": "Lei Ordinária",
+      "numero": "4821",
+      "data": "2026-07-23",
+      "sha256_fonte": "1d07e85076aaaea73c320f82c38d0f6f68d2b27bc8a25786be942b11843ad4d2",
+      "sha256_corpo": "ee096be43e795651d864340dcf64ccef8e2d05755bc0dc0997d1aafd4116a869",
+      "sha256_visivel": "6ffab7912a3538a4a270863eae64b418a69348851754d37a65bc58004fa1e02a",
+      "sha256_matrizes": "9b3d541059bcb90ad12768873082f80b219daef00a77bce396f12ef7dfdc2f37",
+      "contextos_objetos": [
+        " patrimonial, bem como de atos que dependam de autorização legislativa. ...” (NR) “Art. 8º ... IV - mapa e memorial descritivo da área objeto da aquisição, dispensáveis quando a matrícula imobiliária contiver descrição georreferenciada suficiente à identificação do bem imóvel, mediante justificativa técnica nos autos; V - laudo de avaliação e vistoria do bem imó",
+        "onial, bem como de atos que dependam de autorização legislativa. ...” (NR) “Art. 8º ... IV - mapa e memorial descritivo da área objeto da aquisição, dispensáveis quando a matrícula imobiliária contiver descrição georreferenciada suficiente à identificação do bem imóvel, mediante justificativa técnica nos autos; V - laudo de avaliação e vistoria do bem imóvel a ser a"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Art. 8º alterado exige mapa/memorial para futura aquisição e admite dispensa por matrícula georreferenciada. São documentos de cada processo, não mapa específico aprovado/omitido nesta lei.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 3.885, de 17 de dezembro de 2021, que dispõe sobre a política de gestão patrimonial dos bens imóveis do Estado."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 3.885, de 17 de dezembro de 2021, que dispõe sobre a política de gestão patrimonial dos bens imóveis do Estado."
+            }
+          ]
+        }
+      ],
+      "fim_literal": "s da administração pública estadual direta e indireta, sem prejuízo das competências dos órgãos de controle interno e externo.” (NR) Art. 2º Ficam revogados os incisos XII-A e XII-B do art. 2º da Lei nº 3.885, de 2021. Art. 3º Esta Lei entra em vigor na data de sua publicação. Rio Branco - Acre, 23 de julho de 2026, 138º da República, 124º do Tratado de Petrópolis e 65º do Estado do Acre. Mailza Assis Cameli Governadora do Estado do Acre Este texto não substitui o publicado no DOE de 24/07/2026."
+    },
+    {
+      "id_LEGIS": "6843",
+      "tipo": "Lei Ordinária",
+      "numero": "4815",
+      "data": "2026-06-30",
+      "sha256_fonte": "e6d724bf0898679d228fba3125d1420dbbe7681d742d98006579ff967d9797bf",
+      "sha256_corpo": "b23f7e9bb352a0a0dff1897f4b18f21a9d152e4ab44e9f8b2d0042369e8a5f37",
+      "sha256_visivel": "56edb8e2f398e3d646d7b5d669026d6cef85bcd69cb3ff07f27a5a968467ac46",
+      "sha256_matrizes": "d509620a874910d160a421dfae2764df0d96f54a6e10a4dac2fcee2e0d401146",
+      "contextos_objetos": [
+        "decorrentes da adesão do Estado do Acre ao Propag, conforme classificação orçamentária constante do Anexo Único. § 1° Para implementação da ação orçamentária de que trata o caput, fica autorizada a abertura de crédito adicional especial, observando-se o disposto no art. 40, no inciso II do caput do art. 41, e no art. 43, todos da Lei Federal nº 4.320, de 17 de ma",
+        " ação de que trata este artigo.” (NR) Art. 2º A Lei nº 4.741, de 2025, passa a vigorar acrescida do Anexo Único, na forma do Anexo Único a esta Lei. Art. 3º Esta Lei entra em vigor na data de sua publicação. Rio Branco - Acre, 30 de junho de 2026, 138º da República, 124º do Tratado de Petrópolis e 65º do Estado do Acre. Mailza Assis Cameli Governadora do Estado d",
+        "rtigo.” (NR) Art. 2º A Lei nº 4.741, de 2025, passa a vigorar acrescida do Anexo Único, na forma do Anexo Único a esta Lei. Art. 3º Esta Lei entra em vigor na data de sua publicação. Rio Branco - Acre, 30 de junho de 2026, 138º da República, 124º do Tratado de Petrópolis e 65º do Estado do Acre. Mailza Assis Cameli Governadora do Estado do Acre ANEXO ÚNICO “ANEXO",
+        "do Tratado de Petrópolis e 65º do Estado do Acre. Mailza Assis Cameli Governadora do Estado do Acre ANEXO ÚNICO “ANEXO ÚNICO QUADRO DE CLASSIFICAÇÃO DA AÇÃO ORÇAMENTÁRIA 715.000.00.000.0000.0000.0000 SECRETARIA DE ESTADO DA FAZENDA 715.199.00.000.0000.0000.0000 DEPARTAMENTO DO TESOURO ESTADUAL 715.199.28.000.0000.0000.0000 ENCARGOS ESPECIAIS 715.199.28.843.0000.0",
+        " Petrópolis e 65º do Estado do Acre. Mailza Assis Cameli Governadora do Estado do Acre ANEXO ÚNICO “ANEXO ÚNICO QUADRO DE CLASSIFICAÇÃO DA AÇÃO ORÇAMENTÁRIA 715.000.00.000.0000.0000.0000 SECRETARIA DE ESTADO DA FAZENDA 715.199.00.000.0000.0000.0000 DEPARTAMENTO DO TESOURO ESTADUAL 715.199.28.000.0000.0000.0000 ENCARGOS ESPECIAIS 715.199.28.843.0000.0000.0000 SERV"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Art. 2º incorpora Anexo Único à Lei4.741. O próprio Anexo Único está após a assinatura e contém o quadro de classificação da ação orçamentária, até a fonte SEFAZ e fecho NR.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 4.741, de 18 de dezembro de 2025, que autoriza o Poder Executivo a efetivar a adesão do Estado ao Programa de Pleno Pagamento de Dívidas dos Estados - Propag, nos termos da Lei Complementar Federal nº 212, de 13 de janeiro de 2025, para tratar da criação de ação orçamentária."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 4.741, de 18 de dezembro de 2025, que autoriza o Poder Executivo a efetivar a adesão do Estado ao Programa de Pleno Pagamento de Dívidas dos Estados - Propag, nos termos da Lei Complementar Federal nº 212, de 13 de janeiro de 2025, para tratar da criação de ação orçamentária."
+            }
+          ]
+        },
+        {
+          "celulas": 12,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "715.000.00.000.0000.0000.0000"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "SECRETARIA DE ESTADO DA FAZENDA"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 6,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "715.199.28.843.2288.2310.0000"
+            },
+            {
+              "linha": 6,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "PROGRAMA DE APOIO À REESTRUTURAÇÃO E AJUSTE FISCAL DOS ESTADOS (PROPAG) TRANSFERÊNCIA AO FEF"
+            }
+          ]
+        }
+      ],
+      "fim_literal": "00.000.0000.0000.0000 DEPARTAMENTO DO TESOURO ESTADUAL 715.199.28.000.0000.0000.0000 ENCARGOS ESPECIAIS 715.199.28.843.0000.0000.0000 SERVIÇO DA DÍVIDA INTERNA 715.199.28.843.2288.0000.0000 GESTÃO INSTITUCIONAL EXECUTIVO CONTROLE DE SERVIÇO DA DÍVIDA 715.199.28.843.2288.2310.0000 PROGRAMA DE APOIO À REESTRUTURAÇÃO E AJUSTE FISCAL DOS ESTADOS (PROPAG) TRANSFERÊNCIA AO FEF Fonte: Secretaria de Estado da Fazenda - SEFAZ” (NR) Este texto não substitui o publicado no DOE de 30/06/2026 (Edição Extra)."
+    },
+    {
+      "id_LEGIS": "6828",
+      "tipo": "Lei Ordinária",
+      "numero": "4814",
+      "data": "2026-06-09",
+      "sha256_fonte": "0b043b47314dc174c3cc8f4979045c8f8c79d39a2649b0f234c2218b3b435bfc",
+      "sha256_corpo": "ca1104602edf62b9c60050bbfe2cfc36a6ccf58b843462226a8f15abc5fa5e14",
+      "sha256_visivel": "098dce25ff439e8d1feac62d0bbf3b9611acbec8c3d08932f2c74e471ed40229",
+      "sha256_matrizes": "fe57ddaa49b249f6b5afffde9fd71d267822a03a8d90fdfb3564af3714d89337",
+      "contextos_objetos": [
+        "nte Lei: Art. 1º A Lei nº 1.422, de 18 de dezembro de 2001, passa a vigorar com a seguinte redação: ANEXOS TABELA A [...] Notas: a) ... ... d) os emolumentos previstos nos itens I, IV e IV-A não são devidos quando a certidão é emitida diretamente pelo interessado no sítio do Tribunal de Justiça do Estado do Acre na internet. Art. 2º Esta Lei entra em vigor na data"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Art. 1º altera a nota d da Tabela A à Lei1.422; reticências e [...] fazem parte da fórmula de alteração parcial. A nota d está expressa; não aprova nova tabela integral por remissão.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 1.422, de 18 de dezembro de 2001, que dispõe sobre o Regimento de Custas do Poder Judiciário do Estado do Acre."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 1.422, de 18 de dezembro de 2001, que dispõe sobre o Regimento de Custas do Poder Judiciário do Estado do Acre."
+            }
+          ]
+        }
+      ],
+      "fim_literal": "TABELA A [...] Notas: a) ... ... d) os emolumentos previstos nos itens I, IV e IV-A não são devidos quando a certidão é emitida diretamente pelo interessado no sítio do Tribunal de Justiça do Estado do Acre na internet. Art. 2º Esta Lei entra em vigor na data de sua publicação. Rio Branco - Acre, 9 de junho de 2026, 138º da República, 124º do Tratado de Petrópolis e 65º do Estado do Acre. Mailza Assis Cameli Governadora do Estado do Acre Este texto não substitui o publicado no DOE de 10/06/2026."
+    },
+    {
+      "id_LEGIS": "6836",
+      "tipo": "Lei Ordinária",
+      "numero": "4808",
+      "data": "2026-06-03",
+      "sha256_fonte": "f78a328b977da3cd6f312f834f49381ad8d84d24dffeb9fe9a631d7d241d1b27",
+      "sha256_corpo": "ff1e522610dabbb6394ddbfc4b387e2d9cde2f4d846c4b2d624a832cca6ca928",
+      "sha256_visivel": "d5f3196f1978b7b6a03615740cf4e874ffbd4c44afc19323c442d05a4ca960b2",
+      "sha256_matrizes": "ae210bbded5d54a2c1b69c0c8eb1f4f2edb59f84d331ee8c1dcaf4da33c37fff",
+      "contextos_objetos": [
+        " seguinte alteração: “Art. 152. Os valores do vencimento-base dos servidores efetivos constantes do Anexo IV desta Lei, bem como a remuneração das funções de confiança e dos cargos em comissão constantes do Anexo V, ficam reajustados nos valores previstos nos respectivos anexos, observada a implementação gradual das parcelas por ato do Procurador-Geral de Justiça",
+        "V desta Lei, bem como a remuneração das funções de confiança e dos cargos em comissão constantes do Anexo V, ficam reajustados nos valores previstos nos respectivos anexos, observada a implementação gradual das parcelas por ato do Procurador-Geral de Justiça, conforme disponibilidade orçamentária e financeira. Parágrafo único. Após a implementação da última parce",
+        "s cargos em comissão constantes do Anexo V, ficam reajustados nos valores previstos nos respectivos anexos, observada a implementação gradual das parcelas por ato do Procurador-Geral de Justiça, conforme disponibilidade orçamentária e financeira. Parágrafo único. Após a implementação da última parcela prevista no Anexo IV, será concedida revisão geral anual da rem",
+        "dade orçamentária e financeira. Parágrafo único. Após a implementação da última parcela prevista no Anexo IV, será concedida revisão geral anual da remuneração dos servidores efetivos, observado o disposto no art. 37, inciso X, da Constituição Federal e a disponibilidade orçamentária e financeira.” (NR) Art. 2º As despesas decorrentes da execução desta Lei, corre",
+        "do Tratado de Petrópolis e 65º do Estado do Acre. Mailza Assis Cameli Governadora do Estado do Acre ANEXO IV ATO PGJ - 1ª Parcela NÍVEL AUXILIAR MINISTERIAL NÍVEL TÉCNICO MINISTERIAL NÍVEL ANALISTA MINISTERIAL CLASSE CLASSE CLASSE Fundamental Médio Superior Pós-Graduação Lato Sensu Mestrado Doutorado Médio Superior Pós-Graduação Lato Sensu Mestrado Doutorado Supe",
+        ",39 18 20.168,59 23.193,88 24.202,31 25.210,74 26.219,17 18 24.202,89 29.043,47 30.253,61 31.463,75 ANEXO V Cargos em Comissão ATO PGJ - 1ª Parcela ATO PGJ - 2ª Parcela ATO PGJ - 3ª Parcela ATO PGJ - 4ª Parcela Nível Remuneração Remuneração Remuneração Remuneração CC-MP-1 3.226,49 3.351,34 3.476,20 3.601,05 CC-MP-2 6.378,41 6.694,57 7.010,72 7.326,87 CC-MP-3 6.89"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Anexos IV e V presentes após assinatura: quatro tabelas de parcelas ATO PGJ no IV e tabela de remuneração/comissão/confiança no V, encerrada em FC-MP-5.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 4.131, de 17 de julho de 2023, que dispõe sobre o Plano de Cargos, Carreira e Remuneração - PCCR, dos Servidores do Ministério Público do Estado do Acre - MPAC."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 4.131, de 17 de julho de 2023, que dispõe sobre o Plano de Cargos, Carreira e Remuneração - PCCR, dos Servidores do Ministério Público do Estado do Acre - MPAC."
+            }
+          ]
+        },
+        {
+          "celulas": 408,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 20,
+              "texto": "ATO PGJ - 1ª Parcela"
+            },
+            {
+              "linha": 2,
+              "rowspan": 4,
+              "colspan": 1,
+              "texto": "NÍVEL"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 23,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "22.573,29"
+            },
+            {
+              "linha": 23,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "23.476,22"
+            }
+          ]
+        },
+        {
+          "celulas": 408,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 20,
+              "texto": "ATO PGJ - 2ª Parcela"
+            },
+            {
+              "linha": 2,
+              "rowspan": 4,
+              "colspan": 1,
+              "texto": "NÍVEL"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 23,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "25.133,38"
+            },
+            {
+              "linha": 23,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "26.138,72"
+            }
+          ]
+        },
+        {
+          "celulas": 408,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 20,
+              "texto": "ATO PGJ - 3ª Parcela"
+            },
+            {
+              "linha": 2,
+              "rowspan": 4,
+              "colspan": 1,
+              "texto": "NÍVEL"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 23,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "27.693,51"
+            },
+            {
+              "linha": 23,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "28.801,25"
+            }
+          ]
+        },
+        {
+          "celulas": 408,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 20,
+              "texto": "ATO PGJ - 4ª Parcela"
+            },
+            {
+              "linha": 2,
+              "rowspan": 4,
+              "colspan": 1,
+              "texto": "NÍVEL"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 23,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "30.253,61"
+            },
+            {
+              "linha": 23,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "31.463,75"
+            }
+          ]
+        },
+        {
+          "celulas": 97,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 5,
+              "texto": "Cargos em Comissão"
+            },
+            {
+              "linha": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 21,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "5.417,42"
+            },
+            {
+              "linha": 21,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "5.612,00"
+            }
+          ]
+        }
+      ],
+      "fim_literal": "6,81 27.906,81 CC-MP-9 28.498,71 28.998,71 29.498,71 29.998,71 Funções de Confiança ATO PGJ - 1ª Parcela ATO PGJ - 2ª Parcela ATO PGJ - 3ª Parcela ATO PGJ - 4ª Parcela Nível Remuneração Remuneração Remuneração Remuneração FC-MP-1 1.202,41 1.248,94 1.295,47 1.342,00 FC-MP-2 1.748,96 1.816,64 1.884,32 1.952,00 FC-MP-3 2.842,06 2.952,04 3.062,02 3.172,00 FC-MP-4 3.935,14 4.087,40 4.239,66 4.391,92 FC-MP-5 5.028,26 5.222,84 5.417,42 5.612,00 Este texto não substitui o publicado no DOE de 11/06/2026."
+    },
+    {
+      "id_LEGIS": "6835",
+      "tipo": "Lei Ordinária",
+      "numero": "4807",
+      "data": "2026-06-03",
+      "sha256_fonte": "86ad651c99aae3a2aaa54dddc5218f92bdd246a94e9c2b4a9b99713c68fb0ff0",
+      "sha256_corpo": "32d9b5dbcf5e235ba83f90f8136780347576f20159321c61efc228ccb09431e0",
+      "sha256_visivel": "3057a3f6b4b68a5baeb2b88887d33630da88a2f716c56d3ac8382a3db8d070be",
+      "sha256_matrizes": "45413cb144c7ef422af287dc93ef8bfadd9aae5d8bedecb574342610b3dc4880",
+      "contextos_objetos": [
+        " MPAC e serão denominados Cargos em Comissão – CC-MP. § 1º Os cargos em comissão estão descritos no Anexo III e distribuídos, em quantidades mínimas, nas unidades constantes do Anexo VI desta Lei, cabendo ao Procurador-Geral de Justiça definir estruturas adicionais e complementares das unidades respectivas. ... § 3º ... I - nível médio de escolaridade, para os Ca",
+        "são estão descritos no Anexo III e distribuídos, em quantidades mínimas, nas unidades constantes do Anexo VI desta Lei, cabendo ao Procurador-Geral de Justiça definir estruturas adicionais e complementares das unidades respectivas. ... § 3º ... I - nível médio de escolaridade, para os Cargos em Comissão CC-MP-1; e II - nível superior de escolaridade, para os carg",
+        ". ... § 5º No mínimo dez por cento do quantitativo de cargos em comissão preenchidos de que trata o Anexo III serão providos por servidores ocupantes de cargo de provimento efetivo.” (NR) “Art. 13. As Funções de Confiança – FC-MP serão exercidas exclusivamente por servidores ocupantes de cargo de provimento efetivo.” (NR) ... “Art. 14. ... § 1º A chefia do gabine",
+        "es efetivos e comissionados do MP-AC, bem como dos valores das funções de confiança, constantes dos Anexos IV e V, da Lei Estadual n° 4.131, de 2023, e de suas alterações, sendo majorados em 5,08% (cinco inteiros e oito centésimos por cento), nos termos da Lei Estadual nº 4.098, de 27 de abril de 2023, com efeitos financeiros retroativos ao mês de abril de 2026. A",
+        "98, de 27 de abril de 2023, com efeitos financeiros retroativos ao mês de abril de 2026. Art. 3º Os Anexos I, II, III, IV, V e VI da Lei nº 4.131, de 17 de julho de 2023, passam a vigorar com as alterações introduzidas nos respectivos Anexos desta Lei. Art. 4º As despesas resultantes da execução desta Lei correrão à conta das dotações orçamentárias consignadas ao ",
+        "i nº 4.131, de 17 de julho de 2023, passam a vigorar com as alterações introduzidas nos respectivos Anexos desta Lei. Art. 4º As despesas resultantes da execução desta Lei correrão à conta das dotações orçamentárias consignadas ao Ministério Público do Estado do Acre. Art. 5º Ficam revogados os seguintes dispositivos da Lei nº 4.131, de 17 de julho de 2023: I – os",
+        "do Tratado de Petrópolis e 65º do Estado do Acre. Mailza Assis Cameli Governadora do Estado do Acre ANEXO I CARGOS EFETIVOS CARGO QUANTIDADE AUXILIAR MINISTERIAL 12 TÉCNICO MINISTERIAL 385 ANALISTA MINISTERIAL 600 TOTAL 997 FUNÇÕES DE CONFIANÇA NÍVEL QUANTIDADE FC-MP-1 40 FC-MP-2 40 FC-MP-3 50 FC-MP-4 30 FC-MP-5 30 TOTAL 190 CARGOS EM COMISSÃO NÍVEL QUANTIDADE CC",
+        "CC-MP-2 230 CC-MP-3 120 CC-MP-4 113 CC-MP-5 88 CC-MP-6 76 CC-MP-7 63 CC-MP-8 12 CC-MP-9 9 TOTAL 781 ANEXO II CARGO ATRIBUIÇÕES GERAIS ANALISTA MINISTERIAL Atividades de natureza continuada, de planejamento, implementação, supervisão, assessoramento, monitoramento e execução de ações, projetos, programas, processos e procedimentos judiciais, de políticas públicas,",
+        "esempenhar outras atribuições correlatas compatíveis com a escolaridade e habilitação profissional. ANEXO III FUNÇÃO QUANTIDADE SÍMBOLO Assessor - I 70 CC-MP-1 Assessor - II 230 CC-MP-2 Assessor - III 120 CC-MP-3 Assessor - IV 77 CC-MP-4 Chefe - I 36 CC-MP-4 Assessor - V 46 CC-MP-5 Coordenador 42 CC-MP-5 Assessor - VI 51 CC-MP-6 Chefe de Gabinete 3 25 CC-MP-6 Ass",
+        "CC-MP-8 Contador-Geral 1 CC-MP-8 Chefe de Gabinete 1 2 CC-MP-9 Secretário 7 CC-MP-9 TOTAL 781 CC-MP ANEXO IV NÍVEL AUXILIAR MINISTERIAL NÍVEL TÉCNICO MINISTERIAL NÍVEL ANALISTA MINISTERIAL CLASSE CLASSE CLASSE Fundamental Médio Superior Pós-Graduação Lato Sensu Mestrado Doutorado Médio Superior Pós-Graduação Lato Sensu Mestrado Doutorado Superior Pós-Graduação La",
+        ",12 18 12.263,40 14.102,91 14.716,08 15.329,25 15.942,42 18 16.010,53 19.212,63 20.013,16 20.813,69 ANEXO V Nível Remuneração CC-MP-1 3.101,63 CC-MP-2 6.062,26 CC-MP-3 6.626,20 CC-MP-4 9.868,81 CC-MP-5 10.573,73 CC-MP-6 12.688,47 CC-MP-7 15.508,14 CC-MP-8 22.557,29 CC-MP-9 23.545,34 Nível Remuneração FC-MP-1 1.155,88 FC-MP-2 1.681,28 FC-MP-3 2.732,08 FC-MP-4 3.78",
+        "el Remuneração FC-MP-1 1.155,88 FC-MP-2 1.681,28 FC-MP-3 2.732,08 FC-MP-4 3.782,88 FC-MP-5 4.833,68 ANEXO VI Unidade Função Quant. Procuradoria Geral de Justiça Gabinete Chefe de Gabinete 1 01 Assessoria Assessor Especial 02 Assessor - VII 04 Assessor - VI 04 Departamento de Cerimonial Chefe - II 01 Departamento de Comunicação e Imprensa Chefe - II 01 Coordenação"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Art. 3º altera anexos I–VI da Lei4.131; seis títulos e os respectivos quadros estão após assinatura: quantitativos, atribuições, funções, remunerações, unidades/lotação até Coordenação de Sistemas de Processo Eletrônico.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 4.131, de 17 de julho de 2023, que dispõe sobre o Plano de Cargos, Carreira e Remuneração - PCCR, dos Servidores do Ministério Público do Estado do Acre - MPAC."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 4.131, de 17 de julho de 2023, que dispõe sobre o Plano de Cargos, Carreira e Remuneração - PCCR, dos Servidores do Ministério Público do Estado do Acre - MPAC."
+            }
+          ]
+        },
+        {
+          "celulas": 51,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 2,
+              "texto": "CARGOS EFETIVOS"
+            },
+            {
+              "linha": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "CARGO"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 28,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "TOTAL"
+            },
+            {
+              "linha": 28,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "781"
+            }
+          ]
+        },
+        {
+          "celulas": 8,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "CARGO"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "ATRIBUIÇÕES GERAIS"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 4,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "AUXILIAR MINISTERIAL"
+            },
+            {
+              "linha": 4,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Executar serviços e atividades compatíveis com seu nível de escolaridade, de caráter administrativo, técnico e operacional, prestando suporte nas mais diversas áreas finalísticas e da gestão necessárias ao desempenho das atividades inerentes ao funcionamento do MPAC. Desempenhar outras atribuições correlatas compatíveis com a escolaridade e habilitação profissional."
+            }
+          ]
+        },
+        {
+          "celulas": 54,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "FUNÇÃO"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "QUANTIDADE"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 18,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "781"
+            },
+            {
+              "linha": 18,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "CC-MP"
+            }
+          ]
+        },
+        {
+          "celulas": 407,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 4,
+              "colspan": 1,
+              "texto": "NÍVEL"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 6,
+              "texto": "AUXILIAR MINISTERIAL"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 22,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "20.013,16"
+            },
+            {
+              "linha": 22,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "20.813,69"
+            }
+          ]
+        },
+        {
+          "celulas": 34,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Nível"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Remuneração"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 17,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "FC-MP-5"
+            },
+            {
+              "linha": 17,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "4.833,68"
+            }
+          ]
+        },
+        {
+          "celulas": 398,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Unidade"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Função"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 180,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Coordenador"
+            },
+            {
+              "linha": 180,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "01"
+            }
+          ]
+        }
+      ],
+      "fim_literal": "ção Chefe - II 01 Coordenação de Estrutura e Redes Coordenador 01 Coordenação de Suporte Técnico Coordenador 01 Departamento de Sistemas e Soluções Digitais Chefe - II 01 Coordenação de Desenvolvimento de Softwares Coordenador 01 Coordenação de Análise e Banco de Dados Coordenador 01 Departamento de Suporte e Sistemas Chefe - II 01 Coordenação de Suporte Nível 1 Coordenador 01 Coordenação de Sistemas de Processo Eletrônico Coordenador 01 Este texto não substitui o publicado no DOE de 11/06/2026."
+    },
+    {
+      "id_LEGIS": "6799",
+      "tipo": "Lei Ordinária",
+      "numero": "4801",
+      "data": "2026-04-15",
+      "sha256_fonte": "bbf5d8f14143f1e936f321474e1b7a2296d159a769c6eed2dc6d4f056b661615",
+      "sha256_corpo": "ace89486187f714df5a711bf0d757c19a4a1f6c52ab276257653a6b838f0c4d7",
+      "sha256_visivel": "6be115ede52c09bfcde1e8d3d5e85dfda6bc2492363908816a84e8d7dd0360c7",
+      "sha256_matrizes": "304207c4872bbee3d7b5b75bf17fd28e234855cd6692f0349e68f1e4d3a7aa72",
+      "contextos_objetos": [
+        "ABER que a Assembleia Legislativa do Estado do Acre decreta e eu sanciono a seguinte Lei: Art. 1° O Anexo II, da Lei nº 3.378, de 17 de abril de 2018, passa a vigorar com a seguinte redação: “ANEXO II CARGOS DE DIREÇÃO E ASSESSORAMENTO ESPECIAL DENOMINAÇÃO DO CARGO VALOR ... ... ... Subsecretário de Publicidade e Comunicação Social Subsecretário de Patrimônio e S",
+        "t. 1° O Anexo II, da Lei nº 3.378, de 17 de abril de 2018, passa a vigorar com a seguinte redação: “ANEXO II CARGOS DE DIREÇÃO E ASSESSORAMENTO ESPECIAL DENOMINAÇÃO DO CARGO VALOR ... ... ... Subsecretário de Publicidade e Comunicação Social Subsecretário de Patrimônio e Serviços Subsecretário de Tecnologia da Informação Contador-Geral ... Consultor Jurídico-Admi"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Art. 1º dá nova redação parcial ao Anexo II da Lei3.378, com tabela inserida no próprio dispositivo e reticências literais para trechos não alterados. O quadro está preservado antes do Art. 2º.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 3.378, de 17 de abril de 2018, que dispõe sobre a remuneração dos cargos de provimento efetivo e em comissão da Assembleia Legislativa do Estado do Acre - ALEAC."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 3.378, de 17 de abril de 2018, que dispõe sobre a remuneração dos cargos de provimento efetivo e em comissão da Assembleia Legislativa do Estado do Acre - ALEAC."
+            }
+          ]
+        },
+        {
+          "celulas": 14,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "DENOMINAÇÃO DO CARGO"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "VALOR"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 7,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "..."
+            },
+            {
+              "linha": 7,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "..."
+            }
+          ]
+        }
+      ],
+      "fim_literal": "de Núcleo da TV e Rádio da Assembleia Legislativa Diretor de Apoio à Gestão Administrativa e Contratações Diretor da Escola do Legislativo ... ... ... ... ... ... ... ” (NR) Art. 2º Esta Lei entra em vigor na data da sua publicação, com efeitos a contar de 1º de abril de 2026. Rio Branco - Acre, 15 de abril de 2026, 138º da República, 124º do Tratado de Petrópolis e 65º do Estado do Acre. Mailza Assis Cameli Governadora do Estado do Acre Este texto não substitui o publicado no DOE de 16/04/2026."
+    },
+    {
+      "id_LEGIS": "6786",
+      "tipo": "Lei Ordinária",
+      "numero": "4787",
+      "data": "2026-04-01",
+      "sha256_fonte": "c4f871ee371bd73ac251f7c5b2a1f0cd78531c2e4136159caef5824644b4826f",
+      "sha256_corpo": "26e058e97058e6a44af05257990a3794677c9f5ae66dc5cb371bd1bc93fb85a4",
+      "sha256_visivel": "e87da9ac069361618b4c03fb3b940b11ebeb1359cf2cde708c07f81df6447614",
+      "sha256_matrizes": "41410cd8ee661d71cc0fba5305138ca2201a6f2c1177fd71866a924656e89244",
+      "contextos_objetos": [
+        "oridade de trânsito, examinadores de trânsito e assistente de trânsito, o disposto na alínea “a” do Anexo III desta Lei, observando-se as disposições da Lei nº 3.916, de 1º de abril de 2022 e da Lei nº 4.098, de 27 de abril de 2023.” (NR) Art. 2º Esta Lei entra em vigor na data de sua publicação. Rio Branco - Acre, 1º de abril de 2026, 138º da República, 124º do "
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Alínea a do Anexo III é citada dentro da redação do Art.35-A da Lei2.448; a lei atual modifica dispositivos, sem criar/aprovar anexo próprio.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 2.448, de 10 de outubro de 2011, que institui o Plano de Cargos, Carreiras e Remuneração - PCCR dos servidores públicos do Departamento Estadual de Trânsito do Acre - DETRAN/AC, para dispor sobre a progressão e promoção dos servidores."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 2.448, de 10 de outubro de 2011, que institui o Plano de Cargos, Carreiras e Remuneração - PCCR dos servidores públicos do Departamento Estadual de Trânsito do Acre - DETRAN/AC, para dispor sobre a progressão e promoção dos servidores."
+            }
+          ]
+        }
+      ],
+      "fim_literal": "trânsito e assistente de trânsito, o disposto na alínea “a” do Anexo III desta Lei, observando-se as disposições da Lei nº 3.916, de 1º de abril de 2022 e da Lei nº 4.098, de 27 de abril de 2023.” (NR) Art. 2º Esta Lei entra em vigor na data de sua publicação. Rio Branco - Acre, 1º de abril de 2026, 138º da República, 124º do Tratado de Petrópolis e 65º do Estado do Acre. Gladson de Lima Camelí Governador do Estado do Acre Este texto não substitui o publicado no DOE de 02/04/2026 (Edição Extra)."
+    },
+    {
+      "id_LEGIS": "6785",
+      "tipo": "Lei Ordinária",
+      "numero": "4782",
+      "data": "2026-04-01",
+      "sha256_fonte": "7c234715e3c0bb7ac8eb91899518b16f49370c2f472a87cbe60952aa07d0219c",
+      "sha256_corpo": "f717cc371f5581db3c437bbb70817b84dc91bb1f5dbd73fc2fc7c312f3e455f4",
+      "sha256_visivel": "83b94cc289ac5f1ec6da86a550af0a45c5a9a23543f9ac45c8bb6bb3104d08b5",
+      "sha256_matrizes": "a0a015ace8c3627293bdb1cfa057a17858543b6ed121efff3ab9bf601be19e19",
+      "contextos_objetos": [
+        "Art. 6º Não se aplica o disposto no inciso III do § 1º e na alínea “g” do § 3º, ambos do art. 1º do Anexo II à Lei nº 3.724, de 13 de abril de 2021, e em seu regulamento, ao produtor rural que aderir ao Rebanho Certo/AC e tiver sua declaração de atualização cadastral homologada pelo IDAF. § 1º O disposto no caput se dará uma única vez por exploração pecuária, sen",
+        "Será aplicada a multa de que trata o inciso III do § 1º e a alínea “g” do § 3º, ambos do art. 1º do Anexo II à Lei nº 3.724, de 2021, com acréscimo de 100% (cem por cento), nas seguintes hipóteses: I - comprovação, por vistoria in loco ou outro meio de prova, de que a quantidade de animais declarada na declaração de atualização cadastral é falsa ou fraudulenta; I"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Anexo II referido é expressamente o da Lei3.724/2021, nos critérios/sanções do Rebanho Certo. Não há aprovação de anexo próprio desta lei.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Dispõe sobre o Programa Estadual de Atualização Cadastral do Rebanho Bovino e Bubalino do Acre - Rebanho Certo/AC."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Dispõe sobre o Programa Estadual de Atualização Cadastral do Rebanho Bovino e Bubalino do Acre - Rebanho Certo/AC."
+            }
+          ]
+        }
+      ],
+      "fim_literal": "ormas complementares para o cumprimento desta Lei. Art. 10. As despesas decorrentes desta Lei devem correr por conta de dotação orçamentária atribuída ao IDAF. Art. 11. Esta Lei entra em vigor na data de sua publicação, com vigência até 31 de dezembro de 2029. Rio Branco - Acre, 1º de abril de 2026, 138º da República, 124º do Tratado de Petrópolis e 65º do Estado do Acre. Gladson de Lima Camelí Governador do Estado do Acre Este texto não substitui o publicado no DOE de 02/04/2026 (Edição Extra)."
+    },
+    {
+      "id_LEGIS": "6747",
+      "tipo": "Lei Ordinária",
+      "numero": "4780",
+      "data": "2026-03-06",
+      "sha256_fonte": "44ee611daa49c2c72abcd32a0d971de6a029ded4086632cc611edf7021f6ca8c",
+      "sha256_corpo": "90f7e2ef8e5c5417a0a819d49344368d66113ba3bf431677546db9c3ce725117",
+      "sha256_visivel": "0e30dc26f1fad4795487c2d5d5b0120851e69fa930b7eaa4a1a6c7c2c6847a4e",
+      "sha256_matrizes": "62538385f821b1455afcfe08698853d2fda3765d726dc0b263b63100f8681f86",
+      "contextos_objetos": [
+        "s emendas parlamentares implementadas por meio de créditos adicionais especiais serão divulgadas em anexo específico a ser publicado mediante ato do Poder Executivo, contendo a identificação das emendas atendidas e a respectiva programação orçamentária. § 1º-B Fica o Poder Executivo autorizado a abrir créditos adicionais especiais, durante a execução orçamentária"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "O texto alterado da lei orçamentária prevê divulgação futura de emendas em anexo a ser publicado por ato do Executivo; não incorpora um anexo já aprovado por esta norma.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 4.627, de 31 de julho de 2025, que dispõe sobre as diretrizes orçamentárias do Estado do Acre para o exercício financeiro de 2026, para tratar do demonstrativo das emendas parlamentares."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 4.627, de 31 de julho de 2025, que dispõe sobre as diretrizes orçamentárias do Estado do Acre para o exercício financeiro de 2026, para tratar do demonstrativo das emendas parlamentares."
+            }
+          ]
+        }
+      ],
+      "fim_literal": "rir créditos adicionais especiais, durante a execução orçamentária, destinados à implementação das emendas parlamentares, observados os limites, as fontes de recursos e as demais disposições legais vigentes. ...” (NR) Art. 2º Esta Lei entra em vigor na data de sua publicação. Rio Branco - Acre, 6 de março de 2026, 138º da República, 124º do Tratado de Petrópolis e 65º do Estado do Acre. Gladson de Lima Camelí Governador do Estado do Acre Este texto não substitui o publicado no DOE de 10/03/2026."
+    },
+    {
+      "id_LEGIS": "6746",
+      "tipo": "Lei Ordinária",
+      "numero": "4779",
+      "data": "2026-03-06",
+      "sha256_fonte": "1086b694c2e3838c01575ff58d414968137118559b5d12d154487c9036e981ed",
+      "sha256_corpo": "f450ef7098ccaf37ca3062d4189fba698ea75b65240b00708543d297ac6ff3e4",
+      "sha256_visivel": "d75f231e29317bba9b7c9bdfaa6f471eef3d9d752957367940cb3614140bcf60",
+      "sha256_matrizes": "b4de3a0e486cf1a2d523e661226179eb517d353bb642c046a4b8c16e4927f12d",
+      "contextos_objetos": [
+        "ecificamente para o futebol acreano, no exercício de 2026, de acordo com o detalhamento previsto no Anexo Único. Art. 2º A destinação de recursos de que trata esta Lei tem caráter específico e natureza não habitual, com o propósito de viabilizar o cumprimento das obrigações decorrentes da realização do campeonato estadual de futebol profissional de 2026. Art. 3º ",
+        " Tratado de Petrópolis e 65º do Estado do Acre. Gladson de Lima Camelí Governador do Estado do Acre ANEXO ÚNICO ITEM DESCRIÇÃO DA PREMIAÇÃO UNIDADE QUANTIDADE VALOR UNITÁRIO (R$) VALOR TOTAL (R$) 1 Premiação individual de participação dos clubes no campeonato estadual profissional 1ª divisão masculino clube 8 50.000,00 400.000,00 2 Premiação do 1° colocado do cam"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "O Anexo Único referido no Art.1º está integralmente no campo: itens de premiação/apoio1–35, valor global2.000.000,00, com cabeçalhos/unidades/quantidade/valores preservados.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Dispõe sobre a destinação de recursos financeiros para o desporto de alto rendimento, especificamente para o futebol acreano, no exercício de 2026."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Dispõe sobre a destinação de recursos financeiros para o desporto de alto rendimento, especificamente para o futebol acreano, no exercício de 2026."
+            }
+          ]
+        },
+        {
+          "celulas": 218,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "ITEM"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "DESCRIÇÃO DA PREMIAÇÃO"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 37,
+              "rowspan": 1,
+              "colspan": 5,
+              "texto": "VALOR GLOBAL"
+            },
+            {
+              "linha": 37,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "2.000.000,00"
+            }
+          ]
+        }
+      ],
+      "fim_literal": "2.000,00 2.000,00 32 Apoio ao campeonato de seleções municipais do Acre sub-17 de futebol masculino com logística/prestação de serviços - 1 80.000,00 80.000,00 33 Apoio para a crônica esportiva - 1 80.000,00 80.000,00 34 Apoio para a arbitragem do campeonato acreano de futebol profissional - 1 100.000,00 100.000,00 35 apoio ao campeonato amador adulto com logística/prestação de serviços - 1 150.000,00 150.000,00 VALOR GLOBAL 2.000.000,00 Este texto não substitui o publicado no DOE de 10/03/2026."
+    },
+    {
+      "id_LEGIS": "6600",
+      "tipo": "Lei Ordinária",
+      "numero": "4679",
+      "data": "2025-11-10",
+      "sha256_fonte": "6ea744a2a06d56666c8ecd0eb6893bcff8c0f9b0c7ea4a63b950913359e53a70",
+      "sha256_corpo": "543822ad0a8eac800f28a0d2266a52500c0cfae407183dbcbd1d329103927f27",
+      "sha256_visivel": "b1d94b4cda4f55ecfec2350f96181c27a2ee3ef1776fca0f62e7a8f22426cc63",
+      "sha256_matrizes": "a6477b8c0a8005887d38c8000db47197155aca46ea70f3642be939e1bd038aa3",
+      "contextos_objetos": [
+        "s fases de elaboração e execução das leis orçamentárias, deve o Poder Executivo elaborar e publicar anexo específico contendo o detalhamento das ações direcionadas ao Orçamento Climático, seguindo os marcadores climáticos alocados nos seguintes eixos: I - desenvolvimento sustentável e bioeconomia: promoção de atividades econômicas de baixo carbono, valorizando os",
+        "queimadas e desastres naturais. Parágrafo único. Cabe ao Poder Executivo providenciar a inserção do anexo de que trata o caput às leis orçamentárias. Art. 11. O anexo de que trata o art. 10 deve contemplar as seguintes informações, discriminadas por unidade orçamentária, para valores em reais e metas físicas: I - previsão e execução orçamentária do exercício ante",
+        "r Executivo providenciar a inserção do anexo de que trata o caput às leis orçamentárias. Art. 11. O anexo de que trata o art. 10 deve contemplar as seguintes informações, discriminadas por unidade orçamentária, para valores em reais e metas físicas: I - previsão e execução orçamentária do exercício anterior por ações e programas; II - diferença entre a previsão e"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Arts.10–11 determinam elaboração/inserção de anexo climático nas leis orçamentárias pelo Executivo. São deveres para a elaboração/execução futura, não anexo específico aprovado nesta lei de princípios.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Dispõe sobre o Orçamento Climático do Estado do Acre."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Dispõe sobre o Orçamento Climático do Estado do Acre."
+            }
+          ]
+        }
+      ],
+      "fim_literal": "ntares para o cumprimento desta Lei. Art. 15. Aplica-se o disposto no art. 10 e nos incisos I, II e IV do caput do art. 11, a partir do segundo exercício subsequente ao início da vigência desta Lei. Art. 16. Esta Lei entra em vigor na data de sua publicação. Rio Branco - Acre, 10 de novembro de 2025, 137º da República, 123º do Tratado de Petrópolis e 64º do Estado do Acre. Mailza Assis da Silva Governadora do Estado do Acre, em exercício Este texto não substitui o publicado no DOE de 12/11/2025."
+    },
+    {
+      "id_LEGIS": "6592",
+      "tipo": "Lei Ordinária",
+      "numero": "4659",
+      "data": "2025-10-30",
+      "sha256_fonte": "a05c1efd992b2265fd2a7d0411fdb756d4b12c62df8547a47c5c189671d69b56",
+      "sha256_corpo": "b7da4b642a6a777357cb71d8ba5156384bc03b3fe725acb9bb7850692cb91e93",
+      "sha256_visivel": "a0f01688a8da2be0c6e6b1053deab50618e72a55f6bd07aab81efdebc10f26cd",
+      "sha256_matrizes": "dbeb5f374ef10e87c6f6cfc356f035579c7f8a7638d882fc27e74db533fe5609",
+      "contextos_objetos": [
+        " vigorar com a seguinte redação: “Art. 47-D. ... ... II-A - Secretaria Adjunta; ...” (NR) Art. 2º O Anexo I à Lei Complementar nº 419, de 2022, passa a vigorar na forma do Anexo Único a esta Lei. Art. 3º O custeio da remuneração do cargo de Secretário Adjunto da Secretaria de Estado de Turismo e Empreendedorismo deve ser deduzido do valor referencial mensal previ",
+        "djunta; ...” (NR) Art. 2º O Anexo I à Lei Complementar nº 419, de 2022, passa a vigorar na forma do Anexo Único a esta Lei. Art. 3º O custeio da remuneração do cargo de Secretário Adjunto da Secretaria de Estado de Turismo e Empreendedorismo deve ser deduzido do valor referencial mensal previamente estipulado no art. 2º da Lei nº 4.085, 16 de fevereiro de 2023. A",
+        " Tratado de Petrópolis e 64º do Estado do Acre. Gladson de Lima Camelí Governador do Estado do Acre ANEXO ÚNICO “ANEXO I ... ITEM GRUPO/SIMBOLOGIA SUBITEM NOMENCLATURA 1 Cargos em Comissão de Natureza Especial - NES 1 1.1 Secretário de Estado-Chefe da Casa Civil 1.2 Secretário de Estado de Governo 1.3 Secretário de Estado da Fazenda 1.4 Secretário de Estado de Pl",
+        "etrópolis e 64º do Estado do Acre. Gladson de Lima Camelí Governador do Estado do Acre ANEXO ÚNICO “ANEXO I ... ITEM GRUPO/SIMBOLOGIA SUBITEM NOMENCLATURA 1 Cargos em Comissão de Natureza Especial - NES 1 1.1 Secretário de Estado-Chefe da Casa Civil 1.2 Secretário de Estado de Governo 1.3 Secretário de Estado da Fazenda 1.4 Secretário de Estado de Planejamento 1."
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Art.2º substitui Anexo I da LC419 pelo Anexo Único aqui presente após assinatura; quadro de grupos/cargos alcança item2.20 Chefe do Gabinete do Vice-Governador.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei Complementar nº 419, de 15 de dezembro de 2022, que estabelece a estrutura básica da administração do Poder Executivo, para dispor sobre a estrutura básica da Secretaria de Estado de Turismo e Empreendedorismo."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei Complementar nº 419, de 15 de dezembro de 2022, que estabelece a estrutura básica da administração do Poder Executivo, para dispor sobre a estrutura básica da Secretaria de Estado de Turismo e Empreendedorismo."
+            }
+          ]
+        },
+        {
+          "celulas": 94,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "ITEM"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "GRUPO/SIMBOLOGIA"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 44,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "2.20"
+            },
+            {
+              "linha": 44,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Chefe do Gabinete do Vice-Governador"
+            }
+          ]
+        }
+      ],
+      "fim_literal": "ecretário Adjunto de Ensino 2.12 Secretário Adjunto de Assistência Social e Direitos Humanos 2.13 Secretário Adjunto de Agricultura 2.14 Secretário Adjunto do Meio Ambiente 2.15 Secretário Adjunto de Obras Públicas 2.16 Secretário Adjunto de Turismo e Empreendedorismo 2.17 Subchefe do Gabinete Pessoal do Governador 2.18 Coordenador da Casa Civil 2.19 Subchefe da Casa Militar 2.20 Chefe do Gabinete do Vice-Governador ” (NR) Este texto não substitui o publicado no DOE de 30/10/2025 (Edição Extra)."
+    },
+    {
+      "id_LEGIS": "6572",
+      "tipo": "Lei Ordinária",
+      "numero": "4651",
+      "data": "2025-09-22",
+      "sha256_fonte": "0d3be038ecfaea2c795faac33195975667ec53d84fde853af3c6dd51f318895c",
+      "sha256_corpo": "a17f7d586430ae96a98aa309fcae3b2eb3a4bc14d6617c3ae4ce08830e6386af",
+      "sha256_visivel": "0438e1a294ac364668b12661d1b5c9a642024a4ca2e846db18dffcaa15f53668",
+      "sha256_matrizes": "010264e410604229b86dd07ebae197639160422e57a6fb0041a8975e4ce7433d",
+      "contextos_objetos": [
+        "nto da primeira parcela pela operadora de cartão de crédito e emissão do respectivo CRLV. Art. 4º O Anexo II à Lei nº 1.169, de 13 de dezembro de 1995, passa a vigorar com as alterações promovidas pelo Anexo Único a esta Lei. Art. 5º Fica o Poder Executivo autorizado a editar normas complementares para o cumprimento desta Lei. Art. 6º Esta Lei entra em vigor na d",
+        "exo II à Lei nº 1.169, de 13 de dezembro de 1995, passa a vigorar com as alterações promovidas pelo Anexo Único a esta Lei. Art. 5º Fica o Poder Executivo autorizado a editar normas complementares para o cumprimento desta Lei. Art. 6º Esta Lei entra em vigor na data de sua publicação. Rio Branco - Acre, 22 de setembro de 2025, 137º da República, 123º do Tratado d",
+        " Tratado de Petrópolis e 64º do Estado do Acre. Gladson de Lima Camelí Governador do Estado do Acre ANEXO ÚNICO “ANEXO II ... 1 ... ... 1.1 Estada (dia) depósitos de veículos apreendidos – Motocicleta, Ciclomotor, Motoneta ou Quadriciclo R$ 15,50 1.2 Estada(dia) - depósito de veículos apreendidos – Automóvel e Camioneta R$ 26,50 1.2.1 Estada(dia) - depósito de ve",
+        "etrópolis e 64º do Estado do Acre. Gladson de Lima Camelí Governador do Estado do Acre ANEXO ÚNICO “ANEXO II ... 1 ... ... 1.1 Estada (dia) depósitos de veículos apreendidos – Motocicleta, Ciclomotor, Motoneta ou Quadriciclo R$ 15,50 1.2 Estada(dia) - depósito de veículos apreendidos – Automóvel e Camioneta R$ 26,50 1.2.1 Estada(dia) - depósito de veículos apreen"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Art.4º modifica Anexo II da Lei1.169 através do Anexo Único presente, tabela de serviços/taxas. Reticências NR são literais de alteração parcial; última linha alterada3.13/690,00 preservada.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Dispõe sobre os Programas de incentivo à boa conduta no trânsito, por meio do Prêmio Bom Condutor, do Prêmio Licenciamento em Dia e da Campanha de Regularização de Débitos de Licenciamento, e altera a Lei nº 1.169, de 13 de dezembro de 1995, que transforma o Departamento de Trânsito em Autarquia, para dispor sobre as taxas sobre os serviços em relação ao âmbito de atuação do Departamento Estadual de Trânsito - DETRAN."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Dispõe sobre os Programas de incentivo à boa conduta no trânsito, por meio do Prêmio Bom Condutor, do Prêmio Licenciamento em Dia e da Campanha de Regularização de Débitos de Licenciamento, e altera a Lei nº 1.169, de 13 de dezembro de 1995, que transforma o Departamento de Trânsito em Autarquia, para dispor sobre as taxas sobre os serviços em relação ao âmbito de atuação do Departamento Estadual de Trânsito - DETRAN."
+            }
+          ]
+        },
+        {
+          "celulas": 70,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 3,
+              "texto": "..."
+            },
+            {
+              "linha": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "1"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 24,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "..."
+            },
+            {
+              "linha": 24,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "..."
+            }
+          ]
+        }
+      ],
+      "fim_literal": "de carga com PBT acima de 4.000 kg R$ 420,40 1.18 Acréscimo por KM rodado na remoção de veículo acima de 20 KM, para todos os tipos e modelos de veículos R$ 4,38 ... ... ... 2.16 Avaliação Psicológica (aptidão psicológica) R$ 180,00 2.17 Avaliação Médica (aptidão física) R$ 150,00 3 ... ... ... ... ... 3.13 Registro de contratos de financiamento de agentes financeiros junto ao SNG (por serviço) R$ 690,00 ... ... ... ” (NR) Este texto não substitui o publicado no DOE de 30/09/2025 (Edição Extra)."
+    },
+    {
+      "id_LEGIS": "6522",
+      "tipo": "Lei Ordinária",
+      "numero": "4626",
+      "data": "2025-07-24",
+      "sha256_fonte": "c08f2e3b7cf360240f4db85e5e42365ce5b9cc34d025204fc7131d97bb1535cd",
+      "sha256_corpo": "1919f80eb211378fb99eed453951824d1e3d502190ad5f4e0ecdd28c34a995f2",
+      "sha256_visivel": "e6290c5720e66037512c1bc16534855e33bc5b681c13224a6ed831f5fe7493c7",
+      "sha256_matrizes": "fc3087ff33a5efc444800526c0285758d4a446c9fb5fc26b0ed270779516e914",
+      "contextos_objetos": [
+        "ABER que a Assembleia Legislativa do Estado do Acre decreta e eu sanciono a seguinte Lei: Art. 1° O Anexo II, da Lei nº 3.378, de 17 de abril de 2018, passa a vigorar com a seguinte redação: “ANEXO II REMUNERAÇÃO DOS CARGOS DE DIREÇÃO E ASSESSORAMENTO ESPECIAL DENOMINAÇÃO DO CARGO VALOR Secretário Executivo R$ 26.000,00 Secretário Executivo Adjunto Administrativo",
+        "t. 1° O Anexo II, da Lei nº 3.378, de 17 de abril de 2018, passa a vigorar com a seguinte redação: “ANEXO II REMUNERAÇÃO DOS CARGOS DE DIREÇÃO E ASSESSORAMENTO ESPECIAL DENOMINAÇÃO DO CARGO VALOR Secretário Executivo R$ 26.000,00 Secretário Executivo Adjunto Administrativo Secretário Executivo Adjunto de Relações Institucionais Consultor-Geral da Mesa Diretora Co"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Art.1º altera Anexo II da Lei3.378 com quadro no próprio dispositivo. Cargo/valor, agrupamentos e reticências literais estão preservados; não remete a outro anexo próprio ausente.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 3.378, de 17 de abril de 2018, que dispõe sobre a remuneração dos cargos de provimento efetivo e em comissão da Assembleia Legislativa do Estado do Acre - ALEAC."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 3.378, de 17 de abril de 2018, que dispõe sobre a remuneração dos cargos de provimento efetivo e em comissão da Assembleia Legislativa do Estado do Acre - ALEAC."
+            }
+          ]
+        },
+        {
+          "celulas": 14,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "DENOMINAÇÃO DO CARGO"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "VALOR"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 7,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Assessores Especiais das Comissões Permanentes"
+            },
+            {
+              "linha": 7,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "12.000,00"
+            }
+          ]
+        }
+      ],
+      "fim_literal": "rimônio e Material Coordenador de Cerimonial Coordenador de Polícia Legislativa R$ 13.000,00 Assessores Especiais das Comissões Permanentes 12.000,00 ” (NR) Art. 2º Esta Lei entra em vigor na data da sua publicação, com efeitos a contar de 1º de junho de 2025. Rio Branco - Acre, 24 de julho de 2025, 137º da República, 123º do Tratado de Petrópolis e 64º do Estado do Acre. Gladson de Lima Camelí Governador do Estado do Acre Este texto não substitui o publicado no DOE de 25/07/2025 (Edição Extra)."
+    },
+    {
+      "id_LEGIS": "6520",
+      "tipo": "Lei Ordinária",
+      "numero": "4624",
+      "data": "2025-07-24",
+      "sha256_fonte": "e2179b7dc03208cb2baa6888b4f15d76046f51bc76a907650d18e7d20332ca0f",
+      "sha256_corpo": "18751154e52bb9afe12d795027647cc77dac3ea1954ea7f6d84c78d7f450fd90",
+      "sha256_visivel": "cdec551d9fbaeddb616ce788a80e1d3b0620b23bcad30bb3b7874bd5b3fb8a4a",
+      "sha256_matrizes": "0bf9e4abc453d1acdd237751f2b8cf9fa8561cfb4083ab4a5178773d91de2f6a",
+      "contextos_objetos": [
+        "icações funcionais e demais registros administrativos dos servidores ocupantes do cargo. Art. 4º Os Anexos III e IV, da Resolução nº 126, de 29 de junho de 2011, convalidada pela Lei nº 3.335, de 6 de dezembro de 2017, passam a vigorar na forma do Anexo Único desta Lei. Art. 5º Esta Lei entra em vigor na data de sua publicação. Rio Branco - Acre, 24 de julho de 20",
+        "unho de 2011, convalidada pela Lei nº 3.335, de 6 de dezembro de 2017, passam a vigorar na forma do Anexo Único desta Lei. Art. 5º Esta Lei entra em vigor na data de sua publicação. Rio Branco - Acre, 24 de julho de 2025, 137º da República, 123º do Tratado de Petrópolis e 64º do Estado do Acre. Gladson de Lima Camelí Governador do Estado do Acre ANEXO ÚNICO “ANEX",
+        " Tratado de Petrópolis e 64º do Estado do Acre. Gladson de Lima Camelí Governador do Estado do Acre ANEXO ÚNICO “ANEXO III QUADRO DE PESSOAL GRUPO OCUPACIONAL - NIVEL MÉDIO CÓDIGO PL - NB - 300 CARGO - CÓD PL. NM ÁREAS/ESPECIALIDADES CLASSE REFERÊNCIA TÉCNICO LEGISLATIVO ADMINISTRATIVA SAÚDE INFORMÁTICA CONTÁBIL REDAÇÃO TAQUIGRAFIA LEGISLATIVA MANUTENÇÃO E SERVIÇ",
+        "etrópolis e 64º do Estado do Acre. Gladson de Lima Camelí Governador do Estado do Acre ANEXO ÚNICO “ANEXO III QUADRO DE PESSOAL GRUPO OCUPACIONAL - NIVEL MÉDIO CÓDIGO PL - NB - 300 CARGO - CÓD PL. NM ÁREAS/ESPECIALIDADES CLASSE REFERÊNCIA TÉCNICO LEGISLATIVO ADMINISTRATIVA SAÚDE INFORMÁTICA CONTÁBIL REDAÇÃO TAQUIGRAFIA LEGISLATIVA MANUTENÇÃO E SERVIÇOS GERAIS COM",
+        "NIAL BIBLIOTECA E ARQUIVO SAÚDE POLICIA LEGISLATIVA D C B A 10 A 13 07 A 09 04 A 06 01 A 03 “ (NR) “ANEXO IV QUADRO DE PESSOAL GRUPO OCUPACIONAL - NIVEL BÁSICO CÓDIGO PL - NB - 400 CARGO - CÓD PL. NB ÁREAS/ESPECIALIDADES CLASSE REFERÊNCIA TÉCNICO LEGISLATIVO ADMINISTRATIVA SERVIÇOS GERAIS SOM PROTOCOLO TELEFONIA POLÍCIA LEGISLATIVA D C B A 10 A 13 07 A 09 04 A 06"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Anexo Único após assinatura contém os Anexos III e IV alterados da Resolução126: ambos os quadros de pessoal, cargos/classes/referências presentes até10–13/07–09/04–06/01–03.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera dispositivos da Resolução nº 126, de 29 de junho de 2011, convalidada pela Lei nº 3.335, de 6 de dezembro de 2017 e modificada pela Lei nº 3.378, de 17 de abril de 2018."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera dispositivos da Resolução nº 126, de 29 de junho de 2011, convalidada pela Lei nº 3.335, de 6 de dezembro de 2017 e modificada pela Lei nº 3.378, de 17 de abril de 2018."
+            }
+          ]
+        },
+        {
+          "celulas": 8,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "CARGO - CÓD PL. NM"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "ÁREAS/ESPECIALIDADES"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "D C B A"
+            },
+            {
+              "linha": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "10 A 13 07 A 09 04 A 06 01 A 03"
+            }
+          ]
+        },
+        {
+          "celulas": 8,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "CARGO - CÓD PL. NB"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "ÁREAS/ESPECIALIDADES"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "D C B A"
+            },
+            {
+              "linha": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "10 A 13 07 A 09 04 A 06 01 A 03"
+            }
+          ]
+        }
+      ],
+      "fim_literal": "A LEGISLATIVA MANUTENÇÃO E SERVIÇOS GERAIS COMUNICAÇÃO CERIMONIAL BIBLIOTECA E ARQUIVO SAÚDE POLICIA LEGISLATIVA D C B A 10 A 13 07 A 09 04 A 06 01 A 03 “ (NR) “ANEXO IV QUADRO DE PESSOAL GRUPO OCUPACIONAL - NIVEL BÁSICO CÓDIGO PL - NB - 400 CARGO - CÓD PL. NB ÁREAS/ESPECIALIDADES CLASSE REFERÊNCIA TÉCNICO LEGISLATIVO ADMINISTRATIVA SERVIÇOS GERAIS SOM PROTOCOLO TELEFONIA POLÍCIA LEGISLATIVA D C B A 10 A 13 07 A 09 04 A 06 01 A 03 “ (NR) Este texto não substitui o publicado no DOE de 25/07/2025."
+    },
+    {
+      "id_LEGIS": "6472",
+      "tipo": "Lei Ordinária",
+      "numero": "4596",
+      "data": "2025-05-26",
+      "sha256_fonte": "5c788ed5951a1330fb60c632e204216967f8c3730e70379cd8ede3c053125ab4",
+      "sha256_corpo": "5170ddeee23aa825b3b1d00be62901f8dc1bec724c8b4c32efc0be0765ea9aec",
+      "sha256_visivel": "1d59b914305645075736a8f1f1cd05f19cb9d2fecc5ec74b7dffbbec39534b18",
+      "sha256_matrizes": "f6342044802e55486c532fdb6c0be2ec7689e77c31c2e3bb2fa88f7b7b9e7474",
+      "contextos_objetos": [
+        "embleia Legislativa do Estado do Acre, regidos pela Lei nº 3.378, de 17 de abril de 2018. Art. 2º O Anexo I da Lei nº 3.378, de 2018, passa a vigorar na forma do Anexo Único desta Lei. Art. 3° As despesas decorrentes do disposto nesta Lei correrão à conta das dotações próprias, observadas a disponibilidade orçamentária e financeira da Assembleia Legislativa do Es",
+        "78, de 17 de abril de 2018. Art. 2º O Anexo I da Lei nº 3.378, de 2018, passa a vigorar na forma do Anexo Único desta Lei. Art. 3° As despesas decorrentes do disposto nesta Lei correrão à conta das dotações próprias, observadas a disponibilidade orçamentária e financeira da Assembleia Legislativa do Estado do Acre - ALEAC. Art. 4º Esta Lei entra em vigor na data ",
+        " Tratado de Petrópolis e 64º do Estado do Acre. Gladson de Lima Camelí Governador do Estado do Acre ANEXO ÚNICO “ANEXO I TABELA COM REPOSIÇÃO DE 4,83% APLICADA A PARTIR DE 1º DE MAIO DE 2025 TABELA DE CARREIRAS E VENCIMENTOS CARREIRAS A B C D 1 2 3 4 5 6 7 8 9 10 11 12 13 TEMPO DE SERVIÇO 0 ANOS 3 ANOS 6 ANOS 9 ANOS 12 ANOS 15 ANOS 18 ANOS 21 ANOS 24 ANOS 27 ANOS",
+        "etrópolis e 64º do Estado do Acre. Gladson de Lima Camelí Governador do Estado do Acre ANEXO ÚNICO “ANEXO I TABELA COM REPOSIÇÃO DE 4,83% APLICADA A PARTIR DE 1º DE MAIO DE 2025 TABELA DE CARREIRAS E VENCIMENTOS CARREIRAS A B C D 1 2 3 4 5 6 7 8 9 10 11 12 13 TEMPO DE SERVIÇO 0 ANOS 3 ANOS 6 ANOS 9 ANOS 12 ANOS 15 ANOS 18 ANOS 21 ANOS 24 ANOS 27 ANOS 30 ANOS 33 A"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Anexo Único apresenta Anexo I alterado da Lei3.378, tabela de carreiras e vencimentos com classes I–IV e reticências literais NR. Dados/final até IV2.795,68 preservados.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 3.378, de 17 de abril de 2018, que dispõe sobre a remuneração dos cargos de provimento efetivo e em comissão da Assembleia Legislativa do Estado do Acre - ALEAC."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 3.378, de 17 de abril de 2018, que dispõe sobre a remuneração dos cargos de provimento efetivo e em comissão da Assembleia Legislativa do Estado do Acre - ALEAC."
+            }
+          ]
+        },
+        {
+          "celulas": 106,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 15,
+              "texto": "TABELA COM REPOSIÇÃO DE 4,83% APLICADA A PARTIR DE 1º DE MAIO DE 2025"
+            },
+            {
+              "linha": 2,
+              "rowspan": 1,
+              "colspan": 15,
+              "texto": "TABELA DE CARREIRAS E VENCIMENTOS"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 11,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "2.662,56"
+            },
+            {
+              "linha": 11,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "2.795,68"
+            }
+          ]
+        }
+      ],
+      "fim_literal": ".604,62 4.846,96 5.102,07 5.370,59 5.653,25 5.935,93 6.232,72 6.544,35 II 2.818,02 2.966,33 3.122,47 3.286,80 3.459,79 3.641,89 3.833,55 4.035,33 4.247,71 4.471,28 4.694,86 4.929,60 5.176,08 III 2.677,10 2.817,99 2.966,31 3.122,43 3.286,78 3.459,77 3.641,86 3.833,52 4.035,29 4.247,68 4.460,07 4.683,07 4.917,22 IV 1.522,05 1.602,17 1.686,48 1.775,26 1.868,69 1.967,05 2.070,56 2.179,54 2.294,27 2.415,01 2.535,75 2.662,56 2.795,68 ...” (NR) Este texto não substitui o publicado no DOE de 27/05/2025."
+    },
+    {
+      "id_LEGIS": "6455",
+      "tipo": "Lei Ordinária",
+      "numero": "4592",
+      "data": "2025-04-15",
+      "sha256_fonte": "aefeff4931535930bb718b098a9dd28bcd37bcac09d9ca11d04c5c0c27ee1dba",
+      "sha256_corpo": "3aa5799f83d913cbf193696a87951ddd9688adf3f9f4f741424614ad11583967",
+      "sha256_visivel": "1e4dc3d570bb5f2fb1c1978f6e6d994faf5b06ed943fc324c65b8e48d8e09ad8",
+      "sha256_matrizes": "d8651f01f2e081d2981c43098cebf16f2bb92443aa576ebd4a35b361be82735d",
+      "contextos_objetos": [
+        "LEI Nº 4.592, DE 15 DE ABRIL DE 2025 Altera os Anexos IV e V da Lei nº 4.131, de 17 de julho de 2023, e de suas alterações, que dispõe sobre o Plano de Cargos, Carreira e Remuneração - PCCR, dos Servidores do Ministério Público do Estado do Acre - MPAC. O GOVERNADOR DO ESTADO DO ACRE FAÇO SABER que a Assembleia ",
+        "ores efetivos e comissionados do Ministério Público do Estado do Acre, cujos valores constantes dos Anexos IV e V, da Lei nº 4.131, de 17 de julho de 2023, e de suas alterações, serão majorados em 5,0% (cinco por cento), a partir do dia 1º de abril de 2025, passando a vigorar com as alterações previstas no Anexo único desta Lei. Art. 2º Os valores das funções de c",
+        " por cento), a partir do dia 1º de abril de 2025, passando a vigorar com as alterações previstas no Anexo único desta Lei. Art. 2º Os valores das funções de confiança dos servidores efetivos do Ministério Público do Estado do Acre, serão aumentados na forma no Anexo único desta Lei, a partir do dia 1º de abril de 2025. Art. 3º Ocorrendo revisão geral anual que se",
+        "iança dos servidores efetivos do Ministério Público do Estado do Acre, serão aumentados na forma no Anexo único desta Lei, a partir do dia 1º de abril de 2025. Art. 3º Ocorrendo revisão geral anual que seja aplicável aos vencimentos dos servidores efetivos e comissionados do Ministério Público do Estado do Acre, desta será deduzido o percentual de reajuste previs",
+        " Tratado de Petrópolis e 64º do Estado do Acre. Gladson de Lima Camelí Governador do Estado do Acre ANEXO ÚNICO “ANEXO IV AUXILIAR MINISTERIAL NÍVEL CLASSE FUNDAMENTAL MÉDIO SUPERIOR/PÓS-GRADUAÇÃO LATO SENSU MESTRADO OU DOUTORADO A B C D 1 3.535,98 3.889,58 4.066,38 4.243,18 2 3.712,78 4.084,06 4.269,70 4.455,33 3 3.898,42 4.288,26 4.483,18 4.678,10 4 4.093,34 4.",
+        "etrópolis e 64º do Estado do Acre. Gladson de Lima Camelí Governador do Estado do Acre ANEXO ÚNICO “ANEXO IV AUXILIAR MINISTERIAL NÍVEL CLASSE FUNDAMENTAL MÉDIO SUPERIOR/PÓS-GRADUAÇÃO LATO SENSU MESTRADO OU DOUTORADO A B C D 1 3.535,98 3.889,58 4.066,38 4.243,18 2 3.712,78 4.084,06 4.269,70 4.455,33 3 3.898,42 4.288,26 4.483,18 4.678,10 4 4.093,34 4.502,67 4.707,",
+        ",97 17.965,97 17 14.510,97 17.413,17 18.138,72 18.864,27 18 15.236,52 18.283,83 19.045,65 19.807,48 ANEXO V Funções de Confiança Nível Remuneração FMP-4 4.600,00 FMP-3 2.600,00 FMP-2 1.600,00 FMP-1 1.100,00 Cargos em Comissão Nível Remuneração CMP-8 21.466,78 CMP-7 14.758,41 CMP-6 12.075,06 CMP-5 10.062,55 CMP-4 9.391,71 CMP-3 6.305,86 CMP-2 5.769,19 CMP-1 2.951,"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Anexo Único com Anexos IV e V alterados da Lei4.131: tabelas de auxiliares/técnicos/analistas, funções de confiança e cargos em comissão até CMP-1. Todas as tabelas estão no HTML, sem imagem.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera os Anexos IV e V da Lei nº 4.131, de 17 de julho de 2023, e de suas alterações, que dispõe sobre o Plano de Cargos, Carreira e Remuneração - PCCR, dos Servidores do Ministério Público do Estado do Acre - MPAC."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera os Anexos IV e V da Lei nº 4.131, de 17 de julho de 2023, e de suas alterações, que dispõe sobre o Plano de Cargos, Carreira e Remuneração - PCCR, dos Servidores do Ministério Público do Estado do Acre - MPAC."
+            }
+          ]
+        },
+        {
+          "celulas": 101,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 5,
+              "texto": "AUXILIAR MINISTERIAL"
+            },
+            {
+              "linha": 2,
+              "rowspan": 3,
+              "colspan": 1,
+              "texto": "NÍVEL"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 22,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "9.320,21"
+            },
+            {
+              "linha": 22,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "9.725,44"
+            }
+          ]
+        },
+        {
+          "celulas": 101,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 5,
+              "texto": "TÉCNICO MINISTERIAL"
+            },
+            {
+              "linha": 2,
+              "rowspan": 3,
+              "colspan": 1,
+              "texto": "NÍVEL"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 22,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "14.004,65"
+            },
+            {
+              "linha": 22,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "14.588,17"
+            }
+          ]
+        },
+        {
+          "celulas": 101,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 5,
+              "texto": "ANALISTA MINISTERIAL"
+            },
+            {
+              "linha": 2,
+              "rowspan": 3,
+              "colspan": 1,
+              "texto": "NÍVEL"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 22,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "19.045,65"
+            },
+            {
+              "linha": 22,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "19.807,48"
+            }
+          ]
+        },
+        {
+          "celulas": 11,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 2,
+              "texto": "Funções de Confiança"
+            },
+            {
+              "linha": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Nível"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 6,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "FMP-1"
+            },
+            {
+              "linha": 6,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "1.100,00"
+            }
+          ]
+        },
+        {
+          "celulas": 19,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 2,
+              "texto": "Cargos em Comissão"
+            },
+            {
+              "linha": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Nível"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 10,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "CMP-1"
+            },
+            {
+              "linha": 10,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "2.951,68”"
+            }
+          ]
+        }
+      ],
+      "fim_literal": "5.794,26 16.452,35 17.110,45 16 13.819,98 16.583,97 17.274,97 17.965,97 17 14.510,97 17.413,17 18.138,72 18.864,27 18 15.236,52 18.283,83 19.045,65 19.807,48 ANEXO V Funções de Confiança Nível Remuneração FMP-4 4.600,00 FMP-3 2.600,00 FMP-2 1.600,00 FMP-1 1.100,00 Cargos em Comissão Nível Remuneração CMP-8 21.466,78 CMP-7 14.758,41 CMP-6 12.075,06 CMP-5 10.062,55 CMP-4 9.391,71 CMP-3 6.305,86 CMP-2 5.769,19 CMP-1 2.951,68” Este texto não substitui o publicado no DOE de 16/04/2025 (Edição Extra)."
+    },
+    {
+      "id_LEGIS": "6413",
+      "tipo": "Lei Ordinária",
+      "numero": "4558",
+      "data": "2025-03-24",
+      "sha256_fonte": "949cd8b7edee85e8e5a9a506edcb0771e6ca5720b45ef38868e88d01818170f3",
+      "sha256_corpo": "77a260d26dc99b46bcc6ec328e106daccc011cae720367a908a98329186db291",
+      "sha256_visivel": "3a1e5a508b26bc07dc9335e5367f466051059836c38d9e5a6a078885da2167e6",
+      "sha256_matrizes": "d901b3928e2ee001c81b44445e7746bec74a89e493ab261534661f43d29278a8",
+      "contextos_objetos": [
+        "a elaboração de relatório anual relativo à intolerância religiosa, para a constituição de um acervo memorial, digitalizado, contendo os casos de intolerância religiosa, inclusive peças processuais. Art. 7° Promover a celebração da existência de diversas religiões como sendo parte da diversidade cultural e como mecanismo de garantia do direito à liberdade religiosa e"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Memorial é qualificação do acervo digital a constituir sobre intolerância religiosa; não remete a memorial/planta anexado nem aprova documento externo específico.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Estabelece diretrizes básicas para as ações de enfrentamento de intolerância religiosa e a implementação de cultura de paz na administração pública, direta e indireta, do Estado."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Estabelece diretrizes básicas para as ações de enfrentamento de intolerância religiosa e a implementação de cultura de paz na administração pública, direta e indireta, do Estado."
+            }
+          ]
+        }
+      ],
+      "fim_literal": "e museu deve estar contemplada a existência de um acervo permanente de objetos das várias tradições religiosas, que assim desejarem, e a manutenção de uma biblioteca pública sobre a temática da diversidade religiosa. Art. 6° Esta Lei entra em vigor na data de sua publicação. Rio Branco - Acre, 24 de março de 2025, 137º da República, 123º do Tratado de Petrópolis e 64º do Estado do Acre. Gladson de Lima Camelí Governador do Estado do Acre Este texto não substitui o publicado no DOE de 28/03/2025."
+    },
+    {
+      "id_LEGIS": "6402",
+      "tipo": "Lei Ordinária",
+      "numero": "4547",
+      "data": "2025-03-24",
+      "sha256_fonte": "1ff080da20a7073905b2431732e9b6f94e33c3aa9cb274f19f1938aa2919eacc",
+      "sha256_corpo": "2b28ca9026bdb6b2efb70729a9be9a1388f7448978f784e6bd19146ece587d8a",
+      "sha256_visivel": "7e2b11f4a0a3c8a44ae5c379f6b440e734b6f4f524817aab8a48a35baf0636f4",
+      "sha256_matrizes": "cbfd20c07d26d24b55dcaf45fb6e64141d14b405c485a2cdcd44cef421671444",
+      "contextos_objetos": [
+        "ecificamente para o futebol acreano, no exercício de 2025, de acordo com o detalhamento previsto no Anexo Único. Art. 2º A destinação de recursos de que trata esta Lei tem caráter específico e natureza não habitual, com o propósito de viabilizar o cumprimento das obrigações decorrentes da realização do campeonato estadual de futebol profissional de 2025. Art. 3º ",
+        " Tratado de Petrópolis e 64º do Estado do Acre. Gladson de Lima Camelí Governador do Estado do Acre ANEXO ÚNICO ITEM DESCRIÇÃO DA PREMIAÇÃO UNIDADE QUANTIDADE VALOR UNITÁRIO (R$) VALOR TOTAL (R$) 1 Participação dos clubes no campeonato estadual masculino da 1ª divisão clube 8 45.000,00 360.000,00 2 Representação no campeonato nacional masculino (1° e 2º lugares n"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Anexo Único de premiações contém itens1–32 e valor global1.500.000,00. Cabeçalhos, quantidades, valores e todos os spans/células são preservados.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Dispõe sobre a destinação de recursos financeiros para o desporto de alto rendimento, especificamente para o futebol acreano, no exercício de 2025."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Dispõe sobre a destinação de recursos financeiros para o desporto de alto rendimento, especificamente para o futebol acreano, no exercício de 2025."
+            }
+          ]
+        },
+        {
+          "celulas": 200,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "ITEM"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "DESCRIÇÃO DA PREMIAÇÃO"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 34,
+              "rowspan": 1,
+              "colspan": 5,
+              "texto": "VALOR GLOBAL"
+            },
+            {
+              "linha": 34,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "1.500.000,00"
+            }
+          ]
+        }
+      ],
+      "fim_literal": "0,00 28 1º lugar no campeonato estadual sub-11 masculino clube 1 4.000,00 4.000,00 29 2º lugar no campeonato estadual sub-11 masculino clube 1 2.000,00 2.000,00 30 Apoio para a crônica esportiva - 1 50.000,00 50.000,00 31 Apoio para a arbitragem do campeonato estadual de futebol profissional - 1 90.000,00 90.000,00 32 Apoio ao campeonato estadual amador adulto com logística e arbitragem - 1 100.000,00 100.000,00 VALOR GLOBAL 1.500.000,00 Este texto não substitui o publicado no DOE de 26/03/2025."
+    },
+    {
+      "id_LEGIS": "6394",
+      "tipo": "Lei Ordinária",
+      "numero": "4545",
+      "data": "2025-03-19",
+      "sha256_fonte": "b136513ef568ebc1199d7c591470e1bdbefa0c809a4e02dfff9cfcc04710fb6f",
+      "sha256_corpo": "718e078716cdd6a21d5ec8ad7c927674de080c0f256437230c994c4676aa13c7",
+      "sha256_visivel": "82f36ae5ff1661f2104112b1364558eef0b4b9aa3aa75901b815d8316efd96c8",
+      "sha256_matrizes": "f2c8d808f973447f93da5abc5bbbdcadc5451f8dce6344276328deee0b77fe15",
+      "contextos_objetos": [
+        "ABER que a Assembleia Legislativa do Estado do Acre decreta e eu sanciono a seguinte Lei: Art. 1° O Anexo IV e o Anexo IV-A à Lei nº 1.781, de 3 de julho de 2006, passam a vigorar, com as modificações promovidas, respectivamente, pelos Anexos I e II a esta Lei. Art. 2º Em razão das modificações de que trata o art. 1º, ficam: I - criados seis cargos de Assessor Té",
+        "sembleia Legislativa do Estado do Acre decreta e eu sanciono a seguinte Lei: Art. 1° O Anexo IV e o Anexo IV-A à Lei nº 1.781, de 3 de julho de 2006, passam a vigorar, com as modificações promovidas, respectivamente, pelos Anexos I e II a esta Lei. Art. 2º Em razão das modificações de que trata o art. 1º, ficam: I - criados seis cargos de Assessor Técnico I, CC/-",
+        "81, de 3 de julho de 2006, passam a vigorar, com as modificações promovidas, respectivamente, pelos Anexos I e II a esta Lei. Art. 2º Em razão das modificações de que trata o art. 1º, ficam: I - criados seis cargos de Assessor Técnico I, CC/-FG - 04, acrescidos ao item 6 do Anexo IV; II - criado um cargo de Assistente Técnico, CC/FG - 02, acrescido ao item 9 do An",
+        "art. 1º, ficam: I - criados seis cargos de Assessor Técnico I, CC/-FG - 04, acrescidos ao item 6 do Anexo IV; II - criado um cargo de Assistente Técnico, CC/FG - 02, acrescido ao item 9 do Anexo IV; III - criadas duas funções de Assessor II, FG-03, acrescidas ao item 20 do Anexo IV; IV - alterado o valor da simbologia CC/FG - 02, para R$7.000,00 (sete mil reais),",
+        " item 6 do Anexo IV; II - criado um cargo de Assistente Técnico, CC/FG - 02, acrescido ao item 9 do Anexo IV; III - criadas duas funções de Assessor II, FG-03, acrescidas ao item 20 do Anexo IV; IV - alterado o valor da simbologia CC/FG - 02, para R$7.000,00 (sete mil reais), restando modificado o item 5 do Anexo IV-A. Parágrafo único. O provimento dos cargos de ",
+        "o ao item 9 do Anexo IV; III - criadas duas funções de Assessor II, FG-03, acrescidas ao item 20 do Anexo IV; IV - alterado o valor da simbologia CC/FG - 02, para R$7.000,00 (sete mil reais), restando modificado o item 5 do Anexo IV-A. Parágrafo único. O provimento dos cargos de que trata o caput observará o disposto no art. 6º da Lei Complementar nº 485, de 14 d",
+        "o valor da simbologia CC/FG - 02, para R$7.000,00 (sete mil reais), restando modificado o item 5 do Anexo IV-A. Parágrafo único. O provimento dos cargos de que trata o caput observará o disposto no art. 6º da Lei Complementar nº 485, de 14 de fevereiro de 2025. Art. 3º Esta Lei entra em vigor na data de sua publicação, com efeitos a contar de 1º de fevereiro de 2",
+        " Tratado de Petrópolis e 64º do Estado do Acre. Gladson de Lima Camelí Governador do Estado do Acre ANEXO I Altera o Anexo IV à Lei n º 1.781, de 3 de julho de 2006 “ANEXO IV QUADRO DE CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA ITEM CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA PROVIMENTO QUANTIDADE ... ... ... ... 6 Assessor Técnico I CC/FG - 04 22 ... ... ... ... 9 ",
+        "polis e 64º do Estado do Acre. Gladson de Lima Camelí Governador do Estado do Acre ANEXO I Altera o Anexo IV à Lei n º 1.781, de 3 de julho de 2006 “ANEXO IV QUADRO DE CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA ITEM CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA PROVIMENTO QUANTIDADE ... ... ... ... 6 Assessor Técnico I CC/FG - 04 22 ... ... ... ... 9 Assistente Técnic",
+        "melí Governador do Estado do Acre ANEXO I Altera o Anexo IV à Lei n º 1.781, de 3 de julho de 2006 “ANEXO IV QUADRO DE CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA ITEM CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA PROVIMENTO QUANTIDADE ... ... ... ... 6 Assessor Técnico I CC/FG - 04 22 ... ... ... ... 9 Assistente Técnico CC/FG - 02 4 ... ... ... ... 20 Assessor II FG ",
+        "... ... 9 Assistente Técnico CC/FG - 02 4 ... ... ... ... 20 Assessor II FG - 03 20 ... ... ... ... ANEXO II Altera o Anexo IV-A à Lei n º 1.781, de 3 de julho de 2006 ANEXO IV-A QUADRO DE VENCIMENTOS DOS CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA ITEM PROVIMENTO VENCIMENTO ... ... ... 5 CC/FG - 02 7.000,00 ... ... ... ” (NR) Este texto não substitui o publicado n",
+        "te Técnico CC/FG - 02 4 ... ... ... ... 20 Assessor II FG - 03 20 ... ... ... ... ANEXO II Altera o Anexo IV-A à Lei n º 1.781, de 3 de julho de 2006 ANEXO IV-A QUADRO DE VENCIMENTOS DOS CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA ITEM PROVIMENTO VENCIMENTO ... ... ... 5 CC/FG - 02 7.000,00 ... ... ... ” (NR) Este texto não substitui o publicado no DOE de 20/03/202",
+        "r II FG - 03 20 ... ... ... ... ANEXO II Altera o Anexo IV-A à Lei n º 1.781, de 3 de julho de 2006 ANEXO IV-A QUADRO DE VENCIMENTOS DOS CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA ITEM PROVIMENTO VENCIMENTO ... ... ... 5 CC/FG - 02 7.000,00 ... ... ... ” (NR) Este texto não substitui o publicado no DOE de 20/03/2025 (Edição Extra)."
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Art.1º altera Anexo IV e IV-A da Lei1.781 por Anexos I e II desta lei, ambos presentes após assinatura, quadro de cargos e quadro de vencimentos; reticências NR são literais.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera dispositivos da Lei nº 1.781, de 3 de julho de 2006, que dispõe sobre a Instituição do Plano de Cargos, Funções, Carreira e Remuneração dos servidores do Tribunal de Contas do Estado do Acre, para criar e extinguir os cargos que especifica."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera dispositivos da Lei nº 1.781, de 3 de julho de 2006, que dispõe sobre a Instituição do Plano de Cargos, Funções, Carreira e Remuneração dos servidores do Tribunal de Contas do Estado do Acre, para criar e extinguir os cargos que especifica."
+            }
+          ]
+        },
+        {
+          "celulas": 32,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "ITEM"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 8,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "..."
+            },
+            {
+              "linha": 8,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "..."
+            }
+          ]
+        },
+        {
+          "celulas": 12,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "ITEM"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "PROVIMENTO"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 4,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "..."
+            },
+            {
+              "linha": 4,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "..."
+            }
+          ]
+        }
+      ],
+      "fim_literal": "NÇÕES DE CONFIANÇA PROVIMENTO QUANTIDADE ... ... ... ... 6 Assessor Técnico I CC/FG - 04 22 ... ... ... ... 9 Assistente Técnico CC/FG - 02 4 ... ... ... ... 20 Assessor II FG - 03 20 ... ... ... ... ANEXO II Altera o Anexo IV-A à Lei n º 1.781, de 3 de julho de 2006 ANEXO IV-A QUADRO DE VENCIMENTOS DOS CARGOS EM COMISSÃO E FUNÇÕES DE CONFIANÇA ITEM PROVIMENTO VENCIMENTO ... ... ... 5 CC/FG - 02 7.000,00 ... ... ... ” (NR) Este texto não substitui o publicado no DOE de 20/03/2025 (Edição Extra)."
+    },
+    {
+      "id_LEGIS": "6252",
+      "tipo": "Lei Ordinária",
+      "numero": "4508",
+      "data": "2024-12-20",
+      "sha256_fonte": "d34f6d0b1dac0b219d25bff88beff0e4e8ab8098173628a170557746f2e49fb6",
+      "sha256_corpo": "4ee4a0019da2430703584e9342eab01a93610e586f7c35fa519c5ed7330c2299",
+      "sha256_visivel": "b2f7150d2a08655c6a1a43d3c6f9f45d984f1b0e1cf65817eecdcd62a26e7319",
+      "sha256_matrizes": "46d5ffa7fef098aefb4a54badb6d97a55bf59c008f249f697abc2952c8af9558",
+      "contextos_objetos": [
+        " II e III do § 9º e o § 11 do art. 103; III - os parágrafos únicos dos arts 107, 108 e 105; IV - os Anexos I e II. Art. 2º O Instituto de Meio Ambiente do Estado do Acre - IMAC regulamentará a Lei nº 1.117, de 26 de janeiro de 2006, e elaborará tabelas estabelecendo as atividades passíveis de licenciamento ambiental declaratório simplificado e as atividades dispen"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Art.1º revoga expressamente Anexos I e II da Lei1.117 e Art.2º atribui ao IMAC elaboração futura de tabelas. Não incorpora esses anexos nem aprova tabela própria ausente.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 1.117, de 26 de janeiro de 1994, que dispõe sobre a política ambiental do Estado do Acre."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 1.117, de 26 de janeiro de 1994, que dispõe sobre a política ambiental do Estado do Acre."
+            }
+          ]
+        }
+      ],
+      "fim_literal": "rio simplificado e as atividades dispensadas de licenciamento ambiental, considerando-se, na elaboração, o porte dos empreendimentos e o grau de impacto ambiental das atividades a serem licenciadas. Art. 3º Esta Lei entra em vigor na data de sua publicação. Rio Branco - Acre, 20 de dezembro de 2024, 136º da República, 122º do Tratado de Petrópolis e 63º do Estado do Acre. Gladson de Lima Cameli Governador do Estado do Acre Este texto não substitui o publicado no DOE de 20/12/2024 (Edição Extra)."
+    },
+    {
+      "id_LEGIS": "6109",
+      "tipo": "Lei Ordinária",
+      "numero": "4378",
+      "data": "2024-07-12",
+      "sha256_fonte": "c2061afa9541b5291e4e0af5f12ad73d57971fa30aceaf0918ee15966e38d6ac",
+      "sha256_corpo": "898cfca9734dfa58ce103d57832d32175d23eeb9f1d1128eab1794d04b271050",
+      "sha256_visivel": "927d5d0cd648286a74fffe04445cb3ca1ad793a739c9d091ddc940777e866418",
+      "sha256_matrizes": "acee86265efcf64fb9f7fdb1d22df2ee8862f9f8a7ae12a73f9a174be075df46",
+      "contextos_objetos": [
+        "básica da Secretaria de Estado de Educação e Esportes: ...” (NR) “Art. 47-G. VETADO” (NR) Art. 2º O Anexo I à Lei Complementar nº 419, de 2022, passa a vigorar na forma do Anexo I a esta Lei. Parágrafo único. VETADO Art. 3º A Lei nº 4.085, de 16 de fevereiro de 2023, passa a vigorar com a seguinte redação: “Art. 2º ... ... § 5º O valor mensal da remuneração de ca",
+        "7-G. VETADO” (NR) Art. 2º O Anexo I à Lei Complementar nº 419, de 2022, passa a vigorar na forma do Anexo I a esta Lei. Parágrafo único. VETADO Art. 3º A Lei nº 4.085, de 16 de fevereiro de 2023, passa a vigorar com a seguinte redação: “Art. 2º ... ... § 5º O valor mensal da remuneração de cargo de que trata os §§ 8º e 14 do art. 52 da Lei Complementar nº 419, de",
+        "stas na Lei Complementar nº 67, de 29 de junho de 1999, conforme disposto em regulamento. Art. 6º O Anexo I à Lei nº 1.418, de 24 de outubro de 2001, passa a vigorar com as alterações promovidas pelo Anexo II a esta Lei. Art. 7º Ficam revogados: I - o inciso IV do art. 33 da Lei Complementar nº 419, de 22 de dezembro de 2022; II - o art. 4º da Lei nº 4.085, de 16",
+        "Anexo I à Lei nº 1.418, de 24 de outubro de 2001, passa a vigorar com as alterações promovidas pelo Anexo II a esta Lei. Art. 7º Ficam revogados: I - o inciso IV do art. 33 da Lei Complementar nº 419, de 22 de dezembro de 2022; II - o art. 4º da Lei nº 4.085, de 16 de fevereiro de 2023. Art. 8º Esta Lei entra em vigor na data de sua publicação. Rio Branco - Acre,",
+        " Tratado de Petrópolis e 63º do Estado do Acre. Gladson de Lima Cameli Governador do Estado do Acre ANEXO I “ANEXO I ... ITEM GRUPO/SIMBOLOGIA SUBITEM NOMENCLATURA 1 Cargos em Comissão de Natureza Especial - NES 1 1.1 Secretário de Estado-Chefe da Casa Civil 1.2 Secretário de Estado de Governo 1.3 Secretário de Estado da Fazenda 1.4 Secretário de Estado de Planej",
+        "de Petrópolis e 63º do Estado do Acre. Gladson de Lima Cameli Governador do Estado do Acre ANEXO I “ANEXO I ... ITEM GRUPO/SIMBOLOGIA SUBITEM NOMENCLATURA 1 Cargos em Comissão de Natureza Especial - NES 1 1.1 Secretário de Estado-Chefe da Casa Civil 1.2 Secretário de Estado de Governo 1.3 Secretário de Estado da Fazenda 1.4 Secretário de Estado de Planejamento 1.",
+        "enador da Casa Civil 2.18 Subchefe da Casa Militar 2.19 Chefe do Gabinete do Vice-Governador ” (NR) ANEXO II “ANEXO I ... GRUPO OCUPACIONAL QUANTIDADE NOMENCLATURA ... MÉDIO ... 12 ... ... Técnico Agroflorestal ... ... ” (NR) Este texto não substitui o publicado no DOE de 12/07/2024 (Edição Extra).",
+        "Casa Civil 2.18 Subchefe da Casa Militar 2.19 Chefe do Gabinete do Vice-Governador ” (NR) ANEXO II “ANEXO I ... GRUPO OCUPACIONAL QUANTIDADE NOMENCLATURA ... MÉDIO ... 12 ... ... Técnico Agroflorestal ... ... ” (NR) Este texto não substitui o publicado no DOE de 12/07/2024 (Edição Extra)."
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Art.2º e demais dispositivos remetem aos próprios Anexos I e II, ambos presentes após assinatura: quadro de cargos e alteração do grupo médio/Técnico Agroflorestal, com reticências NR literais.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei Complementar nº 419, de 15 de dezembro de 2022, que estabelece a estrutura básica da administração do Poder Executivo; altera a Lei nº 4.085, de 16 de fevereiro de 2023, que altera a Lei Complementar nº 419, de 2022; e altera a Lei nº 1.418, de 24 de outubro de 2001, que institui o Plano de Cargos, Carreira e Remuneração dos Servidores do Instituto do Meio Ambiente do Acre - IMAC."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei Complementar nº 419, de 15 de dezembro de 2022, que estabelece a estrutura básica da administração do Poder Executivo; altera a Lei nº 4.085, de 16 de fevereiro de 2023, que altera a Lei Complementar nº 419, de 2022; e altera a Lei nº 1.418, de 24 de outubro de 2001, que institui o Plano de Cargos, Carreira e Remuneração dos Servidores do Instituto do Meio Ambiente do Acre - IMAC."
+            }
+          ]
+        },
+        {
+          "celulas": 92,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "ITEM"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "GRUPO/SIMBOLOGIA"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 43,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "2.19"
+            },
+            {
+              "linha": 43,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Chefe do Gabinete do Vice-Governador"
+            }
+          ]
+        },
+        {
+          "celulas": 8,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "GRUPO OCUPACIONAL"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "QUANTIDADE"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 3,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "...Técnico Agroflorestal..."
+            },
+            {
+              "linha": 4,
+              "rowspan": 1,
+              "colspan": 3,
+              "texto": "..."
+            }
+          ]
+        }
+      ],
+      "fim_literal": "l e Direitos Humanos 2.13 Secretário Adjunto de Agricultura 2.14 Secretário Adjunto do Meio Ambiente 2.15 Secretário Adjunto de Obras Públicas 2.16 Subchefe do Gabinete Pessoal do Governador 2.17 Coordenador da Casa Civil 2.18 Subchefe da Casa Militar 2.19 Chefe do Gabinete do Vice-Governador ” (NR) ANEXO II “ANEXO I ... GRUPO OCUPACIONAL QUANTIDADE NOMENCLATURA ... MÉDIO ... 12 ... ... Técnico Agroflorestal ... ... ” (NR) Este texto não substitui o publicado no DOE de 12/07/2024 (Edição Extra)."
+    },
+    {
+      "id_LEGIS": "6108",
+      "tipo": "Lei Ordinária",
+      "numero": "4377",
+      "data": "2024-07-11",
+      "sha256_fonte": "4dcbe5e62d8bee19076e7b0cc5a830a466147e840b21aa2a9f5c432b435f55cb",
+      "sha256_corpo": "23015b46ffeb35783f4b3780a9a7372e1be3c28384f0f8df9f0b347c03fdfe11",
+      "sha256_visivel": "e1cdc3cc425cd51c3811642c32c2a8480553d85e0a6308739469e3aa59e62802",
+      "sha256_matrizes": "398d4e35c35f07a5993f54d959f1459fa68c97c4faa5bde085b8979fe98702f5",
+      "contextos_objetos": [
+        "ABER que a Assembleia Legislativa do Estado do Acre decreta e eu sanciono a seguinte Lei: Art. 1° O Anexo I da Lei nº 3.378, de 17 de abril de 2018, passa a vigorar acrescido do percentual de 4,62% (quatro inteiros e sessenta e dois centésimos por cento). Art. 2° As despesas decorrentes do disposto nesta Lei correrão à conta das dotações próprias, observadas a di"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Art.1º determina acréscimo percentual4,62% ao Anexo I da Lei3.378. A operação é descrita diretamente; não aprova nova tabela ou anexo próprio por remissão.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 3.378, de 17 de abril de 2018, que dispõe sobre a remuneração dos cargos de provimento efetivo e em comissão da Assembleia Legislativa do Estado do Acre."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 3.378, de 17 de abril de 2018, que dispõe sobre a remuneração dos cargos de provimento efetivo e em comissão da Assembleia Legislativa do Estado do Acre."
+            }
+          ]
+        }
+      ],
+      "fim_literal": " Lei correrão à conta das dotações próprias, observadas a disponibilidade orçamentária e financeira da Assembleia Legislativa do Estado do Acre. Art. 3º Esta Lei entra em vigor na data de sua publicação, com efeitos financeiros a contar de 1º de julho de 2024. Rio Branco - Acre, 11 de julho de 2024, 136º da República, 122º do Tratado de Petrópolis e 63º do Estado do Acre. Gladson de Lima Cameli Governador do Estado do Acre Este texto não substitui o publicado no DOE de 12/07/2024 (Edição Extra)."
+    },
+    {
+      "id_LEGIS": "6080",
+      "tipo": "Lei Ordinária",
+      "numero": "4365",
+      "data": "2024-06-13",
+      "sha256_fonte": "5c685b72f5c2e03f15776f89df342ab4859e3f90706570f26f48c16af995cc05",
+      "sha256_corpo": "dfb99be7490e6b0a5facf7e3535d516786fe8b6998b8e2f3729732510bef874a",
+      "sha256_visivel": "5796fe978decac687fcbe22f7656d43ac4d2996e108bf311be8ab5e5798629b3",
+      "sha256_matrizes": "5d42a782959552ab814d5a25b1c48ea230a6a0e14d4eecbd3eab0ac381b38f9d",
+      "contextos_objetos": [
+        "ABER que a Assembleia Legislativa do Estado do Acre decreta e eu sanciono a seguinte Lei: Art. 1º O Anexo VIII à Lei Complementar nº 67, de 29 de junho de 1999, passa a vigorar na forma do Anexo Único a esta Lei. Art. 2º Esta Lei entra em vigor na data de sua publicação. Rio Branco - Acre, 13 de junho de 2024, 136º da República, 122º do Tratado de Petrópolis e 63",
+        " Art. 1º O Anexo VIII à Lei Complementar nº 67, de 29 de junho de 1999, passa a vigorar na forma do Anexo Único a esta Lei. Art. 2º Esta Lei entra em vigor na data de sua publicação. Rio Branco - Acre, 13 de junho de 2024, 136º da República, 122º do Tratado de Petrópolis e 63º do Estado do Acre. Gladson de Lima Cameli Governador do Estado do Acre ANEXO ÚNICO “ANE",
+        " Tratado de Petrópolis e 63º do Estado do Acre. Gladson de Lima Cameli Governador do Estado do Acre ANEXO ÚNICO “ANEXO VIII ... CARGO QUANTIDADE APOIO ADM NÍVEL I 25H 1.536 APOIO ADM NÍVEL I 36H 207 APOIO ADM NÍVEL II 30H 1.000 ESPECIALISTA EM EDUCAÇÃO NII 30H 29 PROFESSOR NÍVEL SUPERIOR P2 15H 25 PROFESSOR NÍVEL SUPERIOR P2 30H 7.770 PROFESSOR P1 30H 55 PROFESSO",
+        "etrópolis e 63º do Estado do Acre. Gladson de Lima Cameli Governador do Estado do Acre ANEXO ÚNICO “ANEXO VIII ... CARGO QUANTIDADE APOIO ADM NÍVEL I 25H 1.536 APOIO ADM NÍVEL I 36H 207 APOIO ADM NÍVEL II 30H 1.000 ESPECIALISTA EM EDUCAÇÃO NII 30H 29 PROFESSOR NÍVEL SUPERIOR P2 15H 25 PROFESSOR NÍVEL SUPERIOR P2 30H 7.770 PROFESSOR P1 30H 55 PROFESSOR PE3 30H 3 P"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Anexo Único apresenta quadro do Anexo VIII alterado da LC67, com cargos/cargas/quantidades e reticências literais. Final TÉC ADM EDUCACIONAL NI30/113 presente.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei Complementar nº 67, de 29 de junho de 1999, que dispõe sobre o Plano de Cargos, Carreira e Remuneração dos Profissionais do Ensino Público Estadual, para dispor sobre o quadro de pessoal docente e apoio administrativo do ensino público estadual."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei Complementar nº 67, de 29 de junho de 1999, que dispõe sobre o Plano de Cargos, Carreira e Remuneração dos Profissionais do Ensino Público Estadual, para dispor sobre o quadro de pessoal docente e apoio administrativo do ensino público estadual."
+            }
+          ]
+        },
+        {
+          "celulas": 26,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "CARGO"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "QUANTIDADE"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 13,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "TÉC ADM EDUCACIONAL NI 30"
+            },
+            {
+              "linha": 13,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "113"
+            }
+          ]
+        }
+      ],
+      "fim_literal": "tado do Acre. Gladson de Lima Cameli Governador do Estado do Acre ANEXO ÚNICO “ANEXO VIII ... CARGO QUANTIDADE APOIO ADM NÍVEL I 25H 1.536 APOIO ADM NÍVEL I 36H 207 APOIO ADM NÍVEL II 30H 1.000 ESPECIALISTA EM EDUCAÇÃO NII 30H 29 PROFESSOR NÍVEL SUPERIOR P2 15H 25 PROFESSOR NÍVEL SUPERIOR P2 30H 7.770 PROFESSOR P1 30H 55 PROFESSOR PE3 30H 3 PROFESSOR PS1 25H 39 PROFESSOR PS2 30H 29 PROFESSOR PS3 30H 7 TÉC ADM EDUCACIONAL NI 30 113 ” (NR) Este texto não substitui o publicado no DOE de 14/06/2024."
+    },
+    {
+      "id_LEGIS": "6050",
+      "tipo": "Lei Ordinária",
+      "numero": "4355",
+      "data": "2024-05-09",
+      "sha256_fonte": "df4f80e12696f3d2fdc9b1d8d5583414da0d0faeda8a4395341409a0b9901018",
+      "sha256_corpo": "77eeb2969129f2046713940ef79c1978e9a374c2e88afa2feba59184f146f4c6",
+      "sha256_visivel": "0cadabb1cb21b273ab1f703616f37562c09567ee777532cec754f3dfa20cd269",
+      "sha256_matrizes": "c3b008ee8e65bee35802752433c4e503511cbf23e1fa51285bb2f3b738622453",
+      "contextos_objetos": [
+        "os níveis, número de cargos, discriminação por área de atuação e outros atributos, está previsto no Anexo II desta Lei. Art. 16. O vencimento básico dos cargos integrantes do Quadro Permanente de Pessoal do TCE-AC, previsto no art. 6º desta Lei, será composto por uma parcela fixa e uma variável. “(NR) Art. 2º Os Anexos I, II, V e VI da Lei nº 1.781, de 2006, pass",
+        " previsto no art. 6º desta Lei, será composto por uma parcela fixa e uma variável. “(NR) Art. 2º Os Anexos I, II, V e VI da Lei nº 1.781, de 2006, passam a vigorar, respectivamente, com as alterações promovidas pelos Anexos I, II, III e IV desta Lei. Art. 3º Fica absorvido no quantitativo de vagas do cargo de auditor de controle externo, disposto no Anexo II desta",
+        " VI da Lei nº 1.781, de 2006, passam a vigorar, respectivamente, com as alterações promovidas pelos Anexos I, II, III e IV desta Lei. Art. 3º Fica absorvido no quantitativo de vagas do cargo de auditor de controle externo, disposto no Anexo II desta Lei, o acréscimo de vagas de que trata o art. 1º da Lei nº 2.008, de 30 de junho de 2008, restando o quantitativo co",
+        "rt. 3º Fica absorvido no quantitativo de vagas do cargo de auditor de controle externo, disposto no Anexo II desta Lei, o acréscimo de vagas de que trata o art. 1º da Lei nº 2.008, de 30 de junho de 2008, restando o quantitativo consolidado sem aumento no número real de vagas. Art. 4º Fica absorvido, sem aumento de despesas, nas tabelas alteradas pelos Anexos III",
+        " número real de vagas. Art. 4º Fica absorvido, sem aumento de despesas, nas tabelas alteradas pelos Anexos III e IV desta Lei, o reajuste de que trata o art. 1º da Lei nº 4.333, de 27 de fevereiro de 2024. Art. 5º Em decorrência das alterações promovidas por esta Lei, ficam criados: I - vinte cargos de analista de tecnologia da informação; II - vinte cargos de ana",
+        " Tratado de Petrópolis e 63º do Estado do Acre. Gladson de Lima Cameli Governador do Estado do Acre ANEXO I ALTERA O ANEXO I À LEI 1.781 DE 2006 ANEXO I DA AVALIAÇÃO DOS CARGOS TABELA DE CRITÉRIOS DE PONTUAÇÃO CARGOS DE NÍVEL FUNDAMENTAL CARGO INSTRUÇÃO COMPLEXIDADE RESPONSÁVEL POR ERROS RESPONSÁVEL POR CONTATOS SUPERVISÃO RECEBIDA SUPERVISÃO EXERCIDA ESFORÇO MEN",
+        "polis e 63º do Estado do Acre. Gladson de Lima Cameli Governador do Estado do Acre ANEXO I ALTERA O ANEXO I À LEI 1.781 DE 2006 ANEXO I DA AVALIAÇÃO DOS CARGOS TABELA DE CRITÉRIOS DE PONTUAÇÃO CARGOS DE NÍVEL FUNDAMENTAL CARGO INSTRUÇÃO COMPLEXIDADE RESPONSÁVEL POR ERROS RESPONSÁVEL POR CONTATOS SUPERVISÃO RECEBIDA SUPERVISÃO EXERCIDA ESFORÇO MENTAL VISUAL TOTAL ",
+        "e. Gladson de Lima Cameli Governador do Estado do Acre ANEXO I ALTERA O ANEXO I À LEI 1.781 DE 2006 ANEXO I DA AVALIAÇÃO DOS CARGOS TABELA DE CRITÉRIOS DE PONTUAÇÃO CARGOS DE NÍVEL FUNDAMENTAL CARGO INSTRUÇÃO COMPLEXIDADE RESPONSÁVEL POR ERROS RESPONSÁVEL POR CONTATOS SUPERVISÃO RECEBIDA SUPERVISÃO EXERCIDA ESFORÇO MENTAL VISUAL TOTAL VALOR TOTAL VENCIMENTO AGENT",
+        "NISTRATIVO 50 50 40 40 30 40 40 290 6.826,61 ANALISTA MINISTERIAL 50 50 40 40 30 40 40 290 6.826,61 ANEXO II ALTERA O ANEXO II À LEI 1.781 DE 2006 ANEXO II DESCRIÇÃO DOS CARGOS Cargo: Auditor de Controle Externo Número de Cargos Propostos - 160 cargos ... Cargo: Analista de Tecnologia da Informação Número de Cargos Propostos - 20 cargos Exigência de Escolaridade ",
+        "0 40 30 40 40 290 6.826,61 ANALISTA MINISTERIAL 50 50 40 40 30 40 40 290 6.826,61 ANEXO II ALTERA O ANEXO II À LEI 1.781 DE 2006 ANEXO II DESCRIÇÃO DOS CARGOS Cargo: Auditor de Controle Externo Número de Cargos Propostos - 160 cargos ... Cargo: Analista de Tecnologia da Informação Número de Cargos Propostos - 20 cargos Exigência de Escolaridade - Nível Superior r",
+        "ALISTA MINISTERIAL 50 50 40 40 30 40 40 290 6.826,61 ANEXO II ALTERA O ANEXO II À LEI 1.781 DE 2006 ANEXO II DESCRIÇÃO DOS CARGOS Cargo: Auditor de Controle Externo Número de Cargos Propostos - 160 cargos ... Cargo: Analista de Tecnologia da Informação Número de Cargos Propostos - 20 cargos Exigência de Escolaridade - Nível Superior reconhecido pelo Ministério da",
+        "au de complexidade, que lhe sejam atribuídas pela autoridade superior conforme área de habilitação. ANEXO III ALTERA O ANEXO V À LEI 1.781 DE 2006 “ANEXO V FAIXA DE VENCIMENTO A - NÍVEL FUNDAMENTAL FAIXA PONTOS CARGOS HORAS VENCIMENTO FIXO + VARIÁVEL F I 140 AGENTE DE CONTROLE EXTERNO 40 2.040,26 + 510,06 B - NÍVEL MÉDIO FAIXA PONTOS CARGOS HORAS VENCIMENTO FIXO ",
+        " que lhe sejam atribuídas pela autoridade superior conforme área de habilitação. ANEXO III ALTERA O ANEXO V À LEI 1.781 DE 2006 “ANEXO V FAIXA DE VENCIMENTO A - NÍVEL FUNDAMENTAL FAIXA PONTOS CARGOS HORAS VENCIMENTO FIXO + VARIÁVEL F I 140 AGENTE DE CONTROLE EXTERNO 40 2.040,26 + 510,06 B - NÍVEL MÉDIO FAIXA PONTOS CARGOS HORAS VENCIMENTO FIXO + VARIÁVEL F II 200",
+        "a autoridade superior conforme área de habilitação. ANEXO III ALTERA O ANEXO V À LEI 1.781 DE 2006 “ANEXO V FAIXA DE VENCIMENTO A - NÍVEL FUNDAMENTAL FAIXA PONTOS CARGOS HORAS VENCIMENTO FIXO + VARIÁVEL F I 140 AGENTE DE CONTROLE EXTERNO 40 2.040,26 + 510,06 B - NÍVEL MÉDIO FAIXA PONTOS CARGOS HORAS VENCIMENTO FIXO + VARIÁVEL F II 200 TÉCNICO DE CONTROLE EXTERNO ",
+        "STA ADMINISTRATIVO 40 5.461,29 + 1.365,32 F IV 290 ANALISTA MINISTERIAL 40 5.461,29 + 1.365,32 (NR) ANEXO IV ALTERA O ANEXO VI À LEI 1.781 DE2006 “ANEXO VI TABELA DE FAIXAS E SUBFAIXAS DE VENCIMENTO CARGOS EFETIVOS Faixa de Vencimento Vencimento Base Subfaixas 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 F I 2.550,32 2.716,09 2.892,63 3.080,65 3.280,89 3.608,98 3",
+        " 40 5.461,29 + 1.365,32 F IV 290 ANALISTA MINISTERIAL 40 5.461,29 + 1.365,32 (NR) ANEXO IV ALTERA O ANEXO VI À LEI 1.781 DE2006 “ANEXO VI TABELA DE FAIXAS E SUBFAIXAS DE VENCIMENTO CARGOS EFETIVOS Faixa de Vencimento Vencimento Base Subfaixas 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 F I 2.550,32 2.716,09 2.892,63 3.080,65 3.280,89 3.608,98 3.843,57 4.093,40 4",
+        "290 ANALISTA MINISTERIAL 40 5.461,29 + 1.365,32 (NR) ANEXO IV ALTERA O ANEXO VI À LEI 1.781 DE2006 “ANEXO VI TABELA DE FAIXAS E SUBFAIXAS DE VENCIMENTO CARGOS EFETIVOS Faixa de Vencimento Vencimento Base Subfaixas 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 F I 2.550,32 2.716,09 2.892,63 3.080,65 3.280,89 3.608,98 3.843,57 4.093,40 4.359,47 4.642,84 5.107,11 5.4"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Art.2º remete aos próprios Anexos I–IV, todos presentes após assinatura: critérios de pontuação, descrição dos cargos, faixas e vencimentos, tabela de subfaixas até total23.368,31. Estruturas/matrizes completas do campo preservadas.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 1.781, de 3 de julho de 2006, que dispõe sobre a instituição do Plano de Cargos, Funções, Carreira e Remuneração dos servidores do Tribunal de Contas do Estado do Acre e dá outras providências."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 1.781, de 3 de julho de 2006, que dispõe sobre a instituição do Plano de Cargos, Funções, Carreira e Remuneração dos servidores do Tribunal de Contas do Estado do Acre e dá outras providências."
+            }
+          ]
+        },
+        {
+          "celulas": 20,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "CARGO"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "INSTRUÇÃO"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "140"
+            },
+            {
+              "linha": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "2.550,32"
+            }
+          ]
+        },
+        {
+          "celulas": 20,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "CARGO"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "INSTRUÇÃO"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "200"
+            },
+            {
+              "linha": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "3.447,00"
+            }
+          ]
+        },
+        {
+          "celulas": 50,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "CARGO"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "INSTRUÇÃO"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 5,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "290"
+            },
+            {
+              "linha": 5,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "6.826,61"
+            }
+          ]
+        },
+        {
+          "celulas": 7,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 2,
+              "texto": "Cargo: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO"
+            },
+            {
+              "linha": 2,
+              "rowspan": 5,
+              "colspan": 1,
+              "texto": "ÁREAS DE ATUAÇÃO A SEREM ESPECIFICADAS NO EDITAL DE CONCURSO PÚBLICO"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 5,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "d) análise de negócio; e"
+            },
+            {
+              "linha": 6,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "e) outras áreas especificadas em ato próprio."
+            }
+          ]
+        },
+        {
+          "celulas": 6,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 2,
+              "texto": "Cargo: ANALISTA ADMINISTRATIVO"
+            },
+            {
+              "linha": 2,
+              "rowspan": 4,
+              "colspan": 1,
+              "texto": "ÁREAS DE ATUAÇÃO A SEREM ESPECIFICADAS NO EDITAL DE CONCURSO PÚBLICO"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 4,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "c) Logística e aquisições, contratos e convênios; e"
+            },
+            {
+              "linha": 5,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "d) outras áreas especificadas em ato próprio."
+            }
+          ]
+        },
+        {
+          "celulas": 10,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "FAIXA"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "PONTOS"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "40"
+            },
+            {
+              "linha": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "2.040,26 + 510,06"
+            }
+          ]
+        },
+        {
+          "celulas": 10,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "FAIXA"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "PONTOS"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "40"
+            },
+            {
+              "linha": 2,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "2.757,60 + 689,40"
+            }
+          ]
+        },
+        {
+          "celulas": 25,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "FAIXA"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "PONTOS"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 5,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "40"
+            },
+            {
+              "linha": 5,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "5.461,29 + 1.365,32"
+            }
+          ]
+        },
+        {
+          "celulas": 101,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 2,
+              "colspan": 1,
+              "texto": "Faixa de Vencimento"
+            },
+            {
+              "linha": 1,
+              "rowspan": 2,
+              "colspan": 1,
+              "texto": "VencimentoBase"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 6,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "21.942,08"
+            },
+            {
+              "linha": 6,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "23.368,31"
+            }
+          ]
+        },
+        {
+          "celulas": 81,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Faixa de Vencimento"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Vencimento Base"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 5,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "8.197,21"
+            },
+            {
+              "linha": 5,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "8.730,03"
+            }
+          ]
+        },
+        {
+          "celulas": 81,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Faixa de Vencimento"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Vencimento Base"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 5,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "11.079,37"
+            },
+            {
+              "linha": 5,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "11.799,52"
+            }
+          ]
+        },
+        {
+          "celulas": 81,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Faixa de Vencimento"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Vencimento Base"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 5,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "24.136,29"
+            },
+            {
+              "linha": 5,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "25.705,14"
+            }
+          ]
+        },
+        {
+          "celulas": 81,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Faixa de Vencimento"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Vencimento Base"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 5,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "21.942,08"
+            },
+            {
+              "linha": 5,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "23.368,31"
+            }
+          ]
+        }
+      ],
+      "fim_literal": ",35 16.482,31 17.553,66 18.694,65 1.365,32 1.454,07 1.548,58 1.649,24 1.756,44 1.932,09 2.057,67 2.191,42 2.333,86 2.485,56 2.734,12 2.911,84 3.101,11 3.302,68 3.517,35 3.869,09 4.120,58 4.388,42 4.673,66 TOTAL 6.826,61 7.270,34 7.742,91 8.246,20 8.782,20 9.660,43 10.288,35 10.957,10 11.669,31 12.427,81 13.670,59 14.559,18 15.505,53 16.513,39 17.586,76 19.345,43 20.602,89 21.942,08 23.368,31 (NR) Este texto não substitui o publicado no DOE de 09/05/2024 (Edição Extra), republicado em 20/05/2024."
+    },
+    {
+      "id_LEGIS": "6066",
+      "tipo": "Lei Ordinária",
+      "numero": "4353",
+      "data": "2024-05-09",
+      "sha256_fonte": "183670a3637fa5000211fa7874c5fa2a3fe9984b9a49b5c277f9df359524150d",
+      "sha256_corpo": "12884d8dcc7e2202c1712b650b7f3d4688b509ab50d860f08355b95438732245",
+      "sha256_visivel": "71e3f49bfba2eb1ad65da057b5e6ae2f6d8e57c3133e965ffeebe9b2c0ecd7af",
+      "sha256_matrizes": "10defb5528aad5ac37fc1b97f7b7e71ddb9eb20d9ecb0d8cce8d18c7dea3e939",
+      "contextos_objetos": [
+        "ABER que a Assembleia Legislativa do Estado do Acre decreta e eu sanciono a seguinte Lei: Art. 1º O Anexo IV à Lei nº 3.724, de 13 de abril de 2021, passa a vigorar com as alterações promovidas pelo Anexo Único a esta Lei. Art. 2º Esta Lei entra em vigor na data de sua publicação, com efeitos a contar de 15 de abril de 2021. Rio Branco - Acre, 9 de maio de 2024, ",
+        " Anexo IV à Lei nº 3.724, de 13 de abril de 2021, passa a vigorar com as alterações promovidas pelo Anexo Único a esta Lei. Art. 2º Esta Lei entra em vigor na data de sua publicação, com efeitos a contar de 15 de abril de 2021. Rio Branco - Acre, 9 de maio de 2024, 136º da República, 122º do Tratado de Petrópolis e 63º do Estado do Acre. Gladson de Lima Cameli Go",
+        " Tratado de Petrópolis e 63º do Estado do Acre. Gladson de Lima Cameli Governador do Estado do Acre ANEXO ÚNICO “ANEXO IV ... Art. 1º ... I - ... Espécie (s) Animal (is) / Grupo Animal/ Categoria Animal Unidade de cobrança Valor URF/AC Bovídeos (bovinos e bubalinos), equídeos (equino, muar e asinino) Por animal 0,039 Ovinos, caprinos, suídeos (suínos e javalis) e",
+        "etrópolis e 63º do Estado do Acre. Gladson de Lima Cameli Governador do Estado do Acre ANEXO ÚNICO “ANEXO IV ... Art. 1º ... I - ... Espécie (s) Animal (is) / Grupo Animal/ Categoria Animal Unidade de cobrança Valor URF/AC Bovídeos (bovinos e bubalinos), equídeos (equino, muar e asinino) Por animal 0,039 Ovinos, caprinos, suídeos (suínos e javalis) e taiassuídeos"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Anexo Único reproduz alteração parcial do Anexo IV da Lei3.724, espécies/unidade/URF por documento GTA, até categoria residual0,08. Reticências NR são literais; sinais decimais preservados.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 3.724, de 13 de abril de 2021, que institui a Defesa Sanitária Animal do Estado, para dispor sobre as taxas e emolumentos referentes à Guia de Trânsito Animal - GTA."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei nº 3.724, de 13 de abril de 2021, que institui a Defesa Sanitária Animal do Estado, para dispor sobre as taxas e emolumentos referentes à Guia de Trânsito Animal - GTA."
+            }
+          ]
+        },
+        {
+          "celulas": 41,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Espécie (s) Animal (is) / Grupo Animal/ Categoria Animal"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Unidade de cobrança"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 14,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Por documento (GTA)"
+            },
+            {
+              "linha": 14,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "0,08"
+            }
+          ]
+        }
+      ],
+      "fim_literal": "ração 0,06 Peixes alevinos Até 3 milheiros 0,05 A partir de 3 milheiros, para cada milheiro ou fração adicional 0,02 Peixes pescados Por tonelada ou fração 0,1 Peixes adultos A cada grupo de até 250 animais ou fração 0,05 Peixes - ovos/gametas/larvas/pós-larvas A cada milhão ou fração 0,08 Peixes ornamentais Por documento (GTA) 0,08 Qualquer outra espécie animal, grupo e/ou categoria animal não prevista Por documento (GTA) 0,08 ...” (NR) Este texto não substitui o publicado no DOE de 07/06/2024."
+    },
+    {
+      "id_LEGIS": "6049",
+      "tipo": "Lei Ordinária",
+      "numero": "4351",
+      "data": "2024-05-09",
+      "sha256_fonte": "6792c60d70156a7964668bee1bc74f4921c7f3024d7c8a9afe10ffa1d08a023b",
+      "sha256_corpo": "285a7a0cd5fdd82010de8a14900e547e6d180244a1bd675b88035312645b7f48",
+      "sha256_visivel": "6374173e98e0970d2be84387ef3ecc34bd6cd4fd063b3f639f37278bbb63f0a9",
+      "sha256_matrizes": "b3f7cf349d736b3120b7ca941f14b2cdaa85fee9c36ffe0ee7539e52e8cbb5b3",
+      "contextos_objetos": [
+        "o do valor referencial mensal previamente estipulado no art. 2º da Lei nº 4.085, de 2023. Art. 4º O Anexo I à Lei Complementar nº 419, de 2022, passa a vigorar na forma do Anexo Único a esta Lei. Art. 5º Ficam revogados os seguintes dispositivos da Lei Complementar nº 419, de 2022: I - o inciso IX do art. 24; II - o inciso X do art. 25. Art. 6º Esta Lei entra em ",
+        "º 4.085, de 2023. Art. 4º O Anexo I à Lei Complementar nº 419, de 2022, passa a vigorar na forma do Anexo Único a esta Lei. Art. 5º Ficam revogados os seguintes dispositivos da Lei Complementar nº 419, de 2022: I - o inciso IX do art. 24; II - o inciso X do art. 25. Art. 6º Esta Lei entra em vigor na data de sua publicação. Rio Branco - Acre, 9 de maio de 2024, 1",
+        " Tratado de Petrópolis e 63º do Estado do Acre. Gladson de Lima Cameli Governador do Estado do Acre ANEXO ÚNICO “ANEXO I ... ITEM GRUPO/SIMBOLOGIA SUBITEM NOMENCLATURA UNIDADE 1 Cargos em Comissão de Natureza Especial - NES 1 1.1 Secretário de Estado-Chefe da Casa Civil SECC 1.2 Secretário de Estado de Governo SEGOV 1.3 Secretário de Estado da Fazenda SEFAZ 1.4 S",
+        "etrópolis e 63º do Estado do Acre. Gladson de Lima Cameli Governador do Estado do Acre ANEXO ÚNICO “ANEXO I ... ITEM GRUPO/SIMBOLOGIA SUBITEM NOMENCLATURA UNIDADE 1 Cargos em Comissão de Natureza Especial - NES 1 1.1 Secretário de Estado-Chefe da Casa Civil SECC 1.2 Secretário de Estado de Governo SEGOV 1.3 Secretário de Estado da Fazenda SEFAZ 1.4 Secretário de "
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Anexo Único contém Anexo I alterado da LC419, quadro com grupos/siglas/cargos e unidades, até item2.20/GABVICE; reticências NR da alteração parcial preservadas.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei Complementar nº 419, de 15 de dezembro de 2022, que estabelece a estrutura básica da administração do Poder Executivo, e a Lei nº 4.085, de 16 de fevereiro de 2023, que altera a primeira, para dispor sobre a Representação do Governo em Brasília."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera a Lei Complementar nº 419, de 15 de dezembro de 2022, que estabelece a estrutura básica da administração do Poder Executivo, e a Lei nº 4.085, de 16 de fevereiro de 2023, que altera a primeira, para dispor sobre a Representação do Governo em Brasília."
+            }
+          ]
+        },
+        {
+          "celulas": 135,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "ITEM"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "GRUPO/SIMBOLOGIA"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 43,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Chefe do Gabinete do Vice-Governador"
+            },
+            {
+              "linha": 43,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "GABVICE"
+            }
+          ]
+        }
+      ],
+      "fim_literal": "ação Esportiva e Juventude SEE 2.13 Secretário Adjunto de Assistência Social e Direitos Humanos SEASDH 2.14 Secretário Adjunto de Agricultura SEAGRI 2.15 Secretário Adjunto do Meio Ambiente SEMA 2.16 Secretário Adjunto de Obras Públicas SEOP 2.17 Subchefe do Gabinete Pessoal do Governador GABGOV 2.18 Coordenador da Casa Civil SECC 2.19 Subchefe da Casa Militar CASMIL 2.20 Chefe do Gabinete do Vice-Governador GABVICE ” (NR) Este texto não substitui o publicado no DOE de 09/05/2024 (Edição Extra)."
+    },
+    {
+      "id_LEGIS": "6047",
+      "tipo": "Lei Ordinária",
+      "numero": "4350",
+      "data": "2024-05-09",
+      "sha256_fonte": "215ef6c633b8d5bbf6f8c71d4102345f3695f1b4afac71a6446a1d820389eb6e",
+      "sha256_corpo": "515119775a34c61cc40f6439d911314cb2dabd0969c0f215b8ed11ab48c0192e",
+      "sha256_visivel": "690612a8335e867260a8c8841b21589deec824a37d2a058ed3b27945c6adfab0",
+      "sha256_matrizes": "09f695f4a7f1179d8efee2c7057377039bcb3c72fb920d8c02e857575e164908",
+      "contextos_objetos": [
+        "ento, especificamente para o futebol profissional acreano, de acordo com o detalhamento previsto no Anexo Único a esta Lei. Art. 2º A destinação de recursos de que trata esta Lei tem caráter específico e natureza não habitual, com o propósito de viabilizar o cumprimento das obrigações decorrentes da realização do campeonato estadual de futebol profissional de 202",
+        " Tratado de Petrópolis e 63º do Estado do Acre. Gladson de Lima Cameli Governador do Estado do Acre ANEXO ÚNICO ITEM DESCRIÇÃO UNIDADE QUANTIDADE VALOR UNITÁRIO VALOR TOTAL 1 Premiação individual de participação dos clubes no campeonato estadual profissional masculino Clube nº de participantes Valor total/nº de participantes 460.000,00 2 Premiação individual pela"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Anexo Único de premiação contém itens1–25 e valor total1.500.000,00. Não há anexo visual externo no campo/UI posterior; todas as células e os valores constam no fragmento.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Dispõe sobre a destinação de recursos financeiros para o desporto de alto rendimento, especificamente para o campeonato estadual de futebol profissional de 2024."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Dispõe sobre a destinação de recursos financeiros para o desporto de alto rendimento, especificamente para o campeonato estadual de futebol profissional de 2024."
+            }
+          ]
+        },
+        {
+          "celulas": 158,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "ITEM"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "DESCRIÇÃO"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 27,
+              "rowspan": 1,
+              "colspan": 5,
+              "texto": "VALOR TOTAL"
+            },
+            {
+              "linha": 27,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "1.500.000,00"
+            }
+          ]
+        }
+      ],
+      "fim_literal": "masculino Clube nº de participantes Valor total/nº de participantes 10.000,00 22 Premiação de 1º lugar do campeonato sub-11 de futebol masculino Clube 1 4.000,00 4.000,00 23 Premiação de 2° lugar do campeonato sub-11 de futebol masculino Clube 1 2.000,00 2.000,00 24 Apoio para a crônica esportiva --- 1 60.000,00 60.000,00 25 Apoio para a arbitragem do campeonato de futebol --- 1 90.000,00 90.000,00 VALOR TOTAL 1.500.000,00 Este texto não substitui o publicado no DOE de 09/05/2024 (Edição Extra)."
+    },
+    {
+      "id_LEGIS": "6027",
+      "tipo": "Lei Ordinária",
+      "numero": "4345",
+      "data": "2024-04-04",
+      "sha256_fonte": "96b9a6252a2ad1d65e5732aec99a4177c2240360fa3c391378b6dded0d0e165b",
+      "sha256_corpo": "d0790ba0861dd182b85bbd8d7f5f33fe9439390930d8686061f381b50a12de3b",
+      "sha256_visivel": "ea95b01ed4f952e1f720a30b8d77218f29919db7bc3bbcaa4b7bd40a8ea22787",
+      "sha256_matrizes": "f5ca48853c9086a51db2ff8f07845523f6a5f6aadf8e145da4328ede51996e7e",
+      "contextos_objetos": [
+        "s e comissionados do Ministério Público do Estado do Acre - MPAC. Art. 2º Os valores constantes dos Anexos IV e V, da Lei nº 4.131, de 17 de julho de 2023, serão majorados em 4,5% (quatro vírgula cinco por cento), a partir do dia 1º de abril de 2024, passando a vigorar com as alterações previstas no Anexo Único desta Lei. Art. 3º Ocorrendo revisão geral anual que ",
+        " por cento), a partir do dia 1º de abril de 2024, passando a vigorar com as alterações previstas no Anexo Único desta Lei. Art. 3º Ocorrendo revisão geral anual que seja aplicável aos vencimentos dos servidores efetivos e comissionados do MPAC, desta será deduzido o percentual de reajuste previsto nesta Lei. Art. 4º As despesas resultantes da execução desta Lei, ",
+        " Tratado de Petrópolis e 63º do Estado do Acre. Gladson de Lima Cameli Governador do Estado do Acre ANEXO ÚNICO “ANEXO IV AUXILIAR MINISTERIAL CLASSE FUNDAMENTAL MÉDIO SUPERIOR/PÓS-GRADUAÇÃO LATO SENSU MESTRADO OU DOUTORADO A B C D 1 R$ 3.367,60 R$ 3.704,36 R$ 3.872,74 R$ 4.041,12 2 R$ 3.535,98 R$ 3.889,57 R$ 4.066,38 R$ 4.243,17 3 R$ 3.712,78 R$ 4.084,05 R$ 4.26",
+        "etrópolis e 63º do Estado do Acre. Gladson de Lima Cameli Governador do Estado do Acre ANEXO ÚNICO “ANEXO IV AUXILIAR MINISTERIAL CLASSE FUNDAMENTAL MÉDIO SUPERIOR/PÓS-GRADUAÇÃO LATO SENSU MESTRADO OU DOUTORADO A B C D 1 R$ 3.367,60 R$ 3.704,36 R$ 3.872,74 R$ 4.041,12 2 R$ 3.535,98 R$ 3.889,57 R$ 4.066,38 R$ 4.243,17 3 R$ 3.712,78 R$ 4.084,05 R$ 4.269,69 R$ 4.455",
+        "19,98 R$ 16.583,97 R$ 17.274,97 R$ 17.965,97 18 R$ 14.510,97 R$ 17.413,17 R$ 18.138,72 R$ 18.864,27 ANEXO V (......) CARGOS EM COMISSÃO Nível Remuneração CMP-8 R$ 20.444,55 CMP-7 R$ 14.055,63 CMP-6 R$ 11.500,06 CMP-5 R$ 9.583,38 CMP-4 R$ 8.944,49 CMP-3 R$ 6.005,58 CMP-2 R$ 5.494,47 CMP-1 R$ 2.811,12” Este texto não substitui o publicado no DOE de 09/04/2024."
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Anexo Único contém Anexos IV e V alterados da Lei4.131: três matrizes remuneratórias e cargos em comissão até CMP-1/R$2.811,12. Reticências literais dentro da alteração preservadas.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera dispositivos da Lei nº 4.131, de 17 de julho de 2023, que dispõe sobre o Plano de Cargos, Carreira e Remuneração - PCCR, dos servidores do Ministério Público do Estado do Acre - MPAC."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera dispositivos da Lei nº 4.131, de 17 de julho de 2023, que dispõe sobre o Plano de Cargos, Carreira e Remuneração - PCCR, dos servidores do Ministério Público do Estado do Acre - MPAC."
+            }
+          ]
+        },
+        {
+          "celulas": 100,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 5,
+              "texto": "AUXILIAR MINISTERIAL"
+            },
+            {
+              "linha": 2,
+              "rowspan": 2,
+              "colspan": 1,
+              "texto": "CLASSE"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 21,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "R$ 8.876,38"
+            },
+            {
+              "linha": 21,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "R$ 9.262,31"
+            }
+          ]
+        },
+        {
+          "celulas": 100,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 5,
+              "texto": "TÉCNICO MINISTERIAL"
+            },
+            {
+              "linha": 2,
+              "rowspan": 2,
+              "colspan": 1,
+              "texto": "CLASSE"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 21,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "R$ 13.337,77"
+            },
+            {
+              "linha": 21,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "R$ 13.893,50"
+            }
+          ]
+        },
+        {
+          "celulas": 100,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 5,
+              "texto": "ANALISTA MINISTERIAL"
+            },
+            {
+              "linha": 2,
+              "rowspan": 2,
+              "colspan": 1,
+              "texto": "CLASSE"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 21,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "R$ 18.138,72"
+            },
+            {
+              "linha": 21,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "R$ 18.864,27"
+            }
+          ]
+        },
+        {
+          "celulas": 20,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 2,
+              "texto": "(......)"
+            },
+            {
+              "linha": 2,
+              "rowspan": 1,
+              "colspan": 2,
+              "texto": "CARGOS EM COMISSÃO"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 11,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "CMP-1"
+            },
+            {
+              "linha": 11,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "R$ 2.811,12”"
+            }
+          ]
+        }
+      ],
+      "fim_literal": "922,77 R$ 15.519,68 15 R$ 12.535,12 R$ 15.042,15 R$ 15.668,91 R$ 16.295,67 16 R$ 13.161,88 R$ 15.794,26 R$ 16.452,35 R$ 17.110,44 17 R$ 13.819,98 R$ 16.583,97 R$ 17.274,97 R$ 17.965,97 18 R$ 14.510,97 R$ 17.413,17 R$ 18.138,72 R$ 18.864,27 ANEXO V (......) CARGOS EM COMISSÃO Nível Remuneração CMP-8 R$ 20.444,55 CMP-7 R$ 14.055,63 CMP-6 R$ 11.500,06 CMP-5 R$ 9.583,38 CMP-4 R$ 8.944,49 CMP-3 R$ 6.005,58 CMP-2 R$ 5.494,47 CMP-1 R$ 2.811,12” Este texto não substitui o publicado no DOE de 09/04/2024."
+    },
+    {
+      "id_LEGIS": "6026",
+      "tipo": "Lei Ordinária",
+      "numero": "4344",
+      "data": "2024-04-04",
+      "sha256_fonte": "528100520810a5a9b3061875808f5623f974df41c8ca45493e43f95a03ddb56d",
+      "sha256_corpo": "40858442e46d1baa4148d09ad2db8df9f0964ea6a76c543ad3dde7aff113d89d",
+      "sha256_visivel": "0cc51cfd6a224ebbc461c2506126aa72be288d2edea165de00ce842f9f4e059e",
+      "sha256_matrizes": "c5650d8c21f7d0ef0edbeb55a372cf6d3b54030a91690381dd40693d0ca6bd57",
+      "contextos_objetos": [
+        "zembro de 2023, passa a vigorar com a seguinte redação: “Art. 160. Os cargos CC-MP-01 e CC-MP-02 do Anexo I da Lei nº 2.993, de 28 de outubro de 2015, serão extintos com a vacância até 31 de maio de 2024”. (NR) Art. 2º Esta Lei entra em vigor na data de sua publicação, com efeitos a contar de 1º de abril de 2024. Rio Branco - Acre, 4 de abril de 2024, 136º da Rep"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Menção ao Anexo I da Lei2.993 ocorre no Art.160 da Lei4.131 alterado: cargos serão extintos por vacância. Não incorpora anexo próprio desta lei.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera dispositivo da Lei nº 4.131, de 17 de julho de 2023, que “Dispõe sobre o Plano de Cargos, Carreira e Remuneração dos servidores do Ministério Público do Estado do Acre - MPAC”."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Altera dispositivo da Lei nº 4.131, de 17 de julho de 2023, que “Dispõe sobre o Plano de Cargos, Carreira e Remuneração dos servidores do Ministério Público do Estado do Acre - MPAC”."
+            }
+          ]
+        }
+      ],
+      "fim_literal": "seguinte redação: “Art. 160. Os cargos CC-MP-01 e CC-MP-02 do Anexo I da Lei nº 2.993, de 28 de outubro de 2015, serão extintos com a vacância até 31 de maio de 2024”. (NR) Art. 2º Esta Lei entra em vigor na data de sua publicação, com efeitos a contar de 1º de abril de 2024. Rio Branco - Acre, 4 de abril de 2024, 136º da República, 122º do Tratado de Petrópolis e 63º do Estado do Acre. Gladson de Lima Cameli Governador do Estado do Acre Este texto não substitui o publicado no DOE de 09/04/2024."
+    },
+    {
+      "id_LEGIS": "6016",
+      "tipo": "Lei Ordinária",
+      "numero": "4339",
+      "data": "2024-03-21",
+      "sha256_fonte": "4cb44521964c4d16512010a9ca0d0cbc81cedca359242ce2d5ec724243e5bc45",
+      "sha256_corpo": "0b79c13985c61661e67e389fdece1b0ee400549b85b55ded944856327eab6117",
+      "sha256_visivel": "17d66c83fab4b5b9a55d88ed48ef3e65efb423d2cb6ca746d0df3f4272033025",
+      "sha256_matrizes": "df956aa3fa8789c4031ba3b07f5997f4cc113463b9375c0f4488b328f847aab2",
+      "contextos_objetos": [
+        "r Executivo autorizado a doar ao Fundo de Arrendamento Residencial - FAR os imóveis relacionados no Anexo Único a esta Lei, para fins de construção de habitações de interesse social, no âmbito do Programa Minha Casa, Minha Vida - PMCMV. Parágrafo único. A autorização de doação se estende a eventuais desmembramentos dos imóveis de que trata o caput, para viabiliza",
+        "trópolis e 63º do Estado do Acre. Mailza Assis da Silva Governadora do Estado do Acre, em exercício ANEXO ÚNICO Item Descrição dos imóveis Imóveis localizados na Cidade do Povo - Lote A 1 Um terreno com 201,636 m2, localizado no Loteamento CIDADE DO POVO, Quadra 752, Lote 240 objeto da Matrícula nº 39.870, registrado no 1º Ofício de Registro de Imóveis de Rio Bra"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Anexo Único de imóveis está no campo após assinatura, longo quadro terminando no item literal401/Matrícula36.775. Representação preserva inclusive numeração e eventuais repetições do original digital, sem renumerar/inferir correção. Não é a mesma norma4337: número, data e articulado próprios conferidos.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Dispõe sobre autorização para doação de imóveis ao Fundo de Arrendamento Residencial - FAR, para construção de habitações de interesse social, no âmbito do Programa Minha Casa, Minha Vida - PMCMV."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Dispõe sobre autorização para doação de imóveis ao Fundo de Arrendamento Residencial - FAR, para construção de habitações de interesse social, no âmbito do Programa Minha Casa, Minha Vida - PMCMV."
+            }
+          ]
+        },
+        {
+          "celulas": 810,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Item"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Descrição dos imóveis"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 405,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "401"
+            },
+            {
+              "linha": 405,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Um terreno com 224,508 m², localizado no Loteamento CIDADE DO POVO, Quadra QUADRA 678, Lote 32 objeto da Matrícula nº 36.775, registrado no 1º Ofício de Registro de Imóveis de Rio Branco/AC;"
+            }
+          ]
+        }
+      ],
+      "fim_literal": " 1º Ofício de Registro de Imóveis de Rio Branco/AC; 400 Um terreno com 224,508 m², localizado no Loteamento CIDADE DO POVO, Quadra QUADRA 678, Lote 23 objeto da Matrícula nº 36.774, registrado no 1º Ofício de Registro de Imóveis de Rio Branco/AC; 401 Um terreno com 224,508 m², localizado no Loteamento CIDADE DO POVO, Quadra QUADRA 678, Lote 32 objeto da Matrícula nº 36.775, registrado no 1º Ofício de Registro de Imóveis de Rio Branco/AC; Este texto não substitui o publicado no DOE de 22/03/2024."
+    },
+    {
+      "id_LEGIS": "6002",
+      "tipo": "Lei Ordinária",
+      "numero": "4337",
+      "data": "2024-03-05",
+      "sha256_fonte": "47b2f1e55e5d708883958183083e7db6e460ec2c9dfb9f499bf327598874798b",
+      "sha256_corpo": "7933ea3e6de9a6dee5d1c98d37e0467be4ec0783039e367d67220dee05d67536",
+      "sha256_visivel": "3c4f7f662588820615eb768e3d0ae05e3288ea3e2f39625160b8481a9c150d8a",
+      "sha256_matrizes": "5bf5620c043c28a3edcefc2038f5702566d37687d4123876c6c5df3003edfd9e",
+      "contextos_objetos": [
+        " do Estado do Acre - Acreprevidência autorizado a doar ao Estado do Acre os imóveis relacionados no Anexo Único a esta Lei, para fins de construção de habitações de interesse social, no âmbito do Programa Minha Casa, Minha Vida - PMCMV. Parágrafo único. A autorização de doação se estende a eventuais desmembramentos dos imóveis de que trata o caput, para viabiliza",
+        " Tratado de Petrópolis e 63º do Estado do Acre. Gladson de Lima Cameli Governador do Estado do Acre ANEXO ÚNICO Item Descrição dos imóveis Imóveis localizados na Cidade do Povo - Lote A 1 Um terreno com 201,636 m2, localizado no Loteamento CIDADE DO POVO, Quadra 752, Lote 240 objeto da Matrícula nº 39.870, registrado no 1º Ofício de Registro de Imóveis de Rio Bra"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Anexo Único de imóveis está no campo após assinatura, longo quadro terminando no item literal402/Matrícula36.775. Preservado sem renumerar. Sem inferir duplicação com4339 por compartilharem descrições imobiliárias; o articulado, número/data e autorizante são distintos.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Dispõe sobre autorização para doação de imóveis públicos ao Estado do Acre, para fins de construção de moradias, no âmbito do Programa Minha Casa, Minha Vida - PMCMV."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Dispõe sobre autorização para doação de imóveis públicos ao Estado do Acre, para fins de construção de moradias, no âmbito do Programa Minha Casa, Minha Vida - PMCMV."
+            }
+          ]
+        },
+        {
+          "celulas": 810,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Item"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Descrição dos imóveis"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 405,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "402"
+            },
+            {
+              "linha": 405,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Um terreno com 224,508 m², localizado no Loteamento CIDADE DO POVO, Quadra QUADRA 678, Lote 32 objeto da Matrícula nº 36.775, registrado no 1º Ofício de Registro de Imóveis de Rio Branco/AC;"
+            }
+          ]
+        }
+      ],
+      "fim_literal": " 1º Ofício de Registro de Imóveis de Rio Branco/AC; 401 Um terreno com 224,508 m², localizado no Loteamento CIDADE DO POVO, Quadra QUADRA 678, Lote 23 objeto da Matrícula nº 36.774, registrado no 1º Ofício de Registro de Imóveis de Rio Branco/AC; 402 Um terreno com 224,508 m², localizado no Loteamento CIDADE DO POVO, Quadra QUADRA 678, Lote 32 objeto da Matrícula nº 36.775, registrado no 1º Ofício de Registro de Imóveis de Rio Branco/AC; Este texto não substitui o publicado no DOE de 06/03/2024."
+    },
+    {
+      "id_LEGIS": "6000",
+      "tipo": "Lei Ordinária",
+      "numero": "4336",
+      "data": "2024-03-05",
+      "sha256_fonte": "ca5fcb49c3952586a8a20d561d213946221bbeed879fb4d40eec650487200e29",
+      "sha256_corpo": "5fa77a6e0019210296643f5a36f0eee15ab2b3c12e9157416de5df23abde5884",
+      "sha256_visivel": "871a2a84ee8e260057de6cfc8cae66ce7214fcdfc39075778bec388953d3487f",
+      "sha256_matrizes": "ce2276b44022768a6f1128aecf1852533356f41f3ffe3d46430559324d024a54",
+      "contextos_objetos": [
+        "r Executivo autorizado a doar ao Fundo de Arrendamento Residencial - FAR os imóveis relacionados no Anexo Único a esta Lei, para fins de construção de habitações de interesse social, no âmbito do Programa Minha Casa, Minha Vida - PMCMV. Parágrafo único. A autorização de doação se estende a eventuais desmembramentos dos imóveis de que trata o caput, para viabiliza",
+        " Tratado de Petrópolis e 63º do Estado do Acre. Gladson de Lima Cameli Governador do Estado do Acre ANEXO ÚNICO Item Descrição dos imóveis Imóveis localizados na Cidade do Povo - Lote C 1 Um terreno com 224,508 m², localizado no Loteamento CIDADE DO POVO, Quadra QUADRA 678, Lote 23 objeto da Matrícula nº 36.774, registrado no 1º Ofício de Registro de Imóveis de R"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Anexo Único de imóveis está no campo com quatro itens, terminando no lote288/Matrícula36.751. Linhas/células e descrições mantidas integralmente na transcrição digital.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Dispõe sobre autorização para doação de imóveis ao Fundo de Arrendamento Residencial - FAR, para construção de habitações de interesse social, no âmbito do Programa Minha Casa, Minha Vida - PMCMV."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Dispõe sobre autorização para doação de imóveis ao Fundo de Arrendamento Residencial - FAR, para construção de habitações de interesse social, no âmbito do Programa Minha Casa, Minha Vida - PMCMV."
+            }
+          ]
+        },
+        {
+          "celulas": 12,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Item"
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Descrição dos imóveis"
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 7,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "4"
+            },
+            {
+              "linha": 7,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Um terreno com 206,794 m², localizado no Loteamento CIDADE DO POVO, Quadra QUADRA 674, Lote 288 objeto da Matrícula nº 36.751, registrado no 1º Ofício de Registro de Imóveis de Rio Branco/AC."
+            }
+          ]
+        }
+      ],
+      "fim_literal": "o/AC. Imóveis localizados na Cidade do Povo - Lote D 3 Um terreno com 1027,087 m², localizado no Loteamento CIDADE DO POVO, Quadra QUADRA 1704, Lote 60 objeto da Matrícula nº 50.535, registrado no 1º Ofício de Registro de Imóveis de Rio Branco/AC; 4 Um terreno com 206,794 m², localizado no Loteamento CIDADE DO POVO, Quadra QUADRA 674, Lote 288 objeto da Matrícula nº 36.751, registrado no 1º Ofício de Registro de Imóveis de Rio Branco/AC. Este texto não substitui o publicado no DOE de 06/03/2024."
+    },
+    {
+      "id_LEGIS": "5966",
+      "tipo": "Lei Ordinária",
+      "numero": "4327",
+      "data": "2024-01-05",
+      "sha256_fonte": "ce4c788faa18a12f6eec2bc46b897a8de798a620e041b8e1c6888596f316132f",
+      "sha256_corpo": "dfb1f572f086aa67723e2c44f6aeff7a9330f2ca6e85634d6faba439ac79c5b0",
+      "sha256_visivel": "b488e5106de22afa78de707f21f11ec59c6c09e0631c36a5dbbed52ca45a1703",
+      "sha256_matrizes": "0aafd53e351bb09039bb0c8258a95d554da1650315ff3e30d18b2cd56e068071",
+      "contextos_objetos": [
+        "amentos, sujeitos ao controle especial e dos antibióticos, desde que a revisão final e a assinatura manual ou assinatura eletrônica seja exclusivamente de competência do profissional prescritor. Parágrafo único. Compete ao CRM-AC, normatizar os termos dos treinamentos e a certificação aos funcionários do setor privado e/ou servidor público. Art. 5º Sob estrita sup"
+      ],
+      "epigrafes_contextuais": [],
+      "decisao": "apto_contextual",
+      "fundamento": "Manual qualifica a forma da assinatura do prescritor no Art.4º; não é referência a manual/documento aprovado por esta lei.",
+      "escopo": "Coerência contextual do campo digital fornecido; não certifica igualdade com DOE nem ausência de erro editorial original.",
+      "tabelas": [
+        {
+          "celulas": 2,
+          "primeiras": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Permite ao profissional farmacêutico anotação do endereço completo do paciente no verso da receita dos medicamentos."
+            }
+          ],
+          "ultimas": [
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": ""
+            },
+            {
+              "linha": 1,
+              "rowspan": 1,
+              "colspan": 1,
+              "texto": "Permite ao profissional farmacêutico anotação do endereço completo do paciente no verso da receita dos medicamentos."
+            }
+          ]
+        }
+      ],
+      "fim_literal": "ensar medicamentos sujeitos ao controle especial e dos antibióticos, desde que a avaliação final e a assinatura da notificação de receita e do receituário sejam de exclusiva competência do profissional farmacêutico. Art. 6º Esta Lei entra em vigor na data de sua publicação. Rio Branco - Acre, 5 de janeiro de 2024, 136º da República, 122º do Tratado de Petrópolis e 63º do Estado do Acre. Gladson de Lima Cameli Governador do Estado do Acre Este texto não substitui o publicado no DOE de 11/01/2024."
+    }
+  ],
+  "sem_promocao": true,
+  "sem_alteracao_pacotes_anteriores": true,
+  "metas_inalteradas": true
+}

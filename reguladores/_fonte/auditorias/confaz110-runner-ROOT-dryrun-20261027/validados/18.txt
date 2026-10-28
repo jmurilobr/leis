@@ -1,0 +1,31 @@
+---
+titulo: "CONVÊNIO ICMS Nº 18, DE 27 DE JANEIRO DE 2026"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "18"
+data: "2026-01-27"
+revogada: null
+versao_texto: "Texto e notas oficiais do portal CONFAZ conforme a captura; sem certificação de vigência."
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV018_26"
+sha256_html_fonte: "b2347ad06e2965e49e71bbd4e4dada663f261a7e50f62213f1db06ab08e681ab"
+sha256_texto: "cbd3be230e66839bfcb6d0196255af4a1e3eaf80fcd954fa3ff41f554f77bc08"
+baixado_em: "2026-10-27"
+representacao_corpo: "html-nativo-confaz-piloto-v1"
+observacao_captura: "timestamp original do cliente com fuso, convertido para America/Recife"
+observacao_efeitos: "Condições de ratificação e produção de efeitos preservadas literalmente. Nenhuma data de vigência calculada."
+publicacao_fonte: "Publicado no DOU de 29.01.26, pelo despacho 04/26. | Ratificação Nacional no DOU de 19.02.26, pelo Ato Declaratório 04/26. | "
+---
+# CONVÊNIO ICMS Nº 18, DE 27 DE JANEIRO DE 2026
+
+<div id="parent-fieldname-text"><p class="A1-1TituloAcordo">CONVÊNIO ICMS Nº 18, DE 27 DE JANEIRO DE 2026</p>
+<p class="A2DataPublicacao">Publicado no DOU de 29.01.26, pelo despacho <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/despacho/2026/dp004_26" target="_self" title="despacho 4/26">04/26</a>.</p>
+<p class="A2DataPublicacao"><span>Ratificação Nacional no DOU de 19.02.26, pelo Ato Declaratório </span><a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/atos-declaratorios/2026/ad004_26" target="_self" title="ato declaratório 4/26">04/26.</a></p>
+<p></p>
+<p class="A2DataPublicacao"></p>
+<p class="A3Ementa">Convalida a entrega de Anexos de Combustíveis em PDF, dispensa a cobrança de acréscimos legais e estabelece prazo para a compensação dos valores entre as unidades federadas, decorrente de inconsistência apresentada no servidor de arquivos do Sistema SCANC, relacionada a falta de recepção de arquivos eletrônicos transmitidos pela empresa COPERCANA DISTRIBUIDORA DE COMBUSTIVEIS LTDA. CNPJ 10.204.914/0001-28, em 04/11/2025, referente às operações do período de outubro de 2025.</p>
+<p class="A5-1TextoAcordo"><b>O</b> <b>Conselho Nacional de Política Fazendária – CONFAZ,</b> na sua 418ª Reunião Extraordinária, realizada em Brasília, DF, no dia 27 de janeiro de 2026, tendo em vista o disposto nos artigos 102 e 109 da Lei nº 5.172, de 25 de outubro de 1966, na Lei Complementar nº 24, de 7 de janeiro de 1975, na Lei Complementar no 192, de 11 de março de 2022, nos Convênios ICMS nº 110, de 28 de setembro de 2007, nº 199, de 22 de dezembro de 2022, e nº 15, de 31 de março de 2023, resolve celebrar o seguinte</p>
+<p class="A4AcordoTipo">CONVÊNIO</p>
+<p class="A5-1TextoAcordo"><b>Cláusula primeira </b>Ficam convalidados os procedimentos adotados pela COPERCANA DISTRIBUIDORA DE COMBUSTIVEIS LTDA. CNPJ 10.204.914/0001-28, relacionados a entrega de arquivos tipo “PDF” dos Anexos de Combustíveis previstos na cláusula vigésima terceira do Convênio ICMS nº 110, de 28 de setembro de 2007, na cláusula décima oitava do Convênio ICMS nº 199, de 22 de dezembro de 2022, e na cláusula décima oitava do Convênio ICMS nº 15, de 31 de março de 2023, decorrente de inconsistência apresentada no servidor de arquivos do Sistema SCANC, relacionada a falta de recepção de arquivos eletrônicos deste estabelecimento, relativas aos fatos geradores do período de outubro de 2025.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula segunda </b>As unidades federadas que tenham recebido valores de imposto superiores aos devidos deverão efetuar a sua regularização através de ofício de autorização de repasse extemporâneo emitido até o 1º dia do segundo mês subsequente ao da publicação deste Convênio, ficando a unidade federada credora do repasse autorizada a oficiar diretamente a refinaria em caso de omissão daquela.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula terceira </b>Fica dispensada a cobrança de acréscimos legais decorrentes dos procedimentos previstos nas cláusulas primeira e segunda deste convênio.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula quarta </b>Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.</p></div>

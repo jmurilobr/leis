@@ -1,0 +1,334 @@
+---
+titulo: "Lei Ordinária nº 1.454, de 29 de outubro de 1987"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1454"
+data: "1987-10-29"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/4497"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/4538/text"
+sha256_fonte: "e929d83349e77eca575cc005635d83b610c81f21ac99dc825acba9f974ada87b"
+sha256_texto: "cc451b626611b7aac2d1402f03c6c472587f1b9239705770d60fb263e28e7391"
+capturado_em_fonte: "2026-10-27T22:01:58.963455-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.454, de 29 de outubro de 1987
+
+ABRE CRÉDITO SUPLEMENTAR, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O Prefeito do Município do Cabo, Estado de Pernambuco, Sr. **ELIAS GOMES DA SILVA**, no uso de suas atribuições legais;
+
+Faço saber que a Câmara Municipal do Cabo aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a abrir Crédito Suplementar no valor de Cz$ 83.995.000,00 (oitenta e três milhões, novecentos e noventa e cinco mil cruzados), para atender as despesas de manutenção das seguintes Dotações Orçamentárias:
+
+**1000 - CÂMARA MUNICIPAL**
+
+01010012.01 - Manutenção dos Serviços da Câmara
+
+3111 - Pessoal Civil................................Cz$ 4.000.000,00  
+3120 - Material de Consumo..........................Cz$ 120.000,00  
+3131 - Remuneração de Serviços Pessoais.............Cz$ 320.000,00  
+3132 - Outros Serviços e Encargos...................Cz$ 100.000,00
+
+01010012.05 - Auxílios a Pessoas Carentes
+
+3259 - Outras Transferências a Pessoas..............Cz$ 100.000,00
+
+08472352.06 - Apoio Financeiro a Estudantes Carentes
+
+3254 - Apoio Financeiro a Estudante................Cz$ 120.000,00
+
+13754282.07 - Despesas Médico-Hospitalar com Vereadores e Servidores
+
+3255 - Assistência Médico-Hospitalar................Cz$ 100.000,00
+
+15814862.08 - Proventos a Inativos
+
+3251 - Inativos.....................................Cz$ 120.000,00
+
+15814862.09 - Encargos com Salário Família
+
+3253 - Salário Família................................Cz$ 1.000,00
+
+**1100 - GABINETE DO PREFEITO**
+
+03070202.12 - Manutenção dos Serviços do Gabinete
+
+3111 - Pessoal Civil................................Cz$ 1.749.000,00  
+3131 - Remuneração de Serviços Pessoais.............Cz$ 56.000,00  
+3132 - Outros Serviços e Encargos...................Cz$ 150.000,00
+
+**1200 - SECRETARIA DE GOVERNO**
+
+03090402.13 - Manutenção dos Serviços da Secretaria
+
+3111 - Pessoal Civil................................Cz$ 1.100.000,00  
+3132 - Outros Serviços e Encargos...................Cz$ 188.000,00
+
+03090401.03 - Ajuda Financeira a Diversas Entidades
+
+3231 - Subvenções Sociais............................Cz$ 20.000,00
+
+**1300 - PROCURADORIA JURÍDICA**
+
+02640142.14 - Manutenção dos Serviços da Procuradoria
+
+3111 - Pessoal Civil................................Cz$ 150.000,00  
+3132 - Outros Serviços e Encargos...................Cz$ 36.000,00
+
+02040142.15 - Encargos com Decisões Judiciais
+
+3191 - Sentenças Judiciárias........................Cz$ 150.000,00
+
+**1400 - SECRETARIA DE PLANEJAMENTO**
+
+03090402.16 - Manutenção dos Serviços da Secretaria
+
+3111 - Pessoal Civil................................Cz$ 1.035.000,00  
+3131 - Remuneração de Serviços Pessoais.............Cz$ 80.000,00
+
+**1500 - SECRETARIA DE EDUCAÇÃO E CULTURA**
+
+08421882.18 - Manutenção dos Serviços da Secretaria
+
+3111 - Pessoal Civil................................Cz$ 21.000.000,00  
+3131 - Remuneração de Serviços Pessoais.............Cz$ 1.090.000,00
+
+08421882.21 - Ajuda a Entidades Culturais
+
+3231 - Subvenções Sociais............................Cz$ 250.000,00
+
+**1600 - SECRETARIA DE SAÚDE E ASSISTÊNCIA SOCIAL**
+
+13754282.22 - Manutenção dos Serviços da Secretaria
+
+3111 - Pessoal Civil................................Cz$ 6.300.000,00  
+3120 - Material de Consumo..........................Cz$ 200.000,00  
+3131 - Remuneração de Serviços Pessoais.............Cz$ 300.000,00  
+3132 - Outros Serviços e Encargos...................Cz$ 550.000,00
+
+13754282.23 - Auxílio a Diversas Entidades
+
+3231 - Subvenções Sociais............................Cz$ 190.000,00
+
+13754282.24 - Auxílio a Pessoas Carentes
+
+3259 - Outras Transferências a Pessoas..............Cz$ 150.000,00
+
+**1700 - SECRETARIA DE TRANSPORTES E OBRAS PÚBLICAS**
+
+10583232.25 - Manutenção dos Serviços da Secretaria
+
+3111 - Pessoal Civil................................Cz$ 4.000.000,00
+
+16915751.38 - Pavimentação de Diversas Ruas do Município
+
+4110 - Obras e Instalações...........................Cz$ 7.069.000,00
+
+16915751.39 - Reposição de Calçamento no Município
+
+4110 - Obras e Instalações...........................Cz$ 459.000,00
+
+**1800 - SECRETARIA DE SERVIÇOS URBANOS**
+
+10603252.27 - Manutenção dos Serviços da Secretaria
+
+3111 - Pessoal Civil................................Cz$ 11.500.000,00  
+3131 - Remuneração de Serviços Pessoais.............Cz$ 500.000,00  
+3132 - Outros Serviços e Encargos...................Cz$ 500.000,00
+
+**1900 - SECRETARIA DE AGRICULTURA, INDÚSTRIA E COMÉRCIO**
+
+03090402.28 - Manutenção dos Serviços da Secretaria
+
+3111 - Pessoal Civil................................Cz$ 1.100.000,00  
+3131 - Remuneração de Serviços Pessoais.............Cz$ 50.000,00  
+3132 - Outros Serviços e Encargos...................Cz$ 50.000,00
+
+03090401.45 - Reforma, Construção e Conservação de Prédios Públicos
+
+4110 - Obras e Instalações...........................Cz$ 100.000,00
+
+**2000 - SECRETARIA DE ADMINISTRAÇÃO**
+
+03070212.29 - Manutenção dos Serviços da Secretaria
+
+3111 - Pessoal Civil................................Cz$ 6.760.000,00  
+3120 - Material de Consumo..........................Cz$ 1.500.000,00  
+3131 - Remuneração de Serviços Pessoais.............Cz$ 100.000,00  
+3132 - Outros Serviços e Encargos...................Cz$ 1.500.000,00
+
+15824922.32 - Cont. para Previdência Social (IAPAS, FGTS, IPSEP)
+
+3113 - Obrigações Patronais..........................Cz$ 500.000,00
+
+15824952.33 - Encargos com Inativos e Pensionistas
+
+3251 - Inativos.....................................Cz$ 1.000.000,00  
+3252 - Pensionistas..................................Cz$ 300.000,00
+
+**2100 - SECRETARIA DE FINANÇAS**
+
+03080302.35 - Manutenção dos Serviços da Secretaria
+
+3111 - Pessoal Civil................................Cz$ 3.408.000,00  
+3132 - Outros Serviços e Encargos...................Cz$ 1.000.000,00
+
+03080332.37 - Encargos da Dívida Interna
+
+3262 - Outros Encargos da Dívida Contratada.........Cz$ 200.000,00  
+3265 - Juros de Outras Dívidas......................Cz$ 500.000,00
+
+03080332.38 - Pagamento da Dívida Interna
+
+4351 - Amortização de Dívida Contratada.............Cz$ 500.000,00
+
+**2200 - DISTRITOS**
+
+03070212.39 - Manutenção da Administração Distrital
+
+3111 - Pessoal Civil................................Cz$ 2.000.000,00
+
+**TOTAL..............................................Cz$ 83.995.000,00**
+
+
+Art. 2º.
+
+Para a abertura do Crédito Suplementar de que trata o Artigo anterior serão utilizados dos seguintes recursos:
+
+**I - Anulação Parcial das seguintes dotações orçamentárias:**
+
+**1400 - SECRETARIA DE PLANEJAMENTO**
+
+03090401.08 - Aquisição de Equipamentos e Material Permanente
+
+4120 - Equipamentos e Material Permanente...........Cz$ 215.000,00
+
+10583231.10 - Manutenção dos Serviços da Divisão
+
+3120 - Material de Consumo..........................Cz$ 15.000,00  
+3132 - Outros Serviços e Encargos...................Cz$ 165.000,00
+
+**1500 - SECRETARIA DE EDUCAÇÃO E CULTURA**
+
+08421881.13 - Construção, Ampliação e Reforma de Unidades Escolares
+
+4110 - Obras e Instalações...........................Cz$ 368.000,00
+
+08421881.14 - Aquisição de Equipamentos e Material Permanente
+
+4120 - Equipamentos e Material Permanente...........Cz$ 500.000,00
+
+08462281.17 - Construção e Reforma de Quadras Esportivas
+
+4110 - Obras e Instalações...........................Cz$ 550.000,00
+
+**1700 - SECRETARIA DE TRANSPORTES E OBRAS PÚBLICAS**
+
+05811271.23 - Construção de Prédios para Funcionamento de Serviços Postais nos Distritos
+
+4110 - Obras e Instalações...........................Cz$ 266.000,00
+
+05221341.24 - Construção para Funcionamento de Serviços de Telefonia nos Distritos
+
+4110 - Obras e Instalações...........................Cz$ 150.000,00
+
+10583231.25 - Construção de Escadarias e Muros de Arrimo
+
+4110 - Instalações e Obras..........................Cz$ 880.000,00
+
+10583231.27 - Aquisição e Desapropriação de Imóveis
+
+4210 - Aquisição de Imóveis..........................Cz$ 100.000,00
+
+11633531.31 - Reforma, Ampliação de Mercados Públicos
+
+4110 - Obras e Instalações...........................Cz$ 260.000,00
+
+13764471.32 - Construção de Chafariz, Caixas d'água Coletivas e Poços Artesianos Coletivos
+
+4110 - Obras e Instalações...........................Cz$ 400.000,00
+
+13764481.33 - Construção de Galerias, Bueiros, Saneamento Condominial e Fossas Coletivas
+
+4110 - Obras e Instalações...........................Cz$ 800.000,00
+
+13774551.34 - Construções de Canais
+
+4110 - Obras e Instalações...........................Cz$ 496.000,00
+
+16885341.35 - Construção de Obras D'artes nas Estradas Vicinais
+
+4110 - Obras e Instalações...........................Cz$ 190.000,00
+
+16885341.36 - Construção e Conservação de Estradas Municipais
+
+4110 - Obras e Instalações...........................Cz$ 200.000,00
+
+16915751.40 - Construção de Abrigos nas Paradas de Ônibus
+
+4110 - Obras e Instalações...........................Cz$ 188.000,00
+
+**1900 - SECRETARIA DE AGRICULTURA, INDÚSTRIA E COMÉRCIO**
+
+03090401.46 - Aquisição de Equip. e Material Permanente
+
+4120 - Equipamento e Mat. Permanente................Cz$ 100.000,00
+
+**2200 - DISTRITOS**
+
+03070211.57 - Reposição e pavimentação de Calçamento e Meio Fio
+
+4110 - Obras e Instalações...........................Cz$ 350.000,00
+
+03070211.59 - Aquisição e Desapropriação de Imóveis
+
+4210 - Aquisição de Imóveis..........................Cz$ 150.000,00
+
+03070211.60 - Desobstrução, Construção, Revestimento e Recuperação de Canais, Canaletas e Bueiros
+
+4110 - Obras e Instalações...........................Cz$ 150.000,00
+
+**TOTAL...............................................Cz$ 5.945.000,00**
+
+**II - Por excesso de arrecadação....................Cz$ 78.050.000,00**
+
+**TOTAL...............................................Cz$ 83.995.000,00**
+
+**DEMONSTRATIVO**
+
+Orçamento da Receita.................................Cz$ 170.368.499,18
+
+Duodécimo (170.368.499,18 ÷ 12 meses)................Cz$ 14.197.374,94
+
+Previsão até 31.12.87 (14.197.374,94 × 12)............Cz$ 170.368.499,18
+
+Arrecadado até 30.09.87..............................Cz$ 135.000.000,00
+
+Previsão da Arrecadação até 31.12.87..................Cz$ 250.368.499,18
+
+Previsão do excesso em 31.12.87.......................Cz$ 80.000.000,00
+
+
+Art. 3º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+PALÁCIO CONDE DA BOA VISTA, em 29 de outubro de 1987.
+
+**ELIAS GOMES DA SILVA**  
+Prefeito
+

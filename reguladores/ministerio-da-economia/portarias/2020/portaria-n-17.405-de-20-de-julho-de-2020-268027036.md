@@ -1,0 +1,34 @@
+---
+titulo: "PORTARIA Nº 17.405, DE 20 DE JULHO DE 2020"
+orgao: "Ministério da Economia/Secretaria Especial de Desburocratização, Gestão e Governo Digital/Secretaria de Gestão"
+tipo: "Portaria"
+numero: "17405"
+data: 2020-07-20
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/07/2020, seção 1, p. 16"
+data_publicacao: 2020-07-22
+edicao: "139"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-17.405-de-20-de-julho-de-2020-268027036"
+sha256_html_fonte: a25fa5556c1f765c7cc392d2f00f949ddf174c5552a93944f8595bea432b5462
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 17.405, DE 20 DE JULHO DE 2020
+
+PORTARIA Nº 17.405, DE 20 DE JULHO DE 2020
+
+Altera o Anexo da Portaria nº 252, de 2 de agosto de 2017.
+
+O SECRETÁRIO DE GESTÃO DA SECRETARIA ESPECIAL DE DESBUROCRATIZAÇÃO GESTÃO E GOVERNO DIGITAL DO MINISTÉRIO DA ECONOMIA, no uso das atribuições que lhe conferem o art. 127 do Anexo I do Decreto nº 9.745, de 8 de abril de 2019, e o Decreto nº 1.094, de 23 de março de 1994, resolve:
+
+**Art. 1º** O Anexo à Portaria nº 252, de 2 de agosto de 2017, passa a vigorar na forma do Anexo desta Portaria.
+
+**Art. 2º** Esta Portaria entre em vigor na data de sua publicação.
+
+CRISTIANO ROCHA HECKERT
+
+## ANEXO
+
+Quadro Demonstrativo das GSISTE distribuídas aos Órgãos Central, Setoriais e Seccionais do Sistema de Serviços Gerais - SISG
+
+<table><tr></tr><tr><td><p>ÓRGÃO</p></td><td><p>QUANTITATIVO DE GSISTE</p></td></tr><tr><td></td><td><p>NÍVEL SUPERIOR</p></td><td><p>NÍVEL INTERMEDIÁRIO</p></td><td><p>TOTAL</p></td></tr><tr><td><p>1. Órgão Central*</p></td><td><p>96</p></td><td><p>29</p></td><td><p>125</p></td></tr><tr><td><p>2. Órgãos Setoriais e Seccionais</p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>2.1. Advocacia Geral da União</p></td><td><p>38</p></td><td><p>16</p></td><td><p>54</p></td></tr><tr><td><p>2.2. Casa Civil/Presidência da República</p></td><td><p>49</p></td><td><p>18</p></td><td><p>67</p></td></tr><tr><td><p>2.3. Instituto Nacional de Colonização e Reforma agrária</p></td><td><p>12</p></td><td><p>6</p></td><td><p>18</p></td></tr><tr><td><p>2.4. Fundação Nacional da Saúde</p></td><td><p>3</p></td><td><p>0</p></td><td><p>3</p></td></tr><tr><td><p>2.5. Ministério da Agricultura, Pecuária e Abastecimento</p></td><td><p>43</p></td><td><p>18</p></td><td><p>61</p></td></tr><tr><td><p>2.6. Ministério da Cidadania</p></td><td><p>47</p></td><td><p>12</p></td><td><p>59</p></td></tr><tr><td><p>2.7. Instituto Brasileiro de Museus</p></td><td><p>5</p></td><td><p>1</p></td><td><p>6</p></td></tr><tr><td><p>2.8. Fundação Biblioteca Nacional</p></td><td><p>5</p></td><td><p>1</p></td><td><p>6</p></td></tr><tr><td><p>2.9. Fundação Cultural Palmares</p></td><td><p>6</p></td><td><p>1</p></td><td><p>7</p></td></tr><tr><td><p>2.10. Fundação Casa de Rui Barbosa</p></td><td><p>3</p></td><td><p>0</p></td><td><p>3</p></td></tr><tr><td><p>2.11. Fundação Nacional de Artes</p></td><td><p>5</p></td><td><p>1</p></td><td><p>6</p></td></tr><tr><td><p>2.12. Instituto do Patrimônio Hist. e Art. Nacional</p></td><td><p>11</p></td><td><p>1</p></td><td><p>12</p></td></tr><tr><td><p>2.13. Ministério da Defesa</p></td><td><p>12</p></td><td><p>7</p></td><td><p>19</p></td></tr><tr><td><p>2.14. Comando da Aeronáutica</p></td><td><p>9</p></td><td><p>3</p></td><td><p>12</p></td></tr><tr><td><p>2.15. Comando do Exército</p></td><td><p>9</p></td><td><p>3</p></td><td><p>12</p></td></tr><tr><td><p>2.16. Comando da Marinha</p></td><td><p>9</p></td><td><p>3</p></td><td><p>12</p></td></tr><tr><td><p>2.17. Ministério da Economia</p></td><td><p>184</p></td><td><p>99</p></td><td><p>283</p></td></tr><tr><td><p>2.18. Ministério da Educação</p></td><td><p>41</p></td><td><p>15</p></td><td><p>56</p></td></tr><tr><td><p>2.19. Superintendência de Desenvolvimento do Centro-Oeste</p></td><td><p>3</p></td><td><p>0</p></td><td><p>3</p></td></tr><tr><td><p>2.20. Ministério da Justiça e Segurança Pública</p></td><td><p>46</p></td><td><p>20</p></td><td><p>66</p></td></tr><tr><td><p>2.21. Ministério da Saúde</p></td><td><p>43</p></td><td><p>18</p></td><td><p>61</p></td></tr><tr><td><p>2.22. Ministério das Relações Exteriores</p></td><td><p>17</p></td><td><p>8</p></td><td><p>25</p></td></tr><tr><td><p>2.23. Fundação Alexandre de Gusmão</p></td><td><p>12</p></td><td><p>3</p></td><td><p>15</p></td></tr><tr><td><p>2.24. Ministério da Ciência, Tecnologia e Inovações</p></td><td><p>61</p></td><td><p>20</p></td><td><p>81</p></td></tr><tr><td><p>2.25. Ministério de Minas e Energia</p></td><td><p>15</p></td><td><p>17</p></td><td><p>32</p></td></tr><tr><td><p>2.26 Ministério do Desenvolvimento Regional</p></td><td><p>45</p></td><td><p>15</p></td><td><p>60</p></td></tr><tr><td><p>2.27. Ministério do Meio Ambiente</p></td><td><p>26</p></td><td><p>12</p></td><td><p>38</p></td></tr><tr><td><p>2.28. Ministério do Turismo</p></td><td><p>22</p></td><td><p>18</p></td><td><p>40</p></td></tr><tr><td><p>2.29. Ministério da Infraestrutura</p></td><td><p>33</p></td><td><p>14</p></td><td><p>47</p></td></tr><tr><td><p>2.30. Superintendência de Previdência Complementar</p></td><td><p>2</p></td><td><p>2</p></td><td><p>4</p></td></tr><tr><td><p>2.31. Superintendência do Desenvolvimento da Amazônia</p></td><td><p>0</p></td><td><p>7</p></td><td><p>7</p></td></tr><tr><td><p>2.32. Superintendência do Desenvolvimento do Nordeste</p></td><td><p>0</p></td><td><p>12</p></td><td><p>12</p></td></tr><tr><td><p>TOTAL</p></td><td><p>912</p></td><td><p>400</p></td><td><p>1312</p></td></tr></table>

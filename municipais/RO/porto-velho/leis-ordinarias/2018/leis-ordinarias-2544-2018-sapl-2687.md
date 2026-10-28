@@ -1,0 +1,115 @@
+---
+titulo: "Lei nº 2.544, de 24 de setembro de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2544"
+data: "2018-09-24"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/2687"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/983/text"
+sha256_fonte: "5d031f32fe3650aa8c2d5416bacc1e1267058760c3661012cac2a5b35e976774"
+sha256_texto: "e8dd95daa5f705a839e137e08b5684ba53931c02518b4f8f922d802fd47965ad"
+capturado_em_fonte: "2026-10-27T16:44:02.014172-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 2.544, de 24 de setembro de 2018
+
+“Autoriza o poder Executivo Municipal a criar o Programa Municipal de Desenvolvimento da Cadeia Produtiva de Psicultura Familiar, com a utilização de recursos na promoção de Ações de Apoio e Incentivo à Atividade”.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida nos incisos IV, do artigo 87, da Lei Orgânica do Município de Porto Velho,  
+  
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte  
+  
+**LEI:**
+
+
+Art. 1º.
+
+Cria o Programa Municipal de Desenvolvimento da Cadeia Produtiva de Psicultura Familiar denominado “MAIS PEIXE”, para a promoção de ações de apoio e incentivo à atividade da psicultura na fase de implantação ou adequação de tanques, visando aumentar a produção, agregar renda às famílias rurais mediante projetos específicos, como a utilização de recursos da Subsecretaria Municipal de Agricultura e Abastecimento (SEMAGRIC).
+
+
+Parágrafo único
+
+A implementação do programa “MAIS PEIXE” se dará por meio dos Programas e Ações de desenvolvimento da Psicultura previstos no orçamento municipal e outras fontes de custeio.
+
+
+Art. 2º.
+
+Para a execução dos serviços, a Subsecretaria Municipal de Agricultura e Abastecimento (SEMAGRIC), realizará levantamento das propriedades que estejam regulares pelas legislações ambientes e fundiárias e tenha aptidão para Psicultura.
+
+
+Art. 3º.
+
+Os beneficiários do programa deverão ser produtores proprietários ou arrendatários de estabelecimentos rurais, assentamentos e posseiros, desde que estejam localizados no Município.
+
+
+Parágrafo único
+
+O número de produtores beneficiados será estabelecido em conformidade com a disponibilidade de recursos que comporão o Programa.
+
+
+Art. 4º.
+
+Cada produtor beneficiário do Programa, terá direito de 40 horas/máquina até o máximo de 60 (sessenta) horas/máquina, por tanque, para realização de equipamentos pertencentes ao Município para construção e adequação de tanques.
+
+
+Parágrafo único
+
+O beneficiário de que trata o caput deste artigo, para fruição dos benefícios do Programa, deverá:
+
+
+I –
+
+contribuir com o valor equivalente à 22 (vinte e dois) litros de óleo diesel, por hora de serviço prestado, valor a ser aferido por meio de regulamentação desta Lei, recolhido a título de contrapartida;
+
+
+II –
+
+depositar o valor relativo a contrapartida em conta específica do Fundo Municipal de Desenvolvimento de Cadeia Produtiva da Aquicultura Familiar, para utilização na continuidade do Programa.
+
+
+Art. 5º.
+
+Fica criado o Fundo Municipal de Desenvolvimento da Cadeia Produtiva da Aquicultura Família (FMDAP), que será gerido pelo Conselho Municipal de Desenvolvimento Rural Sustentável (CMDR), com a finalidade de subsidiar a promoção de ações relativas a aquicultura familiar, favorecendo a implementação de incentivos e fomento ao programa “MAIS PEIXE”.
+
+
+Art. 6º.
+
+Os recursos que comporão o referido Fundo, destinado a custear o Programa “MAIS PEIXE”, serão oriundos de:
+
+
+I –
+
+recursos conveniados com outros entes federados;
+
+
+II –
+
+depósitos decorrentes de contrapartida dos beneficiários do programa.
+
+
+Art. 7º.
+
+Os recursos do Fundo instituído por esta Lei somente serão utilizados no desenvolvimento da aquicultura familiar e da atividade de Psicultura
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 9º.
+
+Revogam-se as disposições em contrário.
+
+
+**HILDON DE LIMA CHAVES Prefeito**
+

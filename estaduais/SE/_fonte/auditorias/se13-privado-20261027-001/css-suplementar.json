@@ -1,0 +1,1721 @@
+[
+  {
+    "id": "12630",
+    "QA": {
+      "sha256_HTML": "0f2465fa55c779ba77c477dbf61fba095c1249b0871808a7965ab21be63cb27b",
+      "fontes_CSS": [
+        {
+          "url": "inline:0f2465fa55c779ba77c477dbf61fba095c1249b0871808a7965ab21be63cb27b#style1",
+          "sha256_fonte": "aab7aa022a390e4a23c9fcda35eaff6296c52c0dfaa0c5d0b64419b74c8cbdff"
+        }
+      ],
+      "classes_internas": [
+        "MsoNormalTable",
+        "SpellE",
+        "WordSection1",
+        "assin",
+        "centro",
+        "corpo",
+        "ementa",
+        "epig",
+        "rodape"
+      ],
+      "IDs_internos": [
+        "_x0000_i1025"
+      ],
+      "regras": [
+        {
+          "url": "inline:0f2465fa55c779ba77c477dbf61fba095c1249b0871808a7965ab21be63cb27b#style1",
+          "linha": 41,
+          "seletor": "p",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "12.0pt",
+            "font-family": "\"Times New Roman\",serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:0f2465fa55c779ba77c477dbf61fba095c1249b0871808a7965ab21be63cb27b#style1",
+          "linha": 61,
+          "seletor": "p.epig",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "#3826A2",
+            "text-decoration": "underline"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:0f2465fa55c779ba77c477dbf61fba095c1249b0871808a7965ab21be63cb27b#style1",
+          "linha": 79,
+          "seletor": "p.ementa",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "maroon"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:0f2465fa55c779ba77c477dbf61fba095c1249b0871808a7965ab21be63cb27b#style1",
+          "linha": 93,
+          "seletor": "p.corpo",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:0f2465fa55c779ba77c477dbf61fba095c1249b0871808a7965ab21be63cb27b#style1",
+          "linha": 29,
+          "seletor": "a:link",
+          "condicao": "",
+          "declaracoes": {
+            "color": "blue",
+            "text-decoration": "underline"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:0f2465fa55c779ba77c477dbf61fba095c1249b0871808a7965ab21be63cb27b#style1",
+          "linha": 154,
+          "seletor": "p.assin",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:0f2465fa55c779ba77c477dbf61fba095c1249b0871808a7965ab21be63cb27b#style1",
+          "linha": 197,
+          "seletor": "p.centro",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:0f2465fa55c779ba77c477dbf61fba095c1249b0871808a7965ab21be63cb27b#style1",
+          "linha": 182,
+          "seletor": "p.rodape",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "red"
+          },
+          "pseudo": null
+        }
+      ],
+      "seletores_nao_suportados_disjuntos": 0,
+      "retencoes": [],
+      "CSS_sem_risco_comprovado": true
+    }
+  },
+  {
+    "id": "12629",
+    "QA": {
+      "sha256_HTML": "63a8d701f75465ed6333e795346f7f1ee625453b683a0781c9e1a7e6b4761ad4",
+      "fontes_CSS": [
+        {
+          "url": "inline:63a8d701f75465ed6333e795346f7f1ee625453b683a0781c9e1a7e6b4761ad4#style1",
+          "sha256_fonte": "849db138784dd81e56c4432acaa070d9423d846ead73df4d500a001724203e52"
+        }
+      ],
+      "classes_internas": [
+        "MsoNormalTable",
+        "WordSection1",
+        "assin",
+        "centro",
+        "corpo",
+        "ementa",
+        "epig",
+        "rodape",
+        "sec"
+      ],
+      "IDs_internos": [],
+      "regras": [
+        {
+          "url": "inline:63a8d701f75465ed6333e795346f7f1ee625453b683a0781c9e1a7e6b4761ad4#style1",
+          "linha": 29,
+          "seletor": "table.MsoNormalTable",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:63a8d701f75465ed6333e795346f7f1ee625453b683a0781c9e1a7e6b4761ad4#style1",
+          "linha": 5,
+          "seletor": "p.epig",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "#3826A2",
+            "text-decoration": "underline"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:63a8d701f75465ed6333e795346f7f1ee625453b683a0781c9e1a7e6b4761ad4#style1",
+          "linha": 8,
+          "seletor": "p.ementa",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "maroon"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:63a8d701f75465ed6333e795346f7f1ee625453b683a0781c9e1a7e6b4761ad4#style1",
+          "linha": 11,
+          "seletor": "p.corpo",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:63a8d701f75465ed6333e795346f7f1ee625453b683a0781c9e1a7e6b4761ad4#style1",
+          "linha": 21,
+          "seletor": "p.assin",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:63a8d701f75465ed6333e795346f7f1ee625453b683a0781c9e1a7e6b4761ad4#style1",
+          "linha": 23,
+          "seletor": "p.sec",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:63a8d701f75465ed6333e795346f7f1ee625453b683a0781c9e1a7e6b4761ad4#style1",
+          "linha": 27,
+          "seletor": "p.centro",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:63a8d701f75465ed6333e795346f7f1ee625453b683a0781c9e1a7e6b4761ad4#style1",
+          "linha": 25,
+          "seletor": "p.rodape",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "red"
+          },
+          "pseudo": null
+        }
+      ],
+      "seletores_nao_suportados_disjuntos": 0,
+      "retencoes": [],
+      "CSS_sem_risco_comprovado": true
+    }
+  },
+  {
+    "id": "12628",
+    "QA": {
+      "sha256_HTML": "6e9d78f143926e6f7f19c7a11811bf941cbb162cce4d56531cc1824a00325fd6",
+      "fontes_CSS": [
+        {
+          "url": "inline:6e9d78f143926e6f7f19c7a11811bf941cbb162cce4d56531cc1824a00325fd6#style1",
+          "sha256_fonte": "849db138784dd81e56c4432acaa070d9423d846ead73df4d500a001724203e52"
+        }
+      ],
+      "classes_internas": [
+        "MsoNormalTable",
+        "WordSection1",
+        "assin",
+        "centro",
+        "corpo",
+        "ementa",
+        "epig",
+        "rodape",
+        "sec"
+      ],
+      "IDs_internos": [],
+      "regras": [
+        {
+          "url": "inline:6e9d78f143926e6f7f19c7a11811bf941cbb162cce4d56531cc1824a00325fd6#style1",
+          "linha": 29,
+          "seletor": "table.MsoNormalTable",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:6e9d78f143926e6f7f19c7a11811bf941cbb162cce4d56531cc1824a00325fd6#style1",
+          "linha": 5,
+          "seletor": "p.epig",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "#3826A2",
+            "text-decoration": "underline"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:6e9d78f143926e6f7f19c7a11811bf941cbb162cce4d56531cc1824a00325fd6#style1",
+          "linha": 8,
+          "seletor": "p.ementa",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "maroon"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:6e9d78f143926e6f7f19c7a11811bf941cbb162cce4d56531cc1824a00325fd6#style1",
+          "linha": 11,
+          "seletor": "p.corpo",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:6e9d78f143926e6f7f19c7a11811bf941cbb162cce4d56531cc1824a00325fd6#style1",
+          "linha": 21,
+          "seletor": "p.assin",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:6e9d78f143926e6f7f19c7a11811bf941cbb162cce4d56531cc1824a00325fd6#style1",
+          "linha": 23,
+          "seletor": "p.sec",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:6e9d78f143926e6f7f19c7a11811bf941cbb162cce4d56531cc1824a00325fd6#style1",
+          "linha": 27,
+          "seletor": "p.centro",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:6e9d78f143926e6f7f19c7a11811bf941cbb162cce4d56531cc1824a00325fd6#style1",
+          "linha": 25,
+          "seletor": "p.rodape",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "red"
+          },
+          "pseudo": null
+        }
+      ],
+      "seletores_nao_suportados_disjuntos": 0,
+      "retencoes": [],
+      "CSS_sem_risco_comprovado": true
+    }
+  },
+  {
+    "id": "12627",
+    "QA": {
+      "sha256_HTML": "abed0e4a1dace315510fefe4af4876aa1d4b4cc8b9808e37d630d47112ee3c3e",
+      "fontes_CSS": [
+        {
+          "url": "inline:abed0e4a1dace315510fefe4af4876aa1d4b4cc8b9808e37d630d47112ee3c3e#style1",
+          "sha256_fonte": "86711f1b308f2192069867c79c684f047b02b7b448dacd9547ecf16d563b0f55"
+        }
+      ],
+      "classes_internas": [
+        "MsoNormalTable",
+        "WordSection1",
+        "assin",
+        "centro",
+        "corpo",
+        "ementa",
+        "epig",
+        "rodape",
+        "sec"
+      ],
+      "IDs_internos": [
+        "_x0000_i1025"
+      ],
+      "regras": [
+        {
+          "url": "inline:abed0e4a1dace315510fefe4af4876aa1d4b4cc8b9808e37d630d47112ee3c3e#style1",
+          "linha": 29,
+          "seletor": "p",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "12.0pt",
+            "font-family": "\"Times New Roman\",serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:abed0e4a1dace315510fefe4af4876aa1d4b4cc8b9808e37d630d47112ee3c3e#style1",
+          "linha": 49,
+          "seletor": "p.epig",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "#3826A2",
+            "text-decoration": "underline"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:abed0e4a1dace315510fefe4af4876aa1d4b4cc8b9808e37d630d47112ee3c3e#style1",
+          "linha": 67,
+          "seletor": "p.ementa",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "maroon"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:abed0e4a1dace315510fefe4af4876aa1d4b4cc8b9808e37d630d47112ee3c3e#style1",
+          "linha": 81,
+          "seletor": "p.corpo",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:abed0e4a1dace315510fefe4af4876aa1d4b4cc8b9808e37d630d47112ee3c3e#style1",
+          "linha": 142,
+          "seletor": "p.assin",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:abed0e4a1dace315510fefe4af4876aa1d4b4cc8b9808e37d630d47112ee3c3e#style1",
+          "linha": 156,
+          "seletor": "p.sec",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:abed0e4a1dace315510fefe4af4876aa1d4b4cc8b9808e37d630d47112ee3c3e#style1",
+          "linha": 185,
+          "seletor": "p.centro",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:abed0e4a1dace315510fefe4af4876aa1d4b4cc8b9808e37d630d47112ee3c3e#style1",
+          "linha": 170,
+          "seletor": "p.rodape",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "red"
+          },
+          "pseudo": null
+        }
+      ],
+      "seletores_nao_suportados_disjuntos": 0,
+      "retencoes": [],
+      "CSS_sem_risco_comprovado": true
+    }
+  },
+  {
+    "id": "12626",
+    "QA": {
+      "sha256_HTML": "16fb4d3820dcd984337ee1702972e1afb0c24f56a8c3beba7025fdf79454f308",
+      "fontes_CSS": [
+        {
+          "url": "inline:16fb4d3820dcd984337ee1702972e1afb0c24f56a8c3beba7025fdf79454f308#style1",
+          "sha256_fonte": "3fc3faf629097b704759ad072d1b1594c42fe452b2f0823dd2259e2dd1ee1d67"
+        }
+      ],
+      "classes_internas": [
+        "MsoNormalTable",
+        "SpellE",
+        "WordSection1",
+        "assin",
+        "centro",
+        "corpo",
+        "ementa",
+        "epig",
+        "rodape",
+        "sec"
+      ],
+      "IDs_internos": [
+        "_x0000_i1025"
+      ],
+      "regras": [
+        {
+          "url": "inline:16fb4d3820dcd984337ee1702972e1afb0c24f56a8c3beba7025fdf79454f308#style1",
+          "linha": 29,
+          "seletor": "p",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "12.0pt",
+            "font-family": "\"Times New Roman\",serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:16fb4d3820dcd984337ee1702972e1afb0c24f56a8c3beba7025fdf79454f308#style1",
+          "linha": 47,
+          "seletor": "p.epig",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "#3826A2",
+            "text-decoration": "underline"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:16fb4d3820dcd984337ee1702972e1afb0c24f56a8c3beba7025fdf79454f308#style1",
+          "linha": 63,
+          "seletor": "p.ementa",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "maroon"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:16fb4d3820dcd984337ee1702972e1afb0c24f56a8c3beba7025fdf79454f308#style1",
+          "linha": 75,
+          "seletor": "p.corpo",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:16fb4d3820dcd984337ee1702972e1afb0c24f56a8c3beba7025fdf79454f308#style1",
+          "linha": 128,
+          "seletor": "p.assin",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:16fb4d3820dcd984337ee1702972e1afb0c24f56a8c3beba7025fdf79454f308#style1",
+          "linha": 140,
+          "seletor": "p.sec",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:16fb4d3820dcd984337ee1702972e1afb0c24f56a8c3beba7025fdf79454f308#style1",
+          "linha": 165,
+          "seletor": "p.centro",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:16fb4d3820dcd984337ee1702972e1afb0c24f56a8c3beba7025fdf79454f308#style1",
+          "linha": 152,
+          "seletor": "p.rodape",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "red"
+          },
+          "pseudo": null
+        }
+      ],
+      "seletores_nao_suportados_disjuntos": 0,
+      "retencoes": [],
+      "CSS_sem_risco_comprovado": true
+    }
+  },
+  {
+    "id": "12625",
+    "QA": {
+      "sha256_HTML": "f1cbf1a2e1193f3fc223e87b94512b1e3b42e8569e17155bcd71336fc5dda6e8",
+      "fontes_CSS": [
+        {
+          "url": "inline:f1cbf1a2e1193f3fc223e87b94512b1e3b42e8569e17155bcd71336fc5dda6e8#style1",
+          "sha256_fonte": "3fc3faf629097b704759ad072d1b1594c42fe452b2f0823dd2259e2dd1ee1d67"
+        }
+      ],
+      "classes_internas": [
+        "MsoNormalTable",
+        "SpellE",
+        "WordSection1",
+        "assin",
+        "centro",
+        "cit",
+        "citc",
+        "corpo",
+        "ementa",
+        "epig",
+        "rodape",
+        "sec"
+      ],
+      "IDs_internos": [
+        "_x0000_i1025"
+      ],
+      "regras": [
+        {
+          "url": "inline:f1cbf1a2e1193f3fc223e87b94512b1e3b42e8569e17155bcd71336fc5dda6e8#style1",
+          "linha": 29,
+          "seletor": "p",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "12.0pt",
+            "font-family": "\"Times New Roman\",serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:f1cbf1a2e1193f3fc223e87b94512b1e3b42e8569e17155bcd71336fc5dda6e8#style1",
+          "linha": 47,
+          "seletor": "p.epig",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "#3826A2",
+            "text-decoration": "underline"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:f1cbf1a2e1193f3fc223e87b94512b1e3b42e8569e17155bcd71336fc5dda6e8#style1",
+          "linha": 63,
+          "seletor": "p.ementa",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "maroon"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:f1cbf1a2e1193f3fc223e87b94512b1e3b42e8569e17155bcd71336fc5dda6e8#style1",
+          "linha": 75,
+          "seletor": "p.corpo",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:f1cbf1a2e1193f3fc223e87b94512b1e3b42e8569e17155bcd71336fc5dda6e8#style1",
+          "linha": 87,
+          "seletor": "p.cit",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "2.0cm",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:f1cbf1a2e1193f3fc223e87b94512b1e3b42e8569e17155bcd71336fc5dda6e8#style1",
+          "linha": 103,
+          "seletor": "p.citc",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:f1cbf1a2e1193f3fc223e87b94512b1e3b42e8569e17155bcd71336fc5dda6e8#style1",
+          "linha": 128,
+          "seletor": "p.assin",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:f1cbf1a2e1193f3fc223e87b94512b1e3b42e8569e17155bcd71336fc5dda6e8#style1",
+          "linha": 140,
+          "seletor": "p.sec",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:f1cbf1a2e1193f3fc223e87b94512b1e3b42e8569e17155bcd71336fc5dda6e8#style1",
+          "linha": 165,
+          "seletor": "p.centro",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:f1cbf1a2e1193f3fc223e87b94512b1e3b42e8569e17155bcd71336fc5dda6e8#style1",
+          "linha": 152,
+          "seletor": "p.rodape",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "red"
+          },
+          "pseudo": null
+        }
+      ],
+      "seletores_nao_suportados_disjuntos": 0,
+      "retencoes": [],
+      "CSS_sem_risco_comprovado": true
+    }
+  },
+  {
+    "id": "12624",
+    "QA": {
+      "sha256_HTML": "ac67f2b6ac8cc6ae96c371cb2eda2ccffaf475a72074b6c8f46ce3edaa9f3713",
+      "fontes_CSS": [
+        {
+          "url": "inline:ac67f2b6ac8cc6ae96c371cb2eda2ccffaf475a72074b6c8f46ce3edaa9f3713#style1",
+          "sha256_fonte": "3fc3faf629097b704759ad072d1b1594c42fe452b2f0823dd2259e2dd1ee1d67"
+        }
+      ],
+      "classes_internas": [
+        "MsoNormalTable",
+        "SpellE",
+        "WordSection1",
+        "assin",
+        "centro",
+        "cit",
+        "citc",
+        "corpo",
+        "ementa",
+        "epig",
+        "rodape",
+        "sec"
+      ],
+      "IDs_internos": [
+        "_x0000_i1025"
+      ],
+      "regras": [
+        {
+          "url": "inline:ac67f2b6ac8cc6ae96c371cb2eda2ccffaf475a72074b6c8f46ce3edaa9f3713#style1",
+          "linha": 29,
+          "seletor": "p",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "12.0pt",
+            "font-family": "\"Times New Roman\",serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:ac67f2b6ac8cc6ae96c371cb2eda2ccffaf475a72074b6c8f46ce3edaa9f3713#style1",
+          "linha": 47,
+          "seletor": "p.epig",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "#3826A2",
+            "text-decoration": "underline"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:ac67f2b6ac8cc6ae96c371cb2eda2ccffaf475a72074b6c8f46ce3edaa9f3713#style1",
+          "linha": 63,
+          "seletor": "p.ementa",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "maroon"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:ac67f2b6ac8cc6ae96c371cb2eda2ccffaf475a72074b6c8f46ce3edaa9f3713#style1",
+          "linha": 75,
+          "seletor": "p.corpo",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:ac67f2b6ac8cc6ae96c371cb2eda2ccffaf475a72074b6c8f46ce3edaa9f3713#style1",
+          "linha": 87,
+          "seletor": "p.cit",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "2.0cm",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:ac67f2b6ac8cc6ae96c371cb2eda2ccffaf475a72074b6c8f46ce3edaa9f3713#style1",
+          "linha": 103,
+          "seletor": "p.citc",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:ac67f2b6ac8cc6ae96c371cb2eda2ccffaf475a72074b6c8f46ce3edaa9f3713#style1",
+          "linha": 128,
+          "seletor": "p.assin",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:ac67f2b6ac8cc6ae96c371cb2eda2ccffaf475a72074b6c8f46ce3edaa9f3713#style1",
+          "linha": 140,
+          "seletor": "p.sec",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:ac67f2b6ac8cc6ae96c371cb2eda2ccffaf475a72074b6c8f46ce3edaa9f3713#style1",
+          "linha": 165,
+          "seletor": "p.centro",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:ac67f2b6ac8cc6ae96c371cb2eda2ccffaf475a72074b6c8f46ce3edaa9f3713#style1",
+          "linha": 152,
+          "seletor": "p.rodape",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "red"
+          },
+          "pseudo": null
+        }
+      ],
+      "seletores_nao_suportados_disjuntos": 0,
+      "retencoes": [],
+      "CSS_sem_risco_comprovado": true
+    }
+  },
+  {
+    "id": "12623",
+    "QA": {
+      "sha256_HTML": "6af6945933c368a9b495b3b65c75c3c61413f184f93f52d3517b5731d23247ac",
+      "fontes_CSS": [
+        {
+          "url": "inline:6af6945933c368a9b495b3b65c75c3c61413f184f93f52d3517b5731d23247ac#style1",
+          "sha256_fonte": "849db138784dd81e56c4432acaa070d9423d846ead73df4d500a001724203e52"
+        }
+      ],
+      "classes_internas": [
+        "MsoNormalTable",
+        "WordSection1",
+        "assin",
+        "centro",
+        "corpo",
+        "ementa",
+        "epig",
+        "rodape",
+        "sec"
+      ],
+      "IDs_internos": [],
+      "regras": [
+        {
+          "url": "inline:6af6945933c368a9b495b3b65c75c3c61413f184f93f52d3517b5731d23247ac#style1",
+          "linha": 29,
+          "seletor": "table.MsoNormalTable",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:6af6945933c368a9b495b3b65c75c3c61413f184f93f52d3517b5731d23247ac#style1",
+          "linha": 5,
+          "seletor": "p.epig",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "#3826A2",
+            "text-decoration": "underline"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:6af6945933c368a9b495b3b65c75c3c61413f184f93f52d3517b5731d23247ac#style1",
+          "linha": 8,
+          "seletor": "p.ementa",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "maroon"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:6af6945933c368a9b495b3b65c75c3c61413f184f93f52d3517b5731d23247ac#style1",
+          "linha": 11,
+          "seletor": "p.corpo",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:6af6945933c368a9b495b3b65c75c3c61413f184f93f52d3517b5731d23247ac#style1",
+          "linha": 21,
+          "seletor": "p.assin",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:6af6945933c368a9b495b3b65c75c3c61413f184f93f52d3517b5731d23247ac#style1",
+          "linha": 23,
+          "seletor": "p.sec",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:6af6945933c368a9b495b3b65c75c3c61413f184f93f52d3517b5731d23247ac#style1",
+          "linha": 27,
+          "seletor": "p.centro",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:6af6945933c368a9b495b3b65c75c3c61413f184f93f52d3517b5731d23247ac#style1",
+          "linha": 25,
+          "seletor": "p.rodape",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "red"
+          },
+          "pseudo": null
+        }
+      ],
+      "seletores_nao_suportados_disjuntos": 0,
+      "retencoes": [],
+      "CSS_sem_risco_comprovado": true
+    }
+  },
+  {
+    "id": "12622",
+    "QA": {
+      "sha256_HTML": "19b537f21db67acc9b5faf29874cb6ce1be72120ed60081b92db0b11affabc73",
+      "fontes_CSS": [
+        {
+          "url": "inline:19b537f21db67acc9b5faf29874cb6ce1be72120ed60081b92db0b11affabc73#style1",
+          "sha256_fonte": "849db138784dd81e56c4432acaa070d9423d846ead73df4d500a001724203e52"
+        }
+      ],
+      "classes_internas": [
+        "MsoNormalTable",
+        "WordSection1",
+        "assin",
+        "centro",
+        "corpo",
+        "ementa",
+        "epig",
+        "rodape",
+        "sec"
+      ],
+      "IDs_internos": [],
+      "regras": [
+        {
+          "url": "inline:19b537f21db67acc9b5faf29874cb6ce1be72120ed60081b92db0b11affabc73#style1",
+          "linha": 29,
+          "seletor": "table.MsoNormalTable",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:19b537f21db67acc9b5faf29874cb6ce1be72120ed60081b92db0b11affabc73#style1",
+          "linha": 5,
+          "seletor": "p.epig",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "#3826A2",
+            "text-decoration": "underline"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:19b537f21db67acc9b5faf29874cb6ce1be72120ed60081b92db0b11affabc73#style1",
+          "linha": 8,
+          "seletor": "p.ementa",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "maroon"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:19b537f21db67acc9b5faf29874cb6ce1be72120ed60081b92db0b11affabc73#style1",
+          "linha": 11,
+          "seletor": "p.corpo",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:19b537f21db67acc9b5faf29874cb6ce1be72120ed60081b92db0b11affabc73#style1",
+          "linha": 21,
+          "seletor": "p.assin",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:19b537f21db67acc9b5faf29874cb6ce1be72120ed60081b92db0b11affabc73#style1",
+          "linha": 23,
+          "seletor": "p.sec",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:19b537f21db67acc9b5faf29874cb6ce1be72120ed60081b92db0b11affabc73#style1",
+          "linha": 27,
+          "seletor": "p.centro",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:19b537f21db67acc9b5faf29874cb6ce1be72120ed60081b92db0b11affabc73#style1",
+          "linha": 25,
+          "seletor": "p.rodape",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "red"
+          },
+          "pseudo": null
+        }
+      ],
+      "seletores_nao_suportados_disjuntos": 0,
+      "retencoes": [],
+      "CSS_sem_risco_comprovado": true
+    }
+  },
+  {
+    "id": "12621",
+    "QA": {
+      "sha256_HTML": "3c334633526158b183c3d5296339f6fe9da3eee39f93452a3c6efde6188afbb8",
+      "fontes_CSS": [
+        {
+          "url": "inline:3c334633526158b183c3d5296339f6fe9da3eee39f93452a3c6efde6188afbb8#style1",
+          "sha256_fonte": "849db138784dd81e56c4432acaa070d9423d846ead73df4d500a001724203e52"
+        }
+      ],
+      "classes_internas": [
+        "MsoNormalTable",
+        "WordSection1",
+        "assin",
+        "centro",
+        "corpo",
+        "ementa",
+        "epig",
+        "rodape",
+        "sec"
+      ],
+      "IDs_internos": [],
+      "regras": [
+        {
+          "url": "inline:3c334633526158b183c3d5296339f6fe9da3eee39f93452a3c6efde6188afbb8#style1",
+          "linha": 29,
+          "seletor": "table.MsoNormalTable",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:3c334633526158b183c3d5296339f6fe9da3eee39f93452a3c6efde6188afbb8#style1",
+          "linha": 5,
+          "seletor": "p.epig",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "#3826A2",
+            "text-decoration": "underline"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:3c334633526158b183c3d5296339f6fe9da3eee39f93452a3c6efde6188afbb8#style1",
+          "linha": 8,
+          "seletor": "p.ementa",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "maroon"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:3c334633526158b183c3d5296339f6fe9da3eee39f93452a3c6efde6188afbb8#style1",
+          "linha": 11,
+          "seletor": "p.corpo",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:3c334633526158b183c3d5296339f6fe9da3eee39f93452a3c6efde6188afbb8#style1",
+          "linha": 21,
+          "seletor": "p.assin",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:3c334633526158b183c3d5296339f6fe9da3eee39f93452a3c6efde6188afbb8#style1",
+          "linha": 23,
+          "seletor": "p.sec",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:3c334633526158b183c3d5296339f6fe9da3eee39f93452a3c6efde6188afbb8#style1",
+          "linha": 27,
+          "seletor": "p.centro",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:3c334633526158b183c3d5296339f6fe9da3eee39f93452a3c6efde6188afbb8#style1",
+          "linha": 25,
+          "seletor": "p.rodape",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "red"
+          },
+          "pseudo": null
+        }
+      ],
+      "seletores_nao_suportados_disjuntos": 0,
+      "retencoes": [],
+      "CSS_sem_risco_comprovado": true
+    }
+  },
+  {
+    "id": "12593",
+    "QA": {
+      "sha256_HTML": "d25cdc66b0976b7f8c4a4e3689359635c0254f2451cebb174c3b997b86697109",
+      "fontes_CSS": [
+        {
+          "url": "inline:d25cdc66b0976b7f8c4a4e3689359635c0254f2451cebb174c3b997b86697109#style1",
+          "sha256_fonte": "849db138784dd81e56c4432acaa070d9423d846ead73df4d500a001724203e52"
+        }
+      ],
+      "classes_internas": [
+        "MsoNormalTable",
+        "WordSection1",
+        "assin",
+        "centro",
+        "cit",
+        "corpo",
+        "ementa",
+        "epig",
+        "rodape",
+        "sec"
+      ],
+      "IDs_internos": [],
+      "regras": [
+        {
+          "url": "inline:d25cdc66b0976b7f8c4a4e3689359635c0254f2451cebb174c3b997b86697109#style1",
+          "linha": 29,
+          "seletor": "table.MsoNormalTable",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:d25cdc66b0976b7f8c4a4e3689359635c0254f2451cebb174c3b997b86697109#style1",
+          "linha": 5,
+          "seletor": "p.epig",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "#3826A2",
+            "text-decoration": "underline"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:d25cdc66b0976b7f8c4a4e3689359635c0254f2451cebb174c3b997b86697109#style1",
+          "linha": 8,
+          "seletor": "p.ementa",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "maroon"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:d25cdc66b0976b7f8c4a4e3689359635c0254f2451cebb174c3b997b86697109#style1",
+          "linha": 11,
+          "seletor": "p.corpo",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:d25cdc66b0976b7f8c4a4e3689359635c0254f2451cebb174c3b997b86697109#style1",
+          "linha": 13,
+          "seletor": "p.cit",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "2.0cm",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:d25cdc66b0976b7f8c4a4e3689359635c0254f2451cebb174c3b997b86697109#style1",
+          "linha": 21,
+          "seletor": "p.assin",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:d25cdc66b0976b7f8c4a4e3689359635c0254f2451cebb174c3b997b86697109#style1",
+          "linha": 23,
+          "seletor": "p.sec",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:d25cdc66b0976b7f8c4a4e3689359635c0254f2451cebb174c3b997b86697109#style1",
+          "linha": 27,
+          "seletor": "p.centro",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:d25cdc66b0976b7f8c4a4e3689359635c0254f2451cebb174c3b997b86697109#style1",
+          "linha": 25,
+          "seletor": "p.rodape",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "red"
+          },
+          "pseudo": null
+        }
+      ],
+      "seletores_nao_suportados_disjuntos": 0,
+      "retencoes": [],
+      "CSS_sem_risco_comprovado": true
+    }
+  },
+  {
+    "id": "12592",
+    "QA": {
+      "sha256_HTML": "22c3c2fdf22e0edab86465181fa95ce621253dbeb9af67af9f2782004d86efd0",
+      "fontes_CSS": [
+        {
+          "url": "inline:22c3c2fdf22e0edab86465181fa95ce621253dbeb9af67af9f2782004d86efd0#style1",
+          "sha256_fonte": "3fc3faf629097b704759ad072d1b1594c42fe452b2f0823dd2259e2dd1ee1d67"
+        }
+      ],
+      "classes_internas": [
+        "MsoNormalTable",
+        "SpellE",
+        "WordSection1",
+        "assin",
+        "centro",
+        "cit",
+        "corpo",
+        "ementa",
+        "epig",
+        "rodape",
+        "sec"
+      ],
+      "IDs_internos": [
+        "_x0000_i1025"
+      ],
+      "regras": [
+        {
+          "url": "inline:22c3c2fdf22e0edab86465181fa95ce621253dbeb9af67af9f2782004d86efd0#style1",
+          "linha": 29,
+          "seletor": "p",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "12.0pt",
+            "font-family": "\"Times New Roman\",serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:22c3c2fdf22e0edab86465181fa95ce621253dbeb9af67af9f2782004d86efd0#style1",
+          "linha": 47,
+          "seletor": "p.epig",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "#3826A2",
+            "text-decoration": "underline"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:22c3c2fdf22e0edab86465181fa95ce621253dbeb9af67af9f2782004d86efd0#style1",
+          "linha": 63,
+          "seletor": "p.ementa",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "maroon"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:22c3c2fdf22e0edab86465181fa95ce621253dbeb9af67af9f2782004d86efd0#style1",
+          "linha": 75,
+          "seletor": "p.corpo",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:22c3c2fdf22e0edab86465181fa95ce621253dbeb9af67af9f2782004d86efd0#style1",
+          "linha": 87,
+          "seletor": "p.cit",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "2.0cm",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:22c3c2fdf22e0edab86465181fa95ce621253dbeb9af67af9f2782004d86efd0#style1",
+          "linha": 128,
+          "seletor": "p.assin",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:22c3c2fdf22e0edab86465181fa95ce621253dbeb9af67af9f2782004d86efd0#style1",
+          "linha": 140,
+          "seletor": "p.sec",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:22c3c2fdf22e0edab86465181fa95ce621253dbeb9af67af9f2782004d86efd0#style1",
+          "linha": 165,
+          "seletor": "p.centro",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:22c3c2fdf22e0edab86465181fa95ce621253dbeb9af67af9f2782004d86efd0#style1",
+          "linha": 152,
+          "seletor": "p.rodape",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "red"
+          },
+          "pseudo": null
+        }
+      ],
+      "seletores_nao_suportados_disjuntos": 0,
+      "retencoes": [],
+      "CSS_sem_risco_comprovado": true
+    }
+  },
+  {
+    "id": "12591",
+    "QA": {
+      "sha256_HTML": "314422a1aedd614fca12089f7f932b99e5c347ba978cab532d919d1dcbfe542b",
+      "fontes_CSS": [
+        {
+          "url": "inline:314422a1aedd614fca12089f7f932b99e5c347ba978cab532d919d1dcbfe542b#style1",
+          "sha256_fonte": "3fc3faf629097b704759ad072d1b1594c42fe452b2f0823dd2259e2dd1ee1d67"
+        }
+      ],
+      "classes_internas": [
+        "MsoNormalTable",
+        "SpellE",
+        "WordSection1",
+        "assin",
+        "centro",
+        "cit",
+        "citc",
+        "corpo",
+        "ementa",
+        "epig",
+        "rodape",
+        "sec"
+      ],
+      "IDs_internos": [
+        "_x0000_i1025"
+      ],
+      "regras": [
+        {
+          "url": "inline:314422a1aedd614fca12089f7f932b99e5c347ba978cab532d919d1dcbfe542b#style1",
+          "linha": 29,
+          "seletor": "p",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "12.0pt",
+            "font-family": "\"Times New Roman\",serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:314422a1aedd614fca12089f7f932b99e5c347ba978cab532d919d1dcbfe542b#style1",
+          "linha": 47,
+          "seletor": "p.epig",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "#3826A2",
+            "text-decoration": "underline"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:314422a1aedd614fca12089f7f932b99e5c347ba978cab532d919d1dcbfe542b#style1",
+          "linha": 63,
+          "seletor": "p.ementa",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "maroon"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:314422a1aedd614fca12089f7f932b99e5c347ba978cab532d919d1dcbfe542b#style1",
+          "linha": 75,
+          "seletor": "p.corpo",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:314422a1aedd614fca12089f7f932b99e5c347ba978cab532d919d1dcbfe542b#style1",
+          "linha": 87,
+          "seletor": "p.cit",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "2.0cm",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:314422a1aedd614fca12089f7f932b99e5c347ba978cab532d919d1dcbfe542b#style1",
+          "linha": 103,
+          "seletor": "p.citc",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:314422a1aedd614fca12089f7f932b99e5c347ba978cab532d919d1dcbfe542b#style1",
+          "linha": 128,
+          "seletor": "p.assin",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:314422a1aedd614fca12089f7f932b99e5c347ba978cab532d919d1dcbfe542b#style1",
+          "linha": 140,
+          "seletor": "p.sec",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:314422a1aedd614fca12089f7f932b99e5c347ba978cab532d919d1dcbfe542b#style1",
+          "linha": 165,
+          "seletor": "p.centro",
+          "condicao": "",
+          "declaracoes": {
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif"
+          },
+          "pseudo": null
+        },
+        {
+          "url": "inline:314422a1aedd614fca12089f7f932b99e5c347ba978cab532d919d1dcbfe542b#style1",
+          "linha": 152,
+          "seletor": "p.rodape",
+          "condicao": "",
+          "declaracoes": {
+            "text-indent": "70.9pt",
+            "font-size": "10.0pt",
+            "font-family": "\"Verdana\",sans-serif",
+            "color": "red"
+          },
+          "pseudo": null
+        }
+      ],
+      "seletores_nao_suportados_disjuntos": 0,
+      "retencoes": [],
+      "CSS_sem_risco_comprovado": true
+    }
+  }
+]

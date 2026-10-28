@@ -1,0 +1,707 @@
+{
+  "alertas_revisados": [
+    {
+      "path": "federal/decretos/1920/dec-14493-1920-11-25.md",
+      "sha256_HTML": "962108118836c31f78aa9cef1482f972ea6d748a53a8a9e6f7bb00715a086742",
+      "sha256_MD_preliminar": "7a1382cce05f85582b95355bed4d88dd233edfc0aa6964fc6772e6271e3a3bc4",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Reforma pontual com substituições e acréscimos especificados, sem aprovação de novo regulamento integral.",
+      "contexto": {
+        "path": "federal/decretos/1920/dec-14493-1920-11-25.md",
+        "urn": "urn:lex:br:federal:decreto:1920-11-25;14493",
+        "sha256_HTML": "962108118836c31f78aa9cef1482f972ea6d748a53a8a9e6f7bb00715a086742",
+        "sha256_metadados": "59f2f5ebddbfe761d045e5e581b54b623fd5c479b6118c3ffc44be550257420f",
+        "sha256_MD_preliminar": "7a1382cce05f85582b95355bed4d88dd233edfc0aa6964fc6772e6271e3a3bc4",
+        "epigrafe": {
+          "numero": "14493",
+          "data": "1920-11-25",
+          "epigrafe": "DECRETO N. 14.493 – DE 25 DE NOVEMBRO DE 1920"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/1f286408-8cc9-41f1-b38c-7b04cdf001a5/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T13:08:46.945906+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_015/requests/f8602906d2313378693c48bbbc5e1c24ee4908047893ab4f003ecef0a0d262e0.raw.gz",
+          "sha256_raw": "962108118836c31f78aa9cef1482f972ea6d748a53a8a9e6f7bb00715a086742",
+          "bytes": 14771
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 14.493 – DE 25 DE NOVEMBRO DE 1920\n\nAltera o regulamento approvado pelo decreto n. 12.923, de 20 de março de 1918\n\nO Presidente da Republica dos Estados Unidos do Brasil, usando da attribuição que lhe confere o art. 48, n. 1, da Constituição, resolve alterar o regulamento approvado pelo decreto n. 12.923, de 20 de março de 1918, fazendo-lhe as seguintes substituições e accrescimos:",
+        "primeiro_bloco_de_artigo": "**Art.** 4º, § 4º. Os commandantes de regiões e circumscripções militares devem, sem onus para os cofres publicos, interessar-se pela propaganda para o recrutamento de officiaes da reserva, especialmente promovendo a publicidade das principaes disposições regulamentares respectivas.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 25 DE NOVEMBRO DE 1920",
+          "data": "1920-11-25",
+          "bloco_literal": "Rio de Janeiro, 25 de novembro de 1920, 99º da Independencia e 32º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, usando da attribuição que lhe confere o art. 48, n. 1, da Constituição, resolve alterar o regulamento approvado pelo decreto n. 12.923, de 20 de março de 1918, fazendo-lhe as seguintes substituições e accrescimos:",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1919/dec-13648-1919-06-18.md",
+      "sha256_HTML": "8a9d71821a9a46a925bdab121babe7efa66e3ec432d1fc9fafdd380ed8ec375d",
+      "sha256_MD_preliminar": "620eec9805a824278e5bbb319d7069e3b3605ec207510c38b8d71001d7774c06",
+      "decisao": "retido",
+      "fundamento": "Aprova estatutos, alterações ou resoluções de assembleia; a transcrição mostra somente modificações selecionadas ou declaração da aprovação, sem comprovar o conjunto documental incorporado. Dúvida contextual privada, sem concluir ausência em outras fontes.",
+      "contexto": {
+        "path": "federal/decretos/1919/dec-13648-1919-06-18.md",
+        "urn": "urn:lex:br:federal:decreto:1919-06-18;13648",
+        "sha256_HTML": "8a9d71821a9a46a925bdab121babe7efa66e3ec432d1fc9fafdd380ed8ec375d",
+        "sha256_metadados": "067c0d66d49c60a90ef5c89eec9c9624521d37296123f662f6feae23a29f0fdc",
+        "sha256_MD_preliminar": "620eec9805a824278e5bbb319d7069e3b3605ec207510c38b8d71001d7774c06",
+        "epigrafe": {
+          "numero": "13648",
+          "data": "1919-06-18",
+          "epigrafe": "DECRETO N. 13.648 – DE 18 DE JUNHO DE 1919"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/33438403-da8b-4288-9a0f-d9d7988bc114/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T13:22:28.229409+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_015/requests/efaf502f3531baa82bca123a7e155e856a7c9517ed19bb798220e8e83aaad442.raw.gz",
+          "sha256_raw": "8a9d71821a9a46a925bdab121babe7efa66e3ec432d1fc9fafdd380ed8ec375d",
+          "bytes": 9056
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 13.648 – DE 18 DE JUNHO DE 1919\n\nConcede autorização á Companhia de Seguros e Sorteios “Previsora Rio-Grandense” para operar em seguros terrestres e maritimos e approva os novos estatutos adoptados nas assembléas geraes extraordinarias realizadas em 16 de janeiro e 24 de março proximo findos\n\nO Vice-Presidente da Republica dos Estados Unidos do Brasil, em exercicio, attendendo ao que requereu a Companhia de Seguros e Sorteios «Previsora Rio-Grandense», com séde em Porto Alegre, autorizada pelo decreto n. 12.860, de 30 de janeiro de 1918, resolve conceder-lhe autorização para operar em seguros terrestres e maritimos e approvar os novos estatudos nas assembléas geraes extraordinarias realizadas em 16 de janeiro e 24 de março proximo findos, cujas actas a este acompanham, mediante as seguintes clausulas:\n\nI\n\nOs novos estatutos serão registrados com as seguintes alterações:",
+        "primeiro_bloco_de_artigo": "**Art. 6º** – Supprimam-se as palavras «e accidentes».",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 18 DE JUNHO DE 1919",
+          "data": "1919-06-18",
+          "bloco_literal": "Rio de Janeiro, 18 de junho de 1919, 98º da Independencia e 31º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "###DEC-013648-0-000-18-06-1919@@@"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Vice-Presidente da Republica dos Estados Unidos do Brasil, em exercicio, attendendo ao que requereu a Companhia de Seguros e Sorteios «Previsora Rio-Grandense», com séde em Porto Alegre, autorizada pelo decreto n. 12.860, de 30 de janeiro de 1918, resolve conceder-lhe autorização para operar em seguros terrestres e maritimos e approvar os novos estatudos nas assembléas geraes extraordinarias realizadas em 16 de janeiro e 24 de março proximo findos, cujas actas a este acompanham, mediante as seguintes clausulas:",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1921/dec-14752-1921-03-31.md",
+      "sha256_HTML": "8709f285c9550d55993cec661613c4e1b3843c5f57d695a9ea7936111a7b8da2",
+      "sha256_MD_preliminar": "978db35439925ca9010be00db4e76738bb764f91c98918ae58da232b87bfd39d",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Reforma pontual de artigos dos colégios militares, com redações modificadas transcritas.",
+      "contexto": {
+        "path": "federal/decretos/1921/dec-14752-1921-03-31.md",
+        "urn": "urn:lex:br:federal:decreto:1921-03-31;14752",
+        "sha256_HTML": "8709f285c9550d55993cec661613c4e1b3843c5f57d695a9ea7936111a7b8da2",
+        "sha256_metadados": "833f5a7bbd46330679f95330fc4298b75b14a3f06ef5cb1cb4ce16513a4004ca",
+        "sha256_MD_preliminar": "978db35439925ca9010be00db4e76738bb764f91c98918ae58da232b87bfd39d",
+        "epigrafe": {
+          "numero": "14752",
+          "data": "1921-03-31",
+          "epigrafe": "DECRETO N. 14.752 – DE 31 DE MARÇO DE 1921"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/bebe0b6b-0a32-4ce6-be95-ce9b934453fb/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T13:04:32.722825+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_015/requests/bb2f486a7f33dbd0f3f4d4f6631b1fc81b889ee26cef46f4ee16baa735406aff.raw.gz",
+          "sha256_raw": "8709f285c9550d55993cec661613c4e1b3843c5f57d695a9ea7936111a7b8da2",
+          "bytes": 12677
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 14.752 – DE 31 DE MARÇO DE 1921\n\n**Altera varios dispositivos do regulamento em vigor para os Collegios Militares**\n\nO Presidente da Republica dos Estados Unidos do Brasil, usando da attribuição que lhe confere o art. 23, n. XIII, da lei n. 4.242, de 5 de janeiro do corrente anno, resolve alterar varios dispositivos do regulamento em vigor para os Collegios Militares, approvado por decreto n. 12.956, de 10 de abril de 1918, fazendo as modificações e accrescimos do modo abaixo indicado:",
+        "primeiro_bloco_de_artigo": "**Art.** 36, para paragrapho unico. O alumno reprovado no exame de arithmetica, no 3º anno, em algebra no 4º ou em geometria no 5º, não poderá, fazer, respectivamente, os exames de algebra, geometria ou topographia. Tambem não poderá fazer o exame de physica si não estiver approvado em geometria.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 31 DE MARCO DE 1921",
+          "data": "1921-03-31",
+          "bloco_literal": "Rio de Janeiro, 31 de março de 1921, 100º da Independencia e 33º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "###DEC-014722-0-000-16-03-1921@@@"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, usando da attribuição que lhe confere o art. 23, n. XIII, da lei n. 4.242, de 5 de janeiro do corrente anno, resolve alterar varios dispositivos do regulamento em vigor para os Collegios Militares, approvado por decreto n. 12.956, de 10 de abril de 1918, fazendo as modificações e accrescimos do modo abaixo indicado:",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1920/dec-14488-1920-11-24.md",
+      "sha256_HTML": "51d5c8a9d3a823222ab2518c4cb90911e5d017b5343e1f81b2f51c332f7217f6",
+      "sha256_MD_preliminar": "2557f38796d4f822836d87a511a021ebbaeea27d98900acdfd6eb95a5e87cda3",
+      "decisao": "retido",
+      "fundamento": "Aprova estatutos, alterações ou resoluções de assembleia; a transcrição mostra somente modificações selecionadas ou declaração da aprovação, sem comprovar o conjunto documental incorporado. Dúvida contextual privada, sem concluir ausência em outras fontes.",
+      "contexto": {
+        "path": "federal/decretos/1920/dec-14488-1920-11-24.md",
+        "urn": "urn:lex:br:federal:decreto:1920-11-24;14488",
+        "sha256_HTML": "51d5c8a9d3a823222ab2518c4cb90911e5d017b5343e1f81b2f51c332f7217f6",
+        "sha256_metadados": "2499f7e57cd1f7cf07588d00a8dfaf5bb606be1ee34e38a23d20af4cf181969a",
+        "sha256_MD_preliminar": "2557f38796d4f822836d87a511a021ebbaeea27d98900acdfd6eb95a5e87cda3",
+        "epigrafe": {
+          "numero": "14488",
+          "data": "1920-11-24",
+          "epigrafe": "DECRETO N. 14.488 – DE 24 DE NOVEMBRO DE 1920"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/2136acd9-5552-49e6-b8eb-7302edd30aaa/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T13:08:51.809986+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_015/requests/e4f64ad645030c578bd047c36296031ed54662509128d2fbfd4ed7f24295b13c.raw.gz",
+          "sha256_raw": "51d5c8a9d3a823222ab2518c4cb90911e5d017b5343e1f81b2f51c332f7217f6",
+          "bytes": 12438
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 14.488 – DE 24 DE NOVEMBRO DE 1920\n\nApprova, com modificações, as resoluções da assembléa geral extraordinaria, de 9 de maio findo da Mutualidade Catholica Brasileira, com séde na Capital Federal, alterando os seus estatutos.\n\nO Presidente da Republica dos Estados Unidos do Brasil, attendendo ao que requereu a Mutualidade Catholica Brasileira com séde na Capital Federal, e autorizada a funccionar pelo decreto n. 10. 410, de 27 de agosto de 1913, resolve approvar, com as modificações abaixo indicadas, as resoluções da assembléa geral extraordinaria realizada a 9 de maio do corrente anno de 1920, alterando os seus estatutos:\n\nI\n\nA Mutualidade Catholica Brasileira continuará a funccionar sujeita ao regimen da legislação vigente e da que vier a ser promulgada sobre as operações que praticar.\n\nII\n\nOs seus estatutos continuarão a ser observados de accôrdo com as resoluções já approvadas e as alterações feitas pela assembléa geral extraordinaria de 9 de maio do corrente anno de 1920, porém com as seguintes modificações, devendo ser assim registrados:",
+        "primeiro_bloco_de_artigo": "**Art.** 6º, lettra a – Substitua-se pelo seguinte «Os planos para as diversas categorias de seguro.»",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 24 DE NOVEMBRO DE 1920",
+          "data": "1920-11-24",
+          "bloco_literal": "Rio de Janeiro, 24 de novembro de 1920, 99º de Independencia e 32º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, attendendo ao que requereu a Mutualidade Catholica Brasileira com séde na Capital Federal, e autorizada a funccionar pelo decreto n. 10. 410, de 27 de agosto de 1913, resolve approvar, com as modificações abaixo indicadas, as resoluções da assembléa geral extraordinaria realizada a 9 de maio do corrente anno de 1920, alterando os seus estatutos:",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1921/dec-14608-1921-01-05.md",
+      "sha256_HTML": "f280a830f1ab1f7b68bc134731ddbc779d770ec7d7be82f17c7aa2372d9463ac",
+      "sha256_MD_preliminar": "37dc52d0f457e66948d0224e705724c4de7e2a6826c6142c1c66212b3d8aadec",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Nova redação delimitada ao artigo 14 da Escola de Aviação, transcrita no corpo.",
+      "contexto": {
+        "path": "federal/decretos/1921/dec-14608-1921-01-05.md",
+        "urn": "urn:lex:br:federal:decreto:1921-01-05;14608",
+        "sha256_HTML": "f280a830f1ab1f7b68bc134731ddbc779d770ec7d7be82f17c7aa2372d9463ac",
+        "sha256_metadados": "1fb444bc3a4b041eeffe0660a9060e920c8b34acd3a8d4e34ef6a65d38b0df3a",
+        "sha256_MD_preliminar": "37dc52d0f457e66948d0224e705724c4de7e2a6826c6142c1c66212b3d8aadec",
+        "epigrafe": {
+          "numero": "14608",
+          "data": "1921-01-05",
+          "epigrafe": "DECRETO N. 14.608 – DE 5 DE JANEIRO DE 1921"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/3feb9e56-db56-4c02-a283-3aeae1cd9f0d/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T13:06:54.722935+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_015/requests/5ff13db667f455dcff4bfec94f7322f39fc0f518e61cd849ecaac3aff0901004.raw.gz",
+          "sha256_raw": "f280a830f1ab1f7b68bc134731ddbc779d770ec7d7be82f17c7aa2372d9463ac",
+          "bytes": 7359
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 14.608 – DE 5 DE JANEIRO DE 1921\n\n**Altera o art. 14 do regulamento da Escola de Aviação Militar, approvado por decreto n. 14.121, de 31 de março de 1920**\n\nO Presidente da Republica dos Estados Unidos do Brasil, tendo em vista o que expoz o chefe do Estado Maior do Exercito, resolve alterar, da fórma abaixo indicada, o art. 14 do regulamento da Escola de Aviação Militar, approvado por decreto n. 14.121, de 31 de março de 1920:",
+        "primeiro_bloco_de_artigo": "**Art. 14.** As matriculas no curso de observadores serão feitas em épocas propostas pelo chefe do Estado Maior do Exercito.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 5 DE JANEIRO DE 1921",
+          "data": "1921-01-05",
+          "bloco_literal": "Rio de Janeiro, 5 de janeiro de 1921, 100º da Independencia e 33º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          ""
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, tendo em vista o que expoz o chefe do Estado Maior do Exercito, resolve alterar, da fórma abaixo indicada, o art. 14 do regulamento da Escola de Aviação Militar, approvado por decreto n. 14.121, de 31 de março de 1920:",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1919/dec-13501-1919-03-12.md",
+      "sha256_HTML": "96a2f2df84e4c60edf13451f272d9b6bb36311767bcb950a68bce86ad355d99b",
+      "sha256_MD_preliminar": "e143b045b9c0184e4f778bdf65e4eae95a44581a762c3c40bf6f6567e35e6d1e",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Autorização para continuar funcionando com redução de capital explicitamente descrita e mesmas cláusulas de ato anterior; não é aprovação de novo anexo próprio. Grafia Vice-Prisidente preservada.",
+      "contexto": {
+        "path": "federal/decretos/1919/dec-13501-1919-03-12.md",
+        "urn": "urn:lex:br:federal:decreto:1919-03-12;13501",
+        "sha256_HTML": "96a2f2df84e4c60edf13451f272d9b6bb36311767bcb950a68bce86ad355d99b",
+        "sha256_metadados": "984e4d293f379cd64359bdd504e54ee6a05e828749d5d29392b7c8100a97df17",
+        "sha256_MD_preliminar": "e143b045b9c0184e4f778bdf65e4eae95a44581a762c3c40bf6f6567e35e6d1e",
+        "epigrafe": {
+          "numero": "13501",
+          "data": "1919-03-12",
+          "epigrafe": "DECRETO N. 13.501 – DE 12 DE MARÇO DE 1919"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/afc69d81-190d-4d84-a336-809be135065b/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T13:24:54.735744+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_015/requests/2cf6846f84db367cc40881762c0fda6b94a1912e7cf607d7d1526e10d40b040d.raw.gz",
+          "sha256_raw": "96a2f2df84e4c60edf13451f272d9b6bb36311767bcb950a68bce86ad355d99b",
+          "bytes": 7649
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 13.501 – DE 12 DE MARÇO DE 1919\n\nConcede autorização a The Manaos Markets ard Slanghterhouse, Limited, para continuar a funccionar na Republica\n\nO Vice-Prisidente da Republica dos Estados Unidos do Brasil, em exercicio, attendendo ao que requereu a sociedade anonyma The Mánaos Markets and Slaughterhouse, Limited, autorizada a funccionar na Republica, pelo decreto n. 6.558, de 11 de julho de 1907, e devidamente representada,\n\ndecreta:",
+        "primeiro_bloco_de_artigo": "**Artigo único.** E’ concedida autorização a The Mánaos Markets and Slaughterhouse, Limited, para continuar a funccionar na Republica, com a alteração feita em seus estatutos para reducção do seu capital social, de 500.000, para 241.705 libras esterlinas, sob as mesmas clausulas que acompanham o decreto n. 6.558, de 11 de julho de 1907, ficando a referida sociedade obrigada a cumprir as formalidades exigidas pela legislação em vigor.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 12 DE MARCO DE 1919",
+          "data": "1919-03-12",
+          "bloco_literal": "Rio de Janeiro, 12 de março de 1919, 98º da Independencia e 31º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": null,
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1919/dec-13665-1919-06-25.md",
+      "sha256_HTML": "ae715bc0c2a50858ca46270287c9a4236b37c5a4e9ba511dadf0b8de9f563608",
+      "sha256_MD_preliminar": "e2a4755aad67e30cd6bf3dd08dbc552f51607c74b887e4f730e63f35bf8a35f5",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Alteração pontual de artigos do regulamento de exercícios; comandos textuais de posição da arma presentes.",
+      "contexto": {
+        "path": "federal/decretos/1919/dec-13665-1919-06-25.md",
+        "urn": "urn:lex:br:federal:decreto:1919-06-25;13665",
+        "sha256_HTML": "ae715bc0c2a50858ca46270287c9a4236b37c5a4e9ba511dadf0b8de9f563608",
+        "sha256_metadados": "75c93149b2c7962c85f7a8f3026b2fa7808907691515f78a39d6d586ef74dde1",
+        "sha256_MD_preliminar": "e2a4755aad67e30cd6bf3dd08dbc552f51607c74b887e4f730e63f35bf8a35f5",
+        "epigrafe": {
+          "numero": "13665",
+          "data": "1919-06-25",
+          "epigrafe": "DECRETO N. 13.665 – DE 25 DE JUNHO DE 1919"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/b7a61c79-58dd-459b-9183-872280437447/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T13:22:12.235547+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_015/requests/21128f9533e04fd1323af4b469a5a6a3f3884a9552a2cdc16b47ea94f19c15fd.raw.gz",
+          "sha256_raw": "ae715bc0c2a50858ca46270287c9a4236b37c5a4e9ba511dadf0b8de9f563608",
+          "bytes": 12159
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 13.665 – DE 25 DE JUNHO DE 1919\n\nAltera o regulamento de exercicios para a infantaria\n\nO Vice-Presidente da Republica dos Estados Unidos do Brasil, em exercicio, usando da attribuição que lhe confere o art. 48, n. 1, da Constituição, resolve alterar o regulamento de exercicios para a infantaria, approvado por decreto numero 11.380, de 16 de dezembro de 1914, do seguinte modo:",
+        "primeiro_bloco_de_artigo": "**Art. 49** – «O fuzil na vertical, com bandoleira para a frente, a soleira no chão, junto do pé direito, pelo lado de fóra, com o bico na altura da ponta do pé. O braço estendido de modo que os cotovellos fiquem na mesma altura. A mão direita segura a arma entre o pollegar por traz do cano ou da telha (conforme a altura do homem) e os outros dedos ligeiramente curvos e unidos, ficando o index e o médio sobre a bandoleira».",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 25 DE JUNHO DE 1919",
+          "data": "1919-06-25",
+          "bloco_literal": "Rio de Janeiro, 25 de junho de 1919, 98º da Independencia e 31º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          ""
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Vice-Presidente da Republica dos Estados Unidos do Brasil, em exercicio, usando da attribuição que lhe confere o art. 48, n. 1, da Constituição, resolve alterar o regulamento de exercicios para a infantaria, approvado por decreto numero 11.380, de 16 de dezembro de 1914, do seguinte modo:",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1921/dec-14748-1921-03-28.md",
+      "sha256_HTML": "86865c885c447925ac8d285d117073524f7653a79b3beb55b21b6ee61b636ce2",
+      "sha256_MD_preliminar": "fba0432f22594f67589f05a15fd017a8ae630fa806b968028120b1b6c751c787",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Reorganização do Exército de segunda linha integralmente articulada em 27 artigos; referências aos planos e regulamentos vigentes ou futuros não comandam novo anexo atual.",
+      "contexto": {
+        "path": "federal/decretos/1921/dec-14748-1921-03-28.md",
+        "urn": "urn:lex:br:federal:decreto:1921-03-28;14748",
+        "sha256_HTML": "86865c885c447925ac8d285d117073524f7653a79b3beb55b21b6ee61b636ce2",
+        "sha256_metadados": "cd60235d39caa0d76763e5dd1aa402003316f2bcd50574c5bbac36d14dd987a6",
+        "sha256_MD_preliminar": "fba0432f22594f67589f05a15fd017a8ae630fa806b968028120b1b6c751c787",
+        "epigrafe": {
+          "numero": "14748",
+          "data": "1921-03-28",
+          "epigrafe": "DECRETO N. 14.748 – DE 28 DE MARÇO DE 1921"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/731af0e3-7dc6-4e20-af08-c5f2f80cfbe4/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T13:04:36.708869+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_015/requests/ac2d5408d1935fe3143eff33b25524d063accac6bf4c59462036844a1af82229.raw.gz",
+          "sha256_raw": "86865c885c447925ac8d285d117073524f7653a79b3beb55b21b6ee61b636ce2",
+          "bytes": 26080
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 14.748 – DE 28 DE MARÇO DE 1921\n\n**Altera as bases para a organização do Exercito Nacional de 2ª linha**\n\nO Presidente da Republica dos Estados Unidos do Brasil, usando da autorização que lhe confere o art. 23, alinea XIII, da lei n. 4.242, de 5 de janeiro de 1921, e em vista da exposição que lhe fez o ministro de Estado da Guerra, resolve alterar as bases para a organização do Exercito Nacional de 2ª linha, estabelecidas pelo decreto n. 13.040, de 29 de maio de 1918, e assim\n\nDECRETA:",
+        "primeiro_bloco_de_artigo": "**Art. 1º** O Exercito de 2ª linha (Guarda Nacional e sua reserva) é destinado a:",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 28 DE MARCO DE 1921",
+          "data": "1921-03-28",
+          "bloco_literal": "Rio de Janeiro, 28 de março de 1921, 100º da Independencia e 33º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "###DEC-014722-0-000-16-03-1921@@@"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, usando da autorização que lhe confere o art. 23, alinea XIII, da lei n. 4.242, de 5 de janeiro de 1921, e em vista da exposição que lhe fez o ministro de Estado da Guerra, resolve alterar as bases para a organização do Exercito Nacional de 2ª linha, estabelecidas pelo decreto n. 13.040, de 29 de maio de 1918, e assim",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1919/dec-13451-1919-01-29.md",
+      "sha256_HTML": "e069c9115923bd817437e04a74b9dbd0516227ffe2423fc999a0eebed4b10e47",
+      "sha256_MD_preliminar": "462b92a8704b31a0ceddef6b8f11045d8b68d1dbc317656b0ef7b7cf910bb5f6",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Bases de ensino militar presentes em oito artigos, com cursos e atribuições. A palavra anexo qualifica cursos, não documento omitido.",
+      "contexto": {
+        "path": "federal/decretos/1919/dec-13451-1919-01-29.md",
+        "urn": "urn:lex:br:federal:decreto:1919-01-29;13451",
+        "sha256_HTML": "e069c9115923bd817437e04a74b9dbd0516227ffe2423fc999a0eebed4b10e47",
+        "sha256_metadados": "eeec95844c3bab6484de9ae23fd1277b7be21710f182b48dd09262167038c663",
+        "sha256_MD_preliminar": "462b92a8704b31a0ceddef6b8f11045d8b68d1dbc317656b0ef7b7cf910bb5f6",
+        "epigrafe": {
+          "numero": "13451",
+          "data": "1919-01-29",
+          "epigrafe": "DECRETO N. 13.451 – DE 29 DE JANEIRO DE 1919"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/2b8399b3-6975-4a22-bfaa-31337828cd01/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T13:25:43.726465+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_015/requests/a586c512384993930bc166fb4bad2e187fae18e08e7b651803e72369e64c7b29.raw.gz",
+          "sha256_raw": "e069c9115923bd817437e04a74b9dbd0516227ffe2423fc999a0eebed4b10e47",
+          "bytes": 15615
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 13.451 – DE 29 DE JANEIRO DE 1919\n\nEstabelece bases para a reorganização do ensino militar e creação de cursos de aviação, veterinaria e outros\n\nO Vice-Presidente da Republica dos Estados Unidos do Brasil, em exercicio, usando da autorização conferida pelo art. 59 da lei n. 3.674, de 7 do corrente, resolve estabelecer as seguintes bases para a reorganização do ensino militar e creação de cursos de aviação veterinaria, administração e de aperfeiçoamento:",
+        "primeiro_bloco_de_artigo": "**Art. 1º** O ensino militar abrange os seguintes cursos:",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 29 DE JANEIRO DE 1919",
+          "data": "1919-01-29",
+          "bloco_literal": "Rio de Janeiro, 29 de janeiro de 1919, 98º da Independencia e 30º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "###DEC-013451-0-000-29-01-1919@@@"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Vice-Presidente da Republica dos Estados Unidos do Brasil, em exercicio, usando da autorização conferida pelo art. 59 da lei n. 3.674, de 7 do corrente, resolve estabelecer as seguintes bases para a reorganização do ensino militar e creação de cursos de aviação veterinaria, administração e de aperfeiçoamento:",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1920/dec-14212-1920-06-09.md",
+      "sha256_HTML": "45eb86c9bf0a89f30097b5ff7bcdb39221f009fe48ccdd7f65f1f474eaa82031",
+      "sha256_MD_preliminar": "897cf1cee5ffd9144c0faf3201c9fe14359ae6dd2d0786e4a76522675103ea0c",
+      "decisao": "retido",
+      "fundamento": "Aprova estatutos, alterações ou resoluções de assembleia; a transcrição mostra somente modificações selecionadas ou declaração da aprovação, sem comprovar o conjunto documental incorporado. Dúvida contextual privada, sem concluir ausência em outras fontes.",
+      "contexto": {
+        "path": "federal/decretos/1920/dec-14212-1920-06-09.md",
+        "urn": "urn:lex:br:federal:decreto:1920-06-09;14212",
+        "sha256_HTML": "45eb86c9bf0a89f30097b5ff7bcdb39221f009fe48ccdd7f65f1f474eaa82031",
+        "sha256_metadados": "c69c6191d83bcec5b3e5ebd119fc1a925b84e7066497ee2fff25009b9a0c7b79",
+        "sha256_MD_preliminar": "897cf1cee5ffd9144c0faf3201c9fe14359ae6dd2d0786e4a76522675103ea0c",
+        "epigrafe": {
+          "numero": "14212",
+          "data": "1920-06-09",
+          "epigrafe": "DECRETO N. 14.212 – DE 9 DE JUNHO DE 1920"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/67ee62fa-bff7-4ccd-83ef-e5e8a93f81c0/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T13:13:20.219363+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_015/requests/062ed711373d4fdfc9bb3624c2e56c524d789b686743cf21b1fab2fa53cb0619.raw.gz",
+          "sha256_raw": "45eb86c9bf0a89f30097b5ff7bcdb39221f009fe48ccdd7f65f1f474eaa82031",
+          "bytes": 10198
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 14.212 – DE 9 DE JUNHO DE 1920\n\nConcede autorização para funccionar na Republica á Companhia Internacional de Seguros e approva, com alterações, os seus estatutos\n\nO Presidente da Republica dos Estados Unidos do Brasil, attendendo ao que requereu a Companhia Internacional de Seguros, sociedade anonyma com séde nesta Capital Federal, resolve conceder-lhe autorização para funccionar na Republica e operar em seguros maritimos e terrestres, sob as condições abaixo declaradas:\n\nI\n\nA Companhia Internacional de Seguros sujeitar-se-ha a todas as disposições legaes existentes ou que vierem a ser decretadas com referencia ao objecto de suas operações.\n\nII\n\nOs estatutos da Companhia Internacional de Seguros ficam approvados e serão registrados com as modificações seguintes:",
+        "primeiro_bloco_de_artigo": "**Art. 3º** – Supprimam-se as palavras – «o primeiro anno» até «1921».",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 9 DE JUNHO DE 1920",
+          "data": "1920-06-09",
+          "bloco_literal": "Rio de Janeiro, 9 de junho de 1920, 99º da Independencia e 32º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          ""
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, attendendo ao que requereu a Companhia Internacional de Seguros, sociedade anonyma com séde nesta Capital Federal, resolve conceder-lhe autorização para funccionar na Republica e operar em seguros maritimos e terrestres, sob as condições abaixo declaradas:",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1921/dec-14622-1921-01-11.md",
+      "sha256_HTML": "f20dd5f3520316c54ea5d90664dfeb3312e649f69d8ede821147e58281dde7cd",
+      "sha256_MD_preliminar": "7f97523be2d0ee901530e4162c8ae79a3c315b55e1f2afa4994a42925442e724",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Alteração delimitada aos artigos 5, 10 e 18, transcritos conforme o comando.",
+      "contexto": {
+        "path": "federal/decretos/1921/dec-14622-1921-01-11.md",
+        "urn": "urn:lex:br:federal:decreto:1921-01-11;14622",
+        "sha256_HTML": "f20dd5f3520316c54ea5d90664dfeb3312e649f69d8ede821147e58281dde7cd",
+        "sha256_metadados": "3359e39d9f1d3f95c57111343bdce5552271103f58ef4486891e81585d8d3e23",
+        "sha256_MD_preliminar": "7f97523be2d0ee901530e4162c8ae79a3c315b55e1f2afa4994a42925442e724",
+        "epigrafe": {
+          "numero": "14622",
+          "data": "1921-01-11",
+          "epigrafe": "DECRETO N. 14.622 – DE 11 DE JANEIRO DE 1921"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/61e5a6fe-a99b-4958-b173-e454dc9c2bac/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T13:06:42.214892+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_015/requests/6f3b3ed994600fa43879fbbcab68626d5bc177f6200b9d7be2082be1c1ab48f9.raw.gz",
+          "sha256_raw": "f20dd5f3520316c54ea5d90664dfeb3312e649f69d8ede821147e58281dde7cd",
+          "bytes": 9987
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 14.622 – DE 11 DE JANEIRO DE 1921\n\n**Altera dispositivos do Regulamento em vigor para a Escola de sargentos de infantaria**\n\nO Presidente da Republica dos Estados Unidos do Brasil, usando da attribuição que lhe confere o art. 48, n. 1, da Constituição, resolve alterar os artigos 5º, 10º, alinea a e 18 do Regulamento da Escola de Sargentos de Infantaria, approvado por decreto n. 14.331, de 27 de agosto de 1920:",
+        "primeiro_bloco_de_artigo": "**Art. 5º** Os exames de admissão terão logar:",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 11 DE JANEIRO DE 1921",
+          "data": "1921-01-11",
+          "bloco_literal": "Rio de Janeiro, 11 de janeiro de 1921, 100º da Independencia e 33º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          ""
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, usando da attribuição que lhe confere o art. 48, n. 1, da Constituição, resolve alterar os artigos 5º, 10º, alinea a e 18 do Regulamento da Escola de Sargentos de Infantaria, approvado por decreto n. 14.331, de 27 de agosto de 1920:",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1920/dec-14138-1920-04-14.md",
+      "sha256_HTML": "6f8908629869d88efc4051f07147b3316262c09febb5926e47f10033531f73c5",
+      "sha256_MD_preliminar": "068682896c80d3428ea3d84366a7bfa93f92dadff2971095a6e87ddcb0d8e935",
+      "decisao": "retido",
+      "fundamento": "Aprova estatutos, alterações ou resoluções de assembleia; a transcrição mostra somente modificações selecionadas ou declaração da aprovação, sem comprovar o conjunto documental incorporado. Dúvida contextual privada, sem concluir ausência em outras fontes.",
+      "contexto": {
+        "path": "federal/decretos/1920/dec-14138-1920-04-14.md",
+        "urn": "urn:lex:br:federal:decreto:1920-04-14;14138",
+        "sha256_HTML": "6f8908629869d88efc4051f07147b3316262c09febb5926e47f10033531f73c5",
+        "sha256_metadados": "df72861cce277236da1c1cb6a2a65d6f035cc288fa7b67df54c0fd7352214d63",
+        "sha256_MD_preliminar": "068682896c80d3428ea3d84366a7bfa93f92dadff2971095a6e87ddcb0d8e935",
+        "epigrafe": {
+          "numero": "14138",
+          "data": "1920-04-14",
+          "epigrafe": "DECRETO N. 14.138 – DE 14 DE ABRIL DE 1920"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/70dcb89b-36bc-4fa0-b998-fd3fdbd62818/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T13:14:31.716603+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_015/requests/fd08403831680d37a3668da8a05c5a10c5b0126e2e596375ac452f998549d1d7.raw.gz",
+          "sha256_raw": "6f8908629869d88efc4051f07147b3316262c09febb5926e47f10033531f73c5",
+          "bytes": 8059
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 14.138 – DE 14 DE ABRIL DE 1920\n\nApprova com alteração , a resolução da assembléa geral extraordinaria , realizada em 26 de janeiro proximo findo, da Companhia Santista de Seguros.\n\nO Presidente da Republica dos Estados Unidos do Brasil, attendendo ao que requereu a Companhia Santista de Seguros, com séde na cidade de Santos, Estado de São Paulo, autorizada, pelo decreto n. 13.744, de 3 de setembro de 1919, resolve approvar a resolução da assembléa geral extraordinaria, realizada em 26 de janeiro proximo findo, com a seguinte alteração:",
+        "primeiro_bloco_de_artigo": "**Art. 38** – Do- lucros, liquidos verificados gelo balanço annual, depois de cumpridas as disposições do art. 37, serão retirados 3% para gratificação á directoria e o restante para distribuição do dividendo fixado... – o mais como está na acta.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 14 DE ABRIL DE 1920",
+          "data": "1920-04-14",
+          "bloco_literal": "Rio de Janeiro, 14 de abril de 1920, 99º da Independencia e 32º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          ""
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, attendendo ao que requereu a Companhia Santista de Seguros, com séde na cidade de Santos, Estado de São Paulo, autorizada, pelo decreto n. 13.744, de 3 de setembro de 1919, resolve approvar a resolução da assembléa geral extraordinaria, realizada em 26 de janeiro proximo findo, com a seguinte alteração:",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1920/dec-14542-1920-12-16.md",
+      "sha256_HTML": "fefb9e21dcb92f7f42f5af65a330d17a6c1561c2d3cb8c014f85cbffaebbd92f",
+      "sha256_MD_preliminar": "d021e7797a08a4bf41020d9f994ea2f1c0b62c3caee7574e966101a437d96090",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Modificação somente das menções de exame no artigo 16; pontilhados indicam partes não alteradas, sem inferir lacuna da norma inteira.",
+      "contexto": {
+        "path": "federal/decretos/1920/dec-14542-1920-12-16.md",
+        "urn": "urn:lex:br:federal:decreto:1920-12-16;14542",
+        "sha256_HTML": "fefb9e21dcb92f7f42f5af65a330d17a6c1561c2d3cb8c014f85cbffaebbd92f",
+        "sha256_metadados": "18caf7f30309b3de99bf9cabd372d969dd1389cc69cb2e179b0bc5c601aca870",
+        "sha256_MD_preliminar": "d021e7797a08a4bf41020d9f994ea2f1c0b62c3caee7574e966101a437d96090",
+        "epigrafe": {
+          "numero": "14542",
+          "data": "1920-12-16",
+          "epigrafe": "DECRETO N. 14.542 – DE 16 DE DEZEMBRO DE 1920"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/5dad0c98-e3b4-40b5-a3b2-86f80fce4202/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T13:07:58.728382+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_015/requests/cc83d3242979333a67a4da4e595b638940716c4a34900db2e926144907e0bcc3.raw.gz",
+          "sha256_raw": "fefb9e21dcb92f7f42f5af65a330d17a6c1561c2d3cb8c014f85cbffaebbd92f",
+          "bytes": 9362
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 14.542 – DE 16 DE DEZEMBRO DE 1920\n\nAltera o art. 16 do regulamento da Escola de Estado-Maior, approvado por decreto n. 14.130, de 7 de abril de 1920\n\nO Presidente da Republica dos Estados Unidos do Brasil, usando da autorização que lhe confere o art. 48, n. 1, da Constituição, resolve alterar na fórma abaixo indicada o art. 16 do regulamento approvado por decreto n. 14.130, de 7 de abril de 1920, na parte relativa ás menções a serem adoptadas para a classificação dos pontos obtidos por occasião dos exames pelos alumnos da Escola de Estado-Maior, no fim dos respectivos cursos:",
+        "primeiro_bloco_de_artigo": "**Art. 16** – .................................................................................................................................. ...........................................................................................................................................................",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 16 DE DEZEMBRO DE 1920",
+          "data": "1920-12-16",
+          "bloco_literal": "Rio de Janeiro, 16 de dezembro de 1920, 99º da Independencia e 32º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, usando da autorização que lhe confere o art. 48, n. 1, da Constituição, resolve alterar na fórma abaixo indicada o art. 16 do regulamento approvado por decreto n. 14.130, de 7 de abril de 1920, na parte relativa ás menções a serem adoptadas para a classificação dos pontos obtidos por occasião dos exames pelos alumnos da Escola de Estado-Maior, no fim dos respectivos cursos:",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1921/dec-15172-1921-12-13.md",
+      "sha256_HTML": "92affe2b2b540d91d1161c0bc4b02fd9bb6feacffa1433621445bacd5cfd52b9",
+      "sha256_MD_preliminar": "ad02e19e4b31903103e1ba38d815f357636d17e675afc7213db7eda6aede9a0e",
+      "decisao": "retido",
+      "fundamento": "Aprova estatutos, alterações ou resoluções de assembleia; a transcrição mostra somente modificações selecionadas ou declaração da aprovação, sem comprovar o conjunto documental incorporado. Dúvida contextual privada, sem concluir ausência em outras fontes.",
+      "contexto": {
+        "path": "federal/decretos/1921/dec-15172-1921-12-13.md",
+        "urn": "urn:lex:br:federal:decreto:1921-12-13;15172",
+        "sha256_HTML": "92affe2b2b540d91d1161c0bc4b02fd9bb6feacffa1433621445bacd5cfd52b9",
+        "sha256_metadados": "ce861854899ed49687028c466ff4a31061911c9cceb8f18e121445ac3b1e27ad",
+        "sha256_MD_preliminar": "ad02e19e4b31903103e1ba38d815f357636d17e675afc7213db7eda6aede9a0e",
+        "epigrafe": {
+          "numero": "15172",
+          "data": "1921-12-13",
+          "epigrafe": "DECRETO N. 15.172 – DE 13 DE DEZEMBRO DE 1921"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/a0ef0b42-2ef7-4380-9522-3a90e97257a3/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T12:57:42.932080+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_015/requests/8be36d6dbcb0e1f95232caef33decb07f20828188c7326fbed57d2f0a9215e07.raw.gz",
+          "sha256_raw": "92affe2b2b540d91d1161c0bc4b02fd9bb6feacffa1433621445bacd5cfd52b9",
+          "bytes": 7445
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 15.172 – DE 13 DE DEZEMBRO DE 1921\n\nApprova as alterações feitas nos estudos da sociedade anonyma «Engenhos Centraes de Assucar»\n\nO Presiente da Republica dos Estados Unidos do Brasil, attendendo ao que requereu a sociedade anonyma «Engenhos Centraes de Assucar», autorizada a funccionar pelo decreto n. 13.105, de 17 de julho de 1918, e devidamente representada,\n\nDecreta:",
+        "primeiro_bloco_de_artigo": "**Artigo unico.** Ficam approvadas as alterações feitas nos estatutos da sociedade anonyma «Engenhos Centraes de Assucar», na conformidade da resolução votada em assembléa geral extraordinaria dos respectivos accionistas, realizada a 30 de junho de 1921, obrigada, porém, a mesma sociedade a cumprir as formalidades ulteriores exigidas pela legislação em vigor.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 13 DE DEZEMBRO DE 1921",
+          "data": "1921-12-13",
+          "bloco_literal": "Rio de Janeiro, 13 de dezembro de 1921, 100º da Independencia e 33º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          ""
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": null,
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1922/dec-15260-1922-01-07.md",
+      "sha256_HTML": "75860ae0ab9957e5df60e27c92b0dfe17be9be9df9283a857a6ee2cb12648849",
+      "sha256_MD_preliminar": "0561f62ba9a7a9435db01d43309e4dd46c72e075060e5b9ca5ac650c21743518",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Novas redações dos cursos de estado-maior/revisão transcritas; referências aos regulamentos antigos não exigem sua reprodução integral.",
+      "contexto": {
+        "path": "federal/decretos/1922/dec-15260-1922-01-07.md",
+        "urn": "urn:lex:br:federal:decreto:1922-01-07;15260",
+        "sha256_HTML": "75860ae0ab9957e5df60e27c92b0dfe17be9be9df9283a857a6ee2cb12648849",
+        "sha256_metadados": "e515d01304c63a61c31e3b7cd7a158ef7e4aef7567bee4f38c19e4b6dd15683a",
+        "sha256_MD_preliminar": "0561f62ba9a7a9435db01d43309e4dd46c72e075060e5b9ca5ac650c21743518",
+        "epigrafe": {
+          "numero": "15260",
+          "data": "1922-01-07",
+          "epigrafe": "DECRETO N. 15.260 – DE 7 DE JANEIRO DE 1922"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/60f78a55-af35-495f-9c8d-0ac014109a45/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T12:56:17.230328+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261028_015/requests/27293a19a78d6967f81e0e8b1733cab8c21faaa960da6af49f26571ad5046b6a.raw.gz",
+          "sha256_raw": "75860ae0ab9957e5df60e27c92b0dfe17be9be9df9283a857a6ee2cb12648849",
+          "bytes": 10526
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 15.260 – DE 7 DE JANEIRO DE 1922\n\nAltera o regulamento approvado por decreto n. 13.752, de 10 de setembro de 1919\n\nO Presidente da Republica dos Estados Unidos do Brasil, usando da attribuição que lhe confere o art. 48, n. 1, da Constituição, resolve alterar o regulamento approvado por decreto n. 13.752, de 10 de setembro de 1919, para execução do de n. 13.451, de 29 de janeiro anterior, na parte referente nos cursos de estado maior e de revisão, do seguinte modo:",
+        "primeiro_bloco_de_artigo": "**Art. 5º** O curso de revisão durará um anno. Será, frequentado por officiaes superiores, por professores das materias essencialmente militares da Escola Militar e, excepcionalmente, por capitães, todos com o curso de estado maior, os quaes ficam matriculados na Escola como os officiaes que frequentam este curso.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 7 DE JANEIRO DE 1922",
+          "data": "1922-01-07",
+          "bloco_literal": "Rio de Janeiro, 7 de janeiro de 1922, 101º da Independencia e 34º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "###DEC-004555-0-000-10-08-1922@@@"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, usando da attribuição que lhe confere o art. 48, n. 1, da Constituição, resolve alterar o regulamento approvado por decreto n. 13.752, de 10 de setembro de 1919, para execução do de n. 13.451, de 29 de janeiro anterior, na parte referente nos cursos de estado maior e de revisão, do seguinte modo:",
+        "ocorrencias_contextuais": []
+      }
+    }
+  ],
+  "controles_explicitos": {
+    "13501": "Autorização para continuar funcionando com redução de capital explicitamente descrita e mesmas cláusulas de ato anterior; não é aprovação de novo anexo próprio. Grafia Vice-Prisidente preservada.",
+    "14748": "Reorganização do Exército de segunda linha integralmente articulada em 27 artigos; referências aos planos e regulamentos vigentes ou futuros não comandam novo anexo atual.",
+    "13451": "Bases de ensino militar presentes em oito artigos, com cursos e atribuições. A palavra anexo qualifica cursos, não documento omitido.",
+    "14493": "Reforma pontual com substituições e acréscimos especificados, sem aprovação de novo regulamento integral.",
+    "14752": "Reforma pontual de artigos dos colégios militares, com redações modificadas transcritas.",
+    "14608": "Nova redação delimitada ao artigo 14 da Escola de Aviação, transcrita no corpo.",
+    "13665": "Alteração pontual de artigos do regulamento de exercícios; comandos textuais de posição da arma presentes.",
+    "14622": "Alteração delimitada aos artigos 5, 10 e 18, transcritos conforme o comando.",
+    "14542": "Modificação somente das menções de exame no artigo 16; pontilhados indicam partes não alteradas, sem inferir lacuna da norma inteira.",
+    "15260": "Novas redações dos cursos de estado-maior/revisão transcritas; referências aos regulamentos antigos não exigem sua reprodução integral."
+  },
+  "limites": "Leitura dirigida dos vínculos e alertas, sem afirmar revisão humana universal de 509 atos. Corpo e documentos incorporados permanecem integrais; limites servem apenas para avaliar o fecho principal."
+}

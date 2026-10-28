@@ -1,0 +1,939 @@
+{
+  "escopo": "Dezoito reparos privados de markup e sinais literais, sem alterar arquivos canônicos ou pacotes congelados.",
+  "metodo": "marked 17.0.5 GFM independente. Compara todos os caracteres visíveis, números e contextos; reconstitui contadores reais de ol/li e conserva o delimitador literal do código na comparação. Preserva a estrutura de listas; escapes de - atingem somente sinais literais que viravam uma lista adicional.",
+  "resumo": {
+    "candidatos": 18,
+    "aprovados_replay": 18,
+    "erros_formato": 0,
+    "avisos_formato": 0
+  },
+  "registros": [
+    {
+      "path": "federal/decretos/1947/dec-24088-1947-11-20.md",
+      "lote": 15,
+      "urn": "urn:lex:br:federal:decreto:1947-11-20;24088",
+      "candidato": "federal/_candidatos_commonmark_015018_20261021_001/dec-24088-1947-11-20.md",
+      "sha256_candidato": "7370a37d0900866d7cae9e345f728c070611cbaddf43c39c811eb68ae8f69e51",
+      "preimagem_canonica_sha256": "ca6d771513fa9ec4f1fbb5c9a1fc9a17d96a63257cefb1125c755307d9daac68",
+      "preimagem_privada": "federal/decretos/1947/dec-24088-1947-11-20.md",
+      "sha256_preimagem_privada": "ca6d771513fa9ec4f1fbb5c9a1fc9a17d96a63257cefb1125c755307d9daac68",
+      "incorpora_privado_anterior": null,
+      "sha256_fonte_html": "39f69f2ec137502015c033ce2c5e025b945aa38e7b094b7ddbcb0f6d0262c300",
+      "mudancas": [
+        {
+          "antes": "n*, d*o",
+          "depois": "n, do"
+        }
+      ],
+      "status": "replay_commonmark_estrutural_aprovado",
+      "pontuacao_numeros_contextos_iguais": true,
+      "tabelas_e_visuais_iguais": true,
+      "listas_preservadas": [],
+      "sha256_visivel": "1fefb258781469964cfb05ebe5b96bf281c8ecfb72ebfe06dde6d9c6f9c3bac5",
+      "sha256_render_html": "5b5d24fa98566e5bd2aafc155a7699a117ff9c4a3def0214bae80d6376372d42"
+    },
+    {
+      "path": "federal/decretos/1947/dec-23155-1947-06-04.md",
+      "lote": 15,
+      "urn": "urn:lex:br:federal:decreto:1947-06-04;23155",
+      "candidato": "federal/_candidatos_commonmark_015018_20261021_001/dec-23155-1947-06-04.md",
+      "sha256_candidato": "cb250d2c03439d7a5760d429182b9d0bc46f791c3148f8d5230e3b9fe6ec7a45",
+      "preimagem_canonica_sha256": "a2eba9d0c58f14dd2c23ef0f28d01f86cf014413aad5b3f37a93ba4500c9e200",
+      "preimagem_privada": "federal/decretos/1947/dec-23155-1947-06-04.md",
+      "sha256_preimagem_privada": "a2eba9d0c58f14dd2c23ef0f28d01f86cf014413aad5b3f37a93ba4500c9e200",
+      "incorpora_privado_anterior": null,
+      "sha256_fonte_html": "f254855c65c7401ad2c006c4e95aef05db983dd32f4738acfb5ec264da6c18c3",
+      "mudancas": [
+        {
+          "mudanca": "Escape de sinais - isolados em campos da fonte, sem converter enumerações em parágrafos.",
+          "ocorrencias": 1
+        }
+      ],
+      "status": "replay_commonmark_estrutural_aprovado",
+      "pontuacao_numeros_contextos_iguais": true,
+      "tabelas_e_visuais_iguais": true,
+      "listas_preservadas": [],
+      "sha256_visivel": "e06e83048d886cfb38615130c0b74c13594d161fd8be8524840002cb56c24797",
+      "sha256_render_html": "f00ad1a64f44ab3591896c35d48f61c4b2080e901d8e43143e82be5f812836b1"
+    },
+    {
+      "path": "federal/decretos/1947/dec-22947-1947-04-16.md",
+      "lote": 15,
+      "urn": "urn:lex:br:federal:decreto:1947-04-16;22947",
+      "candidato": "federal/_candidatos_commonmark_015018_20261021_001/dec-22947-1947-04-16.md",
+      "sha256_candidato": "0c53ee7fc4f25bc04f268d0b8e3f23a2f9db752fe36ee15f7a1cba59b27649b0",
+      "preimagem_canonica_sha256": "03b16d72d0b9c9eb2247003b65553dc6349ccf06e19107a91e702c25ca9addae",
+      "preimagem_privada": "federal/decretos/1947/dec-22947-1947-04-16.md",
+      "sha256_preimagem_privada": "03b16d72d0b9c9eb2247003b65553dc6349ccf06e19107a91e702c25ca9addae",
+      "incorpora_privado_anterior": null,
+      "sha256_fonte_html": "0910b6ccf523e5c58384832c5d08e85b8dda78947909d259be95f5726e7a5268",
+      "mudancas": [
+        {
+          "mudanca": "Escape somente do hífen literal após o marcador numérico; conserva a lista ordenada, seu marcador e o texto dos itens.",
+          "ocorrencias": 2
+        }
+      ],
+      "status": "replay_commonmark_estrutural_aprovado",
+      "pontuacao_numeros_contextos_iguais": true,
+      "tabelas_e_visuais_iguais": true,
+      "listas_preservadas": [
+        {
+          "start_HTML": 1,
+          "itens": [
+            {
+              "literal_MD": "1)",
+              "contador_HTML": 1,
+              "mesmo_numero": true,
+              "contexto": "\\- área aproximadamente de 130.000,00 m2 (cento e trinta mil metros quadrados), de propriedade atribuída a Carlos de Oliveira;\n"
+            },
+            {
+              "literal_MD": "2)",
+              "contador_HTML": 2,
+              "mesmo_numero": true,
+              "contexto": "\\- área aproximadamente de 98.000,00 m2 (noventa e oito mil metos quadrados), de propriedade atribuída a herdeiros de Leonídio Aguido Rosas."
+            }
+          ]
+        }
+      ],
+      "sha256_visivel": "a6aef52d6be8da63879096a3e1984b7184ef51ca48a098c433195b768750e159",
+      "sha256_render_html": "d909f21c61b1e969e0b19c420dda96cf42d3c3f6d0ff3c04dbe33c5ee04585e0"
+    },
+    {
+      "path": "federal/decretos/1947/dec-22770-1947-03-19.md",
+      "lote": 16,
+      "urn": "urn:lex:br:federal:decreto:1947-03-19;22770",
+      "candidato": "federal/_candidatos_commonmark_015018_20261021_001/dec-22770-1947-03-19.md",
+      "sha256_candidato": "67dd286a6109dbb199aaf74fdc4f5a32b59f650c8af4dc37f905079554dcf583",
+      "preimagem_canonica_sha256": "1b5ae9759ad974bcd6a088614f4d5ccd8707aa367defec5e331311aeec9468c2",
+      "preimagem_privada": "federal/decretos/1947/dec-22770-1947-03-19.md",
+      "sha256_preimagem_privada": "1b5ae9759ad974bcd6a088614f4d5ccd8707aa367defec5e331311aeec9468c2",
+      "incorpora_privado_anterior": null,
+      "sha256_fonte_html": "375199328e18269cc2531b20f6695fa2c61ae4e0cad24892c61980d27a942eb0",
+      "mudancas": [
+        {
+          "mudanca": "Escape de sinais - isolados em campos da fonte, sem converter enumerações em parágrafos.",
+          "ocorrencias": 2
+        }
+      ],
+      "status": "replay_commonmark_estrutural_aprovado",
+      "pontuacao_numeros_contextos_iguais": true,
+      "tabelas_e_visuais_iguais": true,
+      "listas_preservadas": [],
+      "sha256_visivel": "eb4c2604857c1ab210e350dd54ffdaeb7c853a73d262589482e6e2b69d343686",
+      "sha256_render_html": "411271f91286e1ed4fa721e1b34e7bf01fd279d1ef00631b7f14be1617aab6d6"
+    },
+    {
+      "path": "federal/decretos/1946/dec-22305-1946-12-18.md",
+      "lote": 16,
+      "urn": "urn:lex:br:federal:decreto:1946-12-18;22305",
+      "candidato": "federal/_candidatos_commonmark_015018_20261021_001/dec-22305-1946-12-18.md",
+      "sha256_candidato": "f0ee054fa19df13223936a6dfbf0d5906b70925f287a80e059429813fcea5726",
+      "preimagem_canonica_sha256": "271a53cae0f4c2bc089de5172c72fb1c338ee6db8dd5605bccdf8d494e6d598d",
+      "preimagem_privada": "federal/decretos/1946/dec-22305-1946-12-18.md",
+      "sha256_preimagem_privada": "271a53cae0f4c2bc089de5172c72fb1c338ee6db8dd5605bccdf8d494e6d598d",
+      "incorpora_privado_anterior": null,
+      "sha256_fonte_html": "405a6cfd31e786a144d61281c8e050210dc3c2b2066a148c749381495615c94d",
+      "mudancas": [
+        {
+          "mudanca": "Escape somente do hífen literal após o marcador numérico; conserva a lista ordenada, seu marcador e o texto dos itens.",
+          "ocorrencias": 6
+        }
+      ],
+      "status": "replay_commonmark_estrutural_aprovado",
+      "pontuacao_numeros_contextos_iguais": true,
+      "tabelas_e_visuais_iguais": true,
+      "listas_preservadas": [
+        {
+          "start_HTML": 1,
+          "itens": [
+            {
+              "literal_MD": "1)",
+              "contador_HTML": 1,
+              "mesmo_numero": true,
+              "contexto": "\\- Na segunda parte do artigo 1º,"
+            }
+          ]
+        },
+        {
+          "start_HTML": 2,
+          "itens": [
+            {
+              "literal_MD": "2)",
+              "contador_HTML": 2,
+              "mesmo_numero": true,
+              "contexto": "\\- Os artigos 2º e 3º passam a ser, respectivamente, artigos 3º e 4º\n"
+            },
+            {
+              "literal_MD": "3)",
+              "contador_HTML": 3,
+              "mesmo_numero": true,
+              "contexto": "\\- No artigo 5º, item I,"
+            }
+          ]
+        },
+        {
+          "start_HTML": 4,
+          "itens": [
+            {
+              "literal_MD": "4)",
+              "contador_HTML": 4,
+              "mesmo_numero": true,
+              "contexto": "\\- No artigo 8º,"
+            }
+          ]
+        },
+        {
+          "start_HTML": 5,
+          "itens": [
+            {
+              "literal_MD": "5)",
+              "contador_HTML": 5,
+              "mesmo_numero": true,
+              "contexto": "\\- No artigo 9º,"
+            }
+          ]
+        },
+        {
+          "start_HTML": 6,
+          "itens": [
+            {
+              "literal_MD": "6)",
+              "contador_HTML": 6,
+              "mesmo_numero": true,
+              "contexto": "\\- No artigo 28,"
+            }
+          ]
+        }
+      ],
+      "sha256_visivel": "24b6146d003ad85a24e7144dd7abe43c58bae57b223d4b24b489ff7b98e779f7",
+      "sha256_render_html": "ebb2a9eac560e2a0f1903af1ba3b5dca4930f3d4278d1b61b99f8832b2441ef2"
+    },
+    {
+      "path": "federal/decretos/1946/dec-21893-1946-10-04.md",
+      "lote": 16,
+      "urn": "urn:lex:br:federal:decreto:1946-10-04;21893",
+      "candidato": "federal/_candidatos_commonmark_015018_20261021_001/dec-21893-1946-10-04.md",
+      "sha256_candidato": "f9d6104c6a338cadd30a225c86d904e2d7412179e02c44c3ae966c345cdd03a5",
+      "preimagem_canonica_sha256": "b7231e2bf9843a3441e2ea98878f15047bbdea448317d54fee9c1783d523830e",
+      "preimagem_privada": "federal/decretos/1946/dec-21893-1946-10-04.md",
+      "sha256_preimagem_privada": "b7231e2bf9843a3441e2ea98878f15047bbdea448317d54fee9c1783d523830e",
+      "incorpora_privado_anterior": null,
+      "sha256_fonte_html": "b9e5ed337c3af72d8504e824a69f07200575086b99ef5b562d7971a09a89b053",
+      "mudancas": [
+        {
+          "mudanca": "Escape somente do hífen literal após o marcador numérico; conserva a lista ordenada, seu marcador e o texto dos itens.",
+          "ocorrencias": 6
+        }
+      ],
+      "status": "replay_commonmark_estrutural_aprovado",
+      "pontuacao_numeros_contextos_iguais": true,
+      "tabelas_e_visuais_iguais": true,
+      "listas_preservadas": [
+        {
+          "start_HTML": 1,
+          "itens": [
+            {
+              "literal_MD": "1)",
+              "contador_HTML": 1,
+              "mesmo_numero": true,
+              "contexto": "\\- Planta do terreno, em plano e em elevação com indicação de localização em relação às propriedades vizinhas, vias de acesso e de escoamento existent"
+            },
+            {
+              "literal_MD": "2)",
+              "contador_HTML": 2,
+              "mesmo_numero": true,
+              "contexto": "\\- Plantas detalhadas de construções ou adaptações em escala exata e em triplicata, com cortes transversais e longitudinais, de todo projeto aparelheg"
+            },
+            {
+              "literal_MD": "3)",
+              "contador_HTML": 3,
+              "mesmo_numero": true,
+              "contexto": "\\- Descrição detalhada das instalações e esclarecimentos completos sôbre as exigências constantes do artigo 7º e seus parágrafos, em forma de memorial"
+            },
+            {
+              "literal_MD": "4)",
+              "contador_HTML": 4,
+              "mesmo_numero": true,
+              "contexto": "\\- Declaração explícita, do responsável pela construção, legalmente habilitado, ou do autor de vistorias e levantamento de plantas de que as instalaçõ"
+            },
+            {
+              "literal_MD": "5)",
+              "contador_HTML": 5,
+              "mesmo_numero": true,
+              "contexto": "\\- Descrição da maquinaria, compreendendo marca, tipo, capacidade de produção horária efetiva e teórica, não só de cada máquina, mas, também se se tra"
+            },
+            {
+              "literal_MD": "6)",
+              "contador_HTML": 6,
+              "mesmo_numero": true,
+              "contexto": "\\- Dados relativos à matéria prima a elaborar; sôbre a procedência, qualidade, tipo, quantidade desta matéria prima; sôbre qualidade e quantidade de p"
+            }
+          ]
+        },
+        {
+          "start_HTML": 1,
+          "itens": [
+            {
+              "literal_MD": "1)",
+              "contador_HTML": 1,
+              "mesmo_numero": true,
+              "contexto": "Análise fiscal, gratuita, da qualidade do produto, quanto elaborado de acôrdo com os padrões oficiais ou constantes especificadamente dos rótulos. Est"
+            },
+            {
+              "literal_MD": "2)",
+              "contador_HTML": 2,
+              "mesmo_numero": true,
+              "contexto": "Análise de classificação - obrigatório, para cada partida, de amostra coletada a requerimento do interessado e realiada pelo I.O ou pelo S.E.R., ou qu"
+            },
+            {
+              "literal_MD": "3)",
+              "contador_HTML": 3,
+              "mesmo_numero": true,
+              "contexto": "Análise de aprovação - facultativa, realizada a requerimento do interessado, pelo Instituto de Óleos, mediante pagamento de taxa regulamentar, para es"
+            }
+          ]
+        },
+        {
+          "start_HTML": 1,
+          "itens": [
+            {
+              "literal_MD": "1)",
+              "contador_HTML": 1,
+              "mesmo_numero": true,
+              "contexto": "Óleo vegetal “cru” ou “bruto”é o óleo que não sofreu tratamento físico ou químico capaz de modificar os caracteres do mesmo, tal qual extraído.\n"
+            },
+            {
+              "literal_MD": "2)",
+              "contador_HTML": 2,
+              "mesmo_numero": true,
+              "contexto": "Óleo vegetal “virgem” é o óleo obtido exclusivamente por expressão mecânica, seguido ou não de lavagem, filtração ou sedimentação.\n"
+            },
+            {
+              "literal_MD": "3)",
+              "contador_HTML": 3,
+              "mesmo_numero": true,
+              "contexto": "Óleo vegetal “extraído a frio” é o óleo obtido pela simples expressão do produto, sem aquecimento.\n"
+            },
+            {
+              "literal_MD": "4)",
+              "contador_HTML": 4,
+              "mesmo_numero": true,
+              "contexto": "Óleo vegetal “refinado” é o óleo que tenha sofrido processo de purificação emprestando-lhe, assim, qualidades extrenmas de pureza.\n"
+            },
+            {
+              "literal_MD": "5)",
+              "contador_HTML": 5,
+              "mesmo_numero": true,
+              "contexto": "Óleo vegetal “centrifugação” é o óleo que sofreu exclusivamente a cetrifugação.\n"
+            },
+            {
+              "literal_MD": "6)",
+              "contador_HTML": 6,
+              "mesmo_numero": true,
+              "contexto": "Óleo vegetal “filtrado” é o óleo que sofreu exclusivamente a filtração.\n"
+            },
+            {
+              "literal_MD": "7)",
+              "contador_HTML": 7,
+              "mesmo_numero": true,
+              "contexto": "Óleo vegetal “sedimentado” é o óleo que sofreu exclusivamente a sedimentação.\n"
+            },
+            {
+              "literal_MD": "8)",
+              "contador_HTML": 8,
+              "mesmo_numero": true,
+              "contexto": "Óleo vegetal “clarificado” ou “descorado” é o que sofreu processo de descoramento.\n"
+            },
+            {
+              "literal_MD": "9)",
+              "contador_HTML": 9,
+              "mesmo_numero": true,
+              "contexto": "Óleo vegetal “desodorizado” é o óleo que sofreu processo de desodorização.\n"
+            },
+            {
+              "literal_MD": "10)",
+              "contador_HTML": 10,
+              "mesmo_numero": true,
+              "contexto": "Óleo vegetal “neutralizado” é o óleo que sofreu processo de neutralização com o objetivo de eliminar a acidez livre nele existente.\n"
+            },
+            {
+              "literal_MD": "11)",
+              "contador_HTML": 11,
+              "mesmo_numero": true,
+              "contexto": "“gordura” designa os ésteres da glicerina que se apresentam sólidos à temperatura de + de 20º C.\n"
+            },
+            {
+              "literal_MD": "12)",
+              "contador_HTML": 12,
+              "mesmo_numero": true,
+              "contexto": "“Óleo composto” designa a mistura de dois ou mais óleos.\n"
+            },
+            {
+              "literal_MD": "13)",
+              "contador_HTML": 13,
+              "mesmo_numero": true,
+              "contexto": "“Gorduro vegetal” designa os óleos vegetais hidrogenados que tiverem sua composição química alterada pela ação do hidrogênio nascente, em presença de "
+            },
+            {
+              "literal_MD": "14)",
+              "contador_HTML": 14,
+              "mesmo_numero": true,
+              "contexto": "“Composto de gordura vegetal” designa o produto obtido da mistura de óleos e gorduras de origem vegetal hidrogenada ou não."
+            }
+          ]
+        }
+      ],
+      "sha256_visivel": "1384a3db46d68685d1c01c315ddbbbbd80364d554e91424a23edf55a9542fea4",
+      "sha256_render_html": "7d8b3ee035c6ad2eddbda372de6cbb2e9f1d856650076f932c79f223327ecd8d"
+    },
+    {
+      "path": "federal/decretos/1946/dec-20495-1946-01-24.md",
+      "lote": 17,
+      "urn": "urn:lex:br:federal:decreto:1946-01-24;20495",
+      "candidato": "federal/_candidatos_commonmark_015018_20261021_001/dec-20495-1946-01-24.md",
+      "sha256_candidato": "83b7ece78c3b28f640a9cd7686f48cb4070b6415670d25ef9205e2b78a6546d9",
+      "preimagem_canonica_sha256": "8ce9687c7786267fc09c5854a667b00b376d7060d9ad4de6cc145f2b1ff5812b",
+      "preimagem_privada": "federal/decretos/1946/dec-20495-1946-01-24.md",
+      "sha256_preimagem_privada": "8ce9687c7786267fc09c5854a667b00b376d7060d9ad4de6cc145f2b1ff5812b",
+      "incorpora_privado_anterior": null,
+      "sha256_fonte_html": "5d0fbb7df716869f8dd612fe7255a6ed1d3547449d3b26dc2e3b1f3ff9af65ed",
+      "mudancas": [
+        {
+          "mudanca": "Escape somente do hífen literal após o marcador numérico; conserva a lista ordenada, seu marcador e o texto dos itens.",
+          "ocorrencias": 13
+        }
+      ],
+      "status": "replay_commonmark_estrutural_aprovado",
+      "pontuacao_numeros_contextos_iguais": true,
+      "tabelas_e_visuais_iguais": true,
+      "listas_preservadas": [
+        {
+          "start_HTML": 2,
+          "itens": [
+            {
+              "literal_MD": "2)",
+              "contador_HTML": 2,
+              "mesmo_numero": true,
+              "contexto": "A quantidade de gasolina e de óleo recebidas dos almoxarifados ou dépositos de material;\n"
+            },
+            {
+              "literal_MD": "3)",
+              "contador_HTML": 3,
+              "mesmo_numero": true,
+              "contexto": "O número de horas do percurso e os tempos de estacionamentos;\n"
+            },
+            {
+              "literal_MD": "4)",
+              "contador_HTML": 4,
+              "mesmo_numero": true,
+              "contexto": "os acidentes ocorridos com os veículos;\n"
+            },
+            {
+              "literal_MD": "5)",
+              "contador_HTML": 5,
+              "mesmo_numero": true,
+              "contexto": "as irregularidades notadas no funcionamento dos veículos;"
+            }
+          ]
+        },
+        {
+          "start_HTML": 1,
+          "itens": [
+            {
+              "literal_MD": "1)",
+              "contador_HTML": 1,
+              "mesmo_numero": true,
+              "contexto": "livros-fôlha;\n"
+            },
+            {
+              "literal_MD": "2)",
+              "contador_HTML": 2,
+              "mesmo_numero": true,
+              "contexto": "fôlha avulsa para elaboração mecânica e automática;\n"
+            },
+            {
+              "literal_MD": "3)",
+              "contador_HTML": 3,
+              "mesmo_numero": true,
+              "contexto": "fôlha avulsa para elaboração dactilográfica ou manual;"
+            }
+          ]
+        },
+        {
+          "start_HTML": 1,
+          "itens": [
+            {
+              "literal_MD": "1)",
+              "contador_HTML": 1,
+              "mesmo_numero": true,
+              "contexto": "a data de encerramento na seção de averbações e alterações de qualquer natureza;\n"
+            },
+            {
+              "literal_MD": "2)",
+              "contador_HTML": 2,
+              "mesmo_numero": true,
+              "contexto": "a data em que deverão ter entrada, na Seção, os elementos necessários à apuração da freqüencia;\n"
+            },
+            {
+              "literal_MD": "3)",
+              "contador_HTML": 3,
+              "mesmo_numero": true,
+              "contexto": "a data de entrega das fôlhas de pagamento para registro;\n"
+            },
+            {
+              "literal_MD": "4)",
+              "contador_HTML": 4,
+              "mesmo_numero": true,
+              "contexto": "a data em que as fôlhas deverão estar na Tesouraria;"
+            }
+          ]
+        },
+        {
+          "start_HTML": 1,
+          "itens": [
+            {
+              "literal_MD": "1)",
+              "contador_HTML": 1,
+              "mesmo_numero": true,
+              "contexto": "\\- os elementos de identificação civil;\n"
+            },
+            {
+              "literal_MD": "2)",
+              "contador_HTML": 2,
+              "mesmo_numero": true,
+              "contexto": "\\- dados relativos à habilitação;\n"
+            },
+            {
+              "literal_MD": "3)",
+              "contador_HTML": 3,
+              "mesmo_numero": true,
+              "contexto": "\\- tempo apurado e assentamento das diversas modalidades;\n"
+            },
+            {
+              "literal_MD": "4)",
+              "contador_HTML": 4,
+              "mesmo_numero": true,
+              "contexto": "\\- elementos relativos à natureza da atividade;\n"
+            },
+            {
+              "literal_MD": "5)",
+              "contador_HTML": 5,
+              "mesmo_numero": true,
+              "contexto": "\\- discriminação do execício;\n"
+            },
+            {
+              "literal_MD": "6)",
+              "contador_HTML": 6,
+              "mesmo_numero": true,
+              "contexto": "\\- elogios e penalidades;\n"
+            },
+            {
+              "literal_MD": "7)",
+              "contador_HTML": 7,
+              "mesmo_numero": true,
+              "contexto": "\\- dados que se relacionem direta ou indiretamente com a atividade pública;"
+            }
+          ]
+        },
+        {
+          "start_HTML": 1,
+          "itens": [
+            {
+              "literal_MD": "1)",
+              "contador_HTML": 1,
+              "mesmo_numero": true,
+              "contexto": "\\- de cargos públicos;\n"
+            },
+            {
+              "literal_MD": "2)",
+              "contador_HTML": 2,
+              "mesmo_numero": true,
+              "contexto": "\\- de função de extranumerários;\n"
+            },
+            {
+              "literal_MD": "3)",
+              "contador_HTML": 3,
+              "mesmo_numero": true,
+              "contexto": "\\- nominal;\n"
+            },
+            {
+              "literal_MD": "4)",
+              "contador_HTML": 4,
+              "mesmo_numero": true,
+              "contexto": "\\- de locais de trabalho."
+            }
+          ]
+        },
+        {
+          "start_HTML": 1,
+          "itens": [
+            {
+              "literal_MD": "1)",
+              "contador_HTML": 1,
+              "mesmo_numero": true,
+              "contexto": "\\- indicar as medidas preventivas ou corretivas cabíveis, expedindo o “Boletim de Providências”;\n"
+            },
+            {
+              "literal_MD": "2)",
+              "contador_HTML": 2,
+              "mesmo_numero": true,
+              "contexto": "\\- fiscalizar a execução das mediadas indicadas;"
+            }
+          ]
+        },
+        {
+          "start_HTML": 1,
+          "itens": [
+            {
+              "literal_MD": "1)",
+              "contador_HTML": 1,
+              "mesmo_numero": true,
+              "contexto": "o afastamento não poderá exceder de 20 minutos;\n"
+            },
+            {
+              "literal_MD": "2)",
+              "contador_HTML": 2,
+              "mesmo_numero": true,
+              "contexto": "a saída deverá verificar-se entre 13 e 15 horas;\n"
+            },
+            {
+              "literal_MD": "3)",
+              "contador_HTML": 3,
+              "mesmo_numero": true,
+              "contexto": "os servidores não se poderão ausentar de sua salas, Simultaneamente, em número superior a ¼ dos que nela trabalhem."
+            }
+          ]
+        }
+      ],
+      "sha256_visivel": "64db97a90188cbb5106fe14b384930b0add7e95933bb8574d6b03d3e23e6cafc",
+      "sha256_render_html": "1ad54ec200d6dc5a54c562131dd4034a3bbd110b1c4a9e0ebd2de767aa09e044"
+    },
+    {
+      "path": "federal/decretos/1945/dec-18717-1945-05-24.md",
+      "lote": 17,
+      "urn": "urn:lex:br:federal:decreto:1945-05-24;18717",
+      "candidato": "federal/_candidatos_commonmark_015018_20261021_001/dec-18717-1945-05-24.md",
+      "sha256_candidato": "2ce11e6ed77831247aeb83c5cce084934af24aa20774eb9e0a02a7eeac561813",
+      "preimagem_canonica_sha256": "a9163b9915b8cbc8de0de71d3f174edfcf68655d9a5a0be3ff1b840f81d72361",
+      "preimagem_privada": "federal/_candidatos_fechos_contextuais_20261021_018/dec-18717-1945-05-24.md",
+      "sha256_preimagem_privada": "5c8a154bd49c4a693aed01f84a6ec5e1db1e80022d3aec97e25b43ed384997a4",
+      "incorpora_privado_anterior": null,
+      "sha256_fonte_html": "f96963754d4961f3645205da684a2b405ca63c21b588bc28af1052df0b55a8b2",
+      "mudancas": [
+        {
+          "mudanca": "Retira somente ênfase inválida em dois rótulos Art. adjacentes ao número, preservando adjacência/pontuação."
+        }
+      ],
+      "status": "replay_commonmark_estrutural_aprovado",
+      "pontuacao_numeros_contextos_iguais": true,
+      "tabelas_e_visuais_iguais": true,
+      "listas_preservadas": [],
+      "sha256_visivel": "6b56597fef6ab74748ccaf46185f5ab9337f490a0b23a359f7e2a6283b4a0382",
+      "sha256_render_html": "1bdbb16d8ef05b3989f71b039cd88c1fcddbfe3a4503b2aa41508d70cfaa0a39"
+    },
+    {
+      "path": "federal/decretos/1945/dec-18521-1945-04-30.md",
+      "lote": 18,
+      "urn": "urn:lex:br:federal:decreto:1945-04-30;18521",
+      "candidato": "federal/_candidatos_commonmark_015018_20261021_001/dec-18521-1945-04-30.md",
+      "sha256_candidato": "bbda7e2cda80198ed751b4b28ee23d38fb8bdb286f27aae5828099fe6e0456f6",
+      "preimagem_canonica_sha256": "180cf1bcde8e5b545edcf29a334ae5f84959fed50092b61d0ce4c47bdb53dc43",
+      "preimagem_privada": "federal/decretos/1945/dec-18521-1945-04-30.md",
+      "sha256_preimagem_privada": "180cf1bcde8e5b545edcf29a334ae5f84959fed50092b61d0ce4c47bdb53dc43",
+      "incorpora_privado_anterior": null,
+      "sha256_fonte_html": "cf056ca4d9d2acba4b51e5a65caf6b4e25b0dd447ea4a110e8ebe34841fed0f6",
+      "mudancas": [
+        {
+          "mudanca": "Escape somente do hífen literal após o marcador numérico; conserva a lista ordenada, seu marcador e o texto dos itens.",
+          "ocorrencias": 3
+        }
+      ],
+      "status": "replay_commonmark_estrutural_aprovado",
+      "pontuacao_numeros_contextos_iguais": true,
+      "tabelas_e_visuais_iguais": true,
+      "listas_preservadas": [
+        {
+          "start_HTML": 1,
+          "itens": [
+            {
+              "literal_MD": "1)",
+              "contador_HTML": 1,
+              "mesmo_numero": true,
+              "contexto": "\\- eleva-se para 107 o número de cargos da lotação suplementar da carreira de Guarda-fios;\n"
+            },
+            {
+              "literal_MD": "2)",
+              "contador_HTML": 2,
+              "mesmo_numero": true,
+              "contexto": "\\- Inclui-se um cargo da carreira de Guarda-fios na lotação suplementar da Diretoria Regional da Bahia;\n"
+            },
+            {
+              "literal_MD": "3)",
+              "contador_HTML": 3,
+              "mesmo_numero": true,
+              "contexto": "\\- passa a lotação numérica do Departamento dos Correios e Telégrafos a figurar com um total de 12.319 cargos, sendo 7.161 na lotação permanente e 5.1"
+            }
+          ]
+        }
+      ],
+      "sha256_visivel": "017395b82b459e7f98c85b5273f667d5ca5ed4a8bea07ec5716e06f287f5e311",
+      "sha256_render_html": "f752551ea14cb4fc72a55bba3036b9ade176c2b3bec3799d08ed993563d60aee"
+    },
+    {
+      "path": "federal/decretos/1945/dec-17931-1945-02-28.md",
+      "lote": 18,
+      "urn": "urn:lex:br:federal:decreto:1945-02-28;17931",
+      "candidato": "federal/_candidatos_commonmark_015018_20261021_001/dec-17931-1945-02-28.md",
+      "sha256_candidato": "ba54247c7b93af0aab5c3e3a11f68a78971d36079cc8957544107f71ee9c699c",
+      "preimagem_canonica_sha256": "5f53766dfa8a4e56fccb76ab54d85e88ce755394604bb2ac565dfed989041427",
+      "preimagem_privada": "federal/decretos/1945/dec-17931-1945-02-28.md",
+      "sha256_preimagem_privada": "5f53766dfa8a4e56fccb76ab54d85e88ce755394604bb2ac565dfed989041427",
+      "incorpora_privado_anterior": "federal/_candidatos_fidelidade_018_20261021_001/dec-17931-1945-02-28.md",
+      "sha256_fonte_html": "5b12e0d87c60be480129756fedf8a5a874120dbcbf582cbf218eae6afd1bb53b",
+      "mudancas": [
+        {
+          "mudanca": "Incorpora candidato privado anterior de correção estrita de markup, já preparado contra a mesma fonte."
+        }
+      ],
+      "status": "replay_commonmark_estrutural_aprovado",
+      "pontuacao_numeros_contextos_iguais": true,
+      "tabelas_e_visuais_iguais": true,
+      "listas_preservadas": [],
+      "sha256_visivel": "b4c0cea81448bae55a595ea8b74395ae1e0ba72e3c338d5a235d5f82186f5e37",
+      "sha256_render_html": "c5d4c581dbf4c4ee661b830f9628923d7c822bd3c36f058b1d36483433f0842f"
+    },
+    {
+      "path": "federal/decretos/1945/dec-17738-1945-02-02.md",
+      "lote": 18,
+      "urn": "urn:lex:br:federal:decreto:1945-02-02;17738",
+      "candidato": "federal/_candidatos_commonmark_015018_20261021_001/dec-17738-1945-02-02.md",
+      "sha256_candidato": "e02f68c5ca0137054bfbde804974a3dbb552e80fab82a5bf21b5052d367cfc59",
+      "preimagem_canonica_sha256": "5ecc9e6140cafb38cb2f744ba1d74fd143f5792a871d496f2fde55d304753b56",
+      "preimagem_privada": "federal/decretos/1945/dec-17738-1945-02-02.md",
+      "sha256_preimagem_privada": "5ecc9e6140cafb38cb2f744ba1d74fd143f5792a871d496f2fde55d304753b56",
+      "incorpora_privado_anterior": null,
+      "sha256_fonte_html": "e4abbdcba6821ed7aed0db93143d0d6b85b10339d2aeeb23fff03d62d5dbff00",
+      "mudancas": [
+        {
+          "antes": "75*. O*",
+          "depois": "75. O"
+        }
+      ],
+      "status": "replay_commonmark_estrutural_aprovado",
+      "pontuacao_numeros_contextos_iguais": true,
+      "tabelas_e_visuais_iguais": true,
+      "listas_preservadas": [
+        {
+          "start_HTML": 1,
+          "itens": [
+            {
+              "literal_MD": "1)",
+              "contador_HTML": 1,
+              "mesmo_numero": true,
+              "contexto": "os alunos das Escolas Preparatórias;"
+            }
+          ]
+        },
+        {
+          "start_HTML": 3,
+          "itens": [
+            {
+              "literal_MD": "3)",
+              "contador_HTML": 3,
+              "mesmo_numero": true,
+              "contexto": "as praças, em ordem hierárquica e de antiguidade;\n"
+            },
+            {
+              "literal_MD": "4)",
+              "contador_HTML": 4,
+              "mesmo_numero": true,
+              "contexto": "os civis que concorram pela primeira vez, em ordem de idade decrescente;\n"
+            },
+            {
+              "literal_MD": "5)",
+              "contador_HTML": 5,
+              "mesmo_numero": true,
+              "contexto": "os ex-alunos das Escolas Preparatórias;\n"
+            },
+            {
+              "literal_MD": "6)",
+              "contador_HTML": 6,
+              "mesmo_numero": true,
+              "contexto": "os ex-alunos do Colégio Militar;\n"
+            },
+            {
+              "literal_MD": "7)",
+              "contador_HTML": 7,
+              "mesmo_numero": true,
+              "contexto": "os civis que já tenham concorrido."
+            }
+          ]
+        }
+      ],
+      "sha256_visivel": "6d108808ca19db39829e34c35b44d23c08c9b2c3a1cb1dbe12245135cd6ced32",
+      "sha256_render_html": "28811a3e3216b762a51738f4c219eae340e0c1f1a9148b31bec767ac9fe47394"
+    },
+    {
+      "path": "federal/decretos/1944/dec-16822-1944-10-13.md",
+      "lote": 18,
+      "urn": "urn:lex:br:federal:decreto:1944-10-13;16822",
+      "candidato": "federal/_candidatos_commonmark_015018_20261021_001/dec-16822-1944-10-13.md",
+      "sha256_candidato": "48aed8dbb8a320da453aabe075f4f35927e803d0b59fc8b3d20f3786c8ca1b10",
+      "preimagem_canonica_sha256": "2ed4d539d0ddea438d84069bbedbc0d28ce0cd6660f7fe262b33a9ef43308e24",
+      "preimagem_privada": "federal/decretos/1944/dec-16822-1944-10-13.md",
+      "sha256_preimagem_privada": "2ed4d539d0ddea438d84069bbedbc0d28ce0cd6660f7fe262b33a9ef43308e24",
+      "incorpora_privado_anterior": "federal/_candidatos_fidelidade_018_20261021_001/dec-16822-1944-10-13.md",
+      "sha256_fonte_html": "dd96d96860da6f4f1bb76c5ca7fa48741bd8d32d308b0a9e306ba6c418999741",
+      "mudancas": [
+        {
+          "mudanca": "Incorpora candidato privado anterior de correção estrita de markup, já preparado contra a mesma fonte."
+        }
+      ],
+      "status": "replay_commonmark_estrutural_aprovado",
+      "pontuacao_numeros_contextos_iguais": true,
+      "tabelas_e_visuais_iguais": true,
+      "listas_preservadas": [],
+      "sha256_visivel": "8923237c86ec25ccad9810c027597b4972f747e0df4de65e2d6188627991a541",
+      "sha256_render_html": "0f5f91206e62f7144c2540df8420e48e8b1a2776ab05a0a7b2f84556f7185d1e"
+    },
+    {
+      "path": "federal/decretos/1944/dec-16823-1944-10-13.md",
+      "lote": 18,
+      "urn": "urn:lex:br:federal:decreto:1944-10-13;16823",
+      "candidato": "federal/_candidatos_commonmark_015018_20261021_001/dec-16823-1944-10-13.md",
+      "sha256_candidato": "5be42c9339c96246b748a0225a47df7f6f2b0e5b933b943c624b829a4da31b8e",
+      "preimagem_canonica_sha256": "2b36f73773bd1bf2fb54fd73af58b43424bda4cccc228dceaae84a7a3b026e2e",
+      "preimagem_privada": "federal/decretos/1944/dec-16823-1944-10-13.md",
+      "sha256_preimagem_privada": "2b36f73773bd1bf2fb54fd73af58b43424bda4cccc228dceaae84a7a3b026e2e",
+      "incorpora_privado_anterior": "federal/_candidatos_fidelidade_018_20261021_001/dec-16823-1944-10-13.md",
+      "sha256_fonte_html": "419f86f2dca32fc616ab63c1302eb77bf1fbf5fd27d3840ab81f2063916ef68a",
+      "mudancas": [
+        {
+          "mudanca": "Incorpora candidato privado anterior de correção estrita de markup, já preparado contra a mesma fonte."
+        }
+      ],
+      "status": "replay_commonmark_estrutural_aprovado",
+      "pontuacao_numeros_contextos_iguais": true,
+      "tabelas_e_visuais_iguais": true,
+      "listas_preservadas": [],
+      "sha256_visivel": "66bf7759c99635eaa301a5a5992eb5188190e35dc4cbf3e89405545363ab4f41",
+      "sha256_render_html": "8c55a7205ace507e44b4ac6c28fb772d669de17d62881501d6b39e35f2e2a1a4"
+    },
+    {
+      "path": "federal/decretos/1944/dec-16828-1944-10-13.md",
+      "lote": 18,
+      "urn": "urn:lex:br:federal:decreto:1944-10-13;16828",
+      "candidato": "federal/_candidatos_commonmark_015018_20261021_001/dec-16828-1944-10-13.md",
+      "sha256_candidato": "f4d82c573d25586a94da762649aa6975f3ace1a4e921d8905be6639d1a96118f",
+      "preimagem_canonica_sha256": "97e23cf5e730b64e1f72bbadb3489b055ae721b42d189789a76347994ca8c0bf",
+      "preimagem_privada": "federal/decretos/1944/dec-16828-1944-10-13.md",
+      "sha256_preimagem_privada": "97e23cf5e730b64e1f72bbadb3489b055ae721b42d189789a76347994ca8c0bf",
+      "incorpora_privado_anterior": "federal/_candidatos_fidelidade_018_20261021_001/dec-16828-1944-10-13.md",
+      "sha256_fonte_html": "c332e1baac322ddb7976598a2358b4b98f4bdbe4af6d2e5f3538185982856aee",
+      "mudancas": [
+        {
+          "mudanca": "Incorpora candidato privado anterior de correção estrita de markup, já preparado contra a mesma fonte."
+        }
+      ],
+      "status": "replay_commonmark_estrutural_aprovado",
+      "pontuacao_numeros_contextos_iguais": true,
+      "tabelas_e_visuais_iguais": true,
+      "listas_preservadas": [],
+      "sha256_visivel": "59cc061206a5fdcf5ea31c0dc89462a53a82891224343e944a72b22d826f8f53",
+      "sha256_render_html": "946bbfa8dff134e4ede477c87b621ecb924fa34304d9720577e35bd0e912abbd"
+    },
+    {
+      "path": "federal/decretos/1944/dec-16829-1944-10-13.md",
+      "lote": 18,
+      "urn": "urn:lex:br:federal:decreto:1944-10-13;16829",
+      "candidato": "federal/_candidatos_commonmark_015018_20261021_001/dec-16829-1944-10-13.md",
+      "sha256_candidato": "4128f61b60dec5dc3e5b40055b74ce09890a6ce2a6731288614f241aa6e4c012",
+      "preimagem_canonica_sha256": "49b4371b041d88c8bdbc44ea081c2528c38d822ee609833dd7a37c7b8ea03317",
+      "preimagem_privada": "federal/decretos/1944/dec-16829-1944-10-13.md",
+      "sha256_preimagem_privada": "49b4371b041d88c8bdbc44ea081c2528c38d822ee609833dd7a37c7b8ea03317",
+      "incorpora_privado_anterior": "federal/_candidatos_fidelidade_018_20261021_001/dec-16829-1944-10-13.md",
+      "sha256_fonte_html": "07702900326ebde2eb518c413196ad78ec2eb4f84ff7c4ccf393fef31f0d48a5",
+      "mudancas": [
+        {
+          "mudanca": "Incorpora candidato privado anterior de correção estrita de markup, já preparado contra a mesma fonte."
+        }
+      ],
+      "status": "replay_commonmark_estrutural_aprovado",
+      "pontuacao_numeros_contextos_iguais": true,
+      "tabelas_e_visuais_iguais": true,
+      "listas_preservadas": [],
+      "sha256_visivel": "418bd55d1c14a64aecfac2a331965ad37df250cd4856af950c56da53458019e5",
+      "sha256_render_html": "1f44706d39ae608db5605739da4099eb7716584b3e5a7b924aa265acf609eff2"
+    },
+    {
+      "path": "federal/decretos/1944/dec-16814-1944-10-12.md",
+      "lote": 18,
+      "urn": "urn:lex:br:federal:decreto:1944-10-12;16814",
+      "candidato": "federal/_candidatos_commonmark_015018_20261021_001/dec-16814-1944-10-12.md",
+      "sha256_candidato": "79a63b56d99e1a87be0273e8cc666be68aaf1bfad0270cf698da68b7a68afad6",
+      "preimagem_canonica_sha256": "45a67e286b808784deb3eab1dc89e15ce55d3db81d7e41e83fcd6426408dd04e",
+      "preimagem_privada": "federal/decretos/1944/dec-16814-1944-10-12.md",
+      "sha256_preimagem_privada": "45a67e286b808784deb3eab1dc89e15ce55d3db81d7e41e83fcd6426408dd04e",
+      "incorpora_privado_anterior": "federal/_candidatos_fidelidade_018_20261021_001/dec-16814-1944-10-12.md",
+      "sha256_fonte_html": "0d8ff731198493c0e3fd15b0ed9b4cb7f6fa62c822e2120cbb1e919175531bed",
+      "mudancas": [
+        {
+          "mudanca": "Incorpora candidato privado anterior de correção estrita de markup, já preparado contra a mesma fonte."
+        }
+      ],
+      "status": "replay_commonmark_estrutural_aprovado",
+      "pontuacao_numeros_contextos_iguais": true,
+      "tabelas_e_visuais_iguais": true,
+      "listas_preservadas": [],
+      "sha256_visivel": "1d5a59b8a6463899f623a9c5aeaf0e74bacaed6d2ab3c8eed30f3cbf20016ff7",
+      "sha256_render_html": "f1d453a20b7b8175985664a25d214bc58621c752ce26c7d82784344db7d6bc09"
+    },
+    {
+      "path": "federal/decretos/1944/dec-16815-1944-10-12.md",
+      "lote": 18,
+      "urn": "urn:lex:br:federal:decreto:1944-10-12;16815",
+      "candidato": "federal/_candidatos_commonmark_015018_20261021_001/dec-16815-1944-10-12.md",
+      "sha256_candidato": "6499b26dd8da6fe094fb993fea34feda8592af580fe6a5f5f02d6ae09bbad3ed",
+      "preimagem_canonica_sha256": "fcea1a1429de7be4fd87c356bdd38aece9337b890ccbb6e2a9263697ced08df9",
+      "preimagem_privada": "federal/decretos/1944/dec-16815-1944-10-12.md",
+      "sha256_preimagem_privada": "fcea1a1429de7be4fd87c356bdd38aece9337b890ccbb6e2a9263697ced08df9",
+      "incorpora_privado_anterior": "federal/_candidatos_fidelidade_018_20261021_001/dec-16815-1944-10-12.md",
+      "sha256_fonte_html": "da84d4929e3b333b0d61bf4789c2ed94bdca61f89ca892967a4b14bdc6727d3b",
+      "mudancas": [
+        {
+          "mudanca": "Incorpora candidato privado anterior de correção estrita de markup, já preparado contra a mesma fonte."
+        }
+      ],
+      "status": "replay_commonmark_estrutural_aprovado",
+      "pontuacao_numeros_contextos_iguais": true,
+      "tabelas_e_visuais_iguais": true,
+      "listas_preservadas": [],
+      "sha256_visivel": "6ccf4a034bf3d52f70d78a33e5e3d227267b408eb830106dbf487146aa28eaa0",
+      "sha256_render_html": "cf32d5fde71221491e2f544a333164dca655bdd28ab07e63c513abe1e359083a"
+    },
+    {
+      "path": "federal/decretos/1944/dec-16816-1944-10-12.md",
+      "lote": 18,
+      "urn": "urn:lex:br:federal:decreto:1944-10-12;16816",
+      "candidato": "federal/_candidatos_commonmark_015018_20261021_001/dec-16816-1944-10-12.md",
+      "sha256_candidato": "4be9c5383c09dcdbf563cc68beb34be12cb11987dabaf15001eb29a0c7cbe774",
+      "preimagem_canonica_sha256": "96ff31f7820f41e70f2ddc55063933b56c7bb2dc718105c6a9e60055ed510ec6",
+      "preimagem_privada": "federal/decretos/1944/dec-16816-1944-10-12.md",
+      "sha256_preimagem_privada": "96ff31f7820f41e70f2ddc55063933b56c7bb2dc718105c6a9e60055ed510ec6",
+      "incorpora_privado_anterior": "federal/_candidatos_fidelidade_018_20261021_001/dec-16816-1944-10-12.md",
+      "sha256_fonte_html": "98274799a6f6126411c72cfbdcc06f54448fb917e0331070729ceafea3fe65d5",
+      "mudancas": [
+        {
+          "mudanca": "Incorpora candidato privado anterior de correção estrita de markup, já preparado contra a mesma fonte."
+        }
+      ],
+      "status": "replay_commonmark_estrutural_aprovado",
+      "pontuacao_numeros_contextos_iguais": true,
+      "tabelas_e_visuais_iguais": true,
+      "listas_preservadas": [],
+      "sha256_visivel": "e91c996936999dbcb6150f8167a75011cc6a5015be8e949e8aa9bc1005cfde45",
+      "sha256_render_html": "32d65b73998b92c6604dac62eece897ffaf742a8a34d0803718e9921a288ab3e"
+    }
+  ],
+  "limite": "Não certifica outras edições; os suplementos ausentes e quatro candidatos de HTML original são tratados separadamente."
+}

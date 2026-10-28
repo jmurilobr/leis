@@ -1,0 +1,178 @@
+---
+titulo: "Lei Ordinária nº 4.250, de 08 de maio de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4250"
+data: "2014-05-08"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/3728"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/1303/text"
+sha256_fonte: "b0b3ab9dbf31f42c787753d93a95031e3540d5ffebfcb99f4774c5c3325365ce"
+sha256_texto: "aa95426e3ce93541d948ee0bb89cc1d35034507b878b6f35913724d42e98531c"
+capturado_em_fonte: "2026-10-27T17:53:40.603730-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.250, de 08 de maio de 2014
+
+FAÇO SABER QUE A CÂMARA APROVOU E EU PROMULGO A SEGUINTE:
+
+
+LEI Nº 4250, DE 08 DE MAIO DE 2014.
+
+
+"Dispõe sobre a obrigatoriedade de manutenção de uma brigada profissional, composta por Bombeiros Civis, nos estabelecimentos que menciona e dá outras providências."
+
+
+Art. 1º.
+
+Fica instituída, no âmbito do Município de Barra Mansa, a obrigatoriedade de manutenção de equipes de Brigada Profissional, composta por Bombeiro Civil, nos estabelecimentos que esta Lei menciona.
+
+
+Art. 2º.
+
+Os estabelecimentos a que se refere o art.1º são:
+
+
+I –
+
+Shopping center;
+
+
+II –
+
+casa de shows e espetáculos;
+
+
+III –
+
+hipermercado;
+
+
+IV –
+
+grandes lojas de departamentos;
+
+
+V –
+
+campus universitário;
+
+
+VI –
+
+empresa de grande porte instalada em imóvel com área superior a 10.000 m² (dez mil metros quadrados);
+
+
+VII –
+
+qualquer estabelecimento de reunião pública, educacional ou eventos em área pública ou privada que receba grande concentração de pessoas, em número acima de 1000 (mil) ou com circulação média de 1500 (mil e quinhentas) pessoas por dia.
+
+
+§ 1º
+
+Para os fins do disposto nesta lei, considera-se:
+
+
+I –
+
+shopping Center: empreendimento empresarial, com reunião de lojas comerciais, restaurantes, cinemas, em um só conjunto arquitetônico;
+
+
+II –
+
+casa de shows e espetáculos: empreendimento destinado à realização de shows artísticos e/ou apresentação de peças teatrais e de reuniões públicas, em local cuja capacidade de lotação seja superior a 500 (quinhentos) lugares;
+
+
+III –
+
+hipermercado: supermercado grande. que, além dos produtos tradicionais, vendam outros como eletrodomésticos e roupas;
+
+
+IV –
+
+campus universitário: conjunto de faculdades e/ou escolas para especialização profissional e científica, instalado em imóvel com área superior a 3.000 m² (três mil metros quadrados).
+
+
+§ 2º
+
+no caso de hipermercados ou de outro estabelecimento mencionado nesta lei, que seja associado a shopping Center, a unidade de combate a incêndio poderá ser única, atendendo o shopping Center e o estabelecimento associado.
+
+
+Art. 3º.
+
+Cada brigada profissional deverá ser estruturada do seguinte modo:
+
+
+I –
+
+Recurso de Pessoal:
+
+
+a)
+
+pelo menos 2 (dois) Bombeiros civis por turno de trabalho, de nível básico, combatente direto ou não do fogo. Sendo que um pelo menos da equipe deva ser bombeiro feminino nos locais onde haja grande concentração de pessoas do sexo feminino;
+
+
+b)
+
+nos casos de shopping Center e locais de reunião pública deverá ser atendido o disposto na Legislação Estadual de Segurança Contra Incêndios do Corpo de Bombeiros do Estado do Rio de Janeiro.
+
+
+II –
+
+Recursos Materiais obrigatórios:
+
+
+a)
+
+equipamentos de proteção Individual e de Proteção Respiratória a expensas do empregador;
+
+
+b)
+
+uniforme a expensas do empregador. Não podendo ser semelhante aos uniformes utilizados por órgãos públicos e nem conter dístico ou símbolos públicos;
+
+
+c)
+
+materiais para inspeções preventivas e ações de resgate em locais de difícil acesso inerente aos riscos de cada planta;
+
+
+d)
+
+kit completo de primeiros socorros para ações de Suporte Básico de Vida, incluindo o Desfibrilador externo automático nos casos em que a lei exija;
+
+
+e)
+
+reciclagem anual de qualificação com carga horária mínima de 40 horas aulas. Sendo 10 horas aulas teóricas e 30 horas aulas práticas, abordando os riscos específicos da edificação, devendo ser emitido certificado por profissional habilitado de acordo com as exigências da Lei: 11.901/09;
+
+
+f)
+
+certificação anual de operação do Desfibrilador de acordo com as exigências da lei.
+
+
+Art. 4º.
+
+No caso de descumprimento aos termos desta lei, o estabelecimento pagará uma multa no valor de R$ 15.000.00 (quinze mil reais), atualizado anualmente com base no Índice do município - ou, em sua falta, em outro índice de referência, sendo que a reincidência implica a cassação do alvará de funcionamento.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor no prazo de 30 (trinta) dias, contado da data de sua publicação.
+
+
+CÂMARA MUNICIPAL DE BARRA MANSA, 05 DE MAIO DE 2014.
+
+
+MARCELO BORGES DA SILVA  
+PRESIDENTE
+

@@ -1,0 +1,121 @@
+{
+  "criterio": "Congela o próximo lote de candidatos TA, sem repetir identidades já examinadas.\n\nVersão 2: exporta diários/anexos apenas de portais selecionados, evitando exigir\nmetadados de tipos de portais sem candidatos neste lote.\n\nO limite é somente o tamanho do lote de trabalho. A coleta de portais continua;\nreexecuções com as exclusões anteriores cobrem os candidatos seguintes.\n",
+  "selecionados": 20,
+  "disponiveis_apos_exclusoes": 250,
+  "exclusoes": [],
+  "prefixos_origem": [
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-coerente-0001/sapl.agudo.rs.leg.br/resultados.jsonl",
+      "sha256_prefixo": "fe2187f082c32bfd6c66ef34981e25fda628828571130b88a83e5a2722186ab1",
+      "bytes_prefixo": 459690
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-coerente-0001/sapl.portovelho.ro.leg.br/resultados.jsonl",
+      "sha256_prefixo": "4aae4f12d560a1fe6853ba50551791db37c563115ce6ede653f1f8d410b24a23",
+      "bytes_prefixo": 632940
+    }
+  ],
+  "script_sha256": "ed1f0a1eaeda7c9c3f1271ecdbbae4634b92e070bb936d4d89f3e5d2ac57f520",
+  "identidades": [
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 6115,
+      "norma_id": 5436
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 10801,
+      "norma_id": 29908
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 6114,
+      "norma_id": 5435
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 10800,
+      "norma_id": 29907
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 6113,
+      "norma_id": 5434
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 10777,
+      "norma_id": 29905
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 130,
+      "norma_id": 2450
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 10769,
+      "norma_id": 29904
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 27,
+      "norma_id": 2428
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 10768,
+      "norma_id": 29903
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 2446,
+      "norma_id": 2444
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 10765,
+      "norma_id": 29899
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 4453,
+      "norma_id": 2342
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 10717,
+      "norma_id": 29892
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 125,
+      "norma_id": 2324
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 10755,
+      "norma_id": 29897
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 4452,
+      "norma_id": 2341
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 10737,
+      "norma_id": 29896
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 4449,
+      "norma_id": 2340
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 10736,
+      "norma_id": 29895
+    }
+  ]
+}

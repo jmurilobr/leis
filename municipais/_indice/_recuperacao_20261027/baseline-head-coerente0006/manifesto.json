@@ -1,0 +1,50 @@
+{
+  "commit": "437a5942993fdea026480fd32d9e955fd1b459f2",
+  "escopo": "git ls-tree -r -z COMMIT -- municipais; somente Markdown canônico regular",
+  "capturado_em": "2026-10-27T22:32:44.863430-03:00",
+  "normas_head": 27626,
+  "reservas": [
+    {
+      "recibo": "municipais/_indice/_recuperacao_20261027/agregado3228-final/entrega-final.json",
+      "sha256": "b943946e069070e2d72ea8d367a9179f04592b3502e2b17c0c381f3341994f5e",
+      "normas": 3228,
+      "ja_no_head": [],
+      "adicionadas": 3228
+    }
+  ],
+  "total": 30854,
+  "metadados": "municipais/_indice/_recuperacao_20261027/baseline-head-coerente0006/metadados-integrais.jsonl.gz",
+  "arquivos": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/baseline-head-coerente0006/metadados-integrais.jsonl.gz",
+      "sha256": "1a3b39db1a2735bcbc417ad8f6448c22191723ad7239f044698d4aa35a05c406",
+      "bytes": 9139734
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/baseline-head-coerente0006/normas.paths.txt",
+      "sha256": "b3e68e71ae735dad48aa42e9ec287695fe45846494581b4d0a60a8aab8751435",
+      "bytes": 2478917
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/baseline-head-coerente0006/ls-tree-municipais.z",
+      "sha256": "e44418254b926549dd0444ee924dcba1514b298771b4fb5af221d7a06ff64956",
+      "bytes": 17397319
+    },
+    {
+      "arquivo": "scripts/congelar_baseline_municipal_head_20261027.py",
+      "sha256": "191f21e4b21378dd1abaa6609328adf379c8e8c1831ae49b78d231d842a317bf",
+      "bytes": 6132
+    },
+    {
+      "arquivo": "scripts/auditar_colisoes_lote_municipal.py",
+      "sha256": "9a2352f632d8255cfae6f0317caf62a77b84b41a548e4112fe7ae971ac3a434c",
+      "bytes": 3135
+    },
+    {
+      "arquivo": "scripts/auditar_municipal.py",
+      "sha256": "817f196f53162076bac125fb7c509e9ba6d9479e9aa6918ae5428822dec43ac8",
+      "bytes": 8443
+    }
+  ],
+  "limite": "Metadados extraídos do blob completo por OID; cabeçalhos literais integrais preservados. Snapshot não certifica vigência ou identidade correta do acervo anterior."
+}

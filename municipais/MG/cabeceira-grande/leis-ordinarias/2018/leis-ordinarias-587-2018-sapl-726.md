@@ -1,0 +1,573 @@
+---
+titulo: "LEI ORDINÁRIA nº 587, de 24 de abril de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "587"
+data: "2018-04-24"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/726"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/459/text"
+sha256_fonte: "c8b160fffb9cf5a468bb73b2346524524575e30f5a8a2f16f09e0f886c144ea5"
+sha256_texto: "24e80c35244a04a7d41b651b4ecdbd7b185039a040929040205b4a20cc1a65bc"
+capturado_em_fonte: "2026-10-27T20:19:06.890037-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 587, de 24 de abril de 2018
+
+**Institui o Fundo Municipal de Educação – FME e dá outras providências.**
+
+
+**O PREFEITO DO MUNICÍPIO DE CABECEIRA GRANDE**, Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 76, inciso III da Lei Orgânica do Município, faz saber que a Câmara Municipal de Cabeceira Grande decreta e ele, em seu nome, sanciona e promulga a seguinte Lei:
+
+
+#### CAPÍTULO I — DISPOSIÇÃO PRELIMINAR
+
+
+Art. 1º.
+
+Fica instituído o Fundo Municipal de Educação, identificado pela sigla FME, vinculado à Secretaria Municipal da Educação, destinado a assegurar o aporte de recursos financeiros, prioritariamente, relacionados ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação – Fundeb, em conformidade com o disposto na Portaria Conjunta n.º 2, de 15 de janeiro de 2018 (ou outro ato que o venha substituir), da Secretaria do Tesouro Nacional e do Fundo Nacional de Desenvolvimento da Educação, sem prejuízo de vir a abranger, gradativamente, os demais recursos financeiros da Educação.
+
+
+#### CAPÍTULO II — DA ADMINISTRAÇÃO DO FUNDO
+
+
+##### Seção I — Disposições Preliminares
+
+
+Art. 2º.
+
+O FME será administrado pelo Comité Gestor, composto de 7 (sete) membros, observada a disposição transitória prevista no artigo 27 desta Lei, e formado por dois órgãos assim constituídos:
+
+
+I –
+
+Diretoria Executiva, que cuidará da gestão financeira, operacional, orçamentária, administrativa, patrimonial, contábil e assuntos correlatos do fundo; e
+
+
+II –
+
+Conselho Fiscal, que cuidará dos atos de fiscalização, controladoria, auditoria e assuntos correlatos do fundo.
+
+
+§ 1º
+
+A Diretoria Executiva será formada pelos seguintes cargos e membros:
+
+
+I –
+
+Presidente, que será o Secretário Municipal da Educação;
+
+
+II –
+
+Tesoureiro, que será, obrigatoriamente, servidor ocupante de cargo de provimento efetivo, com habilitação mínima em Ensino Médio, e preferencialmente com formação na área de Contabilidade, sendo o responsável pela execução financeira, orçamentaria, operacional e patrimonial do fundo, a ser designado pelo Secretário Municipal da Educação; e
+
+
+III –
+
+Secretário que também atuará como Vice-Presidente, a ser designado pelo Secretário Municipal da Educação.
+
+
+§ 2º
+
+O Conselho Fiscal será formado pelos seguintes membros:
+
+
+I –
+
+um representante do Conselho Municipal de Educação;
+
+
+II –
+
+um representante do Conselho Municipal de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação – Conselho do Fundeb;
+
+
+III –
+
+um representante do Conselho Municipal de Alimentação Escolar; e
+
+
+IV –
+
+um representante da Comissão de Gestão dos Planos de Carreiras do Magistério Público e da Educação Básica.
+
+
+§ 3º
+
+O mandato dos membros do Comitê Gestor do FME será de 4 (quatro) anos, com direito a recondução por uma única vez.
+
+
+§ 4º
+
+Ao servidor ocupante de cargo de provimento efetivo designado para o exercício da função gratificada/confiança de Tesoureiro do FME, será concedida, pelo Prefeito, gratificação entre 10% (dez por cento) a 90% (noventa por cento) incidente sobre o vencimento-base do servidor designado, cujo valor não será incorporado, cujos efeitos financeiros somente serão produzidos após o efetivo exercício na função, sopesada a disposição transitória prevista no artigo 27 desta Lei.
+
+
+##### Seção II — Da Gestão Financeira do FME
+
+
+Art. 3º.
+
+A gestão financeira do FME, observada a disposição transitória prevista no artigo 27 desta Lei, envolve as seguintes atribuições básicas desempenhadas conjuntamente pelo Presidente e Tesoureiro:
+
+
+I –
+
+assinatura de empenhos, notas de autorização de pagamento e atos assemelhados relacionados aos processos de despesa do Fundo;
+
+
+II –
+
+autorização da liberação de suprimento de fundos e a realização de despesa em regime contábil de adiantamento, inclusive diárias, na forma da lei;
+
+
+III –
+
+despacho das requisições de compras, obras e serviços efetuadas pelas unidades administrativas vinculadas ao Fundo;
+
+
+IV –
+
+abertura de contas de depósito, autorização de cobrança, solicitação de saldos, extratos, comprovantes, requisição de talonários de cheques, retirada de cheques devolvidos, endosso de cheques, sustação e contra ordenação de cheques, cancelamento de cheques, baixa de cheques, efetuar resgastes/aplicações financeiras, cadastrais, alteração e desbloqueio de senhas, efetuar pagamentos por meio eletrônico, efetuar transferências por meio eletrônico, efetuar movimentação financeira no RPG, consulta de contas/aplicação, programas de repasse e recursos, liberação de arquivos de pagamento no geral, saldos/extratos de investimentos, emissão de comprovantes, efetuar transferência para mesma titularidade, encerramento de contas de depósito, assinatura de cheques e ordens bancárias;
+
+
+V –
+
+homologação de licitações em procedimentos licitatórios, referentes à contratação de obras, compras e serviços no âmbito do Fundo, observado o disposto na legislação de regência das licitações e contratos, se houver a delegação de competência por parte do Prefeito;
+
+
+VI –
+
+assinatura de contratos de direito administrativo e os contratos da administração, se houver a delegação de competência por parte do Prefeito, ressalvados aqueles que, por imposição legal ou convenial, for exigida, em caráter exclusivo, a assinatura de outra autoridade; e
+
+
+VII –
+
+promoção de despacho decisório em todos os processos administrativos sujeitos à sua apreciação no âmbito do Fundo.
+
+
+##### Seção III — Das Atribuições Específicas dos Membros do Comitê Gestor
+
+
+Art. 4º.
+
+Sem prejuízo do disposto no artigo 3º desta Lei, são atribuições do Presidente da Diretoria Executiva do Comitê Gestor:
+
+
+I –
+
+apresentar anualmente o Plano de Aplicação de Recursos, o qual deverá ser elaborado em conjunto com o Conselho Municipal de Educação e outros órgãos afetos à Educação;
+
+
+II –
+
+coordenar a execução do plano referido no inciso I deste artigo à disponibilidade financeira;
+
+
+III –
+
+preparar e apresentar aos colegiados afetos à Educação e ao Ministério Público, após a aprovação do Comitê Gestor, Plano de Aplicação de Recursos, bem como a demonstração mensal de receitas e despesas do FME;
+
+
+IV –
+
+assinar os documentos necessários à liquidação das despesas contraídas pelo FME;
+
+
+V –
+
+manter os controles necessários das receitas e despesas do FME;
+
+
+VI –
+
+encaminhar à contabilidade geral do Município:
+
+
+a)
+
+trimestralmente, o demonstrativo de receitas e despesas; e
+
+
+b)
+
+anualmente, o inventário de bens móveis e de balanço geral.
+
+
+VII –
+
+firmar, com o responsável pelo controle de execução orçamentária, os demonstrativos referidos nas alíneas do inciso VI deste artigo;
+
+
+VIII –
+
+providenciar, em periodicidade trimestral, junto ao setor de contabilidade do Município, a elaboração de demonstrativo que indique a situação econômico-financeira do FME e apresentá-la, com a devida avaliação, ao Comitê Gestor, aos colegiados afetos à Educação e ao Ministério Público;
+
+
+IX –
+
+manter o controle dos contratos e convênios onerosos e que envolvam recebimentos de verbas com instituições governamentais e não governamentais;
+
+
+X –
+
+praticar os demais atos de gestão do FME; e
+
+
+XI –
+
+exercer outras atribuições correlatas, inclusive aquelas decorrentes da implementação da Portaria Conjunta STN/Fundeb n.º 2, de 2018.
+
+
+Art. 5º.
+
+Ao Vice-Presidente, função exercida pelo Secretário, compete substituir o Presidente em suas faltas, afastamentos e/ou impedimentos, entre outras atribuições delegadas ou acometidas pelo Presidente.
+
+
+Art. 6º.
+
+Sem prejuízo do disposto no artigo 4º desta Lei, são atribuições do Tesoureiro:
+
+
+I –
+
+gerir a contabilidade e as finanças do FME;
+
+
+II –
+
+assinar, juntamente com o Presidente, cheques e demais documentos financeiros;
+
+
+III –
+
+elaborar plano financeiro para fazer parte do Plano Anual de Trabalho;
+
+
+IV –
+
+apresentar, em periodicidade mensal, a situação financeira do FME;
+
+
+V –
+
+elaborar balancete semestral e anual;
+
+
+VI –
+
+elaborar e ter sob sua guarda e responsabilidade o arquivo financeiro do fundo; e
+
+
+VII –
+
+– exercer outras atribuições correlatas, inclusive aquelas decorrentes da implementação da Portaria Conjunta STN/Fundeb n.º 2, de 2018.
+
+
+Art. 7º.
+
+São atribuições do Secretário:
+
+
+I –
+
+secretariar, elaborar pautas e redigir relatórios, correspondências, portarias, resoluções, editais, atas das reuniões e demais documentos de interesse do Comitê Gestor;
+
+
+II –
+
+organizar e manter atualizado os arquivos do Conselho Gestor; e
+
+
+III –
+
+exercer outras atribuições correlatas.
+
+
+Art. 8º.
+
+São atribuições do Conselheiro Fiscal:
+
+
+I –
+
+acompanhar a organização dos serviços técnicos do Fundo;
+
+
+II –
+
+acompanhar a execução orçamentária, em face dos documentos de receita e despesa e verificar os balancetes periódicos;
+
+
+III –
+
+proceder à fiscalização dos demais atos gerenciais do Fundo; e
+
+
+IV –
+
+exercer outras atribuições correlatas.
+
+
+Art. 9º.
+
+A participação no Comitê Gestor não será remunerada, considerada, porém, de relevante interesse público, à exceção da função de Tesoureiro do FME, que será bonificada por meio de gratificação.
+
+
+Art. 10.
+
+Todos os assuntos tratados em reuniões ordinárias ou extraordinárias do Comitê Gestor deverão ser registrados em atas devidamente assinadas.
+
+
+#### CAPÍTULO III — DOS RECURSOS DO FUNDO MUNICIPAL DE EDUCAÇÃO E NORMAS CONTÁBEIS, FINANCEIRAS, FISCAIS E DE CONTROLADORIA
+
+
+##### Seção I — Dos Recursos Financeiros
+
+
+Art. 11.
+
+Constituem receitas do FME:
+
+
+I –
+
+as transferências oriundas do disposto no artigo 212 da Constituição Federal, que exige aplicação de 25% (vinte e cinco por cento) das receitas resultantes dos impostos e transferências na manutenção e no desenvolvimento do ensino;
+
+
+II –
+
+as transferências do Fundo Nacional de Desenvolvimento da Educação – FNDE;
+
+
+III –
+
+as transferências do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação – Fundeb, ou outro que o venha substituir;
+
+
+IV –
+
+dotações orçamentárias que lhe forem destinadas pelo Tesouro do Município;
+
+
+V –
+
+recursos provenientes de convênios firmados pela Secretaria Municipal da Educação com outras entidades; e
+
+
+VI –
+
+demais recursos financeiros oriundos do Ministério da Educação.
+
+
+Parágrafo único
+
+Os recursos do FME serão obrigatoriamente depositados em banco oficial, em conta bancária específica do Fundo Municipal de Educação, nos termos do disposto na Portaria Conjunta STN/FNDE n.º 2, de 2018.
+
+
+Art. 12.
+
+A movimentação dos recursos do Fundo será feita pela Diretoria Executiva, observado o Plano de Aplicação e exigirá a assinatura do Presidente e do Tesoureiro da Diretoria Executiva do Comitê Gestor.
+
+
+##### Seção II — Do Orçamento e da Contabilidade
+
+
+Art. 13.
+
+O orçamento do FME integrará o Orçamento Geral do Município, em obediência ao princípio da unidade.
+
+
+Art. 14.
+
+O orçamento do Fundo observará, na sua elaboração e execução, os padrões e as normas estabelecidas pela Secretaria do Tesouro Nacional – STN e na legislação vigente.
+
+
+Art. 15.
+
+O Fundo Municipal de Educação terá prestação de contas que obedecerá às normas da contabilidade do Município.
+
+
+§ 1º
+
+A contabilidade emitirá relatórios mensais de gestão, entendidos como balancetes de receita e de despesa do Fundo Municipal de Educação e relação dos pagamentos efetuados com recursos do Fundo.
+
+
+§ 2º
+
+As demonstrações e os relatórios gerados pela contabilidade do Fundo Municipal de Educação passarão a integrar a contabilidade geral do Município, de acordo com o Plano de Contas Aplicado ao Setor Público – PCASP.
+
+
+##### Seção III — Da Prestação de Contas
+
+
+Art. 16.
+
+A prestação de contas far-se-á em forma contábil, a ser subscrita pelo responsável técnico competente, precedida de parecer do Conselheiro Fiscal, devendo ser apresentada, em periodicidade semestral, ao Ministério Público do Estado de Minas Gerais – Comarca de Unaí, e, anualmente, ao Prefeito Municipal para que possa ser integrada à contabilidade geral e à prestação de contas do Município, sem prejuízo da possibilidade de requisição direta, pelo órgão ministerial oficiante, se for o caso.
+
+
+Art. 17.
+
+A prestação de contas se comporá, além de outras peças usuais, de relatório de gestão e de demonstrações contábeis e financeiras com as respectivas notas explicativas.
+
+
+##### Seção IV — Dos Instrumentos de Transparência da Gestão do Fundo
+
+
+Art. 18.
+
+É obrigatória a divulgação das prestações de contas e das ações implementadas pelo FME eletronicamente, por intermédio da página da Prefeitura Municipal de Cabeceira Grande na Internet ou do próprio Fundo, bem como em sistemas governamentais de prestação de contas, inclusive o Sistema de Informações sobre Orçamentos Públicos em Educação – Siope do FNDE.
+
+
+Art. 19.
+
+Serão adotados instrumentos que concorram ao atendimento da transparência da gestão fiscal do FME, sem prejuízo da observância da legislação federal que regulamenta o acesso à informação e a transparência da gestão pública.
+
+
+##### Seção V — Do Controle Externo do Fundo
+
+
+Art. 20.
+
+O FME se sujeita ao controle externo, a ser exercido pelo Poder Legislativo Municipal de Cabeceira Grande e pelo Tribunal de Contas do Estado de Minas Gerais através dos mecanismos e meios próprios.
+
+
+##### Seção VI — Da Observância à Legislação de Regência
+
+
+Art. 21.
+
+O FME será regido de acordo com a Lei Federal n.º 4.320, de 17 de março de 1964, com a Lei Complementar n.º 101, de 4 de maio de 2000, com o Manual de Contabilidade Aplicado ao Setor Público – MCASP, e demais legislações de regência, inclusive oriundas da Secretaria do Tesouro Nacional – STN.
+
+
+##### Seção VII — Da execução orçamentária e das despesas
+
+
+Art. 22.
+
+Os recursos do Fundo Municipal de Educação serão aplicados em:
+
+
+I –
+
+programas e projetos de melhoria da qualidade de ensino e aumento do nível de escolaridade da população;
+
+
+II –
+
+programas, ações e metas constantes nos Plano Municipal de Educação, Plano Estadual de Educação e no Plano Nacional de Educação;
+
+
+III –
+
+democratização da gestão da educação pública;
+
+
+IV –
+
+o financiamento total ou parcial dos projetos e programas constantes do Plano de Aplicação de Recursos;
+
+
+V –
+
+o atendimento de despesas diversas de caráter urgente e inadiável no cumprimento do Plano de Aplicações de Recursos;
+
+
+VI –
+
+o custeio das suas despesas de funcionamento; e
+
+
+VII –
+
+outras despesas relacionadas à Educação.
+
+
+Art. 23.
+
+Nenhuma despesa será realizada sem a necessária autorização orçamentária.
+
+
+Parágrafo único
+
+Para os casos de insuficiência e omissões orçamentárias poderão ser utilizados os créditos adicionais, suplementares e especiais, autorizados por lei e abertos por Decreto do Chefe do Poder Executivo.
+
+
+#### CAPÍTULO IV — DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+
+
+Art. 24.
+
+O Fundo Municipal de Educação terá vigência ilimitada.
+
+
+Art. 25.
+
+O FME somente poderá ser extinto:
+
+
+I –
+
+mediante lei municipal, após demonstração administrativa ou judicial de que ele não vem cumprindo com seus objetivos; ou
+
+
+II –
+
+mediante decisão judicial.
+
+
+Parágrafo único
+
+O patrimônio eventualmente apurado quando de sua extinção e as receitas de seus direitos creditórios serão absorvidos pelo Poder Público Municipal, na forma como a lei ou decisão judicial, se for o caso, dispuser.
+
+
+Art. 26.
+
+A composição e formação do Comitê Gestor, com sua Diretoria Executiva e Conselho Fiscal, deverão ser efetuadas no prazo de até 90 (noventa) dias, contados a partir da data de publicação desta Lei.
+
+
+Parágrafo único
+
+No prazo máximo de 90 (noventa) dias após a composição e formação referidas no caput deste artigo, o Presidente da Diretoria Executiva do Comitê Gestor do FME apresentará o Plano de Aplicação de Recursos de que trata esta Lei.
+
+
+Art. 27.
+
+Até que se implemente a estruturação administrativa, física, operacional e financeira do Fundo Municipal de Educação, as competências e atribuições do Presidente e Tesoureiro da Diretoria Executiva do Comitê Gestor do FME serão delegadas ao Prefeito (Presidente) e ao Assessor Municipal de Assuntos Fazendários (Tesoureiro), por meio de Resolução firmada pelo Conselho Municipal de Educação, notadamente com relação à gestão e movimentação financeira do fundo.
+
+
+Art. 28.
+
+Integrarão o FME, prioritariamente, os recursos financeiros relacionados ao Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação – Fundeb, em conformidade com o disposto na Portaria Conjunta n.º 2, de 2018 (ou outro ato que o venha substituir), da Secretaria do Tesouro Nacional e do Fundo Nacional de Desenvolvimento da Educação, devendo haver, gradativamente, a abrangência dos demais recursos financeiros da Educação.
+
+
+Art. 29.
+
+O Secretário Municipal da Educação e o Conselho Municipal de Educação poderão editar atos complementares necessários ao cumprimento das disposições contidas nesta Lei.
+
+
+Art. 30.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Cabeceira Grande, 24 de abril de 2018; 22º da Instalação do Município.
+
+**ODILON DE OLIVEIRA E SILVA**
+
+**Prefeito**
+
+DAILTON GERALDO RODRIGUES GONÇALVES
+
+Consultor Jurídico, Legislativo, de Governo e Assuntos Administrativos e Institucionais
+
+**"Este texto não substitui o original."**
+

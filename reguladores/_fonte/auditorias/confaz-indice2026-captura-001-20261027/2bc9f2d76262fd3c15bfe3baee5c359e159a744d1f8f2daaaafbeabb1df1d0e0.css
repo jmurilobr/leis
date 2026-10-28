@@ -1,0 +1,92 @@
+
+/* - confaz-print.css - */
+@media print {
+/* Hide all the elements that are irrelevant for printing */
+body {
+    -webkit-print-color-adjust: exact;
+    font-size:12.0pt;
+    font-family:"Times New Roman";
+}
+
+div.top,
+#portal-logo,
+#portal-siteactions,
+.hiddenStructure,
+#portal-searchbox,
+#portal-globalnav,
+#portal-personaltools,
+#portal-breadcrumbs,
+#edit-bar,
+#portal-column-one,
+#portal-column-two,
+#portal-languageselector,
+.contentViews,
+.contentActions,
+.help,
+.legend,
+.portalMessage,
+.documentActions,
+.netscape4,
+#viewlet-below-content .reply,
+#viewlet-below-content .discussion,
+#kss-spinner,
+#review-history,
+#content-history,
+.listingBar,
+#portal-footer,
+#portal-colophon,
+.skipnav,
+#kss-spinner,
+#review-history,
+#content-history,
+.listingBar,
+.link-presentation,
+input.standalone,
+.overlay,
+.managePortletsFallback,
+.close,
+.link-parent,
+.draggingHook,
+#foldercontents-order-column,
+input.context,
+.visualNoPrint,
+#accessibility,
+#accessibility-wrapper,
+#barra-identidade,
+#viewlet-below-content-title,
+#navigation,
+#menuTrigger,
+#wrapper #header,
+#wrapper #footer,
+#wrapper #extra-footer,
+#voltar-topo {
+    display: none;
+}
+
+#wrapper { width: 100% !important; }
+
+table.listing {
+    border-bottom: 1px solid #aeb3b6;
+    border-left: 0 none;
+}
+table.listing tr.odd th, table.listing tr.even th {
+    border: 0 none;
+    font-size: 1.2em;
+}
+table.listing tbody tr td {
+    background: #f5f5f5 none repeat scroll 0 0;
+    border-bottom: 1px dotted #d5d5d5;
+}
+table.listing tbody tr.odd td {
+    background: #fff none repeat scroll 0 0;
+}
+table.listing tbody th {
+    background: #fff none repeat scroll 0 0;
+    border-bottom: 1px solid #79838c !important;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top: 4px solid #172838 !important;
+    font-weight: bold;
+}
+}
+

@@ -1,0 +1,23 @@
+---
+titulo: "PORTARIA Nº 1.121, DE 5 DE JULHO DE 2018"
+orgao: "Presidência da República/Casa Civil/Instituto Nacional de Colonização e Reforma Agrária/Gabinete"
+tipo: "Portaria"
+numero: "1121"
+data: 2018-07-05
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/07/2018, seção 1, p. 5"
+data_publicacao: 2018-07-09
+edicao: "130"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-1-121-de-5-de-julho-de-2018-29138532"
+sha256_html_fonte: d0bd814787912ed46319574bd7fc2a5407c87bb7e821603294e5a286ab3249a7
+baixado_em: 2026-10-27
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# PORTARIA Nº 1.121, DE 5 DE JULHO DE 2018
+
+<div class="texto-dou"><p class="identifica">PORTARIA Nº 1.121, DE 5 DE JULHO DE 2018</p><p class="dou-paragraph" ><strong class="dou-strong" >O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA,</strong>no uso das atribuições que lhe são conferidas pelo Art. 21 da Estrutura Regimental, aprovada pelo Decreto n° 8.955, de 11 de janeiro de 2017, combinado com os incisos I e X do Art. 107 do Regimento Interno, aprovado pela Portaria n° 338, de 13 de março de 2018, e</p><p class="dou-paragraph" >Considerando que o Juízo Auxiliar de Execução do Tribunal Regional do Trabalho da 20° Região publicou Edital de Hasta Pública Unificada em 13/06/2018, no qual o lote n° 30 refere-se ao imóvel "Fazenda Cajá", matricula n° 2.713, Livro 2-J, registrado no Cartório da Comarca de Umbaúba/SE; possuindo um total de 278,58 hectares de área medida, com lance mínimo de R$ 715.227,09 (setecentos e quinze mil, duzentos e vinte e sete reais e nove centavos) acrescidos de 5% relativos à comissão do leiloeiro, totalizando R$ 750.988,44 (setecentos e cinquenta mil, novecentos e oitenta e oito reais e quarenta e quatro centavos);</p><p class="dou-paragraph" >Considerando que a Superintendência Regional de Sergipe relata interesse na obtenção do imóvel para atendimento de demanda de trabalhadores que perdura há 05 (cinco) anos;</p><p class="dou-paragraph" >Considerando que em novembro de 2016, o imóvel foi objeto de vistoria e avaliação, sendo constatada sua viabilidade técnica para fins de assentamento de trabalhadores rurais nos termos do Relatório de Vistoria e Avaliação constante do procedimento administrativo n° 54370.000386/2014-84;</p><p class="dou-paragraph" >Considerando os termos da Instrução Normativa INCRA/N° 83/2015, que estabelece diretrizes para as ações de obtenção de imóveis rurais e em seus artigos 47 e 48 disciplina a aquisição de imóveis rurais em hasta pública, com a expressa autorização do Presidente do INCRA;</p><p class="dou-paragraph" >Considerando os pareceres técnico e jurídico favoráveis, emitidos no âmbito da Superintendência Regional de Sergipe;</p><p class="dou-paragraph" >Considerando que a proposta foi aprovada pelo Comitê de Decisão Regional - CDR, conforme Ata de Reunido do dia 28/06/2018 e RESOLUÇÃO/CDR/SR23/SE/N003/2018, de 28 de julho de 2018., constante no processo administrativo n° 54370.000386/2014-84;</p><p class="dou-paragraph" >Considerando que o imóvel está inserido no Mercado Regional de Terras do Sul Sergipano, que tem como parâmetro médio de custo/família o valor de R$ 161.997,54 (cento e sessenta e um mil, novecentos e noventa e sete reais e cinquenta e quatro centavos), abaixo, portanto, do custo/família baseado no lance mínimo de arrematação que é de R$ 55.017,47 (cinquenta e cinco mil, dezessete reais e quarenta e sete centavos);</p><p class="dou-paragraph" >Considerando as manifestações favoráveis da Diretoria de Obtenção de Terras e Implantação de Projetos de Assentamento - DT e da Procuradoria Federal Especializada - PFE/SEDE, nos autos em referência, resolve:</p><p class="dou-paragraph" >Art. 1° Autorizar a Superintendência Regional do INCRA em Sergipe (SR-23) a participar de Hasta Pública do imóvel rural denominado "Fazenda Cajá", matricula n° 2.713, Livro 2-J, registrado no Cartório da Comarca de Umbaúba/SE, possuindo um total de área medida de 278,58 hectares, pelo valor correspondente ao lance mínimo de R$ 715.227,09 (setecentos e quinze mil, duzentos e vinte e sete reais e nove centavos) acrescidos de 5% relativos à comissão do leiloeiro, totalizando R$ 750.988,44 (setecentos e cinquenta mil, novecentos e oitenta e oito reais e quarenta e quatro centavos).</p><p class="dou-paragraph" >Art. 2° Esta Portaria entra em vigor na data de sua publicação.</p><p class="assina">LEONARDO GÓES SILVA</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

@@ -1,0 +1,85 @@
+---
+titulo: "Lei nº 1.860, de 30 de novembro de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1860"
+data: "2022-11-30"
+municipio: "Cunha"
+uf: "SP"
+codigo_ibge: "3513603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cunha.sp.leg.br/norma/1348"
+fonte_texto: "https://sapl.cunha.sp.leg.br/ta/93/text"
+sha256_fonte: "04cafb971e9015de951b11b37b5bade768f43d441e503e04f23d29510f1ed413"
+sha256_texto: "57905943f50d582d4a0160d458eb09ac8ff78e1aea046c1601657a4f6f08524e"
+capturado_em_fonte: "2026-10-28T09:41:04.355588-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 1.860, de 30 de novembro de 2022
+
+Dispõe sobre a criação de cargos de provimento efetivo junto ao CREAS, no anexo I da Lei Municipal nº 664/1993, e dá outras providências.
+
+
+José Éder Galdino da Costa, Prefeito Municipal da Estância Climática de Cunha, no uso de suas atribuições legais, que lhe são conferidas por Lei, faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado junto ao Anexo I da Lei Municipal nº 664/1993, os seguintes cargos de provimento efetivo:
+
+
+I –
+
+Reprovado.
+
+
+II –
+
+Reprovado
+
+
+III –
+
+Psicólogo do Centro de Referência Especializado de Assistência Social (CREAS), com 1 (UMA) vaga, com exigência de nível superior completo em Psicologia, inscrição no referido órgão de classe, nível de referência 27, com carga horária semanal de trabalho de 40 (quarenta) horas, de provimento por meio de concurso público, com as seguintes atribuições: Subsidiar a elaboração de projetos pedagógicos, planos e estratégias a partir de conhecimentos da Psicologia do desenvolvimento e da aprendizagem; Participar da elaboração, execução e avaliação de políticas públicas voltadas à educação; Contribuir para a promoção dos processos de aprendizagem, buscando, juntamente com as equipes pedagógicas, garantir o direito a inclusão de todas as crianças e adolescentes; Orientar ações e estratégias voltadas a casos de dificuldades nos processos de ensino-aprendizagem, evasão escolar, atendimento educacional especializado; Realizar avaliação psicológica ante as necessidades específicas identificadas no processo ensino-aprendizado; Auxiliar equipes da rede pública na integração comunitária entre a escola, o estudante e a família; Contribuir na formação continuada de profissionais da educação; Participar da elaboração de projetos de educação e orientação profissional; Contribuir em programas e projetos desenvolvidos na escola; Promover relações colaborativas no âmbito da equipe multiprofissional e entre a escola, família e a comunidade; Colaborar com ações de enfrentamento à violência e aos preconceitos; Propor articulação intersetorial no território, visando à integralidade de atendimento ao município, o apoio às Unidades Educacionais e o fortalecimento da Rede de Proteção Social; Promover ações voltadas à escolarização do público da educação especial; Promover ações de acessibilidade; Propor ações, juntamente com equipe multi profissional, advogado, professores, pedagogos, alunos e pais, funcionários técnico-administrativos e serviços gerais e a sociedade de forma ampla, visando a melhorias nas condições dos assistidos; Avaliar condições sócio-históricas presentes na transmissão e apropriação de conhecimentos;
+
+
+IV –
+
+Coordenador do Centro de Referência Especializado de Assistência Social (CREAS), com 1 (UMA) vaga, com exigência de nível superior completo em qualquer área, inscrição no referido órgão de classe, nível de referência 25, com carga horária semanal de trabalho de 40 (quarenta) horas, de provimento por meio de concurso público, com as seguintes atribuições: Articular, acompanhar e avaliar o processo de implantação do CREAS e seu serviço), quando for o caso; Coordenar as rotinas administrativas, os processos de trabalho e os recursos humanos da Unidade; Participar da elaboração, acompanhamento, implementação e avaliação dos fluxos e procedimentos adotados, visando garantir a efetivação das articulações necessárias; Subsidiar e participar da elaboração dos mapeamentos da área de vigilância socioassistencial do órgão gestor de Assistência Social; Coordenar a relação cotidiana entre CREAS e as unidades referenciadas ao CREAS no seu território de abrangência; Coordenar o processo de articulação cotidiana com as demais unidades e serviços socioassistenciais, especialmente os CRAS e Serviços de Acolhimento, na sua área de abrangência; Coordenar o processo de articulação cotidiana comas demais políticas públicas e os órgãos de defesa de direitos, recorrendo ao apoio do órgão gestor de Assistência Social, sempre que necessário; Definir com a equipe a dinâmica e os processos de trabalho a serem desenvolvidos na Unidade; Discutir com a equipe técnica a adoção de estratégias e ferramentas teórico-metodológicas que possam qualificar o trabalho; Definir com a equipe os critérios de inclusão, acompanhamento e desligamento das famílias e indivíduos nos serviços ofertados no CREAS; Coordenar o processo, com a equipe, unidades referenciadas e rede de articulação, quando for o caso, do fluxo de entrada, acolhida, acompanhamento, encaminhamento e desligamento das famílias e indivíduos no CREAS; Coordenar a execução das ações, assegurando diálogo e possibilidades de participação dos profissionais e dos usuários; Coordenar a oferta e o acompanhamento do serviço, incluindo o monitoramento dos registros de informações e a avaliação das ações desenvolvidas; Coordenar a alimentação dos registros de informação e monitorar o envio regular de informações sobre o CREAS e as unidades referenciadas, encaminhando-os ao órgão gestor; Contribuir para a avaliação, por parte do órgão gestor, dos resultados obtidos pelo CREAS; Participar das reuniões de planejamento promovidas pelo órgão gestor de Assistência Social e representar a Unidade em outros espaços, quando solicitado; Identificar as necessidades de ampliação do RH da Unidade e/ou capacitação da equipe e informar o órgão gestor de Assistência Social; Coordenar os encaminhamentos à rede e seu acompanhamento.
+
+
+V –
+
+Recepcionista do Centro de Referência Especializado de Assistência Social (CREAS), com 2 (DUAS) vagas, com exigência de nível médio completo, nível de referência 16, com carga horária semanal de trabalho de 40 (quarenta) horas, de provimento por meio de concurso público, com as seguintes atribuições: Acolhida, escuta qualificada, acompanhamento especializado e oferta de informações e orientações; Elaboração, junto com as famílias/indivíduos, do Plano de acompanhamento Individual e/ou Familiar, considerando as especificidades e particularidades de cada um; Realização de acompanhamento especializado, por meio de atendimentos familiar, individuais e em grupo; Realização de visitas domiciliares às famílias acompanhadas pelo CREAS, quando necessário; Realização de encaminhamentos monitorados para a rede socioassistencial, demais políticas públicas setoriais e órgãos de defesa de direito; Trabalho em equipe interdisciplinar; Alimentação de registros e sistemas de informação sobre das ações desenvolvidas; Participação nas atividades de planejamento, monitoramento e avaliação dos processos de trabalho; Participação das atividades de capacitação e formação continuada da equipe do CREAS, reuniões de equipe, estudos de casos, e demais atividades correlatas; Participação de reuniões para avaliação das ações e resultados atingidos e para planejamento das ações a serem desenvolvidas; para a definição de fluxos; instituição de rotina de atendimento e acompanhamento dos usuários; organização dos encaminhamentos, fluxos de informações e procedimentos.
+
+
+Art. 2º.
+
+É vedado ao Advogado do CREAS patrocinar processos judiciais ou atuar de qualquer forma na qualidade de procurador das pessoas acompanhadas no CREAS, bem como lhe é vedado representar o Ente Público na qualidade de procurador constituído.
+
+
+Art. 3º.
+
+O cargo de Advogado do CREAS fica vinculado à estrutura da Secretaria Municipal de Promoção Social
+
+
+Art. 4º.
+
+As despesas decorrentes da execução da presente lei correm por conta das dotações consignadas no orçamento vigente, suplementadas se necessário.
+
+
+Art. 5º.
+
+Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+PM de Cunha em 23 de NOVEMBRO de 2022.
+
+**JOSÉ ÉDER GALDINO DA COSTA**
+
+**PREFEITO MUNICIPAL**
+

@@ -1,0 +1,141 @@
+---
+titulo: "Lei nº 87, de 31 de dezembro de 1973"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "87"
+data: "1973-12-31"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/4374"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/1079/text"
+sha256_fonte: "f79ed2e1d5c9afba76a7c42d0270e41ae576e369b2a18df21d1ff942abfe615b"
+sha256_texto: "354e4c50ba0dac91a645a095b40397bc8f50052a745f69529d47914039a4b0cd"
+capturado_em_fonte: "2026-10-27T22:44:48.607272-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 87, de 31 de dezembro de 1973
+
+Estabelece obrigatoriedade de uso de taxímetros nos veículos de transporte coletivo de passageiros -tipo TÁXI- fixa preços máximos permitidos e dá outras providências.
+
+
+O DOUTOR JACOB FREITAS ATALLAH, Prefeito do Município de Porto Velho,  
+  
+FAÇO SABER que a Câmara Municipal aprovou e eu sanciono a seguinte,  
+  
+LEI:
+
+
+Art. 1º.
+
+Os veículos de transporte coletivo de passageiros -tipo táxi- usarão, obrigatoriamente, taxímetro, a partir de fevereiro de 1974.
+
+
+Parágrafo único
+
+Nenhum veículo de transporte coletivo de passageiros -tipo táxi- poderá prestar serviço ou circular a partir da data estabelecida neste artigo, sem portar o referido taxímetro, na área de jurisdição do Município.
+
+
+Art. 2º.
+
+É fixado o preço de Cr$-1,50 (HUM CRUZEIRO E CINCOENTA CENTAVOS), como valor máximo permitido para as corridas de táxi, até à distância inicial de mil (1 .000) metros rodados.
+
+
+§ 1º
+
+O preço de que trata este artigo constitui o valor estabelecido como "BANDEIRADA"
+
+
+§ 2º
+
+Entende-se por "BANDEIRADA" a taxa de utilização de um veículo de transporte coletivo de passageiros - tipo táxi- e será devida pelo usuário desde que tenha determinado ao condutor o itinerário e a partida do veículo.
+
+
+Art. 3º.
+
+Será de Cr$-0,85 (OITENTA E CINCO CENTAVOS) o preço para cada mil (1.000) metros rodados, excedentes aos iniciais estabelecidos no art. 2°, desta Lei.
+
+
+§ 1º
+
+Alcançada a distância de 10.000 ( dez mil ) metros rodados, cobrar-se-a nova Bandeirada.
+
+
+§ 2º
+
+No horário compreendido entre às 23:00 horas e às 6:00 horas dos dias úteis ou não; durante a ocorrência de chuvas e nos domingos e feriados, O preço será de Cr$...$-1,00 (HUM CRUZEIRO) para cada 1.000 metros rodados, sendo usada a Bandeira 2 (dois).
+
+
+§ 3º
+
+Os preços estabelecidos nesta Lei vigorarão pelo prazo de 90 (noventa) dias, na forma homologada pelo Conselho Interministerial de Preços do Ministério da Fazenda.
+
+
+Art. 4º.
+
+A hora parada, como período de espera entre 2 (dois) serviços prestados ao mesmo usuário, será cobrada à razão de Cr$-6,00 (SEIS CRUZEIROS) por hora.
+
+
+Parágrafo único
+
+Os preços e os itinerários dos serviços de acompanhamento de cortejos de qualquer natureza ou serviços de visitas a locais turísticos, serão combinados previamente pelas partes.
+
+
+Art. 5º.
+
+O passageiro terá direito de transportar bagagem, livre de despesa, até 10 ks (dez quilos); qualquer excesso ficará sujeito ao pagamento de Cr$-1,00 (HUM CRUZEIRO) , por volume.
+
+
+Art. 6º.
+
+Caberá ao órgão local de trânsito a aferição dos taxímetros, procedendo-a, no mínimo, uma vez por ano
+
+
+Art. 7º.
+
+Até que sejam devidamente instalados, na forma desta lei, os taxímetros nos veículos de transporte coletivo de passageiros -tipo táxi- caberá ao Executivo baixar, através de Decretos, e observados os preços aqui fixados, tabela de preços para distâncias básicas.
+
+
+Art. 8º.
+
+Fica o Executivo Municipal autorizado a assinar CONVÊNIO que vise o aprimoramento do transito urbano local, fiscalização, arrecadação e segurança do trânsito viário, inclusive transferência das obrigações a órgãos ou instituições de características definidas para as atividades de trânsito e prover medidas complementares que se fizerem necessárias.
+
+
+Art. 9º.
+
+Esta lei vigorará na data de sua publicação, revogadas as disposições em contrário.
+
+
+\- Dr. Jacob Freitas Atallah -
+
+PREFEITO MUNICIPAL
+
+\- Claúdio Batista Feitosa -
+
+DIRETOR DO DEPARTAMENTO E ADMINISTRAÇÃO
+
+\- José Maria Aguiar -
+
+DIRETOR DO DEPARTAMENTO DE FINANÇAS
+
+\- Walter Paula de Sales -
+
+DIRETOR DO DEPARTAMENTO DE PLANEJAMENTO
+
+\- Dr. Sebastião Assef Valladares -
+
+DIRETOR DE DEPARTAMENTO DE OBRAS
+
+\- Francisco Araújo da Silva -
+
+DIRETOR DOS SERVIÇOS URBANOS
+
+\- Nina Rosa Champeaux de La Boulaye -
+
+DIRETOR DO SERVIÇO DE EDUCAÇÃO E CULTURA
+

@@ -1,0 +1,584 @@
+---
+titulo: "LEI ORDINÁRIA-CMC nº 959, de 29 de outubro de 2002"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "959"
+data: "2002-10-29"
+municipio: "Claraval"
+uf: "MG"
+codigo_ibge: "3116407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.claraval.mg.leg.br/norma/1275"
+fonte_texto: "https://sapl.claraval.mg.leg.br/ta/606/text"
+sha256_fonte: "23e98ddb9fcaed68f8736c0f1a9c4192986005a1a039888fa9f8bdcb991191a6"
+sha256_texto: "05b23c5aaa7c052073f4beac71198b0f6312cb694a3aa4b6f4ecba6c9a80342d"
+capturado_em_fonte: "2026-10-27T23:02:54.432854-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA-CMC nº 959, de 29 de outubro de 2002
+
+"Dispõe sobre abertura de um Crédito Adicional Suplementar no valor de R$424.998,09, no orçamento em vigor e dá outras providências."
+
+
+JUSCELINO BATISTA BORGES, Prefeito Municipal de Claraval, Estado de Minas Gerais, em pleno exercício do seu cargo e usando das atribuições que lhe são conferidas por lei, FAZ SABER que a Câmara Municipal local APROVOU e ele, em seu nome, SANCIONA e PROMULGA a seguinte LEI:
+
+
+Art. 1º.
+
+Fica aberto no Serviço de Contabilidade um Crédito Adicional Suplementar no valor de R$424.998,09 (QUATROCENTOS E VINTE E QUATRO MIL E NOVECENTOS E NOVENTA E OITO REAIS E NOVE CENTAVOS), no orçamento em vigor para dar cobertura às seguintes dotações:
+
+
+02 01 01 - ADMINISTRAÇÃO DO GABINETE
+
+04 122 0401 2003 - Manutenção das Atividades do Gabinete
+
+319011 - Vencimentos e Vantagens Fixas-Pessoal Civil..............................................26.000,00
+
+319013 Obrigações Patronais.........................................................................................5.050,00
+
+02 01 02 - PROJETOS ESPECIAIS E ASSESSORIA AGROPECUARIA
+
+20 606 2001 0001 - Manutenção de contribuição à EMATER
+
+337041 – Contribuições..................................................................................................6.430,00
+
+02 02 01 - ADMINISTRAÇÃO GERAL
+
+04 122 0401 2007 - Manutenção das Atividades da Administração
+
+319011 - Vencimentos e Vantagens Fixas...................................................................13.470,00
+
+319013 - Obrigações Patronais......................................................................................5.660,00
+
+309039 - Outros Serviços de Terceiros-Pessoa Jurídica................................................8.935,00
+
+04 331 0401 2008 - Contribuição para formação do PASEP
+
+339047 - Obrigações Tributárias e Contributivas............................................................6.273,00
+
+28 272 0000 0002 - Despesas com Inativos e Pensionistas
+
+319001 - Aposentadoria e Reformas..............................................................................6.010,00
+
+02 02 03 - TESOURARIA
+
+04 123 0402 2010 - Manutenção das Atividades da Tesouraria
+
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica................................................1.560,00
+
+02 02 04 - TRIBUTAÇÃO
+
+04 123 0402 2011 - Manutenção das Atividades de Tributação
+
+319016 - Outras Despesas Variáveis-Pessoal Civil...........................................................560,00
+
+02 03 01 - ENSINO FUNDAMENTAL-RECURSO PROPRIO
+
+12 272 0000 0004 -Despesa com Inativos e Pensionistas
+
+319001 - Aposentadoria e Reformas..............................................................................9.700,00
+
+12 361 1201 2012 - Manutenção das Atividades da Educ.-Rec. Próprios
+
+319011 - Vencimentos e Vantagens Fixas-Pessoal Civil..............................................19.020,00
+
+319013 - Obrigações Patronais......................................................................................8.280,00
+
+12 361 1201 2013 - Manutenção do Transporte Escolar-Rec. Próprios
+
+319011 - Vencimentos e Vantagens Fixas...................................................................17.000,00
+
+319013 - Obrigações Patronais......................................................................................4.740,00
+
+339036 - Outros Serviços de Terceiros-Pessoa Física.................................................40.643,09
+
+02 03 02 - ENSINO FUNDAMENTAL - FUNDEF
+
+12 361 1202 2015 - Remuneração de Docentes do Magistério-Fundef
+
+319011 - Vencimentos e Vantagens Fixas-Pessoal Civil..............................................13.400,00
+
+319013 - Obrigações Patronais....................................................................................12.720,00
+
+12 361 1202 2016- Manutenção do Ensino Fundamental-FUNDEF
+
+319011 - Vencimentos e Vantagens Fixas-Pessoal Civil................................................2.220,00
+
+319013 - Obrigações Patronais.........................................................................................853,00
+
+319016 - Outras Despesas Variáveis-Pessoal Civil...........................................................150,00
+
+02 03 03 - CRECHE
+
+12 365 1203 2017 - Manutenção de Creches no Município...
+
+319011 - Vencimentos e Vantagens Fixas-Pessoal Civil..............................................17.430,00
+
+319013 - Obrigações Patronais.......................................................................................4.680,00
+
+02 03 05 - ENSINO GERAL
+
+12 361 1201 2021 - Manutenção dos Recursos-DESE
+
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica................................................9.000,00
+
+02 03 07 - CULTURA
+
+13 392 1301 2025 - Manutenção das Atividades Culturais
+
+339036 - Outros Serviços de Terceiros-Pessoa Física...................................................3.200,00
+
+02 04 01 – SAUDE
+
+10 301 1001 2027 - Fundo Municipal de Saúde-ECD
+
+319011 - Vencimentos e Vantagens Fixas-Pessoal.......................................................2.015,00
+
+319013 - Obrigações Patronais..........................................................................................359,00
+
+10 301 1001 2028 - Manutenção do Programa de Saúde da Família-PSF
+
+319011 - Vencimentos e Vantagens Fixas-Pessoal Civil..............................................24.465,00
+
+319013 - Obrigações Patronais......................................................................................7.000,00
+
+10 302 1002 2030 - Manutenção das Atividades da Saúde-Rec. Próprio
+
+319011 - Vencimentos e Vantagens Fixas-Pessoal Civil..............................................51.971,00
+
+319013 - Obrigações Patronais....................................................................................21.936,00
+
+02 04 02 - ASSISTENCIA SOCIAL
+
+08 244 0801 2033 - Manutenção da Assistência Social Geral
+
+339030 - Material de Consumo.......................................................................................6.000,00
+
+339036 - Outros Serviços de Terceiros-Pessoa Física...................................................1.360,00
+
+08 244 0801 2034 - Transporte de Trabalhadores
+
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica................................................6.950,00
+
+08 244 0801 2036 - Atendimento à População Carente-Distr. Leite
+
+339032 - Material de Distribuição Gratuita......................................................................4.600,00
+
+02 05 01 - SERVIÇOS URBANOS
+
+15 452 0401 2040 - Manutenção do Setor de Obras e Serv. Urbanos
+
+319011 - Vencimentos e Vantagens Fixas-Pessoal Civil................................................1.938,00
+
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica................................................6.100,00
+
+02 05 02SERVIÇOS DE ESTRADAS DE RODAGENS
+
+04 606 0410 2041 - Manutenção do Setor de Estradas de Rodagens
+
+319011 - Vencimentos e Vantagens Fixas-Pessoal Civil .............................................45.420,00
+
+319016 - Outras Despesas Variáveis-Pessoal Civil........................................................1.900,00
+
+TOTAL DAS SUPLEMENTAÇÕES.............................................................................424.998,09
+
+
+Art. 2º.
+
+Para fazer face às despesas decorrentes da execução desta Lei serão utilizados os seguintes recursos financeiros:
+
+
+a)
+
+Superávit Financeiro do Exercício de 2001........................................................................24.432,91
+
+
+b)
+
+Tendência do Excesso de Arrecadação/2002..........................................................86.000,00
+
+
+c)
+
+Anulação total e ou parcial de dotações orçamentárias em vigor, até o limite de 314.561,18.
+
+
+02 01 01 - ADMINISTRAÇÃO DO GABINETE
+
+04 122 0401 2003 - Manutenção das Atividades do Gabinete
+
+339033 - Passagens e Despesas com Locomoção........................................................1.907,96
+
+449052 - Equipamentos e Material Permanente................................................................500,00
+
+02 01 02 - PROJETOS ESPECIAIS E ASSESSORIA AGROPECUARIA
+
+20 606 2001 2005 - Manutenção das Atividades Agropecuárias
+
+339030 - Material de Consumo..........................................................................................400,00
+
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica................................................1.800,00
+
+449052 - Equipamentos e Material Permanente................................................................104,00
+
+02 01 03 - SEGURANÇA PUBLICA
+
+06 181 0601 2006 - Manutenção da Segurança no Município
+
+339030 - Material de Consumo.......................................................................................1:200,00
+
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica................................................1.500,00
+
+02 02 01 - ADMINISTRAÇÃO GERAL
+
+04 122 0401 1015 - Reforma e Ampliação do Prédio da Administração
+
+449051 - Obras e Instalações.........................................................................................9.615,00
+
+04 122 0401 2007 - Manutenção das Atividades da Administração
+
+339033 - Passagens e Despesas com Locomoção........................................................1.000,00
+
+339036 - Outros Serviços de Terceiros-Pessoa Física...................................................5:500,00
+
+339032 - Despesas de Exercícios Anteriores.................................................................1.000,00
+
+449052 - Equipamentos e Material Permanente.............................................................3.572,00
+
+28 843 0000 0010 - Obrigações da Dívida Pública
+
+339022 - Outros Encargos sobre a Dívida por Contrato.................................................4.000,00
+
+469071 - Principal da Dívida Contratual Resgatado.....................................................12.200,00
+
+28 846 0000 0003 - Sentenças Judiciais
+
+319091 - Sentenças Judiciais (33).........................................................................................................5.000,00
+
+319091 - Sentenças Judiciais (34)..........................................................................................................4.800,00
+
+02 02 02 - CONTABILIDADE
+
+04 121 0402 2009 - Manutenção das Atividades da Contabilidade
+
+319016 - Outras Despesas Variáveis-Pessoal Civil........................................................1.000,00
+
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica................................................3.500,00
+
+449052 - Equipamentos e Material Permanente..................................................................86,00
+
+02 02 03 - TESOURARIA
+
+04 123 0402 2010 - Manutenção das Atividades da Tesouraria
+
+319011 - Vencimentos e Vantagens Fixas-Pessoal Civil................................................5.000,00
+
+319013 - Obrigações Patronais......................................................................................2.500,00
+
+319016 - Outras Despesas Variáveis-Pessoal Civil........................................................1.000,00
+
+339030 - Material de Consumo.......................................................................................1.000,00
+
+02 02 04 - TRIBUTAÇÃO
+
+04 123 0402 2011- Manutenção das Atividades da Tributação
+
+319011 - Vencimentos e Vantagens Fixas-Pessoal Civil................................................4.500,00
+
+319013 - Obrigações Patronais..........................................................................................300,00
+
+339030 - Material de Consumo.......................................................................................1.000,00
+
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica................................................2.000,00
+
+449052 - Equipamentos e Material Permanente.............................................................1.000,00
+
+02 03 01 - ENSINO FUNDAMENTAL-RECURSO PROPRIO
+
+12 361 1201 1013 - Aquisição de Veículo para a Educação
+
+449052 - Equipamentos e Material Permanente.............................................................1.000,00
+
+12 361 1201 2002 - Manutenção das Atividades da Educação-Rec. Prop.
+
+339033 - Passagens e Despesas com Locomoção.............................................................73,00
+
+339036 - Outros Serviços de Terceiros-Pessoa Física...................................................4.000,00
+
+449052 - Equipamentos e Material Permanente................................................................205,40
+
+12 361 1201 2013 - Manutenção do Transporte Escolar-Rec. Próprio
+
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica..............................................11.000,00
+
+449052 - Equipamentos e Material Permanente.............................................................1.000,00
+
+12 361 1201 2014 - Contribuição para Formação do PASEP............................................451,29
+
+02 03 02 - ENSINO FUNDAMENTAL-FUNDEF
+
+12 361 1202 2016 - Manutenção do Ensino Fundamental-FUNDEF
+
+339033 - Passagens e Despesas com Locomoção..........................................................500,00
+
+02 03 03 - CRECHE
+
+12 365 1203 2017 - Manutenção de Creches no Município
+
+319016 - Outras Despesas Variáveis-Pessoal Civil........................................................1.000,00
+
+449052 - Equipamentos e Material Permanente................................................................745,00
+
+02 03 04 - PRE-ESCOLAR
+
+12 365 1203 2018 - Manutenção das Atividades do Pré-Escolar
+
+319011 - Vencimentos e Vantagens Fixas-Pessoal Civil................................................3.500,00
+
+319013 - Obrigações Patronais.......................................................................................1.681,20
+
+319016 - Outras Despesas Variáveis-Pessoal Civil........................................................1.000,00
+
+339030 - Material de Consumo..........................................................................................500,00
+
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica...................................................200,00
+
+449052 - Equipamentos e Material Permanente................................................................200,00
+
+02 03 05 - ENSINO GERAL
+
+12 361 1201 2019 - Manutenção de Convênios da Educação
+
+339030 - Material de Consumo.......................................................................................2.900,00
+
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica................................................2.950,00
+
+449052 - Equipamentos e Material Permanente.............................................................4.950,00
+
+12 361 1201 2020 - Manutenção do Programa Dinheiro Direto-PDDE
+
+339030 - Material de Consumo.......................................................................................3.000,00
+
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica................................................1.000,00
+
+449052 - Equipamentos e Material Permanente.............................................................2.000,00
+
+12 361 1201 2021 - Manutenção dos Recursos-DESE
+
+339030 - Material de Consumo.......................................................................................6.000,00
+
+449052 - Equipamento e Material Permanente..............................................................3.000,00
+
+02 03 06 - ESPORTE E LAZER
+
+27 122 2701 2024 - Manutenção das Atividades do Esporte e Lazer
+
+319011 - Vencimentos e Vantagens Fixas-Pessoal Civil................................................1.000,00
+
+319013 - Obrigações Patronais.........................................................................................500,00
+
+449052 - Material de Consumo..........................................................................................200,00
+
+02 03 07 - CULTURA
+
+13 392 1301 2025 - Manutenção das Atividades Culturais
+
+339030 - Material de Consumo..........................................................................................900,00
+
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica...................................................680,00
+
+02 04 01 - SAÚDE
+
+10 272 0000 0007 - Despesas com Inativos e Pensionistas
+
+319001 - Aposentadoria e Reformas...............................................................................1.900,00
+
+10 301 1001 2026 - Manutenção do Programa de Atenção Básica-PAB
+
+319011 - Vencimentos e Vantagens Fixas-Pessoal Civil..............................................16.000,00
+
+319013 - Obrigações Patronais......................................................................................3.500,00
+
+319016 - Outras Despesas Variáveis-Pessoal Civil........................................................1.000,00
+
+339030 - Material de Consumo.......................................................................................7.000,00
+
+339039 - Outros Serviços de Terceiros-Pessoal Civil.....................................................5.000,00
+
+449052 - Equipamentos e Material Permanente.............................................................5.500,00
+
+10 301 1001 2027 - Fundo Municipal de Saúde-ECD
+
+449052 - Equipamentos e Material Permanente.............................................................1.000,00
+
+10 301 1001 2028 - Manutenção do Programa de Saúde da Família-PSF
+
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica...................................................500,00
+
+449052 - Equipamentos e Material Permanente.............................................................1.000,00
+
+10 302 1002 0005 - Manutenção do Consórcio Interm. de Saúde-CISL.
+
+337041 – Contribuições...................................................................................................1.000,00
+
+10 302 1002 1002 - Ampliação e Conservação de Prédios da Saúde
+
+449051 - Obras e Instalações.........................................................................................5.000,00
+
+10 302 1002 2029 - Manutenção do Sistema Único de Saúde-SUS
+
+319011 - Vencimentos e Vantagens Fixas.....................................................................1.000,00
+
+319013 - Obrigações Patronais..........................................................................................500,00
+
+319016Outras Despesas Variáveis-Pessoal Civil.............................................................500,00
+
+339030Material de Consumo............................................................................................500,00
+
+339036Outros Serviços de Terceiros-Pessoa Física........................................................500,00
+
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica...................................................500,00
+
+449052Equipamentos e Material Permanente..................................................................500,00
+
+10 302 1002 2030 - Manutenção das Atividades da Saúde-Rec. Próprio
+
+319016 - Outras Despesas Variáveis-Pessoal Civil...........................................................550,00
+
+449052 - Equipamentos e Material Permanente.............................................................1.805,00
+
+10 331 0401 2031 - Contrib. p/ Formação do PASEP-Saúde/Rec. Próprios
+
+339047 - Obrigações Tributárias e Contributivas............................................................1.242,40
+
+02 04 02 - ASSISTENCIA SOCIAL
+
+08 244 0801 0008 - Subvenção às Irmãs Cistercienses de Claraval
+
+335043 - Subvenções Sociais.........................................................................................2.000,00
+
+08 244 0801 2032 - Fundo Municipal de Assistência Social
+
+319011 - Vencimentos e Vantagens Fixas-Pessoal Civil...................................................500,00
+
+449052 - Equipamentos e Material Permanente.............................................................3.000,00
+
+08 244 0801 2033 - Manutenção da Assistência Social Geral
+
+319011 - Vencimentos e Vantagens Fixas-Pessoa Civil.................................................1.000,00
+
+319013 - Obrigações Patronais.........................................................................................500,00
+
+319016 - Outras Despesas Variáveis-Pessoal Civil........................................................1.000,00
+
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica...................................................565,22
+
+449052 - Equipamentos e Material Permanente................................................................500,00
+
+08 244 0801 2037 - Atendimento à População Carente-FFD/Aux. Passag.
+
+339048 - Outros Auxílios Financeiros a Pessoas Físicas..................................................280,00
+
+08 244 0801 2038 - Atendimento à População Carente-Distr. C. Básica
+
+339032 - Material de Distribuição Gratuita......................................................................9.851,24
+
+08 244 0801 2039 - Atend. População Carente-Distr. Mat. Construção
+
+339032 - Material de Distribuição Gratuita......................................................................8.000,00
+
+6 482 1601 1003 - Construção de Casas para Carentes
+
+449051 - Obras e Instalações.......................................................................................13.900,00
+
+16 482 1601 1004 - Reforma de Casas Populares
+
+449051 - Obras e Instalações.........................................................................................6.500,00
+
+02 05 01 - SERVIÇOS URBANOS
+
+15 451 1501 1005 - Construção de Calçadas na Cidade
+
+449051Obras e Instalações...........................................................................................8.993,00
+
+15 451 1501 1006 - Recapeamento de Ruas e Avenidas
+
+449051 - Obras e Instalações........................................................................................1.000,00
+
+15 451 1501 1007 - Asfaltamento de Ruas e Avenidas
+
+449051 - Obras e Instalações........................................................................................1.000,00
+
+15 451 1501 1008 - Construção de Sanitários Públicos
+
+449051 - Obras e Instalações.........................................................................................1.751,37
+
+15 452 0401 1014 - Aquisição de Veiculo e Maquin. p/Administração
+
+449052- Equipamentos e Material Permanente.............................................................1.300,00
+
+15 452 0401 2040 - Manutenção do Setor de Obras e Serv. Urbanos
+
+319013 - Obrigações Patronais......................................................................................1.840,00
+
+319016 - Outras Despesas Variáveis-Pessoal Civil........................................................2.170,00
+
+339033 - Passagens e Despesas com Locomoção...........................................................300,00
+
+339036 - Outros Serviços de Terceiros-Pessoa Física.................................................11.300,00
+
+449052 - Equipamentos e Material Permanente.............................................................4.000,00
+
+15 452 1501 1009 - Construção de Abrigos para Passageiros
+
+449051 - Obras e Instalações............................................................................................920,00
+
+25 752 1501 1010 - Extensão de Rede Elétrica Urbana
+
+449051 - Obras e Instalações.........................................................................................5.200,00
+
+02 05 02 - SERVIÇOS DE ESTRADAS DE RODAGENS MUNICIPAIS
+
+04 606 0410 1011 - Conservação e Ampliação de Pontes e Mata-burros
+
+449051 - Obras e Instalações.......................................................................................22.461,50
+
+04 606 0410 2041 - Manutenção do Setor de Estradas de Rodagens
+
+319013 - Obrigações Patronais......................................................................................1.790,00
+
+339033 - Passagens e Despesas com Locomoção...........................................................882,40
+
+339036 - Outros Serviços de Terceiros-Pessoa Física...................................................3.000,00
+
+449052 - Equipamentos e Material Permanente.............................................................1.942,20
+
+25.752 2501 1012 - Extensão de Rede Elétrica Rural
+
+449051 - Obras e Instalações.........................................................................................8.000,00
+
+
+TOTAL DAS ANULAÇÕES.........................................................................................314.565,18
+
+SUPERAVIT FINANCEIRO EXERCICIO DE 2001.......................................................24.432,91
+
+TENDENCIA DE EXCESSO DE ARRECADAÇÃO DE 2002.......................................86.000,00
+
+TOTAL GERAL...........................................................................................................424.998,09
+
+
+Art. 3º.
+
+Revogam-se as disposições em contrário, entrando a presente Lei em vigor na data de sua publicação.
+
+
+Claraval, 29 de outubro de 2002.
+
+JUSCELINO BATISTA BORGES
+
+Prefeito Municipal
+

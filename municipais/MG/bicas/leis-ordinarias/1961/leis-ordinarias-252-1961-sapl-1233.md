@@ -1,0 +1,47 @@
+---
+titulo: "Lei nº 252, de 02 de dezembro de 1961"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "252"
+data: "1961-12-02"
+municipio: "Bicas"
+uf: "MG"
+codigo_ibge: "3106903"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bicas.mg.leg.br/norma/1233"
+fonte_texto: "https://sapl.bicas.mg.leg.br/ta/350/text"
+sha256_fonte: "4f6266b3684bdfcf6837f8e3c7e0917633eae11e0e3fdc9e92b6bd36749aa7db"
+sha256_texto: "fa572fe9042b6b20e895a691d539174d3dccc302a237dcbbc7239a9d97ee4b6c"
+capturado_em_fonte: "2026-10-27T17:33:50.479134-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 252, de 02 de dezembro de 1961
+
+Modifica o art. 2º da Lei n 229, de 8/05/1961.
+
+
+O povo do município de Bicas decreta e eu, em seu nome, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+O art. 2º da Lei nº229, de 8/05/1961, passa a ter a seguinte redação: “O preço da aquisição ora autorizada é de Cr$ 300.000,00 (trezentos mil cruzeiros), acrescido das despesas com a respectiva escritura e imposto de transmissão “Inter-vivos”, e lucro imobiliário, correndo as despesas por conta da importância já recebida para serviço de água.
+
+
+Art. 2º.
+
+Revogadas as disposições em contrário, esta lei entrará em vigor na data de sua publicação.
+
+
+Mando, portanto, a todos a quem o conhecimento e execução desta lei pertencer, que a cumpram e a façam cumprir tão inteiramente como nela se contém.
+
+
+Bicas, 2 de dezembro de 1961.  
+  
+Nilson Baptista Vieira  
+Prefeito Municipal
+

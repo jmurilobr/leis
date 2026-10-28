@@ -1,0 +1,31 @@
+{
+  "base80": {
+    "path": "federal/_fonte/auditorias/guard_bibliografico_20261027_004/integridade_anexos_decreto.py",
+    "sha256": "3f581fc23aa987e6b614a9e7bd61e10f69583d07de018685b625cd59758bf466"
+  },
+  "candidato": {
+    "path": "federal/_fonte/auditorias/guard_bibliografico_20261028_005/integridade_anexos_decreto.py",
+    "sha256": "e7acf0ce9ada5bb7d0e062dd20afd66724fef43109328046ef519a6e8a23abac"
+  },
+  "fonte_fixture98": {
+    "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_015/retencoes_contextuais001/fontes_provas.jsonl.gz",
+    "sha256": "cd236b1e7c7d78680936509357ac9f81aa776477e9ce179ff53134ed29fc43e8"
+  },
+  "limites": "Proposta privada, sem arquivo global, MD, máscara ou Git alterado. Reconhece variante bibliográfica CLR e marcador ilegível com escape Markdown remanescente; não corrige texto e não inventa representação de objeto.",
+  "estado": "Sucessor privado 005, não aplicado. 87 testes e delta de 3896 fontes conferidos.",
+  "delta": {
+    "path": "federal/_fonte/auditorias/guard_bibliografico_20261028_005/delta3896.json",
+    "sha256": "118fe4898bc8a4352ec79dd7a573296f5e8b44fed73a988bcbaf87b7f4654691",
+    "fontes": 3896,
+    "mudancas": 2,
+    "mudancas_em_selecionados013_015": 0,
+    "casos": "14.056 e 14.722, ambos já retidos antes do pacote 411."
+  },
+  "testes": {
+    "comando": "python3 -m unittest discover -s federal/_fonte/auditorias/guard_bibliografico_20261028_005 -p test*.py -v",
+    "total": 87,
+    "aprovados": 87
+  },
+  "fora_do_escopo": "Não resolve glifos de fontes Symbol, aprovações de estatutos ou projetos/plantas/orçamentos omitidos. Esses pontos seguem revisão contextual, sem exceção pelo número da norma.",
+  "integracao": "Exclusiva ROOT; nenhum arquivo global, canônico, máscara ou Git alterado. Testes usam fixtures locais completas. Replay3896 exige os insumos persistentes antecedentes dos pacotes já entregues; não se afirma que esse replay tenha fontes universais embutidas."
+}

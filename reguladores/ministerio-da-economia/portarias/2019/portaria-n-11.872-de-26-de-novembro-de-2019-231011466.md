@@ -1,0 +1,44 @@
+---
+titulo: "PORTARIA Nº 11.872, DE 26 DE NOVEMBRO DE 2019"
+orgao: "Ministério da Economia/Secretaria de Coordenação e Governança do Patrimônio da União"
+tipo: "Portaria"
+numero: "11872"
+data: 2019-11-26
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 03/12/2019, seção 1, p. 27"
+data_publicacao: 2019-12-03
+edicao: "233"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-11.872-de-26-de-novembro-de-2019-231011466"
+sha256_html_fonte: 2d320e43158baaefe924d53611d2aef79e3d6743bece8081c86006e956e42f24
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 11.872, DE 26 DE NOVEMBRO DE 2019
+
+PORTARIA Nº 11.872, DE 26 DE NOVEMBRO DE 2019
+
+O SECRETÁRIO DE COORDENAÇÃO E GOVERNANÇA DO PATRIMÔNIO DA UNIÃO, DA SECRETARIA ESPECIAL DE DESESTATIZAÇÃO, DESINVESTIMENTO E MERCADOS, DO MINISTÉRIO DA ECONOMIA, no uso da competência que lhe foi subdelegada pelo art. 1º, inciso III, da Portaria nº 54, de 22 de fevereiro de 2016, tendo em vista o disposto nos arts. 18, inciso II e §§ 2º a 5º e 7º, e 42 da Lei nº 9.636, de 15 de maio de 1998, nos arts. 95 e 96 do Decreto-Lei nº 9.760, de 5 de setembro de 1946, na Lei nº 8.666, de 21 de junho de 1993, bem como nos elementos que integram o Processo Administrativo nº 04985.000218/2016-54, e considerando a deliberação do Comitê Central de Destinação dos Imóveis da União - CCD, criado pela Portaria nº 83, de 28 de agosto de 2019, constante de Ata de Reunião realizada em 5 de novembro de 2019, que faz parte do Processo Administrativo nº 10154.142925/2019-45, resolve:
+
+**Art. 1º** Autorizar a cessão de uso onerosa, sob o regime de arrendamento, à CIAGRAM PORTOS E NAVEGAÇÃO DA AMAZÔNIA LTDA., CNPJ nº 02.900.972/0001-68, de espaço físicos em águas públicas, com área total de 36.797,49 m², contígua ao terreno regularmente cadastrado sob o regime de ocupação em nome da pretensa cessionária, sob o RIP nº 0235.0100002-97, localizada na Estrada da Portobrás, Quadra E, Lote 2, s/nº, Setor Industrial, Município de Humaitá, Estado do Amazonas/AM, com as características descritas a seguir: Inicia-se a descrição deste perímetro no vértice M-01, definido pelas coordenadas E: 497.353,62 m e N: 9.172.667,48 m com azimute 76° 02' 39,15'' e distância de 186,55 m até o vértice M-02, definido pelas coordenadas E: 497.534,66 m e N: 9.172.712,47 m com azimute 167° 01' 31,26'' e distância de 200,03 m até o vértice M-03, definido pelas coordenadas E: 497.579,57 m e N: 9.172.517,55 m com azimute 256° 02' 35,84'' e distância de 185,21 m até o vértice M-04, definido pelas coordenadas E: 497.399,83 m e N: 9.172.472,88 m com azimute 350° 14' 47,00'' e distância de 7,44 m até o vértice M-05, definido pelas coordenadas E: 497.398,57 m e N: 9.172.480,21 m com azimute 334° 59' 34,98'' e distância de 20,89 m até o vértice M-06, definido pelas coordenadas E: 497.389,74 m e N: 9.172.499,14 m com azimute 351° 35' 54,47'' e distância de 14,03 m até o vértice M-07, definido pelas coordenadas E: 497.387,69 m e N: 9.172.513,02 m com azimute 355° 30' 16,70'' e distância de 32,28 m até o vértice M-08, definido pelas coordenadas E: 497.385,16 m e N: 9.172.545,20 m com azimute 355° 08' 04,52'' e distância de 13,56 m até o vértice M-09, definido pelas coordenadas E: 497.384,01 m e N: 9.172.558,71 m com azimute 353° 14' 47,13'' e distância de 12,24 m até o vértice M-10, definido pelas coordenadas E: 497.382,57 m e N: 9.172.570,87 m com azimute 356° 26' 25,71'' e distância de 10,63 m até o vértice M-11, definido pelas coordenadas E: 497.381,91 m e N: 9.172.581,48 m com azimute 332° 50' 15,13'' e distância de 13,30 m até o vértice M-12, definido pelas coordenadas E: 497.375,84 m e N: 9.172.593,31 m com azimute 334° 05' 50,27'' e distância de 11,61 m até o vértice M-13, definido pelas coordenadas E: 497.370,77 m e N: 9.172.603,75 m com azimute 3° 21' 59,26'' e distância de 6,13 m até o vértice M-14, definido pelas coordenadas E: 497.371,13 m e N: 9.172.609,87 m com azimute 303° 14' 33,57'' e distância de 6,04 m até o vértice M-15, definido pelas coordenadas E: 497.366,08 m e N: 9.172.613,18 m com azimute 344° 40' 15,88'' e distância de 8,17 m até o vértice M-16, definido pelas coordenadas E: 497.363,92 m e N: 9.172.621,06 m com azimute 68° 42' 42,25'' e distância de 14,93 m até o vértice M-17, definido pelas coordenadas E: 497.377,83 m e N: 9.172.626,48 m com azimute 355° 47' 43,56'' e distância de 10,64 m até o vértice M-18, definido pelas coordenadas E: 497.377,05 m e N: 9.172.637,09 m com azimute 254° 21' 50,89'' e distância de 17,29 m até o vértice M-19, definido pelas coordenadas E: 497.360,40 m e N: 9.172.632,43 m com azimute 3° 02' 48,64'' e distância de 8,84 m até o vértice M-20, definido pelas coordenadas E: 497.360,87 m e N: 9.172.641,26 m com azimute 343° 48' 26,31'' e distância de 10,18 m até o vértice M-21, definido pelas coordenadas E: 497.358,03 m e N: 9.172.651,04 m com azimute 315° 00' 00,00'' e distância de 6,69 m até o vértice M-22, definido pelas coordenadas E: 497.353,30 m e N: 9.172.655,77 m com azimute 349° 05' 37,47'' e distância de 4,18 m até o vértice M-23, definido pelas coordenadas E: 497.352,51 m e N: 9.172.659,87 m com azimute 8° 17' 55,25'' e distância de 7,69 m até o vértice M-01, encerrando este perímetro. Todas as coordenadas aqui descritas estão georreferenciadas ao Sistema Geodésico Brasileiro e encontram-se representadas no Sistema UTM, referenciadas ao Meridiano Central 63 WGr, fuso 20S, tendo como Datum o SIRGAS-2000. Todos os azimutes e distâncias, área e perímetro foram calculados no plano de projeção UTM.
+
+**Art. 2º** A cessão a que se refere o art. 1º destina-se à regularização e implantação de rampa, balsa flutuante, estrutura metálica, cais e berço de atracação, para atuar nas operações Portuárias e de transporte fluvial de carga, transbordo e armazenagem em instalação portuária própria, movimentação de granéis sólidos e de contêineres, transporte, armazenagem e processamento de fertilizantes, comercialização de grãos e seus derivados no mercado interno ou para o exterior e na prestação de serviços de transportes fluviais e correlatos.
+
+**Art. 3º** prazo da cessão será de 25 (vinte e cinco) anos, a contar da data da assinatura do contrato de cessão, vinculado ao prazo da autorização do Contrato de Adesão Nº 005/2017 MTPA, de 18/04/2017, prorrogáveis por iguais e sucessivos períodos.
+
+**Art. 4º** Durante o prazo previsto no art. 3º, fica a outorgada cessionária obrigada a pagar mensalmente à União, a título de retribuição pelo uso do imóvel, o valor de R$ 370,94 (trezentos e setenta reais e noventa e quatro centavos).
+
+**§ 1º** O valor da retribuição à União será pago em parcelas mensais e sucessivas vencíveis no último dia útil de cada mês e, nas parcelas não pagas até o vencimento será acrescido multa de mora, calculada à taxa de 0,33% (trinta e três centésimos por cento), por dia de atraso, até o limite de 20% (vinte por cento) e juros de mora equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia (Selic) para títulos federais, acumulada mensalmente, do primeiro dia do mês posterior ao vencimento até o mês anterior ao efetivo pagamento, acrescida de 1% (um por cento) relativo ao mês do pagamento.
+
+**§ 2º** O valor anual do contrato de R$ 4.451,23 (quatro mil quatrocentos e cinquenta e um reais e vinte e três centavos), equivalente a 12 parcelas mensais do valor previsto no caput será corrigido a cada 12 (doze) meses, pelo Índice Nacional de Preços ao Consumidor Amplo - IPCA, divulgado pela Fundação Instituto Brasileiro de Geografia e Estatística - IBGE, ou índice que vier a substituí-lo.
+
+**§ 3º** O valor da retribuição pela utilização do imóvel poderá ser revisado a qualquer tempo, desde que comprovada existência de fatores supervenientes que alterem o equilíbrio econômico do contrato, nos termos da Lei nº 8.666, de 21 de junho de 1993.
+
+**Art. 5º** Fica a cessionária obrigada a arcar com as retribuições devidas entre a data da ocupação dos espaços físicos em águas públicas e a assinatura do instrumento de cessão onerosa relativamente à área ocupada sem autorização prévia, podendo o montante ser parcelado no prazo de até 60 (sessenta) meses.
+
+**Art. 6º** A assinatura do contrato fica condicionada à obtenção, pela pretensa cessionária, de todos os licenciamentos, autorizações, documentos e alvarás necessários ao funcionamento da estrutura náutica de que trata o art. 2º desta Portaria, bem como à rigorosa observância das normas legais e regulamentares aplicáveis.
+
+**Art. 7º** A pretensa cessionária deverá, após convocação, comparecer à Superintendência do Patrimônio da União no Amazonas, no prazo de 30 (trinta) dias, para a assinatura do contrato de cessão de uso onerosa, em regime de arrendamento, sob pena de revogação desta Portaria.
+
+**Art. 8º** Esta Portaria entra em vigor na data de sua publicação.
+
+FERNANDO ANTON BASUS BISPO

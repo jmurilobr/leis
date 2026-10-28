@@ -1,0 +1,3918 @@
+{
+  "criterio": "Congela o próximo lote de candidatos TA, sem repetir identidades já examinadas.\n\nVersão 2: exporta diários/anexos apenas de portais selecionados, evitando exigir\nmetadados de tipos de portais sem candidatos neste lote.\n\nO limite é somente o tamanho do lote de trabalho. A coleta de portais continua;\nreexecuções com as exclusões anteriores cobrem os candidatos seguintes.\n",
+  "selecionados": 672,
+  "disponiveis_apos_exclusoes": 672,
+  "exclusoes": [
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/resultados.jsonl",
+      "sha256": "e02a8d1e15f881485d78bfb6bac0b0a0a7f13ebc35875898b06f22e12fcf9969"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0002/resultados.jsonl",
+      "sha256": "4a236a292f92deb5da31a24f10e313f93187a130772028803738532174987183"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0003/resultados.jsonl",
+      "sha256": "a30f0beb3bcdf6410883449224177c20241655bccee8cb845e917c42cfb9a508"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0004/resultados.jsonl",
+      "sha256": "c4742688d9d15e5c8c53d8dbf43547d565f377bdbabef622fe3e42574678ac28"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0001/resultados.jsonl",
+      "sha256": "5932a21d2f981ad60fb193e59905cb200a864ba63fdc6c6b82cdcb2fb4c8a803"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0002/resultados.jsonl",
+      "sha256": "743684bf7245afe2ce980a1c69e9b9f710145ee757458699075004a2ab54c59b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0003/resultados.jsonl",
+      "sha256": "fec8db37da0df80f24d140744fd160a69d7d54e524757678db4fe532b8d32c6b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0004/resultados.jsonl",
+      "sha256": "973a23f5b8058ae80a9bc8e50f72f6c139658c2e4e278d5e8ed3b678aecc4eb2"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0005/resultados.jsonl",
+      "sha256": "c94f3121369d1d538755aa1db82b139844dd2c059620913a05e6672657ac08a7"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/resultados.jsonl",
+      "sha256": "07d2def1265a88da175c93cce49b1cb0b6e614a39392a8b34298c5077ec67933"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0002/resultados.jsonl",
+      "sha256": "00b0379793a8cefcc6856103200a894027cc12b4ebaa00a0888624acdeb77924"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0003/resultados.jsonl",
+      "sha256": "703972bf99466f32af3ea505376726e60953103c80bfcb015b138b322027bada"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/resultados.jsonl",
+      "sha256": "839b37cdab75de94ecc9f5cb8edaa0a2e6170edb8ef80efcbbe64922b10dee5e"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001-v2/resultados.jsonl",
+      "sha256": "a4757881e0f7c5cc09735b4607fb9436a2681fc6bbdc9bdc884942ba269b02d0"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0002/resultados.jsonl",
+      "sha256": "353d1230a0e13fe4e46b88fdb81aff47a12838c7fbb380c8261269e3df03f5ea"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0006/resultados.jsonl",
+      "sha256": "77fa0bfd91207f69ce1f69b8f288d536fd309260252cbb69eba7992069ea63cc"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0007/resultados.jsonl",
+      "sha256": "17d885bf36143f9de9ba0b2affb3df2e32a291901a3f825be96461c575a3cbf1"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0008/resultados.jsonl",
+      "sha256": "40710202641b46c142de773af6e360358bc0ebc342f005fa9ab2ee5efa6b4d53"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0009/resultados.jsonl",
+      "sha256": "1b47ce849a273d4dc8867137c695a57e05a09daaf1395142e0223a5948143689"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "sha256": "07c28b7649ab8d2b66e5457dc4a91e301c0ad10f207e14d5f8d5386d9d0f922d"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "sha256": "88151915faa9eee309d14b21682d66e7df027ce2c06a26be1c4bcb4d1e715400"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "sha256": "4163cc2ede430d59996828d6c55032be7055f8ac96f55dc7500b36b0bdadecb3"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012-v2/resultados.jsonl",
+      "sha256": "e2da31dfcdbbbf388ec02f9b311e85f5c88669fc7cd3efda03355694394576ac"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012-v3/resultados.jsonl",
+      "sha256": "96f11eb8a39c3f95785207414dcb951cd09e7e6775509a143cd97824a18c9d2c"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0013/resultados.jsonl",
+      "sha256": "938def4e7698e31c7415a6981465ed65dbc789793350b359b499e3381d0fa10b"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0014/resultados.jsonl",
+      "sha256": "4c3cfeeb0a05b2bb00c0f4cb762fd4f7488aedd8d6f71ab7357ff5b1213ff27b"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0015/resultados.jsonl",
+      "sha256": "bbf88caafca24ef2881e3c07118ac25262b4c48173aefe57d0e074929364e301"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0016/resultados.jsonl",
+      "sha256": "b0e76b22e26e2be97db8a67c9bb2d972208287c115aa662250b186ff6f07df9b"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0017/resultados.jsonl",
+      "sha256": "9579a7eb8988886a89e1ba1c778264f2ce53ce9dab591885b5201ba8a8badf16"
+    }
+  ],
+  "prefixos_origem": [
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.acari.rn.leg.br/resultados.jsonl",
+      "sha256_prefixo": "e8871d7cc93b9288fa1e51ff6d80c16da6168f75cf0410251f0adb244788f313",
+      "bytes_prefixo": 1162042
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.acegua.rs.leg.br/resultados.jsonl",
+      "sha256_prefixo": "a001efea70a88bf6cee0f4b892dfab034c91b82cb8d2ed115d1e8cf48be6b77f",
+      "bytes_prefixo": 36907
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.adamantina.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "64d323e8c67b86ba4bf3895dbc0adce6d65fbaf51e182a2b1686e7116971697a",
+      "bytes_prefixo": 15360
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.afonsocunha.ma.leg.br/resultados.jsonl",
+      "sha256_prefixo": "776a0096ea02ec045dd47844bc4f6f07eb2adeb24911c4176fc94daabc6239fa",
+      "bytes_prefixo": 4492
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.agrestina.pe.leg.br/resultados.jsonl",
+      "sha256_prefixo": "7a56d11d973f28dc17a0152fc9d9c20b942baa96fd8ae254dfaff9854c7faed6",
+      "bytes_prefixo": 8288
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.aguaboa.mt.leg.br/resultados.jsonl",
+      "sha256_prefixo": "19dd27bca6e07c73626e8ef2d071baafd51c2eb068ce88aef52679bcb255500a",
+      "bytes_prefixo": 55917
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.aguasformosas.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "e06ba4baa6b11782bff9f377e6a971af5f0759e4931bd41638c6839ff287a452",
+      "bytes_prefixo": 8986
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.agudo.rs.leg.br/resultados.jsonl",
+      "sha256_prefixo": "675735cdecd5df346747448e1c0cc2cdb21dcdf2e17cabea28da5f6897b68715",
+      "bytes_prefixo": 7394990
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.alegre.es.leg.br/resultados.jsonl",
+      "sha256_prefixo": "be6b2eb496ef9dec35d3c52343a4dcec059aaa609629add9a96a0db2f5ea10d4",
+      "bytes_prefixo": 15651
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.alexandria.rn.leg.br/resultados.jsonl",
+      "sha256_prefixo": "4c423b970fab459c69ff75a936c91201ccabd287a2d32cec07ebd813209f623d",
+      "bytes_prefixo": 13196
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.alfenas.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "44b7713ad880aa73e4e2f975a28fe5e6b62768fe9491a245645d1beb2f29a74c",
+      "bytes_prefixo": 4765145
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.alpinopolis.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "07661dd2d0472cf1149c67e40b7ec7255b6ac4bd2d1d8900e7fcda82b7de807e",
+      "bytes_prefixo": 193816
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.altafloresta.mt.leg.br/resultados.jsonl",
+      "sha256_prefixo": "00e304cc613a14654ed6625604e102660af1169d418b4c248f250e09be3ea464",
+      "bytes_prefixo": 21631
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.altaflorestadoeste.ro.leg.br/resultados.jsonl",
+      "sha256_prefixo": "f64f4a0d477a7357c5f173987ffc1de7e94cd7f3a843c1e8f455d45190847370",
+      "bytes_prefixo": 1934
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.altamira.pa.leg.br/resultados.jsonl",
+      "sha256_prefixo": "d43975f35fd9ad3c67668d7761d84dcbb35f30323906c8e6d7ec36e2b54f3f31",
+      "bytes_prefixo": 11837
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.altoalegredoparecis.ro.leg.br/resultados.jsonl",
+      "sha256_prefixo": "9a47f798433837d385c38acfad0668415c0cbc64a590c71f69cde8874d40d424",
+      "bytes_prefixo": 17248
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.altoaraguaia.mt.leg.br/resultados.jsonl",
+      "sha256_prefixo": "129d89e838703a2f902857be66d7463c8b9e728434bf77debd77ec5d4208d525",
+      "bytes_prefixo": 5061
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.altogarcas.mt.leg.br/resultados.jsonl",
+      "sha256_prefixo": "33ce8244011623a55c58022e9d8770462fa3db8631cabfda952063d82d436f07",
+      "bytes_prefixo": 372891
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.alvaresmachado.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "6d31b5763988ef5806517a9a2358882fd332d8698fbc35f1e1e3d50e7270c3fe",
+      "bytes_prefixo": 83589
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.alvoradadonorte.go.leg.br/resultados.jsonl",
+      "sha256_prefixo": "ff50630c7bdc4073c3633990f38e53817749f1ce72520744ae11ba0bdc28b2f1",
+      "bytes_prefixo": 145164
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.amambai.ms.leg.br/resultados.jsonl",
+      "sha256_prefixo": "a38c3bae5a493ced97b6bab8b7ac8dcd09387f9723cadbd5aa1077c77c21796e",
+      "bytes_prefixo": 808
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.amaraji.pe.leg.br/resultados.jsonl",
+      "sha256_prefixo": "838e4a32731127a03b123070ed73798fd6a2b3dbede0e6a79d589d41c25652eb",
+      "bytes_prefixo": 4334
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.americobrasiliense.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "fcabf9be07525c4084b6633b2ec64563f2b3a13713bc9d7dd8ff931c7c2bf2f7",
+      "bytes_prefixo": 868
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.amontada.ce.leg.br/resultados.jsonl",
+      "sha256_prefixo": "2a28ceea8bfacc507dbda1245973de46011fde20cf9d613ca69b6a3134697b97",
+      "bytes_prefixo": 5501552
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.anapolis.go.leg.br/resultados.jsonl",
+      "sha256_prefixo": "aab0459cbc648fea3d0ff2450ad9bedef7e1880c9121b45e3330a345cb728582",
+      "bytes_prefixo": 33846
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.anchieta.sc.leg.br/resultados.jsonl",
+      "sha256_prefixo": "84cbc494b0a2552efb7552efd7e877c0ef4158fbcfb282b54ad74c16fa475ce1",
+      "bytes_prefixo": 15878
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.andradas.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "34b101f06e9d47687a980ec3d9c2eaeda5a5bb5f6901ed02d88b8438c90d156e",
+      "bytes_prefixo": 95437
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.angicaldopiaui.pi.leg.br/resultados.jsonl",
+      "sha256_prefixo": "bb58e79bf451c98320ec4e61a07f93ad2b31993e0213bb4d4f18abef1c4294ab",
+      "bytes_prefixo": 2694
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.angradosreis.rj.leg.br/resultados.jsonl",
+      "sha256_prefixo": "8758f6981f526d21e01ebe0d93013720a7108dc8ae378706a079121318be4c05",
+      "bytes_prefixo": 3933
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.angulo.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "27a865a13de1c3cfa45a1f8ddd54bc6d653b7740b874cf8c0182b71c448aac38",
+      "bytes_prefixo": 809553
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.antas.ba.leg.br/resultados.jsonl",
+      "sha256_prefixo": "f1e77edde138820e9341548f851ed1b04fddf170633154b335c529bb58b19397",
+      "bytes_prefixo": 80042
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.antonioalmeida.pi.leg.br/resultados.jsonl",
+      "sha256_prefixo": "45e049a4a2ed797a1286b7226e7ddec0b11bb6fb8af9884fd91a2c336caf8554",
+      "bytes_prefixo": 60501
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.antonioolinto.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "3eed130a2cd7f79fe58f5938133e3b05ef9683ddd1d5bdef3689c33827bb20b8",
+      "bytes_prefixo": 771
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.apuarema.ba.leg.br/resultados.jsonl",
+      "sha256_prefixo": "179b51feee3e72fecc79a7e7abaab5e3633da39116bcf860d27246360f4892f2",
+      "bytes_prefixo": 3379
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.apucarana.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "c40bfff870125411af849a42e323be956fb72597f8cae17b8bf84002c36b09b5",
+      "bytes_prefixo": 4726386
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.aquiraz.ce.leg.br/resultados.jsonl",
+      "sha256_prefixo": "cc23b615a18a4ec23ec7aa56c0585f8e698100e07edb912061aa42af8c0c10ef",
+      "bytes_prefixo": 158877
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.aracati.ce.leg.br/resultados.jsonl",
+      "sha256_prefixo": "a0e69d3f06e1c4a91d052c9618b5804727e5988f0bd175a36244484411a44cd0",
+      "bytes_prefixo": 93212
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.araci.ba.leg.br/resultados.jsonl",
+      "sha256_prefixo": "412d5ee0654d0f5ecab57b544326bd6ee57e0edee2d21dca06e1b9a90072995a",
+      "bytes_prefixo": 602230
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.araguari.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "8808e3a48bb3334457a4b4803b1f7da9b5fc28eaa8ee3bf94e593cdd61a069e2",
+      "bytes_prefixo": 157108
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.arapongas.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "051f1d250dbaf5b073dfcb66638cf3bdd1a5c3c982850570fee8cb406372c194",
+      "bytes_prefixo": 783889
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.arapora.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "d04eab6f27f0a344e1a50ec5005c5409dc0d9bbf272410b22bad4bff889e7497",
+      "bytes_prefixo": 1522
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.arapua.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "c631b5e36ff55a3495476d6b237992e3359323969cbd84157f300e111e322898",
+      "bytes_prefixo": 2468
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.araripina.pe.leg.br/resultados.jsonl",
+      "sha256_prefixo": "13e910b78954ece5bce8e698829db1cde064b10e729f26761b5f3778a19fb6ce",
+      "bytes_prefixo": 137550
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.araruna.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "b3289a29bd20f4e5d3b6e8bc551514d34a16ab67cbeb99c73867c68ca4f1b066",
+      "bytes_prefixo": 9186
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.araucaria.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "2aa889d63070f9f225077e41b8a7b52d8c53a11ad3ead2f6bb57652eb7e03a1a",
+      "bytes_prefixo": 430901
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.araxa.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "aad680508a013cbb64ff6429da06b0e205db111fadbfbccbb53c1752e7f535a3",
+      "bytes_prefixo": 2656
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.arcos.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "14e65a9f5ff3118d79fa1ed75f1060bc64e3dbe529845ea836c9837ab610847c",
+      "bytes_prefixo": 2359
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.areias.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "557fc94378ec8c655cc5983f5202fdb06b9e0010ce462054fd6fb964890ea117",
+      "bytes_prefixo": 117295
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.arinos.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "b16d52f8471db6528e40f5dfacc5fecb967103954ae72676dba8437b2084a433",
+      "bytes_prefixo": 5495
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.arroiodosratos.rs.leg.br/resultados.jsonl",
+      "sha256_prefixo": "517d616d3cc6605b17cc9c9a0f1f93f914e4d37c6927af6bf6832bcef0f4f1a3",
+      "bytes_prefixo": 840
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.arturnogueira.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "19b90c2d1a0a7fcc0453948b19e25534b9d25939c437da71d3b9112c02adf4eb",
+      "bytes_prefixo": 689842
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.baixagrandedoribeiro.pi.leg.br/resultados.jsonl",
+      "sha256_prefixo": "303db2c64f500b903951d2bd4796a25d34c24c40b79622b4ac9bba638a764761",
+      "bytes_prefixo": 3509
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.baixoguandu.es.leg.br/resultados.jsonl",
+      "sha256_prefixo": "80e7e9e77c95104ca9d7fa1498b41db0f1ea07abc40762010d819785e143f2f9",
+      "bytes_prefixo": 115847
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.bananeiras.pb.leg.br/resultados.jsonl",
+      "sha256_prefixo": "c3056980151a1b602b56edd6df4dce5436940adae290b974d913f02ddec27a3f",
+      "bytes_prefixo": 956787
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.bandeiradosul.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "31ea16b68fd237635dd999f9958d7e1788d9adac1b6ee1c69fdfdcd32abd5ba9",
+      "bytes_prefixo": 18795
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.banzae.ba.leg.br/resultados.jsonl",
+      "sha256_prefixo": "5c02f23978a7f6af6e04da27ea9e8f6d0e37e333dacd83818a1104a4e96c07dd",
+      "bytes_prefixo": 517540
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.barao.rs.leg.br/resultados.jsonl",
+      "sha256_prefixo": "9c630789304d4c7350612cde0a06355c7320cd6cb82d7af1b45b6efc141ce950",
+      "bytes_prefixo": 4614
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.baraodecotegipe.rs.leg.br/resultados.jsonl",
+      "sha256_prefixo": "5d8a51da892541fba8525b2dddabee22e1e77076d2580758d8bc8dfcf02af285",
+      "bytes_prefixo": 6316
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.barauna.pb.leg.br/resultados.jsonl",
+      "sha256_prefixo": "13fc4fc6feb4a070154f8ebceb3ea6eac8980c854b7fd342e39072e868e5157a",
+      "bytes_prefixo": 14316
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.bariri.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "851fa8b5e3d39dbb79e89b2c57adc0591121aa63997926d43b4efd41007aad75",
+      "bytes_prefixo": 9323
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.barradaestiva.ba.leg.br/resultados.jsonl",
+      "sha256_prefixo": "269c4ea96f27cd9753eb7a0588e8cfd112a2f82ddbf38d37f92ec3b220e487da",
+      "bytes_prefixo": 2517
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.barradesaomiguel.pb.leg.br/resultados.jsonl",
+      "sha256_prefixo": "d63ea38980bee1a970843fcaa2c31194e1cfd316c162d7113d9a5e4a1b2c87d9",
+      "bytes_prefixo": 4678
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.barradogarcas.mt.leg.br/resultados.jsonl",
+      "sha256_prefixo": "8fb9cc53003745237a0972209ba574e700d63cb12ddc4a3126c8c728113a3738",
+      "bytes_prefixo": 362486
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.barradopirai.rj.leg.br/resultados.jsonl",
+      "sha256_prefixo": "a579678a80f22f426f371be85a2544ceeea8a7cfaad5cf114092a23091ae2094",
+      "bytes_prefixo": 406157
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.barradoribeiro.rs.leg.br/resultados.jsonl",
+      "sha256_prefixo": "1fb193df73710a6a6a994fd754d6bc142cc38e9b8cbd1ec535535361b8f58bb4",
+      "bytes_prefixo": 3254
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.barramansa.rj.leg.br/resultados.jsonl",
+      "sha256_prefixo": "53cdbb0f52422e6c8e8f2c72ecec885b854c1b41c33f468a45f33e14058756c9",
+      "bytes_prefixo": 3604644
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.barueri.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "5f3ee1827e0f2e4717b402a74d8fc27855e856725ff21cc6c151b5470d0b9e1b",
+      "bytes_prefixo": 55567
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.bayeux.pb.leg.br/resultados.jsonl",
+      "sha256_prefixo": "17b4929772b43f9c5e10b979f51c2c5a123990da67dfb8c0214a9b804d969506",
+      "bytes_prefixo": 45944
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.beberibe.ce.leg.br/resultados.jsonl",
+      "sha256_prefixo": "d7b91334d71605a4802ee534253489d9d9f88bff3a86cf9422cf24e7413a0e8e",
+      "bytes_prefixo": 141509
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.belavistadacaroba.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "7a72813295e5caecbbdbc56a24b78e27633075339d8fbaae75dd9e31be20c094",
+      "bytes_prefixo": 1667
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.belfordroxo.rj.leg.br/resultados.jsonl",
+      "sha256_prefixo": "f88019ffcbec3a8ffe848292b8c0b0db0c070c39881c4f212a8b8f926766d3a9",
+      "bytes_prefixo": 88299
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.benevides.pa.leg.br/resultados.jsonl",
+      "sha256_prefixo": "7069939b84800494d0fcb217e130afabdf72193dcc2b87e8b28a2d7898e6b0c2",
+      "bytes_prefixo": 1559
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.bertioga.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "0a01beb87ba8ed924c8bd640fe88439730c1027893cff62aee6b81894aee466b",
+      "bytes_prefixo": 4302445
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.betania.pe.leg.br/resultados.jsonl",
+      "sha256_prefixo": "412188bff4b8e8d5b6a8a41edbf869c2ab374f110699669629a5d39c26fac706",
+      "bytes_prefixo": 5260
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.bezerros.pe.leg.br/resultados.jsonl",
+      "sha256_prefixo": "5c01369e4d0b3223edf10b30b73f57d56f3792732179b97757203b67bb19ba8e",
+      "bytes_prefixo": 24352
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.bicas.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "25f7662b9c66e344ce6b6bcb92c20a20fbb892a047231f814d046e1829ac125d",
+      "bytes_prefixo": 1633168
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.birigui.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "cd09bba18d3adfebeca4c04db062426e753b78d935f8f94de7272cd940d07fd4",
+      "bytes_prefixo": 1324748
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.campomourao.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "aaabba7efe86f8c11c361125df40ba461e1f2e8028dfebc7958c78bc21e0601f",
+      "bytes_prefixo": 44968
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.cascavel.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "c04f86da894e04acf05797afa266dc73568370b8be5056e1718e976207878dcb",
+      "bytes_prefixo": 3141
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.dourados.ms.leg.br/resultados.jsonl",
+      "sha256_prefixo": "9b183ed3e193772acb2f75af61b55c6bc5f45b592763a7c7a1dd71a7762ba37c",
+      "bytes_prefixo": 11871
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.erechim.rs.leg.br/resultados.jsonl",
+      "sha256_prefixo": "8d15e15d32e69ac88fdd9dcbdaa1c044cb883eaefda9f02f512861d08c7b2ce4",
+      "bytes_prefixo": 3497080
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.fortaleza.ce.leg.br/resultados.jsonl",
+      "sha256_prefixo": "e3c1bc84b44861d9ff5c8814e95f24619197993b465b5867cac6af6aa2fae6b8",
+      "bytes_prefixo": 11866890
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.patobranco.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "019312de5f04ae8e31d9c77e30f95c9685712299812b0280fb7dbb702fa69a16",
+      "bytes_prefixo": 318813
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.portovelho.ro.leg.br/resultados.jsonl",
+      "sha256_prefixo": "cd48c0bec88ee62d5335eeb933ffc2042921ebb775296c5aab038613ea79044c",
+      "bytes_prefixo": 20970799
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.riobranco.ac.leg.br/resultados.jsonl",
+      "sha256_prefixo": "0bd822f7eff90d6dd27d4d4c5955b3ecc58f64a57142d79d41be8dbed428b47e",
+      "bytes_prefixo": 1738590
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0005/sapl.santarem.pa.leg.br/resultados.jsonl",
+      "sha256_prefixo": "88592c9785109c298bfcddaf9184702ceb3cf78361172c6df5e5006a47093f90",
+      "bytes_prefixo": 209459
+    }
+  ],
+  "script_sha256": "ed1f0a1eaeda7c9c3f1271ecdbbae4634b92e070bb936d4d89f3e5d2ac57f520",
+  "identidades": [
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 945,
+      "norma_id": 1973
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3535,
+      "norma_id": 8399
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 948,
+      "norma_id": 1972
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3531,
+      "norma_id": 8395
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 949,
+      "norma_id": 1971
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3530,
+      "norma_id": 8394
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 950,
+      "norma_id": 1970
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3529,
+      "norma_id": 8393
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 201,
+      "norma_id": 1969
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3534,
+      "norma_id": 8398
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 952,
+      "norma_id": 1968
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3533,
+      "norma_id": 8397
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 951,
+      "norma_id": 1967
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3532,
+      "norma_id": 8396
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 883,
+      "norma_id": 1966
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3528,
+      "norma_id": 8392
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 954,
+      "norma_id": 1965
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3527,
+      "norma_id": 8391
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 955,
+      "norma_id": 1964
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3526,
+      "norma_id": 8390
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 957,
+      "norma_id": 1963
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3525,
+      "norma_id": 8389
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 958,
+      "norma_id": 1962
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3524,
+      "norma_id": 8388
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 959,
+      "norma_id": 1961
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3523,
+      "norma_id": 8387
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 960,
+      "norma_id": 1960
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3521,
+      "norma_id": 8385
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 961,
+      "norma_id": 1959
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3520,
+      "norma_id": 8386
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 962,
+      "norma_id": 1958
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3519,
+      "norma_id": 8384
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 963,
+      "norma_id": 1957
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3516,
+      "norma_id": 8383
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 964,
+      "norma_id": 1956
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3515,
+      "norma_id": 8382
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 965,
+      "norma_id": 1955
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3514,
+      "norma_id": 8381
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 966,
+      "norma_id": 1954
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3513,
+      "norma_id": 8380
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 967,
+      "norma_id": 1953
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3511,
+      "norma_id": 8378
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 968,
+      "norma_id": 1952
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3510,
+      "norma_id": 8376
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 969,
+      "norma_id": 1951
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3509,
+      "norma_id": 8375
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 970,
+      "norma_id": 1950
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3507,
+      "norma_id": 8374
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 971,
+      "norma_id": 1949
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3506,
+      "norma_id": 8377
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 972,
+      "norma_id": 1948
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3505,
+      "norma_id": 8373
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 973,
+      "norma_id": 1947
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3504,
+      "norma_id": 8372
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 974,
+      "norma_id": 1946
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3503,
+      "norma_id": 8371
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 975,
+      "norma_id": 1945
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3502,
+      "norma_id": 8370
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 976,
+      "norma_id": 1944
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3501,
+      "norma_id": 8369
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 977,
+      "norma_id": 1943
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3512,
+      "norma_id": 8379
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 978,
+      "norma_id": 1942
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3500,
+      "norma_id": 8368
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 979,
+      "norma_id": 1941
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3499,
+      "norma_id": 8367
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 980,
+      "norma_id": 1940
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3461,
+      "norma_id": 8366
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 981,
+      "norma_id": 1939
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3403,
+      "norma_id": 8365
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 982,
+      "norma_id": 1938
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3341,
+      "norma_id": 8364
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 983,
+      "norma_id": 1937
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3280,
+      "norma_id": 8363
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 984,
+      "norma_id": 1936
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3279,
+      "norma_id": 8362
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 985,
+      "norma_id": 1935
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3274,
+      "norma_id": 8359
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 986,
+      "norma_id": 1934
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3278,
+      "norma_id": 8361
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 987,
+      "norma_id": 1933
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3275,
+      "norma_id": 8360
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 988,
+      "norma_id": 1932
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3242,
+      "norma_id": 8358
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 989,
+      "norma_id": 1931
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3237,
+      "norma_id": 8357
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 991,
+      "norma_id": 1930
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3235,
+      "norma_id": 8355
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 992,
+      "norma_id": 1929
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3227,
+      "norma_id": 8353
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 993,
+      "norma_id": 1928
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3226,
+      "norma_id": 8352
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 994,
+      "norma_id": 1927
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3225,
+      "norma_id": 8351
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 995,
+      "norma_id": 1926
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3224,
+      "norma_id": 8354
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 996,
+      "norma_id": 1925
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3223,
+      "norma_id": 8350
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 997,
+      "norma_id": 1924
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3213,
+      "norma_id": 8349
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 998,
+      "norma_id": 1923
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3212,
+      "norma_id": 8348
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 999,
+      "norma_id": 1922
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3202,
+      "norma_id": 8347
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1005,
+      "norma_id": 1921
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3201,
+      "norma_id": 8346
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1007,
+      "norma_id": 1920
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3200,
+      "norma_id": 8345
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1008,
+      "norma_id": 1919
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3199,
+      "norma_id": 8344
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1010,
+      "norma_id": 1917
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3198,
+      "norma_id": 8343
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 562,
+      "norma_id": 1916
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3197,
+      "norma_id": 8342
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1011,
+      "norma_id": 1915
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3186,
+      "norma_id": 8341
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 946,
+      "norma_id": 1914
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3185,
+      "norma_id": 8337
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1012,
+      "norma_id": 1913
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3184,
+      "norma_id": 8336
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1013,
+      "norma_id": 1912
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3183,
+      "norma_id": 8335
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1014,
+      "norma_id": 1911
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3181,
+      "norma_id": 8334
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 648,
+      "norma_id": 1910
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3180,
+      "norma_id": 8340
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1003,
+      "norma_id": 1909
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3179,
+      "norma_id": 8339
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 350,
+      "norma_id": 1908
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3178,
+      "norma_id": 8338
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 33,
+      "norma_id": 65
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3177,
+      "norma_id": 8333
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1015,
+      "norma_id": 1907
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3176,
+      "norma_id": 8332
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1017,
+      "norma_id": 1906
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3175,
+      "norma_id": 8331
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1019,
+      "norma_id": 1905
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3174,
+      "norma_id": 8330
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1020,
+      "norma_id": 1904
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3173,
+      "norma_id": 8329
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1021,
+      "norma_id": 1903
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3165,
+      "norma_id": 8326
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1022,
+      "norma_id": 1902
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3164,
+      "norma_id": 8325
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1023,
+      "norma_id": 1901
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3163,
+      "norma_id": 8324
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1024,
+      "norma_id": 1900
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3167,
+      "norma_id": 8328
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1025,
+      "norma_id": 1899
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3166,
+      "norma_id": 8327
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1026,
+      "norma_id": 1898
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3110,
+      "norma_id": 8322
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 400,
+      "norma_id": 1601
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3109,
+      "norma_id": 8321
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1027,
+      "norma_id": 4545
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3106,
+      "norma_id": 8320
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 584,
+      "norma_id": 4405
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3105,
+      "norma_id": 8319
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1028,
+      "norma_id": 4404
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3086,
+      "norma_id": 8318
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1029,
+      "norma_id": 4403
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3104,
+      "norma_id": 8323
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1030,
+      "norma_id": 4402
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3085,
+      "norma_id": 8317
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1031,
+      "norma_id": 4401
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3087,
+      "norma_id": 8316
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1032,
+      "norma_id": 4400
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 3065,
+      "norma_id": 8315
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 884,
+      "norma_id": 4399
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2986,
+      "norma_id": 8314
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1034,
+      "norma_id": 4398
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2983,
+      "norma_id": 8312
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1035,
+      "norma_id": 4397
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2977,
+      "norma_id": 8311
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1036,
+      "norma_id": 4396
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2976,
+      "norma_id": 8310
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1037,
+      "norma_id": 4395
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2975,
+      "norma_id": 8309
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1038,
+      "norma_id": 4394
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2974,
+      "norma_id": 8308
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1039,
+      "norma_id": 4393
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2912,
+      "norma_id": 8307
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1041,
+      "norma_id": 4392
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2890,
+      "norma_id": 8306
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1042,
+      "norma_id": 4391
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2889,
+      "norma_id": 8305
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1044,
+      "norma_id": 4390
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2888,
+      "norma_id": 8304
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1045,
+      "norma_id": 4599
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2887,
+      "norma_id": 8303
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 52,
+      "norma_id": 64
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2886,
+      "norma_id": 8302
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1046,
+      "norma_id": 4389
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2867,
+      "norma_id": 8300
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1047,
+      "norma_id": 4388
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2866,
+      "norma_id": 8299
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1049,
+      "norma_id": 4386
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2865,
+      "norma_id": 8298
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1051,
+      "norma_id": 4385
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2864,
+      "norma_id": 8297
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1052,
+      "norma_id": 4384
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2863,
+      "norma_id": 8296
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1053,
+      "norma_id": 4383
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2862,
+      "norma_id": 8295
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 596,
+      "norma_id": 4382
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2861,
+      "norma_id": 8294
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1054,
+      "norma_id": 4381
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2860,
+      "norma_id": 8293
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1040,
+      "norma_id": 4380
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2859,
+      "norma_id": 8292
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1055,
+      "norma_id": 4379
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2851,
+      "norma_id": 8291
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1056,
+      "norma_id": 4378
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2850,
+      "norma_id": 8290
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1059,
+      "norma_id": 4377
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2848,
+      "norma_id": 8289
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 660,
+      "norma_id": 4376
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2847,
+      "norma_id": 8288
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1057,
+      "norma_id": 4375
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2846,
+      "norma_id": 8287
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1058,
+      "norma_id": 4374
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2845,
+      "norma_id": 8286
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1060,
+      "norma_id": 4373
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2844,
+      "norma_id": 8285
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1061,
+      "norma_id": 4372
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2843,
+      "norma_id": 8284
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1062,
+      "norma_id": 4371
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2842,
+      "norma_id": 8283
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1063,
+      "norma_id": 4370
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2818,
+      "norma_id": 8282
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1064,
+      "norma_id": 4369
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2819,
+      "norma_id": 8281
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1070,
+      "norma_id": 4368
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2817,
+      "norma_id": 8280
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1068,
+      "norma_id": 4367
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2816,
+      "norma_id": 8279
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1071,
+      "norma_id": 4366
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2815,
+      "norma_id": 8278
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1072,
+      "norma_id": 4365
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2814,
+      "norma_id": 8277
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1074,
+      "norma_id": 4364
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2813,
+      "norma_id": 8276
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1067,
+      "norma_id": 4363
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2812,
+      "norma_id": 8275
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1075,
+      "norma_id": 4362
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2811,
+      "norma_id": 8274
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 392,
+      "norma_id": 4595
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2810,
+      "norma_id": 8273
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1076,
+      "norma_id": 4361
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2808,
+      "norma_id": 8271
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1077,
+      "norma_id": 4360
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2807,
+      "norma_id": 8270
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1078,
+      "norma_id": 4359
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2803,
+      "norma_id": 8269
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1079,
+      "norma_id": 4358
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2801,
+      "norma_id": 8268
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1080,
+      "norma_id": 4357
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2798,
+      "norma_id": 8267
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1081,
+      "norma_id": 4356
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2797,
+      "norma_id": 8266
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 834,
+      "norma_id": 4355
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2784,
+      "norma_id": 8272
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1083,
+      "norma_id": 4354
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2783,
+      "norma_id": 8265
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1084,
+      "norma_id": 4353
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2782,
+      "norma_id": 8264
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1085,
+      "norma_id": 4352
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2781,
+      "norma_id": 8263
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1086,
+      "norma_id": 4351
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2769,
+      "norma_id": 8262
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1087,
+      "norma_id": 4350
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2768,
+      "norma_id": 8261
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1090,
+      "norma_id": 4348
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2767,
+      "norma_id": 8260
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1575,
+      "norma_id": 4347
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2766,
+      "norma_id": 8259
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1091,
+      "norma_id": 4346
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2765,
+      "norma_id": 8258
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1092,
+      "norma_id": 4345
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2764,
+      "norma_id": 8257
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1093,
+      "norma_id": 4344
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2763,
+      "norma_id": 8256
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1094,
+      "norma_id": 4343
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2756,
+      "norma_id": 8255
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 598,
+      "norma_id": 4342
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2755,
+      "norma_id": 8254
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1095,
+      "norma_id": 4341
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2754,
+      "norma_id": 8253
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1096,
+      "norma_id": 4340
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2753,
+      "norma_id": 8252
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1097,
+      "norma_id": 4339
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2752,
+      "norma_id": 8251
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1098,
+      "norma_id": 4338
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2738,
+      "norma_id": 8250
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1099,
+      "norma_id": 4337
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2737,
+      "norma_id": 8249
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1100,
+      "norma_id": 4336
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2736,
+      "norma_id": 8248
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1101,
+      "norma_id": 4335
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2735,
+      "norma_id": 8247
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1102,
+      "norma_id": 4333
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2734,
+      "norma_id": 8246
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1103,
+      "norma_id": 4330
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2733,
+      "norma_id": 8245
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1105,
+      "norma_id": 4326
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2732,
+      "norma_id": 8244
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1107,
+      "norma_id": 4324
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2731,
+      "norma_id": 8243
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1108,
+      "norma_id": 4323
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2730,
+      "norma_id": 8242
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1109,
+      "norma_id": 4322
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2728,
+      "norma_id": 8241
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1110,
+      "norma_id": 4321
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2727,
+      "norma_id": 8240
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1111,
+      "norma_id": 4320
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2723,
+      "norma_id": 8238
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1112,
+      "norma_id": 4319
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2725,
+      "norma_id": 8237
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1113,
+      "norma_id": 4318
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2724,
+      "norma_id": 8236
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1114,
+      "norma_id": 4317
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2719,
+      "norma_id": 8235
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1125,
+      "norma_id": 4544
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2718,
+      "norma_id": 8234
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1115,
+      "norma_id": 4543
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2716,
+      "norma_id": 8233
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1116,
+      "norma_id": 4316
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2715,
+      "norma_id": 8232
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1117,
+      "norma_id": 4315
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2714,
+      "norma_id": 8231
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1118,
+      "norma_id": 4314
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2722,
+      "norma_id": 8239
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1119,
+      "norma_id": 4313
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2711,
+      "norma_id": 8230
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1120,
+      "norma_id": 4312
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2704,
+      "norma_id": 8225
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1121,
+      "norma_id": 4311
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2703,
+      "norma_id": 8224
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1122,
+      "norma_id": 4310
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2710,
+      "norma_id": 8229
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1123,
+      "norma_id": 4309
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2702,
+      "norma_id": 8223
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1124,
+      "norma_id": 4308
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2701,
+      "norma_id": 8222
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1126,
+      "norma_id": 4307
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2700,
+      "norma_id": 8221
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1127,
+      "norma_id": 4306
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2699,
+      "norma_id": 8220
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1128,
+      "norma_id": 4305
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2698,
+      "norma_id": 8219
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1129,
+      "norma_id": 4304
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2697,
+      "norma_id": 8218
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1130,
+      "norma_id": 4303
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2696,
+      "norma_id": 8217
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1089,
+      "norma_id": 4302
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2695,
+      "norma_id": 8216
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1131,
+      "norma_id": 4301
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2694,
+      "norma_id": 8215
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 371,
+      "norma_id": 4621
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2693,
+      "norma_id": 8214
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1132,
+      "norma_id": 4300
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2692,
+      "norma_id": 8213
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1169,
+      "norma_id": 4299
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2660,
+      "norma_id": 8210
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 51,
+      "norma_id": 63
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2659,
+      "norma_id": 8209
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1182,
+      "norma_id": 4298
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2658,
+      "norma_id": 8208
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 237,
+      "norma_id": 3428
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2709,
+      "norma_id": 8228
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1172,
+      "norma_id": 4297
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2691,
+      "norma_id": 8212
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 353,
+      "norma_id": 4296
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2549,
+      "norma_id": 8205
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1168,
+      "norma_id": 4295
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2657,
+      "norma_id": 8206
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1170,
+      "norma_id": 4294
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2548,
+      "norma_id": 8203
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1174,
+      "norma_id": 4293
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2547,
+      "norma_id": 8202
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1176,
+      "norma_id": 4292
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2546,
+      "norma_id": 8201
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1177,
+      "norma_id": 4291
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2545,
+      "norma_id": 8204
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1178,
+      "norma_id": 4290
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2690,
+      "norma_id": 8211
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1179,
+      "norma_id": 4289
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2516,
+      "norma_id": 8199
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 437,
+      "norma_id": 1600
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2515,
+      "norma_id": 8198
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1180,
+      "norma_id": 4288
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2514,
+      "norma_id": 8200
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1181,
+      "norma_id": 4287
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2661,
+      "norma_id": 8207
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1183,
+      "norma_id": 4286
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2708,
+      "norma_id": 8226
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1184,
+      "norma_id": 4285
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2467,
+      "norma_id": 8196
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1185,
+      "norma_id": 4284
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2466,
+      "norma_id": 8195
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1186,
+      "norma_id": 4283
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2465,
+      "norma_id": 8194
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1187,
+      "norma_id": 4282
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2464,
+      "norma_id": 8193
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1188,
+      "norma_id": 4281
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2463,
+      "norma_id": 8192
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1173,
+      "norma_id": 4280
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2344,
+      "norma_id": 8191
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1175,
+      "norma_id": 4279
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2320,
+      "norma_id": 8187
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1189,
+      "norma_id": 4278
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2319,
+      "norma_id": 8186
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1190,
+      "norma_id": 4277
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2321,
+      "norma_id": 8188
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1191,
+      "norma_id": 4276
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2263,
+      "norma_id": 8184
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1192,
+      "norma_id": 4275
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2262,
+      "norma_id": 8183
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1193,
+      "norma_id": 4274
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2261,
+      "norma_id": 8182
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1194,
+      "norma_id": 4273
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2323,
+      "norma_id": 8190
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 488,
+      "norma_id": 4272
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2322,
+      "norma_id": 8189
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1195,
+      "norma_id": 4271
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2143,
+      "norma_id": 8171
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1196,
+      "norma_id": 4270
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2142,
+      "norma_id": 8170
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1197,
+      "norma_id": 4269
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2141,
+      "norma_id": 8169
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1198,
+      "norma_id": 4268
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2192,
+      "norma_id": 8174
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1199,
+      "norma_id": 4267
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2191,
+      "norma_id": 8173
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1200,
+      "norma_id": 4542
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2190,
+      "norma_id": 8172
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1201,
+      "norma_id": 4266
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1824,
+      "norma_id": 8168
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1202,
+      "norma_id": 4265
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2254,
+      "norma_id": 8179
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1203,
+      "norma_id": 4264
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2253,
+      "norma_id": 8178
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1204,
+      "norma_id": 4263
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1791,
+      "norma_id": 8167
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1205,
+      "norma_id": 4262
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1772,
+      "norma_id": 8166
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1207,
+      "norma_id": 4261
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2255,
+      "norma_id": 8180
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1208,
+      "norma_id": 4260
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2264,
+      "norma_id": 8181
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1209,
+      "norma_id": 4259
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2252,
+      "norma_id": 8177
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1210,
+      "norma_id": 4258
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2251,
+      "norma_id": 8176
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1211,
+      "norma_id": 4257
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1750,
+      "norma_id": 8158
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1212,
+      "norma_id": 4256
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2250,
+      "norma_id": 8175
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1213,
+      "norma_id": 4255
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1749,
+      "norma_id": 8165
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1214,
+      "norma_id": 4254
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1748,
+      "norma_id": 8164
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1215,
+      "norma_id": 4253
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1747,
+      "norma_id": 8163
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1216,
+      "norma_id": 4252
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1746,
+      "norma_id": 8162
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1217,
+      "norma_id": 4251
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1745,
+      "norma_id": 8157
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1218,
+      "norma_id": 4250
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1744,
+      "norma_id": 8156
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1219,
+      "norma_id": 4249
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1682,
+      "norma_id": 8149
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1220,
+      "norma_id": 4248
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1681,
+      "norma_id": 8148
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1221,
+      "norma_id": 4247
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1680,
+      "norma_id": 8147
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1222,
+      "norma_id": 4541
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1743,
+      "norma_id": 8161
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 405,
+      "norma_id": 4600
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1742,
+      "norma_id": 8160
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 607,
+      "norma_id": 4246
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1741,
+      "norma_id": 8155
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1223,
+      "norma_id": 4245
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1740,
+      "norma_id": 8154
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 372,
+      "norma_id": 4622
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1739,
+      "norma_id": 8153
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1224,
+      "norma_id": 3092
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1738,
+      "norma_id": 8159
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 200,
+      "norma_id": 3350
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1736,
+      "norma_id": 8151
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1225,
+      "norma_id": 4244
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1551,
+      "norma_id": 8146
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1226,
+      "norma_id": 4243
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1549,
+      "norma_id": 8145
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1227,
+      "norma_id": 4242
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1548,
+      "norma_id": 8144
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1228,
+      "norma_id": 4241
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1546,
+      "norma_id": 8143
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1229,
+      "norma_id": 4240
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1545,
+      "norma_id": 8142
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1230,
+      "norma_id": 4239
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1544,
+      "norma_id": 8141
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1231,
+      "norma_id": 4238
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1737,
+      "norma_id": 8152
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1232,
+      "norma_id": 4237
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1543,
+      "norma_id": 8140
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1233,
+      "norma_id": 4235
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1542,
+      "norma_id": 8139
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1234,
+      "norma_id": 4234
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1541,
+      "norma_id": 8138
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1235,
+      "norma_id": 4233
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1366,
+      "norma_id": 8127
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1236,
+      "norma_id": 4232
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1359,
+      "norma_id": 8126
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1237,
+      "norma_id": 4231
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1377,
+      "norma_id": 8135
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1238,
+      "norma_id": 4230
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1378,
+      "norma_id": 8134
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1239,
+      "norma_id": 4229
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1379,
+      "norma_id": 8133
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1240,
+      "norma_id": 4228
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1380,
+      "norma_id": 8132
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1241,
+      "norma_id": 4227
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1385,
+      "norma_id": 8131
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1242,
+      "norma_id": 4226
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1381,
+      "norma_id": 8130
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1243,
+      "norma_id": 4225
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1386,
+      "norma_id": 8129
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1244,
+      "norma_id": 4224
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1478,
+      "norma_id": 8137
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1245,
+      "norma_id": 4223
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1283,
+      "norma_id": 8125
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1246,
+      "norma_id": 4236
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1207,
+      "norma_id": 8113
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1247,
+      "norma_id": 3780
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1206,
+      "norma_id": 8112
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1248,
+      "norma_id": 3779
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1205,
+      "norma_id": 8111
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1249,
+      "norma_id": 3778
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1204,
+      "norma_id": 8110
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1250,
+      "norma_id": 3777
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 2265,
+      "norma_id": 8185
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1251,
+      "norma_id": 3776
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1208,
+      "norma_id": 8121
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1252,
+      "norma_id": 3775
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1172,
+      "norma_id": 8092
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1253,
+      "norma_id": 3774
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1387,
+      "norma_id": 8136
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1254,
+      "norma_id": 3773
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1209,
+      "norma_id": 8120
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1255,
+      "norma_id": 3772
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1210,
+      "norma_id": 8119
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1256,
+      "norma_id": 3771
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1376,
+      "norma_id": 8128
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1257,
+      "norma_id": 3770
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1290,
+      "norma_id": 8123
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1258,
+      "norma_id": 3769
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1217,
+      "norma_id": 8118
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1259,
+      "norma_id": 3768
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1211,
+      "norma_id": 8117
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1260,
+      "norma_id": 3767
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1212,
+      "norma_id": 8116
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1262,
+      "norma_id": 3766
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1266,
+      "norma_id": 8122
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1264,
+      "norma_id": 3765
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1213,
+      "norma_id": 8115
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1265,
+      "norma_id": 3764
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1214,
+      "norma_id": 8114
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1266,
+      "norma_id": 3763
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1146,
+      "norma_id": 8091
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1267,
+      "norma_id": 3502
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1145,
+      "norma_id": 8090
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1268,
+      "norma_id": 3762
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1144,
+      "norma_id": 8089
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 902,
+      "norma_id": 4755
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1143,
+      "norma_id": 8088
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1269,
+      "norma_id": 3761
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1142,
+      "norma_id": 8087
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1270,
+      "norma_id": 3760
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1141,
+      "norma_id": 8086
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1271,
+      "norma_id": 3759
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1139,
+      "norma_id": 8085
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1272,
+      "norma_id": 3758
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1174,
+      "norma_id": 8107
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1273,
+      "norma_id": 3757
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1175,
+      "norma_id": 8106
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1274,
+      "norma_id": 3756
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1176,
+      "norma_id": 8105
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1275,
+      "norma_id": 3755
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1177,
+      "norma_id": 8104
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1276,
+      "norma_id": 3754
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1178,
+      "norma_id": 8103
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1277,
+      "norma_id": 3753
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1179,
+      "norma_id": 8102
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1278,
+      "norma_id": 4551
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1292,
+      "norma_id": 8124
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1279,
+      "norma_id": 3752
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1192,
+      "norma_id": 8108
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1280,
+      "norma_id": 3751
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1067,
+      "norma_id": 8084
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1281,
+      "norma_id": 3750
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1180,
+      "norma_id": 8101
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1282,
+      "norma_id": 3749
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1181,
+      "norma_id": 8100
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 228,
+      "norma_id": 3388
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1188,
+      "norma_id": 8099
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1283,
+      "norma_id": 3747
+    },
+    {
+      "host": "sapl.birigui.sp.leg.br",
+      "ta_id": 1182,
+      "norma_id": 8098
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1284,
+      "norma_id": 3746
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1290,
+      "norma_id": 3745
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1291,
+      "norma_id": 3744
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1293,
+      "norma_id": 3743
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1294,
+      "norma_id": 3742
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 2864,
+      "norma_id": 3741
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1296,
+      "norma_id": 3740
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1297,
+      "norma_id": 3739
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1298,
+      "norma_id": 3738
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1299,
+      "norma_id": 3737
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1300,
+      "norma_id": 3736
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1301,
+      "norma_id": 3735
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1302,
+      "norma_id": 3729
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1303,
+      "norma_id": 3728
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1304,
+      "norma_id": 3726
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1305,
+      "norma_id": 3725
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1306,
+      "norma_id": 3724
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1307,
+      "norma_id": 3723
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1308,
+      "norma_id": 3722
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1309,
+      "norma_id": 3721
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1310,
+      "norma_id": 3720
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1313,
+      "norma_id": 3734
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1314,
+      "norma_id": 3733
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1315,
+      "norma_id": 3732
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1316,
+      "norma_id": 3731
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1317,
+      "norma_id": 3730
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1318,
+      "norma_id": 3719
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1319,
+      "norma_id": 3717
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1320,
+      "norma_id": 3715
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1321,
+      "norma_id": 3710
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1322,
+      "norma_id": 3707
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1323,
+      "norma_id": 3704
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 279,
+      "norma_id": 3474
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1324,
+      "norma_id": 3703
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1325,
+      "norma_id": 3701
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1327,
+      "norma_id": 3700
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1328,
+      "norma_id": 3699
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1329,
+      "norma_id": 3698
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1330,
+      "norma_id": 3697
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1331,
+      "norma_id": 3696
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1332,
+      "norma_id": 3695
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1333,
+      "norma_id": 3694
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1016,
+      "norma_id": 3693
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1334,
+      "norma_id": 3692
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1335,
+      "norma_id": 3691
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1336,
+      "norma_id": 3690
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1337,
+      "norma_id": 3689
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1338,
+      "norma_id": 3688
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1339,
+      "norma_id": 3687
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1340,
+      "norma_id": 3686
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1341,
+      "norma_id": 3685
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1342,
+      "norma_id": 3684
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1343,
+      "norma_id": 3683
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1344,
+      "norma_id": 3682
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1345,
+      "norma_id": 3681
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1346,
+      "norma_id": 3680
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1347,
+      "norma_id": 3670
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1326,
+      "norma_id": 3666
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1348,
+      "norma_id": 3663
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1349,
+      "norma_id": 3661
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1350,
+      "norma_id": 3659
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1351,
+      "norma_id": 3656
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1286,
+      "norma_id": 3654
+    },
+    {
+      "host": "sapl.barramansa.rj.leg.br",
+      "ta_id": 1364,
+      "norma_id": 3648
+    }
+  ]
+}

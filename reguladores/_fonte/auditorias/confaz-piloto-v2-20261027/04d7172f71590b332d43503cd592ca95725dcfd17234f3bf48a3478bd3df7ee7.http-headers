@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Tue, 27 Oct 2026 21:40:32 GMT
+Server: Zope/(2.13.22, python 2.7.3, linux2) ZServer/1.1
+X-Cache-Operation: plone.app.caching.strongCaching
+Expires: Tue, 27 Oct 2026 23:01:23 GMT
+Vary: Accept-Encoding
+Last-Modified: Fri, 01 Jul 2022 17:01:32 GMT
+Content-Type: text/css; charset=utf-8
+X-Cache-Rule: theme_resource_static
+cache-control: max-age = 86400
+X-Varnish: 438096517 437572651
+Via: 1.1 varnish
+X-Cache: HIT
+X-Varnish-Age: 81549
+Age: 0
+Transfer-Encoding: chunked
+

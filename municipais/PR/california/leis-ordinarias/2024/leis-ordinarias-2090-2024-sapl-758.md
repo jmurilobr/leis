@@ -1,0 +1,285 @@
+---
+titulo: "Lei Ordinária Municipal nº 2.090, de 03 de setembro de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "2090"
+data: "2024-09-03"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/758"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/696/text"
+sha256_fonte: "f39a3c3362fcfe4a9eb9bc46df446fc5d16557bb66a7fe3b4d0d2ee710dcffc8"
+sha256_texto: "38407ceb3354d9564b2126334092974df10ca6816a6155540f630b90158c2b38"
+capturado_em_fonte: "2026-10-27T22:19:13.782900-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 2.090, de 03 de setembro de 2024
+
+Cria o Fundo Municipal de Saneamento Básico e Ambiental - FMSBA do Município de Califórnia, e dá outras providências.
+
+
+A Câmara Municipal de Califórnia, Estado do Paraná, Aprovou e Eu, Prefeito Municipal, Sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído o Fundo Municipal de Saneamento Básico e Ambiental - FMSBA, com personalidade jurídica, que procederá à execução orçamentária no âmbito de sua competência, nos termos do Art.13 da Lei Federal nº 11.445, de 5 de janeiro de 2007.
+
+
+Parágrafo único
+
+O Fundo Municipal de que trata o caput deste artigo fica vinculado e será administrado pela Secretaria Municipal de Meio Ambiente e Agricultura – SEMA.
+
+
+Art. 2º.
+
+Os recursos do Fundo Municipal de Saneamento Básico e Ambiental - FMSBA, serão provenientes:
+
+
+I –
+
+o valor das infrações ambientais apurados pela Secretaria Municipal de Meio Ambiente e Agricultura;
+
+
+II –
+
+de doações que venha a receber de pessoas físicas e jurídicas ou de organismos públicos e privados, nacionais e internacionais;
+
+
+III –
+
+de rendimentos de qualquer natureza, que venha a auferir como remuneração decorrente de aplicação de seu patrimônio;
+
+
+IV –
+
+de rendimentos e indenizações decorrentes de ações judiciais e ajustes de conduta, de natureza ambiental, promovidos pelo Ministério Público no Município de Califórnia.
+
+
+V –
+
+de repasses mensais da Companhia de Saneamento do Paraná – SANEPAR de parcela do seu faturamento no Município de Califórnia, em percentual aprovado e definido em instrumento contratual;
+
+
+VI –
+
+outros recursos que, por sua natureza, possam ser destinados ao FMSBA.
+
+
+Art. 3º.
+
+Os recursos do FMSBA serão contabilizados como Receita Orçamentária do Município e serão movimentados através de conta bancária própria e exclusiva aberta no CNPJ do FMSBA.
+
+
+§ 1º
+
+O Plano de Aplicação dos Recursos do FMSBA, elaborado pelo seu gestor e referendado pelo Conselho Municipal de Saneamento Básico e Ambiental – CMSBA, será de acordo com a Lei de Diretrizes Orçamentárias e integrará o Orçamento Anual do Município.
+
+
+§ 2º
+
+A execução do Plano de Aplicação dos Recursos do FMSBA será contabilizada, devendo seus resultados contar do Balanço Geral do Município.
+
+
+§ 3º
+
+A execução orçamentária das receitas se processará por meio da obtenção de seu produto nas fontes indicadas nos incisos I a VI do Art. 2º desta Lei.
+
+
+§ 4º
+
+Os recursos provenientes dos repasses a que se refere o Inciso V do Art. 2º desta Lei, destinados ao Fundo Municipal de Saneamento Básico e Ambiental - FMSBA, ficam vinculados à efetiva aplicação e custeio de ações destinadas à universalização e aprimoramento dos serviços públicos de saneamento básico, em ações de proteção, recuperação e conservação ao meio ambiente, drenagem urbana e resíduos sólidos, em conformidade com o Plano Municipal de Saneamento Básico ou o Plano Regional de Saneamento Básico e Ambiental.
+
+
+Art. 4º.
+
+Os recursos do FMSBA serão destinados para:
+
+
+I –
+
+o financiamento de atividades visando a conservação do meio ambiente, o uso racional e sustentável dos recursos naturais, a manutenção, melhoria e recuperação da qualidade ambiental do Município, a promoção da Educação Ambiental em todos os seus níveis.
+
+
+II –
+
+o custeio da elaboração e execução de estudos, pesquisas cientificas e projetos técnicos ambientais de acordo com as ações previstas no Inciso anterior;
+
+
+III –
+
+aquisição de materiais necessários aos cumprimentos dos objetivos do FMSBA;
+
+
+IV –
+
+a reparação de danos causados ao meio ambiente no âmbito do Município de Califórnia;
+
+
+V –
+
+outras despesas de interesse ambiental do Município de Califórnia, assim consideradas e destinadas a:
+
+
+a)
+
+participação e promoção de eventos técnicos, científicos e educacionais, tais como seminários, simpósios, congressos, feiras, amostras e outros, que cumpram com os objetivos do FMSBA;
+
+
+b)
+
+promoção e execução de programas de capacitação e treinamento de mão-de-obra, por meio de cursos, estágios ou outras formas, visando habilitar os recursos humanos para o desempenho de diversas funções para o desenvolvimento ambiental do Município.
+
+
+VI –
+
+fonte ou garantia em operações de crédito, para financiamento dos investimentos necessários à universalização dos serviços públicos de saneamento básico.
+
+
+Art. 5º.
+
+O financiamento referido no Inciso II, poderá ser destinado a organizações não governamentais, mediante a apresentação de proposta fundamentada em parecer técnico sobre os benefícios ambientais do empreendimento para o Município, aprovado pelo CMSBA.Somente poderá receber recursos do FMSBA, entidade não-governamental, sem fins lucrativos, em funcionamento por no mínimo um ano, que esteja devidamente cadastrada na Prefeitura Municipal de Califórnia.
+
+
+Art. 6º.
+
+Somente poderá receber recursos do FMSBA, entidade não-governamental, sem fins lucrativos, em funcionamento por no mínimo um ano, que esteja devidamente cadastrada na Prefeitura Municipal de Califórnia.
+
+
+Art. 7º.
+
+Nenhuma despesa será realizada sem a necessária autorização orçamentária e, em casos de insuficiência ou de omissões orçamentárias, poderão ser utilizados créditos adicionais suplementares e especiais, autorizados por Lei e abertos por Decreto do Poder Executivo.
+
+
+Art. 8º.
+
+Os recursos do FMSBA, destinados na forma dos Incisos I e V do Artigo 4º, serão geridos mediante convênio, por instituições financeiras, observados os princípios básicos de preservação da integridade patrimonial do Fundo e a minimização do retorno econômico, social e ambiental.
+
+
+§ 1º
+
+Para a concessão de financiamentos com os recursos referidos no "caput" deste Artigo, fica vedada a aplicação de taxas de juros negativas.
+
+
+§ 2º
+
+As normas operacionais de enquadramento, concessão de financiamento, condições e beneficiários, entre outras, serão propostos pelo Executivo e referendados pelo Legislativo Municipal.
+
+
+Art. 9º.
+
+Constituem ativos contábeis do FMSBA:
+
+
+I –
+
+disponibilidades monetárias em Instituições Financeiras ou em Caixa especial, oriundos de suas receitas;
+
+
+II –
+
+haveres e direitos que porventura vier a constituir;
+
+
+III –
+
+bens móveis e imóveis que forem adquiridos e direitos vinculados ao FMSBA.
+
+
+Art. 10.
+
+Anualmente se processará o inventário dos bens e direitos vinculados ao FMSBA.
+
+
+Art. 11.
+
+O passivo do FMSBA é constituído pelas obrigações de qualquer natureza que venha a assumir.
+
+
+Art. 12.
+
+Ao Executor do FMSBA compete ainda:
+
+
+I –
+
+firmar convênios, contratos, juntamente com o Chefe do Poder Executivo, referente a recursos financeiros e/ou técnicos, os quais serão administrados pelo FMSBA, previamente aprovados pelo CMSBA;
+
+
+II –
+
+designar servidores municipais, sem prejuízo de suas atividades, para assessoramento e execução dos serviços contábeis;
+
+
+III –
+
+prestar contas da aplicação dos recursos do FMSBA, nos prazos e na forma da legislação vigente;
+
+
+IV –
+
+representar ativa, passiva e judicialmente o FMSBA;
+
+
+V –
+
+propor alternativas de resolução de casos omissos no presente regulamento, tomando, quando necessário e urgente;
+
+
+VI –
+
+outras atribuições definidas pelo Fundo;
+
+
+VII –
+
+receber os recursos previstos no presente regulamento e deposita-los em conta bancária especial do FMSBA;
+
+
+VIII –
+
+autorizar, juntamente com o Secretário Municipal de Meio Ambiente e Agricultura, movimentações bancárias e financeiras contra a conta bancária do FMSBA, depois de processada a despesa;
+
+
+IX –
+
+realizar aplicações dos recursos financeiros do FMSBA em disponibilidade, de forma a atender aos princípios estabelecidos no Artigo 4º deste regulamento;
+
+
+X –
+
+elaborar análise da situação econômico-financeira do FMSBA, para ser submetida pelo Executor à apreciação do CMSBA;
+
+
+Art. 13.
+
+A contabilidade do FMSBA, executada em conformidade com os dispositivos de Lei e demais disposições regulamentadoras da matéria, tem como objetivo evidenciar e comprovar sua situação financeira, patrimonial e orçamentária.
+
+
+§ 1º
+
+A organização contábil deverá permitir o exercício da função do controle prévio, concomitante e subsequente, de informar, de apropriar e apurar os custos dos serviços e de interpretar e analisar os resultados alcançados em consonância com os objetivos do FMSBA.
+
+
+§ 2º
+
+Serão emitidos, mensalmente, balancetes das receitas e das despesas do FMSBA e demais demonstrativos produzidos pela contabilidade do FMSBA passarão a integrar a contabilidade geral do Município.
+
+
+Art. 14.
+
+Esta Lei entrará em vigor na data de sua publicação, revogando-se as disposições em contrário, em especial a Lei Nº 1.120/2006 de 22/dezembro/2006, publicada no jornal Tribuna do Norte – Edição Nº 4.765 de 23/12/2006.
+
+
+Edifício da Prefeitura do Município de Califórnia, aos 03 dias do mês de setembro de 2024.
+
+***PAULO WILSON MENDES***
+
+Prefeito
+

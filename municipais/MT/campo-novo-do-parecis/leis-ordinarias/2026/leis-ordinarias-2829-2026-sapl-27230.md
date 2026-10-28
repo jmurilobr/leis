@@ -1,0 +1,69 @@
+---
+titulo: "Lei Ordinária nº 2.829, de 15 de julho de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2829"
+data: "2026-07-15"
+municipio: "Campo Novo do Parecis"
+uf: "MT"
+codigo_ibge: "5102637"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.camponovodoparecis.mt.leg.br/norma/27230"
+fonte_texto: "https://sapl.camponovodoparecis.mt.leg.br/ta/71/text"
+sha256_fonte: "f12c5a35da267009acd28b84e66fd6edfeab8902dab2dcdcf1e9dc7d97baf893"
+sha256_texto: "b056d2087fa234ea3f337c43c19498ea78b6a7d40cde56cd3bee4dfb3c662648"
+capturado_em_fonte: "2026-10-27T22:22:43.251866-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.829, de 15 de julho de 2026
+
+Autoriza o Poder Executivo Municipal a abrir crédito adicional suplementar no Orçamento vigente, no valor de R$ 35.000,00.
+
+
+O PREFEITO DO MUNICÍPIO DE CAMPO NOVO DO PARECIS Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a abrir crédito adicional suplementar no Orçamento Geral do Município, no valor de R$ 35.000,00 (trinta e cinco mil reais), nos termos dos artigos 41, I, e 42 da Lei Federal nº 4.320 de 1964, na seguinte classificação orçamentária:
+
+
+I –
+
+02 GOVERNO MUNICIPAL 02.005 FUNDO MUNICIPAL DE SEGURANÇA PÚBLICA Dotação: 005.06.183.0002.20007 Projeto/Atividade: GESTÃO DAS AÇÕES DO FUNDO MUNICIPAL DE SEGURANÇA PÚBLICA Elemento de Despesa: 3.3.90.00.00.00 Aplicações Diretas Fonte De Recurso: 15000000000000 Recursos Não Vinculados de Impostos - Exercício Valor: R$ 35.000,00 (trinta e cinco mil reais) TOTAL: R$ 35.000,00
+
+
+Art. 2º.
+
+Os recursos necessários à execução dos créditos suplementares referidos no artigo anterior, decorrerão da anulação intraorçamentária parcial das dotação orçamentária abaixo relacionada, de acordo com o art. 43, § 1º, inciso III, da Lei Federal nº 4.320 de 1964:
+
+
+I –
+
+01 CÂMARA MUNICIPAL 01.001 CÂMARA MUNICIPAL Dotação: 001.01.031.0001.10000. Projeto/Atividade: AMPLIAÇÃO E REFORMA DO PRÉDIO DA CÂMARA MUNICIPAL Elemento de Despesa: 4.4.90.00.00.00 Aplicações Diretas Fonte de Recurso: 1.500.0000000.000 Recursos Não Vinculados de Impostos - Exercício Valor: R$ 35.000,00 (trinta e cinco mil reais) TOTAL: R$ 35.000,00
+
+
+Art. 3º.
+
+As alterações constantes desta Lei passam a integrar a Lei Municipal nº 2.691, de 15 de agosto de 2025, que dispõe sobre o Plano Plurianual - PPA, para o período de 2026 a 2029, a Lei Municipal nº 2.708, de 7 de outubro de 2025, que dispõe sobre as Diretrizes Orçamentárias - LDO para o exercício financeiro de 2026, e a Lei Municipal nº 2.745, de 29 de dezembro de 2025, que dispõe sobre a Lei Orçamentária Anual - LOA, para o exercício financeiro de 2026.
+
+
+Art. 4º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Campo Novo do Parecis/MT, 15 de julho de 2026.  
+  
+EDILSON ANTÔNIO PIAIA  
+Prefeito Municipal  
+  
+PRISCILLA GIMENEZ SIQUEIRA GONÇALVES OLSSON  
+Secretária Municipal de Administração  
+  
+Autoria: Poder Executivo
+

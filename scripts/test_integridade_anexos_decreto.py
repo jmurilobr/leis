@@ -2,7 +2,7 @@ from pathlib import Path
 import sys, unittest
 from types import SimpleNamespace
 sys.path.insert(0,str(Path(__file__).resolve().parent))
-from integridade_anexos_decreto import anexo_proprio_ausente as gate
+from integridade_anexos_decreto import anexo_proprio_ausente as gate, _ponteiro_bibliografico_para_revisao, _limpar
 
 P=SimpleNamespace(visual=[],structure=[])
 MAIN='DECRETO Nº 52.677\n\nArtigo único. Fica aprovado o Regimento que com êste baixa.\n\nBrasília, 14 de outubro de 1963; 142º da Independência.\n\nJOÃO GOULART\n\nPaulo de Tarso'
@@ -124,4 +124,133 @@ class Anexos(unittest.TestCase):
  def test_anexo_numerado_do_decreto_externo_nao_retem(self):
   text=MAIN.replace('Fica aprovado o Regimento que com êste baixa','Ficam extintas as funções constantes do Anexo I do Decreto nº 1.234 de 1960')
   self.assertIsNone(gate(text,P))
+class LacunasGraficasEEditoriais(unittest.TestCase):
+ def test_parte_rasgada_no_dispositivo_retem(self):
+  self.assertEqual(gate('Art. 2º As subcomissões prestarão seu concurso (**Ilegível** parte rasgada no livro.).',P)['estado'],'revisao_documental_necessaria')
+ def test_lacunas_nomes_objeto_e_alinea_retem(self):
+  for text in ['Art. 1º Vagos em virtude da aposentadoria de Francisco, (ilegível) Marcos Pinheiro.', 'Art. 3º XVI – Recuperação e consertos de peças e móveis (ilegivel).', 'Art. 4º Candidatos sem observância do nº(ilegível).', 'Art. 6º Diploma a que se refere a alínea (ilegivel) do art. 23.']:
+   self.assertIsNotNone(gate(text,P),text)
+ def test_ilegivel_legitimo_no_servico_postal_nao_retem(self):
+  self.assertIsNone(gate('Art. 1º Não será aceita remessa que traga ilegível o nome do destinatário.',P))
+ def test_ilegivel_legitimo_no_cancelamento_nao_retem(self):
+  self.assertIsNone(gate('Art. 1º A nota é riscada em cruz sem a tornar ilegível; quando a praça fôr desligada, a nota será tornada ilegível.',P))
+ def test_definicao_explicita_de_rotulo_nao_retem(self):
+  self.assertIsNone(gate('Art. 1º Usar a expressão (ilegível) para classificar documentos sem leitura possível.',P))
+ def test_desenhos_medalha_propria_com_placeholder_retem(self):
+  text='Art. 1º A Medalha tem as seguintes características, elucidadas nos desenhos anexos.\n\nRio de Janeiro, 22 de outubro de 1947.\n\nAssinatura\n\n&lt;&lt;ANEXO>> CLBR Vol. 08 Ano 1947 Pág. 91 Desenhos.'
+  self.assertIn('desenhos anexos',gate(text,P)['remissao'])
+ def test_formulario_de_proposta_nao_prova_desenhos_insignias(self):
+  text=MAIN+'\n\nREGULAMENTO\n\nArt. 1º A Ordem possui cinco graus.\n\nArt. 3º As insígnias terão as dimensões e características consignadas nas explicações e desenhos anexos.\n\nArt. 29. As propostas seguirão o anexo.\n\nANEXO\n\nNome do candidato ....\n\nGrau ....'
+  self.assertIn('art. 3',gate(text,P)['remissao'])
+ def test_descricao_uniforme_sem_desenhos_retem(self):
+  self.assertIsNotNone(gate('Art. 13. Para a distinção de categorias, serão colocados na gola do uniforme bordados dourados de acordo com os desenhos anexos.',P))
+ def test_desenhos_de_norma_externa_nao_retem(self):
+  self.assertIsNone(gate('Art. 1º A medalha obedecerá às características dos desenhos anexos ao Decreto nº 123 de 1930.',P))
+ def test_alteracao_citada_sem_novo_desenho_nao_retem(self):
+  self.assertIsNone(gate('Art. 1º O art. 3º do Decreto nº 123 passa a vigorar com a seguinte redação: As insígnias obedecem às características dos desenhos anexos.',P))
+ def test_visual_presente_nao_e_declarado_ausente(self):
+  self.assertIsNone(gate('Art. 3º As insígnias terão as dimensões consignadas nos desenhos anexos.',SimpleNamespace(visual=['svg'],structure=[])))
+
+class RegulamentosFuturos(unittest.TestCase):
+ def test_desenhos_da_regulamentacao_a_ser_baixada_nao_retem(self):
+  for text in ['Art. 2º A Ordem constará de quatro graus, cujas insígnias obedecerão a desenhos anexos à regulamentação a ser baixada pelo Ministro.', 'Art. 2º As insígnias da Ordem obedecerão a desenhos anexos ao regulamento a ser baixado.']:
+   self.assertIsNone(gate(text,P))
+ def test_futuro_expresso_em_outro_artigo_da_mesma_ordem_nao_retem(self):
+  text='Art. 2º As insígnias obedecerão aos desenhos anexos ao regulamento da ordem.\n\nArt. 7º O Regulamento da Ordem Nacional será aprovado pelo Presidente, mediante proposta do Conselho.'
+  self.assertIsNone(gate(text,P))
+ def test_regulamento_futuro_de_outro_objeto_nao_apaga_desenho_proprio(self):
+  text='Art. 1º A Medalha terá as características indicadas nos desenhos anexos.\n\nArt. 3º O regulamento das cerimônias será aprovado posteriormente.'
+  self.assertIsNotNone(gate(text,P))
+
+
+class PrecisaoDeReferentes(unittest.TestCase):
+ def test_termo_com_lacuna_nao_e_definicao(self):
+  self.assertIsNotNone(gate('Art. 1º O termo de (ilegível) será lavrado.',P))
+ def test_rubrica_com_lacuna_nao_e_definicao(self):
+  self.assertIsNotNone(gate('Art. 2º A rubrica do (ilegível) figurará no certificado.',P))
+ def test_definicao_com_significado_explicito_nao_retem(self):
+  self.assertIsNone(gate('Art. 1º A expressão (ilegível) significa documento sem leitura possível.',P))
+ def test_rotulo_legitimo_nao_oculta_segunda_lacuna(self):
+  self.assertIsNotNone(gate('Art. 1º Usar a expressão (ilegível) para classificação.\n\nArt. 2º O termo de (ilegível) será lavrado.',P))
+ def test_aprovacao_propria_nao_e_dispensada_por_cerimonias_futuras(self):
+  text='Art. 2º As insígnias obedecerão às características dos desenhos anexos ao regulamento aprovado por este decreto.\n\nArt. 7º O regulamento das cerimônias será aprovado posteriormente.'
+  self.assertIsNotNone(gate(text,P))
+ def test_regulamento_nomeado_atual_nao_e_dispensado_por_outro_futuro(self):
+  text='Art. 1º Fica aprovado o Regulamento da Ordem.\n\nArt. 2º As insígnias obedecerão às características dos desenhos anexos ao regulamento da ordem.\n\nArt. 7º O regulamento das cerimônias será aprovado posteriormente.'
+  self.assertIsNotNone(gate(text,P))
+ def test_regulamento_futuro_no_mesmo_artigo_de_outro_objeto_nao_dispensa(self):
+  text='Art. 2º As insígnias obedecerão às características dos desenhos anexos ao regulamento aprovado por este decreto; o regulamento das cerimônias será aprovado posteriormente.'
+  self.assertIsNotNone(gate(text,P))
+
+class Bibliografia(unittest.TestCase):
+ def test_quadro_substituido_real24799(self):
+  r=gate('Art. 1º Os quadros ficam substituídos pelos quadros que acompanham o presente decreto.\n\n<<ANEXO>>CLBR Vol. 04 Ano 1948 Pág. 54 Tabela.',P)
+  self.assertEqual(r['classe'],'ponteiro_bibliografico_nao_certifica_integralidade')
+  self.assertFalse(r['ausencia_propria_demonstrada'])
+ def test_placeholder_intermediario_real24140(self):
+  t='Art. 2º Fica aprovada a lotação com a seguinte distribuição:\n\n<<ANEXO>>CLBR Vol. 08 Ano 1947 Págs. 386 e 387 Tabelas.\n\nArt. 3º Fica aprovada a distribuição na forma da relação anexa.'
+  self.assertIsNotNone(gate(t,P))
+ def test_substituicao_anexo_alheio_cria_relacao_propria_real24142(self):
+  t='Art. 1º As tabelas que acompanharam o Decreto nº 23.405 passam a vigorar com as alterações constantes da relação anexa.\n\n<<ANEXO>>CLBR Vol. 08 Ano 1947 Págs. 397 a 400 Tabelas.'
+  self.assertIsNotNone(gate(t,P))
+ def test_lista_inline_real18735_exige_revisao_sem_declarar_ausencia(self):
+  t='Art. 1º A relação nominal fica alterada de acordo com a relação anexa.\n\nRELAÇÃO NOMINAL\n\n1. Antônio de Oliveira Paiva.\n\n19. Vago.\n\n<<ANEXO>>CLBR Vol. 04 Ano 1945 Págs. 585 a 587 Tabelas.'
+  self.assertFalse(gate(t,P)['ausencia_propria_demonstrada'])
+ def test_regulamento_art1_nao_oculta_ponteiro_real11451(self):
+  t='Art. 1º Fica aprovado o Regulamento.\n\nREGULAMENTO\n\nArt. 1º Organização.\n\nArt. 54 Organiza um mapa dos efetivos (Anexo n. 2).\n\n<<ANEXO>>CLBR Vol. 02 Ano 1943 Pág. 241 Tabela.'
+  self.assertIsNotNone(gate(t,P))
+ def test_outra_tabela_nao_resolve_ponteiro(self):
+  t='Art. 1º Ficam aprovadas as tabelas anexas.\n\n<table><tr><td>Escala salarial</td><td>100</td></tr></table>\n\n<<ANEXO>>CLBR Vol. 04 Ano 1944 Pág. 252 Tabelas.'
+  self.assertIsNotNone(gate(t,SimpleNamespace(visual=[],structure=[('table',())])))
+ def test_html_nativo_e_duplo_escape(self):
+  for marker in ['&lt;&lt;ANEXO&gt;&gt;','&amp;lt;&amp;lt;ANEXO&amp;gt;&amp;gt;','<<ANEXO>>']:
+   self.assertIsNotNone(gate('<p><span>'+marker+'CLBR Vol. 08 Ano 1942 Pág. 488. Mapa 1.</span></p>',P))
+ def test_remissao_simples_a_outra_norma_nao_retem(self):
+  self.assertIsNone(gate('Art. 1º Aplicam-se os valores do anexo ao Decreto nº 2 de 1940.',P))
+ def test_placeholder_citado_dentro_de_artigo_nao_prova_omissao(self):
+  self.assertIsNone(gate('Art. 1º No catálogo, a expressão <<ANEXO>>CLBR Vol. 08 Ano 1942 Pág. 488 significa remissão bibliográfica.',P))
+ def test_modelo_efetivamente_presente_sem_ponteiro(self):
+  self.assertIsNone(gate('Art. 1º Fica aprovada a relação seguinte:\n\n1. José da Silva\n\n2. Maria dos Santos',P))
+ def test_rotulo_anexo_em_frase_nao_e_endereco_isolado(self):
+  self.assertIsNone(gate('Art. 1º Empregar a expressão <<ANEXO>> nos formulários.',P))
+ def test_endereco_bibliografico_sem_placeholder_nao_retem(self):
+  self.assertIsNone(gate('Art. 1º Consultar a CLBR Vol. 04 Ano 1945 Págs. 585 a 587 para estudo histórico.',P))
+
+class VinculoBibliografico(unittest.TestCase):
+ def test_substituta_propria_antes_de_tabela_antiga_real23913(self):
+  text='Art. 1º Fica substituída, pela que acompanha o presente Decreto, a tabela anexa ao Decreto nº 22.499, de 1947.\n\n<<ANEXO>>CLBR Vol. 08 Ano 1947 Pág. 99 Tabela.'
+  r=_ponteiro_bibliografico_para_revisao(_limpar(text))
+  self.assertIsNotNone(r)
+  self.assertEqual([v['vinculo_externo_explicito'] for v in r['vinculos_das_remissoes']],[True,False])
+ def test_alteracoes_constantes_da_relacao_nova_nao_sao_anexo_antigo(self):
+  text='Art. 1º Aplicam-se os critérios da relação anexa ao Decreto nº 10, de 1950.\n\nArt. 2º Ficam estabelecidas as alterações constantes da relação anexa.\n\n<<ANEXO>>CLBR Vol. 08 Ano 1953 Pág. 250 Tabela.'
+  r=_ponteiro_bibliografico_para_revisao(_limpar(text))
+  self.assertIsNotNone(r)
+  self.assertEqual([v['vinculo_externo_explicito'] for v in r['vinculos_das_remissoes']],[True,False])
+  self.assertIsNotNone(gate(text,P))
+ def test_funcoes_indicadas_em_relacao_nova_nao_sao_anexo_antigo(self):
+  text='Art. 1º Mantém-se a tabela anexa ao Decreto nº 10, de 1950.\n\nArt. 2º Ficam criadas as funções indicadas na relação anexa.\n\n<<ANEXO>>CLBR Vol. 08 Ano 1953 Pág. 250 Tabela.'
+  r=_ponteiro_bibliografico_para_revisao(_limpar(text))
+  self.assertIsNotNone(r)
+  self.assertEqual([v['vinculo_externo_explicito'] for v in r['vinculos_das_remissoes']],[True,False])
+  self.assertIsNotNone(gate(text,P))
+
+class ObjetoAtualBibliografico(unittest.TestCase):
+ def check_current(self,own):
+  text='Art. 1º Mantém-se a relação anexa ao Decreto nº 10, de 1950.\n\nArt. 2º '+own+'\n\n<<ANEXO>>CLBR Vol. 04 Ano 1948 Pág. 54 Tabela.'
+  r=_ponteiro_bibliografico_para_revisao(_limpar(text))
+  self.assertIsNotNone(r)
+  self.assertTrue(any(v.get('vinculo_atual_explicito') for v in r['vinculos_das_remissoes']))
+  self.assertFalse(r['ausencia_propria_demonstrada'])
+  self.assertIsNotNone(gate(text,P))
+ def test_quadros_atuais_real24799_apos_anexo_antigo(self):
+  for expr in ['Os quadros ficam substituídos pelos quadros que acompanham o presente decreto.', 'Os quadros ficam substituídos pelos quadros que acompanham este decreto.']:
+   self.check_current(expr)
+ def test_regulamento_que_com_este_baixa_apos_anexo_antigo(self):
+  for expr in ['Fica aprovado o regulamento que com este baixa.', 'Ficam aprovados os quadros que com êste baixam.']:
+   self.check_current(expr)
+ def test_relacao_que_a_este_acompanha_apos_anexo_antigo(self):
+  for expr in ['Fica aprovada a relação que a este acompanha.', 'Ficam aprovadas as tabelas que a êste acompanham.']:
+   self.check_current(expr)
+
 if __name__=='__main__':unittest.main()

@@ -1,0 +1,130 @@
+---
+titulo: "LEI ORDINÁRIA nº 53, de 04 de janeiro de 1999"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "53"
+data: "1999-01-04"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/423"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/76/text"
+sha256_fonte: "9a828944ca4f5a9e16c14ea77103201a8e98debf63d5dc60c8ef2b551773d2a2"
+sha256_texto: "9295f85f4c63257ed3ae93728189cc0c1bd098142a32f6050942ad01865c4108"
+capturado_em_fonte: "2026-10-27T20:42:19.173548-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 53, de 04 de janeiro de 1999
+
+DISPÕE SOBRE A INSTITUIÇÃO DO CONSELHO MUNICIPAL DE DESENVOLVIMENTO RURAL – CMDR, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+**O Prefeito Municipal de Cabeceira Grande**, no uso de suas atribuições legais, especialmente a que lhe confere o Art. 76, III da Lei Orgânica do Município, faz saber que a Câmara Municipal decreta e ele, em seu nome, sanciona e promulga a seguinte lei.
+
+
+Art. 1º.
+
+O Poder Executivo é autorizado a instituir o Conselho Municipal de Desenvolvimento Rural – CMDR, de caráter consultivo e orientativo e de funcionamento permanente.
+
+
+Art. 2º.
+
+Ao Conselho Municipal de Desenvolvimento Rural – CMDR, compete:
+
+
+I –
+
+promover o entrosamento entre as atividades desenvolvidas pelo Executivo Municipal e órgãos e entidades públicas e privadas voltadas para o desenvolvimento rural do Município;
+
+
+II –
+
+apreciar o Plano Municipal de Desenvolvimento Rural – PMDR, e emitir parecer conclusivo atestando a sua viabilidade técnico-financeira, a legitimidade das ações propostas em relação às demandas formuladas pelos agricultores, e recomendando a sua execução;
+
+
+III –
+
+exercer vigilância sobre as execuções das ações previstas no Plano Municipal de Desenvolvimento Rural – PMDR;
+
+
+IV –
+
+sugerir ao Executivo Municipal e aos órgãos e entidades públicas e privadas que atuam no município ações que contribuam para o aumento da produção agropecuária e para a geração de emprego e renda no meio rural;
+
+
+V –
+
+sugerir políticas e diretrizes às ações do Executivo Municipal no que concerne à produção, à preservação do meio-ambiente, ao fomento agropecuário e à organização dos agricultores e à regularidade do abastecimento alimentar do município;
+
+
+VI –
+
+assegurar a participação efetiva dos segmentos promotores e beneficiários das atividades agropecuárias desenvolvidas no município;
+
+
+VII –
+
+promover articulações e compatibilizações entre as políticas municipais e as políticas estaduais e federais voltadas para o desenvolvimento rural;
+
+
+VIII –
+
+acompanhar e avaliar a execução do PMDR.
+
+
+Art. 3º.
+
+O CMDR tem foro e sede no município de Cabeceira Grande.
+
+
+Art. 4º.
+
+O mandato dos membros do CMDR será de 2 anos, podendo ser prorrogado por igual período, e o seu exercício será sem ônus para os cofres públicos, sendo considerado serviço relevante prestado ao município.
+
+
+Art. 5º.
+
+Integram o Conselho Municipal de Desenvolvimento Rural – CMDR:
+
+
+a)
+
+um representante do Gabinete da Prefeitura Municipal;b) um representante da EMATER/MG;c) um representante da Associação Comunitária do Bonsucesso;d) um representante do Sindicato Rural de Cabeceira Grande;e) um representante dos cooperados do entreposto da Cooperativa Agropecuária Unaí;f) um representante do Centro Comunitário de Cabeceira Grande;g) um representante da Associação Comunitária para o Desenvolvimento de Palmital.
+
+
+Parágrafo único
+
+Os representantes das entidades representativas deverão ser escolhidos em Assembléias Gerais.
+
+
+Art. 6º.
+
+O Poder Executivo, através de seus órgãos da administração direta e indireta, fornecerá as condições e as informações necessárias para que o CMDR cumpra suas atribuições.
+
+
+Art. 7º.
+
+O CMDR elaborará o Regimento Interno para regular o seu funcionamento, a ser aprovado e publicado por decreto do Poder Executivo.
+
+
+Art. 8º.
+
+Esta lei entrará em vigor na data de sua publicação.
+
+
+Art. 9º.
+
+Revogam-se as disposições em contrário.
+
+
+Cabeceira Grande(MG), 04 de Janeiro de 1999
+
+**Antônio Nazaré Santana Melo Prefeito Municipal**
+
+**"Este texto não substitui o original."**
+

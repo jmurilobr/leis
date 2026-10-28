@@ -1,0 +1,26 @@
+{
+  "candidatos": 688,
+  "aprovados": 438,
+  "retidos": 250,
+  "jurisdicao": [
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2006/leis-ordinarias-3600-2006-sapl-3080.md",
+      "sha256": "68664f04e5b5a26451219a7ca64d075a8d0a28c82e48f03b3958bc356a9e9fed",
+      "esfera_federacao_api": "M",
+      "alertas": [
+        {
+          "municipio_declarado": "Barra Mansa",
+          "municipio_no_cabecalho_normalizado": "barra",
+          "offset": 2,
+          "trecho": "A CÂMARA MUNICIPAL DE BARRA-APROVA E EU, NOS TERMOS DO § 5° DO ARTIGO 48 DA LEI ORGÂNICA MUNICIPAL, PROMULGO A SEGUINTE:\n\n\nLEI Nº 3600 DE 12 DE JUNHO DE 2006.\n\n\nCria a reabilitação profissional municipa"
+        }
+      ]
+    }
+  ],
+  "replay_retidos": [
+    "municipais/RJ/barra-mansa/leis-ordinarias/2009/leis-ordinarias-3792-2009-sapl-3317.md",
+    "municipais/RJ/barra-mansa/leis-ordinarias/2009/leis-ordinarias-3791-2009-sapl-5487.md",
+    "municipais/RJ/barra-mansa/leis-ordinarias/2008/leis-ordinarias-3779-2008-sapl-3312.md"
+  ],
+  "criterio": "Retidos não integram a lista de normas. Controles conservam os motivos e identidades; não promovidos por contagem ou por comparação da mesma conversão."
+}

@@ -1,0 +1,1641 @@
+{
+  "criterio": "Revisão contextual apenas dos alertas anteriores: contadores efetivos de ol/start/li associados à AST e ao delimitador manual, sem copiar número da fonte. Preserva pontuação e sinais; divergências remanescentes continuam retidas. Listas nativas da fonte não recebem materialização automática.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "63b916abe1e6c687db373e67610a4ea584fb04e3c2029873da8c84c91b77ee72",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "revisar": 53,
+    "iguais": 8
+  },
+  "documentos": [
+    {
+      "path": "reguladores/presidencia/instrucoes-normativas/2019/instru-c3-87-c3-83o-normativa-n-c2-ba-4-de-26-de-abril-de-2019-85673431.md",
+      "sha256_md": "0d9e53ccf2f4381fc7c65d4e185e1ff12023c4f1e64a04e433538abfbe409adb",
+      "sha256_fonte": "62c81fcd7bec799ae0ae6bbc7a90125e4af216bed3feba4c3418c1dd02d2ad83",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "6f70ff12ae483a7fcfcf6c1ba50b37b4be7b78c74e6e4a431a6cca1f2caf7258",
+      "sha256_visivel_md": "5d506c3bfc54c03b4da6c02cea32677d32d91f86f53dd1b8e4546a54a8fc3984",
+      "primeira_diferenca": {
+        "posicao": 192,
+        "fonte": "de certificado para servidores públicos federais da ativa e militares da União. O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I do D",
+        "md": "de certificado para servidores públicos federais da ativa e militares da União. **O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,**no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/instrucoes-normativas/2019/instrucao-normativa-n-1-de-11-de-fevereiro-de-2019-63362590.md",
+      "sha256_md": "1749aa7b82e4a43e00a242c23731ff2512dd0bcf21a12a11466dcda8f3736649",
+      "sha256_fonte": "def0b72c0ab3ea99a204c85f1e8428af3618786a024a6922a9f509319f994955",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e5ee6b4eb3dba4d5108f4085690fe96a693003768cda6244a413449b7981662b",
+      "sha256_visivel_md": "4c38ba72d53cb7203918f075b9aa6ef7fd0ede50e5d42c11c09fbbb9ec8a2f5e",
+      "primeira_diferenca": {
+        "posicao": 135,
+        "fonte": "plia a validade da Chave Criptográfica Simétrica empregada para geração de IDN. O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I do D",
+        "md": "plia a validade da Chave Criptográfica Simétrica empregada para geração de IDN. **O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,**no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/instrucoes-normativas/2019/instrucao-normativa-n-2-de-12-de-marco-de-2019-67377876.md",
+      "sha256_md": "1157a647998480b459ed1fe8c4bfe141d7a4d1c4c345c884dc0494148be6b37e",
+      "sha256_fonte": "10db22fb3ef4e0c6fef67c4ab236291d2e294026d9c171343da3499af7b968ae",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "299e9769a0fa345764a19b88f2f9b608e64cc57ab530b7f35e47ecf5e1c2ee59",
+      "sha256_visivel_md": "90dd174fb451144d7ca1466536cac51648a0be9c02eb5fc789c8fcced229658a",
+      "primeira_diferenca": {
+        "posicao": 229,
+        "fonte": "da Lista de Prestadores de Serviço de Confiança - LPSC no âmbito da ICP-Brasil. O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I do D",
+        "md": "da Lista de Prestadores de Serviço de Confiança - LPSC no âmbito da ICP-Brasil. **O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,**no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/instrucoes-normativas/2019/instrucao-normativa-n-5-de-16-de-julho-de-2019-198613502.md",
+      "sha256_md": "8d305b5f9c454573199a21de9890f21ca166a6c2d9c884ad57a428101e244879",
+      "sha256_fonte": "545b431dd4ee1d731f4ee7c2acd362d676bd0fdfe56e48924c559b91775dd0c2",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — Hash SHA1 da Chave pública do Certificado ; Código IBGE do Município onde ocorreu a identificação presencial",
+          "fonte": "ANEXO I Hash SHA1 da Chave pública do Certificado ; Código IBGE do Município onde ocorreu a identificação presencial",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "ac4bee35d7a8f5744db131c6eac1a7443ead6900194b28d8693ae6382fe0c78b",
+      "sha256_visivel_md": "2442b1032b828b825e0583d65d568ee07b831c755504e0c9a41ee46e0f9ab198",
+      "primeira_diferenca": {
+        "posicao": 218,
+        "fonte": "es sobre suas emissões ao Instituto Nacional de Tecnologia da Informação - ITI. O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I do D",
+        "md": "es sobre suas emissões ao Instituto Nacional de Tecnologia da Informação - ITI. **O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,**no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/instrucoes-normativas/2019/instrucao-normativa-n-6-de-5-de-agosto-de-2019-208993459.md",
+      "sha256_md": "7945d3bf699ab1e05ca8f524c3b6a0463ce0e9e56851baa779450f19b1db67e2",
+      "sha256_fonte": "d19e0291209576672be038f833798be98cc4899257784d4cbd28cacedef4092a",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "05662268adc2dbbec81b5356ec25ecf1ff90c03db4cae354e176306c66f0711f",
+      "sha256_visivel_md": "c81524819fbd603c6d45819f9cea533664c42d3cfd04c06df7436b9b90dfad57",
+      "primeira_diferenca": {
+        "posicao": 109,
+        "fonte": "5 DE AGOSTO DE 2019 Altera a Instrução Normativa no 05, de 16 de julho de 2019. O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I do D",
+        "md": "5 DE AGOSTO DE 2019 Altera a Instrução Normativa no 05, de 16 de julho de 2019. **O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,**no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/instrucoes-normativas/2019/instrucao-normativa-n-8-de-31-de-outubro-de-2019-225245798.md",
+      "sha256_md": "a0869d7e06cda3eb286d27f8b3c8f6d53cef3e4d2d6a15839234f8423c198cef",
+      "sha256_fonte": "5c0e96507f94e0bbf4dfe002886486527c3cf1b9854439841e9f9e7929cbe32c",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "d39cef82acc52ed2eff9750e5d01a1ab00681d0d6a5082e61c379ba160880012",
+      "sha256_visivel_md": "61a87d6723d0ecbcd558a466f9417defe8020a77f825ab101bcb7ba3f21a8ad5",
+      "primeira_diferenca": {
+        "posicao": 266,
+        "fonte": "its para certificados de usuário final e RSA 2048 bits para certificados de AC. O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I do D",
+        "md": "its para certificados de usuário final e RSA 2048 bits para certificados de AC. **O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,**no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/instrucoes-normativas/2020/instrucao-normativa-iti-n-10-de-22-de-outubro-de-2020-284747420.md",
+      "sha256_md": "2b84a7502e966e2a41df6a5227f3161454540d2e0521969eff097636088ac60e",
+      "sha256_fonte": "80d77281ea26f61b0ac918c45a69508b9ab228be0ed21999e78f67c2e35bfde7",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "606d164f159360efc8e02d0f62edfbe23a86a3a389b0faf053713417b922ff2a",
+      "sha256_visivel_md": "671ccb80af07af2d352133aa371bf0c1004ce5d3e697f43a48505f1b3f7b075a",
+      "primeira_diferenca": {
+        "posicao": 18638,
+        "fonte": " de usuários; iii. mudanças na configuração da estação; iv. tentativas de acesso(login)e de saída do sistema(logoff); v. tentativas não-autorizadas de acesso aos arquivos de sistema; vi. tentativas de iniciar, remover, habilitar e desabilit",
+        "md": " de usuários; iii. mudanças na configuração da estação; iv. tentativas de acesso*(login)e de saída do sistema(logoff);* v. tentativas não-autorizadas de acesso aos arquivos de sistema; vi. tentativas de iniciar, remover, habilitar e desabil"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2019/portaria-interministerial-n-13-de-14-de-fevereiro-de-2019-63580224.md",
+      "sha256_md": "056ed17354bd4f759e1765df0ad080799a1c444dd4c67c4331bec5f59a13f778",
+      "sha256_fonte": "33515f30b195ced42942b0871ed7a641c26033d43e2633bce2e92c97800b6273",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "1e85d008537c1e862ec404e493b9f777d6e5440402aa479177b3b2c2c7433566",
+      "sha256_visivel_md": "4e653fe27f06c6696bb3ab5b8d1a0b71a288ad9c6727e05682434553b83d4b8a",
+      "primeira_diferenca": {
+        "posicao": 225,
+        "fonte": " Previdência, conforme art. 2º, § 4º, da Lei nº 12.232, de 29 de abril de 2010. OS MINISTROS DE ESTADO DA ECONOMIA E CHEFES DA SECRETARIA DE GOVERNO E DA CASA CIVIL DA PRESIDÊNCIA DA REPÚBLICA,no uso de suas atribuições que lhes conferem o ",
+        "md": " Previdência, conforme art. 2º, § 4º, da Lei nº 12.232, de 29 de abril de 2010. **OS MINISTROS DE ESTADO DA ECONOMIA E CHEFES DA SECRETARIA DE GOVERNO E DA CASA CIVIL DA PRESIDÊNCIA DA REPÚBLICA,**no uso de suas atribuições que lhes confere"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2019/portaria-n-184-de-13-de-agosto-de-2019-210736824.md",
+      "sha256_md": "5746cf296db5181fd2b312ecf98f37c7df5da8b20a71ee3c9d20a715529172db",
+      "sha256_fonte": "5b94e19ec47f99796ec1d94c46aa38761a68825b7f1b87d8195b2f8103055a5a",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "b31e8524c5f419a6b28ffff6e066763d5b2153d01d5ae33b36070e0467c12b4c",
+      "sha256_visivel_md": "ad5d7bd32f8e51ef1e4b90ec810308fbee1451a7119655855b9df2f3d73b1b6e",
+      "primeira_diferenca": {
+        "posicao": 185,
+        "fonte": " Oficial da União, versão eletrônica, em formato pdf, e dá outras providências. O DIRETOR-GERAL DA IMPRENSA NACIONAL,no uso das atribuições que lhe confere o art. 5º, inciso II do Regimento Interno, aprovado pela Portaria nº 147, de 9 de ma",
+        "md": " Oficial da União, versão eletrônica, em formato pdf, e dá outras providências. **O DIRETOR-GERAL DA IMPRENSA NACIONAL,**no uso das atribuições que lhe confere o art. 5º, inciso II do Regimento Interno, aprovado pela Portaria nº 147, de 9 d"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2019/portaria-n-2.355-de-26-de-novembro-de-2019-229902699.md",
+      "sha256_md": "6c703cf4277e0db89d30f7f0c1e745d2b0b891427409141438580cf7aaadc753",
+      "sha256_fonte": "886bf6f3541cb7018a9d2b910bb54ad8470beb77a21a5455b6ff8010b530df86",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "b8818304913557838f2735ebce263881db2292f0bbb0d9285ac71263b82c0141",
+      "sha256_visivel_md": "729ba83dee155982c3a5f02e5dfe928cfc0f25730ef51bd77fd81d94ceb0e656",
+      "primeira_diferenca": {
+        "posicao": 160,
+        "fonte": "e de Gestão de Integridade no âmbito da Casa Civil da Presidência da República. O MINISTRO DE ESTADO CHEFE DA CASA CIVIL DA PRESIDÊNCIA DA REPÚBLICA,substituto,no uso das atribuições que lhe conferem os incisos I e IV do parágrafo único do ",
+        "md": "e de Gestão de Integridade no âmbito da Casa Civil da Presidência da República. **O MINISTRO DE ESTADO CHEFE DA CASA CIVIL DA PRESIDÊNCIA DA REPÚBLICA,**substituto,no uso das atribuições que lhe conferem os incisos I e IV do parágrafo único"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2019/portaria-n-27-de-27-de-maio-de-2019-136231628.md",
+      "sha256_md": "e79706e8fb22b5172e8ffbf1d54e5ee5f2fdbd2bb501beeb8fdfea493d6bd91c",
+      "sha256_fonte": "d1837944e5790fde98630a903fc7a466ff2ec070b44bad7fbfc69025fc066fc2",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "c4775afcaebde9af3381e87b35994f4c9d472f0f3391c4279f43d1fef1d4535c",
+      "sha256_visivel_md": "71e36081a33ef8f6f51802cb9f15388c0f8247414d1c3bd4ad014d77b3f41313",
+      "primeira_diferenca": {
+        "posicao": 224,
+        "fonte": "da Informação e Comunicações do Instituto Nacional de Tecnologia da Informação. O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,no uso da competência prevista no art. 9º do Anexo I, do Decreto nº 8.985, de 8 de fevere",
+        "md": "da Informação e Comunicações do Instituto Nacional de Tecnologia da Informação. **O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,**no uso da competência prevista no art. 9º do Anexo I, do Decreto nº 8.985, de 8 de fe"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2019/portaria-n-31-de-5-de-junho-de-2019-157601353.md",
+      "sha256_md": "ac509f7b2abb106f574bacd7b186f273b21724f6e90fa73ab6f13280704eb516",
+      "sha256_fonte": "25164d8079b75122f53c4dbe0268ec504c0c86545f80defb181a409b4d1cf88f",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "779d031edba53eeb5ec93510b8ada35587e917992c0d4cb8b9c390558bb2aece",
+      "sha256_visivel_md": "be63511a83123fd101de211047b739c03d9be343bb4f2e1c6996092035de858d",
+      "primeira_diferenca": {
+        "posicao": 196,
+        "fonte": "no do Instituto Nacional de Tecnologia da Informação, e dá outras providências. O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,no uso da atribuição que lhe confere o art. 6º do Decreto nº 8.985, de 8 de fevereiro de ",
+        "md": "no do Instituto Nacional de Tecnologia da Informação, e dá outras providências. **O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,**no uso da atribuição que lhe confere o art. 6º do Decreto nº 8.985, de 8 de fevereiro"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2019/portaria-n-39-de-4-de-julho-de-2019-189871621.md",
+      "sha256_md": "c5ced3e9fdcdcd66db8331079b23b228767e124e966f4e86ace172a82123bf83",
+      "sha256_fonte": "fdb6b5d4332053693ef13f42da80fa4e1e67af887a27e1cc5f5db2f24e6e744f",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "c755ecfb3170d89467157fd176db7dfb3386dfaa8a3e997d9f6240c64d234d8c",
+      "sha256_visivel_md": "72a5c8c8326e3407f803e5f89187de5f72f1c1efd3da26161db72689fd2b6423",
+      "primeira_diferenca": {
+        "posicao": 38,
+        "fonte": "PORTARIA Nº 39, DE 4 DE JULHO DE 2019 O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO, AUTARQUIA FEDERAL, VINCULADA À CASA CIVIL DA PRESIDÊNCIA DA REPÚBLICA,no uso de suas atr",
+        "md": "PORTARIA Nº 39, DE 4 DE JULHO DE 2019 **O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO, AUTARQUIA FEDERAL, VINCULADA À CASA CIVIL DA PRESIDÊNCIA DA REPÚBLICA,**no uso de suas"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2019/portaria-n-4-de-15-de-fevereiro-de-2019-63799046.md",
+      "sha256_md": "2f788975a89bae43d1e90838c9a9cf44bade099ae8063cffd3c7867eedd5ddc9",
+      "sha256_fonte": "9efd6a7e19d38b3f2f7b52c8150d911dfbe8338602c7d2815340c528dc91c08a",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "f359de99a34aca4e2aaddf783c915ab1d996d7adcff4606e8cdfc9bad9751e8b",
+      "sha256_visivel_md": "290b7a358fb4f8c8027bf040ca642ed0e1be818845962a90d0ceab5bcbf42ac1",
+      "primeira_diferenca": {
+        "posicao": 153,
+        "fonte": "sessores Especiais do Gabinete da Secretaria Geral da Presidência da República. O MINISTRO CHEFE DA SECRETARIA GERAL DA PRESIDÊNCIA DA REPÚBLICA,no uso da atribuição que lhe confere o art. 87, parágrafo único, inciso I, da Constituição e te",
+        "md": "sessores Especiais do Gabinete da Secretaria Geral da Presidência da República. **O MINISTRO CHEFE DA SECRETARIA GERAL DA PRESIDÊNCIA DA REPÚBLICA,**no uso da atribuição que lhe confere o art. 87, parágrafo único, inciso I, da Constituição "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2019/portaria-n-52-de-2-de-setembro-de-2019-214052530.md",
+      "sha256_md": "0ea32313c59d38210191a43b7512f7d49845554d2fea23e2647584b6091c332e",
+      "sha256_fonte": "1c34bf80c57cea6a7a1638f8ae6c3c550abac81b9402f3762b7695259502c421",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "f9f452413993e1c9703e912a7ea93c12977653ce3b3fb6f58fc8d51b64a94cf8",
+      "sha256_visivel_md": "3738e554e61287ada30e8b39adf67f2fa114d0b8d6fa5e3d0b6eb899ae9b07b6",
+      "primeira_diferenca": {
+        "posicao": 165,
+        "fonte": "o Poder Executivo Federal junto ao Instituto de Tecnologia da Informação - ITI. O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,no uso de suas atribuições e tendo em vista o disposto no art. 16 do Decreto nº 9.739, de",
+        "md": "o Poder Executivo Federal junto ao Instituto de Tecnologia da Informação - ITI. **O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,**no uso de suas atribuições e tendo em vista o disposto no art. 16 do Decreto nº 9.739"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2019/portaria-n-58-de-4-de-outubro-de-2019-220480252.md",
+      "sha256_md": "c351f8ba3c236f37eb615fb0bddd36036afb36e81a8448a87cb052bdf071e05b",
+      "sha256_fonte": "6eb12f5492da81dbc049d084f21222523379e92005d4ebfd0126505c0cedb5ba",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "3a087bc91ad975ce2e66846d56b5ae6f177fe674050b8c7fae8e037afddbda56",
+      "sha256_visivel_md": "b741ec16652d8e7ef81a83bdf434c8aaa75a6f147c19384392dcf2041b281abc",
+      "primeira_diferenca": {
+        "posicao": 163,
+        "fonte": "icitações de credenciamento e revoga a Portaria nº 50, de 22 de agosto de 2018. O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,no uso da atribuição que lhe confere o art. 9°, inciso VI, do ANEXO I, do Decreto n° 8.98",
+        "md": "icitações de credenciamento e revoga a Portaria nº 50, de 22 de agosto de 2018. **O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,**no uso da atribuição que lhe confere o art. 9°, inciso VI, do ANEXO I, do Decreto n° "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2019/portaria-n-c2-ba-131-de-13-de-maio-de-2019-108889222.md",
+      "sha256_md": "baa6a1b84003dadb0ec217b996c19fa459348d01c1e86b820ebb5752ae226a65",
+      "sha256_fonte": "89108b3e97802e000242e98bc5e25f1aa1f9e037dfa715f18ff732ab3b181c66",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "38d39f18c64d3e73e7d2e97805561159c3925feb581323321fad0811422861fb",
+      "sha256_visivel_md": "c38786acdbde759410c8e53c22e936701da5220324f878cd4d313df51f6fb508",
+      "primeira_diferenca": {
+        "posicao": 39,
+        "fonte": "PORTARIA Nº 131, DE 13 DE MAIO DE 2019 O DIRETOR-GERAL DA IMPRENSA NACIONAL,no uso das atribuições que lhe confere o art. 5º, inciso II do Regimento Interno, aprovado pela Portaria nº 147, de 9 de ma",
+        "md": "PORTARIA Nº 131, DE 13 DE MAIO DE 2019 **O DIRETOR-GERAL DA IMPRENSA NACIONAL,**no uso das atribuições que lhe confere o art. 5º, inciso II do Regimento Interno, aprovado pela Portaria nº 147, de 9 d"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2020/portaria-cc-pr-n-406-de-19-de-agosto-de-2020-273220131.md",
+      "sha256_md": "cbf274021e1229612819f2deaeb87ccf72ee16d15d129514a20dfe31cdeeb6e6",
+      "sha256_fonte": "10d79ecc6a5f996cc1d29bd9fc3210d283d42b5dffecc5aeca6ae81b3a2b9dde",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "1eb866ae576d7d9cb27a3f2d24cb1e52469b3c9c143d66e08e135efa40e983ef",
+      "sha256_visivel_md": "4de2a16dc821de26298d772c9201418a07747f28eb9a7241b2af04d503e1ece0",
+      "primeira_diferenca": {
+        "posicao": 295,
+        "fonte": "ontas da União na apreciação da Prestação de Contas do Presidente da República. O MINISTRO DE ESTADO CHEFE DA CASA CIVIL DA PRESIDÊNCIA DA REPÚBLICA,no uso da atribuição que lhe confere o art. 87, parágrafo único, incisos I e II, da Constit",
+        "md": "ontas da União na apreciação da Prestação de Contas do Presidente da República. **O MINISTRO DE ESTADO CHEFE DA CASA CIVIL DA PRESIDÊNCIA DA REPÚBLICA,**no uso da atribuição que lhe confere o art. 87, parágrafo único, incisos I e II, da Con"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2020/portaria-cc-pr-n-469-de-2-de-outubro-de-2020-281071761.md",
+      "sha256_md": "26c653152412c3b0395e669ec34a21c4722eb8aef8d98b5ad8eace9ba062ed29",
+      "sha256_fonte": "550d33d7d46e3188b0268162b0369cfa20f3766e1a221206ac804b34cb9b5464",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "f297851951dc22ab5a1c5850cdd6f651b4c58dfc7dae50eb1c4e2c852d4a17d8",
+      "sha256_visivel_md": "210e56f0ccaf17f8610a10b51e4ebfac77c1e397d42d0ac8c3db217e4ebfe388",
+      "primeira_diferenca": {
+        "posicao": 310,
+        "fonte": "9, de 28 de novembro de 2019; e declara a revogação das portarias que menciona. O MINISTRO DE ESTADO CHEFE DA CASA CIVIL DA PRESIDÊNCIA DA REPÚBLICA,no uso da atribuição que lheconfere o art. 87, parágrafo único, incisos I e II, da Constitu",
+        "md": "9, de 28 de novembro de 2019; e declara a revogação das portarias que menciona. **O MINISTRO DE ESTADO CHEFE DA CASA CIVIL DA PRESIDÊNCIA DA REPÚBLICA,**no uso da atribuição que lheconfere o art. 87, parágrafo único, incisos I e II, da Cons"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2020/portaria-gsi-pr-n-78-de-27-de-novembro-de-2020-290791980.md",
+      "sha256_md": "57f4c0516e740f03de150e6caf4d0d3df2501d463a895a219af2269f159f500f",
+      "sha256_fonte": "fa3bb88c9a65fc4d59469e6ee6f5e1df2270e654dd4ec3895aa9a40945373c1f",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DISPOSIÇÕES PRELIMINARES",
+          "fonte": "CAPÍTULO I DISPOSIÇÕES PRELIMINARES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "bc1bdb8d349e4e30ae1d78af6a440ce90fb6f9f8fd681eadee054de69dbb3c5b",
+      "sha256_visivel_md": "3a4013c7bd9c3020e45eda78c472c9f0c278971915dd842af80cc6f33f1f0810",
+      "primeira_diferenca": {
+        "posicao": 197,
+        "fonte": "e Segurança Institucional da Presidência da República e dá outras providências. O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA,no uso das atribuições que lhe confere o parágrafo único do inciso",
+        "md": "e Segurança Institucional da Presidência da República e dá outras providências. **O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA,**no uso das atribuições que lhe confere o parágrafo único do in"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2020/portaria-interministerial-seme-sgpr-sgd-sedgg-me-n-1-de-7-de-agosto-de-2020-271236050.md",
+      "sha256_md": "d6a3f6febd6972e22e1842827e4c46843c5a12cfa0afec6eef435cf002be345d",
+      "sha256_fonte": "7919860760abc0af28d8425f48eacf23cd85afd3083fa55e7648225ca89a75d9",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "14d0973597eacc16ccc09d6fa6812158191c3664b9e28a5a8737205637955b73",
+      "sha256_visivel_md": "711b241155e98badc5852e28e69a3015f3a18afabe29e8fb6d94065c487f5c2d",
+      "primeira_diferenca": {
+        "posicao": 342,
+        "fonte": "ral direta, autárquica e fundacional, e aprova planos de Transformação Digital. O SECRETÁRIO ESPECIAL DE MODERNIZAÇÃO DO ESTADO DA SECRETARIA GERAL DA PRESIDÊNCIA DA REPÚBLICA E O SECRETÁRIO DE GOVERNO DIGITAL DA SECRETARIA ESPECIAL DE DESB",
+        "md": "ral direta, autárquica e fundacional, e aprova planos de Transformação Digital. **O SECRETÁRIO ESPECIAL DE MODERNIZAÇÃO DO ESTADO DA SECRETARIA GERAL DA PRESIDÊNCIA DA REPÚBLICA E O SECRETÁRIO DE GOVERNO DIGITAL DA SECRETARIA ESPECIAL DE DE"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2020/portaria-n-48-de-15-de-outubro-de-2020-283625811.md",
+      "sha256_md": "f29ad235fbbcb9bbb47d805de323a3ffde031b92a8bf58278775537e1b2a4fb2",
+      "sha256_fonte": "6e7f4d198766d7cfb5a145faef2556cd84224ae075b8bf80d096ebd0b384941b",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "b30311a0b2f11d73503a9a2c31beba50f689017a6dcc3ec5110264144aed1fa9",
+      "sha256_visivel_md": "b8d923807c23d93a8af3b9f6d96a63b581a7a3d156eb3078fb6d0e17c53e33c3",
+      "primeira_diferenca": {
+        "posicao": 165,
+        "fonte": "o Poder Executivo Federal junto ao Instituto de Tecnologia da Informação - ITI. ODIRETOR-PRESIDENTE DOINSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,no uso de suas atribuições e tendo em vista o disposto no art. 16 do Decreto nº 9.739, de 2",
+        "md": "o Poder Executivo Federal junto ao Instituto de Tecnologia da Informação - ITI. **ODIRETOR-PRESIDENTE DOINSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,**no uso de suas atribuições e tendo em vista o disposto no art. 16 do Decreto nº 9.739, "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2020/portaria-n-483-de-21-de-outubro-de-2020-284370916.md",
+      "sha256_md": "2decf3ae9c137e3ed0b03354200976e277f3ab6ff7ec109de78516844b6fad44",
+      "sha256_fonte": "29ca930ee28faf1883e4f45f345748ece2cc8e53dd894bc9251c46e678445c29",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "def6d083d9547070a2beb4a56466fbd7d643ded6a87ca9104606a8596983f479",
+      "sha256_visivel_md": "661e2686e78a8eb78848f7673fb143e40b3687bf50df9b80548943247c9c1a93",
+      "primeira_diferenca": {
+        "posicao": 237,
+        "fonte": "IVIL DA PRESIDÊNCIA DA REPÚBLICA, no uso da atribuição que lhe confere o art. 87, caput, parágrafo único, incisos I e II, da Constituição, e tendo em vista o disposto nos art. 13-A e 15-A do Decreto nº 9.203, de 22 de novembro de 2017, reso",
+        "md": "IVIL DA PRESIDÊNCIA DA REPÚBLICA, no uso da atribuição que lhe confere o art. 87**, caput**, parágrafo único, incisos I e II, da Constituição, e tendo em vista o disposto nos art. 13-A e 15-A do Decreto nº 9.203, de 22 de novembro de 2017, "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2020/portaria-n-49-de-26-de-outubro-de-2020-285226271.md",
+      "sha256_md": "2ebe0fe2320faaa6d2747d73df859d4e110c9161fbb33a00c91506208a9dd298",
+      "sha256_fonte": "c4f6e29e1efb11da05abaef01f781910228f4457628d4c7ba43c8ea46d238b4e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "c4da3f2e4c48dc5065b6ab5e485cfb6ab856f438d2da8e08ed0e5320e1b2304e",
+      "sha256_visivel_md": "7be8d2cf030a10511ae7eed13aa1779cc43d9c1cf7e8b28bf5ddc7c4d88eb09b",
+      "primeira_diferenca": {
+        "posicao": 41,
+        "fonte": "Portaria Nº 49, DE 26 DE outubro DE 2020 O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,no uso de suas atribuições e tendo em vista o disposto no art. 7º do Decreto nº 8.985, de",
+        "md": "Portaria Nº 49, DE 26 DE outubro DE 2020 **O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,**no uso de suas atribuições e tendo em vista o disposto no art. 7º do Decreto nº 8.985"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2020/portaria-n-51-de-6-de-novembro-de-2020-286951871.md",
+      "sha256_md": "284774ab808780ded79bfbe2d097d62e9defc8105759ba93cbade06031412ac2",
+      "sha256_fonte": "280633847242a7ea4ec7e60bdd532099fc14efa6858250ae508de5e3d652a1e0",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "2f759798c8068e71a26db3c88223139adf15618c9385f2c4963b88c882587932",
+      "sha256_visivel_md": "c9039d349d0ec7afe4c29a68d7036d24c23cee9717be762159d7c3ecca059f8a",
+      "primeira_diferenca": {
+        "posicao": 165,
+        "fonte": "o Poder Executivo Federal junto ao Instituto de Tecnologia da Informação - ITI. ODIRETOR-PRESIDENTE DOINSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,no uso de suas atribuições e tendo em vista o disposto no art. 16 do Decreto nº 9.739, de 2",
+        "md": "o Poder Executivo Federal junto ao Instituto de Tecnologia da Informação - ITI. **ODIRETOR-PRESIDENTE DOINSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,**no uso de suas atribuições e tendo em vista o disposto no art. 16 do Decreto nº 9.739, "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2020/portaria-n-638-de-18-de-dezembro-de-2020-295222191.md",
+      "sha256_md": "ebb4ea029a538223f1603f9cbd4a1f019d26901b0544b25dd0e19a4421af3159",
+      "sha256_fonte": "119f565eda868fef4826685280d95c99add9e5898ca352202ead79db0ffa2a15",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — NOMEAÇÕES E ATOS DE PESSOAL",
+          "fonte": "CAPÍTULO I NOMEAÇÕES E ATOS DE PESSOAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DIÁRIAS E PASSAGENS",
+          "fonte": "CAPÍTULO II DIÁRIAS E PASSAGENS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — CONTRATAÇÕES E CESSÕES DE USO",
+          "fonte": "CAPÍTULO III CONTRATAÇÕES E CESSÕES DE USO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — COLEGIADOS",
+          "fonte": "CAPÍTULO IV COLEGIADOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+          "fonte": "CAPÍTULO V DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "8fbad9226f9a2dace925262597c82353e9fad73762a440665bd8879ef1f79439",
+      "sha256_visivel_md": "4970dbdc6096a97f9465f2ae7541cfe2b2e8579a3d966fdb9d8b458704112d5e",
+      "primeira_diferenca": {
+        "posicao": 560,
+        "fonte": " dezembro de 2019, no Decreto nº 10.520, de 15 de outubro de 2020, e no art. 3º,caput,inciso III, da Resolução nº 2, de 29 de junho de 2020, do Comitê Interministerial de Governança, resolve: CAPÍTULO I NOMEAÇÕES E ATOS DE PESSOAL Art. 1º F",
+        "md": " dezembro de 2019, no Decreto nº 10.520, de 15 de outubro de 2020, e no art. 3º,**caput,**inciso III, da Resolução nº 2, de 29 de junho de 2020, do Comitê Interministerial de Governança, resolve: CAPÍTULO I NOMEAÇÕES E ATOS DE PESSOAL Art. "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2020/portaria-n-668-de-29-de-setembro-de-2020-280241887.md",
+      "sha256_md": "a11315bf6446e808147588dc71624067bb5e927c85d77d9a8538bd446a9f4e37",
+      "sha256_fonte": "eb87e8eee9ad0a6df40b9b0d3c973f62ca02e6763476e6ee6df3e69ace344940",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "fcb93c4f4297c5b4ac99184e3d70de446acaf1b84ebcf2806fac24cc67a43d3c",
+      "sha256_visivel_md": "0072f327a5b41aee32c5cd5bc83bfd7c56ca036f6ffdad80a5ea576bf1e2284c",
+      "primeira_diferenca": {
+        "posicao": 43,
+        "fonte": "PORTARIA Nº 668, DE 29 DE SETEMBRO DE 2020 O DIRETOR-GERAL DA AGÊNCIA BRASILEIRA DE INTELIGÊNCIA DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA,no uso das atribuições conferidas pelo ",
+        "md": "PORTARIA Nº 668, DE 29 DE SETEMBRO DE 2020 **O DIRETOR-GERAL DA AGÊNCIA BRASILEIRA DE INTELIGÊNCIA DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA,**no uso das atribuições conferidas p"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2020/portaria-n-82-de-1-de-dezembro-de-2020-291519338.md",
+      "sha256_md": "1cc73f15faad781d469adb7d65572a0f88b589ef101988397d77fe93fd31dec5",
+      "sha256_fonte": "ac1cb7260e9304b5b3912dfc878e26d453afa6d52aeec8b6479d4274d2b261ba",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "c6c476c2ba78abb04c4adb71f78da90f934c3128037bf124282c48bd19e9f8b5",
+      "sha256_visivel_md": "8be471ab4d52a830a1a68a51ae410b29306eb121518aed910738cc3d55d996c9",
+      "primeira_diferenca": {
+        "posicao": 223,
+        "fonte": "a República, para os fins do disposto no art. 8º do Decreto nº 10.139, de 2019. O MINISTRO DE ESTADO CHEFE DA SECRETARIA DE GOVERNO DA PRESIDÊNCIA DA REPÚBLICA,no uso da atribuição que lheconfere o art. 87, parágrafo único, incisos I e II, ",
+        "md": "a República, para os fins do disposto no art. 8º do Decreto nº 10.139, de 2019. **O MINISTRO DE ESTADO CHEFE DA SECRETARIA DE GOVERNO DA PRESIDÊNCIA DA REPÚBLICA,**no uso da atribuição que lheconfere o art. 87, parágrafo único, incisos I e "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2020/portaria-n-89-de-30-de-dezembro-de-2020-297207142.md",
+      "sha256_md": "83e8b274da07ee7f4525d01adc631d6c758c62cb4e41cc6a560d5ac25d8d5b81",
+      "sha256_fonte": "a4edfd79b2fe588674f20fad1b22bd1d7faf2757ecb2829f31c84d3fabbf1b9b",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "885dceb3aee793cc91007b6459b9d297cb8ca974d8412b1d04eacf469ca998c0",
+      "sha256_visivel_md": "fb782bc924dbfd0154d7ab08205b66339376c9a378552410ddfa33b20724c6a2",
+      "primeira_diferenca": {
+        "posicao": 305,
+        "fonte": "ecifica, para fins do disposto no Decreto nº 10.139, de 28 de novembro de 2019. O MINISTRO DE ESTADO CHEFE DA SECRETARIA DE GOVERNO DA PRESIDÊNCIA DA REPÚBLICA,no uso da atribuição que lhe confere o art. 87, parágrafo único, incisos I e II,",
+        "md": "ecifica, para fins do disposto no Decreto nº 10.139, de 28 de novembro de 2019. **O MINISTRO DE ESTADO CHEFE DA SECRETARIA DE GOVERNO DA PRESIDÊNCIA DA REPÚBLICA,**no uso da atribuição que lhe confere o art. 87, parágrafo único, incisos I e"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2019/resolu-c3-87-c3-83o-n-c2-ba-5-de-18-de-abril-de-2019-83418013.md",
+      "sha256_md": "5c8ceaf5b99e02906a3e4401ae2db569df561e6afe09dc414a64085a7f3b4d58",
+      "sha256_fonte": "f9733751a2a07661feddfb04a53c0f246da012f6d0790cf0594ed682be15721d",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "37badc5b7e12fdce6ccccb9d4a7913ba6ae5ac0561daa767407713c83fbc3f79",
+      "sha256_visivel_md": "c4663def9e53bd09b9c2376b7abf2f42c17fc7f5260eb8c8c67db9ec87dac729",
+      "primeira_diferenca": {
+        "posicao": 184,
+        "fonte": "s do Grupo Técnico do Comitê de Desenvolvimento do Programa Nuclear Brasileiro. O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, Coordenador do Comitê de Desenvolvimento do Programa Nuclear Bras",
+        "md": "s do Grupo Técnico do Comitê de Desenvolvimento do Programa Nuclear Brasileiro. **O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, Coordenador do Comitê de Desenvolvimento do Programa Nuclear Br"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2019/resolucao-n-1-de-13-de-fevereiro-de-2019-63580239.md",
+      "sha256_md": "62e39f971f7ef26e46450ecde7c67686e4a39baba6b84a176ef37e66cd71bf20",
+      "sha256_fonte": "923c14617b8e2744c17e10ef88822f05d74b80b7bbaab0b10bcef87ff49d14e0",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "43286963f9e61e3cbb60e5e28910ffad3ed0987bd5db23aeef6945fa72b7ebcb",
+      "sha256_visivel_md": "44a7b1f76c5007a1f95ae7e025d54f234f8f33ce85cebfbc070962beeeb397e4",
+      "primeira_diferenca": {
+        "posicao": 43,
+        "fonte": "RESOLUÇÃO Nº 1, DE 13 DE FEVEREIRO DE 2019 O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, Coordenador do Comitê de Desenvolvimento do Programa Nuclear Bras",
+        "md": "RESOLUÇÃO Nº 1, DE 13 DE FEVEREIRO DE 2019 **O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, Coordenador do Comitê de Desenvolvimento do Programa Nuclear Br"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2019/resolucao-n-1-de-31-de-janeiro-de-2019-61985706.md",
+      "sha256_md": "9f2b8088307a366332079f50c614111160ce1efce4f0df8cc636a585bf8e431e",
+      "sha256_fonte": "8ead84e87a0938d1a5ef409690a4197bfcb2c38cfd5f4eb139be11be2572a050",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "fd563520618cfa74990271c07a63074dcd917ae2525311c4c1227eff39738e9e",
+      "sha256_visivel_md": "eb14c338a970fda14d9065468e1dde7a7fba424d535abbb93382d1f76ef6c0cc",
+      "primeira_diferenca": {
+        "posicao": 236,
+        "fonte": "rograma Espacial Brasileiro com atribuição para elaborar a Lei Geral do Espaço. O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, Coordenador do Comitê de Desenvolvimento do Programa Espacial Bra",
+        "md": "rograma Espacial Brasileiro com atribuição para elaborar a Lei Geral do Espaço. **O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, Coordenador do Comitê de Desenvolvimento do Programa Espacial B"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2019/resolucao-n-101-de-19-de-novembro-de-2019-231014311.md",
+      "sha256_md": "c0e520e8d12fbd088e80aea292ff778a07e9f2fe338fcbfec2f72a5cf717862d",
+      "sha256_fonte": "918aad6bef03802e518a402ad7083d64c886cea3eb1455adaf2c1058449349cf",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "5c9830bc64739d99ac8bb27660b4c1a7f87758efe9aced964094ac10f6f1e2fb",
+      "sha256_visivel_md": "590064dde696fb7e6b3634f277e291801b6f0b08b0e6e86529313b4acf263ec5",
+      "primeira_diferenca": {
+        "posicao": 141,
+        "fonte": "imentos simplificados para desestatização de empresas de pequeno e médio porte. O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA PRESIDÊNCIA DA REPÚBLICA - CPPI,no uso das atribuições que lhe conferem os artigos 4º, 5º, 7º e 8º, inci",
+        "md": "imentos simplificados para desestatização de empresas de pequeno e médio porte. **O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA PRESIDÊNCIA DA REPÚBLICA - CPPI,**no uso das atribuições que lhe conferem os artigos 4º, 5º, 7º e 8º, "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2019/resolucao-n-11-de-21-de-agosto-de-2019-212179148.md",
+      "sha256_md": "8dcb743b4ee2d444a1a7150d89ac7697e67b95a4c117fb0245479e3addf2e6e0",
+      "sha256_fonte": "00ad150799d6eb863cf4cc52fd68d3919c09523b3043fbd8b5ea99380c7bd49f",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "2fa1031d89b78b34221512569b99444d1d420a9c14c2db239885bea4989b3b5f",
+      "sha256_visivel_md": "1a4fa1ffb8272c495387dd65fe7cfd63455b31e410fe519fb2f70a0cf15561cb",
+      "primeira_diferenca": {
+        "posicao": 183,
+        "fonte": "bito da Câmara de Relações Exteriores e Defesa Nacional do Conselho de Governo. O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA,na condição de Presidente da Câmara de Relações Exteriores e Defes",
+        "md": "bito da Câmara de Relações Exteriores e Defesa Nacional do Conselho de Governo. **O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA,**na condição de Presidente da Câmara de Relações Exteriores e D"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2019/resolucao-n-13-de-18-de-setembro-de-2019-217289826.md",
+      "sha256_md": "ef16de7796aeec71704303cc6405ae9a7a56fd7e3f9e72a38fcf9d269d3ff3d8",
+      "sha256_fonte": "a45e9f6712095f218999a692fabccf794e749698c8a7ddf899e1ddbb9ac30dff",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "a684e8c319c8148657ca84808c1eb10ca45eea5d969c2441540b6a3077cb9fea",
+      "sha256_visivel_md": "fb0103cda8dfe837f5ee23745618790d53e112eb5e32b32fac335acc09fbe364",
+      "primeira_diferenca": {
+        "posicao": 193,
+        "fonte": "bito da Câmara de Relações Exteriores e Defesa Nacional do Conselho de Governo. O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, na condição de PRESIDENTE DA CÂMARA DE RELAÇÕES EXTERIORES E DEFE",
+        "md": "bito da Câmara de Relações Exteriores e Defesa Nacional do Conselho de Governo. **O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, na condição de PRESIDENTE DA CÂMARA DE RELAÇÕES EXTERIORES E DE"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2019/resolucao-n-14-de-18-de-setembro-de-2019-217289843.md",
+      "sha256_md": "157c7cd3ea20765cc5c2d1899fba17a9f2fe54a3fdbc796e918d78ef87555c78",
+      "sha256_fonte": "b48410f73a13b29562e0dc2beed917dac7938e828160ee98316bd02d4cf59dfd",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "f4a011f6883f3ef4e33b75a9b2bc4a4def226af370c61ec3c7de19c8c6a757ed",
+      "sha256_visivel_md": "ee0ac5947cc06b98a1a7079e059947b575d19561f8c18d403114e72313b59650",
+      "primeira_diferenca": {
+        "posicao": 185,
+        "fonte": "bito da Câmara de Relações Exteriores e Defesa Nacional do Conselho de Governo. O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, na condição de PRESIDENTE DA CÂMARA DE RELAÇÕES EXTERIORES E DEFE",
+        "md": "bito da Câmara de Relações Exteriores e Defesa Nacional do Conselho de Governo. **O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, na condição de PRESIDENTE DA CÂMARA DE RELAÇÕES EXTERIORES E DE"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2019/resolucao-n-152-de-13-de-agosto-de-2019-210740734.md",
+      "sha256_md": "2595bafd91f6e8793e94c1cf3b16c3ec72e9a206b05d3cc6dfb719570b0d72ee",
+      "sha256_fonte": "e01e9816640a44d2880931949ba285be46d93ab6591c83641a5325d558ff1522",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "9f3379560e27a1e3af6a8f8473b6afc0add55fd9b0334f4b5954fed0d0930b75",
+      "sha256_visivel_md": "70eb5c9c9c64c7a6e308e9986f79a44df62da912c7da5b810eab5de5a6af225c",
+      "primeira_diferenca": {
+        "posicao": 190,
+        "fonte": "icadora Raiz da ICP-Brasil (DOC-ICP-01), para complementar requisitos WebTrust. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "icadora Raiz da ICP-Brasil (DOC-ICP-01), para complementar requisitos WebTrust. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2019/resolucao-n-154-de-1-de-outubro-de-2019-220793132.md",
+      "sha256_md": "99f2b161205ef9c26465c843548b7c793ad22084f8183106be7434b258e54dab",
+      "sha256_fonte": "af60ade1b0e36509e660a2cc0d025d8dabce0e9712fb2511bf29facc0874e9d7",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "d499cbce3f161d14f3c3c0f45b0d4bf8629eca2c7f6e4d30b3e5f5ff8542df6b",
+      "sha256_visivel_md": "eb1aa1b0b81e356af961e4106d3975d4b38345a416c013d46f7ede56c4440a09",
+      "primeira_diferenca": {
+        "posicao": 163,
+        "fonte": "ão da transferência dos dossiês para o ambiente de AC e dá outras providências. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "ão da transferência dos dossiês para o ambiente de AC e dá outras providências. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2019/resolucao-n-2-de-27-de-marco-de-2019-69184678.md",
+      "sha256_md": "c937661e1c170f2a4017ecb5de23f77e4f104cc49a4daf011023038689c26e46",
+      "sha256_fonte": "1069de3aa0a3e900b8138dc03bec633318fa939aff5769f5f4e1a621750e92f9",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "4870aa54c9c868edc4084d9ca93a8c17a9f041fa1e2edcbd1001632b921c9c72",
+      "sha256_visivel_md": "91e6d75ab001d7f6fbece7882a7507f9f45e31d3bab3da7de25749fbb0eb8b1f",
+      "primeira_diferenca": {
+        "posicao": 488,
+        "fonte": "Plano Plurianual 2020/2023 das necessidades de recursos para essas finalidades. O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, Coordenador do Comitê de Desenvolvimento do Programa Espacial Bra",
+        "md": "Plano Plurianual 2020/2023 das necessidades de recursos para essas finalidades. **O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, Coordenador do Comitê de Desenvolvimento do Programa Espacial B"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2019/resolucao-n-62-de-21-de-agosto-de-2019-214052505.md",
+      "sha256_md": "290ab3b8130035e45a8e26684bcf9dd7b16452a4dde7059db8c8bfca6a7bb208",
+      "sha256_fonte": "a948cb6ab02003a46f10bdf606f3859bac5d22c5d296d774f293af875d1d8bb5",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "8380c4f90ef738077edcba3d1a3ec0d1e14971266423c44fb670a0121698db81",
+      "sha256_visivel_md": "d3af81eb3948413158f9f65c68f16aeeb2844136d28a55dd0124bb49bc0f279c",
+      "primeira_diferenca": {
+        "posicao": 315,
+        "fonte": "estora de Fundos Garantidores e Garantias S.A. - ABGF e dá outras providências. O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA PRESIDÊNCIA DA REPÚBLICA,no uso das atribuições que lhe conferem o art. 7º,caput, inciso I, da Lei nº 13",
+        "md": "estora de Fundos Garantidores e Garantias S.A. - ABGF e dá outras providências. **O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA PRESIDÊNCIA DA REPÚBLICA,**no uso das atribuições que lhe conferem o art. 7º,caput, inciso I, da Lei n"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2019/resolucao-n-66-de-21-de-agosto-de-2019-215812863.md",
+      "sha256_md": "7b10cc4d1563416a9bf6afee774d57214a9a6239440cf2e8a451f0da89c0a09e",
+      "sha256_fonte": "7f1905c75cabb61755a439877e34502b1830676b822ddcc49d7762a13bf215d1",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "f2f31bc342384df37bc19dd7462a88f5180d97f24f02b793d9046b01978f6826",
+      "sha256_visivel_md": "d6cae6e2453a9a1041f6b22417b10edd997383fbd35901b3be4dae3df7cb44c4",
+      "primeira_diferenca": {
+        "posicao": 418,
+        "fonte": " para empresa, com vistas a garantir sua sustentabilidade econômico-financeira. O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA PRESIDÊNCIA DA REPÚBLICA,no uso das atribuições que lhe conferem o art. 7º,caput, inciso I e art. 8-A, i",
+        "md": " para empresa, com vistas a garantir sua sustentabilidade econômico-financeira. **O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA PRESIDÊNCIA DA REPÚBLICA,**no uso das atribuições que lhe conferem o art. 7º,caput, inciso I e art. 8-"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2019/resolucao-n-69-de-21-de-agosto-de-2019-213478508.md",
+      "sha256_md": "cb6248e9620387a1c30cf3a270b5737d568d82a36e1a49c2ce4f372fff763a98",
+      "sha256_fonte": "d3d394761562c70e173a3a9c4f4c2f7875e9e11a3af00a129c08513bd666a244",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO I DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — SETOR PORTUÁRIO",
+          "fonte": "CAPÍTULO II SETOR PORTUÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — SETOR RODOVIÁRIO",
+          "fonte": "CAPÍTULO III SETOR RODOVIÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Qualificação de empreendimento no âmbito do PPI",
+          "fonte": "Seção I Qualificação de empreendimento no âmbito do PPI",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Definição da modalidade operacional da desestatização da rodovia federal BR-101/SC",
+          "fonte": "Seção II Definição da modalidade operacional da desestatização da rodovia federal BR-101/SC",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO IV DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO I — Cronograma estimado do setor portuário",
+          "fonte": "ANEXO I Cronograma estimado do setor portuário",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — Cronograma estimado do setor rodoviário",
+          "fonte": "ANEXO II Cronograma estimado do setor rodoviário",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "d634ae0f335be67e6eda3e0762ff64e3b1edd3707429e2b621e98c85ab828d28",
+      "sha256_visivel_md": "d8e6e17fb306348ca3ee2e16fc8d0720e5d08d463f32bd7830774aa71eac1879",
+      "primeira_diferenca": {
+        "posicao": 302,
+        "fonte": "dade operacional a ser aplicada na desestatização da rodovia federal BR-101/SC. O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA PRESIDÊNCIA DA REPÚBLICA,no uso das atribuições que lhe confere o art. 7º, inciso V, alínea \"c\", da Lei ",
+        "md": "dade operacional a ser aplicada na desestatização da rodovia federal BR-101/SC. **O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA PRESIDÊNCIA DA REPÚBLICA,**no uso das atribuições que lhe confere o art. 7º, inciso V, alínea \"c\", da "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2019/resolucao-n-71-de-21-de-agosto-de-2019-213478445.md",
+      "sha256_md": "f1fe8a1113f43ed6b9e6c21846b58b79fda204d9dd341e0d3e9cb2e7d63ed3af",
+      "sha256_fonte": "badd3af2028c61c79c7e0b1172f856f53a7efa9fee7a31f2e777d9a0bde162d2",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "8377daae03deba0405b2178bcbab0898b104e35c40898126e12fd9b73027838f",
+      "sha256_visivel_md": "c64d067b00287c9079da5f9c9e3b71500fa259275ea23879920466a6124db00e",
+      "primeira_diferenca": {
+        "posicao": 269,
+        "fonte": "o âmbito do Programa de Parcerias de Investimentos da Presidência da República. O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA PRESIDÊNCIA DA REPÚBLICA,no uso das atribuições que lhe confere o art. 7º, I, e tendo em vista o dispost",
+        "md": "o âmbito do Programa de Parcerias de Investimentos da Presidência da República. **O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA PRESIDÊNCIA DA REPÚBLICA,**no uso das atribuições que lhe confere o art. 7º, I, e tendo em vista o dis"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2019/resolucao-n-80-de-21-de-agosto-de-2019-213804533.md",
+      "sha256_md": "df234a68d69218f6a4680637d8998e92e8b09cfaeb7f78af905ade866d93283c",
+      "sha256_fonte": "190fdb081e748013c072cb766bcdc8cc0568bab7f8739186e668bd44cbc545f9",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "c6081c24ebe3a28989c89b3403d5c173556419013f0628b28ba4f538ce6ef4d4",
+      "sha256_visivel_md": "dc794518a7ea6994c61dbb613923c0ebc544803b6f50987eb2bfb5b59bd834e8",
+      "primeira_diferenca": {
+        "posicao": 241,
+        "fonte": "o âmbito do Programa de Parcerias de Investimentos da Presidência da República. O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA PRESIDÊNCIA DA REPÚBLICA,no uso das atribuições que lhe confere os arts. 7º, inciso I, e 8º-A, incisos V",
+        "md": "o âmbito do Programa de Parcerias de Investimentos da Presidência da República. **O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA PRESIDÊNCIA DA REPÚBLICA,**no uso das atribuições que lhe confere os arts. 7º, inciso I, e 8º-A, incis"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2019/resolucao-n-81-de-21-de-agosto-de-2019-213804574.md",
+      "sha256_md": "01f16e97f064e6bebb7340ce24381b9c5ccdc9532375190fac491e8d1770ba2f",
+      "sha256_fonte": "7287869fcc34ec64335b1856f2163be39224451be5b663d89bb672e82ceb7d7d",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "9c892107c046429a8322c211f1d820f33b7c072716b86a3e232b23426590fa22",
+      "sha256_visivel_md": "e037ea13823923bef25590f743bdf2df2d64540eaae4ef9de6d36dbadf4b6d49",
+      "primeira_diferenca": {
+        "posicao": 280,
+        "fonte": "ito do Programa de Parcerias de Investimentos da Presidência da República - PPI O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA PRESIDÊNCIA DA REPÚBLICA,no uso das atribuições que lhe conferem o art. 7º,caput, inciso I, da Lei nº 13",
+        "md": "ito do Programa de Parcerias de Investimentos da Presidência da República - PPI **O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA PRESIDÊNCIA DA REPÚBLICA,**no uso das atribuições que lhe conferem o art. 7º,caput, inciso I, da Lei n"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2019/resolucao-n-83-de-21-de-agosto-de-2019-216804163.md",
+      "sha256_md": "939b91492cc1a1d4193a68bacc3e2854d0aaf36df7de37fa1c0f02b526bc9600",
+      "sha256_fonte": "29965c218bff9794c4fcb5bf9e881def6873abfe40e6cd376900167b8cf63190",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "ee76d94ca61b12de2c8c9e1203d772e378609ce5025f406ffc8dadb76440d99e",
+      "sha256_visivel_md": "99c69f3516213f332253f53daf4bd3af5c9ea5ddd19451a7c41ce8867aab1f05",
+      "primeira_diferenca": {
+        "posicao": 254,
+        "fonte": " Presidência da República, para fins de estudar alternativas de desestatização. O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA PRESIDÊNCIA DA REPÚBLICA,no uso das atribuições que lhe conferem o art. 7º,caput, inciso I e art. 8-A, i",
+        "md": " Presidência da República, para fins de estudar alternativas de desestatização. **O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA PRESIDÊNCIA DA REPÚBLICA,**no uso das atribuições que lhe conferem o art. 7º,caput, inciso I e art. 8-"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2019/resolucao-n-84-de-21-de-agosto-de-2019-216804038.md",
+      "sha256_md": "ff87898ebd9e5e03f4497968c7daf30057e2a252ee79869b369e2dd84e7756fd",
+      "sha256_fonte": "d557be3315747c7e616b79206acfb840426e01a31c0613a685892454c9721015",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "b4b50e571ca3ac69e8a602f7a73066fba628ead81bcb4faca9ed4d526493005a",
+      "sha256_visivel_md": "b43cffc526363196bd091ca5f09e5b099b3bfccddb436d8e99ebb926be953da4",
+      "primeira_diferenca": {
+        "posicao": 265,
+        "fonte": " Presidência da República, para fins de estudar alternativas de desestatização. O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA PRESIDÊNCIA DA REPÚBLICA,no uso das atribuições que lhe conferem o art. 7º,caput, inciso I e art. 8-A, i",
+        "md": " Presidência da República, para fins de estudar alternativas de desestatização. **O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA PRESIDÊNCIA DA REPÚBLICA,**no uso das atribuições que lhe conferem o art. 7º,caput, inciso I e art. 8-"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2019/resolucao-n-95-de-19-de-novembro-de-2019-232399979.md",
+      "sha256_md": "8c07bd9454fd5f03603ed2bbeda369c50da69bb085948ed9444b552cba719828",
+      "sha256_fonte": "f3686d785b4e6b18cdef5244e1f108383e7ef90e3a2dccbb5941e3822c3c1e4f",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "2c33cc491a0d7ce196748debb4a7ce7cecf1ec0ca550158cf049cc09d25a89d3",
+      "sha256_visivel_md": "5c879513379f104b95d24954e6c43acdff2e7d52688d1c96df1db33ccbef5edb",
+      "primeira_diferenca": {
+        "posicao": 356,
+        "fonte": "o âmbito do Programa de Parcerias de Investimentos da Presidência da República. O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA RESIDÊNCIA DA REPÚBLICA,no uso das atribuições que lhe confere o art. 7º, I, art.1º, §1º, II, art. 4º, I",
+        "md": "o âmbito do Programa de Parcerias de Investimentos da Presidência da República. **O CONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA RESIDÊNCIA DA REPÚBLICA,**no uso das atribuições que lhe confere o art. 7º, I, art.1º, §1º, II, art. 4"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2020/resolucao-cg-icp-brasil-n-176-de-21-de-setembro-de-2020-278930483.md",
+      "sha256_md": "c2533e6f9b26155e09bf309b7e1b63c933f76efae47b5ad19a54554f2d07404f",
+      "sha256_fonte": "2ecc0426d97aaabfa76eb0f21de722cd7ebac855057634fb35b8704e51c50aa6",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "8947d5da5d6f405a2fef661fc1485cb8906037f2e2594101d729e3fad2e3e8e0",
+      "sha256_visivel_md": "5c21d4b9d15475f4cdc57e7096c35dfa90f0f0bb9cd2f32d2a13314af8a2463f",
+      "primeira_diferenca": {
+        "posicao": 243,
+        "fonte": "(CG ICP-Brasil) para regulamentar a realização de sessões por videoconferência. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "(CG ICP-Brasil) para regulamentar a realização de sessões por videoconferência. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2020/resolucao-cppi-n-143-de-13-de-novembro-de-2020-288293692.md",
+      "sha256_md": "098892f013b9aacfaf54252e0608000a12cf4b5a0b1cb32c00771d4c6076b1a5",
+      "sha256_fonte": "555cad248d8ad87bd94f9da7502e6641dff8cb858feb5e04189fafe18141adfb",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "8f5ed674272c242c41397afcece884b1bef251d8eefd883854e556c24ee94335",
+      "sha256_visivel_md": "1c9daf055f06defeb3d848c2cfc9fa5911d061a78f8387d195adec8addf0e836",
+      "primeira_diferenca": {
+        "posicao": 275,
+        "fonte": "ONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA PRESIDÊNCIA DA REPÚBLICAe oMINISTRO DE ESTADO DO DESENVOLVIMENTO REGIONAL,no uso das atribuições que lhes conferem o art. 7º-A da Lei n°13.334, de 13 de setembro de 2016, e o art. 4º do D",
+        "md": "ONSELHO DO PROGRAMA DE PARCERIAS DE INVESTIMENTOS DA PRESIDÊNCIA DA REPÚBLICAe o**MINISTRO DE ESTADO DO DESENVOLVIMENTO REGIONAL,**no uso das atribuições que lhes conferem o art. 7º-A da Lei n°13.334, de 13 de setembro de 2016, e o art. 4º "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2020/resolucao-gsi-pr-n-11-de-10-de-novembro-de-2020-287494579.md",
+      "sha256_md": "329cf618ebe592fcce70bfefb5b0acb932d28518b59b4f580ed90c218b6211c4",
+      "sha256_fonte": "24048cf124f9f2217ef8543e05b7168c3f4e8656fb1248a430dff032c3dad16f",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "65ecfe45f0479f8abdc5c8df442e7e8f4160f6caa7267210d511ece102855970",
+      "sha256_visivel_md": "e09b78bbee9276baa08ac88bbb98ea4dd99f6dbf0d247f12da383bfc710714c3",
+      "primeira_diferenca": {
+        "posicao": 320,
+        "fonte": " GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, na condição dePRESIDENTE DA CÂMARA DE RELAÇÕES EXTERIORES E DEFESA NACIONAL DO CONSELHO DE GOVERNO,no uso das atribuições que lhe confere o parágrafo único do art. 87 da Cons",
+        "md": " GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, na condição de**PRESIDENTE DA CÂMARA DE RELAÇÕES EXTERIORES E DEFESA NACIONAL DO CONSELHO DE GOVERNO,**no uso das atribuições que lhe confere o parágrafo único do art. 87 da "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2020/resolucao-n-10-de-25-de-novembro-de-2020-290312742.md",
+      "sha256_md": "ffb68d159d6d9e34b8ba95cca47ca71fc7353b66171bbf99c700c33d99ab6b4a",
+      "sha256_fonte": "bc87ab3ee222220d4aa4b758cb28751395ba33813f26804a23ceb9e1e84311aa",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "2d0f42618e2255a7712ec2de5205331ad0a852b4e60a5509c53284f94803f77b",
+      "sha256_visivel_md": "6d24e2abf41961a56bd1cc2728a926c1e6a831cb61090c53d40604180f586edb",
+      "primeira_diferenca": {
+        "posicao": 1210,
+        "fonte": " próprias, medidas de proteção social para mitigação dos impactos da pandemia dacovid-19,no âmbito das políticas coordenadas pelo Ministério da Cidadania; II - formular, gerir, apoiar e implementar as ações previstas no inciso I, relativas ",
+        "md": " próprias, medidas de proteção social para mitigação dos impactos da pandemia da**covid-19,**no âmbito das políticas coordenadas pelo Ministério da Cidadania; II - formular, gerir, apoiar e implementar as ações previstas no inciso I, relati"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2020/resolucao-n-13-de-12-de-novembro-de-2020-288023053.md",
+      "sha256_md": "6c0fb2d0a97e730ad8979a1f221c288d6e8949f6f53cc4ca81095a35e917a924",
+      "sha256_fonte": "7074b688c00866b86c47a84f9b42d665bf99ae9524fc3f4584de759761867fb6",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — DELIBERAÇÃO DO COMITÊ DE DESENVOLVIMENTODO PROGRAMA ESPACIAL BRASILEIRO",
+          "fonte": "ANEXO I DELIBERAÇÃO DO COMITÊ DE DESENVOLVIMENTODO PROGRAMA ESPACIAL BRASILEIRO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — DELIBERAÇÃO DO COMITÊ DE DESENVOLVIMENTO DO PROGRAMA ESPACIAL BRASILEIRO",
+          "fonte": "ANEXO II DELIBERAÇÃO DO COMITÊ DE DESENVOLVIMENTO DO PROGRAMA ESPACIAL BRASILEIRO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO III — DELIBERAÇÃO DO COMITÊ DE DESENVOLVIMENTO DO PROGRAMA ESPACIAL BRASILEIRO",
+          "fonte": "ANEXO III DELIBERAÇÃO DO COMITÊ DE DESENVOLVIMENTO DO PROGRAMA ESPACIAL BRASILEIRO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO IV — DELIBERAÇÃO DO COMITÊ DE DESENVOLVIMENTO DO PROGRAMA ESPACIAL BRASILEIRO",
+          "fonte": "ANEXO IV DELIBERAÇÃO DO COMITÊ DE DESENVOLVIMENTO DO PROGRAMA ESPACIAL BRASILEIRO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "285a4e9d75bfd43d990a7f6bc45322455effbc0ddeec8ae84e7ada3be92c1b8c",
+      "sha256_visivel_md": "9e98416a423d6d1880280839125843d74481d315201281ca70fdbd3427f7ea5c",
+      "primeira_diferenca": {
+        "posicao": 162,
+        "fonte": "senvolvimento do Programa Espacial Brasileiro aprovadas nas reuniões Plenárias. O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA,na condição deCOORDENADOR DO COMITÊ DE DESENVOLVIMENTO DO PROGRAMA",
+        "md": "senvolvimento do Programa Espacial Brasileiro aprovadas nas reuniões Plenárias. **O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA,na condição deCOORDENADOR DO COMITÊ DE DESENVOLVIMENTO DO PROGRA"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2020/resolucao-n-13-de-19-de-outubro-de-2020-283732048.md",
+      "sha256_md": "7b8a4902735671042ff2728352f02eadd75da6fdc5b47e3e8000817412d9a60c",
+      "sha256_fonte": "8fff67169cd014c030a1f6197e2c138c2f23685fe40c3ae8263ee374b6387637",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              146,
+              158
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "44c3d29eeb4cf2ab817bdeebc17a338f4735a4fafe11ec4b678f4c2efbda436b",
+      "sha256_visivel_md": "44c3d29eeb4cf2ab817bdeebc17a338f4735a4fafe11ec4b678f4c2efbda436b"
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2019/instrucao-normativa-n-1.915-de-27-de-novembro-de-2019-230176307.md",
+      "sha256_md": "195f131bd5f58916f73161504e7538a67d5347127faa2c584487c3d6163d0a42",
+      "sha256_fonte": "b54499937b874d7b64e624e4e3453dccfbe01f17bb4821f02b3898604308c899",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DISPOSIÇÃO PRELIMINAR",
+          "fonte": "CAPÍTULO I DISPOSIÇÃO PRELIMINAR",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DA OBRIGATORIEDADE DE APRESENTAÇÃO DA DIRF 2020",
+          "fonte": "CAPÍTULO II DA OBRIGATORIEDADE DE APRESENTAÇÃO DA DIRF 2020",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DO PROGRAMA GERADOR DA DIRF 2020",
+          "fonte": "CAPÍTULO III DO PROGRAMA GERADOR DA DIRF 2020",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DA APRESENTAÇÃO DA DIRF 2020",
+          "fonte": "CAPÍTULO IV DA APRESENTAÇÃO DA DIRF 2020",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DO PRAZO DE APRESENTAÇÃO DA DIRF 2020",
+          "fonte": "CAPÍTULO V DO PRAZO DE APRESENTAÇÃO DA DIRF 2020",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DO PREENCHIMENTO DA DIRF 2020",
+          "fonte": "CAPÍTULO VI DO PREENCHIMENTO DA DIRF 2020",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VII — DA RETIFICAÇÃO DA DIRF 2020",
+          "fonte": "CAPÍTULO VII DA RETIFICAÇÃO DA DIRF 2020",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VIII — DO PROCESSAMENTO DA DIRF 2020",
+          "fonte": "CAPÍTULO VIII DO PROCESSAMENTO DA DIRF 2020",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IX — DAS PENALIDADES",
+          "fonte": "CAPÍTULO IX DAS PENALIDADES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO X — DA GUARDA DAS INFORMAÇÕES",
+          "fonte": "CAPÍTULO X DA GUARDA DAS INFORMAÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO XI — DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO XI DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO I — TABELA DE CÓDIGOS DE RECEITAS",
+          "fonte": "ANEXO I TABELA DE CÓDIGOS DE RECEITAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — TABELAS RELATIVAS Aos Rendimentos DE BENEFICIÁRIO NO EXTERIOR",
+          "fonte": "ANEXO II TABELAS RELATIVAS Aos Rendimentos DE BENEFICIÁRIO NO EXTERIOR",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO III — TABELA DE CÓDIGOS DOS PAÍSES",
+          "fonte": "ANEXO III TABELA DE CÓDIGOS DOS PAÍSES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              504,
+              506
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              508,
+              510
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              512,
+              514
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 5,
+            "markup": ")",
+            "linhas": [
+              520,
+              522
+            ]
+          },
+          "html_start": "5",
+          "inicio_efetivo": 5,
+          "contadores": [
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              536,
+              538
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              540,
+              542
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              544,
+              546
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "f0646eabb32ba06d0aeabedcf35365ed0b5c037c169504f4d21c371dcc91c3dd",
+      "sha256_visivel_md": "4c321532b5ceae2a8449401cc2b7727908efac2ff7bc961206497d9378aa50c2"
+    },
+    {
+      "path": "reguladores/rfb/instrucoes-normativas/2020/instrucao-normativa-n-1.990-de-18-de-novembro-de-2020-289584246.md",
+      "sha256_md": "6b0126e0064e60c99e528e983cfeba7b61565b59d3ffb5ab417bef24cc9fcb99",
+      "sha256_fonte": "c8f16909a77daa1688bc8daffadaf8e31f904f7a1e7f019193338fe8d6a8737a",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DA OBRIGATORIEDADE DE APRESENTAÇÃO DA DIRF",
+          "fonte": "CAPÍTULO I DA OBRIGATORIEDADE DE APRESENTAÇÃO DA DIRF",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DO PROGRAMA GERADOR DA DIRF",
+          "fonte": "CAPÍTULO II DO PROGRAMA GERADOR DA DIRF",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DA APRESENTAÇÃO DA DIRF",
+          "fonte": "CAPÍTULO III DA APRESENTAÇÃO DA DIRF",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DO PRAZO DE APRESENTAÇÃO DA DIRF",
+          "fonte": "CAPÍTULO IV DO PRAZO DE APRESENTAÇÃO DA DIRF",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DO PREENCHIMENTO DA DIRF",
+          "fonte": "CAPÍTULO V DO PREENCHIMENTO DA DIRF",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DA RETIFICAÇÃO DA DIRF",
+          "fonte": "CAPÍTULO VI DA RETIFICAÇÃO DA DIRF",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VII — DO PROCESSAMENTO DA DIRF",
+          "fonte": "CAPÍTULO VII DO PROCESSAMENTO DA DIRF",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VIII — DAS PENALIDADES",
+          "fonte": "CAPÍTULO VIII DAS PENALIDADES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IX — DA GUARDA DAS INFORMAÇÕES",
+          "fonte": "CAPÍTULO IX DA GUARDA DAS INFORMAÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO X — DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO X DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO I — TABELA DE CÓDIGOS DE RECEITAS",
+          "fonte": "ANEXO I TABELA DE CÓDIGOS DE RECEITAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — TABELAS RELATIVAS Aos Rendimentos DE BENEFICIÁRIO NO EXTERIOR",
+          "fonte": "ANEXO II TABELAS RELATIVAS Aos Rendimentos DE BENEFICIÁRIO NO EXTERIOR",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO III — TABELA DE CÓDIGOS DOS PAÍSES",
+          "fonte": "ANEXO III TABELA DE CÓDIGOS DOS PAÍSES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              504,
+              506
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              508,
+              510
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ")",
+            "linhas": [
+              514,
+              516
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 5,
+            "markup": ")",
+            "linhas": [
+              518,
+              520
+            ]
+          },
+          "html_start": "5",
+          "inicio_efetivo": 5,
+          "contadores": [
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              534,
+              536
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              538,
+              540
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              542,
+              544
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "a3540457fb0b28c6825ec3922ecd2974c5409952da7276a2e26d73ee9da74286",
+      "sha256_visivel_md": "666afd3ddf88654c1e1097851053fdcd20020bb28d0bc8a8e619033998983e8b"
+    },
+    {
+      "path": "reguladores/rfb/portarias/2019/portaria-n-134-de-10-de-outubro-de-2019-221568967.md",
+      "sha256_md": "594ebb696f2737bf9c2e8b98d6352e62a8cda356a8edd642b7a47245271daefa",
+      "sha256_fonte": "b6979ab39eb1ca2a9cc81ab3b62b2c419f0d2359666a01fcdfad5ab4a7d25e10",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — 1) FORMATO DO ARQUIVO DAS SOBRAS DE BAGAGENS",
+          "fonte": "ANEXO I 1) FORMATO DO ARQUIVO DAS SOBRAS DE BAGAGENS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              154,
+              156
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "c19a24283d96d56f4768a5a69f9c40548b5c96f57611516147d52898e987fc7f",
+      "sha256_visivel_md": "ede3e4f5dfc638ff9e7fe116633a76fd8e7548229f1e86543548509e7af5aeb9"
+    },
+    {
+      "path": "reguladores/antt/deliberacoes/2019/deliberacao-n-43-de-15-de-janeiro-de-2019-59627215.md",
+      "sha256_md": "a0617fbc340507546c0f37a158c101ea2ff79383ea277ed0b4870ec51f2baa2d",
+      "sha256_fonte": "489a05c3e0d1f8f856a2401bbafffe1e6e1c9a78837b6973433bb97de27f740e",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              30,
+              32
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        },
+        {
+          "ast": {
+            "start": 2,
+            "markup": ")",
+            "linhas": [
+              34,
+              36
+            ]
+          },
+          "html_start": "2",
+          "inicio_efetivo": 2,
+          "contadores": [
+            2
+          ]
+        },
+        {
+          "ast": {
+            "start": 3,
+            "markup": ")",
+            "linhas": [
+              38,
+              40
+            ]
+          },
+          "html_start": "3",
+          "inicio_efetivo": 3,
+          "contadores": [
+            3
+          ]
+        },
+        {
+          "ast": {
+            "start": 4,
+            "markup": ")",
+            "linhas": [
+              42,
+              44
+            ]
+          },
+          "html_start": "4",
+          "inicio_efetivo": 4,
+          "contadores": [
+            4
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "57f45ff2280dd2e632a16a6449bc33e8fa2bde5b8a5cc3606aff829147c6d30a",
+      "sha256_visivel_md": "57f45ff2280dd2e632a16a6449bc33e8fa2bde5b8a5cc3606aff829147c6d30a"
+    },
+    {
+      "path": "reguladores/conselhos-profissionais/portarias/2020/portaria-crf-sp-n-34-de-3-de-dezembro-de-2020-292752658.md",
+      "sha256_md": "d13e810770dd8c62e5a83b9de4de21dbd4b20cae1219552475e279db95c1d1dd",
+      "sha256_fonte": "0453612ffed04dd9ca1fef029c70c820ed51a5ade623e33f6f85289bc124dc80",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — POLÍTICA DE RELACIONAMENTO COM PARCEIROS DE EVENTOS, ATIVIDADES E PROJETOS PROMOVIDOS PELO CRF-SP",
+          "fonte": "ANEXO I POLÍTICA DE RELACIONAMENTO COM PARCEIROS DE EVENTOS, ATIVIDADES E PROJETOS PROMOVIDOS PELO CRF-SP",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              128,
+              132
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "5da7dd86ebd6ab23ad65ef15f315c4cc40d90e60b38ad446be2dc40ec7b98273",
+      "sha256_visivel_md": "c52a1a81bf347f429477a3299dedd9a9dcde790ad3895c3ef4dac8dc554b6d08"
+    },
+    {
+      "path": "reguladores/conselhos-profissionais/resolucoes/2019/resolucao-n-16-de-21-de-agosto-de-2019-214562656.md",
+      "sha256_md": "d7cc2bee79741fae4708af721f395cc68079e4899049c460d3adf0fc0fc0f55f",
+      "sha256_fonte": "a13cf8ba8dff5f2cae981cb18b2927525e5cfebb91fa6c98f80cd5443eab1082",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DO REGISTRO DE PESSOAS JURÍDICAS",
+          "fonte": "CAPÍTULO I DO REGISTRO DE PESSOAS JURÍDICAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DO CADASTRAMENTO",
+          "fonte": "CAPÍTULO II DO CADASTRAMENTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DAS(DOS) RESPONSÁVEIS TÉCNICAS(OS), INSPEÇÃO E CANCELAMENTO DE REGISTRO OU CADASTRO DE PESSOA JURÍDICA",
+          "fonte": "CAPÍTULO III DAS(DOS) RESPONSÁVEIS TÉCNICAS(OS), INSPEÇÃO E CANCELAMENTO DE REGISTRO OU CADASTRO DE PESSOA JURÍDICA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DAS INFRAÇÕES DISCIPLINARES ORDINÁRIAS E SUAS PENALIDADES",
+          "fonte": "CAPÍTULO IV DAS INFRAÇÕES DISCIPLINARES ORDINÁRIAS E SUAS PENALIDADES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO I — TERMO DE RESPONSABILIDADE TÉCNICA (RT)",
+          "fonte": "ANEXO I TERMO DE RESPONSABILIDADE TÉCNICA (RT)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — Nome da Pessoa Jurídica: ____________________________",
+          "fonte": "ANEXO II Nome da Pessoa Jurídica: ____________________________",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO III — FORMULÁRIO DE DECLARAÇÃO DE DESLIGAMENTO DE RESPONSÁVEL TÉCNICO",
+          "fonte": "ANEXO III FORMULÁRIO DE DECLARAÇÃO DE DESLIGAMENTO DE RESPONSÁVEL TÉCNICO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO IV — REQUERIMENTO DE INSCRIÇÃO DE PESSOA JURÍDICA",
+          "fonte": "ANEXO IV REQUERIMENTO DE INSCRIÇÃO DE PESSOA JURÍDICA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO V — AUTORIZAÇÃO PARA ACOMPANHAMENTO PSICOLÓGICO NÃO EVENTUAL E/OU AVALIAÇÃO PSICOLÓGICA DE CRIANÇAS E ADOLESCENTES",
+          "fonte": "ANEXO V AUTORIZAÇÃO PARA ACOMPANHAMENTO PSICOLÓGICO NÃO EVENTUAL E/OU AVALIAÇÃO PSICOLÓGICA DE CRIANÇAS E ADOLESCENTES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              212,
+              222
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "33e73c95f7bedb8d8b7e1d4d4e751db5f8912e1d63644e65fb01f12ce7715d3c",
+      "sha256_visivel_md": "be17d92cc789b1c48b0d1f40948dbcb3f859ad45dad3430112a68e545546245e"
+    },
+    {
+      "path": "reguladores/conselhos-profissionais/resolucoes/2019/resolucao-normativa-n-570-de-8-de-agosto-de-2019-210035249.md",
+      "sha256_md": "3796961aacd7da34d944c5efeddf85cad930e6408f476b213ee56a4f185209a3",
+      "sha256_fonte": "5bc85e8854d7237f66faecc636f138b9bb8c2e8606625ff93ac66126af1bee94",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO V — DEMONSTRATIVO DOS REGISTRADOS PF E PJ",
+          "fonte": "ANEXO V DEMONSTRATIVO DOS REGISTRADOS PF E PJ",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO VI — DEMONSTRATIVO DAS AÇÕES DE FISCALIZAÇÃO",
+          "fonte": "ANEXO VI DEMONSTRATIVO DAS AÇÕES DE FISCALIZAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              86,
+              102
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              120,
+              126
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "a4a4b69ccc64c6b6634e66c81566bd8c72588ce5e359f1fb68035aed5d5b58f2",
+      "sha256_visivel_md": "a2baf3e374f7c019d06f3cb2de867579c0ee35613bd98f5ae1dc583a1a0bce27"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+---
+titulo: "Lei Ordinária nº 2.395, de 07 de abril de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2395"
+data: "2025-04-07"
+municipio: "Bofete"
+uf: "SP"
+codigo_ibge: "3506904"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bofete.sp.leg.br/norma/2365"
+fonte_texto: "https://sapl.bofete.sp.leg.br/ta/74/text"
+sha256_fonte: "1fe1fdfa2569647d1aa842b5f563fa49c49ad89cd704b3dec5aff7b5b4ff4415"
+sha256_texto: "ba530beba3ab6eb3f748e92262d1264673ad0da739be9aed593eb28183c9bffd"
+capturado_em_fonte: "2026-10-27T19:11:14.839438-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.395, de 07 de abril de 2025
+
+REGULAMENTA A CONCESSÃO DE VALE ALIMENTAÇÃO/ VALE FARMÁCIA E ESTABELECE NORMAS PARA O FORNECIMENTO DO BENEFÍCIO ATRAVÉS DE CARTÕES ELETRÔNICOS AOS SERVIDORES PÚBLICOS MUNICIPAIS.
+
+
+EUGENIO CARLOS ALVES, Prefeito do Município de Bofete, Estado de São Paulo, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a conceder auxílio aos Servidores Municipais e Conselheiros Tutelares, para a compra de alimentos e medicamentos, através dos vales alimentação e farmácia.
+
+
+Parágrafo único
+
+O presente benefício tem caráter indenizatório, não se incorporando aos salários e vencimentos dos servidores para quaisquer efeitos legais.
+
+
+Art. 2º.
+
+Os vales alimentação e farmácia serão concedidos através de cartões eletrônicos, magnéticos ou outros, oriundos de tecnologia segura e adequada, munidos de senha para uso pessoal e intransferível, tendo como beneficiários exclusivos os servidores municipais e conselheiros tutelares.
+
+
+Parágrafo único
+
+Os servidores municipais concursados que acumulem mais de um cargo simultaneamente ou ocupem cargo de direção ou função, farão jus apenas a um benefício em cada modalidade - Farmácia/Alimentação.
+
+
+Art. 3º.
+
+Ficam cessados os descontos em casos de faltas justificadas nos cartões vale-alimentação e vale-farmácia, concedidos aos Servidores Municipais.
+
+
+Art. 4º.
+
+Os servidores não farão jus ao recebimento integral ou parcial dos cartões vale-alimentação e vale-farmácia somente nos seguintes casos:
+
+
+I –
+
+Parcialmente:
+
+
+a)
+
+no caso de 04 (quatro) faltas injustificadas, consecutivas ou não, ou no cumprimento de penalidades administrativas, dentro do respectivo mês.
+
+
+II –
+
+Integralmente:
+
+
+a)
+
+quando o número de faltas injustificadas seja igual ou maior que 05 (cinco) dias, consecutivos ou não, dentro do respectivo mês;
+
+
+b)
+
+Quando estiver em regime de aviso prévio;
+
+
+c)
+
+Quando apresentar atestado médico em desacordo com o estabelecido no artigo 473 da CLT;
+
+
+d)
+
+Em casos de licença sem remuneração;
+
+
+e)
+
+Em casos de afastamento por invalidez.
+
+
+Art. 5º.
+
+Os Servidores Municipais licenciados de forma temporária por motivo de doença, permanecerão fazendo jus ao recebimento integral dos benefícios pelo período determinado através do afastamento médico concedido pelo INSS.
+
+
+Art. 6º.
+
+Nos casos de admissão ou demissão, os valores do vale-alimentação e vale-farmácia serão proporcionais aos dias trabalhados durante o mês.
+
+
+Art. 7º.
+
+O presente benefício poderá ser suspenso, à critério da administração, dependendo da sua situação financeira.
+
+
+Art. 8º.
+
+Os benefícios vale-alimentação e vale-farmácia serão reajustados anualmente através de Decreto do Executivo, adotando como valor mínimo de reajuste, a correção inflacionária do período anterior.
+
+
+Art. 9º.
+
+As despesas decorrentes com a execução da presente Lei correrão por conta das dotações próprias consignadas no orçamento vigente.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação, produzindo seus efeitos a partir da mesma data, ficando revogadas as disposições em contrário.
+
+
+Bofete, 07 de abril de 2025.  
+  
+EUGENIO CARLOS ALVES  
+PREFEITO MUNICIPAL
+

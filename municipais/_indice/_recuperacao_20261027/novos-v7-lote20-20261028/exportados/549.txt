@@ -1,0 +1,149 @@
+---
+titulo: "04 - Lei Ordinária nº 895, de 13 de outubro de 2015"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "895"
+data: "2015-10-13"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/244"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/145/text"
+sha256_fonte: "436f4c33e1c98dac8af07aaf1fa56249652015eae2ce3f078861e9f80c782106"
+sha256_texto: "9961d0960c88c88d716224917edfea5a803725058a39940d648a1dccb631b4b1"
+capturado_em_fonte: "2026-10-28T06:11:23.256826-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 895, de 13 de outubro de 2015
+
+Institui Diário Oficial Eletrônico do Município de Corbélia, Estado do Paraná, para publicação e divulgação dos atos legais dos poderes Executivo e legislativo e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou e, Eu Prefeito Municipal sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a proceder a instituição do Diário Oficial Eletrônico de Corbélia, Estado do Paraná, como órgão oficial para a publicação legal e divulgação dos atos oficiais dos Poderes Executivo e Legislativo do município, a ser veiculado no endereço eletrônico “www.corbelia.pr.gov.br”, na rede mundial de computadores – internet.
+
+
+Parágrafo único
+
+O Diário Oficial Eletrônico do Município de Corbélia será veiculado gratuitamente, e estará disponível para impressão, consulta e utilização por todos os interessados em qualquer lugar ou equipamento que tenha acesso à internet, substituindo a publicação em veículo de comunicação impresso, salvo as exceções previstas em lei.
+
+
+Art. 2º.
+
+Todas as edições do diário oficial de que trata esta lei deverão conter obrigatoriamente:
+
+
+I –
+
+no cabeçalho da primeira página:
+
+
+a)
+
+o título: Diário Oficial Eletrônico do município de Corbélia, Estado do Paraná;
+
+
+b)
+
+o brasão oficial do município;
+
+
+c)
+
+o local, número, data e quantidade de páginas da edição;
+
+
+d)
+
+citação numérica desta lei;
+
+
+e)
+
+referência à autenticidade digital e ao carimbo de tempo.
+
+
+II –
+
+numeração sequencial de páginas.
+
+
+Art. 3º.
+
+As publicações serão assinadas digitalmente, atendendo aos requisitos de autenticidade, integridade, validade jurídica e interoperabilidade da Infraestrutura de Chaves Públicas Brasileiras – ICP-Brasil.
+
+
+§ 1º
+
+O conteúdo das publicações do Diário Oficial Eletrônico de que trata esta lei será assinado digitalmente com base em certificado emitido por autoridade certificadora credenciada, devendo ainda constar o respectivo carimbo de tempo (*timestamping*).
+
+
+§ 2º
+
+As publicações a que se refere o *caput* deste artigo poderão ser assinadas por um servidor público designado por ato do Chefe do Poder Executivo.
+
+
+§ 3º
+
+O Diário Oficial Eletrônico será publicado diariamente, desde que haja matéria a ser veiculada.
+
+
+Art. 4º.
+
+Os atos oficiais de efeitos externos surtirão seus efeitos somente depois de publicados no Diário Oficial do Município.
+
+
+§ 1º
+
+Somente será publicado de forma impressa, de forma suplementar ao Diário Oficial Municipal Eletrônico de que trata esta Lei, o extrato dos atos indispensáveis, contendo o endereço eletrônico onde poderão ser acessados na íntegra.
+
+
+§ 2º
+
+Além da publicação no Diário Oficial Eletrônico, permanece a publicação na forma impressa, atendendo ao que preceitua a Legislação Federal, os processos licitatórios.
+
+
+§ 3º
+
+Os atos oficiais de efeitos internos entrarão em vigor na data de sua assinatura, sendo condição de validade a publicação resumida no Diário Oficial do Município até 20 (vinte) dias a contar da data da sua assinatura.
+
+
+§ 4º
+
+Uma vez publicados, os referidos atos permanecerão a disposição no respectivo endereço eletrônico, pelo período que produzirem efeitos.
+
+
+Art. 5º.
+
+O regulamento e a organização do serviço de publicação do órgão oficial instituído por esta lei e as demais normas para a sua veiculação, serão estabelecidos por Decreto do Executivo Municipal e indicará a data em que iniciará sua veiculação, dando-lhe ampla divulgação.
+
+
+Art. 6º.
+
+A presente lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de Corbélia,
+
+Em, 13 de outubro do ano de 2015.
+
+Ivanor Damião Bernardi
+
+Prefeito Municipal
+
+Não substitui o texto publicado no Diário Oficial Jornal O Paraná nº 12.034 de 14/10/2015, pág. O3 CI1157150E15.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/244/ta
+

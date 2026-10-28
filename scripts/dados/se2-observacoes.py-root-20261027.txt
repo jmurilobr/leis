@@ -1,0 +1,24 @@
+from pathlib import Path
+import json,gzip,hashlib,subprocess,os,sys
+sys.path.insert(0,'scripts');from auditar_cache_dou import meta_corpo
+sha=lambda b:hashlib.sha256(b).hexdigest();h={}
+for suffix in ['001','002']:
+ mp=Path('estaduais/SE/_fonte/auditorias/duvida-rodape-8782-8783-20261027-'+suffix+'/hashes.json');d=json.loads(mp.read_bytes());rows=d['arquivos'] if 'arquivos' in d else [{'path':p,'sha256':s} for p,s in d.items()]
+ for r in rows:
+  p,s=r['path'],r['sha256'];assert sha(Path(p).read_bytes())==s,p;assert p not in h or h[p]==s;h[p]=s
+ h[str(mp)]=sha(mp.read_bytes())
+mp=Path('scripts/estados/manifestos/se8782-8783-observacao-privada-20261027-002.json');m=json.loads(mp.read_bytes());assert len(m['documentos'])==2;head=subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip();pending=[]
+for r in m['documentos']:
+ p=Path(r['path']);old=p.read_bytes();assert sha(old)==r['sha256_MD'];assert subprocess.check_output(['git','show',head+':'+str(p)])==old;assert subprocess.check_output(['git','cat-file','blob',r['OID']])==old;new=Path(r['privado']).read_bytes();assert sha(new)==r['sha256_candidato'];om,ob=meta_corpo(old.decode());nm,nb=meta_corpo(new.decode());note=nm.pop('observacao_edicao');assert om==nm and ob==nb and sha(ob.encode())==r['sha256_corpo'];assert '27/10/2020' in note and '06/11/2020' in note;oldh=old.split(b'\n---\n',1)[0];newh=new.split(b'\n---\n',1)[0];assert b'\n'.join(x for x in newh.split(b'\n') if not x.startswith(b'observacao_edicao:'))==oldh
+ pending.append((p,old,new))
+print('Duas observações editoriais; todos os campos anteriores e corpos preservados. Nenhuma data ou máscara alterada.',flush=True)
+if '--apply' not in sys.argv:raise SystemExit(0)
+assert subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip()==head
+backup=Path('estaduais/SE/_historico_observacoes_edicao_root_20261027');assert not backup.exists();backup.mkdir()
+for p,old,new in pending:
+ bp=backup/(p.name+'.gz');bp.write_bytes(gzip.compress(old,mtime=0));assert gzip.decompress(bp.read_bytes())==old;h[str(bp)]=sha(bp.read_bytes())
+for p,old,new in pending:
+ assert p.read_bytes()==old;temp=p.with_name('.'+p.name+'.observacao-root.tmp');assert not temp.exists()
+ with temp.open('xb') as f:f.write(new);f.flush();os.fsync(f.fileno())
+ os.replace(temp,p);assert p.read_bytes()==new;h[str(p)]=sha(new)
+p=Path('scripts/estados/manifestos/se2-observacoes-integracao-root-20261027.json');assert not p.exists();p.write_text(json.dumps({'HEAD':head,'normas_novas':0,'metadata_observacoes':2,'criterio':'Epígrafe, fecho e cartão concordam em 06/11/2020; rodapé editorial da fonte refere DOE 27.10.2020. Observação conserva explicitamente a diferença, sem escolher qual referência é incorreta, alterar datas ou concluir ausência/incompletude do articulado. Todos os demais campos e o corpo são byte a byte idênticos à preimagem real de HEAD. Fontes e backups preservados; registro de pendências não alterado.','sha256':h},ensure_ascii=False,indent=2)+'\n');h[str(p)]=sha(p.read_bytes());Path('_fonte/operacao_root_20261027/se2-observacoes-hashes.json').write_text(json.dumps(h,ensure_ascii=False,indent=2)+'\n');print('Duas observações aplicadas',flush=True)

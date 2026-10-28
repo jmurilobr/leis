@@ -1,0 +1,117 @@
+{
+  "estado": "Candidato privado, não promovido; exige leitura ROOT do vínculo editorial e tabelas. Não equivale a nova transcrição integral do volume CLBR.",
+  "path": "federal/decretos/1945/dec-20175-1945-12-11.md",
+  "HEAD_preimagem": "b6e474f7f8b219d23343933b67f8d68579cfe2d3",
+  "OID_preimagem": "08e10741ba7945302335de301a5c4d1060704a47",
+  "sha256_preimagem": "26111038e0ad49173d7d73f1949e0aca65a61da05100e2c2cff85b41e5c7a799",
+  "preimagem_privada": "federal/_fonte/auditorias/clbr_1945_recuperacao_20261027_001/preimagem_HEAD_dec20175.md",
+  "candidato": "federal/_fonte/auditorias/clbr_1945_recuperacao_20261027_001/dec-20175-1945-12-11-complemento_anexos1_2.md",
+  "sha256_candidato": "db9036848a6fc519d0b6c0245b2193afc113333f94490fde9760d0eb317c6f57",
+  "alteracoes_normativas_textuais": 0,
+  "substituicoes_exatas": 2,
+  "corpo_fora_dos_dois_ponteiros_byte_identico": true,
+  "fontes": {
+    "PDF": {
+      "url_primaria_observada": "https://bd.camara.leg.br/bd/bitstreams/603d71d4-ab0c-421a-9a7a-2dd1210c74ca/download",
+      "catalogo_path": "federal/_fonte/auditorias/clbr_fontes_20261027_002/decada1941.html.gz",
+      "sha256_catalogo_raw": "c0d699fc95c0b86da39ac1ac43db307bf63eaf85b960bcee49bd707afd1b508b",
+      "captura_inicio_utc": "2026-10-28T01:01:33.355639+00:00",
+      "retry": 0,
+      "origem": "Captura nova única autorizada, nenhuma autoria de cache presumida.",
+      "status_http": 200,
+      "url_final": "https://bd-rest.camara.leg.br/server/api/core/bitstreams/603d71d4-ab0c-421a-9a7a-2dd1210c74ca/content",
+      "headers": {
+        "server": "envoy",
+        "date": "Wed, 28 Oct 2026 01:01:34 GMT",
+        "content-type": "Adobe/PDF;charset=UTF-8",
+        "content-length": "99373006",
+        "vary": "Origin,Access-Control-Request-Method,Access-Control-Request-Headers",
+        "content-language": "en",
+        "last-modified": "Wed, 08 Oct 2014 18:01:34 GMT",
+        "etag": "\"ab6c07b368d1c2f3e4931be554ed9f67\"",
+        "accept-ranges": "bytes",
+        "expires": "Wed, 28 Oct 2026 02:01:34 GMT",
+        "cache-control": "private,no-cache",
+        "access-control-expose-headers": "Accept-Ranges",
+        "content-disposition": "attachment;filename=\"colecao_leis_1945_parte1.pdf\"",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "0",
+        "strict-transport-security": "max-age=31536000 ; includeSubDomains",
+        "x-frame-options": "DENY",
+        "x-envoy-upstream-service-time": "825",
+        "connection": "close"
+      },
+      "bytes": 99373006,
+      "sha256_PDF": "29553bac45833de9cdcefbe5eda0c8f0c57b55b6d3bf4f9739346d3475c39c6f",
+      "captura_fim_utc": "2026-10-28T01:01:40.478016+00:00",
+      "arquivo": "federal/_fonte/auditorias/clbr_1945_recuperacao_20261027_001/1945-decretos.pdf",
+      "pdfinfo": "Creator:         Acrobat 5.0 Image Conversion Plug-in for Windows\nProducer:        Adobe Acrobat 8.0\nCreationDate:    Wed Oct  1 19:21:21 2014 -03\nModDate:         Wed Oct  1 19:21:21 2014 -03\nCustom Metadata: no\nMetadata Stream: yes\nTagged:          no\nUserProperties:  no\nSuspects:        no\nForm:            AcroForm\nJavaScript:      no\nPages:           3222\nEncrypted:       no\nPage size:       432 x 599.04 pts\nPage rot:        0\nFile size:       99373006 bytes\nOptimized:       yes\nPDF version:     1.7\n",
+      "estado": "PDF primário capturado; identidade de volume/páginas ainda exige inspeção"
+    },
+    "indice_oficial_arquivado": {
+      "indice_path": "federal/_indice/DEC.json",
+      "sha256_indice_integral": "ee4da737474800846c2634f64d6af6d8bc9d37f8bfca670e27f012594d2e4fef",
+      "registros": [
+        {
+          "id": "438484",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "20175",
+          "norma": "DEC-20175-1945-12-11",
+          "normaNome": "Decreto nº 20.175 de 11/12/1945",
+          "ementa": "APROVA O REGULAMENTO PARA A \"CAIXA DE CONSTRUÇÕES DE CASAS DO MINISTÉRIO DA GUERRA.\"",
+          "dataassinatura": "11/12/1945",
+          "anoassinatura": "1945",
+          "apelido": "DEC-20175-1945-12-11"
+        }
+      ]
+    },
+    "HTML_API_anteriores": {
+      "path": "federal/_fonte/auditorias/inventario_remissoes_publicados_20261027_003/prova20175.json.gz",
+      "sha256": "afc090d383d55104f167ebc79c9da661d4ba50d1986776f15fcb8754679467cf"
+    }
+  },
+  "vinculo_mesma_publicacao": {
+    "API_encoding_Original": {
+      "datePublished": "1945-12-31",
+      "license": "https://creativecommons.org/licenses/by/4.0/",
+      "contentUrl": "https://normas.leg.br/api/binario/1521012d-b275-4594-9466-c03980cc61c5/texto",
+      "@type": "LegislationObject",
+      "name": "Publicação Original [Decreto nº 20.175 de 11/12/1945]  [Coleção de Leis do Brasil  de 31/12/1945 - vol.  008] (p. 427, col. 1)",
+      "legislationLegalValue": "UnofficialLegalValue",
+      "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+      "publisher": {
+        "@type": "GovernmentOrganization",
+        "@id": "https://www.congressonacional.leg.br/"
+      },
+      "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1945-12-11;20175@1945-12-11~texto;pt$text-html",
+      "version": "Original"
+    },
+    "epigrafe_e_fecho_CLBR": "20.175, 11 de dezembro de 1945; fecho próprio 11 de dezembro de 1945; José Linhares / Canrobert Pereira da Costa, página impressa 427 / PDF 3035.",
+    "indice_CLBR": "Índice volume VIII, página XXXII / PDF 2598: 20.175, Guerra, 11-12-45, início página 427, D.O. 14-12-45.",
+    "folha_rosto": "PDF 2568: Coleção das Leis 1945, volume VIII, Atos do Poder Executivo, Decretos de outubro a dezembro; imprensa 1946.",
+    "Anexo1": "Quadro do pessoal da Caixa, página 454 / PDF 3062, integral, tabela própria e soma 24.",
+    "Anexo2": "Tabela Price a que se refere o artigo 21, página 455 / PDF 3063, integral, taxas mensais/anuais, prazos e observação."
+  },
+  "assets": [
+    {
+      "arquivo_privado": "federal/_fonte/auditorias/clbr_1945_recuperacao_20261027_001/render20175/anexo1-pdf3062.png",
+      "destino_proposto": "federal/anexos/decretos/1945/dec-20175-1945-12-11-anexo1.png",
+      "sha256": "a5544f43617473bf6d1bdffbec7052b217b3562b5b5486246813eda796c32a23",
+      "pagina_impressa": 454,
+      "pagina_PDF_1_based": 3062,
+      "DPI": 200,
+      "representacao": "Página integral do PDF, orientação original e pixels somente de render PDF; sem transcrição inferida."
+    },
+    {
+      "arquivo_privado": "federal/_fonte/auditorias/clbr_1945_recuperacao_20261027_001/render20175/anexo2-pdf3063.png",
+      "destino_proposto": "federal/anexos/decretos/1945/dec-20175-1945-12-11-anexo2.png",
+      "sha256": "2a3251dfebb7dff8ec54898821afae2e8e21ceab405345d046a62fd7ce80801c",
+      "pagina_impressa": 455,
+      "pagina_PDF_1_based": 3063,
+      "DPI": 200,
+      "representacao": "Página integral do PDF, orientação original e pixels somente de render PDF; sem transcrição inferida."
+    }
+  ],
+  "limites": "Fontes completas e anterior preservados; sem correção de grafia, números ou texto normativo. Imagens são renderizações das páginas integrais, sem manipulação ou inferência de células. A fonte Normas anterior continua identificada, e a fonte CLBR complementar é explícita. Nenhuma máscara, canônico, Git ou contagem alterados."
+}

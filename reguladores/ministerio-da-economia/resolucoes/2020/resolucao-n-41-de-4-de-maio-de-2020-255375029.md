@@ -1,0 +1,40 @@
+---
+titulo: "RESOLUÇÃO Nº 41, DE 4 DE MAIO DE 2020"
+orgao: "Ministério da Economia/Câmara de Comércio Exterior/Comitê-Executivo de Gestão"
+tipo: "Resolução"
+numero: "41"
+data: 2020-05-04
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/05/2020, seção 1, p. 37"
+data_publicacao: 2020-05-06
+edicao: "85"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-n-41-de-4-de-maio-de-2020-255375029"
+sha256_html_fonte: 2f8cc2af34c7608206129a1be0e6da48dcac662240967594aa32346a1a24d384
+baixado_em: 2026-10-21
+---
+# RESOLUÇÃO Nº 41, DE 4 DE MAIO DE 2020
+
+RESOLUÇÃO Nº 41, DE 4 DE MAIO DE 2020
+
+Altera as Listas de Autopeças não Produzidas, constantes dos Anexos I e II da Resolução nº 102, de 17 de dezembro de 2018, da Câmara de Comércio Exterior.
+
+O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR, no uso da atribuição que lhe conferem o art. 21, § 2o, da Lei no13.755, de 10 de dezembro de 2018, o art. 34 do Decreto nº 9.557, de 8 de novembro de 2018, o art. 7º, caput, do Decreto nº 10.044, de 4 de outubro de 2019, o art. 16 da Resolução no102, de 17 de dezembro de 2018, da Câmara de Comércio Exterior, e tendo em vista a deliberação de sua 169areunião, ocorrida em 29 de abril de 2020, resolve:
+
+**Art. 1º** Ficam alterados os Ex-tarifários no001 do código 8505.11.00 da Nomenclatura Comum do Mercosul, nos001 e 003 do código 8507.60.00 da Nomenclatura Comum do Mercosul, no018 do código 8708.50.99 da Nomenclatura Comum do Mercosul, e nos001 e 002 do código 9026.20.90 da Nomenclatura Comum do Mercosul, constantes do Anexo I da Resolução no102, de 2018, da Câmara de Comércio Exterior, conforme o seguinte:
+
+<table><tr></tr><tr><td><p>NCM</p></td><td><p>Descrição</p></td></tr><tr><td><p>8505.11.00</p></td><td><p>Ex 003 - Imã permanente de neodímio ou outra composição de terras raras, com baixa massa e volume, para a geração de campo magnético de alta performance, do tipo usado em produto automotivo.</p></td></tr><tr><td><p>8507.60.00</p></td><td><p>Ex 015 - Bateria com tensão nominal de 600 V +/-100 V, capacidade de energia útil de 1,2 KWh, consumo interno 50W, de forma retangular com dimensões 615mm x 504,5mm x 750mm (tolerância nas medidas de +/-10%) e peso de 180 a 230kg, com sistema de refrigeração a água, com unidade eletrônica de gerenciamento da bateria, de vida útil de 20.000</p></td></tr><tr><td></td><td><p>horas, temperatura de operação de -28 Graus Celsius à +50 Graus Celsius e sistema de proteção contra curtos-circuitos de 900A, do tipo usado em produto automotivo.</p></td></tr><tr><td><p>8507.60.00</p></td><td><p>Ex 016 - Célula de Bateria de Fosfato de Ferro-Lítio (LiFePO4), com capacidade individual de 864Wh, com 200 a 280Ah e 3,2V com dimensões 58*146*406mm (tolerância nas medidas de +/-10%); e peso de 5,0 a 7,0 kg, do tipo usado na nos conjuntos de baterias para propulsão de veículos automotores elétricos.</p></td></tr><tr><td><p>8708.50.99</p></td><td><p>Ex 026 - Lamela interna do diferencial com brochado de acordo com DIN 5480 e impregnado com molibdênio para aumentar o coeficiente de atrito e permitir o bloqueio do diferencial e o controle do torque de saída de eixos agrícolas.</p></td></tr><tr><td><p>9026.20.90</p></td><td><p>Ex 020 - Indicador visual de restrição de passagem de ar para o motor, ativado internamente por atuador composto por mola e membrana que permite a leitura continua em incrementos (a) ou binário (b), mesmo com motor ligado, por conta de um sistema de trava que permite memorizar o último e máximo valor de restrição medido. Composto por botão "Press to</p></td></tr><tr><td></td><td><p>Reset" de ativação manual para zerar a medição. Composto de duas modalidades visuais para indicação da restrição: (a) indicação visual por incrementos fixos, e (b) binário em duas cores, amarelo (na faixa de restrição permissível) e vermelho (para restrição final que sugere a troca imediata do elemento filtrante).</p></td></tr><tr><td><p>9026.20.90</p></td><td><p>Ex 021 - Sensor manométrico, com ou sem leitura de temperatura, faixa de trabalho de 0 a 8000 kPa ou de 50 a 600 kPa ou de 0 a 12000 kPa e temperatura de trabalho de -40 Graus Celsius a 125 Graus Celsius ou mais, para aplicação em sistema hidráulico, do tipo usado em produto automotivo.</p></td></tr></table>
+
+**Art. 2º** Ficam alterados os Ex-tarifários nº026 do código 8413.70.90 da Nomenclatura Comum do Mercosul, e nº123 do código 8421.90.90 da Nomenclatura Comum do Mercosul, constantes na Resolução no26, de 1ode abril de 2020, do Comitê-Executivo de Gestão da Câmara de Comércio Exterior e do Anexo I da Resolução no102, de 2018, da Câmara de Comércio Exterior, conforme o seguinte:
+
+<table><tr></tr><tr><td><p>NCM</p></td><td><p>Descrição</p></td></tr><tr><td><p>8413.81.00</p></td><td><p>Ex 026 - Supply Module - unidade de fornecimento de ARLA 32 (ureia) integrante do sistema de pós tratamento de gases de escape de motores ciclo diesel do tipo SCR (selective catalyst reduction), que consiste de uma bomba geradora de fluxo que pressuriza em uma linha de distribuição a mistura diluída de ureia com água que será injetada em um tubo de decomposição para posteriormente reagir com os gases de escape em uma</p></td></tr><tr><td></td><td><p>condição de temperatura da ordem de 200 Graus Celsius ou superior no interior de um catalisador seletivo; além de pressurizar o líquido no interior do tubo de distribuição, também filtra este fluido, pois contém filtro específico para este tipo de fluido; tem a função de, ao se ligar o veículo, pressurizar a linha e mantê-la a um nível constante de pressão, da mesma forma, quando se desliga o veículo, este módulo tem a capacidade de</p></td></tr><tr><td></td><td><p>esvaziar a linha de distribuição, devolvendo o líquido restante para o reservatório de ureia; apresenta-se em um módulo enclausurado em uma caixa plástica ou metálica, e com conectores para as linhas de fluido bem como para os chicotes elétricos.</p></td></tr><tr><td><p>8421.29.90</p></td><td><p>Ex 123 - Tubo de calibração e filtragem de partículas maiores que 35ìm, para injetor de combustível veicular, em aço inoxidável UNS30500 austenítico, com tratamento em cromo duro com características de estampagem profunda, contendo ou não acessórios.</p></td></tr></table>
+
+Art. 3oFicam excluídos do Anexo I da Resolução no102, de 17 de dezembro de 2018, da Câmara de Comércio Exterior, as seguintes autopeças:
+
+<table><tr></tr><tr><td><p>NCM</p></td><td><p>Descrição</p></td></tr><tr><td><p>8409.91.90</p></td><td><p>Ex 036 - Distribuidor de combustível para linha de alta pressão de até 250bar, sendo 100bar em 750rpm e 250bar em 6.000rpm, composto por tubo de aço inox sem costura, processo de solda em cobre, injetor de combustível de alta pressão de até 250bar, sendo 100bar em 750rpm e 250bar em 6.000rpm, para sistema de injeção direta de motores bicombustíveis, composto por eletroválvula para uma tensão entre 12 V e</p></td></tr><tr><td></td><td><p>90V e corrente de até 10A, montado no cabeçote de motor a gasolina e/ou bicombustíveis, 1,5 Litros, com até 1.496 cm3 de cilindradas, com teste de estanqueidade garantido por teste de gás hélio em 100% das peças.</p></td></tr><tr><td><p>8501.10.19</p></td><td><p>Ex 006 - Motor elétrico corrente contínua flangeado 12vcc com pinhão e temperatura de trabalho de -40 Graus Celsius a 130 Graus Celsius.</p></td></tr><tr><td><p>9032.89.11</p></td><td><p>Ex 004 - Unidade de controle eletrônico estabilizador de voltagem do sistema "Start Stop" (responsável por desligar o motor em paradas curtas para economia de combustível e redução de emissão de poluentes) composto por sistema de capacitores para atender os requisitos de</p></td></tr><tr><td></td><td><p>estabilização de tensão, com funções de controle de energia, controle de corrente de impulso, controle de áudio, controle de diagnóstico e controle de comunicação com peso de até 200g.</p></td></tr></table>
+
+Art. 4oEsta Resolução entrará em vigor dois dias úteis a partir da data de sua publicação.
+
+MARCELO PACHECO DOS GUARANYS
+
+Presidente do Comitê-Executivo de Gestão Substituto

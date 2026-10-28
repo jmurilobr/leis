@@ -1,0 +1,52 @@
+---
+titulo: "DECRETO EXECUTIVO-PMEPF nº 801, de 27 de abril de 2026"
+tipo: "Decreto"
+tipo_na_fonte: "DECRETO EXECUTIVO"
+numero: "801"
+data: "2026-04-27"
+municipio: "Engenheiro Paulo de Frontin"
+uf: "RJ"
+codigo_ibge: "3301801"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/2569"
+fonte_texto: "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/1906/text"
+sha256_fonte: "e76842f4dd1151ed91ab99d882ddad7bcf2f5bef697c4b879767d7c293acd217"
+sha256_texto: "8adfebf1e3629e3454494f96d97a24bb90fd1060efe6f2a7567ac2ba043ea392"
+capturado_em_fonte: "2026-10-28T10:29:41.579128-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+observacao_fonte: "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 28/04/2026. Edição 4110 A verificação de autenticidade da matéria pode ser feita informando o código identificador no site: https://www.diariomunicipal.com.br/aemerj/"
+fonte_metadados: "https://sapl.engenheiropaulodefrontin.rj.leg.br/api/norma/normajuridica/2569/"
+sha256_metadados_fonte: "ef093fdaa228ada22dabce33161a1584c958e728cf402d7c37ea8aa2805b334c"
+---
+
+# DECRETO EXECUTIVO-PMEPF nº 801, de 27 de abril de 2026
+
+O Prefeito Municipal de Eng. Paulo de Frontin, no uso de suas atribuições legais, e com fulcro no disposto no artigo 5º da Lei Municipal nº 1762, de 30 de dezembro de 2025, DECRETA:
+
+
+Art. 1º.
+
+Fica aberto um Crédito Adicional suplementar no valor de R$ 48.000,00 (Quarenta e oito mil reais), para suprimento da dotação orçamentária, como segue:
+
+
+Art. 2º.
+
+Os recursos orçamentários para atender ao crédito adicional são provenientes de anulação das despesas das categorias econômicas, com fulcro no artigo 43, parágrafo 1º, inciso III da Lei 4.320/64, como segue:
+
+
+Art. 3º.
+
+Este Decreto entra em vigor na data de sua publicação, revogando as disposições em contrário.
+
+
+Engenheiro Paulo de Frontin, 27 de abril de 2026.
+
+
+JOSÉ EMMANOEL RODRIGUES ARTEMENKO
+
+
+Prefeito Municipal
+

@@ -1,0 +1,600 @@
+---
+titulo: "Lei Ordinária nº 1.935, de 30 de julho de 2001"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1935"
+data: "2001-07-30"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2152"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/3484/text"
+sha256_fonte: "4081c6060e6c60617f0390f0a6bab9ef6ceac50ea1ba41fc62f9b50eb1aeadf4"
+sha256_texto: "f9bfda5cd83b0072213f98758f2fc243e6ad86612089a69f12bf40e1f24df6e6"
+capturado_em_fonte: "2026-10-27T21:49:12.346845-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.935, de 30 de julho de 2001
+
+DISPÕE SOBRE AS DIRETRIZES ORÇAMENTÁRIAS DO MUNICÍPIO DO CABO DE SANTO AGOSTINHO PARA O EXERCÍCIO 2002
+
+
+O PREFEITO DO MUNICÍPIO DO CABO DE SANTO AGOSTINHO.
+
+FAÇO SABER QUE O PODER LEGISLATIVO DECRETOU E EU SANCIONO A PRESENTE LEI.
+
+
+Disposições Preliminares
+
+
+Art. 1º.
+
+Ficam estabelecidas, em cumprimento ao disposto no art. 123, da Constituição Estadual e no art. 81 da Lei Orgânica do Município, as diretrizes orçamentárias para o exercício financeiro de 2002, compreendendo:
+
+
+I –
+
+As prioridades da administração pública municipal;
+
+
+II –
+
+A estrutura e organização do orçamento do Município;
+
+
+III –
+
+As diretrizes para a elaboração e execução do orçamento do Município e suas alterações;
+
+
+IV –
+
+As disposições relativas às despesas do Município com pessoal e encargos sociais;
+
+
+V –
+
+As disposições sobre alterações na legislação tributária do Município;
+
+
+VI –
+
+Outras disposições;
+
+
+VII –
+
+Fortalecimento de todas as funções de competência do Poder Legislativo.
+
+
+#### CAPÍTULO I — DAS PRIORIDADES DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL
+
+
+Art. 2º.
+
+Constituem prioridades da Administração Municipal para o exercício de 2002:
+
+
+I –
+
+Geração de emprego, habitação e combate à miséria;
+
+
+II –
+
+Saúde pUblica;
+
+
+III –
+
+Educação, cultura e esportes;
+
+
+IV –
+
+Segurança pública;
+
+
+V –
+
+Infra-estrutura e meio ambiente;
+
+
+VI –
+
+Gestão participativa.
+
+
+Art. 3º.
+
+As metas e prioridades do Governo Municipal para o exercício de 2002 serão detalhadas no Plano Plurianual para o período de 2002/2005, a ser encaminhado à Câmara de Vereadores até o dia 1º de agosto de 2001, conforme estabelece o art. 124, §1º, inciso I, da Constituição Estadual, com a redação dada pela Emenda Constitucional nº 16, de 04 de junho de 1999, e terão precedência na alocação de recursos na Lei Orçamentária de 2002.
+
+
+#### CAPÍTULO II — DA ESTRUTURA E ORGANIZAÇÃO DO ORÇAMENTO DO MUNICÍPIO
+
+
+Art. 4º.
+
+Para efeito desta Lei, entende-se por:
+
+
+I –
+
+**Programa**, o instrumento de organização da ação governamental visando à concretização dos objetivos pretendidos, sendo mensurado por indicadores estabelecidos no plano plurianual;
+
+
+II –
+
+**Atividade**, um instrumento de programação para alcançar o objetivo de um programa, envolvendo um conjunto de operações que se realizam de modo contínuo e permanente, das quais resulta um produto necessário à manutenção da ação de governo;
+
+
+III –
+
+**Projeto**, um instrumento de programação para alcançar o objetivo de um programa, envolvendo um conjunto de operações, limitadas no tempo, das quais resulta um produto que concorre para a expansão ou aperfeiçoamento da ação de governo; e
+
+
+IV –
+
+**Operação especial**, as despesas que não contribuem para a manutenção das ações de governo, das quais não resulta um produto, e não geram contraprestação direta sob a forma de bens ou serviços.
+
+
+§ 1º
+
+Cada programa identificará as ações necessárias para atingir os seus objetivos, sob a forma de atividades, projetos e operações especiais, especificando os respectivos valores e metas, bem como as unidades orçamentárias responsáveis pela realização da ação.
+
+
+§ 2º
+
+Cada atividade, projeto e operação especial identificará a função e a subfunção às quais se vinculam.
+
+
+§ 3º
+
+As categorias de programação de que trata esta Lei serão identificadas no projeto de lei orçamentária por programas, atividades, projetos ou operações especiais.
+
+
+Art. 5º.
+
+O orçamento fiscal discriminará a despesa por unidade orçamentária, detalhada por categoria de programação em seu menor nível, com suas respectivas dotações, a modalidade de aplicação, a fonte de recursos e os grupos de despesa, conforme a seguinte discriminação:
+
+Grupo 1 - Pessoal e encargos sociais;  
+Grupo 2 - Juros e encargos da dívida;  
+Grupo 3 - Outras despesas correntes;  
+Grupo 4 - Investimentos;  
+Grupo 5 - Inversões financeiras, incluídas quaisquer despesas referentes à constituição ou aumento de capital de empresas; e  
+Grupo 6 - Amortização da dívida.
+
+
+Art. 6º.
+
+O orçamento fiscal abrangerá o Poder Legislativo e os órgãos da administração direta, fundos e autarquias integrantes do Poder Executivo.
+
+
+Art. 7º.
+
+Para fins de consolidação do projeto de lei orçamentária, a proposta do Poder Legislativo para 2002 será elaborada de acordo com os parâmetros e diretrizes estabelecidos nesta Lei e em consonância com os limites fixados na Emenda Constitucional Federal nº 25, de 14 de fevereiro de 2000, devendo ser encaminhada até 15 de julho de 2001 ao Órgão Central de Orçamento.
+
+
+Art. 8º.
+
+O orçamento fiscal será apresentado com a forma e o detalhamento estabelecidos na Lei Federal nº 4.320, de 17 de março de 1964, e demais disposições legais sobre a matéria, adotando na sua estrutura a Classificação da Despesa Quanto a sua Natureza e a Classificação Funcional da Despesa Orçamentária atualizadas, de acordo com as disposições técnico-legais contidas na legislação em vigor.
+
+
+Art. 9º.
+
+A proposta orçamentária que o Poder Executivo encaminhará à Câmara Municipal, no prazo previsto no art. 124, §1º, inciso III, da Constituição do Estado de Pernambuco, com a redação dada pela Emenda Constitucional nº 16, de 04 de junho de 1999, será constituída de:
+
+
+I –
+
+Mensagem;
+
+
+II –
+
+Projeto de lei orçamentária anual, com a seguinte composição:
+
+
+a)
+
+texto da lei;
+
+
+b)
+
+quadros orçamentários consolidados;
+
+
+c)
+
+anexo do orçamento fiscal, discriminando a receita e a despesa na forma definida nesta Lei;
+
+
+d)
+
+discriminação da legislação da receita referente ao orçamento fiscal;
+
+
+e)
+
+informações complementares.
+
+
+Parágrafo único
+
+O projeto de lei orçamentária de que trata o inciso II deste artigo conterá:
+
+
+I –
+
+Evolução da receita do Tesouro;
+
+
+II –
+
+Evolução da despesa do Tesouro;
+
+
+III –
+
+Demonstrativo da receita e despesa, segundo as categorias econômicas e as fontes dos recursos;
+
+
+IV –
+
+Consolidação da receita por fontes, segundo os principais títulos;
+
+
+V –
+
+Resumo geral da despesa por fonte dos recursos e grupos de despesa;
+
+
+VI –
+
+Especificação da receita por categorias econômicas e origem dos recursos;
+
+
+VII –
+
+Demonstrativo da despesa por funções, conforme as fontes dos recursos;
+
+
+VIII –
+
+Demonstrativo da despesa por subfunções, conforme as fontes dos recursos;
+
+
+IX –
+
+Demonstrativo da despesa por programas, conforme as fontes dos recursos;
+
+
+X –
+
+Demonstrativo da despesa por projetos, conforme as fontes dos recursos;
+
+
+XI –
+
+Demonstrativo da despesa por atividades, conforme as fontes dos recursos;
+
+
+XII –
+
+Demonstrativo da despesa por operações especiais, conforme as fontes dos recursos;
+
+
+XIII –
+
+Demonstrativo da despesa por categorias econômicas, segundo as fontes dos recursos;
+
+
+XIV –
+
+Demonstrativo da despesa por grupos, conforme as fontes dos recursos;
+
+
+XV –
+
+Demonstrativo da despesa por modalidade de aplicação, conforme as fontes dos recursos;
+
+
+XVI –
+
+Demonstrativo da despesa por Poder e órgão, conforme as fontes dos recursos e grupos de despesa;
+
+
+XVII –
+
+Investimentos consolidados;
+
+
+XVIII –
+
+Demonstrativo da vinculação dos recursos destinados à manutenção e ao desenvolvimento do ensino;
+
+
+XIX –
+
+Demonstrativo dos recursos do Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e Valorização do Magistério - FUNDEF;
+
+
+XX –
+
+Demonstrativo da vinculação dos recursos destinados ao financiamento das ações e serviços públicos de saúde;
+
+
+XXI –
+
+Demonstrativo da vinculação dos recursos destinados à promoção de assistência integral à criança e ao adolescente.
+
+
+Art. 10.
+
+A mensagem que encaminhar a proposta orçamentária à Câmara Municipal evidenciará a situação observada em relação aos limites a que se referem o inciso III do artigo 19 e o inciso III do artigo 20 da Lei Complementar Federal nº 101, de 04 de maio de 2000.
+
+
+#### CAPÍTULO III — DAS DIRETRIZES PARA ELABORAÇÃO E EXECUÇÃO DO ORÇAMENTO DO MUNICÍPIO E SUAS ALTERAÇÕES
+
+
+Art. 11.
+
+A elaboração do projeto, a aprovação e a execução da lei orçamentária de 2002 deverão ser realizadas de modo a evidenciar a transparência da gestão fiscal, observando-se o princípio da publicidade e permitindo-se o amplo acesso da sociedade a todas as informações relativas a cada uma dessas etapas.
+
+
+Art. 12.
+
+A alocação dos créditos orçamentários será feita diretamente à unidade orçamentária responsável pela execução das ações correspondentes, ficando dispensada a inclusão na lei orçamentária de unidade transferidora de recursos para entidades supervisionadas integrantes do orçamento fiscal.
+
+
+Art. 13.
+
+Além de observar as demais diretrizes estabelecidas nesta Lei, a alocação dos recursos na lei orçamentária e em seus créditos adicionais será feita de forma a propiciar o controle dos custos das ações e a avaliação dos resultados dos programas de governo.
+
+
+Art. 14.
+
+A inclusão ou a alteração de grupo de despesa em projeto, atividade ou operação especial, contemplados na lei orçamentária e em seus créditos adicionais, será feita mediante a abertura de crédito suplementar, através de decreto do Poder Executivo, respeitados os objetivos dos mesmos.
+
+
+Art. 15.
+
+Nas autorizações e aberturas de créditos adicionais, além dos recursos indicados no §1º do art. 43 da Lei nº 4.320, de 17 de março de 1964, para cobertura das respectivas despesas, considerar-se-ão os resultantes de convênios celebrados ou reativados durante o exercício de 2001 e não computados na receita prevista na lei orçamentária.
+
+
+Art. 16.
+
+Na programação da despesa não poderão ser:
+
+
+I –
+
+Incluídos recursos para o pagamento, a qualquer título, a servidor da administração direta e indireta, por serviços de consultoria ou assistência custeados com recursos à conta do tesouro municipal ou decorrentes de convênios, acordos, ajustes ou instrumentos congêneres firmados com órgãos ou entidades de direito público ou privado, nacionais ou internacionais;
+
+
+II –
+
+Incluídos recursos destinados a clubes e associações de servidores ou quaisquer outras entidades congêneres, excetuadas creches e escolas para o atendimento pré-escolar.
+
+
+Parágrafo único
+
+O disposto no inciso II deste artigo não se aplica a instrutores de programas de treinamento de recursos humanos.
+
+
+Art. 17.
+
+É vedada a inclusão na lei orçamentária e em seus créditos adicionais, de dotações a título de subvenções sociais e auxílios, ressalvadas aquelas destinadas a entidades privadas sem fins lucrativos, de atividades de natureza continuada, que preencham uma das seguintes condições:
+
+
+I –
+
+Sejam de atendimento direto ao público, de forma gratuita, nas áreas de assistência social, saúde ou educação, e estejam registradas no Conselho Nacional de Assistência Social - CNAS, no Conselho Municipal de Assistência Social ou no Conselho Municipal de Defesa dos Direitos da Criança e do Adolescente;
+
+
+II –
+
+Tenham por objetivo a promoção da cultura e das artes;
+
+
+III –
+
+Sejam vinculadas a organismos internacionais de natureza filantrópica, institucional ou assistencial.
+
+
+§ 1º
+
+Para habilitar-se ao recebimento de subvenções sociais, a entidade privada sem fins lucrativos deverá apresentar declaração de funcionamento regular nos últimos três anos, emitida no exercício de 2002 por três autoridades locais e comprovante de regularidade do mandato de sua diretoria.
+
+
+Art. 18.
+
+As entidades privadas beneficiadas com recursos públicos a qualquer título submeter-se-ão à fiscalização do poder concedente com a finalidade de verificar o cumprimento de metas e objetivos para os quais receberam os recursos.
+
+
+Art. 19.
+
+Além da observância das prioridades fixadas nos termos do art. 2º desta Lei, a lei orçamentária e seus créditos adicionais, observado o disposto no art. 45 da Lei Complementar nº 101, de 2000, somente incluirão projetos novos se tiverem sido adequadamente contemplados todos os projetos em andamento.
+
+
+Parágrafo único
+
+Serão entendidos como projetos em andamento aqueles cuja execução financeira, até 30 de junho de 2001, ultrapassar vinte por cento do seu custo total estimado.
+
+
+Art. 20.
+
+Os recursos alocados na lei orçamentária destinados ao pagamento de precatórios judiciários, que constarão das unidades orçamentárias responsáveis pelos débitos, só poderão ser cancelados para abertura de créditos adicionais com outra finalidade, mediante autorização específica do Poder Legislativo.
+
+
+Art. 21.
+
+A lei orçamentária conterá reserva de contingência, constituída exclusivamente com recursos do orçamento fiscal, em montante equivalente a, no mínimo, 0,5% da receita corrente líquida.
+
+
+Parágrafo único
+
+Não será considerada, para os efeitos do caput, a reserva à conta de receitas diretamente arrecadadas dos fundos e das entidades da administração indireta.
+
+
+#### CAPÍTULO IV — DAS DISPOSIÇÕES RELATIVAS ÀS DESPESAS DO MUNICÍPIO COM PESSOAL E ENCARGOS SOCIAIS
+
+
+Art. 22.
+
+A Lei Orçamentária para 2001 programará as despesas com pessoal ativo e inativo da administração direta e indireta e seus encargos sociais, dos Poderes Legislativo e Executivo Municipais, obedecendo aos limites e demais disposições dos artigos 18 e 19 da Lei Complementar Federal nº 101/2000.
+
+
+§ 1º
+
+As despesas decorrentes da implantação de plano de cargos, carreiras e vencimentos e do aumento do quantitativo de pessoal resultante de concursos públicos, sujeitar-se-ão às disposições do caput deste artigo.
+
+
+§ 2º
+
+Na definição do montante de recursos para a Programação Orçamentária Anual do Poder Legislativo, será observado o disposto no inciso III do artigo 20 da Lei Complementar Federal nº 101/2000.
+
+
+§ 3º
+
+Os recursos de que trata o parágrafo 2º corresponde àqueles financiados pela “Receita Corrente Líquida”, assim definida conforme o inciso IV do art. 2º da Lei Complementar Federal nº 101/2000.
+
+
+Art. 23.
+
+A política salarial para os servidores ativos e inativos da administração direta e indireta do Município, será objeto de negociação com os órgãos representativos de classe, com aprovação da Câmara Municipal, através de lei específica.
+
+
+Art. 24.
+
+O Poder Executivo desenvolverá estudos para a instituição de regime próprio de previdência dos servidores do Município, bem como para a implementação de serviço de assistência médica para os servidores e seus dependentes, em substituição àquele prestado pelo extinto IPSEP.
+
+
+#### CAPÍTULO V — DAS DISPOSIÇÕES SOBRE ALTERAÇÕES NA LEGISLAÇÃO TRIBUTÁRIA DO MUNICÍPIO
+
+
+Art. 25.
+
+A criação e a modificação de incentivo ou benefício fiscal e financeiro, relacionado com tributos municipais, dependerão de lei, atendendo as diretrizes de política fiscal e desenvolvimento do Município e às disposições contidas no art. 14 da Lei Complementar Federal nº 101/2000.
+
+
+§ 1º
+
+Para os efeitos deste artigo, o Poder Executivo encaminhará à Câmara Municipal, projeto de lei específico dispondo sobre incentivo ou benefício fiscal e financeiro.
+
+
+§ 2º
+
+O demonstrativo de estimativa e compensação da renúncia da receita, de que trata o inciso V do §2º, do art. 4º da Lei Complementar Federal nº 101/2000 será objeto de estudo específico e oportunamente divulgado.
+
+
+Art. 26.
+
+O Poder Executivo desenvolverá estudos para a implantação de tributos pela ocupação do espaço aéreo ocasionada pelas empresas de energia elétrica, de TV a cabo e comunicação.
+
+
+#### CAPÍTULO VI — OUTRAS DISPOSIÇÕES
+
+
+Art. 27.
+
+As emendas ao projeto de lei orçamentária anual ou aos projetos que o modifiquem, somente poderão ser aprovadas caso atendam às disposições contidas no art. 127, §3º, da Constituição Estadual e no art. 85, §2º, incisos I, II e III da Lei Orgânica do Município.
+
+
+Parágrafo único
+
+As emendas ao projeto de lei orçamentária deverão conter:
+
+
+I –
+
+Exposição de motivos que justifiquem a proposição da emenda;
+
+
+II –
+
+Indicação expressa dos órgãos, unidades orçamentárias, funções, subfunções, programas, projetos/atividades/operações especiais, e o montante das despesas que serão acrescidas;
+
+
+III –
+
+Indicação expressa dos órgãos, unidades orçamentárias, funções, subfunções, programas, projetos/atividades/operações especiais, e o montante das despesas que serão anuladas;
+
+
+IV –
+
+Quantificação das metas, quando incluídas.
+
+
+Art. 28.
+
+Todas as receitas realizadas pela administração direta, fundos e fundação integrantes do orçamento fiscal, inclusive as diretamente arrecadadas, serão devidamente classificadas e contabilizadas no mês em que ocorrer o respectivo ingresso.
+
+
+Art. 29.
+
+O Poder Executivo deverá elaborar e publicar, até trinta dias após a publicação da Lei Orçamentária de 2002, cronograma trimestral de desembolso mensal por órgãos municipais direcionado à obtenção das metas fiscais.
+
+
+Art. 30.
+
+São vedados quaisquer procedimentos pelos ordenadores de despesa que viabilizem a execução de despesas sem comprovada e suficiente disponibilidade de dotação orçamentária.
+
+
+Parágrafo único
+
+A contabilidade registrará os atos e fatos relativos à gestão orçamentário-financeira efetivamente ocorridos, sem prejuízo das responsabilidades e providências derivadas da inobservância do caput.
+
+
+Art. 31.
+
+Na execução orçamentária, a discriminação e o remanejamento de elementos em cada grupo de despesa serão efetuados, através de registros contábeis, diretamente no sistema informatizado de execução financeira do orçamento, independentemente de formalização legal específica.
+
+
+Parágrafo único
+
+Para efeito informativo, o órgão central de orçamento encaminhara a cada órgão titular de dotação orçamentária, o respectivo detalhamento da despesa por elemento.
+
+
+Art. 32.
+
+As unidades responsáveis pela execução dos créditos orçamentários e adicionais aprovados processarão o empenho da despesa, observados os limites fixados para cada categoria de programação e respectivos grupos de despesa, fontes de recursos e modalidades de aplicação, especificando o elemento de despesa.
+
+
+Art. 33.
+
+O Poder Público criará mecanismos de acompanhamento da execução orçamentária que facilitem sua análise pelos Delegados do Orçamento Participativo e pela população em geral e desenvolverá, também, sistema gerencial que objetive demonstrar o custo de cada projeto, atividade ou operação especial.
+
+
+Art. 34.
+
+As prioridades de que trata o art. 3º desta Lei, levarão em conta as diretrizes de ação intergovernamental metropolitana para atendimento às determinações do CONDERM – Conselho de Desenvolvimento da Região Metropolitana do Recife.
+
+
+Art. 35.
+
+A prestação de contas anual do Município, a ser enviada à Câmara Municipal e ao Tribunal de Contas do Estado, conterá o balanço geral da administração direta e indireta e incluirá relatório de execução com a forma e o detalhamento apresentados na lei orçamentária.
+
+
+Art. 36.
+
+A presente Lei entrará em vigor na data de sua publicação.
+
+
+Art. 37.
+
+Revogam-se as disposições em contrário.
+
+
+Palácio Conde da Boa Vista, em 30 de julho de 2001.
+
+PREFEITO
+
+A) Elias Gomes da Silva
+

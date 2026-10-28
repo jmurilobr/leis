@@ -1,0 +1,9 @@
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/test_confaz_promover110_privado_20261027.py
+
+Dry-run novo, sem gravar canônicos:
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/confaz_promover110_privado_20261027.py --saida reguladores/_fonte/auditorias/NOVA_SAIDA_DRYRUN
+
+Somente ROOT, após conferir também seleções privadas DOU e ausência de aliases/reservas novas:
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/confaz_promover110_privado_20261027.py --saida reguladores/_fonte/auditorias/NOVA_SAIDA_APPLY --apply
+
+O runner repete todos os gates e o confronto de HEAD na própria execução. Nunca usar saída existente; alvos existentes causam recusa. Arquivo preparado é removido após link exclusivo concluído, mantendo candidato fonte congelado. Nenhum Git ou HTTP é executado.

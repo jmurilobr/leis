@@ -1,0 +1,49 @@
+test_UI_vazia_e_escopo_explicito (test_representacao_html_ac_legis.CampoACTest.test_UI_vazia_e_escopo_explicito) ... ok
+test_anexo_apos_rodape_nao_e_descartado (test_representacao_html_ac_legis.CampoACTest.test_anexo_apos_rodape_nao_e_descartado) ... ok
+test_ativo_retem (test_representacao_html_ac_legis.CampoACTest.test_ativo_retem) ... ok
+test_download_nao_vazio_retem (test_representacao_html_ac_legis.CampoACTest.test_download_nao_vazio_retem) ... ok
+test_fragmento_preserva_sinais_CRLF_e_atributos (test_representacao_html_ac_legis.CampoACTest.test_fragmento_preserva_sinais_CRLF_e_atributos) ... ok
+test_modo_desconhecido_retem (test_representacao_html_ac_legis.CampoACTest.test_modo_desconhecido_retem) ... ok
+test_rodape_repetido_retem (test_representacao_html_ac_legis.CampoACTest.test_rodape_repetido_retem) ... ok
+test_corpo_igualdade_estrita (test_auditar_legis_ac.Pipeline.test_corpo_igualdade_estrita) ... ok
+test_data_cartao (test_auditar_legis_ac.Pipeline.test_data_cartao) ... ok
+test_pipeline_real (test_auditar_legis_ac.Pipeline.test_pipeline_real) ... ok
+test_sha_fonte (test_auditar_legis_ac.Pipeline.test_sha_fonte) ... ok
+test_tachado_js_nao_vigencia (test_auditar_legis_ac.Pipeline.test_tachado_js_nao_vigencia) ... ok
+test_url_fonte (test_auditar_legis_ac.Pipeline.test_url_fonte) ... ok
+test_campo_classe_ancestral (test_css_contexto_campo.CSSTest.test_campo_classe_ancestral) ... ok
+test_import_nao_capturado (test_css_contexto_campo.CSSTest.test_import_nao_capturado) ... ok
+test_pseudo_conteudo (test_css_contexto_campo.CSSTest.test_pseudo_conteudo) ... ok
+test_regra_disjunta (test_css_contexto_campo.CSSTest.test_regra_disjunta) ... ok
+test_sem_excecao_am_loader (test_css_contexto_campo.CSSTest.test_sem_excecao_am_loader) ... ok
+test_tachado_herdado (test_css_contexto_campo.CSSTest.test_tachado_herdado) ... ok
+test_UI_posterior_fora_do_escopo_normativo (test_css_contexto_campo.EscopoIdTest.test_UI_posterior_fora_do_escopo_normativo) ... ok
+test_ancestral_real_continua_examinado (test_css_contexto_campo.EscopoIdTest.test_ancestral_real_continua_examinado) ... ok
+test_marcador_final_nao_remove_DOM_de_seletor_relacional (test_css_contexto_campo.EscopoIdTest.test_marcador_final_nao_remove_DOM_de_seletor_relacional) ... ok
+test_marcador_fora_do_campo_falha (test_css_contexto_campo.EscopoIdTest.test_marcador_fora_do_campo_falha) ... ok
+test_import_relativo_resolvido_pela_folha (test_css_contexto_campo.FamiliasFontesTest.test_import_relativo_resolvido_pela_folha) ... ok
+test_symbol_exato_e_escapado_sao_retidos (test_css_contexto_campo.FamiliasFontesTest.test_symbol_exato_e_escapado_sao_retidos) ... ok
+test_unicode_symbol_fallback_nao_e_fonte_legacy (test_css_contexto_campo.FamiliasFontesTest.test_unicode_symbol_fallback_nao_e_fonte_legacy) ... ok
+test_hide_mso_herdado_retido (test_css_contexto_campo.MSOHideTest.test_hide_mso_herdado_retido) ... ok
+test_checkbox_indeterminado_disjunto (test_css_contexto_campo.PseudoestadoContextualTest.test_checkbox_indeterminado_disjunto) ... ok
+test_checkbox_indeterminado_pode_atingir_campo (test_css_contexto_campo.PseudoestadoContextualTest.test_checkbox_indeterminado_pode_atingir_campo) ... ok
+test_fundo_plano_nao_e_imagem (test_css_contexto_campo.RecursosVisuaisCSSTest.test_fundo_plano_nao_e_imagem) ... ok
+test_imagem_de_fundo_aplicada_retem (test_css_contexto_campo.RecursosVisuaisCSSTest.test_imagem_de_fundo_aplicada_retem) ... ok
+test_imagem_de_fundo_disjunta_nao_afeta_campo (test_css_contexto_campo.RecursosVisuaisCSSTest.test_imagem_de_fundo_disjunta_nao_afeta_campo) ... ok
+test_seletor_nao_suportado_propriedades_neutras (test_css_contexto_campo.SeletorSemRiscoTest.test_seletor_nao_suportado_propriedades_neutras) ... ok
+test_seletor_nao_suportado_risco_retido (test_css_contexto_campo.SeletorSemRiscoTest.test_seletor_nao_suportado_risco_retido) ... ok
+test_filho_visual_permanece_retido (test_css_contexto_campo.SpanBrancoVazioTest.test_filho_visual_permanece_retido) ... ok
+test_nbsp_folha_literal_e_comprovado (test_css_contexto_campo.SpanBrancoVazioTest.test_nbsp_folha_literal_e_comprovado) ... ok
+test_pseudo_gerado_permanece_retido (test_css_contexto_campo.SpanBrancoVazioTest.test_pseudo_gerado_permanece_retido) ... ok
+test_texto_branco_permanece_retido (test_css_contexto_campo.SpanBrancoVazioTest.test_texto_branco_permanece_retido) ... ok
+test_card_data_divergente_retem (test_identidade_legis_ac.IdentidadeACTest.test_card_data_divergente_retem) ... ok
+test_data_fecho_nao_e_corrigida (test_identidade_legis_ac.IdentidadeACTest.test_data_fecho_nao_e_corrigida) ... ok
+test_epigrafe_adicional_em_celula_e_alerta_contextual (test_identidade_legis_ac.IdentidadeACTest.test_epigrafe_adicional_em_celula_e_alerta_contextual) ... ok
+test_epigrafe_fecho_card (test_identidade_legis_ac.IdentidadeACTest.test_epigrafe_fecho_card) ... ok
+test_fecho_citado_distinto_nao_escolhe_um (test_identidade_legis_ac.IdentidadeACTest.test_fecho_citado_distinto_nao_escolhe_um) ... ok
+test_sufixo_nao_e_ignorado (test_identidade_legis_ac.IdentidadeACTest.test_sufixo_nao_e_ignorado) ... ok
+
+----------------------------------------------------------------------
+Ran 44 tests in 0.494s
+
+OK

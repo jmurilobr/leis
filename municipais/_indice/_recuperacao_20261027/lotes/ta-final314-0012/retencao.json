@@ -1,0 +1,58 @@
+{
+  "candidatos": 745,
+  "aprovados": 314,
+  "retidos": 431,
+  "jurisdicao": [
+    {
+      "path": "municipais/MG/buritis/leis-ordinarias/2007/leis-ordinarias-1066-2007-sapl-472.md",
+      "sha256": "7d0791bedfb54bdf1c52f5cf2ac0d57b35367652d97376a42e9a36bcb922debb",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/MG/buritis/leis-ordinarias/2007/leis-ordinarias-1063-2007-sapl-469.md",
+      "sha256": "1a3aca680c9c0bc90eb6917aec8ddf70896ac68e7193381c762c84533f345f3b",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/MG/buritis/leis-ordinarias/2005/leis-ordinarias-976-2005-sapl-417.md",
+      "sha256": "731abdb6db4d23bab2d81fded00caaafe982bf63808198e240385d12fa05ca87",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/MG/buritis/leis-ordinarias/2002/leis-ordinarias-870-2002-sapl-311.md",
+      "sha256": "6fa71f85c45e16420e64fcc0b0dfd3dcf65c04fe38bd910c1b8312548aa9f2c0",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    }
+  ],
+  "replay_retidos": [
+    "municipais/MG/cabeceira-grande/leis-ordinarias/2017/leis-ordinarias-575-2017-sapl-713.md",
+    "municipais/MG/cabeceira-grande/leis-ordinarias/2017/leis-ordinarias-539-2017-sapl-677.md",
+    "municipais/MG/cabeceira-grande/leis-ordinarias/2016/leis-ordinarias-512-2016-sapl-649.md",
+    "municipais/MG/buritis/leis-ordinarias/2002/leis-ordinarias-874-2002-sapl-315.md"
+  ],
+  "criterio": "Retidos não integram a lista de normas. Controles conservam os motivos e identidades; não promovidos por contagem ou por comparação da mesma conversão."
+}

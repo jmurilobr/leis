@@ -1,0 +1,77 @@
+---
+titulo: "Lei nº 955, de 09 de novembro de 2004"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "955"
+data: "2004-11-09"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/171"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/1699/text"
+sha256_fonte: "2ff1a71ce51935ffaeb77761a296c723971eca468b05a80177af9a1c38a9d732"
+sha256_texto: "31ab1925bcb1cd5049b96ec167abb6c60933d10ea72824081cee5aee9ba3a372"
+capturado_em_fonte: "2026-10-27T20:18:14.681717-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 955, de 09 de novembro de 2004
+
+DISPÕE SOBRE SUBSTITUTIVO A LEI Nº 932/03, e, dá outras providencias.
+
+
+O povo, por seus representantes, aprova e o Prefeito Municipal sanciona a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a conceder subvenções e contribuições no total de R$ 241.000,00 (duzentos e quarenta e um mil reais), as seguintes entidades:
+
+**Subvenções**
+
+<table><colgroup><col><col></colgroup><tbody><tr><td>Associação dos Produtores Rurais de São Vicente da Esquerda</td><td>1.000,00</td></tr><tr><td>Associação dos Pequenos Produtores Rurais Confins</td><td>1.000,00</td></tr><tr><td>Associação dos Peq. Produtores Rurais do Proj. Assent. Buritirama</td><td>1.000,00</td></tr><tr><td>Associação Com. Dos Peq. Prod. Rurais Com. Barriguda</td><td>1.000,00</td></tr><tr><td>Abrigo João da Silva Santarém </td><td>15.000,00</td></tr><tr><td>Associação do Grupo 3ª Idade Alegria de Viver </td><td>3.000,00</td></tr><tr><td>Associação dos Deficientes Físicos de Buritis </td><td>2.000,00</td></tr><tr><td>Pastoral da Criança de Buritis </td><td>15.500,00</td></tr><tr><td>Associação dos Moradores da Comunidade São José </td><td>1.000,00</td></tr><tr><td>Associação dos Moradores da Comunidade Santa Terezinha </td><td>8.000,00</td></tr><tr><td>Associação dos Moradores da Comunidade Santa Luzia </td><td>1.000,00</td></tr><tr><td>Associação dos Moradores da Comunidade Sagrada Família </td><td>1.000,00</td></tr><tr><td>Associação dos Moradores da Comunidade Espírito Santo</td><td>1.000,00</td></tr><tr><td>Conselho Comunitário de Desenvolvimento Vila São Vicente </td><td>2.000,00</td></tr><tr><td>Conselho Comunitário de Desenvolvimento Mata Frade </td><td>1.000,00</td></tr><tr><td>Conselho Comunitário do Distrito Serra Bonita</td><td>1.000,00</td></tr><tr><td>Conselho de Desenvolvimento Comunitário Vila Serrana</td><td>1.000,00</td></tr><tr><td>Conselho de Desenvolvimento Comunitário Vila Cordeiro</td><td>1.000,00</td></tr><tr><td>Conselho Comunitário do Pernambuco</td><td>1.000,00</td></tr><tr><td>Associação dos Trab. Rurais Sem Terra do Proj. Boa Esperança</td><td>1.000,00</td></tr><tr><td>Associação dos Trab. Rurais Sem Terra da Região do Taquaril</td><td>1.000,00</td></tr><tr><td>Associação dos Peq. Produtores Rurais da Região Pé da Serra</td><td>1.000,00</td></tr><tr><td>Associação dos Peq. Produtores Rurais do Projeto Vida Nova</td><td>1.000,00</td></tr><tr><td>Conselho de Desenvolvimento da Vila Palmeira</td><td>1.000,00</td></tr><tr><td>Conselho Comunitário de Desenvolvimento da Vila Maravilha</td><td>1.000,00</td></tr><tr><td>Conselho Comunitário de Desenvolvimento do Riacho Morto</td><td>1.000,00</td></tr><tr><td>Associação dos Peq. Produtores Rurais da Comunidade Cupins</td><td>1.000,00</td></tr><tr><td>Associação Nossa Senhora do Perpetuo Socorro</td><td>30.000,00</td></tr><tr><td>Associação Frei Pio Baars </td><td>40.000,00</td></tr><tr><td>Associação de Pais e Amigos dos Excepcionais de Buritis - APAE </td><td>26.100,00</td></tr><tr><td>Núcleo de Apoio ao Trabalhador - NAT </td><td>2.100,00</td></tr><tr><td>Associação dos Feirantes </td><td>2.300,00</td></tr><tr><td>Associação dos Pequenos Prod. Rurais do São Vicente da Esquerda</td><td>1.000,00</td></tr><tr><td>Conselho de Desenvolvimento Comunitário da Vila São Vicente</td><td>2.000,00</td></tr><tr><td> </td><td>170.000,00</td></tr></tbody></table>
+
+**CONTRIBUIÇÕES DE CAPITAL**
+
+<table><colgroup><col><col></colgroup><tbody><tr><td>Abrigo João da Silva Santarém - Ampliação das Instalações</td><td>30.000,00</td></tr><tr><td>Associação Comunitária de Serra Bonita</td><td>10.000,00</td></tr><tr><td>Associação АСРРСВ - Aquisição de Trator e Implementos</td><td>25.000,00</td></tr><tr><td>Associação АСРРСВ - Canalização de Agua</td><td>5.000,00</td></tr><tr><td> </td><td>70.000,00</td></tr></tbody></table>
+
+**CONTRIBUIÇÕES CORRENTES**
+
+<table><colgroup><col><col></colgroup><tbody><tr><td>Buritis Esporte Clube</td><td>500,00</td></tr><tr><td>Bandeirante Esporte Clube</td><td>500,00</td></tr><tr><td> </td><td>1.000,00</td></tr></tbody></table>
+
+
+Art. 2º.
+
+Os pagamentos de que trata o artigo anterior dessa lei somente serão autorizados pelo Executivo Municipal, mediante apresentação de prova de regularidade da personalidade jurídica da entidade ou instituição beneficiada por esta lei.
+
+
+Art. 3º.
+
+A citação da Associação dos Feirantes e do Núcleo de Apoio ao Trabalhador, tem como objetivo a inclusão destes na Lei nº 932/03, em seu artigo 1°.
+
+
+Art. 4º.
+
+O valor repassado para a Associação de Moradores da Comunidade Santa Terezinha será destinado para desenvolver atividades em conjunto com a Associação de Moradores da Comunidade Santa Luzia, Associação de Moradores da Comunidade Sagrado Coração еа Associação de Moradores da Comunidade São José.
+
+
+Art. 5º.
+
+As demais entidades supra citadas, faz-se necessário a alteração dos valores oriundos do Programa de Atenção Integral á Família-PAIF, convênio celebrado com o Ministério de Desenvolvimento Social e Combate a Fome.
+
+
+Art. 6º.
+
+Revogadas as disposições em contrário, esta Lei entra em vigor na data de sua publicação.
+
+
+Buritis - MG, 09 de novembro de 2004.
+
+**JOSÉ VICENTE DAMASCENO Prefeito Municipal.**
+
+Proposição de lei nº 013/2004. Autor: Executivo Municipal.
+

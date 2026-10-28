@@ -1,0 +1,32 @@
+{
+  "preparado_em": "2026-10-28T11:43:44.290351-03:00",
+  "manifesto": "scripts/estados/manifestos/to3-notas-edicao-overlay-privado-20261028-001.json",
+  "sha256_manifesto": "161c67b8990023de60a433e2c8efa7ab9a5c9dfd87ee6db39839e290f546454d",
+  "mapa_entrada": "estaduais/TO/_fonte/auditorias/to3-notas-edicao-privado-20261028-001/final/hashes.json",
+  "sha256_mapa_entrada": "9918192b565d30e3d0356cff0cd0ebe3f62c82130eba52908695248f3cfeff51",
+  "resultado": {
+    "total": 3,
+    "corpos_H1_byte_identicos": 3,
+    "testes": 5,
+    "falhas": 0,
+    "erros": 0,
+    "bloqueios": []
+  },
+  "exportacao_somente_mapa": true,
+  "Python": "-I -B",
+  "dependencias_externas": "somente biblioteca padrão Python",
+  "dry_run": {
+    "finalizado_em": "2026-10-28T11:40:24.081322-03:00",
+    "modo": "dry-run",
+    "prontos": 2,
+    "aguardando_promocao": [
+      "estaduais/TO/leis-ordinarias/2000/l-1144-2000-aleto7390.md"
+    ],
+    "alterados": 0,
+    "sem_Git_escrita": true
+  },
+  "sem_apply": true,
+  "sem_Git_escrita": true,
+  "novas_normas": 0,
+  "comando": "python3 -B scripts/estados/snapshots/to_metadados_edicao_20261028_001/aplicar_metadados_edicao.py --manifesto scripts/estados/manifestos/to3-notas-edicao-overlay-privado-20261028-001.json --hashes estaduais/TO/_fonte/auditorias/to3-notas-edicao-privado-20261028-001/final/hashes.json --grupo 45|178|186|todos --controle CONTROLE_PRIVADO_NOVO (dry-run; --apply --confirmar-root ROOT exclusivo coordenador)"
+}

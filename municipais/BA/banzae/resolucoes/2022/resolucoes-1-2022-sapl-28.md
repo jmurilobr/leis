@@ -1,0 +1,165 @@
+---
+titulo: "Resolução nº 1, de 31 de agosto de 2022"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "1"
+data: "2022-08-31"
+municipio: "Banzaê"
+uf: "BA"
+codigo_ibge: "2902658"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.banzae.ba.leg.br/norma/28"
+fonte_texto: "https://sapl.banzae.ba.leg.br/ta/28/text"
+sha256_fonte: "4ef022e0c3c4ada65508817a72ba997f7415ba88742e3cf7403fa9d60ae1487a"
+sha256_texto: "1ae7b03f81339cdb14b914ca0c49d72012032cc100ed31896ffe69d07cc2d6d7"
+capturado_em_fonte: "2026-10-27T17:09:22.226948-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Resolução nº 1, de 31 de agosto de 2022
+
+Cria a Procuradoria da Mulher na Câmara Municipal de Banzaê e dá outras providências.
+
+
+Faço saber que a Câmara Municipal de Banzaê aprovou e promulga a seguinte Resolução:
+
+
+Art. 1º.
+
+Fica criada no legislativo a Procuradoria da Mulher, e será um órgão independente, formado por Procuradoras Vereadoras, que contará com o suporte técnico de toda a estrutura da Câmara de Vereadores.
+
+
+Parágrafo único
+
+a Câmara de Vereadores de Banzaê, quanto estrutura física, disponibilizará à Procuradoria da Mulher:
+
+
+I –
+
+veículo;
+
+
+II –
+
+sala estruturada com: mesa; computador; impressora, e cadeiras.
+
+
+Art. 2º.
+
+A Procuradoria da Mulher será constituída de uma (01) Procuradora da Mulher e duas (02) Procuradoras Adjuntas, designadas pela Mesa Diretora, a cada 02 (dois) anos, no início da legislatura e uma (01) assessoria jurídica.
+
+
+§ 1º
+
+As Procuradoras poderão ser substituídas por procuradores em caso de não haver mulheres eleitas para exercer a função.
+
+
+§ 2º
+
+A composição do corpo técnico da Procuradoria da Mulher será realizada por redistribuição de Quadro Efetivo de Pessoal da Câmara Municipal.
+
+
+§ 3º
+
+A Procuradoria Especial da Mulher deverá apresentar, anualmente, no mês de dezembro, relatório de suas atividades.
+
+
+Art. 3º.
+
+Compete à Procuradoria da Mulher zelar pela participação mais efetiva das vereadoras nos órgãos e nas atividades da Câmara e ainda:
+
+
+I –
+
+Receber, examinar e encaminhar aos órgãos competentes denúncias de violência e discriminação contra a mulher;
+
+
+II –
+
+Contribuir com a implantação e implementação de políticas públicas municipais de equidade;
+
+
+III –
+
+Cooperar com organismos nacionais e internacionais, públicos e privados, voltados à implementação de políticas para as mulheres;
+
+
+IV –
+
+Promover pesquisas e estudos sobre violência e discriminação contra a mulher, bem como acerca de seu défice de representação na política, inclusive para fins de divulgação pública e fornecimento de subsídio às comissões da Câmara;
+
+
+V –
+
+Promover audiências públicas, seminários, palestras e debates, sobre violência e discriminação contra a mulher, bem como, a participação política da mulher, inclusive para fins de divulgação pública e fornecimento de subsídios às Comissões Permanentes da Câmara Municipal;
+
+
+VI –
+
+Acompanhar reuniões, debates, agendas promovidas pelos órgãos que atendem e promovem políticas públicas para mulheres;
+
+
+VII –
+
+Sugerir, fiscalizar e acompanhar a execução de programas do Governo Municipal que visem a promoção da equidade entre homens e mulheres, a promoção do empoderamento da mulher, bem como a implementação de campanhas da mulher, de âmbito municipal;
+
+
+VIII –
+
+VIII – Organizar e divulgar a legislação relativa aos direitos das mulheres, inclusive a Lei nº 11.340, de 07 de agosto de 2006 – Lei Maria da Penha, bem como zelar pelo seu cumprimento;
+
+
+IX –
+
+Promover a integração entre o movimento de mulheres e a Câmara Municipal;
+
+
+X –
+
+Propor medidas destinadas à preservação e à promoção da imagem e da atuação da mulher na Câmara Municipal de Banzaê;
+
+
+XI –
+
+Emitir pareceres orientadores, quando solicitado pelas comissões permanentes da Casa, às proposições apresentadas na Câmara Municipal que afetem direta ou indiretamente a vida das mulheres banzaêenses;
+
+
+XII –
+
+Representar a Câmara Municipal de Banzaê em solenidades e eventos, municipais, estaduais, nacionais ou internacionais especificamente destinados às políticas para valorização da mulher.
+
+
+Art. 4º.
+
+Toda iniciativa provocada ou implementada pela Procuradoria da Mulher terá ampla divulgação pelo órgão de comunicação da Câmara Municipal.
+
+
+Art. 5º.
+
+A suplente de vereadora que assumir o mandato em caráter provisório não poderá ser escolhida para Procuradora da Mulher ou Procuradora Adjunta.
+
+
+Art. 6º.
+
+O cargo de Procuradora da Mulher cessará automaticamente com o término do mandato de sua ocupante.
+
+
+Art. 7º.
+
+Os mandatos das Procuradoras acompanharão a periodicidade da eleição da Mesa Diretora.
+
+
+Art. 8º.
+
+Esta Resolução entra em vigor na data de sua publicação, com a nomeação imediata das procuradoras.
+
+
+Plenário, 23 de maio de 2022.
+
+**Fernandes Nascimento dos Santos**
+
+Presidente da Câmara
+

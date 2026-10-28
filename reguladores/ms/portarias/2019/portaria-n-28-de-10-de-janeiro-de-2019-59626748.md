@@ -1,0 +1,42 @@
+---
+titulo: "PORTARIA Nº 28, DE 10 DE JANEIRO DE 2019"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "28"
+data: 2019-01-10
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 18/01/2019, seção 1, p. 41"
+data_publicacao: 2019-01-18
+edicao: "13"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-28-de-10-de-janeiro-de-2019-59626748"
+sha256_html_fonte: 4ad16f6c54b30cd92025d2cdb3f6557a3cf0dc794c22dad062a3a98e322b86b5
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 28, DE 10 DE JANEIRO DE 2019
+
+PORTARIA Nº 28, DE 10 DE JANEIRO DE 2019
+
+Restabelece a transferência de recursos financeiros do Bloco de Custeio das Ações e Serviços Públicos de Saúde a serem alocados no Grupo de Vigilância em Saúde, aos municípios que regularizaram a alimentação do Sistema de Informação de Agravos de Notificação (SINAN), do Sistema de Informações de Nascidos Vivos (SINASC) e do Sistema de Informações sobre Mortalidade (SIM).
+
+O MINISTRO DE ESTADO DA SAÚDE, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, e
+
+Considerando os arts. 1º a 16 do Anexo III da Portaria de Consolidação nº 4/GM/MS, de 28 de setembro de 2017, que consolida as normas sobre os sistemas e os subsistemas do SUS;
+
+Considerando a Portaria de Consolidação nº 6/GM/MS, de 28 de setembro de 2017, que consolida as normas sobre o financiamento e a transferência dos recursos federais para as ações e os serviços de saúde do Sistema Único de Saúde;
+
+Considerando a Portaria nº 3.992/GM/MS, de 28 de dezembro de 2017, que altera a Portaria de Consolidação nº 6/GM/MS, de 28 de setembro de 2017, para dispor sobre o financiamento e a transferência dos recursos federais para as ações e os serviços públicos de saúde do SUS;
+
+Considerando a Portaria n° 47/SVS/MS, de 3 de maio de 2016, que define os parâmetros para monitoramento da regularidade na alimentação do Sistema de Informação de Agravos de Notificação (SINAN), do Sistema de Informações de Nascidos Vivos (SINASC) e do Sistema de Informações sobre Mortalidade (SIM), para fins de manutenção do repasse de recursos do Piso Fixo de Vigilância em Saúde (PFVS) e do Piso Variável de Vigilância em Saúde (PVVS) do Bloco de Vigilância em Saúde; e
+
+Considerando a Portaria n° 4.052/GM/MS, de 18 de dezembro de 2018 que suspende a transferência de recursos financeiros do Piso Fixo de Vigilância em Saúde (PFVS) e do Piso Variável de Vigilância em Saúde (PVVS) do Bloco de Custeio das Ações e Serviços Públicos de Saúde a serem alocados no Grupo de Vigilância em Saúde dos municípios irregulares na alimentação do Sistema de Informação de Agravos de Notificação (SINAN), do Sistema de Informações de Nascidos Vivos (SINASC) e do Sistema de Informações sobre Mortalidade (SIM), resolve:
+
+**Art. 1º** Fica restabelecida a transferência de recursos financeiros do Bloco de Custeio das Ações e Serviços Públicos de Saúde a serem alocados no Grupo de Vigilância em Saúde, a partir da competência financeira de janeiro de 2019, aos municípios que regularizaram a alimentação do Sistema de Informação de Agravos de Notificação (SINAN), do Sistema de Informações de Nascidos Vivos (SINASC) e do Sistema de Informações sobre Mortalidade (SIM), de acordo com monitoramento realizado no mês de janeiro de 2019, relacionados no anexo a esta Portaria.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação, com efeitos financeiros a partir de 1º de janeiro de 2019.
+
+LUIZ HENRIQUE MANDETTA
+
+## ANEXO
+
+<table><tr></tr><tr><td><p>UF</p></td><td><p>CÓDIGO IBGE</p></td><td><p>MUNICÍPIO</p></td></tr><tr><td><p>AL</p></td><td><p>270230</p></td><td><p>Coruripe</p></td></tr><tr><td><p>AM</p></td><td><p>130353</p></td><td><p>Presidente Figueiredo</p></td></tr><tr><td><p>AM</p></td><td><p>130356</p></td><td><p>Rio Preto da Eva</p></td></tr><tr><td><p>BA</p></td><td><p>290490</p></td><td><p>Cachoeira</p></td></tr><tr><td><p>BA</p></td><td><p>290580</p></td><td><p>Camamu</p></td></tr><tr><td><p>BA</p></td><td><p>292950</p></td><td><p>São Sebastião do Passé</p></td></tr><tr><td><p>BA</p></td><td><p>293320</p></td><td><p>Vera Cruz</p></td></tr><tr><td><p>CE</p></td><td><p>230850</p></td><td><p>Mombaça</p></td></tr><tr><td><p>ES</p></td><td><p>320190</p></td><td><p>Domingos Martins</p></td></tr><tr><td><p>ES</p></td><td><p>320230</p></td><td><p>Guaçuí</p></td></tr><tr><td><p>GO</p></td><td><p>520549</p></td><td><p>Cidade Ocidental</p></td></tr><tr><td><p>MA</p></td><td><p>210095</p></td><td><p>Arame</p></td></tr><tr><td><p>MA</p></td><td><p>210210</p></td><td><p>Brejo</p></td></tr><tr><td><p>MA</p></td><td><p>210945</p></td><td><p>Raposa</p></td></tr><tr><td><p>MA</p></td><td><p>211050</p></td><td><p>São Bento</p></td></tr><tr><td><p>MA</p></td><td><p>211070</p></td><td><p>São Domingos do Maranhão</p></td></tr><tr><td><p>MA</p></td><td><p>211250</p></td><td><p>Tutóia</p></td></tr><tr><td><p>MG</p></td><td><p>311800</p></td><td><p>Congonhas</p></td></tr><tr><td><p>MG</p></td><td><p>313900</p></td><td><p>Machado</p></td></tr><tr><td><p>MG</p></td><td><p>314070</p></td><td><p>Mateus Leme</p></td></tr><tr><td><p>MG</p></td><td><p>314590</p></td><td><p>Ouro Branco</p></td></tr><tr><td><p>MG</p></td><td><p>315200</p></td><td><p>Pompéu</p></td></tr><tr><td><p>MG</p></td><td><p>315600</p></td><td><p>Rio Vermelho</p></td></tr><tr><td><p>MS</p></td><td><p>500330</p></td><td><p>Coxim</p></td></tr><tr><td><p>MT</p></td><td><p>510642</p></td><td><p>Peixoto de Azevedo</p></td></tr><tr><td><p>PA</p></td><td><p>150195</p></td><td><p>Cachoeira do Piriá</p></td></tr><tr><td><p>PA</p></td><td><p>150260</p></td><td><p>Colares</p></td></tr><tr><td><p>PA</p></td><td><p>150275</p></td><td><p>Concórdia do Pará</p></td></tr><tr><td><p>PA</p></td><td><p>150280</p></td><td><p>Curralinho</p></td></tr><tr><td><p>PA</p></td><td><p>150310</p></td><td><p>Gurupá</p></td></tr><tr><td><p>PA</p></td><td><p>150490</p></td><td><p>Muaná</p></td></tr><tr><td><p>PA</p></td><td><p>150548</p></td><td><p>Pacajá</p></td></tr><tr><td><p>PA</p></td><td><p>150619</p></td><td><p>Rurópolis</p></td></tr><tr><td><p>PA</p></td><td><p>150620</p></td><td><p>Salinópolis</p></td></tr><tr><td><p>PB</p></td><td><p>251390</p></td><td><p>São Bento</p></td></tr><tr><td><p>PB</p></td><td><p>250070</p></td><td><p>São João do Rio do Peixe</p></td></tr><tr><td><p>PB</p></td><td><p>251690</p></td><td><p>Uiraúna</p></td></tr><tr><td><p>PE</p></td><td><p>260040</p></td><td><p>Água Preta</p></td></tr><tr><td><p>PE</p></td><td><p>260070</p></td><td><p>Aliança</p></td></tr><tr><td><p>PE</p></td><td><p>261180</p></td><td><p>Ribeirão</p></td></tr><tr><td><p>PE</p></td><td><p>261410</p></td><td><p>Sertânia</p></td></tr><tr><td><p>PI</p></td><td><p>220620</p></td><td><p>Miguel Alves</p></td></tr><tr><td><p>PI</p></td><td><p>221170</p></td><td><p>Wall Ferraz</p></td></tr><tr><td><p>PR</p></td><td><p>411420</p></td><td><p>Mandaguari</p></td></tr><tr><td><p>PR</p></td><td><p>412060</p></td><td><p>Prudentópolis</p></td></tr><tr><td><p>RJ</p></td><td><p>330480</p></td><td><p>São Fidélis</p></td></tr><tr><td><p>RN</p></td><td><p>240060</p></td><td><p>Almino Afonso</p></td></tr><tr><td><p>RN</p></td><td><p>240280</p></td><td><p>Coronel Ezequiel</p></td></tr><tr><td><p>RN</p></td><td><p>240310</p></td><td><p>Currais Novos</p></td></tr><tr><td><p>RN</p></td><td><p>240580</p></td><td><p>João Câmara</p></td></tr><tr><td><p>RN</p></td><td><p>240720</p></td><td><p>Macau</p></td></tr><tr><td><p>RO</p></td><td><p>110028</p></td><td><p>Rolim de Moura</p></td></tr><tr><td><p>RS</p></td><td><p>430468</p></td><td><p>Capela de Santana</p></td></tr><tr><td><p>RS</p></td><td><p>430910</p></td><td><p>Gramado</p></td></tr><tr><td><p>RS</p></td><td><p>431760</p></td><td><p>Santo Antônio da Patrulha</p></td></tr><tr><td><p>SC</p></td><td><p>421130</p></td><td><p>Navegantes</p></td></tr><tr><td><p>SC</p></td><td><p>421720</p></td><td><p>São Miguel do Oeste</p></td></tr><tr><td><p>SE</p></td><td><p>280710</p></td><td><p>Simão Dias</p></td></tr><tr><td><p>SP</p></td><td><p>352040</p></td><td><p>Ilhabela</p></td></tr><tr><td><p>SP</p></td><td><p>354130</p></td><td><p>Presidente Epitácio</p></td></tr><tr><td><p>SP</p></td><td><p>354150</p></td><td><p>Presidente Venceslau</p></td></tr><tr><td><p>SP</p></td><td><p>354410</p></td><td><p>Rio Grande da Serra</p></td></tr><tr><td><p>SP</p></td><td><p>355450</p></td><td><p>Tietê</p></td></tr></table>

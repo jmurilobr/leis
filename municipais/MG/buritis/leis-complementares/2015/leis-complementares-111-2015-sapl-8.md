@@ -1,0 +1,918 @@
+---
+titulo: "Lei Complementar nº 111, de 06 de agosto de 2015"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "111"
+data: "2015-08-06"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/8"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/2292/text"
+sha256_fonte: "82796f30c582564d2be0286f7ab98b69e535a9889e6e7077e377c93b1958db16"
+sha256_texto: "f095700424ea0e5e46b0f2d9e9d3d5927a5424bd4044b38bdd6eeb49cf402cdf"
+capturado_em_fonte: "2026-10-27T19:57:41.021181-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 111, de 06 de agosto de 2015
+
+Dispõe sobre a elaboração, a redação, alteração das Leis, estabelece normas para a consolidação da Legislação Municipal - CLM, determina a atualização e institui diretrizes e procedimentos para a padronização das Leis e dá outras providências.
+
+
+O povo, por seus representantes, aprova e o Prefeito Municipal, sanciona a seguinte Lei:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+A elaboração, a redação, a alteração e a consolidação das leis obedecerão o disposto nesta Lei Complementar, observado, ainda, o disposto na Lei Complementar n.º 95, de 26 de fevereiro de 1998 e Lei Complementar n.º 107, de 26 de abril de 2001, bem como eventuais alterações impostas às referidas normas.
+
+
+§ 1º
+
+Para os efeitos desta Lei Complementar, entende-se por leis as emendas à Lei Orgânica, as leis complementares, as leis ordinárias e as resoluções, sendo sua remissão, neste texto legal equivalente a referidos significados.
+
+
+§ 2º
+
+As disposições desta Lei Complementar aplicam-se, no que couber, aos atos administrativos de competência do Prefeito, de que trata o art. 118 e seus respectivos desdobramentos da Lei Orgânica Municipal, às instruções de competência dos Secretários Municipais de que trata o art. 110 da Lei Orgânica Municipal, aos atos, portarias e normas de caráter regulamentador baixados pelo Presidente da Câmara, conforme o disposto no art. 82, 1, ,v", da Resolução n.º 094, de 22 de dezembro de 1998.
+
+
+Art. 2º.
+
+Na numeração das leis serão observados os seguintes critérios:
+
+
+I –
+
+as emendas à Lei Orgânica terão sua numeração iniciada a partir da promulgação da Lei Orgânica Municipal;
+
+
+II –
+
+as leis complementares, as leis ordinárias e as resoluções terão numeração seqüencial.
+
+
+#### CAPÍTULO II — DAS TÉCNICAS DE ELABORAÇÃO, REDAÇÃO E ALTERAÇÃO DAS LEIS
+
+
+##### Seção I — Da Estruturação das Leis
+
+
+Art. 3º.
+
+A lei será estruturada em três partes básicas:
+
+
+I –
+
+parte preliminar, compreendendo a epígrafe, a ementa, o preâmbulo, o enunciado do objeto e a indicação do âmbito de aplicação das disposições normativas;
+
+
+II –
+
+parte normativa, compreendendo o texto das normas de conteúdo substantivo relacionadas com a matéria regulada;
+
+
+III –
+
+parte final, compreendendo as disposições pertinentes às medidas necessárias à implementação das normas de conteúdo substantivo, às disposições transitórias, se foro caso, a cláusula de vigência e a cláusula de revogação, quando couber.
+
+
+Art. 4º.
+
+A epígrafe, grafada em caracteres maiúsculos, propiciará identificação numérica singular à lei e será formada pelo título designativo da espécie normativa, pelo número de ordem respectivo e pela data completa de promulgação.
+
+
+Art. 5º.
+
+A ementa será grafada por meio de caracteres que a realcem e explicitará, de modo conciso e sob a forma de título, o objeto da lei.
+
+
+§ 1º
+
+O realce de que trata o "caput" deste artigo será obtido por meio de recuo e espaço único conforme configuração prevista no art. 23, não admitindo-se o emprego de características gráficas diversas como aquelas em negrito ou itálico, observada sempre a melhor estética.
+
+
+§ 2º
+
+Empregar-se-á a expressão "e dá outras providências" na parte final ementa somente quando necessário para expressar que a lei, além da matéria principal contida no enunciado, tratará de outros assuntos no decorrer do texto legal.
+
+
+§ 3º
+
+Na hipótese da lei destinar-se a promover alteração de redação, acréscimo ou revogação, deverá incluir-se na ementa a referência à espécie normativa, propiciando identificação da epígrafe, bem assim a transcrição fiel da ementa da respectiva lei modificada.
+
+
+Art. 6º.
+
+O preâmbulo indicará a autoridade e o órgão ou instituição competente para a prática do ato e sua base legal, adotando-se como fórmula básica, no caso de lei ordinária ou complementar, a seguinte: "O PREFEITO DO MUNICÍPIO DE BURITIS, Estado de Minas Gerais, no uso da atribuição que lhe confere (fundamento legal), faz saber que a Câmara Municipal de Buritis decreta e ele, em seu nome, sanciona e promulga a seguinte (espécie normativa):
+
+
+§ 1º
+
+Aplicar-se-á a fórmula básica prevista no "caput" deste artigo somente no caso de sanção e promulgação pelo Prefeito, reservando-se à hipótese de promulgação por outras autoridades a forma própria e peculiar, respeitado, contudo, o padrão básico.
+
+
+§ 2º
+
+Para o emprego dos caracteres do preâmbulo, observar-se-á estritamente as regras contidas no art. 24 desta Lei Complementar.
+
+
+Art. 7º.
+
+O primeiro artigo do texto indicará o objeto da lei e o respectivo âmbito de aplicação, observados os seguintes princípios:
+
+
+I –
+
+excetuadas as codificações, cada lei tratará de um único objeto;
+
+
+II –
+
+a lei não conterá matéria estranha a seu objeto ou a este não vinculada por afinidade, pertinência ou conexão;
+
+
+III –
+
+o âmbito de aplicação da lei será estabelecido de forma tão específica quanto o possibilite o conhecimento técnico ou científico da área respectiva;
+
+
+IV –
+
+o mesmo assunto não poderá ser disciplinado por mais de uma lei, exceto quando a subsequente se destine a complementar lei considerada básica, vinculando-se a esta por remissão expressa.
+
+
+Art. 8º.
+
+O início da vigência da lei será indicado de forma expressa, garantindo-se, quando se fizer necessário, prazo razoável para que dela se tenha especialmente amplo conhecimento, reservando-se a cláusula, "esta lei entra em vigor na data de sua publicação" para as leis reputadas como de pequena repercussão.
+
+
+§ 1º
+
+A contagem do prazo para entrada em vigor das leis que estabeleçam período de vacância far-se-á com a inclusão da data da publicação e do último dia do prazo, entrando em vigor no dia subsequente à sua consumação integral.
+
+
+§ 2º
+
+As leis que estabeleçam período de vacância deverão utilizar a cláusula, esta lei entra em vigor após decorridos (o número de) dias de sua publicação.
+
+
+Art. 9º.
+
+A cláusula de revogação deverá enumerar, expressamente, as leis ou disposições legais revogadas.
+
+
+Parágrafo único
+
+A enumeração a que se refere o "caput" deste artigo far-se-á por meio de incisos ou desdobramentos subsequentes quando se tratar de mais de uma lei ou dispositivo a serem revogados.
+
+
+##### Seção II — Da Articulação e da Redação das Leis
+
+
+Art. 10.
+
+Os textos legais serão articulados com observância dos seguintes princípios:
+
+
+I –
+
+a unidade básica de articulação será o artigo, indicado pela abreviatura "Art.", seguida de numeração ordinal até o nono e cardinal, acompanhada de ponto, a partir deste, sendo que o seu texto inicia-se com letra maiúscula e termina com ponto ou, nos casos em que se desdobrar em incisos, com dois-pontos;
+
+
+II –
+
+os artigos desdobrar-se-ão em parágrafos ou em incisos; os parágrafos em incisos, os incisos em alíneas e as alíneas em itens;
+
+
+III –
+
+os parágrafos serão representados pelo sinal gráfico "§", seguido de numeração ordinal até o nono e cardinal, acompanhada de ponto, a partir deste, utilizando-se, quando existente apenas um, a expressão "parágrafo único" por extenso, sendo que o seu texto inicia-se com letra maiúscula e termina com ponto ou, nos casos em que se desdobrar em incisos, com dois-pontos;
+
+
+IV –
+
+os incisos serão representados por algarismos romanos seguidos de hífen, o qual é separado do algarismo e do texto por um espaço em branco, sendo que o texto inicia-se com letra minúscula, salvo quando se tratar de nome próprio, e termina com:
+
+
+a)
+
+ponto-e-vírgula;
+
+
+b)
+
+dois pontos, quando se desdobrar em alíneas; ou
+
+
+c)
+
+ponto, caso seja o último;
+
+
+V –
+
+as alíneas serão representadas por letras minúsculas seguindo o alfabeto e acompanhada de parêntese, sendo que o seu texto inicia-se com letra minúscula, salvo quando se tratar de nome próprio, e termina com:
+
+
+a)
+
+ponto-e-vírgula;
+
+
+b)
+
+dois pontos, quando se desdobrar em itens, ou
+
+
+c)
+
+ponto, caso seja a última e anteceda artigo ou parágrafo;
+
+
+VI –
+
+os itens serão representados por algarismos arábicos, seguidos de ponto, sendo que seu texto inicia-se com letra minúscula, salvo quando se tratar de nome próprio, e termina com:
+
+
+a)
+
+ponto-e-vírgula; ou
+
+
+b)
+
+ponto, caso seja o último e anteceda artigo ou parágrafo;
+
+
+VII –
+
+o agrupamento de artigos poderá constituir Subseções; o de Subseções, а Seção; o de Seções, o Capítulo; o de Capítulos, o Título; o de Títulos, o Livro e o de Livros, а Parte;
+
+
+VIII –
+
+os Capítulos, Títulos, Livros e Partes serão grafados em letras maiúsculas e identificados por algarismos romanos, podendo estas últimas desdobrar-se em Parte Geral e Parte Especial ou ser subdivididas em partes expressas em numeral ordinal, por extenso, sendo grafados de forma centralizada;
+
+
+IX –
+
+as Subseções e Seções serão identificadas em algarismos romanos, grafada sem letras minúsculas, postas em negrito e de forma centralizada;
+
+
+X –
+
+a composição prevista no inciso VII podem também compreender agrupamento sem Disposições Preliminares, Gerais, Finais ou Transitórias, conforme necessário;
+
+
+XI –
+
+a composição a que se refere o inciso VII c/c o X poderá ser acompanhada do respectivo título designativo do agrupamento, precedido das expressões, "Da (s), Do (s)" ou equivalentes.
+
+
+Art. 11.
+
+As disposições normativas serão redigidas com clareza, precisão e ordem lógica, observadas, para esse propósito, as seguintes normas:
+
+
+I –
+
+para a obtenção de clareza:
+
+
+a)
+
+usar as palavras e as expressões em seu sentido comum, salvo quando a norma versar sobre assunto técnico, hipótese em que se empregará a nomenclatura própria da área em que se esteja legislando;
+
+
+b)
+
+usar frases curtas e concisas;
+
+
+c)
+
+construir as orações na ordem direta, evitando preciosismo, neologismo e adjetivações dispensáveis;
+
+
+d)
+
+buscar a uniformidade do tempo verbal em todo o texto das normas legais, dando preferência ao tempo presente ou ao futuro simples do presente;
+
+
+e)
+
+usar os recursos de pontuação de forma judiciosa, evitando os abusos de caráter estilístico;
+
+
+II –
+
+para a obtenção de precisão:
+
+
+a)
+
+articular a linguagem, técnica ou comum, de modo a ensejar perfeita compreensão do objetivo da lei e a permitir que seu texto evidencie com clareza o conteúdo eo alcance que o legislador pretende dar à norma;
+
+
+b)
+
+expressar a idéia, quando repetida no texto, por meio das mesmas palavras, evitando o emprego de sinonímia com propósito meramente estilísticо;
+
+
+c)
+
+evitar o emprego de expressão ou palavra que confira duplo sentido ao texto;
+
+
+d)
+
+escolher termos que tenham o mesmo sentido e significado na maior parte do território nacional, evitando o uso de expressões locais ou regionais;
+
+
+e)
+
+usar apenas siglas consagradas pelo uso, observado o princípio de que а primeira referência no texto seja acompanhada de explicitação de seu significado;
+
+
+f)
+
+grafar por extenso quaisquer referências a números e percentuais, exceto data, número de lei e nos casos em que houver prejuízo para a compreensão do texto;
+
+
+g)
+
+indicar, expressamente o dispositivo objeto de remissão, em vez de usar as expressões, anterior", seguinte" ou equivalentes;
+
+
+h)
+
+utilizar as conjunções "e" ou "ou" no penúltimo inciso, alínea ou item, conforme a seqüência de dispositivos seja, respectivamente, cumulativa ou disjuntiva;
+
+
+i)
+
+grafar a remissão aos atos normativos das seguintes formas:
+
+
+1
+
+Lei n.º 8.112, de 11 de dezembro de 1990, na ementa, no preâmbulo, na primeira remissão e na clausula de revogação; e,
+
+
+2
+
+Lei n.º 8.112, de 11/12/1990, Lei n.º 8.112, de 1990 ou Lei n.º 8.112/90, nos demais casos;
+
+
+3
+
+A bem da uniformidade, evitar-se-á o emprego de diferentes formas de referência abreviada de atos normativos num mesmo texto legal, optando-se por uma das indicadas no item 2 desta alínea.
+
+
+III –
+
+para a obtenção de ordem lógica:
+
+
+a)
+
+reunir sob as categorias de agregação - subseção, seção, capítulo, título e livro - apenas as disposições relacionadas com o objeto da lei;
+
+
+b)
+
+restringir o conteúdo de cada artigo da lei a um único assunto ou princípio;
+
+
+c)
+
+expressar por meio dos parágrafos os aspectos complementares à norma enunciada no caput do artigo e as exceções à regra por este estabelecida;
+
+
+d)
+
+promover as discriminações e enumerações por meio dos incisos, alíneas e itens.
+
+
+##### Seção III — Da Alteração das Leis
+
+
+Art. 12.
+
+A alteração da lei será feita:
+
+
+I –
+
+mediante reprodução integral em novo texto, quando se tratar de alteração considerável;
+
+
+II –
+
+mediante revogação parcial;
+
+
+III –
+
+nos demais casos, por meio de substituição, no próprio texto, do dispositivo alterado, ou acréscimo de dispositivo novo, observadas as seguintes regras:
+
+
+a)
+
+é vedada, mesmo quando recomendável qualquer renumeração de artigos e de unidades superiores ao artigo, referidas no inciso VII do art. 10, devendo ser utilizado o mesmo número do artigo ou unidade imediatamente anterior, seguido de letras maiúsculas, em ordem alfabética, tantas quantas forem suficientes para identificar os acréscimos, separados por hífen (Exemplo: "Art. 1º-A.", "Art. 15-B.", “Seção I-A., Capítulo II-C.";
+
+
+b)
+
+é vedado o aproveitamento do número de dispositivo revogado, vetado, declarado inconstitucional pelo Tribunal de Justiça de Minas Gerais - TJMG, devendo a lei alterada manter essa indicação, seguida da expressão "revogado", "vetado", "declarado inconstitucional pelo TJMG";
+
+
+c)
+
+é admissível a reordenação interna das unidades em que se desdobra o artigo, identificando-se o artigo assim modificado por alteração de redação, supressão ou acréscimo com as letras "NR" maiúsculas, entre parênteses, uma única vez ao seu final, obedecidas, quando for o caso, as prescrições da alínea "b";
+
+
+d)
+
+é permitida a renumeração de parágrafos, incisos, alíneas e itens, desde que seja inconveniente ou impertinente o acréscimo da nova unidade ao final da seqüência.
+
+
+§ 1º
+
+A lei que alterar significativamente diploma normativo já existente conterá artigo determinando a republicação do diploma normativo alterado, com as modificações nele realizadas desde a sua entrada em vigor, observada as regras de atualização e republicação, sendo o aludido artigo consignado ao final do texto legal, antes das cláusulas de vigência е revogação, esta última se houver, reservando-se prazo razoável para a nova publicação.
+
+
+§ 2º
+
+Quando se tratar de projeto de alteração de redação ou de acréscimo, este propiciará realce dos dispositivos alterados e/ou acrescentados, que será obtido por meio de formatação, entre aspas, com o emprego de caracteres em itálico e de linha (s) pontilhada (s), estas últimas para indicar a omissão do texto, conforme cada caso, reservando-se à lei oriunda do projeto somente a consignação de aspas e linha (s) pontilhada (s), mantendo-se os caracteres em sua forma normal, sem itálico, figurando, todavia, os destaques próprios.
+
+
+§ 3º
+
+O termo "dispositivo" mencionado nesta Lei Complementar refere-se a artigos, parágrafos, incisos, alíneas ou itens.
+
+
+#### CAPÍTULO III — DA ATUALIZAÇÃO DAS LEIS
+
+
+Art. 13.
+
+Observados os respectivos âmbitos de competências, os Poderes Legislativo e Executivo farão disponibilizar versões atualizadas das leis de modo a consubstanciar o texto respectivo, especialmente quando as alterações promovidas ao diploma normativo matriz forem consideráveis ou em periodicidade anual, ao final de cada sessão legislativa.
+
+
+§ 1º
+
+A disponibilização de que trata o "caput" poderá ser feita por meio "on-line" nas páginas respectivas na Internet, bem como através de recurso ou programa de Informática ou ainda edição de expedientes impressos, hipóteses estas que não prejudica ou substitui o texto original regularmente publicado, podendo ser procedida a republicação, sendo esta obrigatória no caso do disposto no § 1º do art. 12 desta Lei Complementar.
+
+
+§ 2º
+
+Na hipótese da disponibilização em periodicidade anual, os Poderes Legislativo ou Executivo observado os âmbitos respectivos de competências, editarão versões atualizadas, preferencialmente, da Lei Orgânica do Município de Buritis, Regimento Interno da Câmara Municipal de Buritis, bem assim de outros diplomas legislativos de maior repercussão, inclusive os Códigos e Estatutos Municipais, incorporando ao texto matriz as alterações posteriores promovidas, sendo estas remetidas em nota de rodapé indicando a espécie normativa epigrafada respectiva.
+
+
+§ 3º
+
+Observados os critérios para a alteração das leis, as versões atualizadas indicarão, entre parênteses, a respectiva lei que promoveu alteração de redação, acréscimo ou revogação, considerados os seguintes procedimentos, ressalvados estes para o previsto no § 2º deste artigo:
+
+
+I –
+
+na hipótese de alteração de redação, grafar a seguinte expressão em coloração distinta da do texto matriz ou caracteres realçados: (Redação dada pela - indicar a espécie normativa epigrafada correspondente);
+
+
+II –
+
+Na hipótese de acréscimo, grafar a seguinte expressão em coloração distinta da do texto matriz ou caracteres realçados: (especificar o dispositivo adicionado - Incluído pela - indicar a espécie normativa epigrafada correspondente);
+
+
+III –
+
+Na hipótese de revogação, grafar a seguinte expressão em coloração distinta da do texto matriz ou caracteres realçados (especificar o dispositivo revogado - Revogado pela - indicar a espécie normativa epigrafada correspondente).
+
+
+§ 4º
+
+O Poder Executivo em conjunto com o Poder Legislativo, para fins de atualização, manterão banco informatizado das leis, acessível à população por meio da Internet, contendo, basicamente, os seguintes elementos:
+
+
+I –
+
+o texto atualizado da Lei Orgânica do Município e do Regimento Interno da Câmara bem como das leis municipais especialmente as de maior repercussão; e,
+
+
+II –
+
+a organização temática da legislação municipal.
+
+
+#### CAPÍTULO IV — DA REPUBLICAÇÃO DAS LEIS
+
+
+Art. 14.
+
+A republicação das leis far-se-á na hipótese de edição de versão atualizada de lei alterada, observadas as regras relativas à atualização previstas no Capítulo III e seus desdobramentos, e no caso de erros materiais, inclusive de digitação, configuração e padronização, cujos lapsos deverão ser suscitados mediante manifestação de qualquer dos Poderes do Município, observados os seguintes critérios:
+
+
+§ 1º
+
+A Lei republicada, em quaisquer hipóteses, deverá trazer indicação, a ser consignada abaixo da epígrafe, de forma centralizada e sem negrito ou itálico, entre parênteses, contendo os seguintes dizeres: "Republicada em... (data completa), preservando-se, contudo, a data e respectivo número de ordem insertos na epígrafe original".
+
+
+§ 2º
+
+Se, antes de entrar a lei em vigor, ocorrer a republicação, destinada a correção, o prazo de vigência começará a correr da nova publicação.
+
+
+§ 3º
+
+A cláusula de vigência permanecerá na forma original, mas inserindo-se após a palavra "publicação" a expressão "original" ressalvada o caso do disposto no § 2º deste artigo e observado o prescrito pelo § 6º quanto aos efeitos gerados.
+
+
+§ 4º
+
+Os erros materiais sanados deverão ser explicitados no texto mediante o emprego das letras "RC" correspondente à redação corrigida, cuja sigla será empregada mediante caracteres maiúsculos, entre parênteses, ao final do dispositivo ou agrupamento corrigido.
+
+
+§ 5º
+
+Cada um dos Poderes do Município manterão exemplares das leis publicadas.
+
+
+§ 6º
+
+A republicação, em quaisquer hipóteses, não alterará a essência da lei original, salvo no caso de erros significativos a ponto de afetar a essência do texto legal, quando os efeitos passarão a ser gerados a partir da data da nova publicação, respeitados, contudo, o ato jurídico perfeito, o direito adquirido e a coisa julgada.
+
+
+#### CAPÍTULO V — DA CONSOLIDAÇÃO DA LEGISLAÇÃO MUNICIPAL-CLM
+
+
+Art. 15.
+
+Fica definida a Consolidação da Legislação Municipal, identificada pela sigla "CLM", observado no que couber, as normas disciplinadoras da Consolidação da Legislação Federal.
+
+
+Art. 16.
+
+A Consolidação da Legislação Municipal - CLM, consiste em eliminar eventuais divergências, colisões ou repetições, e, assim, conferir unidade, simplicidade coerência ao ordenamento que comporta os diplomas municipais.
+
+
+Art. 17.
+
+As leis municipais serão reunidas em codificações e consolidações, integradas por volumes contendo matérias conexas ou afins, constituindo em seu todo a Consolidação da Legislação Municipal - CLM.
+
+
+§ 1º
+
+A consolidação consistirá na integração de todas as leis pertinentes a determinada matéria num único diploma legal, revogando-se formalmente as leis incorporadas à consolidação, sem modificação do alcance nem interrupção da força normativa dos dispositivos consolidados.
+
+
+§ 2º
+
+Preservando-se o conteúdo normativo original dos dispositivos consolidados, poderão ser feitas as seguintes alterações nos projetos de lei de consolidação:
+
+
+I –
+
+introdução de novas divisões do texto legal base;
+
+
+II –
+
+diferente colocação e numeração dos artigos consolidados;
+
+
+III –
+
+fusão de disposições repetitivas ou de valor normativo idêntico;
+
+
+IV –
+
+atualização de denominação de órgãos e entidades da administração pública;
+
+
+V –
+
+atualização de termos antiquados e modos de escrita ultrapassados;
+
+
+VI –
+
+atualização do valor de penas pecuniárias, com base em indexação padrão;
+
+
+VII –
+
+eliminação de ambigüidades decorrentes do mau uso do vernáculo;
+
+
+VIII –
+
+homogeneização terminológica do texto;
+
+
+IX –
+
+indicação de dispositivos não recepcionados pela Constituição Federal;
+
+
+X –
+
+declaração expressa de revogação de dispositivos implicitamente revogados por leis posteriores.
+
+
+§ 3º
+
+As providências a que se referem os incisos IX e X do § 2º deverão ser expressa e fundamentalmente justificadas, com indicação precisa das fontes de informação que Ihes serviram de base.
+
+
+Art. 18.
+
+Para a consolidação de que trata o art. 17, serão observados os seguintes procedimentos:
+
+
+I –
+
+O Poder Executivo ou o Poder Legislativo procederão ao levantamento da legislação municipal em vigor e formulará projeto de lei de consolidação de normas que tratem da mesma matéria ou de assuntos a ela vinculados, com a indicação precisa dos diplomas legais expressa ou implicitamente revogados;
+
+
+II –
+
+a apreciação dos projetos de lei de consolidação pela Câmara Municipal será feito na forma do Regimento Interno, em procedimento simplificado, visando a dar celeridade aos trabalhos;
+
+
+Parágrafo único
+
+Observado o disposto no inciso II do caput, será também admitido projeto de lei de consolidação destinado exclusivamente à:
+
+
+I –
+
+declaração de revogação de leis e dispositivos implicitamente revogados ou cuja eficácia ou validade encontre-se completamente prejudicada;
+
+
+II –
+
+inclusão de dispositivos ou diplomas esparsos em leis preexistentes, revogando-se as disposições assim consolidadas nos termos do § 1º do art. 17.
+
+
+Art. 19.
+
+Na primeira sessão legislativa ordinária de cada legislatura, a Mesa da Câmara Municipal promoverá a atualização da Consolidação das Leis Municipais, incorporando às coletâneas que a integram as emendas à Lei Orgânica Municipal, leis e resoluções promulgadas durante a legislatura imediatamente anterior, ordenados e indexados sistematicamente.
+
+
+Art. 20.
+
+A Câmara Municipal em conjunto com a Prefeitura de Buritis diligenciará ações no sentido de publicar um manual, contendo as ementas de todas as leis ordinárias em vigência no Município.
+
+
+#### CAPÍTULO VI — DAS DIRETRIZES E PROCEDIMENTOS PARA PADRONIZAÇÃO DAS LEIS
+
+
+Art. 21.
+
+Para fins de padronização, a impressão das leis será feita exclusivamente em Padrão de Informática Word, em papel timbrado, formato "A4", numeradas seqüencialmente a partir da segunda página, em algarismos arábicos, no final da página (rodapé), centralizado, sem traços, pontos ou parênteses, contendo a rubrica da respectiva autoridade.
+
+
+Parágrafo único
+
+Para efeito do "caput", havendo anexos, suas páginas devem ser numeradas de maneira contínua e sua paginação deve dar prosseguimento a do texto principal.
+
+
+Art. 22.
+
+Para efeito de alinhamento, não deve haver barras, travessões, hífens, asteriscos e sinais gráficos diversos dos permitidos nesta Lei Complementar, sendo obrigatória a utilização da fonte Times New Roman, tamanho "12", espaçamento simples entre linhas e duplo entre os agrupamentos superiores ao artigo e as unidades em que este se desdobra, inclusive entre tais agrupamentos e os respectivos títulos designativos, observado recuo de 2,5 cm da primeira linha de cada dispositivo em relação à margem esquerda.
+
+
+Art. 23.
+
+As margens devem permitir encadernação e conter as seguintes medidas:
+
+
+I –
+
+margem esquerda: 2,5 cm;
+
+
+II –
+
+margem direita: 1,5 cm;
+
+
+III –
+
+margem superior: 4,0 cm;
+
+
+IV –
+
+margem inferior: 2,5 cm;
+
+
+V –
+
+medianiz: 0 cm;
+
+
+VI –
+
+cabeçalho: 1,0 cm;
+
+
+VII –
+
+rodapé: 1,0 cm.
+
+
+Art. 24.
+
+A epígrafe, observado o disposto no art. 4º, deve ser centralizada, sem negrito e manter a distância de 5 cm da borda da folha.
+
+
+Art. 25.
+
+A ementa, observado o disposto no art. 5°, deverá ter espaço de 8 cm da margem esquerda e alinhada à direita e uma distância de 2 cm para com a epígrafe e 1,5 cm para com o nome da autoridade, esta última inserida no preâmbulo.
+
+
+Art. 26.
+
+Na parte do preâmbulo, observado o disposto no art. 6º, o nome da autoridade deve ser grafado em caixa alta e negrito seguido de vírgula e sua fundamentação legal.
+
+
+Art. 27.
+
+A ordem de execução, quando houver, será grafado em caixa alta e negrito ou com dois espaços em branco entre as respectivas letras, sempre em maiúsculas: "DECRETA" ou "RESOLVE".
+
+
+Art. 28.
+
+No texto normativo, observada a exceção a que se refere a alínea "f" do inciso II do art. 11, as datas devem ser grafadas sem o numeral zero à esquerda: 3 de (mês) de (ano), e quanto ao primeiro dia será grafado em ordinal: 1º de (mês) de (ano); quando cabível o uso abreviado da data, evitar-se-á o uso do zero à esquerda do número, salvo quando referente ao ano, bem assim do símbolo de ordinal (Exemplo: 1/6/04, 2/11/04 e não 01º/06/04 ou 08/11/04), recomendando-se, todavia, o emprego somente de barra (Exemplo: 1/6/04 e não 1.6.04 ou 1-6-04).
+
+
+Parágrafo único
+
+Ao contrário do número de leis, a indicação do ano não deve conter ponto entre as casas do milhar e da centena: 1991, 1992, 2001, 2002 etc.
+
+
+Art. 29.
+
+A partir da segunda página de documentos previamente numerados е seus anexos deverá haver no alto da folha a 2,5 cm do texto, alinhado à esquerda, o seguinte cabeçalho: Fl. (indicar o número), documento (indicar o número) e a data reduzida.
+
+
+Art. 30.
+
+Quando necessário serão utilizados as seguintes siglas para determinar as leis e as correspondentes proposições originais, bem assim atos administrativos ou normativos:
+
+
+I –
+
+ELOM: Emenda à Lei Orgânica do Município e PELOM: Proposta de Emenda à Lei Orgânica do Município;
+
+
+II –
+
+LC: Lei Complementar e PLC: Projeto de Lei Complementar;
+
+
+III –
+
+LO: Lei Ordinária e PL: Projeto de Lei Ordinária;
+
+
+IV –
+
+RE: Resolução e PRE: Projeto de Resolução;
+
+
+V –
+
+MS: Mensagem;
+
+
+VI –
+
+POE: Portaria do Executivo;
+
+
+VII –
+
+POL: Portaria do Legislativo;
+
+
+VIII –
+
+DEN: Decreto Numerado do Executivo;
+
+
+IX –
+
+DES: Decreto Sem Número do Executivo;
+
+
+X –
+
+PRF: Parecer de Redação Final;
+
+
+XI –
+
+PR: Parecer;
+
+
+XII –
+
+RQ: Requerimento;
+
+
+XIII –
+
+MR: Moção de Regozijo;
+
+
+XIV –
+
+MC: Moção de Congratulação;
+
+
+XV –
+
+MPS: Moção de Pesar;
+
+
+XVI –
+
+MPT: Moção de Protesto;
+
+
+XVII –
+
+ID: Indicação;
+
+
+XVIII –
+
+RE: Recurso;
+
+
+XIX –
+
+EM: Emenda;
+
+
+XX –
+
+SE: Subemenda;
+
+
+XXI –
+
+SB: Substitutivo; e,
+
+
+XXII –
+
+RP: Representação.
+
+
+Art. 31.
+
+O fecho deve contera data completa, seguida em ponto-e-vírgula e do ano correspondente à idade da Instalação do Município de Buritis, grafado em número ordinal, seguindo-se a assinatura e identificação do signatário competente, grafada por meio de caracteres maiúsculos sem negrito ou itálico, centralizada e com espaçamento de 2,5 cm para cada assinante.
+
+
+Art. 32.
+
+Em se tratando das proposições que inclui-se no processo legislativo, por extensão do conceito de proposição, definidas no art. 173, § 1º e seus respectivos incisos da Resolução n.º 094, de 22 de dezembro de 1998, como requerimentos, moções, indicações etc., adotar-se-á o que prevê este Capítulo VI, no que couber, bem como o espaçamento de 6 cm entre a autoridade competente e o texto da proposição a ser utilizado para o despacho e, ainda, será necessária a anexação de nome completo, cargo e endereço do destinatário.
+
+
+#### CAPÍTULO VII — DISPOSIÇÕES FINAIS
+
+
+Art. 33.
+
+Eventual inexatidão formal de norma elaborada mediante processo legislativo regular não constitui escusa válida para o seu descumprimento.
+
+
+Art. 34.
+
+Fica o Chefe do Poder Executivo autorizado a baixar decreto para regulamentar esta Lei Complementar, inclusive o processo de Consolidação da Legislação Municipal - CLM.
+
+
+Art. 35.
+
+Esta Lei Complementar entra em vigor na data de sua publicação.
+
+
+Buritis, 06 de Agosto de 2015.
+
+**JOÃO JOSÉ ALVES DE SOUZA Prefeito de Buritis-MG.**
+

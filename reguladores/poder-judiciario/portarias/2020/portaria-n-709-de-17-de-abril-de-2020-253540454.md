@@ -1,0 +1,44 @@
+---
+titulo: "PORTARIA Nº 709, DE 17 DE ABRIL DE 2020"
+orgao: "Poder Judiciário/Tribunal de Justiça do Distrito Federal e dos Territórios/Presidência"
+tipo: "Portaria"
+numero: "709"
+data: 2020-04-17
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/04/2020, seção 1, p. 88"
+data_publicacao: 2020-04-23
+edicao: "77"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-709-de-17-de-abril-de-2020-253540454"
+sha256_html_fonte: ddcb51270eaa2b1b2133ea73404547a7d2b3409f8f370bc284483c70f16b0776
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 709, DE 17 DE ABRIL DE 2020
+
+PORTARIA Nº 709, DE 17 DE ABRIL DE 2020
+
+O PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E TERRITÓRIOS, no uso de sua competência legal, com fundamento no parágrafo único do artigo 24 da Lei n. 11.416, de 15 de dezembro de 2006, publicada no Diário Oficial da União, Seção 1, do dia 19 de dezembro de 2006, tendo em vista o contido no PA n. 6198/2020, resolve:
+
+**Art. 1º** Transformar/Remanejar os Cargos em Comissão e Função Comissionada abaixo relacionados, conforme quadro a seguir:
+
+<table><tr></tr><tr><td><p>Item</p></td><td><p>Sequencial</p></td><td><p>Nível CJ/FC Origem</p></td><td><p>Descrição CJ/FC Origem</p></td><td><p>Local. CJ/FC Origeml</p></td><td><p>Nível CJ/FC - Destino</p></td><td><p>Descrição CJ/FC- Destino.</p></td><td><p>Local CJ/FC. Destino.</p></td></tr><tr><td><p>1</p></td><td><p>5442</p></td><td><p>CJ-01</p></td><td><p>Assessor</p></td><td><p>Gabinete da Corregedoria</p></td><td><p>CJ-01</p></td><td><p>Assessor</p></td><td><p>Coordenadoria de Sistemas e Estatísticas da 1ª Instância</p></td></tr><tr><td><p>2</p></td><td><p>5441</p></td><td><p>CJ-01</p></td><td><p>Assessor</p></td><td><p>Gabinete da Corregedoria</p></td><td><p>CJ-01</p></td><td><p>Assessor</p></td><td><p>Assessoria da Secretaria Geral da Corregedoria</p></td></tr><tr><td><p>3</p></td><td><p>5440</p></td><td><p>CJ-01</p></td><td><p>Assessor</p></td><td><p>Gabinete da Corregedoria</p></td><td><p>CJ-01</p></td><td><p>Assessor</p></td><td><p>Núcleo de Audiência de Custódia</p></td></tr><tr><td><p>4</p></td><td><p>5425</p></td><td><p>CJ-02</p></td><td><p>Assessor</p></td><td><p>Gabinete da Corregedoria</p></td><td><p>CJ-02</p></td><td><p>Assessor</p></td><td><p>Secretaria Geral da Corregedoria</p></td></tr><tr><td><p>5</p></td><td><p>5445</p></td><td><p>CJ-01</p></td><td><p>Assessor</p></td><td><p>Gabinete da Corregedoria</p></td><td><p>CJ-01</p></td><td><p>Assessor</p></td><td><p>Núcleo Permanente de Leilões Judiciais</p></td></tr><tr><td><p>6</p></td><td><p>5765</p></td><td><p>CJ-02</p></td><td><p>Assessor</p></td><td><p>Gabinete da Corregedoria</p></td><td><p>CJ-02</p></td><td><p>Assessor</p></td><td><p>Núcleo de Audiência de Custódia</p></td></tr><tr><td><p>7</p></td><td><p>3014</p></td><td><p>CJ-03</p></td><td><p>Assessor</p></td><td><p>Gabinete da Corregedoria</p></td><td><p>CJ-03</p></td><td><p>Assessor</p></td><td><p>Assessoria Jurídica da Corregedoria</p></td></tr><tr><td><p>8</p></td><td><p>2106</p></td><td><p>CJ-03</p></td><td><p>Assessor</p></td><td><p>Gabinete da Corregedoria</p></td><td><p>CJ-03</p></td><td><p>Assessor</p></td><td><p>Assessoria Jurídica da Corregedoria</p></td></tr><tr><td><p>9</p></td><td><p>5762</p></td><td><p>CJ-03</p></td><td><p>Assessor</p></td><td><p>Gabinete da Corregedoria</p></td><td><p>CJ-03</p></td><td><p>Secretário</p></td><td><p>Secretaria de Contas Judiciais</p></td></tr><tr><td><p>10</p></td><td><p>5398</p></td><td><p>CJ-02</p></td><td><p>Assessor</p></td><td><p>Assessoria Jurídica da Corregedoria</p></td><td><p>CJ-02</p></td><td><p>Assessor</p></td><td><p>Gabinete da Corregedoria</p></td></tr><tr><td><p>11</p></td><td><p>3396</p></td><td><p>CJ-02</p></td><td><p>Assessor</p></td><td><p>Assessoria Administrativa da Secretaria Geral da Corregedoria</p></td><td><p>CJ-02</p></td><td><p>Assessor</p></td><td><p>Secretaria de Administração de Mandados e Guarda de Bens Judiciais</p></td></tr><tr><td><p>12</p></td><td><p>5438</p></td><td><p>CJ-02</p></td><td><p>Secretário</p></td><td><p>Secretaria de Contas Judiciais</p></td><td><p>CJ-02</p></td><td><p>Assessor</p></td><td><p>Gabinete da Secretaria Geral da Corregedoria</p></td></tr><tr><td><p>13</p></td><td><p>3978</p></td><td><p>FC-05</p></td><td><p>FC-05</p></td><td><p>Secretaria Geral da Corregedoria</p></td><td><p>FC-05</p></td><td><p>FC-05</p></td><td><p>Coordenadoria de Apoio Extraordinário</p></td></tr></table>
+
+**Art. 2º** Agregar os valores dos Cargos em Comissão abaixo relacionados, conforme quadro a seguir:
+
+<table><tr></tr><tr><td><p>item</p></td><td><p>código CJ</p></td><td><p>nível CJ</p></td><td><p>descrição CJ</p></td><td><p>Localização CJ</p></td><td><p>valor R$</p></td></tr><tr><td><p>1</p></td><td><p>5411</p></td><td><p>CJ-02</p></td><td><p>Assessor</p></td><td><p>Secretaria de Recursos Humanos</p></td><td><p>R$ 11.382,88</p></td></tr><tr><td><p>2</p></td><td><p>5429</p></td><td><p>CJ-02</p></td><td><p>Assessor</p></td><td><p>Secretaria Geral do Tribunal de Justiça do Distrito Federal e dos Territórios</p></td><td><p>R$ 11.382,88</p></td></tr><tr><td><p>3</p></td><td><p>5399</p></td><td><p>CJ-02</p></td><td><p>Assessor Jurídico</p></td><td><p>Assessoria Jurídica da Corregedoria</p></td><td><p>R$ 11.382,88</p></td></tr><tr><td><p>4</p></td><td><p>5409</p></td><td><p>CJ-02</p></td><td><p>Assessor</p></td><td><p>Gabinete da Corregedoria</p></td><td><p>R$ 11.382,88</p></td></tr><tr><td><p>saldo decorrente do aproveitamento de valores, efetuado conforme artigo 7ºda Portaria GPR n. 301, de 17/02/2020, publicada no DOU de 19/02/2020, Seção 1, fls. 165.</p></td><td><p>R$ 1.205,54</p></td></tr><tr><td><p>Total</p></td><td><p>R$ 46.737,06</p></td></tr></table>
+
+**Art. 3º** Utilizar o valor total especificado no artigo 2º para criação dos Cargos em Comissão abaixo relacionados, destinando-os conforme quadro a seguir:
+
+<table><tr></tr><tr><td><p>item</p></td><td><p>nível CJ</p></td><td><p>descrição CJ</p></td><td><p>Localização CJ</p></td><td><p>valor R$</p></td></tr><tr><td><p>1</p></td><td><p>CJ-01</p></td><td><p>Assessor</p></td><td><p>Gabinete da Corregedoria</p></td><td><p>R$ 9.216,74</p></td></tr><tr><td><p>2</p></td><td><p>CJ-01</p></td><td><p>Assessor</p></td><td><p>Gabinete da Corregedoria</p></td><td><p>R$ 9.216,74</p></td></tr><tr><td><p>3</p></td><td><p>CJ-01</p></td><td><p>Assessor</p></td><td><p>Assessoria Jurídica da Corregedoria</p></td><td><p>R$ 9.216,74</p></td></tr><tr><td><p>4</p></td><td><p>CJ-01</p></td><td><p>Assessor</p></td><td><p>Gabinete da Secretaria Geral da Corregedoria</p></td><td><p>R$ 9.216,74</p></td></tr><tr><td><p>5</p></td><td><p>CJ-01</p></td><td><p>Assessor</p></td><td><p>Coordenadoria de Apoio Extraordinário</p></td><td><p>R$ 9.216,74</p></td></tr><tr><td><p>TOTAL</p></td><td><p>R$ 46.083,70</p></td></tr><tr><td><p>SALDO</p></td><td><p>R$ 653,36</p></td></tr></table>
+
+**Art. 4º** Agregar os valores das Funções Comissionadas abaixo relacionados, conforme quadro a seguir:
+
+<table><tr></tr><tr><td><p>item</p></td><td><p>código FC</p></td><td><p>nível FC</p></td><td><p>descrição FC</p></td><td><p>Localização FC</p></td><td><p>valor R$</p></td></tr><tr><td><p>1</p></td><td><p>4402</p></td><td><p>FC-01</p></td><td><p>FC-01</p></td><td><p>Gabinete da Corregedoria</p></td><td><p>R$ 1.019,17</p></td></tr><tr><td><p>2</p></td><td><p>2486</p></td><td><p>FC-03</p></td><td><p>FC-03</p></td><td><p>Gabinete da Corregedoria</p></td><td><p>R$ 1.379,07</p></td></tr><tr><td><p>3</p></td><td><p>4382</p></td><td><p>FC-03</p></td><td><p>FC-03</p></td><td><p>Gabinete da Corregedoria</p></td><td><p>R$ 1.379,07</p></td></tr><tr><td><p>4</p></td><td><p>1190</p></td><td><p>FC-05</p></td><td><p>FC-05</p></td><td><p>Assessoria Administrativa da Secretaria Geral da Corregedoria</p></td><td><p>R$ 2.232,38</p></td></tr><tr><td><p>Total</p></td><td><p>R$ 6.009,69</p></td></tr></table>
+
+**Art. 5º** Utilizar o valor total especificado no artigo 4º para criação das Funções Comissionadas abaixo relacionados, destinando-os conforme quadro a seguir:
+
+<table><tr></tr><tr><td><p>item</p></td><td><p>nível FC</p></td><td><p>descrição FC</p></td><td><p>Localização FC</p></td><td><p>valor R$</p></td></tr><tr><td><p>1</p></td><td><p>FC-04</p></td><td><p>FC-04</p></td><td><p>Assessoria Administrativa da Secretaria Geral da Corregedoria</p></td><td><p>R$ 1.939,89</p></td></tr><tr><td><p>2</p></td><td><p>FC-04</p></td><td><p>FC-04</p></td><td><p>Assessoria Administrativa da Secretaria Geral da Corregedoria</p></td><td><p>R$ 1.939,89</p></td></tr><tr><td><p>3</p></td><td><p>FC-04</p></td><td><p>FC-04</p></td><td><p>Núcleo de Estatística da Primeira Instância</p></td><td><p>R$ 1.939,89</p></td></tr><tr><td><p>TOTAL</p></td><td><p>R$ 5.819,67</p></td></tr><tr><td><p>SALDO</p></td><td><p>R$ 190,02</p></td></tr></table>
+
+**Art. 6º** Esta Portaria entra em vigor na data de sua publicação.
+
+Des. ROMEU GONZAGA NEIVA

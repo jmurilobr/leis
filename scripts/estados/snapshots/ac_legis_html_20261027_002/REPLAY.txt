@@ -1,0 +1,5 @@
+Executar na raiz do repositório com Python 3.10+ e requirements.txt nas versões fixadas. Nenhuma rede no QA.
+PYTHONPATH=scripts/bin/qa-20261027/python:scripts/estados/snapshots/ac_legis_html_20261027_002 python3 -m unittest discover -s scripts/estados/snapshots/ac_legis_html_20261027_002 -p "test_*.py"
+python3 scripts/estados/snapshots/ac_legis_html_20261027_002/reexecutar_legis_ac.py --manifesto scripts/estados/manifestos/ac440-proposta-privada-20261027-001.json --hashes estaduais/AC/_fonte/auditorias/ac440-privado-20261027-001/final/hashes.json --recibo CAMINHO_PRIVADO_NOVO.json
+python3 scripts/estados/snapshots/ac_legis_html_20261027_002/promover_legis_ac_privado.py --manifesto scripts/estados/manifestos/ac440-proposta-privada-20261027-001.json --hashes estaduais/AC/_fonte/auditorias/ac440-privado-20261027-001/final/hashes.json --total-esperado 440 --controle estaduais/AC/_fonte/auditorias/CONTROLE_NOVO
+Runner somente dry-run por padrão. --apply --confirmar-root ROOT reservado ao coordenador ROOT após replay independente. Não executar Git de escrita.

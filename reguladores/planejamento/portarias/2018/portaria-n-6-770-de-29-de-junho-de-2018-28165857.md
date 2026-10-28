@@ -1,0 +1,34 @@
+---
+titulo: "PORTARIA Nº 6.770, DE 29 DE JUNHO DE 2018"
+orgao: "Ministério do Planejamento, Desenvolvimento e Gestão/Secretaria do Patrimônio da União"
+tipo: "Portaria"
+numero: "6770"
+data: 2018-06-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/07/2018, seção 1, p. 145"
+data_publicacao: 2018-07-02
+edicao: "125"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-6-770-de-29-de-junho-de-2018-28165857"
+sha256_html_fonte: 95c2021e6431bd84f90a27ef5780d188af7ee31abcd44587b7506f8324c051c3
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 6.770, DE 29 DE JUNHO DE 2018
+
+PORTARIA Nº 6.770, DE 29 DE JUNHO DE 2018
+
+O SECRETÁRIO DO PATRIMÔNIO DA UNIÃO, DO MINISTÉRIO DO PLANEJAMENTO DESENVOLVIMENTO E GESTÃO, no uso de suas atribuições e em conformidade com o disposto no art. 5º, parágrafo único do Decreto - Lei 2.398/87, com redação dada pelo art. 33 da Lei 9.636/98 e considerando a Portaria Interministerial MP/MDA nº 210/2014, o Termo de Cooperação Técnica INCRA/SPU - 2005, assim como os elementos que integram o processo nº 04905.003190/2017-31, resolve:
+
+**Art. 1º** Declarar de interesse do serviço público, para fins de regularização fundiária de projeto de assentamento agroextrativista - PAE, imóvel da União, em condição de ilha, em zona onde se faz sentir a influência das marés e área alagada por rio federal e navegável, localizado na região do estuário superior do rio Amazonas, no município de Santarém, Estado do Pará, com área de 30.918,81 ha, inscrito no cadastro da Secretaria do Patrimônio da União sob o RIP nº 0533500248500-6 SPIUnet.
+
+**Parágrafo único.** A área acima mencionada apresenta as seguintes características e confrontações: Partindo do Ponto V-01, definido pela coordenada planas UTM de E=750.718.78m e N=9.769.973,09m, Elipsóide SIRGAS 2000 com Meridiano Central 57, cravado na margem direita do rio Amazoninha ou Braço Grande do Rio Amazonas, deste, seguindo a jusante pelo referido rio, com uma distância de 15.050.53m chega-se ao V-02, cravado na margem direita da boca do Paraná Costa do Aritapera. com coordenadas planas UTM de E=765.144,95m e N=9.768.649,10m, deste, atravessando o referido paraná, com uma distância de I.033,25m chega-se ao V-03, cravado na margem esquerda da boca do Paraná Costa do Aritapera, com coordenadas planas UTM de E=766.076,95m e N=9.769.094.30m. deste, seguindo a jusante do rio Amazoninha ou Braço Grande do Rio Amazonas, com uma distância de 14.449,31m chega-se ao V-04, cravado na margem esquerda da boca do Paraná Costa do Aritapera, com coordenadas planas UTM de E=775.983,90m e N=9.762.663,03m, deste, atravessando o referido paraná, com uma distância de 382.29m chega-se ao V-05, cravado na margem direita da boca do Paraná Costa do Aritapera. com coordenadas planas UTM de E=775.798.44m e N=9.762,328.99m, deste, seguindo a jusante pelo rio Amazoninha ou Braço Grande do Rio Amazonas, com uma distância de 7.205,86m chega-se ao V-06, cravado na margem direita do referido rio, com coordenadas planas UTM de E=771.664,03m e N=9.756.459.76m. deste, com uma distância de 2.736,68m chega-se ao V-07, cravado na margem leste do Lago ltarim. com coordenadas planas UTM de E=769.564,52m e N9.758.197.75m, deste, seguindo margeando o lado norte do referido lago. com uma distância de 15.748,19m chega-se ao V-08, cravado na margem noroeste do Lago ltarim. com coordenadas planas UTM de E=761.129,03m e N=9.760.874,57m. deste, com uma distância de 2.431.00m e azimute de 262°1928,23" chega-se ao V-09, deste, com uma distância de 580,48m e azimute de 267°29'56,55" chega-se ao V-1 O, cravado na margem leste do Lago do Aramanai, com coordenadas planas UTM de E=758.139.88m e N=9.760.524,55m, deste, seguindo margeando o lado norte do referido lago, com uma distância de 11.216,60m chega-se ao V-11, cravado na margem noroeste do lago do Aramanai, com coordenadas planas UTM de E=750.439,46m e N=9.758.909,74m, deste, com uma distância de 1.140,99m e azimute de 307°49'36,33" chega-se ao V-I2, deste, com uma distância de 2.988.61m e azimute de 311°17'52,58" chega-se ao V-13, cravado na margem esquerda do furo do Aritapera ou furo de Cima, com coordenadas planas UTM de E=747.292,92m e N=9.761.581,89m, deste, seguindo a montante pela margem esquerda do referido furo, com uma distância de 1.369,12m chega-se ao V-I4, cravado na margem esquerda do rio Amazonas, com coordenadas planas UTM de E=746.273,30m e N=9.760.731.22m, deste, seguindo a montante pelo referido rio, com uma distância de 2.331,83m chega-se ao V-15, cravado na margem esquerda do rio Amazonas, com coordenadas planas UTM de E=143.980,70m e N=9.761.111,70m, deste, seguindo a montante pelo rio Amazonas, com uma distância de 2.044.25m chega-se ao V-16, cravado na margem do esquerda do rio Amazonas, com coordenadas planas UTM de E=745.740,37m e N=9.760.215.86m, deste, atravessando o canal do rio Amazonas, com uma distância de 8.754,74m chega-se ao V-17, cravado na parte leste da Ilha do Bom Vento, com coordenadas planas UTM de E=737.362,27m e N=9.761.566,02m, deste, seguindo margeando o lado sul da referida ilha, com uma distância de 15.540,50m chega-se ao V-18, cravado na parte oeste da Ilha do Bom Vento, com coordenadas planas UTM de E=723.394,17m e N=9.761.643.70m. deste, seguindo a jusante pelo Rio Amazonas margeando o lado norte da Ilha do Bom Vento, com uma distância de 8.667.88m chega-se ao V-19, cravado na margem do Rio Amazonas, com coordenadas planas UTM de E=731.481,43m e N=9.764.610,80m, deste, atravessando o canal do Rio Amazonas, com uma distância de 5.998,29m chega-se ao V-20, cravado na margem direita do Paraná do Rio Amazonas, com coordenadas planas UTM de E=737.364.64m e N=9.764.641,91m, deste, seguindo a jusante pela margem direita do referido paraná, com uma distância de 16.805,09m chega-se ao V-01, ponto inicial da descrição deste perímetro, perfazendo uma área de 30.918,8118 ha. Todas as coordenadas aqui descritas estão georrefereciadas ao Sistema Geodésico Brasileiro, e encontram-se representadas no sistema UTM, referenciadas ao Meridiano Central 57 W, tendo como DATUM SIRGAS 2000. Todos os azimutes e distâncias, área e perímetro foram calculados no plano de projeção UTM.
+
+**Art. 2º** O imóvel descrito no art. 1º, parágrafo único, é de interesse público na medida em que será destinado ao projeto de assentamento agroextrativista - PAE ARITAPERA, em benefício de aproximadamente 750 famílias ribeirinhas de baixa renda.
+
+**Art. 3º** Fica o INCRA autorizado a outorgar aos beneficiários finais do projeto de assentamento agroextrativista PAE-ARITAPERA a titulação do território, respeitados os termos da Portaria Interministerial MP/MDA 210/2014.
+
+**Art. 4º** A SPU/PA dará conhecimento do teor desta Portaria ao Ofício de Registro de imóveis da circunscrição e ao Município.
+
+**Art. 5º** Esta portaria entra em vigor na data de sua publicação.
+
+SIDRACK DE OLIVEIRA CORREIA NETO

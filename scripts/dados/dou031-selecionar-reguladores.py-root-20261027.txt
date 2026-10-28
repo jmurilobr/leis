@@ -1,0 +1,24 @@
+from pathlib import Path
+import sys,json,gzip,hashlib
+sys.path.insert(0,'scripts')
+from auditar_cache_dou import meta_corpo
+from gates_reguladores_cache import chave
+sha=lambda b:hashlib.sha256(b).hexdigest();num,srcaudit=sys.argv[1:3];date='20261027';slug='reguladores-dou'+num;h={};records={r['path']:r for r in json.loads(Path(f'scripts/dados/reguladores-gates-{date}-{num}.json').read_text())['documentos']};picked={};counts={};keys={};urls={};held=[]
+for kind in ['renderizada','listas']:
+ p=Path(f'scripts/dados/reguladores-fidelidade-{kind}-{date}-{num}.json');d=json.loads(p.read_text());h[str(p)]=sha(p.read_bytes());counts[kind]=0
+ for r in d['documentos']:
+  if r['igual_fonte'] and r['assinatura_numerica_igual']:
+   assert r['path'] not in picked;p0=r['path'];raw=Path(p0).read_bytes();assert sha(raw)==r['sha256_md'];m,_=meta_corpo(raw.decode());k=chave(m,p0);u=m['fonte'];assert all(k)
+   if k in keys or u in urls:held.append({'path':p0,'sha256_md':sha(raw),'motivo':'colisao entre selecoes finais;revisar contexto','anterior':keys.get(k) or urls.get(u)});continue
+   keys[k]=p0;urls[u]=p0;picked[p0]=r;h[p0]=sha(raw);counts[kind]+=1
+for p in [srcaudit,f'scripts/dados/reguladores-gates-{date}-{num}.json']:h[p]=sha(Path(p).read_bytes())
+archives=[];f=gz=None;part=0
+for p,r in picked.items():
+ if gz is None:
+  part+=1;archive=Path(f'reguladores/_fonte/auditorias/{slug}-primarias-{date}-parte{part:03}.jsonl.gz');assert not archive.exists();f=archive.open('xb');gz=gzip.GzipFile(fileobj=f,mode='wb',filename='',mtime=0)
+ g=records[p];raw=gzip.decompress(Path(g['cache']).read_bytes());assert sha(raw)==g['sha256_fonte']==r['sha256_fonte'];gz.write((json.dumps({'path':p,'sha256_md':r['sha256_md'],'fonte':g['fonte'],'cache_original':g['cache'],'sha256_fonte':sha(raw),'json_utf8' if g['cache'].endswith('.json.gz') else 'html_utf8':raw.decode()},ensure_ascii=False,separators=(',',':'))+'\n').encode())
+ if f.tell()>40*1024**2:
+  gz.close();f.close();assert archive.stat().st_size<95*1024**2;h[str(archive)]=sha(archive.read_bytes());archives.append(str(archive));gz=f=None
+if gz:
+ gz.close();f.close();assert archive.stat().st_size<95*1024**2;h[str(archive)]=sha(archive.read_bytes());archives.append(str(archive))
+p=Path(f'scripts/dados/{slug}-selecao-direta-root-{date}.json');assert not p.exists();p.write_text(json.dumps({'novas_preliminares':len(picked),'contagens':counts,'retidos_cruzamento':held,'criterio':'Selecao direta com fidelidade integral de texto,sinais,numeros;contadores ligados a AST somente quando comprovados. Fontes primarias completas arquivadas antes de publicar. Exige confronto final contra HEAD e outros componentes;nao altera canonicos/metas ou aprova alertas restantes.','arquivos_primarios':archives,'sha256':h},ensure_ascii=False,indent=2)+'\n');h[str(p)]=sha(p.read_bytes());Path(f'_fonte/operacao_root_20261027/{slug}-hashes.json').write_text(json.dumps(h,ensure_ascii=False,indent=2)+'\n');print('selecionados',len(picked),'partes',len(archives),'retidos',len(held),flush=True)

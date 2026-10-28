@@ -1,0 +1,411 @@
+---
+titulo: "Resolução nº 2, de 19 de fevereiro de 2025"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "2"
+data: "2025-02-19"
+municipio: "Bofete"
+uf: "SP"
+codigo_ibge: "3506904"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bofete.sp.leg.br/norma/2329"
+fonte_texto: "https://sapl.bofete.sp.leg.br/ta/63/text"
+sha256_fonte: "f6ccea082c63618ac82360d797842135168cd1854895895b4715ea103839f7cb"
+sha256_texto: "c7dd0ca40faa25b9babbd1e931bbee0e4ab36abcb87523732bbcf5864d6b7907"
+capturado_em_fonte: "2026-10-27T19:11:42.221416-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Resolução nº 2, de 19 de fevereiro de 2025
+
+REGULAMENTA A PROCURADORIA JURÍDICA DA CÂMARA MUNICIPAL DE BOFETE E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+Faço saber que a Câmara Municipal aprovou, e eu, nos termos do art. 233, do Regimento Interno, promulgo a seguinte Resolução:
+
+
+### TÍTULO I — DA COMPETÊNCIA E ORGANIZAÇÃO
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+A Procuradoria Jurídica da Câmara Municipal de Bofete é órgão superior essencial e permanente, vinculado diretamente ao Presidente da Câmara, responsável, de maneira exclusiva, pela representação judicial e extrajudicial do Poder Legislativo do Município de Bofete, bem como por todo o assessoramento jurídico.
+
+
+Art. 2º.
+
+A Procuradoria Jurídica da Câmara Municipal de Bofete é composta exclusivamente por procurador jurídico aprovado em concurso público de provas e títulos.
+
+
+Art. 3º.
+
+Cabe exclusivamente ao procurador jurídico a condução e organização dos trabalhos da Procuradoria Jurídica da Câmara Municipal de Bofete.
+
+
+Art. 4º.
+
+O procurador jurídico detém autonomia técnica e administrativa no exercício de sua função.
+
+
+#### CAPÍTULO II — DAS COMPETÊNCIAS
+
+
+Art. 5º.
+
+São atribuições da Procuradoria Jurídica da Câmara Municipal de Bofete, sem prejuízo de outras que lhe forem outorgadas por normas constitucionais e legais:
+
+
+I –
+
+representar judicial e extrajudicialmente a Câmara Municipal de Bofete;
+
+
+II –
+
+exercer, com exclusividade, as atividades de consultoria e assessoramento jurídico do Poder Legislativo municipal;
+
+
+III –
+
+estudar e examinar documentos jurídicos e de outra natureza, analisando seu conteúdo, com base nos códigos, leis, jurisprudência e outros documentos, para emitir pareceres fundamentados na legislação vigente;
+
+
+IV –
+
+representar e promover os interesses da Câmara Municipal perante os Tribunais Estaduais e Federais, inclusive o Tribunal de Contas do Estado e Ministério Público, interpondo e acompanhando recursos, inclusive sustentando oralmente, quando entender necessário, as razões de qualquer processo, nas sessões de julgamento e ou apresentar memoriais;
+
+
+V –
+
+supervisionar e preparar as informações a serem prestadas em Mandados de Segurança impetrados contra ato da Mesa Diretora e sua Presidência, bem como em ações correlatas e pedidos de informação formulados pelos órgãos do Ministério Público; e
+
+
+VI –
+
+orientar os vereadores em assuntos jurídicos relacionados às atividades parlamentares.
+
+
+##### Seção I — Do Patrocínio de Causas Judiciais
+
+
+Art. 6º.
+
+Compete à Procuradoria Jurídica, independentemente de outorga de procuração, o patrocínio de todas as causas judiciais envolvendo a Câmara Municipal de Bofete, nas ações em que se qualifique como autora, ré, assistente, opoente ou interveniente, detendo plenos poderes para praticar todos e quaisquer atos processuais, inclusive para confessar, reconhecer a procedência do pedido, transigir, desistir, renunciar ao direito sobre o qual se funda a ação, receber, dar quitação e firmar compromisso.
+
+
+Parágrafo único
+
+Nas hipóteses de confissão, renúncia, transação e desistência, o ato será praticado após autorização prévia e expressa do Presidente da Câmara Municipal em exercício.
+
+
+Art. 7º.
+
+O ajuizamento de Ação Direta de Inconstitucionalidade – ADI será precedida de solicitação prévia e expressa da Mesa Diretora da Câmara Municipal, considerando a legitimidade ad causam específica do caso, nos termos do art. 90, inciso II, da Constituição do Estado de São Paulo.
+
+
+Art. 8º.
+
+A impetração de Mandado de Segurança por afronta a direito líquido e certo da Câmara Municipal de Bofete será precedido de solicitação formal instruída de informações e documentos probatórios imprescindíveis à instrução do mandamus.
+
+
+Art. 9º.
+
+A Procuradoria Jurídica da Câmara Municipal de Bofete disporá do prazo de 15 (quinze) dias úteis para o ajuizamento de ações judiciais, contados da data em que tomar ciência da solicitação mediante protocolo administrativo, observando-se, sobretudo, os prazos prescricionais e decadenciais correlatos à demanda.
+
+
+Parágrafo único
+
+A prática dos demais atos judiciais reger-se-ão pelos prazos processuais aplicáveis a cada caso, nos termos da legislação vigente.
+
+
+Art. 10.
+
+A Procuradoria Jurídica da Câmara Municipal de Bofete deve praticar todos os atos necessários para garantir o trâmite legal do processo, em todas as suas fases, até prolação da decisão final, interpondo os recursos necessários à defesa do Poder Legislativo Municipal.
+
+
+Parágrafo único
+
+É assegurado à Procuradoria Jurídica o direito de não recorrer de decisões judiciais, cujas razões jurídicas serão apresentadas ao Presidente da Câmara Municipal.
+
+
+##### Seção II — Do Patrocínio de Causas Extrajudiciais
+
+
+Art. 11.
+
+Compete à Procuradoria Jurídica promover a representação extrajudicial da Câmara Municipal de Bofete perante o Ministério Público, junto aos autos de Inquérito Civil, Representação e Procedimentos Preparatórios, desincumbindo-se do ônus de fornecer os elementos e informações necessários à convicção ministerial, a fim de resguardar os interesses do Poder Legislativo Municipal.
+
+
+Art. 12.
+
+Compete à Procuradoria Jurídica promover a representação extrajudicial da Câmara Municipal de Bofete perante o Tribunal de Contas do Estado de São Paulo, nos processos relativos a autuações administrativas, apreciação das contas anuais da Câmara Municipal e procedimentos apartados.
+
+
+##### Seção III — Da Emissão de Pareceres em Proposições Legislativas
+
+
+Art. 13.
+
+É assegurado a qualquer Vereador ou Comissão Permanente requisitar a emissão de parecer jurídico referente às proposições legislativas em trâmite, em qualquer fase do processo legislativo.
+
+
+§ 1º
+
+A solicitação de parecer jurídico deverá ser instruída com a documentação pertinente e será atendida no prazo de 15 (quinze) dias úteis.
+
+
+§ 2º
+
+Os prazos de que tratam o parágrafo anterior poderão ser prorrogados, pelo procurador jurídico, por mais 15 (quinze) dias úteis, mediante motivação acerca da necessidade de informações ou documentos complementares à análise jurídica, bem como pela complexidade da matéria.
+
+
+##### Seção IV — Da Emissão de Pareceres em Processos Licitatórios e Administrativos
+
+
+Art. 14.
+
+A Procuradoria Jurídica deverá exarar parecer jurídico nos processos de contratações públicas e respectivos aditamentos contratuais, mediante requerimento formulado pelo Presidente ou pela Administradora da Câmara Municipal de Bofete.
+
+
+Parágrafo único
+
+Nos termos do art. 53, § 5º, da Lei nº 14.133/2021, fica dispensada a análise jurídica nos processos relativos às compras e serviços de valor estimado inferior a R$ 10.000,00 (dez mil reais) e com entrega imediata.
+
+
+Art. 15.
+
+O Presidente da Câmara Municipal poderá requerer a manifestação jurídica em processos administrativos relativos a solicitações externas, bem como procedimentos internos, como requerimentos formulados por Vereadores e servidores públicos, Sindicâncias e Processos Administrativos Disciplinares.
+
+
+Art. 16.
+
+Para atendimento das demandas previstas nos artigos 14 e 15, desta Resolução, a Procuradoria Jurídica observará o prazo de 10 (dez) dias úteis, salvo se houver necessidade de requisição de informações ou documentos complementares à análise jurídica.
+
+
+Parágrafo único
+
+O procurador jurídico poderá, motivadamente, prorrogar o prazo por mais 10 (dez) dias úteis.
+
+
+#### CAPÍTULO III — DA JORNADA DE TRABALHO
+
+
+Art. 17.
+
+A jornada de trabalho do procurador jurídico da Câmara Municipal de Bofete não excederá a duração de 20 (vinte) horas semanais.
+
+
+§ 1º
+
+Para a jornada prevista no caput, fica assegurado ao procurador jurídico o exercício da advocacia privada, observado o impedimento legal de que trata o art. 30, inciso I, da Lei Federal nº 8.906, de 04 de julho de 1994.
+
+
+§ 2º
+
+O procurador jurídico não se submete ao controle de ponto presencial, nos termos da Súmula nº 09, do Conselho Federal da OAB, sem prejuízo do controle de jornada, realizado pelo próprio procurador, para fins de aferição e controle de eventuais horas extraordinárias realizadas.
+
+
+Art. 18.
+
+O procurador jurídico com mais de 3 (três) anos de exercício, que não tenha sofrido sanção disciplinar com trânsito em julgado administrativo neste período, adquire o direito de laborar em regime de teletrabalho.
+
+
+§ 1º
+
+O direito ao regime de teletrabalho, obtido na forma do caput, configura direito adquirido do procurador jurídico, não podendo legislação posterior revogá-lo ou modifica-lo de forma a impedir o seu exercício, nos termos do art. 5º, XXXVI, da Constituição Federal de 1988.
+
+
+§ 2º
+
+Incorrerá em falta funcional, passível de demissão, e quebra de decoro parlamentar, passível de cassação do mandato, respectivamente, o servidor ou vereador que, por qualquer conduta, tentar obstar o gozo do direito ao regime de teletrabalho adquirido pelo procurador.
+
+
+§ 3º
+
+O direito ao regime de teletrabalho não afasta a obrigatoriedade do comparecimento presencial do procurador jurídico nas sessões ordinárias, extraordinárias, solenes, reuniões de comissões, audiências públicas e outras atividades pertinentes da Câmara Municipal de Bofete.
+
+
+§ 4º
+
+O procurador jurídico em gozo do regime de teletrabalho deverá elaborar relatório mensal de suas atividades, que será enviado ao Departamento de Recursos Humanos da Câmara Municipal de Bofete.
+
+
+§ 5º
+
+O fato de o procurador jurídico estar em gozo do regime de teletrabalho não afasta nenhuma das prerrogativas previstas no art. 19 desta resolução.
+
+
+#### CAPÍTULO IV — DAS PRERROGATIVAS
+
+
+Art. 19.
+
+São prerrogativas do procurador jurídico da Câmara Municipal de Bofete:
+
+
+I –
+
+requisitar auxílio e colaboração dos demais departamentos, para o exercício de suas atribuições;
+
+
+II –
+
+requisitar das autoridades e servidores competentes certidões, informações e diligências necessárias ao desempenho de suas funções;
+
+
+III –
+
+veicular recomendações técnico-jurídicas de cunho preventivo;
+
+
+IV –
+
+utilizar-se dos meios de comunicação institucional quando o interesse do serviço o exigir;
+
+
+V –
+
+ter livre acesso aos Departamentos da Câmara Municipal, quando houver necessidade de colher informações para o desempenho de suas atribuições; e
+
+
+VI –
+
+dispor de instalações condignas e compatíveis com o exercício de suas Funções.
+
+
+Parágrafo único
+
+O procurador jurídico, no exercício de suas funções, goza de independência e das prerrogativas inerentes à atividade advocatícia, inclusive imunidade funcional quanto às opiniões de natureza técnico-científica, emitidas em parecer, petição ou qualquer arrazoado produzido em processo administrativo ou judicial, bem como dos direitos e prerrogativas constantes da Lei Federal nº 8.906 de 04 de julho de 1994, compatíveis com sua condição.
+
+
+#### CAPÍTULO V — DOS DEVERES, DAS PROIBIÇÕES E DOS IMPEDIMENTOS
+
+
+Art. 20.
+
+São deveres do Procurador Jurídico, além daqueles decorrentes do exercício de cargo público:
+
+
+I –
+
+desempenhar com zelo e presteza, dentro dos prazos, os serviços a seu cargo e os que, na forma da lei, lhes forem atribuídos pelo Presidente da Câmara;
+
+
+II –
+
+observar o sigilo profissional quanto à matéria dos procedimentos em que atuar;
+
+
+III –
+
+zelar pelos bens confiados à sua guarda e responsabilidade, e;
+
+
+IV –
+
+representar ao Presidente da Câmara sobre irregularidades que afetem o bom desempenho de suas atribuições.
+
+
+Art. 21.
+
+Além das proibições decorrentes do exercício de cargo público, ao Procurador Jurídico é vedado:
+
+
+I –
+
+aceitar cargo, exercer função pública ou mandato fora dos casos autorizados em lei;
+
+
+II –
+
+empregar em qualquer expediente oficial expressão ou termos não compatíveis com o cargo; e,
+
+
+III –
+
+valer-se da qualidade de Procurador Jurídico para obter qualquer vantagem.
+
+
+Art. 22.
+
+É defeso ao Procurador Jurídico exercer as suas funções em processo judicial ou administrativo:
+
+
+I –
+
+em que seja parte;
+
+
+II –
+
+em que haja atuado como advogado de qualquer das partes;
+
+
+III –
+
+em que seja interessado parente consanguíneo ou afim, em linha reta ou colateral, até o quarto grau, bem como cônjuge ou companheiro; e
+
+
+IV –
+
+nas hipóteses previstas na legislação processual.
+
+
+Art. 23.
+
+O Procurador Jurídico dar-se-á por suspeito:
+
+
+I –
+
+quando haja proferido parecer favorável à pretensão deduzida em juízo pela parte adversa; e,
+
+
+II –
+
+nas hipóteses previstas na legislação processual.
+
+
+Parágrafo único
+
+Nas situações de que trata este artigo, cumpre seja dada ciência ao Presidente da Câmara, em expediente reservado, dos motivos da suspeição, objetivando a designação de substituto.
+
+
+#### CAPÍTULO VI — DOS HONORÁRIOS ADVOCATÍCIOS
+
+
+Art. 24.
+
+São devidos ao procurador jurídico da Câmara Municipal de Bofete os honorários advocatícios decorrentes de condenações judiciais, por arbitramento ou sucumbência, na forma do art. 85, §19, do Código de Processo Civil.
+
+
+Parágrafo único
+
+A verba honorária prevista no caput possui natureza extraorçamentária e integra a remuneração do procurador para todos os efeitos, como reflexos na base de cálculo da gratificação natalina, das férias e das contribuições previdenciárias.
+
+
+#### CAPÍTULO VII — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 25.
+
+Ficam asseguradas ao procurador jurídico as vantagens e prerrogativas concedidas aos demais servidores públicos do Poder Legislativo Municipal.
+
+
+Art. 26.
+
+Esta resolução entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Câmara Municipal de Bofete, 19 de fevereiro de 2025.
+
+**OSVALDO ÂNGELO ALVES**
+
+Presidente
+

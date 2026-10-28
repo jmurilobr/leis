@@ -1,0 +1,62 @@
+---
+titulo: "Decreto-SEMPOG nº 18.164, de 07 de junho de 2022"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "18.164"
+data: "2022-06-07"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/18499"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/9785/text"
+sha256_fonte: "cd6178cf575430ccf8c79736e833820941fcabbc2e90487933764c258b9a2a98"
+sha256_texto: "cc5e81698bf27e52b65821c1e5631bce8a735dd2a1a0a54bf4c50b8ad7f6cba5"
+capturado_em_fonte: "2026-10-21T06:33:10.794439-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 18.164, de 07 de junho de 2022
+
+Abre no Orçamento Anual do Município de Porto Velho Crédito Adicional Suplementar, e dá outras providências.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, amparado pelo Art. 6º da Lei n.º 2.903, de 20 de dezembro de 2021;
+
+Considerando o Ofício n.º 1163/SEG/GAB/SEMASF, de 27 de maio de 2022, pelo qual a Secretaria Municipal de Assistência Social e da Família – SEMASF, solicita suplementação para cobertura orçamentária;
+
+Considerando o Ofício n.° 138/DEC/SUFIN/SEMFAZ, Ofício n.° 139/DEC/SUFIN/SEMFAZ e Ofício n.° 140/DEC/SUFIN/SEMFAZ, de 29 de abril de 2022, no qual a Secretaria Municipal de Fazenda – SEMFAZ, informa os recursos apurados no Balanço Patrimonial do exercício de 2021.
+
+D E C R E T A:
+
+**Art. 1º** – Fica aberto no Orçamento do Município de Porto Velho, Crédito Adicional Suplementar no valor de R$ 6.281.371,74 (seis milhões, duzentos e oitenta e um mil, trezentos e setenta e um reais e setenta e quatro centavos).
+
+**Art. 2º** – Os recursos necessários à execução do disposto no artigo anterior são decorrentes de Superávit Financeiro apurado no Balanço Patrimonial do Município no exercício de 2021, observado os preceitos do Inciso I, Parágrafo 1º do Art. 43, da Lei n.º 4.320, de 17 de março de 1964, consignados no orçamento, conforme detalhado na sequência:
+
+<table><tbody><tr><td colspan="6"><p><strong>12.00 - SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL E DA FAMÍLIA - SEMASF</strong></p></td></tr><tr><td colspan="6"><p><strong>12.33 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL - FMAS</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>SUPLEMENTA</strong></p><p><strong>R$</strong></p></td></tr><tr><td rowspan="4"><p>12.33.08.244.160.2.839</p></td><td rowspan="4"><p>Serviço de proteção e atendimento integral à família</p></td><td rowspan="4"><p>SEG</p></td><td><p>3.3.90.14</p></td><td><p>2.759</p></td><td><p>20.000,00</p></td></tr><tr><td rowspan="2"><p>3.3.90.30</p></td><td><p>2.660</p></td><td><p>374.336,36</p></td></tr><tr><td><p>2.759</p></td><td><p>100.000,00</p></td></tr><tr><td><p>3.3.90.39</p></td><td><p>2.759</p></td><td><p>52.645,87</p></td></tr><tr><td rowspan="3"><p>12.33.08.244.160.2.842</p></td><td rowspan="3"><p>Serviço de convivência e fortalecimento de vínculos</p></td><td rowspan="3"><p>SEG</p></td><td><p>3.3.90.32</p></td><td><p>2.660</p></td><td><p>60.264,95</p></td></tr><tr><td><p>4.4.90.52</p></td><td><p>2.660</p></td><td><p>224.184,96</p></td></tr><tr><td><p>4.4.90.40</p></td><td><p>2.660</p></td><td><p>1.398,00</p></td></tr><tr><td><p>12.33.08.244.160.2.852</p></td><td><p>Manutenção das Unidades da Proteção Social Básica</p></td><td><p>SEG</p></td><td><p>3.3.90.39</p></td><td><p>2.660</p></td><td><p>880.587,07</p></td></tr><tr><td rowspan="2"><p>12.33.08.244.165.2.853</p></td><td rowspan="2"><p>Manutenção das Unidades da Proteção Social Especial</p></td><td rowspan="2"><p>SEG</p></td><td rowspan="2"><p>4.4.90.52</p></td><td><p>2.660</p></td><td><p>87.963,84</p></td></tr><tr><td><p>2.759</p></td><td><p>14.864,76</p></td></tr><tr><td><p>12.33.08.244.165.2.854</p></td><td><p>Serviço de Acolhimento Institucional e Familiar</p></td><td><p>SEG</p></td><td><p>3.3.90.30</p></td><td><p>2.660</p></td><td><p>1.054.498,16</p></td></tr><tr><td rowspan="6"><p>12.33.08.244.168.2.860</p></td><td rowspan="6"><p>Manutenção dos Programas de Transferência de Renda</p></td><td rowspan="6"><p>SEG</p></td><td><p>3.3.90.14</p></td><td><p>2.660</p></td><td><p>110.000,00</p></td></tr><tr><td rowspan="2"><p>3.3.90.30</p></td><td><p>2.660</p></td><td><p>181.987,54</p></td></tr><tr><td><p>2.759</p></td><td><p>61.544,91</p></td></tr><tr><td><p>3.3.90.33</p></td><td><p>2.660</p></td><td><p>36.000,00</p></td></tr><tr><td><p>3.3.90.39</p></td><td><p>2.660</p></td><td><p>537.090,00</p></td></tr><tr><td><p>4.4.90.52</p></td><td><p>2.660</p></td><td><p>401.727,26</p></td></tr><tr><td><p>12.33.08.244.168.2.862</p></td><td><p>Ações Estratégicas do Programa de Erradicação do Trabalho Infantil</p></td><td><p>SEG</p></td><td><p>3.3.90.30</p></td><td><p>2.660</p></td><td><p>3.209,25</p></td></tr><tr><td><p>12.33.08.244.168.2.864</p></td><td><p>Apoio a programas e projetos de inclusão socioprodutiva</p></td><td><p>SEG</p></td><td><p>3.3.90.39</p></td><td><p>2.660</p></td><td><p>849.446,49</p></td></tr><tr><td rowspan="2"><p>12.33.08.244.169.2.866</p></td><td rowspan="2"><p>Concessão de benefícios eventuais</p></td><td rowspan="2"><p>SEG</p></td><td><p>3.3.90.32</p></td><td><p>2.759</p></td><td><p>777.790,95</p></td></tr><tr><td><p>3.3.90.48</p></td><td><p>2.759</p></td><td><p>355.078,50</p></td></tr><tr><td rowspan="4"><p>12.33.08.244.324.2.976</p></td><td rowspan="4"><p>Gestão do Sistema Único de Assistência Social</p></td><td rowspan="4"><p>SEG</p></td><td><p>3.3.90.14</p></td><td><p>2.660</p></td><td><p>29.000,00</p></td></tr><tr><td><p>3.3.90.30</p></td><td><p>2.660</p></td><td><p>6.424,64</p></td></tr><tr><td><p>3.3.90.33</p></td><td><p>2.660</p></td><td><p>20.000,00</p></td></tr><tr><td><p>4.4.90.52</p></td><td><p>2.660</p></td><td><p>5.540,68</p></td></tr><tr><td rowspan="2"><p>12.33.08.244.324.2.978</p></td><td rowspan="2"><p>Fortalecimento do Controle Social do SUAS</p></td><td rowspan="2"><p>SEG</p></td><td><p>3.3.90.14</p></td><td><p>2.660</p></td><td><p>17.787,55</p></td></tr><tr><td><p>3.3.90.33</p></td><td><p>2.660</p></td><td><p>18.000,00</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>6.281.371,74</strong></p></td></tr><tr><td colspan="4" rowspan="2"><p><strong>TOTAL POR FONTE DE RECURSOS</strong></p></td><td><p><strong>2.759</strong></p></td><td><p><strong>1.381.924,99</strong></p></td></tr><tr><td><p><strong>2.660</strong></p></td><td><p><strong>4.899.446,75</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>6.281.371,74</strong></p></td></tr></tbody></table>
+
+**Art. 3º** – Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 17.852, de 20 de dezembro de 2021 e o Detalhamento da Despesa, estabelecido pelo Decreto n.º 17.853, de 20 de dezembro de 2021.
+
+**Art. 4º** – Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** – Revogam-se as disposições em contrário.
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO FERNANDO ERPEN***
+
+Subsecretário de Finanças e Contabilidade
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto do Município
+

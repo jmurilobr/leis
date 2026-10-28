@@ -1,0 +1,140 @@
+---
+titulo: "Lei nº 1.769, de 04 de agosto de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1769"
+data: "2021-08-04"
+municipio: "Cunha"
+uf: "SP"
+codigo_ibge: "3513603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cunha.sp.leg.br/norma/1258"
+fonte_texto: "https://sapl.cunha.sp.leg.br/ta/140/text"
+sha256_fonte: "c12d98d6428d165abe2c5962c8f6492b6e82bbd50108a04cfb2f9ec9ad2e093f"
+sha256_texto: "03b63b48f55e9b5d25bebf475d241e511081dc82223c042fab05b787cee40dd6"
+capturado_em_fonte: "2026-10-28T09:42:41.719314-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 1.769, de 04 de agosto de 2021
+
+Proíbe a utilização de verba pública no âmbito do Município de Cunha, em eventos e serviços que promovam a sexualização de crianças e adolescentes e dá providências correlatas
+
+
+José Éder Galdino da Costa, Prefeito Municipal da Estância Climática de Cunha, no uso de suas atribuições legais, que lhe são conferidas por Lei, faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Fica proibida a utilização de recursos públicos, no âmbito do município de Cunha, em eventos que promovam de forma direta ou indireta a sexualização de crianças e adolescentes.
+
+
+Art. 2º.
+
+Os serviços públicos e os eventos patrocinados pelo Poder Público, sejam para pessoas jurídicas ou físicas, devem respeitar as normas legais que proíbem a divulgação ou acesso de crianças e adolescentes a apresentações, presenciais ou remotas, de imagens, músicas ou textos pornográficos ou obscenos, assim como garantir proteção face a conteúdos impróprios ao desenvolvimento psicológico.
+
+
+§ 1º
+
+A proibição de que trata o “caput” deste Artigo se aplica a:
+
+
+I –
+
+qualquer material impresso, sonoro, digital, audiovisual ou imagem, ainda que didático, paradidático ou cartilha, ministrado, entregue ou colocado ao acesso de crianças e adolescentes, bem como folders, outdoors ou qualquer outra forma de divulgação em local público ou evento licitado, produção cinematográfica ou peça teatral, autorizado ou patrocinado pelo Poder Público, inclusive mídias ou redes sociais.
+
+
+II –
+
+editais, chamadas públicas, prêmios, aquisição de bens e serviços vinculados ao setor cultural e outros instrumentos destinados à manutenção de agentes, de espaços, de iniciativas, de cursos, de produções, de desenvolvimento de atividades de economia criativa e de economia solidária, de produções audiovisuais, de manifestações culturais, bem como à realização de atividades artísticas e culturais que possam ser transmitidas pela internet ou disponibilizadas por meio das redes sociais e outras plataformas digitais.
+
+
+III –
+
+espaços artísticos e culturais, microempresas e pequenas empresas culturais, cooperativas, instituições e organizações culturais comunitárias que receberem auxílio ou patrocínio do Poder Público.
+
+
+§ 2º
+
+Para efeitos desta Lei consideram-se pornográficos todos os tipos de manifestações que firam o pudor, materiais descritos no § 1º que contenham linguagem vulgar, imagem erótica, de relação sexual ou ato libidinoso, obscenidade, indecência, licenciosidade, exibição explícitas de órgãos ou atividade sexual que estimule a excitação sexual.
+
+
+Art. 3º.
+
+Ao contratar serviços ou adquirir produtos de qualquer natureza, bem como patrocinar eventos ou espetáculos públicos ou programas de rádio, televisão ou redes sociais, a administração pública direta ou indireta fará constar cláusula obrigatória de respeito ao disposto no Art. 2º desta Lei, pelo contratado, patrocinado ou beneficiado.
+
+
+Art. 4º.
+
+Os serviços públicos obedecerão às normas estabelecidas pela Constituição Federal, pela Constituição Estadual, a legislação vigente e ao disposto nesta Lei, especialmente os sistemas de saúde, de direitos humanos, de assistência social, de cultura, educação infantil e fundamental.
+
+
+Art. 5º.
+
+Qualquer pessoa física ou jurídica, inclusive pais e responsáveis, poderá comunicar à administração pública e ao Ministério Público os casos de violação ao disposto nesta Lei.
+
+
+Parágrafo único
+
+O servidor público que tiver ciência da violação ao disposto nesta Lei deverá comunicar ao Ministério Público e, havendo, seu superior.
+
+
+Art. 6º.
+
+Em caso de descumprimento desta Lei, o infrator estará sujeito a multa mínima correspondente ao valor de 688 Unidades Fiscais do Estado de São Paulo (UFESPs), podendo chegar ao máximo 17.200 Unidades Fiscais do Estado de São Paulo (UFESPs), bem como, a impossibilidade de realizar, pelo prazo de 5 (cinco) anos, eventos públicos que dependam de autorização do Poder Público.
+
+
+§ 1º
+
+A penalidade prevista no “caput” se aplica para a pessoa jurídica ou física que receber verba pública para realização de determinado evento e, posteriormente, venha promover a sexualização de crianças e adolescentes.
+
+
+§ 2º
+
+O valor da multa prevista no “caput” deverá seguir os seguintes requisitos:
+
+
+I –
+
+a magnitude do evento;
+
+
+II –
+
+o impacto do evento na sociedade;
+
+
+III –
+
+quantidade de participantes;
+
+
+IV –
+
+a ofensa realizada;
+
+
+V –
+
+a utilização ou não de dinheiro público;
+
+
+§ 3º
+
+No caso de utilização de dinheiro público, o valor da multa a ser aplicada, conforme prevista no “caput” não poderá ser inferior a 1.720 Unidades Fiscais do Estado de São Paulo (UFESPs), além de ser obrigatória a devolução de todos os valores públicos destinados.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+PM de Cunha em 04 de AGOSTO de 2021.
+
+**José Éder Galdino da Costa**
+
+**PREFEITO MUNICIPAL**
+

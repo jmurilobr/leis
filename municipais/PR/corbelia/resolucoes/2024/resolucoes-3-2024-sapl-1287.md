@@ -1,0 +1,475 @@
+---
+titulo: "07 - Resolução Legislativa nº 3, de 09 de janeiro de 2024"
+tipo: "Resolução"
+tipo_na_fonte: "07 - Resolução Legislativa"
+numero: "3"
+data: "2024-01-09"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1287"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1300/text"
+sha256_fonte: "c41d913bd1b597d2b6634b9da766670c53141b25b2bdb03170eafde878c2dde5"
+sha256_texto: "5590fc0a5b7c7fc6c04b4da7c3d2ed89c2ff680d378180c824a9b399f1cc25e7"
+capturado_em_fonte: "2026-10-28T05:27:05.162685-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 07 - Resolução Legislativa nº 3, de 09 de janeiro de 2024
+
+Regulamenta a Lei Federal nº 14.133, de 1º de abril de 2021, que dispõe sobre Licitações e Contratos Administrativos no âmbito do Poder Legislativo do município de Corbélia.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou e eu, o Presidente, promulgo a seguinte:
+
+RESOLUÇÃO
+
+
+#### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Esta Resolução regulamenta a Lei Federal nº 14.133, de 1º de abril de 2021, que dispõe sobre Licitações e Contratos Administrativos, no âmbito do Poder Legislativo do município de Corbélia, para organizar os órgãos internos e suas competências e atribuições.
+
+
+Art. 2º.
+
+O disposto nesta Resolução abrange todos os Departamentos e Setores do Poder Legislativo do município de Corbélia.
+
+
+Art. 3º.
+
+Com base no Regimento Interno e na organização interna de cada Departamento ou Setor, fica autorizado a criação de órgãos auxiliares ao procedimento licitatório, de acordo com a necessidade de cada unidade administrativa.
+
+
+#### CAPÍTULO II — DA ORGANIZAÇÃO ADMINISTRATIVA DO PODER LEGISLATIVO
+
+
+Art. 4º.
+
+Cabe a Direção Geral, vinculada à Presidência, promover a condução do processo licitatório, bem como auxiliar os demais Departamentos e Setores nas contratações de bens e serviços.
+
+
+#### CAPÍTULO III — DA POSSIBILIDADE DE ATUAÇÃO DO AGENTE DE CONTRATAÇÃO
+
+
+Art. 5º.
+
+O Agente de Contratação, ou, conforme o caso, à Comissão de Contratação, serão regulamentados através de resolução própria e compreenderá a condução do processo licitatório, incluindo o recebimento e o julgamento das propostas, a negociação de condições mais vantajosas com o primeiro colocado, o exame de documentos, cabendo-lhes ainda:
+
+
+I –
+
+conduzir a sessão pública;
+
+
+II –
+
+receber, examinar e decidir as impugnações e os pedidos de esclarecimentos ao edital e aos anexos, além de poder requisitar subsídios formais aos responsáveis pela elaboração desses documentos;
+
+
+III –
+
+verificar a conformidade da proposta em relação aos requisitos estabelecidos no edital;
+
+
+IV –
+
+coordenar a sessão pública e o envio de lances, quando for o caso;
+
+
+V –
+
+verificar e julgar as condições de habilitação;
+
+
+VI –
+
+sanear erros ou falhas que não alterem a substância das propostas, dos documentos de habilitação e sua validade jurídica;
+
+
+VII –
+
+receber, examinar e decidir os recursos e encaminhá-los à autoridade competente quando mantiver sua decisão;
+
+
+VIII –
+
+indicar o vencedor do certame;
+
+
+IX –
+
+adjudicar o objeto, quando não houver recurso;
+
+
+X –
+
+conduzir os trabalhos da equipe de apoio; e
+
+
+XI –
+
+encaminhar o processo devidamente instruído à autoridade competente e propor a sua homologação.
+
+
+§ 1º
+
+A Comissão de Contratação conduzirá o Diálogo Competitivo, cabendo-lhe, no que couber, as atribuições listadas acima, sem prejuízo de outras tarefas inerentes a essa modalidade.
+
+
+§ 2º
+
+Caberá ao Agente de Contratação ou à Comissão de Contratação, além dos procedimentos auxiliares a que se refere a Lei Federal nº 14.133, de 2021, a instrução dos processos de contratação direta nos termos do art. 72 da citada Lei Federal.
+
+
+§ 3º
+
+O Agente de Contratação e a Comissão de Contratação contarão, sempre que considerarem necessário, com o suporte dos órgãos de assessoramento jurídico e de controle interno para o desempenho das funções listadas acima.
+
+
+#### CAPÍTULO IV — DO PLANO DE CONTRATAÇÕES ANUAL
+
+
+Art. 6º.
+
+A Câmara Municipal de Corbélia poderá elaborar Plano de Contratações Anual, com o objetivo de racionalizar as contratações dos órgãos e entidades sob sua competência, garantir o alinhamento com o seu planejamento estratégico e subsidiar a elaboração das respectivas leis orçamentárias.
+
+
+#### CAPÍTULO V — DO ESTUDO TÉCNICO PRELIMINAR
+
+
+Art. 7º.
+
+No âmbito da Câmara Municipal de Corbélia, a obrigação de elaborar Estudo Técnico Preliminar caberá ao respectivo Departamento ou Setor interessado na contratação, ressalvado o disposto no art. 8º.
+
+
+Art. 8º.
+
+A elaboração do Estudo Técnico Preliminar será opcional nos seguintes casos:
+
+
+I –
+
+contratação de obras, serviços, compras e locações, cujos valores se enquadrem nos limites dos incisos I e II do art. 75 da Lei Federal nº 14.133, de 2021, independentemente da forma de contratação;
+
+
+II –
+
+dispensas de licitação previstas nos incisos VII, VIII, do art. 75, da Lei Federal nº 14.133, de 2021;
+
+
+III –
+
+contratação de remanescente nos termos dos §§ 2º a 7º do art. 90 da Lei Federal nº 14.133, de 2021;
+
+
+IV –
+
+quaisquer alterações contratuais realizadas por meio de Termo Aditivo ou Apostilamento, inclusive acréscimos quantitativos e prorrogações contratuais relativas a serviços contínuos.
+
+
+#### CAPÍTULO VI — DO SISTEMA DE REGISTRO DE PREÇOS
+
+
+Art. 9º.
+
+É permitida a administração contratar pelo sistema de registro de preços, bens e serviços comuns, obras e serviços de engenharia, desde que, nos dois últimos casos, atendidos os seguintes requisitos:
+
+
+I –
+
+existência de projeto padronizado, sem complexidade técnica e operacional;
+
+
+II –
+
+necessidade permanente ou frequente de obra ou serviço a ser contratado.
+
+
+Parágrafo único
+
+Será admitido o sistema de registro de preço nas hipóteses de inexigibilidade e de dispensa de licitação para a aquisição de bens ou para a contratação de serviços por mais de um órgão.
+
+
+Art. 10.
+
+As licitações processadas pelo sistema de registro de preços poderão ser adotadas nas modalidades de licitação Pregão ou Concorrência.
+
+
+Parágrafo único
+
+Na licitação para registro de preços, não será admitida a cotação de quantitativo inferior ao máximo previsto no edital, sob pena de desclassificação.
+
+
+Art. 11.
+
+Nos casos de licitação para registro de preços, a Câmara Municipal de Corbélia poderá, como entidade gerenciadora, na fase de planejamento da contratação, divulgar aviso de intenção de registro de preços - IRP, concedendo o prazo mínimo de 8 (oito) dias úteis para que outros órgãos ou entidades registrem eventual interesse em participar do processo licitatório.
+
+
+§ 1º
+
+Cabe ao órgão ou entidade gerenciadora da licitação analisar o pedido de participação e decidir, motivadamente, se aceitará ou recusará o pedido de participação.
+
+
+§ 2º
+
+Na hipótese de inclusão, na licitação, dos quantitativos indicados pelos participantes na fase da IRP, o edital deverá ser ajustado de acordo com o quantitativo total a ser licitado.
+
+
+§ 3º
+
+A Câmara Municipal de Corbélia na qualidade de órgão gerenciador, poderá limitar o quantitativo aos órgãos ou entidades participantes, nos casos em que demonstrado o prejuízo na entrega do objeto ou prestação dos serviços.
+
+
+§ 4º
+
+Fica autorizado a participação de outros órgãos ou entes em atas de registro de preços nas hipóteses de inexigibilidade e dispensa de licitação, observado os requisitos dos incisos de I a III do §5º.
+
+
+§ 5º
+
+Em caso de haver intenção de participantes na ata de registro de preço, outros órgãos ou entidades poderão aderir à ata na condição de não participante, observado os seguintes requisitos:
+
+
+I –
+
+apresentação de justificativa da vantagem da adesão, inclusive em situações de provável desabastecimento ou descontinuidade de serviço público;
+
+
+II –
+
+demonstração de que os valores registrados estão compatíveis com os valores praticados pelo mercado na forma do art. 23 da Lei Federal nº 14.133, de 2021;
+
+
+III –
+
+prévias consulta e aceitação do órgão ou entidade gerenciadora e do fornecedor.
+
+
+Art. 12.
+
+Nos casos de licitação para registro de preços realizadas pelo Poder Executivo, poderá, o Poder Legislativo como órgão participante, registrar intenção de participação em registro de preços no prazo concedido pela Entidade gerenciadora.
+
+
+§ 1º
+
+Não havendo o registro de intenção no prazo concedido pela Entidade gerenciadora, o Poder Legislativo poderá aderir à ata de registro de preços na condição de não participante, observado os seguintes requisitos:
+
+
+I –
+
+apresentação de justificativa da vantagem da adesão, inclusive em situações de provável desabastecimento ou descontinuidade de serviço público;
+
+
+II –
+
+demonstração de que os valores registrados estão compatíveis com os valores praticados pelo mercado na forma do art. 23 da Lei Federal nº 14.133, de 2021;
+
+
+III –
+
+prévias consulta e aceitação do órgão ou entidade gerenciadora e do fornecedor.
+
+
+§ 2º
+
+Nos casos de sistema de registro de preço utilizado, pelo Poder Executivo, nas hipóteses inexigibilidade ou dispensa de licitação, o Poder Legislativo poderá registrar sua intenção de participação em qualquer momento do processo, ficando adstrito aos requisitos dos incisos de I a III do §1º.
+
+
+Art. 13.
+
+A ata de registro de preços terá prazo de validade de até 1 (um) ano, podendo ser prorrogado por igual período desde que comprovada a vantajosidade dos preços registrados.
+
+
+Art. 14.
+
+Os preços registrados poderão ser alterados ou atualizados em decorrência de eventual redução dos preços praticados no mercado ou de fato que eleve o custo dos bens, das obras ou dos serviços registrados, nas seguintes situações:
+
+
+I –
+
+em caso de força maior, caso fortuito ou fato do príncipe ou em decorrência de fatos imprevisíveis ou previsíveis de consequências incalculáveis, que inviabilizem a execução da ata tal como pactuada, nos termos do disposto na alínea “d” do inciso II do *caput* do art. 124 da Lei Federal nº 14.133, de 2021;
+
+
+II –
+
+em caso de criação, alteração ou extinção de quaisquer tributos ou encargos legais ou superveniência de disposições legais, com comprovada repercussão sobre os preços registrados; ou
+
+
+III –
+
+na hipótese de previsão no edital ou no aviso de contratação direta de cláusula de reajustamento ou repactuação sobre os preços registrados, nos termos do disposto na Lei Federal nº 14.133, de 2021.
+
+
+Art. 15.
+
+É vedado realizar o acréscimo no quantitativo fixado em ata de registro de preço, inclusive aqueles que trata o art. 124 da Lei Federal nº 14.133 de 2021.
+
+
+Art. 16.
+
+No ato de prorrogação da vigência da ata de registro de preços, poderá haver a renovação dos quantitativos registrados, até o limite do quantitativo original.
+
+
+Art. 17.
+
+O registro do fornecedor será cancelado quando:
+
+
+I –
+
+descumprir as condições da ata de registro de preços;
+
+
+II –
+
+não retirar a nota de empenho ou instrumento equivalente no prazo estabelecido pela Administração, sem justificativa aceitável;
+
+
+III –
+
+não aceitar reduzir o preço de contrato decorrente da ata, na hipótese deste se tornar superior àqueles praticados no mercado; ou
+
+
+IV –
+
+sofrer as sanções previstas nos incisos III ou IV do caput do art. 156 da Lei Federal nº 14.133, de 2021.
+
+
+Parágrafo único
+
+O cancelamento de registros nas hipóteses previstas nos incisos I, II e IV do caput será formalizado por despacho fundamentado.
+
+
+Art. 18.
+
+O cancelamento do registro de preços também poderá ocorrer por fato superveniente, decorrente de caso fortuito ou força maior, que prejudique o cumprimento da ata, devidamente comprovados e justificados:
+
+
+I –
+
+por razão de interesse público; ou
+
+
+II –
+
+a pedido do fornecedor.
+
+
+#### CAPÍTULO VII — DO CREDENCIAMENTO
+
+
+Art. 19.
+
+O credenciamento poderá ser utilizado quando a Câmara Municipal de Corbélia pretender formar uma rede de prestadores de serviços, pessoas físicas ou jurídicas, e houver inviabilidade de competição em virtude da possibilidade da contratação de qualquer uma das empresas credenciadas.
+
+
+§ 1º
+
+O credenciamento será divulgado por meio de edital de chamamento público, mediante aviso publicado no Diário Oficial Eletrônico do município e disponibilizado no sítio eletrônico oficial, devendo conter as condições gerais para o ingresso de qualquer prestador interessado em integrar a lista de credenciados, desde que preenchidos os requisitos definidos no referido documento.
+
+
+§ 2º
+
+O procedimento de credenciamento será conduzido pelo agente de contratação, com poder de decisão nos termos do instrumento convocatório.
+
+
+§ 3º
+
+A Câmara Municipal de Corbélia fixará o preço a ser pago ao credenciado, bem como as respectivas condições de reajustamento.
+
+
+§ 4º
+
+A escolha do credenciado poderá ser feita por terceiros sempre que este for o beneficiário direto do serviço.
+
+
+§ 5º
+
+Quando a escolha do prestador for feita pela Câmara, o instrumento convocatório deverá fixar a maneira pela qual será feita a distribuição dos serviços, desde que tais critérios sejam aplicados de forma objetiva e impessoal.
+
+
+§ 6º
+
+A Câmara Municipal de Corbélia poderá formar cadastro de reserva através do credenciamento, quando o número de credenciados suprir a necessidade do agente solicitante.
+
+
+§ 7º
+
+A Câmara Municipal de Corbélia poderá fixar no instrumento convocatório critérios de escolha para contratação do prestador, desde que observado o princípio da razoabilidade e proporcionalidade, mantendo os credenciados não contratados em cadastro de reserva.
+
+
+#### CAPÍTULO VIII — DA PESQUISA DE PREÇO
+
+
+Art. 20.
+
+O procedimento para realização de pesquisa de preços para a aquisição de bens e serviços em geral será regulamentado por ato próprio.
+
+
+#### CAPÍTULO IX — DAS SANÇÕES
+
+
+Art. 21.
+
+Observados o contraditório e a ampla defesa, todas as sanções previstas no art. 156 da Lei Federal nº 14.133, de 2021, serão aplicadas pelo Presidente do Poder Legislativo.
+
+
+#### CAPÍTULO X — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 22.
+
+No âmbito do Poder Legislativo, enquanto não for efetivamente implementado o Portal Nacional de Contratações Públicas (PNCP) a que se refere o art. 174. da Lei Federal nº 14.133, de 2021, os atos procederão das formas seguintes:
+
+
+I –
+
+quando a divulgação obrigatória dos atos exigidos pela citada Lei Federal no PNCP se referir a aviso, autorização ou extrato, a publicidade dar-se-á através de sua publicação no Diário Oficial Eletrônico do Município;
+
+
+II –
+
+quando a divulgação obrigatória dos atos exigidos pela citada Lei Federal no PNCP se referir a inteiro teor de documento, edital, contrato ou processo, a publicidade dar-se-á através de sua disponibilização integral e tempestiva no Portal da Transparência da Câmara Municipal de Corbélia;
+
+
+III –
+
+não haverá prejuízo à realização de licitações ou procedimentos de contratação direta ante a ausência das informações previstas nos §§ 2º e 3º do art. 174 da Lei Federal nº 14.133, de 2021, eis que o Poder Legislativo Municipal adotará as funcionalidades atualmente disponibilizadas pelo Governo Federal, no que couber, nos termos desta Resolução.
+
+
+Parágrafo único
+
+O disposto nos incisos I e II acima ocorrerá sem prejuízo da respectiva divulgação em sítio eletrônico oficial, sempre que previsto na Lei Federal nº 14.133, de 2021.
+
+
+Art. 23.
+
+Não é obrigatória manifestação jurídica nas contratações diretas de pequeno valor com fundamento nos incisos I ou II e §3º do art. 75, e, no art. 74, desde que seus valores não ultrapassem os limites previstos nos incisos I e II do art. 75, todas da Lei Federal nº 14.133, de 2021, salvo se houver celebração de contrato administrativo e este não for padronizado pelo órgão de assessoramento jurídico, ou nas hipóteses em que o administrador tenha suscitado dúvida a respeito da legalidade da dispensa de licitação.
+
+
+Art. 24.
+
+O Presidente da Câmara Municipal de Corbélia poderá, através de atos normativos próprios, regulamentar os procedimentos licitatórios em complemento aos termos da Lei Federal nº 14.133, de 2021.
+
+
+Art. 25.
+
+Esta resolução entra em vigor na data de sua publicação.
+
+
+CÂMARA MUNICIPAL DE CORBÉLIA  
+Em 09 de janeiro de 2024, 63º da Emancipação Política.
+
+Emanuel Andrigo Huff  
+Presidente
+
+Não substitui o texto publicado no DOE 1946 de 09/01/2024, pág. 22-35.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1287/ta
+

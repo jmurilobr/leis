@@ -1,0 +1,1245 @@
+{
+  "numero_indice": 21,
+  "ano_indice": 2026,
+  "fonte": {
+    "arquivo": "reguladores/_fonte/auditorias/confaz-indice2026-captura-001-20261027/21226cc0046070746233eedb167881bcf97e4846f003e8e9148ce87f30a487b8.html",
+    "metadata": "reguladores/_fonte/auditorias/confaz-indice2026-captura-001-20261027/21226cc0046070746233eedb167881bcf97e4846f003e8e9148ce87f30a487b8.meta.json",
+    "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV021_26",
+    "url_final": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV021_26",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 22:59:36 GMT",
+      "Server": "Zope/(2.13.22, python 2.7.3, linux2) ZServer/1.1",
+      "X-Cache-Operation": "plone.app.caching.moderateCaching",
+      "Content-Language": "pt-br",
+      "Expires": "Sat, 29 Oct 2016 21:59:10 GMT",
+      "Vary": "Accept-Encoding",
+      "X-Ua-Compatible": "IE=edge,chrome=1",
+      "X-Cache-Rule": "plone.content.itemView",
+      "Content-Type": "text/html;charset=utf-8",
+      "Cache-Control": "max-age=0, s-maxage=0, must-revalidate",
+      "X-Varnish": "438132788 438132471",
+      "Via": "1.1 varnish",
+      "X-Cache": "HIT",
+      "X-Varnish-Age": "26",
+      "Age": "0",
+      "Transfer-Encoding": "chunked"
+    },
+    "categoria": "html",
+    "sha256": "a1f22ff4d639fba274f2159331adfc17ff146b88a0fc19d4eade8acf7b2fce91",
+    "bytes": 228186,
+    "capturado_em_cliente": "2026-10-27T19:59:37.180841-03:00",
+    "inicio_requisicao": "2026-10-27T19:59:36.301868-03:00",
+    "ssl_verify_result": 0,
+    "headers_arquivo": "reguladores/_fonte/auditorias/confaz-indice2026-captura-001-20261027/21226cc0046070746233eedb167881bcf97e4846f003e8e9148ce87f30a487b8.headers",
+    "stderr_arquivo": "reguladores/_fonte/auditorias/confaz-indice2026-captura-001-20261027/21226cc0046070746233eedb167881bcf97e4846f003e8e9148ce87f30a487b8.stderr"
+  },
+  "estado": "representacao_privada_verificada_aguarda_confronto_HEAD",
+  "css": {
+    "css_capturados": [
+      "https://www.confaz.fazenda.gov.br/++theme++custom/css/style.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/base-cachekey-7fe23631c792beb0db30931a4ae02a97.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/confaz-print.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/embedder-cachekey-828ecc01dce09625ab9cacea3089e2ea.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/estilos_leis.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/jquery.autocomplete-cachekey-59fbd2a5fc6773a864adabd685eb1ee4.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/mobile-cachekey-1cc23e6e0f0a9f6be71ec18201c3a16e.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/ploneCustom-cachekey-bde1d13299199e784e65560bebf1e385.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/reset-cachekey-616583c06c3943a72f9f969a1240fbf8.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourceProducts.Doormat.stylesheetsdoormat-cachekey-ab318da4bb3f5c97abc64bb1453da10a.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcebrasil.gov.agendaagenda-cachekey-0b9b457891daf70874b650666229b581.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcebrasil.gov.barracssmain-cachekey-b8678e7b9f5de2c3db8378c7faa229fa.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcebrasil.gov.tilestiles-cachekey-08106e5424b0cd9b17b1c56aa9d8a2c0.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcecalendar_stylescalendar-cachekey-ab87c47333464a5f1d4a22f5f4f9f144.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcecollective.nitfcharcount-cachekey-964c273a546fb8d92d505f365c035a97.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcecollective.uploadcssbootstrap.min-cachekey-f3505dfe9331657bc329aeabdbd210fb.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-b7f1245ffe10632ff3183a40e45e945b.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete-cachekey-8a1ada68d10450ed014103370f01e143.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.querystring.querywidget-cachekey-5ee55ca46052729481269d2ce2efecfe.css"
+    ],
+    "regras_sensiveis": 94,
+    "riscos_aplicaveis": [],
+    "incompletos": [],
+    "criterio": "CSS completos e imports capturados; tinycss2/cssselect2 sobre a árvore HTML5 completa, incluindo ancestrais. Regras sensíveis são conservadoramente retidas; não se infere revogação de todo ato."
+  },
+  "identidade": {
+    "tipo": "Convênio ICMS",
+    "numero": 21,
+    "ano": 2026,
+    "data": "2026-01-27",
+    "epigrafe_normalizada": "CONVENIO ICMS NO 21, DE 27 DE JANEIRO DE 2026"
+  },
+  "historico_identificado": [],
+  "sha256_campo": "64602b0c8179eec0ce36ebbcfa2b68cfac5bd1bc34d9e58652618bb3ef7fb822",
+  "sha256_representacao": "64602b0c8179eec0ce36ebbcfa2b68cfac5bd1bc34d9e58652618bb3ef7fb822",
+  "sha256_visivel": "45d47a25fc2dc5ec3365f75fdc59f578eb86dcdd64e3e58456dd71ef681ee361",
+  "notas_publicacao_ratificacao_literais": [
+    "Publicado no DOU de 29.01.2026, pelo despacho 04/26.",
+    "Ratificação Nacional no DOU de 19.02.26, pelo Ato Declaratório 04/26."
+  ],
+  "condicoes_efeitos_literais": [
+    "Ratificação Nacional no DOU de 19.02.26, pelo Ato Declaratório 04/26.",
+    "Cláusula terceira Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União."
+  ],
+  "links": [
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/despacho/2026/dp004_26",
+      "texto": "04/26"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/atos-declaratorios/2026/ad004_26",
+      "texto": "04/26."
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1989/CV024_89",
+      "texto": "Convênio ICMS nº 24, de 28 de março de 1989"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1989/CV104_89",
+      "texto": "Convênio ICMS nº 104, de 24 de outubro de 1989"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1990/CV074_90",
+      "texto": "Convênio ICMS nº 74, de 12 de dezembro de 1990"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1991/CV016_91",
+      "texto": "Convênio ICMS nº 16, de 25 de junho de 1991"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1991/CV038_91",
+      "texto": "Convênio ICMS nº 38, de 7 de agosto de 1991"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1991/CV039_91",
+      "texto": "Convênio ICMS nº 39, de 7 de agosto de 1991"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1991/CV041_91",
+      "texto": "Convênio ICMS nº 41, de 7 de agosto de 1991"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1991/CV057_91",
+      "texto": "Convênio ICMS nº 57, de 26 de setembro de 1991"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1991/CV058_91",
+      "texto": "Convênio ICMS nº 58, de 26 de setembro de 1991"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1991/CV075_91",
+      "texto": "Convênio ICMS nº 75, de 5 de dezembro de 1991"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1992/CV002_92",
+      "texto": "Convênio ICMS nº 2, de 26 de março de 1992"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1992/CV003_92",
+      "texto": "Convênio ICMS nº 3, de 26 de março de 1992"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1992/CV004_92",
+      "texto": "Convênio ICMS nº 4, de 26 de março de 1992"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1992/CV020_92",
+      "texto": "Convênio ICMS nº 20, de 3 de abril de 1992"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1992/CV055_92",
+      "texto": "Convênio ICMS nº 55, de 25 de junho de 1992"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1992/CV078_92",
+      "texto": "Convênio ICMS nº 78, de 30 de julho de 1992"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1992/CV123_92",
+      "texto": "Convênio ICMS nº 123, de 25 de setembro de 1992"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1992/CV142_92",
+      "texto": "Convênio ICMS nº 142, de 15 de dezembro de 1992"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1993/CV009_93",
+      "texto": "Convênio ICMS nº 9, de 30 de abril de 1993"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1993/CV029_93",
+      "texto": "Convênio ICMS nº 29, de 30 de abril de 1993"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1993/CV050_93",
+      "texto": "Convênio ICMS nº 50, de 30 de abril de 1993"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1993/CV061_93",
+      "texto": "Convênio ICMS nº 61, de 10 de setembro de 1993"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1993/CV132_93",
+      "texto": "Convênio ICMS nº 132, de 9 de dezembro de 1993"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1993/CV138_93",
+      "texto": "Convênio ICMS nº 138, de 9 de dezembro de 1993"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1994/CV055_94",
+      "texto": "Convênio ICMS nº 55, de 30 de junho de 1994"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1995/CV032_95",
+      "texto": "Convênio ICMS nº 32, de 4 de abril de 1995"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1995/CV042_95",
+      "texto": "Convênio ICMS nº 42, de 28 de junho de 1995"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1995/CV082_95",
+      "texto": "Convênio ICMS nº 82, de 26 de outubro de 1995"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1996/CV020_96",
+      "texto": "Convênio ICMS nº 20, de 22 de março de 1996"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1996/CV029_96",
+      "texto": "Convênio ICMS nº 29, de 31 de maio de 1996"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1996/CV033_96",
+      "texto": "Convênio ICMS nº 33, de 31 de maio de 1996"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1997/CV084_97",
+      "texto": "Convênio ICMS nº 84, de 26 de setembro de 1997"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1997/CV123_97",
+      "texto": "Convênio ICMS nº 123, de 12 de dezembro de 1997"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1997/CV136_97",
+      "texto": "Convênio ICMS nº 136, de 12 de dezembro de 1997"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1998/cv004_98",
+      "texto": "Convênio ICMS nº 4, de 18 de fevereiro de 1998"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1998/cv005_98",
+      "texto": "Convênio ICMS nº 5, de 20 de março de 1998"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1998/cv047_98",
+      "texto": "Convênio ICMS nº 47, de 19 de junho de 1998"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1998/cv057_98",
+      "texto": "Convênio ICMS nº 57, de 19 de junho de 1998"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1998/cv091_98",
+      "texto": "Convênio ICMS nº 91, de 18 de setembro de 1998"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1998/cv095_98",
+      "texto": "Convênio ICMS nº 95, de 18 de setembro de 1998"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/1999/CV033_99",
+      "texto": "Convênio ICMS nº 33, de 23 de julho de 1999"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2000/CV005_00",
+      "texto": "Convênio ICMS nº 5, de 24 de março de 2000"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2000/CV033_00",
+      "texto": "Convênio ICMS nº 33, de 26 de abril de 2000"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2000/CV063_00",
+      "texto": "Convênio ICMS nº 63, de 15 de setembro de 2000"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2000/CV074_00",
+      "texto": "Convênio ICMS nº 74, de 15 de setembro de 2000"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2000/CV096_00",
+      "texto": "Convênio ICMS nº 96, de 15 de dezembro de 2000"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV033_01",
+      "texto": "Convênio ICMS nº 33, de 6 de julho de 2001"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV038_01",
+      "texto": "Convênio ICMS nº 38, de 6 de julho de 2001"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV041_01",
+      "texto": "Convênio ICMS nº 41, de 6 de julho de 2001"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV049_01",
+      "texto": "Convênio ICMS nº 49, de 6 de julho de 2001"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV116_01",
+      "texto": "Convênio ICMS nº 116, de 7 de dezembro de 2001"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV117_01",
+      "texto": "Convênio ICMS nº 117, de 7 de dezembro de 2001"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV125_01",
+      "texto": "Convênio ICMS nº 125, de 7 de dezembro de 2001"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2001/CV140_01",
+      "texto": "Convênio ICMS nº 140, de 19 de dezembro de 2001"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV087_02",
+      "texto": "Convênio ICMS nº 87, de 28 de junho de 2002"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV133_02",
+      "texto": "Convênio ICMS nº 133, de 21 de outubro de 2002"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV011_02",
+      "texto": "Convênio ICMS nº 11, de 15 de março de 2002"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV031_02",
+      "texto": "Convênio ICMS nº 31, de 15 de março de 2002"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV040_02",
+      "texto": "Convênio ICMS nº 40, de 15 de março de 2002"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV063_02",
+      "texto": "Convênio ICMS nº 63, de 28 de junho de 2002"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV074_02",
+      "texto": "Convênio ICMS nº 74, de 28 de junho de 2002"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV117_02",
+      "texto": "Convênio ICMS nº 117, de 20 de setembro de 2002"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2002/CV150_02",
+      "texto": "Convênio ICMS nº 150, de 13 de dezembro de 2002"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV008_03",
+      "texto": "Convênio ICMS nº 8, de 4 de abril de 2003"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV014_03",
+      "texto": "Convênio ICMS nº 14, de 4 de abril de 2003"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV018_03",
+      "texto": "Convênio ICMS nº 18, de 4 de abril de 2003"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV022_03",
+      "texto": "Convênio ICMS nº 22, de 4 de abril de 2003"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV062_03",
+      "texto": "Convênio ICMS nº 62, de 4 de julho de 2003"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV065_03",
+      "texto": "Convênio ICMS nº 65, de 4 de julho de 2003"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV074_03",
+      "texto": "Convênio ICMS nº 74, de 10 de outubro de 2003"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV081_03",
+      "texto": "Convênio ICMS nº 81, de 10 de outubro de 2003"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV087_03",
+      "texto": "Convênio ICMS nº 87, 10 de outubro de 2003"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV089_03",
+      "texto": "Convênio ICMS nº 89, de 10 de outubro de 2003"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV090_03",
+      "texto": "Convênio ICMS nº 90, de 10 de outubro de 2003"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2003/CV133_03",
+      "texto": "Convênio ICMS nº 133, de 12 de dezembro de 2003"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2004/CV002_04",
+      "texto": "Convênio ICMS nº 2, de 29 de janeiro de 2004"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2004/CV004_04",
+      "texto": "Convênio ICMS nº 4, de 2 de abril de 2004"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2004/CV015_04",
+      "texto": "Convênio ICMS nº 15, de 2 de abril de 2004"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2004/CV044_04",
+      "texto": "Convênio ICMS nº 44, de 18 de junho de 2004"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2004/CV070_04",
+      "texto": "Convênio ICMS nº 70, de 24 de setembro de 2004"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2004/CV128_04",
+      "texto": "Convênio ICMS nº 128, de 10 de dezembro de 2004"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2004/CV137_04",
+      "texto": "Convênio ICMS nº 137, de 10 de dezembro de 2004"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV023_05",
+      "texto": "Convênio ICMS nº 23, de 1º de abril de 2005"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV028_05",
+      "texto": "Convênio ICMS nº 28, de 1º de abril de 2005"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV032_05",
+      "texto": "Convênio ICMS nº 32, de 1º de abril de 2005"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV040_05",
+      "texto": "Convênio ICMS nº 40, de 1º de abril de 2005"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV051_05",
+      "texto": "Convênio ICMS nº 51, de 30 de maio de 2005"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV065_05",
+      "texto": "Convênio ICMS nº 65, de 1º de julho de 2005"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV079_05",
+      "texto": "Convênio ICMS nº 79, de 1º de julho de 2005"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV122_05",
+      "texto": "Convênio ICMS nº 122, de 30 de setembro de 2005"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV130_05",
+      "texto": "Convênio ICMS nº 130, de 16 de dezembro de 2005"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV131_05",
+      "texto": "Convênio ICMS nº 131, de 16 de dezembro de 2005"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV140_05",
+      "texto": "Convênio ICMS nº 140, de 16 de dezembro de 2005"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV161_05",
+      "texto": "Convênio ICMS nº 161, de 16 de dezembro de 2005"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2005/CV170_05",
+      "texto": "Convênio ICMS nº 170, de 16 de dezembro de 2005"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV003_06",
+      "texto": "Convênio ICMS nº 3, de 24 de março de 2006"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV009_06",
+      "texto": "Convênio ICMS nº 9, de 24 de março de 2006"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV019_06",
+      "texto": "Convênio ICMS nº 19, de 24 de março de 2006"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV027_06",
+      "texto": "Convênio ICMS nº 27, de 24 de março de 2006"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV030_06",
+      "texto": "Convênio ICMS nº 30, de 7 de julho de 2006"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV031_06",
+      "texto": "Convênio ICMS nº 31, de 7 de julho de 2006"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV032_06",
+      "texto": "Convênio ICMS nº 32, de 7 de julho de 2006"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV035_06",
+      "texto": "Convênio ICMS nº 35, de 7 de julho de 2006"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV051_06",
+      "texto": "Convênio ICMS nº 51, de 7 de julho de 2006"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV074_06",
+      "texto": "Convênio ICMS nº 74, de 3 de agosto de 2006"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV080_06",
+      "texto": "Convênio ICMS nº 80, de 1º de setembro de 2006"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV082_06",
+      "texto": "Convênio ICMS nº 82, de 6 de outubro de 2006"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV085_06",
+      "texto": "Convênio ICMS nº 85, de 6 de outubro de 2006"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV095_06",
+      "texto": "Convênio ICMS nº 95, de 6 de outubro de 2006"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV097_06",
+      "texto": "Convênio ICMS nº 97, de 6 de outubro de 2006"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV133_06",
+      "texto": "Convênio ICMS nº 133, de 15 de dezembro de 2006"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2006/CV144_06",
+      "texto": "Convênio ICMS nº 144, de 15 de dezembro de 2006"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV009_07",
+      "texto": "Convênio ICMS nº 9, de 30 de março de 2007"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV010_07",
+      "texto": "Convênio ICMS nº 10, de 30 de março de 2007"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV023_07",
+      "texto": "Convênio ICMS nº 23, de 30 de março de 2007"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV053_07",
+      "texto": "Convênio ICMS nº 53, de 16 de maio de 2007"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV057_07",
+      "texto": "Convênio ICMS nº 57, de 5 de junho de 2007"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV065_07",
+      "texto": "Convênio ICMS nº 65, de 6 de julho de 2007"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV066_07",
+      "texto": "Convênio ICMS nº 66, de 6 de julho de 2007"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV089_07",
+      "texto": "Convênio ICMS nº 89, de 6 de julho de 2007"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV095_07",
+      "texto": "Convênio ICMS nº 95, de 6 de julho de 2007"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2007/CV130_07",
+      "texto": "Convênio ICMS nº 130, de 27 de novembro de 2007"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV004_08",
+      "texto": "Convênio ICMS nº 4, de 4 de abril de 2008"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV005_08",
+      "texto": "Convênio ICMS nº 5, de 4 de abril de 2008"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV007_08",
+      "texto": "Convênio ICMS nº 7, de 4 de abril de 2008"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV008_08",
+      "texto": "Convênio ICMS nº 8, de 4 de abril de 2008"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV088_08",
+      "texto": "Convênio ICMS nº 88, de 4 de julho de 2008"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV134_08",
+      "texto": "Convênio ICMS nº 134, de 5 de dezembro de 2008"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2008/CV159_08",
+      "texto": "Convênio ICMS nº 159, de 17 de dezembro de 2008"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2009/CV008_09",
+      "texto": "Convênio ICMS nº 8, de 3 de abril de 2009"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2009/CV026_09",
+      "texto": "Convênio ICMS nº 26, de 3 de abril de 2009"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2009/CV034_09",
+      "texto": "Convênio ICMS nº 34, de 3 de abril de 2009"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV016_10",
+      "texto": "Convênio ICMS nº 16, de 26 de março de 2010"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV026_10",
+      "texto": "Convênio ICMS nº 26, de 26 de março de 2010"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV045_10",
+      "texto": "Convênio ICMS nº 45, de 26 de março de 2010"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV047_10",
+      "texto": "Convênio ICMS nº 47, de 26 de março de 2010"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV073_10",
+      "texto": "Convênio ICMS nº 73, de 3 de maio de 2010"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV089_10",
+      "texto": "Convênio ICMS nº 89, de 9 de julho de 2010"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV106_10",
+      "texto": "Convênio ICMS nº 106, de 9 de julho de 2010"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV118_10",
+      "texto": "Convênio ICMS nº 118, de 9 de julho de 2010"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2010/CV138_10",
+      "texto": "Convênio ICMS nº 138, de 24 de setembro de 2010"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2011/CV098_11",
+      "texto": "Convênio ICMS nº 98, de 30 de setembro de 2011"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV038_12",
+      "texto": "Convênio ICMS nº 38, de 30 de março de 2012"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV046_12",
+      "texto": "Convênio ICMS nº 46, de 16 de abril de 2012"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV056_12",
+      "texto": "Convênio ICMS nº 56, de 22 de junho de 2012"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV061_12",
+      "texto": "Convênio ICMS nº 61, de 22 de junho de 2012"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV091_12",
+      "texto": "Convênio ICMS nº 91, de 28 de setembro de 2012"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV095_12",
+      "texto": "Convênio ICMS nº 95, de 28 de setembro de 2012"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV127_12",
+      "texto": "Convênio ICMS nº 127, de 17 de dezembro de 2012"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV129_12",
+      "texto": "Convênio ICMS nº 129, de 17 de dezembro de 2012"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2012/CV147_12",
+      "texto": "Convênio ICMS nº 147, de 17 de dezembro de 2012"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV024_13",
+      "texto": "Convênio ICMS nº 24, de 5 de abril de 2013"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV027_13",
+      "texto": "Convênio ICMS nº 27, de 5 de abril de 2013"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV030_13",
+      "texto": "Convênio ICMS nº 30, de 11 de abril de 2013"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV046_13",
+      "texto": "Convênio ICMS nº 46, de 12 de junho de 2013"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV058_13",
+      "texto": "Convênio ICMS nº 58, de 26 de julho de 2013"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV062_13",
+      "texto": "Convênio ICMS nº 62, de 26 de julho de 2013"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV063_13",
+      "texto": "Convênio ICMS nº 63, de 26 de julho de 2013"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV064_13",
+      "texto": "Convênio ICMS nº 64, de 26 de julho de 2013"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV080_13",
+      "texto": "Convênio ICMS nº 80, de 26 de julho de 2013"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV081_13",
+      "texto": "Convênio ICMS nº 81, de 26 de julho de 2013"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV082_13",
+      "texto": "Convênio ICM nº 82, de 26 de julho de 2013"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV113_13",
+      "texto": "Convênio ICMS nº 113, de 11 de outubro de 2013"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV126_13",
+      "texto": "Convênio ICMS nº 126, de 11 de outubro de 2013"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV161_13",
+      "texto": "Convênio ICMS nº 161, de 6 de dezembro de 2013"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV017_14",
+      "texto": "Convênio ICMS nº 17, de 21 de março de 2014"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV112_14",
+      "texto": "Convênio ICMS nº 112, de 19 de novembro de 2014"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2014/CV127_14",
+      "texto": "Convênio ICMS nº 127, de 5 de dezembro de 2014"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV057_15",
+      "texto": "Convênio ICMS nº 57, de 30 de junho de 2015"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2015/CV137_15",
+      "texto": "Convênio ICMS nº 137, de 20 de novembro de 2015"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2016/CV019_16",
+      "texto": "Convênio ICMS nº 19, de 8 de abril de 2016"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2016/CV064_16",
+      "texto": "Convênio ICMS nº 64, de 8 de julho de 2016"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2016/CV073_16",
+      "texto": "Convênio ICMS nº 73, de 8 de julho de 2016"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2016/CV101_16",
+      "texto": "Convênio ICMS nº 101, 23 de setembro de 2016"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV004_17",
+      "texto": "Convênio ICMS nº 4, de 8 de fevereiro de 2017"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV009_17",
+      "texto": "Convênio ICMS nº 9, de 8 de fevereiro de 2017"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV100_17",
+      "texto": "Convênio ICMS nº 100, de 29 de setembro de 2017"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2017/CV224_17",
+      "texto": "Convênio ICMS nº 224, de 15 de dezembro de 2017"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV024_18",
+      "texto": "Convênio ICMS nº 24, de 3 de abril de 2018"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV090_18",
+      "texto": "Convênio ICMS nº 90, de 28 de setembro de 2018"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV095_18",
+      "texto": "Convênio ICMS nº 95, de 28 de setembro de 2018"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV129_18",
+      "texto": "Convênio ICMS nº 129, de 12 de novembro de 2018"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV131_18",
+      "texto": "Convênio ICMS nº 131, de 12 de novembro de 2018"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2018/CV136_18",
+      "texto": "Convênio ICMS nº 136, de 28 de novembro de 2018"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV052_19",
+      "texto": "Convênio ICMS nº 52, de 5 de abril de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV057_19",
+      "texto": "Convênio ICMS nº 57, de 5 de julho de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV065_19-1",
+      "texto": "Convênio ICMS nº 65, de 5 de julho de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV075_19",
+      "texto": "Convênio ICMS nº 75, de 5 de julho de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV076_19",
+      "texto": "Convênio ICMS nº 76, de 5 de julho de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV077_19",
+      "texto": "Convênio ICMS nº 77, de 5 de julho de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV078_19",
+      "texto": "Convênio ICMS nº 78, de 5 de julho de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV079_19",
+      "texto": "Convênio ICMS nº 79, de 5 de julho de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV080_19",
+      "texto": "Convênio ICMS nº 80, de 5 de julho de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV081_19",
+      "texto": "Convênio ICMS nº 81, de 5 de julho de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV082_19",
+      "texto": "Convênio ICMS nº 82, de 5 de julho de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV083_19",
+      "texto": "Convênio ICMS nº 83, de 5 de julho de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV085_19",
+      "texto": "Convênio ICMS nº 85, de 5 de julho de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV086_19",
+      "texto": "Convênio ICMS nº 86, de 5 de julho de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV087_19",
+      "texto": "Convênio ICMS nº 87, de 5 de julho de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV088_19",
+      "texto": "Convênio ICMS nº 88, de 5 de julho de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV089_19",
+      "texto": "Convênio ICMS nº 89, de 5 de julho de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV090_19",
+      "texto": "Convênio ICMS nº 90, de 5 de julho de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV091_19",
+      "texto": "Convênio ICMS nº 91, de 5 de julho de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV092_19",
+      "texto": "Convênio ICMS nº 92, de 5 de julho de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV094_19",
+      "texto": "Convênio ICMS nº 94, de 5 de julho de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV103_19",
+      "texto": "Convênio ICMS nº 103, de 5 de julho de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV124_19",
+      "texto": "Convênio ICMS nº 124, de 5 de julho de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV128_19",
+      "texto": "Convênio ICMS nº 128, de 5 de julho de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV149_19",
+      "texto": "Convênio ICMS nº 149, de 10 de outubro de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV153_19",
+      "texto": "Convênio ICMS nº 153, de 10 de outubro de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV178_19",
+      "texto": "Convênio ICMS nº 178, de 10 de outubro de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV181_19",
+      "texto": "Convênio ICMS nº 181, de 10 de outubro de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV183_19",
+      "texto": "Convênio ICMS nº 183, de 10 de outubro de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV215_19",
+      "texto": "Convênio ICMS nº 215, de 13 de dezembro de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV218_19",
+      "texto": "Convênio ICMS nº 218, de 13 de dezembro de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV225_19",
+      "texto": "Convênio ICMS nº 225, de 13 de dezembro de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV229_19",
+      "texto": "Convênio ICMS nº 229, de 13 de dezembro de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2019/CV233_19",
+      "texto": "Convênio ICMS nº 233, de 13 de dezembro de 2019"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV050_20",
+      "texto": "Convênio ICMS nº 50, de 30 de julho de 2020"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV143_20",
+      "texto": "Convênio ICMS nº 143, de 9 de dezembro de 2020"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV151_20",
+      "texto": "Convênio ICMS nº 151, de 9 de dezembro de 2020"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV034_21",
+      "texto": "Convênio ICMS nº 34, de 8 de abril de 2021"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV054_21",
+      "texto": "Convênio ICMS nº 54, de 8 de abril de 2021"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV071_21",
+      "texto": "Convênio ICMS nº 71, de 8 de abril de 2021"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV102_21",
+      "texto": "Convênio ICMS nº 102, de 8 de julho de 2021"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV119_21%20-%20retificacao",
+      "texto": "Convênio ICMS nº 119, de 23 de julho de 2021"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV151_21",
+      "texto": "Convênio ICMS nº 151, de 1º de outubro de 2021"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV179_21",
+      "texto": "Convênio ICMS nº 179, de 6 de outubro de 2021"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV183_21",
+      "texto": "Convênio ICMS nº 183, de 6 de outubro de 2021"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV209_21",
+      "texto": "Convênio ICMS nº 209, de 9 de dezembro de 2021"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV210_21",
+      "texto": "Convênio ICMS nº 210, de 9 de dezembro de 2021"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2021/CV213_21",
+      "texto": "Convênio ICMS nº 213, de 9 de dezembro de 2021"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV027_22",
+      "texto": "Convênio ICMS nº 27, de 7 de abril de 2022"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV041_22",
+      "texto": "Convênio ICMS nº 41, de 7 de abril de 2022"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV088_22",
+      "texto": "Convênio ICMS nº 88, de 1º de julho de 2022"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV089_22",
+      "texto": "Convênio ICMS nº 89, de 1º de julho de 2022"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV091_22",
+      "texto": "Convênio ICMS nº 91, de 1º de julho de 2022"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV092_22",
+      "texto": "Convênio ICMS nº 92, de 1º de julho de 2022"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV184_22",
+      "texto": "Convênio ICMS nº 184, de 9 de dezembro de 2022"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2022/CV185_22",
+      "texto": "Convênio ICMS nº 185, de 9 de dezembro de 2022"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV021_23",
+      "texto": "Convênio ICMS nº 21, de 14 de abril de 2023"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV035_23",
+      "texto": "Convênio ICMS nº 35, de 14 de abril de 2023"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV056_23",
+      "texto": "Convênio ICMS nº 56, de 14 de abril de 2023"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV063_23",
+      "texto": "Convênio ICMS nº 63, de 18 de abril de 2023"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV087_23",
+      "texto": "Convênio ICMS nº 87, de 4 de agosto de 2023"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV095_23",
+      "texto": "Convênio ICMS nº 95, de 4 de agosto de 2023"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV103_23",
+      "texto": "Convênio ICMS nº 103, de 4 de agosto de 2023"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV108_23",
+      "texto": "Convênio ICMS nº 108, de 4 de agosto de 2023"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV119_23",
+      "texto": "Convênio ICMS nº 119, de 4 de agosto de 2023"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV121_23",
+      "texto": "Convênio ICMS nº 121, de 9 de agosto de 2023"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV184_23",
+      "texto": "Convênio ICMS nº 184, de 8 de dezembro de 2023"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV185_23",
+      "texto": "Convênio ICMS nº 185, de 8 de dezembro de 2023"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV195_23",
+      "texto": "Convênio ICMS nº 195, de 8 de dezembro de 2023"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV219_23",
+      "texto": "Convênio ICMS nº 219, de 21 de dezembro de 2023"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV011_24",
+      "texto": "Convênio ICMS nº 11, de 27 de março de 2024"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV019_24",
+      "texto": "Convênio ICMS nº 19, de 25 de abril de 2024"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV026_24",
+      "texto": "Convênio ICMS nº 26, de 25 de abril de 2024"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV028_24",
+      "texto": "Convênio ICMS nº 28, de 25 de abril de 2024"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV030_24",
+      "texto": "Convênio ICMS nº 30, de 25 de abril de 2024"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV040_24",
+      "texto": "Convênio ICMS nº 40, de 25 de abril de 2024"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV041_24",
+      "texto": "Convênio ICMS nº 41, de 25 de abril de 2024"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV056_24",
+      "texto": "Convênio ICMS nº 56, de 16 de maio de 2024"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV061_24",
+      "texto": "Convênio ICMS nº 61, de 17 de maio de 2024"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV081_24",
+      "texto": "Convênio ICMS nº 81, de 5 de julho de 2024"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV086_24",
+      "texto": "Convênio ICMS nº 86, de 5 de julho de 2024"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV110_24",
+      "texto": "Convênio ICMS nº 110, de 25 de outubro de 2024"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV11424",
+      "texto": "Convênio ICMS nº 114, de 25 de outubro de 2024"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV115_24",
+      "texto": "Convênio ICMS nº 115, de 25 de outubro de 2024"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV125_24",
+      "texto": "Convênio ICMS nº 125, de 25 de outubro de 2024"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV129_24",
+      "texto": "Convênio ICMS nº 129, de 6 de dezembro de 2024"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV132_24",
+      "texto": "Convênio ICMS nº 132, de 6 de dezembro de 2024"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2024/CV136_24",
+      "texto": "Convênio ICMS nº 136, de 6 de dezembro de 2024"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV011_25",
+      "texto": "Convênio ICMS nº 11, de 27 de fevereiro de 2025"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV022_25",
+      "texto": "Convênio ICMS nº 22, de 11 de abril de 2025"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV023_25",
+      "texto": "Convênio ICMS nº 23, de 11 de abril de 2025"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV024_25",
+      "texto": "Convênio ICMS nº 24, de 11 de abril de 2025"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV041_25",
+      "texto": "Convênio ICMS nº 41, de 11 de abril de 2025"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV042_25",
+      "texto": "Convênio ICMS nº 42, de 11 de abril de 2025"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV043_25",
+      "texto": "Convênio ICMS nº 43, de 11 de abril de 2025"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV086_25",
+      "texto": "Convênio ICMS nº 86, de 4 de julho de 2025"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV091_25",
+      "texto": "Convênio ICMS nº 91, de 4 de julho de 2025"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV093_25",
+      "texto": "Convênio ICMS nº 93, de 4 de julho de 2025"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV128_25",
+      "texto": "Convênio ICMS nº 128, de 3 de outubro de 2025"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV144_25",
+      "texto": "Convênio ICMS nº 144, de 3 de outubro de 2025"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV145_25",
+      "texto": "Convênio ICMS nº 145, de 3 de outubro de 2025"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV022_23",
+      "texto": "Convênio ICMS nº 22, de 14 de abril de 2023"
+    }
+  ],
+  "prova": {
+    "dom_textual_atributos_preservados": true,
+    "texto_visivel_integral": true,
+    "assinatura_numerica": true,
+    "matrizes_html5": true
+  },
+  "versao": "Texto e notas oficiais do portal CONFAZ conforme a captura; não se afirma vigência ou edição original imutável."
+}

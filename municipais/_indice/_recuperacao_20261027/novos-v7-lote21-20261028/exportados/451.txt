@@ -1,0 +1,119 @@
+---
+titulo: "04 - Lei Ordinária nº 5, de 12 de dezembro de 1961"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "5"
+data: "1961-12-12"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/452"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/435/text"
+sha256_fonte: "f2824dd7bdb22751e82695ff56aa0848b49789002e40cdb485c297b6a8e65a29"
+sha256_texto: "fa2d3b9ae987fe5fe97af905a292c08c55a2c31acbfee31bc9a6ba17d735e439"
+capturado_em_fonte: "2026-10-28T09:37:59.877713-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 5, de 12 de dezembro de 1961
+
+Orçou a receita e fica a despesa do Município de Corbélia, Estado do Paraná, para o Exercício Financeiro de 1962.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou, e eu, Prefeito Municipal, sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+A receita geral do Município de Corbélia, para o exercício financeiro de 1962, é orçada em Cr$ \_\_\_\_\_\_\_\_\_\_, e será arrecadada de conformidade com a legislação vigorante, obedecendo a seguinte classificação:
+
+
+0 e 1 = Tributaria R$ 2.118.375,00
+
+2 = Patrimonial R$ 4.265,00
+
+4 = Receitas Diversas R$ 6.300.000,00
+
+6 = Receita Extraordinária R$ 5.027.000,00
+
+**Total R$ 13.450,000,00**
+
+
+Art. 2º.
+
+A despesas geral do Município de Corbélia, para o exercício de 1962 e Fixado em Cr$ \_\_\_\_\_\_\_\_\_\_, e será despendida, de acordo com a classificação seguinte:
+
+
+8 – Legislativo Municipal Cr$ \_\_\_\_\_\_\_\_\_\_
+
+Executivo Municipal Cr$ \_\_\_\_\_\_\_\_\_\_
+
+Serviços Publicas Município Cr$ \_\_\_\_\_\_\_\_\_\_
+
+Limpeza Pública Municipal Cr$ \_\_\_\_\_\_\_\_\_\_
+
+Obras e Melhoramentos em Comum Cr$ \_\_\_\_\_\_\_\_\_\_
+
+Formato da Produção Animal Cr$ \_\_\_\_\_\_\_\_\_\_
+
+Formato da Produção Vegetal Cr$ \_\_\_\_\_\_\_\_\_\_
+
+Outros Cargos Cr$ \_\_\_\_\_\_\_\_\_\_
+
+Auxílios e Subvenção Cr$ \_\_\_\_\_\_\_\_\_\_
+
+Total Cr$ \_\_\_\_\_\_\_\_\_\_
+
+
+Art. 3º.
+
+A despesa que não tenha caráter obrigatório ou urgente, será efetuado após a arrecadação da Receita destinada e a custeá-la ou verificação da possibilidade de sua arrecadação.
+
+
+Art. 4º.
+
+A dotação orçamentária, é caracterizada por unidades administrativas ou serviços e dívidas por elementos.
+
+
+§ 1º
+
+Os elementos são: pessoal fixo, pessoal variável, material permanente, material de consumo e despesas diversas.
+
+
+§ 2º
+
+As parcelas dos elementos são transferíveis dentro do mesmo elemento da respectiva dotação, sempre que as necessidades assim o determinem.
+
+
+Art. 5º.
+
+A abertura de Créditos Suplementares especiais e extraordinários depende de recursos para sua abertura e deverá ser acompanhada de expedição justificativa, observadas em disposições em vigor.
+
+
+Art. 6º.
+
+O exercício financeiro começará em 1º de janeiro de cada ano e terminará a 31 de dezembro.
+
+
+Art. 7º.
+
+Revogam-se as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE CORBÉLIA  
+Em 12 de dezembro de 1961.
+
+JULIO TOZZO  
+Prefeito Municipal
+
+Não substitui o texto publicado no Diário Oficial.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/452/ta
+

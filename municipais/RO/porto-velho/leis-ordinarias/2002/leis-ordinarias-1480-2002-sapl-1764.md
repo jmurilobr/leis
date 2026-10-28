@@ -1,0 +1,73 @@
+---
+titulo: "Lei nº 1.480, de 04 de setembro de 2002"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1480"
+data: "2002-09-04"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/1764"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/3432/text"
+sha256_fonte: "7cbf3f36f6a4c1929d0da3d23230c5e55363611c2d558e61834806496586b918"
+sha256_texto: "b8c6cccb11d7a46ce2a9d36c87af079b4b9fa80d3f43654a907527a8f980ef61"
+capturado_em_fonte: "2026-10-27T21:44:04.488503-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.480, de 04 de setembro de 2002
+
+“Estabelece normas de segurança para as faixas de pedestres nas vias públicas do município de Porto Velho”.
+
+
+**O PRESIDENTE DA CÂMARA MUNICIPAL DE PORTO VELHO**, usando da atribuição que lhe é concedida no § 6º, do artigo 72 da Lei Orgânica do Município de Porto Velho, combinado com o § 6º, do artigo 165, do Regimento Interno, promulga a seguinte:
+
+**L E I:**
+
+
+Art. 1º.
+
+As faixas de pedestres especificamente demarcados pela SEMTRAN nas vias públicas junto às entidades e complexos de grande concentração pública, de ensino e de internação coletiva, públicos e privados, instalados no território do Município de Porto Velho, deverão ser obrigatoriamente indicadas por dispositivo catadióptico como sinal luminoso da alerta.
+
+
+Parágrafo único
+
+Para o fim da prerrogativa estabelecida neste artigo, as entidades de que trata o art. 1º caracterizam-se por estabelecimentos comerciais do tipo shoping, supermercados, escolas, colégios, faculdades públicas e particulares, hospitais e asilos.
+
+
+Art. 2º.
+
+Fica estabelecido, doravante que, os equipamentos de reflexão e refração da luz utilizados junto a estas faixas de pedestres deverão ser, obrigatoriamente, do tipo fixo como os denominados comumente por “olho de gato”.
+
+
+Art. 3º.
+
+Conforme pesquisas de intensidade do tráfego de veículos e de pedestres e de acordo com a necessidade, poderão ser acrescidos outros equipamentos do tipo móvel como os cones de sinalização, refletivos ou não, com ou sem luminosos intermitentes, que darão ampla visibilidade durante os horários e períodos de maio fluxo de pessoas nestas faixas de pedestres.
+
+
+Parágrafo único
+
+Conforme a presente, os proprietários de veículos que utilizarem as vias públicas do Município de Porto Velho respeitarão as normas de aproximação e estas faixas de trânsito, diminuindo sua velocidade para os limites de segurança regularmente indicados por placas e estabelecidos por lei.
+
+
+Art. 4º.
+
+Implicará na responsabilidade civil e penal, ao condutor de veículo automotor que infringir os dispositivos da presente lei que, por ação ou omissão, lhe der causa, concorrendo para a infração.
+
+
+Art. 5º.
+
+O Poder Executivo é autorizado ainda a regulamentar a presente lei, se necessário.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua promulgação, revogadas as disposições em contrário.
+
+
+Vereador **EDISON GAZONI Presidente/CMPV**
+

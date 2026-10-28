@@ -1,0 +1,222 @@
+---
+titulo: "Lei nº 794, de 13 de abril de 1999"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "794"
+data: "1999-04-13"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/1017"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/1657/text"
+sha256_fonte: "d4e80560a409bf22ccad4d06a19bfcb0435355504018d10076955d726ad94bdc"
+sha256_texto: "4d8c55232bf6e925860d2d235a8c1ffe07290ca0a6f8a93eb922f9c287e8f074"
+capturado_em_fonte: "2026-10-27T20:24:37.669606-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 794, de 13 de abril de 1999
+
+Dispõe sobre a criação do conselho municipal dos direitos da mulher e dá outras providências.
+
+
+O Prefeito municipal de Buritis MG, no uso da atribuição que lhe confere o art. 93, VII da lei Orgânica do município, faz saber que a câmara municipal decreta e ele em seu nome, promulga a seguinte lei:
+
+
+Art. 1º.
+
+É criado o conselho municipal dos direitos da mulher, vinculado à Assessoria Jurídica, com a finalidade de formular diretrizes e programas e as políticas públicas relacionadas com a promoção da melhoria das condições de vida das mulheres, e a eliminação de todas as formas de discriminação, de modo a assegurar-lhes plena participação e igualdade nos planos político, econômico, social, cultural e jurídico.
+
+
+Art. 2º.
+
+O Conselho Municipal dos direitos da mulher será constituído por 08 (oito) membros, atendida a composição paritária entre governo e Sociedade Civil, na seguinte forma:
+
+
+I –
+
+Pelo Governo municipal:
+
+
+a)
+
+01 (Uma) representante da Secretaria Municipal de Educação;
+
+
+b)
+
+01 (Uma) representante da Procuradoria Geral do município;
+
+
+c)
+
+01 (uma) representante da Secretaria Municipal de Saúde;
+
+
+d)
+
+01 (uma) representante da Secretaria Municipal de Assistência Social;
+
+
+II –
+
+Pela Sociedade Civil:
+
+
+a)
+
+01 (uma) representante das Associações de Bairros;
+
+
+b)
+
+01 (uma) representante das Associações e ou Conselhos comunitários Rurais;
+
+
+c)
+
+01 (uma) representante da cooperativa de trabalho;
+
+
+d)
+
+01 (uma) representante do colegiado das escolas.
+
+
+Art. 3º.
+
+As representantes governamentais serão indicados pelo Prefeito Municipal.
+
+
+Art. 4º.
+
+As representantes da sociedade civil serão indicadas por cada uma das entidades mencionadas no inciso II do art 2º desta lei.
+
+
+Art. 5º.
+
+Para cada conselheira titular será escolhida uma suplente, observados os mesmos procedimentos e exigências das titulares.
+
+
+Art. 6º.
+
+A Presidente do CMDM, será eleita pela assembleia, mediante eleição promovida pelas conselheiras.
+
+
+Art. 7º.
+
+O mandato dos membros do conselho Municipal dos Direitos da Mulher será de 02 (dois) anos, permitida uma recondução, e não será remunerado.
+
+
+Art. 8º.
+
+Compete ao Conselho Municipal dos Direitos da Mulher:
+
+
+I –
+
+formular políticas públicas e coordenar as ações de governo voltadas para a eliminação da discriminação de gênero e promoção da igualdade;
+
+
+II –
+
+estimular, apoiar e desenvolver estudos, pesquisas e debates sobre a identidade de gênero;
+
+
+III –
+
+receber, examinar e encaminhar para providências dos órgãos competentes denúncias relativas à discriminação de gênero em todos os setores da sociedade;
+
+
+IV –
+
+manter canais permanentes de relacionamento com o movimento social de mulheres, apoiando suas atividades;
+
+
+V –
+
+promover intercâmbios e firmar convênios com organismos nacionais e internacionais, públicos ou privados;
+
+
+VI –
+
+receber, examinar e encaminhar aos órgãos competentes denúncias de violência física, sexual e psicológica praticadas contra a mulher, oferecendo apoio para preservação de sua integridade enquanto cidadã;
+
+
+VII –
+
+orientar os órgãos governamentais sobre as ações referentes às questões de gênero nas suas respectivas áreas;
+
+
+VIII –
+
+promover campanhas, através dos meios de comunicação, de combate a todo tipo de discriminação de gênero, visando a construção da plena cidadania da mulher;
+
+
+IX –
+
+promover ações que identifiquem e corrijam as desigualdades de gênero nas relações de trabalho, de forma a assegurar a igualdade de oportunidades e tratamento ao conjunto de seus servidores;
+
+
+X –
+
+promover a formação e capacitação do (a) servidor (a) público municipal no planejamento e execução de políticas públicas que incorporem as relações de gênero;
+
+
+XI –
+
+garantir a implementação, no município, de todas as convenções internacionais que digam respeito à mulher, das quais o Brasil é signatário;
+
+
+XII –
+
+organizar um banco de dados sobre a luta das mulheres no município de Buritis, preservando sua memória histórica e cultural;
+
+
+XIII –
+
+elaborar e aprovar o seu Regimento Interno.
+
+
+Art. 9º.
+
+O CMDM reunir-se-á ordinariamente uma vez por mês e extraordinariamente na forma que dispuser seu Regimento Interno.
+
+
+Art. 10.
+
+O suporte técnico e administrativo necessário ao funcionamento do Conselho será prestado pela Assessoria Jurídica do Município e pelas Assessorias Especiais de gabinete.
+
+
+Art. 11.
+
+A instalação do CMDM será feito no prazo máximo de 60 (sessenta) dias, contados da publicação desta lei.
+
+
+Parágrafo único
+
+Dentro do prazo de 60 (sessenta) dias, contados de sua instalação, o CMDM elaborará o seu Regimento Interno.
+
+
+Art. 12.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Art. 13.
+
+Revogam-se as disposições em contrário.
+
+
+Buritis - MG, 13 de abril de 1999.
+
+**Pe. José Vicente Damasceno Prefeito Municipal**
+
+**Clarindo F. Filho Assessor Jurídico**
+
+Projeto lei nº 005/99, de 08/03/99. Aprovado em 1ª votação por 10 votos a favor e nenhum contra. Aprovado em 2ª votação por 10 votos a favor e nenhum contra. Sala das sessões, 12/04/99.
+

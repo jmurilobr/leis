@@ -1,0 +1,278 @@
+{
+  "preparado_em": "2026-10-28T11:40:24.009209-03:00",
+  "total": 3,
+  "novas_normas": 0,
+  "documentos": [
+    {
+      "grupo": "45",
+      "path": "estaduais/TO/leis-ordinarias/2004/l-1460-2004-aleto7705.md",
+      "preimagem": "estaduais/TO/_fonte/auditorias/to3-notas-edicao-privado-20261028-001/preimagens/estaduais/TO/leis-ordinarias/2004/l-1460-2004-aleto7705.md",
+      "sha256_preimagem": "e32baf461cfc66cb2778cf35f1d99bd2b38fd6a560b4898492e2444470ba80da",
+      "origem_preimagem": "preimagem canônica real do disco",
+      "canonicamente_presente_na_preparacao": true,
+      "HEAD_oid": "10f77cbe79695d201bd211a8a8127f664bad5221",
+      "privado": "estaduais/TO/_fonte/auditorias/to3-notas-edicao-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2004/l-1460-2004-aleto7705.md",
+      "sha256_proposta": "d3e5fca6c47ae5209e7713822e4264d0ba1dd8a114ae2ff8ce45df56714316c1",
+      "sha256_corpo_H1": "ed9ef6a8ed5b81babf7def51dfab949327e34eb72945f50838b3d407a1ff6699",
+      "corpo_H1_byte_identico": true,
+      "metadados_propostos": {
+        "versao_texto": "PDF ALETO com nota de revogação; edição histórica capturada",
+        "edicao": "PDF distribuído pelo portal oficial da Assembleia Legislativa do Tocantins, na edição capturada. A camada textual e suas anotações foram preservadas integralmente, com linhas, números e paginação; nenhum OCR foi aplicado nesta coleta. A observação de edição reproduz as notas encontradas no arquivo. Edição de publicação no DOE e vigência global não certificadas.",
+        "observacao_edicao": "Anotações literais da edição capturada:\nRevogada pela Lei nº 1.471, de 23/06/2004.\nEstas notas identificam a edição do arquivo; não certificam a situação jurídica atual."
+      },
+      "linhas_literais": [
+        "Revogada pela Lei nº 1.471, de 23/06/2004."
+      ],
+      "captura": {
+        "item": {
+          "id_ALETO": "7705",
+          "fonte": "https://www.al.to.leg.br/arquivo/7705",
+          "titulo_indice": "Lei nº 1460 de 2004 (ordinária)",
+          "numero": "1460",
+          "ano_titulo": "2004",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2004-05-06",
+          "data_literal": "| Data: 06/05/2004",
+          "ementa": "Dispõe sobre a readaptação da Função Especial Comissionada - FEC ao médico.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2004&pagPaginaAtual=5",
+            "iniciado_em": "2026-10-27T23:13:54.482517-03:00",
+            "capturado_em": "2026-10-27T23:13:55.426154-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2004&pagPaginaAtual=5",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/0bbf259a6877bc0612ddbe72a18963702848df17cdc16aec19d99302be4e2dcd.html.gz",
+            "sha256_fonte": "0bbf259a6877bc0612ddbe72a18963702848df17cdc16aec19d99302be4e2dcd",
+            "sha256_cache": "b90b88fa652b4739550f07e57680f23ae8b9a345203e27c8ae2b83baa8450d6d",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:48 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2004,
+            "pagina": 5,
+            "total_registros_declarado": 121,
+            "paginas_esperadas": 7
+          },
+          "ano_filtro": 2004,
+          "pagina": 5
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7705",
+        "iniciado_em": "2026-10-28T06:08:04.698657-03:00",
+        "capturado_em": "2026-10-28T06:08:05.854499-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7705.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/f25c52d4444ec90de093ef830a1a4bdb5de558e936e5cc2201c4621941d50ef4.bin.gz",
+        "sha256_fonte": "f25c52d4444ec90de093ef830a1a4bdb5de558e936e5cc2201c4621941d50ef4",
+        "sha256_cache": "f4cb35c55b5012277f888fadfeb7be615e571f8ddef1a86d6bca5197524ece8e",
+        "bytes": 71382,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7705.pdf",
+          "content-length": "71382",
+          "date": "Wed, 28 Oct 2026 09:04:58 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"71382-1560775747062\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:07 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "manifesto_origem": "scripts/estados/manifestos/to45-proposta-privada-20261028-001.json",
+      "sha256_manifesto_origem": "c17552d7ac571c7bb77d75022d73cec80149a99f325ff1352f2e2c1ebae0b7a5",
+      "sem_mudanca_de_identidade_status_ou_corpo": true
+    },
+    {
+      "grupo": "178",
+      "path": "estaduais/TO/leis-ordinarias/2017/l-3260-2017-aleto42093.md",
+      "preimagem": "estaduais/TO/_fonte/auditorias/to3-notas-edicao-privado-20261028-001/preimagens/estaduais/TO/leis-ordinarias/2017/l-3260-2017-aleto42093.md",
+      "sha256_preimagem": "10dfc480eb594fab0e122dad28b233e4e900c0063d35baecb845b55a5f26a4b8",
+      "origem_preimagem": "preimagem canônica real do disco",
+      "canonicamente_presente_na_preparacao": true,
+      "HEAD_oid": null,
+      "privado": "estaduais/TO/_fonte/auditorias/to3-notas-edicao-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2017/l-3260-2017-aleto42093.md",
+      "sha256_proposta": "6977cd8ee67acdccd9f03fe5a1dd030722dc7c2fa370cb72707b6c1570268390",
+      "sha256_corpo_H1": "6a4d8ea1a20ddc8fd8b468c104ac8d1606a8db3955935769b575ea3cf4a090b0",
+      "corpo_H1_byte_identico": true,
+      "metadados_propostos": {
+        "versao_texto": "PDF ALETO com anotação judicial; vigência não certificada",
+        "edicao": "PDF distribuído pelo portal oficial da Assembleia Legislativa do Tocantins, na edição capturada. A camada textual e suas anotações foram preservadas integralmente, com linhas, números e paginação; nenhum OCR foi aplicado nesta coleta. A observação de edição reproduz as notas encontradas no arquivo. Edição de publicação no DOE e vigência global não certificadas.",
+        "observacao_edicao": "Anotações literais da edição capturada:\n*Declarada Inconstitucional através da ADI nº 0006459-64.2018.827.0000 - TJTO.\nEstas notas identificam a edição do arquivo; não certificam a situação jurídica atual."
+      },
+      "linhas_literais": [
+        "*Declarada Inconstitucional através da ADI nº 0006459-64.2018.827.0000 - TJTO."
+      ],
+      "captura": {
+        "item": {
+          "id_ALETO": "42093",
+          "fonte": "https://www.al.to.leg.br/arquivo/42093",
+          "titulo_indice": "Lei nº 3260 de 2017 (ordinária)",
+          "numero": "3260",
+          "ano_titulo": "2017",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2017-08-02",
+          "data_literal": "| Data: 02/08/2017",
+          "ementa": "Dispõe sobre os serviços de Call Center de empresas concessionárias de serviço público de energia elétrica, água e saneamento no âmbito do Estado do Tocantins.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2017&pagPaginaAtual=5",
+            "iniciado_em": "2026-10-28T09:18:04.150396-03:00",
+            "capturado_em": "2026-10-28T09:18:05.232447-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2017&pagPaginaAtual=5",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261028-007/5b54e5fc64eca9b176c1bd8eaeff06bab0d7853b4dc802c70c08689ffccdead0.html.gz",
+            "sha256_fonte": "5b54e5fc64eca9b176c1bd8eaeff06bab0d7853b4dc802c70c08689ffccdead0",
+            "sha256_cache": "65d7063a8fd8139d421dbd6296eebb25c6db2480171fcc548763e7711f8af638",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 12:14:57 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2017,
+            "pagina": 5,
+            "total_registros_declarado": 171,
+            "paginas_esperadas": 9
+          },
+          "ano_filtro": 2017,
+          "pagina": 5
+        },
+        "url": "https://www.al.to.leg.br/arquivo/42093",
+        "iniciado_em": "2026-10-28T09:32:32.834544-03:00",
+        "capturado_em": "2026-10-28T09:32:34.000674-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/lei_3260-2017_42093.PDF",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-008/fontes/6aa2f4f4480dd517ac8b9cc355b01359fd119b2f066c4cea7a15e28438feedf1.bin.gz",
+        "sha256_fonte": "6aa2f4f4480dd517ac8b9cc355b01359fd119b2f066c4cea7a15e28438feedf1",
+        "sha256_cache": "cf2307eac3b851e6f5cb2291fb147ba310f86e410c1d09eb0418f165ed36bae8",
+        "bytes": 145152,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/lei_3260-2017_42093.PDF",
+          "content-length": "145152",
+          "date": "Wed, 28 Oct 2026 12:29:26 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"145152-1753965152750\"",
+          "last-modified": "Thu, 31 Jul 2025 12:32:32 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "manifesto_origem": "scripts/estados/manifestos/to178-proposta-privada-20261028-001.json",
+      "sha256_manifesto_origem": "8e4f2f56aa5f78074b4b1ab6f1c9c1508c0afa9873ddded27fafdaf4697a8ad1",
+      "sem_mudanca_de_identidade_status_ou_corpo": true
+    },
+    {
+      "grupo": "186",
+      "path": "estaduais/TO/leis-ordinarias/2000/l-1144-2000-aleto7390.md",
+      "preimagem": "estaduais/TO/_fonte/auditorias/to3-notas-edicao-privado-20261028-001/preimagens/estaduais/TO/leis-ordinarias/2000/l-1144-2000-aleto7390.md",
+      "sha256_preimagem": "4935bfdb5b55c9ad808d8be683fd833983960239f1527e91f6d04bb43b608076",
+      "origem_preimagem": "preimagem esperada: candidato congelado, aplicar somente depois da promoção ROOT",
+      "canonicamente_presente_na_preparacao": false,
+      "HEAD_oid": null,
+      "privado": "estaduais/TO/_fonte/auditorias/to3-notas-edicao-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2000/l-1144-2000-aleto7390.md",
+      "sha256_proposta": "6a4e0ec4e8e993256aafd98f831831345b8553ed436323b7a5db8664f11e8702",
+      "sha256_corpo_H1": "cfc352a476146c2c42abf68fd7216de502b1795675a0878da9e7f42b23c40603",
+      "corpo_H1_byte_identico": true,
+      "metadados_propostos": {
+        "versao_texto": "PDF ALETO com redações posteriores anotadas; data-limite da compilação não declarada",
+        "edicao": "PDF distribuído pelo portal oficial da Assembleia Legislativa do Tocantins, na edição capturada. A camada textual e suas anotações foram preservadas integralmente, com linhas, números e paginação; nenhum OCR foi aplicado nesta coleta. A observação de edição reproduz as notas encontradas no arquivo. Edição de publicação no DOE e vigência global não certificadas.",
+        "observacao_edicao": "Anotações literais da edição capturada:\n*§ 2º com redação determinada pela Lei nº 1.183, de 18/10/2000.\n*§ 4º com redação determinada pela Lei nº 1.183, de 18/10/2000.\n*Parágrafo único com redação determinada pela Lei nº 1.183, de 18/10/2000.\n*Art 4º com redação determinada pela Lei nº 1.183, de 18/10/2000.\nEstas notas identificam a edição do arquivo; não certificam a situação jurídica atual."
+      },
+      "linhas_literais": [
+        "*§ 2º com redação determinada pela Lei nº 1.183, de 18/10/2000.",
+        "*§ 4º com redação determinada pela Lei nº 1.183, de 18/10/2000.",
+        "*Parágrafo único com redação determinada pela Lei nº 1.183, de 18/10/2000.",
+        "*Art 4º com redação determinada pela Lei nº 1.183, de 18/10/2000."
+      ],
+      "captura": {
+        "item": {
+          "id_ALETO": "7390",
+          "fonte": "https://www.al.to.leg.br/arquivo/7390",
+          "titulo_indice": "Lei nº 1144 de 2000 (ordinária)",
+          "numero": "1144",
+          "ano_titulo": "2000",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2000-03-23",
+          "data_literal": "| Data: 23/03/2000",
+          "ementa": "Estabelece normas para regularização de contratos imobiliários na Capital.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2000&pagPaginaAtual=3",
+            "iniciado_em": "2026-10-27T23:13:30.288643-03:00",
+            "capturado_em": "2026-10-27T23:13:31.131075-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2000&pagPaginaAtual=3",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/718bfe4632a995b335b97cba6333283fd770447bc0eac5fede0bcc572a680367.html.gz",
+            "sha256_fonte": "718bfe4632a995b335b97cba6333283fd770447bc0eac5fede0bcc572a680367",
+            "sha256_cache": "66e91e34605ea6ceadfca3a109067af0c4c67e9eec68e329b88ee964dc6e6e20",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:24 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2000,
+            "pagina": 3,
+            "total_registros_declarado": 86,
+            "paginas_esperadas": 5
+          },
+          "ano_filtro": 2000,
+          "pagina": 3
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7390",
+        "iniciado_em": "2026-10-28T06:02:14.616841-03:00",
+        "capturado_em": "2026-10-28T06:02:15.393800-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7390.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/e7d688e2f835611b40f74a0eba1cbb154f44e8634888f1742e23ab8a92069523.bin.gz",
+        "sha256_fonte": "e7d688e2f835611b40f74a0eba1cbb154f44e8634888f1742e23ab8a92069523",
+        "sha256_cache": "f6d291d5f6c57123ad3e9cc7cf7edcdb2e75051f9809e4b4da8e7aee9c6aa2c6",
+        "bytes": 28900,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7390.pdf",
+          "content-length": "28900",
+          "date": "Wed, 28 Oct 2026 08:59:08 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"28900-1560775744778\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:04 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "manifesto_origem": "scripts/estados/manifestos/to186-recortes-proposta-privada-20261028-001.json",
+      "sha256_manifesto_origem": "5bd7e2e2e5acc5a94a1dbff492621054578d03c799eb7d67937ed0028500b924",
+      "sem_mudanca_de_identidade_status_ou_corpo": true
+    }
+  ],
+  "codigo": {
+    "scripts/estados/snapshots/to_metadados_edicao_20261028_001/aplicar_metadados_edicao.py": "baa5e805418d581c756393a74c8c30dc5f083795d9d83bfe7e287628bbbfe181",
+    "scripts/estados/snapshots/to_metadados_edicao_20261028_001/test_aplicar_metadados_edicao.py": "bcec41c07544339e35c78fcaab8bde814189585c7cc566789f33d1db863235ed"
+  },
+  "campos_alterados": [
+    "versao_texto",
+    "edicao",
+    "observacao_edicao"
+  ],
+  "corpos_e_H1_byte_identicos": 3,
+  "identidades_datas_fontes_baixado_em_situacao_revogada_intactos": true,
+  "sem_promocao": true,
+  "limite": "Metadata-only, após promoção dos respectivos lotes. Anotação judicial não é convertida em revogação. Nenhuma norma removida ou máscara aplicada. Pacotes anteriores permanecem intactos."
+}

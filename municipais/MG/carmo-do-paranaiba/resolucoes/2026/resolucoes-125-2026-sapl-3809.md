@@ -1,0 +1,580 @@
+---
+titulo: "Resolução Legislativa nº 125, de 13 de abril de 2026"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução Legislativa"
+numero: "125"
+data: "2026-04-13"
+municipio: "Carmo do Paranaíba"
+uf: "MG"
+codigo_ibge: "3114303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.carmodoparanaiba.mg.leg.br/norma/3809"
+fonte_texto: "https://sapl.carmodoparanaiba.mg.leg.br/ta/81/text"
+sha256_fonte: "da5603ae168c1b744fc4e97f5d66b523203e489aa7e35596cd562f1e91715491"
+sha256_texto: "fc0a390b8ab08ec1fc03e141dc123926a2f1535c41fb7b8da8d835e75dd3c433"
+capturado_em_fonte: "2026-10-27T22:33:33.196257-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Resolução Legislativa nº 125, de 13 de abril de 2026
+
+Institui a Ouvidoria da Câmara Municipal de Carmo do Paranaíba, dispõe sobre sua organização, competências e funcionamento, em conformidade com a Lei nº 13.460, de 26 de junho de 2017, e dá outras providências.
+
+
+O Presidente da Câmara Municipal de Carmo do Paranaíba faz saber que a Edilidade aprovou e a Mesa Diretora promulgou a seguinte RESOLUÇÃO:
+
+
+#### CAPÍTULO I — DA OUVIDORIA E DE SUA FINALIDADE
+
+
+Art. 1º.
+
+Fica instituída, no âmbito da Câmara Municipal de Carmo do Paranaíba, a Ouvidoria da Câmara Municipal, como unidade permanente de participação social, controle interno e aprimoramento da gestão pública legislativa.
+
+
+Art. 2º.
+
+A Ouvidoria tem por finalidade:
+
+
+I –
+
+assegurar e incentivar a participação do usuário dos serviços públicos legislativos;
+
+
+II –
+
+receber, analisar, encaminhar e responder manifestações relativas aos serviços prestados pela Câmara Municipal;
+
+
+III –
+
+contribuir para a melhoria contínua da qualidade, eficiência, transparência e efetividade dos serviços públicos;
+
+
+IV –
+
+promover a mediação entre o cidadão e a administração legislativa.
+
+
+#### CAPÍTULO II — DOS PRINCÍPIOS E DIRETRIZES
+
+
+Art. 3º.
+
+A atuação da Ouvidoria observará, entre outros, os seguintes princípios e diretrizes:
+
+
+I –
+
+legalidade, impessoalidade, moralidade, publicidade e eficiência;
+
+
+II –
+
+transparência, ética, respeito e urbanidade no atendimento ao cidadão;
+
+
+III –
+
+celeridade, objetividade e simplicidade dos procedimentos;
+
+
+IV –
+
+proteção dos dados pessoais e do sigilo das informações;
+
+
+V –
+
+estímulo ao controle social e à participação cidadã.
+
+
+#### CAPÍTULO III — DAS MANIFESTAÇÕES DOS USUÁRIOS
+
+
+Art. 4º.
+
+Constituem manifestações passíveis de recebimento pela Ouvidoria:
+
+
+I –
+
+reclamações;
+
+
+II –
+
+denúncias;
+
+
+III –
+
+sugestões;
+
+
+IV –
+
+elogios;
+
+
+V –
+
+solicitações;
+
+
+VI –
+
+pedidos de providências ou de informações.
+
+
+Parágrafo único
+
+As manifestações de que trata este artigo restringem-se ao âmbito de atuação do Poder Legislativo Municipal, compreendendo suas atividades institucionais, administrativas e legislativas, bem como os serviços por ele prestados, direta ou indiretamente.
+
+
+Art. 5º.
+
+As manifestações poderão ser apresentadas por qualquer pessoa, física ou jurídica, inclusive de forma anônima, quando cabível, assegurada a proteção da identidade do manifestante, nos termos da legislação vigente.
+
+
+#### CAPÍTULO IV — DA ORGANIZAÇÃO, ESTRUTURA E COMPETÊNCIAS
+
+
+Art. 6º.
+
+A Ouvidoria contará com a seguinte organização:
+
+
+I –
+
+Atendimento presencial que permita realizar as manifestações.
+
+
+II –
+
+sistema informatizado com formulário para permitir que o usuário possa registrar manifestações, relatos e petições que disponha, no mínimo, dos seguintes requisitos:
+
+
+a)
+
+a) Acesso via internet;
+
+
+b)
+
+b) geração automática de protocolo;
+
+
+c)
+
+c) meios informatizados que permitam a pseudonimização ou anonimização das demandas recebidas;
+
+
+d)
+
+d) meios para acompanhamento do andamento da demanda;
+
+
+Art. 7º.
+
+A Ouvidoria terá a seguinte estrutura funcional, sem criação de novos cargos e que será nomeada por meio de Portaria:
+
+
+I –
+
+Ouvidor Geral;
+
+
+II –
+
+Departamentos Setoriais da Câmara Municipal.
+
+
+Art. 8º.
+
+A função de Ouvidor Geral será exercida por servidor da Câmara Municipal, designado por ato da Presidência e compete:
+
+
+I –
+
+dirigir e coordenar as atividades da Ouvidoria;
+
+
+II –
+
+zelar pelo cumprimento dos prazos de resposta;
+
+
+III –
+
+garantir a confidencialidade das informações;
+
+
+IV –
+
+apresentar relatórios periódicos à Presidência e ao Plenário, quando solicitado;
+
+
+V –
+
+sugerir medidas administrativas e normativas para aprimoramento institucional;
+
+
+VI –
+
+encaminhar as manifestações aos setores competentes para apuração ou providências;
+
+
+VII –
+
+analisar a admissibilidade das manifestações recebidas;
+
+
+VIII –
+
+acompanhar o andamento das demandas e cobrar respostas dentro dos prazos estabelecidos;
+
+
+IX –
+
+coordenar e realizar as atividades de Serviço de Informação ao Cidadão, de que trata o inciso I do art. 9º da Lei nº 12.527, de 2011.
+
+
+X –
+
+elaborar e responder conclusivamente ao usuário de forma clara, objetiva e fundamentada;
+
+
+XI –
+
+receber e registrar manifestações dos usuários dos serviços legislativos, por meio físico, telefônico ou digital;
+
+
+XII –
+
+registrar a manifestação e fornecer número de protocolo ao cidadão;
+
+
+XIII –
+
+realizar a digitação de dados, tabelas e registros referentes às manifestações recebidas, bem como operar sistemas informatizados utilizados pela Ouvidoria;
+
+
+Art. 9º.
+
+Compete aos Departamentos Setoriais da Câmara Municipal, no âmbito da atuação da Ouvidoria:
+
+
+I –
+
+receber, por intermédio do Ouvidor-Geral, as manifestações dos usuários dos serviços públicos legislativos que lhes forem formalmente encaminhadas;
+
+
+II –
+
+analisar as demandas recebidas exclusivamente quanto à matéria de sua competência administrativa ou legislativa, adotando as providências cabíveis;
+
+
+III –
+
+elaborar e encaminhar ao Ouvidor-Geral, no prazo de 20 (vinte) dias, respostas técnicas, claras e fundamentadas às manifestações que lhes forem submetidas;
+
+
+IV –
+
+prestar informações, esclarecimentos e documentos solicitados pelo Ouvidor-Geral, necessários à adequada instrução e conclusão das manifestações;
+
+
+V –
+
+colaborar para o cumprimento dos prazos legais e regulamentares aplicáveis ao tratamento das manifestações dos usuários;
+
+
+VI –
+
+assegurar o sigilo das informações e a proteção da identidade do manifestante, quando couber;
+
+
+VII –
+
+manter registros internos das providências adotadas em razão das manifestações recebidas, para fins de controle administrativo;
+
+
+#### CAPÍTULO V — DOS PRAZOS E DO PROCEDIMENTO
+
+
+Art. 10.
+
+As manifestações recebidas pela Ouvidoria deverão ser respondidas no prazo máximo de 30 (trinta) dias, prorrogável uma única vez, por igual período, mediante justificativa expressa ao usuário.
+
+
+Art. 11.
+
+O procedimento de tratamento das manifestações observará, no mínimo:
+
+
+I –
+
+registro e protocolo;
+
+
+II –
+
+análise preliminar;
+
+
+III –
+
+encaminhamento ao setor competente;
+
+
+IV –
+
+resposta conclusiva ao usuário;
+
+
+V –
+
+arquivamento.
+
+
+#### CAPÍTULO VI — DOS CANAIS DE ATENDIMENTO
+
+
+Art. 12.
+
+A Ouvidoria disponibilizará canais acessíveis de atendimento ao cidadão, incluindo, no mínimo:
+
+
+I –
+
+formulário eletrônico no sítio oficial da Câmara Municipal;
+
+
+II –
+
+atendimento presencial;
+
+
+III –
+
+atendimento por correspondência física ou eletrônica;
+
+
+IV –
+
+outros meios que venham a ser instituídos pela Mesa Diretora.
+
+
+#### CAPÍTULO VII — DO FUNCIONAMENTO E DO HORÁRIO DE ATENDIMENTO DA OUVIDORIA
+
+
+Art. 13.
+
+A Ouvidoria da Câmara Municipal de Carmo do Paranaíba funcionará em dias úteis, observando o calendário administrativo da Câmara Municipal.
+
+
+§ 1º
+
+O atendimento ao público será realizado durante o horário regular de expediente da Câmara Municipal, conforme estabelecido em norma própria, por meio de atendimento presencial, telefônico ou eletrônico.
+
+
+§ 2º
+
+As manifestações encaminhadas por meio eletrônico serão consideradas automaticamente recebidas no primeiro dia útil subsequente, para fins de registro e contagem de prazos.
+
+
+§ 3º
+
+O funcionamento da Ouvidoria ficará suspenso nos dias declarados feriados, pontos facultativos ou recessos administrativos, sem prejuízo do recebimento eletrônico de manifestações, observado o disposto no § 2º deste artigo.
+
+
+§ 4º
+
+O horário de atendimento da Ouvidoria poderá ser alterado, ampliado ou regulamentado por ato da Presidência ou da Mesa Diretora, desde que observado o interesse público e a disponibilidade administrativa.
+
+
+Art. 14.
+
+A Câmara Municipal divulgará Carta de Serviços ao Usuário.
+
+
+§ 1º
+
+A Carta de Serviços ao Usuário tem por objetivo informar o usuário sobre os serviços prestados pelo órgão ou entidade, as formas de acesso a esses serviços e seus compromissos e padrões de qualidade de atendimento ao público.
+
+
+§ 2º
+
+A Carta de Serviços ao Usuário deverá trazer informações claras e precisas em relação a cada um dos serviços prestados, apresentando, no mínimo, informações relacionadas a:
+
+
+I –
+
+serviços oferecidos;
+
+
+II –
+
+requisitos, documentos, formas e informações necessárias para acessar o serviço;
+
+
+III –
+
+principais etapas para processamento do serviço;
+
+
+IV –
+
+previsão do prazo máximo para a prestação do serviço;
+
+
+V –
+
+forma de prestação do serviço; e
+
+
+VI –
+
+locais e formas para o usuário apresentar eventual manifestação sobre a prestação do serviço.
+
+
+§ 3º
+
+Além das informações descritas no § 2º, a Carta de Serviços ao Usuário deverá detalhar os compromissos e padrões de qualidade do atendimento relativos, no mínimo, aos seguintes aspectos:
+
+
+I –
+
+prioridades de atendimento;
+
+
+II –
+
+previsão de tempo de espera para atendimento;
+
+
+III –
+
+mecanismos de comunicação com os usuários;
+
+
+IV –
+
+procedimentos para receber e responder as manifestações dos usuários; e
+
+
+V –
+
+mecanismos de consulta, por parte dos usuários, acerca do andamento do serviço solicitado e de eventual manifestação.
+
+
+§ 4º
+
+A Carta de Serviços ao Usuário será objeto de atualização periódica e de permanente divulgação mediante publicação em sítio eletrônico do órgão ou entidade na internet.
+
+
+#### CAPÍTULO VIII — DOS RELATÓRIOS E DA TRANSPARÊNCIA
+
+
+Art. 15.
+
+A Ouvidoria elaborará anualmente, relatório de gestão, que deverá consolidar as informações de recebimento, análise e resposta, e, com base nelas, apontar falhas e sugerir melhorias na prestação de serviços públicos.
+
+
+Parágrafo único
+
+O Relatório de Gestão deverá indicar ao menos o número de manifestações recebidas no ano anterior, tipos e os motivos das manifestações recebidas, tempo médio de resposta, a análise dos pontos recorrentes e as providências adotadas pela administração pública nas soluções apresentadas,
+
+
+Art. 16.
+
+Os relatórios deverão ser divulgados no Portal da Transparência da Câmara Municipal, observado o disposto na legislação de proteção de dados pessoais.
+
+
+#### CAPÍTULO IX — DA AVALIAÇÃO CONTINUADA DOS SERVIÇOS PÚBLICOS
+
+
+Art. 17.
+
+A Câmara deverá avaliar os serviços prestados, nos seguintes aspectos:
+
+
+I –
+
+satisfação do usuário com o serviço prestado;
+
+
+II –
+
+qualidade do atendimento prestado ao usuário;
+
+
+III –
+
+cumprimento dos compromissos e prazos definidos para a prestação dos serviços;
+
+
+IV –
+
+quantidade de manifestações de usuários; e
+
+
+V –
+
+medidas adotadas pela administração pública para melhoria e aperfeiçoamento da prestação do serviço.
+
+
+§ 1º
+
+A avaliação será realizada por pesquisa de satisfação feita, no mínimo, a cada um ano, ou por qualquer outro meio que garanta significância estatística aos resultados.
+
+
+§ 2º
+
+O resultado da avaliação deverá ser integralmente publicado, incluindo o ranking das entidades com maior incidência de reclamação dos usuários na periodicidade a que se refere o § 1º, e servirá de subsídio para reorientar e ajustar os serviços prestados, em especial quanto ao cumprimento dos compromissos e dos padrões de qualidade de atendimento divulgados na Carta de Serviços ao Usuário.
+
+
+#### CAPÍTULO X — DISPOSIÇÕES FINAIS
+
+
+Art. 18.
+
+As atividades e atribuições desempenhadas no âmbito da Ouvidoria da Câmara Municipal que correspondam ou guardem compatibilidade com as atribuições legais dos cargos já existentes na estrutura administrativa da Câmara Municipal serão consideradas inerentes aos respectivos cargos de origem e não ensejará o pagamento de gratificação, função de confiança, adicional, vantagem pecuniária ou hora extra, devendo ser realizado durante o expediente ordinário de trabalho.
+
+
+Parágrafo único
+
+Somente fará jus a eventual designação específica ou percepção de vantagem funcional o servidor que exercer atribuições distintas, específicas e não inerentes às do cargo de origem.
+
+
+Art. 19.
+
+A Ouvidoria atuará em conformidade com a Lei nº 13.460, de 26 de junho de 2017, e demais normas aplicáveis.
+
+
+Art. 20.
+
+Os casos omissos serão resolvidos pela Mesa Diretora da Câmara Municipal, observada a legislação vigente.
+
+
+Art. 21.
+
+Esta Resolução entra em vigor na data de sua publicação.
+
+
+Carmo do Paranaíba, 13 de abril de 2026.
+
+
+**EDUARDO ALVES DE ALMEIDA**
+
+\- Presidente da Câmara –
+
+**GERALDO MAGELA DE SOUZA PAULA MOREIRA LIMA RODRIGUES**
+
+\- Vice-Presidente - - Secretária –
+

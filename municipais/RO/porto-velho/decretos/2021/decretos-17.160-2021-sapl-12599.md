@@ -1,0 +1,68 @@
+---
+titulo: "Decreto nº 17.160, de 11 de fevereiro de 2021"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "17.160"
+data: "2021-02-11"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/12599"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/10605/text"
+sha256_fonte: "c6f7e5e093c624c8450eec7d7b345b007433c91924c6076746fd1349b971754f"
+sha256_texto: "d28b25cb488b779aad64fc340e1f0488c21d228ce37ff3308d15b1e6b9e983b5"
+capturado_em_fonte: "2026-10-21T07:07:51.604666-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 17.160, de 11 de fevereiro de 2021
+
+*Abre no Orçamento do Município de Porto Velho para o exercício 2021, Crédito Adicional Extraordinário em favor da Secretaria Municipal de Saúde – SEMUSA, para fins de prevenção e enfrentamento à pandemia causada pelo novo Coronavírus – COVID-19.*
+
+
+**ONSIDERANDO** o artigo 167, § 3º da Constituição Federal de 1988 e o artigo 41, inciso III da Lei Federal n.º 4.320, de 17 de março de 1964, relativos aos procedimentos de abertura de crédito adicional extraordinário no âmbito da Administração Pública;
+
+**CONSIDERANDO** a Lei Federal n.º 13.979, de 6 de fevereiro de 2020, que “*Dispõe sobre as medidas para enfrentamento da emergência de saúde pública de importância internacional decorrente do novo Coronavírus*”, regulamentada pela Portaria n.º 356, de 11 de março de 2020, do Ministério da Saúde;
+
+**CONSIDERANDO** a Portaria n.º 188, de 3 de fevereiro de 2020, do Ministério da Saúde, que “Declara Emergência em Saúde Pública de importância Nacional (ESPIN) em decorrência da Infecção Humana pelo novo Coronavírus (2019-nCoV).
+
+**CONSIDERANDO** o Projeto de Decreto Legislativo PDL n° 182/20 de iniciativa do Governo do Estado de Rondônia e aprovado pela Assembléia Legislativa do Estado de Rondônia dia 17 de dezembro de 2020, que “*prorroga a decretação do estado de calamidade pública para até 30 de junho de 2021, para fins de prevenção e enfrentamento à pandemia causada pelo novo coronavírus, bem como o permissivo contido no artigo 65 da Lei de Responsabilidade Fiscal*”;
+
+**CONSIDERANDO** o Decreto Estadual nº. 25.782 de 30 de Janeiro de 2021, que “institui o Sistema de Distanciamento Social Controlado para fins de prevenção e de enfrentamento à epidemia causada pelo novo coronavírus – COVID-19, no âmbito do Estado de Rondônia, reitera a declaração de estado de calamidade pública em todo o território estadual e revoga os Decretos nº. 25.470, de 21 de outubro de 2020 de nº. 25.754, de 26 de Janeiro de 2021”; e o Decreto Estadual n.º 25.784 de 01 de Fevereiro de 2021, que “altera e acresce dispositivos ao Decreto nº 25.782/2021, que instituiu o Sistema de Distanciamento Social Controlado para fins de prevenção e de enfrentamento à epidemia causada pelo novo coronavírus - COVID-19, no âmbito do Estado de Rondônia, e dá outras providências”.
+
+**CONSIDERANDO** o Decreto Municipal n.º 16.673, de 06 de maio de 2020, onde fica mantido *o Estado de Calamidade Pública em todo o território do município de Porto Velho para fins de prevenção e enfrentamento à pandemia causada pelo novo Coronavírus Covid-19, alterado pelo Decreto n° 16.620 de 06 de abril de 2020” e revogando os Decretos n° 16.629, de 15 de abril de 2020, n° 16.633 de 22 de abril de 2020 e n° 16.652 de 28 de abril de 2020.*
+
+**CONSIDERANDO** o Ofício n° 319/CFMS/GAB/SEMUSA, o qual encaminha a Portaria n° 3874, de 30 de dezembro de 2020, do Ministério da Saúde, que “institui em caráter excepcional e temporário, incentivo financeiro federal de custeio aos Municípios que receberam recursos, na competência financeira de novembro de 2020, para custeio dos Centros Comunitários de Referência para Enfrentamento da Covid-19, de que trata a Portaria GM/MS n° 1.444, de 29 de maio de 2020, e dos Centros de Atendimento para Enfrentamento da Covid-19, de que trata a Portaria GM/MS n° 1.445, de 29 de maio de 2020”.
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO,** no uso das atribuições que lhe confere os incisos IV do art. 87, da Lei Orgânica do Município de Porto Velho,
+
+**DECRETA:**
+
+**Art. 1º.** Fica aberto no Orçamento do Município de Porto Velho para o exercício 2020, Crédito Adicional Extraordinário no valor de **R$ 200.000,00 (duzentos mil reais)**, em favor da Secretaria Municipal de Saúde - SEMUSA, conforme a seguinte classificação orçamentária:
+
+<table><tbody><tr><td colspan="6"><p><strong>08.00 – SECRETARIA MUNICIPAL DE SAÚDE</strong></p></td></tr><tr><td colspan="6"><p><strong>08.31 – FUNDO MUNICIPAL DE SAÚDE</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>SUPLEMENTA</strong></p><p><strong>R$</strong></p></td></tr><tr><td><p>08.31.10.122.329.2.236</p></td><td><p>Enfrentamento da Calamidade Pública decorrente do Coronavírus – COVID 19.</p></td><td><p>SEG</p></td><td><p>3.3.90.30</p></td><td><p>1.027</p></td><td><p><strong>200.000,00</strong></p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>200.000,00</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>200.000,00</strong></p></td></tr></tbody></table>
+
+**Art. 2º.** Os recursos necessários à execução do disposto no artigo anterior são decorrentes de Excesso de Arrecadação no valor de R$ 200.000,00 (duzentos mil reais), Fonte de Recursos 1.027,provenientes da União, referentes à conta contábil de receita 1.7.18.03.9.0.01.00 – Transferência de Recurso do SUS – Outros Programas Financiados por Transferências de Fundo a Fundo – **CORONAVÍRUS**, apurado conforme o demonstrativo do extrato da conta 10668-2, observado os preceitos do Inciso II, Parágrafo 1º do Art. 43, da Lei n.º 4.320 de 17 de março de 1964.
+
+**Art. 3º.** Este Decreto entra em vigor na data da publicação.
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto do Município
+

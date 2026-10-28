@@ -1,0 +1,117 @@
+---
+titulo: "Lei Ordinária nº 1.047, de 29 de março de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1047"
+data: "2022-03-29"
+municipio: "Cana Verde"
+uf: "MG"
+codigo_ibge: "3111903"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.canaverde.mg.leg.br/norma/500"
+fonte_texto: "https://sapl.canaverde.mg.leg.br/ta/113/text"
+sha256_fonte: "e15cd3466b4f2a2ac59c18d3e95378a2a5e2843405421021f90bf5c7be11f9c5"
+sha256_texto: "6215048e13893b16c44922a30f908d73b2417aa1ae39174eec5aea737a917b47"
+capturado_em_fonte: "2026-10-27T22:28:51.358594-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.047, de 29 de março de 2022
+
+*"Autoriza o Município de Cana Verde/MG a firmar parceria com Agência Regional de Proteção Ambiental da Bacia Rio Grande para consecução do "Projeto de auxílio à 6ª Companhia de Polícia Militar do Meio Ambiente de Minas Gerais" bem como a abrir Crédito Especial no orçamento vigente e dá outras providências."*
+
+
+A Câmara Municipal de Cana Verde(MG) por seus legítimos representantes aprova e eu, Prefeito Municipal sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Município de Cana Verde/MG autorizado a firmar parceria com a Agência Regional de Proteção Ambiental da Bacia do Rio Grande, devidamente classificada como Organização da Sociedade Civil de Interesse Público, nos termos da Lei 9.790/1999, pessoa jurídica de direito privado sem fins lucrativos, inscrita no CNPJ sob nº 17.067.402/0001-06, com sede na Avenida Juscelino Kubitschek, nº. 569, Retiro, Lavras/MG, para a finalidade exclusiva de consecução do "Projeto de auxílio de estruturação logística da PMMG representada pela 6ª Companhia de Polícia Militar do Meio Ambiente de Minas Gerais", que visará à aquisição, por meio de parceria entre os munícipios da microrregião de Campo Belo e o Ministério Público Estadual, de um veículo a ser destinado à Polícia Militar de Minas Gerais, representada pelo Grupamento da PM de Meio Ambiente sediado em Campo Belo MG e que realiza policiamento também nesta cidade.
+
+
+Art. 2º.
+
+A parceria e o auxílio financeiro serão formalizados mediante a celebração de termo específico, precedido dos tramites administrativos necessários, e executado de acordo com o disposto nos artigos 09 e seguintes da Lei Federal n° 9.790/1999.
+
+
+Art. 3º.
+
+A despesa para execução da parceria autorizada atingirá o montante de R$10.000,00 (dez mil reais) e será repassada mediante transferência bancária para a conta corrente n.º 92.225-0, agência do Banco do Brasil n.° 0364-6 de titularidade da ARPА Campo Belo Socioambiental, inscrita no CNPJ sob o n.º 17.067.402/0001-06.
+
+
+§ 1º
+
+Os recursos financeiros serão liberados de acordo com o cronograma de desembolso estabelecido no impacto orçamentário, preferencialmente em uma única parcela, enviado à Câmara Municipal e devidamente observada na celebração do Termo de Parceria.
+
+
+§ 2º
+
+O Município prestará informações sobre a execução do projeto sempre que solicitado pela Câmara Municipal, se comprometendo a cumpri-lo até a sua aprovação definitiva.
+
+
+Art. 4º.
+
+Fica a entidade parceira obrigada a prestar contas ao Município da boa e regular aplicação dos recursos recebidos, em consonância com o disposto no artigo Art. 15-B da Lei Federal 11º 9.790/1999.
+
+
+§ 1º
+
+A prestação de contas será apresentada nos moldes da Lei citada no término da vigência da parceria, sem prejuízo da instauração de tomada de contas especial antes do termino da parceria, caso necessário.
+
+
+§ 2º
+
+A prestação de contas será acompanhada de um relatório da execução da atividade a que se destina a parceria, por meio do qual o Poder Público avaliará a efetividade da aplicação dos recursos.
+
+
+§ 3º
+
+Caso o Projeto não seja executado, no todo ou em parte, por qualquer motivo que seja, o valor do repasse realizado deverá ser ressarcido ao Município, mediante transferência bancária para conta a ser indicada pelo Setor Financeiro da Prefeitura.
+
+
+§ 4º
+
+Em caso de rejeição, pelo Poder Executivo, das contas apresentadas pela entidade parceria, ou de não prestação das contas, ficará a entidade proibida de firmar novas parcerias com o Município e deste receber transferências financeiras, a qualquer título, enquanto não forem regularizadas as pendências, e deverá ainda ressarcir aos cofres públicos os valores recebidos e que não forem aplicados em conformidade com o respectivo termo de parceria.
+
+
+Art. 5º.
+
+Para custeio das despesas decorrentes da presente Lei, fica aberto crédito especial ao orçamento vigente, criando-se a seguinte dotação:
+
+02 02 05 - Sec. De Administração
+
+06 - Segurança Pública  
+181 - Policiamento  
+0013 - Planejamento e coordenação geral  
+1115 - Convênio com a Polícia do Meio Ambiente  
+44 50 45 00 - Contribuição
+
+Fonte: 1.000 ......................................................................................................... R$10.000,00
+
+
+Parágrafo único
+
+Para criação do crédito especial acima, fica anulado parcialmente o saldo no valor de R$10.000,00 (dez mil reais) da seguinte dotação:
+
+02 02 01 - Sec. De Administração
+
+04 - Administração  
+122 - Administração geral  
+0013 - Planejamento e coordenação geral  
+2013 - Manutenção do departamento administrativo  
+33 90 39 00 - Outros serviços terceiros pessoa jurídica
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data da sua publicação, revogando-se as disposições em contrário.
+
+
+Prefeitura Municipal de Cana Verde, 29 de Março 2022.
+
+AENDER ANASTÁCIO DE MORAIS  
+PREFEITO MUNICIPAL
+

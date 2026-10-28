@@ -1,0 +1,3 @@
+Runner AC sucessor: mantém todos os blobs/IDs/fontes no inventário; chaves tipo+número+ano aplicam-se às pastas de leis; Constituição sem número não aborta a verificação das leis. Destinos reconstruídos pela identidade e namespace LEGIS. Nenhum --apply executado pelo preparador.
+python3 scripts/estados/snapshots/ac_legis_promocao_20261027_003/promover_legis_ac_privado.py --manifesto scripts/estados/manifestos/ac440-proposta-privada-20261027-004.json --hashes estaduais/AC/_fonte/auditorias/ac440-privado-20261027-001/final005/hashes.json --total-esperado 440 --controle estaduais/AC/_fonte/auditorias/CONTROLE_NOVO
+--apply --confirmar-root ROOT exclusivo ROOT após replay independente. Dry-run padrão. Não há Git de escrita.

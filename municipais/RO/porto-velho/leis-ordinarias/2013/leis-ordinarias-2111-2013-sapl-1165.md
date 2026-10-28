@@ -1,0 +1,121 @@
+---
+titulo: "Lei nº 2.111, de 17 de dezembro de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2111"
+data: "2013-12-17"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/1165"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/2782/text"
+sha256_fonte: "7cd80e1149c4d657b5f6d5d5f354121a6fd919fdcf39c2464d09120496956716"
+sha256_texto: "9d36a55844928a6e8fdae6608a702395e3da8e0c6bc83d04ef5368bf7735d28a"
+capturado_em_fonte: "2026-10-27T21:02:06.288781-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 2.111, de 17 de dezembro de 2013
+
+“Institui o Prêmio “Educação no Trânsito” e dá outras providências”.
+
+
+**O PRESIDENTE DA CÂMARA MUNICIPAL DE PORTO VELHO,** Vereador **ALAN KUELSON QUEIROZ FEDER,** no uso das atribuições que lhe confere o § 6º, do artigo 72 da Lei Orgânica do Município, combinado com o § 6º, do art. 165 da Resolução nº. 254/CMPV-91 - REGIMENTO INTERNO, PROMULGA a seguinte
+
+**LEI:**
+
+
+Art. 1º.
+
+Fica instituído no âmbito do Município de Porto Velho o prêmio “Educação no Trânsito” a ser concedido anualmente pelo Poder Executivo, com a finalidade incentivar a educação no trânsito municipal.
+
+
+§ 1º
+
+O prêmio que trata o caput desse artigo será destinado ao agente municipal de trânsito que aplicar o maior número de advertência por escrito durante o ano.
+
+
+§ 2º
+
+Para comprovar o mérito do vencedor, será feito um relatório e uma lista, nos termos desta Lei.
+
+
+§ 3º
+
+A solenidade de entrega do prêmio que trata o caput deste artigo deverá acontecer preferencialmente no plenário da Câmara Municipal, no “Dia Municipal da Educação no Trânsito”.
+
+
+Art. 2º.
+
+Fica instituído o dia 25 de setembro como o “Dia Municipal da Educação no Trânsito”.
+
+
+Art. 3º.
+
+O prêmio que trata essa Lei:
+
+
+I –
+
+consistirá na entrega de 01 (um) troféu, denominado “Troféu de Educação no Trânsito”.
+
+
+II –
+
+o vencedor receberá pessoalmente e terá 03 (três) minutos para fazer suas considerações.
+
+
+III –
+
+terá como critério de desempate a antiguidade do agente de trânsito.
+
+
+IV –
+
+somente o 1º (primeiro), o 2º (segundo) e o 3º (terceiro) colocado farão jus ao prêmio que trata esta Lei.
+
+
+Art. 4º.
+
+O relatório que trata esta Lei deverá comprovar o perfil de educador do premiado, devendo-se enviar uma cópia do mesmo a Câmara Municipal.
+
+
+Art. 5º.
+
+A lista que trata esta Lei deverá classificar os agentes beneficiários desta Lei, citando a quantidade das penalidades aplicadas durante o ano, devendo-se enviar uma cópia da mesma a Câmara Municipal.
+
+
+Art. 6º.
+
+O órgão competente do Poder Executivo Municipal manterá cadastro atualizado para fins de cumprir o previsto nesta Lei.
+
+
+Art. 7º.
+
+As despesas decorrentes da execução desta Lei correrão à conta das dotações orçamentárias próprias do órgão competente do Poder Executivo, sendo suplementadas, se necessário.
+
+
+Art. 8º.
+
+O Poder Executivo regulamentará esta Lei no prazo de 60 (sessenta) dias da sua publicação.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+Câmara Municipal de Porto Velho, 17 de dezembro de 2013.
+
+***Vereador ALAN QUEIROZ***
+
+***Presidente***
+
+Projeto de Lei nº. 2.974/2013
+
+Vereador Edmo Ferreira – DIM DIM - PSL
+

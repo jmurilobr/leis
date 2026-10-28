@@ -1,0 +1,61 @@
+---
+titulo: "Decreto-SEMPOG nº 18.786, de 09 de fevereiro de 2023"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "18.786"
+data: "2023-02-09"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/23738"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/7619/text"
+sha256_fonte: "f0544099c519c2b6879385d88446a11b956883e8152c5388beb4558015b619d1"
+sha256_texto: "e8fbbd9a313c6ed95fd8285e1e97103e030f0b6510674770dc882d5f7559085c"
+capturado_em_fonte: "2026-10-21T05:51:35.356073-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 18.786, de 09 de fevereiro de 2023
+
+Abre no Orçamento Anual do Município de Porto Velho Crédito Adicional Suplementar, e dá outras providências.
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, amparado pelo Art. 6º da Lei n.º 2.998, de 19 de dezembro de 2022, a fim de proceder as adequações orçamentárias no exercício 2023;
+
+Considerando o Ofício n.º 075/DEADM/GAB/SEMESC, de 27 de janeiro de 2023, pelo qual a Secretaria Municipal de Resolução Estratégica de Convênios e Contratos - SEMESC, solicita suplementação orçamentária referente ao Contrato de Repasse n.° 894059/2019/MDR/CAIXA que entre si celebram a união federal, por intermédio do Ministério do Desenvolvimento regional, representado pela Caixa Econômica Federal, e o Município de Porto Velho, objetivando a execução de ações relativas ao desenvolvimento regional, territorial e urbano, tendo como objeto a Implantação e Revitalização de Pontos de Iluminação no Município, constante do Processo Administrativo n.° 11.00117-00/2021,
+
+Considerando a tendência de Excesso de Arrecadação para o exercício financeiro de 2023 de acordo com o art. 43 § 3° da Lei Federal n.º 4.320, de 17 de março de 1964, planilha de Acompanhamento de Receita Arrecadada Mensal para o exercício de 2023 (anexa),
+
+D E C R E T A:
+
+**Art. 1º** – Fica aberto no Orçamento do Município de Porto Velho, Crédito Adicional Suplementar no valor de R$ 670.000,00 (seiscentos e setenta mil reais).
+
+**Art. 2º** – Os recursos necessários à execução do disposto no artigo anterior decorrerão de Excesso de Arrecadação, provenientes da Fonte de Recursos 1.700 – Recursos do Exercício Corrente – Outras Transferências de Convênios ou Repasses da União, consignados no orçamento, conforme detalhado na sequência:
+
+<table><tbody><tr><td colspan="6"><p><strong>23.00 – SECRETARIA MUNICIPAL DE RESOLUÇÃO ESTRATÉGICA DE CONVÊNIOS E CONTRATOS - SEMESC</strong></p></td></tr><tr><td colspan="6"><p><strong>23.01 – SECRETARIA MUNICIPAL DE RESOLUÇÃO ESTRATÉGICA DE CONVÊNIOS E CONTRATOS - SEMESC</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>SUPLEMENTA</strong></p><p><strong>R$</strong></p></td></tr><tr><td><p>23.01.15.452.163.1.078</p></td><td><p>Implantação e Revitalização de pontos de Iluminação no Município</p></td><td><p>FIS</p></td><td><p>4.4.90.51</p></td><td><p>1.700</p></td><td><p>670.000,00</p></td></tr><tr><td colspan="5"><p><strong>SUB TOTAL</strong></p></td><td><p><strong>670.000,00</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>670.000,00</strong></p></td></tr></tbody></table>
+
+**Art. 3º** – Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 18.721, de 19 de dezembro de 2022 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 18.722, de 19 de dezembro de 2022.
+
+**Art. 4º** – Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** – Revogam-se as disposições em contrário.
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto do Município
+

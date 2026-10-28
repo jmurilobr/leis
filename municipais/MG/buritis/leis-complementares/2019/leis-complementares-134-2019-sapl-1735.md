@@ -1,0 +1,143 @@
+---
+titulo: "Lei Complementar nº 134, de 11 de dezembro de 2019"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "134"
+data: "2019-12-11"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/1735"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/2289/text"
+sha256_fonte: "732d3e1e292821244823a988bf138d9d5a5fdd276ef944a7623d06c047a23b4f"
+sha256_texto: "b136e74dc4f29a7e417601f3da81cf534cf28927e62d4f7e86ebad3855b41f71"
+capturado_em_fonte: "2026-10-27T19:51:54.821968-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 134, de 11 de dezembro de 2019
+
+Dispõe sobre profissão de Condutor de Ambulância na forma da Lei Federal nº 12.998/2014 e dá outras providências
+
+
+A Câmara Municipal de Buritis, Estado de Minas Gerais por seus representantes aprovou, e eu, PREFEITO MUNICIPAL, usando da atribuição que lhe confere o inciso VIII, do artigo 105 da Lei Orgânica Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica reconhecida a profissão de Condutor de Ambulância em conformidade com a Lei Federal nº 12.998/2014.
+
+
+§ 1º
+
+Condutores de ambulância, conforme CBO - Classificação Brasileira de Ocupações nº 7823-20 são:
+
+
+I –
+
+condutores de transporte de paciente
+
+
+II –
+
+condutor de veículos ambulatoriais
+
+
+III –
+
+motorista de ambulância
+
+
+Art. 2º.
+
+Os servidores públicos efetivos que exercem cargo de motorista com as atribuições previstas na Lei Complementar nº 38, de 28 de agosto de 2007, deverão se manifestar por escrito perante o Prefeito Municipal, no prazo máximo de 10 (dez) dias a contar da publicação desta lei, interesse em ingressar na categoria de Condutor de Ambulância ou se pretenderem permanecer no cargo de motorista.
+
+
+§ 1º
+
+O servidor que optar pelo ingresso no cargo de Condutor de Ambulância terá prazo máximo de até 90 (noventa) dias, a contar da data da opção, para comprovar os requisitos exigidos pelo artigo 145-A da lei 9.503/97 - Código de Trânsito Brasileiro.
+
+
+§ 2º
+
+Para fins de lotação dos servidores que se fizerem opção nos termos do parágrafo anterior observar-se-à a lista classificatória com os seguintes critérios de pontuação:
+
+
+I –
+
+maior contagem de tempo de efetivo exercício no cargo de motorista de ambulância lotado na saúde - 0,10 (dez décimos) pontos a cada ano de efetivo exercício.
+
+
+II –
+
+maior contagem de tempo de concurso público:
+
+
+a)
+
+até 5 (cinco) anos - 1 ponto;
+
+
+b)
+
+acima de 5 (cinco) anos até 10 (dez) anos - 1,5 pontos;
+
+
+c)
+
+acima de 10 (dez) anos até 15 (quinze) anos - 2,5 pontos, e;
+
+
+d)
+
+acima de 20 (vinte) anos - 3,5 pontos
+
+
+III –
+
+será utilizado o critério de maior idade para o desempate.
+
+
+§ 3º
+
+A lotação como Condutor de Ambulância observará a efetiva quantidade de postos a serem ofertados mediante edição de resolução da Secretaria Municipal de Saúde, podendo a lista de classificação ser utilizada para posterior lotação desde que haja o surgimento de novas vagas.
+
+
+§ 4º
+
+Alterada a lotação haverá a imediata mudança de CBO, conforme consta do § 1º do artigo 1º.
+
+
+§ 5º
+
+Os atuais titulares de cargo de Motorista que atuam como Condutores de Ambulância e que não optarem na forma prevista no artigo 2º desta Lei, serão lotados em outros setores da Administração Municipal.
+
+
+Art. 5º.
+
+O preenchimento de vagas futuras, em face do aumento de necessidade atestada pela Secretaria Municipal de Saúde, observará os critérios dos §§ 1º e 2º do artigo 2º da presente Lei.
+
+
+Art. 6º.
+
+Em caso de contratação temporária para atender necessidade de excepcional interesse público, o contratado deverá preencher os requisitos especificados na Lei Municipal nº 038/2007, no tocante ao Motorista e ainda os requisitos especificados para Condutor de Ambulância, em caso de se enquadrar nos incisos do § 1º do artigo 1º da presente Lei.
+
+
+Art. 7º.
+
+A mudança de lotação do servidor efetivo que se enquadrar na categoria de Condutor de Ambulância somente se processará a pedido do servidor ou mediante processo administrativo assegurado contraditório e ampla defesa.
+
+
+Art. 8º.
+
+revogadas as disposições em contrário esta Lei entra em vigor na data de sua publicação.
+
+
+**Dr. Keny Soares Rodrigues Prefeito Municipal**
+
+Ref. Proposição de Lei Complementar nº 08/2019. De autoria do Executivo Municipal.
+

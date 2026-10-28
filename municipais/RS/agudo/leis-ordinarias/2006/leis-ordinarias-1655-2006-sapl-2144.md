@@ -1,0 +1,185 @@
+---
+titulo: "Lei nº 1.655, de 19 de setembro de 2006"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1655"
+data: "2006-09-19"
+municipio: "Agudo"
+uf: "RS"
+codigo_ibge: "4300109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.agudo.rs.leg.br/norma/2144"
+fonte_texto: "https://sapl.agudo.rs.leg.br/ta/866/text"
+sha256_fonte: "056adc3b833ec3680bf9c4bedb48dd0155faa0fe2ef70c2c1ce49d823e61f5e3"
+sha256_texto: "18d2399a3f129b5189503dc04cb0ea2eaa77f9ccb58e1b754b58f425435648e9"
+capturado_em_fonte: "2026-10-27T20:41:45.707268-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.655, de 19 de setembro de 2006
+
+AUTORIZA A ABERTURA DE CRÉDITOS SUPLEMENTARES, REDUZ DOTAÇÕES ORÇAMENTÁRIAS E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O PREFEITO DO MUNICIPIO DE AGUDO, faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo, com base no art. 76 da Lei Orgânica Municipal, a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a abrir créditos suplementares no valor de R$ 1.130.500,00 (hum milhão, cento e trinta mil e quinhentos reais), para a cobertura dasseguintes dotações orçamentárias:  
+02 - Gabinete do Prefeito;  
+2.008 – Manutenção do Gabinete do Prefeito;  
+3.1.9.0.11.00.0000 – Vencimentos e Vantagens Fixas – Pessoal Civil  
+PJ - 28 Recurso - 001 R$ 34.100,00  
+3 .3.9.0.39.00.0000 – Outros Serviços de Terceiros Pessoa Jurídica  
+PJ – 33 Recurso – 001 R$ 2.000,00  
+03 - Secretaria da Administração;  
+2.015 – Manutenção do Órgão da Administração;  
+3.1.9.0.11.00.0000 – Vencimentos e Vantagens Fixas – Pessoal Civil.  
+PJ – 63 Recurso – 001 R$ 20.000,00  
+04 - Secretaria da Fazenda;  
+2.018 – Manutenção dos Serviços da Contabilidade;  
+3.1.9.0.11.00.0000 – Vencimentos e Vantagens Fixas – Pessoal Civil.  
+PJ – 77 Recurso – 001 R$ 15.500,00  
+2.019 – Manutenção dos Serviços da Receita;  
+3.1.9.0.11.00.0000 – Vencimentos e Vantagens Fixas – Pessoal Civil.  
+PJ – 87 Recurso – 001 R$ 10.100,00  
+2.020 – Manutenção dos Serviços de Fiscalização;  
+3.1.9.0.11.00.0000 – Vencimentos e Vantagens Fixas – Pessoal Civil.  
+PJ – 98 Recurso – 001 R$ 9.500,00  
+05 - Secretaria de Obras e de Trânsito;  
+2.036 - Manutenção do Órgão das Obras;  
+3.1.9.0.11.00.0000 – Vencimentos e Vantagens Fixas – Pessoal Civil  
+PJ -189 Recurso – 001 R$ 14.000,00  
+2.037 - Manutenção de Máquinas e Veículos;  
+3.3.90.30.00.0000 – Material de Consumo  
+PJ – 204 Recurso – 001 R$ 50.000,00  
+2.039 - Manutenção e Conservação de Rodovias;  
+3.1.9.0.16.00.0000 – Outras Despesas Variáveis Pessoal Civil  
+PJ – 214 Recurso – 001 R$ 9.100,00  
+2.108 - Manutenção dos Serviços da Iluminação Pública;  
+3.1.9.0.11.00.0000 – Vencimentos e Vantagens Fixas – Pessoal Civil  
+PJ – 482 Recurso – 001 R$ 6.000,00  
+3.1.9.0.16.00.0000 – Outras Despesas Variáveis Pessoal Civil  
+PJ – 484 Recurso – 001 R$ 4.200,00  
+06 - Secretaria da Educação e Cultura;  
+2.041 – Manutenção do Ensino Infantil;  
+3.1.9.0.11.00.0000 – Vencimentos e Vantagens Fixas – Pessoal Civil  
+PJ – 228 Recurso – MDE R$ 19.000,00  
+2.046 - Manutenção do Ensino Fundamental;  
+3.1.9.0.11.00.0000 – Vencimentos e Vantagens Fixas – Pessoal Civil  
+PJ – 260 Recurso – MDE R$ 130.000,00  
+2.049 – Transporte Escolar do Ensino Fundamental;  
+3.3.90.30.00.0000 – Material de Consumo  
+PJ – 274 Recurso – MDE R$ 20.000,00  
+3.3.90.33.00.0000 - Passagens e Despesas de Locomoção  
+PJ – 2208 Recurso – MDE R$ 100.000,00  
+2.052 – Manutenção do Órgão da SMEC;  
+3.1.9.0.11.00.0000 – Vencimentos e Vantagens Fixas – Pessoal Civil  
+PJ - 284 Recurso – MDE R$ 6.500,00  
+2.057 - Manutenção do Ensino Fundamental;  
+3.1.9.0.11.00.0000 – Vencimentos e Vantagens Fixas – Pessoal Civil  
+PJ – 310 Recurso – FUNDEF R$ 128.500,00  
+2.061 – Biblioteca Pública Municipal  
+3.1.9.0.11.00.0000 – Vencimentos e Vantagens Fixas – Pessoal Civil  
+PJ – 331 Recurso- 001 R$ 16.500,00  
+2.076 – Cedência de Professores;  
+3.1.9.0.11.00.0000 – Vencimentos e Vantagens Fixas – Pessoal Civil  
+PJ - 371 Recurso – 001 R$ 30.000,00  
+07 - Secretaria da Agricultura e Meio Ambiente.  
+2.094 - Manutenção da Patrulha Agrícola;  
+3.1.9.0.11.00.0000 – Vencimentos e Vantagens Fixas – Pessoal Civil  
+PJ – 445 Recurso – 001 R$ 11.200,00  
+2.096 - Incentivo a Agricultura;  
+3.1.9.0.11.00.0000 – Vencimentos e Vantagens Fixas – Pessoal Civil  
+PJ – 429 Recurso -001 R$ 22.200,00  
+2.103 - Inseminação Artificial;  
+3.1.9.0.11.00.0000 – Vencimentos e Vantagens Fixas – Pessoal Civil  
+PJ – 458 Recurso – 001 R$ 12.500,00  
+08 - Secretaria da Saúde;  
+2113 - Atendimento de Saúde a Comunidade;  
+3.1.9.0.11.00.0000 – Vencimentos e Vantagens Fixas – Pessoal Civil  
+PJ – 510 Recurso – ASPS R$ 217.500,00  
+3.3.90.33.00.0000 – Passagens e Despesas com Locomoção  
+PJ – 516 Recurso – ASPS R$ 20.000,00  
+2.116 – Contratos de Saúde;  
+3.3.90.39.00.0000 – Outros Serviços de Terceiros – Pessoa Jurídica  
+PJ – 529 Recurso – ASPS R$ 100.000,00  
+2.119 – Programa de Saúde da Família  
+3.3.90.39.00.0000 - Outros Serviços de Terceiros – Pessoa Jurídica  
+PJ – 534 Recurso - ASPS R$ 50.000,00  
+1.066 – Consorcio Intermunicipal de Saúde;  
+3.3.71.39.00.0000 – Outros Serviços de Terceiros – Pessoa Jurídica  
+PJ – 540 Recurso – ASPS R$ 12.000,00  
+09 - Secretaria da Indústria, Comércio e Turismo;  
+2.144 – Incentivos a Indústria e Comércio;  
+3.1.9.0.11.00.0000 – Vencimentos e Vantagens Fixas – Pessoal Civil  
+PJ - 639 Recurso – 001 R$ 47.700,00  
+12 - Secretaria da Assistência Social;  
+2136 – Manutenção do Órgão da Assistência Social  
+PJ – 589 Recurso – 001 R$ 12.400,00
+
+
+Art. 2º.
+
+Os Créditos Suplementares abertos no artigo anterior, serão cobertos por:
+
+
+a)
+
+Redução de R$ 180.000,00 (cento e oitenta mil reais) das seguintes dotaçõesorçamentárias:  
+04 – Secretaria de Fazenda;  
+2.020 – Manutenção dos Serviços da Fiscalização;  
+3.1.9.0.16.00.0000 – Outras Despesas Variáveis – Pessoal Civil  
+PJ – 100 Recurso – 001 R$ 7.000,00  
+05 – Secretaria de Obras e de Trânsito;  
+1.024 – Pavimentação de Ruas e Avenidas;  
+3.1.9.0.11.00.0000 – Vencimentos e Vantagens Fixas – Pessoal Civil  
+PJ – 146 Recurso – 001 R$ 81.000,00  
+2.039 - Manutenção e Conservação de Rodovias;  
+3.1.9.0.11.00.0000 – Vencimentos e Vantagens Fixas – Pessoal Civil  
+PJ - 212 Recurso – 001 R$ 9.000,00  
+06 – Secretaria da Educação e Cultura;  
+2.046 – Manutenção do Ensino Fundamental;  
+3.1.90.04.00.0000 – Contratação por Tempo Determinado  
+PJ – 256 Recurso – MDE R$ 4.000,00  
+2.058 – Transporte Escolar de Primeiro Grau;  
+3.1.9.0.11.00.0000 – Vencimentos e Vantagens Fixas – Pessoal Civil  
+PJ - 319 Recurso – FUNDEF R$ 51.000,00  
+07 – Secretaria da Agricultura e do Meio Ambiente;  
+2.094 - Manutenção da Patrulha Agrícola;  
+3.1.9.0.16.00.0000 – Outras Despesas Variáveis – Pessoal Civil  
+PJ – 447 Recurso – 001 R$ 4.000,00  
+09 – Secretaria da Indústria, Comércio e Turismo;  
+2.149 – Manutenção dos Serviços de Telefonia  
+3.1.9.0.11.00.0000 – Vencimentos e Vantagens Fixas – Pessoal Civil  
+PJ - 667 Recurso – 001 R$ 24.000,00
+
+
+b)
+
+Arrecadação a Maior no valor de R$ 950.500,00 (novecentos e cinqüenta mil e quinhentos reais).
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+GABINETE DO PREFEITO, aos 19 de setembro de 2006; 148º da Colonização e 47º da Emancipação.
+
+ARI ALVES DA ANUNCIAÇÃO
+
+Prefeito Municipal
+
+ADEMIR KESSELER  
+Sec.Mun.da Fazenda  
+  
+Registre-se e publique-se.  
+  
+ROMEU ANTÔNIO UNFER  
+Sec.Mun.da Administração
+

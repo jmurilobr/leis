@@ -1,0 +1,86 @@
+{
+  "candidatos": 500,
+  "aprovados": 247,
+  "retidos": 253,
+  "jurisdicao": [
+    {
+      "path": "municipais/RS/agudo/resolucoes/2008/resolucoes-4-2008-sapl-2225.md",
+      "sha256": "ee2a0668d020a7bd52f5b6b6afd3f0e2ab1496a7fbf241fc35363831bf777cca",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/resolucoes/2008/resolucoes-1-2008-sapl-2212.md",
+      "sha256": "e63c9fd65003ad699e0f70ad079412890a7b8b93f18c88e3a1254025e3852d64",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/resolucoes/2007/resolucoes-5-2007-sapl-2184.md",
+      "sha256": "676c2260d27c6dc8972382bf51dad774becb112af75279d2a7fcb616fc9fb712",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/resolucoes/2007/resolucoes-4-2007-sapl-2172.md",
+      "sha256": "8da018bb12b0724d12204025cf2088a33b95b681d40dbd8ae0b44f2485beb1bf",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/resolucoes/2007/resolucoes-1-2007-sapl-2156.md",
+      "sha256": "681c4ab688508055db134dd3cc05f19f2a940ed3306a4a7da058917b4f3223c2",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2006/leis-ordinarias-1654-2006-sapl-2143.md",
+      "sha256": "b4127473347d0cb07f9ff4f99b2320586c5fb1094474bd5a5320777413b9fb26",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2006/leis-ordinarias-1649-2006-sapl-2131.md",
+      "sha256": "b3b7ce54ee7e743803165209ba0d50e4fec85c9c7dcea426b29a71754fd3da71",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    }
+  ],
+  "replay_retidos": [],
+  "criterio": "Retidos não integram a lista de normas. Controles conservam os motivos e identidades; não promovidos por contagem ou por comparação da mesma conversão."
+}

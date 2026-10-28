@@ -1,0 +1,30 @@
+{
+  "resumo_base": {
+    "atos": 1347,
+    "por_lote": {
+      "145": 145,
+      "454": 454,
+      "748": 748
+    },
+    "com_fontes_especiais_em_texto_normativo": 0,
+    "com_ocultacao_css_em_texto_normativo": 0,
+    "com_tachado_css_ou_tags_em_texto_normativo": 0,
+    "atos_com_fontface_especial_declarado": 0,
+    "atos_com_condicionais_ou_seletores_pendentes": 0,
+    "fontes_com_prova_integral_adicional": 0,
+    "mascaras_aplicadas": 0,
+    "canônicos_alterados": 0
+  },
+  "atos_com_ocultacao_fora_da_area_normativa": 145,
+  "CSS_externas_referidas_nao_consultadas": 145,
+  "triagem_lexical_ampla": [
+    {
+      "path": "federal/decretos/1937/dec-1374-1937-01-14.md",
+      "trechos": [
+        "orém, que a celebração dos officios religiosos collectivos seja realizada no recinto da enfermaria, onde não deve haver symbolos religiosos de quaesquer cultos.</span></p><p class=\"Item\" style=\"margin-top:6pt\"><span style=\"font-size:1.2em\">29. Ma"
+      ]
+    }
+  ],
+  "interpretacao": "Nenhum nome de fonte especial foi aplicado nos segmentos normativos examinados. A ocorrência lexical symbolos religiosos em 1.374/1937 é texto comum, não família tipográfica. As 145 fontes Câmara têm barra de carregamento display:none fora de textoNorma; não se atribui esse ocultamento ao texto legal. CSS externas do portal não foram buscadas, nem houve afirmação de equivalência visual de glifos.",
+  "limites_adicionais": "O diagnóstico resolve propriedades internas examinadas, herança, seletor, !important e sobrescrita; não é renderizador de layout ou prova visual. Não resolve efeitos de CSS externa, fontes baixadas, JavaScript, @media ou @supports; tais limitações são explícitas. Os 599 publicados no HEAD observado tinham SHA idêntico aos candidatos; os 748 ainda estavam ausentes."
+}

@@ -1,0 +1,165 @@
+---
+titulo: "Lei nº 980, de 19 de novembro de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "980"
+data: "2021-11-19"
+municipio: "Capitão Enéas"
+uf: "MG"
+codigo_ibge: "3112703"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.capitaoeneas.mg.leg.br/norma/93"
+fonte_texto: "https://sapl.capitaoeneas.mg.leg.br/ta/194/text"
+sha256_fonte: "7b68ae59c309807703353b23118c979123ae0f07226b6eb98c74f011282905c3"
+sha256_texto: "5d33dd9a7c481d0b5e4a0f6fd717078c16e8d7d2735934dfe84e7c3990b49a62"
+capturado_em_fonte: "2026-10-27T22:31:28.717376-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 980, de 19 de novembro de 2021
+
+Institui a Política Municipal de Atenção Integral à Saúde do Homem, e dá outras providências.
+
+
+A Câmara Municipal de Capitão Enéas, Estado de Minas Gerais, aprovou e Eu, Prefeito Municipal, sanciono a seguinte a Lei.
+
+
+Art. 1º.
+
+Fica instituída a Politica Municipal de Atenção Integral à Saúde do Homem.
+
+
+Parágrafo único
+
+A Politica de que trata o "caput" deste artigo visa promover a melhoria das condições de saúde da população masculina do Município de Capitão Enéas, contribuindo, de modo efetivo, para a redução da morbidade e da mortalidade dessa população, por meio do enfrentamento racional dos fatores de risco e mediante a facilitação do acesso às ações e aos serviços de assistência integral à saúde.
+
+
+Art. 2º.
+
+A Politica Municipal de Atenção Integral à Saúde do Homem, de que trata o artigo 1º desta lei, será regida pelos seguintes princípios:
+
+
+I –
+
+Universalidade e equidade nas ações e serviços de saúde voltados para a população masculina, abrangendo a disponibilidade de insumos, equipamentos e materiais educativos;
+
+
+II –
+
+Humanização e qualificação da atenção à saúde do homem, com vistas à garantia, promoção e proteção dos direitos do homem, em conformidade com os preceitos éticos e suas peculiaridades socioculturais:
+
+
+III –
+
+Corresponsabilidade quanto à saúde e à qualidade de vida da população masculina, implicando articulação com os diversos órgãos municipais e com a sociedade;
+
+
+IV –
+
+Orientação à população masculina, aos familiares e à comunidade sobre a promoção, a prevenção, a proteção, o tratamento e a recuperação dos agravos e das enfermidades do homem.
+
+
+Art. 3º.
+
+A Politica Municipal de Atenção Integral à Saúde do Homem possui as seguintes diretrizes, a serem observadas na elaboração dos planos, programas, projetos e ações de saúde voltada à população masculina:
+
+
+I –
+
+Integralidade, que abrange:
+
+
+a)
+
+Assistência à saúde do usuário em todos os níveis da atenção, na perspectiva de uma linha de cuidado que estabeleça uma dinâmica de referência e de contrarreferência entre a atenção básica e as de média e alta complexidade, assegurando a continuidade no processo de atenção;
+
+
+b)
+
+Compreensão sobre os agravos e a complexidade dos modos de vida e da situação social do individuo, a fim de promover intervenções sistêmicas que envolvam, inclusive, as determinações sociais sobre a saúde e a doença;
+
+
+II –
+
+Organização dos serviços públicos de saúde de modo a acolher e fazer com que o homem sinta-se integrado;
+
+
+III –
+
+Implementação hierarquizada da política, priorizando a atenção básica;
+
+
+IV –
+
+Reorganização das ações de saúde, por meio de uma proposta inclusiva, na qual os homens considerem os serviços de saúde também como espaços masculinos e, por sua vez, os serviços de saúde reconheçam os homens como sujeitos que necessitem de cuidados;
+
+
+V –
+
+Integração da execução da Politica Municipal de Atenção Integral à Saúde do Homem às demais politicas, programas, estratégias e ações da Secretaria Municipal de Saúde.
+
+
+Art. 4º.
+
+São objetivos da Politica Municipal de Atenção Integral à Saúde do Homem:
+
+
+I –
+
+Implementar, acompanhar e avaliar, no âmbito de sua competência, os princípios e diretrizes de que trata esta lei, priorizando a atenção à saúde básica;
+
+
+II –
+
+Promover, no âmbito de sua competência, a articulação intersetorial e interinstitucional necessária à implementação dos princípios e diretrizes de que trata esta lei;
+
+
+III –
+
+Incentivar as ações educativas que visem à promoção e atenção da saúde do homem;
+
+
+IV –
+
+Promover a qualificação das equipes de saúde para execução das ações propostas na Politica Municipal de Atenção Integral à Saúde do Homem;
+
+
+V –
+
+Promover, junto à população, ações de informação, educação e comunicação em saúde, visando difundir os princípios e diretrizes de que trata esta lei;
+
+
+VI –
+
+Estimular e apoiar, juntamente com o Conselho Municipal de Saúde, o processo de discussão com participação de todos os setores da sociedade, com foco no controle social, nas questões pertinentes à Politica Municipal de Atenção Integral à Saúde do Homem;
+
+
+VII –
+
+Capacitar tecnicamente e qualificar os profissionais de saúde para atendimento do homem;
+
+
+VIII –
+
+Analisar os indicadores que permitam aos gestores monitorar as ações e os serviços e avaliar seu impacto, redefinindo as estratégias e/ou atividades que se fizerem necessárias à concretude da finalidade desta Lei.
+
+
+Art. 5º.
+
+As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas, se necessário.
+
+
+Art. 6º.
+
+Esta lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+
+
+Capitão Enéas-MG, 19 de outubro de 2021.
+
+**Reinaldo Landulfo Teixeira**
+
+Prefeito Municipal
+

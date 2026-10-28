@@ -1,0 +1,98 @@
+---
+titulo: "Lei Ordinária nº 3.021, de 15 de junho de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3021"
+data: "2022-06-15"
+municipio: "Dores do Indaiá"
+uf: "MG"
+codigo_ibge: "3123205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.doresdoindaia.mg.leg.br/norma/2466"
+fonte_texto: "https://sapl.doresdoindaia.mg.leg.br/ta/145/text"
+sha256_fonte: "0dc7c44937ade3158ba4a11923db22b89d15ce7121b86c8e792d3baea00c86d3"
+sha256_texto: "22f7bf30a314d2d690fdc01a0559727e11420785f5701047128c7ddbb3d099e8"
+capturado_em_fonte: "2026-10-28T09:59:48.145825-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 3.021, de 15 de junho de 2022
+
+“AUTORIZA A ABERTURA DE CRÉDITO SUPLEMENTAR NO VALOR DE R$ 300.000,00 (TREZENTOS MIL REAIS) NA FORMA QUE ESPECÍFICA E DÁ OUTRAS PROVIDÊNCIAS.”.
+
+
+Câmara Municipal de Dores do Indaiá — MG, através de seu Plenário, APROVA, e eu, Prefeito Municipal SANCIONO a seguinte Lei.
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a abrir crédito suplementar no Orçamento Vigente, no valor de R$ 300.000,00 (Trezentos mil reais), na dotação orçamentária discriminada abaixo:
+
+
+Órgão 02 Prefeitura Municipal De Dores Do Indaiá
+
+Unidade 02.06 Secretaria Municipal de Obras e Transportes
+
+Subunidade 02.06.01 Subsecretaria de Transportes e Obras
+
+Função 15 Urbanismo
+
+Subfunção 451 Infraestrutura Urbana
+
+Programa 0011 Gestão e Modernização da Infraestrutura e dos Serviços Urbanos
+
+Atividade 2027 Adm. e Manutenção das Atividades de Infraestrutura Urbana.
+
+Categoria Econômica 4.0.00.00.00 Despesas de Capital
+
+Grupo de Natureza 4.4.00.00.00 Investimentos
+
+Mod. de Aplicação 4.4.90.00.00 Aplicações Diretas
+
+Elemento 4.4.90.51.00 Obras e instalações
+
+Fonte de Recursos 169 Transferência Especial dos Estados
+
+Valor da fonte R$ 300.000,00 Trezentos mil reais
+
+Ficha 261
+
+
+Art. 2º.
+
+Para abertura do crédito de que trata o artigo 1º desta Lei, o Chefe do Executivo editará o competente decreto e, para tanto, será utilizado como origem de recursos o excesso de arrecadação proveniente do repasse financeiro de Emenda Parlamentar - Transferência Especial, Resolução nº 21/2022, indicação do Deputado Heli Grilo, que se encontra depositado na agência do Banco do Brasil 0266-6 - Conta: 20.838-8.
+
+
+Art. 3º.
+
+Fica autorizado ao Poder Executivo a inclusão e atualização da ação governamental na Lei Orçamentária Anual, no Plano Plurianual e na Lei de Diretrizes Orçamentárias vigentes.
+
+
+Art. 4º.
+
+Caso a dotação orçamentária seja insuficiente para cobrir as despesas, fica autorizado ao poder executivo a realização das suplementações e alterações de fontes que se fizerem necessárias.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 6º.
+
+Revogam-se as disposições em contrário.
+
+
+Dores do Indaiá, 15 de Junho de 2.022
+
+**ALEXANDRO COÊLHO FERREIRA**
+
+**PREFEITO MUNICPAL**
+
+**VICENTE DE PAULO ZICA**
+
+**SEC. MUN. DE ADMINISTRAÇÃO, PLANEJAMENTO E FINANÇAS**
+

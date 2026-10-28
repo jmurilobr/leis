@@ -1,0 +1,41 @@
+from pathlib import Path
+import json,hashlib,subprocess,sys,os,gzip
+sha=lambda b:hashlib.sha256(b).hexdigest();root=Path.cwd();h={}
+manifest16=Path('scripts/estados/manifestos/se16-metadados-proposta-privada-20261027-001.json');manifestA=Path('scripts/estados/manifestos/se-8494A-proposta-privada-20261027-001.json')
+for mp in [Path('estaduais/SE/_fonte/auditorias/metadados16-privado-20261027-001/final/hashes.json'),Path('estaduais/SE/_fonte/auditorias/identidade-sufixo-8494A-20261027-001/hashes.json'),Path('estaduais/SE/_fonte/auditorias/se131-privado-20261027-002/suplemento-VML/hashes.json')]:
+ d=json.loads(mp.read_bytes());rows=d['arquivos'] if 'arquivos' in d else [{'path':p,'sha256':s} for p,s in d.items()]
+ for r in rows:
+  p,s=r['path'],r['sha256'];assert sha(Path(p).read_bytes())==s,p;assert p not in h or h[p]==s;h[p]=s
+ h[str(mp)]=sha(mp.read_bytes())
+rows=json.loads(manifest16.read_bytes())['documentos'];a=json.loads(manifestA.read_bytes());assert len(rows)==16
+changes=[{'old':r['origem'],'new':r['destino'],'candidate':r['privado'],'before':r['sha256_MD_preimagem'],'after':r['sha256_candidato'],'oid':r['OID_preimagem'],'kind':'metadata16'} for r in rows]
+changes.append({'old':a['origem'],'new':a['destino'],'candidate':a['privado'],'before':a['sha256_preimagem'],'after':a['sha256_candidato'],'oid':next(r['OID'] for r in a['coincidencias_HEAD'] if r['path']==a['origem']),'kind':'sufixoA'})
+head=subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip();assert len({r['new'] for r in changes})==17
+registry=Path('scripts/dados/pendencias-integralidade-publicadas.json').read_bytes();assert all(r['old'].encode() not in registry for r in changes),'Revisar referências no registro'
+def front(raw):
+ c,b=raw.split(b'\n---\n',1);return dict(x.split(b':',1) for x in c.splitlines()[1:]),b
+for r in changes:
+ old,new=Path(r['old']),Path(r['new']);assert old.is_file() and not new.exists();before=old.read_bytes();final=Path(r['candidate']).read_bytes();assert sha(before)==r['before'] and sha(final)==r['after'];oid=subprocess.check_output(['git','rev-parse',head+':'+r['old']],text=True).strip();assert oid==r['oid'];assert subprocess.check_output(['git','cat-file','blob',oid])==before
+ missing=subprocess.check_output(['git','cat-file','--batch-check'],input=(head+':'+r['new']+'\n').encode());assert missing.endswith(b' missing\n')
+ of,ob=front(before);nf,nb=front(final)
+ if r['kind']=='metadata16':
+  assert ob==nb;assert {k for k in of.keys()|nf.keys() if of.get(k)!=nf.get(k)}=={b'fonte',b'ementa',b'situacao',b'revogada'};assert nf[b'situacao'].strip()==b'null' and nf[b'revogada'].strip()==b'null'
+ else:
+  expected=before.decode()
+  for x in a['alteracoes']:assert expected.count(x['antes'])==1;expected=expected.replace(x['antes'],x['depois'],1)
+  assert expected.encode()==final;assert ob.split(b'\n',2)[2]==nb.split(b'\n',2)[2]
+ for p in [r['candidate']]:h[p]=sha(Path(p).read_bytes())
+ assert old.resolve().is_relative_to(root) and new.resolve().is_relative_to(root)
+ assert not old.is_symlink() and not new.is_symlink()
+for p in [manifest16,manifestA,Path('scripts/estados/manifestos/se16-metadados-replay-root-20261027.json'),Path('scripts/estados/manifestos/se8494A-replay-root-20261027.json')]:h[str(p)]=sha(p.read_bytes())
+print('17 renomeações qualificadas; 16 corpos incluindo H1 e um corpo após H1 preservados. Nenhuma norma nova.',flush=True)
+if '--apply' not in sys.argv:raise SystemExit(0)
+assert subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip()==head
+backup=Path('estaduais/SE/_historico_reparos_metadata_root_20261027');assert not backup.exists();backup.mkdir()
+for i,r in enumerate(changes):
+ p=backup/(str(i+1).zfill(2)+'.md.gz');p.write_bytes(gzip.compress(Path(r['old']).read_bytes(),mtime=0));assert sha(gzip.decompress(p.read_bytes()))==r['before'];h[str(p)]=sha(p.read_bytes())
+for r in changes:
+ old,new=Path(r['old']),Path(r['new']);assert sha(old.read_bytes())==r['before'] and not new.exists();data=Path(r['candidate']).read_bytes();assert sha(data)==r['after'];temp=new.with_name('.'+new.name+'.root.tmp');assert not temp.exists()
+ with temp.open('xb') as f:f.write(data);f.flush();os.fsync(f.fileno())
+ os.replace(temp,new);assert sha(new.read_bytes())==r['after'];old.unlink();h[r['new']]=r['after']
+p=Path('scripts/estados/manifestos/se17-reparos-integracao-root-20261027.json');assert not p.exists();p.write_text(json.dumps({'HEAD':head,'normas_novas':0,'renomeacoes':changes,'criterio':'Replays ROOT das duas propostas aprovados. Preimagens exatas conferidas por OID e SHA no HEAD atual. Dezesseis reparos somente de fonte/ementa/situação/revogação, com corpo inclusive H1 idêntico; sufixo 8.494-A altera apenas título, número e H1, preservando o restante. Lei 8.494 id3754 permanece distinta e intacta. Backups completos anteriores a qualquer troca, destinos novos ausentes no HEAD e disco, referências no registro verificadas. Nenhuma data ou ID inferido.','sha256':h},ensure_ascii=False,indent=2)+'\n');h[str(p)]=sha(p.read_bytes());Path('_fonte/operacao_root_20261027/se17-reparos-hashes.json').write_text(json.dumps(h,ensure_ascii=False,indent=2)+'\n');print('17 aplicadas, backups e recibo preservados',flush=True)

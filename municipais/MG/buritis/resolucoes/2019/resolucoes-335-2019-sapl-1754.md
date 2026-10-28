@@ -1,0 +1,47 @@
+---
+titulo: "Resolução nº 335, de 13 de novembro de 2019"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "335"
+data: "2019-11-13"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/1754"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/2198/text"
+sha256_fonte: "5f338430de83ac644adf2960100304659d2173fa1a2eb736c3097324f9c1f050"
+sha256_texto: "3704ed083f60dd4e14df090882e3105608c24aa4e8d42c9b46125e58381d9d64"
+capturado_em_fonte: "2026-10-27T19:52:10.904634-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Resolução nº 335, de 13 de novembro de 2019
+
+Concede Título de Honra ao Mérito Empresarial ao senhor Wesley de Araujo Vales.
+
+
+A Câmara Municipal de Buritis, Estado de Minas Gerais por seus representantes decreta, e eu, PRESIDENTE DA CÂMARA, usando da atribuição que lhe confere a alínea d, do inciso I, c/c alínea a, inciso III, ambos do artigo 82 do Regimento Interno c/c inciso III do artigo 79 da Lei Orgânica Municipal, promulgo a seguinte RESOLUÇÃO:
+
+
+Art. 1º.
+
+Fica concedido Título de Honra ao Mérito Empresarial ao senhor Wesley de Araujo Vales por ter contribuído para o desenvolvimento local, no município de Buritis/MG.
+
+
+Art. 2º.
+
+Revogadas as disposições em contrário, esta Resolução entre em vigor na data de sua publicação.
+
+
+Câmara Municipal de Buritis-MG, 13 de novembro de 2019.
+
+**ALBERTINO BARBOSA DA SILVA Presidente da Câmara Municipal CAMILA SILVA DE ALMEIDA Primeira Secretária**
+
+Referente ao Projeto de Resolução nº 16/2019. De autoria do vereador Antônio Rodrigues.
+
+Aprovado em única votação no dia 11/11/2019, por 08 votos favoráveis 00 voto contrário.
+

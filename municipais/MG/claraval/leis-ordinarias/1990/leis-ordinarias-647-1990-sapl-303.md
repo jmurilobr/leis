@@ -1,0 +1,446 @@
+---
+titulo: "LEI ORDINÁRIA-CMC nº 647, de 05 de outubro de 1990"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "647"
+data: "1990-10-05"
+municipio: "Claraval"
+uf: "MG"
+codigo_ibge: "3116407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.claraval.mg.leg.br/norma/303"
+fonte_texto: "https://sapl.claraval.mg.leg.br/ta/4/text"
+sha256_fonte: "15c868acf8d56cb277436a8e55fb31c3133df82f500cac1dbd35a7ddb4340c37"
+sha256_texto: "9a345d4802f951c471ac11771265bbe84e3656822dbad3581dfdff5681348803"
+capturado_em_fonte: "2026-10-27T23:06:59.435332-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA-CMC nº 647, de 05 de outubro de 1990
+
+“Dispõe sobre o regime de adiantamentos e dá outras providencias.”
+
+
+A Câmara Municipal de Claraval, estado de Minas Gerais APROVA e eu DIVINO NECO DE OLIVEIRA, Prefeito Municipal, em seu nome SANCIONO a seguinte lei:
+
+
+Art. 1º.
+
+Fica instituída, na Administração Municipal, a forma de pagamento de despesas pelo regime de adiantamento, que observará as seguintes normas:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+
+Art. 2º.
+
+Entende-se por adiantamento, o numerário colocado à disposição de uma repartição, de funcionário ou servidor público, a fim de proporcionar-lhe condições de realizar despesas que, por sua natureza ou urgência, não possam aguardar o processamento normal.
+
+
+Art. 3º.
+
+Os pagamentos a serem efetuados através do regime de adiantamentos, ora instituído, restringir-se-ão aos casos previstos nesta lei e sempre em caráter de exceção.
+
+
+Art. 4º.
+
+Poderão realizar-se, sobre o regime de adiantamentos, os pagamentos das seguintes espécies de despesas:
+
+
+a)
+
+despesas de diárias e ajuda de custos;
+
+
+b)
+
+despesas com transportes em geral;
+
+
+c)
+
+despesas judiciais e cartorárias;
+
+
+d)
+
+despesas extraordinárias e urgentes, cuja realização não permite delongas (recepções oficiais, etc.);
+
+
+e)
+
+despesas que tenham que ser realizadas em lugar distante da sede da administração municipal ou em outro município (viagens, estadias e outras);
+
+
+f)
+
+despesas miúdas e de pronto pagamento.
+
+
+Art. 5º.
+
+Considera-se despesas miúdas e de pronto pagamento, para os efeitos desta lei, as que se realizam com:
+
+
+a)
+
+selos postais, telegramas, material e serviço de limpeza e higiene, lavagem de roupas, café, lanches, pequenos carretos, transporte urbano, pequenos consertos, telefone, água, luz, força, gás e aquisição avulsa de livros, jornais, revistas e outras publicações;
+
+
+b)
+
+encadernações avulsas, artigos de escritório e desenho, impressos e papelaria em quantidade restrita para uso e consumo próximo ou imediato;
+
+
+c)
+
+artigos farmacêuticos e de laboratório em quantidade restrita para uso e consumo próximo ou imediato;
+
+
+d)
+
+outra qualquer, de pequeno vulto e de necessidade imediata, desde que devidamente justificada.
+
+
+Art. 6º.
+
+As despesas com artigos em quantidades maior de uso e consumo remotos, correrão pelos itens orçamentários próprios a seguirão o processamento normal da despesa.
+
+
+#### CAPÍTULO II — DAS REQUISIÇÕES DE ADIANTAMENTOS
+
+
+Art. 7º.
+
+As requisições de adiantamentos serão feitas mediante ofícios requisitórios dirigidos ao Prefeito Municipal.
+
+
+Art. 8º.
+
+Dos ofícios requisitórios de adiantamentos constarão necessariamente, as seguintes informações:
+
+
+I –
+
+dispositivo legal em que se baseia;
+
+
+II –
+
+identificação de espécie de despesa, mencionando o item do artigo 4 (quatro), desta lei, no qual se classifica a despesa;
+
+
+III –
+
+nome completo, cargo, emprego ou função do servidor responsável pelo adiantamento;
+
+
+IV –
+
+dotação orçamentária onerada;
+
+
+V –
+
+prazo de aplicação do adiantamento.
+
+
+Art. 9º.
+
+O prazo para aplicação poderá ser mensal, mencionando-se neste caso, o valor global do adiantamento, bem como a quantia mensal a ser entregue e os meses de aplicação.
+
+
+Art. 10.
+
+Não se fará adiantamento:
+
+
+I –
+
+a servidor responsável por dois adiantamentos;
+
+
+II –
+
+a quem dentro de 03 (três) dias, deixar de atender a notificação para regularizar prestação de contas.
+
+
+#### CAPÍTULO III — DO PERÍODO DE APLICAÇÃO
+
+
+Art. 11.
+
+O adiantamento solicitado em base mensal, somente poderá ser aplicado durante o mês a que se refere ou durante o período de 30 (trinta) dias, a contar da entrega do dinheiro ao responsável.
+
+
+Art. 12.
+
+No caso de adiantamento único, o período de aplicação será aquele estabelecido no ofício requisitório.
+
+
+Art. 13.
+
+Nenhum pagamento poderá ser feito fora do período de aplicação.
+
+
+#### CAPÍTULO IV — NORMAS DE APLICAÇÃO DO ADIANTAMENTO
+
+
+Art. 14.
+
+O adiantamento não poderá ser aplicado em despesas diferentes daquelas para o qual foi autorizado.
+
+
+Art. 15.
+
+A cada pagamento efetuado, o responsável exigirá o correspondente comprovante: nota fiscal - nota simplificada - recibo e ou outros documentos comprobatórios, os quais deverão ter as seguintes particularidades:
+
+
+I –
+
+deverão ser datados e emitidos em nome da Prefeitura Municipal;
+
+
+II –
+
+as notas fiscais simplificadas somente serão aceitas quando acompanhadas da especificação das despesas realizadas, assinadas pelo agente das despesas, não se admitindo despesas referentes a aquisição de material e prestação de serviços;
+
+
+III –
+
+nos casos de aquisição de material ou qualquer outra operação, sujeita a tributo, nenhuma despesa será admitida quando não acompanhada da respectiva nota fiscal, devidamente preenchida a tinta, lápis-tinta ou máquina de escrever, sem rasuras, na forma da lei. Ocorrendo rasuras – emenda - a mesma deverá ser ressalvada através de anotação do emitente na nota ou documento.
+
+
+Parágrafo único
+
+Na impossibilidade de obter comprovante de despesa com transporte de táxi, deverá o servidor declarar o montante gasto.
+
+
+Art. 16.
+
+Cada adiantamento será convenientemente justificado, esclarecendo-se a razão da despesa, destino da mercadoria ou do serviço e outras informações que possam melhor explicar a necessidade da operação.
+
+
+Art. 17.
+
+Em todos os comprovantes de despesa constará o atestado de recebimento de material ou prestação do serviço.
+
+
+#### CAPÍTULO V — DO RECOLHIMENTO DO SALDO NÃO UTILIZADO
+
+
+Art. 18.
+
+O saldo de adiantamento não utilizado, será entregue à tesouraria mediante guia de recolhimento, onde constará o nome do responsável e a identificação do adiantamento cujo saldo está sendo restituído.
+
+
+Art. 19.
+
+O prazo para recolhimento não utilizado, será de 03 (três) dias úteis, a contar do termo final do período de aplicação.
+
+
+Art. 20.
+
+A contabilidade, à vista da guia de recolhimento emitirá nota de anulação correspondente, juntando uma via ao processo.
+
+
+Art. 21.
+
+No mês de dezembro de cada ano, os saldos de adiantamentos serão recolhidos à tesouraria até o último dia útil.
+
+
+Art. 22.
+
+Se eventual e justificadamente, algum saldo de adiantamento for recolhido no exercício seguinte, o valor será classificado como "receitas diversas" do exercício.
+
+
+#### CAPÍTULO VI — DA PRESTAÇÃO DE CONTAS
+
+
+Art. 23.
+
+No prazo de 03 (três) dias, a contar do termo final da aplicação, o responsável prestará contas da aplicação do adiantamento recebido.
+
+
+Parágrafo único
+
+A cada adiantamento corresponderá uma prestação de contas.
+
+
+Art. 24.
+
+A prestação de contas far-se-á mediante a entrada na chefia do gabinete, dos seguintes documentos:
+
+
+I –
+
+ofício e impressos de conformidade com os modelos elaborados pela contabilidade;
+
+
+II –
+
+relação de todos os documentos de despesa, constando:
+
+
+a)
+
+número e a data do documento;
+
+
+b)
+
+espécie do documento;
+
+
+c)
+
+nome do interessado;
+
+
+d)
+
+valor da despesa, constando no final a relação e a soma da despesa realizada;
+
+
+III –
+
+os documentos das despesas realizadas, dispostos em ordem cronológica, na mesma sequência da relação mencionada no item anterior;
+
+
+IV –
+
+os documentos mencionados no item anterior, de medidas reduzidas, serão colocados em folhas brancas, tamanho ofício em cada folha poderão ser colocados tantos documentos quantos couberem, sem que fiquem sobrepostos uns sobre os outros, nos espaços entre os documentos, embaixo de cada um deles será explicada a razão da despesa, a que corresponde sempre que não for possível, pelo próprio comprovante, identificar a origem da despesa;
+
+
+V –
+
+em cada documento constará obrigatoriamente:
+
+
+a)
+
+atestado de recebimento do material ou prestação do serviço;
+
+
+b)
+
+finalidade da despesa;
+
+
+c)
+
+o destino do material;
+
+
+d)
+
+outros esclarecimentos que se fizerem necessários à perfeita identificação e característica da despesa.
+
+
+Art. 25.
+
+Não serão aceitos documentos rasurados, ilegíveis, com data posterior ou anterior ao período de aplicação do adiantamento, ou que se refira a despesa não classificada na espécie do adiantamento concedido.
+
+
+Parágrafo único
+
+Somente serão aceitos documentos originais não se admitindo outras vias ou xérox, fotocópias e outra espécie de reprodução.
+
+
+#### CAPÍTULO VII — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 26.
+
+Caberá à chefia de gabinete a tomada de conta dos adiantamentos.
+
+
+Art. 27.
+
+Recebidas as prestações de contas, conforme dispõe o artigo 24, a chefia de gabinete verificará se as disposições da presente lei foram cumpridas, fazendo as exigências necessárias e fixando prazos razoáveis para que os responsáveis possam cumpri-las.
+
+
+Art. 28.
+
+Se as contas forem consideradas em ordem, o fato será certificado no local exato do documento mencionado no item I (um) do artigo 24.
+
+
+Art. 29.
+
+Com o parecer da chefia de gabinete, o processo será encaminhado ao prefeito municipal ou a quem for delegada tal atribuição, para aprovação ou não aprovação das contas retornando para as seguintes providências:
+
+
+I –
+
+no caso de contas terem sido aprovadas, encaminhar à contabilidade para:
+
+
+a)
+
+baixar a responsabilidade do tomador do adiantamento;
+
+
+b)
+
+convidar o responsável para tomar consciência do próprio processo;
+
+
+c)
+
+arquivar o processo de prestação de contas apenso ao que autorizou o adiantamento, em local seguro ondo ficara a disposição do tribunal de contas.
+
+
+II –
+
+na hipótese da aprovação de contas condicionada a alguma exigência:
+
+
+a)
+
+providenciar o cumprimento das exigências determinadas;
+
+
+b)
+
+adotar as medidas indicadas no item anterior;
+
+
+III –
+
+não sendo aprovadas as contas, seguir as orientações determinadas no despacho final do processo.
+
+
+Art. 30.
+
+A contabilidade organizará um calendário para controlar as datas em que deverão entrar as prestações de contas dos adiantamentos concedidos.
+
+
+Art. 31.
+
+No dia útil imediato ao vencimento do prazo para a prestação de contas, sem que o responsável as tenha apresentado, oficiará diretamente ao mesmo, concedendo-lhe prazo improrrogável de 03 (três) dias para fazê-lo.
+
+
+Parágrafo único
+
+Na cópia do ofício ou correspondência, o responsável assinará o recebimento da via original, colocando de próprio punho, a data do recebimento.
+
+
+Art. 32.
+
+Não sendo cumprida a prestação de contas, após o prazo estabelecido no artigo anterior, a contabilidade remeterá, no dia imediato, a cópia do oficio ou correspondência referida no parágrafo único do artigo 31, ao prefeito municipal devidamente informada, para instauração do competente procedimento administrativo, nos termos da legislação vigente.
+
+
+Art. 33.
+
+Este lei entra em vigor na data de sua publicação, revogadas as disposições em contrario.
+
+
+Claraval, 05 de outubro de 1990
+
+**DIVINO NECO DE OLIVEIRA**
+
+Prefeito Municipal
+

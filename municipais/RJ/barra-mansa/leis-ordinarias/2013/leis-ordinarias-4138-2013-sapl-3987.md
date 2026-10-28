@@ -1,0 +1,113 @@
+---
+titulo: "Lei Ordinária nº 4.138, de 23 de outubro de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4138"
+data: "2013-10-23"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/3987"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/1425/text"
+sha256_fonte: "0c20468f659dd53b320b2e13058263686a58931c2b6416be6a6dfa9b3c53ead5"
+sha256_texto: "b0300c811023f6014a032c04815ff4b89d0b5395acf9e83fe386fc151b396919"
+capturado_em_fonte: "2026-10-27T17:57:35.842145-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.138, de 23 de outubro de 2013
+
+FAÇO SABER QUE A CÂMARA MUNICIPAL APROVOU E EU PROMULGO A SEGUINTE:
+
+
+LEI N° 4138, DE 23 DE OUTUBRO DE 2013.
+
+
+Disciplina o descarte de resíduos de vidro e dá outras providências.
+
+
+Art. 1º.
+
+Esta Lei dispõe sobre a coleta e a destinação final ambientalmente adequada dos resíduos provenientes de vidros automotivos descartados, ou daqueles oriundos do comércio varejista de vidros em geral.
+
+
+Art. 2º.
+
+Compete às empresas que tenham em sua atividade a venda e a instalação de vidros automotivos, sejam eles automotivos ou não, a responsabilidade pela destinação final ou pela reciclagem dos produtos inservíveis.
+
+
+§ 1º
+
+Constitui responsabilidade das empresas citadas no caput as etapas de acondicionamento, disponibilização para coleta, coleta, tratamento e disposição final ambientalmente adequada dos vidros.
+
+
+§ 2º
+
+As empresas poderão, para os fins desta Lei, efetuar a destinação final ou a reciclagem dos vidros em instalações próprias ou mediante contratação de serviços especializados de terceiros.
+
+
+§ 3º
+
+A contratação de serviços especializados de terceiros para coleta, armazenamento, transporte, tratamento e destinação final ambientalmente adequada dos vidros não isenta a responsabilidade das empresas pelos danos que vierem a ser provocados.
+
+
+§ 4º
+
+Somente cessará a responsabilidade das empresas quando os vidros forem reaproveitados em novos produtos, na forma de novos insumos, em seu ciclo ou em outros ciclos produtivos.
+
+
+§ 5º
+
+As empresas deverão comprovar, quando solicitada, através de documento hábil, a destinação que deram aos vidros automotivos.
+
+
+Art. 3º.
+
+Ficam expressamente proibidos:
+
+
+I –
+
+o despejo de vidros juntamente com o lixo doméstico, comercial e industrial;
+
+
+II –
+
+o lançamento ou a disposição de vidros a céu aberto;
+
+
+III –
+
+o lançamento ou a disposição de vidros em mananciais e em suas áreas de drenagem, cursos d'água, lagos, áreas de várzea, terrenos baldios, cavidades subterrâneas, poços e cacimbas;
+
+
+IV –
+
+o lançamento ou a disposição de vidros em locais não adequados, em áreas urbanas ou rurais;
+
+
+V –
+
+o armazenamento de vidros em locais inadequados.
+
+
+Art. 4º.
+
+O Poder Executivo regulamentará esta Lei no prazo de 60(sessenta) dias, a contar de sua publicação, arbitrando as penalidades que serão impostas aos infratores.
+
+
+Art. 5º.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+CÂMARA MUNICIPAL DE BARRA MANSA, 23 DE OUTUBRO DE 2013.
+
+
+JOSÉ LUIZ VANELI  
+PRESIDENTE
+

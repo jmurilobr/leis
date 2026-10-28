@@ -1,0 +1,168 @@
+---
+titulo: "Lei nº 6, de 26 de setembro de 1963"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "6"
+data: "1963-09-26"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/670"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/49/text"
+sha256_fonte: "09692646e0a5024491f139bbcedeec3f6c6051ed4e3bc732f43aaeedb5e2c1b2"
+sha256_texto: "edd122725307452d8f108d76866e2ffd3deaddfc4783192d835627a4f0c9de05"
+capturado_em_fonte: "2026-10-27T21:03:16.253530-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 6, de 26 de setembro de 1963
+
+Cria o Serviço Municipal de Estradas de Rodagem S.M.E.R.
+
+
+A Câmara Municipal de Buritis, por seus representantes, Decreta, e Eu, Prefeito Municipal, Promulgo:
+
+
+Art. 1º.
+
+Fica criado o serviço municipal de estradas de rodagens.
+
+
+Art. 2º.
+
+Ao serviço Municipal de Estradas de Rodagens, compete:
+
+
+a)
+
+Subordinar as suas atividades ao Plano Rodoviário Municipal elaborado e periodicamente revisti, em harmonia com os planos Rodoviarios Federal e Estadual.
+
+
+b)
+
+Dar execução sitematica a êste plano, efetuando-os, fiscalizando os serviços tecnicos e administrativos concernentes a estudos, projetos, locação, construção, melhoramentos, obra de arte e pavimentação das Rodovias Municipais.
+
+
+c)
+
+Consevar Permanentemente Rodovias e caminhos vicinais;
+
+
+d)
+
+Aplicar integralmente em estradas de rodagens os recursos de origem Federal, Estadual e municipal que lhes forem consignados;
+
+
+e)
+
+Facilitar ao D. N. E. R. o conhecimento das atividades Rodoviarias do Município, permitindo-se verificar a perfeita observancia das condiçoes para o recebimento de quotas do F. N. R.
+
+
+f)
+
+Dar ao D. N. E. R. imediato conhecimento das Leis, Regulamentos e instruções administrativas, referentes a viação rodoviarias Municipal.
+
+
+g)
+
+Elaborar anualmenteprograma de atividade do S. M. E. R. dando conhecimento do mesmo ao D. N. E. R.
+
+
+h)
+
+Remeter anualmente, ao D. N. E. R. pormenorizado relatório das suas atividades no exercício anterior, acompanhado de demostrativo do orçamento do referido exercício.
+
+
+Art. 3º.
+
+O S. M. E. R. será dirigido preferencialmente por tecnico habilitado, nomeado em comissão pelo Prefeito e contará com um corpo de servidores, estritamente necessario.
+
+
+§ 1º
+
+A designação do chefe do S. M. E. R. poderá recair em funcionario da Prefeitura na falta de tecnico habilitado, a chefia do SMER poderá ficar a cargo de pessôa com pratica de serviços de estradas de rodagem e caminho.
+
+
+§ 2º
+
+O pessoal necessario a execução do serviço administrativo e tecnico, poderá ser, total ou parcialmente aproveitado do quadro do pessoal da Prefeitura.
+
+
+Art. 4º.
+
+A chefia do SMER compete:
+
+
+a)
+
+Elaborar e submeter ao Prefeito os programas anuais e respectivos orçamentos;
+
+
+b)
+
+Dirigir e fiscalizar a execução dos programas.
+
+
+Art. 5º.
+
+Para atender as despesas do SMER a Lei orçamentaria do Municipio consignará anualmente as seguintes dotações:
+
+
+a)
+
+Quota que couber ao Municipio do F. N. R.
+
+
+b)
+
+Contribuição orçamentaria do Municipio em importancia nunca inferiôr a cada exercicio a 5% da receita geral orçada, excluida as rendas industriais.
+
+
+c)
+
+Creditos especiais.
+
+
+d)
+
+As demais rendas que por sua natureza ou disposições especificas, devem caber ao SMER.
+
+
+§ 1º
+
+A Receita e Despesa do SMER serão contabilizadas separadamente das do municipio, incorporando-se entretanto em glôbo aos balanços da Prefeitura.
+
+
+Art. 6º.
+
+As duvidas e omissões desta Lei, serão resolvidas pelo Prefeito Municipal.
+
+
+Art. 7º.
+
+Dentro de 90 dias o Prefeito baixará o regimento interno do SMER.
+
+
+Art. 8º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Registre-se e Publique-se.
+
+Dado e passado na Prefeitura Municipal de Buritis, aos 26 dias do mês de Setembro de 1963.
+
+Mando a todas as autoridades a quem o conhecimento e execução desta Lei pertencer, que a cumpram e façam cumprir tão inteiramente como nela se contêm.
+
+**João Honorato Primo**
+
+**Prefeito**
+
+**Sebastião Alves**
+
+**Secretário-Contador**
+

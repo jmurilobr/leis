@@ -1,0 +1,110 @@
+---
+titulo: "Lei-CMC nº 2.933, de 04 de março de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2933"
+data: "2010-03-04"
+municipio: "Congonhas"
+uf: "MG"
+codigo_ibge: "3118007"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.congonhas.mg.leg.br/norma/6456"
+fonte_texto: "https://sapl.congonhas.mg.leg.br/ta/4079/text"
+sha256_fonte: "ba952710216a05f3ab19819adbbf7233e1a460c9cdf8e4f6b3c9a360f8abfbfc"
+sha256_texto: "b74a65a4da8936dbfa487cadc6c878aa75940a408889e510bc409b0893237f11"
+capturado_em_fonte: "2026-10-28T08:45:46.746805-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei-CMC nº 2.933, de 04 de março de 2010
+
+AUTORIZA O MUNICÍPIO DE CONGONHAS/MG, A INTEGRAR O CONSÓRCIO INTERMUNICIPAL DE SAÚDE DA REDE DE URGÊNCIA DO CENTRO SUL-CISRU-CENTRO SUL E DÁ OUTRAS PROVIDÊNCIAS
+
+
+A Câmara Municipal de Congonhas, aprovou a seguinte lei:
+
+
+Art. 1º.
+
+Esta Lei dispõe sobre a participação do Município de Congonhas/MG no CONSÓRCIO INTERMUNICIPAL DE SAÚDE DA REDE DE URGÊNCIA DO CENTRO SUL – CISRU-CENTRO SUL.
+
+
+§ 1º
+
+O Consórcio CISRU-CENTRO SUL será constituído como consórcio público, nos termos da Lei 11.107/2005 e, portanto, será uma associação pública de natureza autárquica, com prazo de duração indeterminado.
+
+
+§ 2º
+
+O Consórcio CISRU-CENTRO SUL terá como finalidade desenvolver em conjunto ações e serviços de saúde, observados os preceitos que regem o Sistema Único de Saúde, especialmente no que tange ao gerenciamento dos serviços de urgência e emergência da Macrorregião Centro Sul do Estado de Minas Gerais.
+
+
+§ 3º
+
+Para o cumprimento de suas finalidades o Consórcio poderá:
+
+
+I –
+
+firmar convênios, contratos, acordos de qualquer natureza, receber auxílios, contribuições e subvenções sociais ou econômicas de outras entidades e órgãos governamentais;
+
+
+II –
+
+ser contratado pela administração direta ou indireta dos entes da Federação consorciados, dispensada a licitação.
+
+
+Art. 2º.
+
+Fica o Poder Executivo do Município de Congonhas/MG autorizado a participar do Consórcio Público CISRU-CENTRO SUL podendo, para tanto, formalizar Protocolo de Intenções com os demais entes da Federação.
+
+
+§ 1º
+
+A autorização prevista neste artigo dispensa a ratificação, por lei, do Protocolo de Intenções a serem firmados pelo Poder Executivo para constituição do Consórcio CISRU-CENTRO SUL, nos termos da Lei Federal 11.107/2005.
+
+
+§ 2º
+
+A Minuta do Protocolo de Intenções será encaminhada ao Poder Legislativo Municipal para conhecimento e acompanhamento.
+
+
+§ 3º
+
+O Protocolo de Intenções será publicado na Imprensa Oficial quando se converter em contrato de Consórcio Público.
+
+
+Art. 3º.
+
+Os objetivos específicos do Consórcio serão determinados pelos entes da Federação que se consorciarem, observadas as competências constitucionais a eles atribuídas.
+
+
+Art. 4º.
+
+Fica o Executivo Municipal autorizado a incluir operação especial no PPA – Plano Plurianual vigente, bem como abrir Crédito Especial para atender à celebração do Consórcio objeto da presente lei.
+
+
+Art. 5º.
+
+O contrato de rateio será formalizado em cada exercício financeiro e seu prazo de vigência não será superior ao das dotações que o suportam, com exceção dos contratos que tenham por objeto exclusivamente projetos consistentes em programas e ações contemplados em plano plurianual ou a gestão associada de serviços públicos custeados por tarifas ou outros preços públicos.
+
+
+Parágrafo único
+
+É vedada a aplicação dos recursos entregues por meio de contrato de rateio para o atendimento de despesas genéricas, inclusive transferências ou operações de crédito.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Congonhas, 4 de março de 2010.
+
+**ANDERSON COSTA CABIDO**
+
+**Prefeito de Congonhas**
+

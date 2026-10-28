@@ -1,0 +1,90 @@
+---
+titulo: "Lei Ordinária nº 37, de 26 de dezembro de 1973"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "37"
+data: "1973-12-26"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/360"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/876/text"
+sha256_fonte: "d7f002c716f58f66603e92eb0e02365dc32ac7830ab7ac9a04e8111d607ca383"
+sha256_texto: "716176dca6f7e7411fc80094d47f62b273d4f90d47e8088a9671442b016ee419"
+capturado_em_fonte: "2026-10-27T22:05:34.537912-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 37, de 26 de dezembro de 1973
+
+Reajusta tarifas para os serviços de Transporte individual de passageiros e dá outras providências.
+
+
+O Prefeito Municipal de Caçu: Faço saber que a Câmara Municipal de Caçu, Estado de Goiás, aprovou e eu sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Ficam estipuladas as seguintes tarifas para os serviços de transporte individual de passageiros, durante o ano de 1974:
+
+
+I –
+
+Táxis de duas ou quatro portas:
+
+
+a)
+
+dentro do perímetro urbano, por viagem, até Cr$ 5,00
+
+
+b)
+
+fora do perímetro urbano por Km rodado até Cr$ 1,00
+
+
+II –
+
+Autolotações, dentro do perímetro urbano:
+
+
+a)
+
+Táxis, por pessoa de destino diferente, até Cr$ 3,00
+
+
+b)
+
+Kombis ou similares, por pessoa de destino diferente, até Cr$ 2,00
+
+
+III –
+
+Da cidade para o aeroporto Municipal ou vice-versa, qualquer veiculo, por viagem, até Cr$ 10,00
+
+
+Art. 2º.
+
+Será permitido aos proprietários de veículos de transporte individual de passageiros cobrar até Cr$ 20,00 por hora de espera, desde que previamente combinado com o interessado.
+
+
+Art. 3º.
+
+Ficam revogados o artigo 4º e seu parágrafo único da lei municipal 5/72, ficando mantidas todas as demais disposições da mesma lei.
+
+
+Art. 4º.
+
+Esta lei entrará em vigor em 1º de janeiro de 1974, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Caçu, Estado de Goiás, em 26 de dezembro de 1973.
+
+
+**Noé Nunes Guimarães**  
+\- Prefeito Municipal -
+

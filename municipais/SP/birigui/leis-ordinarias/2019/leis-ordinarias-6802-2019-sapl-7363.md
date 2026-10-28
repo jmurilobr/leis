@@ -1,0 +1,77 @@
+---
+titulo: "Lei Ordinária nº 6.802, de 09 de dezembro de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "6802"
+data: "2019-12-09"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/7363"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/1653/text"
+sha256_fonte: "77652de81188b180ca3a2b4c6c0e8e200242b28abea3d17aaab2a9705577880b"
+sha256_texto: "4475a288a5657e933411ea97c03876579c285b534f36aaaa3915af82f4d5c36c"
+capturado_em_fonte: "2026-10-27T18:18:16.931492-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 6.802, de 09 de dezembro de 2019
+
+ADOÇÃO DO NOME DO SENHOR FLORINDO MOZOLI PARA DENOMINAR VIA PÚBLICA EM BIRIGUI.  
+Projeto de Lei n° 132/2019, de autoria do Prefeito Municipal.
+
+
+Eu, **CRISTIANO SALMEIRÃO**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,  
+FAÇO SABER que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Passa a denominar-se RUA FLORINDO MOZOLI a via pública sem denominação oficial, identificada no Cadastro Municipal de Logradouros Públicos como "Rua 3", localizada no Conjunto Habitacional Prefeito Francisco Antonio de Lima, nesta cidade.
+
+
+Art. 2º.
+
+A confecção das placas de denominação, será de responsabilidade da família do homenageado, dentro das especificações fornecidas pelas Secretarias de Obras e de Serviços Públicos, Água e Esgoto e que fará a afixação das mesmas.
+
+
+Art. 3º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Birigui, aos nove de dezembro de dois mil e dezenove.
+
+**CRISTIANO SALMEIRÃO Prefeito Municipal**
+
+**SAULO GIAMPIETRO Secretário de Obras**
+
+Publicada na Secretaria de Expediente e Comunicações Administrativas da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**TIAGO CONTADOR LOTTO Secretário de Expediente e Comunicações Administrativas**
+
+
+**"DADOS BIOGRÁFICOS DO SENHOR FLORINDO MOZOLI"**
+
+Florindo Mozoli, nasceu em Birigui/SP, mas precisamente no bairro rural do Tupi, em 25 de fevereiro de 1945. Descendente de uma família italiana, passou sua infância juntos com seus cinco irmãos em uma residência na Rua Belmonte, 1000, centro, hoje instalado o Condomínio Residencial Portal do Sol.  
+Estudou na escola Vicente Felício Primo e seu lazer era jogar bola nos finais de semana.  
+Com 11 anos foi trabalhar e aprender a usar um torno na oficina do Terence, instalada na Rua Saudades, onde trabalhou até o ano de 1966.  
+Serviu o Tiro de Guerra, instalado a base militar na Rua Santos Dumont, Centro e seu instrutor era o 2° Sgt Wilson da Cunha Araujo.  
+Morou na Rua Saudades com a Rua Anhanguera, seu pai tinha um comércio tipo bar, logo o prédio foi vendido e tiveram que mudar para Rua Barão do Rio Branco, em frente ao Orfanato da Dona Olinda.  
+No final do ano de 1968, toda a família mudou para a capital, onde conseguiu um emprego na fábrica de automóvel FORD, trabalhando em vários setores.  
+Como ficou vários amigos no interior, pelo menos uma vez ao ano vinha visitá-los, e em uma dessas visitas acabou conhecendo sua esposa Cecília Aparecida Polizel Mozoli, casou-se no ano de 1973 e foram para a capital, por lá tiveram a primeira filha, Kátia Regina Mozoli.  
+Decidiu então no ano de 1976, voltar para Birigui, pois a família de sua esposa morava por aqui, assim vieram; foram morar em uma casa na Vila Xavier e conseguiu emprego na Decarauto retifica de motores, trabalhando como torneiro mecânico, profissão que aprendeu desde pequeno.  
+Em 1977, teve o segundo filho, Fabiano Mozoli, e mudouse para uma casa no bairro Vila Isabel de Almeida Marim, onde por lá teve mais dois filhos, em 1981 o Rodrigo Mozoli e em 1984 a Juliana Mozoli. Nessa época participou efetivamente da comunidade católica Santa Isabel, ajudando em ações comunitárias em prol ao próximo e conseguiu juntamente com a comunidade a construção da Igreja Santa Isabel.  
+Em 1994, mudou-se para o bairro Vale do Sol.  
+Dentre outros empregos trabalhou ainda na Deltacar Automóvel, Biferco e na Kilbra Máquinas, fazendo várias amizades por onde passou.  
+Após aposentado dedicou sua vida a família, onde fazia questão de reunir os filhos, noras, genros, quatros netos e amigos nos finais de semana para celebrarem o ato de confraternização.  
+Em 2017, após diagnóstico de câncer no esôfago foi encaminhado para a cidade de Jales onde fez tratamento durante quase dois anos, nesse período sentiu realmente o valor da amizade, pois muitos eram os pedidos de oração e de palavras que incentivam a ter forças para vencer quaisquer obstáculos, inclusive realizou seu antigo sonho de conhecer o estádio do Corinthians.  
+Em 12 de novembro de 2018, veio a falecer nessa cidade devido o avanço da doença.  
+Florindo Mozoli, deixou para sua família um aprendizado de viver em comum união entre nós e com todos nossos amigos, sem qualquer tipo de distinção, deixando prevalecer à dignidade e a honra sempre preservando o nome, amizade e o desejo de um mundo melhor.
+
+**CRISTIANO SALMEIRÃO Prefeito Municipal**
+

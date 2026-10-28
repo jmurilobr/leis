@@ -1,0 +1,101 @@
+{
+  "preparado_em": "2026-10-28T10:41:11.168208-03:00",
+  "total": 186,
+  "leis_ordinarias": 186,
+  "leis_complementares": 0,
+  "com_recorte_CFF_demonstrado": 176,
+  "sem_recorte_somente_flatness": 10,
+  "retidos": 269,
+  "anteriores_publicados": 45,
+  "manifesto": "scripts/estados/manifestos/to186-recortes-proposta-privada-20261028-001.json",
+  "sha256_manifesto": "5bd7e2e2e5acc5a94a1dbff492621054578d03c799eb7d67937ed0028500b924",
+  "mapa_replay": "estaduais/TO/_fonte/auditorias/to186-recortes-privado-20261028-001/final/hashes.json",
+  "sha256_mapa_replay": "12b96be5da00e8984cba57470377a4f3a644ede446b54cb652039284bcf1d898",
+  "replay": {
+    "total": 186,
+    "aprovados": 186,
+    "falhas": 0,
+    "rede": false,
+    "promovidos": 0
+  },
+  "portabilidade": {
+    "replay": {
+      "total": 186,
+      "aprovados": 186,
+      "falhas": 0,
+      "rede": false,
+      "promovidos": 0
+    },
+    "testes": 61,
+    "falhas": 0,
+    "erros": 0,
+    "bloqueios_fora_exportacao": [],
+    "fontTools_do_wheel_do_mapa": true,
+    "exportacao_somente_mapa": true,
+    "QA_externo": "scripts/bin/qa-20261027/python",
+    "Python": "-I -B"
+  },
+  "dry_run": {
+    "finalizado_em": "2026-10-28T10:33:33.051352-03:00",
+    "modo": "dry-run",
+    "aptos": 186,
+    "promovidos": 0,
+    "HEAD": "7b390204c0c3d7cbe3a7e78a779e5e1bba175e92"
+  },
+  "diff_check": {
+    "arquivos": 199,
+    "diagnosticos": []
+  },
+  "sem_Git_escrita": true,
+  "nenhum_apply_executado": true,
+  "metas_inalteradas": true,
+  "esquema": "Ordem/campos README; baixado_em apenas YYYY-MM-DD da captura real UTC-03; situação/revogada null. Corpo integral sem normalizar valores/números/paginação.",
+  "diagnostico_sem_ano": "estaduais/TO/_fonte/auditorias/to186-recortes-privado-20261028-001/final/coincidencias-numero-sem-ano.json",
+  "granularidade_extra": "estaduais/TO/_fonte/auditorias/to186-recortes-privado-20261028-001/final/granularidade-extra-v2.json",
+  "inspecao_visual": "estaduais/TO/_fonte/auditorias/recortes-amostra-186-20261028-016/recibo-visual.json",
+  "sha256_inspecao_visual": "6af5e703cdf93ff3e13e763e125d3c7ed69fb96d20b4fa9c31367293ae70d25f",
+  "fonttools": {
+    "preparado_em": "2026-10-28T09:59:52.426649-03:00",
+    "pacote": "fonttools",
+    "versao": "4.60.1",
+    "wheel": "estaduais/TO/_fonte/auditorias/qa-fontes-20261028-001/fonttools-4.60.1-py3-none-any.whl",
+    "sha256_wheel": "906306ac7afe2156fcf0042173d6ebbb05416af70f6b370967b47f8f00103bbb",
+    "url_oficial": "https://files.pythonhosted.org/packages/c7/93/0dd45cd283c32dea1545151d8c3637b4b8c53cdb3a625aeb2885b184d74d/fonttools-4.60.1-py3-none-any.whl",
+    "metadata_pypi": "estaduais/TO/_fonte/auditorias/qa-fontes-20261028-001/pypi-fonttools-4.60.1.json",
+    "sha256_metadata_pypi": "d67a6438e16ea3f896e6a7bafcd95818e51e6da61334e9863b055d33c1203299",
+    "modo": "Importação zip do wheel puro pelo PYTHONPATH; sem instalar no runtime ou QA central. Cópia cp312 experimental anterior permanece privada e não é dependência.",
+    "sem_rede_para_replay": true
+  },
+  "versoes": {
+    "pdfplumber": "0.11.9",
+    "pdfminer.six": "20251230",
+    "pypdf": "6.10.0",
+    "markdown-it-py": "4.0.0",
+    "mdurl": "0.1.2",
+    "lxml": "6.1.1",
+    "fonttools": "4.60.1 (wheel puro do mapa)"
+  },
+  "Python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]",
+  "pdftotext": "pdftotext version 26.10.0\nCopyright 2005-2026 The Poppler Developers - http://poppler.freedesktop.org\nCopyright 1996-2011, 2022 Glyph & Cog, LLC",
+  "codigo": {
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/pdf_texto_fiel.py": "8a7488a99a1b8b3661093f67263df586f9502ccf9758ca7c4c0a1184a602ed7a",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/test_visibilidade_pdf_to.py": "34d4a6b403415be2efd562740db9d340a025accca8049d539a038fc7ee79e4fa",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/requirements.txt": "35a6bc9d92c12ed11357e68e793e8ce32e9204317aa1a01d3fe1378f58c0bc60",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/REPLAY.txt": "9596672972794d38cb5093ebaf8a080e8410634ec753af2a436330e4f657c771",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/visibilidade_pdf_to.py": "87a36b4d0c9e40a713c41c9fada9efd5ffad2077295abc22073f9452e23c78d0",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/test_to_pdf_simples.py": "4a2d5177b5f1216e51154c0538cb82d5535a2be6b5eb77eafcec831e88028376",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/test_metadados_to_pdf.py": "da3938c4258d1547ce759ae7cb1caf2657d5bf185bdc1e2ef036731a6f756754",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/auditar_to_pdf_simples.py": "26beb8f2c8b585b3becdc489a2a5a5a25115e81ba74fe1b5e9a817ad05af66c8",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/metadados_to_pdf.py": "a66f4e4149ce6d9016cfc4318347ec41b04d5f654c7c95b185753b6d02c8927a",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/clipping_pdf_textual_to.py": "85ed6406b45c4cef675425cb2fe857bb1c05a5f642cdff924877d3ffdd51c13c",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/test_clipping_pdf_textual_to.py": "afbe1fe89ecffbc09860357ef32d5357e175c2892c6276fffd68f16ff1da8892",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/coletar_to_portal_indice.py": "15263ad6ec643232b7eaca59c86b42fbb591cf93ca66f9244d85549d90b346bf",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/reexecutar_to_pdf.py": "f96437614fc16523c2baa31cbd2d4a7ad669cb804820443520f84e49a239f3fb",
+    "scripts/estados/snapshots/to_promocao_20261028_001/promover_to_pdf_privado.py": "da46be194e42693cf905b797f8d412619152045e61732ec92ee87f8595e82371",
+    "scripts/estados/snapshots/to_promocao_20261028_001/test_promover_to_pdf_privado.py": "b1e7c055085fad2e9588b58faddc7150f3b3c9b1d7477942820893b724c99e8f"
+  },
+  "comandos": {
+    "replay": "PYTHONPATH=\"$PWD/estaduais/TO/_fonte/auditorias/qa-fontes-20261028-001/fonttools-4.60.1-py3-none-any.whl:$PWD/scripts/bin/qa-20261027/python:$PWD/scripts/estados/snapshots/to_promocao_20261028_001\" python3 -B scripts/estados/snapshots/to_pdf_simples_20261028_003/reexecutar_to_pdf.py --manifesto scripts/estados/manifestos/to186-recortes-proposta-privada-20261028-001.json --hashes estaduais/TO/_fonte/auditorias/to186-recortes-privado-20261028-001/final/hashes.json --recibo RECIBO_NOVO.json",
+    "dry_run": "PYTHONPATH=\"$PWD/estaduais/TO/_fonte/auditorias/qa-fontes-20261028-001/fonttools-4.60.1-py3-none-any.whl:$PWD/scripts/bin/qa-20261027/python:$PWD/scripts/estados/snapshots/to_pdf_simples_20261028_003\" python3 -B scripts/estados/snapshots/to_promocao_20261028_001/promover_to_pdf_privado.py --manifesto scripts/estados/manifestos/to186-recortes-proposta-privada-20261028-001.json --hashes estaduais/TO/_fonte/auditorias/to186-recortes-privado-20261028-001/final/hashes.json --total-esperado 186 --controle CONTROLE_PRIVADO_NOVO"
+  }
+}

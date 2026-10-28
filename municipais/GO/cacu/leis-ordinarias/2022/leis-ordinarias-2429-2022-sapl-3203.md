@@ -1,0 +1,291 @@
+---
+titulo: "Lei Ordinária nº 2.429, de 14 de março de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2429"
+data: "2022-03-14"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/3203"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/231/text"
+sha256_fonte: "270e7e26428218ccc3f0303f9af28894a3c0a4bbc105d5ced872205a054c02b6"
+sha256_texto: "e7d66ca2e9e220a4aa4c8d38b1bc326f6c565b15feafd8053baaa815262712c8"
+capturado_em_fonte: "2026-10-27T21:29:30.572587-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.429, de 14 de março de 2022
+
+Institui Fundo Municipal de Educação e dá outras providências.
+
+
+**A Prefeita de Caçu**, Estado de Goiás, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ela, sanciona e promulga a seguinte Lei:
+
+
+#### CAPÍTULO I — Dos Objetivos
+
+
+Art. 1º.
+
+Fica instituído o Fundo Municipal de Educação, em caráter permanente, que será gerido e administrado na forma desta Lei.
+
+
+Art. 2º.
+
+O Fundo tem por objetivo facilitar a captação, o repasse e a aplicação de recursos destinados ao desenvolvimento da Educação no Município.
+
+
+§ 1º
+
+As ações de que trata o caput do artigo referem-se prioritariamente aos programas de desenvolvimento da Educação no Município
+
+
+§ 2º
+
+Dependerá de deliberação expressa do Conselho da Educação a autorização para aplicação de recursos do fundo em outros tipos de programas que não o estabelecido no § 1º.
+
+
+§ 3º
+
+Os recursos do Fundo serão administrados segundo o plano de aplicação elaborado pelo Conselho Municipal da Educação.
+
+
+#### CAPÍTULO II — Da Operacionalização do Fundo
+
+
+Art. 3º.
+
+O Fundo ficará subordinado operacionalmente à Secretaria Municipal de Educação do Município.
+
+
+Art. 4º.
+
+São atribuições da Secretária Municipal de Educação:
+
+
+I –
+
+coordenar a execução dos recursos do Fundo, de acordo com o Plano de Aplicação;
+
+
+II –
+
+apresentar ao Conselho Municipal da Educação o Plano de Aplicação devidamente aprovado pelo legislativo municipal;
+
+
+III –
+
+preparar e apresentar ao Conselho Municipal, demonstração mensal da receita e da despesa executada do fundo;
+
+
+IV –
+
+emitir e assinar notas de empenho, cheques e ordens de pagamentos da despesa do Fundo;
+
+
+V –
+
+tomar conhecimento e dar cumprimento às obrigações definidas em convênios e/ou contratos firmados pela Secretaria Municipal de Educação e que digam respeito ao Conselho Municipal de Educação;
+
+
+VI –
+
+manter, em coordenação com o setor de patrimônio do Município, o controle dos bens patrimoniais com carga ao Fundo;
+
+
+VII –
+
+encaminhar à contabilidade geral do Município:
+
+
+a)
+
+mensalmente, demonstração da receita e da despesa;
+
+
+b)
+
+trimestralmente, inventário dos bens materiais;
+
+
+c)
+
+anualmente, inventário dos bens móveis e imóveis e balanço geral do Fundo;
+
+
+VIII –
+
+firmar, com responsável pelo controle da execução orçamentária, a demonstração mencionada anteriormente;
+
+
+IX –
+
+providenciar junto a contabilidade do Município na demonstração que indique a situação econômica – financeira do Fundo;
+
+
+X –
+
+apresentar ao Conselho Municipal, a análise e avaliação da situação econômico – financeira do Fundo detectada na demonstração mencionada;
+
+
+XI –
+
+manter o controle dos contratos e convênios firmados com instituições governamentais e não-governamentais;
+
+
+XII –
+
+manter o controle da receita do Fundo;
+
+
+XIII –
+
+encaminhar ao Conselho Municipal, relatório mensal de acompanhamento e avaliação do Plano de Aplicação.
+
+
+#### CAPÍTULO III — Dos Recursos do Fundo
+
+
+Art. 5º.
+
+São receitas do Fundo:
+
+
+I –
+
+dotação consignada anualmente no orçamento municipal e as verbas adicionais que a lei estabelecer no decurso de cada exercício;
+
+
+II –
+
+doações de pessoas físicas e jurídicas,
+
+
+III –
+
+valores provenientes das multas, oriundas das infrações ocorridas;
+
+
+IV –
+
+transferências de recursos financeiros oriundos dos Fundos Nacional e Estadual para Educação;
+
+
+V –
+
+doações, auxílios, contribuições, transferências de entidades nacionais e internacionais, governamentais e não-governamentais, produto de aplicações financeiras dos recursos disponíveis, respeitada a legislação em vigor e da venda de materiais;
+
+
+VI –
+
+recursos advindos de convênios, acordo e contratos firmados entre o município e instituições privadas e públicas, nacionais e internacionais, para repasse a entidades executoras de programas integrantes do Plano de Aplicação;
+
+
+VII –
+
+outros recursos que por ventura lhe forem destinados.
+
+
+Art. 6º.
+
+Constituem ativos do Fundo:
+
+
+I –
+
+disponibilidade monetária em bancos, oriundas das receitas especificadas no artigo anterior;
+
+
+II –
+
+direitos que por ventura vier a constituir;
+
+
+III –
+
+bens móveis e imóveis, destinados à execução dos programas e projetos do Plano de Aplicação.
+
+
+Parágrafo único
+
+Anualmente processar-se-á o inventário dos bens vinculados ao Fundo que pertence a Prefeitura Municipal.
+
+
+Art. 7º.
+
+A contabilidade do Fundo Municipal tem por objetivo evidenciar a situação financeira e patrimonial do próprio Fundo, observando padrões e normas estabelecidas na legislação pertinente.
+
+
+Art. 8º.
+
+A contabilidade será organizada de forma a permitir o controle prévio, concomitante e subsequente, e inclusive de apurar custos dos serviços, bem como interpretar e analisar os recursos obtidos.
+
+
+#### CAPÍTULO IV — Da Execução Orçamentária
+
+
+Art. 9º.
+
+Imediatamente após a promulgação desta Lei de Orçamento, a Secretária Municipal de Educação apresentará ao Conselho Municipal o quadro de aplicação dos recursos do Fundo para apoiar os programas e projetos contemplados no Plano de Aplicação.
+
+
+Art. 10.
+
+Nenhuma despesa será realizada sem a necessária cobertura de recurso.
+
+
+Parágrafo único
+
+Para os casos de insuficiência ou inexistência de recursos poderão ser utilizados os créditos adicionais, autorizados por Lei e abertos por Decreto do Executivo.
+
+
+Art. 11.
+
+A despesa do Fundo constituir-se-á de:
+
+
+I –
+
+do financiamento total, ou parcial dos programas de proteção especial constantes do Plano de Aplicação;
+
+
+II –
+
+do atendimento de despesas diversas, de caráter urgente e inadiável.
+
+
+Parágrafo único
+
+Fica vedada a aplicação de Recursos do Fundo para pagamento de atividades do Conselho Municipal.
+
+
+Art. 12.
+
+A execução orçamentária da receita processar-se-á através da obtenção do seu produto nas fontes determinadas nesta Lei e será depositada e movimentada através de rede bancária oficial.
+
+
+#### CAPÍTULO V — Disposições Finais
+
+
+Art. 13.
+
+O Fundo terá vigência indeterminada.
+
+
+Art. 14.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**GABINETE DA PREFEITA DE CAÇU,** Estado de Goiás, aos 14 dias do mês de março do ano de 2022.
+
+
+**ANA CLÁUDIA LEMOS OLIVEIRA**
+
+**Prefeita Municipal**
+

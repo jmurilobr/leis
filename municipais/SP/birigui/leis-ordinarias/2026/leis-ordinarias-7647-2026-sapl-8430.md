@@ -1,0 +1,113 @@
+---
+titulo: "Lei Ordinária nº 7.647, de 25 de março de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "7647"
+data: "2026-03-25"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/8430"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/3621/text"
+sha256_fonte: "986afea14d472f6e0387d06de03eeac32efcce7dca018342403ae6e7af18c7da"
+sha256_texto: "a8b18fc6159807d3f2b114b2fcb28deca2890bbeae3a4992ef2740d088b78b7e"
+capturado_em_fonte: "2026-10-27T17:43:54.130839-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 7.647, de 25 de março de 2026
+
+ESTABELECE DIRETRIZES GERAIS PARA O FORNECIMENTO EXCEPCIONAL E COMPLEMENTAR DE MEDICAMENTOS, EM SITUAÇÕES DE INDISPONIBILIDADE NA REDE PÚBLICA MUNICIPAL DE SAÚDE, NO ÂMBITO DO MUNICÍPIO DE BIRIGUI.  
+Projeto de Lei nº 10/2026, de autoria do Vereador José Fermino Grosso e outros.
+
+
+A **CÂMARA MUNICIPAL DE BIRIGUIDECRETA**:
+
+
+Art. 1º.
+
+Ficam estabelecidas diretrizes gerais para o fornecimento excepcional e complementar de medicamentos aos usuários do Sistema Único de Saúde no âmbito do Município de Birigui, exclusivamente nas hipóteses em que reste comprovada a indisponibilidade do medicamento na rede pública municipal de saúde.
+
+
+Parágrafo único
+
+As diretrizes previstas nesta Lei não substituem, limitam ou afastam a obrigação permanente do Município de assegurar o abastecimento regular, contínuo e adequado da rede pública municipal de medicamentos.
+
+
+Art. 2º.
+
+O fornecimento excepcional e complementar de medicamentos, nas hipóteses previstas nesta Lei, deverá observar, cumulativamente, as seguintes diretrizes:
+
+
+I –
+
+existência de comprovação formal da indisponibilidade do medicamento na rede pública municipal de saúde;
+
+
+II –
+
+apresentação de prescrição médica válida, emitida por profissional legalmente habilitado;
+
+
+III –
+
+correspondência do medicamento às Relações Municipal, Estadual ou Nacional de Medicamentos Essenciais;
+
+
+IV –
+
+comprovação de residência do usuário no Município de Birigui e de seu cadastro ativo no Sistema Único de Saúde.
+
+
+Art. 3º.
+
+A verificação da indisponibilidade do medicamento constitui pressuposto indispensável à aplicação das diretrizes desta Lei, devendo ser realizada mediante procedimento administrativo regular, observado o princípio da legalidade.
+
+
+Art. 4º.
+
+A eventual participação de estabelecimentos privados no fornecimento excepcional de medicamentos deverá observar procedimento público, impessoal e isonômico, respeitados os princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência.
+
+
+Parágrafo único
+
+O atendimento às diretrizes previstas neste artigo não gera direito subjetivo à contratação, nem confere exclusividade a quaisquer estabelecimentos.
+
+
+Art. 5º.
+
+O ressarcimento decorrente do fornecimento excepcional de medicamentos, quando houver, deverá observar critérios de economicidade e compatibilidade com os valores praticados nas aquisições públicas, vedado o pagamento de valores superiores aos adotados pela Administração Pública Municipal.
+
+
+Art. 6º.
+
+O fornecimento excepcional e complementar de medicamentos possui caráter transitório e não configura terceirização da política pública de saúde, preservada a responsabilidade integral do Município pela gestão e execução das ações e serviços de saúde.
+
+
+Art. 7º.
+
+*Suprimido.*
+
+
+Art. 8º.
+
+As despesas eventualmente decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Câmara Municipal de Birigui, vinte e cinco de março de dois mil e vinte e seis.
+
+**REGINALDO FERNANDO PEREIRA PRESIDENTE**
+
+Publicada na Secretaria da Câmara Municipal, na data supra, por afixação no local de costume.
+
+**MARINEUVA ALVES DE SOUZA DIRETORA-GERAL DA CÂMARA**
+

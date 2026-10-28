@@ -83,7 +83,7 @@ PLANO = [
     Item("Infralegal — tributário", "Receita Federal: instruções normativas, portarias, atos declaratórios, soluções de consulta e pareceres normativos",
          "reguladores/rfb", 115238, 2, "RFB — Sijut (23 espécies normativas) e Diário Oficial da União"),
     Item("Infralegal — tributário", "CONFAZ: convênios, protocolos e ajustes SINIEF",
-         "reguladores/confaz", 12000, 2, "Diário Oficial da União (in.gov.br)"),
+         "reguladores/confaz", 12000, 2, "Diário Oficial da União (in.gov.br) e portal oficial CONFAZ"),
     Item("Infralegal — tributário", "Tesouro Nacional: portarias e instruções",
          "reguladores/stn", 2000, 2, "Diário Oficial da União (in.gov.br)"),
     Item("Infralegal — tributário", "Procuradoria-Geral da Fazenda Nacional",

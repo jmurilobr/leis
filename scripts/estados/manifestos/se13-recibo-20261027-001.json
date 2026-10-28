@@ -1,0 +1,14 @@
+{
+  "preparado_em": "2026-10-27T18:16:37.884861-03:00",
+  "manifesto": "scripts/estados/manifestos/se13-proposta-privada-20261027-001.json",
+  "sha256_manifesto": "9a7d0ea81aadc83e6ea0ad77986d89879adf59ee234a7ea442ac6eef75d7b63e",
+  "replay": "estaduais/SE/_fonte/auditorias/se13-privado-20261027-001/replay-congelado.jsonl",
+  "sha256_replay": "231ee425187ad2825b356129e205ba1a28ab130d9ca88cd19cb78df8ea486364",
+  "total": 13,
+  "falhas": 0,
+  "testes": 13,
+  "novas_normas_promovidas": 0,
+  "comando": "PYTHONPATH=\"$PWD/scripts/bin/qa-20261027/python\" /Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/estados/snapshots/se_html_recente_20261027_001/reexecutar_spl_html_recente.py --manifesto scripts/estados/manifestos/se13-proposta-privada-20261027-001.json --saida SAIDA_NOVA.jsonl",
+  "dedup": "IDs, destinos e tipo/número/ano confrontados com caminhos HEAD e metadados dos MD SE existentes no disco. ROOT deve repetir por blobs independentes antes da promoção.",
+  "limite": "Nenhum PDF DOE foi atribuído como fonte destes treze. A fidelidade demonstrada é ao HTML digital oficial da ALESE; revogada null, situação do índice literal separada."
+}

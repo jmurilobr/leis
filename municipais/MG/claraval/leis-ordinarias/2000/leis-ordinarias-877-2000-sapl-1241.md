@@ -1,0 +1,88 @@
+---
+titulo: "LEI ORDINÁRIA-CMC nº 877, de 15 de agosto de 2000"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "877"
+data: "2000-08-15"
+municipio: "Claraval"
+uf: "MG"
+codigo_ibge: "3116407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.claraval.mg.leg.br/norma/1241"
+fonte_texto: "https://sapl.claraval.mg.leg.br/ta/571/text"
+sha256_fonte: "9730f7226802cd51e017b6802d53d5b83b247a4675c75f1cd70b9ce3b0835888"
+sha256_texto: "c6096917a6fc0514db7c8c5255933a8c2e32cbda45c53bf31e034ff96f123849"
+capturado_em_fonte: "2026-10-27T23:05:51.173689-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA-CMC nº 877, de 15 de agosto de 2000
+
+“Abre Crédito Adicional SUPLEMENTAR dá outras providências.”
+
+
+LUIZ GONZAGA CINTRA, Prefeito Municipal de Claraval, Estado, de Minas Gerais, em pleno exercício do seu cargo e usando das atribuições lhe são conferidas por lei FAZ SABER que a Câmara Municipal local APROVOU e ele em seu nome, SANCIONA e PROMULGA a seguinte Lei:
+
+
+Art. 1º.
+
+Fica aberto no Serviço de Contabilidade um Crédito Adicional Suplementar no valor de R$5.000,00 (CINCO MIL REAIS......), destinado a acobertar despesas com a seguinte dotação do orçamento em vigor:
+
+
+04.00 - EDUCAÇÃO, CULTURA, ESPORTE E LAZER
+
+04.09 - ESPORTE E LAZER
+
+08.46.228 - Aquisição de Imóvel p/Centro de Lazer
+
+421000 - Aquisição de Imóveis..............................................................................................5.000,00
+
+TOTAL.............................................................................................................................5.000,00
+
+
+Art. 2º.
+
+Os recursos correspondentes à abertura do crédito objeto deste Diploma Legal, serão utilizados mediante às anulações, parciais ou integrais, das seguintes rubricas orçamentárias:
+
+
+01.00 - CAMARA MUNICIPAL
+
+01.01 - CORPO LEGISLATIVO
+
+01.01.001 - Material de Consumo
+
+312000 - Material de Consumo.......................................................................................2.500,00
+
+411000 - Obras e Instalações.........................................................................................1.000,00
+
+02.00 - GABINETE DO PREFEITO
+
+02.02 - PROJETOS ESPECIAIS E ASSISTENCIA AGROPECUARIA
+
+04.18.111 - Reforma e Ampliação de Rede Elétrica Rural
+
+411000 - Obras e Instalações.........................................................................................1.000,00
+
+04.00 - EDUCAÇÃO, CULTURA, ESPORTE E LAZER
+
+04.04 - FUNDEF NORMAL
+
+08.42.188 - Material de Consumo/Transporte Escolar
+
+312000 - Material de Consumo..........................................................................................500,00
+
+
+Art. 3º.
+
+Revogam-se as disposições em contrário, entrando a presente Lei em vigor na data de sua publicação.
+
+
+Claraval, 15 de agosto de 2000.
+
+LUIZ GONZAGA CINTRA
+
+Prefeito Municipal
+

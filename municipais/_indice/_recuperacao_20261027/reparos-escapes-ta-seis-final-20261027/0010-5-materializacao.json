@@ -1,0 +1,73 @@
+{
+  "host": "sapl.buritis.mg.leg.br",
+  "norma_id": 1790,
+  "ta_id": 2168,
+  "aprovado": true,
+  "path": "municipais/MG/buritis/resolucoes/2015/resolucoes-298-2015-sapl-1790.md",
+  "sha256": "658117bb5d1843839002cea3b027912059cdcd9bb01dd3b19bc24d0343096fbb",
+  "bytes": 1879,
+  "gates": {
+    "tabelas_nativas_prova": null,
+    "tipo_oficial": "Resolução",
+    "identidade_literal": {
+      "epigrafes": [
+        {
+          "tipo": "RESOLUCAO",
+          "numero": "298",
+          "numero_normalizado": "298",
+          "trecho": "RESOLUCAO Nº 298, DE 10 DE NOVEMBRO DE 2015",
+          "data_literal": "2015-11-10"
+        }
+      ],
+      "numero_metadado": "298",
+      "numero_literal_confirmado": true,
+      "data_literal_confirmada": true,
+      "divergencias": [],
+      "limite": "Tipo completo aceito somente quando literal e igual ao cadastro oficial; todos os números e datas encontrados devem concordar. Divergências do parser anterior são preservadas. Jurisdição, fonte, anexos, contexto e vigência continuam sujeitos aos demais gates."
+    },
+    "categoria": "resolucoes",
+    "tipo_canonico": "Resolução",
+    "titulo_literal": "Resolução nº 298, de 10 de novembro de 2015",
+    "tokens_ativos": 115,
+    "dispositivos_ativos": 9,
+    "historicos_excluidos": 0,
+    "cortes_de_vigencia_declarados": [],
+    "anexos_proprios": 0,
+    "limite": "Corte declarado é atribuído ao portal. Ausência de corte não certifica atualização nem vigência integral."
+  },
+  "prova_ta": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/5ee3d91fccd09af41714b3dfe4cdf06470b49c61d66a2ee9cf67f65d2d3612a0.json",
+    "sha256": "ee7ba77af2f5ce2e086b7de77f96ef1259a90e0573681c1c384456cc67d30ed4",
+    "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/5ee3d91fccd09af41714b3dfe4cdf06470b49c61d66a2ee9cf67f65d2d3612a0.meta.json",
+    "sha256_metadata": "2551d1d2e9546b5ac49cfa79ee18d4bd43dc019b63ab4ad3abd833662794a992",
+    "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=6"
+  },
+  "prova_casa": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/0d5ed88fa5f4964f90af9947d83dfdcb25abd608a077880db9b35586ad22cda1.json",
+    "sha256": "89991057fd0be5431b21e816bb13f30e0b4b66e06e5b810e7d1b580cae7675eb",
+    "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/0d5ed88fa5f4964f90af9947d83dfdcb25abd608a077880db9b35586ad22cda1.meta.json",
+    "sha256_metadata": "958ec4822c6d8b941bc349bb04c47fa724e583d45b3f5236a856a7a275db3e18",
+    "url": "https://sapl.buritis.mg.leg.br/api/base/casalegislativa/"
+  },
+  "prova_norma": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/a34edad6e61f9b30d1206e78728784287d3a2a80bc7e99fdc9a0b15f7ef71789.json",
+    "url": "https://sapl.buritis.mg.leg.br/api/norma/normajuridica/1790/",
+    "url_final": "https://sapl.buritis.mg.leg.br/api/norma/normajuridica/1790/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f7dbcf5714406db9ec857f441355e1c7af18787718bc50065713b36d9e015b7c",
+    "bytes": 1034,
+    "capturado_em": "2026-10-27T19:57:05.903349-03:00"
+  },
+  "prova_frontend": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/278a76faca281882ba0eb83d13dab7bcf49d0386f8b92714ce68cc3fd13cbc44.html",
+    "url": "https://sapl.buritis.mg.leg.br/norma/1790",
+    "url_final": "https://sapl.buritis.mg.leg.br/ta/2168/text",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "50d3127516bda030cfa29899824bea6fc7e2901ab6feadd7066ce53df646842a",
+    "bytes": 19415,
+    "capturado_em": "2026-10-27T19:57:07.213919-03:00"
+  },
+  "transcricao": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/1790-2168.txt"
+}

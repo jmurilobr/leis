@@ -1,0 +1,193 @@
+{
+  "candidatos_dou": 76026,
+  "privados_nao_processados_todas_fontes": 101662,
+  "caminhos_auditorias_anteriores": 164160,
+  "controles": [
+    {
+      "path": "scripts/dados/dou-cache-20261020-001.json",
+      "sha256": "4c9b03ce8ad6368ce9fe2d6bc90b8a5b353e8d85988eac40eeff80409f3cb772",
+      "registros": 3286
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261020-002.json",
+      "sha256": "70bc1657db524a2747a49cc8dbf01bd2ee037879897fc74ee9e3a90127ca681d",
+      "registros": 26084
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261020-003.json",
+      "sha256": "1a48c42cd3d223681a71aa165b93f8a47338e9f4e2b9904e5760b8001450461a",
+      "registros": 4083
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261020-004.json",
+      "sha256": "a33276fff2b741a8cc37f396957d4aabfd81851583344c02c4dba7761eab22dd",
+      "registros": 4559
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261020-005.json",
+      "sha256": "eb39ecc131c87bed905d86e9a22958718ecfe9b1e70e30cdac7aa6450655a210",
+      "registros": 5981
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261020-006.json",
+      "sha256": "b02d70b74e08f0d4d295dd668b0699dc8b24d3a546a7a4cf0978c7c5e812b54b",
+      "registros": 5966
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261020-007.json",
+      "sha256": "93a05ece0fed57a98b6041227a7e3d119b63a5c3558d77d207d181401fb1f4e4",
+      "registros": 5712
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261020-008.json",
+      "sha256": "97635fc52750bf0b5e7ac3d73dc478ca5a5b85ffd19c32e7d1b54d2dffdd48bb",
+      "registros": 5989
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261020-009.json",
+      "sha256": "a241094fe9a379bb8511fe241fd53b06f7f82ae908fa6f2ad757cd3809a318ed",
+      "registros": 7920
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261020-010.json",
+      "sha256": "69ee59d9abef4324e378894ca53c84778c8f57f277d412083bfcbe3798e7a354",
+      "registros": 6237
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261020-011.json",
+      "sha256": "2d10bf6d49e2aba7fdac7c2e69327d6a83a4641619be5ca1aeff27a06e1acfca",
+      "registros": 5139
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261020-012.json",
+      "sha256": "5f472b189694e9f9de2347fa3f5716838c95d15ff1dbae737e0c265a907311f1",
+      "registros": 5245
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261021-013-v2.json",
+      "sha256": "7f0b88c680e8eb6d1f3479d882e0c7e6c576fdbfb10e536d69f21e206b9c72eb",
+      "registros": 5442
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261021-013.json",
+      "sha256": "db71e4caecfbaa940cfab60aaf98fdc0d6fe48871223a08d475a222e12986c50",
+      "registros": 5442
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261021-014.json",
+      "sha256": "8f083ada25028fc9ffc8cba2afc137001e215e12ea0c0d3839c4974a022511ea",
+      "registros": 6060
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261021-015.json",
+      "sha256": "53e36090d1f84b198ae57edc1fe2511cc52c93b2be205c13ea6c41303e8c269b",
+      "registros": 5237
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261021-016.json",
+      "sha256": "0c5b8087f45442dba4916d430904f99181da8dafb7a8b3496f933e3c6639fed6",
+      "registros": 5334
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261021-017.json",
+      "sha256": "bc0202f7a2da0d494fbb6cf52fe7986d1140622bcdb1e805b8156ad7b022645c",
+      "registros": 5187
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261021-018.json",
+      "sha256": "8d2078173aedcd74f85678fe6e03045c4917e3b1691c6da1cf031703f6a966f2",
+      "registros": 4739
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261021-019.json",
+      "sha256": "2756a713d01c1a17ad6938940491a7675bf16f5d22af141ca7d34da56ff65aa0",
+      "registros": 5095
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261021-020.json",
+      "sha256": "eadd238ae3ecdadcfcfe28e27a41309ed1f0300a8330dbfd8f0dc75ce97afea9",
+      "registros": 5160
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261021-021.json",
+      "sha256": "ea4dd52a6fbd1693bab6122c628b8b4a66e6037da0372fdb7c09a394304b6b3a",
+      "registros": 5034
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261021-022.json",
+      "sha256": "df34db6df343f188b3e96d5baf5b1eb663f9d0713d8157fd3c763e80be95cbdf",
+      "registros": 5255
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261021-023.json",
+      "sha256": "6368f9fc85a0d8daba965088bf77aa4e6a3d8fc828787b772b734e017ea0c29b",
+      "registros": 5180
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261021-024.json",
+      "sha256": "6c9effd44559602944d7c0950da3b23b8f0668f1fa0de681556250cc48c9c797",
+      "registros": 5345
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261021-025.json",
+      "sha256": "ae449f4e06fce69212ad970a758945a8d37c1addc4103445b39db0436f068ee9",
+      "registros": 5162
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261021-026.json",
+      "sha256": "d382dab0d8eca9b3fa81c9b6d01235fcd326570db6ec04ce6a2c9511ae7bf6f3",
+      "registros": 5196
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261021-027.json",
+      "sha256": "e4724bed3c7710fe1efa1559ba2d61a22a9bdef3bed501bab70c22baec08f3a9",
+      "registros": 5350
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261027-028.json",
+      "sha256": "ef37e80715c1d2f3fff1ddd6d4ff5d7915a6347f2ea2c8bf093fc52108255ea2",
+      "registros": 6000
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261027-029.json",
+      "sha256": "790d3b0c537b897aff95cb3296941431db7a3ce4ebb6007411277012a4cc0b6b",
+      "registros": 6000
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261027-030.json",
+      "sha256": "3b4e2f8a47a9453cf643f0cdc7b2c72d021cba4ba74cdb45b28eb29e61545247",
+      "registros": 2096
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261027-031.json",
+      "sha256": "b5219f41b2c0f5e10f61505e20f1a68155f79abfe23d0f3da25bd504988e0624",
+      "registros": 2096
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261027-032.json",
+      "sha256": "7b49a674f19df15174dfe35d71672228770db68dc4200687ba86cf9e598e03c4",
+      "registros": 521
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261027-033.json",
+      "sha256": "61e3f6fe349e82e06dc1bc545e67e46b0c09bb1a516a243bcd188e5ac08e331c",
+      "registros": 2367
+    },
+    {
+      "path": "scripts/dados/dou-cache-20261027-034.json",
+      "sha256": "a7f26b80d03cd6ec9109a151ecd1699927ec6be1cf9242b24b673dd27c2b2dd6",
+      "registros": 3338
+    },
+    {
+      "path": "scripts/dados/dou-cache-metadata-20261021-002.json",
+      "sha256": "8dcf8b37142e309a7c028de547b447b925a3fdad16af5eb3d8fa9bde53533630",
+      "registros": 897
+    },
+    {
+      "path": "scripts/dados/dou-cache-metadata-20261021-003.json",
+      "sha256": "f3dab5643a29c95297afeb810e9945e8880699121dbe4c2328c4a7a86f482768",
+      "registros": 1257
+    }
+  ],
+  "criterio": "Enumeracao de documentos privados ainda nao auditados; exclui HEAD real v9 e todos os caminhos das auditorias anteriores. Registros retidos anteriores continuam preservados para recuperacao separada. Filtro de cabecalho apenas para roteamento; fontes/cabecalhos completos exigidos na auditoria."
+}

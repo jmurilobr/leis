@@ -1,0 +1,34 @@
+{
+  "resultado": "Falha de transporte antes de resposta HTTP; não houve novo HTML.",
+  "inicio_tentativa_UTC": "2026-10-28T15:16:54.074442+00:00",
+  "fim_tentativa_UTC": "2026-10-28T15:17:03.233016+00:00",
+  "inicio_tentativa_America_Recife": "2026-10-28T12:16:54.074442-03:00",
+  "fim_tentativa_America_Recife": "2026-10-28T12:17:03.233016-03:00",
+  "HTTP_recebido": false,
+  "novo_HTML_recebido": false,
+  "curl_exit": 56,
+  "erro_literal": "curl: (56) Recv failure: Connection reset by peer\n",
+  "consultas_solicitadas": 1,
+  "retries": 0,
+  "redirecionamentos_seguidos": 0,
+  "cookies_enviados": false,
+  "corpo_atual_comparavel": false,
+  "historico20": {
+    "arquivo": "fonte/constituicao-compilado.htm",
+    "sha256": "74144e44562b0f5985fb518cbb98b802536d459ed7838a8c381d544b0ea2af86",
+    "bytes": 1507134
+  },
+  "historico27": {
+    "arquivo": "_fonte/operacao_root_20261027/constituicao-compilado-20261027.htm",
+    "sha256": "79c0e37327bd73faa58a690514cb8878ff3206c08e4fcf27f622e9d631151d99",
+    "bytes": 1507134
+  },
+  "raw27_reconstruido": false,
+  "raw27_local_verificado": true,
+  "corpos20_27_iguais": true,
+  "canonico_reproduz_snapshot20": true,
+  "atualizacao_canonica_proposta": false,
+  "alteracoes_canonicas": 0,
+  "vigencia_hoje": "Não verificada; não inferida de capturas históricas ou falha HTTP.",
+  "nota": "O campo dia_captura do recibo bruto identifica o dia do relógio da tentativa; não representa captura de um HTML que não foi recebido."
+}

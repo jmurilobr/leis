@@ -1,0 +1,37 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 4: admite somente tabelas nativas com prova independente de células, ordem e mesclagens. Mantém todos os demais gates. Também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 745,
+  "aprovados_nestes_gates": 505,
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0012/sapl.buritis.mg.leg.br.prefixo.jsonl",
+      "sha256": "667c581f8ba2fb16783deea8240132a424c1eed3cd1269f7ba2ec4b7cf76c1fe",
+      "bytes": 1231492
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0012/sapl.buritis.mg.leg.br.tipos.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "fe89ffb15dfdf83609e4f3e72ba640f66f2a932fc5497d33140841dc5588c00b"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0012/sapl.buritis.mg.leg.br.anexos.json",
+      "sha256": "d275423195b89a84ca33d2d7a094311ae554438b84f7d87342a8bd73f800aa4e"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0012/sapl.cabeceiragrande.mg.leg.br.prefixo.jsonl",
+      "sha256": "5ae0d6e4f2e6e331fd8cdcd6699e577be02bb09e6e1c0fca1bc57eb7eb0a039a",
+      "bytes": 1213018
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0012/sapl.cabeceiragrande.mg.leg.br.tipos.json",
+      "url": "https://sapl.cabeceiragrande.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "5da99687dc8f4d31d9b2ba38f739028b830872fc5173955cfb3da29c56dfa0ba"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0012/sapl.cabeceiragrande.mg.leg.br.anexos.json",
+      "sha256": "1d725df888677d510e8d317f79d8095076e607bb1110903cf0d44b542b57431e"
+    }
+  ],
+  "script_sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

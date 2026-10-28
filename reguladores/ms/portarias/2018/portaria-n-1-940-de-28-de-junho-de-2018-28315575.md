@@ -1,0 +1,70 @@
+---
+titulo: "PORTARIA Nº 1.940, DE 28 DE JUNHO DE 2018"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "1940"
+data: 2018-06-28
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 03/07/2018, seção 1, p. 53"
+data_publicacao: 2018-07-03
+edicao: "126"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-1-940-de-28-de-junho-de-2018-28315575"
+sha256_html_fonte: 43e60f73120427f1b4e9bbefe1308fca53542050bb8d8ca0535eb07ef2c6025e
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 1.940, DE 28 DE JUNHO DE 2018
+
+PORTARIA Nº 1.940, DE 28 DE JUNHO DE 2018
+
+Inclui Procedimento Oximetria de pulso como ferramenta de triagem neonatal para o diagnóstico precoce de cardiopatia congênita crítica na Tabela de Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais (OPM) do Sistema Único de Saúde e estabelece recurso do Bloco de Custeio das Ações e Serviços Públicos de Saúde a ser incorporado ao Grupo de Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar - MAC dos Estados.
+
+O MINISTRO DE ESTADO DA SAÚDE, no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, e
+
+Considerando o artigo 227 da Constituição Federal de 1988, que define como dever da família, da sociedade e do Estado assegurar à criança e ao adolescente, com absoluta prioridade, a efetivação de seus direitos, reafirmado no Estatuto da Criança e do Adolescente (ECA), Lei nº 8.069 de 13 de julho de 1990, que dispõe sobre a proteção integral;
+
+Considerando a Lei 8.069 de 13 de julho de 1990, que dispõe sobre o Estatuto da Criança e do Adolescente que tem como objetivo a proteção integral da criança e do adolescente. É o marco legal e regulatório dos direitos humanos das crianças e dos adolescentes;
+
+Considerando a Lei nº 13.257 de 8 de março de 2016 que dispõe sobre as políticas públicas para a primeira infância e altera a Lei nº 8.069 de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), o Decreto-Lei nº 3.689 de 3 de outubro de 1941 (Código de Processo Penal), a Consolidação das Leis do Trabalho (CLT), aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, a Lei nº 11.770, de 9 de setembro de 2008, e a Lei nº 12.662, de 5 de junho de 2012;
+
+Considerando a Portaria nº 1.459/GM/MS, de 24 de junho de 2011, que institui no âmbito do Sistema Único de Saúde, consiste numa rede de cuidados que visa assegurar à mulher o direito ao planejamento reprodutivo e à atenção humanizada, à gravidez, ao parto e ao puerpério, bem como à criança o direito ao nascimento seguro e ao crescimento e ao desenvolvimento saudáveis, denominada Rede Cegonha;
+
+Considerando a Portaria nº 371/SAS/MS, de 7 de maio de 2014, que institui diretrizes para a organização da atenção integral e humanizada ao recém-nascido (RN) no Sistema Único de Saúde (SUS);
+
+Considerando ainda, a Portaria nº 20/SCTIE/MS, de 10 de junho de 2014, que torna pública a decisão de incorporar a oximetria de pulso - teste do coraçãozinho, a ser realizado de forma universal, fazendo parte da triagem Neonatal no Sistema Único de Saúde - SUS;
+
+Considerando a Portaria de Consolidação nº 2/GM/MS, de 28 de setembro de 2017, que consolida as normas sobre as políticas nacionais de saúde do Sistema Único de Saúde e que institui a política Nacional de Atenção Integral à Saúde da Criança (PNAISC) - art. 1º institui a Política Nacional de Atenção Integral à Saúde da Criança (PNAISC), no âmbito do Sistema Único de Saúde (SUS);
+
+Considerando a Portaria de Consolidação nº 3/GM/MS, de 28 de setembro de 2017, que consolida as normas sobre as redes do Sistema Único de Saúde. Título IV das diretrizes e objetivos para a organização da atenção integral e Humanizada ao Recém-Nascido grave ou potencialmente grave e aos critérios de classificação e habilitação de leitos de unidade Neonatal no âmbito do SUS; e
+
+Considerando a Portaria nº 3.992/GM/MS, de 28 de dezembro de 2017, que altera a Portaria de Consolidação nº 6/GM/MS, de 28 de setembro de 2017, para dispor sobre o financiamento e a transferência dos recursos federais para as ações e os serviços públicos de saúde do Sistema Único de Saúde, resolve:
+
+**Art. 1º** Fica incluído na Tabela de Procedimentos, Medicamentos, Órteses, Próteses e Materiais Especiais do SUS, o seguinte procedimento:
+
+<table><tr></tr><tr><td><p>Procedimento:</p></td><td><p>02.11.02.007-9 - OXIMETRIA DE PULSO (TESTE DO CORAÇÃOZINHO)</p></td></tr><tr><td><p>Descrição:</p></td><td><p>CONSISTE NA AFERIÇÃO DA SATURAÇÃO DE OXIGÊNIO, EM RECÉM-NASCIDO APARENTEMENTE SAUDÁVEL A PARTIR DE 34 SEMANAS DE GESTAÇÃO, NAS PRIMEIRAS 24 A 48 HORAS DE VIDA, POR MEIO DO OXÍMETRO DE PULSO, ANTES DA ALTA DA UINDADE NEONATAL. O OXÍMETRO É COLOCADO EM MEMBRO SUPERIOR DIREITO E EM UM DOS MEMBROS INFERIORES. PARA A ADEQUADA AFERIÇÃO, É NECESSÁRIO QUE O RECÉM-NASCIDO ESTEJA COM AS EXTREMIDADES AQUECIDAS E O MONITOR EVIDENCIE UMA ONDA DE TRAÇADO HOMOGÊNEO. O RESULTADO SERÁ CONSIDERADO ANORMAL CASO QUALQUER MEDIDA DA SPO2 SEJA MENOR QUE 95% OU HOUVER UMA DIFERENÇA IGUAL OU MAIOR QUE 3% ENTRE AS MEDIDAS DO MEMBRO SUPERIOR DIREITO E MEMBRO INFERIOR. CASO HAJA ALTERAÇÃO, UMA NOVA AFERIÇÃO DEVERÁ SER REALIZADA APÓS 1 HORA</p></td></tr><tr><td><p>Complexidade:</p></td><td><p>MC-Média Complexidade</p></td></tr><tr><td><p>Modalidades:</p></td><td><p>Hospitalar e Hospital Dia</p></td></tr><tr><td><p>Instrumento de Registro:</p></td><td><p>AIH (Proced. Secundário)</p></td></tr><tr><td><p>Tipo de Financiamento:</p></td><td><p>06 - Média e Alta Complexidade - MAC</p></td></tr><tr><td><p>Valor Hospitalar SP:</p></td><td><p>R$ 0,00</p></td></tr><tr><td><p>Valor Hospitalar SH: R</p></td><td><p>R$ 0,00</p></td></tr><tr><td><p>Valor Hospitalar Total:</p></td><td><p>R$ 0,00</p></td></tr><tr><td><p>Sexo:</p></td><td><p>Ambos</p></td></tr><tr><td><p>Idade Mínima:</p></td><td><p>0 mês</p></td></tr><tr><td><p>Idade Máxima:</p></td><td><p>1mês</p></td></tr><tr><td><p>Quantidade Máxima:</p></td><td><p>2</p></td></tr><tr><td><p>CBO:</p></td><td><p></p></td></tr><tr><td><p>Categoria CBO</p></td><td><p>2231-F9 - Médico Residente</p><p>2251-24 - Médico Pediatra</p><p>2235-45 - Enfermeiro</p><p>3222-05-Técnico de enfermagem</p></td></tr><tr><td></td><td><p>2252 - Todos os CBO's da Família;</p></td></tr><tr><td></td><td><p>2252 - Todos os médicos cirúrgicos</p></td></tr></table>
+
+**Parágrafo único.** A saturação arterial de oxigênio (SatO2) avaliada por oximetria de pulso (POx) é usada na monitorização de recém-nascido (RN). A sua grande vantagem reside na capacidade de permitir uma monitorização da oxigenação sanguínea de um modo não invasivo, de forma instantânea e sem necessidade de calibração. A Oximetria de Pulso (OP) visa a identificação e diagnóstico presuntivo para cardiopatias congênitas críticas. Todos os recém-nascidos devem ser submetidos à oximetria de pulso entre 24 e 48 horas de vida, antes da alta hospitalar. Uma vez detectada qualquer alteração, uma nova aferição deverá ser realizada após 1 hora. Confirmada a alteração, um ecocardiograma com mapeamento de fluxo em cores deverá ser realizado dentro das 24 horas seguintes A Oximetria de Pulso apresenta sensibilidade de 75% e especificidade de 99%. Sendo assim, algumas cardiopatias críticas podem não ser detectadas através dele, principalmente aquelas do tipo coartação de aorta. A realização deste teste não descarta a necessidade de realização de exame físico minucioso e detalhado em todo recém-nascido, antes da alta hospitalar.
+
+**Art. 2º** Para realização do teste da oximetria de pulso, o profissional de saúde deverá ser capacitado na técnica de aferição de oximetria de pulso.
+
+**Art. 3º** O Departamento de Ações Programáticas Estratégicas (DAPES/SAS/MS), por meio da Coordenação Geral de Atenção à Saúde da Criança e Aleitamento Materno, será responsável pelo monitoramento e a avaliação contínua das ações do teste da oximetria de pulso no âmbito do SUS.
+
+**Art. 4º.** Caberá ao Departamento de Regulação, Avaliação e Controle de Sistemas, por meio da Coordenação-Geral dos Sistemas de Informação (CGSI/DRAC/SAS/MS), adotar as providências necessárias junto ao Departamento de Informática do SUS (DATASUS/SE/MS), para o cumprimento do disposto nesta Portaria.
+
+**Art. 5º** Fica estabelecido recurso do Bloco de Custeio das Ações e Serviços Públicos de Saúde no montante anual de R$ 238.999,31 (duzentos e trinta e oito mil novecentos e noventa e nove reais e trinta e um centavos), a ser incorporado ao Grupo de Atenção de Média e Alta Complexidade Ambulatorial e Hospitalar - MAC dos Estados, conforme anexo.
+
+**Parágrafo único.** A pactuação dos recursos por tipo de gestão se dará por meio das Comissões Intergestores Bipartite - CIB.
+
+**Art. 6º** O Fundo Nacional de Saúde adotará as medidas necessárias para a transferência, regular e automática, do montante estabelecido no art. 5º, aos Fundos Estaduais de Saúde, em parcelas mensais, mediante processo autorizativo encaminhado pela Secretaria de Atenção à Saúde.
+
+**Art. 7º** Os recursos orçamentários, objeto desta Portaria, correrão por conta do orçamento do Ministério da Saúde, devendo onerar o Programa de Trabalho 10.302.2015.8585 - Atenção à Saúde da População para Procedimentos em Média e Alta Complexidade - Plano Orçamentário 0000.
+
+**Parágrafo único.** Os recursos relativos aos estabelecimentos consignados ao programa de trabalho de que trata o caput tem como finalidade o custeio de quaisquer ações e serviços de média e alta complexidade para atenção à saúde da população, desde que garantida a manutenção da unidade.
+
+**Art. 8º** Esta Portaria entra em vigor na data de sua publicação, com efeitos operacionais nos Sistemas de Informação e financeiros a partir da 6ª (sexta) parcela de 2018.
+
+GILBERTO OCCHI
+
+## ANEXO
+
+<table><tr></tr><tr><td><p>Unidade da Federação</p></td><td><p>Nascimento por ocorrência</p></td><td><p>Necessidade do exame (2 a cada 1.000)</p></td><td><p>Consolidado Brasil</p></td><td><p></p></td><td><p></p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p>Necessidade do exame</p></td><td><p>Valor do procedimento na tabela</p></td><td><p>Valor do impacto</p></td></tr><tr><td><p>ACRE</p></td><td><p>17.676</p></td><td><p>35</p></td><td><p>35</p></td><td><p>39,6</p></td><td><p>1.399,94</p></td></tr><tr><td><p>ALAGOAS</p></td><td><p>51.774</p></td><td><p>104</p></td><td><p>104</p></td><td><p>39,6</p></td><td><p>4.100,50</p></td></tr><tr><td><p>AMAPÁ</p></td><td><p>17.100</p></td><td><p>34</p></td><td><p>34</p></td><td><p>39,6</p></td><td><p>1.354,32</p></td></tr><tr><td><p>AMAZONAS</p></td><td><p>79.531</p></td><td><p>159</p></td><td><p>159</p></td><td><p>39,6</p></td><td><p>6.298,86</p></td></tr><tr><td><p>BAHIA</p></td><td><p>204.207</p></td><td><p>408</p></td><td><p>408</p></td><td><p>39,6</p></td><td><p>16.173,19</p></td></tr><tr><td><p>CEARÁ</p></td><td><p>132.721</p></td><td><p>265</p></td><td><p>265</p></td><td><p>39,6</p></td><td><p>10.511,50</p></td></tr><tr><td><p>DISTRITO FEDERAL</p></td><td><p>59.659</p></td><td><p>119</p></td><td><p>119</p></td><td><p>39,6</p></td><td><p>4.724,99</p></td></tr><tr><td><p>ESPÍRITO SANTO</p></td><td><p>56.399</p></td><td><p>113</p></td><td><p>113</p></td><td><p>39,6</p></td><td><p>4.466,80</p></td></tr><tr><td><p>GOIÁS</p></td><td><p>87.673</p></td><td><p>175</p></td><td><p>175</p></td><td><p>39,6</p></td><td><p>6.943,70</p></td></tr><tr><td><p>MARANHÃO</p></td><td><p>115.893</p></td><td><p>232</p></td><td><p>232</p></td><td><p>39,6</p></td><td><p>9.178,73</p></td></tr><tr><td><p>MATO GROSSO</p></td><td><p>56.617</p></td><td><p>113</p></td><td><p>113</p></td><td><p>39,6</p></td><td><p>4.484,07</p></td></tr><tr><td><p>MATO GROSSO DO SUL</p></td><td><p>43.665</p></td><td><p>87</p></td><td><p>87</p></td><td><p>39,6</p></td><td><p>3.458,27</p></td></tr><tr><td><p>MINAS GERAIS</p></td><td><p>267.873</p></td><td><p>536</p></td><td><p>536</p></td><td><p>39,6</p></td><td><p>21.215,54</p></td></tr><tr><td><p>PARÁ</p></td><td><p>141.556</p></td><td><p>283</p></td><td><p>283</p></td><td><p>39,6</p></td><td><p>11.211,24</p></td></tr><tr><td><p>PARAÍBA</p></td><td><p>58.828</p></td><td><p>118</p></td><td><p>118</p></td><td><p>39,6</p></td><td><p>4.659,18</p></td></tr><tr><td><p>PARANÁ</p></td><td><p>160.403</p></td><td><p>321</p></td><td><p>321</p></td><td><p>39,6</p></td><td><p>12.703,92</p></td></tr><tr><td><p>PERNAMBUCO</p></td><td><p>146.209</p></td><td><p>292</p></td><td><p>292</p></td><td><p>39,6</p></td><td><p>11.579,75</p></td></tr><tr><td><p>PIAUÍ</p></td><td><p>51.716</p></td><td><p>103</p></td><td><p>103</p></td><td><p>39,6</p></td><td><p>4.095,91</p></td></tr><tr><td><p>RIO DE JANEIRO</p></td><td><p>237.071</p></td><td><p>474</p></td><td><p>474</p></td><td><p>39,6</p></td><td><p>18.776,02</p></td></tr><tr><td><p>RIO GRANDE DO NORTE</p></td><td><p>49.527</p></td><td><p>99</p></td><td><p>99</p></td><td><p>39,6</p></td><td><p>3.922,54</p></td></tr><tr><td><p>RIO GRANDE DO SUL</p></td><td><p>148.415</p></td><td><p>297</p></td><td><p>297</p></td><td><p>39,6</p></td><td><p>11.754,47</p></td></tr><tr><td><p>RONDÔNIA</p></td><td><p>27.889</p></td><td><p>56</p></td><td><p>56</p></td><td><p>39,6</p></td><td><p>2.208,81</p></td></tr><tr><td><p>RORAÍMA</p></td><td><p>11.409</p></td><td><p>23</p></td><td><p>23</p></td><td><p>39,6</p></td><td><p>903,59</p></td></tr><tr><td><p>SANTA CATARINA</p></td><td><p>97.414</p></td><td><p>195</p></td><td><p>195</p></td><td><p>39,6</p></td><td><p>7.715,19</p></td></tr><tr><td><p>SÃO PAULO</p></td><td><p>635.627</p></td><td><p>1.271</p></td><td><p>1.271</p></td><td><p>39,6</p></td><td><p>50.341,66</p></td></tr><tr><td><p>SERGIPE</p></td><td><p>36.207</p></td><td><p>72</p></td><td><p>72</p></td><td><p>39,6</p></td><td><p>2.867,59</p></td></tr><tr><td><p>TOCANTINS</p></td><td><p>24.609</p></td><td><p>49</p></td><td><p>49</p></td><td><p>39,6</p></td><td><p>1.949,03</p></td></tr><tr><td><p>TOTAL</p></td><td><p>3.017.668</p></td><td><p>6.035</p></td><td><p>6.035</p></td><td><p>1.069,20</p></td><td><p>238.999,31</p></td></tr></table>

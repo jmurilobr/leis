@@ -1,0 +1,65 @@
+---
+titulo: "DECRETO EXECUTIVO-PMEPF nº 830, de 23 de junho de 2026"
+tipo: "Decreto"
+tipo_na_fonte: "DECRETO EXECUTIVO"
+numero: "830"
+data: "2026-06-23"
+municipio: "Engenheiro Paulo de Frontin"
+uf: "RJ"
+codigo_ibge: "3301801"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/2617"
+fonte_texto: "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/2072/text"
+sha256_fonte: "0af0ae99e5e72d01ed6b7c074a1c35f5634ce2506cda04c8eb2a7d8114c8d99c"
+sha256_texto: "612079ec60d847d9147e0e42b0604c5fb4428580e9e8026c85463dbccbe1285b"
+capturado_em_fonte: "2026-10-28T10:28:23.291208-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+observacao_fonte: "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 24/06/2026. Edição 4148 A verificação de autenticidade da matéria pode ser feita informando o código identificador no site: https://www.diariomunicipal.com.br/aemerj/"
+fonte_metadados: "https://sapl.engenheiropaulodefrontin.rj.leg.br/api/norma/normajuridica/2617/"
+sha256_metadados_fonte: "bfd69b391eef763687dc31d0ac21fdf58df6d3e92aad505cb01a49e23ca72f80"
+---
+
+# DECRETO EXECUTIVO-PMEPF nº 830, de 23 de junho de 2026
+
+CONSIDERANDO a participação da Seleção Brasileira de Futebol na Copa do Mundo FIFA 2026; CONSIDERANDO o Decreto Estadual nº 50.321, de 08 de junho de 2026, do Estado do Rio de Janeiro, que dispôs sobre o expediente nas repartições públicas estaduais no dia 24 de junho de 2026, em razão do jogo da Seleção Brasileira de Futebol na Copa do Mundo FIFA 2026; CONSIDERANDO que municípios do Estado do Rio de Janeiro vêm adotando expediente especial na mesma data, como medida de organização administrativa e adequação do funcionamento dos serviços públicos; CONSIDERANDO a necessidade de assegurar a adequada organização dos serviços públicos municipais, sem prejuízo da continuidade das atividades essenciais e ininterruptas; DECRETA:
+
+
+Art. 1º.
+
+Fica estabelecido que, no dia 24 de junho de 2026, quarta-feira, o expediente nas repartições públicas da Administração Pública Municipal Direta e Indireta de Engenheiro Paulo de Frontin será realizado das 09h às 15h, em razão do jogo da Seleção Brasileira de Futebol na Copa do Mundo FIFA 2026.
+
+
+§ 1º
+
+Após as 15h, será considerado ponto facultativo no âmbito da Administração Pública Municipal.
+
+
+§ 2º
+
+O expediente será normal, entretanto, nas repartições cujas atividades não possam ser suspensas, em virtude de exigências técnicas ou por motivo de interesse público.
+
+
+§ 3º
+
+Caberá aos Secretários Municipais e demais autoridades da Administração Pública adotar as providências necessárias para assegurar a manutenção dos serviços essenciais e indispensáveis ao interesse público.
+
+
+Art. 2º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Eng. Paulo de Frontin (RJ), 23 de junho de 2026.
+
+
+PUBLIQUE-SE, REGISTRE-SE E CUMPRA-SE.
+
+
+JOSÉ EMMANOEL RODRIGUES ARTEMENKO
+
+
+Prefeito Municipal
+

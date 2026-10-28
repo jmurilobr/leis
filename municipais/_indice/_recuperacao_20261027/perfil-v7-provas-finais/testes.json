@@ -1,0 +1,21 @@
+{
+  "total": 15,
+  "resultados": [
+    {
+      "script": "scripts/test_perfil_ta_tachados_preservados_20261027.py",
+      "sha256_codigo": "7fa50be548b969085eb3d3e836879c4b854328db8b4b6204a6d91a49453cb073",
+      "exit_code": 0,
+      "testes": 13,
+      "log": "municipais/_indice/_recuperacao_20261027/perfil-v7-provas-finais/test_perfil_ta_tachados_preservados_20261027.py.log"
+    },
+    {
+      "script": "scripts/test_materializador_ta_v7_privado_20261027.py",
+      "sha256_codigo": "88ccef8bb2a2d6cbeec9635dbfb3301dbe62d1aa1941a94102fde367356c33db",
+      "exit_code": 0,
+      "testes": 2,
+      "log": "municipais/_indice/_recuperacao_20261027/perfil-v7-provas-finais/test_materializador_ta_v7_privado_20261027.py.log"
+    }
+  ],
+  "canonicos_reais_alterados": false,
+  "materializacao_integracao": "Somente raiz temporária isolada; captura original e criação exclusiva verificadas"
+}

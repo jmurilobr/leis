@@ -1,0 +1,11 @@
+{
+  "promovidos": 1,
+  "criterio": "Fontes integrais gzip, preimagens e candidatos privados conferidos por SHA antes da primeira escrita. Candidatos aprovados pelo auditor integrado e igualdade GFM integral/numerica. Promocao atomica por preimagem; cruzamento final obrigatorio antes de publicacao.",
+  "sha256": {
+    "scripts/dados/dou031-nativo-candidatos-v2-20261027.json": "4f4531829e8f393770f7917f11fdfe8ce02566f0c8999c1b7534441f53cab467",
+    "reguladores/_fonte/auditorias/dou031-nativo-candidatos-v2-20261027/7101aeee09d5bed9aa27d17cbc1c2b32f1ed9f7b267ae0e196f820ce3b004cad.preimagem.md.gz": "86b4d190ab08cc68d0319761eebed7a5462e8148734e721fbcf423bd81e7b18c",
+    "reguladores/_fonte/auditorias/dou031-nativo-candidatos-v2-20261027/7101aeee09d5bed9aa27d17cbc1c2b32f1ed9f7b267ae0e196f820ce3b004cad.candidato.md.gz": "c76facf897c35e478158c7106356cdc9181862a68e346379b278160b4d051aac",
+    "reguladores/_fonte/presidencia/2019/resolucao-n-97-de-19-de-novembro-de-2019-234040718-9458c1d2b87805dafc05f352115cf8e376a4f7236193c25a378d1cab99ab98dd.html.gz": "64cef1b3b92cbd4c75e92b2e69e6dc516a75ad58e14f3f0a3aa2a21fe58b9bd2",
+    "reguladores/presidencia/resolucoes/2019/resolucao-n-97-de-19-de-novembro-de-2019-234040718.md": "7a983e6e172c79f2a669bd398050966d3cea78b770a6b77ad52e3e3c21b05123"
+  }
+}

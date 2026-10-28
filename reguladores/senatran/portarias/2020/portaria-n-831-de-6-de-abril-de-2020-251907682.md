@@ -1,0 +1,26 @@
+---
+titulo: "PORTARIA  Nº 831, DE  6 DE ABRIL DE 2020"
+orgao: "Ministério da Infraestrutura/Secretaria Nacional de Transportes Terrestres/Departamento Nacional de Trânsito"
+tipo: "Portaria"
+numero: "831"
+data: 2020-04-06
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 09/04/2020, seção 1, p. 33"
+data_publicacao: 2020-04-09
+edicao: "69"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-831-de-6-de-abril-de-2020-251907682"
+sha256_html_fonte: 9a991554ac04e37fceb60811cb6921f4dffbb3b291d73195a35f6442b4bb08e4
+baixado_em: 2026-10-21
+---
+# PORTARIA  Nº 831, DE  6 DE ABRIL DE 2020
+
+PORTARIA Nº 831, DE 6 DE ABRIL DE 2020
+
+O DIRETOR DO DEPARTAMENTO NACIONAL DE TRÂNSITO (DENATRAN), no uso das atribuições legais, e, considerando o disposto na Resolução nº 632, de 30 de novembro de 2016, do Conselho Nacional de Trânsito (CONTRAN), e na Portaria nº 27, de 25 de janeiro de 2017, do Departamento Nacional de Trânsito (DENATRAN), bem como o que consta no Processo Administrativo nº 50000.013985/2020-63, resolve:
+
+**Art. 1º** Esta Portaria concede, por quatro anos, a partir da data de sua publicação, nos termos do § 1º do art. 8º da Resolução CONTRAN nº 632, de 30 de novembro de 2016, renovação da licença de funcionamento à pessoa jurídica CENTRO DE INSPEÇÃO E LAUDO AUTOMOTIVO LTDA - EPP, inscrita no CNPJ nº 21.903.329/0001-32, situada no Município de MACEIÓ - AL, AVENIDA LOURIVAL DE MELO MOTA, nº 13.834, CIDADE UNIVERSITÁRIA, CEP: 57.072-000, para atuar como Instituição Técnica Licenciada (ITL).
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+FREDERICO DE MOURA CARNEIRO

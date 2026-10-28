@@ -1,0 +1,47 @@
+---
+titulo: "Lei Ordinária nº 67, de 12 de maio de 1975"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "67"
+data: "1975-05-12"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/391"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/906/text"
+sha256_fonte: "afa31b7a152f4b71f310843c741dd9d07744a53cffd6de9d916e351b6fb8b166"
+sha256_texto: "7d95f9f34659a137b56bb9258ae3c9b0d70e89e9646ca15b252c707e88c3a600"
+capturado_em_fonte: "2026-10-27T22:04:23.311660-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 67, de 12 de maio de 1975
+
+Dispõe sobre a delimitação da Zona Urbana de Caçu.
+
+
+O Prefeito Municipal de Caçu: Faço saber que a Câmara Municipal de Caçu, Estado de Goiás, aprovou e eu sanciono a seguinte lei:
+
+
+Art. 1º.
+
+A cidade de Caçu, sede do Município a que dá nome, Estado de Goiás, situada à margem esquerda do Córrego Água Fria, afluente da margem direita do Rio Claro, contém a área total de 152,42 (cento e cinqüenta e dois hectares e quarenta e dois ares) e está dentro das seguintes divisas e confrontações:
+
+
+“Começa na margem esquerda do Córrego Água Fria, 96m antes de sua embocadura no Rio Claro, na divisa com a propriedade agrícola de Candor Pereira Guimarães; daí, tomando o rumo de 64º45’SW, vai ter ao canto dos lotes “E” e “B” da quadra 1 do Loteamento Municipal, na distância de 124m; daí, tomando o rumo de 21º15’NW vai ter ao canto inferior direito da propriedade urbana de Vital Abadio dos Santos, na distância de 35m; daí, tomando o rumo de 67º45’SW, vai ter à Rua Joaquim Pereira de Castro, na distância de 45m, daí, pela referida Rua, à direita, com o rumo de 27°45’SW, vai ter à direita da propriedade agrícola de Rufino Pereira de Assis, na distância de 102m; dividindo, até ai, com a propriedade agrícola de Candor Pereira Guimarães; daí, tomando o rumo de 59°30’SW, vai ter à esquina da Av. Izidoro Goulart com a Rua Ludgero Pereira de Castro, na distância de 100m; daí, tomando o rumo de 27°45’NW, vai ter à propriedade agrícola de Josino Carneiro Guimarães, na distância de 203 metros, dividindo até ai, com a propriedade agrícola de Rufino Pereira de Assis, daí tomando o rumo de 24°30’SW, vai ter ao corredor do Campo de aviação, na distância de 57m, dividindo, até ai, com propriedade agrícola de Josino Carneiro Guimarães; daí tomando o rumo de 31°30’NW, vai ter ao canto de divisas das propriedades agrícolas de Renato Junqueiroz e João Martins Souto, na distância de 286m, dividindo, até ai, com as propriedades agrícolas de Josino Carneiro Guimarães e João Martins Souto; daí, tomando o rumo de 36°30’SW, vai ter ao marco na distância de 706,70m; daí, por cerca de arame, com o rumo de 65°00’SW, vai ter à estrada Municipal CAW-1, ou continuação da Rua 17, na distância de 47,60m; daí, tomando o rumo de 66°00’SW, vai ter ao portão do Cemitério Municipal, na distância de 93m; daí, tomando o rumo de 69°30’SW, vai ter a outro canto do cemitério, na distância de 84m; daí, tomando o rumo de 20°30’SE, vai ter ao fechamento da cerca de arame no cemitério, na distância de 36m; daí, tomando o rumo de 70°30’SW, vai ter ao canto da cerca de arame, na divisa da propriedade agrícola de Renato Junqueiroz; daí, por cerca de arame, com o rumo de 30°00’SE, vai ter à Rua José Reinaldo Vieira, 13m acima da esquina da Rua 27, na distância de 436,50m; daí, pela Rua José Reinaldo Vieira, à direita com o rumo de 62°00’SW, vai ter ao final da mencionada rua, 29m acima da Rua 31, com distância de 102m², dividindo, até ai, com a propriedade agrícola de Antônio Vieira da Cunha, daí, tomando o rumo de 62°00’NE, pela Av. Ildefonso Carneiro, à esquerda, vai ter a estaca situada 19m acima da Rua 31, na distância de 12m, dividindo, até ai, com as propriedades agrícolas de Rodolfo Marcelino Ancelmo e João Alves de Carvalho; daí, pela Rua 10, à esquerda, com o rumo de 62°00’NE, vai ter à Rua 27, na distância de 260m; daí, pela Rua 27 ou estrada municipal CAW-3, à direita, com o rumo de 22°45’SE, vai ter ao Córrego Água Fria, na distância de 396m, dividindo, até ai, com a propriedade agrícola de João Alves de Carvalho; daí, pelo meio d’agua do córrego Água Fria abaixo, vai ter ao ponto inicial destas divisas, na distância de 1.896m, medidos em reta, dividindo, até ai, com as propriedades agrícolas de Anísio Pereira Alves, Joaquim Alves da Costa, Joaquim Soares de Morais, José Batista Guimarães e Manoel Carneiro Guimarães.”
+
+
+Art. 2º.
+
+Esta lei entra em vigor nesta data, ficando revogadas as disposições em contrário, especialmente a lei nº 11/71, de 1º de julho de 1971.
+
+
+Prefeitura Municipal de Caçu, Estado de Goiás, em 12 de maio de 1975.
+
+
+**Noé Nunes Guimarães - Prefeito Municipal -**
+

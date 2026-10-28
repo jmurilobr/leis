@@ -1,0 +1,64 @@
+{
+  "escopo": "Complemento local independente para o corpo oficial completo de 8.886/1942, não subdividido. Exclui somente frontmatter/título editorial e usa as remoções/normalizações já comprovadas no pacote fechado. Nenhuma rede, instalação ou alteração de canônico/guard/máscara.",
+  "path": "federal/decretos/1942/dec-8886-1942-03-02.md",
+  "sha256_md_final": "064fa0022dcd3cc91eff9a8baf65294720d975e3938b17b68f1bae590576eef7",
+  "sha256_html_original": "604c92870d81530495658981a0dd45d26d194f63eaffdaf60674e04beee81136",
+  "bytes_corpo_oficial_UTF8": 818170,
+  "sha256_payload": "9a42f920605499fa9e4bb4345f7c96761c009ad42d917a53b8a9069bdc05bf65",
+  "sha256_render_commonmark": "01b52928948c1abc47f49026fb40a0d433e358d3a873499870eb025546741bea",
+  "motores": {
+    "markdown_it_py": "4.0.0",
+    "preset": "commonmark",
+    "html": true,
+    "linkify": false,
+    "typographer": false,
+    "html5lib": "1.1",
+    "python": "3.12.14 (main, Aug 25 2026, 13:50:33) [Clang 22.1.3 ]"
+  },
+  "checks": {
+    "texto_pontuacao_mesmo_comparador_anterior": true,
+    "assinatura_numerica_anterior": true,
+    "contextos_numericos_anteriores": true,
+    "texto_pontuacao_HTML5": true,
+    "assinatura_numerica_HTML5": true,
+    "contextos_numericos_HTML5": true,
+    "listas_HTML5_type_start_value_contadores": true,
+    "matrizes_HTML5_linha_celula_spans": true
+  },
+  "aprovado": true,
+  "resumo": {
+    "corpos_completos": 1,
+    "tabelas_HTML5": 20,
+    "linhas_HTML5": 27,
+    "celulas_HTML5": 81,
+    "listas_HTML5": 162,
+    "divergencias": 0
+  },
+  "normalizacoes_apresentacao": [],
+  "sha256_visivel_anterior_fonte": "eac089cf603d8c97747cd33dded8d89565817897c094965c17998368e92d3c7b",
+  "sha256_visivel_anterior_commonmark": "eac089cf603d8c97747cd33dded8d89565817897c094965c17998368e92d3c7b",
+  "sha256_visivel_HTML5_fonte": "eac089cf603d8c97747cd33dded8d89565817897c094965c17998368e92d3c7b",
+  "sha256_visivel_HTML5_commonmark": "eac089cf603d8c97747cd33dded8d89565817897c094965c17998368e92d3c7b",
+  "fontes_de_insumo": [
+    {
+      "path": "federal/_fonte/auditorias/retomada_federal_20261027_004/cumulativo022024_v2/nativos12_revisao_ROOT.json",
+      "sha256": "3624a682cd7adf3f96bdb631e13df0a368c2136b6bfdf8e0da6bcd539b80a30e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/retomada_federal_20261027_004/cumulativo022024_v2/resultado.json",
+      "sha256": "d640df0deaec1f5fd953247218d107dfdc4b8debeaabb1f5a63945e182abb616"
+    }
+  ],
+  "sha256_guard_vivo_registrado": "3cd60ac4a398a27cc0f646f891e853f6b120b1a963deb4cc9f0ccfd7d6ca0cd0",
+  "codigos_comparadores": [
+    {
+      "path": "scripts/estados/pe_fidelidade_visivel.py",
+      "sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838"
+    },
+    {
+      "path": "scripts/auditar_pontuacao_federal.py",
+      "sha256": "bec7972a3d8138c61f4eb527738fd32e3bf39da0eed7913ac178771c53a778e9"
+    }
+  ],
+  "limites": "O limite GitHub de 400 KB permanece: isto não é validação GitHub integral. Compara texto/sinais/números/contextos, listas intrínsecas e matrizes do DOM HTML5; não executa JavaScript, CSS ou layout visual. Cada célula mantém texto, posição e spans literais, além de ocupação derivada dos spans."
+}

@@ -1,0 +1,168 @@
+---
+titulo: "Lei nº 326, de 12 de dezembro de 1983"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "326"
+data: "1983-12-12"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/1453"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/276/text"
+sha256_fonte: "35793e977ebcee9649499da8f31bf3b26b5b3b8686a62cc8fd21fef46730dfc6"
+sha256_texto: "153331dd6a772384fcd2a234f77596200b266c57234b21d4b2d1a19ffe46c184"
+capturado_em_fonte: "2026-10-27T20:44:34.853297-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 326, de 12 de dezembro de 1983
+
+ESTABELECE O QUADRO GERAL DE FUNCIONÁRIOS DO MUNICÍPIO DE BURITIS-MG, FIXA-LHES OS VENCIMENTOS E DÁ OUTRAS / PROVIDÊNCIAS.
+
+
+A Câmara Municipal de Buritis decreta, e eu, Prefeito Municipal sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+O Quadro Geral de Funcionários do Município de Buritis - MG, assim como seus níveis de vencimentos à partir de 1º de janeiro de 1984, passam a ser os seguintes:
+
+**1.1 - GABINETE E SECRETARIA DA CÂMARA**  
+01 - Secretária...................50.000,00  
+01 - Amanuense...................50.000,00
+
+Sub-Total...........1.200.000,00
+
+**2.1 - GABINETE E SECRETARIA DA PREFEITURA**  
+01 - Secretário Municipal........150.000,00........1.800.000,00  
+01 - Assistente Administrativo...150.000,00........1.800.000,00  
+02 - Auxiliares de Secretaria.....50.000,00........1.200.000,00  
+01 - Chefe do Departamento Pessoal...150.000,00...1.800.000,00  
+01 - Encarregado da Almoxarifado...50.000,00........600.000,00  
+01 - Encarregado da UMC...........50.000,00........600.000,00  
+02 - Recepcionistas................50.000,00........1.200.000,00  
+01 - Escrivo Municipal.............35.000,00........420.000,00  
+01 - Secretário da J.S.M...........59.000,00...........708.000,00  
+01 - Motorista....................70.000,00..........840.000,00  
+02 - Guardas Noturno...............50.000,00........1.200.000,00  
+04 - Contínuos....................30.000,00........1.440.000,00  
+02 - Cantineiras..................30.000,00...........720.000,00
+
+Sub-Total...........14.220.000,00
+
+**2.2 - SERVIÇO DE FAZENDA**  
+01 - Chefe do Serviço de Fazenda...150.000,00.......1.800.000,00  
+03 - Auxiliares de Tesouraria......50.000,00.......1.800.000,00  
+01 - Chefe de Cadastro.............150.000,00.......1.800.000,00  
+01 - Encarregado de Cadastro.......50.000,00........600.000,00
+
+03- Auxiliares de Cadastro ..............50.000,00 ..............1.800.000,00  
+Ol- Fiscal Geral .............100.000,00 ..............1.200.000,00  
+01- Desenhista. .............150.000,00 ............... .1.800.000,00  
+03- Fiscais de Distrito ..............50.000,001 ..............1.800.000,00  
+O1- Chefe do SIAT .............150.000,00 ..............1.800.000,00  
+03- Auxiliar do SIAT ..............50.000,00. ..............1.800.000,00  
+Sub-Total ..........................16.200.000,00
+
+**2.3 - SERVIÇO DE CONTABILIDADE**  
+01 - Chefe do Serviço Contábil........150.000,00.......1.800.000,00  
+01 - Técnico em Contabilidade.......100.000,00.......1.200.000,00  
+02 - Auxiliares de Contabilidade......50.000,00.......1.200.000,00
+
+Sub-Total...........4.200.000,00
+
+**2.4 - SERVIÇO DE EDUCAÇÃO E CULTURA**  
+01 - Inspetor de Educação.............100.000,00.......1.200.000,00  
+01 - Diretor da Escola Municipal São Domingos...60.000,00.......720.000,00  
+01 - Encarregado do O.M.E..............150.000,00.......1.800.000,00  
+01 - Técnico Administrativo.............60.000,00.......720.000,00  
+04 - Aux. do Dep. de Educação..........50.000,00.......2.400.000,00  
+01 - Enc. do Posto Cultural.............50.000,00.......600.000,00  
+01 - Enc. do Mobrall...................60.000,00.......720.000,00  
+01 - Aux. do Mobrall....................50.000,00.......600.000,00  
+01 - Técnico Enc. Serv. de TV..........50.000,00.......600.000,00  
+80 - Professores Municipais, assim discriminados:  
+60º - Nível de Escolaridade até 2º grau incompleto..............34.200,00........2.052.000,00  
+20º - Nível de Escolaridade 2º grau completo..........57.200,00.........1.144.000,00  
+2.900 horas aulas à 700,00  
+Extensão de série na Vila São Pedro...................169.400,00.......2.032.800,00  
+10 - Cantineiras Esc. Municipais...25.000,00........3.000.000,00
+
+Sub-Total...........17.588.800,00
+
+**2.5 - SAÚDE E ASSISTÊNCIA SOCIAL**  
+03 - Aux. de enfermagem nas Vilas e Distritos....................35.000,00.........1.260.000,00  
+04 - Aux. de enfermagem na Sede.....................50.000,00.........2.400.000,00  
+01 - Motorista.......................................................70.000,00.........840.000,00
+
+01- Parteira................... .60.000,00. .................720.000,00  
+04- Aposentados (Prof. Rurais).....................34.200,00 ..................1.641.600,00  
+03- Pensionistas (Diversos)................. 35.000,00 ..................1.260.000,00  
+Sub-Total ....................................................8.121.600,00
+
+**2.6 - SERVIÇO DE OBRAS PÚBLICAS**  
+01 - Encarregado Geral de Obras........150.000,00.......1.800.000,00  
+10 - Telefonistas..........................50.000,00.......6.000.000,00  
+02 - Contínuos (TELEBRASFILIA)........30.000,00.......720.000,00  
+02 - Mensageiros Vigilantes..............30.000,00.......720.000,00  
+02 - Office-Boy.............................30.000,00.......720.000,00  
+02 - Encarregado de Cemitério.............50.000,00.......1.200.000,00  
+01 - Encarregado do Serv. de Meteorologia..35.000,00.......420.000,00  
+02 - Encarregado da Usina Diesel..........35.000,00.......840.000,00  
+02 - Cantineiros............................40.000,00.......960.000,00
+
+Sub-Total...........13.380.000,00
+
+**2.7 - SERVIÇO MUNICIPAL DE ESTRADAS E RODAGEM**  
+01 - Encarregado dos Serv. de Estradas....150.000,00.......1.800.000,00  
+06 - Operadores de Máquinas..............100.000,00.......7.200.000,00  
+07 - Motoristas...............................70.000,00.......5.880.000,00  
+05 - Barqueiros................................50.000,00.......3.000.000,00
+
+Sub-Total...........17.880.000,00
+
+TOTAL...........92.790.400,00
+
+
+Art. 2º.
+
+Fica o Executivo Municipal autorizado a pagar gratificações aos funcionários que prestarem serviço extras, comprovadas as necessidades de tais serviços, bem como aumentar os vencimentos dos funcionários até 50% (cinquenta por cento), no decorrer do exercício, resguardadas as condições financeiras do Município.
+
+
+Art. 3º.
+
+Fica convencionado o valor de $800,00 (oitocentos cruzados) o abono de família por dependente, sendo observada a legislação que rege a matéria para os funcionários do Município.
+
+
+Art. 4º.
+
+Todos os cargos ainda não criados que constam desta Lei ficam por esta, criados, ficando automaticamente extintos os cargos anteriormente criados, mas que não constam desta Lei.
+
+
+Art. 5º.
+
+Fica o Executivo Municipal autorizado a transferir uma para outra atividade, qualquer Servidor Municipal, sem prejuízo de direitos e vantagens.
+
+
+Art. 6º.
+
+Fica o Executivo Municipal autorizado a conceder subvenções e/ou auxílios eventuais em geral até o limite das respectivas dotações orçamentárias e eventuais créditos adicionais autorizados mediante observância da Lei Municipal reguladora da espécie e lavratura do competente Decreto Executivo de distribuição.
+
+
+Art. 7º.
+
+Revogadas as disposições em contrário, entrará a presente Lei em vigor a partir do dia 01 de janeiro de 1.984.
+
+
+Buritis, 12 de dezembro de 1.983.
+
+**Adair Francisco de Oliveira Prefeito Municipal**
+
+**Drª Dulcemar Alves Moreira Secretária Executiva**
+
+**Aprovada em 2ª (segunda) discussão em 05/12/83 - Projeto Lei nº 023/83.**
+

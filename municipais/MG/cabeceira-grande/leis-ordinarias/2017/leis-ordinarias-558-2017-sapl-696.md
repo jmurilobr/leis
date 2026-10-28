@@ -1,0 +1,241 @@
+---
+titulo: "LEI ORDINÁRIA nº 558, de 20 de setembro de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "558"
+data: "2017-09-20"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/696"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/483/text"
+sha256_fonte: "5600b8dd29c58ee69604867986aef5913e1f4b6c75b65f1332e9e50f4ac07f65"
+sha256_texto: "0ac044ab9a6979274545d73e7f06401c641405b0c318527038d86318c50c9396"
+capturado_em_fonte: "2026-10-27T20:20:07.409593-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 558, de 20 de setembro de 2017
+
+**Institui o Programa denominado “Meu Primeiro Emprego” no âmbito do Município de Cabeceira Grande e dá outras providências.**
+
+
+**O PREFEITO DO MUNICÍPIO DE CABECEIRA GRANDE**, Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 76, inciso III da Lei Orgânica do Município, faz saber que a Câmara Municipal de Cabeceira Grande decreta e ele, em seu nome, sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído, no âmbito do Município de Cabeceira Grande, o Programa denominado “Meu Primeiro Emprego”, fomentando a inserção dos jovens e adultos no mercado de trabalho, capacitando-os e incorporando-os nas mais diversas áreas laborais.
+
+
+Art. 2º.
+
+Os objetivos do Programa são:
+
+
+I –
+
+inserir o jovem no mercado de trabalho;
+
+
+II –
+
+fomentar a geração de Emprego e Renda;
+
+
+III –
+
+promover a escolarização e a capacitação profissional dos jovens; e
+
+
+IV –
+
+incrementar a participação da sociedade no processo de formulação de políticas e ações de geração de trabalho e de renda no Município.
+
+
+Art. 3º.
+
+Caberá ao Poder Executivo Municipal diligenciar, tanto quanto possível, no sentido de criar políticas públicas para incentivar, por meio de benefícios às pessoas jurídicas de direito privado, a aderirem ao programa “Meu Primeiro Emprego”, de modo que as mesmas acrescentem em seu quadro de empregados os iniciantes de atividade no mercado de trabalho, reduzindo-se o índice de desempregados e oportunizando a jovens e adultos que buscam o primeiro emprego, bem como nos seguintes casos:
+
+
+I –
+
+iniciativas de incentivo a projetos de geração de empregos e renda;
+
+
+II –
+
+estimular programas de apoio à gestão e ao desenvolvimento de cooperativas de trabalho, incubadoras tecnológicas e projetos de economia solidária;
+
+
+III –
+
+desenvolvimento de projeto de qualificação e requalificação profissional de jovens;
+
+
+IV –
+
+desenvolver parcerias com órgãos oficiais e empreendedores privados para projetos de incubadoras de micro e pequenas empresas; e
+
+
+V –
+
+implantar, nas áreas de políticas públicas de assistência social, o trabalho solidário, inserindo os jovens profissionais nos programas oficiais e conveniados de apoio a creches, asilos, associações de moradores, adolescentes e jovens, habitação e de pessoas com necessidades especiais.
+
+
+Art. 4º.
+
+As empresas que diretamente forem beneficiadas por qualquer beneficio ou mesmo com isenção fiscal, desde que autorizada em lei específica, para instalarem no Município deverão reservar, no mínimo, 20% (vinte por cento) das vagas de trabalho ao primeiro emprego.
+
+
+§ 1º
+
+Caso a aplicação do percentual de que trata este artigo resulte em número fracionado, este deverá ser elevado até o primeiro número inteiro subsequente.
+
+
+§ 2º
+
+A percentagem de que trata o caput deste artigo deve ser garantida pelo período mínimo de 3 (três) anos, a partir da data do início da concessão do beneficio e/ou incentivo.
+
+
+Art. 5º.
+
+O Programa “Meu Primeiro Emprego” terá como órgão gestor e executor a Secretaria Municipal do Desenvolvimento Social e Cidadania, com a colaboração de grupo técnico formado por representantes das Secretarias Municipais da Educação, Administração e da Juventude, Esportes e Cultura e do Conselho Municipal de Esportes, Juventude e Lazer – Comsejul, para identificar as deficiências de mão de obra e disponibilizará cursos de qualificação intermediando a inserção do iniciante ao mercado de trabalho.
+
+
+Art. 6º.
+
+A coordenação do Programa ficará a cargo do Grupo Técnico de que trata o artigo 5º desta Lei, sob a gestão da Secretaria Municipal do Desenvolvimento Social e Cidadania.
+
+
+§ 1º
+
+O Grupo Técnico elaborará seu regimento interno.
+
+
+§ 2º
+
+As deliberações do Grupo Técnico serão tomadas por maioria simples de votos.
+
+
+Art. 7º.
+
+Caberá à Secretaria Municipal do Desenvolvimento Social e Cidadania:
+
+
+I –
+
+realizar a supervisão, execução, fiscalização e avaliação do Programa;
+
+
+II –
+
+coordenar as ações institucionais necessárias à execução do Programa; e
+
+
+III –
+
+praticar os atos administrativos necessários à implementação do Programa.
+
+
+Art. 8º.
+
+As inscrições de jovens serão efetuadas nos postos de atendimento do Balcão de Emprego Municipal.
+
+
+Parágrafo único
+
+Caberá à Secretaria Municipal do Desenvolvimento Social e Cidadania, com o auxílio e acompanhamento do Grupo Técnico ou de pessoas por ele indicadas, fiscalizar o cumprimento desta Lei.
+
+
+Art. 9º.
+
+Para inscrever-se no Programa o jovem deverá ter idade compreendida entre 16 (dezesseis) e 29 (vinte nove) anos, devendo apresentar no ato da inscrição:
+
+
+I –
+
+cópia de carteira de identidade, CPF, Título de Eleitor, CTPS e comprovante de residência e se maior de 18 (dezoito) anos cópia da Reservista;
+
+
+II –
+
+declaração de que não tenha tido relação formal de emprego; e
+
+
+III –
+
+atestado de matrícula atualizado para comprovação de estar cursando ou concluído os níveis médio ou superior do sistema oficial de ensino.
+
+
+Art. 10.
+
+O Balcão de Emprego Municipal deverá afixar nos seus postos de atendimento e no sítio da Prefeitura e nos murais da sede do Município e da sede do Distrito de Palmital de Minas, mensalmente, a relação dos inscritos no Programa, bem como daqueles já encaminhados e aproveitados pelos empregadores.
+
+
+§ 1º
+
+O encaminhamento dos jovens aos empregadores deverá obedecer à ordem cronológica de inscrição.
+
+
+§ 2º
+
+Terão prioridade para preenchimento dos postos de trabalho os jovens oriundos de programas sociais e que estejam cursando o Ensino Médio ou Superior.
+
+
+§ 3º
+
+É vedada a contratação, no âmbito do Programa, de jovens que sejam parentes, ainda que por afinidade, até o terceiro grau, dos empregadores, sócios ou dirigentes das empresas contratantes.
+
+
+Art. 11.
+
+Para efeito desta Lei, compreende-se por primeiro emprego aquele destinado a todas as pessoas que não tenham qualquer experiência profissional comprovada em carteira de trabalho ou por contrato de prestação de serviços.
+
+
+Art. 12.
+
+O empregador, que aderir ao Programa “Meu Primeiro Emprego”, mas que reduzir o número de postos de trabalho estabelecido no artigo 4º desta Lei ou que descumprir o que determina esta Lei, fica obrigado a restituir ou ressarcir ao Município, em sua totalidade, em até 6 (seis) parcelas mensais e sucessivas, os valores dos benefícios ou incentivos despendidos pela Municipalidade, à vista de lei específica, e que lhe tenha sido agraciado, os quais serão atualizados monetariamente, desde a data da concessão do benefício, ficando, ainda, inabilitado para participar de Programas de incentivos do Governo Municipal.
+
+
+Art. 13.
+
+Se houver rescisão do contrato de trabalho do iniciante devidamente inscrito no Programa, o empregador manterá o posto de trabalho, substituindo, em até 15 (quinze) dias, o jovem dispensado por outro também inscrito, obedecendo à ordem cronológica e prioridade de atendimento.
+
+
+Parágrafo único
+
+Na hipótese, o objetivo do incentivo ter como meta, base, princípio a execução de obra, ou mesmo que venha ocorrer durante a fase de execução de obras, o percentual previsto no caput deste artigo deverá ser assegurado durante toda a sua realização, entendendo-se do completo funcionamento do empreendimento, observando-se o disposto neste artigo.
+
+
+Art. 14.
+
+Aplica-se a obrigatoriedade de implementar o programa instituído no artigo 1º desta Lei os órgãos da Administração Pública Direta e Indireta do Poder Executivo, devendo o programa de estágio priorizar no mínimo 50% (cinquenta por cento) das vagas ao Programa “Meu Primeiro Emprego”.
+
+
+Art. 15.
+
+Esta Lei será regulamentada, se necessário, no prazo de 90 (noventa) dias contados da sua publicação.
+
+
+Art. 16.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Cabeceira Grande, 20 de setembro de 2017; 21º da Instalação do Município.
+
+**ODILON DE OLIVEIRA E SILVA**
+
+**Prefeito**
+
+DAILTON GERALDO RODRIGUES GONÇALVES
+
+Consultor Jurídico, Legislativo, de Governo e Assuntos Administrativos e Institucionais.
+
+**"Este texto não substitui o original."**
+

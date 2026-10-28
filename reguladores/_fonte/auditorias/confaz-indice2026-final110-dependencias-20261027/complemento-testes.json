@@ -1,0 +1,23 @@
+{
+  "recibo_original": "reguladores/_fonte/auditorias/confaz-indice2026-final110-20261027/manifesto.json",
+  "sha256_recibo_original": "c40b105a31d48c44e8ea243ef14bff09a5e9115e51281bbab7353a4a8e34a378",
+  "dependencias_testes": [
+    "reguladores/_fonte/auditorias/confaz-controle-historico35-qa-v3-20261027/35/campo-original.html",
+    "reguladores/_fonte/auditorias/confaz-controle-historico35-qa-v3-20261027/35/controle.json",
+    "reguladores/_fonte/auditorias/confaz-piloto-candidatos-v2-20261027/mapa-candidatos.json",
+    "reguladores/_fonte/auditorias/confaz-piloto-qa-v3-20261027/121/campo-original.html",
+    "reguladores/_fonte/auditorias/confaz-piloto-qa-v3-20261027/121/controle.json",
+    "reguladores/_fonte/auditorias/confaz-piloto-qa-v3-20261027/122/campo-original.html",
+    "reguladores/_fonte/auditorias/confaz-piloto-qa-v3-20261027/122/controle.json",
+    "reguladores/_fonte/auditorias/confaz-piloto-qa-v3-20261027/123/campo-original.html",
+    "reguladores/_fonte/auditorias/confaz-piloto-qa-v3-20261027/123/controle.json",
+    "reguladores/_fonte/auditorias/confaz-piloto-qa-v3-20261027/124/campo-original.html",
+    "reguladores/_fonte/auditorias/confaz-piloto-qa-v3-20261027/124/controle.json",
+    "reguladores/_fonte/auditorias/confaz-piloto-qa-v3-20261027/125/campo-original.html",
+    "reguladores/_fonte/auditorias/confaz-piloto-qa-v3-20261027/125/controle.json",
+    "reguladores/_fonte/auditorias/confaz-piloto-qa-v3-20261027/126/campo-original.html",
+    "reguladores/_fonte/auditorias/confaz-piloto-qa-v3-20261027/126/controle.json",
+    "scripts/confaz_confrontar_head_privado_v2_20261027.py"
+  ],
+  "limite": "Mapa completo suplementar. Recibo anterior e todos os candidatos permanecem inalterados; apenas inclui fixtures e importação dos oito testes do piloto já publicados."
+}

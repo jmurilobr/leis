@@ -1,0 +1,539 @@
+{
+  "resumo": {
+    "publicados_auditados": 96,
+    "privados_originais": 145,
+    "selecionados": 144,
+    "separados_para_leitura": 1,
+    "novas_pendencias_propostas_publicados": 0,
+    "alteracoes_canônicas": 0
+  },
+  "HEAD": "f107ccbc88e1eece16be078b903a8167376e8f4a",
+  "fonte6107": {
+    "path": "federal/decretos/1940/dec-6107-1940-08-15.md",
+    "grupo": "privados113",
+    "estado_corpus": "privado",
+    "HEAD": null,
+    "OID_HEAD_real": null,
+    "sha256_MD_HEAD_real": null,
+    "sha256_MD_candidato_fechado": "2278f45d83ec197747f97d7b385c358c8c0d31757b02aea26eda01fd7cd8476c",
+    "HEAD_igual_candidato": null,
+    "fonte_Original": {
+      "url": "https://www2.camara.leg.br/legin/fed/decret/1940-1949/decreto-6107-15-agosto-1940-325738-publicacaooriginal-1-pe.html",
+      "captura_utc": "2026-10-27T22:59:06.763965+00:00",
+      "origem": "captura oficial nova, cliente limitado",
+      "status_http": 200,
+      "arquivo": "federal/_fonte/auditorias/alimentacao_20261027_007/capturas/7d327c0614ce49c9eefffc141d07cce5bb2d88e3e46e0d34265ee469835b0f09.html.gz",
+      "sha256_raw": "2b986eda15dbfc789828284436c06faf46b6428cc7a08b086e44eec89334a38f",
+      "sha256_decodificado": "2b986eda15dbfc789828284436c06faf46b6428cc7a08b086e44eec89334a38f",
+      "bytes": 40895
+    },
+    "sha256_area_normativa_HTML": "9cdc296e54278ab748b29f9031b064508628a7cfb9d53d4882d536c19894e0f3",
+    "urn": "urn:lex:br:federal:decreto:1940-08-15;6107",
+    "prefixo_antes_primeiro_artigo_reconhecido": "Decreto nº 6.107, de 15 de Agosto de 1940\n\nConcede à Sociedade Anônima Indústrias Reunidas F. Matarazzo autorização para continuar a funcionar.\n\nO Presidente da República, atendendo ao que requereu a Sociedade Anônima Indústrias Reunidas F. Matarazzo, com séde em São Paulo, capital do Estado do mesmo nome, e autorizada a funcionar pelos Decretos ns. 8.812, de 5 de julho de 1911; 11,675, de 18 de agosto de 1915; 12.569, 11 de julho de 1917; 12.835, de 12 de janeiro de 1918; 13.769, de 20 de setembro de 1919, 16.466, de 7 de maio 1924; 17.544, de 10 de novembro de 1926; 18.568, de 22 de janeiro de 1929; 2, de 25 de julho de 1934; 612, de 29 de janeiro de 1936; e 1.994, de 29 de setembro de 1937,\n\nDECRETA:",
+    "primeiro_artigo_reconhecido": "Artigo único. É concedida à Sociedade Anônima Indústrias Reunidas F. Matarazzo autorização para continuar a funcionar, com as alterações introduzidas em seus estatutos pela assembléia geral extraordinária dos respectivosb acionistas realizada a 29 de abril de 1940, obrigando-se a mesma sociedade a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sobre o objeto da referida autorização.",
+    "fecho_qualificado_anterior": {
+      "literal_normalizado": "RIO DE JANEIRO, 15 DE AGOSTO DE 1940",
+      "data": "1940-08-15"
+    },
+    "todos_blocos_com_fecho": [
+      {
+        "bloco_indice": 5,
+        "bloco_literal": "Rio de Janeiro, 15 de agosto de 1940, 119º da Independência e 52º da República.",
+        "literal_normalizado": "RIO DE JANEIRO, 15 DE AGOSTO DE 1940",
+        "inicio_bloco_local": true
+      }
+    ],
+    "cabecalhos_documentais": [],
+    "fecho_antes_primeiro_artigo_e_assinatura_presidencial": false,
+    "separacoes_principal_documento_possiveis": [],
+    "comando_explicito_antes_artigos": true,
+    "revisao_de_limites_necessaria": true,
+    "proposta": "Reter candidato privado ou revisar prova do publicado por SHA; nenhuma máscara aplicada.",
+    "limites": "Inventário mecânico de escopo com contexto literal. Não afirma revisão humana universal, validade material, inexistência ou ausência de norma."
+  },
+  "provas6107_sha256": "dbbb4d2cb5f934a77077cb8bc047a21c95889d3482222493ebde6b00bb3a681f",
+  "publicados96_SHA_reais": [
+    {
+      "path": "federal/decretos/1940/dec-6356-1940-09-30.md",
+      "OID": "939e50290c5396f4f0f4d4f71ae227168d78f659",
+      "sha256": "82858ec0824f2af5b326de1793d69bbdfb8c89535e9294e2b620e8647f343acc"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6346-1940-09-26.md",
+      "OID": "038649e3818754f1cec29762552a979f7fa52bb4",
+      "sha256": "5eb67ff9841107d20ffd142b140164293d71758222c3dcbb02c9fd8211d1e8f4"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6336-1940-09-26.md",
+      "OID": "48b571e8e38acc5eb8f3ab84f78aab3f5cd88072",
+      "sha256": "3ce8d52e53e6cbf05d41ddb77b87e0c88b1153a9f5177f2be3df3c1b4b69d194"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6337-1940-09-26.md",
+      "OID": "c5741a6987e264f219481cd3a038267c541e7f46",
+      "sha256": "7e779daf15778b3332897a92774030de164a0ba8d0ddc87b0980f33b36b30887"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6338-1940-09-26.md",
+      "OID": "d409710d873d05b6b2c217a7e5ec45a75995db1a",
+      "sha256": "3d330b276e87eb1f36aa33b41c9a549f155f1cebc70247c7747f30df0daabf67"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6340-1940-09-26.md",
+      "OID": "f6d84f4c1cb54c9cb84df1157f5e42b86945745d",
+      "sha256": "d87173c6a82fd0842a221dbce332476731100e81cd4f482e965d93f068b914ee"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6341-1940-09-26.md",
+      "OID": "a8954ee170c8f1a0fdbde526325a6835075b85b3",
+      "sha256": "0c6623d55254e4e67edc60fae7ba8290117b13de7bde0f092a5417e739705ff2"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6342-1940-09-26.md",
+      "OID": "434f49333aba06bd6f96cadcbbdccc2b8fd90da7",
+      "sha256": "8a492934b83cdeb0ffdce4a20ba36b46a1caaa16cebf501add32025644328b12"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6335-1940-09-25.md",
+      "OID": "1bdf6a515fce17c05981c64be29c3e58e1ba460c",
+      "sha256": "919c6e2f58b98ec910c738b45e7a7803518e1c4b4bcef8ad7ccca9446edf68c9"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6323-1940-09-23.md",
+      "OID": "3a75c31c18e8db6073635a378028022955284f16",
+      "sha256": "3a1572780003469ef77119293d1978d97cff42208cf61bf9b123a1c1be7a2ac2"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6326-1940-09-23.md",
+      "OID": "4edf7ec81974c822164b5877ed7ba27e1828252c",
+      "sha256": "483069d3d18d429d62e6faa736dcfe8bdec1e42613af286b282ba2441fb234f9"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6297-1940-09-19.md",
+      "OID": "7ff91ac0744f67d826c44fa4b49bc21a6ec9abf8",
+      "sha256": "3c1a2d6cdcaa3ea5c1f054bca3b68748265ba30ceb89fc4478b80cd4674e91c8"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6298-1940-09-19.md",
+      "OID": "41134d1cc96e1a383e542543bb31cf80f664850f",
+      "sha256": "de9aa60ee4eba954e536aa23d3e6e765c6d6a590d9a1b19fafc1e9487f3bdca1"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6299-1940-09-19.md",
+      "OID": "d36a3cf7e97a8aacda281855f2883a1c9e9954bc",
+      "sha256": "2a6765d36d3f073b7d5a68b38dba4899642c29c2f89bcd84fece22d40d46c792"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6300-1940-09-19.md",
+      "OID": "79de6304644fb7c4bbb2d472cfaa513ef1c0c930",
+      "sha256": "d9e9654cda927bb0c6f0a60e141b2eebb2c60f5f93bd299de7ae55bcbac54236"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6301-1940-09-19.md",
+      "OID": "546d367c99676e4d3be52ed5f25dbaa5e37caca0",
+      "sha256": "778a5f1687d05db74ba65c25bc4f1495dcaf3589e375c6dd12211ae5aea4285b"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6302-1940-09-19.md",
+      "OID": "7206c0fa2caccef557d6e221b163ad39fcf37975",
+      "sha256": "8cea9587bce452af91bf158f1ba1e268a26d3ffd0f1b8bbec2c79c9ea7d27921"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6303-1940-09-19.md",
+      "OID": "9e66db190d2251c37c59b91d10682de976d2335b",
+      "sha256": "bd58f2ec5ae552209705f7befc79d269739685091b058dababb06377d9309f54"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6304-1940-09-19.md",
+      "OID": "5df55d44184ca0906c1f62f4049f4a3c91195b52",
+      "sha256": "8e141355c5215cb1a4dbfb889dc7193c390b678e942a02a62110c5be8d186f0c"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6305-1940-09-19.md",
+      "OID": "43e53761f8bb0166f52c60928841d73d49e83501",
+      "sha256": "270349f845f9393dc7efad762ce394a663a42fe169112429bb63bd6f63bd92a6"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6306-1940-09-19.md",
+      "OID": "0f74a7c743c8797d2bd574e68db698f4f921313b",
+      "sha256": "3d1189cb20341fe85d0587fbe5d1eca7066fc867344b653c6f39bb228c09952a"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6307-1940-09-19.md",
+      "OID": "51997eb5ea470ab3d1b64c6ef1e3fe222ee05367",
+      "sha256": "b6d2ddefd713143771759ebfd972dcae813758dbc31c897b318734bf9793ab55"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6294-1940-09-18.md",
+      "OID": "4e6a2a4fedbe881c123ac7939eaed38ec53de845",
+      "sha256": "f50be2bdc99fa3c1c077be1f3e3f87b78270a38e4b98bc63d3e99996e1b3fd7a"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6290-1940-09-17.md",
+      "OID": "20e45e7f038627d1d66ffa3a40a8398f3085ea0c",
+      "sha256": "9f354ff7ef9e888126bcccb674ed5ee2faeab239f96253b06c6691e8961fe708"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6291-1940-09-17.md",
+      "OID": "79f3895121c900aa1283943674e5a97093ac0a4e",
+      "sha256": "bb14c42d5cf31e244d88b7458ae7600f2d3ce947525e04816a19c51bd79f6d58"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6283-1940-09-13.md",
+      "OID": "3ed1c9da8d6921218f740220006a5f7f5fcd5b71",
+      "sha256": "531f0d811d0077d85c2b50063dec9cf53451e2672e7ef80f65f7a32c88474416"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6280-1940-09-12.md",
+      "OID": "59f9db95d2b286f5debd2760bc7539e83bedf512",
+      "sha256": "54cf207beb84b74e728d8fe3233c106e5b54160b1a4eac0eac9c8ddd07825879"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6264-1940-09-11.md",
+      "OID": "e0e9494643d7e49c729b9ecb280328b12f237b63",
+      "sha256": "d5e7d8c76d32e7d50fa11ae33072ff392d4236a110f28f9bd2fe5f41fe318db1"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6265-1940-09-11.md",
+      "OID": "634c03eb2974f56e006687615e5f14c6ffa68028",
+      "sha256": "9541293e1db9fae934e0f9a37eae81393b912bcfec078368ae15eae7754d1e31"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6266-1940-09-11.md",
+      "OID": "d8440f27bad0c75774bce4e6f6f66e75d6a5b8fd",
+      "sha256": "a51b936048fc2e5c8f708eae85537f1f851c315332ea9a206420bd8571e156b2"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6267-1940-09-11.md",
+      "OID": "d40d7c9a49f8394179624a8d0282c333b732cfd6",
+      "sha256": "107bd0d0e9e46d4bbac47e20d1d72e1576f33405bc90be78097ae805684a8cc9"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6268-1940-09-11.md",
+      "OID": "4c0f4cd5f2a87b9ef20209044bbef965a22f0bb2",
+      "sha256": "1c85dc09e063edd0ee6a6e60faef7faa114051b8f7385ddafc49b4414ed2223d"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6269-1940-09-11.md",
+      "OID": "b8af0646d987886b93b5a4b7fbb09a45eaef4eea",
+      "sha256": "3f775a7558c7ca129c78ee0f61a2c482c2fbb13e76e4bab95552b2abdf1cecee"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6288-1940-09-14.md",
+      "OID": "6dddd6bc26d58d117f1c3dfd97e728ee5f3a0f7a",
+      "sha256": "7c95331c57f501909b5d6efe5270a8444f0ac5f40363fcef9a6cfec1c1795c8a"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6282-1940-09-13.md",
+      "OID": "4e4507fe58b35e391373c0a090e81d443f1148e7",
+      "sha256": "b7fbace121f8a2a6168067fb82b505183b60ce3fa3a2022db108c4d60291b6ff"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6270-1940-09-11.md",
+      "OID": "01a581638d4f43960550e9481fd40e17f1c0edeb",
+      "sha256": "477dcd0acaa05d4e4e8a9de7fd5f497c4921c1d12552d8abbf3558d6bed3a868"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6271-1940-09-11.md",
+      "OID": "ef5693b2700c5b0cfdf964fdedc71e33cddad95b",
+      "sha256": "3b8ccb7cfe7a46a99ccec19eb4f7e274b71c567008a002a1202b8924f15b087b"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6262-1940-09-11.md",
+      "OID": "d8bc8606baa81f552008d2449f017ab2569b9efa",
+      "sha256": "056fbf74e7aaedd5ddade7d0b3ec11cb826414f0c4d0a8f5c60ebfe064b2f3b8"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6254-1940-09-10.md",
+      "OID": "3529c12187b4db0775bc1e09eaaed3483aece0f4",
+      "sha256": "045c7f40a5d639a4f14291b0a757a18b76d8caf3759009096441d3b0f3c7bcd6"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6260-1940-09-11.md",
+      "OID": "10bd1e912445a638d1e7aa1385718ffed58d32dc",
+      "sha256": "82fda965c4379cc5da807ee8c3d117d52ee0b222358f89aa1dc9c4a335fe8f81"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6227-1940-09-05.md",
+      "OID": "6e1a33effd4474929e4350c4aaf39a62d275a569",
+      "sha256": "9a63fc967307d7dcd339e591e1bc21461a17b86c604b79d120c3014fdce500a0"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6410-1940-10-30.md",
+      "OID": "e8a9ebf17d0865f5b6d89fd39715016280157f7a",
+      "sha256": "21f88f0d8d0379fd1bf9532ddd584683a1c67d93628b7c96939c78701bfe2395"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6292-1940-09-17.md",
+      "OID": "75925af4023d3db38a73353f6660f3c39b6f003b",
+      "sha256": "f6c6898f091b307a6fde3c6c15a4cfee8252f1febbc0c0781b63d43f005a383a"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6293-1940-09-17.md",
+      "OID": "9a2a064062e1cd55a411a2a79fdb61820dc08a63",
+      "sha256": "b61f2652571f17ee5a9fe248b4130d0a9332e269b492b6574cfd12660228941c"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6285-1940-09-14.md",
+      "OID": "bd2bd58942f635aa7fbfdb572c5d9e3be3437aee",
+      "sha256": "f2597d118b8b2b730ac3df1b8253dd70bd375cd5b3c13ca35cce4a1268de0e8b"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6272-1940-09-12.md",
+      "OID": "dfdda8f0d617c028e3b20e7869ab1ec4e1a0fda0",
+      "sha256": "0c418577a36901c5a5a5d1108c32f4d17b103d61b8d28a1dd048dab354ea78a9"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6273-1940-09-12.md",
+      "OID": "9c84d608b5ae1ad959b3872add8b170de599f5de",
+      "sha256": "00d88b29a5f7f1e3bc988f8fac724bd434953f4e3587b7798d1e53c34237d2d9"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6275-1940-09-12.md",
+      "OID": "4ee0733b8c6cc140fbf38270d0596d8ebced3979",
+      "sha256": "238ac2bc52e327f94cc09be0ef701293ec40b0adddfdb89caa75112da24081f5"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6276-1940-09-12.md",
+      "OID": "daf17380bd1fdb3724565c8a855144b7bf2c1f79",
+      "sha256": "5adae377fcf7ba5d32e2acd10099fd74246a4cbb7d821437ead67019dd8352b4"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6278-1940-09-12.md",
+      "OID": "efb2b6e832eba0dde36b3e90fb7d06a2089f4224",
+      "sha256": "5ef47f5ceb9d8da689b816df8128d6f0e3527b2548aebfc49aa75690a3cb0c82"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6279-1940-09-12.md",
+      "OID": "2789c8d53395a93c78e0aff37c3a7b870ff88629",
+      "sha256": "79385432130945a5f86eb59ca9d1189d52837b857fbaadc33b5098fe2e356a7d"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6277-1940-09-12.md",
+      "OID": "546338e9674a4ae1587583bc8a07c4bcac8943de",
+      "sha256": "f78cd34201dbf416e72293bca84fe5a37dc183efc338ce17b1f531100e0bc3df"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6274-1940-09-12.md",
+      "OID": "a51516bd7a25b7934394ae3592da2b0e3b98bcb6",
+      "sha256": "16999da8b9a8c1b5a2179d3cd0ddb304672bca942ac99104e1fed8ab0d158859"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6253-1940-09-10.md",
+      "OID": "eafc889743b318281150e085664bb90d01ae7bfa",
+      "sha256": "a5b9c0a7b78d52497a927c970402c60c8d7d04d6e73b1d3d0c2e6cc35e2bd0fc"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6252-1940-09-10.md",
+      "OID": "0ba441a11e3e933047ffe7900932f36d92fd5a5f",
+      "sha256": "5986c0904eb29ffba60206892cafb81a2440830a35e60dbd933c95e4224de00c"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6249-1940-09-09.md",
+      "OID": "e1339f61234a5b803dd6954b136d53ccf38bfa9a",
+      "sha256": "e5a45cf8c5481b87c3bb021527f0022c4e496149af3780bd0b960e0190ca74bf"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6251-1940-09-09.md",
+      "OID": "c75b7d1c429e3bf4b450fa5011b52c490cea86d0",
+      "sha256": "93ecece1e7b40a9e0b7b88459b0d16413bbb07d6c47163f24a69f8448cc56b66"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6261-1940-09-11.md",
+      "OID": "b5b85b0d3fa4c5ccfb4f83b70c75b38c3fdf77f4",
+      "sha256": "50f2be69664d42f686e9fe5d284e8590126052ba79795803f5b653d3ee6d4b90"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6231-1940-09-05.md",
+      "OID": "692f774dc37611e85818cdaacb71f7f6d8cbd063",
+      "sha256": "025cb8075367528b4fb0f2cff1f4181e4e8a2076545280c574883b1ce4aa5aaf"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6230-1940-09-05.md",
+      "OID": "3129562594897d46d6985dd6b7795956b2404d11",
+      "sha256": "b384e41d5650ef6284db343b6c6546b9de228dcedb1c936024438c30320427df"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6233-1940-09-05.md",
+      "OID": "fd0d3c7e5a42818256a0f88335442693242a93c4",
+      "sha256": "6fc5340c1a7377c679028ce95543db933361a4e02d831ffd7b99f19b95319a0f"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6235-1940-09-05.md",
+      "OID": "346ba107b9890791dd45f40b135f644948a9cdea",
+      "sha256": "f8bc692e7ac5946d94cc6616f816f98cb7194468397c046ff552c5b1f5701f00"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6236-1940-09-05.md",
+      "OID": "cf0c5af94576ede44291f2fba2d76dde0ce356c0",
+      "sha256": "ee4d4f788820eda344f130953ca39591ad8ee56c661f00fce097f3f182645707"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6237-1940-09-05.md",
+      "OID": "9cd8dbc8f1dd8a5d030419ab2223b317fa750f84",
+      "sha256": "377995a5a84d0933d9c3553102ea2bf5361872076402aaba1db03c28d102c3e8"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6239-1940-09-05.md",
+      "OID": "09166ad89cc370657f83a5eeec9c02ef3dc647a1",
+      "sha256": "bdd4f387fd576b16741863a8013360ac134dfba99c5658da3fde54a24547ba1b"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6215-1940-09-04.md",
+      "OID": "3562e88ec0cb32d72510fe70d9935362d84c61d6",
+      "sha256": "69363d1c231982692f5272ce435bca5e8e5dce4550f645af03f98abde980c1e2"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6216-1940-09-04.md",
+      "OID": "1bc1e66443ab1867f8ff20d1615c82b92a68a66b",
+      "sha256": "f559b461826de26fff158f60d62d4ef70948427a3ab8d0bdb4e08fff62b736e3"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6217-1940-09-04.md",
+      "OID": "c5fb0715663989c5ed355ba63bdf9373d57eec4a",
+      "sha256": "70d6f70d90e3d6acf4068515724e7f0ba963abe238df1a58f4f7bada93dc74cb"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6219-1940-09-04.md",
+      "OID": "620a0ebd184e4d61084f93022b921207f7cd3279",
+      "sha256": "8fad4cacce12670b0221b26b44cc56bc447be741ff17fc49f84a9d5be1969f28"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6221-1940-09-04.md",
+      "OID": "79471132a55619bfd971c18718a98f39b6f90f66",
+      "sha256": "024589ea14eb622f2d8bcc6880b9823a86b71f29e0e12b041e67d03340d4582a"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6238-1940-09-05.md",
+      "OID": "d1257ca1e3261107d0a159177e1af8145f75cd49",
+      "sha256": "d1ccfa5a0c2ca5f9ced9de535ebd940c114934ed3560b310bfafa4e29bdfb4fe"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6222-1940-09-04.md",
+      "OID": "689411ab7a9fe5744d23b7b6217a4896cbb07024",
+      "sha256": "312c55a1dd0bff5cab7daa53da8592861a5b37d76293a6d3336b52328b6dce6c"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6224-1940-09-04.md",
+      "OID": "511b05ec1a2dc284801e044e1016e1f437053bd4",
+      "sha256": "8265490cfef25af8e206ec38b1a559a39abaa0d5a20087aeb4be675a6ec3a9f0"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6226-1940-09-04.md",
+      "OID": "5e74898a60d2f7dec899af66908d38de8a7cf105",
+      "sha256": "762a653563830f43c5c5485334fcbbce21bf7cc0ccc97a03e824c72c2160efe9"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6192-1940-08-30.md",
+      "OID": "a0db4625cc5f405164e7f774456af48c0dbc8d13",
+      "sha256": "6021d10d32cc703a245630b7bb8f5163089d46f4c41497ff2c0156f5bd446e1a"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6193-1940-08-30.md",
+      "OID": "2557a051708f6724cb176a3d995d11ea49754a27",
+      "sha256": "c3d60b563481113dd5d3b80348947534db011b7e62bb02f46ced2efb722d96db"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6195-1940-08-30.md",
+      "OID": "406cf9332ac682a16d48e23127190082db1a0e46",
+      "sha256": "c029924ed7b10451e5a116686c901117ea660a25650c9cd9cab53244d75d5b45"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6196-1940-08-30.md",
+      "OID": "db570ea04974c7547f5cb95354d517edf7139ff8",
+      "sha256": "6f043b1e5f930b5cfe77d5b6e8baad368a20b20ce652e7946160ca73d290c646"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6197-1940-08-30.md",
+      "OID": "fda017a38cbf3577d5d52f5b7d1ccadedee75e37",
+      "sha256": "743a8d1eda5d3f7e57f5296c479b5931773770339758829569bae8d892bd5585"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6198-1940-08-30.md",
+      "OID": "7e8d279c8a816946347a119cd5815042f793c2d5",
+      "sha256": "8e5d6865cbb86680454bd140cf4a810d43e9db79dd9c1a410ed49f973baa2792"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6199-1940-08-30.md",
+      "OID": "c58e6f59b84b9664116935e8ec20e46a36400791",
+      "sha256": "a5b6cf0da1a467329f994c964184950fc7cf22abc55460fd5192f54907efcf47"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6200-1940-08-30.md",
+      "OID": "ca7a68f472db055fd1969a1c1f99552f0de40bdc",
+      "sha256": "058b8287a9568b67009707c37cc3b284e47c630543bcf4a2bb46e3359f2135bc"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6189-1940-08-29.md",
+      "OID": "cb935d3e963937b962b6112715da05953a788782",
+      "sha256": "fd997edf90038fc5e1d0b108e723536d54255ee34191a33203ab48ade16448c9"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6185-1940-08-28.md",
+      "OID": "da84a565cbf752b792e0f71a09d272fcb2a81c91",
+      "sha256": "06c7f5b389f16bc8cc4f44e6f371b54ae450dfc4551c11f0ce91ff87c0432cc2"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6186-1940-08-28.md",
+      "OID": "39079573d82962462f36cb5d0a49482a5b07e763",
+      "sha256": "fd07f89d09e4ca5d0d1591864dd148aca49db400d09ccdf4b3b0b47fecf3f099"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6187-1940-08-28.md",
+      "OID": "9c754dd4b8f6a2d25fae2ad6cefdfc6ca197cee0",
+      "sha256": "aec8c4f751797e94ea13dc32dca01fca06ca0b5b04993302e1c4f67515095cdb"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6184-1940-08-28.md",
+      "OID": "39885ab3980cc2319e8285987eacd9744d0b8245",
+      "sha256": "3354bc8f9eb6e2f8cd41f392443f7ec6d1a758c7c770fb09dbc9e112219b2779"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6171-1940-08-27.md",
+      "OID": "6ea838749b8bd5b8f4725a3f8adf8ec48516650b",
+      "sha256": "a3fb702caaf8807cdc75da47876573c618c965f8c5d901d870da859d7bc17cba"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6174-1940-08-27.md",
+      "OID": "ca628c737f0826bab96071b7dee1d97425b4d05a",
+      "sha256": "2a3f21424d7af17dc8746f4b18407d1fb0a86214a7b01be5ba165399ac600531"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6177-1940-08-27.md",
+      "OID": "f256b2a6c869704e5fe039d66aca86c44014cbfb",
+      "sha256": "0ca779399afe53d58898b923f44d8daea52b6230e47162137b30d2a2ce033c62"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6143-1940-08-23.md",
+      "OID": "fb35fb616f8ef006f582fdd95481e61ec8bf1a64",
+      "sha256": "4c9d1f983eed2b1c21c1389997eedf21d2527257d29747e7ba62ca8327165ad3"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6144-1940-08-23.md",
+      "OID": "6313497643edd96f0f1127e94cdc00aa5721fb36",
+      "sha256": "88000c654d1448680f3fb51ec6fae940bf208dc864675298cffea9e6d77c7bc5"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6145-1940-08-23.md",
+      "OID": "35923ec2a1c2782d11622c47b31315c0f33052fc",
+      "sha256": "458c26636457cbd65204f49485185f302a4590418fb78da4f9f658066c41420e"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6133-1940-08-22.md",
+      "OID": "ef8ffdecb67b4ece61bbd6e99dde4d8cd05c6165",
+      "sha256": "52c1e5b5b26402095e872e8cef69381486b0514bf103a4f3105018231c0a8659"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6134-1940-08-22.md",
+      "OID": "357b13566631146a617c8245f7cd1959eeff2a1d",
+      "sha256": "c7ebb449318b2896c868201acce9f8be6f8257a9ee0077e1cee8a440ba291c9b"
+    },
+    {
+      "path": "federal/decretos/1940/dec-6135-1940-08-22.md",
+      "OID": "2560dac772c463aba691c03b7187e5eedb03834c",
+      "sha256": "ff151c781a692184e3109eb6bc2fdafc465d8e5ad641c4a0f28b836c941870bb"
+    }
+  ],
+  "controles_linhas": "Os três artigos únicos unidos a DECRETA no mesmo bloco são reconhecidos no suplemento; os 31 comandos sem artigos são os já contextualizados no pacote revisão35.",
+  "limitacoes": "Revisão contextual do defeito de deslocamento de fecho principal para documento incorporado. Não substitui os demais gates nem afirma revisão humana universal. Os 96 possuem SHA real do HEAD no inventário."
+}

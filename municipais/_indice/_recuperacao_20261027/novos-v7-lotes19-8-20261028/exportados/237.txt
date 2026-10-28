@@ -1,0 +1,590 @@
+---
+titulo: "LEI ORDINÁRIA-CMC nº 1.332, de 22 de agosto de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "1332"
+data: "2014-08-22"
+municipio: "Claraval"
+uf: "MG"
+codigo_ibge: "3116407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.claraval.mg.leg.br/norma/892"
+fonte_texto: "https://sapl.claraval.mg.leg.br/ta/223/text"
+sha256_fonte: "5ff5699f8843e88d06474afc0d0cf8f2a9bd685e119f982b2e352c41f33ec49b"
+sha256_texto: "68eb4369916e3941bf972863427166e155bbe3f144c286867cb9dec7d7ab908a"
+capturado_em_fonte: "2026-10-27T22:50:29.611622-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA-CMC nº 1.332, de 22 de agosto de 2014
+
+"Dispor Sobre Politica Municipal de Segurança Alimentar e Nutricional Sustentável e dá outras providências".
+
+
+O PREFEITO MUNICIPAL DO MUNICÍPIO DE CLARAVAL/MG, o Povo por seus representantes, aprovou, e eu, em seu nome, promulgo a seguinte Lei:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+O poder público garantirá o direito à segurança alimentar e nutricional sustentável no Município, em conformidade com o disposto nesta lei, observadas as normas do direito estadual, nacional e internacional.
+
+
+Art. 2º.
+
+Considera-se segurança alimentar e nutricional sustentável a garantia do acesso regular e permanente a alimentos de qualidade, em quantidade suficiente, com base em práticas alimentares saudáveis, que respeitem a diversidade cultural e que sejam social, econômica e ambientalmente sustentáveis, sem comprometer o acesso a outras necessidades essenciais.
+
+
+Art. 3º.
+
+O direito humano à alimentação adequada, objetivo primordial da Política Municipal de Segurança Alimentar e Nutricional Sustentável, é direito absoluto, intransmissível, indisponível, irrenunciável, imprescritível e de natureza extra patrimonial.
+
+
+Parágrafo único
+
+É dever do poder público municipal, da família e da sociedade em geral garantir, respeitar, proteger, promover e prover a realização do direito humano à alimentação adequada (DHAA).
+
+
+#### CAPÍTULO II — DA POLITICA MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL SUSTENTÁVEL
+
+
+Art. 4º.
+
+A Política Municipal de Segurança Alimentar e Nutricional Sustentável, componente estratégico do desenvolvimento integrado e sustentável, tem por objetivo promover ações e políticas destinadas a assegurar o direito humano à alimentação adequada e o desenvolvimento integral da pessoa humana.
+
+
+§ 1º
+
+A Política Municipal de Segurança Alimentar e Nutricional Sustentável será implementada mediante plano integrado e Inter setorial de ações do poder público e da sociedade civil.
+
+
+§ 2º
+
+A participação do setor privado nas ações a que se refere o parágrafo primeiro deste artigo será incentivada nos termos desta Lei.
+
+
+Art. 5º.
+
+A Política Municipal de Segurança Alimentar e Nutricional Sustentável reger-se-á pelas seguintes diretrizes:
+
+
+I –
+
+a promoção e a incorporação do direito humano à alimentação adequada nas politicas públicas;
+
+
+II –
+
+a promoção do acesso à alimentação de qualidade e de modos de vida saudável;
+
+
+III –
+
+a promoção da educação alimentar e nutricional;
+
+
+IV –
+
+a promoção da alimentação e da nutrição materno-infanto-juvenil e geriátrica;
+
+
+V –
+
+o atendimento suplementar e emergencial a indivíduos ou grupos populacionais em situação de vulnerabilidade;
+
+
+VI –
+
+o fortalecimento das ações de vigilância sanitária dos alimentos;
+
+
+VII –
+
+o apoio à geração de trabalho e renda, especialmente de natureza associativa;
+
+
+VIII –
+
+a preservação e a recuperação do meio ambiente e dos recursos hídricos;
+
+
+IX –
+
+o respeito às comunidades tradicionais e aos hábitos alimentares locais;
+
+
+X –
+
+a promoção da participação permanente dos diversos segmentos da sociedade civil;
+
+
+XI –
+
+o apoio à agricultura familiar e à produção rural, urbana e Peri Urbana de alimentos, com incentivo e valorização da agroecologia;
+
+
+XII –
+
+a promoção de políticas integradas visando a superação das desigualdades econômicas, sociais, de gênero e étnicas a fim de combater a exclusão social;
+
+
+XIII –
+
+a promoção da inter-setorialidade das políticas, programas e ações governamentais e não-governamentais.
+
+
+#### CAPÍTULO III — DO SISTEMA MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL SUSTENTÁVEL
+
+
+##### Seção I — DA COMPOSIÇÃO
+
+
+Art. 6º.
+
+Integram o Sistema Municipal de Segurança Alimentar e Nutricional Sustentável:
+
+
+I –
+
+a Conferência Municipal de Segurança Alimentar e Nutricional Sustentável;
+
+
+II –
+
+o Conselho Municipal de Segurança Alimentar e Nutricional Sustentável- COMSEA;
+
+
+III –
+
+o Plano Municipal de Segurança Alimentar e Nutricional Sustentável; IV.
+
+
+IV –
+
+a Coordenadoria Inter setorial da Política Municipal de Segurança Alimentar e Nutricional Sustentável;
+
+
+V –
+
+as Organizações da Sociedade Civil.
+
+
+##### Seção II — DA CONFERÊNCIA MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL SUSTENTÁVEL
+
+
+Art. 7º.
+
+A Conferência Municipal de Segurança Alimentar e Nutricional Sustentável será realizada a cada quatro anos, mediante convocação do Prefeito Municipal.
+
+
+§ 1º
+
+A conferência tem como objetivo apresentar proposições de diretrizes e prioridades para o Plano Municipal de SANS, bem como proceder à sua revisão.
+
+
+§ 2º
+
+A conferência municipal será organizada pelo conselho municipal de segurança alimentar e nutricional sustentável, conforme artigos 10,12 e 14 desta Lei.
+
+
+§ 3º
+
+Cabe ao conselho municipal de segurança alimentar e nutricional sustentável de Claraval/MG, a convocação e avaliação da conferência municipal a cada biênio, respeitando regulamento próprio para tal fim.
+
+
+Art. 8º.
+
+Participarão da conferência os membros do Conselho Municipal de SANS e demais participantes definidos segundo normas regimentais aprovadas pelo COMSEA de Claraval MG.
+
+
+##### Seção III — DO CONSELHO MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL SUSTENTÁVEL
+
+
+Art. 9º.
+
+Fica criado o Conselho Municipal de Segurança Alimentar e Nutricional Sustentável, denominado COMSEA de Claraval/MG, órgão colegiado permanente vinculado administrativamente a Secretaria Municipal de Agricultura e Desenvolvimento Econômico, tem como objetivo propor, deliberar e exercer o controle social das ações e políticas de que trata esta lei.
+
+
+Parágrafo único
+
+O COMSEA de Claraval/MG é órgão colegiado, autônomo, de caráter consultivo e deliberativo de interação do governo municipal com a sociedade civil.
+
+
+Art. 10.
+
+Compete ao COMSEA-Conselho Municipal de Segurança Alimentar e Nutricional Sustentável de Claraval/MG:
+
+
+I –
+
+propor e aprovar a política municipal de segurança alimentar nutricional sustentável em consonância com a Lei Federal e Estadual que cria a respectiva política em seus âmbitos;
+
+
+II –
+
+aprovar, apoiar, avaliar e exercer o controle social do Plano Municipal de Segurança Alimentar e Nutricional Sustentável;
+
+
+III –
+
+contribuir na integração do plano municipal com os programas de combate à fome e segurança alimentar e nutricional sustentável, instituídos pelos governos estadual e federal;
+
+
+IV –
+
+apoiar a atuação integrada dos órgãos governamentais e das organizações da sociedade civil envolvidos nas ações de promoção da alimentação saudável e de combate às causas e aos males da fome;
+
+
+V –
+
+estabelecer parcerias que garantam mobilização e racionalização no uso dos recursos disponíveis;
+
+
+VI –
+
+promover e coordenar campanhas de educação alimentar e de formação de opinião pública sobre o direito à alimentação adequada;
+
+
+VII –
+
+realizar, promover e apoiar estudos que fundamentam as propostas ligadas à segurança alimentar e nutricional sustentável;
+
+
+VIII –
+
+organizar e implementar a cada quatro anos a Conferência Municipal de Segurança Alimentar Nutricional Sustentável e a cada dois anos a sua avaliação;
+
+
+IX –
+
+apresentar anualmente, na Lei de Diretrizes Orçamentarias e na Lei Orçamentaria Anual, os projetos e ações prioritárias do plano municipal de segurança alimentar e nutricional sustentável;
+
+
+X –
+
+estimular o desenvolvimento de pesquisas e à capacitação de recursos humanos;
+
+
+XI –
+
+estabelecer relações de cooperação com os conselhos municipais afins à segurança alimentar nutricional e sustentável, bem como dos conselhos municipais de SANS dos municípios da região, com o CONSEA/MG e com o CONSEA Nacional;
+
+
+XII –
+
+elaborar e fazer cumprir o regimento interno.
+
+
+Parágrafo único
+
+O COMSEA poderá solicitar aos órgãos e às entidades da administração pública municipal, dados, informações e colaboração para o desenvolvimento de suas atribuições.
+
+
+Art. 11.
+
+O COMSEA norteia-se pelos seguintes princípios:
+
+
+I –
+
+promoção do Direito Humano à Alimentação Adequada;
+
+
+II –
+
+integração das ações dos Poderes Públicos Federal, Estadual e Municipal;
+
+
+III –
+
+articulação com as entidades representativas da sociedade e com os organismos nacionais e internacionais de cooperação;
+
+
+IV –
+
+promoção equitativa dos recursos públicos referentes a política de SANS no Município visando à erradicação da pobreza e redução das desigualdades sociais;
+
+
+V –
+
+controle social das políticas de Segurança Alimentar e Nutricional Sustentável propostas e/ou acompanhadas pelo COMSEA.
+
+
+Art. 12.
+
+O COMSEA - Claraval/MG é integrado por doze (12) representantes do poder público e da sociedade civil, da seguinte forma:
+
+
+I –
+
+Quatro (4) Conselheiros Representantes do Poder Público Municipal, sendo:
+
+
+a)
+
+um representante da Secretaria Municipal de Agricultura e Desenvolvimento Econômico;
+
+
+b)
+
+um representante da Secretaria Municipal de Cidadania e Ação Social;
+
+
+c)
+
+um representante da Secretaria Municipal de Educação;
+
+
+d)
+
+um representante da Secretaria Municipal de Saúde;
+
+
+II –
+
+Oito (8) Conselheiros Representantes da Sociedade Civil, sendo:
+
+
+a)
+
+um representante do Movimento Sindical patronal urbano e rural;
+
+
+b)
+
+um representante do Conselho Municipal de Assistência Social;
+
+
+c)
+
+um representante do Conselho Municipal de Saúde;
+
+
+d)
+
+um representante do comércio ou de empresas;
+
+
+e)
+
+um representante de instituições de diferentes expressões religiosas (católicos, espíritas, evangélicos e outros);
+
+
+f)
+
+um representante de Associação de Moradores;
+
+
+g)
+
+um representante de Entidade que trabalha com Educação Básica;
+
+
+h)
+
+um representante de Movimento de defesa do Meio Ambiente.
+
+
+§ 1º
+
+O conselho observará em sua composição a proporcionalidade de 1/3 de representantes do Poder público e 2/3 de representantes da sociedade civil.
+
+
+§ 2º
+
+Para cada representante titular haverá um representante suplente.
+
+
+§ 3º
+
+As instituições da sociedade civil com representação no COMSEA devem ter efetiva atuação com o tema segurança alimentar e nutricional sustentável no município.
+
+
+§ 4º
+
+O mandato dos membros representantes da sociedade civil no COMSEA será de dois anos, admitida uma recondução consecutiva.
+
+
+§ 5º
+
+A ausência às plenárias deve ser justificada em comunicação por escrito com antecedência de no mínimo três dias, ou três dias posteriores à sessão.
+
+
+§ 6º
+
+A falta injustificada a três reuniões consecutivas ou quatro alternadas implica a perda do mandato de conselheiro.
+
+
+§ 7º
+
+A perda do mandato do conselheiro será comunicada por ato formal do Conselho ao órgão da entidade que representa e ao Prefeito Municipal.
+
+
+§ 8º
+
+Os conselheiros eleitos serão nomeados pelo Prefeito Municipal.
+
+
+§ 9º
+
+À Presidência do Conselho caberá a um representante da Sociedade Civil em respeito ao principio da organização jurídica do Estado.
+
+
+Art. 13.
+
+O COMSEA será instituído através de portaria municipal contendo a indicação dos conselheiros com seus respectivos suplentes.
+
+
+Art. 14.
+
+As plenárias do Conselho Municipal de Segurança Alimentar e Nutricional Sustentável de Claraval/MG. -COMSEA, tem caráter público, podendo, assim, participar convidados e observadores - representantes de órgãos ou entidades de ação municipal e regional, sem direito a voto.
+
+
+Parágrafo único
+
+O COMSEA poderá se reunir esporadicamente com os representantes de conselhos afins para discutir sobre a temática, de modo a promover a inter setorialidade.
+
+
+Art. 15.
+
+O Conselho Municipal de Segurança Alimentar e Nutricional Sustentável terá dotações orçamentarias, previstas em lei, necessárias para a efetiva concretização dos objetivos propostos, bem como a disponibilização pelo Município de pessoal para exercer funções de suporte técnico e administrativo em seu funcionamento, bem como construir a interação com outros conselhos ou órgãos.
+
+
+Art. 16.
+
+Os serviços prestados ao Município pelos membros do Conselho são considerados de relevante interesse público, e não perceberão seus componentes, qualquer remuneração por isso.
+
+
+Art. 17.
+
+A competência e a forma de atuação dos conselheiros serão estabelecidas no regimento interno do Conselho.
+
+
+##### Seção IV — DO PLANO MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL SUSTENTÁVEL
+
+
+Art. 18.
+
+O Plano Municipal de Segurança Alimentar e Nutricional Sustentável deve ser um instrumento, resultante do diálogo entre governo e sociedade civil, de orientação da Política Municipal de Segurança Alimentar e Nutricional Sustentável para que organizem ações voltadas para a garantia do direito humano à alimentação adequada.
+
+
+Art. 19.
+
+O Plano Municipal de Segurança Alimentar e Nutricional Sustentável, no âmbito do PPA-Plano Plurianual de Ação, deverá:
+
+
+I –
+
+identificar estratégias, ações e metas a serem implementadas segundo cronograma definido;
+
+
+II –
+
+indicar as fontes orçamentarias e os recursos técnicos, financeiros e administrativos a serem alceados para a concretização do direito humano à alimentação adequada;
+
+
+III –
+
+potencializar as ações de SANS do município, propiciando melhores resultados e visibilidade;
+
+
+IV –
+
+criar condições efetivas de infraestrutura e recursos humanos que permitam o atendimento ao direito humano à alimentação adequada;
+
+
+V –
+
+definir e estabelecer formas de controle social mediante a identificação e o acompanhamento de indicadores de vigilância alimentar e nutricional;
+
+
+VI –
+
+propiciar um processo de avaliação e controle social eficaz.
+
+
+##### Seção V — DA COORDENADORIA INTERSETORIAL DA POLÍTICA MUNICIPAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL SUSTENTÁVEL
+
+
+Art. 20.
+
+A coordenação das ações da politica de que se trata esta lei será exercida pela Coordenadoria Inter setorial da Política Municipal de Segurança Alimentar e Nutricional Sustentável, vinculada administrativamente à Secretaria Municipal de Agricultura e Desenvolvimento Econômico e regida por regulamento próprio.
+
+
+Art. 21.
+
+O Poder Executivo, por meio da Coordenadoria inter setorial de SANS, deverá articular ações, projetos e programas relativos à Segurança Alimentar e Nutricional Sustentável para garantir a inter setorialidade com as diversas políticas implementadas no município, competindo-lhe:
+
+
+I –
+
+articular as ações do poder público no campo da segurança alimentar e nutricional sustentável;
+
+
+II –
+
+elaborar a partir das deliberações emanadas da Conferência Municipal o Plano Municipal de Segurança Alimentar e Nutricional Sustentável, indicando diretrizes, metas, fontes de recursos e instrumentos de acompanhamento, monitoramento e avaliação de sua implementação;
+
+
+III –
+
+elaborar e encaminhar a proposta orçamentaria da segurança alimentar e nutricional sustentável;
+
+
+IV –
+
+subsidiar o COMSEA com relatórios anuais de atividades e de execução financeira dos recursos alocados para a política municipal de segurança alimentar e nutricional sustentável;
+
+
+V –
+
+definir, estabelecer e realizar o monitoramento da política e programas de SANS;
+
+
+VI –
+
+promover e desenvolver estudos e pesquisas para fundamentar as análises de necessidades e formulação de proposições da área.
+
+
+##### Seção VI — DAS ORGANIZAÇÕES DA SOCIEDADE CIVIL
+
+
+Art. 22.
+
+O Poder Executivo deverá incentivar e potencializar as ações e experiências das organizações da sociedade civil que promovam a Política Municipal de Segurança Alimentar e Nutricional Sustentável.
+
+
+Art. 23.
+
+As organizações da sociedade civil, instituições privadas com ou sem fins lucrativos, afetas à segurança alimentar e nutricional sustentável, que manifestem interesse na adesão e que respeitem os critérios, princípios e diretrizes do sistema instituído nesta lei.
+
+
+Parágrafo único
+
+Cabe a essas organizações o desempenho de serviços sociais prestados à comunidade e nas suas competências atrair e captar recursos complementares que necessitam em suas atividades.
+
+
+##### Seção VII — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 24.
+
+As despesas decorrentes da aplicação da presente lei correrão à conta de dotação orçamentaria própria consignada no orçamento vigente, suplementadas se necessária.
+
+
+Art. 25.
+
+Esta lei entra em vigor a partir de sua publicação.
+
+
+Claraval, 22 de agosto de 2014.
+
+Juliano Diogo Pereira
+
+Prefeito Municipal
+

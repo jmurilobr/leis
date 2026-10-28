@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO Nº 27, DE 19 DE OUTUBRO DE 2018"
+orgao: "Presidência da República/Gabinete de Segurança Institucional/Comitê de Desenvolvimento do Programa Espacial Brasileiro"
+tipo: "Resolução"
+numero: "27"
+data: 2018-10-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 24/10/2018, seção 1, p. 4"
+data_publicacao: 2018-10-24
+edicao: "205"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-n-27-de-19-de-outubro-de-2018-46888132"
+sha256_html_fonte: f8bb79497601990f989063a597f72fd1687eb0fa6430fbd3a094529db2d98933
+baixado_em: 2026-10-27
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO Nº 27, DE 19 DE OUTUBRO DE 2018
+
+<div class="texto-dou"><p class="identifica">RESOLUÇÃO Nº 27, DE 19 DE OUTUBRO DE 2018</p><p class="ementa">Publica as deliberações do Comitê de Desenvolvimento do Programa Espacial Brasileiro na quarta reunião plenária daquele colegiado.</p><p class="dou-paragraph" ><strong class="dou-strong" >O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, Coordenador do Comitê de Desenvolvimento do Programa Espacial Brasileiro (CDPEB),</strong>no uso da atribuição que lhe confere o art. 87 da Constituição e tendo em vista o que dispõe o art. 10, cumulado com o inciso III do art. 30, ambos do Anexo da Resolução nº 1, de 1º de março de 2018, resolve:</p><p class="dou-paragraph" >Art. 1º Publicar as deliberações do Comitê de Desenvolvimento do Programa Espacial Brasileiro oriundas da reunião plenária realizada em 18 de outubro de 2018, que dispõem sobre os trabalhos realizados pelos Grupos Técnicos constituídos no âmbito daquele Colegiado, na forma do Anexo a esta Resolução.</p><p class="dou-paragraph" >Art. 2º Esta Resolução entra em vigor na data de sua publicação.</p><p class="assina">SERGIO WESTPHALEN ETCHEGOYEN</p><p class="subtitulo">ANEXO</p><p class="subtitulo">DELIBERAÇÃO DO COMITÊ DE DESENVOLVIMENTO DO PROGRAMA ESPACIAL BRASILEIRO</p><p class="dou-paragraph" >Em reunião plenária realizada em 18 de outubro de 2018, às 15h25, na Sala 97 do 4º andar do Palácio do Planalto, em Brasília, Distrito Federal, o Comitê de Desenvolvimento do Programa Espacial Brasileiro - CDPEB resolveu:</p><p class="dou-paragraph" >Art. 1º Aprovar o relatório final apresentado pelo Grupo Técnico constituído pela Resolução nº 3 - GSI/PR, de 1º de março de 2018, responsável pelas tratativas de elaboração de acordos de salvaguardas tecnológicas com Estados estrangeiros.</p><p class="dou-paragraph" >Art. 2º Aprovar o relatório final apresentado pelo Grupo Técnico constituído pela Resolução nº 10 - GSI/PR, de 1º de março de 2018, cujo objeto foi ampliado pela Resolução nº 24 - GSI/PR, de 15 de junho de 2018, responsável pela elaboração de proposta de recomposição dos quadros de pessoal do Departamento de Ciência e Tecnologia Aeroespacial do Comando da Aeronáutica do Ministério da Defesa (DCTA), da Agência Espacial Brasileira (AEB) e do Instituto Nacional de Pesquisas Espaciais (INPE), estes últimos vinculados ao Ministério da Ciência, Tecnologia, Inovações e Comunicações.</p><p class="dou-paragraph" >Art. 3º Aprovar o relatório final apresentado pelo Grupo Técnico constituído de acordo com inciso I do art. 7º da Resolução nº 24 - GSI/PR, de 15 de junho de 2018, com atribuição para planejar e orientar a integração de políticas públicas e ações sociais a serem implementadas em áreas do município de Alcântara-MA, com vistas à potencialização do Programa Espacial Brasileiro.</p><p class="dou-paragraph" >Art. 4º Prorrogar por oitenta dias, a contar de 30.09.2018, o prazo para a conclusão dos trabalhos do Grupo Técnico do Comitê de Desenvolvimento do Programa Espacial Brasileiro (CDPEB), constituído de acordo com o inciso I do art. 3º da Resolução nº 26 - GSI/PR, de 16 de agosto de 2018, responsável pelo planejamento e definição de formas de financiamento do projeto mobilizador para o Programa Espacial Brasileiro.</p><p class="dou-paragraph" >Art. 5º Prorrogar por cento e vinte e cinco dias, a contar de 30.09.2018, o prazo para a conclusão dos trabalhos do Grupo Técnico do Comitê de Desenvolvimento do Programa Espacial Brasileiro (CDPEB), constituído de acordo com o<strong class="dou-strong" >caput</strong>do art. 5º da Resolução nº 26 - GSI/PR, de 16 de agosto de 2018, com atribuição para elaborar a Lei Geral do Espaço.</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

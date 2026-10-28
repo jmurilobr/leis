@@ -1,0 +1,475 @@
+{
+  "alertas_revisados": [
+    {
+      "path": "federal/decretos/1930/dec-19391-1930-11-01.md",
+      "sha256_HTML": "de167d12be43e7bf976627f62f24c4ed56c42eef3a9a8dd5468ea59b146b84fc",
+      "sha256_MD_preliminar": "4966486ccc460adf00de3f81a21ea54dc9eceea57caa86a113ebec35656aec68",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Junta Governativa Provisória: comando, epígrafe, artigos e fecho próprios presentes.",
+      "contexto": {
+        "path": "federal/decretos/1930/dec-19391-1930-11-01.md",
+        "urn": "urn:lex:br:federal:decreto:1930-11-01;19391",
+        "sha256_HTML": "de167d12be43e7bf976627f62f24c4ed56c42eef3a9a8dd5468ea59b146b84fc",
+        "sha256_metadados": "351dc9aefb5bc1d02c7aab2b6e98684097ba0ae7374cb121373a12d408e9fb30",
+        "sha256_MD_preliminar": "4966486ccc460adf00de3f81a21ea54dc9eceea57caa86a113ebec35656aec68",
+        "epigrafe": {
+          "numero": "19391",
+          "data": "1930-11-01",
+          "epigrafe": "DECRETO N. 19.391 – DE 1 DE NOVEMBRO DE 1930"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/357f64b5-1c5f-41c6-b6dd-721cb946ea6d/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T06:13:22.810547+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_013/requests/c9d5b3eedbc139317fc7a6cb57987db2f1eae548b98f1e01db55565a74875c1a.raw.gz",
+          "sha256_raw": "de167d12be43e7bf976627f62f24c4ed56c42eef3a9a8dd5468ea59b146b84fc",
+          "bytes": 5718
+        },
+        "prefixo_antes_primeiro_artigo": "**DECRETO N. 19.391 – DE 1 DE NOVEMBRO DE 1930**\n\n***Manda vigorar integralmente no Distrito Federal o decreto n. 19.385, de 27 de outubro findo, e dá outras providências***\n\nA Junta Governativa Provisória, constituida para corresponder ao sentimento geral da Nação, amparada nas classes armadas, resolve :",
+        "primeiro_bloco_de_artigo": "**Art. 1º** O decreto n. 19.385, de 27 de outubro de 1930, vigorará integralmente no Distrito Federal.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 1 DE NOVEMBRO DE 1930",
+          "data": "1930-11-01",
+          "bloco_literal": "Rio de Janeiro, 1 de novembro de 1930, 109º da Independência e 42º da República."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          ""
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": null,
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1927/dec-18035-1927-12-21.md",
+      "sha256_HTML": "19a1fbc7ed88882c2b7b0aa4a0dac8711b0abb85a6fbd0e408f1bd3197aa8201",
+      "sha256_MD_preliminar": "b079969d0e9b6f129150dbb5f4bf891e009c4004247c4ca73cbdbffc720c33b6",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Alterações estatutárias especificadas e redação final das emendas presentes após o fecho. Não se exige reproduzir partes antigas não alteradas.",
+      "contexto": {
+        "path": "federal/decretos/1927/dec-18035-1927-12-21.md",
+        "urn": "urn:lex:br:federal:decreto:1927-12-21;18035",
+        "sha256_HTML": "19a1fbc7ed88882c2b7b0aa4a0dac8711b0abb85a6fbd0e408f1bd3197aa8201",
+        "sha256_metadados": "ada7feb2136a55721bf17d779217f4e929edf75961b454e8e7433c6cf97ba176",
+        "sha256_MD_preliminar": "b079969d0e9b6f129150dbb5f4bf891e009c4004247c4ca73cbdbffc720c33b6",
+        "epigrafe": {
+          "numero": "18035",
+          "data": "1927-12-21",
+          "epigrafe": "DECRETO N. 18.035 – DE 21 DE DEZEMBRO DE 1927"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/907ed0a9-d171-457e-88c2-790cab2b02bd/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T09:11:10.800641+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_013/requests/b6997d67ada3f58a7caea3c554bbded421e84d9134dd2619449f93faea3936b9.raw.gz",
+          "sha256_raw": "19a1fbc7ed88882c2b7b0aa4a0dac8711b0abb85a6fbd0e408f1bd3197aa8201",
+          "bytes": 51829
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 18.035 – DE 21 DE DEZEMBRO DE 1927\n\nApprova as modificações dos estatutos do Montepio Geral de Economia dos Servidores do Estado\n\nO Presidente da Republica dos Estados Unidos do Brasil, attendendo ao que requereu o Montepio Geral de Economia dos Servidores do Estado, fundado nesta Capital em 1835 e, tendo em vista os documentos apresentados,\n\nResolve approvar as modificações feitas nos seus estatutos, nas assembléas geraes de 18 de junho e 7 de julho do corrente anno, dando aos arts. 73, 74, 75 e 76 a redacção abaixo:",
+        "primeiro_bloco_de_artigo": "**Artigo** 73;",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 21 DE DEZEMBRO DE 1927",
+          "data": "1927-12-21",
+          "bloco_literal": "Rio de Janeiro, 21 de dezembro de 1927, 106º da Independencia e 39º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          ""
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, attendendo ao que requereu o Montepio Geral de Economia dos Servidores do Estado, fundado nesta Capital em 1835 e, tendo em vista os documentos apresentados,",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1929/dec-18556-1929-01-10.md",
+      "sha256_HTML": "1224e1f68be22f6b937a07ea0e975569dcf85b186fb48ffda41cfd27b7eeb770",
+      "sha256_MD_preliminar": "23840f502f60846bbabc56b5fe590610a85dbd5b87084358a2c56d9d8f34bcc3",
+      "decisao": "retido",
+      "fundamento": "Aprova alterações estatutárias deliberadas em assembleia, com modificações especificadas. O corpo reproduz artigos selecionados, mas não comprova o conjunto deliberado; dúvida documental conservadora.",
+      "contexto": {
+        "path": "federal/decretos/1929/dec-18556-1929-01-10.md",
+        "urn": "urn:lex:br:federal:decreto:1929-01-10;18556",
+        "sha256_HTML": "1224e1f68be22f6b937a07ea0e975569dcf85b186fb48ffda41cfd27b7eeb770",
+        "sha256_metadados": "215ca2fa86b41722005cc10e532a575a8281c928bab86756404fa9531514979b",
+        "sha256_MD_preliminar": "23840f502f60846bbabc56b5fe590610a85dbd5b87084358a2c56d9d8f34bcc3",
+        "epigrafe": {
+          "numero": "18556",
+          "data": "1929-01-10",
+          "epigrafe": "DECRETO N. 18.556 – DE 10 DE JANEIRO DE 1929"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/2f4ad72b-37d0-4a45-8af5-d17068153a3b/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T09:02:31.029393+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_013/requests/d5fa5eb1a2d76e439a289a88b8772e5719a5400a9202af2e48d34913f7266b3f.raw.gz",
+          "sha256_raw": "1224e1f68be22f6b937a07ea0e975569dcf85b186fb48ffda41cfd27b7eeb770",
+          "bytes": 6217
+        },
+        "prefixo_antes_primeiro_artigo": "**DECRETO N. 18.556 – DE 10 DE JANEIRO DE 1929**\n\n***Approva as alterações dos estatutos do “Banco dos Funccionarios Publicos”***\n\nO Presidente da Republica dos Estados Unidos do Brasil, attendendo ao que requereu o “Banco dos Funccionarios Publicos\", com séde nesta Capital, resolve approvar as modificações dos seus estatutos, de accôrdo co ma assembléa geral extraordinaria dos seus accionistas, realizada em 9 de abril do anno findo, com as seguintes modificações:",
+        "primeiro_bloco_de_artigo": "**Art. 15.** Fica mantida a redacção que tem estado em vigor.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 10 DE JANEIRO DE 1929",
+          "data": "1929-01-10",
+          "bloco_literal": "Rio de Janeiro, 10 de janeiro de 1929, 108º da Independencia e 41º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          ""
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, attendendo ao que requereu o “Banco dos Funccionarios Publicos\", com séde nesta Capital, resolve approvar as modificações dos seus estatutos, de accôrdo co ma assembléa geral extraordinaria dos seus accionistas, realizada em 9 de abril do anno findo, com as seguintes modificações:",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1929/dec-18726-1929-04-30.md",
+      "sha256_HTML": "9f1c171b0b124bd413b8ea43e3a0e1c00ceaf61af040652cdf49903528db88fe",
+      "sha256_MD_preliminar": "2adc2236d411d91f7b7ffd1dd0caaaf9d112905dd6a30f350aac4151101b3654",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Organização das legações com dotações e material reproduzidos no corpo.",
+      "contexto": {
+        "path": "federal/decretos/1929/dec-18726-1929-04-30.md",
+        "urn": "urn:lex:br:federal:decreto:1929-04-30;18726",
+        "sha256_HTML": "9f1c171b0b124bd413b8ea43e3a0e1c00ceaf61af040652cdf49903528db88fe",
+        "sha256_metadados": "259448527578055215ba9a0b671b2884ec306c45a0086dda62e6fb677e6c4dd6",
+        "sha256_MD_preliminar": "2adc2236d411d91f7b7ffd1dd0caaaf9d112905dd6a30f350aac4151101b3654",
+        "epigrafe": {
+          "numero": "18726",
+          "data": "1929-04-30",
+          "epigrafe": "DECRETO N. 18.726 – DE 30 DE ABRIL DE 1929"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/317cf459-278a-4783-be85-906fb4696b8f/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T08:59:44.065983+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_013/requests/6367c0a43257b180fb5811327b5b16e23ba41c3871832ba9001a4e2cc48a397c.raw.gz",
+          "sha256_raw": "9f1c171b0b124bd413b8ea43e3a0e1c00ceaf61af040652cdf49903528db88fe",
+          "bytes": 14407
+        },
+        "prefixo_antes_primeiro_artigo": "**DECRETO N. 18.726 – DE 30 DE ABRIL DE 1929**\n\n***Dá organização ás novas Legações creadas na Rumania e na Hungria***\n\nO Presidente da Republica dos Estados Unidos do Brasil, na fórma do decreto legislativo n. 5.648, de 8 de janeiro do corrente anno, e de accôrdo com o Regulamento do Corpo Diplomatico Brasileiro, que baixou com o decreto n. 14.057, de 11 de fevereiro de 1920, resolve dar a seguinte organização ás novas missões diplomaticas creadas na Rumania e na Hungria, pelo referido decreto, a saber:\n\nA Legação na Rumania terá:\n\nPessoal:\n\nEnviado Extraordinario e Ministro Plenipotenciário:\n\nOrdenado.............................................................................. 12:500$000\n\nGratificação........................................................................... 6:250$000\n\nRepresentação...................................................................... 8:000$000 26:750$000\n\nUm Segundo Secretario de Legação:\n\nOrdenado. ........................................................................... 5:000$000\n\nGratificação. ........................................................................ 2:000$000\n\nRepresentação. ................................................................... 2:000$000 9:500$000\n\nMaterial:\n\nPara aluguel de chancellaria..............................................................10:000$000\n\nPara Expediente............................................................................ 400$000 10:400$000\n\nA Legação na Hungria terá:\n\nPessoal:\n\nMinistro Residente:\n\nOrdenado............................................................................ 10:000$000\n\nGratificação........................................................................ 5:000$000\n\nRepresentação................................................................... 8:000$000 23:000$000\n\nUm Segundo Secretario de Legação:\n\nOrdenado.......................................................................... 5:000$000\n\nGratificação....................................................................... 2:500$000\n\nRepresentação.................................................................. 2:000$000 9:500$000\n\nMaterial:\n\nPara aluguel de chancellaria......................................................... 10:000$000\n\nPara Expediente....................................................................... 400$000 10:400$000",
+        "primeiro_bloco_de_artigo": "**Artigo unico.** Revogam-se as disposições em contrario.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 30 DE ABRIL DE 1929",
+          "data": "1929-04-30",
+          "bloco_literal": "Rio de Janeiro, 30 de abril de 1929, 108º da Independencia e 41º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          ""
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": true,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": "O Presidente da Republica dos Estados Unidos do Brasil, na fórma do decreto legislativo n. 5.648, de 8 de janeiro do corrente anno, e de accôrdo com o Regulamento do Corpo Diplomatico Brasileiro, que baixou com o decreto n. 14.057, de 11 de fevereiro de 1920, resolve dar a seguinte organização ás novas missões diplomaticas creadas na Rumania e na Hungria, pelo referido decreto, a saber:",
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1927/dec-18032-1927-12-20.md",
+      "sha256_HTML": "bd567b2ee43cf0112ff303d3d33454cb1ab52070da2ff08d9e130b79aa64498f",
+      "sha256_MD_preliminar": "123978a20d23440b25ee457d0225f432df0cd04039505e3a28cf0670bf219a11",
+      "decisao": "retido",
+      "fundamento": "Conteúdo do crédito à Companhia Electro-Metallurgica coincide substancialmente com DPL 5.389-A de 20/12/1927 já publicado. Número DEC 18.032 e vínculo da fonte exigem confronto; não criar duplicata nem declarar alias sem prova adicional.",
+      "contexto": {
+        "path": "federal/decretos/1927/dec-18032-1927-12-20.md",
+        "urn": "urn:lex:br:federal:decreto:1927-12-20;18032",
+        "sha256_HTML": "bd567b2ee43cf0112ff303d3d33454cb1ab52070da2ff08d9e130b79aa64498f",
+        "sha256_metadados": "19515c3c8c4b5ba7dcf0ab7bd172ff26205d96d989b97819fc92f1db1bbe9d7d",
+        "sha256_MD_preliminar": "123978a20d23440b25ee457d0225f432df0cd04039505e3a28cf0670bf219a11",
+        "epigrafe": {
+          "numero": "18032",
+          "data": "1927-12-20",
+          "epigrafe": "DECRETO N. 18.032 – DE 20 DE DEZEMBRO DE 1927"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/9f840157-944f-472f-96a3-7353aee793ce/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T09:11:12.308985+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_013/requests/8fb57a42ba4f52fb53cbe8697c24859416439b156a6e5615870ef168c454cf37.raw.gz",
+          "sha256_raw": "bd567b2ee43cf0112ff303d3d33454cb1ab52070da2ff08d9e130b79aa64498f",
+          "bytes": 8219
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 18.032 – DE 20 DE DEZEMBRO DE 1927\n\nAutoriza o Poder Executivo a abrir o credito especial de réis 248:000$000 ou a fazer as operações de credito necessarias para pagamento á Companhia Electro-Metallurgíca Brasileira, do premio a que fez jus, nos termos do art. 8º n. 20 e § 1º da lei n. 4.632, de 6 de janeiro de 1923, revalidado pelo art. 183 da lei n. 4.793, de 7 janeiro de 1924.\n\nFaço saber que o Congresso Nacional decretou e eu sancciono a seguinte resolução;",
+        "primeiro_bloco_de_artigo": "**Art. 1º** Fica o Poder Executivo autorizado a abrir o credito especial da quantia de 248:000$000, ou a fazer as operações do credito necessárias, para pagar á Companhia Electro-Metallurgica Brasileira, sociedade anonyma, com séde em São Paulo, e usina electrosiderurgica em Ribeirão Preto, como premio a que a mesma companhia fez jus, nos termos do artigo 8º n. 20, e § 1º, da lei n. 4.632, de 6 de janeiro de 1923, revalidado pelo art. 183, da lei n. 4.793, de 7 de janeiro de 1924.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, EM 20 DE DEZEMBRO DE 1927",
+          "data": "1927-12-20",
+          "bloco_literal": "Rio de Janeiro, em 20 de dezembro de 1927, 106º da lndependencia e 39º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          ""
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": null,
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1930/dec-19385-1930-10-27.md",
+      "sha256_HTML": "6067ea7716e6dc77b1842bf7aaf23ad76fab28f704c67b75ba827d1a44751402",
+      "sha256_MD_preliminar": "bccf70c22b7a37ea4c0f5786dcb1cd772942f5f5976ec244e05ccf2b2da39a46",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Junta Governativa Provisória: comando e fecho próprios presentes.",
+      "contexto": {
+        "path": "federal/decretos/1930/dec-19385-1930-10-27.md",
+        "urn": "urn:lex:br:federal:decreto:1930-10-27;19385",
+        "sha256_HTML": "6067ea7716e6dc77b1842bf7aaf23ad76fab28f704c67b75ba827d1a44751402",
+        "sha256_metadados": "f78f538f5f8bceb446650c757b6bd35cd25c7a87a4b1e1bcd531ee96e59fe831",
+        "sha256_MD_preliminar": "bccf70c22b7a37ea4c0f5786dcb1cd772942f5f5976ec244e05ccf2b2da39a46",
+        "epigrafe": {
+          "numero": "19385",
+          "data": "1930-10-27",
+          "epigrafe": "DECRETO N. 19.385 – DE 27 DE OUTUBRO DE 1930"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/aed73569-8620-457f-92bc-018c2985acf9/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T06:13:29.159383+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_013/requests/e51e28b29e0278a0262a97b351643741cf815041a7a1ef83a4599352b05684a8.raw.gz",
+          "sha256_raw": "6067ea7716e6dc77b1842bf7aaf23ad76fab28f704c67b75ba827d1a44751402",
+          "bytes": 10937
+        },
+        "prefixo_antes_primeiro_artigo": "**DECRETO N. 19.385 – DE 27 DE OUTUBRO DE 1930**\n\n***Revoga os decretos ns. 19.375 e 19.383, respectivamente, de 20 e 22 do corrente, e dá outras providências***\n\nA Junta Governativa Provisória, constituida para corresponder ao sentimento geral da Nação, amparada nas classes armadas, considerando a necessidade urgente de normalizar a vida nacional; e de por termo à confusão criada pelos recentes decretos promulgados pelo Governo deposto, resolve :",
+        "primeiro_bloco_de_artigo": "**Art. 1º** Ficam revogados o decreto n. 19.375, de 20 de outubro corrente, que prorrogou até 30 de novembro próximo o chamado feriado decretado pelo, de n. 19.352, de 6 de outubro, e bem assim o decreto n. 19.383, de 22 de outubro, que determinou ficassem suspensos até 30 de novembro todos os atos impraticaveis nos dias feriados por lei.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 27 DE OUTUBRO DE 1930",
+          "data": "1930-10-27",
+          "bloco_literal": "Rio de Janeiro, 27 de outubro de 1930, 109º da Independência e 42º da República."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          ""
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": null,
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1929/dec-18858-1929-07-26.md",
+      "sha256_HTML": "ddc851b05ca95906bf9826cb133ff0601b53794baa59eeccf56c1a6185400c56",
+      "sha256_MD_preliminar": "765f557398bc025c3a65463d3b1c6cf90cb147c907b7ed71fc3fa087db7b0f9d",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Grafia literal Presidene preservada, sem reconstruir fórmula.",
+      "contexto": {
+        "path": "federal/decretos/1929/dec-18858-1929-07-26.md",
+        "urn": "urn:lex:br:federal:decreto:1929-07-26;18858",
+        "sha256_HTML": "ddc851b05ca95906bf9826cb133ff0601b53794baa59eeccf56c1a6185400c56",
+        "sha256_metadados": "e0a4422545052704fd2b399e9b5ec2e52e90d4ec99c50adfa5376342c844c621",
+        "sha256_MD_preliminar": "765f557398bc025c3a65463d3b1c6cf90cb147c907b7ed71fc3fa087db7b0f9d",
+        "epigrafe": {
+          "numero": "18858",
+          "data": "1929-07-26",
+          "epigrafe": "DECRETO N. 18.858 – DE 26 DE JULHO DE 1929"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/e0cfb4e2-8e5f-4f7c-966e-b256f79d1085/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T08:26:56.940839+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_013/requests/221794074a752ce531bb0fa9cdc73c7b99c6ddb76bbb148c46262a00babfaee8.raw.gz",
+          "sha256_raw": "ddc851b05ca95906bf9826cb133ff0601b53794baa59eeccf56c1a6185400c56",
+          "bytes": 3297
+        },
+        "prefixo_antes_primeiro_artigo": "**DECRETO N. 18.858 – DE 26 DE JULHO DE 1929**\n\n***Supprime um logar de escrevente na 4ª divisão da Estrada de Ferro Central do Brasil***\n\nO Presidene da Republica dos Estados Unidos do Brasil usando do disposto no artigo 1º do decreto n. 5.581, de 30 de novembro de 1928,\n\n**DECRETA:**",
+        "primeiro_bloco_de_artigo": "**Artigo unico.** Fica supprimido na 4ª divisão da Estrada de Ferro Central do Brasil um logar de escrevente, vago com a demissão de Goldmark Carlos Barroso.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 26 DE JULHO DE 1929",
+          "data": "1929-07-26",
+          "bloco_literal": "Rio de Janeiro, 26 de julho de 1929; 108º da Independencia e 41º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          ""
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": null,
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1930/dec-19386-1930-10-27.md",
+      "sha256_HTML": "419202e6e2931206ef39afd2165db841e813ef2da8c58923d90d11123f9038be",
+      "sha256_MD_preliminar": "9ae1d62d4473bdacc8f4776168ecd769c0fc415998fb267cfca800d2f922c008",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Junta Governativa Provisória: comando e fecho próprios presentes.",
+      "contexto": {
+        "path": "federal/decretos/1930/dec-19386-1930-10-27.md",
+        "urn": "urn:lex:br:federal:decreto:1930-10-27;19386",
+        "sha256_HTML": "419202e6e2931206ef39afd2165db841e813ef2da8c58923d90d11123f9038be",
+        "sha256_metadados": "0cf306f73339536e9e2bc4147be86620e7fe500450528a0f20cb3e4025ddad95",
+        "sha256_MD_preliminar": "9ae1d62d4473bdacc8f4776168ecd769c0fc415998fb267cfca800d2f922c008",
+        "epigrafe": {
+          "numero": "19386",
+          "data": "1930-10-27",
+          "epigrafe": "DECRETO N. 19.386 – DE 27 DE OUTUBRO DE 1930"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/452c4681-53cb-4d33-81b7-e9e628def350/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T06:13:29.067373+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_013/requests/cefdad9e2da95b6ca261a78b8af8ec23f768bc198e409e2126bb19d9ef27a354.raw.gz",
+          "sha256_raw": "419202e6e2931206ef39afd2165db841e813ef2da8c58923d90d11123f9038be",
+          "bytes": 3291
+        },
+        "prefixo_antes_primeiro_artigo": "**DECRETO N. 19.386 – DE 27 DE OUTUBRO DE 1930**\n\n***Declara sem efeito o decreto n. 19.356, de 7 do corrente que determinou a ocupação da Rede Sul Mineira***\n\nA Junta Governativa da República dos Estados Unidos do Brasil resolve :",
+        "primeiro_bloco_de_artigo": "**Artigo único.** Fica declarado sem efeito, a partir desta data, o decreto n. 19.356, de 7 do corrente, que determinou sobre a ocupação da Rede Sul Mineira, que voltará ao seu regime contratual.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 27 DE OUTUBRO DE 1930",
+          "data": "1930-10-27",
+          "bloco_literal": "Rio de Janeiro, 27 de outubro de 1930, 109º da Independência e 42º da República."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          ""
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": null,
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1930/dec-19387-1930-10-27.md",
+      "sha256_HTML": "89167c22f0812c2c19199e07a67af16a0b7e3cfe3ad1146a483532d8225042ab",
+      "sha256_MD_preliminar": "38bcc51c59f0b6e1f10baea45d36425f2a14db84d6bea4c99fd4ccd1f40b5ee9",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Junta Governativa Provisória: comando e fecho próprios presentes.",
+      "contexto": {
+        "path": "federal/decretos/1930/dec-19387-1930-10-27.md",
+        "urn": "urn:lex:br:federal:decreto:1930-10-27;19387",
+        "sha256_HTML": "89167c22f0812c2c19199e07a67af16a0b7e3cfe3ad1146a483532d8225042ab",
+        "sha256_metadados": "a8e9c593c7d26c69b7f2dc25c20c9103012d0710630395b1694edfb45bd395c7",
+        "sha256_MD_preliminar": "38bcc51c59f0b6e1f10baea45d36425f2a14db84d6bea4c99fd4ccd1f40b5ee9",
+        "epigrafe": {
+          "numero": "19387",
+          "data": "1930-10-27",
+          "epigrafe": "DECRETO N. 19.387 – DE 27 DE OUTUBRO DE 1930"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/39509362-f2f2-455f-a57b-99331742427d/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T06:13:26.994620+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_013/requests/28a81864cd85ec86f683221508e5efa192563c3f5625133a5de39c51c2b16416.raw.gz",
+          "sha256_raw": "89167c22f0812c2c19199e07a67af16a0b7e3cfe3ad1146a483532d8225042ab",
+          "bytes": 3884
+        },
+        "prefixo_antes_primeiro_artigo": "**DECRETO N. 19.387 – DE 27 DE OUTUBRO DE 1930**\n\n***Será permitido aos bancos, nacionais e estrangeiros, realizar operações bancárias, exceto as de compra de letras de exportação, que ficam a cargo exclusivo do Banco do Brasil.***\n\nA Junta Governativa da República dos Estados Unidos do Brasil resolve :",
+        "primeiro_bloco_de_artigo": "**Art. 1º** Na vigência do prazo de que trata o art. 2º do decreto n. 19.385, de hoje, será permitido aos bancos nacionais e estrangeiros realizar operações bancárias, exceto as de compra de letras de exportação, que ficam a cargo exclusivo do Banco do Brasil.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 27 DE OUTUBRO DE 1930",
+          "data": "1930-10-27",
+          "bloco_literal": "Rio de Janeiro, 27 de outubro de 1930, 109º da Independência e 42º da República."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          ""
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": null,
+        "ocorrencias_contextuais": []
+      }
+    },
+    {
+      "path": "federal/decretos/1929/dec-18890-1929-09-03.md",
+      "sha256_HTML": "3af16c88eab657c4f9d62e359978bad9d472858ec9f20076fbd777f0fce51e97",
+      "sha256_MD_preliminar": "f85777527a213fae06200d1bee1d1470cfc04a3f15ff080b01116e53de1dd7ec",
+      "decisao": "controle_contextual_para_dedup_final",
+      "fundamento": "Permissão para continuar a funcionar com mesmas cláusulas de decreto anterior; referência histórica aos estatutos, sem novo objeto documental integral comandado.",
+      "contexto": {
+        "path": "federal/decretos/1929/dec-18890-1929-09-03.md",
+        "urn": "urn:lex:br:federal:decreto:1929-09-03;18890",
+        "sha256_HTML": "3af16c88eab657c4f9d62e359978bad9d472858ec9f20076fbd777f0fce51e97",
+        "sha256_metadados": "29d577b1ac9e5a3ad1a61729e7097bc0bdd0db92032cbc044c9e6c55ac24c7b1",
+        "sha256_MD_preliminar": "f85777527a213fae06200d1bee1d1470cfc04a3f15ff080b01116e53de1dd7ec",
+        "epigrafe": {
+          "numero": "18890",
+          "data": "1929-09-03",
+          "epigrafe": "DECRETO N. 18.890 – DE 3 DE SETEMBRO DE 1929"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/8e10e4fb-b9a4-408c-a800-850341adab4d/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T08:26:26.959051+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_013/requests/f9899699e415f02c5428e36a32a62f095dc1f997e53499e9c5530580b8922f0a.raw.gz",
+          "sha256_raw": "3af16c88eab657c4f9d62e359978bad9d472858ec9f20076fbd777f0fce51e97",
+          "bytes": 3985
+        },
+        "prefixo_antes_primeiro_artigo": "**DECRETO N. 18.890 – DE 3 DE SETEMBRO DE 1929**\n\n***Concede á “Société’ Cotonniére Belge Brésilienne” autorização para continuar a funccionar na Republica***\n\nO Presente da Republica dos Estados Unidos do Brasil, attendendo ao que requereu á “Société Cotonniére Belge Brésilienne”, sociedade anonyma, com séde em Antuerpia, Belgica, autorizada a funccionar na Republica pelos decretos ns. 6.518, de 13 de junho de 1907, e 11.187, de 7 de outubro de 1914, e devidamente representada,\n\n**DECRETA:**",
+        "primeiro_bloco_de_artigo": "**Artigo unico.** E’ concedida á “Société Cotonniére Bolge Brésilienne autorização para continuar a funccionar na Republica com as alterações feitas nos seus estatutos, approvadas em assembléa geral extraordinaria dos respectivos accionistas, realizada em 19 de outubro de 1926, e sob as mesmas clausulas que acompanham o referido decreto n. 6.518, ficando, porém, a mesma sociedade obrigada a cumprir as formalidades exigidas pela legislação em vigor.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 3 DE SETEMBRO DE 1929",
+          "data": "1929-09-03",
+          "bloco_literal": "Rio de Janeiro, 3 de setembro de 1929, 108º da Independencia e 41º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          ""
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": false,
+        "autoridade_literal": null,
+        "ocorrencias_contextuais": []
+      }
+    }
+  ],
+  "controles_explicitos": {
+    "18035": "Alterações estatutárias especificadas e redação final das emendas presentes após o fecho. Não se exige reproduzir partes antigas não alteradas.",
+    "18890": "Permissão para continuar a funcionar com mesmas cláusulas de decreto anterior; referência histórica aos estatutos, sem novo objeto documental integral comandado.",
+    "18726": "Organização das legações com dotações e material reproduzidos no corpo.",
+    "19391": "Junta Governativa Provisória: comando, epígrafe, artigos e fecho próprios presentes.",
+    "19385": "Junta Governativa Provisória: comando e fecho próprios presentes.",
+    "19386": "Junta Governativa Provisória: comando e fecho próprios presentes.",
+    "19387": "Junta Governativa Provisória: comando e fecho próprios presentes.",
+    "18858": "Grafia literal Presidene preservada, sem reconstruir fórmula."
+  },
+  "limites": "Leitura dirigida dos vínculos e alertas, sem afirmar revisão humana universal de 530 atos. Corpo e documentos incorporados permanecem integrais; limites servem apenas para avaliar o fecho principal."
+}

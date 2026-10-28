@@ -1,0 +1,178 @@
+---
+titulo: "Lei Ordinária nº 2.426, de 09 de fevereiro de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2426"
+data: "2026-02-09"
+municipio: "Bofete"
+uf: "SP"
+codigo_ibge: "3506904"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bofete.sp.leg.br/norma/2429"
+fonte_texto: "https://sapl.bofete.sp.leg.br/ta/484/text"
+sha256_fonte: "ee59dd4575a2261665002e187a8ec0fcdeae4e7899bf0891f9c3e296b916547b"
+sha256_texto: "5bff98c0a2a3741c8167707516446d33a07209bcab1b18c7aa45d0983f765c15"
+capturado_em_fonte: "2026-10-27T19:09:38.938255-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.426, de 09 de fevereiro de 2026
+
+DISPÕE SOBRE A ABERTURA DE CRÉDITOS ADICIONAIS ESPECIAIS, CRÉDITOS ADICIONAIS SUPLEMENTARES E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+EUGENIO CARLOS ALVES, Prefeito do Município de Bofete, Estado de São Paulo, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Ficam abertos na Contadoria Municipal, Créditos Adicionais Especiais no valor de R$ 4.290.964,00 (quatro milhões duzentos e noventa mil, novecentos e sessenta e quatro reais) com as seguintes classificações orçamentárias:
+
+
+02 - PODER EXECUTIVO  
+  
+02.02.00 - DEPARTAMENTO DE GOVERNO  
+02.02.05 - HABITAÇÃO  
+4.0.00.00.00 - DESPESAS DE CAPITAL  
+4.4.00.00.00 - INVESTIMENTOS  
+4.4.90.00.00 - APLICAÇÕES DIRETAS  
+4.4.90.51.00 - OBRAS E INSTALAÇÕES  
+16.482.0007.1009 - CONSTRUÇÕES DE CASAS POPULARES (05.110.000)R$ 3.250.000,00  
+  
+02 - PODER EXECUTIVO  
+  
+02.10.00 - DEPARTAMENTO DE SAÚDE  
+02.10.01 - FUNDO MUNICIPAL DE SAÚDE - ATENÇÃO BÁSICA EM SAÚDE  
+4.0.00.00.00 - DESPESAS DE CAPITAL  
+4.4.00.00.00 - INVESTIMENTOS  
+4.4.90.00.00 - APLICAÇÕES DIRETAS  
+4.4.90.52.00 - EQUIPAMENTOS E MATERIAL PERMANENTE  
+10.301.0036.1002 - AQUISIÇÕES DE EQUIPAMENTOS E MATERIAIS PERMANENTES (DR 05.310.000) ....R$ 644.964,00  
+  
+02 - PODER EXECUTIVO  
+  
+02.11.00 - DEPARTAMENTO DE OBRAS, SERVIÇOS URBANOS E RURAIS  
+02.11.01 - SERVIÇOS URBANOS  
+4.0.00.00.00 - DESPESAS DE CAPITAL  
+4.4.00.00.00 - INVESTIMENTOS  
+4.4.90.00.00 - APLICAÇÕES DIRETAS  
+4.4.90.51.00 - OBRAS E INSTALAÇÕES  
+15.451.0041.1007 - PAVIMENTAÇÃO, CALÇAM. DE VIAS PÚBLICAS URBANAS E OBRAS COMPLEMENTARES(05.110.000) ....R$ 396.000,00
+
+
+Art. 2º.
+
+A cobertura dos Créditos Adicionais Especiais abertos pelo artigo anterior desta Lei, serão provenientes dos recursos oriundos de convênios conforme seguem:
+
+
+I –
+
+Convênio com o Ministério das Cidades para construções de casas populares através do Minha Casa Minha Vida - Programa FNHIS - Fundo Nacional de Habitação de Interesse Social no valor de R$ 3.250.000,00 (três milhões duzentos e cinquenta mil reais);
+
+
+II –
+
+Convênio com o Ministério da Saúde para aquisições de equipamentos através da Emenda Parlamentar da Deputada Maria Rosa no valor de R$ 149.964,00 (cento e quarenta e nove mil, novecentos e sessenta e quatro reais;
+
+
+III –
+
+Convênio com o Ministério da Saúde para aquisição de unidade móvel de saúde através da Emenda Parlamentar da Deputada Ely Santos no valor de R$ 495.000,00 (quatrocentos e noventa e cinco mil reais);
+
+
+IV –
+
+Convênio com o Ministério das Cidades para pavimentação asfáltica de vias do centro da cidade através da Emenda Parlamentar do Deputado Antonio Carlos Rodrigues no valor de R$ 396.000,00 (trezentos e noventa e seis mil reais).
+
+
+Art. 3º.
+
+Ficam abertos na Contadoria Municipal, Créditos Adicionais Suplementares no valor de R$ 300.000,00 (trezentos mil reais) com as seguintes classificações orçamentárias:
+
+
+02 - PODER EXECUTIVO  
+  
+02.10.00 - DEPARTAMENTO DE SAÚDE  
+02.10.01 - FUNDO MUNICIPAL DE SAÚDE - ATENÇÃO BÁSICA EM SAÚDE  
+3.0.00.00.00 - DESPESAS CORRENTES  
+3.3.00.00.00 - OUTRAS DESPESAS CORRENTES  
+3.3.90.00.00 - APLICAÇÕES DIRETAS  
+3.3.90.32.00 - MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUÍTA  
+10.301.0036.2065 - MANUT. DA ATENÇÃO BÁSICA EM SAÚDE (DR 02.310.000) ....R$ 100.000,00  
+  
+02 - PODER EXECUTIVO  
+  
+02.10.00 - DEPARTAMENTO DE SAÚDE  
+02.10.01 - FUNDO MUNICIPAL DE SAÚDE - ATENÇÃO BÁSICA EM SAÚDE  
+3.0.00.00.00 - DESPESAS CORRENTES  
+3.3.00.00.00 - OUTRAS DESPESAS CORRENTES  
+3.3.90.00.00 - APLICAÇÕES DIRETAS  
+3.3.90.39.00 - OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA  
+10.301.0036.2065 - MANUT. DA ATENÇÃO BÁSICA EM SAÚDE (DR 02.310.000) ....R$ 200.000,00
+
+
+Art. 4º.
+
+A cobertura dos Créditos Adicionais Suplementares abertos pelo artigo anterior desta Lei, serão provenientes dos recursos oriundos de convênios conforme seguem:
+
+
+I –
+
+Convênio com a Secretaria de Estado da Saúde para aquisições de medicamentos oriundos de ordens judiciais através da Emenda Parlamentar do Deputado Capitão Telhada no valor de R$ 100.000,00 (cem mil reais); e
+
+
+II –
+
+Convênio com a Secretaria de Estado da Saúde para serviços médicos da Emenda Parlamentar da Deputada Dani Alonso no valor de R$ 200.000,00 (duzentos mil reais).
+
+
+Art. 5º.
+
+Fica aberto na Contadoria Municipal, Crédito Adicional Especial no valor de R$ 125.000,00 (cento e vinte e cinco mil reais) com as seguintes classificações orçamentárias:
+
+
+02 - PODER EXECUTIVO  
+  
+02.09.00 - DEPARTAMENTO DE ESPORTE E LAZER  
+02.09.01 - FUNDO MUNICIPAL DE APOIO AO ESPORTE E LAZER  
+4.0.00.00.00 - DESPESAS DE CAPITAL  
+4.4.00.00.00 - INVESTIMENTOS  
+4.4.90.00.00 - APLICAÇÕES DIRETAS  
+4.4.90.51.00 - OBRAS E INSTALAÇÕES  
+27.812.0035.1010 - OBRAS DE COMBATE PARA PREVENÇÃO DE INCÊNDIOS (01.110.000) ....R$ 125.000,00
+
+
+Art. 6º.
+
+A cobertura do Crédito Adicional Especial abertos pelo artigo anterior desta Lei, será proveniente da redução do seguinte recurso orçamentário:
+
+
+02 - PODER EXECUTIVO  
+  
+02.03.00 - DEPARTAMENTO DE ADMINISTRAÇÃO  
+02.03.05 - ENCARGOS SOCIAIS  
+3.0.00.00.00 - DESPESAS CORRENTES  
+3.3.00.00.00 - OUTRAS DESPESAS CORRENTES  
+3.3.90.00.00 - APLICAÇÕES DIRETAS  
+3.3.90.91.00 - SENTENÇAS JUDICIAIS  
+28.843.0015.2031 - PRECATÓRIOS (01.110.000) ....R$ 125.000,00
+
+
+Art. 7º.
+
+Fica o Executivo autorizado a fazer as alterações nas peças de Planejamentos em vigor.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Bofete, em 09 de fevereiro de 2026.  
+  
+EUGENIO CARLOS ALVES  
+PREFEITO MUNICIPAL
+

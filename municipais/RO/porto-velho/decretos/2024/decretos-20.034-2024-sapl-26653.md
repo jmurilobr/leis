@@ -1,0 +1,80 @@
+---
+titulo: "Decreto-SEMPOG nº 20.034, de 03 de junho de 2024"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "20.034"
+data: "2024-06-03"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/26653"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/6711/text"
+sha256_fonte: "19ce7244d043bf6df034ec4ac0dda9c0ed14899cd696aaa941201f9ad5bc395f"
+sha256_texto: "00e4679387814bb6f607f8ccd5726acf5894ecd019df4edfed3b347cbfd1961d"
+capturado_em_fonte: "2026-10-21T04:25:32.532213-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 20.034, de 03 de junho de 2024
+
+Abre no Orçamento Anual do Município de Porto Velho Crédito Adicional Suplementar, e dá outras providências.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, amparado pelo Art. 6º da Lei n.º 3.130, de 20 de dezembro de 2023;
+
+Considerando o Ofício n.º 71/DIOF/DA/GAB/SEMOB, de 28de maio de 2024, pelo qual a Secretaria Municipal de Obras e Pavimentação - SEMOB, solicita suplementação de recursos para cobertura de despesas com a Construção do Novo Terminal Rodoviário de Porto Velho através da Contrapartida do Convênio n.° 933764/2022 - Etapa II, celebrado entre a União, por intermédio do Ministério da Defesa e o Município de Porto Velho - RO, constante no Processo Administrativo n.° 00600-00016135/2022;
+
+Considerando o Ofício n.º 72/DIOF/DA/GAB/SEMOB, de 28de maio de 2024, pelo qual a Secretaria Municipal de Obras e Pavimentação - SEMOB, solicita suplementação de recursos para cobertura de despesas com a Construção do Novo Terminal Rodoviário de Porto Velho referente ao reajuste do Contrato n.° 023/PGM/2023 (Convênios n.° 915518/2021 e n.° 933764/2022), celebrado entre a União, por intermédio do Ministério da Defesa e o Município de Porto Velho - RO, constante no Processo Administrativo n.° 00600-00016135/2022;
+
+Considerando o Ofício n.° 114/2024/DEC/SUFIN/SEMFAZ, de 25 de março de 2024, oriundo da Secretaria Municipal de Fazenda – SEMFAZ que apresenta o demonstrativo do Superávit Financeiro apurado no Balanço Patrimonialdo exercício de 2023,
+
+**D E C R E T A:**
+
+
+Art. 1º.
+
+Fica aberto no Orçamento do Município de Porto Velho, Crédito Adicional Suplementar no valor de R$ 5.820.096,97 (cinco milhões, oitocentos e vinte mil, noventa e seis reais e noventa e setecentavos).
+
+
+Art. 2º.
+
+Os recursos necessários à execução do disposto no artigo anterior são decorrentes de Superávit Financeiro apurado no Balanço Patrimonial do Município no exercício de 2023, observado os preceitos do Inciso I, Parágrafo 1º do Art. 43, da Lei n.º 4.320 de 17 de março de 1964, consignados no orçamento na sequência detalhada:
+
+<table><tbody><tr><td colspan="6"><p><strong>11.00 – SECRETARIA MUNICIPAL DE OBRAS E PAVIMENTAÇÃO - SEMOB</strong></p></td></tr><tr><td colspan="6"><p><strong>11.01 – SECRETARIA MUNICIPAL DE OBRAS E PAVIMENTAÇÃO - SEMOB</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DE DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>SUPLEMENTA R$</strong></p></td></tr><tr><td><p>11.01.15.451.154.1.454</p></td><td><p>Projetos e obras Especiais de Infraestrutura</p></td><td><p>FIS</p></td><td><p>4.4.90.51</p></td><td><p>2.709.0000.0000</p></td><td><p>5.820.096,97</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>5.820.096,97</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>5.820.096,97</strong></p></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 19.668, de 20 de dezembro de 2023 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 19.669, de 20 de dezembro de 2023.
+
+
+Art. 4º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Art. 5º.
+
+Revogam-se as disposições em contrário.
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***SERGIO LUIZ PACÍFICO***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto
+

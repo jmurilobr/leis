@@ -1,0 +1,223 @@
+---
+titulo: "Lei Complementar nº 10, de 01 de novembro de 2006"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "10"
+data: "2006-11-01"
+municipio: "Brasilândia de Minas"
+uf: "MG"
+codigo_ibge: "3108552"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.brasilandiademinas.mg.leg.br/norma/258"
+fonte_texto: "https://sapl.brasilandiademinas.mg.leg.br/ta/892/text"
+sha256_fonte: "3f90c70214d15f5f87e29e9f315ba1b06af5ae312684f4923bf85e4c0f9e55fa"
+sha256_texto: "ba0912b72e005ca774b84bb154f7cfa4697e382536f84ea4f3c8edec15922250"
+capturado_em_fonte: "2026-10-27T19:56:37.095001-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 10, de 01 de novembro de 2006
+
+Dispõe sobre a contratação por tempo determina de-pard Standar a necessidade temporária de excepcional interesse público, nos termos do inciso IX do art. 37 da Constituição Federal, e de outras providencias
+
+
+O PREFEITO MUNICIPAL DE BRASILÄNDIA DE MINAS-MG faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei
+
+
+Art. 1º.
+
+Para atender a necessidade temporária de excepcional interesse público, os órgãos da Administração Municipal poderão efetuar contratação de pessoal por tempo determinado, nas condições e prazos previstos nesta Lei Complementar.
+
+
+Art. 2º.
+
+Considera-se necessidade temporária de excepcional interesse público:
+
+
+I –
+
+assistência a situações de calamidade pública;
+
+
+II –
+
+combate a surtos endêmicos;
+
+
+III –
+
+realização de recadastramento e outras pesquisas de natureza estatística;
+
+
+IV –
+
+admissão de professor substituto;
+
+
+V –
+
+admissão de profissionais técnicos do Magistério Público Municipal
+
+
+VI –
+
+admissão de profissionais da área de saúde em substituição ou para desenvolvimento de atividades da saúde ou de programas especiais de saúde conveniados com os Governos Federal e Estadual;
+
+
+VII –
+
+admissão de pessoal necessário à manutenção das atividades de limpeza urbaña, vigilância, transporte, obras e burocráticos em geral, até que se ultime a realização de concurso público que dar-se-á no prazo máximo de 06 (seis) meses após a data que se verificar e constatar a necessidade da contratação:
+
+
+§ 1º
+
+A contratação de professor substituto a que se refere o inciso IV far-se-á exclusivamente para suprir a falta de docente da carreira, decorrente de exoneração ou demissão, falecimento, aposentadoria, afastamento para capacitação e afastamento ou licença de concessão obrigatória
+
+
+§ 2º
+
+As contratações para substituir professores afastados para capacitação ficam limitadas a dez por cento do total de cargos de docentes da carreira constante do quadro de lotação da instituição.
+
+
+§ 3º
+
+As contratações temporárias previstas no caput deste artigo, excetuada a prevista no inciso IV com o limite expresso no § 2º, para as hipóteses constantes dos incisos II, III, V, VI, VII, limitar-se-ão a 40% das vagas existentes, dos cargos públicos efetivos da Administração Municipal, compativeis com as atribuições dos mesmos previstas na Lei Complementar nº 002/2002.
+
+
+§ 4º
+
+A contratação de pessoal, nos casos previstos nesta Lei, poderão ser efetivadas à vista de notória capacidade técnica ou cientifica do profissional, mediante análise do curriculum vitae
+
+
+Art. 3º.
+
+As contratações serão feitas por tempo determinado, limitando-se ao prazo máximo de 06 (seis) meses, que poderão ter a sua duração prorrogada por uma vez, para igual período.
+
+
+Art. 4º.
+
+As contratações somente poderão ser feitas com observância da dotação orçamentária especifica e mediante prévia autorização do Prefeito Municipal e do Secretário Municipal sob cuja supervisão se encontrar o órgão ou entidade contratante.
+
+
+Art. 5º.
+
+É proibida a contratação, nos termos desta Lei, de servidores da Administração direta ou indireta da União, dos Estados, do Distrito Federal e de outros Municípios, bem como de empregados ou servidores de suas subsidiarias e controladas.
+
+
+§ 1º
+
+Excetua-se do disposto no caput deste artigo, condicionada a formal comprovação da compatibilidade de horários, a contratação de:
+
+
+I –
+
+professor substituto,
+
+
+II –
+
+profissionais de saúde com diplomas em profissões da área da saúde regulamentadas.
+
+
+§ 2º
+
+Sem prejuízo da nulidade do contrato, a infração do disposto neste artigo importará responsabilidade administrativa da autoridade contratante e do contratado, inclusive, se for o caso, solidariedade quanto à devolução dos valores pagos ao contratado.
+
+
+Art. 6º.
+
+A remuneração do pessoal contratado nos termos desta Lei será fixada em igualdade com a remuneração fixada para os servidores de início de carreira das mesmas categorias, nos planos de retribuição ou nos quadros de cargos e salários do órgão ou entidade contratante.
+
+
+Parágrafo único
+
+A remuneração do pessoal contratado será revisada na mesma data e índice que ocorrer a revisão geral anual das remunerações e subsídios dos servidores públicos municipais.
+
+
+Art. 7º.
+
+Ao pessoal contratado nos termos desta Lei, será concedido férias regulamentares e abono de férias, e décimo terceiro salário, ficando vedado ao contratado:
+
+
+I –
+
+receber atribuições, funções ou encargos não previstos no respectivo contrato;
+
+
+II –
+
+ser nomeado ou designado, ainda que a título precário ou em substituição, para o exercício de cargo em comissão ou função de confiança,
+
+
+III –
+
+ser novamente contratado, com fundamento nesta Lei, antes de decorridos doze meses do encerramento de seu contrato anterior, salvo na hipótese prevista no inciso VI do art. 2º, mediante prévia autorização.
+
+
+Parágrafo único
+
+A inobservância do disposto neste artigo importará na rescisão do contrato, sem prejuízo da responsabilidade administrativa das autoridades envolvidas na transgressão
+
+
+Art. 8º.
+
+As infrações disciplinares atribuídas ao pessoal contratado nos termos desta Lei serão apuradas mediante sindicância, concluída no prazo de trinta dias e assegurada ampla defesa.
+
+
+Art. 9º.
+
+O contrato firmado de acordo com esta Lei extinguir-se-á, sem direito a indenizações
+
+
+I –
+
+pelo término do prazo contratual;
+
+
+II –
+
+por iniciativa do contratante, observado o interesse público;
+
+
+III –
+
+por iniciativa do contratado.
+
+
+IV –
+
+pela extinção ou conclusão do projeto, definidos pelo contratante:
+
+
+Art. 10.
+
+O tempo de serviço prestado em virtude de contratação nos termos desta Lei será contado para todos os efeitos.
+
+
+Art. 11.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 12.
+
+Revogam-se as disposições em contrário, especialmente os artigos 53, 54, 55 e 56 da Lei Complementar nº 002/2002.
+
+
+Brasilândia de Minas-MG, 01 de novembro de 2006.
+
+**JOÃO CARDOSO DO COUTO**
+
+**Prefeito Municipal**
+
+**JOSÉ VALTINHO DO AMARAL**
+
+**Secretario Municipal de Administração e Planejamento**
+
+**JOÃO DONIZETH DA SILVA**
+
+**Secretário Municipal de Fazenda**
+

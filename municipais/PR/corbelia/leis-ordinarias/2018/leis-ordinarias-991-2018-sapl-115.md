@@ -1,0 +1,139 @@
+---
+titulo: "04 - Lei Ordinária nº 991, de 21 de fevereiro de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "991"
+data: "2018-02-21"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/115"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/199/text"
+sha256_fonte: "f80a6971f5d50c1f768a67d11481624a075cc9289fbe9666fc377c296c4d9cee"
+sha256_texto: "c2bd65ace0dac825e5097703c0a4eae3813fd5387af0f337d2461a42ef9a1080"
+capturado_em_fonte: "2026-10-28T06:08:36.922386-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 991, de 21 de fevereiro de 2018
+
+Dispõe sobre a inclusão do elemento de despesa 3.3.90.93.00.00 no orçamento de 2018, e no PPA 2018-2021, e autoriza a abertura de crédito Especial por anulação de dotação, e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a alterar os anexos do PLANO PLURIANUAL para o quadriênio 2018 a 2021, da Lei nº 974 de 21/12/2017- PPA, e alterar a Lei nº 983 de 21/12/2017- LOA 2018, incluindo o elemento de despesa 3.3.90.93.00.00 –Indenizações e Restituições, nas seguintes unidades orçamentárias, e suplementá-los, utilizando o cancelamento/anulação de dotações.
+
+
+Art. 2º.
+
+Fica o Chefe do Executivo autorizado a ABRIR CRÉDITO ESPECIAL, no valor de R$ 20.000,00 (vinte mil reais) para atender as dotações abaixo discriminadas.
+
+
+I - suplementação:
+
+**Programáticas**
+
+01.000.00.000.0000.0.000. LEGISLATIVO MUNICIPAL
+
+01.001.00.000.0000.0.000. CÂMARA MUNICIPAL
+
+01.001.01.031.0010.2.001. MANUTENÇÃO ATIVIDADES DO LEGISLATIVO
+
+3.3.90.93.00.00 1001 Indenizações e Restituições 5.000,00
+
+06.000.00.000.0000.0.000. SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA
+
+06.003.00.000.0000.0.000. DEPARTAMENTO DE ENSINO FUNDAMENTAL
+
+06.003.12.361.0220.2.250. MANUTENÇÃO DEPARTAMENTO DE ENSINO FUNDAMENTAL
+
+3.3.90.93.00.00 1103 Indenizações e Restituições 5.000,00
+
+07.000.00.000.0000.0.000. SECRETARIA DE SAÚDE
+
+07.002.00.000.0000.0.000. FUNDO MUNICIPAL DE SAÚDE
+
+07.002.10.301.0170.2.290. MANUTENÇÃO DEPARTAMENTO DE ATENDIMENTO
+
+PRIMÁRIO E SAÚDE COMUNITÁRIA
+
+3.3.90.93.00.00 1303 Indenizações e Restituições 10.000,00
+
+**Total das suplementações R$ 20.000,00**
+
+II - redução cancelamento/anulação:
+
+**Programáticas**
+
+01.000.00.000.0000.0.000. LEGISLATIVO MUNICIPAL
+
+01.001.00.000.0000.0.000. CÂMARA MUNICIPAL
+
+01.001.01.031.0010.2.001. MANUTENÇÃO ATIVIDADES DO LEGISLATIVO
+
+3.3.90.30.00.00 1001 Material de consumo 5.000,00
+
+06.000.00.000.0000.0.000. SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA
+
+06.003.00.000.0000.0.000. DEPARTAMENTO DE ENSINO FUNDAMENTAL
+
+06.003.12.361.0220.2.250. MANUTENÇÃO DEPARTAMENTO DE ENSINO FUNDAMENTAL
+
+3.3.90.30.00.00 1103 Material de conumo 5.000,00
+
+07.000.00.000.0000.0.000. SECRETARIA DE SAÚDE
+
+07.002.00.000.0000.0.000. FUNDO MUNICIPAL DE SAÚDE
+
+07.002.10.301.0170.2.290. MANUTENÇÃO DEPARTAMENTO DE ATENDIMENTO
+
+PRIMÁRIO E SAÚDE COMUNITÁRIA
+
+3.3.90.30.00.00 1303 Material de consumo 10.000,00
+
+**Total das reduções R$ 20.000,00**
+
+
+Art. 3º.
+
+São recursos destinados à abertura desse CRÉDITO ESPECIAL, os provenientes do cancelamento de dotações conforme disposto no Art. 43, § 1º, inciso III, da Lei 4320 de 17 de março de 1964.
+
+
+Art. 4º.
+
+A abertura deste CRÉDITO ESPECIAL, tem por finalidade suprir as omissões da Lei Orçamentária para o ano de 2018 e ao mesmo tempo adequar a LDO e o PPA 2018-2021 à inclusão do novo elemento de despesa.
+
+
+Art. 5º.
+
+As demais legislações orçamentárias municipais, se necessário, deverão se compatibilizar com o Plano Plurianual em virtude das alterações contidas nesta Lei.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná
+
+Em 21 de fevereiro de 2018, 57º da Emancipação Política.
+
+GIOVANI MIGUEL WOLF HNATUW
+
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 515 de 21/02/2018, pág. 09-10.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/115/ta
+

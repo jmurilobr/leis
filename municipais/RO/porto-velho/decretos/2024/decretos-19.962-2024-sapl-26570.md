@@ -1,0 +1,78 @@
+---
+titulo: "Decreto-SEMPOG nº 19.962, de 07 de maio de 2024"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "19.962"
+data: "2024-05-07"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/26570"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/6747/text"
+sha256_fonte: "2024bc5b4e5cebbdbf277a4b4b82db0386338dc93970b8f55b5aa65abbbbc6d2"
+sha256_texto: "7748b07bf6c09b3bba47bae4e110404afb168b2620b8aa927b014bfaa3e148eb"
+capturado_em_fonte: "2026-10-21T04:30:32.949737-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 19.962, de 07 de maio de 2024
+
+Abre no Orçamento Anual do Município de Porto Velho Crédito Adicional Suplementar, e dá outras providências.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, amparado pelo Art. 6º da Lei n.º 3.130, de 20 de dezembro de 2023;
+
+Considerando o Ofício n.º 51/20254/DGA/DAA/SMD, de 09 de abril de 2024, pelo qual a Superintendência Municipal de Integração Distrital - SMD, solicita suplementação orçamentária referente a devolução de recursos dos Convênios Plataforma + Brasil n.° 938342/2022 e n.° 939168/2022;
+
+Considerando o Ofício n.° 077/2024/DEC/SUFIN/SEMFAZ, de 13 de março de 2024, oriundo da Secretaria Municipal de Fazenda – SEMFAZ que apresenta o demonstrativo do Superávit Financeiro apurado no Balanço Patrimonialdo exercício de 2023,
+
+**D E C R E T A:**
+
+
+Art. 1º.
+
+Fica aberto no Orçamento do Município de Porto Velho, Crédito Adicional Suplementar no valor de R$ 150.699,77 (cento e cinquenta mil, seiscentos e noventa e nove reais e setenta e setecentavos).
+
+
+Art. 2º.
+
+Os recursos necessários à execução do disposto no artigo anterior são decorrentes de Superávit Financeiro apurado no Balanço Patrimonial do Município no exercício de 2023, observado os preceitos do Inciso I, Parágrafo 1º do Art. 43, da Lei n.º 4.320 de 17 de março de 1964, consignados no orçamento na sequência detalhada:
+
+<table><tbody><tr><td colspan="6"><p><strong>02.00 – SECRETARIA GERAL DE GOVERNO - SGG</strong></p><p> </p></td></tr><tr><td colspan="6"><p><strong>02.71 – SUPERINTENDÊNCIA MUNICIPAL DE INTEGRAÇÃO DISTRITAL - SMD</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DE DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>SUPLEMENTA R$</strong></p></td></tr><tr><td><p>02.71.04.122.286.2.746</p></td><td><p>Plano de Desenvolvimento Distrital</p></td><td><p>FIS</p></td><td><p>3.3.90.93</p></td><td><p>2.700.0000.0000</p></td><td><p>150.699,77</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>150.699,77</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>150.699,77</strong></p></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 19.668, de 20 de dezembro de 2023 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 19.669, de 20 de dezembro de 2023.
+
+
+Art. 4º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Art. 5º.
+
+Revogam-se as disposições em contrário.
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***SERGIO LUIZ PACÍFICO***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto
+

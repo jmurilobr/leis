@@ -1,0 +1,185 @@
+---
+titulo: "LEI ORDINÁRIA nº 204, de 12 de julho de 2005"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "204"
+data: "2005-07-12"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/328"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/221/text"
+sha256_fonte: "a5aaaa78531e3312fce099b8e4ff4b9d9d77864fccc136e48e01e115aaf50655"
+sha256_texto: "879dfe929069915690dd658d53f156521fe1bfc92a97f4288f259c192d815450"
+capturado_em_fonte: "2026-10-27T20:35:01.110789-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 204, de 12 de julho de 2005
+
+Cria o Conselho Municipal de Segurança Alimentar e Nutricional – COMSEA, e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE CABECEIRA GRANDE (MG); Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal de Segurança Alimentar e Nutricional – COMSEA, de caráter consultivo, constituindo-se em espaço de articulação entre o Governo Municipal e a sociedade civil para a formulação de diretrizes para políticas e ações na área da segurança alimentar e nutricional
+
+
+Art. 2º.
+
+Cabe ao Conselho Municipal de Segurança Alimentar e Nutricional – COMSEA estabelecer diálogo permanente entre o Governo Municipal e as organizações sociais nele representadas, com o objetivo de assessorar a Prefeitura do Município de Cabeceira Grande na formulação de políticas públicas e na definição de diretrizes e prioridades que visem a garantia do direito humano à alimentação.
+
+
+Art. 3º.
+
+. Compete ao Conselho Municipal de Segurança Alimentar e Nutricional – COMSEA do Município de Cabeceira Grande propor e pronunciar-se sobre:
+
+
+I –
+
+as diretrizes da política municipal de segurança alimentar e nutricional, a serem implementadas pelo Governo;
+
+
+II –
+
+os projetos e ações prioritárias da política municipal de segurança alimentar e nutricional, a serem incluídos, anualmente, na lei de diretrizes orçamentárias e no orçamento do Município de Cabeceira Grande;
+
+
+III –
+
+as formas de articular e mobilizar a sociedade civil organizada, no âmbito da política municipal de segurança alimentar e nutricional, indicando prioridades;
+
+
+IV –
+
+a realização de estudos que fundamentem as propostas ligadas à segurança alimentar e nutricional;
+
+
+V –
+
+a organização e implementação das conferências municipais de segurança alimentar e nutricional.
+
+
+Parágrafo único
+
+. Compete, também, ao COMSEA estabelecer relações de cooperação com conselhos municipais de segurança alimentar e nutricional de municípios da região e com os Conselhos Estadual e Nacional de Segurança Alimentar e Nutricional.
+
+
+Art. 4º.
+
+O Conselho Municipal de Segurança Alimentar – COMSEA de Cabeceira Grande será composto, por no mínimo, 12 (doze) conselheiros, sendo 8 (oito) representantes da sociedade civil organizada e 4 (quatro) representantes do governo municipal, preferencialmente, ou por no mínimo maioria de representantes da sociedade civil organizada.
+
+
+§ 1º
+
+º Caberá ao governo municipal definir seus representantes, incluindo as secretarias afins ao tema segurança alimentar.
+
+
+§ 2º
+
+Os representantes da sociedade civil serão indicados e articulados pelo Fórum Municipal de Segurança Alimentar.
+
+
+§ 3º
+
+As instituições representadas no COMSEA devem ter efetiva atuação no município, especialmente as que trabalham com alimentos, nutrição, educação e organização popular
+
+
+§ 4º
+
+O COMSEA será instituído através de decreto do Chefe do Poder Executivo, contendo a indicação dos conselheiros governamentais e não-governamentais, com seus respectivos suplentes.
+
+
+§ 5º
+
+Os conselheiros suplentes substituirão os titulares em seus impedimentos, nas reuniões do COMSEA e de suas câmaras temáticas, com direito a voz e voto.
+
+
+§ 6º
+
+O mandato dos membros representantes da sociedade civil no COMSEA será de dois anos, sendo admitidas duas reconduções consecutivas
+
+
+§ 7º
+
+A ausência às reuniões plenárias deve ser justificada em comunicação por escrito à presidência com antecedência de no mínimo três dias, ou três dias posteriores, se imprevisível a falta.
+
+
+§ 8º
+
+O COMSEA será presidido por um conselheiro representante da sociedade civil, escolhido por seus pares, na reunião de instalação do Conselho.
+
+
+§ 9º
+
+Na ausência do presidente será escolhido pelo plenário um representante civil para presidir a reunião.
+
+
+§ 10
+
+Poderão ser convidados a participar das reuniões do COMSEA, sem direito a voto, titulares de outros órgãos ou entidades públicas, bem como pessoas que representem a sociedade civil, sempre que da pauta constarem assuntos de sua área de atuação.
+
+
+§ 11
+
+O COMSEA terá como convidados permanentes, na condição de observadores, um representante de cada um dos Conselhos Municipais existentes.
+
+
+§ 12
+
+A participação dos conselheiros no COMSEA não será remunerada, sendo considerada serviço de relevante interesse público.
+
+
+Art. 5º.
+
+O Conselho Municipal de Segurança Alimentar – COMSEA de Cabeceira Grande contará com Câmaras Temáticas permanentes, que prepararão as propostas a serem por ele apreciadas.
+
+
+§ 1º
+
+As Câmaras Temáticas serão compostas por conselheiros designados pelo plenário do COMSEA, observadas as condições estabelecidas no seu regimento interno.
+
+
+§ 2º
+
+º Na fase de elaboração das propostas a serem submetidas ao plenário do COMSEA, as Câmaras Temáticas poderão convidar representantes de entidades da sociedade civil, de órgãos e entidades públicas e técnicos afetos aos temas nelas em estudo.
+
+
+Art. 6º.
+
+O Conselho Municipal de Segurança Alimentar – COMSEA de Cabeceira Grande poderá instituir grupos de trabalho, de caráter temporário, para estudar e propor medidas específicas.
+
+
+Art. 7º.
+
+Cabe ao governo municipal assegurar ao Conselho Municipal de Segurança Alimentar – COMSEA de Cabeceira Grande contará, assim como às suas Câmaras Temáticas e grupos de trabalho, os meios necessários ao exercício de suas competências, incluindo suporte administrativo e técnico e recursos financeiros assegurados no orçamento do município.
+
+
+Art. 8º.
+
+O Conselho Municipal de Segurança Alimentar – COMSEA de Cabeceira Grande reunir-se-á, ordinariamente, em sessões mensais e, extraordinariamente, quando convocado por seu presidente ou, pelo menos, pela metade de seus membros, com antecedência mínima de cinco dias.
+
+
+Art. 9º.
+
+O Conselho Municipal de Segurança Alimentar – COMSEA de Cabeceira Grande elaborará seu regimento interno em até sessenta dias, a contar da data de sua instalação.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**Cabeceira Grande (MG), 12 de Julho de 2005.**
+
+**ANTONIO NAZARÉ SANTANA MELO Prefeito Municipal**
+
+**"Este texto não substitui o original"**
+

@@ -1,0 +1,109 @@
+---
+titulo: "LEI ORDINÁRIA-CMC nº 909, de 29 de maio de 2001"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "909"
+data: "2001-05-29"
+municipio: "Claraval"
+uf: "MG"
+codigo_ibge: "3116407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.claraval.mg.leg.br/norma/1292"
+fonte_texto: "https://sapl.claraval.mg.leg.br/ta/623/text"
+sha256_fonte: "154bcf7f129a8eb1409e9f1497a4183f99259a394df1b3563834a7a3426e1176"
+sha256_texto: "25650ab7531191126fd1000d4f67ee024c88f8f5027e41b8b4b977e203315b4c"
+capturado_em_fonte: "2026-10-27T23:04:46.116840-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA-CMC nº 909, de 29 de maio de 2001
+
+"Dispõe sobre a instituição do Programa de Renda Mínima" / “Bolsa -Escola" e dá outras providencias".
+
+
+JUSCELINO BATISTA BORGES, Prefeito Municipal de Claraval, Estado de Minas Gerais, em pleno exercício do seu cargo e usando das atribuições que lhe são conferidas por lei, FAZ SABER que a Câmara Municipal local APROVOU e ele, em seu nome, SANCIONA e PROMULGA a seguinte lei:
+
+
+Art. 1º.
+
+Fica criado o Programa de Renda Mínima vinculada à educação - "Bolsa-Escola"-, criado pela Medida Provisória nº 2.140, serão destinados exclusivamente às famílias que preencherem as seguintes condições, cumulativamente:
+
+
+I –
+
+ter renda familiar per capita inferior a meio salário mínimo;
+
+
+II –
+
+ter filhos e/ou dependentes com idade entre 6 e 15 anos matriculados em estabelecimento de ensino fundamental;
+
+
+III –
+
+comprovação de residência no município.
+
+
+§ 1º
+
+Considera-se família a unidade nuclear, eventualmente ampliada por outros indivíduos que com ela possuam laços de parentesco que forme um grupo doméstico, vivendo sob o mesmo teto e mantendo sua economia pela contribuição de seus membros.
+
+
+§ 2º
+
+Serão computados para cálculo da renda familiar os rendimentos de todos os adultos que compõem a família, inclusive os valores concedidos por programas federais instituídos de acordo com preceitos constitucionais, tais como previdência rural, seguro-desemprego e renda mínima a idosos e deficientes, bem como programas estaduais e municipais de complementação pecuniária.
+
+
+Art. 3º
+
+No âmbito deste município, caberá à Secretaria Municipal de Educação (Setor de Educação, Cultura, Esporte e Lazer), a implantação do Programa ora instituído.
+
+
+Art. 4º
+
+Fica autorizado o Poder Executivo a criar CONSELHO MUNICIPAL DE CONTROLE SOCIAL, com, no mínimo 50% (cinquenta por cento) de participação da sociedade civil, para acompanhamento e avaliação da execução do Programa desta município, composto por representantes:
+
+
+I –
+
+Poder Executivo;
+
+
+II –
+
+Poder Legislativo;
+
+
+III –
+
+Professores;
+
+
+IV –
+
+Pais de alunos.
+
+
+Art. 5º
+
+O Setor de Educação, Cultura, Esporte e Lazer e o Conselho Municipal de Controle Social devem trabalhar em parceria na execução do Programa.
+
+
+Art. 6º
+
+Ao Setor de Educação, Cultura, Esporte e Lazer e ao Conselho Municipal de Controle Social competem a elaboração de normas que disciplinarão os mecanismos de inscrição e seleção das famílias, bem como de execução do Programa, de acordo com os critérios estabelecidos nesta Lei, na Medida Provisória nº 2.140, de 13 fevereiro de 2001 e subsequentes, e no Regulamento a ser editado por Decreto Municipal.
+
+
+Art. 7º
+
+Revogam-se as disposições em contrário, entrando a presente Lei em vigor na data de sua publicação.
+
+
+Claraval, 29 de maio de 2001.
+
+JUSCELINO BATISTA BORGES  
+Prefeito Municipal
+

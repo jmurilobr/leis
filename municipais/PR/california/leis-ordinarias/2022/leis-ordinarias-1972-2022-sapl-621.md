@@ -1,0 +1,443 @@
+---
+titulo: "Lei Ordinária Municipal nº 1.972, de 11 de novembro de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "1972"
+data: "2022-11-11"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/621"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/75/text"
+sha256_fonte: "567ac2d8a943c7b4ebe93b748b7b321f5bf97b45f672c58d064fc44a709ec950"
+sha256_texto: "04d75d6d1e5f33653ecb40462477d9992f2b01bc1328fd281e48958c179dcb89"
+capturado_em_fonte: "2026-10-27T22:23:12.366565-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 1.972, de 11 de novembro de 2022
+
+Autoriza o Executivo Municipal a efetuar a abertura de Crédito Adicional Suplementar no Orçamento para 2022 do Município de Califórnia – PR.
+
+
+A Câmara Municipal de Califórnia, Estado do Paraná, aprovou e eu Paulo Wilson Mendes, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a abrir no corrente exercício financeiro, um crédito adicional SUPLEMENTAR para o exercício de 2022, no valor de R$ 3.195.700,00 (três milhões, cento e noventa e cinco mil e setecentos reais), destinados ao reforço das seguintes Dotações Orçamentárias:
+
+**Suplementação**
+
+**02 GABINETE DO PREFEITO**
+
+**02.001 Chefia de Gabinete**
+
+**02.001.04.122.0004.2.002. Assessoramento Superior**
+
+1 - 3.1.90.11.00.00 01000 VENCIMENTOS E VANTAGENS FIXAS – PESSOAL 11.500,00
+
+**02.002 Assessoria Jurídica**
+
+**02.002.02.062.0002.2.003. Assessoria Jurídica**
+
+9 - 3.1.90.11.00.00 01000 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 30.000,00
+
+10 - 3.1.90.13.00.00 01000 OBRIGAÇÕES PATRONAIS 8.000,00
+
+**02.003 Assessoria de Planejamento e Controle**
+
+**02.003.04.121.0003.2.004. Manutenção do Setor de Projetos**
+
+17 - 3.1.90.11.00.00 01000 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 29.500,00
+
+18 - 3.1.90.13.00.00 01000 OBRIGAÇÕES PATRONAIS 4.000,00
+
+**02.003.04.124.0004.2.054. Manter o Controle Interno**
+
+27 - 3.1.90.11.00.00 01000 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 21.000,00
+
+**03 SECRETARIA DE ADMINISTRAÇÃO, FINANÇAS E PLANEJAMENTO**
+
+**03.004 Departamento de Recursos Humanos**
+
+**03.004.04.122.0004.2.005. Manutenção do Departamento de Recursos Humanos**
+
+36 - 3.1.90.11.00.00 01000 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 7.400,00
+
+**03.008 Departamento de Compras,Almox.Contr.Patr.Público**
+
+**03.008.04.122.0004.2.014. Manutenção do Departamento de Compras**
+
+82 - 3.1.90.11.00.00 01000 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 15.000,00 83 - 3.1.90.13.00.00 01000 OBRIGAÇÕES PATRONAIS 5.000,00
+
+**03.009 Departamento de Administração**
+
+**03.009.04.122.0004.2.015. Manutenção do Departamento de Administração**
+
+91 - 3.1.90.11.00.00 01000 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 57.000,00 478 - 3.1.90.46.00.00 01000 AUXÍLIO-ALIMENTAÇÃO 77.300,00
+
+**04 SECRETARIA DE TRANSPORTE, OBRAS E SERV. PUBLICO**
+
+**04.010 Departamento de Obras e Serviços Público**
+
+04.010.15.452.0025.2.016. Manutenção do Departamento de Obras e Serviços Públicos
+
+123 - 3.1.90.11.00.00 01000 VENCIM. E VANTAGENS FIXAS – PESSOAL 249.000,00
+
+124 - 3.1.90.13.00.00 01000 OBRIGAÇÕES PATRONAIS 22.500,00
+
+**06 SECRETARIA DE ASSISTÊNCIA SOCIAL E CIDADANIA**
+
+**06.014 Secretaria de Assistência Social**
+
+**06.014.08.244.0010.2.034. Manutenção do Departamento de Assistência Social**
+
+253 - 3.1.90.11.00.00 01000 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 39.000,00
+
+254 - 3.1.90.13.00.00 01000 OBRIGAÇÕES PATRONAIS 13.000,00
+
+**06.014.08.244.0010.2.053. Manutenção do CRAS - Centro de Referência da Assistência Social**
+
+264 - 3.1.90.11.00.00 01000 VENCIMENTOS E VANTAGENS FIXAS – PESSOAL 1.000,00
+
+**07 SECRETARIA DE EDUCAÇÃO**
+
+**07.017 Departamento de Educação**
+
+**07.017.12.361.0017.2.033. Terminal de Distribuição da Merenda Escolar**
+
+294 - 3.1.90.11.00.00 01104 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 5.000,00
+
+295 - 3.1.90.13.00.00 01104 OBRIGAÇÕES PATRONAIS 2.000,00
+
+**07.017.12.361.0017.2.039. Manutenção do Transporte Escolar**
+
+587 - 3.1.90.11.00.00 01103 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 48.000,00 309 - 3.1.90.11.00.00 01104 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 32.000,00 588 - 3.1.90.13.00.00 01103 OBRIGAÇÕES PATRONAIS 15.000,00
+
+310 - 3.1.90.13.00.00 01104 OBRIGAÇÕES PATRONAIS 8.000,00
+
+**07.017.12.361.0017.2.042. Manutenção das Escolas Municipais**
+
+332 - 3.1.90.11.00.00 01104 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 200.000,00
+
+334 - 3.1.90.13.00.00 01104 OBRIGAÇÕES PATRONAIS 175.000,00
+
+**07.017.12.361.0017.2.043. FUNDEB 60% E 40% - Manutenção das Escolas Municipais**
+
+349 - 3.1.90.11.00.00 01101 VENCIMENTOS E VANTAGENS FIXAS – PESSOAL 49.000,00
+
+**07.017.12.361.0017.2.044. Manutenção do Departamento de Educação**
+
+357 - 3.1.90.13.00.00 01103 OBRIGAÇÕES PATRONAIS 9.000,00
+
+**07.017.12.361.0017.2.057. Manutenção do Clube do Irmão Caçula**
+
+372 - 3.1.90.11.00.00 01103 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 20.000,00
+
+374 - 3.1.90.13.00.00 01103 OBRIGAÇÕES PATRONAIS 8.000,00
+
+**07.017.12.365.0019.2.045. Manutenção de Centros Educacional Infantil**
+
+392 - 3.1.90.11.00.00 01104 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 80.000,00 394 - 3.1.90.13.00.00 01104 OBRIGAÇÕES PATRONAIS 40.000,00
+
+**07.017.12.365.0019.2.058. FUNDEB 60% E 40% - Manutenção dos Centros de Educação Infantil**
+
+410 - 3.1.90.11.00.00 01101 VENCIMENTOS E VANTAGENS FIXAS –PESSOA 315.000,00 412 - 3.1.90.13.00.00 01101 OBRIGAÇÕES PATRONAIS 75.000,00
+
+**11 SECRETARIA DE ESPORTE E LAZER**
+
+**11.024 Departamento de Esporte e Lazer**
+
+**11.024.27.812.0038.2.048. Manutenção do Departamento de Esportes**
+
+455 - 3.1.90.11.00.00 01000 VENCIMENTOS E VANTAGENS FIXAS – PESSOAL 10.000,00 456 - 3.1.90.13.00.00 01000 OBRIGAÇÕES PATRONAIS 1.500,00
+
+**04 SECRETARIA DE TRANSPORTE, OBRAS E SERV. PUBLICO**
+
+**04.010 Departamento de Obras e Serviços Públicos**
+
+**04.010.15.452.0025.2.016. Manutenção do Departamento de Obras e Serviços Públicos**
+
+589 - 3.1.90.11.00.00 01511 VENCIMENTOS E VANTAGENS FIXAS – PESSOAL 34.000,00
+
+590 - 3.1.90.13.00.00 01511 OBRIGAÇÕES PATRONAIS 13.000,00
+
+**05 SECRETARIA DE SAÚDE**
+
+**05.013 Secretaria de Saúde**
+
+**05.013.10.301.0012.2.022. Manutenção do Centro de Saúde**
+
+165 - 3.1.90.11.00.00 01303 VENCIMENTOS E VANTAGENS FIXAS – PESSOA 445.000,00
+
+166 - 3.1.90.13.00.00 01303 OBRIGAÇÕES PATRONAIS 135.000,00
+
+**05.013.10.301.0012.2.026. Programa de Agentes Comunitários de Saúde - PACS**
+
+202 - 3.1.90.11.00.00 01303 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 100.000,00
+
+204 - 3.1.90.13.00.00 01303 OBRIGAÇÕES PATRONAIS 60.000,00
+
+**05.013.10.301.0012.2.027. Programa de Saúde da Família - PSF**
+
+210 - 3.1.90.11.00.00 01303 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 40.000,00
+
+212 - 3.1.90.13.00.00 01303 OBRIGAÇÕES PATRONAIS 15.000,00
+
+**05.013.10.305.0016.2.028. Programa de Vigilância Epidemiológica**
+
+249 - 3.1.90.13.00.00 01303 OBRIGAÇÕES PATRONAIS 8.000,00
+
+**07 SECRETARIA DE EDUCAÇÃO 07.017 Departamento de Educação**
+
+**07.017.12.361.0017.2.043. FUNDEB 60% E 40% - Manutenção das Escolas Municipais**
+
+349 - 3.1.90.11.00.00 01101 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 351.000,00
+
+351 - 3.1.90.13.00.00 01101 OBRIGAÇÕES PATRONAIS 95.000,00
+
+**07.017.12.361.0017.2.044. Manutenção do Departamento de Educação**
+
+355 - 3.1.90.11.00.00 01103 VENCIMENTOS E VANTAGENS FIXAS – PESSOAL 27.000,00
+
+**07.017.12.365.0019.2.045. Manutenção de Centros Educacional Infantil**
+
+391 - 3.1.90.11.00.00 01103 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 145.000,00
+
+393 - 3.1.90.13.00.00 01103 OBRIGAÇÕES PATRONAIS 45.000,00
+
+**TOTAL SUPLEMENTAÇÃO: 3.195.700,00**
+
+
+Art. 2º.
+
+Para atender o disposto no Artigo 1º desta Lei, serão utilizados recursos no valor de R$ 1.682.700,00 (um milhão, seiscentos e oitenta e dois mil e setecentos reais), correspondente a **I Anulação Parcial ou Total** de dotações constantes no orçamento, de acordo com o Artigo 43, § 1º, Inciso III, da Lei Federal nº 4.320/64 e o valor de R$ 1.513.000,00 (um milhão, quinhentos e treze mil reais), resultante do **II - Excesso de arrecadação**, verificado na receita a seguir, de acordo com o Artigo 43, § 1º, Inciso II, da Lei Federal nº 4.320/64:
+
+
+I –
+
+**Anulação Parcial ou Total**
+
+**Redução**
+
+**02 GABINETE DO PREFEITO**
+
+**02.001 Chefia de Gabinete**
+
+**02.001.04.122.0004.2.002. Assessoramento Superior**
+
+2 - 3.1.90.13.00.00 01000 OBRIGAÇÕES PATRONAIS 3.000,00
+
+6 - 3.3.90.36.00.00 01000 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 1.000,00
+
+7 - 3.3.90.39.00.00 01000 OUTROS SERVIÇOS DE TERCEIROS – PESSOA JURÍD 2.000,00
+
+**02.002 Assessoria Jurídica**
+
+**02.002.02.062.0002.2.003. Assessoria Jurídica**
+
+14 - 3.3.90.36.00.00 01000 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 2.100,00
+
+15 - 3.3.90.39.00.00 01000 OUTROS SERVIÇOS DE TERCEIROS - PESSOA 1.900,00
+
+**02.003 Assessoria de Planejamento e Controle**
+
+**02.003.04.121.0003.2.004. Manutenção do Setor de Projetos**
+
+19 - 3.1.90.16.00.00 01000 OUTRAS DESPESAS VARIÁVEIS – PESSOAL 1.000,00
+
+20 - 3.3.90.14.00.00 01000 DIÁRIAS – CIVIL 1.000,00
+
+22 - 3.3.90.36.00.00 01000 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 1.000,00
+
+23 - 3.3.90.39.00.00 01000 OUTROS SERVIÇOS DE TERCEIROS - PESSOA 500,00
+
+24 - 3.3.90.40.00.00 01000 SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO- PJ 900,00
+
+25 - 3.3.90.47.00.00 01000 OBRIGAÇÕES TRIBUTÁRIAS E CONTRIBUTIVAS 1.000,00
+
+**02.003.04.124.0004.2.054. Manter o Controle Interno**
+
+28 - 3.1.90.13.00.00 01000 OBRIGAÇÕES PATRONAIS 3.000,00
+
+29 - 3.1.90.16.00.00 01000 OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL 2.000,00
+
+32 - 3.3.90.36.00.00 01000 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 2.100,00 33 - 3.3.90.39.00.00 01000 OUTROS SERVIÇOS DE TERCEIROS - PESSOA 1.000,00
+
+**03 SECRETARIA DE ADMINISTRAÇÃO, FINANÇAS E PLANEJAMENTO**
+
+**03.004 Departamento de Recursos Humanos**
+
+**03.004.04.122.0004.2.005. Manutenção do Departamento de Recursos Humanos**
+
+37 - 3.1.90.13.00.00 01000 OBRIGAÇÕES PATRONAIS 3.500,00
+
+**03.004.04.122.0004.2.006. Pagamento de Proventos a Inativos e Pensionistas**
+
+45 - 3.1.90.01.00.00 01000 APOSENTADORIAS DO RPPS, RESERVA 9.000,00
+
+**03.006 Departamento de Contabilidade**
+
+**03.006.04.123.0005.2.010. Manutenção do Departamento de Contabilidade**
+
+56 - 3.1.90.11.00.00 01000 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 5.000,00 57 - 3.1.90.13.00.00 01000 OBRIGAÇÕES PATRONAIS 2.800,00
+
+**03.007 Departamento de Tesouraria**
+
+**03.007.04.123.0005.2.013. Manutenção do Departamento de Tesouraria**
+
+73 - 3.1.90.11.00.00 01000 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 5.000,00
+
+74 - 3.1.90.13.00.00 01000 OBRIGAÇÕES PATRONAIS 1.500,00
+
+**03.009 Departamento de Administração**
+
+**03.009.04.243.0009.6.001. Manutenção do Conselho Tutelar**
+
+114 - 3.1.90.11.00.00 01000 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 5.000,00
+
+115 - 3.1.90.13.00.00 01000 OBRIGAÇÕES PATRONAIS 6.000,00
+
+**04 SECRETARIA DE TRANSPORTE, OBRAS E SERV. PUBLICO**
+
+**04.012 Departamento de Urbanismo e Infra Estrutura**
+
+**04.012.15.451.0024.1.001. Programa de Infraestrutura Urbana**
+
+161 - 4.4.90.51.00.00 01000 OBRAS E INSTALAÇÕES 10.000,00
+
+**06 SECRETARIA DE ASSISTÊNCIA SOCIAL E CIDADANIA**
+
+**06.014 Secretaria de Assistência Social**
+
+**06.014.08.244.0010.2.034. Manutenção do Departamento de Assistência Social**
+
+261 - 3.3.90.48.00.00 01000 OUTROS AUXÍLIOS FINANCEIROS A PESSOAS 30.000,00
+
+**06.014.08.244.0010.2.053. Manutenção do CRAS - Centro de Referência da Assistência Social**
+
+265 - 3.1.90.13.00.00 01000 OBRIGAÇÕES PATRONAIS 4.500,00
+
+**06.015 Fundo Municipal de Assistência Social**
+
+**06.015.08.244.0010.2.055. Programa Benefícios Eventuais**
+
+279 - 3.3.90.39.00.00 01000 OUTROS SERVIÇOS DE TERCEIROS – PESSOA 18.000,00
+
+**07 SECRETARIA DE EDUCAÇÃO**
+
+**07.017 Departamento de Educação**
+
+**07.017.12.361.0017.2.038. Transporte Escolar - FUNDEB 40%**
+
+301 - 3.1.90.11.00.00 01102 VENCIMENTOS E VANTAGENS FIXAS – PESSOA 135.000,00
+
+302 - 3.1.90.13.00.00 01102 OBRIGAÇÕES PATRONAIS 29.000,00
+
+308 - 4.4.90.52.00.00 01102 EQUIPAMENTOS E MATERIAL PERMANENTE 2.000,00
+
+**07.017.12.361.0017.2.039. Manutenção do Transporte Escolar**
+
+325 - 4.4.90.52.00.00 01103 EQUIPAMENTOS E MATERIAL PERMANENTE 5.000,00
+
+**07.017.12.361.0017.2.040. Coordenação e Distribuição da Merenda Escolar - FUNDEB 40%**
+
+326 - 3.1.90.11.00.00 01102 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 52.000,00 327 - 3.1.90.13.00.00 01102 OBRIGAÇÕES PATRONAIS 12.000,00
+
+**07.017.12.361.0017.2.042. Manutenção das Escolas Municipais**
+
+346 - 4.4.90.51.00.00 01103 OBRAS E INSTALAÇÕES 10.000,00
+
+347 - 4.4.90.52.00.00 01103 EQUIPAMENTOS E MATERIAL PERMANENTE 5.000,00
+
+**07.017.12.361.0017.2.043. FUNDEB 60% E 40% - Manutenção das Escolas Municipais**
+
+350 - 3.1.90.11.00.00 01102 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 13.000,00
+
+352 - 3.1.90.13.00.00 01102 OBRIGAÇÕES PATRONAIS 2.000,00
+
+353 - 3.1.90.16.00.00 01101 OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL 16.000,00
+
+**07.017.12.361.0017.2.044. Manutenção do Departamento de Educação**
+
+356 - 3.1.90.11.00.00 01104 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 112.000,00
+
+**07.017.12.361.0017.2.047. Manutenção da A.P.A.E**
+
+368 - 3.1.90.11.00.00 01104 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 15.000,00
+
+**07.017.12.361.0017.2.057. Manutenção do Clube do Irmão Caçula**
+
+373 - 3.1.90.11.00.00 01104 VENCIMENTOS E VANTAGENS FIXAS – PESSOA 300.000,00
+
+375 - 3.1.90.13.00.00 01104 OBRIGAÇÕES PATRONAIS 115.000,00
+
+379 - 3.3.90.30.00.00 01103 MATERIAL DE CONSUMO 12.000,00
+
+387 – 4.4.90.51.00.00 01103 OBRAS E INSTALAÇÕES 20.000,00
+
+**07.017.12.365.0019.2.045. Manutenção de Centros Educacional Infantil**
+
+403 - 3.3.90.39.00.00 01103 OUTROS SERVIÇOS DE TERCEIROS – PESSOA 48.000,00
+
+**07.017.12.365.0019.2.058. FUNDEB 60% E 40% - Manutenção dos Centros de Educação Infantil**
+
+411 - 3.1.90.11.00.00 01102 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 174.000,00
+
+413 – 3.1.90.13.00.00 01102 OBRIGAÇÕES PATRONAIS 4.000,00
+
+**08 SECRETARIA DE HABITAÇÃO E DESENVOLVIMENTO ECONÔMICO**
+
+**08.020 Departamento de Habitação**
+
+**08.020.16.482.0027.1.007. Aquisição de Terreno**
+
+421 - 4.4.90.61.00.00 01000 AQUISIÇÃO DE IMÓVEIS 37.000,00
+
+**08.020.16.482.0027.2.069. Manutenção do Departamento de Habitação**
+
+422 - 3.1.90.11.00.00 01000 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL 35.000,00
+
+423 - 3.1.90.13.00.00 01000 OBRIGAÇÕES PATRONAIS 11.500,00
+
+429 - 4.4.90.51.00.00 01000 OBRAS E INSTALAÇÕES 394.400,00
+
+**Total Redução: 1.682.700,00**
+
+
+II –
+
+**Excesso de arrecadação**
+
+Receita: 1.1.2.2.01.01.03.000 **OUTRAS TAXAS PELA PRESTAÇÃO DE SERVIÇOS** 47.000,00 Receita: 1.7.1.1.51.11.00.000 **Cota-Parte do Fundo de Participação dos Municípios - Cota**
+
+**Mensal** - 1.249.000,00
+
+Receita: 1.7.2.1.50.01.00.000 **Cota-Parte do ICMS - Principal** 217.000,00
+
+**Total da Receita: 1.513.000,00**
+
+***Soma Total dos Recursos: 3.195.700,00***
+
+
+Art. 3º.
+
+O crédito previsto no artigo 1° desta Lei, não será computado para fins do limite fixado no artigo 4°, inciso I, da Lei Orçamentária Anual – Lei 1891/2021.
+
+
+Art. 4º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Edifício da Prefeitura do Município de Califórnia, em 11 de novembro de 2022.
+
+***PAULO WILSON MENDES***
+
+Prefeito Municipal
+

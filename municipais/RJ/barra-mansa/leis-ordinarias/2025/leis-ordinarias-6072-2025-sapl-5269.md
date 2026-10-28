@@ -1,0 +1,93 @@
+---
+titulo: "Lei Ordinária nº 6.072, de 17 de janeiro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "6072"
+data: "2025-01-17"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/5269"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/1159/text"
+sha256_fonte: "4ea7d1ea9b99acb37a3723da12fc09dc389cc366045cbf625b91b98356c71c98"
+sha256_texto: "0db306f41b766520574151dae8f53f183bbbafe3f1be475a0941c671d3835cdb"
+capturado_em_fonte: "2026-10-27T17:18:51.656778-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 6.072, de 17 de janeiro de 2025
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI Nº6072, DE 17 DE JANEIRO DE 2025.
+
+
+Proíbe a comercialização, a instalação e o uso de equipamentos para motocicletas que produzam ruídos acima do limite máximo permitido, fora das especificações do fabricante ou adulterado.
+
+
+Art. 1º.
+
+Fica proibida a comercialização, a instalação e o uso de escapamentos para motocicletas produzam ruídos acima do limite máximo permitido, fora das especificações do fabricante, adulterados ou em desconformidade em afronta do Código de Trânsito Brasileiro.
+
+
+Art. 2º.
+
+As empresas que realizem a venda de peças ou prestam serviços em motocicletas somente poderão comercializar e efetuar a montagem ou troca do escapamento, desde que mantida a originalidade da motocicleta, proibida a retirada de qualquer componente interno.
+
+
+Art. 3º.
+
+As empresas definidas no artigo 2° deverão afixar, em lugar de fácil visualização, cartaz com a informação do limite máximo de emissão de ruídos permitido para motocicletas, conforme estabelecido pelo Conselho Nacional do Meio Ambiente – Conama.
+
+
+Art. 4º.
+
+Estabelecimentos que utilizem serviços de entrega realizados por motocicletas não poderão contratar prestadores de serviços com equipamentos adulterados ou em desconformidade com as especificações de fábrica.
+
+
+Art. 5º.
+
+A inobservância desta Lei acarretará às empresas definidas no artigo 2° e 4º, multa no valor de 2500 (duas mil e quinhentas) UFMs - Unidade Fiscal do Município de Barra Mansa, dobrada na reincidência.
+
+
+§ 1º
+
+A empresa que sofrer duas multas por incidência desta Lei, caso venha a reincidir novamente sofrerá a perda do alvará de funcionamento municipal.
+
+
+§ 2º
+
+Ao proprietário de motocicleta que esteja circulando em desrespeito a esta Lei, será imposta multa no valor de 2000 (duas mil) UFMs - Unidade Fiscal do Município de Barra Mansa, dobrada na reincidência.
+
+
+§ 3º
+
+efetuou a venda ou prestou o serviço de adulteração incorrerá nas penalidades previstas no caput deste artigo.
+
+
+Art. 6º.
+
+O Poder Executivo regulamentará esta lei no que couber.
+
+
+Art. 7º.
+
+As despesas decorrentes da execução desta lei correrão à conta de dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 17 DE JANEIRO DE 2025.
+
+
+LUIZ ANTÔNIO FURLANI FILHO  
+PREFEITO
+

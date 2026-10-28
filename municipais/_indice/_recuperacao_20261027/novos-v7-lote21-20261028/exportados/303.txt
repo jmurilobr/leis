@@ -1,0 +1,310 @@
+---
+titulo: "Lei-CMC nº 2.998, de 01 de setembro de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2998"
+data: "2010-09-01"
+municipio: "Congonhas"
+uf: "MG"
+codigo_ibge: "3118007"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.congonhas.mg.leg.br/norma/6520"
+fonte_texto: "https://sapl.congonhas.mg.leg.br/ta/4161/text"
+sha256_fonte: "8bae59117a9214153b061c1dd88b17d1cd3559c5093693073d8ab15175eb58f2"
+sha256_texto: "6687634596b1c27c1dd4d233928f61ddc99819990355a0bf0b1f9f76aa562868"
+capturado_em_fonte: "2026-10-28T07:16:27.597728-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei-CMC nº 2.998, de 01 de setembro de 2010
+
+INSTITUI O PROGRAMA ESPECIAL DE PARCELAMENTO DE CRÉDITOS TRIBUTÁRIOS E NÃO TRIBUTÁRIOS – PEP – NO MUNICÍPIO DE CONGONHAS
+
+
+A Câmara Municipal de Congonhas, Estado de Minas Gerais, decreta e eu, Prefeito sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído no município de Congonhas o Programa Especial de parcelamento de Créditos Tributários e não tributários – PEP, nos termos desta Lei.
+
+
+Art. 2º.
+
+O PEP destina-se a promover a regularização de créditos tributários e não tributários constituídos ou denunciados espontaneamente, inscritos ou não em Divida Ativa, mediante parcelamento dos referidos créditos.
+
+
+Parágrafo único
+
+O PEP nas disposições deste artigo vigorará por um período de 03 (três) meses, produzindo seus efeitos a partir de sua publicação.
+
+
+Art. 3º.
+
+O crédito tributário e não tributário objeto do PEP - Programa Especial de Parcelamento de Créditos Tributários, serão consolidados no mês do pedido e compreenderão os tributos municipais, representados pelo valor principal, a atualização monetária, os juros e as multas, devidos até a data do requerimento.
+
+
+Art. 4º.
+
+O crédito tributário e não tributário poderá ser parcelado:
+
+
+I –
+
+os débitos constituídos ou não, inscrito ou não em dívida ativa;
+
+
+II –
+
+em procedimento de notificação ou autuação;
+
+
+III –
+
+denunciado espontaneamente pelo contribuinte;
+
+
+IV –
+
+em parcelamento administrativo não integralmente quitado, ainda que cancelado por falta de pagamento.
+
+
+Parágrafo único
+
+Os débitos não constituídos deverão ser confessados, de forma irretratável e irrevogável.
+
+
+Art. 5º.
+
+A adesão do contribuinte ao PEP deverá ser formalizada pelo sujeito passivo da obrigação tributária ou por seu representante devidamente constituído em requerimento específico após manifestação de acordo do termo de reconhecimento da dívida, perante a Secretaria Municipal de Finanças.
+
+
+Art. 6º.
+
+Para beneficiar-se do PEP, o contribuinte deverá:
+
+
+I –
+
+manter em dia o pagamento dos lançamentos tributários efetuados a partir da adesão ao Programa;
+
+
+II –
+
+a adesão ao PEP implica a aceitação plena das condições estabelecidas nesta Lei, caracterizando a confissão da dívida relativa aos valores incluídos no parcelamento e o reconhecimento da regularidade da constituição dos respectivos créditos tributários e não tributários;
+
+
+III –
+
+desistir de toda e qualquer ação administrativa e/ou judicial em que porventura seja objeto de questionamento, de forma específica ou genérica, quanto ao valor do tributo para o qual pleiteia o parcelamento;
+
+
+IV –
+
+renunciar a possíveis outros parcelamentos anteriormente concedidos e não liquidados, ressalvando, no entanto, a transferência dos saldos resultantes para este PEP;
+
+
+V –
+
+confessar os débitos ou não constituídos de forma irretratável e irrevogável;
+
+
+Parágrafo único
+
+A preceituação constante no artigo, não contempla o contribuinte que responde administrativamente ou judicialmente por conduta abusiva a supressão ou redução de tributo tida na forma da lei como crime contra a ordem tributária em desfavor da Fazenda Municipal.
+
+
+Art. 7º.
+
+Os créditos tributários e não tributários poderão ser pagos em parcelas, conforme abaixo:
+
+
+I –
+
+para as Pessoas Físicas: em até 36 (trinta e seis) parcelas mensais e o valor da parcela não poderá ser inferior ao valor de R$ 30,00 (trinta reais);
+
+
+II –
+
+para as Pessoas Jurídicas: em até 36 (trinta e seis) parcelas mensais e o valor da parcela não poderá ser inferior ao valor de R$ 100,00 (cem reais);
+
+
+III –
+
+para as Micro e Pequenas Empresas: em até 60 (sessenta) parcelas mensais e o valor da parcela não poderá ser inferior ao valor de R$ 50,00 (cinquenta reais).
+
+
+Art. 8º.
+
+Para as Pessoas físicas, o valor total da parcela mensal será apurado pela soma do:
+
+
+I –
+
+valor do crédito tributário e não tributário apurado conforme o art. 3º desta Lei, dividido pelo número total de parcelas, respeitando o valor mínimo estabelecido nos incisos I, II e III do artigo anterior;
+
+
+II –
+
+juros remuneratórios no valor correspondente a 1% (um por cento) ao mês do saldo devedor do Crédito tributário parcelado, atualizado, incidente a partir do mês subseqüente ao do vencimento da primeira parcela.
+
+
+Art. 9º.
+
+Para as Pessoas Jurídicas, Micro e Pequenas Empresas, o valor total da parcela mensal será apurado pela soma do:
+
+
+I –
+
+valor do crédito tributário apurado conforme o art. 3º desta Lei, dividido pelo número total de parcelas, respeitando o valor mínimo estabelecido nos incisos I, II e III do artigo 7º;
+
+
+II –
+
+juros remuneratórios no valor correspondente a 1% (um por cento) ao mês do saldo devedor do crédito tributário parcelado, atualizado, incidente a partir do mês subseqüente ao do vencimento da primeira parcela.
+
+
+Art. 10.
+
+O não pagamento de parcela na data de seu vencimento dará ensejo às seguintes multas, incidentes sobre o valor total da parcela:
+
+
+I –
+
+0,33% (trinta e três centésimos percentuais) ao dia, quando o pagamento se efetuar até 30 (trinta) dias após o vencimento;
+
+
+II –
+
+10% (dez por cento) quando o pagamento se efetuar após o 30º (trigésimo) dia até o 60º (sexagésimo) dia do vencimento;
+
+
+III –
+
+15% (quinze por cento) quando o pagamento se efetuar após o 60º (sexagésimo) dia do vencimento.
+
+
+Parágrafo único
+
+Não será admitido pagamento inferior ao valor somatório das parcelas em atraso com a parcela do mês.
+
+
+Art. 11.
+
+A exclusão do PEP dar-se-á em face da ocorrência de uma das seguintes hipóteses:
+
+
+I –
+
+inobservância de qualquer das exigências estabelecidas nesta Lei;
+
+
+II –
+
+falência ou extinção da pessoa jurídica;
+
+
+III –
+
+cisão, fusão e incorporação, exceto se a pessoa jurídica dela oriunda ou a que absorver parte do patrimônio, permanecer estabelecidas no Município e assumirem solidariamente as obrigações do PEP;
+
+
+IV –
+
+supressão ou redução de tributo mediante conduta definida em lei como crime contra a ordem tributária em desfavor da Fazenda Municipal;
+
+
+V –
+
+falta de pagamento de até 3 (três) parcelas ou o atraso no pagamento de qualquer parcela no prazo superior a 90 (noventa) dias;
+
+
+VI –
+
+a pessoa jurídica deixar de ter estabelecimento no Município;
+
+
+VII –
+
+falecimento, exceto se formalmente assumida a responsabilidade do parcelamento pelo espólio, por meio de seu representante legal, ou pelo herdeiro ao qual couber o bem por disposição legal ou testamentária;
+
+
+VIII –
+
+o ingresso em juízo para discussão de qualquer lançamento tributário incluído no PEP.
+
+
+§ 1º
+
+A exclusão do PEP acarretará a imediata exigibilidade dos créditos não quitados com a incidência dos acréscimos previstos na legislação municipal.
+
+
+§ 2º
+
+A exclusão do PEP também acarretará a perda de todos os benefícios concedidos em razão da adesão ao Programa.
+
+
+Art. 12.
+
+Caso seja de interesse da Administração Municipal, a Secretaria Municipal de Finanças mediante manifestação favorável da Procuradoria Geral, poderá receber bens imóveis edificados ou não, situados no Município, desprovidos de qualquer gravame pendente, preferencialmente, como forma de dação em pagamento.
+
+
+§ 1º
+
+O bem imóvel proposto para ofertamento deverá ser de titularidade do contribuinte passivo ou de terceiros para aceite da Fazenda Pública.
+
+
+§ 2º
+
+A avaliação do bem imóvel disponível de oferta far-se-á na forma dos requisitos praticados para apuração do valor de mercado, constante do Cadastro Imobiliário Municipal.
+
+
+§ 3º
+
+O pedido de Dação em Pagamento implicará no assentimento das bases da transação entre o ofertante e a Fazenda Pública, visando atender as preceituações do PEP, desde que o processo seja homologado pelo Prefeito Municipal.
+
+
+Art. 13.
+
+Os benefícios concedidos por esta Lei não se acumulam com quaisquer outros concedidos nos termos da legislação vigente.
+
+
+Art. 14.
+
+Para fins de determinação do valor a ser parcelado serão adotados os seguintes critérios:
+
+
+I –
+
+tratando-se de tributos de natureza imobiliária, deverão ser incluídos no PEP todos os créditos relativos ao imóvel a que se refere;
+
+
+II –
+
+nos demais casos deverão ser incluídos no PEP todos os créditos relativos ao sujeito passivo ao qual se vinculam.
+
+
+Parágrafo único
+
+Ficam restritos às preceituações deste artigo, os objetos de lançamento no mesmo exercício da opção pela adesão ao PEP.
+
+
+Art. 15.
+
+Ficam excluídos do parcelamento os créditos referentes ao Imposto sobre a Propriedade Predial e Territorial Urbana – IPTU e as taxas municipais que tenham sido objetos de lançamento no mesmo exercício da opção pela adesão ao PEP.
+
+
+Art. 16.
+
+Esta Lei entra em vigor na data de sua publicação
+
+
+Congonhas, 1º de setembro de 2010.
+
+**ANDERSON COSTA CABIDO**
+
+**Prefeito de Congonhas**
+

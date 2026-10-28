@@ -1,0 +1,109 @@
+---
+titulo: "Lei Ordinária-CMCN nº 4.027, de 21 de julho de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4027"
+data: "2025-07-21"
+municipio: "Currais Novos"
+uf: "RN"
+codigo_ibge: "2403103"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.curraisnovos.rn.leg.br/norma/4023"
+fonte_texto: "https://sapl.curraisnovos.rn.leg.br/ta/38/text"
+sha256_fonte: "839e7e98307587c1ad41118df6736330967fd510eb5e4a80b29879b8086ab15c"
+sha256_texto: "9e537c31733654736da5735a748ffb392e219ce9aa1d46d4acca15ffb1876f49"
+capturado_em_fonte: "2026-10-28T09:43:15.778679-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-CMCN nº 4.027, de 21 de julho de 2025
+
+Autoriza o Município de Currais Novos a conceder, a título gratuito, o uso de imóvel público municipal ao Consórcio Público Intermunicipal Geoparque Seridó e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE CURRAIS NOVOS, ESTADO DO RIO GRANDE DO NORTE, no uso de suas atribuições legais, faz saber que a Câmara Municipal de Currais Novos aprovou o Projeto de Lei nº 023/2025, de autoria do Executivo Municipal, e eu sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica desafetado do uso especial e transferido para a categoria de bem dominical o imóvel público municipal localizado no lote 14, do Distrito Industrial – José Siderley de Meneses, Currais Novos/RN, situado no km 02 da BR-427.
+
+
+§ 1º
+
+A desafetação de que trata o caput fundamenta-se na cessação da função industrial do imóvel, apurada mediante processo administrativo e parecer técnico emitido pela Assessoria Jurídica do Município.
+
+
+§ 2º
+
+A desafetação implica a disponibilidade do bem, condicionada à observância do interesse público.
+
+
+Art. 2º.
+
+O imóvel descrito no artigo anterior fica autorizado a ter concessão de uso, a título gratuito, ao Consórcio Público Intermunicipal Geoparque Seridó, inscrito no CNPJ sob o nº 39.610.651/0001-39, nos termos desta Lei.
+
+
+Parágrafo único
+
+A concessão de uso a que se refere o caput do artigo anterior destinar-se-á, exclusivamente, às finalidades previstas no objeto social do Consórcio Público Intermunicipal Geoparque Seridó, sendo vedada a utilização para fins estranhos às suas atividades estatutárias.
+
+
+Art. 3º.
+
+A concessão de uso será formalizada mediante Termo Administrativo próprio, que deverá conter, entre outras cláusulas:
+
+
+I –
+
+a descrição do imóvel objeto da concessão;
+
+
+II –
+
+o prazo da concessão, que será de 20 (vinte) anos, podendo ser renovado por igual período, mediante manifestação de interesse das partes;
+
+
+III –
+
+as condições para utilização do imóvel;
+
+
+IV –
+
+as obrigações do Consórcio quanto à conservação e manutenção do imóvel;
+
+
+V –
+
+as hipóteses de extinção da concessão, especialmente em caso de desvio de finalidade ou descumprimento das obrigações assumidas.
+
+
+Art. 4º.
+
+A presente concessão de uso está dispensada de licitação, com fundamento no art. 76, § 3º, inciso I, da Lei nº 14.133/2021, e na Lei nº 11.107/2005, considerando tratar-se de ajuste celebrado entre entes da Administração Pública, cuja execução representa manifesto interesse público.
+
+
+Art. 5º.
+
+Em caso de extinção da concessão, o imóvel objeto do presente ato retornará automaticamente ao patrimônio do Município, independentemente de indenização ao Consórcio, salvo pelas benfeitorias úteis ou necessárias realizadas, desde que previamente autorizadas e não removíveis.
+
+
+Art. 6º.
+
+As despesas decorrentes da execução desta Lei correrão por conta das dotações orçamentárias próprias do Município, suplementadas, se necessário.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Currais Novos/RN, Palácio Prefeito “Raul Macêdo”, em 21 de junho de 2025.
+
+**LUCAS GALVÃO DA CRUZ**  
+Prefeito Municipal
+

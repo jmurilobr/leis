@@ -1,0 +1,393 @@
+{
+  "head": "99d122445235d43d48f6ccfa7d0f32573e0910d7",
+  "progresso_sha256": "d08b1049834d07cd11823855214835f1c6da7a10d2164924b50f86aa7b4b956f",
+  "candidatos_origem": "_fonte/operacao_root_20261027/dou-candidatos-novos-v4-20261027.json",
+  "sha256_candidatos_origem": "c0d86e3275637a6a58f7e8c33355cb71d0e55d435e45e16fb392ba05edf59dda",
+  "criterio": "Prioriza series com deficit numerico do plano,depois sem meta e depois numericamente saturadas. Nenhum candidato excluido,nenhuma meta alterada,cobertura qualitativa nao inferida dos numeros. Filas anteriores permanecem preservadas.",
+  "contagens_por_prioridade": {
+    "0": 3351,
+    "1": 14403,
+    "2": 58272
+  },
+  "metricas_orgao": {
+    "rfb": [
+      75418,
+      115238
+    ],
+    "confaz": [
+      1534,
+      12000
+    ],
+    "stn": [
+      434,
+      2000
+    ],
+    "pgfn": [
+      243,
+      1500
+    ],
+    "carf": [
+      72,
+      300
+    ],
+    "fazenda": [
+      723,
+      3000
+    ],
+    "contran": [
+      175,
+      1357
+    ],
+    "senatran": [
+      1788,
+      1500
+    ],
+    "antt": [
+      6244,
+      6000
+    ],
+    "antaq": [
+      2719,
+      500
+    ],
+    "anac": [
+      9082,
+      700
+    ],
+    "transportes": [
+      827,
+      2000
+    ],
+    "portos-aeroportos": [
+      300,
+      800
+    ],
+    "anvisa": [
+      25255,
+      3100
+    ],
+    "ms": [
+      23024,
+      30000
+    ],
+    "cns": [
+      169,
+      700
+    ],
+    "ans": [
+      720,
+      600
+    ],
+    "mte": [
+      950,
+      3038
+    ],
+    "inss": [
+      495,
+      160
+    ],
+    "sprev": [
+      214,
+      900
+    ],
+    "previc": [
+      1036,
+      400
+    ],
+    "conama": [
+      20,
+      520
+    ],
+    "ibama": [
+      359,
+      1500
+    ],
+    "icmbio": [
+      629,
+      400
+    ],
+    "ana": [
+      195,
+      3000
+    ],
+    "sfb": [
+      38,
+      200
+    ],
+    "mapa": [
+      11946,
+      3000
+    ],
+    "mma": [
+      570,
+      1500
+    ],
+    "pesca": [
+      920,
+      600
+    ],
+    "bcb": [
+      1683,
+      10200
+    ],
+    "cvm": [
+      385,
+      500
+    ],
+    "susep": [
+      2336,
+      1200
+    ],
+    "cade": [
+      97,
+      300
+    ],
+    "coaf": [
+      66,
+      150
+    ],
+    "cfc": [
+      243,
+      1800
+    ],
+    "inmetro": [
+      2201,
+      2000
+    ],
+    "mdic": [
+      1285,
+      3000
+    ],
+    "empreendedorismo": [
+      138,
+      400
+    ],
+    "aneel": [
+      1114,
+      2000
+    ],
+    "anp": [
+      311,
+      1000
+    ],
+    "anatel": [
+      163,
+      800
+    ],
+    "anm": [
+      153,
+      300
+    ],
+    "mme": [
+      1628,
+      1500
+    ],
+    "comunicacoes": [
+      8117,
+      800
+    ],
+    "cidades": [
+      800,
+      800
+    ],
+    "integracao": [
+      7557,
+      800
+    ],
+    "cne": [
+      247,
+      1500
+    ],
+    "mec": [
+      8117,
+      4000
+    ],
+    "inep": [
+      746,
+      1200
+    ],
+    "capes": [
+      370,
+      1000
+    ],
+    "ancine": [
+      303,
+      500
+    ],
+    "iphan": [
+      527,
+      400
+    ],
+    "cultura": [
+      3722,
+      1200
+    ],
+    "esporte": [
+      410,
+      400
+    ],
+    "turismo": [
+      779,
+      600
+    ],
+    "mcti": [
+      2414,
+      1500
+    ],
+    "mj": [
+      3062,
+      3000
+    ],
+    "cgu": [
+      410,
+      1200
+    ],
+    "agu": [
+      483,
+      1500
+    ],
+    "mpu": [
+      1780,
+      1200
+    ],
+    "cnmp": [
+      207,
+      400
+    ],
+    "dpu": [
+      218,
+      400
+    ],
+    "tcu": [
+      228,
+      1500
+    ],
+    "conselhos-profissionais": [
+      7074,
+      7000
+    ],
+    "presidencia": [
+      1792,
+      2000
+    ],
+    "gestao": [
+      1842,
+      2500
+    ],
+    "planejamento": [
+      1497,
+      1200
+    ],
+    "defesa": [
+      4351,
+      2500
+    ],
+    "mre": [
+      374,
+      800
+    ],
+    "poder-judiciario": [
+      1884,
+      1500
+    ],
+    "poder-legislativo": [
+      418,
+      600
+    ],
+    "bndes": [
+      8,
+      400
+    ],
+    "mds": [
+      848,
+      2500
+    ],
+    "mdh": [
+      906,
+      800
+    ],
+    "mulheres": [
+      65,
+      300
+    ],
+    "igualdade-racial": [
+      61,
+      300
+    ],
+    "mpi": [
+      239,
+      300
+    ],
+    "mda": [
+      2411,
+      1200
+    ]
+  },
+  "fatias": [
+    {
+      "path": "_fonte/operacao_root_20261027/dou-prioridade-v4-fatia-001.json",
+      "sha256": "8a57328ea3a5ca05e7cfe2eaa7b6793e57fff88a3aede3fc1e40d08fa2e23c3b",
+      "candidatos": 6000
+    },
+    {
+      "path": "_fonte/operacao_root_20261027/dou-prioridade-v4-fatia-002.json",
+      "sha256": "83d4ce5f9dea5f8957862f2bfcbf4b2512a789a121d1a07379b9d909ad65a8e2",
+      "candidatos": 6000
+    },
+    {
+      "path": "_fonte/operacao_root_20261027/dou-prioridade-v4-fatia-003.json",
+      "sha256": "1a7234230232e817c8b72484a3133ce08e8194972edff3371f19cdf7ad0c0aea",
+      "candidatos": 6000
+    },
+    {
+      "path": "_fonte/operacao_root_20261027/dou-prioridade-v4-fatia-004.json",
+      "sha256": "f38d376dc24721fbb88c352469cde08a0b08e246d58bf16c5ec260e6b2568816",
+      "candidatos": 6000
+    },
+    {
+      "path": "_fonte/operacao_root_20261027/dou-prioridade-v4-fatia-005.json",
+      "sha256": "868f286cc340a60d6dc7916198660a92982f9a4dd6f576341fc50cc4293c7fdf",
+      "candidatos": 6000
+    },
+    {
+      "path": "_fonte/operacao_root_20261027/dou-prioridade-v4-fatia-006.json",
+      "sha256": "83bf3588584a00c9f9c9259ee44798b76e65d60c1d945ba95a9d4b65d95a5c58",
+      "candidatos": 6000
+    },
+    {
+      "path": "_fonte/operacao_root_20261027/dou-prioridade-v4-fatia-007.json",
+      "sha256": "3213535004db8f0b2bbcadf16d60a4e6302a00405bdfd167e845bd6383f3211e",
+      "candidatos": 6000
+    },
+    {
+      "path": "_fonte/operacao_root_20261027/dou-prioridade-v4-fatia-008.json",
+      "sha256": "74752a7c85bfc23d12257dc6fdb524724f5a20d02188960abbc48a3a9ec02483",
+      "candidatos": 6000
+    },
+    {
+      "path": "_fonte/operacao_root_20261027/dou-prioridade-v4-fatia-009.json",
+      "sha256": "76d1247055a9dfbb9cf9756706235343e3a59ea24dd20d8c78154cb92ef08e05",
+      "candidatos": 6000
+    },
+    {
+      "path": "_fonte/operacao_root_20261027/dou-prioridade-v4-fatia-010.json",
+      "sha256": "45f7f7af7f019bb7835ab0601c2900972a7eeb5c998df09e902695a9e24b84c1",
+      "candidatos": 6000
+    },
+    {
+      "path": "_fonte/operacao_root_20261027/dou-prioridade-v4-fatia-011.json",
+      "sha256": "d61261d7562e9e86497c9ae920a7d8b4acbffbad817db36d765c41b1ca3a1bcf",
+      "candidatos": 6000
+    },
+    {
+      "path": "_fonte/operacao_root_20261027/dou-prioridade-v4-fatia-012.json",
+      "sha256": "7720b4b64e46d88a42a4794f0eeddce698957947846d05738bd2ccfd0d1b71a8",
+      "candidatos": 6000
+    },
+    {
+      "path": "_fonte/operacao_root_20261027/dou-prioridade-v4-fatia-013.json",
+      "sha256": "272066802a65a4f937d83cebaa16a61d9c5050f11de1632151338baad51cabbf",
+      "candidatos": 4026
+    }
+  ]
+}

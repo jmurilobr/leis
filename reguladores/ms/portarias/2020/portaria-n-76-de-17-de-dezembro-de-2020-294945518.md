@@ -1,0 +1,38 @@
+---
+titulo: "PORTARIA Nº 76, DE 17 DE DEZEMBRO DE 2020"
+orgao: "Ministério da Saúde/Secretaria de Atenção Primária à Saúde"
+tipo: "Portaria"
+numero: "76"
+data: 2020-12-17
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 18/12/2020, seção 1, p. 217"
+data_publicacao: 2020-12-18
+edicao: "242"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-76-de-17-de-dezembro-de-2020-294945518"
+sha256_html_fonte: ff66596d7fef0ef634b0b1ab2a2afa2cc876f1e9440bc7d164b59b761b6595e7
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 76, DE 17 DE DEZEMBRO DE 2020
+
+PORTARIA Nº 76, DE 17 DE DEZEMBRO DE 2020
+
+Cancela o registro único concedido aos médicos intercambistas desligados do Projeto Mais Médicos para o Brasil.
+
+O SECRETÁRIO DE ATENÇÃO PRIMÁRIA À SAÚDE, no uso das atribuições que lhe confere o art. 18, do Anexo I do Decreto nº 9.795, de 17 de maio de 2019,
+
+Considerando a Lei nº 12.871, de 22 de outubro de 2013, que institui o Programa Mais Médicos, altera as Leis nº 8.745, de 9 de dezembro de 1993, e nº 6.932, de 7 de julho de 1981;
+
+Considerando o Decreto nº 8.126, de 22 de outubro de 2013, que dispõe sobre a emissão do registro único e da carteira de identificação para os médicos intercambistas participantes do Projeto Mais Médicos para o Brasil, de que trata a Lei nº 12.871, de 22 de outubro de 2013; e
+
+Considerando a Portaria nº 2.477/GM/MS, de 22 de outubro de 2013, que dispõe sobre a emissão do número de registro único para os médicos intercambistas participantes do Projeto Mais Médicos para o Brasil e a respectiva carteira de identificação, nos termos do seu art. 11, § 1º, resolve:
+
+**Art. 1º** Ficam cancelados os registros únicos expedidos para o exercício da medicina no âmbito do Projeto Mais Médicos para o Brasil, aos médicos intercambistas com adesão em ciclos diversos, desligados do Projeto, conforme dados constantes no Anexo desta Portaria.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação, com efeitos retroativos à data do encerramento das atividades de cada profissional no âmbito do Projeto Mais Médicos para o Brasil, descrita no Anexo desta Portaria.
+
+RAPHAEL CÂMARA MEDEIROS PARENTE
+
+## ANEXO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>PROCESSO</p></td>      <td rowspan="1" colspan="1"><p>CPF</p></td>      <td rowspan="1" colspan="1"><p>NOME</p></td>      <td rowspan="1" colspan="1"><p>RMS</p></td>      <td rowspan="1" colspan="1"><p>UF</p></td>      <td rowspan="1" colspan="1"><p>MUNICÍPIO / DSEI</p></td>      <td rowspan="1" colspan="1"><p>DATA FIM DAS ATIVIDADES</p></td>      <td rowspan="1" colspan="1"><p>CICLO DE ADESÃO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>25000.158230/2019-14</p></td>      <td rowspan="1" colspan="1"><p>XXX.828.351-XX</p></td>      <td rowspan="1" colspan="1"><p>ROMERITO DA SILVA AMIGO DUARTE</p></td>      <td rowspan="1" colspan="1"><p>1301156</p></td>      <td rowspan="1" colspan="1"><p>AM</p></td>      <td rowspan="1" colspan="1"><p>DSEI ALTO SOLIMOES</p></td>      <td rowspan="1" colspan="1"><p>01/09/2020</p></td>      <td rowspan="1" colspan="1"><p>DECIMO OITAVO CICLO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>25000.004599/2019-08</p></td>      <td rowspan="1" colspan="1"><p>XXX.527.012-XX</p></td>      <td rowspan="1" colspan="1"><p>AZARIAS CORDEIRO DOS SANTOS</p></td>      <td rowspan="1" colspan="1"><p>1301051</p></td>      <td rowspan="1" colspan="1"><p>AM</p></td>      <td rowspan="1" colspan="1"><p>DSEI MANAUS</p></td>      <td rowspan="1" colspan="1"><p>02/09/2020</p></td>      <td rowspan="1" colspan="1"><p>DECIMO SETIMO CICLO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>25000.059077/2017-73</p></td>      <td rowspan="1" colspan="1"><p>XXX.743.461-XX</p></td>      <td rowspan="1" colspan="1"><p>MARCIA PAESANO DA CUNHA</p></td>      <td rowspan="1" colspan="1"><p>5200537</p></td>      <td rowspan="1" colspan="1"><p>GO</p></td>      <td rowspan="1" colspan="1"><p>GOIANIA</p></td>      <td rowspan="1" colspan="1"><p>02/09/2020</p></td>      <td rowspan="1" colspan="1"><p>DECIMO TERCEIRO CICLO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>25000.082202/2015-87</p></td>      <td rowspan="1" colspan="1"><p>XXX.924.797-XX</p></td>      <td rowspan="1" colspan="1"><p>MAYDA VERDI FERREIRA NICACIO</p></td>      <td rowspan="1" colspan="1"><p>1500616</p></td>      <td rowspan="1" colspan="1"><p>PA</p></td>      <td rowspan="1" colspan="1"><p>JACUNDA</p></td>      <td rowspan="1" colspan="1"><p>31/08/2020</p></td>      <td rowspan="1" colspan="1"><p>SEXTO CICLO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>25000.080627/2015-51</p></td>      <td rowspan="1" colspan="1"><p>XXX.408.711-XX</p></td>      <td rowspan="1" colspan="1"><p>DEBORA LEITE DA SILVA</p></td>      <td rowspan="1" colspan="1"><p>2600592</p></td>      <td rowspan="1" colspan="1"><p>PE</p></td>      <td rowspan="1" colspan="1"><p>JABOATAO DOS GUARARAPES</p></td>      <td rowspan="1" colspan="1"><p>31/08/2020</p></td>      <td rowspan="1" colspan="1"><p>SEXTO CICLO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>25000.437541/2017-77</p></td>      <td rowspan="1" colspan="1"><p>XXX.396.699-XX</p></td>      <td rowspan="1" colspan="1"><p>ANDRES PAULO ANDIA DO NASCIMENTO</p></td>      <td rowspan="1" colspan="1"><p>4101348</p></td>      <td rowspan="1" colspan="1"><p>PR</p></td>      <td rowspan="1" colspan="1"><p>GUAMIRANGA</p></td>      <td rowspan="1" colspan="1"><p>08/09/2020</p></td>      <td rowspan="1" colspan="1"><p>DECIMO QUARTO CICLO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>25000.006036/2019-46</p></td>      <td rowspan="1" colspan="1"><p>XXX.229.482-XX</p></td>      <td rowspan="1" colspan="1"><p>ALEX NERI MAZIOLI</p></td>      <td rowspan="1" colspan="1"><p>4302078</p></td>      <td rowspan="1" colspan="1"><p>RS</p></td>      <td rowspan="1" colspan="1"><p>MATO QUEIMADO</p></td>      <td rowspan="1" colspan="1"><p>01/09/2020</p></td>      <td rowspan="1" colspan="1"><p>DECIMO SETIMO CICLO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>25000.059286/2017-17</p></td>      <td rowspan="1" colspan="1"><p>XXX.534.168-XX</p></td>      <td rowspan="1" colspan="1"><p>RENATO FAGUNDES</p></td>      <td rowspan="1" colspan="1"><p>3503013</p></td>      <td rowspan="1" colspan="1"><p>SP</p></td>      <td rowspan="1" colspan="1"><p>BERTIOGA</p></td>      <td rowspan="1" colspan="1"><p>14/08/2020</p></td>      <td rowspan="1" colspan="1"><p>DECIMO TERCEIRO CICLO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>25000.436148/2017-66</p></td>      <td rowspan="1" colspan="1"><p>XXX.340.631-XX</p></td>      <td rowspan="1" colspan="1"><p>ALCIDES DA SILVA ALVES</p></td>      <td rowspan="1" colspan="1"><p>3503551</p></td>      <td rowspan="1" colspan="1"><p>SP</p></td>      <td rowspan="1" colspan="1"><p>CAMPINAS</p></td>      <td rowspan="1" colspan="1"><p>01/09/2020</p></td>      <td rowspan="1" colspan="1"><p>DECIMO QUARTO CICLO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>25000.433678/2017-52</p></td>      <td rowspan="1" colspan="1"><p>XXX.383.931-XX</p></td>      <td rowspan="1" colspan="1"><p>ADRIANA QUEIROZ SOBREIRA VIEIRA</p></td>      <td rowspan="1" colspan="1"><p>3503545</p></td>      <td rowspan="1" colspan="1"><p>SP</p></td>      <td rowspan="1" colspan="1"><p>SAO PAULO</p></td>      <td rowspan="1" colspan="1"><p>03/09/2020</p></td>      <td rowspan="1" colspan="1"><p>DECIMO QUARTO CICLO</p></td>     </tr>    </tbody>   </table>

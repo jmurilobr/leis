@@ -1,0 +1,324 @@
+---
+titulo: "Lei Ordinária nº 1.149, de 17 de outubro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1149"
+data: "2025-10-17"
+municipio: "Conceição do Coité"
+uf: "BA"
+codigo_ibge: "2908408"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.conceicaodocoite.ba.leg.br/norma/1055"
+fonte_texto: "https://sapl.conceicaodocoite.ba.leg.br/ta/523/text"
+sha256_fonte: "7dcfe683aac571f82ca669f0fd5de32d6fc9fe1697f6a1fc91517c02e6b2fbaf"
+sha256_texto: "18772a5eb1346905f520ef5d7ab7572c2c4f6cf075bcd13415b15a26ca73d65c"
+capturado_em_fonte: "2026-10-27T23:10:32.981913-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.149, de 17 de outubro de 2025
+
+Institui o Fórum Municipal de Educação do município de Conceição do Coité – Bahia.
+
+
+**O PREFEITO MUNICIPAL DE CONCEIÇÃO DO COITÉ, ESTADO DA BAHIA,**
+
+Faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte
+
+**LEI:**
+
+
+Art. 1º.
+
+Institui o Fórum Municipal de Educação – FME/Conceição do Coité-Ba, de caráter permanente, com a finalidade de coordenar, discutir e organizar processos relativos ao desenvolvimento das políticas públicas de educação que venham contribuir para o aprimoramento do Sistema Municipal de Educação.
+
+
+Art. 2º.
+
+Compete ao Fórum Municipal de Educação:
+
+
+I –
+
+Participar do processo de construção, implementação, monitoramento e avaliação do Plano Municipal de Educação - PME;
+
+
+II –
+
+Discutir, propor, acompanhar e avaliar a aplicação e eficácia das práticas públicas no âmbito do Sistema Educacional Municipal, respectivamente ao Plano Municipal de Educação;
+
+
+III –
+
+Avaliar os impactos da implementação do Plano Municipal de Educação, propondo mecanismos de reorientações e ajuste;
+
+
+IV –
+
+Planejar, organizar e coordenar em consonância com a Secretaria Municipal de Educação, Cultura e Esporte a realização de Audiências Públicas e Conferências Municipais de Educação, bem como divulgar as suas deliberações;
+
+
+V –
+
+Elaborar e aprovar seu Regimento Interno;
+
+
+VI –
+
+Acompanhar e avaliar o processo de implementação das deliberações das Conferências Municipal, Estadual e Nacional de Educação;
+
+
+VII –
+
+Zelar para que as Conferências Municipais de Educação estejam articuladas com a Conferência Estadual e Nacional de Educação;
+
+
+VIII –
+
+Planejar e organizar espaços de debates sobre a Política Municipal de Educação;
+
+
+IX –
+
+Acompanhar, junto a Câmara de Vereadores, a tramitação de projetos legislativos relativos à política municipal de educação para cumprimento do Plano Municipal de Educação;
+
+
+X –
+
+Planejar e organizar espaços de debates sobre as políticas nacional, estadual e municipal de educação, tendo como referência o Plano Nacional, Estadual e Municipal de Educação;
+
+
+XI –
+
+Acompanhar indicadores educacionais, articulando-se com observatórios de monitoramento de indicadores disponíveis;
+
+
+XII –
+
+Coordenar a discussão e sistematizar as contribuições sobre temáticas relevantes à educação por ocasião de reuniões de fórum, sessões especiais e outros eventos;
+
+
+XIII –
+
+Realizar outras ações pertinentes.
+
+
+Art. 3º.
+
+A composição do FME do Município de Conceição do Coité- Bahia ocorrerá por inclusão das categorias representativas dos setores da sociedade, pertencentes a entidades e órgãos públicos, que indicarão seus representantes titulares e suplentes conforme descrição a seguir:
+
+
+I –
+
+01 representante de Professores da Educação Infantil das Escolas da Rede Pública de Ensino;
+
+
+II –
+
+01 representante de Professores dos Anos Iniciais do Ensino Fundamental das Escolas da Rede Pública de Ensino;
+
+
+III –
+
+01 representante de Professores dos Anos Finais do Ensino Fundamental das Escolas da Rede Pública de Ensino;
+
+
+IV –
+
+01 representante de Professores da Educação de Jovens e Adultos da Rede Pública de Ensino;
+
+
+V –
+
+01 Representante de Professores da Educação Inclusiva da Educação Básica;
+
+
+VI –
+
+01 representante de Professores do Ensino Médio da Rede Pública de Ensino;
+
+
+VII –
+
+01 representante de Professores das Escolas de Educação Básica da Rede Privada de Ensino;
+
+
+VIII –
+
+01 representante de Instituições Públicas e Privadas de Educação Superior;
+
+
+IX –
+
+01 representante do Fórum da Educação de Jovens e Adultos;
+
+
+X –
+
+02 representantes de Pais das Escolas da Rede Pública;
+
+
+XI –
+
+01 representante de Profissionais de Apoio da Educação da Rede Pública;
+
+
+XII –
+
+01 representante de Sindicato dos Servidores Públicos Municipais;
+
+
+XIII –
+
+01 representante do Conselho Municipal de Educação;
+
+
+XIV –
+
+01 representante de Conselhos de Alimentação Escolar - CAE;
+
+
+XV –
+
+01 representante de Conselhos de Acompanhamento e Controle Social do FUNDEB- CACS/FUNDEB;
+
+
+XVI –
+
+01 representante Conselho Municipal dos Direitos da Criança e do Adolescente;
+
+
+XVII –
+
+01 representante Conselho Tutelar;
+
+
+XVIII –
+
+01 representante do Poder Executivo;
+
+
+XIX –
+
+01 representante da Secretaria Municipal da Educação;
+
+
+XX –
+
+01 representante de Associações vinculadas às pessoas com deficiência;
+
+
+XXI –
+
+01 representante dos Estudantes da Educação Básica da Rede Pública de Ensino;
+
+
+XXII –
+
+01 representante dos Estudantes do Ensino Médio da Rede Pública de Ensino;
+
+
+XXIII –
+
+01 representante dos Estudantes do Ensino Superior;
+
+
+XXIV –
+
+01 representante do Legislativo Municipal;
+
+
+XXV –
+
+01 representante dos movimentos de defesa das minorias e da diversidade (movimento negro, LGBT, povos tradicionais, etc);
+
+
+XXVI –
+
+01 representante do Conselho de Defesa dos Direitos das Mulheres;
+
+
+XXVII –
+
+01 representante de ONGs ligadas à educação, cultura e ou esporte;
+
+
+XXVIII –
+
+01 represente dos Diretores Escolares da Rede Pública de Ensino.
+
+
+Parágrafo único
+
+Os representantes titulares e suplentes das instituições de que trata este artigo, serão nomeados por ato do Poder Executivo, após indicações das respectivas entidades.
+
+
+Art. 4º.
+
+O mandato dos membros do FME será de 4 (quatro) anos.
+
+
+§ 1º
+
+O mandato está vinculado à respectiva entidade, conforme artigo 3º.
+
+
+§ 2º
+
+O membro nomeado para constituição do FME pode interromper seu mandato, a qualquer tempo, se assim o desejar, apresentando tal solicitação ao coordenador deste.
+
+
+§ 3º
+
+Para cada titular o órgão ou entidade deve indicar um suplente.
+
+
+Art. 5º.
+
+A estrutura e os procedimentos operacionais do FME serão definidos no seu Regimento Interno, aprovados em reunião convocada para esse fim, observadas as disposições do presente Decreto.
+
+
+Art. 6º.
+
+O Fórum Municipal de Educação deverá eleger entre seus pares: um coordenador, um vice-coordenador e um secretário.
+
+
+§ 1º
+
+O Chefe do Poder Executivo formalizará, através de publicação no Diário Oficial do Município, a convocação da eleição de que trata o caput do presente artigo, bem como homologará o Regimento Interno elaborado e aprovado pelo Fórum Municipal de Educação.
+
+
+§ 2º
+
+Compete ao secretário a organização e registro dos encontros, reuniões e outras providências necessárias para a realização dos eventos de competência do Fórum Municipal de Educação.
+
+
+Art. 7º.
+
+O FME terá funcionamento permanente e se reunirá ordinariamente uma vez a cada bimestre, ou extraordinariamente, por convocação do seu coordenador ou por requerimento da maioria dos seus membros.
+
+
+Art. 8º.
+
+O FME quando na realização das Conferências Municipais de Educação receberão o suporte técnico, administrativo e financeiro da Secretaria Municipal de Educação, Cultura e Esporte para garantir seu efetivo funcionamento.
+
+
+Art. 9º.
+
+A participação no FME será considerada de relevante interesse público e não será remunerada.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal,  
+Conceição do Coité, 17 de outubro de 2025.
+
+**MARCELO PASSOS DE ARAÚJO**  
+Prefeito Municipal
+

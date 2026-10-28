@@ -1,0 +1,380 @@
+---
+titulo: "Lei Ordinária Municipal nº 1.679, de 09 de novembro de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "1679"
+data: "2017-11-09"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/276"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/345/text"
+sha256_fonte: "4277f49c6f048f0f86baa599b505fbb16ac05bd48465954ddff0ccc2928bac09"
+sha256_texto: "96035ae9b9998ec5b5555bde3605dde17051a3314fd252a5731a6688c31e6922"
+capturado_em_fonte: "2026-10-27T22:33:09.945633-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 1.679, de 09 de novembro de 2017
+
+Institui e Regulamenta a Feira da Lua no município de Califórnia e dá outras providências.
+
+
+A Câmara Municipal de Califórnia, Estado do Paraná, aprovou e eu, Prefeito, no uso das atribuições conferidas pela Lei Orgânica do Município, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica instituída a Feira da Lua, que deverá funcionar das 18 horas às 23 horas, em local a ser designado pela Secretaria de Habitação e Desenvolvimento Econômico.
+
+
+§ 1º
+
+No horário de verão a Feira da Lua poderá funcionar das 18 horas até às 24 horas, retornando ao horário do ‘’caput’’, assim que encerrar o horário de verão.
+
+
+§ 2º
+
+Será permitida a entrada de veículos no local destinado à comercialização, para o transporte de mercadorias no período das 16 às 18 horas, onde os feirantes deverão montar as bancas e ao término das quais todas as barracas deverão estar instaladas, abastecidas e convenientemente arrumadas, de forma que o público consumidor possa ser atendido logo após a abertura da feira.
+
+
+§ 3º
+
+Encerradas as atividades comerciais às 23 horas, os veículos poderão ingressar no local onde as barracas estiverem localizadas para promoverem a retirada de mercadorias e instalações, permanecendo até às 24 horas.
+
+
+Art. 2º.
+
+Caberá a Secretaria Municipal de Habitação e Desenvolvimento Econômico em conjunto com uma Comissão a ser criada, definir:
+
+
+I –
+
+os participantes da Feira da Lua;
+
+
+II –
+
+o dia em que funcionará a Feira da Lua.
+
+
+Art. 3º.
+
+A comissão de que trata o caput do artigo anterior será presidida pelo (a) Diretor (a) ou Secretário (a) da Secretaria Municipal de Habitação e Desenvolvimento Econômico, composta pelos seguintes membros:
+
+
+I –
+
+0l (um) representante da Secretaria de Cultura e Turismo;
+
+
+II –
+
+01 (um) representante da Secretaria de Agricultura e Meio Ambiente;
+
+
+III –
+
+01 (um) representante da Secretaria de Saúde;
+
+
+IV –
+
+01 (um) representante da Secretaria de Administração, Finanças e Planejamento;
+
+
+V –
+
+01 (um) representante da Secretaria de Obras, Transporte e Serviços Públicos;
+
+
+VI –
+
+01 (um) representante da Emater;
+
+
+VII –
+
+01 (um) representante eleito pelos feirantes.
+
+
+Parágrafo único
+
+Os nomes indicados serão regulamentados posteriormente através de Decreto.
+
+
+Art. 4º.
+
+Os interessados em participar da Feira da Lua deverão se cadastrar na Secretaria Municipal de Habitação e Desenvolvimento Econômico especialmente para esse fim.
+
+
+§ 1º
+
+Para o cadastro, os interessados deverão apresentar à Secretaria Municipal de Habitação e Desenvolvimento Econômico:
+
+
+a)
+
+requerimento escrito;
+
+
+b)
+
+alvará da Vigilância Sanitária;
+
+
+c)
+
+comprovação de residência no município de Califórnia.
+
+
+§ 2º
+
+Com deliberação positiva da Comissão, o interessado será encaminhado ao Departamento de Tributação para a emissão do Alvará de Licença.
+
+
+§ 3º
+
+Terão preferência no cadastro do caput os feirantes cujos produtos despertarem maior interesse na população, ou seja, de interesse público do Município pelo seu caráter de qualidade, modernidade ou exoticidade.
+
+
+§ 4º
+
+Ficam isentas do pagamento de impostos e taxas municipais referentes à participação da Feira da Lua.
+
+
+Art. 5º.
+
+Incorrerão em suspensão definitiva, com a cassação do alvará de licença, os feirantes que deixarem de comparecer à Feira da Lua por 04 vezes consecutivas ou 08 alternadas, no período de 01 ano, sem motivo justificado e aceito pela Secretaria de Habitação e Desenvolvimento Econômico.
+
+
+Art. 6º.
+
+Ao feirante acometido de doença grave devidamente comprovada por laudo médico será concedido, mediante requisição, a substituição por cônjuge, parente descendente ou ascendente, até o segundo grau, pelo prazo de até 06 meses, reservando-se o respectivo lugar que ocupa, cabendo ao mesmo quando retornar, comprovar estar em perfeitas condições de saúde, mediante apresentação de documento hábil.
+
+
+Parágrafo único
+
+Tratando-se de doença incurável, falecimento ou invalidez abrir-se-á vaga para ocupação do local, dando-se preferência ao seu cônjuge, descendentes, ascendentes, nesta ordem.
+
+
+Art. 7º.
+
+Na Feira da Lua somente serão comercializados os seguintes produtos:
+
+
+I –
+
+hortifrutigranjeiros;
+
+
+II –
+
+lanches, doces, salgados, refrigerantes e bebidas em geral;
+
+
+III –
+
+comidas típicas;
+
+
+IV –
+
+gêneros alimentícios;
+
+
+V –
+
+frios, embutidos, carnes secas e derivados;
+
+
+VI –
+
+laticínios;
+
+
+VII –
+
+artesanato em geral;
+
+
+VIII –
+
+flores, plantas e sementes;
+
+
+IX –
+
+brinquedos, vestuário e comércio geral;
+
+
+X –
+
+rua de recreio.
+
+
+§ 1º
+
+Os produtos dos itens II, III, IV, V e VI necessitam de licença sanitária da VISA municipal.
+
+
+§ 2º
+
+A lista de produtos constante no caput deste artigo poderá ser alterada pela Administração Municipal através de decreto.
+
+
+Art. 8º.
+
+As barracas utilizadas na Feira da Lua serão de responsabilidade dos feirantes e deverão ter toldo ou cobertura impermeável e tipo uniforme e obedecer às normas técnicas cabíveis, bem como a um só padrão a ser fornecido pela Secretaria Municipal de Habitação e Desenvolvimento Econômico.
+
+
+Art. 9º.
+
+As barracas para exposição de mercadorias deverão atender as seguintes exigências:
+
+
+I –
+
+Estar em boas condições de uso e convenientemente pintadas, com suas coberturas limpas e em bom estado de conservação, conforme padrão fornecido pela Secretaria Municipal de Habitação e Desenvolvimento Econômico;
+
+
+II –
+
+Serem mantidas limpas e com bom aspecto.
+
+
+Art. 10.
+
+Além das disposições acima estabelecidas, deverão ser observadas as seguintes normas quanto à comercialização na feira:
+
+
+I –
+
+As barracas somente poderão funcionar após vistoria e concessão da respectiva licença;
+
+
+II –
+
+atender às exigências da Vigilância Sanitária;
+
+
+III –
+
+nenhum produto poderá ser exposto à venda diretamente sobre o solo;
+
+
+IV –
+
+o lixo produzido pelas barracas não poderá ser depositado sobre os logradouros públicos em geral, sendo necessário a separação por tipo (orgânico e reciclá vel), devidamente embalados em sacos plásticos, devendo ser depositados em recipientes apropriados, que deverão ser disponibilizados pelo Município, em local indicado para a coleta pública.
+
+
+Art. 11.
+
+A limpeza do local da feira será de responsabilidade do Município, que disponibilizará profissionais para realizar a limpeza no dia seguinte.
+
+
+Art. 12.
+
+Os feirantes deverão usar jaleco, avental, luvas, boné ou touca, conforme estabelecer a Vigilância Sanitária, durante a comercialização dos produtos, sendo permitido o patrocínio comercial, vedada a publicidade para fins políticos.
+
+
+§ 1º
+
+Os uniformes obedecerão padrões conforme atividade desenvolvida.
+
+
+§ 2º
+
+Caso, durante a fiscalização, o feirante não estiver paramentado corretamente sofrerá as seguintes sansões:
+
+
+I –
+
+Por duas vezes consecutivas, não participará da terceira feira,
+
+
+II –
+
+Se houver reincidência, o alvará poderá ser cassado.
+
+
+Art. 13.
+
+As licenças serão afixadas em local visível e acessível à fiscalização, devendo ser revalidadas anualmente, sob pena de multa, sem prejuízo das demais cominações legais.
+
+
+Art. 14.
+
+É expressamente proibido ao feirante:
+
+
+I –
+
+comercializar o seu licenciamento;
+
+
+II –
+
+transferir o local da barraca sem anuência da Comissão;
+
+
+III –
+
+empregar jornais velhos ou quaisquer impressos para embrulhar gêneros alimentícios que fiquem diretamente em contanto com esses invólucros;
+
+
+IV –
+
+vender produtos inflamáveis ou explosivos;
+
+
+V –
+
+utilizar a barraca para vender gêneros ou mercadorias que não estejam previsto em seu licenciamento;
+
+
+VI –
+
+utilizar caixas com mercadorias como parte integrante das barracas em frente às mesmas.
+
+
+Art. 15.
+
+Os feirantes poderão, a seu critério, contribuir com uma taxa mensal, cujo valor será apurado em sistema de condomínio para custear as despesas administrativas e operacionais da feira, valores estes, definidos entre os feirantes.
+
+
+Art. 16.
+
+A entrada de vendedores ambulantes na feira, apenas será permitida sob autorização expressa da Comissão.
+
+
+Art. 17.
+
+Será permitida a realização de shows e atrações artísticas em geral na feira, desde que devidamente autorizados pelo órgão competente da municipalidade, com a anuência da Comissão.
+
+
+Parágrafo único
+
+Não será permitida a venda pelos participantes dos shows de CDs ou DVDs que não tenha sido produzido pelos meios legais.
+
+
+Art. 18.
+
+Caberá à Secretaria Municipal de Habitação e Desenvolvimento Econômico e a Comissão a organização e a fiscalização da Feira da Lua.
+
+
+Art. 19.
+
+Esta Lei entrar em vigor na data de sua publicação, revogadas as disposições contrárias, em especial a Lei nº 1592/2015.
+
+
+Paço Municipal de Califórnia, 09 de novembro de 2017.
+
+***PAULO WILSON MENDES***
+
+Prefeito do Município de Califórnia
+

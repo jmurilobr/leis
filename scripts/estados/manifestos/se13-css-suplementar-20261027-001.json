@@ -1,0 +1,15 @@
+{
+  "preparado_em": "2026-10-27T18:24:54.666249-03:00",
+  "pacote_preservado": "scripts/estados/manifestos/se13-proposta-privada-20261027-001.json",
+  "total": 13,
+  "retencoes": 0,
+  "testes": 6,
+  "QA": "estaduais/SE/_fonte/auditorias/se13-privado-20261027-001/css-suplementar.json",
+  "sha256_QA": "4fd681fc0c964920c78956341e73c6fa9c73079c1dc0fbedd802ff70d57c9051",
+  "codigo": {
+    "scripts/estados/snapshots/css_contexto_campo_20261027_001/css_contexto_campo.py": "a0609e6de8ac59781b2ef88a1219186c54628c21ab04e3682726f22b1bf41e4b",
+    "scripts/estados/snapshots/css_contexto_campo_20261027_001/test_css_contexto_campo.py": "cfc166f8bbcece8f6d1c18cd1e86d0eb8040b4fbbdcc188c6df34bea9510587f"
+  },
+  "metodo": "CSS inline integral e regras aplicáveis ao body/descendentes/ancestrais conferidos com tinycss2/cssselect2. Nenhuma folha externa no HTML normativo. Todas condições media/supports examinadas conservadoramente; nenhum loader excepcionado.",
+  "limite": "Ausência de risco nas propriedades examinadas não é promessa de identidade tipográfica; texto e sinais já passaram CommonMark. Este overlay não reescreve pacote anterior."
+}

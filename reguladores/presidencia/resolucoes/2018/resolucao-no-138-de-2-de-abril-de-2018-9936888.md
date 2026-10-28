@@ -1,0 +1,23 @@
+---
+titulo: "RESOLUÇÃO No 138, DE 2 DE ABRIL DE 2018"
+orgao: "Presidência da República/Casa Civil/Comitê Gestor da Infraestrutura de Chaves Públicas"
+tipo: "Resolução"
+numero: "138"
+data: 2018-04-02
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 11/04/2018, seção 1, p. 12"
+data_publicacao: 2018-04-11
+edicao: "69"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-no-138-de-2-de-abril-de-2018-9936888"
+sha256_html_fonte: d14bdca15046cce4ee243322a37032f7942476f8cfd59364a0914f12d99bc83e
+baixado_em: 2026-10-27
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# RESOLUÇÃO No 138, DE 2 DE ABRIL DE 2018
+
+<div class="texto-dou"><p class="identifica"><strong class="dou-strong" >RESOLUÇÃO No 138, DE 2 DE ABRIL DE 2018</strong></p><p class="ementa">ALTERA A EXTENSÃO "SUBJECT ALTERNATIVE NAME" PARA CERTIFICADOS DE EQUIPAMENTO A CF-e-SAT.</p><p class="dou-paragraph" ><strong class="dou-strong" >O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,</strong>no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Interno, torna público que o COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA, no exercício das competências previstas no art. 4°, da Medida Provisória n° 2.200-2, de 24 de agosto de 2001, em plenária virtual encerrada em 02 de abril de 2018, resolveu:</p><p class="dou-paragraph" >Art. 1º A alínea "d", do item 7.1.2.3, do DOC-ICP-04, versão 6.4, passa a vigorar com a seguinte redação:</p><p class="dou-paragraph" >"7.1.2.3 .....................................................................................</p><p class="dou-paragraph" >..........................................................................................................</p><p class="dou-paragraph" >d) Para certificado de equipamento A CF-e-SAT, 3 (três) campos otherName, obrigatórios, contendo, nesta ordem:</p><p class="dou-paragraph" >i. OID = 2.16.76.1.3.8 e conteúdo<strong class="dou-strong" ></strong>= nome empresarial constante do CNPJ (Cadastro Nacional de Pessoa Jurídica), sem abreviações, idêntico ao constante no certificado digital de pessoa jurídica requisitante deste ou quando o requisitante for uma Secretaria Estadual da Fazenda, o CNPJ do contribuinte a quem foi atribuído o certificado;</p><p class="dou-paragraph" >ii. OID = 2.16.76.1.3.3 e conteúdo = nas 14 (quatorze) posições o número do Cadastro Nacional de Pessoa Jurídica (CNPJ), idêntico ao constante no certificado digital de pessoa jurídica requisitante deste ou quando o requisitante for uma Secretaria Estadual da Fazenda, o CNPJ do contribuinte a quem foi atribuído o certificado;</p><p class="dou-paragraph" >iii. OID = 2.16.76.1.3.10 e conteúdo = nas primeiras 10 (dez) posições, número de série do equipamento emissor de CF-e-SAT; nas 14 (quatorze) posições subsequentes, o número da inscrição estadual da pessoa jurídica emissora do CF-e-SAT; nas 14 (quatorze) posições subsequentes, o número da inscrição municipal da pessoa jurídica emissora do CF-e-SAT.</p><p class="dou-paragraph" ><strong class="dou-strong" >NOTA:</strong>Uma Secretaria Estadual de Fazenda tem a competência institucional de promover a gestão tributária e financeira estadual, bem como supervisionar, coordenar e executar a política tributária e fiscal do Estado." (NR)</p><p class="dou-paragraph" >Art. 2º O item 7.1.2.4, do DOC-ICP-04, versão 6.4, passa a vigorar acrescido da seguinte alínea:</p><p class="dou-paragraph" >"7.1.2.4 ...................................................................................</p><p class="dou-paragraph" >........................................................................................................</p><p class="dou-paragraph" >h) Quando o número da inscrição estadual e o número da inscrição municipal da pessoa jurídica emissora do CF-e-SAT não estiverem disponíveis não precisam ser preenchidos." (NR)</p><p class="dou-paragraph" >Art. 3º Fica aprovada a versão 6.5 do Documento DOC-ICP-04 - REQUISITOS MÍNIMOS PARA AS POLÍTICAS DE CERTIFICADO NA ICP-BRASIL.</p><p class="dou-paragraph" >§ 1º As demais cláusulas do referido documento, nas suas versões imediatamente anteriores, em sua ordem originária, integram a presente versão e mantêm-se válidas.</p><p class="dou-paragraph" >§ 2º O documento referido no caput encontra-se disponibilizado, em sua totalidade, no sítio http://www.iti.gov.br.</p><p class="dou-paragraph" >Art. 4º Esta Resolução entra em vigor na data da sua publicação.</p><p class="assina">LUIZ CARLOS DE AZEVEDO</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

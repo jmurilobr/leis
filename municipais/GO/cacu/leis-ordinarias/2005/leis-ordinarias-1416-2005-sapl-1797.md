@@ -1,0 +1,638 @@
+---
+titulo: "Lei Ordinária nº 1.416, de 09 de março de 2005"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1416"
+data: "2005-03-09"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/1797"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/104/text"
+sha256_fonte: "8ff5d504e7a7311e173af2bd88fe8b237d3b3a88beb91ec6808f87e79607aa77"
+sha256_texto: "0aa789694522868f03004905a4cd893eef0f67dc20505267f30b40686bd6cf4c"
+capturado_em_fonte: "2026-10-27T21:38:14.509067-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.416, de 09 de março de 2005
+
+Dispõe sobre a implantação do Sistema de Controle Interno do Município, consoante estabelece os artigos 74 da Constituição Federal e 82 c/c o artigo 29 da Constituição do Estado e dá outras providências.
+
+
+**O PREFEITO DE CAÇU**, Estado de Goiás: Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+É criada a Secretaria Municipal de Controle Interno do Município de Caçu, conforme determinado nos artigos 74 e 75 da Constituição Federal e art. 82 c/c art. 29 da Constituição Estadual, com a finalidade de:
+
+
+I –
+
+avaliar o cumprimento das metas previstas no Plano Plurianual, a execução dos programas de Governo e do orçamento do Município;
+
+
+II –
+
+comprovar a legalidade e avaliar os resultados quanto à eficácia e eficiência da gestão orçamentária, financeira e patrimonial nos órgãos e entidades da Administração Municipal, bem como da aplicação de recursos públicos por entidades de direito privado;
+
+
+III –
+
+exercer o controle das operações de crédito e garantias, bem como dos direitos e deveres do Município;
+
+
+IV –
+
+apoiar o controle externo no exercício de sua missão institucional.
+
+
+§ 1º
+
+A avaliação do cumprimento das metas do Plano Plurianual visa a comprovar a conformidade da sua execução.
+
+
+§ 2º
+
+A avaliação da execução dos programas de governo visa a comprovar o nível de execução das metas, o alcance dos objetivos e a adequação do gerenciamento.
+
+
+§ 3º
+
+A avaliação da execução do orçamento do Município visa a comprovar a conformidade da execução com os limites e destinações estabelecidos na legislação pertinente.
+
+
+§ 4º
+
+A avaliação da gestão do administrador público municipal visa a comprovar a legalidade e a legitimidade dos atos e a examinar os resultados quanto à economicidade, à eficiência e à eficácia da gestão orçamentária, financeira, patrimonial, de pessoal e demais sistemas administrativos e operacionais.
+
+
+§ 5º
+
+O controle das operações de crédito, garantias, direitos e haveres do Município visa a aferir a sua consistência e a adequação dos controles internos.
+
+
+Art. 2º.
+
+Compete a Secretaria de Controle Interno do Município de Caçu:
+
+
+I –
+
+normatizar, sistematizar e padronizar os procedimentos operacionais dos órgãos municipais, observadas as disposições da Lei Orgânica e demais normas do Tribunal de Contas dos Municípios;
+
+
+II –
+
+verificar a consistência dos dados contidos no Relatório de Gestão Fiscal, conforme estabelecido no art. 54 da Lei Complementar n. 101, de 04 de maio de 2000, que será assinado também pelo Secretário Municipal, responsável pelo controle interno;
+
+
+III –
+
+exercer o controle das operações de crédito, garantias, direitos e haveres do Município;
+
+
+IV –
+
+verificar a observância dos limites e das condições para realização de operações de crédito e inscrição em Restos a Pagar;
+
+
+V –
+
+verificar a destinação de recursos obtidos com a alienação de ativos, tendo em vista as restrições constitucionais e as da Lei Complementar nº 101, de 2000;
+
+
+VI –
+
+avaliar o cumprimento das metas estabelecidas no Plano Plurianual, na Lei de Diretrizes Orçamentárias e no Anexo de Metas Fiscais;
+
+
+VII –
+
+avaliar a execução do orçamento do Município;
+
+
+VIII –
+
+fiscalizar e avaliar a execução dos programas de governo;
+
+
+IX –
+
+realizar auditorias sobre a gestão dos recursos públicos municipais sob a responsabilidade de órgãos e entidades públicos e privados, bem como sobre a aplicação de subvenções e renúncia de receitas;
+
+
+X –
+
+apurar os atos ou fatos inquinados de ilegais ou irregulares, praticados por agentes públicos ou privados, na utilização de recursos públicos municipais, dar ciência ao controle externo e, quando for o caso, comunicar à unidade responsável pela contabilidade, para as providências cabíveis.
+
+
+§ 1º
+
+A Secretaria de Controle Interno utiliza como técnicas de trabalho, para execução de suas finalidades, a auditoria e a fiscalização.
+
+
+§ 2º
+
+A auditoria visa ao acompanhamento da execução do orçamento, à avaliação da gestão pública, pelos processos e resultados gerenciais, e à aplicação de recursos públicos por entidades de direito privado.
+
+
+§ 3º
+
+A fiscalização visa a comprovar se o objeto dos programas de governo corresponde às especificações estabelecidas, atende às necessidades para as quais foi definido, guarda coerência com as condições e características pretendidas e se os mecanismos de controle são eficientes.
+
+
+Art. 3º.
+
+No apoio ao controle externo, a Secretaria de Controle Interno deverá exercer, dentre outras, as seguintes atividades:
+
+
+I –
+
+organizar e executar, por iniciativa própria ou por determinação do Tribunal de Contas dos Municípios, programação semestral de auditoria contábil, financeira, orçamentária, operacional e patrimonial nas unidades administrativas sob seu controle, enviando ao Tribunal os respectivos relatórios, na forma a ser estabelecida em Resolução Normativa a ser editada pelo Tribunal de Contas dos Municípios do Estado de Goiás;
+
+
+II –
+
+realizar auditorias nas contas dos responsáveis sob seu controle, emitindo relatório, certificado de auditoria e parecer;
+
+
+III –
+
+alertar formalmente ao Prefeito Municipal, para que instaure Tomada de Contas Especial, sempre que tiver conhecimento de qualquer das ocorrências que ensejem tal providência, conforme disciplinado na RN 004/97, do Tribunal de Contas dos Municípios do Estado de Goiás.
+
+
+Art. 4º.
+
+O Secretário de Controle Interno, ao tomar conhecimento de qualquer irregularidade ou ilegalidade, dela dará ciência de imediato ao Tribunal de Contas dos Municípios, sob pena de responsabilidade solidária.
+
+
+§ 1º
+
+Na comunicação ao Tribunal, o Secretário de Controle Interno informará as providências adotadas para:
+
+
+I –
+
+corrigir a ilegalidade ou irregularidade apurada;
+
+
+II –
+
+ressarcir o eventual dano causado ao Erário;
+
+
+III –
+
+evitar ocorrências semelhantes.
+
+
+§ 2º
+
+Verificada em inspeção ou auditoria, ou na apreciação e julgamento das contas, irregularidade ou ilegalidade que não tenha sido comunicada tempestivamente ao Tribunal, e constatada a omissão, o Secretário de Controle Interno, na qualidade de responsável solidário, ficará sujeito às sanções previstas para a espécie na Resolução Normativa nº 004/2001, do Tribunal de Contas dos Municípios.
+
+
+Art. 5º.
+
+Serão objeto de controles específicos :
+
+
+I –
+
+a execução orçamentária e financeira;
+
+
+II –
+
+o sistema de pessoal ( ativo e inativo );
+
+
+III –
+
+a incorporação, tombamento e baixa dos bens patrimoniais;
+
+
+IV –
+
+os bens em almoxarifado;
+
+
+V –
+
+as licitações, contratos, convênios, acordos e ajustes;
+
+
+VI –
+
+as obras públicas, inclusive reformas;
+
+
+VII –
+
+as operações de créditos;
+
+
+VIII –
+
+os suprimentos de fundos;
+
+
+IX –
+
+as doações, subvenções, auxílios e contribuições concedidos;
+
+
+#### CAPÍTULO I — DA EXECUÇÃO ORÇAMENTÁRIA E FINANCEIRA
+
+
+Art. 6º.
+
+Os instrumentos de controle relativos à execução orçamentária e/ou financeira são: as Fichas de Controle Orçamentário; o Razão (Partidas sintéticas), Diário, Livro Caixa e os Boletins de Tesouraria.
+
+
+§ 1º
+
+Os instrumentos de controle referidos no caput deste artigo devem permanecer com seus registros atualizados na sede da Prefeitura, à disposição do Controle Interno e do Tribunal de Contas dos Municípios.
+
+
+§ 2º
+
+Se o controle for informatizado, este deverá estar impresso, encadernado e devidamente rubricado pela autoridade competente, até o prazo para o envio da Prestação de Contas para o Tribunal de Contas.
+
+
+Art. 7º.
+
+Para efeito de controle, os empenhos anulados serão processados mediante extração de documento denominado "Nota de Anulação de Empenho", e registro na ficha de controle orçamentário.
+
+
+Art. 8º.
+
+A Nota de Anulação de Empenho será extraída sempre que a despesa empenhada não se realize ou quando o valor do dispêndio for inferior ao indicado na Nota de Empenho da Despesa.
+
+
+Parágrafo único
+
+Anulado o empenho, reverter-se-á à dotação orçamentária originária o crédito respectivo.
+
+
+Art. 9º.
+
+O pagamento da despesa será processado mediante a emissão da Ordem de Pagamento, ou registro de natureza equivalente que, entre outras informações, conterá o nome do credor, o valor exato a pagar, a unidade gestora responsável pelo pagamento, o número da conta bancária e cheque, da nota de empenho e da nota fiscal respectiva, quando for o caso.
+
+
+Art. 10.
+
+As quitações das importâncias recebidas pelos credores serão efetuadas através das assinaturas firmadas em recibos ou nas Notas de Pagamentos.
+
+
+#### CAPÍTULO II — DO SISTEMA DE PESSOAL
+
+
+Art. 11.
+
+A Administração Municipal de Caçu deverá manter registro informatizado, individualizado e atualizado de todos os servidores públicos, incluídos os ocupantes de cargo em comissão e os contratados por prazo determinado.
+
+
+Parágrafo único
+
+Os registros deverão conter os dados pessoais do servidor, ato e data de admissão e resolução que o registrou no Tribunal de Contas dos Municípios, cargo ou função, lotação, remuneração e alterações ocorridas.
+
+
+Art. 12.
+
+A Administração Municipal deverá manter registro atualizado das Pensões e Aposentadorias concedidas, identificando o nome do beneficiado e a fundamentação legal, bem como o registro junto ao Tribunal de Contas dos Municípios.
+
+
+#### CAPÍTULO III — DOS BENS DE NATUREZA PERMANENTE
+
+
+Art. 13.
+
+O Prefeito deverá designar, oficialmente, servidor para exercer o controle do material de acordo com a unidade orçamentária, órgão ou sistema centralizado, quando for o caso.
+
+
+Art. 14.
+
+Os materiais permanentes, na aquisição ou incorporação ao patrimônio, receberão números seqüenciais de registro patrimonial para identificação e inventário. O número de registro deverá ser aposto no material, mediante gravação, fixação de plaqueta ou etiqueta apropriada e carimbo para o material bibliográfico.
+
+
+Art. 15.
+
+Os bens patrimoniais serão registrados em fichas ou livro de inventário, que conterão: data de aquisição; incorporação ou baixa; descrição do bem; quantidade; valor; número do processo e identificação do responsável por sua guarda e conservação.
+
+
+Art. 16.
+
+A Administração Municipal realizará periodicamente o inventário físico dos bens patrimoniais em períodos não superiores a 01 (um) ano, com o objetivo de atualizar os registros e controles administrativo e contábil, confirmar a responsabilidade dos agentes responsáveis por sua guarda e instruir as prestações de contas anuais.
+
+
+Art. 17.
+
+O registro dos veículos e máquinas pertencentes ao Município deverá ser mantido em livro ou fichas devidamente numeradas, com indicação da marca, cor, ano de fabricação, tipo, número da nota fiscal, modelo, número do motor e do chassis, data de aquisição, placa e número do registro no Departamento de Trânsito, quando for o caso.
+
+
+Art. 18.
+
+Para cada veículo e máquina haverá o controle de quilometragem ou de horas trabalhadas com o demonstrativo de consumo de combustíveis e lubrificantes, e nos serviços mecânicos, das peças e acessórios utilizados nos mesmos, mencionando a quantidade comprada, o valor e a data da realização da despesa.
+
+
+#### CAPÍTULO IV — DOS MATERIAIS EM ALMOXARIFADO
+
+
+Art. 19.
+
+Os bens de consumo adquiridos serão controlados por agente responsável por sua guarda e administração, através de fichas de controle, preenchidos com base na nota de empenho e nota fiscal na data da entrega do material.
+
+
+Art. 20.
+
+Os materiais guardados no almoxarifado deverão ser solicitados por escrito, mediante requisição onde fiquem comprovados o tipo de material, o nome e assinatura do requisitante e a destinação do mesmo.
+
+
+Art. 21.
+
+O registro de materiais e bens em estoque deverá ser processado em fichas, contendo os seguintes dados:
+
+
+I –
+
+data de entrada e saída dos mesmos;
+
+
+II –
+
+especificação do material;
+
+
+III –
+
+quantidade e custos;
+
+
+IV –
+
+destinação dos materiais e bens com base nas requisições, não sendo aceita indicação de destinação genérica.
+
+
+V –
+
+os bens e materiais em estoque no almoxarifado deverão ser avaliados pelo preço médio ponderado das compras, como determina o art. 106, III, da Lei Federal n.º 4320/64;
+
+
+VI –
+
+os níveis de estoque deverão ser controlados e atualizados sistematicamente.
+
+
+Parágrafo único
+
+O valor total dos estoques, apurado no encerramento do exercício ou da gestão financeira, deverá ser registrado em conta própria do sistema patrimonial.
+
+
+#### CAPÍTULO V — DAS LICITAÇÕES, CONTRATOS , CONVÊNIOS, ACORDOS E AJUSTES
+
+
+Art. 22.
+
+As licitações, contratos, convênios, acordos e ajustes deverão constituir processo próprio, devidamente autuado e protocolado e registrado em fichas ou livro apropriado, em ordem seqüencial, contendo os elementos básicos para fins de identificação.
+
+
+Art. 23.
+
+A Prefeitura manterá cadastro atualizado de todas as empresas que forneçam materiais ou equipamentos, bem como das que prestem serviços da Administração Municipal.
+
+
+Art. 24.
+
+Os recursos financeiros oriundos de convênios serão movimentados em conta bancária vinculada e específica, sendo vedada a transferência dos mesmos a qualquer outra conta da administração ou a utilização de forma diversa da estabelecida na legislação ou no instrumento do respectivo convênio.
+
+
+Art. 25.
+
+Quando o convênio compreender a aquisição de equipamentos ou outros materiais permanentes ou bens imóveis, e este não contiver cláusula expressa quanto ao destino a ser dado aos bens remanescentes, na data de extinção do convênio, o município deverá incorporá-los ao seu patrimônio.
+
+
+Parágrafo único
+
+A incorporação de bens, materiais e equipamentos adquiridos mediante Convênios com recursos financeiros, totais ou parciais, da União ou do Estado, ou conjuntamente de ambos, doados ao município, fica submetida à fiscalização do Tribunal de Contas dos Municípios.
+
+
+Art. 26.
+
+Os convênios deverão ser devidamente assinados pelo Prefeito Municipal.
+
+
+Art. 27.
+
+As prestações de contas de convênios celebrados com pessoas de direito privado, após conclusas, devem ser arquivadas com os respectivos pareceres e avaliações, ficando ao dispor do Tribunal de Contas dos Municípios para posterior fiscalização.
+
+
+#### CAPÍTULO VI — DAS OBRAS PÚBLICAS E REFORMAS
+
+
+Art. 28.
+
+O controle de obras e serviços de engenharia do Município deverá observar o seguinte:
+
+
+I –
+
+os registros de ocorrências através do Diário da Obra.
+
+
+II –
+
+a manutenção de cadastros atualizados de fornecedores de materiais, equipamentos e serviços destinados às obras, os quais deverão permanecer sempre à disposição do Controle Externo do Tribunal de Contas dos Municípios.
+
+
+Art. 29.
+
+Para as obras novas, reformas e ampliações, executadas por administração direta, ou através de contratação, a Administração deverá preparar e manter em seus arquivos, conforme o caso, o seguinte:
+
+
+a)
+
+croquis ou mapa com a indicação da localização da obra no município;
+
+
+b)
+
+relação nominal dos beneficiários;
+
+
+c)
+
+discriminação detalhada do objeto contratual, especificando para os serviços listados os respectivos valores financeiros;
+
+
+d)
+
+A.R.T. (Anotação de Responsabilidade Técnica) pela auditoria dos projetos;
+
+
+e)
+
+A.R.T. (Anotação de Responsabilidade Técnica) pela execução das obras ou serviços;
+
+
+f)
+
+anteprojeto ou projeto básico;
+
+
+g)
+
+projeto arquitetônico detalhado;
+
+
+h)
+
+projetos complementares (fundações, estrutura, instalações, etc);
+
+
+i)
+
+memorial descritivo (especificação dos serviços);
+
+
+j)
+
+orçamento detalhado com preços unitários discriminados em colunas próprias para: materiais, mão-de-obra e total;
+
+
+k)
+
+fotografias da situação pré-existente, no caso de reformas ou de necessidade de obras novas;
+
+
+l)
+
+fotografias da obra nova, reforma ou ampliação realizada;
+
+
+m)
+
+demais informações necessárias para a perfeita caracterização dos serviços a serem executados.
+
+
+Art. 30.
+
+Para os serviços de manutenção executados por administração direta, avençados com ou sem instrumento contratual, a Administração deverá preparar e manter em seus arquivos o seguinte:
+
+
+a)
+
+croquis, mapa, ou relação nominal indicando a localização dos serviços ou onde foram aplicados os materiais no município;
+
+
+b)
+
+relação dos materiais utilizados em cada local;
+
+
+c)
+
+relação nominal dos beneficiários;
+
+
+d)
+
+discriminação detalhada do objeto contratual, especificando para os serviços listados os respectivos valores financeiros;
+
+
+e)
+
+demais informações necessárias para a perfeita caracterização dos serviços a serem executados.
+
+
+#### CAPÍTULO VII — DAS OPERAÇÕES DE CRÉDITO
+
+
+Art. 31.
+
+A Administração Municipal deverá manter controle específico de todos os empréstimos tomados pelo município, onde se identifiquem os contratos, valores, prazos, desembolsos ou amortizações, bem como aditamentos que elevem o valor da dívida ou modifiquem prazos contratuais.
+
+
+Parágrafo único
+
+As dívidas referidas no caput deste artigo compreendem as decorrentes de compromissos exigíveis a curto e longo prazo assumidos pelo município.
+
+
+#### CAPÍTULO VIII — DOS ADIANTAMENTOS
+
+
+Art. 32.
+
+O adiantamento, através do qual o Ordenador de Despesas entrega ao servidor público numerário para realizar dispêndios que não possam subordinar-se ao processo normal da despesa, será instituído e regulamentado por Decreto Municipal.
+
+
+Art. 33.
+
+A Prestação de Contas do suprimento de fundos deve efetivar-se através de processos autuados e arquivados na contabilidade do município, pelo prazo de 05 (cinco) anos, à disposição do TCM, conforme RN n° 007/96 editado por aquele órgão.
+
+
+Art. 34.
+
+A Administração Municipal manterá controle interno dos suprimentos concedidos.
+
+
+Art. 35.
+
+Na prestação de contas dos suprimentos somente serão admitidas despesas realizadas dentro do período de vigência dos mesmos.
+
+
+#### CAPÍTULO IX — DAS DOAÇÕES, SUBVENÇÕES, AUXÍLIOS E CONTRIBUIÇÕES CONCEDIDAS
+
+
+Art. 36.
+
+Os programas assistenciais, envolvendo doações aos munícipes reconhecidamente carentes, deverão ser disciplinados por lei específica, devendo ainda os órgãos da Administração Pública Municipal manter o controle, através de livro ou fichas, indicando o nome completo, endereço e o número da identidade do beneficiado ou documento equivalente.
+
+
+Disposições Finais
+
+DISPOSIÇÕES FINAIS
+
+
+Art. 37.
+
+O Prefeito Municipal emitirá sobre as contas e o parecer do controle interno, expresso e indelegável pronunciamento, no qual atestará haver tomado conhecimento das conclusões nele contidas.
+
+
+Parágrafo único
+
+A omissão ou falseamento da informação na escrituração ou nas demonstrações a qualquer título sujeitará o titular da Contabilidade à responsabilidade solidária, por qualquer fato que venha provocar danos ou prejuízos.
+
+
+Art. 38.
+
+Fica impedido de atuar em qualquer função no âmbito do controle interno, aqueles cujas prestações de contas hajam sido reprovadas por Resolução ou Acórdão do Tribunal de Contas dos Municípios do Estado de Goiás, transitados em julgado.
+
+
+Art. 39.
+
+Fica criado na Lei Municipal nº 956/93, que estabelece a Estrutura Administrativa da Prefeitura Municipal de Caçu o cargo de Secretário Municipal de Controle Interno.
+
+
+Art. 40.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a colocar à disposição da Secretaria de Controle Interno, quando solicitado e devidamente justificado, servidores do quadro de pessoal do Município.
+
+
+Art. 41.
+
+Esta lei entrará em vigor na data da sua publicação, produzindo efeitos a partir de 1º de janeiro de 2005.
+
+
+**PREFEITURA MUNICIPAL DE CAÇU**, Estado de Goiás, em 09 de março de 2005.
+
+
+**GILMAR JOSÉ DE FREITAS GUIMARÃES**
+
+PREFEITO
+

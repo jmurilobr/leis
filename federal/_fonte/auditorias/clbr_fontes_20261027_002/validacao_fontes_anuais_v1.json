@@ -1,0 +1,20 @@
+{
+  "escopo": "Releitura de disco integral dos PDFs oficiais capturados, antes de usar a fonte para recuperação. Não há triagem automática de normas nesta etapa.",
+  "sha256_guard_vivo_para_QA_posterior": "3cd60ac4a398a27cc0f646f891e853f6b120b1a963deb4cc9f0ccfd7d6ca0cd0",
+  "registros": [
+    {
+      "path": "federal/_fonte/auditorias/clbr_fontes_20261027_002/1944-decretos.pdf",
+      "sha256": "0121bbf0f93a4056977babdbe9f423bee9d9cbb91000db47e804104831569d87",
+      "bytes": 90931199,
+      "leitura_disco_integral_igual_captura": true,
+      "url": "https://bd.camara.leg.br/bd/bitstreams/4be6a61c-abe5-44ef-850e-0bf6d5a68458/download"
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_fontes_20261027_002/1948-executivo.pdf",
+      "sha256": "9e74520516f92776214c9e02be8fd813d16a347e226f32139a848850a0bb67b7",
+      "bytes": 69168175,
+      "leitura_disco_integral_igual_captura": true,
+      "url": "https://bd.camara.leg.br/bd/bitstreams/fb184688-db96-47e8-8f4c-c6131098f8ca/download"
+    }
+  ]
+}

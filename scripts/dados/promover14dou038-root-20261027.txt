@@ -1,0 +1,26 @@
+from pathlib import Path
+import json,gzip,hashlib,subprocess,os,sys
+sha=lambda b:hashlib.sha256(b).hexdigest()
+rp=Path('scripts/dados/dou038-nativo-candidatos-v2-20261027.json');rows=[r for r in json.loads(rp.read_text())['documentos'] if r['aceito']];assert len(rows)==14
+h={str(rp):sha(rp.read_bytes())};pending=[]
+for r in rows:
+ p=Path(r['path']);old=p.read_bytes();assert sha(old)==r['sha256_md_preimagem'],str(p)
+ backup=Path(r['backup']).read_bytes();candidate=Path(r['candidato']).read_bytes();source=Path(r['cache']).read_bytes()
+ assert sha(backup)==r['sha256_backup_gzip'] and gzip.decompress(backup)==old
+ final=gzip.decompress(candidate);assert sha(candidate)==r['sha256_candidato_gzip'] and sha(final)==r['sha256_md_candidato']
+ assert sha(gzip.decompress(source))==r['sha256_fonte'] and len(source)<95*1024**2
+ for f in [r['backup'],r['candidato'],r['cache']]:h[f]=sha(Path(f).read_bytes())
+ h[str(p)]=sha(final);pending.append((p,old,final))
+q=subprocess.check_output(['git','cat-file','--batch-check'],input=''.join('HEAD:'+str(p)+'\n' for p,_,_ in pending).encode());assert len(q.splitlines())==14 and all(x.endswith(b' missing') for x in q.splitlines())
+print('14 fontes/preimagens/candidatos conferidos; destinos ausentes em HEAD',flush=True)
+if '--apply' not in sys.argv:raise SystemExit(0)
+receipt=Path('scripts/dados/dou038-promocao14-root-20261027.json');assert not receipt.exists()
+for p,old,final in pending:
+ assert p.read_bytes()==old
+ temp=p.with_name('.'+p.name+'.promocao14.tmp');assert not temp.exists()
+ with temp.open('xb') as f:f.write(final);f.flush();os.fsync(f.fileno())
+ os.replace(temp,p);assert p.read_bytes()==final
+receipt.write_text(json.dumps({'promovidos':14,'criterio':'Fontes integrais gzip, preimagens e candidatos privados conferidos por SHA antes da primeira escrita. Candidatos aprovados pelo auditor integrado e igualdade GFM integral/numerica. Promocao atomica por preimagem; cruzamento final obrigatorio antes de publicacao.','sha256':h},ensure_ascii=False,indent=2)+'\n');h[str(receipt)]=sha(receipt.read_bytes())
+for f in ['_fonte/operacao_root_20261027/dou038-nativo-candidatos.py',str(Path(__file__))]:
+ src=Path(f);dst=Path('scripts/dados')/(src.stem+'-root-20261027.txt');assert not dst.exists();dst.write_bytes(src.read_bytes());h[str(dst)]=sha(dst.read_bytes())
+Path('_fonte/operacao_root_20261027/dou038-nativos14-hashes.json').write_text(json.dumps(h,ensure_ascii=False,indent=2)+'\n');print('14 promovidos; fontes/preimagens preservadas',flush=True)

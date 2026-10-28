@@ -1,0 +1,32 @@
+{
+  "guard_sha256": "3cd60ac4a398a27cc0f646f891e853f6b120b1a963deb4cc9f0ccfd7d6ca0cd0",
+  "registros": [
+    {
+      "original": "federal/_fonte/auditorias/promocao439_20261028_002/replay439.py",
+      "sha256_original": "5a60bbdc5ab453f09a9a59f379490a797dcea2e1b543af4538065c65750b561d",
+      "sucessor": "federal/_fonte/auditorias/legado_guard74_20261028_002/replay_legado439.py",
+      "sha256_sucessor": "0898e2a1877e8ddba9776b0db95ec3600739d15d27f7c294c9b1d8e496e74649",
+      "sufixo_integral_predicado_e_replay_identico_a_partir_de_D_ROOT": true,
+      "edicoes_IO": [
+        "Nome do recibo próprio do sucessor",
+        "Remapeamento exclusivo da leitura SHA do guard",
+        "Importação do guard74 arquivado com conferência de __file__"
+      ],
+      "limites": "Replay histórico, sem promoção ou escrita; promotores originais continuam originais. Não requalifica fontes com guard80."
+    },
+    {
+      "original": "federal/_fonte/auditorias/promocao411_20261028_001/replay411.py",
+      "sha256_original": "46135ba42c62e73d4c273dad0d0455c2a505f35684976bd4d4453c1cffaba2af",
+      "sucessor": "federal/_fonte/auditorias/legado_guard74_20261028_002/replay_legado411.py",
+      "sha256_sucessor": "ac6fc19195b3b8467559e87d3a51bb0b24e13a7127a6a04cc91aca603f3b4a43",
+      "sufixo_integral_predicado_e_replay_identico_a_partir_de_D_ROOT": true,
+      "edicoes_IO": [
+        "Nome do recibo próprio do sucessor",
+        "Remapeamento exclusivo da leitura SHA do guard",
+        "Importação do guard74 arquivado com conferência de __file__"
+      ],
+      "limites": "Replay histórico, sem promoção ou escrita; promotores originais continuam originais. Não requalifica fontes com guard80."
+    }
+  ],
+  "limites": "Nenhum arquivo de origem, canônico, máscara ou guard vivo foi alterado."
+}

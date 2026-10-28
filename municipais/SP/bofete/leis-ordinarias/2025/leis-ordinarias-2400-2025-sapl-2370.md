@@ -1,0 +1,79 @@
+---
+titulo: "Lei Ordinária nº 2.400, de 26 de maio de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2400"
+data: "2025-05-26"
+municipio: "Bofete"
+uf: "SP"
+codigo_ibge: "3506904"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bofete.sp.leg.br/norma/2370"
+fonte_texto: "https://sapl.bofete.sp.leg.br/ta/79/text"
+sha256_fonte: "0aa8aaa7b6769c97b0dbdde1a50b4f171c6dff5057323df7d0bf677fe33f758e"
+sha256_texto: "a23d801d2c2d358b6af24c6e88486fac2002c3d0ff6a618f5bcce1420a31a83f"
+capturado_em_fonte: "2026-10-27T19:11:00.838351-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.400, de 26 de maio de 2025
+
+DISPÕE SOBRE O PROGRAMA DE ACOMPANHAMENTO INTEGRAL DOS ESTUDANTES COM DISLEXIA, TRANSTORNO DO DÉFICIT DE ATENÇÃO COM HIPERATIVIDADE (TDAH), DEMAIS TRANSTORNOS DE APRENDIZAGEM, BEM COMO COM DÉFICITS VISUAIS E AUDITIVOS DA REDE MUNICIPAL DE ENSINO E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+EUGENIO CARLOS ALVES, Prefeito do Município de Bofete, Estado de São Paulo, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte lei:
+
+
+Art. 1º.
+
+Fica implantado no município de Bofete o Programa de Acompanhamento Integral dos Estudantes com Dislexia, Transtorno do Déficit de Atenção com Hiperatividade (TDAH), Demais Transtornos de Aprendizagem, bem como com Déficits Visuais e Auditivos da Rede Municipal de Ensino.
+
+
+Parágrafo único
+
+O acompanhamento integral previsto no caput compreende a identificação precoce, o encaminhamento para diagnóstico, o apoio educacional na rede de ensino, o apoio especializado na rede de assistência social, bem como o apoio terapêutico especializado na rede de saúde.
+
+
+Art. 2º.
+
+As escolas da Rede Municipal de Ensino, com apoio da família e dos serviços de saúde e assistência social existentes, devem garantir o cuidado e a proteção ao educando com dislexia, com Transtorno do Déficit de Atenção com Hiperatividade (TDAH), demais transtornos de aprendizagem, bem como com déficits visuais e auditivos da Rede Municipal de Ensino, visando seu pleno desenvolvimento físico, mental, moral, espiritual e social, contando com as redes de proteção social existentes no município de natureza governamental ou não-governamental.
+
+
+Art. 3º.
+
+Os educandos com dislexia, com Transtorno do Déficit de Atenção com Hiperatividade (TDAH), demais transtornos de aprendizagem, bem como com déficits visuais e auditivos da Rede Municipal de Ensino que apresentam alterações no desenvolvimento da leitura e da escrita ou instabilidade na atenção que repercutam na aprendizagem devem ter assegurado o acompanhamento específico voltado a sua dificuldade, da forma mais precoce possível, pelos seus educadores no âmbito da própria escola na qual estão matriculados, podendo contar com o apoio e orientação da área da saúde, da assistência social e de outras políticas públicas existentes no município.
+
+
+Art. 4º.
+
+As necessidades específicas no desenvolvimento do estudante serão atendidas pelos profissionais da rede de ensino em parceria com profissionais da rede de saúde e de assistência-social.
+
+
+Parágrafo único
+
+Caso seja verificada a necessidade de intervenção terapêutica, esta deverá ser estabelecida em caráter prioritário em um serviço de saúde que apresente a possibilidade de avaliação diagnóstica, com metas de acompanhamento por equipe multidisciplinar composta por profissionais necessários ao desempenho dessa abordagem.
+
+
+Art. 5º.
+
+No âmbito do programa estabelecido no artigo 1º desta lei, o órgão competente da municipalidade deverá garantir aos educadores e aos profissionais da Rede Municipal de Ensino o amplo acesso à informação, inclusive com relação aos encaminhamentos possíveis para atendimento multissetorial, a formação continuada objetivando capacitá-los para a identificação precoce dos sinais relacionados à dislexia, ao Transtorno do Déficit de Atenção com Hiperatividade (TDAH), aos demais transtornos de aprendizagem, bem a déficits visuais e auditivos, além do atendimento educacional escolar desses educandos.
+
+
+Art. 6º.
+
+Caberá ao Poder Executivo regulamentar a presente lei no que couber.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Bofete, 26 de maio de 2025.  
+  
+EUGENIO CARLOS ALVES  
+PREFEITO MUNICIPAL
+

@@ -1,0 +1,5 @@
+import fs from 'node:fs';
+import { marked } from '/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/marked/lib/marked.esm.js';
+const input=JSON.parse(fs.readFileSync(process.argv[2],'utf8'));
+const result=input.map(row=>({...row,html:marked.parse(row.markdown,{gfm:true,pedantic:false,breaks:false})}));
+fs.writeFileSync(process.argv[3],JSON.stringify({motor:'marked',versao:'17.0.5',opcoes:{gfm:true,pedantic:false,breaks:false},registros:result}));

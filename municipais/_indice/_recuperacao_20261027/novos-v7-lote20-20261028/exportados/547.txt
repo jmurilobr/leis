@@ -1,0 +1,110 @@
+---
+titulo: "04 - Lei Ordinária nº 866, de 02 de abril de 2015"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "866"
+data: "2015-04-02"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/11"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/258/text"
+sha256_fonte: "7f5daa6b36f2d475aada265024ea39b9597ddef6e944f54b10923b115ff5b872"
+sha256_texto: "41649fb60d2118b31fed27b4b9bcdb8867885225fd3cb656aaf1c1525da763de"
+capturado_em_fonte: "2026-10-28T06:11:45.380698-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 866, de 02 de abril de 2015
+
+Autoriza o chefe do Poder Executivo Municipal a contratar operação de crédito com a Agência de Fomento do Paraná s/a.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou e, Eu Prefeito Municipal sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a contratar com a AGÊNCIA DE FOMENTO DO PARANÁ S.A., operações de crédito até o limite de R$ 1.748.000,00 (Um milhão, setecentos e quarenta e oito mil reais).
+
+
+Parágrafo único
+
+Os valores das operações de crédito estão condicionados a obtenção pela municipalidade, de autorização para a sua realização, em cumprimento aos dispositivos legais aplicáveis ao Endividamento Público através de Resoluções emanadas do Senado Federal e pela Lei Complementar nº 101, de 04.05.2000 (Lei de Responsabilidade Fiscal).
+
+
+Art. 2º.
+
+Os prazos de amortização e carência, os encargos financeiros e outras condições de vencimento e liquidação da dívida a ser contratada, obedecerão às normas pertinentes estabelecidas pelas autoridades monetárias federais, e notadamente o que dispõe o normativo do Senado Federal, bem como as normas específicas da Agência de Fomento do Paraná S.A.
+
+
+Art. 3º.
+
+Os recursos oriundos das operações de crédito autorizadas por esta Lei, serão aplicados na execução dos seguintes Projetos:
+
+
+1
+
+Pavimentação de Vias Urbanas
+
+
+2
+
+Praça
+
+
+3
+
+Terreno para Conjunto Habitacional
+
+
+4
+
+Terreno para Escola
+
+
+5
+
+Equipamentos Rodoviários.
+
+
+Art. 4º.
+
+Em garantia das operações de crédito de que trata esta Lei, fica o Chefe do Executivo Municipal autorizado a ceder à Agência de Fomento do Paraná S.A., parcelas que se fizerem necessárias da quota-parte do Imposto Sobre Operações Relativas a Circulação de Mercadorias e Serviços - ICMS e do Fundo de Participação dos Municípios – FPM, ou tributos que os venham a substituir, em montantes necessários para amortizar as prestações do principal e dos acessórios, na forma do que venha a ser contratado.
+
+
+Art. 5º.
+
+Para garantir o pagamento do principal atualizado monetariamente, juros, multas e demais encargos financeiros decorrentes das operações referidas nesta Lei, o Chefe do Executivo poderá outorgar à Agência de Fomento do Paraná S.A., mandato pleno, para receber e dar quitação das referidas obrigações financeiras, com poderes para substabelecer.
+
+
+Art. 6º.
+
+O prazo e a forma definitiva de pagamento do principal reajustável, acrescidos dos juros e demais encargos incidentes sobre as operações financeiras, obedecidos os limites desta Lei, serão estabelecidos pelo Chefe do Executivo com a entidade financiadora, conforme elencado no contrato de operação de crédito.
+
+
+Art. 7º.
+
+Anualmente, a partir do exercício financeiro subseqüente ao da contratação das operações de crédito, o orçamento do Município consignará dotações próprias para a amortização do principal e dos acessórios das dívidas contratadas.
+
+
+Art. 8º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de Corbélia, aos 02 dias do mês de abril do ano de 2015.
+
+Ivanor Damião Bernardi
+
+Prefeito Municipal
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/11/ta
+

@@ -1,0 +1,27 @@
+from pathlib import Path
+import json,hashlib,gzip,datetime,sys,subprocess,os
+sys.path[:0]=['scripts','scripts/bin/qa-20261027/python']
+import auditar_cache_dou as a
+from markdown_it import MarkdownIt
+from estados.pe_fidelidade_visivel import texto_visivel_html,assinatura_numerica
+sha=lambda b:hashlib.sha256(b).hexdigest()
+base=Path('municipais/_indice/_recuperacao_20261027/dou11997-producao-final');m=json.loads((base/'mapa-final.json').read_text());manifest=json.loads((base/'manifesto.json').read_text());h={}
+for r in manifest['arquivos']:
+ p=r['arquivo']
+ # Manifest captures the explicitly proposed auditor preimage, now separately archived.
+ if p=='scripts/auditar_cache_dou.py':
+  assert sha(Path('_fonte/operacao_root_20261027/auditor-cache-dou-pre-v2.py').read_bytes())==r['sha256'];continue
+ raw=Path(p).read_bytes();assert sha(raw)==r['sha256'],p;h[p]=sha(raw)
+p=Path(m['canonico']);old=p.read_bytes();assert sha(old)==m['canonico_preimagem_sha256'];candidate=Path(m['candidato']).read_bytes();assert sha(candidate)==m['candidato_sha256'];assert sha(Path('scripts/auditar_cache_dou.py').read_bytes())==m['auditor_com_import_proposto_sha256']
+assert subprocess.check_output(['git','cat-file','--batch-check'],input=('HEAD:'+str(p)+'\n').encode()).strip().endswith(b' missing')
+record,meta=a.conferir(p.resolve(),set(),set(),datetime.date(2026,10,27),bruto_md=candidate)
+fragment=Path('municipais/_indice/_recuperacao_20261027/dou11997-v2-final/fragmento-oficial.html').read_text();body=a.meta_corpo(candidate.decode())[1];render=MarkdownIt('commonmark',{'html':True}).enable('table').enable('strikethrough').render(body)
+# Whole body includes the canonical H1; the field comparison is frozen separately.
+proof=json.loads(Path('municipais/_indice/_recuperacao_20261027/dou11997-v2-final/prova.json').read_text());assert proof['dom_texto_atributos_identicos'] and proof['caracteres_visiveis']['fonte']==proof['caracteres_visiveis']['v2']==29071
+temp=p.with_name('.'+p.name+'.v2.tmp');assert not temp.exists()
+with temp.open('xb') as f:f.write(candidate);f.flush();os.fsync(f.fileno())
+assert p.read_bytes()==old;os.replace(temp,p);assert p.read_bytes()==candidate
+h[str(p)]=sha(candidate)
+for f in ['scripts/auditar_cache_dou.py','scripts/representacao_html_dou_v2.py','scripts/test_representacao_html_dou_v2.py',str(base/'manifesto.json')]:h[f]=sha(Path(f).read_bytes())
+pre=Path('scripts/dados/auditor-cache-dou-pre-v2-root-20261027.txt');assert not pre.exists();pre.write_bytes(Path('_fonte/operacao_root_20261027/auditor-cache-dou-pre-v2.py').read_bytes());h[str(pre)]=sha(pre.read_bytes())
+receipt=Path('scripts/dados/dou11997-v2-integracao-root-20261027.json');assert not receipt.exists();receipt.write_text(json.dumps({'promovidos':1,'auditor_integrado':record,'testes':'5 v2, 9 compatibilidade v1, 8 auditor; todos passaram. Replay independente caso real aprovado.','criterio':'Representacao explicita preserva DOM/texto/atributos, substituindo apenas LF textual de linha vazia por entidade. V1 intacto. Fonte integral, preimagem e candidato congelados antes da promocao. Comparadores e gates nao relaxados. Cruzamento final de identidade obrigatorio antes do commit.','sha256':h},ensure_ascii=False,indent=2)+'\n');h[str(receipt)]=sha(receipt.read_bytes());Path('_fonte/operacao_root_20261027/dou11997-v2-hashes.json').write_text(json.dumps(h,ensure_ascii=False,indent=2)+'\n');print('v2 auditado integrado, promovido por preimagem; mapa congelado',flush=True)

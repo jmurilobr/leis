@@ -1,0 +1,62 @@
+{
+  "consulta": {
+    "arquivo": "_fonte/vigencia_cf_20261028_001/recibo-http.json",
+    "sha256": "cc6c584da3257763afee23f5980bb55ea8d61bc9c52362a4b2c9aabb74c3626b",
+    "bytes": 1589
+  },
+  "comparacao": {
+    "arquivo": "_fonte/vigencia_cf_20261028_001/comparacao.json",
+    "sha256": "a2bfe36663650a175839ea9fdd28445b8d6af9a6391e214d1e6e29b7b67c14e0",
+    "bytes": 1893
+  },
+  "arquivos": [
+    {
+      "arquivo": "_fonte/vigencia_cf_20261028_001/README.txt",
+      "sha256": "bbe244bd4477d436fca99a186bee2d6a22675bd8fb6970a351a3559c2518e619",
+      "bytes": 678
+    },
+    {
+      "arquivo": "_fonte/vigencia_cf_20261028_001/codigo/converter_constituicao.py",
+      "sha256": "c9fe0e80d67834a76a8541a4a7da3eab26fdd0784f1efea769fcd7701e6c40ae",
+      "bytes": 5832
+    },
+    {
+      "arquivo": "_fonte/vigencia_cf_20261028_001/codigo/html2md.py",
+      "sha256": "6ad648a6a94c8d51d880a2d79c39f1abe751032d3355e468363e43ca83fdcdc6",
+      "bytes": 15168
+    },
+    {
+      "arquivo": "_fonte/vigencia_cf_20261028_001/comparacao.json",
+      "sha256": "a2bfe36663650a175839ea9fdd28445b8d6af9a6391e214d1e6e29b7b67c14e0",
+      "bytes": 1893
+    },
+    {
+      "arquivo": "_fonte/vigencia_cf_20261028_001/consultar_uma_vez.py",
+      "sha256": "5ff04cbbb54703d8addc2546aca6314a3fbc983beb02f580492992e7e7d5dcfe",
+      "bytes": 7797
+    },
+    {
+      "arquivo": "_fonte/vigencia_cf_20261028_001/curl.stderr.txt",
+      "sha256": "4fbeb3b068dfd0a00fd3fcd95b81af2190310bf9d119abbd0a75dfe1725b0c16",
+      "bytes": 50
+    },
+    {
+      "arquivo": "_fonte/vigencia_cf_20261028_001/curl.stdout.txt",
+      "sha256": "c028a8ecf7c94c15324042d2a87885fbcffa00ea5152c90abdf62f24ece6b3d3",
+      "bytes": 86
+    },
+    {
+      "arquivo": "_fonte/vigencia_cf_20261028_001/headers.http.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "arquivo": "_fonte/vigencia_cf_20261028_001/recibo-http.json",
+      "sha256": "cc6c584da3257763afee23f5980bb55ea8d61bc9c52362a4b2c9aabb74c3626b",
+      "bytes": 1589
+    }
+  ],
+  "consultas_HTTP": 1,
+  "alteracoes_canonicas": 0,
+  "limite": "Consulta da edição oficial servida; não certifica vigência hoje, eficácia imediata ou ausência de outras alterações/emendas."
+}

@@ -1,0 +1,5 @@
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/qa_municipal_persistente_20261027.py scripts/verificar_entrega_ta_sem_promocoes_v2.py --manifesto municipais/_indice/_recuperacao_20261027/agregado921-validado-final/entrega-final.json --replay --saida NOVA_SAIDA_REPLAY.json
+Esperado: 921/921 replays, zero problemas.
+
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/comparar_baseline_municipal_head_20261027.py --baseline municipais/_indice/_recuperacao_20261027/baseline-head-coerente0006/manifesto.json --lista municipais/_indice/_recuperacao_20261027/agregado921-sucessor-final/normas.paths.txt --saida NOVA_SAIDA_CONFRONTO.json
+Esperado: 30.854 comparados (27.626 HEAD + 3.228 reserva qualificada), 921 candidatos e zero colisões. Nenhum dos 281/640 componentes integra esse baseline conjunto. Revalidar HEAD atual antes de publicar.

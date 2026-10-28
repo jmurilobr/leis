@@ -1,0 +1,284 @@
+---
+titulo: "PORTARIA Nº 641, DE 18 DE NOVEMBRO DE 2020"
+orgao: "Ministério da Saúde/Secretaria Executiva"
+tipo: "Portaria"
+numero: "641"
+data: 2020-11-18
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 25/11/2020, seção 1, p. 152"
+data_publicacao: 2020-11-25
+edicao: "225"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-641-de-18-de-novembro-de-2020-290041082"
+sha256_html_fonte: 2ef51fea4377ce300255b2208c331af87e0b24ce7d1a279207687f05d91b98fa
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 641, DE 18 DE NOVEMBRO DE 2020
+
+PORTARIA Nº 641, DE 18 DE NOVEMBRO DE 2020
+
+Defere os pedidos de credenciamento no âmbito do Programa Nacional de Apoio à Atenção da Saúde da Pessoa com Deficiência (PRONAS/PCD).
+
+O SECRETÁRIO-EXECUTIVO ADJUNTO DO MINISTÉRIO DA SAÚDE, no uso da atribuição que lhe confere o art. 21 do Anexo LXXXVI à Portaria de Consolidação nº 5/GM/MS, de 28 de setembro de 2017, e considerando os arts. 1º ao 14º da Lei nº 12.715, de 17 de setembro de 2012, que institui o Programa Nacional de Apoio à Atenção Oncológica (PRONON) e o Programa Nacional de Apoio à Atenção da Saúde da Pessoa com Deficiência (PRONAS/PCD), bem como a regulamentação estabelecida no Decreto nº 7.988, de 17 de abril de 2013, resolve:
+
+**Art. 1º** Deferir os pedidos de credenciamento para apresentação de projetos no âmbito do Programa Nacional de Apoio à Atenção da Saúde da Pessoa com Deficiência (PRONAS/PCD), das instituições relacionadas abaixo:
+
+I - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS VOTORANTIM
+
+CNPJ: 67.364.828/0001-08
+
+Município/UF: Votorantim/SP
+
+NUP: 25000.099854/2020-18;
+
+II - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE ITAPEJARA D'OESTE
+
+CNPJ: 80.872.856/0001-96
+
+Município/UF: Itapejara D'Oeste/PR
+
+NUP: 25000.113181/2020-16;
+
+III - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS JACOBINA
+
+CNPJ: 16.256.083/0001-14
+
+Município/UF: Jacobina/BA
+
+NUP: 25000.108235/2020-21;
+
+IV - Razão Social: ACADAV - ASSOCIAÇÃO CAMPONOVENSE DE APOIO AOS DEFICIENTES AUDITIVOS E VISUAIS
+
+CNPJ: 08.657.864/0001-92
+
+Município/UF: Campos Novos/SC
+
+NUP: 25000.093278/2020-03;
+
+V - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE ARAÇOIABA DA SERRA
+
+CNPJ: 03.177.415/0001-23
+
+Município/UF: Araçoiaba da Serra/SP
+
+NUP: 25000.103503/2020-19;
+
+VI - Razão Social: CENTRO DE PESQUISA E REABILITAÇÃO VISUAL DE ITAPETININGA
+
+CNPJ: 05.697.406/0001-99
+
+Município/UF: Itapetininga/SP
+
+NUP: 25000.101636/2020-51;
+
+VII - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE FLOR DA SERRA DO SUL
+
+CNPJ: 08.942.279/0001-34
+
+Município/UF: Flor da Serra do Sul/PR
+
+NUP: 25000.113241/2020-09;
+
+VIII - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS - APAE
+
+CNPJ: 36.046.068/0001-59
+
+Município/UF: Cariacica/ES
+
+NUP: 25000.099062/2020-43
+
+IX - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE ITARARÉ
+
+CNPJ: 50.343.177/0001-69
+
+Município/UF: Itararé/SP
+
+NUP: 25000.090754/2020-26;
+
+X - Razão Social: IMEPP - ATENDIMENTO SOCIOASSISTENCIAL
+
+CNPJ: 17.688.094/0001-36
+
+Município/UF: Juiz de Fora/MG
+
+NUP: 25000.097162/2020-35;
+
+XI - Razão Social: CAPP CENTRO ASSOCIAÇÃO DE ATIVIDADES PSICOFÍSICAS PATRICK
+
+CNPJ: 80.633.357/0001-46
+
+Município/UF: Chapecó/SC
+
+NUP: 25000.107756/2020-61;
+
+XII - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS
+
+CNPJ: 54.013.313/0001-03
+
+Município/UF: Piracicaba/SP
+
+NUP: 25000.108263/2020-49;
+
+XIII - Razão Social: ASSOCIAÇÃO DA CASA DA DIÁLISE
+
+CNPJ: 06.325.163/0001-20
+
+Município/UF: Uberaba/MG
+
+NUP: 25000.099691/2020-73;
+
+XIV - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE MACATUBA
+
+CNPJ: 49.892.425/0001-41
+
+Município/UF: Macatuba/SP
+
+NUP: 25000.099852/2020-29;
+
+XV - Razão Social: ASSOCIAÇÃO PORTUGUESA DE BENEFICÊNCIA 1º DE DEZEMBRO
+
+CNPJ: 25.437.948/0001-30
+
+Município/UF: Uberaba/MG
+
+NUP: 25000.099712/2020-51;
+
+XVI - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE JÚLIO MESQUITA
+
+CNPJ: 06.004.954/0001-59
+
+Município/UF: Júlio Mesquita/SP
+
+NUP: 25000.116997/2020-00;
+
+XVII - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE NOVA SANTA BÁRBARA
+
+CNPJ: 02.760.250/0001-55
+
+Município/UF: Nova Santa Bárbara/PR
+
+NUP: 25000.111633/2020-25;
+
+XVIII - Razão Social: ASSOCIAÇÃO DOS AMIGOS DOS AUTISTAS DO ESTADO DO ESPÍRITO SANTO-AMAES
+
+CNPJ: 04.889.666/0001-01
+
+Município/UF: Vitória/ES
+
+NUP: 25000.117211/2020-63;
+
+XIX - Razão Social: ASSOCIAÇÃO PAIS E AMIGOS DOS EXCEPCIONAIS DE TROMBUDO CENTRAL
+
+CNPJ: 79.369.310/0001-38
+
+Município/UF: Trombudo Central/SC
+
+NUP: 25000.113158/2020-21;
+
+XX - Razão Social: ASSOCIAÇÃO DOS PROTETORES DAS PESSOAS CARENTES
+
+CNPJ: 01.286.108/0001-55
+
+Município/UF: Crucilândia/MG
+
+NUP: 25000.151128/2020-13;
+
+XXI - Razão Social: RITMOS DO CORAÇÃO
+
+CNPJ: 11.433.432/0001-02
+
+Município/UF: São Paulo/SP
+
+NUP: 25000.140823/2020-50;
+
+XXII - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS
+
+CNPJ: 00.305.936/0001-20
+
+Município/UF: Guimarânia/MG
+
+NUP: 25000.146654/2020-61;
+
+XXIII - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE SANTA CRUZ DO SUL - APAE
+
+CNPJ: 95.440.129/0001-27
+
+Município/UF: Santa Cruz do Sul/RS
+
+NUP: 25000.147421/2020-86;
+
+XXIV - Razão Social: INSTITUTO SUL MATO-GROSSENSE PARA CEGOS FLORIVALDO VARGAS
+
+CNPJ: 03.271.764/0001-00
+
+Município/UF: Campo Grande/MS
+
+NUP: 25000.110152/2020-01;
+
+XXV - Razão Social: CENTRO DE APOIO À CRIANÇA COM ANOMALIA UROLÓGICA - CACAU
+
+CNPJ: 07.862.926/0001-35
+
+Município/UF: São Paulo/SP
+
+NUP: 25000.116835/2020-63;
+
+XXVI - Razão Social: INSTITUTO NACIONAL DE DESENVOLVIMENTO SOCIAL E HUMANO - INDSH
+
+CNPJ: 23.453.830/0017-37
+
+Município/UF: Belém/PA
+
+NUP: 25000.144195/2020-81;
+
+XXVII - Razão Social: ASSOCIAÇÃO BRASILEIRA DE APOIO À FAMÍLIA COM HIPERTENSÃO PULMONAR E DOENÇAS CORRELATAS
+
+CNPJ: 08.449.343/0001-40
+
+Município/UF: São Paulo/SP
+
+NUP: 25000.110949/2020-08;
+
+XXXVIII - Razão Social: INSTITUTO PRISCILA ZANETTE
+
+CNPJ: 12.439.273/0001-16
+
+Município/UF: Joinville/SC
+
+NUP: 25000.094727/2020-22;
+
+XXIX - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS
+
+CNPJ: 80.888.092/0001-27
+
+Município/UF: Indianópolis/PR
+
+NUP: 25000.096232/2020-38;
+
+XXX - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE ITABERÁ
+
+CNPJ: 60.124.039/0001-42
+
+Município/UF: Itaberá/SP
+
+NUP: 25000.114868/2020-79;
+
+XXXI - Razão Social: INSTITUTO RUMO INCLUSÃO
+
+CNPJ: 22.596.434/0001-39
+
+Município/UF: Nova Odessa/SP
+
+NUP: 25000.114935/2020-55;
+
+XXXII - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DE EXCEPCIONAL-APAE
+
+CNPJ: 20.897.203/0001-30
+
+Município/UF: Lagoa da Prata/MG
+
+NUP: 25000.150222/2020-55.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+JORGE LUIZ KORMANN

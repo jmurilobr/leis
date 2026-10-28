@@ -1,0 +1,87 @@
+{
+  "candidatos": 1,
+  "promovidos": 0,
+  "problemas": 0,
+  "path": "municipais/MG/buritis/leis-ordinarias/1971/leis-ordinarias-8-1971-sapl-787.md",
+  "sha256_preimagem": "407f89d8c476b79487840a744769d63589d08d3968039c8ae8b9756446f470ba",
+  "sha256_candidato": "117f2342d9af090cc68bf8fb573f0679b9b60b774ea125c35756adbcd261fc51",
+  "fonte_sha256": "e23eecbbc9dff449c9206caadfee308aafec70b8504c08b31304fbbd3d71b78d",
+  "capturado_em_original": "2026-10-27T20:58:42.006863-03:00",
+  "baixado_em_preservado": "2026-10-27",
+  "replay": {
+    "aprovado": true,
+    "igualdade_caracteres_nao_brancos": true,
+    "assinatura_numerica_confere": true,
+    "marcacao_tachado_por_caractere_confere": true,
+    "atributos_contextuais_tachados_conferem": true,
+    "tachados_fonte": [
+      {
+        "inicio": 846,
+        "fim": 870,
+        "texto": "SebastiãoAlvesSecretário"
+      }
+    ],
+    "tachados_renderizados": [
+      {
+        "inicio": 846,
+        "fim": 870,
+        "texto": "SebastiãoAlvesSecretário"
+      }
+    ],
+    "markup_tachado_fonte": [
+      {
+        "tag": "s",
+        "atributos": {},
+        "texto": "Sebastião Alves"
+      },
+      {
+        "tag": "s",
+        "atributos": {},
+        "texto": "Secretário"
+      }
+    ],
+    "markup_tachado_renderizado": [
+      {
+        "tag": "s",
+        "atributos": {},
+        "texto": "Sebastião Alves"
+      },
+      {
+        "tag": "s",
+        "atributos": {},
+        "texto": "Secretário"
+      }
+    ],
+    "ativos": [
+      "dptt41243",
+      "dptt41244",
+      "dptt41245",
+      "dptt41246",
+      "dptt41247",
+      "dptt41248",
+      "dptt41249",
+      "dptt41250",
+      "dptt41251",
+      "dptt41252",
+      "dptt41253",
+      "dptt41254",
+      "dptt41255",
+      "dptt41256"
+    ],
+    "historicos_excluidos": [],
+    "normalizacoes_heading": [],
+    "listas": [],
+    "prova_tabelas": null,
+    "sha256_visivel_fonte": "747f7c7c001e66f5bdcb2f2f21e1bcd513d56dd68f9963238419e9e414082e53",
+    "sha256_visivel_renderizado": "747f7c7c001e66f5bdcb2f2f21e1bcd513d56dd68f9963238419e9e414082e53",
+    "sha256_html_renderizado": "8f4d19d9be722a097979c1572d0f17eb4c142d7188b7cdbf12018280c39045cc",
+    "contexto": null
+  },
+  "alteracao_exata_demonstrada": true,
+  "metadados_H1_exceto_sha256_texto_iguais": true,
+  "baseline_commit": "8bc6b546e804300218d793923005b19084f4c7c8",
+  "baseline_sha256": "6a014670005950535e66279111b70c4fe1a74e89f71e01b86078e32faeddf486",
+  "comparados": 32360,
+  "colisoes": [],
+  "limite": "Somente replay dos snapshots privados. ROOT deve revalidar HEAD e preimagem corrente antes de promover; nenhuma alteração de canônico ou índice."
+}

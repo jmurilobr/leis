@@ -1,0 +1,40 @@
+---
+titulo: "DELIBERAÇÃO Nº 1.051, DE 20 DE DEZEMBRO DE 2018"
+orgao: "Ministério dos Transportes, Portos e Aviação Civil/Agência Nacional de Transportes Terrestres/Diretoria Colegiada"
+tipo: "Deliberação"
+numero: "1051"
+data: 2018-12-20
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 24/12/2018, seção 1, p. 169"
+data_publicacao: 2018-12-24
+edicao: "246"
+fonte: "https://www.in.gov.br/web/dou/-/deliberacao-n-1-051-de-20-de-dezembro-de-2018-56640076"
+sha256_html_fonte: 1ce78017206fe10a45f1b5df0ad1b41fdc9f650c29c18f167b17ae097f5220f3
+baixado_em: 2026-10-27
+---
+# DELIBERAÇÃO Nº 1.051, DE 20 DE DEZEMBRO DE 2018
+
+DELIBERAÇÃO Nº 1.051, DE 20 DE DEZEMBRO DE 2018
+
+A Diretoria Colegiada da Agência Nacional de Transportes Terrestres - ANTT, no uso de suas atribuições, fundamentada no Voto DWE - 163, de 13 de dezembro de 2018, e no que consta do Processo nº 50501.355272/2018-17, delibera:
+
+**Art. 1º** Autorizar a empresa COOTRANSCOM, CNPJ nº 23.485.597/001-07, TAR nº 262, Processo nº 50500.640974/2017-14 para a prestação do serviço regular de transporte rodoviário coletivo interestadual e internacional de passageiros, sob o regime de autorização.
+
+**Art. 2º** A Superintendência de Serviços de Transporte de Passageiros - SUPAS deverá dar publicidade da Licença Operacional e autorizar o início da operação das linhas da autorizatária.
+
+**Art. 3º** A não observância do art. 24 da Resolução ANTT nº 4.770, de 25 de junho de 2015, implica na extinção da autorização delegada pela ANTT.
+
+**Art. 4º** A ANTT deverá declarar a nulidade do Termo de Autorização, quando verificada a ilegalidade do ato, impedindo os efeitos jurídicos que ordinariamente deveriam produzir, além de desconstituir os já produzidos, respeitados o princípio da ampla defesa e do contraditório.
+
+**Art. 5º** A ANTT poderá extinguir autorização mediante cassação, em caso de perda das condições indispensáveis ao cumprimento do objeto da autorização ou infração grave, apuradas em processo regular instaurado conforme disposto em Resolução.
+
+**Art. 6º** A autorizatária deverá observar as condições previstas na Resolução ANTT nº 4.770, de 25 de junho de 2015, e demais normativos relacionados à prestação do serviço regular de transporte rodoviário coletivo interestadual e internacional de passageiros, sob o regime de autorização.
+
+**Art. 7º** A não observância do disposto nesta Deliberação implicará na aplicação das sanções previstas em resolução específica.
+
+**Art. 8º** Esta Deliberação entra em vigor na data de sua publicação.
+
+MARIO RODRIGUES JUNIOR
+
+Diretor-Geral

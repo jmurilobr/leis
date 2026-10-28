@@ -1,0 +1,67 @@
+---
+titulo: "Lei Ordinária nº 2.314, de 29 de dezembro de 2005"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2314"
+data: "2005-12-29"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/1496"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/4750/text"
+sha256_fonte: "a196eef3c2164a933d43dde38bc2c9a55733a6b3d877076de6f4a375a6d46632"
+sha256_texto: "be72dbd0c574198facb613f16d55dfa0ae2e70a5cfcd8033bc40335b3af78006"
+capturado_em_fonte: "2026-10-27T21:45:25.940685-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.314, de 29 de dezembro de 2005
+
+Dispõe sobre consignação em folha de pagamento dos servidores públicos da Administração Municipal junto a Caixa Econômica Federal.
+
+
+**O Prefeito do Município do Cabo de Santo Agostinho:**
+
+**Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:**
+
+
+Art. 1º.
+
+Fica o Poder Legislativo autorizado, pela presente Lei, a celebrar convênio junto a Caixa Econômica Federal, com a finalidade de proporcionar a seus vereadores e servidores públicos municipais, a aquisição de empréstimos e financiamentos, realizados mediante consignação em folha de pagamento, autorizados pelos servidores e previamente averbados para implantação na folha de pagamento.
+
+
+Art. 2º.
+
+Para fins da presente Lei, a soma das consignações financeiras facultativas de cada vereador e servidor não poderá exceder o valor equivalente a 30% (trinta por cento) da soma dos subsídios ou vencimentos com os adicionais de caráter fixos e demais vantagens, já abatidos os valores referentes à consignações compulsórias.
+
+
+Art. 3º.
+
+As consignações facultativas relativas a empréstimos e financiamentos somente poderão ser canceladas mediante aquiescência da instituição financeira.
+
+
+Art. 4º.
+
+Em caso de revogação total ou parcial desta Lei ou a introdução de qualquer ato administrativo que suspenda ou impeça o registro de novas consignações referentes a empréstimos pessoais, as consignações registradas serão mantidas até a efetiva liquidação dos referidos empréstimos.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 6º.
+
+Revogam-se as disposições em contrário.
+
+
+Palácio Conde da Boa Vista, 29 de dezembro de 2005.
+
+**LUIZ CABRAL DE OLIVEIRA FILHO**
+
+***- PREFEITO -***
+

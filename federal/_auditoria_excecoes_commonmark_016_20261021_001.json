@@ -1,0 +1,126 @@
+{
+  "metodo": "Compara texto visível com toda pontuação, assinatura numérica e contextos; render independente marked 17.0.5/GFM; códigos cadastrais removidos apenas após prova de identidade e posição, preservando caracteres adjacentes.",
+  "registros": [
+    {
+      "path": "federal/decretos/1946/dec-21830-1946-09-09.md",
+      "urn": "urn:lex:br:federal:decreto:1946-09-09;21830",
+      "sha256": "a631a9ccca2a4c92c18c5a6450a6b735ae08152d44b817b63ef73a3f83b24796",
+      "sha256_fonte_html": "5ac71cc9400371acac40dc783b5322e4f99741e9cc960df7f55ca3349ac9dc85",
+      "marcadores": [
+        {
+          "inicio": 5747,
+          "fim": 5920,
+          "paragrafo_html": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-021830-0-000-09-09-1946@@@</span></p>",
+          "marcador": "###DEC-021830-0-000-09-09-1946@@@",
+          "prefixo_literal_preservado": "",
+          "sufixo_literal_preservado": "",
+          "numero": "21830",
+          "data": "1946-09-09",
+          "sha256_paragrafo_html": "94624c0554468f41063c8b7a03693f782f1bbb3f71ae473ca36d1cb5c992f99c"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1946/dec-21826-1946-09-05.md",
+      "urn": "urn:lex:br:federal:decreto:1946-09-05;21826",
+      "sha256": "b0dd98fbb73303fd34b236ac95641a4fdefece40bdc3923fe99f62f9f8129847",
+      "sha256_fonte_html": "8b4e0c66da8bca3eab7dd8192825adbddb00975d0c99e0dba4052299a1f826c8",
+      "marcadores": [
+        {
+          "inicio": 701,
+          "fim": 826,
+          "paragrafo_html": "<p style=\"widows:0; orphans:0; font-size:0.83em\"><span style=\"font-family:Arial\">###DEC-021826-0-000-05-09-1946@@@</span></p>",
+          "marcador": "###DEC-021826-0-000-05-09-1946@@@",
+          "prefixo_literal_preservado": "",
+          "sufixo_literal_preservado": "",
+          "numero": "21826",
+          "data": "1946-09-05",
+          "sha256_paragrafo_html": "2718b400c457071e5e66120ac84c296919a826e20993518eb3690f8a4db5f9af"
+        }
+      ],
+      "normalizacoes": [
+        {
+          "markdown": "CAPÍTULO II — Da Organização",
+          "fonte": "CAPÍTULO II Da Organização",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DA COMPETÊNCIA E COMPOSIÇÃO DOS ÓRGÃOS",
+          "fonte": "CAPÍTULO III DA COMPETÊNCIA E COMPOSIÇÃO DOS ÓRGÃOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO III — Da D. O",
+          "fonte": "SEÇÃO III Da D. O",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO VI — Da Tesouraria",
+          "fonte": "SEÇÃO VI Da Tesouraria",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO VII — Da Portaria",
+          "fonte": "SEÇÃO VII Da Portaria",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO VIII — Da Garage",
+          "fonte": "SEÇÃO VIII Da Garage",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DAS ATRIBUIÇÕES DO PESSOAL",
+          "fonte": "CAPÍTULO IV DAS ATRIBUIÇÕES DO PESSOAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "capítulo V — Da lotação",
+          "fonte": "capítulo V Da lotação",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "capítulo VI — Do horário",
+          "fonte": "capítulo VI Do horário",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "capítulo VII — Das substituições",
+          "fonte": "capítulo VII Das substituições",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "capítulo VIII — Disposições gerais",
+          "fonte": "capítulo VIII Disposições gerais",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    }
+  ],
+  "reparos_privados": [
+    {
+      "path": "federal/decretos/1946/dec-21830-1946-09-09.md",
+      "candidate": "federal/_candidatos_fidelidade_016_20261021_001/dec-21830-1946-09-09.md",
+      "sha256_preimagem": "a631a9ccca2a4c92c18c5a6450a6b735ae08152d44b817b63ef73a3f83b24796",
+      "sha256_candidato": "8fcf9a404727f16af4439b13855ce27fe917aa4e65ecccde79a8f35aeb780125",
+      "mudanca": "Somente escapes de crases literais; nenhuma supressão de caracteres oficiais."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21826-1946-09-05.md",
+      "candidate": "federal/_candidatos_fidelidade_016_20261021_001/dec-21826-1946-09-05.md",
+      "sha256_preimagem": "b0dd98fbb73303fd34b236ac95641a4fdefece40bdc3923fe99f62f9f8129847",
+      "sha256_candidato": "3ed22b2fee1cc31e25758a5067b24ba98c038841d40570cd6b1f0b58ec3f1d5c",
+      "mudanca": "Somente escapes de crases literais; nenhuma supressão de caracteres oficiais."
+    }
+  ],
+  "resumo": {
+    "revisados": 2,
+    "aprovados": 2,
+    "reparos_privados": 2
+  }
+}

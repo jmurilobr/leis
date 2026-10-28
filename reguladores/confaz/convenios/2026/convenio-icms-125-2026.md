@@ -1,0 +1,31 @@
+---
+titulo: "CONVÊNIO ICMS Nº 125, DE 23 DE OUTUBRO DE 2026"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "125"
+data: "2026-10-23"
+revogada: null
+versao_texto: "Texto e notas oficiais do portal CONFAZ conforme a captura; sem certificação de vigência."
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/convenio-icms-125-26"
+sha256_html_fonte: "7b3a884e178078345b4418a55d36b2aaef6efb01a592740beef2a518321734d7"
+sha256_texto: "9f3c74d0d944c4c2c3b4f26bd678aebb1419eba5e578c311090eb9352c683729"
+baixado_em: "2026-10-27"
+representacao_corpo: "html-nativo-confaz-piloto-v1"
+observacao_captura: "timestamp original do cliente com fuso, convertido para America/Recife"
+observacao_efeitos: "Condições de ratificação e produção de efeitos preservadas literalmente. Nenhuma data de vigência calculada."
+publicacao_fonte: "Publicado no DOU de 26.10.2026"
+---
+# CONVÊNIO ICMS Nº 125, DE 23 DE OUTUBRO DE 2026
+
+<div id="parent-fieldname-text"><p align="center" class="TituloAcordo">CONVÊNIO ICMS Nº 125, DE 23 DE OUTUBRO DE 2026<b></b></p>
+<p class="DataPublicao">Publicado no DOU de 26.10.2026</p>
+<p align="center"><b> </b></p>
+<p class="Ementa">Altera o Convênio ICMS nº 79, de 2 de setembro de 2020, que autoriza as unidades federadas que menciona a dispensar ou reduzir juros, multas e demais acréscimos legais, mediante quitação ou parcelamento de débitos fiscais relacionados com o ICM e o ICMS na forma que especifica.</p>
+<p class="Corpo"><b>O Conselho Nacional de Política Fazendária – CONFAZ</b>, na sua 435ª Reunião Extraordinária, realizada em Brasília, DF, no dia 23 de outubro de 2026, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte</p>
+<p class="Corpo" align="center">CONVÊNIO</p>
+<p class="Corpo"><b>Cláusula primeira </b>A cláusula sétima-F fica acrescida ao Convênio ICMS n° 79, de 2 de setembro de 2020, publicado no Diário Oficial da União de 3 de setembro de 2020, com a seguinte redação:</p>
+<p class="Corpo">“<b>Cláusula sétima-F</b> Para os fins do disposto neste convênio, em relação ao Estado de Mato Grosso do Sul, não se aplicam o disposto nos §§ 3, 4º e 5º da cláusula segunda, no § 1° da cláusula terceira e na cláusula quarta.”.</p>
+<p><b>Cláusula segunda </b>Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.</p>
+<p>Presidente do CONFAZ – Rogerio Ceron de Oliveira, em exercício, Acre – José Amarísio Freitas de Souza, Alagoas – Renata dos Santos, Amapá – Jesus de Nazaré Almeida Vidal, Amazonas – Dario José Braga Paim, Bahia – Manoel Vitório da Silva Filho, Ceará – Fabrízio Gomes Santos, Distrito Federal – Valdivino José de Oliveira, Espírito Santo – Benicio Suzana Costa, Goiás – Renata Lacerda Noleto, Maranhão – Marcellus Ribeiro Alves, Mato Grosso – Fábio Fernandes Pimenta, Mato Grosso do Sul – Flávio César Mendes de Oliveira, Minas Gerais – Luciana Mundim de Mattos Paixão, Pará – René de Oliveira e Sousa Júnior, Paraíba – Marialvo Laureano dos Santos Filho, Paraná – Norberto Anacleto Ortigara, Pernambuco – Flávio Martins Sodré da Mota, Piauí – Emílio Joaquim de Oliveira Junior, Rio de Janeiro – Guilherme Macedo Reis Mercês, Rio Grande do Norte – Álvaro Luiz Bezerra, Rio Grande do Sul – Pricilla Maria Santana, Rondônia – Franco Maegaki Ono, Roraima – José Roberto Ferreira de Souza, Santa Catarina – Cleverson Siewert, São Paulo – Samuel Yoshiaki Oliveira Kinoshita, Sergipe – Sarah Tarsila Araujo Andreozzi, Tocantins – Donizeth Aparecido Silva.</p>
+<p> </p>
+<p> </p></div>

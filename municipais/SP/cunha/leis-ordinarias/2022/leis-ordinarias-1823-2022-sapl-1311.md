@@ -1,0 +1,285 @@
+---
+titulo: "Lei nº 1.823, de 20 de abril de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1823"
+data: "2022-04-20"
+municipio: "Cunha"
+uf: "SP"
+codigo_ibge: "3513603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cunha.sp.leg.br/norma/1311"
+fonte_texto: "https://sapl.cunha.sp.leg.br/ta/115/text"
+sha256_fonte: "d7a59722c3f6af6e23d959787a17397d1ea1d3e02dd53ed6e5d03128bb08d76a"
+sha256_texto: "abf530592ed529a2e10a7a4069b9952d0754d6e82cf9573e60b6ea306b9c67a5"
+capturado_em_fonte: "2026-10-28T09:41:43.313960-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 1.823, de 20 de abril de 2022
+
+Dispõe sobre a criação do Conselho Municipal da Pessoa com Deficiência do Município de Cunha - CMPD, e dá outras providências correlatas.
+
+
+José Éder Galdino da Costa, Prefeito Municipal da Estância Climática de Cunha, no uso de suas atribuições legais, que lhe são conferidas por Lei, faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+O Conselho Municipal da Pessoa com Deficiência - CMPD é órgão colegiado paritário de caráter permanente que tem por finalidade a formulação de estratégias e controle social da execução das ações e políticas públicas da Cidade de Cunha/SP voltadas à pessoa com deficiência.
+
+
+Art. 2º.
+
+Compete ao Conselho Municipal da Pessoa com Deficiência:
+
+
+I –
+
+Acompanhar e fiscalizar a política municipal da pessoa com deficiência de forma articulada com os demais órgãos da Administração Pública, propondo a elaboração de estratégias, estudos, pesquisas, programas, projetos, serviços, campanhas, formações, capacitações, eventos e ações que objetivem a defesa e a garantia dos direitos da pessoa com deficiência;
+
+
+II –
+
+Acompanhar e monitorar a elaboração e a execução orçamentária no âmbito municipal em suas diversas fases, propondo as modificações necessárias à consecução das ações e políticas públicas voltadas aos direitos da pessoa com deficiência;
+
+
+III –
+
+Solicitar, avaliar e emitir pareceres sobre os relatórios de gestão das secretarias e órgãos da Administração Pública Municipal Direta e Indireta sobre os resultados da execução das ações e políticas públicas municipais relativas aos direitos da pessoa com deficiência;
+
+
+IV –
+
+Promover e apoiar ações que contribuam para a inclusão cultural, econômica, social e política da pessoa com deficiência, garantindo a representação plena destas pessoas em todos os Conselhos Municipais, Conselhos Gestores, Fóruns, Audiências Públicas e demais instâncias de participação constituídas no Município;
+
+
+V –
+
+Encaminhar e monitorar as demandas das pessoas com deficiência em relação aos serviços públicos municipais e propor adequações necessárias para garantir melhores resultados na execução da política pública municipal na perspectiva da intersetorialidade e transversalidade;
+
+
+VI –
+
+Propor que a Administração Pública Municipal inclua e mantenha ações referentes às pessoas com deficiência;
+
+
+VII –
+
+Elaborar e executar projetos ou programas concernentes às pessoas com deficiência que, por sua temática, complexidade ou caráter inovador, não possam, de forma imediata, ser incorporados pelas Secretarias e demais órgãos da Administração Pública Municipal;
+
+
+VIII –
+
+Acompanhar a celebração de contratos, convênios ou outros ajustes que tenham como objeto as políticas públicas de interesse ou que atinjam as pessoas com deficiência, bem como suas famílias e cuidadores;
+
+
+IX –
+
+Receber e encaminhar aos órgãos competentes requerimentos, sugestões, denúncias e reclamações formuladas por qualquer pessoa ou entidade no caso de práticas discriminatórias, ameaça ou violação dos direitos da pessoa com deficiência, propondo a adoção de medidas efetivas de proteção e reparação;
+
+
+X –
+
+Assessorar o Poder Público e as organizações da sociedade civil no monitoramento e na implementação da Convenção Internacional sobre os Direitos das Pessoas com Deficiência, bem como fiscalizar a regulamentação da Lei Brasileira de Inclusão (Lei Federal nº 13.146, de 6 de julho de 2015) no âmbito do Município;
+
+
+XI –
+
+Elaborar, a cada biênio, o seu plano de ação, que será acompanhado e avaliado semestralmente;
+
+
+XII –
+
+Incentivar a participação popular descentralizada na defesa dos direitos das pessoas com deficiência;
+
+
+XIII –
+
+Promover ações educativas e culturais e demais atividades voltadas à formação cidadã da pessoa com deficiência em seus diferentes ciclos de vida, suas famílias, seus cuidadores, profissionais da área e interessados, com foco na formação de novas lideranças e no protagonismo da pessoa com deficiência;
+
+
+XIV –
+
+Convocar e organizar, no âmbito municipal, as Conferências dos Direitos da Pessoa com Deficiência e os Encontros Cunhenses de Pessoas com Deficiência, com foco na garantia da participação e protagonismo da pessoa com deficiência nos espaços de decisão;
+
+
+XV –
+
+Divulgar amplamente as suas atividades e manter canais permanentes e atualizados de comunicação com a sociedade;
+
+
+XVI –
+
+Elaborar e aprovar, bem como eventualmente alterar, o seu regimento interno, que deverá ser aprovado por 2/3 dos conselheiros.
+
+
+Parágrafo único
+
+As recomendações do Conselho Municipal da Pessoa com Deficiência terão caráter indicativo ao Poder Público e à sociedade civil.
+
+
+Art. 3º.
+
+O Conselho Municipal da Pessoa com Deficiência será constituído por 08 (oito) membros titulares e respectivos suplentes, divididos em:
+
+
+I –
+
+04 (quatro) pessoas com deficiência, que exercerão as funções de conselheiro pessoalmente ou por meio de seu representante legal, sendo no mínimo:
+
+
+a)
+
+uma pessoa com deficiência auditiva;
+
+
+b)
+
+uma pessoa com deficiência física;
+
+
+c)
+
+uma pessoa com deficiência intelectual;
+
+
+d)
+
+uma pessoa com deficiência múltipla; e
+
+
+e)
+
+uma pessoa com deficiência visual;
+
+
+II –
+
+04 (quatro) representantes da Administração Pública Municipal:
+
+
+a)
+
+um membro da Secretaria Municipal de Educação;
+
+
+b)
+
+um membro da Secretaria Municipal da Saúde;
+
+
+c)
+
+um membro da Secretaria Municipal de Assistência e Desenvolvimento Social;
+
+
+d)
+
+um membro da Subprefeitura de Campos Novos de Cunha;
+
+
+§ 1º
+
+Os membros, titulares e suplentes, a que se referem os incisos II do caput deste artigo serão escolhidos por meio de processo definido em regimento interno para mandato de 2 (dois) anos, com possibilidade de 1 (uma) recondução por igual período.
+
+
+§ 2º
+
+A pessoa com deficiência que tenha atestada sua incapacidade para os atos da vida civil poderá ser legalmente representada para ocupar quaisquer das vagas previstas nos incisos I e III do caput deste artigo, desde que tal incapacidade decorra de impedimento de longo prazo que, em interação com uma ou mais barreiras, configure a condição de pessoa com deficiência, nos termos do art. 2º da Lei Federal nº 13.146, de 6 de julho de 2015.
+
+
+§ 3º
+
+Os membros a que se refere o inciso II do caput deste artigo serão indicados pelo Prefeito Municipal, preferencialmente entre pessoas com deficiência, para mandato de 2 (dois) anos, com possibilidade de 1 (uma) recondução por igual período.
+
+
+§ 4º
+
+A função de membro do Conselho Municipal da Pessoa com Deficiência não será remunerada, sendo considerada serviço público relevante.
+
+
+§ 5º
+
+Os conselheiros servidores públicos exercerão suas atribuições sem prejuízo das demais funções.
+
+
+Art. 4º.
+
+O detalhamento da organização e composição do Conselho Municipal da Pessoa com Deficiência será objeto de seu Regimento Interno, não podendo exceder as disposições oriundas desta Lei, mantendo-se no mínimo mesa diretora composta por:
+
+
+I –
+
+Presidente;
+
+
+II –
+
+Vice-presidente;
+
+
+III –
+
+1º Secretário;
+
+
+IV –
+
+2º Secretário;
+
+
+§ 1º
+
+Os membros da Mesa Diretora serão escolhidos através de eleição interna, pelos membros titulares, por maioria de votos, cujo escrutínio será secreto em cédula de papel, cujo mandato será coincidente com período do mandato dos conselheiros.
+
+
+§ 2º
+
+A Mesa Diretora será eleita na primeira reunião extraordinária, convocada para esta finalidade, no prazo máximo de 15 (quinze) dias após a nomeação dos conselheiros.
+
+
+§ 3º
+
+A primeira eleição da Mesa Diretora será presidida pelo representante indicado pelo Poder Executivo.
+
+
+§ 4º
+
+A Mesa Diretora tomará posse imediatamente após a proclamação do resultado, na mesma sessão, que lhes será dada pelo representante indicado pelo Poder Executivo.
+
+
+Art. 5º.
+
+Dar-se-á a perda do mandato:
+
+
+I –
+
+Pela ausência em 03 (três) reuniões ordinárias seguidas ou 06 (seis) alternadas ao longo de 01 (um) ano, cujo termo inicial será a primeira das seis faltas consideradas;
+
+
+II –
+
+Por falta de decoro ou por conduta incompatível com o Conselho, seus princípios e valores.
+
+
+Art. 6º.
+
+A Administração Pública Municipal propiciará ao Conselho Municipal da Pessoa com Deficiência, no âmbito de suas diversas instâncias, as condições necessárias ao seu funcionamento, tais como recursos humanos e materiais, tecnologia assistiva, comunicação e transporte imprescindíveis para o pleno exercício de suas atividades.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+PM de Cunha em 13 de DEZEMBRO de 2022.
+
+**JOSÉ ÉDER GALDINO DA COSTA**
+
+**PREFEITO MUNICIPAL**
+

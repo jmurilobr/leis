@@ -1,0 +1,247 @@
+---
+titulo: "Lei nº 1.363, de 23 de maio de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1363"
+data: "2017-05-23"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/1211"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/639/text"
+sha256_fonte: "eda37c27169382efe242ade5bbac770053a4a75e4a89f8e75fc97496c4080aa2"
+sha256_texto: "e82a0fb9cf124a53762daeaf38501e788d83820bdaec156fe6c1664c99075427"
+capturado_em_fonte: "2026-10-27T19:55:45.812283-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.363, de 23 de maio de 2017
+
+Autoriza a concessão de subvenções e Contribuições às entidades que menciona e dá outras providências.
+
+
+A Câmara Municipal de Buritis, por seus representantes, aprovaram e Eu, Prefeito Municipal. sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a conceder subvenções e contribuições para o exercício de 2017 no total de R$ 992.277,40 (novecentos e noventa e dois mil duzentos e setenta e sete reais e quarenta centavos) as seguintes entidades:
+
+
+I –
+
+Subvenções:
+
+**ENTIDADES VALOR (R$)**
+
+Associação dos Pais e Amigos dos Excepcionais – APAE ..............................................50.160,00;
+
+Associação Cultural Educativa de Buritis – ACEB ........................................................ 4.000,00;
+
+Abrigo João da Silva Santarém.........................................................................................85.000,00;
+
+Associação do Grupo 3º Idade Alegria de Viver ................................................................4.000,00;
+
+Associação de Integração Social Frei Vitor......................................................................48.000,00;
+
+Associação dos Moradores da Comunidade Divino Espírito Santo................................... 4.000,00;
+
+Conselho Comunitário de Desenvolvimento Vila São Vicente .........................................4.000,00;
+
+Conselho Comunitário de Desenvolvimento Vila Serrana.................................................4.000,00;
+
+Conselho Comunitário de Desenvolvimento Vila Cordeiro ...............................................4.000,00;
+
+Associação Comunitária dos Peq.Prod. Rurais do Pernambuco.......................................4.000,00;
+
+Conselho Comunitário de Desenvolvimento Vila Palmeira ..............................................4.000,00;
+
+Conselho Comunitário de Desenvolvimento Vila Maravilha ...........................................4.000,00;
+
+Associação dos Feirantes.....................................................................................................4.000,00;
+
+Associação dos Artesões, Art. Plást. E Prod. Caseiros de Buritis ......................................8.000,00;
+
+Conselho Desenvolvimento Comunitário do Taquaril....................................................... 4.000,00;
+
+Associação dos Trab. Autônomos de Transp. Tração Animal.......................................... 4.000,00;
+
+Associação dos Carreiros e Candeeiros do Vale do Urucuia ASCAVAU....................... 20.000,00;
+
+Associação Margarida A. dos Agric. Fam. R. do PA Mãe da Conquista.........................4.000,00;
+
+Associação dos peq. Produtores da Região das Pedras ......................................................4.000,00;
+
+Associação Caminhos da Luz PA Antônio Conselheiro ....................................................4.000,00;
+
+Associação dos Agricultores Santo Expedito .....................................................................4.000,00;
+
+Associação Boa Esperança dos Trabalhadores Rurais do PA Vida Nova ..................... 4.000,00;
+
+Associação Comercial e Industrial de Buritis ACIAB .......................................................4.000,00;
+
+Associação dos Peq. Prod. Da Região Atrás da Serra.........................................................4.000,00;
+
+Associação dos Pequenos Prod. Rurais do Vale do São Vicente........................................4.000,00
+
+Associação dos Trabalhadores Rurais do Assentamento Pasmado................................. 4.000,00;
+
+Associação Mãe Rainha dos Art. E Peq. Prod. R. do PA Vanderli Ribeiro.......................4.000,00;
+
+Associação dos Peq. Prod. Rurais do Projeto Vida ............................................................4.000,00;
+
+Conselho Comunitário de Desenvolvimento R. Mata Frade............................................ 4.000,00;
+
+Associação Raio de Luz de Moradores do Bairro Jardim.................................................. 4.000,00;
+
+Associação dos Trabalhadores Rurais Sem Terra do PA Boa Esperança......................... 4.000,00;
+
+Associação de Desenvolvimento Comunitário PA Antônio Conselheiro.......................... 4.000,00;
+
+Associação dos Trabalhadores Rurais Caminhos da Paz de Buritis .................................. 4.000,00;
+
+Associação e Cooperativa do PA Vanderli Ribeiro............................................................4.000,00;
+
+Associação dos Pequenos Produtores Rurais do Boqueirão................................................4.000,00;
+
+Associação Bento XVI dos Peq. Prod. Rurais e Artes.Roseli Nunes.................................4.000,00;
+
+Associação dos Moradores da Comunidade Santa Luzia................................................ 4.000,00;
+
+Rotary Clube de Buritis ......................................................................................................4.000,00;
+
+Associação Água Azul PA Hugo Herédia...........................................................................4.000,00;
+
+Associação dos Peq. Prod. De leite do PA Vanderli Ribeiros dos Santos..........................4.000,00;
+
+Clube Esportivo e Recreativo de Buritis-CERB.. .......................................................... 4.000,00;
+
+Associação dos Ciclistas de Buritis ASCIB................................................................... 20.000,00;
+
+Sindicato dos Trabalhadores e Trabalhadoras da Agric. Familiar SINTRAF................. 4.000,00;
+
+Associação do PA Vanderli Ribeiro dos Santos..................................................................4.000,00;
+
+Associação Comunitária de Cultura de Buritis...................................................................4.000,00;
+
+Associação dos Moradores da Comunidade Santa Terezinha........................................ 4.000,00;
+
+Associação Cristo Rei (PA Mãe das Conquistas BI)...................................................... 4.000,00;
+
+Associação das Biscoiteiras e Artesãs da Região do Gado Bravo................................ 6.000,00;
+
+Associação PA Nelson Mandela....................................................................................R$ 4.000,00;
+
+**Total das Subvenções**................................................................................................**R$ 405.160,00**
+
+
+II –
+
+ENTIDADES
+
+
+**AMAB/AMNOR/AMM/CNM .......................................................................................26.000,00;**
+
+APAE.................................................................................................................................50.000,00;
+
+Centro de Tradições Gaúchas Nova Querência CTG......................................................... 4.000,00;
+
+EMATER.........................................................................................................................138.617,40;
+
+Sindicato Rural de Buritis...............................................................................................100.000,00;
+
+Sindicato dos Trabalhadores Rurais de Buritis ..................................................................4.000,00;
+
+Consórcio Intermunicipal de Desenv. Das Bacias Urucuia e Cariranha........................... 4.000,00;
+
+CONASS/CONASEMS.........................................................................................................500,00;
+
+Manutenção do Consórcio de Segurança Alimentar – CONSAD ..................................... 4.000,00;
+
+Conselho Comunitário Serra Bonita....................................................................................4.000,00;
+
+Associação dos Produtores Rurais de São Pedro do Passa Três ....................................... 4.000,00;
+
+Associação Buritis Cata e Recicla Protegendo a natureza............................................... 48.000,00;
+
+Associação Clube do Cavalo de Buritis.......................................................................... 48.000,00;
+
+Associação Buritisense Integrada ao Meio Ambiente ABIMA ........................................4.000,00;
+
+Associação dos Pequenos Produtores Rurais do Bonito.....................................................4.000,00;
+
+Associação dos Pequenos Produtores Rurais Cerrado Piratinga....................................... 4.000,00;
+
+Associação dos Trabalhadores do Para Terra Taquaril..................................................... 4.000,00;
+
+Associação dos Pequenos Produtores Rurais dos Confins ASCONF.................................4.000,00;
+
+Associação dos Pequenos Produtores Rurais Comunidade Cupins................................... 4.000,00;
+
+Conselho de Desenvolvimento Comunitário do Riacho Morto ...................................... 4.000,00;
+
+Associação de Apoio aos dependentes químicos São Miguel Arcanjo.......................... 48.000,00;
+
+Associação Casa da Amizade de Buritis.............................................................................4.000,00;
+
+Associação Cristo Redentor................................................................................................4.000,00;
+
+Associação PA Formosinha Gado Bravo............................................................................4.000,00;
+
+Associação PA Palmeira Gado Bravo.................................................................................4.000,00;
+
+Associação dos Moradores Comunidade Divino Esp. Santo Pernambuco................... 4.000,00;
+
+Associação PA Buritirama .................................................................................................4.000,00;
+
+Associação PA Independência............................................................................................4.000,00;
+
+Associação PA Luz da Esperança.......................................................................................4.000,00;
+
+Associação PA Nova Itália..................................................................................................4.000,00;
+
+Associação PA Roseli Nunes..............................................................................................4.000,00;
+
+Associação PA Unidos Venceremos ..................................................................................4.000,00;
+
+Associação PA Cristo Rei ..................................................................................................4.000,00;
+
+Associação PA Santa Mônica .............................................................................................4.000,00;
+
+Associação Quilombo dos Palmares...................................................................................4.000,00;
+
+Associação Região Atrás da Serra.......................................................................................4.000,00;
+
+Associação PA União Gado Bravo......................................................................................4.000,00;
+
+Associação dos Pequenos Produtores Rurais do PA Recanto da Esperança.......................4.000,00;
+
+Associação do PA Hugo da Silveira Herédia.................................................................... 4.000,00;
+
+Associação dos Pequenos Produtores Rurais da Manga e Região................................... 4.000,00;
+
+**Total ..........................................................................................................................R$ 587.117,40**
+
+
+Art. 2º.
+
+A liberação dos recursos financeiros previstos no art. 1º, somente se efetivará se houver disponibilidade financeira e deverão obedecer aos parâmetros da Lei Federal 13.019/2014, que trata do Marco Regulatório das Organizações da Sociedade Civil e regulamento municipal.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Buritis, 23 de maio de 2017.
+
+**Dr. Keny Soares Rodrigues**
+
+**Prefeito Municipal**
+
+**Referente a Proposição de Lei n° 07/2017. De autoria do Executivo Municipal.**
+

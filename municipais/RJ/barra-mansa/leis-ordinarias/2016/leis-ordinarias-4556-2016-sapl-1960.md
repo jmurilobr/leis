@@ -1,0 +1,476 @@
+---
+titulo: "Lei Ordinária nº 4.556, de 04 de julho de 2016"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4556"
+data: "2016-07-04"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/1960"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/960/text"
+sha256_fonte: "85e6edbd9899f267bd61383fad4b03999e8e16895809877b3ed7fba31088ed0f"
+sha256_texto: "47ea683c13aa0f8ce35bf074a0696e57912436fd33d5e066ef51e6a1f489197b"
+capturado_em_fonte: "2026-10-27T17:43:26.564844-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.556, de 04 de julho de 2016
+
+FAÇO SABER QUE A CÂMARA APROVOU E EU PROMULGO A SEGUINTE
+
+
+LEI Nº4556, DE 04 DE JULHO DE 2016.
+
+
+Organiza a política Municipal de transparência e controle social, cria o conselho Municipal de transparência e controle social e dá outras providências.
+
+
+#### CAPÍTULO I — DA POLÍTICA MUNICIPAL DE TRANSPARÊNCIA E CONTROLE SOCIAL
+
+
+Art. 1º.
+
+Fica organizada, no âmbito do Município de Barra Mansa, a Política Municipal de Transparência e Controle Social, que tem como objetivo avaliar e propor medidas de aperfeiçoamento dos métodos e sistemas de controle e incremento da transparência na gestão da administração pública.
+
+
+Parágrafo único
+
+Integram a Política Municipal de Transparência e Controle Social de que trata o caput deste artigo o Conselho Municipal de Transparência e Controle Social de que trata o caput deste artigo o Conselho Municipal de Transparência e Controle Social, os Poderes Executivos e Legislativos e os demais Conselhos Municipais de Políticas Públicas.
+
+
+##### Seção I — DOS PRINCÍPIOS
+
+
+Art. 2º.
+
+A política Municipal de Transparência e Controle Social será executada embasada nos seguintes princípios:
+
+
+I –
+
+Respeito e autonomia da sociedade civil organizada;
+
+
+II –
+
+não discriminação, consubstanciada na disponibilização dos dados públicos;
+
+
+III –
+
+atualidade, onde os dados devem ser disponibilizados de forma rápida e tempestiva, para preservação do seu valor;
+
+
+IV –
+
+primariedade, ou seja, os dados devem ser apresentados tal como coletados da finte, sem agregação ou modificação substancial das informações;
+
+
+V –
+
+desenvolvimento de ações conjuntas e articuladas entre administração pública municipal, sua secretaria e a sociedade, de modo a assegurar a plena participação da sociedade civil organizada;
+
+
+VI –
+
+promoção e valorização da pluralidade da participação social, por meio de suas representações; e
+
+
+VII –
+
+estabelecimento de instrumentos legais e operacionais que assegurem a sociedade, o pleno exercício de seus direitos e que propiciem a sua plena integração nos mecanismos de transparência e controle social.
+
+
+##### Seção II — DAS DIRETRIZES
+
+
+Art. 3º.
+
+Na execução da Política Municipal de Transparência e Controle Social serão observadas as seguintes diretrizes:
+
+
+I –
+
+criação de mecanismos que favoreçam o desenvolvimento de instrumentos de participação da sociedade no controle de gestão e administração pública;
+
+
+II –
+
+desenvolvimento de programas setoriais e intersetoriais destinados a capacitação e engajamento de conselheiros municipais e da sociedade no controle da gestão publica;
+
+
+III –
+
+articulação entre órgãos públicos e entidades privadas, para a implantação de parcerias, visando a execução de políticas destinadas a promover a transparência e o controle social;
+
+
+IV –
+
+promoção de ações que visem ou desenvolvimento de diretrizes para a prevenção e combate a corrupção;
+
+
+V –
+
+viabilização de formas de acesso facilitado às informações de interesse público;
+
+
+VI –
+
+divulgação de forma proativa dos dados públicos, de modo a atender tempestivamente as solicitações de informação da sociedade civil;
+
+
+VII –
+
+plena divulgação de dados e informações públicas com o maior alcance possível de usuários e para o maior conjunto possível de finalidades;
+
+
+#### CAPÍTULO II — DO CONSELHO MUNICIPAL DE TRANSPARÊNCIA E CONTROLE SOCIAL
+
+
+Art. 4º.
+
+Fica criado o Conselho Municipal de Transparência e Controle Social, órgão colegiados, permanente e autônomo, de caratês consultivo, propositivo, avaliador e fiscalizador da Política Municipal de Transparência e Controle Social.
+
+
+##### Seção I — DOS OBJETIVOS
+
+
+Art. 5º.
+
+São objetivos do Conselho Municipal de transparência e Controle Social:
+
+
+I –
+
+auxiliar na elaboração de políticas públicas de promoção de transparência e controle social na administração e gestão pública;
+
+
+II –
+
+utilizar e criar instrumentos de forma a buscar que o poder público garanta aos cidadãos, o exercício dos seus direitos, especialmente o direito a informação fidedigna, tempestiva e acessível;
+
+
+III –
+
+colaborar com os órgãos da administração no planejamento, na articulação e na implementação das ferramentas para politicas de transparência e controle;
+
+
+IV –
+
+estudar, analisar, elaborar, discutir e propor a celebração de instrumentos de cooperação, visando a elaboração de programas, projetos e ações voltados a efetivação da transparência e controle social;
+
+
+V –
+
+promover a realização de estudos complementares e debater a realidade social, econômica, política e cultural objetivando subsidiar o planejamento das políticas publicas de transparência e controle social;
+
+
+VI –
+
+estudar, analisar, elaborar, discutir e propor políticas públicas que permitam e garantam a integração e a participação da sociedade civil em ações que busquem a efetivação de mecanismos de transparência e controle social;
+
+
+VII –
+
+promover e participar de seminários, cursos, congressos e eventos correlatos para o debate de temas relativos a transparência e controle social, e;
+
+
+VIII –
+
+desenvolver outras atividades relacionadas às políticas públicas de transparência e controle social.
+
+
+##### Seção II — DAS ATRIBUIÇÕES
+
+
+Art. 6º.
+
+São atribuições do Conselho Municipal de Transparência de Controle Social no âmbito municipal:
+
+
+I –
+
+elaborar plano elencando as principais carências no campo de políticas públicas;
+
+
+II –
+
+expedir para os órgãos públicos orientações e recomendações pertinentes a serem aplicadas como instrumentos de transparência e controle social;
+
+
+III –
+
+requerer informações das autoridades públicas, para o efetivo desenvolvimento de suas atividades;
+
+
+IV –
+
+elaborar relatório anual sobre as políticas públicas de transparência e controle social;
+
+
+V –
+
+assessorar o Poder Executivo local na elaboração dos planos, programas, projetos e ações referentes a transparência e controle social;
+
+
+VI –
+
+convocar e organizar a Conferência Municipal de transparência e Controle Social, a cada dois anos, e;
+
+
+VII –
+
+Elaborar e aprovar seu regimento interno.
+
+
+§1º
+
+O regime interno, de que trata o inciso VII deste artigo, será elaborado no prazo de até 60(sessenta) dias, após a constituição e nomeação do Conselho Municipal de Transparência e Controle Social.
+
+
+##### Seção III — DA COMPOSIÇÃO
+
+
+Art. 7º.
+
+O Conselho Municipal de Transparência e Controle Social será composto por 11(onze) membros e respectivos suplentes, com mandato de dois anos, permitida uma recondução, assim distribuídos:
+
+
+I –
+
+5(cinco) representantes da sociedade civil, indicados pelas entidades sem fins lucrativos ou movimentos sociais ou coletivos não institucionalizados;
+
+
+II –
+
+5 (cinco) representantes do Poder Executivo Municipal, indicados pelo Prefeito, na seguinte conformidade:
+
+
+a)
+
+1(um) representante da Secretaria da Fazenda;
+
+
+b)
+
+1(um) representante da Procuradoria Geral do Município;
+
+
+c)
+
+1(um) representante da Secretaria de Planejamento;
+
+
+d)
+
+1(um) representante da Secretaria de Administração;
+
+
+e)
+
+1(um) representante da Secretaria de Promoção Social.
+
+
+III –
+
+1(um) representante da Câmara Municipal de Barra Mansa.
+
+
+Parágrafo único
+
+Cada representante terá um suplente oriundo do mesmo setor, com plenos poderes para substituí-lo, provisoriamente, em sua faltas ou impedimentos, ou em definitivo no caso de vacância da titularidade, nos termos do regimento interno.
+
+
+Art. 8º.
+
+Os representantes eleitos e/ou indicados, titulares e suplentes, serão nomeados por Decreto do Poder Executivo, empossando-os em até quinze dias.
+
+
+Parágrafo único
+
+A nomeação dos representantes da sociedade civil respeitará a indicação por parte de cidadãos, entidades e instituições da sociedade civil.
+
+
+Art. 9º.
+
+Os membros do Conselho Municipal de Transparência e Controle Social poderão ser substituídos, mediante solicitação da instituição ou autoridade pública a qual estejam vinculados, apresentada por escrito ao referido Conselho, o qual fará comunicação do ato ao Chefe do Executivo Municipal.
+
+
+Art. 10.
+
+A função do membro do Conselho Municipal de Transparência e Controle Social é considerada de relevante interesse público e não será remunerada.
+
+
+Art. 11.
+
+perderá o mandato o conselheiro que:
+
+
+I –
+
+desvincular-se do órgão da sua representação;
+
+
+II –
+
+faltar a 03(três) reuniões consecutivas ou a cinco intercaladas sem justificativa, que deverá ser apresentada de forma prevista no regimento interno do Conselho;
+
+
+III –
+
+apresentar renúncia ao Conselho, que será lida na sessão seguinte e de sua recepção;
+
+
+IV –
+
+enquanto representante da sociedade civil no Conselho, passar a ocupar cargo comisssionado no Poder Executivo ou Legislativo Municipal;
+
+
+V –
+
+for condenada por sentença irrecorrível, em razão do cometimento de crime ou de contravenção penal.
+
+
+Parágrafo único
+
+A substituição se dará por deliberação da maioria dos componentes do Conselho, em procedimento iniciado mediante provocação, assegurada a ampla defesa.
+
+
+Art. 12.
+
+Perderá o mandato a instituição que:
+
+
+I –
+
+extinguir sua base territorial de atuação no Município de Barra Mansa;
+
+
+II –
+
+tiver constatada, em seu funcionamento, irregularidade de acentuada gravidade que torne incompatível sua representação no Conselho; ou
+
+
+III –
+
+sofrer penalidade administrativa ou judicial reconhecidamente grave.
+
+
+Parágrafo único
+
+A substituição se dará por deliberação da maioria simples dos compenentes do Conselho, em procedimento iniciado mediante provocação, assegurada a ampla defesa.
+
+
+##### Seção IV — DO FUNCIONAMENTO
+
+
+Art. 13.
+
+O Conselho Municipal de Transparência e COntrole Social terá a seguinte estrutura:
+
+
+I –
+
+Plenário; e
+
+
+II –
+
+Diretoria Executiva.
+
+
+Art. 14.
+
+A diretoria executiva será composta de:
+
+
+I –
+
+Presidente; e
+
+
+II –
+
+Secretário-Geral.
+
+
+§ 1º
+
+A diretoria executiva do Conselho Municipal de Transparência e Controle Social será eleita alternadamente entre seus membros da sociedade civil e da administração pública, em votação aberta entre seus pares, na forma a ser disciplinada no regime interno.
+
+
+§ 2º
+
+A composição da diretoria executiva observara a paridade entre a área governamental e a sociedade civil
+
+
+Art. 15.
+
+As reuniões do Conselho Municipal de Transparência e controle Social serão realizadas com a presença da maioria absoluta de seus membros, em primeira convocação, ou com o número a ser definido em seu regimento interno, em segunda e última convocação.
+
+
+Art. 16.
+
+As atas das reuniões e resoluções do Conselho deverão ser publicadas no site da Prefeitura Municipal, em prazo de 15(quinze) dias, com respectivas realizações e aprovações.
+
+
+Parágrafo único
+
+Anualmente, será publicado relatório de atuação do Conselho.
+
+
+Art. 17.
+
+As reuniões são públicas e abertas a quaisquer cidadãos, e divulgadas com antecedência de, no mínimo, uma semana.
+
+
+Art. 18.
+
+Poderão ser realizadas sessões de audiência pública aos cidadãos, sem prejuízo das reuniões ordinárias;
+
+
+Art. 19.
+
+O Conselho Municipal de Transparência e Controle SOcial instituirá seus atos por meio de resoluções aprovadas pela maioria dos presentes, garantida a publicação no órgão oficial do Município.
+
+
+Art. 20.
+
+O Conselho Municipal de Transparência e Controle Social reunir-se-á, ordinariamente, em periodicidade bimestral, e, extraordinariamente, sempre que convocado por sua diretoria executiva ou por maioria de seus membros.
+
+
+Art. 21.
+
+A Secretraria de Planejamento prestará apoio necessário ao funcionamento do Conselho Municipal de Transparência e Controle Social.
+
+
+#### CAPÍTULO III — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 22.
+
+Os membros do primeiro Conselho Municipal de Transparência e Controle Social serão eleitos e indicados dentro de 30(trinta) dias a partir da promulgação desta lei, obedecida a proporcionalidade definida no art.7º desta lei.
+
+
+Parágrafo único
+
+Após a realização do processo eleitoral de que trata o caput deste artigo, o Prefeito nomeará, por decreto, os representantes eleitos e/ou indicados, titulares e suplentes, empossando-os em até quinze dias.
+
+
+Art. 23.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+CÂMARA MUNICIPAL DE BARRA MANSA, 04 DE JULHO DE 2016.
+
+
+JOSÉ LUIZ VANELI
+
+PRESIDENTE
+

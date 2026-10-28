@@ -1,0 +1,26 @@
+{
+  "piloto_privado": true,
+  "candidatos": 6,
+  "historico_retido": 1,
+  "css_capturados": 19,
+  "novas_respostas_http_200": 25,
+  "tentativa_python_tls_pre_http": "Retida por falha da cadeia de confiança no runtime; transporte do sistema verificou TLS normalmente. Sem insecure ou alteração do host.",
+  "commit_confronto": "c482863d23dcc99bd205fc6b7bf860532ec6aa03",
+  "cabecalhos_HEAD": 242557,
+  "blobs_reexaminados": 1347,
+  "aliases": 0,
+  "matrizes_texto_sinais_numeros_preservados": true,
+  "condicoes_ratificacao_efeitos": "Mantidas literalmente. Os novos 122–126 trazem publicação DOU de 26.10.2026 e condição de entrada em vigor vinculada à ratificação; nenhuma vigência foi calculada.",
+  "precisao_captura": "121 usa o dia original da sondagem ROOT, explicitamente declarado e corroborado pelo HTTP Date; horário de cliente desconhecido preservado. Os outros cinco têm timestamp novo com fuso America/Recife.",
+  "limite_versao": "Somente o campo integral de texto/notas oferecido no portal é certificado. O 121 termina na cláusula segunda e não apresenta rol nominal de signatários nesse campo; os 122–126 incluem fecho nominal. Não se inventou conteúdo nem se afirma equivalência editorial com o DOU.",
+  "limites": [
+    "Nenhum canônico, helper vivo, plano ou registro alterado. Nenhuma promoção automática.",
+    "Nova coleta volumosa depende da avaliação do piloto. Históricos como o35 permanecem retidos até modo explícito de versões.",
+    "Revalidar HEAD e reservas qualificadas por namespace/tipo/número/ano antes de integrar; URLs e hierarquias administrativas podem ser aliases."
+  ],
+  "tree": {
+    "original_sha256": "602021ac66385e56b6d329aff71567520f2b79f7b4975997c599064a99efc76e",
+    "gzip": "reguladores/_fonte/auditorias/confaz-piloto-final-20261027/ls-tree-reguladores.z.gz",
+    "gzip_sha256": "c49a395b4310ffdcf5c122c7df1cd1b92680ceeb0a31cf4691f50c304a163a7b"
+  }
+}

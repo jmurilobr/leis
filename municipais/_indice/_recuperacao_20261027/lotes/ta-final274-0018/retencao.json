@@ -1,0 +1,60 @@
+{
+  "candidatos": 584,
+  "aprovados": 274,
+  "retidos": 310,
+  "jurisdicao": [
+    {
+      "path": "municipais/PR/california/leis-ordinarias/2017/leis-ordinarias-1688-2017-sapl-286.md",
+      "sha256": "e63be32e3879a125a4ba447ad3b2e050d275997145c3425594749e6e2cc4079b",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/PR/california/leis-ordinarias/2017/leis-ordinarias-1648-2017-sapl-241.md",
+      "sha256": "da432d15699edd41e2f128191bf9b53e64edb50ecef4c8c75e3b5d8e577df027",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/PR/california/leis-ordinarias/2017/leis-ordinarias-1636-2017-sapl-225.md",
+      "sha256": "b3778fdf7097260e86b4d8781a2d8297e5f739549f0c505a424e4bfe6ab6be2d",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/PR/california/leis-ordinarias/2016/leis-ordinarias-1623-2016-sapl-210.md",
+      "sha256": "193e769fd3f8f98c2a0080ce2c66d6a4811f17e66362f21f5c399e01ed183cca",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    }
+  ],
+  "replay_retidos": [
+    "municipais/MG/cana-verde/leis-ordinarias/1963/leis-ordinarias-2-1963-sapl-512.md",
+    "municipais/MG/carneirinho/resolucoes/2002/resolucoes-69-2002-sapl-977.md",
+    "municipais/PR/california/leis-ordinarias/2019/leis-ordinarias-1773-2019-sapl-380.md",
+    "municipais/MG/carmo-do-paranaiba/resolucoes/2019/resolucoes-81-2019-sapl-2439.md",
+    "municipais/PR/california/leis-ordinarias/2013/leis-ordinarias-1467-2013-sapl-127.md",
+    "municipais/PR/california/leis-ordinarias/2013/leis-ordinarias-1466-2013-sapl-128.md"
+  ],
+  "criterio": "Retidos não integram a lista de normas. Controles conservam os motivos e identidades; não promovidos por contagem ou por comparação da mesma conversão."
+}

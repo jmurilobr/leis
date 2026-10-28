@@ -1,0 +1,146 @@
+---
+titulo: "Lei nº 40, de 25 de agosto de 1972"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "40"
+data: "1972-08-25"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/4432"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/3306/text"
+sha256_fonte: "3285ba8f55e8905dfbdbf700ef61c32b354de4c5129731516fdd62b4f3067071"
+sha256_texto: "90ac98c68f6da6a8dd91985a06ea36a89336b7901bf20e0ede6725b4f5ea5e9e"
+capturado_em_fonte: "2026-10-27T22:48:39.706033-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 40, de 25 de agosto de 1972
+
+Institui o DIÁRIO OFICIAL DO MUNICÍPIO DE PORTO VELHO, a HORA OFICIAL DO MUNICÍPIO e dá outras providências
+
+
+DR. JACOB FREITAS ATALLAH, Prefeito Municipal de Porto Velho, no uso das atribuições conferida por lei,
+
+FAÇO SABER que a Câmara Municipal de Porto Velho decreta e eu sanciono a seguinte
+
+Lei:
+
+
+Art. 1º.
+
+Ficam criados o DIÁRIO OFICIAL DO MUNICÍPIO DE PORTO VELHO e a HORA OFICIAL DO MUNICÍPIO.
+
+
+Parágrafo único
+
+O DIÁRIO OFICIAL de que trata este artigo terá o seguinte timbre ou título:
+
+
+"ARMAS DA REPÚBLICA"
+
+MINISTÉRIO DO INTERIOR
+
+DIÁRIO OFICIAL DO MUNICÍPIO DE PORTO VELHO
+
+
+Art. 2º.
+
+Serão publicados no DIÁRIO OFICIAL DO MUNICÍPIO DE PORTO VELHO única e exclusivamente atos oficiais do Município, quer do Executivo, quer do Legislativo Municipal ou, ainda, os balanços e os atos constitutivos das sociedades anônimas, ex-vi da legislação federal pertinente.
+
+
+§ 1º
+
+A publicação dos atos não oficiais de que trata este artigo será paga pela firma ou firmas interessadas na publicação da matéria.
+
+
+§ 2º
+
+A HORA OFICIAL DO MUNICÍPIO será transmitida diariamente, exceto aos sábados e aos domingos, por estação de rádio existente do Município, em horários previamente acordados pelo Prefeito, cm um mínimo de 15 minutos, e se destinará, exclusivamente, à transmissão dos fatos e atos administrativos de competência do Município de Porto Velho.
+
+
+Art. 3º.
+
+Caberá ao Prefeito Municipal, mediante concorrência pública, locar os serviços das empresas jornalísticas e de emissoras de rádio com a finalidade de prover a publicação do DIÁRIO OFICIAL DO MUNICÍPIO DE PORTO VELHO e a HORA OFICIAL DO MUNICÍPIO.
+
+
+§ 1º
+
+O DIÁRIO OFICIAL DO MUNICÍPIO DE PORTO VELHO será editado como suplemento do jornal cuja empresa for vencedora da concorrência.
+
+
+§ 2º
+
+Enquanto não houver matérias suficientes que possibilitam a publicação diária do "DIÁRIO OFICIAL DO MUNICÍPIO DE PORTO VELHO", este será publicado na forma hebdomadária, ou conforme a conveniência da Administração do Município, em que o Prefeito, por Decreto, fará a devida regulamentação da sua publicação.
+
+
+§ 3º
+
+Caberá ao Executivo do Município efetuar as modificações de caráter estético do DIÁRIO OFICIAL DO MUNICÍPIO DE PORTO VELHO adaptando-o às novas técnicas jornalísticas.
+
+
+Art. 4º.
+
+A empresa jornalística vencedora na concorrência para edição do DIÁRIO OFICIAL DO MUNICÍPIO DE PORTO VELHO não poderá vendê-lo separadamente do jornal que editar.
+
+
+Art. 5º.
+
+Ao concorrente vencedor para a publicação do DIÁRIO OFICIAL DO MUNICÍPIO DE PORTO VELHO caberá editar o Diário Oficial do Município em formato mínimo de 30 cm de largura por 40 cm de comprimento, eu poderá ter uma, duas ou mais páginas, conforme a quantidade de matéria que dispuser.
+
+
+Art. 6º.
+
+O valor correspondente ao pagamento pela edição do DIÁRIO OFICIAL DO MUNICÍPIO DE PORTO VELHO e transmissão da HORA OFICIAL DO MUNICÍPIO sofrerá, anualmente, aumento gradual de acordo com o custo de vida, porém não excessivamente, e nunca superior ao índice de 30% (TRINTA POR CENTO).
+
+
+Art. 7º.
+
+Ao Executivo, mediante Decreto, caberá disciplinar e estabelecer outras condições de caráter técnico, com o objetivo precípuo de determinar a perfeita execução e critérios que deverão nortear a concorrëncia pública.
+
+
+Art. 8º.
+
+O Executivo fará constar, obrigatoriamente, dos orçamentos da Prefeitura, dotação para ocorrer com as despesas oriundas desta lei.
+
+
+Art. 9º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Art. 10.
+
+Revogam-se as disposições em contrário.
+
+
+Prefeitura do Município de Porto Velho, 25 de agosto de 1972.
+
+Dr. Jacob Freitas Atallah
+
+PREFEITO MUNICIPAL
+
+Claudio Batista Feitosa
+
+DIRETOR DO DEPARTAMENTO DE ADMINISTRAÇÃP
+
+Jose Maria Aguiar
+
+DIRETOR DO DEPARTAMENTO DE FINANÇAS
+
+Deusdedith Sales da Paz
+
+DIRETOR DOS SERVIÇOS URBANOS
+
+Edson Fariñas Grangeiro
+
+DIRETOR DO DEPARTAMENTO DE OBRAS
+
+Terezinha Leite de Oliveira
+
+DIRETORA DO SERVIÇO DE EDUCAÇÃO E CULTURA
+

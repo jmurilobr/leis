@@ -1,0 +1,94 @@
+---
+titulo: "Lei Ordinária nº 364, de 03 de julho de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "364"
+data: "2021-07-03"
+municipio: "Araci"
+uf: "BA"
+codigo_ibge: "2902104"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.araci.ba.leg.br/norma/399"
+fonte_texto: "https://sapl.araci.ba.leg.br/ta/112/text"
+sha256_fonte: "14cd5d8d682a823ba8017fe593deebfb22816352f03902b4558e66352678851d"
+sha256_texto: "ddf141d295fe1eaa501d0ccb876c81372a7b56f1a3033ab4262ee517ea8d1cd3"
+capturado_em_fonte: "2026-10-27T16:55:28.997571-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 364, de 03 de julho de 2021
+
+LEI Nº 364 DE 03 DE SETEMBRO DE 2021
+
+
+Autoriza a Chefe do Poder Executivo a abrir Crédito Adicional Especial ao Orçamento do Exercício 2021 do município de Araci, Lei Orçamentária nº 333 de 07 de dezembro de 2020 para inclusão da modalidade de aplicação e elementos de despesas inerentes as ações com Rateio para Consórcios Públicos e dá outras providencias.
+
+
+**A PREFEITA MUNICIPAL DE ARACI**, Estado da Bahia, no uso de suas atribuições legais e constitucionais, faz saber que a Câmara Municipal de Vereadores aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica a Chefe do Poder Executivo autorizada, mediante Decreto de Crédito Adicional Especial INCLUIR ao Orçamento 2021 nas Unidades Orçamentárias relacionadas a seguir, a modalidade de aplicação e elementos de despesas inerentes as ações com Rateio para Consórcios Públicos no montante de R$ 200.000,00:
+
+
+UNIDADE ORÇAMENTÁRIA: 2081 – SECRETARIA MUNICIPAL DE SAÚDE  
+PROJETO ATIVIDADE: 2.016 – MANUTENÇÃO DA ATENÇÃO BÁSICA
+
+**Modalidade de Aplicação:** 71 - Transferências a Consórcios Públicos mediante contrato de rateio.
+
+**Elementos de Despesas:**
+
+31 – DESPESA DE PESSOAL  
+**3.1.71.70.00 = Rateio pela Participação em Consórcio Público**  
+Fonte de Recursos 02 - Valor R$ 40.000,00  
+Fonte de Recursos 14 - Valor R$ 10.000,00
+
+33 – OUTRAS DESPESAS CORRENTES  
+**3.3.71.70.00 = Rateio pela Participação em Consórcio Público**  
+Fonte de Recursos 02 - Valor R$ 120,000,00  
+Fonte de Recursos 14 - Valor R$ 10.000,00
+
+44 – DESPESAS DE CAPITAL  
+**4.4.71.70.00 = Rateio pela Participação em Consórcio Público)**  
+Fonte de Recursos 02 - Valor R$ 10.000,00  
+Fonte de Recursos 14 - Valor R$ 10.000,00
+
+**Fonte de Recursos:**  
+02 – Receita de Impostos e Transferências de Impostos = Saúde 15%  
+14 – Transferências de Recursos do Sistema Único de Saúde = SUS
+
+
+Art. 2º.
+
+Fica autorizado o Poder Executivo Municipal, mediante Decreto a efetuar o cadastro e desdobramento das fontes de recursos necessárias e execução das despesas conforme finalidade desta lei em observância as Normas Publicadas pelo TCM/BA – Tribunal de Contas dos Municípios do Estado da Bahia
+
+
+Art. 3º.
+
+Os recursos destinados à abertura do Crédito Especial de que trata o artigo 1º correrão por conta da anulação de dotação de créditos orçamentários já existentes na Unidade Orçamentária em observância ao art. 7º da Lei Orçamentária nº 333 de 07 de dezembro de 2020
+
+
+Art. 4º.
+
+Ficam autorizados os ajustes nas metas físicas e financeiras constantes do Plano Plurianual 2018/2021 e da Lei de Diretrizes Orçamentárias para o exercício 2021 que se fizerem necessárias em função do disposto desta Lei
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data da sua publicação.
+
+
+Art. 6º.
+
+Revogadas as disposições em contrário
+
+
+Gabinete da Prefeita de Araci, Estado da Bahia, 03 de Setembro de 2021
+
+
+**MARIA BETIVANIA LIMA DA SILVA Prefeita**
+

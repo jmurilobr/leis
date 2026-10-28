@@ -1,0 +1,74 @@
+---
+titulo: "Lei Ordinária nº 2.410, de 20 de dezembro de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2410"
+data: "2010-12-20"
+municipio: "Dores do Indaiá"
+uf: "MG"
+codigo_ibge: "3123205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.doresdoindaia.mg.leg.br/norma/672"
+fonte_texto: "https://sapl.doresdoindaia.mg.leg.br/ta/656/text"
+sha256_fonte: "e7d75a2db717fd536ce271e0155648e35efc2b91048ceebb5847d5754044f7c0"
+sha256_texto: "24c6d79ba57166e65e98018ee4b7861d64c69c5b94871de6df8a60e1cc06683c"
+capturado_em_fonte: "2026-10-28T10:20:32.936199-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.410, de 20 de dezembro de 2010
+
+**TEXTO ORIGINAL EM PDF**
+
+**Clique para imprimir Texto Compilado**
+
+
+Regulamenta a instituição e cobrança do ISSQN incidente sobre as operações de Ieasing bancário e sobre as operações de cartões de crédito e débito praticadas por estabelecimentos comerciais, Bancos e prestadores de serviços sediados no Município de Dores do Indaiá e dá outras providências.
+
+
+O Povo do Município de Dores do Indaiá, Minas Gerais, por seus representantes legais APROVA, e eu, Prefeito Municipal, SANCIONO, a seguinte Lei:
+
+
+Art. 1º.
+
+O Município de Dores do Indaiá, nos termos do Código Tributário do Município, vem regulamentar a cobrança do ISSQN sobre as operações de cartões de crédito e débito praticadas por estabelecimentos comerciais e prestadores de serviços sediados no Município de Dores do Indaiá.
+
+
+Art. 2º.
+
+O sujeito passivo do ISSQN - Imposto sobre serviços de qualquer natureza incidentes sobre as operações de cartões de crédito e débito praticadas por estabelecimentos comerciais e prestadores de serviços sediados no Município de Dores do Indaiá são exclusivamente as empresas Administradoras de Cartões de Crédito e Instituições Financeiras (Bancos), mesmo que sediadas em outro Município.
+
+
+Art. 3º.
+
+Os estabelecimentos comerciais e prestadores de serviços que utilizem operações de crédito e débito com cartões de crédito ou débito deverão apresentar à Prefeitura de Dores do Indaiá, Departamento de Rendas e Tributos, um relatório a cada 02 (dois) meses contados da data da vigência da precitada lei, até o 10 (décimo) dia útil de cada mês, contendo pormenorizadamente os valores e datas de pagamento de taxas, tarifas ou valores pagos ou descontados das administradoras de cartões de crédito ou débito.
+
+
+Art. 4º.
+
+As agências bancárias existentes no Município deverão apresentar à Prefeitura de Dores do Indaiá, Departamento de Rendas e Tributos, um relatório a cada 02 (dois) meses contados da data da vigência da precitada lei, até o 10 (décimo) dia útil de cada mês, contendo pormenorizadamente os valores e datas de pagamento de taxas, tarifas ou valores pagos ou descontados dos clientes a título de serviços de operações de leasing.
+
+
+Art. 5º.
+
+Os Contadores e escritórios de Contabilidade sediados no Município deverão tomar ciência desta Lei e orientar os seus clientes para fins de cumprirem os prazos definidos nos artigos 3º e 4º.
+
+
+Art. 6º.
+
+Na hipótese de descumprimento da apresentação dos relatórios ou omissão de dados na apresentação dos mesmos, deverá ser aplicada uma multa de 30 (Trinta) UPF-DI por cada relatório faltante ou omisso, sujeito a taxa de reincidência.
+
+
+Art. 7º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogando-se todas as disposições em contrário.
+
+
+Dores do Indaiá, 20 de dezembro de 2010.
+
+JOAQUIM FERREIRA DA CRUZ  
+Prefeito Municipal
+

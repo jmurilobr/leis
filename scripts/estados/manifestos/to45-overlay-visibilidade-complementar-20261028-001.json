@@ -1,0 +1,4384 @@
+{
+  "preparado_em": "2026-10-28T09:30:31.927608-03:00",
+  "total": 45,
+  "manifesto_anterior": "scripts/estados/manifestos/to45-proposta-privada-20261028-001.json",
+  "sha256_manifesto_anterior": "c17552d7ac571c7bb77d75022d73cec80149a99f325ff1352f2e2c1ebae0b7a5",
+  "documentos": [
+    {
+      "path": "estaduais/TO/leis-ordinarias/2002/l-1356-2002-aleto7601.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2002/l-1356-2002-aleto7601.md",
+      "sha256_md": "6e83ff18e42abbf80beb84168052eec0e5365f84b3a61cd6844406b1af9ff543",
+      "captura": {
+        "item": {
+          "id_ALETO": "7601",
+          "fonte": "https://www.al.to.leg.br/arquivo/7601",
+          "titulo_indice": "Lei nº 1356 de 2002 (ordinária)",
+          "numero": "1356",
+          "ano_titulo": "2002",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2002-12-20",
+          "data_literal": "| Data: 20/12/2002",
+          "ementa": "Dispõe sobre fundos especiais e adota outras providências.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2002&pagPaginaAtual=1",
+            "iniciado_em": "2026-10-27T23:13:39.962491-03:00",
+            "capturado_em": "2026-10-27T23:13:41.171291-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2002&pagPaginaAtual=1",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/aabc223f2c32c5d78df670dacabe11a9b63aae83542cf2cce9231f178978683b.html.gz",
+            "sha256_fonte": "aabc223f2c32c5d78df670dacabe11a9b63aae83542cf2cce9231f178978683b",
+            "sha256_cache": "e1d100b13a831346f9a14314736e23903c9ab9c7c31a170ffb73a46ec7db0007",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:33 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2002,
+            "pagina": 1,
+            "total_registros_declarado": 77,
+            "paginas_esperadas": 4
+          },
+          "ano_filtro": 2002,
+          "pagina": 1
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7601",
+        "iniciado_em": "2026-10-28T06:04:13.711590-03:00",
+        "capturado_em": "2026-10-28T06:04:14.586672-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7601.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/7d6fb76ca4f732d58a92609e3a638f138666dd220906a018b8961a4fab726800.bin.gz",
+        "sha256_fonte": "7d6fb76ca4f732d58a92609e3a638f138666dd220906a018b8961a4fab726800",
+        "sha256_cache": "da0d92725bf2eaabf68c3c0ee5e91afbc81074d92300a4275720f41adb89b5e4",
+        "bytes": 66695,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7601.pdf",
+          "content-length": "66695",
+          "date": "Wed, 28 Oct 2026 09:01:07 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"66695-1560775746426\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:06 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 2,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          },
+          {
+            "pagina": 2,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2002/l-1352-2002-aleto7597.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2002/l-1352-2002-aleto7597.md",
+      "sha256_md": "922c4acf5d0c268d319dfd764e9936a74e7e79128fff947c757d13e03b93c31d",
+      "captura": {
+        "item": {
+          "id_ALETO": "7597",
+          "fonte": "https://www.al.to.leg.br/arquivo/7597",
+          "titulo_indice": "Lei nº 1352 de 2002 (ordinária)",
+          "numero": "1352",
+          "ano_titulo": "2002",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2002-12-17",
+          "data_literal": "| Data: 17/12/2002",
+          "ementa": "Declara de utilidade pública estadual a Associação de Pais e Amigos dos Excepcionais - APAE de Sandolândia.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2002&pagPaginaAtual=1",
+            "iniciado_em": "2026-10-27T23:13:39.962491-03:00",
+            "capturado_em": "2026-10-27T23:13:41.171291-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2002&pagPaginaAtual=1",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/aabc223f2c32c5d78df670dacabe11a9b63aae83542cf2cce9231f178978683b.html.gz",
+            "sha256_fonte": "aabc223f2c32c5d78df670dacabe11a9b63aae83542cf2cce9231f178978683b",
+            "sha256_cache": "e1d100b13a831346f9a14314736e23903c9ab9c7c31a170ffb73a46ec7db0007",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:33 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2002,
+            "pagina": 1,
+            "total_registros_declarado": 77,
+            "paginas_esperadas": 4
+          },
+          "ano_filtro": 2002,
+          "pagina": 1
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7597",
+        "iniciado_em": "2026-10-28T06:04:17.323852-03:00",
+        "capturado_em": "2026-10-28T06:04:18.265973-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7597.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/a7c19c445dd96c73e12e88abcb951b99be91172bd7fc8dba141b508d5f5affcd.bin.gz",
+        "sha256_fonte": "a7c19c445dd96c73e12e88abcb951b99be91172bd7fc8dba141b508d5f5affcd",
+        "sha256_cache": "538c214cbadf4d92821e600107aef7266b78ea44eb38c3c3a5ddafdb57edc005",
+        "bytes": 61129,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7597.pdf",
+          "content-length": "61129",
+          "date": "Wed, 28 Oct 2026 09:01:10 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"61129-1560775746410\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:06 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2003/l-1429-2003-aleto7674.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2003/l-1429-2003-aleto7674.md",
+      "sha256_md": "6a4042bf3f1ea2e0f200ceafcc9ca5a64c339f128fe5e9a7810460f0b365d845",
+      "captura": {
+        "item": {
+          "id_ALETO": "7674",
+          "fonte": "https://www.al.to.leg.br/arquivo/7674",
+          "titulo_indice": "Lei nº 1429 de 2003 (ordinária)",
+          "numero": "1429",
+          "ano_titulo": "2003",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2003-12-16",
+          "data_literal": "| Data: 16/12/2003",
+          "ementa": "Assegura aos portadores de deficiência locomotora, matrícula na escola pública mais próxima de sua residência.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2003&pagPaginaAtual=1",
+            "iniciado_em": "2026-10-27T23:13:44.801364-03:00",
+            "capturado_em": "2026-10-27T23:13:45.667907-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2003&pagPaginaAtual=1",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/f6337134cfac0b4d264c03cad0fcf221820a2ca6c8e3f8bead04622bb9821fec.html.gz",
+            "sha256_fonte": "f6337134cfac0b4d264c03cad0fcf221820a2ca6c8e3f8bead04622bb9821fec",
+            "sha256_cache": "638afafceca1e09904e96652d2ce274d9db137974f53cccbd65a7dc03892554e",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:38 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2003,
+            "pagina": 1,
+            "total_registros_declarado": 61,
+            "paginas_esperadas": 4
+          },
+          "ano_filtro": 2003,
+          "pagina": 1
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7674",
+        "iniciado_em": "2026-10-28T06:05:27.519185-03:00",
+        "capturado_em": "2026-10-28T06:05:28.491446-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7674.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/e8d8f71c396d38b60bfa3d85712ea8f2efee027e05824999305127112159af2b.bin.gz",
+        "sha256_fonte": "e8d8f71c396d38b60bfa3d85712ea8f2efee027e05824999305127112159af2b",
+        "sha256_cache": "cb8c7eb1002cacc4b55f425feba0058509f8e67710e3b64737d696084e326c64",
+        "bytes": 67173,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7674.pdf",
+          "content-length": "67173",
+          "date": "Wed, 28 Oct 2026 09:02:21 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"67173-1560775746862\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:06 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2003/l-1384-2003-aleto24848.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2003/l-1384-2003-aleto24848.md",
+      "sha256_md": "82c6565f1f48f928ca1f5354df1e4d86c6eacbaa7d32da90dd4a27278b3691c1",
+      "captura": {
+        "item": {
+          "id_ALETO": "24848",
+          "fonte": "https://www.al.to.leg.br/arquivo/24848",
+          "titulo_indice": "Lei nº 1384 de 2003 (ordinária)",
+          "numero": "1384",
+          "ano_titulo": "2003",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2003-07-09",
+          "data_literal": "| Data: 09/07/2003",
+          "ementa": "Altera a Lei 1.173, de 2 de agosto de 2000, e adota outra providência.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2003&pagPaginaAtual=3",
+            "iniciado_em": "2026-10-27T23:13:47.212176-03:00",
+            "capturado_em": "2026-10-27T23:13:47.966801-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2003&pagPaginaAtual=3",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/188a6083aa2f01542457f713862f3e36899a3d5248d6b4f5b592e2ae16316f25.html.gz",
+            "sha256_fonte": "188a6083aa2f01542457f713862f3e36899a3d5248d6b4f5b592e2ae16316f25",
+            "sha256_cache": "f136f464cbb0df51f0c25136d568e6b501eecf58ca4d39fc5e3215334408224d",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:41 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2003,
+            "pagina": 3,
+            "total_registros_declarado": 61,
+            "paginas_esperadas": 4
+          },
+          "ano_filtro": 2003,
+          "pagina": 3
+        },
+        "url": "https://www.al.to.leg.br/arquivo/24848",
+        "iniciado_em": "2026-10-28T06:06:15.874182-03:00",
+        "capturado_em": "2026-10-28T06:06:16.777442-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/24848.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/fab6d6bc50a4eb65f240c599a56242720469e9f8c71c39a997d9ea3de415d1c0.bin.gz",
+        "sha256_fonte": "fab6d6bc50a4eb65f240c599a56242720469e9f8c71c39a997d9ea3de415d1c0",
+        "sha256_cache": "a45ef47ac348d53b468c1345660de6363a4b53037ef967483d8aeb0d2a17b91b",
+        "bytes": 13916,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/24848.pdf",
+          "content-length": "13916",
+          "date": "Wed, 28 Oct 2026 09:03:09 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"13916-1560775630934\"",
+          "last-modified": "Mon, 17 Jun 2019 12:47:10 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": [
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 0
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 1
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 2
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 3
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 4
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 5
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 6
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 7
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 8
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 9
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 10
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 11
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 12
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 13
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 14
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 15
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 16
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 17
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 18
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 19
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 20
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 21
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2004/l-1529-2004-aleto7775.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2004/l-1529-2004-aleto7775.md",
+      "sha256_md": "c63320c48872805c05d5c4cfcb4257eed217e88fc27390b3d092ad21cb412343",
+      "captura": {
+        "item": {
+          "id_ALETO": "7775",
+          "fonte": "https://www.al.to.leg.br/arquivo/7775",
+          "titulo_indice": "Lei nº 1529 de 2004 (ordinária)",
+          "numero": "1529",
+          "ano_titulo": "2004",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2004-12-22",
+          "data_literal": "| Data: 22/12/2004",
+          "ementa": "Autoriza o Poder Executivo a doar área de terreno urbano à Sociedade de Liderança para o Desenvolvimento Socioeconômico do Estado do Tocantins - SOLIDES.*Regulamentada pelo Decreto nº 2.301, de 22/12/2004, publicado no D.0. nº 1829.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2004&pagPaginaAtual=1",
+            "iniciado_em": "2026-10-27T23:13:49.632199-03:00",
+            "capturado_em": "2026-10-27T23:13:50.854440-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2004&pagPaginaAtual=1",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/07c29015dc7fcc563e7d1a71e8cf5bcaf890a7a2e0fe6412064a520d9d51c4a5.html.gz",
+            "sha256_fonte": "07c29015dc7fcc563e7d1a71e8cf5bcaf890a7a2e0fe6412064a520d9d51c4a5",
+            "sha256_cache": "229530fbc3e542419279e19b5c5092342552b83d5c1f47bdc608f396a19464c2",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:43 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2004,
+            "pagina": 1,
+            "total_registros_declarado": 121,
+            "paginas_esperadas": 7
+          },
+          "ano_filtro": 2004,
+          "pagina": 1
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7775",
+        "iniciado_em": "2026-10-28T06:06:49.754844-03:00",
+        "capturado_em": "2026-10-28T06:06:50.569220-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7775.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/59e3a6bbf1b870eef54dbd1dd73a7059e0611b6a07a333a2bb011eeb1461d5fe.bin.gz",
+        "sha256_fonte": "59e3a6bbf1b870eef54dbd1dd73a7059e0611b6a07a333a2bb011eeb1461d5fe",
+        "sha256_cache": "93ddfab37e2fee23ac157f7882b1c895483c81aedf456225fb63f707647f0736",
+        "bytes": 81776,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7775.pdf",
+          "content-length": "81776",
+          "date": "Wed, 28 Oct 2026 09:03:43 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"81776-1560775747494\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:07 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2004/l-1516-2004-aleto23295.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2004/l-1516-2004-aleto23295.md",
+      "sha256_md": "4c4a710df29d37c5f93bad2b33a711459d2a2caf37fa0d196b861d4f6ee2e7ee",
+      "captura": {
+        "item": {
+          "id_ALETO": "23295",
+          "fonte": "https://www.al.to.leg.br/arquivo/23295",
+          "titulo_indice": "Lei nº 1516 de 2004 (ordinária)",
+          "numero": "1516",
+          "ano_titulo": "2004",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2004-11-25",
+          "data_literal": "| Data: 25/11/2004",
+          "ementa": "Autoriza doação da área de terreno urbano que especifica à Associação dos Defensores Públicos do Estado do Tocantins - ADPETO. (Regulamentada pelo Decreto nº 2.281, de 26/11/2004, no Diário Oficial nº 1.813).",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2004&pagPaginaAtual=2",
+            "iniciado_em": "2026-10-27T23:13:50.861548-03:00",
+            "capturado_em": "2026-10-27T23:13:51.837223-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2004&pagPaginaAtual=2",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/83aebc1770cff1ceeab8e8a4cf0a81fa2c78d38860b785ca38faf602bb6a597e.html.gz",
+            "sha256_fonte": "83aebc1770cff1ceeab8e8a4cf0a81fa2c78d38860b785ca38faf602bb6a597e",
+            "sha256_cache": "25c510bc9385a2250548bb59b127fb768e7d627b15767297aa263761389e1606",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:44 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2004,
+            "pagina": 2,
+            "total_registros_declarado": 121,
+            "paginas_esperadas": 7
+          },
+          "ano_filtro": 2004,
+          "pagina": 2
+        },
+        "url": "https://www.al.to.leg.br/arquivo/23295",
+        "iniciado_em": "2026-10-28T06:07:03.051650-03:00",
+        "capturado_em": "2026-10-28T06:07:03.888030-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/23295.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/a605186774ea30a9e988649767b885817529dafe5541802d7646afaad8c163e9.bin.gz",
+        "sha256_fonte": "a605186774ea30a9e988649767b885817529dafe5541802d7646afaad8c163e9",
+        "sha256_cache": "65501504a7be8083f02bbabac01c2803aa18c22c89bd0045972ecd66e15af9c1",
+        "bytes": 14018,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/23295.pdf",
+          "content-length": "14018",
+          "date": "Wed, 28 Oct 2026 09:03:56 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"14018-1560775615478\"",
+          "last-modified": "Mon, 17 Jun 2019 12:46:55 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              595.22,
+              842
+            ],
+            "MediaBox": [
+              0,
+              0,
+              595.22,
+              842
+            ],
+            "marcacoes": [
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 0
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 1
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 2
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 3
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 4
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 5
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 6
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 7
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 8
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 9
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 10
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 11
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 12
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 13
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 14
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 15
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 16
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 17
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 18
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 19
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 20
+              },
+              {
+                "operador": "BDC",
+                "tag": "/P",
+                "MCID": 21
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2004/l-1498-2004-aleto7744.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2004/l-1498-2004-aleto7744.md",
+      "sha256_md": "a0d8403cffb68f0cc769eb2b961632a3ea8161a1cd8510ebe59658d67b393cd4",
+      "captura": {
+        "item": {
+          "id_ALETO": "7744",
+          "fonte": "https://www.al.to.leg.br/arquivo/7744",
+          "titulo_indice": "Lei nº 1498 de 2004 (ordinária)",
+          "numero": "1498",
+          "ano_titulo": "2004",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2004-09-16",
+          "data_literal": "| Data: 16/09/2004",
+          "ementa": "Autoriza o Poder Executivo a doar área de terreno urbano à Associação dos Diplomados da Escola Superior de Guerra - ADESG-TO.(Regulamentada pelo Decreto nº 2.224, de 18/10/04, publicado no Diário Oficial nº 1.787)",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2004&pagPaginaAtual=3",
+            "iniciado_em": "2026-10-27T23:13:52.062461-03:00",
+            "capturado_em": "2026-10-27T23:13:53.000418-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2004&pagPaginaAtual=3",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/acff1a657b9a31bb3ad2f9464f5ee7f93f9641a58f66400581b0c9602befe508.html.gz",
+            "sha256_fonte": "acff1a657b9a31bb3ad2f9464f5ee7f93f9641a58f66400581b0c9602befe508",
+            "sha256_cache": "38fa212e358f63dc0eed5084ce63744be317d184235c097ab9f8d1db6cf9ac65",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:46 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2004,
+            "pagina": 3,
+            "total_registros_declarado": 121,
+            "paginas_esperadas": 7
+          },
+          "ano_filtro": 2004,
+          "pagina": 3
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7744",
+        "iniciado_em": "2026-10-28T06:07:22.406132-03:00",
+        "capturado_em": "2026-10-28T06:07:23.319804-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7744.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/602eb64d7d59dcb4ffb795c105ff503178aa1ba0a656461c9005f7c54911bbe2.bin.gz",
+        "sha256_fonte": "602eb64d7d59dcb4ffb795c105ff503178aa1ba0a656461c9005f7c54911bbe2",
+        "sha256_cache": "5e2cdcfbde746b3504fbd2e0865c927bd3810684e18b1a944db01582219dc666",
+        "bytes": 83716,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7744.pdf",
+          "content-length": "83716",
+          "date": "Wed, 28 Oct 2026 09:04:15 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"83716-1560775747326\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:07 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2004/l-1460-2004-aleto7705.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2004/l-1460-2004-aleto7705.md",
+      "sha256_md": "e32baf461cfc66cb2778cf35f1d99bd2b38fd6a560b4898492e2444470ba80da",
+      "captura": {
+        "item": {
+          "id_ALETO": "7705",
+          "fonte": "https://www.al.to.leg.br/arquivo/7705",
+          "titulo_indice": "Lei nº 1460 de 2004 (ordinária)",
+          "numero": "1460",
+          "ano_titulo": "2004",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2004-05-06",
+          "data_literal": "| Data: 06/05/2004",
+          "ementa": "Dispõe sobre a readaptação da Função Especial Comissionada - FEC ao médico.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2004&pagPaginaAtual=5",
+            "iniciado_em": "2026-10-27T23:13:54.482517-03:00",
+            "capturado_em": "2026-10-27T23:13:55.426154-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2004&pagPaginaAtual=5",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/0bbf259a6877bc0612ddbe72a18963702848df17cdc16aec19d99302be4e2dcd.html.gz",
+            "sha256_fonte": "0bbf259a6877bc0612ddbe72a18963702848df17cdc16aec19d99302be4e2dcd",
+            "sha256_cache": "b90b88fa652b4739550f07e57680f23ae8b9a345203e27c8ae2b83baa8450d6d",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:48 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2004,
+            "pagina": 5,
+            "total_registros_declarado": 121,
+            "paginas_esperadas": 7
+          },
+          "ano_filtro": 2004,
+          "pagina": 5
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7705",
+        "iniciado_em": "2026-10-28T06:08:04.698657-03:00",
+        "capturado_em": "2026-10-28T06:08:05.854499-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7705.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/f25c52d4444ec90de093ef830a1a4bdb5de558e936e5cc2201c4621941d50ef4.bin.gz",
+        "sha256_fonte": "f25c52d4444ec90de093ef830a1a4bdb5de558e936e5cc2201c4621941d50ef4",
+        "sha256_cache": "f4cb35c55b5012277f888fadfeb7be615e571f8ddef1a86d6bca5197524ece8e",
+        "bytes": 71382,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7705.pdf",
+          "content-length": "71382",
+          "date": "Wed, 28 Oct 2026 09:04:58 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"71382-1560775747062\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:07 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2004/l-1447-2004-aleto7692.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2004/l-1447-2004-aleto7692.md",
+      "sha256_md": "d51907da60777c82bfb08ce9063dac7a3beed9efde36e60f8872a3355d4651e9",
+      "captura": {
+        "item": {
+          "id_ALETO": "7692",
+          "fonte": "https://www.al.to.leg.br/arquivo/7692",
+          "titulo_indice": "Lei nº 1447 de 2004 (ordinária)",
+          "numero": "1447",
+          "ano_titulo": "2004",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2004-04-02",
+          "data_literal": "| Data: 02/04/2004",
+          "ementa": "Autoriza o Poder Executivo a doar áreas de terreno urbano à Associação São José.(Regulamentada pelo Decreto nº 2.047, de 06/04/04, publicado no Diário Oficial nº 1.657)",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2004&pagPaginaAtual=6",
+            "iniciado_em": "2026-10-27T23:13:55.682558-03:00",
+            "capturado_em": "2026-10-27T23:13:56.586695-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2004&pagPaginaAtual=6",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/68f0a3da44d158dd74b74218908a72ac0efb86f6df9c3d278d3dc73773e0e598.html.gz",
+            "sha256_fonte": "68f0a3da44d158dd74b74218908a72ac0efb86f6df9c3d278d3dc73773e0e598",
+            "sha256_cache": "5558c6511336f1d4f61fdca6ddf1183dfc6f16dd2bd4d991933746912ccceb8a",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:49 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2004,
+            "pagina": 6,
+            "total_registros_declarado": 121,
+            "paginas_esperadas": 7
+          },
+          "ano_filtro": 2004,
+          "pagina": 6
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7692",
+        "iniciado_em": "2026-10-28T06:08:13.143178-03:00",
+        "capturado_em": "2026-10-28T06:08:14.059518-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7692.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/73adf5ddbaf6e5a1314aeef8b8905d9c525bf9d5174b0666d5c51a30a8ea9c0c.bin.gz",
+        "sha256_fonte": "73adf5ddbaf6e5a1314aeef8b8905d9c525bf9d5174b0666d5c51a30a8ea9c0c",
+        "sha256_cache": "1a551096ba91c25983428253dddbc5778320b0200d92e6e94d3f4a2657100d98",
+        "bytes": 83784,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7692.pdf",
+          "content-length": "83784",
+          "date": "Wed, 28 Oct 2026 09:05:06 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"83784-1560775746990\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:06 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2004/l-1446-2004-aleto7691.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2004/l-1446-2004-aleto7691.md",
+      "sha256_md": "44b7750631d48f001d3c90dbbb117e0144d5ad8252acc8f3fe1fced35669ed32",
+      "captura": {
+        "item": {
+          "id_ALETO": "7691",
+          "fonte": "https://www.al.to.leg.br/arquivo/7691",
+          "titulo_indice": "Lei nº 1446 de 2004 (ordinária)",
+          "numero": "1446",
+          "ano_titulo": "2004",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2004-04-02",
+          "data_literal": "| Data: 02/04/2004",
+          "ementa": "Autoriza o Poder Executivo a doar área de terreno urbano ao Instituto de Desenvolvimento Rural do Estado do Tocantins - RURALTINS.(Regulamentada pelo Decreto nº 2.046, de 06/04/04, publicado no Diário Oficial nº 1.657)",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2004&pagPaginaAtual=6",
+            "iniciado_em": "2026-10-27T23:13:55.682558-03:00",
+            "capturado_em": "2026-10-27T23:13:56.586695-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2004&pagPaginaAtual=6",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/68f0a3da44d158dd74b74218908a72ac0efb86f6df9c3d278d3dc73773e0e598.html.gz",
+            "sha256_fonte": "68f0a3da44d158dd74b74218908a72ac0efb86f6df9c3d278d3dc73773e0e598",
+            "sha256_cache": "5558c6511336f1d4f61fdca6ddf1183dfc6f16dd2bd4d991933746912ccceb8a",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:49 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2004,
+            "pagina": 6,
+            "total_registros_declarado": 121,
+            "paginas_esperadas": 7
+          },
+          "ano_filtro": 2004,
+          "pagina": 6
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7691",
+        "iniciado_em": "2026-10-28T06:08:14.353293-03:00",
+        "capturado_em": "2026-10-28T06:08:15.267603-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7691.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/5241617d26c8dd7724171de149685b522e448ef8c8eb549118c1ed3b73138592.bin.gz",
+        "sha256_fonte": "5241617d26c8dd7724171de149685b522e448ef8c8eb549118c1ed3b73138592",
+        "sha256_cache": "f65a65983fbaab68646bf8dfbecd76f45a3dc4e61b337d624b6f49bb52b48058",
+        "bytes": 82731,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7691.pdf",
+          "content-length": "82731",
+          "date": "Wed, 28 Oct 2026 09:05:07 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"82731-1560775746986\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:06 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2004/l-1444-2004-aleto7689.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2004/l-1444-2004-aleto7689.md",
+      "sha256_md": "5a558d6c8462d89d722194ba56ee72e70c67f59b1f3edbfea5c2f517a9b97360",
+      "captura": {
+        "item": {
+          "id_ALETO": "7689",
+          "fonte": "https://www.al.to.leg.br/arquivo/7689",
+          "titulo_indice": "Lei nº 1444 de 2004 (ordinária)",
+          "numero": "1444",
+          "ano_titulo": "2004",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2004-04-02",
+          "data_literal": "| Data: 02/04/2004",
+          "ementa": "Autoriza o Poder Executivo a doar à ELETRONORTE a área de terreno urbano que especifica(Regulamentada pelo Decreto nº 2.045, de 06/04/04, publicado no Diário Oficial nº 1.657)",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2004&pagPaginaAtual=6",
+            "iniciado_em": "2026-10-27T23:13:55.682558-03:00",
+            "capturado_em": "2026-10-27T23:13:56.586695-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2004&pagPaginaAtual=6",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/68f0a3da44d158dd74b74218908a72ac0efb86f6df9c3d278d3dc73773e0e598.html.gz",
+            "sha256_fonte": "68f0a3da44d158dd74b74218908a72ac0efb86f6df9c3d278d3dc73773e0e598",
+            "sha256_cache": "5558c6511336f1d4f61fdca6ddf1183dfc6f16dd2bd4d991933746912ccceb8a",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:49 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2004,
+            "pagina": 6,
+            "total_registros_declarado": 121,
+            "paginas_esperadas": 7
+          },
+          "ano_filtro": 2004,
+          "pagina": 6
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7689",
+        "iniciado_em": "2026-10-28T06:08:16.773340-03:00",
+        "capturado_em": "2026-10-28T06:08:17.633982-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7689.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/09b7dbd9d7edba86d1ae869d8dfb30ee94c93f72ea0d671eb917d670f8a7993a.bin.gz",
+        "sha256_fonte": "09b7dbd9d7edba86d1ae869d8dfb30ee94c93f72ea0d671eb917d670f8a7993a",
+        "sha256_cache": "9b28a917d0074824cb7b7483e95367a8edc3693cbaeac064919dd3946379912c",
+        "bytes": 83030,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7689.pdf",
+          "content-length": "83030",
+          "date": "Wed, 28 Oct 2026 09:05:10 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"83030-1560775746970\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:06 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1653-2005-aleto7899.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1653-2005-aleto7899.md",
+      "sha256_md": "52a3fbcb51bae6a21f3d524b29360987abdebfade0fb3054849d57fac84c2ef2",
+      "captura": {
+        "item": {
+          "id_ALETO": "7899",
+          "fonte": "https://www.al.to.leg.br/arquivo/7899",
+          "titulo_indice": "Lei nº 1653 de 2005 (ordinária)",
+          "numero": "1653",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-12-30",
+          "data_literal": "| Data: 30/12/2005",
+          "ementa": "Altera a Lei 1.614, de 4 de outubro de 2005, que dispõe sobre o Regime Próprio de Previdência Social do Estado do Tocantins.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=1",
+            "iniciado_em": "2026-10-27T23:13:58.102682-03:00",
+            "capturado_em": "2026-10-27T23:13:59.032283-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=1",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/3e32f5e917c002c4c6e993874bb702f225842d581fbb53573ceb656365586338.html.gz",
+            "sha256_fonte": "3e32f5e917c002c4c6e993874bb702f225842d581fbb53573ceb656365586338",
+            "sha256_cache": "8a12f7b0b22640d7cc4b203fd3169d2cd89a02c288bb54716a1dd5e91e5533fb",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:52 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 1,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 1
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7899",
+        "iniciado_em": "2026-10-28T06:08:30.071087-03:00",
+        "capturado_em": "2026-10-28T06:08:31.009139-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7899.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/3547c97dc9b8083847fc162ee31ed61f95ea9a41ae43f6b7dc07525845310c83.bin.gz",
+        "sha256_fonte": "3547c97dc9b8083847fc162ee31ed61f95ea9a41ae43f6b7dc07525845310c83",
+        "sha256_cache": "3e04bf323b5f22f37aac20490439ea00e5713c5440b3c556ee75edd3fee383c0",
+        "bytes": 90931,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7899.pdf",
+          "content-length": "90931",
+          "date": "Wed, 28 Oct 2026 09:05:23 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"90931-1560775748330\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:08 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1646-2005-aleto7892.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1646-2005-aleto7892.md",
+      "sha256_md": "f39279bd90f3bf3440e451e90baa1fa6ec283f19ee2b68a05a067720760b270d",
+      "captura": {
+        "item": {
+          "id_ALETO": "7892",
+          "fonte": "https://www.al.to.leg.br/arquivo/7892",
+          "titulo_indice": "Lei nº 1646 de 2005 (ordinária)",
+          "numero": "1646",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-12-29",
+          "data_literal": "| Data: 29/12/2005",
+          "ementa": "Cria o Ano Estadual da Juventude.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=1",
+            "iniciado_em": "2026-10-27T23:13:58.102682-03:00",
+            "capturado_em": "2026-10-27T23:13:59.032283-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=1",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/3e32f5e917c002c4c6e993874bb702f225842d581fbb53573ceb656365586338.html.gz",
+            "sha256_fonte": "3e32f5e917c002c4c6e993874bb702f225842d581fbb53573ceb656365586338",
+            "sha256_cache": "8a12f7b0b22640d7cc4b203fd3169d2cd89a02c288bb54716a1dd5e91e5533fb",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:52 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 1,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 1
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7892",
+        "iniciado_em": "2026-10-28T06:08:33.697016-03:00",
+        "capturado_em": "2026-10-28T06:08:34.482981-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7892.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/25a7e2a6688972a70840b2b16f79d951a619e182972754e9aa00909cf1e12fc1.bin.gz",
+        "sha256_fonte": "25a7e2a6688972a70840b2b16f79d951a619e182972754e9aa00909cf1e12fc1",
+        "sha256_cache": "3e02fa9e5daa68752f877ca3d56a949c44094330f1f426052b459f991dc694af",
+        "bytes": 58671,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7892.pdf",
+          "content-length": "58671",
+          "date": "Wed, 28 Oct 2026 09:05:27 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"58671-1560775748318\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:08 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1645-2005-aleto7891.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1645-2005-aleto7891.md",
+      "sha256_md": "7c0228db1fa564317fb9af57963a995c4fb2c7ebd4b9bd4ead4140a1e42d2700",
+      "captura": {
+        "item": {
+          "id_ALETO": "7891",
+          "fonte": "https://www.al.to.leg.br/arquivo/7891",
+          "titulo_indice": "Lei nº 1645 de 2005 (ordinária)",
+          "numero": "1645",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-12-29",
+          "data_literal": "| Data: 29/12/2005",
+          "ementa": "Dispõe sobre aporte de capital à Companhia de Saneamento do Tocantins em bens móveis que especifica.(Regulamentada pelo Decreto nº 2.634, de 06/01/2006, publicado no Diário Oficial nº 2.080)",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=1",
+            "iniciado_em": "2026-10-27T23:13:58.102682-03:00",
+            "capturado_em": "2026-10-27T23:13:59.032283-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=1",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/3e32f5e917c002c4c6e993874bb702f225842d581fbb53573ceb656365586338.html.gz",
+            "sha256_fonte": "3e32f5e917c002c4c6e993874bb702f225842d581fbb53573ceb656365586338",
+            "sha256_cache": "8a12f7b0b22640d7cc4b203fd3169d2cd89a02c288bb54716a1dd5e91e5533fb",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:52 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 1,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 1
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7891",
+        "iniciado_em": "2026-10-28T06:08:34.907127-03:00",
+        "capturado_em": "2026-10-28T06:08:35.815535-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7891.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/36e8324c178dca6b93647d3a17e20e8cda65d9918171a73508bc3f1cc268758d.bin.gz",
+        "sha256_fonte": "36e8324c178dca6b93647d3a17e20e8cda65d9918171a73508bc3f1cc268758d",
+        "sha256_cache": "0e2aa5451ec2636cef0b16317cb03aca842547b97b3aab1cb362eac614d8183e",
+        "bytes": 72271,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7891.pdf",
+          "content-length": "72271",
+          "date": "Wed, 28 Oct 2026 09:05:28 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"72271-1560775748306\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:08 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1644-2005-aleto7890.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1644-2005-aleto7890.md",
+      "sha256_md": "b09dc409eafd93b7bb022a73ffe3ae0751131643771c78d55f0e1a3becf88d49",
+      "captura": {
+        "item": {
+          "id_ALETO": "7890",
+          "fonte": "https://www.al.to.leg.br/arquivo/7890",
+          "titulo_indice": "Lei nº 1644 de 2005 (ordinária)",
+          "numero": "1644",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-12-29",
+          "data_literal": "| Data: 29/12/2005",
+          "ementa": "Declara de utilidade pública estadual a Loja Maçônica Fraternidade e Justiça de Gurupi-TO.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=1",
+            "iniciado_em": "2026-10-27T23:13:58.102682-03:00",
+            "capturado_em": "2026-10-27T23:13:59.032283-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=1",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/3e32f5e917c002c4c6e993874bb702f225842d581fbb53573ceb656365586338.html.gz",
+            "sha256_fonte": "3e32f5e917c002c4c6e993874bb702f225842d581fbb53573ceb656365586338",
+            "sha256_cache": "8a12f7b0b22640d7cc4b203fd3169d2cd89a02c288bb54716a1dd5e91e5533fb",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:52 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 1,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 1
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7890",
+        "iniciado_em": "2026-10-28T06:08:36.117059-03:00",
+        "capturado_em": "2026-10-28T06:08:37.180521-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7890.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/d0bfc01eb25bcf79b39f2cab8cb6ec0017a359a0acf2dbb57b649a0a933fb8f9.bin.gz",
+        "sha256_fonte": "d0bfc01eb25bcf79b39f2cab8cb6ec0017a359a0acf2dbb57b649a0a933fb8f9",
+        "sha256_cache": "a78a05c83a28d4b90102bb2dbdb75d96518c5ca08db2b15a76381f7eb85d0f05",
+        "bytes": 61188,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7890.pdf",
+          "content-length": "61188",
+          "date": "Wed, 28 Oct 2026 09:05:29 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"61188-1560775748294\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:08 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1639-2005-aleto7885.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1639-2005-aleto7885.md",
+      "sha256_md": "bd9d1bfa206330c63fca50b33f82081a9d2a90ffcf1240daecb8a95eca0babfa",
+      "captura": {
+        "item": {
+          "id_ALETO": "7885",
+          "fonte": "https://www.al.to.leg.br/arquivo/7885",
+          "titulo_indice": "Lei nº 1639 de 2005 (ordinária)",
+          "numero": "1639",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-12-28",
+          "data_literal": "| Data: 28/12/2005",
+          "ementa": "Altera a Lei 1.587, de 24 de junho de 2005, na parte que especifica.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=1",
+            "iniciado_em": "2026-10-27T23:13:58.102682-03:00",
+            "capturado_em": "2026-10-27T23:13:59.032283-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=1",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/3e32f5e917c002c4c6e993874bb702f225842d581fbb53573ceb656365586338.html.gz",
+            "sha256_fonte": "3e32f5e917c002c4c6e993874bb702f225842d581fbb53573ceb656365586338",
+            "sha256_cache": "8a12f7b0b22640d7cc4b203fd3169d2cd89a02c288bb54716a1dd5e91e5533fb",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:52 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 1,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 1
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7885",
+        "iniciado_em": "2026-10-28T06:08:41.250252-03:00",
+        "capturado_em": "2026-10-28T06:08:42.145161-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7885.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/2099a6df00c8b05ed9a03cf9ff1b6175850288f9fbd92cf8b7875e966a81fb92.bin.gz",
+        "sha256_fonte": "2099a6df00c8b05ed9a03cf9ff1b6175850288f9fbd92cf8b7875e966a81fb92",
+        "sha256_cache": "04bd70eb597860327f866e6cba7b73f5f06b97c26d786e65d00616c2ae598f79",
+        "bytes": 75920,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7885.pdf",
+          "content-length": "75920",
+          "date": "Wed, 28 Oct 2026 09:05:34 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"75920-1560775748278\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:08 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1638-2005-aleto7884.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1638-2005-aleto7884.md",
+      "sha256_md": "29553bd09292068321a2ab9e128ee7ddad507c6c16bde2db21dc95a218e25a10",
+      "captura": {
+        "item": {
+          "id_ALETO": "7884",
+          "fonte": "https://www.al.to.leg.br/arquivo/7884",
+          "titulo_indice": "Lei nº 1638 de 2005 (ordinária)",
+          "numero": "1638",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-12-28",
+          "data_literal": "| Data: 28/12/2005",
+          "ementa": "Autoriza o Poder Executivo a doar ao Município de Pedro Afonso área de terreno urbano e respectivas acessões.(Regulamentada pelo Decreto nº 2.620, de 29/12/2005, publicado no Diário Oficial nº 2075)",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=1",
+            "iniciado_em": "2026-10-27T23:13:58.102682-03:00",
+            "capturado_em": "2026-10-27T23:13:59.032283-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=1",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/3e32f5e917c002c4c6e993874bb702f225842d581fbb53573ceb656365586338.html.gz",
+            "sha256_fonte": "3e32f5e917c002c4c6e993874bb702f225842d581fbb53573ceb656365586338",
+            "sha256_cache": "8a12f7b0b22640d7cc4b203fd3169d2cd89a02c288bb54716a1dd5e91e5533fb",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:52 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 1,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 1
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7884",
+        "iniciado_em": "2026-10-28T06:08:42.460292-03:00",
+        "capturado_em": "2026-10-28T06:08:43.346178-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7884.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/4cdb0398adcf0b678931996ee5239ceb3e6a350c2747ea86b6276a9cab388d7a.bin.gz",
+        "sha256_fonte": "4cdb0398adcf0b678931996ee5239ceb3e6a350c2747ea86b6276a9cab388d7a",
+        "sha256_cache": "d763c300dc1fd3ab71a69c4bc685a9c1b39b3decf912d2b7816c0a8a01a6f96d",
+        "bytes": 87001,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7884.pdf",
+          "content-length": "87001",
+          "date": "Wed, 28 Oct 2026 09:05:35 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"87001-1560775748266\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:08 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1633-2005-aleto7879.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1633-2005-aleto7879.md",
+      "sha256_md": "63911b79f2118c792b3a390ed919dca3b470c64b060a6f5b30f24259a26639e0",
+      "captura": {
+        "item": {
+          "id_ALETO": "7879",
+          "fonte": "https://www.al.to.leg.br/arquivo/7879",
+          "titulo_indice": "Lei nº 1633 de 2005 (ordinária)",
+          "numero": "1633",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-12-13",
+          "data_literal": "| Data: 13/12/2005",
+          "ementa": "Declara de utilidade pública a Sociedade de Apoio às Ações de Saúde, Ensino e Pesquisa do Estado do Tocantins.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=2",
+            "iniciado_em": "2026-10-27T23:13:59.312745-03:00",
+            "capturado_em": "2026-10-27T23:14:00.072918-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=2",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/1d5fe9d315a8a87414c8cc88f51ec20460628c359c340b4522d7ff1007b99d80.html.gz",
+            "sha256_fonte": "1d5fe9d315a8a87414c8cc88f51ec20460628c359c340b4522d7ff1007b99d80",
+            "sha256_cache": "e197d8900d321b4d8290cb38ed875b14c23aa7750a2a691fcbeedd1fe7bc071e",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:53 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 2,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 2
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7879",
+        "iniciado_em": "2026-10-28T06:08:48.487247-03:00",
+        "capturado_em": "2026-10-28T06:08:49.412859-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7879.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/22ba00ff0e237a35adc82cc8ec88c5ba6d27db754236809cb5cb2d495bfa77e5.bin.gz",
+        "sha256_fonte": "22ba00ff0e237a35adc82cc8ec88c5ba6d27db754236809cb5cb2d495bfa77e5",
+        "sha256_cache": "3e99ea954cdbcada38a3d76415eebb5d8b9c9200a154c080a8df3109fd520bd3",
+        "bytes": 66138,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7879.pdf",
+          "content-length": "66138",
+          "date": "Wed, 28 Oct 2026 09:05:41 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"66138-1560775748250\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:08 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1630-2005-aleto7876.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1630-2005-aleto7876.md",
+      "sha256_md": "33af77e69161af91f9a0d679ccff6b246b192c2934f38175ffbe35ee8726ceb6",
+      "captura": {
+        "item": {
+          "id_ALETO": "7876",
+          "fonte": "https://www.al.to.leg.br/arquivo/7876",
+          "titulo_indice": "Lei nº 1630 de 2005 (ordinária)",
+          "numero": "1630",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-12-05",
+          "data_literal": "| Data: 05/12/2005",
+          "ementa": "Institui a Agência de Desenvolvimento Turístico, e adota outras providências.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=2",
+            "iniciado_em": "2026-10-27T23:13:59.312745-03:00",
+            "capturado_em": "2026-10-27T23:14:00.072918-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=2",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/1d5fe9d315a8a87414c8cc88f51ec20460628c359c340b4522d7ff1007b99d80.html.gz",
+            "sha256_fonte": "1d5fe9d315a8a87414c8cc88f51ec20460628c359c340b4522d7ff1007b99d80",
+            "sha256_cache": "e197d8900d321b4d8290cb38ed875b14c23aa7750a2a691fcbeedd1fe7bc071e",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:53 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 2,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 2
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7876",
+        "iniciado_em": "2026-10-28T06:08:52.104596-03:00",
+        "capturado_em": "2026-10-28T06:08:52.982043-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7876.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/ee7f215683647b5bc554dbf2bc2fd2271b63ae7dee835f6714fb376048eb6d99.bin.gz",
+        "sha256_fonte": "ee7f215683647b5bc554dbf2bc2fd2271b63ae7dee835f6714fb376048eb6d99",
+        "sha256_cache": "9348aa144240c5ebce799ecf054b401f0a5445b553bfd07a9ed86e269c6351b7",
+        "bytes": 74751,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7876.pdf",
+          "content-length": "74751",
+          "date": "Wed, 28 Oct 2026 09:05:45 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"74751-1560775748226\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:08 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 3,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          },
+          {
+            "pagina": 2,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          },
+          {
+            "pagina": 3,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1629-2005-aleto7875.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1629-2005-aleto7875.md",
+      "sha256_md": "4098ff47d41ccc1599f1fec8d9678cd8489ca3b89a5c2a298ccd1ccbc5e51044",
+      "captura": {
+        "item": {
+          "id_ALETO": "7875",
+          "fonte": "https://www.al.to.leg.br/arquivo/7875",
+          "titulo_indice": "Lei nº 1629 de 2005 (ordinária)",
+          "numero": "1629",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-12-05",
+          "data_literal": "| Data: 05/12/2005",
+          "ementa": "Autoriza o Poder Executivo a doar ao Município de Almas área de terreno urbano e respectivas acessões.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=2",
+            "iniciado_em": "2026-10-27T23:13:59.312745-03:00",
+            "capturado_em": "2026-10-27T23:14:00.072918-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=2",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/1d5fe9d315a8a87414c8cc88f51ec20460628c359c340b4522d7ff1007b99d80.html.gz",
+            "sha256_fonte": "1d5fe9d315a8a87414c8cc88f51ec20460628c359c340b4522d7ff1007b99d80",
+            "sha256_cache": "e197d8900d321b4d8290cb38ed875b14c23aa7750a2a691fcbeedd1fe7bc071e",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:53 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 2,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 2
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7875",
+        "iniciado_em": "2026-10-28T06:08:53.314624-03:00",
+        "capturado_em": "2026-10-28T06:08:54.250231-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7875.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/334b63634d3b078d0f40543aee8972309cb0af416bd5511045e0ccb7575c126f.bin.gz",
+        "sha256_fonte": "334b63634d3b078d0f40543aee8972309cb0af416bd5511045e0ccb7575c126f",
+        "sha256_cache": "df8017c9d83a5b38be386612aef7be973182bca5e115e2c2dd744ced7e33c37b",
+        "bytes": 66886,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7875.pdf",
+          "content-length": "66886",
+          "date": "Wed, 28 Oct 2026 09:05:46 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"66886-1560775748218\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:08 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1625-2005-aleto7871.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1625-2005-aleto7871.md",
+      "sha256_md": "085a58b8e663b4cc3c1a249c6eb40610e52e6b2a8f8e4f69cd49b29cbaeee2c2",
+      "captura": {
+        "item": {
+          "id_ALETO": "7871",
+          "fonte": "https://www.al.to.leg.br/arquivo/7871",
+          "titulo_indice": "Lei nº 1625 de 2005 (ordinária)",
+          "numero": "1625",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-11-11",
+          "data_literal": "| Data: 11/11/2005",
+          "ementa": "Concede Título de Cidadão Tocantinense ao Senhor Manoel Odir de Araújo Rocha.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=2",
+            "iniciado_em": "2026-10-27T23:13:59.312745-03:00",
+            "capturado_em": "2026-10-27T23:14:00.072918-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=2",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/1d5fe9d315a8a87414c8cc88f51ec20460628c359c340b4522d7ff1007b99d80.html.gz",
+            "sha256_fonte": "1d5fe9d315a8a87414c8cc88f51ec20460628c359c340b4522d7ff1007b99d80",
+            "sha256_cache": "e197d8900d321b4d8290cb38ed875b14c23aa7750a2a691fcbeedd1fe7bc071e",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:53 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 2,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 2
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7871",
+        "iniciado_em": "2026-10-28T06:08:58.154552-03:00",
+        "capturado_em": "2026-10-28T06:08:59.053902-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7871.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/10b41e63d3c4afec63efa14ebfd9e7840cb369eb59c2a85880a61b0788a2788e.bin.gz",
+        "sha256_fonte": "10b41e63d3c4afec63efa14ebfd9e7840cb369eb59c2a85880a61b0788a2788e",
+        "sha256_cache": "c07644f209e657d1a5877892dfb07eab6a02bda37e0721b138d818c81f7978e7",
+        "bytes": 59157,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7871.pdf",
+          "content-length": "59157",
+          "date": "Wed, 28 Oct 2026 09:05:51 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"59157-1560775748178\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:08 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1624-2005-aleto7870.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1624-2005-aleto7870.md",
+      "sha256_md": "807a62cc9efcf892494b67921f4efc5ee442bec8749be5136fb4febb78858b89",
+      "captura": {
+        "item": {
+          "id_ALETO": "7870",
+          "fonte": "https://www.al.to.leg.br/arquivo/7870",
+          "titulo_indice": "Lei nº 1624 de 2005 (ordinária)",
+          "numero": "1624",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-11-11",
+          "data_literal": "| Data: 11/11/2005",
+          "ementa": "Denomina Ginásio de Esporte José Aarão Porto, localizado na cidade de Itacajá.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=2",
+            "iniciado_em": "2026-10-27T23:13:59.312745-03:00",
+            "capturado_em": "2026-10-27T23:14:00.072918-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=2",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/1d5fe9d315a8a87414c8cc88f51ec20460628c359c340b4522d7ff1007b99d80.html.gz",
+            "sha256_fonte": "1d5fe9d315a8a87414c8cc88f51ec20460628c359c340b4522d7ff1007b99d80",
+            "sha256_cache": "e197d8900d321b4d8290cb38ed875b14c23aa7750a2a691fcbeedd1fe7bc071e",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:53 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 2,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 2
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7870",
+        "iniciado_em": "2026-10-28T06:08:59.363689-03:00",
+        "capturado_em": "2026-10-28T06:09:00.268254-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7870.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/ab5f237be0aee185f546dd3a6aff825f5607bac59655a3bf1888ca4ed8a859d7.bin.gz",
+        "sha256_fonte": "ab5f237be0aee185f546dd3a6aff825f5607bac59655a3bf1888ca4ed8a859d7",
+        "sha256_cache": "015a456feeea681a7a2101af85fb8e3fd7caa0eeb5d8d99ce0c2c9b7e0886a4b",
+        "bytes": 59012,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7870.pdf",
+          "content-length": "59012",
+          "date": "Wed, 28 Oct 2026 09:05:52 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"59012-1560775748166\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:08 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1621-2005-aleto7867.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1621-2005-aleto7867.md",
+      "sha256_md": "bef2af1e6e1ba2c75038cd4e9b5d7498f62d62ee7a4f60cbb6d15bda3eb897a9",
+      "captura": {
+        "item": {
+          "id_ALETO": "7867",
+          "fonte": "https://www.al.to.leg.br/arquivo/7867",
+          "titulo_indice": "Lei nº 1621 de 2005 (ordinária)",
+          "numero": "1621",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-11-10",
+          "data_literal": "| Data: 10/11/2005",
+          "ementa": "Cria o Programa Habitacional Servidor Valorizado e autoriza a alienação de lotes urbanos.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=2",
+            "iniciado_em": "2026-10-27T23:13:59.312745-03:00",
+            "capturado_em": "2026-10-27T23:14:00.072918-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=2",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/1d5fe9d315a8a87414c8cc88f51ec20460628c359c340b4522d7ff1007b99d80.html.gz",
+            "sha256_fonte": "1d5fe9d315a8a87414c8cc88f51ec20460628c359c340b4522d7ff1007b99d80",
+            "sha256_cache": "e197d8900d321b4d8290cb38ed875b14c23aa7750a2a691fcbeedd1fe7bc071e",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:53 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 2,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 2
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7867",
+        "iniciado_em": "2026-10-28T06:09:01.783864-03:00",
+        "capturado_em": "2026-10-28T06:09:02.658545-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7867.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/a7afaf251a7dba88a6537d0a6f1ddf06b790542f13184a032c9e73e666b2a5df.bin.gz",
+        "sha256_fonte": "a7afaf251a7dba88a6537d0a6f1ddf06b790542f13184a032c9e73e666b2a5df",
+        "sha256_cache": "f4ab688bdf33f22cebe5fa39c022d5cf2415dc9ecbe0b38432848465e0a58ffd",
+        "bytes": 65227,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7867.pdf",
+          "content-length": "65227",
+          "date": "Wed, 28 Oct 2026 09:05:55 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"65227-1560775748146\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:08 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1616-2005-aleto7862.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1616-2005-aleto7862.md",
+      "sha256_md": "dad9036e8e700de7735c19d2d368d655eb6803a90e2afb58fdfad1e9330fc2c8",
+      "captura": {
+        "item": {
+          "id_ALETO": "7862",
+          "fonte": "https://www.al.to.leg.br/arquivo/7862",
+          "titulo_indice": "Lei nº 1616 de 2005 (ordinária)",
+          "numero": "1616",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-10-13",
+          "data_literal": "| Data: 13/10/2005",
+          "ementa": "Dispõe sobre a transferência de recursos dos Programas Escola Comunitária de Gestão Compartilhada, Nacional de Alimentação e de Manutenção do Transporte Escolar, e adota outras providências.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=2",
+            "iniciado_em": "2026-10-27T23:13:59.312745-03:00",
+            "capturado_em": "2026-10-27T23:14:00.072918-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=2",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/1d5fe9d315a8a87414c8cc88f51ec20460628c359c340b4522d7ff1007b99d80.html.gz",
+            "sha256_fonte": "1d5fe9d315a8a87414c8cc88f51ec20460628c359c340b4522d7ff1007b99d80",
+            "sha256_cache": "e197d8900d321b4d8290cb38ed875b14c23aa7750a2a691fcbeedd1fe7bc071e",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:53 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 2,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 2
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7862",
+        "iniciado_em": "2026-10-28T06:09:07.833608-03:00",
+        "capturado_em": "2026-10-28T06:09:08.758096-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7862.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/6d22411c9a668c781d92c9c270cf68b4e5d2bd67a04684ecc89793bbc4ba42e9.bin.gz",
+        "sha256_fonte": "6d22411c9a668c781d92c9c270cf68b4e5d2bd67a04684ecc89793bbc4ba42e9",
+        "sha256_cache": "56b73555140b11867bd24c53babb5f505632cec803f8c7fba5d07cce48c29fbc",
+        "bytes": 72665,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7862.pdf",
+          "content-length": "72665",
+          "date": "Wed, 28 Oct 2026 09:06:01 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"72665-1560775748106\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:08 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 2,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          },
+          {
+            "pagina": 2,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1613-2005-aleto7859.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1613-2005-aleto7859.md",
+      "sha256_md": "55c0c1dfa15426cf31be030d6346102c1974c60c859d410ea5a42dc324a2f822",
+      "captura": {
+        "item": {
+          "id_ALETO": "7859",
+          "fonte": "https://www.al.to.leg.br/arquivo/7859",
+          "titulo_indice": "Lei nº 1613 de 2005 (ordinária)",
+          "numero": "1613",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-10-04",
+          "data_literal": "| Data: 04/10/2005",
+          "ementa": "Altera a Lei 1.141, de 8 de março de 2000, na parte que especifica.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=3",
+            "iniciado_em": "2026-10-27T23:14:00.522795-03:00",
+            "capturado_em": "2026-10-27T23:14:01.509084-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=3",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/130e81238021a52d2f59fc741dfa89de2bc8420e0a174904168993d977d9c30f.html.gz",
+            "sha256_fonte": "130e81238021a52d2f59fc741dfa89de2bc8420e0a174904168993d977d9c30f",
+            "sha256_cache": "25df4b628b0e9a29346856daa26013e75aa668f4a0de181f65ceb7095dfcb577",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:54 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 3,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 3
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7859",
+        "iniciado_em": "2026-10-28T06:09:12.678606-03:00",
+        "capturado_em": "2026-10-28T06:09:13.761396-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7859.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/6989f240ce6eaae76271a8fd84b1fd566495b6dbe7d7ccbe1ec4a43c9002cb56.bin.gz",
+        "sha256_fonte": "6989f240ce6eaae76271a8fd84b1fd566495b6dbe7d7ccbe1ec4a43c9002cb56",
+        "sha256_cache": "e7f1b4e2acb9be0a2bd3151c339bb23cbede5282201b788dae2e412c9d65d429",
+        "bytes": 77066,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7859.pdf",
+          "content-length": "77066",
+          "date": "Wed, 28 Oct 2026 09:06:06 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"77066-1560775748090\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:08 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1612-2005-aleto7858.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1612-2005-aleto7858.md",
+      "sha256_md": "0e96153ca27ac9b92aa71f0ca81728ad02298a889fadc814646742d0f18a8e07",
+      "captura": {
+        "item": {
+          "id_ALETO": "7858",
+          "fonte": "https://www.al.to.leg.br/arquivo/7858",
+          "titulo_indice": "Lei nº 1612 de 2005 (ordinária)",
+          "numero": "1612",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-09-29",
+          "data_literal": "| Data: 29/09/2005",
+          "ementa": "Dá denominação à rodovia que especifica.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=3",
+            "iniciado_em": "2026-10-27T23:14:00.522795-03:00",
+            "capturado_em": "2026-10-27T23:14:01.509084-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=3",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/130e81238021a52d2f59fc741dfa89de2bc8420e0a174904168993d977d9c30f.html.gz",
+            "sha256_fonte": "130e81238021a52d2f59fc741dfa89de2bc8420e0a174904168993d977d9c30f",
+            "sha256_cache": "25df4b628b0e9a29346856daa26013e75aa668f4a0de181f65ceb7095dfcb577",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:54 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 3,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 3
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7858",
+        "iniciado_em": "2026-10-28T06:09:13.888678-03:00",
+        "capturado_em": "2026-10-28T06:09:14.808130-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7858.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/261789ef560dcffb13deedc21a009d52f1ea5690166ad83234b0852f5cbad2e4.bin.gz",
+        "sha256_fonte": "261789ef560dcffb13deedc21a009d52f1ea5690166ad83234b0852f5cbad2e4",
+        "sha256_cache": "e633101250041686989cbc856444e1ee970ed9526df83a5b866dd62223cafb6f",
+        "bytes": 60942,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7858.pdf",
+          "content-length": "60942",
+          "date": "Wed, 28 Oct 2026 09:06:07 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"60942-1560775748086\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:08 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1611-2005-aleto7857.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1611-2005-aleto7857.md",
+      "sha256_md": "390f9607dfc80768c6227d2790d83b8bb9d0308a10197d10cee12713fccafc73",
+      "captura": {
+        "item": {
+          "id_ALETO": "7857",
+          "fonte": "https://www.al.to.leg.br/arquivo/7857",
+          "titulo_indice": "Lei nº 1611 de 2005 (ordinária)",
+          "numero": "1611",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-09-29",
+          "data_literal": "| Data: 29/09/2005",
+          "ementa": "Denomina de Rodovia José Eurico Costa, a TO - 020, no trecho da rodovia que liga a capital Palmas a cidade de Aparecida do Rio Negro.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=3",
+            "iniciado_em": "2026-10-27T23:14:00.522795-03:00",
+            "capturado_em": "2026-10-27T23:14:01.509084-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=3",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/130e81238021a52d2f59fc741dfa89de2bc8420e0a174904168993d977d9c30f.html.gz",
+            "sha256_fonte": "130e81238021a52d2f59fc741dfa89de2bc8420e0a174904168993d977d9c30f",
+            "sha256_cache": "25df4b628b0e9a29346856daa26013e75aa668f4a0de181f65ceb7095dfcb577",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:54 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 3,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 3
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7857",
+        "iniciado_em": "2026-10-28T06:09:15.092797-03:00",
+        "capturado_em": "2026-10-28T06:09:16.064055-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7857.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/c536bb213a0b8ac7b89b52513ac11eacbc1e011ee72439cfd1abb54133ab2ca5.bin.gz",
+        "sha256_fonte": "c536bb213a0b8ac7b89b52513ac11eacbc1e011ee72439cfd1abb54133ab2ca5",
+        "sha256_cache": "01fa5221df030525b193332dc2066f1d5ae1ec1f03d733a1c189743e8ab206e3",
+        "bytes": 60931,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7857.pdf",
+          "content-length": "60931",
+          "date": "Wed, 28 Oct 2026 09:06:08 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"60931-1560775748078\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:08 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1606-2005-aleto7852.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1606-2005-aleto7852.md",
+      "sha256_md": "7bc6b10caaf5b80d4b8dac76c130226542aa1321c11e34e4c62cafd961b94655",
+      "captura": {
+        "item": {
+          "id_ALETO": "7852",
+          "fonte": "https://www.al.to.leg.br/arquivo/7852",
+          "titulo_indice": "Lei nº 1606 de 2005 (ordinária)",
+          "numero": "1606",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-09-05",
+          "data_literal": "| Data: 05/09/2005",
+          "ementa": "Autoriza o Poder Executivo a doar à Comunidade Doce Mãe de Deus área de terreno urbano que especifica.(Regulamentada pelo Decreto nº 2.520, de 12/09/2005, publicado no D.O. nº 2.004.)",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=3",
+            "iniciado_em": "2026-10-27T23:14:00.522795-03:00",
+            "capturado_em": "2026-10-27T23:14:01.509084-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=3",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/130e81238021a52d2f59fc741dfa89de2bc8420e0a174904168993d977d9c30f.html.gz",
+            "sha256_fonte": "130e81238021a52d2f59fc741dfa89de2bc8420e0a174904168993d977d9c30f",
+            "sha256_cache": "25df4b628b0e9a29346856daa26013e75aa668f4a0de181f65ceb7095dfcb577",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:54 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 3,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 3
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7852",
+        "iniciado_em": "2026-10-28T06:09:19.932913-03:00",
+        "capturado_em": "2026-10-28T06:09:20.939219-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7852.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/a33dec80b75969abd71012f441c55b4e77c0ab606250d17213a2116bb70f3094.bin.gz",
+        "sha256_fonte": "a33dec80b75969abd71012f441c55b4e77c0ab606250d17213a2116bb70f3094",
+        "sha256_cache": "c8d76f617befcd1e2f731f9771b7db95a3fff7552413873442c55cd34dc2633d",
+        "bytes": 82836,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7852.pdf",
+          "content-length": "82836",
+          "date": "Wed, 28 Oct 2026 09:06:13 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"82836-1560775748038\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:08 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1597-2005-aleto7843.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1597-2005-aleto7843.md",
+      "sha256_md": "981aa8114353030b1314db514bbcf268e7da3676f174b4103246ff51ae017f0a",
+      "captura": {
+        "item": {
+          "id_ALETO": "7843",
+          "fonte": "https://www.al.to.leg.br/arquivo/7843",
+          "titulo_indice": "Lei nº 1597 de 2005 (ordinária)",
+          "numero": "1597",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-08-19",
+          "data_literal": "| Data: 19/08/2005",
+          "ementa": "Institui o dia da Reforma Protestante.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=3",
+            "iniciado_em": "2026-10-27T23:14:00.522795-03:00",
+            "capturado_em": "2026-10-27T23:14:01.509084-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=3",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/130e81238021a52d2f59fc741dfa89de2bc8420e0a174904168993d977d9c30f.html.gz",
+            "sha256_fonte": "130e81238021a52d2f59fc741dfa89de2bc8420e0a174904168993d977d9c30f",
+            "sha256_cache": "25df4b628b0e9a29346856daa26013e75aa668f4a0de181f65ceb7095dfcb577",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:54 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 3,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 3
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7843",
+        "iniciado_em": "2026-10-28T06:09:27.190037-03:00",
+        "capturado_em": "2026-10-28T06:09:28.030419-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7843.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/81a6a50d6f4022cfcc2681034125f759fa60058de874a98fdf1ed653a5c9ed47.bin.gz",
+        "sha256_fonte": "81a6a50d6f4022cfcc2681034125f759fa60058de874a98fdf1ed653a5c9ed47",
+        "sha256_cache": "afc5287cc47472eb38e4f8635aefe70e47e48ab05baa11d9409ef78f055b34d7",
+        "bytes": 68699,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7843.pdf",
+          "content-length": "68699",
+          "date": "Wed, 28 Oct 2026 09:06:20 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"68699-1560775747990\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:07 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              1008
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              1008
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1596-2005-aleto7842.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1596-2005-aleto7842.md",
+      "sha256_md": "8c16ae3bf41ff70efc7cd14afc5c08c83cd5c17ca1168b6cac693e70d5ee35a7",
+      "captura": {
+        "item": {
+          "id_ALETO": "7842",
+          "fonte": "https://www.al.to.leg.br/arquivo/7842",
+          "titulo_indice": "Lei nº 1596 de 2005 (ordinária)",
+          "numero": "1596",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-08-19",
+          "data_literal": "| Data: 19/08/2005",
+          "ementa": "Concede Título de Cidadão Tocantinense ao Senhor Joaquim Costa Júnior.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=3",
+            "iniciado_em": "2026-10-27T23:14:00.522795-03:00",
+            "capturado_em": "2026-10-27T23:14:01.509084-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=3",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/130e81238021a52d2f59fc741dfa89de2bc8420e0a174904168993d977d9c30f.html.gz",
+            "sha256_fonte": "130e81238021a52d2f59fc741dfa89de2bc8420e0a174904168993d977d9c30f",
+            "sha256_cache": "25df4b628b0e9a29346856daa26013e75aa668f4a0de181f65ceb7095dfcb577",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:54 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 3,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 3
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7842",
+        "iniciado_em": "2026-10-28T06:09:28.400135-03:00",
+        "capturado_em": "2026-10-28T06:09:29.192419-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7842.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/d0a12b8eb119f6fc6dbadc797e3e7ef4a4d1da3a71f8961e3a938a020c021503.bin.gz",
+        "sha256_fonte": "d0a12b8eb119f6fc6dbadc797e3e7ef4a4d1da3a71f8961e3a938a020c021503",
+        "sha256_cache": "404621d124eb4ed75df091183b16cf3681870e8329c6c61e8fd7cc72c3feebb1",
+        "bytes": 64920,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7842.pdf",
+          "content-length": "64920",
+          "date": "Wed, 28 Oct 2026 09:06:21 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"64920-1560775747970\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:07 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              1008
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              1008
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1595-2005-aleto7841.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1595-2005-aleto7841.md",
+      "sha256_md": "b068b7868d12b6c5fd136b969973d59d78bb74716cd6692e4467c71932727d2c",
+      "captura": {
+        "item": {
+          "id_ALETO": "7841",
+          "fonte": "https://www.al.to.leg.br/arquivo/7841",
+          "titulo_indice": "Lei nº 1595 de 2005 (ordinária)",
+          "numero": "1595",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-08-09",
+          "data_literal": "| Data: 09/08/2005",
+          "ementa": "Dá nome ao Hospital Geral de Palmas.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=3",
+            "iniciado_em": "2026-10-27T23:14:00.522795-03:00",
+            "capturado_em": "2026-10-27T23:14:01.509084-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=3",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/130e81238021a52d2f59fc741dfa89de2bc8420e0a174904168993d977d9c30f.html.gz",
+            "sha256_fonte": "130e81238021a52d2f59fc741dfa89de2bc8420e0a174904168993d977d9c30f",
+            "sha256_cache": "25df4b628b0e9a29346856daa26013e75aa668f4a0de181f65ceb7095dfcb577",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:54 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 3,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 3
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7841",
+        "iniciado_em": "2026-10-28T06:09:29.610200-03:00",
+        "capturado_em": "2026-10-28T06:09:30.498706-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7841.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/664cbbb71567dd34093b78b9151d35d1859bc16549f583bda98425eae9d07ac6.bin.gz",
+        "sha256_fonte": "664cbbb71567dd34093b78b9151d35d1859bc16549f583bda98425eae9d07ac6",
+        "sha256_cache": "871332cf4dc7341478ad4097664010dd5b57b067cb0d6b75a54e63f5ddb0dfe9",
+        "bytes": 60455,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7841.pdf",
+          "content-length": "60455",
+          "date": "Wed, 28 Oct 2026 09:06:23 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"60455-1560775747966\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:07 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1586-2005-aleto7832.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1586-2005-aleto7832.md",
+      "sha256_md": "eb1be41674eb431baf4c42b29d67467662f1cfb524137c76239e50d5fd5d0800",
+      "captura": {
+        "item": {
+          "id_ALETO": "7832",
+          "fonte": "https://www.al.to.leg.br/arquivo/7832",
+          "titulo_indice": "Lei nº 1586 de 2005 (ordinária)",
+          "numero": "1586",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-06-23",
+          "data_literal": "| Data: 23/06/2005",
+          "ementa": "Autoriza o Poder Executivo a doar à União dos Estudantes Indígenas no Tocantins  UNEIT área de terreno urbano que especifica.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=4",
+            "iniciado_em": "2026-10-27T23:14:01.725248-03:00",
+            "capturado_em": "2026-10-27T23:14:02.771378-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=4",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/1f05e53192e67bb40ca4a6240ea14228d88ec4db0ff508934f8a8183761d00d6.html.gz",
+            "sha256_fonte": "1f05e53192e67bb40ca4a6240ea14228d88ec4db0ff508934f8a8183761d00d6",
+            "sha256_cache": "18ac3bef5aa0cd6161a8dc651790c75c0c5b4eab2d80cfe661c1360ad1ec6166",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:55 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 4,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 4
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7832",
+        "iniciado_em": "2026-10-28T06:09:39.929205-03:00",
+        "capturado_em": "2026-10-28T06:09:40.820874-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7832.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/a18def836c889c9fd90c0d1c8f634f87a6f8ed5494b114ffa2848e945a1bf840.bin.gz",
+        "sha256_fonte": "a18def836c889c9fd90c0d1c8f634f87a6f8ed5494b114ffa2848e945a1bf840",
+        "sha256_cache": "e5124ccfc635769a26c735e94fd3747c0f4bfb04b251fb99a0bc8da34de928e2",
+        "bytes": 69722,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7832.pdf",
+          "content-length": "69722",
+          "date": "Wed, 28 Oct 2026 09:06:33 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"69722-1560775747902\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:07 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1581-2005-aleto7827.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1581-2005-aleto7827.md",
+      "sha256_md": "c66d0a2bd8bd87e0cef2be3ff6bc3a3ad9a5f12db02bd6c36cd57010bdb091f7",
+      "captura": {
+        "item": {
+          "id_ALETO": "7827",
+          "fonte": "https://www.al.to.leg.br/arquivo/7827",
+          "titulo_indice": "Lei nº 1581 de 2005 (ordinária)",
+          "numero": "1581",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-06-13",
+          "data_literal": "| Data: 13/06/2005",
+          "ementa": "Autoriza o Poder Executivo a doar área de terreno urbano à União, destinada à ampliação da sede da Procuradoria da República.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=4",
+            "iniciado_em": "2026-10-27T23:14:01.725248-03:00",
+            "capturado_em": "2026-10-27T23:14:02.771378-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=4",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/1f05e53192e67bb40ca4a6240ea14228d88ec4db0ff508934f8a8183761d00d6.html.gz",
+            "sha256_fonte": "1f05e53192e67bb40ca4a6240ea14228d88ec4db0ff508934f8a8183761d00d6",
+            "sha256_cache": "18ac3bef5aa0cd6161a8dc651790c75c0c5b4eab2d80cfe661c1360ad1ec6166",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:55 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 4,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 4
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7827",
+        "iniciado_em": "2026-10-28T06:09:45.966718-03:00",
+        "capturado_em": "2026-10-28T06:09:46.828019-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7827.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/c6e29708122c6a55b959576259cda11bc9abaa2ae4d4778078e27b8ee38fe0cd.bin.gz",
+        "sha256_fonte": "c6e29708122c6a55b959576259cda11bc9abaa2ae4d4778078e27b8ee38fe0cd",
+        "sha256_cache": "ea16f4dd91c2c0ea4ecf6699ba606d32e4dc3b69131b511bfa3893f96e18d43b",
+        "bytes": 74086,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7827.pdf",
+          "content-length": "74086",
+          "date": "Wed, 28 Oct 2026 09:06:39 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"74086-1560775747866\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:07 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1580-2005-aleto7826.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1580-2005-aleto7826.md",
+      "sha256_md": "2d4d0ffb1c77a492d19cf98eaef1ad05da7e3f8f80eb3e79409543d65dba88ef",
+      "captura": {
+        "item": {
+          "id_ALETO": "7826",
+          "fonte": "https://www.al.to.leg.br/arquivo/7826",
+          "titulo_indice": "Lei nº 1580 de 2005 (ordinária)",
+          "numero": "1580",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-05-27",
+          "data_literal": "| Data: 27/05/2005",
+          "ementa": "Concede Título de Cidadão Tocantinense ao Doutor Hélio Luiz de Cáceres Peres Miranda.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=4",
+            "iniciado_em": "2026-10-27T23:14:01.725248-03:00",
+            "capturado_em": "2026-10-27T23:14:02.771378-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=4",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/1f05e53192e67bb40ca4a6240ea14228d88ec4db0ff508934f8a8183761d00d6.html.gz",
+            "sha256_fonte": "1f05e53192e67bb40ca4a6240ea14228d88ec4db0ff508934f8a8183761d00d6",
+            "sha256_cache": "18ac3bef5aa0cd6161a8dc651790c75c0c5b4eab2d80cfe661c1360ad1ec6166",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:55 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 4,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 4
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7826",
+        "iniciado_em": "2026-10-28T06:09:47.176802-03:00",
+        "capturado_em": "2026-10-28T06:09:48.001422-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7826.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/69224b735abd2e3781a1c815f4d7ea46f2118f504c59474dec07b27874c86d2e.bin.gz",
+        "sha256_fonte": "69224b735abd2e3781a1c815f4d7ea46f2118f504c59474dec07b27874c86d2e",
+        "sha256_cache": "7cdb874a9577e5b0c7846acb75cadd5bc0d9d52d4b3b38cd8621d7cb4546a2da",
+        "bytes": 16314,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7826.pdf",
+          "content-length": "16314",
+          "date": "Wed, 28 Oct 2026 09:06:40 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"16314-1560775747862\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:07 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1579-2005-aleto7825.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1579-2005-aleto7825.md",
+      "sha256_md": "cd174eee10f61a6bd55c57fb741eed1849c032ff0483ba9c1fbe4bae668de885",
+      "captura": {
+        "item": {
+          "id_ALETO": "7825",
+          "fonte": "https://www.al.to.leg.br/arquivo/7825",
+          "titulo_indice": "Lei nº 1579 de 2005 (ordinária)",
+          "numero": "1579",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-05-27",
+          "data_literal": "| Data: 27/05/2005",
+          "ementa": "Declara de utilidade pública estadual o Instituto Juarez Moreira - IJM.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=4",
+            "iniciado_em": "2026-10-27T23:14:01.725248-03:00",
+            "capturado_em": "2026-10-27T23:14:02.771378-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=4",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/1f05e53192e67bb40ca4a6240ea14228d88ec4db0ff508934f8a8183761d00d6.html.gz",
+            "sha256_fonte": "1f05e53192e67bb40ca4a6240ea14228d88ec4db0ff508934f8a8183761d00d6",
+            "sha256_cache": "18ac3bef5aa0cd6161a8dc651790c75c0c5b4eab2d80cfe661c1360ad1ec6166",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:55 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 4,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 4
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7825",
+        "iniciado_em": "2026-10-28T06:09:48.386771-03:00",
+        "capturado_em": "2026-10-28T06:09:49.422146-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7825.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/e225d3b129d08dd0559a5836bb438f343fe4ba3c6fea6438d4ce778c510588cc.bin.gz",
+        "sha256_fonte": "e225d3b129d08dd0559a5836bb438f343fe4ba3c6fea6438d4ce778c510588cc",
+        "sha256_cache": "ee31c83e03f8cd1a46c970c65e0d545543ebd88d3810034b179c13da1623323b",
+        "bytes": 16891,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7825.pdf",
+          "content-length": "16891",
+          "date": "Wed, 28 Oct 2026 09:06:42 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"16891-1560775747850\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:07 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1577-2005-aleto7823.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1577-2005-aleto7823.md",
+      "sha256_md": "f0f3cf3a11966ddf7c8a6abd4295ef4f94960f54547abfeccbdb0ddb477cf3ce",
+      "captura": {
+        "item": {
+          "id_ALETO": "7823",
+          "fonte": "https://www.al.to.leg.br/arquivo/7823",
+          "titulo_indice": "Lei nº 1577 de 2005 (ordinária)",
+          "numero": "1577",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-05-12",
+          "data_literal": "| Data: 12/05/2005",
+          "ementa": "Altera a Lei 1.532, de 22 de dezembro de 2004, que instituiu o Programa Cheque-Moradia, e adota outras providências.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=4",
+            "iniciado_em": "2026-10-27T23:14:01.725248-03:00",
+            "capturado_em": "2026-10-27T23:14:02.771378-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=4",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/1f05e53192e67bb40ca4a6240ea14228d88ec4db0ff508934f8a8183761d00d6.html.gz",
+            "sha256_fonte": "1f05e53192e67bb40ca4a6240ea14228d88ec4db0ff508934f8a8183761d00d6",
+            "sha256_cache": "18ac3bef5aa0cd6161a8dc651790c75c0c5b4eab2d80cfe661c1360ad1ec6166",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:55 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 4,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 4
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7823",
+        "iniciado_em": "2026-10-28T06:09:50.801150-03:00",
+        "capturado_em": "2026-10-28T06:09:51.873785-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7823.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/a2d2e81bd3dedb89eebcc0545dd9b633e3dd1c4fc09df4498ad2038ac6f7a438.bin.gz",
+        "sha256_fonte": "a2d2e81bd3dedb89eebcc0545dd9b633e3dd1c4fc09df4498ad2038ac6f7a438",
+        "sha256_cache": "68a1a62757ac0a128414ef4745a8cb2d2c88399ced1653c6607ec94fec739c3a",
+        "bytes": 83409,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7823.pdf",
+          "content-length": "83409",
+          "date": "Wed, 28 Oct 2026 09:06:44 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"83409-1560775747838\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:07 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2005/l-1565-2005-aleto7811.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2005/l-1565-2005-aleto7811.md",
+      "sha256_md": "5e48db302bad04cdcfc4d203cda8ac5af814de7881b7a881930471ca5add914c",
+      "captura": {
+        "item": {
+          "id_ALETO": "7811",
+          "fonte": "https://www.al.to.leg.br/arquivo/7811",
+          "titulo_indice": "Lei nº 1565 de 2005 (ordinária)",
+          "numero": "1565",
+          "ano_titulo": "2005",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2005-04-21",
+          "data_literal": "| Data: 21/04/2005",
+          "ementa": "Institui o Sistema Integrado de Operações, e adota outras providências.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=5",
+            "iniciado_em": "2026-10-27T23:14:02.935285-03:00",
+            "capturado_em": "2026-10-27T23:14:03.886271-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2005&pagPaginaAtual=5",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/b3854060f0fd201c004eea12aa0a471033eb1708f44cfc954b05b56286e60db8.html.gz",
+            "sha256_fonte": "b3854060f0fd201c004eea12aa0a471033eb1708f44cfc954b05b56286e60db8",
+            "sha256_cache": "ff2ec89f5242ba31f0ae9f2e725410870e2cd29ac696fe4005cd5f1651fa533e",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:10:56 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2005,
+            "pagina": 5,
+            "total_registros_declarado": 106,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2005,
+          "pagina": 5
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7811",
+        "iniciado_em": "2026-10-28T06:10:02.901537-03:00",
+        "capturado_em": "2026-10-28T06:10:03.843807-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7811.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/9764c61a6aa3d183e2ffd0863a98e405a3595d01c8a34814f849c702c699630d.bin.gz",
+        "sha256_fonte": "9764c61a6aa3d183e2ffd0863a98e405a3595d01c8a34814f849c702c699630d",
+        "sha256_cache": "04104dff04fe044ff18142fb3e8a3d1d87c12e8de49e97cf449eef3423a56a3d",
+        "bytes": 68632,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7811.pdf",
+          "content-length": "68632",
+          "date": "Wed, 28 Oct 2026 09:06:56 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"68632-1560775747742\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:07 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 2,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          },
+          {
+            "pagina": 2,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2006/l-1719-2006-aleto7965.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2006/l-1719-2006-aleto7965.md",
+      "sha256_md": "da3d771a7306d869809d41f3f7f43a57036bea24b59e90afc7c8bd935863e59a",
+      "captura": {
+        "item": {
+          "id_ALETO": "7965",
+          "fonte": "https://www.al.to.leg.br/arquivo/7965",
+          "titulo_indice": "Lei nº 1719 de 2006 (ordinária)",
+          "numero": "1719",
+          "ano_titulo": "2006",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2006-07-13",
+          "data_literal": "| Data: 13/07/2006",
+          "ementa": "Revoga a Lei 1.354, de 19 de dezembro de 2002.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2006&pagPaginaAtual=2",
+            "iniciado_em": "2026-10-27T23:14:06.557194-03:00",
+            "capturado_em": "2026-10-27T23:14:07.783965-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2006&pagPaginaAtual=2",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/7e34bd46380420da05f16bd044825096f7670a64fb5267fe3b909755fb4e6223.html.gz",
+            "sha256_fonte": "7e34bd46380420da05f16bd044825096f7670a64fb5267fe3b909755fb4e6223",
+            "sha256_cache": "2bf2f66a21c9c0ed73b562eedb1d0542d308efb885327d8442a8c245b56ff03d",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:11:00 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2006,
+            "pagina": 2,
+            "total_registros_declarado": 108,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2006,
+          "pagina": 2
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7965",
+        "iniciado_em": "2026-10-28T06:11:04.946117-03:00",
+        "capturado_em": "2026-10-28T06:11:05.953227-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7965.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/cb72636604c64dc2983834c6f1229154b8d4cf534bbd02e765a0734e76c654bb.bin.gz",
+        "sha256_fonte": "cb72636604c64dc2983834c6f1229154b8d4cf534bbd02e765a0734e76c654bb",
+        "sha256_cache": "02fa3d6bcf39f18805981e7fe9861ae8bae0158326aa40f01c733c84068ea06d",
+        "bytes": 58804,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7965.pdf",
+          "content-length": "58804",
+          "date": "Wed, 28 Oct 2026 09:07:58 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"58804-1560775749562\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:09 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2006/l-1717-2006-aleto7963.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2006/l-1717-2006-aleto7963.md",
+      "sha256_md": "78ddd3323dc8dcc4c0136f9cc91dfebe3a5b2ccd9df3e48d0a6c2c15224e13fa",
+      "captura": {
+        "item": {
+          "id_ALETO": "7963",
+          "fonte": "https://www.al.to.leg.br/arquivo/7963",
+          "titulo_indice": "Lei nº 1717 de 2006 (ordinária)",
+          "numero": "1717",
+          "ano_titulo": "2006",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2006-07-13",
+          "data_literal": "| Data: 13/07/2006",
+          "ementa": "Altera a Lei 242, de 17 de janeiro de 1991, que institui medalhas na Polícia Militar do Estado do Tocantins.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2006&pagPaginaAtual=2",
+            "iniciado_em": "2026-10-27T23:14:06.557194-03:00",
+            "capturado_em": "2026-10-27T23:14:07.783965-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2006&pagPaginaAtual=2",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/7e34bd46380420da05f16bd044825096f7670a64fb5267fe3b909755fb4e6223.html.gz",
+            "sha256_fonte": "7e34bd46380420da05f16bd044825096f7670a64fb5267fe3b909755fb4e6223",
+            "sha256_cache": "2bf2f66a21c9c0ed73b562eedb1d0542d308efb885327d8442a8c245b56ff03d",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:11:00 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2006,
+            "pagina": 2,
+            "total_registros_declarado": 108,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2006,
+          "pagina": 2
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7963",
+        "iniciado_em": "2026-10-28T06:11:07.365508-03:00",
+        "capturado_em": "2026-10-28T06:11:08.426977-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7963.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/bd8cacd77e819b9d782086e0df720201be247ffae862e3ba9e0007e2ad802994.bin.gz",
+        "sha256_fonte": "bd8cacd77e819b9d782086e0df720201be247ffae862e3ba9e0007e2ad802994",
+        "sha256_cache": "ddace2c389d797db3b1b29e56a8ac70ca8f34cae74ad3e1a4fa57a1f9b1a9fb1",
+        "bytes": 98274,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7963.pdf",
+          "content-length": "98274",
+          "date": "Wed, 28 Oct 2026 09:08:00 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"98274-1560775749550\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:09 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 2,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          },
+          {
+            "pagina": 2,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2006/l-1714-2006-aleto7960.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2006/l-1714-2006-aleto7960.md",
+      "sha256_md": "b372c5add7e27bb12639a5ef417c90f5ff8d17380c1c7960b9fb2b1518b62bb5",
+      "captura": {
+        "item": {
+          "id_ALETO": "7960",
+          "fonte": "https://www.al.to.leg.br/arquivo/7960",
+          "titulo_indice": "Lei nº 1714 de 2006 (ordinária)",
+          "numero": "1714",
+          "ano_titulo": "2006",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2006-07-10",
+          "data_literal": "| Data: 10/07/2006",
+          "ementa": "Declara de utilidade pública estadual a Associação de Pais e Amigos dos Excepcionais - APAE de Araguaína.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2006&pagPaginaAtual=3",
+            "iniciado_em": "2026-10-27T23:14:07.831946-03:00",
+            "capturado_em": "2026-10-27T23:14:08.973489-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2006&pagPaginaAtual=3",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/28edf45af5bb59697857dc41a15ab77975fd1534ed30fcee3cedc34e5df7fd50.html.gz",
+            "sha256_fonte": "28edf45af5bb59697857dc41a15ab77975fd1534ed30fcee3cedc34e5df7fd50",
+            "sha256_cache": "21a9fede2e9ce46e52df906fad81ec07f799927409161706f8aeb27bdd0c5da9",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:11:02 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2006,
+            "pagina": 3,
+            "total_registros_declarado": 108,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2006,
+          "pagina": 3
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7960",
+        "iniciado_em": "2026-10-28T06:11:10.988386-03:00",
+        "capturado_em": "2026-10-28T06:11:12.248600-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7960.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/4e4cc841325980628a5b25415fceed6bb50d2fd36b25fedcb33db9ca71891cce.bin.gz",
+        "sha256_fonte": "4e4cc841325980628a5b25415fceed6bb50d2fd36b25fedcb33db9ca71891cce",
+        "sha256_cache": "c32b9eb450cd6a3c416d5aa67173cbd09d56c6c01e1fdf1902ca92b17e2ec5fe",
+        "bytes": 61231,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7960.pdf",
+          "content-length": "61231",
+          "date": "Wed, 28 Oct 2026 09:08:04 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"61231-1560775749526\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:09 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2006/l-1713-2006-aleto7959.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2006/l-1713-2006-aleto7959.md",
+      "sha256_md": "0625c2072aff2ada73db31a11c4aacbf55aa207de3d216ae9938c5913ddf1934",
+      "captura": {
+        "item": {
+          "id_ALETO": "7959",
+          "fonte": "https://www.al.to.leg.br/arquivo/7959",
+          "titulo_indice": "Lei nº 1713 de 2006 (ordinária)",
+          "numero": "1713",
+          "ano_titulo": "2006",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2006-07-10",
+          "data_literal": "| Data: 10/07/2006",
+          "ementa": "Declara de Utilidade Pública Estadual a Associação das Mulheres Rurais do Projeto de Assentamento Manchete.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2006&pagPaginaAtual=3",
+            "iniciado_em": "2026-10-27T23:14:07.831946-03:00",
+            "capturado_em": "2026-10-27T23:14:08.973489-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2006&pagPaginaAtual=3",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/28edf45af5bb59697857dc41a15ab77975fd1534ed30fcee3cedc34e5df7fd50.html.gz",
+            "sha256_fonte": "28edf45af5bb59697857dc41a15ab77975fd1534ed30fcee3cedc34e5df7fd50",
+            "sha256_cache": "21a9fede2e9ce46e52df906fad81ec07f799927409161706f8aeb27bdd0c5da9",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:11:02 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2006,
+            "pagina": 3,
+            "total_registros_declarado": 108,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2006,
+          "pagina": 3
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7959",
+        "iniciado_em": "2026-10-28T06:11:12.250825-03:00",
+        "capturado_em": "2026-10-28T06:11:13.240032-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7959.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/3f8636b37be0a047f7c4472a146cac8ec43e4c46c8a0ac4c8e75fea4758f4717.bin.gz",
+        "sha256_fonte": "3f8636b37be0a047f7c4472a146cac8ec43e4c46c8a0ac4c8e75fea4758f4717",
+        "sha256_cache": "b990825936514aa93030dbe47684ab32d53783efbc3c9ec6f4d9dcbe24ddcca3",
+        "bytes": 65169,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7959.pdf",
+          "content-length": "65169",
+          "date": "Wed, 28 Oct 2026 09:08:05 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"65169-1560775749518\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:09 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2006/l-1712-2006-aleto7958.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2006/l-1712-2006-aleto7958.md",
+      "sha256_md": "28079d6626defd57076184a52ed592c57a5936dc3ab02122d79b24dfa22d045b",
+      "captura": {
+        "item": {
+          "id_ALETO": "7958",
+          "fonte": "https://www.al.to.leg.br/arquivo/7958",
+          "titulo_indice": "Lei nº 1712 de 2006 (ordinária)",
+          "numero": "1712",
+          "ano_titulo": "2006",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2006-07-10",
+          "data_literal": "| Data: 10/07/2006",
+          "ementa": "Concede Título de Cidadã Tocantinense a Srª. Lily Monique de Carvalho Marinho  Lily Marinho.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2006&pagPaginaAtual=3",
+            "iniciado_em": "2026-10-27T23:14:07.831946-03:00",
+            "capturado_em": "2026-10-27T23:14:08.973489-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2006&pagPaginaAtual=3",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/28edf45af5bb59697857dc41a15ab77975fd1534ed30fcee3cedc34e5df7fd50.html.gz",
+            "sha256_fonte": "28edf45af5bb59697857dc41a15ab77975fd1534ed30fcee3cedc34e5df7fd50",
+            "sha256_cache": "21a9fede2e9ce46e52df906fad81ec07f799927409161706f8aeb27bdd0c5da9",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:11:02 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2006,
+            "pagina": 3,
+            "total_registros_declarado": 108,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2006,
+          "pagina": 3
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7958",
+        "iniciado_em": "2026-10-28T06:11:13.451124-03:00",
+        "capturado_em": "2026-10-28T06:11:14.390160-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7958.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/a7a090758a0ea0dc74eb5f98b102d532e57f48e74066c7cf65db4a7109f915bd.bin.gz",
+        "sha256_fonte": "a7a090758a0ea0dc74eb5f98b102d532e57f48e74066c7cf65db4a7109f915bd",
+        "sha256_cache": "1c37435a97da99c8b472581d016402e4dabcd5a27c64a7d783a4f79df1bdc679",
+        "bytes": 66305,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7958.pdf",
+          "content-length": "66305",
+          "date": "Wed, 28 Oct 2026 09:08:06 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"66305-1560775749506\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:09 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2006/l-1710-2006-aleto7956.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2006/l-1710-2006-aleto7956.md",
+      "sha256_md": "f03eff2bc57c8428707d66e748c8835a634cddde3ba43d076fc1bb854af58400",
+      "captura": {
+        "item": {
+          "id_ALETO": "7956",
+          "fonte": "https://www.al.to.leg.br/arquivo/7956",
+          "titulo_indice": "Lei nº 1710 de 2006 (ordinária)",
+          "numero": "1710",
+          "ano_titulo": "2006",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2006-07-06",
+          "data_literal": "| Data: 06/07/2006",
+          "ementa": "Autoriza o Poder Executivo a adquirir ações de empresa geradora de energia elétrica.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2006&pagPaginaAtual=3",
+            "iniciado_em": "2026-10-27T23:14:07.831946-03:00",
+            "capturado_em": "2026-10-27T23:14:08.973489-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2006&pagPaginaAtual=3",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/28edf45af5bb59697857dc41a15ab77975fd1534ed30fcee3cedc34e5df7fd50.html.gz",
+            "sha256_fonte": "28edf45af5bb59697857dc41a15ab77975fd1534ed30fcee3cedc34e5df7fd50",
+            "sha256_cache": "21a9fede2e9ce46e52df906fad81ec07f799927409161706f8aeb27bdd0c5da9",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:11:02 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2006,
+            "pagina": 3,
+            "total_registros_declarado": 108,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2006,
+          "pagina": 3
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7956",
+        "iniciado_em": "2026-10-28T06:11:15.871294-03:00",
+        "capturado_em": "2026-10-28T06:11:16.849009-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7956.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/59b2965a23dae1404c1c21fb1b0a17d0b7836b8eeaaf32c371335a1ce9730b7a.bin.gz",
+        "sha256_fonte": "59b2965a23dae1404c1c21fb1b0a17d0b7836b8eeaaf32c371335a1ce9730b7a",
+        "sha256_cache": "1326008c2df5ea19a4b34ef82de45910871009238f6f97f9b8637bcc6f3f4524",
+        "bytes": 75205,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7956.pdf",
+          "content-length": "75205",
+          "date": "Wed, 28 Oct 2026 09:08:09 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"75205-1560775749486\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:09 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2006/l-1705-2006-aleto7951.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2006/l-1705-2006-aleto7951.md",
+      "sha256_md": "c2db21724f6c1934ca94161edd87870c7f5c1c247a1b2bdb995b1dea9e8ca7c8",
+      "captura": {
+        "item": {
+          "id_ALETO": "7951",
+          "fonte": "https://www.al.to.leg.br/arquivo/7951",
+          "titulo_indice": "Lei nº 1705 de 2006 (ordinária)",
+          "numero": "1705",
+          "ano_titulo": "2006",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2006-06-29",
+          "data_literal": "| Data: 29/06/2006",
+          "ementa": "Declara de Utilidade Pública Estadual a Fundação Educacional Cidadão do Futuro  FUNECF, com sede em Gurupi-TO.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2006&pagPaginaAtual=3",
+            "iniciado_em": "2026-10-27T23:14:07.831946-03:00",
+            "capturado_em": "2026-10-27T23:14:08.973489-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2006&pagPaginaAtual=3",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/28edf45af5bb59697857dc41a15ab77975fd1534ed30fcee3cedc34e5df7fd50.html.gz",
+            "sha256_fonte": "28edf45af5bb59697857dc41a15ab77975fd1534ed30fcee3cedc34e5df7fd50",
+            "sha256_cache": "21a9fede2e9ce46e52df906fad81ec07f799927409161706f8aeb27bdd0c5da9",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:11:02 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2006,
+            "pagina": 3,
+            "total_registros_declarado": 108,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2006,
+          "pagina": 3
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7951",
+        "iniciado_em": "2026-10-28T06:11:20.710026-03:00",
+        "capturado_em": "2026-10-28T06:11:21.510399-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7951.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/3528c05269ea3700dac50c4e9bca44edbd842feb448a89aacf166a4af1949716.bin.gz",
+        "sha256_fonte": "3528c05269ea3700dac50c4e9bca44edbd842feb448a89aacf166a4af1949716",
+        "sha256_cache": "91138286af701441c5dbdccbf2e2f6be09dc856ea9455a9b66cb3ba3ebe32f36",
+        "bytes": 61640,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7951.pdf",
+          "content-length": "61640",
+          "date": "Wed, 28 Oct 2026 09:08:14 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"61640-1560775749450\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:09 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    },
+    {
+      "path": "estaduais/TO/leis-ordinarias/2006/l-1704-2006-aleto7950.md",
+      "privado": "estaduais/TO/_fonte/auditorias/to45-privado-20261028-001/candidatos/estaduais/TO/leis-ordinarias/2006/l-1704-2006-aleto7950.md",
+      "sha256_md": "b40f91ef61fc29a5f896d285b6dda31f0356eb5cf6882f96563b351186e98228",
+      "captura": {
+        "item": {
+          "id_ALETO": "7950",
+          "fonte": "https://www.al.to.leg.br/arquivo/7950",
+          "titulo_indice": "Lei nº 1704 de 2006 (ordinária)",
+          "numero": "1704",
+          "ano_titulo": "2006",
+          "tipo": "Lei Ordinária",
+          "pasta": "leis-ordinarias",
+          "data_cartao": "2006-06-29",
+          "data_literal": "| Data: 29/06/2006",
+          "ementa": "Altera a Lei 1.587, de 24 de junho de 2005, que dispõe sobre a contratação de pessoal temporário no âmbito da Escola Técnica de Saúde do Tocantins.",
+          "divergencia_ano_cartao_titulo": false,
+          "indicacao_editorial_compilacao": false,
+          "indice": {
+            "url": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2006&pagPaginaAtual=3",
+            "iniciado_em": "2026-10-27T23:14:07.831946-03:00",
+            "capturado_em": "2026-10-27T23:14:08.973489-03:00",
+            "retorno_curl": 0,
+            "http": 200,
+            "url_final": "https://www.al.to.leg.br/legislacaoEstadual?documento.ano=2006&pagPaginaAtual=3",
+            "cache": "estaduais/TO/_fonte/auditorias/portal-indices-20261027-003/28edf45af5bb59697857dc41a15ab77975fd1534ed30fcee3cedc34e5df7fd50.html.gz",
+            "sha256_fonte": "28edf45af5bb59697857dc41a15ab77975fd1534ed30fcee3cedc34e5df7fd50",
+            "sha256_cache": "21a9fede2e9ce46e52df906fad81ec07f799927409161706f8aeb27bdd0c5da9",
+            "headers": {
+              "cache-control": "private",
+              "content-type": "text/html;charset=UTF-8",
+              "date": "Wed, 28 Oct 2026 02:11:02 GMT"
+            },
+            "headers_sessao_omitidos": true,
+            "ano_filtro": 2006,
+            "pagina": 3,
+            "total_registros_declarado": 108,
+            "paginas_esperadas": 6
+          },
+          "ano_filtro": 2006,
+          "pagina": 3
+        },
+        "url": "https://www.al.to.leg.br/arquivo/7950",
+        "iniciado_em": "2026-10-28T06:11:21.919999-03:00",
+        "capturado_em": "2026-10-28T06:11:22.859624-03:00",
+        "retorno_curl": 0,
+        "http": 200,
+        "url_final": "https://www.al.to.leg.br/arquivos/7950.pdf",
+        "cache": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/fontes/0f9d940ab2f790aca8342fff020baef30056f612fbe3e3cd9d63212a260af49e.bin.gz",
+        "sha256_fonte": "0f9d940ab2f790aca8342fff020baef30056f612fbe3e3cd9d63212a260af49e",
+        "sha256_cache": "2217e7cd4fbb3d5355560c518fb77320b0b335111e2f73bb413ae4269afc7a6a",
+        "bytes": 77169,
+        "PDF": true,
+        "headers": {
+          "cache-control": "private",
+          "location": "https://www.al.to.leg.br/arquivos/7950.pdf",
+          "content-length": "77169",
+          "date": "Wed, 28 Oct 2026 09:08:15 GMT",
+          "accept-ranges": "bytes",
+          "etag": "W/\"77169-1560775749438\"",
+          "last-modified": "Mon, 17 Jun 2019 12:49:09 GMT",
+          "content-type": "application/pdf"
+        },
+        "headers_sessao_omitidos": true
+      },
+      "visibilidade": {
+        "total_paginas": 1,
+        "sem_camadas_opcionais": true,
+        "sem_recorte": true,
+        "sem_texto_alternativo": true,
+        "paginas": [
+          {
+            "pagina": 1,
+            "CropBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "MediaBox": [
+              0,
+              0,
+              612,
+              792
+            ],
+            "marcacoes": []
+          }
+        ]
+      }
+    }
+  ],
+  "codigo": {
+    "scripts/estados/snapshots/to_visibilidade_20261028_001/test_visibilidade_pdf_to.py": "96bf471b0652e674e409046c43b3e8168f6b269863d9d9ab99341a06c8decbc6",
+    "scripts/estados/snapshots/to_visibilidade_20261028_001/visibilidade_pdf_to.py": "87a36b4d0c9e40a713c41c9fada9efd5ffad2077295abc22073f9452e23c78d0",
+    "scripts/estados/snapshots/to_visibilidade_20261028_001/reexecutar_overlay_visibilidade.py": "c6f00cbca100e6e596f47e229cf9ad3909b60e1536a1f02c8115e30ed41670ad"
+  },
+  "alterados": 0,
+  "sem_Git_escrita": true,
+  "limite": "Gate complementar: nenhum OCProperties/Properties nomeadas, recorte distinto, texto alternativo ActualText/Alt ou substituição de cores padrão. Marcadores encontrados só /P com MCID. Não substitui gates anteriores nem certifica equivalência ao DOE."
+}

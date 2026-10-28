@@ -1,0 +1,167 @@
+---
+titulo: "Lei nº 400, de 04 de dezembro de 1967"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "400"
+data: "1967-12-04"
+municipio: "Bicas"
+uf: "MG"
+codigo_ibge: "3106903"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bicas.mg.leg.br/norma/1886"
+fonte_texto: "https://sapl.bicas.mg.leg.br/ta/490/text"
+sha256_fonte: "eeaf06ccf8650a2c9982b42f60ebcc7f4556f03bbe8c86562e2dfe76d09d5229"
+sha256_texto: "bc93a7e590662d2a68b298902dd46398618266e1feec5be14e97dcd15f4accb8"
+capturado_em_fonte: "2026-10-27T17:26:10.796937-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 400, de 04 de dezembro de 1967
+
+Dispõe sobre a classificação dos cargos e funções da administração e dá outras providências.
+
+
+A Câmara Municipal de Bicas decreta e eu, Prefeito Municipal, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Os cargos e funções da Administração Municipal são estabelecidos e sistematizados na forma desta lei.
+
+
+Art. 2º.
+
+Os cargos públicos municipais,salvo os de confiança, serão preenchidos por concurso de provas e, subsidiariamente, de títulos.
+
+
+Art. 3º.
+
+Os cargos são de provimentos efetivos ou de provimento em comissão.
+
+
+Art. 4º.
+
+Cada cargo ou função terá um vencimento ou salário estabelecido tendo em vista os deveres e responsabilidades que envolva.
+
+
+Art. 5º.
+
+Para execução dos serviços municipais fica fixado o seguinte Quadro Administrativo obedecido o sistema de classificação de Padrão, no que diz respeito a seu pessoal:
+
+<table><tbody><tr><td><p><strong>I-Cargos em Comissão</strong></p></td><td><p> </p></td></tr><tr><td><p>3.1.1.1-02</p></td><td><p> </p></td></tr><tr><td><p><strong>Cargo</strong></p></td><td><p><strong>Padrão</strong></p></td></tr><tr><td><p>1 Chefe de gabinete</p></td><td><p>K</p></td></tr><tr><td><p><strong>II- Cargo de Provimento Efetivo</strong></p></td><td><p> </p></td></tr><tr><td><p>3.1.1.1-02</p></td><td><p> </p></td></tr><tr><td><p>1Procurador </p></td><td><p>I</p></td></tr><tr><td><p>1 Almoxarife</p></td><td><p>F</p></td></tr><tr><td><p>1 Auxiliar a NCr$ 600,00 anual</p></td><td><p>B</p></td></tr><tr><td><p>1 Auxiliar a NCr$1.080,00</p></td><td><p>G</p></td></tr><tr><td><p>1 Porteiro-Contínuo</p></td><td><p>E</p></td></tr><tr><td><p>3.1.1.1-11</p></td><td><p> </p></td></tr><tr><td><p>1 Coletor</p></td><td><p>L</p></td></tr><tr><td><p>1 Escriturário</p></td><td><p>G</p></td></tr><tr><td><p>3.1.1.1-12</p></td><td><p> </p></td></tr><tr><td><p>1 Fiscal de rendas</p></td><td><p>J</p></td></tr><tr><td><p>1- Fiscal da cidade</p></td><td><p>F</p></td></tr><tr><td><p>1- Guarda fiscal de Santa Helena</p></td><td><p>B</p></td></tr><tr><td><p>3.1.1.1-16</p></td><td><p> </p></td></tr><tr><td><p>1 Técnico de administração</p></td><td><p>N</p></td></tr><tr><td><p>1 Auxiliar</p></td><td><p>G</p></td></tr><tr><td><p>3.1.1.1-42</p></td><td><p> </p></td></tr><tr><td><p>1 Motorista</p></td><td><p>H</p></td></tr><tr><td><p>2 Motoristas</p></td><td><p>G</p></td></tr><tr><td><p>3.1.1.1-61</p></td><td><p> </p></td></tr><tr><td><p>1 Professora</p></td><td><p>D</p></td></tr><tr><td><p>3 Auxiliares</p></td><td><p>C</p></td></tr><tr><td><p>3.1.1.1-67</p></td><td><p> </p></td></tr><tr><td><p>1 Bibliotecário</p></td><td><p>F</p></td></tr><tr><td><p>1 Auxiliar</p></td><td><p>D</p></td></tr><tr><td><p>3.1.1.1-92</p></td><td><p> </p></td></tr><tr><td><p>2 Bombeiros</p></td><td><p>H</p></td></tr><tr><td><p>4 Operadores das Casas das Máquinas</p></td><td><p>G</p></td></tr></tbody></table>
+
+
+Art. 6º.
+
+O pessoal aposentado e pensionista desta Prefeitura fica assim classificado para efeito de percepção de proventos ou pensão:
+
+<table><tbody><tr><td><p>3.2.3.0-82</p></td><td><p> </p></td></tr><tr><td><p><strong>Inativos</strong></p></td><td><p><strong>Padrão</strong></p></td></tr><tr><td><p>1 Aposentado</p></td><td><p>J</p></td></tr><tr><td><p><strong>Pensionistas</strong></p></td><td><p> </p></td></tr><tr><td><p>6 Pensionistas</p></td><td><p>A</p></td></tr></tbody></table>
+
+
+Art. 7º.
+
+No Quadro de Administração desta Prefeitura ficam criadas as funções gratificadas abaixo que se destinam à chefia e sub-chefia dos serviços municipais:
+
+<table><tbody><tr><td><p><strong>Funções gratificadas</strong></p></td><td><p><strong>Valor mensal</strong></p></td></tr><tr><td><p>3.1.1.1-11</p></td><td><p>NCr$</p></td></tr><tr><td><p>1 Chefe do serviço de fazenda</p></td><td><p>50,00</p></td></tr><tr><td><p>3.1.1.1-11</p></td><td><p> </p></td></tr><tr><td><p>1 Chefe do serviço de fiscalização</p></td><td><p>50,00</p></td></tr><tr><td><p>3.1.1.1-16</p></td><td><p> </p></td></tr><tr><td><p>1 Chefe do serviço de contabilidade</p></td><td><p>50,00</p></td></tr><tr><td><p>3.1.1.1-42</p></td><td><p> </p></td></tr><tr><td><p>1 Chefe do serviço Municipal de Estradas e Rodagens</p></td><td><p>25,00</p></td></tr><tr><td><p>3.1.1.1-90</p></td><td><p> </p></td></tr><tr><td><p>1 Chefe dos serviços urbanos</p></td><td><p>25,00</p></td></tr><tr><td><p>3.1.1.1-91</p></td><td><p> </p></td></tr><tr><td><p>1 Encarregado do serviço de água e esgoto.</p></td><td><p>20,00</p></td></tr></tbody></table>
+
+
+Art. 8º.
+
+Os padrões terão o seguinte valor:
+
+<table><tbody><tr><td><p> </p></td><td><p><strong>NCr$</strong></p></td></tr><tr><td><p>A</p></td><td><p>45,00</p></td></tr><tr><td><p>B</p></td><td><p>50,00</p></td></tr><tr><td><p>C</p></td><td><p>65,00</p></td></tr><tr><td><p>D</p></td><td><p>70,00</p></td></tr><tr><td><p>E</p></td><td><p>75,00</p></td></tr><tr><td><p>F</p></td><td><p>80,00</p></td></tr><tr><td><p>G</p></td><td><p>90,00</p></td></tr><tr><td><p>H</p></td><td><p>100,00</p></td></tr><tr><td><p>I</p></td><td><p>112,00</p></td></tr><tr><td><p>J</p></td><td><p>125,00</p></td></tr><tr><td><p>K</p></td><td><p>150,00</p></td></tr><tr><td><p>L</p></td><td><p>170,00</p></td></tr><tr><td><p>M</p></td><td><p>180,00</p></td></tr><tr><td><p>N</p></td><td><p>200,00</p></td></tr></tbody></table>
+
+
+Art. 9º.
+
+O Poder Executivo toda vez que for necessário promoverá a reclassificação de seu pessoal e havendo recursos financeiros disponíveis, solicitará ao legislativo a autorização respectiva para a abertura do Crédito das despesas em referências.
+
+
+Art. 10.
+
+O enquadramento dos atuais servidores nos cargos e funções aqui instituídos far-se-á tendo em vista a capacidade profissional de cada um e os requisitos exigidos para o desempenho das funções, mediante ato do Prefeito Municipal.
+
+
+Art. 11.
+
+ambém, para as funções de chefia e sub-chefiados dos serviços municipais, caberá ao Prefeito Municipal o ato de designação, dentro das normas do art.10.
+
+
+Art. 12.
+
+Nenhum servidor adquira a condição de efetividade só por força do enquadramento estabelecido nesta lei.
+
+
+Art. 13.
+
+É permitida a título precatório e por prazo certo a admissão de pessoal transitório, que se destinará exclusivamente, à execução de obras.
+
+
+Art. 14.
+
+O artífice será admitido para o trabalho certo e determinado correspondente à especialidade ou função definida que o ato de admissão ou classificação especificará.
+
+
+Art. 15.
+
+É concedido o Abono Familiar aos servidores do quadro na base de NCr$1.50 (um cruzeiro novo e cinquenta centavos) por dependente.
+
+
+Parágrafo único
+
+Ao abono a que se refere o artigo anterior terão direito a esposa, filho,18 anos e filha até 21 anos de idade com exceção dos filhos ou filhas incapazes cujo benefício terá a duração enquanto durar a incapacidade.
+
+
+Art. 16.
+
+O cargo de procurador ao vagar-se tornar-se-á automaticamente em cargo em comissão.
+
+
+Art. 17.
+
+Fica extinta a classificação por nível universitário.
+
+
+Art. 18.
+
+Ficam extintas quaisquer gratificações que foram concedidas a funcionários encarregados de recebimentos de impostos e taxas por leis anteriores.
+
+
+Parágrafo único
+
+As importâncias referentes a gratificações citadas nos artigos 17 e 18 deverá ser incorporadas aos vencimentos dos funcionários beneficiados por lei anterior.
+
+
+Art. 19.
+
+É concedida férias por 30 (trinta) dias ao pessoal da Prefeitura.
+
+
+Art. 20.
+
+De cada 10 (dez) anos de efetivo exercício o servidor municipal terá direito a 20% (vinte por cento) sobre os vencimentos ou salários.
+
+
+Art. 21.
+
+Ao servidor que contar 10 (dez) anos de efetivo exercício ou em cada período de 10 (dez) anos assegurar-se-á o direito de gozar 6 (seis) meses de férias prêmio.
+
+
+Art. 22.
+
+A nova situação dos cargos de provimento em comissão das funções gratificadas e a criação de novos cargos e funções constantes desta lei, entrarão em vigor simultaneamente com a lei que disporá sore a nova organização administrativa da Prefeitura.
+
+
+Art. 23.
+
+Revogadas as disposições em contrário, entrará esta lei em vigor a partir de 1º de janeiro de 1968.
+
+
+Bicas, 4 de dezembro de 1967.  
+  
+Gilson Lamha  
+Prefeito Municipal
+

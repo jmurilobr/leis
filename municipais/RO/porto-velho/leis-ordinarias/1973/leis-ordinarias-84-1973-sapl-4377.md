@@ -1,0 +1,208 @@
+---
+titulo: "Lei nº 84, de 29 de dezembro de 1973"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "84"
+data: "1973-12-29"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/4377"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/1077/text"
+sha256_fonte: "8179a02ae36ca218b8055843f0b39bbf1eb0fb1b2c3d8b8b4cbc898f4b3508e6"
+sha256_texto: "e14a741e3705ba65c62a1821a52fe9dcd925d401ce09cfb1a59bea9207c7c2a9"
+capturado_em_fonte: "2026-10-27T22:44:54.664443-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 84, de 29 de dezembro de 1973
+
+Institui a Taxa de Pavimentação de Vias e Logradouros Públicos e dá outras providências
+
+
+O DOUTOR JACOB FREITAS ATALLAH, Prefeito Municipal de Porto Velho,  
+  
+FAÇO SABER que a Câmara Municipal de Porto Velho, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+O sistema tributário do Município de Porto Velho fica acrescido da Taxa de Pavimentação de Vias e Logradouros Públicos.
+
+
+Art. 2º.
+
+A Taxa de Pavimentação de Vias e Logradouros Publico tem como fato gerador a prestação de serviços públicos específicos e divisíveis de pavimentação, calçamento e serviços correlatos, nas vias e logradouros públicos do Município .
+
+
+Parágrafo único
+
+Para efeito de lançamento da taxa a que se refere este artigo, entende-se como serviços de pavimentação, calçamento e serviços correlatos:
+
+
+I –
+
+estudos preliminares, levantamentos iniciais coleta, tabulação, processamento e análise de dados relativos aos aspectos físicos, institucionais, econômicos e sociais do sistema viário do Município;
+
+
+II –
+
+levantamento cartográfico, mapeamento, zoneamento, estudo, composição e duplicação de cartas, painéis, mosaicos e quaisquer outras atividades ou serviços cartográficos necessários aos trabalhos de pavimentação e calçamento das vias e logradouros públicos.
+
+
+III –
+
+estudos, projetos e demais instrumentos necessários ao planejamento e à planificação da pavimentação ou calçamento das vias e logradouros públicos;
+
+
+IV –
+
+aberturas, demarcações, alinhamentos, nivelamento e demais serviços topográficos necessários à pavimentação ou calçamento;
+
+
+V –
+
+limpeza, atêrro, compactação, aberturas de valas, escavações, retificações, construção de galerias pluviais , colocação de meio fio e guias de sargeta e demais obras e serviços necessários para a pavimentação ou calçamento;
+
+
+VI –
+
+colocação de piçarra, macadame, " pé-de-moleque" pedra ciclópica , asfalto, cimento, concreto ou qualquer outro tipo de material utilizável ou revestimento de pista de rolamento;
+
+
+VII –
+
+demais estudos, experimentos, aquisições, serviços e atividades diretamente relacionados com a pavimentação ou calçamento de vias e logradouros públicos.
+
+
+Art. 3º.
+
+A Taxa de Pavimentação de Vias e logradouros Públicos grava o bem imóvel, edificado ou não, em construção, em ruínas ou demolição, localizado nas vias ou logradouros públicos nas quais tenham sido feitas obras de pavimentação, calçamento e serviços correlatos, independentemente de achar-se situado na zona urbana, de expansão urbana ou rural do Município, e á devida pelo proprietário, titular do domínio útil ou possuidor a qualquer título do imóvel.
+
+
+Parágrafo único
+
+Respondem solidàriamente pelo pagamento da taxa a que se refere êste artigo o promitente comprador, o cessionário da promessa, o promitente cessionário, o titular do direito de usufruto, uso ou habitação e o possuidor a qualquer título do imóvel, ainda que pertencente a qualquer pessoa imune ou isento de tributos municipais.
+
+
+Art. 4º.
+
+A Taxa de Pavimentação de Vias e Logradouros Públicos será cobrada anualmente, de uma só vez ou em parcelas mediante o rateio de uma percentagem não superior a 50% (cinquenta por cento) do custo dos serviços relacionados no parágrafo único do art . 2°, desta Lei, proporcionalmente à testada dos terrenos fronteiriços à via ou logradouro público nos quais tenham sido prestados êstes serviços.
+
+
+§ 1º
+
+A percentagem de que trata êste artigo, obedecido o limite nêle fixado, será estabelecida, para cada obra ou plano de obras, pelo Prefeito Municipal, tendo em vista exposição de motivos e sugestões do Diretor do Departamento de Obras, levando em consideração os seguintes elementos, isoladamente ou em conjunto;
+
+
+I –
+
+condições sócio-econômicas dos beneficiários , efetivos ou potenciais dos serviços, refletidos na natureza, destinação , tipo , estado da construção e outras características dos imóveis gravados pela taxa ;
+
+
+II –
+
+a importância da via pública como eixo viário do núcleo urbano refletida em sua localização , largura da pista , intensidade de tráfego , acesso , destino e demais características peculiares da rede ou ramal;
+
+
+III –
+
+o montante de recursos orçamentários de outras origens que tenham sido ou possam vir a ser destinados aos serviços relacionados no parágrafo único do art . 2°.
+
+
+§ 2º
+
+o regulamento disporá sôbre o lançamento, a cobrança e a fiscalização da taxa a que se refere êste artigo .
+
+
+Art. 5º.
+
+o não pagamento da taxa de que trata este Regulamento nos prazos consignados para pagamento sujeitará o infrator às seguintes penalidades:
+
+
+I –
+
+multa de:
+
+
+a)
+
+\- 5% (cinco por cento ), se o pagamento se verificar nos primeiro 30 (TRINTA) dias após o vencimento;
+
+
+b)
+
+10% (dez por cento ), se o pagamento se verificar após o 30° (trigésimo ) dia até o 60° (sexagésimo) dia após o vencimento;
+
+
+c)
+
+20% (vinte por cento ), se o pagamento se verificar após o 60° (sexagésimo) dia até o 90° (nonagésimo) dia após o vencimento.
+
+
+II –
+
+juros de mórá de 1% (um por cento) ao mês ou fração contados da data do vencimento.
+
+
+§ 1º
+
+Apos o 90° (nonagésimo) dia do vencimento, os débitos não saldados serão inscritos na dívida ativa tributaria do Muncípio, para cobrança executiva.
+
+
+§ 2º
+
+A fluência de juros de móra não prejudica a liquidez do crédito .
+
+
+§ 3º
+
+Aplicam-se aos débitos referentes à taxas de que trata este Regualamento as normas de correção monetária de débitos fiscais , estabelecidas na L ei Federal n° 4.357, de 16 de julho de 1964
+
+
+Art. 6º.
+
+A cobrança da taxa a que se refere o art . 1° exclui o lançamento da Contribuição de Melhoria.
+
+
+Art. 7º.
+
+a imunidade constitucional, restringindo-se aos impostos, não alcança a Taxa de Pavimentação de Vias e Logradouros Públicos que, tendo sido instituida por lei , também não está compreendida nem abrangida por quaisquer disposições legais anteriores que concedam ou tenham concedido isenção geral de tributos municipais.
+
+
+Art. 8º.
+
+Esta lei entra em vigor no dia 1° de janeiro do próximo exercício, revogadas as disposições em contrário.
+
+
+\- Dr. Jacob Freitas Atallah -
+
+PREFEITO MUNICIPAL
+
+\- José Maria Aguiar -
+
+DIRETOR DO DEPARTAMENTO DE FINANÇAS
+
+\- Walter Paula de Sales -
+
+DIRETOR DO DEPARTAMENTO DE PLANEJAMENTO
+
+\- Claúdio Bastião Feitosa -  
+DIRETOR DO DEPARTAMENTO DE ADMINISTRAÇÃO
+
+\- Dr. Sebastião Assaf Valladares -
+
+DIRETOR DE DEPARTAMENTO DE OBRAS
+
+\- Francisco Araújo da Silva -
+
+DIRETOR DOS SERVIÇOS URBANOS
+
+\- Nina Rosa Champeaux de La Boulaye -
+
+DIRETOR DO SERVIÇO DE EDUCAÇÃO E CULTURA
+

@@ -1,0 +1,209 @@
+---
+titulo: "Lei nº 1.677, de 12 de junho de 2007"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1677"
+data: "2007-06-12"
+municipio: "Agudo"
+uf: "RS"
+codigo_ibge: "4300109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.agudo.rs.leg.br/norma/2180"
+fonte_texto: "https://sapl.agudo.rs.leg.br/ta/629/text"
+sha256_fonte: "d13a9eeec2512b44b1d7e20657bc60d3ac1da521ed92c687f7e600fc9dbfdd90"
+sha256_texto: "16b8058aea80365d641a684603800c53a0f7c91b984ccb9446c492da5fc270ba"
+capturado_em_fonte: "2026-10-27T20:39:22.725210-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.677, de 12 de junho de 2007
+
+ESTABELECE A POLÍTICA MUNICIPAL DE ASSISTÊNCIA SOCIAL, AS RESPECTIVAS AÇÕES, CRITÉRIOS DE ATENDIMENTO AOS MUNÍCIPES NECESSITADOS E REVOGA A LEI MUNICIPAL Nº 907/93.
+
+
+O PREFEITO DO MUNICÍPIO DE AGUDO, faço saber, que a Câmara Municipal aprovou e eu sanciono e promulgo, com base no Art. 76 da Lei Orgânica Municipal, a seguinte Lei:
+
+
+Art. 1º.
+
+O município de Agudo, na medida de suas possibilidades financeiras e dotações orçamentárias, prestará Assistência Social aos usuários, residentes em seu território em conformidade com o previsto nos Art. 23, inciso II, art. 203 e 204, incisos I e II da Constituição Federal e com a Norma Operacional Básica, Lei Orgânica da Assistência Social e a Política Nacional de Assistência Social.
+
+
+Art. 2º.
+
+A Política Municipal de Assistência Social será desenvolvida com a participação da comunidade, diretamente, por ações governamentais e, indiretamente, por meio de entidades filantrópicas e de Assistência Social, mediante transferência de recursos, subvenções e auxílios, através de termos de cooperação ou convênios.
+
+
+Parágrafo único.
+
+A proteção social de que trata a presente lei deve garantir aos usuários, as seguintes seguranças:
+
+
+I –
+
+e sobrevivência, rendimento e autonomia;
+
+
+II –
+
+e acolhida;
+
+
+III –
+
+e convívio ou vivência familiar.
+
+
+Art. 3º.
+
+Entende-se por usuário da Política de Assistência Social, os grupos ou cidadãos que se encontrem em situação de vulnerabilidade social e expostos a riscos, especialmente:
+
+
+I –
+
+famílias ou indivíduos com perda dos vínculos afetivos, relacionais e de pertencimento social, expostos à discriminações etárias, étnicas, de gênero ou por deficiência;
+
+
+II –
+
+indivíduos expostos a diferentes formas de violências advindas do núcleo familiar;
+
+
+III –
+
+indivíduos precariamente inseridos no mercado de trabalho, formal ou informal, que representem alternativas diferenciadas de sobrevivência de forma a resultar num risco pessoal ou social;
+
+
+IV –
+
+famílias ou indivíduos desprovidos de meios financeiros suficientes para prover as necessidades básicas de moradia, alimentação, vestuário e higiene;
+
+
+V –
+
+indivíduos expostos a maus-tratos, negligência, abuso sexual ou psicológico.
+
+
+Parágrafo único.
+
+Os usuários serão atendidos mediante avaliação sócio-econômica que comprove a situação de vulnerabilidade social, ou mediante comprovação de circunstâncias especiais como o socorro à população em situação de calamidade pública no atendimento de seus interesses e necessidades.
+
+
+Art. 4º.
+
+O usuário será presumido carente quando a renda familiar, comprovadamente, for de até um salário mínimo de piso nacional.
+
+
+Parágrafo único.
+
+Será prioridade absoluta a proteção integral à criança, adolescente e idoso, considerados segmentos sociais mais frágeis.
+
+
+Art. 5º.
+
+Os usuários, beneficiários desta Lei, deverão ser previamente cadastrados na Secretaria Municipal da Assistência Social.
+
+
+Parágrafo único.
+
+Os dados sócio-econômicos das pessoas, grupos ou famílias, serão atualizados e revistos pelo menos uma vez ao ano.
+
+
+Art. 6º.
+
+Qualquer cidadão poderá requerer seu cadastramento como usuário, cabendo ao órgão municipal o deferimento ou não, segundo os critérios desta Lei e da avaliação da Equipe Técnica
+
+
+Art. 7º.
+
+Aos usuários poderão ser concedidos, de conformidade com suas necessidades, auxílios em bens, serviços ou utilidades, sob a forma de:
+
+
+I –
+
+Aquisição de caixões para sepultamento;
+
+
+II –
+
+Fotografias para confecção de documentos;
+
+
+III –
+
+Alimentação, gêneros alimentícios, vestuário e agasalhos;
+
+
+IV –
+
+Material de construção, reforma ou recuperação de moradia própria;
+
+
+Art. 8º.
+
+À Secretaria Municipal da Assistência Social compete planejar, avaliar e coordenar os atos e serviços de melhoria e reforma na área habitacional, sendo que cabe à Secretaria Municipal de Obras e de Trânsito a execução destes projetos.
+
+
+Parágrafo único.
+
+O Poder Executivo, preferencialmente, pagará o auxílio concedido diretamente ao profissional ou fornecedor que prestou o serviço, mediante procedimento regular da despesa, documentação comprobatória, realização de licitação, quando necessária, celebração de convênio ou contrato, obedecidos os preceitos ditados pela Legislação Federal que trata das licitações.
+
+
+Art. 9º.
+
+Caberá sempre à Secretaria Municipal da Assistência Social, efetuar as devidas comunicações para as providências legais necessárias ao procedimento da despesa e, especialmente, atestar a execução dos serviços ou fornecimento de compras.
+
+
+Art. 10.
+
+Os atendimentos efetuados nos termos dos artigos anteriores serão sempre registrados na ficha cadastral da pessoa ou grupo familiar, consignado o nome do atendido, o dia e o objeto da prestação do serviço.
+
+
+Art. 11.
+
+Os usuários serão liberados de forma programada, objetivando economia de meios e procedimentos.
+
+
+Art. 12.
+
+Paralelamente à prestação de assistência social nos termos desta Lei, será mantido sistema de acompanhamento e orientação aos assistidos visando à melhoria de suas condições econômicas e sociais, mediante integração do mercado de trabalho e a vida comunitária.
+
+
+Art. 13.
+
+O Poder Executivo providenciará o cadastro das entidades filantrópicas e de assistência social sediadas no Município, às quais poderão ser delegadas a prestação de parte dos serviços de assistência social, mediante convênio, com repasse de recursos em valores calculados com base em unidade de serviços efetivamente prestados, obedecidos os critérios da presente Lei e, principalmente, dos preceitos enunciados pelo artigo 116, da Lei Federal nº. 8.666, de 22 de junho de 1993.
+
+
+Art. 14.
+
+Caberá à Secretaria Municipal da Assistência Social a execução do disposto nesta Lei, sem prejuízo dos atos de competência dos demais órgãos da Administração Municipal.
+
+
+Art. 15.
+
+As despesas decorrentes desta Lei serão atendidas pelas dotações orçamentárias próprias da Secretaria Municipal da Assistência Social em parceria com outras Secretarias e a Comunidade.
+
+
+Art. 16.
+
+Revoga-se a Lei Municipal nº. 907, de 06 de dezembro de 1993.
+
+
+Art. 17.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+GABINETE DO PREFEITO, aos 12 de junho de 2007; 149º da Colonização e 48º da Emancipação.
+
+ARI ALVES DA ANUNCIAÇÃO  
+Prefeito Municipal
+
+Registre-se e publique-se.  
+  
+ROMEU ANTÔNIO UNFER  
+Sec. Mun. da Administração
+

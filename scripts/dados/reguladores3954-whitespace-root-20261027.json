@@ -1,0 +1,40 @@
+{
+  "criterio": "Somente espacos originais do fragmento oficial preservado e linhas de contexto vazias dos patches; bytes conferidos no index. Nenhuma advertencia em norma canonica; demais classes passaram.",
+  "advertencias": [
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/dou11997-producao-final/auditor-import-producao.patch",
+      "linha": 10,
+      "tipo": "trailing whitespace.",
+      "sha256": "16868fa1d4c11ae02a2c8cfc4fdbe0ef37dece28e4b222cda0114c82ca3e58bb",
+      "bytes_linha_hex": "20"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/auditor-import-proposto.patch",
+      "linha": 10,
+      "tipo": "trailing whitespace.",
+      "sha256": "3fc28c3ece6678da1d5ec74edff0d20aa96e98c0e8feb533f5d3b147c6ed59d4",
+      "bytes_linha_hex": "20"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/fragmento-oficial.html",
+      "linha": 7479,
+      "tipo": "trailing whitespace.",
+      "sha256": "401b9c23494be2eff15456b04c9e7ec17c5cda899d3028855fcd91f36bc0a2aa",
+      "bytes_linha_hex": "2020202020202020"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/fragmento-oficial.html",
+      "linha": 7482,
+      "tipo": "trailing whitespace.",
+      "sha256": "401b9c23494be2eff15456b04c9e7ec17c5cda899d3028855fcd91f36bc0a2aa",
+      "bytes_linha_hex": "202020202020"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/fragmento-oficial.html",
+      "linha": 7479,
+      "tipo": "new blank line at EOF.",
+      "sha256": "401b9c23494be2eff15456b04c9e7ec17c5cda899d3028855fcd91f36bc0a2aa",
+      "bytes_linha_hex": "2020202020202020"
+    }
+  ]
+}

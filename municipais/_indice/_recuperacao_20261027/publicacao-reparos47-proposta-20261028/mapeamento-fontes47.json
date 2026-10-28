@@ -1,0 +1,1788 @@
+[
+  {
+    "path": "municipais/GO/cacu/resolucoes/2021/resolucoes-8-2021-sapl-3040.md",
+    "sha256_candidato": "f0ddcad6c2b9df2a4bc34b81bb84c402fcaae6e06b8a05b17df1bd73bd009ea9",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/8660489ed3597e23290bb656fa48833d005c3b0039d7e1ba2f870d593f406bd5.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/3040",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/211/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "3555ebab8cf711b7de469f066e5bbaacecf4af87d4c81ef79871078351c3c039",
+      "bytes": 72262,
+      "capturado_em": "2026-10-27T21:30:06.457425-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/4bf9a6c40977f26ff2d162dad3c788ceb8f32e46c42b71dc89c8cf3c12669395.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/3040/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/3040/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b5754ad6b43cc5c30b85dd66f57662cd1fc53805ca156a731eeae48108100b24",
+      "bytes": 1036,
+      "capturado_em": "2026-10-27T21:30:04.444949-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/af4cdbbb44a899d043fff2fd6cd2d8550004cfab934804f470445e56e91f2701.json",
+      "sha256": "b56aa7ddd041e96f0a626f0473969f9c17c0fdfa32676a51655a09a5bb4a399a",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/af4cdbbb44a899d043fff2fd6cd2d8550004cfab934804f470445e56e91f2701.meta.json",
+      "sha256_metadata": "54ef037e95a2d408e299136c9e603299100c4da1ba315abe83ec64e9be84e0df",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/PE/cabo-de-santo-agostinho/leis-ordinarias/2006/leis-ordinarias-2340-2006-sapl-1473.md",
+    "sha256_candidato": "c2ab7dc866530dd8eb6f9dbd88f63373045cfc7cb6cc6f688cdfe901dedb5218",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/05a9790c26f47b1dc61fd105ab64c7253f8b3fd45b906a91eda618f793958911.html",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/1473",
+      "url_final": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/1470/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "426389e0f8fb827182fa5483787c6aa26c5c1e67596663ada1b1c36545489f29",
+      "bytes": 35040,
+      "capturado_em": "2026-10-27T21:44:25.084957-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/753602e3ce45c201b07a05ac308d5948faa4d06e163b40f618ad55ff7e9fe0d3.json",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/api/norma/normajuridica/1473/",
+      "url_final": "https://sapl.cabodesantoagostinho.pe.leg.br/api/norma/normajuridica/1473/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a6ab1162c547b2a0abe9634c88031361fb58de83e82f1115603f841802418118",
+      "bytes": 1100,
+      "capturado_em": "2026-10-27T21:44:23.548417-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/192c25d18131164dc947f520dbe12505cfadcb2e1c1bde0656614aac3b4ebe32.json",
+      "sha256": "7f781b18b5b0cc94565b45d08af39572ccd94a26dc3c02860de9451b80bdf7f8",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/192c25d18131164dc947f520dbe12505cfadcb2e1c1bde0656614aac3b4ebe32.meta.json",
+      "sha256_metadata": "f42563bad1e127b79d02fc6c607a69a4a68baac8d79429b47a668361a1a602a9",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=29"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/0d5f4a4e0f4641eb2b865179ff5fd7a55343463afc73fdefff9f7b01ec601d53.json",
+      "sha256": "7a62975ffff244c133ffd75ce8ebe1ed23ef29c5a0741c8f6d17d3b983c57cb7",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/0d5f4a4e0f4641eb2b865179ff5fd7a55343463afc73fdefff9f7b01ec601d53.meta.json",
+      "sha256_metadata": "045bbead608d34228a79f0ac18855c1bf71bd24ed295ef00fd54418ea94c6ce0",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1976/leis-ordinarias-89-1976-sapl-413.md",
+    "sha256_candidato": "0ab2d254dff07becb345d5b0c6853a8a9f533590f5ed8008eb8b8527ddc61805",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c7f34e1074dad935bf8e314f96b28692f3629b456fda41dae3a06705623dd72e.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/413",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/927/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "a9721a1d92a4a82cfbe0d67b5c854a9ea84aef2e4dcc6a5ee3e055047cc78f11",
+      "bytes": 19832,
+      "capturado_em": "2026-10-27T22:03:30.225800-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/e394d680ef197b9c3db7d9c7c4808b0f1019b38620ed32a9678c6ee5e7bffd72.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/413/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/413/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d35fe0bbc461b1812a74949b98a81496bf2f6cbcf5bfbeb6a0ce313bd201222a",
+      "bytes": 886,
+      "capturado_em": "2026-10-27T22:03:28.320305-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/2344d8b16f5386b5b2a2436c4f72338350276d1c8e56a11c7b9c0d950520bb9a.json",
+      "sha256": "24908160b7f02e7698d77a318cbddc3fda980238d9dc1491f01acfc844aa803e",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/2344d8b16f5386b5b2a2436c4f72338350276d1c8e56a11c7b9c0d950520bb9a.meta.json",
+      "sha256_metadata": "41a4c07c1f28d02a0e67451d7a0e4e34aea55bd5a0c719dc30d83a2c74c63b83",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1975/leis-ordinarias-82-1975-sapl-406.md",
+    "sha256_candidato": "2239fde7a4ded7f17a178fa4b87d3aea73f870d91b2799959f905a67f387f706",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/91fcc0eeb8817effc3bd9618d2fca7c082801ed47a21525dd1d9a98542a48d2e.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/406",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/921/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "48b3fb52cf083c366892cd0b20ddbcd2195384e8054595f6a7523daa3ea1fcba",
+      "bytes": 19719,
+      "capturado_em": "2026-10-27T22:03:47.505274-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c27736d00a00f78abd93c28cf215ae9ced1e2d7f16fc58145494fcad91128277.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/406/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/406/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ffe108473268baad4950c9635d982b2f8cd27cadcad22b166f07f8fd6588646b",
+      "bytes": 769,
+      "capturado_em": "2026-10-27T22:03:45.399700-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/2344d8b16f5386b5b2a2436c4f72338350276d1c8e56a11c7b9c0d950520bb9a.json",
+      "sha256": "24908160b7f02e7698d77a318cbddc3fda980238d9dc1491f01acfc844aa803e",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/2344d8b16f5386b5b2a2436c4f72338350276d1c8e56a11c7b9c0d950520bb9a.meta.json",
+      "sha256_metadata": "41a4c07c1f28d02a0e67451d7a0e4e34aea55bd5a0c719dc30d83a2c74c63b83",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1975/leis-ordinarias-81-1975-sapl-405.md",
+    "sha256_candidato": "1794d6cbe83c6954af8c097b7522ccebada787840cba1b1369ebffbbd2e00ba6",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/bade4e24f8685250c8f36494b69d538ec49ffac2d0b964f6bc348d211f472ec6.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/405",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/920/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "a80ca4252ab791112d04ed74a6bef36314246842ee1abb7e99319c2d172c9f06",
+      "bytes": 31799,
+      "capturado_em": "2026-10-27T22:03:49.870424-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/cb24ef9159bd27bd07f568233bc7a3ca180c8fd0934b7b92a45b6bed3ca3ffdd.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/405/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/405/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "65fdfc242815d558d7803d633a222b98ce74d7e675b4a2149f70b4ace4a6b469",
+      "bytes": 803,
+      "capturado_em": "2026-10-27T22:03:47.796073-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/2344d8b16f5386b5b2a2436c4f72338350276d1c8e56a11c7b9c0d950520bb9a.json",
+      "sha256": "24908160b7f02e7698d77a318cbddc3fda980238d9dc1491f01acfc844aa803e",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/2344d8b16f5386b5b2a2436c4f72338350276d1c8e56a11c7b9c0d950520bb9a.meta.json",
+      "sha256_metadata": "41a4c07c1f28d02a0e67451d7a0e4e34aea55bd5a0c719dc30d83a2c74c63b83",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1975/leis-ordinarias-65-1975-sapl-388.md",
+    "sha256_candidato": "b42aed57ca88e54967e022ea227646860834252c9cb4030783e99098175b6f3b",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/38dfa46e2b9c78c7b4fbb21ddca18dbf691f4c78b38d311b3fa626739a429b53.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/388",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/903/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "20040fb39e09da99e40884885ded3aad540970c85c2cc6c468b912f93435a791",
+      "bytes": 23609,
+      "capturado_em": "2026-10-27T22:04:28.108077-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/9b7b278eb7bf763eb2ade3e4bce21d9efd9d2d8032766f09ce5e2bf04bb0213a.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/388/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/388/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "7752986409c02d32014998fced01fb8a051cc0944a5a3839330662049b8955b9",
+      "bytes": 853,
+      "capturado_em": "2026-10-27T22:04:26.197985-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/2344d8b16f5386b5b2a2436c4f72338350276d1c8e56a11c7b9c0d950520bb9a.json",
+      "sha256": "24908160b7f02e7698d77a318cbddc3fda980238d9dc1491f01acfc844aa803e",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/2344d8b16f5386b5b2a2436c4f72338350276d1c8e56a11c7b9c0d950520bb9a.meta.json",
+      "sha256_metadata": "41a4c07c1f28d02a0e67451d7a0e4e34aea55bd5a0c719dc30d83a2c74c63b83",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1975/leis-ordinarias-63-1975-sapl-386.md",
+    "sha256_candidato": "376612dc050b20a85ca750c2782008b9640362628ad5b585a6c0aad7ff420bad",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/5cdc2c375aadd99b6cef791f27a14c5db7ffe091964afc147c41dd18995e2831.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/386",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/901/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "652fee4e784dbf3fdc28d57345b1afcb7ca686d4ba01bfbb30d78804e9b0d910",
+      "bytes": 21434,
+      "capturado_em": "2026-10-27T22:04:32.717524-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/27cd74a8a5b915102218e35c5e5b012fe44fa399abb5de8a2f32949fe4911dab.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/386/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/386/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8fc55e71d5c9fb04c02b5a02ebe1647d5c6ff8ad156adcc035a419bbd12802eb",
+      "bytes": 910,
+      "capturado_em": "2026-10-27T22:04:30.602413-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/2344d8b16f5386b5b2a2436c4f72338350276d1c8e56a11c7b9c0d950520bb9a.json",
+      "sha256": "24908160b7f02e7698d77a318cbddc3fda980238d9dc1491f01acfc844aa803e",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/2344d8b16f5386b5b2a2436c4f72338350276d1c8e56a11c7b9c0d950520bb9a.meta.json",
+      "sha256_metadata": "41a4c07c1f28d02a0e67451d7a0e4e34aea55bd5a0c719dc30d83a2c74c63b83",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1975/leis-ordinarias-62-1975-sapl-385.md",
+    "sha256_candidato": "55e1fb565776ab541c6c20c989eb71b6e197c62e08c2a32729cff9ff1f1f5135",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/dc08ce8e8c23d3047a197b80e4e3070fd1103f059da075e7f3ddfab8b65fbafa.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/385",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/900/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "c8a0cfd9a2146112cf859b7402a84bae1569f43f4155853382415f01a638ceef",
+      "bytes": 20171,
+      "capturado_em": "2026-10-27T22:04:34.947679-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c47d1e01b3baad9af3daebfa00d93bcd4fc7d9c3c9fdc79c8f4330d6ad89e6e1.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/385/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/385/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "237c25bd3ec7522ea4dc5398a63dd40f303a98bf0792dcf09e804ade61c43649",
+      "bytes": 800,
+      "capturado_em": "2026-10-27T22:04:33.203264-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/2344d8b16f5386b5b2a2436c4f72338350276d1c8e56a11c7b9c0d950520bb9a.json",
+      "sha256": "24908160b7f02e7698d77a318cbddc3fda980238d9dc1491f01acfc844aa803e",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/2344d8b16f5386b5b2a2436c4f72338350276d1c8e56a11c7b9c0d950520bb9a.meta.json",
+      "sha256_metadata": "41a4c07c1f28d02a0e67451d7a0e4e34aea55bd5a0c719dc30d83a2c74c63b83",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1975/leis-ordinarias-61-1975-sapl-384.md",
+    "sha256_candidato": "5674f1ab850f36eadb282596c234a0ca8c7320b021539e917a5a989c91e8391e",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/1c6ac6d0b15dceae9eddccd4178ccb20be742ade00432d29b7e37cf5a58147f1.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/384",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/899/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "d57b6518044037d95d8beb10e929c0a03bd34cabd90491e0946b7d50a2f55e00",
+      "bytes": 20242,
+      "capturado_em": "2026-10-27T22:04:37.521275-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c00513f34939e85fb255de216349d9fe3c9049141d975ede3356acd2a6dcbba8.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/384/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/384/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0c04f75edc19c07b4214d38b4af0e8ce1744fdab544cc0dd58552a605690959a",
+      "bytes": 842,
+      "capturado_em": "2026-10-27T22:04:35.402163-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/2344d8b16f5386b5b2a2436c4f72338350276d1c8e56a11c7b9c0d950520bb9a.json",
+      "sha256": "24908160b7f02e7698d77a318cbddc3fda980238d9dc1491f01acfc844aa803e",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/2344d8b16f5386b5b2a2436c4f72338350276d1c8e56a11c7b9c0d950520bb9a.meta.json",
+      "sha256_metadata": "41a4c07c1f28d02a0e67451d7a0e4e34aea55bd5a0c719dc30d83a2c74c63b83",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1975/leis-ordinarias-60-1975-sapl-383.md",
+    "sha256_candidato": "ef828d3fe646460e77ccbcc81669d0fa5bf918ffdcea43bb62415291b3975444",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/6496f0f9be9b570f1f670eaeb25c141371f0b99cf5d398202157368a8c7ba78f.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/383",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/898/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "4c94567599dd5854dbeb5a85dffcaecab13590a4eaec505b924e4fb31211c3d0",
+      "bytes": 23649,
+      "capturado_em": "2026-10-27T22:04:39.726361-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/17aa0c20db0f5354eba0f7c04d7e5eb0a9633237114a83688ba983dae3cd711d.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/383/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/383/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3557233c2cd30989e0e7c6995c85bb66471eebff439bc2bc8cdff4604be508c6",
+      "bytes": 897,
+      "capturado_em": "2026-10-27T22:04:38.146654-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/2344d8b16f5386b5b2a2436c4f72338350276d1c8e56a11c7b9c0d950520bb9a.json",
+      "sha256": "24908160b7f02e7698d77a318cbddc3fda980238d9dc1491f01acfc844aa803e",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/2344d8b16f5386b5b2a2436c4f72338350276d1c8e56a11c7b9c0d950520bb9a.meta.json",
+      "sha256_metadata": "41a4c07c1f28d02a0e67451d7a0e4e34aea55bd5a0c719dc30d83a2c74c63b83",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1975/leis-ordinarias-58-1975-sapl-381.md",
+    "sha256_candidato": "3bc5a8fb711f203963e3bfdf772e19c8b1af44b669984d1b7173d781db537bf3",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/efb5fd305bc6269c8ec6b3aa7b7d7dc6b7bf62bfabdd6830df8531ff995c217d.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/381",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/896/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "f0ed01c9a2256371deba781b49741a866350b14914164de8f8a31896eb18536f",
+      "bytes": 21837,
+      "capturado_em": "2026-10-27T22:04:42.112049-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/a957cb91273291e1fce0bc221f823060cb54351669666e84f0b2e9a58f84d9de.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/381/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/381/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "38bb48bb7e5123f06dd57de931057d37ee59efea8b96788f2b560e89d437ab3e",
+      "bytes": 794,
+      "capturado_em": "2026-10-27T22:04:40.199348-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/2344d8b16f5386b5b2a2436c4f72338350276d1c8e56a11c7b9c0d950520bb9a.json",
+      "sha256": "24908160b7f02e7698d77a318cbddc3fda980238d9dc1491f01acfc844aa803e",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/2344d8b16f5386b5b2a2436c4f72338350276d1c8e56a11c7b9c0d950520bb9a.meta.json",
+      "sha256_metadata": "41a4c07c1f28d02a0e67451d7a0e4e34aea55bd5a0c719dc30d83a2c74c63b83",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1974/leis-ordinarias-54-1974-sapl-377.md",
+    "sha256_candidato": "0af94837e320d07d5efa92c58c0af00539018d740cc0dca1cb139b04a0522e64",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/2a77158f9dcb866bdf78cd33320085c8fcc749664e284cd24918d005c7965853.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/377",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/891/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "5282d3e090a4f984f550c35222b02bcfdda2c02458b6cc2ef9190050f157460d",
+      "bytes": 27454,
+      "capturado_em": "2026-10-27T22:04:53.926985-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/274ce2d305a20df7709fb87cc17e92d0a5e063f39bfca52cba886f4e8574d49d.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/377/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/377/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e58f3a78103c15e28305b5f3769df7a34a0fbaa5036f633f409af64b2d78e3c9",
+      "bytes": 835,
+      "capturado_em": "2026-10-27T22:04:52.202149-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/2344d8b16f5386b5b2a2436c4f72338350276d1c8e56a11c7b9c0d950520bb9a.json",
+      "sha256": "24908160b7f02e7698d77a318cbddc3fda980238d9dc1491f01acfc844aa803e",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/2344d8b16f5386b5b2a2436c4f72338350276d1c8e56a11c7b9c0d950520bb9a.meta.json",
+      "sha256_metadata": "41a4c07c1f28d02a0e67451d7a0e4e34aea55bd5a0c719dc30d83a2c74c63b83",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=14"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1974/leis-ordinarias-53-1974-sapl-376.md",
+    "sha256_candidato": "06485dd102819b091ffd1722d253270dfc238a54dc8950eec895a30795dab486",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/f374f837d33f1afdbf887e91773f804d40ec0a14a72d8595785ba3f21640c38c.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/376",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/890/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "c4b3ea36b740b35f248e13830cfaa4b952b2b0fe38df837f481e21da722c80c6",
+      "bytes": 20918,
+      "capturado_em": "2026-10-27T22:04:57.314569-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/4fa81bd5432d9411594cf8c12488750445b3fc8c4c2cb4dcd92b60393978ca37.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/376/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/376/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3f2106876c239f135fe4513147809fed66462164fef4c4f21e0921b6fe1ee1f3",
+      "bytes": 790,
+      "capturado_em": "2026-10-27T22:04:55.401549-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.json",
+      "sha256": "75e6481ff1c841657a536da61bf3390c4b88f9ffbbf3c549966c0df59dbc5870",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.meta.json",
+      "sha256_metadata": "b6dfd32e912884fc4879d3c3ca068258937208249e13ec6f6479d639987cc911",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1974/leis-ordinarias-50-1974-sapl-373.md",
+    "sha256_candidato": "710bfc62e24437722b46488d75bbf323d3c5dff1ee3a66b9d81761ce894036a4",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/0a62d10d5dca277c48f6b2a0b38669a61910efc95a0e174547530fa2dcf92cfd.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/373",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/887/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "7609c0fe472c4156df69779ef98d0114c84b124883ad1b9d9b02198f4e98c4bb",
+      "bytes": 23722,
+      "capturado_em": "2026-10-27T22:05:04.520343-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/d1376f8c29d4a86c42ddb95fb1f44fa4f115a48892e1d892fe4da4a1a850a365.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/373/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/373/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "218804accf2a18450ec23061885615059078d71d3642812576f79afe7026b97b",
+      "bytes": 868,
+      "capturado_em": "2026-10-27T22:05:02.602642-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.json",
+      "sha256": "75e6481ff1c841657a536da61bf3390c4b88f9ffbbf3c549966c0df59dbc5870",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.meta.json",
+      "sha256_metadata": "b6dfd32e912884fc4879d3c3ca068258937208249e13ec6f6479d639987cc911",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1974/leis-ordinarias-49-1974-sapl-372.md",
+    "sha256_candidato": "36a9cffc73d4ef3287b28a3e5a32b23a94a211182e546755a31de9e9cf9e728a",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/ae714fb76c5be47b9d4d5a72cd8191a1539129220648a4e506d36dcf1bde0e02.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/372",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/886/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "1e4482738bd84d8eda4aba2081e5458b01c71f99099ce6a82790e66307aa44b4",
+      "bytes": 19564,
+      "capturado_em": "2026-10-27T22:05:06.914977-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/de3907a87726013c4d9fbac1a1de359f4ce49633c8b2c4eb406b90de6400202a.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/372/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/372/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "298d6f2f954e80a150633e37b38b7490dd0d53d6cdf263481794265b4dcffbd5",
+      "bytes": 800,
+      "capturado_em": "2026-10-27T22:05:05.001870-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.json",
+      "sha256": "75e6481ff1c841657a536da61bf3390c4b88f9ffbbf3c549966c0df59dbc5870",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.meta.json",
+      "sha256_metadata": "b6dfd32e912884fc4879d3c3ca068258937208249e13ec6f6479d639987cc911",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1974/leis-ordinarias-46-1974-sapl-369.md",
+    "sha256_candidato": "95e227f49e7f16112fb549bb240ad7df779dcbe94fc26a9c91c329d4ba7056ef",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/30d1d2672684a4572c776dc0421c528cd190828e09fbc6b1ec501a2afd944a54.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/369",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/884/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "d58b2de415a06583b2c6fcad00aa3c5e1bc7ce7baa4e68110d311d9e2241d161",
+      "bytes": 23178,
+      "capturado_em": "2026-10-27T22:05:13.342217-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/5b3e5be6152234182d98846e8ab3ab269368f420625c769e251a8fb023ea91d7.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/369/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/369/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "ce3552488c1d9e21b10734bd4b626b92372c9c184b41538a7e421fd63b5063f5",
+      "bytes": 857,
+      "capturado_em": "2026-10-27T22:05:09.603488-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.json",
+      "sha256": "75e6481ff1c841657a536da61bf3390c4b88f9ffbbf3c549966c0df59dbc5870",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.meta.json",
+      "sha256_metadata": "b6dfd32e912884fc4879d3c3ca068258937208249e13ec6f6479d639987cc911",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1974/leis-ordinarias-45-1974-sapl-368.md",
+    "sha256_candidato": "629d02c2c59a05c9f0c08c849930ce65528d12efc87233c96b66f0f82b72e242",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/ea68bf69f9671bdd0cb8522581666bf90478cb4387c605ea03572ba3412eb511.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/368",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/883/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "d23894876a7b1fa3ba1a509c1323cda63dc096dbdb7f4eb85ea8ac6d67b51513",
+      "bytes": 23671,
+      "capturado_em": "2026-10-27T22:05:15.754046-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/de72e8447705c1ed22759528f52edca66db493c7c8313643252ae5de879e18e4.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/368/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/368/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d549671c65017a194e9c52cb4bf05aebbccafd50a11ac60d7b3828e66918f5ce",
+      "bytes": 847,
+      "capturado_em": "2026-10-27T22:05:13.832487-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.json",
+      "sha256": "75e6481ff1c841657a536da61bf3390c4b88f9ffbbf3c549966c0df59dbc5870",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.meta.json",
+      "sha256_metadata": "b6dfd32e912884fc4879d3c3ca068258937208249e13ec6f6479d639987cc911",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1974/leis-ordinarias-44-1974-sapl-367.md",
+    "sha256_candidato": "3aca5a038fc7476507eac0049a1a39303c249ad3cf33f8b45c7e7a2e6badf984",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/eb5c23ba32e3baec3ccc6dc6ccaa10eabe38db9ed0fd2de400802138773631ff.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/367",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/882/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "ad0b5eb0ec873a13881ed771eada0add8003d9f06a003d53042d523571cea896",
+      "bytes": 19644,
+      "capturado_em": "2026-10-27T22:05:18.125408-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/27d245a191de88783764d62a872ac4aad1e21eaeaad560a8441181ab5f7964dd.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/367/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/367/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3d5971660a4885172b85b45360dae4c22004b1df7a0c89a3c1fd9f2df4615ed3",
+      "bytes": 750,
+      "capturado_em": "2026-10-27T22:05:16.216179-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.json",
+      "sha256": "75e6481ff1c841657a536da61bf3390c4b88f9ffbbf3c549966c0df59dbc5870",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.meta.json",
+      "sha256_metadata": "b6dfd32e912884fc4879d3c3ca068258937208249e13ec6f6479d639987cc911",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1974/leis-ordinarias-43-1974-sapl-366.md",
+    "sha256_candidato": "c86bdc557a5d6dd61c15f7efc1331a881d931aeb7445a6dae7a13e07f0edf179",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/5da89f612f48c3784a0cdcb19ae43ff75f128729fb5a899637db48671b7147f3.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/366",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/881/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "87e3a254888f13e45b18f42224208a93f29bc007a83e461e03d394ab8121e7d2",
+      "bytes": 21511,
+      "capturado_em": "2026-10-27T22:05:20.530020-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/f1a064a5ede1227429b4fe7a12784ab043a0bfd77eb96411c181ab7717044713.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/366/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/366/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "324151d734617be1ea44d6a9c610ec26f6ff2feb519da2afa0201a0487d32bd4",
+      "bytes": 850,
+      "capturado_em": "2026-10-27T22:05:18.619713-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.json",
+      "sha256": "75e6481ff1c841657a536da61bf3390c4b88f9ffbbf3c549966c0df59dbc5870",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.meta.json",
+      "sha256_metadata": "b6dfd32e912884fc4879d3c3ca068258937208249e13ec6f6479d639987cc911",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1974/leis-ordinarias-42-1974-sapl-365.md",
+    "sha256_candidato": "3f895c630815f11c82eb012e59b90f7342d4dd31e5a9530f1288a679b645c18e",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/8aad4c278cfd9d67174b3bc6361b32c3d4ddf0afa719385713bd8830ddb73016.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/365",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/880/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "d22f3cc091502b505ada59c89e62e81ff1432c6469daae4e63d4a9d7182a01c9",
+      "bytes": 26659,
+      "capturado_em": "2026-10-27T22:05:22.995327-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/37485d1b8e75f703514157a2d242687894bbe2dbdf086f700751a2ff4bb019df.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/365/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/365/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e89a7afc72512e09aa4fef91f3d47943db6ebfd1535dea0363d80614741faedc",
+      "bytes": 823,
+      "capturado_em": "2026-10-27T22:05:21.021182-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.json",
+      "sha256": "75e6481ff1c841657a536da61bf3390c4b88f9ffbbf3c549966c0df59dbc5870",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.meta.json",
+      "sha256_metadata": "b6dfd32e912884fc4879d3c3ca068258937208249e13ec6f6479d639987cc911",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1974/leis-ordinarias-41-1974-sapl-364.md",
+    "sha256_candidato": "e401410269505bf6f405ab938a405fce5cb3c6557c6df4679c5bd7c3b449e708",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c042372ccd7c678eacab4ec48260caafe34b1ac6b94d8848b718b92881e87399.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/364",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/879/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "c7a41f8ab9f8342d38cfb92619e1036aa1e657460708597e245f64c15030bcf7",
+      "bytes": 19527,
+      "capturado_em": "2026-10-27T22:05:24.924021-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/dee1d6392538ba1e0560d3bd8b4bcaf53f41ddbadf4b0d6dcb36573934c00446.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/364/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/364/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "b0e2e968ac895e7ccf69da4e7c8e18982eeef09b29726688617a8070ff13a814",
+      "bytes": 815,
+      "capturado_em": "2026-10-27T22:05:23.217498-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.json",
+      "sha256": "75e6481ff1c841657a536da61bf3390c4b88f9ffbbf3c549966c0df59dbc5870",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.meta.json",
+      "sha256_metadata": "b6dfd32e912884fc4879d3c3ca068258937208249e13ec6f6479d639987cc911",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1973/leis-ordinarias-38-1973-sapl-361.md",
+    "sha256_candidato": "352aece815c40fd56a1a6c01317ce9a1f0fe3f390acb229abe44e83081c9db2c",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/425406a4027b344c126faf3887f471df7f450402a9a68076af28acda22541090.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/361",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/877/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "bfc2bff76cdb2003413bc421a49f3e6f077ed05b4978ac549a56776e78dd0531",
+      "bytes": 22062,
+      "capturado_em": "2026-10-27T22:05:32.129385-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/0b7feccdcf117dcff986c87684c4870a528f586ae2b8f08b095fc350d713595a.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/361/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/361/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "cddc00a48bd0bc2a329498953370a5f5bfe774a3fecdb753d523848827e0ffd2",
+      "bytes": 792,
+      "capturado_em": "2026-10-27T22:05:30.414943-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.json",
+      "sha256": "75e6481ff1c841657a536da61bf3390c4b88f9ffbbf3c549966c0df59dbc5870",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.meta.json",
+      "sha256_metadata": "b6dfd32e912884fc4879d3c3ca068258937208249e13ec6f6479d639987cc911",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1973/leis-ordinarias-37-1973-sapl-360.md",
+    "sha256_candidato": "3e261b682e8a9bec55747a945f96945475fe581bdf153265672a7fe95e68004d",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/fdf4463dcfaa123b7709e917d1ebf6fa240fd290bfa3ed0492557a899bff3875.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/360",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/876/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "d7f002c716f58f66603e92eb0e02365dc32ac7830ab7ac9a04e8111d607ca383",
+      "bytes": 24183,
+      "capturado_em": "2026-10-27T22:05:34.537912-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/3cef55639ec20cf18033e31952208b673515910bfd1bed151c4aa8739850568a.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/360/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/360/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3f59f3310b38f618045f5e5be634ffa822cff0c16562b993bc475e5560885935",
+      "bytes": 832,
+      "capturado_em": "2026-10-27T22:05:32.745678-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.json",
+      "sha256": "75e6481ff1c841657a536da61bf3390c4b88f9ffbbf3c549966c0df59dbc5870",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.meta.json",
+      "sha256_metadata": "b6dfd32e912884fc4879d3c3ca068258937208249e13ec6f6479d639987cc911",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1973/leis-ordinarias-36-1973-sapl-359.md",
+    "sha256_candidato": "fc5a57f7acdd1b24a54c04b1e79dc60781936f7da2a6f84c6f9656c89f9c4119",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/5f9208e5f27fd9adbab584c5e4d0f228775d192c41fb6a5ab2655d5a8da079ca.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/359",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/875/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "e7f87ce8b64837a8ca8ef2f8cb103b92265a30338142c92615b7978f0773a03c",
+      "bytes": 36199,
+      "capturado_em": "2026-10-27T22:05:36.935918-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/5e4e3c1f52df514668ab87209a0040947a7de59c2d07b46b1f430dfcfba277e3.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/359/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/359/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "4658e7f6e861d68872c90f8c33649074457ae04f366ab334a9d39fe4a7e66178",
+      "bytes": 841,
+      "capturado_em": "2026-10-27T22:05:35.018106-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.json",
+      "sha256": "75e6481ff1c841657a536da61bf3390c4b88f9ffbbf3c549966c0df59dbc5870",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.meta.json",
+      "sha256_metadata": "b6dfd32e912884fc4879d3c3ca068258937208249e13ec6f6479d639987cc911",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1973/leis-ordinarias-34-1973-sapl-357.md",
+    "sha256_candidato": "e47a33312cba6d646f1a001d741a210c6949afdaf00766012ad108714a4325ce",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/237920ac972882973b086df0585d0ad6f77a03aa3c69dd9a4826ae24c4e68848.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/357",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/872/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "37fd101fcfafe8e4ee2542ec02b28ebce7486b1c7157e877232bc69106bd2d23",
+      "bytes": 20280,
+      "capturado_em": "2026-10-27T22:05:41.738366-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/f1aafc7bd1c44ec17f68645ac2c8074f3f5776e1234e459cfbefa86407983624.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/357/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/357/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "32450ce479d3910bf5b524bea09457530f6b97f0339a17e0857d84f66274ce53",
+      "bytes": 792,
+      "capturado_em": "2026-10-27T22:05:39.962469-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.json",
+      "sha256": "75e6481ff1c841657a536da61bf3390c4b88f9ffbbf3c549966c0df59dbc5870",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.meta.json",
+      "sha256_metadata": "b6dfd32e912884fc4879d3c3ca068258937208249e13ec6f6479d639987cc911",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1973/leis-ordinarias-32-1973-sapl-355.md",
+    "sha256_candidato": "275ec7b682c1bf9e619f919d181ce7bfb28f82a65a0c7b9fe924892cb4098bba",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/ddd0e9b47bc910e0e7d4576f3d08a35ef386c5d661f0997a92bf2778a8397b12.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/355",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/869/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "8ed5d5151f933ec83ab16d38f1e13c9081f08369d580a16f79fa5cb5e9921100",
+      "bytes": 20508,
+      "capturado_em": "2026-10-27T22:05:46.669039-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/24c1e04b0c6d4d3f16aec90e1ccc008cbc660a6c2066f16d0b9b318c99214991.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/355/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/355/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "399843f50faa79a47c1499d8120ca5e0d752435bab49f31d6513b0fc9934dc9b",
+      "bytes": 861,
+      "capturado_em": "2026-10-27T22:05:44.617270-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.json",
+      "sha256": "75e6481ff1c841657a536da61bf3390c4b88f9ffbbf3c549966c0df59dbc5870",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.meta.json",
+      "sha256_metadata": "b6dfd32e912884fc4879d3c3ca068258937208249e13ec6f6479d639987cc911",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1973/leis-ordinarias-31-1973-sapl-354.md",
+    "sha256_candidato": "4f67a830d0c56978c67e1ce7b7f69b4feab3dc42b364acc2bee0c56b573e322f",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/4991fbf34312f651802583f706875fc16987c78aaaabbc22b0f7b31c86bd6dd0.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/354",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/868/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "ffd88b5e2f10ecc9b7e17a8513556b36aac8907fa5731b99c5c79a27affdbf7d",
+      "bytes": 26414,
+      "capturado_em": "2026-10-27T22:05:48.938722-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c15b39a4594d251151f3c792259d82288a5518c8014829ea5ddf332d77935320.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/354/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/354/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "fff0c4650678888b75a39f2f27d8df16061f0637afbd1406d6413f51cc978948",
+      "bytes": 874,
+      "capturado_em": "2026-10-27T22:05:47.217092-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.json",
+      "sha256": "75e6481ff1c841657a536da61bf3390c4b88f9ffbbf3c549966c0df59dbc5870",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.meta.json",
+      "sha256_metadata": "b6dfd32e912884fc4879d3c3ca068258937208249e13ec6f6479d639987cc911",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1973/leis-ordinarias-30-1973-sapl-353.md",
+    "sha256_candidato": "0e00beb3d51890f63d012754722245b5c9c4c859e8403b5428de2d1f5a01a2a6",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/26dfe3bdf0b6b97a3270c5ba85b427866b0fc13b09a92abb5eb3bae390cd4baa.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/353",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/867/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "dfa88f7cd59bf8fde5654736ed437ac5da05778f185f7742ad06815f5a605827",
+      "bytes": 25870,
+      "capturado_em": "2026-10-27T22:05:51.339977-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/7c399bee13a63565c14105212fbd8bc64d13543e74384550890dc0e962371768.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/353/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/353/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "79c4dc9ec8bd7cebf6659f0a2bcb57f628c404be3c6a2ec78d1e0638a6975f58",
+      "bytes": 838,
+      "capturado_em": "2026-10-27T22:05:49.619573-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.json",
+      "sha256": "75e6481ff1c841657a536da61bf3390c4b88f9ffbbf3c549966c0df59dbc5870",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.meta.json",
+      "sha256_metadata": "b6dfd32e912884fc4879d3c3ca068258937208249e13ec6f6479d639987cc911",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1973/leis-ordinarias-29-1973-sapl-352.md",
+    "sha256_candidato": "3f7e5d4a6e0fdd4932aebb216ec1469ba02d2a0842b762dba7896105e0b04132",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/54570b7dc5ac859ee221d776a71e9a9307975b74ff0a968df2612a4eb55a4df7.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/352",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/866/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "b360521ce31dca77acb139f0a847f3bc3e1e77359f2cb4c8f798ad6650d83499",
+      "bytes": 22272,
+      "capturado_em": "2026-10-27T22:05:53.729941-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/0ca5ed407abc4c26774250eee5c83e24c39100b0820067e6b29399c423df7c96.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/352/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/352/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "71aa6481580dd01c6783dcaa08f3d553c9b9efe658aa894ebd604a3258a0509e",
+      "bytes": 796,
+      "capturado_em": "2026-10-27T22:05:52.015750-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.json",
+      "sha256": "75e6481ff1c841657a536da61bf3390c4b88f9ffbbf3c549966c0df59dbc5870",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.meta.json",
+      "sha256_metadata": "b6dfd32e912884fc4879d3c3ca068258937208249e13ec6f6479d639987cc911",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1973/leis-ordinarias-28-1973-sapl-351.md",
+    "sha256_candidato": "ad1e279c824a4555bfbb3d71ecf690bfbfe86eebeb2e842e3d741f7dd7d5ffe8",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/ddf0ca06677c05613686762aea563167c25af376c729d9d6f08e4e5e31e14b69.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/351",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/863/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "27169c6808272a2639411af16d0794af1f1e24ce77c65fbb5d409a9643adf01e",
+      "bytes": 21526,
+      "capturado_em": "2026-10-27T22:05:55.932399-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/d4588cfd34190454784f9395d4682752355e38804b3e2d6ccbb50927dde9cf17.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/351/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/351/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e11b02ba012818fee798cfb5ff95dd0928dce0253f98a62c20f848d8b383cdcc",
+      "bytes": 832,
+      "capturado_em": "2026-10-27T22:05:54.413524-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.json",
+      "sha256": "75e6481ff1c841657a536da61bf3390c4b88f9ffbbf3c549966c0df59dbc5870",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c9c770ecb7a3ad324bfef163309b74ea91b52ac01cdd6ab970752bbff0a983b4.meta.json",
+      "sha256_metadata": "b6dfd32e912884fc4879d3c3ca068258937208249e13ec6f6479d639987cc911",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=15"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/PE/cabo-de-santo-agostinho/leis-ordinarias/2005/leis-ordinarias-2256-2005-sapl-1552.md",
+    "sha256_candidato": "03f76fa222b335038f26465f2c1c3aff1a99680f5fdd144c774796ffb29f997d",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/c878dd81b63b472955b0fd6c87e95350567a58873f19af9635cb699a5cbcd078.html",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/1552",
+      "url_final": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/1545/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "b727fb874f51ec0d6fb6f9701bb735a876103e79df95c24f1cf22461e4639abd",
+      "bytes": 21015,
+      "capturado_em": "2026-10-27T21:47:41.067707-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/7cc229c4b16636b0896359b6c21b9946d56692e85e01dca61822347960f8c1bb.json",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/api/norma/normajuridica/1552/",
+      "url_final": "https://sapl.cabodesantoagostinho.pe.leg.br/api/norma/normajuridica/1552/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "0dd1194167b1f573291d35d767c6db00ecd37676642afdfa02673b07caab5f54",
+      "bytes": 1372,
+      "capturado_em": "2026-10-27T21:47:39.495324-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/9e1b33be3f6a30386babff926fb97d6218ee8102a59d15a3403856673c3ac049.json",
+      "sha256": "377a680d1aea29e64e74f21d8831484b3c65cc21aabe461585711689bcd33b24",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/9e1b33be3f6a30386babff926fb97d6218ee8102a59d15a3403856673c3ac049.meta.json",
+      "sha256_metadata": "aa03cc8cfb0ea55155816cff11e375343c409acc099d5aab80dff0c826e6159c",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=30"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/0d5f4a4e0f4641eb2b865179ff5fd7a55343463afc73fdefff9f7b01ec601d53.json",
+      "sha256": "7a62975ffff244c133ffd75ce8ebe1ed23ef29c5a0741c8f6d17d3b983c57cb7",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/0d5f4a4e0f4641eb2b865179ff5fd7a55343463afc73fdefff9f7b01ec601d53.meta.json",
+      "sha256_metadata": "045bbead608d34228a79f0ac18855c1bf71bd24ed295ef00fd54418ea94c6ce0",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/PE/cabo-de-santo-agostinho/leis-ordinarias/2005/leis-ordinarias-2255-2005-sapl-1553.md",
+    "sha256_candidato": "d18d262c8bc29afc3d5d11c336a8230c789013e575c30b471f68f7d8b043d926",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/0e5d3f3ec7b8c712358551362d9a10df97a5461af754e40bdff972f954ce2daa.html",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/1553",
+      "url_final": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/1546/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "6315bb80323462c686da93ac869934a1455f7002929d154c113975c15ad9f51a",
+      "bytes": 20735,
+      "capturado_em": "2026-10-27T21:47:43.473556-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/324d30d6935e7f7fc890c3279b1146651ce95eca473d15d30d1fba1f63929eb9.json",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/api/norma/normajuridica/1553/",
+      "url_final": "https://sapl.cabodesantoagostinho.pe.leg.br/api/norma/normajuridica/1553/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "9beba9b40e327f981048ff421f448feb859cbb10544594182680227921d28a44",
+      "bytes": 1060,
+      "capturado_em": "2026-10-27T21:47:41.757013-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/9e1b33be3f6a30386babff926fb97d6218ee8102a59d15a3403856673c3ac049.json",
+      "sha256": "377a680d1aea29e64e74f21d8831484b3c65cc21aabe461585711689bcd33b24",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/9e1b33be3f6a30386babff926fb97d6218ee8102a59d15a3403856673c3ac049.meta.json",
+      "sha256_metadata": "aa03cc8cfb0ea55155816cff11e375343c409acc099d5aab80dff0c826e6159c",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=30"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/0d5f4a4e0f4641eb2b865179ff5fd7a55343463afc73fdefff9f7b01ec601d53.json",
+      "sha256": "7a62975ffff244c133ffd75ce8ebe1ed23ef29c5a0741c8f6d17d3b983c57cb7",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/0d5f4a4e0f4641eb2b865179ff5fd7a55343463afc73fdefff9f7b01ec601d53.meta.json",
+      "sha256_metadata": "045bbead608d34228a79f0ac18855c1bf71bd24ed295ef00fd54418ea94c6ce0",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/PE/cabo-de-santo-agostinho/leis-ordinarias/1995/leis-ordinarias-1710-1995-sapl-2386.md",
+    "sha256_candidato": "9e0d59f744ad2981c701f6460fcca6bd3184e64f312f2d5e228eb5549ef56362",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/886b35a6b78e1fdb947f4788a4d7bb6f1160fac43093eeafd928bd8cec1b65f2.html",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2386",
+      "url_final": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/2279/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "938b8af71b2009b188cc9dd440618716cf26379f7517ced6a75793c7245d7a4d",
+      "bytes": 22416,
+      "capturado_em": "2026-10-27T21:56:59.024639-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/029c47ccc9c6a4363940ce49f02b6a974d3dab28c26052a0540c7c619373511b.json",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/api/norma/normajuridica/2386/",
+      "url_final": "https://sapl.cabodesantoagostinho.pe.leg.br/api/norma/normajuridica/2386/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "97a059f836bbff3a5928608b050aa1da9a09080e205496c37a9f299de69b7a8b",
+      "bytes": 971,
+      "capturado_em": "2026-10-27T21:56:57.111326-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/fa070fd8d5dd7e845e51eca14d2dbf9c644c7c1b7aac120def2527454a489ac2.json",
+      "sha256": "ac4f24535ea644043593ddeac1df684be8881063a1abde722ef930d63fb3c141",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/fa070fd8d5dd7e845e51eca14d2dbf9c644c7c1b7aac120def2527454a489ac2.meta.json",
+      "sha256_metadata": "90ddbf9c7485e760a4559e91d73644a826ffa045445e12c5d35baccb5ad85e9d",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=35"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/0d5f4a4e0f4641eb2b865179ff5fd7a55343463afc73fdefff9f7b01ec601d53.json",
+      "sha256": "7a62975ffff244c133ffd75ce8ebe1ed23ef29c5a0741c8f6d17d3b983c57cb7",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/0d5f4a4e0f4641eb2b865179ff5fd7a55343463afc73fdefff9f7b01ec601d53.meta.json",
+      "sha256_metadata": "045bbead608d34228a79f0ac18855c1bf71bd24ed295ef00fd54418ea94c6ce0",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1971/leis-ordinarias-7-1971-sapl-257.md",
+    "sha256_candidato": "7fa8712b8f81a2b205ca39b3346274e28cd30d2975ba813773454ab5d0bfc5c6",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/002d5bf9613793b0d239eb5d1aa762ba0ac4bc7fb8c3d4858af7234585afe214.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/257",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/732/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "1757863937c2ac6e9e41a98b5c479124660b3b79e8b086ebc4b3c67bd7204763",
+      "bytes": 24528,
+      "capturado_em": "2026-10-27T22:09:33.807382-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/af9976662d24f2f01e1961f86d3c8d330fb3136c03bf7ced5ffb5a65ee2aac26.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/257/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/257/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "2052029e46c3dbfe3d55b47e6b71dd9d659bfdc9980cf8dbb96951db235ff7da",
+      "bytes": 871,
+      "capturado_em": "2026-10-27T22:09:32.710257-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c253d9ae918322a5f81fc319efff60181ba098dbc5dce81cdab75cdca63147e1.json",
+      "sha256": "fa74e028d47bdbd4fc6b00e3afa1f22248bce569a7bb781dc1cb0bf760f2f68d",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c253d9ae918322a5f81fc319efff60181ba098dbc5dce81cdab75cdca63147e1.meta.json",
+      "sha256_metadata": "a003a7795e5f2be59e0c4cd9b62519d00cb82ee497c3f0e6a0a1b0258a4729f6",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=16"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/PE/cabo-de-santo-agostinho/leis-ordinarias/1982/leis-ordinarias-1293-1982-sapl-4108.md",
+    "sha256_candidato": "a3c2adc365035ff31e3fefff8f1d870fba9f6e724071c6ab2a48c1abc4f1a33f",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/3a2ed6f699d1c158bb127d12bb68dc23c02cfb3ba6868d206f459ca6bcdecd3a.html",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/4108",
+      "url_final": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/4158/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "96f76e59b688d25ee71a9385e9d3d46ce2d77f84ef1ab1b23e1e972a0e4c8e8f",
+      "bytes": 21839,
+      "capturado_em": "2026-10-27T22:07:54.159025-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/ed89c9f7211e16b1d348f0eb83a4994e8fd3f340abb88693e8f9a5e0a1f59732.json",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/api/norma/normajuridica/4108/",
+      "url_final": "https://sapl.cabodesantoagostinho.pe.leg.br/api/norma/normajuridica/4108/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "a66ffb94bc885c22714cff8a8bd2680c6557ca6449d8976cb64e6424e1727dc5",
+      "bytes": 860,
+      "capturado_em": "2026-10-27T22:07:52.247336-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/98ac595ee4d05e215ffddbef5f19d93fb0942b80113c2de94f36b984f8603a09.json",
+      "sha256": "38d4846962ef64d1c0961097477529d025a719b17cd90060c4c1f9a0913ad1a9",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/98ac595ee4d05e215ffddbef5f19d93fb0942b80113c2de94f36b984f8603a09.meta.json",
+      "sha256_metadata": "fd3ae1702c16df695ca7c73b441d304eb4d8173dacda997dea71fed10e8a79ce",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=38"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/0d5f4a4e0f4641eb2b865179ff5fd7a55343463afc73fdefff9f7b01ec601d53.json",
+      "sha256": "7a62975ffff244c133ffd75ce8ebe1ed23ef29c5a0741c8f6d17d3b983c57cb7",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/0d5f4a4e0f4641eb2b865179ff5fd7a55343463afc73fdefff9f7b01ec601d53.meta.json",
+      "sha256_metadata": "045bbead608d34228a79f0ac18855c1bf71bd24ed295ef00fd54418ea94c6ce0",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/PR/california/leis-ordinarias/2025/leis-ordinarias-2128-2025-sapl-815.md",
+    "sha256_candidato": "df29772574a1a451c7d920617fc3b7b5cb271f151ed4ad21cf813eb1e46f7088",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.california.pr.leg.br/14fe0d0fb84798da8c1fef1a2c5a98bfa64d0eeebfe028f74aa4944d24c4281e.html",
+      "url": "https://sapl.california.pr.leg.br/norma/815",
+      "url_final": "https://sapl.california.pr.leg.br/ta/769/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "744fc6169f1c9b578552d89465a1278f44ed0d448a26bb69fd1e3af99af9a5ee",
+      "bytes": 31012,
+      "capturado_em": "2026-10-27T22:17:26.729451-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.california.pr.leg.br/58a36898e9371ea5444473e3c3ef612edc957a91d70042be45625bce2fa1cc75.json",
+      "url": "https://sapl.california.pr.leg.br/api/norma/normajuridica/815/",
+      "url_final": "https://sapl.california.pr.leg.br/api/norma/normajuridica/815/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "d8cc4f444658090f4e7570b074076423fc6371bdffeb74aa9fc941aacfed091c",
+      "bytes": 1337,
+      "capturado_em": "2026-10-27T22:17:24.604555-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.california.pr.leg.br/9f33fe990cb7e89617669070d9c9eb4adf4c7acd923f588a7b786a3ae19e50a7.json",
+      "sha256": "7e6dbdcf5baa68e16813f6f10eca0cac8b5b937f8f843eefc1b83f1c34903a79",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.california.pr.leg.br/9f33fe990cb7e89617669070d9c9eb4adf4c7acd923f588a7b786a3ae19e50a7.meta.json",
+      "sha256_metadata": "78acff54d9e803c7526d46f5f4023de82241af9db336717869c9f41d761bc168",
+      "url": "https://sapl.california.pr.leg.br/api/compilacao/textoarticulado/?page_size=100&page=1"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.california.pr.leg.br/d1652f75091083cfc2808849e6cc9ed00d17f14c0f76ce37c5d4f1cce032107a.json",
+      "sha256": "45b0d2d45c946b241ba7a56a24da0c4d616ae989162f4584bf2fce3e8bbaad78",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.california.pr.leg.br/d1652f75091083cfc2808849e6cc9ed00d17f14c0f76ce37c5d4f1cce032107a.meta.json",
+      "sha256_metadata": "e62882a9209a2f221078d2dec46cc4222f5470a637940480e04840a9efc91952",
+      "url": "https://sapl.california.pr.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1965/leis-ordinarias-9-1965-sapl-129.md",
+    "sha256_candidato": "6044724201a1f5cd8b8403d31beb65d77e13d1098cb3e090bdc69cd7d2e493b6",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/634c4c0f2e002178109d4d246f7c654b2fb6c6a5ffebdf1377b1d11bf6685554.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/129",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/535/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "237fe6ec9687676a78517841219da92af9b612861d4a8ddec1668b01ee0a4282",
+      "bytes": 21583,
+      "capturado_em": "2026-10-27T22:14:28.826840-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/f0fb80d0ccc9aa1ec8c06438807fd314b6eeedcacdc952e1bd4fcb9e709b29cc.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/129/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/129/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "5a5f5eca08886a68486105fce2162e8ba28f7f17ac02802738d49b612f1c75b3",
+      "bytes": 861,
+      "capturado_em": "2026-10-27T22:14:26.902095-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c1b95c05dd33be62a9431d3e402699e0217f1ef5ec50331800710b87237038ec.json",
+      "sha256": "9f0649cbdd5ecc838b5b89f27d1d444fc59bc8040f2571f68d30bd9e1c8b43ae",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c1b95c05dd33be62a9431d3e402699e0217f1ef5ec50331800710b87237038ec.meta.json",
+      "sha256_metadata": "22ebdee1867e1d17f69bdb1db3a0f6b4eaadc89cd079f629bec0958eac14609c",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1965/leis-ordinarias-8-1965-sapl-128.md",
+    "sha256_candidato": "768f5efb2bcd2f58556508f12542a79f8d74a162ff6dcb576bc78839811cedd2",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/6bc38a1e3ff4d59c1cd3b2876ef881d282ca51d95e44de4f7bde1df34c2d2aa5.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/128",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/534/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "a20635c60a34580e8c607cf49f02022cf125b72fa7d8f801bc8abfd22afc9fae",
+      "bytes": 21500,
+      "capturado_em": "2026-10-27T22:14:31.240270-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/e57d0f2afea928af625864cf79d45240b4fa2bbdd1399bea0423e7b1c6db96ae.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/128/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/128/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "db943bb255730ae03a3e5c02cc45d83fcd3a6abcc5db1da22ad85da8d7a9942a",
+      "bytes": 778,
+      "capturado_em": "2026-10-27T22:14:29.307882-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c1b95c05dd33be62a9431d3e402699e0217f1ef5ec50331800710b87237038ec.json",
+      "sha256": "9f0649cbdd5ecc838b5b89f27d1d444fc59bc8040f2571f68d30bd9e1c8b43ae",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c1b95c05dd33be62a9431d3e402699e0217f1ef5ec50331800710b87237038ec.meta.json",
+      "sha256_metadata": "22ebdee1867e1d17f69bdb1db3a0f6b4eaadc89cd079f629bec0958eac14609c",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1965/leis-ordinarias-6-1965-sapl-126.md",
+    "sha256_candidato": "56cfc2b9506eade403dee812d04da012f65fef8d1db8ee0928ba6a889550e542",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/d805987ea17bbc355df92d2cd0c4f223cfafa00c5225da20d58ab77365486baa.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/126",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/532/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "82c5c7788a9bc2c5ae06a9b50af1eed97346715d04e93d084f15b26b95776a53",
+      "bytes": 21028,
+      "capturado_em": "2026-10-27T22:14:35.866889-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/6c770d1ce2bf74a77251abbfb8d6fe1e9f42fb86576383b9ab6f8c4278dce58c.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/126/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/126/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "e1d76dc4663446933ef1273e685276ac5ec25539c61e7d1b3099b195f720710a",
+      "bytes": 843,
+      "capturado_em": "2026-10-27T22:14:34.326004-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c1b95c05dd33be62a9431d3e402699e0217f1ef5ec50331800710b87237038ec.json",
+      "sha256": "9f0649cbdd5ecc838b5b89f27d1d444fc59bc8040f2571f68d30bd9e1c8b43ae",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c1b95c05dd33be62a9431d3e402699e0217f1ef5ec50331800710b87237038ec.meta.json",
+      "sha256_metadata": "22ebdee1867e1d17f69bdb1db3a0f6b4eaadc89cd079f629bec0958eac14609c",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1965/leis-ordinarias-10-1965-sapl-130.md",
+    "sha256_candidato": "6b7f6585980ba8f42426ad90def466d25c63549f8d9a7ee3227eb22733ae3fba",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/e43b9d1b27c718c0346271c7ca8bb5bc833a7ab2e2207267df38398d3aa33836.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/130",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/536/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "d9c6a9dac7a66f1064f3a1037e5035150afbbca25e2246d7cff77805c6197a96",
+      "bytes": 23159,
+      "capturado_em": "2026-10-27T22:14:38.220083-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/38783cc6e3b1b511408c4982c80820a4a6039ae9bb12623e4e45cb9434a7db13.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/130/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/130/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3ab1486c74023318790816437bb48416a4768bad11bea47de8e87420289017ab",
+      "bytes": 898,
+      "capturado_em": "2026-10-27T22:14:36.104533-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c1b95c05dd33be62a9431d3e402699e0217f1ef5ec50331800710b87237038ec.json",
+      "sha256": "9f0649cbdd5ecc838b5b89f27d1d444fc59bc8040f2571f68d30bd9e1c8b43ae",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c1b95c05dd33be62a9431d3e402699e0217f1ef5ec50331800710b87237038ec.meta.json",
+      "sha256_metadata": "22ebdee1867e1d17f69bdb1db3a0f6b4eaadc89cd079f629bec0958eac14609c",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1965/leis-ordinarias-5-1965-sapl-125.md",
+    "sha256_candidato": "652cbd0bbda31fc0bf861f0b6227f66f5076cea9374d60010dc999b85ad8ee43",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/701dbf25879f93fe5bff2458c5080e5a7eb5a10fb9527dc4f4942989cca4e120.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/125",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/531/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "f2a96aaa03b22e0daf2a11c670999cde25c3007ea8832c9af24bde1363c64ef0",
+      "bytes": 21163,
+      "capturado_em": "2026-10-27T22:14:40.416438-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/a0507f2de4edcc579c3e8baad52e8ccb77c511dd1650b49f11786c1821c1da8c.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/125/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/125/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "6fa18822f4054c5c9f291e098132c7236ee1adf43a7c0db7089d6257229b1617",
+      "bytes": 863,
+      "capturado_em": "2026-10-27T22:14:38.504414-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c1b95c05dd33be62a9431d3e402699e0217f1ef5ec50331800710b87237038ec.json",
+      "sha256": "9f0649cbdd5ecc838b5b89f27d1d444fc59bc8040f2571f68d30bd9e1c8b43ae",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c1b95c05dd33be62a9431d3e402699e0217f1ef5ec50331800710b87237038ec.meta.json",
+      "sha256_metadata": "22ebdee1867e1d17f69bdb1db3a0f6b4eaadc89cd079f629bec0958eac14609c",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1965/leis-ordinarias-3-1965-sapl-123.md",
+    "sha256_candidato": "b5dd9a3de74d2418fccc58a967771cc502434a0c0e940cae7c44185250d49333",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/cf266033b63f52bb41bc118a878611ac61e2485d8ec95ac04d300752929ca836.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/123",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/504/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "b29414dae0acdc4e3f552057994ef041f41c2a19da2c1ada89d8dd7f073b3cfa",
+      "bytes": 20362,
+      "capturado_em": "2026-10-27T22:14:45.418492-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/856c6837119b360582bb09f1b91b3f4a5091a2c909295360ed655fe36793af52.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/123/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/123/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "fcca6820fdbd53f73aa46e5209b322feea1ee85a890162c665aef3fd48e794d9",
+      "bytes": 920,
+      "capturado_em": "2026-10-27T22:14:43.304642-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c1b95c05dd33be62a9431d3e402699e0217f1ef5ec50331800710b87237038ec.json",
+      "sha256": "9f0649cbdd5ecc838b5b89f27d1d444fc59bc8040f2571f68d30bd9e1c8b43ae",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c1b95c05dd33be62a9431d3e402699e0217f1ef5ec50331800710b87237038ec.meta.json",
+      "sha256_metadata": "22ebdee1867e1d17f69bdb1db3a0f6b4eaadc89cd079f629bec0958eac14609c",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1965/leis-ordinarias-1-1965-sapl-121.md",
+    "sha256_candidato": "fe937cbe795361e8c050369290151d5a0437ea2a4ca2adf4ef797c48b98968a2",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/be880bfbae03e17676bcbd9f24ad10190996d6026c512054e91795d3bc9bf0cb.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/121",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/502/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "a4bcc832a8628a0966a5a86907bb35f0c8a0a4cd4257151c07c525807066c607",
+      "bytes": 21629,
+      "capturado_em": "2026-10-27T22:14:50.168069-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/e200497c436f65e5535ceb36f4baec0507c2fa3a5b365c9f39ab83db23119f1a.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/121/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/121/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "95bd9ddd9014acf35730a329c2ba24eaa103789ff9d13d28dae4d539de12f508",
+      "bytes": 813,
+      "capturado_em": "2026-10-27T22:14:48.103707-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c1b95c05dd33be62a9431d3e402699e0217f1ef5ec50331800710b87237038ec.json",
+      "sha256": "9f0649cbdd5ecc838b5b89f27d1d444fc59bc8040f2571f68d30bd9e1c8b43ae",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/c1b95c05dd33be62a9431d3e402699e0217f1ef5ec50331800710b87237038ec.meta.json",
+      "sha256_metadata": "22ebdee1867e1d17f69bdb1db3a0f6b4eaadc89cd079f629bec0958eac14609c",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=17"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/PE/cabo-de-santo-agostinho/leis-ordinarias/1972/leis-ordinarias-1074-1972-sapl-4678.md",
+    "sha256_candidato": "51d1d6431802840ce586808c896a4fb09fb7b3d8a80a9bf66bb9cdad0b12548d",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/20c3983b086c171513fb150478c52340d75629838608e18d582ddbae9026d11b.html",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/norma/4678",
+      "url_final": "https://sapl.cabodesantoagostinho.pe.leg.br/ta/4751/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "dbc5c7f4dc2417b14e21115f7f2685aaa52bddd92a6bbcfb23b7b17bc1076b5f",
+      "bytes": 21415,
+      "capturado_em": "2026-10-27T22:13:37.561522-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/45f5e93016b2cb2bc908f9bdcdd049a966bab2b6a11c59e79bfa3c6c26023090.json",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/api/norma/normajuridica/4678/",
+      "url_final": "https://sapl.cabodesantoagostinho.pe.leg.br/api/norma/normajuridica/4678/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "8c32fda082155873861f051e58ca32e24fd20a991b305ebcb702f3fe4f8c16c6",
+      "bytes": 905,
+      "capturado_em": "2026-10-27T22:13:35.634289-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/a98e82e16318db5de11168b7434859229cb92883c354da6117ae38e2c425919c.json",
+      "sha256": "91bef703b278f72183f522940e5210f35711d80b0136f04bca4acd128bd05f06",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/a98e82e16318db5de11168b7434859229cb92883c354da6117ae38e2c425919c.meta.json",
+      "sha256_metadata": "d218cf9efedd5c8337147813297dfbba829cb22f0b0a26c92f946e92e96111bf",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/api/compilacao/textoarticulado/?page_size=100&page=39"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/0d5f4a4e0f4641eb2b865179ff5fd7a55343463afc73fdefff9f7b01ec601d53.json",
+      "sha256": "7a62975ffff244c133ffd75ce8ebe1ed23ef29c5a0741c8f6d17d3b983c57cb7",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cabodesantoagostinho.pe.leg.br/0d5f4a4e0f4641eb2b865179ff5fd7a55343463afc73fdefff9f7b01ec601d53.meta.json",
+      "sha256_metadata": "045bbead608d34228a79f0ac18855c1bf71bd24ed295ef00fd54418ea94c6ce0",
+      "url": "https://sapl.cabodesantoagostinho.pe.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1956/leis-ordinarias-1-1956-sapl-30.md",
+    "sha256_candidato": "b9505d6592c1bc31615b58b83d5b4759e0744270b97cf0be40396ac2c03ea568",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/3f2fe9e0b6a45c1b632772340ba8dc9680a81647aaa7bbca7b5d28dbe61841c8.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/30",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/402/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "390143d9032f3b4f20462abf2057435b5b74437bdfc492e5f607c181c015bfda",
+      "bytes": 21105,
+      "capturado_em": "2026-10-27T22:17:30.514332-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/3ee04c88b6a6967015337f70165161b0e40c46808e9fbe673148e76f6cfc29bc.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/30/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/30/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "293ee5fcfef68a3a19779b591952ecd54036fa1a97a7bcec21336e744472148a",
+      "bytes": 861,
+      "capturado_em": "2026-10-27T22:17:28.811198-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/deb0a1c5ddc49f3e1f76de8c47d31dab304ac4e575be2830df2f7a72de064924.json",
+      "sha256": "13c4a3bb8cbc955637b4f7a2c3c4ba882d08c3d76566d702c74b61a49048656b",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/deb0a1c5ddc49f3e1f76de8c47d31dab304ac4e575be2830df2f7a72de064924.meta.json",
+      "sha256_metadata": "c54c421f61653b9ec04c7144ef1d7953e87f80518394baf59f09ca26d0c3da3e",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/GO/cacu/leis-ordinarias/1955/leis-ordinarias-3-1955-sapl-29.md",
+    "sha256_candidato": "bc46030d11fd5ff32e866b1e097b437482751529e0ead89cbcce68c24ecf7b33",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/3a1d21280d1fd9e19fb9e2c582947af8f68862c1e722f7c076beb0350f3b2265.html",
+      "url": "https://sapl.cacu.go.leg.br/norma/29",
+      "url_final": "https://sapl.cacu.go.leg.br/ta/401/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "fcabe940b6cc6c8d09a52ae2a54e7a29efa0890ad9c7a49f72adb130fb819f3d",
+      "bytes": 20983,
+      "capturado_em": "2026-10-27T22:17:33.121827-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/5d13f5c37603288fd4d702b32383969f44bf0df6cce32deaacde778efdb48884.json",
+      "url": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/29/",
+      "url_final": "https://sapl.cacu.go.leg.br/api/norma/normajuridica/29/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "3c51d0451f2e16fb3ec2eff2d81980c7daf6de430a9fc4389496b5957fd9add1",
+      "bytes": 772,
+      "capturado_em": "2026-10-27T22:17:31.215865-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/deb0a1c5ddc49f3e1f76de8c47d31dab304ac4e575be2830df2f7a72de064924.json",
+      "sha256": "13c4a3bb8cbc955637b4f7a2c3c4ba882d08c3d76566d702c74b61a49048656b",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/deb0a1c5ddc49f3e1f76de8c47d31dab304ac4e575be2830df2f7a72de064924.meta.json",
+      "sha256_metadata": "c54c421f61653b9ec04c7144ef1d7953e87f80518394baf59f09ca26d0c3da3e",
+      "url": "https://sapl.cacu.go.leg.br/api/compilacao/textoarticulado/?page_size=100&page=18"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.json",
+      "sha256": "e6252408c93a3a6e0661a47e8d8083311b115319caff0c6193a261e0adf13514",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.cacu.go.leg.br/84985ce08da2030b735f99369f54230d5df4007d3531f33bd24dc641efaa7231.meta.json",
+      "sha256_metadata": "005c6f9e828a0b80aac285604e2b3e4cc288baad315c8e6721dd3f853a721f0c",
+      "url": "https://sapl.cacu.go.leg.br/api/base/casalegislativa/"
+    }
+  },
+  {
+    "path": "municipais/MG/buritis/leis-ordinarias/1971/leis-ordinarias-8-1971-sapl-787.md",
+    "sha256_candidato": "117f2342d9af090cc68bf8fb573f0679b9b60b774ea125c35756adbcd261fc51",
+    "prova_frontend": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/bac04d6234b8f858cd9e93be4c9d99385d1bc2fe94e6a3b33eb28f44d19e188c.html",
+      "url": "https://sapl.buritis.mg.leg.br/norma/787",
+      "url_final": "https://sapl.buritis.mg.leg.br/ta/1109/text",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "e23eecbbc9dff449c9206caadfee308aafec70b8504c08b31304fbbd3d71b78d",
+      "bytes": 21092,
+      "capturado_em": "2026-10-27T20:58:42.006863-03:00"
+    },
+    "prova_norma": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/da9e30b80ec70cd110ebc71985ee0d3eff1f9198dc71806bdca61123609664f0.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/norma/normajuridica/787/",
+      "url_final": "https://sapl.buritis.mg.leg.br/api/norma/normajuridica/787/",
+      "status": 200,
+      "content_type": "application/json",
+      "sha256": "1db7514393f63b4a1154d26be5c523fa31c46ac0d1a9276a42901711dfd7cef4",
+      "bytes": 868,
+      "capturado_em": "2026-10-27T20:58:40.083456-03:00"
+    },
+    "prova_ta": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/e95e782a015363d856a8daff2641cb6c2a4d9ab9aee67ff414bf3be95cc802ca.json",
+      "sha256": "767205bbca076f1a322efc6b2705b1b66927f602d873e4038e6c81915bb2108e",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/e95e782a015363d856a8daff2641cb6c2a4d9ab9aee67ff414bf3be95cc802ca.meta.json",
+      "sha256_metadata": "aacd288c4cd317ada54ec4ee518d5827d44938a6f64068794cf9586a23735547",
+      "url": "https://sapl.buritis.mg.leg.br/api/compilacao/textoarticulado/?page_size=100&page=22"
+    },
+    "prova_casa": {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/0d5ed88fa5f4964f90af9947d83dfdcb25abd608a077880db9b35586ad22cda1.json",
+      "sha256": "89991057fd0be5431b21e816bb13f30e0b4b66e06e5b810e7d1b580cae7675eb",
+      "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/0d5ed88fa5f4964f90af9947d83dfdcb25abd608a077880db9b35586ad22cda1.meta.json",
+      "sha256_metadata": "958ec4822c6d8b941bc349bb04c47fa724e583d45b3f5236a856a7a275db3e18",
+      "url": "https://sapl.buritis.mg.leg.br/api/base/casalegislativa/"
+    }
+  }
+]

@@ -1,0 +1,2547 @@
+{
+  "normas": 59,
+  "candidatos_auditados": 422,
+  "retidos": 363,
+  "criterio": "Fonte pública oficial, IBGE, esfera M, epígrafe literal, contexto integral, anexos próprios ausentes conforme índice completo e replay independente CommonMark/GFM preservando pontuação, sinais e numeração efetiva.",
+  "data_captura": "Dia derivado da captura original, com America/Recife para timestamps com offset; ausência de offset declarada sem fingir recaptura.",
+  "vigencia": "Cortes e situação atribuídos à fonte padrão pública. Não certifica atualização ou vigência jurídica integral.",
+  "validacao": {
+    "auditoria_municipal": 0,
+    "replay_retidos": 0,
+    "colisoes": 0,
+    "comparados": 26779
+  },
+  "arquivos": [
+    {
+      "arquivo": "municipais/MG/alpinopolis/leis-ordinarias/2023/leis-ordinarias-2.403-2023-sapl-4.md",
+      "sha256": "a9efae768ed27458a70f16650a871eb26e60434fbf7820d5903c2ab94dfd2528",
+      "bytes": 3631
+    },
+    {
+      "arquivo": "municipais/MG/buritis/leis-complementares/2008/leis-complementares-49-2008-sapl-100.md",
+      "sha256": "2748672952ee1bc1503f648d7eff10e2e977bc760495bb911c58ff958fca8cf7",
+      "bytes": 2732
+    },
+    {
+      "arquivo": "municipais/MG/buritis/leis-complementares/2009/leis-complementares-61-2009-sapl-58.md",
+      "sha256": "165894fea9d482f145d754d28dffac4b20f2fde36286dcf049d3ca865337c53d",
+      "bytes": 1932
+    },
+    {
+      "arquivo": "municipais/MG/buritis/leis-ordinarias/2008/leis-ordinarias-1133-2008-sapl-539.md",
+      "sha256": "9c648308621f5e8cd3f19b04a4ffbe0d8d8885665f5379931726dc4d2913b9fa",
+      "bytes": 17396
+    },
+    {
+      "arquivo": "municipais/MG/buritis/leis-ordinarias/2009/leis-ordinarias-1136-2009-sapl-542.md",
+      "sha256": "77fd89334a09b800f199b03fedecb3de9b0f3a8514b6f4756e7cbb1fa4b2c6f6",
+      "bytes": 2700
+    },
+    {
+      "arquivo": "municipais/MG/buritis/leis-ordinarias/2009/leis-ordinarias-1144-2009-sapl-550.md",
+      "sha256": "d7cede3a1d1061f7d28a09af55f9a0d055005393a281b6fc9f4f33388a1165f1",
+      "bytes": 9556
+    },
+    {
+      "arquivo": "municipais/MG/buritis/leis-ordinarias/2009/leis-ordinarias-1145-2009-sapl-551.md",
+      "sha256": "aa96d7cb2d508c7b99f9e6ed751b9c87557b5bc5015f55a7339f32dab3dbd4ee",
+      "bytes": 25219
+    },
+    {
+      "arquivo": "municipais/MG/buritis/leis-ordinarias/2009/leis-ordinarias-1146-2009-sapl-552.md",
+      "sha256": "d66bd988817c559f4dea95aab66b4448f12a3921ff74ab56fff6026f515ad8e0",
+      "bytes": 2082
+    },
+    {
+      "arquivo": "municipais/MG/buritis/leis-ordinarias/2009/leis-ordinarias-1150-2009-sapl-556.md",
+      "sha256": "120cc0477c06177296a6e3c90cd66c65f41804fa457fd026ff3ab6efe37b28a5",
+      "bytes": 3471
+    },
+    {
+      "arquivo": "municipais/MG/buritis/leis-ordinarias/2009/leis-ordinarias-1151-2009-sapl-557.md",
+      "sha256": "eed63bda851f203a907147c9e9ff99aaf9ed5a343d559956e7604523b81b3e6f",
+      "bytes": 2423
+    },
+    {
+      "arquivo": "municipais/MG/buritis/leis-ordinarias/2009/leis-ordinarias-1154-2009-sapl-559.md",
+      "sha256": "a4fcd991d1e10534516f34183a426a2218f7f05857e5565d35ecef8bf47a788e",
+      "bytes": 1723
+    },
+    {
+      "arquivo": "municipais/MG/buritis/leis-ordinarias/2009/leis-ordinarias-1156-2009-sapl-561.md",
+      "sha256": "6a0e20229e0e8b93f4fa2e29cf4016461ea0039efdf4f42568d3fd3210a2ff2c",
+      "bytes": 3976
+    },
+    {
+      "arquivo": "municipais/MG/buritis/leis-ordinarias/2009/leis-ordinarias-1157-2009-sapl-562.md",
+      "sha256": "73304124971c4afe2f969233debd2fdba9ddb20348ca281cee6355983c11e02f",
+      "bytes": 7260
+    },
+    {
+      "arquivo": "municipais/MG/buritis/leis-ordinarias/2009/leis-ordinarias-1158-2009-sapl-563.md",
+      "sha256": "0ef595909ea04d6accd5f4b1d72ffebc8cd391732f810d3d2a5c04d650665460",
+      "bytes": 7093
+    },
+    {
+      "arquivo": "municipais/MG/buritis/leis-ordinarias/2009/leis-ordinarias-1160-2009-sapl-565.md",
+      "sha256": "75050c985a720dfb99bfd1593a11253bd0e43e114dc0f4a1f3bcd2fee7be7044",
+      "bytes": 2828
+    },
+    {
+      "arquivo": "municipais/MG/buritis/leis-ordinarias/2009/leis-ordinarias-1161-2009-sapl-566.md",
+      "sha256": "ecce0e847e711a24853c015de261bd3f39d3c6cc5f1c8bf195dacf37e27bc247",
+      "bytes": 1680
+    },
+    {
+      "arquivo": "municipais/MG/buritis/leis-ordinarias/2009/leis-ordinarias-1164-2009-sapl-569.md",
+      "sha256": "8dd5330be833d740be4369078626c68db02e31e9633b91e6e534fe63d2e569f0",
+      "bytes": 1675
+    },
+    {
+      "arquivo": "municipais/MG/buritis/leis-ordinarias/2009/leis-ordinarias-1165-2009-sapl-570.md",
+      "sha256": "b150ac1cc89a0e534ca9a15c97e08e1a6de7b312707d4cb0824f8c11058da3d3",
+      "bytes": 1762
+    },
+    {
+      "arquivo": "municipais/MG/buritis/resolucoes/2009/resolucoes-184-2009-sapl-1888.md",
+      "sha256": "ef216864211268de658d3816bd298d2cc1e7df978d681d5560e2f0fbf9d92456",
+      "bytes": 2468
+    },
+    {
+      "arquivo": "municipais/MG/buritis/resolucoes/2009/resolucoes-186-2009-sapl-1890.md",
+      "sha256": "c307df354cceeb54d988258711146a1b04a14579c7f7eb1880246ea8eddad902",
+      "bytes": 1823
+    },
+    {
+      "arquivo": "municipais/MG/buritis/resolucoes/2009/resolucoes-187-2009-sapl-1891.md",
+      "sha256": "1824bbce7e0f2d9629435c33e569d78e5d93c6befc3b73a019ac27e6286c22b4",
+      "bytes": 1906
+    },
+    {
+      "arquivo": "municipais/MG/buritis/resolucoes/2009/resolucoes-188-2009-sapl-1892.md",
+      "sha256": "d4104fbb95acb573c01b868725cd2b023f5f85dbc5e83a37038b7688feec723e",
+      "bytes": 1915
+    },
+    {
+      "arquivo": "municipais/MG/buritis/resolucoes/2009/resolucoes-189-2009-sapl-1893.md",
+      "sha256": "dc2274de457ecfe400a4d39b7c2f0ed6318e74f6c8be83264ad315350c919745",
+      "bytes": 1980
+    },
+    {
+      "arquivo": "municipais/MG/buritis/resolucoes/2009/resolucoes-190-2009-sapl-1894.md",
+      "sha256": "7ccc54fe2edd0fd00f01bacbe7d9ee8f832a8c8943c068425146f4075e7250d9",
+      "bytes": 1941
+    },
+    {
+      "arquivo": "municipais/MG/buritis/resolucoes/2009/resolucoes-191-2009-sapl-1895.md",
+      "sha256": "81c10b16709dce1e2f2357d2293bee220d9e6dcf835edb19af1fb7944dec23b1",
+      "bytes": 1975
+    },
+    {
+      "arquivo": "municipais/MG/buritis/resolucoes/2009/resolucoes-192-2009-sapl-1896.md",
+      "sha256": "7c0e17b966bdd2a8e8a307bbcb9447c339f28578f369a27895496bc7696feef8",
+      "bytes": 1967
+    },
+    {
+      "arquivo": "municipais/MG/buritis/resolucoes/2009/resolucoes-193-2009-sapl-1897.md",
+      "sha256": "107ad2554599bfe7911c972ff99ca1c361d9d15ece175a507516daebe9bd837c",
+      "bytes": 1951
+    },
+    {
+      "arquivo": "municipais/MG/buritis/resolucoes/2009/resolucoes-194-2009-sapl-1898.md",
+      "sha256": "1a9ffb4fc8ece5b6e588be587281b223893263dfcc6568cbe0bd8b393ed25a07",
+      "bytes": 1936
+    },
+    {
+      "arquivo": "municipais/MG/buritis/resolucoes/2009/resolucoes-195-2009-sapl-1899.md",
+      "sha256": "3372271adcf3fc80204995961d7507f09c62208b2774dfb225210a803c7b005a",
+      "bytes": 1923
+    },
+    {
+      "arquivo": "municipais/MG/buritis/resolucoes/2009/resolucoes-196-2009-sapl-1900.md",
+      "sha256": "b2250e87cb704c323818299c26df73335fb84f94d20b87aae39668330baf7a1b",
+      "bytes": 1873
+    },
+    {
+      "arquivo": "municipais/MG/buritis/resolucoes/2009/resolucoes-197-2009-sapl-1901.md",
+      "sha256": "4af2abc1ccc6309c54dc650ed915d9a03a44a903827818991c02bd98d00fea7d",
+      "bytes": 1904
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-847-2025-sapl-1281.md",
+      "sha256": "55cfb17fe6a6253293878ad47cd8728566446f978fe57ad5f496a2440a73b692",
+      "bytes": 14295
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-849-2025-sapl-1283.md",
+      "sha256": "5f4dbc24bc180abab23360bacd7692c46a72059ab5388ff4906b3f70fbde2bd0",
+      "bytes": 2474
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-852-2025-sapl-1286.md",
+      "sha256": "8da25b1ec8df60512941b1b2f4648a72a03f3133ad2353fae7c2d1e62ced3d84",
+      "bytes": 4139
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-854-2025-sapl-1290.md",
+      "sha256": "054904397914c405823e286ae920f49be26176e87e1fc20228e573ac50d93be1",
+      "bytes": 26669
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-859-2025-sapl-1308.md",
+      "sha256": "447f5d807b35b1d9b901797483323cf7093622656120ec42366a184bc5031df5",
+      "bytes": 4240
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-860-2025-sapl-1309.md",
+      "sha256": "392eda32dee47b46272137c98294aa074fce542235208aa8cf3c53f3ef75b905",
+      "bytes": 16037
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-863-2025-sapl-1312.md",
+      "sha256": "534ecb4b7f8c572685a2d6ce52b501b284fe106fbb03348779ea4a4693b40be4",
+      "bytes": 7163
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-865-2025-sapl-1314.md",
+      "sha256": "f3423198a731207d612916661c27455ff71e3ea0144e0eca0e433532b57556c7",
+      "bytes": 1826
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-867-2025-sapl-1323.md",
+      "sha256": "37b9c2988733d02f7b42ae23f46e7a2cdf67a3c369fa427534ab672b134c024f",
+      "bytes": 8301
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-869-2025-sapl-1327.md",
+      "sha256": "a57f322dc917c48a9ffbb7d297cb6c1df517845e1e7295084d8e5fa2ea223bf6",
+      "bytes": 3076
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-871-2025-sapl-1329.md",
+      "sha256": "a5263caac39d1479567149907c498eee652bd5a02146ba2cff1384b5ff31fb5a",
+      "bytes": 4939
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-872-2025-sapl-1330.md",
+      "sha256": "f82030159c2f9ca48dc222e5025f2122c22ea2ad069aedf38343c735e0d3e963",
+      "bytes": 5052
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-874-2025-sapl-1332.md",
+      "sha256": "4772b0ad17c780c74a5c5de3809a7400c061d6913e254c5c3adc0fadedc85360",
+      "bytes": 3719
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-875-2025-sapl-1334.md",
+      "sha256": "bdc434b8fd4d41d17990b174fe707c3f7bad63031f66a2f6174327767090b3c4",
+      "bytes": 13558
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-876-2025-sapl-1344.md",
+      "sha256": "d69987179362853550a278e724e7f36ac5537984a268697103f93e0f41169cd9",
+      "bytes": 2007
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-877-2025-sapl-1345.md",
+      "sha256": "1803b57824efce4feb894fada6bb7a27683ee03c9b0a1d450d7ff383ba5ff964",
+      "bytes": 5627
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-878-2025-sapl-1346.md",
+      "sha256": "5ce0a4d748d87b1004f96a0d8c73e03b4e27d1244325d9cfdc92ead83b688798",
+      "bytes": 4523
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-879-2025-sapl-1347.md",
+      "sha256": "e0e8e0fb01bf7475137ab0499d0817f2a30b30e97d0f7776f6d234de90457aab",
+      "bytes": 3271
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-881-2025-sapl-1349.md",
+      "sha256": "563030166792432175d44eb82ac9aefedc38734f96266a37ba8c5eded45883a4",
+      "bytes": 6279
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-886-2025-sapl-1360.md",
+      "sha256": "5dea5e865975813ea1cc47a1eb354af63066085b51a560519eeb793913d8837f",
+      "bytes": 4115
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-887-2025-sapl-1361.md",
+      "sha256": "b8d7c7fa37e1ffdb152ea6b141192cd30dcd84ddfb72f0aba8aca3aa7653ae8a",
+      "bytes": 4241
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-888-2025-sapl-1362.md",
+      "sha256": "ba24c29187cd44d1a8eac67ba329be8336f7cae78186e1eb6bc634622d18f36f",
+      "bytes": 3012
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-890-2025-sapl-1364.md",
+      "sha256": "841f24dda44e8eb19351a15e22840d38e20c1073f75346c5d4b406bfa84e9d77",
+      "bytes": 3476
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-891-2025-sapl-1365.md",
+      "sha256": "6b07e0081f3ba08efe2f5f415a2cdae7205da05e2d09e6ed3162d99dd8ef501a",
+      "bytes": 3181
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-894-2025-sapl-1375.md",
+      "sha256": "01084c026d6a97efbf084730460349f83f47eea6858dae061075c61ff1f389f7",
+      "bytes": 4805
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-896-2025-sapl-1377.md",
+      "sha256": "a9d71607e86010702b5381bc34304f0a2368ab54908d70cf861d34e0e3529147",
+      "bytes": 3441
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-899-2025-sapl-1380.md",
+      "sha256": "5164fc43767dad9b8064f2f9d45043b9c67725b8f9749bcc721ba925a027dd10",
+      "bytes": 4722
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-901-2025-sapl-1382.md",
+      "sha256": "4e2c15c0be422beaaa654f40c30d56e687c77127953659f0cba281e38f1f6939",
+      "bytes": 1998
+    },
+    {
+      "arquivo": "municipais/MG/cabeceira-grande/leis-ordinarias/2025/leis-ordinarias-902-2025-sapl-1383.md",
+      "sha256": "2a574a195975b35d289b10ff5d1b02781068000a42b846c1c9fb798506490a84",
+      "bytes": 3289
+    },
+    {
+      "arquivo": "municipais/RO/porto-velho/decretos/2026/decretos-22538-2026-sapl-29880.md",
+      "sha256": "ea7e93ea3112ae180c8314d4be50a218a97452fbfda1d6a421462ec50ed714a3",
+      "bytes": 5366
+    },
+    {
+      "arquivo": "municipais/RS/erechim/leis-ordinarias/2020/leis-ordinarias-6689-2020-sapl-18530.md",
+      "sha256": "10d5e9f2fbfc7ac65ddacde78b8e3adf1ebcfe85949924d2b3ceb47b1e209d54",
+      "bytes": 17926
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/fortaleza/compilacao.0baf3580.css",
+      "sha256": "31186f5e22b63dc7c5c34a4c24bc416a09da131005fe2cd90bfdd5321e84a8df",
+      "bytes": 50078
+    },
+    {
+      "arquivo": "municipais/_fonte/capitais/fortaleza/compilacao.148cb66b.js",
+      "sha256": "3d940d97a07fda745815e51ae35975109ec98b5922d95f6915cde0ffd72739d0",
+      "bytes": 24087
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alpinopolis.mg.leg.br/781c1a65e50d8e5368826cdad624a0f55154b8d537ae927abb7c71326150d306.json",
+      "sha256": "2d7052280a402261bca6c4e71abca99a3f7afc3181f8dd4bc2d15ce9f5519779",
+      "bytes": 803
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.alpinopolis.mg.leg.br/ec75304c334f5692da6d44754fa6671433a309ddeaedb698bcf434836b80c4a1.html",
+      "sha256": "c2a43236e266c9d72eba31948aa86e1a1c636ed1a38ae934fadc5be249a3fef4",
+      "bytes": 22936
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/8a52139a9f5ac9183785518b9b83fe88d3f004045330f081d2f4e4e33374d958.json",
+      "sha256": "f215d702a87a0fce514e093cd28d5fd26f897c131cc9315b77be1ca166b8d7ca",
+      "bytes": 598
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.birigui.sp.leg.br/8a52139a9f5ac9183785518b9b83fe88d3f004045330f081d2f4e4e33374d958.meta.json",
+      "sha256": "63f38b5283358fb45b86f97210bdc5238d0d7838667ae9f54bb21eea1bcac23c",
+      "bytes": 401
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.brasilandiademinas.mg.leg.br/88b46f309f02967c6f2165aa029e11cd4f2bcbe154b118a96943291fe33102c4.json",
+      "sha256": "833dca2a8fb4e3d6bd2ff8766d5445b11b423545c14901c885b710007442d175",
+      "bytes": 178
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.brasilandiademinas.mg.leg.br/88b46f309f02967c6f2165aa029e11cd4f2bcbe154b118a96943291fe33102c4.meta.json",
+      "sha256": "901490828b47208379bbf59ef2b0f8f861f350cd969ffe329aa31ed68ad20a7e",
+      "bytes": 423
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/00a401eef45c3b8b14319a511ec2bd78b58461712416b8b43d8e1c616440f624.json",
+      "sha256": "468cc059b1b87728d0bb7d1ee30ac3010773f2180236b7603cb32b0d9a18c896",
+      "bytes": 942
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/00a401eef45c3b8b14319a511ec2bd78b58461712416b8b43d8e1c616440f624.meta.json",
+      "sha256": "c3586f12d9ea3af2bff8e2a2e43bee4414605f7e12909e7e279f73c028ccb13f",
+      "bytes": 359
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/035aa3e4e2d3c903af08ab8164e5bbbfb8226f10ac64b1401f9f8c413290ceb1.html",
+      "sha256": "44d5422f617faee7249428895124921046e9f7be50aa8721cac90366e5ccabfe",
+      "bytes": 43937
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/035aa3e4e2d3c903af08ab8164e5bbbfb8226f10ac64b1401f9f8c413290ceb1.meta.json",
+      "sha256": "69fa8afc7616a4d10d3b1570f07a0de9ff9b334b52b2e6d229f82a40cef595fc",
+      "bytes": 332
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/06e210546206aadf4b6a7f5c45418a009f0c29bc7893242ca1bec319fc560db8.html",
+      "sha256": "91a9fb1b13236ce820a21064d3684251eca34aa2d876b202dbf42c719af54aa6",
+      "bytes": 19561
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/06e210546206aadf4b6a7f5c45418a009f0c29bc7893242ca1bec319fc560db8.meta.json",
+      "sha256": "37dddec8545806089152f021efe1b82d83ab241589f65b292c8f19299cc7e9c2",
+      "bytes": 333
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/0c24a1fc4684f3a789ffe98a731c5c9a7020b8e10ca2be6e1bdfab92b4b1f4d3.html",
+      "sha256": "15a0de9cc753284ab315ec71f533258b1dfe9353b723a5b69b2242c5ba3e0cd2",
+      "bytes": 19901
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/0c24a1fc4684f3a789ffe98a731c5c9a7020b8e10ca2be6e1bdfab92b4b1f4d3.meta.json",
+      "sha256": "e1fc097e26e8a74ced9d29590630dc65324e5e696e1581c122f00dece53a1b77",
+      "bytes": 333
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/0d5ed88fa5f4964f90af9947d83dfdcb25abd608a077880db9b35586ad22cda1.json",
+      "sha256": "89991057fd0be5431b21e816bb13f30e0b4b66e06e5b810e7d1b580cae7675eb",
+      "bytes": 706
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/0d5ed88fa5f4964f90af9947d83dfdcb25abd608a077880db9b35586ad22cda1.meta.json",
+      "sha256": "958ec4822c6d8b941bc349bb04c47fa724e583d45b3f5236a856a7a275db3e18",
+      "bytes": 351
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/0e750d3cd5b6a4b6b8db498489b3ef1c3523130df8413f707df9177d1e760118.html",
+      "sha256": "12d43c7be91f0f7075e771e1432d234abf46768cd5d1edfc2e3998f147bc2458",
+      "bytes": 51534
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/0e750d3cd5b6a4b6b8db498489b3ef1c3523130df8413f707df9177d1e760118.meta.json",
+      "sha256": "5b676db70e48ad14e45929ac94ecab0c1974f4fc48a1439dc9b4d532d176f128",
+      "bytes": 331
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/1651ace994e09541d83e3c3af5143cdfe2de12e00fca1e7bf9effeb8a27ffd67.json",
+      "sha256": "2c2b30896815a2b59e9286a42d265df350ceccae12180d94a1146e34a48e69e1",
+      "bytes": 1048
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/1651ace994e09541d83e3c3af5143cdfe2de12e00fca1e7bf9effeb8a27ffd67.meta.json",
+      "sha256": "c9c51a4823d2b64b9ac6d21d279fd638d71bfa83a51979717269352dc1967788",
+      "bytes": 358
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/170acca52cca78d24fbbc238a1186a4928ad163a97005ce9370999461158b628.json",
+      "sha256": "dc3fcad7bf4326d74a0f3afaa52c75fb718f72e4348925392a8246adb3e40b58",
+      "bytes": 957
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/170acca52cca78d24fbbc238a1186a4928ad163a97005ce9370999461158b628.meta.json",
+      "sha256": "596d9fe22185a1fdf5e5b65ea2adb6a4655ea5a9e6c5649d69bebd2a4f0203ab",
+      "bytes": 359
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/1b20ba240adcd9aa91596577cca41b839a158bc819907616ec9dce92816c998d.json",
+      "sha256": "30b53e397c4c43ac28c4920b83c049bf6e12dc24efea3418599bd4074b57d2a4",
+      "bytes": 1075
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/1b20ba240adcd9aa91596577cca41b839a158bc819907616ec9dce92816c998d.meta.json",
+      "sha256": "2d48e11f0ed8051ef9449271f8d66d0a2e928f69e629bd4c5bbb7bb659820ef2",
+      "bytes": 358
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/1c8bfdb275a1d0026f8c54f5a886074887248f5ad14d9a694dd2ea04c9e0186d.json",
+      "sha256": "c7421f45bf1e3bf84327b779ed34aa45e090bca886824c75576783528311367a",
+      "bytes": 1001
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/1c8bfdb275a1d0026f8c54f5a886074887248f5ad14d9a694dd2ea04c9e0186d.meta.json",
+      "sha256": "2e2d3918a6065da3d551a5b6c4d45b762f5b3a5bc02bbcc0639247f8f25f2b5d",
+      "bytes": 358
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/216ed38768bb37e1f142a387162ac25b9676808abbf6876ade2da558407d0d87.json",
+      "sha256": "b35f72a21bafe68b20d51558f1912f80ed6ab0afce6dbd28757b945a19cd78de",
+      "bytes": 1015
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/216ed38768bb37e1f142a387162ac25b9676808abbf6876ade2da558407d0d87.meta.json",
+      "sha256": "ce92256c93359fbc193c45681cb4d99c8c69ef3739b0a5210ea06ed543f6b7f1",
+      "bytes": 360
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/2983a26b3941d26eb3462d5fd3207a94c73000db42f5f26f4ce728efd40af45b.json",
+      "sha256": "32f2154d2834b55f91fc4fb1605bc77ae1af71fe27da8814c86967703af1a00a",
+      "bytes": 896
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/2983a26b3941d26eb3462d5fd3207a94c73000db42f5f26f4ce728efd40af45b.meta.json",
+      "sha256": "ec1db40d13fec8bb5e00ea0897036a49ada35b5439e7f2292f4a563551e3f07a",
+      "bytes": 357
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/2a53e8c833a3e0c354883011ab7a4d7104f23a24da9b32c60374523415752576.html",
+      "sha256": "eb2d7ef8421f12b93460d66f605bbd56bd2133248b9e506740a151df892a25a9",
+      "bytes": 19716
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/2a53e8c833a3e0c354883011ab7a4d7104f23a24da9b32c60374523415752576.meta.json",
+      "sha256": "ddafaebd9a864f650ed16c9ba41b2036d5ba877ec54d69b268dbe868f1b62feb",
+      "bytes": 332
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/2a626929ad2c406fe9c06d1595955cc7d653d707ef65ebfbfb63208fafbd694a.json",
+      "sha256": "d7b8cf75ab01a2aaabef9bae28672ce437ee560672fc434e8d7085b0a61640b8",
+      "bytes": 933
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/2a626929ad2c406fe9c06d1595955cc7d653d707ef65ebfbfb63208fafbd694a.meta.json",
+      "sha256": "7af8d3a49f4b37fbb63e9875072df78256438335f55a0a6538f9d4e0f8f2cacb",
+      "bytes": 359
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/37cbf9afc510b9c29b1071b6b52aa112c187256291370881a9ae65c15ed23c26.html",
+      "sha256": "0613db7099d9583a1252e86a1ba22f40cfb332e2d3d2a38a9b1235648de96f91",
+      "bytes": 70257
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/37cbf9afc510b9c29b1071b6b52aa112c187256291370881a9ae65c15ed23c26.meta.json",
+      "sha256": "4ee10f8bb6c58a9831f7060851a7950cddd5b607af67fd0d5af03fdf785ff462",
+      "bytes": 331
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/397f4b5a8a6e941e4ab022c957a9886dd8638725a72674caa10f5ddbfdd39183.json",
+      "sha256": "028d17c6314dd003018c414aac87855a71a5361404e2e6a93980bb89b6f42413",
+      "bytes": 1084
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/397f4b5a8a6e941e4ab022c957a9886dd8638725a72674caa10f5ddbfdd39183.meta.json",
+      "sha256": "844f612f641ad47e207fb4c4bfcbf1f110ba8599452e8180c5564b461e1b2450",
+      "bytes": 360
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/43812bba39dea49662563daeeb09ba36bbe7a8246e74341e3d2f76830a34d5ec.json",
+      "sha256": "2f117858efdf3721da91b72c13f6e657c543fc77f4c85319fb4c9a00097d0bcc",
+      "bytes": 927
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/43812bba39dea49662563daeeb09ba36bbe7a8246e74341e3d2f76830a34d5ec.meta.json",
+      "sha256": "82fdf6179d85d984c8a4cb341681d81f91f3d134b2421303fedac0e75392e8e4",
+      "bytes": 359
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/43fbf74d22c6cecf3b7c85d6229b577e8c435cd2fa3732f8bfae424a2c6f2f90.html",
+      "sha256": "3df9e930a01ec6b4cbcb611802521ab92f54269c899dfe522d1c1b0c3005deb2",
+      "bytes": 22531
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/43fbf74d22c6cecf3b7c85d6229b577e8c435cd2fa3732f8bfae424a2c6f2f90.meta.json",
+      "sha256": "b059d22624dbb466c4e317188c1be9d7b43c1ff1fa7df3adaea200fbeb22010b",
+      "bytes": 331
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/5000b93ef98956259a478ba089a54fdbb238e7f9c62dfe2b74d0e903f7cf5f6c.json",
+      "sha256": "ec7660c6101cfb39e54bc11da57a7dd80fcc07e09b4e919eb9ade732eb115d10",
+      "bytes": 973
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/5000b93ef98956259a478ba089a54fdbb238e7f9c62dfe2b74d0e903f7cf5f6c.meta.json",
+      "sha256": "40b41cd885b3bb82374fc957b592cb2e3037f837dd86e9075eab0cbfbef2625d",
+      "bytes": 359
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/56d45825b6b99ad346ad800e4ed848f71745c90e252cc19e1ae157656588d39d.json",
+      "sha256": "956f5b387e4ecfd8d0e86bbc16f8cf637303ea725031bb0f0fe5fd19d1b2f03e",
+      "bytes": 985
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/56d45825b6b99ad346ad800e4ed848f71745c90e252cc19e1ae157656588d39d.meta.json",
+      "sha256": "7bfc1b16447422febca7c46df1d7eaa43c1160f07136056ef7476b1559160c96",
+      "bytes": 359
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/58914773a18e76a0d0e27021f376f7fc21cb05e473baf881dc932853dfa84fc9.html",
+      "sha256": "0d7ed42cad72679f23f1f4b0aa4965b1a246db98f5e6221ac83ceeb51b5afa53",
+      "bytes": 19584
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/58914773a18e76a0d0e27021f376f7fc21cb05e473baf881dc932853dfa84fc9.meta.json",
+      "sha256": "7e910e22a40fc69f69c93883d0647c9b14157699e384335f9dab950e363fd61d",
+      "bytes": 333
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/5c1454ad3e4aa1a80726146ebf18eb5772be39f841fd83f37eed7ff1f888f7ce.html",
+      "sha256": "12ec82b69a1ff8448525b397098d62c8bf4b159f65336b635517badd23b63f6a",
+      "bytes": 20059
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/5c1454ad3e4aa1a80726146ebf18eb5772be39f841fd83f37eed7ff1f888f7ce.meta.json",
+      "sha256": "38914c19fe86a7682ee025aa84a4dc3215f973cdeab6e44a9e945eddc7d2cc21",
+      "bytes": 332
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/630f6a7a7c047b79ee3910a2c4efde056284efe6261790acea9836f5a4ed280a.html",
+      "sha256": "a1a168476b56fb8117064dc13ae703cddadf3764beee1f655efcb8b9d7ef7d50",
+      "bytes": 26506
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/630f6a7a7c047b79ee3910a2c4efde056284efe6261790acea9836f5a4ed280a.meta.json",
+      "sha256": "1d61089d430c89087b93995f465cee5c4f1e5633bbba0ddf81bda47160f31368",
+      "bytes": 331
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/64aeebde3fbc31e59a252bf8676f560a1bf609ee74cb93b2f73a7f364388ee33.json",
+      "sha256": "88b15e7774c7ef397009ee77cd93c3b5fb72289168ec3e52be54eafb2633efe0",
+      "bytes": 924
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/64aeebde3fbc31e59a252bf8676f560a1bf609ee74cb93b2f73a7f364388ee33.meta.json",
+      "sha256": "970d5038d817e6336b3ef12745e76a958b4fa7f38a0f926a72ac495828f682ce",
+      "bytes": 357
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/65e20172b58da87c3223eb52f1f39a4e64e3be98536e0576cbc6032cfe41fc74.html",
+      "sha256": "88b330dcbf01addbbc7aaacff57bd25abec7b52df25c1edff286c117bb71d34d",
+      "bytes": 44692
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/65e20172b58da87c3223eb52f1f39a4e64e3be98536e0576cbc6032cfe41fc74.meta.json",
+      "sha256": "a35c0ced422acb432e11ec80d230b50778d05a8638d99f0dd5dd42e7d5a00ae4",
+      "bytes": 331
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/67e1b6588ac677f4b00e944f859797990c7d76092cf14c6ea748e2f2182b85b7.json",
+      "sha256": "b4107f85fe6244c3c1e4a9077e5f914ca4713ef222e7b98dcd27afdad8ac2f2a",
+      "bytes": 990
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/67e1b6588ac677f4b00e944f859797990c7d76092cf14c6ea748e2f2182b85b7.meta.json",
+      "sha256": "c4ed9b1fb9a3774fd1fd5944d8328e54c31ca4d89b265784c691c1f7b1d45019",
+      "bytes": 355
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/70c46c241920e8ade6fea3722a8daa0a2e3fd7811e6882f28d3005db086f5130.json",
+      "sha256": "f541288084d5a074e5886c46e23c8434917644f7d3d27afd952376cdb0e07e85",
+      "bytes": 856
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/70c46c241920e8ade6fea3722a8daa0a2e3fd7811e6882f28d3005db086f5130.meta.json",
+      "sha256": "131592420a541649f897e914b49b314fa79d2e121b808b954ddb4c1f0390111b",
+      "bytes": 357
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/76b01ea6c23bb0842d3f1e907499b71347f50a6599d7a8fa46b44527b51fc588.json",
+      "sha256": "5afd3eb19c873d17bca2650f5cba2320c4d4cb389c0459316f25c777c88c24ae",
+      "bytes": 58925
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/76b01ea6c23bb0842d3f1e907499b71347f50a6599d7a8fa46b44527b51fc588.meta.json",
+      "sha256": "b7a0c922c0262f43b22bf6aff17fab115b95b849fcd9ebac171dfb61aa5b455e",
+      "bytes": 407
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/774648083ad2574070057000c33f6d1197ec7b0bc33a4bf62b5b61460951bf29.html",
+      "sha256": "2fa0d7378fc1133d2e28a839eb4a322a52f9a6edd163b0e7a4c0f4ccfcf93140",
+      "bytes": 20240
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/774648083ad2574070057000c33f6d1197ec7b0bc33a4bf62b5b61460951bf29.meta.json",
+      "sha256": "5d086ab50b5aae494e2f3e480ad729fa4fdfb137c464fcf07bf7d817a3a98e32",
+      "bytes": 331
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/807e0ae0d0f53d425fea9e075da94e854069d6fa423ad2a74d39996bdabfb1c3.json",
+      "sha256": "76e32c7fd4718b5d633f8b162a15f9d94c596170be4291ff844778f047693824",
+      "bytes": 906
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/807e0ae0d0f53d425fea9e075da94e854069d6fa423ad2a74d39996bdabfb1c3.meta.json",
+      "sha256": "c08230f46654efe666812fd20547258c4d1afeb8a5fa33e2149d32ff0ed2ca54",
+      "bytes": 357
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/8177db22f863e8db809a05ebcb3bcf6a3540b59756040d182b0999cdffbd4c7e.json",
+      "sha256": "92298e75af26d6f5f7c457f5a5ee5bf848359f1cbc82ca584a580093edbb81c2",
+      "bytes": 1086
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/8177db22f863e8db809a05ebcb3bcf6a3540b59756040d182b0999cdffbd4c7e.meta.json",
+      "sha256": "359b3c391cb1aa28f6d8c2128a946c023031158e8942ed576d9d02c08af6d691",
+      "bytes": 358
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/82b303bc950a1bd3483348be9e783212c3dcebc7dc5df2eac161b55ce3851794.json",
+      "sha256": "5811b9cbcb4bec64924fb02b84aae3457f4617b89763488ff42dc866d21cb1f6",
+      "bytes": 1002
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/82b303bc950a1bd3483348be9e783212c3dcebc7dc5df2eac161b55ce3851794.meta.json",
+      "sha256": "afb7d4a5cbe0c067d79690251e950f7ba7eb7b64d967c25f0d68a29779fc76d5",
+      "bytes": 360
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/8358a2211096a34849fcdb1e3b8059ca11e9148a7c03cfcc772e72c42b2195b2.html",
+      "sha256": "50fa4bbad9bd281d8f43ec460e43c52920069db1c3c9e85fa3a17000961c56eb",
+      "bytes": 108776
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/8358a2211096a34849fcdb1e3b8059ca11e9148a7c03cfcc772e72c42b2195b2.meta.json",
+      "sha256": "f55e87dd29c73c081093970f4cedb630bdaa6a1aaa0deae62c67e85fe1e6ab50",
+      "bytes": 332
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/87f0f267c1c3729479c9be2f9da524b1b751c04c6312880bb99ef50f4e115b9e.json",
+      "sha256": "6a7b4ba58039638bf9a08a61cc95798602c7fa5e94b2781e5c4433b6d37a9933",
+      "bytes": 32444
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/87f0f267c1c3729479c9be2f9da524b1b751c04c6312880bb99ef50f4e115b9e.meta.json",
+      "sha256": "2e9ba6e7e16d8d9b59161c1c0faa4b130148ad3f74251ca4e7c8a6a6b4866aac",
+      "bytes": 403
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/8b5b3d8e59d8148edfb37f6e03c82162d0e8668b5c7d31979a5227303c2eeeed.html",
+      "sha256": "07a0f8bb3619d466c6399241754d40e9390833257d15a9e1378034e7b66deee1",
+      "bytes": 19491
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/8b5b3d8e59d8148edfb37f6e03c82162d0e8668b5c7d31979a5227303c2eeeed.meta.json",
+      "sha256": "ae96ccd58954f66177f8c53c7baac0f8ce50d2c143f196f8b36b17a9c6bbcf16",
+      "bytes": 333
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/90ef6b93a5c91e827b7262c21d9e91325cbc03a16a931bc3338ec5b4255a35a7.json",
+      "sha256": "ae60b5b7e9ae7c295afdeb432d34357941eb1b799e866a070b68fde9e095b0b3",
+      "bytes": 862
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/90ef6b93a5c91e827b7262c21d9e91325cbc03a16a931bc3338ec5b4255a35a7.meta.json",
+      "sha256": "8cb6df5d66c5074fc39cdd707dc7efeaa9650b1178337fd565761dd175159ddb",
+      "bytes": 357
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/921288d54aea7f8c7bd11e42a370ddb756a33e2eabc4b6027d14db3ec2c25144.json",
+      "sha256": "948a3449eedbcd95ec104968d30528b878cd3dd7560745f675cabf3018193ba3",
+      "bytes": 956
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/921288d54aea7f8c7bd11e42a370ddb756a33e2eabc4b6027d14db3ec2c25144.meta.json",
+      "sha256": "6031b3c525d06504cbf971c0d39d650f299bfc11b9a3791bf4e70463fdf47f59",
+      "bytes": 359
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/9b38e3bcc0c3d73058488097b5546c564c33ca0078b84ec687b853a494193f30.html",
+      "sha256": "f9d315072a1607661c9c437f9ea5aeeff31f12a7baa041eea4e80e117d3c918a",
+      "bytes": 19397
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/9b38e3bcc0c3d73058488097b5546c564c33ca0078b84ec687b853a494193f30.meta.json",
+      "sha256": "b7124540b1a190b4e9807b4995c22fbfb5ef656cab8374653d3fecc69b308905",
+      "bytes": 333
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/9c44880652e23713f52bca0a628b04512de7c1ab306a1f26ff85884399c57f81.json",
+      "sha256": "f688a56bf6bb96b4a7eabed4b5be3365e9f2f83450572d59f015fa905200a792",
+      "bytes": 969
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/9c44880652e23713f52bca0a628b04512de7c1ab306a1f26ff85884399c57f81.meta.json",
+      "sha256": "c8775d7b17fa7b134a2567c36eae59f8e5d93ac073192d1a90ca189e5387bfb7",
+      "bytes": 357
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/9d00a54bd56f9622704f1a3aeae68d22db8ed3d15168049067b3d2d061e4ba47.json",
+      "sha256": "1704fac3ca61cb94b0be9f41fff6803d3b3a6e4e3ae518a85b6755e6fbd98bea",
+      "bytes": 1023
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/9d00a54bd56f9622704f1a3aeae68d22db8ed3d15168049067b3d2d061e4ba47.meta.json",
+      "sha256": "efd7d9abd68e1ab03ddf2ec33721bb9797591ef6ae258b0edd71dbb6c5f3ffc5",
+      "bytes": 360
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/9f5af9545d2a33fca88529eec16600fc3e0961cc84894f6793cfa93cc21437bd.json",
+      "sha256": "9af623e4f9b7f7bd541f912596edf03c4edfa9312c24c7e8a0b679ae13095feb",
+      "bytes": 954
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/9f5af9545d2a33fca88529eec16600fc3e0961cc84894f6793cfa93cc21437bd.meta.json",
+      "sha256": "237d3815063133bbfe9efcaa3f1f3c4fdad2e384c6dfc74da81e2951c96bae4c",
+      "bytes": 359
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/a02290ce9edd1a9304f7bca105f61ca169dd2041ca0b688f5f66a2eb9919f2d7.html",
+      "sha256": "ccb7ece149c3d894c97a8f8c9ab31e17b13b2201c1554a751f2c80c4203dc5f8",
+      "bytes": 20085
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/a02290ce9edd1a9304f7bca105f61ca169dd2041ca0b688f5f66a2eb9919f2d7.meta.json",
+      "sha256": "76d674c33469a766c083ff83154d21bc99fc95f66fedeb736574756240b40925",
+      "bytes": 331
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/a193c85b6cfee0a32cbe221d15a1acdb9065c51548bec797b889d0019cdd3153.json",
+      "sha256": "c261b83b27d0e1f1f60cd5f09aeba7b5dad57707d480120a874a6b7489f0da19",
+      "bytes": 998
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/a193c85b6cfee0a32cbe221d15a1acdb9065c51548bec797b889d0019cdd3153.meta.json",
+      "sha256": "5b49876093d3f0e4b09ed1d950d5df5ff6e98857b3f7a872eb90d8762ac6a242",
+      "bytes": 359
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/a56f8784aed64401ca7a0261a4d4ea9f9560569906a951c1caa114a65b9dd2e8.html",
+      "sha256": "3043cbb704c2f0111159062510ae8762d41ab7ff1da408ed325d439b9f747ba6",
+      "bytes": 22982
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/a56f8784aed64401ca7a0261a4d4ea9f9560569906a951c1caa114a65b9dd2e8.meta.json",
+      "sha256": "713bcb61606a6b2d686fee166de722e2869736a3eb30153f4910afef5292bc1a",
+      "bytes": 331
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/a718cca6a13b4ee6f35f3f280fbacd89b290c28926c9025a72483d9566ae0dc6.html",
+      "sha256": "62a3dcf0e2213518c9720b5e3de0a1a622e8746ee39a571cc7dbeec1d730a3f1",
+      "bytes": 20149
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/a718cca6a13b4ee6f35f3f280fbacd89b290c28926c9025a72483d9566ae0dc6.meta.json",
+      "sha256": "66e61b7ee8fce645ee78966014fe1713fdb3ae035101e9595df7eddfbfc65577",
+      "bytes": 332
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/a844b91fc352d49c8aed10155c87173128e817f5ec3944a1e9caa23683dba410.html",
+      "sha256": "cb6d8c84ab333f2671ed1ee37c937546acd45027c1f320f0ada8a08314fcc136",
+      "bytes": 21015
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/a844b91fc352d49c8aed10155c87173128e817f5ec3944a1e9caa23683dba410.meta.json",
+      "sha256": "5ed922b968ac82eceac6b14ed2537ca1fdef9cf09b11c4abac60004731b39040",
+      "bytes": 332
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/a8a91ae72112befd99f8f58ee779fa740bdbcffe144bf5ea02eb10034fa349fb.html",
+      "sha256": "697d1dddaf10fad767a1d13a2ee54da79f3a264687c1c873e5cc016d0a1d9481",
+      "bytes": 19821
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/a8a91ae72112befd99f8f58ee779fa740bdbcffe144bf5ea02eb10034fa349fb.meta.json",
+      "sha256": "085a7fb53bff206bf77dfac0be1c5e11a22b3cc25e95baac98e51b4b8a3b5185",
+      "bytes": 333
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/ae6f5413de402ddc516edb78b2ed9b62a4b3f1411d368312687998ebb1f0829b.json",
+      "sha256": "45dd7c644092410999f68e9f3c683c6b34cffb758bbff9dac2a3fa50eaa3651b",
+      "bytes": 984
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/ae6f5413de402ddc516edb78b2ed9b62a4b3f1411d368312687998ebb1f0829b.meta.json",
+      "sha256": "da7fbefdd382dcb6501260d8c10a9e91eeab94b5d928d0cea98556ce43b0fd4e",
+      "bytes": 357
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/b1dcaca22f737f743b4353a6fa524e7b5ff5476f181bd4dba07386371235b07e.html",
+      "sha256": "906a3f8b76d59f84564857ae7124590622158b9071a98358f7dd332c63777448",
+      "bytes": 19774
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/b1dcaca22f737f743b4353a6fa524e7b5ff5476f181bd4dba07386371235b07e.meta.json",
+      "sha256": "9d2ff5aa2e04950b52549b70b34f54bdbf8962c0e2407220d1b5828ac69b88da",
+      "bytes": 333
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/b397229d2fa8f4568427a174551ed4e94cccde820bbe6d5b06c27e6358c14778.json",
+      "sha256": "5c1312d50a2a8a0d89ebcf3145e6faafc9a23277caeee749320d7f954f22158f",
+      "bytes": 892
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/b397229d2fa8f4568427a174551ed4e94cccde820bbe6d5b06c27e6358c14778.meta.json",
+      "sha256": "e02f9504085c60faf6a589a2338be3260e15fef297bb14778d1fe7f4a72a0399",
+      "bytes": 357
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/bc4731d015c140715f3ec69b831cf1548b41a6c7e0be35cc5bc12d0bb849a541.json",
+      "sha256": "d92c43db3af5bd51ea851543f7d405ba1dacedda99da66de1a842a285211ecc9",
+      "bytes": 879
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/bc4731d015c140715f3ec69b831cf1548b41a6c7e0be35cc5bc12d0bb849a541.meta.json",
+      "sha256": "a15cdc91ccab0f35880961480cd53faafd01b1f1eb67cb6482cf95a993042180",
+      "bytes": 357
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/c1362855b60bd050e4cdf232d3c5258fb7c7136e69a2531013924d9723b02759.html",
+      "sha256": "f93a189273d14d954916ac5445f9358e0647b94123cd4ee53309030f8462a90b",
+      "bytes": 19524
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/c1362855b60bd050e4cdf232d3c5258fb7c7136e69a2531013924d9723b02759.meta.json",
+      "sha256": "709d5c3d2ad5ff4776f4d5260069b53f36226de98155d23ccf68d2c4dab0cde2",
+      "bytes": 333
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/c264bda5c3c1de64b850fcdbe5d14915f7a3daa52ef3239698166ce74d24ee12.json",
+      "sha256": "ca1e6b9e5424c40d1eb58eb5ec14e65c6c4c169d72a05433f3c3cc42f2b7d4eb",
+      "bytes": 1085
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/c264bda5c3c1de64b850fcdbe5d14915f7a3daa52ef3239698166ce74d24ee12.meta.json",
+      "sha256": "34bc26290f759823873ebf129b2e201b2a643c58669198d0607da7436dff1bd7",
+      "bytes": 358
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/ca0a5f9fa86a75fb746265756f6cea934637759bc0f649d5477f0f860c1a54e2.json",
+      "sha256": "ec91cdf70496869aeba683c1daae40847cf689c89e17decc6707ad9410e2bd2a",
+      "bytes": 899
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/ca0a5f9fa86a75fb746265756f6cea934637759bc0f649d5477f0f860c1a54e2.meta.json",
+      "sha256": "a10d55da7ba260788122e6d6c19057271dcdc4108ae6568ba01f72b4958f8c0d",
+      "bytes": 357
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/cd51fd2d34702a31c5716dfc9bda3fb9a8d033c4f2ecfb63f8e5a2305272f676.html",
+      "sha256": "8a02e53a6fdc490a363e950ea09a74c93ec69b84d7f70241dfe91126667b7ce7",
+      "bytes": 19846
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/cd51fd2d34702a31c5716dfc9bda3fb9a8d033c4f2ecfb63f8e5a2305272f676.meta.json",
+      "sha256": "59976c4b2f76586a30613ca1f00dba074d67d9c807ea5faecc1459d082472280",
+      "bytes": 333
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/cdee486e5029e690a5202a0b3f8df658193073bad0d0f5b445e37485fbefb1fa.html",
+      "sha256": "785fd214c86fcf086acee001d272bf0ac315889ffa5fb39d16b3aa3d2b142762",
+      "bytes": 19775
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/cdee486e5029e690a5202a0b3f8df658193073bad0d0f5b445e37485fbefb1fa.meta.json",
+      "sha256": "d29bbeda2bae889f4e759271355dca920f9f3f8d526a247057be1c9d77e49b89",
+      "bytes": 333
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/d54feacb7fcef8214d17717243c50867c28c0d92d1ec8c22ef74b80540321a4e.html",
+      "sha256": "28d345be7113c5c2ac50e0a7c79c2c4c5e4dc75d7d42dd982c17e23e225fd561",
+      "bytes": 22325
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/d54feacb7fcef8214d17717243c50867c28c0d92d1ec8c22ef74b80540321a4e.meta.json",
+      "sha256": "27eca8ea6034c4b83c5dc0a4a16e196de7a8b231e802378ae516851dab9659f1",
+      "bytes": 331
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/da0dfb8b8877f88b06b2d7317456be03ef01568bd4b37c8d7b3d58173becf1b5.html",
+      "sha256": "6a3e47dc8fd4c8c7dd2982921e7d8a964e6eabc9075c88826c8d23a78a68b1c5",
+      "bytes": 19773
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/da0dfb8b8877f88b06b2d7317456be03ef01568bd4b37c8d7b3d58173becf1b5.meta.json",
+      "sha256": "609a52ffadeeea5fc2f80504bb9f6b5327f511d10435233d4673ac3fdf0ff1d6",
+      "bytes": 333
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/dcbe568c69b57081d014515dfc84eda46883934394545f08a54ae48722cec07f.html",
+      "sha256": "a412fd188d2746a9f90ba46a4a19ae89212d80c28176baa052e60e4ec5bdf1cf",
+      "bytes": 19477
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/dcbe568c69b57081d014515dfc84eda46883934394545f08a54ae48722cec07f.meta.json",
+      "sha256": "11e5e0479d1f7305c3dd9cb92b8e456cd93e2890441e0c7e2a14801956f94018",
+      "bytes": 333
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/dd68fdd5a43aa8cde1bc6664b0082d7726447c2fbd1458ebe06a662473410021.html",
+      "sha256": "937c0d2e80a409bfba2f1b1cef5572818fc87d8728fa910218487d44afa903bd",
+      "bytes": 21510
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/dd68fdd5a43aa8cde1bc6664b0082d7726447c2fbd1458ebe06a662473410021.meta.json",
+      "sha256": "9a5e3ab810cb6fd9531893a88adeb1cb5fdf43f1c7d45d6865f859d8c89b8b1b",
+      "bytes": 333
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/e3b6296b460be422eb7bb759a0c75376623899195afae5b53475e61dffa85207.json",
+      "sha256": "9b553b20dc5607a2db1bc03f5b47319c62e741463e52db7d4c2d422c7bbe868f",
+      "bytes": 1290
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/e3b6296b460be422eb7bb759a0c75376623899195afae5b53475e61dffa85207.meta.json",
+      "sha256": "255b65eb822fce5168a5f89da477f5b460bfd67f0c24ac69d3bceb574b8929df",
+      "bytes": 358
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/e7c9e5c04d9b70e9bb160e8f37e292be9b9fa2b7989e8140ee8874ac8dff2767.html",
+      "sha256": "00e33aa3e25db38cdf092ba9024c38a4bcdbeb80b1469debed23a2516b99667e",
+      "bytes": 22161
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/e7c9e5c04d9b70e9bb160e8f37e292be9b9fa2b7989e8140ee8874ac8dff2767.meta.json",
+      "sha256": "687192bbc2f9a0a06204ec2978b73828c2da7a978e7fda3b6ead66464e1bf490",
+      "bytes": 332
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/eb103de4b0a3d8441903c82694cdc64b091202720284e73558d5d839a862ce4d.html",
+      "sha256": "df297091696c8c8dd0cc9070e0620eab1622f36d48a07497859b6e8bc0610686",
+      "bytes": 28217
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/eb103de4b0a3d8441903c82694cdc64b091202720284e73558d5d839a862ce4d.meta.json",
+      "sha256": "b689823c48eae386b43250b7bb7287a1f8bb3d3d9da8ebb4bf5ddb41ec23a678",
+      "bytes": 331
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.ro.leg.br/14907f6cb1be162a4480ba05ec68502462819959abde7fd3b42c675d424a65ab.json",
+      "sha256": "35dcfd6d2c529099c964d92722eb785d9be99f32cc608760d4c602c834be5176",
+      "bytes": 3486
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.ro.leg.br/14907f6cb1be162a4480ba05ec68502462819959abde7fd3b42c675d424a65ab.meta.json",
+      "sha256": "37264c07d4f6c77994c073d1855c1fcbaa37d0ccbd47ebaa34dfb55d98a34e51",
+      "bytes": 402
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/05b343670171e7078daee4c32c0d19368ee044e913d331f5c3d3136dda0be944.html",
+      "sha256": "7b4dbf6c94e6e05d7a4a7f26bed61625b5844bcb98864d365e0d4a1ff4fed787",
+      "bytes": 24911
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/05b343670171e7078daee4c32c0d19368ee044e913d331f5c3d3136dda0be944.meta.json",
+      "sha256": "61277fd8b53769f503f0437e5a4b22a44426b4a8062b52cf0a52efb8c7e7279c",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/0f4bc2431284c4b63d1ed34813d9038f62a29c138a6b080ae70b2873bd6a9389.html",
+      "sha256": "4fa2a834e147c64eee0a9e45aac5e02449d74795bead8b47e72b60fb54f5e982",
+      "bytes": 25792
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/0f4bc2431284c4b63d1ed34813d9038f62a29c138a6b080ae70b2873bd6a9389.meta.json",
+      "sha256": "423603d48baccfdf2793233825a641653331ed422caee94e7acc3073a5e06069",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/0f9d85d359d5eda9d1b928b92fd37013ad9f22a8397ad9422521440559cb4e51.json",
+      "sha256": "0605765bb2fa93bb9965d3eb54ff9321d1fded32bd3969ef38a4fae093e9cad4",
+      "bytes": 1066
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/0f9d85d359d5eda9d1b928b92fd37013ad9f22a8397ad9422521440559cb4e51.meta.json",
+      "sha256": "852f78efafb6f2cc3b31a55652e8e5452af280286b9f6262bb74878b30b7045a",
+      "bytes": 376
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/11f0b6903c88ba843a5f021169e808e815128e45c712e0d71aecd4b808a7df3b.html",
+      "sha256": "6c96ecef4bb9d03f59fd4e39ae9d632aef591129fb8a2c6b482f8fbbd5a2d12a",
+      "bytes": 19784
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/11f0b6903c88ba843a5f021169e808e815128e45c712e0d71aecd4b808a7df3b.meta.json",
+      "sha256": "fc7cf2e325e84a755007e0228908c73199fb3e46aa5aa2cbe758284ccc27f074",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/138d059aaf83697b53fe6dcdf89e21f4daf12185eb1e723767ec796bf763d1ce.html",
+      "sha256": "e46e2349d3d59344c927f550b6cc7f5e9cc1a1958f88208074c210dfe3842c17",
+      "bytes": 25745
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/138d059aaf83697b53fe6dcdf89e21f4daf12185eb1e723767ec796bf763d1ce.meta.json",
+      "sha256": "f41690940af883461121e4e9a2730f67f03b15676d1110411472835cdfa74b59",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/1af09158e0a72bd4b35ce68e7ab18694fda3c0e414eb59b0509961228c8b5e1f.html",
+      "sha256": "7c7d8b7a35bb1d3c95a5d817e2b37764c6044220df21ea305746451db5449aeb",
+      "bytes": 26418
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/1af09158e0a72bd4b35ce68e7ab18694fda3c0e414eb59b0509961228c8b5e1f.meta.json",
+      "sha256": "f819aac5eea3a085aa8a2f35ce79aff5c388061d86b734a6d78f90cdd197b1a5",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/1cb224dd2ffec7694a40c3cabf07efda5cb1edc036c2d947050a948b19bd1a09.json",
+      "sha256": "1abeef80cd95b63d35856142f88ccf9175d46d1ba3ee1abf1e9525ba2be1cb4f",
+      "bytes": 5523
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/1cb224dd2ffec7694a40c3cabf07efda5cb1edc036c2d947050a948b19bd1a09.meta.json",
+      "sha256": "ef7b9bfff345042a25cd12fb6200ebf0b29055e99b5dd4c534615fd6fd38ae50",
+      "bytes": 450
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/1e3fb322e854ac6227587f8bb702ef7f35e4be6289fd314aa4106a5db24419d0.json",
+      "sha256": "1a315af456fbd9bbb8302a23dbe11bd6b1d5fca46a95b5afb3f487396616f3d5",
+      "bytes": 1038
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/1e3fb322e854ac6227587f8bb702ef7f35e4be6289fd314aa4106a5db24419d0.meta.json",
+      "sha256": "80bc28c880f8e386218806843b6c3231e88c811f32c2443adfe5a4a92f464f21",
+      "bytes": 376
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/26a8c2b710e28c288ce957ec00d4ee3b3acbf78230c3b24c90369d53f45eec0b.json",
+      "sha256": "9ed9eb815b8369c54cbaed400f01f7d423857cb4cfd3ef57238a2cee5fbd2217",
+      "bytes": 65951
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/26a8c2b710e28c288ce957ec00d4ee3b3acbf78230c3b24c90369d53f45eec0b.meta.json",
+      "sha256": "8d2143752d10e9cab501e98c3afb86f7b2633e27ae9462555d2edd8a86291e94",
+      "bytes": 423
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/27b4907bc5b261e9ceb4381fe706f215f751eaeb446bd7b592cdc2e3ab2aa310.json",
+      "sha256": "ed29a5dc412e58ab970ada23f39a464a2431e4cfa5c939256da3e1ff6c8266be",
+      "bytes": 1122
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/27b4907bc5b261e9ceb4381fe706f215f751eaeb446bd7b592cdc2e3ab2aa310.meta.json",
+      "sha256": "9ff69bde4db635535cdd89069bfa683846cc1ac161dcd9352e33ba6d34c62a5b",
+      "bytes": 376
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/28a022ea633954808edacb9beb3b5a7b98340c182f64c6554b5c302bcfd3f686.html",
+      "sha256": "7d76ca5264a78f36331d6f5658886f31a769bfa1436e62092c7808b181c7ead1",
+      "bytes": 22721
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/28a022ea633954808edacb9beb3b5a7b98340c182f64c6554b5c302bcfd3f686.meta.json",
+      "sha256": "c546fdd87c1ee4d1e5da740383506a79f5e13a6896ac1e27a0a33a6ff60519c5",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/2a186c235a26d6bc048b66d3435bbb8f58eff186db2bb7853014305dd3a19b38.html",
+      "sha256": "7c9d67e8adfa4213d5140134aad533ade963e12a98cacb008d972351fea2c3c9",
+      "bytes": 29366
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/2a186c235a26d6bc048b66d3435bbb8f58eff186db2bb7853014305dd3a19b38.meta.json",
+      "sha256": "5b1c5a626418201e9b6a1ad9182c207b0ff0a8cbabca2fa8e233a66abd5d3be3",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/39f9f5d2c70a0de63928053a163834c68e4a1b841332c4364dd2a90ab5474e13.json",
+      "sha256": "7e42c65b25c08ea90df677c898340c8c04cb4da5672bfea990a36718c3fe3dd5",
+      "bytes": 987
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/39f9f5d2c70a0de63928053a163834c68e4a1b841332c4364dd2a90ab5474e13.meta.json",
+      "sha256": "0605186dea39a7975bb41db45aec00692ac9fb1faaf3af8aa28b86ca86234886",
+      "bytes": 375
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/3cf017f40c00a199fb993c7c85fe86ba1ce45a4e1d68b62c6f16de6701aeedec.json",
+      "sha256": "068939a1bd4b4ae963b409fe4cfd4d64c8a05a9a22e1d32b13af99255ad5f503",
+      "bytes": 849
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/3cf017f40c00a199fb993c7c85fe86ba1ce45a4e1d68b62c6f16de6701aeedec.meta.json",
+      "sha256": "f981e2cac9373a59fb4b4dbfea46880d31da8a013c36ee5ea778894612111613",
+      "bytes": 375
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/3cf12eb6ddab5afa092fe31a76f8365f53a3ad0fa2e9f59dbfa55ee11ca451a5.json",
+      "sha256": "826f489f4e2ae61b25b1c5eb5b481fde942d900c9fc735b2b73cc0d51f1637ec",
+      "bytes": 939
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/3cf12eb6ddab5afa092fe31a76f8365f53a3ad0fa2e9f59dbfa55ee11ca451a5.meta.json",
+      "sha256": "bb47a4a25d0db993b77fbc773b84cbb040c9b80364c1ad3f9a65725cd18b4e44",
+      "bytes": 375
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/3f2251b8b18db816abcef0f2ac05e2bc2bd13fe0d964b3884c44a1dc7c6b6862.json",
+      "sha256": "3f1be119160d639a23dc3ac4426c24da38c6acfade5a4cb3215479170a8559b0",
+      "bytes": 1114
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/3f2251b8b18db816abcef0f2ac05e2bc2bd13fe0d964b3884c44a1dc7c6b6862.meta.json",
+      "sha256": "312a4299f0f481b2631322ca85eb5e47681c1c3582e7abab2b2e8aa3e6b5df0d",
+      "bytes": 376
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/453fa6de68154d46eff7380b65863612994af8c059265dc46b2caaeef19f3489.html",
+      "sha256": "513d63c8754db907a44e3a9a1e6101fd8fe1c384efd4ea669a1eec804b3590a1",
+      "bytes": 62524
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/453fa6de68154d46eff7380b65863612994af8c059265dc46b2caaeef19f3489.meta.json",
+      "sha256": "05bd8ee0475991377570eea539a487acf6acbaffcb629fdcf707d5d4cacb3802",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/493f2f3b231703093c0940b297b2537f94a540c3e11988ee4b7cbd3729f94d34.html",
+      "sha256": "8715884e7e2e394d8e76928c93581d448c0c293a5f50bb47e08b338e13a76eca",
+      "bytes": 23233
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/493f2f3b231703093c0940b297b2537f94a540c3e11988ee4b7cbd3729f94d34.meta.json",
+      "sha256": "3dddef24adf23778bab5a7a9959f902082a56001c24a9f3c1dee2b705fb738e9",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/5676759a201599c0518a0147f9b629f028e80ae56c90f88263b9773a49dc362d.json",
+      "sha256": "4e26bd8cd1cd9dbab9185023ad23924d4a912a890115c398e15dcf30acb26dd7",
+      "bytes": 868
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/5676759a201599c0518a0147f9b629f028e80ae56c90f88263b9773a49dc362d.meta.json",
+      "sha256": "ba6321f22d5972e752c9115de6533e5ebf823d5f27704242044664b49b15e982",
+      "bytes": 375
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/57ef2eac31fbe2e0c02125235a9dc0405c210b007519f626406f86495c077707.html",
+      "sha256": "466024813a140b7bdb3451cb2cc8613ee5cf175695ccfad01ae7f4940746c063",
+      "bytes": 73735
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/57ef2eac31fbe2e0c02125235a9dc0405c210b007519f626406f86495c077707.meta.json",
+      "sha256": "669167c2a3d8941bbcba66d517a5b1b7fd8230b34cf3de084f91777efad36fe2",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/5b9f01411a340ebb972dcb3ab462bec743c7f4a227dc413f35ec0e9f036e2f7c.json",
+      "sha256": "a943bb2352c409e4b6445c55e450c995bb09aeb2fd6bdf7879d01e9ef17d2859",
+      "bytes": 936
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/5b9f01411a340ebb972dcb3ab462bec743c7f4a227dc413f35ec0e9f036e2f7c.meta.json",
+      "sha256": "6a6d07b16be8cb40302a7f3dd04d1d4593b6a5462b39ceb89a4fdbef706d1ef9",
+      "bytes": 375
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/5c3102087b982e0698218a7429a3d2b869c06deaa5dd61c7ed90121235859e27.json",
+      "sha256": "7340e17a70acbd160658df2bbd7c9a1f992bdb19da25fcde4b3e3dae43bd0941",
+      "bytes": 1022
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/5c3102087b982e0698218a7429a3d2b869c06deaa5dd61c7ed90121235859e27.meta.json",
+      "sha256": "3f2dc846b344c440daf95dfdf3b6192ed7260e5c2961ea733b88d39e06239485",
+      "bytes": 376
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/621680bec87e27c95f82a4bd7c2d3d5dc21e59f66e65d267aba8d32146918007.html",
+      "sha256": "2de89782f7d84b2eec927778d485491f0c781a061088463faa8c899131a3f423",
+      "bytes": 27891
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/621680bec87e27c95f82a4bd7c2d3d5dc21e59f66e65d267aba8d32146918007.meta.json",
+      "sha256": "5d633d3513b5434dc4f2812da0e6aabbc70ed7b042b93105c3c1cd97ab0e5660",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/677885c030db1913f19e84e6e42f01b10a007e0d40c7a4c8ba6d6be135e53ed3.json",
+      "sha256": "a6a26ae506c2cf9edd2e55aeafcdb0ed601e30149c21e214e61ee790eab1cb6b",
+      "bytes": 1027
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/677885c030db1913f19e84e6e42f01b10a007e0d40c7a4c8ba6d6be135e53ed3.meta.json",
+      "sha256": "ad6a36913e3e3b773291a0ed090c6f0f968578d01fff5803a9e904ec9a2a84ae",
+      "bytes": 376
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/6bbbaabd663be54f10765655853bb8d92e5652de1286ebfc7ee12eaf32dfae27.html",
+      "sha256": "1f5a70da5460908db7645fbe3fa0c5cac71c8822c37754a156bbe6fc1b4a34bd",
+      "bytes": 19649
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/6bbbaabd663be54f10765655853bb8d92e5652de1286ebfc7ee12eaf32dfae27.meta.json",
+      "sha256": "0b16bb8b6ac7e1f3b02ba4317fba10cf8080b94ad34dfe698df893d01921347a",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/6e6447c9e0391469fb62e7369b3c44098116c3ddb2419a2ee06bc75c76571757.html",
+      "sha256": "ec40af7ea3dae1f1b1e6aaf62849e9b829c557258c79b709e25ad7f383520e19",
+      "bytes": 26560
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/6e6447c9e0391469fb62e7369b3c44098116c3ddb2419a2ee06bc75c76571757.meta.json",
+      "sha256": "2df6a42b2869cfad7cf7c5349814c9b393c30fbc5af6e55e20de501710e09603",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/6fedf8b53562fc95de2ffae59e7a3ae3262b486da8bce08624e1892493889d21.json",
+      "sha256": "831204c5d822c5522c52419f49e18501a2fc0daa2617290f6084aa1ee334ed7c",
+      "bytes": 851
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/6fedf8b53562fc95de2ffae59e7a3ae3262b486da8bce08624e1892493889d21.meta.json",
+      "sha256": "f913775fc9c87903c077b079e8adbf63c4d9d482e92b940698330c35fe63272a",
+      "bytes": 375
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/70f165d97e773befda70cbe13f06fe0031052bb29044254f3635d2617b298164.html",
+      "sha256": "4b4dff6af20391bdc2bf761209443c8b076e73277a0eb5767c4a1d46be86616d",
+      "bytes": 29092
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/70f165d97e773befda70cbe13f06fe0031052bb29044254f3635d2617b298164.meta.json",
+      "sha256": "95294cfc5755267bec80416950c5f348f31f29bc7852ded5d6ccb916d0fce59e",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/7524746ceccc456c80e9003c14965283cb950ac297e66c0963146ead692164ca.html",
+      "sha256": "57d744eb1f1efd9ec85152d0931ec0134c3225b6126d85a239dfe5b74d2a3f75",
+      "bytes": 23699
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/7524746ceccc456c80e9003c14965283cb950ac297e66c0963146ead692164ca.meta.json",
+      "sha256": "676b845a50bc00117c69a902f30407e4a2511aac6c158ee0044e1db442d41e09",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/776e6e1e59478017c4e0b19f34a27070fb8101e20e0af4acd0ffe6e696d3c1bd.json",
+      "sha256": "303d428f71b55d9c34d2e994ba570787993db365f68b1aacdcd10b3a212fd3cb",
+      "bytes": 1078
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/776e6e1e59478017c4e0b19f34a27070fb8101e20e0af4acd0ffe6e696d3c1bd.meta.json",
+      "sha256": "013404631821d9ae19484d9ad860eca2e91dac278f41fc81bcfd85d2185baaf9",
+      "bytes": 376
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/84ad370f250bdcb3142e5192205dd6885e94093892b5867dcededaabb858ae9c.html",
+      "sha256": "008777ce642bd81e56ae06947648011a39037be514743c979bec717c344e9543",
+      "bytes": 33044
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/84ad370f250bdcb3142e5192205dd6885e94093892b5867dcededaabb858ae9c.meta.json",
+      "sha256": "1e0c65b60d218f56541fa0e1006606bd65954394ebf5dab75c2a7abea91d9480",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/89fc99f155ae913f117a26e0aaaab81c59e70d25a8e32ce7cc4b309095b5f1a3.html",
+      "sha256": "3dd63f89e36061285f977fc07c7a094f9617328f9ed9aafdec7806ec765c1f92",
+      "bytes": 62189
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/89fc99f155ae913f117a26e0aaaab81c59e70d25a8e32ce7cc4b309095b5f1a3.meta.json",
+      "sha256": "62bf718cc8fa32d0e4fbcfbf7b6fbf1d8b9330b056498344f0b60c918f3b8472",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/8af6986975b7ba8569ae2ebbcb7b1e9ce4c69d35f306c24347c5dd4f18e580db.json",
+      "sha256": "21710f0ac8858b0be2258de7ea78a6e6716250f7de139ec1ffd353729ba7b00d",
+      "bytes": 913
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/8af6986975b7ba8569ae2ebbcb7b1e9ce4c69d35f306c24347c5dd4f18e580db.meta.json",
+      "sha256": "9b3a891dd025ab2dc27be57a74749caaddc7125f2f412b3f3f4e78ffb4a6d737",
+      "bytes": 375
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/8d1119da0b465625e9431344ca12714882275070e97e8b6d37ecb2d3cc6acf7a.json",
+      "sha256": "eb0440e2dc2cee396ee8952c295c52c7492122255fd2018bc29d7e1585a18c1c",
+      "bytes": 895
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/8d1119da0b465625e9431344ca12714882275070e97e8b6d37ecb2d3cc6acf7a.meta.json",
+      "sha256": "dfbf6485b36b980f6c0b61a99f98ebba9265e7e39b8b8506587b682eb2254b0a",
+      "bytes": 375
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/8e5e6990aacad42c4fe774ab6e0c579f7dbad7824a43cd87ce4b14dd0b8201cd.html",
+      "sha256": "f2ac43ad70487979dffc15222ffcb185d6b1ea86b550be184a318d621e793e4f",
+      "bytes": 30006
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/8e5e6990aacad42c4fe774ab6e0c579f7dbad7824a43cd87ce4b14dd0b8201cd.meta.json",
+      "sha256": "fc48df3ceff0ce25e122ca578b5e86242d0ef69dcce82beb69cc34e11c0a6bb9",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/8e8f085af8912d45f6d319da987d49c9db594393947227357343407f644394f4.html",
+      "sha256": "a2e4ff488a6085189d55a78c0fdbb214ea6d07b2e24b0454468b3201f5e687ea",
+      "bytes": 19721
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/8e8f085af8912d45f6d319da987d49c9db594393947227357343407f644394f4.meta.json",
+      "sha256": "874bab088ba3bca54743a81995282c22f654a79fcbfde87b2a971c9ce95b61d7",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/8f067c9054330af720d9247952b6ce444d8b3353d8cb2cedcb4637d021daa6c8.json",
+      "sha256": "2018f0a488055c536c8ae2ca4c4c6b93dc493607040e4faf7e33c1b2f9cb5485",
+      "bytes": 893
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/8f067c9054330af720d9247952b6ce444d8b3353d8cb2cedcb4637d021daa6c8.meta.json",
+      "sha256": "51d4678965602b57c935fef72885b3aa1378b7e870559a6639a4646088a82ad8",
+      "bytes": 375
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/91fac19481b3d82067f03e764587967ef4115bb6e2698080d17a56a72c9aa699.html",
+      "sha256": "6d43db2d5d69c9d7d5738d2cec3e68eb9bec2ffa0178d0fb0edfc83bdca25d0d",
+      "bytes": 25652
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/91fac19481b3d82067f03e764587967ef4115bb6e2698080d17a56a72c9aa699.meta.json",
+      "sha256": "55de98cfa5c4c5e09b1a1a635af580f75cfeec5fb760e2a4d0df1edb17199add",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/922d82300b9f0cd05dfe3e832c6763fd32d89b31c31243df05487d73f361c38f.json",
+      "sha256": "242ecef0d34c4795b5aa70166a7cfa6159493dc060c5be76f14cac7222138aa4",
+      "bytes": 862
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/922d82300b9f0cd05dfe3e832c6763fd32d89b31c31243df05487d73f361c38f.meta.json",
+      "sha256": "bb6bcd57f47d77952fae01e2ec9b71a35497cfbf8590dc7876ab97eed21c162f",
+      "bytes": 375
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/99c6a981c8db0a8bbbce7c28db701b37d0c333245207405159bf9546dd095516.json",
+      "sha256": "ae932ed69453e82d063ade32c07e8f970d97055cf238c1940b3aafbbd1670baa",
+      "bytes": 932
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/99c6a981c8db0a8bbbce7c28db701b37d0c333245207405159bf9546dd095516.meta.json",
+      "sha256": "02871795043671af3e69fae9c9f2ac8f922f91e99ef844afb2f002f049dfb574",
+      "bytes": 375
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/9a63035f6f8a824a6fe0a05bb59935bb22538967ccf9694d07fdad919df40aab.json",
+      "sha256": "4ffb227d66483487f40584c0d22b7e85543efe879b57b354405ca06b486aea1f",
+      "bytes": 1029
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/9a63035f6f8a824a6fe0a05bb59935bb22538967ccf9694d07fdad919df40aab.meta.json",
+      "sha256": "099749f9a8be55ba3582718a7e86e342c76162a68b037d374a367ee34756fb6d",
+      "bytes": 376
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/9c80d002e2e2c5fc7270da9a57c4f3e3882e7d30d545c504e3f4f69f63a99efc.html",
+      "sha256": "be989a030a55c20e94bfb6d3270023ee163014fc705b30d1ff2e2b5236331799",
+      "bytes": 101425
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/9c80d002e2e2c5fc7270da9a57c4f3e3882e7d30d545c504e3f4f69f63a99efc.meta.json",
+      "sha256": "be1d617058422e94add3ced6a73bbca27a9c457688a99216e06d511636dcc76a",
+      "bytes": 350
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/aa9478969140d52103ed05a476bd213175c7301d6273b38fcbf6517deb13c920.html",
+      "sha256": "5a85e9692b125294b283e015d3a082a73412a387f5f887940b67f04b86bb7a74",
+      "bytes": 21075
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/aa9478969140d52103ed05a476bd213175c7301d6273b38fcbf6517deb13c920.meta.json",
+      "sha256": "be26f65c484cdbea9d78bdf2a20c320875c0708f194f00a69a8960c8e20362a5",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/ae807457247a7d425901aae9eb7180d8d16f341f1194cab52532af245a03b418.json",
+      "sha256": "b9197f9da8fd6f75a5c9dba228370d936b9346659b5a92839ce3996bc1290938",
+      "bytes": 936
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/ae807457247a7d425901aae9eb7180d8d16f341f1194cab52532af245a03b418.meta.json",
+      "sha256": "4b71d94ec8318b8d4e94779c510f78f67223c3195798b7f8ff845c08781babc6",
+      "bytes": 375
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/b5accceb5c3b1c95ac1c5740ac38171f989b888ddfb5e5f57a73c5954ef40810.html",
+      "sha256": "5a13bb462fe23e6a4e1d21ebb7017cebdfd45ea80d4cd546df45bfbecdccba62",
+      "bytes": 25114
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/b5accceb5c3b1c95ac1c5740ac38171f989b888ddfb5e5f57a73c5954ef40810.meta.json",
+      "sha256": "e3dfb23e7b6adad97669a658bacff5e7692d062e7a8791627dec1aa7538319df",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/b7d0db4167ca2005b0a8849719f98fbff01bbc1cc74d8bcc794e1c6d74ee72f9.html",
+      "sha256": "4206de45992cb93eaf3b0d23fc9f5adbdbb325f14403a63355b420560f4b3bd3",
+      "bytes": 24550
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/b7d0db4167ca2005b0a8849719f98fbff01bbc1cc74d8bcc794e1c6d74ee72f9.meta.json",
+      "sha256": "010277da9c5dccca536d82cbaddc6d2b6ee88af294b23be036a541eb4a65b0a5",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/ba8dc3905a47cc47a9dc291abfffe2cc3003522231b26bf16e7bf48fc5c22ddf.json",
+      "sha256": "fcee7f99922a420b30026b2f81e6249d2e988fd1c59f55c8d1ed5f9dd3c932a2",
+      "bytes": 929
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/ba8dc3905a47cc47a9dc291abfffe2cc3003522231b26bf16e7bf48fc5c22ddf.meta.json",
+      "sha256": "be27d847e722158edd0b83d407d1de7ab544279599ed5bdca2a52aaa10e91578",
+      "bytes": 375
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/be241d1af616a24ab62794cf59fbaa5553db05a8c9e0b136c51caf7b482af1fa.html",
+      "sha256": "4462441020de1616ead901221308028f04b98122f32db0caaa44245b4f23c02f",
+      "bytes": 23088
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/be241d1af616a24ab62794cf59fbaa5553db05a8c9e0b136c51caf7b482af1fa.meta.json",
+      "sha256": "366e8009c77ff6a2edfea81c65b9dcecc04c5d3438b0c992e3bcd905016c22ca",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/c8c2b5fe361d3fe24f639a640ead7b2a842c2187e1c5bc1d717c121cf4cfd7fa.html",
+      "sha256": "a61cad6758f9027602da034644f655514245f6db619f78ab35ae0861fd7c24e2",
+      "bytes": 39699
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/c8c2b5fe361d3fe24f639a640ead7b2a842c2187e1c5bc1d717c121cf4cfd7fa.meta.json",
+      "sha256": "9f9f48a826f95e6af5088300e8a7c0069505e964ddf9a1a3610a711f6e589ef0",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/cfeb8deaa455f7f26e1b2b6abf66373ea17cd6cdf1a6df3d20cc28b1fe8cd66f.json",
+      "sha256": "642c57e558dc73dab994137c9783db96337890f1bfad44dc88d0c3e3eaf80bf6",
+      "bytes": 1000
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/cfeb8deaa455f7f26e1b2b6abf66373ea17cd6cdf1a6df3d20cc28b1fe8cd66f.meta.json",
+      "sha256": "b62c810ee7c701eb0f2e68d0b55ee59fcd91d96f18fba718bcfbf2e397a55c27",
+      "bytes": 376
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/da58bd74b600484d6903422086e4a29359f32c0f7bb6c4deec0d1ffe50204a11.json",
+      "sha256": "ba66ccf7161a1582fea694641692c2d1187f1aa5474a76cee3ed3efa158f2976",
+      "bytes": 1103
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/da58bd74b600484d6903422086e4a29359f32c0f7bb6c4deec0d1ffe50204a11.meta.json",
+      "sha256": "fabcf277da11557ac20b7c2859c4a9e15db6f21b6b78dbc13fc7d22a2baa6762",
+      "bytes": 376
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/e933dd269c9746d57e2c2c1a83847b3fd1667b527ab70c61e446e90eb39973ef.json",
+      "sha256": "4bb1fb447811b379c8c7505c21447ca28756ca5602ac5010d2060dab7283cee3",
+      "bytes": 1077
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/e933dd269c9746d57e2c2c1a83847b3fd1667b527ab70c61e446e90eb39973ef.meta.json",
+      "sha256": "b3c84182fc79f108534507a5995c9df12458898f3bd83e75bdb5f4253c67b001",
+      "bytes": 376
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/eedfef89f5ddf1ac9c1269f8bac392672249aa34733def44e63f2af4c25f776c.json",
+      "sha256": "3db87a6fc754ef8fc3ce2e4f17791b911b38df4d655417a733b7fcbf4a05c3cc",
+      "bytes": 925
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/eedfef89f5ddf1ac9c1269f8bac392672249aa34733def44e63f2af4c25f776c.meta.json",
+      "sha256": "cc30717b01cee0cfa0839490c980db08eebc8ce423535341e41d90294f49476f",
+      "bytes": 375
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/f3b0d6f201a99ee6912723cdc901e7f0b61d113a578741b2561e5beb783b719f.html",
+      "sha256": "c369c219bc9e544f7c5fe6591523da32d83c4fa07013e864ea033d60551e9913",
+      "bytes": 45652
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/f3b0d6f201a99ee6912723cdc901e7f0b61d113a578741b2561e5beb783b719f.meta.json",
+      "sha256": "9a7988964d1da1f44d86465f378020bd729341daea75b3aa834d137b15f93823",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/f4b653788b3eb9a6230b8f3f9870a9b250a65b053ce6dff68b834eb605973204.json",
+      "sha256": "1615225784583a811dc4730d383cf26e805467d5ea04ebaf9a0bc97e833ec7c0",
+      "bytes": 776
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/f4b653788b3eb9a6230b8f3f9870a9b250a65b053ce6dff68b834eb605973204.meta.json",
+      "sha256": "53474a14c439176a1d8b829b7a1237d264a242246127236c412c57d51b092131",
+      "bytes": 367
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/f55a2993fef2451d0163885c324ae09de431b2db33c1e3e4b06490c0ddcbd7ee.json",
+      "sha256": "d2ca7788d0454876735cf09fcc568b82f62ec5e1fa18a3f2e7415b43b59ee33c",
+      "bytes": 1027
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/f55a2993fef2451d0163885c324ae09de431b2db33c1e3e4b06490c0ddcbd7ee.meta.json",
+      "sha256": "2d6f442645997f542e134b8745a6ed5507a6455ed816f6b060a872e2bc7733a8",
+      "bytes": 376
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/f6c89795338a0aa3cc86dae744bc8a63e5eaf334c11039b3cac615eeb3c94af5.html",
+      "sha256": "0603fa5eabb0a3d2dd050f185149f3b9d3cb0bb5495dd3318fc6ec63e7c1f262",
+      "bytes": 24035
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/f6c89795338a0aa3cc86dae744bc8a63e5eaf334c11039b3cac615eeb3c94af5.meta.json",
+      "sha256": "5a2fa9b964b9c39fb48b9e2dfd22fd4b96e4b45c964d63bf33d9cd030fda8232",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/fadeecef16e66a6db05455b75400e9f1f16edcbb362d238e0ab5821bce3fb981.json",
+      "sha256": "6fe28466477c745a1e014fcebff38233721728b08183620e22f36f2c0a5df3f6",
+      "bytes": 1006
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/fadeecef16e66a6db05455b75400e9f1f16edcbb362d238e0ab5821bce3fb981.meta.json",
+      "sha256": "197534a31017528946ee8f0209e98cadfa1011586991deba54687213e2d078bc",
+      "bytes": 376
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/feda53315261ad2d4f0b87b1fde8b7c4ff52af5a12cd9486175bbfede15006cf.json",
+      "sha256": "a4b6e1c8bc9ca1589a3b33c48ae1c37cfb6a476c138d7771863e1bd15197b6dd",
+      "bytes": 960
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/feda53315261ad2d4f0b87b1fde8b7c4ff52af5a12cd9486175bbfede15006cf.meta.json",
+      "sha256": "03ec163ac3dd939c37615f35cd21a69c84080c59f7cb79a6ee5d5990f0053a5d",
+      "bytes": 375
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/ffb36da9d111143a089d3be1b6950c5782235fe27fee262bd923a1353956e24d.json",
+      "sha256": "bfaddc631146aace7bd6a84ce09cb95694f19815f727be78a94bacfffe30de25",
+      "bytes": 866
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/ffb36da9d111143a089d3be1b6950c5782235fe27fee262bd923a1353956e24d.meta.json",
+      "sha256": "b2ee8be732831aed03c655948221a544c2a2bd966e1637c30dbbd993d3c655e4",
+      "bytes": 375
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/ffcd4f58e8fe4811fc6dd603333fa185e4575afb0c7c22bec567a10b9b7a7223.html",
+      "sha256": "dfa95f9782519de24d9b5cf78e4dfb3a9f4be94d440a6c0280640a62823adc59",
+      "bytes": 22991
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.cabeceiragrande.mg.leg.br/ffcd4f58e8fe4811fc6dd603333fa185e4575afb0c7c22bec567a10b9b7a7223.meta.json",
+      "sha256": "ee343afd5ba98598a81f9ed045babfcad5dc48b2f5da08e947d361216c6f24b8",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/0dccca4f0a8d76e753c1513c68b8cee12b21af060e31596b0f74c0a8faf77e5a.json",
+      "sha256": "1a472baf54e8e53c97b35d20bcecd533708fdfce1c516c03cacbf55b96442f54",
+      "bytes": 1075
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.erechim.rs.leg.br/ca60c15e57d1049594efb6944fe579320fda991629e839ee2bc2e9c15ce04647.html",
+      "sha256": "35f2adcfde7d070ea0e22f2d48e9525a6268d060a8dad783e4755217cee620c8",
+      "bytes": 64243
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/8a3788141b117a8bd24eb2b2439e144d251f0375a4fbfa505f47b81fd4f5c2b9.html",
+      "sha256": "175a40f479d837da2acba778a284f33549c92b22cc89c15935749631db762b99",
+      "bytes": 22001
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.portovelho.ro.leg.br/c5dd9b61b6cc887c490e424f653100c82bee080196cc96fb43511f5bbe710ac3.json",
+      "sha256": "c1b2fbdb1004db73646a651689cb857f6c9d9096d307bc109b671b25be027fb8",
+      "bytes": 949
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/agregado1008-final/entrega-final.json",
+      "sha256": "4a0f54e55334cc3d95b8c9626d3a0cc832f05750e529e040f0783de98ee494cd",
+      "bytes": 1632673
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/agregado749-final/entrega-final.json",
+      "sha256": "b11678bb5503f0c8a1df66b686ea413626009ccf5c520657d53bbec4a7507dc9",
+      "bytes": 1220715
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/agregado917-final/entrega-final.json",
+      "sha256": "a53417063d2ec2777583de6df65d44dba455818adebfd4811fd9b6b17eb86702",
+      "bytes": 1478625
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/baseline-head-ta0011/ls-tree-municipais.z",
+      "sha256": "c3d271c318b848326e487cb6655f6fa12dd2e3c239b28aae44c1104ff8ffd9b8",
+      "bytes": 13434635
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/baseline-head-ta0011/manifesto.json",
+      "sha256": "0068e0eae18ba1a52d8e132649d2dad5415bc6aa370ef8586b2220af9fb22811",
+      "bytes": 2581
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/baseline-head-ta0011/metadados-integrais.jsonl.gz",
+      "sha256": "da2cc86b8502771e35cdb189f0cfa72a46e63bd1e1477cb5bbff05f7337d603d",
+      "bytes": 7738269
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/baseline-head-ta0011/normas.paths.txt",
+      "sha256": "10b092fa0c99458f277fc7577c949d6242c6cd5001b1fb092641390e9c5cde4b",
+      "bytes": 2136461
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-commonmark-0011/aprovados.paths.txt",
+      "sha256": "0aadc318ad72ed49e711ce3bd18beca9afc43ba95099ea888d0386147b981ef2",
+      "bytes": 5083
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-commonmark-0011/controle.json",
+      "sha256": "cf1d62936f6a5b9191ab5474bbdd568cbc24f30ec2d8d8b239a722a226744d60",
+      "bytes": 136892
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-commonmark-0011/retidos.paths.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0011/aprovados.paths.txt",
+      "sha256": "0aadc318ad72ed49e711ce3bd18beca9afc43ba95099ea888d0386147b981ef2",
+      "bytes": 5083
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0011/auditoria-municipal-final.json",
+      "sha256": "7d77c31275439b63bc3989fd2c786387e53c0d2e493865967062d3bd18cee8ff",
+      "bytes": 716
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0011/colisoes-globais.json",
+      "sha256": "8661d2e98a3a437a77488fdaaea3f46088bd225010feffdcdd5cc80cc5a0d5f4",
+      "bytes": 10411
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0011/controle.json",
+      "sha256": "0b265b6a230da80dbfbf5d8046bb21a434b7196334db05594bd0826d8f985b97",
+      "bytes": 334324
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0011/dependencias-baseline.paths.txt",
+      "sha256": "52c5558f094051ae0db9f28a70487109f8f66fce88e678b4f86eb4ebaff8ba42",
+      "bytes": 792
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0011/formato.json",
+      "sha256": "090b1cdac347751c45fb81fac94e8b35e929e1e5f7eb58691bf3e94b9fed6d43",
+      "bytes": 55
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0011/retidos.paths.txt",
+      "sha256": "6a725b9a43ac3c11282b6ba59c1407349d08284d815ad97c6bd8e90b68abebbb",
+      "bytes": 23349
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0011/verificacao-integral.json",
+      "sha256": "bfacfecd6ddf476b95b51055326773aa6f713db4f8934d40273c3d943f968f1d",
+      "bytes": 22509
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-final59-0011/TESTAR.txt",
+      "sha256": "de4381388b93050be4170f634759703f72c8c0193ebb680378f09fc5b074e68f",
+      "bytes": 638
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-final59-0011/artefatos.paths.txt",
+      "sha256": "d3a518742713f98de3f8b82c6eef9cc183f4d4aafcb6e9c9ccc6d0971b34c9ea",
+      "bytes": 55612
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-final59-0011/codigo.paths.txt",
+      "sha256": "1f24e08dd25afec727338c49ede94af0af9d85c5a4f5a77ecb002abe6236d31e",
+      "bytes": 2381
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-final59-0011/disjuncao.json",
+      "sha256": "6b5931694e533fa810d819966e7980c9cb1e2ffeae7c858f757858c35f336399",
+      "bytes": 377
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-final59-0011/mapeamento-fontes.json",
+      "sha256": "13cbe9f3ee5ec89de83a546137725b63622c2b03bc75f4285da7cb4ea53f4b8f",
+      "bytes": 240890
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-final59-0011/normas.paths.txt",
+      "sha256": "e88b8d5100c35d8a3233a896513461a785257d6fa08ccc36a4450f522de3d143",
+      "bytes": 4921
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-final59-0011/retencao.json",
+      "sha256": "329f0932f1f5448e0c1eb2f2445c0039f6bbc8f414cf90e7a36354ff9821dbc7",
+      "bytes": 979
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/manifesto.json",
+      "sha256": "a591b4ef3562e8d25bab364d2ce5f3c578120921f1f219700d26823e7f870bbb",
+      "bytes": 4733
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/resultados.jsonl",
+      "sha256": "d00e56bac03cf106f7ee2182c4797a2b188f1ad73a42d28571c1c7b5a376db3e",
+      "bytes": 1908271
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.birigui.sp.leg.br.anexos.json",
+      "sha256": "80934cb9a7c8b35437e32bb1eafd9e7e54e44cf5a6d5434c585def7ed8c33e27",
+      "bytes": 1158
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.birigui.sp.leg.br.prefixo.jsonl",
+      "sha256": "fb6c20444fcbb53dd8bc91b737028aeeea5d313303e74a38f892465d21c82be1",
+      "bytes": 994156
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.birigui.sp.leg.br.tipos.json",
+      "sha256": "107e983d5703d542568cb6b71cd3142a27fa2ea1c95a64fc9d2b8bcc107d079d",
+      "bytes": 1992
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.brasilandiademinas.mg.leg.br.anexos.json",
+      "sha256": "042d2ba9dca98c4008c136ecad103f6534eddee6d0d8713f3ddc2cf18b1ca7ef",
+      "bytes": 710
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.brasilandiademinas.mg.leg.br.prefixo.jsonl",
+      "sha256": "29b87454b09594dfd823da99120d76215e0483d244fcf66f2d1fdec6a8a14b41",
+      "bytes": 12968
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.brasilandiademinas.mg.leg.br.tipos.json",
+      "sha256": "993940b814413cb2a5743700e84b18dc334ef067f668123d11c049e3aab8a7af",
+      "bytes": 2098
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.buritis.mg.leg.br.anexos.json",
+      "sha256": "d275423195b89a84ca33d2d7a094311ae554438b84f7d87342a8bd73f800aa4e",
+      "bytes": 38169
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.buritis.mg.leg.br.prefixo.jsonl",
+      "sha256": "cd505b7eb96da95c8350e26fddf0d3f825531f9684b778f3d68f264b03d4b999",
+      "bytes": 211095
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.buritis.mg.leg.br.tipos.json",
+      "sha256": "fe89ffb15dfdf83609e4f3e72ba640f66f2a932fc5497d33140841dc5588c00b",
+      "bytes": 1423
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.buritis.ro.leg.br.anexos.json",
+      "sha256": "a7c8057f4fb2a33609d53aaed16f088a8c6d47c5fc36096a3083051c2c96a660",
+      "bytes": 4517
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.buritis.ro.leg.br.prefixo.jsonl",
+      "sha256": "726e217bf9f7bce60d73cc03ec283b8822b8dae3aff074a6e72f298413924ee5",
+      "bytes": 3690
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.buritis.ro.leg.br.tipos.json",
+      "sha256": "bfdc6ddc04233add3aedf49c5d005f21e6df0d667d200e3f75352e564a384598",
+      "bytes": 2171
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.cabeceiragrande.mg.leg.br.anexos.json",
+      "sha256": "1d725df888677d510e8d317f79d8095076e607bb1110903cf0d44b542b57431e",
+      "bytes": 6838
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.cabeceiragrande.mg.leg.br.prefixo.jsonl",
+      "sha256": "c2839d3d674147fb0dad7dae91d90054f4b95282b8152997788ada279b88baf8",
+      "bytes": 153868
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.cabeceiragrande.mg.leg.br.tipos.json",
+      "sha256": "5da99687dc8f4d31d9b2ba38f739028b830872fc5173955cfb3da29c56dfa0ba",
+      "bytes": 1879
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-jurisdicao-0011/aprovados.paths.txt",
+      "sha256": "e88b8d5100c35d8a3233a896513461a785257d6fa08ccc36a4450f522de3d143",
+      "bytes": 4921
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-jurisdicao-0011/controle.json",
+      "sha256": "7ac6e8ba250ed34f9681b08cb8160ad5a8dd1fcf8aa2c76abed5eae77fb37b16",
+      "bytes": 15985
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0011-v5/indices-nao-utilizados.json",
+      "sha256": "d4916012e018556c9851ebf9c46356eb03c7a598b4219b701d86ced3dafa6055",
+      "bytes": 613
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0011-v5/manifesto.json",
+      "sha256": "018631568345a0ebe7b9ec1f370426190950e841f985e684ed85a2b6a5166617",
+      "bytes": 1224
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0011-v5/normas.paths.txt",
+      "sha256": "49395ba2615df95e075411bda8142e6a048b7cd34f25c1e71bbf319011753095",
+      "bytes": 28432
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0011-v5/resultados.jsonl",
+      "sha256": "abe23919e2c091bde0885e19d5920bce6fb0eedc9a40178f0f9957a7096a8608",
+      "bytes": 1400999
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-selecao-0011/snapshot.json",
+      "sha256": "ddea544b5f66938b976096bbcd68138a8b8f759863e5a0e7e80fc7882790822c",
+      "bytes": 73863
+    },
+    {
+      "arquivo": "municipais/_indice/ibge-municipios.json",
+      "sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+      "bytes": 2470036
+    },
+    {
+      "arquivo": "municipais/_lotes/20261020-textos-articulados-captura/sapl.portovelho.ro.leg.br/candidatos/29880-10606.txt",
+      "sha256": "153e1b94cba09965128df8d9c4e8a37aa3bf27884de36ec72fad12d34ba4b399",
+      "bytes": 4255
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-contexto-0001-v2/casos-reais.json",
+      "sha256": "808c88ae3679a624d8a24b3d1e9fcac33878a11ca0567cd19030c05005eb648a",
+      "bytes": 71088
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-contexto-0002/dependencias-testes.paths.txt",
+      "sha256": "a5f3455115472b6e0a41874baae1f5e761029f3a2b6f4c7043fde7fd3a442fe0",
+      "bytes": 2054
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001-v2/sapl.alpinopolis.mg.leg.br.anexos.json",
+      "sha256": "fd79c3d82197da8ec51c540b78bca482fbf1b0b10e5a931e6b557116c9b7166b",
+      "bytes": 4880
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001-v2/sapl.alpinopolis.mg.leg.br.tipos.json",
+      "sha256": "d28f23313129670d400eb6bfd055a7739d524d445ec20cb6bfee8c8cb32826cb",
+      "bytes": 1638
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001-v2/sapl.erechim.rs.leg.br.anexos.json",
+      "sha256": "20f50de24f24030b12ab268ef5fc24f9887eba212a8746d4dcf2636bfa4becd9",
+      "bytes": 218595
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001-v2/sapl.erechim.rs.leg.br.tipos.json",
+      "sha256": "54baddcc16776318bee730a3df6816bdc839a504211f37d2080b78a6e7f27fbf",
+      "bytes": 2998
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001-v2/sapl.portovelho.ro.leg.br.anexos.json",
+      "sha256": "b5c1a05dee20c699cc22665af9744c1d4a3cc61dcaa439c2d6310054218149a6",
+      "bytes": 33655
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001-v2/sapl.portovelho.ro.leg.br.tipos.json",
+      "sha256": "d805dad9f0a5409f538b93c34b0e6ac8cef59bbbfcf7f2584f6ff348d7119eda",
+      "bytes": 2873
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-expansao/sapl.erechim.rs.leg.br/candidatos/18530-552.txt",
+      "sha256": "b505425bb912cd2dc44d5776856cb199350de98c105d98ff2e4940d68ce1e01a",
+      "bytes": 16814
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.alpinopolis.mg.leg.br/candidatos/4-4.txt",
+      "sha256": "b437da439b4bdb0a3a550ffd33a12d267e464437dc25056d1883113b939bd3b3",
+      "bytes": 2535
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/100-2157.txt",
+      "sha256": "cf12c8a03adfe3120162e6c34968fce0e14fa6acdba6f4c3881423e7f4e717f3",
+      "bytes": 1647
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/1888-1958.txt",
+      "sha256": "cd100faab18cc54f751c0c5281764767f55a31f4fabb440dc3779bf9afa9f471",
+      "bytes": 1403
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/1890-2050.txt",
+      "sha256": "1d97702db4987d05a19808ce58311c65b4c94ed0bb89230e4119b73247ae6f95",
+      "bytes": 758
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/1891-2051.txt",
+      "sha256": "b6c29be50992747d81434b1a6ff9de40452fb10436b2cc47bed0077c5cf26325",
+      "bytes": 837
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/1892-2052.txt",
+      "sha256": "b094298065d6e3fb368ab76a038cd72f312f6359c6a5153aca745eaa4e855190",
+      "bytes": 846
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/1893-2053.txt",
+      "sha256": "7c9a94f20d16f95301786c1e1ac1a7a69c75bdf9a040cb64236c81664a54df13",
+      "bytes": 911
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/1894-2054.txt",
+      "sha256": "f50a0ed0296001a2d00a1bcedfcb5c8f0936db5757e11dcf9947252d202ea73e",
+      "bytes": 872
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/1895-2066.txt",
+      "sha256": "3d7f5c502e6f29c953a983dfed8a52f2d5006322a93db4f6f9691a5818a2d9db",
+      "bytes": 906
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/1896-2055.txt",
+      "sha256": "2b2aa01c2e9f4949df29bdcf90d7793ed421e3bb7d486b2b07a189dcdb7a3efe",
+      "bytes": 898
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/1897-2056.txt",
+      "sha256": "83d0df53fe27ea934a693ec626d531048f06207480c34f4b367e459c8e7fb310",
+      "bytes": 882
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/1898-2057.txt",
+      "sha256": "c4d3ca6cd2de696859dd6aa75d7d963aaa1b8dc4721a37258402433101b5f787",
+      "bytes": 867
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/1899-2058.txt",
+      "sha256": "411a6c8c4ccbecf338f7fcd93363eb5a0c586fd6ec61a0321a04700269312713",
+      "bytes": 854
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/1900-2059.txt",
+      "sha256": "1cbee5100a7178c9b116d3378836c43551d78f156297853fe9bc445a8d5e5fda",
+      "bytes": 804
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/1901-2060.txt",
+      "sha256": "7c1f4dbf15a1b8d1a845cf457fcb973100454daf297b122e1b99132683ff425b",
+      "bytes": 837
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/539-977.txt",
+      "sha256": "8c8f05cd3a584488012a4d8c46c91f93a91f596b7f4aebb1e451dd14b343ea76",
+      "bytes": 16345
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/542-981.txt",
+      "sha256": "b8645e5891e9269dbda2866899a6de60738b3ad4d5213088c7a2a5be1731902d",
+      "bytes": 1647
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/550-986.txt",
+      "sha256": "711d6421df05252e7d26ad3e1ba81ad9b9028706461223378310cb7cd5cb9f93",
+      "bytes": 8511
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/551-987.txt",
+      "sha256": "cc1519ed1c913856f627b3cd191c56dd92452d1fb440fadb8e8438380c931060",
+      "bytes": 24174
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/552-988.txt",
+      "sha256": "3bc3af2b48ec88dd215d4931735b76ba66dcf9714233de4ab49851c498fecd82",
+      "bytes": 1039
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/556-991.txt",
+      "sha256": "dfb66fc16a543340ce4ee8bb08a7cd9468cb3df4f25bfd39eb6c594240334320",
+      "bytes": 2428
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/557-993.txt",
+      "sha256": "f7fa9704710ec76420310501269cf73432473a693f25221755b8c2bb9cbe3c5b",
+      "bytes": 1380
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/559-996.txt",
+      "sha256": "8fc9dfecb89e146d27fafbc5d78bada179262d7a9e9ce0c2d9f8e9f35d385e31",
+      "bytes": 678
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/561-998.txt",
+      "sha256": "d5d80e723ea85c9f97c0e8cf1df220591b291b5375b57bf9c4ef377f4e88335d",
+      "bytes": 2929
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/562-999.txt",
+      "sha256": "46fb0450bba1886973b405d8f68f498df39981dc3ca5641d5094aed7f907e0a0",
+      "bytes": 6209
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/563-1002.txt",
+      "sha256": "a146d75abc5ffb185819e4f2d237f129fd6afa22d86354df946a62f5a7f1b2de",
+      "bytes": 6041
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/565-1006.txt",
+      "sha256": "0c86f3a0d5f0ee8a422fcd9af54fbc8c1c1c8d65d7f4150345d52008dce0d8a2",
+      "bytes": 1776
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/566-1008.txt",
+      "sha256": "02a8f50e34f036366eae481ca45c3b9e0a7daf4e30dedb54e80786c68147b869",
+      "bytes": 628
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/569-1012.txt",
+      "sha256": "cb5ed987df139757db8e36849ac257017e78fdfd3b0b710b10ceffc78f4896ac",
+      "bytes": 623
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/570-1013.txt",
+      "sha256": "32dd644db5466f52abbf89ab5a372235281319c2f667eedb6d2dff6006ea4b49",
+      "bytes": 710
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/58-2242.txt",
+      "sha256": "c9f282e96b945ebf571b1a66c6751758b3055fb00d452fbbf8bfd3da796fb70f",
+      "bytes": 850
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1281-1070.txt",
+      "sha256": "85017b095561e815555bb2a2d9edfd68e43a4004132973758bb2b4237d8241dc",
+      "bytes": 13195
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1283-1071.txt",
+      "sha256": "a2906ce2f3953aef8997d23474fbb12c9511afb6e99e4aad5255b230494d8d43",
+      "bytes": 1374
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1286-1074.txt",
+      "sha256": "da1494d12ea7b92662bfd0f9703e6fc0e0e11ac187afcaf6359729863d353c71",
+      "bytes": 3039
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1290-1075.txt",
+      "sha256": "6ffeed761ebce446253355e448b143f0422b97016e7768973b3f2e30f852c1ff",
+      "bytes": 25571
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1308-1081.txt",
+      "sha256": "3ec291fd45d7629adbb6eec0c693933fc89fb785d0629631131d3c13c7a41cdf",
+      "bytes": 3140
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1309-1082.txt",
+      "sha256": "72b824c6a3287950a506d8a5e88b4f1f8c602270fcf974c01ab3eb488bfcee57",
+      "bytes": 14937
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1312-1084.txt",
+      "sha256": "4f46b6f46c75eea271b8f0c31a9d96393c666c30d7ca1aaeb7b76a88a8dbb19a",
+      "bytes": 6063
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1314-1086.txt",
+      "sha256": "3c160dbfd468455d902fd992113392eac933509f531649de4e6fc0ff092921ef",
+      "bytes": 726
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1323-1089.txt",
+      "sha256": "b75571baa76c7a66d2108c5e2a4b8fa347616190213d26ac5a819d3a2f8c3b15",
+      "bytes": 7201
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1327-1100.txt",
+      "sha256": "21b31c8832210f25fc149540a02118cc56cffbaf5ff618f5f0a6df32c49f6e12",
+      "bytes": 1974
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1329-1102.txt",
+      "sha256": "7ab8012a028bd6d7826338188eaab2df9f3b59b3bca19cf25a86a73be1a40c87",
+      "bytes": 3833
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1330-1103.txt",
+      "sha256": "706503080c764b11b79f9ad7808a54d2f3f7ea54142c28ef7a06566c664b2e8f",
+      "bytes": 3946
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1332-1105.txt",
+      "sha256": "a1ab958876b628ccaad1325dc4cb929c0ca49bff4aaa79a5b26e12af9307e2e2",
+      "bytes": 2613
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1334-1106.txt",
+      "sha256": "c00adb0722c5c1a2d3a02679655eec55eae0f246287c192d0ffd03676053207d",
+      "bytes": 12452
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1344-1114.txt",
+      "sha256": "fc5b46676871f64ddbb9d6a21d1dcc2ca15294e13808426f75aec7c3199df104",
+      "bytes": 901
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1345-1116.txt",
+      "sha256": "89e0163e651d957322208b36bb594890df15de43a8f9feb6a711c97397d4bc93",
+      "bytes": 4521
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1346-1117.txt",
+      "sha256": "fd0d9ccad196c6dd84504d681aebe6d38fdc11a5efc4a1827beaae251c4961d0",
+      "bytes": 3417
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1347-1118.txt",
+      "sha256": "74d4fdeca03ad032a818c8baf76b2f3789fe921c11863ee5239a539399d52d69",
+      "bytes": 2165
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1349-1120.txt",
+      "sha256": "6324edcd53123a59e4e1178adf35870d0aa2e0f008ffdd1a289b11a700f29875",
+      "bytes": 5175
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1360-1125.txt",
+      "sha256": "96a6a8928437f682901370c88228c19878af99446ef050dbab60864965d0df01",
+      "bytes": 3011
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1361-1126.txt",
+      "sha256": "17ac69710ff4ff54877a3dfdcea4db8acd25bb80c9a3994a49125b47c4bf416e",
+      "bytes": 3135
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1362-1127.txt",
+      "sha256": "160859c26c0759ea199c1738ec4f721efae5ec876fe14d311170ebacc81f7c05",
+      "bytes": 1906
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1364-1129.txt",
+      "sha256": "c346e032d08bf63493874a55df43ebb569b5bbf5c53f65f9deb21a5fc631b720",
+      "bytes": 2370
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1365-1130.txt",
+      "sha256": "dbe45cff58d373c850db486a152c7afd9229fe9e6c018b843a9ad935f348b53a",
+      "bytes": 2075
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1375-1133.txt",
+      "sha256": "304bbc9f614a4d07a286dccceaec8637efadc6a079e606e5ac2a2c914de47b5d",
+      "bytes": 3699
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1377-1135.txt",
+      "sha256": "3a4aaa4f82b8ffc265be47e467789998fa539b71ed94ea46ab7c8bae1cbfd0b6",
+      "bytes": 2335
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1380-1137.txt",
+      "sha256": "90237015714b060e55e233403c5e7cf343a24789ecafe830675c84cddf3081b1",
+      "bytes": 3616
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1382-1138.txt",
+      "sha256": "c8d2d59e253427de83e7e1ca9b6c0fb2a25411daf9fecb395489c70dad1c8de9",
+      "bytes": 892
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.cabeceiragrande.mg.leg.br/candidatos/1383-1139.txt",
+      "sha256": "c0bd70f7128492024ab00950c58862d226e897257578da32200e5248fd47c1cc",
+      "bytes": 2183
+    },
+    {
+      "arquivo": "scripts/auditar.py",
+      "sha256": "a49009efb2d02a3059bf5cbaddc39529c24e2630e377f46cf419c765033ca648",
+      "bytes": 6096
+    },
+    {
+      "arquivo": "scripts/auditar_anexos_sapl.py",
+      "sha256": "9ade983595c7cd4e7a3ec52b15ab460dcf75ec853dd2b309870645458d75f362",
+      "bytes": 7986
+    },
+    {
+      "arquivo": "scripts/auditar_colisoes_lote_municipal.py",
+      "sha256": "9a2352f632d8255cfae6f0317caf62a77b84b41a548e4112fe7ae971ac3a434c",
+      "bytes": 3135
+    },
+    {
+      "arquivo": "scripts/auditar_commonmark_ta.py",
+      "sha256": "7867057e17ae91c547b30da336caa064b5d444d593c546e7091bbbf95c2820bf",
+      "bytes": 8927
+    },
+    {
+      "arquivo": "scripts/auditar_commonmark_ta_v2.py",
+      "sha256": "c2a5ba63f7310a439503707bcaac10e4a4d904f40a29e4e0026eb33a73458974",
+      "bytes": 10158
+    },
+    {
+      "arquivo": "scripts/auditar_contexto_completo_ta.py",
+      "sha256": "f44151983d56fd8ff3380b5ad14ad8557215b895048d6405e7563b21b6a3b066",
+      "bytes": 4689
+    },
+    {
+      "arquivo": "scripts/auditar_emissores_sapl.py",
+      "sha256": "1749efcc1a6334b652716841d89cec2170eabaa580b23937b4a83a5ea74af023",
+      "bytes": 2856
+    },
+    {
+      "arquivo": "scripts/auditar_epigrafes_literais_sapl.py",
+      "sha256": "f05f5647f7345c49539ea746f912935729c62e7fb09ae06cd5b6a77b9bcc216c",
+      "bytes": 4690
+    },
+    {
+      "arquivo": "scripts/auditar_jurisdicao_ta.py",
+      "sha256": "2eeaa4c3704a0a720f4c6ecc157406c9062522a8c8817066d60ac60573aaf9bd",
+      "bytes": 2583
+    },
+    {
+      "arquivo": "scripts/auditar_municipal.py",
+      "sha256": "817f196f53162076bac125fb7c509e9ba6d9479e9aa6918ae5428822dec43ac8",
+      "bytes": 8443
+    },
+    {
+      "arquivo": "scripts/auditar_textos_articulados_sapl.py",
+      "sha256": "f252f6495f44b5abe768f169f079c44241ff9dd7919d7ff02640f1ec75945602",
+      "bytes": 8176
+    },
+    {
+      "arquivo": "scripts/auditar_textos_articulados_sapl_v3.py",
+      "sha256": "1b93f353c686aecdc8674eae482a92e84a09be209fb34afc41c53bef53ffbe3d",
+      "bytes": 9614
+    },
+    {
+      "arquivo": "scripts/auditar_textos_articulados_sapl_v4.py",
+      "sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+      "bytes": 9993
+    },
+    {
+      "arquivo": "scripts/baixar_organicas_sapl.py",
+      "sha256": "148df658e432b0eea050a1444c09854123732796c689267f7094a1f88db7d682",
+      "bytes": 21700
+    },
+    {
+      "arquivo": "scripts/baixar_textos_articulados_sapl.py",
+      "sha256": "7dd7c1978025f1180979fd5597f043e0484a634b3a33ea6a5e71fdaf81115e74",
+      "bytes": 13684
+    },
+    {
+      "arquivo": "scripts/baixar_textos_articulados_sapl_v2.py",
+      "sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+      "bytes": 13875
+    },
+    {
+      "arquivo": "scripts/comparar_baseline_municipal_head_20261027.py",
+      "sha256": "6cf4eb7ef24c88aff11487039d766cd27be1f6f21d4a30fa7a93f4128f7b7ab2",
+      "bytes": 2948
+    },
+    {
+      "arquivo": "scripts/comum.py",
+      "sha256": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24",
+      "bytes": 19447
+    },
+    {
+      "arquivo": "scripts/conferir_tabelas_nativas_ta.py",
+      "sha256": "606b9e1fa70dfd8010af6837b8ee03274511c8cff7dd2b09da4b4037dcb0660f",
+      "bytes": 4532
+    },
+    {
+      "arquivo": "scripts/congelar_baseline_municipal_head_20261027.py",
+      "sha256": "191f21e4b21378dd1abaa6609328adf379c8e8c1831ae49b78d231d842a317bf",
+      "bytes": 6132
+    },
+    {
+      "arquivo": "scripts/converter_organica_fortaleza.py",
+      "sha256": "84784009dbf676e8a912dad5954da4cfb8385dc897702b02043c3bbf55a6175d",
+      "bytes": 6998
+    },
+    {
+      "arquivo": "scripts/empacotar_lote_ta_v2.py",
+      "sha256": "1878f6c5a3d45e526309eb65afc9316f147fb66d0818defbb1e5bbf40989191c",
+      "bytes": 6732
+    },
+    {
+      "arquivo": "scripts/empacotar_lote_ta_v3.py",
+      "sha256": "68fd0b139298cd9a6dbb20a518735da99c508866e9358a158ff1a5bc70e1cb11",
+      "bytes": 6915
+    },
+    {
+      "arquivo": "scripts/empacotar_lote_ta_v4.py",
+      "sha256": "b0ce22ffe502f6b63150275f28468334645ceee65db0a9f775c96edb161026c1",
+      "bytes": 7464
+    },
+    {
+      "arquivo": "scripts/epigrafe_tipo_literal_ta.py",
+      "sha256": "66b3592a85c46073c84fe8eecc5f390b39780075c7381ed896d4af27bf6d074c",
+      "bytes": 2556
+    },
+    {
+      "arquivo": "scripts/estados/pe_fidelidade_visivel.py",
+      "sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+      "bytes": 7551
+    },
+    {
+      "arquivo": "scripts/fila_textos_articulados_sapl.py",
+      "sha256": "fae2fcd8d7cd06b80af1583417e1c9d85eb9dce60d40775160dfe0215204c3dd",
+      "bytes": 8321
+    },
+    {
+      "arquivo": "scripts/granularidade_sapl.py",
+      "sha256": "d92d9b1d53240888103a2602046d11b510f2db9192afc4cdeea37db697dd1b87",
+      "bytes": 2972
+    },
+    {
+      "arquivo": "scripts/html2md.py",
+      "sha256": "6ad648a6a94c8d51d880a2d79c39f1abe751032d3355e468363e43ca83fdcdc6",
+      "bytes": 15168
+    },
+    {
+      "arquivo": "scripts/materializar_textos_articulados_sapl.py",
+      "sha256": "9e1d636d3befc3157501af0e53362eada604ecc08e364bc2508b8993b5429d6f",
+      "bytes": 9762
+    },
+    {
+      "arquivo": "scripts/materializar_textos_articulados_sapl_v2.py",
+      "sha256": "e3533e51cd02c9f58c76759520672c2fbbc297b189e05f4d161fddc822569b5d",
+      "bytes": 10540
+    },
+    {
+      "arquivo": "scripts/materializar_textos_articulados_sapl_v3.py",
+      "sha256": "823127e8103290674dda32a48b91d1c07c72331751765fec5db1206041ade713",
+      "bytes": 10598
+    },
+    {
+      "arquivo": "scripts/materializar_textos_articulados_sapl_v4.py",
+      "sha256": "3761528e4a24ba9fb8b5bf256f24a6791ca0728a68e9af390a3346b9b9722be1",
+      "bytes": 10660
+    },
+    {
+      "arquivo": "scripts/materializar_textos_articulados_sapl_v5.py",
+      "sha256": "cc15ede602c89faf6ec56a8e77b428f8fb4fa465a08f4ba5d5e04e389b9072d3",
+      "bytes": 12155
+    },
+    {
+      "arquivo": "scripts/preparar_reparos_commonmark_ta6.py",
+      "sha256": "9189d5dbe33e6b88868bc6ff5c458cc4c4beebc38f777a0ce7dab7db0a3205b9",
+      "bytes": 6181
+    },
+    {
+      "arquivo": "scripts/qa_municipal_persistente_20261027.py",
+      "sha256": "dd89a2fefae6c7dce6b15aab655b819d512020ddc03165b1ce384f0c9e419140",
+      "bytes": 1068
+    },
+    {
+      "arquivo": "scripts/selecionar_lote_ta.py",
+      "sha256": "4f9fef2ea112e555438b0a4a4b6eda008462c0c9c97fd1a07caadc68b489181a",
+      "bytes": 2770
+    },
+    {
+      "arquivo": "scripts/selecionar_lote_ta_v2.py",
+      "sha256": "ed1f0a1eaeda7c9c3f1271ecdbbae4634b92e070bb936d4d89f3e5d2ac57f520",
+      "bytes": 2989
+    },
+    {
+      "arquivo": "scripts/selecionar_recuperacao_identidade_ta.py",
+      "sha256": "267bcf939e8e1bb1bc4ecafd45e79187b51b0ca77ec168c3182851deacf9a166",
+      "bytes": 3693
+    },
+    {
+      "arquivo": "scripts/selecionar_recuperacao_tabelas_ta.py",
+      "sha256": "e885aa3df5a06284177898e2ae0af665e9c3f159933daf9b0d679c5ca5643d94",
+      "bytes": 3778
+    },
+    {
+      "arquivo": "scripts/test_baseline_municipal_head_20261027.py",
+      "sha256": "30250b10f743dacc98ede87d6df444d80c8411387ae8e3be7d68a6e0c2f89499",
+      "bytes": 4572
+    },
+    {
+      "arquivo": "scripts/test_colisoes_lote_municipal.py",
+      "sha256": "19ecbd08a458ba576e436d0e4ee07c06e412857763f60998d955cc0373f85830",
+      "bytes": 1242
+    },
+    {
+      "arquivo": "scripts/test_commonmark_ta.py",
+      "sha256": "32019a2b9a0a818cf19aa1ae8545c3d3c0f7d99c29e841958ca47466ff2e4100",
+      "bytes": 2294
+    },
+    {
+      "arquivo": "scripts/test_commonmark_ta_v2.py",
+      "sha256": "c1524dba0e1cb87b304f8603186ffe74922acc9b6e57449e0a34ad12ee06572e",
+      "bytes": 1094
+    },
+    {
+      "arquivo": "scripts/test_contexto_completo_ta.py",
+      "sha256": "49a6f6ed9cfaa45e6d27656bc7506ac5c322e9b4eedca4ff336b4abdaaa08856",
+      "bytes": 1690
+    },
+    {
+      "arquivo": "scripts/test_data_captura_ta.py",
+      "sha256": "4d176f217edb18973aac6fe29866c74e1055a77579412983e706bd9d141a6cf6",
+      "bytes": 961
+    },
+    {
+      "arquivo": "scripts/test_emissores_sapl.py",
+      "sha256": "77e097c66c2c6e195e475176b9516e0ab693de167f3f5133381982de5e3fc91e",
+      "bytes": 961
+    },
+    {
+      "arquivo": "scripts/test_epigrafe_tipo_literal_ta.py",
+      "sha256": "5c62a02119d04d11a021203222cb1de84d3cba9eb4c0535771d647ab84a5ebfe",
+      "bytes": 2220
+    },
+    {
+      "arquivo": "scripts/test_fila_ta_sapl.py",
+      "sha256": "3c50951e427c63adca050bb2f058a133192e0bb9aacbb1aad0962f83abf2d43c",
+      "bytes": 1716
+    },
+    {
+      "arquivo": "scripts/test_gates_textos_articulados_sapl.py",
+      "sha256": "d9c9e0e028ae369c624f0cd8a7dfbe9f99353c386d3cc2057d4cbfb2a8b63e2e",
+      "bytes": 2871
+    },
+    {
+      "arquivo": "scripts/test_indice_materializacao_ta_v5.py",
+      "sha256": "0e041f434e9b41aa5886b663abdfc1c11eab1935aba39573ea179374ad2b71ba",
+      "bytes": 1664
+    },
+    {
+      "arquivo": "scripts/test_reparos_commonmark_ta6.py",
+      "sha256": "dd5adedb93b66587549c18a96af275b55e5a5ff969315058418a120f92972d5c",
+      "bytes": 2198
+    },
+    {
+      "arquivo": "scripts/test_rotulo_literal_ta.py",
+      "sha256": "1c5e028d510416b871084cd2143cd6e63c433b5be244a517dcbdf53542be76a3",
+      "bytes": 2026
+    },
+    {
+      "arquivo": "scripts/test_tabelas_nativas_ta.py",
+      "sha256": "5b3911115094b72e35815b8ff154793760ab8e111f02e1e7a5051566d730227f",
+      "bytes": 1379
+    },
+    {
+      "arquivo": "scripts/test_tabelas_nativas_ta_reais.py",
+      "sha256": "2d88c7d7ed60b5292ccd3822c1bdbfe5a50b3c49459f6e2ade5c32b227949520",
+      "bytes": 1506
+    },
+    {
+      "arquivo": "scripts/test_textos_articulados_sapl.py",
+      "sha256": "f4ffa5c7d80203619f3c9fabc18798e0415cacab434bbc7a456ed9de45fcdf1f",
+      "bytes": 1908
+    },
+    {
+      "arquivo": "scripts/test_verificador_tabelas_ta.py",
+      "sha256": "ff488ef260b2ad2065ecacc11cc7e8839ad3a94c0220385c705c46bf99e05fed",
+      "bytes": 2077
+    },
+    {
+      "arquivo": "scripts/test_verificar_promocoes_ta.py",
+      "sha256": "cb52f0dd6b1e265c3d3656b465fe3e940885a1aa840abfe1d5035c1c1acf7597",
+      "bytes": 1964
+    },
+    {
+      "arquivo": "scripts/verificar_entrega_ta_promocoes.py",
+      "sha256": "8737bf799ed4cf6ee23951599dbefc7d6302311bab8881a082a43e2f9a064885",
+      "bytes": 4478
+    },
+    {
+      "arquivo": "scripts/verificar_entrega_ta_sem_promocoes_v2.py",
+      "sha256": "0df5d0f5897ab3efb2303f002439a72a0a296ad8233b134447d485b61d9eb30d",
+      "bytes": 4313
+    },
+    {
+      "arquivo": "scripts/verificar_textos_articulados_materializados.py",
+      "sha256": "41563c6048c4eb3baae9a3470a5f238c15b6292bdaff5dd3020f34eeed4b15b1",
+      "bytes": 2790
+    }
+  ],
+  "bytes": 39362568,
+  "listas": {
+    "normas": "municipais/_indice/_recuperacao_20261027/lotes/ta-final59-0011/normas.paths.txt",
+    "artefatos": "municipais/_indice/_recuperacao_20261027/lotes/ta-final59-0011/artefatos.paths.txt",
+    "codigo": "municipais/_indice/_recuperacao_20261027/lotes/ta-final59-0011/codigo.paths.txt"
+  }
+}

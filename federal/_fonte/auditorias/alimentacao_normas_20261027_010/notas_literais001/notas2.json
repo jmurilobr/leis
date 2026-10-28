@@ -1,0 +1,30 @@
+{
+  "registros": [
+    {
+      "path": "federal/decretos/1935/dec-457-1935-11-26.md",
+      "candidato": "federal/_fonte/auditorias/alimentacao_normas_20261027_010/notas_literais001/dec-457-1935-11-26.md",
+      "sha256_candidato": "9688b168712480ce7d08b225b18e56a35416ca11d1bedf57b4c04fbc3d3f8588",
+      "predecessor_privado": {
+        "path": "federal/_fonte/auditorias/alimentacao_normas_20261027_010/qa_final_v4/candidatos/dec-457-1935-11-26.md",
+        "sha256": "122e38ec3944f53e5d728c4d941cfd1f3654686bc1a47f903d3528e417de5c78"
+      },
+      "sha256_corpo_inalterado": "26f65b420c5f028747d04830b5f0c2972031d1e617134a56004e1fb60ae3fd6d",
+      "campo_editorial": "observacao_metadado_oculto_fonte",
+      "nota": "O elemento title do HTML da fonte contém literalmente DECRETO 457 – DE 26 DE NOVEMBRO DE 1985. A epígrafe e o fecho no corpo, a API e o índice oficial identificam o Decreto 457 de 26 de novembro de 1935. A divergência do metadado oculto é preservada na fonte arquivada; nenhum caractere do corpo foi emendado e não se atribui causa.",
+      "limites": "Somente YAML editorial atribuído à fonte; corpo byte idêntico, fontes e anterior preservados."
+    },
+    {
+      "path": "federal/decretos/1935/dec-175-1935-05-31.md",
+      "candidato": "federal/_fonte/auditorias/alimentacao_normas_20261027_010/notas_literais001/dec-175-1935-05-31.md",
+      "sha256_candidato": "9afbab3324ba1f83a85ea74dde69c903e6af571a07ec519f73ac4adcbe23a4ba",
+      "predecessor_privado": {
+        "path": "federal/_fonte/auditorias/alimentacao_normas_20261027_010/qa_final_v4/candidatos/dec-175-1935-05-31.md",
+        "sha256": "e879d31209da936485124c95fdd855b1df5741054035b8625dd32fd5ff0ca3f3"
+      },
+      "sha256_corpo_inalterado": "9748a0e0e4e84c572584659ca185e1b3f88e472189e2f6aef1632516ca058e30",
+      "campo_editorial": "observacao_referencia_literal_fonte",
+      "nota": "A ementa da transcrição oficial refere literalmente decreto n. 4, de 30 de Julho de 1984; esse trecho foi preservado. A epígrafe e o fecho do próprio ato, a API e o índice oficial identificam 31 de maio de 1935. O artigo único refere os decretos 24.613 e 24.501 de 1934. Não se corrige nem se atribui causa à referência literal da ementa, que não foi usada para definir a data deste ato.",
+      "limites": "Somente YAML editorial atribuído à fonte; corpo byte idêntico, fontes e anterior preservados."
+    }
+  ]
+}

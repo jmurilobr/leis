@@ -1,0 +1,11 @@
+--- a/scripts/integridade_anexos_decreto.py
++++ b/scripts/integridade_anexos_decreto.py
+@@ -112,7 +112,7 @@
+     # Explicit current-object expressions bind their own supplement before any
+     # external-reference exemption. The object need not be an unnamed table.
+     current_object = re.compile(
+-        r'\bacompanha[m]?\s+(?:(?:o|a|os|as)\s+)?(?:presente|este|esta)\s+decreto\b'
++        r'\bacompanha[m]?\s+(?:(?:o|a|os|as)\s+)?(?:presente|este|esta)[\s,;:–-]+decreto\b'
+         r'|\bque\s+(?:com|a)\s+(?:(?:o|a)\s+)?(?:este|esta)\s+(?:decreto\s+)?(?:baixa[m]?|acompanha[m]?)\b')
+     for current in current_object.finditer(normalized):
+         references.append({'remissao': current[0],

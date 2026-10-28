@@ -1,0 +1,130 @@
+---
+titulo: "Lei Ordinária-CMCN nº 4.108, de 08 de maio de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4108"
+data: "2026-05-08"
+municipio: "Currais Novos"
+uf: "RN"
+codigo_ibge: "2403103"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.curraisnovos.rn.leg.br/norma/4452"
+fonte_texto: "https://sapl.curraisnovos.rn.leg.br/ta/213/text"
+sha256_fonte: "e60276b777092a6bc67fce633dd7f7aa4b60b7da95143360a025b1328c6c2a2c"
+sha256_texto: "7443d6dc1699aa83779b13826b86958a5b67cd42ea779d611dd52baf1d1118ee"
+capturado_em_fonte: "2026-10-28T09:39:58.695618-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-CMCN nº 4.108, de 08 de maio de 2026
+
+Inclui o evento “Rock na Praça” no Calendário Oficial de Eventos Culturais do Município de Currais Novos e dá outras providências.
+
+
+O PREFEITO DO MUNICÍPIO DE CURRAIS NOVOS, no uso de suas atribuições legais. Faço saber que a Câmara Municipal de Currais Novos aprovou o Projeto de Lei nº 016/2026, de autoria do Vereador Jaire de Freitas Araújo, e EU sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica incluído no Calendário Oficial de Eventos Culturais do Município de Currais Novos o evento denominado “Rock na Praça”, a ser realizado anualmente no mês de dezembro.
+
+
+Art. 2º.
+
+O “Rock na Praça” caracteriza-se como evento cultural público de música independente, realizado em espaço público, com foco na valorização do rock autoral e de estilos musicais pouco contemplados na programação cultural tradicional do Município.
+
+
+Art. 3º.
+
+O evento terá como objetivos:
+
+
+I –
+
+valorizar e fortalecer a cena do rock autoral de Currais Novos e da região do Seridó;
+
+
+II –
+
+incentivar a participação de bandas locais e convidadas de outros municípios;
+
+
+III –
+
+promover o acesso democrático à cultura por meio de apresentações gratuitas em praça pública;
+
+
+IV –
+
+estimular o intercâmbio cultural entre artistas;
+
+
+V –
+
+fomentar o turismo cultural e a economia criativa local;
+
+
+VI –
+
+promover a ocupação cultural qualificada dos espaços públicos;
+
+
+VII –
+
+desenvolver ações de caráter social e solidário vinculadas ao evento.
+
+
+Art. 4º.
+
+A programação do “Rock na Praça” poderá contemplar, entre outras atividades:
+
+
+I –
+
+apresentações musicais de bandas autorais locais e regionais;
+
+
+II –
+
+ações de integração entre artistas, incluindo atividades de bastidores e registros audiovisuais;
+
+
+III –
+
+campanhas simbólicas de arrecadação de alimentos ou donativos destinados a instituições sociais ou famílias em situação de vulnerabilidade;
+
+
+IV –
+
+participação de comerciantes formais e informais no entorno do local do evento, como barracas de alimentação, bebidas e artesanato.
+
+
+Art. 5º.
+
+O evento será realizado, preferencialmente, em praça pública do Município, notadamente na Praça Tetê Salustino, ou em outro espaço definido pelo Poder Executivo, observadas as normas de segurança, acessibilidade, meio ambiente e ordenamento urbano.
+
+
+Art. 6º.
+
+O Poder Executivo Municipal poderá apoiar institucionalmente a realização do evento, bem como firmar parcerias com entidades públicas, privadas, coletivos culturais, associações, produtores culturais e iniciativa privada, respeitada a legislação vigente.
+
+
+Art. 7º.
+
+As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, consignadas no orçamento vigente, podendo ser suplementadas, se necessário.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Currais Novos/RN, Palácio Prefeito “Raul Macêdo”, em 08 de maio de 2026.
+
+***LUCAS GALVÃO DA CRUZ***
+
+Prefeito Municipal
+

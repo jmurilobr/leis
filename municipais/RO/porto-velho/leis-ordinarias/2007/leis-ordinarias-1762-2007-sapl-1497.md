@@ -1,0 +1,75 @@
+---
+titulo: "Lei nº 1.762, de 19 de dezembro de 2007"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1762"
+data: "2007-12-19"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/1497"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/688/text"
+sha256_fonte: "57674f6982d6a50385f1465d74252e9151ac356e866d171bc1e7d3b921c3c3a4"
+sha256_texto: "78396f4de8d52ebe1e7a8752dc5efd4dbb66898f87f909d77464618198f60a52"
+capturado_em_fonte: "2026-10-27T21:26:29.356690-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.762, de 19 de dezembro de 2007
+
+Autoriza a Prefeitura Municipal de Porto Velho a instalar uma Casa Abrigo e um Centro de Referência e Apoio para atendimento às mulheres em situação de violência, e dá outras providências.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no inciso IV, do artigo 87 da Lei Orgânica do Município de Porto Velho,  
+  
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte  
+  
+**LEI**:
+
+
+Art. 1º.
+
+A Secretaria Municipal de Assistência Social prestará atendimento às mulheres ameaçadas ou vítimas de violência doméstica, através da Casa Abrigo de Mulheres e do Centro de Referência e Apoio à Mulher.
+
+
+Art. 2º.
+
+A Casa Abrigo de Mulheres objetiva acolher temporariamente as mulheres e seus/as filhos/as, vítimas de violência doméstica, em iminente risco às suas integridades física ou psíquica, orientando-as no que se refere à colocação profissional, situação jurídica e utilização das redes municipais escolar e de saúde, das creches e outros recursos sociais.
+
+
+§ 1º
+
+As diretrizes gerais de funcionamento, os critérios gerais relativos à organização e funcionamento da Casa Abrigo e do Centro de Referência e Apoio para as Mulheres, e sua relação com a comunidade serão estabelecidos pela Secretaria Municipal de Assistência Social em conjunto com o Gabinete do Prefeito, através da Coordenadoria Municipal de Políticas Públicas para as Mulheres com acompanhamento e fiscalização do Conselho Municipal dos Direitos da Mulher.
+
+
+§ 2º
+
+A Casa Abrigo de Mulheres poderá realizar parcerias com Casas Abrigos de Mulheres de outros municípios, através de consórcios, convênios ou termos de cooperação.
+
+
+Art. 3º.
+
+O Poder Executivo Municipal fica autorizado a associar-se ou conveniar-se a entidades e/ou associações públicas ou privadas, com notória especificação no assunto, para atendimento integral ao disposto na presente Lei.
+
+
+Art. 4º.
+
+Fica o Poder Executivo Municipal autorizado a contratar e suprir de pessoal os servidores da Casa Abrigo e do Centro de Referência, na forma da Lei.
+
+
+Art. 5º.
+
+O Poder Executivo Municipal regulamentará esta Lei no prazo de 60 dias, a partir da data de sua publicação.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**ROBERTO EDUARDO SOBRINHO Prefeito do Município MARIO JONAS FREITAS GUTERRES Procurador Geral do Município**
+

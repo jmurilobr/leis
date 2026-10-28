@@ -1,0 +1,32 @@
+---
+titulo: "PORTARIA Nº 12, DE 5 DE NOVEMBRO DE 2019"
+orgao: "Ministério da Cidadania/Secretaria Executiva/Secretaria de Gestão de Fundos e Transferências/Diretoria-Executiva do Fundo Nacional de Cultura/Coordenação-Geral de Prestação de Contas"
+tipo: "Portaria"
+numero: "12"
+data: 2019-11-05
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 07/11/2019, seção 1, p. 23"
+data_publicacao: 2019-11-07
+edicao: "216"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-12-de-5-de-novembro-de-2019-226509231"
+sha256_html_fonte: f34d4a207356539acb9fdc88ce305f6d66658010b06864adad402e30931c8874
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 12, DE 5 DE NOVEMBRO DE 2019
+
+PORTARIA Nº 12, DE 5 DE NOVEMBRO DE 2019
+
+O SECRETÁRIO DE GESTÃO DE FUNDOS E TRANSFERÊNCIAS, no uso de suas atribuições legais, que lhe conferem a Portaria nº 942, de 17 de maio de 2019, e o art. 53 da Instrução Normativa MC nº 02/2019, resolve:
+
+**Art. 1º** - Tornar pública a relação do(s) projeto(s) apoiado(s) por meio do mecanismo Incentivo a Projetos Culturais do Programa Nacional de Apoio à Cultura (PRONAC), instituído pela Lei nº 8.313, de 23 de dezembro de 1991, que tiveram sua(s) prestação(ões) de contas APROVADA(S) no âmbito desta Secretaria, em observância ao disposto no parágrafo único do art. 70 da Constituição Federal, no § 1º do art. 20 da Lei nº 8.313, de 1991, e no inciso I do art. 51 da Instrução Normativa nº2, de 23 de abril de 2019, conforme anexo I.
+
+**Art. 2º** - Informar que cabe ao proponente emitir comprovantes em favor dos doadores ou patrocinadores, bem como manter o controle documental das receitas e despesas do projeto pelo prazo de cinco anos, contados da aprovação da prestação de contas, à disposição do MinC e dos órgãos de controle e fiscalização, caso seja instado a apresentá-las, conforme previsto no art. 36 da Instrução Normativa RFB nº 1.131, de 21 de fevereiro de 2011.
+
+**Art. 3º** - Esta portaria entra em vigor na data de sua publicação.
+
+MARCELO TERRA CAMARGO
+
+## ANEXO I
+
+<table><tr></tr><tr><td><p>PRONAC</p></td><td><p>PROJETO</p></td><td><p>PROPONENTE</p></td><td><p>RESUMO DO PROJETO</p></td><td><p>VALOR CAPTADO (R$)</p></td></tr><tr><td><p>126860</p></td><td><p>A mão livre de Luis Carlos Ripper</p></td><td><p>Dois um produções LTDA - ME</p></td><td><p>Exposição sobre a obra de Luís Carlos Ripper com curadoria de Lídia Kosovski no Centro Cultural Correios RJ no 1º semestre de 2013.</p></td><td><p>499.550,00</p></td></tr><tr><td><p>105519</p></td><td><p>Paraty Eco Fashion</p></td><td><p>Inst. de Estudos Socio-Cult. e Amb. -Colibri</p></td><td><p>Projeto de preservação do patrimônio cultural imaterial (popular /artesanato) que incentive à sustentabilidade e fortaleça a cultura.</p></td><td><p>230.000,00</p></td></tr><tr><td><p>126381</p></td><td><p>O Reino da Água -Segunda edição</p></td><td><p>Liz Editora LTDA</p></td><td><p>Segunda edição de um livro ilustrado, que fala sobre a Cultura, História, Geografia e Língua Portuguesa falada no Brasil.</p></td><td><p>190.500,00</p></td></tr><tr><td><p>117945</p></td><td><p>Cirurgiões da alegria despertando sorrisos - 2012</p></td><td><p>Assoc. Benef. Cirurgiões da Alegria ABECA</p></td><td><p>Apresentações teatrais e musicais através de duplas de palhaço em Hospitais, manutenção do Espaço Oficina e palestras.</p></td><td><p>164.140,00</p></td></tr><tr><td><p>118217</p></td><td><p>Ler é bom, experimente - XIII</p></td><td><p>Antonio José Laé de Souza</p></td><td><p>Edição de livros para desenvolvimento de projeto de leitura e escrita em escolas públicas.</p></td><td><p>180.000,00</p></td></tr><tr><td><p>111098</p></td><td><p>Lima Barreto, ao terceiro dia</p></td><td><p>Lapilar Produções Artísticas LTDA - ME</p></td><td><p>Montagem do texto teatral LIMA BARRETO, AO TERCEIRO DIA, de Luiz Alberto de Abreu, na cidade do Rio de Janeiro.</p></td><td><p>300.000,00</p></td></tr><tr><td><p>112375</p></td><td><p>Clara Sverner</p></td><td><p>Delphos Produções Artísticas LTDA</p></td><td><p>05 recitais em cidades do interior do estado de SP para divulgar o novo CD da pianista: "Chopin".</p></td><td><p>70.000,00</p></td></tr><tr><td><p>106486</p></td><td><p>Museu Municipal de Arte - Aquisição de Equip. e Mob.</p></td><td><p>Fundação Cultural de Curitiba</p></td><td><p>Aquisição dos equipamentos e mobiliários necessários para o funcionamento do Teatro Antonio Carlos Kraide que integra o complexo.</p></td><td><p>200.000,00</p></td></tr><tr><td><p>132353</p></td><td><p>Atividades Culturais da Jedicon</p></td><td><p>Roberta Araújo Manaa ME</p></td><td><p>Contações de histórias, Cineclube Sci-Fi, oficinas de cosplay, convenção de Star Wars a Jedicon e 74 apresentações de teatro.</p></td><td><p>149.999,99</p></td></tr><tr><td><p>131695</p></td><td><p>Cultura em Campo</p></td><td><p>ISL Produções e Eventos LTDA ME</p></td><td><p>Oficinas de música, ilustração e grafite, DJ, leitura e exibição de filmes para crianças e jovens do ensino público do município do Rio de Janeiro e de Niterói.</p></td><td><p>120.000,00</p></td></tr><tr><td><p>111973</p></td><td><p>Acervos Hist. MHAB: Col. Clóvis Salgado e Coleção Lia Salgado</p></td><td><p>Assoc. dos Amigos do Museu Hist. Abílio Barreto</p></td><td><p>Tratamento técnico, publicação de dois catálogos e montagem de exposição sobre as duas coleções.</p></td><td><p>202.720,00</p></td></tr><tr><td><p>124946</p></td><td><p>Prêmio Universidade FM</p></td><td><p>Fund. Sousândrade Apoio ao Des. daMA</p></td><td><p>Realização de uma premiação a fim de valorizar a produção cultural maranhense e promover o fortalecimento da singularidade da nossa cultura.</p></td><td><p>68.000,00</p></td></tr><tr><td><p>107658</p></td><td><p>Celtic Legends</p></td><td><p>Carlos Branco &amp; CIA LTDA - EPP</p></td><td><p>Realizar 8 apresentações do Grupo Celtic Legends no Brasil.</p></td><td><p>227.000,00</p></td></tr><tr><td><p>101069</p></td><td><p>Planeta-Mágica</p></td><td><p>Arte e Cultura - EIRELI</p></td><td><p>Realizar, em Belo Horizonte, 3 dias de apresentações de mágicos com números de ilusionismo, gratuitamente.</p></td><td><p>246.000,00</p></td></tr><tr><td><p>106845</p></td><td><p>Estética Interiorana - XII</p></td><td><p>Instituto Aviva</p></td><td><p>Realização de oficinas de Sensibilização Estético-Cultural para promover os valores da cultura imaterial nas regiões interioranas e rurais.</p></td><td><p>105.612,19</p></td></tr></table>

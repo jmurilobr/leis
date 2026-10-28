@@ -1,0 +1,13 @@
+from pathlib import Path
+import json,gzip,hashlib,datetime,sys,subprocess
+sys.path.insert(0,'scripts')
+import auditar_cache_dou as a
+from gates_reguladores_cache import chave
+sha=lambda b:hashlib.sha256(b).hexdigest();base=Path('scripts/dados/baseline-reguladores-head-v5-20261027.json');bp=json.loads(base.read_text());cache=Path(bp['cache']);assert sha(cache.read_bytes())==bp['sha256_cache'];heads=json.loads(gzip.decompress(cache.read_bytes()))['documentos'];assert len(heads)==225465;keys={chave(r['meta'],r['path']):r['path'] for r in heads};ids={a.identidade(r['meta']) for r in heads};urls={r['meta'].get('fonte') for r in heads};tracked={r['path'] for r in heads};hm=json.loads(Path('_fonte/operacao_root_20261027/reguladores3833-hashes.json').read_text());rows=[]
+for p,s in hm.items():
+ if not(p.startswith('reguladores/') and '/_' not in p and p.endswith('.md')):continue
+ raw=Path(p).read_bytes();assert sha(raw)==s;m,_=a.meta_corpo(raw.decode());k=chave(m,p);assert p not in tracked and k not in keys and m['fonte'] not in urls,p
+ record,meta=a.conferir(Path(p).resolve(),ids,urls,datetime.date(2026,10,27));keys[k]=p;ids.add(a.identidade(meta));urls.add(meta['fonte']);rows.append(record)
+ if len(rows)%500==0:print('conferidos',len(rows),flush=True)
+assert len(rows)==3833
+out={'novas':3833,'head':bp['head'],'baseline_cabecalhos':len(heads),'divergencias':0,'criterio':'Revalidacao27/10 contra todos225465 cabecalhos de blobs reais HEAD. Todos3833 corpos e fontes oficiais do cache novamente pelo auditor integrado de identidade/publicacao/assinaturas/estrutura e corpo exato; zero rede, nenhuma data original de captura alterada. Repeticao de SHA de todos3848 artefatos no disco e index concluida separadamente. Metas preservadas.','documentos':rows};p=Path('scripts/dados/reguladores3833-revalidacao-root-20261027.json');assert not p.exists();p.write_text(json.dumps(out,ensure_ascii=False,indent=2)+'\n');print('FINAL3833',flush=True)

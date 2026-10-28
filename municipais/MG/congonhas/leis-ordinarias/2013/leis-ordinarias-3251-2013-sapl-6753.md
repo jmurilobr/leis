@@ -1,0 +1,105 @@
+---
+titulo: "Lei-CMC nº 3.251, de 12 de abril de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3251"
+data: "2013-04-12"
+municipio: "Congonhas"
+uf: "MG"
+codigo_ibge: "3118007"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.congonhas.mg.leg.br/norma/6753"
+fonte_texto: "https://sapl.congonhas.mg.leg.br/ta/4543/text"
+sha256_fonte: "58e71df15946c5e7ed68da70fd5746f2697b7ab69abdd730500d506928f130b3"
+sha256_texto: "9a85149f64a55bb7fd65af4153fe589c69162efb68012b14943ce9ed172f7e7e"
+capturado_em_fonte: "2026-10-28T06:06:49.975238-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei-CMC nº 3.251, de 12 de abril de 2013
+
+AUTORIZA O CHEFE DO PODER EXECUTIVO MUNICIPAL A CONCEDER REMISSÃO DE CRÉDITO TRIBUTÁRIO DE VALOR ÍNFIMO, INSCRITOS EM DÍVIDA ATIVA, CUJO CUSTO DE COBRANÇA SEJA SUPERIOR AO VALOR DO CRÉDITO E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+A Câmara Municipal de Congonhas, Estado de Minas Gerais, decreta e eu, Prefeito sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a:
+
+
+I –
+
+conceder, nos termos do art. 172, inciso III do CTN, por despacho fundamentado, remissão de dívidas tributárias de reduzido valor inscritos em Dívida Ativa ou em Processo de Execução Fiscal, cujo custo da cobrança e/ou da Execução Fiscal seja superior ao valor do crédito tributário ou que estejam vencidos há mais de 5 (cinco) anos.
+
+
+II –
+
+desistir, através da Procuradoria-Geral do Município, das Execuções Fiscais, em curso, não embargadas, de valores iguais ou inferiores ao limite estabelecido no art. 3º, § 1º desta Lei;
+
+
+III –
+
+autorizar à Procuradoria Geral do Município a não propor execuções fiscais de valores iguais ou inferiores ao limite estabelecido no art. 3 º, § 1º desta Lei;
+
+
+IV –
+
+remir as dívidas tributárias de imóveis permutados com o Município, para atendimento a projetos de urbanização e reassentamento, até 31 de dezembro de 2012.
+
+
+Art. 2º.
+
+A remissão, a dispensa, a desistência e a autorização a que se refere o artigo anterior, concedidas com base no disposto no art. 14, § 3º, inciso II da Lei Complementar Federal nº 101, de 04/05/2000, abrangerá:
+
+
+I –
+
+o Imposto Predial e Territorial Urbano e Taxas de Serviços Urbanos –IPTU/TSU;
+
+
+II –
+
+créditos tributários de valores iguais ou inferiores a R$200,00 (duzentos reais) por contribuinte.
+
+
+Art. 3º.
+
+Para efeitos desta Lei considera-se de reduzido valor o crédito tributário inscrito em dívida ativa do Município, cujo valor consolidado, na data de publicação da presente Lei, seja igual ou inferior a R$200,00 (duzentos reais).
+
+
+§ 1º
+
+Para efeitos de desistência das execuções fiscais propostas ou da sua não-propositura será considerado o valor de R$ 200,00 (duzentos reais) para devedores residentes ou não no Município.
+
+
+§ 2º
+
+O disposto neste artigo não implica restituição de quantias pagas.
+
+
+Art. 4º.
+
+A remissão não se aplica aos casos em que o sujeito passivo tenha agido com dolo, fraude ou simulação.
+
+
+Art. 5º.
+
+O despacho o que se refere o art. 1º não gera direito adquirido, aplicando-se, quando cabível, o disposto no art. 155 do CTN.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Congonhas, 12 de abril de 2013.
+
+**JOSÉ DE FREITAS CORDEIRO**
+
+**Prefeito de Congonhas**
+

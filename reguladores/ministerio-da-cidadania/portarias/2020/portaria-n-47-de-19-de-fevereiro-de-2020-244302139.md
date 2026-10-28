@@ -1,0 +1,46 @@
+---
+titulo: "PORTARIA Nº 47, DE 19 DE FEVEREIRO DE 2020"
+orgao: "Ministério da Cidadania/Secretaria Executiva/Secretaria de Gestão de Fundos e Transferências/Diretoria-Executiva do Fundo Nacional de Cultura/Coordenação-Geral de Prestação de Contas"
+tipo: "Portaria"
+numero: "47"
+data: 2020-02-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 20/02/2020, seção 1, p. 6"
+data_publicacao: 2020-02-20
+edicao: "36"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-47-de-19-de-fevereiro-de-2020-244302139"
+sha256_html_fonte: 30f54f9f168d6469a67e2075b63d11f17feb9d107eae9f56f9237af29855e467
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 47, DE 19 DE FEVEREIRO DE 2020
+
+PORTARIA Nº 47, DE 19 DE FEVEREIRO DE 2020
+
+O SECRETÁRIO DE GESTÃO DE FUNDOS E TRANSFERÊNCIAS, no uso de suas atribuições legais, que lhe conferem a Portaria nº 942, de 17 de maio de 2019, e o art. 53 da Instrução Normativa MC nº 02/2019, resolve:
+
+**Art. 1º** - Tornar pública a relação do(s) projeto(s) apoiado(s) por meio do mecanismo Incentivo a Projetos Culturais do Programa Nacional de Apoio à Cultura (PRONAC), instituído pela Lei nº 8.313, de 23 de dezembro de 1991, que tiveram sua(s) prestação(ões) de contas APROVADA(S) no âmbito desta Secretaria, em observância ao disposto no parágrafo único do art. 70 da Constituição Federal, no § 1º do art. 20 da Lei nº 8.313, de 1991, e no inciso I do art. 51 da Instrução Normativa nº2, de 23 de abril de 2019, conforme anexo I.
+
+**Art. 2º** - Tornar pública a relação do(s) projeto(s) apoiado(s) por meio do mecanismo Incentivo a Projetos Culturais do Programa Nacional de Apoio à Cultura (PRONAC), instituído pela Lei nº 8.313, de 23 de dezembro de 1991, que tiveram sua(s) prestação(ões) de contas APROVADA(S) COM RESSALVA(S) no âmbito desta Secretaria, em observância ao disposto no parágrafo único do art. 70 da Constituição Federal, no § 1º do art. 20 da Lei nº 8.313, de 1991, e no inciso II do art. 51 da Instrução Normativa nº2, de 23 de abril de 2019, conforme anexo II.
+
+**Art. 3º** - Tornar pública a relação do(s) projeto(s) apoiado(s) por meio do mecanismo Incentivo a Projetos Culturais do Programa Nacional de Apoio à Cultura (PRONAC), instituído pela Lei nº 8.313, de 23 de dezembro de 1991, que tiveram sua(s) prestação(ões) de contas REPROVADA(S) no âmbito desta Secretaria, em observância ao disposto no parágrafo único do art. 70 da Constituição Federal, do § 1º do art. 20 da Lei nº 8.313, de 1991, e no inciso III do art. 51 da Instrução Normativa nº 2, de 23 de abril de 2019, conforme anexo III.
+
+**Art. 4º** - Informar que cabe ao proponente emitir comprovantes em favor dos doadores ou patrocinadores, bem como manter o controle documental das receitas e despesas do projeto pelo prazo de cinco anos, contados da aprovação da prestação de contas, à disposição do MC e dos órgãos de controle e fiscalização, caso seja instado a apresentá-las, conforme previsto no art. 36 da Instrução Normativa RFB nº 1.131, de 21 de fevereiro de 2011.
+
+**Art. 5º** - Aplicar a sanção administrativa de INABILITAÇÃO, nos termos do art. 59 da Instrução Normativa MinC nº 05/2017, aos proponentes relacionados no anexo referente à reprovação, pelo prazo de 03 (três) anos, contados a partir da publicação desta Portaria, que implicará, junto ao Ministério da Cidadania, nas restrições contidas no art. 59 da referida Instrução Normativa.
+
+**Art. 6º** - Esta portaria entra em vigor na data de sua publicação.
+
+MARCELO TERRA CAMARGO
+
+## ANEXO I
+
+<table><tr></tr><tr><td><p>PRONAC</p></td><td><p>PROJETO</p></td><td><p>PROPONENTE</p></td><td><p>RESUMO DO PROJETO</p></td><td><p>VALOR CAPTADO (R$)</p></td></tr><tr><td><p>1011093</p></td><td><p>Brasilidade - Nome provisório</p></td><td><p>Luiz Felipe Pereira de Menezes</p></td><td><p>Realização da produção, gravação, divulgação e um (1) show de lançamento de um CD com músicas autorais.</p></td><td><p>128.590,00</p></td></tr><tr><td><p>103989</p></td><td><p>Floripa Instrumental 2011</p></td><td><p>Freguesia Produção Cultural Ltda</p></td><td><p>Mostra de música instrumental com 4 apresentações nacionais e 4 locais, em Florianópolis, gratuitamente.</p></td><td><p>131.500,00</p></td></tr><tr><td><p>069979</p></td><td><p>Tríptico Alfrediano</p></td><td><p>Kavantan &amp; Assoc. - Proj. e Eventos Culturais LTDA - ME</p></td><td><p>Criação, produção e montagem de um espetáculo teatral inspirado na paixão de Dr. Alfredo Mesquita.</p></td><td><p>484.964,53</p></td></tr><tr><td><p>1011328</p></td><td><p>Colorindo Minha Cidade</p></td><td><p>Centro Integrado de Estudos e Prog. de Des. Sustentável</p></td><td><p>Dar a oportunidade para crianças e adolescentes, de conhecer a história da arte, e da cultura local e técnicas de artes visuais.</p></td><td><p>220.000,00</p></td></tr><tr><td><p>118015</p></td><td><p>CASA DO BECO - Programação e manutenção 2011/2012.</p></td><td><p>Associação Cultural Casa Do Beco</p></td><td><p>Custeio da programação, das ações pedagógicas e artísticas, além da manutenção da Casa do Beco.</p></td><td><p>149.943,00</p></td></tr><tr><td><p>121709</p></td><td><p>CORTE SECO _ circulação nacional</p></td><td><p>Axis Produções Artísticas LTDA - ME</p></td><td><p>Apresentações do espetáculo nas cidades de Belo Horizonte, João Pessoa e Florianópolis, através de 8 apresentações.</p></td><td><p>261.162,00</p></td></tr><tr><td><p>124108</p></td><td><p>Cinco séculos de relações brasileiras e alemãs</p></td><td><p>Editora Brasileira de Arte e Cultura LTDA. - ME</p></td><td><p>Livro de textos, fotografias e documentos que registrem a trajetória dos imigrantes germânicos, em diferentes regiões do Brasil.</p></td><td><p>237.000,00</p></td></tr><tr><td><p>114307</p></td><td><p>Gravação do CD e DVD Clássicos com Energia</p></td><td><p>Associação Filarmônica Camerata Florianópolis</p></td><td><p>Realizar o concerto de lançamento no teatro do CIC em Florianópolis.</p></td><td><p>237.000,00</p></td></tr><tr><td><p>100519</p></td><td><p>Orquestra Filarmônica Lions</p></td><td><p>Instituto Pró-Arte Brasil</p></td><td><p>8 apresentações de música erudita no Teatro Positivo, em Curitiba, com a Orquestra Filarmônica e o Coro.</p></td><td><p>256.698,84</p></td></tr><tr><td><p>1114388</p></td><td><p>Concertos Comunitários ANO XXV</p></td><td><p>Opus Assessoria e Promoções Artísticas LTDA</p></td><td><p>Continuidade da série de concertos que leva ao público obras de grandes mestres da música erudita/instrumental.</p></td><td><p>1.630.122,00</p></td></tr></table>
+
+## ANEXO II
+
+<table><tr></tr><tr><td><p>PRONAC</p></td><td><p>PROJETO</p></td><td><p>PROPONENTE</p></td><td><p>RESUMO DO PROJETO</p></td><td><p>VALOR CAPTADO (R$)</p></td></tr><tr><td><p>094421</p></td><td><p>Projeto EcoMusic - Turnê nacional</p></td><td><p>Echo Promoções Artísticas LTDA - ME</p></td><td><p>Turnê nacional em 10 cidades de 07 estados e DF para divulgação do trabalho inédito de criação musical.</p></td><td><p>81.464,00</p></td></tr><tr><td><p>105896</p></td><td><p>Cine Bandeirante: histórias que o vento não levou</p></td><td><p>Instituto CLIO</p></td><td><p>Ediçao de 1.400 exemplares do livro "Cine Bandeirante: histórias que o vento não levou.</p></td><td><p>79.200,00</p></td></tr><tr><td><p>124989</p></td><td><p>Projeto Triangulo Music- Edição 2014</p></td><td><p>Viva Marketing Promocional LTDA - ME</p></td><td><p>Realização do Projeto Festival Triângulo Music , evento musical que reúne em dois dias , atrações de diversos estilos musicais.</p></td><td><p>673.400,73</p></td></tr></table>
+
+## ANEXO III
+
+<table><tr></tr><tr><td><p>PRONAC</p></td><td><p>PROJETO</p></td><td><p>PROPONENTE</p></td><td><p>RESUMO DO PROJETO</p></td><td><p>VALOR CAPTADO</p></td><td><p>VALOR A SER RESTITUÍDO AO FNC (R$)</p></td></tr><tr><td><p>070478</p></td><td><p>Grandes Concertos</p></td><td><p>Classic Produtora de Eventos Ltda.</p></td><td><p>16 concertos de música erudita em Porto Alegre/RS.</p></td><td><p>529.563,60</p></td><td><p>1.205.235,07</p></td></tr><tr><td><p>114852</p></td><td><p>Santander Cultural Instrumental</p></td><td><p>Carlos Branco &amp; CIA LTDA - EPP</p></td><td><p>Realizar 70 shows e concertos nas cidades de Porto Alegre e Recife.</p></td><td><p>600.500,00</p></td><td><p>6.314,10</p></td></tr><tr><td><p>114056</p></td><td><p>Publicação do livro Sítio Histórico de Sobral - Mon. Nac</p></td><td><p>Lumiar Comunicação e Consultoria LTDA</p></td><td><p>Publicação e lançamento de livro retratando os bens do município de Sobral</p></td><td><p>261.281,17</p></td><td><p>37.047,80</p></td></tr><tr><td><p>1011728</p></td><td><p>As Eruditas - Tournée 2011/2012</p></td><td><p>L. W. Produções Artísticas LTDA</p></td><td><p>Realização de tournée da peça, por SP, SC, PR, MG ES e GO.</p></td><td><p>254.779,04</p></td><td><p>3.186,67</p></td></tr><tr><td><p>093738</p></td><td><p>Teatro da Vertigem 2009/2010</p></td><td><p>Teatro da Vertigem LTDA</p></td><td><p>Manutenção, pesquisa e produção do grupo.</p></td><td><p>151.238,00</p></td><td><p>389.700,30</p></td></tr><tr><td><p>1012805</p></td><td><p>Flavio de Carvalho - A revolução modernista no Brasil</p></td><td><p>Asa 18 Produções Culturais LTDA - ME</p></td><td><p>Exposição de obras de arte do artista Flavio de Carvalho.</p></td><td><p>645.770,00</p></td><td><p>918,59</p></td></tr></table>

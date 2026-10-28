@@ -1,0 +1,7 @@
+47 normas pendentes de promoção por ROOT. Não fazer staging de preimagens.
+Repetir runner com --manifesto e SHA externos entregues, saída nova; padrão dry-run. Somente ROOT acrescenta --apply. Depois conferir cada destino contra promocoes47.json e verificar recibo de aplicação antes do staging.
+Manter os metadados originais; somente sha256_texto difere. Buritis mantém os dois tachados e Secretário Substituto, sem inferência jurídica. Controles U+0002 das outras normas PV não foram tocados.
+Não rodar formatador, strip, normalizador Unicode ou git apply --whitespace=fix. Preservar hardbreaks/EOF.
+Staging exclusivamente ROOT: git --literal-pathspecs -c core.autocrlf=false add -f --pathspec-from-file=ESTE_DIRETORIO/stage.paths.z --pathspec-file-nul
+Confrontar blobs do índice com manifesto arquivos e promocoes47.json; conferir SHA externo do próprio manifesto. O mapa tem destinos futuros, cujos bytes atuais ainda são a preimagem: isso é explícito e impede publicação acidental sem a promoção.
+Reservas921/586 qualificadas serão reconciliadas por SHA contra HEAD a cada dry-run; não contam duas vezes quando publicadas.

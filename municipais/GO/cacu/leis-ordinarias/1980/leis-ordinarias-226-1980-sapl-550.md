@@ -1,0 +1,94 @@
+---
+titulo: "Lei Ordinária nº 226, de 11 de setembro de 1980"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "226"
+data: "1980-09-11"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/550"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/1087/text"
+sha256_fonte: "c66ea5f46afaeecdef1244ab34c869aa9b49e8eae1eba045c972ff6cb8d83b74"
+sha256_texto: "ec514b2b20644ff5136bb91fd7ad19fd5f56b9981363da037f2f318ccd116661"
+capturado_em_fonte: "2026-10-27T21:58:12.223229-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 226, de 11 de setembro de 1980
+
+Autoriza a celebração de contrato de empreitada para execução de obras de pavimentação asfáltica e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE CAÇU: Faço saber que a Câmara Municipal de Caçu, Estado de Goiás, aprovou e eu sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a celebrar, com a firma TERPAV – Terraplenagem e Pavimentação Ltda., estabelecida na cidade de Ituiutaba, Estado de Minas Gerais, contrato de empreitada para execução de obras de pavimentação asfáltica de vias públicas urbanas, na conformidade da Lei nº 220, de 19 de junho de 1980, e de acordo com as condições estipuladas na presente lei e as aprovadas na Concorrência Pública nº 2/80, realizada em 21 de julho de 1980.
+
+
+Art. 2º.
+
+A pavimentação abrangerá uma área de 40.000 m² (quarenta mil metros quadrados), podendo, caso haja interesse, estender-se por mais 20.000m² (vinte mil metros quadrados), nas mesmas condições.
+
+
+Art. 3º.
+
+Competirá à Prefeitura Municipal a preparação dos sub-leitos das vias a serem pavimentadas, o que fará sob orientação técnica da empreiteira, bem como a fabricação e o assentamento dos meio-fios.
+
+
+Art. 4º.
+
+A pavimentação terá início tão logo preparados os sub-leitos, devendo ficar concluída no prazo de 210 (duzentos e dez) dias, contados da assinatura do contrato.
+
+
+Art. 5º.
+
+Os serviços empreitados, entre os quais se incluirão os de transporte, serão pagos ao preço de Cr$ 379,00 (trezentos e setenta e nove cruzeiros) por metro quadrado de pavimentação, sujeito a reajustamento com base nos índices estabelecidos pelo Ministério dos Transportes e pelo Departamento Nacional de Estradas de Rodagem.
+
+
+Art. 6º.
+
+O pagamento pela Prefeitura à empreiteira será efetuado em quatro (4) parcelas, sendo:
+
+
+I –
+
+12% (doze por cento) sobre o montante do custo da área pavimentada, no prazo de 60 (sessenta) dias, contados da data do contrato;
+
+
+II –
+
+30% (trinta por cento), no prazo de 60 (sessenta) dias, contados do início da capa asfáltica;
+
+
+III –
+
+29% (vinte e nove por cento), no prazo de 140 (cento e quarenta) dias, contados da data do contrato;
+
+
+IV –
+
+29% (vinte e nove por cento), no prazo de 210 (duzentos e dez) dias, contados da data do contrato.
+
+
+Art. 7º.
+
+Os proprietários dos imóveis beneficiados com a pavimentação reembolsarão aos cofres municipais o custo total das obras, incluídas as que forem executadas diretamente pela Prefeitura, na forma do art. 3º.
+
+
+Art. 8º.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+PREFEITURA MUNICIPAL DE CAÇU, Estado de Goiás, em 11 de setembro de 1980.
+
+
+**ABEL BARBOSA GUIMARÃES**
+

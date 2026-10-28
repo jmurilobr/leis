@@ -1,0 +1,356 @@
+---
+titulo: "Lei Ordinária nº 512, de 27 de fevereiro de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "512"
+data: "2024-02-27"
+municipio: "Banzaê"
+uf: "BA"
+codigo_ibge: "2902658"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.banzae.ba.leg.br/norma/54"
+fonte_texto: "https://sapl.banzae.ba.leg.br/ta/54/text"
+sha256_fonte: "7d544b1cf58794e993637ebb8642486dd486afc45721a58c019b8d379f3c10e5"
+sha256_texto: "18966a5510af75b34d353a801d814ffd5473f580ccacb27791fff64ddc446369"
+capturado_em_fonte: "2026-10-27T17:08:45.578004-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 512, de 27 de fevereiro de 2024
+
+Dispõe sobre a criação do Conselho Municipal de Meio Ambiente, e dá outras providências.
+
+
+A PREFEITA DO MUNICÍPIO DE BANZAÊ, Estado da Bahia, com fundamento na Lei Orgânica Municipal, faz saber que a Câmara de vereadores aprovou e eu sanciono e promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica criado, no âmbito da Secretaria Municipal de Agricultura, Meio Ambiente, Turismo e Comércio por meio do Departamento Municipal de Turismo e Meio ambiente o Conselho Municipal de Meio Ambiente - CONSEMA.
+
+
+Parágrafo único
+
+O CONSEMA é um órgão colegiado, subordinado administrativamente à Secretaria Municipal de Agricultura, Meio Ambiente, Turismo e Comércio, de assessoramento ao Poder Executivo Municipal e deliberativo no âmbito de sua competência, sobre as questões ambientais propostas nesta e demais leis correlatas do Município.
+
+
+Art. 2º.
+
+Ao Conselho Municipal de Meio Ambiente - CONSEMA compete:
+
+
+I –
+
+formular as diretrizes para a política municipal do meio ambiente, baseando-se na Lei Complementar nº 511 de 26 de dezembro de 2023, que se refere ao Sistema Municipal de Meio Ambiente, inclusive para atividades prioritárias de ação do município em relação à proteção e conservação do meio ambiente;
+
+
+II –
+
+propor normas legais, procedimentos e ações, visando a defesa, conservação, recuperação e melhoria da qualidade ambiental do município, observada a legislação federal, estadual e municipal pertinente;
+
+
+III –
+
+exercer a ação fiscalizadora de observância às normas contidas na Lei Orgânica Municipal e na legislação a que se refere o item anterior;
+
+
+IV –
+
+obter e repassar informações e subsídios técnicos relativos ao desenvolvimento ambiental, bem como, sobre quaisquer diretrizes pertinentes ao meio ambiente, aos órgãos públicos, entidades públicas e privadas e a comunidade em geral;
+
+
+V –
+
+atuar no sentido da sensibilização popular acerca da gestão ambiental e desenvolvimento sustentável promovendo a educação ambiental formal e informal, com ênfase nas demandas ambientais pertinentes ao município;
+
+
+VI –
+
+subsidiar o Ministério Público no exercício de suas competências para a proteção do meio ambiente previstas nas Leis vigentes de proteção ambiental e na Constituição Federal de 1988;
+
+
+VII –
+
+solicitar aos órgãos competentes o suporte técnico complementar às ações executivas do município na área ambiental;
+
+
+VIII –
+
+propor a celebração de convênios, contratos e acordos com entidades públicas e privadas de pesquisas e de atividades ligadas ao desenvolvimento ambiental;
+
+
+IX –
+
+sugerir, previamente, sobre os aspectos ambientais de políticas, planos e programas governamentais que possam interferir na qualidade ambiental do município;
+
+
+X –
+
+aconselhar quanto aos padrões, parâmetros e critérios de avaliação e controle, relativamente à conservação, proteção, preservação, recuperação e restauração da qualidade do meio ambiente;
+
+
+XI –
+
+identificar, informar e orientar à comunidade e aos órgãos públicos competentes, federal, estadual e municipal, sobre a existência de áreas degradadas ou ameaçadas de degradação, propondo medidas para a sua recuperação;
+
+
+XII –
+
+requerer de empreendimentos, dos órgãos da administração pública ou de particulares, quando entender necessário ou verificar a ocorrência de riscos à qualidade ambiental, a elaboração de planos de recuperação ambiental, projetos de compensação ou mitigação, relatórios de impacto e outros documentos técnicos pertinentes e necessários;
+
+
+XIII –
+
+acompanhar o controle permanente das atividades degradadoras e poluidoras, de modo a compatibilizá-las com as normas e padrões ambientais vigentes, denunciando qualquer alteração que promova impacto ambiental ou desequilíbrio ecológico;
+
+
+XIV –
+
+receber denúncias feitas pela população local, diligenciando no sentido de sua apuração junto aos órgãos federais, estaduais e municipais responsáveis e sugerindo ao Setor responsável as providências cabíveis;
+
+
+XV –
+
+acionar os órgãos competentes para localizar, reconhecer, mapear e cadastrar os recursos naturais existentes no Município, estudando as espécies de vegetais nativas, suas aplicações e utilidades para o controle das ações capazes de afetar ou destruir o meio ambiente;
+
+
+XVI –
+
+recomendar estudos sobre o uso, ocupação e parcelamento do solo urbano, posturas municipais, visando à adequação das exigências do meio ambiente, ao desenvolvimento do município;
+
+
+XVII –
+
+sugerir quando solicitado sobre a emissão de alvarás de localização e funcionamento no âmbito municipal das atividades potencialmente poluidoras e degradadoras;
+
+
+XVIII –
+
+decidir sobre a concessão de licenças e fiscalizar o cumprimento das normas protetoras do meio ambiente, requisitando junto aos poderes públicos responsáveis, a aplicação de penalidades e a adoção de medidas necessárias ao encerramento ou inibição de atividades poluidoras ou de degradação ambiental;
+
+
+XIX –
+
+acompanhar e apreciar os licenciamentos ambientais, nos casos em que haja a necessidade de elaboração de EIA/RIMA na forma da legislação em vigor;
+
+
+XX –
+
+exercer o poder de polícia, conforme o que estabelece o Art. 23 da Constituição Federal, no que concerne à fiscalização e aos casos de infração à legislação ambiental;
+
+
+XXI –
+
+deliberar sobre a realização de Audiências Públicas, quando for o caso, visando à participação da comunidade nos processos de instalação de atividades potencialmente poluidoras;
+
+
+XXII –
+
+propor ao Executivo Municipal a instituição de unidades de conservação visando à proteção de sítios de beleza excepcional, mananciais, patrimônio histórico, artístico, arqueológico, paleontológico, espeleológico e áreas representativas de ecossistemas destinados à realização de pesquisas básicas e aplicadas de ecologia;
+
+
+XXIII –
+
+responder a consulta sobre matéria de sua competência;
+
+
+XXIV –
+
+decidir, juntamente com o órgão executivo de meio ambiente, sobre a aplicação dos recursos provenientes do Fundo Municipal de Meio Ambiente;
+
+
+XXV –
+
+apresentar anualmente proposta orçamentária ao Executivo Municipal, inerente ao seu funcionamento, podendo ter apoio da iniciativa privada;
+
+
+XXVI –
+
+acompanhar as reuniões da Unidade Regional Colegiada do Conselho Estadual de Meio Ambiente (CEPRAM) a qual o município está vinculado em que são discutidos assuntos de interesses ambientais do Município;
+
+
+XXVII –
+
+prestar homenagens a pessoas físicas ou jurídicas, públicas ou privadas, que se destaque na proteção ambiental e desenvolvimento ambiental sustentável, independentemente do homenageado pertencer ao conselho;
+
+
+XXVIII –
+
+sugerir ao Executivo a criação e a extinção das Câmaras Especializadas, bem como instituir e extinguir comissões técnicas para análise de temas específicos, quando se fizer necessário, por meio de deliberação;
+
+
+XXIX –
+
+incentivar a criação de atividades esportivas e de aventura que possibilitem a visibilização do potencial turístico afim de promover desenvolvimento ambiental sustentável;
+
+
+XXX –
+
+fomentar a realização de campanhas para incentivar a preservação ambiental e a redução do uso de agrotóxicos;
+
+
+XXXI –
+
+estimular o plantio e conservação de plantas frutíferas e plantas endêmicas em áreas públicas e privadas;
+
+
+XXXII –
+
+sugerir a criação de propostas de proteção ambiental nas comunidades habitadas por povos tradicionais do Município;
+
+
+XXXIII –
+
+formular ações de divulgação da cultura dos povos tradicionais do Município de Banzaê, de maneira a propiciar uma troca de saberes constantes, para promoção da diversidade cultural;
+
+
+XXXIV –
+
+propor alterações do regimento interno ao executivo municipal, quando houver necessidade.
+
+
+Art. 3º.
+
+O suporte técnico, administrativo e financeiro, indispensável à instalação e ao funcionamento do Conselho Municipal de Meio Ambiente será prestado diretamente pela Prefeitura Municipal de Banzaê - BA, através do órgão executivo municipal de meio ambiente ou órgão a que o CONSEMA estiver vinculado.
+
+
+Parágrafo único
+
+O suporte técnico poderá ser requerido aos demais órgãos e entidades da esfera federal ou estadual, afetos aos programas de proteção, conservação e melhoria do meio ambiente.
+
+
+Art. 4º.
+
+O CONSEMA será composto, de forma paritária, por 05 (cinco) representantes do poder público e 05 (cinco) da sociedade civil organizada, a saber:
+
+
+I –
+
+representantes do Poder Público:
+
+
+a)
+
+01 (um) representante, que é o titular do órgão executivo municipal de meio ambiente;
+
+
+b)
+
+01 (um) representante do Poder Legislativo Municipal designado pelos vereadores;
+
+
+c)
+
+01 (um) representante da Secretaria de Obras, Viação e Serviços Públicos;
+
+
+d)
+
+01 (um) Representante da Secretaria de Educação;
+
+
+e)
+
+01 (um) Representante da Secretaria de Saúde.
+
+
+II –
+
+representantes da Sociedade Civil:
+
+
+a)
+
+02 (dois) representantes de setores organizados da sociedade, tais como: Associação do Comércio, Sindicatos dos Produtores Rurais, Setor Empresarial, ONGs Ambientalistas, Associações e Cooperativas;
+
+
+b)
+
+02 (dois) Representantes dos Povos Tradicionais do Município (Indígenas e Quilombolas).
+
+
+c)
+
+01 (uma) pessoa da sociedade civil comprometida com a questão ambiental;
+
+
+§ 1º
+
+A indicação dos membros do conselho será feita por cada entidade e a nomeação será efetuada por ato do executivo.
+
+
+§ 2º
+
+
+Art. 5º.
+
+
+Art. 6º.
+
+A função dos membros do CONSEMA é considerada serviço de relevante valor social.
+
+
+Art. 7º.
+
+As sessões do CONSEMA serão públicas e os atos deverão ser amplamente divulgados.
+
+
+Art. 8º.
+
+O mandato dos membros do CONSEMA é de dois anos, permitida uma recondução, à exceção dos representantes do Executivo Municipal.
+
+
+Art. 9º.
+
+O Presidente do CMMA expedirá atestado, quando solicitado, ao Conselheiro membro, por sua ausência do local de trabalho, sempre que convocado a participar de reunião em horário comercial, garantindo-lhe abono legal.
+
+
+Art. 10.
+
+Os órgãos ou entidades mencionados no art. 4º poderão substituir o membro efetivo indicado ou seu suplente, mediante comunicação por escrito dirigida ao Presidente do CONSEMA.
+
+
+Art. 11.
+
+O não comparecimento a 03 (três) reuniões consecutivas ou a 05 (cinco) alternadas durante 12 (doze) meses, implica na exclusão do CONSEMA.
+
+
+Art. 12.
+
+O CONSEMA poderá instituir, se necessário, em seu regimento interno, câmaras técnicas em diversas áreas de interesse e ainda recorrer a técnicos e entidades de notória especialização em assuntos de interesse ambiental.
+
+
+Art. 13.
+
+No prazo máximo de sessenta dias após a sua instalação, o CONSEMA elaborará o seu Regimento Interno, que deverá ser aprovado por decreto do Prefeito Municipal também no prazo de sessenta dias.
+
+
+Art. 14.
+
+A instalação do CONSEMA e a composição dos seus membros ocorrerá no prazo máximo de 60 (sessenta) dias, contados a partir da data de publicação desta lei.
+
+
+Art. 15.
+
+As despesas com a execução da presente Lei correrão pelas verbas próprias consignadas no orçamento em vigor.
+
+
+Art. 16.
+
+Revogam-se as disposições em contrário.
+
+
+Art. 17.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Gabinete da prefeita, Estado da Bahia, 27 de fevereiro de 2024.
+
+**JAILMA DANTAS GAMA ALVES**
+
+Prefeita
+

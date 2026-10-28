@@ -1,0 +1,404 @@
+---
+titulo: "Lei Ordinária nº 1.561, de 31 de julho de 1990"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1561"
+data: "1990-07-31"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/4900"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/4983/text"
+sha256_fonte: "aedad8d6ff383a430d19e1275aae9ceecf942d6326e220a4e73c1a33e8f25da8"
+sha256_texto: "30cdbac7f29114932f9a6d008ff43b335c0370cdb9ecb45e00a705e32b15f457"
+capturado_em_fonte: "2026-10-27T21:58:08.513916-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.561, de 31 de julho de 1990
+
+DISPÕE SOBRE A REGULAMENTAÇÃO PARA ELEIÇÃO DIRETA PARA DIRETOR E VICE-DIRETOR DAS ESCOLAS PÚBLICAS MUNICIPAIS DO CABO E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O PREFEITO DO MUNICÍPIO DO CABO, ESTADO DE PERNAMBUCO, SR. ERONIDES FRANCISCO SOARES, NO USO DE SUAS ATRIBUIÇÕES LEGAIS. FAÇO SABER QUE A CÂMARA MUNICIPAL APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+As eleições para Direção das Escolas Publicas Municipais do Cabo serão realizadas simultaneamente, a cada dois anos, no mês de Novembro.
+
+
+§ 1º
+
+Os mandatos dos Diretores e Vice-Diretores serão de dois anos, iniciando-se no mês de dezembro sendo permitida a recondução através de eleição por período consecutivo, a cada dois anos.
+
+
+§ 2º
+
+As primeiras eleições no Município do Cabo serão realizadas na última semana de novembro de 1990 para o mandato que terá duração ate novembro de 1992.
+
+
+Art. 2º.
+
+Para garantir o processo geral de realização das eleições será criada, a cada ano eleitoral, a Comissão Eleitoral Municipal.
+
+
+§ 1º
+
+A Comissão Eleitoral Municipal será constituída de 9 (nove) membros pelo Prefeito, após indicação feita pela instituição representada por cada um dos membros:
+
+
+I –
+
+2 (dois) representantes da Secretaria de Educação, do Cabo;
+
+
+II –
+
+2 (dois) representantes da Câmara de Vereadores do Cabo;
+
+
+III –
+
+2 (dois) representantes do Sindicato dos Servidores do Cabo - SINTRAC;
+
+
+IV –
+
+1 (um) representante do Conselho Municipal de Educação do Cabo;
+
+
+V –
+
+1 (um) representante do movimenta estudantil do Cabo;
+
+
+VI –
+
+1 (um) representante do movimento comunitário do Cabo.
+
+
+§ 2º
+
+Para cada membro da Comissão será nomeado um suplente que o substituirá em caso de impedimento.
+
+
+§ 3º
+
+A Comissão do que trata o Caput deste artigo será presidida por um de seus membros escolhido pelos seus pares.
+
+
+§ 4º
+
+Compete à Comissão Eleitoral Municipal:
+
+
+a)
+
+Coordenar, divulgar, orientar e fiscalizar a realização das eleições em todas as escolas municipais;
+
+
+b)
+
+Organizar as juntas apuradoras e fiscalizar a apuração em nível da 2ª Instância;
+
+
+c)
+
+Comunicar ao Secretário de Educação os nomes dos Candidatos eleitos;
+
+
+d)
+
+Dirimir quaisquer dúvidas ou situações relacionadas com a realização das eleições;
+
+
+e)
+
+Baixar instruções complementares para a realização das eleições.
+
+
+Art. 3º.
+
+Nos anos eleitorais para eleição de direção de esco­las, serão criadas Comissões Eleitorais Locais em cada Escola Municipal, a fim de viabilizar a organização e realização das eleições no âmbito das escolas.
+
+
+§ 1º
+
+A Comissão Eleitoral Local será constituída de 5 (cinco) membros pelo Secretário Municipal de Educação após indicação feita pela classe representada por cada um dos membros:
+
+
+I –
+
+1 (um) Professor da Escola;
+
+
+II –
+
+1 (um) Representante da categoria estudantil da Escola;
+
+
+III –
+
+1 (um) representante dos pais dos alunos;
+
+
+IV –
+
+1 (um) representante dos Funcionários administrativos;
+
+
+V –
+
+1 (um) representante da comunidade.
+
+
+§ 2º
+
+Para cada membro da Comissão será nomeado um suplente que o substituirá em caso de impedimento.
+
+
+§ 3º
+
+A Comissão de que trata o Caput deste artigo será presidida por um dos seus membros escolhidos por seus pares.
+
+
+§ 4º
+
+Compete à Comissão Eleitoral Locai:
+
+
+a)
+
+Coordenar, divulgar a fiscalizar as eleições no âmbito da Escola;
+
+
+b)
+
+Encaminhar à Comissão Eleitoral Municipal, ao final do processo eleitoral, relatório comunicando as atividades realizadas durante o período eleitoral.
+
+
+§ 5º
+
+A Comissão Eleitoral Local terá direito a todos os documentos necessários para a realização do pleito.
+
+
+Art. 4º.
+
+Terão direito a concorrer à eleição para Diretores e Vice-Diretores os servidores do quadro de Profissionais do Magistério da Rede de Ensino Municipal, portadores de Licenciatura Plena em Pedagogia, com habilitação em Administração Escolar ou registro definitivo de Diretor, obtido antes da LEI nº 5692/71, com no mínimo dois anos de efetivo exercício na Secretaria de Educação do Cabo.
+
+
+§ 1º
+
+Na impossibilidade de preencher estes requisitos, a Escola poderá ser dirigida por Professor com habilitação plena em qual quer área da Educação.
+
+
+§ 2º
+
+Nas escolas exclusivamente do Pré-Escolar a 4ª série do 1º grau, poderão também concorrer a eleição Professores habilitados em Magistério de 2º grau.
+
+
+§ 3º
+
+Os servidores que exercem função de Direção em outra rede de ensino ou que tenha outro emprego desvinculado do Magistério não poderão concorrer as eleições para Diretores e Vice-Diretores de esco­la.
+
+
+Art. 5º.
+
+Em se tratando de unidade escolares do Pré-Escolar à 5ª serie do 1º grau, a eleição será realizada nas que disponham de, no mínimo, 3 (três) salas de aulas.
+
+
+Parágrafo único
+
+As escolas do Pré-Escolar à 4ª série do 1º grau com menos de 3 (três) salas de aulas terão um professor responsável pela escola, escolhido dentre os professores da própria Escola e nomeado pelo Prefeito Municipal. Nessas escolas a escolha do Professor será posterior ao processo eleitoral para Diretores e Vice-Diretores.
+
+
+Art. 6º.
+
+O regime de trabalho para Diretor e Vice-Diretor de Escola de 1º grau maior será de 8 (oito) horas diárias, para Diretor e Vice-Diretor de 1º grau menor o regime de trabalho sara de 6 (seis) horas diárias, exclusivamente em atividades de direção garantidas as gratificações regulamentadas por LEI para os referidos cargas.
+
+
+Parágrafo único
+
+A distribuição do horário de trabalho doa Diretores e Vice-Diretores será feita de modo a garantir a presença da direção em todos os turnos de funcionamento da Unidade Escolar.
+
+
+Art. 7º.
+
+Os Diretores e Vice-Diretores eleitos poderão ser destituídos quando não corresponderem às atribuições dos cargos para os quais forem eleitos, mediante aprovação da maioria simples dos membros do Conselho Escolar aplicado os dispositivas do Estatuto do Magistério, do artigo 44 ao artigo 50, Título VI, Capítulos I, II e III.
+
+
+§ 1º
+
+Em caso de destituição do Diretor, assumirá o cargo o Vice-Diretor eleito, e, nesse caso, o Conselho Escolar indicará uma Vice-Direção provisória para completar o mandato, se este não tiver ultrapassado 1 (um) ano.
+
+
+§ 2º
+
+Em caso de destituição de Vice-Diretor, o Conselho Escolar indicará uma vice-direção provisória para completar o mandato, se este não tiver ultrapassado 1 (um) ano.
+
+
+§ 3º
+
+Em caso de destituição do Diretor e do Vice-Diretor, o Conselho Escolar indicará uma direção e Vice-direção provisórias para completar o mandato, se este já tiver ultrapassado 1 (um) ano.
+
+
+§ 4º
+
+Em caso de destituição do Diretor e do Vice-Diretor com mandato cumprido por tempo inferior ou igual a um ano, deverá ser realizada outra eleição, respeitando-se o termino do mandato da primeira eleição.
+
+
+Art. 8º.
+
+O registro de chapas para a eleição de Direção das Escolas Municipais far-se-á através de requerimento à Comissão Eleitoral Municipal, até 20 (vinte) dias antes das eleições, tendo seu Presidente 48 (quarenta oito) horas para despacho decisório e comunicação por escrito aos candidatos.
+
+
+Art. 9º.
+
+Os candidatos deverão apresentar:
+
+
+I –
+
+Xerox autenticada do diploma do curso de Licenciatura Plena em Pedagogia com habilitação em Administração Escolar, diploma de outros cursos de Licenciatura Plena na área de Educação e de 2º grau com habilitação em Magistério, nos termos do Artigo 49 desta Lei;
+
+
+II –
+
+Declaração da Secretaria de Educação comprovando ter no mínimo 2 (dois) anos de efetivo exercício na Rede Municipal de Ensino do Cabo.
+
+
+Parágrafo único
+
+Os candidatos deverão apresentar, juntamente com o pedido de registro, um programa que abranja aspectos administrativos e político pedagógicos de acordo com as diretrizes da Secretaria de Educação Municipal do Cabo, como plataforma para a Direção de uma unidade Escolar nos 2 (dois) anos de vigência do mandato, devendo divulgá-lo na Escola, e nas entidades organizadas da comunidade.
+
+
+Art. 10.
+
+Qualquer candidato poderá requerer até 10 (dez) dias antes das eleições, em petição com firma reconhecida e dirigida à Comissão Eleitoral Municipal, o cancelamento de sua candidatura.
+
+
+Art. 11.
+
+O sufrágio é universal, direto e secreto, adotando-se o principio majoritário.
+
+
+Art. 12.
+
+Terão direito a voto:
+
+
+I –
+
+Os professores, os especialistas em Educação e demais servidores em exercício na Unidade Escolar;
+
+
+II –
+
+Os alunos matriculados com frequência igual ou superior a 50% (Cinquenta por Cento) nas unidades escolares, a partir da 5ª série e os maiores de 10 anos de idade nas séries anteriores;
+
+
+III –
+
+O pai ou mãe ou responsável legal do aluno.
+
+
+§ 1º
+
+O Independente do número de filhos matriculados na Unidade Escolar, o pai, ou a mãe ou responsável legal exercerão o direito de voto 01 (uma) só vez.
+
+
+§ 2º
+
+No caso do item I, o voto será apenas 01 (um) independente do fato dos ali indicados terem filhos matriculados na Unidade Escolar.
+
+
+§ 3º
+
+No caso do pai, ou mãe ou responsável legal do aluno também ser aluno da Escola, estes exercerão o direito de voto 01 (uma) só vez.
+
+
+§ 4º
+
+É obrigatória a apresentação de documentos de identificação pelo eleitor, sendo vetado o voto por procuração.
+
+
+§ 5º
+
+Também terão direito a voto todos os alunos, professores, especialistas em Educação e demais servidores doa núcleos de Alfabetização de Adultos que funcionam como anexos de Escolas Municipais, conforme Portaria expedida pela Secretaria de Educação.
+
+
+Art. 13.
+
+A Secretaria da Escola deverá fornecer à Comissão Eleitoral Local, com antecedência mínima de 08 (oito) dias, o nome de todos os servidores, alunos, pais ou responsáveis legais dos alunos, com direito a voto, podendo os candidatos solicitar cópia, se necessário.
+
+
+Art. 14.
+
+O recebimento dos votos nas unidades escolares municipais deverá obedecer ao horário das 07:00 às 21:00 horas, sem interrupção.
+
+
+Parágrafo único
+
+Concluída a votação, às 21:00 horas, o Presidente da Mesa Receptora mais os fiscais deverão lacrar a urna a logo após a Comissão Eleitoral deverá dar início ao processo de apuração.
+
+
+Art. 15.
+
+No caso de empate de votos observar-se-ão os seguintes critérios de desempate, ganhando as eleições os que preenchem os requisitos abaixo, isolada ou cumulativamente:
+
+
+I –
+
+Portador de Título de Mestre na Área de Educação;
+
+
+II –
+
+Portador de diploma ou certificado de curso de Especialização da área de Educação;
+
+
+III –
+
+Portador de diploma em outras áreas de curso de nível superior em Educação;
+
+
+IV –
+
+Maior tempo de Serviço.
+
+
+Art. 16.
+
+A Comissão Eleitoral Municipal terá, a partir do recebimento do nome do eleito, o prazo de 05 (cinco) dias úteis, se não houver impugnação, para enviar esse nome ao Secretário de Educação Municipal, que o submeterá ao Prefeito, para nomeação.
+
+
+Art. 17.
+
+Os Candidatos eleitos tomarão posse 10 (dez) dias após o resultado das eleições, cabendo a posse dos Diretores e Vice-Diretores ser realizada pela Comissão Eleitoral e pelo Prefeito.
+
+
+Art. 18.
+
+Aos professores, especialistas em Educação e demais servidores na área de educação do Município, serão assegurados a sua permanência nas unidades escolares a que estiverem vinculadas, durante o período de 120 (cento e Vinte) dias antes do processa eleitoral.
+
+
+Parágrafo único
+
+Somente poderão ser remanejados de uma unida de escolar para outra, durante o período estabelecido no Caput deste artigo, os Professores, especialistas e demais servidores da área de Educação, que optarem para este fim.
+
+
+Art. 19.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+PALÁCIO CONDE DA BOA VISTA, era 31 de Julho de 1990.  
+  
+ERONIDES FRANCISCO SOARES  
+Prefeito
+

@@ -1,0 +1,149 @@
+---
+titulo: "04 - Lei Ordinária nº 570, de 20 de novembro de 2003"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "570"
+data: "2003-11-20"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/370"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/351/text"
+sha256_fonte: "fb8b67df553ff0341962f975bc82fcf8b9a13a9a7243a79cc1ff2a716aba332b"
+sha256_texto: "eb9d7927e95b6022472d9136c79c9fb235af9fd9579c9ab60e4bf03220864987"
+capturado_em_fonte: "2026-10-28T07:00:35.131501-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 570, de 20 de novembro de 2003
+
+Dispõe sobre prioridade a idosos e pessoas portadoras de deficiência, na aquisição de casas populares e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou e, Eu Prefeito Municipal sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Fica estabelecida a prioridade na aquisição de moradias populares, aos idosos e portadores de deficiência.
+
+
+Parágrafo único
+
+Para os efeitos desta Lei são consideradas idosas, pessoas a partir dos sessenta anos de idade.
+
+
+Art. 2º.
+
+A prioridade de que trata esta Lei, autoriza o Chefe do Executivo Municipal destinar dez por cento para os idosos e dez por cento para os portadores de deficiência, do total de cada conjunto habitacional popular, a partir dos próximos projetos de construção de habitação coletiva.
+
+
+§ 1º
+
+Deverá o imóvel servir de residência do beneficiário, vedada sua cessão ou locação a terceiros, até sua efetiva quitação.
+
+
+I –
+
+em caso de venda antes da quitação do imóvel, a transferência só será autorizada para outro idoso ou portador de deficiência;
+
+
+II –
+
+na transação de venda após o imóvel quitado, dar-se-á preferência de compra ao adquirente que mais se aproxime das condições do titular do imóvel.
+
+
+§ 2º
+
+Deverá ser estabelecido um plano de pagamento para idoso ou portador de deficiência, levando-se em conta a renda mínima oficial do país.
+
+
+Art. 3º.
+
+Farão jus aos benefícios desta Lei os idosos e portadores de deficiência, mediante seleção, obedecidos os seguintes critérios e ordem de preferência entre os inscritos.
+
+
+I –
+
+comprovem residência fixa no município, nos últimos cinco anos;
+
+
+II –
+
+não possuam bens imóveis na jurisdição da Comarca;
+
+
+III –
+
+não possuam renda familiar acima de três salários mínimos;
+
+
+IV –
+
+pela ordem de referência:
+
+
+a)
+
+o sozinho, o mais idoso e com menor renda;
+
+
+b)
+
+o casado, o mais idoso e com menor renda;
+
+
+c)
+
+os demais casos deverão obedecer a uma escala social de preferência sempre para o mais idoso deficiente, o mais idoso, o que tem menor renda, sozinho e casal.
+
+
+Art. 4º.
+
+O percentual de imóveis abrangidos por esta Lei, deverão obedecer a critérios especiais de construção, adaptáveis às características e peculiaridades comuns aos idosos e aos portadores de deficiência, visando o maior conforto dos mesmos.
+
+
+Art. 5º.
+
+Para usufruir desta Lei deverá o interessado requerer o beneficio junto ao município, independente de lista ou ordem de inscrição para a aquisição dos mesmos.
+
+
+Parágrafo único
+
+O município na época da entrega das casas aos requerentes, deverá proceder o sorteio entre todos os interessados inscritos até aquela data.
+
+
+Art. 6º.
+
+As providencias necessárias ao cumprimento desta Lei, ficarão a cargo da Secretaria Municipal de Ação Social.
+
+
+Art. 7º.
+
+Fixa o prazo de sessenta dias para o chefe do Poder Executivo regulamentar a presente Lei, contados de sua publicação.
+
+
+Art. 8º.
+
+Esta Lei entre em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de CORBÉLIA
+
+Em 20 (vinte) de novembro de 2003.
+
+Clóvis João Bombarda
+
+Prefeito Municipal
+
+Não substitui o texto publicado no Diário Oficial.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/370/ta
+

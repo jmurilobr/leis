@@ -1,0 +1,44 @@
+---
+titulo: "PORTARIA COSIT Nº 29, DE 29 DE OUTUBRO DE 2021"
+orgao: "Ministério da Economia/Secretaria Especial da Receita Federal do Brasil/Subsecretaria-Geral da Receita Federal do Brasil/Subsecretaria de Tributação e Contencioso/Coordenação-Geral de Tributação"
+tipo: "Portaria"
+numero: "29"
+data: 2021-10-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 03/11/2021, seção 1, p. 30"
+data_publicacao: 2021-11-03
+edicao: "206"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-cosit-n-29-de-29-de-outubro-de-2021-356211151"
+sha256_html_fonte: 0a9ff1cbcf942b6dac301269d3bfca3caf31aad831694589146e99922c2d9308
+baixado_em: 2026-10-21
+---
+# PORTARIA COSIT Nº 29, DE 29 DE OUTUBRO DE 2021
+
+PORTARIA COSIT Nº 29, DE 29 DE OUTUBRO DE 2021
+
+Dá publicidade ao relatório de acompanhamento do 3º trimestre de 2021 referente às atividades supervisionadas pela Coordenação-Geral de Tributação, no âmbito do Programa de Gestão de que trata o § 6º do art. 6º do Decreto nº 1.590, de 10 de agosto de 1995, na modalidade de Teletrabalho.
+
+O COORDENADOR-GERAL DE TRIBUTAÇÃO, no uso da atribuição que lhe conferem os incisos I a III do art. 358 do Regimento Interno da Secretaria Especial da Receita Federal do Brasil, aprovado pela Portaria MF nº 284, de 27 de julho de 2020, e o inciso VIII do art. 23 da Portaria RFB nº 2.383, de 13 de julho de 2017, considerando o disposto no § 6º do art. 6º do Decreto nº 1.590, de 10 de agosto de 1995, na Portaria MF nº 196, de 14 de junho de 2016, resolve:
+
+**Art. 1º** Dar publicidade ao relatório de acompanhamento do 3º trimestre de 2021, referente às atividades de formulação de atos normativos e interpretativos, julgamento de recursos hierárquicos em matéria tributária e aduaneira, elaboração de parecer em pedido de relevação de pena de perdimento e elaboração de proposta de súmula no contencioso administrativo, supervisionadas pela Coordenação-Geral de Tributação, no âmbito do Programa de Gestão de que trata o § 6º do art. 6º do Decreto nº 1.590, de 10 de agosto de 1995.
+
+**§ 1º** O relatório a que se refere o caput deste artigo conforma-se na apresentação dos resultados quanto ao alcance da meta na execução das atividades na modalidade de Teletrabalho, aferida por meio do Coeficiente de Horas Trabalhadas (CHT), na forma do Anexo Único desta Portaria.
+
+**§ 2º** Os resultados individualizados por servidor são divulgados no Boletim de Serviço da RFB.
+
+**Art. 2º** Esta portaria entra em vigor na data de sua publicação no Diário Oficial da União.
+
+FERNANDO MOMBELLI
+
+ANEXO ÚNICO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>1ATIVIDADES</p></td>      <td rowspan="1" colspan="2"><p>2CHT</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"></td>      <td rowspan="1" colspan="1"><p>3META</p></td>      <td rowspan="1" colspan="1"><p>4RESULTADO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>(i) FORMULAÇÃO DE ATOS NORMATIVOS; (ii) FORMULAÇÃO DE ATOS INTERPRETATIVOS; (iii) JULGAR RECURSOS HIERÁRQUICOS EM MATÉRIA TRIBUTÁRIA E ADUANEIRA; (iv) ELABORAÇÃO DE PARECER EM PEDIDO DE RELEVAÇÃO DE PENA DE PERDIMENTO; e (v) ELABORAÇÃO DE PROPOSTA DE SÚMULA NO CONTENCIOSO ADMINISTRATIVO</p></td>      <td rowspan="1" colspan="1"><p>1,00</p></td>      <td rowspan="1" colspan="1"><p>1,21</p></td>     </tr>    </tbody>   </table>
+
+1 Atividades autorizadas para execução na modalidade de teletrabalho, conforme anexo único da Portaria RFB nº 390, de 21 de fevereiro de 2019.
+
+2 De uma forma simplificada, CHT é razão entre (i) o total de horas estimadas dos processos concluídos e (ii) o total de horas da jornada de trabalho do servidor disponíveis e que efetivamente foram despendidas na elaboração daqueles processos.
+
+3 A Portaria RFB nº 696, de 2020, alterado pela Portaria RFB nº 4586, de 21 de outubro de 2020, suspendeu a aplicação do adicional de produtividade previsto no § 1º do art. 2º e no parágrafo único do art. 13, ambos da Portaria RFB nº 2.383, de 13 de julho de 2017, aplicando-se, assim, como parâmetro de referência, a meta unitária (CHT=> 1,00).
+
+4 Considera-se "resultado" o valor médio de CHT alcançado pelos teletrabalhistas da Coordenação-Geral de Tributação e das Divisões de Tributação.

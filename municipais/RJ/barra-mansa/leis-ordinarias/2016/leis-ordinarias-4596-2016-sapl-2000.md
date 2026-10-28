@@ -1,0 +1,134 @@
+---
+titulo: "Lei Ordinária nº 4.596, de 26 de outubro de 2016"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4596"
+data: "2016-10-26"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/2000"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/919/text"
+sha256_fonte: "20dc799dea92431ac3125c5cf1cd2db7ba5b2e3ac24469c4d645b565ab721ed1"
+sha256_texto: "4881f677c1197de15a32be2603b70f7973865ed92cd4e13e09d34a8ed8733bd7"
+capturado_em_fonte: "2026-10-27T17:42:06.121583-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.596, de 26 de outubro de 2016
+
+FAÇO SABER QUE A CÂMARA APROVOU E EU PROMULGO A SEGUINTE:
+
+
+LEI Nº4596, DE 26 DE OUTUBRO DE 2016
+
+
+Assegura o Programa Proteção da Saúde da Gestante e do Recém Nascido no Município de Barra Mansa e dá outras providências.
+
+
+Art. 1º.
+
+Cria o Programa de Proteção da Saúde da Gestante e do Recém-Nascido no município de Barra Mansa.
+
+
+Art. 2º.
+
+O Programa de Proteção da Saúde da Gestante e do Recém-Nascido, tem por finalidade:
+
+
+I –
+
+assegurar à mulher e ao recém-nascido a assistência integral à saúde, incluindo pré-natal, parto e pó-parto;
+
+
+II –
+
+facilitar e promover o acesso à rede pública e saúde da gestante e recém-nascido;
+
+
+III –
+
+prevenção de doenças no ciclo gravídico-puerperal até o primeiro ano de vida da criança, visando à diminuição dos índices de mortalidade materna e infantil.
+
+
+Art. 3º.
+
+Fica garantido à gestante e ao recém-nascido, atendidos pela rede pública de saúde municipal, os benefícios deste Programa, desde que cumpridas as obrigações constantes no art.6º desta Lei.
+
+
+Art. 4º.
+
+Para o fim específico desta Lei, as pessoas interessadas serão cadastradas no sistema municipal de saúde, e receberão, gratuitamente, uma Carteira de Identificação da Gestante, onde constarão os dados do pré-natal.
+
+
+Parágrafo único
+
+A expedição da Carteira de Identificação da Gestante de que trata este artigo estará condicionada à elaboração de laudo médico do serviço público de saúde, atestando que a gestante está em tratamento, indicando ainda o período previsto para o mesmo, limitado até o primeiro ano de vida do recém-nascido e que corresponderá ao prazo de validade da Carteira de Identificação da Gestante.
+
+
+Art. 5º.
+
+São benefícios garantidos às participantes do Programa de Proteção da Saúde da Gestante e do Recém Nascido, durante o período do tratamento:
+
+
+I –
+
+garantia de vagas nos leitos dos hospitais públicos municipais e hospitais conveniados com o Sistema Único de Saúde (SUS) no município de Barra Mansa;
+
+
+I –
+
+distribuição gratuita de medicamentos prescritos durante o tratamento.
+
+
+Art. 6º.
+
+São obrigações das participantes do Programa:
+
+
+I –
+
+apresentar a Carteira de Identificação da Gestante às creches, no local de trabalho e nos demais órgãos de serviços públicos que utilizar, incluindo o Instituto Nacional de Seguridade Social, quando estiver em licença maternidade;
+
+
+II –
+
+cumprir todas as normas médicas do tratamento, incluindo as referentes aos filhos, não faltando a nenhuma consulta ou revisão, sendo que duas faltas não justificadas acarretarão na perda dos benefícios e exclusão do Programa;
+
+
+III –
+
+comparecer às campanhas de vacinação promovidas pela rede pública de saúde.
+
+
+Parágrafo único
+
+Estas obrigações constarão no verso na Carteira de Identificação da Gestante.
+
+
+Art. 7º.
+
+O Executivo regulamentará esta Lei no que couber.
+
+
+Art. 8º.
+
+As despesas com a execução da presente Lei correrão por conta de verba orçamentária própria.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+CÂMARA MUNICIPAL DE BARRA MANSA, 26 DE OUTUBRO DE 2016.
+
+
+JOSÉ LUIZ VANELI
+
+PRESIDENTE
+

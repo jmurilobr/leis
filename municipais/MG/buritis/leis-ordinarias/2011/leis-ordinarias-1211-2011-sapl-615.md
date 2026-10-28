@@ -1,0 +1,110 @@
+---
+titulo: "Lei nº 1.211, de 05 de maio de 2011"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1211"
+data: "2011-05-05"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/615"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/1038/text"
+sha256_fonte: "815bd0c28f462c0d24f85ca4399dd2514c0d472533592e3c39760ff2ead54d39"
+sha256_texto: "645ef5651cd0be05c62eff685ac7da44d05caa7ebe0aff9fc1b5a533b04be0d8"
+capturado_em_fonte: "2026-10-27T20:04:36.465659-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.211, de 05 de maio de 2011
+
+Dispõe sobre a criação do Centro de Referência em Segurança Alimentar e Nutricional Sustentável de Buritis - CRESANS, vinculado à Secretaria Municipal de Ação Social e dá outras providências.
+
+
+A Câmara Municipal de Buritis, por seus representantes, aprovaram e Eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o Centro de Referência em Segurança Alimentar e Nutricional Sustentável de Buritis - CRESANS, vinculado à Secretaria Municipal de Ação Social responsável por assessorar o Prefeito Municipal na implantação da lei da Política Municipal de Segurança Alimentar, será composta por uma equipe técnica de caráter multidisciplinar e secretarias afins que irão auxiliar na execução das propostas inseridas dentro da política municipal.
+
+
+Art. 2º.
+
+A secretaria Municipal de Ação Social disponibilizará os recursos humanos e materiais necessários ao funcionamento do Centro de Referencia em Segurança Alimentar e Nutricional Sustentável de Buritis.
+
+
+Parágrafo único
+
+O CRESANS será um espaço de vivência da cidadania e de convivência social que através de pesquisas, banco de dados, integração de ações, mobilização social, formação e capacitação, dedicando-se a promoção da cidadania e participação social pelo Direito Humano à Alimentação Adequada terá como objetivo colocar em prática a Política Municipal de Segurança Alimentar de Buritis em sua área de abrangência, para o desenvolvimento local integrado e sustentável e oferecer alternativas de geração de emprego e renda, contribuindo assim para a erradicação da desnutrição materno-infantil e a promoção da saúde da população.
+
+
+Art. 3º.
+
+O CRESANS será responsável por monitorar planos, programas e ações da política de segurança alimentar e nutricional, no âmbito municipal;
+
+
+Art. 4º.
+
+O Centro de referência de Segurança Alimentar e Nutricional Sustentável de Buritis será responsável por coordenar e promover campanhas de educação alimentar e de formação da opinião pública sobre o direito humano à alimentação adequada:
+
+
+I –
+
+promover capacitação adequada à realidade da população na perspectiva de geração de renda e da segurança alimentar e nutricional sustentável, e atividades educativas de conscientização ambiental;
+
+
+II –
+
+Dar suporte à produção de alimentos, especialmente da agricultura periurbana e agricultura familiar, por meio do acesso aos meios de produção.
+
+
+III –
+
+Contribuir para a inclusão da população em situação de maior vulnerabilidade social ao processo produtivo, visando a conquista da independência na obtenção de seu próprio alimento e a garantia da segurança alimentar nutricional com justiça e dignidade.
+
+
+Art. 5º.
+
+O CRESANS, tem a finalidade de colocar em prática as políticas, programas e ações que configurem o direito à alimentação e nutrição como parte integrante dos direitos humanos, competindo-lhe ainda:
+
+
+I –
+
+Incentivar parcerias que garantam mobilização e racionalização no uso dos recursos disponíveis;
+
+
+II –
+
+Promoção de práticas de educação alimentar e outras ações que garantam a saúde de forma plena;
+
+
+III –
+
+Acompanhar sistematicamente as ações para obter informações à respeito dos resultados obtidos com a população atendida no centro, mostrando o progresso das metas e ações;
+
+
+IV –
+
+Incentivar parcerias para a construção de uma aliança comprometida com a efetiva implementação das políticas de segurança alimentar e nutricional sustentável;
+
+
+V –
+
+Identificar e desenvolver metodologias participativas de diagnóstico, monitoramento e avaliação das políticas de segurança alimentar e nutricional sustentável;
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Buritis, 05 de Maio de 2011.
+
+**Dr. Keny Soares Rodrigues Prefeito Municipal**
+
+**Proposição de Lei 006, ref. Proj. de Lei 006/2011 - Autor Executivo Municipal.**
+

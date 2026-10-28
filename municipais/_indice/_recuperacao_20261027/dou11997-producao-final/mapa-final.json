@@ -1,0 +1,14 @@
+{
+  "auditor_preimagem_sha256": "2fd53a02e1485e6c53fe4041d34c24629dba892a0374b7bd2fcbc25f66e3bf7e",
+  "auditor_com_import_proposto_sha256": "4b8c5894fcf6f2897376b9dd2c28f60ed07d769bb9715eacded9022d50c49f14",
+  "patch": "municipais/_indice/_recuperacao_20261027/dou11997-producao-final/auditor-import-producao.patch",
+  "canonico": "reguladores/ministerio-da-economia/portarias/2020/portaria-n-11.997-de-12-de-maio-de-2020-256528089.md",
+  "canonico_preimagem_sha256": "04322f5512d1d6228ca56d51b1a410864658aee51f56925c97303a92907633f1",
+  "candidato": "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/candidato.md",
+  "candidato_sha256": "7d21e44963dd7413ef79c0cae4c5cf07478ff22728af97660bc2cc94448c2dd8",
+  "modulo": "scripts/representacao_html_dou_v2.py",
+  "modulo_sha256": "2f16eda246d73eb770357ff310e98ffb40a62a2e0519974d5bcf98ffaa440644",
+  "compatibilidade": "Produção e proposta retornam bytes idênticos nos modos v1 e v2 para o caso real; os 5 testes do módulo de produção passaram.",
+  "promocao_automatica": false,
+  "aplicacao": "ROOT deve verificar preimagem antes de aplicar o import; o patch não foi aplicado. Nenhum canônico foi modificado."
+}

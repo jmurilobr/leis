@@ -1,0 +1,31 @@
+{
+  "testes_integrados": 74,
+  "sha256_guard_candidato": "5613c25b3c7588001c7ea5df443c80e01e305f2578f7c78a582a66bd87b1ec6d",
+  "sha256_guard_integrado": "3cd60ac4a398a27cc0f646f891e853f6b120b1a963deb4cc9f0ccfd7d6ca0cd0",
+  "normalizacao": "Um espaco final fora de literal na linha127; AST integral identica ao candidato. Corpo da funcao anterior guard56 preservado exatamente por AST,executado antes da triagem adicional.",
+  "replay_congelado_agente": {
+    "corpos": 12669,
+    "alertas": 65,
+    "fora_inventario": 0,
+    "omitidos": 0
+  },
+  "criterio": "ROOT revisou tres propostas sucessoras e exigiu vinculos proprios/externos por referente,sem dispensa global por outro anexo. Integracao apos confirmar ausencia de processos federais usando guard vivo. Todos74 testes antigos/novos passaram. Alerta bibliografico exige revisao documental,nao declara ausencia definitiva; nao altera automaticamente registro ou corpos.64 pendencias individualizadas publicadas em commit anterior,controle inline preservado.",
+  "sha256": {
+    "federal/_proposta_guard_bibliografia_20261027_003/integridade_anexos_decreto.py": "5613c25b3c7588001c7ea5df443c80e01e305f2578f7c78a582a66bd87b1ec6d",
+    "federal/_proposta_guard_bibliografia_20261027_003/test_integridade_anexos_decreto.py": "966f1050f95c67d37bb08f00f094102fc75bae2beae3d56dd4b886c78dc233af",
+    "federal/_proposta_guard_bibliografia_20261027_003/guard56-preimagem.py.txt": "ec4428ce7d97f00f709d526f74cd2ba2c3ab01e78b3529fb8c3783483cf3a5fe",
+    "federal/_proposta_guard_bibliografia_20261027_003/guard-bibliografia.patch": "d7ec6797d0869145105e22b3afe186a10795f99b0e79a28e417a9e49d11bc026",
+    "federal/_proposta_guard_bibliografia_20261027_003/testes.log": "ff39705951b35f17a696b909c0f9f31fc536bfb024fad8890199636c3070d46a",
+    "federal/_proposta_guard_bibliografia_20261027_003/replay.py": "9109c477bd023b5453efbbfc38b4e174d7b31a937b2cff8c3cb1a28aff4144fa",
+    "federal/_proposta_guard_bibliografia_20261027_003/replay12669.json": "4be3c851aa68c103d75feae1d7ee0392650f9c46ffb7a480de7c1eeef1259b5c",
+    "federal/_proposta_guard_bibliografia_20261027_003/replay.log": "c28d82e60da437b5adb3f3023a258d9ce306e2ccbb55026c66857cb1eff8094b",
+    "federal/_proposta_guard_bibliografia_20261027_003/recibo-final.json": "4155a2c27ed0124ec6329495bccc9496fab32b8008b8b111297fa295c2687c89",
+    "federal/_historico_guard_20261027/guard56-antes-bibliografia-integridade_anexos_decreto.py.gz": "41c1405ae98fbbc4ed9698156396854e7f472b92d8aecddeab4f912a04c58087",
+    "scripts/integridade_anexos_decreto.py": "3cd60ac4a398a27cc0f646f891e853f6b120b1a963deb4cc9f0ccfd7d6ca0cd0",
+    "federal/_historico_guard_20261027/guard56-antes-bibliografia-test_integridade_anexos_decreto.py.gz": "1502f162070589e64120abdf25d877655aaf09c88827479a0ed5c4bcefcc4cb6",
+    "scripts/test_integridade_anexos_decreto.py": "966f1050f95c67d37bb08f00f094102fc75bae2beae3d56dd4b886c78dc233af",
+    "federal/_proposta_guard_bibliografia_20261027_003/entrega-paths.txt": "dab5d6ac576ab6e715560fa4a103ae7cffec7927d7e1fff47f8066d55636ee47",
+    "federal/_proposta_guard_bibliografia_20261027_003/entrega-hashes.json": "942e447572a2b7037d1a71fb435263b2cc5f87699468e16dd28af2739acd561a",
+    "scripts/dados/guard74-testes-integrados-root-20261027.txt": "a3d73e5d4002825dc5f3012c5082d1898c519b61d3b5bcfa30bb43416bd91d27"
+  }
+}

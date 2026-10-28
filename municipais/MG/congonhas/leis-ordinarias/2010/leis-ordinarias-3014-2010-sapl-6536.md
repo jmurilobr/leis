@@ -1,0 +1,155 @@
+---
+titulo: "Lei-CMC nº 3.014, de 22 de outubro de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3014"
+data: "2010-10-22"
+municipio: "Congonhas"
+uf: "MG"
+codigo_ibge: "3118007"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.congonhas.mg.leg.br/norma/6536"
+fonte_texto: "https://sapl.congonhas.mg.leg.br/ta/4185/text"
+sha256_fonte: "6b1dcef73fdf1b4fb48872de4043ac346ddfcbdb3be9db2af4b24cedc47c693b"
+sha256_texto: "caa3e98e6dba4081195259f766c7eff17aa31426cb6062e4f9f077d5e481d3d3"
+capturado_em_fonte: "2026-10-28T07:15:54.600026-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei-CMC nº 3.014, de 22 de outubro de 2010
+
+Dispõe sobre a fixação e cobrança de preço público no âmbito do município de Congonhas.
+
+
+A Câmara Municipal de Congonhas, Estado de Minas Gerais, aprovou a seguinte Lei:
+
+
+Art. 1º.
+
+O Poder Executivo Municipal fica autorizado a fixar e cobrar preço público relativo à ocupação e uso do solo e bens móveis e imóveis municipais, em especial:
+
+
+I –
+
+Ocupação de bens móveis municipais;
+
+
+II –
+
+Ocupação e uso do solo por postes;
+
+
+III –
+
+Ocupação e uso do solo e subsolo por gasodutos;
+
+
+IV –
+
+Ocupação e uso do solo e subsolo para o cabeamento de fibras óticas, cabos de transmissão de dados, difusão de imagens, sons, energia elétrica e outros;
+
+
+V –
+
+Uso de equipamento e bens de uso especial;
+
+
+VI –
+
+Uso individualizado de logradouros públicos;
+
+
+VII –
+
+Fornecimento de cópias, fotografias, plantas, projetos e microfilmagens;
+
+
+VIII –
+
+Remoção e estadia de veículos e bens recolhidos;
+
+
+IX –
+
+Emissão de termo de permissão de uso de próprio municipal;
+
+
+X –
+
+Apreensão e guarda de animais;
+
+
+XI –
+
+Remoção e transplante de árvores;
+
+
+XII –
+
+Utilização de parques municipais em eventos de qualquer natureza; e
+
+
+XIII –
+
+Utilização de próprios municipais ou de bens sob a responsabilidade do Município.
+
+
+Parágrafo único
+
+Para os fins desta lei, postes são as estruturas de concreto, metal, madeira ou outro material, que suportam os fios, cabos e equipamentos das redes de energia elétrica, telefonia, iluminação pública, difusão de imagens e sons, entre outras.
+
+
+Art. 2º.
+
+A fixação e a cobrança do preço público previsto nesta lei serão efetivadas por decreto do Poder Executivo
+
+
+Art. 3º.
+
+Ficam dispensados do recolhimento dos preços públicos os seguintes órgãos e entidades:
+
+
+I –
+
+órgãos da Administração Pública Direta;
+
+
+II –
+
+entidades religiosas, quando os imóveis forem destinados à realização de cultos religiosos; e
+
+
+III –
+
+associações e entidades sem fins lucrativos, declaradas de utilidade pública, com a documentação devidamente regularizada e em dia com as obrigações fiscais.
+
+
+Parágrafo único
+
+O Decreto estabelecerá os demais casos de dispensa de pagamento de preço público.
+
+
+Art. 4º.
+
+A cobrança do preço público por ocasião das festividades do Jubileu será regulamentada por Decreto específico, a cada ano, ficando isento de cobrança no caso de uso de espaços defronte aos imóveis localizados nas ruas Bom Jesus, São José, Dom Muniz, Aleijadinho, Feliciano Mendes, Major Sabino, Dom Pedro II, Dr.Paulo Mendes, Recordação, Praça Santo Afonso, Dom Rodolfo, Praça Bandeirantes e adjacências.
+
+
+Art. 5º.
+
+As despesas decorrentes desta lei serão suportadas pelas dotações orçamentárias vigentes.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Congonhas, 220 de outubro de 2010.
+
+**Anderson Costa Cabido**
+
+**Prefeito de Congonhas**
+

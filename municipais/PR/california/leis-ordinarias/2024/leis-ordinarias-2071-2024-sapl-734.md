@@ -1,0 +1,55 @@
+---
+titulo: "Lei Ordinária Municipal nº 2.071, de 28 de maio de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "2071"
+data: "2024-05-28"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/734"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/673/text"
+sha256_fonte: "861246815dc7e0ad4b8398bac6d29c453c55634b5e0c00fcbba6f204a2cb3c04"
+sha256_texto: "15c554c2276ea3ee090f2056384b582f630eb05b1455ffda245da437e5cc4d99"
+capturado_em_fonte: "2026-10-27T22:19:54.336155-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 2.071, de 28 de maio de 2024
+
+Afeta para o Domínio Público Imóvel Urbano, e dá outras providenciais.
+
+
+A CÂMARA DE VEREADORES DO MUNICÍPIO DE CALIFÓRNIA, ESTADO DO PARANÁ, APROVOU E EU PREFEITO SANCIONO A SEGUINTE L E I :
+
+
+Art. 1º.
+
+Fica **AFETADO PARA O DOMÍNIO PÚBLICO** o imóvel abaixo descrito:
+
+**Objeto:** IMPLANTAÇÃO DE VIA PÚBLICA: RUA PREFEITO LUIZ BUENO
+
+**Área (m²):** 1.125,47 M²
+
+**LOTE DE TERRAS Nº 07-08-09-10/A-2, DA QUADRA A**, situado no “Loteamento RESIDENCIAL RAFAELA”, Município de Califórnia-PR, Comarca de Marilândia do Sul-PR, com as seguintes divisas, confrontações e metragens: “Mede-se 16,23m de frente para a Rua Projetada 01, deflete-se em curva a esquerda com 3,07m com um raio de 2,00m, deste no sentido oeste confrontando com o lote 07-08-09/10-A-REM mede-se 74,95m, deste deflete-se a esquerda confrontando com o mesmo lote, no sentido sul mede-se 12,00m, defletindo a esquerda no sentido leste confrontando com o lote 07-08-09/10-A-REM mede-se 12,61m, deste deflete-se em curva com um comprimento de 4,82m e segue em sentido sul com 12,91m, deste deflete-se a esquerda no sentido leste percorre a distancia de 14,40m, deste deflete-se a esquerda por um ângulo de 60º confronta o lote 07-08-09/10-A-1, por 3,77m, segue confrontado o mesmo lote, mas em curva por 1,64m, deste deflete-se por 8,56m, defletindo em curva com um comprimento de 4,60m, segue confrontando com o mesmo lote por 34,91metros que por fim confrontando com o lote deflete-se a direita em curva por 3,25m, se encontrando com o marco que deu início a esta descrição, perfazendo uma área de 1.125,47 m2”.
+
+MATRÍCULA 23.092 do CRI - Marilândia do Sul-PR.
+
+
+Art. 2º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Edifício da Prefeitura do Município de Califórnia,
+
+aos 28 dias do mês de maio de 2024.
+
+***PAULO WILSON MENDES***
+
+Prefeito
+

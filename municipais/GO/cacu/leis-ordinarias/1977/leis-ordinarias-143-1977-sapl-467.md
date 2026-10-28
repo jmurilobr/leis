@@ -1,0 +1,628 @@
+---
+titulo: "Lei Ordinária nº 143, de 04 de julho de 1977"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "143"
+data: "1977-07-04"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/467"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/981/text"
+sha256_fonte: "c674b6ebef9ca2e5287ab63ed6d678e51868256c7026801d98a4d18dbe314819"
+sha256_texto: "830ee477ca42020b390c45281579ff82290f86d0f9ed0b3db53423921711cb7a"
+capturado_em_fonte: "2026-10-27T22:01:24.241499-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 143, de 04 de julho de 1977
+
+Dispõe sobre a estrutura administrativa da Prefeitura Municipal de Caçu e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE CAÇU: Faço saber que a Câmara Municipal de Caçu, Estado de Goiás, aprovou e eu sanciono a seguinte lei:
+
+
+#### CAPÍTULO I — Das Disposições Preliminares
+
+
+Art. 1º.
+
+A ação do Governo Municipal se orientará no sentido do desenvolvimento do Município e do aprimoramento dos serviços prestados à população, mediante planejamento de suas atividade.
+
+
+§ 1º
+
+O planejamento das atividades da Administração municipal será feito através da elaboração e manutenção atualizada, dentre outros, dos seguintes instrumentos básicos:
+
+
+I –
+
+plano de desenvolvimento integrado;
+
+
+II –
+
+orçamento plurianual de investimentos; e
+
+
+III –
+
+orçamento-programa.
+
+
+§ 2º
+
+A elaboração e execução do planejamento das atividades municipais obedecerá ao critério de prioridade e guardará inteira consonância com os planos e programas das Administrações estadual e federal.
+
+
+Art. 2º.
+
+A ação do Município em áreas assistidas pela atuação do Estado ou da União será supletiva e, sempre que for o caso, buscará mobilizar os recursos materiais, humanos e financeiros disponíveis.
+
+
+Art. 3º.
+
+Sempre que aconselhável e admissível, a Prefeitura recorrera, para a execução de suas obras e serviços, a pessoas ou entidades do setor privado, mediante contrato, convênio, concessão ou permissão, de forma a alcançar melhor rendimento, evitando novos encargos permanentes e ampliação desnecessária de seu quadro de servidores.
+
+
+#### CAPÍTULO II — Da Organização Básica da Prefeitura
+
+
+Art. 4º.
+
+O sistema administrativo da Prefeitura Municipal de Caçu é constituído dos seguintes órgãos, imediatamente subordinados ao Prefeito por linha de autoridade integral:
+
+
+I –
+
+Gabinete do Prefeito;
+
+
+II –
+
+Secretaria da Prefeitura;
+
+
+III –
+
+Procuradoria Municipal;
+
+
+IV –
+
+Departamento de Finanças;
+
+
+V –
+
+Departamento de Obras e Serviços;
+
+
+VI –
+
+Departamento de Transportes; e
+
+
+VII –
+
+Departamento de Educação e Saúde.
+
+
+#### CAPÍTULO III — Da Competência e Composição dos Órgãos Básicos da Prefeitura
+
+
+##### Seção I — Do Gabinete do Prefeito
+
+
+Art. 5º.
+
+O Gabinete do Prefeito é o órgão encarregado dos seguintes assuntos:
+
+
+I –
+
+representação do Município, em juízo e for a dele;
+
+
+II –
+
+supervisão, coordenação e controle geral dos serviços públicos municipais; e
+
+
+III –
+
+outras atribuições que, por sua natureza, não possam ou não devem ser delegadas.
+
+
+Art. 6º.
+
+O Gabinete é chefiado, diretamente, pelo Prefeito.
+
+
+##### Seção II — Da Secretaria da Prefeitura
+
+
+Art. 7º.
+
+A Secretaria da Prefeitura é o órgão incumbido das seguintes atividades:
+
+
+I –
+
+administração geral; organização administrativa;
+
+
+II –
+
+planejamento e orçamentaçao;
+
+
+III –
+
+divulgação; relações públicas;
+
+
+IV –
+
+expediente; documentação; arquivos;
+
+
+V –
+
+pessoas; material e patrimônio; zeladoria; e
+
+
+VI –
+
+assessoramento do Prefeito na supervisão, coordenação e controle dos serviços públicos municipais; secretaria do Prefeito.
+
+
+Art. 8º.
+
+A Secretaria da Prefeitura compõe-se das seguintes unidades administrativas:
+
+
+I –
+
+Serviço de Pessoal e Expediente; e
+
+
+II –
+
+Serviço de Material e Patrimônio.
+
+
+##### Seção III — Da Procuradoria Municipal
+
+
+Art. 9º.
+
+A Procuradoria Municipal é o órgão competente para as atividades de:
+
+
+I –
+
+defesa do interesse público no processo judiciário; e
+
+
+II –
+
+assessoria e consultoria jurídica.
+
+
+##### Seção IV — Do Departamento de Finanças
+
+
+Art. 10.
+
+O Departamento de Finanças é o órgão incumbido dos seguintes assuntos:
+
+
+I –
+
+administração tributária e financeira; estímulos fiscais;
+
+
+II –
+
+receita; despesa;
+
+
+III –
+
+contabilidade e auditoria; e
+
+
+IV –
+
+assessoria econômica.
+
+
+Art. 11.
+
+O Departamento de Finanças compõe-se das seguintes unidades de serviço:
+
+
+I –
+
+Tesouraria; e
+
+
+II –
+
+Contadoria.
+
+
+##### Seção V — Do Departamento de Obras e Serviços
+
+
+Art. 12.
+
+O Departamento de Obras e Serviços é o órgão encarregado das atividades de:
+
+
+I –
+
+edificações públicas; licenciamentos e fiscalização de obras particulares;
+
+
+II –
+
+loteamentos e zoneamentos; urbanismo;
+
+
+III –
+
+vias urbanas; parques e jardins; iluminação pública;
+
+
+IV –
+
+saneamento geral; limpeza pública; serviços funerários;
+
+
+V –
+
+abastecimentos; comunicações; e
+
+
+VI –
+
+outros serviços de utilidade pública.
+
+
+Art. 13.
+
+O Departamento de Obras e Serviços compõe-se das seguintes unidades administrativas:
+
+
+I –
+
+Serviço de Obras; e
+
+
+II –
+
+Serviços Públicos.
+
+
+##### Seção VI — Do Departamento de Transportes
+
+
+Art. 14.
+
+O Departamento de Transportes é o órgão encarregado dos seguintes assuntos:
+
+
+I –
+
+rodovias; estradas vicinais; vias expressas;
+
+
+II –
+
+trânsito e tráfego;
+
+
+III –
+
+serviços de transporte;
+
+
+IV –
+
+terminais rodoviários; aeroportos; e
+
+
+V –
+
+oficinas e garagem.
+
+
+##### Seção VII — Do Departamento de Educação e Saúde
+
+
+Art. 15.
+
+O Departamento de Educação e Saúde é o órgão incumbido das seguintes atividades:
+
+
+I –
+
+educação; ensino;
+
+
+II –
+
+assistência a educandos; alimentação escolar;
+
+
+III –
+
+cultura; letras e artes; bibliotecas;
+
+
+IV –
+
+desportos; turismo;
+
+
+V –
+
+saúde; assistência médica e sanitária; higiene; e
+
+
+VI –
+
+serviço social; assistência social e comunitária.
+
+
+Art. 16.
+
+O Departamento de Educação e Saúde compõe-se das seguintes unidades administrativas:
+
+
+I –
+
+Serviço de Ensino;
+
+
+II –
+
+Serviço de Cultura;
+
+
+III –
+
+Serviço de Saúde e Assistência Social;
+
+
+IV –
+
+Setor Municipal de Alimentação Escolar; e
+
+
+V –
+
+Unidades Escolares.
+
+
+#### CAPÍTULO IV — Dos Princípios Gerais de Delegação e Exercício de Autoridade
+
+
+Art. 17.
+
+O Prefeito, os Diretores de Departamento e autoridade de igual nível hierárquico deverão, sempre que possível, permanecer livres de funções meramente executórias e de pratica de atos relativos à mecânica administrativa ou que indiquem uma simples aplicação de normas estabelecidas.
+
+
+Parágrafo único
+
+O encaminhamento de processos e outros expedientes às autoridades mencionadas neste artigo ou a avocação de qualquer caso por essas autoridades apenas se dará:
+
+
+I –
+
+quando o assunto se relacione com ato praticado pessoalmente pelas citadas autoridades;
+
+
+II –
+
+quando se enquadre simultaneamente na competência de vários órgãos subordinados ou não se enquadre precisamente na de nenhum;
+
+
+III –
+
+quando incida no campo das relações da Prefeitura com a Câmara;
+
+
+IV –
+
+para exame de atos manifestamente ilegais ou contrários ao interesse público.
+
+
+Art. 18.
+
+Ainda com o objetivo de reservar às autoridades superiores as funções de planejamento, orientação, coordenação, controle e revisão, e com o fim de acelerar a tramitação administrativa, serão observados, no estabelecimento das rotinas de trabalho e exigências processuais, dentre outros princípios racionalizadores, os seguintes:
+
+
+I –
+
+todo assunto será decidido no nível hierárquico mais baixo possível. Para isso:
+
+
+a)
+
+as chefias situadas na base da organização deverão receber a maior soma possível de competências decisórias, particularmente em relação aos assuntos rotineiros;
+
+
+b)
+
+a autoridade competente para proferir a decisão ou ordenar a ação deve ser a que se encontra no ponto mais próximo àquele em que a informação de um assunto se complete ou em que todos os meios e formalidade requeridos por uma operação se liberem;
+
+
+II –
+
+a autoridade competente não poderá escusar-se a decidir, protelando por qualquer forem seu pronunciamento ou encaminhando o caso à consideração superior ou de outra autoridade;
+
+
+III –
+
+os contatos entre os órgãos da Administração municipal, para fins de instrução de processo, far-se-ão diretamente de órgão para órgão.
+
+
+#### CAPÍTULO V — Dos Cargos e Funções de Chefia
+
+
+Art. 19.
+
+Os cargos e funções de chefia decorrentes da presente lei constarão do Quadro de Pessoal da Prefeitura, que será objeto de lei especial.
+
+
+Art. 20.
+
+As nomeações para os cargos e funções de chefia obedecerão aos seguintes critérios:
+
+
+I –
+
+o Secretário da Prefeitura, o Procurador Municipal e os Diretores de Departamento são de livre escolha e nomeação do Prefeito;
+
+
+II –
+
+os dirigentes de órgãos de nível inferior ao daqueles serão nomeados pelo Prefeito, por indicação de seus respectivos superiores.
+
+
+#### CAPÍTULO VI — Das Disposições Finais
+
+
+Art. 21.
+
+Ficam criados todos os órgãos competentes e complementares da organização básica da Prefeitura, mencionados nesta lei, os quais serão instalados de acordo com as necessidades e conveniências da Administração.
+
+
+Art. 22.
+
+O Prefeito baixará, no prazo de 60 (sessenta) dias, o Regimento Interno da Prefeitura, do qual constarão:
+
+
+I –
+
+atribuições gerais das diferentes unidades administrativas da Prefeitura;
+
+
+II –
+
+atribuições específicas e comuns dos servidores investidos nas funções de supervisão e chefia;
+
+
+III –
+
+normas de trabalho que, pela sua própria natureza, não devem constituir objeto de disposição em separado; e
+
+
+IV –
+
+outras disposições julgadas necessárias.
+
+
+Art. 23.
+
+No Regimento Interno de que trata o artigo anterior, o Prefeito poderá delegar competência às diversas chefias para proferirem despachos decisórios, podendo, a qualquer momento, avocar a si, segundo seu único critério, a competência delegada.
+
+
+Parágrafo único
+
+É indelegável a competência decisória do Prefeito nos seguintes casos, sem prejuízo de outros que os atos normativos indicarem:
+
+
+I –
+
+autorização de despesa superior a 5 (cinco) vezes o salário-mínimo de referência vigente no Município;
+
+
+II –
+
+nomeação, admissão e contratação de servidor, a qualquer título e qualquer que seja sua categoria, e sua exoneração, demissão, dispensa, suspensão, revisão e rescisão de contrato;
+
+
+III –
+
+concessão e cassação de aposentadoria;
+
+
+IV –
+
+decretação de prisão administrativa;
+
+
+V –
+
+aprovação de concorrência pública, qualquer que seja sua finalidade;
+
+
+VI –
+
+concessão de exploração de serviços públicos ou de utilidade pública;
+
+
+VII –
+
+permissão de serviço público ou de utilidade pública a título precário;
+
+
+VIII –
+
+alienação de bens imóveis pertencentes ao patrimônio do Município, depois de autorizada pela Câmara Municipal;
+
+
+IX –
+
+aquisição de bens imóveis por compra ou permuta; e
+
+
+X –
+
+aprovação de loteamentos e subdivisão de terrenos.
+
+
+Art. 24.
+
+As unidades administrativas da atual estrutura da Prefeitura serão automaticamente extintas à medida que forem sendo instalados os órgãos previstos nesta lei.
+
+
+Art. 25.
+
+As repartições municipais devem funcionar perfeitamente articuladas entre si, em regime de mútua colaboração.
+
+
+Parágrafo único
+
+A subordinação hierárquica define-se no enunciado das competências de cada órgão administrativo e no organograma geral da Prefeitura, que acompanha a presente lei.
+
+
+Art. 26.
+
+A Prefeitura dará atenção especial ao treinamento de seus servidores, fazendo-os, na medida das disponibilidades financeiras do Município e da conveniência dos serviços, freqüentar cursos e estágios especiais de treinamento e aperfeiçoamento.
+
+
+Art. 27.
+
+Esta lei entrará em vigor na data de sua publicação.
+
+
+Art. 28.
+
+Revogam-se as disposições em contrario, especialmente as leis de nº 1, de 8 de agosto de 1957, nº 9, de 1º de julho de 1971, e nº 23, de 15 de setembro de 1973.
+
+
+PREFEITURA MUNICIPAL DE CAÇU, Estado de Goiás, em 4 de julho de 1977.
+
+
+**Abel Barbosa Guimarães - Prefeito Municipal –**
+

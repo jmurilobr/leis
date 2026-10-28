@@ -1,0 +1,199 @@
+---
+titulo: "Lei Ordinária nº 4.803, de 26 de julho de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4803"
+data: "2019-07-26"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/4500"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/693/text"
+sha256_fonte: "6321f019e5e2981bcfe9be72153f83503a1a5cac59a746f929b1098477dded81"
+sha256_texto: "90baa63e201781d7cd7f871a1e0618ac366650b4ca4869013b721faab2ea86a9"
+capturado_em_fonte: "2026-10-27T17:34:32.336669-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.803, de 26 de julho de 2019
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI Nº4803, DE 26 DE JULHO DE 2019.
+
+
+Institui a Semana Municipal de Prevenção, ao uso de Drogas Lícitas e Ilícitas no Município de Barra Mansa – RJ e dá outras providencias.
+
+
+Art. 1º.
+
+Fica instituída a Semana Municipal de Prevenção, conscientização e combate ao uso de drogas, a ser realizada anualmente na semana do dia 26 de junho, data em que se comemora o Dia Internacional Contra o Abuso e Tráfico Ilícito de Drogas, definido pela Assembleia Geral da ONU, através da Resolução 42/112 de 07 de dezembro de 1987.
+
+
+Parágrafo único
+
+A Semana Municipal de Prevenção, Conscientização e Combate ao Uso de Drogas, terá periodicidade anual e passa a integrar o calendário oficial de datas, eventos e feriados da cidade de Barra Mansa – RJ.
+
+
+Art. 2º.
+
+São diretrizes para a realização da Semana Municipal de Prevenção, Conscientização e Combate ao Uso de Drogas:
+
+
+I –
+
+compatibilidade com a Política Nacional Sobre Drogas, aprovada pela Resolução nº 03, de 27 de outubro de 2005 do Conselho Nacional Antidrogas (CONAD);
+
+
+II –
+
+a busca incessante de uma sociedade protegida do uso de drogas ilícitas, e do uso indevido de drogas lícitas;
+
+
+III –
+
+o reconhecimento das diferenças entre o usuário, a pessoa em uso indevido, o dependente, e o traficante de drogas, tratando-os de forma diferenciada.
+
+
+IV –
+
+o tratamento igualitário, sem discriminação, e pautado nos Direitos Humanos às pessoas usuárias ou dependentes de drogas lícitas e ilícitas.
+
+
+V –
+
+a priorização das ações de prevenção ao uso indevido de drogas lícitas.
+
+
+VI –
+
+a cooperação entre sociedade civil e Poder Público nas ações de prevenção e combate ao uso indevido de drogas.
+
+
+VII –
+
+o fortalecimento de ações integradas e articulação entre os diversos órgãos da Administração Pública na busca por uma sociedade livre do uso indevido das drogas;
+
+
+VIII –
+
+a disseminação de informações sobre a dependência química, bem como sobre seus prejuízos sociais, suas consequências e demais implicações negativas;
+
+
+IX –
+
+a disseminação de informações sobre iniciativas bem sucedidas de recuperação e reinserção social de usuários e dependentes;
+
+
+X –
+
+a ampla divulgação dos programas de atendimento aos usuários, familiares ou dependentes atualmente desenvolvidos pelo Poder Público;
+
+
+XI –
+
+a promoção de valores voltados à saúde física e mental, individual e coletiva, ao bem-estar, a integração socioeconômica;
+
+
+XII –
+
+a promoção de valores voltados à plena recuperação e reinserção de usuários e dependentes de drogas lícitas e ilícitas;
+
+
+XIII –
+
+a promoção de princípios éticos, plurais, considerando as especificidades do público alvo a diversidade cultural, e a vulnerabilidade;
+
+
+XIV –
+
+a mobilização popular em torno de ações educativas preventivas que busquem desestimular o uso inicial de drogas, incentivar a diminuição do consumo, e diminuir os danos decorrentes do uso indevido.
+
+
+Art. 3º.
+
+Compete ao poder Executivo Municipal, por meio dos órgãos competentes, fomentar, organizar e coordenar as ações da Semana Municipal de Prevenção, Conscientização e Combate ao Uso de Drogas.
+
+
+Art. 4º.
+
+Durante a Semana Municipal de Prevenção, Conscientização e Combate ao Uso de Drogas, instituída por esta Lei, os estabelecimentos de ensino público municipais, realizarão atividades alusivas, que poderão compreender eventos organizados, como debate, palestras, roda de conversa, seminários, reuniões, atividades de lazer, esportivas e culturais, elaboração de cartilhas, folders, cartazes, apresentações artísticas, assim como a divulgação de trabalhos realizados pelos alunos e educadores, nem como pesquisadores associados e membros da comunidade, sobre álcool, o tabaco e outras drogas lícitas e ilícitas, abordando o consumo, a dependência e os malefícios que causam.
+
+
+Parágrafo único
+
+A Semana contará com a participação de alunos, professores, pais, facultando-se o convite a membros de organizações públicas ou privadas, profissionais e ex-dependentes que defendam a prevenção, o combate e tratamento contra o álcool, o tabaco e outras drogas lícitas e ilícitas ou divulguem políticas públicas a eles relacionadas.
+
+
+Art. 5º.
+
+Para a consecução das diretrizes previstas por esta Lei, o Poder Executivo Municipal, por meio dos órgãos competentes, poderá firmar instrumento de cooperação e parceria com:
+
+
+I –
+
+As diferentes esferas do Poder Público;
+
+
+II –
+
+Iniciativa Privada;
+
+
+III –
+
+Organizações da Sociedade Civil;
+
+
+IV –
+
+Conselhos Municipais
+
+
+Art. 6º.
+
+Os órgãos da Administração Pública Direta e Indireta que tenham dentre suas atribuições à prevenção, o combate ou o tratamento contra o alcoolismo, o tabagismo e o uso de outras drogas licitas e ilícitas, poderão realizar ações inclusive conjuntamente para a conscientização da população e dos alunos em suas dependências e em espaços públicos, bem como disponibilizar servidores capacitados para contribuírem nos eventos mencionados no artigo 4º e seu parágrafo.
+
+
+Parágrafo único
+
+O regulamento estabelecerá a forma e disponibilidade de participação dos órgãos e servidores referidos no Artigo 6º desta Lei, nos eventos promovidos durante a Semana Municipal de Prevenção, Conscientização e Combate ao Uso de Drogas.
+
+
+Art. 7º.
+
+Ao término das atividades a Secretaria Municipal de Educação, apresentará publicamente um balanço, avaliando a participação da comunidades escolar e o impacto da Semana no entorno das Escolas Públicas.
+
+
+§ 1º
+
+O balanço da Semana será publicado no site Oficial da Prefeitura Municipal de Barra Mansa;
+
+
+§ 2º
+
+Constará no balanço de que trata o caput desse artigo, perspectiva e estratégias de incentivo a participação popular, objetivando a ampliação e melhoria da edição subsequente da Semana Municipal de Prevenção, Conscientização e Combate ao Uso de Drogas.
+
+
+Art. 8º.
+
+As despesas decorrentes da aplicação desta Lei correrão por conta de dotação orçamentária própria dos órgãos e entidades envolvidos.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 26 DE JULHO DE 2019.
+
+
+RODRIGO DRABLE COSTA
+
+PREFEITO
+

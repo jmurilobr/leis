@@ -1,0 +1,23 @@
+{
+  "preparado_em": "2026-10-27T19:59:48.760039-03:00",
+  "codigo": {
+    "scripts/estados/snapshots/se311_promocao_20261027_001/promover_se311.py": "802dbeaf1be27cc90f1fbf5e5aa066faf40097a119566e391776b79617e08fbf",
+    "scripts/estados/snapshots/se311_promocao_20261027_001/test_promover_se311.py": "46cf1faefaf492635eecd27abc734bf50217f298b25df88ec5145a89c94e7225"
+  },
+  "testes": 9,
+  "dry_run": {
+    "finalizado_em": "2026-10-27T19:59:21.709861-03:00",
+    "modo": "dry-run",
+    "aptos": 311,
+    "promovidos": 0,
+    "HEAD": "b0bdff1bfcec054988c31ac61fdb53112bd30605"
+  },
+  "intencao": "estaduais/SE/_fonte/auditorias/se311-promocao-dry-run-20261027-001/intencao.json",
+  "sha256_intencao": "308f28bb1ab990c822884e9ff2bb3e637137feb4d54070131a94279f76b65167",
+  "metodo": "Todas as dependências do mapa SHA e fontes descomprimidas conferidas; candidatos e metadados/corpos contra QA; dedup pelos blobs integrais do HEAD atual, por ID ALESE/arquivo/tipo+pasta+número+ano e paths; ausência em disco/HEAD; confirmação HEAD estável. Sem Git escrita.",
+  "apply_executado": false,
+  "apply_exclusivo": "ROOT, após replay/revisão. Exige --apply --confirmar-root ROOT; nunca executado pelo preparador.",
+  "backups": "Em --apply: intenção fsyncada, cópia adicional de todos candidatos, mantendo originais; destino deve estar ausente (sem preimagem a substituir). Link atômico sem sobrescrita e journal fsyncado por arquivo; atomicidade por arquivo, sem alegar transação global.",
+  "comando_dry_run": "/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/estados/snapshots/se311_promocao_20261027_001/promover_se311.py --controle estaduais/SE/_fonte/auditorias/SE311_ROOT_CONTROLE_NOVO",
+  "comando_apply_ROOT": "/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/estados/snapshots/se311_promocao_20261027_001/promover_se311.py --controle estaduais/SE/_fonte/auditorias/SE311_ROOT_APPLY_NOVO --apply --confirmar-root ROOT"
+}

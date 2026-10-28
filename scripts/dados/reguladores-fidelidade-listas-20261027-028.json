@@ -1,0 +1,453 @@
+{
+  "criterio": "Revisão contextual apenas dos alertas anteriores: contadores efetivos de ol/start/li associados à AST e ao delimitador manual, sem copiar número da fonte. Preserva pontuação e sinais; divergências remanescentes continuam retidas. Listas nativas da fonte não recebem materialização automática.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "63b916abe1e6c687db373e67610a4ea584fb04e3c2029873da8c84c91b77ee72",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "revisar": 19,
+    "iguais": 1
+  },
+  "documentos": [
+    {
+      "path": "reguladores/tcu/portarias/2019/portaria-n-15-de-24-de-janeiro-de-2019-60550322.md",
+      "sha256_md": "a3d90a64bf4c16c611f489d0490bf800d8dbf25284f616fff7ee75a9706074bb",
+      "sha256_fonte": "f519a7f8722946ff41a37316aa3a02e97badfec6787e9f75ecb97a2c9a19a749",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "459b2db5921e309e2efeab716ec1a7c4e3109c2962714c6ce1bfb16357565122",
+      "sha256_visivel_md": "996285f1af879a95eb59528e162b2b7040689c3a75292799985a48b585c11734",
+      "primeira_diferenca": {
+        "posicao": 380,
+        "fonte": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea\"d\", da Portaria-TCU nº 1, de 2 de janeiro de 2019, resolve: Art. 1º Fica autorizada, na forma do Anexo único desta portaria, a descentralização externa de créd",
+        "md": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea*\"d\"*, da Portaria-TCU nº 1, de 2 de janeiro de 2019, resolve: Art. 1º Fica autorizada, na forma do Anexo único desta portaria, a descentralização externa de cr"
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2019/portaria-n-25-de-31-de-maio-de-2019-149881655.md",
+      "sha256_md": "0e90a5b06b76226c27ea7438547bc69acffa1dd37ac19fbabc0188cc29e36fbd",
+      "sha256_fonte": "10f80cc1df02ff7cd407f74f70079322e0a1f4693d374c7c031fe5cbbdec6136",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "8b1d14eadfdff4f7c15c06ad3f2c64101ec287d198c8368a57c0d6d580c8a416",
+      "sha256_visivel_md": "65136213672dbaaa8201d4cb5d04eeff0fef495591060d48bdae53fb67674182",
+      "primeira_diferenca": {
+        "posicao": 422,
+        "fonte": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea\"d\", da Portaria-TCU nº 1, de 2 de janeiro de 2019, e considerando as informações constantes do processo nº TC 009.389/2019-9, resolve: Art. 1º Fica autorizada,",
+        "md": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea*\"d\"*, da Portaria-TCU nº 1, de 2 de janeiro de 2019, e considerando as informações constantes do processo nº TC 009.389/2019-9, resolve: Art. 1º Fica autorizad"
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2019/portaria-n-26-de-14-de-junho-de-2019-164321616.md",
+      "sha256_md": "b1736c5564896350beea08b8e4b1abe041ce42b5f7bdfe94b6c5e6ca90add997",
+      "sha256_fonte": "c51b8316d7605312aa035f63faadb6dfa0ddb0a6395a5e7f8fee94c32437d5d8",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "7f0f1378a495a0cf6b9722c8b6db4761543a080b4d05790038f9eb4a132275a0",
+      "sha256_visivel_md": "325aef2e5f1c1d3ebde594b4e93f8a85db6272bf75f529bfb6a3033c3b4f6f4e",
+      "primeira_diferenca": {
+        "posicao": 321,
+        "fonte": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea\"d\", da Portaria-TCU nº 1, de 2 de janeiro de 2019, e considerando as informações constantes do processo nº TC 013.082/2019-1, resolve: Art. 1º Fica autorizada,",
+        "md": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea*\"d\"*, da Portaria-TCU nº 1, de 2 de janeiro de 2019, e considerando as informações constantes do processo nº TC 013.082/2019-1, resolve: Art. 1º Fica autorizad"
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2019/portaria-n-27-de-2-de-julho-de-2019-187158636.md",
+      "sha256_md": "65c2437c581b20749ed712fc1d2310ce2fb1f802a9e4e389b3182966b79bd9ef",
+      "sha256_fonte": "8bfff7efb78ed3525ac92798105618dcbe2bcd3bc926abb8baebd7fcb132dd59",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "82dc5da8f7fa4ab07dfa6123334c0bd2439ec18bd0364291fb827da6755f0b22",
+      "sha256_visivel_md": "65fc981ff9eeac7bec950e74d94b991dcfea996996ba2f21fc71829f56848ded",
+      "primeira_diferenca": {
+        "posicao": 327,
+        "fonte": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea\"d\", da Portaria-TCU nº 1, de 2 de janeiro de 2019, e considerando as informações constantes do processo nº TC 017.032/2019-9, resolve: Art. 1º Fica autorizado,",
+        "md": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea*\"d\"*, da Portaria-TCU nº 1, de 2 de janeiro de 2019, e considerando as informações constantes do processo nº TC 017.032/2019-9, resolve: Art. 1º Fica autorizad"
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2019/portaria-n-29-de-11-de-julho-de-2019-191918333.md",
+      "sha256_md": "ccfc24bf9f8a53c191ec8294289917ebcb9a28b580b9e08c69872175dad8bf8c",
+      "sha256_fonte": "72221072f6a24180a1454b3ed6acb8b0080b5cbeb49123923bc886778fffe67d",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "199e346611c4b7c551588698335879d4b46fc7bce5824d1f17d40c8da299ba5f",
+      "sha256_visivel_md": "a078fb25ade8f0684e9dcb110170c27108dde70a9f9119e65c9a005886b0f791",
+      "primeira_diferenca": {
+        "posicao": 327,
+        "fonte": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea\"d\", da Portaria-TCU nº 1, de 2 de janeiro de 2019, e considerando as informações constantes do processo nº TC 006.127/2019-3, resolve: Art. 1º Fica autorizada,",
+        "md": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea*\"d\"*, da Portaria-TCU nº 1, de 2 de janeiro de 2019, e considerando as informações constantes do processo nº TC 006.127/2019-3, resolve: Art. 1º Fica autorizad"
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2019/portaria-n-40-de-4-de-outubro-de-2019-220787967.md",
+      "sha256_md": "c99f272e38179da205fbaddad05b221662a12fcb7b86b4d2935e204d3636feb3",
+      "sha256_fonte": "d7b28c0ca3fba486b494ef5724a59ee9c4544172fe0033399db05b920d29e3bc",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e7bce91d715c7ec3d5c867377dc7a314b05fc605d448a4b17d73ddc67ae92b41",
+      "sha256_visivel_md": "37a4af1e6d4da80fbf8066d0a7e7039ddb8f43cdf1957af97baa73bbd95ec92e",
+      "primeira_diferenca": {
+        "posicao": 317,
+        "fonte": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea\"d\", da Portaria-TCU nº 1, de 2 de janeiro de 2019, e considerando as informações constantes do processo nº TC 013.114/2019-0, resolve: Art. 1º Fica autorizada,",
+        "md": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea*\"d\"*, da Portaria-TCU nº 1, de 2 de janeiro de 2019, e considerando as informações constantes do processo nº TC 013.114/2019-0, resolve: Art. 1º Fica autorizad"
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2020/portaria-n-196-de-8-de-dezembro-de-2020-293197218.md",
+      "sha256_md": "cdc10bff613c478bf8becc7f9472db4395c8c8864d737e1b75c4b00ce08b00de",
+      "sha256_fonte": "04171ba1cb54765b0dedc7b14efce60dcb36a0f1bb638298a7770d22f14156de",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e98e1b98c8d8048f6e880921f7960734f77c58a9c824e4f2be16e084ef70bf9c",
+      "sha256_visivel_md": "214b5421435e66442bbfe42d52ad6c2337d5d948f6688bc470f07e46fc2df288",
+      "primeira_diferenca": {
+        "posicao": 563,
+        "fonte": "e 11 de novembro de 2019 (LDO), combinado com o art. 4º, caput, inciso I, alínea\"a\", item 2, da Lei nº 13.978, de 20 de janeiro de 2020 (LOA), o art. 4 º, da Lei Complementar nº 101, 4 de maio de 2000 (LRF) e as disposições contidas na Port",
+        "md": "e 11 de novembro de 2019 (LDO), combinado com o art. 4º, caput, inciso I, alínea*\"a\"*, item 2, da Lei nº 13.978, de 20 de janeiro de 2020 (LOA), o art. 4 º, da Lei Complementar nº 101, 4 de maio de 2000 (LRF) e as disposições contidas na Po"
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2020/portaria-tcu-n-171-de-16-de-novembro-de-2020-288545016.md",
+      "sha256_md": "ef14ceb01ac2c822b6e89a443244339ee41c2f32e3167870b5b936275b56f0f3",
+      "sha256_fonte": "a93d096a32b50f0645b4ccce89ed7aed906428b4dca6692aade49d81ead2db94",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "c6972423d7f4e085b369ca339302d8e833bdaad748b0a0440953ee0479d223a7",
+      "sha256_visivel_md": "e1e4fb35ba9846bd1816a6e3e65556d1f4176b2b7c8fa522e46011a4961541b9",
+      "primeira_diferenca": {
+        "posicao": 973,
+        "fonte": "lhões) na fonte 150. Parágrafo único: Por se tratar de recursos próprios a fonte\"150 - recursos próprios não financeiros\"não foi expurgada do cronograma anual de desembolso. Art. 2º O anexo mencionado no parágrafo anterior também foi altera",
+        "md": "lhões) na fonte 150. Parágrafo único: Por se tratar de recursos próprios a fonte*\"150 - recursos próprios não financeiros\"*não foi expurgada do cronograma anual de desembolso. Art. 2º O anexo mencionado no parágrafo anterior também foi alte"
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2020/portaria-tcu-n-200-de-15-de-dezembro-de-2020-294339482.md",
+      "sha256_md": "5c0e1ad6fb8368db6999fd5827b42d2d295fbdd3087a8873863c9f5ba312d042",
+      "sha256_fonte": "25335763cf7ba7fa70b91035ff8eb6770013ee740c213305ca544f7170bf7d2f",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "9ed035d6e68bf84fde7fe7d23fcf659e5564d45370c1762fb7117c92c38114f6",
+      "sha256_visivel_md": "e57e11733940f35a8374c4f6ebcf0e40f1ae15c3aaa5847db92acbee071e4792",
+      "primeira_diferenca": {
+        "posicao": 382,
+        "fonte": "e 11 de novembro de 2019 (LDO), combinado com o art. 4º, caput, inciso I, alínea\"a\", item 2, da Lei nº 13.978, de 20 de janeiro de 2020 (LOA), o art. 4 º da Lei Complementar nº 101, de 4 de maio de 2000 (LRF), e as disposições contidas na P",
+        "md": "e 11 de novembro de 2019 (LDO), combinado com o art. 4º, caput, inciso I, alínea*\"a\"*, item 2, da Lei nº 13.978, de 20 de janeiro de 2020 (LOA), o art. 4 º da Lei Complementar nº 101, de 4 de maio de 2000 (LRF), e as disposições contidas na"
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2020/portaria-tcu-n-207-de-23-de-dezembro-de-2020-296416937.md",
+      "sha256_md": "c979bb1708881c4a482a2133ecb61149df63289e34eb2014c62393ed9b906b01",
+      "sha256_fonte": "b6dc0db8ae78ca64661c62841f2c6e82016231bd6d211cf12d581ecc583531dc",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "9709b4188674a910798a3c25f87a23722282a85b3c85bf8b11b4ded4902dfd51",
+      "sha256_visivel_md": "c19b71584c7debf372371413f77b802d7c1c593cc41c873bf7462ee028db5223",
+      "primeira_diferenca": {
+        "posicao": 930,
+        "fonte": "650.000,00 (seiscentos e cinquenta mil de reais) para reforço de dotação na ação\"Contribuição da União, de suas Autarquias e Fundações para o Custeio do Regime de Previdência dos Servidores Públicos Federais\"constante da Lei Orçamentária An",
+        "md": "650.000,00 (seiscentos e cinquenta mil de reais) para reforço de dotação na ação*\"Contribuição da União, de suas Autarquias e Fundações para o Custeio do Regime de Previdência dos Servidores Públicos Federais\"*constante da Lei Orçamentária "
+      }
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/2019/resolucao-n-4-709-de-31-de-janeiro-de-2019-61804060.md",
+      "sha256_md": "8fa0b9587b8902ae07cc7b5bd99d737fd2fe7e0cd6efa31d163c0159efc325e9",
+      "sha256_fonte": "bdbcab28d4ec613a343bc74cb49c1e03405642ee88fb2c6e5284f5a0e418a9f1",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "941fabd1f784caa3deae00e4f0a191913694b4ccb19a9f8a7b2b719700bc76c6",
+      "sha256_visivel_md": "6ee6da8a3bfb28c0965e4d9bd2045fc4513b075c00d3cc26e82eac967ecc1cc4",
+      "primeira_diferenca": {
+        "posicao": 3466,
+        "fonte": " de 2019, para o artigo 1º. ILAN GOLDFAJN Presidente do Banco Central do Brasil -------------------------------------------------------------------------- TÍTULO: CRÉDITO RURAL CAPÍTULO: Recursos - 6 SEÇÃO: Normas Transitórias - 9 ---------",
+        "md": " de 2019, para o artigo 1º. ILAN GOLDFAJN Presidente do Banco Central do Brasil TÍTULO: CRÉDITO RURAL CAPÍTULO: Recursos - 6 SEÇÃO: Normas Transitórias - 9 1 - As instituições financeiras de que trata o MCR 6-2-8 ficam sujeitas à exigibilid"
+      }
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/2020/resolucao-cmn-n-4.864-de-23-de-outubro-de-2020-284733795.md",
+      "sha256_md": "c23e2b067786cb93c9d2a7267232e1bfb885abca2dd8395089409a2c2af39272",
+      "sha256_fonte": "3b877f40a846fb593f90047ef618ca18821497a58f8cda3884ba9e4febf011b4",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": false,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "08a4383babfcbd114c2922e1f25dc615111be44f31b3973710f8381dd675a29c",
+      "sha256_visivel_md": "7848287e66ca59f4ae9fa705bdfe7809c8eeb3861637f94168f729d34791bf03",
+      "primeira_diferenca": {
+        "posicao": 994,
+        "fonte": "21. ROBERTO DE OLIVEIRA CAMPOS NETO Presidente do Banco Central do Brasil ANEXO -------------------------------------------------------------------------- TÍTULO: CRÉDITO RURAL CAPÍTULO: Condições Básicas - 2 SEÇÃO: Desclassificação e Recla",
+        "md": "21. ROBERTO DE OLIVEIRA CAMPOS NETO Presidente do Banco Central do Brasil ANEXO TÍTULO: CRÉDITO RURAL CAPÍTULO: Condições Básicas - 2 SEÇÃO: Desclassificação e Reclassificação - 10 1 - A desclassificação e a reclassificação de operação de c"
+      }
+    },
+    {
+      "path": "reguladores/agu/portarias/2019/portaria-n-115-de-8-de-fevereiro-de-2019-62978356.md",
+      "sha256_md": "ae7e2808097939370c7318e50227565d7e2383d535f5220b09a9e90d77aa28e7",
+      "sha256_fonte": "3f59eda398b7a3d67868d8ddf888e876ecf66ddd18cbee97175f6e2867402b6b",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "abf20fa6d92d0fa73db2558b20f96cf0aed0954d3425cc938cd00828ef288628",
+      "sha256_visivel_md": "d358e13f6831ccb06f6b8fad5a26dfc57038bc8454409c89f7482cc2ce94c27a",
+      "primeira_diferenca": {
+        "posicao": 106,
+        "fonte": "EVEREIRO DE 2019 Dispõe sobre a extinção do Escritório Avançado em Altamira/PA. O PROCURADOR-GERAL FEDERAL,no uso das competências de que tratam os incisos I e VIII, do § 2º do art. 11 da Lei nº 10.480, de 2 de julho de 2002, a delegação de",
+        "md": "EVEREIRO DE 2019 Dispõe sobre a extinção do Escritório Avançado em Altamira/PA. **O PROCURADOR-GERAL FEDERAL,**no uso das competências de que tratam os incisos I e VIII, do § 2º do art. 11 da Lei nº 10.480, de 2 de julho de 2002, a delegaçã"
+      }
+    },
+    {
+      "path": "reguladores/agu/portarias/2019/portaria-n-120-de-8-de-fevereiro-de-2019-62978359.md",
+      "sha256_md": "ba6e726bd7b464eb1d688a02a424d84fbaf0ff3fcd7b55ee83b909774b734f3e",
+      "sha256_fonte": "cf6a0960eefbf1a6d4f9275c6e0bc166d383f9a5c31d5f9ed10b4a828bbdea48",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "ac6fb03663d93ea660f33eec9555f15ef249289bf1e345ebb095d6bb6433dd62",
+      "sha256_visivel_md": "73a3b0fef9e4879a46b524923a84bfb33e7c1f6764efde89379e9bb9ba58ce92",
+      "primeira_diferenca": {
+        "posicao": 110,
+        "fonte": "EIRO DE 2019 Dispõe sobre a extinção do Escritório Avançado em Pouso Alegre/MG. O PROCURADOR-GERAL FEDERAL,no uso das competências de que tratam os incisos I e VIII, do § 2º do art. 11 da Lei nº 10.480, de 2 de julho de 2002, a delegação de",
+        "md": "EIRO DE 2019 Dispõe sobre a extinção do Escritório Avançado em Pouso Alegre/MG. **O PROCURADOR-GERAL FEDERAL,**no uso das competências de que tratam os incisos I e VIII, do § 2º do art. 11 da Lei nº 10.480, de 2 de julho de 2002, a delegaçã"
+      }
+    },
+    {
+      "path": "reguladores/agu/portarias/2019/portaria-n-121-de-8-de-fevereiro-de-2019-62978514.md",
+      "sha256_md": "14145eceb0320e7fcec0a1b7588e9d4a0221a267287be053c3525fb1980395a9",
+      "sha256_fonte": "91beec12a743e7632d76d342edf8bfc7373ce3e1ac30d897223f1a95f3b33cbf",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "b049740eb5c2fab3335065e45b62f79890e3dede5e9beb345bddf728f6439ced",
+      "sha256_visivel_md": "84a5c8ec3678d8baad688f57d0d11bff3e1544605e4d83b2912ea759a85bd5df",
+      "primeira_diferenca": {
+        "posicao": 114,
+        "fonte": " DE 2019 Dispõe sobre a extinção do Escritório de Representação em Juazeiro/BA. O PROCURADOR-GERAL FEDERAL,no uso das competências de que tratam os incisos I e VIII, do § 2º do art. 11 da Lei nº 10.480, de 2 de julho de 2002, a delegação de",
+        "md": " DE 2019 Dispõe sobre a extinção do Escritório de Representação em Juazeiro/BA. **O PROCURADOR-GERAL FEDERAL,**no uso das competências de que tratam os incisos I e VIII, do § 2º do art. 11 da Lei nº 10.480, de 2 de julho de 2002, a delegaçã"
+      }
+    },
+    {
+      "path": "reguladores/agu/portarias/2019/portaria-n-249-de-12-de-marco-de-2019-66953600.md",
+      "sha256_md": "3f32392789d4281490123cd1e541791d2bf1b7c3a83d7dc0b5390318a78a1b1f",
+      "sha256_fonte": "c61b35a68df88608ee4df0291b2ea62a68aaca9734cc164372962068d381a520",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "6650ce5189c49c772bcc760db720c67450a2a8e34986eeef95ef4cf579da9ac8",
+      "sha256_visivel_md": "b8327300eafed858884b8d4ee22ab6f08fe804b44c0d93f1f6b0e4575b851fc1",
+      "primeira_diferenca": {
+        "posicao": 102,
+        "fonte": " DE MARÇO DE 2019 Dispõe sobre a extinção do Escritório Avançado em Tubarão/SC. O PROCURADOR-GERAL FEDERAL,no uso das competências de que tratam os incisos I e VIII, do § 2º do art. 11 da Lei nº 10.480, de 2 de julho de 2002, da delegação d",
+        "md": " DE MARÇO DE 2019 Dispõe sobre a extinção do Escritório Avançado em Tubarão/SC. **O PROCURADOR-GERAL FEDERAL,**no uso das competências de que tratam os incisos I e VIII, do § 2º do art. 11 da Lei nº 10.480, de 2 de julho de 2002, da delegaç"
+      }
+    },
+    {
+      "path": "reguladores/agu/portarias/2020/portaria-n-26-de-14-de-outubro-de-2020-282696474.md",
+      "sha256_md": "b8dfa43609625fcccfbf7eaab67c1413a39e4536360e83e3ca3c1ba092a481fb",
+      "sha256_fonte": "7d1092341100495f87ebe18b880c27b26480dd59434b10dfe78b65d13dad8113",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO I DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — INSTRUMENTOS DE GOVERNANÇA",
+          "fonte": "CAPÍTULO II INSTRUMENTOS DE GOVERNANÇA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO I — GESTÃO DOS RISCOS JUDICIAIS",
+          "fonte": "SEÇÃO I GESTÃO DOS RISCOS JUDICIAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO II — GESTÃO DO CONHECIMENTO",
+          "fonte": "SEÇÃO II GESTÃO DO CONHECIMENTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO III — GESTÃO DOS PROCESSOS DE TRABALHO",
+          "fonte": "SEÇÃO III GESTÃO DOS PROCESSOS DE TRABALHO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — COORDENAÇÃO, ESPECIALIZAÇÃO E DESTERRITORIALIZAÇÃO",
+          "fonte": "CAPÍTULO III COORDENAÇÃO, ESPECIALIZAÇÃO E DESTERRITORIALIZAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO I — ORGANIZAÇÃO DAS COORDENAÇÕES REGIONAIS E NACIONAIS",
+          "fonte": "SEÇÃO I ORGANIZAÇÃO DAS COORDENAÇÕES REGIONAIS E NACIONAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO II — MOVIMENTAÇÃO PARA ATUAÇÃO NAS COORDENAÇÕES REGIONAIS E NACIONAIS",
+          "fonte": "SEÇÃO II MOVIMENTAÇÃO PARA ATUAÇÃO NAS COORDENAÇÕES REGIONAIS E NACIONAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — ATRIBUIÇÕES",
+          "fonte": "CAPÍTULO IV ATRIBUIÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO I — PROCURADORES-REGIONAIS DA UNIÃO",
+          "fonte": "SEÇÃO I PROCURADORES-REGIONAIS DA UNIÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO II — SUBPROCURADORES-REGIONAIS DA UNIÃO",
+          "fonte": "SEÇÃO II SUBPROCURADORES-REGIONAIS DA UNIÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO III — CHEFES DE GABINETE",
+          "fonte": "SEÇÃO III CHEFES DE GABINETE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO IV — COORDENADORES-REGIONAIS DE GESTÃO ESTRATÉGICA",
+          "fonte": "SEÇÃO IV COORDENADORES-REGIONAIS DE GESTÃO ESTRATÉGICA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO V — COORDENADORES-GERAIS JURÍDICOS",
+          "fonte": "SEÇÃO V COORDENADORES-GERAIS JURÍDICOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO VI — COORDENADORES REGIONAIS",
+          "fonte": "SEÇÃO VI COORDENADORES REGIONAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO VII — PROCURADORES-CHEFE DA UNIÃO E PROCURADORES-SECCIONAIS DA UNIÃO",
+          "fonte": "SEÇÃO VII PROCURADORES-CHEFE DA UNIÃO E PROCURADORES-SECCIONAIS DA UNIÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO VIII — ADVOGADOS DA UNIÃO EM EXERCÍCIO NOS ÓRGÃOS DA PROCURADORIA-GERAL DA UNIÃO",
+          "fonte": "SEÇÃO VIII ADVOGADOS DA UNIÃO EM EXERCÍCIO NOS ÓRGÃOS DA PROCURADORIA-GERAL DA UNIÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO IX — DISTRIBUIÇÃO DAS TAREFAS JUDICIAIS E JURÍDICAS",
+          "fonte": "SEÇÃO IX DISTRIBUIÇÃO DAS TAREFAS JUDICIAIS E JURÍDICAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO X — GESTÃO DE FÉRIAS, LICENÇAS E AFASTAMENTOS E DA REDISTRIBUIÇÃO DE TAREFAS",
+          "fonte": "SEÇÃO X GESTÃO DE FÉRIAS, LICENÇAS E AFASTAMENTOS E DA REDISTRIBUIÇÃO DE TAREFAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — COORDENAÇÃO, ESPECIALIZAÇÃO E DESTERRITORIALIZAÇÃO DOS PROCESSOS",
+          "fonte": "CAPÍTULO V COORDENAÇÃO, ESPECIALIZAÇÃO E DESTERRITORIALIZAÇÃO DOS PROCESSOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+          "fonte": "CAPÍTULO VI DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "b61477839b7008af144ef60678f020b14430894b863b4602f3d8cd7954b9fe77",
+      "sha256_visivel_md": "04b2159fd62a9300b5904b7b1f273935950b203dcfd42fddc803eff44010854a",
+      "primeira_diferenca": {
+        "posicao": 25161,
+        "fonte": " autorizar a permuta entre Advogados da União em período inferior ao previsto nocaput,mediante convocação específica para a manifestação de interessados, com prazo mínimo de cinco dias úteis e observados os critérios e pontuações do art. 28",
+        "md": " autorizar a permuta entre Advogados da União em período inferior ao previsto no**caput,**mediante convocação específica para a manifestação de interessados, com prazo mínimo de cinco dias úteis e observados os critérios e pontuações do art"
+      }
+    },
+    {
+      "path": "reguladores/agu/portarias/2020/portaria-n-498-2020-pgf-agu-de-15-de-setembro-de-2020-278466823.md",
+      "sha256_md": "14e5bdd585be43b12871a2b25a041a010b9b0e605c660b21b7af6ab402f5d8c3",
+      "sha256_fonte": "3bbac6a204e26ea46d0f5bc7ea152a2ca29e2b7fad61368f915e7b924c059c2e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e57bb1ba86db11d59e4751f97be249e4af35d59718010bcab6d2b66c99c1a0ed",
+      "sha256_visivel_md": "4f5c06040f855e0626d8dd40f46a837f734e0199630ff8c3c093af8b9bea34da",
+      "primeira_diferenca": {
+        "posicao": 5465,
+        "fonte": " manifestação referencial regional ou nacional, analisando os incisos I a III docaput,em relação à matéria específica; e III - nos casos cuja matéria em discussão seja objeto de súmula da Advocacia-Geral da União ou de parecer ou outra orie",
+        "md": " manifestação referencial regional ou nacional, analisando os incisos I a III do*caput,*em relação à matéria específica; e III - nos casos cuja matéria em discussão seja objeto de súmula da Advocacia-Geral da União ou de parecer ou outra or"
+      }
+    },
+    {
+      "path": "reguladores/agu/portarias/2020/portaria-n-630-de-17-de-novembro-de-2020-289505891.md",
+      "sha256_md": "17ec847bf8824f3b3c12f8d41523dfc0565748ab043a4d9f78d57ca053cc1eaf",
+      "sha256_fonte": "77bd97dc20136adca70ba700795c64090d26835489e3256a420f5c6c881a0c0a",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "77ce9aebfbb1ebcd7cf4eca5f40f8f0dbf8e4270133e0907a81051b1b44b565c",
+      "sha256_visivel_md": "e0289ca290d3bc8ad9fda5f69d9d74e385f22a1481f56a858219e0d058c8d53b",
+      "primeira_diferenca": {
+        "posicao": 152,
+        "fonte": "n. 134/PGF/AGU, de 17 de fevereiro de 2014, a contar de 21 de dezembro de 2020. O SUBPROCURADOR-GERAL FEDERAL,no uso das atribuições que lhe foram delegadas pelo Procurador-Geral Federal, nos termos do art. 1º da Portaria PGF n. 200, de 25 ",
+        "md": "n. 134/PGF/AGU, de 17 de fevereiro de 2014, a contar de 21 de dezembro de 2020. **O SUBPROCURADOR-GERAL FEDERAL,**no uso das atribuições que lhe foram delegadas pelo Procurador-Geral Federal, nos termos do art. 1º da Portaria PGF n. 200, de"
+      }
+    },
+    {
+      "path": "reguladores/dpu/resolucoes/2019/resolucao-n-156-de-5-de-novembro-de-2019-231272665.md",
+      "sha256_md": "1173c22bb2f7966a96ef5d6d9eed4f677bd1933422279fecabb4b54b91ff2031",
+      "sha256_fonte": "40f9c792e1dde30dd906e885f27f8be2bff5871467784c114c4919e564f58372",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              38,
+              48
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "8eb35e973bf31825381bcea20ee545d575e7fb5671757289a5fef2cc8b3b3433",
+      "sha256_visivel_md": "8eb35e973bf31825381bcea20ee545d575e7fb5671757289a5fef2cc8b3b3433"
+    }
+  ]
+}

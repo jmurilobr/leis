@@ -1,0 +1,58 @@
+---
+titulo: "Decreto-SEMPOG nº 18.507, de 04 de outubro de 2022"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "18.507"
+data: "2022-10-04"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/21941"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/10296/text"
+sha256_fonte: "280e2dcfafe761bd5ec36f9ec57921f4328e5069e3c449ad7b38851aea56304e"
+sha256_texto: "428693a26be7117240f3dde146ea1bbfdf651c67c649a29dfdc74ff856e5c760"
+capturado_em_fonte: "2026-10-21T06:09:55.238804-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 18.507, de 04 de outubro de 2022
+
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Transposição de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167, da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei n.º 2.903, de 20 de dezembro de 2021, a fim de proceder às adequações orçamentárias no exercício 2022,
+
+D E C R E T A:
+
+**Art. 1º** – Fica alterado o Orçamento Anual do Município de Porto Velho por meio de transposição de recursos orçamentários no valor de R$ 573.356,15 (quinhentos e setenta e três mil, trezentos e cinquenta e seis reais e quinze centavos).
+
+**Art. 2º** - A transposição decorre da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas dentro da mesma unidade orçamentária, conforme disposto no inciso XVI do Artigo 6º da Lei n.º 2.902, de 20 de dezembro de 2021 – Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><tbody><tr><td colspan="7"><p><strong>09.00 – SECRETARIA MUNICIPAL DA EDUCAÇÃO - SEMED</strong></p></td></tr><tr><td colspan="7"><p><strong>09.01 – SECRETARIA MUNICIPAL DA EDUCAÇÃO - SEMED</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>TRANSPÕE R$</strong></p></td><td><p><strong>REALOCA </strong><strong>R$</strong></p></td></tr><tr><td><p>09.01.12.365.155.2.291</p></td><td><p>Aquisição de mobiliário e equipamentos</p></td><td><p>FIS</p></td><td><p>4.4.90.52</p></td><td><p>1.500</p></td><td><p>349.042,55</p></td><td><p>-</p></td></tr><tr><td><p>09.01.12.361.311.2.239</p></td><td><p>Formação dos profissionais da Educação</p></td><td><p>FIS</p></td><td><p>3.3.90.39</p></td><td><p>1.500</p></td><td><p>224.313,60</p></td><td><p>-</p></td></tr><tr><td><p>09.01.12.122.313.2.273</p></td><td><p>Manutenção da sede e unidades educacionais</p></td><td><p>FIS</p></td><td><p>4.4.90.52</p></td><td><p>1.500</p></td><td><p>-</p></td><td><p>551.679,94</p></td></tr><tr><td><p>09.01.12.122.313.2.718</p></td><td><p>Remuneração e encargos sociais de pessoal ocupado em atividades de apoio técnico-administrativo</p></td><td><p>FIS</p></td><td><p>3.1.90.96</p></td><td><p>1.500</p></td><td><p>-</p></td><td><p>21.676,21</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>573.356,15</strong></p></td><td><p><strong>573.356,15</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>573.356,15</strong></p></td><td><p><strong>573.356,15</strong></p></td></tr></tbody></table>
+
+**Art. 3º** – Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 17.852, de 20 de dezembro de 2021 e o Detalhamento da Despesa, estabelecido pelo Decreto n.º 17.853, de 20 de dezembro de 2021.
+
+**Art. 4º** – Este Decreto entra em vigor a partir da data de sua publicação.
+
+**Art. 5º** – Revogam-se as disposições em contrário.
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto do Município
+

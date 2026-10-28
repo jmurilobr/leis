@@ -1,0 +1,165 @@
+---
+titulo: "Lei Ordinária nº 658, de 12 de julho de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "658"
+data: "2021-07-12"
+municipio: "Brasilândia de Minas"
+uf: "MG"
+codigo_ibge: "3108552"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.brasilandiademinas.mg.leg.br/norma/677"
+fonte_texto: "https://sapl.brasilandiademinas.mg.leg.br/ta/595/text"
+sha256_fonte: "8cab085a04a372f8f37f083e11680b16b2f0ac7c74c566973b1841146ac1d64c"
+sha256_texto: "417a72d174d34a255e0cee39a1e060aa6449fd7076fd756226170bc0ace0a8c4"
+capturado_em_fonte: "2026-10-27T19:41:31.776641-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 658, de 12 de julho de 2021
+
+"Instituí no Município de Brasilândia de Minas o Pólo de Apoio Presencial, para Educação a Distância, no sistema Universidade Aberta do Brasil - UAB."
+
+
+O Prefeito Municipal de Brasilândia de Minas, Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 86, inciso VII, da Lei Orgânica, faz saber faz saber que a Câmara Municipal aprovou e ele, em seu nome, sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído no Município de Brasilândia de Minas o POLO DE APOΙΟ PRESENCIAL PARA EDUCAÇÃO A DISTÂNCIA, sistema Universidade Aberta do Brasil - UAB.
+
+
+Parágrafo único
+
+Caracteriza-se Pólo de Apoio Presencial como Unidade Operacional para o desenvolvimento descentralizado das atividades didático- pedagógicas e administrativas relativas a cursos e programas ofertados a distância, nos quais os momentos presenciais mínimos serão obrigatórios segundo a regulamentação da educação à distância no Brasil.
+
+
+Art. 2º.
+
+Para formalização do pólo municipal previsto no artigo 1º o Poder Executivo Municipal poderá firmar acordo de cooperação técnica, parcerias, termos de ajustamento e convênios com órgãos da União, Estado, outros municípios e ainda com instituições públicas ou privadas de ensino superior ou de nível técnico.
+
+
+Art. 3º.
+
+Os cursos e programas ofertados para fins de expansão da educação se darão através de cursos profissionalizantes de ensino médio e cursos de nível superior, como forma de promoção da inclusão social, na modalidade educacional a distância prevista no artigo 80 da Lei 9.394/06 que dispõe sobre as Diretrizes e Bases da Educação, no que se propõe:
+
+
+I –
+
+Mediação didático-pedagógica nos processos de ensino-aprendizagem com a utilização de meios e tecnologias de informações e comunicações, com estudantes e professores desenvolvendo atividades educativas em lugares ao tempo diversos, dentro das Diretrizes para uma nova política educacional no Município.
+
+
+II –
+
+Oferecer prioritariamente cursos de licenciatura e de formação inicial e continuada e professores da educação básica.
+
+
+III –
+
+Proporcionar através de convênios e parcerias Cursos Superiores e Cursos Profissionalizantes de Ensino Médio que venham a fomentar o desenvolvimento sustentável no Município.
+
+
+IV –
+
+Ampliar projetos de pesquisa e extensão que visem o desenvolvimento sócio- educacional em regime de colaboração com empresas privadas, estatais e ONGs.
+
+
+Art. 4º.
+
+O município poderá, de acordo com o termo de ajustamento firmado, fornecer a infraestrutura física e logística, tais como laboratórios, bibliotecas, equipamentos de tecnologia para o funcionamento de Pólo de Apoio Presencial para educação à distância.
+
+
+Art. 5º.
+
+A Secretaria Municipal de Educação, será responsável pela gestão administrativa e financeira dos Acordos e Convênios necessários para a implantação, operacionalização e sustentação do pólo no município.
+
+
+Art. 6º.
+
+A Administração dos cursos será de competência das instituições de ensino parceiras de acordo com as responsabilidades constantes nos termos de ajustamento a ser firmado com o município.
+
+
+Art. 7º.
+
+A estrutura funcional básica do pólo terá a seguinte composição:
+
+
+a)
+
+01 Coordenador
+
+
+b)
+
+02 Professores mediadores/Tutores para cada turma de 25 alunos
+
+
+c)
+
+01 Secretário
+
+
+d)
+
+01 Técnico em Informática
+
+
+e)
+
+01 Auxiliar de Biblioteca
+
+
+f)
+
+01 Auxiliar de Serviços Gerais
+
+
+g)
+
+01 Auxiliar de Secretaria.
+
+
+Art. 8º.
+
+A Coordenação do pólo de apoio presencial será realizada por um Professor ou Pedagogo da rede Pública Municipal de Ensino, em efetivo exercício há mais de 03 (três) anos, e que deverá atuar nas seguintes diretrizes:
+
+
+Parágrafo único
+
+O coordenador do pólo de Apoio Presencial é uma função no âmbito do sistema da UAB, cuja responsabilidade e atribuições do titular deverão garantir o adequado funcionamento do pólo, em relação às atividades educacionais e administrativas que se fizerem necessárias, bem como a interlocução entre os monitor do espaço (plataforma virtual), contratado para prestar assistência, permanente presencial, no pólo, juntamente com os alunos e coordenação.
+
+
+Art. 13º.
+
+As funções de Auxiliar de Serviços Gerais serão exercidas por servidor contratado ou cedido, tendo como atribuição básica fazer os trabalhos de limpeza, conservação e manutenção nas diversas dependências do prédio, procedendo à limpeza dos móveis e espaço físico da unidade, removendo o lixo, executando a limpeza dos equipamentos e instrumentos de cozinha, no preparo lanches e refeições.
+
+
+Art. 14.
+
+O quadro funcional de que trata o artigo 7º desta, será de responsabilidade do Município, podendo para tanto haver a cessão de servidores integrantes dos quadros do Município, designados para as funções especificadas no pólo, ou mediante contratação temporária, de acordo com a conveniência Administrativa.
+
+
+Art. 15.
+
+Fica a cargo do município a contratação de serviços de assistência Técnica caso necessário para a prestação de serviços de instalação, manutenção, configuração de equipamentos e manutenção da rede, obedecidas as normas legais de licitação.
+
+
+Art. 16.
+
+As despesas resultantes da aplicação da presente Lei correrão por dotações orçamentárias já integrantes do orçamento vigente.
+
+
+Art. 17.
+
+Esta Lei entra em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
+
+
+Prefeitura de Brasilândia de Minas - MG, 12 de Julho de 2021.
+
+**OSÉIAS CARDOSO QUEIROZ**
+
+**Prefeito**
+

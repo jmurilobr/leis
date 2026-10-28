@@ -1,0 +1,698 @@
+---
+titulo: "Lei Ordinária nº 7.607, de 27 de novembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "7607"
+data: "2025-11-27"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/8386"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/3520/text"
+sha256_fonte: "e430173a21ab839ada01fc6e78d70c8dcd7300fe933fc3165949f18e31f58d39"
+sha256_texto: "3dd8099177a957d8211ace8e345b524cb7c221cd118bf1b89de55b890ca1a21e"
+capturado_em_fonte: "2026-10-27T17:45:32.027756-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 7.607, de 27 de novembro de 2025
+
+DISPÕE SOBRE A POLÍTICA MUNICIPAL DE DRENAGEM URBANA E DÁ OUTRAS PROVIDÊNCIAS.  
+Projeto de Lei nº 144/2025, de autoria da Prefeita Municipal.
+
+
+Eu, **SAMANTA PAULA ALBANI BORINI**, Prefeita Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,
+
+**FAÇO SABER** que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DOS OBJETIVOS, DO SISTEMA E DAS DEFINIÇÕES
+
+
+##### Seção I — Dos Objetivos
+
+
+Art. 1º.
+
+Esta Lei dispõe sobre normas para o Manejo das Águas Pluviais no Município de Birigui, com o objetivo principal de promover a retenção e infiltração das águas superficiais, visando à preservação do hidrograma natural, à recarga do lençol freático e à disponibilização de água para reuso, adotando de maneira sustentável estruturas de drenagem alternativas ou compensatórias.
+
+
+Art. 2º.
+
+As disposições desta Lei aplicam-se ao parcelamento do solo, às formas de ocupação do solo e à instalação de atividades residenciais e não residenciais que impliquem alterações nas características do solo, seja pela implantação de estruturas ou superestruturas, seja pela instalação de usos ou atividades, com ou sem edificação, que resultem em impermeabilização do solo ou aumento da contribuição de água ao sistema de drenagem urbana.
+
+
+Parágrafo único
+
+A montante da captação de água do Ribeirão Baixotes, a área de preservação será considerada da margem do Ribeirão Baixotes até o meio fio da Avenida Fernando Castilho.
+
+
+Art. 3º.
+
+Os projetos e tipologias de ocupação mencionados no artigo anterior deverão prever sistemas de retenção, detenção e/ou infiltração de águas pluviais, projetados conforme os critérios estabelecidos nesta Lei, de modo a garantir a recarga dos aquíferos e minimizar os impactos sobre a malha viária e os fundos de vale.
+
+
+Parágrafo único
+
+Soluções técnicas alternativas poderão ser apresentadas, desde que avaliadas pela Divisão de Drenagem e Águas Pluviais, vinculada à Diretoria de Infraestrutura Urbana da Secretaria Municipal de Obras.
+
+
+##### Seção II — Do Sistema de Manejo de Água Pluvial e Drenagem Urbana
+
+
+Art. 4º.
+
+O sistema de controle de águas pluviais e drenagem urbana do Município de Birigui compreende um conjunto integrado de galerias, canais, obras e dispositivos projetados para o adequado escoamento e manejo do deflúvio superficial até seu destino final, estruturando-se em dois níveis: macro e microdrenagem.
+
+
+##### Seção III — Das Definições
+
+
+Art. 5º.
+
+Para os fins desta Lei, consideram-se as seguintes definições:
+
+
+I –
+
+Bacia de Acumulação – estrutura projetada para regular temporariamente o nível de oscilação dos corpos d’água em macrobacias, com o objetivo de controlar enchentes e inundações;
+
+
+II –
+
+Bacia de Detenção – estrutura impermeabilizada que retém temporariamente a água, liberando-a gradualmente para regular os picos de vazão. Pode incluir dispositivos de fuga para pequenas vazões destinadas à infiltração ou à rede pública de drenagem pluvial;
+
+
+III –
+
+Bacia Hidrográfica – região hidrográfica sobre a terra onde o escoamento superficial converge para um único ponto fixo, chamado exutório;
+
+
+IV –
+
+Bacia de Retenção – estrutura permanente destinada a reduzir o escoamento superficial, acumulando e infiltrando as águas pluviais. Quando seca, pode ser usada para lazer urbano;
+
+
+V –
+
+Boca de Lobo/Coletora – abertura construída, geralmente junto a meios-fios e sarjetas, para captar e conduzir águas pluviais aos poços de visita das galerias;
+
+
+VI –
+
+Bueiro – estrutura que permite a passagem das águas sob vias, garantindo a continuidade do escoamento natural;
+
+
+VII –
+
+Canal Pluvial – estrutura destinada a conduzir as águas pluviais, evitando danos como erosão e desmoronamento de taludes;
+
+
+VIII –
+
+Caixa de Retenção – reservatório para armazenamento de águas pluviais coletadas de telhados e de superfícies impermeabilizadas, podendo ser destinadas ao reuso para fins não potáveis, em unidades residenciais ou não residenciais, conforme a NBR 15.527/2007, que trata do aproveitamento de águas pluviais;
+
+
+IX –
+
+Coeficiente de Escoamento Superficial – parâmetro determinado com base em tabelas que consideram dados pluviométricos do município;
+
+
+X –
+
+Deflúvio Superficial Direto – volume de água que escoa da superfície de uma determinada área devido à ocorrência de uma chuva torrencial sobre aquela área;
+
+
+XI –
+
+Descarga em Fundos de Vale – volume de água proveniente de sistemas pluviais que deságuam em fundos de vale;
+
+
+XII –
+
+Eixo Estruturante – eixo natural formado pelos corpos d’água que atravessam a malha urbana, configurando uma macrobacia;
+
+
+XIII –
+
+Exutório – ponto fixo para onde convergem as águas de uma bacia hidrográfica;
+
+
+XIV –
+
+Galeria de Águas Pluviais – condutos abertos ou fechados que transportam, por gravidade, águas captadas até corpos receptores ou fundos de vale;
+
+
+XV –
+
+Greide – linha correspondente ao perfil longitudinal de uma via pública ou terreno natural;
+
+
+XVI –
+
+Hidrograma Natural – representação gráfica da relação vazão x tempo do escoamento natural de uma bacia hidrográfica;
+
+
+XVII –
+
+Índice de Impermeabilidade – índice de não infiltração de água para o subsolo de, no máximo, 90% (noventa por cento);
+
+
+XVIII –
+
+Índice de Permeabilidade – índice de infiltração de água para o subsolo de, no mínimo, 10% (dez por cento);
+
+
+XIX –
+
+Intensidade Pluviométrica – medição da intensidade de uma chuva em determinado período de tempo;
+
+
+XX –
+
+Inundação – transbordamento do leito de um corpo d’água, natural ou artificial, associado à impermeabilização da sua área de captação de água;
+
+
+XXI –
+
+Loteamento – modalidade de parcelamento de solo que resulta na abertura de novas vias de circulação, de logradouros públicos ou prolongamento, modificação ou ampliação dos existentes;
+
+
+XXII –
+
+Macrodrenagem – sistema permanente de condução e acumulação de águas naturais;
+
+
+XXIII –
+
+Meio-fio – elemento pré‐moldado em concreto destinado a separar a faixa de pavimentação da faixa de serviço da calçada;
+
+
+XXIV –
+
+Microdrenagem – sistemas que coletam e conduzem as águas pluviais até a macrodrenagem, compostos por sarjetas, bocas‐de‐lobo, reservatório de amortecimento, poços de visita e rede de distribuição;
+
+
+XXV –
+
+Microbacia Hidrográfica – pequena área de drenagem que alimenta tributários do curso principal de água;
+
+
+XXVI –
+
+Obra – realização de trabalho em imóvel que implique na modificação do perfil do terreno, desde sua preparação, seu início e até sua conclusão ou, ainda, qualquer intervenção cujo resultado altere seu estado físico para área já parcelada;
+
+
+XXVII –
+
+Parcelamento do solo – fracionamento do solo, em qualquer de suas modalidades, resultando em novas unidades imobiliárias, observados os requisitos técnicos estabelecidos em lei;
+
+
+XXVIII –
+
+Pavimento Drenante – sistema construtivo de pavimentação assentado sobre superfícies permeáveis e que permitem a infiltração de água, podendo ser conjugado com poços e trincheiras de infiltração;
+
+
+XXIX –
+
+Percolação – movimento subterrâneo da água através do solo, especialmente nos solos não saturados ou próximos da saturação;
+
+
+XXX –
+
+Período de Retorno ou Período de Recorrência – intervalo de tempo estimado de ocorrência de um determinado evento de precipitação pluviométrica mais expressivo;
+
+
+XXXI –
+
+Poço de Visita – sistema de controle da velocidade da água, mudança de direção e regulação de declividade da galeria, possibilitando sua inspeção e manutenção periódica;
+
+
+XXXII –
+
+Poço de Infiltração – estrutura pontual, usualmente cilíndrica, revestida com manta geotêxtil e revestimento para estabilização das paredes do poço, que funciona como filtro de retenção de partículas para infiltração, com profundidade e diâmetro que depende das características do solo e do volume de água a ser infiltrada proveniente das áreas pavimentadas e/ou ocupadas;
+
+
+XXXIII –
+
+Projeto de Edificação – projeto de arquitetura apto a obter Licença e Alvará de Construção, destinado a receber quaisquer atividades humanas, materiais, equipamentos ou instalações diferenciadas e cujo detalhamento resultará em projetos executivos, que atenda aos requisitos técnicos estabelecidos pela legislação específica;
+
+
+XXXIV –
+
+Projeto Urbanístico – aquele que apresenta intervenções no território, associado ou não a edificações, promovendo a urbanização dos espaços e atendendo aos requisitos técnicos estabelecidos pela legislação específica;
+
+
+XXXV –
+
+Rede Mestra – rede que interliga sistemas de micro e macrodrenagem;
+
+
+XXXVI –
+
+Sarjeta – estrutura acoplada ao meio‐fio formando canais triangulares longitudinais destinados a coletar e conduzir as águas superficiais da via pública, passeio e lotes aos dispositivos de drenagem, conjuntamente com as vias, funcionando como canais;
+
+
+XXXVII –
+
+Sistema de Controle de Água Pluvial – conjunto de galerias e canais, obras e dispositivos necessários ao adequado escoamento e condicionamento do deflúvio superficial até seu destino final;
+
+
+XXXVIII –
+
+Sistema de Dissipação de Energia – estrutura que visa diminuir a velocidade do escoamento das águas nas saídas de galerias de águas pluviais, principalmente, em situações de chuvas intensas, visando minimizar o desgaste e evitar a instalação de processos erosivos em canais naturais ou artificiais;
+
+
+XXXIX –
+
+Sub-bacia Hidrográfica – área de drenagem natural relativa aos tributários do curso d’água principal;
+
+
+XL –
+
+Talvegue – linha sinuosa e de maior profundidade de um fundo de vale, formando um canal pelo qual correm as águas;
+
+
+XLI –
+
+Trincheira de Infiltração – estrutura linear pouco profunda, preenchida, total ou parcialmente, com material granular como brita e seixos, e revestida com manta geotêxtil, que funciona como filtro de retenção de partículas para infiltração de águas provenientes das áreas pavimentadas e/ou ocupadas, podendo ser implantada em áreas junto a pátios de estacionamentos, logradouros públicos e ao longo de ruas e avenidas, dentre outros;
+
+
+XLII –
+
+Uso e Ocupação do Solo – controle das atividades residenciais e não residenciais no território, respeitados os parâmetros urbanísticos e ambientais, segundo peculiaridades de cada Macrozona;
+
+
+XLIII –
+
+Vala de Infiltração – estrutura linear pouco profunda, vegetada ou não, preenchida com britas ou não, que permite o armazenamento temporário de águas pluviais, favorecendo a infiltração no solo, podendo ser implantada ao longo de rodovias, estacionamentos, parques, logradouros públicos e áreas verdes, dentre outros;
+
+
+XLIV –
+
+Vazão de Descarga – quantidade ou volume de água por uma unidade de tempo de um conduto d’água natural ou artificial;
+
+
+XLV –
+
+Vertedouro – é um canal artificial executado com a finalidade de conduzir seguramente a água por meio de uma barreira, que geralmente é uma barragem, ou destinado a auxiliar na medição da vazão de um dado fluxo de água.
+
+
+#### CAPÍTULO II — DAS NORMAS PARA A IMPLANTAÇÃO DAS ESTRUTURAS
+
+
+##### Seção I — Das Normas para Loteamento e Projetos Urbanísticos
+
+
+Art. 6º.
+
+Os projetos de loteamentos, os projetos urbanísticos e de novos empreendimentos, a serem aprovados pelos órgãos da administração pública municipal, deverão apresentar projeto complementar de drenagem pluvial, sendo que as descargas em fundos de vale devem conter sistemas de dissipação de energia de águas pluviais ou sistemas de múltiplos lançamentos que evite a concentração dos fluxos de água no corpo hídrico, a fim de reduzir os impactos sobre essas áreas, em conformidade com o disposto nesta Lei e demais legislações pertinentes.
+
+
+Art. 7º.
+
+Fica obrigatória a implementação de dispositivos de controle na fonte em todos os novos empreendimentos, lotes e loteamentos aprovados no município, principalmente nas áreas classificadas como suscetíveis a alagamentos, com o objetivo de minimizar o impacto do escoamento superficial sobre o sistema de drenagem urbana.
+
+
+§ 1º
+
+Para os fins desta lei, consideram-se dispositivos de controle na fonte:
+
+
+I –
+
+pavimentos permeáveis;
+
+
+II –
+
+bacias de detenção e retenção;
+
+
+III –
+
+telhados verdes;
+
+
+IV –
+
+sistemas de captação e reutilização de águas pluviais;
+
+
+V –
+
+valas de infiltração e outros sistemas equivalentes.
+
+
+§ 2º
+
+Os projetos de novos empreendimentos deverão conter, obrigatoriamente, os cálculos de dimensionamento dos dispositivos de controle na fonte definidos no §1º, acompanhados de memorial descritivo técnico, ambos elaborados com base na capacidade de retenção necessária para atender às exigências técnicas previstas pelo Plano Diretor de Drenagem Urbana.
+
+
+§ 3º
+
+A aprovação de projetos de novos empreendimentos ficará condicionada à apresentação de estudo técnico que demonstre a viabilidade e a eficiência dos dispositivos de controle na fonte.
+
+
+Art. 8º.
+
+Os projetos de parcelamento do solo e os projetos urbanísticos deverão garantir a condição sustentável de descarga pluvial de sua respectiva área por meio da implantação de estruturas de retenção e/ou detenção e infiltração, mantendo-a o mais próximo possível da vazão de pico natural nos corpos hídricos receptores, de acordo com estudo específico.
+
+
+Parágrafo único
+
+As estruturas implantadas para garantir a descarga pluvial sustentável deverão priorizar soluções baseadas na natureza, como bacias vegetadas, áreas de infiltração e sistemas descentralizados de retenção, observadas as condições do terreno e a viabilidade técnica.
+
+
+Art. 9º.
+
+Será permitida a formação de parcerias entre a iniciativa privada com a interveniência do Poder Público, na qualidade de parceiro ou não, para execução das obras de drenagem pluvial nos casos em que houver influência externa ao empreendimento, seja à montante ou à jusante.
+
+
+§ 1º
+
+As parcerias que se refere o caput desse artigo terão a gestão do Poder Público Municipal.
+
+
+§ 2º
+
+Em casos de servidão para passagem dos dutos ou instalação de estruturas de retenção e/ou detenção, a área será desapropriada pelo Município.
+
+
+§ 3º
+
+Os interessados e beneficiados ratearão os custos da implantação da obra, inclusive a indenização decorrente da desapropriação e o ressarcimento ao município será por meio de contribuição de melhoria.
+
+
+Art. 10.
+
+A manutenção das estruturas de retenção, detenção e/ou infiltração implantadas ficará a cargo:
+
+
+I –
+
+dos possuidores, a qualquer título, e dos condôminos dos respectivos imóveis, quando estiverem localizadas intralotes;
+
+
+II –
+
+ao Poder Público Municipal, quando estiverem localizadas nas Áreas Públicas Municipais (APMs).
+
+
+Art. 11.
+
+A manutenção dos condutos que formam o sistema de galerias pluviais ficará a cargo do Poder Público.
+
+
+Art. 12.
+
+Todo projeto urbanístico que resulte em modificação das condições naturais de permeabilidade superficial do terreno deverá promover o controle de vazão de pico do hidrograma natural relativa às águas pluviais para a macrodrenagem adotando os seguintes critérios:
+
+
+I –
+
+controle da vazão por meio de reservatório de detenção e/ou retenção, desde que haja área para tal;
+
+
+II –
+
+o reservatório de retenção deverá permitir, sempre que viável, a infiltração da água armazenada, funcionando também como caixa de recarga do lençol freático.
+
+
+Parágrafo único
+
+A infiltração será considerada viável quando não causar um dano ambiental, quando as características dos solos permitirem e quando não colocarem em risco as estruturas pré-existentes.
+
+
+Art. 13.
+
+Ao Município caberá fornecer ao usuário o estudo hidrológico das microbacias urbanas dos córregos Biriguizinho, Nunes, da Estiva, do Matadouro, Moimaz, Veadinho, da Área de Contribuição e do Ribeirão Baixotes, conforme apresentado no Plano Diretor de Drenagem Urbana.
+
+
+§ 1º
+
+Nos casos em que o Município não dispõe do estudo hidrológico referido no *caput* deste artigo, será facultado ao empreendedor desenvolvê- lo.
+
+
+§ 2º
+
+O estudo hidrológico específico da microbacia hidrográfica onde o projeto estiver inserido estará sujeito à aprovação pelo Órgão Municipal de Planejamento e Infraestrutura e Órgão Municipal do Meio Ambiente.
+
+
+Art. 14.
+
+Os sistemas caracterizados como bacias de detenção e/ou retenção e infiltração de águas pluviais poderão ser implantados dentro de Áreas Públicas Municipais (APMs), desde que demonstrada a viabilidade técnica e ambiental por meio de estudos técnicos hidrológicos e ambientais específicos, a ser avaliados pelo Órgão Municipal de Planejamento e Infraestrutura em conjunto com o Órgão Municipal do Meio Ambiente.
+
+
+Art. 15.
+
+Os sistemas caracterizados como bacias de detenção e/ou retenção de águas pluviais poderão ser implantados dentro de Áreas de Preservação Permanente (APPs), desde que demonstrado seu caráter de utilidade pública, de interesse social e de baixo impacto ambiental, bem como demonstrada a viabilidade técnica e ambiental por meio de estudos hidrológicos e ambientais específicos, a serem avaliados pelo Órgão Municipal de Planejamento e Infraestrutura em conjunto com o Órgão Municipal do Meio Ambiente.
+
+
+§ 1º
+
+As bacias de detenção e/ou retenção de águas pluviais tratadas no *caput* deste artigo deverão respeitar a distância mínima correspondente a 60% (sessenta por cento) da faixa de APP, a partir da margem do curso d’água.
+
+
+§ 2º
+
+Será permitida a flexibilização da distância mínima determinada no § 1º deste artigo, desde que demonstrada a necessidade amparada em estudos técnicos.
+
+
+§ 3º
+
+Será permitida a implantação de lagos de regulação nos talvegues de corpo d’água natural visando à melhoria ambiental local e a regulação de vazão de pico, desde que demonstrada a necessidade amparada em estudos técnicos específicos.
+
+
+§ 4º
+
+Não será admitida a construção de bacias de detenção e/ou retenção das águas pluviais em áreas brejosas, com lençol freático aflorante, caracterizadas como veredas ou nascentes.
+
+
+§ 5º
+
+O ponto de descarga das bacias de detenção e/ou retenção de águas pluviais tratadas no *caput* deste artigo deverá respeitar o raio de 50 m (cinquenta metros) de proteção das nascentes, conforme a Lei Federal nº 12.651, de 25 de maio de 2012 – Lei de Proteção da Vegetação Nativa (conhecida como Novo Código Florestal).
+
+
+Art. 16.
+
+Os projetos de controle de águas pluviais e drenagem urbana, a serem aprovados pelos Órgãos da Administração Pública Municipal, deverão adotar os seguintes parâmetros para cálculos do Sistema de Drenagem:
+
+
+I –
+
+para uma microdrenagem com área menor que 1.000.000,00 m² (um milhão de metros quadrados), o período de retorno a ser utilizado como parâmetro de projeto, deverá adotar as seguintes informações:
+
+
+<table><tbody><tr><th colspan="2">PERÍODO DE RETORNO (T) PARA TIPO DE ESTRUTURA PLUVIAL</th></tr><tr><td>a) Galerias</td><td>T = 2 Anos</td></tr><tr><td>b) Bueiros</td><td>T = 10 anos</td></tr><tr><td>c) Pontes</td><td>T = 25 anos</td></tr><tr><td>d) Canal Pluvial</td><td>T = 10 anos</td></tr><tr><td>e) Vertedouro/Extravasor</td><td>T = 10 anos</td></tr></tbody></table>
+
+
+II –
+
+para utilização do cálculo de galerias de água pluvial de novos projetos urbanísticos, deverá ser utilizado o coeficiente de escoamento superficial (*runoff*) de 0,50 (zero vírgula cinquenta) e, no caso de cálculo de projetos de galerias em áreas já urbanizadas e adensadas, dentro do perímetro urbano, deverá ser utilizado o coeficiente de escoamento superficial de 0,70 (zero vírgula setenta);
+
+
+III –
+
+para o cálculo da Intensidade, Duração, Frequência (I.D.F), deverá ser seguida equação de comprovada eficiência, acompanhada de estudo específico;
+
+
+IV –
+
+para o cálculo de intensidade pluviométrica do Município de Birigui deverá ser seguida a equação de acordo com o estudo apresentado no Plano Diretor de Drenagem Urbana;
+
+
+V –
+
+os projetos de controle de águas pluviais e drenagem urbana, acompanhados de memorial de cálculo, considerando os possíveis impactos externos na região afetada, provenientes de chuvas não previstas em seu dimensionamento, a ser aprovados pelos Órgãos da Administração Pública Municipal, deverão adotar parâmetros para cálculos de bacias de detenção ou retenção, de acordo com:
+
+
+a)
+
+Coeficiente de escoamento superficial (*runoff*) de pré-desenvolvimento, cujo valor, de acordo com tabela seguinte, onde *t* é igual ao tempo de concentração da microbacia em minutos:
+
+
+<table><tbody><tr><th>CRITÉRIO</th><th>VALOR</th></tr><tr><td>t ≤ 5min</td><td>0,20</td></tr><tr><td>t &gt; 5min</td><td>0,15</td></tr></tbody></table>
+
+
+Art. 17.
+
+Nos novos lotes e empreendimentos imobiliários aprovados no município, deverá ser obrigatoriamente mantido um percentual mínimo de área permeável, com o objetivo de promover a infiltração da água no solo e reduzir a velocidade de escoamento superficial.
+
+
+§ 1º
+
+O percentual mínimo de área permeável será estabelecido conforme a zona de uso e ocupação do solo, da seguinte forma:
+
+
+I –
+
+Zonas residenciais: mínimo de 20% (vinte por cento) de área permeável;
+
+
+II –
+
+Zonas comerciais: mínimo de 15% (quinze por cento) de área permeável;
+
+
+III –
+
+Zonas industriais: mínimo de 10% (dez por cento) de área permeável.
+
+
+§ 2º
+
+A área permeável deverá ser composta por vegetação, sistemas de infiltração, pavimentos permeáveis ou outros dispositivos que garantam a absorção de água pelo solo.
+
+
+§ 3º
+
+Os projetos de estacionamentos, calçadas e áreas comuns impermeabilizadas superiores a 150 m², deverá ser adotado, no mínimo, 40% de superfície com material permeável ou sistema equivalente de infiltração, como pavimentos intertravados com base granular, faixas vegetadas ou revestimentos que permitam a absorção da água pelo solo.
+
+
+§ 4º
+
+O não cumprimento do percentual mínimo de permeabilidade acarretará a aplicação de multa e a exigência de adequação do imóvel ou empreendimento no prazo estabelecido pelo órgão competente.
+
+
+§ 5º
+
+Empreendimentos e imóveis já existentes com área construída superior a 200 m² quadrados que não atendam ao percentual mínimo de permeabilidade deverão adotar medidas compensatórias, como a implementação de sistemas de controle na fonte.
+
+
+##### Seção II — Das Normas para as Edificações
+
+
+Art. 18.
+
+Os projetos arquitetônicos e complementares de edificações deverão contemplar medidas de controle da drenagem pluvial no próprio lote, com o objetivo de promover a infiltração da água no solo e reduzir o escoamento superficial.
+
+
+§ 1º
+
+Essas medidas deverão incorporar, de forma individual ou combinada, os dispositivos de controle na fonte definidos no § 1º do art. 7º desta Lei.
+
+
+§ 2º
+
+Os projetos de edificação deverão apresentar, em seus memoriais técnicos, a taxa de permeabilidade da área, os dispositivos propostos para controle da vazão e os métodos de infiltração/retenção adotados, acompanhados de detalhamento técnico.
+
+
+§ 3º
+
+Nos casos de edificações residenciais multifamiliares, comerciais ou institucionais com cobertura impermeável superior a 300m² (trezentos metros quadrados), será exigida a instalação de sistema de retenção e infiltração de águas pluviais, dimensionado tecnicamente de acordo com a legislação vigente.
+
+
+§ 4º
+
+As calçadas implantadas junto às edificações deverão, sempre que tecnicamente viável, prever faixa vegetada contínua com largura mínima de 30 cm (trinta centímetros) junto à guia, exceto em áreas com exigência de acessibilidade ou alta circulação de pedestres que inviabilizem sua adoção.
+
+
+Art. 19.
+
+O rebaixamento do lençol freático indicado nos projetos de edificações, a serem aprovados pelos Órgãos Municipais de Planejamento e Urbanismo, de Meio Ambiente e de Obras e Infraestrutura, deverá seguir as condições subsequentes:
+
+
+I –
+
+em caráter provisório, somente no período de fundação da obra e obras correlatas, desde que não ultrapasse 180 (cento e oitenta) dias, a drenagem da água poderá ser lançada diretamente em galerias pluviais e, em casos excepcionais, buscar outra alternativa, conforme orientações técnicas dos Órgãos Municipais de Meio Ambiente e de Obras e Infraestrutura;
+
+
+II –
+
+em caráter permanente desde que condicionado a:
+
+
+a)
+
+Projeto de Drenagem comprovando a viabilidade técnica de recirculação adequada da água na mesma microbacia hidrográfica, de forma a mitigar o impacto através da infiltração da água resultante da drenagem do lençol, em estruturas como poços de recarga ou vala de infiltração, situados, prioritariamente, a montante, observando‐se a direção e sentido do escoamento do manancial, de uma nascente e ou áreas verdes públicas, para conservação e renovação da lâmina dos espelhos d’água e manutenção da qualidade da água;
+
+
+b)
+
+Laudo Técnico de Sondagem a ser realizado preferencialmente no final da estação de maior precipitação pluviométrica ou em qualquer época, desde que comprovada tecnicamente a oscilação do lençol freático;
+
+
+III –
+
+somente será permitido o rebaixamento permanente do lençol freático, para aqueles empreendimentos que apresentarem subsolo com índice de ocupação máximo de 90% (noventa por cento);
+
+
+IV –
+
+fica proibido o lançamento de qualquer água resultante de drenagem permanente do lençol na estrutura pluvial urbana e diretamente no corpo d’água natural, bem como não será admitido sua utilização para outros fins que não a infiltração de acordo com análise técnica da situação ou condição da infiltração, exceto a vazão ocorrida no extravasor como mecanismo de segurança;
+
+
+##### Seção III — Das Normas para a Manutenção de Dispositivos Existentes
+
+
+Art. 20.
+
+Fica instituída a obrigatoriedade da manutenção periódica de dispositivos de drenagem urbana existentes, tanto públicos quanto privados, visando garantir a eficiência do sistema de escoamento pluvial e prevenir problemas de alagamento e enchentes.
+
+
+§ 1º
+
+A manutenção de dispositivos públicos, como bocas de lobo, galerias, canais e bacias de retenção, será de responsabilidade do Poder Executivo Municipal, devendo ser realizada conforme cronograma estabelecido por órgão competente.
+
+
+§ 2º
+
+Os proprietários de imóveis e empreendimentos com dispositivos privados de drenagem, como caixas de retenção, telhados verdes e sistemas de captação de águas pluviais, ficam responsáveis pela manutenção e limpeza periódica desses equipamentos, garantindo sua funcionalidade.
+
+
+§ 3º
+
+A fiscalização das condições de manutenção dos dispositivos públicos e privados será realizada pelo órgão competente, que poderá aplicar advertências, multas ou outras penalidades em caso de descumprimento.
+
+
+#### CAPÍTULO III — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 21.
+
+Fica criado o Comitê de Drenagem Urbana do Município de Birigui-SP, de caráter consultivo, vinculado e coordenado pela Divisão de Drenagem e Águas Pluviais, vinculada à Diretoria de Infraestrutura Urbana da Secretaria Municipal de Obras, com a finalidade de dirimir dúvidas em relação aos Sistemas de Controle de Águas Pluviais e Drenagem Urbana do Município, acompanhar a implantação do Plano Diretor de Drenagem Urbana, bem como a sua regulamentação e eventuais inovações tecnológicas decorrentes da aplicação do mesmo.
+
+
+§ 1º
+
+O Comitê do Município de Birigui será composto por técnicos dos Órgãos Municipais:
+
+
+<table><tbody><tr><td>Planejamento e Urbanismo</td><td>Diretor(a) de Desenvolvimento Urbanístico</td></tr><tr><td colspan="1" rowspan="2">Obras</td><td>Diretor(a) de Obras</td></tr><tr><td>Chefe de Divisão de Execução de Obras</td></tr><tr><td colspan="1" rowspan="2">Infraestrutura</td><td>Diretor(a) de Infraestrutura Urbana</td></tr><tr><td>Chefe de Divisão de Drenagem e Águas Pluviais</td></tr><tr><td colspan="1" rowspan="4">Meio Ambiente</td><td>Diretor(a) de Processos Ambientais</td></tr><tr><td>Chefe de Divisão de Proteção do Patrimônio Ambiental</td></tr><tr><td>Diretor(a) de Controle dos Serviços de Água e de Esgoto</td></tr><tr><td>Diretor(a) de Produção de Abastecimento de Água</td></tr><tr><td>Associação de Corretores e Imobiliárias de Birigui</td><td>A serem indicados pela Associação e aceitos pelo Chefe do Poder Executivo</td></tr><tr><td>Associação dos Engenheiros e Arquitetos de Birigui</td><td>A serem indicados pela Associação e aceitos pelo Chefe do Poder Executivo</td></tr><tr><td>Câmara Municipal</td><td>Servidor efetivo indicado pelo Presidente da Câmara</td></tr></tbody></table>
+
+
+§ 2º
+
+A critério do Comitê de Drenagem Urbana do Município de Birigui poderão ser convidados técnicos especialistas para participar, eventualmente, do mesmo.
+
+
+§ 3º
+
+A participação dos membros no Comitê de Drenagem Urbana do Município de Birigui será considerada função relevante, não remunerada.
+
+
+Art. 22.
+
+Fica revogada em seu inteiro teor a Lei Complementar nº 163, de 22 de setembro de 2025.
+
+
+Art. 23.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Birigui, aos vinte e sete de novembro de dois mil e vinte e cinco.
+
+**SAMANTA PAULA ALBANI BORINI Prefeita Municipal**
+
+**ROGÉRIO VENÍCIUS COSTA FERNANDES Secretário Municipal de Obras**
+
+Publicada na Secretaria de Municipal de Governo da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**JAQUELINE MORAES SILVA FERNANDES Secretária Adjunta de Governo**
+

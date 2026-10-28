@@ -1,0 +1,29 @@
+---
+titulo: "CONVÊNIO ICMS Nº 26, DE 5 DE MARÇO DE 2026"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "26"
+data: "2026-03-05"
+revogada: null
+versao_texto: "Texto e notas oficiais do portal CONFAZ conforme a captura; sem certificação de vigência."
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV026_26"
+sha256_html_fonte: "50d30262863f6a847e31cee084c618d08cb188a45a98fbb7fc6f3bfa6690d719"
+sha256_texto: "c5bcbd7b1dceebd26fbfbf9b9b619182501de40559abec369cfd111da73ee8f7"
+baixado_em: "2026-10-27"
+representacao_corpo: "html-nativo-confaz-piloto-v1"
+observacao_captura: "timestamp original do cliente com fuso, convertido para America/Recife"
+observacao_efeitos: "Condições de ratificação e produção de efeitos preservadas literalmente. Nenhuma data de vigência calculada."
+publicacao_fonte: "Publicado no DOU de 06.03.26, pelo despacho 11/26. | Ratificação Nacional no DOU de 11.03.26, pelo Ato Declaratório 06/26."
+---
+# CONVÊNIO ICMS Nº 26, DE 5 DE MARÇO DE 2026
+
+<div id="parent-fieldname-text"><p class="A1-1TituloAcordo" align="center">CONVÊNIO ICMS Nº 26, DE 5 DE MARÇO DE 2026<b></b></p>
+<p class="A2DataPublicacao">Publicado no DOU de 06.03.26, pelo despacho <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/despacho/2026/dp011_26" target="_self" title="despacho 11/26">11/26</a>.</p>
+<p class="A2DataPublicacao">Ratificação Nacional no DOU de 11.03.26, pelo Ato Declaratório <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/atos-declaratorios/2026/ad006_26" target="_self" title="ato declaratorio 6/26">06/26</a>.</p>
+<p class="A3Ementa">Dispõe sobre a adesão do Estado de Goiás e altera o Convênio ICMS nº 30, de 11 de abril de 2025, que autoriza a concessão de redução na base de cálculo do ICMS nas operações de entrada de mercadorias e bens destinados às obras de instalação e construção de linhas de transmissão de energia elétrica nas hipóteses e condições que especifica.</p>
+<p class="A5-1TextoAcordo"><b>O Conselho Nacional de Política Fazendária - CONFAZ,</b> na sua 420ª Reunião Extraordinária, realizada em Brasília, DF, no dia 5 de março de 2026, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte</p>
+<p class="A4AcordoTipo" align="center">CONVÊNIO</p>
+<p class="A5-1TextoAcordo"><b>Cláusula primeira</b> O Estado de Goiás fica incluído nas disposições do <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV030_25" target="_self" title="convenio icms 30/25">Convênio ICMS nº 30, de 11 de abril de 2025</a>, publicado no Diário Oficial da União de 15 de abril de 2025.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula segunda</b> O “caput” da cláusula primeira do <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV030_25" target="_self" title="convenio icms 30/25">Convênio ICMS nº 30/25</a> passa a vigorar com a seguinte redação:</p>
+<p class="A5-2NovaRedacao">“Cláusula primeira Os Estados do Ceará, Goiás, Rondônia e Tocantins e ficam autorizados a conceder redução de base de cálculo do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS – incidente nas operações de entrada de mercadorias e bens destinados às obras de instalação e construção de linhas de transmissão de energia elétrica, de forma que a carga tributária seja equivalente aos seguintes percentuais, em função da origem das mercadorias:”.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula terceira</b> Este convênio entra em vigor na data da publicação da sua ratificação nacional no Diário Oficial da União.</p></div>

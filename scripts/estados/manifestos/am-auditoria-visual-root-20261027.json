@@ -1,0 +1,18 @@
+{
+  "normas_novas": 0,
+  "casos_conferidos_ROOT": [
+    {
+      "id_legisla": "8680",
+      "PDF": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-7943-5/pagina-oficial.pdf",
+      "sha256_PDF": "5484263039b209a0d91a63b4eb2dcab596bb9fdde117f66cf5035df11954d6e7",
+      "observacao": "ROOT viu pagina completa: cabecalho do Diario27/12/1985,epigrafe e fecho do proprio ato27/11/1985,nota de reproducao por numeracao duplicada. Data da lei nao deve ser tomada do cabecalho do Diario. Portal usa27/12."
+    },
+    {
+      "id_legisla": "13225",
+      "PDF": "estaduais/AM/_fonte/auditorias/amostra12-PDF-20261027-001/QA-9390-1/pagina-oficial.pdf",
+      "sha256_PDF": "dedc9dc9b0044164184a0be14c8415fe3a4e304e98a7e40f17c9893b45eea1e8",
+      "observacao": "ROOT viu pagina completa: Lei2095 inicia no fim esquerdo e fecho continua no topo direito;Art2 combina revogacao/vigencia,semArt3. Lei2094 anterior temArt3,nao deve ser incorporada ao ato seguinte. Referencia propria10.08.66."
+    }
+  ],
+  "criterio": "Revisao visual independente pontual das duas evidencias. Candidatos AM sem cotejo primario suficiente permanecem privados; nao certifica todo portal nem fonte DOE nao examinada. Nenhuma mudanca em normas/metas/pendencias."
+}

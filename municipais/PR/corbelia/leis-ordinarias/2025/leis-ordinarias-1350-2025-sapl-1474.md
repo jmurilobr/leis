@@ -1,0 +1,909 @@
+---
+titulo: "04 - Lei Ordinária nº 1.350, de 19 de setembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "1350"
+data: "2025-09-19"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1474"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1493/text"
+sha256_fonte: "3b92033dbe3653044c247155bd44f33fe1258b00deb93092555f71b902ac5f32"
+sha256_texto: "952625e783701b389d1f28249d4f867e40184091f442f1e796269076edbae807"
+capturado_em_fonte: "2026-10-28T03:25:05.381636-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 1.350, de 19 de setembro de 2025
+
+Institui a Política Municipal de Incentivos Fiscais e Econômicos para empresas e o Programa de Incentivo ao Desenvolvimento Econômico (PODE) de Corbélia, reestrutura o CODIC - Conselho de Desenvolvimento Industrial, Comercial e de Serviços de Corbélia e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+LEI
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Institui o PODE - Programa de Incentivo e Desenvolvimento Econômico com o objetivo de fomentar a expansão de empreendimentos já existentes, promover a atração de outros para o Município, bem como gerar novos empregos, renda e sustentabilidade.
+
+
+Art. 2º.
+
+A empresa interessada nos incentivos desta lei deverá apresentar requerimento a Secretaria municipal de Desenvolvimento Econômico, denominado Carta de Intenções, conforme modelo a ser estabelecido em decreto.
+
+
+Art. 3º.
+
+A decisão administrativa sobre os incentivos atenderá aos princípios da razoabilidade e proporcionalidade, diante dos seguintes fatores de desenvolvimento da atividade empresarial:
+
+
+I –
+
+incremento do valor adicionado para fins de retorno de Impostos que formam o IBS - Imposto sobre Bens e Serviços, para atividades industriais e comerciais;
+
+
+II –
+
+faturamento, para atividades de prestação de serviços;
+
+
+III –
+
+geração de novos postos de trabalho;
+
+
+IV –
+
+investimento em sede própria, tecnologia ou equipamentos;
+
+
+V –
+
+utilização de matéria-prima produzida no Município;
+
+
+VI –
+
+turismo local;
+
+
+VII –
+
+educação, tecnologia ou pesquisa.
+
+
+Art. 4º.
+
+São requisitos gerais para a obtenção dos incentivos:
+
+
+I –
+
+faturar, no Município de Corbélia, toda a produção, comercialização ou prestação de serviços de sua unidade instalada ou ampliada;
+
+
+II –
+
+registrar obrigatoriamente, no Município de Corbélia, toda sua frota de veículos utilizados na unidade beneficiada;
+
+
+III –
+
+conferir e manter, ininterruptamente, no mínimo, 2/3 (dois terços) dos empregos formais estabelecidos nas metas propostas pela empresa, a trabalhadores residentes no Município, a partir do início de suas atividades, exceto se comprovada a impossibilidade absoluta de recrutamento de mão de obra local;
+
+
+IV –
+
+identificar com placa o empreendimento incentivado pelo Município, conforme modelo elaborado pela Secretaria Municipal de Desenvolvimento Econômico.
+
+
+§ 1º
+
+Para os incentivos previstos nos incisos I ao V do art. 10, deverá a empresa beneficiária:
+
+
+I –
+
+iniciar as obras de implantação ou ampliação da unidade industrial, comercial ou de serviços no prazo de 4 (quatro) meses, contados da data da aprovação do incentivo pelo Poder Executivo;
+
+
+II –
+
+iniciar as atividades econômicas instaladas ou ampliadas no prazo de 18 (dezoito) meses, contados da data da aprovação do incentivo pelo Poder Executivo;
+
+
+III –
+
+operar em pleno funcionamento de suas atividades no prazo de 24 (vinte e quatro) meses, contados da data da aprovação do incentivo pelo Poder Executivo.
+
+
+§ 2º
+
+operar em pleno funcionamento de suas atividades no prazo de 24 (vinte e quatro) meses, contados da data da aprovação do incentivo pelo Poder Executivo.
+
+
+§ 3º
+
+Os prazos e metas estabelecidos poderão ser ajustados mediante deliberação do Conselho de Desenvolvimento Industrial, Comercial e de Serviços de Corbélia (CODIC).
+
+
+#### CAPÍTULO II
+
+DO CONSELHO MUNICIPAL DE DESENVOLVIMENTO INDUSTRIAL, COMERCIAL E DE SERVIÇOS DE CORBÉLIA.
+
+
+Art. 5º.
+
+Fica reconstituído o CODIC - Conselho de Desenvolvimento Industrial, Comercial e de Serviços de Corbélia, que passa a ser composto por 9 membros conforme segue:
+
+
+I –
+
+são membros Natos do Conselho:
+
+
+a)
+
+o Secretário Municipal de Desenvolvimento Econômico.
+
+
+b)
+
+o Diretor de Industria e Comercio.
+
+
+c)
+
+o Secretário Municipal de Planejamento.
+
+
+d)
+
+o Secretário Municipal de Finanças.
+
+
+II –
+
+3 (três) membros indicados pela ACICORB - Associação Comercial e Industrial de Corbélia;
+
+
+III –
+
+2 (dois) membros indicados pela Câmara Municipal de Vereadores.
+
+
+Parágrafo único
+
+O mandato dos membros a que se refere o parágrafo antecedente será de 2 (dois) anos, admitida uma recondução pelo mesmo período.
+
+
+Art. 6º.
+
+Compete ao Conselho de Desenvolvimento Industrial, Comercial e de Serviços de Corbélia (CODIC), além de outras atribuições previstas em lei ou em regulamento, a missão institucional de concessão responsável de incentivos fiscais e econômicos aos empreendedores que investirem em nosso Município, e a fiscalização permanente dos incentivos instituídos por essa lei, bem como:
+
+
+I –
+
+remeter ao Poder Executivo proposta de decreto relativa à sua organização e funcionamento;
+
+
+II –
+
+deliberar sobre a viabilidade dos processos de solicitação de incentivos;
+
+
+III –
+
+emitir as respectivas resoluções resultantes da deliberação referida no inciso anterior;
+
+
+IV –
+
+controlar a correta aplicação dos recursos públicos e a devida prestação de contas dos incentivos concedidos;
+
+
+V –
+
+fazer cumprir as penalidades previstas nesta lei;
+
+
+VI –
+
+definir, por meio de resolução, as áreas e atividades adequadas ou a serem priorizadas para instalação dos empreendimentos e concessão dos incentivos previstos nesta lei, fundamentadamente.
+
+
+§ 1º
+
+Salvo disposição legal, o CODIC externará suas opiniões e orientações técnicas, deliberações e decisões por meio de resoluções.
+
+
+§ 2º
+
+Todos os atos administrativos do CODIC, em especial aqueles dotados de conteúdo decisório e os de ampla orientação, serão, sob pena de nulidade, fundamentados.
+
+
+§ 3º
+
+O CODIC poderá se valer de estudos técnicos e de assessorias externas, para auxiliar na tomada de decisões.
+
+
+Art. 7º.
+
+O Poder Executivo, mediante solicitação por escrito, poderá dispor ao CODIC, eventual e casuisticamente, sempre por prazo determinado, servidores públicos efetivos, para o cumprimento das missões institucionais do Conselho, desde que não implique prejuízo à atividade administrativa do Município ou aos serviços públicos prestados.
+
+
+Art. 8º.
+
+Os membros do CODIC exercerão suas funções sem qualquer tipo de contraprestação ou indenização pecuniária, por se tratar de relevante serviço a comunidade.
+
+
+#### CAPÍTULO III — DO PROGRAMA DE INCENTIVO AO DESENVOLVIMENTO ECONÔMICO
+
+
+##### Seção I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 9º.
+
+Institui-se o Programa de Incentivos ao Desenvolvimento Econômico (PODE), com o objetivo de fornecer incentivos econômicos e fiscais a empreendimentos novos ou já instalados, e que estejam expandindo, no Município.
+
+
+Parágrafo único
+
+único. Consideram-se, para os fins desse capítulo, novos empreendimentos aqueles instalados ou que buscam se instalar no Município após a data de entrada em vigor desta lei.
+
+
+Art. 10.
+
+O Poder Executivo, em atenção aos objetivos do art. 1º, poderá conceder, isolada ou cumulativamente, os seguintes incentivos:
+
+
+I –
+
+doação de bens imóveis, na forma das normas de licitações e contratos da Administração Pública;
+
+
+II –
+
+subvenções econômicas;
+
+
+III –
+
+descontos e isenções de tributos municipais;
+
+
+IV –
+
+apoio à execução de infraestrutura;
+
+
+V –
+
+concessão de direito real de uso de prédios públicos e subvenção para locação de imóveis;
+
+
+VI –
+
+desconto em aluguéis de próprios municipais.
+
+
+§ 1º
+
+Constitui requisito geral para a habilitação e deferimento dos incentivos desta lei, a comprovação, pelo interessado, de sua regularidade fiscal e trabalhista, bem como a prova de não ser devedor do Erário Municipal a qualquer título.
+
+
+§ 2º
+
+O beneficiário deverá manter as condições do § 1º durante o período de gozo do incentivo, renovando as comprovações anualmente.
+
+
+§ 3º
+
+A perda superveniente da regularidade fiscal e trabalhista, a constituição de débito frente ao Erário Municipal e o desatendimento ao § 2º suspenderão o incentivo até sua regularização.
+
+
+§ 4º
+
+Não regularizada a situação em até 90 (noventa) dias, contados da data da intimação pelo Município, será cassado o incentivo, sem prejuízo de persecução judicial reparatória e de responsabilização administrativa.
+
+
+§ 5º
+
+Ninguém poderá ser beneficiado com mais de 2 (dois) incentivos previstos nos incisos do caput.
+
+
+§ 6º
+
+Os incentivos não se aplicam aos casos de regularizações.
+
+
+##### Seção II — DA DOAÇÃO DE BENS IMÓVEIS
+
+
+Art. 11.
+
+A doação de bens imóveis dar-se-á, necessariamente, na forma das normas de licitações e contratos da Administração Pública e será precedida de contrato de promessa de doação com prazo de 10 (dez) anos, contados da data da aprovação do incentivo pelo Poder Executivo, sem prejuízo do cumprimento e manutenção das obrigações do § 1º do art. 4º.
+
+
+Art. 12.
+
+São obrigações necessárias dos editais de licitação, minutas contratuais e dos consequentes instrumentos definitivos:
+
+
+I –
+
+utilização de, no mínimo, 60% (sessenta por cento) da área total do imóvel como área útil para o desenvolvimento da atividade econômica, assim compreendidos os espaços destinados a:
+
+
+a)
+
+instalações administrativas e operacionais e seus acessórios;
+
+
+b)
+
+manobras e estacionamento de veículos e equipamentos;
+
+
+c)
+
+carregamento, descarregamento, armazenamento ou estocagem de produtos, insumos, produção, entre outros;
+
+
+d)
+
+outras atividades diretamente ligadas ao escopo do empreendimento, a serem definidas pelo CODIC.
+
+
+II –
+
+apresentação, até o último dia útil do mês de março, relativamente ao exercício anterior, de relatório de desempenho empresarial ao CODIC, com o escopo de acompanhar o cumprimento das metas;
+
+
+III –
+
+cumprir, nos prazos estabelecidos, as metas de faturamento, geração de empregos, cronograma de operacionalização e outras porventura estipuladas no contrato de promessa de doação;
+
+
+IV –
+
+informar, por escrito, ao CODIC, qualquer alteração em seu contrato ou estatuto social ou atividade econômica, bem como interrupção, suspensão ou encerramento desta.
+
+
+§ 1º
+
+O inadimplemento de quaisquer das obrigações implica rescisão unilateral pelo Município do contrato de promessa de doação, no âmbito do respectivo procedimento licitatório, garantido o contraditório e ampla defesa.
+
+
+§ 2º
+
+Ainda que as obrigações estabelecidas no contrato de promessa de doação sejam adimplidas antes do decurso do prazo a que se refere o caput do art. 11, não haverá resolução obrigacional antecipada, devendo o beneficiário apresentar os relatórios aludidos no inciso II do caput e manter o cumprimento dos demais encargos e obrigações.
+
+
+Art. 13.
+
+É clausula necessária do contrato de promessa de doação aquela assecuratória de reversão total ou parcial do imóvel na hipótese de inadimplência do donatário.
+
+
+Parágrafo único
+
+O inadimplemento ocorrido durante o prazo a que se refere o caput do art. 11, mesmo que constatado posteriormente ao seu decurso, inclusive após à efetivação da doação, implica revogação desta, respeitado o prazo da lei civil, e reversão do imóvel ao patrimônio do Município, sem direito à eventual indenização pelas benfeitorias realizadas.
+
+
+Art. 14.
+
+Veda-se ao donatário, sob pena de reversão, durante a vigência do contrato de promessa de doação:
+
+
+I –
+
+vender, locar, emprestar, permutar, ceder ou alienar o domínio a terceiro por qualquer espécie que seja, gratuita ou onerosamente, de forma integral o imóvel prometido;
+
+
+II –
+
+utilizar o imóvel para finalidade diversa daquelas autorizadas no contrato de promessa de doação.
+
+
+Art. 15.
+
+Transcorrido o prazo a que se refere o caput do art. 11, o CODIC inspecionará o empreendimento e analisará o cumprimento de todas as obrigações, requisitos e condicionantes legais e contratuais, no prazo de 90 (noventa) dias, a contar do transcurso, com objetivo de avaliar seu adimplemento e manutenção.
+
+
+§ 1º
+
+Concluindo-se pelo adimplemento integral, o CODIC proferirá parecer pela outorga da escritura pública de doação.
+
+
+§ 2º
+
+Concluindo-se pelo adimplemento parcial, o CODIC proferirá parecer pela impossibilidade da outorga da escritura pública de doação, especificando detalhada e fundamentadamente o objeto inadimplido, bem como esclarecerá conclusivamente sobre a possibilidade de purgação da mora, no prazo assinalado pelo Conselho.
+
+
+§ 3º
+
+Sendo absolutamente impossível a neutralização dos efeitos do retardamento ou, sendo possível, entretanto ignorada pelo inadimplente, operar-se-á a reversão, aplicando-se, no que couber, o parágrafo único do art. 13.
+
+
+§ 4º
+
+Não se proferirá parecer jurídico na hipótese de conclusão pelo adimplemento integral.
+
+
+Art. 16.
+
+Autoriza-se o Poder Executivo a conceder incentivo às empresas que realizarem investimentos consistentes na instalação ou ampliação de empreendimento no Município, através de subvenção econômica.
+
+
+Art. 17.
+
+A subvenção econômica compreenderá a apoio a investimentos efetivamente realizados e comprovados que promoverem o desenvolvimento econômico e social do Município, bem como fortalecerem a arrecadação de tributos.
+
+
+Parágrafo único
+
+São passíveis de enquadramento para os fins do caput as seguintes espécies de apoio a investimentos:
+
+
+I –
+
+subvenção para aquisição de imóvel não edificado, urbano ou rural;
+
+
+II –
+
+aquisição de máquinas e equipamentos;
+
+
+III –
+
+aquisição de máquinas e equipamentos;
+
+
+IV –
+
+pesquisa e desenvolvimento de produtos e processos produtivos industriais, inclusive os tecnológicos;
+
+
+V –
+
+aquisição de salas, pavilhões, galpões, prédios ou congêneres;
+
+
+VI –
+
+realização de feiras, conferências e outros eventos de marketing ou de integração ou troca de conhecimentos e expertises;
+
+
+VII –
+
+outros investimentos que promoverem o desenvolvimento econômico e social do Município.
+
+
+Art. 18.
+
+A subvenção econômica limitar-se-á pelos seguintes parâmetros, cumulativamente:
+
+
+I –
+
+parecer técnico conclusivo do CODIC, justificando a concessão da subvenção;
+
+
+II –
+
+disponibilidade financeira e orçamentaria atestada pela secretaria de finanças.
+
+
+##### Seção III — DO DESCONTO OU ISENÇÃO DE TRIBUTOS MUNICIPAIS
+
+
+Art. 19.
+
+Autoriza-se o Poder Executivo a conceder isenções de tributos municipais, na forma da legislação tributária, às empresas que realizarem investimentos consistentes na instalação ou ampliação de empreendimento no Município para as seguintes exações e de acordo com os seguintes parâmetros:
+
+
+I –
+
+Imposto Sobre a Transmissão Inter Vivos de Bens Imóveis e de direitos reais a eles relativos (ITBI), até o 100% (cem por cento) de seu valor original, diretamente ligados a operações imobiliárias realizadas pela pessoa jurídica e estritamente vinculadas aos investimentos a que se refere o caput;
+
+
+II –
+
+taxas municipais decorrentes do exercício regular do poder de polícia, até o 100% (cem por cento) de seu valor original, desde que estritamente vinculadas aos investimentos a que se refere o caput.
+
+
+§ 1º
+
+Não será objeto de concessão de isenção as multas decorrentes do poder de polícia.
+
+
+§ 2º
+
+É condição necessária para a concessão dos incentivos de que trata este artigo a ampliação da base de cálculo de outra exação, como medida compensatória, na forma da legislação de responsabilidade na gestão fiscal.
+
+
+§ 3º
+
+a concessão dos incentivos de que trata o inciso II do caput, terá duração de desconto ou isenção definida pelo CODIC, não podendo ser superior a 5 anos.
+
+
+##### Seção IV — DO APOIO À EXECUÇÃO DE INFRAESTRUTURA
+
+
+Art. 20.
+
+Autoriza-se o Poder Executivo, em regime direto e via terceirização, a apoiar a execução de infraestrutura às empresas que realizarem investimentos consistentes na instalação ou ampliação de empreendimento no Município através de:
+
+
+I –
+
+aterragem e terraplanagem;
+
+
+II –
+
+projetos de arquitetura e engenharia;
+
+
+III –
+
+obras de engenharia civil.
+
+
+§ 1º
+
+Considera-se execução em regime direito aquela feita pelos órgãos da Administração Pública, pelos próprios meios.
+
+
+§ 2º
+
+As espécies de apoio ficam condicionais às disponibilidades de pessoal dos respectivos órgãos executores, quando na modalidade de regime direto, e disponibilidade orçamentaria.
+
+
+Art. 21.
+
+O interessado no apoio à execução de infraestrutura poderá solicitar uma ou mais espécies, mediante requerimento, desde que comprove documentalmente a impossibilidade de executar a infraestrutura por meios próprios.
+
+
+§ 1º
+
+A simples alegação de insuficiência de recursos financeiros para executar a infraestrutura por meios próprios será inadmitida como causa de pedir.
+
+
+§ 2º
+
+Havendo potencial prejuízo ao andamento da atividade administrativa ou dos serviços públicos ou configurada a impossibilidade de execução por terceirização, o requerimento será indeferido, fundamentadamente.
+
+
+§ 3º
+
+Não representa violação ao parágrafo antecedente o deferimento do benefício cuja eficácia seja subordinada a termo indeterminado, para conservar o andamento da atividade administrativa ou dos serviços públicos e compatibilizar o pleito do interessado.
+
+
+§ 4º
+
+A decisão que indeferir o pedido é irrecorrível e não comporta pedido de reconsideração, ressalvada, contudo, a revisão de ofício quando constatado erro da Administração.
+
+
+§ 5º
+
+A decisão que deferir o pedido mensurará os custos envolvidos e disporá sobre a disponibilidade orçamentário financeira.
+
+
+##### Seção V — DA CONCESSÃO DE DIREITO REAL DE USO DE PRÉDIOS PÚBLICOS E DA SUBVENÇÃO PARA LOCAÇÃO DE IMÓVEIS
+
+
+Art. 22.
+
+O Poder Executivo poderá fazer a concessão de direito real de uso dos prédios públicos, a empresas que realizarem investimentos consistentes na instalação ou ampliação de empreendimento no Município, conferindo descontos sobre o valor avaliado para aluguel do imóvel, mediante a comprovação permanente de vínculos empregatícios conforme segue:
+
+
+I –
+
+20% (vinte por cento) de desconto sobre o valor da avaliação do aluguel para empresas que possuam no mínimo 10 (dez) até 19 (dezenove) funcionários;
+
+
+II –
+
+30% (trinta por cento) de desconto sobre o valor da avaliação do aluguel para empresas que possuam no mínimo 20 (vinte) até 29 (vinte e nove) funcionários;
+
+
+III –
+
+40% (quarenta por cento) de desconto sobre o valor da avaliação do aluguel para empresas que possuam no mínimo 30 (trinta) até 39 (trinta e nove) funcionários;
+
+
+IV –
+
+50% (cinquenta por cento) de desconto sobre o valor da avaliação do aluguel para empresas que possuam no mínimo 40 (quarenta) até 49 (quarenta e nove) funcionários;
+
+
+V –
+
+60% (sessenta por cento) de desconto sobre o valor da avaliação do aluguel para empresas que possuam no mínimo 50 (cinquenta) até 59 (cinquenta e nove) funcionários;
+
+
+VI –
+
+70% (setenta por cento) de desconto sobre o valor da avaliação do aluguel para empresas que possuam acima de 60 (sessenta) funcionários.
+
+
+Parágrafo único
+
+A concessão de direito real de uso se dará por prazo de 10 anos podendo ser renovado por igual período. Após esse prazo, deverá ser realizado novo processo de concessão.
+
+
+Art. 23.
+
+A concessão de prédios públicos não poderá implicar prejuízo ao andamento da atividade administrativa ou aos serviços públicos titularizados pelo Município ou recair sobre imóvel de propriedade de outra pessoa jurídica de direito público em posse do Município.
+
+
+§ 1º
+
+Dar-se-á a concessão por meio de contrato conferido em caráter precário e por tempo determinado, precedido de processo licitatório.
+
+
+§ 2º
+
+O imóvel concedido, enquanto não revertido, será tributado na forma da lei.
+
+
+Art. 24.
+
+A subvenção para locação de imóveis de terceiros não poderá ter duração superior a 12 (doze) meses, contados do dia seguinte ao do deferimento do incentivo, e será conferida àquele que comprovar mensalmente a manutenção de vínculos empregatícios, e seu valor seguirá a seguinte gradação:
+
+
+I –
+
+subvenção de R$ 800,00 (oitocentos reais) para empresas que possuam no mínimo 5 (cinco) funcionários;
+
+
+II –
+
+subvenção de R$ 2.000,00 (dois mil reais) para empresas que possuam no mínimo 10 (dez) até 19 (dezenove) funcionários;
+
+
+III –
+
+subvenção de R$ 4.000,00 (quatro mil reais) para empresas que possuam no mínimo 20 (vinte) até 29 (vinte e nove) funcionários;
+
+
+IV –
+
+subvenção de R$ 6.000,00 (seis mil reais) para empresas que possuam no mínimo 30 (trinta) até 39 (trinta e nove) funcionários;
+
+
+V –
+
+subvenção de R$ 8.000,00 (oito mil reais) para empresas que possuam no mínimo 40 (quarenta) até 49 (quarenta e nove) funcionários;
+
+
+VI –
+
+subvenção de R$ 10.000,00 (dez mil reais) para empresas que possuam acima de 50 funcionários.
+
+
+§ 1º
+
+O valor da subvenção não poderá ultrapassar o custo mensal e anual da locação contratada pelo beneficiário.
+
+
+§ 2º
+
+Rescindida ou finda a locação, qualquer que seja sua causa, ou sublocado o imóvel subvencionado, extinguir-se-á automaticamente o incentivo.
+
+
+§ 3º
+
+A subvenção não alcançará a parte do contrato de locação que ultrapassar a duração estabelecida no caput.
+
+
+§ 4º
+
+O Município não se responsabiliza por eventuais prejuízos causados ao imóvel locado ou a terceiros, nem com despesas de consumo de água ou energia elétrica, contratação de serviços de telefonia ou internet, incidência de impostos ou taxas e aquelas derivadas de manutenção.
+
+
+Art. 25.
+
+A subvenção para locação de imóveis poderá, pelo prazo máximo de 6 (seis) meses, ser deferida, excepcionalmente, sem prejuízo da pertinente prestação de contas, aos empreendimentos instalados no Município que venham a sofrer, comprovadamente, danos materiais, decorrentes de fenômenos da natureza, em sua estrutura predial e que os impeça de exercer suas atividades, a fim de permitir a retomada imediata de suas atividades e manutenção dos empregos.
+
+
+Parágrafo único
+
+O deferimento da subvenção a que se refere este artigo não será contabilizado para os fins do parágrafo único do art. 23, imperando, contudo, carência mínima de 12 (doze) meses entre o término de uma e a concessão de outra.
+
+
+#### CAPÍTULO IV — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 26.
+
+Os incentivos previstos nesta lei correrão à conta de dotações orçamentárias próprias e serão acompanhados de estimativa do impacto orçamentário-financeiro de acordo com as normas de Direito Financeiro.
+
+
+Art. 27.
+
+Perderá o incentivo, sem prejuízo de responsabilização, o beneficiário que:
+
+
+I –
+
+sem prévia justificativa ofertada ao CODIC:
+
+
+a)
+
+paralisar suas atividades por mais de 30 (trinta) dias;
+
+
+b)
+
+alterar o projeto original.
+
+
+II –
+
+alterar o projeto original.
+
+
+III –
+
+incorrer em fraude para obter ou manter o incentivo.
+
+
+§ 1º
+
+As hipóteses descritas nos incisos II e III do caput, além de comunicação ao Ministério Público, incompatibilizam o infrator para nova percepção pelo prazo de 5 (cinco) anos e, quando for o caso, impõem a devolução do montante Tre destinado ou fraudado.
+
+
+§ 2º
+
+A devolução ou adimplemento extrajudicial ou judicial do montante Tre destinado, bem como eventuais custas, despesas, emolumentos e honorários, constituirá requisito para nova percepção.
+
+
+§ 3º
+
+Não será computado, para o prazo a que se refere a alínea “a” do inciso I do caput, o tempo de paralisação proveniente de fato do príncipe, fato da Administração, caso fortuito ou força maior, inclusive o decorrente de restrições da atividade econômica no âmbito de calamidade pública.
+
+
+Art. 28.
+
+A cassação ou qualquer outra forma de extinção de incentivo por culpa do beneficiário não constituirá qualquer direito à indenização ao particular.
+
+
+Art. 29.
+
+A Carta de Intenções descrita no art. 2º, deverá ser acompanhada necessariamente, dos seguintes documentos, sem prejuízo de outros requisitos estabelecidos nesta lei:
+
+
+I –
+
+contrato ou estatuto social ou equivalente;
+
+
+II –
+
+comprovação de inscrição e regularidade no Cadastro Nacional de Pessoa Jurídica (CNPJ);
+
+
+III –
+
+certidão negativa ou positiva com efeitos negativos de débitos perante as Fazendas Públicas federal, estadual e municipal;
+
+
+IV –
+
+documento de identidade de todos os sócios e responsáveis;
+
+
+V –
+
+prova de regularidade atinente ao Fundo de Garantia por Tempo de Serviço (FGTS), demonstrando situação regular no cumprimento dos encargos sociais instituídos por lei;
+
+
+VI –
+
+prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, mediante a apresentação de certidão negativa, nos termos da lei;
+
+
+VII –
+
+projeto de construção e cronograma de execução das obras, se for o caso;
+
+
+VIII –
+
+projeção de faturamento e geração de empregos referente aos 10 (dez) anos seguintes, para o caso de concessão de direito real de uso;
+
+
+IX –
+
+cópia do contrato de locação e recibos de pagamento, se for o caso;
+
+
+X –
+
+últimos 3 (três) balanços patrimoniais, quando houver;
+
+
+XI –
+
+indicação de conta bancária de titularidade do requerente para crédito do incentivo, se for o caso.
+
+
+Parágrafo único
+
+Tratando-se de constituição de nova pessoa jurídica, dispensar-se-á o documento previsto no inciso X do caput.
+
+
+Art. 30.
+
+Veda-se a advocacia administrativa ou qualquer outra forma de violação à impessoalidade ou isonomia na execução desta lei.
+
+
+Art. 31.
+
+Aplicam-se, no que couber, as regras de desconsideração da personalidade jurídica, inclusive inversa, no caso de abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial, tendente a fraudar esta lei.
+
+
+§ 1º
+
+A personalidade jurídica também poderá ser desconsiderada sempre que utilizada com abuso do direito para facilitar, encobrir ou dissimular a prática dos atos ilícitos, sendo estendidos todos os efeitos das sanções aplicadas à pessoa jurídica aos seus administradores e sócios com poderes de administração.
+
+
+§ 2º
+
+O incidente será processado administrativamente, sem suspensão de eventual incentivo já conferido, garantido o contraditório e ampla defesa.
+
+
+§ 3º
+
+A Procuradoria-Geral do Município é o órgão designado para apuração da responsabilidade de pessoa jurídica, e, após a conclusão do procedimento administrativo, dará conhecimento de sua existência ao Ministério Público, para apuração de eventuais delitos e para eventual persecução judicial reparatória.
+
+
+§ 4º
+
+Aplicam-se as disposições deste artigo ao atendimento da vedação a que se refere o § 5º do art. 10.
+
+
+Art. 32.
+
+O Poder Executivo regulamentará, por meio de decreto, as disposições desta lei, em especial o procedimento administrativo de requerimento e fiscalização dos incentivos.
+
+
+Art. 33.
+
+As decisões proferidas com base nesta lei são irrecorríveis e não comportam pedido de reconsideração, ressalvada, contudo, a revisão de ofício quando constatado erro da Administração.
+
+
+Art. 34.
+
+Revoga-se as Leis Municipal nº 722, de 21 de julho de 2010 e 1.125 de 04 de maio de 2021.
+
+
+Art. 35.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná  
+Em 19 de setembro de 2025, 65º da Emancipação Política.
+
+Thiago Daross Stefanello  
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 2375 de 19/09/2025, pág. 23-38.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1474/ta
+

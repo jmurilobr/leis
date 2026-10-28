@@ -1,0 +1,30 @@
+from pathlib import Path
+import json,gzip,hashlib,subprocess,sys,os,ast,datetime
+sys.path.insert(0,'scripts');from auditar_cache_dou import meta_corpo;from auditar import validar
+sha=lambda b:hashlib.sha256(b).hexdigest();b=Path('reguladores/_fonte/auditorias/confaz-piloto-final-20261027');mp=b/'manifesto.json';assert sha(mp.read_bytes())=='a1dd1730d1f432f877544a1f89f821593092df16d55be99fdc90b2bb3d045b6c';h={str(mp):sha(mp.read_bytes())};refp=Path('reguladores/_fonte/auditorias/confaz-piloto-codigo-referencia-20261027/referencia.json');ref=json.loads(refp.read_bytes());snapshot=Path(ref['snapshot']);assert sha(snapshot.read_bytes())==ref['sha256_snapshot'];assert subprocess.check_output(['git','show',ref['commit']+':scripts/auditar_cache_dou.py'])==snapshot.read_bytes()
+def func(raw):return ast.dump(next(n for n in ast.parse(raw).body if isinstance(n,ast.FunctionDef) and n.name=='meta_corpo'),include_attributes=False)
+assert func(snapshot.read_bytes())==func(Path('scripts/auditar_cache_dou.py').read_bytes())
+for r in json.loads(mp.read_bytes())['arquivos']:
+ p,s=r['arquivo'],r['sha256']
+ if p=='scripts/auditar_cache_dou.py':assert s==ref['sha256_snapshot'];continue
+ assert sha(Path(p).read_bytes())==s,p;h[p]=s
+for p in [refp,snapshot,b/'TESTAR.txt',b/'runtime.json',b/'resumo-piloto.json',b/'identidades-formais.json',b/'controle-historico-negativo.json']:
+ h[str(p)]=sha(p.read_bytes())
+headproof=Path('reguladores/_fonte/auditorias/confaz-head-root-v2-20261027/confronto-head.json');hd=json.loads(headproof.read_bytes());assert hd['sem_alias']==6 and hd['aliases']==hd['retidos']==0
+# Somente commits sem normas reguladoras podem ter sucedido ao confronto.
+assert not subprocess.check_output(['git','diff','--name-only',hd['commit'],'HEAD','--','reguladores/confaz'])
+q=Path('reguladores/_fonte/auditorias/confaz-replay-root-20261027');res=json.loads((q/'resumo.json').read_bytes());assert len(res['resultados'])==6 and all(x['estado']!='retido' and all(x['prova'].values()) for x in res['resultados'])
+for p in [headproof,*q.rglob('*')]:
+ if p.is_file():h[str(p)]=sha(p.read_bytes())
+rows=json.loads(Path('reguladores/_fonte/auditorias/confaz-piloto-candidatos-v2-20261027/mapa-candidatos.json').read_bytes())['resultados'];assert len(rows)==6;seen=set();head=subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip()
+for r in rows:
+ p=Path(r['path_canonico_proposto']);raw=Path(r['candidato']).read_bytes();assert sha(raw)==r['sha256_md'];z=Path(r['candidato_gzip']).read_bytes();assert sha(z)==r['sha256_gzip'] and gzip.decompress(z)==raw;assert not p.exists() and str(p) not in seen;seen.add(str(p));assert subprocess.check_output(['git','cat-file','--batch-check'],input=(head+':'+str(p)+'\n').encode()).endswith(b' missing\n');m,body=meta_corpo(raw.decode());assert m==r['metadata'] and m['revogada'] is None;assert sha(Path(r['fonte']['arquivo']).read_bytes())==m['sha256_html_fonte'];fragment=(q/str(r['numero'])/'representacao.html').read_bytes();assert body=='# '+m['titulo']+'\n\n'+fragment.decode()+'\n';assert not any(validar(raw.decode(),str(p),datetime.date(2026,10,27)))
+ assert (m['tipo'],int(m['numero']),int(m['data'][:4]))==('Convênio ICMS',r['numero'],r['ano'])
+print('Seis candidatos, fontes/CSS, replay ROOT e confronto de aliases qualificados; helper histórico preservado e meta_corpo AST idêntica. Nenhuma escrita.',flush=True)
+if '--apply' not in sys.argv:raise SystemExit(0)
+assert subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip()==head
+for r in rows:
+ p=Path(r['path_canonico_proposto']);raw=Path(r['candidato']).read_bytes();assert not p.exists() and sha(raw)==r['sha256_md'];p.parent.mkdir(parents=True,exist_ok=True);t=p.with_name('.'+p.name+'.confaz-root.tmp');assert not t.exists()
+ with t.open('xb') as f:f.write(raw);f.flush();os.fsync(f.fileno())
+ os.replace(t,p);assert sha(p.read_bytes())==r['sha256_md'];h[str(p)]=r['sha256_md']
+p=Path('scripts/dados/confaz6-integracao-root-20261027.json');assert not p.exists();p.write_text(json.dumps({'HEAD':head,'novas':6,'criterio':'ROOT repetiu oito testes, replay integral de representação/CSS e confronto atual de aliases por identidade formal e blobs completos. Texto e notas da edição capturada no portal CONFAZ; não se afirma equivalência editorial ao DOU nem vigência calculada. O 121 termina na cláusula segunda sem fecho nominal na fonte, preservado literalmente sem inventar assinantes; os demais conservam seus fechos. Condições de ratificação e efeitos mantidas. Controle histórico 35/25 permanece retido. Cópia do helper consumido pelo recibo antigo recuperada do commit original, com meta_corpo AST idêntica ao helper atual. Nenhum recibo congelado reescrito; metas e pendências inalteradas.','referencia_helper':ref,'sha256':h},ensure_ascii=False,indent=2)+'\n');h[str(p)]=sha(p.read_bytes());Path('_fonte/operacao_root_20261027/confaz6-hashes.json').write_text(json.dumps(h,ensure_ascii=False,indent=2)+'\n');print('Seis promovidos atomicamente',flush=True)

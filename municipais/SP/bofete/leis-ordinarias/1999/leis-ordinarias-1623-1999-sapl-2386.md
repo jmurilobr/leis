@@ -1,0 +1,218 @@
+---
+titulo: "Lei Ordinária nº 1.623, de 30 de novembro de 1999"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1623"
+data: "1999-11-30"
+municipio: "Bofete"
+uf: "SP"
+codigo_ibge: "3506904"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bofete.sp.leg.br/norma/2386"
+fonte_texto: "https://sapl.bofete.sp.leg.br/ta/122/text"
+sha256_fonte: "0bb49b3e4160289e705d747093762c8a1b89e88575fc692d4fb7461a9ab981ca"
+sha256_texto: "ae6cf99cb4a19a86d459126991bb43e1177d75a09880f33a7463e1f7c71671ef"
+capturado_em_fonte: "2026-10-27T19:22:25.524114-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.623, de 30 de novembro de 1999
+
+INSTITUI O PCM - PROGRAMA COMUNITÁRIO DE MELHORAMENTOS.
+
+
+O Prefeito Municipal de Bofete, usando de suas atribuições legais, faz saber que a Câmara Municipal de Bofete aprovou e ele sanciona e promulga a seguinte Lei.
+
+
+Art. 1º.
+
+Fica instituído o PCM - Programa Comunitário de Melhoramentos, que obedecerá ao disposto nesta Lei.
+
+
+**FINALIDADE**
+
+
+Art. 2º.
+
+O PCM - Programa Comunitário de Melhoramentos compreenderá a execução de pavimentação, guias e sarjetas, recapeamento, extensão de rede de água e esgoto, galerias de águas pluviais e outras, e será acionado por iniciativa própria da Administração ou quando solicitado pelos proprietários de imóveis localizados nas vias de logradouros públicos onde se dará a atuação.
+
+
+**APROVAÇÃO**
+
+
+Art. 3º.
+
+Os melhoramentos solicitados serão aprovados quando forem do interesse e conveniência do Município.
+
+
+Art. 4º.
+
+No caso de pavimentação, será dada prioridade às vias e logradouros públicos já dotado de melhoramentos, como rede de água e esgoto e outros que, necessariamente, se assentem no subsolo.
+
+
+**CUSTO E RATEIO**
+
+
+Art. 5º.
+
+O custo do melhoramento será composto pelo valor de sua execução, acrescido das despesas com estudos, projetos, fiscalização, desapropriações, administração e financiamento, prêmios de reembolso e outras de praxe em financiamento ou empréstimo.
+
+
+Art. 6º.
+
+O custo do melhoramento será rateado entre os proprietários de imóveis alcançados por ele, proporcionalmente às testadas dos mesmos.
+
+
+Art. 7º.
+
+Os proprietários lindeiros que receberem diretamente o benefício responderão, no mínimo, por 50% (cinqüenta por cento) do custo do melhoramento.
+
+
+Parágrafo único
+
+Os proprietários poderão responder pela porcentagem restante em função do tipo, das características da irradiação dos efeitos e da localização da obra.
+
+
+Art. 8º.
+
+No caso de pavimentação, o custo do melhoramento, para os proprietários de imóveis de esquina, será calculado proporcionalmente às suas testadas, prolongando-se até o limite da bissetriz do ângulo da via pavimentada.
+
+
+**EXECUÇÃO**
+
+
+Art. 9º.
+
+O PCM - Programa Comunitário de Melhoramentos será dividido em etapas, fisicamente independentes, que poderão englobar uma ou mais ruas próximas. Cada etapa será uma obra e será denominada por um número.
+
+
+Art. 10.
+
+Os melhoramentos, a serem executados através do PCM - Programa Comunitário de Melhoramentos, serão executados de forma direta pela Prefeitura, ou indireta, obedecendo-se ao princípio da licitação para escolha da empresa a ser contratada.
+
+
+Art. 11.
+
+Antes do início da execução do melhoramento, os interessados serão convocados por edital, para examinarem o memorial descritivo, o projeto, o orçamento do custo do melhoramento, o plano do rateio e os valores correspondentes.
+
+
+Parágrafo único
+
+Após a publicação do edital, os interessados serão contatados pessoalmente para se aderirem ao PCM - Programa Comunitário de Melhoramentos, firmarem contratos de financiamento com a NOSSA CAIXA - NOSSO BANCO S/A.
+
+
+**PAGAMENTO PELOS MUNÍCIPES**
+
+
+Art. 12.
+
+O valor do melhoramento, atribuído a cada proprietário de imóvel beneficiado, poderá ser pago em uma só parcela ou financiado através da NOSSA CAIXA - NOSSO BANCO S/A, dentro das condições estabelecidas.
+
+
+Parágrafo único
+
+No caso de pagamento em uma parcela, o valor deverá ser recolhida junto à NOSSA CAIXA - NSSO BANCO S/A, em conta especial denominada Prefeitura Municipal, que será considerada depositária.
+
+
+Art. 13.
+
+A Prefeitura responderá pela parte do custo do melhoramento que não for assumida pelos proprietários beneficiados com o Programa.
+
+
+Parágrafo único
+
+Os valores correspondentes à responsabilidade tratada no "caput" deste artigo, serão exigidos pela Prefeitura, dos proprietários não aderentes ao Programa, a título de tributo.
+
+
+**VINCULAÇÃO E LIBERAÇÃO DOS RECURSOS**
+
+
+Art. 14.
+
+O valor total contratado, compreendendo os pagamentos em uma parcela e os financiados, será creditado pela NOSSA CAIXA - NOSSO BANCO S/A, em conta corrente, sem remuneração, em nome da Prefeitura Municipal, e vinculada a cada etapa do PCM - Programa Comunitário de Melhoramentos.
+
+
+Art. 15.
+
+O valor tratado no artigo anterior, será liberado pela NOSSA CAIXA - NOSSO BANCO S/A, para livre movimento da Prefeitura em etapas, nos valores e importâncias por ela definidos e comunicados à Prefeitura Municipal.
+
+
+§ 1º
+
+A liberação mencionada no "caput" deste artigo, será efetuada mediante correspondência da Prefeitura Municipal atestando que a obra encontra-se em estágio que comporta o pagamento parcial solicitado e aferição por parte dos Técnicos da NOSSA CAIXA - NOSSO BANCO S/A.
+
+
+§ 2º
+
+O saldo por ventura existente no final de cada etapa do PCM - Programa Comunitário de Melhoramentos, ingressará na Receita Municipal.
+
+
+**RESPONSABILIDADES**
+
+
+Art. 16.
+
+É de inteira responsabilidade da Prefeitura Municipal a contratação, execução, fiscalização, qualidade e pagamento da obra a ser executada através do PCM - Programa Comunitário de Melhoramentos.
+
+
+Art. 17.
+
+Fica a Prefeitura Municipal a comparecer como responsável, observados os limites de endividamento estabelecidos na legislação em vigor, pelos contratos que os proprietários firmarem junto a NOSSA CAIXA - NOSSO BANCO S/A.
+
+
+§ 1º
+
+A responsabilidade constante deste artigo prevalecerá somente após esgotadas todas as medidas de ordem administrativas para o recebimento das importâncias financiadas.
+
+
+§ 2º
+
+Fica a NOSSA CAIXA - NOSSO BANCO S/A autorizada a debitar de qualquer conta da Prefeitura Municipal ou das cotas do ICMS (Imposto sobre Circulação de Mercadorias e Serviços), a serem recebidas pelo Município, os valores decorrentes da responsabilidade tratada neste artigo.
+
+
+§ 3º
+
+Para possibilitar a execução do procedimento tratado no parágrafo anterior, as operações efetuadas dentro do Programa Comunitário de Melhoramentos ficam vinculadas ao Convênio firmado entre a NOSSA CAIXA - NOSSO BANCO S/A e o BANESPA - Banco do Estado de São Paulo S/A, publicado no Diário Oficial do Estado de São Paulo, em 27 de abril de 1984.
+
+
+§ 4º
+
+Para cobrança da dívida assumida pela Prefeitura Municipal, proveniente da responsabilidade constante deste artigo serão observadas as disposições da legislação em vigor.
+
+
+Art. 18.
+
+Fica a Prefeitura Municipal autorizada a contrair empréstimo junto a NOSSA CAIXA - NOSSO BANCO S/A, para o pagamento de qualquer importância por ela devida em razão do Plano ora implantado.
+
+
+**DIVULGAÇÃO**
+
+
+Art. 19.
+
+Toda divulgação promovida pelo Município deverá conter os seguintes dizeres:
+
+
+**- PREFEITURA MUNICIPAL DE BOFETE - PCM - PROGRAMA COMUNITÁRIO DE MELHORAMENTOS - AGENTE FINANCEIRO: NOSSA CAIXA - NOSSO BANCO S/A.**
+
+
+Art. 20.
+
+Esta Lei entrará em vigor na data de sua publicação revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Bofete, Gabinete do Prefeito em, 30 de Novembro de 1999.
+
+JOSÉ FRANCISCO VIEIRA
+
+Prefeito Municipal
+
+
+Registrada em livro próprio, afixada em local de costume, no prédio da Prefeitura Municipal e arquivada no Cartório de Registro Civil e Tabelionato de Bofete, data supra.
+
+Tadeu Aparecido Cordeiro  
+Escriturário II
+

@@ -21,7 +21,7 @@ from auditar import validar
 from baixar_dou import assinatura_do_ato, pendencia_integralidade
 from comum import normalizar_chave
 from html2md import convert
-from representacao_html_dou import representar_fragmento
+from representacao_html_dou_v2 import representar_fragmento
 from metadados_lotes import carregar as carregar_headers
 
 RAIZ = Path(__file__).resolve().parent.parent
@@ -44,11 +44,36 @@ def identidade(meta):
     return tuple(normalizar_chave(str(meta.get(k, ""))) for k in ("orgao", "tipo", "numero", "data"))
 
 
+def niveis_orgao(valor):
+    """Conserva nomes/ordem; só ignora espaços nas bordas do separador /."""
+    if not isinstance(valor, str):
+        return None
+    niveis = tuple(parte.strip() for parte in valor.split("/"))
+    return niveis if all(niveis) else None
+
+
 def campo_html(texto, classe):
     m = re.search(r'<span\b[^>]*class=["\']' + re.escape(classe) + r'["\'][^>]*>(.*?)</span>', texto, re.S)
     if not m:
         raise ValueError("campo HTML ausente: " + classe)
     return html.unescape(re.sub(r"<[^>]+>", "", m[1])).strip()
+
+
+def epigrafe_do_ato(source, fragmento, inicio_fragmento):
+    titulos = re.findall(r'<p\b[^>]*class=["\']identifica["\'][^>]*>(.*?)</p>', fragmento, re.S)
+    origem = "p.identifica no campo texto-dou"
+    if not titulos:
+        # O layout antigo publica a epígrafe imediatamente antes do campo.
+        # Só esse vínculo explícito autoriza usar o título externo; o título
+        # cadastrado ou a URL nunca substituem a epígrafe da própria fonte.
+        prefixo = source[:inicio_fragmento]
+        externos = list(re.finditer(r'<h3\b[^>]*class=["\']titulo-dou["\'][^>]*>(.*?)</h3>', prefixo, re.S))
+        if len(externos) == 1 and not prefixo[externos[0].end():].strip():
+            titulos = [externos[0][1]]
+            origem = "h3.titulo-dou único imediatamente anterior ao campo texto-dou"
+    if len(titulos) != 1:
+        raise ValueError("epígrafes próprias múltiplas/ausentes: " + str(len(titulos)))
+    return html.unescape(re.sub(r"<[^>]+>", "", titulos[0])).strip(), origem
 
 
 def conferir(path, existentes, urls, hoje, bruto_md=None, fonte_bytes=None):
@@ -82,7 +107,8 @@ def conferir(path, existentes, urls, hoje, bruto_md=None, fonte_bytes=None):
     pub = dt.datetime.strptime(campo_html(source, "publicado-dou-data"), "%d/%m/%Y").date().isoformat()
     if pub != meta.get("data_publicacao"):
         raise ValueError("publicação diverge do HTML")
-    if campo_html(source, "orgao-dou-data") != meta.get("orgao"):
+    orgao_html = campo_html(source, "orgao-dou-data")
+    if not niveis_orgao(orgao_html) or niveis_orgao(orgao_html) != niveis_orgao(meta.get("orgao")):
         raise ValueError("órgão diverge do HTML")
     if campo_html(source, "edicao-dou-data") != str(meta.get("edicao")):
         raise ValueError("edição diverge do HTML")
@@ -94,13 +120,10 @@ def conferir(path, existentes, urls, hoje, bruto_md=None, fonte_bytes=None):
         raise ValueError('bloco texto-dou não fechado; possível truncamento exige revisão estrutural')
     if re.search(r"<(?:img|svg|canvas|object|embed|iframe|math|v:\w+|m:oMath)\b", fragmento, re.I):
         raise ValueError("elemento visual exige revisão")
-    titulos = re.findall(r'<p\b[^>]*class=["\']identifica["\'][^>]*>(.*?)</p>', fragmento, re.S)
-    titulos = [html.unescape(re.sub(r"<[^>]+>", "", t)).strip() for t in titulos]
-    if len(titulos) != 1:
-        raise ValueError("epígrafes próprias múltiplas/ausentes: " + str(len(titulos)))
-    if normalizar_chave(titulos[0]) != normalizar_chave(meta["titulo"]):
+    epigrafe, origem_epigrafe = epigrafe_do_ato(source, fragmento, m.start())
+    if normalizar_chave(epigrafe) != normalizar_chave(meta["titulo"]):
         raise ValueError("epígrafe própria diverge do título cadastrado")
-    if re.match(r"^(retifica|despacho|extrato|aviso|edital|comunicado|apostila)", normalizar_chave(titulos[0])):
+    if re.match(r"^(retifica|despacho|extrato|aviso|edital|comunicado|apostila)", normalizar_chave(epigrafe)):
         raise ValueError("tipo fora do recorte normativo")
     convertido = convert(fragmento)
     representado = (representar_fragmento(fragmento, modo=meta["representacao_corpo"])
@@ -118,6 +141,9 @@ def conferir(path, existentes, urls, hoje, bruto_md=None, fonte_bytes=None):
         raise ValueError("assinatura inconclusiva exige revisão individual")
     return {"path": nome, "sha256_md": hashlib.sha256(bruto_md).hexdigest(),
             "fonte": meta["fonte"], "cache": str(cache.relative_to(RAIZ)),
+            "orgao_html": orgao_html, "orgao_metadados": meta["orgao"],
+            "criterio_orgao": "Nomes e ordem dos níveis idênticos; somente espaços nas bordas de / ignorados.",
+            "epigrafe_html": epigrafe, "origem_epigrafe": origem_epigrafe,
             "sha256_html": sha, "data": assinatura, "publicacao": pub,
             "identidade": list(chave), "tabelas": convertido.count("<table"),
             "avisos_formato": avisos}, meta

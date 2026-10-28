@@ -1,0 +1,450 @@
+---
+titulo: "Lei Ordinária nº 1.715, de 12 de abril de 2011"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1715"
+data: "2011-04-12"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/2097"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/196/text"
+sha256_fonte: "df5b1b650f1700302613586f0d9619ee93eb15c9313f590b2829a8a75f9d9915"
+sha256_texto: "ab2fb27d49a000f69e94d51d50c2d779d3057ae9783284e227e113002bed1d98"
+capturado_em_fonte: "2026-10-27T21:36:12.868969-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.715, de 12 de abril de 2011
+
+“Dispõe sobre a criação do Conselho Municipal dos Direitos do Idoso, do Fundo Municipal do Direito do Idoso, e dá outras providências”.
+
+
+**A CÂMARA MUNICIPAL DE CAÇU/GO,** por seus Vereadores, **APROVA,** e eu, **PREFEITO MUNICIPAL**, no uso das atribuições conferidas pela Lei Orgânica Municipal – LOM, **SANCIONO** a seguinte **LEI MUNICIPAL**:
+
+
+#### CAPÍTULO I — Do Conselho Municipal dos Direitos do Idoso
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal dos Direitos do Idoso – CMDI – órgão permanente, paritário, consultivo, deliberativo, formulador e controlador das políticas públicas e ações voltadas para o idoso no âmbito do Município de Caçu/GO, sendo acompanhado pela Secretaria Municipal de Ação e Promoção Social, órgão gestor das políticas de assistência social do Município.
+
+
+Art. 2º.
+
+Compete ao Conselho Municipal dos Direitos do Idoso:
+
+
+I –
+
+formular, acompanhar, fiscalizar e avaliar a Política Municipal dos Direitos dos Idosos, zelando pela sua execução;
+
+
+II –
+
+elaborar proposições, objetivando aperfeiçoar a legislação pertinente à Política Municipal dos Direitos dos idosos;
+
+
+III –
+
+indicar as prioridades a serem incluídas no planejamento municipal quanto às questões que dizem respeito ao idoso;
+
+
+IV –
+
+cumprir e zelar pelo cumprimento das normas constitucionais e legais referentes ao idoso, sobretudo a Lei Federal nº. 8.842, de 04/07/94, a Lei Federal nº. 10.741, de 1º/10/03 (Estatuto do Idoso) e leis pertinentes de caráter estadual e municipal, denunciando à autoridade competente e ao Ministério Público o descumprimento de qualquer uma delas;
+
+
+V –
+
+fiscalizar as entidades governamentais e não-governamentais de atendimento ao idoso, conforme o disposto no artigo 52, da Lei nº. 10.741/03.
+
+
+VI –
+
+propor, incentivar e apoiar a realização de eventos, estudos, programas e pesquisas voltados para a promoção, a proteção e a defesa dos direitos do idoso;
+
+
+VII –
+
+inscrever os programas das entidades governamentais e não-governamentais de assistência ao idoso;
+
+
+VIII –
+
+estabelecer a forma de participação do idoso residente no custeio da entidade de longa permanência para idoso filantrópica ou casa-lar, cuja cobrança é facultada, não podendo exceder a 70% (setenta por cento) de qualquer benefício previdenciário ou de assistência social percebido pelo idoso;
+
+
+IX –
+
+apreciar o plano plurianual, a lei de diretrizes orçamentárias e a proposta orçamentária anual e suas eventuais alterações, zelando pela inclusão de ações voltadas à política de atendimento do idoso;
+
+
+X –
+
+Indicar prioridades para a destinação dos valores depositados no Fundo Municipal dos Direitos do Idoso, elaborando ou aprovando planos e programas em que está prevista a aplicação de recursos oriundos daquele;
+
+
+XI –
+
+zelar pela efetiva descentralização político-administrativa e pela participação de organizações representativas dos idosos na implementação de política, planos, programas e projetos de atendimento ao idoso;
+
+
+XII –
+
+elaborar o seu regimento interno;
+
+
+XIII –
+
+outras ações visando à proteção do Direito do Idoso.
+
+
+Parágrafo único
+
+Aos membros do Conselho Municipal do Direito do Idoso será facilitado o acesso a todos os setores da administração pública municipal, especialmente às Secretarias e aos programas prestados à população, a fim de possibilitar a apresentação de sugestões e propostas de medidas de atuação, subsidiando as políticas de ação em cada área de interesse do idoso.
+
+
+Art. 3º.
+
+O Conselho Municipal dos Direitos do Idoso, composto de forma paritária entre o poder público municipal e a sociedade civil, será constituído:
+
+
+I –
+
+por representantes de cada uma das Secretarias a seguir indicadas:
+
+
+a)
+
+Secretaria Municipal de Ação e Promoção Social;
+
+
+b)
+
+Secretaria Municipal de Saúde;
+
+
+c)
+
+Secretaria Municipal de Educação;
+
+
+d)
+
+Secretaria Municipal de Administração;
+
+
+e)
+
+Secretaria Municipal de Cultura, Desporto e Lazer;
+
+
+f)
+
+Secretaria Municipal de Meio Ambiente;
+
+
+g)
+
+Secretaria Municipal de Finanças.
+
+
+II –
+
+por dois representantes do Poder Legislativo, a ser indicado por seu Presidente;
+
+
+III –
+
+por cinco representantes de entidades representantes da sociedade civil, legalmente constituída e em regular funcionamento há mais de 01 (um) ano, sendo indicados para preenchimento das seguintes vagas:
+
+
+a)
+
+01 (um) representante Sindicato Rural;
+
+
+b)
+
+01 (um) representante CEREA;
+
+
+c)
+
+01 (um) representante MAÇONARIA;
+
+
+d)
+
+01 (um) representante da Igreja Católica;
+
+
+e)
+
+01 (um) representante de Igreja Evangélica;
+
+
+IV –
+
+por um representante do Ministério Público do Estado de Goiás, através de sua Promotoria de Justiça da Comarca de Caçu/GO.
+
+
+§ 1º
+
+Cada membro do Conselho Municipal dos Direitos do Idoso terá um suplente.
+
+
+§ 2º
+
+Os membros do Conselho Municipal dos Direitos do Idoso e seus respectivos suplentes serão nomeados pelo Prefeito Municipal, respeitadas as indicações previstas nesta Lei.
+
+
+§ 3º
+
+Os membros do Conselho terão um mandado de dois anos, podendo ser reconduzidos por um mandado de igual período, enquanto no desempenho das funções ou cargos nos quais foram nomeados ou indicados.
+
+
+§ 4º
+
+O titular de órgão ou entidade da sociedade civil indicará seu representante, que poderá ser substituído, a qualquer tempo, mediante nova indicação do representado.
+
+
+Art. 4º.
+
+O Presidente e o Vice-Presidente do Conselho Municipal dos Direitos do Idoso serão escolhidos, mediante votação, dentre os seus membros, por maioria absoluta, devendo haver, no que tange à Presidência e à Vice-Presidência, uma alternância entre as entidades governamentais e não-governamentais.
+
+
+§ 1º
+
+O Vice-Presidente do Conselho Municipal dos Direitos do Idoso substituirá o Presidente em suas ausências e impedimentos, e, em caso de ocorrência simultânea em relação aos dois, a presidência será exercida pelo conselheiro mais idoso.
+
+
+§ 2º
+
+O Presidente do Conselho Municipal dos Direitos do Idoso poderá convidar para participar das reuniões ordinárias e extraordinárias membros dos Poderes Executivo, Legislativo e Judiciário, e do Ministério Público, além de pessoas de notória especialização em assuntos de interesse do idoso.
+
+
+Art. 5º.
+
+Cada membro do Conselho Municipal terá direito a um único voto na sessão plenário, excetuando o Presidente que também exercerá o voto de qualidade.
+
+
+Art. 6º.
+
+A função do membro do Conselho Municipal dos Direitos do Idoso não será remunerada e seu exercício será considerado de relevante interesse público.
+
+
+Art. 7º.
+
+As entidades não governamentais representadas no Conselho Municipal dos Direitos do Idoso perderão essa condição quando ocorrer uma das seguintes situações:
+
+
+I –
+
+extinção de sua base territorial de atuação no Município;
+
+
+II –
+
+irregularidades no seu funcionamento, devidamente comprovadas, que tornem incompatível a sua representação no Conselho;
+
+
+III –
+
+aplicação de penalidades administrativas de natureza grave, devidamente comprovadas.
+
+
+Art. 8º.
+
+Perderá o mandato o Conselheiro que:
+
+
+I –
+
+desvincular-se do órgão ou entidade de origem de sua representação;
+
+
+II –
+
+faltar a três reuniões consecutivas ou cinco intercaladas, sem justificativa;
+
+
+III –
+
+apresentar renúncia ao plenário do Conselho, que será lida na sessão seguinte à de sua recepção na Secretaria do Conselho;
+
+
+IV –
+
+apresentar procedimento incompatível com a dignidade das funções;
+
+
+V –
+
+for condenado em sentença irrecorrível, por crime ou contravenção penal.
+
+
+Art. 9º.
+
+Nos casos de renúncia, impedimento ou falta, os membros do Conselho Municipal dos Direitos do Idoso serão substituídos pelos suplentes, automaticamente, podendo estes exercer os mesmos direitos e deveres dos efetivos.
+
+
+Art. 10.
+
+Os órgãos ou entidades representados pelos Conselheiros faltosos deverão ser comunicados a partir da segunda falta consecutiva ou da quarta intercalada.
+
+
+Art. 11.
+
+O Conselho Municipal dos Direitos do Idoso reunir-se-á mensalmente, em caráter ordinário, e extraordinariamente, por convocação do seu Presidente ou por requerimento da maioria absoluta de seus membros.
+
+
+Art. 12.
+
+O Conselho Municipal dos Direitos do Idoso instituirá seus atos por meio da resolução aprovada pela maioria de seus membros.
+
+
+Art. 13.
+
+As sessões do Conselho Municipal dos Direitos do Idoso serão públicas, precedidas de ampla divulgação.
+
+
+Art. 14.
+
+A Secretaria Municipal de Ação e Promoção Social proporcionará o apoio técnico-administrativo necessário ao funcionamento do Conselho Municipal dos Direitos do Idoso.
+
+
+Art. 15.
+
+Os recursos financeiros para implantação e manutenção do Conselho Municipal dos Direitos do Idoso serão previstos nas peças orçamentárias do Município, possuindo dotações próprias.
+
+
+#### CAPÍTULO II — Do Fundo Municipal dos Direitos do Idoso
+
+
+Art. 16.
+
+Fica criado o Fundo Municipal dos Direitos do Idoso, instrumento de captação, repasse e aplicação de recursos destinados a propiciar suporte financeiro para a implantação, manutenção e desenvolvimento de planos, programas, projetos e ações voltadas aos idosos no Município de Caçu.
+
+
+Art. 17.
+
+Constituirão receitas do Fundo Municipal dos Direitos do Idoso:
+
+
+I –
+
+recursos provenientes de órgãos da União ou do Estado vinculados à Política Nacional do Idoso;
+
+
+II –
+
+transferências do Município;
+
+
+III –
+
+as resultantes de doações do Setor Privado, pessoas físicas ou jurídicas;
+
+
+IV –
+
+rendimentos eventuais, inclusive de aplicações financeiras dos recursos disponíveis;
+
+
+V –
+
+as advindas de acordos e convênios;
+
+
+VI –
+
+as provenientes das multas aplicadas com base na Lei n. 10.741/03;
+
+
+VII –
+
+outras.
+
+
+Art. 18.
+
+O Fundo Municipal ficará vinculado diretamente à Secretaria Municipal de Ação e Promoção Social, tendo sua destinação liberada através de projetos, programas e atividades aprovados pelo Conselho Municipal dos Direitos do Idoso.
+
+
+§ 1º
+
+Será aberta conta bancária específica em instituição financeira oficial, sob a denominação “Fundo Municipal dos Direitos do Idoso”, para movimentação dos recursos financeiros do Fundo, sendo elaborado, mensalmente balancete demonstrativo da receita e da despesa, que deverá ser publicado na imprensa oficial, onde houver, ou dada ampla divulgação no caso de inexistência, após apresentação e aprovação do Conselho Municipal dos Direitos do Idoso.
+
+
+§ 2º
+
+A contabilidade do Fundo tem por objetivo evidenciar a sua situação financeira e patrimonial, observados os padrões e normas estabelecidas na legislação pertinente.
+
+
+§ 3º
+
+Caberá à Secretaria Municipal de Ação e Promoção Social gerir o Fundo Municipal dos Direitos do Idoso, sob a orientação e controle do Conselho Municipal de Direitos do Idoso, cabendo ao seu titular:
+
+
+I –
+
+solicitar a política de aplicação dos recursos ao Conselho Municipal do Idoso;
+
+
+II –
+
+submeter ao Conselho Municipal dos Direitos do Idoso demonstrativo contábil da movimentação financeira do Fundo;
+
+
+III –
+
+assinar cheques, ordenar empenhos e pagamentos das despesas do Fundo;
+
+
+IV –
+
+outras atividades indispensáveis para o gerenciamento do Fundo.
+
+
+#### CAPÍTULO III — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 19.
+
+A primeira indicação dos representantes governamentais será feita pelos titulares das respectivas Secretarias, no prazo de trinta dias após a publicação desta Lei.
+
+
+Art. 20.
+
+A primeira indicação dos representantes não-governamentais será feita pelos titulares de cada órgão, no prazo não superior a trinta dias contados da notificação oficial expedida pelo Poder Executivo.
+
+
+Art. 21.
+
+O Conselho Municipal dos Direitos do Idoso elaborará o seu regimento interno, no prazo máximo de sessenta dias a contar da data de sua instalação, o qual será aprovado por ato próprio, devidamente publicado e dada ampla divulgação.
+
+
+Parágrafo único
+
+O regimento interno disporá sobre o funcionamento do Conselho Municipal do Idoso, das atribuições de seus membros, entre outros assuntos.
+
+
+Art. 22.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito Municipal de Caçu/GO, 12 de abril de 2011.
+
+
+**ANDRÉ LUIZ GUIMARÃES VIEIRA**
+
+**Prefeito Municipal**
+

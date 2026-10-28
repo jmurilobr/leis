@@ -1,0 +1,62 @@
+---
+titulo: "Decreto nº 54, de 30 de julho de 1951"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "54"
+data: "1951-07-30"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/13897"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/4826/text"
+sha256_fonte: "5028d6926223b96cb5e9181ecd00c9fbd14ab632e46b368a6eae19cd96d90498"
+sha256_texto: "ded3ea3408632e98ab1ea7780d1ca49a3f2f5fd26cde1beed14a85e2fd0e13c0"
+capturado_em_fonte: "2026-10-27T23:04:20.024258-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Decreto nº 54, de 30 de julho de 1951
+
+Faz doação de uma área de terras, de 9.937 metros quadrados, ao Ypiranga Esporte Clube.
+
+
+O PREFEITO MUNICIPAL DE PORTO VELHO, usando da atribuição que lhe confere o artigo 9° ítem III, do decreto-lei federal 5.839, de 21 de setembro de 1943 e  
+CONSIDERANDO que o esporte representa aperfeiçoamento da raça, melhoria nas condições físicas da juventude, e resulta na preparação do homem destinado a prestação de serviços à Nação;  
+CONSIDERANDO que compete, portanto, ao Govêrno Municipal estimular e facilitar a edificação de praças de esportes pela iniciativa particular bem como, na falta desta, / construi-las e mante-las, a fim de que sirvam aos exercíciose competições das entidades desportivas;  
+CONSIDERANDO que o Ypiranga Esporte Clube, sociedade tradicional na vida social e desportiva de Porto Velho, foi considerada de utilidade pública por decreto territorial n° 137, de 14 de novembro de 1949, em virtude dos inestimaveis serviços que vem prestando à coletividade esportiva guaporense;
+
+CONSIDERANDO que o Ypiranga Esporte Clube é a única entidade desportiva local que possúe campo próprio com instalações condignas para jogos oficiais;  
+CONSIDERANDO que o campo de esporte denominado "PAULO SALDANHA, de propriedade do Ypiranga Esporte Clube, está edificado em terreno do Patrimônio Municipal, decreta:
+
+
+Art. 1º.
+
+Fica doada pela Prefeitura Municipal de Porto Velho ao Ypiranga Esporte Clube, mediante escritura pública, para que mantenha a sua praça de esportes, uma área de terras de nove mil, novecentos e trinta e sete metros quadrados (9.937ms²), limitada ao Norte, com a quadra n° 57; ao Sul, com a avenida Pinheiro Machado; a Leste, com a rua Gonçalves Dias e a Oeste, com a rua Jose Bonifácio.
+
+
+Art. 2º.
+
+A dissolução do clube ou desvirtuamento de suas finalidades implicará na reversão à Municipalidade do terreno ora doado.
+
+
+Art. 3º.
+
+O presente decreto entrará em vigor na data de sua publicação.
+
+
+Art. 4º.
+
+Revogam-se as disposições em contrário.
+
+
+Secretaria da Prefeitura Municipal de Porto Velho, 30 de julho de 1951.
+
+
+RAPHAEL JAYME CASTIEL
+
+Prefeito Municipal
+

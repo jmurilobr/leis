@@ -1,0 +1,67 @@
+---
+titulo: "Lei nº 506, de 26 de setembro de 1989"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "506"
+data: "1989-09-26"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/1633"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/1495/text"
+sha256_fonte: "0b972b8b182345561dab7efadb23bcdde594753e3f46b18abc3ba36f6bf7aefc"
+sha256_texto: "6dfcca218d8e5751d351a1411841202c75adbee7710228e6a3f02a960d930f5c"
+capturado_em_fonte: "2026-10-27T20:36:50.338142-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 506, de 26 de setembro de 1989
+
+DISPÕE SOBRE A ABERTURA DE CRÉDITO SUPLEMENTAR NO ORÇAMENTO VIGENTE, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+A Câmara Municipal de Buritis - MG, por seus representantes, aprova e Eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Executivo Municipal devidamente autorizado a abrir Crédito Suplementar no Orçamento vigente, na ordem de 128,785 % (Cento e vinte e oito, vírgula setecentos e oitenta e cinco por cento), correspondente ao valor de Ncz$ 1.287.850,00 (Hum milhão, duzentos e oitenta e sete mil, oitocentos e cinquenta cruzados novos), tendo em vista o Excesso de Arrecadação, baseando-se no Saldo positivo das diferenças acumuladas mês a mês, entre a arrecadação prevista e a realizada.
+
+
+Art. 2º.
+
+A presente autorização se faz conforme o disposto nos § 3°, § 4°, § 1°, Inciso II, do artigo 43, da Lei Federal n° 4.320/64.
+
+
+Art. 3º.
+
+A presente autorização se faz conforme o disposto nos § 3°, § 4°, § 1°, Inciso II, do artigo 43, da Lei Federal n° 4.320/64.
+
+
+Art. 4º.
+
+A presente Suplementação é feita devido os limites previstos na letra "b" do artigo 3° da Lei Orçamentária n° 449/88 de 05/12/88, terem sido utilizados em sua totalidade.
+
+
+Art. 5º.
+
+Esta Lei retroage a 1° de setembro de 1989.
+
+
+Art. 6º.
+
+Revogadas as disposições em contrário, esta Lei entrará em vigor na data de sua publicação.
+
+
+Buritis - MG, 26 de setembro de 1989.
+
+**Elizeu Nadir José Lopes Prefeito Municipal**
+
+**Mário Sérgio da Silva Secretário**
+
+Projeto de Lei n° 245/89, de 13/09/89, aprovado em 2ª discussão por 10 votos a favor e 00 votos contra. Sala de Sessões, 25 de setembro de 1989.
+

@@ -1,0 +1,5194 @@
+{
+  "criterio": "Congela o próximo lote de candidatos TA, sem repetir identidades já examinadas.\n\nVersão 2: exporta diários/anexos apenas de portais selecionados, evitando exigir\nmetadados de tipos de portais sem candidatos neste lote.\n\nO limite é somente o tamanho do lote de trabalho. A coleta de portais continua;\nreexecuções com as exclusões anteriores cobrem os candidatos seguintes.\n",
+  "selecionados": 1000,
+  "disponiveis_apos_exclusoes": 1637,
+  "exclusoes": [
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0001/resultados.jsonl",
+      "sha256": "cb49d44c92fe2e8f0102be164a449805bff97fcee62248f3da16a5563bc74148"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0002-v2/resultados.jsonl",
+      "sha256": "2b2730a051cb96a4ff159162e98366a0a4bfc431290aacaa9f15b0b1897e4472"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-piloto-gates-0001/resultados.jsonl",
+      "sha256": "2f3d2a94ffd99335a5c9d782692aaa5b865570ef4f8cced270c94073e15278ae"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/formas-gates-0001/resultados.jsonl",
+      "sha256": "60c71f5205eb437a4c42f289d873ae3b9d4bea6b13a7c00e79337939feb73dfa"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/resultados.jsonl",
+      "sha256": "e02a8d1e15f881485d78bfb6bac0b0a0a7f13ebc35875898b06f22e12fcf9969"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0002/resultados.jsonl",
+      "sha256": "4a236a292f92deb5da31a24f10e313f93187a130772028803738532174987183"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0003/resultados.jsonl",
+      "sha256": "a30f0beb3bcdf6410883449224177c20241655bccee8cb845e917c42cfb9a508"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0004/resultados.jsonl",
+      "sha256": "c4742688d9d15e5c8c53d8dbf43547d565f377bdbabef622fe3e42574678ac28"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0005/resultados.jsonl",
+      "sha256": "34d785b4180b63f7b735c3cf221ac2e905b01ac6570e8175a4d0c666323e8d6e"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0006/resultados.jsonl",
+      "sha256": "2df97b04e59b5977127005a710a9cea7d04d81a4b4a4d4f135b218bfffacabd0"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0007/resultados.jsonl",
+      "sha256": "4c4930cc4e19e5b0c912835b33b61d56c821e718f40a415d39038cf6f31a82b1"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0008/resultados.jsonl",
+      "sha256": "d92d281e8e8ac10320c86127535c065cd8b5cba4f0f33877d803d6802efb4c16"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0009/resultados.jsonl",
+      "sha256": "f4039cccc51c6f8b48a556c23e804cb037c8ba55d047e4cd38a573959eb45632"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0010/resultados.jsonl",
+      "sha256": "747062b23203a4330bc86d01a35a53c94dd3330f717513ab3ed5321bcceca306"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/resultados.jsonl",
+      "sha256": "d00e56bac03cf106f7ee2182c4797a2b188f1ad73a42d28571c1c7b5a376db3e"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0012/resultados.jsonl",
+      "sha256": "411f9a9e76c09ec62ef5f3e4f58714de8ab0c32097980ef2097c2b96667ade58"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0013/resultados.jsonl",
+      "sha256": "e81b1d45cc85bdd1d2f95b63c21e9ba574c6daa2380a27e7495ec9a591118470"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/tabelas-gates-0003/resultados.jsonl",
+      "sha256": "2401e2e10b5b5525b1f74ca700bd6ed3afdd76f8b26a8d58b7910dcda58642c5"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0001/resultados.jsonl",
+      "sha256": "5932a21d2f981ad60fb193e59905cb200a864ba63fdc6c6b82cdcb2fb4c8a803"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0002/resultados.jsonl",
+      "sha256": "743684bf7245afe2ce980a1c69e9b9f710145ee757458699075004a2ab54c59b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0003/resultados.jsonl",
+      "sha256": "fec8db37da0df80f24d140744fd160a69d7d54e524757678db4fe532b8d32c6b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0004/resultados.jsonl",
+      "sha256": "973a23f5b8058ae80a9bc8e50f72f6c139658c2e4e278d5e8ed3b678aecc4eb2"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0005/resultados.jsonl",
+      "sha256": "c94f3121369d1d538755aa1db82b139844dd2c059620913a05e6672657ac08a7"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/resultados.jsonl",
+      "sha256": "07d2def1265a88da175c93cce49b1cb0b6e614a39392a8b34298c5077ec67933"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0002/resultados.jsonl",
+      "sha256": "00b0379793a8cefcc6856103200a894027cc12b4ebaa00a0888624acdeb77924"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0003/resultados.jsonl",
+      "sha256": "703972bf99466f32af3ea505376726e60953103c80bfcb015b138b322027bada"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/resultados.jsonl",
+      "sha256": "839b37cdab75de94ecc9f5cb8edaa0a2e6170edb8ef80efcbbe64922b10dee5e"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001-v2/resultados.jsonl",
+      "sha256": "a4757881e0f7c5cc09735b4607fb9436a2681fc6bbdc9bdc884942ba269b02d0"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0002/resultados.jsonl",
+      "sha256": "353d1230a0e13fe4e46b88fdb81aff47a12838c7fbb380c8261269e3df03f5ea"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0006/resultados.jsonl",
+      "sha256": "77fa0bfd91207f69ce1f69b8f288d536fd309260252cbb69eba7992069ea63cc"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0007/resultados.jsonl",
+      "sha256": "17d885bf36143f9de9ba0b2affb3df2e32a291901a3f825be96461c575a3cbf1"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0008/resultados.jsonl",
+      "sha256": "40710202641b46c142de773af6e360358bc0ebc342f005fa9ab2ee5efa6b4d53"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0009/resultados.jsonl",
+      "sha256": "1b47ce849a273d4dc8867137c695a57e05a09daaf1395142e0223a5948143689"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "sha256": "07c28b7649ab8d2b66e5457dc4a91e301c0ad10f207e14d5f8d5386d9d0f922d"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "sha256": "88151915faa9eee309d14b21682d66e7df027ce2c06a26be1c4bcb4d1e715400"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "sha256": "4163cc2ede430d59996828d6c55032be7055f8ac96f55dc7500b36b0bdadecb3"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012-v2/resultados.jsonl",
+      "sha256": "e2da31dfcdbbbf388ec02f9b311e85f5c88669fc7cd3efda03355694394576ac"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012-v3/resultados.jsonl",
+      "sha256": "96f11eb8a39c3f95785207414dcb951cd09e7e6775509a143cd97824a18c9d2c"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0013/resultados.jsonl",
+      "sha256": "938def4e7698e31c7415a6981465ed65dbc789793350b359b499e3381d0fa10b"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0014/resultados.jsonl",
+      "sha256": "4c3cfeeb0a05b2bb00c0f4cb762fd4f7488aedd8d6f71ab7357ff5b1213ff27b"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0015/resultados.jsonl",
+      "sha256": "bbf88caafca24ef2881e3c07118ac25262b4c48173aefe57d0e074929364e301"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0016/resultados.jsonl",
+      "sha256": "b0e76b22e26e2be97db8a67c9bb2d972208287c115aa662250b186ff6f07df9b"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0017/resultados.jsonl",
+      "sha256": "9579a7eb8988886a89e1ba1c778264f2ce53ce9dab591885b5201ba8a8badf16"
+    }
+  ],
+  "prefixos_origem": [
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-coerente-0001/sapl.agudo.rs.leg.br/resultados.jsonl",
+      "sha256_prefixo": "f094003458fc4049aa0b8b94bd5da68f318aaf68dea99bef3e570539a4957462",
+      "bytes_prefixo": 5009581
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-coerente-0001/sapl.portovelho.ro.leg.br/resultados.jsonl",
+      "sha256_prefixo": "74b16a2b5af560d7e02a4e8606fa93918f2392a45d317724a8b3961bf2c0b8b9",
+      "bytes_prefixo": 5741532
+    }
+  ],
+  "script_sha256": "ed1f0a1eaeda7c9c3f1271ecdbbae4634b92e070bb936d4d89f3e5d2ac57f520",
+  "identidades": [
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3042,
+      "norma_id": 3378
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2702,
+      "norma_id": 1026
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 747,
+      "norma_id": 14
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1426,
+      "norma_id": 435
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 366,
+      "norma_id": 13
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2703,
+      "norma_id": 1025
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1001,
+      "norma_id": 82
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2705,
+      "norma_id": 1023
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1115,
+      "norma_id": 81
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 642,
+      "norma_id": 1022
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1113,
+      "norma_id": 80
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1740,
+      "norma_id": 433
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 749,
+      "norma_id": 78
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 741,
+      "norma_id": 432
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1108,
+      "norma_id": 77
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 555,
+      "norma_id": 431
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 934,
+      "norma_id": 76
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1373,
+      "norma_id": 430
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1110,
+      "norma_id": 75
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 476,
+      "norma_id": 429
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1111,
+      "norma_id": 74
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1370,
+      "norma_id": 428
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 426,
+      "norma_id": 73
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 742,
+      "norma_id": 427
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 51,
+      "norma_id": 72
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2709,
+      "norma_id": 1018
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3039,
+      "norma_id": 3374
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2710,
+      "norma_id": 1017
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 63,
+      "norma_id": 69
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 641,
+      "norma_id": 1016
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5258,
+      "norma_id": 1574
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2711,
+      "norma_id": 1015
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5257,
+      "norma_id": 1573
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2712,
+      "norma_id": 1014
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 738,
+      "norma_id": 68
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2713,
+      "norma_id": 1013
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 45,
+      "norma_id": 67
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2714,
+      "norma_id": 1012
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 978,
+      "norma_id": 66
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2717,
+      "norma_id": 1009
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1000,
+      "norma_id": 65
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 640,
+      "norma_id": 1008
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1130,
+      "norma_id": 64
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 744,
+      "norma_id": 425
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 751,
+      "norma_id": 63
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2718,
+      "norma_id": 1007
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 977,
+      "norma_id": 62
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2719,
+      "norma_id": 1006
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 364,
+      "norma_id": 60
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2302,
+      "norma_id": 1005
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 362,
+      "norma_id": 59
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 85,
+      "norma_id": 424
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5255,
+      "norma_id": 1572
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1329,
+      "norma_id": 1004
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1133,
+      "norma_id": 58
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2720,
+      "norma_id": 1003
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 950,
+      "norma_id": 57
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 745,
+      "norma_id": 423
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 625,
+      "norma_id": 56
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2721,
+      "norma_id": 1002
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1138,
+      "norma_id": 55
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2722,
+      "norma_id": 1069
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 9,
+      "norma_id": 1497
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2723,
+      "norma_id": 1068
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 998,
+      "norma_id": 54
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2724,
+      "norma_id": 1067
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 949,
+      "norma_id": 53
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2725,
+      "norma_id": 1066
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 946,
+      "norma_id": 52
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2726,
+      "norma_id": 1065
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1135,
+      "norma_id": 51
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1757,
+      "norma_id": 422
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 742,
+      "norma_id": 50
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 159,
+      "norma_id": 421
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 996,
+      "norma_id": 48
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1466,
+      "norma_id": 420
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 995,
+      "norma_id": 47
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 655,
+      "norma_id": 419
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 976,
+      "norma_id": 46
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 746,
+      "norma_id": 418
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 948,
+      "norma_id": 45
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 666,
+      "norma_id": 1064
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 947,
+      "norma_id": 44
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2728,
+      "norma_id": 1063
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3033,
+      "norma_id": 3368
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2729,
+      "norma_id": 1062
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 13,
+      "norma_id": 83
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2349,
+      "norma_id": 1061
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 8,
+      "norma_id": 1496
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1362,
+      "norma_id": 416
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 752,
+      "norma_id": 43
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1625,
+      "norma_id": 13501
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 993,
+      "norma_id": 42
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 791,
+      "norma_id": 415
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 984,
+      "norma_id": 41
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2730,
+      "norma_id": 1059
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 660,
+      "norma_id": 40
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 609,
+      "norma_id": 414
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 991,
+      "norma_id": 39
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1369,
+      "norma_id": 413
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 7,
+      "norma_id": 1495
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 665,
+      "norma_id": 1058
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 992,
+      "norma_id": 38
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2731,
+      "norma_id": 1057
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1141,
+      "norma_id": 36
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2732,
+      "norma_id": 1056
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 983,
+      "norma_id": 35
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2733,
+      "norma_id": 1055
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 982,
+      "norma_id": 34
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2734,
+      "norma_id": 1054
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 981,
+      "norma_id": 33
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2735,
+      "norma_id": 1053
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 2559,
+      "norma_id": 32
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2736,
+      "norma_id": 1052
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1117,
+      "norma_id": 31
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2737,
+      "norma_id": 1051
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1142,
+      "norma_id": 30
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2738,
+      "norma_id": 1050
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 640,
+      "norma_id": 29
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2740,
+      "norma_id": 1048
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5254,
+      "norma_id": 1571
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 518,
+      "norma_id": 412
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 739,
+      "norma_id": 28
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 84,
+      "norma_id": 411
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 361,
+      "norma_id": 27
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2741,
+      "norma_id": 1047
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 980,
+      "norma_id": 26
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2742,
+      "norma_id": 1046
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3028,
+      "norma_id": 3362
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2818,
+      "norma_id": 25318
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1143,
+      "norma_id": 148
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2330,
+      "norma_id": 1045
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1148,
+      "norma_id": 147
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 562,
+      "norma_id": 410
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1073,
+      "norma_id": 146
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 446,
+      "norma_id": 1044
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 945,
+      "norma_id": 145
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2743,
+      "norma_id": 1043
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1069,
+      "norma_id": 144
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 116,
+      "norma_id": 408
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1068,
+      "norma_id": 143
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 42,
+      "norma_id": 407
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 719,
+      "norma_id": 142
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1734,
+      "norma_id": 406
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5266,
+      "norma_id": 1570
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2744,
+      "norma_id": 1042
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1067,
+      "norma_id": 140
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 748,
+      "norma_id": 405
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1150,
+      "norma_id": 154
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2746,
+      "norma_id": 1040
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 735,
+      "norma_id": 138
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2747,
+      "norma_id": 1039
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1154,
+      "norma_id": 137
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2748,
+      "norma_id": 1091
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1066,
+      "norma_id": 136
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2750,
+      "norma_id": 1089
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1106,
+      "norma_id": 135
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 590,
+      "norma_id": 1088
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 931,
+      "norma_id": 155
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2751,
+      "norma_id": 4557
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 854,
+      "norma_id": 133
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2752,
+      "norma_id": 1087
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1064,
+      "norma_id": 132
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2753,
+      "norma_id": 1086
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 711,
+      "norma_id": 129
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2754,
+      "norma_id": 1085
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 955,
+      "norma_id": 128
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2755,
+      "norma_id": 1084
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 954,
+      "norma_id": 127
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2756,
+      "norma_id": 1083
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 750,
+      "norma_id": 126
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1755,
+      "norma_id": 404
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3026,
+      "norma_id": 3360
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 83,
+      "norma_id": 403
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1059,
+      "norma_id": 125
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2757,
+      "norma_id": 1082
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 953,
+      "norma_id": 124
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2758,
+      "norma_id": 1081
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5265,
+      "norma_id": 1569
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1387,
+      "norma_id": 402
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 519,
+      "norma_id": 123
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2759,
+      "norma_id": 1080
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1009,
+      "norma_id": 122
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 431,
+      "norma_id": 401
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1072,
+      "norma_id": 121
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2760,
+      "norma_id": 1079
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1071,
+      "norma_id": 120
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 669,
+      "norma_id": 1078
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1065,
+      "norma_id": 119
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2761,
+      "norma_id": 1077
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1007,
+      "norma_id": 118
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2762,
+      "norma_id": 1076
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1070,
+      "norma_id": 117
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2763,
+      "norma_id": 1075
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 710,
+      "norma_id": 116
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 661,
+      "norma_id": 400
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 571,
+      "norma_id": 115
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 662,
+      "norma_id": 1073
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1063,
+      "norma_id": 114
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 558,
+      "norma_id": 399
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1062,
+      "norma_id": 113
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1454,
+      "norma_id": 5689
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5263,
+      "norma_id": 1568
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2766,
+      "norma_id": 1070
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 610,
+      "norma_id": 112
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2767,
+      "norma_id": 4555
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 952,
+      "norma_id": 111
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 330,
+      "norma_id": 477
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1050,
+      "norma_id": 110
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 329,
+      "norma_id": 476
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1030,
+      "norma_id": 109
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 328,
+      "norma_id": 475
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1040,
+      "norma_id": 108
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1371,
+      "norma_id": 473
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3023,
+      "norma_id": 3359
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1750,
+      "norma_id": 471
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3022,
+      "norma_id": 3358
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2772,
+      "norma_id": 25320
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1029,
+      "norma_id": 107
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2770,
+      "norma_id": 1169
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1028,
+      "norma_id": 106
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2776,
+      "norma_id": 4554
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1027,
+      "norma_id": 105
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 750,
+      "norma_id": 470
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1026,
+      "norma_id": 104
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 758,
+      "norma_id": 469
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1025,
+      "norma_id": 103
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2675,
+      "norma_id": 4553
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1023,
+      "norma_id": 102
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2779,
+      "norma_id": 4552
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 674,
+      "norma_id": 101
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 751,
+      "norma_id": 468
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1024,
+      "norma_id": 100
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2780,
+      "norma_id": 1166
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 360,
+      "norma_id": 99
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2781,
+      "norma_id": 1167
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3809,
+      "norma_id": 1527
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2782,
+      "norma_id": 1165
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1022,
+      "norma_id": 98
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 73,
+      "norma_id": 467
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1021,
+      "norma_id": 97
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1380,
+      "norma_id": 465
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3808,
+      "norma_id": 1526
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 707,
+      "norma_id": 464
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1017,
+      "norma_id": 96
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1866,
+      "norma_id": 1163
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3020,
+      "norma_id": 3357
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2784,
+      "norma_id": 1162
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 358,
+      "norma_id": 95
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2785,
+      "norma_id": 1161
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1019,
+      "norma_id": 94
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2787,
+      "norma_id": 25321
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1020,
+      "norma_id": 93
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2786,
+      "norma_id": 1160
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1016,
+      "norma_id": 92
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1760,
+      "norma_id": 463
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1014,
+      "norma_id": 91
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2789,
+      "norma_id": 1158
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 6,
+      "norma_id": 1494
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2790,
+      "norma_id": 1157
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5259,
+      "norma_id": 1567
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2791,
+      "norma_id": 1156
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1013,
+      "norma_id": 90
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2792,
+      "norma_id": 1155
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1012,
+      "norma_id": 89
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2793,
+      "norma_id": 1154
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1011,
+      "norma_id": 88
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2794,
+      "norma_id": 1153
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1005,
+      "norma_id": 87
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2795,
+      "norma_id": 1152
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1003,
+      "norma_id": 86
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2796,
+      "norma_id": 1151
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1002,
+      "norma_id": 85
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2153,
+      "norma_id": 1150
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 951,
+      "norma_id": 84
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2797,
+      "norma_id": 1149
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 70,
+      "norma_id": 227
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2798,
+      "norma_id": 1148
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1169,
+      "norma_id": 226
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2800,
+      "norma_id": 1146
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1167,
+      "norma_id": 225
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 660,
+      "norma_id": 461
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1166,
+      "norma_id": 223
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2803,
+      "norma_id": 1145
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1175,
+      "norma_id": 222
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2805,
+      "norma_id": 1143
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 608,
+      "norma_id": 221
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2807,
+      "norma_id": 25322
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 680,
+      "norma_id": 220
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2809,
+      "norma_id": 25326
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1170,
+      "norma_id": 219
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2323,
+      "norma_id": 1140
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1081,
+      "norma_id": 218
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 608,
+      "norma_id": 460
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1176,
+      "norma_id": 217
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2810,
+      "norma_id": 1139
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1181,
+      "norma_id": 216
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2811,
+      "norma_id": 1138
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1177,
+      "norma_id": 215
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2812,
+      "norma_id": 1137
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1183,
+      "norma_id": 214
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2813,
+      "norma_id": 1136
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1188,
+      "norma_id": 213
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 752,
+      "norma_id": 459
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1197,
+      "norma_id": 212
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 753,
+      "norma_id": 458
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1199,
+      "norma_id": 211
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 755,
+      "norma_id": 456
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1202,
+      "norma_id": 210
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2814,
+      "norma_id": 1135
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1187,
+      "norma_id": 209
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1761,
+      "norma_id": 455
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1218,
+      "norma_id": 208
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2815,
+      "norma_id": 1134
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1220,
+      "norma_id": 207
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2816,
+      "norma_id": 1133
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1194,
+      "norma_id": 206
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2845,
+      "norma_id": 1132
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1185,
+      "norma_id": 205
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2846,
+      "norma_id": 1131
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5276,
+      "norma_id": 1566
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2495,
+      "norma_id": 1130
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5084,
+      "norma_id": 1565
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2856,
+      "norma_id": 1128
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 720,
+      "norma_id": 204
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2858,
+      "norma_id": 1127
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1223,
+      "norma_id": 203
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2859,
+      "norma_id": 1126
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1224,
+      "norma_id": 202
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2860,
+      "norma_id": 1125
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1226,
+      "norma_id": 201
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2861,
+      "norma_id": 1124
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1227,
+      "norma_id": 200
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2863,
+      "norma_id": 1123
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1228,
+      "norma_id": 199
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2864,
+      "norma_id": 1122
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1248,
+      "norma_id": 198
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2865,
+      "norma_id": 1121
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1231,
+      "norma_id": 197
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2588,
+      "norma_id": 6453
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1082,
+      "norma_id": 195
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2866,
+      "norma_id": 1120
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1237,
+      "norma_id": 194
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2867,
+      "norma_id": 1119
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1239,
+      "norma_id": 193
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2869,
+      "norma_id": 25327
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1243,
+      "norma_id": 192
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2868,
+      "norma_id": 1118
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5275,
+      "norma_id": 1564
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2871,
+      "norma_id": 25328
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1244,
+      "norma_id": 191
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2870,
+      "norma_id": 1117
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5274,
+      "norma_id": 1563
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2873,
+      "norma_id": 25329
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1254,
+      "norma_id": 190
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2872,
+      "norma_id": 1116
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1269,
+      "norma_id": 189
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2862,
+      "norma_id": 25330
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1251,
+      "norma_id": 188
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2148,
+      "norma_id": 1115
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1252,
+      "norma_id": 187
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2874,
+      "norma_id": 1114
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1253,
+      "norma_id": 186
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2875,
+      "norma_id": 1113
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1256,
+      "norma_id": 185
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2876,
+      "norma_id": 1112
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1264,
+      "norma_id": 184
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2877,
+      "norma_id": 1111
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3012,
+      "norma_id": 3350
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 105,
+      "norma_id": 453
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1262,
+      "norma_id": 182
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 133,
+      "norma_id": 452
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1263,
+      "norma_id": 181
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1455,
+      "norma_id": 451
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1265,
+      "norma_id": 180
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1686,
+      "norma_id": 4556
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1266,
+      "norma_id": 179
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1763,
+      "norma_id": 450
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1268,
+      "norma_id": 178
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2878,
+      "norma_id": 4551
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 847,
+      "norma_id": 177
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2879,
+      "norma_id": 1109
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3011,
+      "norma_id": 3349
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2880,
+      "norma_id": 1107
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 709,
+      "norma_id": 176
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2882,
+      "norma_id": 1106
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1270,
+      "norma_id": 175
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2883,
+      "norma_id": 1105
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1101,
+      "norma_id": 174
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 507,
+      "norma_id": 449
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1087,
+      "norma_id": 173
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 82,
+      "norma_id": 448
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 357,
+      "norma_id": 172
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1765,
+      "norma_id": 447
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1109,
+      "norma_id": 171
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2884,
+      "norma_id": 1104
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 518,
+      "norma_id": 170
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2885,
+      "norma_id": 1103
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1271,
+      "norma_id": 169
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1343,
+      "norma_id": 446
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 355,
+      "norma_id": 168
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2886,
+      "norma_id": 1102
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1100,
+      "norma_id": 167
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1710,
+      "norma_id": 1101
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1107,
+      "norma_id": 166
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1624,
+      "norma_id": 13494
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1099,
+      "norma_id": 165
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2887,
+      "norma_id": 1100
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1098,
+      "norma_id": 164
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 71,
+      "norma_id": 5619
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1093,
+      "norma_id": 163
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2888,
+      "norma_id": 1099
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1090,
+      "norma_id": 162
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2891,
+      "norma_id": 1097
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1076,
+      "norma_id": 161
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1678,
+      "norma_id": 6693
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1089,
+      "norma_id": 160
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2893,
+      "norma_id": 1096
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 354,
+      "norma_id": 159
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2471,
+      "norma_id": 6669
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1075,
+      "norma_id": 158
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2894,
+      "norma_id": 1095
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 702,
+      "norma_id": 157
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 129,
+      "norma_id": 445
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1273,
+      "norma_id": 156
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2895,
+      "norma_id": 1094
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1275,
+      "norma_id": 279
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2465,
+      "norma_id": 6620
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1276,
+      "norma_id": 278
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1764,
+      "norma_id": 444
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1278,
+      "norma_id": 277
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2591,
+      "norma_id": 6600
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1277,
+      "norma_id": 275
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2896,
+      "norma_id": 1093
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5288,
+      "norma_id": 1561
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 575,
+      "norma_id": 443
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5287,
+      "norma_id": 1560
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2801,
+      "norma_id": 1092
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 707,
+      "norma_id": 273
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 479,
+      "norma_id": 442
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1279,
+      "norma_id": 272
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 7837,
+      "norma_id": 6357
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5068,
+      "norma_id": 1559
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 90,
+      "norma_id": 726
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1284,
+      "norma_id": 276
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1737,
+      "norma_id": 725
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1280,
+      "norma_id": 271
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 756,
+      "norma_id": 6447
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1281,
+      "norma_id": 270
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1759,
+      "norma_id": 508
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1282,
+      "norma_id": 269
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 327,
+      "norma_id": 507
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 708,
+      "norma_id": 268
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1622,
+      "norma_id": 13492
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 501,
+      "norma_id": 267
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2802,
+      "norma_id": 14160
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1285,
+      "norma_id": 266
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1621,
+      "norma_id": 13491
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 2294,
+      "norma_id": 265
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1620,
+      "norma_id": 13490
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1287,
+      "norma_id": 264
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2898,
+      "norma_id": 1220
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 676,
+      "norma_id": 263
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2899,
+      "norma_id": 1219
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1286,
+      "norma_id": 262
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2900,
+      "norma_id": 1218
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 706,
+      "norma_id": 261
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2901,
+      "norma_id": 1217
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 705,
+      "norma_id": 260
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2903,
+      "norma_id": 1215
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5282,
+      "norma_id": 1558
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2904,
+      "norma_id": 1214
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3007,
+      "norma_id": 3345
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 757,
+      "norma_id": 504
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 470,
+      "norma_id": 259
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 759,
+      "norma_id": 503
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 517,
+      "norma_id": 258
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 8650,
+      "norma_id": 7252
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1289,
+      "norma_id": 257
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2906,
+      "norma_id": 1213
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5281,
+      "norma_id": 1557
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 269,
+      "norma_id": 501
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1288,
+      "norma_id": 256
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2907,
+      "norma_id": 1212
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1290,
+      "norma_id": 255
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 429,
+      "norma_id": 7203
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1297,
+      "norma_id": 254
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2908,
+      "norma_id": 1211
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1298,
+      "norma_id": 253
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1768,
+      "norma_id": 500
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1291,
+      "norma_id": 252
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2909,
+      "norma_id": 1210
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1292,
+      "norma_id": 251
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1769,
+      "norma_id": 499
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1294,
+      "norma_id": 250
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2910,
+      "norma_id": 1209
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3006,
+      "norma_id": 3344
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2912,
+      "norma_id": 1208
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1295,
+      "norma_id": 249
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 713,
+      "norma_id": 498
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1296,
+      "norma_id": 248
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1770,
+      "norma_id": 11890
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3005,
+      "norma_id": 3343
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2913,
+      "norma_id": 1207
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 351,
+      "norma_id": 247
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2914,
+      "norma_id": 1206
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1302,
+      "norma_id": 246
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 123,
+      "norma_id": 711
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1304,
+      "norma_id": 245
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1771,
+      "norma_id": 496
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1303,
+      "norma_id": 244
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 475,
+      "norma_id": 495
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 686,
+      "norma_id": 243
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2917,
+      "norma_id": 1204
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1305,
+      "norma_id": 242
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2897,
+      "norma_id": 1203
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1321,
+      "norma_id": 241
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2918,
+      "norma_id": 1202
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 687,
+      "norma_id": 240
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1772,
+      "norma_id": 494
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1320,
+      "norma_id": 239
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2667,
+      "norma_id": 1201
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1322,
+      "norma_id": 238
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2919,
+      "norma_id": 1200
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1323,
+      "norma_id": 237
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1328,
+      "norma_id": 1199
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5278,
+      "norma_id": 1555
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 184,
+      "norma_id": 493
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5277,
+      "norma_id": 1554
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2922,
+      "norma_id": 1198
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1324,
+      "norma_id": 235
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2923,
+      "norma_id": 1197
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 350,
+      "norma_id": 236
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 274,
+      "norma_id": 491
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1325,
+      "norma_id": 234
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2924,
+      "norma_id": 1196
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1274,
+      "norma_id": 233
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1332,
+      "norma_id": 490
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1326,
+      "norma_id": 232
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2926,
+      "norma_id": 1194
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1327,
+      "norma_id": 231
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2928,
+      "norma_id": 1193
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1328,
+      "norma_id": 229
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1897,
+      "norma_id": 6938
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1329,
+      "norma_id": 228
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2929,
+      "norma_id": 1192
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 66,
+      "norma_id": 410
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2930,
+      "norma_id": 1191
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 748,
+      "norma_id": 409
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2931,
+      "norma_id": 4550
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 550,
+      "norma_id": 408
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2932,
+      "norma_id": 4549
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1330,
+      "norma_id": 407
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2933,
+      "norma_id": 1190
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 2476,
+      "norma_id": 1793
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2152,
+      "norma_id": 1189
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5,
+      "norma_id": 1493
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2934,
+      "norma_id": 1188
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 4,
+      "norma_id": 1492
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1700,
+      "norma_id": 1187
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3,
+      "norma_id": 1491
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2935,
+      "norma_id": 1186
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3002,
+      "norma_id": 3340
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2936,
+      "norma_id": 1185
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1341,
+      "norma_id": 405
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 709,
+      "norma_id": 489
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1331,
+      "norma_id": 404
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 474,
+      "norma_id": 488
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1332,
+      "norma_id": 403
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 493,
+      "norma_id": 486
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1336,
+      "norma_id": 402
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 93,
+      "norma_id": 484
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1338,
+      "norma_id": 401
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 114,
+      "norma_id": 483
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1339,
+      "norma_id": 400
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2937,
+      "norma_id": 1184
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1333,
+      "norma_id": 399
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2939,
+      "norma_id": 1183
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1334,
+      "norma_id": 398
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2940,
+      "norma_id": 1182
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1335,
+      "norma_id": 397
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2941,
+      "norma_id": 1181
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5066,
+      "norma_id": 1794
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2942,
+      "norma_id": 1180
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1337,
+      "norma_id": 396
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1342,
+      "norma_id": 481
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3001,
+      "norma_id": 3339
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1738,
+      "norma_id": 480
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1340,
+      "norma_id": 395
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1773,
+      "norma_id": 479
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1342,
+      "norma_id": 394
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2945,
+      "norma_id": 1179
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 619,
+      "norma_id": 393
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2946,
+      "norma_id": 1178
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 349,
+      "norma_id": 392
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2948,
+      "norma_id": 1177
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5302,
+      "norma_id": 1796
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1762,
+      "norma_id": 1176
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1346,
+      "norma_id": 391
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2949,
+      "norma_id": 1175
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1343,
+      "norma_id": 390
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2950,
+      "norma_id": 1174
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5260,
+      "norma_id": 1797
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2951,
+      "norma_id": 1173
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1347,
+      "norma_id": 389
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1425,
+      "norma_id": 707
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1344,
+      "norma_id": 388
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2952,
+      "norma_id": 1172
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1345,
+      "norma_id": 387
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2954,
+      "norma_id": 1171
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1373,
+      "norma_id": 12
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 4713,
+      "norma_id": 8351
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 348,
+      "norma_id": 386
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2956,
+      "norma_id": 1284
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 2044,
+      "norma_id": 385
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2957,
+      "norma_id": 1283
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1348,
+      "norma_id": 384
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1774,
+      "norma_id": 552
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1349,
+      "norma_id": 383
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 268,
+      "norma_id": 551
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1350,
+      "norma_id": 382
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 564,
+      "norma_id": 550
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 65,
+      "norma_id": 381
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 325,
+      "norma_id": 549
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1352,
+      "norma_id": 380
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 761,
+      "norma_id": 539
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1353,
+      "norma_id": 379
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2921,
+      "norma_id": 1282
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5300,
+      "norma_id": 1798
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2958,
+      "norma_id": 1281
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1354,
+      "norma_id": 378
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2959,
+      "norma_id": 1280
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1301,
+      "norma_id": 377
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2960,
+      "norma_id": 1279
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1355,
+      "norma_id": 376
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2961,
+      "norma_id": 1278
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1351,
+      "norma_id": 375
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2962,
+      "norma_id": 1277
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1359,
+      "norma_id": 374
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2963,
+      "norma_id": 1276
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 732,
+      "norma_id": 373
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 681,
+      "norma_id": 538
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1356,
+      "norma_id": 372
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1668,
+      "norma_id": 537
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1357,
+      "norma_id": 371
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2964,
+      "norma_id": 1275
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1358,
+      "norma_id": 370
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2965,
+      "norma_id": 1274
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1362,
+      "norma_id": 369
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 639,
+      "norma_id": 1273
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 572,
+      "norma_id": 368
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 762,
+      "norma_id": 536
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5299,
+      "norma_id": 1799
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1424,
+      "norma_id": 535
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1364,
+      "norma_id": 367
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2881,
+      "norma_id": 1272
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1369,
+      "norma_id": 366
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2966,
+      "norma_id": 1271
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1242,
+      "norma_id": 363
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2974,
+      "norma_id": 1270
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1375,
+      "norma_id": 362
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2059,
+      "norma_id": 9240
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1360,
+      "norma_id": 361
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1166,
+      "norma_id": 1269
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1250,
+      "norma_id": 360
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1539,
+      "norma_id": 534
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1293,
+      "norma_id": 359
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2975,
+      "norma_id": 1268
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1372,
+      "norma_id": 358
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2976,
+      "norma_id": 1267
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 3000,
+      "norma_id": 3338
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2920,
+      "norma_id": 1266
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1299,
+      "norma_id": 357
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1865,
+      "norma_id": 1265
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1249,
+      "norma_id": 356
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1777,
+      "norma_id": 532
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1376,
+      "norma_id": 355
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1618,
+      "norma_id": 13488
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1377,
+      "norma_id": 354
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 764,
+      "norma_id": 530
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 2998,
+      "norma_id": 3336
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2978,
+      "norma_id": 1263
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 2997,
+      "norma_id": 3335
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2979,
+      "norma_id": 1262
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 2994,
+      "norma_id": 3334
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2980,
+      "norma_id": 1261
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 347,
+      "norma_id": 353
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2981,
+      "norma_id": 1260
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1366,
+      "norma_id": 352
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2049,
+      "norma_id": 1259
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1378,
+      "norma_id": 351
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2983,
+      "norma_id": 1258
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1390,
+      "norma_id": 350
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2984,
+      "norma_id": 4548
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1393,
+      "norma_id": 11
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2470,
+      "norma_id": 8264
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1395,
+      "norma_id": 10
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2986,
+      "norma_id": 1257
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1385,
+      "norma_id": 349
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 39,
+      "norma_id": 529
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1365,
+      "norma_id": 348
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1276,
+      "norma_id": 1256
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1386,
+      "norma_id": 347
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 273,
+      "norma_id": 528
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1391,
+      "norma_id": 346
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2988,
+      "norma_id": 1255
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1396,
+      "norma_id": 345
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2989,
+      "norma_id": 1254
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5292,
+      "norma_id": 1801
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1283,
+      "norma_id": 8224
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1403,
+      "norma_id": 344
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2992,
+      "norma_id": 1252
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1398,
+      "norma_id": 343
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 60,
+      "norma_id": 527
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1399,
+      "norma_id": 342
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2995,
+      "norma_id": 1249
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1404,
+      "norma_id": 341
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 622,
+      "norma_id": 526
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1405,
+      "norma_id": 340
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 122,
+      "norma_id": 525
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1416,
+      "norma_id": 339
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 450,
+      "norma_id": 708
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 2439,
+      "norma_id": 2689
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 267,
+      "norma_id": 524
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1406,
+      "norma_id": 338
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2997,
+      "norma_id": 1248
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5289,
+      "norma_id": 1802
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2999,
+      "norma_id": 1247
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1397,
+      "norma_id": 337
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2944,
+      "norma_id": 1245
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 2438,
+      "norma_id": 2686
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2947,
+      "norma_id": 1244
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 4776,
+      "norma_id": 2685
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3000,
+      "norma_id": 1243
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5320,
+      "norma_id": 1803
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3001,
+      "norma_id": 1242
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1381,
+      "norma_id": 336
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2847,
+      "norma_id": 1240
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1384,
+      "norma_id": 335
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3003,
+      "norma_id": 1239
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 628,
+      "norma_id": 333
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2817,
+      "norma_id": 1238
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1418,
+      "norma_id": 331
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1423,
+      "norma_id": 523
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1417,
+      "norma_id": 330
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 794,
+      "norma_id": 522
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1370,
+      "norma_id": 329
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2890,
+      "norma_id": 1237
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 69,
+      "norma_id": 328
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3004,
+      "norma_id": 1236
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5063,
+      "norma_id": 1804
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3005,
+      "norma_id": 1235
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1415,
+      "norma_id": 327
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1776,
+      "norma_id": 521
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1413,
+      "norma_id": 326
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3006,
+      "norma_id": 1234
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5319,
+      "norma_id": 1805
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 674,
+      "norma_id": 520
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1419,
+      "norma_id": 325
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 506,
+      "norma_id": 519
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1422,
+      "norma_id": 324
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 96,
+      "norma_id": 518
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 484,
+      "norma_id": 1807
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 132,
+      "norma_id": 517
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 2,
+      "norma_id": 1490
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 768,
+      "norma_id": 515
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1139,
+      "norma_id": 323
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3007,
+      "norma_id": 1233
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1387,
+      "norma_id": 322
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3008,
+      "norma_id": 1232
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1410,
+      "norma_id": 320
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3009,
+      "norma_id": 1231
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1411,
+      "norma_id": 319
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 113,
+      "norma_id": 514
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1409,
+      "norma_id": 318
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 772,
+      "norma_id": 513
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 570,
+      "norma_id": 317
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 37,
+      "norma_id": 512
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1414,
+      "norma_id": 316
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3010,
+      "norma_id": 1230
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5314,
+      "norma_id": 1808
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2590,
+      "norma_id": 7450
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5313,
+      "norma_id": 1809
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 664,
+      "norma_id": 1229
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1408,
+      "norma_id": 315
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3011,
+      "norma_id": 1228
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1407,
+      "norma_id": 314
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3013,
+      "norma_id": 1227
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1423,
+      "norma_id": 313
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3014,
+      "norma_id": 1226
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5310,
+      "norma_id": 1810
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 473,
+      "norma_id": 511
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1424,
+      "norma_id": 312
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3015,
+      "norma_id": 1225
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 2610,
+      "norma_id": 311
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3016,
+      "norma_id": 1224
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1435,
+      "norma_id": 310
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3017,
+      "norma_id": 1223
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1261,
+      "norma_id": 309
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1697,
+      "norma_id": 585
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 62,
+      "norma_id": 308
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 70,
+      "norma_id": 584
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 2988,
+      "norma_id": 3326
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1780,
+      "norma_id": 583
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 2987,
+      "norma_id": 3325
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 499,
+      "norma_id": 582
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 346,
+      "norma_id": 307
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1782,
+      "norma_id": 581
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1441,
+      "norma_id": 306
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 773,
+      "norma_id": 580
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 345,
+      "norma_id": 305
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 682,
+      "norma_id": 577
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1400,
+      "norma_id": 304
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 323,
+      "norma_id": 578
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1442,
+      "norma_id": 303
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9168,
+      "norma_id": 24762
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1443,
+      "norma_id": 302
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3020,
+      "norma_id": 1339
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1368,
+      "norma_id": 301
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3021,
+      "norma_id": 1338
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1260,
+      "norma_id": 300
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2953,
+      "norma_id": 1337
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1258,
+      "norma_id": 299
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3022,
+      "norma_id": 1336
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1259,
+      "norma_id": 298
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3025,
+      "norma_id": 16609
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 701,
+      "norma_id": 297
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3026,
+      "norma_id": 1333
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1402,
+      "norma_id": 296
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2469,
+      "norma_id": 8162
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1401,
+      "norma_id": 295
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1427,
+      "norma_id": 574
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 336,
+      "norma_id": 294
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 121,
+      "norma_id": 573
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1247,
+      "norma_id": 293
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3028,
+      "norma_id": 1332
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1245,
+      "norma_id": 292
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1784,
+      "norma_id": 572
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 441,
+      "norma_id": 291
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 663,
+      "norma_id": 1331
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 2143,
+      "norma_id": 290
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2464,
+      "norma_id": 8022
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1241,
+      "norma_id": 289
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2982,
+      "norma_id": 1330
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1246,
+      "norma_id": 288
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2985,
+      "norma_id": 1329
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5308,
+      "norma_id": 1813
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3029,
+      "norma_id": 1328
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 528,
+      "norma_id": 286
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3030,
+      "norma_id": 1327
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 527,
+      "norma_id": 285
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 589,
+      "norma_id": 1326
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1383,
+      "norma_id": 284
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 588,
+      "norma_id": 1325
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1382,
+      "norma_id": 283
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1364,
+      "norma_id": 571
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5307,
+      "norma_id": 1814
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3033,
+      "norma_id": 1324
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1240,
+      "norma_id": 282
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3035,
+      "norma_id": 1323
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5306,
+      "norma_id": 1815
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 409,
+      "norma_id": 1322
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 341,
+      "norma_id": 281
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3036,
+      "norma_id": 1321
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1238,
+      "norma_id": 280
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3037,
+      "norma_id": 1320
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1236,
+      "norma_id": 487
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3038,
+      "norma_id": 1319
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1235,
+      "norma_id": 486
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 607,
+      "norma_id": 570
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 374,
+      "norma_id": 485
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3040,
+      "norma_id": 1317
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1449,
+      "norma_id": 484
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 705,
+      "norma_id": 569
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1234,
+      "norma_id": 483
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 266,
+      "norma_id": 568
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1230,
+      "norma_id": 482
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2442,
+      "norma_id": 1316
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1229,
+      "norma_id": 481
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3041,
+      "norma_id": 1315
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1452,
+      "norma_id": 480
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3042,
+      "norma_id": 1314
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 39,
+      "norma_id": 479
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3043,
+      "norma_id": 1313
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1225,
+      "norma_id": 478
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3044,
+      "norma_id": 1312
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1361,
+      "norma_id": 477
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1663,
+      "norma_id": 567
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1222,
+      "norma_id": 476
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3049,
+      "norma_id": 1311
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1388,
+      "norma_id": 475
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3050,
+      "norma_id": 1310
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1116,
+      "norma_id": 474
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 57,
+      "norma_id": 565
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5342,
+      "norma_id": 1816
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1660,
+      "norma_id": 564
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5341,
+      "norma_id": 1817
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1725,
+      "norma_id": 563
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1434,
+      "norma_id": 473
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1779,
+      "norma_id": 562
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1219,
+      "norma_id": 472
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 55,
+      "norma_id": 719
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1221,
+      "norma_id": 471
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1644,
+      "norma_id": 559
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1444,
+      "norma_id": 470
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3051,
+      "norma_id": 4546
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1433,
+      "norma_id": 469
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 701,
+      "norma_id": 558
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1432,
+      "norma_id": 468
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3053,
+      "norma_id": 1308
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1300,
+      "norma_id": 467
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1702,
+      "norma_id": 557
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1217,
+      "norma_id": 466
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 299,
+      "norma_id": 1307
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 746,
+      "norma_id": 465
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3054,
+      "norma_id": 1306
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5061,
+      "norma_id": 1818
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3055,
+      "norma_id": 1305
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1445,
+      "norma_id": 464
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3056,
+      "norma_id": 1304
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5340,
+      "norma_id": 1819
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 544,
+      "norma_id": 1303
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1438,
+      "norma_id": 463
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3057,
+      "norma_id": 1302
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5339,
+      "norma_id": 1820
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 443,
+      "norma_id": 556
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1216,
+      "norma_id": 462
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3058,
+      "norma_id": 1301
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1215,
+      "norma_id": 461
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3059,
+      "norma_id": 1300
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1439,
+      "norma_id": 460
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 587,
+      "norma_id": 1299
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1214,
+      "norma_id": 459
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3060,
+      "norma_id": 1298
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1211,
+      "norma_id": 489
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3061,
+      "norma_id": 1296
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1450,
+      "norma_id": 458
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3062,
+      "norma_id": 1295
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1213,
+      "norma_id": 457
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 265,
+      "norma_id": 555
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5338,
+      "norma_id": 1821
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1643,
+      "norma_id": 554
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1212,
+      "norma_id": 456
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1468,
+      "norma_id": 553
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5337,
+      "norma_id": 1822
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3063,
+      "norma_id": 1294
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5336,
+      "norma_id": 1823
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3064,
+      "norma_id": 1293
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1428,
+      "norma_id": 455
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3065,
+      "norma_id": 1292
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5335,
+      "norma_id": 1824
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1391,
+      "norma_id": 7516
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1425,
+      "norma_id": 454
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 5826,
+      "norma_id": 7507
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1436,
+      "norma_id": 453
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3066,
+      "norma_id": 1291
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5052,
+      "norma_id": 1825
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3067,
+      "norma_id": 1290
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 409,
+      "norma_id": 452
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 2854,
+      "norma_id": 1289
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 2976,
+      "norma_id": 3319
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3068,
+      "norma_id": 1288
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 713,
+      "norma_id": 451
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1616,
+      "norma_id": 13486
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 338,
+      "norma_id": 450
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3069,
+      "norma_id": 1287
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1255,
+      "norma_id": 447
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3071,
+      "norma_id": 1286
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1210,
+      "norma_id": 446
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 35,
+      "norma_id": 1285
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1426,
+      "norma_id": 445
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3072,
+      "norma_id": 1397
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 2342,
+      "norma_id": 444
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3073,
+      "norma_id": 1396
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 2142,
+      "norma_id": 488
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3074,
+      "norma_id": 1395
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1208,
+      "norma_id": 443
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3075,
+      "norma_id": 1394
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1209,
+      "norma_id": 442
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1642,
+      "norma_id": 643
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 2975,
+      "norma_id": 3318
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1641,
+      "norma_id": 642
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 2974,
+      "norma_id": 3317
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 316,
+      "norma_id": 641
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 718,
+      "norma_id": 441
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1422,
+      "norma_id": 640
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1437,
+      "norma_id": 440
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 173,
+      "norma_id": 639
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 337,
+      "norma_id": 439
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1790,
+      "norma_id": 638
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 2973,
+      "norma_id": 3316
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 135,
+      "norma_id": 637
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5327,
+      "norma_id": 1828
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 9,
+      "norma_id": 636
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 5326,
+      "norma_id": 1829
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 315,
+      "norma_id": 635
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1207,
+      "norma_id": 438
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 3076,
+      "norma_id": 1393
+    },
+    {
+      "host": "sapl.agudo.rs.leg.br",
+      "ta_id": 1429,
+      "norma_id": 437
+    },
+    {
+      "host": "sapl.portovelho.ro.leg.br",
+      "ta_id": 1873,
+      "norma_id": 1392
+    }
+  ]
+}

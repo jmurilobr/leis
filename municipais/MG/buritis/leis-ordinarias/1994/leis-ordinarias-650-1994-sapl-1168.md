@@ -1,0 +1,225 @@
+---
+titulo: "Lei nº 650, de 22 de agosto de 1994"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "650"
+data: "1994-08-22"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/1168"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/1471/text"
+sha256_fonte: "d7e30d08a852d23df82dc452112ddf6c6019368fa2bfdef597c8b6297d19f5c0"
+sha256_texto: "2b63289909f0b14b3b0fdb52bd1e962ccfb6a2f484bc24e5364bda74403276d2"
+capturado_em_fonte: "2026-10-27T20:29:42.427215-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 650, de 22 de agosto de 1994
+
+Estabelece diretrizes para a elaboração do orçamento para o exercício de 1995 e dá outras providências.
+
+
+O povo, por seus representantes, aprova e o Prefeito Municipal sanciona a seguinte Lei:
+
+
+Art. 1º.
+
+A Lei orçamentária do exercício de 1995 será elaborada de conformidade com as diretrizes desta lei, em consonância com os princípios estabelecidos na Constituição Federal, na Constituição Estadual, na Lei Orgânica e na Lei nº 4320/64, no que couber.
+
+
+Art. 2º.
+
+A previsão das receitas far-se-á tendo por base:
+
+
+I –
+
+A atualização de plantas de valores de imóveis para a projeção do imposto sobre a propriedade predial e territorial urbana;
+
+
+II –
+
+a atualização do Cadastro de Contribuinte de impostos sobre serviços de qualquer natureza e a projeção das valores com base nas receitas realizadas no exercício do ano anterior ao da elaboração da proposta, corrigidas pelos índices oficiais de inflação;
+
+
+III –
+
+a atualização dos valores do imposto sobre a transmissão inter vivos de bens imóveis, aplicando-se lhes os índices oficiais de inflação do período;
+
+
+IV –
+
+a atualização dos valores arrecadados, pertinentes ao imposto de venda a varejo de combustíveis líquidos e gasosos, levando-se em conta o aumento resultante da Lei:
+
+
+a)
+
+Ampliação da frota de veículos;
+
+
+b)
+
+Maior demanda de gás liquefeito de Petróleo decorrente do crescimento da população.
+
+
+Parágrafo único
+
+As taxas e demais receitas próprias aplicar-se-ão os mesmos critérios de atualização dos valores resultantes de impostos.
+
+
+Art. 3º.
+
+Das receitas procedentes de transferências constitucionais, originárias das outras esferas de Governo, adotar-se-ão os seguintes critérios:
+
+
+I –
+
+As projeções dos valores a que se referem os incisos II e III, do art. 158 da Constituição Federal, obedecerão às normas de atualização referidas no artigo anterior;
+
+
+II –
+
+As projeções das transferências aludidas nos artigos 158, IV e 159, I, b, da Constituição Federal, serão elaboradas por órgão oficial de Estado do Governo de Minas Gerais e comunicados ao Município;
+
+
+III –
+
+O valor da quota parte a ser repassada ao Município, nos termos do art. 159, § 3º, estará incluído no total da projeção do valor a que se refere o artigo 158, IV, mencionado no inciso II deste artigo.
+
+
+Parágrafo único
+
+A comunicação ao Município dos valores mencionados no inciso II, por órgão estadual, ocorrerá até o final do 7º (primeiro) mês do exercício financeiro de elaboração da proposta orçamentária.
+
+
+Art. 4º.
+
+Os órgãos componentes da administração direta do poder executivo, encaminharão ao órgão central de contabilidade até o dia 30 (trinta) de agosto as versões preliminares das suas despesas para o exercício.
+
+
+§ 1º
+
+Os órgãos da administração descentralizada que receberem recursos do Tesouro do Município, encaminharão a programação das suas necessidades financeiras na data referida no caput do artigo.
+
+
+§ 2º
+
+O Poder Legislativo, na mesma data, encaminhará a previsão de suas despesas para o exercício em foco.
+
+
+§ 3º
+
+Os órgãos referidos no caput do artigo e em seu parágrafo 2º, entregarão as suas previsões de despesas a nível de elementos, de modo a adequar os gastos com pessoal e os deles decorrentes, ao limite estabelecido no artigo 38, dos Atos das Disposições Transitórias da Constituição Federal.
+
+
+Art. 5º.
+
+A lei de Orçamento destinará recursos, obrigatoriamente, ao desenvolvimento do ensino, nos termos do art. 212 da Constituição Federal.
+
+
+§ 1º
+
+Os recursos destinados ao desenvolvimento do ensino serão no mínimo 25% (vinte e cinco por cento) das receitas provenientes de:
+
+
+I –
+
+Receita tributária oriunda de impostos;
+
+
+II –
+
+Receitas transferidas pelo Governo do Estado, referidas nos incisos I, II e III do artigo 150 da Constituição Estadual;
+
+
+III –
+
+Receitas transferidas, nos termos do artigo 158, I e II da Constituição Federal;
+
+
+IV –
+
+transferência da União, referida no artigo 159, I, b, combinado com o artigo 34, § 2º, III dos Atos das disposições transitórias da Constituição Federal.
+
+
+§ 2º
+
+Os recursos mencionados no Parágrafo anterior serão aplicados, prioritariamente, no ensino fundamental.
+
+
+§ 3º
+
+Os sistemas de Saúde, de assistência social e de proteção ao meio ambiente terão preferência na distribuição de recursos não comprometidos por disposições constitucionais.
+
+
+Art. 6º.
+
+O orçamento consignará recursos necessários ao pagamento do débito para a previdência social, de modo a evitar as sanções previstas no artigo 160 e seu Parágrafo Único, da Constituição Federal.
+
+
+Art. 7º.
+
+O orçamento assegurará recursos destinados à atualização da sua dívida fundada, interna e externa, em atendimento ao disposto no art. 35, I da Constituição Federal.
+
+
+Art. 8º.
+
+Os recursos destinados ao desenvolvimento do ensino, referidos no artigo 5º desta lei, poderão ser aplicados de conformidade com o artigo 213 da Constituição Federal, em consonância com o disposto na instrução nº 02/91 do Tribunal de Contas do Estado de Minas Gerais.
+
+
+Art. 9º.
+
+Nenhuma obra será iniciada ou executada sem que as reservas de recursos previstas nos artigos 5º, 6º e 7º desta lei hajam sido efetivadas
+
+
+Parágrafo único
+
+É vedado o início de programas ou projetos não incluídos na lei orçamentária anual.
+
+
+Art. 10.
+
+A concessão de subvenções sociais obedecerão rigorosamente as normas contidas na lei federal 4320/64, nos arts. 16 e 17.
+
+
+Art. 11.
+
+A lei de Orçamento poderá conter autorização, ao Poder Executivo para, por meio de Decreto, abrir crédito suplementar até 50% (cinquenta por cento) dos créditos aprovados.
+
+
+Parágrafo único
+
+Os recursos necessários à abertura de créditos referidos no artigo, correrão à conta de anulações parciais ou totais dos créditos autorizados, cujos saldos estejam disponíveis.
+
+
+Art. 12.
+
+Fica o executivo municipal autorizado a utilizar do superávit financeiro e do excesso de arrecadação a serem verificados de acordo com o disposto nos artigos 42 e 43 e complementários da lei nº 4320/64, como recursos para abertura de créditos suplementares às dotações orçamentárias.
+
+
+Art. 13.
+
+As operações de créditos serão contratados obedecendo-se, sem prejuízo de outras exigências previstas em lei, os limites determinados no art. 167, III, da Constituição Federal.
+
+
+Art. 14.
+
+Esta Lei, entrará em vigor na data de sua publicação.
+
+
+Art. 15.
+
+Revogam-se as disposições em contrário.
+
+
+Buritis-MG, 22 de setembro de 1994.
+
+**Pedro Jary Taborda Prefeito Municipal**
+
+Projeto de lei nº 44/94 de 09/07/94. Aprovado em 1ª (primeira) discussão por 10 votos a favor e -00- votos contra, sala das sessões 15/08/94. Aprovado em 2ª (segunda) discussão por 10 votos a favor e -00- contra, sala das sessões 22/08/94.
+

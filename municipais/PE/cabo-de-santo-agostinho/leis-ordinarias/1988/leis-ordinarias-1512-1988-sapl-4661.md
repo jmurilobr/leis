@@ -1,0 +1,857 @@
+---
+titulo: "Lei Ordinária nº 1.512, de 09 de novembro de 1988"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1512"
+data: "1988-11-09"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/4661"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/4715/text"
+sha256_fonte: "5252d3597ecb569834720628ab085210d1028a1a32e0ca9a26aa1bc2aeeb1dfb"
+sha256_texto: "10c7af50684db31a9b956841af4222c3af6db339659c2d3ed1f6d026d4220da3"
+capturado_em_fonte: "2026-10-27T21:59:51.443193-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.512, de 09 de novembro de 1988
+
+APROVA O ESTATUTO DOS PROFISSIONAIS DO MAGISTÉRIO DO MUNICÍPIO DO CABO e dá outras providências.
+
+
+Art. 1º.
+
+Fica aprovado o ESTATUTO DOS PROFISSIONAIS DO MAGISTÉRIO do Município do Cabo, embasado na Lei Federal nº 5.692, de 11 de agosto de 1971 e de acordo com a Lei Municipal nº 1.453/87 de 27 de Outubro de 1987, que Cria o ESTATUTO DO MAGISTÉRIO no Município do Cabo.
+
+
+Art. 2º.
+
+O ESTATUTO de que trata o artigo anterior terá a seguinte redação:
+
+
+**ESTATUTO DOS PROFISSIONAIS DO MAGISTÉRIO DO MUNICÍPIO DO CABO**
+
+
+### TÍTULO I
+
+
+Disposições Preliminares
+
+
+Art. 1º.
+
+O presente ESTATUTO, com base na Lei Federal Nº 5.692, de 11 de agosto de 1971, vem disciplinar os atos administrativos e pedagógicos e estabelecer direitos e obrigações do pessoal do Magistério, Pré-Escolar, 1º e 2º Graus, vinculados à Administração direta deste Município do Cabo.
+
+
+§ 1º
+
+Por atos pedagógicos, entende-se a estrutura e regulamentação, bem como a melhoria da especialização e qualificação dos profissionais do Magistério.
+
+
+§ 2º
+
+Por atos administrativos, entende-se a nomeação, classificação e promoção dos níveis e categorias profissionais de acordo com a Legislação vigente neste Estatuto.
+
+
+Art. 2º.
+
+Por Profissionais do Magistério, entende-se o professor de 1º Grau Menor e 2º Grau, os Coordenadores de Turno I e II, os Especialistas em Educação e o Instrutor de Artes.
+
+
+§ 1º
+
+Considera-se Especialista em Educação, o Profissional de curso de Pedagogia com habilitação em Supervisão, Orientação Educacional e Administração Escolar;
+
+
+§ 2º
+
+Considera-se Instrutor de Artes, o Profissional que ministrar aulas de artes domésticas.
+
+
+### TÍTULO II — Dos Profissionais do Magistério
+
+
+#### CAPÍTULO I — Do Ingresso e Permanência
+
+
+Art. 3º.
+
+Ingressará na Secretaria Municipal de Educação, para o exercício do Magistério, o profissional selecionado através de Concurso Público.
+
+
+Art. 4º.
+
+O concurso Público será realizado sempre que se fizer necessário, mediante Decreto do Prefeito Municipal, publicado no Diário Oficial do Estado, estabelecendo as condições e critérios.
+
+
+§ 1º
+
+Terão direitos à inscrição para o concurso público os seguintes profissionais:
+
+
+a)
+
+Professor com Diploma de Magistério a nível de 1º Grau menor;
+
+
+b)
+
+Professor com diploma de curso superior para regência de classe a nível de 1º Grau Maior e 2º Grau;
+
+
+c)
+
+Profissionais formados em Pedagogia com habilitação em Supervisão, Orientação Educacional e Administração Escolar, para o exercício de atividades compatíveis com sua formação.
+
+
+d)
+
+Instrutor de Artes com certificado de 1º Grau menor e certificado específico de sua habilitação, ingressará mediante critérios estabelecidos pela Secretaria de Educação.
+
+
+Art. 5º.
+
+Ingressará a nível de Estágio Remunerado, a Professoranda concluinte do curso de magistério o Professor Estudante, a partir do 5º período de licenciatura Plena e 3º período de Licenciatura curta, para substituir titular por um prazo máximo de 90 dias, não podendo o mesmo ter garantia de vínculo empregatício, após o referido estágio.
+
+
+Art. 6º.
+
+As faixas de remuneração salarial serão selecionadas de acordo com o grau de formação mínima e critérios de progressão por tempo de serviço.
+
+
+Parágrafo único
+
+A diferença entre as diversas faixas salariais estará determinada pelo Plano de Cargos e Salários da Prefeitura Municipal do Cabo.
+
+
+Art. 7º.
+
+Professor de 1º Grau Menor:
+
+
+I –
+
+Professor de 1º Grau Menor - Formado
+
+
+1
+
+10.906,06
+
+
+2
+
+11.396,83
+
+
+3
+
+11.909,69
+
+
+4
+
+12.445,63
+
+
+5
+
+13.005,68
+
+
+II –
+
+Professor de 1º Grau Menor - Estudante
+
+
+1
+
+10.439,78
+
+
+2
+
+10.909,57
+
+
+3
+
+11.400,50
+
+
+4
+
+11.213,52
+
+
+5
+
+12.449,63
+
+
+Art. 8º.
+
+Professor Licenciatura Curta
+
+
+1
+
+102,96 por aula
+
+
+2
+
+107,59 por aula
+
+
+3
+
+112,43 por aula
+
+
+4
+
+117,49 por aula
+
+
+5
+
+122,78 por aula
+
+
+Art. 9º.
+
+Professor Licenciatura Plena
+
+
+1
+
+124,18 por aula
+
+
+2
+
+129,71 por aula
+
+
+3
+
+135,55 por aula
+
+
+4
+
+141,65 por aula
+
+
+5
+
+148,02 por aula
+
+
+Art. 10.
+
+Coordenador de Turno
+
+
+1
+
+9.163,08
+
+
+2
+
+9.575,42
+
+
+3
+
+10.008,81
+
+
+4
+
+10.456,59
+
+
+5
+
+10.927,14
+
+
+Art. 11.
+
+Coordenador de Turno II
+
+
+1
+
+11.982,71
+
+
+2
+
+12.469,68
+
+
+3
+
+13.030,82
+
+
+4
+
+13.617,21
+
+
+5
+
+14.229,98
+
+
+Art. 12.
+
+Instrutor de Artes
+
+
+1
+
+10.906,08
+
+
+2
+
+11.396,83
+
+
+3
+
+11.909,69
+
+
+4
+
+12.445,63
+
+
+5
+
+13.005,68
+
+
+Art. 13.
+
+Supervisor e Orientador Educacional
+
+
+1
+
+20.236,46
+
+
+2
+
+21.147,10
+
+
+3
+
+22.098,72
+
+
+4
+
+23.093,18
+
+
+5
+
+24.138,35
+
+
+Art. 14.
+
+O professor de 1º Grau Menor com curso superior em Educação, comprovado através de diploma de conclusão, havendo disponibilidade de aulas, passará o professor de 1º Grau Maior e/ou 2º Grau, de acordo com sua licenciatura.
+
+
+Parágrafo único
+
+O Professor poderá acumular até o máximo de 100 horas/aulas mensais em turmas a partir da 5º série, percebendo pelas mesmas, salário compatível com sua licenciatura.
+
+
+Art. 15.
+
+A Promoção dar-se-á das seguintes formas:
+
+
+§ 1º
+
+Por concurso interno estabelecido por portaria do Secretário de Educação, com a regulamentação específica e exigência para o mesmo a cada dois anos;
+
+
+§ 2º
+
+Por títulos obtidos em especialização na área de Educação mediante critérios estabelecidos pela Secretaria de Educação.
+
+
+§ 3º
+
+Por eficiência no desempenho de suas atividades profissionais, mediante seleção e indicação do cargo docente e direção da Escola, segundo regimento escolar.
+
+
+Art. 16.
+
+A cada dez anos, todos os profissionais do Magistério terão uma progressão automática de 15% sobre seu salário.
+
+
+Parágrafo único
+
+O decênio será regulamentado a partir de aprovação deste Estatuto.
+
+
+### TÍTULO III — Do Administrador Escolar
+
+
+#### CAPÍTULO I — Da Nomeação
+
+
+Art. 17.
+
+Os cargos de direção de Escolas serão preenchidos através de eleições diretas para os mesmos, realizadas pelos professores, alunos, funcionários da escola e representante da comunidade, sendo a nomeação feita pelo Prefeito.
+
+
+§ 1º
+
+O mandato terá a duração de dois anos, sendo permitida a recondução, com eleição, por um período consecutivo.
+
+
+§ 2º
+
+A eleição será regulamentada por decreto, com a participação das partes envolvidas.
+
+
+#### CAPÍTULO II — Das Férias
+
+
+Art. 18.
+
+O Diretor e/ou Vice-Diretor gozarão férias obedecendo a escala previamente estabelecida a critério da Secretaria de Educação.
+
+
+#### CAPÍTULO III — Da Classificação Salarial e Regime de Trabalho
+
+
+Art. 19.
+
+As Escolas de 1º Grau Maior e 2º Grau serão dirigidas por portador de diploma de Licenciatura Plena em Pedagogia com habilitação em Administração Escolar ou Registro definitivo de Diretor obtido antes da Lei 5.692/71.
+
+
+§ 1º
+
+Na impossibilidade de preencher estes requisitos, a Escola poderá ser dirigida por Professora com habilitação em licenciatura Plena em qualquer área.
+
+
+§ 2º
+
+O Professor terá que ter dois anos de efetivo exercício na Sec. de Educação para poder concorrer à vaga de Direção.
+
+
+Art. 20.
+
+As Escolas de 1º Grau Menor serão dirigidas por Professores com diploma em magistério a nível de 2º Grau.
+
+
+Art. 21.
+
+O Diretor de Escola de 1º e 2º Graus terá salário equivalente a 200 horas/aulas e uma gratificação de acordo com seu nível e proporcional ao número de turmas da Escola.
+
+
+§ 1º
+
+Nas Unidades Escolares até 10 turmas, a gratificação não ultrapassará a 50% do salário; nas Unidades Escolares de até 20 turmas a gratificação será de 60%; nas unidades escolares acima de 20 turmas, a gratificação será de 70%.
+
+
+§ 2º
+
+Nas Escolas de 1º Grau menor, o diretor terá a gratificação nas mesmas proporções referentes ao salário de professor de magistério a nível de 2º Grau.
+
+
+§ 3º
+
+Em todos os casos a gratificação do Vice-Diretor será 20% inferior a do diretor.
+
+
+§ 4º
+
+O Supervisor e Orientador Educacional terá uma gratificação de 20%, sobre seu salário, quando no exercício de sua função.
+
+
+Art. 22.
+
+O regime de trabalho para Diretores e Vice-Diretores de 1º Grau Maior e 2º grau será de oito horas diárias, ficando os mesmos dispensados de ministrar aulas.
+
+
+Art. 23.
+
+O regime de trabalho para Diretores e vice-diretores de escolas de 1º grau menor está de seis horas diárias, ficando os mesmos dispensados de ministrar aulas, quando o Regimento Escolar assim o determinar.
+
+
+### TÍTULO IV — Do Regime de Trabalho
+
+
+#### CAPÍTULO I — Do Profissional do Magistério
+
+
+Art. 24.
+
+A Jornada de trabalho obrigatória para o Professor de Pré-Escolar, 1º Grau Menor e Instrutor de Artes será de quatro horas diárias, perfazendo um total de 20 horas semanais.
+
+
+Parágrafo único
+
+Os profissionais acima citados após o desempenho de suas funções docentes, complementarão a carga horária prevista quando forem chamados para participar em atividades próprias da Escola, conforme Regimento.
+
+
+Art. 25.
+
+O Professor de 1º Grau e 2º Grau terão uma carga horária mínima de 50 horas/aulas e máxima de 200 horas/aulas mensais.
+
+
+§ 1º
+
+Os Profissionais acima citados, após o desempenho de suas funções docentes, complementarão a carga horária prevista quando forem chamados para participar em atividades próprias da Escola, conforme regimento.
+
+
+§ 2º
+
+O Professor após dois anos na Educação, não sofrerá redução de sua carga horária, a menos que seja solicitação do mesmo.
+
+
+§ 3º
+
+As aulas serão ministradas preferencialmente em uma só Escola, ou em Escolas localizadas no mesmo bairro ou bairros próximos.
+
+
+Art. 26.
+
+O Professor de 1º Grau Maior e 2º Grau terá 10% de aulas brancas mensais do total de sua carga horária destinadas ao planejamento de suas atividades.
+
+
+Art. 27.
+
+De acordo com o número de turnos e a natureza do ensino a duração da hora aula pode variar de 40 a 50 minutos.
+
+
+Art. 28.
+
+O especialista em Educação com Habilitação em Supervisão Escolar e Orientação Educacional, terá uma carga horária correspondente a 30 ou 40 horas semanais, de acordo com a disponibilidade do mesmo e necessidade da Secretaria de Educação.
+
+
+Art. 29.
+
+O Coordenador de turno I terá jornada de trabalho de 30 horas semanais.
+
+
+### TÍTULO IV — Dos Direitos e Deveres
+
+
+#### CAPÍTULO I — Dos Direitos
+
+
+Art. 30.
+
+Os integrantes do quadro de magistério quando no desempenho de sua função docente, terão direitos a aposentadoria voluntária após 25 anos de efetivo exercício, se professora, e 30 anos, se for professor, nos termos do Artigo 185 da Constituição Federal.
+
+
+Parágrafo único
+
+O Professor pertencente à Rede Municipal de ensino que, ao requerer sua aposentadoria, estiver recebendo qualquer gratificação ou exercendo cargo em comissão, por 04 anos sem interrupção, ou 08 anos ou mais com interrupção terá essa gratificação ou representação incorporada aos seus vencimentos e passará a ser direito adquirido. Conforme Artigo 98 da Lei Estadual nº 6.123.
+
+
+Art. 31.
+
+Nenhum professor da Rede Municipal de Ensino poderá ganhar menos que o piso nacional de Salários, se estiver Lotado e exercendo funções docentes numa unidade escolar num regime de trabalho de 20 horas semanais.
+
+
+Art. 32.
+
+Aos Profissionais do Magistério que trabalham em escolas consideradas de difícil acesso, mediante comprovação da SEC. e de entidade representativa dos professores a nível Municipal, terão direito a uma gratificação de 20% do seu nível salarial.
+
+
+§ 1º
+
+O profissional do magistério que for removido de escola considerada de difícil acesso, independente do seu tempo de permanência nessa unidade escolar, perderá o direito à gratificação.
+
+
+§ 2º
+
+O difícil acesso será regulamentado por Decreto.
+
+
+Art. 33.
+
+O professor da Rede Municipal de Ensino com regência de classe terá uma taxa de insalubridade pelas consequências danosas que representa o "Pó de Giz", sendo essa vantagem de 15% sobre seu salário.
+
+
+Art. 34.
+
+Aos profissionais do magistério que por força da função, executam serviços externos junto às escolas e/ou comunidade polarizadas pela escola, fica assegurada uma ajuda de custo mensal de até 20% sobre o salário de sua categoria.
+
+
+§ 1º
+
+Essa ajuda será concedida somente nos casos em que a Secretaria não fornecer viatura para a locomoção do profissional.
+
+
+§ 2º
+
+Cabe à Secretaria de Educação e à Entidade dos professores a nível Municipal, determinar quais as funções e condições em que essa ajuda será concedida.
+
+
+Art. 35.
+
+Os Profissionais do Magistério Lotados na Secretaria de Educação pertencentes à equipe técnica ou exercendo funções de chefias de departamento, divisão ou setor, terão direito às gratificações correspondentes a essas funções e determinadas pelo plano de Cargos e Salários da Prefeitura Municipal do Cabo.
+
+
+Art. 36.
+
+Os Profissionais do Magistério que comprovem, mediante certificado ou diploma, títulos de Pós-Graduação, na área de Educação, terão direito a 15% sobre seu nível salarial, Mestrado 30% sobre seu nível salarial e Doutorado 50% sobre seu nível salarial.
+
+
+Art. 37.
+
+O Professor de 1º Grau Maior ou 2º Grau que exercer a função de Coordenador de Áreas de ensino, indicado conforme regimento escolar, terá direito a 20 horas/aulas mensais disponíveis para essa função.
+
+
+Art. 38.
+
+Ao Profissional do Magistério será concedido afastamento sem prejuízo dos seus vencimentos e vantagens, além dos previstos pela Lei quando:
+
+
+a)
+
+indicado pela Secretaria de Educação para participar em cursos, congressos, seminários, encontros, por um prazo não superior a 30 dias, no País ou no exterior;
+
+
+b)
+
+indicado pela Secretaria de Educação para representá-la oficialmente, no País ou no exterior por um prazo não superior a 30 dias;
+
+
+c)
+
+chamado pela Secretaria de Educação para integrar grupos de trabalho "ad hoc" por um período não superior a 90 dias;
+
+
+d)
+
+escolhido para representar a entidade de Professores a nível Municipal e pelo prazo que dura o mandato;
+
+
+e)
+
+solicitado para acompanhar tratamento de saúde de dependente direto, mediante comprovação da Secretaria de Educação e da entidade representativa dos Professores, por um prazo não superior a 15 dias.
+
+
+Art. 39.
+
+O Professor terá direito à transferência mediante solicitação do mesmo após dois anos de permanência na unidade escolar, de acordo com a disponibilidade existente nos termos do parágrafo único do artigo 25, ou por encaminhamento da Secretaria de Educação, considerando sempre os interesses da melhoria do ensino.
+
+
+Parágrafo único
+
+As transferências serão realizadas preferentemente ao término do ano Letivo.
+
+
+Art. 40.
+
+Aos Profissionais do Magistério poderá ser concedido a suspensão do contrato de trabalho após 05 anos de exercício efetivo no emprego e por um prazo mínimo de 01 ano e máximo de 04 anos.
+
+
+§ 1º
+
+Não poderá ser concedida nova suspensão de contrato antes de decorridos dois anos do término da anterior, salvo se a mesma tiver sido concedida por um prazo inferior ao limite previsto neste artigo.
+
+
+§ 2º
+
+Se houver desistência do professor da suspensão do contrato, cabe à Secretaria de Educação determinar sobre a reintegração do Profissional.
+
+
+Art. 41.
+
+As férias dos profissionais do magistério corresponderão às férias escolares, obedecendo a escala e de acordo com o regimento escolar.
+
+
+Art. 42.
+
+Fica garantido o direito aos profissionais do magistério, ao aperfeiçoamento compatível com as suas funções.
+
+
+Parágrafo único
+
+À Secretaria de Educação, ouvidos o Conselho Municipal de Educação, e a entidade representativa dos Professores a nível Municipal, caberá o planejamento anual das atividades de treinamento e reciclagem às várias categorias profissionais que atuam na Escola.
+
+
+Art. 43.
+
+Terá direito a ajuda de custo o profissional indicado pela Secretaria de Educação para participar de cursos, congressos, seminários e outras atividades que visem o aperfeiçoamento profissional e estejam contemplados no planejamento anual.
+
+
+Parágrafo único
+
+A indicação será feita através de discussão com os interessados.
+
+
+#### CAPÍTULO II — Dos Deveres
+
+
+Art. 44.
+
+Propiciar ao aluno uma preparação para a vida e o trabalho mediante um ensino de boa qualidade que leve em conta a realidade em que se insere o Município do Cabo, visando sua transformação.
+
+
+Art. 45.
+
+Desenvolver um trabalho teórico-prático por meios de técnicas pedagógicas atualizadas e compatíveis com a realidade sócio-econômica dos alunos e do Município.
+
+
+Art. 46.
+
+Participar ativamente no planejamento e execução das ações educativas desenvolvendo a criatividade pessoal e dos alunos.
+
+
+Art. 47.
+
+Contribuir efetivamente para a realização dos objetivos da Secretaria de Educação, mediante o cumprimento integral de suas funções com alto espírito profissional.
+
+
+### TÍTULO VI — Dos Deveres e Proibições
+
+
+#### CAPÍTULO I — Dos Deveres Especiais
+
+
+Art. 48.
+
+O Profissional do magistério, além de suas funções, dos seus respectivos cargos e dos deveres concernentes aos servidores deste Município, deverão:
+
+
+a)
+
+Cumprir o horário de trabalho e o calendário escolar;
+
+
+b)
+
+Acompanhar, controlar e avaliar as atividades educacionais;
+
+
+c)
+
+Orientar e/ou programar as atividades docentes;
+
+
+d)
+
+Cumprir as determinações emanadas da Secretaria de Educação.
+
+
+#### CAPÍTULO II — Das Proibições Especiais
+
+
+Art. 49.
+
+Ao Profissional do magistério é vedado:
+
+
+a)
+
+afastar-se de suas funções antes da concessão da licença requerida;
+
+
+b)
+
+Suspender as aulas ou atividades educativas sem autorização da Secretaria de Educação.
+
+
+c)
+
+Ceder o prédio escolar para atividades extras-escolares sem a permissão da Secretaria;
+
+
+d)
+
+Utilizar o local de trabalho para atividades particulares;
+
+
+e)
+
+Receber remuneração por trabalho extra em Educação realizado com alunos do estabelecimento onde exerça suas funções;
+
+
+f)
+
+Tratar desrespeitosamente as autoridades, companheiros de trabalho, alunos e comunidade;
+
+
+g)
+
+Exceder-se nas medidas disciplinares;
+
+
+h)
+
+O aliciamento político partidário dos alunos.
+
+
+#### CAPÍTULO III — Das Penalidades
+
+
+Art. 50.
+
+Os Profissionais do magistério estão sujeitos às penalidades estabelecidas:
+
+
+### TÍTULO VII
+
+
+CAPÍTULO ÚNICO
+
+Das Disposições Gerais Transitórias e Finais
+
+
+Art. 51.
+
+As escolas deverão ter sua organização definida em forma de regimento devidamente aprovado pelo órgão competente, de acordo com o presente Estatuto.
+
+
+Art. 52.
+
+O ocupante de cargo cuja função é obrigada por este Estatuto a uma habilitação específica por Lei, terá o prazo de 03 anos para ingressar, a partir da aprovação deste Estatuto, podendo ser destituído, caso não seja cumprida essa exigência.
+
+
+Art. 53.
+
+O presente Estatuto não terá efeito retroativo sobre os direitos já adquiridos pelos profissionais do magistério.
+
+
+Art. 54.
+
+Este Estatuto entrará em vigor a partir de publicação tendo retroatividade de 1º de maio, no que se refere aos ganhos financeiros, revogadas as disposições contrárias.
+
+
+Art. 3º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+PALÁCIO CONDE DA BOA VISTA, em 09 de novembro de 1988
+
+**ELIAS GOMES DA SILVA PREFEITO**
+

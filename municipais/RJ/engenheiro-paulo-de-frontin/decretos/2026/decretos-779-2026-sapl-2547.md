@@ -1,0 +1,67 @@
+---
+titulo: "DECRETO EXECUTIVO-PMEPF nº 779, de 23 de fevereiro de 2026"
+tipo: "Decreto"
+tipo_na_fonte: "DECRETO EXECUTIVO"
+numero: "779"
+data: "2026-02-23"
+municipio: "Engenheiro Paulo de Frontin"
+uf: "RJ"
+codigo_ibge: "3301801"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/2547"
+fonte_texto: "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/1909/text"
+sha256_fonte: "b32c4c28d4f32b357f3c6fcbbf4edf5bc343c48ff97fe130e05e34e121e59162"
+sha256_texto: "ad4b387d7fcb1e6f03a6ee48f6f94ee46fd8a54887d346350e8d27c139ffb74f"
+capturado_em_fonte: "2026-10-28T10:30:36.585287-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+observacao_fonte: "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 24/02/2026. Edição 4067 A verificação de autenticidade da matéria pode ser feita informando o código identificador no site: https://www.diariomunicipal.com.br/aemerj/"
+fonte_metadados: "https://sapl.engenheiropaulodefrontin.rj.leg.br/api/norma/normajuridica/2547/"
+sha256_metadados_fonte: "954f8be565336bbefa0b8bce7dd85fd2207e33aae9073e8c21ab5699ebec7f70"
+---
+
+# DECRETO EXECUTIVO-PMEPF nº 779, de 23 de fevereiro de 2026
+
+CONSIDERANDO a necessidade de ampliar a atuação intersetorial no âmbito do Comitê Municipal de Gestão de Riscos e Resposta a Chuvas Intensas, instituído pelo Decreto nº 757/2026, a fim de fortalecer as ações de prevenção, preparação e resposta; CONSIDERANDO a relevância da participação da Secretaria Municipal de Educação, especialmente em razão da utilização de unidades escolares em ações de apoio, acolhimento e continuidade de serviços públicos essenciais; CONSIDERANDO a importância da Secretaria Municipal de Desenvolvimento Econômico, Trabalho, Renda, Ciência e Tecnologia na articulação de medidas de suporte à atividade econômica local e à retomada de serviços em situações de emergência; DECRETA:
+
+
+Art. 1º.
+
+Ficam acrescidos os incisos X e XI ao §1º do art. 4º do Decreto nº 757/2026, que passam a vigorar com a seguinte redação: “Art. 4º. (...)
+
+
+Parágrafo único
+
+O Comitê será composto, no mínimo, por representantes (titulares e suplentes) de: (...)
+
+
+I –
+
+Secretaria Municipal de Educação;
+
+
+II –
+
+Secretaria Municipal de Desenvolvimento Econômico, Trabalho, Renda, Ciência e Tecnologia.”
+
+
+Art. 2º.
+
+Permanecem inalteradas as demais disposições do Decreto nº 757/2026.
+
+
+Art. 3º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Engenheiro Paulo de Frontin, 23 de fevereiro de 2026.
+
+
+JOSÉ EMMANOEL RODRIGUES ARTEMENKO
+
+
+Prefeito Municipal
+

@@ -1,0 +1,60 @@
+---
+titulo: "Decreto-SEMPOG nº 19.411, de 27 de setembro de 2023"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "19.411"
+data: "2023-09-27"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/25796"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/8401/text"
+sha256_fonte: "2c19bb61a7ebdf27533dd626aa609acb24dae18896724e9261aec34bc6f03717"
+sha256_texto: "9de917f469370fc69d94e467555c5fdd15081690a2fc7ca7a92c80e0a81d1cb2"
+capturado_em_fonte: "2026-10-21T05:06:34.398238-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 19.411, de 27 de setembro de 2023
+
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Transposição de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei n.º 2.998, de 19 de dezembro de 2022, a fim de proceder às adequações orçamentárias no exercício 2023, e
+
+Considerando o Ofício n.° 885/GAB/DA/SEMAGRIC/2023, de 13 de setembro de 2023, pelo qual a Secretaria Municipal de Agricultura, Pecuária e Abastecimento - SEMAGRIC solicita abertura de crédito adicional suplementar por anulação de recursos para cobertura de despesas com manutenção das atividades administrativas;
+
+**D E C R E T A:**
+
+**Art. 1º** – Fica alterado o Orçamento Anual do Município de Porto Velho por meio de transposição de recursos orçamentários no valor de R$ 2.236.157,02 (dois milhões, duzentos e trinta e seis mil, cento e cinquenta e sete reais e dois centavos).
+
+**Art. 2º** - A transposição decorre da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas dentro da mesma uidade orçamentária, conforme disposto no inciso XVII do Artigo 6º da Lei nº 2.946, de 30 de junho de 2022 – Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><tbody><tr><td colspan="7"><p><strong>15.00 - SECRETARIA MUNICIPAL DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO - SEMAGRIC</strong></p></td></tr><tr><td colspan="7"><p><strong>15.01 - SECRETARIA MUNICIPAL DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO - SEMAGRIC</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESPERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>ANULA R$</strong></p></td><td><p><strong>SUPLEMENTA R$</strong></p></td></tr><tr><td rowspan="6"><p>15.01.20.782.240.2.643</p></td><td rowspan="6"><p>Conservação de Rodovias Vicinais</p></td><td rowspan="6"><p>FIS</p></td><td><p>3.3.90.39</p></td><td><p>2.500</p></td><td><p>2.236.157,02</p></td><td><p>-</p></td></tr><tr><td><p>3.3.90.14</p></td><td><p>2.500</p></td><td><p>-</p></td><td><p>600.000,00</p></td></tr><tr><td><p>3.3.90.30</p></td><td><p>2.500</p></td><td><p>-</p></td><td><p>1.336.157,02</p></td></tr><tr><td><p>3.3.90.36</p></td><td><p>2.500</p></td><td><p>-</p></td><td><p>20.000,00</p></td></tr><tr><td><p>3.3.90.92</p></td><td><p>2.500</p></td><td><p>-</p></td><td><p>50.000,00</p></td></tr><tr><td><p>3.3.90.93</p></td><td><p>2.500</p></td><td><p>-</p></td><td><p>30.000,00</p></td></tr><tr><td rowspan="3"><p>15.01.20.122.007.2.001</p><p> </p></td><td rowspan="3"><p>Administração da Unidade</p><p> </p></td><td rowspan="3"><p>FIS</p><p> </p></td><td><p>3.3.90.14</p></td><td><p>2.500</p></td><td><p>-</p></td><td><p>30.000,00</p></td></tr><tr><td><p>3.3.90.93</p></td><td><p>2.500</p></td><td><p>-</p></td><td><p>20.000,00</p></td></tr><tr><td><p>4.4.90.52</p></td><td><p>2.500</p></td><td><p>-</p></td><td><p>100.000,00</p></td></tr><tr><td><p>15.01.20.122.167.2.595</p></td><td><p>Combate a comercialização de produtos não</p><p>cadastrados no sistema de inspeção</p></td><td><p>FIS</p></td><td><p>3.3.90.14</p></td><td><p>2.500</p></td><td><p>-</p></td><td><p>50.000,00</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>2.236.157,02</strong></p></td><td><p><strong>2.236.157,02</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>2.236.157,02</strong></p></td><td><p><strong>2.236.157,02</strong></p></td></tr></tbody></table>
+
+**Art. 3º** – Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 18.721, de 19 de dezembro de 2022 e o Detalhamento da Despesa, estabelecido pelo Decreto n.º 18.722, de 19 de dezembro de 2022.
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** - Revogam-se as disposições em contrário.
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto
+

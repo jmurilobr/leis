@@ -1,0 +1,1191 @@
+---
+titulo: "Lei Ordinária nº 6.131, de 19 de dezembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "6131"
+data: "2025-12-19"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/5466"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/2438/text"
+sha256_fonte: "08b9200bcc4a1205db28b962d6551e46608847f0b0443d14dbc54015644a6e85"
+sha256_texto: "8543e3b843495ec68bd21dc286ddf0c28ef05e0cd093f217710f7f5993183ca9"
+capturado_em_fonte: "2026-10-27T17:16:33.157674-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 6.131, de 19 de dezembro de 2025
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI N° 6131 DE 19 DE DEZEMBRO DE 2025.
+
+
+Dispõe sobre a criação da Agência Reguladora de Saneamento Básico do Munícipio de Barra Mansa ARSAN BM e dá outras providências.
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Fica criada a Agência Reguladora de Saneamento Básico do Município de Barra Mansa - ARSAN BM, autarquia de regime especial, integrante da administração pública indireta, com sede e foro no Município de Barra Mansa e prazo de duração indeterminado.
+
+
+Parágrafo único
+
+Para o cumprimento de suas funções e competências, a ARSAN BM está sujeita ao regime jurídico-administrativo próprio das entidades de regulação e fiscalização de serviços públicos de saneamento básico, conforme previsto na Lei Federal nº 14.026, de 15 de julho de 2020- Novo Marco Legal do Saneamento Básico.
+
+
+Art. 2º.
+
+A natureza de autarquia especial conferida à Agência é caracterizada por independência decisória, autonomia administrativa, orçamentária e financeira e pela investidura de seus dirigentes em mandato fixo.
+
+
+Art. 3º.
+
+A ARSAN BM exercerá suas atribuições em conformidade com as diretrizes estabelecidas no Plano Municipal Integrado de Saneamento Básico, na Política Municipal de Saneamento Básico, no Marco Legal do Saneamento Básico, na Política Nacional de Resíduos Sólidos e nas demais normas que venham a estabelecer as diretrizes da prestação desses serviços.
+
+
+Art. 4º.
+
+\- A ARSAN BM atuará na regulação, controle e fiscalização dos serviços públicos de saneamento básico do município, em nome do poder concedente para os efeitos desta Lei.
+
+
+§ 1º
+
+A ARSAN BM poderá celebrar convênios, acordos e consórcios com outros entes federativos, de acordo com a legislação vigente, referentes aos serviços públicos de saneamento básico, resguardando sua titularidade em suas respectivas áreas de atuação, observadas as competências específicas e a autonomia municipal.
+
+
+§ 2º
+
+A ARSAN BM poderá celebrar convênios para intercâmbio de dados e informações e de cooperação com entidades ou órgãos de todas as esferas de Governo responsáveis por áreas relacionadas com o saneamento básico, em especial: meio ambiente, saúde pública e recursos hídricos.
+
+
+§ 3º
+
+Observada a prioridade do exercício de suas funções e atuação para o Município de Barra Mansa, atendidas as diretrizes da Lei n° 11.445/2007 e suas alterações, e desde que mediante remuneração adequada, ARSAN BM poderá celebrar convênios ou contratos administrativos de delegação para o exercício de suas atividades de competência com outros municípios ou consórcios públicos.
+
+
+Art. 5º.
+
+Para os fins desta Lei, entidade regulada é a pessoa jurídica de direito privado, inclusive sob controle estatal, ou a de direito público, bem como o consórcio de empresas, responsável pela prestação de serviços públicos de saneamento básico, submetida à competência regulatória da ARSAN BM.
+
+
+§ 1º
+
+A competência regulatória da ARSAN BM deverá compreender a normatização, o controle e a fiscalização dos serviços de saneamento básico, compreendidos em:
+
+
+a)
+
+abastecimento de água;
+
+
+b)
+
+esgotamento sanitário;
+
+
+c)
+
+limpeza urbana e manejo de resíduos sólidos;
+
+
+d)
+
+drenagem e manejo das águas pluviais urbanas.
+
+
+§ 2º
+
+A ARSAN BM também será responsável pela aplicação de sanções nos casos de descumprimento das normas, padrões e diretrizes estabelecidos em contratos, convênios ou na legislação vigente.
+
+
+§ 3º
+
+A normatização compreende o estudo e a proposta de normas e padrões para serviços de saneamento básico, com observância das normas de referência da Agência Nacional de Águas e Saneamento Básico - ANA e objetivando o controle e a fiscalização da quantidade e qualidade das atividades reguladas.
+
+
+§ 4º
+
+O controle consiste na aplicação, para casos concretos, das diretrizes, normas e dos padrões estabelecidos nos termos desta Lei e na realização de medidas e ações visando à tomada de providências, orientação e a adequação dos serviços aos objetivos de sua regulação pela ARSAN BM.
+
+
+§ 5º
+
+A fiscalização consiste em verificar se os serviços regulados estão sendo realizados de acordo com as políticas, diretrizes, padrões e normas técnicas, contratuais ou regulamentares, estabelecidos em conjunto com os órgãos ou entidades responsáveis pela Política de Saneamento Básico do Município e pelo Plano Municipal de Saneamento Básico, assegurada a participação dos respectivos usuários.
+
+
+Art. 6º.
+
+As atividades da ARSAN BM serão exercidas com base nos princípios constitucionais e administrativos da legalidade, finalidade, impessoalidade, moralidade, publicidade, eficiência, razoabilidade, proporcionalidade, devido processo legal e celeridade.
+
+
+§ 1º
+
+Além dos princípios referidos no caput, deverão ser observados, no âmbito da regulação dos serviços públicos de saneamento básico, os seguintes princípios específicos:
+
+
+I –
+
+continuidade, regularidade e universalidade dos serviços;
+
+
+II –
+
+isonomia no tratamento aos usuários;
+
+
+III –
+
+modicidade tarifária, garantida por meio de critérios eficiência e sustentabilidade econômica;
+
+
+IV –
+
+transparência e publicidade dos atos regulatórios;
+
+
+V –
+
+controle social e participação dos usuários;
+
+
+VI –
+
+incentivo ao uso racional da água e à proteção da saúde pública;
+
+
+VII –
+
+estímulo à adoção da melhor tecnologia disponível, com viabilidade econômica e menor impacto socioambiental;
+
+
+VIII –
+
+neutralidade nas relações entre usuários, prestadores e poder concedente;
+
+
+IX –
+
+adaptação contínua dos serviços à evolução tecnológica e às necessidades da população.
+
+
+§ 2º
+
+Visando ao pleno exercício do controle social, o usuário terá acesso gratuito a todo e qualquer documento ou informação regulatória de interesse coletivo, especialmente quanto às características dos serviços, padrões de qualidade, impactos ambientais, estrutura de custos, tarifas, preços e contraprestações, nos termos e prazos definidos em ato normativo da ARSAN BM.
+
+
+Art. 7º.
+
+A ARSAN BM exercerá suas atividades de regulação observando e fazendo observar, especialmente, o princípio da universalidade dos serviços de saneamento, de modo a assegurar o mais amplo atendimento da população, sem exclusão dos estratos de baixa renda e das áreas de baixa densidade populacional, bem como buscando garantir que tais serviços sejam prestados em todo o Município, objetivando reduzir as desigualdades e promover o seu desenvolvimento econômico e social.
+
+
+Parágrafo único
+
+Para assegurar o estabelecido no caput, as normas, os critérios e os procedimentos técnicos da ARSAN BM deverão considerar, em consonância com o poder concedente:
+
+
+I –
+
+os indicadores de qualidade dos serviços e de sua adequada prestação;
+
+
+II –
+
+os programas, as metas de expansão e qualidade dos serviços;
+
+
+III –
+
+a medição, o faturamento e a cobrança dos serviços;
+
+
+IV –
+
+os métodos de monitoramento dos custos, bem como de reajuste e revisão das tarifas e contraprestações;
+
+
+V –
+
+os procedimentos de acompanhamento e avaliação da prestação dos serviços;
+
+
+VI –
+
+os planos de contingência e segurança dos serviços.
+
+
+Art. 8º.
+
+A ARSAN BM poderá criar e manter um sistema de informação e educação voltado aos agentes públicos, prestadores de serviços, usuários e demais envolvidos nas políticas de saneamento básico, com o objetivo de promover a compreensão sobre as normas, diretrizes e regulamentos do setor.
+
+
+§ 1º
+
+A ARSAN BM publicará, anualmente, relatórios de avaliação das atividades de regulação, controle e fiscalização, contendo informações detalhadas sobre os serviços prestados, a qualidade dos mesmos, os impactos socioambientais, os custos envolvidos e a estrutura tarifária, conforme regulamento específico.
+
+
+§ 2º
+
+Todos os documentos e relatórios relativos à gestão regulatória, incluindo planos de contingência, metas de expansão e qualidade dos serviços, deverão ser disponibilizados ao público, com acesso gratuito e em formato digital acessível em site eletrônico.
+
+
+§ 3º
+
+A ARSAN BM poderá promover ações educativas, como palestras, campanhas de conscientização e eventos públicos, com o intuito de esclarecer a população sobre os direitos e deveres dos usuários, a utilização racional dos serviços de saneamento básico e a importância da preservação ambiental.
+
+
+§ 4º
+
+O acesso à informação será assegurado a qualquer cidadão, sendo vedado o sigilo de dados que envolvam interesse público ou possam comprometer a regulação dos serviços de saneamento básico, exceto quando houver restrições legais específicas.
+
+
+#### CAPÍTULO II — DAS COMPETÊNCIAS
+
+
+Art. 9º.
+
+A ARSAN BM compete exercer, nos termos desta Lei, dos convênios e demais atos pertinentes, autorizados em lei, os encargos e atribuições recebidos do poder concedente, especialmente:
+
+
+I –
+
+regular a prestação dos serviços, observadas as diretrizes e políticas do poder concedente, bem como o Plano Municipal de Saneamento Básico de Barra Mansa;
+
+
+II –
+
+aplicar penalidades legais, regulamentares e contratuais;
+
+
+III –
+
+modificar cláusulas não econômicas com relação à prestação do serviço ou recomendar ao poder concedente que o faça;
+
+
+IV –
+
+recomendar a intervenção ou extinção da concessão do serviço ao poder concedente;
+
+
+V –
+
+estabelecer o regime tarifário, garantindo a modicidade das tarifas e o equilíbrio econômico-financeiro da prestação dos serviços;
+
+
+VI –
+
+analisar os custos e o desempenho econômico financeiro da prestação dos serviços;
+
+
+VII –
+
+estabelecer, subsidiariamente, padrões e normas para a execução do serviço regulado e para o atendimento ao usuário, bem como zelar pela boa qualidade na sua prestação;
+
+
+VIII –
+
+orientar e assessorar, podendo ainda participar da elaboração de procedimentos licitatórios para a seleção de concessionários ou permissionários de serviço público de saneamento básico;
+
+
+IX –
+
+orientar e assessorar o processo de contratação direta ou de outorga convenial a concessionários ou permissionários de serviço público de saneamento básico, nos termos das leis e dos convênios pertinentes;
+
+
+X –
+
+assessorar e fiscalizar cisões, fusões e incorporações de entidades reguladas, bem como transferências de concessões e subconcessões de serviços;
+
+
+XI –
+
+estimular a melhoria da qualidade, produtividade, preservação e conservação dos recursos naturais e do meio ambiente, e cooperar com os órgãos de vigilância sanitária e demais órgãos municipais;
+
+
+XII –
+
+atuar como órgão consultivo na interpretação e esclarecimento de leis, regulamentos e cláusulas contratuais e conveniais inerentes ao serviço;
+
+
+XIII –
+
+contratar com terceiros, serviços técnicos, vistorias, estudos e auditorias necessários ao exercício das atividades de sua competência, observada a legislação pertinente;
+
+
+XIV –
+
+implementar sistema integrado de informações para esclarecimento ao público, mediante publicações periódicas, sobre o desempenho de suas atividades e sobre o desempenho dos serviços e das empresas reguladas, bem como para a emissão de certidões e certificados;
+
+
+XV –
+
+mediar e dirimir, no âmbito administrativo, as divergências entre os prestadores de serviço regulado e os usuários;
+
+
+XVI –
+
+elaborar proposta orçamentária, contratar pessoal para desempenho de suas funções e estimular o aperfeiçoamento de seus quadros administrativos e técnicos;
+
+
+XVII –
+
+elaborar e editar o seu regulamento interno no prazo máximo de 180 (cento e oitenta) dias da vigência da presente Lei, estabelecendo procedimentos para a realização de audiências e consultas públicas, encaminhamento de reclamações, elaboração e aplicação de regras éticas, regras afetas ao mando de seus dirigentes, expedição de resoluções e instruções, emissão de decisões administrativas e respectivos procedimentos recursais;
+
+
+XVIII –
+
+estimular a formação de associações de usuários, bem como apoiá-las para defesa de interesses relativos ao serviço regulado e assegurar sua participação em órgãos da ARSAN BM;
+
+
+XIX –
+
+contratar pessoal por prazo determinado, de acordo com legislação aplicável;
+
+
+XX –
+
+adquirir, administrar e alienar seus bens;
+
+
+XXI –
+
+apresentar ao Poder Executivo Municipal proposta de orçamento;
+
+
+XXII –
+
+elaborar e enviar o relatório anual de suas atividades ao Prefeito e, por intermédio do mesmo, à Câmara Municipal;
+
+
+XXIII –
+
+prestar contas de sua administração a Câmara Municipal e ao Tribunal de Contas do Estado do Rio de Janeiro - TCE/RJ;
+
+
+XXIV –
+
+administrar os cargos de que trata esta Lei;
+
+
+XXV –
+
+decidir, em último grau, sobre as matérias de sua competência;
+
+
+XXVI –
+
+deliberar, na esfera administrativa, quanto à interpretação da legislação, sobre serviços de saneamento básico, inclusive casos omissos, quando não houver orientação normativa da Procuradoria-Geral do Município;
+
+
+XXVII –
+
+deliberar, na esfera técnica, quanto à interpretação das normas e recomendações relativas às diretrizes para o saneamento básico, inclusive os casos omissos, visando sempre ao interesse público; e
+
+
+XXVIII –
+
+editar e dar publicidade às instruções e aos regulamentos necessários à aplicação desta Lei.
+
+
+§ 1º
+
+No exercício de sua competência regulatória, a ARSAN BM, quando for necessário interferir na prestação do serviço, de modo a gerar repercussões patrimoniais sobre a prestadora ou alterar significativamente a quantidade ou qualidade do serviço prestado aos usuários, deverá realizar prévia audiência pública, respeitando a recomposição do equilíbrio econômico-financeiro originalmente estabelecido no instrumento de delegação.
+
+
+§ 2º
+
+As tarifas propostas pela ARSAN BM poderão ser diferenciadas em função de características técnicas, custos específicos e da capacidade econômica dos distintos segmentos de usuários, sendo também estabelecidas de forma articulada e harmonizada.
+
+
+Art. 10.
+
+Para o exercício do poder regulador, a ARSAN BM deverá ter acesso aos dados relativos à administração, contabilidade, recursos técnicos, econômicos financeiros da prestadora do serviço regulado.
+
+
+#### CAPÍTULO III — DA ESTRUTURA
+
+
+Art. 11.
+
+A estrutura da ARSAN BM é composta por:
+
+
+I –
+
+Conselho Diretor;
+
+
+II –
+
+Conselho Consultivo;
+
+
+III –
+
+Ouvidoria.
+
+
+##### Seção I — CONSELHO DIRETOR
+
+
+Art. 12.
+
+O Conselho Diretor é o órgão de deliberação máxima, responsável pela execução e coordenação das atividades a ele atribuídas.
+
+
+§ 1º
+
+O Conselho Diretor será composto por 03 (três) Diretores, indicados pelo Chefe do Poder Executivo Municipal e nomeados após aprovação pela Câmara Municipal de Barra Mansa. A nomeação ocorrerá por um período de 04 (quatro) anos, com possibilidade de recondução por uma única vez, sendo um dos diretores designado para a Presidência do Conselho, a critério do Chefe do Executivo.
+
+
+§ 2º
+
+Em caso de vacância no decorrer do mandato, a vaga será preenchida por sucessor indicado conforme o $1°, para completar o período restante do mandato.
+
+
+Art. 13.
+
+O Conselho Diretor é composto pelos seguintes Diretores:
+
+
+I –
+
+01 (um) Diretor Presidente;
+
+
+II –
+
+01 (um) Diretor Administrativo Financeiro;
+
+
+III –
+
+01 (um) Diretor de Fiscalização e Regulação em Saneamento.
+
+
+Art. 14.
+
+O Conselho Diretor atuará de forma colegiada, tomando decisões por maioria de votos.
+
+
+###### Subseção I — DAS COMPETÊNCIAS
+
+
+Art. 15.
+
+Ao Conselho Diretor compete, em regime colegiado, analisar, discutir e decidir as matérias de competência da ARSAN BM, conforme suas atribuições, incluindo:
+
+
+I –
+
+propor ao Chefe do Poder Executivo, alterações no regimento da ARSAN BM;
+
+
+II –
+
+cumprir e fazer cumprir as normas relativas ao saneamento básico;
+
+
+III –
+
+propor, ao Chefe do Poder Executivo, políticas e diretrizes governamentais destinadas a assegurar o cumprimento dos objetivos institucionais da ARSAN BM;
+
+
+IV –
+
+aprovar procedimentos administrativos de licitação;
+
+
+V –
+
+exercer o poder normativo da ARSAN BМ;
+
+
+VI –
+
+aprovar minutas de editais de licitação, homologar adjudicações, transferência e extinção de contratos;
+
+
+VII –
+
+aprovar o regimento interno da ARSAN BM, sendo depois devidamente homologado pelo Chefe do Poder Executivo;
+
+
+VIII –
+
+apreciar, em grau de recurso, as sindicâncias, os processos administrativos disciplinares e as penalidades impostas pela ARSAN BM;
+
+
+IX –
+
+aprovar as normas relativas aos procedimentos administrativos internos da ARSAN BM;
+
+
+X –
+
+decidir sobre o planejamento estratégico da ARSAN BM;
+
+
+XI –
+
+estabelecer as diretrizes funcionais, executivas e administrativas a serem seguidas, zelando pelo seu efetivo cumprimento;
+
+
+XII –
+
+decidir sobre políticas administrativas internas e de recursos humanos e seu desenvolvimento;
+
+
+XIII –
+
+firmar convênios, na forma da legislação em vigor;
+
+
+XIV –
+
+deliberar, na esfera administrativa, quanto à interpretação da legislação e sobre os casos omissos.
+
+
+§ 1º
+
+O Conselho Diretor não poderá delegar suas competências a outros órgãos ou autoridades.
+
+
+§ 2º
+
+As reuniões do Conselho Diretor ocorrerão ordinariamente uma vez por mês e extraordinariamente sempre que convocado pelo Presidente ou pela maioria de seus membros.
+
+
+§ 3º
+
+As decisões do Conselho Diretor serão publicadas no Diário Oficial do Município e disponibilizadas digitalmente para consulta pública.
+
+
+Art. 16.
+
+Compete ao Diretor Presidente:
+
+
+I –
+
+dirigir as atividades da ARSAN BM, praticando todos os atos de gestão necessários;
+
+
+II –
+
+encaminhar ao Conselho Municipal de Saneamento Básico, todas as matérias de análise e decisão daquele Conselho e toda e qualquer matéria sobre a qual deseje o parecer daquele colegiado, em caráter consultivo;
+
+
+III –
+
+representar o Poder Público na regulação, controle e fiscalização perante os prestadores e usuários dos serviços, determinando procedimentos, orientações e a aplicação de penalidades decorrentes da inobservância ou transgressão de qualquer dispositivo legal ou contratual;
+
+
+IV –
+
+analisar e decidir sobre os conflitos de interesse e disputas entre o Poder Concedente e prestadores desses serviços, podendo, para tanto, credenciar técnicos, dentre pessoas de reconhecida competência em suas áreas que, sem vínculo empregatício com a ARSAN BM, agirão por delegação do Diretor Presidente;
+
+
+V –
+
+representar a ARSAN BM junto ao Poder Judiciário, em todas as circunstâncias que possam comprometer a prestação dos serviços, a qualidade do atendimento, o equilíbrio econômico-financeiro dos contratos de concessão, o patrimônio e a continuidade dos sistemas e serviços;
+
+
+VI –
+
+propor estabelecimento e alteração das políticas de saneamento do município;
+
+
+VII –
+
+autorizar a contratação de serviço de terceiros, na forma da legislação em vigor;
+
+
+VIII –
+
+submeter, anualmente, à Câmara Municipal e à coletividade, por intermédio de Audiência Pública, relatório sobre a eficácia, efetividade e eficiência exercício de suas atribuições e da ARSAN BM.
+
+
+Art. 17.
+
+O regimento interno disciplinará a substituição dos Diretores em caso de impedimentos temporários ou vacância.
+
+
+Art. 18.
+
+O Diretor-Presidente será responsável pela representação da ARSAN BM, pelo comando hierárquico sobre o pessoal e pelo funcionamento dos serviços, bem como pela presidência das reuniões do Conselho Diretor.
+
+
+###### Subseção II — DOS REQUISITOS PARA DIRETOR
+
+
+Art. 19.
+
+Os membros do Conselho Diretor deverão atender aos qual será nomeado;
+
+
+I –
+
+ser brasileiro;
+
+
+II –
+
+ser maior de idade;
+
+
+III –
+
+ter idoneidade moral e reputação ilibada;
+
+
+IV –
+
+ter formação universitária;
+
+
+V –
+
+ter conceito elevado no campo da especialidade do cargo para o qual será nomeado;
+
+
+VI –
+
+não ter vínculo de parentesco, por consanguinidade ou afinidade, até o terceiro grau, com o Prefeito Municipal, Vice-Prefeito, Secretário Municipal, membros do Legislativo Municipal, ou com acionistas e dirigentes de empresas reguladas.
+
+
+###### Subseção III — DO MANDATO E PERDA DO MANDATO
+
+
+Art. 20.
+
+Os dirigentes da ARSAN BM poderão perder o mandato em caso de renúncia, condenação judicial transitada em julgado ou decisão definitiva em processo administrativo disciplinar.
+
+
+§ 1º
+
+A perda do mandato poderá ocorrer também por descumprimento das obrigações e proibições estabelecidas para os cargos, conforme previsto na legislação penal e administrativa.
+
+
+§ 2º
+
+O processo administrativo disciplinar será conduzido por uma comissão especial designada para este fim.
+
+
+Art. 21.
+
+Perderá o mandato o Diretor que:
+
+
+I –
+
+exercer qualquer cargo em empresa regulada ou relacionada;
+
+
+II –
+
+receber vantagens ou benefícios de empresas reguladas, exceto aposentadoria;
+
+
+III –
+
+tornar-se sócio ou acionista de empresa regulada;
+
+
+IV –
+
+exercer cargo ou função em partido político ou entidade sindical;
+
+
+V –
+
+cometer ato de improbidade administrativa ou violar as regras éticas da ARSAN BM.
+
+
+§ 1º
+
+O Diretor acusado terá direito ao contraditório e ampla defesa.
+
+
+§ 2º
+
+A Corregedoria Geral do Município conduzirá a apuração, com prazo máximo de 60 dias, podendo ser prorrogado por mais 60 dias.
+
+
+Art. 22.
+
+A posse de Diretor implicará em prévia assinatura de contrato, comprometendo-se a não exercer direta ou indiretamente qualquer cargo ou função de controlador, diretor, administrador, gerente, preposto, mandatário, consultor ou empregado de qualquer entidade regulada, ou patrocinar direta ou indiretamente interesses desta junto a ARSAN BM, pelo prazo de 12 (doze) meses contados do término do mandato, sob pena de incorrer em improbidade administrativa e demais penalidades legais.
+
+
+###### Subseção IV — DAS DELIBERAÇÕES
+
+
+Art. 23.
+
+O Conselho Diretor deliberará por maioria de votos e se reunirá com a presença dos três Diretores.
+
+
+Parágrafo único
+
+O Conselho Diretor reunir-se-á ordinariamente, de acordo com calendário por ele estabelecido, e, extraordinariamente, mediante convocação formal do Diretor-Presidente ou de pelo menos dois outros Diretores, contendo a pauta os assuntos a serem tratados.
+
+
+Art. 24.
+
+As reuniões do Conselho Diretor serão presididas pelo Diretor-Presidente ou, em caráter excepcional, por substituto designado por ele entre os demais Diretores.
+
+
+Art. 25.
+
+O Diretor que se julgar impedido de exercer o voto deverá declarar seu impedimento e as razões de seu ato, ficando o quórum correspondente reduzido para efeito do cálculo de apuração da maioria de votos.
+
+
+Art. 26.
+
+As reuniões do Conselho Diretor serão registradas em atas, as quais deverão ser apreciadas e aprovadas, com ou sem emendas, na primeira reunião subsequente.
+
+
+§ 1º
+
+O Diretor-Presidente atribuirá, a um Diretor, a incumbência de relatar matéria sob apreciação, devendo esse ser o primeiro a votar.
+
+
+§ 2º
+
+O Diretor relator poderá solicitar a retirada de matéria da pauta, cabendo ao Conselho Diretor decidir a respeito.
+
+
+§ 3º
+
+Qualquer Diretor terá direito ao pedido de vista de matéria incluída na pauta.
+
+
+§ 4º
+
+Concedida à vista, a matéria deverá ser incluída na pauta da reunião ordinária subsequente, podendo o mesmo Diretor, justificadamente, requerer, por uma vez, prorrogação do prazo.
+
+
+§ 5º
+
+Nos eventuais impedimentos do relator, é a ele facultado encaminhar, previamente e por escrito, o relatório e o voto ao Diretor-Presidente.
+
+
+§ 6º
+
+Na ata, constará o resultado do exame de cada assunto, com a indicação do resultado da votação, facultado a qualquer Diretor apresentar declaração de voto por escrito.
+
+
+§ 7º
+
+As matérias aprovadas ad referendum pelo Diretor-Presidente ou seu substituto legal constarão da pauta da reunião subsequente e serão deliberadas com prioridade pelo Conselho Diretor.
+
+
+§ 8º
+
+As decisões finais do Conselho Diretor da ARSAN BM não caberão recurso.
+
+
+###### Subseção V — DA REPRESENTAÇÃO JUDICIAL
+
+
+Art. 27.
+
+A representação judicial da ARSAN BM, com prerrogativas processuais de Fazenda Pública, será exercida pela Procuradoria Geral do Município.
+
+
+##### Seção II — DO CONSELHO CONSULTIVO
+
+
+Art. 28.
+
+O Conselho Consultivo será formado pelo Conselho Municipal de Saneamento Básico de Barra Mansa, na forma de seu Regimento próprio.
+
+
+Art. 29.
+
+Compete ao Conselho Consultivo:
+
+
+I –
+
+participar da elaboração e acompanhar a execução da Política Municipal de Saneamento Básico;
+
+
+II –
+
+acompanhar a implementação e opinar sobre as atualizações e revisões do Plano Municipal de Saneamento Básico;
+
+
+III –
+
+acompanhar o cumprimento das metas fixadas nos instrumentos de prestação dos serviços;
+
+
+IV –
+
+analisar as normas relacionadas com a operação e prestação dos serviços prestados pelas entidades reguladas e, quando for o caso, propor alterações, sempre acompanhadas de exposição de motivos;
+
+
+V –
+
+opinar sobre as propostas de alteração da estrutura das tarifas e contraprestações, reajuste e revisão destas, bem assim, das que digam respeito a quaisquer outros valores cobrados dos usuários ou do Município pela prestação dos serviços;
+
+
+VI –
+
+conhecer e opinar sobre os regulamentos editados, bem como sobre suas modificações;
+
+
+VII –
+
+conhecer e opinar sobre a proposta de orçamento anual e seu relatório anual de prestação de contas;
+
+
+VIII –
+
+convidar membros do Conselho Diretor, funcionários da Agência ou terceiros para prestar esclarecimentos sobre as matérias de sua competência;
+
+
+IX –
+
+conhecer e opinar sobre denúncias ou representações relativas a atos praticados por Diretores da Agência, recomendando, quando for o caso, a instauração dos competentes processos de apuração e punição.
+
+
+##### Seção III — DA OUVIDORIA
+
+
+Art. 30.
+
+A Ouvidoria é o órgão encarregado de receber reclamações, críticas ou sugestões dos usuários dos serviços regulados pela Agência, dando-Ihes adequado encaminhamento.
+
+
+Art. 31.
+
+A Ouvidoria é órgão autônomo, sem vinculação hierárquica com o Conselho Consultor e com Conselho Diretor.
+
+
+Parágrafo único
+
+A Ouvidoria terá a sua organização, funcionamento e atribuições definidas no Regimento Interno da Agência.
+
+
+Art. 32.
+
+O Ouvidor terá as seguintes atribuições legais:
+
+
+I –
+
+receber pedidos de informações, esclarecimentos, reclamações e sugestões, respondendo diretamente aos interessados e encaminhando, quando julgar necessário, seus pleitos ao Conselho Diretor da ARSAN BM;
+
+
+II –
+
+produzir, semestralmente ou quando a Conselho Diretor da ARSAN BMjulgar oportuno, relatório circunstanciado de suas atividades;
+
+
+III –
+
+apurar, recomendar, mediar ou arbitrar conflitos decorrentes de demandas relacionadas à atuação dos agentes regulados e dos usuários.
+
+
+#### CAPÍTULO IV — QUADRO DE PESSOAL
+
+
+Art. 33.
+
+O quadro de pessoal e o plano de cargos, carreiras e remuneração da ARSAN BM serão definidos em regulamento próprio, por ato do Poder Executivo.
+
+
+Art. 34.
+
+Cabe a ARSAN BM no âmbito de suas competências:
+
+
+I –
+
+administrar os cargos de seu quadro de pessoal integrantes da respectiva estrutura organizacional;
+
+
+II –
+
+editar e dar publicidade aos regulamentos e instruções necessários à aplicação desta Lei;
+
+
+III –
+
+implementar programa de capacitação, treinamento e desenvolvimento destinado a assegurar a profissionalização dos ocupantes dos cargos de seu quadro de pessoal ou que nela tenham exercício.
+
+
+#### CAPÍTULO V — DAS RECEITAS E PATRIMÔNIO
+
+
+Art. 35.
+
+Constituem receitas da ARSAN BM:
+
+
+I –
+
+as dotações consignadas no orçamento do Município, créditos especiais, créditos suplementares e repasses que lhe forem conferidos;
+
+
+II –
+
+os recursos provenientes de convênios, acordos ou contratos celebrados com entidades ou organismos nacionais e internacionais;
+
+
+III –
+
+as oriundas de retribuição por seu serviço, cujos valores serão definidos em resolução;
+
+
+IV –
+
+o produto da execução de sua dívida ativa;
+
+
+V –
+
+as doações, legados, subvenções e contribuições de qualquer natureza realizadas por entidades não reguladas;
+
+
+VI –
+
+os valores apurados na venda ou locação de bens móveis e imóveis de sua propriedade;
+
+
+VII –
+
+o produto da venda de publicações, material técnico, dados e informações e, ainda, as oriundas de inscrição em cursos, palestras e outros eventos que venha a promover;
+
+
+VIII –
+
+a oriunda de publicidade inserida em suas publicações ou fixadas em bens de sua propriedade ou administração;
+
+
+IX –
+
+os valores apurados em aplicações financeiras;
+
+
+X –
+
+os valores decorrentes da aplicação de multas pecuniárias ao prestador do serviço delegado, ao poder concedente (ou titular) do serviço ou aos usuários;
+
+
+XI –
+
+receitas eventuais e/ou compensações e royalties com natureza do serviço;
+
+
+XII –
+
+os recursos provenientes da taxa de regulação e fiscalização paga pelo prestador dos serviços.
+
+
+§ 1º
+
+Todos os recursos mencionados no caput deverão ser creditados diretamente à Agência, para a sua direta gestão orçamentária e financeira.
+
+
+§ 2º
+
+As despesas que excederem as receitas serão custeadas com recursos provenientes de dotações orçamentárias próprias do Município consignadas anualmente no orçamento público.
+
+
+§ 3º
+
+Os valores pertencentes à ARSAN BM, uma vez apurados administrativamente e não pagos no prazo estipulado, serão inscritos na dívida ativa da própria Agência. A inscrição na dívida ativa da Agência servirá de título executivo para cobrança administrativa ou judicial.
+
+
+§ 4º
+
+A inscrição em dívida ativa será de competência da Secretaria Municipal de Finanças, e sua cobrança judicial será realizada pela Procuradoria Geral do Município, com posterior repasse dos valores à ARSAN BM, quando do recebimento dos créditos.
+
+
+Art. 36.
+
+O Diretor Presidente submeterá anualmente, ao Poder Executivo Municipal sua previsão de receitas e despesas para o exercício seguinte, visando a sua incorporação na Lei Orçamentária Anual do Município.
+
+
+Parágrafo único
+
+As propostas orçamentárias deverão ser acompanhadas do planejamento plurianual das receitas e despesas, visando o seu equilíbrio orçamentário e financeiro nos 04 (quatro) anos subsequentes.
+
+
+Art. 37.
+
+As dotações orçamentárias da Agência e sua programação orçamentária e financeira de execução deverão observar os limites legais para movimentação е empenho.
+
+
+Art. 38.
+
+Observadas as normas legais do regime financeiro das autarquias, os recursos serão administrados diretamente pela Agência, através de contas bancárias movimentadas pela assinatura conjunta do Diretor Presidente e Diretor Administrativo Financeiro.
+
+
+Art. 39.
+
+Constituem patrimônio da ARSAN BM os bens e direitos de sua propriedade, os que lhe forem conferidos ou os que venha a adquirir ou incorporar.
+
+
+#### CAPÍTULO VI — DA TAXA DE REGULAÇÃO
+
+
+Art. 40.
+
+Fica instituída a Taxa de Regulação sobre Serviços Públicos de Saneamento Básico, a ser cobrada mensalmente, conforme arrecadação do mês anterior.
+
+
+§ 1º
+
+Constitui fato gerador da taxa o exercício do poder de polícia pela ARSAN BM, o qual consiste na fiscalização dos serviços públicos de saneamento básico.
+
+
+§ 2º
+
+São sujeitos passivos da taxa as entidades públicas ou privadas que prestem serviços públicos de saneamento básico e que se submetam à regulação e à fiscalização da ARSAN BM.
+
+
+§ 3º
+
+O valor da taxa corresponderá a 0,6% (seis décimos por cento) da receita total bruta de toda pessoa física ou jurídica que explore no território municipal os serviços relacionados a saneamento básico, incluindo abastecimento de água, esgotamento sanitário e drenagem urbana, excluindo-se receitas acessórias auferidas pela entidade regulada.
+
+
+§ 4º
+
+A taxa será recolhida nos termos estabelecidos em regulamento da ARSAN BM.
+
+
+§ 5º
+
+A taxa não recolhida no prazo fixado no regulamento de que trata o § 4° deste artigo será cobrada com os seguintes acréscimos:
+
+
+I –
+
+juros de mora, em via administrativa ou judicial, incidentes à taxa de 1% (um por cento) ao més, a partir do mês seguinte ao do vencimento; e
+
+
+II –
+
+multa de mora de 2% (dois por cento).
+
+
+§ 6º
+
+Os débitos relativos à taxa poderão ser parcelados de acordo com os critérios fixados em regulamento.
+
+
+#### CAPÍTULO VII — PENALIDADES
+
+
+Art. 41.
+
+Os prestadores de serviços regulados pela ARSAN BM que venham a incorrer em alguma infração às leis, regulamentos, contratos e outras normas aplicáveis, ou, ainda, que não cumpram adequadamente as ordens, instruções e resoluções da Agência, sujeitam-se às sanções previstas nesta Lei, na Lei nº 8.987/1995, na Lei nº 9.074/1995, na Lei n°11.079/2004, na Lei n° 14.133/2021 e nos instrumentos de delegação e outorga dos serviços regulados.
+
+
+Art. 42.
+
+A inobservância desta Lei ou das demais normas aplicáveis, bem como dos deveres decorrentes dos instrumentos de outorga dos serviços, sujeitará os infratores às seguintes sanções aplicáveis pela Agência, sem prejuízo das de natureza civil e penal:
+
+
+I –
+
+multa;
+
+
+II –
+
+caducidade;
+
+
+III –
+
+declaração de inidoneidade.
+
+
+Parágrafo único
+
+As sanções previstas poderão ser aplicadas cumulativamente.
+
+
+Art. 43.
+
+Nenhuma sanção será aplicada sem o devido processo legal, a ser realizado nos termos desta Lei e dos demais instrumentos de regulação pertinentes.
+
+
+Art. 44.
+
+Nenhuma sanção será aplicada sem a oportunidade de prévia notificação e ampla defesa.
+
+
+Art. 45.
+
+Na aplicação de sanções, serão consideradas a natureza e a gravidade da infração, os danos dela resultantes para o serviço regulado e para os usuários, a vantagem auferida pelo infrator, as circunstâncias agravantes, os antecedentes do infrator e a reincidência específica.
+
+
+Art. 46.
+
+Nas infrações praticadas por pessoa jurídica, também serão punidos com a sanção de multa seus administradores ou controladores, quando tiverem agido de má-fé, sem prejuízo das sanções cíveis e penais.
+
+
+#### CAPÍTULO VIII — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 47.
+
+As despesas com a aplicação desta Lei correrão à conta das dotações próprias consignadas no orçamento vigente, ficando o Poder Executivo autorizado a abrir, para o exercício financeiro créditos suplementares.
+
+
+Art. 48.
+
+Fica o Chefe do Poder Executivo autorizado a criar unidade orçamentária e abrir crédito especial em favor da ARSAN BM.
+
+
+Parágrafo único
+
+Para a abertura do crédito especial de que trata o caput deste artigo, fica o Chefe do Poder Executivo autorizado a promover as adequações necessárias no Plano Plurianual PPA vigente, bem como, respeitadas as vinculações constitucionais e legais das receitas e despesas orçamentárias, remanejar dotações constantes dos programas de trabalho de órgãos e entidades pertencentes ao orçamento fiscal.
+
+
+Art. 49.
+
+Ficam criados 03 (três) cargos em comissão de Diretor:
+
+
+I –
+
+01 cargo de Diretor Presidente com remuneração equivalente a remuneração do Diretor Executivo do SAAE-BM;
+
+
+II –
+
+01 cargo de Diretor Administrativo Financeiro com remuneração equivalente a 90% da remuneração do Diretor Presidente;
+
+
+III –
+
+01 cargo de Diretor de Fiscalização e Regulação em Saneamento com remuneração equivalente a 90% da remuneração do Diretor Presidente.
+
+
+Art. 50.
+
+Revogadas as disposições em contrário, esta Lei entra em vigor na data de sua publicação.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 19 DE DEZEMBRO DE 2025.
+
+
+LUIZ ANTÔNIO FURLANI FILHO  
+PREFEITO
+

@@ -1,0 +1,318 @@
+{
+  "HEAD": "6161c3a06599470c1fcb6e8401901e184815dfb6",
+  "recuperacoes": 2,
+  "normas_novas": 0,
+  "pendencias_antes": 7605,
+  "pendencias_depois": 7603,
+  "removidas": [
+    {
+      "path": "federal/decretos/1944/dec-16611-1944-09-18.md",
+      "sha256_md": "a241487d5c79ac87c1898dfcb222c9e04346d42fdfeee2f89b4e3aeea44dee52",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1944-09-18;16611",
+        "sha256_HTML": "9ae4e46989987b134de52918ca8743d47cb163b6394f3dd994afda84546a0dce",
+        "sha256_metadados": "1df44bc5e4ed0fc7dafd6c1869602c76dc0a435161cb565dbc51f854382c19a3",
+        "OID_HEAD": "12faf9d8e75b48486adc0606179f81f009d0cfea",
+        "comando_proprio": [
+          "Art. 1º Ficam alteradas, na forma da relação anexa, as Tabelas Numéricas, Ordinária e Suplementar, de Extranumerário-mensalista do Serviço Federal de Águas e Esgotos, do Departamento Nacional de Saúde, do Ministério da Educação e Saúde."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 790,
+            "contexto": "Art. 2º Êste Decreto entrará em vigor na data da sua publicação. Rio de Janeiro 18 de setembro de 1944, 123º da Independência e 56º da República. GETULIO VARGAS. Gustavo Capanema. <<ANEXO>>CLBR Vol. 06 Ano 1944 Págs. 577 e 578 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15616-1944-05-19.md",
+      "sha256_md": "f1c67751c0f43490ae435c2723f660e5353bc7e23c66695c9452a16226dca607",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1944-05-19;15616",
+        "sha256_HTML": "9fde5c43efc3406fde7df6cb92ffab631633d91201ea301efeebbc7b8589b130",
+        "sha256_metadados": "30e01b9a0a8495d705564294ca8e40435d43fb4e65c221e458282fb0ecacb013",
+        "OID_HEAD": "84a46ee2b76d0c2ef9a56be89f01dbbf5eb363d9",
+        "comando_proprio": [
+          "Art. 1º Ficam criadas, na forma da relação anexa, na Tabela Numérica Ordinária da Extranumerário-mensalista do Serviço de Meteorologia, do Ministério da Agricultura, para o Instituto Regional de Meteorologia de Recife; as séries funcionais de Calculista, Auxiliar de Escritório, Praticante de Escritório e Meteorologista."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1183,
+            "contexto": "Art. 3º Êste Decreto entrará em vigor na data de sua publicação. Rio de Janeiro, 19 de maio de 1944, 123º da Independência e 56º da República. Getulio Vargas. Apolonio Salles. <<ANEXO>>CLBR Vol. 04 Ano 1944 Pág. 342 Tabela."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    }
+  ],
+  "destinos": [
+    {
+      "path": "federal/decretos/1944/dec-16611-1944-09-18.md",
+      "urn": "urn:lex:br:federal:decreto:1944-09-18;16611",
+      "data": "1944-09-18",
+      "numero": "16611",
+      "HEAD_conferido": "017d02ee58619f3c92e4ae482dc23ee1f35c981a",
+      "sha256_preimagem_HEAD": "a241487d5c79ac87c1898dfcb222c9e04346d42fdfeee2f89b4e3aeea44dee52",
+      "preimagem_arquivada": "federal/_fonte/auditorias/clbr_fontes_20261027_002/preimagem-dec16611.md",
+      "candidato": "federal/_fonte/auditorias/clbr_fontes_20261027_002/dec-16611-1944-09-18-clbr_facs.md",
+      "sha256_candidato": "5faf6e7662bf60ec4a4b88e2b441d7dc42026d753e74a6eb4c874c90948dee36",
+      "fonte_clbr": {
+        "url": "https://bd.camara.leg.br/bd/bitstreams/4be6a61c-abe5-44ef-850e-0bf6d5a68458/download",
+        "papel_no_indice": "Decretos de 1944, link observado sob esse cabeçalho no índice oficial.",
+        "sha256_indice_oficial": "c0d699fc95c0b86da39ac1ac43db307bf63eaf85b960bcee49bd707afd1b508b",
+        "captura_utc": "2026-10-27T22:01:47.497378+00:00",
+        "estado": "concluido",
+        "status": 200,
+        "url_final": "https://bd-rest.camara.leg.br/server/api/core/bitstreams/4be6a61c-abe5-44ef-850e-0bf6d5a68458/content",
+        "headers": {
+          "server": "envoy",
+          "date": "Tue, 27 Oct 2026 22:01:49 GMT",
+          "content-type": "Adobe/PDF;charset=UTF-8",
+          "content-length": "90931199",
+          "vary": "Origin,Access-Control-Request-Method,Access-Control-Request-Headers",
+          "content-language": "en",
+          "last-modified": "Wed, 08 Oct 2014 17:53:59 GMT",
+          "etag": "\"4f3e22ad2d8e616b8c3f4733e974a89a\"",
+          "accept-ranges": "bytes",
+          "expires": "Tue, 27 Oct 2026 23:01:49 GMT",
+          "cache-control": "private,no-cache",
+          "access-control-expose-headers": "Accept-Ranges",
+          "content-disposition": "attachment;filename=\"colecao_leis_1944_parte1.pdf\"",
+          "x-content-type-options": "nosniff",
+          "x-xss-protection": "0",
+          "strict-transport-security": "max-age=31536000 ; includeSubDomains",
+          "x-frame-options": "DENY",
+          "x-envoy-upstream-service-time": "374",
+          "connection": "close"
+        },
+        "path": "federal/_fonte/auditorias/clbr_fontes_20261027_002/1944-decretos.pdf",
+        "sha256": "0121bbf0f93a4056977babdbe9f423bee9d9cbb91000db47e804104831569d87",
+        "bytes": 90931199,
+        "captura_final_utc": "2026-10-27T22:01:55.697638+00:00"
+      },
+      "imagens": [
+        {
+          "candidato": "federal/_fonte/auditorias/clbr_fontes_20261027_002/render16611/pagina-2204.png",
+          "destino_proposto": "federal/anexos/decretos/1944/dec-16611-1944-09-18-principal.png",
+          "sha256": "e32d3c44170419c0b065dfa560c9d6075f5bc04957bc5824847f9b4af96794ae",
+          "pagina_impressa": 576,
+          "pagina_pdf": 2204,
+          "dimensoes": [
+            2313,
+            3200
+          ],
+          "render": {
+            "ferramenta": "pdftoppm",
+            "scale_to": 3200,
+            "sem_rotacao_ou_edicao_de_pixels": true
+          },
+          "inspecao_contextual": "Página inteira vista pelo agente; somente conteúdo deste ato, sem atos vizinhos."
+        },
+        {
+          "candidato": "federal/_fonte/auditorias/clbr_fontes_20261027_002/render16611/pagina-2205.png",
+          "destino_proposto": "federal/anexos/decretos/1944/dec-16611-1944-09-18-tabela-ordinaria.png",
+          "sha256": "e9e00162b656bbc4b938dd783ebc4ecff97b4ef88ab106046b79855124a13275",
+          "pagina_impressa": 577,
+          "pagina_pdf": 2205,
+          "dimensoes": [
+            3200,
+            2303
+          ],
+          "render": {
+            "ferramenta": "pdftoppm",
+            "scale_to": 3200,
+            "sem_rotacao_ou_edicao_de_pixels": true
+          },
+          "inspecao_contextual": "Página inteira vista pelo agente; somente conteúdo deste ato, sem atos vizinhos."
+        },
+        {
+          "candidato": "federal/_fonte/auditorias/clbr_fontes_20261027_002/render16611/pagina-2206.png",
+          "destino_proposto": "federal/anexos/decretos/1944/dec-16611-1944-09-18-tabela-suplementar.png",
+          "sha256": "46a381cb80da284b35d86f8e7d11d2b117a8a40ef31999b3a706dc69a4eefeac",
+          "pagina_impressa": 578,
+          "pagina_pdf": 2206,
+          "dimensoes": [
+            3200,
+            2300
+          ],
+          "render": {
+            "ferramenta": "pdftoppm",
+            "scale_to": 3200,
+            "sem_rotacao_ou_edicao_de_pixels": true
+          },
+          "inspecao_contextual": "Página inteira vista pelo agente; somente conteúdo deste ato, sem atos vizinhos."
+        }
+      ],
+      "identidade": {
+        "epigrafe_visual": "Decreto n.º 16.611 — de 18 de setembro de 1944",
+        "fecho_visual": "Rio de Janeiro, 18 de setembro de 1944",
+        "metadados_API_concordam": true,
+        "objeto": "Serviço Federal de Águas e Esgotos; tabelas numéricas ordinária e suplementar",
+        "assinaturas": "Getulio Vargas; Gustavo Capanema"
+      },
+      "edicao": "Corpo e anexos provêm integralmente da mesma edição CLBR 1944, volume VI, páginas 576–578; não há mistura silenciosa de edições.",
+      "observacao_editorial": "Texto principal e tabelas numéricas ordinária e suplementar reproduzidos integralmente em fac-símile da mesma edição CLBR. Na tabela suplementar, a situação proposta de Servente apresenta 23 na linha e 28 no total; ambos são mantidos literalmente, sem atribuir causa ou corrigir a edição. A versão textual Normas anterior e suas fontes permanecem preservadas no recibo.",
+      "QA": {
+        "erros_formato": [],
+        "avisos_formato": [],
+        "principal_e_duas_tabelas_vistos_integralmente": true,
+        "nenhuma_transcricao_automatica_ou_reconstrucao_de_letras": true,
+        "sha256_guard_vivo_registrado": "3cd60ac4a398a27cc0f646f891e853f6b120b1a963deb4cc9f0ccfd7d6ca0cd0"
+      },
+      "limites": "Candidato privado para leitura integral ROOT. Nenhuma promoção, Git de escrita ou alteração de pendência. Fac-símiles conservam a qualidade e ambiguidades materiais da fonte."
+    },
+    {
+      "path": "federal/decretos/1944/dec-15616-1944-05-19.md",
+      "urn": "urn:lex:br:federal:decreto:1944-05-19;15616",
+      "data": "1944-05-19",
+      "numero": "15616",
+      "HEAD_conferido": "017d02ee58619f3c92e4ae482dc23ee1f35c981a",
+      "sha256_preimagem_HEAD": "f1c67751c0f43490ae435c2723f660e5353bc7e23c66695c9452a16226dca607",
+      "preimagem_arquivada": "federal/_fonte/auditorias/clbr_fontes_20261027_002/preimagem-dec15616.md",
+      "candidato": "federal/_fonte/auditorias/clbr_fontes_20261027_002/dec-15616-1944-05-19-clbr_facs.md",
+      "sha256_candidato": "fb5251eb096fa8dcd6e6b587b08aa10134492b0f65c779a81d19a1a08512f524",
+      "fonte_clbr": {
+        "url": "https://bd.camara.leg.br/bd/bitstreams/4be6a61c-abe5-44ef-850e-0bf6d5a68458/download",
+        "papel_no_indice": "Decretos de 1944, link observado sob esse cabeçalho no índice oficial.",
+        "sha256_indice_oficial": "c0d699fc95c0b86da39ac1ac43db307bf63eaf85b960bcee49bd707afd1b508b",
+        "captura_utc": "2026-10-27T22:01:47.497378+00:00",
+        "estado": "concluido",
+        "status": 200,
+        "url_final": "https://bd-rest.camara.leg.br/server/api/core/bitstreams/4be6a61c-abe5-44ef-850e-0bf6d5a68458/content",
+        "headers": {
+          "server": "envoy",
+          "date": "Tue, 27 Oct 2026 22:01:49 GMT",
+          "content-type": "Adobe/PDF;charset=UTF-8",
+          "content-length": "90931199",
+          "vary": "Origin,Access-Control-Request-Method,Access-Control-Request-Headers",
+          "content-language": "en",
+          "last-modified": "Wed, 08 Oct 2014 17:53:59 GMT",
+          "etag": "\"4f3e22ad2d8e616b8c3f4733e974a89a\"",
+          "accept-ranges": "bytes",
+          "expires": "Tue, 27 Oct 2026 23:01:49 GMT",
+          "cache-control": "private,no-cache",
+          "access-control-expose-headers": "Accept-Ranges",
+          "content-disposition": "attachment;filename=\"colecao_leis_1944_parte1.pdf\"",
+          "x-content-type-options": "nosniff",
+          "x-xss-protection": "0",
+          "strict-transport-security": "max-age=31536000 ; includeSubDomains",
+          "x-frame-options": "DENY",
+          "x-envoy-upstream-service-time": "374",
+          "connection": "close"
+        },
+        "path": "federal/_fonte/auditorias/clbr_fontes_20261027_002/1944-decretos.pdf",
+        "sha256": "0121bbf0f93a4056977babdbe9f423bee9d9cbb91000db47e804104831569d87",
+        "bytes": 90931199,
+        "captura_final_utc": "2026-10-27T22:01:55.697638+00:00"
+      },
+      "imagens": [
+        {
+          "candidato": "federal/_fonte/auditorias/clbr_fontes_20261027_002/render15616/principal-recorte.png",
+          "destino_proposto": "federal/anexos/decretos/1944/dec-15616-1944-05-19-principal.png",
+          "sha256": "1b2dfd650434c181771588aa088f0cf2abea3170b59d249ef30c3163fc81b8b9",
+          "pagina_impressa": 341,
+          "pagina_pdf": 1161,
+          "dimensoes": [
+            1720,
+            1370
+          ],
+          "render": {
+            "ferramenta": "pdftoppm",
+            "scale_to": 3200,
+            "recorte": {
+              "x": 270,
+              "y": 960,
+              "largura": 1720,
+              "altura": 1370
+            },
+            "sem_rotacao_ou_edicao_de_pixels": true
+          },
+          "inspecao_contextual": "Principal recortado da epígrafe à assinatura; tabela em página inteira. Ambos vistos pelo agente, somente conteúdo deste ato, sem atos vizinhos."
+        },
+        {
+          "candidato": "federal/_fonte/auditorias/clbr_fontes_20261027_002/render15616/pagina-1162.png",
+          "destino_proposto": "federal/anexos/decretos/1944/dec-15616-1944-05-19-tabela.png",
+          "sha256": "c7604aa6d8fcb90bbe64e258b3c898a97c1534d9c571bc30174edfabde4ffcf2",
+          "pagina_impressa": 342,
+          "pagina_pdf": 1162,
+          "dimensoes": [
+            2275,
+            3200
+          ],
+          "render": {
+            "ferramenta": "pdftoppm",
+            "scale_to": 3200,
+            "recorte": null,
+            "sem_rotacao_ou_edicao_de_pixels": true
+          },
+          "inspecao_contextual": "Principal recortado da epígrafe à assinatura; tabela em página inteira. Ambos vistos pelo agente, somente conteúdo deste ato, sem atos vizinhos."
+        }
+      ],
+      "identidade": {
+        "epigrafe_visual": "Decreto n.º 15.616 — de 19 de maio de 1944",
+        "fecho_visual": "Rio de Janeiro, 19 de maio de 1944",
+        "metadados_API_concordam": true,
+        "objeto": "Serviço de Meteorologia, Instituto Regional de Meteorologia de Recife; séries Calculista, Auxiliar de Escritório, Praticante de Escritório e Meteorologista",
+        "assinaturas": "Getulio Vargas; Apolonio Salles"
+      },
+      "edicao": "Corpo e anexos provêm integralmente da mesma edição CLBR 1944, volume VI, páginas 341–342; não há mistura silenciosa de edições.",
+      "observacao_editorial": "Texto principal e tabela do Instituto Regional de Meteorologia de Recife reproduzidos integralmente em fac-símile da mesma edição CLBR. O recorte do principal conserva somente o Decreto 15.616, da epígrafe à assinatura, sem o final do ato anterior. A versão textual Normas anterior e suas fontes permanecem preservadas no recibo.",
+      "QA": {
+        "erros_formato": [],
+        "avisos_formato": [],
+        "principal_e_tabela_vistos_integralmente": true,
+        "nenhuma_transcricao_automatica_ou_reconstrucao_de_letras": true,
+        "sha256_guard_vivo_registrado": "3cd60ac4a398a27cc0f646f891e853f6b120b1a963deb4cc9f0ccfd7d6ca0cd0"
+      },
+      "limites": "Candidato privado para leitura integral ROOT. Nenhuma promoção, Git de escrita ou alteração de pendência. Fac-símiles conservam a qualidade e ambiguidades materiais da fonte."
+    }
+  ],
+  "criterio": "ROOT leu visualmente todos os principais e tabelas em fac-símile da mesma edição CLBR. 15.616: principal da epígrafe às duas assinaturas, tabela inteira com quatro séries funcionais. 16.611: principal com dois artigos e assinaturas, duas tabelas inteiras, sem atos vizinhos. Divergência literal Servente 23/28 mantida sem correção ou causa inferida. PDF anual oficial completo e todas as preimagens preservados. Somente as duas pendências documentalmente resolvidas são removidas.",
+  "sha256": {
+    "federal/_fonte/auditorias/clbr_fontes_20261027_002/preparar16611.py": "ac944a1ca98a61857e5187e93ef5865ede2907573282b4e143fcad6312a68eaa",
+    "federal/_fonte/auditorias/clbr_fontes_20261027_002/candidato16611_facs.json": "2ba7fea2e8eab32ae5c8aff3d090d3c1934f5087b07b41030c5c30e6acaaf111",
+    "federal/_fonte/auditorias/clbr_fontes_20261027_002/dec-16611-1944-09-18-clbr_facs.md": "5faf6e7662bf60ec4a4b88e2b441d7dc42026d753e74a6eb4c874c90948dee36",
+    "federal/_fonte/auditorias/clbr_fontes_20261027_002/preimagem-dec16611.md": "a241487d5c79ac87c1898dfcb222c9e04346d42fdfeee2f89b4e3aeea44dee52",
+    "federal/_fonte/auditorias/clbr_fontes_20261027_002/receipt16611.jsonl.gz": "79c0bc789278437d0845c8766ce6220d901514dccd34097dc71e29ca88c16241",
+    "federal/_fonte/auditorias/clbr_fontes_20261027_002/render16611/pagina-2204.png": "e32d3c44170419c0b065dfa560c9d6075f5bc04957bc5824847f9b4af96794ae",
+    "federal/_fonte/auditorias/clbr_fontes_20261027_002/render16611/pagina-2205.png": "e9e00162b656bbc4b938dd783ebc4ecff97b4ef88ab106046b79855124a13275",
+    "federal/_fonte/auditorias/clbr_fontes_20261027_002/render16611/pagina-2206.png": "46a381cb80da284b35d86f8e7d11d2b117a8a40ef31999b3a706dc69a4eefeac",
+    "federal/_fonte/auditorias/clbr_fontes_20261027_002/capturas-anuais.json": "dcd1b738c6025e4d2eca7af6e620940b819f696431a02c00891e3f7fa0fad01c",
+    "federal/_fonte/auditorias/clbr_fontes_20261027_002/validacao_fontes_anuais_v1.json": "241cdfeb201c1688f8323d60e61c4856a38e6b16e7ac667970fef6df224d5066",
+    "federal/_fonte/auditorias/clbr_fontes_20261027_002/decada1941.html.gz": "f39326401deee5f020077637daf3addbc4562f07e0f7f628596e596622e0e934",
+    "federal/_fonte/auditorias/clbr_fontes_20261027_002/recibo-decada1941.json": "78f3090aee936c5138c8a7306bface4bc2c650e083fad688cd1144bb9dfbda1c",
+    "federal/_fonte/auditorias/clbr_fontes_20261027_002/entrega16611-hashes.json": "30b02379604da39d622ade2fac4ff6c7d93a140701f57fb8136ecb586ea2bb2d",
+    "federal/_fonte/auditorias/clbr_fontes_20261027_002/preparar15616.py": "4f8fdccc203c6e362d4be35c58ab70b209a2ab7916af6d3a7a0ba262231d43ec",
+    "federal/_fonte/auditorias/clbr_fontes_20261027_002/candidato15616_facs.json": "89652171977a436f55353e449f8419d2f7ede80e734a16c1404858a44367cead",
+    "federal/_fonte/auditorias/clbr_fontes_20261027_002/dec-15616-1944-05-19-clbr_facs.md": "fb5251eb096fa8dcd6e6b587b08aa10134492b0f65c779a81d19a1a08512f524",
+    "federal/_fonte/auditorias/clbr_fontes_20261027_002/preimagem-dec15616.md": "f1c67751c0f43490ae435c2723f660e5353bc7e23c66695c9452a16226dca607",
+    "federal/_fonte/auditorias/clbr_fontes_20261027_002/receipt15616.jsonl.gz": "4858d66fa736fecb79248e21862e2b6ff44ac97e83101332078e1b94b483a40d",
+    "federal/_fonte/auditorias/clbr_fontes_20261027_002/render15616/pagina-1161.png": "bb090a4ceb685cf3e0bdb4136b103f12dcfad7ec34b4026fc10e3736fd2614f5",
+    "federal/_fonte/auditorias/clbr_fontes_20261027_002/render15616/principal-recorte.png": "1b2dfd650434c181771588aa088f0cf2abea3170b59d249ef30c3163fc81b8b9",
+    "federal/_fonte/auditorias/clbr_fontes_20261027_002/render15616/pagina-1162.png": "c7604aa6d8fcb90bbe64e258b3c898a97c1534d9c571bc30174edfabde4ffcf2",
+    "federal/_fonte/auditorias/clbr_fontes_20261027_002/entrega15616-hashes.json": "6338f415e9eafa63808a12a833e2cd354f79a99ca055bf872a547cf165179d79",
+    "federal/_fonte/auditorias/clbr_fontes_20261027_002/1944-decretos.pdf": "0121bbf0f93a4056977babdbe9f423bee9d9cbb91000db47e804104831569d87",
+    "federal/_historico_recuperacao_clbr2_root_20261027/dec-16611-1944-09-18.md.gz": "6ad51ef51d0fa42d68d417605176a22e61a599537c9447b5e53c00dff279e57f",
+    "federal/_historico_recuperacao_clbr2_root_20261027/dec-15616-1944-05-19.md.gz": "a66149e65985a78a18b27c7a7538c226d5d9acf06298f85fb392f62b8fd70a2a",
+    "federal/_historico_recuperacao_clbr2_root_20261027/pendencias7605.json.gz": "418f6956ed47f80eee33dcb3f6fe774589671db5d08db4a4cd25d7799e56e65b",
+    "federal/anexos/decretos/1944/dec-16611-1944-09-18-principal.png": "e32d3c44170419c0b065dfa560c9d6075f5bc04957bc5824847f9b4af96794ae",
+    "federal/anexos/decretos/1944/dec-16611-1944-09-18-tabela-ordinaria.png": "e9e00162b656bbc4b938dd783ebc4ecff97b4ef88ab106046b79855124a13275",
+    "federal/anexos/decretos/1944/dec-16611-1944-09-18-tabela-suplementar.png": "46a381cb80da284b35d86f8e7d11d2b117a8a40ef31999b3a706dc69a4eefeac",
+    "federal/anexos/decretos/1944/dec-15616-1944-05-19-principal.png": "1b2dfd650434c181771588aa088f0cf2abea3170b59d249ef30c3163fc81b8b9",
+    "federal/anexos/decretos/1944/dec-15616-1944-05-19-tabela.png": "c7604aa6d8fcb90bbe64e258b3c898a97c1534d9c571bc30174edfabde4ffcf2",
+    "federal/decretos/1944/dec-16611-1944-09-18.md": "5faf6e7662bf60ec4a4b88e2b441d7dc42026d753e74a6eb4c874c90948dee36",
+    "federal/decretos/1944/dec-15616-1944-05-19.md": "fb5251eb096fa8dcd6e6b587b08aa10134492b0f65c779a81d19a1a08512f524",
+    "scripts/dados/pendencias-integralidade-publicadas.json": "0d8361df7a285ae6c5bbb707821101e0d8406b36d1ad268a7a7210bd19990573"
+  }
+}

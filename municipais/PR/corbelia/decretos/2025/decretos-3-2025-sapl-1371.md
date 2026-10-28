@@ -1,0 +1,113 @@
+---
+titulo: "10 - Decreto nº 3, de 02 de janeiro de 2025"
+tipo: "Decreto"
+tipo_na_fonte: "10 - Decreto"
+numero: "3"
+data: "2025-01-02"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1371"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1377/text"
+sha256_fonte: "ed6126650beaa5f6a6888656e2cb867ec99b99fdc232124a4883d08edc744fdc"
+sha256_texto: "92500c1bd5cde18c8095c4bb23a2f1d9b9d30c58a1282f983125ebd28229cf1f"
+capturado_em_fonte: "2026-10-28T04:42:39.249105-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 10 - Decreto nº 3, de 02 de janeiro de 2025
+
+Regulamenta forma de repasse de auxílio financeiro a servidores, que se deslocarem para outro município do território nacional, conforme especifica.
+
+
+O PREFEITO MUNICIPAL DE CORBÉLIA, Estado do Paraná, no uso das atribuições que lhe confere o Art. 60 e Art. 61 inciso, VI, IX e XXXVII da Lei Orgânica do Município;
+
+
+Art. 1º.
+
+Ficam suspensas as concessões de diárias a todos os servidores da administração Municipal de Corbélia, durante a vigência desse decreto.
+
+
+Art. 2º.
+
+Os repasses de auxílio financeiro para servidores da administração para deslocar-se temporariamente do município de Corbélia para outro ponto do território nacional, no desempenho de suas atribuições, em missão ou estudo desde que relacionados com a função que exercem, será apenas por meio de adiantamento ou ressarcimento.
+
+
+Art. 3º.
+
+Os valores de ressarcimento/adiantamento deverão respeitar o teto de acordo com a seguinte tabela:
+
+
+**Municípios com até 120 Km de distância:**
+
+<table><colgroup><col><col></colgroup><tbody><tr><td>CAFÉ DA MANHÃ</td><td>25,00</td></tr><tr><td>ALMOÇO</td><td>50,00</td></tr><tr><td>JANTA</td><td>50,00</td></tr></tbody></table>
+
+**Municípios acima de 120 Km de distância:**
+
+<table><colgroup><col><col></colgroup><tbody><tr><td>CAFÉ DA MANHÃ</td><td>30,00</td></tr><tr><td>ALMOÇO</td><td>80,00</td></tr><tr><td>JANTA</td><td>80,00</td></tr><tr><td>HOSPEDAGEM</td><td>250,00</td></tr></tbody></table>
+
+**Distrito Federal:**
+
+<table><colgroup><col><col></colgroup><tbody><tr><td>CAFÉ DA MANHÃ</td><td>50,00</td></tr><tr><td>ALMOÇO</td><td>175,00</td></tr><tr><td>JANTA</td><td>175,00</td></tr><tr><td>HOSPEDAGEM</td><td>450,00</td></tr></tbody></table>
+
+
+§ 1º
+
+No início de cada exercício os valores serão corrigidos através da aplicação do índice de correção IPCA (Índice Nacional de Preço ao Consumidor Amplo).
+
+
+§ 2º
+
+Nos deslocamentos deverão ser utilizados como meios de transporte - ônibus, avião ou veículo oficial do Município.
+
+
+§ 3º
+
+É vedada à utilização de veículo particular para os deslocamentos.
+
+
+Art. 4º.
+
+Após a viagem deverá ser realizada a comprovação das despesas através do preenchimento de formulário específico de Relatório de Comprovação, no prazo de 05 (cinco) dias úteis junto atesouraria da unidade administrativa concedente, no qual serão anexados documentos comprobatórios do período da viagem.
+
+
+§ 1º
+
+São considerados documentos comprobatórios: Cópias das passagens utilizadas ou a informação da quilometragem inicial e a final no caso de utilização de veículo oficial.
+
+
+§ 2º
+
+A comprovação do deslocamento também poderá ser feita através da apresentação da Nota Fiscal do hotel com identificação do servidor e Nota fiscal referente à refeição.
+
+
+§ 3º
+
+No caso de deslocamento cujo motivo seja para participação em cursos, palestras, treinamentos, seminários, apresentar junto ao Relatório de Comprovação de Despesas, cópia do panfleto ou convite do evento e certificado.
+
+
+§ 4º
+
+Ao preencher o formulário de Relatório de Comprovação de Despesas, deverá ser relacionado: o número das notas fiscais, o nome do fornecedor e valor das mesmas. Anexar os comprovantes legíveis para conferencia e ressarcimento.
+
+
+Art. 5º.
+
+No caso de deslocamento para Municípios que se localizem a menos de 120(cento e vinte) quilômetros da sede do Município de Corbélia, será proibido a estadia, devendo este deslocar e retornar no mesmo dia, sendo considerado apenas despesas com café da manhã, almoço, janta.
+
+
+Art. 6º.
+
+O servidor que comprovadamente forjar necessidade de sua estadia fora do Município, com finalidade de usufruir das vantagens da presente Lei, será punido na forma do Regime Jurídico do Município.
+
+
+Gabinete do Prefeito Municipal,  
+Corbélia, 02 de janeiro de 2025.
+
+Thiago Daross Stefanello  
+Prefeito Municipal.
+

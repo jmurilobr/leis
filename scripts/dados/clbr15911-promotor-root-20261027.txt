@@ -1,0 +1,32 @@
+from pathlib import Path
+import json,gzip,hashlib,subprocess,os,sys,re
+sha=lambda b:hashlib.sha256(b).hexdigest();base=Path('federal/_fonte/auditorias/clbr_fontes_20261027_002');h={};rows=[]
+for n in ['15911']:
+ mp=base/('entrega'+n+'-hashes.json');d=json.loads(mp.read_bytes())
+ for r in d['arquivos']:
+  p,s=r['path'],r['sha256'];assert sha(Path(p).read_bytes())==s,p;assert p not in h or h[p]==s;h[p]=s
+ h[str(mp)]=sha(mp.read_bytes());rows.append(json.loads((base/('candidato'+n+'_facs.json')).read_bytes()))
+head=subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip();rp=Path('scripts/dados/pendencias-integralidade-publicadas.json');oldreg=rp.read_bytes();assert subprocess.check_output(['git','show',head+':'+str(rp)])==oldreg;reg=json.loads(oldreg);assert len(reg['pendentes'])==7603;paths={r['path'] for r in rows};removed=[r for r in reg['pendentes'] if r['path'] in paths];assert len(removed)==1;assets=[]
+for r in rows:
+ p=Path(r['path']);old=p.read_bytes();assert sha(old)==r['sha256_preimagem_HEAD'];assert subprocess.check_output(['git','show',head+':'+str(p)])==old;assert Path(r['preimagem_arquivada']).read_bytes()==old;assert next(x for x in removed if x['path']==str(p))['sha256_md']==sha(old)
+ final=Path(r['candidato']).read_bytes();assert sha(final)==r['sha256_candidato'];src=r['fonte_clbr'];q=Path(src['path']);assert q.stat().st_size==src['bytes']<95*1024**2 and sha(q.read_bytes())==src['sha256'];h[str(q)]=src['sha256']
+ for im in r['imagens']:
+  source,target,s=im['candidato'],im['destino_proposto'],im['sha256'];assert sha(Path(source).read_bytes())==s and not Path(target).exists();assert subprocess.check_output(['git','cat-file','--batch-check'],input=(head+':'+target+'\n').encode()).endswith(b' missing\n');assets.append((source,target,s))
+ for link in re.findall(r'!\[[^\]]*\]\(([^)]+)\)',final.decode()):assert str((p.parent/link).resolve().relative_to(Path.cwd())) in {im['destino_proposto'] for im in r['imagens']}
+assert len(assets)==2
+print('Principal e tabela CLBR 15.911 conferidos pelo ROOT; preimagem HEAD e fonte anual integral por SHA. Registro 7603 -> 7602. Nenhuma norma nova.',flush=True)
+if '--apply' not in sys.argv:raise SystemExit(0)
+assert subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip()==head
+backup=Path('federal/_historico_recuperacao_clbr15911_root_20261027');assert not backup.exists();backup.mkdir()
+for r in rows:
+ p=backup/(Path(r['path']).name+'.gz');p.write_bytes(gzip.compress(Path(r['path']).read_bytes(),mtime=0));assert sha(gzip.decompress(p.read_bytes()))==r['sha256_preimagem_HEAD'];h[str(p)]=sha(p.read_bytes())
+p=backup/'pendencias7603.json.gz';p.write_bytes(gzip.compress(oldreg,mtime=0));assert gzip.decompress(p.read_bytes())==oldreg;h[str(p)]=sha(p.read_bytes())
+def atomic(p,data):
+ p=Path(p);p.parent.mkdir(parents=True,exist_ok=True);t=p.with_name('.'+p.name+'.clbr15911-root.tmp');assert not t.exists()
+ with t.open('xb') as f:f.write(data);f.flush();os.fsync(f.fileno())
+ os.replace(t,p);assert p.read_bytes()==data
+for source,target,s in assets:atomic(target,Path(source).read_bytes());h[target]=s
+for r in rows:
+ assert sha(Path(r['path']).read_bytes())==r['sha256_preimagem_HEAD'];atomic(r['path'],Path(r['candidato']).read_bytes());h[r['path']]=r['sha256_candidato']
+assert rp.read_bytes()==oldreg;reg['pendentes']=[r for r in reg['pendentes'] if r['path'] not in paths];assert len(reg['pendentes'])==7602;atomic(rp,(json.dumps(reg,ensure_ascii=False,indent=2)+'\n').encode());h[str(rp)]=sha(rp.read_bytes())
+p=Path('scripts/dados/clbr15911-recuperacao-root-20261027.json');assert not p.exists();p.write_text(json.dumps({'HEAD':head,'recuperacoes':1,'normas_novas':0,'pendencias_antes':7603,'pendencias_depois':7602,'removidas':removed,'destinos':rows,'criterio':'ROOT conferiu visualmente folha de rosto PDF 1323: volume IV, decretos abril–junho, segunda parte. Principal completo da epígrafe às assinaturas e tabela inteira da Pagadoria Central da FEB nas páginas PDF 1448–1449, impressas 104–105. Recortes sem ato vizinho; PDF anual oficial e preimagem preservados. Somente a pendência deste ato documentalmente resolvida é removida; zero normas novas.','sha256':h},ensure_ascii=False,indent=2)+'\n');h[str(p)]=sha(p.read_bytes());Path('_fonte/operacao_root_20261027/clbr15911-hashes.json').write_text(json.dumps(h,ensure_ascii=False,indent=2)+'\n');print('Recuperação 15.911 aplicada com backups',flush=True)

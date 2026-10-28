@@ -1,0 +1,142 @@
+---
+titulo: "Lei Ordinária nº 2.965, de 15 de dezembro de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2965"
+data: "2021-12-15"
+municipio: "Dores do Indaiá"
+uf: "MG"
+codigo_ibge: "3123205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.doresdoindaia.mg.leg.br/norma/2394"
+fonte_texto: "https://sapl.doresdoindaia.mg.leg.br/ta/78/text"
+sha256_fonte: "d060534e93053efe9f835c71c3216687332e2e85b79d774bb2dfefc608dfc782"
+sha256_texto: "2241f8c635fe46a7f84a663d002f0894f5d9ea0d8c788f34591c5510b6066fb5"
+capturado_em_fonte: "2026-10-28T10:01:40.123274-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.965, de 15 de dezembro de 2021
+
+“DISPÕE SOBRE A POSSIBILIDADE DE CONCESSÃO DO ABONO — FUNDEB AOS PROFISSIONAIS DA DO ABONO — FUNDEB AOS PROFISSIONAIS DA EDUCAÇÃO BÁSICA DA REDE MUNICIPAL DE ENSINO, NA FORMA QUE ESPECIFICA E DA OUTRAS PROVIDÊNCIAS”.
+
+
+Art. 1º.
+
+Poderá ser concedido abono salarial denominado Abono — FUNDEB, em caráter provisório e excepcional, no exercício de 2021, aos Profissionais da Educação Básica, vinculados à Secretaria Municipal de Educação, remunerados através do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação — FUNDEB, para fins de cumprimento do disposto no inciso XI do caput do art. 212-A da Constituição Federal, de 1988.
+
+
+Parágrafo único
+
+O valor global destinado ao pagamento do Abono — FUNDEB será estabelecido por meio de Decreto do Chefe do Poder Executivo, e não poderá ser superior à quantia necessária para integrar 70% (setenta por cento) dos recursos disponíveis na conta municipal do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação — FUNDES, relativos ao exercício de 2021.
+
+
+Art. 2º.
+
+Farão jus ao recebimento do abono previsto no art. 1º desta Lei os profissionais da Educação Básica, assim definidos nos termos do art. 61 da Lei Federal n.º 9.394, de 20 de dezembro de 1996, bem como aqueles profissionais referidos no art. 1º da Lei Federal n.º 13.935, de 11 de dezembro de 2019, remunerados pela fração de 70% (setenta por cento) do FUNDEB, desde que em efetivo exercício, nos termos do inciso III do caput do art. 26 da Lei Federal n.º 14.113, de 25 de dezembro de 2.020.
+
+
+Art. 3º.
+
+Não farão jus ao abono:
+
+
+§ 1º
+
+Os profissionais do Magistério da Educação Básica no gozo das seguintes licenças:
+
+
+I –
+
+Licença para tratamento à saúde cujo prazo seja superior à 12 (doze) meses,
+
+
+II –
+
+Licença por motivo de doença em pessoa da família;
+
+
+III –
+
+Licenca para atividade política;
+
+
+IV –
+
+Licença para tratar de interesses particulares;
+
+
+V –
+
+Licença para desempenho de mandato classista;
+
+
+§ 2º
+
+Os profissionais da Educação Básica servidores efetivos inativos e pensionistas,
+
+
+§ 3º
+
+Os Profissionais da Educação Básica cedidos a outro órgão ou entidade.
+
+
+Art. 4º.
+
+Consideram-se profissionais da Educação Básica em efetivo exercício, aqueles em atuação efetiva no desempenho das atividades da Educação Básica na Rede Municipal de Ensino, associada à sua regular vinculação com a Secretaria Municipal de Educação, estatutária, contratual ou temporária, não sendo descaracterizado por eventuais afastamentos temporários previstos em Lei, com ônus para o Município, que não impliquem em rompimento da relação jurídica existente.
+
+
+Art. 5º.
+
+Caso O servidor seja titular de mais de uma matrícula, ambas serão contempladas.
+
+
+Art. 6º.
+
+O Profissional da Educação Básica, remunerado dentro dos 30% (trinta por cento) do recurso do FUNDEB ou outras fontes, não terão direito ao abono conforme disposto no art. 1º.
+
+
+Art. 7º.
+
+O valor do Abono não será incorporado aos vencimentos ou ao subsídio para nenhum efeito, e sobre ele não incidirão descontos previdenciários.
+
+
+Art. 8º.
+
+valor a ser repassado aos Profissionais da Educação Básica será pago em parcela única, em depósitos bancários específicos, na mesma conta bancária vinculada a folha de pagamento destes profissionais.
+
+
+Art. 9º.
+
+valor do abono será calculado do montante que falta para completar os 70% (setenta por cento) do FUNDEB, no exercício de 2021, devendo ser dividido entre os Profissionais da Educação Básica, habilitados a recebê-lo, observando o disposto na presente Lei.
+
+
+Art. 10.
+
+As despesas decorrentes da execução desta Lei correrão à conta da parcela de 70% (setenta por cento) do FUNDEB, destinada ao pagamento da remuneração dos Profissionais da Educação Básica, apurada no exercício de 2021, previstas em dotações próprias consignadas no orçamento vigente, ficando o Poder Executivo autorizado a abrir, para o corrente exercício, nos termos do art. 43 da Lei Federal n.º 4.320, de 17 de março de 1964, créditos suplementares até o limite do montante de 70% (setenta por cento) dos recursos disponíveis na conta municipal do FUNDEB, relativos ao exercício de 2021.
+
+
+Art. 11.
+
+Esta Lei será regulamentada por meio de Decreto que deverá ser editado em até 15 (quinze) dias após a sua publicação, considerando-se, principalmente, as características do abono de que trata esta Lei e O montante estimado despendido para o pagamento do abono ora pretendido.
+
+
+Art. 12.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 13.
+
+Revogam-se as disposições em contrário.
+
+
+Dores do Indaiá, 15 de Dezembro de 2.021
+
+**ALEXANDRO COÊLHO FERREIRA**
+
+**PREFEITO MUNICIPAL**
+

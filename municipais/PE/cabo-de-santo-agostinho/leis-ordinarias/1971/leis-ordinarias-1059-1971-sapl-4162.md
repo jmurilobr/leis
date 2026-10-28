@@ -1,0 +1,65 @@
+---
+titulo: "Lei Ordinária nº 1.059, de 12 de outubro de 1971"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1059"
+data: "1971-10-12"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/4162"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/4211/text"
+sha256_fonte: "cd244c19784bb09963b1bbad9ab34d4e6d748d81135e04ca51422eebd34ae865"
+sha256_texto: "4936e180fc08cbd366b05e1eef4fb88dea4c5a5a681e6bbd729bdbe8fe93ee06"
+capturado_em_fonte: "2026-10-27T22:13:48.948447-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.059, de 12 de outubro de 1971
+
+EMENTA: Faz doação de terreno à COMPANHIA DE ELETRICIDADE DE PERNAMBUCO CELPE.
+
+
+**O PREFEITO DO MUNICÍPIO DO CABO,** Faço saber que a Câmara Municipal decretou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Executivo Municipal autorizado a fazer doação de um terreno, localizado no perímetro urbano da cidade, pertencente ao patrimônio do Município, à Companhia de Eletricidade de Pernambuco – CELPE.
+
+
+Parágrafo único
+
+O terreno de que trata a presente artigo fica localizado na esquina da rua Teixeira de Sá, com a valeta transversal a essa rua, tendo a partir da esquina citada, 22,25 mts. (vinte e dois metros e vinte e cinco centímetros) ao longo da rua Teixeira de Sá e 27,00 (vinte e sete metros) ao longo da valeta do lado opôsto à rua Teixeira de Sá, mede 22,25 mts. (vinte e dois metros e vinte e cinco centímetros) e no lado opôsto da valeta mede 26,20 mts. (vinte e seis metros e vinte centímetros) perfazendo a área de 591,85 m² (quinhentos e noventa e um metros e oitenta e cinco centímetros quadrados).
+
+
+Art. 2º.
+
+A Companhia de Eletricidade de Pernambuco – CELPE – utilizará o terreno para construção do prédio destinado a um escritório regional, visando inclusive a eletrificação rural, não podendo lhe dar destinação diversa.
+
+
+Art. 3º.
+
+A Companhia de Eletricidade de Pernambuco – CELPE – utilizará o terreno para o fim a que se destina no prazo de um (1) ano.
+
+
+Parágrafo único
+
+Findo o prazo a que se refere o presente artigo sem que haja sido utilizado para o fim a que se refere o Art. 2º da presente Lei, o terreno reverterá ao patrimônio Municipal independente de indenização e interpelação judicial.
+
+
+Art. 4º.
+
+A presente Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**ASSESSORIA DO PLANEJAMENTO DA PREFEITURA MUNICIPAL DO CABO**, em 12 de outubro de 1971.
+
+**a) José Alberto de Lima**
+
+-Prefeito-
+

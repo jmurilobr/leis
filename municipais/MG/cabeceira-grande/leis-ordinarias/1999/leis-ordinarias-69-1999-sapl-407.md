@@ -1,0 +1,194 @@
+---
+titulo: "LEI ORDINÁRIA nº 69, de 13 de setembro de 1999"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "69"
+data: "1999-09-13"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/407"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/89/text"
+sha256_fonte: "d99d5ce07e2a8db287754b050747f8fbc8c806f242c291499f2671419a324edb"
+sha256_texto: "2e10326939dfb5237f645cbd45ea77fe2e301ffa0c7f21dd3e0de2e1e4a74f2d"
+capturado_em_fonte: "2026-10-27T20:41:34.297105-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 69, de 13 de setembro de 1999
+
+DISPÕE SOBRE A CRIAÇÃO DO FUNDO PARA INFÂNCIA E ADOLESCÊNCIA E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+**O Prefeito Municipal de Cabeceira Grande (MG)**, no uso da atribuição que lhe confere o art. 76, III, da Lei Orgânica do Município, faz saber que a Câmara Municipal decreta e ele, em seu nome, promulga a seguinte Lei:
+
+
+#### CAPÍTULO I — DO FUNDO PARA INFÂNCIA E ADOLESCÊNCIA
+
+
+Art. 1º.
+
+Fica criado o Fundo para Infância e Adolescência, nos termos da Lei Federal 8.069, de 13 de julho de 1.990, sujeito a execução e controle contábil pela Secretaria Municipal Administração e Finanças, como captador e aplicador de recursos a serem utilizados segundo as deliberações do Conselho dos Direitos da Criança e do Adolescente.
+
+
+#### CAPÍTULO II — DA COMPETÊNCIA DO FUNDO
+
+
+Art. 2º.
+
+Compete ao Fundo para Infância e Adolescência:
+
+
+I –
+
+registrar os recursos orçamentários próprios do Município ou a ele transferidos em benefício das crianças e dos Adolescentes pelo Estado ou pela União;
+
+
+II –
+
+registrar os recursos captados pelo Município através de Convênios, ou por doação ao Fundo;
+
+
+III –
+
+manter o controle escritural das aplicações financeiras levadas a efeito do Município, nos termos das resoluções do Conselho dos Direitos da Criança e do Adolescente;
+
+
+IV –
+
+liberar os recursos a serem aplicados em benefício de crianças e adolescentes, nos termos das resoluções do Conselho dos Direitos da Criança e do Adolescente;
+
+
+V –
+
+administrar os recursos específicos para os programas de atendimento dos direitos da criança e do adolescente, segundo as resoluções do Conselho dos Direitos da Criança e do Adolescente.
+
+
+#### CAPÍTULO III — DOS RECURSOS DO FUNDO
+
+
+Art. 3º.
+
+Constituem receitas do Fundo para Infância e Adolescência:
+
+
+I –
+
+as transferências oriundas do orçamento da seguridade social;
+
+
+II –
+
+os rendimentos e os juros provenientes de aplicações financeiras;
+
+
+III –
+
+o produto de convênios firmados com outras entidades financeiras;
+
+
+IV –
+
+as doações em espécie feitas diretamente ao Fundo;
+
+
+V –
+
+recursos decorrentes de operações de crédito autorizado pelo Legislativo Municipal;
+
+
+VI –
+
+transferências de entidades públicas.
+
+
+#### CAPÍTULO IV — DO ORÇAMENTO
+
+
+Art. 4º.
+
+O orçamento do Fundo para Infância e Adolescência evidenciará as políticas e programas de trabalho governamentais, observados o Plano Plurianual, a Lei de Diretrizes Orçamentarias e os princípios da universalidade e do equilíbrio.
+
+
+§ 1º
+
+O orçamento do Fundo para Infância e Adolescência integrará o orçamento do Município, em obediência ao princípio da unidade.
+
+
+§ 2º
+
+O orçamento do Fundo observará, na sua elaboração e na sua execução, os padrões e normas estabelecidos na legislação pertinente.
+
+
+§ 3º
+
+O saldo financeiro do exercício, apurado em balanço, poderá ser utilizado em exercício subsequente, se incorporado ao orçamento do Fundo.
+
+
+Art. 5º.
+
+A contabilidade do Fundo para Infância e Adolescência tem por objetivo evidenciar a situação financeira patrimonial e orçamentaria do sistema municipal de defesa dos direitos da criança e do adolescente, observados os padrões e normas estabelecidas na legislação específica.
+
+
+Art. 6º.
+
+A contabilidade será organizada de forma a permitir o exercício das funções de controle prévio, concomitante e subsequente e de informar, inclusive de apropriar e apurar custos dos serviços, e, consequentemente, de concretizar o seu objetivo, bem como interpretar e analisar os resultados obtidos.
+
+
+Art. 7º.
+
+A escrituração contábil será feita pelo método das partidas dobradas.
+
+
+§ 1º
+
+A contabilidade emitirá relatórios mensais de gestão, inclusive dos custos dos serviços.
+
+
+§ 2º
+
+Entende-se por relatórios de gestão os balancetes mensais de receita e despesa do Fundo e demais demonstrações exigidas pela Administração e pela legislação pertinente.
+
+
+§ 3º
+
+As demonstrações e os relatórios produzidos passarão a integrar a contabilidade geral do Município.
+
+
+Art. 8º.
+
+Fica o Poder Executivo autorizado a abrir crédito ao orçamento vigente, no valor suficiente para cobrir as despesas de implantação do Fundo para Infância e Adolescência.
+
+
+Parágrafo único
+
+As despesas a serem atendidas pelo presente crédito correrão à conta do código 4130, Investimentos em Regime de Execução Especial, as quais serão compensadas com recursos oriundos do art. 43, §§ e incisos da Lei Federal 4.320, de 17 de março de 1964.
+
+
+Art. 9º.
+
+As demais disposições referentes ao Fundo para Infância e Adolescência, bem como ativos e aplicações, execução orçamentária, receitas, entre outras, serão regulamentadas por Resolução expedida pelo Conselho Municipal dos Direitos da Criança e do Adolescente, observadas as normas gerais de Direito Financeiro e os princípios da Constituição da República.
+
+
+Art. 10.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Art. 11.
+
+Revogam-se as disposições em contrário.
+
+
+Cabeceira Grande-MG, 13 de setembro de 1.999.
+
+**Antônio Nazaré Santana Melo**
+
+**Prefeito Municipal**
+
+**"Este texto não substitui o original."**
+

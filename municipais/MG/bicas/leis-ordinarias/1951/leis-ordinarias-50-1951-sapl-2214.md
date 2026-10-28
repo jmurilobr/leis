@@ -1,0 +1,186 @@
+---
+titulo: "Lei nº 50, de 12 de setembro de 1951"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "50"
+data: "1951-09-12"
+municipio: "Bicas"
+uf: "MG"
+codigo_ibge: "3106903"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bicas.mg.leg.br/norma/2214"
+fonte_texto: "https://sapl.bicas.mg.leg.br/ta/110/text"
+sha256_fonte: "6d89b4befc67c0c73171744cd8e0b3dd3293c89cd336db8ec55a24a77148e62c"
+sha256_texto: "445d8a2f050312819fd2d7f3e7f12569f75442a40abdde0ad53d74c253887f92"
+capturado_em_fonte: "2026-10-27T17:40:09.619107-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 50, de 12 de setembro de 1951
+
+Cria o imposto de diversões e estabelece normas para a sua cobrança.
+
+
+A Câmara Municipal de Bicas por seus vereadores aprovou e eu, em seu nome sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+O imposto sobre diversões públicas será cobrado em duas partes, sendo uma fixa, paga pelo proprietário do divertimento e outra proporcional, paga pelos expectadores.
+
+
+§ 1º
+
+A parte fixa será cobrada de acordo com a seguinte tabela:  
+1° Classe – Cr$: 25,00 por espetáculo;  
+2° Classe – Cr$:20,00 por espetáculo;  
+3° Classe – Cr$:15,00 por espetáculo;  
+4° Classe – Cr$: 10,00 por espetáculo;  
+5° Classe – Cr$: 5,00 por espetáculo;
+
+
+§ 2º
+
+A classificação deste parágrafo será feita, tendo-se em vista o capital aplicado, as instalações, o movimento econômico, a localização e os preços cobrados pelo estabelecimento.
+
+
+§ 3º
+
+A parte proporcional será cobrada à base de dez centavos por cruzeiros do valor dos bilhetes de entrada a ele sujeitos, desprezada a fração inferior a Cr$: 0,50 e integralizando-se quando de valor igual ou superior a Cr$: 0,50.
+
+
+Art. 2º.
+
+Responsabilizar-se-á pelo pagamento do tributo tanto da parte fixa como da parte proporcional, como contribuindo direto, o proprietário da diversão pública.
+
+
+Art. 3º.
+
+Ficam sujeitos à cobrança do tributo os espetáculos de qualquer gênero de diversão que se realizem em teatros, cinemas, cine-teatros, circos, clubs, dancings, sociedades, parques, campos de futebol ou outro qualquer local acessível ao público por meio de entradas pagas.
+
+
+Art. 4º.
+
+A arrecadação será feita por verba, aos cofres municipais, mediante extração de guia de recolhimento, pelo seguinte modo:
+
+
+a)
+
+Periodicamente ou quando necessário, o proprietário ou responsável apresentará à seção competente da Prefeitura, acompanhados de uma guia em duas vias, talões de ingressos, em que constem em caracteres impressos seu nome ou da empresa e o valor de cada um, afim de serem carimbados e rubricados.
+
+
+b)
+
+Em livro especial escuturar-se-ão, a débito do proprietário ou da empresa, as quantidades de ingressos, seu valor e imposto devido, devolvendo-se-lhe uma guia, digo via da guia devidamente anotada e visada pelo respectivo encarregado, acompanhada dos talões carimbados e rubricados.
+
+
+c)
+
+Diária ou semanalmente, a critério do fixo, o proprietário ou responsável recolherá à tesouraria municipal o imposto correspondente aos ingressos vendidos no período, extraindo-se-lhe conhecimento em que constem as quantidades, valor total e o imposto recolhido.
+
+
+d)
+
+A tesouraria encaminhará à seção competente cópia do conhecimento mencionado, para ser dada baixa no débito referido na letra b, dos ingressos utilizados, demonstrando-se o saldo devedor.
+
+
+e)
+
+Em se tratando de espetáculos avulsos ou estabelecimentos ambulantes, o funcionário fiscal, designado para o local onde se realiza o divertimento público, contará os ingressos vendidos e extrairá o conhecimento correspondente, em que se declararão, além do número de ingressos vendidos, a importância total, o imposto pago, a data e a natureza da diversão.
+
+
+Art. 5º.
+
+Os funcionários fiscais, além do exame das bilheterias, farão a fiscalização “de visa” de que o número de espectadores presentes corresponde ao de bilhetes vendidos, excluídas as pessoas que tenham ingressos gratuitos, plenamente justificados, não se tolerando os ingressos por favor.
+
+
+§ 1º
+
+No caso do §3° do artigo 1°, os funcionários fiscais, além do exame das bilheterias, verificarão se todos os ingressos que estão sendo vendidos e inutilizados ao serem depositados na urna, acham-se carimbados e rubricados pela autoridade municipal competente.
+
+
+§ 2º
+
+Para os fins deste artigo é facultativo aos funcionários fiscais, em serviço, o livre ingresso em todas as casas de diversões, parques, salões, nipódromos, campos de jogos e quaisquer outro em que haja renda a fiscalizar.
+
+
+§ 3º
+
+As chaves das urnas ficarão em poder da fiscalização de rendas municipais.
+
+
+§ 4º
+
+Nenhuma urna será aberta para incineração de ingressos sem que estejam presentes um representante da Empresa e um preposto da fiscalização municipal.
+
+
+Art. 6º.
+
+Os contribuintes do imposto de diversões, que pagarem as partes fixas e proporcionais, ficarão isentos do imposto de industrias e profissões.
+
+
+Art. 7º.
+
+Os infratores de qualquer das disposições desta lei incorrerão, em cada infração na multa de Cr$: 500,00.
+
+
+Art. 8º.
+
+Os proprietários ou responsáveis por casas de diversões incorrerão na multa de que trata o artigo anterior, também quando se negarem, por si ou por seus representantes, a franquearem ingressos aos funcionários fiscais em serviço, afim de verificarem a fiel execução desta lei. A mesma multa será imposta a todo aquele que, por qualquer motivo, se opuser a fiscalização ou a embaraçar.
+
+
+Art. 9º.
+
+Uma vez constatada a fraude fiscal deverão os funcionários fiscais apreender os bilhetes não carimbados e rubricados ou utilizados pela segunda vez, se for o caso; neste caso ou no descumprimento de qualquer outra formalidade legal, será lavrado o auto de infração perante duas testemunhas, nos termos da legislação em vigor.
+
+
+§ 1º
+
+Sem o pagamento da multa ou depósito na repartição coletora municipal, o estabelecimento infrator ou suposto infrator não poderá continuar a funcionar.
+
+
+§ 2º
+
+O pagamento da multa não isenta o infrator de recolher o imposto devido.
+
+
+Art. 10.
+
+São isentos do imposto sobre diversões os espetáculos, conferências, recitais ou outras funções pagas, cuja renda líquida reverta, na sua totalidade, em favor de instituições de caridade e de caráter religioso, desde que sejam avulsos.
+
+
+Parágrafo único
+
+Os responsáveis ou interessados, gozarem da isenção referida neste artigo, deverão requerê-la por escrito, à Prefeitura Municipal, com antecedência mínima de vinte e quatro horas, citando o fim a que se destina a renda da função, assim como o lugar, data e hora em que se vai realizar o espetáculo.
+
+
+Art. 11.
+
+O presente imposto será arrecadado sem alteração do que foi cobrado pela lei 27 de 21/12/1942, e sem dificultar as normas estabelecidas para a arrecadação do imposto adicional criado para os fins do convênio nacional de Estatística Municipal.
+
+
+Art. 12.
+
+Para os fins de cobrança da taxa, digo parte fixa de que cogita a presente lei, como quarta classe.
+
+
+Art. 13.
+
+Esta Lei entrará em vigor na data de sua publicação, ficando ressalvado que ficarão dispensados do pagamento da parte fixa, no corrente ano, o Cine-Teatro São José bem como todas as casas de diversões que houverem pago, no corrente exercício, o imposto de Industrias e Profissões.
+
+
+Mando, portando, a todos a quem o conhecimento ou execução desta lei pertencer que a cumpram e a façam cumprir tão fielmente como nela se contém.
+
+
+Prefeitura Municipal de Bicas, aos 12 dias do mês de setembro de 1951.  
+  
+Prefeito Municipal  
+Secretário  
+  
+Á sanção. Sala das sessões, 08/09/51.  
+  
+Ernani Attademo, vice-presidente.
+

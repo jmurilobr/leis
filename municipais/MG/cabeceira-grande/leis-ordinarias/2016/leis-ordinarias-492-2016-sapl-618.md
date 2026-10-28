@@ -1,0 +1,156 @@
+---
+titulo: "LEI ORDINÁRIA nº 492, de 29 de abril de 2016"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "492"
+data: "2016-04-29"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/618"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/546/text"
+sha256_fonte: "61fb9556f5bd274aef5b8d254f993166c82ace8c45a9954817a5f6fac602c09a"
+sha256_texto: "34b4d75222093f3c83d6c36c005c7b54483752b2cd77a5393b0eff6e369c1125"
+capturado_em_fonte: "2026-10-27T20:22:45.695907-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 492, de 29 de abril de 2016
+
+**Autoriza o Poder Executivo a indenizar, por meio de dação em pagamento, pessoa física que menciona e dá outras providências.**
+
+
+**O PREFEITO DO MUNICÍPIO DE CABECEIRA GRANDE**, Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 76, inciso III da Lei Orgânica do Município, faz saber que a Câmara Municipal de Cabeceira Grande decreta e ele, em seu nome, sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo autorizado a promover indenização aos Senhores Walter José Souza Ribeiro, brasileiro, casado, portador da Carteira de Identidade n.º 1.335.604, expedida pela SSP/DF, e Júlia Bispo Maciel, brasileira, casada, portadora da Carteira de Identidade n.º 4.854.022, expedida pela SSP/GO, inscrita no CPF sob o n.º 020.086.181-61, ambos residentes e domiciliados na Quadra 201, Conjunto 16, Casa 16, São Sebastião (DF), por meio do seu procurador em comum, Senhor Elione Antônio Gomes, brasileiro, solteiro, portador da Carteira de Identidade n.º 1.270.338, expedida pela SSP/DF, inscrito no CPF sob o n.º 553.677.551-00, residente e domiciliado na Fazenda Lagoa do Mel, Distrito de Palmital de Minas, Município de Cabeceira Grande (MG), em decorrência de o Município ter alienado, equivocadamente, por leilão (Processo Administrativo Licitatório n.º 21/2015/Leilão n.º 1/2015), o imóvel identificado como Lote n.º 16, da Quadra 50, situado na Rua Cristalina, Distrito de Palmital de Minas, Município de Cabeceira Grande, com área de 450m2 (quatrocentos e cinquenta metros quadrados), que não pertencia ao patrimônio público, em face de ter sido alienado, anteriormente, com escritura lavrada, porém não registrada.
+
+
+§ 1º
+
+Para consolidar a indenização, o Município de Cabeceira Grande alienará, por dação em pagamento, outro imóvel, com a seguinte identificação:
+
+
+I –
+
+Lote n.º 20, da Quadra n.º 42, situado na Rua Manoel José Bonfim, Distrito de Palmital de Minas, Município de Cabeceira Grande (MG), com área de 625m2 (seiscentos e vinte e cinco metros quadrados), registrado sob a Matrícula n.º 30.487, no Cartório de Registro de Imóveis de Unaí;
+
+
+II –
+
+avaliado em R$ 25.750,00 (vinte e cinco mil setecentos e cinquenta reais), pela Comissão Especial de Avaliação da Prefeitura de Cabeceira Grande, por meio de laudo de avaliação específico;
+
+
+III –
+
+medidas e confrontações:
+
+
+a)
+
+frente: 12,50m (doze metros e cinquenta centímetros), confrontando-se com a Rua Manoel José Bonfim;
+
+
+b)
+
+fundo: 12,50m (doze metros e cinquenta centímetros), confrontando-se com o Lote n.º 8;
+
+
+c)
+
+lateral direita: 50,00m (cinquenta metros), confrontando-se com o Lote n.º 19; e
+
+
+d)
+
+lateral esquerda: 50,00m (cinquenta metros), confrontando-se com o Lote n.º 21.
+
+
+§ 2º
+
+O imóvel equivocadamente alienado pelo Município e que pertencia ao Senhor Walter José Souza Ribeiro, possui a seguinte identificação:
+
+
+I –
+
+Lote n.º 16, da Quadra n.º 50, situado na Rua Cristalina, Distrito de Palmital de Minas, Município de Cabeceira Grande (MG), com área de 450m2 (quatrocentos e cinquenta metros quadrados), registrado sob a Matrícula n.º 30.487, no Cartório de Registro de Imóveis de Unaí;
+
+
+II –
+
+avaliado em R$ 15.885,00 (quinze mil oitocentos e oitenta e cinco reais), pela Comissão Especial de Avaliação da Prefeitura de Cabeceira Grande, por meio de laudo de avaliação específico;
+
+
+III –
+
+medidas e confrontações:
+
+
+a)
+
+frente: 15,00m (quinze metros), confrontando-se com a Rua Cristalina;
+
+
+b)
+
+fundo: 15,00m (quinze metros), confrontando-se com o Lote n.º 12;
+
+
+c)
+
+lateral direita: 50,00m (cinquenta metros), confrontando-se com os Lotes ns.º 14 e 15; e
+
+
+d)
+
+lateral esquerda: 50,00 (cinquenta metros), confrontando-se com o Lote n.º 17.
+
+
+§ 3º
+
+O interesse público na celebração do ajuste decorrente do disposto nesta lei se justifica pelo fato de ter ocorrido alienação de imóvel já transferido e não pertencente ao patrimônio público, o que se deu por lapso manifesto, evitando-se com isso enriquecimento ilícito da Administração.
+
+
+Art. 2º.
+
+A indenização de que trata o artigo 1º desta Lei far-se-á, mediante contrato particular de dação em pagamento do imóvel público identificado no parágrafo 1º do artigo 1º desta Lei, porém o Município receberá a diferença entre os bens, no valor de R$ 5.000,00 (cinco mil reais), a ser pago pelos Senhores Walter José Souza Ribeiro e Júlia Bispo Maciel, devidamente representado pelo procurador Elione Antônio Gomes, à vista no ato de celebração do precitado instrumento, para fins de equivalência entre crédito e débito.
+
+
+Parágrafo único
+
+A diferença entre os valores dos imóveis, no valor de R$ 5.000,00 (cinco mil reais), decorre de desconto atribuído pela Comissão Especial de Avaliação em laudo específico, sobre o valor (R$ 9.865,00), cujo desconto correspondeu a R$ 4.865,00 (quatro mil oitocentos e sessenta e cinco reais).
+
+
+Art. 3º.
+
+A escritura lavrada no Ofício de Registro Civil e Tabelionato de Notas do Município de Cabeceira Grande, no Livro n.º 021, Folhas 119 e verso, vinculada à arrematação do imóvel identificado como Lote n.º 16, da Quadra 50, situado na Rua Cristalina, Distrito de Palmital de Minas, Município de Cabeceira Grande, oriundo da dação em pagamento de que trata esta Lei, deverá ser revogada em ato contínuo à celebração do instrumento de que trata o artigo 2º.
+
+
+Art. 4º.
+
+As despesas com escritura e registro do imóvel público oriundo da dação em pagamento de que trata esta Lei correrão à conta das pessoas físicas identificadas no artigo 1º desta Lei.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Cabeceira Grande, 29 de abril de 2016; 20º da Instalação do Município.
+
+**ODILON DE OLIVEIRA E SILVA**
+
+**Prefeito**
+
+DAILTON GERALDO RODRIGUES GONÇALVES
+
+Consultor Jurídico, Legislativo, de Governo e Assuntos Administrativos e Institucionais.
+
+**"Este texto não substitui o original."**
+

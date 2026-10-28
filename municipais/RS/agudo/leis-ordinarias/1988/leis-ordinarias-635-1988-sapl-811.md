@@ -1,0 +1,57 @@
+---
+titulo: "Lei nº 635, de 24 de maio de 1988"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "635"
+data: "1988-05-24"
+municipio: "Agudo"
+uf: "RS"
+codigo_ibge: "4300109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.agudo.rs.leg.br/norma/811"
+fonte_texto: "https://sapl.agudo.rs.leg.br/ta/2082/text"
+sha256_fonte: "9b72eb81e29d9b2b8eb0cc2d52d13340fd819227dbf2b275418a298d8618f727"
+sha256_texto: "a67746b72dd0c75c3ca00e3ccfa74dec286b415f8820995e6b7f162e52754627"
+capturado_em_fonte: "2026-10-27T21:48:29.434727-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 635, de 24 de maio de 1988
+
+DISPÕE SOBRE O REAJUSTE SALARIAL DO QUADRO DE EMPREGOS, QUADRO PERMANENTE DE CARGOS, CARGOS EM COMISSÃO E FUNÇÕES GRATIFICADAS, MAGISTÉRIO PÚBLICO MUNICIPAL, QUADRO DE PESSOAL CONTRATADO, AUXILIARES E ESPECIALISTAS.
+
+
+ARI ALVES ANUNCIAÇÃO, PREFEITO MUNICIPAL DE AGUDO, ESTADO DO RIO GRANDE DO SUL, no uso das atribuições que me são conferidas pela Lei Orgânica Municipal, FAÇO SABER, que a Câmara de Vereadores de Agudo aprovou e eu sanciono e promulgo a seguinte LEI:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a conceder a partir do dia 1º de maio de 1988, um aumento geral a todo funcionalismo público municipal, indistintamente de classe ou padrão, na ordem de 20% (vinte por cento).
+
+
+Art. 2º.
+
+Esta LEI entrará retroativamente em vigor, a partir do dia 1º de maio de 1988, revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE AGUDO, em 24 de maio de 1988.
+
+Bel. ARI ALVES ANUNCIAÇÃO  
+Prefeito Municipal.
+
+Registre-se e Publique-se  
+  
+CLOVIS FERNANDO FICK  
+Sec. da Administração.
+
+
+<table><colgroup></colgroup><colgroup></colgroup><colgroup span="3"></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><tbody><tr><td> </td><td colspan="8">TABELA DE REAJUSTE SALARIAL</td></tr><tr><td>A -</td><td colspan="8">QUADRO DE EMPREGO DO MAGISTÉRIO PÚBLICO MUNICIPAL</td></tr><tr><td> </td><td colspan="6">Valor Básico ……………………………...……………………...…… Cz$</td><td colspan="2">9.548,00</td></tr><tr><td>B -</td><td colspan="8">QUADRO DE EMPREGO PÚBLICO</td></tr><tr><td> </td><td> </td><td>A</td><td> </td><td>B</td><td> </td><td>C</td><td> </td><td>D</td></tr><tr><td>1…..</td><td>……….</td><td>13.439,00</td><td>……….</td><td>13.694,00</td><td>……….</td><td>14.391,00</td><td>……….</td><td>15.101,00</td></tr><tr><td>2…..</td><td>……….</td><td>24.036,00</td><td>……….</td><td>25.234,00</td><td>……….</td><td>26.493,00</td><td>……….</td><td>27.808,00</td></tr><tr><td>C -</td><td colspan="8">QUADRO PERMANENTE DE CARGOS</td></tr><tr><td> </td><td> </td><td>0</td><td> </td><td>1</td><td> </td><td>2</td><td> </td><td>3</td></tr><tr><td>1…..</td><td>……….</td><td>13.439,00</td><td>……….</td><td>13.694,00</td><td>……….</td><td>14.391,00</td><td>……….</td><td>15.101,00</td></tr><tr><td>2…..</td><td>……….</td><td>24.036,00</td><td>……….</td><td>25.234,00</td><td>……….</td><td>26.493,00</td><td>……….</td><td>27.808,00</td></tr><tr><td>3…..</td><td>……….</td><td>28.229,00</td><td>……….</td><td>29.642,00</td><td>……….</td><td>31.122,00</td><td>……….</td><td>32.722,00</td></tr><tr><td>4…..</td><td>……….</td><td>34.305,00</td><td>……….</td><td>36.016,00</td><td>……….</td><td>37.826,00</td><td>……….</td><td>39.711,00</td></tr><tr><td>5…..</td><td>……….</td><td>43.694,00</td><td>……….</td><td>43.781,00</td><td>……….</td><td>46.993,00</td><td>……….</td><td>48.336,00</td></tr><tr><td>D -</td><td colspan="8">CARGOS EM COMISSÃO E FUNÇÕES GRATIFICADAS</td></tr><tr><td>CC1</td><td>……….</td><td>………..</td><td>12.708,00</td><td> </td><td>FG1 …</td><td colspan="2">6.354,00</td><td> </td></tr><tr><td>CC2</td><td>……….</td><td>………..</td><td>18.140,00</td><td> </td><td>FG2 …</td><td colspan="2">9.070,00</td><td> </td></tr><tr><td>CC3</td><td>……….</td><td>………..</td><td>29.002,00</td><td> </td><td>FG3 …</td><td colspan="2">14.591,00</td><td> </td></tr><tr><td>CC4</td><td>……….</td><td>………..</td><td>50.652,00</td><td> </td><td>FG4 …</td><td colspan="2">25.320,00</td><td> </td></tr><tr><td>E -</td><td colspan="8">QUADRO DE PESSOAL CONTRATADO, AUXILIARES E ESPECIALISTAS</td></tr><tr><td> </td><td colspan="2">Referência Salarial</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td colspan="6">1………………………………………………………………………</td><td colspan="2">8.712,00</td><td> </td></tr><tr><td colspan="6">2………………………………………………………………………</td><td colspan="2">9.718,00</td><td> </td></tr><tr><td colspan="6">3………………………………………………………………………</td><td colspan="2">9.998,00</td><td> </td></tr><tr><td colspan="6">4………………………………………………………………………</td><td colspan="2">11.198,00</td><td> </td></tr><tr><td colspan="6">5………………………………………………………………………</td><td colspan="2">12.099,00</td><td> </td></tr><tr><td colspan="6">6………………………………………………………………………</td><td colspan="2">13.439,00</td><td> </td></tr><tr><td colspan="6">7………………………………………………………………………</td><td colspan="2">16.043,00</td><td> </td></tr><tr><td colspan="6">8………………………………………………………………………</td><td colspan="2">21.207,00</td><td> </td></tr><tr><td colspan="6">9………………………………………………………………………</td><td colspan="2">22.253,00</td><td> </td></tr><tr><td colspan="6">10…………………………………………………………………….</td><td colspan="2">27.653,00</td><td> </td></tr><tr><td colspan="6">11…………………………………………………………………….</td><td colspan="2">30.810,00</td><td> </td></tr></tbody></table>
+
+Agudo, 11 de maio de 1988  
+  
+Clovis Fernando Fick  
+Sec. da Administração
+

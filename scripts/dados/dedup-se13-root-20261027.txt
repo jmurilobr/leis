@@ -1,0 +1,47 @@
+from pathlib import Path
+import subprocess,json,hashlib,re,gzip
+from urllib.parse import urlparse,parse_qs
+sha=lambda b:hashlib.sha256(b).hexdigest();root=Path.cwd();manifest=json.loads(Path('scripts/estados/manifestos/se13-proposta-privada-20261027-001.json').read_text());head=subprocess.check_output(['git','rev-parse','HEAD']).decode().strip();tree=subprocess.check_output(['git','ls-tree','-rz',head,'--','estaduais/SE']);selected=[]
+for row in tree.split(b'\0'):
+ if not row:continue
+ spec,p=row.split(b'\t',1);p=p.decode()
+ if p.endswith('.md') and not any(part.startswith(('_','.')) for part in Path(p).parts):selected.append((p,spec.split()[2].decode()))
+def meta(raw):
+ assert raw.startswith(b'---\n') and b'\n---\n' in raw[4:]
+ header=raw[4:].split(b'\n---\n',1)[0].decode();m={}
+ for line in header.splitlines():
+  k,sep,v=line.partition(':');assert sep and k not in m,(k,line);v=v.strip();m[k]=json.loads(v) if v.startswith('"') or v in ('null','true','false') else v
+ return m,header
+def num(v,year):
+ s=re.sub(r'/'+re.escape(year)+r'$','',str(v).strip());return re.sub(r'[.\s-]','',s).upper().lstrip('0')
+def identities(p,m):
+ part=Path(p).parts;years={part[3],str(m.get('data',''))[:4]};keys=set()
+ for year in years:
+  if re.fullmatch(r'\d{4}',year) and m.get('numero'):keys.add(('norma',part[2],num(m['numero'],year),year))
+ for k,v in m.items():
+  if not k.startswith(('fonte','url')) or not isinstance(v,str) or not v.startswith(('https://','http://')):continue
+  u=urlparse(v)
+  if (u.hostname or '').lower()!='aleselegis.al.se.leg.br':continue
+  for key,vals in parse_qs(u.query).items():
+   if key.lower()=='id':
+    for value in vals:keys.add(('id','ALESE',value))
+  match=re.search(r'-id(\d+)\.md$',p)
+  if match:keys.add(('id','ALESE',match[1]))
+ return keys
+index={};rows=[];proc=subprocess.Popen(['git','cat-file','--batch'],stdin=subprocess.PIPE,stdout=subprocess.PIPE)
+for p,oid in selected:
+ proc.stdin.write((oid+'\n').encode());proc.stdin.flush();hdr=proc.stdout.readline().split();assert hdr[0].decode()==oid and hdr[1]==b'blob';raw=proc.stdout.read(int(hdr[2]));assert proc.stdout.read(1)==b'\n';m,header=meta(raw);keys=identities(p,m)
+ for k in keys:index.setdefault(k,[]).append(p)
+ rows.append({'path':p,'oid':oid,'sha256_md':sha(raw),'cabecalho_integral':header,'meta':m})
+proc.stdin.close();assert proc.wait()==0;collisions=[];chosen=[];paths={p for p,_ in selected}
+for r in manifest['documentos']:
+ p=r['path'];raw=Path(r['privado']).read_bytes();assert sha(raw)==r['sha256_md'];m,_=meta(raw);assert p not in paths and not Path(p).exists();keys=identities(p,m)
+ for key in keys:
+  if key in index:collisions.append({'path':p,'key':key,'existentes':index[key]})
+  index.setdefault(key,[]).append(p)
+ chosen.append(p)
+assert len(chosen)==13 and not collisions,collisions
+cache=Path('estaduais/SE/_fonte/auditorias/se13-head-root-20261027.jsonl.gz');assert not cache.exists()
+with gzip.open(cache,'wt') as f:
+ for row in rows:f.write(json.dumps(row,ensure_ascii=False)+'\n')
+p=Path('scripts/estados/manifestos/se13-head-dedup-root-20261027.json');assert not p.exists();p.write_text(json.dumps({'HEAD':head,'cabecalhos_HEAD':len(rows),'candidatos':13,'colisoes':collisions,'cache':str(cache),'sha256_cache':sha(cache.read_bytes()),'criterio':'Blobs canonicos SE lidos integralmente porOID,sem usar workingtree. Cruzamento de IDs no namespace ALESE e tipo/pasta/numero/ano,normalizando somente separadores e sufixo de ano; fontes e titulos nao inferidos de CSV deslocado. Destinos ausentes noHEAD e no disco;nenhuma promocao.'},ensure_ascii=False,indent=2)+'\n');print(len(rows),'blobs HEAD,13 candidatos,zero colisoes')

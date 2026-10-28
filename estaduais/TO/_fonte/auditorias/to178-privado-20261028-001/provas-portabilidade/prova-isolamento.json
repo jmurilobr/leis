@@ -1,0 +1,16 @@
+{
+  "replay": {
+    "total": 178,
+    "aprovados": 178,
+    "falhas": 0,
+    "rede": false,
+    "promovidos": 0
+  },
+  "testes": 35,
+  "falhas": 0,
+  "erros": 0,
+  "bloqueios_fora_exportacao": [],
+  "exportacao_somente_mapa": true,
+  "QA_externo": "scripts/bin/qa-20261027/python",
+  "Python": "-I -B"
+}

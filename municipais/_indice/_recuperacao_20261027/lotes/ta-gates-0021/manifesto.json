@@ -1,0 +1,51 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 4: admite somente tabelas nativas com prova independente de células, ordem e mesclagens. Mantém todos os demais gates. Também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 1586,
+  "aprovados_nestes_gates": 1161,
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0021/sapl.comendadorlevygasparian.rj.leg.br.prefixo.jsonl",
+      "sha256": "e5eea0ae9becde55efb8abe6b5a68fe4dcc7406542c6f1e3fe01d7c7f91050f5",
+      "bytes": 850832
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0021/sapl.comendadorlevygasparian.rj.leg.br.tipos.json",
+      "url": "https://sapl.comendadorlevygasparian.rj.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "0fd98d48215733efca521af73260883c2142a3639f06611b5b471c84e36b9615"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0021/sapl.comendadorlevygasparian.rj.leg.br.anexos.json",
+      "sha256": "43161958e01f73abf4428f553ba49cc4912b7f287335385e97d6aba05195df65"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0021/sapl.congonhas.mg.leg.br.prefixo.jsonl",
+      "sha256": "81c15326078274f2ec41abc2af0807f74c9af34cddfd48f55a23205f76423aad",
+      "bytes": 2067140
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0021/sapl.congonhas.mg.leg.br.tipos.json",
+      "url": "https://sapl.congonhas.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "38da80fd2a35f87d07cc57f384dcd5681c546e7bafa102c84aca0272cf922f1f"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0021/sapl.congonhas.mg.leg.br.anexos.json",
+      "sha256": "553b14b1cf74edaa40848786b5e4aef211319116ea2c6a7ad92a2cf27b806702"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0021/sapl.corbelia.pr.leg.br.prefixo.jsonl",
+      "sha256": "4feb691e1e1e4a66a6a91ece06831c5011e35b3165b85f3cd58fa84d3df1782e",
+      "bytes": 2199979
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0021/sapl.corbelia.pr.leg.br.tipos.json",
+      "url": "https://sapl.corbelia.pr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "8c101e7d702bb75471f3a3865edf635d7b52ca2f9740c7442f1104429671b152"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0021/sapl.corbelia.pr.leg.br.anexos.json",
+      "sha256": "9b18c9ec6be9ebda28bd517e17fd9596a637d34a3ddc6f7560327811d71c0319"
+    }
+  ],
+  "script_sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

@@ -1,0 +1,79 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 4: admite somente tabelas nativas com prova independente de células, ordem e mesclagens. Mantém todos os demais gates. Também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 2000,
+  "aprovados_nestes_gates": 1575,
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0009/sapl.barramansa.rj.leg.br.prefixo.jsonl",
+      "sha256": "972e4a16214c99c0a411baf96b2d9ff5a77cb5917b6c64a2d18a93442c8342a4",
+      "bytes": 1536424
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0009/sapl.barramansa.rj.leg.br.tipos.json",
+      "url": "https://sapl.barramansa.rj.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "2a904eaa8a812d4332b02387e555e89ce3caa877fc074d79115c56b22d652c06"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0009/sapl.barramansa.rj.leg.br.anexos.json",
+      "sha256": "ba928264001791e4d63540c36b166e2de7087a43a3301615d7cd965bffb60126"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0009/sapl.birigui.sp.leg.br.prefixo.jsonl",
+      "sha256": "a5618598d51fdc521396a395df928887be58175130531c2367ac008a9da6999f",
+      "bytes": 1657748
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0009/sapl.birigui.sp.leg.br.tipos.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "107e983d5703d542568cb6b71cd3142a27fa2ea1c95a64fc9d2b8bcc107d079d"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0009/sapl.birigui.sp.leg.br.anexos.json",
+      "sha256": "80934cb9a7c8b35437e32bb1eafd9e7e54e44cf5a6d5434c585def7ed8c33e27"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0009/sapl.bomjesusdoaraguaia.mt.leg.br.prefixo.jsonl",
+      "sha256": "f7195a15d25b92307ea9ffd4e36f5b944b5a49fc0b640e9917d710c4330e985e",
+      "bytes": 29809
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0009/sapl.bomjesusdoaraguaia.mt.leg.br.tipos.json",
+      "url": "https://sapl.bomjesusdoaraguaia.mt.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "f3c2b9832d64ea46b618a6f168cafe3129415cc1534de8461efa4518479c0e1a"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0009/sapl.bomjesusdoaraguaia.mt.leg.br.anexos.json",
+      "sha256": "147dfa6ac20c07d2a8e8f0f954b66f65c87f33feba344c8107c576a0bd9daeca"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0009/sapl.brasilandiademinas.mg.leg.br.prefixo.jsonl",
+      "sha256": "18b88d161d28745a497bba99ca30d6dc0e38781da45a0576d76cafbbfa503072",
+      "bytes": 1625991
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0009/sapl.brasilandiademinas.mg.leg.br.tipos.json",
+      "url": "https://sapl.brasilandiademinas.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "993940b814413cb2a5743700e84b18dc334ef067f668123d11c049e3aab8a7af"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0009/sapl.brasilandiademinas.mg.leg.br.anexos.json",
+      "sha256": "042d2ba9dca98c4008c136ecad103f6534eddee6d0d8713f3ddc2cf18b1ca7ef"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0009/sapl.buritis.mg.leg.br.prefixo.jsonl",
+      "sha256": "5b5f4fec7d7a526dc9800dc43f9711390c710c819ab44a8608b10ee3696c6cd0",
+      "bytes": 1712545
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0009/sapl.buritis.mg.leg.br.tipos.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "fe89ffb15dfdf83609e4f3e72ba640f66f2a932fc5497d33140841dc5588c00b"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0009/sapl.buritis.mg.leg.br.anexos.json",
+      "sha256": "d275423195b89a84ca33d2d7a094311ae554438b84f7d87342a8bd73f800aa4e"
+    }
+  ],
+  "script_sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

@@ -1,0 +1,154 @@
+---
+titulo: "LEI ORDINÁRIA-CMC nº 1.336, de 11 de novembro de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "1336"
+data: "2014-11-11"
+municipio: "Claraval"
+uf: "MG"
+codigo_ibge: "3116407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.claraval.mg.leg.br/norma/896"
+fonte_texto: "https://sapl.claraval.mg.leg.br/ta/228/text"
+sha256_fonte: "43063e2c69c972939f1c58a1a0877e848f60fdb120aff40f36ec1d9b1e46fdcd"
+sha256_texto: "66422e42589c436d6c4ff0d1ab37d82df2cb5de0dd595984a7e4392114e77ca4"
+capturado_em_fonte: "2026-10-27T22:50:21.554119-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA-CMC nº 1.336, de 11 de novembro de 2014
+
+O Prefeito do Município de Claraval, Estado de Minas Gerais, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte
+
+LEI:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a aderir ao Consórcio Intermunicipal da Serra da Canastra, Alto São Francisco e Médio Rio Grande- CICANASTRA, e ratificados os termos do Contrato Intermunicipal de Saneamento Básico, Meio Ambiente, Atenção à Sanidade dos Produtos de Origem Agropecuária, Segurança Alimentar e Combate a Zoonoses Serra da Canastra, Alto São Francisco e Médio Rio Grande – CICANASTRA, formado entre os Municípios de Piumhi, Capitólio, Doresópolis; São Roque de Minas, Vargem Bonita, Arcos e Guapé, e Claraval; nos termos da Lei Federal nº 11.107 de 06/04/2005 e do Decreto Federal nº 6.017 de 17/01/2007, bem como autorizar a inclusão do Município de Claraval no referido Consórcio e ratificar atos relativos à na Assembleia Geral realizada no dia 4 de agosto de 2014.
+
+
+§ 1º
+
+O Consórcio Intermunicipal da Serra da Canastra. Alto São Francisco e Médio Rio Grande - CICANASTRA é associação pública, com personalidade jurídica de direito público e natureza autárquica, e constitui seu Objeto:
+
+
+I –
+
+a atenção à sanidade dos produtos de origem agropecuária, a proteção da saúde dos animais e sanidade dos vegetais, a identidade, qualidade e segurança higiênico-sanitária e tecnológica dos produtos agropecuários finais destinados aos consumidores, possibilitando a sua regularização sanitária, ambiental, fiscal e tributária através da assessoria e prestação de serviços próprios e/ou contratados/conveniados e do fornecimento de bens à administração direta ou indireta dos Municípios consorciados e destes para com o Consórcio;
+
+
+II –
+
+o saneamento básico nos termos de contrato - na contratação e execução de obras e o fornecimento de bens à administração direta ou indireta dos Municípios consorciados e destes para com o Consórcio, inclusive a operação dos serviços de água, esgotamento sanitário e de resíduos sólidos, de análises para o controle da qualidade da água e monitoramento de esgoto e de resíduos sólidos, assistência técnica e assessoria administrativa, contábil e jurídica;
+
+
+III –
+
+o meio ambiente visto como um ativo para o desenvolvimento local através da promoção de ações de conservação e preservação ambiental, de projetos de uso sustentável e de redução dos impactos da ação humana nos ecossistemas naturais, na produção agrícola e no desenvolvimento urbano e industrial no âmbito dos Municípios consorciados;
+
+
+IV –
+
+a segurança alimentar e nutricional como realização do direito de todos ao acesso regular e permanente a alimentos de qualidade, em quantidade suficiente, sem comprometer o acesso a outras necessidades essenciais, tendo como base práticas alimentares promotoras de saúde que respeitem a diversidade cultural e que sejam ambiental, cultural, econômica e socialmente sustentáveis;
+
+
+V –
+
+o apoio à educação, cultura, esporte e lazer como instrumentos de transformação social, de mudança da realidade local, do exercício da cidadania e da democracia participativa, pactuadas no plano nacional de educação e plano de metas e compromissos "Todos pela Educação", em regime de colaboração com os Municípios, Estado e União com a participação das famílias e da comunidade, mediante programas e ações de assistência técnica e financeira, visando a mobilização social pela melhoria da qualidade da educação básica e ampliação e qualificação da oferta de educação básica e superior às populações da cidade e do campo;
+
+
+VI –
+
+os direitos humanos e a assistência social, através da provisão das ações sócio assistenciais intermunicipais, em conformidade com o preconizado no programa nacional de direitos humanos, na Lei Orgânica da Assistência Social, e na politica nacional de assistência social, a partir das indicações e deliberações dos conselhos municipais;
+
+
+VII –
+
+a infraestrutura, o desenvolvimento econômico urbano e rural e o turismo não como decorrência da ação verticalizada do poder público, mas sim da criação de condições para que os agentes locais se mobilizem em torno de uma visão de futuro, de um diagnóstico de suas potencialidades e fragilidades, e dos meios para perseguir um projeto de desenvolvimento sustentável e solidário, próprio para cada um dos municípios e integrado no âmbito do consórcio, das diretrizes da economia solidária e das políticas nacionais;
+
+
+VIII –
+
+a integração ao sistema de segurança pública brasileiro, por meio de propostas municipais e intermunicipais que articulem politicas de segurança, politicas sociais e ações comunitárias, de forma a prevenir o crime e reduzir a impunidade, aumentando a segurança e a tranquilidade dos cidadãos;
+
+
+IX –
+
+o controle de zoonoses por meio de proposta municipais e intermunicipais que articulem politicas, considerando os procedimentos técnicos pertinentes, exigindo a eliminação dos focos, reservatórios ou animais, que identificados como fontes de infecção contribuam para a proliferação e dispersão de agentes etiológicos e vetores;
+
+
+X –
+
+assumir todo o ativo da iluminação pública relativo a operação e manutenção.
+
+
+§ 2º
+
+O Consórcio terá prazo de duração de 20 (vinte) anos, podendo tal prazo ser prorrogado por iguais e sucessivos períodos, mediante manifestação expressa dos entes consorciados.
+
+
+Art. 2º.
+
+Respeitados os limites constitucionais e legais, caberá ao Consórcio Intermunicipal da Serra da Canastra, Alto São Francisco e Médio Rio Grande CICANASTRA, exercer as seguintes competências e cumprir as seguintes finalidades:
+
+
+I –
+
+gestão associada de serviços públicos;
+
+
+II –
+
+prestação de serviços, execução de obras e fornecimento de bens à administração direta ou indireta dos entes consorciados;
+
+
+III –
+
+compartilhamento ou uso em comum de instrumentos e equipamentos, inclusive de gestão, de manutenção, de informática, de pessoal técnico e de procedimentos de licitação e de admissão de pessoal;
+
+
+IV –
+
+promoção de programas, projetos, planos, ações, atividades e serviços voltados para a gestão compartilhada do manejo de resíduos sólidos de forma sustentável, saneamento básico, meio ambiente, segurança alimentar e nutricional, apoio à educação, cultura, esporte e lazer como instrumentos de transformação social, direitos humanos e a assistência social, infraestrutura, o desenvolvimento econômico urbano e rural e o turismo, integração ao sistema de segurança pública brasileiro, controle de zoonoses por meio de proposta municipais e intermunicipais, mediante a mútua cooperação dos entes envolvidos.
+
+
+Art. 3º.
+
+As despesas decorrentes da aplicação desta lei correrão por conta de dotação orçamentária própria, suplementada oportunamente, se necessário, utilizando-se de créditos adicionais, suplementares ou especiais a serem abertos em época adequada através de lei especifica.
+
+
+Parágrafo único
+
+As eventuais despesas com a manutenção do referido Consórcio deverão ser previamente analisadas e aprovadas pelo Poder Legislativo.
+
+
+Art. 4º.
+
+Fica o Poder Executivo autorizado a incluir, nas propostas orçamentárias anuais vindouras, inclusive nas relativas ao Plano Plurianual e na Lei de Diretrizes Orçamentárias, dotações suficientes à cobertura de suas responsabilidades financeiras, decorrentes do disposto nesta lei.
+
+
+Art. 5º.
+
+Poderão ser procedidas as alterações no Contrato de Consórcio Público e no Estatuto do CICANASTRA.
+
+
+Art. 6º.
+
+Revogam-se as disposições em contrário.
+
+
+Art. 7º.
+
+Esta Lei entrará em vigor na data de sua publicação produzindo seus efeitos a partir de 1º de janeiro de 2014.
+
+
+Claraval. 12 de novembro de 2014
+
+Juliano Diogo Pereira
+
+Prefeito Municipal
+

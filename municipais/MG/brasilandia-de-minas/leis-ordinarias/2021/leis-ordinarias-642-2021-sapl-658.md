@@ -1,0 +1,175 @@
+---
+titulo: "Lei Ordinária nº 642, de 28 de abril de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "642"
+data: "2021-04-28"
+municipio: "Brasilândia de Minas"
+uf: "MG"
+codigo_ibge: "3108552"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.brasilandiademinas.mg.leg.br/norma/658"
+fonte_texto: "https://sapl.brasilandiademinas.mg.leg.br/ta/579/text"
+sha256_fonte: "29d8c3cd98277c99e200aefa7576b09ff38573d29e675b80d18486929732f169"
+sha256_texto: "d0c0c53313f6fe7f7888198a97cd8cfc8b66ed7b2c8bfa231c0dee3cf23bec0d"
+capturado_em_fonte: "2026-10-27T19:42:08.951265-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 642, de 28 de abril de 2021
+
+"Autoriza a constituição de Fundo Municipal de Saneamento Básico do Município de Brasilândia de Minas - MG, e dá outras providências."
+
+
+O PREFEITO DO MUNICÍPIO DE BRASILÂNDIA DE MINAS, ESTADO DE MINAS GERAIS, no uso da atribuição que lhe confere o artigo 86, inciso VII, da Lei Orgânica, faz saber que a Câmara Municipal decreta e ele, em seu nome, sanciona e promulga a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a constituir o Fundo Municipal de Saneamento Básico FMSB, de natureza contábil, vinculado à Secretaria Municipal de Fazenda da Prefeitura Municipal Brasilândia de Minas, tendo como objetivo geral concentrar e gerir os recursos para a realização de investimentos em ampliação, expansão, substituição, melhoria e modernização das infraestruturas operacionais e em recursos gerenciais necessários para a prestação dos serviços de saneamento básico, bem como gerir recursos destinados a subsídios tarifários de interesse social concedidos por Lei municipal.
+
+
+§ 1º
+
+São finalidades específicas do FMSB:
+
+
+I –
+
+garantir contrapartida financeira a operações de crédito para financiamento de investimentos em infraestruturas e bens vinculados aos serviços municipais de sancamento básico, especialmente as celebradas com o Banco Nacional de Desenvolvimento Econômico e Social BNDES e com a Caixa Econômica Federal ou outros agentes financeiros que operem com recursos do Fundo de Garantia por Tempo de Serviço - FGTS;
+
+
+II –
+
+garantir contrapartida a contratos de repasse de recursos objeto de transferências voluntárias de entes da Federação ou de outras fontes não onerosas, destinados a investimentos em ações de saneamento básico no âmbito do Município de Brasilândia de Minas;
+
+
+III –
+
+garantir pagamentos de amortizações, juros e outros encargos financeiros relativos às operações de crédito previstas no inciso I deste parágrafo único:
+
+
+IV –
+
+cobrir despesas extraordinárias decorrentes de investimentos emergenciais nos serviços de saneamento básico aprovadas pelo órgão regulador dos serviços e pelo Conselho Gestor do FMSB; e
+
+
+V –
+
+financiar diretamente as ações de investimentos em infraestrutura e outros bens vinculados aos serviços de saneamento básico de titularidade do Município.
+
+
+§ 2º
+
+A constituição e organização administrativa e o funcionamento do FMSB serão disciplinados em regulamento.
+
+
+Art. 2º.
+
+O FMSB será gerido pelo Conselho Municipal de Saneamento Básico - CMSB, instituído em legislação municipal específica.
+
+
+Art. 3º.
+
+As receitas do FMSB poderão ser constituídas por:
+
+
+I –
+
+recursos provenientes de dotações orçamentárias do Município;
+
+
+II –
+
+receitas vinculadas às receitas de taxas, tarifas e outros preços públicos incidentes sobre os serviços de saneamento básico
+
+
+III –
+
+receitas de contribuições de melhorias relativas à implantação de infraestruturas vinculadas aos serviços de saneamento básico;
+
+
+IV –
+
+receitas de multas relativas a infrações administrativas e de posturas municipais previstas na legislação pertinente;
+
+
+V –
+
+retornos de amortizações e remunerações de investimentos realizados direta ou indiretamente pelo Município de Brasilândia de Minas com recursos do FMSB;
+
+
+VI –
+
+subvenções e transferências voluntárias de entes da Federação, bem como contribuições, doações, auxílios e repasses de autarquias, empresas públicas, sociedades de economia mista e fundações e de pessoas físicas e jurídicas privadas, destinadas a ações de saneamento básico no Município de Brasilândia de Minas;
+
+
+VII –
+
+rendimentos provenientes de aplicações financeiras dos recursos disponíveis do FMSB.
+
+
+§ 1º
+
+As receitas líquidas do FMSB serão depositadas obrigatoriamente em conta especial, a ser aberta e mantida em agência de estabelecimento oficial de crédito, cuja titularidade de movimentação bancária caberá ao gestor do Conselho Municipal de Saneamento Básico.
+
+
+§ 2º
+
+As disponibilidades de recursos do FMSB, exceto as vinculadas a desembolsos de curto prazo e a garantias mínimas de contratos de financiamentos, deverão ser investidas em aplicações financeiras com prazos e liquidez compatíveis com o seu plano de aplicação.
+
+
+§ 3º
+
+O saldo financeiro do FMSB, apurado ao final de cada exercício, será transferido para o exercício seguinte, a crédito do mesmo Fundo.
+
+
+§ 4º
+
+Constituem passivos do FMSB as obrigações de qualquer natureza que venha a assumir para a execução dos programas e ações dos serviços de saneamento básico previstos no Plano Municipal de Saneamento Básico e no Plano Plurianual, observada a Lei de Diretrizes Orçamentárias.
+
+
+§ 5º
+
+0 orçamento do FMSB integrará o orçamento da Prefeitura Municipal de Brasilândia de Minas, em obediência ao princípio da unidade orçamentária.
+
+
+§ 6º
+
+A contabilidade do FMSB será organizada de forma a permitir o pleno controle e a gestão da sua execução orçamentária
+
+
+§ 7º
+
+A ordenação das despesas previstas no Plano Orçamentário e de Aplicação do FMSB caberá a Secretaría de Fazenda;
+
+
+Art. 4º.
+
+Ressalvado o disposto no § 2-do art. 1º desta Lei, é vedada a utilização de recursos do FMSB para:
+
+
+I –
+
+pagamento de despesas correntes ou cobertura de déficits orçamentários resultantes das mesmas, por quaisquer órgãos e entidades do Município:
+
+
+II –
+
+execução de obras e outras intervenções urbanas integradas ou que afetem ou interfiram nos sistemas de saneamento básico, em montante superior à participação proporcional dos serviços de saneamento básico nos respectivos investimentos.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura de Brasilândia de Minas MG, 28 de abril de 2021.
+
+**OSÉIAS CARDOSO QUEIROZ**
+
+**Prefeito**
+

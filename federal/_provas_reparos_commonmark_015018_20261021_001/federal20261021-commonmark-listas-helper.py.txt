@@ -1,0 +1,19 @@
+import html as H
+from html.parser import HTMLParser
+class Semantic(HTMLParser):
+ def __init__(self,ls):super().__init__(convert_charrefs=True);self.ls=ls;self.i=0;self.stack=[];self.parts=[];self.proof=[]
+ def handle_starttag(self,t,a):
+  self.parts.append(self.get_starttag_text());at=dict(a)
+  if t=='ol':
+   l=self.ls[self.i];self.i+=1;n=int(at.get('start','1'));assert n==int(l['start']);self.stack.append({'ordered':True,'count':n,'token':l,'i':0});self.proof.append({'start_HTML':n,'itens':[]});self.stack[-1]['proof']=self.proof[-1]
+  elif t=='ul':self.stack.append({'ordered':False})
+  elif t=='li' and self.stack and self.stack[-1]['ordered']:
+   s=self.stack[-1];n=int(at.get('value',s['count']));it=s['token']['items'][s['i']];s['i']+=1;literal=it['marker'];assert literal;delimiter=s['token']['items'][0]['marker'][1];self.parts.append(str(n)+delimiter+' ');s['count']=n+1;s['proof']['itens'].append({'literal_MD':literal[0]+literal[1],'contador_HTML':n,'mesmo_numero':int(literal[0])==n,'contexto':it['text'][:150]})
+ def handle_endtag(self,t):
+  self.parts.append('</'+t+'>')
+  if t in ['ol','ul']:
+   s=self.stack.pop()
+   if s['ordered']:assert s['i']==len(s['token']['items'])
+ def handle_data(self,d):self.parts.append(H.escape(d,quote=False))
+ def handle_comment(self,d):self.parts.append('<!--'+d+'-->')
+ def handle_startendtag(self,t,a):self.parts.append(self.get_starttag_text())

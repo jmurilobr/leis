@@ -1,0 +1,106 @@
+---
+titulo: "Lei Ordinária nº 109, de 09 de abril de 2001"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "109"
+data: "2001-04-09"
+municipio: "Brasilândia de Minas"
+uf: "MG"
+codigo_ibge: "3108552"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.brasilandiademinas.mg.leg.br/norma/108"
+fonte_texto: "https://sapl.brasilandiademinas.mg.leg.br/ta/108/text"
+sha256_fonte: "e1c434f7195a9f73285469aaed46993f84d817cd79ec9ecc576455253a3ec408"
+sha256_texto: "3775ced12c16ba2a82bf9caee22d42036a2ca30d15f6b3591e1ec44fe6ddbcba"
+capturado_em_fonte: "2026-10-27T20:03:23.064422-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 109, de 09 de abril de 2001
+
+AUTORIZA O PODER EXECUTIVO MUNICIPAL CELEBRAR CONVÊNIO COM ASSOCIAÇÃO COMUNITARIA DO BAIRRO PORTO ASCOMPE DA OUTRAS A OUTRAS PROVIDENCIAS.
+
+
+A Câmara Municipal de Brasilândia de Minas MG. aprova eu, prefeito Municipal sanciono a seguinte Lei.
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a celebrar convênio com a Associação Comunitária do Bairro Porto, ASCOMP CNPJ: N 20.216.206.0001-60, objetivando a parceria para implantação da horta comunitária, по município de Brasilândia de Minas-MG
+
+
+Art. 2º.
+
+Fica o Poder Executivo autorizado a repassar a Entidade Conveniada a importância de até R$ 400,00 (quatrocentos reais) anual, para fazer face as despesas com arrendamento do imóvel, por um período de 02 (dois) anos.
+
+
+Art. 3º.
+
+Fica o Poder Executivo Municipal autorizado a repassar a entidade conveniada, insumos (sementes, defensivas, fertilizantes etc) e estrutura de irrigação necessária no plantio, assim como as ferramentas básicas para plantio e colheita.
+
+
+Art. 4º.
+
+Fica o Poder Executivo Municipal autorizado a executar serviços de cerca, gradarem, com máquinas e mão de obra própria ou terceirizada, para atender as necessidades da entidade conveniada.
+
+
+Art. 5º.
+
+Fica o Poder Executivo Municipal autorizado a contratar técnico ou a própria EMATER MG, para prestar assistência técnica adequada ao empreendimento.
+
+
+Art. 6º.
+
+Fica o Poder Executivo Municipal autorizado solicitar a Conveniada, relatório de execução, produção e comercialização des produtos cultivados, trimestralmente, e no final de cada exercício, a comprovação dos recursos repassados.
+
+
+Art. 7º.
+
+Fica o Poder Executivo Municipal autorizado a exigir da conveniada, a preferência na aquisição dos produtos cultivados, a preço de mercado, que serão utilizados na merenda escolar, ou em qualquer outro programa social a ser instituído pela Administração Municipal.
+
+
+Art. 8º.
+
+As demais condições do convênio, ficarão a critério dos conveniados, visando sempre a melhoria da qualidade de vida das famílias carentes, dentro dos normativos vigastes e da capacidade financeira do município.
+
+
+Art. 9º.
+
+Para atender ao disposto nesta Lei, fica Poder Executivo Municipal autorizado a abrir crédito Adicional Especial, no orçamento vigente, no valor de RS 4.400,00 (quatro mil e quatrocentos reais), conforme segue> 02.05.04.14.486.2051 (Apoio ASCOMP), 3132 RS 4.000,00 (Quatro mil reais), 3231-RS 400.00 (quatrocentos reais).
+
+
+Art. 10.
+
+Para atender ao disposto no artigo anterior, anula-se parcialmente a dotação orçamentária 02.04.10.60.021.2011-3132, do orçamento vigente, no valor de R$ 4.400. 00 (Quatro mil e quatrocentos reais)
+
+
+Art. 11.
+
+Revogadas as disposições em contrário, esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Brasilândia de Minas-M G.09 de abril de 2001
+
+**Heraldo Gomes Rangel**
+
+**Prefeito Municipal**
+
+**Valter Machado**
+
+**Chefe de Gabinete do Prefeito**
+
+**Solange Coelho Guimarães**
+
+**Diretora do Departamento de Administração e Planejamento**
+
+**Valderlei Cardoso Guimarães**
+
+**Diretor do Departamento de Saúde e Ação Social**
+
+**Washington Luiz Cruvinel**
+
+**Diretor do Departamento da Fazenda**
+

@@ -1,0 +1,385 @@
+---
+titulo: "Lei nº 1.636, de 05 de setembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1636"
+data: "2025-09-05"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/2361"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/2022/text"
+sha256_fonte: "dd2069d1fd4a42c67b67d70f1544e8b5310a82dfe54790a501a3a9c5b8c6a679"
+sha256_texto: "026cf34d536f06dcb95f4cc50a67b5ce400bdca5bdd8c312a5fc3ba4d31f0106"
+capturado_em_fonte: "2026-10-27T19:41:24.310639-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.636, de 05 de setembro de 2025
+
+DISPÕE SOBRE A CONCESSÃO DE INCENTIVOS FISCAIS E ECONÔMICOS OBJETIVANDO A ATRAÇÃO DE INVESTIMENTO, A GERAÇÃO DE EMPREGO E RENDA E O DESENVOLVIMENTO ECONÔMICO E SOCIAL.
+
+
+O PREFEITO MUNICIPAL DE BURITIS, Estado de Minas Gerais, faz saber que a Câmara Municipal aprovou e ele promulga a seguinte Lei:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Fica autorizado o Poder Executivo conceder a pessoa jurídica de qualquer setor da economia incentivos fiscais e econômicos com o objetivo de atrair investimentos, gerar emprego e renda, melhorar as cadeias de comércio e contribuir para o desenvolvimento socioeconômico local.
+
+
+#### CAPÍTULO II — DA CONCESSÃO DE INCENTIVOS FISCAIS E ECONÔMICOS
+
+
+Art. 2º.
+
+Poderão se beneficiar dos incentivos de que se trata esta lei a pessoa jurídica que:
+
+
+I –
+
+instalar-se neste município;
+
+
+II –
+
+aumentar a sua capacidade de prestação de serviços, produção e/ou comercialização; e
+
+
+III –
+
+apresentar projeto de desenvolvimento tecnológico e inovação.
+
+
+Art. 3º.
+
+Os incentivos fiscais de que se trata essa lei são os seguintes:
+
+
+I –
+
+isenção de Imposto Predial e Territorial Urbano (IPTU) incidente sobre o imóvel onde ocorrerá a instalação ou ampliação do empreendimento;
+
+
+II –
+
+isenção de Imposto sobre a Transmissão de Bens Imóveis (ITBI), incidente sobre a transmissão de imóvel onde ocorrerá a instalação ou ampliação do empreendimento;
+
+
+III –
+
+redução da alíquota do Imposto Sobre Serviços de Qualquer Natureza (ISSQN), nos limites da lei;
+
+
+IV –
+
+isenção de taxa devida pela aprovação de projeto de construção civil relativo à instalação ou ampliação;
+
+
+V –
+
+isenção de taxa de alvará de funcionamento e de alvará sanitário; e
+
+
+VI –
+
+isenção de emolumento e tarifa ou preço público relativo a procedimento administrativo necessário para a regularização de projeto de construção, reforma, demolição ou ampliação, exigida por órgão técnicos municipais da administração direta, relativamente à instalação ou ampliação do empreendimento.
+
+
+§ 1º
+
+As isenções de IPTU, ISSQN e ITBI poderão ser totais ou parciais e pelo tempo especificado no protocolo de intenções, de acordo com a relevância social ou econômica do projeto.
+
+
+§ 2º
+
+Se a pessoa jurídica não cumprir os compromissos nos prazos previstos, tornar-se-ão exigíveis os tributos que deixaram de ser recolhidos a título de incentivo, os quais devem ser pagos pela pessoa jurídica beneficiária com juros e correção monetária.
+
+
+Art. 4º.
+
+A concessão dos incentivos econômicos, deve ser precedida de lei municipal específica, obedecendo aos comandos do art. 45 e seguintes da Lei Orgânica Municipal de Buritis.
+
+
+Parágrafo único
+
+Os incentivos econômicos de que se trata esta lei são os seguintes:
+
+
+I –
+
+doação ou cessão de imóvel público, mediante contrapartida definida em regulamento con-tendo cláusula de reversão ao patrimônio público caso o empreendimento não seja iniciado ou finalizado no prazo determinado em protocolo de intenções;
+
+
+II –
+
+execução de serviços, obras e/ou serviços de engenharia, como terraplanagem;
+
+
+III –
+
+instalação de rede elétrica (iluminação pública), rede de água e esgoto;
+
+
+IV –
+
+isenção de aluguéis de imóvel público;
+
+
+V –
+
+desapropriação de imóvel de interesse do empreendimento;
+
+
+VI –
+
+permuta de imóvel com serviço ou outro imóvel, conforme regulamento.
+
+
+Art. 5º.
+
+Serão exigidos da pessoa jurídica beneficiária de incentivo previsto nesta lei os seguintes compromissos:
+
+
+I –
+
+valor de Investimento;
+
+
+II –
+
+número de empregos diretos;
+
+
+III –
+
+valor de faturamento;
+
+
+IV –
+
+geração, anual, de Valor Adicionado Fiscal e de ISSQN;
+
+
+V –
+
+utilização de matéria prima local ou regional, se houver necessidade;
+
+
+VI –
+
+descarte de resíduos de maneira ambientalmente adequada, se houver;
+
+
+VII –
+
+preferência de contratação técnica de mão de obra local, se houver;
+
+
+VIII –
+
+licenciar os veículos de propriedade da empresa no município, se houver;
+
+
+IX –
+
+instalação em distrito industrial ou em área ou região predefinida pelo município.
+
+
+§ 1º
+
+Deverá ser previsto em protocolo de intenções firmado entre a empresa e o município os termos, números e condições dos compromissos, bem como o prazo para o seu cumprimento
+
+
+§ 2º
+
+Para fins de apuração de cumprimento do Protocolo de Intenções firmado entre a empresa e município, serão considerados apenas os compromissos quantificáveis previstos nos incisos de I a IV do caput deste artigo.
+
+
+Art. 6º.
+
+A fim de resguardar o erário municipal, aplicar-se-á indicador de correção monetária, com periodicidade anual, adequado à atividade econômica da pessoa jurídica, nos casos em que sejam pactuados investimentos financeiros a serem adimplidos ao longo do tempo pela pessoa jurídica, sendo facultado a menção de um indicador substituto, caso o primeiro deixe de existir ou se torne obsoleto.
+
+
+Art. 7º.
+
+Pessoas jurídica que pretenda se instalar no Município só fará jus a incentivo de que trata esta lei, se evidenciar a pretensão de instalação, o que pode ser feito através da apresentação do contrato de compra e venda do imóvel assinado, ou do seu termo de doação firmado, onde funcionará o empreendimento, ou entre outras formas comprobatórias.
+
+
+Art. 8º.
+
+Na avaliação da concessão de benefício de que trata este artigo, o Município levará em conta:
+
+
+I –
+
+valor de investimento;
+
+
+II –
+
+o valor de faturamento;
+
+
+III –
+
+o incremento na arrecadação municipal;
+
+
+IV –
+
+a capacidade de geração de outras atividades econômicas no Município;
+
+
+V –
+
+a capacidade de desenvolvimento de novas tecnologias e/ou de inovação;
+
+
+VI –
+
+o nível de impacto social, ambiental e sanitário;
+
+
+VII –
+
+o nível de impacto na especialização da mão de obra local;
+
+
+VIII –
+
+o plano de gerenciamento de resíduos sólidos.
+
+
+#### CAPÍTULO III — DA SOLICITAÇÃO DE INCENTIVOS FISCAIS E ECONÔMICOS
+
+
+Art. 9º.
+
+Para solicitação de incentivo previsto nesta Lei, a pessoa jurídica interessada deverá instruir o seu pedido com os seguintes documentos, conforme o porte da empresa:
+
+
+I –
+
+requerimento assinado pelo representante legal da empresa;
+
+
+II –
+
+comprovante de inscrição estadual;
+
+
+III –
+
+comprovante de Cadastro Nacional de Pessoa Jurídica – CNPJ;
+
+
+IV –
+
+certidão negativa da Fazenda Municipal;
+
+
+V –
+
+certidão negativa da Fazenda Estadual;
+
+
+VI –
+
+certidão negativa da Fazenda Federal;
+
+
+VII –
+
+certidões negativas de protesto de empresa e dos sócios diretos em seus domicílios dos últimos cinco anos, dos municípios que a ambos tenham relação;
+
+
+VIII –
+
+certidões negativas de protesto da empresa e dos sócios diretos no município dos últimos cinco anos; e
+
+
+IX –
+
+ficha técnica contendo:
+
+
+a)
+
+Caracterização dos sócios;
+
+
+b)
+
+Caracterização do empreendimento pretendido;
+
+
+c)
+
+Investimentos a serem realizados;
+
+
+d)
+
+Previsão de receita e despesas;
+
+
+e)
+
+Geração de empregos;
+
+
+f)
+
+Relação das construções a serem realizadas e suas características;
+
+
+g)
+
+Relação de equipamentos integrantes do projeto; e
+
+
+h)
+
+Cronograma de implantação e funcionamento.
+
+
+§ 1º
+
+Outros documentos considerados necessários pela Administração Municipal poderão ser exigidos, desde que seja fundamentado em ato administrativo expedido pelo Secretário de Fazenda ou pelo Prefeito, desde que tais exigências sejam compatíveis com a realidade eco-nômica e técnica da empresa.
+
+
+§ 2º
+
+É permitido a não exigência de algum documento previsto no caput deste artigo, desde que a exclusão seja fundamentada em ato administrativo assinado e publicado pelo Secretário Municipal de Fazenda ou pelo Prefeito e que a sua exclusão seja compatível com a realidade econômica e técnica da empresa.
+
+
+#### CAPÍTULO IV — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 10.
+
+Obedecidas as condições gerais estabelecidas nesta Lei, cabe ao Poder Executivo definir os valores a serem transferidos às empresas beneficiárias a partir das características particulares apresentadas em cada um dos projetos de investimentos e, consequentemente, de seus potenciais impactos socioeconômicos e orçamentário no Município, bem como a avaliação dos investimentos realizados pelas empresas beneficiárias.
+
+
+Art. 11.
+
+O Município regulamentará disposições pertinentes para devida aplicabilidade desta lei, modelando o Protocolo de Intenções de acordo com a sua realidade, respeitando os direitos e obrigações apresentadas para a empresa e para o Município, no presente instrumento legal.
+
+
+Art. 12.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**RUFINO CLÓVIS FOLADOR Prefeito Municipal de Buritis-MG**
+
+Referente ao Projeto de Lei nº 026/2025, de autoria do Executivo Municipal aprovado em primeira votação no dia 25/08/2025 por 07 votos favoráveis e nenhum voto contrário. Aprovado em segunda votação no dia 01/09/2025 por 06 votos favoráveis e nenhum voto contrário.
+

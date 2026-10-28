@@ -1,0 +1,416 @@
+---
+titulo: "Lei Ordinária Municipal nº 2.072, de 28 de maio de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "2072"
+data: "2024-05-28"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/735"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/674/text"
+sha256_fonte: "448f190aec3492a7ddc183f78ce83cf3b3fdcca757b50eb19b4ec95faa53d17d"
+sha256_texto: "39fe6b048433f23e5dc6df8d2c39bbc7d6a77cd58007935c1f014a80a44d2841"
+capturado_em_fonte: "2026-10-27T22:19:52.425119-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 2.072, de 28 de maio de 2024
+
+DISPÕE SOBRE A REGULAMENTAÇÃO DA APLICAÇÃO DA LEI FEDERAL Nº 13.709, DE 14 DE AGOSTO DE 2018 – LEI GERAL DE PROTEÇÃO DE DADOS PESSOAIS (LGPD) NO ÂMBITO DA ADMINISTRAÇÃO MUNICIPAL DE CALIFÓRNIA-PR.
+
+
+A CÂMARA MUNICIPAL DE CALIFÓRNIA, ESTADO DO PARANÁ APROVOU, E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+A presente Lei refere-se as normas técnicas dele decorrentes aplicam-se aos órgãos e entidades da Administração Direta e Indireta do Município de Califórnia-PR.
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 2º.
+
+Para os fins desta Lei considera-se:
+
+
+I –
+
+Controlador: pessoa natural ou jurídica, de direito público ou privado, a quem competem as decisões referentes ao tratamento de dados pessoais;
+
+
+II –
+
+Operador: pessoa natural ou jurídica, de direito público ou privado, que realiza o tratamento de dados pessoais em nome do Controlador;
+
+
+III –
+
+Encarregado: pessoa indicada pelo controlador e operador para atuar como canal de comunicação entre o controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD);
+
+
+IV –
+
+Agentes de tratamento: o Controlador e o Operador;
+
+
+V –
+
+Comissão Permanente Municipal de Proteção de Dados (CPMPD): comissão formada por representantes de pastas distintas da Administração Municipal, com o objetivo de atuar de forma deliberativa e consultiva quanto a qualquer assunto relacionado à LGPD, demais leis que possam colidir com o tema proteção de dados e sobre esta Lei;
+
+
+VI –
+
+Órgãos e Entidades Municipais: todos os Órgãos e Entidades da Administração Direta e Indireta do Município abrangidos por esta Lei, seja pela sua aplicabilidade compulsória ou facultativa;
+
+
+VII –
+
+Dado pessoal: informação relacionada a pessoa natural identificada ou identificável;
+
+
+VIII –
+
+Dado pessoal sensível: dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural;
+
+
+IX –
+
+Dado anonimizado: dado relativo a titular que não possa ser identificado, considerando a utilização de meios técnicos razoáveis e disponíveis na ocasião de seu tratamento;
+
+
+X –
+
+Banco de dados: conjunto estruturado de dados pessoais, estabelecido em um ou em vários locais, em suporte eletrônico ou físico;
+
+
+XI –
+
+Titular: pessoa natural a quem se referem os dados pessoais que são objeto de tratamento;
+
+
+XII –
+
+Tratamento: toda operação realizada com dados pessoais, como as que se referem a coleta, produção, recepção, classificação, utilização, acesso, reprodução, transmissão, distribuição, processamento, arquivamento, armazenamento, eliminação, avaliação ou controle da informação, modificação, comunicação, transferência, difusão ou extração;
+
+
+XIII –
+
+Anonimização: utilização de meios técnicos razoáveis e disponíveis no momento do tratamento, por meio dos quais um dado perde a possibilidade de associação, direta ou indireta, a um indivíduo;
+
+
+XIV –
+
+Consentimento: manifestação livre, informada e inequívoca pela qual o titular concorda com o tratamento de seus dados pessoais para uma finalidade determinada;
+
+
+XV –
+
+Protocolo de Adequação: documento reunindo um conjunto de normas, procedimentos, diretrizes e modelos de documentações específicas para guiar a adequação de órgãos e entidades municipais à Lei Geral de Proteção de Dados;
+
+
+XVI –
+
+Plano de Adequação: documento reunindo um conjunto de procedimentos, processos, modelos de documentações específicas e medidas que serão realizadas para adequar um órgão ou entidade municipal à Lei Geral de Proteção de Dados, elaboradas com base no Protocolo de Adequação;
+
+
+XVII –
+
+Relatório de impacto à proteção de dados pessoais: documentação do Encarregado de Proteção de dados que contém a descrição dos processos de tratamento de dados pessoais que podem gerar riscos às liberdades civis e aos direitos fundamentais, bem como medidas, salvaguardas e mecanismos de mitigação de risco;
+
+
+XVIII –
+
+Autoridade Nacional de Proteção de Dados (ANPD): órgão da Administração Pública Federal responsável por zelar, implementar e fiscalizar o cumprimento desta lei em todo o território nacional.
+
+
+Parágrafo único
+
+O Município de Califórnia-PR fica definido como Controlador.
+
+
+Art. 3º.
+
+A regulamentação das normas específicas, bem como os procedimentos para a proteção e tratamento de dados no âmbito do Município de Califórnia-PR serão detalhadas por norma técnica a ser elaborada pelo Encarregado de Proteção de Dados e publicada após análise e aprovação da Comissão Permanente Municipal de Proteção de Dados (CPMPD).
+
+
+Art. 4º.
+
+Constarão nas Normas Técnicas as regras específicas para a realização do tratamento e proteção de dados, e seus procedimentos operacionais no Município de Califórnia-PR.
+
+
+§ 1º
+
+Cada Norma Técnica publicada será identificada por número sequencial em relação à norma anterior, iniciando em um, acrescido do ano de publicação da norma. Ex.: Norma Técnica LGPD 001/2023; Norma Técnica LGPD 002/2023.
+
+
+§ 2º
+
+Toda Norma Técnica emitida deverá ser publicada no Diário Oficial Eletrônico - Atos do Município de Califórnia-PR e revogará automaticamente a norma anterior, quando regulamentar o mesmo assunto.
+
+
+#### CAPÍTULO II — DO TRATAMENTO DE DADOS
+
+
+Art. 5º.
+
+As atividades de tratamento de dados pessoais pelos órgãos e entidades municipais deverão observar a boa-fé e os seguintes princípios:
+
+
+I –
+
+finalidade: realização do tratamento para propósitos legítimos, específicos, explícitos e informados ao titular, sem possibilidade de tratamento posterior de forma incompatível com essas finalidades;
+
+
+II –
+
+adequação: compatibilidade do tratamento com as finalidades informadas ao titular, de acordo como contexto do tratamento;
+
+
+III –
+
+necessidade: limitação do tratamento ao mínimo necessário para a realização de suas finalidades, com abrangência dos dados pertinentes, proporcionais e não excessivos em relação às finalidades do tratamento de dados;
+
+
+IV –
+
+livre acesso: garantia, aos titulares, de consulta facilitada e gratuita sobre a forma e a duração do tratamento, bem como sobre a integralidade de seus dados pessoais;
+
+
+V –
+
+qualidade dos dados: garantia, aos titulares, de exatidão, clareza, relevância e atualização dos dados, de acordo com a necessidade e para o cumprimento da finalidade de seu tratamento;
+
+
+VI –
+
+transparência: garantia aos titulares, de informações claras, precisas e facilmente acessíveis sobre a realização do tratamento e os respectivos agentes de tratamento, observados os segredos comercial e industrial;
+
+
+VII –
+
+segurança: utilização de medidas técnicas e administrativas aptas a proteger os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou difusão;
+
+
+VIII –
+
+prevenção: adoção de medidas para prevenir a ocorrência de dados em virtude do tratamento de dados pessoais;
+
+
+IX –
+
+não discriminação: impossibilidade de realização do tratamento para fins discriminatórios, ilícitos ou abusivos;
+
+
+X –
+
+responsabilização e prestação de contas: demonstração, pelo agente, da adoção de medidas eficazes e capazes de comprovar a observância e o cumprimento das normas de proteção de dados pessoais e, inclusive, da eficácia dessas medidas.
+
+
+Art. 6º.
+
+O tratamento de dados pessoais pelos órgãos e entidades municipais deve:
+
+
+I –
+
+objetivar o exercício de suas competências legais e o cumprimento das atribuições legais do serviço público, para o atendimento de sua finalidade pública e a persecução do interesse público;
+
+
+II –
+
+observar o dever de conferir publicidade às hipóteses de sua realização, com o fornecimento de informações claras e atualizadas sobre a previsão legal, finalidade, os procedimentos e as práticas utilizadas para a sua execução.
+
+
+Art. 7º.
+
+Os órgãos e as entidades da Administração Pública Municipal podem efetuar o uso compartilhado de dados pessoais com outros órgãos e entidades públicas para atender a finalidades específicas de execução de políticas públicas, no âmbito de suas atribuições legais, respeitados os princípios de proteção de dados pessoais elencados no artigo 6º da Lei Federal nº 13.709, de 14 de agosto de 2018.
+
+
+Art. 8º.
+
+A Administração Pública Municipal Direta e Indireta, nos termos da Lei Federal nº 13.709, de 14 de agosto de 2018, deve realizar e manter continuamente atualizados:
+
+
+I –
+
+o mapeamento dos dados pessoais existentes e dos fluxos de dados pessoais em suas unidades;
+
+
+II –
+
+a análise de risco;
+
+
+III –
+
+o plano de adequação, observadas as exigências constantes em norma específica;
+
+
+IV –
+
+o relatório de impacto à proteção de dados pessoais.
+
+
+Parágrafo único
+
+Para fins do inciso III do caput deste artigo, deverão ser observadas as regras editadas pelo Encarregado de Proteção de Dados do Município, após deliberação favorável da Comissão Permanente Municipal de Proteção de Dados (CPMPD).
+
+
+Art. 9º.
+
+É vedado aos órgãos e entidades municipais transferir a entidades privadas dados pessoais constantes de bases de dados a que tenha acesso, exceto:
+
+
+I –
+
+na hipótese de execução descentralizada de atividade pública que exija a transferência, exclusivamente para esse fim específico e determinado, observado o disposto na Lei nº 12.527, de 18 de novembro de 2011 (Lei de Acesso à Informação);
+
+
+II –
+
+na hipótese em que os dados forem acessíveis publicamente, observadas as disposições da Lei Federal nº 13.709, de 14 de agosto de 2018;
+
+
+III –
+
+quando houver previsão legal ou a transferência for respaldada, por meio de cláusula específica, em contratos, convênios ou instrumentos congêneres, cuja celebração deverá ser informada pelo responsável ao Encarregado-Geral do Município para comunicação à autoridade nacional de proteção de dados;
+
+
+IV –
+
+na hipótese de a transferência dos dados objetivar exclusivamente a prevenção de fraudes e irregularidades, ou proteger e resguardar a segurança e a integridade do titular dos dados, desde que vedado o tratamento para outras finalidades.
+
+
+Parágrafo único
+
+Em quaisquer das hipóteses previstas neste artigo, a transferência de dados dependerá de autorização específica conferida pelo Órgão ou Entidade Municipal à Entidade Privada.
+
+
+Art. 10.
+
+Os órgãos e entidades municipais podem efetuar a comunicação ou o uso compartilhado de dados pessoais a pessoa de direito privado, desde que observado a rigor, as disposições da legislação federal, desta Lei e demais normas editadas pelo Encarregado de Proteção de Dados.
+
+
+#### CAPÍTULO III — DA DESIGNAÇÃO E ATRIBUIÇÕES
+
+
+Art. 11.
+
+A estrutura necessária para a implantação e operacionalização da LGPD no Município de Califórnia-PR, obrigatoriamente conterá indicação de:
+
+
+I –
+
+Encarregado de Proteção de Dados do Município, e respectivo suplente a ser indicado pela Secretaria Municipal de Administração e designado pelo Chefe do Poder Executivo;
+
+
+II –
+
+Comissão Municipal de Proteção de Dados (CMPD) composta por 4 (quatro) representantes, titulares das seguintes pastas:  
+Secretaria Municipal de Administração, Finanças e Planejamento;  
+Procuradoria-Geral do Município;  
+Controladoria Interna;  
+Gabinete.
+
+
+Art. 12.
+
+A função de titular de Encarregado de Proteção de Dados, deverá ser ocupada exclusivamente por servidor de carreira, com conhecimento compatível, mediante função gratificada conforme legislação vigente ou que vier a ser instituída pela Administração Municipal.
+
+
+Art. 13.
+
+Caberá à Secretaria Municipal de Administração, Finanças e Planejamento a realização de estudos e as providências necessárias para a criação da estrutura do Encarregado de Proteção de Dados, de acordo com as normas legais aplicáveis e considerando a presente Lei.
+
+
+Art. 14.
+
+Compete ao Encarregado de Proteção de Dados do Município de Califórnia-PR além das atribuições ordinárias para o desempenho da função prevista na Lei nº 13.709/2018 e demais dispositivos desta Lei:
+
+
+I –
+
+atuar como canal de comunicação entre o controlador, os titulares dos dados e a Autoridade Nacional de Proteção de Dados (ANPD), cumprindo com atribuições constantes em Norma Técnica específica e com atribuições que possam vir a ser estabelecidas pela ANPD;
+
+
+II –
+
+elaborar Norma Técnica contendo a regulamentação específica, bem como os procedimentos para a proteção e tratamento de dados no âmbito do Município de Califórnia-PR;
+
+
+III –
+
+elaborar o Protocolo de Adequação e o Plano de Adequação para guiar os órgãos e entidades da Administração Direta e Indireta na adequação à LGPD;
+
+
+IV –
+
+elaborar o Relatório de Impacto à proteção de dados pessoais com a descrição dos processos de dados pessoais que podem gerar riscos às liberdades civis e aos direitos fundamentais, bem como, as medidas e salvaguardas e mecanismos de mitigação de riscos;
+
+
+V –
+
+encaminhar a Norma Técnica referida no inciso II do caput deste artigo para análise e aprovação da Comissão Permanente Municipal de Proteção de Dados (CPMPD);
+
+
+VI –
+
+encaminhar ofícios e expedientes aos titulares das pastas dos órgãos municipais destinatários da presente Lei;
+
+
+VII –
+
+encaminhar orientações e diretrizes acerca da matéria, que devem ser atendidas por todos os servidores e respectivos titulares das pastas nos prazos eventualmente por ele consignados, sob pena de responsabilização se do não atendimento resultar prejuízo ao Município.
+
+
+Art. 15.
+
+Compete à Comissão Municipal:
+
+
+I –
+
+analisar e aprovar a Norma Técnica contendo a regulamentação específica e os procedimentos para a proteção e tratamento de dados no âmbito do Município de Califórnia-PR, elaborada e encaminhada pelo Encarregado;
+
+
+II –
+
+atuar de forma deliberativa e consultiva quanto a qualquer assunto relacionado à LGPD, demais leis que possam colidir com o tema proteção de dados e sobre esta Lei.
+
+
+#### CAPÍTULO IV — DISPOSIÇÕES FINAIS
+
+
+Art. 16.
+
+A não observância das normas e procedimentos constantes da presente Lei ensejará a aplicação das normas disciplinares constantes no Município de Califórnia-PR, além das cabíveis na esfera cível e penal, caso aplicáveis.
+
+
+Art. 17.
+
+A indicação do Encarregado de Proteção de Dados do Município e de seu suplente referida no inciso I do caput do artigo 11 desta Lei, será feita em até 30 (trinta) dias contados da publicação desta Lei.
+
+
+Art. 18.
+
+A aplicação das normas contidas nesta Lei condiciona-se as disposições da Lei Federal nº 13.709, de 14 de agosto de 2018 e suas alterações, cuja norma é fundamento para sua validade.
+
+
+Art. 19.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Edifício da Prefeitura Municipal de Califórnia, aos 28 de maio de 2024.
+
+***PAULO WILSON MENDES***
+
+Prefeito
+

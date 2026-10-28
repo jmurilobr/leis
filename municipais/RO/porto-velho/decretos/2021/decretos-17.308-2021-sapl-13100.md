@@ -1,0 +1,62 @@
+---
+titulo: "Decreto nº 17.308, de 25 de maio de 2021"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "17.308"
+data: "2021-05-25"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/13100"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/10775/text"
+sha256_fonte: "e78bdabc3a80d919be5742ef8394fa0e7cb57e17939d4a363181f7ba5cbcb104"
+sha256_texto: "15742fc2ce4ae109a1aa6b895d7fdce23744725fd1971b32a2d1c51385c06e21"
+capturado_em_fonte: "2026-10-27T20:31:59.747933-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Decreto nº 17.308, de 25 de maio de 2021
+
+Abre no Orçamento Anual do Município de Porto Velho Crédito Adicional Suplementar, e dá outras providências.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, amparado pelo Art. 6º da Lei n.º 2.783 de 21 de dezembro de 2020, e
+
+Considerando o Ofício n.º 1112/2021/DIOF/DA/GAB/SEMED, de 18 de maio de 2021, referente a Abertura de Crédito Suplementar por Superávit Financeiro para reforço de dotação orçamentária;
+
+Considerando o Ofício n.° 080/DEC/SUFIN/SEMFAZ, de 14 de abril de 2021, oriundo da Secretaria Municipal de Fazenda – SEMFAZ que apresenta o demonstrativo do Superávit Financeiro apurado no Balanço Patrimonial do exercício de 2020 nas Contas Correntes n.° 10.587-2, n° 7.715-1, 10.462 – 0 e 10.498 - 1 .
+
+D E C R E T A:
+
+**Art. 1º** – Fica aberto no Orçamento do Município de Porto Velho, Crédito Adicional Suplementar no valor de R$ 3.046.196,13 (três milhões, quarenta e seis mil, cento e noventa e seis reais e treze centavos).
+
+**Art. 2º** – Os recursos necessários à execução do disposto no artigo anterior são decorrentes de Superávit Financeiro apurado no Balanço Patrimonial do Município no exercício de 2020, observado os preceitos do Inciso I, Parágrafo 1º do Art. 43, da Lei n.º 4.320 de 17 de março de 1964, consignados no orçamento na sequência detalhada:
+
+<table><tbody><tr><td colspan="6"><p><strong>09.00 – SECRETARIA MUNICIPAL DE EDUCAÇÃO - SEMED</strong></p></td></tr><tr><td colspan="6"><p><strong>09.01 – SECRETARIA MUNICIPAL DE EDUCAÇÃO - SEMED</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>SUPLEMENTA </strong><strong>R$</strong></p></td></tr><tr><td><p>09.01.12.361.311.2.751</p></td><td><p>Alimentação escolar</p></td><td><p>FIS</p></td><td><p>3.3.50.43</p></td><td><p>3.008</p></td><td><p>224.880,80</p></td></tr><tr><td><p>09.01.12.366.312.2.748</p></td><td><p>Alimentação escolar</p></td><td><p>FIS</p></td><td><p>3.3.50.43</p></td><td><p>3.008</p></td><td><p>9.401,60</p></td></tr><tr><td rowspan="2"><p>09.01.12.122.313.2.709</p></td><td rowspan="2"><p>Aquisição de bens móveis e imóveis</p></td><td rowspan="2"><p>FIS</p></td><td><p>4.4.90.52</p></td><td><p>3.023</p></td><td><p>314.974,00</p></td></tr><tr><td><p>4.4.90.61</p></td><td><p>3.001</p></td><td><p>800.000,00</p></td></tr><tr><td rowspan="2"><p>09.01.12.122.313.2.713</p></td><td rowspan="2"><p>Administração da Unidade</p></td><td rowspan="2"><p>FIS</p></td><td><p>3.3.90.36</p></td><td><p>3.001</p></td><td><p>38.400,57</p></td></tr><tr><td><p>3.3.90.39</p></td><td><p>3.001</p></td><td><p>606.874,13</p></td></tr><tr><td><p>09.01.12.365.315.2.015</p></td><td><p>Alimentação escolar/PRÉ-ESCOLA</p></td><td><p>FIS</p></td><td><p>3.3.50.43</p></td><td><p>3.008</p></td><td><p>93.725,20</p></td></tr><tr><td><p>09.01.12.365.315.2.767</p></td><td><p>Alimentação escolar/CRECHE</p></td><td><p>FIS</p></td><td><p>3.3.50.43</p></td><td><p>3.008</p></td><td><p>53.607,00</p></td></tr><tr><td><p>09.01.12.365.315.2.769</p></td><td><p>Construção e ampliação das unidades escolares/CRECHE</p></td><td><p>FIS</p></td><td><p>4.4.90.51</p></td><td><p>3.008</p></td><td><p>904.332,83</p></td></tr><tr><td colspan="4" rowspan="3"><p><strong>TOTAL POR FONTE</strong></p></td><td><p><strong>3.001</strong></p></td><td><p><strong>1.445.274,70</strong></p></td></tr><tr><td><p><strong>3.008</strong></p></td><td><p><strong>1.285.947,43</strong></p></td></tr><tr><td><p><strong>3.023</strong></p></td><td><p><strong>314.974,00</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>3.046.196,13</strong></p></td></tr></tbody></table>
+
+**Art. 3º** – Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 17.112 de 21.12.2020 e o Detalhamento da Despesa, estabelecido pelo Decreto n.º 17.113 de 21.12.2020.
+
+**Art. 4º** – Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** – Revogam-se as disposições em contrário.
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto do Município
+

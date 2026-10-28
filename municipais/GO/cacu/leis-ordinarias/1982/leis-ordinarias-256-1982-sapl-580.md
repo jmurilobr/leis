@@ -1,0 +1,205 @@
+---
+titulo: "Lei Ordinária nº 256, de 18 de fevereiro de 1982"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "256"
+data: "1982-02-18"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/580"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/1116/text"
+sha256_fonte: "7fa81751560e4214dfa63312ae885157d9d94fcb57b3559a4818b4edbb211f34"
+sha256_texto: "8d3f8e570ec37a018960f1d8b9c4135ce524c74d707ffd64872c587d8dc80937"
+capturado_em_fonte: "2026-10-27T21:56:59.914565-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 256, de 18 de fevereiro de 1982
+
+“AUTORIZA a abertura de CRÉDITO ESPECIAL no Orçamento geral do Município do exercício de 1982.
+
+
+O PREFEITO MUNICIPAL DE CAÇU: Faço saber que a Câmara Municipal de Caçu, Estado de Goiás, por seus membros, aprovou e eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Nos termos da Lei Federal nº 4.320/64, fica o Chefe do Poder Executivo Municipal autorizado a proceder através de DECRETO, a abertura de CRÉDITO ESPECIAL no Orçamento Geral do Município do exercício de 1982, até a quantia de Cr$ 3.745.823,98 (três milhões, setecentos e quarenta e cinco mil, oitocentos e vinte três cruzeiros e noventa e oito centavos), visando regularizar as despesas ocorridas no exercício de 1981, que, diante da inexistência de recursos orçamentários, deixaram de ser contabilizadas.
+
+
+Parágrafo único
+
+Para atendimento das disposições constantes neste artigo, às despesas de 1981 deverão obedecer às seguintes classificações no Orçamento geral do exercício de 1982:
+
+
+01 – LEGISLATIVA
+
+1 – CÂMARA MUNICIPAL
+
+0.010012.01- Atividades Legislativas
+
+3.1.1.1 Pessoal Civil Cr$ 39.000,00
+
+3.1.3.2 Outros serviços e encargos Cr$ 7.840,00
+
+03 – ADMINISTRAÇÃO E PLANEJAMENTO
+
+2 – GABINETE DO PREFEITO
+
+2.03070202.02 - Administração Superior:
+
+3.1.1.1 Pessoal Civil Cr$ 21.000,00
+
+3.1.2.0 Material de consumo Cr$ 4.792,00
+
+03 – ADMINISTRAÇAO E PLANEJAMENTO
+
+3 – SECRETARIA DA PREFEITURA
+
+3.03070212.04 - Apoio e Coordenação Administrativa:
+
+3.1.1.1 Pessoal Civil Cr$ 65.660,00
+
+3.1.2.0 Material de consumo Cr$ 23.407,00
+
+3.1.3.2 Outros serviços e encargos Cr$ 55.388,00
+
+4.1.2.0 Equipamentos e Material Permanente Cr$ 9.000,00
+
+03 – ADMINISTRAÇÃO E PLANEJAMENTO
+
+5 – DEPARTAMENTO DE FINANÇAS
+
+5.03080212.08 - Administração Fazendária:
+
+3.1.1.1 – Pessoal Civil Cr$ 17.734,00
+
+3.1.3.2 Outros serviços e encargos Cr$ 13.800,00
+
+02 – JUDICIÁRIA
+
+6 – DEPARTAMENTO DE OBRAS E SERVIÇOS
+
+6.02040132.12 – Colaboração com o Judiciário:
+
+3.1.2.0 Material de consumo Cr$ 800,00
+
+06 – DEFESA NACIONAL E SEGURANÇA PÚBLICA
+
+6 – DEPARTAMENTO DE OBRAS E SERVIÇOS
+
+6.06300212.16 – Colaboração com a Segurança Pública:
+
+3.1.3.2 Outros serviços e encargos Cr$ 123.260,00
+
+10 – HABITAÇÃO E URBANISMO
+
+6 – DEPARTAMENTO DE OBRAS E SERVIÇOS
+
+6.10603252.17 – Limpeza e conservação de vias e logradouros públicos:
+
+3.1.3.1 Remuneração de serviços pessoais Cr$ 63.175,00
+
+6.10603281.08 – Construção de jardins e Arborização de vias públicas
+
+4.1.1.0 Obras e instalações Cr$ 410.000,00
+
+13 – SAÚDE E PLANEJAMENTO
+
+6 – DEPARTAMENTO DE OBRAS E SERVIÇOS
+
+6.13765751.09 – Pavimentação de vias públicas:
+
+4.1.1.0 Obras e Instalações Cr$ 1.536.460,00
+
+16 – TRANSPORTE
+
+7 – DEPARTAMENTO DE TRANSPORTES
+
+7.16875232.20 – Manutenção do Aeroporto Municipal:
+
+3.1.3.1 Remuneraçao de serviços pessoais Cr$ 1.900,00
+
+3.1.3.2 Outros serviços e encargos Cr$ 3.000,00
+
+7.16880212.21 – Administração dos Sistemas de Transporte:
+
+3.1.2.0 Material de consumo Cr$ 854.522,08
+
+3.1.3.2 Outros serviços e encargos Cr$ 36.393,40
+
+7.16885342.22 – Conservação da rede rodoviária:
+
+3.1.2.0 – Material de Consumo Cr$ 123.005,00
+
+3.1.3.1 Remuneraçao de serviços pessoais Cr$ 2.100,00
+
+3.1.3.2 Outros serviços e encargos Cr$ 5.000,00
+
+08 – EDUCAÇAO E CULTURA
+
+8 – DEPARTAMENTO DE EDUCAÇAO E SAÚDE
+
+8.08070212.23– Administração Educacional:
+
+3.1.2.0 Material de Consumo Cr$ 6.900,00
+
+8.08424272.25 – Alimentação Escolar:
+
+3.1.1.1 Pessoal Civil Cr$ 13.271,00
+
+3.1.2.0 Outros serviços e encargos Cr$ 3.152,00
+
+3.1.3.2 Outros serviços e encargos Cr$ 80.370,00
+
+8.08431982.26 – Manutenção de cursos profissionalizantes:
+
+3.1.2.0 Material de Consumo Cr$ 21.787,00
+
+3.1.3.2 Outros serviços e encargos Cr$ 15.000,00
+
+8.08482472.28 – Atividades Culturais, Cívicas e Recreativas:
+
+3.1.3.2 Outros serviços e encargos Cr$ 73.000,00
+
+13 – SAÚDE E SANEAMENTO
+
+8 – DEPARTAMENTO DE EDUCAÇÃO E SAÚDE
+
+8.13754282.29 - Serviços de Higiene e Saúde
+
+3.1.3.1 Remuneração de serviços pessoais Cr$ 70.000,00
+
+3.1.3.2 Outros serviços e encargos Cr$ 7.986,00
+
+15 – ASSISTÊNCIA E PREVIDÊNCIA
+
+8 – DEPARTAMENTO DE EDUCAÇÃO E SAÚDE
+
+8.15814862.30 – Promoção e Assistência Social:
+
+3.1.3.2 Outros serviços e encargos Cr$ 29.121,00
+
+T O T A L G E R A L Cr$ 3.745.823,98
+
+
+Art. 2º.
+
+Para cobertura dos encargos abertos e autorizados pelo artigo anterior, fica o Poder Executivo Municipal autorizado a apontar os recursos orçamentários utilizados a título de compensação e em igual quantia constantes do Orçamento Geral do exercício de 1982, face às normas da Lei Federal nº 4.320/64, visando compatibilizar esses encargos.
+
+
+Art. 3º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**PREFEITURA MUNICIPAL DE CAÇU,** Estado de Goiás, em 18 de fevereiro de 1982.
+
+
+**ABEL BARBOSA GUIMARÃES Prefeito Municipal**
+

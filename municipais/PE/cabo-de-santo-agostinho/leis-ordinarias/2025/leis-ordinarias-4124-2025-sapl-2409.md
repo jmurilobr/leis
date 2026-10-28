@@ -1,0 +1,168 @@
+---
+titulo: "Lei Ordinária nº 4.124, de 16 de dezembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4124"
+data: "2025-12-16"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2409"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/2299/text"
+sha256_fonte: "9c49ed9c9b1895f8b860a4b64e3fcb90c27eb438a79d1677c6e2e193d68d0ace"
+sha256_texto: "2cecb56a6e77105ef7066fb4088556c9e92b0c26939a9a1cdae6ab7e79e3235d"
+capturado_em_fonte: "2026-10-27T21:03:43.947091-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.124, de 16 de dezembro de 2025
+
+INSTITUI O PROGRAMA AFROCABO DE INCENTIVO À INSERÇÃO DE JOVENS NEGROS NO MERCADO DE TRABALHO E NA EDUCAÇÃO TÉCNICA E PROFISSIONAL, POR MEIO DE INCENTIVOS FISCAIS ÀS EMPRESAS E PARCERIAS COM INSTITUIÇÕES DE ENSINO INSTALADAS NO MUNICÍPIO DO CABO DE SANTO AGOSTINHO, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+**O Prefeito do Município do Cabo de Santo Agostinho, Faço saber que a Câmara Municipal aprova e eu sanciono a seguinte Lei:**
+
+
+Art. 1º.
+
+Institui a Política Municipal de Educação Antirracista e das Relações Étnico-Raciais na Rede Pública Municipal de Educação do Cabo de Santo Agostinho, nos termos do Estatuto da Igualdade Racial - Lei Federal n° 12.288, de 20 de julho de 2010, da Lei Federal n° 10.639 de 09 de janeiro de 2003, da Lei Federal n° 11.645 de 10 de marco de 2008 e, Lei Estadual n° 18.202 de 12 de junho de 2023.
+
+
+§ 1º
+
+A política de Educação Antirracista e das Relações Étnico- racial — Cabo Antirracista, tem como objetivo promover a justiça social, a equidade racial e o letramento Étnico raciais, além do enfretamento ao racismo no desenvolvimento de pessoas negras indígenas e quilombolas e oferecer conhecimento aos estudantes sobre racismo e torná-los aptos a serem agentes de mudança contra a discriminação e o preconceito racial na sociedade.
+
+
+§ 2º
+
+A presente lei consistirá na aplicabilidade de programas, envolvendo a primeira infância, as juventudes, os adultos, as pessoas idosas e as pessoas com deficiências e imigrantes, por meio de ações afirmativas formação continuada para os profissionais da educação e do serviço público Municipal.
+
+
+Art. 2º.
+
+São objetivos desta Política:
+
+
+I –
+
+Garantir o desenvolvimento saudável, inclusivo e seguro de pessoas negras, indígenas e Quilombolas - incluindo a primeira infância - jovens, adultos, pessoas idosas, pessoas com deficiências e Imigrantes;
+
+
+II –
+
+Promover o Letramento Racial e a Educação Antirracista desde a primeira infância ao Ensino Fundamental e na Educação de Jovens e Adultos e Pessoas Idosas (EJAI) da rede pública municipal; e
+
+
+III –
+
+Fomentar a equidade de raça, por meio da análise do desempenho escolar, permanência e manutenção do fluxo escolar, bem como no acompanhamento da aprendizagem de crianças negras, indígenas e quilombolas.
+
+
+Art. 3º.
+
+Constituem instrumentos da Política Pública de Educação Antirracista e Relações Étnico-Raciais:
+
+
+I –
+
+Criação do núcleo de Estudo e Formação Docente para Educação das Relações Étnico-Raciais (ERER) do Cabo de Santo Agostinho;
+
+
+II –
+
+Implantar Equipe de Professores-formadores para Relações Étnico-Raciais do Cabo de Santo Agostinho;
+
+
+III –
+
+Criar Programa de Formação Continuada para profissionais da Educação Infantil, Fundamental (Anos Iniciais e Finais) e Educação de Jovens e Adultos e pessoas idosas (EJAI);
+
+
+IV –
+
+Produzir materiais informativos, didáticos e indutores de práticas antirracistas para comunidade escolar;
+
+
+V –
+
+Promover e garantir ações de cunho pedagógicos como Caravana, Jornada Pedagógica e Caminhada de Educação antirracista e relações étnico-raciais, quando necessário, visando a sensibilização os agentes públicos do Município do Cabo de Santo Agostinho da importância de combater condutas e linguagens discriminatórias nos órgãos e entidades da administração Pública Municipal;
+
+
+VI –
+
+Promoção da Educação Digital para o Treinamento de pessoas negras, indígenas e quilombolas em competências digitais, midiáticas e informacionais, visando à ampliação de oportunidade de oportunidades e ao desenvolvimento de tecnologias para Educação das Relações Étnicos-Raciais e antirracistas; e
+
+
+VII –
+
+Assegurar o respeito e o reconhecimento da diversidade das Populações do Campo, conforme determina o Decreto Federal n° 7.352, de 4 de novembro de 2010, que dispõe sobre a politica de educação no campo e o Programa Nacional de Educação na Reforma Agrária.
+
+
+Art. 4º.
+
+As instituições de ensino da Rede Pública Municipal deverão incorporar em seus calendários escolares atividades pedagógicas voltadas à valorização da cultura afro-brasileira, africana e indígena, incluindo a comemoração do Dia da Consciência Negra (20 de novembro) e demais datas alusivas às lutas e conquistas desses povos.
+
+
+Art. 5º.
+
+Fica criado no âmbito do Município do Cabo de Santo Agostinho o Selo "Escola Antirracista Inovadora", a ser concedido às unidades escolares da Rede Pública Municipal de Ensino que cumprirem integralmente as diretrizes e objetivos previstos nesta Lei.
+
+
+§ 1º
+
+A concessão do Selo ocorrerá anualmente, mediante avaliação de critérios e requisitos estabelecidos em instrução normativa específica expedida pela Secretaria Municipal de Educação.
+
+
+§ 2º
+
+A Secretaria Municipal de Educação instituirá, por meio de instrução normativa, mecanismos de premiação, reconhecimento público e incentivo pedagógico e institucional às escolas certificadas bem como seus profissionais, com vistas a valorizar e difundir práticas exitosas no enfrentamento ao racismo e na garantia de práticas antirracistas no ambiente escolar.
+
+
+Art. 6º.
+
+O Poder Executivo poderá firmar convênios, parcerias e cooperações técnicas com instituições públicas e privadas, organizações da sociedade civil e organismos internacionais para execução das ações previstas nesta Lei.
+
+
+Art. 7º.
+
+A Secretaria Municipal de Educação deverá promover e incentivar a inclusão da história e Cultura africanas no planejamento pedagógico e no Projeto Político Pedagógico das escolas municipais, destacando o papel da população negra na formação da sociedade brasileira.
+
+
+Art. 8º.
+
+A Secretaria Municipal de Educação, combaterá, com ações pedagógicas, a naturalização do uso de expressões racistas, prevenir e combater comportamentos discriminatórios, assim como promover a conscientização da importância do enfretamento à discriminação racial no ambiente escolar.
+
+
+Art. 9º.
+
+A secretaria Municipal de Educação editará atos normativos complementares para disciplinar a execução da política Antirracista na Rede de Educação Municipal, nos termos da presente Lei.
+
+
+Art. 10.
+
+A Secretaria Municipal de Educação destinará dotações orçamentárias para execução das ações, metas e estratégias, relativas à política antirracista nos termos desta Lei.
+
+
+Art. 11.
+
+Esta lei entrará em vigor na data de sua publicação.
+
+
+Gabinete do Prefeito, 16 de dezembro de 2025
+
+**LUIZ CABRAL DE OLIVEIRA FILHO**
+
+Prefeito
+
+***CHANCELAS:***
+
+**Flavio Bruno de Almeida Silva**
+
+Secretário Municipal de Assuntos Jurídicos (SMAJ)
+
+"Lei decorrente do Anteprojeto de Lei n° 040, do Poder Executivo do Município Cabo de Santo Agostinho".
+

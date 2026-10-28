@@ -1,0 +1,30 @@
+from pathlib import Path
+import json,hashlib,gzip,subprocess,datetime,sys
+sys.path.insert(0,'scripts')
+from pendencias_integralidade import carregar
+sha=lambda b:hashlib.sha256(b).hexdigest()
+base=Path('federal/_fonte/auditorias/retomada_federal_20261027_004');overlay=base/'overlay_placeholders_publicados12669_v2.json';o=json.loads(overlay.read_text());mp=base/'entrega_placeholders12669-hashes.json';package=json.loads(mp.read_text());h={}
+for r in package['arquivos']:
+ p=r['path'];assert sha(Path(p).read_bytes())==r['sha256'],p;h[p]=r['sha256']
+rp=Path('scripts/dados/pendencias-integralidade-publicadas.json');old=rp.read_bytes();assert subprocess.check_output(['git','show','HEAD:'+str(rp)])==old;assert sha(old)==o['sha256_mascara_lida'];registry=json.loads(old);assert len(registry['pendentes'])==len(carregar(Path.cwd()))==7544;existing={r['path'] for r in registry['pendentes']}
+rows={r['path']:r for r in o['registros']};assert len(rows)==65;receipts={}
+with gzip.open(base/'receipts_placeholders_publicados12669_v1.jsonl.gz','rt') as f:
+ for line in f:
+  r=json.loads(line);p=r['path'];assert p not in receipts;receipts[p]=r
+  assert sha(r['md_HEAD'].encode())==rows[p]['sha256_md_HEAD']
+  assert sha(r['fonte_html_utf8'].encode())==rows[p]['sha256_html'];assert sha(r['metadados_raw'].encode())==rows[p]['sha256_metadados']
+assert receipts.keys()==rows.keys();additions=[];control=[]
+for p,r in rows.items():
+ raw=subprocess.check_output(['git','show','HEAD:'+p]);oid=subprocess.check_output(['git','rev-parse','HEAD:'+p]).decode().strip();assert sha(raw)==r['sha256_md_HEAD'] and oid==r['OID_HEAD'];assert Path(p).read_bytes()==raw and p not in existing
+ assert r['tabelas_fonte']==0 and not r['objetos_visuais_fonte'] and r['ocorrencias']
+ if r['status']=='controle_objeto_inline_presente_placeholder_inconclusivo':control.append(p);continue
+ explicit=r['status']=='comando_proprio_com_objeto_nao_reproduzido'
+ assert explicit or r['status']=='revisao_contextual_sem_ausencia_propria_demonstrada'
+ assert not explicit or r['remissoes_proprias_literais']
+ additions.append({'path':p,'sha256_md':sha(raw),'estado':'anexo_ausente_na_fonte_textual' if explicit else 'suplemento_em_revisao_contextual','motivo':r['natureza_lacuna'] if explicit else 'Ponteiro CLBR exige contexto suplementar; integralidade ainda nao validada, sem afirmar ausencia propria definitiva.','evidencia':{'manifesto':str(overlay),'sha256_manifesto':sha(overlay.read_bytes()),'fonte':r['fontes_publicas']['pagina'],'sha256_HTML':r['sha256_html'],'sha256_metadados':r['sha256_metadados'],'OID_HEAD':oid,'comando_proprio':r['remissoes_proprias_literais'],'ocorrencias':r['ocorrencias'],'conclusao_contextual':r['conclusao']}})
+assert len(additions)==64 and len(control)==1 and sum(r['estado']=='anexo_ausente_na_fonte_textual' for r in additions)==62
+print('64 pendencias propostas,62 comandos proprios e2 contextuais;1 controle inline permanece contado. Nenhuma escrita.',flush=True)
+if '--apply' not in sys.argv:raise SystemExit(0)
+backup=Path('federal/_historico_pendencias_20261027/antes-placeholder64.json.gz');assert not backup.exists();backup.parent.mkdir(parents=True,exist_ok=True);backup.write_bytes(gzip.compress(old,mtime=0));assert gzip.decompress(backup.read_bytes())==old;h[str(backup)]=sha(backup.read_bytes())
+assert rp.read_bytes()==old;registry['data']='2026-10-27';registry['pendentes'].extend(additions);rp.write_text(json.dumps(registry,ensure_ascii=False,indent=2)+'\n');assert len(carregar(Path.cwd()))==7608;h[str(rp)]=sha(rp.read_bytes());h[str(mp)]=sha(mp.read_bytes())
+receipt=Path('scripts/dados/placeholders64-retencao-root-20261027.json');assert not receipt.exists();receipt.write_text(json.dumps({'retidos':64,'comando_proprio':62,'contexto_pendente':2,'controle_inline_sem_retencao':control,'pendentes_antes':7544,'pendentes_depois':7608,'sha256_registro_antes':sha(old),'criterio':'ROOT leu todos65 comandos/contextos,conferiu todosMD por OID/SHA realHEAD e reabriu receipts HTML/API/MD comCRC/SHA.64 ficam fora do progresso ate fonte suplementar;1 inline completo nao foi retido por marcador isolado. Textos/fontes e7544 entradas anteriores preservados;metas inalteradas.','sha256':h},ensure_ascii=False,indent=2)+'\n');h[str(receipt)]=sha(receipt.read_bytes());Path('_fonte/operacao_root_20261027/placeholder64-hashes.json').write_text(json.dumps(h,ensure_ascii=False,indent=2)+'\n');print('Registro7608 aplicado; corpos normativos inalterados.',flush=True)

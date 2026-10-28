@@ -1,0 +1,32 @@
+---
+titulo: "PORTARIA Nº 24, DE 20 DE OUTUBRO DE 2022"
+orgao: "Presidência da República/Casa Civil/Instituto Nacional de Tecnologia da Informação"
+tipo: "Portaria"
+numero: "24"
+data: 2022-10-20
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 21/10/2022, seção 1, p. 1"
+data_publicacao: 2022-10-21
+edicao: "201"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-24-de-20-de-outubro-de-2022-437936822"
+sha256_html_fonte: a9fcd0ed728d3e9acca7ed2b40710ca8d4acd2387d3bc7ec238fb9c5a9be01e5
+baixado_em: 2026-10-20
+---
+# PORTARIA Nº 24, DE 20 DE OUTUBRO DE 2022
+
+PORTARIA Nº 24, DE 20 DE OUTUBRO DE 2022
+
+Dispõe sobre o detalhamento das unidades administrativas constantes do quadro demonstrativo de cargos em comissão e de funções de confiança da estrutura regimental do Instituto Nacional de Tecnologia da Informação - ITI.
+
+**O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO**, AUTARQUIA VINCULADA À CASA CIVIL DA PRESIDÊNCIA DA REPÚBLICA, no uso das atribuições que lhe confere o Art. 28, inciso XI do Anexo I, da Portaria nº 20, de 27 de abril de 2020 que aprovou o Regimento Interno do Instituto Nacional de Tecnologia da Informação - ITI, e considerando o disposto no Art. 14 do Decreto nº 9.739, de 28 de março de 2019, resolve:
+
+**Art. 1º** Estabelecer, na forma do Anexo, a denominação, a sigla e a hierarquia das unidades administrativas constantes do quadro demonstrativo de cargos em comissão e de funções de confiança da estrutura regimental do Instituto Nacional de Tecnologia da Informação - ITI, aprovada pelo Decreto nº 11.206, de 26 de setembro de 2022.
+
+**Art. 2º** Esta Portaria entra em vigor em 24 de outubro de 2022.
+
+CARLOS ROBERTO FORTNER
+
+## ANEXO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>UNIDADE</p></td>      <td rowspan="1" colspan="1"><p>SIGLA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>GABINETE</p></td>      <td rowspan="1" colspan="1"><p>GABIN</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>I - Coordenação de Comunicação</p></td>      <td rowspan="1" colspan="1"><p>CCOM</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>COORDENAÇÃO-GERAL DE INOVAÇÃO, COOPERAÇÃO E PROJETOS</p></td>      <td rowspan="1" colspan="1"><p>CGICP</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>AUDITORIA INTERNA</p></td>      <td rowspan="1" colspan="1"><p>AUDIN</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PROCURADORIA FEDERAL ESPECIALIZADA</p></td>      <td rowspan="1" colspan="1"><p>PFE</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>I - Divisão de Assuntos Finalísticos</p></td>      <td rowspan="1" colspan="1"><p>DIAFI</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>COORDENAÇÃO-GERAL DE GESTÃO E TECNOLOGIA DA INFORMAÇÃO</p></td>      <td rowspan="1" colspan="1"><p>CGGTI</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>I - Coordenação de Planejamento e Execução Orçamentária e Financeira</p></td>      <td rowspan="1" colspan="1"><p>COPEO</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>II- Coordenação de Licitações e Contratos</p></td>      <td rowspan="1" colspan="1"><p>COLIC</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>III - Coordenação de Gestão de Pessoas e Desenvolvimento Institucional</p></td>      <td rowspan="1" colspan="1"><p>COGED</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>a) Serviço de Gestão de Pessoas</p></td>      <td rowspan="1" colspan="1"><p>SEGEP</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>IV - Coordenação de Tecnologia da Informação e Comunicações</p></td>      <td rowspan="1" colspan="1"><p>COTIC</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>V - Divisão de Recursos Logísticos</p></td>      <td rowspan="1" colspan="1"><p>DILOG</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>a) Serviço de Logística Administrativa</p></td>      <td rowspan="1" colspan="1"><p>SELOG</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>VI - Serviço de Contabilidade</p></td>      <td rowspan="1" colspan="1"><p>SECON</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>DIRETORIA DE INFRAESTRUTURA DE CHAVES PÚBLICAS</p></td>      <td rowspan="1" colspan="1"><p>DINFRA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>I - Coordenação-Geral de Infraestrutura e Segurança</p></td>      <td rowspan="1" colspan="1"><p>CGISE</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>a) Coordenação de Infraestrutura Tecnológica</p></td>      <td rowspan="1" colspan="1"><p>COTEC</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>b) Coordenação de Segurança</p></td>      <td rowspan="1" colspan="1"><p>COSEG</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>II - Coordenação-Geral de Operações</p></td>      <td rowspan="1" colspan="1"><p>CGOPE</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>a) Coordenação de Operação da AC Raiz</p></td>      <td rowspan="1" colspan="1"><p>COACR</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>b) Serviço de Operação da Entidade de Auditoria do Tempo</p></td>      <td rowspan="1" colspan="1"><p>SETEM</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>DIRETORIA DE AUDITORIA, FISCALIZAÇÃO E NORMALIZAÇÃO</p></td>      <td rowspan="1" colspan="1"><p>DAFN</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>I - Coordenação-Geral de Auditoria e Fiscalização</p></td>      <td rowspan="1" colspan="1"><p>CGAFI</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>a) Coordenação de Auditoria e Credenciamento</p></td>      <td rowspan="1" colspan="1"><p>COAUC</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>b) Coordenação de Fiscalização e Combate à Fraude</p></td>      <td rowspan="1" colspan="1"><p>COFIC</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>c) Coordenação de Inteligência e Análise Preditiva</p></td>      <td rowspan="1" colspan="1"><p>COIAP</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>II - Coordenação-Geral de Normalização e Pesquisa</p></td>      <td rowspan="1" colspan="1"><p>CGNPE</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>a) Divisão de Normalização</p></td>      <td rowspan="1" colspan="1"><p>DINOR</p></td>     </tr>    </tbody>   </table>

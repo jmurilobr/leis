@@ -1,0 +1,235 @@
+---
+titulo: "LEI ORDINÁRIA nº 40, de 21 de junho de 1998"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "40"
+data: "1998-06-21"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/434"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/66/text"
+sha256_fonte: "0e0eeb211ad06a2c06c8f2d414ed2edd4e1a62d8ea011273e4476f781ad9ec8a"
+sha256_texto: "625ac87e3cbeea7f39236d7e9e997ec27c4850b6b616d7f97437cb1bb8ed895e"
+capturado_em_fonte: "2026-10-27T20:42:53.172517-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 40, de 21 de junho de 1998
+
+DISPÕE SOBRE A CRIAÇÃO DO SERVIÇO AUTÔNOMO DE SANEAMENTO DE CABECEIRA GRANDE — SANECAB, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+**O Prefeito Municipal de Cabeceira Grande(MG)**, no uso das atribuições que lhe confere o art. 76, III, da Lei Orgânica, faz saber que a Câmara Municipal decreta e ele, em seu nome, sanciona e promulga a seguinte lei:
+
+
+Art. 1º.
+
+É criado, como entidade autárquica municipal, vinculada, nos termos do Parágrafo único do art. 85 da Lei Orgânica do Município, à Secretaria Municipal da Saúde e Saneamento, o Serviço Autônomo Saneamento de Cabeceira Grande — SANECAB, com personalidade jurídica de direito público interno, dispondo de autonomia administrativa, econômica e financeira, nos termos das disposições desta Lei e das demais legislações aplicáveis.
+
+
+Art. 2º.
+
+O SANECAB exercerá sua ação no Município de Cabeceira Grande, competindo-lhe, com exclusividade:
+
+
+I –
+
+estudar, projetar e executar, diretamente ou mediante contrato com instituições ou empresas especializadas em engenharia de saneamento, as obras relativas à construção, ampliação ou remodelação dos sistemas públicos municipais de abastecimento de água potável, esgotos sanitários, limpeza pública, coleta e disposição final de resíduos sólidos urbanos, que não forem objeto de convênio entre a Prefeitura e órgãos de outras esferas de governo.
+
+
+II –
+
+atuar como órgão coordenador e fiscalizador da execução de convênios e ajustes firmados entre o município e outros órgãos públicos para estudos, projetos e obras de construção, ampliação ou remodelação dos sistemas públicos no âmbito de sua competência.
+
+
+III –
+
+operar, manter, conservar e explorar, direta ou indiretamente, os serviços de abastecimento de água, esgotamento sanitário e limpeza pública, coleta e destino final de resíduos sólidos, na sede, vilas, povoados ou aglomerados urbanos existentes ou que vierem a ser criados e instalados no território do município de Cabeceira Grande.
+
+
+IV –
+
+lançar, fiscalizar e arrecadar as taxas e tarifas incidentes sobre os serviços de saneamento de sua competência, bem como as taxas de contribuição de melhoria que incidirem sobre áreas ou terrenos beneficiados diretamente com tais serviços;
+
+
+V –
+
+exercer quaisquer outras atividades relacionadas com os sistemas públicos de saneamento municipal, compatíveis com a legislação específica;
+
+
+VI –
+
+auxiliar na fiscalização permanente dos recursos ambientais, visando a compatibilização do desenvolvimento econômico com a proteção do meio ambiente e do equilíbrio ecológico:
+
+
+VII –
+
+colaborar na proteção das áreas representativas de ecossistemas e na implantação, nas áreas críticas de poluição, de um sistema permanente de acompanhamento dos índices locais de qualidade ambiental;
+
+
+VIII –
+
+identificar e informar aos órgãos e entidades do Sistema Estadual e Nacional do Meio Ambiente sobre a existência de áreas degradadas, ou ameaçadas de degradação, propondo medidas para sua recuperação;
+
+
+IX –
+
+manter um atualizado inventário ecológico do Município, visando informar e facilitar a atuação dos órgãos e entidades dos Sistemas Estadual e Nacional do Meio Ambiente, incluindo as reservas naturais, as áreas de proteção ambiental, os recursos hídricos, o ar e o solo;
+
+
+X –
+
+promover a participação ativa do cidadão e da comunidade na defesa do meio ambiente e colaborar no desenvolvimento de programas de educação ambiental.
+
+
+Art. 3º.
+
+O SANECAB será administrado por um Diretor, cargo público, de provimento em comissão, a ser nomeado pelo Prefeito Municipal.
+
+
+§ 1º
+
+O Poder Executivo fica autorizado a transferir a administração do SANECAB à Fundação Nacional de Saúde – FUNASA, entidade pública vinculada ao Ministério da Saúde, mediante convênio ou outro instrumento contratual adequado.
+
+
+§ 2º
+
+Incumbe ao Diretor, ou, no caso do parágrafo 1º deste artigo, à entidade administradora, representar o SANECAB ou promover-lhe a representação judicial ou extrajudicial, em qualquer instância.
+
+
+Art. 4º.
+
+O patrimônio inicial do SANECAB será constituído de todos os bens móveis, imóveis, demais instalações físicas de natureza industrial, títulos, materiais e outros valores próprios do Município, que atualmente são ou estão destinados, empregados ou utilizados nos sistemas públicos de abastecimento de água, esgotamento sanitário, limpeza pública e coleta de lixo, os quais lhe serão formalmente transferidos e entregues sem quaisquer ônus ou compensações pecuniárias.
+
+
+Art. 5º.
+
+As receitas do SANECAB provirão dos seguintes recursos:
+
+
+I –
+
+do produto de quaisquer tributos e remunerações decorrentes diretamente dos serviços de água, esgoto, coleta de lixo, conservação de vias e logradouros públicos, tais como taxas, tarifas, e contribuições incidentes sobre instalação, reparo, aferição, aluguel ou conservação de hidrometros, demais receitas provenientes de ligação de água e esgoto, prolongamento de redes por conta de terceiros, multas, e outras que legalmente vierem a ser instituídas;
+
+
+II –
+
+contribuições de melhoria incidentes sobre terrenos beneficiados com obras realizadas por conta dos serviços de sua competência;
+
+
+III –
+
+das subvenções sociais ou econômicas que lhe forem anualmente consignadas no orçamento do Poder Executivo, ou nos orçamentos de outras entidades públicas de qualquer esfera de governo.
+
+
+IV –
+
+dos auxílios para realização de despesas de capital, subvenções, contribuições financeiras correntes, dos créditos adicionais especiais que lhe forem concedidos, inclusive para novas obras, pelos governos federal, estadual ou municipal, ou por organismos de cooperação internacional;
+
+
+V –
+
+os rendimentos auferidos sobre aplicações financeiras de capital que efetuar junto a instituições bancárias, mercados e bolsas, e outras rendas patrimoniais;
+
+
+VI –
+
+do produto da venda de materiais inservíveis e da alienação de bens patrimoniais que se tornarem desnecessários aos seus serviços;
+
+
+VII –
+
+do produto de cauções ou depósitos que se reverterem aos seus cofres por inadimplemento contratual;
+
+
+VIII –
+
+de doações, legados e outras transferências patrimoniais que, pela natureza ou finalidade lhe devam caber.
+
+
+Parágrafo único
+
+Mediante prévia autorização do Chefe do Poder Executivo, o SANECAB poderá realizar operações de crédito para antecipação de receita autorizadas em seu orçamento pelo Legislativo, ou obtenção de recursos através de financiamento ou empréstimo, necessários à execução de obras, ampliações ou remodelação dos sistemas de saneamento de sua competência.
+
+
+Art. 6º.
+
+O regulamento dos serviços distintos atribuídos à competência da SANECAB, seu regimento interno, e a classificação dos serviços de água e esgoto, as tarifas respectivas, as penalidades pecuniárias sobre o descumprimento do regulamento, bem como as condições para sua cobrança e arrecadação serão fixadas e aprovados por decreto do Poder Executivo.
+
+
+Parágrafo único
+
+As tarifas serão fixadas em percentuais aplicáveis sobre a Tarifa de Consumo de Água, conforme esquema tarifário a ser fixado anualmente em regulamento, calculadas de modo a assegurar, em conjunto com outras rendas, a auto-suficiência econômico-financeira da autarquia.
+
+
+Art. 7º.
+
+As taxas incidentes sobre os serviços regulares de limpeza pública e a contribuição de melhoria, bem como as penalidades pecuniárias sobre o descumprimento de obrigações fiscais serão lançadas e arrecadadas nos termos do que dispuser o Código Tributário do Município.
+
+
+Art. 8º.
+
+São obrigatórios, a partir da promulgação desta lei, e nos termos do art. 36 do Decreto Federal n.º 49.974 de 21.01.61, a instalação dos serviços de água e esgotos nas edificações habitáveis, situadas nos logradouros dotados das respectivas redes de fornecimento.
+
+
+Art. 9º.
+
+Os proprietários de terrenos baldios, loteados ou não, situados em logradouros dotados de redes públicas de distribuição de água, coleta de esgotos sanitários, ou serviços de limpeza pública e coleta de lixo, desprovidos das respectivas ligações, ficarão sujeitos ao pagamento de uma taxa de contribuição de melhoria, na forma que vier a ser fixada em regulamento, observado o que dispuser o código tributário municipal.
+
+
+Art. 10.
+
+É vedado ao SANECAB conceder quaisquer isenções, redução ou remissão de tarifas dos serviços de água e esgoto, dispondo de autonomia para aplicar as disposições do código tributário municipal para aquelas concernentes aos serviços de limpeza pública e coleta de lixo.
+
+
+Art. 11.
+
+O SANECAB terá quadro próprio de servidores, organizado em sistemas de carreiras, e observará o princípio da isonomia em relação aos demais quadros de pessoal da Administração Direta e Indireta.
+
+
+§ 1º
+
+Compete à administração do SANECAB admitir, movimentar e dispensar servidores, de acordo com as normas estabelecidas pela Lei Complementar n.º 001/98, que contém o Estatuto dos Servidores Públicos Municipais, e outras legislações pertinentes aos servidores públicos municipais
+
+
+§ 2º
+
+O SANECAB absorverá, na sua instalação, os atuais servidores empregados na execução dos serviços de abastecimento de água existente, que serão transferidos pelo Poder Executivo para o seu quadro de pessoal, mantidas as vantagens individuais e demais direitos adquiridos.
+
+
+Art. 12.
+
+Aplicam-se ao SANECAB, naquilo que disser respeito aos seus bens, rendas e serviços, todas as prerrogativas de órgão público da Administração Indireta, além de benefícios fiscais, bem como das demais vantagens de que gozam os serviços municipais.
+
+
+Art. 13.
+
+O Prefeito Municipal expedirá os atos necessários à completa regulamentação desta Lei, dentro de 60 dias de sua publicação.
+
+
+Parágrafo único
+
+A regulamentação de que trata o caput compreenderá o regulamento dos serviços de abastecimento de água, coleta de esgotos sanitários e resíduos sólidos, limpeza pública, bem como o sistema de tarifação, e o regimento interno da autarquia.
+
+
+Art. 14.
+
+É estabelecido o prazo máximo de 30 (trinta) dias, a contar da publicação desta lei, para remessa e encaminhamento ao legislativo do orçamento de receitas e despesas da autarquia para este exercício, e do projeto de lei dispondo sobre sua organização interna e quadro de pessoal, salários e vagas.
+
+
+Art. 15.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Cabeceira Grande (MG), 21 de junho de 1998
+
+**ANTÔNIO NAZARÉ SANTANA MELO PREFEITO MUNICIPAL**
+
+**"Este texto não substitui o original."**
+

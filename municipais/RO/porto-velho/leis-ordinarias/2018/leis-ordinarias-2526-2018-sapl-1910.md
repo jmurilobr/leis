@@ -1,0 +1,144 @@
+---
+titulo: "Lei nº 2.526, de 06 de junho de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2526"
+data: "2018-06-06"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/1910"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/1013/text"
+sha256_fonte: "f7ab2c03d9337ee2c7acf702f5bfd833ff03baa8b97bfdb5edd196d2e765c0ca"
+sha256_texto: "1538ae374b6262b28192b0d7706498abdb3baa25270ef6752096ed66b42d6658"
+capturado_em_fonte: "2026-10-27T16:45:13.894753-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 2.526, de 06 de junho de 2018
+
+“Fica instituída a Distribuição Gratuita de Medicamentos de Uso Contínuo aos aposentados, pensionistas, portadores de necessidades especiais e pessoas de baixa renda em suas residências e dá outras providências”
+
+
+**O PRESIDENTE DA CÂMARA MUNICIPAL DE PORTO VELHO**, no uso das atribuições que lhe confere o § 6º, do artigo 72 da Lei Orgânica do Município, combinado com o § 6º, do art. 165 da Resolução nº. 254/CMPV-91 - REGIMENTO INTERNO, PROMULGA a seguinte  
+  
+**LEI:**
+
+
+Art. 1º.
+
+Fica instituída a distribuição gratuita dos remédios de uso contínuo aos aposentados, pensionistas, portadores de necessidades especiais e pessoas de baixa renda em suas residências no município de Porto Velho
+
+
+Parágrafo único
+
+Considera-se portadores de necessidades especiais aquelas impedidas de natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas.
+
+
+Art. 2º.
+
+São considerados medicamentos de uso contínuo aqueles usados no tratamento de doenças crônicas ou degenerativo, de forma ininterrupta
+
+
+Art. 3º.
+
+Para fazer jus ao benefício, o usuário deverá realizar o cadastramento nas Unidades Básicas de Saúde, sendo necessários os seguintes documentos para realização do cadastro:
+
+
+I –
+
+Formulário de “Solicitação De Auxílio De Entrega Domiciliar De Uso Contínuo” devidamente preenchido;
+
+
+II –
+
+Cópia do documento de identificação com foto, CPF e comprovante de residência;
+
+
+III –
+
+Cópia do Cartão Nacional do SUS (CNS);
+
+
+IV –
+
+Receita médica original, em papel timbrado do médico ou estabelecimento onde a consulta foi realizada, devendo constar obrigatoriamente, o nome do paciente, apresentação e dose diária do medicamento, bem como assinatura e carimbo com respectivo número do CRM do profissional.
+
+
+Parágrafo único
+
+O cadastramento poderá ser realizado por procurador constituído por instrumento público com reconhecimento de firma em cartório em caso de impossibilidade de comparecimento presencial a Unidade Básica de Saúde ou por representante legal em caso de o beneficiário ser incapaz
+
+
+Art. 4º.
+
+A partir da confirmação do cadastramento, o beneficiário será incluído no programa e terá direito ao recebimento do medicamento descrito na receita médica.
+
+
+§ 1º
+
+A entrega do medicamento será no prazo máximo de 05 (cinco) dias a contar da apresentação do requerimento na unidade básica de saúde
+
+
+§ 2º
+
+O medicamento a ser entregue deverá obrigatoriamente ser suficiente para uso de, no mínimo 01 (hum) mês.
+
+
+§ 3º
+
+É vedada a substituição do medicamento descrita na receita médica
+
+
+§ 4º
+
+A entrega de medicamentos de uso contínuo é toda aquela que o Governo Municipal, Estadual e Federal disponibiliza nas Unidades Básicas de Saúde para a população, tanto adquirido de terceiros como os fornecidos pelo Estado.
+
+
+Art. 5º.
+
+A entrega do medicamento deverá ser efetivada:
+
+
+Parágrafo único
+
+Pelas Secretarias Municipais e Estaduais de Saúde, através das Unidades Básicas de Saúde e entregue pelos agentes de saúde.
+
+
+Art. 6º.
+
+Em nenhuma hipótese o paciente poderá ficar sem o devido medicamento.
+
+
+Parágrafo único
+
+Na falta de medicamento em qualquer unidade básica de saúde do Município, a Secretaria Municipal de Saúde – SEMUSA, se compromete a realizar a sua reposição no prazo máximo de 48 (quarenta e oito) horas.
+
+
+Art. 7º.
+
+As despesas decorrentes do fornecimento dos medicamentos constantes nesta Lei serão provenientes dos recursos orçamentários do SUS repassados ao Município de Porto Velho.
+
+
+Art. 8º.
+
+A regulamentação será efetivada em 120 (cento e vinte) dias, através do decreto do Chefe do Poder Executivo
+
+
+Art. 9º.
+
+Este Projeto de Lei entra em vigor na data de sua publicação.
+
+
+Câmara Municipal de Porto Velho, 06 de junho de 2018.  
+  
+**Vereador Maurício Carvalho Presidente**
+
+Projeto de Lei nº. 3.630/2017
+
+Ver. Edwilson Negreiros - PSB
+

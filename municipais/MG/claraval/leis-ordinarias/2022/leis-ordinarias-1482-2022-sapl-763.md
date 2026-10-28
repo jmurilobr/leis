@@ -1,0 +1,300 @@
+---
+titulo: "LEI ORDINÁRIA-CMC nº 1.482, de 26 de outubro de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "1482"
+data: "2022-10-26"
+municipio: "Claraval"
+uf: "MG"
+codigo_ibge: "3116407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.claraval.mg.leg.br/norma/763"
+fonte_texto: "https://sapl.claraval.mg.leg.br/ta/93/text"
+sha256_fonte: "e354ff48770df29ef69d8339c6bbbdefa6b8f785b174661b3ed9f2a5e402a0ad"
+sha256_texto: "967125df2c5f98950b8633aee6d90188999c22180aacdb84825801b77d446010"
+capturado_em_fonte: "2026-10-27T22:45:53.336486-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA-CMC nº 1.482, de 26 de outubro de 2022
+
+"Dispõe sobre a criação e implantação do Conselho Escolar nos estabelecimentos de Ensino Fundamental e de Educação infantil da Rede Municipal de Claraval/MG.”
+
+
+O Prefeito de Município de Claraval Luiz Gonzaga Cintra, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e eu sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DA CRIAÇÃO E IMPLANTAÇÃO DO CONSELHO ESCOLAR
+
+
+Art. 1º.
+
+Fica estabelecida a criação e implantação do Conselho Escolar nos estabelecimentos de Ensino Fundamental e de Educação Infantil da Rede Municipal de Ensino de Claraval/MG, órgão colegiado com funções deliberativas, consultivas, fiscais e mobilizadoras.
+
+
+§ 1º
+
+Fica determinada a atuação do Conselho Escolar ajustada às políticas educacionais e leis correlatas, bem como diretrizes advindas da Secretaria Municipal de Educação.
+
+
+§ 2º
+
+Como todo órgão colegiado, o Conselho Escolar toma decisões coletivas e só existe enquanto está reunido, sendo vedada autoridade especial a qualquer membro em atuação fora do colegiado.
+
+
+§ 3º
+
+O Conselho Escolar não tem finalidade e/ou vínculo político-partidário, religioso, racial, étnico ou de qualquer outra natureza, a não ser aquela que diz respeito diretamente à atividade educativa da escola, devidamente expressa em seu Projeto Político-pedagógico.
+
+
+#### CAPÍTULO II — DA SUA CONSTITUIÇÃO E REPRESENTATIVIDADE
+
+
+Art. 2º.
+
+O Conselho Escolar representará um espaço de discussão, negociação e encaminhamento de demandas educacionais, possibilitando a participação social da comunidade escolar e local.
+
+
+Parágrafo único
+
+Entende-se por:
+
+
+I –
+
+Comunidade Escolar: Diretor (a), docentes, educandos, pais e responsáveis, colaboradores;
+
+
+II –
+
+Comunidade Local: Representantes da sociedade civil organizada em que a unidade escolar está inserida;
+
+
+Art. 3º.
+
+O Conselho Escolar terá assegurada a paridade, número igual de representantes por segmento, e a proporcionalidade conforme duas categorias:
+
+
+I –
+
+50% (cinquenta por cento) para a categoria de profissionais da escola: professores, equipe pedagógica e colaboradores;
+
+
+II –
+
+50% (cinquenta por cento) para a categoria clientela atendida pela escola: Grêmio e/ou alunos, pais de alunos, APP e movimentos sociais organizados da comunidade local. Parágrafo único. Considerando os percentuais, fica estabelecido o número mínimo de 2 (dois) membros para a composição do Conselho Escolar para cada categoria, devendo preservar a paridade de representação com direito a voto, assim os alunos que vierem a compor o Conselho não irão refletir (ou contar) no percentual de participação.
+
+
+Art. 4º.
+
+A diretoria executiva do Conselho Escolar será constituída por Presidente, Vice-presidente e Secretário.
+
+
+Parágrafo único
+
+O diretor (a) da unidade escolar será membro nato do conselho, podendo ou não ocupar o cargo de Presidente do Conselho Escolar, a critério de cada Conselho.
+
+
+Art. 5º.
+
+Para cada Conselheiro de cada segmento será eleito um suplente, que o substituirá em suas ausências ou vacância do cargo.
+
+
+§ 1º
+
+Titulares e suplentes podem estar presentes em todas as reuniões, ter direito a voz, podendo os suplentes votar apenas se o membro efetivo não estiver presente.
+
+
+§ 2º
+
+O segmento dos estudantes deverá ser representado por alunos do 6º ao 9º ano, tendo direito somente a voz.
+
+
+§ 3º
+
+Nas Unidades Escolares de Educação Infantil e do 1º ao 5º ano, o Conselho Escolar não terá representantes dos estudantes.
+
+
+§ 4º
+
+É permitida a participação de membros da APP - Associação de Pais e Professores no Conselho Escolar, desde que eleitos por seus pares.
+
+
+§ 5º
+
+Não tendo no município APP - Associação de Pais e Professores e ou movimentos sociais organizados, a vaga destinada a esses membros serão supridas pelos pais de alunos da Rede Municipal de Ensino de Claraval/MG.
+
+
+#### CAPÍTULO III — DAS ATRIBUIÇÕES DO CONSELHO ESCOLAR
+
+
+Art. 6º.
+
+São atribuições do Conselho Escolar:
+
+
+I –
+
+elaborar o Regimento Interno do Conselho Escolar;
+
+
+II –
+
+coordenar o processo de discussão, elaboração ou alteração do Regimento Interno da unidade escolar;
+
+
+III –
+
+garantir a participação da comunidade escolar e local na elaboração ou reelaboração e aplicação do projeto político-pedagógico da unidade escolar;
+
+
+IV –
+
+construir e/ou rever a Visão, Missão e Filosofia da unidade escolar;
+
+
+V –
+
+analisar e aprovar o Plano de Ação Anual da Escola, com base no seu Projeto Político-pedagógico;
+
+
+VI –
+
+promover relações pedagógicas que favoreçam o respeito ao saber do estudante e valorize a cultura da comunidade local;
+
+
+VII –
+
+acompanhar e propor alterações curriculares na unidade escolar, respeitada a legislação vigente, a partir da análise, entre outros aspectos, do aproveitamento significativo o tempo e dos espaços pedagógicos na escola;
+
+
+VIII –
+
+propor e coordenar discussões junto aos segmentos e votar as alterações metodológicas, didáticas e administrativas na escola, respeitada a legislação vigente;
+
+
+IX –
+
+participar da elaboração do calendário escolar, no que competir à unidade escolar, observada a legislação vigente;
+
+
+X –
+
+acompanhar a evolução dos indicadores educacionais (abandono escolar, aprovação, aprendizagem, entre outros) propondo, quando se fizerem necessárias, intervenções pedagógicas e/ou medidas socioeducativas visando à melhoria da qualidade social da educação escolar;
+
+
+XI –
+
+elaborar o plano de formação continuada dos conselheiros escolares, visando ampliar a qualificação de sua atuação;
+
+
+XII –
+
+aprovar o plano administrativo anual, elaborado pela direção da escola, sobre a programação e a aplicação de recursos financeiros, propondo alterações, se for o caso;
+
+
+XIII –
+
+fiscalizar a gestão administrativa, pedagógica e financeira da unidade escolar;
+
+
+XIV –
+
+promover relações de cooperação e intercâmbio com outros Conselhos Escolares;
+
+
+XV –
+
+convocar assembleias gerais da comunidade escolar ou de seus segmentos.
+
+
+#### CAPÍTULO IV — DAS ELEIÇÕES E POSSE
+
+
+Art. 7º.
+
+As eleições dos membros do Conselho Escolar, titulares e suplentes, realizar-se-ão na unidade escolar, mediante convocação antecipada de pelo menos 10 (dez) dias, pelo Presidente do Conselho, conforme edital expedido pela secretaria da unidade escolar divulgado de forma ampla em local visível no ambiente interno da escola, na comunidade local e outras formas necessárias, para um mandato de 2 (dois) anos, admitindo-se uma única reeleição consecutiva.
+
+
+Art. 8º.
+
+Para a primeira eleição, a assembleia será convocada pelo diretor da unidade educacional e, para as eleições posteriores, pelo Presidente do Conselho Escolar.
+
+
+Art. 9º.
+
+A eleição dos representantes dos segmentos da comunidade escolar e comunidade local que integrarão o Conselho Escolar deverá ocorrer em assembleia por aclamação ou mediante votação direta e secreta e o seu resultado lavrado em ata.
+
+
+Art. 10.
+
+Quando houver chapa única o presidente deve apresentar os nomes dos candidatos que a compõem e após aclamação dos convencionais, deliberar o resultado.
+
+
+Art. 11.
+
+Quando houver mais de uma chapa inscrita, o sistema de votação dar-se-á pelo voto secreto, em cédula única, distribuída aos convencionais, que devem assinalar o voto em sigilo na cabine de votação, dobrar a cédula e depositá-la na urna instalada em local resguardado, assegurando o sigilo do voto.
+
+
+Art. 12.
+
+Cada membro do Conselho Escolar somente poderá representar um segmento da comunidade escolar. Os profissionais da unidade escolar terão direito a um único voto.
+
+
+Art. 13.
+
+No segmento dos pais e/ou responsáveis, o voto será um por família (pai ou mãe ou representante legal), independentemente do número de filhos matriculados na escola.
+
+
+Art. 14.
+
+No segmento dos alunos, os mesmos poderão ser orientados e assessorados pelos membros da equipe pedagógica.
+
+
+Art. 15.
+
+No caso de vacância do cargo de qualquer um dos Conselheiros e não havendo mais suplentes, serão convocadas novas eleições de representante do respectivo segmento, para complementação do mandato em vigor.
+
+
+Art. 16.
+
+Os membros do Conselho Escolar que se ausentarem 03 (três) reuniões consecutivas ou 05 (cinco) intercaladas serão destituídos, assumindo os respectivos suplentes.
+
+
+Art. 17.
+
+As ausências deverão ser justificadas, por escrito ou verbalmente, em reunião do Conselho e serão analisadas pelos Conselheiros, cabendo-lhes a decisão da aceitação ou não da justificativa apresentada.
+
+
+Art. 18.
+
+O Conselheiro representante do segmento dos pais, em caso de transferência do aluno, não poderá permanecer no Conselho até o final do período para o qual foi eleito, sendo substituído automaticamente pelo suplente.
+
+
+Art. 19.
+
+A posse dos representantes eleitos dar-se-á no instante seguinte à divulgação dos resultados.
+
+
+#### CAPÍTULO V — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 20.
+
+Por ser o Conselho Escolar um órgão sem fins lucrativos, não haverá nenhum tipo de remuneração aos membros.
+
+
+Art. 21.
+
+Essa Lei entra em vigor na data de sua publicação.
+
+
+Claraval, MG, 26 de outubro de 2022.
+
+Luiz Gonzaga Cintra
+
+Prefeito Municipal
+

@@ -1,0 +1,23 @@
+{
+  "commit": "b5c52e2e6ab1cfd7c6d4c9e8716b48abd18138d1",
+  "head": 30853,
+  "comparados": 32360,
+  "reservas": [
+    {
+      "recibo": "municipais/_indice/_recuperacao_20261027/agregado921-validado-final/entrega-final.json",
+      "sha256": "ca0edb15cf2054c845ad5413dc6677a377aa9ba76260b1f7afa5187d9e642ae0",
+      "normas": 921,
+      "ja_no_head": [],
+      "adicionadas": 921
+    },
+    {
+      "recibo": "municipais/_indice/_recuperacao_20261027/agregado586-validado-final/entrega-final.json",
+      "sha256": "a31301fc0545cb75c631b1b2fa6420aef41bb321e8fc55be83ff5254e59d7d82",
+      "normas": 586,
+      "ja_no_head": [],
+      "adicionadas": 586
+    }
+  ],
+  "candidatos": 47,
+  "colisoes": []
+}

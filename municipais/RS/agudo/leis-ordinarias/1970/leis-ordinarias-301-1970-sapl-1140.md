@@ -1,0 +1,76 @@
+---
+titulo: "Lei nº 301, de 06 de março de 1970"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "301"
+data: "1970-03-06"
+municipio: "Agudo"
+uf: "RS"
+codigo_ibge: "4300109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.agudo.rs.leg.br/norma/1140"
+fonte_texto: "https://sapl.agudo.rs.leg.br/ta/1863/text"
+sha256_fonte: "410c28aedf9212291e09f5e49da2e963aa6e33c48f5ea5081a7ef5e2d6fe93c8"
+sha256_texto: "734655210560a3912ba886a91c09bd1a52e16b09dcf874f07969509eacb9e7f2"
+capturado_em_fonte: "2026-10-27T22:06:56.780289-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 301, de 06 de março de 1970
+
+DISPÕE SOBRE A CRIAÇÃO DO CARGO DE SECRETÁRIO EXECUTIVO E DIRETOR DE EXPEDIENTE DA CÂMARA MUNICIPAL E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+PEDRO ÁLVARO MÜLLER, PREFEITO MUNICIPAL DE AGUDO, ESTADO DO RIO GRANDE DO SUL, FAÇO SABER, no uso das atribuições que ne confere o Inciso II do Artigo 50 da Lei Orgânica do Município, que a Câmara Municipal aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o cargo de Secretário Executivo e Diretor de Expediente da Câmara Municipal de Vereadores.
+
+
+Art. 2º.
+
+O cargo constante do artigo anterior será provido sob a forma de “Cargo em Comissão" ou "Função Gratificada", a critério do Presidente de Câmara Muncipal, quando o candidato escolhido fôr funcionário efetivo ou extranumerário estável do Município; será provido exclusivamente sob a forma de "Cargo em Comissão”, quando o candidato escoIhido não fôr funcionário efetivo nem extranumerário do Município.
+
+
+Art. 3º.
+
+Fica fixado em Ncr$ 100,00 (cem cruzeiros novos) mensais o vencimento do cargo criado pela presente Lei.
+
+
+Art. 4º.
+
+As despesas decorrentes com a criação do cargo criado pela presente Lei, no exercício de 1970, serão cobertas pela seguinte dotação orçamentária:  
+3.0.0.0 00 DESPESAS CORRENTES  
+3.1.0.0 Despesas de Custeio  
+3.1.1.0 Pessoal  
+3.1.1.0.02 Despesas variáveis  
+3.1.1.0.02.02 Gratificações diversas .....Ncr$ 840,00
+
+3.1.3.0 Serviços de terceiros .......Ncr$ 600,00
+
+
+Parágrafo único.
+
+O Orçamento para 1971 consignará verba para atender as despesas decorrentes desta Lei.
+
+
+Art. 5º.
+
+A presente Lei entrará em vigor na data de 1º de março de 1970, revogadas disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE AGUDO, em 06 de março de 1970.
+
+PEDRO ÁLVARO MÜLLER
+
+Prefeito Munícipal.  
+  
+ARI ALVES ANUNCIAÇÃO
+
+Secretário Municipal
+

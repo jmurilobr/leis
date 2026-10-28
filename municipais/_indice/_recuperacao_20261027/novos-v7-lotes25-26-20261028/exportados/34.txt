@@ -1,0 +1,84 @@
+---
+titulo: "Lei Municipal-PEX nº 24, de 25 de junho de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Municipal"
+numero: "24"
+data: "2024-06-25"
+municipio: "Fênix"
+uf: "PR"
+codigo_ibge: "4107702"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.fenix.pr.leg.br/norma/1470"
+fonte_texto: "https://sapl.fenix.pr.leg.br/ta/96/text"
+sha256_fonte: "7990297c7e11107d52c7e43f249c5935f7c826eab130ba4f0ccef2f563422558"
+sha256_texto: "94edaa548b5b5a7a15a18fb334a477509a14e36b50dfa571276da8bbc9d91f7f"
+capturado_em_fonte: "2026-10-28T10:32:47.171943-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Municipal-PEX nº 24, de 25 de junho de 2024
+
+Autoriza o Poder Executivo Municipal a celebrar termo de colaboração com a Associação de Pais e Amigos dos Excepcionais - APAE de Fênix e da outras providências.
+
+
+A CÂMARA MUNICIPAL DE FÊNIX, ESTADO DO PARANÁ, APROVOU E EU, PREFEITO MUNICIPAL SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a celebrar termo de colaboração ou similar com a Associação de Pais e Amigos dos Excepcionais - APAE de Fênix, inscrita no CNPJ sob o nº 02.234.808/0001-69, no valor de R$ 25.000,00 (vinte e cinco mil reais), com a finalidade de gastos na modalidade de Custeio (incremento temporário), oriundos da PROGRAMAÇÃO SIGTV 410770220240001, Emenda Parlamentar ano 2024, nº 202428740007, do Programa Estruturação da Rede de Serviços do SUAS EMENDAS INDIVIDUAIS 2024, objetivando apoiar a entidade no atendimento às crianças portadoras de necessidades especiais do Município.
+
+
+Parágrafo único
+
+Ao repasse de que trata esta Lei, aplica-se o disposto na Lei Federal nº 13.019, de 31 de julho de 2014, especialmente no que dispõe o artigo 31, inciso II, para efeito de inexigibilidade de chamamento público.
+
+
+Art. 2º.
+
+O termo de Colaboração e seu Plano de Trabalho devem seguir as disposições do Marco Regulatório das Organizações da Sociedade Civil – MROSC, prevista na Lei Federal nº 13.019/2014.
+
+
+Art. 3º.
+
+A vigência do termo de colaboração ou similar em razão desta Lei será estabelecida pelo respectivo instrumento, condicionada ao cumprimento dos objetivos e, podendo ser prorrogados sucessivamente por até 48 meses, mediante ajuste entre as partes e/ou mediante novo termo, sem necessidade de nova autorização legislativa, observando o previsto na Lei Federal nº 13.019/2014.
+
+
+Art. 4º.
+
+A ausência de prestação de contas no prazo e forma estabelecidos pelo órgão concedente ou a prática de irregularidades na aplicação dos recursos, sujeita a entidade beneficiária ao ressarcimento corrigido dos valores transferidos aos cofres do tesouro municipal.
+
+
+Art. 5º.
+
+O controle e a fiscalização da execução do presente Termo de Colaboração ou similar ficarão sob responsabilidade do Fundo Municipal de Assistência Social, inscrito no CNPJ sob o nº 14.810.798/0001-41 e seus respectivos conselhos/comitês.
+
+
+Art. 6º.
+
+Fica o Termo de Cooperação ou similar incluso na Lei de Diretrizes Orçamentárias (LDO) e no Plano Plurianual de Investimentos (PPA).
+
+
+Art. 7º.
+
+As despesas decorrentes da execução da presente Lei correrão à conta das dotações próprias do orçamento vigente, suplementadas se necessário.
+
+
+Parágrafo único
+
+No caso de prorrogação do prazo de vigência ou formalização de novo termo de colaboração ou similar, as dotações serão consignadas nos orçamentos vindouros.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Fênix/PR, 25 de junho de 2024.
+
+ALTAIR MOLINA SERRANO  
+Prefeito Municipal
+

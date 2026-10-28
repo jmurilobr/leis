@@ -1,0 +1,62 @@
+---
+titulo: "Decreto-SEMPOG nº 18.096, de 12 de maio de 2022"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "18.096"
+data: "2022-05-12"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/17958"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/9534/text"
+sha256_fonte: "084d2c0ecab0ef7bd108a53e376381cf12a022fa59c7e72d890f1ffd07225df8"
+sha256_texto: "9763602a0aab4cc7da4c3b9c27a6859bb5086ff6976284258b893a0bcfb01eb8"
+capturado_em_fonte: "2026-10-21T06:42:51.136319-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 18.096, de 12 de maio de 2022
+
+Abre no Orçamento Anual do Município de Porto Velho Crédito Adicional Suplementar, e dá outras providências.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, amparado pelo Art. 6º da Lei n. º 2.903, de 20 de dezembro de 2021;
+
+Considerando o Ofício n.º 34/GAB/ADPVH/2022, de 22 de abril de 2022, pelo qual a Agência de Desenvolvimento de Porto Velho - ADPVH solicita suplementação para cobertura orçamentária e financeira;
+
+Considerando o Ofício n.° 072/DEC/SUFIN/SEMFAZ, de 09 de março de 2022, no qual a Secretaria Municipal de Fazenda – SEMFAZ informa os recursos apurados no Balanço Patrimonial do exercício de 2021, referente ao Superávit Financeiro.
+
+D E C R E T A:
+
+**Art. 1º** – Fica aberto no Orçamento do Município de Porto Velho, Crédito Adicional Suplementar no valor de R$ 711.839,70 (setecentos e onze mil, oitocentos e trinta e nove reais e setenta centavos).
+
+**Art. 2º** – Os recursos necessários à execução do disposto no artigo anterior são decorrentes de Superávit Financeiro apurado no Balanço Patrimonial do Município no exercício de 2021, observado os preceitos do Inciso I, Parágrafo 1º do Art. 43, da Lei n.º 4.320, de 17 de março de 1964, consignados no orçamento, conforme detalhado na sequência:
+
+<table><tbody><tr><td colspan="6"><p><strong>02.00 - SECRETARIA GERAL DE GOVERNO - SGG</strong></p></td></tr><tr><td colspan="6"><p><strong>02.51 - AGÊNCIA DE DESENVOLVIMENTO DE PORTO VELHO - ADPVH</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>SUPLEMENTA</strong></p><p><strong>R$</strong></p></td></tr><tr><td rowspan="3"><p>02.51.04.122.007.2.360</p></td><td rowspan="3"><p>Remuneração do Pessoal Ativo e Encargos Sociais</p></td><td rowspan="3"><p>FIS</p></td><td><p>3.1.90.11</p></td><td rowspan="3"><p>2500</p></td><td><p>276.000,00</p></td></tr><tr><td><p>3.1.90.13</p></td><td><p>97.858,32</p></td></tr><tr><td><p>3.1.90.94</p></td><td><p>50.000,00</p></td></tr><tr><td rowspan="3"><p>02.51.04.122.007.2.001</p></td><td rowspan="3"><p>Administração da Unidade</p></td><td rowspan="3"><p>FIS</p></td><td><p>3.3.90.47</p></td><td rowspan="3"><p>2500</p></td><td><p>5.000,00</p></td></tr><tr><td><p>3.3.90.30</p></td><td><p>6.000,00</p></td></tr><tr><td><p>3.3.90.39</p></td><td><p>62.000,00</p></td></tr><tr><td rowspan="2"><p>02.51.23.692.007.2.090</p></td><td rowspan="2"><p>Fomento à inovação e ao desconto e ao desenvolvimento socioeconômico local</p></td><td rowspan="2"><p>FIS</p></td><td><p>3.3.90.35</p></td><td rowspan="2"><p>2500</p></td><td><p>94.981,38</p></td></tr><tr><td><p>3.3.90.30</p></td><td><p>120.000,00</p></td></tr><tr><td colspan="5"><p><strong>SUB TOTAL</strong></p></td><td><p><strong>711.839,70</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>711.839,70</strong></p></td></tr></tbody></table>
+
+**Art. 3º** – Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 17.852, de 20 de dezembro de 2021 e o Detalhamento da Despesa, estabelecido pelo Decreto n.º 17.853, de 20 de dezembro de 2021.
+
+**Art. 4º** – Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** – Revogam-se as disposições em contrário.
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto do Município
+

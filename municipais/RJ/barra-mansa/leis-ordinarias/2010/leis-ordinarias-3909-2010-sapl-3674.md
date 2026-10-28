@@ -1,0 +1,153 @@
+---
+titulo: "Lei Ordinária nº 3.909, de 09 de setembro de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3909"
+data: "2010-09-09"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/3674"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/1665/text"
+sha256_fonte: "e65d03a15f29401f2a106fc2b781456904efc2a100b295709697040ef3118354"
+sha256_texto: "06abf14441c2fa42791a1e39a675e3332b49903080aa1c5710496c261b2db408"
+capturado_em_fonte: "2026-10-27T18:05:26.297798-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 3.909, de 09 de setembro de 2010
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI Nº3909, DE 09 DE SETEMBRO DE 2010.
+
+
+Institui o Programa Interdisciplinar de Participação Comunitária para Prevenção e Combate à Violência nas Escolas da Rede Pública de Ensino e dá outras providências.
+
+
+Art. 1º.
+
+Fica instituído o Programa Interdisciplinar de Participação Comunitária para Prevenção e Combate a Violência nas Escolas Municipais de Barra Mansa.
+
+
+Art. 2º.
+
+São objetivos do Programa:
+
+
+I –
+
+Formar grupos de trabalho para atuar na prevenção da violência nas escolas;
+
+
+II –
+
+Desenvolver ações educativas e de valorização da vida dirigida às crianças, aos adolescentes e a comunidade;
+
+
+III –
+
+Сараcitar a escola para constituir-se em núcleo e centro promotor da paz e da cultura da paz;
+
+
+IV –
+
+Implementar ações voltadas ao combate à violência na escola, com vistas a garantir o exercício pleno da cidadania e o reconhecimento dos direitos humanos;
+
+
+V –
+
+Desenvolver ações que fortaleçam o vínculo entre a comunidade e a escola;
+
+
+Parágrafo único
+
+Os grupos de trabalho, tratados no Inciso I deste artigo, serão formados dentre representantes e Técnicos da Secretaria Municipal de Educação, Professores, Funcionários Administrativos das Unidades de Ensino, Representantes dos Alunos, Especialistas da Área de Educação, Pais e Representantes da Comunidade ligada a cada Escola.
+
+
+Art. 3º.
+
+O programa de que trata esta Lei será coordenado por um núcleo central ligado à Secretaria Municipal de Educação, que definirá as diretrizes do trabalho, organizará a estrutura para o desenvolvimento do programa com a participação de:
+
+
+I –
+
+TÉCNICOS DAS SECRETARIAS MUNICIPAIS:
+
+
+a)
+
+de Educação
+
+
+b)
+
+de Saúde
+
+
+c)
+
+de Promoção Social
+
+
+d)
+
+da Fundação de Cultura, Esporte e Lazer.
+
+
+II –
+
+REPRESENTANTES DOS SEGUINTES
+
+
+a)
+
+Conselho Municipal de Educação;
+
+
+b)
+
+Conselho Municipal de Saúde;
+
+
+c)
+
+Promotoria da Infância e da Juventude;
+
+
+d)
+
+Associação de Moradores e
+
+
+e)
+
+Conselho Tutelar.
+
+
+Art. 4º.
+
+O Município poderá estabelecer parcerias com Órgãos Governamentais ou não para o desenvolvimento do programa.
+
+
+Art. 5º.
+
+As despesas decorrentes da aplicação desta Lei correrão por conta das dotações orçamentárias de cada órgão envolvido no programa.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação, concedendo-se ao Poder Executivo o prazo de 60 (sessenta) dias para a sua regulamentação.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 09 DE SETEMBRO DE 2010
+
+
+JOSÉ RENATO BRUNO CARVALHO  
+PREFEITO
+

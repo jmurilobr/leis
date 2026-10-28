@@ -1,0 +1,58 @@
+---
+titulo: "Decreto-SEMPOG nº 18.363, de 12 de agosto de 2022"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "18.363"
+data: "2022-08-12"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/20454"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/10070/text"
+sha256_fonte: "029820eed9e62773d4d28ea30b40fe1b03e75ad6ba4f925202d1cec4cd1a7068"
+sha256_texto: "755e344b1fed2d447ee7b039783e323e5a535827408d4fac02a617c3f2abb602"
+capturado_em_fonte: "2026-10-21T06:19:01.594412-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 18.363, de 12 de agosto de 2022
+
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Transposição de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei n.º 2.903, de 20 de dezembro de 2021, a fim de proceder às adequações orçamentárias no exercício 2022.
+
+D E C R E T A:
+
+**Art. 1º** – Fica alterado o Orçamento Anual do Município de Porto Velho por meio de transposição de recursos orçamentários no valor de R$ 115.000,00 (cento e quinze mil reais).
+
+**Art. 2º** - A transposição decorre da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas dentro da mesma unidade orçamentária, conforme disposto no inciso XVI do Artigo 6º da Lei n.º 2.902, de 20 de dezembro de 2021 – Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><tbody><tr><td colspan="7"><p><strong>17.00 - SECRETARIA MUNICIPAL DE INDÚSTRIA, COMÉRCIO,TRABALHO E TURISMO - SEMDESTUR</strong></p></td></tr><tr><td colspan="7"><p><strong>17.01 - SECRETARIA MUNICIPAL DE INDÚSTRIA, COMÉRCIO,TRABALHO E TURISMO - SEMDESTUR</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>TRANSPÕE R$</strong></p></td><td><p><strong>REALOCA</strong></p><p><strong>R$</strong></p></td></tr><tr><td><p>17.01.11.334.348.2.111</p></td><td><p>Capacitação de mão-de-obra para o</p><p>mercado de trabalho</p></td><td><p>FIS</p></td><td><p>3.3.90.39</p></td><td><p>1.500</p></td><td><p>40.000,00</p></td><td><p>-</p></td></tr><tr><td rowspan="3"><p>17.01.11.334.348.2.131</p></td><td rowspan="3"><p>Promoção e divulgação das atividades</p><p>realizadas pelo SINE</p></td><td rowspan="3"><p>FIS</p></td><td><p>3.3.90.30</p></td><td><p>1.500</p></td><td><p>10.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.3.90.32</p></td><td><p>1.500</p></td><td><p>10.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.3.90.39</p></td><td><p>1.500</p></td><td><p>5.000,00</p></td><td><p>-</p></td></tr><tr><td><p>17.01.23.691.349.2.857</p></td><td><p>Apoio às ações do Desenvolvimento Sócio</p><p>Econômico Sustentável</p></td><td><p>FIS</p></td><td><p>3.3.90.36</p></td><td><p>1.500</p></td><td><p>15.000,00</p></td><td><p>-</p></td></tr><tr><td rowspan="2"><p>17.01.04.695.351.1.021</p></td><td rowspan="2"><p>Construção e ampliação dos pontos</p><p>turísticos do município</p></td><td rowspan="2"><p>FIS</p></td><td><p>4.4.90.51</p></td><td><p>1.500</p></td><td><p>25.000,00</p></td><td><p>-</p></td></tr><tr><td><p>4.4.90.52</p></td><td><p>1.500</p></td><td><p>10.000,00</p></td><td><p>-</p></td></tr><tr><td rowspan="2"><p>17.01.04.695.351.2.855</p></td><td rowspan="2"><p>Apoio as Ações do Turismo</p></td><td rowspan="2"><p>FIS</p></td><td><p>3.3.90.30</p></td><td><p>1.500</p></td><td><p>-</p></td><td><p>25.000,00</p></td></tr><tr><td><p>3.3.90.39</p></td><td><p>1.500</p></td><td><p>-</p></td><td><p>10.000,00</p></td></tr><tr><td><p>17.01.04.122.007.2.001</p></td><td><p>Administração da Unidade</p></td><td><p>FIS</p></td><td><p>3.3.90.39</p></td><td><p>1.500</p></td><td><p>-</p></td><td><p>80.000,00</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>115.000,00</strong></p></td><td><p><strong>115.000,00</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>115.000,00</strong></p></td><td><p><strong>115.000,00</strong></p></td></tr></tbody></table>
+
+**Art. 3º** – Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 17.852, de 20 de dezembro de 2021 e o Detalhamento da Despesa, estabelecido pelo Decreto n.º 17.853, de 20 de dezembro de 2021.
+
+**Art. 4º** – Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** – Revogam-se as disposições em contrário.
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto do Município
+

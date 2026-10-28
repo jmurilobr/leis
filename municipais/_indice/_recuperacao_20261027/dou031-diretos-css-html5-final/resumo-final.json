@@ -1,0 +1,18 @@
+{
+  "contagens": {
+    "paths": 1152,
+    "diretos": 1152,
+    "documentos_com_tabelas": 445,
+    "tabelas": 901,
+    "achados_escopo_css_hidden_tachado_tabelas": 0,
+    "diagnosticos_texto_bruto_fora_escopo": 51
+  },
+  "fontes": [
+    {
+      "auditoria": "municipais/_indice/_recuperacao_20261027/dou031-diretos-css-html5",
+      "resumo_sha256": "d4efcd1ea53e1835cbadacef436bd3d48a41d0c566cd903c95c41c091007badb"
+    }
+  ],
+  "criterio": "Auditoria privada suplementar somente leitura offline de CSS/hidden/tachados e matrizes HTML5 por tabela/linha/célula/texto/colspan/rowspan, incluindo papel td/th.",
+  "limite": "Não é nova aprovação geral de fidelidade textual. CSS externo/herdado não fornecido não é certificado. Tachado não implica revogação de todo o ato. Nenhuma promoção ou alteração de mapas/canônicos."
+}

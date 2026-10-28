@@ -1,0 +1,381 @@
+---
+titulo: "Lei Ordinária nº 1.920, de 29 de dezembro de 2000"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1920"
+data: "2000-12-29"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2164"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/2106/text"
+sha256_fonte: "fa403c35f81c1f3c6db21537dc3db8a936959f6b1c8ed9ea98f3146ae1c7a82b"
+sha256_texto: "af7b0d3406cd0176ff63b24fb2ea953936264a79246141e6c1e71ad33a2e2fa4"
+capturado_em_fonte: "2026-10-27T21:49:30.570853-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.920, de 29 de dezembro de 2000
+
+CRIA O SISTEMA MUNICIPAL DE ENSINO E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O PREFEITO DO MUNICÍPIO DO CABO SANTO AGOSTINHO, FAÇO SABER QUE O PODER LEGISLATIVO DECRETOU E EU SANCIONO A SEGUINTE LEI:
+
+
+### TÍTULO I — DA EDUCAÇÃO
+
+
+Art. 1º.
+
+A educação abrange os processos formativos que se desenvolvem na vida familiar, na convivência humana no trabalho, nas instituições de ensino e pesquisa, nos movimentos sociais e organizações da sociedade civil e nas manifestações culturais.
+
+
+Parágrafo único
+
+Esta lei disciplina a educação escolar que se desenvolve predominantemente por meio do ensino, em instituições de ensino e pesquisa, nos movimentos sociais e organizações da sociedade civil e nas manifestações culturais.
+
+
+### TÍTULO II — DOS PRINCÍPIOS E FINS DA EDUCAÇÃO
+
+
+Art. 2º.
+
+A educação, direito de todos e dever do Estado e da família, será promovida e incentivada com a colaboração da sociedade, visando ao pleno desenvolvimento da pessoa, seu preparo para o exercício da cidadania e sua qualificação para o trabalho.
+
+
+Art. 3º.
+
+O ensino será ministrado com base nos seguintes princípios:
+
+
+I –
+
+igualdade de condições para o acesso e permanência na escola;
+
+
+II –
+
+liberdade de aprender, ensinar, pesquisar e divulgar a cultura, o pensamento, a arte e o saber;
+
+
+III –
+
+pluralismo de ideias e de concepções pedagógicas;
+
+
+IV –
+
+gratuidade do ensino público em estabelecimentos oficiais;
+
+
+V –
+
+valorização dos profissionais do ensino, garantido, na forma da lei, plano de carreira para o magistério público e ingresso exclusivamente por concurso público de provas e títulos;
+
+
+VI –
+
+coexistência de instituições públicas e privadas de ensino;
+
+
+VII –
+
+gestão democrática do ensino público, na forma desta lei;
+
+
+VIII –
+
+garantia de padrão de qualidade;
+
+
+IX –
+
+respeito à liberdade e apreço à tolerância.
+
+
+### TÍTULO III — DO DIREITO À EDUCAÇÃO E DO DEVER DE EDUCAR
+
+
+Art. 4º.
+
+O dever do Município com a educação escolar pública será efetivado mediante a garantia de:
+
+
+I –
+
+ensino fundamental, obrigatório e gratuito, inclusive para o que a ele não tiveram acesso na idade própria;
+
+
+II –
+
+atendimento educacional especializado gratuito aos educandos com necessidades especiais, preferencialmente na rede regular de ensino;
+
+
+III –
+
+atendimento gratuito em creches e pré-escolar às crianças de zero a seis anos de idade;
+
+
+IV –
+
+
+XV - acesso aos níveis, mais elevados de ensino, da pesquisa e da criação artística, segundo a capacidade de cada um;
+
+
+V –
+
+oferta de ensino noturno regular, adequado as condições do educando;
+
+
+VI –
+
+oferta de educação escolar regular para jovens e adultos, com características e modalidades adequadas às suas necessidade e disponibilidades, garantindo-se aos que forem trabalhadores as condições de acesso e permanência na escola;
+
+
+VII –
+
+atendimento ao educando no ensino fundamental público, por meio de programas suplementares de material didático-escolar, transporte, alimentado e assistência à saúde;
+
+
+VIII –
+
+padrões mínimos de qualidade de ensino, definidos como a variedade e a quantidade mínima, por aluno, de insumos indispensáveis ao desenvolvimento do processo de ensino-aprendizagem;
+
+
+IX –
+
+oferta de educação infantil e do ensino fundamental para a população rural, assegurando conteúdos curriculares, metodologias, organização escolar e calendário apropriados às reais necessidades e interesses dos alunos.
+
+
+### TÍTULO IV — DA ORGANIZAÇÃO E DAS ATRIBUIÇÕES DO SISTEMA MUNICIPAL DE ENSINO
+
+
+Art. 5º.
+
+O Sistema Municipal de Ensino compreende:
+
+
+I –
+
+as instituições do ensino fundamental, médio e de educação infantil mantidas pelo Poder Público Municipal;
+
+
+II –
+
+as instituições de educação infantil criadas e mantidas pela iniciativa privada;
+
+
+III –
+
+a Secretaria Municipal de Educação ou o órgão da administração municipal que por ventura venha a substituí-la;
+
+
+IV –
+
+Conselho Municipal de Educação.
+
+
+Art. 6º.
+
+A Secretaria Municipal de Educação incumbir-se-á de:
+
+
+I –
+
+elaborar e executar políticas e planos educacionais a luz da legislação vigente, garantindo à população educação de qualidade, em todos os níveis e modalidades oferecidos pelo município;
+
+
+II –
+
+integrar os planos, programas e ações de âmbito municipal aos planos estadual e nacional de educação;
+
+
+III –
+
+exercer ação redistributiva em relação às suas escolas, considerando seus projetos pedagógicos;
+
+
+IV –
+
+assegurar, à luz do regime de colaboração, a educação infantil em creches e pré-escolas, e, com prioridade, o ensino fundamental, permitida a atuação em outros níveis de ensino somente quando estiverem atendidas plenamente as necessidades de sua área de competência e com recursos acima dos percentuais mínimos vinculados pela Constituição Federal à manutenção e desenvolvimento do ensino;
+
+
+V –
+
+organizar e realizar em parceria com outras instituições e com a sociedade civil, a Conferência Municipal de Educação, velando pelo cumprimento das suas decisões.
+
+
+Art. 7º.
+
+Os estabelecimentos de ensino, respeitadas as normas comuns, incumbir-se-ão de:
+
+
+I –
+
+elaborar e executar seu projeto pedagógico;
+
+
+II –
+
+administrar seu pessoal e seus recursos materiais e financeiros;
+
+
+III –
+
+assegurar o cumprimento dos dias letivos e da jornada escolar;
+
+
+IV –
+
+zelar pelo cumprimento do plano de trabalho de cada docente e demais profissionais da educação;
+
+
+V –
+
+prover meios para a recuperação dos alunos de menor rendimento;
+
+
+VI –
+
+articular-se às famílias e à comunidade, criando processos de integração da sociedade com a escola;
+
+
+VII –
+
+informar os pais e responsáveis sobre a frequência e o rendimento dos alunos bem como sobre a execução de seu projeto pedagógico.
+
+
+Art. 8º.
+
+O Conselho Municipal Educação é órgão normativo, deliberativo e consultivo do Sistema Municipal de Ensino, previsto no artigo 118 da Lei Orgânica do Município do Cabo de Santo Agostinho/1990 (LOM), será organizado de maneira a assegurar sua composição paritária e democrática garantindo o princípio da autonomia em relação ao Executivo e às entidades mantenedoras das instituições privadas de ensino com atribuições e composição definidas em lei própria.
+
+
+Parágrafo único
+
+Os conselheiros do Conselho Municipal de Educação farão jus a uma remuneração, sendo seu valor e forma de pagamento fixado pelo Prefeito e regulamentado em Lei própria.
+
+
+### TÍTULO V — DA GESTÃO DEMOCRÁTICA DA EDUCAÇÃO BÁSICA
+
+
+Art. 9º.
+
+A gestão democrática do ensino público, prevista no artigo 206, VI da Constituição Federal/1988, no artigo 14 da Lei 9394/96 e no artigo 117, IV da Lei Orgânica do Município/1990, norteará as ações de planejamento, formulação, implementação e avaliação de políticas e planos de educação do Município, garantindo a participação das entidades que atuam no campo educacional e órgãos que integram o Sistema Municipal de Ensino.
+
+
+Art. 10.
+
+O Sistema Municipal de Ensino, além de outros mecanismos previstos em Lei ou instituídos pelo poder executivo, contará com os seguintes instrumentos de integração da escola com a sociedade:
+
+
+I –
+
+a Conferência Municipal de Educação, instância coletada de formulação das diretrizes de política educacional e de avaliação de sua implementação, sendo realizada periodicamente com ampla participação das entidades representativas da sociedade, dos poderes executivo e legislativo, e de todos os integrantes da comunidade escolar;
+
+
+II –
+
+o Conselho escolar, instituído em cada estabelecimento de ensino com a participação de representantes de todos os setores da respectiva comunidade escolar e, desde que aprovados pela maioria de dois terços (2/3) de seus membros, integrados por outros órgãos ou entidades que atuam no campo educacional.
+
+
+**Parágrafo único.** O Conselho Escolar, no caso das instituições uni docentes, poderá ser constituído por representantes de vários estabelecimentos de ensino.
+
+
+III –
+
+Conselho Municipal de Educação nos termos da lei;
+
+
+IV –
+
+Eleição dos dirigentes das instituições de ensino mantidas pelo município, que será precedida de um processo seletivo que confira competências para o exercício da gestão colegiada, no âmbito da autonomia da escola e das diretrizes que orientam as ações do Sistema de Ensino e regulamentada mediante decreto do Poder Executivo.
+
+
+V –
+
+Núcleo de avaliação e registro informações relativas à vida escolar em todos os seus aspectos, de forma a garantir a devida transparência e subsidiar decisões adequadas às reais necessidades da população do Município.
+
+
+### TÍTULO VI — DOS PROFISSIONAIS DA EDUCAÇÃO
+
+
+Art. 11.
+
+São membros do magistério público municipal os que exercem atividades de docência e os que oferecem suporte pedagógico direto a tais atividades, incluídas as de direção ou administração escolar, planejamento, inspeção, supervisão e orientação educacional.
+
+
+Art. 12.
+
+A formação do docente para atuar na educação básica exige, como qualificação mínima:
+
+
+I –
+
+ensino médio completo na modalidade normal, para a docência na educado infantil e nos anos iniciais do ensino fundamental;
+
+
+II –
+
+curso de licenciatura, de graduação plena, com habilitações específicas, em área própria para docência nos anos finais do ensino fundamental e no ensino médio.
+
+
+Art. 13.
+
+A formação dos profissionais de educação para administração, planejamento, inspeção, supervisão e orientação educacional para educação básica, será feita em cursos de graduação ou em nível de pós-graduação.
+
+
+Parágrafo único
+
+A experiência docente mínima, pré-requisito para o exercício profissional de quaisquer funções de magistério, que não a de docência será do 02 (dois) anos.
+
+
+Art. 14.
+
+O sistema de ensino do Município do Cabo de Santo Agostinho no que se refere à valorização dos profissionais da educação, promoverá:
+
+
+I –
+
+ingresso exclusivamente por concurso público de provas e títulos;
+
+
+II –
+
+aperfeiçoamento profissional continuado, inclusive com licenciamento periódico remunerado para esse fim;
+
+
+III –
+
+remuneração condigna e justa;
+
+
+IV –
+
+progressão funcional baseada na titulação ou habilitação e na avaliação do desempenho;
+
+
+V –
+
+período reservado a estudos, planejamento e avaliação, incluído na carga horária de trabalho;
+
+
+VI –
+
+condições adequadas de trabalho.
+
+
+Art. 15.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Palácio Conde da Boa Vista, 29 de dezembro de 2000.
+
+**ANTÔNIO GOMES DE MEDEIROS**  
+Vice-Prefeito em exercício
+

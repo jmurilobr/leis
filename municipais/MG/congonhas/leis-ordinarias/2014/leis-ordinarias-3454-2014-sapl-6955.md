@@ -1,0 +1,89 @@
+---
+titulo: "Lei-CMC nº 3.454, de 02 de dezembro de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3454"
+data: "2014-12-02"
+municipio: "Congonhas"
+uf: "MG"
+codigo_ibge: "3118007"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.congonhas.mg.leg.br/norma/6955"
+fonte_texto: "https://sapl.congonhas.mg.leg.br/ta/4811/text"
+sha256_fonte: "15d79754f94da6e4c6dd3bafa96bb283316740704200180bfa28b0a907cffeba"
+sha256_texto: "e197803786d88598dc7042af3004b17286a1d09186f9f90a17b3029c277d5348"
+capturado_em_fonte: "2026-10-28T03:41:13.054370-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei-CMC nº 3.454, de 02 de dezembro de 2014
+
+ALTERA A LEI MUNICIPAL Nº 3.325, DE 09 DE DEZEMBRO DE 2013, QUE DISPÕE SOBRE O PLANO PLURIANUAL PARA O PERÍODO DE 2014 A 2017 E AUTORIZA A ABERTURA DE CRÉDITO ESPECIAL NO ORÇAMENTO PARA O EXERCÍCIO FINANCEIRO DE 2014.
+
+
+A Câmara Municipal de Congonhas, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono e promulgo a seguinte lei:
+
+
+Art. 1º.
+
+Fica autorizada a inclusão da Ação 0065 – Apoio Consórcio Intermunicipal no Plano Plurianual para o período de 2014/2017, a qual será vinculada ao programa 0042 – Iluminação Pública.
+
+
+Art. 2º.
+
+Fica o Poder Executivo autorizado a abrir crédito especial no valor de R$ 5.000,00 (cinco mil reais) para fazer face à execução da ação de que trata o art. 1º desta Lei, de acordo com a seguinte classificação:
+
+
+Órgão: 17– Secretaria Municipal de Gestão Urbana
+
+Unidade: 04 – Diretoria de Concessões Públicas
+
+Função: 25 – Energia
+
+Subfunção: 752 – Energia Elétrica
+
+Programa: 0042 – Iluminação Pública
+
+Ação: 0065 – Apoio Consórcio Intermunicipal
+
+Natureza da Despesa:
+
+33.71.70.00.00 – Contribuições ..................................................................................R$ 5.000,00
+
+
+Art. 3º.
+
+Conforme previsto no art. 43 da Lei Federal nº 4.320/1964, como recursos para a abertura do referido crédito especial fica autorizada a utilização da anulação de dotações da seguinte dotação:
+
+
+Órgão: 17– Secretaria Municipal de Gestão Urbana
+
+Unidade: 04 – Diretoria de Concessões Públicas
+
+Função: 25 – Energia
+
+Subfunção: 752 – Energia Elétrica
+
+Programa: 0042 - Iluminação Pública
+
+Ação: 2.210 – Serviços de Iluminação Pública na Zona Urbana
+
+Natureza da Despesa:
+
+3.390.39.00.00 – Outros Serviços de Pessoa Jurídica .................................................R$ 5.000,00
+
+
+Art. 4º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Congonhas, 2 de dezembro de 2014.
+
+**JOSÉ DE FREITAS CORDEIRO**
+
+**Prefeito de Congonhas**
+

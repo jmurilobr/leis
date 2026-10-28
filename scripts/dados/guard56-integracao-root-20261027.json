@@ -1,0 +1,12 @@
+{
+  "testes_integrados": 56,
+  "registro_pendencias_alterado": false,
+  "criterio": "Adiciona triagem de marcadores editoriais explícitos e desenhos próprios de medalhas/insígnias/uniformes ausentes da representação. Exceções só para definição explícita do rótulo ilegível e regulamento futuro vinculado à remissão; aprovação atual explícita prevalece. Preserva35 testes anteriores,56 totais. Troca realizada somente após terminar cliente024 com guard35 e antes de iniciar próximo cliente,para não misturar módulo carregado/arquivo em disco. Nada mascara ou reclassifica automaticamente o baseline; sinal exige revisão documental. Preimagens de código preservadas,metas intactas.",
+  "sha256": {
+    "federal/_historico_guard_20261027/test_integridade_anexos_decreto.py.gz": "4a935b762bba4c7b1b155c05879f097a91477c2dd9222f9b5f948929fe154e5f",
+    "federal/_historico_guard_20261027/integridade_anexos_decreto.py.gz": "186422abf2ab485aecb489dd0be5b372210eabf162d04ceed517d8cdab350780",
+    "scripts/integridade_anexos_decreto.py": "ec4428ce7d97f00f709d526f74cd2ba2c3ab01e78b3529fb8c3783483cf3a5fe",
+    "scripts/test_integridade_anexos_decreto.py": "6c1e4b101661130c2f8fdc5935da210b165d9f4861fbf5da973ca4a6573a8289",
+    "scripts/dados/guard56-testes-integrados-root-20261027.txt": "c7c665a4bc8d5afd89495d09245eac1b5c02fd825c89739acf21148cbe481c99"
+  }
+}

@@ -1,0 +1,119 @@
+---
+titulo: "04 - Lei Ordinária nº 19, de 04 de dezembro de 1967"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "19"
+data: "1967-12-04"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/529"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/512/text"
+sha256_fonte: "8bd0426e0881011e0c39291355fa1e00b6857c963e70a5a8f5d84110a5fcecfb"
+sha256_texto: "7fd4138a0cb07000ff1e3894536454dcfff364a539007fc61f5df29ffd869387"
+capturado_em_fonte: "2026-10-28T09:35:23.845385-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 19, de 04 de dezembro de 1967
+
+Cria o Fundo Municipal de Saneamento e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou e, Eu Prefeito Municipal sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Fica constituído um Fundo, de natureza contábil, denominado Fundo Municipal de Saneamento - F.M.S.
+
+
+Art. 2º.
+
+O F.M.S será destinado para a realização de estudos, projetos, construção, reforço e ampliação dos serviços de abastecimento de água potável e sistema de esgotos sanitários do Município de Corbélia, através de entidades instituída especialmente para atingir os objetivos previstos neste artigo.
+
+
+Art. 3º.
+
+Os recursos do F.M.S, exceto os bens patrimoniais, poderão ser aplicadas como garantia e (ou) na amortização de empréstimos de qualquer natureza, contraídas para a realização dos fins mencionados no artigo 2º desta lei, inclusive na integralização do capital da sociedade de economia mista municipal.
+
+
+Art. 4º.
+
+O F.M.S. será construído de:
+
+
+I –
+
+Bens patrimoniais por doação e por imobilização de recursos;
+
+
+II –
+
+Outros recursos
+
+
+a)
+
+5% (cinco por cento) no mínimo da quota de impostos sobre produtos industrializados e sobre renda e proventos.
+
+
+b)
+
+5% (cinco por cento) no mínimo de receita de impostos;
+
+
+c)
+
+dotações do orçamento municipal e créditos adicionais destinados a obras de serviços de água e esgotos sanitários municipais;
+
+
+d)
+
+juros de recursos do Fundo depositados em estabelecimentos bancários;
+
+
+e)
+
+recursos nas reembolsáveis provenientes da união, do Estado e de outras fontes, destinados a obras e serviços de água e esgotos sanitários municipais.
+
+
+f)
+
+contribuição de melhoria para obras de abastecimento de água potável e de sistemas de esgotos sanitários prevista na lei nº 20/67 de 04/12/67.
+
+
+Parágrafo único
+
+O poder executivo fica autorizado a fixar nas propostas orçamentárias, o limite máximo de porcentagem mencionada nas alíneas a e b, a fim de atender às necessidades de amortização de empréstimo previsto no art. 3º.
+
+
+Art. 5º.
+
+Os recursos do F.M.S. serão recolhidos a um estabelecimento de crédito idôneo, preferencialmente ao Banco do Estado do Paraná S.A, em conta especial denominada Fundo Municipal de Saneamentos - F.M.S. à conta da entidade prevista no art.2º na forma da lei que a instituir.
+
+
+Art. 6º.
+
+Esta lei entrará em vigor na data de sua publicação, revogada as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE CORBÉLIA
+
+Em 04 de dezembro de 1967.
+
+JOÃO FRANCISCO MATTEI
+
+Prefeito Municipal
+
+Não substitui o texto publicado no Diário Oficial.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/529/ta
+

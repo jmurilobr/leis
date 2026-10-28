@@ -1,0 +1,383 @@
+{
+  "estado": "Privado para revisão/promoção exclusiva ROOT; nenhum canônico, Git ou registro alterado.",
+  "HEAD_preimagem": "26d1c07fe5dbd582e8e5615a04356f7ae92be838",
+  "path_canonico": "federal/decretos/1945/dec-18351-1945-04-11.md",
+  "preimagem": {
+    "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/preimagem_HEAD18351.md",
+    "sha256": "824478dedd2f5029b7bc5cf5d06afbf35ab509639e9b9de874862cab82a0feef",
+    "bytes": 26948
+  },
+  "candidato": {
+    "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_002/dec-18351-1945-04-11-clbr-integral.md",
+    "sha256": "5bda4405badffde35f70a703bb214e3f229beec3423d965c5253801476c77144",
+    "bytes": 5282
+  },
+  "urn": "urn:lex:br:federal:decreto:1945-04-11;18351",
+  "identidade_API": {
+    "sha256_raw": "f3fd0478b2c24ee1dac7eacd2688faf8a36c83b6f8f47b7432682d777abcc80a",
+    "data": "1945-04-11",
+    "encoding_original_CLBR": [
+      {
+        "datePublished": "1945-12-31",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "contentUrl": "https://normas.leg.br/api/binario/2d87b2ee-4cca-4561-87ad-805604027ad8/texto",
+        "@type": "LegislationObject",
+        "name": "Publicação Original [Decreto nº 18.351 de 11/04/1945]  [Coleção de Leis do Brasil  de 31/12/1945 - vol.  004] (p. 132, col. 1)",
+        "legislationLegalValue": "UnofficialLegalValue",
+        "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+        "publisher": {
+          "@type": "GovernmentOrganization",
+          "@id": "https://www.congressonacional.leg.br/"
+        },
+        "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1945-04-11;18351@1945-04-11~texto;pt$text-html",
+        "version": "Original"
+      }
+    ]
+  },
+  "fonte_PDF_anual": {
+    "path": "federal/_fonte/auditorias/clbr_1945_recuperacao_20261027_001/1945-decretos.pdf",
+    "sha256": "29553bac45833de9cdcefbe5eda0c8f0c57b55b6d3bf4f9739346d3475c39c6f",
+    "bytes": 99373006
+  },
+  "recibo_captura": {
+    "path": "federal/_fonte/auditorias/clbr_1945_recuperacao_20261027_001/recibo1945.json",
+    "sha256": "5592e0ace59e57e3e30f2d937d2b2c223ac21ace13c7237fa9f0ffe89faa72db",
+    "bytes": 2385
+  },
+  "baixado_em_local": "2026-10-27",
+  "preparado_em_local": "2026-10-28T09:25:07.215285-03:00",
+  "ativos_em_ordem_impressa": [
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render300/dec18351-p132-proprio.png",
+      "sha256": "4df0d47c28b7402f10c3d18c6110071a2629396aa18fa59283a30a00f56b6010",
+      "bytes": 738971,
+      "destino": "federal/anexos/decretos/1945/dec-18351-1945-04-11-clbr-p132.png",
+      "pagina_impressa": 132,
+      "pagina_PDF": 1082,
+      "largura": 1776,
+      "altura": 1811,
+      "dpi": 300,
+      "rotulo": "Corpo e tabelas do ato",
+      "recorte": {
+        "x": 0,
+        "y": 670,
+        "W": 1776,
+        "H": 1811,
+        "criterio": "Exclui somente a parte final do decreto anterior acima da epígrafe própria."
+      }
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render300/dec18351-1083.png",
+      "sha256": "54d839ce70c3a03e0f82d769bed406815e36931d5d009b220b0a412b7dc92005",
+      "bytes": 1178048,
+      "destino": "federal/anexos/decretos/1945/dec-18351-1945-04-11-clbr-p133.png",
+      "pagina_impressa": 133,
+      "pagina_PDF": 1083,
+      "largura": 1776,
+      "altura": 2481,
+      "dpi": 300,
+      "rotulo": "Corpo e tabelas do ato",
+      "recorte": null
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render300/dec18351-1089.png",
+      "sha256": "3ac4c0f1dc490f70faa2012abf331c36624a96f915bfe9db5620cb0c5793e391",
+      "bytes": 1348611,
+      "destino": "federal/anexos/decretos/1945/dec-18351-1945-04-11-clbr-p134.png",
+      "pagina_impressa": 134,
+      "pagina_PDF": 1089,
+      "largura": 1776,
+      "altura": 2481,
+      "dpi": 300,
+      "rotulo": "Corpo e tabelas do ato",
+      "recorte": null
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render300/dec18351-1090.png",
+      "sha256": "b2cff17b65229e144cd22c7db58cfdd897d738216813484a4c00bd073c6559e0",
+      "bytes": 1219240,
+      "destino": "federal/anexos/decretos/1945/dec-18351-1945-04-11-clbr-p135.png",
+      "pagina_impressa": 135,
+      "pagina_PDF": 1090,
+      "largura": 1776,
+      "altura": 2481,
+      "dpi": 300,
+      "rotulo": "Corpo e tabelas do ato",
+      "recorte": null
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render300/dec18351-1091.png",
+      "sha256": "f76805979dd0bf483ad1b9d8666563cd8e20a932cddf40e4f78cc1c58b0d8379",
+      "bytes": 1139913,
+      "destino": "federal/anexos/decretos/1945/dec-18351-1945-04-11-clbr-p136.png",
+      "pagina_impressa": 136,
+      "pagina_PDF": 1091,
+      "largura": 1776,
+      "altura": 2481,
+      "dpi": 300,
+      "rotulo": "Corpo e tabelas do ato",
+      "recorte": null
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render300/dec18351-1092.png",
+      "sha256": "d6b1f41b09f7b6c550e521b2aee6f5a4861648e803ae575f5165f1ea5f537c99",
+      "bytes": 762626,
+      "destino": "federal/anexos/decretos/1945/dec-18351-1945-04-11-clbr-p137.png",
+      "pagina_impressa": 137,
+      "pagina_PDF": 1092,
+      "largura": 1776,
+      "altura": 2481,
+      "dpi": 300,
+      "rotulo": "Corpo e tabelas do ato",
+      "recorte": null
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render300/dec18351-1093.png",
+      "sha256": "9762d0302ee0ffc0d59c578d60531cb8b860da8b74b6309eba8d7f76bb8c54d3",
+      "bytes": 833323,
+      "destino": "federal/anexos/decretos/1945/dec-18351-1945-04-11-clbr-p138.png",
+      "pagina_impressa": 138,
+      "pagina_PDF": 1093,
+      "largura": 1776,
+      "altura": 2481,
+      "dpi": 300,
+      "rotulo": "Corpo e tabelas do ato",
+      "recorte": null
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render300/dec18351-1084.png",
+      "sha256": "f51b4d8527097b92265e101a4490b98ac4d05d01d4f287c750c1ef01083d66a8",
+      "bytes": 871339,
+      "destino": "federal/anexos/decretos/1945/dec-18351-1945-04-11-clbr-p139.png",
+      "pagina_impressa": 139,
+      "pagina_PDF": 1084,
+      "largura": 1776,
+      "altura": 2481,
+      "dpi": 300,
+      "rotulo": "Figura 1: blusão, frente",
+      "recorte": null
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render300/dec18351-1085.png",
+      "sha256": "30efac761e5d1f858baf9f961eb1e6737558f8b1dd8c51ef7fd6103ba3f6c3b3",
+      "bytes": 914747,
+      "destino": "federal/anexos/decretos/1945/dec-18351-1945-04-11-clbr-p140.png",
+      "pagina_impressa": 140,
+      "pagina_PDF": 1085,
+      "largura": 1776,
+      "altura": 2481,
+      "dpi": 300,
+      "rotulo": "Figura 1a: blusão com equipamento",
+      "recorte": null
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render300/dec18351-1086.png",
+      "sha256": "d1f443fef080761797db2ab620ea5e956804473b0e631bd428877cd84c16c01d",
+      "bytes": 872473,
+      "destino": "federal/anexos/decretos/1945/dec-18351-1945-04-11-clbr-p141.png",
+      "pagina_impressa": 141,
+      "pagina_PDF": 1086,
+      "largura": 1776,
+      "altura": 2481,
+      "dpi": 300,
+      "rotulo": "Figura 1b: blusão, costas",
+      "recorte": null
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render300/dec18351-1087.png",
+      "sha256": "740161903e5675270e4e63798dfa8e00a162e4a4877d2ae5fdd3e28af15f0872",
+      "bytes": 788618,
+      "destino": "federal/anexos/decretos/1945/dec-18351-1945-04-11-clbr-p142.png",
+      "pagina_impressa": 142,
+      "pagina_PDF": 1087,
+      "largura": 1776,
+      "altura": 2481,
+      "dpi": 300,
+      "rotulo": "Figura 2: calça",
+      "recorte": null
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render300/dec18351-1088.png",
+      "sha256": "c1545c15e45e08b1bc4b35fe01734756ed9217d496f51f87bb0321a8bc323b00",
+      "bytes": 1010457,
+      "destino": "federal/anexos/decretos/1945/dec-18351-1945-04-11-clbr-p143.png",
+      "pagina_impressa": 143,
+      "pagina_PDF": 1088,
+      "largura": 1776,
+      "altura": 2481,
+      "dpi": 300,
+      "rotulo": "Figura 3: capa, gola abaixada",
+      "recorte": null
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render300/dec18351-1100.png",
+      "sha256": "9b6e6f0c305c11a16060c1da84031047a9c999edac2e7b3077df4e15fb262216",
+      "bytes": 972873,
+      "destino": "federal/anexos/decretos/1945/dec-18351-1945-04-11-clbr-p144.png",
+      "pagina_impressa": 144,
+      "pagina_PDF": 1100,
+      "largura": 1776,
+      "altura": 2481,
+      "dpi": 300,
+      "rotulo": "Figura 3a: capa, gola levantada",
+      "recorte": null
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render300/dec18351-1101.png",
+      "sha256": "5ad7a6f855cc103c5f9d94ed4e8d5181564cc1ad6a9cb1681efa22cbfb728805",
+      "bytes": 915336,
+      "destino": "federal/anexos/decretos/1945/dec-18351-1945-04-11-clbr-p145.png",
+      "pagina_impressa": 145,
+      "pagina_PDF": 1101,
+      "largura": 1776,
+      "altura": 2481,
+      "dpi": 300,
+      "rotulo": "Figura 3b: capa, costas",
+      "recorte": null
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render300/dec18351-1102.png",
+      "sha256": "c8a5ff31afbf6be5a84ac7666b0085bc459299911466c45f50d306bf994dc4d7",
+      "bytes": 359036,
+      "destino": "federal/anexos/decretos/1945/dec-18351-1945-04-11-clbr-p146.png",
+      "pagina_impressa": 146,
+      "pagina_PDF": 1102,
+      "largura": 1776,
+      "altura": 2481,
+      "dpi": 300,
+      "rotulo": "Figura 4: distintivo Brasil",
+      "recorte": null
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render300/dec18351-1103.png",
+      "sha256": "14f6647d7f4dcb02c061e8485c4c3b1731cd25ba3c96fc632367f7eff006c68b",
+      "bytes": 1650118,
+      "destino": "federal/anexos/decretos/1945/dec-18351-1945-04-11-clbr-p147.png",
+      "pagina_impressa": 147,
+      "pagina_PDF": 1103,
+      "largura": 1776,
+      "altura": 2481,
+      "dpi": 300,
+      "rotulo": "Figura 5: gorro, aba levantada",
+      "recorte": null
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render300/dec18351-1094.png",
+      "sha256": "ed2ba944ef9809e75f8f91c7dca632c321fcad4fc1d4ee91337207163b1d420c",
+      "bytes": 1910636,
+      "destino": "federal/anexos/decretos/1945/dec-18351-1945-04-11-clbr-p148.png",
+      "pagina_impressa": 148,
+      "pagina_PDF": 1094,
+      "largura": 1776,
+      "altura": 2481,
+      "dpi": 300,
+      "rotulo": "Figura 5a: gorro, aba abaixada",
+      "recorte": null
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render300/dec18351-1095.png",
+      "sha256": "106198b869e370a90d740dac0f4ab47a2c007b49ca240e03aea8d62ebf9bbb0c",
+      "bytes": 897739,
+      "destino": "federal/anexos/decretos/1945/dec-18351-1945-04-11-clbr-p149.png",
+      "pagina_impressa": 149,
+      "pagina_PDF": 1095,
+      "largura": 1776,
+      "altura": 2481,
+      "dpi": 300,
+      "rotulo": "Figura 6: macacão",
+      "recorte": null
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render300/dec18351-1096.png",
+      "sha256": "cb7daabe8be5f410efdf941aea4a31f2e74ae6f7d3bb9849ccb8358dd6c1223f",
+      "bytes": 1594052,
+      "destino": "federal/anexos/decretos/1945/dec-18351-1945-04-11-clbr-p150.png",
+      "pagina_impressa": 150,
+      "pagina_PDF": 1096,
+      "largura": 1776,
+      "altura": 2481,
+      "dpi": 300,
+      "rotulo": "Figura 7: mala, parte interna",
+      "recorte": null
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render300/dec18351-1097.png",
+      "sha256": "4b534a06b6602c2d54a2d7f03dabdf3338fb77e754415494b14b139ecb6fcac6",
+      "bytes": 1568354,
+      "destino": "federal/anexos/decretos/1945/dec-18351-1945-04-11-clbr-p151.png",
+      "pagina_impressa": 151,
+      "pagina_PDF": 1097,
+      "largura": 1776,
+      "altura": 2481,
+      "dpi": 300,
+      "rotulo": "Figura 7a: mala, duas bolsas",
+      "recorte": null
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render300/dec18351-1098.png",
+      "sha256": "7bf4bcadc2fc539086869c769a50c164ed34a3e8e78e4b40a61c53588047434d",
+      "bytes": 1871191,
+      "destino": "federal/anexos/decretos/1945/dec-18351-1945-04-11-clbr-p152.png",
+      "pagina_impressa": 152,
+      "pagina_PDF": 1098,
+      "largura": 1776,
+      "altura": 2481,
+      "dpi": 300,
+      "rotulo": "Figura 7b: mala, bolsa e cartão",
+      "recorte": null
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render300/dec18351-1099.png",
+      "sha256": "c26288679257090ba4f7e92d6a6ad1f8060d540aef87e1ff036cd0b6da45174d",
+      "bytes": 1968416,
+      "destino": "federal/anexos/decretos/1945/dec-18351-1945-04-11-clbr-p153.png",
+      "pagina_impressa": 153,
+      "pagina_PDF": 1099,
+      "largura": 1776,
+      "altura": 2481,
+      "dpi": 300,
+      "rotulo": "Figura 8: mosquiteiro",
+      "recorte": null
+    }
+  ],
+  "historia_normas": {
+    "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/preimagens_normas18351.json.gz",
+    "sha256": "31f17deba5067423c924f082fdf3e60647b9ceb4c0393378cdb2570dc587bbe4",
+    "bytes": 19063
+  },
+  "provas_bibliograficas_e_limites": [
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render/capa_IV.png",
+      "sha256": "2e4737480d8bb0dd723ae885d378b00acfe794c4f9fd8198b5d60df0138ff39d",
+      "bytes": 15143
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render/indice_18351_pXIV.png",
+      "sha256": "eecc9c131a7e3f51b58ae27e8937918c8aee9d1403746c1174358663755e4e37",
+      "bytes": 88004
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render/final18351-1104.png",
+      "sha256": "31a50da68d9a63de6e64c4c47cc6eba2bfe496429071dcc1e97496e5ead1cdda",
+      "bytes": 50758
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/render/ato18351-1082.png",
+      "sha256": "19296c3f87ff2c63ff95e995077032018aa55f24a567d610bf967ab02aaed3f4",
+      "bytes": 57903
+    }
+  ],
+  "nota_editorial": "Edição CLBR de 1945, seção volume IV, páginas 132–153, em fac-símile integral: decreto, plano, tabelas 1 e 2 e quinze folhas com figuras 1–8 e variantes. As páginas estão apresentadas na ordem impressa; a ordem digital do PDF é diferente em parte das folhas, conforme mapa preservado. O artigo 1º impresso inclui suboficiais, palavra ausente no principal da transcrição anterior do Normas. Para preservar uma edição coerente, não se mesclaram o corpo anterior e figuras da CLBR. A versão anterior foi arquivada integralmente, sem emenda. O índice da CLBR identifica 18.351, de 11/04/1945, página 132, e informa publicação no Diário Oficial de 26/04/1945. O PDF anual foi capturado em 27/10/2026 no fuso America/Recife; a preparação desta reprodução ocorreu em 28/10. Não se infere vigência pela reprodução.",
+  "conferencia_visual": "Inspeção individual das páginas em renders de 110 dpi, incluindo sete páginas de texto/tabelas e quinze folhas ilustradas; recorte próprio da primeira página também visto em 300 dpi. Arquivos normativos são renders diretos em 300 dpi, sem edição, reconstrução ou melhora de pixels. Página 154 já inicia o decreto 18.352 e foi excluída do corpo.",
+  "limites": "Fac-símile, não transcrição textual pesquisável. Figuras fotográficas têm contraste limitado na digitalização original; não foram recriadas. ROOT ainda revisará os arquivos finais. Não certifica vigência nem ausência de outras versões.",
+  "candidato_anterior_preservado": {
+    "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/dec-18351-1945-04-11-clbr-integral.md",
+    "sha256": "4d4f83aa89224e4cd658d5efbc4d164db51e64777efc1931e384161e0013d6cc",
+    "bytes": 5356
+  },
+  "correcao_rotulo_sucessora": {
+    "anterior": "Página 152 — Figura 7b: mala, bolsa e cartão",
+    "atual": "Página 152",
+    "limites": "Apenas título editorial e texto alternativo; não se transcreve ou altera a legenda impressa. Imagens e corpo normativo preservados."
+  }
+}

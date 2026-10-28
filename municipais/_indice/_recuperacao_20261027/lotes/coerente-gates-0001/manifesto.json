@@ -1,0 +1,37 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 4: admite somente tabelas nativas com prova independente de células, ordem e mesclagens. Mantém todos os demais gates. Também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 500,
+  "aprovados_nestes_gates": 360,
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0001/sapl.agudo.rs.leg.br.prefixo.jsonl",
+      "sha256": "03955e795901677c008fb73e5efb05cb859aeb655efedf62f7b5f50d017890c7",
+      "bytes": 539204
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0001/sapl.agudo.rs.leg.br.tipos.json",
+      "url": "https://sapl.agudo.rs.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "b057e0780b8e70fb396b5b733022f17c7a2a434f848534ea30a256ec8653882d"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0001/sapl.agudo.rs.leg.br.anexos.json",
+      "sha256": "4ef83806e8c3deef29519c5d58015d13371c30cab6774cee4cb16998ded67505"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0001/sapl.portovelho.ro.leg.br.prefixo.jsonl",
+      "sha256": "48fdd88ec0186f2b7fdbc100715cc70a7fae1c3ed0716549b6f29b745f4a51c6",
+      "bytes": 1114910
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0001/sapl.portovelho.ro.leg.br.tipos.json",
+      "url": "https://sapl.portovelho.ro.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "d805dad9f0a5409f538b93c34b0e6ac8cef59bbbfcf7f2584f6ff348d7119eda"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0001/sapl.portovelho.ro.leg.br.anexos.json",
+      "sha256": "73e6ae82595ab1f99b7a2e1c9c7ba5e3a3d3cf54e6fb302915d5d3bec271ef9f"
+    }
+  ],
+  "script_sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

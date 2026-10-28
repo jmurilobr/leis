@@ -1,0 +1,147 @@
+---
+titulo: "Lei Ordinária Municipal nº 2.003, de 21 de março de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "2003"
+data: "2023-03-21"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/661"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/45/text"
+sha256_fonte: "f617fc89ae3057d1ccacab712d375673133cbb58ff533359a81f6f195e3d083b"
+sha256_texto: "cbece65deb0a1542a93d40342e9ef5dd1ed19fb0abf2e7a772fec1bdc599a004"
+capturado_em_fonte: "2026-10-27T22:22:03.274294-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 2.003, de 21 de março de 2023
+
+DISPÕE SOBRE A LIMPEZA EM TERRENOS PARTICULARES E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+**A CÂMARA MUNICIPAL DE CALIFÓRNIA, ESTADO DO PARANÁ, APROVOU E EU, PREFEITO, SANCIONO A SEGUINTE**
+
+**LEI:**
+
+
+Art. 1º.
+
+É obrigação legal do proprietário ou possuidor a qualquer título, de imóvel localizado na zona urbana do Município, o dever de conservá-lo e mantê-lo em perfeito estado de limpeza, providenciando a eliminação das águas estagnadas e de quaisquer outros dejetos prejudiciais à saúde e à segurança da coletividade.
+
+
+Art. 2º.
+
+Consideram-se limpos os imóveis que:
+
+
+I –
+
+Estiverem capinados, roçados, de forma que o mato esteja abaixo de 30 cm.
+
+
+II –
+
+Não contenham detritos, entulhos e lixo de qualquer natureza;
+
+
+III –
+
+Não apresentem água estagnada e esgoto a céu aberto.
+
+
+Art. 3º.
+
+Fica proibido o uso de fogo como forma de eliminação da vegetação, assim como, para a queima de lixo, entulho e detritos que estejam no imóvel, sob pena de multa de 2 (dois) UFM (Unidade Fiscal do Município).
+
+
+Art. 4º.
+
+Constatado o não cumprimento das obrigações previstas no art.1º, será o proprietário ou possuidor do imóvel, notificado por escrito, dando conhecimento das medidas a serem realizadas, tendo este o prazo de 10 (dez) dias corridos, a contar da data de recebimento da notificação ou da sua publicação em edital, para realizar os serviços.
+
+
+Art. 5º.
+
+Findo o prazo de notificação, sem a resolução apontada na notificação, será emitida autuação com multa de 3 (três) UFM.
+
+
+Art. 6º.
+
+Não cumprida a obrigação, além da penalidade estabelecida no artigo anterior, poderá a Prefeitura, a seu critério, executar os serviços necessários, cobrando 5% (cinco por cento) de 1 (um) UFM, por metro quadrado.
+
+
+Art. 7º.
+
+Pela execução aos serviços efetuados pela Prefeitura o proprietário será notificado para pagamento do valor apurado, no prazo máximo de 15 (quinze) dias.
+
+
+§ 1º
+
+A notificação prevista no caput deste artigo será sempre acompanhada de demonstrativo do débito e fotos dos serviços realizados, devendo ser fotografado o terreno antes da execução dos serviços e após a execução dos mesmos, segundo o tipo de serviço.
+
+
+§ 2º
+
+Não sendo o débito pago, o valor será lançado no boleto do IPTU do próximo ano.
+
+
+Art. 8º.
+
+s notificações e autuações previstas nos artigos 4º e 5º desta Lei, serão tornadas públicas por edital, no caso do proprietário ou possuidor do imóvel, a qualquer título, se recusar ou não for encontrado para o recebimento das mesmas.
+
+
+Art. 9º.
+
+Os débitos provenientes das autuações e das notificações não pagas nos prazos previstos, serão inscritos em dívida ativa, processada e cobrada administrativa e judicialmente, na forma que dispuser a legislação pertinente, acrescidos de juros de mora e correção monetária.
+
+
+Art. 10.
+
+Em caso de reincidência, será aplicada a multa prevista no art. 5º, sem necessidade de nova notificação ou prazo.
+
+
+I –
+
+A reincidência fica configurada quando:
+
+
+a)
+
+a fiscalização da prefeitura constatar a não execução da limpeza;
+
+
+b)
+
+houver denúncia formulada e assinada por qualquer cidadão, comprovada pela fiscalização municipal.
+
+
+Art. 11.
+
+Fica ainda estabelecida a multa de 20% (vinte por cento) de 1 (um) UFM, por metro cúbico de lixo e/ou entulhos a quem em ato flagrante, lançá-los em terrenos baldios, próprios ou de terceiros, e que será aplicado pela Secretaria de Fazenda.
+
+
+Art. 12.
+
+Qualquer munícipe poderá reclamar por escrito, através de requerimento endereçado ao Poder Executivo, por e-mail oficial da prefeitura ou por telefone via whatsapp disponibilizado pelo Executivo, a existência de terrenos baldios que necessitem de limpeza. Em todos os meios disponibilizados o cidadão deverá se identificar.
+
+
+Art. 13.
+
+Fica o Poder Executivo autorizado a expedir, por Decreto, a regulamentação necessária à execução desta Lei.
+
+
+Art. 14.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário, em especial a Lei Nº 1843/2021 de 24/fevereiro/2021.
+
+
+Edifício da Prefeitura de Califórnia aos 21 de março de 2023.
+
+***PAULO WILSON MENDES***
+
+Prefeito
+

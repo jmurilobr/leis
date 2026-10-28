@@ -1,0 +1,50 @@
+---
+titulo: "PORTARIA Nº 337, de 22 DE MAIO DE 2018"
+orgao: "Ministério das Cidades/Secretaria Executiva/Subsecretaria de Planejamento, Orçamento e Administração"
+tipo: "Portaria"
+numero: "337"
+data: 2018-05-22
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 24/05/2018, seção 1, p. 79"
+data_publicacao: 2018-05-24
+edicao: "99"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-337-de-22-de-maio-de-2018-15715447"
+sha256_html_fonte: 5b8c83731ddd8e5bda32cfcbdb891ac4e353697532950d293c4231bb102c8111
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 337, de 22 DE MAIO DE 2018
+
+PORTARIA Nº 337, de 22 DE MAIO DE 2018
+
+Disciplina o processo de monitoramento do Plano Plurianual - PPA 2016-2019, define as unidades responsáveis pela produção das informações sobre os Objetivos e respectivos atributos constantes do PPA 2016-2019, e indica os servidores responsáveis pelo preenchimento do Sistema Integrado de Planejamento e Orçamento - SIOP.
+
+A SUBSECRETÁRIA DE PLANEJAMENTO, ORÇAMENTO E ADMINISTRAÇÃO, no uso de suas atribuições legais e tendo em vista o disposto na Lei nº 13.249 de 13 de janeiro de 2016, regulamentada pelo Decreto nº 8.759, de 10 de maio de 2016, resolve:
+
+**Art. 1º** Disciplinar o processo de monitoramento do PPA 2016-2019, definir as unidades responsáveis pela produção das informações sobre os Objetivos e respectivos atributos constantes do PPA 2016-2019 e indicar os servidores responsáveis pelo preenchimento do Sistema Integrado de Planejamento e Orçamento - SIOP.
+
+**Art. 2º** O Monitoramento do PPA 2016-2019 é atividade estruturada a partir da implementação de cada Programa e orientada para o alcance das metas prioritárias da administração pública federal; possibilitando, ainda, a produção, a organização e a interpretação de informações, ampliando os conhecimentos sobre a implementação das políticas públicas.
+
+**Art. 3º** O monitoramento incidirá sobre os Indicadores, Objetivos, Metas e Iniciativas dos Programas Temáticos.
+
+**Art. 4º** Compete à Coordenação Geral de Planejamento - CGPLAN:
+
+I - organizar, disciplinar e difundir a sistemática do Monitoramento PPA 2016-2019 do órgão;
+
+II - coordenar o preenchimento e o envio dos dados no módulo do Monitoramento PPA 2016-2019 do Sistema Integrado de Planejamento e Orçamento - SIOP;
+
+**Art. 5º** Compete às unidades responsáveis pela produção das informações sobre os Objetivos e respectivos atributos constantes do PPA 2016-2019:
+
+I - informar os gestores responsáveis pela prestação das informações no Sistema Integrado de Planejamento e Orçamento - SIOP;
+
+II - prestar informações sobre os Objetivos, Metas e Iniciativas; inclusive nos casos em que tais atributos sejam executados por mais de um órgão ou entidade do Poder Executivo;
+
+III - as Unidades Administrativas deverão informar à Coordenação Geral de Planejamento - CGPLAN a alteração, inclusão ou exclusão de perfis dos usuários no SIOP sempre que se fizer necessário.
+
+**Parágrafo único.** As unidades responsáveis pela produção das informações e os responsáveis pelo preenchimento no sistema SIOP estão indicadas no Anexo Único desta Portaria.
+
+**Art. 6º** Esta Portaria entra em vigor na data de sua publicação.
+
+FLÁVIA MARIA IZAIAS SANT'ANNA LIMA
+
+<table><tr></tr><tr><td><p>ANEXO ÚNICO - UNIDADES ADMINISTRATIVAS RESPONSÁVEIS PELOS OBJETIVOS DO PPA 2016-2019 E SERVIDORES RESPONSÁVEIS PELO PREENCHIMENTO DO MONITORAMENTO NO SIOP</p></td></tr><tr><td><p>PROGRAMA 2040 - GESTÃO DE RISCOS E RESPOSTA A DESASTRES</p></td></tr><tr><td><p>OBJETIVO</p></td><td><p>UNIDADE ADMINISTRATIVA</p></td><td><p>SERVIDOR</p></td></tr><tr><td><p>0169</p></td><td><p>Apoiar a redução do risco de desastres naturais em municípios críticos a partir de planejamento e de execução de obras.</p></td><td><p>Secretaria Nacional de Saneamento Ambiental - SNSA</p></td><td><p>Rogério Borges Marques</p></td></tr><tr><td></td><td></td><td></td><td><p>Lucas Veras Salgado</p></td></tr><tr><td><p>PROGRAMA 2048 - MOBILIDADE URBANA E TRÂNSITO</p></td></tr><tr><td><p>OBJETIVO</p></td><td><p>UNIDADE ADMINISTRATIVA</p></td><td><p>SERVIDOR</p></td></tr><tr><td><p>0574</p></td><td><p>Apoiar a implantação, expansão e requalificação dos sistemas de mobilidade urbana com soluções acessíveis, sustentáveis e compatíveis com as características locais e regionais, priorizando os modos de transporte público coletivo e os não motorizados e promovendo a integração modal, física e tarifária.</p></td><td><p>Secretaria Nacional de Mobilidade Urbana - SEMOB</p></td><td><p>Lúcia Gonçalves Pedrozo</p></td></tr><tr><td></td><td></td><td></td><td><p></p><p>Leonardo Sanches de Andrade</p></td></tr><tr><td><p>0584</p></td><td><p>Implementar a Política Nacional de Mobilidade Urbana promovendo o fortalecimento institucional do setor e o planejamento integrado ao desenvolvimento urbano e territorial.</p></td><td><p>Secretaria Nacional de Mobilidade Urbana - SEMOB</p></td><td><p>Lúcia Gonçalves Pedrozo</p></td></tr><tr><td></td><td></td><td></td><td><p></p><p>Leonardo Sanches de Andrade</p></td></tr><tr><td><p>0591</p></td><td><p>Promover a Segurança e a Educação para o trânsito, por meio da implementação da Política Nacional de Trânsito - PNT.</p></td><td><p>Departamento Nacional de Trânsito - DENATRAN</p></td><td><p>Marcela Tetzner Laiz</p></td></tr><tr><td></td><td></td><td></td><td><p>Bruna Cardoso dos Santos</p></td></tr><tr><td><p>PROGRAMA 2049 - MORADIA DIGNA</p></td></tr><tr><td><p>OBJETIVO</p></td><td><p>UNIDADE ADMINISTRATIVA</p></td><td><p>SERVIDOR</p></td></tr><tr><td><p>0382</p></td><td><p>Melhorar as condições de vida e de habitabilidade das famílias de baixa renda que vivem em assentamentos precários</p></td><td><p>Secretaria Nacional de Habitação - SNH</p></td><td><p>Cássia Aparecida Viana</p></td></tr><tr><td></td><td></td><td></td><td><p>Paulo César Guedes</p></td></tr><tr><td><p>0383</p></td><td><p>Ampliar o acesso à habitação, de forma subsidiada ou facilitada, priorizando o atendimento à população de baixa renda, por intermédio do Programa Minha Casa, Minha Vida</p></td><td><p>Secretaria Nacional de Habitação - SNH</p></td><td><p>Cássia Aparecida Viana</p></td></tr><tr><td></td><td></td><td></td><td><p>Paulo César Guedes</p></td></tr><tr><td><p>0384</p></td><td><p>Incentivar a construção, aquisição, ampliação e melhorias habitacionais, por meio de medidas de facilitação do acesso ao financiamento imobiliário, estimulando a oferta de crédito pelos agentes financeiros.</p></td><td><p>Secretaria Nacional de Habitação - SNH</p></td><td><p>Cássia Aparecida Viana</p></td></tr><tr><td></td><td></td><td></td><td><p>Paulo César Guedes</p></td></tr><tr><td><p>0385</p></td><td><p>Fortalecer a capacidade técnica e institucional dos atores envolvidos na implementação da política habitacional de interesse social para elevar a qualidade da inserção urbana e sustentabilidade dos empreendimentos e contribuir para inclusão socioeconômica das famílias beneficiadas.</p></td><td><p>Secretaria Nacional de Habitação - SNH</p></td><td><p>Cássia Aparecida Viana</p></td></tr><tr><td></td><td></td><td></td><td><p>Paulo César Guedes</p></td></tr><tr><td><p>0755</p></td><td><p>Elevar os patamares da qualidade da construção civil, por meio da criação e implementação de mecanismos de modernização tecnológica e gerencial, incluindo conceitos e metas de sustentabilidade, contribuindo para ampliar o acesso à moradia digna para a população de menor renda.</p></td><td><p>Secretaria Nacional de Habitação - SNH</p></td><td><p>Cássia Aparecida Viana</p></td></tr><tr><td></td><td></td><td></td><td><p>Paulo César Guedes</p></td></tr><tr><td><p>PROGRAMA 2054 - PLANEJAMENTO URBANO</p></td></tr><tr><td><p>OBJETIVO</p></td><td><p>UNIDADE ADMINISTRATIVA</p></td><td><p>SERVIDOR</p></td></tr><tr><td><p>0321</p></td><td><p>Fomentar transformações urbanísticas estruturais e urbanização acessível orientadas pelas funções sociais da cidade e da propriedade</p></td><td><p>Secretaria Nacional de Desenvolvimento Urbano - SNDU</p></td><td><p></p><p>Cristiana Scorza Guimaraens</p></td></tr><tr><td></td><td></td><td></td><td><p></p><p>Pedro Henrique Lopes Batista</p></td></tr><tr><td><p>0322</p></td><td><p>Fomentar a implementação de instrumentos democráticos e participativos de planejamento e de gestão urbana sustentável como forma de promover a reforma urbana, a acessibilidade e a redução das desigualdades sociais.</p></td><td><p>Secretaria Nacional de Desenvolvimento Urbano - SNDU</p></td><td><p></p><p>Denise Schuler</p></td></tr><tr><td></td><td></td><td></td><td><p></p><p>Alice de Almeida Vasconcellos de Carvalho</p></td></tr><tr><td><p>0324</p></td><td><p>Promover a regularização fundiária urbana como forma de ampliação do acesso à terra urbanizada e redução da pobreza urbana.</p></td><td><p>Secretaria Nacional de Desenvolvimento Urbano - SNDU</p></td><td><p></p><p>Francisco Filomeno de Abreu Neto</p></td></tr><tr><td></td><td></td><td></td><td><p>José Cristiano Rilling da Nova Cruz</p><p></p></td></tr><tr><td><p>PROGRAMA 2068 - SANEAMENTO BÁSICO</p></td></tr><tr><td><p>OBJETIVO</p></td><td><p>UNIDADE ADMINISTRATIVA</p></td><td><p>SERVIDOR</p></td></tr><tr><td><p>0353</p></td><td><p>Implementar medidas estruturantes que assegurem a melhoria da gestão e da prestação dos serviços públicos de saneamento básico, considerando o abastecimento de água potável, o esgotamento sanitário, a drenagem e manejo de águas pluviais, e a limpeza e manejo de resíduos sólidos urbanos.</p></td><td><p>Secretaria Nacional de Saneamento Ambiental - SNSA</p></td><td><p>Rogério Borges Marques</p></td></tr><tr><td></td><td></td><td></td><td><p>Lucas Veras Salgado</p></td></tr><tr><td><p>0610</p></td><td><p>Implementar medidas estruturais em áreas urbanas, por meio de ações que assegurem a ampliação da oferta e do acesso aos serviços públicos de saneamento básico.</p><p></p></td><td><p>Secretaria Nacional de Saneamento Ambiental - SNSA</p></td><td><p>Rogério Borges Marques</p></td></tr><tr><td></td><td></td><td></td><td><p>Lucas Veras Salgado</p></td></tr></table>

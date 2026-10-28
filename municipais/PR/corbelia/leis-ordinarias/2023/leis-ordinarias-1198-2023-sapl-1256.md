@@ -1,0 +1,92 @@
+---
+titulo: "04 - Lei Ordinária nº 1.198, de 07 de julho de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "1198"
+data: "2023-07-07"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1256"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1273/text"
+sha256_fonte: "1e68b91f164ad3dbd21457b381ef2741544ff2b268157644ac82804290d4c3c6"
+sha256_texto: "718749564fa88a8036173c27ecfcdebef7bcd60c2c6414a65265c07539748cc3"
+capturado_em_fonte: "2026-10-28T06:00:21.393005-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 1.198, de 07 de julho de 2023
+
+Dispõe sobre a abertura de crédito especial para inclusão de elemento de despesa no orçamento de 2023, e no PPA 2022-2025, e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a abrir crédito especial para incluir o elemento de despesa conforme suplementação abaixo e a alterar os anexos do PLANO PLURIANUAL para o quadriênio 2022 a 2025, da Lei nº 1151 de 22/12/2021- PPA, e alterar a Lei nº 1183 de 16/12/2022-LOA 2023, no valor de R$ 200.000,00 (duzentos mil reais):
+
+
+**Suplementação:**
+
+06.000.00.000.0000.0.000.SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA
+
+06.004.00.000.0000.0.000. DEPARTAMENTO DE ENSINO PRÉ-ESCOLAR
+
+06.004.12.365.0200.2.260. Manter e desenvolver a educação infantil
+
+782 - 4.4.90.52.00.00 01000 EQUIPAMENTOS E MATERIAL PERMANENTE 200.000,00
+
+**Total Suplementação: 200.000,00**
+
+
+Art. 2º.
+
+São recursos destinados à abertura desse CRÉDITO ESPECIAL, os provenientes do cancelamento de dotação orçamentária, conforme discriminação abaixo, de acordo com o disposto no Art. 43, § 1º, inciso III, da Lei 4320 de 17 de março de 1964.
+
+
+**Redução:**
+
+06.000.00.000.0000.0.000. SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA
+
+06.001.00.000.0000.0.000. GABINETE DO SECRETÁRIO DE EDUCAÇÃO E CULTURA
+
+06.001.12.364.0190.2.225. Assegurar o apoio a formação superior da população
+
+248 - 3.3.50.43.00.00 01000 SUBVENÇÕES SOCIAIS 200.000,00
+
+**Total Redução: 200.000,00**
+
+
+Art. 3º.
+
+A abertura deste CRÉDITO ESPECIAL, tem por finalidade suprir as omissões da Lei Orçamentária para o ano de 2023 e ao mesmo tempo adequar a LDO e o PPA 2022-2025 à inclusão do novo elemento de despesa.
+
+
+Art. 4º.
+
+As demais legislações orçamentárias municipais, se necessário, deverão se compatibilizar com o Plano Plurianual em virtude das alterações contidas nesta Lei.
+
+
+Art. 5º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná  
+Em 07 de julho de 2023, 63º da Emancipação Política.
+
+GIOVANI MIGUEL WOLF HNATUW  
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 1828 de 07/07/2023, pág. 22-24.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1256/ta
+

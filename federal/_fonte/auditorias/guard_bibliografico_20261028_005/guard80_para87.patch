@@ -1,0 +1,38 @@
+--- guard80_antecedente.py
++++ integridade_anexos_decreto.py
+@@ -37,7 +37,7 @@
+     if not placeholder:
+         return None
+     pointer = placeholder[1].strip()
+-    citation = not pointer or bool(re.fullmatch(r'(?:clbr|colecao das leis)\s*(?:(?:vol(?:ume)?|ano|pag(?:ina)?s?|tabelas?|anexos?|quadros?)[. ]*|\d+[. ,;:/–-]*|a\s+)+', pointer))
++    citation = not pointer or bool(re.fullmatch(r'(?:clbr|clr|colecao das leis)\s*(?:(?:vol(?:ume)?|ano|pag(?:ina)?s?|tabelas?|anexos?|quadros?)[. ]*|\d+[. ,;:/–-]*|a\s+)+', pointer))
+     return placeholder if citation else None
+ 
+ 
+@@ -47,7 +47,7 @@
+     Não toma descrições ou um formulário textual como prova dos desenhos.
+     Não afirma inexistência na lei ou em outra publicação.
+     """
+-    for gap in re.finditer(r'\(\s*ilegivel(?:\s+parte\s+rasgada\s+no\s+livro[.]?)?\s*\)', clean):
++    for gap in re.finditer(r'\(\s*\\?\s*ilegivel(?:\s+parte\s+rasgada\s+no\s+livro[.]?)?\s*\)', clean):
+         before = clean[max(0, gap.start() - 100):gap.start()]
+         # Only explicit use/definition of the adjacent label is exempt.
+         # A term containing a missing word is not a definition of that label.
+@@ -125,7 +125,7 @@
+     text = re.sub(r'</?(?:span|b|i|em|strong)\b[^>]*>', '', text)
+     pointer = re.search(
+         r'(?m)^\s*((?:<<|«)\s*(?:anexo|tabela|quadro)s?\s*(?:>>|»)'
+-        r'\s*(?:clbr|colecao das leis)\b[^\n]*)', text)
++        r'\s*(?:clbr|clr|colecao das leis)\b[^\n]*)', text)
+     if not pointer:
+         return None
+     literal = pointer[1]
+@@ -150,7 +150,7 @@
+         return explicit_gap
+     # A bibliographic replacement of drawings is a separate question from a
+     # reproduced regulation or its text tables. It must survive the Art.1 shortcut.
+-    picture_gap = re.search(r'(?:<<|«)\s*(?:anexo|tabela|quadro)s?\s*(?:>>|»)\s*(?:clbr|colecao das leis)[^\n]*(?:carimbos?|figuras?|simbolo|desenhos?)[^\n]*', clean)
++    picture_gap = re.search(r'(?:<<|«)\s*(?:anexo|tabela|quadro)s?\s*(?:>>|»)\s*(?:clbr|clr|colecao das leis)[^\n]*(?:carimbos?|figuras?|simbolo|desenhos?)[^\n]*', clean)
+     own_regulation = re.search(r'\bfica[m]?\s+aprovad[oa]s?\b.{0,350}que com est[ea] baixa', clean)
+     if picture_gap and own_regulation:
+         return {'motivo': 'Objeto gráfico do regulamento próprio indicado apenas por placeholder bibliográfico; descrição textual ou outras tabelas não comprovam a reprodução dos desenhos, símbolos, carimbos ou figuras.',

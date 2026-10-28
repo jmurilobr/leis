@@ -1,0 +1,745 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="pt-br"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="pt-br">
+<!--<![endif]-->
+
+  <head>
+    <meta charset="utf-8">
+    <title>SAPL - Câmara Municipal de Congonhas</title>
+    <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Câmara Municipal de Congonhas",
+      "url" : "http://sapl.congonhas.mg.leg.br"
+    }
+  </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#343a40">
+
+    
+      <link rel="icon" href="/static/sapl/frontend/img/favicon.ico"  type="image/png">
+      
+    
+        
+        <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/global.042f6737.css" rel="stylesheet" />
+      
+    <link href="/static/sapl/frontend/css/chunk-vendors.045ec640.css" rel="stylesheet" />
+<link href="/static/sapl/frontend/css/compilacao.0baf3580.css" rel="stylesheet" />
+
+
+      
+      
+
+    
+  </head>
+
+  <body>
+    <div class="page fadein">
+
+      
+        <div class="info-atualizacao hidden-print" style="background-color:#0d2b45;color:#fff;text-align:center;padding:6px 12px;font-size:14px;font-weight:600;">
+          Informações foram atualizadas em
+          28/10/2026
+        </div>
+      
+
+      
+        
+          
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+              <div class="container">
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse" id="navbarNav">
+
+                   
+
+
+  <ul class="navbar-nav">
+    
+      
+        
+          <li class="nav-item"><a class="nav-link" href="/">Início</a></li>
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Institucional
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/mesa-diretora/">Mesa Diretora</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bancada/">Bancadas Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/bloco/">Blocos Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/comissao/">Comissões</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/frente/">Frentes</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/parlamentar/">Parlamentares</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/audiencia/">Audiências Públicas</a></li>
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+      
+        
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Atividade Legislativa
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/materia/pesquisar-materia">Matérias Legislativas</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pauta-sessao">Pautas das Sessões</a></li>
+                
+            
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sistema/relatorios/">Relatórios</a></li>
+                
+            
+                
+                  <li class="dropdown-item"><a href="/sessao/pesquisar-sessao">Sessões Plenárias</a></li>
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle"href="#fakeLink"  data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+            Normas Jurídicas
+             <span class="caret"></span>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            
+                
+                  <li class="dropdown-item"><a href="/norma/pesquisar">Pesquisar Normas Jurídicas</a></li>
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+          </ul>
+        </li>
+      
+    
+      
+        
+      
+    
+  </ul>
+
+ 
+
+                  <ul class="nav navbar-nav justify-content-end" id="autenticacao">
+                    <li class="nav-item dropdown pesquisa">
+                      <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><img src="/static/sapl/frontend/img/search.png"><span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                          <li class="dropdown-item">
+                            <form id="formulario-lexml" class="navbar-form search-form" method="get" action="">
+                              <input id="input-lexml" type="text" class="form-control" placeholder="Pesquisar no LexML" />
+                            </form>
+                          </li>
+                        </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link"href="/sistema/ajuda"><img src="/static/sapl/frontend/img/manual.png"></a></li>
+                    
+                      <li class="nav-item"><a class="nav-link" href="/login/"><img src="/static/sapl/frontend/img/user.png"></a></li>
+                    
+                  </ul>
+
+                </div><!--/.nav-collapse -->
+              </div>
+            </nav>
+          
+        
+      
+      
+        
+        
+        <header class="masthead">
+          <div class="container">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="/">
+                <img src="/media/sapl/public/casa/logotipo/Brasão_CMC_2011_Fundo_Transparente.PNG"
+                alt="Logo" class="img-responsive" >
+                <span class="vcenter">Câmara Municipal de Congonhas
+                  <br/><small>Sistema de Apoio ao Processo Legislativo</small>
+                </span>
+              </a>
+            </div>
+            <div class="hidden-print">
+              
+  
+
+
+  <ul class="nav nav-tabs justify-content-end">
+    
+      <li class="nav-item">
+        
+          <a class="nav-link" href="/norma/6612?display" title="Dados Complementares ">Dados Complementares </a>
+        
+      </li>
+      
+        <li class="nav-item"><a class="nav-link" href="/ta/4314/publicacao">Publicações</a></li>
+      
+      
+      
+      
+    
+  </ul>
+
+
+            </div>
+          </div>
+        </header>
+        
+      
+
+      
+      
+        <main id="content" class="content page__row">
+          <div class="container">
+
+            
+            
+
+            
+            
+              <div class="clearfix">
+
+                
+
+
+
+                
+
+                
+                  <h1 class="page-header">
+                    
+                      Lei-CMC nº 3.102, de 20 de julho de 2011
+                    
+                  </h1>
+                
+
+              </div>
+            
+
+            
+            <div id="app"></div>
+
+            
+            
+
+  
+    
+    <div class="context-actions d-flex justify-content-between mb-4">
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+      <div class="actions btn-group" role="group">
+        
+        
+      </div>
+    </div>
+  
+  
+
+
+  
+   
+    <fieldset class="hidden-print">
+        <legend>Identificação Básica</legend>
+        <div class="row">
+          <div class="col-md-3">
+            <div id="div_id_tipo" class="holder">
+              <label>Tipo de Texto Articulado</label>
+              <p>Norma Jurídica</p>
+            </div>
+          </div>
+
+          
+            <div class="col-md-3">
+              <div id="div_id_tipo" class="holder">
+                <label>Tipo da Norma Jurídica</label>
+                <p>Lei</p>
+              </div>
+            </div>
+          
+
+          <div class="col-md-2">
+            <div id="div_id_numero" class="holder">
+              <label>Número</label>
+              <p>3102</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_ano" class="holder">
+              <label>Ano</label>
+              <p>2011</p>
+            </div>
+          </div>
+
+          <div class="col-md-2">
+            <div id="div_id_data" class="holder">
+              <label>Data</label>
+              <p>20 de Julho de 2011</p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12">
+            <div id="div_id_ementa" class="holder">
+              <label>Ementa</label>
+              <p>MODIFICA O ITEM 12 DO ART. 33 DA LEI Nº 2.567, DE 12 DE DEZEMBRO DE 2005, ALTERADO PELAS LEIS Nº 2.918, DE 1º DE JANEIRO DE 2010, 2.921, DE 15 DE JANEIRO DE 2010</p>
+            </div>
+          </div>
+        </div>
+    </fieldset>
+  
+  
+
+
+  
+      
+        <div class="actions btn-group" role="group">
+            
+            <a href="/ta/4314/text?print" class="btn btn-outline-primary" id="btn_impressao">Preparar para impressão</a>
+        </div>
+      
+
+      <div class="actions btn-group float-right" role="group">
+        <a class="btn btn-outline-primary" id="btn_font_menos" title="Diminuir tamanho da letra">a</a>
+        <a class="btn btn-outline-primary" id="btn_font_mais"  title="Aumentar tamanho da Letra">A</a>
+      </div>
+  
+
+  
+    
+
+
+
+<div class="row py-4">
+    
+      
+
+      
+
+      
+          <div class="text-info col-12 small">
+            <b>Altera o(a)</b>&nbsp;
+            <a href="/norma/6092">
+              Lei-CMC nº 2.567, de 19 de dezembro de 2005
+            </a>
+          </div>
+      
+  
+
+</div>
+
+  
+
+  
+
+
+
+<div class="cp">
+  
+  <div class="d-none tipo-vigencias fixed-bottom justify-content-center">
+    <div class="btn-group btn-group-sm">
+      <a class="btn btn-primary active" onclick="textoMultiVigente(this, false);" title="Texto Compilado Sequencial">TMS</a>
+      <a class="btn btn-primary" onclick="textoMultiVigente(this, true);" title="Texto Compilado Integrado com Realce de Alterações">TMI</a>
+      <a class="btn btn-primary"  onclick="textoMultiVigente(this, false); textoVigente(this, true);" title="Texto Vigente COM Links para Textos Alteradores">TVL</a>
+      <a class="btn btn-primary"  onclick="textoVigente(this, false);" title="Texto Vigente">TVT</a>
+      <a class="btn btn-primary"  onclick="textoVigenteSemRevogados(this, false);" title="Texto Vigente Sem Dispositivos Revogados">TVR</a>
+    </div>
+  </div>
+
+  
+
+
+
+
+
+  
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt86305" ><div class="dtxt" id="d86305" pks="" pk="86305"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="ementa  "><div class="dptt "  id="dptt103608" ><a class="dpt-link" name="103608" title="103608"></a><div class="dtxt" id="d103608" pks="" pk="103608">Modifica o Item 12 do art. 33 da Lei nº 2.567, de 12 de dezembro de 2005, alterado pelas Leis nº 2.918, de 1º de janeiro de 2010, 2.921, de 15 de janeiro de 2010.</div></div><div class="dn" id="dn103608" pk="103608"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt103609" ><a class="dpt-link" name="103609" title="103609"></a><div class="dtxt" id="d103609" pks="" pk="103609">A Câmara Municipal de Congonhas, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono e promulgo a seguinte Lei:</div></div><div class="dn" id="dn103609" pk="103609"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt103610" ><div class="dtxt" id="d103610" pks="" pk="103610"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt103611" ><div class="dtxt" id="d103611" pks="" pk="103611"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt103612" ><a class="dpt-link" name="103612">Art. 1º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d103612" pks="" pk="103612">O Item 12 do do art. 33 da Lei nº 2.567, de 12 de dezembro de 2005, alterado pelas Leis nº 2.918, de 1º de janeiro de 2010, 2.921, de 15 de janeiro de 2010, passa a vigorar com a seguinte redação:</div></div><div class="dn" id="dn103612" pk="103612"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div>
+    
+
+    
+      <div class="dpt bloco_alteracao " nivel="2">
+    
+
+    <div class="bloco_alteracao  "><div class="dptt "  id="dptt103613" ><div class="dtxt" id="d103613" pks="" pk="103613"></div></div></div>
+    
+      
+        
+
+  <div class="dpt desativado" id="d103614" nivel="2"><div class="artigo" id="id103614" nivel="2"><a name="103614" href="/ta/3276/text#103614">Art. 33.</a>
+              &nbsp;
+              
+            
+
+            
+
+          </div></div>
+
+  <div class="dpt desativado" id="d103615" nivel="4"><div class="texto_n_estruturado" id="id103615" nivel="4"><a name="103615" href="/ta/3276/text#103615"><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><strong><em style="mso-bidi-font-style: normal;"><span style="mso-spacerun: yes;">&nbsp;</span></em></strong><em style="text-indent: 36pt;"><span lang="PT" style="font-size: 12pt;">&nbsp;</span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><strong><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;1 - Secretaria Municipal de Governo </span></em></strong></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><strong><em><span lang="PT" style="font-size: 12.0pt;">2 - Secretaria Municipal de Planejamento</span></em></strong></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><strong><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></em></strong><em><span lang="PT" style="font-size: 12.0pt;">2.1 - Diretoria de Planejamento Estratégico </span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: 9.0pt; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.2 - Diretoria de Projetos e Captação de Recursos</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: 9.0pt; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.3 - Diretoria de Planejamento e Orçamento</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: 9.0pt; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.4 - Diretoria de Acompanhamento de Convênios</span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><strong><em><span lang="PT" style="font-size: 12.0pt;">3 - Secretaria Municipal de Comunicação e Eventos</span></em></strong></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.1 - Diretoria de Comunicação Social</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: 72.0pt; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.1.1 - Departamento de Relações Públicas </span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.1.2 - Departamento de Assessoria de Imprensa</span></em></p><p class="MsoNormal" style="text-align: justify; text-indent: 34.8pt; margin: 0cm 42.45pt .0001pt 71.4pt;"><em><span lang="PT" style="font-size: 12.0pt;">3.1.3 - Departamento de Edição Eletrônica</span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;</span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><strong><em><span lang="PT" style="font-size: 12.0pt;">4 - Procuradoria Geral</span></em></strong></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;</span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><strong><em><span lang="PT" style="font-size: 12.0pt;">5 - Controladoria Geral</span></em></strong></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><strong><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></em></strong></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><strong><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;</span></em></strong></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><strong><em><span lang="PT" style="font-size: 12.0pt;">6 - Secretaria Municipal de Finanças </span></em></strong></p><p class="MsoNormal" style="text-align: justify; text-indent: 34.8pt; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">6.1 - Diretoria de Tributação e de Fiscalização</span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6.1.1 - Departamento de Fiscalização Fazendária</span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6.2 - Diretoria de Contabilidade</span></em></p><p class="MsoNormal" style="text-align: justify; text-indent: 34.8pt; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">6.3 - Diretoria de Tesouraria </span></em></p><p class="MsoNormal" style="text-align: justify; text-indent: 34.8pt; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">6.4 - Diretoria de Transparência </span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: 72.0pt; margin: 0cm 42.45pt .0001pt 36.0pt;"><strong><em><span lang="PT" style="font-size: 12.0pt;">7 - Secretaria Municipal de Administração </span></em></strong></p><p class="MsoNormal" style="text-align: justify; text-indent: 34.8pt; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">7.1 - Diretoria de Suprimentos</span></em></p><p class="MsoNormal" style="text-align: justify; text-indent: 34.8pt; margin: 0cm 42.45pt .0001pt 71.4pt;"><em><span lang="PT" style="font-size: 12.0pt;">7.1.1 - Departamento de Almoxarifado </span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.1.1.1 - Gerência de Almoxarifado da Saúde;&nbsp; </span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.1.1.2 - Gerência de Almoxarifado da Educação; </span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.1.1.3 - Gerência de Almoxarifado Geral</span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.1.2 - Departamento de Patrimônio</span></em></p><p class="MsoNormal" style="text-align: justify; text-indent: 34.8pt; margin: 0cm 42.45pt .0001pt 71.4pt;"><em><span lang="PT" style="font-size: 12.0pt; mso-bidi-font-weight: bold;">7.1.3 - Departamento de Compras</span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;</span></em></p><p class="MsoNormal" style="text-align: justify; text-indent: 34.8pt; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">7.2 - Diretoria de Administração</span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.2.1 - Departamento de Serviços Gerais</span></em></p><p class="MsoNormal" style="text-align: justify; text-indent: 34.8pt; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">7.3 - Diretoria de Informática</span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.3.1 - Departamento de Atendimento ao Usuário </span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.4 - Diretoria de Gestão de Pessoas</span></em></p><p class="MsoNormal" style="text-align: justify; text-indent: 34.8pt; margin: 0cm 42.45pt .0001pt 71.4pt;"><em><span lang="PT" style="font-size: 12.0pt;">7.4.1 - Departamento de Pagamento de Pessoal</span></em></p><p class="MsoNormal" style="text-align: justify; text-indent: -31.8pt; margin: 0cm 42.45pt .0001pt 138.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">7.4.2 - Departamento de Seguridade, Saúde e Segurança do Servidor</span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 7.4.3 – Departamento de Atos Funcionais, Lotação e Corregedoria </span></em></p><p class="MsoNormal" style="text-align: justify; text-indent: 34.8pt; margin: 0cm 42.45pt .0001pt 71.4pt;"><em><span lang="PT" style="font-size: 12.0pt;">7.4.4 - Departamento de Recursos Humanos</span></em></p><p class="MsoNormal" style="text-align: justify; text-indent: 34.8pt; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt; mso-bidi-font-weight: bold;">7.5 - Diretoria de Contratos e Licitações</span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><strong><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;</span></em></strong></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><strong><em><span lang="PT" style="font-size: 12.0pt;">8 - Secretaria Municipal de Obras </span></em></strong></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.1 - Diretoria de Obras</span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.1.0.1 - Gerência de Oficina de apoio a Obras</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.2 - Diretoria de Engenharia e Projetos</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.2.1 - Departamento de Topografia</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.2.2 - Departamento de Fiscalização e Medição de Obras</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.3 - Diretoria de Obras e Conservação de Prédios Públicos</span></em></p><p class="MsoBodyText" style="tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt; font-family: 'Times New Roman',serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.4 - Diretoria de Obras de Manutenção Urbana</span></em></p><p class="MsoBodyText" style="tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt; font-family: 'Times New Roman',serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.4.1 - Departamento de Vias Públicas</span></em></p><p class="MsoBodyText" style="tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt; font-family: 'Times New Roman',serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.4.1.1 - Gerência de Praças e Jardins</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.4.2 - Departamento de Limpeza Pública</span></em></p><p class="MsoBodyText" style="tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt; font-family: 'Times New Roman',serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.5 - Diretoria de Transporte e Veículos</span></em></p><p class="MsoBodyText" style="tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt; font-family: 'Times New Roman',serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8.5.0.1 - Gerência de Oficina de Veículos</span></em></p><p class="MsoBodyText" style="tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt; font-family: 'Times New Roman',serif;">&nbsp;</span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><strong><em><span lang="PT" style="font-size: 12.0pt;">9 - Secretaria Municipal de Gestão Urbana</span></em></strong></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.1 - Diretoria de Gestão Urbana</span></em></p><p class="MsoBodyText" style="tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt; font-family: 'Times New Roman',serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.1.1 - Departamento de Regularização Fundiária</span></em></p><p class="MsoBodyText" style="tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt; font-family: 'Times New Roman',serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.1.2 - Departamento de Fiscalização de Obras e Posturas</span></em></p><p class="MsoBodyText" style="tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt; font-family: 'Times New Roman',serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.2 - Diretoria de Trânsito </span></em></p><p class="MsoBodyText" style="text-indent: -72.0pt; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 108.0pt;"><em><span lang="PT" style="font-size: 12.0pt; font-family: 'Times New Roman',serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.2.1 - Departamento Operacional de Trânsito, Transporte e Estatística</span></em></p><p class="MsoBodyText" style="text-indent: -72.0pt; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 108.0pt;"><em><span lang="PT" style="font-size: 12.0pt; font-family: 'Times New Roman',serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.2.2 - Departamento de Fiscalização e Planejamento Educacional de Trânsito</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 72.0pt; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.3 - Diretoria de Defesa Social</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.3.1 - Departamento de Defesa Civil</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.3.2 - Departamento da Guarda Municipal</span></em></p><p class="MsoBodyText" style="tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt; font-family: 'Times New Roman',serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.4 - Diretoria de Concessões Públicas</span></em></p><p class="MsoBodyText" style="tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt; font-family: 'Times New Roman',serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.5 - Diretoria de Patrimônio Histórico</span></em></p><p class="MsoBodyText" style="tab-stops: list 0cm center 7.1pt; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt; font-family: 'Times New Roman',serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.6 - Diretoria de Habitação</span></em></p><p class="MsoBodyText" style="tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt; font-family: 'Times New Roman',serif;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><strong><em><span lang="PT" style="font-size: 12.0pt;">10 - Secretaria Municipal de Desenvolvimento e Assistência Social</span></em></strong></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.1 - Diretoria de Assistência Social e Segurança Alimentar</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.1.0.1 - Gerência de Proteção e Promoção Humana </span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.1.0.2 - Gerência de Segurança Alimentar e Nutricional</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.1.0.3 - Gerência da Casa da Família</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.2 - Diretoria de Mobilização e Organização Social</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.3 - Diretoria de Cultura</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.3.1 - Departamento de Produção Cultural e Telecentros</span></em></p><p class="MsoNormal" style="text-align: justify; text-indent: 34.8pt; margin: 0cm 42.45pt .0001pt 106.8pt;"><em><span lang="PT" style="font-size: 12.0pt;">10.3.0.1 - Gerência de Museus</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.4 - Diretoria de Direitos Humanos</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.4.0.1 - Gerência de Defesa da Criança e do Adolescente</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.4.0.2 - Gerência de Políticas para a Juventude</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.4.0.3 - Gerência de Políticas para a Mulher</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.4.0.4 - Gerência de Políticas para o Idoso</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.4.0.5 - Gerência de Políticas Pessoas com Deficiência</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.4.0.6 - Gerência de Promoção da Igualdade Racial</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.4.0.7 - Gerência de Políticas Anti-drogas</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.5 - Diretoria de PROCOM</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.6 - Diretoria da Defensoria Pública</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.7 - Diretoria da Casa dos Conselhos</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><strong><em><span lang="PT" style="font-size: 12.0pt;">11 - Secretaria de Esporte e Lazer </span></em></strong></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.1 - Diretoria de Esportes</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.1.0.1 - Gerência do Ginásio Poliesportivo</span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.1.0.2 - Gerência de Equipamentos de Esportes e Lazer</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;</span></em></p><p class="MsoNormal" style="text-align: justify; text-indent: 36.0pt;"><strong><em><span style="font-size: 12.0pt;">12 – Secretaria Municipal de Educação</span></em></strong></p><p class="MsoNormal" style="text-indent: 35.4pt;"><em><span style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12.1 – Diretoria de Apoio Técnico e Operacional</span></em></p><p class="MsoNormal" style="text-indent: 35.4pt;"><em><span style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12.1.1 – Departamento de Apoio Administrativo</span></em></p><p class="MsoNormal" style="text-indent: 35.4pt;"><em><span style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12.1.1.1 – Gerência de Alimentação Escolar</span></em></p><p class="MsoNormal" style="text-indent: 35.4pt;"><em><span style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12.1.1.2 – Gerência de Transporte Escolar</span></em></p><p class="MsoNormal" style="text-indent: 35.4pt;"><em><span style="font-size: 12.0pt;">12.2 – Diretoria de Educação Infantil e Ensino Fundamental</span></em></p><p class="MsoNormal" style="text-indent: 35.4pt;"><em><span style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12.2.1 – Departamento de Assistência ao Educando</span></em></p><p class="MsoNormal" style="text-indent: 35.4pt;"><em><span style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12.2.1.1 – Gerência da Casa do Professor</span></em></p><p class="MsoNormal" style="text-indent: 35.4pt;"><em><span style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12.2.2 – Departamento de Inspeção Educacional</span></em></p><p class="MsoNormal" style="text-indent: 35.4pt;"><em><span style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12.2.3 – Departamento de Supervisão, Orientação e Planejamento Pedagógico</span></em></p><p class="MsoNormal" style="text-indent: 35.4pt;"><em><span style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12.3 – Diretoria de Ensino Médio e Superior</span></em></p><p class="MsoNormal" style="text-indent: 35.4pt;"><em><span style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 12.4 – Diretoria de Educação para o Trabalho</span></em></p><p class="MsoNormal" style="text-align: justify; margin: 0cm 42.45pt .0001pt 36.0pt;">&nbsp;</p><p class="MsoNormal" style="text-indent: 35.4pt;"><span style="font-size: 12.0pt;">.....................................................................................(NR)</span></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><strong><em><span lang="PT" style="font-size: 12.0pt;">13 - Secretaria Municipal de Saúde</span></em></strong></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13.1 - Diretoria de Assistência à Saúde</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13.1.0.1 - Gerência da Clínica da Criança e do Adolescente</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13.1.0.2 - Gerência da Clínica M</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13.1.0.3 - Gerência da Clínica Unidade de Fisioterapia</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13.1.0.4 - Gerência da Clínica de Saúde Mental</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;</span></em></p><p class="MsoNormal" style="text-align: justify; text-indent: -108.0pt; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 144.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13.1.0.5 - Gerência de Centro de Atendimento Psicossocial – CAPS</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13.1.0.6 - Gerência de Clínica Especializada de Odontologia</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13.1.0.7 - Gerência da Unidade de Farmácia</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13.1.0.8 - Gerência do Laboratório de Analise Clínicas</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm left 35.45pt; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13.2 - Diretoria de Atenção Básica em Saúde</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13.2.0.3 - Gerência das Unidades de Atenção Primaria</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13.2.1 - Departamento de Fiscalização e Vigilância em Saúde</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13.2.1.1 - Gerência de Epidemiologia</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13.2.1.2 - Gerência de Vigilância Sanitária</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13.3 - Diretoria de Saúde Pública</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13.3.1 - Departamento de Planejamento e Gestão de Saúde</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13.3.2 - Departamento do Fundo Municipal de Saúde</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 13.4 - Diretoria de Regulação de Serviços da Saúde </span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><strong><em><span lang="PT" style="font-size: 12.0pt;">14 - Secretaria Municipal de Desenvolvimento Sustentável</span></em></strong></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14.1 - Diretoria de Meio Ambiente</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14.1.1 - Departamento de Aterro Municipal</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14.1.2 - Departamento de Fiscalização e Monitoramento Ambiental</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14.2 - Diretoria de Indústria, Comércio e Serviços.</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm left 35.45pt; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14.3 - Diretoria de Desenvolvimento Rural</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; 14.4 - Diretoria de Trabalho e Renda</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14.5 - Diretoria de Turismo</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14.5.0.1 - Gerência do CAT</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 14.6 - Diretoria do SINE</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">&nbsp;</span></em></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><strong><em><span lang="PT" style="font-size: 12.0pt;">15 – Gabinete do Prefeito</span></em></strong></p><p class="MsoNormal" style="text-align: justify; tab-stops: list 0cm; margin: 0cm 42.45pt .0001pt 36.0pt;"><em><span lang="PT" style="font-size: 12.0pt;">15.0.1 – Departamento da Ouvidoria.</span></em></p></a></div></div>
+
+
+      
+    
+    
+  
+
+  
+    
+      </div></div>
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="artigo  "><div class="dptt "  id="dptt103616" ><div class="dtxt" id="d103616" pks="" pk="103616"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="2">
+    
+
+    <div class="caput  "><div class="dptt "  id="dptt103617" ><a class="dpt-link" name="103617">Art. 2º.</a>&nbsp;
+            
+
+          
+
+          <div class="dtxt" id="d103617" pks="" pk="103617">Esta Lei entra em vigor na data de sua publicação.</div></div><div class="dn" id="dn103617" pk="103617"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+  
+    
+      </div></div></div>
+    
+
+    
+      <div class="dpt  " nivel="0">
+    
+
+    <div class="articulacao  "><div class="dptt "  id="dptt103618" ><div class="dtxt" id="d103618" pks="" pk="103618"></div></div></div>
+    
+    
+  
+
+  
+    
+
+    
+      <div class="dpt  " nivel="1">
+    
+
+    <div class="texto_n_estruturado  "><div class="dptt "  id="dptt103619" ><a class="dpt-link" name="103619" title="103619"></a><div class="dtxt" id="d103619" pks="" pk="103619"><div><br>Congonhas, 20 de julho de 2011.</div><div>&nbsp;</div><div style="text-align: center;"><strong>Anderson Costa Cabido</strong></div><div style="text-align: center;"><strong>Prefeito de Congonhas</strong></div><div>&nbsp;</div></div></div><div class="dn" id="dn103619" pk="103619"><ul class="dnl"></ul></div></div>
+    
+    
+  
+
+
+
+  </div></div>
+
+
+</div>
+
+  <div class="dont-break-out"></div>
+
+
+
+
+          </div>
+        </main>
+
+      
+
+      
+
+
+      
+      <footer id="footer" class="footer page__row hidden-print">
+        <div class="container">
+
+          <div class="row">
+            <div class="col-md-4">
+
+              <a class="footer__logo" href="#">
+                <a href="http://www.interlegis.leg.br/">
+                  <img src="/static/sapl/frontend/img/logo_interlegis.png" alt="Logo do Interlegis ">
+                </a>
+              </a>
+              <p>
+                <small>
+                  Desenvolvido pelo <a href="http://www.interlegis.leg.br/">Interlegis</a> em software livre e aberto.
+                </small>
+		<span>Release: 3.1.165-RC4</span>
+              </p>
+
+            </div>
+            <div class="col-md-4">
+              <a class="footer__logo" href="#">
+                <img src="/static/sapl/frontend/img/logo_cc.png" alt="Logo do Creative Commons BY SA">
+              </a>
+              <p>
+                <small>
+                  Conteúdo e dados sob licença <a href="https://creativecommons.org">Creative Commons</a> 4.0<br><a href="https://creativecommons.org/licenses/by/4.0/">Atribuir Fonte - Compartilhar Igual</a>
+                </small>
+              </p>
+            </div>
+            <div class="col-md-4">
+              
+              <address>
+                <small>
+                  <strong>
+                    <span class="org">Câmara Municipal de Congonhas</span>
+                  </strong>
+                  <br>
+                  <span class="street-address">Rua Dr. Pacífico Homem Júnior</span>
+                  <br>
+                  CEP: <span class="postal-code">36410-090</span>
+                  |
+                  Telefone: <span>(31) 3732-0300</span>
+                  <br>
+                  <small><a href="/api/schema/swagger-ui/">OpenAPI</a></small> |
+                  <a href="https://www.congonhas.mg.leg.br" class="url">Site</a> |
+                  <a href="mailto:camara@congonhas.mg.leg.br" class="email">Fale Conosco</a>
+                </small>
+              </address>
+              
+
+
+
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    
+
+    <div vw class="enabled btn-vlibras">
+      <div vw-access-button class="active"></div>
+      <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+      </div>
+    </div>
+
+    
+
+          
+    
+        
+        <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/global.d557d20c.js" ></script>
+      
+    <script src="/static/sapl/frontend/js/chunk-vendors.f2d6067d.js" ></script>
+<script src="/static/sapl/frontend/js/compilacao.148cb66b.js" ></script>
+
+
+      
+      
+
+      
+
+      <script type="text/javascript" >
+        function inIframe () {
+          try {
+              return window.location !== window.parent.location
+          } catch (e) {
+              return true;
+          }
+        }
+        $(document).ready(function(){
+          let iframe_set_backend = false
+          if (iframe_set_backend && !inIframe() ) {
+            location.href = location.origin + '?iframe=0'
+          }
+
+          var form = document.getElementById("formulario-lexml");
+          $("#input-lexml").change(function(){
+            let value = $("#input-lexml").val();
+            let url = "/sistema/lexml/request_search/xxx/"
+            url = url.replace('xxx', value)
+            form.action = url;
+          });
+
+        });
+      </script>
+
+    
+      <script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+      <script>
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+      </script>
+
+      
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-6H7D46Y379"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-6H7D46Y379');
+        </script>
+      
+    
+
+    
+  </body>
+</html>

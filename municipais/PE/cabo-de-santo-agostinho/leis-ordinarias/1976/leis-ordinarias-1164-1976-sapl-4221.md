@@ -1,0 +1,61 @@
+---
+titulo: "Lei Ordinária nº 1.164, de 16 de dezembro de 1976"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1164"
+data: "1976-12-16"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/4221"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/4268/text"
+sha256_fonte: "8ec0d018de6bc207685d3a488d101676e34633df7918bf95630ae500a674585e"
+sha256_texto: "6642b949e305191774a9ad7079c6e98521347126baeb4c48484c5374790703ab"
+capturado_em_fonte: "2026-10-27T22:12:46.555381-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.164, de 16 de dezembro de 1976
+
+Altera a Lei nº 1045 de 25.02.71 atualizando a delimitação das Zonas Urbanas da Cidade e dos Distritos.
+
+
+O Prefeito do Municipio do Cabo, Bel. José Feliciano de Barros Neto, faço saber que a Câmara Municipal do Cabo, aprovou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Prefeito do Município do Cabo, autorizado a proceder a atualização das delimitações das Zonas Urbanas da Cidade e dos Distritos, dentro dos preceitos estabelecidos pelas Legislações Federal e Estadual vigentes, na forma que se descreve abaixo:
+
+1º Distrito - Cidade-Séde – Quadro Urbano
+
+Partindo do marco 1-U localizado à margem da BR-101, à altura do Km 297, junto à ponte sobre o rio Gurjaú, daí segue em linha reta ao marco 2-U, situado na confluência do rio Pirapama, em linha reta ao marco 3-U, uma bueira na estrada de Gaibú, nas adjacências dos fundos da CERMIC; daí em linha reta ao marco 4-U, colocado no Alto das Jaqueiras ao lado das instalações da Química Industrial Pernambucana S/A altua do Km 5 da PE-60, daí em linha reta margeando a PE-60, numa faixa de 500 metros de largura partindo da área de domínio, lado esquerdo da PE-60 do marco 5-U, situado às margens do Rio Tabatinga limite com o Município do Ipojuca; do qual segue cruzando a PE-60, até o marco 6-U, localizado igualmente à margem do Rio Tabatinga numa distância de 500 metros da linha que limita a área de domínio da PE-60, daí em linha reta ao marco 7-U numa faixa de 500 metros do lado direito da PE-60, contados da linha à faixa de domínio da PE-60, até encontrar o riacho Pitimbú à altura do Km 03 da PE-60; pelo qual segue até o marco 8-U, localizado defronte a nascente do sitado riacho no Alto de São Francisco; daí em linha reta ao marco 9-U, no Alto Garapu; seguindo em linha reta ao marco 10-U, colocado junto à linha ferrea da Rêde Ferroviária Nacional onde esta cruza a estrada para o Engenho Santa Amélia; segue a referida ferrovia até o marco 11-U, localizado nos limites de Charneca, por cujo limite segue até o marco 12-U, colocado à 500 metros da margem da BR-101, daí margeando a BR-101 numa faixa de 500 metros em linha, até o marco 13-U, localizado no Km 309 da BR-101, daí cruzando a BR-101, voltando com uma faixa de 500 metros à margem direita da BR-101, à linha limitada do Distrito Industrial do Cabo, seguindo os referidos limites até encontrar o marco 1-U, localizado à margem da BR-101 a altura do Km 297, ponto de partida.
+
+2º Distrito - Juçaral – Quadro Urbano
+
+Partindo do marco 1-U, localizado à margem da estrada carroçável para o Cabo daí em linha reta ao marco 2-U, no alto dos arruados denominados Rurópolis, daí ao marco 3-U, gravado no último posto, após transformados; daí em linha reta ao marco 4-U, nos fundos do Cemitério e vai ao marco 5-U, no ângulo frontal; daí em linha reta ao marco 6-U, firmado numa grande rocha, por traz do Cemitério, na meia encosta, pela qual segue em direção ao marco 7-U, gravado numa outra rocha nos fundos do Grupo Escolar Rural, e daí em diagonal para o marco 1-U, ponto de partida.
+
+3º Distrito - Ponte dos Carvalhos – Quadro Urbano
+
+Partindo do marco 1-U, situado na confluência dos rios Jaboatão e Pirapama, daí subindo o curso do Rio Pirapama, pela sua margem esquerda até encontrar a foz do seu afluente Rio Gurjaú, onde existe o marco 2-U. Daí subindo o curso do Rio Gurjaú, até chegar a ponte sobre o rio Gurjaú, localizada à altura do Km 297 da BR-101, Sul-Recife-Cabo, onde existe o marco 3-U; daí rumando em direção ao norte até uma distância de 1.600 metros de profundidade em relação a faixa de domínio da BR-101, onde existe o marco 4-U. Daí num ângulo de 90º rumo a leste, seguindo sempre n'uma linha equidistante de 1.600 metros em relação a faixa de domínio da BR-101, linha essa demarcada por estacas de concreto distante uma de outra de 1.000 em 1.000 metros designadas como sendo os marcos 5-U, 6-U, 7-U, 8-U, 9-U, 10-U, até chegar ao Oiteiro Alto, ponto de Divisa dos Municípios Cabo e Jaboatão, onde existe o marco 11-U. Daí numa linha reta rumo ao sul, atravessando a BR-101 aproximadamente no quilômetro 290,5, onde existe o marco 12-U. Daí seguindo pela divisa dos referidos Municípios, até chegar ao ponto de partida no marco 1-U, na confluência dos rios Jaboatão e Pirapama.
+
+4º Distrito - Santo Agostinho – Quadro Urbano
+
+Partindo do marco 1-U colocado a 35 metros da linha pré-a-mar situado enfrente das ruínas do Forte do Pontal de Suape e a margem esquerda da fóz do rio Passangana, seguindo a linha limítrofe dos Municípios do Cabo e do Ipojuca, até alcançar a distância de 3.000 metros, local do marco 2-U, daí em linha reta tomando o rumo da confluência do rio Passangana com o riacho Algodoais. Daí seguindo numa linha de contôrno da orla marítima, mantendo a uma distância de 3.000 metros da linha de pré-a-mar até encontrar a margem direita do rio Pirapama na confluência com o rio Jaboatão, limite dos Municípios do Cabo e do Jaboatão, onde fica o marco 3-U; daí seguindo à margem direita do rio Jaboatão até o marco 4-U, situado a 35 metros da linha de pré-a-mar ao lado norte da propriedade de São José da Paiva.
+
+
+Art. 2º.
+
+Esta Lei, entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Palácio Conde da Boa Vista, 16 de Dezembro de 1976
+
+Bel. José Feliciano de Barros Neto
+
+Prefeito
+

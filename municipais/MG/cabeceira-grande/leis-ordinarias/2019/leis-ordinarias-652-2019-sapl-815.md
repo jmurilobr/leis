@@ -1,0 +1,111 @@
+---
+titulo: "LEI ORDINÁRIA nº 652, de 06 de novembro de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "652"
+data: "2019-11-06"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/815"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/400/text"
+sha256_fonte: "191dcc24b6ccda7c60563a365d85edf01a4b314c1478fa7800c6e3b509984324"
+sha256_texto: "8f8d99c90f7f423974fcc4649887b79cd2c4aab815c0cc1210cb20916de069ef"
+capturado_em_fonte: "2026-10-27T20:16:49.362859-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 652, de 06 de novembro de 2019
+
+**Autoriza o Município de Cabeceira Grande (MG) a contratar com o Banco do Brasil S.A operação de crédito com outorga de garantia e dá outras providências.**
+
+
+**O PREFEITO DO MUNICÍPIO DE CABECEIRA GRANDE,** Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 76, inciso III da Lei Orgânica do Município, faz saber que a Câmara Municipal de Cabeceira Grande decreta e ele, em seu nome, sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Município de Cabeceira Grande, por meio do Chefe do Poder Executivo, autorizado a contratar com o Banco do Brasil S.A, operação de crédito até o montante de R$ 1.500.000,00 (um milhão e quinhentos mil reais), destinadas ao financiamento de aquisição de veículos (caminhões truck basculantes; caminhão compactador de resíduos sólidos e caminhão-pipa) no âmbito do Programa Eficiência Municipal, cujas condições encontram-se previstas no artigo 2º desta Lei, observada a legislação vigente, em especial as disposições da Lei Complementar Federal n.º 101, de 4 de maio de 2000 e na Resolução CMN n.º 4.589, de 29 de junho de 2017, cujas condições gerais serão fixadas no contrato ou ajuste que derivar da presente Lei.
+
+
+Parágrafo único
+
+Na hipótese de o Município financiar montante superior ao valor dos bens adquiridos, o valor remanescente será utilizado exclusivamente para amortização da operação de crédito, vedada a aquisição de outros bens e/ou equipamentos.
+
+
+Art. 2º.
+
+Para pagamento do principal, juros, tarifas bancárias e demais encargos financeiros e despesas da operação de crédito, fica o Banco do Brasil S.A. autorizado a debitar na conca-corrente de titularidade do Município, mantida em sua agência, a ser indicado no contrato, em que são efetuados os créditos dos recursos do Município, os montantes necessários às amortizações e pagamento final da dívida, nos prazos contratualmente estipulados.
+
+
+Parágrafo único
+
+Fica dispensada a emissão da Nota de Empenho para a realização das despesas a que se refere o caput deste artigo, nos termos do disposto no parágrafo 1º do artigo 60 da Lei n.º 4.320, de 17 de março de 1964.
+
+
+Art. 3º.
+
+Fica o Município autorizado a:
+
+
+I –
+
+participar e assinar contratos, convênios, aditivos e termos que possibilitem a execução desta Lei;
+
+
+II –
+
+aceitar todas as condições estabelecidas pelas normas do Banco do Brasil S.A. referentes às operações de crédito, vigentes à época da assinatura dos contratos de financiamento;
+
+
+III –
+
+abrir conta bancária vinculada ao contrato de financiamento destinada a centralizar a movimentação dos recursos decorrentes do referido contrato; e
+
+
+IV –
+
+aceitar o foro da Comarca de Unaí (MG) para dirimir quaisquer controvérsias decorrentes da execução dos contratos.
+
+
+Art. 4º.
+
+Os recursos provenientes da operação de crédito a que se refere esta Lei deverão ser consignados como receita no Orçamento ou em créditos adicionais, nos termos do disposto no inciso II do parágrafo 1º do artigo 32 da Lei Complementar n.º 101, de 2000.
+
+
+Art. 5º.
+
+Os orçamentos municipais consignarão, obrigatoriamente, as dotações necessárias às amortizações e aos pagamentos dos encargos anuais, relativos aos contratos de financiamento a que se refere o artigo 1º desta Lei.
+
+
+Art. 6º.
+
+Fica o Chefe do Poder Executivo autorizado a abrir créditos especiais destinados a fazer face aos pagamentos de obrigações decorrentes das operações de crédito ora autorizadas.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 8º.
+
+Fica revogada a Lei n.º 560, de 26 de setembro de 2017.
+
+
+Cabeceira Grande, 6 de novembro de 2019.
+
+**ODILON DE OLIVEIRA E SILVA**
+
+**Prefeito**
+
+DAILTON GERALDO RODRIGUES GONÇALVES
+
+Consultor Jurídico, Legislativo, de Governo e Assuntos Administrativos e Institucionais.
+
+**"Este texto não substitui o original."**
+

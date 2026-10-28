@@ -1,0 +1,65 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 4: admite somente tabelas nativas com prova independente de células, ordem e mesclagens. Mantém todos os demais gates. Também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 492,
+  "aprovados_nestes_gates": 216,
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0024/sapl.divinopolis.mg.leg.br.prefixo.jsonl",
+      "sha256": "60e5400a945d456f81f48b4b6acf64b1821a01fd94fe662eb9a4a2fc5512808b",
+      "bytes": 890101
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0024/sapl.divinopolis.mg.leg.br.tipos.json",
+      "url": "https://sapl.divinopolis.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "738ddc1f4c29d3c2bc6bd1b6060b0f4fa058cb5b9ef69e49123b8e123a5fa9e0"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0024/sapl.divinopolis.mg.leg.br.anexos.json",
+      "sha256": "d3c7cadb5caabc657a381995441251bdfa071e08350a0e5f909160a6f5fb4e87"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0024/sapl.doresdoindaia.mg.leg.br.prefixo.jsonl",
+      "sha256": "437a16b34f67212f099a035a5e8d54dc7f40e862e7f7897becb4c800e0a9b0d1",
+      "bytes": 725419
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0024/sapl.doresdoindaia.mg.leg.br.tipos.json",
+      "url": "https://sapl.doresdoindaia.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "5a45a38875082c764fffea4c9b3ee362ab5d11e05f92ca73d89caa4229b17f08"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0024/sapl.doresdoindaia.mg.leg.br.anexos.json",
+      "sha256": "99c09982e40d681133358a8ceae7bb9fc442fa554b51882276c93791414af783"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0024/sapl.duasbarras.rj.leg.br.prefixo.jsonl",
+      "sha256": "601dc80d1ae74407cade75ca4e5a956408789f60ca810372593a2c3058f9e0d4",
+      "bytes": 33319
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0024/sapl.duasbarras.rj.leg.br.tipos.json",
+      "url": "https://sapl.duasbarras.rj.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "cfd22980ae652bcf7d4cf21a9656ab7c7fe33af2f16f23a14c2616cf925c8a3b"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0024/sapl.duasbarras.rj.leg.br.anexos.json",
+      "sha256": "5136b5d4a401a7bd164127f6ce5737e0639aac8c3e7a0f243170184f25239734"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0024/sapl.durande.mg.leg.br.prefixo.jsonl",
+      "sha256": "55f6ffb14113755f31cd1ab997d287354b0b7cf8aef4b5be84d0790ac2908a15",
+      "bytes": 12560
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0024/sapl.durande.mg.leg.br.tipos.json",
+      "url": "https://sapl.durande.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "587d9f0fb7fbb6a99a3b20f2f3d298b9f5db557419cd49a6f85586659b7c32e1"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0024/sapl.durande.mg.leg.br.anexos.json",
+      "sha256": "963b1cf4ba6054c3c9c385833aa251d4392763a3e8200e1b285511a2969dba13"
+    }
+  ],
+  "script_sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

@@ -1,0 +1,194 @@
+---
+titulo: "04 - Lei Ordinária nº 18, de 04 de dezembro de 1967"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "18"
+data: "1967-12-04"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/528"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/511/text"
+sha256_fonte: "b8a1e9b02ae691090092d2d7b1d1817e848ee3c4d97a640ffdb4391362210ae7"
+sha256_texto: "fede11ab9ba8aa4ea7dd89382a1c49d5e8b778ddd9b469f8e6b898542fabb2d0"
+capturado_em_fonte: "2026-10-28T09:35:25.924080-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 18, de 04 de dezembro de 1967
+
+Cria o Serviço Autônomo de Água e Esgotos, e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou e, Eu Prefeito Municipal sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Fica criado, como entidade autárquica municipal o Serviço Autônomo de Água e Esgotos - S.A.A.E. com personalidade jurídica própria, sede e foro na cidade de Corbélia, dispondo de autonomia econômica, financeira e administrativas - dentro dos limites da presente lei.
+
+
+Art. 2º.
+
+O S.A.A.E atuará em todo o território do município, competindo-lhe, com exclusividade, diretamente ou mediante contrato com a S.A.N.E.P.A.R ou entidade especializada em Engenharia Sanitária.
+
+
+a)
+
+estudar, projetar e executar obras relativas à construção, ampliação ou remodelação dos sistemas públicos de abastecimento de água potável e de esgotos sanitários municipais.
+
+
+b)
+
+atuar, como órgão coordenador, executor ou fiscalizador de execução dos convênios celebrados para os fins do item a, entre o Município e Órgão Federais ou Estaduais.
+
+
+c)
+
+operar, manter, conservar e explorar os serviços de água potável e de esgotos sanitários.
+
+
+d)
+
+lançar, fiscalizar e arrecadar as tarifas e taxas dos serviços que prestar bem como as contribuições de melhoria que incidirem sobre os imóveis beneficiados com tais serviços, por delegação do Poder Executivo.
+
+
+Art. 3º.
+
+O S.A.A.E será administrado por um Diretor, preferencialmente Engenheiro Civil ou Sanitarista, ou que tenha, pelo menos grau médio de instrução, nomeado pelo Prefeito Municipal.
+
+
+§ 1º
+
+Poderá a Prefeitura contratar a administração do S.A.A.E com uma organização oficial especializada em Engenharia Sanitária.
+
+
+§ 2º
+
+Incumbe ao Diretor, ou no caso do parágrafo anterior, à organização administradora, representar o S.A.A.E ou promover-lhe a representação em juízo ou fora dele.
+
+
+Art. 4º.
+
+O patrimônio inicial do S.A.A.E será constituído de todos os bens móveis, imóveis, instalações, títulos, materiais e outros valores próprio do município atualmente destinados e utilizados nos sistemas de água e esgotos sanitários, as quais lhe serão entregues sem qualquer ônus ou compensações pecuniárias.
+
+
+Art. 5º.
+
+A receita do S.A.A.E será constituída dos seguintes recursos:
+
+
+a)
+
+do produto de quaisquer tributos e remunerações decorrentes diretamente dos seus serviços, tais como: tarifas de água e de esgoto, instalação, reparo, aferição, aluguel e conservação de hidrômetros, ligações de água ou esgoto, multas, etc.
+
+
+b)
+
+do fundo Municipal de Saneamento - F.M.S criado pela lei nº 19 de 04 de dezembro de 1967.
+
+
+c)
+
+do produto da venda de materiais inservíveis e de alienação de bens patrimoniais que se tornem desnecessários aos seus objetivos;
+
+
+d)
+
+de recursos diversos.
+
+
+§ 1º
+
+O S.A.A.E poderá realizar operações de crédito, para antecipação de receita ou para obtenção de recursos necessários à execução de obras, ampliação e remodelação dos seus serviços.
+
+
+§ 2º
+
+A entidade financiadora poderá ser constituir procudora, digo procuradora bastante e irrevogável do Município, a critério do poder executivo, desde, que, desde já fica autorizado para tanto, com o especial fim de receber, dos Governos da União e do Estado, as quotas de participação nos impostos sobre Produtos Industrializados, sobre a renda e proventos, as quais recolherá aos cofres municipais, após deduzir que o que lhe couber a título de amortização juros, comissões, taxas e outros encargos, eventualmente não nos prazos contratuais.
+
+
+Art. 6º.
+
+A classificação dos serviços, as tarifas respectivas e as condições para a concessão deverão ser estabelecidas em regulamento.
+
+
+§ 1º
+
+As tarifas de água e de esgoto serão pelo S.A.A.E de modo que atendam no mínimo, à amortização do investimento efetuado, aos custos de operações e manutenção e a constituição de reservas para reposições.
+
+
+§ 2º
+
+A fixação das tarifas deverá ser delegada à Companhia de Saneamento do Paraná - S.A.N.E.P.A.R quando isso se torne necessário como condição de assistência técnica ou financeira por parte da mesma (ou) à conta de recursos do FAE, bem como quando servidores do Estado forem colocados à disposição do S.A.A.E.
+
+
+Art. 7º.
+
+Serão obrigatórios nos termos do artº 36 do Decreto Federal nº 49.974 - A de 21 de janeiro de 1961, os serviços de água e esgoto nos prédios considerados habitáveis e situados em logradouros dotados de sede.
+
+
+Art. 8º.
+
+É vedado ao S.A.A.E conceder isenção ou redução de tarifa dos seus serviços.
+
+
+Art. 9º.
+
+O S.A.A.E terá quadro próprio de empregados, as quais serão sujeitos, ao regime de emprego previsto na Consolidação das Leis do Trabalho.
+
+
+§ 1º
+
+Compete à administração do S.A.A.E admitir, movimentar e dispensar seus empregados, de acordo com as normas a serem fixadas em regimento interno.
+
+
+§ 2º
+
+Aos servidores Estaduais, colocados à disposição do S.A.A.E sem ônus para o Estado, ficam assegurados os vencimentos e demais vantagens previstas em Lei Estadual.
+
+
+Art. 10.
+
+Aplicam-se ao S.A.A.E todas as prerrogativas, isenções, favores fiscais e demais vantagens da alçada municipal.
+
+
+Art. 11.
+
+Fica assegurado ao S.A.A.E o direito de interromper o fornecimento de água aos usuários quando os mesmos deixarem de efetuar ao pagamentos de seus débitos, após 30 dias do vencimento.
+
+
+Art. 12.
+
+Fica aberto o crédito especial de NCr$ 12.000.00 (doze mil cruzeiros novos) para ocorrer às despesas com a instalação do S.A.A.E, e os recursos para atendimento do presente crédito, serão utilizados do excesso de arrecadação do Imposto sobre circulação de mercadorias (I.C.M).
+
+
+Art. 13.
+
+O prefeito Municipal regulamentará a presente lei, dentro do prazo de 60 (sessenta) dias, a contar de sua publicação.
+
+
+Art. 14.
+
+Esta lei entrará em vigor a partir da data de sua publicação, revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE CORBÉLIA
+
+Em 04 de dezembro de 1967.
+
+JOÃO FRANCISCO MATTEI
+
+Prefeito Municipal
+
+Não substitui o texto publicado no Diário Oficial.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/528/ta
+

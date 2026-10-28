@@ -1,0 +1,83 @@
+---
+titulo: "DECRETO EXECUTIVO-PMEPF nº 782, de 24 de fevereiro de 2026"
+tipo: "Decreto"
+tipo_na_fonte: "DECRETO EXECUTIVO"
+numero: "782"
+data: "2026-02-24"
+municipio: "Engenheiro Paulo de Frontin"
+uf: "RJ"
+codigo_ibge: "3301801"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/2550"
+fonte_texto: "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/2221/text"
+sha256_fonte: "44a36180a245340ae04930bfac26bbd6e61afc109df23a8209c88affdff448ac"
+sha256_texto: "ed54fda15646c9b5a5d15147a5e8d6fd449efe7ab20887903b434f5c137e0d18"
+capturado_em_fonte: "2026-10-28T10:30:32.581080-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+observacao_fonte: "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 25/02/2026. Edição 4068b A verificação de autenticidade da matéria pode ser feita informando o código identificador no site: https://www.diariomunicipal.com.br/aemerj/"
+fonte_metadados: "https://sapl.engenheiropaulodefrontin.rj.leg.br/api/norma/normajuridica/2550/"
+sha256_metadados_fonte: "5e6cb2776064995b8427ae274b4806e7805ce4af24ecd6bcf1e95b1be90fb24b"
+---
+
+# DECRETO EXECUTIVO-PMEPF nº 782, de 24 de fevereiro de 2026
+
+O Prefeito Municipal de Engenheiro Paulo de Frontin, José Emmanoel Rodrigues Artemenko, no uso de suas atribuições legais e, consoante autorização contida na Lei Municipal Nº 1762 de 30 de dezembro de 2025 (Lei Orçamentária Anual),
+
+
+DECRETA:
+
+
+Art. 1º.
+
+Fica aberto crédito adicional suplementar ao orçamento vigente, no valor de R$319.746,78 (Trezentos e dezenove mil, setecentos e quarenta e seis reais e setenta e oito centavos), para reforço das seguintes dotações:
+
+
+Desp Org Un Função Sub-Função Programa Proj/ Ativ Elemento de despesa Fonte Valor R$  
+7 02 016 08 244 4001 2401 3.3.90.30.00.00.00.00 1.500.0000 100.000,00  
+10 02 016 08 244 4001 2401 3.3.90.36.00.00.00.00 1.500.0000 102.000,00  
+08 02 016 08 244 4001 2401 3.3.90.32.00.00.00.00 1.500.0000 50.000,00  
+24 04 001 08 244 4003 2405 3.1.90.04.00.00.00.00 1.660.0000 37.746,78  
+41 04 001 08 244 4005 2415 3.3.90.30.00.00.00.00 1.660.00.00 20.000,00  
+62 04 001 08 244 4008 2413 3.3.90.30.00.00 1.661.00.00 10.000,00
+
+
+Art. 2º.
+
+Os recursos orçamentários para dar cobertura ao crédito adicional suplementar é advindo da anulação das despesas das categorias econômicas, com fulcro no artigo 43 § 1º, inciso III da Lei Federal Nº 4.320/1964, como segue:
+
+
+Desp. Org. Un Função Sub-Função Programa Proj/ Ativ Elemento de Despesa Fonte Valor R$  
+02 02 016 08 244 4001 2401 3.1.90.11.00.00.00.00 1.500.00.00 154.955,17  
+03 02 016 08 244 4001 2401 3.1.90.13.00.00.00.00 1.500.00.00 15.044.83  
+14 02 016 08 244 4001 2401 4.4.90.52.00.00.00.00 1.500.0000 12.441,50  
+4 02 016 08 244 4001 2401 3.1.90.91.00.00.00.00 1.500.0000 12.441,50  
+11 02 016 08 244 4001 2401 3.3.90.39.00.00.00.00 1.500.0000 23.872,85  
+09 02 016 08 244 4001 2401 3.3.90.33.00.00.00.00 1.500.00.00 1.244,15  
+13 02 016 08 244 4001 2401 3.3.90.92.00.00.00.00 1.500.00.00 22.000,00  
+05 02 016 08 244 4001 2401 3.1.90.94.00.00.00.00 1.500.00.00 10.000,00  
+25 04 001 08 244 4003 2405 3.1.90.11.00.00.00.00 1.660.00.00 2.430,00  
+26 04 001 08 244 4003 2405 3.3.90.14.00.00.00.00 1.660.00.00 3.110,38  
+28 04 001 08 244 4003 2405 3.3.90.36.00.00.00.00 1.660.00.00 2.300,00  
+29 04 001 08 244 4003 2405 3.3.90.39.00.00.00.00 1.660.00.00 10.000,00  
+30 04 001 08 244 4003 2405 4.4.90.52.00.00.00.00 1.660.00.00 19.906,40  
+44 04 001 08 244 4005 2415 4.4.90.52.00.00.00 1.660,00.00 10.000,00  
+43 04 001 08 244 4005 2415 3.3.90.39.00.00.00 1.660.00.00 10.000,00  
+63 04 001 08 244 4008 2413 3.3.90.36.00.00.00.00 1.661.00.00 10.000,00
+
+
+Art. 3º.
+
+Este Decreto entra em vigor na data de sua publicação produzindo seus efeitos a partir de 24 de fevereiro de 2026, revogadas as disposições em contrário.
+
+
+Engenheiro Paulo de Frontin, 24 de fevereiro de 2026.
+
+
+JOSÉ EMMANOEL RODRIGUES ARTEMENKO
+
+
+Prefeito Municipal
+

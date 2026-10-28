@@ -1,0 +1,130 @@
+---
+titulo: "LEI ORDINÁRIA-CMC nº 878, de 22 de agosto de 2000"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "878"
+data: "2000-08-22"
+municipio: "Claraval"
+uf: "MG"
+codigo_ibge: "3116407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.claraval.mg.leg.br/norma/1242"
+fonte_texto: "https://sapl.claraval.mg.leg.br/ta/572/text"
+sha256_fonte: "23627be22e37eff5c6a73f98d361097c0d31ffd02281eb8453dd7d53782af8b1"
+sha256_texto: "aedbfc53b1e7371e9b8c07a2ce03739721f846c59a73b1ef7a05bd10cba50be1"
+capturado_em_fonte: "2026-10-27T23:05:49.293511-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA-CMC nº 878, de 22 de agosto de 2000
+
+"Dispõe sobre a instituição de CONTROLE INTERNO em atos da Administração Municipal e dá outras providências."
+
+
+LUIZ GONZAGA CINTRA, Prefeito Municipal de Claraval, Estado de Minas Gerais, em pleno exercício do seu cargo e usando das atribuições que lhe são conferidas por Lei, FAZ SABER, que a Câmara Municipal local APROVOU e ele, em seu nome, SANCIONA e PROMULGA a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o SISTEMA DE CONTROLE INTERNO DO MUNICÍPIO DE CLARAVAL, com o objetivo de realizar o controle preventivo em todos os atos e fatos administrativos que gerem despesas e arrecadação de receitas para o Município, e as seguintes finalidades:
+
+
+I –
+
+orientar, acompanhar, fiscalizar e avaliar a gestão orçamentária, financeira, patrimonial e operacional dos órgãos da Administração Direta e Indireta, com vistas à ampliação regular e à utilização dos recursos e bens públicos;
+
+
+II –
+
+elaborar, apreciar e submeter ao Prefeito Municipal, estudos, propostas de diretrizes, programas e ações que objetivem racionalização da execução da despesa e o aperfeiçoamento da gestão orçamentária, financeira e patrimonial, no âmbito da arrecadação das receitas orçadas;
+
+
+III –
+
+acompanhar a execução física e financeira dos projetos e atividades, bem como da aplicação, sob qualquer forma, dos recursos públicos;
+
+
+IV –
+
+avaliar o cumprimento das metas previstas no Plano Plurianual, a execução dos programas de governo e dos orçamentos do Município;
+
+
+V –
+
+comprovar a legalidade e avaliar os resultados, quanto à eficácia e eficiência, da gestão orçamentária, financeira e patrimonial nos órgãos, fundos e entidades da Administração Municipal, bem como da aplicação de recursos por entidades de direito privado;
+
+
+VI –
+
+subsidiar os responsáveis pela elaboração de planos, orçamentos e programação financeira, com informações e avaliações relativas à gestão dos órgãos da Administração Municipal;
+
+
+VII –
+
+executar os trabalhos de inspeção nas diversas áreas e órgãos constitutivos do Poder Executivo;
+
+
+VIII –
+
+verificar e certificar as contas dos responsáveis pela aplicação, utilização ou guarda de bens e valores públicos, e de todo aquele que por ação ou omissão, der causa à perda, subtração ou estrago de valores, bens e materiais de propriedade ou responsabilidade do Município;
+
+
+IX –
+
+tomar contas dos responsáveis por bens e valores, inclusive do Prefeito Municipal ao final de sua gestão, quando não prestados voluntariamente;
+
+
+X –
+
+emitir relatório, por ocasião do encerramento do exercício, sobre as contas e balanço geral do Município, e nos casos de inspeções, verificação e tomada de contas;
+
+
+XI –
+
+zelar pela organização e manutenção atualizada dos cadastros dos responsáveis por dinheiro, valores e bens públicos, o controle de estoque, almoxarifado, controle de patrimônio, controle de abastecimento, de manutenção de veículos e máquinas, obras, convênios, controle de atendimento à assistência social, assim como dos órgãos e entidades sujeitos à auditoria pelo Tribunal de Contas do Estado;
+
+
+XII –
+
+exercer o controle das operações de créditos, avais e garantias, bem como dos direitos e haveres do Município; e
+
+
+XIII –
+
+apoiar o controle externo no exercício de sua missão institucional.
+
+
+Art. 2º.
+
+Fica instituída a COMISSÃO DE CONTROLE INTERNO DO MUNICÍPIO DE CLARAVAL, composta de "AGENTES DE CONTROLE INTERNO", que serão servidores da Administração Municipal, a serem designados mediante emissão de Portaria Municipal, sem ônus adicionais para o Município e que serão instruídos para executarem o controle preventivo proposto.
+
+
+§ 1º
+
+Caberá aos "AGENTES DO CONTROLE INTERNO", além das finalidades estabelecidas no Artigo 1º, a responsabilidade de conferir rigorosamente e à luz das recomendações legais, se as rotinas de trabalho a serem estipuladas em Portaria Municipal, estão sendo cor retamente cumpridas.
+
+
+§ 2º
+
+O controle preventivo a ser realizado não exime o ordenador da despesa de sua total responsabilidade com relação aos pagamentos a serem efetuados, sendo que o mesmo deve analisá-los antes de efetuá-los, de acordo com a legislação pertinente.
+
+
+Art. 3º.
+
+As despesas com a instalação do controle interno correrão à conta de dotações constantes do orçamento vigente, especial as previstas junto ao Setor de ADMINISTRAÇÃO, PLANEJAMENTO E FINANÇAS.
+
+
+Art. 4º.
+
+Revogadas as disposições em contrário, entrando a presente Lei em vigor na data de sua publicação.
+
+
+Claraval, 22 de agosto de 2000.
+
+Luiz Gonzaga Cintra
+
+Prefeito Municipal
+

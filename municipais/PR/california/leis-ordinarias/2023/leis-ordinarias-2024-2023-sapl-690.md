@@ -1,0 +1,116 @@
+---
+titulo: "Lei Ordinária Municipal nº 2.024, de 21 de setembro de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "2024"
+data: "2023-09-21"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/690"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/622/text"
+sha256_fonte: "5fe14dc82c9472df7b3fd0833dd0ed11ca4d20eeb70005f103b7ee8fffcf9154"
+sha256_texto: "38fbaa5658eab3f65dfdda81358e85b9b67734007d11edc330b8e17618e73d0d"
+capturado_em_fonte: "2026-10-27T22:21:16.285701-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 2.024, de 21 de setembro de 2023
+
+ESTIMA A RECEITA E FIXA A DESPESA DO MUNICÍPIO DE CALIFÓRNIA, ESTADO DO PARANÁ, PARA O EXERCÍCIO FINANCEIRO DE 2024 E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O Prefeito do Município de Califórnia, Estado do Paraná, Senhor Paulo Wilson Mendes, faz saber, que a Câmara Municipal aprovou e ele, com vistas ao ordenamento Jurídico vigente sanciona a seguinte LEI:
+
+
+Art. 1º.
+
+Esta Lei estima a receita e fixa a despesa do Município de Califórnia, para o exercício de 2024, compreendendo:
+
+
+I –
+
+O orçamento fiscal referente aos Poderes Legislativo e Executivo, seus Órgãos e Fundos da Administração Pública Municipal;
+
+
+Art. 2º.
+
+O Orçamento do Município de Califórnia para o Exercício de 2024 estima a receita em R$ 44.800.199,01 (quarenta e quatro milhões, oitocentos mil, cento e noventa e nove reais e um centavo), e fixa a despesa para o Poder Legislativo em R$ 1.893.000,00 (um milhão, oitocentos e noventa e três mil reais) e para o Poder Executivo em R$ 42.907.199,01 (quarenta e dois milhões, novecentos e sete mil, cento e noventa e nove reais e um centavo).
+
+
+Art. 3º.
+
+A Receita será realizada de acordo com a legislação específica em vigor, segundo as seguintes estimativas:
+
+
+<table><tbody><tr><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>VALOR</strong></p></td></tr><tr><td><p><strong>RECEITAS CORRENTES</strong></p></td><td><p><strong>43.575.299,01</strong></p></td></tr><tr><td><p>Impostos, Taxas e Contribuições de Melhorias</p></td><td><p>R$ 4.184.865,00</p></td></tr><tr><td><p>Contribuições</p></td><td><p>R$ 550.150,00</p></td></tr><tr><td><p>Receita Patrimonial</p></td><td><p>R$ 423.733,00</p></td></tr><tr><td><p>Transferências Correntes</p></td><td><p>R$ 41.192.513,72</p></td></tr><tr><td><p>Transferências Correntes (-) Deduções FUNDEB</p></td><td><p>R$ 2.820.338,33</p></td></tr><tr><td><p>Outras Transferências Correntes</p></td><td><p>R$ 44.375,62</p></td></tr><tr><td><p><strong>RECEITAS DE CAPITAL</strong></p></td><td><p><strong>1.225.000,00</strong></p></td></tr><tr><td><p>Alienação de Bens</p></td><td><p>R$ 920.000,00</p></td></tr><tr><td><p>Transferências de Capital</p></td><td><p>R$ 305.000,00</p></td></tr><tr><td><p><strong>TOTAL</strong></p></td><td><p><strong>44.800.299,01</strong></p></td></tr></tbody></table>
+
+
+Art. 4º.
+
+A Despesa do Orçamento Fiscal será realizada segundo a discriminação prevista na legislação em vigor, conforme o seguinte demonstrativo por órgãos:
+
+
+<table><tbody><tr><td><p>01. 001 - PODER LEGISLATIVO</p></td><td><p>R$ 1.893.000,00</p></td></tr><tr><td><p>02. 001 – GABINETE DO PREFEITO</p></td><td><p>R$ 283.500,00</p></td></tr><tr><td><p>02. 002 – ASSESSORIA JURÍDICA</p></td><td><p>R$ 252.500,00</p></td></tr><tr><td><p>02. 003 – ASSESSERIA DE PLANEJAMENTO E CONTROLE</p></td><td><p>R$ 388.500,00</p></td></tr><tr><td><p>03. 004 – DEPARTAMENTO DE RECURSOS HUMANOS</p></td><td><p>R$ 287.700,00</p></td></tr><tr><td><p>03. 005 – DEPARTAMENTO ARREC. TRIBUT. E FISC.</p></td><td><p>R$ 219.500,00</p></td></tr><tr><td><p>03. 004 – DEPARTAMENTO DE CONTABILIDADE</p></td><td><p>R$ 2.596.960,00</p></td></tr><tr><td><p>03. 007 – DEPARTAMENTO DE TESOURARIA</p></td><td><p>R$ 156.500,00</p></td></tr><tr><td><p>03. 008 – DEPART. DE COMPRAS, ALMOX. PATRIMÔNIO</p></td><td><p>R$ 223.500,00</p></td></tr><tr><td><p>03. 009 – DEPARTAMENTO DE ADMINISTRAÇAO</p></td><td><p>R$ 2.360.925,00</p></td></tr><tr><td><p>04. 010 – DEPART DE OBRAS E SERV. PÚBLICOS</p></td><td><p>R$ 3.552.405,00</p></td></tr><tr><td><p>04. 011 – DEPARTAMENTO DE TRANSPORTE</p></td><td><p>R$ 1.407.000,00</p></td></tr><tr><td><p>04. 012 – DEPART. URBANISMO E INFRAESTRUTURA</p></td><td><p>R$ 913.100,00</p></td></tr><tr><td><p>05. 013 – SECRETARIA DE SAÚDE</p></td><td><p>R$ 10.324.895,00</p></td></tr><tr><td><p>06. 014 – SECRET DE ASSISTENCIA SOCIAL</p></td><td><p>R$ 622.000,00</p></td></tr><tr><td><p>06. 015 – FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL</p></td><td><p>R$ 1.125.464,72</p></td></tr><tr><td><p>06. 027 – FUNDO MUNICIPAL DO IDOSO</p></td><td><p>R$ 120.600,00</p></td></tr><tr><td><p>06. 028 – FUNDO MUNICIPAL DA CRIANÇA E DO ADOLES</p></td><td><p>R$ 261.172,00</p></td></tr><tr><td><p>07. 017 – DEPARTAMENTO DE EDUCACAO</p></td><td><p>R$ 14.320.756,67</p></td></tr><tr><td><p>08. 020 – DEPARTAMENTO DE HABITACAO</p></td><td><p>R$ 722.000,00</p></td></tr><tr><td><p>09. 021– DEPART. FOMEN. AGROPEC. E MEIO AMBIENTE</p></td><td><p>R$ 743.470,62</p></td></tr><tr><td><p>09. 022 – DEPARTAMENTO DE INDÚSTRIA E COMÉRCIO</p></td><td><p>R$ 20.000,00</p></td></tr><tr><td><p>10.023 – DEPART. INFORMAÇÃO, TECNOL.E COMUNICAÇ.</p></td><td><p>R$ 213.750,00</p></td></tr><tr><td><p>11.024 – DEPARTAMENTO DE ESPORTE E LAZER</p></td><td><p>R$ 561.000,00</p></td></tr><tr><td><p>12.025 – DEPARTAMENTO DE CULTURA E TURISMO</p></td><td><p>R$ 540.000,00</p></td></tr><tr><td><p>99.999 – RESERVA DE CONTINGENCIA</p></td><td><p>R$ 693.000,00</p></td></tr><tr><td><p><strong>TOTAL GERAL DA DESPESA DO MUNICÍPIO</strong></p></td><td><p><strong>44.800.299,01</strong></p></td></tr></tbody></table>
+
+
+Art. 5º.
+
+Fica o poder Executivo e Legislativo Municipal respeitado as demais prescrições constitucionais e nos termos da Lei Federal n° 4.320/64, autorizado a:
+
+
+I –
+
+Abrir no curso da execução orçamentária de 2024, créditos adicionais suplementares até o limite de 30% do total da despesa fixada por essa Lei;
+
+
+II –
+
+A utilizar recursos à conta de reserva de Contingência, nas situações previstas no artigo 5°, inciso III da Lei Complementar n° 101/2000, Lei de Responsabilidade Fiscal – LRF e artigo 8° da Portaria Interministerial n° 163 de 04 de maio de 2001;
+
+
+III –
+
+Realizar abertura de créditos suplementares provenientes do superávit financeiro apurado em balanço patrimonial do exercício anterior, na forma do artigo 43, parágrafo 1°, inciso I e parágrafo 2° da Lei 4.320/64;
+
+
+IV –
+
+Realizar abertura de créditos suplementares provenientes do excesso de arrecadação nas respectivas fontes de recursos vinculados, quando saldo positivo das diferenças acumuladas mês a mês entre a arrecadação prevista e a realizada for efetivamente comprovado, considerando-se ainda a tendência da ocorrência de arrecadação no exercício, na forma do artigo 43, parágrafo 1°, inciso II e parágrafo 3° da Lei 4.320/64;
+
+
+V –
+
+Abrir no curso da execução do orçamento de 2024, créditos adicionais suplementares para cobrir despesas vinculadas a fonte de recursos específicos, cujo recebimento, no exercício tenha excedido a previsão de arrecadação e execução;
+
+
+VI –
+
+Na abertura dos créditos adicionais de que se trata o inciso I, fica autorizado a efetuar a transposição, remanejamento ou transferência de dotações, total ou parcial, de um para outros órgãos e categoria de programação, dentro da respectiva esfera de governo, nos termos do inciso VI do art. 167 da Constituição Federal.
+
+
+Art. 6º.
+
+Fica também autorizado o Executivo e o Legislativo Municipal, não sendo computados para fins do limite de que trata o inciso I do artigo anterior, a compensação, o remanejamento e a criação de fontes de recursos ordinários, vinculados ou próprios dos Projetos/ Atividades/ Operações Especiais e Obras, sem lhes alterar o valor global da dotação orçada e dos acréscimos oriundos da abertura de créditos adicionais legalmente autorizados, para fins de compatibilização com a efetiva disponibilidade de recursos.
+
+
+Art. 7º.
+
+A abertura de créditos autorizados nos incisos III e IV do artigo 5° desta Lei não será considerada para fins do limite da autorização constante do inciso I do mesmo artigo 5°.
+
+
+Art. 8º.
+
+Esta Lei entrará em vigor na data de sua publicação e produzirá efeitos a partir de 01 de janeiro de 2024, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Califórnia – PR, em 21 de setembro de 2023.
+
+***PAULO WILSON MENDES***
+
+Prefeito
+

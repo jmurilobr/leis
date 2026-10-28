@@ -1,0 +1,70 @@
+---
+titulo: "Lei Ordinária nº 7.511, de 20 de fevereiro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "7511"
+data: "2025-02-20"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/8261"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/2768/text"
+sha256_fonte: "48e9f1e217d7ad11becc5c2f34b8887a2f4edf2a779b284669171242d3ec8299"
+sha256_texto: "2209e5d2137d04e0a45d935d3a174763cb11784af65e5d1d9b2ce29d92de634a"
+capturado_em_fonte: "2026-10-27T17:49:37.389655-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 7.511, de 20 de fevereiro de 2025
+
+AUTORIZA O MUNICÍPIO DE BIRIGUI A ABRIR CRÉDITO ADICIONAL ESPECIAL NA LEI Nº 7.491/2024 – LEI ORÇAMENTÁRIA DE 2025, NA LEI Nº 7.435/2024 – LEI DE DIRETRIZES ORÇAMENTÁRIAS DE 2025 E NA LEI Nº 7.067/2021 – PLANO PLURIANUAL-PPA DE 2022 A 2025 E ALTERAÇÕES, E PROVIDÊNCIAS CORRELATAS.  
+Projeto de Lei nº 17/2025, de autoria da Prefeita Municipal.
+
+
+Eu, **SAMANTA PAULA ALBANI BORINI**, Prefeita Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,
+
+FAÇO SABER que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a abrir por decreto, crédito adicional especial na Lei nº 7.067/2021 – PPA 2022/2025 e alterações, na Lei nº 7.435/2024 – LDO de 2025 e alterações e na Lei nº 7.491/2024 – Lei Orçamentária de 2025, com as seguintes classificações contábeis:
+
+
+<table><tbody><tr><td>02.11.00:</td><td>SECRETARIA MUNICIPAL DE EDUCAÇÃO</td></tr><tr><td>FUNÇÃO:</td><td>12 - Educação</td></tr><tr><td>SUB-FUNÇÃO:</td><td>364 – Ensino Superior</td></tr><tr><td>PROGRAMA:</td><td>0014 – Educação Complementar</td></tr><tr><td>ATIVIDADE:</td><td>2.139 – Emenda Parlamentar - FUMDEB</td></tr><tr><td colspan="2"> </td></tr><tr><td>Elemento Econômico:</td><td>3.3.90.30.00 – Material de Consumo</td></tr><tr><td>Fonte de Recurso:</td><td>02 – Transferências e Convênios Estaduais - Vinculados</td></tr><tr><td>Valor:</td><td>R$ 36.600,00 (Trinta e Seis Mil e Seiscentos Reais)</td></tr><tr><td colspan="2"> </td></tr><tr><td>Elemento Econômico:</td><td>4.4.90.52.00 – Equipamentos e Material Permanente</td></tr><tr><td>Fonte de Recurso:</td><td>02 – Transferências e Convênios Estaduais - Vinculados</td></tr><tr><td>Valor:</td><td>R$ 63.400,00 (Sessenta e Três Mil e Quatrocentos Reais)</td></tr></tbody></table>
+
+
+Art. 2º.
+
+O crédito adicional especial autorizado no artigo 1º desta Lei, correrá à conta de recursos especificados no art. 43, § 1º, inciso I, da Lei Federal nº 4.320, de 17 de março de 1964, combinado com o disposto no parágrafo único do art. 8º da Lei Federal Complementar 101/00, por **SUPERAVIT FINANCEIRO** apurado no fechamento do exercício anterior, depositado no Banco do Brasil - Agência 0348-4 conta nº 104128-2 – BANCO DO BRASIL - EP 2023.060.50469 – FATEB, vínculo 02.801.0014.
+
+
+Art. 3º.
+
+As alterações constantes nesta Lei, serão efetuadas concomitantemente no PPA - Plano Plurianual 2022 a 2025 e na LDO - Lei de Diretrizes Orçamentárias, para o exercício corrente.
+
+
+Art. 4º.
+
+As dotações incluídas na presente Lei poderão ser suplementadas, se necessário, através de Decreto do Executivo Municipal até o limite de vinte porcento do presente crédito.
+
+
+Art. 5º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Birigui, aos vinte de fevereiro de dois mil e vinte e cinco.
+
+**SAMANTA PAULA ALBANI BORINI Prefeita Municipal**
+
+**PAULO REBECCHI Secretário Municipal de Planejamento e Finanças**
+
+Publicada na Secretaria de Municipal de Governo da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**JAQUELINE MORAES SILVA FERNANDES Secretária Adjunta de Governo**
+

@@ -1,0 +1,182 @@
+---
+titulo: "Lei nº 804, de 30 de junho de 1999"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "804"
+data: "1999-06-30"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/1027"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/1667/text"
+sha256_fonte: "804731afcb3e77e005ca47ec6bb77442f4e865670e2fc893234fbac1d5b5fbfe"
+sha256_texto: "634acb07ee9b7c04f20ad480dd25cfa4605a43e0eed58172e721e7a5badbcb25"
+capturado_em_fonte: "2026-10-27T20:24:17.137567-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 804, de 30 de junho de 1999
+
+Regulamenta as formas e condições do sistema de propaganda volante e dá outras providências.
+
+
+O Prefeito municipal de Buritis, Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 61 da Lei Orgânica do Município, faz saber que a câmara municipal decreta e ele, em seu nome, sanciona e promulga a seguinte lei:
+
+
+Art. 1º.
+
+Esta lei regulamenta as formas e condições para a realização de propaganda volante no perímetro urbano da sede do município.
+
+
+Art. 2º.
+
+A realização de propaganda volante, por qualquer meio, através de veículos de qualquer tipo, far-se-á mediante licença prévia do Poder Público Municipal, nos termos dos artigos da lei 692/96 - Código de Posturas do Município de Buritis.
+
+
+Art. 3º.
+
+As pessoas físicas, empresas, órgãos públicos, partidos políticos, prestadores de serviços ou ambulantes, fixados ou não no Município, que se utilizarem, em caráter permanente ou eventual, dos serviços de propaganda volante, nos termos do artigo anterior, solicitarão previamente ao Poder Público licença para utilização dos serviços.
+
+
+Parágrafo único
+
+Sem prejuízo do disposto do Código de Posturas, o requerimento somente será recebido se instruído com os seguintes documentos e informações, entre outros exigidos pelo órgão competente:
+
+
+I –
+
+no caso de pessoas físicas, empresas, órgãos públicos, prestadores de serviços e outros:
+
+
+a)
+
+contrato social;
+
+
+b)
+
+inscrição no cadastro geral de contribuintes do Ministério da fazenda;
+
+
+c)
+
+inscrição no cadastro de pessoas físicas;
+
+
+d)
+
+prova de regularidade jurídico fiscal;
+
+
+e)
+
+período de veiculação da propaganda;
+
+
+f)
+
+área de abrangência da divulgação;
+
+
+g)
+
+horários da propaganda, observado o disposto nesta lei;
+
+
+h)
+
+potência do sistema de som utilizado.
+
+
+II –
+
+no caso de ambulantes, fixados ou não no município, além dos documentos e informações previstos no inciso anterior, os dados pessoais do responsável, inclusive naturalidade, domicílio, identidade, além de prova da procedência dos produtos comercializados.
+
+
+Art. 4º.
+
+O valor da taxa de licença de que tratam os artigos 2º e 3º desta lei é o fixado na legislação tributária municipal.
+
+
+Art. 5º.
+
+A propaganda volante somente será permitida nos horários das 07:30 às 11:30 e de 13:00 às 18:00 horas, diariamente.
+
+
+Art. 6º.
+
+Os veículos ou outros instrumentos de propaganda volante guardarão distância mínima de 200 metros de hospitais, escolas, clínicas de repouso, órgãos públicos, igrejas e templos, destes dois últimos quando estiver ocorrendo respectivamente missas ou cultos, impondo-se o automático desligamento de todo o sistema de som envolvido na divulgação.
+
+
+Art. 7º.
+
+As penalidades decorrentes da desobediência às disposições desta lei comportam:
+
+
+I –
+
+multa de 100 UFIR (Unidade Fiscal de Referência) pela realização de propaganda volante sem prévia autorização do Poder Público;
+
+
+II –
+
+multa de 100 UFIR (Unidade Fiscal de Referência) pela realização de propaganda em volume superior ao permitido na legislação aplicável;
+
+
+III –
+
+multa de 100 UFIR (Unidade Fiscal de Referência) pela realização de propaganda em locais e horários não previstos em lei;
+
+
+IV –
+
+apreensão do veículo e das mercadorias comercializadas, se for o caso, na hipótese de reincidência;
+
+
+V –
+
+detenção do motorista ou do responsável pelo veículo no caso de reiterada desobediência aos preceitos desta lei.
+
+
+Parágrafo único
+
+As multas previstas neste artigo são cumulativas e não isentam o infrator das sanções penais e da obrigação de reparar o dano resultante da infração, se for o caso, na forma da lei civil.
+
+
+Art. 8º.
+
+A propaganda volante realizada por caminhões ou outros veículos com exposição de produtos, especialmente frutas, verduras e produtos manufaturados somente lhes será permitida se atendidos os requisitos estabelecidos no art. 4º e ainda mediante prévia inspeção pela vigilância sanitária, das condições dos produtos comercializados.
+
+
+Art. 9º.
+
+No caso de partidos políticos e exclusivamente no período e horários fixados na legislação eleitoral específica, serão exigidas apenas as informações relacionadas no art. 3º, parágrafo único, I, "f" e "h" desta lei, não se lhes aplicando a regra estabelecida no art. 5º.
+
+
+Art. 10.
+
+Nos comunicados de falecimento e correlato, a cargo de imprensa funerária, ou de pessoa física, não serão exigidas as informações e documentos previstos nesta lei, exceto a que se refere o art. 3º, parágrafo único, I, "h", não se lhes aplicando a regra estabelecida no art. 5º.
+
+
+Parágrafo único
+
+Os comunicados de que trata o artigo anterior obedecem a rito sumário para concessão da licença, e estão isentos da taxa de que trata o art. 4º desta lei.
+
+
+Art. 11.
+
+Revogadas as disposições em contrário, esta lei entra em vigor na data de sua publicação.
+
+
+Buritis - MG, 30 de junho de 1999.
+
+**Pe. José Vicente Damasceno Prefeito Municipal**
+
+**Clarindo F. Filho Assessor Jurídico**
+
+Projeto lei nº 010/99, de 22/06/99. Aprovado em votação única, por 09 x 00. Sala das sessões, 28.06.99.
+

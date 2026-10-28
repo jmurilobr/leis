@@ -1,0 +1,48 @@
+---
+titulo: "DELIBERAÇÃO Nº 357, DE 4 DE JULHO DE 2018"
+orgao: "Ministério dos Transportes, Portos e Aviação Civil/Agência Nacional de Transportes Terrestres/Diretoria Colegiada"
+tipo: "Deliberação"
+numero: "357"
+data: 2018-07-04
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 06/07/2018, seção 1, p. 169"
+data_publicacao: 2018-07-06
+edicao: "129"
+fonte: "https://www.in.gov.br/web/dou/-/deliberacao-n-357-de-4-de-julho-de-2018-28980137"
+sha256_html_fonte: 1f6358a6ce2016cfaceec85b374979341163ea322f2df79fd4eda71877804002
+baixado_em: 2026-10-27
+---
+# DELIBERAÇÃO Nº 357, DE 4 DE JULHO DE 2018
+
+DELIBERAÇÃO Nº 357, DE 4 DE JULHO DE 2018
+
+A Diretoria Colegiada da Agência Nacional de Transportes Terrestres - ANTT, no uso de suas atribuições, sobretudo no que lhe confere o inciso XIX ao art. 24 da Lei nº 10.233, de 5 de junho de 2001; tendo em vista o disposto no art. 3º e art; 5º, alíneas "h" e "i", do Decreto-Lei n.º 3.365, de 21 de junho de 1941; art. 29, incisos VIII e IX, e art. 31, inciso VI, da Lei nº 8.987, de 13 de fevereiro de 1995; fundamentada no Voto DMV - 176, de 27 de junho de 2018, e no que consta do Processo nº 50500.850535/2018-07, delibera:
+
+**Art. 1º** Declarar de utilidade pública, para efeito de desapropriação, em favor da União, os bens imóveis alcançados pelas coordenadas planas a seguir descritas, as quais definem as poligonais de utilidade pública necessárias à execução da obra de implantação de dispositivo tipo diamante no km 270+100m da Rodovia BR-050/GO, no município de Catalão/GO:
+
+<table><tr></tr><tr><td><p>QUADRO DE COORDENADAS</p></td></tr><tr><td><p>TÍTULO DA OBRA:</p></td><td><p>INTERSEÇÃO TIPO DIAMANTE NO 270+100- BR-050/GO - ÁREAS 01, 02, 03, 04 E 05.</p></td></tr><tr><td><p>SISTEMA GEODÉSICO DE REFERÊNCIA:</p></td><td><p>SIRGAS 2000</p></td></tr><tr><td><p>FUSO(S):</p></td><td><p>23K</p></td></tr><tr><td><p>SISTEMA DE COORDENADAS:</p></td><td><p>UTM</p></td></tr></table>
+
+<table><tr></tr><tr><td><p>PERÍMETRO 01</p></td></tr><tr><td><p>PONTOS</p></td><td><p>COORDENADAS UTM</p></td><td><p>AZIMUTE</p></td><td><p>DISTÂNCIA (m)</p></td><td><p>ÁREA DA POLIGONAL DE DUP (m²)</p></td></tr><tr><td></td><td><p>N</p></td><td><p>E</p></td><td></td><td></td><td></td></tr><tr><td><p>A</p></td><td><p>7.995.435,891</p></td><td><p>194.447,481</p></td><td><p>211º53'9,40"</p></td><td><p>87,99</p></td><td><p>8183,83</p></td></tr><tr><td><p>B</p></td><td><p>7.995.361,179</p></td><td><p>194.401,002</p></td><td><p>210º10'22,30"</p></td><td><p>25,13</p></td><td></td></tr><tr><td><p>C</p></td><td><p>7.995.339,453</p></td><td><p>194.388,372</p></td><td><p>192º3'17,35"</p></td><td><p>35,699</p></td><td></td></tr><tr><td><p>D</p></td><td><p>7.995.304,541</p></td><td><p>194.380,916</p></td><td><p>173º41'31,20"</p></td><td><p>25,889</p></td><td></td></tr><tr><td><p>E</p></td><td><p>7.995.278,809</p></td><td><p>194.383,760</p></td><td><p>162º58'39,45"</p></td><td><p>17,703</p></td><td></td></tr><tr><td><p>F</p></td><td><p>7.995.261,881</p></td><td><p>194.388,943</p></td><td><p>152º30'1,80"</p></td><td><p>44,983</p></td><td></td></tr><tr><td><p>G</p></td><td><p>7.995.221,981</p></td><td><p>194.409,713</p></td><td><p>266º28'9,51"</p></td><td><p>131,205</p></td><td></td></tr><tr><td><p>H</p></td><td><p>7.995.213,901</p></td><td><p>194.278,758</p></td><td><p>37º14'11,83"</p></td><td><p>278,832</p></td><td></td></tr></table>
+
+<table><tr></tr><tr><td><p>PERÍMETRO 02</p></td></tr><tr><td><p>PONTOS</p></td><td><p>COORDENADAS UTM</p></td><td><p>AZIMUTE</p></td><td><p>DISTÂNCIA (m)</p></td><td><p>ÁREA DA POLIGONAL DE DUP (m²)</p></td></tr><tr><td></td><td><p>N</p></td><td><p>E</p></td><td></td><td></td><td></td></tr><tr><td><p>A</p></td><td><p>7.995.128,040</p></td><td><p>194.214,154</p></td><td><p>86º43'55,67"</p></td><td><p>53,390</p></td><td><p>4018,46</p></td></tr><tr><td><p>B</p></td><td><p>7.995.131,083</p></td><td><p>194.267,456</p></td><td><p>237º3'15,03"</p></td><td><p>40,022</p></td><td></td></tr><tr><td><p>C</p></td><td><p>7.995.109,318</p></td><td><p>194.233,871</p></td><td><p>217º37'53,90"</p></td><td><p>55,736</p></td><td></td></tr><tr><td><p>D</p></td><td><p>7.995.065,177</p></td><td><p>194.199,839</p></td><td><p>222º41'12,40"</p></td><td><p>43,446</p></td><td></td></tr><tr><td><p>E</p></td><td><p>7.995.033,241</p></td><td><p>194.170,383</p></td><td><p>225º18'21,94"</p></td><td><p>40,289</p></td><td></td></tr><tr><td><p>F</p></td><td><p>7.995.004,905</p></td><td><p>194.141,743</p></td><td><p>278º37'58,84"</p></td><td><p>19,623</p></td><td></td></tr><tr><td><p>G</p></td><td><p>7.995.007,851</p></td><td><p>194.122,342</p></td><td><p>37º22'33,12"</p></td><td><p>151,244</p></td><td></td></tr></table>
+
+<table><tr></tr><tr><td><p>PERÍMETRO 03</p></td></tr><tr><td><p>PONTOS</p></td><td><p>COORDENADAS UTM</p></td><td><p>AZIMUTE</p></td><td><p>DISTÂNCIA (m)</p></td><td><p>ÁREA DA POLIGONAL DE DUP (m²)</p></td></tr><tr><td></td><td><p>N</p></td><td><p>E</p></td><td></td><td></td><td></td></tr><tr><td><p>A</p></td><td><p>7.995.375,832</p></td><td><p>194.301,349</p></td><td><p>217º14'11,91"</p></td><td><p>63,014</p></td><td><p>1571,45</p></td></tr><tr><td><p>B</p></td><td><p>7.995.325,663</p></td><td><p>194.263,219</p></td><td><p>305º57'12,62"</p></td><td><p>51,997</p></td><td></td></tr><tr><td><p>C</p></td><td><p>7.995.356,192</p></td><td><p>194.221,127</p></td><td><p>77º33'19,19"</p></td><td><p>27,749</p></td><td></td></tr><tr><td><p>D</p></td><td><p>7.995.362,172</p></td><td><p>194.248,224</p></td><td><p>78º15'35,55"</p></td><td><p>31,343</p></td><td></td></tr><tr><td><p>E</p></td><td><p>7.995.368,550</p></td><td><p>194.278,912</p></td><td><p>72º1'8,76"</p></td><td><p>23,589</p></td><td></td></tr></table>
+
+<table><tr></tr><tr><td><p>PERÍMETRO 04</p></td></tr><tr><td><p>PONTOS</p></td><td><p>COORDENADAS UTM</p></td><td><p>AZIMUTE</p></td><td><p>DISTÂNCIA (m)</p></td><td><p>ÁREA DA POLIGONAL DE DUP (m²)</p></td></tr><tr><td></td><td><p>N</p></td><td><p>E</p></td><td></td><td></td><td></td></tr><tr><td><p>A</p></td><td><p>7.995.325,663</p></td><td><p>194.263,219</p></td><td><p>217º14'11,81"</p></td><td><p>177,076</p></td><td><p>8250,38</p></td></tr><tr><td><p>B</p></td><td><p>7.995.184,686</p></td><td><p>194.156,069</p></td><td><p>13º2'48,24"</p></td><td><p>32,51</p></td><td></td></tr><tr><td><p>C</p></td><td><p>7.995.216,357</p></td><td><p>194.163,408</p></td><td><p>356º54'23,39"</p></td><td><p>42,285</p></td><td></td></tr><tr><td><p>D</p></td><td><p>7.995.258,580</p></td><td><p>194.161,126</p></td><td><p>0º58'15,66"</p></td><td><p>29,516</p></td><td></td></tr><tr><td><p>E</p></td><td><p>7.995.288,092</p></td><td><p>194.161,626</p></td><td><p>13º8'52,12"</p></td><td><p>25,772</p></td><td></td></tr><tr><td><p>F</p></td><td><p>7.995.313,189</p></td><td><p>194.167,488</p></td><td><p>25º13'39,39"</p></td><td><p>16,33</p></td><td></td></tr><tr><td><p>G</p></td><td><p>7.995.327,961</p></td><td><p>194.174,448</p></td><td><p>38º20'15,99"</p></td><td><p>11,654</p></td><td></td></tr><tr><td><p>H</p></td><td><p>7.995.337,102</p></td><td><p>194.181,677</p></td><td><p>45º58'2,43"</p></td><td><p>10,415</p></td><td></td></tr><tr><td><p>I</p></td><td><p>7.995.344,341</p></td><td><p>194.189,165</p></td><td><p>63º9'20,36"</p></td><td><p>9,308</p></td><td></td></tr><tr><td><p>J</p></td><td><p>7.995.348,545</p></td><td><p>194.197,470</p></td><td><p>67º20'44,81"</p></td><td><p>13,372</p></td><td></td></tr><tr><td><p>K</p></td><td><p>7.995.353,695</p></td><td><p>194.209,811</p></td><td><p>77º33'19,19"</p></td><td><p>11,589</p></td><td></td></tr><tr><td><p>L</p></td><td><p>7.995.356,192</p></td><td><p>194.221,127</p></td><td><p>125º57'12,62"</p></td><td><p>51,997</p></td><td></td></tr></table>
+
+<table><tr></tr><tr><td><p>PERÍMETRO 05</p></td></tr><tr><td><p>PONTOS</p></td><td><p>COORDENADAS UTM</p></td><td><p>AZIMUTE</p></td><td><p>DISTÂNCIA (m)</p></td><td><p>ÁREA DA POLIGONAL DE DUP (m²)</p></td></tr><tr><td></td><td><p>N</p></td><td><p>E</p></td><td></td><td></td><td></td></tr><tr><td><p>A</p></td><td><p>7.995.004,905</p></td><td><p>194.141,743</p></td><td><p>225º18'21,94"</p></td><td><p>50,181</p></td><td><p>719,33</p></td></tr><tr><td><p>B</p></td><td><p>7.994.969,612</p></td><td><p>194.106,070</p></td><td><p>241º36'21,17"</p></td><td><p>25,053</p></td><td></td></tr><tr><td><p>C</p></td><td><p>7.994.957,698</p></td><td><p>194.084,031</p></td><td><p>37º22'33,09"</p></td><td><p>63,111</p></td><td></td></tr><tr><td><p>D</p></td><td><p>7.995.007,851</p></td><td><p>194.122,342</p></td><td><p>98º37'58,84"</p></td><td><p>19,623</p></td><td></td></tr></table>
+
+<table><tr></tr><tr><td><p>ÁREA TOTAL</p></td><td><p>22.743,45</p></td></tr></table>
+
+**Art. 2º** Fica a MGO - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S/A autorizada a promover as desapropriações necessárias à execução da obra referenciada pelo art. 1º, na forma da legislação e regulamentos vigentes.
+
+**Parágrafo único.** A MGO - CONCESSIONÁRIA DE RODOVIAS MINAS GERAIS GOIÁS S/A fica autorizada a invocar o caráter de urgência no processo de desapropriação de que trata o caput, para fins de imissão na posse, nos termos do art. 15 do Decreto-Lei nº 3.365, de 21 de junho de 1941.
+
+**Art. 3º** A declaração de utilidade pública não exime a concessionária da obtenção dos licenciamentos e do cumprimento das obrigações junto às entidades ambientais e demais órgãos da administração pública, necessários à efetivação das obras.
+
+**Art. 4º** Esta Deliberação entra em vigor na data de sua publicação, e não terá eficácia sobre bens de propriedade de Estados e Municípios que eventualmente estejam localizados nas poligonais indicadas no art. 1º.
+
+MARIO RODRIGUES JUNIOR
+
+Diretor-Geral

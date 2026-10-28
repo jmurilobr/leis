@@ -1,0 +1,3260 @@
+---
+titulo: "Lei Ordinária nº 6.086, de 11 de abril de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "6086"
+data: "2025-04-11"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/5292"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/1358/text"
+sha256_fonte: "905c4aa8f0308c9a5eae4f99a800f94ba8022a46069b89224f6cbc0951cac14a"
+sha256_texto: "3268795f2c2024452368c67da48bce833020eb7a0d5cb494ffa80a922991df8b"
+capturado_em_fonte: "2026-10-27T17:18:23.582980-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 6.086, de 11 de abril de 2025
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI N° 6086, DE 11 DE ABRIL DE 2025.
+
+
+"Dispõe sobre o Sistema Único de Assistência Social do Município de Barra Mansa e dá outras providências."
+
+
+#### CAPÍTULO I — DAS DEFINIÇÕES E DOS OBJETIVOS
+
+
+Art. 1º.
+
+A Assistência Social, direito do cidadão e dever do Estado, é Política de Seguridade Social não contributiva, que provê os mínimos sociais, realizada através de um conjunto integrado de ações de iniciativa pública e da sociedade, para garantir o atendimento às necessidades básicas.
+
+
+Art. 2º.
+
+A Política de Assistência Social do Município de Barra Mansa, encontra-se embasada na Lei n.º 8.742/93 e Resolução n.° 033/2012 que aprovou a Norma Operacional Básica da Assistência Social - NOB/SUAS, e tem por objetivos:
+
+
+I –
+
+a proteção social, que visa à garantia da vida, à redução de danos e à prevenção da incidência de riscos, especialmente:
+
+
+a)
+
+a proteção à família, à maternidade, à infância, à adolescência e à velhice;
+
+
+b)
+
+o amparo às crianças e aos adolescentes carentes;
+
+
+c)
+
+a promoção da integração ao mercado de trabalho;
+
+
+d)
+
+a habilitação e reabilitação das pessoas com deficiência e a promoção de sua integração à vida comunitária;
+
+
+II –
+
+a Vigilância Socioassistencial, que visa a analisar territorialmente a capacidade protetiva das famílias e nela a ocorrência de vulnerabilidades, de ameaças, de vitimizações e danos;
+
+
+III –
+
+a defesa de direitos, que visa a garantir o pleno acesso aos direitos no conjunto das provisões socioassistenciais;
+
+
+IV –
+
+participação da população, por meio de organizações representativas, na formulação das políticas e no controle de ações em todos os níveis;
+
+
+V –
+
+primazia da responsabilidade do ente político na condução da Política de Assistência Social em cada esfera de governo; e
+
+
+VI –
+
+centralidade na família para concepção e implementação dos benefícios, serviços, programas e projetos, tendo como base o território.
+
+
+Parágrafo único
+
+Para o enfrentamento da pobreza, a assistência social realiza-se de forma integrada às políticas setoriais visando universalizar a proteção social e atender às contingências sociais.
+
+
+#### CAPÍTULO II — DOS PRINCÍPIOS E DIRETRIZES
+
+
+##### Seção I — DOS PRINCÍPIOS
+
+
+Art. 3º.
+
+A política pública de assistência social de Barra Mansa, rege-se pelos seguintes princípios:
+
+
+I –
+
+universalidade: todos têm direito à proteção socioassistencial, prestada a quem dela necessitar, com respeito à dignidade e à autonomia do cidadão, sem discriminação de qualquer espécie ou comprovação vexatória da sua condição;
+
+
+II –
+
+gratuidade: a assistência social deve ser prestada sem exigência de contribuição ou contrapartida, observado o que dispõe o art. 35, da Lei Federal n° 10.741, de 1° de outubro de 2003 - Estatuto do Idoso;
+
+
+III –
+
+integralidade da proteção social: oferta das provisões em sua completude, por meio de conjunto articulado de serviços, programas, projetos e beneficios socioassistenciais;
+
+
+IV –
+
+intersetorialidade: integração e articulação da rede socioassistencial com as demais políticas e órgãos setoriais de defesa de direitos e Sistema de Justiça;
+
+
+V –
+
+equidade: respeito às diversidades regionais, culturais, socioeconômicas, políticas e territoriais, priorizando aqueles que estiverem em situação de vulnerabilidade e risco pessoal e social.
+
+
+VI –
+
+supremacia do atendimento às necessidades sociais sobre as exigências de rentabilidade econômica;
+
+
+VII –
+
+universalização dos direitos sociais, a fim de tornar o destinatário da ação assistencial alcançável pelas demais políticas públicas;
+
+
+VIII –
+
+respeito à dignidade do cidadão, à sua autonomia e ao seu direito a benefícios e serviços de qualidade, bem como à convivência familiar e comunitária, vedando-se qualquer comprovação vexatória de necessidade;
+
+
+IX –
+
+igualdade de direitos no acesso ao atendimento, sem discriminação de qualquer natureza, garantindo-se equivalência às populações urbanas e rurais;
+
+
+X –
+
+divulgação ampla dos benefícios, serviços, programas e projetos socioassistenciais, bem como dos recursos oferecidos pelo Poder Público e dos critérios para sua concessão.
+
+
+Parágrafo único
+
+O SUAS do Município de Barra Mansa considerará as especificidades das dimensões étnico racial, de gênero, de diversidade sexual, religiosa e cultural, para implementação e aplicação de sua política.
+
+
+##### Seção II — DAS DIRETRIZES
+
+
+Art. 4º.
+
+A organização da assistência social no Município de Barra Mansa observará as seguintes diretrizes:
+
+
+I –
+
+primazia da responsabilidade do Estado na condução da política de assistência social em cada esfera de governo;
+
+
+II –
+
+descentralização político-administrativa e comando único em cada esfera de gestão;
+
+
+III –
+
+cofinanciamento partilhado dos entes federados;
+
+
+IV –
+
+matricialidade sociofamiliar;
+
+
+V –
+
+territorialização;
+
+
+VI –
+
+controle social e participação social;
+
+
+VII –
+
+fortalecimento da relação democrática entre Estado e Sociedade Civil;
+
+
+VIII –
+
+participação popular e controle social, por meio de organizações representativas, na formulação das políticas e no controle das ações em todos os níveis;
+
+
+Parágrafo único
+
+A organização da assistência social do município para efetivar-se enquanto garantia de direitos, deverá trabalhar em consonância com a seguridade social na busca da intersetorialidade para efetivação das ações em rede e com demais políticas públicas.
+
+
+#### CAPÍTULO III — DA GESTÃO E ORGANIZAÇÃO DA POLITICA MUNICIPAL DE ASSISTÊNCIA SOCIAL NO MUNICÍPIO DE BARRA MANSA PELO SUAS
+
+
+##### Seção I — DA GESTÃO
+
+
+Art. 5º.
+
+A gestão das ações na área de assistência social no Município de Barra Mansa será organizada sob a forma de sistema descentralizado e participativo, denominado Sistema Único de Assistência Social -SUAS, conforme estabelece a Lei Federal n°8.742, de 7 de dezembro de 1993, cujas normas gerais e coordenação competem a União.
+
+
+Parágrafo único
+
+O Suas do Município de Barra Mansa será integrado pelos entes federativos, pelo Conselho Municipal de Assistência Social, pelo Fundo Municipal de Assistência Social, e pelas entidades e organizações de assistência social abrangidas pela Lei Federal n° 8.742, de 1993.
+
+
+Art. 6º.
+
+O Município de Barra Mansa atuará de forma articulada com as esferas federal e estadual, observadas as normas gerais do SUAS, cabendo-lhe coordenar, Co financiar e executar os serviços, programas, projetos, benefícios socioassistenciais em seu âmbito, conforme a Lei Federal n° 8.742, de 1993.
+
+
+Art. 7º.
+
+O órgão gestor da política de assistência social no Município de Barra Mansa é a Secretaria Municipal de Assistência Social e Direitos Humanos/SMASDH.
+
+
+§ 1º
+
+O SUAS de Barra Mansa será gerido pela Secretaria Municipal de Assistência Social e Direitos Humanos/SMASDH, que obedecendo as diretrizes da LOAS, terá descentralização político-administrativa, comando único das ações, participação da população por meio de organizações representativas, na formulação das políticas e no controle de suas ações, com primazia da responsabilidade na condução desta política municipal.
+
+
+§ 2º
+
+O Decreto que disciplinará a estrutura administrativa da SMASDH no município deverá prever todos os seus cargos, por meio de órgãos, assessorias, departamentos, divisões, setores de atendimento e inclusive os equipamentos públicos socioassistenciais que serão constituídos organicamente de servidores públicos.
+
+
+§ 3º
+
+O SUAS de Barra Mansa será operacionalizado por meio de um conjunto de ações, programas, projetos e serviços prestados, preferencialmente, em unidades próprias do Município, por órgão da administração pública local responsável pela coordenação da Política Municipal de Assistência Social.
+
+
+§ 4º
+
+As ações, serviços, programas e projetos poderão ser executados em parceria com as entidades não governamentais de assistência social que integrem a rede socioassistencial, conforme Marco Regulatório vigente.
+
+
+§ 5º
+
+São usuários da Política de Assistência Social, prioritariamente, cidadãos e grupos, com estratégias e alternativas diferenciadas de sobrevivência que possam representar situações de risco pessoal e social.
+
+
+§ 6º
+
+São trabalhadores do SUAS todos aqueles que atuam institucionalmente na Política de Assistência Social, conforme preconizado na LOAS, na PNAS, na NOB/SUAS e NOB/RH-SUAS, inclusive quando se tratar de consórcios intermunicipais e Organizações de Assistência Social.
+
+
+§ 7º
+
+Cada programa ou projeto do SUAS Municipal, será discutido com participação dos Gestores das Unidades, que deverá submetê-los à aprovação do CMAS, antes de serem divulgados.
+
+
+§ 8º
+
+Todo equipamento do SUAS/BM terá mecanismos destinados a avaliar o grau de satisfação do usuário com os serviços prestados, bem como espaços de fala e avaliação dos serviços com presença de gestores, servidores e usuários.
+
+
+##### Seção II — DOS INSTRUMENTOS DE GESTÃO
+
+
+Art. 8º.
+
+Os instrumentos de gestão são ferramentas de planejamento técnico e financeiro do SUAS Barra Mansa, tendo como referência o diagnóstico social e os eixos de proteção social básica e especial, sendo eles: Plano Municipal de Assistência Social; Orçamento; Monitoramento, Avaliação e Gestão da Informação e Relatório Anual de Gestão, conforme especificação da NOBSUAS.
+
+
+Art. 9º.
+
+A SMASDH organizará o Sistema de Vigilância Socioassistencial, Monitoramento e Avaliação da Assistência Social de Barra Mansa com a responsabilidade de:
+
+
+I –
+
+produzir e sistematizar informações, indicadores e índices territorializados das situações de vulnerabilidade e risco social e pessoal que incidem sobre famílias e/ou pessoas nos diferentes ciclos de vida;
+
+
+II –
+
+criar uma matriz de indicadores que permita avaliar a eficiência e eficácia das ações previstas no Plano Municipal de Assistência Social;
+
+
+III –
+
+dar divulgação aos resultados do Plano Municipal de Assistência Social;
+
+
+IV –
+
+realizar estudos, pesquisas e diagnósticos;
+
+
+V –
+
+monitorar e avaliar os padrões e a qualidade dos serviços da assistência social, em especial dos abrigos, para os diversos segmentos etários.
+
+
+§ 1º
+
+Entende-se por situações de vulnerabilidade social e pessoal as que decorrem de perda ou fragilidade de vínculos de afetividade, pertencimento e sociabilidade; ciclos de vida; identidades estigmatizadas em termos étnico, cultural e sexual; desvantagem pessoal resultante de deficiências e doenças crônicas; exclusão pela pobreza e/ou no acesso às demais políticas públicas; uso de substâncias psicoativas; diferentes formas de violência advinda do núcleo familiar, grupos e indivíduos; inserção precária ou não inserção no mercado formal e informal; estratégias e alternativas diferenciadas de sobrevivência que podem representar risco pessoal e social.
+
+
+§ 2º
+
+O setor responsável pelo Sistema de Vigilância Socioassistencial, Monitoramento e Avaliação da Assistência Social de Barra Mansa deverá ser estruturado com uma equipe multiprofissional e com sistemas informacionais compatíveis a consecução do disposto no caput deste artigo.
+
+
+Art. 10.
+
+O setor responsável pelo Sistema de Vigilância Socioassistencial, Monitoramento e Avaliação da Assistência Social de Barra Mansa terá um Coordenador constituído por servidor efetivo, de nível superior, com formação em ciências humanas e/ou sociais.
+
+
+Parágrafo único
+
+O servidor referido neste artigo fará jus ao recebimento de gratificação conforme legislação vigente.
+
+
+Art. 11.
+
+O relatório de gestão destina-se a sintetizar e divulgar informações sobre os resultados obtidos e sobre a probidade dos gestores do SUAS às instâncias formais do SUAS, ao Poder Legislativo, ao Ministério Público e à Sociedade como um todo.
+
+
+§ 1º
+
+O relatório de gestão deve avaliar o cumprimento das realizações, dos resultados ou dos produtos, obtido em função das metas prioritárias, estabelecidas no Plano de Assistência Social e consolidado em um Plano de Ação Anual.
+
+
+§ 2º
+
+A aplicação dos recursos financeiros em cada exercício anual deverá ser elaborada pelos gestores e submetida ao Conselho Municipal de Assistência Social de Barra Mansa - CMAS para aprovação.
+
+
+##### Seção III — DA GESTÃO DO TRABALHO NO SUAS
+
+
+Art. 12.
+
+São responsabilidades e atribuições da SMASDH para a gestão do trabalho no âmbito do SUAS, conforme a NOB-RH/SUAS:
+
+
+I –
+
+destinar recursos financeiros para a área, compor os quadros do trabalho específicos e qualificados por meio da realização de concursos públicos;
+
+
+II –
+
+instituir e designar, em sua estrutura administrativa, setor, coordenação e equipe responsável pela gestão do trabalho no SUAS;
+
+
+III –
+
+elaborar um diagnóstico da situação de gestão do trabalho existente em sua área de atuação;
+
+
+IV –
+
+contribuir com a esfera Federal, Estadual e demais municípios na definição e organização do Cadastro Nacional dos Trabalhadores do SUAS;
+
+
+V –
+
+contribuir com a esfera Federal, Estadual e demais municípios na definição e organização do Cadastro Nacional dos Trabalhadores do SUAS;
+
+
+VI –
+
+aplicar Cadastro Nacional dos Trabalhadores do SUAS, em sua base territorial, considerando seus equipamentos e também entidades/organizações de assistência social e os serviços, programas, projetos e beneficios existentes;
+
+
+VII –
+
+elaborar Plano de Capacitação para os servidores da Secretaria Municipal de Assistência Social e Direitos Humanos, de acordo com a Política Nacional de Educação Permanente do SUAS (Resolução CNAS nº 04, de 13 de março de 2013);
+
+
+VIII –
+
+elaborar Plano de Cargos, Carreiras e Salários, em conjunto com os trabalhadores do SUAS, conforme plano de carreira do Munícipio.
+
+
+§ 1º
+
+O setor responsável pela Gestão do Trabalho deve ser estruturado com uma equipe multiprofissional e sistemas informacionais compatíveis à consecução do disposto no caput deste artigo;
+
+
+§ 2º
+
+O setor responsável de Gestão do Trabalho terá um Coordenador constituído por servidor efetivo, de nível superior, com formação em ciências humanas e/ou sociais.
+
+
+§ 3º
+
+O servidor referido no $2.° deste artigo fará jus ao recebimento de gratificação, conforme legislação vigente.
+
+
+Art. 13.
+
+Cabe ao Município assegurar os recursos humanos necessários ao funcionamento do SUAS Barra Mansa, em conformidade com a legislação vigente.
+
+
+Art. 14.
+
+Os trabalhadores da assistência social das instituições parceiras abrangidas pelo SUAS Barra Mansa deverão ter formação e titulação, conforme disposição da NOB-RH ou legislação pertinente.
+
+
+Art. 15.
+
+Fica instituído o Programa de Educação Permanente em Assistência Social com o objetivo de contribuir para o constante aperfeiçoamento, qualificação е formação profissional dos trabalhadores governamentais e não governamentais e conselheiros que atuam no SUAS Barra Mansa.
+
+
+§ 1º
+
+O setor responsável pelo Programa de Educação Permanente em Assistência Social deve ser estruturado com uma equipe multiprofissional, sistemas informacionais compatíveis à consecução do disposto no caput deste artigo;
+
+
+§ 2º
+
+O setor responsável pelo Programa de Educação Permanente em Assistência Social terá um Coordenador constituído por servidor efetivo e/ou cargo comissionado, de nível superior, com formação em ciências humanas e/ou sociais.
+
+
+§ 3º
+
+O Programa de Educação Permanente em Assistência Social de que trata este artigo deverá ser desenvolvido em parceria com a Coordenação de Gestão do Trabalho e com outros centros de formação.
+
+
+##### Seção IV — DA ORGANIZAÇÃO
+
+
+Art. 16.
+
+O Sistema Único de Assistência Social no âmbito do Município Barra Mansa organiza-se pelos seguintes tipos de proteção:
+
+
+I –
+
+proteção social básica: conjunto de serviços, programas, projetos e benefícios da assistência social que visa a prevenir situações de vulnerabilidade e risco social, por meio de aquisições e do desenvolvimento de potencialidades e do fortalecimento de vínculos familiares e comunitários;
+
+
+II –
+
+proteção social especial: é a modalidade de atendimento assistencial destinada proteção de famílias e indivíduos que se encontram em situação de risco pessoal e social, por ocorrência de abandono, maus tratos fisicos e, ou, psíquicos, abuso sexual, uso de substâncias psicoativas, cumprimento de medidas socioeducativas, situação de rua, situação de trabalho infantil, entre outras; contemplando o conjunto efetivo de serviços, programas e projetos que tem por objetivo a reconstrução de vínculos familiares e comunitários, a defesa de direitos, o fortalecimento das potencialidades.
+
+
+Parágrafo único
+
+A proteção social especial abrange a proteção especial de média complexidade e alta complexidade.
+
+
+Art. 17.
+
+A proteção social básica compõem-se precipuamente dos seguintes serviços socioassistenciais, nos termos da Tipificação Nacional dos Serviços Socioassistenciais (Resolução n.° 109, de 11/11/2009 - Resolução n.° 01, de 21/02/2013 - Resolução n.° 13, de 13/05/2014), sem prejuízo de outros que vierem a ser instituídos:
+
+
+I –
+
+Serviço de Proteção e Atendimento Integral à Família - PAIF;
+
+
+II –
+
+Serviço de Convivência e Fortalecimento de Vínculos - SCFV;
+
+
+III –
+
+Serviço de Proteção Social Básica no Domicílio para Pessoas com Deficiência e Idosas;
+
+
+IV –
+
+Serviço de Proteção Social Básica executado por Equipe Volante;
+
+
+Parágrafo único
+
+O PAIF deve ser ofertado exclusivamente no Centro de Referência de Assistência Social-CRAS.
+
+
+Art. 18.
+
+A proteção social especial de média e alta complexidade ofertará precipuamente os seguintes serviços socioassistenciais, nos termos da Tipificação Nacional dos Serviços Socioassistenciais, sem prejuízo de outros que vierem a ser instituídos:
+
+
+I –
+
+proteção social especial de média complexidade ofertará serviços de atendimentos às famílias e indivíduos com seus direitos violados, mas cujo vinculo familiar e comunitário não tenha sido rompido. Terá estruturação técnica-operacional e atenção especializada e individualizada, e, ou, de acompanhamento sistemático e monitorado, tais como:
+
+
+a)
+
+Serviço de Proteção e Atendimento Especializado a Famílias e Indivíduos - PAEFI;
+
+
+b)
+
+Serviço Especializado de Abordagem Social;
+
+
+c)
+
+Serviço de Proteção Social a Adolescentes em Cumprimento de Medida Socioeducativa de Liberdade Assistida e de Prestação de Serviços à Comunidade;
+
+
+d)
+
+Serviço de Proteção Social Especial para Pessoas com Deficiência, Idosas e suas Famílias;
+
+
+e)
+
+Serviço Especializado para Pessoas em Situação de Rua;
+
+
+II –
+
+proteção social especial de alta complexidade ofertará serviços de proteção integral (moradia, alimentação, higienização e trabalho protegido), para famílias e indivíduos que se encontram sem referência e, ou, em situação de ameaça, que necessitem ser retirados de seu núcleo familiar e, ou, comunitário, tais como:
+
+
+a)
+
+Serviço de Acolhimento Institucional;
+
+
+b)
+
+Serviço de Acolhimento em República;
+
+
+c)
+
+Serviço de Acolhimento em Família Acolhedora;
+
+
+d)
+
+Serviço de Proteção em Situações de Calamidades Públicas e de Emergências.
+
+
+Parágrafo único
+
+O PAEFI deve ser ofertado exclusivamente no Centro de Referência Especializado de Assistência Social - CREAS.
+
+
+Art. 19.
+
+As proteções sociais básica e especial serão ofertadas pela rede socioassistencial, de forma integrada, diretamente pelos entes públicos e pelas entidades e organizações de assistência social vinculadas ao SUAS de Barra Mansa, devidamente inscritas no Conselho Municipal de Assistência Social (CMAS), respeitadas as especificidades de cada serviço, programa ou projeto socioassistencial.
+
+
+§ 1º
+
+Considera-se rede socioassistencial o conjunto integrado da oferta de serviços, programas, projetos e benefícios de assistência social mediante a articulação entre todas as unidades do SUAS.
+
+
+§ 2º
+
+A vinculação ao SUAS é o reconhecimento pela União, em colaboração com Município, de que a entidade de assistência social integra a rede socioassistencial.
+
+
+Art. 20.
+
+As proteções sociais, básica e especial do SUAS de Barra Mansa serão ofertadas precipuamente no Centro de Referência de Assistência Social -CRAS, no Centro de Referência Especializado de Assistência Social - CREAS, respectivamente, respeitada as especificidades de cada serviço, programa ou projeto socioassistencial.
+
+
+Art. 21.
+
+O CRAS é a unidade pública municipal, de base territorial, localizada em áreas com maiores índices de vulnerabilidade e risco social, destinada à articulação dos serviços socioassistenciais no seu território de abrangência e à prestação de serviços, programas e projetos socioassistenciais de proteção social básica às famílias, conforme a NOB/SUAS-2012.
+
+
+I –
+
+Compete aos CRAS:
+
+
+a)
+
+responsabilizar-se pela gestão territorial da proteção social básica;
+
+
+b)
+
+executar prioritariamente o PAIF e outros programas, benefícios e serviços de proteção social básica, que tenham como foco a família e seus membros nos diferentes ciclos de vida;
+
+
+c)
+
+elaborar diagnósticos socioterritorial e identificar necessidades de serviços, mediante estatísticas oficiais, banco de dados da vigilância social da Secretaria de Assistência Social e Direitos Humanos, diálogo com os profissionais da área e lideranças comunitárias, banco de dados de outros serviços socioassistenciais ou setoriais, organizações não governamentais, conselhos de direitos e de políticas e grupos sociais;
+
+
+d)
+
+organizar e coordenar a rede local de serviços socioassistenciais, agregando todos os atores sociais do território no enfrentamento das diversas expressões da questão social;
+
+
+e)
+
+articular, no âmbito dos territórios, os serviços, benefícios, programas e projetos de proteção social básica da SMASDH, por meio dos coletivos territoriais;
+
+
+f)
+
+trabalhar em estreita articulação com os demais serviços e equipamentos da rede socioassistencial do território;
+
+
+g)
+
+assegurar acesso ao Cadastro Único a todas as famílias em situação de vulnerabilidade do território;
+
+
+h)
+
+manter atualizado o cadastro de famílias integrantes do Cadastro Único como condição de acesso ao Programa Bolsa Família
+
+
+i)
+
+incluir as famílias do Programa Bolsa Família e outros Programas de Transferência de Renda nos diversos serviços prestados pelos CRAS, em especial nos serviços de inclusão produtiva;
+
+
+j)
+
+pré-habilitar idosos e pessoas com deficiência, conforme artigo 20 da Lei Federal n° 8.742, de 07 de dezembro de 1993 - Lei Orgânica de Assistência Social - LOAS, para o recebimento do Benefício de Prestação Continuada - BPC e, cuidando da inclusão destes sujeitos nos programas, projetos e serviços socioassistenciais;
+
+
+k)
+
+identificar, entre os beneficiários do BPC até 18 anos, aqueles que estão na escola e aqueles que estão fora da escola; identificar as principais barreiras para o acesso e a permanência na escola das pessoas com deficiência beneficiárias do BPC; desenvolver estudos e estratégias conjuntas para superação dessas barreiras; e manter acompanhamento sistemático das ações e programas dos entes federados que aderirem ao programa BPC na Escola (Portaria Normativa Interministerial n° 18, de 24 de abril de 2007);
+
+
+l)
+
+conceder benefícios eventuais assegurados pela LOAS e pelo Município, cuidando de incluir as famílias beneficiárias nos programas, projetos e serviços socioassistenciais;
+
+
+m)
+
+participar dos espaços de articulação das políticas sociais e fortalecer suas iniciativas no sentido de construir a intersetorialidade no Município;
+
+
+n)
+
+participar de processos de desenvolvimento local, com acompanhamento, apoio, assessoria e formação de capital humano e capital social local;
+
+
+o)
+
+promover ampla divulgação dos direitos socioassistenciais nos territórios, bem como dos programas, projetos, serviços e beneficios visando assegurar acesso a eles;
+
+
+p)
+
+emitir laudos e pareceres sempre que solicitado pelo Sistema de Garantia de Direitos dentro do seu nível de proteção;
+
+
+q)
+
+atuar como "porta de entrada" das famílias em situação de insegurança alimentar e nutricional visando assegurar-lhes Direito Humano à Alimentação Adequada - DHAA;
+
+
+r)
+
+realizar busca ativa das famílias, sempre que necessário, visando assegurar-lhes o acesso aos direitos socioassistenciais.
+
+
+§ 1º
+
+CRAS observarão o Protocolo de Gestão Integrada entre Benefícios e Serviços aprovado na Resolução nº 7 de 10 de setembro de 2009, da Comissão Intergestores Tripartite - CIT, assim como outros protocolos e instrumentos que vierem a ser firmados no âmbito da política de assistência social.
+
+
+§ 2º
+
+Novos CRAS poderão ser criados, em territórios extensos, com grande contingente populacional e com grave situação de vulnerabilidade social demonstrados por estudos diagnósticos e com aprovação do Conselho Municipal de Assistência Social - CMAS, de acordo com o princípio da proximidade dos serviços para garantia do acesso aos cidadãos.
+
+
+§ 3º
+
+A Secretaria Municipal de Assistência Social e Direitos Humanos/SMASDH implantará unidade móvel denominada CRAS itinerante para atender prioritariamente os territórios com maior densidade populacional.
+
+
+§ 4º
+
+Cada CRAS terá um Coordenador constituído por servidor efetivo e/ou comissionado, de nível superior, com formação em ciências humanas e/ou sociais.
+
+
+§ 5º
+
+O servidor referido no §4.° deste artigo fará jus ao recebimento de gratificação, conforme legislação vigente.
+
+
+Art. 22.
+
+O CREAS é a unidade pública de abrangência e gestão municipal, estadual ou regional, destinada à prestação de serviços a indivíduos e famílias que se encontram em situação de risco pessoal ou social, por violação de direitos ou contingência, que demandam intervenções especializadas da proteção social especial, conforme determina a NOB/SUA-2012.
+
+
+I –
+
+Compete aos CREAS:
+
+
+a)
+
+proporcionar apoio e acompanhamento especializado de forma individualizada ou em grupo a famílias e indivíduos;
+
+
+b)
+
+atender às famílias com crianças, adolescentes e outros membros em acolhimento institucional e familiar:
+
+
+c)
+
+acompanhar os adolescentes em cumprimento de medidas socioeducativas de Liberdade Assistida - LA e/ou de Prestação de Serviços à Comunidade - PSC;
+
+
+d)
+
+organizar e operar a vigilância social no município garantindo atenção e encaminhamentos a famílias e indivíduos com direitos violados;
+
+
+e)
+
+contribuir para o envolvimento e participação dos usuários nos movimentos de defesa e promoção de direitos;
+
+
+f)
+
+organizar encontros de famílias usuárias, fortalecendo-as enquanto espaço de proteção social;
+
+
+g)
+
+operar a referência eacontrarreferência com a rede de serviços socioassistenciais da proteção básica e especial;
+
+
+h)
+
+promover a articulação com as demais políticas públicas, com as instituições que compõem o Sistema de Garantia de Direitos com os movimentos sociais;
+
+
+i)
+
+emitir laudos e pareceres sempre que solicitado pelo Sistema de Garantia de Direitos dentro do seu nível de proteção;
+
+
+j)
+
+acionar os órgãos do Sistema de Garantia de Direitos sempre que necessário visando à responsabilização por violações de direitos.
+
+
+§ 1º
+
+Novos CREAS poderão ser criados, conforme a necessidade do município, por meio de estudos diagnósticos e/ou demanda crescente.
+
+
+§ 2º
+
+Cada CREAS terá um Coordenador constituído por servidor efetivo e/ou cargo comissionado, de nível superior, com formação em ciências humanas e/ou sociais.
+
+
+§ 3º
+
+O servidor referido no §2.° deste artigo fará jus ao recebimento de gratificação, conforme legislação vigente.
+
+
+§ 4º
+
+Os CRAS e os CREAS são unidades públicas estatais instituídas no âmbito do SUAS, que possuem interface com as demais políticas públicas, a fim de especificamente, articularem, coordenarem e ofertarem os serviços, programas, projetos e benefícios da assistência social.
+
+
+Art. 23.
+
+A implantação das unidades de CRAS e CREAS deve observar as diretrizes da:
+
+
+I –
+
+territorialização - oferta capilar de serviços baseada na lógica da proximidade do cotidiano de vida do cidadão e com o intuito de desenvolver seu caráter preventivo e educativo nos territórios de maior vulnerabilidade e risco social;
+
+
+II –
+
+universalização - a fim de que a proteção social básica seja prestada na totalidade dos territórios do município;
+
+
+III –
+
+regionalização - prestação de serviços socioassistenciais de proteção social especial cujos custos ou ausência de demanda municipal justifiquem rede regional e desconcentrada de serviços no âmbito do Estado.
+
+
+Art. 24.
+
+As unidades públicas estatais instituídas pela Secretaria Municipal de Assistência Social e Direitos Humanos (SMASDH) no âmbito do SUAS de Barra Mansa, deverão integrar a estrutura administrativa do Município de Barra Mansa, quais sejam:
+
+
+I –
+
+CRAS;
+
+
+II –
+
+CREAS;
+
+
+II –
+
+Centro POP;
+
+
+III –
+
+Centros Dia;
+
+
+IV –
+
+Casas Lares;
+
+
+V –
+
+Residências Inclusivas;
+
+
+VI –
+
+Serviços de Acolhimento;
+
+
+VI –
+
+Repúblicas;
+
+
+§ 1º
+
+As instalações das unidades públicas estatais devem ser compatíveis com os serviços neles ofertados, com espaços para trabalhos em grupo e ambientes específicos para recepção e atendimento reservado das famílias e indivíduos, assegurada a acessibilidade às pessoas idosas e com deficiência.
+
+
+§ 2º
+
+As ofertas socioassistenciais nas unidades públicas pressupõem a constituição de equipe de referência na forma das Resoluções n.° 269, de 13/12/2006; n.°17, de 20/06/2011; e 09, de 25/04/2014, ambas do CNAS.
+
+
+Art. 25.
+
+O diagnóstico socioterritorial e os dados de Vigilância Socioassistencial são fundamentais para a definição da forma de oferta da proteção social básica e especial de modo a garantir as seguranças afiançadas pelo SUAS:
+
+
+I –
+
+acolhida: provida por meio da oferta pública de espaços e serviços para a realização da proteção social básica e especial, devendo as instalações físicas e a ação profissional conter:
+
+
+a)
+
+condições de recepção;
+
+
+b)
+
+escuta profissional qualificada;
+
+
+c)
+
+informação;
+
+
+d)
+
+referência;
+
+
+e)
+
+concessão de benefícios;
+
+
+f)
+
+aquisições materiais e sociais;
+
+
+g)
+
+abordagem em territórios de incidência de situações de risco;
+
+
+h)
+
+oferta de uma rede de serviços e de locais de permanência de indivíduos e famílias sob curta, média e longa permanência.
+
+
+II –
+
+renda: operada por meio da concessão de auxílios financeiros e da concessão de benefícios continuados, nos termos da lei, para cidadãos não incluídos no sistema contributivo de proteção social, que apresentem vulnerabilidades decorrentes do ciclo de vida e/ou incapacidade para a vida independente e para o trabalho;
+
+
+III –
+
+convívio ou vivência familiar, comunitária e social: exige a oferta pública de rede continuada de serviços que garantam oportunidades e ação profissional para:
+
+
+a)
+
+construção, restauração e o fortalecimento de laços de pertencimento, de natureza geracional, intergeracional, familiar, de vizinhança e interesses comuns e societários;
+
+
+b)
+
+o exercício capacitador e qualificador de vínculos sociais e projetos pessoais e sociais de vida em sociedade.
+
+
+IV –
+
+desenvolvimento de autonomia: exige ações profissionais e sociais para:
+
+
+a)
+
+o desenvolvimento de capacidades e habilidades para o exercício da participação social e cidadania;
+
+
+b)
+
+a conquista de melhores graus de liberdade, respeito à dignidade humana, protagonismo e certeza de proteção social para o cidadão, a família e a sociedade;
+
+
+c)
+
+conquista de maior grau de independência pessoal e qualidade, nos laços sociais, para os cidadãos sob contingências e vicissitudes.
+
+
+V –
+
+apoio e auxílio: quando sob riscos circunstanciais, exige a oferta de auxílios em bens materiais e em pecúnia, em caráter transitório, denominados de benefícios eventuais para as famílias, seus membros e indivíduos.
+
+
+##### Seção V — DAS RESPONSABILIDADES
+
+
+Art. 26.
+
+Compete ao Município de Barra Mansa, por meio da Secretaria Municipal de Assistência Social e Direitos Humanos estabelecer a estrutura administrativa da Secretaria, com todas as atribuições, cargos e funções, e:
+
+
+I –
+
+destinar recursos financeiros para custeio dos beneficios eventuais de que trata o art. 22, da Lei Federal n° 8742, de 1993 e Decreto Federal n.° 6.307/2007, mediante critérios estabelecidos pelos conselhos municipais de assistência Social;
+
+
+II –
+
+efetuar o serviço e/ou pagamento do auxílio-natalidade е o auxílio-funeral;
+
+
+III –
+
+executar os projetos de enfrentamento da pobreza, incluindo a parceria com organizações da sociedade civil;
+
+
+IV –
+
+atender às ações socioassistenciais de caráter de emergência;
+
+
+V –
+
+prestar os serviços socioassistenciais de que trata o art. 23, da Lei Federal n° 8742, de 7 de Dezembro de 1993, e a Tipificação Nacional dos Serviços Socioassistenciais - Resolução n.° 109, de 11 de Novembro de 2009 do CNAS;
+
+
+VI –
+
+implantar no seu organograma:
+
+
+a)
+
+a vigilância socioassistencial no âmbito municipal, visando ao planejamento e à oferta qualificada de serviços, benefícios, programas e projetos socioassistenciais;
+
+
+b)
+
+o sistema de informação, acompanhamento, monitoramento e avaliação para promover o aprimoramento, qualificação e integração contínuos dos serviços da rede socioassistencial, conforme Pacto de Aprimoramento do SUAS e Plano de Assistência Social;
+
+
+c)
+
+o reordenamento do Cadastro Único;
+
+
+d)
+
+as ações de Segurança Alimentar com seus respectivos equipamentos e atribuições;
+
+
+VII –
+
+regulamentar:
+
+
+a)
+
+a formulação e a implementação da Política Municipal de Assistência Social, com organograma adequado às exigências da NOB-RH/SUAS de 2006 e NOB/SUAS de 2012, em consonância com a Política Nacional de Assistência Social e com a Política Estadual de Assistência Social, observando as deliberações das conferências nacional, estadual e municipal de assistência social e as deliberações de competência do Conselho Municipal de Assistência Social;
+
+
+b)
+
+os beneficios eventuais em consonância com as deliberações do Conselho Municipal de Assistência Social;
+
+
+c)
+
+outros serviços, programas e projetos que o CMAS considerar como de relevância para a realidade social do município, desde que, se encontrem em conformidade com a Politica Nacional dos Serviços socioassistenciais;
+
+
+VIII –
+
+сofinanciar:
+
+
+a)
+
+o aprimoramento da gestão e dos serviços, programas e projetos de assistência social, em âmbito local;
+
+
+b)
+
+em conjunto com a esfera federal e estadual, a Política Nacional de Educação Permanente, com base nos princípios da Norma Operacional Básica de Recursos Humanos do SUAS - NOBRH/SUAS, coordenando-a e executando-a em seu âmbito;
+
+
+IX –
+
+realizar:
+
+
+a)
+
+o monitoramento e a avaliação da política de assistência social em seu âmbito;
+
+
+b)
+
+a gestão local do Beneficio de Prestação Continuada - BPC, garantindo aos seus beneficiários e famílias o acesso aos serviços, programas e projetos da rede socioassistencial;
+
+
+c)
+
+em conjunto com o Conselho de Assistência Social, conferências de assistência social;
+
+
+X –
+
+gerir:
+
+
+a)
+
+de forma integrada, os serviços, benefícios e programas de transferência de renda de sua competência;
+
+
+b)
+
+o Fundo Municipal de Assistência Social;
+
+
+c)
+
+no âmbito municipal, o Cadastro Único para Programas Sociais do Governo Federal e o Programa Bolsa Família, nos termos do §1° do art. 8° da Lei nº 10.836, de 2004;
+
+
+XI –
+
+organizar:
+
+
+a)
+
+a oferta de serviços de forma territorializada, em áreas de maior vulnerabilidade e risco, de acordo com o diagnóstico socioterritorial;
+
+
+b)
+
+e monitorar a rede de serviços da proteção social básica e especial, articulando suas ofertas;
+
+
+c)
+
+e coordenar o SUAS em seu âmbito, observando as deliberações e pactuações de suas respectivas instâncias, normatizando e regulando a política de assistência social em seu âmbito em consonância com as normas gerais da União.
+
+
+XII –
+
+elaborar e executar:
+
+
+a)
+
+a proposta orçamentária da assistência social para o Município, assegurando recursos do tesouro municipal, sejam depositados diretamente no Fundo Municipal de Assistência Social - FMAS, e ainda;
+
+
+b)
+
+e submeter ao Conselho Municipal de Assistência Social, anualmente, a proposta orçamentária dos recursos do Fundo Municipal de Assistência Social - FMAS;
+
+
+c)
+
+e e cumprir o plano de providências, no caso de pendências irregularidades do Município junto ao SUAS, aprovado pelo CMAS e pactuado na CIB;
+
+
+d)
+
+o Pacto de Aprimoramento do SUAS, implementando-o em âmbito municipal;
+
+
+e)
+
+a política de recursos humanos, de acordo com a NOB/RH - SUAS;
+
+
+f)
+
+o Plano Municipal de Assistência Social, a partir das responsabilidades e de seu respectivo estágio no aprimoramento da gestão do SUAS e na qualificação dos serviços, conforme patamares e diretrizes regulamentadas nas instâncias de pactuação e negociação do SUAS;
+
+
+g)
+
+a expedição dos atos normativos necessários à gestão do FMAS, de acordo com as diretrizes estabelecidas pelo Conselho Municipal de Assistência Social;
+
+
+XIII –
+
+aprimorar os equipamentos e serviços socioassistenciais, observando os indicadores de monitoramento e avaliação pactuados;
+
+
+XIV –
+
+alimentar e manter atualizado:
+
+
+a)
+
+o Censo SUAS;
+
+
+b)
+
+o Sistema de Cadastro Nacional de Entidade de Assistência Social- CNEAS de que trata o inciso XI do art. 19 da Lei Federal n°8.742, de 1993;
+
+
+c)
+
+o conjunto de aplicativos do Sistema de Informação do Sistema Único de Assistência Social - Rede SUAS;
+
+
+XV –
+
+garantir:
+
+
+a)
+
+a infraestrutura necessária ao funcionamento do respectivo Conselho Municipal de Assistência Social, garantindo recursos materiais, humanos e financeiros, inclusive com despesas referentes a passagens, traslados e diárias de conselheiros representantes do governo e da sociedade civil, quando estiverem no exercício de suas atribuições;
+
+
+b)
+
+que a elaboração da peça orçamentária esteja de acordo com o Plano Plurianual, com o Plano Municipal de Assistência Social e dos compromissos assumidos no Pacto de Aprimoramento do SUAS;
+
+
+c)
+
+a integralidade da proteção socioassistencial à população, primando pela qualificação dos serviços do SUAS, exercendo essa responsabilidade de forma compartilhada entre a União, Estados, Distrito Federal e Municípios;
+
+
+d)
+
+a capacitação para gestores, trabalhadores, dirigentes de entidades e organizações, usuários e conselheiros de assistência social, além de desenvolver, participar e apoiar a realização de estudos, pesquisas e diagnósticos relacionados à política de assistência social, em especial para fundamentar a análise de situações de vulnerabilidade e risco dos territórios e o equacionamento da oferta de serviços em conformidade com a tipificação nacional;
+
+
+e)
+
+o comando único das ações do SUAS pelo órgão gestor da política de assistência social, conforme preconiza a LOAS;
+
+
+XVI –
+
+definir:
+
+
+a)
+
+os fluxos de referência e contrarreferência do atendimento nos serviços socioassistenciais, com respeito às diversidades em todas as suas formas;
+
+
+b)
+
+os indicadores necessários ao processo de acompanhamento, monitoramento e avaliação, observado a suas competências.
+
+
+XVII –
+
+implementar:
+
+
+a)
+
+os protocolos pactuados na CLT;
+
+
+b)
+
+a gestão do trabalho e a educação permanente;
+
+
+XVIII –
+
+promover:
+
+
+a)
+
+a integração da política municipal de assistência social com outros sistemas públicos que fazem interface com o SUAS;
+
+
+b)
+
+a articulação intersetorial do SUAS com as demais políticas públicas e Sistema de Garantia de Direitos e Sistema de Justiça;
+
+
+c)
+
+a participação da sociedade, especialmente dos usuários da rede socioassistencial, na elaboração da política de assistência social;
+
+
+XIX –
+
+assumir as atribuições, no que lhe couber, no processo de municipalização dos serviços de proteção social básica;
+
+
+XX –
+
+participar dos mecanismos formais de cooperação intergovernamental que viabilizem técnica e financeiramente os serviços de referência regional, definindo as competências na gestão e no cofinanciamento, a serem pactuadas na CIB;
+
+
+XXI –
+
+prestar informações que subsidiem o acompanhamento estadual e federal da gestão municipal;
+
+
+XXII –
+
+zelar pela execução direta ou indireta dos recursos transferidos pela União e pelo Estado ao Município, inclusive no que tange a prestação de contas;
+
+
+XXIII –
+
+assessorar as entidades de assistência social visando à adequação dos seus serviços, programas, projetos e benefícios socioassistenciais às normas do SUAS, viabilizando estratégias e mecanismos de organização para aferir o pertencimento à rede socioassistencial, em âmbito local, de serviços, programas, projetos e benefícios socioassistenciais ofertados pelas entidades de assistência social de acordo com as normativas federais.
+
+
+XXIV –
+
+acompanhar a execução de parcerias firmadas entre os municípios e as entidades de assistência social e promover a avaliação das prestações de contas;
+
+
+XXV –
+
+normatizar, em âmbito local, o financiamento integral dos serviços, programas, projetos e benefícios de assistência social ofertados pelas entidades vinculadas ao SUAS, conforme $3° do art. 6° B da Lei Federal nº 8.742, de 1993, e sua regulamentação em âmbito federal.
+
+
+XXVI –
+
+aferir os padrões de qualidade de atendimento, a partir dos indicadores de acompanhamento definidos pelo respectivo conselho municipal de assistência social para a qualificação dos serviços e beneficios em consonância com as normas gerais;
+
+
+XXVII –
+
+encaminhar para apreciação do Conselho Municipal de Assistência Social os relatórios trimestrais e anuais de atividades e de execução físico-financeira a título de prestação de contas;
+
+
+XXVIII –
+
+сompor as instâncias de pactuação e negociação do SUAS;
+
+
+XXIX –
+
+estimular a mobilização e organização dos usuários e trabalhadores do SUAS para a participação nas instâncias de controle social da política de assistência social;
+
+
+XXX –
+
+instituir o planejamento contínuo e participativo no âmbito da política de assistência social;
+
+
+XXXI –
+
+dar publicidade ao dispêndio dos recursos públicos destinados à assistência social;
+
+
+XXXII –
+
+criar ouvidoria do SUAS, preferencialmente com profissionais do quadro efetivo;
+
+
+##### Seção VI — DO PLANO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+
+Art. 27.
+
+O Plano Municipal de Assistência Social é um instrumento de planejamento estratégico que contempla propostas para execução e o monitoramento da política de assistência social no âmbito do Município de Barra Mansa.
+
+
+§ 1º
+
+A elaboração do Plano Municipal de Assistência Social dar-se a cada 4 (quatro) anos, coincidindo com a elaboração do Plano Plurianual e contemplará:
+
+
+I –
+
+diagnóstico socioterritorial;
+
+
+II –
+
+objetivos gerais e específicos;
+
+
+III –
+
+diretrizes e prioridades deliberadas;
+
+
+IV –
+
+ações estratégicas para sua implementação;
+
+
+V –
+
+metas estabelecidas;
+
+
+VI –
+
+resultados e impactos esperados;
+
+
+VII –
+
+recursos materiais, humanos e financeiros disponíveis e necessários;
+
+
+VIII –
+
+mecanismos e fontes de financiamento;
+
+
+IX –
+
+indicadores de monitoramento e avaliação; e
+
+
+X –
+
+cronograma de execução.
+
+
+§ 2º
+
+O Plano Municipal de Assistência Social além do estabelecido no parágrafo anterior deverá observar:
+
+
+I –
+
+as deliberações das conferências de assistência social;
+
+
+II –
+
+metas nacionais e estaduais pactuadas e o compromisso para o aprimoramento do SUAS;
+
+
+III –
+
+ações articuladas e intersetoriais;
+
+
+#### CAPÍTULO IV — DAS INSTÂNCIAS DE ARTICULAÇÃO, PACTUAÇÃO E DELIBERAÇÃO DO SUAS
+
+
+##### Seção I — DO CONSELHO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+
+Art. 28.
+
+O Conselho Municipal de Assistência Social de Barra Mansa, órgão de controle social instituído pela Lei Municipal n° 2.956 de 03 de novembro de 1997, tem caráter permanente e composição paritária entre governo e sociedade civil, sendo as entidades e organizações de Assistência Social aquelas sem fins lucrativos que, isolada ou cumulativamente, prestam atendimento e assessoramento aos beneficiários abrangidos pela Lei nº 12.435 de 2011, bem como as que atuam na defesa e garantia de direitos, trabalhadores do setor e usuários, com competência para normatizar, deliberar, fiscalizar e acompanhar a execução da política de assistência social, apreciar e aprovar os recursos orçamentários para sua efetivação em consonância com as diretrizes propostas pela Conferência Municipal de Assistência Social.
+
+
+Parágrafo único
+
+Exercerão complementarmente o monitoramento social da política de assistência social, na medida em que tenham interface com ela, os seguintes conselhos:
+
+
+I –
+
+Conselho Municipal de Direitos da Criança e do Adolescente - CMDCA;
+
+
+II –
+
+Conselho Municipal dos Direitos da Pessoa Idosa - CMDPI;
+
+
+III –
+
+Conselho Municipal de Segurança Alimentar e Nutricional - CONSEA
+
+
+Art. 29.
+
+O Conselho Municipal de Assistência Social/CMAS será composto de 20 (vinte) membros titulares e seus respectivos suplentes, com mandato de 02 (dois) anos, permitida a recondução, mantendo sua paridade conforme segue:
+
+
+I –
+
+Serão 10 (dez) representantes Governamentais, escolhidos pelo Chefe do Executivo Municipal dentre os servidores das Secretarias e Fundações:
+
+
+a)
+
+Secretaria Municipal de Assistência Social e Direitos Humanos;
+
+
+b)
+
+Secretaria Municipal de Educação;
+
+
+c)
+
+Secretaria Municipal de Juventude, Esporte e Lazer;
+
+
+d)
+
+Secretaria Municipal de Finanças;
+
+
+e)
+
+Secretaria Municipal de Planejamento Urbano;
+
+
+f)
+
+Secretaria Municipal de Saúde - Atenção Básica;
+
+
+g)
+
+Secretaria Municipal de Saúde - Saúde Mental
+
+
+h)
+
+Secretaria Municipal de Desenvolvimento Tecnologia e Inovação;
+
+
+i)
+
+Secretaria Municipal de Desenvolvimento Rural;
+
+
+j)
+
+Secretaria Municipal de Ordem Pública;
+
+
+II –
+
+Serão 10 (dez) representantes da sociedade civil, dentre as entidades e organizações de assistência social legalmente constituídas, que estejam em funcionamento no Município de Barra Mansa, pelo menos há 02 (dois) anos, que prestem sem fins lucrativos, atendimento e/ou assessoramento aos seus beneficiários, bem como, as que atuam na defesa e garantia de seus direitos, conforme estabelecido pela LOAS, terá ainda, representantes dos usuários e dos trabalhadores do setor, escolhidos em foro próprio sob fiscalização do Ministério Público:
+
+
+a)
+
+04 (quatro) representantes dos prestadores de serviço da Assistência Social;
+
+
+b)
+
+04 (quatro) representantes das organizações de garantia e defesa de direitos;
+
+
+c)
+
+01 (um) trabalhador do SUAS;
+
+
+d)
+
+01 (um) representante dos usuários do CRAS;
+
+
+§ 1º
+
+O CMAS é presidido por um de seus integrantes, eleito dentre seus membros, para mandato de 2 (dois) anos, permitida única recondução por igual período, observada a alternância entre representantes da sociedade civil e governo.
+
+
+§ 2º
+
+CMAS elegerá na mesma oportunidade do parágrafo anterior uma Diretoria Executiva de composição paritária, nos termos do caput deste artigo, que realizará os encaminhamentos administrativos às deliberações da Assembleia.
+
+
+§ 3º
+
+O Poder Executivo, por meio da SMASDH, deverá indicar um local central, de fácil acesso à comunidade, para o funcionamento do Conselho, preferencialmente próximo a SMASDH, desde que aprovado pelo mesmo; bem como a manutenção de infraestrutura e recursos humanos técnicos e administrativos, indispensáveis ao funcionamento do CMAS.
+
+
+Art. 30.
+
+O CMAS reunir-se-á ordinariamente uma vez ao mês e, extraordinariamente, sempre que necessário cujas reuniões devem ser abertas ao público, com pauta e datas previamente divulgadas, e funcionará de acordo com o Regimento Interno.
+
+
+Art. 31.
+
+A participação dos conselheiros no CMAS é de interesse público e relevante valor social e não será remunerada.
+
+
+Art. 32.
+
+A Assembleia Pública é fórum máximo normativo e deliberativo, que deverá ocorrer ordinariamente e extraordinariamente.
+
+
+§ 1º
+
+Terão direito a voto os membros efetivos do Conselho Municipal de Assistência Social/CMAS, ou na falta destes, os respectivos suplentes.
+
+
+§ 2º
+
+O quórum mínimo necessário para as deliberações deverá ser de maioria absoluta dos conselheiros em primeira convocação, mas com o mínimo de 50% (cinquenta por cento) dos representantes da sociedade civil. Em segunda convocação, o quórum será composto por maioria simples dos conselheiros presentes.
+
+
+§ 3º
+
+O CMAS poderá convocar Assembleia Geral Extraordinária sempre que, pelo menos, 2/3 (dois terços) dos seus membros julguem necessário.
+
+
+Art. 33.
+
+O CMAS instituirá seus atos, por meio de Resoluções e Deliberações aprovadas em Assembleia.
+
+
+Art. 34.
+
+No caso de extinção das entidades representadas, desistências ou perda de direito de representação, será convocada reunião extraordinária de Assembleia Pública, para preenchimento da vaga e manutenção da paridade do conselho.
+
+
+Parágrafo único
+
+Não será considerada prejudicada a paridade do conselho no caso de inexistência de entidade habilitada para preenchimento da referida vaga.
+
+
+Art. 35.
+
+O controle social do SUAS no Município efetiva-se por intermédio do Conselho Municipal de Assistência Social -CMAS e das Conferências Municipais de Assistência Social, além de outros fóruns de discussão da sociedade civil, sempre que estes forem aprovados pelas assembleias do CMAS.
+
+
+Art. 36.
+
+Compete ao Conselho Municipal de Assistência Social:
+
+
+I –
+
+elaborar, aprovar e publicar seu regimento interno;
+
+
+II –
+
+convocar as Conferências Municipais de Assistência Social e acompanhar a execução de suas deliberações;
+
+
+III –
+
+aprovar a Política Municipal de Assistência Social, em consonância com as diretrizes das conferências de assistência social;
+
+
+IV –
+
+apreciar e aprovar a proposta orçamentária, em consonância com as diretrizes das conferências municipais e da Política Municipal de Assistência Social;
+
+
+V –
+
+aprovar o Plano Municipal de Assistência Social, apresentado pelo órgão gestor da assistência social;
+
+
+VI –
+
+aprovar o plano de capacitação, elaborado pelo órgão gestor;
+
+
+VII –
+
+acompanhar o cumprimento das metas nacionais, estaduais e municipais do Pacto de Aprimoramento da Gestão do SUAS;
+
+
+VIII –
+
+acompanhar, avaliar e fiscalizar a gestão do Programa Bolsa Família-PBF;
+
+
+IX –
+
+normatizar as ações e regular a prestação de serviços de natureza pública e privada no campo da assistência social de âmbito local;
+
+
+X –
+
+apreciar e aprovar informações da Secretaria Municipal de Assistência Social inseridas nos sistemas nacionais e estaduais de informação referentes ao planejamento do uso dos recursos de cofinanciamento e a prestação de contas;
+
+
+XI –
+
+apreciar os dados e informações inseridas pela Secretaria Municipal de Assistência Social, unidades públicas e privadas da assistência social, nos sistemas nacionais e estaduais de coleta de dados e informações sobre o sistema municipal de assistência social;
+
+
+XII –
+
+alimentar os sistemas nacionais e estaduais de coleta de dados e informações sobre os Conselhos Municipais de Assistência Social;
+
+
+XIII –
+
+zelar pela efetivação do SUAS no Município;
+
+
+XIV –
+
+zelar pela efetivação da participação da população na formulação da política e no controle da implementação;
+
+
+XV –
+
+deliberar e normatizar, as prioridades e metas de desenvolvimento do SUAS em seu âmbito de competência;
+
+
+XVI –
+
+estabelecer critérios e prazos para concessão dos benefícios eventuais;
+
+
+XVII –
+
+elaborar parecer e avaliar propostas sobre a criação e/ou prestação de serviços de natureza pública e privada no campo da assistência social, para que esteja em consonância com a Politica Municipal de Assistência Social;
+
+
+XVIII –
+
+acompanhar, avaliar e fiscalizar a gestão dos recursos, bem como os ganhos sociais e o desempenho dos serviços, programas, projetos e benefícios socioassistenciais do SUAS;
+
+
+XIX –
+
+fiscalizar a gestão e execução dos recursos do Índice de Gestão Descentralizada do Programa Bolsa Família-IGD-PBF, e do Índice de Gestão Descentralizada do Sistema Único de Assistência Social -IGD-SUAS;
+
+
+XX –
+
+planejar e deliberar sobre a aplicação dos recursos IGD-PBF e IGD-SUAS destinados à atividades de apoio técnico e operacional ao CMAS;
+
+
+XXI –
+
+participar da elaboração do Plano Plurianual, da Lei de Diretrizes Orçamentárias e da Lei Orçamentária Anual no que se refere à assistência social, bem como do planejamento e da aplicação dos recursos destinados às ações de assistência social, tanto dos recursos próprios quanto dos oriundos do Estado e da União, alocados FMAS;
+
+
+XXII –
+
+aprovar o aceite da expansão dos serviços, programas projetos socioassistenciais, objetos de cofinanciamento;
+
+
+XXIII –
+
+orientar e fiscalizar o FMAS, no que se refere à utilização dos recursos alocados, bem como, a finalidade dos seus gastos;
+
+
+XXIV –
+
+divulgar, no Diário Oficial Municipal, ou em outro meio de comunicação, todas as suas decisões na forma de Resoluções, bem como as deliberações acerca da execução orçamentária e financeira do FMAS e os respectivos pareceres emitidos;
+
+
+XXV –
+
+receber, apurar e dar o devido prosseguimento a denúncias;
+
+
+XXVI –
+
+deliberar e normatizar sobre as prioridades e metas de desenvolvimento do SUAS no âmbito do município;
+
+
+XXVII –
+
+estabelecer articulação permanente com os demais conselhos de políticas públicas setoriais e conselhos de direitos.
+
+
+XXVIII –
+
+realizar a inscrição das entidades e organização de assistência social, conforme as disposições da Lei Federal 8.742/1993 e Decreto Federal n.º6.308/2007;
+
+
+XXIX –
+
+notificar fundamentadamente a entidade ou organização de assistência social no caso de indeferimento do requerimento de inscrição;
+
+
+XXX –
+
+fiscalizar as entidades e organizações de assistência social;
+
+
+XXXI –
+
+emitir Resolução quanto às suas Deliberações;
+
+
+XXXII –
+
+тegistrar em ata todas as reuniões e assembleias;
+
+
+XXXIII –
+
+instituir comissões permanentes e/ou eventuais de trabalho, que serão compostas por conselheiros efetivos ou suplentes, podendo convidar especialistas para dirimir suas dúvidas, sempre que se fizerem necessárias.
+
+
+XXXIV –
+
+zelar pela boa e regular execução dos recursos repassados pelo FMAS executados direta ou indiretamente, inclusive no que tange à prestação de contas;
+
+
+XXXV –
+
+avaliar e elaborar parecer sobre a prestação de contas dos recursos repassados ao Município.
+
+
+Art. 37.
+
+O CMAS deverá planejar suas ações de forma a garantir a consecução das suas atribuições e o exercício do controle social, primando pela efetividade e transparência das suas atividades.
+
+
+§ 1º
+
+O planejamento das ações do conselho deve orientar a construção do orçamento da gestão da assistência social para o apoio financeiro e técnico às funções de sua competência.
+
+
+§ 2º
+
+O CMAS utilizará de ferramenta informatizada para о planejamento das suas atividades, contendo as metas, cronograma de execução e prazos, a fim de possibilitar a publicidade, por meio de seu plano de ação anual.
+
+
+##### Seção II — DA CONFERÊNCIA MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+
+Art. 38.
+
+Fica instituída a Conferência Municipal de Assistência Social como instâncias máxima e periódica de debate, de formulação e de avaliação da política pública municipal de assistência social e definição de diretrizes para o aprimoramento do SUAS, como órgão de caráter normativo e deliberativo, com a participação de representantes do governo e da sociedade civil.
+
+
+Art. 39.
+
+As conferências municipais devem observar as seguintes diretrizes:
+
+
+I –
+
+divulgação ampla e prévia do documento convocatório, especificando objetivos, prazos, responsáveis, fonte de recursos e comissão organizadora;
+
+
+II –
+
+garantia da diversidade dos sujeitos participantes;
+
+
+III –
+
+estabelecimento de seu Regimento, considerando os critérios e procedimentos para o desenvolvimento das atividades a serem realizadas durante a conferência, com a designação dos delegados governamentais e para a escolha dos delegados da sociedade civil, entre outros;
+
+
+IV –
+
+publicidade de seus resultados;
+
+
+V –
+
+determinação do modelo de acompanhamento de suas deliberações; e
+
+
+VI –
+
+articulação com a conferência estadual e nacional de assistência social.
+
+
+Art. 40.
+
+A Conferência Municipal de Assistência Social será convocada ordinariamente a cada dois anos pelo Conselho Municipal de Assistência Social e extraordinariamente quando necessário, conforme deliberação da maioria absoluta dos membros do respectivo conselho.
+
+
+I –
+
+Os representantes governamentais, na Conferencia Municipal de Assistência Social serão indicados pelo Chefe do Poder Executivo;
+
+
+II –
+
+Os representantes da sociedade civil, usuários e de organizações de usuários, bem como as demais organizações de assistência social, legalmente constituídas, em funcionamento no Município de Barra Mansa por, no mínimo, 02 (dois) anos, serão convidados a indicarem seus delegados e suplentes, como seus representantes, devendo enviar no prazo de até 05 (cinco) dias antes da realização da Conferência os nomes de seus delegados titulares e suplentes ao CMAS:
+
+
+III –
+
+А Сonferência Municipal de Assistência Social poderá ser realizada em 01 (hum) ou 02 (dois) dias.
+
+
+##### Seção III — PARTICIPAÇÃO DOS USUÁRIOS
+
+
+Art. 41.
+
+É condição fundamental para viabilizar o exercício do controle social e garantir os direitos socioassistenciais o estímulo à participação e ao protagonismo dos usuários nos conselhos e conferências de assistência social.
+
+
+Art. 42.
+
+O estimulo à participação dos usuários pode se dar a partir de articulação com movimentos sociais e populares e ainda a organização de diversos espaços tais como: fórum de debate, conselhos gestores de unidades de assistência social, comissão de bairro, coletivo de usuários junto aos serviços, programas, projetos e benefícios socioassistenciais.
+
+
+Parágrafo único
+
+São estratégias para garantir a presença dos usuários, dentre outras, o planejamento do conselho e do órgão gestor; ampla divulgação do processo nas unidades prestadoras de serviços; descentralização do controle social por meio de comissões regionais ou locais.
+
+
+##### Seção IV — DA RELAÇÃO COM AS ENTIDADES DE ASSISTÊNCIA SOCIAL
+
+
+Art. 43.
+
+São entidades e organizações de assistência social aquelas sem fins lucrativos que, isolada ou cumulativamente, prestam atendimento e assessoramento aos beneficiários abrangidos pela Lei Federal n° 8.742, de 1993, bem como as que atuam na defesa e garantia de direitos.
+
+
+§ 1º
+
+São de atendimento aquelas entidades que, de forma continuada, permanente e planejada, prestam serviços, executam programas ou projetos e concedem benefícios de prestação social básica ou especial, dirigidos às famílias e indivíduos em situações de vulnerabilidade ou risco social e pessoal, nos termos desta Lei, respeitadas as deliberações do Conselho Nacional de Assistência Social (CNAS).
+
+
+§ 2º
+
+São de assessoramento aquelas que, de forma continuada, permanente e planejada, prestam serviços e executam programas ou projetos voltados prioritariamente para o fortalecimento dos movimentos sociais e das organizações de usuários, formação e capacitação de lideranças, dirigidos ao público da política de assistência social, nos termos desta Lei, respeitadas as deliberações do CNAS.
+
+
+§ 3º
+
+São de defesa e garantia de direitos, aquelas que, de forma continuada, permanente e planejada, prestam serviços e executam programas e projetos voltados prioritariamente para a defesa e efetivação dos direitos socioassistenciais, para construção de novos direitos, promoção da cidadania, enfrentamento das desigualdades sociais, articulação com órgãos públicos de defesa de direitos, dirigidos ao público da política de assistência social, nos termos desta Lei, respeitadas as deliberações do CNAS.
+
+
+Art. 44.
+
+As entidades de assistência social e os serviços, programas, projetos e beneficios socioassistenciais deverão ser inscritos no Conselho Municipal de Assistência Social para que obtenha a autorização de funcionamento no âmbito da Política Nacional de Assistência Social, observado os parâmetros nacionais de inscrição definidos pelo Conselho Nacional de Assistência Social.
+
+
+Art. 45.
+
+Constituem critérios para a inscrição das entidades ou organizações de Assistência Social, bem como dos serviços, programas, projetos e benefícios socioassistenciais:
+
+
+I –
+
+executar ações de caráter continuado, permanente e planejado;
+
+
+II –
+
+assegurar que os serviços, programas, projetos e benefícios socioassistenciais sejam ofertados na perspectiva da autonomia e garantia de direitos dos usuários;
+
+
+III –
+
+garantir a gratuidade e a universalidade em todos os serviços, programas, projetos e benefícios socioassistenciais;
+
+
+IV –
+
+garantir a existência de processos participativos dos usuários na busca do cumprimento da efetividade na execução de seus serviços, programas, projetos e benefícios socioassistenciais.
+
+
+Art. 46.
+
+As entidades ou organizações de Assistência Social no ato da inscrição demonstrarão:
+
+
+I –
+
+ser pessoa jurídica de direito privado, devidamente constituída;
+
+
+II –
+
+aplicar suas rendas, seus recursos e eventual resultado integralmente no território nacional e na manutenção e no desenvolvimento de seus objetivos institucionais;
+
+
+III –
+
+elaborar plano de ação anual;
+
+
+IV –
+
+ter expresso em seu relatório de atividades:
+
+
+a)
+
+finalidades estatutárias;
+
+
+b)
+
+objetivos;
+
+
+c)
+
+origem dos recursos;
+
+
+d)
+
+infraestrutura;
+
+
+e)
+
+identificação de cada serviço, programa, projeto e benefício socioassistenciais executado.
+
+
+Parágrafo único
+
+Os pedidos de inscrição observarão as seguintes etapas de análise:
+
+
+I –
+
+análise documental;
+
+
+II –
+
+visita técnica, quando necessária, para subsidiar a análise do processo;
+
+
+III –
+
+elaboração do parecer da Comissão;
+
+
+IV –
+
+pauta, discussão e deliberação sobre os processos em reunião plenária do CMAS;
+
+
+V –
+
+publicação da decisão plenária por meio de Resolução do CMAS;
+
+
+VI –
+
+emissão do comprovante;
+
+
+VII –
+
+notificação à entidade ou organização de Assistência Social por ofício.
+
+
+Art. 47.
+
+As Entidades de Assistência Social poderão receber apoio técnico e financeiro do Município, em conformidade com a legislação pertinente.
+
+
+Art. 48.
+
+As entidades que receberem recursos públicos para desenvolverem projetos e serviços socioassistenciais deverão proceder à seleção pública do pessoal técnico e administrativo que atuarão nos mesmos.
+
+
+##### Seção V — DA REPRESENTAÇÃO DO MUNICÍPIO NAS INSTÂNCIAS DE NEGOCIAÇÃO E PACTUAÇÃO DO SUAS
+
+
+Art. 49.
+
+O Município de Barra Mansa é representado pelo gestor da SMASDH ou por um servidor/trabalhador do SUAS com formação de nível superior em área correlata com a política de Assistência social, por ele indicado, nas Comissões Intergestores Bipartite - CIB e Tripartite - CIT, instâncias de negociação e pactuação dos aspectos operacionais de gestão e organização do SUAS, respectivamente, em âmbito estadual e nacional, pelo Colegiado Estadual de Gestores Municipais de Assistência Social - COEGEMAS e pelo Colegiado Nacional de Gestores Municipais de Assistência Social - CONGEMAS.
+
+
+§ 1º
+
+O CONGEMAS E COEGEMAS constituem entidades sem fins lucrativos que representam as secretarias municipais de assistência social, declarados de utilidade pública e de relevante função social, onerando o município quanto a sua associação a fim de garantir os direitos e deveres de associado.
+
+
+§ 2º
+
+O COEGEMAS poderá assumir outras denominações depender das especificidades regionais.
+
+
+#### CAPÍTULO V
+
+DOS BENEFÍCIOS EVENTUAIS, DOS SERVIÇOS, DOS PROGRAMAS DE ASSISTÊNCIA SOCIAL E DOS PROJETOS DE ENFRENTAMENTO DA POBREZA.
+
+
+##### Seção I — DOS BENEFÍCIOS EVENTUAIS
+
+
+Art. 50.
+
+Benefícios eventuais são provisões suplementares e provisórias, não contributivas da assistência Social, destinadas aos indivíduos e às famílias, visando minimizar situações de vulnerabilidade temporária, caracterizada pelo advento de riscos, perdas e danos, decorrentes de contingências sociais, e deve integrar-se à oferta dos serviços socioassistenciais, buscando o fortalecimento dos vínculos familiares e a inserção comunitária, na forma prevista na Lei federal n° 8.742, de 1993.
+
+
+§ 1º
+
+Não se incluem na modalidade de benefícios eventuais da assistência social as provisões relativas a programas, projetos, serviços e benefícios vinculados ao campo da saúde, da educação, da integração nacional, da habitação, da segurança alimentar e das demais políticas públicas setoriais.
+
+
+§ 2º
+
+Os benefícios serão concedidos na forma de pecúnia ou bens de consumo e/ou serviços, em caráter temporário, sendo o seu valor e duração definidos de acordo com o grau de complexidade da situação de vulnerabilidade e risco pessoal das famílias e indivíduos, identificados nos processos de atendimento dos serviços.
+
+
+§ 3º
+
+No enfrentamento das situações descritas nono caput deste artigo, deverá atender prioritariamente situações de alimentação, acesso a documentação civil e domicilio, nas excepcionalidades, ou seja, emergencialmente e não como alternativa para suprir demanda de políticas habitacionais e de segurança alimentar.
+
+
+§ 4º
+
+As situações de calamidade pública e desastre, devidamente reconhecidas pelo poder público, caracterizam-se por eventos anormais, decorrentes de baixas ou altas temperaturas, tempestades, enchentes, secas, inversão térmica, desabamentos, incêndios, epidemias, os quais causem sérios danos à comunidade afetada, inclusive à segurança ou à vida de seus integrantes, e outras situações imprevistas ou decorrentes de caso fortuito.
+
+
+§ 5º
+
+A situação de vulnerabilidade temporária caracteriza-se pelo advento de riscos, perdas e danos à integridade pessoal e familiar, assim entendidos:
+
+
+I –
+
+riscos: ameaça de sérios padecimentos;
+
+
+II –
+
+perdas: privação de bens e de segurança material;
+
+
+III –
+
+danos: agravos sociais e ofensa.
+
+
+Art. 51.
+
+Os benefícios eventuais, que compõe as Redes de Proteção Social Básica e Proteção Social Especial, são beneficios suplementares e provisórios que integram as garantias do Sistema Único de Assistência Social (SUAS), prestadas aos cidadãos e famílias em virtude de nascimento, morte, situações de vulnerabilidade temporária e de calamidade pública.
+
+
+Parágrafo único
+
+Não se incluem na modalidade de Benefícios Eventuais da assistência social as provisões relativas a programas, projetos, serviços e benefícios vinculados ao campo da saúde, da educação, da integração nacional, da habitação, da segurança alimentar e das demais políticas setoriais.
+
+
+Art. 52.
+
+Os benefícios eventuais integram organicamente as garantias do SUAS, devendo sua prestação observar os seguintes princípios e seguranças:
+
+
+I –
+
+não subordinação a contribuições prévias e vinculação a quaisquer contrapartidas;
+
+
+II –
+
+desvinculação de comprovações complexas e vexatórias, que estigmatizam os beneficiários nos procedimentos de atendimento e avaliação adotados para demonstração das necessidades;
+
+
+III –
+
+garantia de qualidade e prontidão na concessão dos benefícios;
+
+
+IV –
+
+garantia de igualdade de condições no acesso às informações e à fruição dos benefícios eventuais;
+
+
+V –
+
+ampla divulgação dos benefícios, dos recursos oferecidos pelo poder público, dos critérios para a sua concessão, bem como espaços para manifestação e defesa dos seus direitos;
+
+
+VI –
+
+integração da oferta com os serviços socioassistenciais, com vistas ao atendimento das necessidades básicas humanas;
+
+
+VII –
+
+garantia de segurança de sobrevivência (rendimento e autonomia), de acolhida, convívio ou vivência familiar;
+
+
+VIII –
+
+universalização dos direitos sociais, a fim de tornar o destinatário da ação assistencial alcançável pelas demais políticas;
+
+
+IX –
+
+especificidade de agilizar o enfrentamento das adversidades, garantindo a qualidade, a prontidão e a agilidade de respostas aos usuários;
+
+
+X –
+
+afirmação dos benefícios eventuais como direito relativo a cidadania;
+
+
+XI –
+
+a сoncessão do beneficio não poderá ser associada ao cumprimento de condicionalidades, como participação em reuniões ou outras formas de compensações, por ser um direito social, o qual, por sua vez, poderá se acessado a qualquer tempo, embora não possam ser concedidos de modo continuado.
+
+
+Art. 53.
+
+Os benefícios eventuais podem ser prestados na forma de pecúnia, bens de consumo ou prestação de serviços.
+
+
+Art. 54.
+
+O público alvo para acesso aos benefícios eventuais deverá ser identificado pelo Município a partir de estudos da realidade social e diagnóstico elaborado com uso de informações disponibilizadas pela Vigilância Socioassistencial, com vistas a orientar o planejamento da oferta.
+
+
+Parágrafo único
+
+Não se constituem benefícios eventuais:
+
+
+a)
+
+Concessão de medicamentos;
+
+
+b)
+
+Concessão de órteses, próteses e cadeiras de rodas;
+
+
+c)
+
+Concessão de alimentação e nutrição, em relação a dietas para tratamento de saúde;
+
+
+d)
+
+Concessão de materiais para saúde bucal;
+
+
+e)
+
+Concessão de óculos;
+
+
+f)
+
+Concessão de transporte, material e uniforme escolar;
+
+
+g)
+
+Concessão de leites e fraldas;
+
+
+h)
+
+Provisões relativas a programas habitacionais;
+
+
+i)
+
+Tratamento de saúde fora do domicilio.
+
+
+Art. 55.
+
+Serão exigidos, para fins de concessão do beneficio eventual:
+
+
+I –
+
+Atendimento exclusivo por equipes técnicas de nível superior dos equipamentos da Secretaria Municipal de Assistência Social e Direitos Humanos, mediante as situações de vulnerabilidade e ou risco pessoal e social registradas em formulários/sistemas próprios;
+
+
+II –
+
+Famílias residentes no Município;
+
+
+III –
+
+Famílias com perfil de baixa renda conforme conceito do Cadastro Único para Programas Sociais do Governo Federal, ou seja, renda familiar de até 03 (três) salários mínimos ou ½ (meio) salário mínimo per capita, cujos dados devem estar atualizados em data anterior máxima de 02 (dois) anos;
+
+
+IV –
+
+Famílias em situação de vulnerabilidade social, que tenham na composição familiar: gestantes, nutrizes, crianças, adolescentes, idosos e pessoas com deficiência.
+
+
+Parágrafo único
+
+Considera-se família, o núcleo formado por um ou mais indivíduos, independente de laços consanguíneos, que residam no mesmo domicílio e que contribuam para o rendimento ou tenham suas despesas atendidas por aquela unidade familiar, sem prejuízo das famílias conviventes.
+
+
+##### Seção II — DA PRESTAÇÃO DE BENEFÍCIOS EVENTUAIS
+
+
+Art. 56.
+
+Os benefícios eventuais devem ser prestados em virtude de nascimento, morte, vulnerabilidade temporária e calamidade pública, observadas as contingências de riscos, perdas e danos a que estão sujeitos os indivíduos e famílias.
+
+
+Parágrafo único
+
+Os critérios e prazos para prestação dos beneficios eventuais devem ser estabelecidos por meio de Resolução do Conselho Municipal de Assistência Social, conforme prevê o art. 22, §1°, da Lei Federal n° 8.742, de 1993, respeitadas as regras gerais definidas nesta ou em outras normas.
+
+
+Art. 57.
+
+A situação de vulnerabilidade temporária caracteriza-se pelo advento de riscos, perdas e danos à integridade pessoal e familiar, assim entendidos:
+
+
+I –
+
+riscos: ameaça de sérios padecimentos;
+
+
+II –
+
+perdas: privação de bens e de segurança material;
+
+
+III –
+
+danos: agravos sociais e ofensa.
+
+
+Parágrafo único
+
+Os riscos, perdas e danos podem decorrer de:
+
+
+I –
+
+ausência de documentação;
+
+
+II –
+
+necessidade de mobilidade intraurbana para garantia de acesso aos serviços e benefícios socioassistenciais;
+
+
+III –
+
+necessidade de passagem para outra unidade da Federação, com vistas a garantir a convivência familiar e comunitária;
+
+
+IV –
+
+corrência de violência física, psicológica ou exploração sexual no âmbito familiar ou ofensa à integridade física do indivíduo;
+
+
+V –
+
+perda circunstancial ocasionada pela ruptura de vínculos familiares e comunitários;
+
+
+VI –
+
+processo de reintegração familiar e comunitária de pessoas idosas, com deficiência ou em situação de rua; crianças, adolescentes, mulheres em situação de violência e famílias que se encontram em cumprimento de medida protetiva;
+
+
+VII –
+
+ausência ou limitação de autonomia, de capacidade, de condições ou de meios próprios da família para prover as necessidades alimentares de seus membros;
+
+
+Art. 58.
+
+O Benefício Eventual de Auxilio Natalidade constitui-se em uma prestação não contributiva da assistência social e destina-se a evitar e superar inseguranças e vulnerabilidades sociais vivenciadas pelas mães e famílias nos processos que envolvam a gestação ou morte da própria genitora e/ou de nascimento ou morte de recém-nascido e que impactem na convivência, na autonomia, na renda, na realidade vivenciada pela família e deverá ser concedido:
+
+
+I –
+
+à genitora que comprove residir no Município;
+
+
+II –
+
+à família do nascituro, caso a mãe esteja impossibilitada de requerer o benefício ou tenha falecido;
+
+
+III –
+
+à genitora atendida ou acolhida em unidade de referência do SUAS.
+
+
+§ 1º
+
+O benefício eventual por situação de nascimento poderá ser concedido nas formas de pecúnia ou bens de consumo, ou em ambas as formas, conforme necessidade do requerente e disponibilidade da administração pública, a partir do início da gestação, até 90 dias após o parto.
+
+
+§ 2º
+
+Os requerentes deverão solicitar o referido benefício nos equipamentos da Secretaria Municipal de Assistência Social e Direitos Humanos.
+
+
+Art. 59.
+
+O benefício eventual na forma de Auxilio Funeral deverá ser concedido com o objetivo de reduzir vulnerabilidades provocadas por morte de membro da família e tem por objetivo atender as necessidades urgentes do familiar do falecido, elegível para tal.
+
+
+§ 1º
+
+O beneficio eventual de Auxilio Funeral poderá ser concedido conformeanecessidade do requerente e/ou o que indicar o trabalho social com a família.
+
+
+§ 2º
+
+Identificadas as demandas de vulnerabilidade social, para este auxilio a Funerária Municipal, encaminhará o requerente aos Centros de Referência de Assistência Social do território de seu domicilio para atendimento técnico posterior.
+
+
+§ 3º
+
+Os usuários da Proteção Especial terão direito ao referido benefício, que será concedido mediante declaração emitida pelo técnico do equipamento em que estava em acompanhamento.
+
+
+§ 4º
+
+Os idosos residentes nas Instituições de Longa Permanência para Idosos (ILPI), do município e que sejam sem fins lucrativos, farão jus a concessão do referido benefício, devendo a instituição comprovar que o idoso estava institucionalizado. forma de bens e/ou isenções.
+
+
+§ 5º
+
+O Beneficio Eventual de Auxilio Funeral será concedido na forma de bens e/ou isenções.
+
+
+Art. 60.
+
+O benefício eventual para garantir a segurança alimentar, constitui-se em uma prestação temporária, não contributiva da assistência social, e poderá ser fornecido com a oferta de cestas básicas, pecúnia e/ou ticket alimentação, visando reduzir vulnerabilidade provocada pela falta de condições socioeconômicas e para garantir a aquisição de alimentos com qualidade e quantidades necessárias para garantir uma alimentação saudável.
+
+
+§ 1º
+
+A concessão do referido beneficio deverá compreender, além dos critérios gerais desta lei, uma análise técnica especifica quanto às situações:
+
+
+I –
+
+desemprego, morte ou abandono pelo membro responsável pelo sustento do grupo familiar;
+
+
+II –
+
+nos casos de emergências e calamidade pública.
+
+
+§ 2º
+
+O benefício previsto no caput será concedido em caráter temporário, sendo a quantidade de itens fornecidos, o seu valor e duração definidos de acordo com o grau de complexidade da situação de vulnerabilidade e risco pessoal das famílias e indivíduos, identificados nos processos de atendimento dos serviços.
+
+
+Art. 61.
+
+O benefício eventual na modalidade de "Visita ao Presídio" constitui-se de uma prestação temporária, não contributiva da assistência social, fornecida mensalmente as famílias que se encontrem em situação de vulnerabilidade e possuem parentes de até segundo grau em situação de privação de liberdade em regime fechado.
+
+
+§ 1º
+
+O referido beneficio consiste na viabilização de uma vaga mensal à família requerente, com o fornecimento de transporte ou passagem, disponibilizado pelo poder público;
+
+
+§ 2º
+
+A família requerente será avaliada e encaminhada pelos equipamentos da Secretaria de Assistência Social e Direitos Humanos;
+
+
+§ 3º
+
+A vaga deverá ser solicitada mediante requerimento efetuado em formulário próprio.
+
+
+Art. 62.
+
+O benefício eventual na modalidade de Aluguel Social Municipal caracteriza-se pela concessão de pagamento mensal de valor destinado a despesa com aluguel, às famílias em condição de vulnerabilidade temporária, que residam em moradias em situação de risco ou afetada por calamidade pública e/ou desastres, comprovada por meio de Laudo e/ou notificação de interdição emitido pela Coordenadoria Municipal de Proteção de Defesa Civil (COMPDEC).
+
+
+§ 1º
+
+As mulheres vítimas de violência acompanhadas pela Proteção Especial terão direito ao referido benefício, que será concedido mediante declaração emitida pelo técnico do equipamento em que estava em acompanhamento, uma vez constatada a situação de vulnerabilidade e não existindo possibilidade de retorno ao domicilio e/ou não havendo rede de apoio familiar ou social que possa acolher provisoriamente a mulher vítima de violência.
+
+
+§ 2º
+
+Os indivíduos que se encontrarem no Serviço de Acolhimento, ao completarem 18 anos farão jus ao beneficio previsto no caput deste artigo, mediante relatório técnico, no qual seja verificada a situação de vulnerabilidade, bem como a inexistência de família extensa.
+
+
+§ 3º
+
+O benefício de Aluguel Social Municipal não visa atender a demanda de políticas habitacionais.
+
+
+Art. 63.
+
+As situações de calamidade pública e desastre caracterizamse por eventos anormais, decorrentes de baixas ou altas temperaturas, tempestades, enchentes, secas, inversão térmica, desabamentos, incêndios, epidemias, os quais causem sérios danos à comunidade afetada, inclusive à segurança ou à vida de seus integrantes, e outras situações imprevistas ou decorrentes de caso fortuito.
+
+
+Parágrafo único
+
+O benefício será concedido na forma de pecúnia ou bens de consumo, em caráter provisório e suplementar, sendo seu valor fixado de acordo com grau de complexidade do atendimento de vulnerabilidade e risco pessoal das famílias e indivíduos afetados.
+
+
+Art. 64.
+
+Ato normativo editado pelo Poder Executivo Municipal disporá sobre os procedimentos e fluxos de oferta na prestação dos beneficios eventuais.
+
+
+Art. 65.
+
+Compete a Secretaria Municipal de Assistência Social e Direitos Humanos - SMASDH, a coordenação geral, a operacionalização, o acompanhamento e a avaliação dos benefícios eventuais mediante:
+
+
+I –
+
+Estudos periódicos da realidade local e monitoramento da demanda para ampliação ou adequação da concessão dos benefícios;
+
+
+II –
+
+Inclusão ou atualização das famílias junto ao Cadastro Único е nos demais serviços socioas: istenciais:
+
+
+III –
+
+Promoção de ações que viabilizem e garantam a divulgação dos benefícios eventuais e dos critérios empregados para sua concessão;
+
+
+IV –
+
+Encaminhamento ao Conselho Municipal de Assistência Social - CMAS, semestralmente, prestação de contas relativas aos benefícios eventuais concedidos, para fins de acompanhamento.
+
+
+Art. 66.
+
+Compete Conselho Municipal de Assistência Social CMAS fiscalizar a aplicação dos recursos direcionados a concessão de benefícios eventuais, da seguinte forma:
+
+
+I –
+
+Fornecer ao Município informações sobre possíveis irregularidades na aplicação dos recursos destinados aos benefícios eventuais;
+
+
+II –
+
+Avaliar e, verificando a necessidade, proceder a reformulação da regulamentação dos beneficios eventuais a cada ano, indicando alteração da quantidade e do valor disponibilizado na Lei Orçamentária Anual.
+
+
+##### Seção III — DOS RECURSOS ORÇAMENTÁRIOS PARA OFERTA DE BENEFÍCIOS EVENTUAIS
+
+
+Art. 67.
+
+As despesas decorrentes da execução dos beneficios eventuais serão providas por meio de dotações orçamentárias do Fundo Municipal de Assistência Social-FMAS.
+
+
+Parágrafo único
+
+As despesas com Benefícios Eventuais devem ser previstas anualmente na Lei Orçamentária Anual do Município - LOA, e ainda, cofinanciadas pelo Estado.
+
+
+##### Seção IV — DOS SERVIÇOS
+
+
+Art. 68.
+
+Serviços socioassistenciais são atividades continuadas que visem à melhoria de vida da população e cujas ações, voltadas para as necessidades básicas, observem os objetivos, princípios e diretrizes estabelecidas na Lei n° Federal 8742, de 1993, e na Tipificação Nacional dos Serviços Socioassistenciais - Resolução n.° 109, de 11 de novembro de 2009 - CNAS.
+
+
+##### Seção V — DO SERVIÇO DE ACOLHIMENTO FAMILIAR
+
+
+Art. 69.
+
+O Serviço de Acolhimento Familiar - SAF é uma modalidade de provisão de proteção social especial, que integra as garantias do SUAS, em relação ao atendimento de crianças e adolescentes que necessitem de proteção integral, através de um acolhimento provisório, e tem a finalidade de amenizar os reflexos irrefutáveis do afastamento de sua família de origem, a fim de assegurar uma convivência familiar e comunitária condizentes com sua situação de vulnerabilidade social. Instituída e regulamentada pela Lei Municipal 4.385 de 15 de dezembro de 2014, que estabelece suas diretrizes e operacionalização na Secretaria Municipal de Assistência Social-SMASDH.
+
+
+Art. 70.
+
+O Serviço de Acolhimento Familiar - SAF poderá ser cofinanciado com recursos da esfera federal e estadual, cabendo ao Município por meio da SMASDH a sua execução, manutenção e continuidade, devendo para tanto, estar prevista tal despesa no Orçamento Municipal.
+
+
+Parágrafo único
+
+Cabe ao Município garantir a composição da equipe técnica, que possuirá um coordenador, sob supervisão da Gerencia de Proteção Especial, que estabelecerá o adequado funcionamento dos serviços, valendo-se de funcionários integrantes do quadro de pessoal do município.
+
+
+##### Seção VI — DOS PROGRAMAS DE ASSISTÊNCIA SOCIAL
+
+
+Art. 71.
+
+Os programas de assistência social compreendem ações integradas e complementares com objetivos, tempo e área de abrangência definidos para qualificar, incentivar e melhorar os benefícios e os serviços assistenciais.
+
+
+§ 1º
+
+Os programas serão definidos pelo Conselho Municipal de Assistência Social, obedecidos os objetivos e princípios que regem Lei Federal n° 8742, de 1993, com prioridade para a inserção profissional e social.
+
+
+§ 2º
+
+Os programas direcionados a grupos específicos, deverão compreender, além, das transferências de renda, o trabalho social com a famílias e a oferta de serviços socioeducativos, incluídos aqueles voltados para o idoso e a integração da pessoa com deficiência, que serão devidamente articulados com o benefício de prestação continuada estabelecido no art. 20 da Lei Federal n° 8742, de 1993.
+
+
+##### Seção VII — DO PROGRAMA “GARANTINDO SONHOS"
+
+
+Art. 72.
+
+O programa "Garantindo Sonhos" é uma modalidade de provisão da Proteção Social Especial, que funciona como um programa de caráter intersetorial, que, compreende transferências de renda, trabalho social com famílias e oferta de serviços socioeducativos para crianças e adolescentes que se encontrem em situação de trabalho infantil no Município de Barra Mansa.
+
+
+Parágrafo único
+
+De acordo com as seguranças afiançadas pelo SUAS para o enfrentamento de situações de risco e vulnerabilidade vivenciada por famílias e/ou indivíduos, e conforme a prerrogativa de garantia da segurança de renda que prevê a concessão de auxílios financeiros e/ou a concessão de benefícios continuados aos indivíduos que apresentem vulnerabilidades decorrentes do ciclo de vida e/ou incapacidade para a vida independente e para o trabalho.
+
+
+Art. 73.
+
+A proposta de oferta deste serviço socioeducativo com subsidio financeiro no valor equivalente a 14 do salário mínimo vigente e atenderá exclusivamente as crianças e adolescentes em situação de trabalho infantil e seus familiares.
+
+
+Parágrafo único
+
+O público alvo prioritário para este programa serão as famílias referenciadas pelo CREAS, em acompanhamento pelo PAEFI e/ou em MSE, cuja sítuação de trabalho infantil seja constatada por meio da articulação com a Rede Intersetorial e o Serviço de Convivência e Fortalecimento de Vínculos.
+
+
+I –
+
+A principal proposta do programa a que se refere o caput deste artigo é oferecer em caráter emergencial um subsidio financeiro municipal, as famílias PETI, a fim de contribuir para a prevenção e erradicação do trabalho infantil nos territórios com maior incidência desta demanda.
+
+
+II –
+
+Este programa terá como objetivos, estimular a retirada imediata de crianças e adolescentes da situação de trabalho infantil, prevenir a incidência do trabalho precoce e ofertar o serviço socioeducativo com essas famílias.
+
+
+III –
+
+O programa será realizado por meio de grupos e oficinas (respeitando as orientações da OMS no que se refere aos cuidados em saúde) com ênfase na preparação para o primeiro emprego em consonância com as diretrizes do ACESSUAS Trabalho.
+
+
+IV –
+
+Deverá ser implementado um sistema de Banco de Dados com a finalidade de confrontar os dados de oferta de primeiro emprego com os dados dos adolescentes atendidos pelos serviços.
+
+
+V –
+
+Compete as equipes da Proteção Social Especial, regulamentar a operacionalização deste programa por meio de Nota Técnica, aprovada por Resolução do CMAS, e articular a sensibilização dos contratantes e parceiros no que ser refere aos critérios de contratação, visto que em sua maioria, os jovens usuários dos serviços da assistência social apresentam distorção quanto a idade e a série escolar correspondente.
+
+
+##### Seção VIII — DA BOLSA DESENVOLVIMENTO
+
+
+Art. 74.
+
+O Bolsa Desenvolvimento, é uma modalidade de provisão de proteção social especial, que funciona como um programa de integração da pessoa com deficiência, e as garantias do SUAS, para os cidadãos usuários das Oficinas de Trabalho, ofertadas pelo Centro Dia de Atendimento à Pessoa com Deficiência.
+
+
+Parágrafo único
+
+Este programa de bolsa, a que se refere o caput deverá enquadrar-se entre os Serviços de Ação Continuada, utilizando recursos do FMAS/SMASDН.
+
+
+Art. 75.
+
+O Bolsa Desenvolvimento tem a finalidade de promover a autonomia, a inclusão social e a melhoria da qualidade de vida para pessoas com deficiência, priorizando aquelas que se encontram em situação de vulnerabilidade social, e se destina a pessoas adultas, de 18 a 59 anos, que frequentam as Oficinas Abrigadas de Trabalho - OAT, ofertadas pelo Centro Dia, de acordo com critérios de concessão à serem estabelecidos em norma própria.
+
+
+##### Seção IX — DOS PROJETOS DE ENFRENTAMENTO A POBREZA
+
+
+Art. 76.
+
+Os projetos de enfrentamento da pobreza compreendem a instituição de investimento econômico-social nos grupos populares, buscando subsidiar, financeira e tecnicamente, iniciativas que lhes garantam meios, capacidade produtiva e de gestão para melhoria das condições gerais de subsistência, elevação do padrão da qualidade de vida, preservação do meio-ambiente e sua organização social.
+
+
+Parágrafo único
+
+Os projetos de Enfrentamento à Pobreza terão como prioridade precípua, à família, para desempenhar sua função social, de modo a adquirir condições de garantir a provisão de suas necessidades integrais, que não se limitará à complementação de renda.
+
+
+Art. 77.
+
+Os projetos de Enfrentamento à pobreza devem ser realizados por meio de instrumento técnico, elaborado sempre que possível, de foram intersetorial, englobando as várias políticas públicas, com a finalidade de estruturação e organização de ações articuladas voltadas ao público que se encontra em situação de vulnerabilidade e risco, e aprovados pelo CMAS.
+
+
+Parágrafo único
+
+Os projetos de enfrentamento à pobreza embora não estejam tipificados, devem seguir as diretrizes do SUAS, como de extrema importância para a matricialidade socio familiar, priorizando a centralidade das ações na família.
+
+
+I –
+
+O Município deverá incentivar e subsidiar por meio de apoio técnico e/ou financeiro, as instituições inscritas no CMAS, que realizarem ações socio assistenciais para o enfrentamento da pobreza;
+
+
+II –
+
+As entidades sócio assistenciais que atuam na área de assessoramento e garantia de direitos, deverão encaminhar seu público alvo para ser cadastrado no CADÚNICO, e referenciade no CRAS de abrangência de seu domicilio;
+
+
+Art. 78.
+
+As ações de enfrentamento à pobreza deverão contribuir com a efetivação dos direitos humanos a um padrão de uma vida digna, por meio do direcionamento das ações no âmbito das atribuições da assistência social, a serem desenvolvidas pelo poder público e entidades de assistência social do município.
+
+
+§ 1º
+
+São entendidas como famílias em situação de pobreza ou extrema pobreza, aquelas com renda mensal familiar de até ½ (meio) salário mínimo por pessoa;
+
+
+§ 2º
+
+Deverá ser priorizada pelos programas e projetos enfrentamento a pobreza, as famílias que compõem o público alvo do BPC, dos Benefícios Eventuais e PBF, nos diferentes territórios do município, a partir das informações do Cadastro Único para Programas Sociais, no que tange a:
+
+
+a)
+
+Identificar e cadastrar as famílias que compõem o público acompanhado pelas Entidades Socioassistenciais, em situação de pobreza e extrema pobreza no território, potencializando o acesso aos programas sociais;
+
+
+b)
+
+Adotar medidas para o controle e a prevenção de fraudes ou inconsistências cadastrais, disponibilizando canais para ao recebimento de denúncias;
+
+
+c)
+
+Permitir acesso do CMAS às informações cadastrais, sem prejuízo das implicações ético-legais relativas ao uso dessas informações.
+
+
+§ 3º
+
+Atualização permanente das informações sobre as situações vividas pelas famílias em condição de pobreza, seja por meios eletrônicos ou físicos, zelando pela guarda e sigilo dos registros.
+
+
+§ 4º
+
+Produzir e sistematizar informações, construindo indicadores e índices territorializados das situações de risco e vulnerabilidade social, que incidem sobre famílias e sobre os indivíduos nos diferentes ciclos de vida.
+
+
+§ 5º
+
+Fortalecer o papel dos CRAS e dos CREAS como unidades responsáveis pelo referenciamento, respectivamente, de Proteção Social Básica e da Proteção Social Especial, por meio da regulação de fluxos de articulação com a rede socioassistencial, e demais políticas públicas e órgãos do Sistema de Garantia de Direitos.
+
+
+##### Seção X — DO PROJETO RECOMEÇAR
+
+
+Art. 79.
+
+O Projeto Recomeçar, é uma modalidade de provisão da Proteção Social Especial, que integrará as garantias do SUAS, destinada às pessoas adultas, com idade compreendida entre 18 à 59 anos, em processo de saída das ruas que estejam em acompanhamento pelo Centro de Referência Especializado para População em Situação de Rua - CENTRO POP e/ou pelo Serviço de Acolhimento Institucional Abrigo Municipal Mário Antônio de Carvalho (Pinguilin).
+
+
+Parágrafo único
+
+O Projeto a que se refere o caput deste artigo deve se enquadrar entre as ações da Gerencia de Proteção Especial, utilizando recursos do FMAS/SMASDH, ou a ele designados.
+
+
+Art. 80.
+
+O Projeto Recomeçar tem como objetivo ofertar ações que forneçam atenção a população que se encontra em processo de saída das ruas e reconstrução de vida, propiciando acompanhamento social, de saúde, lazer, cultura além de proporcionar acesso a atividades laborativas, renda e autonomia financeira e terá como fundamento:
+
+
+I –
+
+Renda: promover o acesso a um subsidio financeiro mensal no valor de ½ salário mínimo nacional vigente;
+
+
+II –
+
+Autonomia: desenvolver ações estratégicas que visem à reestruturação individual e/ou familiar a fim de fortalece-lo para o exercício de suas funções de auto organização e conquista de autonomia;
+
+
+III –
+
+Socialização: estimular por meio de atividades em grupo situações que propiciem a interação social;
+
+
+IV –
+
+Cidadania: promover ações voltadas para o fortalecimento da participação social e controle social, com vistas ao pertencimento e empoderamento;
+
+
+V –
+
+Saúde: motivar o acesso aos serviços de saúde, motivando-os sobre a necessidade e importância do auto cuidado;
+
+
+VI –
+
+Ocupação: propiciar através de atividade laborativa a inserção no mercado de trabalho por meio da promoção de suas potencialidades;
+
+
+VII –
+
+Territorialidade: promover articulação entre a Proteção Social Básica e Proteção Social Especial, buscando fortalecer o território de origem ou de identificação do usuário, com a finalidade de construir redes de apoio, para a reinserção do mesmo no território.
+
+
+Art. 81.
+
+Os critérios de elegibilidade para inserção no Projeto Recomeçar são:
+
+
+I –
+
+Ter entre 18 (dezoito) a 59 (cinquenta e nove) anos, e estar em processo de saída das ruas e reconstrução da vida, salvo exceções, estabelecidas pela equipe de avaliação do projeto;
+
+
+II –
+
+Ser acompanhado pelo Centro de Referência Especializado para População em situação de Rua - Centro POP e/ou pelo Serviço de Acolhimento Institucional Abrigo Municipal Mário Antônio de Carvalho (Pinguilin).
+
+
+III –
+
+Estar em acompanhamento pela rede de Atenção Psicossocial por meio dos CAPS e/ou outras instituições referenciadas.
+
+
+§ 1º
+
+A inserção no Projeto Superação ocorrerá por meio de encaminhamento do CENTRO POP, em avaliação conjunta com a equipe do Serviço de Acolhimento Institucional Abrigo Municipal Mário Antônio de Carvalho (Pinguilin).
+
+
+§ 2º
+
+Para participação no Projeto Recomeçar é estritamente necessária a manifestação de interesse pelo usuário;
+
+
+§ 3º
+
+Será disponibilizado até 30 (trinta) bolsas-auxilio no valor de 1½ (meio) salário mínimo nacional vigente.
+
+
+Art. 82.
+
+Para permanência no Projeto Recomeçar faz-se necessário o cumprimento dos seguintes critérios:
+
+
+I –
+
+assiduidade e pontualidade nas atividades propostas pelo projeto, inclusive nos acompanhamentos referentes à saúde;
+
+
+II –
+
+assiduidade e comprometimento nos atendimentos sistemáticos realizados pelo CENTRO POP e pelo Serviço de Acolhimento Institucional Abrigo Municipal Mário Antônio de Carvalho (Pinguilin), bem como, boa convivência com os servidores e demais usuários;
+
+
+III –
+
+zelo pela manutenção do local onde o trabalho é realizado;
+
+
+§ 1º
+
+O desligamento poderá ocorrer por desistência, por indisciplina, por deixar de cumprir as condicionantes/requisitos ou por acesso a algum benefício assistencial.
+
+
+§ 2º
+
+O usuário terá o direito de permanecer no projeto por tempo indeterminado, até a inserção no mercado de trabalho formal ou qualquer outra forma de autonomia financeira.
+
+
+#### CAPÍTULO VI — DO FINANCIAMENTO DA POLÍTICA MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+
+Art. 83.
+
+O financiamento da Política Municipal de Assistência Social está previsto e executado através dos instrumentos de planejamento orçamentário municipal, que se desdobram no Plano Plurianual, na Lei de Diretrizes Orçamentárias e na Lei Orçamentária Anual.
+
+
+Art. 84.
+
+Caberá ao órgão gestor da assistência social responsável pela utilização dos recursos do respectivo Fundo Municipal de Assistência Social o controle e o acompanhamento dos serviços, programas, projetos e benefícios socioassistenciais, por meio dos respectivos órgãos de controle, independentemente de ações do órgão repassador dos recursos.
+
+
+Parágrafo único
+
+Os entes transferidores poderão requisitar informações referentes à aplicação dos recursos oriundos do seu fundo de assistência social, para fins de análise e acompanhamento de sua boa e regular utilização.
+
+
+##### Seção I — DO FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+
+Art. 85.
+
+O Fundo Municipal de Assistência Social - FMAS é um instrumento público de gestão orçamentária, financeira e contábil, criado em 03 de novembro de 1997, respectivamente pela Lei 2.956, com o objetivo de proporcionar recursos para o cofinanciamento da gestão, serviços, programas, projetos e beneficios socioassistenciais do município, de acordo com a legislação nacional do SUAS.
+
+
+Art. 86.
+
+O FMAS de Barra Mansa, está estruturado como unidade orçamentária, com legislação de origem anterior ao SUAS, e será reestruturado concomitantemente, com a aprovação da Lei do SUAS Municipal.
+
+
+##### Seção II — DA ADMINISTRAÇÃO DO FUNDO
+
+
+Art. 87.
+
+O FMAS ficará vinculado diretamente à Secretaria Municipal de Assistência Social e Direitos Humanos - SMASDH, que agirá como executor das deliberações do Conselho Municipal de Assistência Social e Gestor do respectivo fundo.
+
+
+Art. 88.
+
+O gestor do FMAS, será o Secretário da pasta responsável pela gestão do SUAS, nomeado pelo Prefeito Municipal e possuirá as seguintes atribuições, de acordo com as deliberações do CMAS:
+
+
+I –
+
+Gerir o Fundo Municipal de Assistência Social, visando o seu funcionamento de acordo com o objetivo para o qual foi criado;
+
+
+II –
+
+Acompanhar, avaliar e implementar as ações previstas no Plano Municipal de Assistência Social;
+
+
+III –
+
+Submeter ao Conselho Municipal de Assistência Social as demonstrações mensais de receita e despesa do FMAS;
+
+
+IV –
+
+Submeter ao Conselho Municipal de Assistência Social o plano de aplicação a cargo do FMAS, em consonância com o Plano Municipal de Assistência Social e com a Lei de Diretrizes Orçamentárias;
+
+
+V –
+
+Encaminhar à Contabilidade Geral do Município as demonstrações mencionadas no inciso anterior, bem como encaminhá-las à Controladoria Geral do Município;
+
+
+VI –
+
+Subdelegar competências aos responsáveis pelos estabelecimentos de prestação de serviços de assistência social;
+
+
+VII –
+
+Assinar ordens de pagamento, cheques, em conjunto com o responsável pela tesouraria;
+
+
+VIII –
+
+Ordenar empenhos e pagamentos de despesas do FMAS.
+
+
+Art. 89.
+
+A gestão e administração do FMAS serão estruturadas de modo a atender todas as especificações contidas no art. 53 da NOB/SUAS, e em conformidade com o disposto no art. 75 desta lei.
+
+
+I –
+
+A administração do FMAS possuirá um Coordenador constituído por servidor público, de nível superior, com formação em serviço social, com as seguintes atribuições;
+
+
+a)
+
+Preparar avaliação e relatório de acompanhamento das ações de assistência social realizadas no período, para apreciação do gestor do FMAS.
+
+
+b)
+
+Encaminhar a Controladoria Geral do Município, e ao CMAS/BM, os relatórios, as demonstrações financeiras, inventário anual e o balancete anual do FMAS.
+
+
+c)
+
+Manter os controles necessários sobre convênios ou contratos firmados por órgãos da administração direta por meio de verbas do FMAS.
+
+
+d)
+
+Assinar com o gestor todas as documentações emitidas no FMAS.
+
+
+e)
+
+Assinar ordens de pagamento, cheques, transações, todas atividades financeiras, com o gestor e/ou tesoureiro, em caso impedimento de um deles.
+
+
+II –
+
+O FMAS possuirá um Assessor Contábil, servidor público efetivo estatutário e/ou celetista, de nível superior, com formação em ciências contábeis, que será responsável por toda a escrituração da contabilidade, cujas atribuições serão:
+
+
+a)
+
+Assinar em conjunto com o gestor do FMAS as Notas de Empenho e Ordem de Pagamento.
+
+
+b)
+
+Assinar demonstrações mensais da receita e despesa a serem encaminhadas à Controladoria Geral do Município.
+
+
+c)
+
+Manter os controles necessários a execução orçamentaria do fundo, referente aos empenhos, liquidação de pagamento das despesas e recebimento das receitas do FMAS.
+
+
+d)
+
+Bimestralmente, relatório sobre andamento das ações relativas ao cumprimento dos objetivos do FMAS.
+
+
+e)
+
+Trimestralmente, relatório sobre a execução das ações relativas ao cumprimento dos objetivos do FMAS, e os inventários de estoque.
+
+
+f)
+
+Anualmente, o inventário dos bens móveis e imóveis e o balanço geral do FMAS, e manter os controles necessários sobre convênios ou contratos financiados pelo FMAS.
+
+
+g)
+
+Fiscalizar os processos de compra e pagamento, revestindo-os nas formalidades legais para realização de empenho e pagamentos respectivamente.
+
+
+h)
+
+Assinar em conjunto como responsável, os relatórios de patrimônio e almoxarifado.
+
+
+i)
+
+Apresentar ao gestor do FMAS, a análise e a avaliação da situação econômico-financeira detectada nas demonstrações contábeis.
+
+
+Parágrafo único
+
+Será encaminhada a Contabilidade Geral do Município os relatórios previstos nas alíneas "d", "e", "f" do inciso II.
+
+
+Art. 90.
+
+Compete ao Poder Executivo a manutenção de infraestrutura e recursos humanos técnicos e/ou administrativos indispensáveis ao bom funcionamento do FMAS, que contará com equipe multiprofissional, responsável pela operacionalização dos sistemas informacionais compatíveis para execução de serviços, contratos, acordos, ajustes ou atos similares, obedecendo à legislação vigente sobre a matéria e em conformidade com os planos aprovados pelo CMAS.
+
+
+Parágrafo único
+
+As atribuições dos responsáveis pelos demais setores de execução de serviços do FMAS serão estabelecidas por meio de Decreto que regulamentará sua estrutura administrativa juntamente com a SMASDH.
+
+
+##### Seção III — DOS RECURSOS DO FUNDO
+
+
+Art. 91.
+
+Constituirão receitas do Fundo Municipal de Assistência Social - FMAS:
+
+
+I –
+
+recursos provenientes da transferência dos Fundos Nacional e Estadual de Assistência Social;
+
+
+II –
+
+dotações orçamentárias do Município e recursos adicionais que a Lei estabelecer no transcorrer de cada exercício;
+
+
+III –
+
+doações, auxílios, contribuições, subvenções de organizações internacionais e nacionais, Governamentais e não Governamentais;
+
+
+IV –
+
+receitas de aplicações financeiras de recursos do fundo, realizadas na forma da lei;
+
+
+V –
+
+as parcelas do produto de arrecadação de outras receitas próprias oriundas de financiamentos das atividades econômicas, de prestação de serviços e de outras transferências que o Fundo Municipal de Assistência Social terá direito a receber por força da lei e de convênios no setor.
+
+
+VI –
+
+produtos de convênios firmados com outras entidades financiadoras;
+
+
+VII –
+
+doações em espécie feitas diretamente ao Fundo;
+
+
+VIII –
+
+recursos financeiros do estado, destinados à manutenção do pagamento dos Benefícios Eventuais.
+
+
+IX –
+
+produto de venda de materiais produzidos nas oficinas de trabalho da SMASDH, publicações e eventos realizados.
+
+
+X –
+
+outras receitas que venham a ser legalmente instituídas.
+
+
+§ 1º
+
+A dotação orçamentária prevista para o órgão executor da Administração Pública Municipal, responsável pela Assistência Social, será automaticamente transferida para a conta do Fundo Municipal de Assistência Social, tão logo sejam realizadas as receitas correspondentes.
+
+
+§ 2º
+
+Os recursos que compõem o Fundo, serão depositados em instituições financeiras oficiais, em conta especial sobre a denominação - Fundo Municipal de Assistência Social - FMAS.
+
+
+§ 3º
+
+As contas recebedoras dos recursos do cofinanciamento federal das ações socioassistenciais serão abertas pelo Fundo Nacional de Assistência Social.
+
+
+Art. 92.
+
+O FMAS será gerido pela Secretaria Municipal de Assistência Social e Direitos Humanos, sob orientação e fiscalização do Conselho Municipal de Assistência Social.
+
+
+Parágrafo único
+
+O Orçamento do Fundo Municipal de Assistência Social - FMAS integrará o orçamento da Secretaria Municipal de Assistência Social.
+
+
+Art. 93.
+
+Os recursos do Fundo Municipal de Assistência Social - FMAS, serão aplicados prioritariamente em:
+
+
+I –
+
+financiamento total ou parcial de programas, projetos e serviços de assistência social desenvolvidos pela Secretaria Municipal de Assistência Social e Direitos Humanos ou por Órgão conveniado;
+
+
+II –
+
+em parcerias entre poder público e entidades de assistência social para a execução de serviços, programas e projetos socioassistencial específicos, em conformidade com a Lei Federal n.º 13.019 de 31 de julho de 2014, que estabelece o regime jurídico das parcerias voluntárias;
+
+
+III –
+
+aquisição de material permanente e de consumo e de outros insumos necessários ao desenvolvimento das ações socioassistenciais;
+
+
+IV –
+
+construção reforma ampliação, aquisição ou locação de imóveis para prestação de serviços de Assistência Social;
+
+
+V –
+
+desenvolvimento e aperfeiçoamento dos instrumentos de gestão, planejamento, administração e controle das ações de Assistência Social, incluídas a prestação de serviços de consultoria ou assessoria técnica;
+
+
+VI –
+
+pagamento dos benefícios eventuais, conforme o disposto no inciso I do art. 15 da Lei Federal nº 8.742, de 1993;
+
+
+VII –
+
+pagamento de profissionais que integrarem as equipes de referência, responsáveis pela organização e oferta daquelas ações, conforme percentual apresentado pelo Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome - MDS e aprovado pelo Conselho Nacional de Assistência Social - CNAS.
+
+
+Art. 94.
+
+O repasse de recursos para as entidades e organizações de Assistência Social, devidamente inscritas no CMAS, será efetivado por intermédio do FMAS, de acordo com critérios estabelecidos pelo Conselho Municipal de Assistência Social, observando o disposto nesta Lei.
+
+
+Art. 95.
+
+Os relatórios de execução orçamentária e financeira do Fundo Municipal de Assistência Social serão submetidos à apreciação do CMAS, trimestralmente, de forma sintética e, anualmente, de forma analítica.
+
+
+##### Seção IV — DOS ATIVOS DO FUNDO
+
+
+Art. 96.
+
+Constituem ativos do Fundo Municipal de Assistência Social:
+
+
+I –
+
+disponibilidade monetária em banco ou em caixa especial oriundas das receitas especificadas;
+
+
+II –
+
+direitos que, porventura, vier a constituir;
+
+
+III –
+
+bens móveis e imóveis doados sem ônus;
+
+
+IV –
+
+bens móveis e imóveis destinados as atividades de assistência social do Munícipio e adquiridos com os recursos do FMAS.
+
+
+Parágrafo único
+
+Anualmente processar-se-á o inventário dos bens e direitos vinculados ao FMAS.
+
+
+##### Seção V — DOS PASSIVOS DO FUNDO
+
+
+Art. 97.
+
+Constituem passivos do FMAS as obrigações de qualquer natureza que porventura o Município venha assumir para a manutenção e o atendimento da assistência social.
+
+
+##### Seção VI — DO ORÇAMENTO E DA CONTABILIDADE DO FUNDO
+
+
+Art. 98.
+
+O orçamento do FMAS evidenciará as politicas e os programas de trabalho governamentais, observada a Lei de Diretrizes Orçamentárias e princípios da universalidade e do equilíbrio financeiro.
+
+
+§ 1º
+
+O orçamento do FMAS integrará o orçamento do Município, em obediência ao princípio da unicidade.
+
+
+§ 2º
+
+O orçamento do FMAS observará, na sua elaboração e na sua execução, os padrões e normas estabelecidas na legislação pertinente.
+
+
+Art. 99.
+
+A contabilidade do FMAS tem como responsabilidade, evidenciar a situação financeira, patrimonial e orçamentária das ações na área de assistência social, em conformidade com os padrões e normas estabelecidas na legislação vigente.
+
+
+Art. 100.
+
+A contabilidade do FMAS será organizada de forma a permitir o exercício das funções de controle prévio, concomitante e subsequente de informar, inclusive de apropriar e apurar custos dos serviços e consequentemente, de concretizar o seu objetivo, bem como interpretar e analisar os resultados obtidos.
+
+
+Art. 101.
+
+A escrituração contábil será realizada pelo método das partidas dobradas.
+
+
+§ 1º
+
+A contabilidade emitirá relatórios mensais de gestão, inclusive dos custos dos serviços.
+
+
+§ 2º
+
+Entende-se por relatórios de gestão, os balancetes mensais de receita e despesa do FMAS e demais demonstrações exigidas pela administração e legislação pertinente.
+
+
+Art. 102.
+
+Os benefícios, serviços, programas e projetos definidos nesta lei deverão observar a disponibilidade orçamentária, sendo que nenhuma despesa poderá ser realizada sem a necessária autorização orçamentária prévia.
+
+
+Parágrafo único
+
+As despesas do FMAS obedecerão às regras estabelecidas em lei ou regulamentos aplicados em despesas públicas em geral.
+
+
+Art. 103.
+
+As despesas decorrentes da presente Lei correrão por conta do orçamento da Secretaria Municipal de Assistência Social e Direitos Humanos.
+
+
+Art. 104.
+
+Os benefícios eventuais observarão a disponibilidade orçamentária e poderão ser concedidos em forma de pecúnia, e/ou bens, e/ou isenções.
+
+
+Art. 105.
+
+Esta lei entra em vigor na data da sua publicação.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 11 DE ABRIL DE 2025.
+
+
+LUIZ ANTÔNIO FURLANI FILHO  
+PREFEITO
+

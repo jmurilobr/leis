@@ -1,0 +1,26 @@
+---
+titulo: "PORTARIA Nº 2.500, DE 13 DE SETEMBRO DE 2019"
+orgao: "Ministério da Justiça e Segurança Pública/Polícia Federal/Diretoria Executiva/Coordenação-Geral de Controle de Serviços e Produtos"
+tipo: "Portaria"
+numero: "2500"
+data: 2019-09-13
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 16/10/2019, seção 1, p. 32"
+data_publicacao: 2019-10-16
+edicao: "201"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-2.500-de-13-de-setembro-de-2019-222052012"
+sha256_html_fonte: e4f080241310d01382306c87c7a9f3fb5db45735d066865b9885cadc7552b241
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 2.500, DE 13 DE SETEMBRO DE 2019
+
+PORTARIA Nº 2.500, DE 13 DE SETEMBRO DE 2019
+
+O(A) COORDENADOR(A)-GERAL DE CONTROLE DE SERVIÇOS E PRODUTOS, por delegação do DIREX/PF, no uso das atribuições, acolhendo os fundamentos do Parecer nº 25274/2019, decide:
+
+Aplicar a pena de CANCELAMENTO PUNITIVO a CONDOMINIO DO TERRA PARQUE SHOPPING, CNPJ nº 08.154.896/0001-75, sediada em Minas Gerais, por praticar a conduta tipificada no artigo 173, inciso VIII PORT.N° 3.233/12-DG/DPF DE 10/12/12, conforme consta no Processo nº 2019/57044.
+
+O prazo para apresentação de recurso é de 10 (dez) dias a contar da ciência no processo.
+
+LICINIO NUNES DE MORAES NETTO

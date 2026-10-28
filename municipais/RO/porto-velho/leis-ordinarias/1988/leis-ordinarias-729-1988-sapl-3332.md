@@ -1,0 +1,247 @@
+---
+titulo: "Lei nº 729, de 20 de abril de 1988"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "729"
+data: "1988-04-20"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/3332"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/4357/text"
+sha256_fonte: "9a49f98883a534e173bbf2a9e5a89e0ea2f5fb88dbe7dbb1c5aac59d964f2b03"
+sha256_texto: "a29198f5e2c0a6db9aecee8089162c899a088184390b48e30a669ea8144d50f0"
+capturado_em_fonte: "2026-10-27T22:21:41.695692-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 729, de 20 de abril de 1988
+
+"Cria o Plano Comunitário de Melhoramentos, estabelece normas para o lançamento e a cobrança da Contribuição de Melhoria e dá outras providências".
+
+
+O PREFEITO DO MUNICÍPIO DE PORTO VELHO, usando das atribuições que lhe confere a letra b do § 1º do artigo 169 da Constituição do Estado de Rondônia,
+
+FAÇO SABER que a Câmara Municipal de Porto Velho aprovou e eu, sanciono a seguinte
+
+LEI:
+
+
+#### CAPÍTULO I — DO PLANO COMUNITÁRIO DE MELHORAMENTOS
+
+
+Art. 1º.
+
+Fica criado no Município de Porto Velho o PLANO COMUNITÁRIO DE MELHORAMENTOS, que obedecerá ao disposto nesta Lei e será implantado e executado pela EMPRESA DE DESENVOLVIMENTO URBANO - EMDUR ou por qualquer órgão de administração direta da Prefeitura.
+
+
+Art. 2º.
+
+O Plano Comunitário de Melhoramentos compreenderá a execução de:
+
+
+I –
+
+Retificação e regularização de cursos d'água, obras de proteção contra inundação, drenagem de águas pluviais;
+
+
+II –
+
+Guias e sarjetas, pavimentação e recapeamento de vias públicas;
+
+
+III –
+
+Calçadas, arborização e paisagismo em logradouros públicos;
+
+
+IV –
+
+Praças, parques e jardins;
+
+
+V –
+
+Obras e serviços assemelhados.
+
+
+Art. 3º.
+
+O Plano Comunitário poderá ser implementado em qualquer área do Município de Porto Velho por iniciativa própria da Administração Municipal ou por solicitação dos proprietários dos imóveis localizados nas vias e logradouros públicos ou em área onde poderão ser executadas as obras ou serviços.
+
+
+Parágrafo único
+
+Para efeito da presente Lei, equiparam-se ao proprietário de imóvel beneficiado pelo plano Comunitário de Melhoramentos o titular do domínio útil ou o seu possuidor a qualquer título na época da execução da obra, transmitindo-se o encargo aos adquirentes ou sucessores a qualquer título.
+
+
+Art. 4º.
+
+A execução de melhoramentos, quando solicitada, somente será aprovada se for interesse e conveniência do Município e segundo suas posturas e especificações técnicas.
+
+
+Parágrafo único
+
+Caberá à Prefeitura Municipal, através de seus órgãos técnicos, aprovar o projeto e o orçamento de custo da obra, fiscalizar direta ou indiretamente a execução da obra, receber e atestar sua conclusão.
+
+
+Art. 5º.
+
+O custo do melhoramento compreenderá o valor dos serviços a serem executados acrescido das despesas com a elaboração de estudos e projetos, fiscalização, desapropriações , despesas financeiras e administração e demais despesas necessárias à execução completa da obra.
+
+
+Art. 6º.
+
+O custo do melhoramento será rateado entre os proprietários dos imóveis beneficiados direta ou indiretamente por ele proporcionalmente às testadas de seus respectivos imóveis.
+
+
+§ 1º
+
+No caso de terrenos de esquina, considera-se como testada a soma da frente e do lado ou lados do terreno.
+
+
+§ 2º
+
+Quando a execução do serviço ou obra não beneficiar diretamente toda a testada de um terreno, especificamente no caso de execução de guias e sarjetas, calçadas, pavimentação e recapeamento, somente será considerada para rateio a metragem de testada beneficiada.
+
+
+Art. 7º.
+
+Antes do início da execução dos serviços, os interessados serão convocados por edital para examinarem a delimitação da área beneficiada, os imóveis beneficiados, o memorial descritivo do projeto, o orçamento de custo, o plano de rateio e os valores correspondentes a cada imóvel.
+
+
+§ 1º
+
+Os proprietários dos imóveis poderão aderir ao plano Comunitário de Melhoramentos firmado contrato de execução de obras com a EMDUR.
+
+
+§ 2º
+
+Fica facultada a qualquer interessado, dentro do prazo de trinta (30) dias da data do edital a impugnação de qualquer dos elementos do edital, cabendo-lhe o ônus da prova; a impugnação ou qualquer outro recurso administrativo não suspenderá o início dos serviços ou e prosseguimento de sua execução nem obstará aos atos para posterior lançamento e cobrança de tributo.
+
+
+Art. 8º.
+
+Somente será iniciada a execução do melhoramento se houver a concordância de proprietários representando 80% (oitenta por cento) do valor da obra.
+
+
+Art. 9º.
+
+O pagamento do valor do contrato será de ate (12) prestações mensais.
+
+
+Art. 10.
+
+A EMDUR deverá comunicar à Prefeitura Municipal os nomes, e os valores correspondentes, dos proprietários não concordantes.
+
+
+§ 1º
+
+A Prefeitura Municipal, no prazo de dez (10) dias contados do recebimento da comunicação sobre os proprietários não concordantes, deverá proceder a sua notificação, ficando os mesmos sujeitos à cobrança de tributo decorrente da obra pública executada.
+
+
+§ 2º
+
+Os proprietários não concordantes poderão aderir ao Plano Comunitário de Melhoramentos a qualquer tempo mediante a assinatura de contrato com a EMDUR atualizado o valor do serviço.
+
+
+#### CAPÍTULO II — DA CONTRIBUIÇÃO DE MELHORIA
+
+
+Art. 11.
+
+A execução de obra pública, através do Plano Comunitário de Melhoramentos e segundo o disposto nesta Lei, é fato gerador de benefício à propriedade imobiliária para efeitos de lançamento e cobrança de Contribuição de Melhoria.
+
+
+Art. 12.
+
+Considera-se como sujeito passivo da Contribuição de Melhoria o proprietário não concordante do Plano Comunitário de Melhoramentos.
+
+
+Art. 13.
+
+O limite total da Contribuição de Melhoria é o custo total da obra, conforme definido no Art. 5º desta Lei.
+
+
+Parágrafo único
+
+O valor mínimo do benefício agregado é a importância obtida pela divisão do custo total da obra pela soma das testadas dos imóveis localizados na área do Plano e multiplicada pelo metro lineares do imóvel beneficiado.
+
+
+Art. 14.
+
+O valor mínimo do benefício agregado terá seu valor monetário atualizado quando do lançamento do valor correspondente à Contribuição de Melhorias, através dos índices fixados pelo Governo Federal. Em princípio serão adotados as OTNs como índice de atualização.
+
+
+Art. 15.
+
+Cumprindo o disposto no § 1º do Art. 10 desta Lei e trinta (30) dias após a conclusão da obra beneficiando o imóvel do proprietário não concordante deverá ser processado o lançamento do tributo conforme dispõe os artigos 9º e 10 da Lei Municipal nº 530, de 26 de novembro de 1985.
+
+
+Art. 16.
+
+O pagamento da Contribuição de Melhoria poderá ser efetuado em até doze (12) prestações mensais, devidamente atualizadas monetariamente.
+
+
+Parágrafo único
+
+Fica facultado ao contribuinte a qualquer tempo, a liquidação do saldo do débito, desde que atualizado monetariamente.
+
+
+Art. 17.
+
+A Contribuição de Melhoria referente ao Plano Comunitário de Melhoramentos, caberá à Prefeitura Municipal o lançamento e a cobrança e somente será transferido os valores decorrentes desta para a EMDUR, para cobertura dos custos da obra, mediante a aprovação pela Prefeitura Municipal, de cada Projeto de Melhoramentos, na medida dos recursos disponíveis, oriundo da arrecadação deste tributo e depois de ouvida a Câmara Municipal cada vêz que se fizer necessário a transferência desses valores.
+
+
+Art. 18.
+
+Estão isentos do pagamento da Contribuição de Melhoria os contribuintes assim definidos pela Lei.
+
+
+#### CAPÍTULO III — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 19.
+
+A EMDUR, para viabilizar a execução do Plano Comunitário de Melhoramentos, poderá solicitar à Prefeitura Municipal, a alocação de recursos para cobertura das importâncias relativas ao valor da obra, e esta por sua vez, efetuará o repasse na medida de recursos disponíveis, depois de ouvida a Câmara Municipal cada vêz que isso se fizer necessário.
+
+
+Parágrafo único
+
+As importâncias recebidas pela Prefeitura Municipal decorrente da cobrança da Contribuição de Melhorias, com seus acréscimos financeiros, serão devolvidas à conta de onde houver sido retirado esses recursos e assim registrados contabilmente
+
+
+Art. 20.
+
+Esta Lei versa especificamente sobre a Contribuição de Melhoria referente ao Plano Comunitário de Melhoramentos, ora instituídos, revogadas as disposições em contrário.
+
+
+Art. 21.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+TOMÁS GUILHERME CORREIA
+
+Prefeito Municipal
+
+ELISABETH MARIA ESTEVES BADOCHA
+
+Secretária Munic. de Ação Comunitária.
+
+TEODORICO DE ALMEIDA ROCHA
+
+Secretário Munic. de Planejamento e Coordenação
+
+FRANCISCO PAULO DUARTE
+
+Secretário Munic. da Fazenda.
+
+WALTER WALTENBERG SILVA
+
+Procurador Geral.
+

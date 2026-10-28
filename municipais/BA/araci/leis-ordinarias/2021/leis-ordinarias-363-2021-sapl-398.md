@@ -1,0 +1,278 @@
+---
+titulo: "Lei Ordinária nº 363, de 03 de setembro de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "363"
+data: "2021-09-03"
+municipio: "Araci"
+uf: "BA"
+codigo_ibge: "2902104"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.araci.ba.leg.br/norma/398"
+fonte_texto: "https://sapl.araci.ba.leg.br/ta/143/text"
+sha256_fonte: "a37b55279b5d98ca21d5433908dbad1e04ea9fa5374e03085a960f6b83050e23"
+sha256_texto: "6b7ef8ce4ebb9280f89b6ae8e5ad534a51399c7e7b5fd8787ba1d81609e79ad8"
+capturado_em_fonte: "2026-10-27T16:55:20.808754-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 363, de 03 de setembro de 2021
+
+LEI Nº 363 DE 03 DE SETEMBRO DE 202
+
+
+Autoriza o Poder Executivo Municipal a promover campanha de estímulo à arrecadação do Imposto Sobre Propriedade Predial e Territorial Urbano – IPTU, mediante realização de sorteios de prêmios, como meio de auxiliar a fiscalização e melhorar a arrecadação de tributos municipais e dá outras providências
+
+
+**A PREFEITA MUNICIPAL DE ARACI**, Estado da Bahia, no uso de suas atribuições legais e constitucionais, faz saber que a Câmara Municipal de Vereadores aprovou e eu sanciono a seguinte Lei
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a promover anualmente campanha de estímulo à arrecadação do Imposto Sobre a Propriedade Predial e Territorial Urbano – IPTU, através do **Programa “IPTU Premiado”**, com objetivo de estimular o pagamento de IPTU e reduzir o crescimento da Dívida Ativa incidente sobre a propriedade predial e territorial urbana, através da distribuição gratuita de prêmios, por sorteio, aos proprietários e legítimos possuidores de imóveis inscritos no Cadastro Imobiliário do Município, que comprovem a regularidade de suas obrigações tributárias junto à Fazenda Pública Municipal, em relação aos tributos de sua competência
+
+
+Art. 2º.
+
+Para fins do disposto neste artigo, considera-se;
+
+
+I –
+
+abrangido na competência municipal os seguintes tributos: imposto sobre a propriedade predial e territorial urbano – IPTU e a Taxa de coleta de resíduos sólidos por serem cobradas na mesma guia de recolhimento
+
+
+II –
+
+situação regular, quando se comprove
+
+
+a)
+
+A inexistência de débitos referentes aos tributos mencionados no inciso I, em nome do contribuinte, em relação a todos os imóveis inscritos em seu nome no Cadastro Imobiliário do Município, inscritos ou não em dívida ativa, ajuizada ou em condição de ajuizamento no ato da retirada do prêmio
+
+
+b)
+
+A existência de débitos parcelados, em curso de pagamento, em dia até a data mencionada da alínea “a” deste inciso;
+
+
+c)
+
+Cujos débitos eventualmente existentes, sejam objetos de reclamações ou recurso em processo administrativo junto ao Município
+
+
+III –
+
+legítimo possuidor, aquele que não sendo proprietário exerce sobre o bem a posse com animus domini e que conste do Cadastro Imobiliário do Município como responsável pelo imóvel.
+
+
+Art. 3º.
+
+O Programa “IPTU PREMIADO” consistirá na realização de sorteio de prêmios, para, dentre outras finalidades, estimular a arrecadação do Imposto Predial Territorial Urbano – IPTU, valorizando a atitude positiva dos munícipes regulares com as suas obrigações junto à Fazenda Pública Municipal, premiando os que estejam adimplentes
+
+
+Parágrafo único
+
+Não poderá participar dos sorteios:
+
+
+I –
+
+o(a) Prefeito(a) e o(a) Vice-Prefeito(a);
+
+
+II –
+
+os(as) Secretários(as) Municipais;
+
+
+III –
+
+os(a)Vereadores(a);
+
+
+IV –
+
+os Membros da Comissão Organizadora da Campanha e do Sorteio;
+
+
+V –
+
+as pessoas físicas ou jurídicas imunes ou isentas, parcial ou integralmente, do pagamento do IPTU, nos termos da Lei.
+
+
+Art. 4º.
+
+Será destinado ao custeio do programa o equivalente até 10% (dez por cento) dos valores arrecadados com os tributos citados no art. 2º inciso I desta Lei, referente ao exercício anterior, para aquisição dos prêmios a serem sorteados
+
+
+Parágrafo único
+
+Os recursos necessários à aquisição dos bens móveis a serem sorteados provirão.
+
+
+I –
+
+do Erário Municipal;
+
+
+II –
+
+do setor privado, mediante doação; ou
+
+
+III –
+
+de outros órgãos ou esferas da Administração Pública, mediante convênio;
+
+
+Art. 5º.
+
+Poderá participar do Programa o proprietário ou legítimo possuidor do imóvel inscrito no Cadastro Imobiliário do Município de Araci, que:
+
+
+I –
+
+comprove à Secretaria Municipal da Fazenda/Setor de Tributos, o pagamento dos tributos mencionados no art. 2º, inciso I desta Lei até o dia do vencimento constante no artigo anterior
+
+
+II –
+
+comprove através de documento hábil, a propriedade, ou legitima posse do imóvel, o que se dará pela emissão do cupom mencionado no art. 9º, inciso I desta Lei.
+
+
+Art. 6º.
+
+Para entrega dos prêmios, o contribuinte premiado terá o prazo de 30 (trinta) dias a contar da data do sorteio, para solicitar junto ao setor competente do Município, sua premiação
+
+
+Art. 7º.
+
+Os prêmios não reclamados em até 90 (noventa) dias após a realização do sorteio serão incorporados ao patrimônio público municipal, que serão destinados à Secretaria de Assistência Social, Esporte e Lazer
+
+
+Art. 8º.
+
+Será constituída uma Comissão Organizadora a qual competirá:
+
+
+I –
+
+a coordenação do sorteio, bem como, fiscalização;
+
+
+II –
+
+verificação de documentos;
+
+
+III –
+
+julgamento de casos omissos para entrega de prêmios;
+
+
+§ 1º
+
+A Comissão de Organização da Campanha e Sorteio será composta por 05 (cinco) membros que serão nomeados pelo Poder Executivo Municipal, através de Decreto
+
+
+§ 2º
+
+No ato do sorteio estarão presentes junto à Comissão de Organização da Campanha 05 (cinco) membros, dos quais
+
+
+a)
+
+02 (dois) representantes do Poder Executivo;
+
+
+b)
+
+01 (um) representante do Poder Legislativo;
+
+
+c)
+
+01 (um) representante da Câmara de Dirigentes Lojistas de Araci;
+
+
+d)
+
+01 (um) representante de Associação de Moradores de Bairros de Araci que manifeste interesse em participar do sorteio, desde que a Associação esteja constituída e regularizada de acordo com a legislação
+
+
+Art. 9º.
+
+Os sorteios serão realizados da seguinte forma:
+
+
+I –
+
+para todos os recolhimentos de IPTU dentro do prazo estipulado no art. 4º desta Lei, o sistema de arrecadação municipal gerará cupons na proporção de 01 (um) cupom para cada imóvel cujo número de identificação corresponderá ao da matrícula do imóvel;
+
+
+II –
+
+os cupons citados no inciso anterior deste artigo conterão;
+
+
+a)
+
+Identificação do contribuinte;
+
+
+b)
+
+Identificação do imóvel;
+
+
+c)
+
+Inscrição cadastral imobiliário;
+
+
+III –
+
+nos casos de imóveis pertencentes a mais de um proprietário ou legítimos possuidores, o titular da posse, constante do Cadastro Imobiliário Fiscal do Município de Araci, representará os demais para efeito do sorteio e recebimento do prêmio ou, na falta desse, aquele que estiver  
+legalmente habilitado.
+
+
+IV –
+
+no caso de imóvel inscrito em nome de Espólio ou na eventualidade do contribuinte contemplado vir a falecer, o prêmio será entregue em nome do espólio, na pessoa do seu inventariante, mediante apresentação de documento que comprove tal condição. Não havendo processo de inventário, será entregue aos sucessores legais do contribuinte contemplado, desde que devidamente comprovada tal condição, nos termos da legislação aplicável
+
+
+V –
+
+o participante que for sorteado e não puder comparecer para receber o prêmio, nomeará um representante, através de procuração pública, com poderes específicos.
+
+
+VI –
+
+sendo o participante sorteado pessoa jurídica, a entrega do prêmio será feita ao seu representante legal, mediante exibição do documento de constituição da empresa e alterações, se houver, além do documento de identidade da pessoa física que a represente.
+
+
+Art. 10.
+
+Quaisquer dúvidas e/ou casos omissos serão resolvidos pela Comissão Organizadora da Campanha e do sorteio, nomeada pelo Poder Executivo Municipal, conforme prevista no art. 8ª desta Lei, cuja decisão não caberá qualquer recurso administrativo.
+
+
+Art. 11.
+
+Fica o Poder Executivo autorizado a celebrar contratos ou convênios/parceria com instituições ou empresas, para promover a campanha com vistas à divulgação e popularização do Programa “IPTU Premiado”
+
+
+Art. 12.
+
+Revogadas as disposições em contrário.
+
+
+Gabinete da Prefeita de Araci, Estado da Bahia, 03 de Setembro de 2021
+
+
+**MARIA BETIVANIA LIMA DA SILVA Prefeita Lima da Silva**
+

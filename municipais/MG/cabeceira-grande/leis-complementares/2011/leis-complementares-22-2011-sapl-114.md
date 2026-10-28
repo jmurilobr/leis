@@ -1,0 +1,924 @@
+---
+titulo: "LEI COMPLEMENTAR nº 22, de 14 de setembro de 2011"
+tipo: "Lei complementar"
+tipo_na_fonte: "LEI COMPLEMENTAR"
+numero: "22"
+data: "2011-09-14"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/114"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/818/text"
+sha256_fonte: "998ac03dbd38d272591c7ea352e37ff67986f45561ab69eed126d360dfe5fe50"
+sha256_texto: "01b4abb1446cd4eadcf9e2cf36619e1956919bbe810e282ee7631e0ace99ab64"
+capturado_em_fonte: "2026-10-27T20:28:13.537963-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI COMPLEMENTAR nº 22, de 14 de setembro de 2011
+
+INSTITUI A LEI GERAL MUNICIPAL DA MICROEMPRESA, EMPRESA DE PEQUENO PORTE E DO EMPREENDEDOR INDIVIDUAL - MEI E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+**O Prefeito Municipal de Cabeceira Grande - MG**, no uso de suas atribuições que lhe são conferidas por Lei, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:
+
+
+#### CAPÍTULO I — Da Instituição do Estatuto Municipal da Microempresa,Empresa de Pequeno Porte e do Empreendedor Individual - MEI
+
+
+Art. 1º.
+
+Esta Lei institui o Estatuto Municipal da Microempresa – ME, da Empresa de Pequeno Porte - EPP e do Microempreendedor Individual– MEI, denominada a regulamentação, no âmbito deste Município, das Leis Complementares Federais 123/2006 e 128/2008, cujos objetivos são estabelecer tratamentos legais, de caráter diferenciado e favorecido, ao desenvolvimento do empreendedorismo, do empreendedor individual e das micro e pequenas empresas como um dos instrumentos propulsores do desenvolvimento econômico e social municipal.
+
+
+§ 1º
+
+O tratamento específico à Microempresa e à Empresa de Pequeno Porte encontra-se fundado na Constituição Federal, em especial o artigo 179.
+
+
+§ 2º
+
+O tratamento especifico ao Empreendedor Individual, encontra-se fundado na Lei complementar 128, de 19 de dezembro de 2008.
+
+
+Art. 2º.
+
+Beneficia-se desta Lei a Pessoa Jurídica classificada como microempresa, empresa de pequeno porte e o empreendedor individual de acordo com os parâmetros legais estabelecidos nas legislações de âmbito nacional e estadual, ressalvando-se as vedações, restrições e condicionantes vigentes.
+
+
+Parágrafo único
+
+Serão observadas as regulamentações do Comitê Gestor do Simples Nacional, vinculado ao Ministério da Fazenda, do Fórum Permanente das Microempresas e Empresas de Pequeno Porte e do Comitê para Gestão da REDESIM, vinculados ao Ministério de Desenvolvimento, Indústria e Comércio Exterior.
+
+
+Art. 3º.
+
+As disposições estabelecidas nesta Lei prevalecerão sobre as demais legislações e regulamentos vigentes no Município para fins de aplicação exclusivamente às Microempresas, Empresas de Pequeno Porte e Empreendedor Individual.
+
+
+Art. 4º.
+
+Todos os órgãos vinculados a administração pública municipal, incluindo as empresas, as autarquias e fundações, deverão incorporar em seus procedimentos, nos instrumentos de ajuste públicos, convênios, contratos e afins, enfim, no que couber, o tratamento diferenciado e facilitador às microempresas, empresas de pequeno porte e empreendedor individual.
+
+
+#### CAPÍTULO II — Da Classificação da Microempresa, Empresa de Pequeno Porte e Empreendedor Individual
+
+
+Art. 5º.
+
+É considerada ME e EPP, a empresa de pequeno porte, a sociedade empresária, a sociedade simples e o empresário a que se refere o Artigo 966 da Lei Federal 10.406/2002, devidamente registrada no registro de empresas mercantis ou no registro civil de pessoa jurídica, conforme o caso, e que se enquadrem nos parâmetros técnicos, econômicos e contábeis estabelecidos na LC 123/2006 e LC 128/2008, e nos regulamentos expedidos pelas instâncias descritas no Artigo 2º da LC 123/2006.
+
+
+Art. 6º.
+
+É considerado Empreendedor Individual o empresário a que se refere o Artigo 966, da Lei 10.406/2002 do Código Civil e ao estabelecido pela Lei Complementar Federal nº. 128/2008.
+
+
+#### CAPÍTULO III — Do Registro e Legalização
+
+
+##### Seção I — Do Alvará
+
+
+Art. 7º.
+
+A Administração Municipal determinará a todos os órgãos e autarquias municipais envolvidos na abertura e fechamento de empresas que os procedimentos e legalização da empresa devem ser simplificados, de modo a evitar exigências superpostas e inúteis, procedimentos e trâmites procrastinatórios e custos elevados.
+
+
+Art. 8º.
+
+Nenhum estabelecimento comercial, industrial, de prestação de serviços ou de outra natureza poderá se estabelecer ou funcionar sem o alvará de localização e funcionamento, que atestará as condições do estabelecimento concernentes à localização, segurança, ordem, aos costumes, ao exercício de atividades dependentes de concessão, permissão ou autorização do Poder Público, tranqüilidade pública, ao respeito à propriedade e aos direitos individuais ou coletivos, à garantia do cumprimento da legislação urbanística e demais normas de posturas do município.
+
+
+§ 1º
+
+O pedido do Alvará deverá ser precedido pela expedição do formulário de consulta prévia para fins de localização, devidamente deferido pelo órgão competente do município.
+
+
+§ 2º
+
+Para a concessão do alvará de localização e funcionamento deverão ser observadas as normas e leis nos âmbitos federal, estadual e municipal.
+
+
+§ 3º
+
+No caso de atividades eventuais ou periódicas deverá ser requerido junto ao órgão público municipal competente o pedido do alvará eventual de acordo com o Código Tributário Municipal, devendo ser aplicada a legislação contida este Código, podendo ainda ser cobrado taxa para estas atividades.
+
+
+§ 4º
+
+Somente será fornecido o alvará definitivo de funcionamento para empresas e microempreendedores devidamente constituídos.
+
+
+§ 5º
+
+No caso específico do empreendedor individual a solicitação do alvará deverá ser precedida dos seguintes procedimentos:
+
+
+I –
+
+Preenchimento do requerimento disponibilizado pelo órgão público municipal competente;
+
+
+II –
+
+Declaração de estar em conformidade com o artigo18C da Lei Complementar Federal 128/2008;
+
+
+III –
+
+Cópia do cartão do CNPJ.
+
+
+§ 6º
+
+Ficam reduzidos a 0 (zero) os valores referentes a taxas, emolumentos e demais custos relativos à abertura, à inscrição, ao registro, ao alvará, à licença, ao cadastro exclusivamente de microempreendedores individuais – MEI, conforme Lei Complementar 123/2006.
+
+
+§ 7º
+
+A concessão do alvará dependerá de análise prévia pelos órgãos competentes do município.
+
+
+Art. 9º.
+
+Para concessão do Alvará para ME e EPP será necessário apresentar ao órgão público:
+
+
+I –
+
+Requerimento solicitando a concessão do alvará;
+
+
+II –
+
+Identidade e CPF;
+
+
+III –
+
+CNPJ;
+
+
+IV –
+
+Cópia do contrato social e última alteração contratual se houver.
+
+
+Art. 10.
+
+Será pessoalmente responsável pelos danos causados à empresa, ao Município ou a terceiros aquele que, dolosamente, prestar informações falsas ou sem a observância da Legislação Federal, Estadual ou Municipal pertinente.
+
+
+Art. 11.
+
+A presente Lei não exime o contribuinte de promover a regularização perante os demais órgãos competentes, assim como nos órgãos fiscalizadores do exercício profissional.
+
+
+Art. 12.
+
+O Alvará será cassado quando:
+
+
+I –
+
+No estabelecimento for exercida atividade diversa daquela autorizada;
+
+
+II –
+
+Forem infringidas quaisquer disposições referentes aos controles de poluição ou se o funcionamento do estabelecimento causar danos, prejuízos, incômodos ou puser em risco por qualquer forma, a segurança, o sossego, a saúde e a integridade física da vizinhança ou da coletividade;
+
+
+III –
+
+Ocorrer reincidência de infrações às posturas municipais;
+
+
+IV –
+
+For constatada irregularidade não passível de regularização;
+
+
+V –
+
+For verificada a falta de recolhimento das taxas de licença de localização e funcionamento;
+
+
+VI –
+
+Destinar exclusivamente as atividades às áreas residenciais, deixando o titular de residir no local;
+
+
+VII –
+
+Não atender às disposições do Código Tributário Municipal.
+
+
+Art. 13.
+
+O Poder Público Municipal poderá impor restrições às atividades dos estabelecimentos com Alvará, no resguardo do interesse público.
+
+
+Art. 14.
+
+Será concedido Alvará de localização e funcionamento em domicílio residencial para os estabelecimentos comerciais ou de prestação de serviços, cujas atividades estejam de acordo com o Código Tributário Municipal, ficando a concessão da autorização a critério da autoridade fiscal competente e que:
+
+
+I –
+
+Disponham de acesso independente ao local reservado para a atividade comercial.
+
+
+§ 1º
+
+O titular de Microempresa, Empresa de Pequeno Porte ou Microempreendedor Individual que optar pelo funcionamento de sua empresa em sua residência não poderá impedir a ação fiscal do Poder Público em sua sede, desde que efetuada nos termos da legislação pertinente.
+
+
+§ 2º
+
+Para o funcionamento destes estabelecimentos comerciais será exigida do proprietário uma autorização escrita autorizando a atividade comercial no local.
+
+
+Art. 15.
+
+Fica facultado à Administração Pública Municipal conceder o alvará de funcionamento e proceder às vistorias que entender necessárias quando a atividade for considerada de alto risco.
+
+
+§ 1º
+
+Consideram-se atividades de altos riscos aquelas que tragam riscos para o meio ambiente e aquelas que não contenham entre outros:
+
+
+I –
+
+Sirvam como depósito ou manipulem produtos perigosos, inflamáveis, explosivos, agrotóxicos ou tóxicos;
+
+
+II –
+
+Sejam poluentes;
+
+
+III –
+
+Dependam de outorga do Poder Público;
+
+
+IV –
+
+Edificações que apresentem estrutura com risco de ceder e ou as instalações elétricas e ou hidráulicas que ofereçam riscos de quaisquer naturezas;
+
+
+V –
+
+Que abriguem aglomeração de mais de50 pessoas de uma só vez;
+
+
+VI –
+
+possam produzir nível sonoro superior ao estabelecido em Lei;
+
+
+VII –
+
+Sejam incomodas.
+
+
+§ 2º
+
+Consideram-se como atividades incômodas aquelas cujos resíduos sólidos, líquidos e gasosos, ruídos, vibrações, emanações e radiações possam causar perigo à saúde, ao bem-estar, à segurança das populações e impactar no trânsito, mesmo depois da aplicação de métodos adequados de mitigação de impactos.
+
+
+§ 3º
+
+Todas as atividades consideradas de alto risco deverão ser vistoriadas e aprovadas pelos órgãos municipais competentes dentro de suas atribuições.
+
+
+Art. 16.
+
+A concessão do alvará de localização e funcionamento não gera direitos e nem permite que haja mudança na destinação do imóvel, vedada a transformação do uso residencial para comercial, salvo disposição de legislação do uso e ocupação do solo aplicável a empresa.
+
+
+##### Seção II — Do Licenciamento
+
+
+Art. 17.
+
+Na propriedade privada o exercício de atividade não residencial dependerá de prévio licenciamento.
+
+
+§ 1º
+
+A atividade a ser desenvolvida deverá estar em conformidade com os termos do documento de licenciamento, dentre eles os referentes ao uso licenciado, à área ocupada e às restrições específicas.
+
+
+§ 2º
+
+O Alvará de Localização e Funcionamento terá validade máxima de 1 (um) ano que deverá ser renovado no mês de janeiro de cada ano, desde que:
+
+
+I –
+
+Sejam mantidas as condições para o licenciamento inicial;
+
+
+II –
+
+As normas da legislação específica não tenham sido alteradas;
+
+
+III –
+
+Não contrarie interesse público;
+
+
+IV –
+
+Não contrarie interesse público;
+
+
+Art. 18.
+
+Deverá ser afixado no estabelecimento onde se exerce a atividade, em local e posição de imediata visibilidade:
+
+
+I –
+
+O documento de licenciamento.
+
+
+Parágrafo único
+
+O não cumprimento do disposto neste artigo acarretará a imposição das penalidades pecuniárias previstas no Código Tributário Municipal.
+
+
+#### CAPÍTULO IV — Dos Tributos,Contribuições e Baixa
+
+
+##### Seção I — Dos Tributos e Contribuições
+
+
+Art. 19.
+
+As microempresas e empresas de pequeno porte optantes pelo Simples Nacional recolherão o Imposto Sobre Serviços de Qualquer Natureza – ISSQN com base nesta lei complementar, em consonância com a Lei Complementar Federal nº 123, de 14 de dezembro de 2006, e posteriores alterações e regulamentação pelo Comitê Gestor do Simples Nacional.
+
+
+Art. 20.
+
+Para cobrança de impostos, taxas e multas vencidas o órgão responsável pela cobrança da dívida deverá notificar o contribuinte pessoalmente ou por edital, para que seja feito o pagamento do débito no prazo de até 60 (sessenta) dias, sob pena de cobrança judicial.
+
+
+Parágrafo único
+
+A repartição da administração fazendária cobrará de forma amigável e formal os débitos inscritos na divida ativa, antes de promover a execução judicial.
+
+
+Art. 21.
+
+Fica órgão público municipal competente autorizado a promover o parcelamento de impostos e multas vencidas podendo ser parceladas conforme critérios contidos no Código Tributário Municipal.
+
+
+##### Seção II — Da Baixa
+
+
+Art. 22.
+
+Para efetivar abaixa da empresa no município será necessário:
+
+
+I –
+
+Requerimento de solicitação acompanhado do documento de baixa, fornecidos pelos órgãos competentes nas esferas federal e estadual;
+
+
+II –
+
+Estar em dia com as obrigações fiscais perante a Fazenda Pública Municipal;
+
+
+III –
+
+Pagamento da taxa de expediente conforme Código Tributário Municipal.
+
+
+Art. 23.
+
+A data do encerramento das atividades da empresa poderá ser comprovada pela última nota fiscal emitida, e na falta desta, uma declaração assumindo o extravio do bloco de notas, assumindo a responsabilidade de não mais emitir notas fiscais após o encerramento da empresa.
+
+
+#### CAPÍTULO V — Da Fiscalização Orientadora e do Incentivo a Regularização
+
+
+Art. 24.
+
+A ação da administração, no que se refere aos aspectos ambientais e de segurança das microempresas, das empresas de pequeno porte e do microempreendedor individual - MEI, deverá ter natureza prioritariamente orientadora quando a atividade ou situação, por sua natureza, comportar grau de risco compatível para esse procedimento.
+
+
+§ 1º
+
+Para auxiliar no processo de fiscalização o órgão municipal competente designará um servidor municipal que exercerá a atividade de apoio à fiscalização ambiental no município.
+
+
+§ 2º
+
+O servidor designado deverá atuar em conformidade com as normas ambientais estipuladas pelos órgãos competentes e exercerá as seguintes atividades relativas aos processos de fiscalização no município:
+
+
+I –
+
+Fiscalização sanitária da zona rural do município;
+
+
+II –
+
+Acompanhamento do calendário de vacinação de bovinos junto aos produtores e órgãos de fiscalização;
+
+
+III –
+
+Fiscalização da degradação ao meio ambiente;
+
+
+IV –
+
+Fiscalização preventiva e corretiva das nascentes e cursos de água para evitar ouso incorreto das águas;
+
+
+V –
+
+Fiscalização preventiva e corretiva para evitar poluição e contaminação das águas;
+
+
+VI –
+
+Fiscalização para evitar que animais mortos sejam jogados no leito dos córregos, açudes, rios e margens de estradas.
+
+
+§ 3º
+
+Caberá aos órgãos competentes a notificação e autuação das pessoas que infringirem as normas e leis relativas ao meio ambiente.
+
+
+§ 4º
+
+A Prefeitura Municipal deverá manter convênio de parceria com o IEF visando o cumprimento das leis relativas ao meio ambiente, podendo estabelecer outra parcerias com instituições ambientais para que se cumpra o disposto neste artigo.
+
+
+§ 5º
+
+Sempre deverá ser observado o critério de dupla visita para lavratura de autos de infração, salvo na ocorrência de reincidência, fraude, resistência ou embaraço à fiscalização.
+
+
+§ 6º
+
+Ressalvada a hipótese prevista no parágrafo anterior, caso seja constatada alguma irregularidade na primeira visita do agente público, o mesmo irá emitir o termo de notificação e ou formalizar o Termo de Ajustamento de Conduta, conforme regulamentação, devendo sempre conter a respectiva orientação e plano negociado com o proprietário da empresa ou da fazenda.
+
+
+§ 7º
+
+A orientação a que se refere este artigo dar-se-á por meio de Termo de Ajustamento de Conduta a ser regulamentado pelos órgãos fiscalizadores.
+
+
+§ 8º
+
+O disposto neste artigo não se aplica ao processo administrativo fiscal relativo a tributos.
+
+
+#### CAPÍTULO VI — Do Acesso aos Mercados
+
+
+##### Seção I — Procedimento Municipal de Compras Governamentais Seletivas das Micro e Pequenas Empresas
+
+
+Art. 25.
+
+Esta Lei institui o Procedimento Municipal de Compras Governamentais da Microempresa, da Pequena Empresa e do Microempreendedor Individual - MEI, como forma de estabelecer juridicamente a sistemática nos processos licitatórios de aquisições de bens e serviços, a preferência diferenciada e simplificada às micro e pequenas empresas.
+
+
+Art. 26.
+
+Nas contratações públicas municipais de bens e serviços deverá ser concedido tratamento diferenciado e simplificado para as microempresas, empresas de pequeno porte e microempreendedor individual - MEI, objetivando:
+
+
+I –
+
+A ampliação da eficiência das políticas públicas voltadas às microempresas, empresas de pequeno porte e microempreendedor;
+
+
+II –
+
+O fomento do desenvolvimento local, através do apoio aos arranjos produtivos locais;
+
+
+III –
+
+A promoção do desenvolvimento econômico municipal e regional dos municípios circunvizinhos.
+
+
+§ 1º
+
+Subordinam-se ao disposto nesta Lei, além dos órgãos da administração pública municipal direta, as autarquias, as fundações públicas, as empresas públicas e as demais entidades controladas direta ou indiretamente pelo município.
+
+
+§ 2º
+
+As instituições privadas que recebem recursos de convênio celebrado com o Município de Dom Bosco deverão envidar esforços para implementar e comprovar o atendimento desses objetivos nas respectivas prestações de contas.
+
+
+##### Seção II — Das ações municipais de gestão
+
+
+Art. 27.
+
+Para ampliação da participação das microempresas, empresas de pequeno porte e microempreendedor individual nas licitações, a Administração Pública Municipal deverá sempre que possível:
+
+
+I –
+
+Instituir cadastro próprio para as ME, MEI e EPP sediadas localmente, com a identificação das linhas de fornecimento de bens e serviços, de modo a possibilitar a capacitação e notificação das licitações e facilitar a formação de parcerias e subcontratações, além de estimular o cadastramento destas empresas nos sistemas eletrônicos de compras municipais;
+
+
+II –
+
+Padronizar e divulgar as especificações dos bens e serviços contratados de modo a orientar as microempresas, microempreendedor individual e empresas de pequeno porte para que se adequem os seus processos produtivos;
+
+
+III –
+
+Na definição do objeto da contratação, não utilizar especificações que restrinjam injustificadamente, a participação das microempresas, microempreendedor individual e empresas de pequeno porte sediadas no estado de Minas Gerais.
+
+
+##### Seção III — Das regras especiais de habilitação
+
+
+Art. 28.
+
+Exigir-se-á das microempresas, microempreendedor individual e empresas de pequeno porte, para habilitação em quaisquer licitações da Administração Pública Municipal para fornecimento de bens para pronta entrega ou serviços imediatos o seguinte:
+
+
+I –
+
+Ato constitutivo da empresa, devidamente registrado;
+
+
+II –
+
+Inscrição no CNPJ;
+
+
+III –
+
+Comprovação de regularidade fiscal, compreendendo a regularidade com a seguridade social, com o fundo de garantia por tempo de serviço – FGTS e para com a fazenda federal, estadual e ou municipal, conforme objeto licitado;
+
+
+IV –
+
+Eventuais licenças, certificados e atestados que forem necessários à comercialização dos bens ou para segurança da Administração Pública Municipal;
+
+
+V –
+
+Declaração de enquadramento como micro, pequena empresa ou empreendedor individual.
+
+
+Art. 29.
+
+Nas licitações da Administração Pública Municipal, as microempresas, microempreendedor individual e empresas de pequeno porte, por ocasião da participação em certames licitatórios, deverão apresentar toda a documentação exigida para efeito de comprovação de regularidade fiscal, mesmo que esta apresente alguma restrição.
+
+
+§ 1º
+
+Havendo alguma restrição na comprovação da regularidade fiscal, será assegurado o prazo de 2 (dois) dias úteis, cujo termo inicial corresponderá ao momento em que o proponente for declarado o vencedor do certame, prorrogáveis por igual período, a critério da Administração Pública, para a regularização da documentação, pagamento ou parcelamento do débito e emissão de eventuais certidões negativas ou positivas com efeito de certidão negativa.
+
+
+§ 2º
+
+A declaração do vencedor de que trata o parágrafo anterior ocorrerá no momento imediatamente posterior à fase de habilitação no caso da modalidade de pregão, e nas demais modalidades de licitação no momento posterior ao julgamento das propostas, aguardando-se o prazo de regularização fiscal para abertura da fase recursal.
+
+
+§ 3º
+
+A não regularização, no prazo previsto no §1º, implicará preclusão do direito à contratação, sem prejuízo das sanções previstas nos Artigos 81 e 87 da Lei nº. 8.666, de 21 de junho de 1993, sendo facultado à Administração Pública Municipal convocar os licitantes, na ordem de classificação, para a assinatura do contrato ou revogar a licitação.
+
+
+§ 4º
+
+O disposto no parágrafo anterior deverá constar no instrumento convocatório de licitação.
+
+
+##### Seção IV — Do direito de preferência e outros incentivos
+
+
+Art. 30.
+
+Nas licitações será assegurado, como critério de desempate, preferência de contratação para as microempresas, empresas de pequeno porte e micro empreendedor individual - MEI.
+
+
+§ 1º
+
+Entende-se por empate aquelas situações em que as propostas apresentadas pelas microempresas, empresas de pequeno porte e micro empreendedores individuais - MEI sejam iguais ou até 10% (dez por cento) superiores à proposta mais bem classificada.
+
+
+§ 2º
+
+Na modalidade de pregão, o intervalo percentual estabelecido no § 1º deste artigo será de até 5% (cinco por cento) superior ao melhor preço.
+
+
+Art. 31.
+
+Para efeito do disposto no artigo anterior desta Lei, ocorrendo o empate, proceder-se-á da seguinte forma:
+
+
+I –
+
+A microempresa ou empresa de pequeno porte mais bem classificada poderá apresentar proposta de preço inferior àquela considerada vencedora do certame, situação em que será adjudicado em seu favor o objeto licitado;
+
+
+II –
+
+Não ocorrendo a contratação da microempresa, empresa de pequeno porte e microempreendedor individual - MEI, na forma do inciso I do caput deste artigo, serão convocadas as remanescentes que porventura se enquadrem na hipótese dos parágrafos 1º e 2º do artigo anterior desta Lei, na ordem classificatória, para o exercício do mesmo direito;
+
+
+III –
+
+No caso de equivalência dos valores apresentados pelas microempresas,empresas de pequeno porte e microempreendedor individual - MEI que se encontrem nos intervalos estabelecidos nos parágrafos 1o e 2o do artigo anterior desta Lei, será realizado sorteio entre elas para que se identifique aquela que primeiro poderá apresentar melhor oferta.
+
+
+§ 1º
+
+Na hipótese da não-contratação nos termos previstos no caput deste artigo, o objeto licitado será adjudicado em favor da proposta originalmente vencedora do certame.
+
+
+§ 2º
+
+O disposto neste artigo somente se aplicará quando a melhor oferta inicial não tiver sido apresentada por microempresa, empresa de pequeno porte e microempreendedor individual - MEI.
+
+
+§ 3º
+
+No caso de pregão, a microempresa, empresa de pequeno porte e microempreendedor individual - MEI mais bem classificada será convocada para apresentar nova proposta no prazo máximo de 5 (cinco) minutos após o encerramento dos lances, sob pena de preclusão.
+
+
+§ 4º
+
+Sempre que possível, a alimentação fornecida ou contratada por parte dos órgãos da administração direta do município, suas autarquias e fundações, deverão ter o cardápio padronizado e a alimentação balanceada com gêneros usuais da região.
+
+
+Art. 32.
+
+Nos certames licitatórios em que houver a aquisição de bens e serviços de natureza divisível poderá ficar estabelecido a cota de até 25% (vinte e cinco por cento) do objeto, reservado para a contração de microempresas, empresas de pequeno porte e microempreendedor individual - MEI.
+
+
+§ 1º
+
+O disposto neste artigo não impede a contratação das microempresas ou empresas de pequeno porte na totalidade do objeto, sendo-lhes reservada exclusivamente de participação na disputa de que trata o caput deste artigo;
+
+
+§ 2º
+
+Não se aplica o disposto neste artigo quando:
+
+
+I –
+
+Não estiver expressamente previsto no instrumento convocatório os critérios de como serão observados os tratamentos diferenciados e simplificado a serem dispensados às microempresas e empresas de pequeno porte;
+
+
+II –
+
+Não houver o mínimo de 3 (três) fornecedores competitivos enquadrados como microempresas ou empresas de pequeno porte, com sede local ou nos municípios circunvizinhos, capazes de cumprir as exigências estabelecidas no instrumento convocatório;
+
+
+III –
+
+O tratamento diferenciado e simplificado para as microempresas, microempreendedor individual ou empresas de pequeno porte não for vantajoso para a Administração Pública Municipal ou representar prejuízo ao conjunto ou complexo do objeto a ser contratado;
+
+
+IV –
+
+A licitação for dispensável ou inexigível, nos termos dos Artigos 24 e 25 da Lei nº. 8.666 de 21 de junho de 1993;
+
+
+V –
+
+Para fins do disposto no inciso III, considera-se não vantajoso para a Administração Pública quando o tratamento diferenciado e simplificado não for capaz de alcançar os objetivos previstos no Artigo 30desta lei, justificadamente, ou resultar em preços superiores ao valor estabelecido como referência.
+
+
+##### Seção V — Do Programa Municipal de Desenvolvimento de Fornecedores Locais
+
+
+Art. 33.
+
+Compete ao Poder Executivo a implementação do Programa Municipal de Desenvolvimento de Fornecedores Locais, com a finalidade de incremento das operações comerciais entre compradores e fornecedores locais, através das seguintes diretrizes, dentre outras:
+
+
+I –
+
+Incentivo à constituição de cadastro de produtos e serviços, demandados e ofertados no âmbito local;
+
+
+II –
+
+Incentivo à instalação no Município, de microempresas, empresas de pequeno porte e microempreendedor individual - MEI, cujo escopo de produtos e serviços ofertados possa suprir as necessidades das demandas locais;
+
+
+III –
+
+Apoio ao aprimoramento da qualificação dos produtos e serviços das microempresas,pequenas empresas e microempreendedor individual - MEI localizadas no município, com relação à conformidade para a qualidade, aprimoramento tecnológico e aumento da competitividade;
+
+
+IV –
+
+Incentivo à formação de arranjos produtivos locais, de forma a incrementar os vínculos de articulação, interação, cooperação e aprendizagem entre as microempresas e pequenas empresas pertencentes a uma mesma cadeia produtiva;
+
+
+V –
+
+Promover a articulação e cooperação entre os entes públicos, serviços de apoio à micro, pequena empresa e microempreendedor individual - MEI, associações de desenvolvimento e empresariais, instituições de desenvolvimento tecnológico, ensino e pesquisa, para fins de efetivação dos propósitos deste Programa.
+
+
+#### CAPÍTULO VII — Do Incentivo ao Empreendedorismo Familiar
+
+
+##### Seção I — Do Programa Municipal de Desenvolvimento do Empreendedorismo Familiar
+
+
+Art. 34.
+
+Compete ao Poder Executivo coordenar a implantação do Programa Municipal de Desenvolvimento do Empreendedorismo Familiar, como estímulo ao desenvolvimento de práticas empreendedoras através da especialização em artes e ofícios nos meios familiares no âmbito municipal.
+
+
+Art. 35.
+
+O Programa Municipal de Desenvolvimento do Empreendedorismo Familiar tem como pressupostos as seguintes premissas:
+
+
+I –
+
+Que os grupos familiares domiciliados no município, deverão ser incentivados para o desenvolvimento da prática das atividades empreendedora tendo como objetivo maior a elevação da renda per capta municipal;
+
+
+II –
+
+Que será incentivada a aprendizagem de atividades agrícolas, visando dotar os grupos familiares integrantes do Projeto, de especializações num determinado produto ou serviço;
+
+
+III –
+
+Que será incentivada a produção artesanal dos produtos, assim como o contínuo aprimoramento qualitativo destes, como forma de promover a vinculação do nome da família que os produziu;
+
+
+IV –
+
+Que este Programa deve ser implantado como política de combate ao desemprego e geração de alternativas de trabalho e renda;
+
+
+V –
+
+Que deverá ser observado as legislações pertinentes ao trabalho autônomo, cooperativado, pequeno comércio, comércio ambulante, agricultura.
+
+
+##### Seção II — Da Agropecuária e dos Pequenos Produtores Rurais
+
+
+Art. 36.
+
+O Poder Público Municipal promoverá parcerias com órgãos governamentais, entidades de pesquisa rural e de assistência técnica a produtores rurais, desde que seguidos os preceitos legais, que visem à melhoria da produtividade e da qualidade de produtos rurais mediante aplicação de conhecimento técnico na atividade de pequenos produtores rurais.
+
+
+§ 1º
+
+Das parcerias referidas neste artigo poderão fazer parte sindicatos rurais, cooperativas e entidades da iniciativa privada que tenham condições de contribuir para a implementação de projetos mediante geração e disseminação de conhecimento, fornecimento de insumos a pequenos produtores rurais; contratação de serviços para a locação de máquinas, equipamentos e abastecimento; e outras atividades rurais de interesse comum.
+
+
+§ 2º
+
+Somente poderão receber os benefícios das ações referidas no caput deste artigo pequenos produtores rurais que, em conjunto ou isoladamente, tiverem seus respectivos planos de melhoria aprovados por Comissão formada por três membros, representantes de segmentos da área rural, indicados pelo Poder Público Municipal, os quais não terão remuneração e cuja composição será rotativa.
+
+
+§ 3º
+
+Estão compreendidas no âmbito deste artigo atividades de conversão de sistema de produção convencional para sistema de produção orgânico, entendido como tal aquele no qual se adotam tecnologias que otimizem o uso de recursos naturais e socioeconômicos, com objetivo de promover a auto-sustentação, a maximização dos benefícios sociais, a minimização da dependência de energias não renováveis e a eliminação do emprego de agrotóxicos e outros insumos artificiais tóxicos, assim como de organismos geneticamente modificados ou de radiações ionizantes em qualquer fase do processo de produção, armazenamento e de consumo.
+
+
+§ 4º
+
+Competirá ao Poder Executivo Municipal disciplinar e coordenar as ações necessárias à consecução dos objetivos das parcerias referidas neste artigo, atendidos os dispositivos legais pertinentes.
+
+
+#### CAPÍTULO VIII — Da educação empreendedora e do acesso à informação
+
+
+Art. 37.
+
+Fica o Poder Público Municipal autorizado a promover parcerias com instituições públicas e privadas para o desenvolvimento de projetos de educação empreendedora, com objetivo de disseminar conhecimento sobre gestão de microempresas e empresas de pequeno porte, associativismo, cooperativismo, empreendedorismo e assuntos afins.
+
+
+§ 1º
+
+Estão compreendidos no âmbito do caput deste artigo ações de caráter curricular ou extracurricular, voltadas a alunos do ensino fundamental de escolas públicas e privadas, assim como a alunos de nível médio e superior de ensino.
+
+
+§ 2º
+
+Os projetos referidos neste artigo poderão assumir a forma de fornecimento de cursos de qualificação, concessão de bolsas de estudo, complementação de ensino básico público e particular, ações de capacitação de professores e outras ações que o Poder Público Municipal entender cabíveis para estimular a educação empreendedora.
+
+
+§ 3º
+
+Na escolha do objeto das parcerias referidas neste artigo terão prioridade projetos que:
+
+
+I –
+
+Sejam profissionalizantes;
+
+
+II –
+
+Beneficiem portadores de necessidades especiais, idosos ou jovens carentes;
+
+
+III –
+
+Estejam orientados para identificação e promoção de ações compatíveis com as necessidades, potencialidades e vocações do município.
+
+
+Art. 38.
+
+Fica o Poder Público Municipal autorizado a promover parcerias com órgãos governamentais, centros de desenvolvimento tecnológico e instituições de ensino para o desenvolvimento de projetos de educação tecnológica, com os objetivos de transferência de conhecimento gerado nas instituições de pesquisa, qualificação profissional e capacitação no emprego de técnicas de produção.
+
+
+Parágrafo único
+
+Compreendem-se no âmbito deste artigo a concessão de bolsas de iniciação científica, a oferta de cursos de qualificação profissional, a complementação de ensino básico público e particular e ações de capacitação de professores.
+
+
+Art. 39.
+
+Fica o Poder Público Municipal autorizado a proceder estudos para inclusão de disciplinas nas escolas públicas municipais de educação ambiental que deverá incluir, além da parte teórica, a prática visando conscientizar os alunos da importância da preservação do meio ambiente.
+
+
+Art. 40.
+
+O Poder Público Municipal poderá instituir programa de inclusão digital, com o objetivo de promover o acesso de micro e pequenas empresas do Município às novas tecnologias da informação e comunicação, em especial à Internet.
+
+
+Parágrafo único
+
+Compreendem-se no âmbito do programa referido no caput deste artigo: a abertura e manutenção de espaços públicos dotados de computadores para acesso gratuito e livre à Internet; o fornecimento de serviços integrados de qualificação e orientação; a produção de conteúdo digital e não digital para capacitação e informação das empresas atendidas; a divulgação e a facilitação do uso de serviços públicos oferecidos por meio da Internet; a promoção de ações, presenciais ou não, que contribuam para o uso de computadores e de novas tecnologias; o fomento a projetos comunitários baseados no uso de tecnologia da informação; a produção de pesquisas e informações sobre inclusão digital.
+
+
+#### CAPÍTULO IX — Das disposições finais e transitórias
+
+
+Art. 41.
+
+O Fórum Municipal da Microempresa, Empresa de Pequeno Porte e Microempreendedor Individual – MEI poderá recomendar ao Poder Executivo e Poder Legislativo Municipal, as propostas de revisão das matérias legislativas em favor da microempresa, empresa de pequeno porte e do Microempreendedor individual.
+
+
+Art. 42.
+
+As matérias tratadas nesta Lei poderão ser objeto de alteração por meio de lei ordinária, desde que não haja restrições àquelas reservadas exclusivamente às leis complementares.
+
+
+Art. 43.
+
+Fica instituído o Dia Municipal da Microempresa, Empresa de Pequeno Porte e Microempreendedor Individual, que será comemorado em 05 de outubro de cada ano.
+
+
+Parágrafo único
+
+Nesse dia será realizada audiência pública na Câmara Municipal dos Vereadores, amplamente divulgada, em que serão ouvidas lideranças empresariais e debatidas propostas de fomento aos pequenos negócios e melhorias da legislação específica.
+
+
+Art. 44.
+
+O Poder Executivo deverá promover a regulamentação e a implementação integral dos instrumentos estabelecidos nesta Lei no prazo máximo de 1 (hum) ano a contar da data da sua publicação.
+
+
+Art. 45.
+
+Esta Lei entra em vigor na data de sua publicação, produzindo efeitos a partir do primeiro dia útil subseqüente à sua publicação.
+
+
+Art. 46.
+
+Revogam-se as disposições em contrário.
+
+Mando, portanto, a quem o conhecimento e a execução da presente Lei Complementar pertencer, que a cumpra e a faça cumprir, integralmente as disposições nela estabelecidas.
+
+
+**Cabeceira Grande-MG, 14 de setembro de 2011.**
+
+**Antonio Nazaré Santana Melo**
+
+**Prefeito Municipal**
+
+**"Este texto não substitui o original"**
+

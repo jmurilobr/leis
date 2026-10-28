@@ -1,0 +1,73 @@
+{
+  "escopo": "Dois candidatos privados preservando marcadores alfabéticos nativos da assinatura, sem achatar listas. Não altera canônicos nem seleções já entregues; revisão ROOT ainda necessária.",
+  "registros": [
+    {
+      "path": "federal/decretos/1944/dec-16604-1944-09-15.md",
+      "urn": "urn:lex:br:federal:decreto:1944-09-15;16604",
+      "lote": 19,
+      "candidato": "federal/_candidatos_listas_html_original_20261021_003/dec-16604-1944-09-15.md",
+      "sha256_candidato": "0ec1e9ab7fe764a611f5f9d354df9aa43ed9115244fd47e9d7bf8f19b5253c76",
+      "preimagem_canonica_sha256": "eeb74870679a01891ed9f098483eb308a9136c2126cb2f62cc80bc7bd77f17b8",
+      "preimagem_privada": "federal/decretos/1944/dec-16604-1944-09-15.md",
+      "sha256_preimagem_privada": "eeb74870679a01891ed9f098483eb308a9136c2126cb2f62cc80bc7bd77f17b8",
+      "sha256_fonte_html": "38e6c0e608e7f4046a091d42c01b4660ad2655c7dd8ef5f52bc34beca5683b89",
+      "fonte_html_cache": "federal/_fonte/decretos/1944/dec-16604-1944-09-15.html.gz",
+      "mudanca": "Preserva na íntegra o elemento body da fonte HTML oficial, removendo somente parágrafos administrativos previamente comprovados. Nenhuma lista ol/ul é convertida em parágrafo: mantém literalmente os elementos, atributos, tabelas e marcadores que a própria fonte usa. Evita a renumeração introduzida pela interpretação CommonMark do MD convertido.",
+      "estrutura_fonte": {
+        "ol": 1,
+        "ul": 0,
+        "li": 1,
+        "paragrafos": 97,
+        "tabelas": 0
+      },
+      "marcadores_administrativos_excluidos": [
+        {
+          "inicio": 5815,
+          "fim": 5988,
+          "paragrafo_html": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-016604-0-000-15-09-1944@@@</span></p>",
+          "marcador": "###DEC-016604-0-000-15-09-1944@@@",
+          "prefixo_literal_preservado": "",
+          "sufixo_literal_preservado": "",
+          "numero": "16604",
+          "data": "1944-09-15",
+          "sha256_paragrafo_html": "7d9d00c3a04ebb4493adc569dbb97055a4df0b0512bdb25979f3ec061c565a1d"
+        }
+      ],
+      "estado": "candidato_privado_pendente_revisao_ROOT_sem_promocao"
+    },
+    {
+      "path": "federal/decretos/1944/dec-16603-1944-09-15.md",
+      "urn": "urn:lex:br:federal:decreto:1944-09-15;16603",
+      "lote": 19,
+      "candidato": "federal/_candidatos_listas_html_original_20261021_003/dec-16603-1944-09-15.md",
+      "sha256_candidato": "2e9f56ebe7ca2ce890c7256ed8f241e647974651386f5a8387e0f6afa94b180b",
+      "preimagem_canonica_sha256": "a0cadcdc480552f3b61438be5298cb31f33b489219f6170beb462d7e2cf1529e",
+      "preimagem_privada": "federal/decretos/1944/dec-16603-1944-09-15.md",
+      "sha256_preimagem_privada": "a0cadcdc480552f3b61438be5298cb31f33b489219f6170beb462d7e2cf1529e",
+      "sha256_fonte_html": "00e3f4431b20240f18d4db5beac751e2f64038b6d5192f846c9ee59d097d7eba",
+      "fonte_html_cache": "federal/_fonte/decretos/1944/dec-16603-1944-09-15.html.gz",
+      "mudanca": "Preserva na íntegra o elemento body da fonte HTML oficial, removendo somente parágrafos administrativos previamente comprovados. Nenhuma lista ol/ul é convertida em parágrafo: mantém literalmente os elementos, atributos, tabelas e marcadores que a própria fonte usa. Evita a renumeração introduzida pela interpretação CommonMark do MD convertido.",
+      "estrutura_fonte": {
+        "ol": 1,
+        "ul": 0,
+        "li": 1,
+        "paragrafos": 118,
+        "tabelas": 0
+      },
+      "marcadores_administrativos_excluidos": [
+        {
+          "inicio": 5792,
+          "fim": 5965,
+          "paragrafo_html": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-016603-0-000-15-09-1944@@@</span></p>",
+          "marcador": "###DEC-016603-0-000-15-09-1944@@@",
+          "prefixo_literal_preservado": "",
+          "sufixo_literal_preservado": "",
+          "numero": "16603",
+          "data": "1944-09-15",
+          "sha256_paragrafo_html": "642d5ee1108bffd445873265c76a69b5544dd68dae384a84bbb72d655a8e768a"
+        }
+      ],
+      "estado": "candidato_privado_pendente_revisao_ROOT_sem_promocao"
+    }
+  ]
+}

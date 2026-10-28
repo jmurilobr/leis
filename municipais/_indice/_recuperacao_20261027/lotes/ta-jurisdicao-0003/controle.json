@@ -1,0 +1,3663 @@
+{
+  "criterio": "Triagem de esfera oficial e cabeçalhos municipais nos corpos TA completos.",
+  "cadastro_ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "script_sha256": "2eeaa4c3704a0a720f4c6ecc157406c9062522a8c8817066d60ac60573aaf9bd",
+  "emissores_script_sha256": "1749efcc1a6334b652716841d89cec2170eabaa580b23937b4a83a5ea74af023",
+  "resultados": [
+    {
+      "path": "municipais/RS/agudo/resolucoes/2010/resolucoes-6-2010-sapl-2619.md",
+      "sha256": "c6e04fde138f4bdd152dd9582c807bf5a3082318ad99a6d1a6b5958e47f0a366",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1992/leis-ordinarias-141-1992-sapl-143.md",
+      "sha256": "e4b85476c84636b55aa1390454da6963b81b782ae55106080b4fdef0ff9fb246",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/2022/leis-ordinarias-482-2022-sapl-36.md",
+      "sha256": "84873be763fd82429ce261f9ede847db40534ebce749776925cca453012d4771",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6114-2025-sapl-5435.md",
+      "sha256": "8c9feb25e7afc6287cc110cf12013d1f06cbc56fb563f597ddcee8d6c25c1776",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1973/leis-ordinarias-536-1973-sapl-1570.md",
+      "sha256": "bd01df6d73f9bc5febfbc980577562a96de0f194b5ea8034dc1121f6951f40e9",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2010/leis-ordinarias-1786-2010-sapl-2618.md",
+      "sha256": "3e137bfde655b8027ee80d02c42c1cf49ada04af407e122d13c1c38282f7c6d2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1992/leis-ordinarias-140-1992-sapl-142.md",
+      "sha256": "d014784a8b60fb7e5775e4dbb0fbc9cc1b4dab96bd4011e7fe6a785fb003faff",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6113-2025-sapl-5434.md",
+      "sha256": "fc03434f036954f1e38ecbf9bdcde9779607705997d4558ca59325c8584e9530",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1973/leis-ordinarias-528-1973-sapl-1562.md",
+      "sha256": "cc70d98662f956515e9add60c4771bfe2a3d41eb181d5e146d303c5a8618a061",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1992/leis-ordinarias-139-1992-sapl-141.md",
+      "sha256": "46e564b04bf21e3231ad43aec17bd9524720832b2d69a3b24d64e356d8e1ac4d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2024/leis-ordinarias-1078-2024-sapl-1725.md",
+      "sha256": "701d3708e89184ac2607f91ce57be972b79873fb9a4fa5312f42875ba71bac82",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6112-2025-sapl-5433.md",
+      "sha256": "50d6fb25334fb53e8c3ca8a1d92b3e61f4d62d98adb3144648d250069c46660d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1973/leis-ordinarias-527-1973-sapl-1561.md",
+      "sha256": "11fe45d308d001203742dfd498993aded066a98d8a6e8b12ac5b631dc3d3dcf4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2020/leis-ordinarias-2728-2020-sapl-6067.md",
+      "sha256": "474472136aa931018526e99de05776036c032c29541622236dbcbb56c8dc5b3c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2010/leis-ordinarias-1784-2010-sapl-2614.md",
+      "sha256": "46f7b34a950e85476a4518e1e83a2683a1c03391ceeea0281c1599f7e49b9cdc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/SP/artur-nogueira/leis-complementares/2005/leis-complementares-417-2005-sapl-851.md",
+      "sha256": "15582a4d2e0d9a0e5776028c4d8ead7c155db18d757a9c3fe9ee5c200379441b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/2021/leis-ordinarias-466-2021-sapl-42.md",
+      "sha256": "e4b994fbc2d18196e82b4b51a6c8ccdc053601390968455213bbd217c538a411",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6111-2025-sapl-5432.md",
+      "sha256": "65438cfd172bb2fecf9615b6db61e8ace5944b7677a9e6c8b952aeadbbedd60e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1973/leis-ordinarias-525-1973-sapl-1559.md",
+      "sha256": "002663db4264b9c9e5fd16e75a059edf60935eeae992bf5d8a71bdb1b4b6411d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2020/leis-ordinarias-2727-2020-sapl-6065.md",
+      "sha256": "91306030582dc12da31c49651ed3defd6594fa602a151526ecbd152539ef82ec",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2010/leis-ordinarias-1783-2010-sapl-2611.md",
+      "sha256": "cf390c0306eea8b6bdec8e9c90e03d4ae7b00a57025ac541e208b9c82a4f98cf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2024/leis-ordinarias-1076-2024-sapl-1723.md",
+      "sha256": "a88d3ba8b6cb88e8b8e89c3f1d655889746d09ceabf1f7a65934d35cf79102ac",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/2021/leis-ordinarias-464-2021-sapl-35.md",
+      "sha256": "ab184ec88453af6cfbdce90ed5c70a49f1d74e06ce6d567d9d79215fb30c137c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6110-2025-sapl-5431.md",
+      "sha256": "56d2b6b571f89369fec0901d64ffb5648df5e32df970265e3d89b3260b24a655",
+      "esfera_federacao_api": "M",
+      "alertas": [
+        {
+          "municipio_declarado": "Barra Mansa",
+          "municipio_no_cabecalho_normalizado": "barra",
+          "offset": 1025,
+          "trecho": "gadas as disposições em contrário, esta Lei entrará em vigor na data de sua publicação.\n\n\nPREFEITURA MUNICIPAL DE BARRA MANSА, 16 DE OUTUBRO DE 2025.\n\n\nLUIZ ANTÔNIO FURLANI FILHO  \nPREFEITO\n\n"
+        }
+      ]
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1973/leis-ordinarias-524-1973-sapl-1558.md",
+      "sha256": "3767f79b003b5993b447bb9d3536dfbc7587d9c49d8002b8009aa4b02c76942b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/resolucoes/2010/resolucoes-5-2010-sapl-2608.md",
+      "sha256": "f99db2944c781a1e7275d56d83884893549d8a44da55e393c9ab479e49fc41e3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1991/leis-ordinarias-136-1991-sapl-138.md",
+      "sha256": "cf94e13619d505aa6dba9aab21d6a8a537149c1897940f124f385a6b17d6d0da",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2024/leis-ordinarias-1075-2024-sapl-1722.md",
+      "sha256": "fd7f156de0b3d315e6b0eb70ed68bc9ba9938c63722928d14a4f417fe62b5e9d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-do-pirai/resolucoes/2003/resolucoes-4-2003-sapl-4251.md",
+      "sha256": "597cdb4df2048e4e84e040deab7d25789c331b73e122f9d5d11c28a2aaee8166",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6109-2025-sapl-5438.md",
+      "sha256": "dcaec22ac8184d77051ff9bef8fec44249b2060b5e0b9d4e9adeefd5b1364c8d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1973/leis-ordinarias-526-1973-sapl-1560.md",
+      "sha256": "5c6388b8d8ef31c13c08629aa1b8c7039cb3ed578931afe50ea3acae8cfebd7d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/resolucoes/2010/resolucoes-2-2010-sapl-2605.md",
+      "sha256": "824243d53173b7852ba4cc166851e1e85fdc2fa835a9a34b99d4c69656189072",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1991/leis-ordinarias-135-1991-sapl-137.md",
+      "sha256": "31006264c82892fbf8c705d4a7d1a9d81370bee0c16e407229d6ff77360fe230",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2024/leis-ordinarias-1074-2024-sapl-1716.md",
+      "sha256": "4a722daa3305e90d8d545386ffdf912bcad3256c627141be0e92c6047f5ca2e3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-do-pirai/resolucoes/2003/resolucoes-3-2003-sapl-4252.md",
+      "sha256": "8bf28e47563f6da3158c0ceae44d05e9465a2fe6132e7f2eceb789b2340f3d92",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6108-2025-sapl-5437.md",
+      "sha256": "b88d1bbac93743cf3dd8c62e19e9507744a440baaac56be6fc1316e678639a8f",
+      "esfera_federacao_api": "M",
+      "alertas": [
+        {
+          "municipio_declarado": "Barra Mansa",
+          "municipio_no_cabecalho_normalizado": "barra",
+          "offset": 1054,
+          "trecho": "vogadas as disposições em contrário, esta Lei entra em vigor na data de sua publicação.\n\n\nPREFEITURA MUNICIPAL DE BARRA MANSА, 29 DE SETEMBRO DE 2025.\n\n\nLUIZ ANTONIO FURLANI FILHO  \nPREFEITO\n\n"
+        }
+      ]
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1973/leis-ordinarias-522-1973-sapl-1556.md",
+      "sha256": "6b5e27557e9861e167c9ccf8b7437ce1e2bd8e971b80e3e7a60010ac09601555",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2010/leis-ordinarias-1782-2010-sapl-2603.md",
+      "sha256": "85b322d120807e8a8b2c7b9479e6f53db0eea0288196df9211065a659f6fd8df",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1991/leis-ordinarias-134-1991-sapl-136.md",
+      "sha256": "d1520c66802ad00023b1af350b905b2a58e48c9f30802360a33d0b9f2cacf8a1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2024/leis-ordinarias-1073-2024-sapl-1715.md",
+      "sha256": "26a24fcc91e635347fc89c1cd44e16c201a93ad3aa16313da92471f2e166e995",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-do-pirai/resolucoes/2003/resolucoes-2-2003-sapl-4241.md",
+      "sha256": "11ae59594713e324b1778cba179f2d6387b3a080ac61506c3952894b7da4d9c5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6107-2025-sapl-5436.md",
+      "sha256": "302804bb37a3256a631c3825bdbae4d797c3b86fc1058206d4d47560d67f6ffc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1973/leis-ordinarias-521-1973-sapl-1555.md",
+      "sha256": "1ca3375a7c6358a9f2d0f9a6ec018a6d39fd04ec8cd5b1558d408a88eb05c90a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2019/leis-complementares-807-2019-sapl-5517.md",
+      "sha256": "2046e3e5c4b0b6037e034d5c3b22c29f43c2983001a06f143f521c2a051a26b9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2024/leis-ordinarias-1072-2024-sapl-1714.md",
+      "sha256": "972cb69ff3a4f2159e6ee990ecf3e373b4b9d4f8ffcda48a3ad3c8e47016d9de",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/2021/leis-ordinarias-459-2021-sapl-41.md",
+      "sha256": "b18dfc97d8ebbd9f36d30c8aa9cc17c519dfbd8b2f2de10ded536497df6ad0b0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1973/leis-ordinarias-520-1973-sapl-1554.md",
+      "sha256": "5b9586246fae60d171fc5fb6970433c71a2281d1ea3beb6b13c76b14745e956a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2010/leis-ordinarias-1780-2010-sapl-2593.md",
+      "sha256": "8d508560f960edad9177db4032a07415709eee92ee202c9e5c79111c68d2021a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/2021/leis-ordinarias-457-2021-sapl-40.md",
+      "sha256": "25515dd2bd58898be0d942cd544cf18f25f3964b4a44d24832a58eae9ea186d2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6105-2025-sapl-5374.md",
+      "sha256": "ab0f606de7ab41df5af9f1935b7360f926a673ba4647c2f5217e957574964310",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1973/leis-ordinarias-519-1973-sapl-1553.md",
+      "sha256": "716f8d745e15b03c77726dc0a0d49e578064d789a625cfc18115476ec652ac43",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/2021/leis-ordinarias-454-2021-sapl-47.md",
+      "sha256": "3847785874dab838e9269c54bdda59d6900015de802c896db1043a673335b33e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-do-pirai/resolucoes/2002/resolucoes-8-2002-sapl-4274.md",
+      "sha256": "57f7437f1abb14b98cc86e325025789a484994d70b1b34f38588e3636311ab46",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6104-2025-sapl-5371.md",
+      "sha256": "37fa2c87e84ec49089ca0aec9b065c84cee78558e89628551223861f230dbdc6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1973/leis-ordinarias-518-1973-sapl-1552.md",
+      "sha256": "6900f970a5752727161fc75381eef998a78424cabee1de5763406a7a029a846b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/resolucoes/2010/resolucoes-1-2010-sapl-2604.md",
+      "sha256": "c0444b2b67bf1718f9581278c1e6cfc7b65df861948a8fb46dc39b3fef461b8e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1991/leis-ordinarias-130-1991-sapl-131.md",
+      "sha256": "85438a60d560c80d41a8783bbdf4ebd8e6d1fe441ec91109c8c435820dbdd5e3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/2021/leis-ordinarias-456-2021-sapl-39.md",
+      "sha256": "48ca29e265ba9dc8295649d6a0ddfe85c878595b30a0c52fd7ae40cf3bc38103",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1973/leis-ordinarias-517-1973-sapl-1551.md",
+      "sha256": "68a4c4e3f300bedfe2717e32613c3679e9cf9da9f832adfe1f15da7a017fa4ef",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2019/leis-complementares-803-2019-sapl-5495.md",
+      "sha256": "66877a4ce614b9c79ec314f93f46ad3385d6d05aac5b65e10cfdded8de1e59c2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2010/leis-ordinarias-1778-2010-sapl-2591.md",
+      "sha256": "d9f2556df3636d15b2cb30d6701e2c645309e1e490766c769f4d585079d88d13",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/SP/artur-nogueira/leis-ordinarias/2004/leis-ordinarias-2753-2004-sapl-1931.md",
+      "sha256": "80c7e4723b08769c4eb3e25526474740013617e8f485cb7966eddb451df826a8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6102-2025-sapl-5372.md",
+      "sha256": "c2a82a248d0b8d51ab8580355be4024027beaedbe010f216975c016f6ab36ed2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1991/leis-ordinarias-128-1991-sapl-129.md",
+      "sha256": "c13446f3b5345d0031956a8d4c3d177401ac1f929fbd200b100636749191bdc7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1973/leis-ordinarias-515-1973-sapl-1549.md",
+      "sha256": "de61a3a20b1d763c45980c67f60c830308627b45b59a3412568d8a2a58207062",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2024/leis-ordinarias-1066-2024-sapl-1702.md",
+      "sha256": "cd00aaaa26ed90aae739fe3bbf71a2b873d03755e2b238bf20d23639397f9a59",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1973/leis-ordinarias-514-1973-sapl-1548.md",
+      "sha256": "d0b9cfd82a77bdb023f4214d02da065c09c1339ced90d11eb03c299c6eb8139c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2010/leis-ordinarias-1776-2010-sapl-2589.md",
+      "sha256": "aa0a2980065472d281797e38685b3d61943c027b37cc49d92ea05c11a16722ee",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/SP/artur-nogueira/leis-complementares/2004/leis-complementares-378-2004-sapl-849.md",
+      "sha256": "9ce7c6cc2becd15739bd1796a59b2d058e485adb292ff364dac07ff0982e0506",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2024/leis-ordinarias-1065-2024-sapl-1701.md",
+      "sha256": "491d616249b2093c9258ad740b0dd9894fa434d535a5d41a36c970dc1de40b5a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6101-2025-sapl-5361.md",
+      "sha256": "0213b56a4317e89573af5032f091e145d325dbec4f6ccf7d4ce64885a0b0e8ea",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1973/leis-ordinarias-513-1973-sapl-1547.md",
+      "sha256": "f24723ea13be1bf6f177f96e13459a25b8fdb3ef1e1c85c1af7c3d3f1fc21a27",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6100-2025-sapl-5360.md",
+      "sha256": "b71c3fb9d68679753100b052645e386993b85d03d579edbe46a995f35a2d9c63",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1973/leis-ordinarias-512-1973-sapl-1546.md",
+      "sha256": "912d32a532f8b66108c9f6953f24ec23e10a4a93f4cc95aad8e3dda6137208f9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-123-1990-sapl-124.md",
+      "sha256": "8cd27901832761d8c4174b1a258f4055ad49a23d6327a7babd0876f50d45d9b5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6099-2025-sapl-5359.md",
+      "sha256": "9835d7ee0595ea7a50dfeaaba115ae849c92b0c6dae1a9511ad7ce75e1d8e869",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1973/leis-ordinarias-511-1973-sapl-1545.md",
+      "sha256": "e9a1531fbbfe2832c547660229b88505506d1267a15d10e4fca1dec07c441ff3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-122-1990-sapl-123.md",
+      "sha256": "de25e79dfb74127d431da5258d64378f834030b3992ab3ed88da62e279a697fd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1973/leis-ordinarias-510-1973-sapl-1544.md",
+      "sha256": "e7401a664df7983569b3dfeafa27cd2e802cdf4bd7c8c35e5eabe6276610f2e1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-121-1990-sapl-122.md",
+      "sha256": "a62719e335f82e6d0fcbbaea93d5784c35d16a3e9ef46f71c0e0cef05daa52b0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1997/leis-ordinarias-81-1997-sapl-149.md",
+      "sha256": "0d65151e12e9967a91ea4e49fc47c012520691bcc95f00f191f20fb1100caebe",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6097-2025-sapl-5321.md",
+      "sha256": "c9dc712faff3ac71e99d4cf4f22c5e5cee0cb1bc1947208828a4cfb56a58763e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1973/leis-ordinarias-509-1973-sapl-1543.md",
+      "sha256": "bfae63674b0431562ed279447aaa54848db67b021e632062217d6c4116412cef",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-120-1990-sapl-121.md",
+      "sha256": "9f2590f3ef79f714828ec17ca571e0c2a36308fe107ee07a85f312bab575df9c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1060-2023-sapl-1693.md",
+      "sha256": "f690d31747c9571bbcc0715b538ac8869cd458e7eb85f6cd35683e5adabd40cc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1997/leis-ordinarias-80-1997-sapl-148.md",
+      "sha256": "dc39c13b9f2a409dd39e38ee1b99be324c6c1f84234f6ba941074268f18ba9fd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6096-2025-sapl-5320.md",
+      "sha256": "7be81481a3b24519e494dbd763e5149dbc0fae3c3cb61788774a5c819ca8e6dd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1973/leis-ordinarias-508-1973-sapl-1542.md",
+      "sha256": "390cfdd1e1c89c50d931aa93e03a1452fb117dd37968dce88dffbe1d15f98b70",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/2010/leis-ordinarias-1770-2010-sapl-2563.md",
+      "sha256": "058d7b0aa5ccc4bb4547632b520e0392f5e38501e1fa0dc13cfe421a692e55d8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-119-1990-sapl-120.md",
+      "sha256": "861356cf74ca2e7ed0c1c259fb6a7e581efa23d12145af1a3fa9f03d7e7f914d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1059-2023-sapl-1692.md",
+      "sha256": "85118213e3ff6c8e61cc373a5bfd6d596e7742739ffeb92c2d7387306397b39b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1997/leis-ordinarias-79-1997-sapl-147.md",
+      "sha256": "b430915f84712f55641f865f1237e9dabb923aedcf3e37cb4ac4fa95d2b83158",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1973/leis-ordinarias-507-1973-sapl-1541.md",
+      "sha256": "c24bd59d6790d95a5f65579cc91e388cfa971988a2e18f1c9de870e93cdd12be",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2723-2019-sapl-5472.md",
+      "sha256": "ba57c512ffee1a11532eb7e378e4a2f4dc82e5aa1228991de3c9932535b60a3c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/SP/artur-nogueira/leis-complementares/2003/leis-complementares-321-2003-sapl-912.md",
+      "sha256": "ef992c8d62ae150df95fd4c7910a8add07fcda4caa73e54009bed1f21a137a0e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1058-2023-sapl-1691.md",
+      "sha256": "2a8222a1451895d86077be4e6667fe64f0a4705e8b0c924556e1571c0b786593",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1997/leis-ordinarias-78-1997-sapl-146.md",
+      "sha256": "0b53dbdeea7d5eb2c45ffd9cb7e72d631b4a71a47cf82d4a24b3ecd68dfb1c01",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1972/leis-ordinarias-491-1972-sapl-1578.md",
+      "sha256": "abd2432a49bb97818ada54fe0fe3fd35108f33b890259e4c323abd89734aac4a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1997/leis-ordinarias-75-1997-sapl-143.md",
+      "sha256": "2a58a58629ad93af4f9d8391029de1f1e53161320ddcfccd7576d5bbc13f84d8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6093-2025-sapl-5317.md",
+      "sha256": "42c985796250b1119ed580f3d461765d04c6818e2821a9935c4eea6edb85e60e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-116-1990-sapl-117.md",
+      "sha256": "fa68604e1777aeff7ba17a2a89c2ec84d343392f09d50d79078befa77ff7aa1c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1056-2023-sapl-1689.md",
+      "sha256": "5b53b0d4743b81ec84a558d4852e96b964abb1a6a25479cef28fad353b60817d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1997/leis-ordinarias-74-1997-sapl-142.md",
+      "sha256": "97788ee5ea4452e3af3b39dc57c8b41993e152b943b2f5b4d5af106051194da8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-complementares/2025/leis-complementares-106-2025-sapl-5362.md",
+      "sha256": "bafdcb99a8397a8ec9b0789606252b8d758d2913fd2ef38c98d633104a38869e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1971/leis-ordinarias-481-1971-sapl-1785.md",
+      "sha256": "09044d8859e84e69dcfd9acacdd17383e99c3079f5c413a4f4e7fc68a3c6713f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2721-2019-sapl-5470.md",
+      "sha256": "62a4f9cdc926f0165f911dd292190c9735f886e205b29f0107da2df5e85e1fa2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-115-1990-sapl-116.md",
+      "sha256": "40ec211c6aacf02a76dc75de7690eb1c3e2323e54576dd3609b18fba921a584e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1055-2023-sapl-1688.md",
+      "sha256": "02eff03cc79cde3b246f729a2a7a0e970b3ad79f8b1516e8294ba297a1b7c45c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1997/leis-ordinarias-73-1997-sapl-141.md",
+      "sha256": "9f140becde3f60cd992b83257f9bf372040bf939cf7bbc7455aad7556a1a0e3b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6092-2025-sapl-5316.md",
+      "sha256": "87d6645f3d207c03045e08b2b9654245dc68fd6d57c6da5d59f3f5b162270fef",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1971/leis-ordinarias-480-1971-sapl-1784.md",
+      "sha256": "4ae5ba1e5edd3fb427926eb736b3d81c4f93cfbce3380de1a2d223bf45d6c69c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2720-2019-sapl-5469.md",
+      "sha256": "3a2f50166bd8505b2bd791ce5e2f499533995b400908a19631416be0e2828ca7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-114-1990-sapl-115.md",
+      "sha256": "c1eecec93e49586ca1853d2860e09468c593106117550d402f7f22256a9c2833",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1054-2023-sapl-1687.md",
+      "sha256": "9c026f54bd3d9af57b3f2fe60babe96ec8c6b3f08a82927d43f58c20e3612644",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1996/leis-ordinarias-68-1996-sapl-137.md",
+      "sha256": "5b0e000d1e8376dc278f2f42034b8d63ea7e96d1bea2a257e279fbb2280d0161",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6091-2025-sapl-5315.md",
+      "sha256": "1dcdf39be0dc023063ad139998176aca90b7808dcb6c1619ab187fc3564bc2f3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1971/leis-ordinarias-479-1971-sapl-1783.md",
+      "sha256": "28efe4fffcdbd477acc88b7625fab6acaa76a5537320e30b2c880b305743efa1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-113-1990-sapl-114.md",
+      "sha256": "fbd08b6c339e99074e9b5c726f3e5a123ec14f6b71c16829dc046f8e95271a3e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1053-2023-sapl-1685.md",
+      "sha256": "154ebc07e229bbb004ef32e85e2995f0bcb32087cc542028a2e3fef8618d559d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1996/leis-ordinarias-67-1996-sapl-136.md",
+      "sha256": "344df42cd93c051d22c03f98fe63ed7f3ba2693186be6f2e8008dfb992cbfe09",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1971/leis-ordinarias-478-1971-sapl-1782.md",
+      "sha256": "5e2d87d0a65aa0845c75230f60f77435886e360ae101a5ae9f93c39e8596fac2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-112-1990-sapl-113.md",
+      "sha256": "4a54dad8112c9d359eff5bc46b7c430323d30cc626927af8e6fdfa3f46c46eb5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1052-2023-sapl-1682.md",
+      "sha256": "852cb8a9903437e43b2400290c3b58970073b9f8f4859e2f063bc8e0b91d30a7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-111-1990-sapl-112.md",
+      "sha256": "45de272b8e1d3bb47099016826bb11cc98c2294c79ec5201156184c09a8ec8b1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1050-2023-sapl-1680.md",
+      "sha256": "ecfbfecda88c9c52bf169ad760ccef708f3d5c4125e19eb8f0c50823f0fc08c7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1996/leis-ordinarias-65-1996-sapl-134.md",
+      "sha256": "f9705208334ab66d57d7aa2d28814b38e204b8329dbdb347c1e3094281d9a0f5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6089-2025-sapl-5313.md",
+      "sha256": "2f869cf4cef26a57f68656cccd0661a0f33ba68a83518c9768fb32359ec1b334",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1971/leis-ordinarias-476-1971-sapl-1780.md",
+      "sha256": "8247e5616dce8996c737a073f3d22ee5cac0ecdd342e521732537cbada3cbdf0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1049-2023-sapl-1670.md",
+      "sha256": "dbb1a1cd6c0aa512fbc5bace33f96eb09f152969e8799d034a4353d98ca3ee5f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1971/leis-ordinarias-475-1971-sapl-1779.md",
+      "sha256": "76d5f626e82db7f34e35ca7cdfd44c978f1b9c36b300ebe66b6bde4c9ffae73e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1048-2023-sapl-1669.md",
+      "sha256": "6cacec059ddc33f526bbea7ef2d49f5370e433ba6cc1940a39ad9abbbdfc6265",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1996/leis-ordinarias-63-1996-sapl-132.md",
+      "sha256": "88be8069907322f266bcea5e5d66e08218f873b4230b1cc58f41c590048c6cf5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1971/leis-ordinarias-473-1971-sapl-1777.md",
+      "sha256": "07917f708f8edb5c6a0ce721d8a200e7f1603b8eabd4022e7dccc4bce9276f65",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2717-2019-sapl-5445.md",
+      "sha256": "fd388b4b3957183df11c1bb1a7a0ecbc1cd4a3ff927873ad3933498ba25ce66f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-108-1990-sapl-109.md",
+      "sha256": "d9751f8dd61312aa0382e940a9f1e5450aa5008855e37ef80944201df5b5415f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1047-2023-sapl-1668.md",
+      "sha256": "1ef1e5f6d5164a72c781d65c5982891563f0167ca637c5bb1cee9237e29e9c01",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1996/leis-ordinarias-62-1996-sapl-131.md",
+      "sha256": "6f575f95edd20ed960d0d7174ab80543952394c76f4577957bc581ee3529e7b6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6086-2025-sapl-5292.md",
+      "sha256": "0e7959a646eb63bf333d2a9a56ac93fafab25c3a403a12cf37ea61ad451dfe50",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1971/leis-ordinarias-472-1971-sapl-1776.md",
+      "sha256": "c3916482360c60c3a089e5ef56991143e89a9ebfa2bd677764bc2975c4c6c7cb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1046-2023-sapl-1667.md",
+      "sha256": "9a328c4d4f9dfffd42aefc08e091ea181e27f23f1f1c9100b6158d1e7c0590e3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6085-2025-sapl-5291.md",
+      "sha256": "9ab9b30b4e058a27754f1dcf9e5ed2766fbe48e663937dd22c00046aa7374879",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6084-2025-sapl-5287.md",
+      "sha256": "a8f75e4c9c12fe7a5def6c462109fec6fe8149b8d0e4ca36a386f5d60df5ccfe",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1971/leis-ordinarias-470-1971-sapl-1774.md",
+      "sha256": "80ace286d20ec9cf0ef378c93ece21ba662a6e6029a685b469d94a0d811dec6a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2714-2019-sapl-5302.md",
+      "sha256": "4fc78180cb8190bb2a671b6646f440f51c2ecb5e4abb7935ec9bbc248ddec5d6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-105-1990-sapl-106.md",
+      "sha256": "fcc136b061af3aa1d4ee56184793081cdda43936d9d014d569a4576e07e1a2b1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/SP/artur-nogueira/leis-complementares/1998/leis-complementares-123-1998-sapl-709.md",
+      "sha256": "b68447ef6d0c4d7e6f862f5bd03b979602dcf703c98f96a66de50d29135717d0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6083-2025-sapl-5286.md",
+      "sha256": "b95edce225208170c09ed1259e5b306a4c42b6f750578453b4c2688548594585",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1971/leis-ordinarias-467-1971-sapl-1771.md",
+      "sha256": "ff5dce1c54545d636880bbf497b3502b87a5cda57777446af50a7bf74676cacf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2713-2019-sapl-5301.md",
+      "sha256": "869ad7b3ebfd0226f0a7c9539ab29b771c1bd92657f2c70d8a76c679f8b27f6a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-104-1990-sapl-105.md",
+      "sha256": "7a6fe2a5e85f459bf878887d54f475141e0d5a0e5d1894bd92894dc3214d50e2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/SP/artur-nogueira/leis-complementares/1998/leis-complementares-122-1998-sapl-708.md",
+      "sha256": "a89c26c0e8aa1a0cd5b3404f7771ac832be071485e009f200b03282a920ac17b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1043-2023-sapl-1662.md",
+      "sha256": "70e2ae41c12f8aca870862863f037bb0849fa47354fef08123a966cf9001b6cf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1994/leis-ordinarias-56-1994-sapl-125.md",
+      "sha256": "cd06e49d8e50eb621693b6946b3a804fbad79a28d126d931f90bd2e0b9760103",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6082-2025-sapl-5285.md",
+      "sha256": "4d0c39cc0d90797234c4fe5f950320c2193ccd533899e2eff6e24b3b6b88e545",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1971/leis-ordinarias-469-1971-sapl-1773.md",
+      "sha256": "2a70d663525b747020bf5a7c33fac2be708948c3685e1640bd170f28877206f3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1994/leis-ordinarias-55-1994-sapl-124.md",
+      "sha256": "942eecf323aa49f65fd3ec5190b74c1290f3df7bb347f1086af9d64d1c4bd1d5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1971/leis-ordinarias-468-1971-sapl-1772.md",
+      "sha256": "d17e011e41cb057fff008b008266c2f6304fed993dc8f0da406e742d38062b2d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2711-2019-sapl-5291.md",
+      "sha256": "86e1fbce4411c574b18e69a80662bbf57d184accdb0e028b3dc249a634fc2e0a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-103-1990-sapl-104.md",
+      "sha256": "98383390d7108310eb4bff04d1daea4231da9832150e52132929291fe40ed0de",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1040-2023-sapl-1648.md",
+      "sha256": "17abbec1855d365bc03885f473b0a47f94e54880a3e05e4320c98b9251bd4be9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1971/leis-ordinarias-466-1971-sapl-2375.md",
+      "sha256": "96bbebc3ef5ea9f7cf3ca5f9195175aa8961a2744f83dc1bf90a4ba13869fce3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2710-2019-sapl-5294.md",
+      "sha256": "b4f57b35707e308e73a75627fdad1876807102cdb0b0a3789ae4953869e20eba",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-102-1990-sapl-103.md",
+      "sha256": "6cbbaa96d454b30bdab8e24dbe427d8861cea61ef05c602b4c882363d0088b92",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1039-2023-sapl-1647.md",
+      "sha256": "30acceab3722e1c3d4c072968fa9d8544d39d06d0babd80e82571e1c274691e5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1994/leis-ordinarias-53-1994-sapl-122.md",
+      "sha256": "cd7e8342624b94d10a64aa0bdd8ec41aa033a273db3ce56b58cfd5a54c7cf529",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6079-2025-sapl-5280.md",
+      "sha256": "6c951388020aa6db6419376b72266a3cde5b874188f84f4677e631e0aa7d0f00",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1970/leis-ordinarias-465-1970-sapl-1153.md",
+      "sha256": "49e09067283abb49e49803daa20ea20119f30a4f9516a2085cb4ad4b4362d399",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2708-2019-sapl-5292.md",
+      "sha256": "0df7555e56e1685541b359db05b5b6c2ef3211f8f835c3a807b01d6fdcb60792",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/SP/artur-nogueira/leis-complementares/1996/leis-complementares-64-1996-sapl-638.md",
+      "sha256": "fa863b0783a3f407da9adb4cba465225d436aab59e6c9f396e959f3d2e97c0ca",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1037-2023-sapl-1645.md",
+      "sha256": "c0adbb3c8db7b90907163e454168c15f8492c39e0c061805b7e8c8f5758690ae",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1994/leis-ordinarias-52-1994-sapl-121.md",
+      "sha256": "7ea5d2092d893b8a2424018280b8fd4b011509f405386a987bebb161204243c8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1970/leis-ordinarias-464-1970-sapl-1152.md",
+      "sha256": "864e7c2b71a22b4827b88448aa4a788e14a52e2b55a029e6b759eec4c2799a1e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2707-2019-sapl-5295.md",
+      "sha256": "9a2e2fac5e0f2a1a0a2b96762dc006208106471b0c15c7d4cdaadd1262e9d032",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1036-2023-sapl-1644.md",
+      "sha256": "5972033dae0da58b92383c826da4b1443dd21265aafbea6b84b70096df95144b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6077-2025-sapl-5274.md",
+      "sha256": "3c186371412d9bb0d8984fe1853df8bda9adafb74b91c079fd687252c8351312",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1970/leis-ordinarias-463-1970-sapl-1151.md",
+      "sha256": "cb03688eacf7968e7828b21b1502af9c86b772725f023bb1b886ec8e830a2b91",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2706-2019-sapl-5290.md",
+      "sha256": "0080d02d64acf5903213b08825c3b761f6cddce61eae058a8e3f00e098d938cc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1035-2023-sapl-1643.md",
+      "sha256": "549785479d1d1150d9343ba5d1cbb59aa1838970a3846ff75aa3209717fde863",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1993/leis-ordinarias-50-1993-sapl-119.md",
+      "sha256": "685631993f5fc148a7baeb7638ee30e5595ab726b49be3addc25aae3b05cf432",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1970/leis-ordinarias-458-1970-sapl-1146.md",
+      "sha256": "0ff774816c8a81785c5fec1d373b66792c24603b3b287a2ed17a3cd7c2ac6adf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-97-1990-sapl-98.md",
+      "sha256": "3c9103c91d4bdc838df3cf141484c01e3a99c895c3f3c434fa57f9bfa96171fb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1034-2023-sapl-1642.md",
+      "sha256": "2470692d949c092e35b3fbaf7b9d75584d253b8314a470b33eb753502e8b909a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1993/leis-ordinarias-49-1993-sapl-118.md",
+      "sha256": "c597093826f3591eb0f490345a15e2207a4054a4a57f53577d7e8526ae7f6a32",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6075-2025-sapl-5272.md",
+      "sha256": "ed00440c87c6d59bd9e10fe3817fcd3e5c5b5528932106d1dcd5335c3a21c219",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1970/leis-ordinarias-461-1970-sapl-1149.md",
+      "sha256": "f537b90ce0ee1f0af6f9fb5837fad43a8a4dec46672147fef9f334e6e37f1573",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2019/leis-complementares-794-2019-sapl-5274.md",
+      "sha256": "0a975e67e194405e56b48d86d2dea3968863ea5ca6fdad10327bad88b762e25e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1033-2023-sapl-1641.md",
+      "sha256": "8d82207b88d7d22dc855be86494f8a465322165308a96322a174861bbcd4ac10",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1993/leis-ordinarias-46-1993-sapl-115.md",
+      "sha256": "4794ab6dce8f30c49ba248c5dde7783bb37d3040457782a1dad91fff82e4991a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1970/leis-ordinarias-460-1970-sapl-1148.md",
+      "sha256": "bca3e5bbc31a8805faec995694d9d6363d72c4c48751cd7461782400aed2938f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2702-2019-sapl-5285.md",
+      "sha256": "f3645256348c5c75927fec3b66dc8ab264f7cc6f6f9e7212729cfae466a896bd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-96-1990-sapl-97.md",
+      "sha256": "85331ca83d0ee162185adb0574dffbc9412da407d3287ac6cdea699049d61b1e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1032-2023-sapl-1640.md",
+      "sha256": "5c524fff1935a3e0c14d0d04a59ab600725165764005a13ce10bdb5e442e0815",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1993/leis-ordinarias-45-1993-sapl-114.md",
+      "sha256": "9efd22087b20661cab8357adacc4b15762318130cc54e8d59536e89b371af20a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1970/leis-ordinarias-459-1970-sapl-1147.md",
+      "sha256": "950faa887016ba4acde46755c6038a103c28eff6857b4374dba169210bd0c6e1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2701-2019-sapl-5284.md",
+      "sha256": "a0333bbde70aa60a97e5ce77ed5b2954e64b2f8413e69a24c9a19bc8daa89fd0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-95-1990-sapl-96.md",
+      "sha256": "e374bf57d2fd7fb4758bbc598a6bce75dd56c4e652511f3f211015547f6b89e1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1993/leis-ordinarias-44-1993-sapl-113.md",
+      "sha256": "05ca8da0d4e1e59fe48d980b51f63994fca8f43185da2b679a9463ec5c9368bf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6072-2025-sapl-5269.md",
+      "sha256": "399ad053c6c6818a0029a19c39bee4d86367ba53b18c5311beb600c71e61d2e7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1970/leis-ordinarias-457-1970-sapl-1145.md",
+      "sha256": "225cc87c9dda999598997ee16dfad28721a4e7eed2c6786f4b66667544e15fb9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2700-2019-sapl-5283.md",
+      "sha256": "aae59d2c7f5393956098817b90171f9b1328c0bfcf42ca0453f7b35e0065a171",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-94-1990-sapl-95.md",
+      "sha256": "5dff5ce8659529d15f335e38126f39439acb3f99c0602e5b032466d829ebdabf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/SP/artur-nogueira/leis-complementares/1995/leis-complementares-25-1995-sapl-601.md",
+      "sha256": "6c2c5a65ba2dad8985f8ac1e982c63d284fe4dcc97c545e491a28a9fe1dfb702",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1030-2023-sapl-1614.md",
+      "sha256": "d5017a01af8f53cffed5d3b0462a5557fd6957831f03b7c40db3345d3473ba72",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1993/leis-ordinarias-43-1993-sapl-112.md",
+      "sha256": "212fb8815e4a51958731bb8215e569fadb3704d7764950bb54f2934e79f22e58",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1970/leis-ordinarias-456-1970-sapl-1144.md",
+      "sha256": "75096e85e3d406b99b384ceb72a9f76f65ee7d3e16ae2df77a1472ba4ecad43b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2699-2019-sapl-5282.md",
+      "sha256": "420ac31f4722b826fd6c31b058bf7bef88d6c618fede81614316e9ccc695330d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-93-1990-sapl-94.md",
+      "sha256": "ea1bef8610be596a9470151e5aeed1c0550f90f7c6b156b52b4ce8405a097560",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1028-2023-sapl-1612.md",
+      "sha256": "2483f6a075fdd2911b7dcf247f37f5442ec2677b1c6af84df7e0c4db01627997",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1993/leis-ordinarias-42-1993-sapl-111.md",
+      "sha256": "d5976e522cfc769b6900927667eb88b214e1c51f816573a85ead90220900d3c1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6070-2025-sapl-5267.md",
+      "sha256": "e311c375035eed353fc1aed747d8e018871d7cb2554af06a18cf191b969b451f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1970/leis-ordinarias-455-1970-sapl-1143.md",
+      "sha256": "28bef0de5d598fccfd69ed03435304207acad059e8c559b5862119cdb219c369",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2697-2019-sapl-5280.md",
+      "sha256": "dc8651f8252346678454571703d1ef94e0ec652abb9b9d9d1dce8c930c79723a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1027-2023-sapl-1611.md",
+      "sha256": "f0989405e16d73c3cc3fafa7ac29aee1a6e3a511ead32252f2e4f43dd1250f73",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1993/leis-ordinarias-41-1993-sapl-110.md",
+      "sha256": "ad86095ede000f4ea37b84849d32153aae1c6ea0616e7c28cc3fb08b077b2d46",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2025/leis-ordinarias-6069-2025-sapl-5266.md",
+      "sha256": "0c30306d7b16848f24b5999ec8120e82ba017966b01b461bdce086aa42d268e7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1970/leis-ordinarias-454-1970-sapl-1142.md",
+      "sha256": "eecbc9d2d91c02f0031786df4196872c9bf3e55aa741a3ae474ad55566ba0ab3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-91-1990-sapl-92.md",
+      "sha256": "6386e098515775cb8b497852832aacac3460ddbf0793c90487245f3738af2181",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1026-2023-sapl-1610.md",
+      "sha256": "bde25f248968c35e282edd6754d3a9fadb0f1cd803ef084999a11143053ed607",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1993/leis-ordinarias-40-1993-sapl-109.md",
+      "sha256": "2f2e8c068d264927b74ccd0986fae5195cb07c5b05abadea5297df9bdd6eee35",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6068-2024-sapl-5282.md",
+      "sha256": "179083f12ca0abe480d4add09cb5b1e53563fababc24a833fadd75a7927986e8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1970/leis-ordinarias-453-1970-sapl-1141.md",
+      "sha256": "38749737c20254b6cad830d1a22269317162d81ecc819214e51395f5cd2dbdbd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1990/leis-ordinarias-90-1990-sapl-91.md",
+      "sha256": "57511237672f88d4a98a3f6dbd8f9105a837b0d44a127a5c291ce2677c520202",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1025-2023-sapl-1609.md",
+      "sha256": "3ec9dc5af96235e3855253388ce48e06d1aca838729e6e87fa85c63092b6c449",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1993/leis-ordinarias-39-1993-sapl-108.md",
+      "sha256": "ac912606cc79eb7a735239b29feedbddd34f2eca12d5c8c7c253616fd62565b6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6067-2024-sapl-5281.md",
+      "sha256": "b1ceea43a5c84811e64d21b862078db3e78c3f282b7d25de4701a7f95a9ded09",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1970/leis-ordinarias-452-1970-sapl-1140.md",
+      "sha256": "38005cd8b27e299b69e7548ac7df9e347ef17c9c064544bd86788b3f94f4d231",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2696-2019-sapl-5279.md",
+      "sha256": "febcf8d4b4180a6cd852a6b51ea2d9b65168b06c566f6b7784694b4cfc56801e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6066-2024-sapl-5249.md",
+      "sha256": "d1375eda93aff6f151889f97011d8ed7916e4ec4d548e0fc0eb0cc1b27438c2b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1970/leis-ordinarias-450-1970-sapl-1138.md",
+      "sha256": "255008699a908ce3f9e433de5193b7cc903fd0b2d415c839fe8a23f68e1b7fb7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2695-2019-sapl-5277.md",
+      "sha256": "8b8af78d07b082c2f0266292533210b16a5c981194f07f37e960dec232bed2c8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1989/leis-ordinarias-87-1989-sapl-88.md",
+      "sha256": "648ec2da0c8621a9a3219e2c1ea0ce6badfbbd0cbd63c78c28342f8fa78373f0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1023-2023-sapl-1607.md",
+      "sha256": "f58e64575f290863731625b00bfe6ffd70130b53eeb8fb553679db2ccb874bb7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6065-2024-sapl-5250.md",
+      "sha256": "5ba875fcc8eda05f19c2be5b906e42f366ecc41afdec4076ff49a99c96664174",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1970/leis-ordinarias-449-1970-sapl-1137.md",
+      "sha256": "87046a313f302527f768f4d996b57a549938c1decde16f552e30b4637f63d689",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2694-2019-sapl-5276.md",
+      "sha256": "8d2611d1da6a998ff254a5426504f4b323c2282b6123156af90f22ebe4b6c789",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1989/leis-ordinarias-82-1989-sapl-83.md",
+      "sha256": "428791608f387c51dc2e4d4ddbf38635c109d7ce649ea56413b2149d3f5e9223",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1022-2023-sapl-1606.md",
+      "sha256": "682fef78e5c1f73f29b2a0f2241d4197d08035a2d4930bd89e44c399b625119a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1993/leis-ordinarias-36-1993-sapl-105.md",
+      "sha256": "eecd7cd84f9db00a26bfb158962ffddcaeb72ef9a5c1faab36f8f67cec4e72d9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6064-2024-sapl-5251.md",
+      "sha256": "a5c89bcd61efffad7011fd7c315c747ce4e49bd772a62546a4dc0ae952628ea1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1970/leis-ordinarias-448-1970-sapl-1136.md",
+      "sha256": "1a36c0015703d7400c8e879d7892c375515eed696180e73854350384eac994f9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2693-2019-sapl-5275.md",
+      "sha256": "4375d75a62695bd1d7073d1e175951fb09172abd4f7f7ae3704226ca3816bf77",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1021-2023-sapl-1605.md",
+      "sha256": "d5df7a08a1376fda6ae24792a050fb198c00b24d3bf5fbb29da27b4aad6beeed",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1993/leis-ordinarias-34-1993-sapl-103.md",
+      "sha256": "9b409cd70842366061cc5b873fb0a8f73375022c2d58a1a19199109434a6b833",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6063-2024-sapl-5252.md",
+      "sha256": "5968d4ee5181277749a756e3401e9ed283ac6ed6d2240e85a0d1e1a00ed81e76",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1970/leis-ordinarias-447-1970-sapl-1135.md",
+      "sha256": "2ec639dd79cabc7115d177f0e41331922ead7568d1c1b71d437c0dc0a0e85f24",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2692-2019-sapl-5272.md",
+      "sha256": "38a8982b26e2b872e92df6fa22ce0b6661b4bf110b3bd5b121f2a2ce32c12ef7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1989/leis-ordinarias-85-1989-sapl-86.md",
+      "sha256": "b9fb8c901dae06fa2443a4c25b6b055310047ab406f4ac59fe2187b0515502a2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1020-2023-sapl-1604.md",
+      "sha256": "d2ebed91f0a0923b76cc78fede7ea50797971757c69489c5d2ce8a4334cb43e8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1993/leis-ordinarias-33-1993-sapl-102.md",
+      "sha256": "7378887e015a46b46b0de0e8a3086f856e835f8cd609aeee08d4967298aea528",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6062-2024-sapl-5253.md",
+      "sha256": "68c796fe639f6dd7350ee30ddc03e2fc56f86914eb9ed82d576453ae715c27d1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1968/leis-ordinarias-421-1968-sapl-1907.md",
+      "sha256": "3539e27a0c3aef6e04e76ec84aa49eba7734a96da0de0aff870e97d97505f841",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2691-2019-sapl-5271.md",
+      "sha256": "5fd429e3e5e3e86c2c26a166c5113077e313179b56468a12883f76f2728b3171",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1989/leis-ordinarias-84-1989-sapl-85.md",
+      "sha256": "3b3075c6409b23891e7383476e297fc599c1c2e44fba881170ab146e84a5797b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1992/leis-ordinarias-32-1992-sapl-101.md",
+      "sha256": "898354818ffe6ac618071e344fd8912cd2616e5e474f92820a358cb70de7d0fb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6061-2024-sapl-5254.md",
+      "sha256": "a34b7a27db8e5db9d0eee9ccfd7d4f1c3994616798452306b6e36790397697c4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2690-2019-sapl-5270.md",
+      "sha256": "e9fa68e6c9ac5404a5346f5edf04dde220d7b71ed6f903e62258df3850bad4dc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1989/leis-ordinarias-83-1989-sapl-84.md",
+      "sha256": "03114bc6354abd3c43a133737cfe1e116687b51fc9572ab2e4f7ceeab64896f0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1018-2023-sapl-1598.md",
+      "sha256": "04d7a86937f2f163c0eafa9ace42d16ec08a1d671a101f6ea896e5f6f037c4ba",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6060-2024-sapl-5255.md",
+      "sha256": "1ef3785904f38d4a7bb408bc4410c974f6da6003058385731ed1bf9b87938ec2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1968/leis-ordinarias-424-1968-sapl-1910.md",
+      "sha256": "08b1c0c43a4c10de58054eac0b889ad74f576a2ff4fd6dad081665f4dee42949",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1989/leis-ordinarias-81-1989-sapl-82.md",
+      "sha256": "cdc5eaa8a78d425fc8b0f9a52f8d3a4bdac0004afc8bc9a45aa8c4bebaf7f342",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1017-2023-sapl-1515.md",
+      "sha256": "9f64d968b9da8bc1e81f88905ddd266a1df71a5d37a24b3819015e815989b70c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1992/leis-ordinarias-30-1992-sapl-99.md",
+      "sha256": "f71ca59d9ab4e9b0ce83616a697a368757f86d0903af5c4c70b774e22ddbd942",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6059-2024-sapl-5256.md",
+      "sha256": "ac81811384c0e8532f2046a7374dd146bfc0a55dbf5cc50f298ae93bd6fa214a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1968/leis-ordinarias-423-1968-sapl-1909.md",
+      "sha256": "faa34eba54504768bb4af34cb5e23c81274776ad9d14b65855bf9ada9241ffc7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2688-2019-sapl-5268.md",
+      "sha256": "63d18976da49cd241edf95e8171553fd1e3b61a7ccc161724ae2c4efc7ec985a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1989/leis-ordinarias-80-1989-sapl-81.md",
+      "sha256": "d99dc6f8554a93ec36db1de6f2041abf755e9dfd9fd592593c97429c39b2dacf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1016-2023-sapl-1514.md",
+      "sha256": "4e44748c336f22c6cc0bacbd66aa6c6a1cb9f9cba26575206b19bca9d5778788",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1992/leis-ordinarias-29-1992-sapl-98.md",
+      "sha256": "d0346fda39ef867f591efc9a9a1d2309e175aef53a902b73990d6414646e43cc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6058-2024-sapl-5257.md",
+      "sha256": "340e48c67963e8df2e36ce4da92326b5ca65d9b68740ff4e20275d747a4d2054",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1968/leis-ordinarias-420-1968-sapl-1906.md",
+      "sha256": "ce4847785847a993129628785131f0573ba1084fae64b893dd8cb87c4b462016",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2686-2019-sapl-5265.md",
+      "sha256": "4e0d9f1a54c0e066aecc0df8e613ee861cae54d969f2123e713c4562f291f0ac",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1015-2023-sapl-1513.md",
+      "sha256": "524397f83fa64bef07ca32a2902d33982b74aebd917abcb45ddb2a9e8eaca8f8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1992/leis-ordinarias-28-1992-sapl-97.md",
+      "sha256": "ad7ba75c54363ac004fe6e812e1dcce0d1a955d0875982dba245123ff6fe8fe5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6057-2024-sapl-5258.md",
+      "sha256": "f5c3b6af0b91cb08106e72a9a30dfb790e6c7ada9440e6b5dab4263093110cd9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1968/leis-ordinarias-419-1968-sapl-1905.md",
+      "sha256": "1dc95cc490edf9509393af65d8ba9d845aab617c0dfa61555e9962bd73e72120",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2685-2019-sapl-5263.md",
+      "sha256": "6281c4fe7f4dae3c71477fed4a4699e73115709fb60dda29597405c955fd5b29",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1989/leis-ordinarias-78-1989-sapl-79.md",
+      "sha256": "6f4d9a3a03421e45b2f78aba5ffbb8205a30b90d91c8b03ca10a51ad63bd7fdb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1014-2023-sapl-1512.md",
+      "sha256": "e9a17847ca9cd51bbc3374078967ad5ce0216db15df0c5dc953f38ccd7230da6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1992/leis-ordinarias-27-1992-sapl-96.md",
+      "sha256": "fa7e6d7eb085ff7367ac6739595f32f1ae81d3dd4458c297d838ca335c1fb25b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6056-2024-sapl-5259.md",
+      "sha256": "19a731bf75118b160747291918e824ec0e70610645d502f21e31429a29c6c11d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1968/leis-ordinarias-418-1968-sapl-1904.md",
+      "sha256": "c9c8698c32c0c744d38ae5f85d9b6f58e455db764d67444c4f7db3ecaa244d2c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1013-2023-sapl-1511.md",
+      "sha256": "eac6cec0a4af9fd57d562dbc82ab7851055867997f77fa93af0f228ce64ed3f4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1992/leis-ordinarias-26-1992-sapl-95.md",
+      "sha256": "10a943736c17fc5ee40c7218d23242bd7abcad278d652163cba9065c760c2c17",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6055-2024-sapl-5260.md",
+      "sha256": "af48bc18195d30a5625b92fc6d3a3381a634c5527f0896b13cbc99502b891be7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1968/leis-ordinarias-417-1968-sapl-1903.md",
+      "sha256": "97a09467b3d91f5978846d5f3ad0b96a7c3ddfc365a3065e5bc3cde73de89fc9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2682-2019-sapl-5260.md",
+      "sha256": "1356d9b399c3620caa7dd6abcb1899be5e372bc79d7736176974a902f0565272",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1012-2023-sapl-1510.md",
+      "sha256": "7ca4c7c7c6354c6eeb83e974ff5b660c1b57a40aef951395706d72a5eec77f5d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1991/leis-ordinarias-25-1991-sapl-94.md",
+      "sha256": "d3c403bae85484e2bd0180d75e9b5cad545934721e422a57890cafc64403ad7e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6054-2024-sapl-5261.md",
+      "sha256": "206680badaa42bcfc675c939991710fb92a9c70f3737b4122210bfd248f8ecd2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1968/leis-ordinarias-415-1968-sapl-1901.md",
+      "sha256": "21c22ccbe308eebe2ccf0602b9289fb6892061179f5d5cf0a1432396f3ff1d09",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1989/leis-ordinarias-75-1989-sapl-76.md",
+      "sha256": "8f0f48aefe399f5d7b2075f5443b8101d0281d87662f81390447106b83bbca04",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1011-2023-sapl-1509.md",
+      "sha256": "923ee8f56262eeacffde2653598f39c5ce6a9ee1014a0fe2aab1553671eefb87",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1991/leis-ordinarias-24-1991-sapl-93.md",
+      "sha256": "4f14247bb94928a2ac714b81b59754dc54a1145f197ab78e157ab6a74d7fc27b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1010-2023-sapl-1508.md",
+      "sha256": "befbaa73df4058464fa1f8ca77b09a2d715bc92cd419699ee6e3c287c74957fb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1968/leis-ordinarias-414-1968-sapl-2328.md",
+      "sha256": "ec6e97df006cc9466b87461b494a3b35eda8bee1fbad0c78419674c5b6f83840",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2676-2019-sapl-5254.md",
+      "sha256": "7301951f50ca4eb5a385fd87ce90f27a5de090540237be653a5eb5b3677cc8a0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1989/leis-ordinarias-73-1989-sapl-74.md",
+      "sha256": "7171c3ecdf6be381638ebfbffb1922a807954e220d23de2e437b056f4856cc92",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1009-2023-sapl-1507.md",
+      "sha256": "9a7939305012e69d0ed533e28f1ae57bb1089b905edaf71ad66d826fa61db2dc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1968/leis-ordinarias-413-1968-sapl-1899.md",
+      "sha256": "ceacaeb55b32067e72ce8a7d783f8fd78833cea383aa04d0d35cde041ca1c2b3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2675-2019-sapl-5253.md",
+      "sha256": "53f2ed15fc6d5ba7a63ddf4313880fdc47f6aa9b4d6f297f2f3c2381479773b1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1989/leis-ordinarias-72-1989-sapl-73.md",
+      "sha256": "f45d82e40f05ff8e5ee1a66ae419b10c96d57c5f92f9a6d6341f96277fbb35ca",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1008-2023-sapl-1506.md",
+      "sha256": "769e3fcc702fadaa5c8774a0abd56a071c4caea0f559ef3136dbc39a842b6dc0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1991/leis-ordinarias-21-1991-sapl-90.md",
+      "sha256": "1c8a05dc670601584b3f63817cb1365b7322d780457fa003f762d491e4618fa3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6050-2024-sapl-5245.md",
+      "sha256": "9da89f5184dcd98425a836f4d833c645bd0a27631351c441244efb57e40191a4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1968/leis-ordinarias-412-1968-sapl-1898.md",
+      "sha256": "d917b6c49c2f3e415fee17fcb69beffd2c1e124c2319565b6f508f4068072b28",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2674-2019-sapl-5252.md",
+      "sha256": "d4b3a1a9cc7f84c12d1dd2904b78cbf42f5e0f868e514cb7dfb6aa8375fc47b5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1989/leis-ordinarias-71-1989-sapl-72.md",
+      "sha256": "9ac812e6e1b640d4e0540d165a3ed102e338a1e84eee53ef7040872bb4c84c7b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1007-2023-sapl-1505.md",
+      "sha256": "5b1c68d689211626be35993d9b04934432d3ad63c757f18d1af4452e8178e19e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1991/leis-ordinarias-20-1991-sapl-89.md",
+      "sha256": "fe3bede11d7139f3deeaee4cf6638b1448f9252ccea30d2166c51c9d5ce89cce",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6049-2024-sapl-5263.md",
+      "sha256": "f9725027faf09467d3197b3f0b040f8111e01823f5d28fd797f58244cb07d188",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1968/leis-ordinarias-411-1968-sapl-1897.md",
+      "sha256": "57478b6a4525e6e9f219c32a77e1ab3efb6d30f1abae76fec25c2c1ed8e9396d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2672-2019-sapl-5250.md",
+      "sha256": "0f3f65c1f46318e583285ad13134b7a0374b0479c3c9d109653c572febeef186",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1989/leis-ordinarias-70-1989-sapl-71.md",
+      "sha256": "be5973b532e4d2dfcf8b04925856a464d8b5bb26a80636c71578a1a984d93edd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1006-2023-sapl-1504.md",
+      "sha256": "cf51870ef434c6f2dc8bc6e4c8bf972239550e0f3dd2188a50eb06eacfbb6b9c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1968/leis-ordinarias-410-1968-sapl-1896.md",
+      "sha256": "0fff09e521a6e2d0e5c626d3c96a396186d2c3b9ab285d68cab5b696a41ea626",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2669-2019-sapl-5247.md",
+      "sha256": "86dca33540bbb130b302630c1d2a3f8a8574f63eaceb2ac46491e3e2869c6fde",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1989/leis-ordinarias-69-1989-sapl-70.md",
+      "sha256": "775c2d42be4ac528fee68ed3b8b49f098068c389e081f7dcb5713f3b35c6b9b1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1005-2023-sapl-1503.md",
+      "sha256": "b791da3c1d2e6a7176601bf3b3826ce8e41b5924c7fe4147d5d681fd20db7951",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1991/leis-ordinarias-3-1991-sapl-86.md",
+      "sha256": "2e61337692db54d1168d5a6329fd4ca4d6c8be5e57536bf91bed792fa5a05cd3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1968/leis-ordinarias-422-1968-sapl-1908.md",
+      "sha256": "01e78593b2a4eae80973669ee519468b5ae8562b211d0af5cc164cd88c1a52f3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1989/leis-ordinarias-68-1989-sapl-69.md",
+      "sha256": "33cc5d61ac7e1c248efdba16666579a704ce882e7958b5dab3fcf55231fbbb37",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1004-2023-sapl-1471.md",
+      "sha256": "5ee93e6fba212cc0c262372ff0d80b28bea5cdb3db1f4153c4c98ff145507052",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1991/leis-ordinarias-2-1991-sapl-85.md",
+      "sha256": "480e606b2e772be9cd6e1b861e10e2c7b922ae6c4e3b66196ba24d3265fe53c1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1968/leis-ordinarias-409-1968-sapl-1895.md",
+      "sha256": "75afb96853e5bf35b434e5f56ab7ba6ce650d6a2ce6c648bfd50669cfaa033f2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1989/leis-ordinarias-67-1989-sapl-68.md",
+      "sha256": "99158ad348bcad4bd724d27dedb9793aeac6811b696fad3be86b680bc614a539",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1003-2023-sapl-1470.md",
+      "sha256": "babc30f9024587066f8f5d055a128872e60a195ae4d9c0eb92095da1cf3b41f8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1991/leis-ordinarias-1-1991-sapl-84.md",
+      "sha256": "cfa24a6b09e4efb268e4c88bc21563c50675383d77d3d10233f3bc419dc4d069",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6046-2024-sapl-5178.md",
+      "sha256": "8216a138d28dbd713f8fbd93ed6e7570792652b75022c0c51b9aa7c253ab3fb1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1968/leis-ordinarias-408-1968-sapl-1894.md",
+      "sha256": "f27cd5c2001286da2ab37cbe60fb5335e9e3e9385f5aa62a639d5457a5e8bf9a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1002-2023-sapl-1469.md",
+      "sha256": "74014af4e6fb532cbc930d36036c407e2b20bebddc852edc1cd776afbf240d70",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6045-2024-sapl-5177.md",
+      "sha256": "9270cd1b44810d4a703c3ae9339042260011667c062833d601c42caee20a0888",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1968/leis-ordinarias-407-1968-sapl-1893.md",
+      "sha256": "a35c94055514e08210c17965bfa3df9a6ee669da931425611bee755736ed6628",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2019/leis-complementares-786-2019-sapl-5140.md",
+      "sha256": "16608f34cb3d91f0e8bd5b50a2d46915cc751f42955aaab78e3ee49c1c593a2c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1989/leis-ordinarias-65-1989-sapl-66.md",
+      "sha256": "2ac69954979826548a4e0c584f386701992c2295cbe2f63769e399636db0cb40",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-1001-2023-sapl-1468.md",
+      "sha256": "520e3e41eaeb727e8ca3c51314f0be477fac1ac1907f575b0d219868a5bf1614",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1990/leis-ordinarias-13-1990-sapl-12.md",
+      "sha256": "ba056840861ff09b7ac2c2841a885a58c8ec2f39bd9fc400d2c26ec609d0aaf7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-406-1967-sapl-1892.md",
+      "sha256": "17865a52a4bac24ba75d348c0b4d26927bc05cc3869dcd6c06ca6622c1ef12eb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1990/leis-ordinarias-12-1990-sapl-11.md",
+      "sha256": "38daf1678d3303b83f0e6e6e8422824bfbb56c5455636ffa438b8cab1d1fc51a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-complementares/2024/leis-complementares-102-2024-sapl-5167.md",
+      "sha256": "9eeb852c18d32bba5056b83bc4df015c4d22b866c850780f645ad86f00eba9ba",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-405-1967-sapl-1891.md",
+      "sha256": "226f07a0701375d192dddec5a9d6247cfef1b6cf93a63c656c1a25dda54d5f81",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2667-2019-sapl-5245.md",
+      "sha256": "b4728e1ca2cdeedae12bf4f64b27cbba65acbb19b4c7605a5d63583e1cf944ae",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1989/leis-ordinarias-63-1989-sapl-64.md",
+      "sha256": "f993f7698b26c8c3860646351b5cee17c1e13b68cbcc746b3a98fab4a062b691",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-999-2023-sapl-859.md",
+      "sha256": "f9a8d064b1a7aa42a53603bc7ff4071d87c87e952822993486a2032e1eb0abcc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6043-2024-sapl-5159.md",
+      "sha256": "a2fa04fe496fa0fbc2df3cb1f2807cd9bf41c0b45de8056a43c6eb019ca74ce4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-404-1967-sapl-1890.md",
+      "sha256": "4a6d5f4ae6f25ad3ba06fca7ca5c8480ee0d49c4b402d2aa19e9a111d4054c63",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2666-2019-sapl-5244.md",
+      "sha256": "cad28829d3a89926a6533c393191cc5de5ffde0b218f613ba36cdd4bb9d343a9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1989/leis-ordinarias-62-1989-sapl-63.md",
+      "sha256": "89a2732e7bc8e4b4ae42f155eac2640e789d2a84b2b96c813a273ecf0709f005",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-998-2023-sapl-858.md",
+      "sha256": "eab78386add1575f8ff1503c1efabb4ef065b0e02077a47da5b9f6ea56d79cd8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1990/leis-ordinarias-10-1990-sapl-9.md",
+      "sha256": "776b8a71ab0683d4a931967e266fed5e16016889d38ef9ef21b975c4e2d37bee",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6042-2024-sapl-5166.md",
+      "sha256": "f6da57c1f9ba5b17b2b4877ae22727e8fbcd70c954306fe20538f80026c1c830",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-403-1967-sapl-1889.md",
+      "sha256": "f2a1b54dc8e130836be1169f2c7397a1825a9241faec6a8d681bfcdf087e18fa",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1989/leis-ordinarias-61-1989-sapl-62.md",
+      "sha256": "62b425f9a7c3982209cbe36578027cda9408ee59deec48df647e204a6c84f6af",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-997-2023-sapl-857.md",
+      "sha256": "89442084a9d4fe3139831d71dd25c2e951cac9728cebe32376c1b1683422e236",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1990/leis-ordinarias-9-1990-sapl-8.md",
+      "sha256": "41fd3a3300ccaa107a61404ace17f374b58e06f642dad51b9534a70778634ed0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6041-2024-sapl-5163.md",
+      "sha256": "5f0c83aaaaaab08890bd0c8548c9945e3bc4e67ae4275896563d0f0699ead146",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-402-1967-sapl-1888.md",
+      "sha256": "6516cbc13fb1b81e20b4807fee7098a93fdf0f84c3be8c121261470d51172840",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2023/leis-ordinarias-996-2023-sapl-856.md",
+      "sha256": "6d042cf9b94b7225dc5e78b369adc4cf17cc4722cf37d62796ac75bc00cbde5f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6040-2024-sapl-5164.md",
+      "sha256": "e789931e4e96e9eb533dacf747b9f2eccca67fb78df55df7b48be0931a7859cb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-400-1967-sapl-1886.md",
+      "sha256": "a0637e5cccd690ffbab2771a454184f33c900e54d0d3023cf6949dbc8ee627e6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1989/leis-ordinarias-59-1989-sapl-60.md",
+      "sha256": "0dddfda799c7af58c3fe47f61ed70da0bc3598b9a35028ebc9aee7c5ce77c68c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1990/leis-ordinarias-7-1990-sapl-6.md",
+      "sha256": "1a726708caa0ea8f88f568277c2e81d1c03f55e1c5d2878eb3098a8b8ecbad2c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6039-2024-sapl-5165.md",
+      "sha256": "c717a42c0cd3354d788db573a78573afe7564fb4c6c48e77288adea1f5d75c2b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-398-1967-sapl-1885.md",
+      "sha256": "8d5f3c3147a5e40caadcccfc24ed4e8b33a1296a35c9af1234d0769bfbd79c06",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2664-2019-sapl-5243.md",
+      "sha256": "9f77643cd97a6e4214178a21fbf1b0bb7d5594dadc9ac0ec0fb2c2a758c9cdca",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1990/leis-ordinarias-6-1990-sapl-5.md",
+      "sha256": "326e5d2bd91c78a153eac239ccd909b2a53de481679ca47b38c9351fbc24e282",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-397-1967-sapl-1884.md",
+      "sha256": "6a82c3cecee820adbc5c8e0a503fd504b91ac4574cbbefef8dd09bd1e89967ad",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2663-2019-sapl-5097.md",
+      "sha256": "c27ca792d694b2da0b8b79217ac4ac3443aca7bd7333ed817957c7fb0851afdd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6037-2024-sapl-5142.md",
+      "sha256": "feddb3f02e7c6670b8a8df0957db8567b3d2e2d6cb9f8e273043c4825044f1b2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-396-1967-sapl-1883.md",
+      "sha256": "40dc3a3a4e182480360cca66fb19d7e5b8fab15e5c4bfa3726705528c5ade39f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/BA/banzae/leis-ordinarias/1990/leis-ordinarias-4-1990-sapl-3.md",
+      "sha256": "8724c9018466642af22284e090f6d795b5b5ae7a8086cd16a0c0b45918e14a29",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6036-2024-sapl-5143.md",
+      "sha256": "dc39c8d9e37052196d222ac12eca955f197ae5c033407e76811d411fd73ff2e2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-395-1967-sapl-1882.md",
+      "sha256": "86d7b74da90ce64e8e554df2c9c2443562d48919185bf1e7c9d0ebec41f2f8ec",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2660-2019-sapl-5091.md",
+      "sha256": "a0d5f8f1773e40c4e7f1d9f40810ffe68e18388009640a76e63738a6f8ddfab2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1988/leis-ordinarias-55-1988-sapl-56.md",
+      "sha256": "b9f4dc61c8e314c7af0b5262958626feb5ea1557cf1b66d45389499c73b51add",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2022/leis-ordinarias-991-2022-sapl-1761.md",
+      "sha256": "5083df04ea26ebf870108433be1de981a2a5800cd6fc429a07a41939f70eb956",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6035-2024-sapl-5152.md",
+      "sha256": "fce79ab04482959525b4f0435f53be69725009643b1f31bebafb10afb7538c37",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-401-1967-sapl-1887.md",
+      "sha256": "d4c6bf3ba316caae27cd3927f82b89f1694721d66891bba54dc809cc3c31fdd6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2659-2019-sapl-5089.md",
+      "sha256": "3f1f5c4ce10cfdc21011c55cad47505b14623dfa8de71b188b3f5cf2645034bf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1988/leis-ordinarias-54-1988-sapl-55.md",
+      "sha256": "494414f0ac3c43b07709654e7b19031f0528547d9a7649add9edc600a68788f3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6034-2024-sapl-5151.md",
+      "sha256": "9a590f59f17bb36e5d80d43bcb46ae3b4c4177b2668aa5792fdf09d6396a595e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-394-1967-sapl-1881.md",
+      "sha256": "47b0a8267a0037ffc949f97df6d008418a4369e771040f7e9c0c1666486c3b6b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2658-2019-sapl-5086.md",
+      "sha256": "8a7a45b53932c94f40965f1ceaf3d32786f63f1f366828d38fd53abd45796a0c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6033-2024-sapl-5150.md",
+      "sha256": "be69e9ad6bb64675ecbb41a1d84208008789f85472701e63473e61cf4abe40a7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-393-1967-sapl-1880.md",
+      "sha256": "820b1c70a9a38d590a0517c7062179b5ad4a9685f3727dde6ec9ceacc274f52d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1988/leis-ordinarias-52-1988-sapl-53.md",
+      "sha256": "ab6ab366aaf2d768390c306d7dbd1bdaf26bdade0888c79be149fd0b8bcc07d2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2022/leis-ordinarias-988-2022-sapl-1766.md",
+      "sha256": "b8f5a1e1abaf85bc6ecc248575661bb2074358fbeaab4dd10cb9331aa039fe9f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6032-2024-sapl-5154.md",
+      "sha256": "ed8a2f72393650450da32a7639d00a28cd0dd2af24709e764b5d1d42c429b44d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-392-1967-sapl-1879.md",
+      "sha256": "0660ff3bdbe594ca520682c2b0a34b75c82ff5f846586612001d6a5dd0bfeb9e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2022/leis-ordinarias-987-2022-sapl-1765.md",
+      "sha256": "e82e3a15931fb3f947f62abd6ed1302a7f92dd212c88639f396668e497ca8fb6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-391-1967-sapl-1878.md",
+      "sha256": "cb7d9fa3f9cd0e2413d1c6e412b00b28c7c96e1566eb7724f93ddfc852929666",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1988/leis-ordinarias-49-1988-sapl-51.md",
+      "sha256": "5af26c8e7c05fa8c8b8780a2876599f640127daa0cd65749cf8289202aab5b8a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2022/leis-ordinarias-986-2022-sapl-1764.md",
+      "sha256": "5381c20c6b5c3fee581c797e8d80ee4ba8d21457eae45047ff5b2530cf1d80f1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6029-2024-sapl-5148.md",
+      "sha256": "9278ad3a52ebf010df87c13285c866911c9d6bdd7865a9bb325338608601554b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-390-1967-sapl-1877.md",
+      "sha256": "948a07d0660aba8916e982d8b74123d1cdaf3daec000a25e7f97483ea48273f2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2654-2019-sapl-5082.md",
+      "sha256": "ba2b2b9dcc9c032d542f807895f3d286baf12074094a25f1742cdd98c2881794",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2022/leis-ordinarias-985-2022-sapl-793.md",
+      "sha256": "2ab46c6f0a5c55c1081bb6503041ee2a158ce20610a65da2f1985b0b1390c1cb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-389-1967-sapl-1876.md",
+      "sha256": "371992afb139365ad6a2ac9656d71f3eb4e7b00c7097f55596b82e97d22a96d9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2653-2019-sapl-5081.md",
+      "sha256": "b1e199116e847c69548829d6e572ec57200197fca6135b7d44e8f3876c2c2849",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2022/leis-ordinarias-984-2022-sapl-1762.md",
+      "sha256": "2eaf773608adaa57a2b952afadc11697c384cd3f57db67f3657add8cbb6e6626",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-388-1967-sapl-1875.md",
+      "sha256": "7428ccefa08d7566a8e1faea52ce2728457e4f3ac5e68ddf3203d07b903cce88",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1988/leis-ordinarias-46-1988-sapl-48.md",
+      "sha256": "6214e2f9b14fcca9292cf055160f7d5250df54dcb8ea4d42f18450a6e3447731",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2022/leis-ordinarias-983-2022-sapl-770.md",
+      "sha256": "aa3df83a9896b60f418b2c35e7506d9364d573b85f23c51ccf71bd14c51bfd36",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-387-1967-sapl-1874.md",
+      "sha256": "4792212c63075bcd51f899d1bdc4a1bfc325d1bf49a98458cdf9f31a7d4fddd8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1988/leis-ordinarias-45-1988-sapl-47.md",
+      "sha256": "454d8f9f14b3e0db2dc63fbaae63d0d3de249ad3fb4d9e3c260c013f6fee315e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-386-1967-sapl-1873.md",
+      "sha256": "6ca4ca8c5e5796fcca74e4da61033b2f21ad0a57d0e476c3150d8eb448f16515",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1988/leis-ordinarias-44-1988-sapl-46.md",
+      "sha256": "a8cbb295623db3bf27931301a95725eda7a24c8ffd9b726c9ad1dbc9ade61b1d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2024/leis-ordinarias-6024-2024-sapl-5141.md",
+      "sha256": "31b2b5f99e0fe99a670e8b3ea9b8c05f6e2c27baa7a183df705adf8d56e1c6f5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-385-1967-sapl-1872.md",
+      "sha256": "c82feeb954daf3452704c60f405c8ad21601bb0f0fe740e09eb219000bcfcfc8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1988/leis-ordinarias-43-1988-sapl-45.md",
+      "sha256": "8b71f8db9deebaecb0980680f2e9ef143e63ba5ff7a892ff1310164673d69be3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2022/leis-ordinarias-978-2022-sapl-765.md",
+      "sha256": "1c261e4e2a0554fcae6f9e4cd0f54c89ebb06b8edc42ac84a4d70fa41a19c641",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-384-1967-sapl-1871.md",
+      "sha256": "f30d68a7cc63d7017effc8badcfcc98f5cff611673cd8f5fef7a3b394e03e98c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1988/leis-ordinarias-42-1988-sapl-44.md",
+      "sha256": "e6d312239fc8e8243a023b0e6e8e84697490b21a96823a21710dbe92f86e0c24",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-383-1967-sapl-1870.md",
+      "sha256": "769df5dc9ecdfc97a4c837647683caec6fe454410f69fff6f28f2e42dea7521b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2022/leis-ordinarias-976-2022-sapl-1758.md",
+      "sha256": "d04b74363281f6933ab22ffe03d4c0e2c6cecb9ff6006c82514e23767d349d25",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-382-1967-sapl-1869.md",
+      "sha256": "a58b3accffeca177ec5f5e30a656de9e2ac62efd22728871a3d22b631b5eeede",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1988/leis-ordinarias-40-1988-sapl-42.md",
+      "sha256": "1cee845f67de1f3bfd3b8b82cc7f44259eed68fbcc6604f6d81f8284d514ffff",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2022/leis-ordinarias-975-2022-sapl-1757.md",
+      "sha256": "0ea4344afd1707dfb52fe0c66ae34f2369f80c47d74641ab7ed2b2c2bf38fda5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-381-1967-sapl-1868.md",
+      "sha256": "cabbd97fa7435bd82fc03e13581805cfee359fc03e12d3182aea1d5ffccfd3e7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2643-2019-sapl-5073.md",
+      "sha256": "ace902d3ceb51cee35d4d8cce2996fd65c4cc84bfadec269d4c6bca73e385f32",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1988/leis-ordinarias-39-1988-sapl-41.md",
+      "sha256": "16e0116d3f270dd9bc4af30329071121e75a9e09415b87e9fc4e8121f9762458",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2022/leis-ordinarias-974-2022-sapl-1756.md",
+      "sha256": "45a6abb47326767ae2d64da8d846fb007f2c6fab82e1e4e67ac61c8680c9488b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-6021-2023-sapl-5130.md",
+      "sha256": "41fb458a867ca911c9c7ed2270adba5f248b139ce12c535f0615fd840c48b697",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1988/leis-ordinarias-38-1988-sapl-40.md",
+      "sha256": "ea54fd9e3913ce4712ba70bbce8cf81b95dacc0c6fa5ddb1cfb776d4b851e057",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2022/leis-ordinarias-973-2022-sapl-1755.md",
+      "sha256": "808b7308627323cb17d51b9b58bacb16490c077fea459277964d3538fab277e3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-6020-2023-sapl-5129.md",
+      "sha256": "dcdd524556779db1568e2fd571e8e659834b13e3f3cfa71d33e7265d592645af",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-379-1967-sapl-1866.md",
+      "sha256": "14d887df18ed2548756d0ff7459737368b1bae332059f090ab666ee4eb785f59",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2637-2019-sapl-4879.md",
+      "sha256": "ea4f9660b52b19b390e758521afee3ca0e79853e12f74403fa08a08de3dd2133",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1988/leis-ordinarias-37-1988-sapl-39.md",
+      "sha256": "f088a2eaf4d8618272e88b7a2e5f3939ec791c73e94f8efa7c1e90e32126ba52",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-6019-2023-sapl-5128.md",
+      "sha256": "82150ab1cd54541fa1b42b47eec76a2e951a412f566849177a7b8c67580e7c64",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-378-1967-sapl-1865.md",
+      "sha256": "eaaf6058e7d8a144d2f4b69e3df0f054e78734b63faf169b74e08205ee5ee703",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2636-2019-sapl-4878.md",
+      "sha256": "2ed890d9bc89506d03a43ce1cd44b75276a25d3b40f05e9b75cfdec113d7c885",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1988/leis-ordinarias-36-1988-sapl-38.md",
+      "sha256": "786f92a8c3dfd701991b02e0bae38095c821984fd348e039e097242070d0392d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2022/leis-ordinarias-971-2022-sapl-762.md",
+      "sha256": "ca0860e5176f31deefeec16e8772f183ec10358324479e1ad97e3781bacc2596",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-6018-2023-sapl-5132.md",
+      "sha256": "4e1f574f4d0c84c888a26a43183298db1532209bc76df1593968e6c2a41dcff6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-377-1967-sapl-1864.md",
+      "sha256": "2747cbbeed67d435a9e5c341371bf9470d9185627b21bf02301dc5f603f13a93",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1987/leis-ordinarias-35-1987-sapl-37.md",
+      "sha256": "d2c28d961f293c0c8cd78984894c02442b65daed97e30ffa7e3450bfd6374041",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-6017-2023-sapl-5131.md",
+      "sha256": "85dab09b008b89da969201f8e5c3bb43e31afb0eb03e8ee52675184f1cce459b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-376-1967-sapl-1863.md",
+      "sha256": "a03a8f583a80c8a5b939c3b763d14f7e3c17b3bbed030d5447434b9fc27dce5f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1987/leis-ordinarias-34-1987-sapl-36.md",
+      "sha256": "3e0ce4883d27ea68b313e7350edf87640f14d848340a3dddd6e6a9cc5167cc40",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/PB/bananeiras/leis-ordinarias/2006/leis-ordinarias-333-2006-sapl-658.md",
+      "sha256": "9b6fc16872fc266038d8a404a21950000badda7685bd58d2d9f316fba341f2e8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-6016-2023-sapl-5126.md",
+      "sha256": "f79564928356563def267653ced55fb98b755e3a3c82132a7b4af4f6a287ee94",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-375-1967-sapl-1862.md",
+      "sha256": "0cd19c8698a8d14dc6a2099f78c4d62aeb96bbc40ac483fdf7bf30da5e50b2b7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2635-2019-sapl-4805.md",
+      "sha256": "c6d3e5616ddbbe3299243950f0aec1fa0a2c59f4948bc94951e5bbd034ae73e1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1987/leis-ordinarias-33-1987-sapl-35.md",
+      "sha256": "184830509f4fc989a50cb9b61d630abf43df32d072059fa8360559757b0eb493",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-6015-2023-sapl-5125.md",
+      "sha256": "293ccc73c7592cfbe70ff49b40a2f8e7dd0dc2afb50ef9abfdbd3f540670cdaf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-374-1967-sapl-1861.md",
+      "sha256": "98344268b7d2b8bfafc8c277a076fcc3148dbc11dfe9fa92252aa503b82f9555",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-6014-2023-sapl-5124.md",
+      "sha256": "3fec98acd6f139ef65c8ae2f2c44ee31563d249061c558fa4b9e48d3ef993c24",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-373-1967-sapl-1860.md",
+      "sha256": "de7105a41ca68c606e239d522fe45435ae1d40aaed684f2f027564255c5ebdf5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-6013-2023-sapl-5123.md",
+      "sha256": "894c7c2f4a2cecf914dda43aa08dc59f789a304ebb0c63bba1d73c9634d47403",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-372-1967-sapl-1859.md",
+      "sha256": "61500bfa4965afbc6f85c8f169f49bf1abd86d2c7da96bd87aa3bb8a7af17f63",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1987/leis-ordinarias-29-1987-sapl-31.md",
+      "sha256": "92753f69bb53a09d241ce68aea5b9b814bcd03b6f9a73ac4539686c07c8c2f3b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-6012-2023-sapl-5122.md",
+      "sha256": "12f741ed8cabd787ef3d26ddf034191e458f0fc0a738088ee893f4fe8aac2ed4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-371-1967-sapl-1858.md",
+      "sha256": "c289c83cdd8f137976f44df659d09b4801cd689938bcddb5069414a2fa72d8b4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2631-2019-sapl-4801.md",
+      "sha256": "a90a0d6a1871625ade3faaff549fb3d4984728cf1215fd1008a3e420905b1b55",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1987/leis-ordinarias-24-1987-sapl-26.md",
+      "sha256": "7c2c054ef9aecc7049be054660bea0a0551c53d6dbc8fda503b90abdde95fa18",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-6011-2023-sapl-5117.md",
+      "sha256": "42cee9db3b7cc228a54342b0f1929fcebf4d929f973e25a7090fa6844ee84ec8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-370-1967-sapl-1857.md",
+      "sha256": "06372383e1509c070253a903989a3fb9d4d623bd4521c7bc4d8e74190926185f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2630-2019-sapl-4800.md",
+      "sha256": "ad0225fda1063dae32a1cf4a633979981cdae97a0040d234f26ee8e7725f3ba7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1987/leis-ordinarias-27-1987-sapl-29.md",
+      "sha256": "57e675539bb028c1fcf6b241d4d63f88261193b822df02145c97e481b3a277a2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-6010-2023-sapl-5112.md",
+      "sha256": "577dd8d3fef54e0d1bf4b73cc88c25ae6d1b27b86fe9706dc02e217823d095c9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-369-1967-sapl-1856.md",
+      "sha256": "cdb32dd53eb31075547b38ec3016893ccc9370687ce25c45916a13dde7263631",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2629-2019-sapl-4791.md",
+      "sha256": "6a5be868202d71a884beb2276b024ecde3af7fa208e4535fe75de14acf75c62e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1987/leis-ordinarias-26-1987-sapl-28.md",
+      "sha256": "9140e9e200f67b32f96fb169936df2f6aabd9029c8d13f75fcaf7b4c6ecb9190",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-6009-2023-sapl-5111.md",
+      "sha256": "21067dc800090129cd4b7926d53c6112a8feef83aecee567d1dcdc9d6a1298c0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-368-1967-sapl-1855.md",
+      "sha256": "c017d5468f67f7a47417d035a42a43ae4030b5511c07d649e2cf9c65dd07024f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2628-2019-sapl-4790.md",
+      "sha256": "d05d90c820dd8660069ba5b1260983ed5581fe421952f96ebd18ed8a916fbb1c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-6008-2023-sapl-5110.md",
+      "sha256": "27c52d9ecc90a1bd1d612622c831d2d0e9941e304691a49a9936bd7854b09c5b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/codigo-tributario/1967/codigo-tributario-367-1967-sapl-1854.md",
+      "sha256": "598d35a4429c22ee16177e433c4f4ae1b410a171b82b565e68891284d8a53284",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2627-2019-sapl-4789.md",
+      "sha256": "9d48d716437e18956161be06f67226e40f04e8dd885620872f1fc4f6218e0c62",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-6007-2023-sapl-5109.md",
+      "sha256": "4c86cb080499946efc11df42af09c77d7c1da2fb9bad4c5ea1ed3ab6d0efb6c0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-366-1967-sapl-1853.md",
+      "sha256": "473fb3d606fb380a66bb06f82ca187804d7c021cd2a467c7c4e5ae714b564a2e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2626-2019-sapl-4788.md",
+      "sha256": "fdd718d2eceb0b9727a13c4e65b292f7f6b5483e0f1b62e9bd704a72989d8fa4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1986/leis-ordinarias-22-1986-sapl-24.md",
+      "sha256": "6946501a579834c52c27cf78108b2d085f671efcb32cdce1ee03f1c5bb151bf3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-6006-2023-sapl-5108.md",
+      "sha256": "9503c2da860c7fd9482579d03da7cdad061aef6b138dc6f3c7e604239c4c240e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-365-1967-sapl-1852.md",
+      "sha256": "dce789af40ae5808ec237c72529fcdc7bdb121c9ff9068a5fa3aa23ed17785ed",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-6005-2023-sapl-5107.md",
+      "sha256": "f9dd1f1c61291561f96aaf968362d29049056989034e3a6b55741b8af8b5d768",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-364-1967-sapl-1851.md",
+      "sha256": "557789cd6294e3194db0a3b632646a36434e9d2ea3e92af9c61cffab168b571b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2624-2019-sapl-4786.md",
+      "sha256": "67eb8947cecee76ce3700f27d83ea65f2d31157adc5749b8ec74025c6856fd01",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-6004-2023-sapl-5106.md",
+      "sha256": "8e483b66ced3617201bfbc1c34dccc98be042d007fe6ec30779d218e8292b0e7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1967/leis-ordinarias-363-1967-sapl-1850.md",
+      "sha256": "08fad853c07474f67c2f524e09e646b81b070de79175bd219fb375a7c6e2e578",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1986/leis-ordinarias-17-1986-sapl-19.md",
+      "sha256": "d3e6e74f7611435eb587ea92ee6bda1c10b04d2b1dd77d78db23c8ed498f8da8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-6003-2023-sapl-5105.md",
+      "sha256": "8003032f6c25c7f94aecb8da20ad9cc6cea37ac527779e5280bfb9b422763562",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1966/leis-ordinarias-362-1966-sapl-1849.md",
+      "sha256": "94488d64a5d92ded7a958cf7e071911e17ed2eed04ab8723f39fe1021b42a12e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2622-2019-sapl-4784.md",
+      "sha256": "aa1475bd6e01afb5766386c3709f3762059df90c4c3a827055999362e8365435",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-6002-2023-sapl-5104.md",
+      "sha256": "046e1c929d670f26b59ae43d55f2ad4490dc8a1ec772b8afd05f4ddd4e038404",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1966/leis-ordinarias-361-1966-sapl-1848.md",
+      "sha256": "73d14fd00a193baf5efc785d418f59d22466de4329d81da7381e199379b236bc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1986/leis-ordinarias-16-1986-sapl-18.md",
+      "sha256": "7bdf8f44b8f72b13dd2aa74d6c4dd1651a644be84463ba285e80af8bd4630411",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-6001-2023-sapl-5103.md",
+      "sha256": "115b044469a0449c2b4fbc272eb6af692eebf8758b4b1767ba44f1521d4703b0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1966/leis-ordinarias-360-1966-sapl-1847.md",
+      "sha256": "7f4c36b65de8086d1abeb95e15838b1df471c66cb3a2e0def80907bd1778007c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2620-2019-sapl-4782.md",
+      "sha256": "ba53e2166e42d4f00d614fdbc243a8f29a91efc93935648263a604b303fbb3de",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1986/leis-ordinarias-14-1986-sapl-16.md",
+      "sha256": "0943572926fb0fb58b77b89f8dedf14e7a6cd87eef819b3fdb80bb90eb46a19f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-6000-2023-sapl-5102.md",
+      "sha256": "272989492e0a621c1912770c17e10554adf561bd589180f0cdf26dff373fa7d8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1966/leis-ordinarias-359-1966-sapl-1846.md",
+      "sha256": "782bd646f960132c000a83da21bee4461b57d9b3e9ccc88cfa47ecf854cb51ea",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2019/leis-complementares-774-2019-sapl-4755.md",
+      "sha256": "a2716ac827e4353b50e23c9a9049fe3dcb04d83dbc10c4f18bf3f16db02a9f73",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1966/leis-ordinarias-358-1966-sapl-1845.md",
+      "sha256": "5ddd4c4dbd344a9dbd14ed9ddb36866b38e014ab8ee73419853070167cdc680c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1966/leis-ordinarias-357-1966-sapl-1844.md",
+      "sha256": "2fe938e796f9cb9470a2cd82ca50d9ea8a1a664f1779e93518cfe3c456784b8a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2019/leis-complementares-772-2019-sapl-4753.md",
+      "sha256": "6758f01cb6ed5fd6e331ed8dec64fc038c12b0cc728df095ac22d797f7842e87",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1966/leis-ordinarias-356-1966-sapl-1843.md",
+      "sha256": "1f48b5964c2f110d3762b8e7b2b5338bed08bd52b090acc94845039d180a3ee2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2019/leis-complementares-771-2019-sapl-4752.md",
+      "sha256": "fc00b718b112271b57cef6e13e562eb32fa602ffc5b89ce0eff707dcdad28d88",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1986/leis-ordinarias-11-1986-sapl-12.md",
+      "sha256": "6ded204ce21960644fd9788c1efe4091bbb1a54df3ad08a3ff3574eb7bbb99fc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-complementares/2023/leis-complementares-100-2023-sapl-4910.md",
+      "sha256": "73fcb099ed009e63d52c17e1a0b38179a15406dfd668b375c15e17b4c28f62aa",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1966/leis-ordinarias-355-1966-sapl-1842.md",
+      "sha256": "1419f577cb18d2c19de36c38f7e111ace80454f9d2d41bbbae3817499acef4dc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2019/leis-complementares-770-2019-sapl-4751.md",
+      "sha256": "11ec45b528ef6da6b2f04e0bcc03526b04b511772e5337241b7e5cee1bc282c9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1966/leis-ordinarias-353-1966-sapl-1841.md",
+      "sha256": "640b15edc61559c7ae6b1b732353be58b50d9cfda14f3c12c85dfaede2c01161",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2619-2019-sapl-4768.md",
+      "sha256": "d598b25969c41148a10f0066a2d3f51abc269cf291572a654993f4f874110ef6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1986/leis-ordinarias-9-1986-sapl-10.md",
+      "sha256": "4e1400e8ce240d2503539de88b3a2e4c0967b47e973b4815bf398cbeb6894590",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1966/leis-ordinarias-352-1966-sapl-1840.md",
+      "sha256": "4a9f61dfd7c73467daa60f02ef096c61efbb3b83ad3d42a222def503496805a6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2618-2019-sapl-4767.md",
+      "sha256": "c756fb7cd93bff96ef519b3bdcaf1c10b3cbb760e77d6ea38f2a9ad4b7cfa12a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5096-2023-sapl-4903.md",
+      "sha256": "afcf2e4788b68dda909e498692d36e008fe664625061fcba56b45d29756526ae",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1966/leis-ordinarias-351-1966-sapl-1839.md",
+      "sha256": "bf85bcc7d253352bddb472239dd01cad9e4363cf0e8d328f2a5b8ecf23694eaf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5095-2023-sapl-4707.md",
+      "sha256": "94db27ffebc8f68820d21aebe8c8415a16e738e6adc88362b3d5e1d8f6263bad",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1966/leis-ordinarias-350-1966-sapl-1838.md",
+      "sha256": "4ca95d94f7395188db2d0ca86505900a119e96e4692b9276b6dd94bacb46b0a3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5094-2023-sapl-4708.md",
+      "sha256": "de6945d87ed0381341154245cf4c9498e8aa596bb79408bd4abf82af309f0a7e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1966/leis-ordinarias-349-1966-sapl-1837.md",
+      "sha256": "b22990ccda5a3827b0d0cfddf01f4c8db5f6956381f7b562a8367f370a6c7271",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1986/leis-ordinarias-6-1986-sapl-7.md",
+      "sha256": "3a91e57b0b252080265efdaf14a88682a8c2c5367aba9e38f2e5ebde443f5b0b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1966/leis-ordinarias-348-1966-sapl-1836.md",
+      "sha256": "afa42bb7c770be979c6557d3656f6470437ab198d374b709159c3297d75cb0b4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1986/leis-ordinarias-5-1986-sapl-5.md",
+      "sha256": "a1b4edc5d00551e55c06d31c7ffe0c6518e2402f641f4a2b8e30d21a4a29799d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5092-2023-sapl-4664.md",
+      "sha256": "e138c34d672ffd4e86ac91a6603b8eab16499a004c2b786d422d40cbb7300c6e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1966/leis-ordinarias-347-1966-sapl-1835.md",
+      "sha256": "fa9c66ff15e2c9ab74e4335b53fd3f837559bfa62377086484f976668776fe5e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1986/leis-ordinarias-4-1986-sapl-4.md",
+      "sha256": "7afc3779b275ae9af8e073f9c1df48cef5a6084473aaa305969be451b2d4bb1b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1966/leis-ordinarias-344-1966-sapl-1832.md",
+      "sha256": "fe8ddc8a18646bcddaea1a33807e2dfcf150b579807b1e7dcd1ecefb5d3b915e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5090-2023-sapl-4697.md",
+      "sha256": "1a076f52e87b05713470d795eb25ca9f5db21966bc9d1171995a831787f08d40",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1966/leis-ordinarias-343-1966-sapl-1831.md",
+      "sha256": "34f0a0d070408961e4f0c0be41309fb9a4d14a8f299f8b5798134bc1f1d649ee",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1966/leis-ordinarias-341-1966-sapl-1829.md",
+      "sha256": "e048e59603fd448b644c569240178b722e7a84c1f8df6cef39585b36d716a9e8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/CE/amontada/leis-ordinarias/1986/leis-ordinarias-1-1986-sapl-1.md",
+      "sha256": "5f7b1fd766045693ba8a9b552e77700944472c927bfa99a559737705d75f5ff6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5088-2023-sapl-4705.md",
+      "sha256": "b0c2759d190bf53acecd6ea08239f4fdf62d79cc8db075b8ef0ad31c90b45a47",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1966/leis-ordinarias-346-1966-sapl-1834.md",
+      "sha256": "378e6b7941d9a9936fea16c72a46d5bb09383fa5a54e6ef99178db058ac63239",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5087-2023-sapl-4701.md",
+      "sha256": "d54984121567a03b0ea0c28663f74f1a2709aef3f71f9da136355fe7df2b4af8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1966/leis-ordinarias-345-1966-sapl-1833.md",
+      "sha256": "69c02da18f56b9523cc88833928ab7e4413f4571875342fc844bf2a14da0d370",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2609-2019-sapl-4657.md",
+      "sha256": "6d329724595494f12f45ea929fb3dbf0844b103c9fd1c440c3d7f52eb0f50414",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5086-2023-sapl-4637.md",
+      "sha256": "7baddf3257d79d13ba8f632aeb2bb8019e62ba2a14df94d95240d9e9bac71430",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1966/leis-ordinarias-342-1966-sapl-1830.md",
+      "sha256": "d573b2cada6d94e4c8e1601dc150f65fc4cbb284969ed6a51c88d48d325c5ac2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2608-2019-sapl-4656.md",
+      "sha256": "13841732ab4a917a601fdb5f9d8ab025ea465a99324734ae66c2770324cbaa4b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1965/leis-ordinarias-340-1965-sapl-2374.md",
+      "sha256": "29cab55143211db08a7dcf4cc97e7706f3ea245c5452a15c7921b978b60a7594",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2607-2019-sapl-4655.md",
+      "sha256": "a51d5ffe75bb94b7b9e4a117922400b96cce7f62e0fee059a40e8ac1b7ed7d96",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5084-2023-sapl-4703.md",
+      "sha256": "03761a84ec3de30ba070ba2e5d6958a34f3937fb956a7a99a24cc4e853677875",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1965/leis-ordinarias-339-1965-sapl-2373.md",
+      "sha256": "9e7ea39619077ed402d3b7acfd46b21b41637eaa435a1977578d0b8b547d0802",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1965/leis-ordinarias-338-1965-sapl-2372.md",
+      "sha256": "fd9a682de248666fa07c027aa09ad29e95dc97de17941be86a10add4feb99694",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5082-2023-sapl-4641.md",
+      "sha256": "4de2adb14e4d72a051878302dae4a8bb6385278c145d5f968b6c0e22a46fec2e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1965/leis-ordinarias-336-1965-sapl-2371.md",
+      "sha256": "b7ab87e6f16245d5824cb1ad927a0188b24c3cf6f280734438a95860e67b47e3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5081-2023-sapl-4646.md",
+      "sha256": "29496c55a7e4ec422a8ea68ab49b3c2b3f3f2c8393b0a970fc51a0f10c31eba9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1965/leis-ordinarias-335-1965-sapl-2370.md",
+      "sha256": "6042a6bcdf2b977989f22a0b6b8561db4209ba0f550e0eb5218e129114baeadd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2019/leis-complementares-768-2019-sapl-4640.md",
+      "sha256": "35cc372f93da2e1e5bf1a0dda48a78cc7a71b21f39739f81dcf4bdda5d2434b0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5080-2023-sapl-4648.md",
+      "sha256": "0494cff0d3dc620b4a3a048762b7f8df6d7152a20c392909afaf5fba23344a2e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1965/leis-ordinarias-334-1965-sapl-2369.md",
+      "sha256": "e5614ae3048fec13ebc1e03fed955913cbdbc41dac02c57eae3ea0bf815cdb60",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5079-2023-sapl-4940.md",
+      "sha256": "a80475b7b39670f8292633a2838ccc1b7bd875136366b5e06c3933c895386dbc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1965/leis-ordinarias-333-1965-sapl-2368.md",
+      "sha256": "3c691f4bf4ba05eb84c1a3b0179686e606a433531644e3241db6ee43ff5d7385",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2019/leis-complementares-766-2019-sapl-4638.md",
+      "sha256": "d06315245c170e0c827f5a834e46e8bab1afa79ec03c5ac2c24fa98554849c9c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5078-2023-sapl-4645.md",
+      "sha256": "6eb6dd59df30d7285f17e01f1525f19c5330ee67c80f16089cf4d8e945c63d0b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1965/leis-ordinarias-332-1965-sapl-2359.md",
+      "sha256": "3397d8a29f30ba3cbb8657652ffa13748fe245ac29abcd475dc1fdb636c98d34",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1965/leis-ordinarias-331-1965-sapl-2358.md",
+      "sha256": "f2735f65962b097c1f13fe1909988700663f67f2043afdb961063eae830726d7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2601-2019-sapl-4649.md",
+      "sha256": "1daba03630937ada3e810e59c5b30032a4bdb73d43d2f71913e1f3eeb83b0492",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5076-2023-sapl-4642.md",
+      "sha256": "9e83e7a267b005b07e34b9635be4b73abde0c5c81c596f61ac187e35316b8f6a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1965/leis-ordinarias-330-1965-sapl-2357.md",
+      "sha256": "d286060cc821259b81b37ce88b2dc6f9b003f5c6dc02d67573d75480f60e68f7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2600-2019-sapl-4648.md",
+      "sha256": "7f8b61da2faf541af4ee9691ff177669bdf3c7e3de0f254c6f7631b6474d537f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5075-2023-sapl-4643.md",
+      "sha256": "238404ea07808a46d3f13653ce3d8235219fe7e8d461efa52219672925b9ef3a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1965/leis-ordinarias-329-1965-sapl-2356.md",
+      "sha256": "627442800d34da1b05fecb7d7c0745baacbb4d5fae9996b62c9d6ec3a70f9c6d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5074-2023-sapl-4629.md",
+      "sha256": "1195cada06150e211fed87b6ca5e9add591f184f50f0beaf28e3d1d81cdcb02f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1965/leis-ordinarias-328-1965-sapl-2355.md",
+      "sha256": "94141834d799facec74ec894aa0353c87d95749b37f474c7d1a0bd4bf8742f06",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5073-2023-sapl-4735.md",
+      "sha256": "137ac015b2af30955c7d66064cafd68d043c4b5d4c5f1cfb5e4b961ddf0e5a89",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1965/leis-ordinarias-327-1965-sapl-2354.md",
+      "sha256": "f16ea393d363e60393fdee3b6919416afa7a33b1e9eab7c9be5a910f5fa2198f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2599-2019-sapl-4647.md",
+      "sha256": "f90857db51dfafc4261dea5a9167c25fc70a5e17b7310baf2f071c782bf4eea8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5072-2023-sapl-4640.md",
+      "sha256": "6ffae2118c55e141bf7394f53ef95c0d2dfaa1b959c5f7fcd20b1bccb7eeda12",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1965/leis-ordinarias-326-1965-sapl-2353.md",
+      "sha256": "e633f907a58add0b610a6f14c48b81eabf0de7d7858b833179da91bccf4a58c2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2596-2019-sapl-4645.md",
+      "sha256": "67071a692e15404bd75770f0b48d015cdffa2c7ee8f430a6214a210a6bb3ef9c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5071-2023-sapl-4639.md",
+      "sha256": "a7a8eccb32e389b772d934adc2395f9b143415a7a39e91eff93efbc1f53ae8fe",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1965/leis-ordinarias-320-1965-sapl-2347.md",
+      "sha256": "ba3c03eee8e7ca48abe1a6ab7d32090b5c5b30d29f3cd1ad98395704aafef4c1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5070-2023-sapl-4638.md",
+      "sha256": "abf6e72f459d092f338f85d814205393d5ea777777f33674c52ef74a97e8b1ae",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1965/leis-ordinarias-325-1965-sapl-2352.md",
+      "sha256": "21c6dd91be5233180963c81f2bac9fedcd09b9b25736f7b8fc8220b709baf36e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2591-2019-sapl-4475.md",
+      "sha256": "c59ec944e7e332e79daa0cc1bf4e37898b263596f3879745b2deb1e573635727",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5069-2023-sapl-4636.md",
+      "sha256": "16d8b16329392fb64174685326e1179a6c6c31aa603dd99ac2d0010d39b989ba",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1965/leis-ordinarias-324-1965-sapl-2351.md",
+      "sha256": "8299fe7452d33fb8fc490388a2c772f62f87c158d64b71d52b0395f83d57380d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5068-2023-sapl-4635.md",
+      "sha256": "839611fd4be1aee95d2c44f2298b5f37ebdc380c5e49729d3b79d1f82934d014",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1965/leis-ordinarias-323-1965-sapl-2350.md",
+      "sha256": "e59cda924b0f6b13fa3f09fa82838828c3eb765d237cc948a672f74e0c47cd0b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5067-2023-sapl-4634.md",
+      "sha256": "33c4704152d9b57744b1a3b0e9b5b58dfdd69a78efbf379a2819f215e86d9fd7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1965/leis-ordinarias-322-1965-sapl-2349.md",
+      "sha256": "2db7cf481fbcda5c51155aff9ef833e4f177a90a6a51d5e96f1aa3552bfcb2f3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/2019/leis-complementares-762-2019-sapl-4634.md",
+      "sha256": "b34f31622d9f559c0b2cd977d877cb4564e1bf693eda6506787921fe8592bc92",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5066-2023-sapl-4632.md",
+      "sha256": "a5bb2a144b590b0069c579b1e9ed866f0075da086499a0cf65c5b16584d3991f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1965/leis-ordinarias-319-1965-sapl-2346.md",
+      "sha256": "cd51813b6918ade636570f3935b0aea3001701d35e1dfd966a4783c61027c1a8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2589-2019-sapl-4473.md",
+      "sha256": "09f6b265603af9cc6f5bb22f4b258e867cf57f4b10810678d262b5444eb321c9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5065-2023-sapl-4631.md",
+      "sha256": "946db8a4a3db21db85b74d4e25ff68517c8d5fed298adfc1d96d07b849e1b5e9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1965/leis-ordinarias-318-1965-sapl-2345.md",
+      "sha256": "d8787adb7308703e20bece086b794228a8255c84a7c974ca9cb6a6398053bea4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2588-2019-sapl-4472.md",
+      "sha256": "4cf325f645a15474f7f566bce613396d35946481e6eb5ca277ab85bd62903e39",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5064-2023-sapl-4630.md",
+      "sha256": "c6440c5e4bab1d88aebad5a1a9b0ee333151ebef5bf016d39e9291e993f54f8b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1965/leis-ordinarias-317-1965-sapl-2344.md",
+      "sha256": "637813b40e5481743d4d8063e768a87aeac99660e05bc3bb10a13cf988d92be2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2587-2019-sapl-4471.md",
+      "sha256": "77207df47b2d72a2ebbfba5029634ed49a2b2188a7c28fde424a98c9510e147a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5063-2023-sapl-4628.md",
+      "sha256": "2db4f433df209b5a0eeb3493092aca8895ee603874432ba4ca464e303be8875d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1964/leis-ordinarias-316-1964-sapl-1828.md",
+      "sha256": "d41501582c793b835ba4d9aa747598b74ab30e6739e42b38967b42591ed42bfb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5062-2023-sapl-4615.md",
+      "sha256": "80cdcfb9e6617e7f72290a26fae7bf80c6eee42000cb206a4ad66fe9ef0da547",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1964/leis-ordinarias-315-1964-sapl-1827.md",
+      "sha256": "646d962877d49c4c0e59f88ad67d65f1169da5fa2293ef8166193c7f80bfe621",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5061-2023-sapl-4618.md",
+      "sha256": "f19dcddd51e8cc3e69e83a1ac15941b7e886bc97b258de6147566e119d6879d1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1964/leis-ordinarias-314-1964-sapl-1826.md",
+      "sha256": "c7a383cd7d17fc8282a1d07adf8d3556c13c690ae83fee86cde2cc499e8159ef",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2586-2019-sapl-4131.md",
+      "sha256": "25bf124400a7b0cd8cdbaba5aafe374a2b283e206136fa858be2d7c651ea210b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1964/leis-ordinarias-313-1964-sapl-1825.md",
+      "sha256": "b7863777e9a763a1c6f14400db6b8ee2f4527c5a18a8922dd43df936f2f90967",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2585-2019-sapl-4130.md",
+      "sha256": "e44ffa3f4e97258814425aa08feed34953fb64988b352b71026279f8e57ac43a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5059-2023-sapl-4619.md",
+      "sha256": "59d58e432c480c5ef2cec2bca0e857b87ed6c7ff55e37f0fccda7289f555784f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1964/leis-ordinarias-312-1964-sapl-1824.md",
+      "sha256": "e0f0d28dd231346ef20f7504a474267f38121c9fc914cd3c5390797c826c978b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2584-2019-sapl-14170.md",
+      "sha256": "81102f28824cfe31ac82c74a7231ffc52fad6a1dde22b1e20d8cd267101f08b4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5058-2023-sapl-4617.md",
+      "sha256": "ebaf5bdfda09012ebbdde4ccfbffa618a4847f443a743ea56579d1ccc971debf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1964/leis-ordinarias-310-1964-sapl-1823.md",
+      "sha256": "bf307cac34a31549e6d519037ab1963c4b4c894e1e9d5c7593cd2b3b23b7a0da",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2583-2019-sapl-4244.md",
+      "sha256": "bc2211967c8467eb514763a3b12d6ff2ad8e7f8857cabd1f0ba96c51df74045d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1964/leis-ordinarias-309-1964-sapl-1822.md",
+      "sha256": "67b04262422870d85788a9a31e93272ac0da0ca138a2ca09de46eb8fe6fb2d5a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/2019/leis-ordinarias-2582-2019-sapl-4243.md",
+      "sha256": "bbed79a66a530bf1a952c7bcdbcde48d37a4f438f932693492f408400512615e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/2023/leis-ordinarias-5057-2023-sapl-4616.md",
+      "sha256": "7911ff3d0b757b56cf9973ac4789beb3533d69a0a27e01471f6ce6cae2ebeaee",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/MG/bicas/leis-ordinarias/1964/leis-ordinarias-308-1964-sapl-1821.md",
+      "sha256": "7f6fda61ba1445ff37dcad948e0c27269cbfa2402eafd143a112c89f89f56b07",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    }
+  ]
+}

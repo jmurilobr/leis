@@ -1,0 +1,191 @@
+---
+titulo: "Lei nº 419, de 03 de junho de 1985"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "419"
+data: "1985-06-03"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/3952"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/763/text"
+sha256_fonte: "00083b1919003199b53221c26cb648e1a577e4fee79d5312fb2b9754b98e19b5"
+sha256_texto: "e9313439e375dbdc6beb8f2898d925e265479c39aff67993d7bb1d647f7814fb"
+capturado_em_fonte: "2026-10-27T22:31:45.295586-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 419, de 03 de junho de 1985
+
+"Autoriza ao Poder Executivo Municipal a Constituição da PORTO VELHO TURISMO S/A - PORTUR e dá outras providencias".
+
+
+O PREFEITO DO MUNICÍPIO DE PORTO VELHO, no uso das atribuições que lhe confere a Constituição do Estado,
+
+FAÇO SABER que a Câmara Municipal de Porto Velho aprovou e eu, sanciono a seguinte
+
+LEI:
+
+
+Art. 1º.
+
+É o Executivo autorizado a constituir uma Sociedade Anônima, de economia mista e capital autorizado sob a denominação de PORTO VELHO TURISMO S/A -PORTUR, com o objetivo de promover o turismo no Município de Porto Velho, ficando a ela atinentes a exploração, administração e prestação de serviços correlatos.
+
+
+Parágrafo único
+
+A PORTO VELHO TURISMO S/A -PORTUR, terá sede no foro da cidade de Porto Velho e funcionará por prazo indeterminado.
+
+
+Art. 2º.
+
+O Capital social autorizado será de CR$. - 100.000.000, (CEM MILHÕES DE CRUZEIROS) divididos em 100.000.000, (Cem Milhões) de ações nominativas no valor de CR$. - 1, (Um Cruzeiro) cada uma.
+
+
+§ 1º
+
+O MUNICÍPIO DE PORTO VELHO subscreverá ações correspondentes a, no mínimo, cinquenta e um por cento (51%) da parcela de capital subscrito inicial a que corresponda direito de voto, conservando a mesma proporção nos futuros lançamentos de ações ou aumento de capital.
+
+
+§ 2º
+
+É ainda o Município autorizado a subscrever todas as ações que não tiverem encontrado sobscritor e a transferir a terceiros as subscritas ou adquiridas alem do mínimo estabelecido no parágrafo anterior, bem como ceder
+
+
+§ 3º
+
+O MUNICÍPIO DE PORTO VELHO integralizará as ações da PORTO VELHO TURISMO S/A - PORTUR que vier a subscrever utilizando os seguintes recursos:
+
+
+a)
+
+bens móveis e imóveis que possuir, relacionados com os objetivos da sociedade;
+
+
+b)
+
+dividendos que o MUNICÍPIO auferir das ações de sua propriedade no capital social da Empresa;
+
+
+c)
+
+dotações provenientes de créditos orçamentários ou adicionais;
+
+
+d)
+
+auxílios ou doações;
+
+
+e)
+
+outros recursos destinados a esse fim.
+
+
+Art. 3º.
+
+A PORTO VELHO TURISMO S/A - PORTUR poderá proceder à abertura de seu capital, nos limites e percentuais fixados pelo Conselho Monetário Nacional somente sobre as ações não pertencentes, direta ou indiretamente, ao Município e sem haver distinções entre os tipos de ações.
+
+
+Art. 4º.
+
+A PORTO VELHO TURISMO S/A - PORTUR caberá o ônus das desapropriações e encampações dos bens e contratos declarados de utilidades pública pelo Executivo, para execução do programa de promoção turística do Município, em conformidade com a legislação vigente no País.
+
+
+Art. 5º.
+
+É o Executivo autorizado a transferir à PORTO VELHO TURISMO S/A - PORTUR a administração e exploração de bens Municipais, quaisquer direitos e ações de que for titular em razão de convênios, contratos ou ajustes, e que tenham por objetivo o custeio do programa de promoção do turismo do Município.
+
+
+Parágrafo único
+
+Os bens Municipais de qualquer natureza poderão ser cedidos em comodato ajustado entre as partes, de modo a assegurar à PORTO VELHO TURISMO S/A - PORTUR o desenvolvimento de seus fins sociais.
+
+
+Art. 6º.
+
+O Município de Porto Velho será representado na Assembléia Geral da PORTO VELHO TURISMO S/A-PORTUR pelo Prefeito Municipal ou por terceiros especialmente designados para esse fim.
+
+
+Art. 7º.
+
+Além do pessoal próprio, que ficará sujeito à legislação trabalhista, o Prefeito Municipal poderá colocar à disposição da PORTO VELHO TURISMO S/A PORTUR para o exercício das funções de direção e chefias' imediatas e intermediarias, funcionários dos quadros do Município.
+
+
+Art. 8º.
+
+Fica o Executivo autorizado a abrir um crédito especial no valor de CR$. 51.000.000, (Cinquenta e Hum Milhões de Cruzeiros), que constituirá a participação inicial do Município na subscrição do capital social da Empresa.
+
+
+Art. 9º.
+
+Servirá de recurso para cobertura da despesa autorizada pelo artigo anterior, excesso de arrecadação do corrente exercício, estimado nos termos do parágrafo 3º, artigo nº 43, da Lei Federal nº. 4320, de 17 de março de 1964.
+
+
+Art. 10.
+
+O Executivo nomeará uma Comissão ' composta de três (03) incorporadores, devendo ela promover e ultimar as providências necessárias à Constituição da PORTO VELHO TURISMO S/A - PORTUR, em ate 60 dias, contados da data de publicação do ato de nomeação de seus membros.
+
+
+Art. 11.
+
+Os estatutos da PORTO VELHO TURISMO S/A - PORTUR observarão em tudo o que for aplicável, a legislação referente às sociedades anônimas, especialmente o Decreto-Lei nº. 2627 e a seção VIII da Lei nº. 4728, de 14 de julho de 1965.
+
+
+Art. 12.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+JOSÉ ALVES VIEIRA GUEDES
+
+Prefeito Municipal
+
+LUCINDO JOSÉ QUINTANS
+
+Secretário Municipal de Planejamento.
+
+HUMBERTO VIANA NONATO
+
+Secretário Municipal da Fazenda.
+
+LUCIVALDO EVANGELISTA DE SOUZA
+
+Secretário Municipal de Administração.
+
+DANIEL SOARES DO NASCIMENTO
+
+Secretário Municipal de Educação e Cultura.
+
+PAULO ROBERTO OTTO BARBOSA
+
+Secretário Municipal de Serv. Públicos.
+
+SILVIO NASCIMENTO GUALBERTO
+
+Secretário Municipal de Saúde.
+
+VIVALDO GARCIA
+
+Secretário Municipal de Obras.
+
+JOSÉ WALDIR ALMEIDA GALVÃO
+
+Secretário Extraordinário p/ Assuntos do Interior
+
+ODAIZA FERNANDES FERREIRA
+
+Secretária Municipal de Assist. e Promoção Social.
+
+JOSÉ FERREIRA DA COSTA
+
+Secretário Extraordinário de Transportes.
+
+ORLANDO RIBEIRO DO NASCIMENTO
+
+Procurador Geral.
+

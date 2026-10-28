@@ -1,0 +1,23 @@
+{
+  "preparado_em": "2026-10-27T20:11:40.889102-03:00",
+  "manifesto": "scripts/estados/manifestos/se-LOA8963-proposta-individual-20261027-001.json",
+  "sha256_manifesto": "a0e929b7e76247db67909f9d1b5d1416f999a7858881f81f542c283bf38dbfa6",
+  "replay": "estaduais/SE/_fonte/auditorias/loa8963-privado-20261027-001/replay.json",
+  "sha256_replay": "b29725007c16496b222a78b38af958bb1dd6ae7d86b5dc742e4f1507d884eaaa",
+  "testes": 42,
+  "passaram": 42,
+  "total_normas_novas": 1,
+  "promovidas": 0,
+  "PDF_bytes": 3831792,
+  "PDF_paginas": 522,
+  "representacao": "PDF original integral local sem transcrição, recorte ou reconversão; elementos vetoriais e imagens intactos",
+  "independencia": "Gate geral continua retendo dúvida de rodapé; proposta individual traz observação literal. Não foi aplicada exceção global.",
+  "dedup": "estaduais/SE/_fonte/auditorias/loa8963-privado-20261027-001/dedup-HEAD/resultado.json",
+  "versoes": {
+    "pypdf": "6.10.0",
+    "pdftotext": "26.10.0",
+    "markdown_it_py": "4.0.0",
+    "tinycss2": "1.5.1",
+    "cssselect2": "0.10.1"
+  }
+}

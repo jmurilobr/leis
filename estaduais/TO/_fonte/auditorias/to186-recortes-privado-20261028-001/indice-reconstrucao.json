@@ -1,0 +1,29 @@
+{
+  "documentos": [
+    {
+      "original": "/Volumes/ExternalSSD/GitHub/constituicao/estaduais/TO/_fonte/auditorias/to186-recortes-privado-20261028-001/preparar-privado.py",
+      "sha256_original": "cf7c13d877a5a41b1af9a6a635dfd9ebd2e719c7143c17da79bbe79a906dcb00",
+      "arquivo_gzip": "estaduais/TO/_fonte/auditorias/to186-recortes-privado-20261028-001/historico-gzip/cf7c13d877a5a41b1af9a6a635dfd9ebd2e719c7143c17da79bbe79a906dcb00.gz",
+      "sha256_gzip": "b465d5093c5a73b18b96b2b847d177715e3c1eb042017a94dcd8cf335ea33ecb"
+    },
+    {
+      "original": "estaduais/TO/_fonte/auditorias/portal-QA-recortes-500-20261028-015/auditar-privado.py",
+      "sha256_original": "c092a02d6dc213927b884efda1a13743237607f0297328fd69d764b19d145b49",
+      "arquivo_gzip": "estaduais/TO/_fonte/auditorias/to186-recortes-privado-20261028-001/historico-gzip/c092a02d6dc213927b884efda1a13743237607f0297328fd69d764b19d145b49.gz",
+      "sha256_gzip": "4bda0ca73bd175fcae8552fa9b4be725ea41899782f88cc8cae241474ef1ac46"
+    },
+    {
+      "original": "estaduais/TO/_fonte/auditorias/recortes-amostra-186-20261028-016/renderizar-privado.py",
+      "sha256_original": "d69038c25a333af4ea78183a684111bf2e6676b19b946ced04b937420297fde6",
+      "arquivo_gzip": "estaduais/TO/_fonte/auditorias/to186-recortes-privado-20261028-001/historico-gzip/d69038c25a333af4ea78183a684111bf2e6676b19b946ced04b937420297fde6.gz",
+      "sha256_gzip": "c47a89b037c1b0a9377c030e3a9a33ac9cae84786658a39f507c75cdbffe5ded"
+    },
+    {
+      "original": "estaduais/TO/_fonte/auditorias/portal-lote-500-20261028-002/capturar-privado.py",
+      "sha256_original": "f51d34175f9a79c87ffbb5eb89805eda175aba305ed88086cb2360bce1565051",
+      "arquivo_gzip": "estaduais/TO/_fonte/auditorias/to186-recortes-privado-20261028-001/historico-gzip/f51d34175f9a79c87ffbb5eb89805eda175aba305ed88086cb2360bce1565051.gz",
+      "sha256_gzip": "5ce7e9a19ec1771530ec88de31a0dd8670795aa9892ce4b8be18cba481d4536b"
+    }
+  ],
+  "limite": "Helpers de captura/preparação são histórico, não código ativo ou comandos a executar sem revisão."
+}

@@ -1,0 +1,83 @@
+---
+titulo: "Lei Ordinária nº 4.347, de 25 de setembro de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4347"
+data: "2014-09-25"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/4260"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/1208/text"
+sha256_fonte: "b7df2b348eb6b089afcf1fb5e460557c61a29d1fdd863cfb1e96f3719e00e381"
+sha256_texto: "a317514ab40f050ceb56d378a4bb3b3821d6dc8d2f86e16e4909e8bf7d121db7"
+capturado_em_fonte: "2026-10-27T17:50:32.709583-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.347, de 25 de setembro de 2014
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI Nº4347, DE 25 DE SETEMBRO DE 2014
+
+
+"Passa designar como Centro Gastronômico de Barra Mansa."
+
+
+Art. 1º.
+
+Fica designado como Centro Gastronômico de Barra Mansa, o trecho das ruas Abdo Felipe, João Valiante e Tenente José Eduardo, entre a Praça das Nações Unidas e o entroncamento antes da Ponte Nilo Peçanha, no bairro Ano Bom.
+
+
+Parágrafo único
+
+Após estudo socioeconômico o Município poderá oferecer incentivos para as firmas já instaladas e para as que desejarem se instalar no Centro Gastronômico no bairro Ano Bom.
+
+
+Art. 2º.
+
+O Município fará manutenção periódica e melhoria de iluminação das ruas que envolvem o Centro Gastronômico de Barra Mansa.
+
+
+Art. 3º.
+
+A coleta de lixo deverá seguir um cronograma a ser informado aos estabelecimentos mensalmente.
+
+
+Art. 4º.
+
+Caçambas de lixo deverão ser distribuídas em quantidades e locais que atenda ao comércio local.
+
+
+Art. 5º.
+
+Manutenção e conservação das calçadas e meio fio, com pintura e limpeza periódica.
+
+
+Art. 6º.
+
+Adequação de ponto de ônibus, estacionamento e área de carga e descarga com as devidas placas de sinalização e pintura do asfalto.
+
+
+Art. 7º.
+
+Apoio da Guarda Municipal no horário de funcionamento do comércio local, incluindo o período noturno.
+
+
+Art. 8º.
+
+Esta Lei entrará em vigor no dia de sua publicação
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 25 DE SETEMBRO 2014.
+
+
+JONASTONIAN MARINS DE AGUIAR  
+PREFEITO
+

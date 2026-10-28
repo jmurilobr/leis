@@ -1,0 +1,965 @@
+---
+titulo: "Lei Ordinária nº 1.347, de 19 de maio de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1347"
+data: "2021-05-19"
+municipio: "Areias"
+uf: "SP"
+codigo_ibge: "3503505"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.areias.sp.leg.br/norma/889"
+fonte_texto: "https://sapl.areias.sp.leg.br/ta/20/text"
+sha256_fonte: "4e5fe5d3536a25bd4a136d5d6d7e0044aa2e399cd63be6c231a90a52233a9972"
+sha256_texto: "d18cf6fae33b5b592b28b5a1a944afbfcf31f66a56012cdb5dd803cb52319f0c"
+capturado_em_fonte: "2026-10-27T16:58:22.315062-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.347, de 19 de maio de 2021
+
+**"DISPÕE SOBRE O SISTEMA ÚNCO DE ASSISTÊNCIA SOCIAL DO MUNICÍPIO DE AREIAS E DÁ OUTRAS PROVIDÊNCIAS."**
+
+
+**PAULO HENRIQUE DE SOUZA COUTINHO**, Prefeito Municipal de Areias, Estado de São Paulo, faz saber que a Câmara Municipal aprovou e ele sancionou a seguinte lei:
+
+#### CAPÍTULO I DAS DEFINIÇÕES E DOS OBJETIVOS
+
+
+Art. 1º.
+
+A Assistência Social, direito do cidadão e dever do Estado, é Politica de Seguridade Socail não contributiva, que provê os minimos sociais, realizada através de um conjunto integrado de ações de iniciativa pública e da sociedade, para garantir o atendimento às necessidades básicas.
+
+
+Art. 2º.
+
+A Política de Assistência Social do Município de Areias tem por objetivos:
+
+I - PROTEÇÃO SOCIAL BÁSICA: que visa à garantia da vida, à redução de danos e à prevenção da incidência de riscos, especialmente:
+
+a) a proteção à família, à matenidade, à infância, à adolescência e à velhice;
+
+b) o amparo às crianças e aos adolescente;
+
+c) a promoção da integração ao mercado de trabalho;
+
+d) a habilitação e reabilitação das pessoas com deficiência e a promoção de sua integração à vida comunitária;
+
+II - VIGILÂNCIA SOCIO ASSISTENCIAL: que visa a analisar territorialmente a capacidade protetiva das famílias e nelas a ocorrência de vulnerabilidades, ameaças, vitimização e danos;
+
+III - DEFESA DE DIREITOS: que visa a garantir o pleno acesso aos direitos no conjunto das provisões socioassistenciais;
+
+IV - PARTICIPAÇÃO POPULAR: por meio de organizações representativas, na formulação das políticas e no controle de ações em todos os níveis;
+
+V - PRIMAZIA da responsabilidade do ente político na condução da Política de Assistência Social em cada esfera de governo;
+
+VI - CENTRALIDADE na família para concepção e implementação dos benefícios, serviços, programas e projetos, tendo como base o território.  
+  
+**Parágrafo Único.** Para o enfrentamento da pobreza, a Assistência Social realiza-se de forma integrada às políticas setoriais visando universalizar a proteção social e atender às contingências sociais, a partir de um sistema integrado de informação.
+
+#### CAPÍTULO II DOS PRINCÍPIOS E DIRETRIZES Seção I DOS PRINCÍPIOS
+
+
+Art. 3º.
+
+A Política Pública de Assistência Social rege-se pelos seguintes princípios:
+
+I - universalidade: todos têm direito à proteção socioassistencial, prestada a quem dela necessitar, com respeito à dignidade e à autonomia do cidadão, sem discriminação de qualquer espécie ou comprovação vexatória da sua condição;
+
+II - gratuidade: a assistência social deve ser prestada sem exigência de contribuição ou contrapartida, observado o que dispõe o art. 35, da Lei Federal n° 10.741, de 10de outubro de 2003 - Estatuto do Idoso;
+
+III - integralidade da proteção social: oferta das provisões em sua completude, por meio de conjunto articulado de serviços, programas, projetos e benefícios socioassistenciais;
+
+IV - intersetorialidade: integração e articulação da rede socioassistencial com as demais políticas e órgãos setoriais de defesa de direitos e Sistema de Justiça;
+
+V - equidade: respeito às diversidades regionais, culturais, socioeconômicas, políticas e territoriais, priorizando aqueles que estiverem em situação de vulnerabilidade e risco pessoal e social.
+
+VI - supremacia do atendimento às necessidades sociais sobre as exigências de rentabilidade econômica;
+
+VII - universalização dos direitos sociais, a fim de tornar o destinatário da ação assistencial alcançável pelas demais políticas públicas;
+
+VIII - respeito à dignidade do cidadão, à sua autonomia e ao seu direito a benefícios e serviços de qualidade, bem como à convivência familiar e comunitária, vedando-se qualquer comprovação vexatória de necessidade;
+
+IX - igualdade de direitos no acesso ao atendimento, sem discriminação de qualquer natureza, garantindo-se equivalência às populações urbanas e rurais;
+
+X - ivulgação ampla dos benefícios, serviços, programas e projetos socioassistenciais, bem como dos recursos oferecidos pelo Poder Público e dos critérios para sua concessão.  
+  
+**Seção II DAS DIRETRIZES**
+
+
+Art. 4º.
+
+A organização da Assistência Social no Município de Areias observará as seguintes diretrizes:
+
+I - primazia da responsabilidade do poder público na condução da política de assistência social;
+
+II - territorialização e comando único do órgão de gestão;
+
+III - matricialidade sociofamiliar;
+
+IV - fortalecimento da relação democrática entre poder público e sociedade civil;
+
+V - articipação popular e controle social, por meio de organizações representativas, na formulação das políticas e no controle das ações em todos os níveis;
+
+VI - capacitação permanente dos trabalhadores e trabalhadoras do SUAS.
+
+#### CAPÍTULO III DA GESTÃO E ORGANIZAÇÃO DO SISTEMA ÚNICO DE ASSISTÊNCIA SOCIAL SUAS - AREIAS/SP. Seção I DA GESTÃO
+
+
+Art. 5º.
+
+A gestão das ações na área de assistência social é organizada sob a forma de sistema descentralizado e participativo, denominado Sistema Único de Assistência Social - SUAS, conforme estabelece a Lei Federal n° 8.742, de 7 de dezembro de 1993, cujas normas gerais e coordenação são de competência da União.
+
+**Parágrafo único**. O Suas é integrado pelos entes federativos, pelos respectivos conselhos de assistência social e pelas instituições e organizações de assistência social abrangida pela Lei Federal n° 8.742, de 1993.
+
+
+Art. 6º.
+
+A Prefeitura Municipal de Areias atuará de forma articulada com as esferas federal e estadual, observadas as normas gerais do SUAS, cabendo-lhe coordenar e executar os serviços, programas, projetos, benefícios socioassistenciais em seu âmbito.
+
+
+Art. 7º.
+
+O Órgão Gestor da Política de Assistência Social no Município de Areias é a Secretaria Municipal de Assistência Social, e contemplará as áreas essenciais do Sistema Único de Assistência Social: Proteção Social Básica, Proteção Social Especial, Gestão do SUAS: Gestão do Trabalho, Regulamentação do SUAS, Vigilância Socioassistencial, Gestão Financeira e Orçamentária e Gestão de Benefícios Eventuais.  
+  
+**Seção II DA ORGANIZAÇÃO**
+
+
+Art. 8º.
+
+O Sistema Único de Assistência Social no âmbito do Município de Areias organiza-se pelos seguintes tipos de proteção:
+
+I - - Proteção Social Básica: conjunto de serviços, programas, projetos e benefícios da assistência social que visa a prevenir situações de vulnerabilidade e risco social, por meio de aquisições e do desenvolvimento de potencialidades e do fortalecimento de vínculos familiares e comunitários;
+
+II - Proteção Social Especial: conjunto de serviços, programas e projetos que tem por objetivo contribuir para a reconstrução de vínculos familiares e comunitários, a defesa de direito, o fortalecimento das potencialidades e aquisições e a proteção de famílias e indivíduos para o enfrentamento das situações de violação de direitos.
+
+
+Art. 9º.
+
+A proteção social básica compõem-se precipuamente dos seguintes serviços socioassistenciais, nos termos da Tipificação Nacional dos Serviços Socioassistenciais, sem prejuízo de outros que vierem a ser instituídos:
+
+I - Serviço de Proteção e Atendimento Integral à Família - PAIF;
+
+II - Serviço de Convivência e Fortalecimento de Vínculos - SCFV;
+
+**Parágrafo único.** O PAIF deve ser ofertado exclusivamente no Centro de Referência de Assistência Social - CRAS.
+
+
+Art. 10.
+
+A proteção social especial ofertará precipuamente os seguintes serviços socioassistenciais, nos termos da Tipificação Nacional dos Serviços Socioassistenciais, sem prejuízo de outros que vierem a ser instituídos:
+
+a) Serviço, e atendimento de Proteção e Atendimento Especializado as Famílias e Indivíduos - PAIF;
+
+b) Serviço de Proteção Social a Adolescentes em Cumprimento de Medida Socioeducativa de Liberdade Assistida e de Prestação de Serviços à Comunidade;
+
+c) Serviço de Proteção Social Especial para Pessoas com Deficiência, Idosas e suas Famílias;
+
+d) Serviço de Acolhimento Institucional;
+
+e) Serviço de Proteção em Situações de Calamidades Públicas e de Emergências.
+
+
+Art. 11.
+
+Os serviços de proteção básica e especial serão ofertadas pela rede socioassistencial, de forma integrada, diretamente pelos equipamentos públicos ou por Organizações da Sociedade Civil vinculadas ao SUAS, respeitadas as especificidades de cada serviço, programa ou projeto socioassistencial, nos termos do Marco Regulatório da Sociedade Civil;
+
+**§1°** - Considera-se rede socioassistencial o conjunto integrado da oferta de serviços, programas, projetos e benefícios de assistência social mediante a articulação entre todas as unidades do SUAS.
+
+**§2°** - A vinculação ao Suas é o reconhecimento pela União, em colaboração com o Município, de que a entidade de assistência social integra a rede socioassistencial.
+
+
+Art. 12.
+
+A unidade pública estatal instituída no âmbito do SUAS que integra a estrutura administrativa do Município de Areias, entre outras ue possam ser constituídas, é o
+
+I - CRAS: unidade pública municipal, de base territorial, localizada em áreas com maiores índices de vulnerabilidade e risco social, destinada à articulação dos serviços socioassistenciais no seu território de abrangência e à prestação de serviços, programas e projetos socioassistenciais de proteção social básica às famílias.  
+  
+**Parágrafo Único:** O CRAS no âmbito do Suas, possui interface com as demais políticas públicas, articulando, coordenando e ofertando serviços, programas, projetos e benefícios da assistência social.
+
+
+Art. 13.
+
+A implantação do CRAS deve observar as diretrizes da:
+
+I - territorialização - oferta capilar de serviços baseada na lógica da proximidade do cotidiano de vida do cidadão e com o intuito de desenvolver seu caráter preventivo e educativo nos territórios de maior vulnerabilidade e risco social;
+
+II - universalização - a fim de que a proteção social básica seja prestada na totalidade dos territórios do município;
+
+III- regionalização - prestação de serviços socioassistenciais de proteção social especial cujos custos ou ausência de demanda municipal justifiquem rede regional e desconcentrada de serviços no âmbito do Estado.  
+  
+Parágrafo Único. As instalações das unidades públicas estatais devem ser compatíveis com os serviços neles ofertados, com espaços específicos para recepção, acolhida e atendimento reservado das famílias, indivíduos e grupos, cia a acessibilidade às pessoas idosas e com deficiência.
+
+
+Art. 14.
+
+As ofertas socioassistenciais nas unidades públicas pressupõem a constituição de equipe de referência na forma das Resoluções n° 269, de 13 de dezembro de 2006; n° 17, de 20 de junho de 2011; e n° 9, de 25 de abril de 2014, do CNAS.
+
+**Parágrafo único.** O diagnóstico socioterritorial e os dados de Vigilância Socioassistencial são fundamentais para a definição da forma de oferta da proteção social básica e especial.
+
+
+Art. 15.
+
+São seguranças afiançadas pelo SUAS:
+
+I - provida por meio da oferta pública de espaços e serviços para a realização da proteção social básica e especial, devendo as instalações físicas e a ação profissional conter:
+
+a) condições de recepção;
+
+b) escuta profissional qualificada;
+
+c) informação;
+
+d) refereência;
+
+e) concessão de beneficios;
+
+f) aquisições materiais e sociais;
+
+g) abordagem em territórios de incidências de situações de risco;
+
+h) oferta de uma rede de serviços e de locais de permanência de indivíduos e famílias sob curta, média e longa permanência.
+
+II - renda: operada por meio da concessão de auxílios financeiros e da concessão de benefícios continuados, nos termos da lei, para cidadãos não incluídos no sistema contributivo de proteção social, que apresentem vulnerabilidades decorre, antes do ciclo de vida e/ou incapacidade para a vida independente e para o trabalho;
+
+III - convívio ou vivência familiar, comunitária e social: exige a oferta pública de rede continuada de serviços que garantam oportunidades e ação profissional para:
+
+a) a construção, restauração e o fortalecimento de laços de pertencimento, de natureza geracional, intergeracional, familiar, de vizinhança e interesses comuns e societárias;
+
+b) o exercício capacitador e qualificador de vínculos sociais e de projetos pessoais e sociais de vida em sociedade.
+
+IV - desenvolvimento de autonomia: exige ações profissionais e sociais para:
+
+a) o desenvolvimento de capacidades e habilidades para o exercício da participação social e cidadania;
+
+b) conquista de maior grau de liberdade, respeito à dignidade humana, protagonismo e certeza de proteção social para o cidadão, a família e a sociedade;
+
+c) conquista de maior grau de independência pessoal e qualidade, nos laços sociais, para os cidadãos sob contingências e vicissitudes.
+
+V - apoio e auxílio: quando sob riscos circunstanciais, exige a oferta de auxílios em bens materiais e em pecúnia, em caráter transitório, denominados de benefícios eventuais para as famílias, seus membros e indivíduos.  
+  
+**Seção III DAS RESPONSABILIDADES**
+
+
+Art. 16.
+
+Compete ao Município de Areias por meio da Secretaria Municipal de Assistência Social:
+
+I - destinar recursos financeiros para custeio dos benefícios eventuais de que trata o art.22, da Lei Federal n° 8742, de 1993, mediante regulamentação com critérios estabelecidos pelo Conselho Municipal de Assistência Social;
+
+II - proceder a concessão e o pagamento dos benefícios eventuais conforme regulamentação;
+
+III - desenvolver programas de enfrentamento da pobreza, incluindo parcerias com organizações da sociedade civil nos termos do Marco Regulatário da Sociedade Civil;
+
+IV - atender às demandas socioassistenciais de caráter de emergência;
+
+V - prestar os serviços socioassistenciais de que trata o art. 23, da Lei Federal n° 8742, de 7 de Dezembro de 1993, e a Tipificação Nacional dos Serviços Socioassistenciais;
+
+VI - implantar:
+
+a) a vigilância socioassistencial no âmbito municipal, visando ao planejamento e à oferta qualificada de serviços, benefícios, programas e projetos socioassistenciais;
+
+b) sistema de informação, acompanhamento, monitoramento e avaliação para promover o aprimoramento, qualificação e integração contínuos dos serviços da rede socioassistencial, conforme Pacto de Aprimoramento do SUAS e Plano de Assistência Social;
+
+VII - regulamentar:
+
+a) e coordenar a formulação e a implementação da Política Municipal de Assistência Social, em consonância com a Política Nacional de Assistência Social e com a Política Estadual de Assistência Social, observando as deliberações das conferências nacional, estadual e municipal de assistência social e as deliberações em Resoluções do Conselho Municipal de Assistência Social;
+
+b) a Política Municipal de Educação Permanente dos profissionais do SUAS;
+
+c) os Benefícios Eventuais em consonância com as deliberações do Conselho Municipal de Assistência Social;
+
+d) o Sistema de Monitoramento, Acompanhamento e Avaliação do SUAS Municipal, e
+
+e) a Vigilância Socioassistencial.
+
+VIII - cofinanciar:
+
+a) o aprimoramento da gestão e dos serviços, programas e projetos de assistência social, em âmbito local;
+
+b) em conjunto com a esfera federal e estadual, a Política Nacional de Educação Permanente, com base nos princípios da Norma Operacional Básica de Recursos Humanos do SUAS - NOB-RH/SUAS, coordenando-a e executando-a em seu âmbito.
+
+IX - realizar:
+
+a) o monitoramento e a avaliação da política de assistência social em seu âmbito;
+
+b) a gestão local do Benefício de Prestação Continuada - BPC, garantindo aos seus beneficiários e famílias o acesso aos serviços, programas e projetos da rede socioassistencial;
+
+c) em conjunto com o Conselho Municipal de Assistência Social, as Audiências Públicas e Conferências de Assistência Social;
+
+X - gerir:
+
+a) de forma integrada, os serviços, benefícios e programas de transferência de renda de sua competência;
+
+b) o Fundo Municipal de Assistência Social;
+
+c) no âmbito municipal, o Cadastro Único para Programas Sociais do Governo Federal e o Programa Bolsa Família, nos termos do §1° do art. 8° da Lei n° 10.836, de 2004;
+
+XI - organizar:
+
+a) a oferta de serviços de forma territorializada, em áreas de maior vulnerabilidade e risco, de acordo com o diagnóstico socioterritorial;
+
+b) e monitorar a rede de serviços da proteção social básica e espacial, articulando as ofertas;
+
+c) e coordenar o SUAS em seu âmbito, observando as deliberações e pactuações de suas respectivas instãncias, normatizando e regulando a política de assistência social em seu âmbito em consonância em as normas gerais da União.
+
+XII - elaborar:
+
+a) a proposta orçamentária da assistência social no Município, assegurando recursos do tesouro municipal e submeter ao Conselho Municipal de Assistência Social, anualmente, a proposta orçamentária dos recursos do Fundo Municipal de Assistência Social - FMAS;
+
+b) o plano de providências, no caso de pendências e irregularidades do Município junto ao SUAS, aprovado pelo CMAS:
+
+c) e executar o Pacto de Aprimoramento do SUAS, implementando o em âmbito municipal;
+
+d) e executar a política de recursos humanos, de acordo com a NOB/RH - SUAS;
+
+e) Plano Municipal de Assistência Social, a partir das responsabilidades previstas no pacto de aprimoramento da gestão do SUAS e na qualificação dos serviços, conforme patamares e diretrizes pactuadas nas instância e negociação do SUAS;
+
+f) e expedir os atos normativos necessários à gestão do FMAS, de acordo com as diretrizes estabelecidas pelo conselho municipal de assistência social;
+
+XIII - aprimorar os equipamentos e serviços socioassistenciais, observando os indicadores de monitoramento e avaliação pactuados:
+
+XIV - alimentar e manter atualizado:
+
+a) o Censo SUAS;
+
+b) o Sistema de Cadastro Nacional de Entidade de Assistência Social - SCNEAS de que trata o inciso XI do art. 19 da Lei Federal n° 8.742, de 1993;
+
+XV - garantir:
+
+a) a infraestrutura necessária ao funcionamento do respectivo conselho municipal de assistência social, garantindo recursos materiais, humanos e financeiros, inclusive com despesas referentes a passagens, traslados e diárias de conselheiros representantes do governo e da sociedade civil, quando estiverem no exercício de suas atribuições;
+
+b) que a elaboração da peça orçamentária esteja de acordo com o Plano Plurianual, o Plano de Assistência Social e dos compromissos assumidos no Pacto de Aprimoramento do SUAS;
+
+c) a integralidade da proteção socioassistencial à população, primando pela qualificação dos serviços do SUAS, exercendo essa responsabilidade de forma compartilhada entre a União, Estados, Distrito Federal e Municípios;
+
+d) a capacitação para gestores, trabalhadores, dirigentes de entidades e organizações, usuários e conselheiros de assistência social, além de desenvolver, participar e apoiar a realização de estudos, pesquisas e diagnósticos relacionados à política de assistência social, em especial para fundamentar a análise de situações de vulnerabilidade e risco dos territórios e o equacionamento da oferta de serviços em conformidade com a tipificação nacional;
+
+e) o comando único das ações do SUAS pelo órgão gestor da política de assistência social, conforme preconiza a LOAS;
+
+XVI -definir:
+
+a) os fluxos de referência e contrarreferência do atendimento nos serviços socioassistenciais, com respeito às diversidades em todas as suas formas;
+
+b) os indicadores necessários ao processo de acompanhamento, monitoramento e avaliação, observado a suas competências.
+
+XVII - implementar:
+
+a) protocolos pactuados na CIT;  
+B) a gestão do trabalho e a eduação permanete;
+
+c) a vigilância socioassistencial;
+
+d) a gestão dos benefícios, serviços, programas e projetos da proteção especial.
+
+XVIII - promover:
+
+a) a integração da política municipal de assistência social com outros sistemas públicos que fazem interface com o SUAS;
+
+b) articulação intersetorial do SUAS com as demais políticas públicas e Sistema de Garantia de Direitos e Sistema de Justiça;
+
+c) a participação da sociedade, especialmente dos usuários, na elaboração da política de assistência social;
+
+XIX - assumir as atribuições, no que lhe couber, no processo de municipalização dos serviços de proteção social básica;
+
+XX - participar dos mecanismos formais de cooperação intergovernamental que viabilizem técnica e financeiramente os serviços de referência regional, definindo as competências na gestão e no cofinanciamento, a serem pactuadas na CIB;
+
+XXI - prestar informações que subsidiem o acompanhamento estadual e federal da gestão municipal;
+
+XXII - assessorar as organizações da sociedade civil visando à adequação dos seus serviços, programas, projetos e benefícios socioassistenciais às normas do SUAS, viabilizando estratégias e mecanismos de organização para aferir o pertencimento à rede socioassistencial, em âmbito local, de serviços, programas, projetos e benefícios socioassistenciais ofertados pelas entidades de assistência social e acordo com as normativas federais.
+
+XXIII - acompanhar a execução de parcerias firmadas entre o município e as organizações da sociedade civil de assistência social nos termos da Lei 13019/2014- Marco Regulatório da Sociedade Civil;
+
+XXIV - normatizar, em âmbito local, o financiamento integral dos serviços, programas projetos e benefícios de assistência social ofertados pelas entidades vinculadas ao SUAS, conforme §3° do art. 6° B da Lei Federal n° 8.742, de 1993, e sua regulamentação em âmbito federal.
+
+XXVI - aferir os padrões de qualidade de atendimento, a partir dos indicadores de acompanhamento definidos pelo respectivo conselho municipal de assistência social para a qualificação dos serviços e benefícios em consonância com as normas gerais;
+
+XXVII - encaminhar para apreciação do conselho municipal de assistência social os relatórios trimestrais e anuais de atividades e de execução físico-financeira a título de prestação de contas;
+
+XXVIII - compor as instâncias de pactuação e negociação do SUAS;
+
+XXIX - estimular a mobilização e organização dos usuários e trabalhadores do SUAS para a participação nas instâncias de controle social da política de assistência social;
+
+XXX - instituir o planejamento contínuo e participativo no âmbito da política de assistência social;
+
+XXXI - dar publicidade ao dispêndio dos recursos públicos destinados à assistência social;
+
+XXXII - criar ouvidoria do SUAS, preferencialmente com profissionais do quadro efetivo;  
+  
+**Seção IV DO PLANO MUNICIPAL DE ASSISTÊNCIA SOCIAL**
+
+
+Art. 17.
+
+O Plano Municipal de Assistência Social é um instrumento de planejamento estratégico que contempla propostas para execução e o monitoramento da Política de Assistência Social no âmbito do Município de Areias.
+
+**§1°** - A elaboração do Plano Municipal de Assistência Social dar-se a cada 4 (quatro) anos, coincidindo com a elaboração do Plano Plurianual e contemplará:
+
+I - diagnóstico socioterritorial;
+
+II - objetivos gerais e específicos;
+
+III - diretrizes e prioridades deliberadas;
+
+IV - ações estratégias para implmentação;
+
+V - metas estabelecidas;
+
+VI - resultados e impactos esperados;
+
+VII -recursos materias, humanos e financeiro disponíveis e necessários;
+
+VIII - mecanismos fontes de financiamento;
+
+IV - indicadores de monitoramento e avaliação; e
+
+X - tempo de execução.
+
+**§2°** - O Plano Municipal de Assistência Social além do estabelecido no parágrafo anterior deverá observar:
+
+I - as deliberações das conferências de assistência social;
+
+II - metas nacionais e estaduais pactuadas que expressam o compromisso para o aprimoramento do SUAS;
+
+III - ações articuladas e intersetoriais;
+
+#### CAPÍTULO IV Das Instâncias de Articulação, Pactuação e Deliberação do SUAS Seção I DO CONSELHO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+
+Art. 18.
+
+Fica instituído o Conselho Municipal de Assistência Social - CMAS do Município de Areias instância superior de deliberação colegiada, de caráter permanente e composição paritária entre governo e sociedade civil, vinculado à Secretaria Municipal de Assistência Social cujos membros, nomeados pelo Prefeito, têm mandato de 2 (dois) anos, permitida única recondução por igual período.
+
+**§ 1°** - O CMAS é composto por 08 membros e respectivos suplentes indicados de acordo com os critérios seguintes:
+
+I - 04 representantes governamentais: indicados das pastas de Assistência Social, Educação, Saúde e Finanças.
+
+II - 4 representantes da sociedade civil, escolhidos em foro próprio sob fiscalização do Ministério Público, sendo dois representantes dos usuários da assistência social, dois da proteção básica e um da proteção especial, e um de organizações da sociedade civil na área de assistência social.
+
+**§2°** - O CMAS é presidido por um de seus integrantes, preferencialmente da sociedade civil, eleito dentre seus membros, para mandato de 1 (um) ano, permitida única recondução por igual período.
+
+**§ 3°** - CMAS contará com uma Secretaria Executiva, a qual terá sua estrutura disciplinada em ato do Poder Executivo, devendo fazer parte do quadro de servidores municipais de nível superior em área afins.
+
+
+Art. 19.
+
+O CMAS reunir-se-á ordinariamente uma vez ao mês e, extraordinariamente, sempre que necessário cujas reuniões devem ser abertas ao público, com pauta e datas previamente divulgadas, e funcionará de acordo com o Regimento Interno.
+
+**Parágrafo único.** O Regimento Interno definirá, também, o quárum mínimo para o caráter deliberativo das reuniões do Plenário, para as questões de suplência e perda de mandato por faltas.
+
+
+Art. 20.
+
+A participação dos conselheiros no CMAS é de interesse público e relevante valor social e não será remunerada.
+
+
+Art. 21.
+
+O controle social do SUAS no Município efetiva-se por intermédio do Conselho Municipal de Assistência Social -CMAS, das Conferências Municipais de Assistência Social, além de outros fóruns de discussão da sociedade civil.
+
+
+Art. 22.
+
+Compete ao Conselho Municipal de Assistência Social:
+
+I - elaborar, aprovar e publicar seu regimento interno;
+
+II - convocar as Conferências Municipais de Assistência Social e amcompanhar a execução de suas deliberações;
+
+III - realizar, no mínimo uma Audiência Pública por ano, para apresentação da rede e dos Planos, Programas e Projetos desenvolvidos;
+
+IV - aprovar a Política Municipal de Assistência Social , em consonância com as diretrizez das confêrencias de assistência social;
+
+V - apreciar e aprovar a proposta orçamentária, em consonância com as diretrizes das conferências municipais e da Política Municipal de Assistência Social;
+
+VI - aprovar o Plano Municipal de Assistência Social, apresentado pelo órgão gestor da assistência social;
+
+VII - aprovar o plano de capacitação, elaborado pelo órgão gestor;
+
+VIII - acompanhar o cumprimento das metas nacionais, estaduais e municipais do Pacto de Aprimoramento da Gestão do SUAS;
+
+IX - acompanhar, avaliar e fiscalizar a gestão do Programa Bolsa Família-PBF;
+
+X - normatizar as ações e regular a prestação de serviços de natureza pública e privada no campo da assistência social de âmbito local;
+
+XI - apreciar e aprovar informações da Secretaria Municipal de Assistência Social inseridas nos sistemas nacionais e estaduais de informação referentes ao planejamento do uso dos recursos de cofinanciamento e a prestação de contas;
+
+XII - apreciar os dados e informações inseridas pela Secretaria Municipal de Assistência Social, unidades públicas e privadas da assistência social, nos sistemas nacionais e estaduais de coleta de dados e informações;
+
+XIII - alimentar os sistemas nacionais e estaduais de coleta de dados e informações sobre o Conselho Municipal de Assistência Social;
+
+XIV - zelar pela efetivação do SUAS no Município;
+
+XV - zelar pela efetivação da participação da população na formulação da política e no controle da implementação;
+
+XVI - deliberar sobre as prioridades e metas de desenvolvimento do SUAS em seu âmbito de competência;
+
+XVII - estabelecer critérios e prazos para concessão dos benefícios eventuais;
+
+XVIII - apreciar e aprovar a proposta orçamentária da assistência social a ser encaminhada pela Secretaria Municipal de Assistência Social em consonância com a Política Municipal de Assistência Social;
+
+XIX - acompanhar, avaliar e fiscalizar a gestão dos recursos, bem como os ganhos sociais e o desempenho dos serviços, programas, projetos e benefícios socioassistenciais do SUAS;
+
+XX - fiscalizar a gestão e execução dos recursos do índice de Gestão Descentralizada do Programa Bolsa Família - IGD - PBF, e do índice de Gestão Descentralizada do Sistema Único de Assistência Social - IGD - SUAS;
+
+XXI - planejar e deliberar sobre a aplicação dos recursos IGD-PBF e IGD-SUAS destinados à atividades de apoio técnico e operacional ao CMAS;
+
+XXII - participar da elaboração do Plano Plurianual, da Lei de Diretrizes Orçamentárias e da Lei Orçamentária Anual no que se refere à assistência social, bem como do planejamento e da aplicação dos recursos destinados às ações de assistência social, tanto dos recursos próprios quanto dos oriundos do Estado e da União, alocados FMAS;
+
+XXIII - aprovar o aceite da expansão dos serviços, programas e projetos socioassistenciais, objetos de cofinanciamento;
+
+XXIV - orientar e fiscalizar o FMAS;
+
+XXV - divulgar, no Diário Oficial Municipal, ou em outro meio de comunicação, seu plano de trabalho anual, todas as suas decisões na forma de Resoluções, bem como as deliberações acerca da execução orçamentária e financeira do FMAS e os respectivos pareceres emitidos.
+
+XXV - receber, apurar e dar o devido prosseguimento a denuncias;
+
+XXVI - deliberar sobre as prioridades e metas de desenvolvimento do SUAS no âmbito do município;
+
+XXVII - estabelecer articulação permanente com os demais conselhos de políticas públicas setoriais e conselhos de direitos.
+
+XXVIII - realizar a inscrição das entidades e organização de assistência social;
+
+XXIX - notificar fundamentadamente a entidade ou organização de assistência social no caso de indeferimento do requerimento de inscrição;
+
+XXX - fiscalizar as entidades e organizações de assistência social;
+
+XXXI - emitir resolução quanto às suas deliberações;
+
+XXXII - registrar em ata as reuniões e dar publicidade;
+
+XXXIII- instituir comissões e convidar especialistas sempre que se fizerem necessários;
+
+XXXIV - zelar pela boa e regular execução dos recursos repassados pelo FMAS executados direta ou indiretamente, inclusive no que tange à prestação de contas;
+
+XXXV- avaliar e elaborar parecer sobre a prestação de contas dos recursos repassados ao Município.
+
+
+Art. 23.
+
+O CMAS deverá planejar suas ações de forma a garantir a consecução das suas atribuições e o exercício do controle social, primando pela efetividade e transparência das suas atividades.
+
+**§1°** O planejamento das ações do conselho deve orientar a construção do orçamento da gestão da assistência social para o apoio financeiro e técnico às funções do Conselho.
+
+**§2°** O CMAS utilizará de ferramenta informatizada para o planejamento das atividades do conselho, contendo as atividades, metas, cronograma de execução e prazos a fim de possibilitar a publicidade.  
+  
+**Seção II DA CONFERÊNCIA MUNICIPAL DE ASSISTÊNCIA SOCIAL**
+
+
+Art. 24.
+
+As Conferências Municipais de Assistência Social são instâncias periódicas de debate, de formulação e de avaliação da política pública de assistência social e definição de diretrizes para o aprimoramento do SUAS, com a participação de representantes do governo e da sociedade civil.
+
+
+Art. 25.
+
+As conferências municipais devem observar as seguintes diretrizes:
+
+I - divulgação ampla e prévia do documento convocatório, especificando objetivos, prazos, responsáveis, fonte de recursos e comissão organizadora;
+
+II - garantia da diversidade dos sujeitos participantes;
+
+III - estabelecimento de critérios e procedimentos para a designação dos
+
+delegados governamentais e para a escolha dos delegados da sociedade civil;
+
+IV - publicidade de seus resultados;
+
+V - determinação do modelo de acompanhamento de suas deliberações; e
+
+VI - articulação com a conferência estadual e nacional de assistência social.
+
+
+Art. 26.
+
+A Conferência Municipal de Assistência Social será convocada ordinariamente a cada quatro anos pelo Conselho Municipal de Assistência Social e extraordinariamente, a cada 2 (dois) anos, conforme deliberação da maioria dos membros dos respectivos conselhos.  
+  
+**Seção III DA AUDIÊNCIA PÚBLICA MUNICIPAL DE ASSISTÊNCIA SOCIAL**
+
+
+Art. 27.
+
+O Conselho de Assistência Social deverá promover, pelo menos, uma audiência pública anual com as entidades ou organizações de Assistência Social inscritas, bem como as que ofertam serviços, programas, projetos e benefícios socioassistenciais com o objetivo de efetivar a apresentação destas à comunidade, permitindo a troca de experiências e ressaltando a atuação na rede socioassistencial e o fortalecimento do SUAS.
+
+
+Art. 28.
+
+Conselho Municipal de Assistência Social tem entre outras funções a de acompanhar e fiscalizar a prestação dos serviços, projetos, programas e benefícios socioassitencias conforme estabelece a Tipificação Nacional, além de propor políticas públicas de âmbito municipal que minimizem os impactos causados por situações de vulnerabilidade social, o CMAS Areias estará realizando anualmente, no mínimo uma Audiência Pública para escuta da população sobre a execução da Política de Assistência Social.
+
+
+Art. 29.
+
+As Audiências seguirão protocolo a ser seguido de publicação do Edital de Convocação, ampla divulgação em espaços públicos e mídias local/regional, registro em Ata e encaminhamento de propostas.
+
+
+Art. 30.
+
+O Conselho Municipal de Assistência Social contará com apoio da Gestão Pública para realização das Audiências no que se refere a garantia de espaço público com acessibilidade, segundo as normas vigentes e os recursos materiais e humanos necessários.  
+  
+**Parágrafo Único:** A Ata e demais registros relativos a realização das Audiências serão amplamente divulgados.  
+  
+**Seção IV DA PARTICIPAÇÃO DOS USUÁRIOS**
+
+
+Art. 31.
+
+É condição fundamental para viabilizar o exercício do controle social e garantir os direitos socioassistenciais o estímulo à participação e ao protagonismo dos usuários nos conselhos e conferências de assistência social.
+
+
+Art. 32.
+
+O estimulo à participação dos usuários pode se dar a partir de articulação com movimentos sociais e populares e ainda a organização de diversos espaços tais como: fórum de debate, comissão de bairro, coletivo de usuários junto aos serviços, programas, projetos e benefícios socioassistenciais.
+
+#### CAPÍTULO V DOS BENEFÍCIOS EVENTUAIS, DOS SERVIÇOS, DOS PROGRAMAS DE ASSISTÊNCIA SOCIAL E DOS PROJETOS DE ENFRENTAMENTO DA POBREZA. Seção I DOS BENEFÍCIOS EVENTUAIS
+
+
+Art. 33.
+
+Benefícios eventuais são provisões suplementares e provisórias prestadas aos indivíduos e às famílias em virtude de nascimento, morte, situações de vulnerabilidade temporária e calamidade pública, na forma prevista na Lei federal n° 8.742, de 1993.  
+  
+**Parágrafo Único.** Não se incluem na modalidade de benefícios eventuais da assistência social as provisões relativas a programas, projetos, serviços e benefícios vinculados ao campo da saúde, da educação, da integração nacional, da habitação, da segurança alimentar e das demais políticas públicas setoriais.
+
+
+Art. 34.
+
+Os benefícios eventuais integram organicamente as garantias do SUAS, devendo sua prestação observar:
+
+I - não subordinação a contribuições prévias e vinculação a quaisquer contrapartidas;
+
+II - desvinculação de comprovações complexas e vexatórias, que estigmatizam os beneficiários;
+
+III - garantia de qualidade e prontidão na concessão dos benefícios;
+
+IV - garantia de igualdade de condições no acesso às informações e à fruição dos benefícios eventuais;
+
+V - ampla divulgação dos critérios para a sua concessão;
+
+VI- integração da oferta com os serviços socioassistenciais.
+
+
+Art. 35.
+
+Os benefícios eventuais podem ser prestados na forma de pecúnia, bens de consumo ou prestação de serviços.
+
+
+Art. 36.
+
+O público alvo para acesso aos benefícios eventuais deverá ser identificado pelo Município a partir de estudos da realidade social e diagnóstico elaborado com uso de informações disponibilizadas pela Vigilância Socioassistencial, com vistas a orientar o planejamento da oferta.  
+  
+**Seção II DA PRESTAÇÃO DE BENEFÍCIOS EVENTUAIS**
+
+
+Art. 37.
+
+Os benefícios eventuais devem ser prestados em virtude de nascimento, morte, vulnerabilidade temporária e calamidade pública, observadas as contingências de riscos, perdas e danos a que estão sujeitos os indivíduos e famílias.
+
+**Parágrafo único**. Os critérios e prazos para prestação dos benefícios eventuais devem ser estabelecidos por meio de Resolução do Conselho Municipal de Assistência Social, conforme prevê o art. 22, §1°, da Lei Federal n° 8.742, de 1993.
+
+
+Art. 38.
+
+O Benefício prestado em virtude de nascimento deverá ser concedido:
+
+I - à genitora que comprove residir no Município;
+
+II - à família do nascituro, caso a mãe esteja impossibilitada de requerer o benefício ou tenha falecido;
+
+III - à genitora ou família que esteja em trânsito no município e seja potencial usuária da assistência social;
+
+IV - à genitora atendida ou acolhida em unidade de referência do SUAS.  
+  
+**Parágrafo Único.** O benefício eventual por situação de nascimento poderá ser concedido nas formas de pecúnia ou bens de consumo, ou em ambas as formas, conforme a necessidade do requerente e disponibilidade da administração pública.
+
+
+Art. 39.
+
+O benefício prestado em virtude de morte deverá ser concedido com o objetivo de reduzir vulnerabilidades provocadas por morte de membro da família e tem por objetivo atender as necessidades urgentes da família para enfrentar vulnerabilidades advindas da morte de um de seus provedores ou membros.  
+  
+**Parágrafo Único.** O benefício eventual por morte poderá ser concedido conforme a necessidade do requerente e o que indicar o trabalho social com a família.
+
+
+Art. 40.
+
+O benefício prestado em virtude de vulnerabilidade temporária será destinado à família ou ao indivíduo visando minimizar situações de riscos, perdas e danos, decorrentes de contingências sociais, e deve integrar-se à oferta dos serviços socioassistenciais, buscando o fortalecimento dos vínculos familiares e a inserção comunitária.  
+  
+**Parágrafo Único.** O benefício será concedido na forma de pecúnia ou bens de consumo, em caráter temporário, sendo o seu valor e duração definidos de acordo com o grau de complexidade da situação de vulnerabilidade e risco pessoal das famílias e indivíduos, identificados nos processo de atendimento dos serviços.
+
+
+Art. 41.
+
+A situação de vulnerabilidade temporária caracteriza-se pelo advento de riscos, perdas e danos à integridade pessoal e familiar, assim entendidos:
+
+I - riscos: ameaça de sérios padecimentos;
+
+II- perdas: privação de bens e de segurança material;
+
+III - danos: agravos sociais e ofensa.
+
+**Parágrafo único.** Os riscos, perdas e danos podem decorrer de:
+
+I - desemprego;
+
+II - ausência de documentação;
+
+III - necessidade de mobilidade urbana para garantia de acesso aos serviços e benefícios socioassistenciais;
+
+IV - necessidade de passagem para outra unidade da Federação, com vistas a garantir a convivência familiar e comunitária;
+
+V - ocorrência de violência física, psicológica ou exploração sexual no âmbito familiar ou ofensa à integridade física do indivíduo;
+
+VI - perda circunstancial ocasionada pela ruptura de vínculos familiares e comunitários;
+
+VII - processo de reintegração familiar e comunitária de pessoas idosas, com deficiência ou em situação de rua; crianças, adolescentes, mulheres em situação de violência e famílias que se encontram em cumprimento de medida protetiva;
+
+VIII - ausência ou limitação de autonomia, de capacidade, de condições ou de meios próprios da família para prover as necessidades alimentares de seus membros;
+
+
+Art. 42.
+
+Os benefícios eventuais prestados em virtude de desastre ou calamidade pública constituem-se provisão suplementar e provisória de assistência social para garantir meios necessários à sobrevivência da família e do indivíduo, com o objetivo de assegurar a dignidade e a reconstrução da autonomia familiar e pessoal.
+
+
+Art. 43.
+
+As situações de calamidade pública e desastre caracterizam-se por eventos anormais, decorrentes de baixas ou altas temperaturas, tempestades, enchentes, secas, inversão térmica, desabamentos, incêndios, epidemias e pandemias os quais causem sérios danos à comunidade afetada, inclusive à segurança ou à vida de seus integrantes, e outras situações imprevistas ou decorrentes de caso fortuito.
+
+**Parágrafo único.** O benefício será concedido na forma de pecúnia ou bens de consumo, em caráter provisório e suplementar, sendo seu valor fixado de acordo com o grau de complexidade do atendimento de vulnerabilidade e risco pessoal das famílias e indivíduos afetados.
+
+
+Art. 44.
+
+Ato normativo editado pelo Poder Executivo Municipal disporá sobre os procedimentos e fluxos de oferta na prestação dos benefícios eventuais.  
+  
+**Seção III DOS RECURSOS ORÇAMENTÁRIOS PARA OFERTA DE BENEFÍCIOS EVENTUAIS**
+
+
+Art. 45.
+
+As despesas decorrentes da execução dos benefícios eventuais serão providas por meio de dotações orçamentárias do Fundo Municipal de Assistência Social.
+
+**Parágrafo único.** As despesas com Benefícios Eventuais devem ser previstas anualmente na Lei Orçamentária Anual do Município - LOA.  
+  
+**Seção IV DOS SERVIÇOS**
+
+
+Art. 46.
+
+Serviços socioassistenciais são atividades continuadas que visem à melhoria devida da população e cujas ações, voltadas para as necessidades básicas, observem os objetivos, princípios e diretrizes estabelecidas na Lei n° Federal 8.742, de 1993, e na Tipificação Nacional dos Serviços Socioassistenciais, em acordo com o disposto no Plano Municipal de Assistência Social.  
+  
+**Seção V DOS PROGRAMAS DE ASSISTÊNCIA SOCIAL**
+
+
+Art. 47.
+
+Os programas de assistência social compreendem ações integradas e complementares com objetivos, tempo e área de abrangência definidos para qualificar, incentivar e melhorar os benefícios e os serviços assistenciais, conforme demandas apresentadas pela Vigilância Socioassistencial.
+
+**§ 1°** - Os programas serão definidos pelo Conselho Municipal de Assistência Social, obedecidos aos objetivos e princípios que regem Lei Federal n° 8.742, de 1993, com prioridade para o combate a pobreza e a desigualdade social.
+
+**§ 2°** - Os programas voltados para o idoso e a integração da pessoa com deficiência terão foco na prevenção às vulnerabilidades e serão devidamente articulados com o benefício de prestação continuada estabelecido no art. 20 da Lei Federal n° 8.742, de 1993.
+
+#### CAPÍTULO VI DA RELAÇÃO COM AS ORGANIZAÇÕES DA SOCIEDADE CIVIL DE ASSISTÊNCIA SOCIAL
+
+
+Art. 48.
+
+São organizações da sociedade civil de assistência social aquelas sem fins lucrativos que, isolada ou cumulativamente, prestam atendimento e assessoramento aos beneficiários abrangidos pela Lei Federal n° 8.742, de 1993, bem como as que atuam na defesa e garantia de direitos.
+
+
+Art. 49.
+
+As organizações da sociedade civil de assistência social e os serviços, programas, projetos e benefícios socioassistenciais deverão ser inscritos no Conselho Municipal de Assistência Social para que obtenha a autorização de funcionamento no âmbito da Política Nacional de Assistência Social, observado os parâmetros nacionais de inscrição definidos pelo Conselho Nacional de Assistência Social.
+
+
+Art. 50.
+
+Constituem critérios para a inscrição de organizações da sociedade civil de Assistência Social, bem como dos serviços, programas, projetos e benefícios socioassistenciais:
+
+I - executar ações de caráter continuado, permanente e planejado;
+
+II - assegurar que os serviços, programas, projetos e benefícios socioassistenciais sejam ofertados na perspectiva da autonomia e garantia de di eitos dos usuários;
+
+III - garantir a gratuidade e a universalidade em todos os serviços, programas, projetos e benefícios socioassistenciais;
+
+V - garantir a existência de processos participativos dos usuários na busca do cumprimento da efetividade na execução de seus serviços, programas, projetos e benefícios socioassistenciais.
+
+
+Art. 51.
+
+As organizações da sociedade civil de Assistência Social no ato da inscrição demonstrarão:
+
+I - ser pessoa jurídica de direito privado, devidamente constituída;
+
+II - aplicar suas rendas, seus recursos e eventual resultado integralmente no território nacional e na manutenção e no desenvolvimento de seus objetivos institucionais;
+
+III - elaborar plano de ação anual;
+
+IV - ter expresso em seu relatório de atividades:
+
+a) finalidades estatutárias;
+
+b) objetivos;
+
+c) origem dos recursos;
+
+d) infraestrutura;
+
+e) identificação de cada serviço, programa, projeto e benefício socioassistenciais executado.  
+  
+**Parágrafo Único** - Os pedidos de inscrição observarão as seguintes etapas de analise:
+
+I - análise documental;
+
+II - visita técnica, quando necessária, para subsidiar a análise do proces o;
+
+III - elaboração do parecer da Comissão;
+
+IV - pauta, discussão e deliberação sobre os processos em reunião plenária;
+
+V - publicação da decisão plenária;
+
+VI - emissão do comprovante;
+
+VII- notificação à entidade ou organização de Assistência Social por ofício.
+
+#### CAPÍTULO VII DO PROGRAMA DE EDUCAÇÃO PERMANENTE
+
+
+Art. 52.
+
+O Plano de Educação Permanente do Sistema Único de Assistência Social de Areias tem por objetivo promover a formação e capacitação continuada, conforme a NOB/SUAS, NOB-RH/SUAS e PNEP/SUAS, visando a qualificação da intervenção profissional na execução das ofertas socioassistenciais, da gestão da política de assistência social e do exercício do controle social.
+
+
+Art. 53.
+
+O Plano Municipal de Educação Permanente (PMEP) deverá estabelecer diretrizes e conteúdos básicos para a formação dos trabalhadores, gestores e conselheiros do Sistema Único de Assistência Social (SUAS) do Município de Areias com a finalidade de promover o aprimoramento no processo de gestão da Política Municipal de Assistência Social, na qualificação das ofertas socioassistenciais e no exercício do controle social.
+
+
+Art. 54.
+
+Entende-se a formação como um processo de construção do conhecimento seguido do compartilhamento e da apropriação dos conteúdos e percepções técnicas e políticas que unificam a Política de Assistência Social. A educação permanente.  
+  
+Parágrafo Único - Como referência nacional para a sua construção foram utilizados, entre outros documentos, a Lei Orgânica da Assistência Social - LOAS, a Política Nacional da Assistência Social - PNAS/2004, a Norma Operacional Básica de Recursos Humanos do SUAS - NOB-RH/SUAS/2006, a Norma Operacional Básica do SUAS - NOB/SUAS/2012 e a Política Nacional de Educação Permanente (PNEP), aprovada pela Resolução do Conselho Nacional de Assistêrlcia Social (CNAS) de n° 04, de 13 de março de 2013; dentre outras normativas, como Resoluções, Portarias, Decretos, Orientações Técnicas.
+
+
+Art. 55.
+
+Constituem responsabilidades específicas do poder público na área de recursos humanos:
+
+I - Implementar e executar a gestão do trabalho e a educação permanente coordenando e acompanhando ações relativas à valorização do trabalhador e à estruturação do processo de trabalho institucional de acordo com as normativas da Política de Assistência Social e do SUAS;
+
+II - Elaborar e atualizar o diagnóstico da situação de gestão do trabalho incluindo os mais diversos aspectos pertinentes aos trabalhadores do SUAS;
+
+III - Elaborar e implementar o Plano Municipal de Educação Permanente para os trabalhadores do SUAS e conselheiros municipais, com base nos fundamentos da educação permanente e nos princípios e diretrizes constantes da NOB - RH SUAS, deliberados pelo CMAS;
+
+IV - Prever necessidades de trabalhadores para a manutenção da estrutura gestora do SUAS visando a realização de concurso público, observadas as normas vigentes;
+
+V - Propor estratégias metodológicas e instituir práticas profissionais que contribuam para a construção de propostas de trabalho por meio de processos unificados e construídos coletivamente que obedecem as diretrizes de participação e democratização que ampliem e qualifiquem o trabalho e os direitos;
+
+VI - Considerar a NOB-RH/SUAS e demais normativos relativas aos recursos humanos no Suas nas discussões sobre a elaboração de Planos de Carreira, Cargos e Salários - PCCS.  
+  
+Parágrafo Único. As ofertas socioassistenciais nas unidades públicas pressupõem a constituição de equipe de referência na forma das Resoluções no 269, de 13 de dezembro de 2006; no 17, de 20 de junho de 2011; e no 9, de 25 de abril de 2014, do CNAS.
+
+#### CAPÍTULO VIII DO FINANCIAMENTO DA POLÍTICA MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+
+Art. 56.
+
+O financiamento da Política Municipal de Assistência Social é previsto e executado através dos instrumentos de planejamento orçamentário municipal, que se desdobram no Plano Plurianual, na Lei de Diretrizes Orçamentárias e na Lei Orçamentária Anual.  
+  
+**Parágrafo Único.** O orçamento da assistência social deverá ser inserido na Lei Orçamentária Anual, devendo os recursos alocados no Fundo Municipal de Assistência Social serem voltados à operacionalização, prestação, aprimoramento e viabilização dos serviços, programas, projetos e benefícios socioassistenciais.
+
+
+Art. 57.
+
+Caberá ao órgão gestor da assistência social responsável pela utilização dos recursos do respectivo Fundo Municipal de Assistência Social o controle e o acompanhamento dos serviços, programas, projetos e benefícios socioassistenciais, por meio dos respectivos órgãos de controle, independentemente de ações do órgão repassador dos recursos.  
+  
+**Parágrafo Único**. Os entes transferidores poderão requisitar informações referentes à aplicação dos recursos oriundos do seu fundo de assistência social, para fins de análise e acompanhamento de sua boa e regular utilização.  
+  
+**Seção I DO FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL**
+
+
+Art. 58.
+
+Fica criado o Fundo Municipal de Assistência Social - FMAS, fundo público de gestão orçamentária, financeira e contábil, com objetivo de pipporcionar recursos para cofinanciar a gestão, serviços, programas, projetos e benefícios socioassistenciais.
+
+
+Art. 59.
+
+Constituirão receitas do Fundo Municipal de Assistência Social - FMAS:
+
+I - recursos provenientes da transferência dos fundos Nacional e Estadual de Assistência Social;
+
+II- recursos adicionais que a Lei estabelecer no transcorrer de cada exercício;
+
+III - doações, auxílios, contribuições, subvenções de organizações internacionais e nacionais, Governamentais e não Governamentais;
+
+IV - receitas de aplicações financeiras de recursos do fundo, realizadas na forma da lei;
+
+V - as parcelas do produto de arrecadação de outras receitas próprias oriundas de financiamentos das atividades econômicas, de prestação de serviços e de outras transferências que o Fundo Municipal de Assistência Social terá direito a receber por força da lei e de convênios no setor;
+
+VI- produtos de convênios firmados com outras entidades financiadoras;
+
+VII- doações em espécie feitas diretamente ao Fundo;
+
+VIII - outras receitas que venham a ser legalmente instituídas.
+
+**§1º** - Os recursos que compõem o Fundo, serão depositados em instituições financeiras oficiais, em conta especial sobre a denominação - Fundo Municipal de Assistência Social - FMAS.
+
+**§2º** - As contas recebedoras dos recursos do cofinanciamento federal das ações socioassistenciais serão abertas pelo Fundo Nacional de Assistência Social.
+
+
+Art. 60.
+
+O FMAS será gerido pela Secretaria Municipal de Assistência Social, sob orientação e fiscalização do Conselho Municipal de Assistência Social.  
+  
+**Parágrafo Único**. O Orçamento do Fundo Municipal de Assistência Social - FMAS integrará o orçamento da Secretaria Municipal de Assistência Social.
+
+
+Art. 61.
+
+Os recursos do Fundo Municipal de Assistência Social - FMAS, serão aplicados em:
+
+I - financiamento total ou parcial de programas, projetos e serviços de assistência social desenvolvidos pela Secretaria Municipal de Assistência Social ou por Órgão conveniado;
+
+II - em parcerias entre poder público e entidades de assistência social para a execução de serviços, programas e projetos socioassistencial específicos;
+
+III - aquisição de material permanente e de consumo e de outros insumos necessários ao desenvolvimento das ações socioassistenciais;
+
+IV - construção, reforma, ampliação, aquisição ou locação de imóveis para prestação de serviços de Assistência Social;
+
+V - desenvolvimento e aperfeiçoamento dos instrumentos de gestão, planejamento, administração e controle das ações de Assistência Social;
+
+VI - pagamento dos benefícios eventuais, conforme o disposto no inciso I do art. 15 da Lei Federal n° 8.742, de 1993;
+
+VII - pagamento de profissionais que integrarem as equipes de referência, responsáveis pela organização e oferta daquelas ações, conforme percentual apresentado pelo Ministério do Desenvolvimento Social e Combate à 1Fome e aprovado pelo Conselho Nacional de Assistência Social - CNAS.
+
+
+Art. 62.
+
+O repasse de recursos para as entidades e organizações de Assistência Social, devidamente inscritas no CMAS, será efetivado por intermédio do FMAS, de acordo com critérios estabelecidos pelo Conselho Municipal de Assistência Social, observando o disposto nesta Lei.
+
+
+Art. 63.
+
+Os relatórios de execução orçamentária e financeira do Fundo Municipal de Assistência Social serão submetidos à apreciação do CMAS, trimestralmente, de forma sintética e, anualmente, de forma analítica.
+
+
+Art. 64.
+
+Esta lei entra em vigor na data da sua publicação, revogando-se as disposições em contrário.
+
+
+Areias, 19 de maio de 2021.
+
+**PAULO HENRIQUE DE SOUZA COUTINHO**  
+Prefeito Municipal
+
+Publicado por editais no átrio do Poder Público Municipal , na data supra.  
+  
+  
+José Aroldo Gonçalves Pimentel  
+Chefe de Cadastro e Tributação
+

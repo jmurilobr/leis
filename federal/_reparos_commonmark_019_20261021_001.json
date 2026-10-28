@@ -1,0 +1,59 @@
+{
+  "escopo": "Dois reparos privados de markup e sinais literais, sem alterar arquivos canônicos ou pacotes congelados.",
+  "metodo": "marked 17.0.5 GFM independente. Compara todos os caracteres visíveis, números e contextos; reconstitui contadores reais de ol/li e conserva o delimitador literal do código na comparação. Preserva a estrutura de listas; escapes de - atingem somente sinais literais que viravam uma lista adicional.",
+  "resumo": {
+    "candidatos": 2,
+    "aprovados_replay": 2,
+    "erros_formato": 0,
+    "avisos_formato": 0
+  },
+  "registros": [
+    {
+      "path": "federal/decretos/1944/dec-15615-1944-05-19.md",
+      "lote": 19,
+      "urn": "urn:lex:br:federal:decreto:1944-05-19;15615",
+      "candidato": "federal/_candidatos_commonmark_019_20261021_001/dec-15615-1944-05-19.md",
+      "sha256_candidato": "fde5bbf0a28115884009de06cf83e7d53f4c07c78b5a5c894f581d97504ce655",
+      "sha256_fonte_html": "a609f301ae2f16dc20cf378afab2b5569c4e9f47deb1ba91817d0259e1387401",
+      "preimagem_privada": "federal/decretos/1944/dec-15615-1944-05-19.md",
+      "sha256_preimagem_privada": "45a80953f383737314606b54642d37d50140a801a685b0027fb0a20b6288ec5e",
+      "preimagem_canonica_sha256": "45a80953f383737314606b54642d37d50140a801a685b0027fb0a20b6288ec5e",
+      "mudancas": [
+        {
+          "mudanca": "Retira somente espaço editorial que a fonte não contém entre Art. e número; preserva pontuação e todos os caracteres literais.",
+          "ocorrencias": 3
+        }
+      ],
+      "status": "replay_commonmark_estrutural_aprovado",
+      "pontuacao_numeros_contextos_iguais": true,
+      "tabelas_e_visuais_iguais": true,
+      "listas_preservadas": [],
+      "sha256_visivel": "c9a683d56ba99dc9336942c7238094f950dd0a0bacd7b1cb8df19ecd66ae31a0",
+      "sha256_render_html": "ff12e30c8782c80512c69ad0b63b1a89d9116d0e660478200c70c45f31fcb6fb"
+    },
+    {
+      "path": "federal/decretos/1944/dec-14837-1944-02-23.md",
+      "lote": 19,
+      "urn": "urn:lex:br:federal:decreto:1944-02-23;14837",
+      "candidato": "federal/_candidatos_commonmark_019_20261021_001/dec-14837-1944-02-23.md",
+      "sha256_candidato": "9e03020bd195224b5e21afdc0a19bcf165ad2af8aeafbf5e6825d55fb89d03a7",
+      "sha256_fonte_html": "05c1fb39ce2a57dfc83b4e09dac3a58c91399259a353713ca903ac2c5d079fcc",
+      "preimagem_privada": "federal/decretos/1944/dec-14837-1944-02-23.md",
+      "sha256_preimagem_privada": "f79c5627def1fa914b7a388db1be98296b0559b06c34d91e58eb9c01d89afe12",
+      "preimagem_canonica_sha256": "f79c5627def1fa914b7a388db1be98296b0559b06c34d91e58eb9c01d89afe12",
+      "mudancas": [
+        {
+          "mudanca": "Retira somente espaço editorial que a fonte não contém entre Art. e número; preserva pontuação e todos os caracteres literais.",
+          "ocorrencias": 1
+        }
+      ],
+      "status": "replay_commonmark_estrutural_aprovado",
+      "pontuacao_numeros_contextos_iguais": true,
+      "tabelas_e_visuais_iguais": true,
+      "listas_preservadas": [],
+      "sha256_visivel": "4154ed8d7a1cd91c6099b1b34a3da3da42ffff87f8778bf5b5dc405894ccd287",
+      "sha256_render_html": "01484815ed4b3cf42ab6988838c01a2e524e57b83dd903b1c23cc6d1a27db15a"
+    }
+  ],
+  "limite": "Não certifica outras edições; os suplementos ausentes e candidatos de HTML original são tratados separadamente."
+}

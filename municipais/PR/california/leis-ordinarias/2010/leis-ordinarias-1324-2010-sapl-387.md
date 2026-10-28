@@ -1,0 +1,235 @@
+---
+titulo: "Lei Ordinária Municipal nº 1.324, de 22 de abril de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "1324"
+data: "2010-04-22"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/387"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/585/text"
+sha256_fonte: "bb3529b8c59e1091fbe30aa3e65733a4695ac79ffbbd688668cf279433ff31bc"
+sha256_texto: "3ee4628e9385619372419dd472d5589583ecdd2b50c12b61da0ce5b4234df0c3"
+capturado_em_fonte: "2026-10-27T22:40:46.688724-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 1.324, de 22 de abril de 2010
+
+Cria o Fundo Municipal de Habitação de Interesse Social - FHIS e institui o Conselho Gestor do FHIS.
+
+
+A Câmara de Vereadores do Municipio de Califórnia Esstado do Paraná aprovou, e eu prefeito sanciono a seguinte LEI:
+
+
+Art. 1º.
+
+Esta Lei cria o fundo de habitação de interesse Social - FHIS e institui o conselho-Gestor d FHIS.
+
+
+#### CAPÍTULO I — DO FUNDO DE HABITAÇÃO DE INTERESSE SOCIAL
+
+
+##### Seção I — Objetivos e fontes
+
+
+Art. 2º.
+
+Fica criado o fundo de habitação de interesse Social - FHIS, de natureza contábil, com o abjetivo de centralizar e gerenciar recursos orçamentários para os programas destinados a implementar politicas habitacionais direcionadas à população de menor renda.
+
+
+Art. 3º.
+
+O FHIS é constituido por.
+
+
+I –
+
+dotaçãoes do Orçamento Geral do municipio, classificadas na função de Habitação;
+
+
+II –
+
+outros fundos ou programas que vierem a ser incorporados ao FHIS;
+
+
+III –
+
+recursos provenientes de empréstimos externos e internos para programas de habitação;
+
+
+IV –
+
+contribuições e doações de pessoas físicas ou juridicas,entidades e organismos de cooperaçao nascionais ou internacionais;
+
+
+V –
+
+receitas operacionais e patrimoniais de operações realizadas com recursos do FHIS; e
+
+
+VI –
+
+outros recursos que lhe vierem a ser destinados.
+
+
+##### Seção II — Do Conselho-Gestos do FHIS
+
+
+Art. 4º.
+
+O FHIS será gerido por um Conselho-Gestor.
+
+
+Art. 5º.
+
+O Conselho Gestor é Orgão de caráter deliberativo e será composto por entidades públicas e privadas, bem como de segmentos da sociedade ligados à área de hbitação, garantindo o princípio democrático de escolha de seus representantes e a proporção de 1/4 (um quarto) das vagas aos representantes dos movimentos populares.
+
+
+§ 1º
+
+O Poder Executivo disporá em regulamento sobre a composição do Conselho Gestor do FHIS.
+
+
+§ 2º
+
+A Presidência do Conselho-Gestor de FHIS será exercida pelo secretário Municipal do Trabalho e Habitação.
+
+
+§ 3º
+
+O presidente do Conselho-Gestor do FHIS exercerá ovoto de qualidade.
+
+
+§ 4º
+
+Competirá a Secretaria Municipal de Trabalho e Habitação proporcionar ao Conselho Gestor os meios Necessarios ao exercicio de suas competências .
+
+
+##### Seção III — DasAplicações dos Recursos do FHIS
+
+
+Art. 6º.
+
+As aplicações dos recursos do FHIS serão destinadas a ações vinculadas aos programas de habitação de interesse social que contemplem:
+
+
+I –
+
+aquisição, construção , conclusão, melhoria , reforma, locação social e arrendamento de unidades habitacionais em áreas urbanas e rurais:
+
+
+II –
+
+produção de lotes urbanizados para fins habitacionais;
+
+
+III –
+
+urbanização produção de equipamentos comunitarios, regularização fundiária e urbanistica de áreas caracterizadas de interesse social;
+
+
+IV –
+
+implantação de saneamento básico, infra-estrutura e equipamentos urbanos, complementares aos programas habitacionais de interesse social;
+
+
+V –
+
+aquisição de materias para contrução, ampliação e reforma de moradias;
+
+
+VI –
+
+recuperação ou produção de imóveis em áreas encortiçadas ou deterioradas, centrais ou periféricas,para fins habitacionais de interesse social;
+
+
+VII –
+
+outros programas e itervenções na forma aprovada pelo Conselho-Gestor do FHIS.
+
+
+Parágrafo único
+
+Será admitida a aquisição de terrenos vinculada a implantação de projetos habitacionais.
+
+
+##### Seção IV — Dascompetências do Conselho Gestor do FHIS
+
+
+Art. 7º.
+
+Ao Conselho Gestor do FHIS compete:
+
+
+I –
+
+estabelecer diretrizes e fixas critérios para a priorização de linhas de ação, alocação de recursos do FHIS e atendimento dos beneficiários dos programas habitacionais, observado o disposto nesta Lei, a politica eo plano municipal de habitação;
+
+
+II –
+
+aprovar orçamentos e planos de aplicação e metas anuais e plurianuais dos recursos do FHIS;
+
+
+III –
+
+fixar critérios para priorização de linhas de ações;
+
+
+IV –
+
+deliberar sobre as contas do FHIS;
+
+
+V –
+
+dirimir dúvidas quanto à aplicação das normas regulamentares, aplicáveis ao FHIS, nas matérias de sua competência;
+
+
+VI –
+
+aprovar seu regimento interno .
+
+
+§ 1º
+
+As diretrizes e critérios previstos no inciso 1 do caput deste artigo deverão observar ainda as normas emanadas do Conselho Gestor do fundo Nascional de Habitação de interesse Social, de que trata a Lei Federal Nº 11.124, de 16 de junho de 2005, nos casos em que o FHIS vier a receber recursos Federais.
+
+
+§ 2º
+
+O Conselho Gestor do FHIS promoverá ampla publicidade das formas e critérios de acesso aos programas, das modalidades de acesso à moradia, das metas anuais de atendimento habitacional, dos recursos previstos e aplicados, identificados pelas fontes de origem, das áreas abjeto de intervenção, dos números e valores dos beneficios e dos financiamentos e subisidios concedidos, de modo a permitir o acompanhamento e fiscalização pela sociedade.
+
+
+§ 3º
+
+O Conselho Gestor do FHIS promoverá audiências públicas e conferências, representativas dos segmentos sociais existentes, para debater e avaliar critérios de alocação de recursos e programas habitacionais existentes.
+
+
+#### CAPÍTULO II — DISPOSIÇÕES GERAIS, TRANSITORIAS E FINAIS
+
+
+Art. 8º.
+
+Esta Lei será emplementada em consonância com a Politica Nacional de Habitação e com o Sistema Nacional de Habitação de interesse Social.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicaçã.
+
+
+Edificioda Prefeitura do Municipio de Califórnia,
+
+aos 22 dias do mês de abril de 2010.
+
+**AMAURI BARICHELLO**
+
+PREFEITO
+

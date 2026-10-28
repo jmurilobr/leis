@@ -1,0 +1,162 @@
+---
+titulo: "LEI ORDINÁRIA-CMC nº 889, de 19 de dezembro de 2000"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "889"
+data: "2000-12-19"
+municipio: "Claraval"
+uf: "MG"
+codigo_ibge: "3116407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.claraval.mg.leg.br/norma/1253"
+fonte_texto: "https://sapl.claraval.mg.leg.br/ta/583/text"
+sha256_fonte: "c2e3dbcc42a84584d4584bcbe548b66adfcceffde6eefe39e9919690beb85c7e"
+sha256_texto: "3e5d68ea39f98284ac39319bd936616021b709869cbcedc5b7d537d584ee3e7e"
+capturado_em_fonte: "2026-10-27T23:05:27.437211-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA-CMC nº 889, de 19 de dezembro de 2000
+
+"Dispõe sobre a abertura de CREDITO ADICIONAL SUPLEMENTAR no orçamento em vigor e dá outras providências."
+
+
+LUIZ GONZAGA CINTRA, Prefeito Municipal de Claraval, Estado de Minas Gerais, em pleno exercício do seu cargo e usando das atribuições que lhe são conferidas por lei, FAZ SABER que a Câmara Municipal local APROVOU e ele, em seu nome, SANCIONA e PROMULGA a seguinte lei:
+
+
+Art. 1º.
+
+Fica aberto no Serviço de Contabilidade um Crédito Adicional Suplementar no valor de R$19.847,00 (DEZENOVE MIL E OITOCENTOS QUARENTA E SETE REAIS.\*\*\*\*\*\*\*\*\*\*\*\*\*), destinado a acobertar despesas com as seguintes dotações orçamentárias em vigor:
+
+
+01.00 - CAMARA MUNICIPAL
+
+01.01 - CORPO LEGISLATIVO
+
+01.01.001.2001 3132 - Serv. de Terceiros e Encargos.....................................................600,00
+
+02.00 - GABINETE DO PREFEITO
+
+01.01 - ADMINISTRAÇÃO DO GABINETE
+
+03.07.020.2002 3120 - Mat. de Consumo/Festividades.................................................1.500,00
+
+03.07.020.2002 3120 - Material de Consumo....................................................................500,00
+
+04.00 - EDUCAÇÃO, CULTURA, ESPORTE E LAZER
+
+04.01 - ENSINO INFANTIL - CRECHE
+
+08.41.185.2008 3111 - Pessoal Civil..............................................................................1.114,00
+
+04.03 - ENSINO FUNDAMENTAL - RECURSOS PROPRIOS..
+
+08.42.188.2011 3120 - Mat. de Consumo/Transp. Esc..................................................5.100,00
+
+04.08 - ENSINO GERAL
+
+08.47.237.1036 4120 - Equip. e Mat. Permanente.........................................................4.215,00
+
+05.00 - SAÚDE E AÇÃO SOCIAL
+
+05.01 - SAUDE
+
+13.75.428.2020 3111 - Pessoal Civil..............................................................................1.713,00
+
+2020 3132 - Serv. Terceiros e Encargos...........................................................................400,00
+
+05.05 - ASSISTENCIA SOCIAL
+
+15.81.486.2021 3113 - Obrigações Patronais................................................................3.937,00
+
+06.00 - SERVIÇOS MUNICIPAIS
+
+06.01 - SERVIÇOS URBANOS
+
+10.60.575.2023 3111 - Pessoal Civil.................................................................................419,00
+
+06.02 - SERVIÇOS DE ESTR. RODAGEM MUNICIPAIS
+
+15.82.495.2025 - 3111 Pessoal Civil.................................................................................349.00
+
+
+Art. 2º.
+
+Para fazer face às despesas decorrentes da execução desta lei, serão utilizados recursos provenientes de anulações parciais e/ou totais das seguintes dotações do orçamento em vigor:
+
+
+01.00 - CAMARA MUNICIPAL
+
+01.01 - CORPO LEGISLATIVO
+
+01.01.001.2001 3111 - Pessoal Civil.................................................................................349,00
+
+02.00 - GABINETE DO PREFEITO
+
+02.01 - ADMINISTRAÇÃO DO GABINETE
+
+03.07.020.2002 3111 - Pessoal Civil.................................................................................922,00
+
+03.00 - ADMINISTRAÇÃO, PLANEJAMENTO E FINANÇAS
+
+03.01 - ADMINISTRAÇÃO GERAL
+
+03.07.021.2005 3111 Pessoal Civil....................................................................................224,00
+
+2005 3251 – Inativos..........................................................................................................385,00
+
+04.00 - EDUCAÇÃO, CULTURA, ESPORTE E LAZER
+
+04.02 - ENSINO INFANTIL/PRE-ESCOLA
+
+08.41.190.2009 3111 - Pessoal Civil.................................................................................244,00
+
+04.03 - ENSINO FUNDAMENTAL/RECURSOS PRÓPRIOS
+
+08.42.188.2010 3111 - Pessoal Civil.................................................................................953,00
+
+2010 3251 – Inativos..........................................................................................................924,00
+
+08.47.239.2011 -3132 - Outros Serviços/Transp. Esc....................................................9.315,00
+
+04.04 - FUNDEF/NORMAL
+
+04.05 - FUNDEF/MAGISTERIO
+
+08.42.188.2020 3111 - Pessoal Civil.................................................................................950,00
+
+05.00 - SAÚDE E AÇÃO SOCIAL
+
+13.75.428.2021 3251 – Inativos.........................................................................................621,00
+
+05.05 - ASSISTENCIA SOCIAL
+
+15.81.486.2021 3111 - Pessoal Civil.................................................................................191,00
+
+06.01 - SERVIÇOS URBANAS
+
+10.60.575.2023 3251 – Inativos.........................................................................................828,00
+
+06.02 - SERVIÇOS DE ESTRADAS DE RODAGEM MUNICIPAIS
+
+15.82.495.2026 3251 – Inativos.........................................................................................941,00
+
+16.88.536.2025 3120 - Material de Consumo.................................................................1.750,00
+
+536.2025 3132 - Serviços de Terceiros e Encargos.......................................................1.250,00
+
+
+Art. 3º.
+
+Revogam-se as disposições em contrário, entrando a presente Lei em vigor na data de sua publicação.
+
+
+Claraval, 19 de dezembro de 2000.
+
+LUIZ GONZAGA CINTRA
+
+Prefeito Municipal
+

@@ -1,0 +1,215 @@
+---
+titulo: "Lei nº 277, de 20 de maio de 1997"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "277"
+data: "1997-05-20"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/276"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/574/text"
+sha256_fonte: "fcac611cd699b1cd4567b2835949205cedeb10d7f0ad50e60cc1448a9dca2336"
+sha256_texto: "0b53f4c49e6be5110cc582b72ea0b3235b34f7e489583e13ae4be34c220d5b75"
+capturado_em_fonte: "2026-10-21T07:07:14.041907-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 277, de 20 de maio de 1997
+
+Dispõe sobre as Diretrizes Orçamentárias e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE AMONTADA, ESTADO DO CEARÁ  
+Faço saber que a Câmara Municipal de Amontada aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Ficam estabelecidas nos termos desta Lei, as diretrizes orçamentárias do Município de Amontada para o exercício financeiro de 1998.
+
+
+Art. 2º.
+
+O Orçamento Geral do Município abrangerá os Poderes Executivo e Legislativo, compreendidas as entidades da administração direta e indireta.
+
+
+Art. 3º.
+
+A Lei de Orçamento conterá a discriminação de receita e despesa, de forma a evidenciar a política econômico-financeira e o programa de trabalho do governo, obedecidos os princípios de unidade, universalidade e anualidade, constando de:
+
+
+Projeto de Lei;  
+Quadro Demonstrativo da Receita;  
+Quadro discriminado das dotações por órgãos de governo e da administração;  
+Quadro discriminado por programas de trabalho de cada unidade.
+
+
+Art. 4º.
+
+O Município poderá conceder ajuda financeira a entidades, associações, clube de esportes e sociais, desde que os mesmos não tenham fins lucrativos e que apresentem estatutos devidamente registrados em cartórios de registros de documentos ou publicados no diário oficial.
+
+
+Art. 5º.
+
+São vedados: a realização ou assunção de obrigações diretas que excedam os créditos orçamentários ou adicionais.
+
+
+Art. 6º.
+
+O chefe do Poder Executivo, poderá conceder ajuda, a título de SUBVENÇÃO SOCIAL, a entidades que prestem relevantes serviços à coletividade e que não contenham fins lucrativos em seus objetivos.
+
+
+Art. 7º.
+
+Na forma do artigo 38 das Disposições Transitórias da Constituição Federal, o Município não poderá exceder a 60% (sessenta por cento) dos gastos com PESSOAL, das respectivas receitas correntes.
+
+
+Art. 8º.
+
+O Município é obrigado, anualmente, a aplicar nunca menos de 25% (vinte e cinco por cento) da receita resultante de impostos, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino, consoante determinação da Constituição Federal, no seu artigo 212.
+
+
+Art. 9º.
+
+O Poder Executivo poderá assinar Convênios com outras esferas do Governo, inclusive, entidades e organismos, para atendimento de serviços básicos e conjugação de esforços, visando uma melhor prestação de serviços à comunidade.
+
+
+Art. 10.
+
+Fica determinado que as entidades, órgãos ou qualquer segmento que receba recursos municipais, deverão apresentar prestação de contas dos valores recebidos no exercício, até o dia 31 de janeiro do exercício subsequente, contendo dentre outros, os seguintes elementos:
+
+
+Relatório consubstanciado dos gastos realizados;  
+Balancete Financeiro;
+
+
+Parágrafo único
+
+As entidades que não apresentarem suas prestações de contas prazo do artigo acima, ficam automaticamente impedidas de receber novos recursos, até que cumpram com esta obrigação, ficando a critério do Chefe do Poder Executivo, a avaliação que achar conveniente com relação a novos repasses.
+
+
+Art. 11.
+
+O Orçamento anual, obedecerá a estrutura organizacional devidamente aprovada pelo Legislativo e terá seus controles realizados com base na Lei 4.320/64, com contabilidade pelo método das Partidas Dobradas, na forma do artigo 86 da referida Lei.
+
+
+Art. 12.
+
+As operações de Créditos realizadas no exercício, deverão ser integralmente quitadas até o dia 31 de janeiro do exercício subsequente.
+
+
+Art. 13.
+
+Os Créditos adicionais poderão ser abertos a qualquer época do exercício, sendo os especiais, através de autorização legislativa e os suplementares por DECRETO, até o limite da despesa fixada na Lei Orçamentária;
+
+
+Art. 14.
+
+No Projeto de Lei Orçamentária, as receitas e as despesas serão orçadas segundo os preços vigentes em junho de 1997.
+
+
+Art. 15.
+
+Não poderão ser fixadas despesas sem que estejam definidas as fontes de recursos destinadas aos seus custeios.
+
+
+Art. 16.
+
+Na programação de Investimentos da administração municipal, serão observadas as seguintes regras:
+
+
+I –
+
+os Projetos em fase de execução terão preferência sobre os novos projetos; e
+
+
+II –
+
+não poderão ser programados novos Projetos que não constem nesta Lei.
+
+
+Art. 17.
+
+Os Orçamentos fiscal e Seguridade Social deverão definir os objetivos e metas da administração para o exercício de 1998, obedecendo as prioridades definidas nesta Lei.
+
+
+Art. 18.
+
+As receitas próprias do Município, somente poderão ser programadas para despesas de investimentos e inversões financeiras depois de atender integralmente suas necessidades relativas a custeio e operacional, inclusive pagamento de pessoal e encargos sociais, bem como ao pagamento de juros, encargos e amortização da dívida, se for o caso.
+
+
+Art. 19.
+
+O Orçamento da Seguridade Social, compreenderá as dotações destinadas a atender as ações na áreas de saúde, saneamento, previdência e ação social.
+
+
+Art. 20.
+
+O Município poderá efetuar a transposição, o remanejamento, ou a transferência de recursos de uma categoria de programação para outra, de um órgão para outro ou de um elemento de despesas para outro, dentro da execução orçamentária.
+
+
+Art. 21.
+
+A arrecadação de tributos municipais, fica subordinada aos ditames do Código Tributário Municipal e demais Leis Municipais, com embasamento na legislação Federal vigente.
+
+
+Art. 22.
+
+Nenhum tributo poderá ser arrecadado sem que contenha disciplinamento expresso em Lei.
+
+
+Art. 23.
+
+A isenção, anistia, remissão, deverá ser precedida de autorização legislativa.
+
+
+Art. 24.
+
+Nenhum imposto poderá ser criado, para vigorar no exercício da autorização legislativa correspondente.
+
+
+Art. 25.
+
+A despesa deverá ser identificada através de programa, subprograma, projetos e atividades.
+
+
+Parágrafo único
+
+o detalhamento da despesa deverá conter seu disciplinamento a nível de ELEMENTO DA DESPESA, sendo facultado a utilização de SUBELEMENTO, para efeito de classificação da despesa orçamentária.
+
+
+Art. 26.
+
+O poder Executivo deverá encaminhar a proposta orçamentária até o dia 1º. de novembro para vigorar no exercício seguinte.
+
+
+Art. 27.
+
+A Câmara Municipal, deverá apreciar e aprovar a proposta orçamentária até o dia 30 de novembro.
+
+
+§ 1º
+
+caso não seja até o término do período legislativo, a Câmara será de imediato, convocada por seu Presidente para, no prazo de cinco dias aprovar o Projeto.
+
+
+§ 2º
+
+caso não seja adotado o procedimento constante do parágrafo anterior, o Projeto fica considerado como aprovado, devendo o Sr. Prefeito sancioná-lo no prazo improrrogável de 10 (dez) dias.
+
+
+Art. 28.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Paço da Prefeitura Municipal de Amontada, aos 20 de maio de 1997.
+
+FRANCISCO EDILSON TEIXEIRA  
+Prefeito Municipal
+

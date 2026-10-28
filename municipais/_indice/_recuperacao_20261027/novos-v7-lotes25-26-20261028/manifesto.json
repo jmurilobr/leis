@@ -1,0 +1,2938 @@
+{
+  "normas": 36,
+  "lista_normas": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/normas.paths.txt",
+  "mapeamento_fontes": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/mapeamento-fontes.json",
+  "componentes": [
+    {
+      "rotulo": "sigi25",
+      "selecao": "municipais/_indice/_recuperacao_20261027/lotes/ta-selecao-0025",
+      "gates": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025",
+      "materializados": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0025-v7",
+      "contexto": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0025-v7",
+      "commonmark": "municipais/_indice/_recuperacao_20261027/lotes/ta-commonmark-0025-v7",
+      "preliminares": 15,
+      "normas": 15
+    },
+    {
+      "rotulo": "sigi26",
+      "selecao": "municipais/_indice/_recuperacao_20261027/lotes/ta-selecao-0026",
+      "gates": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0026",
+      "materializados": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7",
+      "contexto": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0026-v7",
+      "commonmark": "municipais/_indice/_recuperacao_20261027/lotes/ta-commonmark-0026-v7",
+      "preliminares": 21,
+      "normas": 21
+    }
+  ],
+  "baseline": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/baseline-com-reservas47/manifesto.json",
+  "confronto": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/confronto-final.json",
+  "exportacao_isolada": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportacao-isolada.json",
+  "arquivos": [
+    {
+      "arquivo": "federal/_fonte/auditorias/diagnostico_glifos1347_20261027_002/diagnosticar.py",
+      "sha256": "beadf267d897ef287c7525935f833c73d8b7337a58db27b6fc43a0f5cc62a4e2",
+      "bytes": 14831
+    },
+    {
+      "arquivo": "municipais/CE/eusebio/leis-ordinarias/2018/leis-ordinarias-1604-2018-sapl-2024.md",
+      "sha256": "d94f941b4e9d87ea82e977d83f61828ea89eadbb5f806910f551cbe9a92a6d89",
+      "bytes": 1959
+    },
+    {
+      "arquivo": "municipais/CE/eusebio/leis-ordinarias/2018/leis-ordinarias-1605-2018-sapl-2025.md",
+      "sha256": "ff1c29fc9e8253b3193c280aea4c8d38cbaca3a56dff0ea7af5b02857e4771c0",
+      "bytes": 1791
+    },
+    {
+      "arquivo": "municipais/CE/eusebio/leis-ordinarias/2018/leis-ordinarias-1606-2018-sapl-2026.md",
+      "sha256": "727abe420015fc47f7ac7284e6825524dfa6765ca0d8966b20bd2a74b7d0658e",
+      "bytes": 1878
+    },
+    {
+      "arquivo": "municipais/CE/eusebio/leis-ordinarias/2018/leis-ordinarias-1607-2018-sapl-2027.md",
+      "sha256": "3dd9e475ad236e7774484c5a58d17c40934b3751160255af675887861a505c0a",
+      "bytes": 2737
+    },
+    {
+      "arquivo": "municipais/CE/eusebio/leis-ordinarias/2018/leis-ordinarias-1608-2018-sapl-2028.md",
+      "sha256": "c24391be4d490e734c76d8d54a93374cb4b1465b8ce951e83d94df56d2137411",
+      "bytes": 3238
+    },
+    {
+      "arquivo": "municipais/CE/eusebio/leis-ordinarias/2020/leis-ordinarias-1718-2020-sapl-2273.md",
+      "sha256": "96c70b50902788e99eb766bd9a02388b86df32496740b64c4bc0182557ef3589",
+      "bytes": 1963
+    },
+    {
+      "arquivo": "municipais/CE/eusebio/resolucoes/2009/resolucoes-3-2009-sapl-943.md",
+      "sha256": "3821b34fc681b9fe0c912d72bcbd38ff700c3449383d0b2c38822a1dcd55f653",
+      "bytes": 1955
+    },
+    {
+      "arquivo": "municipais/CE/eusebio/resolucoes/2023/resolucoes-41-2023-sapl-2755.md",
+      "sha256": "7d0bf7776a878216b28e8d094afd15a8d74742fcfa971b5b85f7472ac22ead90",
+      "bytes": 2419
+    },
+    {
+      "arquivo": "municipais/MG/durande/leis-ordinarias/2017/leis-ordinarias-642-2017-sapl-13.md",
+      "sha256": "df79b3e627fce6a1b23adca0c979789ddd07ac3f980635211639860258397b46",
+      "bytes": 8392
+    },
+    {
+      "arquivo": "municipais/MG/durande/leis-ordinarias/2018/leis-ordinarias-658-2018-sapl-14.md",
+      "sha256": "54205bcfc1a10eda75566a3db1d7178a0e604947c9b102a5d7fdf4a58a857e64",
+      "bytes": 5028
+    },
+    {
+      "arquivo": "municipais/MG/durande/leis-ordinarias/2019/leis-ordinarias-674-2019-sapl-17.md",
+      "sha256": "8c56bc80992d7af1e5d3ec9890468d03b3e1e1454d8cff0b058d37270639a786",
+      "bytes": 7199
+    },
+    {
+      "arquivo": "municipais/MG/durande/leis-ordinarias/2019/leis-ordinarias-682-2019-sapl-18.md",
+      "sha256": "a2a8c06df040142da61eff1d531a6880d086129c11162e05bc8daa376b5954be",
+      "bytes": 4660
+    },
+    {
+      "arquivo": "municipais/MG/espera-feliz/leis-ordinarias/2022/leis-ordinarias-1387-2022-sapl-2709.md",
+      "sha256": "6f051489f7499ef754b677c04f014ce3db95c858b956416b46da24f92b037ccd",
+      "bytes": 2681
+    },
+    {
+      "arquivo": "municipais/MG/espera-feliz/leis-ordinarias/2022/leis-ordinarias-1388-2022-sapl-2710.md",
+      "sha256": "a52702494f1cf8e33205f20bb0f91a4079fa8d0d2c21b29bb0fb3eb937f5796a",
+      "bytes": 2605
+    },
+    {
+      "arquivo": "municipais/MG/espera-feliz/leis-ordinarias/2022/leis-ordinarias-1389-2022-sapl-2712.md",
+      "sha256": "8d278358dfca58e4bc3060ce3518fc44cc0280b4300c3c20da6740c1770f08d3",
+      "bytes": 2188
+    },
+    {
+      "arquivo": "municipais/MG/espera-feliz/resolucoes/2017/resolucoes-210-2017-sapl-2543.md",
+      "sha256": "ff48e5c096854567b72555ecbaf90a095b185926a0a50765dd7d2c3b62dec2bf",
+      "bytes": 1921
+    },
+    {
+      "arquivo": "municipais/MG/espera-feliz/resolucoes/2022/resolucoes-241-2022-sapl-2758.md",
+      "sha256": "5715766e9d238dea14c0fc8c3c9fcfd080e49cdaee0110c61aa8a1b33e56dad9",
+      "bytes": 7691
+    },
+    {
+      "arquivo": "municipais/PR/fenix/decretos-legislativos/2023/decretos-legislativos-2-2023-sapl-1459.md",
+      "sha256": "7a90a30a57d5c38b2632a6d68d3f8bdaadf6d6f80506aace8712eed77daa691b",
+      "bytes": 8660
+    },
+    {
+      "arquivo": "municipais/PR/fenix/decretos-legislativos/2024/decretos-legislativos-3-2024-sapl-1465.md",
+      "sha256": "5b2efe61e4c9bf99fbd650503f195675a31ca44a6e2bc0411ab3e69b7e48811c",
+      "bytes": 1828
+    },
+    {
+      "arquivo": "municipais/PR/fenix/decretos-legislativos/2025/decretos-legislativos-2-2025-sapl-1498.md",
+      "sha256": "23470d5c99eb8994395882d0efec8b6398daec0e02632a494a6a3a1d268cc0d7",
+      "bytes": 4364
+    },
+    {
+      "arquivo": "municipais/PR/fenix/lei-organica/1990/lei-organica-1-1990-sapl-5.md",
+      "sha256": "e1ef359e37c1a54569b67e35c074b5e1429261a87fcfa5731fc81ba55f56bd01",
+      "bytes": 144039
+    },
+    {
+      "arquivo": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-1-1968-sapl-134.md",
+      "sha256": "11b5d8fe0bad3b5f7f4af72d3a629970387b79cbece780f83e0b591afd4e77d6",
+      "bytes": 1888
+    },
+    {
+      "arquivo": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-10-1968-sapl-143.md",
+      "sha256": "fc51e522f765bf1b4859eee872ed86321451b12cafc84e714624ca114c8c6234",
+      "bytes": 2073
+    },
+    {
+      "arquivo": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-11-1968-sapl-144.md",
+      "sha256": "932d13bea6f694c9451cd5d32b49220e3704fdf47b2fbc48b8772286f3cd7aa3",
+      "bytes": 2964
+    },
+    {
+      "arquivo": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-12-1968-sapl-145.md",
+      "sha256": "7a03f6fee58f5fc71711da33d861e97774ffc62d7be5ed1da47a5b388ce0cf7b",
+      "bytes": 2144
+    },
+    {
+      "arquivo": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-2-1968-sapl-135.md",
+      "sha256": "8c556b217f62a7d78d4e534f02b9e52aa9a6c0b34dcaf4f630e3598825f4f55c",
+      "bytes": 2467
+    },
+    {
+      "arquivo": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-3-1968-sapl-136.md",
+      "sha256": "3e89138dcf26ae4646f17eb48f87e13d60240f6647fd009693e89114620d4e62",
+      "bytes": 1809
+    },
+    {
+      "arquivo": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-4-1968-sapl-137.md",
+      "sha256": "56969404632311c6f89eb2d386a988aa3d72c743d1829bafef859e74c124d186",
+      "bytes": 2226
+    },
+    {
+      "arquivo": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-5-1968-sapl-138.md",
+      "sha256": "a0a98a222a6615ceaf9221f3e0e9d3ebdb2fc57320260ed8b441069464a1064b",
+      "bytes": 2119
+    },
+    {
+      "arquivo": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-6-1968-sapl-139.md",
+      "sha256": "999ee32c0553c89054f40bdebbffbf110269a59051e22d0d2afda22e2b091a28",
+      "bytes": 2043
+    },
+    {
+      "arquivo": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-7-1968-sapl-140.md",
+      "sha256": "4684e87b04d65985b178ae1820ffdd3f8c3b4a22e18971e45925cc14605a6473",
+      "bytes": 2148
+    },
+    {
+      "arquivo": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-8-1968-sapl-141.md",
+      "sha256": "36aecea8470b055dc162fe297603fa9d338d792e28f1824682773fceeef5a2db",
+      "bytes": 2073
+    },
+    {
+      "arquivo": "municipais/PR/fenix/leis-ordinarias/1968/leis-ordinarias-9-1968-sapl-142.md",
+      "sha256": "6b4e3e727eae2a8cc89206677fd511db7acca4006d5ef631d3e778dde1874196",
+      "bytes": 1929
+    },
+    {
+      "arquivo": "municipais/PR/fenix/leis-ordinarias/2018/leis-ordinarias-50-2018-sapl-1358.md",
+      "sha256": "f02b7f0ef5805d6eda840b6847ce831c189324ffb79c803166221b521be52e9f",
+      "bytes": 1540
+    },
+    {
+      "arquivo": "municipais/PR/fenix/leis-ordinarias/2024/leis-ordinarias-24-2024-sapl-1470.md",
+      "sha256": "5e98820e047d4a16f3cc02f7420723db03e284210a3f1455a14356dba1814a9b",
+      "bytes": 4070
+    },
+    {
+      "arquivo": "municipais/RJ/engenheiro-paulo-de-frontin/decretos-legislativos/2025/decretos-legislativos-2-2025-sapl-2410.md",
+      "sha256": "f0f7f86b61c6ae7007c6cd21a18af39d18f7ee52631bd1d54c00eef0a20052f3",
+      "bytes": 1791
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/02990863c826ed54bb175aa19aff904e0e23537d514b386e1102950efaaa8726.json",
+      "sha256": "89a0b197a830c18494e68cd1bad2f6d1b1063c4ecf8033875717368cdff9b9f0",
+      "bytes": 48983
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/02990863c826ed54bb175aa19aff904e0e23537d514b386e1102950efaaa8726.meta.json",
+      "sha256": "b76c0fbf3aa8a2cd11ad97f4731be50fcd5626c3fc74da8bb0ebe5a6f9e3e184",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/0589033ed3a091701d1646e157c90ff16cea8f74095f2fbe24e90eb14f1e8d0b.json",
+      "sha256": "70411e0fd2f1ac8ae27d1aa45d6d66b3fd91c588ccef2ea39bd4c6a087ea2c55",
+      "bytes": 49714
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/0589033ed3a091701d1646e157c90ff16cea8f74095f2fbe24e90eb14f1e8d0b.meta.json",
+      "sha256": "6395672623ac605ca08c245785537558b657dcd1b6e55c672af2eb58e695cea3",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/059c8d9cb9da9b6e2e8303bef554ce8ddf9e7130e0870377aaacfb2078b5053c.json",
+      "sha256": "e8a88c9281af5e2a63217911df65e2907d2f988b2d35568e8c1ae6da759de1af",
+      "bytes": 46684
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/059c8d9cb9da9b6e2e8303bef554ce8ddf9e7130e0870377aaacfb2078b5053c.meta.json",
+      "sha256": "bd377fdf5f9379dab9c854e0553bd11f3e6ebfcaa15d9aca1442ac5c3af7ccfd",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/08b69f5f427da0e5e956298ab7d2c11c52c185c331d47384415fc03bb5e95676.json",
+      "sha256": "6c7db809b62d5853de957a5484d18041951aa8a0f2715f3c876122e429737f30",
+      "bytes": 47190
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/08b69f5f427da0e5e956298ab7d2c11c52c185c331d47384415fc03bb5e95676.meta.json",
+      "sha256": "019a537b91dc40aa16dec6b384e587ecd18f76d078a35a81119b03f6f278ccbb",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/0e8d371564829ef4320454d9e2becd1160bcd57888e4f4d84bd74c077828c707.json",
+      "sha256": "68743be5b92f772c5431a69774959d21fdf115724351e4ad61fce89e24bc9b7b",
+      "bytes": 70128
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/0e8d371564829ef4320454d9e2becd1160bcd57888e4f4d84bd74c077828c707.meta.json",
+      "sha256": "b0748175bfda4d376d1e74dfa0b11acf6def7d2687d14861adfdb5cfdb09b871",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/199134a1796e011107b36de78bbfa10b74dc29a7c225ccb1a09afbec6b268495.json",
+      "sha256": "dd9202fe4100bff909ac7b8d28889f4993b3df6292612022e7a2ddfddb23042e",
+      "bytes": 47973
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/199134a1796e011107b36de78bbfa10b74dc29a7c225ccb1a09afbec6b268495.meta.json",
+      "sha256": "10c6ea0cd75351459fb8e91d2d7773c37bddd66a3552a2ec8956af0c44cf062c",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/2105bcf4a5fe4b4320415a4681cd71c3b98bd40abf7d4d3cfbce95c2ccfaef0f.json",
+      "sha256": "47843fb647812eb94f6364033e7d605918fe6bebf6950242942290a60c2fa8e1",
+      "bytes": 69961
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/2105bcf4a5fe4b4320415a4681cd71c3b98bd40abf7d4d3cfbce95c2ccfaef0f.meta.json",
+      "sha256": "88c4b4b4df1ac446d4df9384f0b3163ca6542917e67a8e6c395b402f120432d2",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/2213f5dc6580da25579f2ce039366de62611c80e83762b044d11408dc7f98c13.json",
+      "sha256": "548cfd4c298f2e26c4e1321084020909358510f2b52dff9b68749c23f03e083b",
+      "bytes": 47252
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/2213f5dc6580da25579f2ce039366de62611c80e83762b044d11408dc7f98c13.meta.json",
+      "sha256": "4948cec301d22f1c61a0759c7dbab19d90cbf6abdff2ae8abd3948495105aa5e",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/22e3e671a67d5492ef7d237f696e37f0825c1776aabd2af983eb083a57fec72e.json",
+      "sha256": "df26f1b4a9c538f6641448bd6ab61da98adc7542f498fb5631585b775cff839e",
+      "bytes": 49760
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/22e3e671a67d5492ef7d237f696e37f0825c1776aabd2af983eb083a57fec72e.meta.json",
+      "sha256": "f5cae13939669f3f5ed7cc4e6aea27befd86f307778138bb3300cf8768349c17",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/2f2dc539629bc4ea049e63bac81152556d41651fb5c093509a3a3686b89ea942.json",
+      "sha256": "bf1d21bd9922d0af0193bef2439e660004be849f835178dd3100109483dbce96",
+      "bytes": 44570
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/2f2dc539629bc4ea049e63bac81152556d41651fb5c093509a3a3686b89ea942.meta.json",
+      "sha256": "6c8f244b608d61b388f26667bbb46dbee7c3cdd3b37b9d9b8ad43cf8732a7381",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/36389d4c4b31de7b2b90c99bb915f299241e3b7ca64a98efb8b3e286192bd79d.json",
+      "sha256": "90b9bec1a324e3fd20275317adee7505dbf7618dff6be19de3a3cd53326a228e",
+      "bytes": 59361
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/36389d4c4b31de7b2b90c99bb915f299241e3b7ca64a98efb8b3e286192bd79d.meta.json",
+      "sha256": "e15eb211b15253364906031ecbc1b966b441153e0779ee81b790bcc224a1b854",
+      "bytes": 411
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/38aca39d9ec2ef289f1e7d97be25eb38fd5bfda4e9287a7ee50fc7d6850aad8d.json",
+      "sha256": "59746eb67b827e7062a0d04c489d9f85041bc7875ca544377b185add3b0936cb",
+      "bytes": 65607
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/38aca39d9ec2ef289f1e7d97be25eb38fd5bfda4e9287a7ee50fc7d6850aad8d.meta.json",
+      "sha256": "140532cb2cee7dc4b94ec0e31ed91e149dbd4ea49fc8fd3ef7dab4bada128a25",
+      "bytes": 411
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/3a1a1dd7d799fb260f92a92f89b9dafd77dd3f0efa337b3701a66f5370889c7e.json",
+      "sha256": "6a21af75be8ac62cddb682b31ade1bcbc18ac46ee0b7a01d723e51dd5690c11c",
+      "bytes": 50583
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/3a1a1dd7d799fb260f92a92f89b9dafd77dd3f0efa337b3701a66f5370889c7e.meta.json",
+      "sha256": "fe06521e2d90c9afa489f96fe418a4617d2afd38ef0130aa8fc97f548b130918",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/3a2a15542b76208b9376174edb92773f348d17776a27b26079999d3d25478a12.json",
+      "sha256": "91af15b3defa4199ef2e35734e144d8056cad934cce7532e8309373421e46737",
+      "bytes": 66242
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/3a2a15542b76208b9376174edb92773f348d17776a27b26079999d3d25478a12.meta.json",
+      "sha256": "7b6a9121ce8bff4a89cf75e941f4da31474115f2112bba4b6b883d730a20c907",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/508f83dd328dcaa9ca1eda79345b556a017dd4d56bd37e93d87128ed1ad7ede9.json",
+      "sha256": "8a6a416c224474c1be32ce15cb54fece579553b4e9c5bd29cff75514a2cafbd2",
+      "bytes": 46240
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/508f83dd328dcaa9ca1eda79345b556a017dd4d56bd37e93d87128ed1ad7ede9.meta.json",
+      "sha256": "659ec96280f1bc7bfe3a81033f352345badad93f3f863b780526ad6736b72613",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/5095a5d97158e2a2847d2b1f1edb1090eeb3542a0bfa72c98ee92b7edc027b34.json",
+      "sha256": "1859cfd2a0508dc18ccd5c5b034550913adbea199be63ccb3b44a6d9675d046a",
+      "bytes": 45178
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/5095a5d97158e2a2847d2b1f1edb1090eeb3542a0bfa72c98ee92b7edc027b34.meta.json",
+      "sha256": "0da9614a2e11d5ab8bab25a05ffe650b0cb9c462b1b3ff1d94665cd47f5e8d87",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/58f3608c5610c67b968d6f269d80de03129e1260cd3c53cede1048b8fc7dfd7e.json",
+      "sha256": "58f777bd6430d12989c0a33de63a7d72e6a41421ec48a0bb66e14f5d1fe9fe91",
+      "bytes": 46237
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/58f3608c5610c67b968d6f269d80de03129e1260cd3c53cede1048b8fc7dfd7e.meta.json",
+      "sha256": "6482eeded4ecbc5e7e16173090d4bb40661e537c66d9e883639223ef04492034",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/653ce4f8e329c33771c9ef0d9926a41df5f853bf76d947768c35813ed0d5fef0.json",
+      "sha256": "9bd5c8339011766b274fc1aaf7d510179fdb487c4f413449da846c226ae74324",
+      "bytes": 66016
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/653ce4f8e329c33771c9ef0d9926a41df5f853bf76d947768c35813ed0d5fef0.meta.json",
+      "sha256": "c5c2c9a4d32e8c0b5f8f994581fa2ccea100e88a770300996e09bc69fc8fe645",
+      "bytes": 411
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/6ad48d8357c191604d4e2afefd811bda4fe89dd189c6fa598dc2d2919e28a3ae.json",
+      "sha256": "c92969c6d4108f90292adbca5cfb7105d509718b62311e255e78132d8c4c1977",
+      "bytes": 67281
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/6ad48d8357c191604d4e2afefd811bda4fe89dd189c6fa598dc2d2919e28a3ae.meta.json",
+      "sha256": "3ec05be9b89fa75ee7468ec195326fa2844e2639b0e2781ff5c8d824f28eb876",
+      "bytes": 411
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/6f9fb6ced7c2acec6c854791fb46e7921619545952aee812499be0ab2b143ca5.json",
+      "sha256": "c73b42bc381542a53ee2f00215b08c2b3dee55e37577289bd2f44ff0463365ca",
+      "bytes": 65961
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/6f9fb6ced7c2acec6c854791fb46e7921619545952aee812499be0ab2b143ca5.meta.json",
+      "sha256": "56261f1027729ef6424f7b75a676c84ca638d96b22f8a3305ae7863fb9a0fc8d",
+      "bytes": 411
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/7840e078044dc222b1f1b30cc2b054d5442a55514a3c925b59293309b6f62189.json",
+      "sha256": "e624717d17a4c50968d9658a490d93ceb735ebb89e33f95cd96bfffd9d9bfda7",
+      "bytes": 63685
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/7840e078044dc222b1f1b30cc2b054d5442a55514a3c925b59293309b6f62189.meta.json",
+      "sha256": "4820dab704dfe7a4a0946d7d7ac251c79698fb0994d7ea2ff62eb069bd170d3d",
+      "bytes": 411
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/78562dc26573fd84c758b1a3266a78053cdadccaf3d5ef73c18c426e437de603.json",
+      "sha256": "0889d95d700c578b1a20af1482362700042f5fc5e4eb65732cfcc6baff8d7b47",
+      "bytes": 54039
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/78562dc26573fd84c758b1a3266a78053cdadccaf3d5ef73c18c426e437de603.meta.json",
+      "sha256": "6d974ebd1bf721aeedbced0e7bd243a9c986ad18cd6ff21560883b7f96c51ffc",
+      "bytes": 411
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/7ae849c8b4b7f9eaca0fe72f55bade6d6ddbf4df8e4c2f2f61eba50163f278a0.json",
+      "sha256": "0ac20afa1403a5efc3250322c7dbd15355bbac4532305985369a945a47199af5",
+      "bytes": 69226
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/7ae849c8b4b7f9eaca0fe72f55bade6d6ddbf4df8e4c2f2f61eba50163f278a0.meta.json",
+      "sha256": "553633050ca956770b56105254fa40cc1dfa0f56e548b84afcf2e319bac06ec1",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/8afa0913b4b07d2cc232140aed12ffb14ff19dc6966ed45ba3bc59837576451b.json",
+      "sha256": "8f62dea80f6c4aedba3924983c4ca78a30060a635a0acc4cabc9ea3d2d7f8d96",
+      "bytes": 48145
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/8afa0913b4b07d2cc232140aed12ffb14ff19dc6966ed45ba3bc59837576451b.meta.json",
+      "sha256": "85cc923d457f66dad65c9c47eed4d79ee46738a80cb078d62d77d68150d2fa0d",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/a09e051e6d974f8e3cf72e61e551f5bf5f1cab1c942c6bbaf70a812ead69d849.json",
+      "sha256": "941272197ea7e27439b631cc73caf4a3aa40f8db31c0d2016ba26811fc47efd5",
+      "bytes": 46126
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/a09e051e6d974f8e3cf72e61e551f5bf5f1cab1c942c6bbaf70a812ead69d849.meta.json",
+      "sha256": "5a1c681f8f4c8e489d7ac8c183e509f5a63dc68a8a920fc37a1fabd83dcc90e7",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/a91828717ab97846273aa1f2a5aeed33b49f3e4d86b8ad718568c0948e54fd47.json",
+      "sha256": "615d2fb073734f589c7d5adde3b6877361d73150261b6d89ae9e77c123ce7688",
+      "bytes": 48070
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/a91828717ab97846273aa1f2a5aeed33b49f3e4d86b8ad718568c0948e54fd47.meta.json",
+      "sha256": "d3cfa17cf0e68c142df9190387d3a07bccf8046ff34ce47121b0855720032ffb",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/abc4feb2bf50c2d38559f01cb815972c5a135c1b25c36772ca5b1c2d623c1238.json",
+      "sha256": "78d71a6026c3cbb1ffbd883c6bfa12cc1d210e989dc7fce5aef2a42c9934a33f",
+      "bytes": 66776
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/abc4feb2bf50c2d38559f01cb815972c5a135c1b25c36772ca5b1c2d623c1238.meta.json",
+      "sha256": "2c4cb9f7548c7e579d037aaf3043a4ec7de09e6fbe55c0de0c75f667c1efacaa",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/aee5e17c18f6ab48151ff0cdd090f76e22bb8fe7101259fc66809b8f13da00d8.json",
+      "sha256": "613b097dc77851375952a05435b93f36a7f1c4035b722c2c68ddfcc3a9fd0667",
+      "bytes": 64152
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/aee5e17c18f6ab48151ff0cdd090f76e22bb8fe7101259fc66809b8f13da00d8.meta.json",
+      "sha256": "35cb84de85ca7119cf497521a861cd3dc95aa4c784935942724ff57861fbef49",
+      "bytes": 411
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/b2043d2bc8f874804ddabefbd4e4e474ac22129d9e292bfe4bb7acd201c631d8.json",
+      "sha256": "045ad8a975715e566dbed2864915ba8d74a5f79b30c03502ce672a01271100b8",
+      "bytes": 45464
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/b2043d2bc8f874804ddabefbd4e4e474ac22129d9e292bfe4bb7acd201c631d8.meta.json",
+      "sha256": "f8ae20c1af793313e5a04daa1cf793a3f1bf7285edd3e3569c341cd6fb79cc62",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/bf0c1ccf1ed57683f4cf050255f1161110b7a5fa2251c859fedfa31da58c4094.json",
+      "sha256": "3e6dbc0de1120417f365a667936b7b763a683c582c32bac90a0910d8ac1b98f1",
+      "bytes": 46985
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/bf0c1ccf1ed57683f4cf050255f1161110b7a5fa2251c859fedfa31da58c4094.meta.json",
+      "sha256": "40f0fffbd84988b426cc0461647b858ffe32d637d07fb3c006f03f6aa108496e",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/c0041206cdffbee65c4a0765a862306421a11558dbfbdf8990c2ee2af1583bf5.json",
+      "sha256": "ec9aa3caf694807e8f551749aa242e9fb45ba54cbb0ae286efb92ff071dd8db7",
+      "bytes": 45736
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/c0041206cdffbee65c4a0765a862306421a11558dbfbdf8990c2ee2af1583bf5.meta.json",
+      "sha256": "0818321274955877d7e40cc02a5b41507438c4d1051fa09fc17e7ef10747fde1",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/c7cfcaafc414509f331862f393a897763d7ec4d5dbf21f5650826dfc69acc2d5.json",
+      "sha256": "9135763b2a06001974c9242e497033f8d1e8365b13e2e96f1cbf62dc3d78fcb0",
+      "bytes": 50686
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/c7cfcaafc414509f331862f393a897763d7ec4d5dbf21f5650826dfc69acc2d5.meta.json",
+      "sha256": "0fdd035a58292c6b8e9a4b041d82017a40e5feea7e4846c01f6d4d27b2925943",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/d22a7c46543a66b8dad4e2f08c07c9c55c32c3af657f502cf13695dd0b252fb4.json",
+      "sha256": "e0f209324873f3845b224ac68b23626c90170005daf7ed50741ccb374b6ac4f6",
+      "bytes": 46964
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/d22a7c46543a66b8dad4e2f08c07c9c55c32c3af657f502cf13695dd0b252fb4.meta.json",
+      "sha256": "37c63603fff12fa2b4d483d111662d4cf8f77456d1d01b49d22b9c6c39d1d31d",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/de3da70ef343026d2a0e0baab4ceae614201c853697222d099001710ec557bdf.json",
+      "sha256": "27961298a613b44c52f16f84dd07cab98c698f42f6b103ceeb950962068204ca",
+      "bytes": 45753
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/de3da70ef343026d2a0e0baab4ceae614201c853697222d099001710ec557bdf.meta.json",
+      "sha256": "f64fd19f92d37c8c4141119b749b96a5f22467abbf454cacab79ef284824eabf",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/e47c0a068090a059adde3d6b3c6819c3b5bc2a5042cb7110df97a134b2e47dc4.json",
+      "sha256": "268f258e904581639fd698ff500bffe62a48bf82ac2bd82b14e8f89a9ca615d8",
+      "bytes": 64101
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/e47c0a068090a059adde3d6b3c6819c3b5bc2a5042cb7110df97a134b2e47dc4.meta.json",
+      "sha256": "9b33086748202d551a30a4883514069b6ecac32ec43b7548fd11ca7389f5229e",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/ebf175c4aed7233eddcab07935fb9a5c0d8c083ec89c2c11248c8e6eb570cd6c.json",
+      "sha256": "dedfc921a0c8de88ffca21096654fe511f2e3c4eb00dcc2b3597c63f8e210db4",
+      "bytes": 46945
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/ebf175c4aed7233eddcab07935fb9a5c0d8c083ec89c2c11248c8e6eb570cd6c.meta.json",
+      "sha256": "5641eb62f85bc1a8210920912ae29279a2a137df373f39ebae6a8551c1455bca",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/ec5e8e13ca80ab74e484bede875a841b21b4a2dc21a276ae7ad7a75b8ef3e894.json",
+      "sha256": "abd3c88c1df85788949b88a367bca8ec49c7286b42a7c7dd70ac03b02f22b118",
+      "bytes": 45229
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/ec5e8e13ca80ab74e484bede875a841b21b4a2dc21a276ae7ad7a75b8ef3e894.meta.json",
+      "sha256": "e716d71d351c2c7b83fc895e95fc35f346d54dd77e097126dcd567f96b8393a0",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/f8445253d95e0a6eb46ec328a2a8514946a6c41ff252b7bd507ede4aa3b79643.json",
+      "sha256": "2a21d2a2d534a5e52f767bf964c9d5d85786ac80aca33d20e66922e707969b50",
+      "bytes": 26537
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/f8445253d95e0a6eb46ec328a2a8514946a6c41ff252b7bd507ede4aa3b79643.meta.json",
+      "sha256": "45d178c66e91e0f386cd57af7848f61f6807a79f3d724d03aec1df9791b48835",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/fbe450b4089019e5ab556c5e2af0b69e31f1c684ea2a0a321549d2b9b977c243.json",
+      "sha256": "bbefdea9ebb678a1b50ba01e0f1ec51e634cc04710a68b06647b132a992a891b",
+      "bytes": 63568
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/fbe450b4089019e5ab556c5e2af0b69e31f1c684ea2a0a321549d2b9b977c243.meta.json",
+      "sha256": "cdedf8091bf69783a365aee985fc6ccf608627dd3990aafe207e576db81b60ac",
+      "bytes": 411
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/fc3ac9795555ade1367a2509da6748ac596dd2f260120d9088dc4744eb6ab984.json",
+      "sha256": "84432f6ce6d16437c4068baf701d526f06a4c197df20c69c056197c33379e4e2",
+      "bytes": 51069
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.divinopolis.mg.leg.br/fc3ac9795555ade1367a2509da6748ac596dd2f260120d9088dc4744eb6ab984.meta.json",
+      "sha256": "89760687374d12afc64651936a6d987ac9f9a0bba1268eaf7678d17d08b2bc03",
+      "bytes": 413
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/07fe609fb4b24618ddcccb7910b04a6de8627926378e09998861ea9022bb5991.json",
+      "sha256": "909aac08b2fe99fc0d119f2b84a09f8f13877bc634ec24b00abd41abb778af13",
+      "bytes": 947
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/07fe609fb4b24618ddcccb7910b04a6de8627926378e09998861ea9022bb5991.meta.json",
+      "sha256": "a0b97532653d63dab06a0581c3d1e2cb334267a9efa07597714824da9f593537",
+      "bytes": 355
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/1b596575a931d36fea3ff8b07fb5ef01e9d6dde40b2b0735e765e7202c0e8064.json",
+      "sha256": "14d9cea7196d46b2b5a7e979a051e9fdfb72f26bce82495fff46a5f886d6cf7f",
+      "bytes": 1141
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/1b596575a931d36fea3ff8b07fb5ef01e9d6dde40b2b0735e765e7202c0e8064.meta.json",
+      "sha256": "b90dc3a1e9f87f05fb0c55b47d31bba9510eeebfb0b2fed060a15c50ac0e6f2b",
+      "bytes": 356
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/43cc6d4fe3d3cfdbc939c308bf3729c1503c0ade09d6b0eb5d5bfc880ddbe359.json",
+      "sha256": "40cb1a85f4ffac28dcf4a232d521f5180cfcaa545983aadb642ae84bdb81e8e3",
+      "bytes": 649
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/43cc6d4fe3d3cfdbc939c308bf3729c1503c0ade09d6b0eb5d5bfc880ddbe359.meta.json",
+      "sha256": "146b0eedc3faa6c5a30ea28a8f96af9dcf639e3b76ed6b96f16bb27bd63814f8",
+      "bytes": 401
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/4b8cc5e78175c9060480e6a5eba2f820d44038095a1d5ead770359bba948fd90.json",
+      "sha256": "23715430f66ea20781e60a57c00fd0d82cec7f2f0b552644b3b7bc3109c4c288",
+      "bytes": 1030
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/4b8cc5e78175c9060480e6a5eba2f820d44038095a1d5ead770359bba948fd90.meta.json",
+      "sha256": "50c6579451b182722b5f65d535f21e6717db0ef597c4e6280423768a05ddd66e",
+      "bytes": 356
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/533436a38dac08c6a95088383b94b3217d01c9e533cfef4f5b76833c5e719101.html",
+      "sha256": "67e0770cada6e19f8f0f636fa22fd7f8bcab5a62f46d1fd26cd9d779e576f48c",
+      "bytes": 33169
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/533436a38dac08c6a95088383b94b3217d01c9e533cfef4f5b76833c5e719101.meta.json",
+      "sha256": "0710adad6fb0ec21eff2aa73476ac8280b1febde202c359629784ccd4a664def",
+      "bytes": 329
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/625498a0a1c4361f456f09860c5a65da53dca8cfead64a2a94f741d22afbbf70.json",
+      "sha256": "346458b38b8a0d54fa43ed02b833d0da8aaf893826ebe45de7681f8c72130329",
+      "bytes": 1029
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/625498a0a1c4361f456f09860c5a65da53dca8cfead64a2a94f741d22afbbf70.meta.json",
+      "sha256": "e4339dca7521737cb05f66a560035dc4e3fa36f929bb704e75969eff1653f7ab",
+      "bytes": 356
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/b9f434ec0466c9a9d5d07b9b499d8c1f84e4d1023d8339fd8c48dc1e5e2adab1.json",
+      "sha256": "d43c57bcbfeb54d5c904988c51b864c7c5dac8d49206dd809de6a40e8ca8ac10",
+      "bytes": 18107
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/b9f434ec0466c9a9d5d07b9b499d8c1f84e4d1023d8339fd8c48dc1e5e2adab1.meta.json",
+      "sha256": "59ac63150cfc081d0b9bc5be0bc0770ec16d7536ab2ac2efc0e920be8af77e2c",
+      "bytes": 407
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/c30f4f3172aec282e1677144df503d7aa02451e22cdadbc7183d0bd2c5e94477.html",
+      "sha256": "5f81ac91441aac40d706ea3ae28943c877c453d7b425c10b98042e7527d2f741",
+      "bytes": 36477
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/c30f4f3172aec282e1677144df503d7aa02451e22cdadbc7183d0bd2c5e94477.meta.json",
+      "sha256": "c923212567aef73e1157c88e987bcc800314e107dcb0f915fff1b01148c2e125",
+      "bytes": 329
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/c93192a5e149dba3f3dfcf7d3e4c440fe1afacfbd4b8d4a976280f4e5a6d2885.html",
+      "sha256": "b171ca3bc18d512d0e2e7c77da45ef1891b103e83c8015d535e2bf8f8e54edbc",
+      "bytes": 36977
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/c93192a5e149dba3f3dfcf7d3e4c440fe1afacfbd4b8d4a976280f4e5a6d2885.meta.json",
+      "sha256": "d28e7418a4c9ecc41a0b199d6cfd66c74236b8c1d5efbf4a87bac2d2921f3207",
+      "bytes": 329
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/f00e307dea0daa507ef2af243f037dbcd9d184cd38306cc839176e8623005a2e.json",
+      "sha256": "a47bdb2c1b2dd94c35e59f681406570360d4c84afdcd50156e274e7448adea18",
+      "bytes": 761
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/f00e307dea0daa507ef2af243f037dbcd9d184cd38306cc839176e8623005a2e.meta.json",
+      "sha256": "37f816e1fd1f5b0edf83774e2e52311927fc9c99e67ea19b53f6b133f33d226e",
+      "bytes": 351
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/f72367f5aa114607ce3a2a9fa79d2605689a0a71ba055eac754ebc0c9e8ccf19.html",
+      "sha256": "9f213836a5d976d0b8276dbd9c52a388805c0a64bb5c7a6bf63e043e576231db",
+      "bytes": 36404
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.durande.mg.leg.br/f72367f5aa114607ce3a2a9fa79d2605689a0a71ba055eac754ebc0c9e8ccf19.meta.json",
+      "sha256": "278f9d266185a8052274ce50b17de7ead9cd6bc8968dc97d0671168b98022d7b",
+      "bytes": 329
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.embuguacu.sp.leg.br/25433c364cceea928d5b489e596f8c1a80bbeeec28ceccf5b45113743bacfcbb.json",
+      "sha256": "69f4491767871f18880e463961db67b2cc595f694f6f8b47ebaae7918feebd9e",
+      "bytes": 52689
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.embuguacu.sp.leg.br/25433c364cceea928d5b489e596f8c1a80bbeeec28ceccf5b45113743bacfcbb.meta.json",
+      "sha256": "ce9479e228b28f1987ec9be81e65d8b83c089eabebb99658a722665e8bd8b6ea",
+      "bytes": 407
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.embuguacu.sp.leg.br/fb223e1fe5066954a80a5778550636a481d4b78ac9f499e5a9d00a4ef84eecdb.json",
+      "sha256": "f189e0f83d5ed4ddf56f2c10801575ed1b71f2c31869e028d3d5c18fcd5e1851",
+      "bytes": 11274
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.embuguacu.sp.leg.br/fb223e1fe5066954a80a5778550636a481d4b78ac9f499e5a9d00a4ef84eecdb.meta.json",
+      "sha256": "f7882de306e6d682894ce76e8f445932610e0ba4b6375f029f4d97cad784686a",
+      "bytes": 407
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/376ae12b715fd830bf2388993b95b8ffc609855508c38079f03777c3f1d6e063.json",
+      "sha256": "8d9872ab532af3e6f4940769c9f4681c932798f8aef5457efee810e161bc5396",
+      "bytes": 11522
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/376ae12b715fd830bf2388993b95b8ffc609855508c38079f03777c3f1d6e063.meta.json",
+      "sha256": "ca9b24b1ecdeab8f21b2e94118fd0c7d8686f23399da579968627afc2a6815b4",
+      "bytes": 468
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/ad4453e5d568e882a43590ef8e88026c8ac31fb39bd418d0d180a00298894562.json",
+      "sha256": "7a0ed30eca5aaf5fb0670fb39d3f4e5c5afd4003ddad929fcb4615e77b6cde97",
+      "bytes": 907
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/ad4453e5d568e882a43590ef8e88026c8ac31fb39bd418d0d180a00298894562.meta.json",
+      "sha256": "32745fd7e8e704c31a3bbdaebda604c2460fa2e0a7cf54989e047f928e22e31a",
+      "bytes": 385
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/c49d0242c0f029d933d38434f8334e51b6d356429928f633b6fdcbefc1cfac3f.html",
+      "sha256": "d1ccd0fd20369080f3571bfd50b8f5a25a48d86702101c3b7bb1fbf755634c06",
+      "bytes": 19736
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/c49d0242c0f029d933d38434f8334e51b6d356429928f633b6fdcbefc1cfac3f.meta.json",
+      "sha256": "6de900fa5fbbf2903c1f4a092475fe07508bebd212130457dc50941311e008e7",
+      "bytes": 367
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/d1c6ebd8050a76b0a13ecf6913555dac50531029e8cebcbf112527d3dac08573.json",
+      "sha256": "7a20c2fcabf92f9b8d7725d09059c07346d699668e749e3159459a84da5c8829",
+      "bytes": 891
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/d1c6ebd8050a76b0a13ecf6913555dac50531029e8cebcbf112527d3dac08573.meta.json",
+      "sha256": "8132aad5d2108819a1ca59deb7e8c5a2d1ee871d2cea18732d50cb54ae01ad60",
+      "bytes": 393
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/db42838eac32c504e876c7b863530f0d674444755901037950b938c724b5c466.json",
+      "sha256": "22d2759557cd740076c89533c0f3dafa00ad006a4203ac0301f805225148ba34",
+      "bytes": 86861
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.engenheiropaulodefrontin.rj.leg.br/db42838eac32c504e876c7b863530f0d674444755901037950b938c724b5c466.meta.json",
+      "sha256": "44f49cd9837839e1b60f2c02fc299187e0f9fd08f9bf3ea7797b259e718877cf",
+      "bytes": 441
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/18f69bb7dfa943048fa238c74c5506eef568d18b60cc31e6f4713384d6ad940c.json",
+      "sha256": "968b6e84728179b887cf82cee80c6b861c263a9d8649d8d6626ee8168e88e8f9",
+      "bytes": 988
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/18f69bb7dfa943048fa238c74c5506eef568d18b60cc31e6f4713384d6ad940c.meta.json",
+      "sha256": "26cda9d5cb4485c3edf354b4d679e7034bacfd3b38a97e4e041dd7f980b9ebed",
+      "bytes": 367
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/29240b3a9a4d7f2138841cfff489839bc9e67031ecf8d9a0024c4a0eb785de50.html",
+      "sha256": "24c71c3a2bc99d39a60baa9c14fc93abf47ac6344ea4b5984603952c89b73ce4",
+      "bytes": 48177
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/29240b3a9a4d7f2138841cfff489839bc9e67031ecf8d9a0024c4a0eb785de50.meta.json",
+      "sha256": "4719b000ff892e9e0983fa12aed0dcb991bd9a91900c2dd5aea6f1a7966d432e",
+      "bytes": 339
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/3b3965594f7314c4615cabd673cf97a0f0290e13ebc71a2e949d48c6b58ef393.json",
+      "sha256": "3e693b0be8761a467fd6a294e30f0c80974c4f3a3d33474ade80f6bfea514478",
+      "bytes": 1001
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/3b3965594f7314c4615cabd673cf97a0f0290e13ebc71a2e949d48c6b58ef393.meta.json",
+      "sha256": "4621e5d0e99a9bb39efc5db6cf537faf694b776dbb58494c4d3fb2e0966b3f98",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/68560f4e687698812c7ab6dfdf73b83654b22666526688f5e92a6ff1ca0d1f63.json",
+      "sha256": "413d238d339d55b9661b949742e84faf08bde03264ccc85f4ecd39bff1677391",
+      "bytes": 1040
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/68560f4e687698812c7ab6dfdf73b83654b22666526688f5e92a6ff1ca0d1f63.meta.json",
+      "sha256": "c107121d9165df261fb0cc492fd1a2567865942d46c9c3fc32ac0d86a29ced56",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/77b89bea5f8265b75a4695a720b41402d3bcf193dc4ae158a8ce1997c12ceadb.json",
+      "sha256": "a4638fc41a0eddcbe1f982e1da8120b13f2aed111f9bf0279c8baaf2454f9070",
+      "bytes": 1115
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/77b89bea5f8265b75a4695a720b41402d3bcf193dc4ae158a8ce1997c12ceadb.meta.json",
+      "sha256": "e25dc1e518a33b9676c98bbaa7fba047f47fbd52c97107d1b4b861601a89d5ce",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/7a1eadf1bacfa85d1da59e1348895604f661716ce1b947edbaa3174c0b7ffdf2.html",
+      "sha256": "705f047590f632355f55de9ad845ef6002860c11beba21b54638b92df0ec973a",
+      "bytes": 21537
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/7a1eadf1bacfa85d1da59e1348895604f661716ce1b947edbaa3174c0b7ffdf2.meta.json",
+      "sha256": "c78d635a76d1b3097f2a03ea87a7062ead774926416873ae8c5551a1e1cb0dd7",
+      "bytes": 339
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/9bfab7372e955a886152e8600c320327935b831733eaf5397002ed2b8e552860.html",
+      "sha256": "13025efc2ff147cabf816cf682f2d797afb93d25658c202e3c3ecea17e5440b4",
+      "bytes": 20295
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/9bfab7372e955a886152e8600c320327935b831733eaf5397002ed2b8e552860.meta.json",
+      "sha256": "3d2f912f2b95bd8857e2400f6df660ff2f99a2c976056d0927ca58dd39b6978e",
+      "bytes": 339
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/a0d2b45b5584b9818521d4039ad09f24fde6ce29be5ddb8bc8a5f8be9f8c8e6f.html",
+      "sha256": "bdf897de7143b95a9e8447004f7c0cb92217c48498a30d74a13059583d995159",
+      "bytes": 20895
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/a0d2b45b5584b9818521d4039ad09f24fde6ce29be5ddb8bc8a5f8be9f8c8e6f.meta.json",
+      "sha256": "353030942a010c4535e912ae0089ed5df90e1c057d837dfcb7ad7e186bb832ed",
+      "bytes": 338
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/bf31014e0f859ed5146667a374250b5016175f23002c909590c209a913d39f26.html",
+      "sha256": "9cac6da22f2fe07b37db88814e5b37b162c0d6a3704bbba3077c5a9fdb4738ce",
+      "bytes": 21562
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/bf31014e0f859ed5146667a374250b5016175f23002c909590c209a913d39f26.meta.json",
+      "sha256": "a27fdaed881a9959a09e21521af1b4a652fe8512c15f7dc8a12e5dec9065e12e",
+      "bytes": 339
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/d86195172f1eabde9f572872785b3f031247ef1e82fef8b0b25a46950f62046e.json",
+      "sha256": "dd16c2f64637646f268fc0ff4bef1134bc585915692a33e05689c41fdcdbcd3a",
+      "bytes": 791
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/d86195172f1eabde9f572872785b3f031247ef1e82fef8b0b25a46950f62046e.meta.json",
+      "sha256": "72ce4ff6e7a34e4fc7d2ce6a55bf84aef6ee28f4126bf0b4dbecd0ca3fa673ab",
+      "bytes": 359
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/e2677048421229b8325a24095b1d418901762c28fbb86fac6f3dfd6338fdb270.json",
+      "sha256": "d4c8f60cb3215eb65b9da913cb89bc58ec9e7ba3bb3c21966215f4956ecb603b",
+      "bytes": 1057
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/e2677048421229b8325a24095b1d418901762c28fbb86fac6f3dfd6338fdb270.meta.json",
+      "sha256": "7565c3a44e4da1694f01fa6ca458a6d69865d457603670b6ce38e5ae45b75895",
+      "bytes": 368
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/e2799482a08853e84c6ee5821a50126655653defb53c1688d7a44ff3b0a1ce15.json",
+      "sha256": "c281b3516cc764d39d711d6d1764cb889f92ec3fcf485f74a8b30ac333ba6f6b",
+      "bytes": 26415
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/e2799482a08853e84c6ee5821a50126655653defb53c1688d7a44ff3b0a1ce15.meta.json",
+      "sha256": "5750f3fec11fbda0db9a0589926d181bec546a9c1a3b4608fd4b6e960a60e702",
+      "bytes": 415
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/ee1c6bb9bd37288f2ea596eb141ea22a19779c3c6e9f840bfd7e15b614652734.json",
+      "sha256": "2b7b1ee005a14f63177061ec119aceb981d1d60ed73d88dee61e53fc1117513f",
+      "bytes": 1296
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.esperafeliz.mg.leg.br/ee1c6bb9bd37288f2ea596eb141ea22a19779c3c6e9f840bfd7e15b614652734.meta.json",
+      "sha256": "16a5ac60dd75162c9be7634e7a6851d429374bc05efa8cb2eb4227b5f3a1f395",
+      "bytes": 442
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/0137197902e669fa6477963489911e20c737978a690c6e15fb1b712cb17d16fe.json",
+      "sha256": "2930c8eae7a38d6dc2f92f5e5ef0f0474b75f18fd3225694f88e1ae2bb7ae0ff",
+      "bytes": 763
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/0137197902e669fa6477963489911e20c737978a690c6e15fb1b712cb17d16fe.meta.json",
+      "sha256": "976450aad0940421d6df8dc599a6452406a4f360b0517cfa4c84580b9306510b",
+      "bytes": 351
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/12f1f1ec9a6101af9a0bff65d112ce14759d05446003143352b52ea3236bd811.json",
+      "sha256": "0c0efa4bdd67e699aff27d43a666654affc817d3dbe7137c638fe09c7f3dcea3",
+      "bytes": 45779
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/12f1f1ec9a6101af9a0bff65d112ce14759d05446003143352b52ea3236bd811.meta.json",
+      "sha256": "63cb0a664a454d5dbe4116a5ec3dcefc06eeccffd89df8fd950ad955538a3005",
+      "bytes": 407
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/262581d3d531fbaec5ddc6e6e2d03388348943bfb47cfae8f4b33d6d3352d8d9.json",
+      "sha256": "0f4744e921212909c949d712c5e359faa1ddd336a5a03088a2edcf439de056e2",
+      "bytes": 906
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/262581d3d531fbaec5ddc6e6e2d03388348943bfb47cfae8f4b33d6d3352d8d9.meta.json",
+      "sha256": "f78853456ef89b0433d1900ddf04ad36dafd49a0a1f8965a553c0bc2375de2f0",
+      "bytes": 359
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/28baf0fbd55cf0a571d01280e7d92be18a01c7377e361d847f2c97770b46a1e8.json",
+      "sha256": "099f0c426fb759298e18b494dfa87a06e0d7b646ab1d3deb019911cf4156079f",
+      "bytes": 864
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/28baf0fbd55cf0a571d01280e7d92be18a01c7377e361d847f2c97770b46a1e8.meta.json",
+      "sha256": "3e4b55be27e2888c129c7ee0c56b7b79fbe22a91ada91b60f0999aa17c9c05a8",
+      "bytes": 359
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/3cf506bf507266c8d029eb96e1396e1693e69cab3e26212a026f26309051c5d6.json",
+      "sha256": "b7312e902f708b73a6580a983ec9babd500e6d35804910eb36e1f7cd7dd70e4e",
+      "bytes": 953
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/3cf506bf507266c8d029eb96e1396e1693e69cab3e26212a026f26309051c5d6.meta.json",
+      "sha256": "486aaea9281dbd93ca46bee78212efb1de7f5da15754df414a695c0ff4b5c6f7",
+      "bytes": 359
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/4040b2a64d16a40e8679cb808455f010c6ad7cca37c8eaa085864a12c07b37fd.html",
+      "sha256": "997ca2be132f6911971b1bdbfd37b5aa987795f4abca23f541dc843f5e2622b5",
+      "bytes": 21224
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/4040b2a64d16a40e8679cb808455f010c6ad7cca37c8eaa085864a12c07b37fd.meta.json",
+      "sha256": "faeafaf48e23b8cfd22136ba25f126705cd1fb15626650d28f17560373e3decc",
+      "bytes": 331
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/41b202030a3d53bf24f39adea5cca79084b22237c954dd7c0ac4ebd43afce221.json",
+      "sha256": "a0d0fc19f5658ae471beb3416327dcf7cf004aaf796bd16410bf2a3f7d301704",
+      "bytes": 889
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/41b202030a3d53bf24f39adea5cca79084b22237c954dd7c0ac4ebd43afce221.meta.json",
+      "sha256": "d585737933675509988913456789d22889476c0c2b200c009c56e27aec00b58b",
+      "bytes": 359
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/44583b07f21fdaf944b26336db333de0a299711eb442f34b049af8927ba597c6.json",
+      "sha256": "e52bb6bf4cb08d61c6fa9dd5bb5e67f27a6ba123e48dd2442ca820123c57e7d0",
+      "bytes": 1415
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/44583b07f21fdaf944b26336db333de0a299711eb442f34b049af8927ba597c6.meta.json",
+      "sha256": "8843ffd12424e6b615ba965bdf28492d64fda68a8970a0556e92bebd7894347c",
+      "bytes": 434
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/465d02ee61b88f2260cdfef6c8c0350d5a20d1ac72e98cbe0fff04289eae6743.json",
+      "sha256": "d015e2e525073dadd829b1c5459e837042a891afea4ed62db3734530095bd115",
+      "bytes": 1000
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/465d02ee61b88f2260cdfef6c8c0350d5a20d1ac72e98cbe0fff04289eae6743.meta.json",
+      "sha256": "942d90a2683e1ca04e67ca199b1e970bd1076347910c0aa092038aa9c75857b4",
+      "bytes": 358
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/4dfd5abd2ccf76bc4b9224590bb0f4727b038edb93c31f7f6a660d941d12f168.html",
+      "sha256": "b68db571292fbc08b74ff5190a910009300c6d21c5ffa39782bf2d891d77ad32",
+      "bytes": 19654
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/4dfd5abd2ccf76bc4b9224590bb0f4727b038edb93c31f7f6a660d941d12f168.meta.json",
+      "sha256": "7654fb3e9d052d90eefb13b8ec5c548d89d11de64bf7d558cc20b6a0093820d4",
+      "bytes": 330
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/58463244c80840ae4c6d5213f1ddcd0ae28d1beb5d23b7b7a37fbc89d5323e56.json",
+      "sha256": "7e77b6194e7e30604116400b566e020aaa3815cd6a0bbe24d92c99604150fd56",
+      "bytes": 805
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/58463244c80840ae4c6d5213f1ddcd0ae28d1beb5d23b7b7a37fbc89d5323e56.meta.json",
+      "sha256": "8ddb17c47875b76e79047757270bb2f1f3fce0964dd548966084c2f73f316ad7",
+      "bytes": 359
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/5ab1a98a289c5ffd1649cf0ca6b612bb53fed319801ab6f1fa6fbd93a2889d10.html",
+      "sha256": "69da46227a35499fb2d3df1d265251582ec0f804cadcef95f8b83536f29959a5",
+      "bytes": 23729
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/5ab1a98a289c5ffd1649cf0ca6b612bb53fed319801ab6f1fa6fbd93a2889d10.meta.json",
+      "sha256": "719d9106de90364aa109350d0b7b7c7b129a97c0f1114cc823d7e59724202370",
+      "bytes": 330
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/9a299d7193d5979ff26eabe8892e4551491e2c7123f221906f2102a104027ffa.json",
+      "sha256": "87e749fbec7481c9c2259636dc6e840b81e6a15699bea3129136a3c709762de6",
+      "bytes": 866
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/9a299d7193d5979ff26eabe8892e4551491e2c7123f221906f2102a104027ffa.meta.json",
+      "sha256": "9b29217a68f8496882b31e3ffd3d009b71249685e3802db53ee5344489ee6af8",
+      "bytes": 359
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/a5becd805d1f4b3bbc098070bc73b09e6c163773378845aa3d9ed288c5972f31.html",
+      "sha256": "a4e80d67ed93e3bd677ae46d4c417360068d84dbcb6b6c3a9bef423aad21428e",
+      "bytes": 20109
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/a5becd805d1f4b3bbc098070bc73b09e6c163773378845aa3d9ed288c5972f31.meta.json",
+      "sha256": "f53e3ad90f00d31f13d4a68b758e7734769457726527839241c114acb6d3911a",
+      "bytes": 330
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/bae6fb59835d5f3ef9f43825eaaef683b9a427ba170d50a32d10c01ef4abd8a9.html",
+      "sha256": "6c4309002e40a0706c61ae1682f37f8f9b9d15872670639acebf53258ad1d9d3",
+      "bytes": 19759
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/bae6fb59835d5f3ef9f43825eaaef683b9a427ba170d50a32d10c01ef4abd8a9.meta.json",
+      "sha256": "24063badd08abd144b24d7ed89e240a0b95e7f64a68ee4551deabae6ce8647d6",
+      "bytes": 331
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/ef89118ccce9d3533e129adfff19864c0783cc9527b36f0889728c13e7922ba6.html",
+      "sha256": "d6003c5f9f4676f3dc15cd30bca946734a7ae5a8f5042f726667f410164748a3",
+      "bytes": 22255
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/ef89118ccce9d3533e129adfff19864c0783cc9527b36f0889728c13e7922ba6.meta.json",
+      "sha256": "c31edf8cd4aed40521a0d62e22b0f6c43dc0cfcf75712105bc09cde4f379903f",
+      "bytes": 330
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/f1b082ea32e5be68a260c37047c99670502025093f2c83c08d272fdeb8e1b1ab.html",
+      "sha256": "ff8b609bc0dc5671d55d622df1388045ac82941bf7ea3b1aed8b6cd0a6ac81b9",
+      "bytes": 23476
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/f1b082ea32e5be68a260c37047c99670502025093f2c83c08d272fdeb8e1b1ab.meta.json",
+      "sha256": "c72e524a635168291e1e44851addf62ad5bee36ce5790d01bee68d8ad9191d30",
+      "bytes": 330
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/f209b3c9afd3b93d5ab56319bc136cb2ebd68ceb943f9d575e6953c2b153ad3e.html",
+      "sha256": "d1dfe731504039aacb5fad843043b63dbf6bdf4919f0d946b941505e008f7d84",
+      "bytes": 20083
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/f209b3c9afd3b93d5ab56319bc136cb2ebd68ceb943f9d575e6953c2b153ad3e.meta.json",
+      "sha256": "2aa24cbe324f32a62f8d3ddb17aac9eb33b0b86dae97e9ff6c1d027dadc2b044",
+      "bytes": 330
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/fba0af1860b058bf28c8b8e93fc1e7a0501544dda10ca3700401dd68420442d6.json",
+      "sha256": "e262592c19098a3ba48d7f12029697d5115160fb70802b535698443654932ed6",
+      "bytes": 859
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.eusebio.ce.leg.br/fba0af1860b058bf28c8b8e93fc1e7a0501544dda10ca3700401dd68420442d6.meta.json",
+      "sha256": "6e53061e45264b602360d09746c1dfc17b9f8d91a2d8116c819f8797d5dded6c",
+      "bytes": 359
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/18f967947d1332b1dc9f0e23cf65edb4a154a68d5fdb904ea0bb8f56d0efb32d.json",
+      "sha256": "1122e9c1df397e2ff8b5b09316ce264fa2629f80171740c14face5c1c053ec72",
+      "bytes": 750
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/18f967947d1332b1dc9f0e23cf65edb4a154a68d5fdb904ea0bb8f56d0efb32d.meta.json",
+      "sha256": "215765e39ee1ed4b9317ae53f2eee41060e09eff6f3f992ef0e095f54016fa72",
+      "bytes": 355
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/24d9a687ea59a08b2d1ad272b1ab2c43d988f05b993d94810bbad86229bbf6d0.html",
+      "sha256": "ed51163143a6f8e00d1890a9f0d6d30390c15bac0820e052bc9c313852eba396",
+      "bytes": 20598
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/24d9a687ea59a08b2d1ad272b1ab2c43d988f05b993d94810bbad86229bbf6d0.meta.json",
+      "sha256": "13a5cbc922058102c8249e5fb2fd1f2b3161268f1c212eae7846006bb7f78bba",
+      "bytes": 326
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/282ddc75f96f478b5eefd5e83acbdf139a0d67f35861a609ad5f14e3fcca5eb5.html",
+      "sha256": "628a548b5ee07ff1660a9a6c78aa378e01ba6ded57ca6af4829318d138d3656c",
+      "bytes": 21687
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/282ddc75f96f478b5eefd5e83acbdf139a0d67f35861a609ad5f14e3fcca5eb5.meta.json",
+      "sha256": "1d7b617e644df443e5d33a265c7012ad3a9dc6d6b8e65f96b5287fe14c25ef18",
+      "bytes": 326
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/2ac689cc9009a244657f4c91b05c54aafc4e5a3e724fda5f1d036f66ae09ff53.json",
+      "sha256": "fb99aac1cd0b33c10b8252b1562d5252cc402905ba75771fe4ac72b3e712f5a4",
+      "bytes": 911
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/2ac689cc9009a244657f4c91b05c54aafc4e5a3e724fda5f1d036f66ae09ff53.meta.json",
+      "sha256": "992d9a44ddb5e40391644eb2f03f5ac719160b2b7d76b90ad107744955e608d4",
+      "bytes": 353
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/45f2e19353412d9ab009fbe098db1fb8eb2fbd907d15ee92d8271fe721a6216b.html",
+      "sha256": "9b68bf41a6a789fe1ed3c741b5d290ae1af921e78d478b70df8e5ad9bf60f024",
+      "bytes": 20863
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/45f2e19353412d9ab009fbe098db1fb8eb2fbd907d15ee92d8271fe721a6216b.meta.json",
+      "sha256": "04d2bf3aad2bd816860f479e84ad8fbd952de523d3a452d8fbbd33056caa661d",
+      "bytes": 326
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/462532da43dd29612ecd8620be91ab406490f6a93a2e7f74653dde52b1043f23.html",
+      "sha256": "7fa888bdeace90f8e6b9ee3bf833cb24c22cb046b7e805541dd8e001b3b521aa",
+      "bytes": 25259
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/462532da43dd29612ecd8620be91ab406490f6a93a2e7f74653dde52b1043f23.meta.json",
+      "sha256": "bb3c2657eeca05ab61810b0d01cd1ea94567700f73dee0178023e4fe800dbec7",
+      "bytes": 328
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/4e655b585b87b6699f48103fff05d2f49205be8315bb19da787e988d75460ea8.html",
+      "sha256": "59e48c83aa57745be3294e8e063b45e01266983f411a7e39fe66fb372a130f45",
+      "bytes": 20869
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/4e655b585b87b6699f48103fff05d2f49205be8315bb19da787e988d75460ea8.meta.json",
+      "sha256": "af4429c1b47e199560c078f9334e114ce53c619af8d59d8391224af53b04240a",
+      "bytes": 326
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/50e718ef264f181a9ab0da328b4599a2f2eb35e2c0f80bfec0c7e103f4d03b93.json",
+      "sha256": "3b1ea1ea77d893c69423866f939d95e85f50c8c77db6a61328f2a2087e476d7b",
+      "bytes": 897
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/50e718ef264f181a9ab0da328b4599a2f2eb35e2c0f80bfec0c7e103f4d03b93.meta.json",
+      "sha256": "54ae09093f8f0b68f80041c6c2ea992c272dfbe5c1e3e894f21504cea02126a3",
+      "bytes": 353
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/54a3d2246512264155856b3fbbd1cb0c4787c92f64dc780dcbd937cad7ba7b9e.html",
+      "sha256": "9d67b5bbe6700b07397d64bcdda46278c4fa989260bf42f79764d8eecdbb8d09",
+      "bytes": 57270
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/54a3d2246512264155856b3fbbd1cb0c4787c92f64dc780dcbd937cad7ba7b9e.meta.json",
+      "sha256": "19f3d3211d9f34f50cd3eac7ede3f5eedbbe8f75760e06982c9e0db28bd76b8f",
+      "bytes": 327
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/55191a929fa30bf26f67a8725dce5034c1f94d2d686397fb36ba9ecacf0b7249.json",
+      "sha256": "828cf6df5ae192a5c7b8a775a988ec4cd6b69721df63e201779268bdfbebd22e",
+      "bytes": 879
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/55191a929fa30bf26f67a8725dce5034c1f94d2d686397fb36ba9ecacf0b7249.meta.json",
+      "sha256": "a8cc93a6acb4a85fed23973a8baffe05747311bbf8dfbbce7fcd766e1d6fbe87",
+      "bytes": 353
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/55f707e4b1cca2119d8c94162a330f7236c66fd8432657bd893338a7a1611ee4.json",
+      "sha256": "666ca0eea6f26ae9f6502ae0b5c1f20b703d30ca090e9c16e1f975de4e32986f",
+      "bytes": 918
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/55f707e4b1cca2119d8c94162a330f7236c66fd8432657bd893338a7a1611ee4.meta.json",
+      "sha256": "c6a729c0040d9052add3f0d1f82dd9f0d92c8d57dfb4da412a1c4a83bafa734e",
+      "bytes": 353
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/5df6ee197f50c2ef5843ffc1cacd059adbfc5c5df14e4114ba1b79d7d93ce0b7.json",
+      "sha256": "a52db872785cab20304bce18c8797436489d59a18975d2b45cca4dcb51c49f83",
+      "bytes": 894
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/5df6ee197f50c2ef5843ffc1cacd059adbfc5c5df14e4114ba1b79d7d93ce0b7.meta.json",
+      "sha256": "93e40f994a77200018a84b3e3cfef189ff924372e16aef66b2fbbd79250083a4",
+      "bytes": 355
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/6b630c6e933c4979b8e18c038e841e6daf9be21f8206ab4cb67d08753e235133.json",
+      "sha256": "7e48538d10465d3e4d1af8b3df4293025fba0017c4f7e8487b014dbedd327433",
+      "bytes": 845
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/6b630c6e933c4979b8e18c038e841e6daf9be21f8206ab4cb67d08753e235133.meta.json",
+      "sha256": "5126cec16feb80ef064f722e87152ce907095d17d4e037c216104cbaab5a092f",
+      "bytes": 355
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/73eaf414d594df62b21088730bbdd87be5356dc22134cff9d891d85d5b9a6b6b.json",
+      "sha256": "7660e6f6b852a9277aa0f1ea5ede636bd8e3cb31ba363b63c65001df61ae78bc",
+      "bytes": 59398
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/73eaf414d594df62b21088730bbdd87be5356dc22134cff9d891d85d5b9a6b6b.meta.json",
+      "sha256": "6cc02220244bbe9800c3275cf7d2fb89e20dd3f6de8e0cf6f40714fb0737eee5",
+      "bytes": 403
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/8260f5143bc34a2dc3138b6a50adbaa75008e6036bcc42d979c3145c887c4b70.html",
+      "sha256": "896915497f4cb9fb09455feba6d4ec5adff4026d8f94678f7305c9b6e474ee3c",
+      "bytes": 19464
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/8260f5143bc34a2dc3138b6a50adbaa75008e6036bcc42d979c3145c887c4b70.meta.json",
+      "sha256": "14be2885ed544be6f9b5df6ced369f0164087a85a8aedcc8fb9c58f461a13f7a",
+      "bytes": 327
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/8acdabb4377586011c777284f038da5d7df5a1a6d5cf853e9ff643667f01e290.json",
+      "sha256": "af953221f60e7416c632a0a86c58d1f8c96bf7a119bbc3f896088a44d8f6557f",
+      "bytes": 897
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/8acdabb4377586011c777284f038da5d7df5a1a6d5cf853e9ff643667f01e290.meta.json",
+      "sha256": "0ac2f6e05bfd07208ee7cf40a80386d2be5f5ef8ffb6fefcd8ad5f705dbbc92a",
+      "bytes": 353
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/8c6c48708a99efe21b758c2b46a95a181ea222209cc0c4016a0c72a52723cb29.html",
+      "sha256": "a3a16dd8caac341e8c5f5df245de73681493803109af1f691d0878bf84f45cec",
+      "bytes": 19869
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/8c6c48708a99efe21b758c2b46a95a181ea222209cc0c4016a0c72a52723cb29.meta.json",
+      "sha256": "51d5c6ebac9b2ccbc436dfd8242dcc7b8a443d93f026b0809f4beba0f08a17ec",
+      "bytes": 326
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/8eefa3c32b3ce410e951b19a30c24a83fc1c450b1182d6c6479b4b475dcc3bc1.json",
+      "sha256": "393e577f1d798bc00470c74b9187c56f6f59e2a1c1969d528022b413d73fffdb",
+      "bytes": 955
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/8eefa3c32b3ce410e951b19a30c24a83fc1c450b1182d6c6479b4b475dcc3bc1.meta.json",
+      "sha256": "e280ea62d1bd66f873c7a144a7acfd19841085ac0f66ced4afc64a3d7f7e9d74",
+      "bytes": 355
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/9b0573405365e0df5f8650359ad031b18cf1ef5db9074ff593b5f46ce5d5fff2.json",
+      "sha256": "dfbcc9a60163b8d09843c8a6578487522dd4c1aa474c9b3466976aff5b503682",
+      "bytes": 934
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/9b0573405365e0df5f8650359ad031b18cf1ef5db9074ff593b5f46ce5d5fff2.meta.json",
+      "sha256": "498780de829857c52691b52010ee769ec145c6ff9d4f52c427c70d6bdf5eeab7",
+      "bytes": 353
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/9b6f4c9f34d30b62f92448c42b5c94b43eb08c5cc560d330c08bd7b13177f9b8.json",
+      "sha256": "257ca82d906b67f019a2dd70a66999b187e175a6c0e53545f1bfaa318b50a3a7",
+      "bytes": 791
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/9b6f4c9f34d30b62f92448c42b5c94b43eb08c5cc560d330c08bd7b13177f9b8.meta.json",
+      "sha256": "a2c884013a942ff04e26bd5e2a7abddf59bd750fe3faa1a108880260e66e5f9a",
+      "bytes": 353
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/aaca95f7cd90ab6a9df99b3c1f941a7348c41bb120a10b38907e7e68fc82bf00.html",
+      "sha256": "780f0f37d5c3d60985e27b41436fed634c5f3939e2ea6e182319fd0a8eac668a",
+      "bytes": 20633
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/aaca95f7cd90ab6a9df99b3c1f941a7348c41bb120a10b38907e7e68fc82bf00.meta.json",
+      "sha256": "3e9b86027fd300d3dc6e98d0ab904c33a8a104202d57a1a5fc6c4f32feef3dd6",
+      "bytes": 326
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/ab5ef5b1df897f2699c0ca96a56fac73265bf6991aaa7fcc09cba9e575ad8110.json",
+      "sha256": "074a772d1d0a597fd9f2dd858594fbbb7696cdbf0d84c82116033fee596991dc",
+      "bytes": 738
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/ab5ef5b1df897f2699c0ca96a56fac73265bf6991aaa7fcc09cba9e575ad8110.meta.json",
+      "sha256": "1e79b6626587f9460e752df8cc6aa94eb811166aa3440e08205ee70e69ab4b97",
+      "bytes": 349
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/afc0b050002aa59943899a18a3858b49561a65520150e0d442cad63313f6ed29.html",
+      "sha256": "ea3e97e5489eb7089b5a97ee6a08741d08c42304ecbf34304633e06900079aff",
+      "bytes": 20902
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/afc0b050002aa59943899a18a3858b49561a65520150e0d442cad63313f6ed29.meta.json",
+      "sha256": "a9537001286bd9b6fa812920c5a66fabcaff7dd9b98473968d3f6e5d47bb3677",
+      "bytes": 326
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/b22bf8d0fb61bf8f55a5cd1dbb2c34afdf99e1fef057f1b73ba1442baaf6d93a.json",
+      "sha256": "70d9e55a31bfeafc284673603224b67e7e30c6137871585fc172739601020692",
+      "bytes": 1028
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/b22bf8d0fb61bf8f55a5cd1dbb2c34afdf99e1fef057f1b73ba1442baaf6d93a.meta.json",
+      "sha256": "8e69aed9541fbda19ad5c91df766296a65ae7b7799a822e097e930d78f1862f4",
+      "bytes": 398
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/b809e5bdf9104460789dc68051abd6f05b3cc48d9b148d1437ea38dd51337d47.html",
+      "sha256": "d95ec32914c21b1fd8173add21a4e5094414af9fed550f48bf692a156129be86",
+      "bytes": 20166
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/b809e5bdf9104460789dc68051abd6f05b3cc48d9b148d1437ea38dd51337d47.meta.json",
+      "sha256": "73e79c8630f6ae4eb099e3b7b95a257d42fd40e8cfbbcc1ac278d4832b205bf1",
+      "bytes": 326
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/c6649410470af4dfe704bc7e446f820cd199c1696a2a7e62e188322472d5e127.json",
+      "sha256": "bedcd97da42e6156f36e4bb5247c1f520be56602ec82fe760d7ad12e72f5f47b",
+      "bytes": 949
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/c6649410470af4dfe704bc7e446f820cd199c1696a2a7e62e188322472d5e127.meta.json",
+      "sha256": "5c1cd48dc4adbf6868ec1eb31d30753cf9eeac8f2d039bb9048c4056675ea242",
+      "bytes": 353
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/c99cd24f25f5f7b232d12e075141d4d93ca315343041e9d225f11a40a7920a95.html",
+      "sha256": "4de90440cd130339899f3952db8ac1e6598bc06b31e6b450cba7486eb0bab8e8",
+      "bytes": 21264
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/c99cd24f25f5f7b232d12e075141d4d93ca315343041e9d225f11a40a7920a95.meta.json",
+      "sha256": "7ed3108ac577759a01a8ca95256f9df75e0dd7532a3798a2291f3b0c07c3fdcc",
+      "bytes": 326
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/cebcdae7fddf7472fbae1b331487a330a393f2d333d23dffe991c1495feae485.html",
+      "sha256": "0c63b48c4e1e7a9c9eb68f7bd5b5da39d0b5f9ba7df49ff9a1ce6c80e06a6abd",
+      "bytes": 20966
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/cebcdae7fddf7472fbae1b331487a330a393f2d333d23dffe991c1495feae485.meta.json",
+      "sha256": "ae323f374834d8fcb7bbd051d38cac9a2634f4136832644b961ff7ea53e53b3f",
+      "bytes": 326
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/cfaddf7531f6fea9ac8b0af8a4b301b90451b96d469704f2cc8e5294ebc8d5d4.json",
+      "sha256": "857f365b4e99d88f0554d6a5dd459e2c4c869a1ed7ad5bac58d86123a23f0b5e",
+      "bytes": 884
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/cfaddf7531f6fea9ac8b0af8a4b301b90451b96d469704f2cc8e5294ebc8d5d4.meta.json",
+      "sha256": "aee586ff332eb77902cd77d05746383189534602eac45caa1cb22085ec7f0de9",
+      "bytes": 353
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/d2ab5e570e7f474fd1541420c3152eb6d400339687b7a850ccd9f25aee3f77e8.json",
+      "sha256": "31e0865241d20c7f8d0b3c4a285032e6baf6f975427b7ffabec0fd0a353f2d95",
+      "bytes": 1139
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/d2ab5e570e7f474fd1541420c3152eb6d400339687b7a850ccd9f25aee3f77e8.meta.json",
+      "sha256": "89488758fe763164a00718ec4b69252d97665918857e47629318ff576a7adea8",
+      "bytes": 356
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/d721a911e21567011b354b8b1cf61c63e9158f972e9dba484da5738edc996ef4.html",
+      "sha256": "7990297c7e11107d52c7e43f249c5935f7c826eab130ba4f0ccef2f563422558",
+      "bytes": 25851
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/d721a911e21567011b354b8b1cf61c63e9158f972e9dba484da5738edc996ef4.meta.json",
+      "sha256": "b018720ab944cd666621c23e57914b5dda18ec626558fbb1ce27c2162df321bf",
+      "bytes": 327
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/d869306013e2e2d664bc46ee2695ead5bd4bd48fb30a03172ad9b96afd342c38.html",
+      "sha256": "8b13776d7cb9500d71e3805bba52ce66d55ce329a471443ee9b43b73b59e845b",
+      "bytes": 19896
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/d869306013e2e2d664bc46ee2695ead5bd4bd48fb30a03172ad9b96afd342c38.meta.json",
+      "sha256": "a7ad2045ba08912244cceefe535bf6af654736339e70804f210db235e5835c1b",
+      "bytes": 326
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/db54c59039762b81c122a9e37d8388a81f5200a6228d7d1282b4e0b8a2e7354f.html",
+      "sha256": "32e146a151b90d21b861ad2edb62773957a55ec76ab5f82e9c95bc08a8f0966d",
+      "bytes": 619766
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/db54c59039762b81c122a9e37d8388a81f5200a6228d7d1282b4e0b8a2e7354f.meta.json",
+      "sha256": "a55dff403b29f0dc2c44a442a1fdc99359972473f66aa055a743482a9dc26d84",
+      "bytes": 324
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/deee410eb6bc3ef1f7db94138065f3dfc4c148da7cfd721de7025d22f3b95abd.json",
+      "sha256": "fc0cb9d7d91a3d7991b52de1b8393ad0db185e7fb6aeb939d0cebaad9770b75c",
+      "bytes": 842
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/deee410eb6bc3ef1f7db94138065f3dfc4c148da7cfd721de7025d22f3b95abd.meta.json",
+      "sha256": "002578583f819bb30242836c53a799ad2f28ae7d206267f9a815dd29b89bfd28",
+      "bytes": 347
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/e6af1c1bc6040b905ccd62399d5d62444272be05b5946b72999296910bdd2617.json",
+      "sha256": "25a27644217900c773fe9a5e3ed18b56b08a8bc6eb60801a33b61101f79b9ff6",
+      "bytes": 951
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/e6af1c1bc6040b905ccd62399d5d62444272be05b5946b72999296910bdd2617.meta.json",
+      "sha256": "a9139048ae0e5e023c033818808d32e33d1cf4a770ddf2e9a31100dd1983b853",
+      "bytes": 353
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/ef31efd03f908773efd7b73cc369245b019d1ded5ca606ef73c5b5bada051e6e.json",
+      "sha256": "c1b70bee701c46bc89d68a7c572d39eaab58ed3b7ffadf32de535f5201935b66",
+      "bytes": 877
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/ef31efd03f908773efd7b73cc369245b019d1ded5ca606ef73c5b5bada051e6e.meta.json",
+      "sha256": "9ce0adf71845c4892f587295dafbe4a35f86d80f08a9e634319bc48ffa81bf89",
+      "bytes": 353
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/ef35c74a8a099d2322e787a2c5b30a0db1c87068ec374f45b35cf1a048d39f1a.html",
+      "sha256": "e07b6d851a94024a814996d31f3a33152d1099124a120d9ee1eeab67c5d04acb",
+      "bytes": 20790
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/ef35c74a8a099d2322e787a2c5b30a0db1c87068ec374f45b35cf1a048d39f1a.meta.json",
+      "sha256": "5f58d3ac2724e18ad375869226477306ae5cdbcd5b6bd0ed498002e58002f743",
+      "bytes": 326
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/fa57308a080fafdcd56ca06d01869cc1ffb9bf3a72d55cc365cc4c44987035b1.html",
+      "sha256": "83c8fb24fe63054d0c47b7f6d86fa19077a6552c42711c8e34b9433551290eea",
+      "bytes": 20353
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/fa57308a080fafdcd56ca06d01869cc1ffb9bf3a72d55cc365cc4c44987035b1.meta.json",
+      "sha256": "8cd900725003e54d25b38c27a8dfbce8c63eb6b867c0e7bbd1d6fc943dcfdc81",
+      "bytes": 327
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/fd0f43797486d6147a4ed5e4669a9136d6577f6deb853336e733dd2ede80d56e.json",
+      "sha256": "6f1f3c95eefa4e9a10362d4de060b441bcc102f88f08a3a9048d55d79ea3557a",
+      "bytes": 894
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/fd0f43797486d6147a4ed5e4669a9136d6577f6deb853336e733dd2ede80d56e.meta.json",
+      "sha256": "b821c951682e2f5846ce04f1e679a68c97edb65c0c5f3aea9aecf340a754eed9",
+      "bytes": 353
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/ffa028629190b7d638a124d29e6e0fb01120a5e1858c4c0999c978629c517e6b.json",
+      "sha256": "c201d12b9cbd121b1727d586f60c2890daed6a7fb98f7c92d37901e343b48890",
+      "bytes": 22201
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fenix.pr.leg.br/ffa028629190b7d638a124d29e6e0fb01120a5e1858c4c0999c978629c517e6b.meta.json",
+      "sha256": "2c46b3756e2dd9dbe736c9d59e64fa0c382507c5011edfa4274aad5cd54966e8",
+      "bytes": 403
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/2590111059f15db2956d69ae7a3c0cde8e4f8391189626781e640b29df5c001c.json",
+      "sha256": "1e1ec15ab135547df0ba189273df3dd0b93c65ab9031a04fe15d523fbc9a7dd7",
+      "bytes": 14177
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/2590111059f15db2956d69ae7a3c0cde8e4f8391189626781e640b29df5c001c.meta.json",
+      "sha256": "996656ca9b3d0496c5d89fdda04c9607266ebe2f01889f0fef2c3e2bea858ea8",
+      "bytes": 401
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/2c148179d77afa9d295123a6a5ecf5a9be703524eabd2f8de601ed668580d20f.json",
+      "sha256": "4a7f80b613d54ffe1aa62e28f2435c2a79418956faa627fc10925db5ece39a0e",
+      "bytes": 43178
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/2c148179d77afa9d295123a6a5ecf5a9be703524eabd2f8de601ed668580d20f.meta.json",
+      "sha256": "7a92df5ca9b85b8ce953f83eeef67bddec466becd82caf55de97f89d9a559a95",
+      "bytes": 401
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/5cd1e13b849f03160902844ab5af83de0d24da160a526e55426b690cb4517e1b.json",
+      "sha256": "845c71e17a485e43a238326be92b8a86d2d8fd539f73d454d7aad36b1db2f51e",
+      "bytes": 43307
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/5cd1e13b849f03160902844ab5af83de0d24da160a526e55426b690cb4517e1b.meta.json",
+      "sha256": "f1ec14935e873ec261030ee041592f5520793210aa27d42d745bc51f9a11cc05",
+      "bytes": 401
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/8229e8fba9559678ac870ad177351e5d329b2cc12b67d7be143d4824f78a8fb5.json",
+      "sha256": "76aaf33aafef2a6b8a24b1c88c83bc468157a34ef2d7d101fdd52bf684daca2c",
+      "bytes": 43045
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/8229e8fba9559678ac870ad177351e5d329b2cc12b67d7be143d4824f78a8fb5.meta.json",
+      "sha256": "7995a4ce2480c514774de60dca37e0ef49020a45b8670c92e158c2bb56d45ddb",
+      "bytes": 401
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/caa0e975067dd1ebf0c41e3196f7c075b3507faf2c2c1f2090343655874adcbb.json",
+      "sha256": "74546ecfe89d66200961a7df05ac068177c6d33cdd2ce0f29b27e16150ca22b5",
+      "bytes": 46043
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/caa0e975067dd1ebf0c41e3196f7c075b3507faf2c2c1f2090343655874adcbb.meta.json",
+      "sha256": "4fb4044dcb7a40d16f7917194a6af7b1bcb966c2e8b330d619e2c84603c364f4",
+      "bytes": 401
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/cfcf9cd58ab1d1b6e54aec818f3dfc4bcb28b2faf7921575610e3aa30ec331e2.json",
+      "sha256": "487f60976776b2b75a7dbb3ca7af1b895197e30484f856e2fc65caeebdfb0c34",
+      "bytes": 45029
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/cfcf9cd58ab1d1b6e54aec818f3dfc4bcb28b2faf7921575610e3aa30ec331e2.meta.json",
+      "sha256": "fa654a26fd0daa7f7c1b8fad2c12445c2b047b4b63c1fa123f8cd5398412f53b",
+      "bytes": 401
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/e100743c168cdab79b1bbc88e0b60c869b83b634dc65c97eb3adf25b413b32da.json",
+      "sha256": "c2a292bc4e07ca11d0faaed8b58bdd3d88a40dbb988be1a9290489620d69a1d7",
+      "bytes": 42906
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/e100743c168cdab79b1bbc88e0b60c869b83b634dc65c97eb3adf25b413b32da.meta.json",
+      "sha256": "1d9e3a2bfbdcefb70979d7e4233a64726f811afb5eb55153ce6e6faaf6d3c042",
+      "bytes": 401
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/e87d00ba614ddc259f52e2e19a7f4fe5cc1da018cfd82f93f6e3be707a1daddb.json",
+      "sha256": "b8373651b106884f9c27f2d42c7b82c9e9197b3c4e8baa2f9e5af2b6293b4dc5",
+      "bytes": 42802
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.fernao.sp.leg.br/e87d00ba614ddc259f52e2e19a7f4fe5cc1da018cfd82f93f6e3be707a1daddb.meta.json",
+      "sha256": "5cf7496c5d26116fe84f7c3614e4626900cec3d74fd602c7d59e7b95d7f3f0ca",
+      "bytes": 401
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-commonmark-0025-v7/aprovados.paths.txt",
+      "sha256": "6eb4d45b3ae3ed91a3c51649df7254247d9b3f9fff4f791cd40e0658e7640875",
+      "bytes": 11210
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-commonmark-0025-v7/controle.json",
+      "sha256": "35adf78d89fe59a332155493b91401bc15bf1db8f56d0d15135cfef770a6f1e2",
+      "bytes": 421816
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-commonmark-0025-v7/retidos.paths.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-commonmark-0026-v7/aprovados.paths.txt",
+      "sha256": "15f3a425a18640aa86bacdcb9181d31774ea1de13b00cfb2d07a6ee9c0f1704b",
+      "bytes": 10952
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-commonmark-0026-v7/controle.json",
+      "sha256": "0aa2d532e14db9539731d5ee09a71f1e138b1fd7edd0c73db37ee0907898015f",
+      "bytes": 394019
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-commonmark-0026-v7/retidos.paths.txt",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "bytes": 0
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0025-v7/aprovados.paths.txt",
+      "sha256": "88b486d2c76513212a8a84c1f796df7f1d89aacc6383e5483aad6061a3280f06",
+      "bytes": 1209
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0025-v7/controle.json",
+      "sha256": "a49c2770431932f3370fe1a6249d5745d56672bdd2b4d574dc2e337e0b337fa4",
+      "bytes": 231432
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0025-v7/retidos.paths.txt",
+      "sha256": "51362e73950e5ea7bc5a74702bb2019453a854b36e5090fd1fdbae3981e43a3e",
+      "bytes": 10001
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0026-v7/aprovados.paths.txt",
+      "sha256": "1a16cf7f095039c8fc534ac1f4df4fd6566f8be2cc0697e910da798248882aed",
+      "bytes": 1667
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0026-v7/controle.json",
+      "sha256": "48676ad2eb09bb0529958062031dd4dfe7f350e7e336d46051c836c14035c57f",
+      "bytes": 136807
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-contexto-0026-v7/retidos.paths.txt",
+      "sha256": "2619450585f179e4edc538929f4175b2b51c69b6d073cce7d702be6136d8bfc9",
+      "bytes": 9285
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/manifesto.json",
+      "sha256": "b64ea642f4983413f7082e3cdcfede4a03d550aae0cfef25536ac436a3cee0ec",
+      "bytes": 5521
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/resultados.jsonl",
+      "sha256": "912667ccaf650893caca595d8d38645ad7df94ba36fdcfc4a7c562d152b26821",
+      "bytes": 1326138
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.divinopolis.mg.leg.br.anexos.json",
+      "sha256": "d3c7cadb5caabc657a381995441251bdfa071e08350a0e5f909160a6f5fb4e87",
+      "bytes": 2388133
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.divinopolis.mg.leg.br.prefixo.jsonl",
+      "sha256": "fca86e8794dd1557a05eab704b7939683fce765dcf29bb89075228ba358dcd5d",
+      "bytes": 220073
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.divinopolis.mg.leg.br.tipos.json",
+      "sha256": "738ddc1f4c29d3c2bc6bd1b6060b0f4fa058cb5b9ef69e49123b8e123a5fa9e0",
+      "bytes": 2272
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.durande.mg.leg.br.anexos.json",
+      "sha256": "963b1cf4ba6054c3c9c385833aa251d4392763a3e8200e1b285511a2969dba13",
+      "bytes": 1221
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.durande.mg.leg.br.prefixo.jsonl",
+      "sha256": "2bc260497049e7f238395f86ea6a158f280ff751be2208d227009c3f9aa5b7aa",
+      "bytes": 56344
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.durande.mg.leg.br.tipos.json",
+      "sha256": "587d9f0fb7fbb6a99a3b20f2f3d298b9f5db557419cd49a6f85586659b7c32e1",
+      "bytes": 1821
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.embuguacu.sp.leg.br.anexos.json",
+      "sha256": "fc152bdcd4a8fa5576f614e09356395bc154952911a137f3dcf5e48c087cf417",
+      "bytes": 93380
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.embuguacu.sp.leg.br.prefixo.jsonl",
+      "sha256": "ac2dda057e01c4d8f8663f0000cbbf0b6d287bf36e4d04a601e3526b112cd3ae",
+      "bytes": 3279
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.embuguacu.sp.leg.br.tipos.json",
+      "sha256": "3460f6203fcd277aaeb8436a7fd2f4b5bf7a9aa3789f61d30c7d924d262030cd",
+      "bytes": 2527
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.engenheiropaulodefrontin.rj.leg.br.anexos.json",
+      "sha256": "2e5f01111b6b3ae535b041c4eb8f02c46b1743263c346025314b4dcd7031441d",
+      "bytes": 13523
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.engenheiropaulodefrontin.rj.leg.br.prefixo.jsonl",
+      "sha256": "9be1174268ce445edf8911590675c2ebf7a0bdda60716a5b3ac7f82e4ad79ed4",
+      "bytes": 507692
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.engenheiropaulodefrontin.rj.leg.br.tipos.json",
+      "sha256": "c7b2c14b43c3d60cf19217f47aad30bb8b0fff3964c79f12c05b7e6daf05fc94",
+      "bytes": 7211
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.esperafeliz.mg.leg.br.anexos.json",
+      "sha256": "226fee09b5d5188ae6a50fd4cd76e34cd23270bbe0f38b2710cd506a58fb7245",
+      "bytes": 1947
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.esperafeliz.mg.leg.br.prefixo.jsonl",
+      "sha256": "fe9ebcdffeb952b4e59a8f7b8c1fb0b66361eb19195a2a82ee819bf265b312e6",
+      "bytes": 76975
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.esperafeliz.mg.leg.br.tipos.json",
+      "sha256": "52db4a49d40f127644a758db7bf4b286eda34c428b4d1af3aff1b870c7ce5352",
+      "bytes": 2033
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.eusebio.ce.leg.br.anexos.json",
+      "sha256": "63e96d29fc3b283eb43365f6813c12133c566cacf05e18cd477a3e05903a838b",
+      "bytes": 2124
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.eusebio.ce.leg.br.prefixo.jsonl",
+      "sha256": "39f6dea82ee505a2d6339fd547eae91beb09693fbbdb30cf09be127896d32bee",
+      "bytes": 111716
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.eusebio.ce.leg.br.tipos.json",
+      "sha256": "eba23b5fd83d49abc6fccad8c575ee340ebff66680fe3cb57b76f8e7dab016e0",
+      "bytes": 1469
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0026/manifesto.json",
+      "sha256": "0c4a48d80b980452c89bb5f0d96719b7fa52787f495833e4d28f41ae56388fd8",
+      "bytes": 3957
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0026/resultados.jsonl",
+      "sha256": "7d270076ac2608b3dfb811b0b59ecd6b730bc68705a66bf56ece0d08eb78ee7e",
+      "bytes": 925010
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0026/sapl.engenheiropaulodefrontin.rj.leg.br.anexos.json",
+      "sha256": "2e5f01111b6b3ae535b041c4eb8f02c46b1743263c346025314b4dcd7031441d",
+      "bytes": 13523
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0026/sapl.engenheiropaulodefrontin.rj.leg.br.prefixo.jsonl",
+      "sha256": "2edebeda403aa831800fe08f7d70cf240e288b013fcdf452c53e9150fcca6026",
+      "bytes": 415525
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0026/sapl.engenheiropaulodefrontin.rj.leg.br.tipos.json",
+      "sha256": "c7b2c14b43c3d60cf19217f47aad30bb8b0fff3964c79f12c05b7e6daf05fc94",
+      "bytes": 7211
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0026/sapl.eusebio.ce.leg.br.anexos.json",
+      "sha256": "63e96d29fc3b283eb43365f6813c12133c566cacf05e18cd477a3e05903a838b",
+      "bytes": 2124
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0026/sapl.eusebio.ce.leg.br.prefixo.jsonl",
+      "sha256": "f00c2eb48ca8c5e20e4e1045febdbe47a35aa4fa6634bd32dd6e43edcff2aeb3",
+      "bytes": 77208
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0026/sapl.eusebio.ce.leg.br.tipos.json",
+      "sha256": "eba23b5fd83d49abc6fccad8c575ee340ebff66680fe3cb57b76f8e7dab016e0",
+      "bytes": 1469
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0026/sapl.fenix.pr.leg.br.anexos.json",
+      "sha256": "e26c87a6bba2d15634ed22507bd4d952542cfcfacf8b2ac8719d0536ee059909",
+      "bytes": 1649
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0026/sapl.fenix.pr.leg.br.prefixo.jsonl",
+      "sha256": "59843403c667648cf6e0251312034f803beb77dc487d68b059dfd796970e4bb9",
+      "bytes": 122950
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0026/sapl.fenix.pr.leg.br.tipos.json",
+      "sha256": "b08deeeaf43404a6d7e855ba7fbc5b295f0e54cd5b20d1c75bae4f5ab821ff88",
+      "bytes": 2559
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0026/sapl.fernao.sp.leg.br.anexos.json",
+      "sha256": "e22092556d7b762167afec82e34247ae39d01dd3827d0babc6fedcffdc5f85ee",
+      "bytes": 374295
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0026/sapl.fernao.sp.leg.br.prefixo.jsonl",
+      "sha256": "0f62388718ca4f70e771930ba31ae9996f4cc6261d3c787ff65aac9e3f60c59a",
+      "bytes": 56605
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0026/sapl.fernao.sp.leg.br.tipos.json",
+      "sha256": "53fadaabc0b88fd3d901edf13778cdc434fa1c70a327166b04ebd1e42141ef94",
+      "bytes": 2247
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0025-v7/aprovados-iniciais.paths.txt",
+      "sha256": "6eb4d45b3ae3ed91a3c51649df7254247d9b3f9fff4f791cd40e0658e7640875",
+      "bytes": 11210
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0025-v7/indices-nao-utilizados.json",
+      "sha256": "083b278b0b4ec35861993ea2c147a3486c9071d06e4553a2043069b82455e0e2",
+      "bytes": 625
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0025-v7/manifesto.json",
+      "sha256": "cd6c7ed1293ab5b210135015b8c8d4ed71844f3b683855e67bd66a89f858bf7e",
+      "bytes": 1460
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0025-v7/normas.paths.txt",
+      "sha256": "6eb4d45b3ae3ed91a3c51649df7254247d9b3f9fff4f791cd40e0658e7640875",
+      "bytes": 11210
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0025-v7/resultados.jsonl",
+      "sha256": "49eae2752bd0d136fe2237debd1c98f975065d7de23bc71a057eb945c89a444f",
+      "bytes": 888764
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0025-v7/transcricoes-preservadas/sapl.durande.mg.leg.br-12-13.txt",
+      "sha256": "70b7d1031d1951858145629871c70fe40c29901244cc3bd2e509bfff1e7aeb75",
+      "bytes": 7255
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0025-v7/transcricoes-preservadas/sapl.durande.mg.leg.br-13-14.txt",
+      "sha256": "e913a12166b61ae43532f4ae03152665b7dc59aecd0c8228acd19c09040ee009",
+      "bytes": 3883
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0025-v7/transcricoes-preservadas/sapl.durande.mg.leg.br-16-17.txt",
+      "sha256": "e1d0611c2b0e198a4ae550ad318987c50c6a61470769b2577a336ee11e5fbb05",
+      "bytes": 6054
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0025-v7/transcricoes-preservadas/sapl.durande.mg.leg.br-17-18.txt",
+      "sha256": "5dfc8560df8f59e4f0fb5190d42abb4ae205d9fd9e4c42f5f2acffe66e9b6afd",
+      "bytes": 3525
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0025-v7/transcricoes-preservadas/sapl.esperafeliz.mg.leg.br-24-2712.txt",
+      "sha256": "bfc3a235b30c3d34e95d5098f5f12cfce9885d83673e881c4594db8f58d834fc",
+      "bytes": 1034
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0025-v7/transcricoes-preservadas/sapl.esperafeliz.mg.leg.br-25-2709.txt",
+      "sha256": "2cceda8ef07783529eeda7d228d14c61525397291664089db65164b4222119c8",
+      "bytes": 1531
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0025-v7/transcricoes-preservadas/sapl.esperafeliz.mg.leg.br-26-2710.txt",
+      "sha256": "740717d2f69d75d1f6152b492f31d1de6690ad485053a660c78bbd76253bf151",
+      "bytes": 1455
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0025-v7/transcricoes-preservadas/sapl.esperafeliz.mg.leg.br-3-2543.txt",
+      "sha256": "7d1dd4ff38735c93e7351662d4bb7c98c8da8f9cf592b397599a20ca6077218a",
+      "bytes": 785
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0025-v7/transcricoes-preservadas/sapl.esperafeliz.mg.leg.br-49-2758.txt",
+      "sha256": "bdc64265ec16db5c154396400f932575f7c910f0b12a8d926dc260d39dcc71ba",
+      "bytes": 6556
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0025-v7/transcricoes-preservadas/sapl.eusebio.ce.leg.br-3-2025.txt",
+      "sha256": "861b1bf20c5ba75c4f80c29fb4625cef39a7d33d23673d7aba49f9de1352ba5d",
+      "bytes": 654
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0025-v7/transcricoes-preservadas/sapl.eusebio.ce.leg.br-4-2026.txt",
+      "sha256": "bcba227b4bf3cd557735f152da9ef3f6b08130c6e03c278bd98a33dbd5715415",
+      "bytes": 741
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0025-v7/transcricoes-preservadas/sapl.eusebio.ce.leg.br-40-2273.txt",
+      "sha256": "218565dfef2343f7a2eaec5893bb80bd17b8f1e644714562b5ebc8c4402fce53",
+      "bytes": 827
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0025-v7/transcricoes-preservadas/sapl.eusebio.ce.leg.br-5-2027.txt",
+      "sha256": "de89682b12921719fe16dee5dbab0f0ea228df709f7223aea3a2cf1c5536d566",
+      "bytes": 1600
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0025-v7/transcricoes-preservadas/sapl.eusebio.ce.leg.br-6-2028.txt",
+      "sha256": "ab20aa21b0437a7cf94e8d754182b0777b7ffe328397e2708011ca431d8899ed",
+      "bytes": 2101
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0025-v7/transcricoes-preservadas/sapl.eusebio.ce.leg.br-62-2755.txt",
+      "sha256": "dcbe0354e1a9c79ef62738ac92cacaf359dda44f7b2656b6dc0bfdfd15935b4d",
+      "bytes": 1305
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/aprovados-iniciais.paths.txt",
+      "sha256": "15f3a425a18640aa86bacdcb9181d31774ea1de13b00cfb2d07a6ee9c0f1704b",
+      "bytes": 10952
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/indices-nao-utilizados.json",
+      "sha256": "779ff6fcb2c071cabb3dc75e0e3591e0facdbdbcdbd470995d5c2e343486026d",
+      "bytes": 469
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/manifesto.json",
+      "sha256": "7f44d479be4c694bcb117eaa630b6dc5a9c7faf56aea6f5f0452768140425fc0",
+      "bytes": 1459
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/normas.paths.txt",
+      "sha256": "15f3a425a18640aa86bacdcb9181d31774ea1de13b00cfb2d07a6ee9c0f1704b",
+      "bytes": 10952
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/resultados.jsonl",
+      "sha256": "d005fa3ad31018a78ebc0f97ab257aaf484eeb9be051c061e8b7f609b542e4f6",
+      "bytes": 855344
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/transcricoes-preservadas/sapl.engenheiropaulodefrontin.rj.leg.br-2108-2410.txt",
+      "sha256": "1ddbf7da8ee9fb97630127dea01649f5bfd8963ecb856ce320cc00c617bb4cf0",
+      "bytes": 575
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/transcricoes-preservadas/sapl.eusebio.ce.leg.br-11-943.txt",
+      "sha256": "23ff8e3dd5b8b4b13b0f9a0fa11216329f7362c79d295f07aca33323b0632747",
+      "bytes": 839
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/transcricoes-preservadas/sapl.eusebio.ce.leg.br-2-2024.txt",
+      "sha256": "7b6813a01470473414615f290aa7c212e7604ccf37e482a778ac44154a4fc100",
+      "bytes": 822
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/transcricoes-preservadas/sapl.fenix.pr.leg.br-130-1498.txt",
+      "sha256": "bebc5752e8ced60f23de999af79ecb0c1cf94f1609ef098aefb4e1d384f0e375",
+      "bytes": 3218
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/transcricoes-preservadas/sapl.fenix.pr.leg.br-3-5.txt",
+      "sha256": "41e50fe0faa053dc2ca26e1907e2560cd2a1e09723d26df33eacf38568e86afb",
+      "bytes": 142894
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/transcricoes-preservadas/sapl.fenix.pr.leg.br-64-134.txt",
+      "sha256": "e02d90ed4f0ba5aba3f59fe94ee12825bd5c890acdb2365999066903113d07eb",
+      "bytes": 759
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/transcricoes-preservadas/sapl.fenix.pr.leg.br-65-135.txt",
+      "sha256": "7919a51a3bde34db167497c5d6ea4cdbaf338fcf3428a76c7786cc1a11d945c7",
+      "bytes": 1338
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/transcricoes-preservadas/sapl.fenix.pr.leg.br-66-136.txt",
+      "sha256": "8e5529d4995267f54c8b0e03e46f282d7436d8063771d0490991ad2b672f679e",
+      "bytes": 686
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/transcricoes-preservadas/sapl.fenix.pr.leg.br-70-1459.txt",
+      "sha256": "98cab620794bd28f390529f83619171ca448d6e140643e3e7e3436b3842b2d3c",
+      "bytes": 7511
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/transcricoes-preservadas/sapl.fenix.pr.leg.br-81-1358.txt",
+      "sha256": "05f196a3d3560784f8423a8903e698b7fd350e458dee0ddb3aac4820ccf49e69",
+      "bytes": 409
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/transcricoes-preservadas/sapl.fenix.pr.leg.br-84-137.txt",
+      "sha256": "62db2fb98ea24a36bf2d55aeb4085889147eea39e970340eb2bb9e24c260f828",
+      "bytes": 1103
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/transcricoes-preservadas/sapl.fenix.pr.leg.br-85-138.txt",
+      "sha256": "5728c7966c5e7bac61e216e8b042cd75f9bbeaa78f983fbad2896f2803d32593",
+      "bytes": 996
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/transcricoes-preservadas/sapl.fenix.pr.leg.br-86-139.txt",
+      "sha256": "19b6bc8647cac35b4682a67b0c7dffac583fde8eea50a47529b9e90d73e3653b",
+      "bytes": 922
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/transcricoes-preservadas/sapl.fenix.pr.leg.br-87-140.txt",
+      "sha256": "d3a824a6ed62c39d8936f1593bf27fdee0fda997ac4284f739fea2206b7b0772",
+      "bytes": 1027
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/transcricoes-preservadas/sapl.fenix.pr.leg.br-88-141.txt",
+      "sha256": "7498c7d9b6fb1df434c66ef2444bcba9da0f9c6a8c9eae4929c5ea57a032d6ae",
+      "bytes": 952
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/transcricoes-preservadas/sapl.fenix.pr.leg.br-89-142.txt",
+      "sha256": "7646d7f3350272c50165212c12b5076a80f443a2e9d65d5dd680c1acb90b1317",
+      "bytes": 808
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/transcricoes-preservadas/sapl.fenix.pr.leg.br-91-143.txt",
+      "sha256": "58baacbe2df2e7cec31c1bcbe3245fab8a2ad17b9c63c80a78135f58c72440a4",
+      "bytes": 949
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/transcricoes-preservadas/sapl.fenix.pr.leg.br-92-144.txt",
+      "sha256": "c01ba273356ec58c45e8d2dd37eb86fcdd913c58bfa9842ce2f9085e48d90b26",
+      "bytes": 1840
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/transcricoes-preservadas/sapl.fenix.pr.leg.br-93-145.txt",
+      "sha256": "f4abd65adde5d0570c6b3d0dec67193453c957d9c87d40eebc408ed1d4731c8f",
+      "bytes": 1020
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/transcricoes-preservadas/sapl.fenix.pr.leg.br-94-1465.txt",
+      "sha256": "12ff08d46fa0b279ec368054cf1b37b1116388988aab716df64c823fcb46e3ff",
+      "bytes": 685
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0026-v7/transcricoes-preservadas/sapl.fenix.pr.leg.br-96-1470.txt",
+      "sha256": "94edaa548b5b5a7a15a18fb334a477509a14e36b50dfa571276da8bbc9d91f7f",
+      "bytes": 2945
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-selecao-0025/snapshot.json",
+      "sha256": "37d84495fc4d9bf80b444adfb6fb66c7c635c15f03684f5135aa4fa2790bc34d",
+      "bytes": 42302
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-selecao-0026/snapshot.json",
+      "sha256": "dd44cc4f7c5763c9fabd8b4a9ee7fc9b45146b47f6fecfbb05bca60ae24f7c5e",
+      "bytes": 33114
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/TESTAR.txt",
+      "sha256": "ce11136bfafe02dac61e6a98c1322323720d71e5539812dd4b74b523c3dcee7e",
+      "bytes": 429
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/baseline-com-reservas47/manifesto.json",
+      "sha256": "b434b3666b646994b1496e6efd4aac86af3b818c21355fc7d73326b76a2e43d1",
+      "bytes": 163968
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/baseline-com-reservas47/metadados-integrais.jsonl.gz",
+      "sha256": "691c41f6f62bd562379ba3fcfbf231b758db732d273c021cefb7f5fe8b8e27b7",
+      "bytes": 9761389
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/baseline-com-reservas47/normas.paths.txt",
+      "sha256": "a532a8a6ecf4778afab8f0c8755b0dad50f7d657b3e2d718f15fe001007af9b6",
+      "bytes": 2610408
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/baseline-head.log",
+      "sha256": "25991e7957632e6ac83b85370815d386c8136a5fe3cb69c2d04f4911b5fb25cb",
+      "bytes": 306
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/baseline-head/ls-tree-municipais.z",
+      "sha256": "a7cbfbe71eeb1d83d12becafb183c379ef4f39860c73f9b8ecea8bc09cd479a8",
+      "bytes": 22840308
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/baseline-head/manifesto.json",
+      "sha256": "e31b631ba2118111456e9f3701ae36dc175b3fd44315b666b5b6c96465ca7796",
+      "bytes": 146881
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/baseline-head/metadados-integrais.jsonl.gz",
+      "sha256": "d051b740aea1c967419caf3813b0b30a73d81e6c6581c1ff4f59b31e5120b49e",
+      "bytes": 9761389
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/baseline-head/normas.paths.txt",
+      "sha256": "a532a8a6ecf4778afab8f0c8755b0dad50f7d657b3e2d718f15fe001007af9b6",
+      "bytes": 2610408
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/colisoes-preliminares.json",
+      "sha256": "d4ee64e7a2d93814c3638e99abdbf34930e9ba411586fcc59c828d4b7dce0ffe",
+      "bytes": 6835
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/confronto-final.json",
+      "sha256": "19c380665be5606d3144730491b5798b66ce126917f2eb5e1187bf7fea3e50b1",
+      "bytes": 6829
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportacao-isolada.json",
+      "sha256": "ae7275234349957d57096cda04d44fb82788faa8706df5f97daa51a194c37d5f",
+      "bytes": 11719
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/0.txt",
+      "sha256": "d94f941b4e9d87ea82e977d83f61828ea89eadbb5f806910f551cbe9a92a6d89",
+      "bytes": 1959
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/1.txt",
+      "sha256": "ff1c29fc9e8253b3193c280aea4c8d38cbaca3a56dff0ea7af5b02857e4771c0",
+      "bytes": 1791
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/10.txt",
+      "sha256": "8c56bc80992d7af1e5d3ec9890468d03b3e1e1454d8cff0b058d37270639a786",
+      "bytes": 7199
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/11.txt",
+      "sha256": "a2a8c06df040142da61eff1d531a6880d086129c11162e05bc8daa376b5954be",
+      "bytes": 4660
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/12.txt",
+      "sha256": "6f051489f7499ef754b677c04f014ce3db95c858b956416b46da24f92b037ccd",
+      "bytes": 2681
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/13.txt",
+      "sha256": "a52702494f1cf8e33205f20bb0f91a4079fa8d0d2c21b29bb0fb3eb937f5796a",
+      "bytes": 2605
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/14.txt",
+      "sha256": "8d278358dfca58e4bc3060ce3518fc44cc0280b4300c3c20da6740c1770f08d3",
+      "bytes": 2188
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/15.txt",
+      "sha256": "ff48e5c096854567b72555ecbaf90a095b185926a0a50765dd7d2c3b62dec2bf",
+      "bytes": 1921
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/16.txt",
+      "sha256": "5715766e9d238dea14c0fc8c3c9fcfd080e49cdaee0110c61aa8a1b33e56dad9",
+      "bytes": 7691
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/17.txt",
+      "sha256": "7a90a30a57d5c38b2632a6d68d3f8bdaadf6d6f80506aace8712eed77daa691b",
+      "bytes": 8660
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/18.txt",
+      "sha256": "5b2efe61e4c9bf99fbd650503f195675a31ca44a6e2bc0411ab3e69b7e48811c",
+      "bytes": 1828
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/19.txt",
+      "sha256": "23470d5c99eb8994395882d0efec8b6398daec0e02632a494a6a3a1d268cc0d7",
+      "bytes": 4364
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/2.txt",
+      "sha256": "727abe420015fc47f7ac7284e6825524dfa6765ca0d8966b20bd2a74b7d0658e",
+      "bytes": 1878
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/20.txt",
+      "sha256": "e1ef359e37c1a54569b67e35c074b5e1429261a87fcfa5731fc81ba55f56bd01",
+      "bytes": 144039
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/21.txt",
+      "sha256": "11b5d8fe0bad3b5f7f4af72d3a629970387b79cbece780f83e0b591afd4e77d6",
+      "bytes": 1888
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/22.txt",
+      "sha256": "fc51e522f765bf1b4859eee872ed86321451b12cafc84e714624ca114c8c6234",
+      "bytes": 2073
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/23.txt",
+      "sha256": "932d13bea6f694c9451cd5d32b49220e3704fdf47b2fbc48b8772286f3cd7aa3",
+      "bytes": 2964
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/24.txt",
+      "sha256": "7a03f6fee58f5fc71711da33d861e97774ffc62d7be5ed1da47a5b388ce0cf7b",
+      "bytes": 2144
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/25.txt",
+      "sha256": "8c556b217f62a7d78d4e534f02b9e52aa9a6c0b34dcaf4f630e3598825f4f55c",
+      "bytes": 2467
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/26.txt",
+      "sha256": "3e89138dcf26ae4646f17eb48f87e13d60240f6647fd009693e89114620d4e62",
+      "bytes": 1809
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/27.txt",
+      "sha256": "56969404632311c6f89eb2d386a988aa3d72c743d1829bafef859e74c124d186",
+      "bytes": 2226
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/28.txt",
+      "sha256": "a0a98a222a6615ceaf9221f3e0e9d3ebdb2fc57320260ed8b441069464a1064b",
+      "bytes": 2119
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/29.txt",
+      "sha256": "999ee32c0553c89054f40bdebbffbf110269a59051e22d0d2afda22e2b091a28",
+      "bytes": 2043
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/3.txt",
+      "sha256": "3dd9e475ad236e7774484c5a58d17c40934b3751160255af675887861a505c0a",
+      "bytes": 2737
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/30.txt",
+      "sha256": "4684e87b04d65985b178ae1820ffdd3f8c3b4a22e18971e45925cc14605a6473",
+      "bytes": 2148
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/31.txt",
+      "sha256": "36aecea8470b055dc162fe297603fa9d338d792e28f1824682773fceeef5a2db",
+      "bytes": 2073
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/32.txt",
+      "sha256": "6b4e3e727eae2a8cc89206677fd511db7acca4006d5ef631d3e778dde1874196",
+      "bytes": 1929
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/33.txt",
+      "sha256": "f02b7f0ef5805d6eda840b6847ce831c189324ffb79c803166221b521be52e9f",
+      "bytes": 1540
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/34.txt",
+      "sha256": "5e98820e047d4a16f3cc02f7420723db03e284210a3f1455a14356dba1814a9b",
+      "bytes": 4070
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/35.txt",
+      "sha256": "f0f7f86b61c6ae7007c6cd21a18af39d18f7ee52631bd1d54c00eef0a20052f3",
+      "bytes": 1791
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/4.txt",
+      "sha256": "c24391be4d490e734c76d8d54a93374cb4b1465b8ce951e83d94df56d2137411",
+      "bytes": 3238
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/5.txt",
+      "sha256": "96c70b50902788e99eb766bd9a02388b86df32496740b64c4bc0182557ef3589",
+      "bytes": 1963
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/6.txt",
+      "sha256": "3821b34fc681b9fe0c912d72bcbd38ff700c3449383d0b2c38822a1dcd55f653",
+      "bytes": 1955
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/7.txt",
+      "sha256": "7d0bf7776a878216b28e8d094afd15a8d74742fcfa971b5b85f7472ac22ead90",
+      "bytes": 2419
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/8.txt",
+      "sha256": "df79b3e627fce6a1b23adca0c979789ddd07ac3f980635211639860258397b46",
+      "bytes": 8392
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/exportados/9.txt",
+      "sha256": "54205bcfc1a10eda75566a3db1d7178a0e604947c9b102a5d7fdf4a58a857e64",
+      "bytes": 5028
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/mapeamento-fontes.json",
+      "sha256": "c0053a587d8d27c45cfab5c38ff5f8a48669fe7b2d5399a58c717adc2966d2f3",
+      "bytes": 675269
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/normas.paths.txt",
+      "sha256": "f23fa5bcc7f3e59032502f2143bd139fce681c2e7a7b27677d7df976a0aa99dd",
+      "bytes": 2876
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/preliminares.paths.txt",
+      "sha256": "f23fa5bcc7f3e59032502f2143bd139fce681c2e7a7b27677d7df976a0aa99dd",
+      "bytes": 2876
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/retencoes.json",
+      "sha256": "1720b98e292f1c90b30ac09740fdae340dc0d3b81bd6572ea9defd416d5a0624",
+      "bytes": 38461
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/sigi25/auditoria-municipal.json",
+      "sha256": "d96835d5529d610459e90f3a944a572fbbd9b9186294fcbc9579fb2aa981091b",
+      "bytes": 765
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/sigi25/formato.json",
+      "sha256": "ff7e07178d2b29d5eaaed028c272c91154d3fefcfe55d2ef7da151afe7028cc7",
+      "bytes": 3550
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/sigi25/jurisdicao/aprovados.paths.txt",
+      "sha256": "eeb4552dd8f2b4db24e19378992951c109570ed45594d5da78bd1ec68c544265",
+      "bytes": 1209
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/sigi25/jurisdicao/controle.json",
+      "sha256": "f57f31f917699756c31c5b01c520918a9bc06dcd6f6762e3ca4b41329301e3b1",
+      "bytes": 4139
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/sigi25/normas.paths.txt",
+      "sha256": "eeb4552dd8f2b4db24e19378992951c109570ed45594d5da78bd1ec68c544265",
+      "bytes": 1209
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/sigi25/pre-jurisdicao.paths.txt",
+      "sha256": "eeb4552dd8f2b4db24e19378992951c109570ed45594d5da78bd1ec68c544265",
+      "bytes": 1209
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/sigi25/verificacao-integral.json",
+      "sha256": "351471638b953982cd3fd8c8fdcb2c9bd1af3d6bea4b371af82be530f03c0c1b",
+      "bytes": 5620
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/sigi26/auditoria-municipal.json",
+      "sha256": "e1bdce96bb364c152ef3ebf9092a7ece86359e59868dbfbd4c2ae1e2df20e850",
+      "bytes": 765
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/sigi26/formato.json",
+      "sha256": "08d0fa100a8dd0fb532c678084b4aba62712fa6764128408f4bae4b31aee1e67",
+      "bytes": 4920
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/sigi26/jurisdicao/aprovados.paths.txt",
+      "sha256": "9f081f8a4e83d6abf6b82fdaffc9b00cbe58fa5d3f30ba1f4f6dd02d31c17cfd",
+      "bytes": 1667
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/sigi26/jurisdicao/controle.json",
+      "sha256": "51fa88fa57b498b23b42a5d47fb8a2deb84b6b12b0813755ce524e5e3128a164",
+      "bytes": 5611
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/sigi26/normas.paths.txt",
+      "sha256": "9f081f8a4e83d6abf6b82fdaffc9b00cbe58fa5d3f30ba1f4f6dd02d31c17cfd",
+      "bytes": 1667
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/sigi26/pre-jurisdicao.paths.txt",
+      "sha256": "9f081f8a4e83d6abf6b82fdaffc9b00cbe58fa5d3f30ba1f4f6dd02d31c17cfd",
+      "bytes": 1667
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/novos-v7-lotes25-26-20261028/sigi26/verificacao-integral.json",
+      "sha256": "2ed52991788a21b4a72e1a787ead57baa01802bb18091fc33a75a6cbf687a224",
+      "bytes": 7777
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/reparos47-sucessor-v2-20261028/manifesto.json",
+      "sha256": "33d0fcd13232666b39bbd5b097cf5629c12762980ef562cfdc9827165b79bb13",
+      "bytes": 169800
+    },
+    {
+      "arquivo": "municipais/_indice/ibge-municipios.json",
+      "sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+      "bytes": 2470036
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.durande.mg.leg.br/candidatos/13-12.txt",
+      "sha256": "70b7d1031d1951858145629871c70fe40c29901244cc3bd2e509bfff1e7aeb75",
+      "bytes": 7255
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.durande.mg.leg.br/candidatos/14-13.txt",
+      "sha256": "e913a12166b61ae43532f4ae03152665b7dc59aecd0c8228acd19c09040ee009",
+      "bytes": 3883
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.durande.mg.leg.br/candidatos/17-16.txt",
+      "sha256": "e1d0611c2b0e198a4ae550ad318987c50c6a61470769b2577a336ee11e5fbb05",
+      "bytes": 6054
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.durande.mg.leg.br/candidatos/18-17.txt",
+      "sha256": "5dfc8560df8f59e4f0fb5190d42abb4ae205d9fd9e4c42f5f2acffe66e9b6afd",
+      "bytes": 3525
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.engenheiropaulodefrontin.rj.leg.br/candidatos/2410-2108.txt",
+      "sha256": "1ddbf7da8ee9fb97630127dea01649f5bfd8963ecb856ce320cc00c617bb4cf0",
+      "bytes": 575
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.esperafeliz.mg.leg.br/candidatos/2543-3.txt",
+      "sha256": "7d1dd4ff38735c93e7351662d4bb7c98c8da8f9cf592b397599a20ca6077218a",
+      "bytes": 785
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.esperafeliz.mg.leg.br/candidatos/2709-25.txt",
+      "sha256": "2cceda8ef07783529eeda7d228d14c61525397291664089db65164b4222119c8",
+      "bytes": 1531
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.esperafeliz.mg.leg.br/candidatos/2710-26.txt",
+      "sha256": "740717d2f69d75d1f6152b492f31d1de6690ad485053a660c78bbd76253bf151",
+      "bytes": 1455
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.esperafeliz.mg.leg.br/candidatos/2712-24.txt",
+      "sha256": "bfc3a235b30c3d34e95d5098f5f12cfce9885d83673e881c4594db8f58d834fc",
+      "bytes": 1034
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.esperafeliz.mg.leg.br/candidatos/2758-49.txt",
+      "sha256": "bdc64265ec16db5c154396400f932575f7c910f0b12a8d926dc260d39dcc71ba",
+      "bytes": 6556
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.eusebio.ce.leg.br/candidatos/2024-2.txt",
+      "sha256": "7b6813a01470473414615f290aa7c212e7604ccf37e482a778ac44154a4fc100",
+      "bytes": 822
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.eusebio.ce.leg.br/candidatos/2025-3.txt",
+      "sha256": "861b1bf20c5ba75c4f80c29fb4625cef39a7d33d23673d7aba49f9de1352ba5d",
+      "bytes": 654
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.eusebio.ce.leg.br/candidatos/2026-4.txt",
+      "sha256": "bcba227b4bf3cd557735f152da9ef3f6b08130c6e03c278bd98a33dbd5715415",
+      "bytes": 741
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.eusebio.ce.leg.br/candidatos/2027-5.txt",
+      "sha256": "de89682b12921719fe16dee5dbab0f0ea228df709f7223aea3a2cf1c5536d566",
+      "bytes": 1600
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.eusebio.ce.leg.br/candidatos/2028-6.txt",
+      "sha256": "ab20aa21b0437a7cf94e8d754182b0777b7ffe328397e2708011ca431d8899ed",
+      "bytes": 2101
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.eusebio.ce.leg.br/candidatos/2273-40.txt",
+      "sha256": "218565dfef2343f7a2eaec5893bb80bd17b8f1e644714562b5ebc8c4402fce53",
+      "bytes": 827
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.eusebio.ce.leg.br/candidatos/2755-62.txt",
+      "sha256": "dcbe0354e1a9c79ef62738ac92cacaf359dda44f7b2656b6dc0bfdfd15935b4d",
+      "bytes": 1305
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.eusebio.ce.leg.br/candidatos/943-11.txt",
+      "sha256": "23ff8e3dd5b8b4b13b0f9a0fa11216329f7362c79d295f07aca33323b0632747",
+      "bytes": 839
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.fenix.pr.leg.br/candidatos/134-64.txt",
+      "sha256": "e02d90ed4f0ba5aba3f59fe94ee12825bd5c890acdb2365999066903113d07eb",
+      "bytes": 759
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.fenix.pr.leg.br/candidatos/135-65.txt",
+      "sha256": "7919a51a3bde34db167497c5d6ea4cdbaf338fcf3428a76c7786cc1a11d945c7",
+      "bytes": 1338
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.fenix.pr.leg.br/candidatos/1358-81.txt",
+      "sha256": "05f196a3d3560784f8423a8903e698b7fd350e458dee0ddb3aac4820ccf49e69",
+      "bytes": 409
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.fenix.pr.leg.br/candidatos/136-66.txt",
+      "sha256": "8e5529d4995267f54c8b0e03e46f282d7436d8063771d0490991ad2b672f679e",
+      "bytes": 686
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.fenix.pr.leg.br/candidatos/137-84.txt",
+      "sha256": "62db2fb98ea24a36bf2d55aeb4085889147eea39e970340eb2bb9e24c260f828",
+      "bytes": 1103
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.fenix.pr.leg.br/candidatos/138-85.txt",
+      "sha256": "5728c7966c5e7bac61e216e8b042cd75f9bbeaa78f983fbad2896f2803d32593",
+      "bytes": 996
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.fenix.pr.leg.br/candidatos/139-86.txt",
+      "sha256": "19b6bc8647cac35b4682a67b0c7dffac583fde8eea50a47529b9e90d73e3653b",
+      "bytes": 922
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.fenix.pr.leg.br/candidatos/140-87.txt",
+      "sha256": "d3a824a6ed62c39d8936f1593bf27fdee0fda997ac4284f739fea2206b7b0772",
+      "bytes": 1027
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.fenix.pr.leg.br/candidatos/141-88.txt",
+      "sha256": "7498c7d9b6fb1df434c66ef2444bcba9da0f9c6a8c9eae4929c5ea57a032d6ae",
+      "bytes": 952
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.fenix.pr.leg.br/candidatos/142-89.txt",
+      "sha256": "7646d7f3350272c50165212c12b5076a80f443a2e9d65d5dd680c1acb90b1317",
+      "bytes": 808
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.fenix.pr.leg.br/candidatos/143-91.txt",
+      "sha256": "58baacbe2df2e7cec31c1bcbe3245fab8a2ad17b9c63c80a78135f58c72440a4",
+      "bytes": 949
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.fenix.pr.leg.br/candidatos/144-92.txt",
+      "sha256": "c01ba273356ec58c45e8d2dd37eb86fcdd913c58bfa9842ce2f9085e48d90b26",
+      "bytes": 1840
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.fenix.pr.leg.br/candidatos/145-93.txt",
+      "sha256": "f4abd65adde5d0570c6b3d0dec67193453c957d9c87d40eebc408ed1d4731c8f",
+      "bytes": 1020
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.fenix.pr.leg.br/candidatos/1459-70.txt",
+      "sha256": "98cab620794bd28f390529f83619171ca448d6e140643e3e7e3436b3842b2d3c",
+      "bytes": 7511
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.fenix.pr.leg.br/candidatos/1465-94.txt",
+      "sha256": "12ff08d46fa0b279ec368054cf1b37b1116388988aab716df64c823fcb46e3ff",
+      "bytes": 685
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.fenix.pr.leg.br/candidatos/1470-96.txt",
+      "sha256": "94edaa548b5b5a7a15a18fb334a477509a14e36b50dfa571276da8bbc9d91f7f",
+      "bytes": 2945
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.fenix.pr.leg.br/candidatos/1498-130.txt",
+      "sha256": "bebc5752e8ced60f23de999af79ecb0c1cf94f1609ef098aefb4e1d384f0e375",
+      "bytes": 3218
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.fenix.pr.leg.br/candidatos/5-3.txt",
+      "sha256": "41e50fe0faa053dc2ca26e1907e2560cd2a1e09723d26df33eacf38568e86afb",
+      "bytes": 142894
+    },
+    {
+      "arquivo": "scripts/auditar.py",
+      "sha256": "a49009efb2d02a3059bf5cbaddc39529c24e2630e377f46cf419c765033ca648",
+      "bytes": 6096
+    },
+    {
+      "arquivo": "scripts/auditar_anexos_sapl.py",
+      "sha256": "9ade983595c7cd4e7a3ec52b15ab460dcf75ec853dd2b309870645458d75f362",
+      "bytes": 7986
+    },
+    {
+      "arquivo": "scripts/auditar_colisoes_lote_municipal.py",
+      "sha256": "9a2352f632d8255cfae6f0317caf62a77b84b41a548e4112fe7ae971ac3a434c",
+      "bytes": 3135
+    },
+    {
+      "arquivo": "scripts/auditar_commonmark_ta.py",
+      "sha256": "7867057e17ae91c547b30da336caa064b5d444d593c546e7091bbbf95c2820bf",
+      "bytes": 8927
+    },
+    {
+      "arquivo": "scripts/auditar_commonmark_ta_v2.py",
+      "sha256": "c2a5ba63f7310a439503707bcaac10e4a4d904f40a29e4e0026eb33a73458974",
+      "bytes": 10158
+    },
+    {
+      "arquivo": "scripts/auditar_commonmark_ta_v3_privado_20261027.py",
+      "sha256": "9c07d8d260f02d0f8f7bc8df014ec27716283c45ff5a87e69f9a2fba0d9f21e4",
+      "bytes": 1947
+    },
+    {
+      "arquivo": "scripts/auditar_contexto_completo_ta.py",
+      "sha256": "f44151983d56fd8ff3380b5ad14ad8557215b895048d6405e7563b21b6a3b066",
+      "bytes": 4689
+    },
+    {
+      "arquivo": "scripts/auditar_emissores_sapl.py",
+      "sha256": "1749efcc1a6334b652716841d89cec2170eabaa580b23937b4a83a5ea74af023",
+      "bytes": 2856
+    },
+    {
+      "arquivo": "scripts/auditar_epigrafes_literais_sapl.py",
+      "sha256": "f05f5647f7345c49539ea746f912935729c62e7fb09ae06cd5b6a77b9bcc216c",
+      "bytes": 4690
+    },
+    {
+      "arquivo": "scripts/auditar_jurisdicao_ta.py",
+      "sha256": "2eeaa4c3704a0a720f4c6ecc157406c9062522a8c8817066d60ac60573aaf9bd",
+      "bytes": 2583
+    },
+    {
+      "arquivo": "scripts/auditar_municipal.py",
+      "sha256": "817f196f53162076bac125fb7c509e9ba6d9479e9aa6918ae5428822dec43ac8",
+      "bytes": 8443
+    },
+    {
+      "arquivo": "scripts/auditar_textos_articulados_sapl.py",
+      "sha256": "f252f6495f44b5abe768f169f079c44241ff9dd7919d7ff02640f1ec75945602",
+      "bytes": 8176
+    },
+    {
+      "arquivo": "scripts/auditar_textos_articulados_sapl_v3.py",
+      "sha256": "1b93f353c686aecdc8674eae482a92e84a09be209fb34afc41c53bef53ffbe3d",
+      "bytes": 9614
+    },
+    {
+      "arquivo": "scripts/auditar_textos_articulados_sapl_v4.py",
+      "sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+      "bytes": 9993
+    },
+    {
+      "arquivo": "scripts/baixar_organicas_sapl.py",
+      "sha256": "148df658e432b0eea050a1444c09854123732796c689267f7094a1f88db7d682",
+      "bytes": 21700
+    },
+    {
+      "arquivo": "scripts/baixar_textos_articulados_sapl.py",
+      "sha256": "7dd7c1978025f1180979fd5597f043e0484a634b3a33ea6a5e71fdaf81115e74",
+      "bytes": 13684
+    },
+    {
+      "arquivo": "scripts/baixar_textos_articulados_sapl_v2.py",
+      "sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+      "bytes": 13875
+    },
+    {
+      "arquivo": "scripts/comparar_baseline_municipal_head_20261027.py",
+      "sha256": "6cf4eb7ef24c88aff11487039d766cd27be1f6f21d4a30fa7a93f4128f7b7ab2",
+      "bytes": 2948
+    },
+    {
+      "arquivo": "scripts/comum.py",
+      "sha256": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24",
+      "bytes": 19447
+    },
+    {
+      "arquivo": "scripts/conferir_tabelas_nativas_ta.py",
+      "sha256": "606b9e1fa70dfd8010af6837b8ee03274511c8cff7dd2b09da4b4037dcb0660f",
+      "bytes": 4532
+    },
+    {
+      "arquivo": "scripts/congelar_baseline_municipal_head_20261027.py",
+      "sha256": "191f21e4b21378dd1abaa6609328adf379c8e8c1831ae49b78d231d842a317bf",
+      "bytes": 6132
+    },
+    {
+      "arquivo": "scripts/converter_organica_fortaleza.py",
+      "sha256": "84784009dbf676e8a912dad5954da4cfb8385dc897702b02043c3bbf55a6175d",
+      "bytes": 6998
+    },
+    {
+      "arquivo": "scripts/diagnosticar_css_glifos_ta_20261027.py",
+      "sha256": "9eccd6f12755049fe6d744a9360be87ce6c5666818ee13cc4ce6c106f52d1e83",
+      "bytes": 7966
+    },
+    {
+      "arquivo": "scripts/empacotar_lote_ta_v2.py",
+      "sha256": "1878f6c5a3d45e526309eb65afc9316f147fb66d0818defbb1e5bbf40989191c",
+      "bytes": 6732
+    },
+    {
+      "arquivo": "scripts/empacotar_lote_ta_v3.py",
+      "sha256": "68fd0b139298cd9a6dbb20a518735da99c508866e9358a158ff1a5bc70e1cb11",
+      "bytes": 6915
+    },
+    {
+      "arquivo": "scripts/empacotar_lote_ta_v4.py",
+      "sha256": "b0ce22ffe502f6b63150275f28468334645ceee65db0a9f775c96edb161026c1",
+      "bytes": 7464
+    },
+    {
+      "arquivo": "scripts/epigrafe_tipo_literal_ta.py",
+      "sha256": "66b3592a85c46073c84fe8eecc5f390b39780075c7381ed896d4af27bf6d074c",
+      "bytes": 2556
+    },
+    {
+      "arquivo": "scripts/estados/pe_fidelidade_visivel.py",
+      "sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+      "bytes": 7551
+    },
+    {
+      "arquivo": "scripts/fechar_lotes_municipais_v7_20261028.py",
+      "sha256": "7ccf4c3b8612f781ed05ee519403e10df586da74b3f32e9f77804f6b7314662c",
+      "bytes": 11517
+    },
+    {
+      "arquivo": "scripts/fila_textos_articulados_sapl.py",
+      "sha256": "fae2fcd8d7cd06b80af1583417e1c9d85eb9dce60d40775160dfe0215204c3dd",
+      "bytes": 8321
+    },
+    {
+      "arquivo": "scripts/granularidade_sapl.py",
+      "sha256": "d92d9b1d53240888103a2602046d11b510f2db9192afc4cdeea37db697dd1b87",
+      "bytes": 2972
+    },
+    {
+      "arquivo": "scripts/html2md.py",
+      "sha256": "6ad648a6a94c8d51d880a2d79c39f1abe751032d3355e468363e43ca83fdcdc6",
+      "bytes": 15168
+    },
+    {
+      "arquivo": "scripts/materializar_textos_articulados_sapl.py",
+      "sha256": "9e1d636d3befc3157501af0e53362eada604ecc08e364bc2508b8993b5429d6f",
+      "bytes": 9762
+    },
+    {
+      "arquivo": "scripts/materializar_textos_articulados_sapl_v2.py",
+      "sha256": "e3533e51cd02c9f58c76759520672c2fbbc297b189e05f4d161fddc822569b5d",
+      "bytes": 10540
+    },
+    {
+      "arquivo": "scripts/materializar_textos_articulados_sapl_v3.py",
+      "sha256": "823127e8103290674dda32a48b91d1c07c72331751765fec5db1206041ade713",
+      "bytes": 10598
+    },
+    {
+      "arquivo": "scripts/materializar_textos_articulados_sapl_v4.py",
+      "sha256": "3761528e4a24ba9fb8b5bf256f24a6791ca0728a68e9af390a3346b9b9722be1",
+      "bytes": 10660
+    },
+    {
+      "arquivo": "scripts/materializar_textos_articulados_sapl_v5.py",
+      "sha256": "cc15ede602c89faf6ec56a8e77b428f8fb4fa465a08f4ba5d5e04e389b9072d3",
+      "bytes": 12155
+    },
+    {
+      "arquivo": "scripts/materializar_textos_articulados_sapl_v7_privado_20261027.py",
+      "sha256": "bfe854a8cf2bad3abb202741b8cd2f498ddc09df560ef015948cc8029f10c322",
+      "bytes": 14562
+    },
+    {
+      "arquivo": "scripts/perfil_ta_tachados_preservados_20261027.py",
+      "sha256": "37adb813cf376ac6ef4e024cbf4197319f8ae5a45c151157af6a39390170ff88",
+      "bytes": 7645
+    },
+    {
+      "arquivo": "scripts/preparar_reparos_commonmark_ta6.py",
+      "sha256": "9189d5dbe33e6b88868bc6ff5c458cc4c4beebc38f777a0ce7dab7db0a3205b9",
+      "bytes": 6181
+    },
+    {
+      "arquivo": "scripts/preparar_reparos_escapes_ta_46_20261027.py",
+      "sha256": "cb93216691f390d2637e67acd1266a378ec5d029d9f3ce17f7975f446a54333e",
+      "bytes": 5802
+    },
+    {
+      "arquivo": "scripts/promover_reparos_ta47_20261028.py",
+      "sha256": "8ff2c157782f7670d69ec97f87e4845f6df925187d60adcd51abcce983f695a5",
+      "bytes": 16546
+    },
+    {
+      "arquivo": "scripts/qa_municipal_persistente_20261027.py",
+      "sha256": "dd89a2fefae6c7dce6b15aab655b819d512020ddc03165b1ce384f0c9e419140",
+      "bytes": 1068
+    },
+    {
+      "arquivo": "scripts/selecionar_lote_ta.py",
+      "sha256": "4f9fef2ea112e555438b0a4a4b6eda008462c0c9c97fd1a07caadc68b489181a",
+      "bytes": 2770
+    },
+    {
+      "arquivo": "scripts/selecionar_lote_ta_v2.py",
+      "sha256": "ed1f0a1eaeda7c9c3f1271ecdbbae4634b92e070bb936d4d89f3e5d2ac57f520",
+      "bytes": 2989
+    },
+    {
+      "arquivo": "scripts/selecionar_recuperacao_identidade_ta.py",
+      "sha256": "267bcf939e8e1bb1bc4ecafd45e79187b51b0ca77ec168c3182851deacf9a166",
+      "bytes": 3693
+    },
+    {
+      "arquivo": "scripts/selecionar_recuperacao_tabelas_ta.py",
+      "sha256": "e885aa3df5a06284177898e2ae0af665e9c3f159933daf9b0d679c5ca5643d94",
+      "bytes": 3778
+    },
+    {
+      "arquivo": "scripts/test_baseline_municipal_head_20261027.py",
+      "sha256": "30250b10f743dacc98ede87d6df444d80c8411387ae8e3be7d68a6e0c2f89499",
+      "bytes": 4572
+    },
+    {
+      "arquivo": "scripts/test_colisoes_lote_municipal.py",
+      "sha256": "19ecbd08a458ba576e436d0e4ee07c06e412857763f60998d955cc0373f85830",
+      "bytes": 1242
+    },
+    {
+      "arquivo": "scripts/test_commonmark_ta.py",
+      "sha256": "32019a2b9a0a818cf19aa1ae8545c3d3c0f7d99c29e841958ca47466ff2e4100",
+      "bytes": 2294
+    },
+    {
+      "arquivo": "scripts/test_commonmark_ta_v2.py",
+      "sha256": "c1524dba0e1cb87b304f8603186ffe74922acc9b6e57449e0a34ad12ee06572e",
+      "bytes": 1094
+    },
+    {
+      "arquivo": "scripts/test_contexto_completo_ta.py",
+      "sha256": "49a6f6ed9cfaa45e6d27656bc7506ac5c322e9b4eedca4ff336b4abdaaa08856",
+      "bytes": 1690
+    },
+    {
+      "arquivo": "scripts/test_data_captura_ta.py",
+      "sha256": "4d176f217edb18973aac6fe29866c74e1055a77579412983e706bd9d141a6cf6",
+      "bytes": 961
+    },
+    {
+      "arquivo": "scripts/test_emissores_sapl.py",
+      "sha256": "77e097c66c2c6e195e475176b9516e0ab693de167f3f5133381982de5e3fc91e",
+      "bytes": 961
+    },
+    {
+      "arquivo": "scripts/test_epigrafe_tipo_literal_ta.py",
+      "sha256": "5c62a02119d04d11a021203222cb1de84d3cba9eb4c0535771d647ab84a5ebfe",
+      "bytes": 2220
+    },
+    {
+      "arquivo": "scripts/test_fila_ta_sapl.py",
+      "sha256": "3c50951e427c63adca050bb2f058a133192e0bb9aacbb1aad0962f83abf2d43c",
+      "bytes": 1716
+    },
+    {
+      "arquivo": "scripts/test_gates_textos_articulados_sapl.py",
+      "sha256": "d9c9e0e028ae369c624f0cd8a7dfbe9f99353c386d3cc2057d4cbfb2a8b63e2e",
+      "bytes": 2871
+    },
+    {
+      "arquivo": "scripts/test_indice_materializacao_ta_v5.py",
+      "sha256": "0e041f434e9b41aa5886b663abdfc1c11eab1935aba39573ea179374ad2b71ba",
+      "bytes": 1664
+    },
+    {
+      "arquivo": "scripts/test_reparos_commonmark_ta6.py",
+      "sha256": "dd5adedb93b66587549c18a96af275b55e5a5ff969315058418a120f92972d5c",
+      "bytes": 2198
+    },
+    {
+      "arquivo": "scripts/test_rotulo_literal_ta.py",
+      "sha256": "1c5e028d510416b871084cd2143cd6e63c433b5be244a517dcbdf53542be76a3",
+      "bytes": 2026
+    },
+    {
+      "arquivo": "scripts/test_tabelas_nativas_ta.py",
+      "sha256": "5b3911115094b72e35815b8ff154793760ab8e111f02e1e7a5051566d730227f",
+      "bytes": 1379
+    },
+    {
+      "arquivo": "scripts/test_tabelas_nativas_ta_reais.py",
+      "sha256": "2d88c7d7ed60b5292ccd3822c1bdbfe5a50b3c49459f6e2ade5c32b227949520",
+      "bytes": 1506
+    },
+    {
+      "arquivo": "scripts/test_textos_articulados_sapl.py",
+      "sha256": "f4ffa5c7d80203619f3c9fabc18798e0415cacab434bbc7a456ed9de45fcdf1f",
+      "bytes": 1908
+    },
+    {
+      "arquivo": "scripts/test_verificador_tabelas_ta.py",
+      "sha256": "ff488ef260b2ad2065ecacc11cc7e8839ad3a94c0220385c705c46bf99e05fed",
+      "bytes": 2077
+    },
+    {
+      "arquivo": "scripts/test_verificar_promocoes_ta.py",
+      "sha256": "cb52f0dd6b1e265c3d3656b465fe3e940885a1aa840abfe1d5035c1c1acf7597",
+      "bytes": 1964
+    },
+    {
+      "arquivo": "scripts/verificar_entrega_ta_promocoes.py",
+      "sha256": "8737bf799ed4cf6ee23951599dbefc7d6302311bab8881a082a43e2f9a064885",
+      "bytes": 4478
+    },
+    {
+      "arquivo": "scripts/verificar_entrega_ta_sem_promocoes_v2.py",
+      "sha256": "0df5d0f5897ab3efb2303f002439a72a0a296ad8233b134447d485b61d9eb30d",
+      "bytes": 4313
+    },
+    {
+      "arquivo": "scripts/verificar_entrega_ta_sem_promocoes_v3_privado_20261027.py",
+      "sha256": "469509ef2efb76a6a24ecccbfa5525faeb4424b9828f51115b69756afd264b3c",
+      "bytes": 4412
+    },
+    {
+      "arquivo": "scripts/verificar_textos_articulados_materializados.py",
+      "sha256": "41563c6048c4eb3baae9a3470a5f238c15b6292bdaff5dd3020f34eeed4b15b1",
+      "bytes": 2790
+    },
+    {
+      "arquivo": "scripts/verificar_textos_articulados_materializados_v2_privado_20261027.py",
+      "sha256": "4b12343c980f41917b2d783000138a3243ae559d4f3db5246aa0bc4e303b35f3",
+      "bytes": 2889
+    }
+  ],
+  "limite": "Novos candidatos privados qualificados por V7, API/M, identidade, captura real, contexto, replay integral e dedup HEAD+reservas. Fonte histórica retida no bruto; tachados preservados, sem classificação jurídica."
+}

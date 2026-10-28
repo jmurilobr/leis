@@ -1,0 +1,120 @@
+---
+titulo: "Lei Ordinária Municipal nº 1.589, de 10 de setembro de 2015"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "1589"
+data: "2015-09-10"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/11"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/442/text"
+sha256_fonte: "ae9a60a03d7f2cb08c13335a8b70439d406694c05718dfba33b97b4ca2673a63"
+sha256_texto: "eb5353f1b6cdc4a5c7cae17dede00dd8d4add9183ede0dbcf4646967f81e69eb"
+capturado_em_fonte: "2026-10-27T22:36:14.038485-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 1.589, de 10 de setembro de 2015
+
+Institui o cartão alimentação aos servidores ativos estatutários e celetistas, cargos de provimento em comissão e contratados, no âmbito da administração direta do Município de Califórnia – Paraná.
+
+
+A CÂMARA MUNICIPAL DE CALIFÓRNIA, ESTADO DO PARANÁ, APROVOU E EU, PREFEITA, SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+
+Art. 2º.
+
+O cartão alimentação de que trata a presente lei constitui-se em verba indenizatória no valor de R$ 100,00 (cem reais), destinada a subsidiar custos de alimentação a servidores que se encontram no exercício de suas funções.
+
+
+Parágrafo único
+
+O servidor que acumule cargos ou empregos na forma da Constituição fará jus à percepção de um único cartão alimentação, mediante opção.
+
+
+Art. 3º.
+
+Fica fixado em 20 (vinte) o número de dias trabalhados mensalmente para efeitos desta Lei.
+
+
+Parágrafo único
+
+A concessão do cartão alimentação será feita aos servidores até o dia 15 (quinze) do mês subsequente à apuração da efetividade do mês anterior.
+
+
+Art. 4º.
+
+O valor do benefício será calculado proporcionalmente aos dias efetivamente.trabalhados
+
+
+Parágrafo único
+
+não haverá descontos no valor do cartão alimentação até o limite de 03 (três) dias mensais de afastamento por motivo de doença, desde que devidamente justificado.
+
+
+Art. 5º.
+
+O servidor não fará jus ao presente cartão quando não estiver efetivamente trabalhando por qualquer modalidade de licença, e, quando tiver despesas custeadas conforme Lei Municipal 1504/2013.
+
+
+Art. 6º.
+
+O cartão alimentação não será:
+
+
+I –
+
+incorporado ao vencimento, remuneração, provento ou pensão;
+
+
+II –
+
+configurado como rendimento tributável e nem sofrerá incidência de contribuição para o Plano de Seguridade Social do servidor público;
+
+
+III –
+
+caracterizado como salário utilidade ou prestação in natura.
+
+
+Art. 7º.
+
+Para execução do disposto nesta lei, poderá o Poder Executivo contratar, através de Licitação, empresa especializada para a prestação de serviços de implantação, gerenciamento, administração, emissão, fornecimento e manutenção dos cartões alimentação, através de cartões magnéticos.
+
+
+Art. 8º.
+
+A confecção dos cartões alimentação será realizada de forma personalizada, a critério da Administração Municipal, na quantidade correspondente ao número de servidores que se enquadrarem nos critérios previstos nesta lei.
+
+
+Art. 9º.
+
+O cartão alimentação poderá ser reajustado anualmente através de Decreto, de acordo com o índice inflacionário.
+
+
+Art. 10.
+
+As despesas decorrentes desta Lei correrão por conta de dotação orçamentária própria do Município de Califórnia.
+
+
+Art. 11.
+
+Esta lei entrará em vigor na data de sua publicação, com efeitos financeiros a contar de finalização do processo licitatório para execução desta lei.
+
+
+Edifício da Prefeitura de Califórnia-PR,
+
+aos 10 dias do mês de setembro de 2015.
+
+***ANA LUCIA MAZETO GOMES***
+
+Prefeita
+

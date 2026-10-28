@@ -1,0 +1,62 @@
+---
+titulo: "Decreto-SEMPOG nº 19.502, de 31 de outubro de 2023"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "19.502"
+data: "2023-10-31"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/25922"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/8510/text"
+sha256_fonte: "25402727727bcef5c70134f0b3bd10bd866fe11eaa2cb9b8eb482a0ee7d2d78b"
+sha256_texto: "35925945ec9b2464b1f9f302001cd51926df2bb72c5cc89c96c2cc8266d6b1aa"
+capturado_em_fonte: "2026-10-21T04:58:46.978838-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 19.502, de 31 de outubro de 2023
+
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Transposição de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei n.º 2.998, de 19 de dezembro de 2022, a fim de proceder às adequações orçamentárias no exercício 2023, e
+
+Considerando a Portaria GM/MS n.° 544, de 03 de maio de 2023, que institui procedimentos para execução de despesas em ações e serviços públicos de saúde autorizadas na Lei Orçamentária Anual de 2023 com base no art. 8° da Emenda Constitucional n.° 126/2022;
+
+Considerando o Ofício n.° 40/DCF/CGF/GAB/SEMUSA, de 23 de outubro de 2023, pelo qual a Secretaria Municipal de Saúde - SEMUSA, solicita a movimentação de recursos para cobertura de despesas com aquisição de equipamentos para a manutenção da Atenção Básica de Saúde;
+
+**D E C R E T A:**
+
+**Art. 1º** – Fica alterado o Orçamento Anual do Município de Porto Velho por meio de transposição de recursos orçamentários no valor de R$ 1.315.277,00 (um milhão, trezentos e quinze mil, duzentos e setenta e sete reais).
+
+**Art. 2º** - A transposição decorre da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas dentro da mesma uidade orçamentária, conforme disposto no inciso XVII do Artigo 6º da Lei nº 2.946, de 30 de junho de 2022 – Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><tbody><tr><td colspan="7"><p><strong>08.00 - SECRETARIA MUNICIPAL DE SAÚDE - SEMUSA</strong></p></td></tr><tr><td colspan="7"><p><strong>08.01 - SECRETARIA MUNICIPAL DE SAÚDE - SEMUSA</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESPERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>TRANSPÕE R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td><p>08.31.10.302.329.2.669</p></td><td><p>Manutenção das Unidades de Saúde de</p><p>Média Complexidade</p></td><td><p>SEG</p></td><td><p>4.4.90.52</p></td><td><p>1.601.3110</p></td><td><p>350.000,00</p></td><td><p>-</p></td></tr><tr><td><p>08.31.10.122.336.2.676</p></td><td><p>Construir, ampliar, reformar e recuperar</p><p>bens imóveis da Semusa</p></td><td><p>SEG</p></td><td><p>3.3.90.39</p></td><td><p>1.601.3110</p></td><td><p>965.277,00</p></td><td><p>-</p></td></tr><tr><td><p>08.31.10.301.317.2.664</p></td><td><p>Manutenção dos serviços das Unidades</p><p>Básicas de Saúde</p></td><td><p>SEG</p></td><td><p>4.4.90.52</p></td><td><p>1.601.3110</p></td><td><p>-</p></td><td><p>1.315.277,00</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>1.315.277,00</strong></p></td><td><p><strong>1.315.277,00</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>1.315.277,00</strong></p></td><td><p><strong>1.315.277,00</strong></p></td></tr></tbody></table>
+
+**Art. 3º** – Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 18.721, de 19 de dezembro de 2022 e o Detalhamento da Despesa, estabelecido pelo Decreto n.º 18.722, de 19 de dezembro de 2022.
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** - Revogam-se as disposições em contrário.
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto
+

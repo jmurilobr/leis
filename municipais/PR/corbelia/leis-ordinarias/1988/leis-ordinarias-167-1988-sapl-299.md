@@ -1,0 +1,282 @@
+---
+titulo: "04 - Lei Ordinária nº 167, de 22 de dezembro de 1988"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "167"
+data: "1988-12-22"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/299"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/282/text"
+sha256_fonte: "5862dcbecac89c508522bdf8c0faec925d82352060ec4d07bae5f56cee2c74ab"
+sha256_texto: "cfdeacf28e3d16234ebbc5a85883b79dd362f59af5b6b7a06b4df98d83d7fcda"
+capturado_em_fonte: "2026-10-28T08:24:46.832152-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 167, de 22 de dezembro de 1988
+
+Cria o Imposto Municipal sobre combustíveis líquidos e gasosos e dá outras providências.
+
+
+Faço saber que a CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou e, Eu Prefeito Municipal sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+O imposto Municipal sobre combustíveis líquidos e gasosos - IVV tem como fato gerador a venda a varejo efetuada por estabelecimentos que promova a sua comercialização.
+
+
+Parágrafo único
+
+Consideram-se ao varejo, as vendas de qualquer quantidade, efetuadas ao consumidor final.
+
+
+Art. 2º.
+
+O IVV não incide sobre a venda a varejo de óleo diesel.
+
+
+Art. 3º.
+
+Consideram-se local de operação aquele onde se encontra o produto no momento da venda.
+
+
+Art. 4º.
+
+Contribuinte do imposto é o estabelecimento comercial ou industrial que realizar as vendas descritas no art 1º.
+
+
+§ 1º
+
+Consideram-se estabelecimentos o local construído ou não, onde o contribuinte exercer sua atividade em caráter permanente ou temporário, de comercialização a varejo dos combustíveis sujeitos ao imposto.
+
+
+§ 2º
+
+Para efeito de cumprimento da obrigação será considerado autônomo cada um dos estabelecimentos, permanentes ou temporários, inclusive os veículos utilizados no comércio ambulante.
+
+
+§ 3º
+
+O disposto no parágrafo anterior não se aplica aos veículos utilizados para simples entrega de produtos a destinatários certos, em decorrência de operação já tributada.
+
+
+Art. 5º.
+
+Consideram-se também contribuintes:
+
+
+I –
+
+Os estabelecimentos de sociedade civis de fins não econômicos inclusive cooperativas, que pratiquem com habitualidade operações de venda a varejo de combustíveis líquidos e gasosos.
+
+
+II –
+
+O estabelecimento de órgão da administração pública direta, de autarquia ou de empresa pública, federal, estadual ou Municipal, que venda a varejo produtos sujeitos ao imposto, ainda que a compradores de determinada categoria profissional ou funcional.
+
+
+Art. 6º.
+
+São sujeitos passivos por substituição, produtor, o distribuidor e o atacadista de produtos combustíveis relativamente ao imposto devido pela venda a varejo promovida por contribuinte, por microempresa ou por contribuinte isento.
+
+
+Art. 7º.
+
+São responsáveis, solidariamente, pelo pagamento do imposto devido:
+
+
+I –
+
+O transportador, em relação a produtos transportados e comercializados no varejo durante o transporte;
+
+
+II –
+
+O armazém ou o depósito que mantenha sob a sua guarda, em nome de terceiros, produtos destinados a venda direta a consumidor final.
+
+
+Art. 8º.
+
+A base de cálculo do imposto é o valor de venda do combustíveis líquidos ou gasosos no varejo, incluídas as despesas adicionais pelo vendedor ao comprador.
+
+
+Parágrafo único
+
+o montante do imposto integra a base de cálculo a que se refere este artigo, constituindo o respectivo destaque mera indicações para fins de controle.
+
+
+Art. 9º.
+
+A autoridade fiscal poderá arbitrar a base de cálculo, sempre que:
+
+
+I –
+
+Não forem exibidos ao fisco os elementos necessários à comprovação do valor das vendas, inclusive nos casos de perda, extravio ou atraso na escrituração de livros ou documentos fiscais;
+
+
+II –
+
+Houve fundada suspeita de que os documentos fiscais não refletem o valor real das operações de venda;
+
+
+III –
+
+Estiverem ocorrendo venda ambulante, a varejo, de produtos desacompanhados de documentos fiscais;
+
+
+Art. 10.
+
+As alíquotas do imposto são:
+
+
+I –
+
+Gasolina até 3%
+
+
+II –
+
+Querosene Luminante até 3%
+
+
+III –
+
+Álcool hidratado até 3%
+
+
+IV –
+
+Óleos combustíveis até 3%
+
+
+V –
+
+Gás liquefeito de petróleo até 3%
+
+
+VI –
+
+Gás natural encanado até 3%
+
+
+VII –
+
+Gasolina de aviação até 3%
+
+
+VIII –
+
+Querosene de aviação até 3%
+
+
+Art. 11.
+
+O valor do imposto a recolher será apurado mensalmente, e pago através de guia preenchida pelo contribuinte, e pago em modelo pela Secretaria da Fazenda do Município, na forma e nos prazos previstos em regulamento.
+
+
+Parágrafo único
+
+O regulamento deverá disciplinar os casos de recolhimento efetuado por contribuinte ou responsável não inscritos.
+
+
+Art. 12.
+
+O poder executivo poderá celebrar convênios com Estados e Municípios, objetivando a implantação de normas e procedimentos que se destinem à cobrança e à fiscalização do tributo.
+
+
+Parágrafo único
+
+O convênio poderá disciplinar a substituição tributária em caso de substituto sediado em outro Município.
+
+
+Art. 13.
+
+O crédito tributário não liquidado nas épocas próprias fica sujeito a atualização monetária de seu valor.
+
+
+Parágrafo único
+
+O descumprimento das obrigações principais e assessorais sujeitará o infrator às seguintes penalidades, sem prejuízos da exigência do imposto.v
+
+
+I –
+
+falta de recolhimento do tributo - multa de 100% do valor do imposto;
+
+
+II –
+
+falta de emissão do documento fiscal em operação não escriturada multa de 200% do valor de imposto;
+
+
+III –
+
+emitir documento fiscal consignado importância diversas do valor da operação ou com valores diferentes nas respectivas vias, com o objetivo de reduzir o valor do imposto a pagar - multa de 200% do valor do imposto não pago;
+
+
+IV –
+
+deixar de emitir documento fiscal, estando a operação devidamente registrada - multa de 10% do valor da 0TN;
+
+
+V –
+
+transportar, receber ou manter em estoque ou depósito, produtos sujeitos ao imposto, sem documento fiscal ou acompanhados de documento fiscal inidôneo – multa de 200% do valor do imposto;
+
+
+VI –
+
+recolher o imposto após o prazo regulamentar, antes de qualquer procedimento fiscal - multa de 40% do valor do imposto;
+
+
+VII –
+
+deixar de reter na fonte o imposto devido, na condição de contribuinte substituto - multa de 40% do valor do imposto;
+
+
+VIII –
+
+deixar de recolher o imposto retido na fonte como contribuinte substituto - multa de 200% do valor do imposto;
+
+
+IX –
+
+estes dispositivos só serão adotados pela legislação do Município se for prevista hipótese de substituição tributária.
+
+
+Art. 14.
+
+O Poder Executivo regulamentará esta Lei no prazo de 30 (trinta) dias contados da data de sua vigência.
+
+
+Art. 15.
+
+O IVV será cobrado a partir do trigésimo dia de sua publicação desta Lei;
+
+
+Art. 16.
+
+Esta Lei entrará em vigor na data sua publicação, revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE CORBÉLIA
+
+Aos 22 dias do mês de dezembro de 1988.
+
+DELSO JOSÉ TRENTIN
+
+PREFEITO MUNICIPAL
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/299/ta
+

@@ -1,0 +1,187 @@
+---
+titulo: "Lei nº 395, de 03 de abril de 1985"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "395"
+data: "1985-04-03"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/4014"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/3825/text"
+sha256_fonte: "1d934421ac885640e08dc06cbc9136679f31225c0ad37f8a691a6f30b55a5096"
+sha256_texto: "dbfd346ec24fa3d12363fd50f55b7b853bf154f64a3d7f51d40c3d29706d63f1"
+capturado_em_fonte: "2026-10-27T22:32:33.621848-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 395, de 03 de abril de 1985
+
+Autoriza o Executivo Municipal a criar a Vigilância Noturna Municipal e dá outras providências.
+
+
+FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO, ' MANTEVE e eu PROMULGO, nos termos do § 4º, do art. 170, da Constituição do Estado de Rondônia, combinado com § 5º do art. 30, da Lei Orgânica dos Municípios a seguinte,
+
+LEI:
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a criar a Vigilância Noturna Municipal.
+
+
+§ 1º
+
+A Vigilância Noturna compreende os seguintes itens:
+
+
+I –
+
+Serviço de prevenção contra roubos, furtos e arrombamentos em residências, estabelecimentos comerciais, prestacionais e públicos;
+
+
+II –
+
+Serviço de Proteção de Bens Públicos contra atos de vandalismo;
+
+
+III –
+
+Prestação de auxílio aos Municípios em casos de emergências.
+
+
+§ 2º
+
+A Vigilância será externa e móvel, sendo exercida diariamente no período das 22:00 às 5:00 horas.
+
+
+Art. 2º.
+
+O Corpo de Vigilância, será composto por Vigilantes, Setoristas e Supervisor.
+
+
+§ 1º
+
+Ao Vigilante compete o exercício das atribuições enumeradas no § 1º do art. 1º desta Lei, em áreas pré-determinadas.
+
+
+§ 2º
+
+Ao Setorista compete a fiscalização dos Vigilantes em setor composto por áreas.
+
+
+a)
+
+As áreas e setores serão organizados pelo Executivo Municipal no ato da regulamentação desta Lei.
+
+
+§ 3º
+
+Ao Supervisor compete a supervisão geral e responsabilidade pela eficiência do corpo de Vigilância Noturna Municipal.
+
+
+§ 4º
+
+O fardamento para todos componentes do Corpo de Vigilantes ser´ de cor azul.
+
+
+§ 5º
+
+É obrigatório a prévia apresentação do Vigilante aos Moradores de sua área de serviço, bem como as Substituições que ocorrerem.
+
+
+Art. 3º.
+
+Para o exercício da função de Vigilante é necessário idade entre 18 e 65 anos e prévio treinamento abrangindo noçõez básicas sobre as seguinte disciplinas:
+
+
+I –
+
+Método e Processos de Vigilância;
+
+
+II –
+
+Defesa Pessoal;
+
+
+III –
+
+Armamento e Tiro;
+
+
+IV –
+
+Organização Policial;
+
+
+V –
+
+Noções de Direito Penal;
+
+
+VI –
+
+Combate à Incêndio;
+
+
+VII –
+
+Primeiros Socorros.
+
+
+Parágrafo único
+
+Fica dispensado do prévio treinamento, os candidatos que sejam ex-policiais ou tenham concluído Curso de Vigilância ministrado por entidades autorizadas por Secretaria de Segurança Pública.
+
+
+Art. 4º.
+
+A remuneração do Vigilante será equivalente ao saldo do soldado da Polícia Militar do Estado de Rondônia.
+
+
+§ 1º
+
+A remuneração do Setorista será 100% a de Vigilante.
+
+
+a)
+
+O Setoristas deverá ser Motorista Habilitado, atividade esta, inclusa na sua função.
+
+
+§ 2º
+
+A remuneração do Supervisor será 100% superior a do Setorista.
+
+
+Art. 5º.
+
+O Corpo de Vigilância Noturna Municipal fica subordinado a Secretaria Municipal de Assistência ao interior.
+
+
+Art. 6º.
+
+Fica o Executivo Municipal autorizado' a celebrar convênios com o Estado para execução desta Lei.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 8º.
+
+Revogam-se as disposições em contrário.
+
+
+Câmara Municipal de Porto Velho (RO), 03 de abril de 1.985.
+
+JOÃO BATISTA COÊLHO DE OLIVEIRA
+
+Presidente
+

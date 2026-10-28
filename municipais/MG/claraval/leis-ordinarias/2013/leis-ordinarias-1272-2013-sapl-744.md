@@ -1,0 +1,658 @@
+---
+titulo: "LEI ORDINÁRIA-CMC nº 1.272, de 20 de março de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "1272"
+data: "2013-03-20"
+municipio: "Claraval"
+uf: "MG"
+codigo_ibge: "3116407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.claraval.mg.leg.br/norma/744"
+fonte_texto: "https://sapl.claraval.mg.leg.br/ta/72/text"
+sha256_fonte: "6135f6e8bdec54ed505491d0ed02787ee3e1003b542364ac41e17a068a388607"
+sha256_texto: "4ffdf0a9b2f86fc437e30135f352cf109e4b98b6de91589c2d853869f9fa6549"
+capturado_em_fonte: "2026-10-27T22:52:37.760971-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA-CMC nº 1.272, de 20 de março de 2013
+
+O Prefeito Municipal, Juliano Diogo Pereira, no uso de suas atribuições legais: Faço saber que a Câmara Municipal de Claraval, Estado de Minas Gerais, aprovou e eu sanciono a seguinte LEI:
+
+
+#### CAPÍTULO I — DO PATRIMÔNIO CULTURAL DO MUNICÍPIO
+
+
+Art. 1º.
+
+Constituem patrimônio cultural do Município de Claraval os bens de natureza material e imaterial, públicos ou particulares, tomados individualmente ou em conjunto, que contenham referência à identidade, à ação e à memória dos diferentes grupos formadores da comunidade municipal, entre os quais se incluem:
+
+
+I –
+
+as formas de expressão;
+
+
+II –
+
+os modos de criar, fazer e viver;
+
+
+III –
+
+as criações científicas, tecnológicas e artísticas:
+
+
+IV –
+
+as obras, objetos, documentos, edificações e demais espaços destinados às manifestações artístico-culturais:
+
+
+V –
+
+os conjuntos urbanos e sítios de valor histórico, paisagístico, artístico, arqueológico, espeleológico, paleontológico, ecológico e cientifico;
+
+
+VI –
+
+os lugares onde se concentram e se reproduzem as práticas culturais coletivas.
+
+
+Art. 2º.
+
+O Município, com a colaboração da comunidade, promoverá e protegerá o seu patrimônio cultural, por meio de:
+
+
+I –
+
+inventário;
+
+
+II –
+
+registro;
+
+
+III –
+
+tombamento;
+
+
+IV –
+
+vigilância;
+
+
+V –
+
+desapropriação;
+
+
+VI –
+
+outras formas de acautelamento e preservação.
+
+
+§ 1º
+
+Para a vigilância de seu patrimônio cultural, o Município buscará articular-se com as administrações estadual e federal, mediante a aplicação de instrumentos administrativos e legais próprios.
+
+
+§ 2º
+
+A desapropriação a que se refere o inciso V do "caput" deste artigo se dará nos casos e na forma previstos na legislação pertinente.
+
+
+Art. 3º.
+
+O disposto nesta lei aplica-se aos bens pertencentes às pessoas naturais, bem como as pessoas jurídicas de direito privado e de direito público interno.
+
+
+#### CAPÍTULO II — DOS INSTRUMENTOS DE PROTEÇÃO DO PATRIMÔNIO CULTURAL DO MUNICÍPIO
+
+
+##### Seção I — Do Inventário
+
+
+Art. 4º.
+
+O inventário é o procedimento administrativo pelo qual o poder público identifica e cadastra os bens culturais do Município, com o objetivo de subsidiar as ações administrativas e legais de preservação.
+
+
+Art. 5º.
+
+O inventário tem por finalidade:
+
+
+I –
+
+promover, subsidiar e orientar ações de políticas públicas de preservação e valorização do patrimônio cultural;
+
+
+II –
+
+mobilizar e apoiar a sociedade civil na salvaguarda do patrimônio cultural;
+
+
+III –
+
+promover o acesso ao conhecimento e à fruição do patrimônio cultural;
+
+
+IV –
+
+subsidiar ações de educação patrimonial nas comunidades e nas redes de ensino pública e privada.
+
+
+Parágrafo único
+
+Na execução do inventário serão adotados critérios técnicos, em conformidade com a natureza do bem, de caráter histórico, artístico, sociológico, antropológico e ecológico, respeitada a diversidade das manifestações culturais locais.
+
+
+##### Seção II — Do Registro
+
+
+Art. 6º.
+
+O registro é o procedimento administrativo pelo qual o poder público reconhece, protege e inscreve em livro próprio como patrimônio cultural bens de natureza imaterial, a fim de garantir a continuidade de expressões culturais referentes à memória, à identidade e a formação da sociedade do Município, para o conhecimento das gerações presente e futuras.
+
+
+Art. 7º.
+
+O registro dos bens culturais de natureza imaterial se dará:
+
+
+I –
+
+no Livro de Registro dos Saberes, no caso dos conhecimentos e modos de fazer enraizados no cotidiano das comunidades;
+
+
+II –
+
+no Livro de Registro das Celebrações, no caso dos rituais e festas que marcam a vivência coletiva do trabalho, da religiosidade, do entretenimento e de outras práticas da vida social;
+
+
+III –
+
+no Livro de Registro das Formas de Expressão, no caso de manifestações literárias, musicais, plásticas, cênicas e lúdicas;
+
+
+IV –
+
+no Livro de Registro dos Lugares, no caso de mercados, feiras, santuários, praças e demais espaços onde se concentram e se reproduzem práticas culturais coletivas.
+
+
+Parágrafo único
+
+Poderão ser criados outros livros de registro, por sugestão do Conselho Municipal do Patrimônio Cultural, para a inscrição de bens culturais de natureza imaterial que constituam patrimônio cultural do Município e que não se enquadrem nos livros definidos nos incisos do "caput" deste artigo.
+
+
+Art. 8º.
+
+A proposta de registro poderá ser feita por membro do Conselho Municipal do Patrimônio Cultural, por órgão ou entidade pública da área de cultura, educação ou turismo ou por qualquer cidadão, entidade ou associação civil.
+
+
+Parágrafo único
+
+A proposta de registro a que se refere o "caput" deste artigo será instruída com documentação técnica que descreva o bem cultural e justifique sua relevância para a memória, a identidade e a formação da comunidade.
+
+
+Art. 9º.
+
+A proposta de registro será encaminhada ao Conselho Municipal do Patrimônio Cultural, que determinará a abertura do processo de registro e, após parecer, decidirá sobre sua aprovação provisória iniciando os estudos necessários para a avaliação e aprovação definitiva.
+
+
+§ 1º
+
+No caso de aprovação da proposta, a decisão do Conselho será encaminhada ao Prefeito para homologação, e depois publicada.
+
+
+§ 2º
+
+Negado o registro, o autor da proposta poderá apresentar recurso da decisão, e o Conselho sobre ele decidirá no prazo de sessenta dias contados da data do recebimento do recurso.
+
+
+Art. 10.
+
+Homologada pelo Prefeito a decisão do Conselho, nos termos do § 1º do art. 9º, o bem cultural será inscrito no livro correspondente, sob a guarda, em arquivo próprio, do Departamento de Cultura e receberá o título de Patrimônio Cultural de Claraval.
+
+
+Art. 11.
+
+Os processos de registro serão reavaliados, a cada 05 anos, pelo Conselho Municipal do Patrimônio Cultural, que decidirá sobre a revalidação do título.
+
+
+§ 1º
+
+Em caso de negativa da revalidação, caberá recurso, observado o disposto no § 2º do art. 9°.
+
+
+§ 2º
+
+Negada a revalidação, será mantido apenas o registro do bem como referência cultural de seu tempo.
+
+
+##### Seção III — Do Tombamento
+
+
+Art. 12.
+
+Tombamento é o procedimento administrativo pelo qual o poder público submete o bem cultural móvel ou imóvel de valor histórico, artístico, paisagístico, etnográfico, arqueológico, sentimental ou bibliográfico à proteção do Município, declarando-o Patrimônio Cultural de Claraval.
+
+
+Parágrafo único
+
+A natureza do objeto tombado e o motivo do tombamento determinarão as diretrizes da proteção a que se refere o "caput" deste artigo.
+
+
+Art. 13.
+
+O tombamento será efetuado mediante inscrição nos seguintes Livros de Tombo:
+
+
+I –
+
+no livro de Tombo Arqueológico, Etnográfico e Paisagístico, os bens pertencentes à categoria de artes ou achados arqueológicos, etnográficos e ameríndios, arte popular, grutas ou jazidas pré-históricas, paisagens naturais e congêneres;
+
+
+II –
+
+no livro de Tombo de Belas Artes, os bens pertencentes à categoria artística e arquitetônica;
+
+
+III –
+
+no livro de Tombo Histórico, os bens pertencentes à categoria histórica, representativos da civilização e natureza da vida do Município;
+
+
+IV –
+
+no livro de Tombo de Artes Aplicadas, os bens pertencentes à categoria das artes aplicadas.
+
+
+Art. 14.
+
+O processo de tombamento de bem pertencente a pessoa natural ou a pessoa jurídica de direito privado ou de direito público se fará a pedido do proprietário ou de terceiro ou por iniciativa do Prefeito ou do Conselho Municipal do Patrimônio Cultural.
+
+
+Art. 15.
+
+O pedido de tombamento será dirigido ao presidente do Conselho Municipal do Patrimônio Cultural.
+
+
+Art. 16.
+
+O processo de tombamento será instruído com os estudos necessários à apreciação do interesse cultural do bem e com as características motivadoras do tombamento e será encaminhado ao Conselho Municipal do Patrimônio Cultural para avaliação.
+
+
+Parágrafo único
+
+No processo de tombamento de bem imóvel, será delimitado o perímetro de proteção e o de entorno ou vizinhança, para fins de preservação de sua ambiência, harmonia e visibilidade.
+
+
+Art. 17.
+
+Caso decida pelo tombamento, o Conselho Municipal do Patrimônio Cultural dará publicidade ao Edital de Tombamento Provisório e notificará o proprietário quanto ao tombamento e suas consequências.
+
+
+§ 1º
+
+O tombamento provisório equipara-se, para todos os efeitos, ao tombamento definitivo, exceto para inscrição no livro de tombo correspondente e para averbação no respectivo livro de registro de imóveis.
+
+
+§ 2º
+
+Quando o proprietário ou titular do domínio útil do bem se encontrar em local incerto e não sabido, a notificação de tombamento será feita por edital.
+
+
+Art. 18.
+
+O proprietário ou o titular de domínio útil do bem terá o prazo de trinta dias contados do recebimento da notificação para anuir ao tombamento ou para, se o quiser impugnar, oferecer as razões de sua impugnação.
+
+
+§ 1º
+
+Caso não haja impugnação no prazo estipulado no "caput" deste artigo, o presidente do Conselho Municipal do Patrimônio Cultural encaminhará a decisão ao Prefeito que procederá, dentro do prazo de 30 dias corridos, homologação e publicação do Edital de Tombamento e determinará, por despacho, que se proceda à inscrição do bem no livro de tombo correspondente.
+
+
+§ 2º
+
+No caso de impugnação, o Conselho Municipal do Patrimônio Cultural terá o prazo de sessenta dias contados do seu recebimento para apreciação e parecer, do qual não caberá recurso.
+
+
+§ 3º
+
+Caso não sejam acolhidas as razões do proprietário, o processo será encaminhado ao Prefeito para o fim de tombamento compulsório, mediante a adoção das providências de que trata o §1º deste artigo.
+
+
+§ 4º
+
+Acolhidas as razões do proprietário, o processo de tombamento será arquivado.
+
+
+§ 5º
+
+Transcorrido o prazo de 30 dias corridos da notificação ao Executivo Municipal da decisão do Conselho relativa ao tombamento, referente ao estabelecido no §1º do "caput" desse artigo, e diante da inércia do mesmo em realizar a homologação e a publicação do Edital de Tombamento, esta será promovida pela Presidência do Conselho do Patrimônio Cultural.
+
+
+Art. 19.
+
+O tombamento só poderá ser cancelado ou revisto por decisão unânime dos membros do Conselho Municipal do Patrimônio Cultural, baseada em fundamentação consistente e apoiada em ampla participação da sociedade civil e, finalmente, homologada pelo Prefeito.
+
+
+Art. 20.
+
+O tombamento é considerado definitivo após a inscrição do bem no respectivo livro de tombo, dele devendo ser dado conhecimento ao proprietário, possuidor ou terceiro interessado.
+
+
+Art. 21.
+
+O Conselho Municipal do Patrimônio Cultural, após o tombamento definitivo de bem imóvel, informará ao cartório de registro de imóveis sobre o tombamento para fins de averbação junto à transcrição do domínio.
+
+
+Parágrafo único
+
+As despesas de averbação correrão por conta do Executivo, nos termos da lei.
+
+
+Art. 22.
+
+Após o tombamento provisório ou definitivo, qualquer pedido de alvará de construção ou reforma ou solicitação de alteração no bem tombado ou em seu entorno será remetido pela Prefeitura ao Conselho Municipal do Patrimônio Cultural para parecer.
+
+
+Art. 23.
+
+O tombamento municipal pode-se processar independentemente do tombamento em esfera estadual e federal.
+
+
+Art. 24.
+
+A alienação onerosa de bem tombado na forma desta lei fica sujeita ao direito de preferência a ser exercido pela Prefeitura, em conformidade com as disposições do Decreto-lei Federal nº 25, de 30 de novembro de 1937.
+
+
+#### CAPÍTULO III — DAS INFRAÇÕES E PENALIDADES ADMINISTRATIVAS
+
+
+Art. 25.
+
+As pessoas físicas ou jurídicas que promovam ações que caracterizem intervenção, sem a prévia autorização do órgão competente, em objeto ou aspecto, estrutura de edificação ou local especialmente protegido ou em seu entorno por lei, ato administrativo ou decisão judicial, em razão de seu valor cultural, sem prejuízo das sanções civis e penais cabíveis, incorrerão nas seguintes penalidades:
+
+
+I –
+
+advertência;
+
+
+II –
+
+multa simples ou diária;
+
+
+III –
+
+suspensão, embargo ou demolição parcial ou total da obra ou das atividades;
+
+
+IV –
+
+reparação de danos causados;
+
+
+V –
+
+restritiva de direitos.
+
+
+§ 1º
+
+Consideram-se intervenções as ações de destruição, demolição, pintura, mutilação, alteração, abandono, ampliação, reparação ou restauração dos bens ou em seu entorno, assim como a execução de obras irregulares.
+
+
+§ 2º
+
+Se o infrator cometer, simultaneamente, duas ou mais infrações, ser-lhe-ão aplicadas, cumulativamente, as sanções a elas cominadas.
+
+
+§ 3º
+
+A pena de advertência será aplicada pela inobservância das disposições desta lei e da legislação em vigor, sem prejuízo das outras sanções previstas neste artigo.
+
+
+§ 4º
+
+A pena de multa diária será aplicada sempre que o cometimento da infração se prolongar no tempo, até a sua efetiva cessação ou regularização da situação, mediante a celebração, pelo infrator, de termo de compromisso de reparação de dano.
+
+
+§ 5º
+
+As sanções restritivas de direito aplicáveis são:
+
+
+I –
+
+a suspensão ou cancelamento de autorização para intervenção em bem tombado ou protegido;
+
+
+II –
+
+a perda ou restrição de incentivo financeiro ou beneficio fiscal municipal;
+
+
+III –
+
+proibição de contratar com a Administração Pública Municipal pelo período de até cinco anos.
+
+
+§ 6º
+
+A parte interna das construções tombadas poderá sofrer reformas a critério de melhor privacidade do proprietário particular, desde que as obras não comprometam a estrutura do prédio ou a razão do tombamento deste. Esta avaliação deverá ser realizada pelo Conselho Municipal do Patrimônio Cultural e, somente após sua autorização expressa, as obras poderão ser iniciadas, caso contrário a modificação será considerada irregular.
+
+
+Art. 26.
+
+Na aplicação das penalidades a que se refere o artigo anterior, serão levadas em conta a natureza da infração cometida e a relevância do bem lesado, classificando-se em:
+
+
+I –
+
+leves: as infrações que importem em intervenções removíveis sem a necessidade de restauro do bem cultural;
+
+
+II –
+
+médias: as infrações que importem intervenção reversível mediante restauro, sem desfiguração definitiva do bem cultural;
+
+
+III –
+
+graves: as ações que importem em irreversível desfiguração ou destruição do bem cultural.
+
+
+Parágrafo único
+
+Cabe ao Departamento de Cultura e/ou ao Conselho Municipal do Patrimônio Cultural notificar ao Ministério Público local e/ou ao Ministério Público Estadual de Defesa do Patrimônio Cultural as infrações graves cometidas contra o patrimônio cultural para a aplicação da legislação penal pertinente.
+
+
+Art. 27.
+
+O valor das multas a que se refere esta lei será recolhido ao Fundo Municipal do Patrimônio Cultural de Claraval, na seguinte conformidade, considerada a relevância do bem cultural:
+
+
+I –
+
+20 a 40 UF (Unidade Fiscal do município de Claraval) às infrações consideradas leves;
+
+
+II –
+
+40 a 60 UF (Unidade Fiscal do município de Claraval) às infrações consideradas médias;
+
+
+III –
+
+200 a 300 UF (Unidade Fiscal do município de Claraval) as infrações consideradas graves.
+
+
+Art. 28.
+
+Os valores das multas previstas no artigo anterior serão atualizados mensalmente até a efetiva recuperação dos bens protegidos.
+
+
+Art. 29.
+
+O Departamento de Cultura, ouvido o Conselho Municipal do Patrimônio Cultural, após a lavratura do auto de infração, indicará a multa prevista para a conduta, bem como, se for o caso, as demais sanções estabelecidas nesta lei, observando a gravidade dos danos e suas consequências para o patrimônio cultural do Município, os antecedentes do infrator quanto ao cumprimento da legislação em defesa do patrimônio cultural e a sua situação econômica.
+
+
+Art. 30.
+
+As multas diárias previstas nesta lei poderão ser suspensas quando o infrator, mediante assinatura de termo de compromisso com o Departamento de Cultura, com a devida anuência do Conselho Municipal do Patrimônio Cultural, obrigar-se a promover medidas especificadas para fazer cessar ou corrigir o dano causado.
+
+
+Parágrafo único
+
+Cumpridas integralmente as obrigações assumidas, a multa poderá ser reduzida em até 80% do valor.
+
+
+Art. 31.
+
+O Departamento de Cultura, com a anuência do Conselho Municipal do Patrimônio Cultural de Claraval, poderá determinar a imediata remoção de qualquer objeto, móvel ou imóvel, cuja instalação ou localização, ainda que de caráter provisório, venha a prejudicar a visibilidade ou qualidade ambiental de um bem tombado ou protegido.
+
+
+Parágrafo único
+
+A infração a este artigo implicará em multa diária não inferior a 1/2 (meio) da UF (Unidade Fiscal do município), até a efetiva remoção do objeto de localização irregular.
+
+
+Art. 32.
+
+Sem prejuízo da aplicação da penalidade cabível e de eventual processo administrativo, o Departamento de Cultura e/ou o Conselho Municipal do Patrimônio Cultural de Claraval promoverá o embargo da obra ou de qualquer gênero de atividade que ponha em risco a integridade do bem cultural tombado ou protegido.
+
+
+§ 1º
+
+Também se considera causa suficiente para o embargo da obra ou da atividade qualquer situação concreta ou abstrata que exponha a risco, efetiva ou potencialmente, o bem tombado ou protegido.
+
+
+§ 2º
+
+A obra embargada será imediatamente paralisada e os serviços só poderão ser reiniciados mediante autorização do Conselho Municipal do Patrimônio Cultural.
+
+
+§ 3º
+
+Em caso de descumprimento da ordem de embargo de obra, o Departamento de Cultura promoverá contra o infrator a medida judicial cabível, sem prejuízo da penalidade prevista no artigo 27, inciso III, aplicada em dobro.
+
+
+§ 4º
+
+Se do descumprimento da ordem de embargo de obra ou da atividade lesiva advir dano irreversível ao bem tombado ou protegido, poderá o Município promover a desapropriação da propriedade do particular, na forma prevista na legislação pertinente.
+
+
+Art. 33.
+
+Os bens tombados, inclusive seu entorno, serão fiscalizados periodicamente pelo Departamento de Cultura, que poderá inspecioná-los sempre que julgar conveniente, sendo vedado aos respectivos proprietários ou responsáveis criar obstáculos à inspeção, sob pena de multa, elevada ao dobro em caso de reincidência.
+
+
+Art. 34.
+
+O proprietário de bem tombado que não dispuser de recursos para proceder às obras de conservação e reparação do bem comunicará ao Conselho Municipal do Patrimônio Cultural sobre a necessidade das obras.
+
+
+Art. 35.
+
+Havendo urgência na execução de obra de conservação ou restauração de bem tombado, poderá a Prefeitura tomar a iniciativa da execução, ressarcindo-se dos gastos mediante procedimento administrativo ou judicial contra o responsável, salvo em caso de comprovada ausência de recursos do titular do bem.
+
+
+Parágrafo único
+
+Cabe ao Conselho Municipal do Patrimônio Cultural atestar a ausência de recursos do proprietário, através da análise de sua declaração de rendimentos e de outras fontes de informação disponíveis.
+
+
+Art. 36.
+
+O Departamento de Cultura é o órgão responsável pela aplicação das multas instituídas por esta Lei.
+
+
+Art. 37.
+
+Aplica-se cumulativamente às disposições previstas neste Capitulo as demais normas relativas às infrações e penalidades previstas no Decreto nº 25, de 30 de novembro de 1937.
+
+
+#### CAPÍTULO IV — DISPOSIÇÕES GERAIS
+
+
+Art. 38.
+
+Cabe ao Departamento de Cultura e ao Conselho Municipal do Patrimônio Cultural de Claraval, na implementação das ações de proteção ao patrimônio cultural do Município:
+
+
+I –
+
+colaborar na definição da política municipal de proteção ao patrimônio cultural e de educação patrimonial em articulação com o Conselho Municipal do Patrimônio Cultural;
+
+
+II –
+
+exercer a vigilância do patrimônio cultural do Município;
+
+
+III –
+
+aplicar multa ou sanção administrativa cabível no caso de infração ao disposto nesta lei;
+
+
+IV –
+
+manter entendimento com autoridades federais, estaduais e municipais, civis ou militares, com instituições científicas, históricas e artísticas e com pessoas naturais ou jurídicas de direito privado, com vistas à obtenção de apoio e cooperação para a preservação do patrimônio cultural do Município.
+
+
+Art. 39.
+
+Será concedida a isenção do Imposto Predial e Territorial Urbano e/ou Imposto Territorial Rural ao contribuinte proprietário de bem tombado em função da manutenção do bem em bom estado de preservação, comprovado em laudo exarado pelo Departamento de Cultura.
+
+
+Art. 40.
+
+Poderão ser realizadas parcerias entre o poder público e a iniciativa privada sempre que necessárias e indispensáveis à proteção do patrimônio cultural do Município.
+
+
+Art. 41.
+
+O Conselho Municipal do Patrimônio Cultural de Claraval adequará o seu regimento interno no prazo de sessenta dias contados da data de sua instalação.
+
+
+Art. 42.
+
+O Conselho Municipal do Patrimônio Cultural, no prazo de trinta dias contados da data de aprovação das alterações de seu regimento interno, regulamentará, por meio de deliberação, as normas procedimentais para a proteção dos bens culturais.
+
+
+Art. 43.
+
+As multas previstas nesta lei serão regulamentadas em decreto.
+
+
+Art. 44.
+
+Fica criado o Prêmio Anual do Patrimônio Cultural de Claraval, a ser concedido a pessoas físicas ou jurídicas que tenham demonstrado significativa atuação em prol da preservação e valorização do Patrimônio Cultural do Município.
+
+
+Parágrafo único
+
+A regulamentação do Prêmio será estabelecida por decreto do Executivo.
+
+
+Art. 45.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Claraval - MG, 20 de março de 2013.
+
+**Juliano Diogo Pereira**
+
+Prefeito Municipal
+

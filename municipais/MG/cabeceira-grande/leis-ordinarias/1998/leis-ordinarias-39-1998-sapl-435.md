@@ -1,0 +1,165 @@
+---
+titulo: "LEI ORDINÁRIA nº 39, de 04 de junho de 1998"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "39"
+data: "1998-06-04"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/435"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/65/text"
+sha256_fonte: "00ed704479b0179062ec3d0166d1cddaf4b2cc171969ac26d0617f266c89db06"
+sha256_texto: "dd23b0a9a12d3bad593a3e2cc32d0447b303d765db76294ecc4a6c94c20a7d0f"
+capturado_em_fonte: "2026-10-27T20:43:00.340845-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 39, de 04 de junho de 1998
+
+Institui o programa de garantia de renda mínima associado a ações sócio-educativas e dá outras providências.
+
+
+**O Prefeito Municipal de Cabeceira Grande, Estado de Minas Gerais**, no uso da atribuição que lhe confere o art.76,III, da Lei Orgânica do Município, faz saber que a Câmara Municipal decreta e ele, em seu nome, promulga a seguinte Lei:
+
+
+Art. 1º.
+
+É instituído o Programa de Garantia de Renda Mínima associado a ações sócio-educativas para famílias carentes residentes no Município.
+
+
+Art. 2º.
+
+O programa de que trata esta lei consiste em:
+
+
+I –
+
+concessão de um auxílio monetário familiar mensal, equivalente à diferença entre a renda familiar e o montante resultante da multiplicação do número de membros da família pelo valor de R$40,00 (quarenta reais);
+
+
+II –
+
+desenvolvimento de ações sócio-educativas em horário complementar ao da freqüência à escola de ensino fundamental, regular ou especial, para os filhos e dependentes das famílias que recebem a renda referida no inciso I.
+
+
+Parágrafo único
+
+As ações sócio-educativas, constituídas de esporte, educação artística, promoções culturais, assistência pedagógica aos trabalhos escolares, iniciação para o trabalho e alimentação escolar, serão desenvolvidas em locais próprios do Município, como escolas, centros sociais, ou em convênio com entidades comunitárias, confessionais ou filantrópicas dedicadas ao atendimento de crianças e adolescentes.
+
+
+Art. 3º.
+
+Para fazer jus ao benefícios de que trata esta lei, famílias deverão atender aos seguintes requisitos:
+
+
+I –
+
+renda familiar per capita até ¼ de salário mínimo;
+
+
+II –
+
+ter filho ou dependente entre 0 e 14 anos;
+
+
+III –
+
+ter todos os filhos e dependentes na faixa de 7 a 14 anos matriculados no ensino fundamental público, regular ou especial, com freqüência e rendimento mínimo estabelecidos pela regulamentação do programa;
+
+
+IV –
+
+residir no Município há pelo menos 03 (três) anos.
+
+
+§ 1º
+
+Para os efeitos desta Lei, considera-se família a unidade nuclear que forme um grupo doméstico vivendo sobre o mesmo teto, cuja economia é mantida pela contribuição de seus membros.
+
+
+§ 2º
+
+Excetuam-se do limite de 14 (quatorze) anos os filhos dependentes portadores de deficiência física, sensorial ou mental.
+
+
+§ 3º
+
+Inexistindo escola pública ou vaga na rede pública na localidade de residência da criança, a exigência de que trata o inciso III do caput deste artigo poderá ser cumprida mediante a comprovação de matrícula em escola privada.
+
+
+Art. 4º.
+
+O descumprimento da freqüência escolar mínima por parte da criança cuja família seja beneficiada pelo programa levará à imediata suspensão do benefício correspondente.
+
+
+Art. 5º.
+
+Serão computados para cálculo da renda familiar os valores concedidos a pessoas que já usufruam de programas federais instituídos de acordo com preceitos constitucionais, tais como previdência rural, seguro-desemprego e renda mínima a idosos e deficientes, bem como programas estaduais e municipais de complementação pecuniária
+
+
+Art. 6º.
+
+O comparecimento e o controle social do Programa será feito por um conselho a ser instituído no prazo de 60 (sessenta) dias a contar da vigência desta Lei, constituído por no mínimo seis membros, sendo três representantes dos órgãos do Poder Executivo diretamente ligados ao financiamento e à execução das ações do Programa, um representante do Conselho Municipal dos direitos da Criança e do adolescente, um representante do Conselho Municipal de Educação e um representante de entidade não-governamental de assistência social ou educacional.
+
+
+Art. 7º.
+
+O Poder Público Municipal desenvolverá programa de acompanhamento, orientação e avaliação das famílias beneficiadas pelo Programa de Garantia de Renda Mínima.
+
+
+Art. 8º.
+
+Será excluído dos benefícios de que trata esta Lei, pelo prazo de cinco anos, ou definitivamente, se reincidente, o beneficiário que prestar declaração falsa, ou usar de qualquer outro meio ilícito para sua obtenção.
+
+
+§ 1º
+
+Sem prejuízo da sanção penal, o beneficiário que auferir ilicitamente do benefício financeiro de que trata o art.2º,I, será obrigado a efetuar o ressarcimento integral da importância recebida, em prazo a ser estabelecido pelo Poder Executivo Municipal, atualizada com base no índice de correção dos tributos municipais.
+
+
+§ 2º
+
+Ao servidor público ou agente de entidade conveniada que concorra para o ilícito previsto neste artigo, inserindo ou fazendo inserir declaração falsa em documento que deva produzir efeito perante o Programa, aplica-se, além das sanções penais e administrativas cabíveis, multa nunca inferior ao dobro dos rendimentos ilegalmente pagos, corrigidos com base no índice de correção dos tributos municipais.
+
+
+Art. 9º.
+
+Os recursos financeiros para o Programa de Garantia de Renda Mínima serão consignados no orçamento municipal.
+
+
+Parágrafo único
+
+Na hipótese de inexistência de programa de trabalho específico para atender as despesas decorrentes desta Lei, fica o Poder Executivo autorizado a abrir crédito especial até o limite de R$50.000,00 (cinqüenta mil reais).
+
+
+Art. 10.
+
+Para o desenvolvimento do Programa de que trata esta Lei, o Poder Executivo Municipal solicitará apoio financeiro da União, conforme prevê a Lei Federal 9.533, de 10.12.1997.
+
+
+Art. 11.
+
+O Poder Executivo regulamentará a presente Lei no prazo de 90 (noventa) dias, contados de sua publicação.
+
+
+Art. 12.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 13.
+
+Revogam-se as disposições em contrário.
+
+
+Cabeceira Grande (MG), 04 de Junho de 1998.
+
+**Antônio Nazaré Santana Melo Prefeito Municipal**
+
+**"Este texto não substitui o original."**
+

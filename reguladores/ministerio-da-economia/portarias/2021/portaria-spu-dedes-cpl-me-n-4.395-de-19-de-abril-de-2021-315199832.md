@@ -1,0 +1,28 @@
+---
+titulo: "PORTARIA SPU-DEDES-CPL /ME Nº 4.395, DE 19 DE ABRIL DE 2021"
+orgao: "Ministério da Economia/Secretaria Especial de Desestatização, Desinvestimento e Mercados/Secretaria de Coordenação e Governança do Patrimônio da União"
+tipo: "Portaria"
+numero: "4395"
+data: 2021-04-19
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/04/2021, seção 1, p. 172"
+data_publicacao: 2021-04-22
+edicao: "74"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-spu-dedes-cpl-/me-n-4.395-de-19-de-abril-de-2021-315199832"
+sha256_html_fonte: c3f162a4610219960a4b4fdff9e25a5cb5dcf94bbda813254300ffbeda247369
+baixado_em: 2026-10-21
+---
+# PORTARIA SPU-DEDES-CPL /ME Nº 4.395, DE 19 DE ABRIL DE 2021
+
+PORTARIA SPU-DEDES-CPL /ME Nº 4.395, DE 19 DE ABRIL DE 2021
+
+O SECRETÁRIO DE COORDENAÇÃO E GOVERNANÇA DO PATRIMÔNIO DA UNIÃO,DA SECRETARIA ESPECIAL DE DESESTATIZAÇÃO, DESINVESTIMENTO E MERCADOS, DO MINISTÉRIO DA ECONOMIA, no uso das atribuições que lhes foram conferidas pelo art.1º, inciso I e art.3º- A da Portaria MP nº 54, de 22 de fevereiro de 2016, tendo em vista o disposto no artigo 23 da Lei nº 9.636, de 15 de maio de 1998, e considerando a deliberação do Comitê Central de Alienação de Imóveis da União - CCA, criado pela Portaria ME nº 55, de 2 de julho de 2019, constante de Ata de Reunião (SEI 14999497), realizada em 13 de Abril de 2021, que faz parte do Processo Administrativo SEI nº 10154.143034/2019-14, resolve:
+
+**Art. 1º** Autorizar as Superintendências do Patrimônio da União nos Estados do Paraná e Espírito Santo a realizarem os procedimentos para alienação onerosa dos bens a seguir discriminados, mediante venda, precedida de licitação, na modalidade concorrência pública eletrônica, nos termos das Leis nº 8.666, de 21 de junho de 1993, e Lei nº 9.636, de 15 de maio de 1998, observando-se, no que couber, o disposto na Lei nº 13.240, de 30 de dezembro de 2015 e nas demais normas aplicáveis.
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p><strong>UF</strong></p></td>      <td rowspan="1" colspan="1"><p><strong>Município</strong></p></td>      <td rowspan="1" colspan="1"><p><strong>Logradouro</strong></p></td>      <td rowspan="1" colspan="1"><p><strong>Matrícula</strong></p></td>      <td rowspan="1" colspan="1"><p><strong>Cartório</strong></p></td>      <td rowspan="1" colspan="1"><p><strong>Descrição</strong></p></td>      <td rowspan="1" colspan="1"><p><strong>Metragem</strong></p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>ES</p></td>      <td rowspan="1" colspan="1"><p>Vitória</p></td>      <td rowspan="1" colspan="1"><p>Rua Madeira de Freitas, 255, Praia do Canto</p></td>      <td rowspan="1" colspan="1"><p>32.030</p></td>      <td rowspan="1" colspan="1"><p>Registro de Imóveis - de Vitória/ES</p></td>      <td rowspan="1" colspan="1"><p>Terreno e benfeitorias</p></td>      <td rowspan="1" colspan="1"><p>Área Terreno: 688,42 m²</p><p>Área Construída: 420,00 m²</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>ES</p></td>      <td rowspan="1" colspan="1"><p>Mimoso do Sul</p></td>      <td rowspan="1" colspan="1"><p>Rua Maria Josefina de Rezende, esquina com a Travessa 1º de Maio</p></td>      <td rowspan="1" colspan="1"><p>6.053</p></td>      <td rowspan="1" colspan="1"><p>Cartório do 1º Ofício Registro de Imóveis de Mimoso do Sul</p></td>      <td rowspan="1" colspan="1"><p>Terreno e benfeitorias</p></td>      <td rowspan="1" colspan="1"><p>Área Terreno: 120,00 m²</p><p>Área Construída: 67,90 m²</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PR</p></td>      <td rowspan="1" colspan="1"><p>Foz do Iguaçu</p></td>      <td rowspan="1" colspan="1"><p>Rodovia BR 277 s/nº - Lotes 07 e 179 - Arroio Leão</p></td>      <td rowspan="1" colspan="1"><p>1.912 e 4.412</p></td>      <td rowspan="1" colspan="1"><p>Registro de Imóveis 1º Ofício</p></td>      <td rowspan="1" colspan="1"><p>Terreno</p></td>      <td rowspan="1" colspan="1"><p>Área Terreno: 16.277,00 m²</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PR</p></td>      <td rowspan="1" colspan="1"><p>Foz do Iguaçu</p></td>      <td rowspan="1" colspan="1"><p>Rua Geolinda Sottomaior s/nº - Três Bandeiras</p></td>      <td rowspan="1" colspan="1"><p>87.312</p></td>      <td rowspan="1" colspan="1"><p>Registro de Imóveis 1º Ofício</p></td>      <td rowspan="1" colspan="1"><p>Terreno</p></td>      <td rowspan="1" colspan="1"><p>Área de Terreno:</p><p>20.000,00 m²</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PR</p></td>      <td rowspan="1" colspan="1"><p>Campo Mourão</p></td>      <td rowspan="1" colspan="1"><p>Av. Jorge Walter s/nº - Data nº 1 e 2 - Quadra 69 - Centro</p></td>      <td rowspan="1" colspan="1"><p>34.709 e 34.710</p></td>      <td rowspan="1" colspan="1"><p>1º Ofício - Registro de Imóveis Campo Mourão - PR</p></td>      <td rowspan="1" colspan="1"><p>Terreno</p></td>      <td rowspan="1" colspan="1"><p>Área Terreno: 2.054,22 m²</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>PR</p></td>      <td rowspan="1" colspan="1"><p>Campo Mourão</p></td>      <td rowspan="1" colspan="1"><p>Av. Comendador Norberto Marcondes 1773 - Centro</p></td>      <td rowspan="1" colspan="1"><p>31.343</p></td>      <td rowspan="1" colspan="1"><p>Registro de Imóveis 1º Ofício Campo Mourão - PR</p></td>      <td rowspan="1" colspan="1"><p>Terreno</p></td>      <td rowspan="1" colspan="1"><p>Área Terreno: 950,00 m²</p></td>     </tr>    </tbody>   </table>
+
+**Art. 2º** Esta portaria entra em vigor na data de sua publicação.
+
+MAURO BENEDITO DE SANTANA FILHO

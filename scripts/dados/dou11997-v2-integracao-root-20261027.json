@@ -1,0 +1,52 @@
+{
+  "promovidos": 1,
+  "auditor_integrado": {
+    "path": "reguladores/ministerio-da-economia/portarias/2020/portaria-n-11.997-de-12-de-maio-de-2020-256528089.md",
+    "sha256_md": "7d21e44963dd7413ef79c0cae4c5cf07478ff22728af97660bc2cc94448c2dd8",
+    "fonte": "https://www.in.gov.br/web/dou/-/portaria-n-11.997-de-12-de-maio-de-2020-256528089",
+    "cache": "reguladores/_fonte/ministerio-da-economia/2020/portaria-n-11.997-de-12-de-maio-de-2020-256528089-6af8777b39085ed68168257221175ff4f8ef57016a210ceecec6d2a3793c9898.html.gz",
+    "sha256_html": "6af8777b39085ed68168257221175ff4f8ef57016a210ceecec6d2a3793c9898",
+    "data": "2020-05-12",
+    "publicacao": "2020-05-13",
+    "identidade": [
+      "ministerio da economia secretaria especial de fazenda",
+      "portaria",
+      "11997",
+      "2020 05 12"
+    ],
+    "tabelas": 4,
+    "avisos_formato": []
+  },
+  "testes": "5 v2, 9 compatibilidade v1, 8 auditor; todos passaram. Replay independente caso real aprovado.",
+  "criterio": "Representacao explicita preserva DOM/texto/atributos, substituindo apenas LF textual de linha vazia por entidade. V1 intacto. Fonte integral, preimagem e candidato congelados antes da promocao. Comparadores e gates nao relaxados. Cruzamento final de identidade obrigatorio antes do commit.",
+  "sha256": {
+    "_fonte/operacao_root_20261027/dou027-retido-gfm-diagnostico.json": "3875c1b4a890c2cb56ed69153fc3f826558994604caba9836498ca96db8899e7",
+    "municipais/_indice/_recuperacao_20261027/dou11997-producao-final/artefatos.paths.txt": "6cd872ed26cc737525e25798a39633f7a8c12dbdf878267802185356ecd5a4b8",
+    "municipais/_indice/_recuperacao_20261027/dou11997-producao-final/auditor-import-producao.patch": "16868fa1d4c11ae02a2c8cfc4fdbe0ef37dece28e4b222cda0114c82ca3e58bb",
+    "municipais/_indice/_recuperacao_20261027/dou11997-producao-final/mapa-final.json": "fb008ae243d06274a5fcfc5078043a07aa37a83b1e39539666060049cb08ffff",
+    "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/artefatos.paths.txt": "0857acd2faf22b27e1b26438654f0c8764501e883651419f52a2d335767a2898",
+    "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/auditor-import-proposto.patch": "3fc28c3ece6678da1d5ec74edff0d20aa96e98c0e8feb533f5d3b147c6ed59d4",
+    "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/candidato.md": "7d21e44963dd7413ef79c0cae4c5cf07478ff22728af97660bc2cc94448c2dd8",
+    "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/fragmento-oficial.html": "401b9c23494be2eff15456b04c9e7ec17c5cda899d3028855fcd91f36bc0a2aa",
+    "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/manifesto.json": "9c2c400ee6ee69e11b9f8bb6b34f371f46bfeab1aa69909d36fbac8840242833",
+    "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/preimagem.md": "04322f5512d1d6228ca56d51b1a410864658aee51f56925c97303a92907633f1",
+    "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/prova.json": "2357ab8a5924a8ce3ad8a4c41303645d4c449aa00b364851e0953566c7500ad9",
+    "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/render-v1.html": "1f032ea5326f22cd8ebbe0d3b7cf7c47a2123202f9d549c324a0e80fe3311e96",
+    "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/render-v2.html": "27106b0a0be30a8b273cc989af78ee61e85faa7dc56b82a8b0519c96e28aa5f5",
+    "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/representacao-v1.html": "502994d3d0c2859d1328a61172fe4471dfd13b7015d226de293dde53868dc92d",
+    "reguladores/_fonte/ministerio-da-economia/2020/portaria-n-11.997-de-12-de-maio-de-2020-256528089-6af8777b39085ed68168257221175ff4f8ef57016a210ceecec6d2a3793c9898.html.gz": "2d09ad0f6ddf8065eb2a60826febff12ac05a42b31ec0edef73235b988f4e8cf",
+    "scripts/dados/dou027-nativo-candidatos-v1-20261027.json": "616f752ee6d88807bbc31cb70ae6766d1c562cac12ea87d25ff27a8b389f54e7",
+    "scripts/estados/pe_fidelidade_visivel.py": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+    "scripts/preparar_proposta_dou11997_v2.py": "9590f4dc3544b663bec3e6e7654207084763b28d200431c52adfa2d26b43ce41",
+    "scripts/qa_municipal_persistente_20261027.py": "dd89a2fefae6c7dce6b15aab655b819d512020ddc03165b1ce384f0c9e419140",
+    "scripts/representacao_html_dou.py": "1ae5cecda55ddd32ab00fdb2598d50b7cd5aeadaad0e0e73d720e4727bf1732d",
+    "scripts/representacao_html_dou_v2.py": "2f16eda246d73eb770357ff310e98ffb40a62a2e0519974d5bcf98ffaa440644",
+    "scripts/representacao_html_dou_v2_proposta.py": "02c72b155ddb8c11284621ad97b0a8b0d3f2999eded128b4eb468376023ae1d9",
+    "scripts/test_representacao_html_dou_v2.py": "1ad7a198fa751c5f5bb350562b29b6796505546bbd7dfc2ddf8b46bfb1fee99a",
+    "scripts/test_representacao_html_dou_v2_proposta.py": "3939c890bd9e9109b2d654939719c9a6ee3f0b61f59275390187636821f6bb30",
+    "reguladores/ministerio-da-economia/portarias/2020/portaria-n-11.997-de-12-de-maio-de-2020-256528089.md": "7d21e44963dd7413ef79c0cae4c5cf07478ff22728af97660bc2cc94448c2dd8",
+    "scripts/auditar_cache_dou.py": "4b8c5894fcf6f2897376b9dd2c28f60ed07d769bb9715eacded9022d50c49f14",
+    "municipais/_indice/_recuperacao_20261027/dou11997-producao-final/manifesto.json": "67abb4deed682d3573d0b7b25a56f7e171a2eb8e4c1e117424adb4001cf3a328",
+    "scripts/dados/auditor-cache-dou-pre-v2-root-20261027.txt": "2fd53a02e1485e6c53fe4041d34c24629dba892a0374b7bd2fcbc25f66e3bf7e"
+  }
+}

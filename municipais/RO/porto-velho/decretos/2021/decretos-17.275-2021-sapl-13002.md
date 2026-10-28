@@ -1,0 +1,58 @@
+---
+titulo: "Decreto nº 17.275, de 29 de abril de 2021"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "17.275"
+data: "2021-04-29"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/13002"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/10734/text"
+sha256_fonte: "98218861e52fe807dd5dd91687e0c0d515c11ad076f9bffeacd213b036497783"
+sha256_texto: "91b12f460b683078128cb15d757d3cf5a5a7ace52fa0f7b6ed94ee3bbb61329d"
+capturado_em_fonte: "2026-10-27T20:33:13.406493-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Decreto nº 17.275, de 29 de abril de 2021
+
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Transferência de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º, da Lei n.º 2.783 de 21 de dezembro de 2020, a fim de proceder às adequações orçamentárias no exercício 2021, e
+
+D E C R E T A:
+
+**Art. 1º** - Fica alterado o Orçamento Anual do Município de Porto Velho por meio de transferência de recursos orçamentários no valor de R$ 82.251,00 (oitenta e dois mil, duzentos e cinquenta e um reais).
+
+**Art. 2º** - A transferência decorre da repriorização de categoria econômica (corrente ou capital) nas ações de governo e resultantes das realocações de recursos entre as categorias econômicas, grupos de despesas, modalidades de aplicações e elementos de despesas, dentro da mesma unidade orçamentária, conforme disposto no inciso XVII do Artigo 6º da Lei n.º 2.758, de 30/06/2020 – Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><tbody><tr><td colspan="7"><p><strong>18.00 – SECRETARIA MUNICIPAL DE REGULARIZAÇÃO FUNDIÁRIA, HABITAÇÃO E URBANISMO - SEMUR</strong></p></td></tr><tr><td colspan="7"><p><strong>18.31 – FUNDO MUNICIPAL DE HABITAÇÃO DE INTERESSE SOCIAL - FMHIS</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>TRANSFERE R$</strong></p></td><td><p><strong>REALOCA </strong><strong>R$</strong></p></td></tr><tr><td rowspan="3"><p>18.31.16.482.042.2.737</p></td><td rowspan="3"><p>Apoio a Projetos de Urbanização e Regularização Fundiária de Imóveis de Interesse Social</p></td><td rowspan="3"><p>FIS</p></td><td><p>3.3.90.30</p></td><td><p>1.017</p></td><td><p>61.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.3.90.39</p></td><td><p>1.017</p></td><td><p>21.251,00</p></td><td><p>-</p></td></tr><tr><td><p>4.4.90.52</p></td><td><p>1.017</p></td><td><p>-</p></td><td><p>82.251,00</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>82.251,00</strong></p></td><td><p><strong>82.251,00</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>82.251,00</strong></p></td><td><p><strong>82.251,00</strong></p></td></tr></tbody></table>
+
+**Art. 3º** - Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 17.112 de 21.12.2020 e o Detalhamento da Despesa, estabelecido pelo Decreto n.º 17.113 de 21.12.2020.
+
+**Art. 4º** - Este Decreto entra em vigor a partir da data de sua publicação.
+
+**Art. 5º** - Revogam-se as disposições em contrário.
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto do Município
+

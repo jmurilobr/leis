@@ -1,0 +1,35 @@
+{
+  "aprovado": true,
+  "sha256_preimagem": "407f89d8c476b79487840a744769d63589d08d3968039c8ae8b9756446f470ba",
+  "sha256_candidato": "117f2342d9af090cc68bf8fb573f0679b9b60b774ea125c35756adbcd261fc51",
+  "chaves_formais_iguais": [
+    [
+      "url",
+      "https://sapl.buritis.mg.leg.br/norma/787"
+    ],
+    [
+      "url",
+      "https://sapl.buritis.mg.leg.br/ta/1109/text"
+    ],
+    [
+      "identidade",
+      "3109303",
+      "LEI ORDINARIA",
+      "8",
+      "1971"
+    ],
+    [
+      "identidade_rota",
+      "MG/buritis",
+      "LEI ORDINARIA",
+      "8",
+      "1971"
+    ]
+  ],
+  "alteracoes_exatas": [
+    "Restauração de ~~Sebastião Alves~~ e ~~Secretário~~ antes de Secretário Substituto",
+    "Retirada da nota editorial que qualificava esses trechos como históricos",
+    "Atualização de sha256_texto; demais bytes do cabeçalho/H1 idênticos"
+  ],
+  "outros_trechos_do_corpo_identicos_exceto_quebras_finais": true
+}

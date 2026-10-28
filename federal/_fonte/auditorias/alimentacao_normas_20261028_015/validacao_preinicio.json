@@ -1,0 +1,18 @@
+{
+  "anterior014_terminou": true,
+  "checkpoint014": {
+    "concluidos": 2000,
+    "fila": 2000,
+    "fontes_capturadas": 1689,
+    "sem_encoding_API": 304,
+    "retidos_cache": 0,
+    "retidos_coleta": 7,
+    "requisicoes_novas_nesta_execucao": 3696,
+    "recusa": false
+  },
+  "fila015_sha256": "33d5c097e3de8b59b016fb7862c3a14eeedea34c43907073b61a41f9b057cc3d",
+  "HEAD_selecao": "2fc3423067cb4c62d29ddcc66a3482ab1fcacd21",
+  "candidatos": 2000,
+  "guard": "74 testes, SHA preservado",
+  "limites": "2 rps globais, 4 workers, cliente único; sem repetição de captura ou falha anterior; suspensão por recusa. Nenhuma promoção."
+}

@@ -1,0 +1,73 @@
+{
+  "host": "sapl.bofete.sp.leg.br",
+  "norma_id": 2390,
+  "ta_id": 128,
+  "aprovado": true,
+  "path": "municipais/SP/bofete/leis-ordinarias/1999/leis-ordinarias-1630-1999-sapl-2390.md",
+  "sha256": "df4b88dace37544a02d352b29000435ab93c82e7ab2dde8563559c30234a1c0f",
+  "bytes": 5825,
+  "gates": {
+    "tabelas_nativas_prova": null,
+    "tipo_oficial": "Lei Ordinária",
+    "identidade_literal": {
+      "epigrafes": [
+        {
+          "tipo": "LEI ORDINARIA",
+          "numero": "1.630",
+          "numero_normalizado": "1630",
+          "trecho": "LEI ORDINARIA Nº 1.630, DE 20 DE DEZEMBRO DE 1999",
+          "data_literal": "1999-12-20"
+        }
+      ],
+      "numero_metadado": "1630",
+      "numero_literal_confirmado": true,
+      "data_literal_confirmada": true,
+      "divergencias": [],
+      "limite": "Tipo completo aceito somente quando literal e igual ao cadastro oficial; todos os números e datas encontrados devem concordar. Divergências do parser anterior são preservadas. Jurisdição, fonte, anexos, contexto e vigência continuam sujeitos aos demais gates."
+    },
+    "categoria": "leis-ordinarias",
+    "tipo_canonico": "Lei ordinária",
+    "titulo_literal": "Lei Ordinária nº 1.630, de 20 de dezembro de 1999",
+    "tokens_ativos": 828,
+    "dispositivos_ativos": 14,
+    "historicos_excluidos": 0,
+    "cortes_de_vigencia_declarados": [],
+    "anexos_proprios": 0,
+    "limite": "Corte declarado é atribuído ao portal. Ausência de corte não certifica atualização nem vigência integral."
+  },
+  "prova_ta": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bofete.sp.leg.br/73e47ef21fc82d9d9c77376764609d8bced3c7c16de919af23ef0f0ed6814adb.json",
+    "sha256": "3a3c81d969d11959b596eba16c46f8de9af21a11a0e49804c2c326b1f99a776d",
+    "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.bofete.sp.leg.br/73e47ef21fc82d9d9c77376764609d8bced3c7c16de919af23ef0f0ed6814adb.meta.json",
+    "sha256_metadata": "7d534f61059a3bffc99ca7572d6361d1361cd1b4d7e8b4af80c2b0e2f166340b",
+    "url": "https://sapl.bofete.sp.leg.br/api/compilacao/textoarticulado/?page_size=100&page=5"
+  },
+  "prova_casa": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bofete.sp.leg.br/e076c67ee49993e54e6f44c5cf45437f1ad384762fa0a20d22f15c8ee5df59a7.json",
+    "sha256": "1559d099a497fbb5c7359d9e79839da0a4bb813700be6883879e8c07b5023a26",
+    "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.bofete.sp.leg.br/e076c67ee49993e54e6f44c5cf45437f1ad384762fa0a20d22f15c8ee5df59a7.meta.json",
+    "sha256_metadata": "6c3c64b9e4d39146f539bd2d5a50c2930a0ea4b63fff49c6ded225c67a586c56",
+    "url": "https://sapl.bofete.sp.leg.br/api/base/casalegislativa/"
+  },
+  "prova_norma": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bofete.sp.leg.br/57ab2868f500e4ea3958da039eb115d7be674ea6257767f4a6dcd0324ceb633b.json",
+    "url": "https://sapl.bofete.sp.leg.br/api/norma/normajuridica/2390/",
+    "url_final": "https://sapl.bofete.sp.leg.br/api/norma/normajuridica/2390/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "f16d66e938bd9ab0260c704c4319c73a5b393b4d29c7cf6aa7b76ac14e3c10be",
+    "bytes": 775,
+    "capturado_em": "2026-10-27T19:22:16.833757-03:00"
+  },
+  "prova_frontend": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.bofete.sp.leg.br/d2757014c9433680475b32cace92fff07a1098262923b2e50aaa1618769d3404.html",
+    "url": "https://sapl.bofete.sp.leg.br/norma/2390",
+    "url_final": "https://sapl.bofete.sp.leg.br/ta/128/text",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "e09273275fd3f515dc02867c7d51c0f8a3be6fea0f76757f4b815ad8c742cb48",
+    "bytes": 24631,
+    "capturado_em": "2026-10-27T19:22:18.250238-03:00"
+  },
+  "transcricao": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.bofete.sp.leg.br/candidatos/2390-128.txt"
+}

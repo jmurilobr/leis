@@ -1,0 +1,64 @@
+---
+titulo: "04 - Lei Ordinária nº 126, de 04 de setembro de 1980"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "126"
+data: "1980-09-04"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/956"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/931/text"
+sha256_fonte: "26edeaedbba5a0c010ac243cb794d876e1452af891fbf023c6823bffb0aa0c41"
+sha256_texto: "b7f259790db8c7ff12339067da755c8006ebb66a9203ff75b1c4b3aff5a23024"
+capturado_em_fonte: "2026-10-28T09:19:13.648953-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 126, de 04 de setembro de 1980
+
+Autoriza o Chefe do Poder Executivo Municipal a conceder Auxilio Financeiro e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Fica ampliado o Perímetro Urbano do Distrito Administrativo de Braganey, englobando as terras pertencentes ao Lote Rural nº 30-A, com a área de 268.590,38m² (duzentos e sessenta e oito mil, quinhentos e noventa metros quadrados e trinta e oito centímetros quadrados).
+
+
+Art. 2º.
+
+O Perímetro Urbano de que trata a presente lei municipal, obedecerá aos seguintes limites confrontações: Norte: por uma linha com o rumo NO 79°20’SE, medindo 217,31m, confronta com terras restantes do mesmo lote, de n° 30. Leste: Por duas linhas secas com os rumos e distancias de NO 09°00’SE medindo 208,00m, SO 81°00’NE, medindo 108,16m, confronta com terras do lote 30-A-1, subdivisão do lote n° 30-A, e por mais cinco linhas secas com os rumos e distancias de NO 03°32’SE, medindo 60,82m, NO 05°34’SE, medindo 269,80m, SO 82°33’NE medindo 94,60m, SO 83°14’NE, medindo 169,50 e NO 03°38’SE, medindo 177,10m, confronta com terras restantes do mesmo lote n° 30 da gleba n°08 colônia “A” Cascavel. Ao Sul: Por uma linha seca com o rumo NE 81°00’SO, medindo 590,20m, confronta com a cidade de Braganey. A Oeste: Por duas linhas secas com os rumos e distancias de SE 05°04’NO, medindo 178,60m e SE 05°09’NO, medindo 615,90m, confronta com terras do lote n° 29 da mesma gleba e colônia.
+
+
+Art. 3º.
+
+O lote a que se refere o art. 1º da presente, pertence à gleba nº 08 (oito) da colônia “A” Cascavel e destina-se ao loteamento denominado “Vila Nossa Senhora de Fátima”.
+
+
+Art. 4º.
+
+A presente lei entrará em vigor a partir da data de sua publicação, ficando revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de Corbélia
+
+Aos 04 dias do mês de setembro de 1980.
+
+Laudemir Turra
+
+Prefeito Municipal
+
+Não substitui o texto publicado no Diário Oficial.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/956/ta
+

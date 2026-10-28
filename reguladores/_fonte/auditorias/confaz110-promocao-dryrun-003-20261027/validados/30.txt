@@ -1,0 +1,35 @@
+---
+titulo: "CONVÊNIO ICMS Nº 30, DE 27 DE MARÇO DE 2026"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "30"
+data: "2026-03-27"
+revogada: null
+versao_texto: "Texto e notas oficiais do portal CONFAZ conforme a captura; sem certificação de vigência."
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV030_26"
+sha256_html_fonte: "d3efb4951ae921e37e4ad164abf9a5a6ebee911f79ec786bcf726feb614a3921"
+sha256_texto: "fd4fc70c88789560fdbe2d89acd48d240fd9d2e6316f2459c241e9dc1a9ccedd"
+baixado_em: "2026-10-27"
+representacao_corpo: "html-nativo-confaz-piloto-v1"
+observacao_captura: "timestamp original do cliente com fuso, convertido para America/Recife"
+observacao_efeitos: "Condições de ratificação e produção de efeitos preservadas literalmente. Nenhuma data de vigência calculada."
+publicacao_fonte: "Publicado no DOU de 31.03.26, pelo despacho 13/26. | Ratificação Nacional no DOU de 06.04.26, pelo Ato Declaratório 07/26."
+---
+# CONVÊNIO ICMS Nº 30, DE 27 DE MARÇO DE 2026
+
+<div id="parent-fieldname-text"><p class="A1-1TituloAcordo">CONVÊNIO ICMS Nº 30, DE 27 DE MARÇO DE 2026</p>
+<p class="A2DataPublicacao">Publicado no DOU de 31.03.26, pelo despacho <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/despacho/2026/dp013_26" target="_self" title="despacho 13/26">13/26</a>.</p>
+<p class="A2DataPublicacao">Ratificação Nacional no DOU de 06.04.26, pelo Ato Declaratório <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/atos-declaratorios/2026/ad007_26" target="_self" title="ato declaratorio 7/26">07/26</a>.</p>
+<p class="A3Ementa">Altera o Convênio ICMS nº 79, de 2 de setembro de 2020, que autoriza as unidades federadas que menciona a dispensar ou reduzir juros, multas e demais acréscimos legais, mediante quitação ou parcelamento de débitos fiscais relacionados com o ICM e o ICMS na forma que especifica.</p>
+<p class="A5-1TextoAcordo"><b>O Conselho Nacional de Política Fazendária - CONFAZ, </b>na sua 200ª Reunião Ordinária, realizada em São Paulo, SP, no dia 27 de março de 2026, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte</p>
+<p class="A4AcordoTipo">CONVÊNIO</p>
+<p class="A5-1TextoAcordo"><b>Cláusula primeira </b>Os dispositivos a seguir indicados do <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/convenios/2020/CV079_20" target="_self" title="convenio icms 79/20">Convênio ICMS n° 79, de 2 de setembro de 2020</a>, publicado no Diário Oficial da União de 3 de setembro de 2020, passam a vigorar com as seguintes redações:</p>
+<p class="A5-1TextoAcordo">I - o § 10 da cláusula primeira:</p>
+<p class="A5-2NovaRedacao">“§ 10 Mantidas as demais disposições, o Estado de Mato Grosso fica autorizado a estender o programa de pagamento e parcelamento do ICMS de que trata o “caput” desta cláusula aos fatos geradores ocorridos até 31 de março de 2025.”;</p>
+<p class="A5-1TextoAcordo">II - o § 18 da cláusula quinta:</p>
+<p class="A5-2NovaRedacao">“§ 18 O Estado de Mato Grosso fica autorizado a estender o prazo disposto no § 2º desta cláusula até 31 de dezembro de 2026.”;</p>
+<p class="A5-1TextoAcordo">III – o parágrafo único da cláusula sétima-B:</p>
+<p class="A5-2NovaRedacao">“Parágrafo único. Ainda em relação aos créditos tributários consolidados mediante a aplicação da taxa referencial do Selic para quantificação dos juros de mora, o Estado de Mato Grosso fica autorizado a reduzir em até 80% (oitenta por cento) o valor das multas aplicadas pelo descumprimento da obrigação principal, decorrentes de fatos geradores ocorridos até 31 de dezembro de 2019, desde que o pagamento seja efetuado à vista, assegurada a aplicação do disposto na alínea "a" do inciso VI desta cláusula, quanto aos juros de mora.”.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula segunda </b>Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.</p>
+<p> </p>
+<p>                                                    </p></div>

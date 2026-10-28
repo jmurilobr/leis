@@ -1,0 +1,135 @@
+---
+titulo: "Lei-PMC nº 3.829, de 17 de janeiro de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3829"
+data: "2019-01-17"
+municipio: "Congonhas"
+uf: "MG"
+codigo_ibge: "3118007"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.congonhas.mg.leg.br/norma/7588"
+fonte_texto: "https://sapl.congonhas.mg.leg.br/ta/4650/text"
+sha256_fonte: "4823a31e4352ff0c9ac266d48862fbdd292ea4e7ac88b4657b75d33c7aa86a7d"
+sha256_texto: "480784c71b05a881b824e5afb4982244b269fc5a03363bdcd549ffb35ec33705"
+capturado_em_fonte: "2026-10-27T23:21:21.615096-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei-PMC nº 3.829, de 17 de janeiro de 2019
+
+Dispõe sobre a criação do Programa de Hortas, Pomares e Jardins Comunitários, denominado “Projeto Pomar Urbano” nos terrenos pertencentes ao Município de Congonhas e dá outras providências.
+
+
+A Câmara Municipal de Congonhas, Estado de Minas Gerais, aprovou e eu, Prefeito sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído o Programa de Hortas, Pomares e Jardins Comunitários, denominado “Projeto Pomar Urbano” no Município de Congonhas, com os seguintes objetivos:
+
+
+I –
+
+aproveitar mão-de-obra desempregada;
+
+
+II –
+
+proporcionar terapia ocupacional para homens e mulheres da terceira idade;
+
+
+III –
+
+aproveitar áreas devolutas;
+
+
+IV –
+
+manter terrenos limpos e utilizados.
+
+
+Parágrafo único
+
+A Prefeitura Municipal de Congonhas, através da Secretaria Municipal de Desenvolvimento Econômico, Inovação e Tecnologia e Diretoria de Desenvolvimento Rural será considerada o organismo gerenciador do programa referido no caput deste artigo.
+
+
+Art. 2º.
+
+A implantação das Hortas, Pomares e Jardins Comunitários poderá se dar:
+
+
+I –
+
+em áreas públicas municipais;
+
+
+II –
+
+em áreas declaradas de utilidade públicas e ainda não utilizadas.
+
+
+Art. 3º.
+
+Cada área poderá ser trabalhada por uma pessoa ou por um grupo de pessoas, que se cadastrarão individualmente ou coletivamente no órgão encarregado da gerência do programa, a ser divulgado pela Prefeitura.
+
+
+Art. 4º.
+
+O processo de implantação das Hortas, Pomares e Jardins Comunitários seguirá os seguintes passos:
+
+
+a)
+
+localização, por parte dos cadastrados, da área a ser trabalhada;
+
+
+b)
+
+oficialização da área junto ao órgão gerenciador, após formalizada a permissão do uso para o fim determinado nesta lei.
+
+
+Art. 5º.
+
+Quando utilizado como terapia ocupacional, o programa das Hortas, Pomares e Jardins Comunitários deverá ser iniciado a partir das Unidades de Saúde do Município, através dos profissionais, em parceria com a Diretoria de Desenvolvimento Rural.
+
+
+Art. 6º.
+
+O Produto das Hortas, Pomares e Jardins Comunitários poderá ser comercializado livremente pelos produtores, bem como atender as entidades assistenciais estabelecidas no Município.
+
+
+Parágrafo único
+
+Serão contemplados com esse plantio produtos como verduras, legumes, temperos, ervas, frutas e flores.
+
+
+Art. 7º.
+
+Para emitir a realização do programa das Hortas, Pomares e Jardins Comunitários a Prefeitura Municipal de Congonhas fica autorizada a celebrar convênios com órgãos Estaduais ou Federais para orientação dos trabalhos e fornecimento de sementes.
+
+
+Art. 8º.
+
+A Prefeitura Municipal de Congonhas deverá dar ampla publicidade ao programa das Hortas, Pomares e Jardins Comunitários através da veiculação de cartazes explicativos afixados nas unidades públicas de saúde, educação, ação social entre outros.
+
+
+Art. 9º.
+
+A Prefeitura Municipal de Congonhas dará amplo conhecimento do programa das Hortas, Pomares e Jardins Comunitários aos sindicatos com sede no Município, com os quais poderá celebrar convênios para o atendimento de desempregados da referida categoria.
+
+
+Art. 10.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Congonhas, 17 de janeiro de 2019.
+
+**JOSÉ DE FREITAS CORDEIRO**
+
+**Prefeito de Congonhas**
+

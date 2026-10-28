@@ -37,18 +37,120 @@ def _placeholder_terminal(clean):
     if not placeholder:
         return None
     pointer = placeholder[1].strip()
-    citation = not pointer or bool(re.fullmatch(r'(?:clbr|colecao das leis)\s*(?:(?:vol(?:ume)?|ano|pag(?:ina)?s?|tabelas?|anexos?|quadros?)[. ]*|\d+[. ,;:/–-]*|a\s+)+', pointer))
+    citation = not pointer or bool(re.fullmatch(r'(?:clbr|clr|colecao das leis)\s*(?:(?:vol(?:ume)?|ano|pag(?:ina)?s?|tabelas?|anexos?|quadros?)[. ]*|\d+[. ,;:/–-]*|a\s+)+', pointer))
     return placeholder if citation else None
 
 
-def anexo_proprio_ausente(corpo, parsed):
+def _lacuna_literal_ou_desenho_proprio(clean, blocks):
+    """Retém lacuna editorial ou desenho próprio para conferência documental.
+
+    Não toma descrições ou um formulário textual como prova dos desenhos.
+    Não afirma inexistência na lei ou em outra publicação.
+    """
+    for gap in re.finditer(r'\(\s*\\?\s*ilegivel(?:\s+parte\s+rasgada\s+no\s+livro[.]?)?\s*\)', clean):
+        before = clean[max(0, gap.start() - 100):gap.start()]
+        # Only explicit use/definition of the adjacent label is exempt.
+        # A term containing a missing word is not a definition of that label.
+        definition = re.search(r'\b(?:usar|empregar|escrever|registrar|lancar|adotar)\s+(?:a|o)\s+(?:expressao|palavra|termo|rubrica|rotulo)\s*[:=]?\s*["“«]?$', before)
+        definition = definition or (re.search(r'\b(?:expressao|palavra|termo|rubrica|rotulo)\s*["“«]?$', before) and re.match(r'^["”»]?\s*(?:significa|designa|indica)\b', clean[gap.end():]))
+        if not definition:
+            return {'motivo': 'Marcador editorial explícito substitui trecho da transcrição; a concordância do Markdown com uma fonte mutilada não comprova integralidade.',
+                    'lacuna': gap[0], 'contexto': clean[max(0, gap.start() - 180):gap.end() + 180],
+                    'estado': 'revisao_documental_necessaria'}
+    for article in blocks:
+        if not re.match(r'^art(?:igo)?\.?\s*(?:\d|unico)', article):
+            continue
+        drawing = re.search(r'\bdesenhos?\s+anexos?\b', article)
+        if not drawing:
+            continue
+        external = re.search(r'desenhos?\s+anexos?\s+(?:ao|aos|do|dos|a|as)\s+(?:decretos?(?:-lei)?|leis?|portarias?|resolucoes?)\s+n', article)
+        quotation = re.search(r'passa[m]? a (?:ter|vigorar)|seguinte redacao|nova redacao|fica[m]? assim redigid', article)
+        graphic_object = re.search(r'\b(?:medalhas?|insignias?|uniformes?|gola|bordados?|fitas?)\b', article)
+        commanded_form = re.search(r'caracteristic|dimens|de acordo com|na forma|obedec|consignad|elucidad', article)
+        referred_regulation = re.search(r'desenhos?\s+anexos?\s+(?:ao|a|aos|as)\s+(?:regulamento|regulamentacao)\b', article)
+        if referred_regulation:
+            tail = article[referred_regulation.end():]
+            # Current explicit approval of this very regulation takes precedence
+            # over any future ceremony regulation elsewhere in the decree.
+            approved_here = re.search(r'^\s*(?:ja\s+)?aprovad[oa]\s+(?:por|pelo|neste|no)\s*(?:este|presente)?\s*decreto', tail)
+            future_regulation = re.search(r'^\s*a ser (?:baixad|aprovad)', tail)
+            subject = re.match(r'\s+d(?:a|o|as|os)\s+([a-z]+)', tail)
+            if subject and not approved_here:
+                # A named referent must share its first object noun. An unrelated
+                # future regulation cannot discharge the present drawing.
+                future_regulation = future_regulation or re.search(
+                    r'\b(?:regulamento|regulamentacao)\s+d(?:a|o|as|os)\s+'
+                    + re.escape(subject[1])
+                    + r'\b(?:(?!\bregulamento\b)[^.\n]){0,180}\b(?:sera|devera)\s+(?:baixad|aprovad)', clean)
+            own_approval = approved_here or re.search(r'\b(?:fica[m]?|sao|e)\s+aprovad[oa]s?\b', clean)
+            if not approved_here and (future_regulation or not own_approval):
+                continue  # This bound regulation is future or indeterminate.
+        if graphic_object and commanded_form and not external and not quotation:
+            return {'motivo': 'Objeto gráfico próprio referido expressamente como desenhos anexos, sem representação visual no HTML; descrição, outra tabela ou formulário textual não provam esses desenhos. Exige conferência documental individual.',
+                    'remissao': article, 'lacuna': drawing[0],
+                    'estado': 'revisao_documental_necessaria'}
+    return None
+
+
+def _ponteiro_bibliografico_para_revisao(clean):
+    """Um ponteiro isolado não certifica ausência nem conteúdo de suplemento.
+
+    Exige revisão da edição inclusive se houver lista, Art.1 ou tabela inline.
+    Citação dentro de artigo e referência sem placeholder não acionam a regra.
+    """
+    # Bind each adjacent label to its own referent. An old external annex
+    # cannot discharge another relation commanded by the present text.
+    normalized = re.sub(r'</?(?:p|div|h[1-6]|br)\b[^>]*>', '\n', clean)
+    normalized = re.sub(r'</?(?:span|b|i|em|strong)\b[^>]*>', '', normalized)
+    references = []
+    for ref in re.finditer(r'\b(?:relacao|relacoes|regimento|regulamento|tabelas?|quadros?|desenhos?)\s+(?:em\s+)?anex[ao]s?\b', normalized):
+        tail = normalized[ref.end():ref.end() + 180]
+        external = re.match(r'^\s+(?:ao|aos|do|dos|a|as|da|das)\s+(?:decretos?(?:-lei)?|leis?|portarias?|resolucoes?)\s+n', tail)
+        references.append({'remissao': ref[0],
+                           'contexto': normalized[max(0, ref.start() - 120):ref.end() + 180],
+                           'vinculo_externo_explicito': bool(external)})
+    # Explicit current-object expressions bind their own supplement before any
+    # external-reference exemption. The object need not be an unnamed table.
+    current_object = re.compile(
+        r'\bacompanha[m]?\s+(?:(?:o|a|os|as)\s+)?(?:presente|este|esta)[\s,;:–-]+decreto\b'
+        r'|\bque\s+(?:com|a)\s+(?:(?:o|a)\s+)?(?:este|esta)\s+(?:decreto\s+)?(?:baixa[m]?|acompanha[m]?)\b')
+    for current in current_object.finditer(normalized):
+        references.append({'remissao': current[0],
+                           'contexto': normalized[max(0, current.start() - 120):current.end() + 180],
+                           'vinculo_externo_explicito': False,
+                           'vinculo_atual_explicito': True})
+    if references and all(ref['vinculo_externo_explicito'] for ref in references):
+        return None
+    text = re.sub(r'</?(?:p|div|h[1-6]|br)\b[^>]*>', '\n', clean)
+    text = re.sub(r'</?(?:span|b|i|em|strong)\b[^>]*>', '', text)
+    pointer = re.search(
+        r'(?m)^\s*((?:<<|«)\s*(?:anexo|tabela|quadro)s?\s*(?:>>|»)'
+        r'\s*(?:clbr|clr|colecao das leis)\b[^\n]*)', text)
+    if not pointer:
+        return None
+    literal = pointer[1]
+    # A bibliographic address, not a mere use of the label in a quoted sentence.
+    if not re.search(r'\b(?:vol(?:ume)?|ano|pag(?:ina)?s?)\.?\s*\d', literal):
+        return None
+    return {'motivo': 'Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.',
+            'lacuna': literal, 'estado': 'revisao_documental_necessaria',
+            'classe': 'ponteiro_bibliografico_nao_certifica_integralidade',
+            'ausencia_propria_demonstrada': False,
+            'vinculos_das_remissoes': references,
+            'contexto': text[max(0, pointer.start() - 700):pointer.end() + 700]}
+
+
+def _anexo_proprio_ausente_guard56(corpo, parsed):
     if parsed.visual:
         return None  # Separate visual gate retains these; this helper proves no absence.
     clean = _limpar(corpo)
     blocks = [re.sub(r'\s+', ' ', b).strip() for b in clean.split('\n\n') if b.strip()]
+    explicit_gap = _lacuna_literal_ou_desenho_proprio(clean, blocks)
+    if explicit_gap:
+        return explicit_gap
     # A bibliographic replacement of drawings is a separate question from a
     # reproduced regulation or its text tables. It must survive the Art.1 shortcut.
-    picture_gap = re.search(r'(?:<<|«)\s*(?:anexo|tabela|quadro)s?\s*(?:>>|»)\s*(?:clbr|colecao das leis)[^\n]*(?:carimbos?|figuras?|simbolo|desenhos?)[^\n]*', clean)
+    picture_gap = re.search(r'(?:<<|«)\s*(?:anexo|tabela|quadro)s?\s*(?:>>|»)\s*(?:clbr|clr|colecao das leis)[^\n]*(?:carimbos?|figuras?|simbolo|desenhos?)[^\n]*', clean)
     own_regulation = re.search(r'\bfica[m]?\s+aprovad[oa]s?\b.{0,350}que com est[ea] baixa', clean)
     if picture_gap and own_regulation:
         return {'motivo': 'Objeto gráfico do regulamento próprio indicado apenas por placeholder bibliográfico; descrição textual ou outras tabelas não comprovam a reprodução dos desenhos, símbolos, carimbos ou figuras.',
@@ -154,3 +256,10 @@ def anexo_proprio_ausente(corpo, parsed):
     return {'motivo': 'Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.',
             'remissao': approval[1] if approval else principal[max(0, remissao.start() - 120):remissao.end() + 120],
             'fecho': blocks[fechamento], 'apos_fecho': apos, 'estado': 'ausencia_na_transcricao'}
+
+
+def anexo_proprio_ausente(corpo, parsed):
+    result = _anexo_proprio_ausente_guard56(corpo, parsed)
+    if result or parsed.visual:
+        return result
+    return _ponteiro_bibliografico_para_revisao(_limpar(corpo))

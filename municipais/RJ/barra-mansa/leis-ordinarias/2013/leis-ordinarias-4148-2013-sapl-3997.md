@@ -1,0 +1,98 @@
+---
+titulo: "Lei Ordinária nº 4.148, de 29 de outubro de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4148"
+data: "2013-10-29"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/3997"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/1415/text"
+sha256_fonte: "3d7e796fd0230d398f4abb0989391a752edc53033bc9af31347a9b0f4ece976c"
+sha256_texto: "22c2a62eb0a99c9fac26b51007378119c7171db572e7e0b2f93ee5e84bb065da"
+capturado_em_fonte: "2026-10-27T17:57:15.778406-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.148, de 29 de outubro de 2013
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE
+
+
+LEI N°4148, DE 29 DE OUTUBRO DE 2013.
+
+
+Institui a "Política Municipal de Incentivo à Criação de Cursos Profissionalizantes" e dá outras providências.
+
+
+Art. 1º.
+
+Fica instituída, no âmbito municipal, a Política Municipal de Incentivo à Criação de Cursos Profissionalizantes.
+
+
+Parágrafo único
+
+O município firmará convênios de parceria com empresas particulares para cumprir o programa constante do caput desta Lei.
+
+
+Art. 2º.
+
+A Prefeitura Municipal, as empresas sediadas no município, SESI, SENAI, SESC, SENAT, FIRJAN, Sindicatos de Classe, Associação Comercial, Câmara de Diretores Lojistas, Associações de Moradores e quaisquer outros órgãos com representação legal, poderão fazer parte da Política Municipal descrita no art. 1°.
+
+
+Art. 3º.
+
+A presente Política Municipal engloba a realização de cursos profissionalizantes para a população de Barra Mansa e atenderá a necessidade dos empresários que tenham buscado a realização dos cursos, com o objetivo de atender suas demandas.
+
+
+Art. 4º.
+
+O empresário interessado em participar da Política deverá se cadastrar na Prefeitura, junto à Secretaria diretamente ligada à sua atividade fim, apresentando o conteúdo programático do curso a ser ministrado.
+
+
+Art. 5º.
+
+Caberá à Secretaria Municipal realizar a análise do curso referente ao segmento que representa, emitindo a autorização e a destinação do local público onde poderá ser ministrado o curso.
+
+
+Parágrafo único
+
+A Prefeitura Municipal dará prioridade às salas de aula em escolas municipais, priorizando, sempre que possível, a escola localizada no bairrо onde se registrar maior número de inscritos.
+
+
+Art. 6º.
+
+Os custos com a divulgação, salários dos professores, material didático e qualquer outro que seja necessário à realização dos cursos serão de responsabilidade da empresa proponente, podendo haver um consórcio de empresas.
+
+
+Art. 7º.
+
+Serão priorizados nos cursos os residëntes no municipio de Barra Mansa, os desempregados e aqueles que buscam o seu primeiro emprego.
+
+
+Art. 8º.
+
+Os cursos deverão ser ministrados por profissionais indicados ou representantes de alguns dos órgãos citados no art. 2°, buscando, ainda, que o diploma de conclusão seja emitido por algum desses órgãos.
+
+
+Art. 9º.
+
+Os cursos serão gratuitos para os participantes, podendo a empresa que patrocinou a sua realização, divulgar e oferecer vagas de emprego no recinto onde estão sendo realizados.
+
+
+Art. 10.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 29 DE OUTUBRO DE 2013.
+
+
+JONASTONIAN MARINS AGUIAR  
+PREFEITО
+

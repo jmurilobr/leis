@@ -1,0 +1,75 @@
+---
+titulo: "Decreto-SEMPOG nº 20.600, de 19 de novembro de 2024"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "20.600"
+data: "2024-11-19"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/27287"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/5369/text"
+sha256_fonte: "fce314832ab705369f444464b184c86738d09ef310168c4fba2af93ffb910116"
+sha256_texto: "b38bc0f99f1e2b8112c20716121177ae57e914056bd1b5176bf55ee4ce0eb5c4"
+capturado_em_fonte: "2026-10-21T03:46:17.351103-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 20.600, de 19 de novembro de 2024
+
+Abre no Orçamento Anual do Município de Porto Velho Crédito Adicional Suplementar, e dá outras providências.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, , amparado pelo Art. 6º da Lei n.º 3.130, de 20 de dezembro de 2023, a fim de proceder as adequações orçamentárias no exercício 2023;
+
+Considerando o Ofício n.º 283/DA/SEMDESTUR/2024, de 08 de novembro de 2024, pelo qual a Secretaria Municipal de Indústria, Comércio, Turismo e Trabalho - SEMDESTUR, solicita suplementação orçamentária por excesso de arrecadação para cobertura de despesa com devolução de recursos ao Tribunal de Justiça do Estado de Rondônia - TJ-RO;
+
+Considerando a tendência de Excesso de Arrecadação para o exercício financeiro de 2023 de acordo com o art. 43 § 3° da Lei Federal n.º 4.320, de 17 de março de 1964,
+
+**D E C R E T A:**
+
+
+Art. 1º.
+
+Fica aberto no Orçamento do Município de Porto Velho, Crédito Adicional Suplementar no valor de R$ 58.000,00 (cinquenta e oito mil reais).
+
+
+Art. 2º.
+
+Os recursos necessários à execução do disposto no artigo anterior decorrerão de Excesso de Arrecadação, provenientes da Fonte de Recursos 1.701 – Recursos do Exercício Corrente – Outras Transferências de Convênio ou Instrumentos Congêneres dos Estados, consignados no orçamento, conforme detalhado na sequência:
+
+
+<table><colgroup><col><col><col><col><col><col></colgroup><tbody><tr><td colspan="6"><strong>17.00 - SECRETARIA MUNICIPAL DE INDÚSTRIA, COMÉRCIO,TRABALHO E TURISMO -</strong><br><strong>SEMDESTUR</strong></td></tr><tr><td colspan="6"><strong>17.01 - SECRETARIA MUNICIPAL DE INDÚSTRIA, COMÉRCIO,TRABALHO E TURISMO -</strong><br><strong>SEMDESTUR</strong></td></tr><tr><td><strong>PROJETO/ATIVIDADE </strong></td><td><strong>ESPECIFICAÇÃO </strong></td><td><strong>ESFERA </strong></td><td><strong>NATUREZA DA DESPESA </strong></td><td><strong>FONTE DE RECURSOS </strong></td><td><strong>SUPLEMENTA R$ </strong></td></tr><tr><td>17.01.23.691.349.2.857</td><td>Apoio às ações do<br>Desenvolvimento<br>Sócio<br>Econômico<br>Sustentável</td><td>FIS</td><td>3.3.90.93</td><td>1.701.0000.0000</td><td>58.000,00</td></tr><tr><td colspan="5"><strong>SUBTOTAL</strong></td><td><strong>58.000,00</strong></td></tr><tr><td colspan="5"><strong>TOTAL</strong></td><td><strong>58.000,00</strong></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 19.668, de 20 de dezembro de 2023 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 19.669, de 20 de dezembro de 2023
+
+
+Art. 4º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Art. 5º.
+
+Revogam-se as disposições em contrário.
+
+
+**HILDON DE LIMA CHAVES**  
+Prefeito do Município
+
+**SERGIO LUIZ PACÍFICO**  
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+**JOÃO ALTAIR CAETANO DOS SANTOS**  
+Secretário Municipal de Fazenda
+
+**SALATIEL LEMOS VALVERDE**  
+Procurador Geral Adjunto
+

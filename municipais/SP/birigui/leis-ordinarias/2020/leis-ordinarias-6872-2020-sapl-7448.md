@@ -1,0 +1,90 @@
+---
+titulo: "Lei Ordinária nº 6.872, de 07 de maio de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "6872"
+data: "2020-05-07"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/7448"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/1161/text"
+sha256_fonte: "7412fee43a10730341505bbda2fad7bfab5a7ae310f9e9931c2cf4bcc93a26c4"
+sha256_texto: "831bd2a04389cd4afca538eca38cc1b0341d0d37a398aa9082738ae1d1459f36"
+capturado_em_fonte: "2026-10-27T18:15:52.112232-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 6.872, de 07 de maio de 2020
+
+PROÍBE O MANUSEIO, A UTILIZAÇÃO, A QUEIMA E A SOLTURA DE FOGOS DE ESTAMPIDOS E DE ARTIFÍCIOS, ASSIM COMO DE QUAISQUER ARTEFATOS PIROTÉCNICOS DE EFEITO SONORO RUIDOSO NO MUNICÍPIO DE BIRIGUI, E DÁ OUTRAS PROVIDÊNCIAS.  
+Projeto de Lei n° 1/2020, de autoria do Prefeito Municipal.
+
+
+Eu, **CRISTIANO SALMEIRÃO**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,  
+FAÇO SABER que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica proibido o manuseio, a utilização, a queima e a soltura de fogos de estampidos e de artifícios, assim como de quaisquer artefatos pirotécnicos de efeito sonoro ruidoso no âmbito do Município de Birigui.
+
+
+Parágrafo único
+
+Excetuam-se da regra prevista no "caput" deste artigo os fogos de vista, assim denominados aqueles que produzem efeitos de cores, os ditos luminosos, que produzem efeitos visuais sem tiro.
+
+
+Art. 2º.
+
+A proibição a que se refere esta lei estende-se a todo perímetro urbano do Município, em recintos fechados e abertos, áreas públicas e locais privados.
+
+
+Art. 3º.
+
+O descumprimento ao disposto nessa lei acarretará ao infrator a imposição de multa na monta de R$ 2.000,00 (dois mil reais), valor que será dobrado na hipótese de reincidência, entendendo-se como reincidência o cometimento da mesma infração num período inferior a 30 (trinta) dias.
+
+
+§ 1º
+
+A multa de que trata o "caput" deste artigo será atualizada anualmente pela variação do índice de Preços ao Consumidor Amplo — IPCA, acumulada no exercício anterior.
+
+
+§ 2º
+
+Todo valor arrecadado através da imposição de multa desta Lei, será destinado ao Fundo Municipal de Saúde.
+
+
+Art. 4º.
+
+As despesas decorrentes da execução desta lei correrão por conta das dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 5º.
+
+O Poder Executivo Municipal poderá regulamentar a presente Lei, por Decreto, no que for necessário ou em casos de ensejarem dúvidas, para melhor eficácia de sua aplicabilidade.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Birigui, aos sete de maio de dois mil e vinte.
+
+**CRISTIANO SALMEIRÃO Prefeito Municipal**
+
+**MARIAN FÁTIMA NAKAD Secretária Municipal de Saúde**
+
+**FABIO VIEIRA PINTO Secretário Municipal de Planejamento e Finanças**
+
+**JOSÉ CARLOS FERNANDES Comandante da Guarda Civil Municipal Secretaria Municipal de Segurança Pública**
+
+Publicada na Divisão de Atos Oficiais e Expediente da Secretaria Municipal de Governo da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**CAIQUE MANTOVANI DA ROCHA Chefe da Divisão de Atos Oficiais e Expediente**
+

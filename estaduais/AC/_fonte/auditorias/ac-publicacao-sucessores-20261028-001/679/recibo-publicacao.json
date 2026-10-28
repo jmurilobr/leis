@@ -1,0 +1,32 @@
+{
+  "preparado_em": "2026-10-28T09:22:57.359337-03:00",
+  "total": 679,
+  "manifesto": "scripts/estados/manifestos/ac679-proposta-privada-20261028-002.json",
+  "sha256_manifesto": "395b7b481b0c43b3b532437aa842ff9ca0578e0614a9029078424e63b8e858ce",
+  "entrada_mapa": "estaduais/AC/_fonte/auditorias/ac-publicacao-sucessores-20261028-001/679/entrada-hashes.json",
+  "sha256_entrada_mapa": "e8e6a477a12de9777df7a7cceb20ef54f356375b25380fa72e793e5c6ce77fc5",
+  "historicos_gzip": 2,
+  "candidatos_MD_ativos": 679,
+  "codigo_bruto_somente_manifesto": true,
+  "exportacao_somente_mapa": true,
+  "QA_externo": "scripts/bin/qa-20261027/python",
+  "Python": "-I -B",
+  "resultado": {
+    "replay": {
+      "total": 679,
+      "aprovados": 679,
+      "falhas": 0,
+      "rede": false,
+      "promovidos": 0
+    },
+    "testes": 85,
+    "falhas": 0,
+    "erros": 0,
+    "bloqueios": []
+  },
+  "nenhum_apply": true,
+  "sem_Git_escrita": true,
+  "originais_preservados": true,
+  "limite": "Recibos históricos mantêm referências aos caminhos de preimagem, restauráveis pelo índice. Replay ativo não depende dos protótipos/restauração.",
+  "comando_replay": "PYTHONPATH=\"$PWD/scripts/bin/qa-20261027/python\" python3 -B scripts/estados/snapshots/ac_legis_html_20261027_006/reexecutar_legis_ac.py --manifesto scripts/estados/manifestos/ac679-proposta-privada-20261028-002.json --hashes estaduais/AC/_fonte/auditorias/ac-publicacao-sucessores-20261028-001/679/entrada-hashes.json --recibo RECIBO_PRIVADO_NOVO.json"
+}

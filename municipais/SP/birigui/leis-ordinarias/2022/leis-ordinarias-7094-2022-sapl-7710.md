@@ -1,0 +1,94 @@
+---
+titulo: "Lei Ordinária nº 7.094, de 25 de fevereiro de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "7094"
+data: "2022-02-25"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/7710"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/50/text"
+sha256_fonte: "5a45904e2b752c507aedeedd459493ce5e9966ba8b6aad407ae6dfc5dfaaa351"
+sha256_texto: "82419d2a1adf28ca72a97be67ccc116582d5566664c2cee89ba375efdcc203ec"
+capturado_em_fonte: "2026-10-27T18:07:11.297689-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 7.094, de 25 de fevereiro de 2022
+
+AUTORIZA PARCELAMENTO DE DÉBITOS DO MUNICÍPIO DE BIRIGUI COM SEU REGIME PRÓPRIO DE PREVIDÊNCIA SOCIAL — RPPS GERIDO PELO INSTITUTO DE PREVIDÊNCIA DO MUNICÍPIO DE BIRIGUI — BIRIGUIPREV, E PROVIDÊNCIAS CORRELATAS.
+
+Projeto de Lei n° 14/2022, de autoria do Prefeito Municipal
+
+
+Eu, **LEANDRO MAFFEIS MILANI**, Prefeito Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,
+
+FAÇO SABER que a Câmara Municipal aprova e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica autorizado o parcelamento do débito do Município de Birigui com seu Regime Próprio de Previdência Social — RPPS, gerido pelo Instituto de Previdência do Município de Birigui — BIRIGUIPREV, oriundo do saldo do APORTE de recursos destinados ao Plano Financeiro relativo ao exercício de 2021, estabelecido através do artigo 5° da Lei 6.666/2018.
+
+
+Parágrafo único
+
+O saldo de que trata o caput deste artigo, será parcelado em até 30 (trinta) prestações mensais, iguais e consecutivas, atendendo o disposto no artigo 5° da Portaria MPS n°402/2008 e Emenda 103/2019.
+
+
+Art. 2º.
+
+Para apuração do montante devido, os valores originais serão atualizados pelo IPCA/IBGE (índice Nacional de Preços ao Consumidor Amplo), acrescido de juros composto (capitalizado) de 0,5% (cinco décimos por cento) ao mês e multa de 1% (um por cento), acumulados desde a data de vencimento até a data da assinatura do termo de acordo de parcelamento.
+
+
+§ 1º
+
+As prestações vincendas serão atualizadas mensalmente pelo IPCA/IBGE (índice Nacional de Preços ao Consumidor Amplo), acrescido de juros simples de 0,5% (cinco décimos por cento) ao mês, acumulados desde a data de consolidação do montante devido no termo de acordo de parcelamento até o mês do pagamento.
+
+
+§ 2º
+
+As prestações vencidas serão atualizadas mensalmente pelo IPCA/IBGE (índice Nacional de Preços ao Consumidor Amplo), acrescido de juros simples de 0,5% (cinco décimos por cento) ao mês e multa de 1% (um por cento), acumulados desde a data de vencimento da prestação até o mês do efetivo pagamento.
+
+
+Art. 3º.
+
+Fica autorizada a vinculação do Fundo de Participação dos Municípios - FPM como garantia das prestações acordadas no termo de parcelamento ou reparcelamento, não pagas no seu vencimento.
+
+
+Parágrafo único
+
+A garantia de vinculação do FPM deverá constar de cláusula do termo de parcelamento e de autorização fornecida ao agente financeiro responsável pelo repasse das cotas, e vigorará até a quitação do termo.
+
+
+Art. 4º.
+
+As despesas decorrentes da execução da presente Lei onerarão dotações do orçamento vigente, suplementadas se necessário, até o limite das parcelas vincendas no exercício corrente, e dotações consignadas nos orçamentos subsequentes.
+
+
+Art. 5º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Birigui, aos vinte e cinco de fevereiro de dois mil e vinte e dois.
+
+**LEANDRO MAFFEIS MILANI**
+
+**Prefeito Municipal**
+
+**ANTÔNIA LUCILENE FERREIRO JARDIM**
+
+**Secretária Municipal de Planejamento e Finanças**
+
+Publicado na Secretaria Municipal de Governo da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**VICTÓRIA ZOCANTE DOS ANJOS**
+
+**Secretária Adjunta de Governo**
+

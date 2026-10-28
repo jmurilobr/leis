@@ -1,0 +1,17 @@
+{
+  "fontes": 3905,
+  "divergencias": 0,
+  "partes": [
+    {
+      "path": "reguladores/_fonte/auditorias/reguladores-dou027-primarias-20261027-parte001.jsonl.gz",
+      "sha256": "a2e1000b66cabc30903a76418f1a37de4ac1eed25eb7b8cb9f696e4ba8d5d2a6",
+      "fontes_reabertas": 2106
+    },
+    {
+      "path": "reguladores/_fonte/auditorias/reguladores-dou027-primarias-20261027-parte002.jsonl.gz",
+      "sha256": "932dd8c12f16b310a30a33c846a9a8a81d2a969437389972ffc4a67e4f37688b",
+      "fontes_reabertas": 1799
+    }
+  ],
+  "criterio": "Releitura independente de todas linhas JSONL e CRC dos arquivos gzip primarios. SHA de cada fonte descompactada e MD publicado novamente iguais; restantes49 fontes individuais gzip conferidas na promocao. Nenhuma alteracao normativa/metas."
+}

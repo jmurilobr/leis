@@ -1,0 +1,59 @@
+---
+titulo: "Lei Ordinária nº 7.242, de 27 de março de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "7242"
+data: "2023-03-27"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/7905"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/208/text"
+sha256_fonte: "3f28e281cb4b50aad6745126bf999f427db35d16963aa2bd81ab7b9c8d70d398"
+sha256_texto: "8841e470a3822167e0d1be4fd4082892e073474476b1e0a6f90c26cd3cf3f6da"
+capturado_em_fonte: "2026-10-27T18:01:12.216688-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 7.242, de 27 de março de 2023
+
+DISPÕE SOBRE O ACESSO GRATUITO AOS MENORES DE 12 (DOZE) ANOS QUE ESTEJAM ACOMPANHADOS DE RESPONSÁVEL, EM EVENTOS ESPORTIVOS NOS GINÁSIOS MUNICIPAIS E, EM JOGOS DE FUTEBOL OFICIAIS E AMISTOSOS, REALIZADAS NO ESTÁDIO DE FUTEBOL PEDRO MARIN BERBEL “PEDRÃO”, NO MUNICÍPIO DE BIRIGUI.
+
+Projeto de Lei nº 160/2022, de autoria do Vereador Marcos Antonio Santos.
+
+
+A CÂMARA MUNICIPAL DE BIRIGUI DECRETA:
+
+
+Art. 1º.
+
+Fica assegurado o acesso gratuito para menor de 12 (doze) anos, acompanhado por um dos pais ou pelo responsável legal, em eventos esportivos nos ginásios municipais e, em jogos de futebol oficiais e amistosos, realizadas no Estádio Municipal Pedro Marin Berbel “Pedrão”, no município de Birigui.
+
+
+Parágrafo único
+
+O acompanhante do menor deverá portar documento que o identifique e, por meio de um documento de identidade ou da certidão de nascimento, comprovar a idade do menor beneficiado.
+
+
+Art. 2º.
+
+O Poder Executivo baixará os atos necessários à plena e imediata regulamentação desta Lei em prazo não superior a 30 (trinta) dias a contar da data de sua publicação.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Câmara Municipal de Birigui, vinte e sete de março de dois mil e vinte e três.
+
+**JOSÉ LUIS BUCHALLA, PRESIDENTE.**
+
+Publicada na Secretaria da Câmara Municipal, na data supra, por afixação no local de costume.
+
+**MARINEUVA ALVES DE SOUZA, DIRETORA-GERAL DA CÂMARA.**
+

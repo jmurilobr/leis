@@ -1,0 +1,84 @@
+{
+  "escopo": "Replay portátil de 411 candidatos Normas 015, com 98 retenções contextuais explícitas. Novo predicado delimita fecho do principal sem remover corpo ou documentos incorporados. Não depende dos caches de captura. Sucessor de IO com guard 74 arquivado, sem mudança de predicado ou seleção.",
+  "sha256_runner": "ac6fc19195b3b8467559e87d3a51bb0b24e13a7127a6a04cc91aca603f3b4a43",
+  "sha256_manifesto": "c5009825b3e6fa36ba3e94a66f695370d63388349630a90e3d089dad222b1691",
+  "codigos": [
+    {
+      "path": "scripts/html2md.py",
+      "sha256": "6ad648a6a94c8d51d880a2d79c39f1abe751032d3355e468363e43ca83fdcdc6"
+    },
+    {
+      "path": "scripts/comum.py",
+      "sha256": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24"
+    },
+    {
+      "path": "scripts/identidade_decreto.py",
+      "sha256": "c7fd847bad0ae3a3432f43f0f4a5568f8236f61833aff514945d5eeafa6e9f94"
+    },
+    {
+      "path": "scripts/identidade_decreto_revisao.py",
+      "sha256": "c1808f41532d41f6ea668177408743e7297f571b55f1709ec984977661771283"
+    },
+    {
+      "path": "scripts/integridade_anexos_decreto.py",
+      "sha256": "3cd60ac4a398a27cc0f646f891e853f6b120b1a963deb4cc9f0ccfd7d6ca0cd0"
+    },
+    {
+      "path": "scripts/integridade_html_federal.py",
+      "sha256": "70945b86695a163f233875e23e01bf5f9c02a01dae6c4949dbda37b3b496214d"
+    },
+    {
+      "path": "scripts/auditar_pontuacao_federal.py",
+      "sha256": "bec7972a3d8138c61f4eb527738fd32e3bf39da0eed7913ac178771c53a778e9"
+    },
+    {
+      "path": "scripts/estados/pe_fidelidade_visivel.py",
+      "sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838"
+    },
+    {
+      "path": "scripts/preparar_lote_decretos_cache.py",
+      "sha256": "b962db077e49db9ba3a7eccf25942c2516f6b939982089ccb2ad6f845ba5a7e8"
+    },
+    {
+      "path": "scripts/baixar_federal.py",
+      "sha256": "4889285109716ea3f7e753e8af2991b874d1f3b7265488756a98e0610c703495"
+    },
+    {
+      "path": "federal/_fonte/auditorias/commonmark8886_20261027_001/replay_commonmark_html5.py",
+      "sha256": "824b00a5b40d1ab58b044d95bacef947b0b2862a8978c15bd136f27500ac67d6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_015/qualificar_snapshot_v4.py",
+      "sha256": "4ec29f40be70d3749a030149a1e4a484748a8c6013148fda7144569e9a663c33"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_015/preparar_replay_portavel.py",
+      "sha256": "55319c4a216e665006870db7279b0960fe98c1df4bb05a4e3581b860d42a3311"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_015/retencoes_contextuais001/retencoes.json",
+      "sha256": "b7504b1dc6daccc37997af9cc5e4aa04193c0e86314ecda9863bc21bcacd6b59"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_015/retencoes_contextuais001/fontes_provas.jsonl.gz",
+      "sha256": "cd236b1e7c7d78680936509357ac9f81aa776477e9ce179ff53134ed29fc43e8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_015/contextossnapshot.json",
+      "sha256": "93dabf106af65ad2365859ce4c603c5b8856d691aaacb7a32a7762196697987d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/legado_guard74_20261028_002/mapa_IO.json",
+      "sha256": "d29ce3de914dbb198ba549887d3355321cb9d8a9db71e3f840a3df0c60c241c9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/legado_guard74_20261028_002/integridade_anexos_decreto.py",
+      "sha256": "3cd60ac4a398a27cc0f646f891e853f6b120b1a963deb4cc9f0ccfd7d6ca0cd0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/legado_guard74_20261028_002/preparar_legado.py",
+      "sha256": "46d9284e6a0e69c1c71502403978b8858e3ba9e6d87e35cea37d6e4e6aadbc7a"
+    }
+  ],
+  "limites": "Documento integral comparado em marked/CommonMark/HTML5. Fonte/epígrafe/API/fecho/guard e provas por SHA; sem certificar revisão humana universal, CSS ou vigência. Autoridades históricas e grafias literais são preservadas no inventário; não se reconstroem assinaturas."
+}

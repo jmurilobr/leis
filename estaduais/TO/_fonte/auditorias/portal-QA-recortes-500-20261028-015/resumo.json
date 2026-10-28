@@ -1,0 +1,43 @@
+{
+  "preparado_em": "2026-10-28T10:01:19.420662-03:00",
+  "total": 500,
+  "aptos": 231,
+  "retidos": 269,
+  "motivos": {
+    "ValueError: edição com anotações de alteração/revogação exige contexto histórico": 49,
+    "apto": 231,
+    "ValueError: promulgação/dispositivo próprio inicial não comprovado": 32,
+    "Referência a objeto/anexo exige contexto individual": 13,
+    "ValueError: epígrafe própria não única; possível múltiplo ato/edição": 75,
+    "ValueError: PDF com raster/vetor exige revisão gráfica individual": 42,
+    "ValueError: fecho ausente/divergente ou ambíguo": 30,
+    "ValueError: cargo da assinatura não comprovado": 4,
+    "ValueError: programa sem contornos demonstrados": 9,
+    "ValueError: texto colorido/oculto exige contexto": 1,
+    "ValueError: camada textual tem glifo não resolvido": 1,
+    "ValueError: operador PDF fora do subconjunto puramente textual": 6,
+    "ValueError: caixa conservadora de glifo toca/sai de recorte ou página": 1,
+    "TTLibError: not enough 'hmtx' table data: expected 3830 bytes, got 964": 1,
+    "ValueError: camadas opcionais PDF exigem revisão visual/contextual": 5
+  },
+  "fonte_manifesto": "scripts/estados/manifestos/to-portal-fontes-500-20261028-002.json",
+  "sha256_manifesto": "4cf4c617fc27e19e89e31f8f65a9eb19cc98c96ba1d6009a403f65051c04fbc1",
+  "codigo": {
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/pdf_texto_fiel.py": "8a7488a99a1b8b3661093f67263df586f9502ccf9758ca7c4c0a1184a602ed7a",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/test_visibilidade_pdf_to.py": "34d4a6b403415be2efd562740db9d340a025accca8049d539a038fc7ee79e4fa",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/requirements.txt": "35a6bc9d92c12ed11357e68e793e8ce32e9204317aa1a01d3fe1378f58c0bc60",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/REPLAY.txt": "9596672972794d38cb5093ebaf8a080e8410634ec753af2a436330e4f657c771",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/visibilidade_pdf_to.py": "87a36b4d0c9e40a713c41c9fada9efd5ffad2077295abc22073f9452e23c78d0",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/test_to_pdf_simples.py": "4a2d5177b5f1216e51154c0538cb82d5535a2be6b5eb77eafcec831e88028376",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/test_metadados_to_pdf.py": "da3938c4258d1547ce759ae7cb1caf2657d5bf185bdc1e2ef036731a6f756754",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/auditar_to_pdf_simples.py": "26beb8f2c8b585b3becdc489a2a5a5a25115e81ba74fe1b5e9a817ad05af66c8",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/metadados_to_pdf.py": "a66f4e4149ce6d9016cfc4318347ec41b04d5f654c7c95b185753b6d02c8927a",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/clipping_pdf_textual_to.py": "85ed6406b45c4cef675425cb2fe857bb1c05a5f642cdff924877d3ffdd51c13c",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/test_clipping_pdf_textual_to.py": "afbe1fe89ecffbc09860357ef32d5357e175c2892c6276fffd68f16ff1da8892",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/coletar_to_portal_indice.py": "15263ad6ec643232b7eaca59c86b42fbb591cf93ca66f9244d85549d90b346bf",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_003/reexecutar_to_pdf.py": "f96437614fc16523c2baa31cbd2d4a7ad669cb804820443520f84e49a239f3fb"
+  },
+  "sem_promocao": true,
+  "sem_mascara": true,
+  "metas_inalteradas": true
+}

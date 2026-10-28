@@ -1,0 +1,526 @@
+---
+titulo: "Lei Ordinária nº 4.589, de 09 de setembro de 2016"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4589"
+data: "2016-09-09"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/1993"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/923/text"
+sha256_fonte: "d62ff1921b17f04737c5940a2fa6c3ea2e7b09bf42b7daec516b33f3ab2431af"
+sha256_texto: "ecb08e9d6e6c69c2022ded1b99e4e057bb5412591b960f144ff8093749be92de"
+capturado_em_fonte: "2026-10-27T17:42:20.336261-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.589, de 09 de setembro de 2016
+
+FAÇO SABER QUE A CÂMARA APROVOU E EU PROMULGO A SEGUINTE:
+
+
+LEI N° 4.589, DE 09 DE SETEMBRO DE 2016.
+
+
+Altera e consolida a Lei Municipal N° 3.485 de 27 de abril de 2004 que alterou a Lei Municipal N° 3.016 de 14 de outubro de 1998 que criou o Conselho Municipal dos Direitos da Pessoa Idosa e dá outras providências.
+
+
+#### CAPÍTULO I — DO CONSELHO MUNICIPAL DOS DIREITOS DA PESSOA IDOSA
+
+
+##### Seção I — DA NATUREZA
+
+
+Art. 1º.
+
+Fica instituído o Conselho Municipal dos Direitos da Pessoa Idosa de Barra Mansa - CMDPI-BM, como órgão colegiado de caráter consultivo, deliberativo, normativo e fiscalizador, responsável pelo estabelecimento das diretrizes e metas da política municipal do idoso, bem como pela supervisão, acompanhamento, fiscalização e avaliação da política e das ações pela melhoria da qualidade de vida das pessoas idosas do Município de Barra Mansa, em consonância com a Política Nacional do Idoso ( Lei Federal nº 8.842 de 04/11/94 e decreto 1.948 de 03/07/96) e com o Estatuto do Idoso (Lei 10.741 de 01/10/03).
+
+
+Parágrafo único
+
+O Conselho Municipal dos Direitos da Pessoa Idosa de Barra Mansa - CMDPI-BM fica vinculado à Secretaria Municipal de Assistência Social e Direitos responsável pela coordenação e articulação da política municipal do idoso.
+
+
+Art. 2º.
+
+São finalidades do Conselho Municipal dos Direitos da Pessoa Idosa de Barra Mansa - CMDPI/BM implementar a supervisão, o acompanhamento, a fiscalização e a avaliação da política nacional do idoso no âmbito do Município de Barra Mansa (Art. 53 Estatuto Idoso) e zelar pelo cumprimento dos direitos da pessoa idosa, definidos na legislação federal, estadual e municipal em vigor. (Art. 7º do Estatuto do Idoso).
+
+
+##### Seção II — DA COMPETÊNCIA
+
+
+Art. 3º.
+
+São competências do Conselho Municipal dos Direitos da Pessoa Idosa de Barra Mansa – CMDPI/BM.
+
+
+I –
+
+Propor diretrizes, normas e prioridades da política municipal do idoso ao exercício da cidadania, proteção, assistência e defesa dos direitos da pessoa idosa.
+
+
+II –
+
+Estabelecer indicativos e participar da elaboração da Lei de Diretrizes Orçamentária, da Lei Orçamentária e do Plano Plurianual, indicando modificações necessárias à consecução da política formulada para a promoção dos direitos do idoso е companhando sua execução;
+
+
+III –
+
+Acompanhar, controlar e avaliar as ações de atendimento ao idoso realizadas pelas instituições públicas e privadas no Município de Barra Mansa, indicando medidas a serem adotadas nos casos de atentado ou violação de direitos;
+
+
+IV –
+
+Articular os programas, serviços e ações em rede de atendimento integrado no âmbito do município, encaminhando aos órgãos competentes as solicitações e denúncias recebidas no Conselho Municipal dos Direitos da Pessoa Idosa de Barra Mansa – CMDPI/BM;
+
+
+V –
+
+Gerir o Fundo Municipal do Idoso mediante fixação de critérios de utilização dos recursos e controle de sua execução;
+
+
+VI –
+
+Realizar o Fórum Municipal, órgão colegiado e de caráter deliberativo, composto por representante das organizações assistenciais comunitárias não governamentais, organizações sindicais e profissionais do Município de Barra Mansa e pelo Poder Executivo a cada dois anos e, extraordinariamente, a qualquer tempo, por iniciativa simples dos membros do CMDPI e sob a coordenação do mesmo, mediante regimento interno próprio;
+
+
+VII –
+
+Zelar pela aplicação da política nacional de atendimento ao idoso no âmbito do município e
+
+
+VIII –
+
+Elaborar o regimento interno do CMDPI.
+
+
+##### Seção III — DA COMPOSIÇÃO
+
+
+Art. 4º.
+
+O Conselho Municipal dos Direitos da Pessoa Idosa de Barra Mansa CMDPI-BM será composto de 12 (doze) membros assim distribuídos:
+
+
+I –
+
+06 (seis) conselheiros titulares, com respectivos suplentes, representantes do Poder Público Municipal que serão indicados pelo secretário e serão nomeados pelo Prefeito Municipal dentre pessoas identificadas com os objetivos do Conselho:
+
+• Um representante da Secretaria Municipal de Assistência Social e Direitos Humanos;
+
+• Um representante da Secretaria Municipal de Educação;
+
+• Um representante da Secretaria Municipal de Saúde;
+
+• Um representante da Secretaria de Esporte e Lazer,
+
+• Um representante da Secretaria Municipal de Cultura;
+
+• Um representante da Secretaria Municipal de Planejamento.
+
+
+II –
+
+06 (seis) conselheiros titulares, com respectivos suplentes, representantes de organização da sociedade civil de natureza não governamental, sediadas no Município, regularmente constituída há pelo menos 2 (dois anos ),que sejam de atendimento direto, de estudo e pesquisa, de segmentos de classe ou que se enquadrem na situação de promoção, defesa e garantia dos direitos da Pessoa Idosa, devidamente registrada no CMDPI/BM, eleitos em um Fórum próprio especialmente para esse fim.
+
+
+Art. 5º.
+
+Os representantes do governo junto ao CMDPI/BM deverão ser designados pelas Secretarias Municipais com assento neste Conselho.
+
+
+Art. 6º.
+
+Os representantes dos órgãos governamentais serão efetivamente cedidos para executarem suas funções de conselheiro, independente do cargo que ocupem, sem prejuízo dos direitos trabalhistas ou estatutários da sua carreira profissional e da remuneração. Enquanto os demais terão por parte do Conselho solicitação as suas empresas privadas ou públicas para participarem sem prejuízos.
+
+
+Parágrafo único
+
+De acordo com a estrutura administrativa dos diversos níveis de governo deverão ser designados prioritariamente representantes dos setores responsáveis pelas direitos políticas sociais básicas, direitos humanos, educação e da área de finanças, planejamentos e transporte, que desenvolvam ações voltadas a políticas da pessoa idosa.
+
+
+Art. 7º.
+
+Os representantes das entidades não governamentais deverão se reunir em Fórum próprio para elegerem seus representantes que comporão o CMDPI/BM não devendo ultrapassar o número de 01 (um) representante por organização da sociedade civil. Cada membro efetivo do Conselho terá um suplente, conforme artigo 4° inciso II, de livre escolha da entidade.
+
+
+§ 1º
+
+O processo de escolha dos representantes da organização da sociedade civil junto ao CMDPI/BM proceder-se-a da seguinte forma:
+
+• Convocação do processo de escolha pelo conselho em 60(sessenta) dias antes do término do mandato.  
+• Designação de uma comissão eleitoral composta por conselheiros representantes da organização da sociedade civil para organizar e realizar o processo eleitoral.  
+• Exclusivamente através de assembleia específica.
+
+
+§ 2º
+
+O mandato do CMDPI/BM pertencerá à organização da sociedade civil eleita que indicará seus representantes: (01) um titular e 01 (um) suplente;
+
+
+§ 3º
+
+A eventual substituição dos representantes das organizações da sociedade civil no CMDPI/BM deverá ser previamente comunicada e justificada, não podendo prejudicar as atividades do CMDPI/BM.
+
+
+Art. 8º.
+
+É vedada a indicação de nomes ou qualquer outra forma de ingerência do Poder Público sobre o processo de escolha dos representantes da sociedade civil junto ao CMDPI/BM.
+
+
+Art. 9º.
+
+O mandato dos representantes da sociedade civil junto ao CMDPI/BM será de 02(dois) anos.
+
+
+Parágrafo único
+
+À legislação compete, respeitando as necessidades locais, estabelecer os critérios de reeleição da organização da sociedade civil a sua função, devendo em qualquer caso submeter-se a nova eleição, vedada a prorrogação de mandato ou a recondução automática.
+
+
+Art. 10.
+
+Os representantes titulares e suplentes do CMDPI/BM das organizações da sociedade civil, juntamente com os representantes governamentais serão nomeados através de Ato do Poder Executivo Municipal na qualidade de Conselheiros para um mandato de 02(dois) anos e destituídos a critério das entidades que representam.
+
+
+##### Seção IV — DOS IMPEDIMENTOS E DA PERDA DE MANDATО
+
+
+Art. 11.
+
+Estão impedidos de compor o CMDPI:
+
+•Autoridade judiciária;  
+•Autoridade legislativa;  
+•Representante do Ministério Público;  
+• Representante da defensoria pública com atuação no âmbito do Estatuto do Idoso ou em exercício na Comarca e Fórum Regional;  
+• Representante que exerça simultaneamente cargo ou função comissionada de órgão governamental e de direção em organização da sociedade civil.
+
+
+Art. 12.
+
+Perderá o mandato o Conselheiro que no exercício da titularidade incidir as assembleias em 03 ( três ) faltas consecutivas ou 05 (cinco) alternadas, sem justificativas.
+
+
+##### Seção V — DA COMPOSIÇÃO
+
+
+Art. 13.
+
+São órgãos do Conselho:  
+• As assembleias  
+• A diretoria  
+• A secretaria executiva  
+• O conselho fiscal
+
+• As comissões  
+• O Fundo Municipal do Idoso
+
+
+Art. 14.
+
+Assembleia é o órgão máximo deliberativo, normativo e consultivo do Conselho, constituído pelos seus conselheiros no exercício pleno dos seus mandatos.
+
+
+Parágrafo único
+
+As assembleias serão ordinárias, extraordinárias ou solenes, obedecendo a normas estabelecidas no regimento interno do CMDPI/BM.
+
+
+Art. 15.
+
+Qualquer cidadão poderá participar das assembleias do  
+CMDPI/BM sem, no entanto, ter direito a voto.
+
+
+Art. 16.
+
+A diretoria do CMDPI/BM é composta pelos seguintes membros:
+
+
+I –
+
+Presidente
+
+
+II –
+
+Vice-presidente
+
+
+III –
+
+Secretário
+
+
+IV –
+
+Secretário adjunto
+
+
+Art. 17.
+
+O processo de eleição da diretoria se iniciará na primeira assembleia após a posse dos conselheiros, em quórum mínimo de 2/3 (dois terços) dos membros titulares, para cumprirem mandato de 02 (dois) anos, através da formação de uma comissão especial para esse fim, com as seguintes normas:
+
+• A eleição será realizada mediante inscrição de chapas com paridade;
+
+• São considerados elegíveis todos os conselheiros titulares;
+
+• Será vencedora a chapa que obtiver maioria dos votos dos conselheiros por presentes a assembleia, não devendo ultrapassar o número de 01 (um) representante por organização;
+
+• A posse da diretoria será feita em reunião depois de decorrido prazo de 15 (quinze) dias referente aos recursos e suas implicações;
+
+• A comunidade deverá ser comunicada a composição da diretoria de forma ampla através de mídia geral;
+
+• Mediante a ausência e/ou impossibilidade de algum membro da diretoria por 30 (trinta) dias consecutivos será realizada uma nova eleição para o cargo vago.
+
+
+Art. 18.
+
+Compete a diretoria representar o conselho, dar cumprimento às decisões plenárias e praticar atos de gestão. Coordenar a elaboração do plano de ação, acompanhar, controlar e avaliar as atividades do CMDPI/BM.
+
+
+Art. 19.
+
+À Secretaria Executiva, composta por profissionais técnicos e  
+de carreira, cedidos pelos órgãos governamentais, compete assegurar suporte técnico e administrativo nas ações do Conselho e do Fundo Municipal do Idoso.
+
+
+Parágrafo único
+
+A composição e as atribuições da Secretaria Executiva serão definidas no Regimento Interno do CMDPI/BM.
+
+
+Art. 20.
+
+O Conselho fiscal, com poderes para investigar a gestão, será constituído com paridade de quatro membros titulares eleitos em assembleia,
+
+
+Art. 21.
+
+Compete ao Conselho fiscal acompanhar as ações do Conselho observando as atas em que são lavradas as reuniões. Examinar, aprovando ou não, balancetes mensais e anuais, além de outras competências definidas no regimento interno do CMDPI/BM.
+
+
+Art. 22.
+
+As comissões são órgãos auxiliares da assembleia com competência para propor ações . Verificar, vistoriar, fiscalizar, pesquisar, opinar e emitir pareceres sobre as matérias que lhe forem distribuídas pela assembleia.
+
+
+Art. 23.
+
+As comissões serão permanentes, eventuais ou especiais, em quantidades e formas de organização definidas no regimento interno do Conselho.
+
+
+Art. 24.
+
+Caberá ao CMDPI/BM alterar o seu regimento interno mediante aprovação da maioria simples de seus membros, adequando-o ao que dispõe a presente lei.
+
+
+Art. 25.
+
+О CMDPI definirá a periodicidade de suas reuniões no regimento interno, não podendo exceder em 30(trinta) dias o intervalo entre elas.
+
+
+Art. 26.
+
+No caso de extinção de órgão público ou entidade representada, desistência ou perda do direito de representação, será convocada reunião extraordinária da manutenção Assembleia Pública e nova indicação do Poder Executivo para preenchimento da vaga e da paridade do Conselho.
+
+
+Art. 27.
+
+Cumpre o Poder Executivo providenciar a alocação de recursos humanos, materiais e financeiros do CMDPI e da Secretaria Executiva, devendo providenciar um local central, de fácil acesso à comunidade para o funcionamento do Conselho, desde que aprovado pela assembleia geral.
+
+
+Art. 28.
+
+Para atendimento das despesas de instalação e manutenção do CMDPI/BM fica o chefe do Poder Executivo autorizado a abrir crédito especial, podendo para tanto movimentar recursos dentro do orçamento no presente exercício.
+
+
+#### CAPÍTULO II — DO FUNDO MUNICIPAL DO IDOSO DE BARRA MANSA
+
+
+Art. 29.
+
+Fica criado o Fundo Municipal do idoso de Barra Mansa, destinado a gerir recursos e financiar atividades do CMDPI/BM previstas em lei.
+
+
+Art. 30.
+
+O FMI será gerido pelo CMDPI/BM.
+
+
+Art. 31.
+
+O FMI/BM possui personalidade jurídica própria, com inscrição no CNPJ.
+
+
+Art. 32.
+
+O FMI/BM constitui unidade orçamentária própria e é integrante do orçamento público.
+
+
+§ 1º
+
+O FMI/BM constitui unidade orçamentária própria e é integrante do orçamento público.
+
+
+§ 2º
+
+São aplicadas à execução orçamentária do FMI/BM as mesmas normas gerais que regem a execução orçamentária do Município.
+
+
+§ 3º
+
+O CMDPI/BM irá assegurar que estejam contempladas no ciclo orçamentário as demais condições e exigências para a alocação dos recursos do FMI/BM para o financiamento ou co-financiamento dos programas de atendimento, executados por entidades públicas e privadas.
+
+
+Art. 33.
+
+Atuará como ordenador de despesa do FMI/BM o presidente do CMDРI/BM.
+
+
+Art. 34.
+
+O Poder Executivo designará o servidor público que atuará como gestor do FMI/BM.
+
+
+Art. 35.
+
+O tesoureiro deverá ser um conselheiro eleito pela plenária do CMDPI/BM.
+
+
+Art. 36.
+
+O FMI/BM terá a seguinte estrutura administrativa para assessorar o gestor que será mantida pelo Executivo Municipal:
+
+• Coordenador administrativo e financeiro;
+
+• Contador.  
+• O cargo de coordenador administrativo/financeiro deverá ser preenchido por um servidor público contratado ou estatutário.  
+• O cargo de contador deverá ser preenchido por um servidor público com formação de nível superior em ciências contábeis ou técnico em contabilidade com registro em órgão de classe;  
+• O CMDPI/BM definirá, em regimento próprio do FMI/BM, por decisão da assembleia, as atribuições e competências aos cargos mencionados.
+
+
+Art. 37.
+
+Cabe ao FMI/BM gerir os recursos a ele destinados através das seguintes ações: • Executar a aplicação de recursos do FMI/BM nas atividades, programas e projetos aprovados pela assembleia do CMDPI/BM; • Prestar contas ao CMDPI/BM divulgando mensalmente, através do órgão oficial do Município e outros meios de comunicação, o total dos recursos recebidos com indicação de suas origens, das aplicações efetuadas durante o mês, bem como quaisquer outros dados e informações necessárias ao amplo conhecimento de suas atividades. • Elaborar os balancetes mensais e balanço anual.
+
+
+Art. 38.
+
+O Poder Executivo dotará o Fundo de recursos humanos e materiais necessários ao seu funcionamento.
+
+
+Art. 39.
+
+O funcionamento e a organização do FMI/BM serão regulados por regimento interno elaborado para este fim pelo próprio conselho no prazo de 60 (sessenta) dias contados de sua instalação, observado o que dispõe esta Lei.
+
+
+Art. 40.
+
+Constituirão receita do FMI/BM:
+
+• Recursos de dotação própria, consignada anualmente no orçamento do Município e os créditos adicionais que a lei estabelecer no transcorrer de cada exercício;  
+• Doações, auxílios, contribuições, subvenções e transferências de entidades nacionais ou internacionais, de organizações governamentais ou não governamentais;  
+• Legados;  
+• Receitas de aplicações financeiras de recursos do Fundo realizadas na forma da lei;  
+• Doações, em espécie, de pessoas fisicas ou jurídicas, diretamente ao Fundo;
+
+• Recursos oriundos de multas aplicadas em função do não cumprimento do Estatuto do Idoso;  
+• Recursos, auxílios subvenções oriundas de outras esferas de governo especificas para tal fim;  
+• Os créditos resultantes de convênios, contratos e consórcios, celebrados com instituições públicas ou privadas, cuja execução seja de competência do Município, observadas as obrigações contidas nos respectivos instrumentos;  
+• Produto de vendas de materiais, publicações e eventos realizados;  
+• Outras receitas que venham a ser legalmente instituídas.
+
+
+§ 1º
+
+Será aberta conta bancária específica para movimentação dos recursos financeiros do Fundo, em instituições financeiras oficiais, sob a denominação – FUNDO MUNICIPAL DOS DIREITOS DO IDOSO DE BARRA MANSA FMDIBМ.
+
+
+§ 2º
+
+As receitas previstas neste artigo serão automaticamente transferidas para a conta do Fundo tão logo sejam realizadas.
+
+
+Art. 41.
+
+O repasse de recursos do Fundo para entidades e organizações de assistência ao idoso, devidamente registrada no CMDPI, será efetivado por intermédio do mesmo Conselho.
+
+
+Art. 42.
+
+Os recursos do Fundo serão aplicados em:  
+• Financiamento total ou parcial de programas, projetos e ações desenvolvidas, visando a valorização do idoso, de entidades cadastradas do CMDPI/BM;  
+• Pagamento pela prestação de serviços a entidades conveniadas, de direito público ou privado, para execução de programas e projetos específicos de valorização do  
+idoso;
+
+• Aquisição de material permanente de consumo e de outros insumos necessários ao desenvolvimento dos programas;  
+• Desenvolvimento e aperfeiçoamento dos instrumentos de gestão, planejamento, administração e controle das ações de assistência ao idoso;  
+• Desenvolvimento de programas de capacitação e aperfeiçoamento de recursos humanos na área especifica;
+
+
+Art. 43.
+
+As transferências de recursos para organizações não governamentais de assistência ao idoso se processarão mediante convênios, contratos, acordos, ajustes e /ou similares, obedecendo a legislação vigente sobre a matéria e de conformidade com os programas, projetos e serviços aprovados pelo CMDPI/BМ.
+
+
+Art. 44.
+
+São atribuições do CMDPI em relação ao Fundo:  
+• Acompanhar e avaliar a execução, desempenho e os resultados dos recursos aplicados;  
+• Avaliar e aprovar os balancetes mensais e o balanço anual;
+
+• Fiscalizar e aprovar os programas e projetos desenvolvidos com os recursos do Fundo;
+
+• Solicitar, em qualquer etapa ou momento, as informações necessárias para controle e avaliação das atividades realizadas com recursos a cargo do Fundo;  
+• Estabelecer os parâmetros técnicos e as diretrizes para aplicação dos recursos;  
+• Elaborar e aprovar o plano de aplicação dos recursos do Fundo;  
+• Promover a realização de auditoria independente sempre que julgar necessário;  
+• Adotar as providências cabíveis para correção de fatos e atos que prejudiquem o desempenho, o cumprimento da finalidade e destinação dos recursos do Fundo.
+
+
+Art. 45.
+
+A aplicação dos recursos de natureza financeira dependerá de:  
+• Existência de disponibilidade financeira em função do cumprimento da obrigação;  
+• Prévia aprovação do CMDPI/BM.
+
+
+Art. 46.
+
+A execução das despesas orçamentárias deve obrigatoriamente obedecer aos estágios de empenho prévio, licitação, ordenamento da despesa, liquidação e pagamento.
+
+
+Art. 47.
+
+Fica instituído o Fórum Intersetorial Municipal de Assistência Social e Direitos Humanos, órgão colegiado, de caráter deliberativo, composto por representantes das organizações assistenciais e comunitárias não governamentais, organizações sindicais e profissionais do Município de Barra Mansa, que se reunirá de 02(dois) em 02(dois) anos e extraordinariamente a qualquer tempo, por iniciativa da maioria simples dos membros do CMDPI/BM e sob a coordenação mediante regimento interno próprio.
+
+
+Art. 48.
+
+Ficam revogadas as disposições em contrário, entrando esta  
+Lei em vigor na data de sua publicação.
+
+
+Art. 49.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Art. 50.
+
+Revogam-se as disposições em contrário e, em especial, as Leis Municipais números 3.016/98 е 3.485/04.
+
+
+CÂMARA MUNICIPAL DE BARRA MANSA, 09 DE SETEMBRO DE 2016.
+
+
+JOSÉ LUIZ VANELI  
+PRESIDENTE
+

@@ -1,0 +1,87 @@
+---
+titulo: "Lei Ordinária nº 3.986, de 17 de maio de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3986"
+data: "2018-05-17"
+municipio: "Barra do Garças"
+uf: "MT"
+codigo_ibge: "5101803"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barradogarcas.mt.leg.br/norma/156"
+fonte_texto: "https://sapl.barradogarcas.mt.leg.br/ta/124/text"
+sha256_fonte: "a91e571ecdb12f7bc135c3ca75ac14f5e8270fda72e9b3efd9cce026ff43ea91"
+sha256_texto: "8662de25d475510095c6b0378c203317a12c9da9edd6bc541c7832269edf6d77"
+capturado_em_fonte: "2026-10-27T17:12:32.530559-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 3.986, de 17 de maio de 2018
+
+"Declara de Utilidade Pública, para efeito de desapropriação amigável ou judicial e dispõe sobre a aquisição do imóvel urbano que menciona."
+
+
+O PREFEITO MUNICIPAL DE BARRA DO GARÇAS, ESTADO DE MATO GROSSO, faz saber que a Câmara Municipal aprovou e ele sanciona a seguinte Lei:
+
+
+Art. 1º.
+
+Fica declarada de Utilidade Pública, para efeito de desapropriação, amigável ou judicial, o seguinte imóvel, matriculado sob o nº 9.366 no livro nº 2 do do cartório do 1º ofício do Registro de Imóveis da circunscrição da Comarca de Barra do Garças – MT, maquinários (bens imóveis por ascensão) e benfeitorias: Um lote de terras, situado neste município e comarca (atualmente na zona urbana desta cidade de Barra do Garças-MT), no lugar denominado "CÓRREGO FUNDO" com a área de 16,25 ha 1.950m2 (dezesseis hectares, vinte e cinco ares e hum mil novecentos e cinquenta metros quadrados), desmembrado da área maior de 32,5ha.3.900m2, dentro dos seguintes limites e confrontações: Começa em MP-01, cravado á margem direita do Corrego Fundo nas divisas com Américo Vieira, daí ao rumo de 67º51SW e distância de 812 metros até o MP-02 cravado a margem direita da Rodovia BR-158 Barra do Garças-Xavantina; daí seguindo pela margem direita da Rodovia citada em diversos rumo e distância de 284 metros até o MP-03 na divisa com terras pertencentes a CASEMAT; daí ao rumo de 82º26'NE e distância de 266 metros até o MP-04, dividindo com CASEMAT; daí ao rumo de 47º10’NE e distância de 504 metros até o MP-5 a margem do córrego Fundo, dividindo com Antonio Manoel Fonseca; daí pelo córrego Fundo abaixo em diversos rumos até o MP-01, ponto de partida. Tudo nos Termos do Memorial Descritivo firmado pelo engenheiro civil Dr. Celso Pereira do Amaral - CREA 1.517/D - 149 Região datado de 20/04/79. Com transcrição anterior neste Cartório Imobiliário sob n9 19.018 de ordem as fls. 25 do livro 3-AM.
+
+
+Art. 2º.
+
+O imóvel a que menciona o artigo anterior destina-se a atender os ditames da Lei Federal nº 4.132/1962, afim de que, após vendido ou locado, deixe de ser improdutivo e passe a atender a sua função social que é a geração de empregos e divisas para o município, sendo portanto do mais urgente interesse social.
+
+
+Art. 3º.
+
+A desapropriação a que se refere a presente Decreto é considerada de urgência, para os efeitos do artigo 15 do Decreto-Lei nº 3.365, de 21 de junho de 1.941, com suas modificações posteriores, ficando desde já, o Prefeito Municipal, autorizado a dar início ao processo de desapropriação.
+
+
+Art. 4º.
+
+Fica ao encargo do Poder Executivo Municipal, através de Decreto, a ser necessariamente referendado pela Câmara Municipal, a atribuição dos valores e da respectiva dotação orçamentária para efeito da oferta da desapropriação judicial, respeitando os ditames da Lei Municipal nº 3.318/218.
+
+
+Art. 5º.
+
+Após o cumprimento do disposto no artigo anterior, fica o Prefeito Municipal autorizado a adquirir, por compra ou desapropriação, o imóvel descrito no artigo primeiro da presente norma.
+
+
+Art. 6º.
+
+Após a transferência do imóvel citado nesta lei, fica o Prefeito Municipal autorizado, após a realização de processo licitatório e cumprimento de demais exigências legais, a efetuar, imediatamente, a locação ou venda do mesmo, a empresa que se comprometa a dar início a atividade frigorífica naquele local, afim de em atendimento ao interesse da coletividade passe o referido imóvel a cumprir sua função social.
+
+
+Parágrafo único
+
+O Locatário ou Comprador se obriga a dar destinação produtiva ao imóvel através da implantação de unidade frigorifica, no prazo de 06(seis) meses, sob pena de reversão dos imóveis ao patrimônio público municipal.
+
+
+Art. 7º.
+
+Conforme consta da certidão o imóvel possui gravame para SUDAM e para o Conselho Regional de Medicina Veterinária de Mato Grosso, existindo ainda informações de que o mesmo encontra-se sob a posse do grupo JBS-Friboi, devendo portanto, durante a fase judicial da desapropriação, serem chamadas a lide essas três entidades, afim de que, respeitando a ordem legal de preferência dos créditos, se assim entender o judiciário, possam receber seus créditos antes de indenizado o desapropriado.
+
+
+Art. 8º.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Art. 9º.
+
+Revogam-se as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL
+
+Barra do Garças/MT, 17 de maio de 2018.
+
+ROBERTO ÂNGELO DE FARIAS
+
+Prefeito Municipal
+

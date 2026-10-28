@@ -1,0 +1,108 @@
+---
+titulo: "Lei nº 1.942, de 07 de janeiro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1942"
+data: "2025-01-07"
+municipio: "Conceição de Macabu"
+uf: "RJ"
+codigo_ibge: "3301405"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.conceicaodemacabu.rj.leg.br/norma/4007"
+fonte_texto: "https://sapl.conceicaodemacabu.rj.leg.br/ta/54/text"
+sha256_fonte: "13c50e6bcc1b1e1c0cef8dd2aef34f84f26bb98f07235c9ee8bfbba47930ccde"
+sha256_texto: "7ecccc6956538e8636b7ac6d2aa16b65f278e614265ff5710ca75f6eea99719b"
+capturado_em_fonte: "2026-10-27T23:07:52.945682-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.942, de 07 de janeiro de 2025
+
+A Câmara Municipal de Conceição de Macabu, por seus representantes legais, APROVOU e o Exmo. Sr. Prefeito Municipal, SANCIONA, a seguinte
+
+LEI:
+
+
+Art. 1º.
+
+Fica criado na estrutura da Administração Pública Municipal o cargo de provimento em comissão de Administrador de Cultura, vinculado à Secretaria Municipal de Educação e Cultura.
+
+
+Art. 2º.
+
+Fica incluído no Anexo IV, da Lei Municipal n° 1.554/18 e suas alterações, que trata do Plano de Cargos, Carreiras e Salários da Administração Direta e Indireta do Município de Conceição de Macabu, o cargo de Administrador de Cultura, com as competências e os requisitos para provimento do cargo no item VII (Secretaria Municipal de Educação e Cultura), passando a vigorar com a seguinte redação:
+
+
+“ANEXO IV  
+ATRIBUIÇÕES E SIMBOLOGIAS DOS CARGOS EM COMISSÃO DA PREFEITURA MUNICIPAL DE CONCEIÇÃO DE MACABU.  
+...
+
+VII - SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA  
+1- Secretário Municipal de Educação e Cultura........................................................simbologia DAS I  
+2- Administrador de Cultura ...........................................................................................simbologia DAS II  
+3- Assessor Especial de Licitação da Secretaria de Educação.............................simbologia DAS III  
+4- Diretor de Departamento de Ensino.......................................................................simbologia DAS III  
+5- Diretor de Departamento de Cultura......................................................................simbologia DAS III  
+6- Chefe de Divisão de Pessoal.......................................................................................simbologia DAS IV  
+7- Chefe de Divisão de Programas e Projetos..........................................................simbologia DAS IV  
+8- Chefe de Divisão de Prestação de Contas............................................................simbologia DAS IV  
+9- Chefe de Divisão de Merenda Escolar ..................................................................simbologia DAS IV  
+10- Chefe Divisão de Transporte e Compras ...........................................................simbologia DAS IV  
+11- Assessor Adjunto de Educação Infantil...............................................................simbologia DAS VI  
+12- Assessor Adjunto do 1º ano do Ensino Fundamental I.................................simbologia DAS VI  
+13- Assessor Adjunto do 2º ano e 3º ano do Ensino Fundamental..................simbologia DAS VI  
+14- Ass. Adj. Ensino de Regência e Composição Musical da E.M. Arte...........simbologia DAS VI  
+15- Assessor Adjunto de 4º e 5º anos do Ensino Fundamental I......................simbologia DAS VI  
+16- Assessor Adjunto de 6º ao 9º anos do Ensino Fundamental II..................simbologia DAS VI  
+17- Coordenador da Escola Municipal Macabuense de Música e Arte...........simbologia DAS IV  
+18- Assessor Adj. Ensino Piano e Teclado Escola de Música e Arte...................simbologia DAS VI  
+19- Assessor Adj. Ensino Instrumentos Sopro Escola de Música e Arte...........simbologia DAS VI  
+20- Assessor Adj. Ensino Instrumentos Acústicos Escola Música e Arte...........simbologia DAS VI  
+21- Ass. Adj. de Ensino de Leitura e Musicalização Infantil da E. M. e Arte.....simbologia DAS VI  
+22- Assessor Adjunto de Ensino Instrumentos Percussão E. M. e Arte..............simbologia DAS VI  
+23- Assessor Adjunto de Ensino de Bandas E. M. e Arte.........................................simbologia DAS VI  
+24- Assessor Adjunto de Ensino de Orquestra, Coral e Vozes E.M. e Arte........simbologia DAS VI
+
+
+COMPETE AO ADMINISTRADOR DE CULTURA
+
+Ø Manter atualizado o cadastro dos fornecedores da Secretaria Municipal de Educação;  
+Ø Proporcionar espaços culturais expositivos que viabilizem a produção artística dos artistas locais e regionais (Casa da Cultura);  
+Ø Responsável pela criação, produção, realização, acompanhamento e mensuração de resultados da programação cultural juntamente com o diretor municipal de cultura;  
+Ø Responsável por auxiliar na realização dos eventos, assegurando projetos culturais interessantes e viáveis para a instituição, alunos, sociedades e parceiros;  
+Ø Elaborar juntamente com a Direção de Cultura a programação cultural mensal, semestral e anual nas áreas de cinema, teatro, artes visuais, debates de ideias, musicais, etc.;  
+Ø Elaborar junto à Direção de Cultura toda documentação necessária para aquisição de materiais e serviços, na formulação e acompanhamento  
+dos processos administrativos.  
+Ø Planejar e produzir os eventos e ações culturais juntamente com a Direção (acompanhamento total).  
+Ø Estabelecer estratégias para captação de parcerias para produção dos eventos.  
+Ø Garantir o cumprimento do calendário de programações de eventos.  
+Ø Acompanhar os processos de pagamento de fornecedores, artistas, parceiros.  
+Ø Está presente em todos os eventos culturais realizados pela SEMEC (montagem, realização e desmontagem).  
+Ø Enviar para área de Marketing as informações necessárias relacionadas aos eventos culturais para que sejam produzidos os materiais gráficos e releases.  
+Ø Elaborar junto com a Direção e área de Marketing o conceito da arte dos documentos de comunicação, ou seja, acompanhar e auxiliar na comunicação dos eventos culturais interna e externamente, assim como decidir em equipe as melhores formas de divulgação dos mesmos.  
+Ø Assistir o Diretor Geral no acolhimento dos convidados (institucionais e outros) durante os eventos.
+
+Requisitos para Provimento: Cargo de livre nomeação pelo Prefeito
+
+
+Art. 3º.
+
+Fica alterado o anexo I da Lei nº 1.564 de 18 de dezembro de 2018, que dispõe sobre a reorganização administrativa do Poder Executivo do município de Conceição de Macabu, passando a vigorar com a seguinte redação:
+
+“ANEXO I  
+QUANTITATIVO DE CARGOS EM COMISSÃO DA ADMINISTRAÇÃO DIRETA E INDIRETA ADMINISTRAÇÃO DIRETA
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td colspan="3"><strong>SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA</strong></td></tr><tr><td><strong>CARGO/DENOMINAÇÃO</strong></td><td><strong>SÍMBOLO</strong></td><td><strong>TOTAL</strong></td></tr><tr><td>SECRETÁRIO MUNICIPAL DE EDUCAÇÃO E CULTURA</td><td>DAS I</td><td>01</td></tr><tr><td>ADMINISTRADOR</td><td>DAS II</td><td>01</td></tr><tr><td>ASSESSOR ESPECIAL</td><td>DAS III</td><td>01</td></tr><tr><td>DIRETOR DE DEPARTAMENTO</td><td>DAS III</td><td>02</td></tr><tr><td>CHEFE DE DIVISÃO</td><td>DAS IV</td><td>05</td></tr><tr><td>COORDENADOR</td><td>DAS IV</td><td>01</td></tr><tr><td>ASSESSOR ADJUNTO</td><td>DAS VI</td><td>13</td></tr></tbody></table>
+
+
+Art. 4º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito, 07 de janeiro de 2025.  
+**VALMIR TAVARES LESSA - PREFEITO –**
+

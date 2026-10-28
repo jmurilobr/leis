@@ -1,0 +1,1745 @@
+{
+  "criterio": "Revisão contextual apenas dos alertas anteriores: contadores efetivos de ol/start/li associados à AST e ao delimitador manual, sem copiar número da fonte. Preserva pontuação e sinais; divergências remanescentes continuam retidas. Listas nativas da fonte não recebem materialização automática.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "63b916abe1e6c687db373e67610a4ea584fb04e3c2029873da8c84c91b77ee72",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "revisar": 73,
+    "iguais": 4
+  },
+  "documentos": [
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-2-117-de-11-de-julho-de-2018-31547899.md",
+      "sha256_md": "55e3d531cf64b15bb1eb9f2db8074c23203569a802416b7bdc4092c76f6cb221",
+      "sha256_fonte": "e7ca7dfb358a240bb4f0c61d8d49e1a09371228922d128b7978a514dc09531d7",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DAS DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO I DAS DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DOS POTENCIAIS RECEPTORES",
+          "fonte": "CAPÍTULO II DOS POTENCIAIS RECEPTORES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DAS HABILITAÇÕES E PROCEDIMENTOS",
+          "fonte": "CAPÍTULO III DAS HABILITAÇÕES E PROCEDIMENTOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DA IMPLEMENTAÇÃO E CONTROLE",
+          "fonte": "CAPÍTULO IV DA IMPLEMENTAÇÃO E CONTROLE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DO FINANCIAMENTO",
+          "fonte": "CAPÍTULO V DO FINANCIAMENTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DA VIGÊNCIA",
+          "fonte": "CAPÍTULO VI DA VIGÊNCIA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO I — FORMULÁRIO DE SUBMISSÃO",
+          "fonte": "ANEXO I FORMULÁRIO DE SUBMISSÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — FLUXO DE COMUNICAÇÃO ENTRE A CENTRAL NACIONAL DE TRANSPLANTES - CNT E AS CENTRAIS DE TRANSPLANTES - CET PARA A SUBMISSÃO DE CASOS PARA AVALIAÇÃO DO MINISTÉRIO DA SAÚDE",
+          "fonte": "ANEXO II FLUXO DE COMUNICAÇÃO ENTRE A CENTRAL NACIONAL DE TRANSPLANTES - CNT E AS CENTRAIS DE TRANSPLANTES - CET PARA A SUBMISSÃO DE CASOS PARA AVALIAÇÃO DO MINISTÉRIO DA SAÚDE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO III — ESTABELECIMENTOS DE SAÚDE HABILITADOS COM O CÓDIGO 24.30 - TRANSPLANTE DE FÍGADO - IHH POR FEBRE AMARELA",
+          "fonte": "ANEXO III ESTABELECIMENTOS DE SAÚDE HABILITADOS COM O CÓDIGO 24.30 - TRANSPLANTE DE FÍGADO - IHH POR FEBRE AMARELA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO IV — INCLUSÃO NA TABELA DE HABILITAÇÕES DO CADASTRO NACIONAL DE ESTABELECIMENTOS DE SAÚDE - CNES",
+          "fonte": "ANEXO IV INCLUSÃO NA TABELA DE HABILITAÇÕES DO CADASTRO NACIONAL DE ESTABELECIMENTOS DE SAÚDE - CNES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO V — INCLUSÃO NA TABELA DE PROCEDIMENTOS, MEDICAMENTOS, ÓRTESES, PRÓTESES E MATERIAIS ESPECIAIS DO SUS",
+          "fonte": "ANEXO V INCLUSÃO NA TABELA DE PROCEDIMENTOS, MEDICAMENTOS, ÓRTESES, PRÓTESES E MATERIAIS ESPECIAIS DO SUS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO VI — INCLUSÃO NA TABELA DE PROCEDIMENTOS, MEDICAMENTOS, ÓRTESES, PRÓTESES E MATERIAIS ESPECIAIS DO SUS",
+          "fonte": "ANEXO VI INCLUSÃO NA TABELA DE PROCEDIMENTOS, MEDICAMENTOS, ÓRTESES, PRÓTESES E MATERIAIS ESPECIAIS DO SUS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "fef6367c3d91708a61ad582fb5f0674800fd060bbeb940150a6b048eba6f841c",
+      "sha256_visivel_md": "d2c1b45f79835d245e03961b7cd1eb52209d566cb91661532ff2d313e4005091",
+      "primeira_diferenca": {
+        "posicao": 17153,
+        "fonte": "E HABILITADOS COM O CÓDIGO 24.30 - TRANSPLANTE DE FÍGADO - IHH POR FEBRE AMARELA* UF Município CNES Estabelecimento MG Belo Horizonte 0026859 Hospital Felicio Rocho MG Belo Horizonte 0027014 Santa Casa de Belo Horizonte RJ Rio de Janeiro 70",
+        "md": "E HABILITADOS COM O CÓDIGO 24.30 - TRANSPLANTE DE FÍGADO - IHH POR FEBRE AMARELA UF Município CNES Estabelecimento MG Belo Horizonte 0026859 Hospital Felicio Rocho MG Belo Horizonte 0027014 Santa Casa de Belo Horizonte RJ Rio de Janeiro 706"
+      }
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-952-de-28-de-junho-de-2018-28736966.md",
+      "sha256_md": "8e20a854e5a496224e25cdba0538c80dc20998bf8a62b4e0cf21519d184207e7",
+      "sha256_fonte": "925d4d69ec802ba121e3521f3b531bfb69834fa0b1b955196b386989364b6a86",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              20,
+              22
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "23a06148f28e9e4c395ad8b97a7ca103aea5e1a55e614759f50806781cdb5cfe",
+      "sha256_visivel_md": "23a06148f28e9e4c395ad8b97a7ca103aea5e1a55e614759f50806781cdb5cfe"
+    },
+    {
+      "path": "reguladores/presidencia/instrucoes-normativas/2018/instrucao-normativa-n-1-de-10-de-agosto-de-2018-36469426.md",
+      "sha256_md": "c1e7d2a20e2d258f88c416dbe5392aaa899309e69256fc8fa10501cbe4215610",
+      "sha256_fonte": "ebfd1aa909574650b73ea6df1bc1524a0f1ec27f427629ab03733a23063103d6",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "8a21ff9fbbede6a679724a9e1f0c4b9481e1c75ad961e66fc18f6cd8dfa8f60f",
+      "sha256_visivel_md": "a37eb1e305cd6f2188ae121cff259388b3bde530d89b66e5b904fca10657cc36",
+      "primeira_diferenca": {
+        "posicao": 50,
+        "fonte": "INSTRUÇÃO NORMATIVA Nº 1, DE 10 DE AGOSTO DE 2018 O SECRETÁRIO DA SECRETARIA ESPECIAL DA AQUICULTURA E DA PESCA, DA SECRETARIA GERAL DA PRESIDÊNCIA DA REPÚBLICA,no uso de suas atribuições de que trata o art. 87",
+        "md": "INSTRUÇÃO NORMATIVA Nº 1, DE 10 DE AGOSTO DE 2018 **O SECRETÁRIO DA SECRETARIA ESPECIAL DA AQUICULTURA E DA PESCA, DA SECRETARIA GERAL DA PRESIDÊNCIA DA REPÚBLICA,**no uso de suas atribuições de que trata o art"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/instrucoes-normativas/2018/instrucao-normativa-n-1-de-17-de-maio-de-2018-14958026.md",
+      "sha256_md": "e83a86a48b35850b5dc7646b69208ef0b278fa4adea3f7639b0cd6f573269eb6",
+      "sha256_fonte": "e9adfed59b6f394a7a661b776c7ca2d93a0d81ba1fd45a6f335ef5c9cda0ebeb",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "3ae4345519b912db02bf369025db8f8e728d1e8e2951da1b5ce2fd2db0e68dfc",
+      "sha256_visivel_md": "cd70019a4c896e7ca53f65a0da696f5221abd49dc9e8aebd77bee585ee612bbc",
+      "primeira_diferenca": {
+        "posicao": 6092,
+        "fonte": "ação da origem legal das espécies albacora bandolim (Thunnus obesus) e espadarte(Xiphias gladius) poderá ser realizada por meio dos certificados de controle estatístico da Comissão Internacional para a Conservação do Atum Atlântico (ICCAT),",
+        "md": "ação da origem legal das espécies albacora bandolim (Thunnus obesus) e espadarte*(Xiphias gladius*) poderá ser realizada por meio dos certificados de controle estatístico da Comissão Internacional para a Conservação do Atum Atlântico (ICCAT"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/instrucoes-normativas/2018/instrucao-normativa-n-2-de-20-de-abril-de-2018-12923706.md",
+      "sha256_md": "775ab18bbb38674f4d59b95d229ee1563230dc670a51a9a6e9a9189768e1834e",
+      "sha256_fonte": "a8cc15c247b701e7871dd227979b5ae49b6f04611af3794a949ca4f78fa0414e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DAS DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO I DAS DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Das espécies de publicidade",
+          "fonte": "Seção I Das espécies de publicidade",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Das compras de mídia",
+          "fonte": "Seção II Das compras de mídia",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Do planejamento e execução das espécies de publicidade",
+          "fonte": "Seção III Do planejamento e execução das espécies de publicidade",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção IV — Dos critérios técnicos de planejamento e negociação de mídia",
+          "fonte": "Seção IV Dos critérios técnicos de planejamento e negociação de mídia",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção V — Da análise e conformidade das ações",
+          "fonte": "Seção V Da análise e conformidade das ações",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DAS AÇÕES DE PUBLICIDADE LEGAL",
+          "fonte": "CAPÍTULO II DAS AÇÕES DE PUBLICIDADE LEGAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DA MARCA DO GOVERNO FEDERAL",
+          "fonte": "CAPÍTULO III DA MARCA DO GOVERNO FEDERAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Do uso da marca em ações publicitárias",
+          "fonte": "Seção I Do uso da marca em ações publicitárias",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Do uso da marca em parcerias",
+          "fonte": "Seção II Do uso da marca em parcerias",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DAS DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO IV DAS DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "8f81821684f37426142e3092a1ece19ec0f88f85a3d1d4a3757a15b86a501ef5",
+      "sha256_visivel_md": "8bef745729d4e6d4e5fb272fe220b23d8e8d40ac6c4041cdea135b825879b4c7",
+      "primeira_diferenca": {
+        "posicao": 157,
+        "fonte": " órgãos e entidades do Poder Executivo federal e dá orientações complementares. O MINISTRO DE ESTADO CHEFE DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA, SUBSTITUTO,no exercício da competência que lhe é outorgada pelo art. 87, parágrafo ú",
+        "md": " órgãos e entidades do Poder Executivo federal e dá orientações complementares. **O MINISTRO DE ESTADO CHEFE DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA, SUBSTITUTO,**no exercício da competência que lhe é outorgada pelo art. 87, parágra"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/instrucoes-normativas/2018/instrucao-normativa-n-3-de-20-de-abril-de-2018-12923719.md",
+      "sha256_md": "e2f06e16f672020e5c728852ba7acefa1144cb2fd2a6e15c9a99b1bd4e3e8eba",
+      "sha256_fonte": "cbacb61b472abb3aa1e632967b1f56dfeb167dd93a6ff2441c86b3e8b9ee901d",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES",
+          "fonte": "CAPÍTULO I DAS DISPOSIÇÕES PRELIMINARES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DA LICITAÇÃO",
+          "fonte": "CAPÍTULO II DA LICITAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Das disposições gerais",
+          "fonte": "Seção I Das disposições gerais",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Dos critérios de escolha do tipo de licitação",
+          "fonte": "Seção II Dos critérios de escolha do tipo de licitação",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Do edital",
+          "fonte": "Seção III Do edital",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção I — Do objeto",
+          "fonte": "Subseção I Do objeto",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção II — Da proposta técnica",
+          "fonte": "Subseção II Da proposta técnica",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção III — Das disposições do edital sobre a proposta técnica",
+          "fonte": "Subseção III Das disposições do edital sobre a proposta técnica",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção IV — Da proposta de preços",
+          "fonte": "Subseção IV Da proposta de preços",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção V — Das disposições do edital sobre a proposta de preços",
+          "fonte": "Subseção V Das disposições do edital sobre a proposta de preços",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção IV — Do processamento e julgamento da licitação",
+          "fonte": "Seção IV Do processamento e julgamento da licitação",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção I — Da licitação do tipo \"melhor técnica\"",
+          "fonte": "Subseção I Da licitação do tipo \"melhor técnica\"",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção II — Da licitação do tipo \"técnica e preço\"",
+          "fonte": "Subseção II Da licitação do tipo \"técnica e preço\"",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Subseção III — Do relatório da licitação",
+          "fonte": "Subseção III Do relatório da licitação",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção V — Da subcomissão técnica",
+          "fonte": "Seção V Da subcomissão técnica",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção VI — Da habilitação",
+          "fonte": "Seção VI Da habilitação",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DOS CONTRATOS",
+          "fonte": "CAPÍTULO III DOS CONTRATOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Das Disposições Gerais",
+          "fonte": "Seção I Das Disposições Gerais",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Da execução dos contratos",
+          "fonte": "Seção II Da execução dos contratos",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Da fiscalização dos contratos",
+          "fonte": "Seção III Da fiscalização dos contratos",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção IV — Da avaliação de desempenho da contratada",
+          "fonte": "Seção IV Da avaliação de desempenho da contratada",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DAS DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO IV DAS DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO I — ROTEIRO PARA ELABORAÇÃO DOBRIEFING- SERVIÇOS DE PUBLICIDADE",
+          "fonte": "ANEXO I ROTEIRO PARA ELABORAÇÃO DOBRIEFING- SERVIÇOS DE PUBLICIDADE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — APRESENTAÇÃO E JULGAMENTO DA PROPOSTA TÉCNICA",
+          "fonte": "ANEXO II APRESENTAÇÃO E JULGAMENTO DA PROPOSTA TÉCNICA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "2305616e1baf65bb4587feb16867050a6205ea5f4349cea97822c9b1e381c759",
+      "sha256_visivel_md": "123645026e069992cb2f7d054261ad9681afa035b65d24032266e4719c7c1494",
+      "primeira_diferenca": {
+        "posicao": 214,
+        "fonte": "rmédio de agência de propaganda a órgão ou entidade do Poder Executivo federal. O MINISTRO DE ESTADO CHEFE DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA, SUBSTITUTO,no uso da competência que lhe conferem o art. 87, parágrafo único, inciso",
+        "md": "rmédio de agência de propaganda a órgão ou entidade do Poder Executivo federal. **O MINISTRO DE ESTADO CHEFE DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA, SUBSTITUTO,**no uso da competência que lhe conferem o art. 87, parágrafo único, in"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/instrucoes-normativas/2018/instrucao-normativa-n-5-de-6-de-abril-de-2018-9745144.md",
+      "sha256_md": "a4ef618c65a178df14ed90de52684375031e7da1c2b66bb7eccb2b4cc0ae9a63",
+      "sha256_fonte": "a04fee6f4224c48641cb86bc0a1040fb6cf971c4e9bd6c79b0275c42782bef1c",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "97d4108f4b3735a79adb0951bfe5bd2d59e2d136d99fb3cb979abb4364b2fb84",
+      "sha256_visivel_md": "2a5ad7e3ceb8b39a0c253c51aeed802b99146cc19673e12fcc2b0e91bfe05097",
+      "primeira_diferenca": {
+        "posicao": 223,
+        "fonte": "-ICP-03.F e ADE-ICP-03.J e determina formato para informar latitude e longitude O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I do D",
+        "md": "-ICP-03.F e ADE-ICP-03.J e determina formato para informar latitude e longitude **O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,**no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/instrucoes-normativas/2018/instrucao-normativa-n-6-de-16-de-abril-de-2018-11587170.md",
+      "sha256_md": "a3d7200e453e9308435003da5c0561ce936b4a627b9fb9335bff2edf025145e8",
+      "sha256_fonte": "9a80e63e8375d3266916683da87b2e1c232dc65a331aa760c8ef5143f51814e4",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "789ad8b73a4ea017d44f236829a6e8e1b9dc443f0679b57f112d7974d3abfa3d",
+      "sha256_visivel_md": "bb3effd1c955302965c0d2b3b97748911b469246144789aeaa768b5411eee5ea",
+      "primeira_diferenca": {
+        "posicao": 208,
+        "fonte": "1, referente a requisitos para serviços de confiança de uso de chaves privadas. O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I do D",
+        "md": "1, referente a requisitos para serviços de confiança de uso de chaves privadas. **O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,**no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/instrucoes-normativas/2018/instrucao-normativa-n-7-de-14-de-maio-de-2018-14261423.md",
+      "sha256_md": "b047178dfb6b476c4b9f81c99b45291cb01de19699fea637f5ef05778ded44ec",
+      "sha256_fonte": "2e8e7f8eaf3d52913c8da524b65cab4c633685da0e6b5e715cd496f8b64c3c1d",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "2290d628e15a646d64b4b9356c8f5bdbdc97d6382ac11b815fc6fe38bb7a604a",
+      "sha256_visivel_md": "18c35be9a28fae16b0f4f1bb33aa7e6b9c1371e24fbe56c79b88af3bb4b2a213",
+      "primeira_diferenca": {
+        "posicao": 193,
+        "fonte": "ador de Serviço de Confiança no documento de atribuição de OID (DOC-ICP-04.01). O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I do D",
+        "md": "ador de Serviço de Confiança no documento de atribuição de OID (DOC-ICP-04.01). **O DIRETOR-PRESIDENTE DO INSTITUTO NACIONAL DE TECNOLOGIA DA INFORMAÇÃO,**no uso das atribuições que lhe foram conferidas pelo inciso VI do art. 9º do anexo I "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/instrucoes-normativas/2018/instrucao-normativa-n-8-de-29-de-maio-de-2018-25404598.md",
+      "sha256_md": "05a7076d81869f4a40228c48ff520588e4635c7da9716587a5c425e74592b2c0",
+      "sha256_fonte": "aef48e39778e49bca637be10759339164c6eccee0e1c5743bc135a58b51fd48c",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "8863076ee4a1fa1f1df4cfc5c4bdafde94a547bb5e81af0d0b4169901bc4f165",
+      "sha256_visivel_md": "7c4ec680446d335ae56c131ec1f0fd37cf6ae1b09ad54d140d692bbb0d2f0588",
+      "primeira_diferenca": {
+        "posicao": 14162,
+        "fonte": "ção (revocation values) id-aa-ets-revocationValues O P RevocationValues Tabela A.13: Presença de atributos não-assinados no SignerInfo do TimeStampToken de \"carimbo do tempo de arquivamento\"\" (NR) Art. 15. Excluir a Tabela A.15, do item 1, ",
+        "md": "ção (revocation values) id-aa-ets-revocationValues O P RevocationValues Tabela A*.13: Presença de atributos não-assinados no SignerInfo do TimeStampToken de \"carimbo do tempo de arquivamento\"\" (NR)* Art. 15. Excluir a Tabela A.15, do item 1"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-interministerial-n-33-de-11-de-julho-de-2018-29702728.md",
+      "sha256_md": "2d73a2e4a686482eec4b450710dbde6ba59ea6bbaae651a9f55ba8981cc85b86",
+      "sha256_fonte": "c2ce6cc02256fc6ed8a3491c8d26447a5cf224025d1c5ffb82acfc993bd641e2",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "6d3335a3ba552035b3162d6e7dc54ebcf5758c25e6479fc753c565f6bf715156",
+      "sha256_visivel_md": "f062f2d3205873d69922d34d346cc913e44bb700a96cf7987d9bd2e088188ef1",
+      "primeira_diferenca": {
+        "posicao": 55,
+        "fonte": "PORTARIA INTERMINISTERIAL Nº 33,DE 11 DE JULHO DE 2018 O MINISTRO DE ESTADO CHEFE DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA E O MINISTRO DE ESTADO DO MEIO AMBIENTE,no uso das atribuições que lhes confere o art",
+        "md": "PORTARIA INTERMINISTERIAL Nº 33,DE 11 DE JULHO DE 2018 **O MINISTRO DE ESTADO CHEFE DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA E O MINISTRO DE ESTADO DO MEIO AMBIENTE,**no uso das atribuições que lhes confere o"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-interministerial-n-38-de-26-de-julho-de-2018-34380577.md",
+      "sha256_md": "51ac7d7924c449fb331b535ccbb47211da05c1ad60d76a698100c549e823f9b5",
+      "sha256_fonte": "1a0ec11ad011b1650223474eb280e6414c48dfce8aaee40da7833633bd230a6f",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "f9925fcf2e6df40b2fd970195dc7b3f368ccb382587fbda3a754904203f02c18",
+      "sha256_visivel_md": "0a9d6921a7fc1b8f3456ee1094df49ef40ed279df97e9f8a144a8204524d1d0a",
+      "primeira_diferenca": {
+        "posicao": 211,
+        "fonte": "pécieCardisoma guanhumi(guaiamum, goiamú, caranguejo-azul, caranguejo-do-mato). O MINISTRO DE ESTADO-CHEFE DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA E O MINISTRO DE ESTADO DO MEIO AMBIENTE,no uso da atribuição que lhes confere o art. ",
+        "md": "pécieCardisoma guanhumi(guaiamum, goiamú, caranguejo-azul, caranguejo-do-mato). **O MINISTRO DE ESTADO-CHEFE DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA E O MINISTRO DE ESTADO DO MEIO AMBIENTE,**no uso da atribuição que lhes confere o a"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-interministerial-n-39-de-26-de-julho-de-2018-34380572.md",
+      "sha256_md": "0ad21195dc3d683f9dc3758017c2a117ff01b745523e22f5921d86462a4fd280",
+      "sha256_fonte": "fe0e1a7460ccad6a820e8f4d9260fdd417457682ccde23f03cf450d7a5d1ad34",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "26b83398c05b9e8ba4e06eaa179b78b103a17644eca29bc504f509392df2a851",
+      "sha256_visivel_md": "6b44baeb72d39b1dd65aee2e14ece3798ec789c31f4d08e35770435f80c42cf5",
+      "primeira_diferenca": {
+        "posicao": 162,
+        "fonte": "stentável e a recuperação dos estoques da espécieGenidens barbus(bagre-branco). O MINISTRO DE ESTADO-CHEFE DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA E O MINISTRO DE ESTADO DO MEIO AMBIENTE,no uso da atribuição que lhes confere o art. ",
+        "md": "stentável e a recuperação dos estoques da espécieGenidens barbus(bagre-branco). **O MINISTRO DE ESTADO-CHEFE DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA E O MINISTRO DE ESTADO DO MEIO AMBIENTE,**no uso da atribuição que lhes confere o a"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-121-de-5-de-julho-de-2018-29138532.md",
+      "sha256_md": "5a92209112dc578594e2b450701681466dfe8803670074c1bc788930c0c33ce9",
+      "sha256_fonte": "d0bd814787912ed46319574bd7fc2a5407c87bb7e821603294e5a286ab3249a7",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "03ba675723334e42f791b86faad5b57218a1bcbf216abe3faa0905dd00f0c480",
+      "sha256_visivel_md": "fd1a9a48a6f42ccb81b21f7ea73ae851d737c3851901a3f8890762ba9de46c24",
+      "primeira_diferenca": {
+        "posicao": 41,
+        "fonte": "PORTARIA Nº 1.121, DE 5 DE JULHO DE 2018 O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA,no uso das atribuições que lhe são conferidas pelo Art. 21 da Estrutura Regimental, aprovada",
+        "md": "PORTARIA Nº 1.121, DE 5 DE JULHO DE 2018 **O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA,**no uso das atribuições que lhe são conferidas pelo Art. 21 da Estrutura Regimental, apro"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-129-de-5-de-julho-de-2018-29137275.md",
+      "sha256_md": "58e0ed9b0b7da4116f9ec84f18b896c3c1b35d85fec30a7c59014771d341d550",
+      "sha256_fonte": "a95787aeba9911e31c2e2bca9f3156386e1c87847e4bb14bb67ddeef2ef9f1bd",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "aaf6cbe000893af7d2b40986581bf3c18e9a8803e017fe2d8e203a8ea4ffa95e",
+      "sha256_visivel_md": "ebb09f9dbb021b6bf59b57e7e5a5c7e70a76faace6ae55ca3e6c46ac07ccb114",
+      "primeira_diferenca": {
+        "posicao": 41,
+        "fonte": "PORTARIA Nº 1.129, DE 5 DE JULHO DE 2018 O SUPERINTENDENTE REGIONAL DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA DO ESTADO DE SERGIPE,no uso das atribuições que lhe são conferidas pel",
+        "md": "PORTARIA Nº 1.129, DE 5 DE JULHO DE 2018 **O SUPERINTENDENTE REGIONAL DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA DO ESTADO DE SERGIPE,**no uso das atribuições que lhe são conferidas"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-130-de-5-de-julho-de-2018-29137314.md",
+      "sha256_md": "79b9304a4d20c33a6566b625dfa0664ba40774a88a37f746ca1a95771c67892c",
+      "sha256_fonte": "425e7eb18aca1fb952fed9e2181485a631a31e40fe6fef8d05ff8153f51eeb87",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "5916386ef19eae0f550e0aac865310f27ae70019c6b99c49e75d2bd3916967da",
+      "sha256_visivel_md": "6991bcc2247431e904b60b841bc6d14b1b8c2a471119abaebce12c0146212165",
+      "primeira_diferenca": {
+        "posicao": 41,
+        "fonte": "PORTARIA Nº 1.130, DE 5 DE JULHO DE 2018 O SUPERINTENDENTE REGIONAL DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA DO ESTADO DE SERGIPE,no uso das atribuições que lhe são conferidas pel",
+        "md": "PORTARIA Nº 1.130, DE 5 DE JULHO DE 2018 **O SUPERINTENDENTE REGIONAL DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA DO ESTADO DE SERGIPE,**no uso das atribuições que lhe são conferidas"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-264-de-3-de-agosto-de-2018-36846445.md",
+      "sha256_md": "89e11aee4dcf61fe5e47089d254b21a6077a590fac349b68b356c6e1b36e8902",
+      "sha256_fonte": "d8bcd38c5f70e0b158479238f01420b9d0a830ef4ec6e92e179cd517c6116051",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "dd5840ee173ad7de384ce37364da5bc60ce768edfbaa6a25d011c667dc8c163b",
+      "sha256_visivel_md": "a7fa0cfb9f458c682281f444461eae9a8dcd7428eb9bd8b7c5902ca6fd6d61fd",
+      "primeira_diferenca": {
+        "posicao": 42,
+        "fonte": "PORTARIA Nº 1.264, DE 3 DE AGOSTO DE 2018 O SUPERINTENDENTE REGIONAL-SUBSTITUTO DO INSTITUTO NACIONAL DE COLONIZACAO E REFORMA AGRARIA- INCRA/SP- CNPJ 00.375.972/0010-51,no uso das atribuicoes que lhe c",
+        "md": "PORTARIA Nº 1.264, DE 3 DE AGOSTO DE 2018 **O SUPERINTENDENTE REGIONAL-SUBSTITUTO DO INSTITUTO NACIONAL DE COLONIZACAO E REFORMA AGRARIA- INCRA/SP- CNPJ 00.375.972/0010-51,**no uso das atribuicoes que l"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-271-de-6-de-agosto-de-2018-35706908.md",
+      "sha256_md": "2354581f4ab6c0b798dedded9c7cc0579770461f952fdebc49af995a83a474b2",
+      "sha256_fonte": "aef41d8da7809d25eb800abd43b205d41ea77a36fee17460900de6b63e2949c0",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "8121dc9fdac10b5efbae8932234f3def6d72fb5c00f19684b3227e663440ebf5",
+      "sha256_visivel_md": "091b17b7d84da0952c81f941b854954f890d6fbecbf3c378bb7b48380755c63d",
+      "primeira_diferenca": {
+        "posicao": 42,
+        "fonte": "Portaria Nº 1.271, de 6 de agosto de 2018 SUPERINTENDENTE REGIONAL DO INCRA NO ESTADO DE GOIÁS,no uso das atribuições conferidas pelo artigo 130 da Estrutura Regimental do Instituto Nacional de Coloniza",
+        "md": "Portaria Nº 1.271, de 6 de agosto de 2018 **SUPERINTENDENTE REGIONAL DO INCRA NO ESTADO DE GOIÁS,**no uso das atribuições conferidas pelo artigo 130 da Estrutura Regimental do Instituto Nacional de Colo"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-343-de-15-de-agosto-de-2018-37025324.md",
+      "sha256_md": "14e7f6abc3f2277c590487fb6e257c2ef99ead2296a12fa5f96922d75b546622",
+      "sha256_fonte": "de1e36f63983bd837a278bf306eb31962b1c3f5c98abe9f5221a918ce8fa5b15",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "7f97454d31c983ed4a10f02f9767c60c9f850b2997860a98d2454090cec90421",
+      "sha256_visivel_md": "69a50a8efb704e4d2236926d36dce574b9faffa1e83c25145f0e237e61ee1c5d",
+      "primeira_diferenca": {
+        "posicao": 43,
+        "fonte": "PORTARIA Nº 1.343, DE 15 DE AGOSTO DE 2018 O SUPERINTENDENTE REGIONAL DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA NO ESTADO DE SERGIPE,no uso de suas atribuições que lhe são conferidas",
+        "md": "PORTARIA Nº 1.343, DE 15 DE AGOSTO DE 2018 **O SUPERINTENDENTE REGIONAL DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA NO ESTADO DE SERGIPE,**no uso de suas atribuições que lhe são confer"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-1-de-15-de-marco-de-2018-6841899.md",
+      "sha256_md": "c28328982ba7c0810eb3c40e7e915778b4231c057ebe7cac42bfab247cdfd2aa",
+      "sha256_fonte": "140d8b6f6f2fbf6bd6d0d3f537adf5a896b58b3447bcba283edba7cff1f8484f",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "38110b8732d1d9f7639c6f6bc14da384cfac106bb8c6e266b4ab2cb7b9300e7d",
+      "sha256_visivel_md": "4224cdbf8870049d3e681d16c38710e0f5c0ce88438bf220169209ae8a92e90e",
+      "primeira_diferenca": {
+        "posicao": 38,
+        "fonte": "PORTARIA Nº 1, DE 15 DE MARÇO DE 2018 O COORDENADOR-GERAL DE ADMINISTRAÇÃO DA IMPRENSA NACIONAL,usando da competência que lhe confere o art. 3º da Portaria nº 217, de 4 de julho de 2016, do Diretor-",
+        "md": "PORTARIA Nº 1, DE 15 DE MARÇO DE 2018 **O COORDENADOR-GERAL DE ADMINISTRAÇÃO DA IMPRENSA NACIONAL,**usando da competência que lhe confere o art. 3º da Portaria nº 217, de 4 de julho de 2016, do Dire"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-14-de-17-de-maio-de-2018-14953772.md",
+      "sha256_md": "735226ac419779fce726c2054a3c9651d0edc101ab48c7c6d96e45b7c3579d8c",
+      "sha256_fonte": "2a64bc4da91f1582ea98edbd2d9a8e8f120d3509dbbddc6876527d423bbe4ec5",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "813072f7067d7e0b1fee72882c6f978d34464818c4035f50c1841923d11593e5",
+      "sha256_visivel_md": "7942db70d744aa4abafef10c825900d4ac493c0514fc81a55ddf7f26a4644769",
+      "primeira_diferenca": {
+        "posicao": 115,
+        "fonte": "18 Complementar e Retificar a Portaria nº 2.537-SEI, de 28 de dezembro de 2017. O SECRETÁRIO DA SECRETARIA ESPECIAL DA AQUICULTURA E DA PESCA DA PRESIDÊNCIA DA REPÚBLICA,no uso de suas atribuições de que trata o Art. 87, parágrafo único, I ",
+        "md": "18 Complementar e Retificar a Portaria nº 2.537-SEI, de 28 de dezembro de 2017. **O SECRETÁRIO DA SECRETARIA ESPECIAL DA AQUICULTURA E DA PESCA DA PRESIDÊNCIA DA REPÚBLICA,**no uso de suas atribuições de que trata o Art. 87, parágrafo único"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-2-de-29-de-maio-de-2018-17299714.md",
+      "sha256_md": "f54166ffe9e35e083a4bc032c1b9d4585b2fe23633e8d19f9ab914f2f538b0c9",
+      "sha256_fonte": "bf97bf42d1eebd638143bea76c3988d624e2d0d576a356da4d5ad07928820765",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "2accf46d08ae287dbb3ceb56fe7ade6ccad21e6c88ec89044e192a5452da8d65",
+      "sha256_visivel_md": "d381e3e4da11002039d726fd6bf82ed13447e35713df90cb8a728e3010a31642",
+      "primeira_diferenca": {
+        "posicao": 37,
+        "fonte": "PORTARIA Nº 2, DE 29 DE MAIO DE 2018 O COORDENADOR-GERAL DE ADMINISTRAÇÃO DA IMPRENSA NACIONAL,usando da competência que lhe confere o art. 3º da Portaria nº 217, de 4 de julho de 2016, do Diretor-",
+        "md": "PORTARIA Nº 2, DE 29 DE MAIO DE 2018 **O COORDENADOR-GERAL DE ADMINISTRAÇÃO DA IMPRENSA NACIONAL,**usando da competência que lhe confere o art. 3º da Portaria nº 217, de 4 de julho de 2016, do Dire"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-3-de-13-de-junho-de-2018-25600647.md",
+      "sha256_md": "efedf9497107e032903d98d2310c97be784ed15f65340f93e3bb3647a963dbb0",
+      "sha256_fonte": "21ba275a693de79b4f4148011259410fcaece3966df8ed07001046ee93ed1579",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "0489a27a71b6a32a5448db3b330688d4e2b3c546845d513260e2153daef4923a",
+      "sha256_visivel_md": "e4384be5a2e02bb62a995a8856c7bb3cc18c6e17e4cd32a06c8aafec99d8db83",
+      "primeira_diferenca": {
+        "posicao": 38,
+        "fonte": "PORTARIA Nº 3, DE 13 DE JUNHO DE 2018 O COORDENADOR-GERAL DE ADMINISTRAÇÃO DA IMPRENSA NACIONAL,usando da competência que lhe confere o art. 3º da Portaria nº 217, de 4 de julho de 2016, do Diretor-",
+        "md": "PORTARIA Nº 3, DE 13 DE JUNHO DE 2018 **O COORDENADOR-GERAL DE ADMINISTRAÇÃO DA IMPRENSA NACIONAL,**usando da competência que lhe confere o art. 3º da Portaria nº 217, de 4 de julho de 2016, do Dire"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-431-de-23-de-marco-de-2018-8772172.md",
+      "sha256_md": "54e3746f028546fec6e9a29d67c1816061d2ade9c43d6e694ab32500463f9ff2",
+      "sha256_fonte": "6efc6b79b8c4a8fe448d9e35ad4a0e97026e8d985d7cc419f24876d345eac3f3",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "b89ce9d92bb8d0736344826fa6cc90a53f517322b0d755bdc17a15ef32443929",
+      "sha256_visivel_md": "93a2ed2d61f24c04b94e370b25ed4ca819d49dc10f4c3aa0e8bd3ea4194bd311",
+      "primeira_diferenca": {
+        "posicao": 40,
+        "fonte": "PORTARIA Nº 431, DE 23 DE MARÇO DE 2018 O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA,no uso das atribuições que lhe são conferidas pelo art. 21, da Estrutura Regimental ",
+        "md": "PORTARIA Nº 431, DE 23 DE MARÇO DE 2018 **O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA,**no uso das atribuições que lhe são conferidas pelo art. 21, da Estrutura Regimen"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-475-de-29-de-marco-de-2018-8774669.md",
+      "sha256_md": "258590b1e255ff87ac2685bc2da4b4ae02852feb691d1661352997297e4bdcd5",
+      "sha256_fonte": "62ed37a162c99c343ac20f220bae334fa52e30d80fe0c14f1e73862a9169e0e3",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "07d10fac8bee6865715da35a5865498a9b3f19e2dc31db4197f96fea649cfa72",
+      "sha256_visivel_md": "7a3f154067623f7c5d785fff22232f4da65cae4689a68cb814444a57871d828b",
+      "primeira_diferenca": {
+        "posicao": 40,
+        "fonte": "PORTARIA Nº 475, DE 29 DE MARÇO DE 2018 O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA,no uso das atribuições que lhe são conferidas pelo art. 21, da Estrutura Regimental ",
+        "md": "PORTARIA Nº 475, DE 29 DE MARÇO DE 2018 **O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA,**no uso das atribuições que lhe são conferidas pelo art. 21, da Estrutura Regimen"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-484-de-2-de-abril-de-2018-8772185.md",
+      "sha256_md": "8da0a713ca6caa597ebf036bb330eb9b27bbf8f3f7e387dbefff706093055dc1",
+      "sha256_fonte": "e0bd3932a45420717669005538fdcdf8272503a69a8e0700d9374194d7342ff5",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "7a93b6b9e0e7fdfcdecde0de174f4bb3b4695942ff699d95a48af309ce5a1f39",
+      "sha256_visivel_md": "dc3e6b738b6a7e018a842fb8bedb27d4c27b0a76a0f6eed7dd2ee8a709ac0174",
+      "primeira_diferenca": {
+        "posicao": 39,
+        "fonte": "PORTARIA Nº 484, DE 2 DE ABRIL DE 2018 O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA,no uso das atribuições que lhe são conferidas pelo art. 21, da Estrutura Regimental ",
+        "md": "PORTARIA Nº 484, DE 2 DE ABRIL DE 2018 **O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA,**no uso das atribuições que lhe são conferidas pelo art. 21, da Estrutura Regimen"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-523-de-24-de-agosto-de-2018-38405190.md",
+      "sha256_md": "ad4a63a7b18f1abc864c173ae9b9456418cbf0e628210e9bf97618f33e1e33e2",
+      "sha256_fonte": "89f25ad1197585cfa6145a7a5484160d5fe05a63f57c32184be18729a304bc99",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DAS DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO I DAS DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DOS BENEFICIÁRIOS E EXIGÊNCIAS PARA A EMISSÃODE DAP",
+          "fonte": "CAPÍTULO III DOS BENEFICIÁRIOS E EXIGÊNCIAS PARA A EMISSÃODE DAP",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DA REDE PÚBLICA EMISSORA DE DAP",
+          "fonte": "CAPÍTULO IV DA REDE PÚBLICA EMISSORA DE DAP",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DA REDE PRIVADA EMISSORA DE DAP",
+          "fonte": "CAPÍTULO V DA REDE PRIVADA EMISSORA DE DAP",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DO CREDENCIAMENTO DE OUTRAS ENTIDADES PÚBLICAS E PRIVADAS PARA EMISSÃO DE DAP",
+          "fonte": "CAPÍTULO VI DO CREDENCIAMENTO DE OUTRAS ENTIDADES PÚBLICAS E PRIVADAS PARA EMISSÃO DE DAP",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VII — DO CREDENCIMENTO E DESCREDENCIAMENTODOS EMISSORES DE DAP",
+          "fonte": "CAPÍTULO VII DO CREDENCIMENTO E DESCREDENCIAMENTODOS EMISSORES DE DAP",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VIII — DA VALIDADE DO DOCUMENTO DE DAP",
+          "fonte": "CAPÍTULO VIII DA VALIDADE DO DOCUMENTO DE DAP",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IX — DO CONTROLE SOCIAL",
+          "fonte": "CAPÍTULO IX DO CONTROLE SOCIAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO X — DAS PENALIDADES",
+          "fonte": "CAPÍTULO X DAS PENALIDADES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO XI — DAS DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO XI DAS DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "82203247b335e52751717969221672ae55377fdef6cf7b1be6b2b316e9ea7371",
+      "sha256_visivel_md": "9c01234a5b6baebef6facb54b47765d39c7477bc30d90617880141b58e35bd3d",
+      "primeira_diferenca": {
+        "posicao": 104,
+        "fonte": "E AGOSTO DE 2018 Disciplina a emissão de declaração de Aptidão ao Pronaf (DAP). O SECRETÁRIO ESPECIAL DE AGRICULTURA FAMILIAR E DO DESENVOLVIMENTO AGRÁRIO,no uso das atribuições conferidas pelo inciso II do artigo 3º do Decreto nº 8.865, de",
+        "md": "E AGOSTO DE 2018 Disciplina a emissão de declaração de Aptidão ao Pronaf (DAP). **O SECRETÁRIO ESPECIAL DE AGRICULTURA FAMILIAR E DO DESENVOLVIMENTO AGRÁRIO,**no uso das atribuições conferidas pelo inciso II do artigo 3º do Decreto nº 8.865"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-6-de-14-de-agosto-de-2018-36849202.md",
+      "sha256_md": "1505b796e76aedeec5d17d2e2ad5a7ac6a031b19947c67c5a986b01a6510afb9",
+      "sha256_fonte": "3b46ed20924491f853e2ffb98a626f4e196ea82c9e0a97cad795417cbc8be76c",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "fc3da9ba8ef1bb2739affe181f2d23b1a43d50b38a34036141e557dae4bc4f90",
+      "sha256_visivel_md": "a737b2cd534845ef41f53b9082088c28be7d2302580cefffd91339a2e3c7f700",
+      "primeira_diferenca": {
+        "posicao": 39,
+        "fonte": "PORTARIA Nº 6, DE 14 DE AGOSTO DE 2018 O INTERVENTOR FEDERAL NO ESTADO DO RIO DE JANEIRO,no uso das atribuições que lhe conferem o art. 1º, caput, inciso XII, e o art. 3º, parágrafo único, inciso III",
+        "md": "PORTARIA Nº 6, DE 14 DE AGOSTO DE 2018 **O INTERVENTOR FEDERAL NO ESTADO DO RIO DE JANEIRO,**no uso das atribuições que lhe conferem o art. 1º, caput, inciso XII, e o art. 3º, parágrafo único, inciso"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-607-de-18-de-abril-de-2018-11604063.md",
+      "sha256_md": "1287b3206046ad7df4213b411d90106baac8724fdbbf83e2e93c93d7ec0f201f",
+      "sha256_fonte": "d8c27b1d1fd3e244a1d7f95f9ced3c64d3b30b7196a0e77fe1307f8c33da2586",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "bdec45fc9e791ab9cd150bf2103a3663620f99a86746f0f0cf20212782ed087b",
+      "sha256_visivel_md": "caafb62dd9bdcc1f73fa7ba5b9dec62bcdf71da3845f3cf73b008928369b9d26",
+      "primeira_diferenca": {
+        "posicao": 40,
+        "fonte": "PORTARIA Nº 607, DE 18 DE ABRIL DE 2018 O SUPERINTENDENTE REGIONAL SUBSTITUTO DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA NO ESTADO DE MATO GROSSO,no uso das incumbências que lhe sã",
+        "md": "PORTARIA Nº 607, DE 18 DE ABRIL DE 2018 **O SUPERINTENDENTE REGIONAL SUBSTITUTO DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA NO ESTADO DE MATO GROSSO,**no uso das incumbências que lh"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-61-de-8-de-junho-de-2018-24967184.md",
+      "sha256_md": "1ff374944ee5284c229f9b1e30b744f1277144dc33eaa38919922fe5555b31e3",
+      "sha256_fonte": "df2da8342465e327e31ecf8498f8c43a767dd4b87a6586e888cbc0236d8df8db",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "b804bbdb4d1a5a35106ac5498a0ba3b5f1b11f9274880f9fa9af1742eee3a4b4",
+      "sha256_visivel_md": "10e7a26c412a8d52c9163d530ed33be3223174aca83a62d987dd484bd00d9698",
+      "primeira_diferenca": {
+        "posicao": 38,
+        "fonte": "PORTARIA Nº 61, DE 8 DE JUNHO DE 2018 O SECRETÁRIO DA SECRETARIA ESPECIAL DA AQUICULTURA E DA PESCA, DA SECRETARIA GERAL DA PRESIDÊNCIA DA REPÚBLICA,no uso de suas atribuições de que trata o art. 87",
+        "md": "PORTARIA Nº 61, DE 8 DE JUNHO DE 2018 **O SECRETÁRIO DA SECRETARIA ESPECIAL DA AQUICULTURA E DA PESCA, DA SECRETARIA GERAL DA PRESIDÊNCIA DA REPÚBLICA,**no uso de suas atribuições de que trata o art"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-63-de-11-de-junho-de-2018-25211679.md",
+      "sha256_md": "59d76ff4c0fdb12539e88786a0b4e977457d9dfc93b949914e112e74ff558e17",
+      "sha256_fonte": "e4726e4871fe39981778cddc9282e4d0f3dcfc6a0cf08e7b950c93ef288bd429",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "71329f08ee6aa0241a505d2755ff1f972a969eb24496167fd0c648ef89976ad3",
+      "sha256_visivel_md": "8b2b49c2e18002cf7b6884793411092d32d884f9dc0e9841478f744e0e5b77a9",
+      "primeira_diferenca": {
+        "posicao": 39,
+        "fonte": "PORTARIA Nº 63, DE 11 DE JUNHO DE 2018 O SECRETÁRIO DA SECRETARIA ESPECIAL DA AQUICULTURA E DA PESCA, DA SECRETARIA GERAL DA PRESIDÊNCIA DA REPÚBLICA,no uso de suas atribuições de que trata o art. 87",
+        "md": "PORTARIA Nº 63, DE 11 DE JUNHO DE 2018 **O SECRETÁRIO DA SECRETARIA ESPECIAL DA AQUICULTURA E DA PESCA, DA SECRETARIA GERAL DA PRESIDÊNCIA DA REPÚBLICA,**no uso de suas atribuições de que trata o art"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-645-de-23-de-abril-de-2018-13140283.md",
+      "sha256_md": "0f540412ccf8c98c9c0bfe0a972051ab43f0cf26ed46af7c5c2f656b49bbc716",
+      "sha256_fonte": "448c34e1578e2a18ce2922f8488258fe2351702753b4d05b610b64b7fc55c21a",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — Metas Globais para o 8º Ciclo de Avaliação de Desempenho Institucional - 01/05/2018 a 30/04/2019",
+          "fonte": "ANEXO I Metas Globais para o 8º Ciclo de Avaliação de Desempenho Institucional - 01/05/2018 a 30/04/2019",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "a4da79e8a3f5616bd7537bf158ddf17f64f495d9f2fa3a599c9a110802f9c44e",
+      "sha256_visivel_md": "5e9ee28329e76f753b275b5763a28e63cf51e628d9c5aa2f6a9bafbc97276498",
+      "primeira_diferenca": {
+        "posicao": 40,
+        "fonte": "PORTARIA Nº 645, DE 23 DE ABRIL DE 2018 O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA,no uso das atribuições que lhe são conferidas pelo art. 21, da Estrutura Regimental ",
+        "md": "PORTARIA Nº 645, DE 23 DE ABRIL DE 2018 **O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA,**no uso das atribuições que lhe são conferidas pelo art. 21, da Estrutura Regimen"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-70-de-15-de-junho-de-2018-26176293.md",
+      "sha256_md": "0fe0791536d123164068e6a59c9baa30c2ca02a2af1a5698a015a8ed9f73bcd0",
+      "sha256_fonte": "54661039c9a23e9148183a2de3860c3176774741fcd4f787798f13d199452605",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "8887107a67fbf08765528a030da51786dd2fd4441fa406563b0c3d31ee7a320b",
+      "sha256_visivel_md": "8d7f4bf1f88d5ef05e81d44a187227b56ba13eaf0b8a7532c14921944c2c09ed",
+      "primeira_diferenca": {
+        "posicao": 39,
+        "fonte": "PORTARIA Nº 70, DE 15 DE JUNHO DE 2018 O SECRETÁRIO DA SECRETARIA ESPECIAL DA AQUICULTURA E DA PESCA, DA SECRETARIA GERAL DA PRESIDÊNCIA DA REPÚBLICA,no uso das atribuições que lhe foram conferidas p",
+        "md": "PORTARIA Nº 70, DE 15 DE JUNHO DE 2018 **O SECRETÁRIO DA SECRETARIA ESPECIAL DA AQUICULTURA E DA PESCA, DA SECRETARIA GERAL DA PRESIDÊNCIA DA REPÚBLICA,**no uso das atribuições que lhe foram conferid"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-704-de-2-de-maio-de-2018-15334384.md",
+      "sha256_md": "945e5bf4c216826442621a284e3854506ec6341b1addaabdcf7a3a83f76bcf8a",
+      "sha256_fonte": "541095705f6de0cc10d81f39422f4cf74849017f7ecd86abc3ddca271adf3fbb",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "498d3dc465d58b5668d7e0d36e17074bce54fba21f7b8b4eaf7dbeb48c27d269",
+      "sha256_visivel_md": "521f1b277436c82d937b2b48e662af395f24bf964774e23c19205abc39e371ec",
+      "primeira_diferenca": {
+        "posicao": 38,
+        "fonte": "PORTARIA Nº 704, DE 2 DE MAIO DE 2018 A SUPERINTENDENTE REGIONAL SUBSTITUTA DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA, NO ESTADO DO PARÁ,no uso das atribuições que lhe foram con",
+        "md": "PORTARIA Nº 704, DE 2 DE MAIO DE 2018 **A SUPERINTENDENTE REGIONAL SUBSTITUTA DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA, NO ESTADO DO PARÁ,**no uso das atribuições que lhe foram"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-755-de-8-de-maio-de-2018-13571680.md",
+      "sha256_md": "d1a14249cde4e4d22d57301077b0b2e4ccad4442b4122bea8335c3e14f15615d",
+      "sha256_fonte": "4b9e11b4f17a6ea2a8763e75f1b582d7b18ef84e449dea86db550967165d81d8",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "42052937bd47c06cf3ffcc7408736bd217bf238032d36ccb531a2a57b3655366",
+      "sha256_visivel_md": "18a365f480f7d15969df39b0154b35f456538d37e3bf5f8ce1417526a0158335",
+      "primeira_diferenca": {
+        "posicao": 38,
+        "fonte": "PORTARIA Nº 755, DE 8 DE MAIO DE 2018 O SUPERINTENDENTE REGIONAL DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA DO DISTRITO FEDERAL E ENTORNO,no uso das atribuições que lhe são confe",
+        "md": "PORTARIA Nº 755, DE 8 DE MAIO DE 2018 **O SUPERINTENDENTE REGIONAL DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA DO DISTRITO FEDERAL E ENTORNO,**no uso das atribuições que lhe são c"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-80-de-26-de-junho-de-2018-27565795.md",
+      "sha256_md": "8147ceca02ed7200b0cd417f1673424601825c7c30b4e1e7f7b7d4bb9b893cf0",
+      "sha256_fonte": "81edad403d1d0761dbe6ee58b813c974308e96874d46decdc5b613c1efe67318",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "5892fa8bb3cea6b116fa51e0a533f0859504d30b96fc8309b384c5e34e34a14c",
+      "sha256_visivel_md": "3a3e9bd032323a4c073e2e22bffb063cf84d1e51bf4a78c4f024401907f75e8f",
+      "primeira_diferenca": {
+        "posicao": 146,
+        "fonte": "da temporada de pesca de tainha no ano de 2018 para a frota de Emalhe anilhado. O SECRETÁRIO DA SECRETARIA ESPECIAL DA AQUICULTURA E DA PESCA, DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA,no uso de suas atribuições de que trata o art. 87",
+        "md": "da temporada de pesca de tainha no ano de 2018 para a frota de Emalhe anilhado. **O SECRETÁRIO DA SECRETARIA ESPECIAL DA AQUICULTURA E DA PESCA, DA SECRETARIA-GERAL DA PRESIDÊNCIA DA REPÚBLICA,**no uso de suas atribuições de que trata o art"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-820-de-16-de-maio-de-2018-14918454.md",
+      "sha256_md": "e7b9e851f0f44754e1973d28fd577f0e8634c59b9629816c00162205ded5a188",
+      "sha256_fonte": "e5852462b5faa091b1934697d74f7c3a45232bc48ba045b45ba969936db1bdfa",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "b0230b15ec11100473e7fdab92529807ac9761566a6c8f62ee218ef3b11c73d1",
+      "sha256_visivel_md": "719dd725f6c32eb20780489d4afce6d901163a8cd220ea06181df69f10f1db7a",
+      "primeira_diferenca": {
+        "posicao": 39,
+        "fonte": "PORTARIA Nº 820, de 16 DE MAIO DE 2018 O SUPERINTENDENTE REGIONAL-SUBSTITUTO DO INSTITUTO NACIONAL DE COLONIZACAO E REFORMA AGRARIA - INCRA NO ESTADO DE SAO PAULO - SR(08),no uso das atribuições que ",
+        "md": "PORTARIA Nº 820, de 16 DE MAIO DE 2018 **O SUPERINTENDENTE REGIONAL-SUBSTITUTO DO INSTITUTO NACIONAL DE COLONIZACAO E REFORMA AGRARIA - INCRA NO ESTADO DE SAO PAULO - SR(08),**no uso das atribuições "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/portarias/2018/portaria-n-931-de-5-de-junho-de-2018-25403287.md",
+      "sha256_md": "fa5ddd83034e0a3f836428eb502426eebea50e68c6456f977c99f1dfc4beba35",
+      "sha256_fonte": "252db8bc51521a594994b3ff00e1900d27d09d46bd3bd2396a9e5220f80f1614",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — AVALIAÇÃO INSTITUCIONAL 7º CICLO - MAIO/2017 - ABRIL/2018METAS INTERMEDIÁRIAS - 3ª Revisão (Repactuação de Metas)",
+          "fonte": "ANEXO I AVALIAÇÃO INSTITUCIONAL 7º CICLO - MAIO/2017 - ABRIL/2018METAS INTERMEDIÁRIAS - 3ª Revisão (Repactuação de Metas)",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "2025f2229c0c27860a202007129237aeaf0bcadb39488a335197c73ad3c8964e",
+      "sha256_visivel_md": "773de7311fe76143b8922b68f4484d1e90344515812118fa989a8405dde715ff",
+      "primeira_diferenca": {
+        "posicao": 39,
+        "fonte": "PORTARIA Nº 931, DE 5 DE JUNHO DE 2018 O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA,no uso das atribuições que lhe são conferidas pelo art. 21, da Estrutura Regimental ",
+        "md": "PORTARIA Nº 931, DE 5 DE JUNHO DE 2018 **O PRESIDENTE DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA,**no uso das atribuições que lhe são conferidas pelo art. 21, da Estrutura Regimen"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-10-de-1-de-marco-de-2018-5595934.md",
+      "sha256_md": "4c2dc070dc0fc36594deab74aa6859b0c74dd268a414a089e7280c9501993ddb",
+      "sha256_fonte": "9098709173d557284cdde5572173a7f6aeb829c797fcf67ddf43648a3eaa06cd",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "0e530334ecb8103d814103e3ad8f5a0932c09cb1df23ea6001ac29c6f76e3028",
+      "sha256_visivel_md": "99f85f93ac7e1526469bdae6eb2fa69c797dd54289db6cc98db6b63ce1585beb",
+      "primeira_diferenca": {
+        "posicao": 1407,
+        "fonte": "representantes, titular e suplentes, serão indicados pelos órgãos mencionados nocaput,no prazo de cinco dias corridos, contados a partir da data de publicação desta Resolução, e designados em ato do Gabinete de Segurança Institucional da Pr",
+        "md": "representantes, titular e suplentes, serão indicados pelos órgãos mencionados no**caput,**no prazo de cinco dias corridos, contados a partir da data de publicação desta Resolução, e designados em ato do Gabinete de Segurança Institucional d"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-12-de-17-de-maio-de-2018-15750289.md",
+      "sha256_md": "353c1d97aef7f5e28b09a33cf10563f3ff4ba81acfe73da3d584ab1941534613",
+      "sha256_fonte": "93a6654532e7401b9500a4fc377d31a307d560fa8a0c8c9a47b9a25764f1d66d",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "feb603bebcaf5dd3341c263fb56a5c70431c528774e555f454a386e7939b19b5",
+      "sha256_visivel_md": "56284c77cd8bb5ac321dc6f2516765a06e22bc687282ca8f0d9939feb3177789",
+      "primeira_diferenca": {
+        "posicao": 5340,
+        "fonte": "ta juntando aos autos, dentre outros documentos reputados relevantes, no mínimo:i)edital de convocação da assembleia para essa finalidade, com a demonstração de sua ampla divulgação prévia; ii) ata da assembleia com a síntese das discussões",
+        "md": "ta juntando aos autos, dentre outros documentos reputados relevantes, no mínimo:*i)*edital de convocação da assembleia para essa finalidade, com a demonstração de sua ampla divulgação prévia; ii) ata da assembleia com a síntese das discussõ"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-13-de-11-de-dezembro-de-2017-6655722.md",
+      "sha256_md": "44014151e8a99eb261a26c299ac2e800ed08d580a485dfbad03e46ae550546de",
+      "sha256_fonte": "bb9742650a2eb73b52147c1e2266f30dc72ab056c33f23c4af30e0500a011f24",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "07991752169923bd0a69bc07e8a78f983aff6fd5f92a7b55cc2e3b95574a9a85",
+      "sha256_visivel_md": "e55923d01b0450d395d80d9f5a0fd359b2d64756befeb6915e70952baf3a8cac",
+      "primeira_diferenca": {
+        "posicao": 70,
+        "fonte": "COMITÊ DE DECISÃO REGIONAL RESOLUÇÃO Nº 13, DE 11 DE DEZEMBRO DE 2017 O COMITÊ DE DECISÃO REGIONAL (CDR) DA SUPERINTENDÊNCIA REGIONAL DO INCRA NO ESTADO DE MATO GROSSO DO SUL - SR(16)MS,órgão colegiado criado de acordo com os arti",
+        "md": "COMITÊ DE DECISÃO REGIONAL RESOLUÇÃO Nº 13, DE 11 DE DEZEMBRO DE 2017 **O COMITÊ DE DECISÃO REGIONAL (CDR) DA SUPERINTENDÊNCIA REGIONAL DO INCRA NO ESTADO DE MATO GROSSO DO SUL - SR(16)MS,**órgão colegiado criado de acordo com os "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-135-de-8-de-marco-de-2018-6437480.md",
+      "sha256_md": "d0476fea071ae32926decf94f2cf8680fdf6b1253939dd6658b271e3ffe3ae19",
+      "sha256_fonte": "eb39f8d2657424998e00ba8d9d1e362ab2e366c314b9d9858d973156b74ba2ed",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "1f2fbeb30075859da16bff8e77c6f71bb8040164cce84632fc9b6e0ab88a01db",
+      "sha256_visivel_md": "fe46c838f18c0771361b5b67ff516a07c9055feaff39da5a64b73e9b30c5eeca",
+      "primeira_diferenca": {
+        "posicao": 102,
+        "fonte": "ESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA RESOLUÇÃO Nº 135, DE 8 DE MARÇO DE 2018 O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6°,§ 1º, inc. III, do Regimento Int",
+        "md": "ESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA RESOLUÇÃO Nº 135, DE 8 DE MARÇO DE 2018 **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6°,§ 1º, inc. III, do Regimento"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-141-de-3-de-julho-de-2018-34553735.md",
+      "sha256_md": "42eb1f386865fd57932b7b2658f782425db65a99c1c2673a6db413e9dc7426a8",
+      "sha256_fonte": "03783983c521c35ed258dbb8cce0e6fb5452fbb496855014f13a0f0f299fb3f8",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "f8635bc67ef42ee08d0005a2c2b3c8607361644d1b083967d450e47d13f1baba",
+      "sha256_visivel_md": "c39285a8badc39668938d6234701e469af968d42df75e93b75f4e884f83d9ad6",
+      "primeira_diferenca": {
+        "posicao": 217,
+        "fonte": "RITO FEDERAL NOS PROCEDIMENTOS ESPECÍFICOS DE EMISSÃO DE CERTIFICADOS DIGITAIS. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "RITO FEDERAL NOS PROCEDIMENTOS ESPECÍFICOS DE EMISSÃO DE CERTIFICADOS DIGITAIS. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-16-de-7-de-marco-de-2018-5763729.md",
+      "sha256_md": "190018516ba1c9aa6f03e93a1b35f1edaca8461ce4c9190949f32c6bc534c747",
+      "sha256_fonte": "e7308f609c257613a7d923ed1a8324e2bfc1dad03e139679f35ef159c2bd8c0c",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "92f805e1f1b85b56412dcba6023492d93133e8e784ec840c140c7340001a298a",
+      "sha256_visivel_md": "6a14bf21bd434fbf27dfc91256862993f184135d922710fee409e29d84906101",
+      "primeira_diferenca": {
+        "posicao": 39,
+        "fonte": "RESOLUÇÃO Nº 16, DE 7 DE MARÇO DE 2018 O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,tendo em vista a deliberação em sua 153ª reunião, realizada em 21 de fevereiro de 2018, no uso da at",
+        "md": "RESOLUÇÃO Nº 16, DE 7 DE MARÇO DE 2018 **O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,**tendo em vista a deliberação em sua 153ª reunião, realizada em 21 de fevereiro de 2018, no uso d"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-18-de-27-de-marco-de-2018-8253803.md",
+      "sha256_md": "b0d60ae686a90e209a1ae492112f283f967dab3dabc47ba75567784d8a945c42",
+      "sha256_fonte": "3da049e0b1234b13a05ef7e49ad594de293b255e6a910c2a681cbca237ab3861",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e1898308fdbd5125078d6191337e60e2ac563db29a9e5708484a4c3b365334be",
+      "sha256_visivel_md": "7ec4ec6fea60540da389343d27fd54cb16b242a2e3033dbe2cb4653f70f9f143",
+      "primeira_diferenca": {
+        "posicao": 40,
+        "fonte": "RESOLUÇÃO Nº 18, DE 27 DE MARÇO DE 2018 O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,no uso das atribuições conferidas pelo art. 6º da Lei nº 9.019, de 30 de março de 1995, os arts. 2º,",
+        "md": "RESOLUÇÃO Nº 18, DE 27 DE MARÇO DE 2018 **O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,**no uso das atribuições conferidas pelo art. 6º da Lei nº 9.019, de 30 de março de 1995, os arts."
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-19-de-27-de-marco-de-2018-8253816.md",
+      "sha256_md": "1a604c586242035161a6f7ceaa89a332b0935cbd4f690e81461c9af82230eb73",
+      "sha256_fonte": "2038a885678a10fb1e503d868f395fc2581476145c543ac230b0d1e38112c1da",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "3d3845923ed0cc2ca7bbee32f062092d5a8358fd4f54b4431d88b0a1bdbff9dc",
+      "sha256_visivel_md": "d0adc771d72671d15c0a0b18ebdda5a424edbc66c897045f0f378c5c06b50ec1",
+      "primeira_diferenca": {
+        "posicao": 40,
+        "fonte": "RESOLUÇÃO Nº 19, DE 27 DE MARÇO DE 2018 O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,tendo em vista a deliberação de sua 154ª reunião, realizada em 22 de março de 2018, no uso da atribu",
+        "md": "RESOLUÇÃO Nº 19, DE 27 DE MARÇO DE 2018 **O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,**tendo em vista a deliberação de sua 154ª reunião, realizada em 22 de março de 2018, no uso da at"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-20-de-27-de-marco-de-2018-8253829.md",
+      "sha256_md": "357bc4b156eacfe3f5e0436ba075672ba23196576cb3f476d1d85168d5d13ac1",
+      "sha256_fonte": "0e89aad545dea3dddba2ebced9831830fae2af1af775f466b8fb07a7b702cf26",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "19d633a5be196fe36c309fa239d6fceab6c7081307c3526dd361fdc11f270c3e",
+      "sha256_visivel_md": "96b25d725ee7794698aa9fef9a694518bbb59042ed19957d3a044b7579087b3a",
+      "primeira_diferenca": {
+        "posicao": 40,
+        "fonte": "RESOLUÇÃO Nº 20, DE 27 DE MARÇO DE 2018 O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,tendo em vista a deliberação de sua 154ª reunião, realizada em 22 de março de 2018, no uso da atribu",
+        "md": "RESOLUÇÃO Nº 20, DE 27 DE MARÇO DE 2018 **O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,**tendo em vista a deliberação de sua 154ª reunião, realizada em 22 de março de 2018, no uso da at"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-20-de-6-de-fevereiro-de-2018-6655735.md",
+      "sha256_md": "654bdd057c289862dc0262fa12e13def19573b1ae445ae097d40220e15965f53",
+      "sha256_fonte": "367febda3dce1e9773e4132ff9def983d67d5f99edc6ae35d5014683dacfcfb8",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e5c5ea88e449e632a062f445f026b389597153f0805d3c160405f295920ca105",
+      "sha256_visivel_md": "6bf609e88d1649b77a428acde47dbc7f826129bffe8b0110d922fc13b3816127",
+      "primeira_diferenca": {
+        "posicao": 43,
+        "fonte": "RESOLUÇÃO Nº 20, DE 6 DE FEVEREIRO DE 2018 O COMITÊ DE DECISÃO REGIONAL (CDR) DA SUPERINTENDÊNCIA REGIONAL DO INCRA NO ESTADO DE MATO GROSSO DO SUL - SR(16)MS,órgão colegiado criado de acordo com os arti",
+        "md": "RESOLUÇÃO Nº 20, DE 6 DE FEVEREIRO DE 2018 **O COMITÊ DE DECISÃO REGIONAL (CDR) DA SUPERINTENDÊNCIA REGIONAL DO INCRA NO ESTADO DE MATO GROSSO DO SUL - SR(16)MS,**órgão colegiado criado de acordo com os "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-25-de-5-de-abril-de-2018-9575960.md",
+      "sha256_md": "e22690ae98ef0cea8d2dd4b5adb4f75db994ca2fc58c4029fa255acf6158a6ac",
+      "sha256_fonte": "8b1c377502de023091de472ce0cfcae9b128832ccb0534cc5b04acb52a755fe6",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "1760a3f93b2cc0403732d0299ca8751c9606d0e015e0c1e978a63a247ab45be9",
+      "sha256_visivel_md": "2775c8bed8d67b84fa76f85e601661cc9aab057153f042498d9262ea332ea820",
+      "primeira_diferenca": {
+        "posicao": 100223,
+        "fonte": "is de características distintas das do produto similar, como por exemplo o papel[confidencial], ou os papéis de gramaturas não abrangidas pela revisão. O total de produção de outros produtos foi levado em consideração para o cálculo do grau",
+        "md": "is de características distintas das do produto similar, como por exemplo o papel**[confidencial]**, ou os papéis de gramaturas não abrangidas pela revisão. O total de produção de outros produtos foi levado em consideração para o cálculo do "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-26-de-16-de-agosto-de-2018-37407881.md",
+      "sha256_md": "e50d56da474783883f8d10c638357d47a26e67eae16c444d317c15317cf76e5e",
+      "sha256_fonte": "5e02b3a31b3f93cdf612c1f51860ad63aa4307c637b9c0029b0ff30ff14c5059",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "3176add76a21a33ec744fb7d2bf1eb6b4848c2c5bbfa6bca303c3e6d4b5eb5dc",
+      "sha256_visivel_md": "0ebe56ba1a196c5051cc5085c19a617f0c079b5729726cb432cd143d9053be86",
+      "primeira_diferenca": {
+        "posicao": 174,
+        "fonte": "do Programa Espacial Brasileiro na terceira reunião plenária daquele colegiado. O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, COORDENADOR DO COMITÊ DE DESENVOLVIMENTO DO PROGRAMA ESPACIAL BRA",
+        "md": "do Programa Espacial Brasileiro na terceira reunião plenária daquele colegiado. **O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, COORDENADOR DO COMITÊ DE DESENVOLVIMENTO DO PROGRAMA ESPACIAL B"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-28-de-27-de-abril-de-2018-12528591.md",
+      "sha256_md": "137e2194b93ff525051652cc6d83978ab1807fdb0e39dcf54fafb2ecd4417c3b",
+      "sha256_fonte": "e8f76e784c585dfd1af3cddcbc8bf4c98343053815ae2289bf36cc4fd4f31f97",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "7403dba723ffaf0ef2f03cf7ac786970354c43d06312e2f5cb78d0e19c2c75bc",
+      "sha256_visivel_md": "c258daeb2943de58ca835bfc01a99a67eb46c1223ec4c3196684cfcec02a0b53",
+      "primeira_diferenca": {
+        "posicao": 176,
+        "fonte": "da Resolução nº 116, de 18 de dezembro de 2014, da Câmara de Comércio Exterior. O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,no uso das atribuições que lhe conferem os arts. 2º, inciso XIV, e 5°, § 4°, inciso II, do Decreto n",
+        "md": "da Resolução nº 116, de 18 de dezembro de 2014, da Câmara de Comércio Exterior. **O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,**no uso das atribuições que lhe conferem os arts. 2º, inciso XIV, e 5°, § 4°, inciso II, do Decre"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-29-de-2-de-maio-de-2018-12714124.md",
+      "sha256_md": "a459d85de5e927788848b0154732d3912f068e68aca3f0d28ee7e03bbde94323",
+      "sha256_fonte": "d28f9cd431d2195ac797e70759724047e691d73755dbad858e9efe95af21470d",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "861f382c40494f4ff495774991f1ac4446a7dbddfea8465c15029f0b7276847a",
+      "sha256_visivel_md": "516bad1b3fb926da601b9a1442c5f89cc32b199a9d97a42335c0db3064d0df56",
+      "primeira_diferenca": {
+        "posicao": 250,
+        "fonte": " e Abastecimento no Comitê de Financiamento e Garantia das Exportações - COFIG. O PRESIDENTE DO COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,com fundamento no § 3º do art. 4º do Decreto nº 4.732, de 10 de junho de 2003, torna p",
+        "md": " e Abastecimento no Comitê de Financiamento e Garantia das Exportações - COFIG. **O PRESIDENTE DO COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,com fundamento no § 3º do art. 4º do Decreto nº 4.732, de 10 de junho de 2003, torna"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-3-de-1-de-marco-de-2018-5595947.md",
+      "sha256_md": "7d32ad6cc4b6417595bc588a0e3c5539ebf88d3faaf4d315f3b0b2b5e724109c",
+      "sha256_fonte": "3f0dea280d0601d3c97f28689ded67fa3dbd5bed56e71b853c9bfc96c5ab0683",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "11c4bc1f59d10f468892fff535efde29dfdd5445aa5bff95264b35ffb15f1744",
+      "sha256_visivel_md": "b5cc09d7473a44694d82ea8d849069c1002b0ab11406cf52a58327162a7ce897",
+      "primeira_diferenca": {
+        "posicao": 1621,
+        "fonte": "representantes, titular e suplentes, serão indicados pelos órgãos mencionados nocaput,no prazo de cinco dias corridos, contados a partir da data de publicação desta Resolução, e designados em ato do Gabinete de Segurança Institucional da Pr",
+        "md": "representantes, titular e suplentes, serão indicados pelos órgãos mencionados no**caput,**no prazo de cinco dias corridos, contados a partir da data de publicação desta Resolução, e designados em ato do Gabinete de Segurança Institucional d"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-30-de-19-de-marco-de-2018-7360298.md",
+      "sha256_md": "4e58cdd69a6f8b7718878a6315a15503c309cd62c2d61cc21880ebffa64bb2cc",
+      "sha256_fonte": "760e66304ba10620362d5b9e86d42d97d1bd78ca0b5c693544d65a8bb924b885",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "8c1f5fb96a3210fbbc8a13f71b31882e7a95a05d05e1a2141c7416655fc57108",
+      "sha256_visivel_md": "8fb694a0b2ec3127fb0f150f4abee1de6126f3c59fd4eae2c5ee2e7c9fb4a4ea",
+      "primeira_diferenca": {
+        "posicao": 169,
+        "fonte": "TOS DA PRESIDÊNCIA DA REPÚBLICA, no uso da atribuição que lhe confere o art. 7º,caput,inciso V, alínea \"c\", da Lei nº 13.334, de 13 de setembro de 2016, e tendo em vista o disposto no art. 6º,caput,inciso II e § 1º, no art. 18 e no art. 19 ",
+        "md": "TOS DA PRESIDÊNCIA DA REPÚBLICA, no uso da atribuição que lhe confere o art. 7º,**caput,**inciso V, alínea \"c\", da Lei nº 13.334, de 13 de setembro de 2016, e tendo em vista o disposto no art. 6º,**caput,**inciso II e § 1º, no art. 18 e no "
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-36-de-4-de-junho-de-2018-17071955.md",
+      "sha256_md": "67dbe6b4c8da95fac0d3738df455b8d3767fce70eb1d19de1b89e3a49d702be3",
+      "sha256_fonte": "4f4f43d9b2a78a8a36dec0a0c926726f48e097be17c6a247aa6cee26655d5298",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "c28591c36b207a6c59c299bdcedfa94c2c0530c70a0ffa197cc58072e2cdfb52",
+      "sha256_visivel_md": "8b1fedaf7e7886bd3caabdf83266d3df7725c21abfde8b5a25977b664f90234e",
+      "primeira_diferenca": {
+        "posicao": 113,
+        "fonte": " 2018 Altera a Lista Brasileira de Exceções à Tarifa Externa Comum do Mercosul. O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,tendo em vista a deliberação em sua 154ª reunião, realizada em 21 de março de 2018, no uso da atribu",
+        "md": " 2018 Altera a Lista Brasileira de Exceções à Tarifa Externa Comum do Mercosul. **O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,**tendo em vista a deliberação em sua 154ª reunião, realizada em 21 de março de 2018, no uso da at"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-38-de-2-de-julho-de-2018-28315906.md",
+      "sha256_md": "d37b0d87962ec6f3fecf2a1db94871207cd987424909dca32c0b1fe0f9f70dee",
+      "sha256_fonte": "b1902f2684134c17fce87e6c9029fec30a73bda23d4601a36117d112d4cef433",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "ad4fa41a5c1bc3581ea98e3e9a2a45e94c33af3c110669c1c313796c30d5dce9",
+      "sha256_visivel_md": "c529b3cfa65c6c894a312ccf8ab10c7d42ca25f217248899d05c9f1b40919186",
+      "primeira_diferenca": {
+        "posicao": 435,
+        "fonte": "S DA PRESIDÊNCIA DA REPÚBLICA, no uso das atribuições que lhe confere o art. 7º,caput,inciso I,da Lei nº 13.334, de 13 de setembro de 2016, Considerando a necessidade de permitir que a administração pública federal concentre seus esforços n",
+        "md": "S DA PRESIDÊNCIA DA REPÚBLICA, no uso das atribuições que lhe confere o art. 7º,**caput,**inciso I,da Lei nº 13.334, de 13 de setembro de 2016, Considerando a necessidade de permitir que a administração pública federal concentre seus esforç"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-39-de-2-de-julho-de-2018-28315880.md",
+      "sha256_md": "b5a47a434294cd1dc9ce1d42bbc6c370ce73e85dcc9814293c4118d53c843c38",
+      "sha256_fonte": "d383fea3627dc065d01891e013dd9a07f2ea55ee91ec7bfbb25603c3ec4dc37b",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "5f2ba4016d430eb9c0d8360b730affcb3328c1106c9d871c3f7ada23d9a451be",
+      "sha256_visivel_md": "56458c43df2cdbc75a5e1621d81724e1838bf410605eaa148a0bfd3cf7694895",
+      "primeira_diferenca": {
+        "posicao": 1543,
+        "fonte": "tenção e operação da empresa; resolve: Art. 1º Autorizar, nos termos do art. 47,caput,inciso I, do Decreto nº 2.594, de 1998, a alienação de 2.095.644 ações ordinárias detidas pela Eletrobras Participações S.A. no capital social da Eletropa",
+        "md": "tenção e operação da empresa; resolve: Art. 1º Autorizar, nos termos do art. 47,**caput,**inciso I, do Decreto nº 2.594, de 1998, a alienação de 2.095.644 ações ordinárias detidas pela Eletrobras Participações S.A. no capital social da Elet"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-4-de-1-de-marco-de-2018-5595960.md",
+      "sha256_md": "4b9827f7d1dfe8dc8e68a7679f7013ed5d1ec8610140d823809fc2e1480ae1cb",
+      "sha256_fonte": "66a076127292730d4dd4b62eceb98c211635e603869582fc3fdc22c752db002f",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "bb99f1de387f2b28ccb7eca4139d01eb93b8accd000106f7ee188181e8ad59e7",
+      "sha256_visivel_md": "7afabf6d57c681fa327d7466f9d4e9b9f5b02f4f5fdb739323fbf5a116ca811f",
+      "primeira_diferenca": {
+        "posicao": 1369,
+        "fonte": "representantes, titular e suplentes, serão indicados pelos órgãos mencionados nocaput,no prazo de cinco dias corridos, contados a partir da data de publicação desta Resolução, e designados em ato do Gabinete de Segurança Institucional da Pr",
+        "md": "representantes, titular e suplentes, serão indicados pelos órgãos mencionados no**caput,**no prazo de cinco dias corridos, contados a partir da data de publicação desta Resolução, e designados em ato do Gabinete de Segurança Institucional d"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-41-de-18-de-junho-de-2018-26369931.md",
+      "sha256_md": "968d66b2ff9bd479af49529395d69435c53bf527160055ed9ba9d872d3ee086f",
+      "sha256_fonte": "df874a3177f214e6ddf3a5d2c7cf17041ae1000c29bb2eee91b920d6667b4708",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "ffa597b3abb6ad7dc9e330238bebec1bf1e636dde9279744d07bd231494d8adb",
+      "sha256_visivel_md": "3e9a807ee63575e14205fdc7293d1e969f02fc12f81eda7b857e4cd5ad1a210e",
+      "primeira_diferenca": {
+        "posicao": 13077,
+        "fonte": "STRITO] [RESTRITO] 106% Brasil (preço EXW para efeitos comparativos) [RESTRITO] Fonte:https://www.trademap.org/e informações fornecidas pela Magnesita no pleito de avaliação de interesse público. 16. Para além da restrição de países com pot",
+        "md": "STRITO] [RESTRITO] 106% Brasil (preço EXW para efeitos comparativos) [RESTRITO] *Fonte:*https://www.trademap.org/e informações fornecidas pela Magnesita no pleito de avaliação de interesse público. 16. Para além da restrição de países com p"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-46-de-3-de-julho-de-2018-28504048.md",
+      "sha256_md": "ae2e5f98524dc5942e77a7c5ef11b3d483f54caf4b099322d759ec556257f6ba",
+      "sha256_fonte": "37fd20dbe766a591bd4e0e2439af2dc89d45c4e9c88c01b227442502d0bed228",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "459d68076857797100c40c935f87d7b9711390a4c812f008b92ad5d4fa3fbc20",
+      "sha256_visivel_md": "91c827d9592f9170f907a688e945ad8644a60fd24e135f62d05bc33b8f95cc04",
+      "primeira_diferenca": {
+        "posicao": 113,
+        "fonte": " 2018 Altera a Lista Brasileira de Exceções à Tarifa Externa Comum do Mercosul. O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,tendo em vista a deliberação em sua 157ª reunião, realizada em 19 de junho de 2018, no uso das atrib",
+        "md": " 2018 Altera a Lista Brasileira de Exceções à Tarifa Externa Comum do Mercosul. **O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,**tendo em vista a deliberação em sua 157ª reunião, realizada em 19 de junho de 2018, no uso das a"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-47-de-12-de-julho-de-2018-29897673.md",
+      "sha256_md": "e31b7d05c7358d2ca5c2089811154b34ea07f793c5279c16a2f04c014a4d33df",
+      "sha256_fonte": "59a32fcb990a5917c919661d18f66e5f6deebf29cd8d57ecdd7b4f8c4eb7b001",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "16ef6819952359eb46d71c31ae49ae7a62e27fce7196257deec528b62dee5c22",
+      "sha256_visivel_md": "67b66930b3ac0e716560410682da279340aca8c7613d2a71f004e639a4bfb0f2",
+      "primeira_diferenca": {
+        "posicao": 468,
+        "fonte": "o art. 4°, § 3º do Decreto nº 4.732, de 10 de junho de 2003, torna público que oCONSELHO DE MINISTROS DA CÂMARA DE COMÉRCIO EXTERIOR,em sua 117ª reunião, realizada em 11 de julho de 2018, no uso das atribuições conferidas pelo art. 6º da Le",
+        "md": "o art. 4°, § 3º do Decreto nº 4.732, de 10 de junho de 2003, torna público que o**CONSELHO DE MINISTROS DA CÂMARA DE COMÉRCIO EXTERIOR,**em sua 117ª reunião, realizada em 11 de julho de 2018, no uso das atribuições conferidas pelo art. 6º d"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-49-de-23-de-julho-de-2018-33853898.md",
+      "sha256_md": "0393eb188594c500c82a138105af2470866e05e90df9c0a78b024ec9c194823e",
+      "sha256_fonte": "70874b52c03ee748589541ba37132e1e8af4d52c08b156c0d2c9a4ad23933e15",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "fb99797e5faa41b48ddafc428bab88464f201085c06a0317b84147d99504d5a0",
+      "sha256_visivel_md": "ce3d9c3eb18d977b3344f62206d5d0039b10eed07f960b355c8c7d55b0f44b98",
+      "primeira_diferenca": {
+        "posicao": 114,
+        "fonte": " 2018 Altera a Lista Brasileira de Exceções à Tarifa Externa Comum do Mercosul. O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,tendo em vista a deliberação em sua 157ª reunião, realizada em 19 de junho de 2018, no uso das atrib",
+        "md": " 2018 Altera a Lista Brasileira de Exceções à Tarifa Externa Comum do Mercosul. **O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,**tendo em vista a deliberação em sua 157ª reunião, realizada em 19 de junho de 2018, no uso das a"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-51-de-3-de-agosto-de-2018-35519262.md",
+      "sha256_md": "9961122b273ff0891d28568fd532e107787b36e4aa0788748b6f24a0f0d49345",
+      "sha256_fonte": "b39e841563fcbbf159db75bee596169ab1a5b1a21b7b92abbb18ac3b0395cbe2",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "d31c3b64a7c601c60c476c880c50f368fd2f2b85c83a842508b845d58d45699d",
+      "sha256_visivel_md": "bc411e3dc3060b774add5bcac03f9ef61aab6ac180c485df631ab2c635f96ba5",
+      "primeira_diferenca": {
+        "posicao": 114,
+        "fonte": " 2018 Altera a Lista Brasileira de Exceções à Tarifa Externa Comum do Mercosul. O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,tendo em vista a deliberação em sua 158ª reunião, realizada em 31 de julho de 2018, no uso das atrib",
+        "md": " 2018 Altera a Lista Brasileira de Exceções à Tarifa Externa Comum do Mercosul. **O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,**tendo em vista a deliberação em sua 158ª reunião, realizada em 31 de julho de 2018, no uso das a"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-52-de-27-de-abril-de-2018-12528500.md",
+      "sha256_md": "53ff8aa542b7be2967944f1e31e1ad664fec7e1464c620ead5cc3e300ff1e12a",
+      "sha256_fonte": "3864a56583a7319d321f8af54eb30f9c7f01a6668f0a1bb2cea44a56d0967779",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "2539e0c1b78f425a977263233fc29e0af1afa4ec8abf323bf2df0032bb11d478",
+      "sha256_visivel_md": "2e77036ee9759fc1f7a285478084b424b9bcf293f88d7e753c5c5865b81195b6",
+      "primeira_diferenca": {
+        "posicao": 67,
+        "fonte": "COMITÊ DE DECISÃO REGIONAL RESOLUÇÃO Nº 52, DE 27 DE ABRIL DE 2018 O COMITÊ DE DECISÃO REGIONAL DA SUPERINTENDÊNCIA REGIONAL DO ESPÍRITO SANTO - CDR/SR20 DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA,Autarquia ",
+        "md": "COMITÊ DE DECISÃO REGIONAL RESOLUÇÃO Nº 52, DE 27 DE ABRIL DE 2018 **O COMITÊ DE DECISÃO REGIONAL DA SUPERINTENDÊNCIA REGIONAL DO ESPÍRITO SANTO - CDR/SR20 DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA,**Autarq"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-52-de-9-de-agosto-de-2018-36331224.md",
+      "sha256_md": "c4c1bc6198d97973cb8dcfcb7b369b314de4b629b866d65077d033015cf6fbc6",
+      "sha256_fonte": "65a3ad04f125ae69d6138c9f2729379395f04e773ba96b35f3d77ea422b81de0",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "b45f2b910ee18534e0ab8af45dfb8d1632e44e396d10b03a9202cf8bf6307e52",
+      "sha256_visivel_md": "db0c0777edf5aa1f53e334cdda461b7767c25512bd59e8dd47ed49a9a86bfe02",
+      "primeira_diferenca": {
+        "posicao": 120,
+        "fonte": "Adota a Agenda Regulatória de Comércio Exterior do Brasil para o biênio 2018-19 O PRESIDENTE DO COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,no uso da atribuição prevista no § 3º do art. 4º do Decreto nº 4.732, de 10 de junho d",
+        "md": "Adota a Agenda Regulatória de Comércio Exterior do Brasil para o biênio 2018-19 **O PRESIDENTE DO COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR,no uso da atribuição prevista no § 3º do art. 4º do Decreto nº 4.732, de 10 de junho"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-57-de-4-de-maio-de-2018-13571693.md",
+      "sha256_md": "7dd7817c7273d70f24def8c9a6abd69b7463e91b1f408b70f01712c1dfb67d16",
+      "sha256_fonte": "15c8c3d4a633255f2f84070e1dc9f4e39819c6de5455790ef3abbb5f3955ee57",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e21d66bfa2338ed4650151df13a292da22a5a439fbc5cc0659ed9083f6e7dce2",
+      "sha256_visivel_md": "ea7be20b89ba46302b5ad29d5f7981331dc33aa2fa52acabda74e1d34aa4e0b4",
+      "primeira_diferenca": {
+        "posicao": 65,
+        "fonte": "COMITÊ DE DECISÃO REGIONAL RESOLUÇÃO Nº 57, DE 4 DE MAIO DE 2018 O COMITÊ DE DECISÃO REGIONAL DA SUPERINTENDÊNCIA REGIONAL DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA NO ESTADO DO TOCANTINS - SR(26)/TO,Auta",
+        "md": "COMITÊ DE DECISÃO REGIONAL RESOLUÇÃO Nº 57, DE 4 DE MAIO DE 2018 **O COMITÊ DE DECISÃO REGIONAL DA SUPERINTENDÊNCIA REGIONAL DO INSTITUTO NACIONAL DE COLONIZAÇÃO E REFORMA AGRÁRIA - INCRA NO ESTADO DO TOCANTINS - SR(26)/TO,**"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-78-de-13-de-julho-de-2018-32570714.md",
+      "sha256_md": "0e69914f3ac4dfef4b9333cb09cb8c15f4e1d05e9d8623b9ce8ef6de7eed262b",
+      "sha256_fonte": "6a39434bee3a998648c274be103c96f24b22b2987344e7330dcd345fb8028b52",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "62ea900e0ee0b7dff3cafdecf2fe753bac1a00bed751f3ee454785b5436dac51",
+      "sha256_visivel_md": "7b4c92b466907a84daf0688d6e12693365408f406a15c2d0eb29a877785784bd",
+      "primeira_diferenca": {
+        "posicao": 67,
+        "fonte": "COMITÊ DE DECISÃO REGIONAL RESOLUÇÃO Nº 78, DE 13 DE JULHO DE 2018 O COMITÊ DE DECISÃO REGIONAL - CDR,considerando o contido no Decreto n. 8.955, de 11 de janeiro de 2017, que aprovou a Estrutura Regimental do INCRA, com suport",
+        "md": "COMITÊ DE DECISÃO REGIONAL RESOLUÇÃO Nº 78, DE 13 DE JULHO DE 2018 **O COMITÊ DE DECISÃO REGIONAL - CDR,considerando o contido no Decreto n. 8.955, de 11 de janeiro de 2017, que aprovou a Estrutura Regimental do INCRA, com supo"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-8-de-1-de-marco-de-2018-5595973.md",
+      "sha256_md": "15d225c71636725ecf0ce9c70c4143b143c8aaa275289b0acac0e78193abf7fb",
+      "sha256_fonte": "a11b99b2cbd6b80b60e02633622d4d7d58393314192fbe3f0616eb2ebed10f39",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "d0dcf3ef6ace2f351cf4f249cb1df8b0359e0684e369c10b830a65e5b4e733f8",
+      "sha256_visivel_md": "14583649cceb81cfd495d6913f86e4544b216c394593001e847cf381b5db8adc",
+      "primeira_diferenca": {
+        "posicao": 1323,
+        "fonte": "representantes, titular e suplentes, serão indicados pelos órgãos mencionados nocaput,no prazo de cinco dias corridos, contados a partir da data de publicação desta Resolução, e designados em ato do Gabinete de Segurança Institucional da Pr",
+        "md": "representantes, titular e suplentes, serão indicados pelos órgãos mencionados no**caput,**no prazo de cinco dias corridos, contados a partir da data de publicação desta Resolução, e designados em ato do Gabinete de Segurança Institucional d"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-8-de-22-de-agosto-de-2018-37976139.md",
+      "sha256_md": "79f8d27f05e6ac6785e84643481d8aba35625850e415d9a4e027f9e919b86a1f",
+      "sha256_fonte": "6539e7a7f080274a9e7e47d482aa2c60bd48c67a3ae48b9774a2dd364e2b5005",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "e90497add454851e79e48404d5a1c78df4bf41166ffaa1d8db53cbb8116306c4",
+      "sha256_visivel_md": "23e0a03dca7c19011a8974e8c5803a1bcb0c872183febdf289c6f6c0abbd9dbf",
+      "primeira_diferenca": {
+        "posicao": 232,
+        "fonte": "egulatórias, das de promoção e fomento da Comissão Nacional de Energia Nuclear. O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, Coordenador do Comitê de Desenvolvimento do Programa Nuclear Bras",
+        "md": "egulatórias, das de promoção e fomento da Comissão Nacional de Energia Nuclear. **O MINISTRO DE ESTADO CHEFE DO GABINETE DE SEGURANÇA INSTITUCIONAL DA PRESIDÊNCIA DA REPÚBLICA, Coordenador do Comitê de Desenvolvimento do Programa Nuclear Br"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-83-de-18-de-julho-de-2018-33852005.md",
+      "sha256_md": "5a416fd9d6f105295da78d35b76f17b5a89cc8265dcb99fe94846bbe7d9ebc47",
+      "sha256_fonte": "034dd880b4a74dbbeb968afac6a246a793c154b1a9977612bc1309d6861a9255",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "6059e61d6a078aa969e2d2b83bfc657aa8f718230342a61c5e384cdee379ca16",
+      "sha256_visivel_md": "26ffa5382da3dc37e81d57bd38dcc523f1912f579b517df6750c2fa555b26737",
+      "primeira_diferenca": {
+        "posicao": 67,
+        "fonte": "COMITÊ DE DECISÃO REGIONAL RESOLUÇÃO Nº 83, DE 18 DE JULHO DE 2018 O COMITÊ DE DECISÃO REGIONAL - CDR,considerando o contido no Decreto n. 8.955, de 11 de janeiro de 2017, que aprovou a Estrutura Regimental do INCRA, com suport",
+        "md": "COMITÊ DE DECISÃO REGIONAL RESOLUÇÃO Nº 83, DE 18 DE JULHO DE 2018 **O COMITÊ DE DECISÃO REGIONAL - CDR,considerando o contido no Decreto n. 8.955, de 11 de janeiro de 2017, que aprovou a Estrutura Regimental do INCRA, com supo"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-9-de-1-de-marco-de-2018-5595986.md",
+      "sha256_md": "1cf58b0e2c6bb34fa9dcc6bba4bbcde74da574371ce3b83043d4cf1de3ca7e7e",
+      "sha256_fonte": "e33203d0c988051bd869fd596d0555ee998e7dae3d1fe0409dff227df8c0bede",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "733c7a7d1f40b3d696c8ae6c2981cfd7fd6e97eccb8f630fb826867357b0ab3d",
+      "sha256_visivel_md": "1b42ca131ca318647dda5662ee552d839da78e71db86f8b6c0407e7a0b767a35",
+      "primeira_diferenca": {
+        "posicao": 1236,
+        "fonte": "representantes, titular e suplentes, serão indicados pelos órgãos mencionados nocaput,no prazo de cinco dias corridos, contados a partir da data de publicação desta Resolução, e designados em ato do Gabinete de Segurança Institucional da Pr",
+        "md": "representantes, titular e suplentes, serão indicados pelos órgãos mencionados no**caput,**no prazo de cinco dias corridos, contados a partir da data de publicação desta Resolução, e designados em ato do Gabinete de Segurança Institucional d"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-95-de-15-de-agosto-de-2018-37025312.md",
+      "sha256_md": "9620992a6ad03a9099c4acd73c9e4447d7e24040015853a81f577b9915f9291f",
+      "sha256_fonte": "80f16db2344e913cc495e3c97a1b093896aa8295be93f2b7a288d5e6ab8ea164",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "6952a2e9d70deafa32d02b564ee5fbf7743972ad402b379505d338003efb9294",
+      "sha256_visivel_md": "a10c7ec596f773c8d55571ae745f25c5b567c7d7fcaac4cae48e3dbc3a90e3ee",
+      "primeira_diferenca": {
+        "posicao": 68,
+        "fonte": "COMITÊ DE DECISÃO REGIONAL RESOLUÇÃO Nº 95, DE 15 DE AGOSTO DE 2018 O COMITÊ DE DECISÃO REGIONAL - CDR DA SUPERINTENDÊNCIA REGIONAL DO INCRA NO ESTADO DE SERGIPE,em cumprimento ao disposto no inciso I do art. 20 da Estrutura Reg",
+        "md": "COMITÊ DE DECISÃO REGIONAL RESOLUÇÃO Nº 95, DE 15 DE AGOSTO DE 2018 **O COMITÊ DE DECISÃO REGIONAL - CDR DA SUPERINTENDÊNCIA REGIONAL DO INCRA NO ESTADO DE SERGIPE,**em cumprimento ao disposto no inciso I do art. 20 da Estrutura"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-n-98-de-20-de-agosto-de-2018-37594405.md",
+      "sha256_md": "61542247e3842e72f9d415f780d36e0ec932519769346d4c5cc054f9cf0a292e",
+      "sha256_fonte": "e6e6eb75224577b797e4e8e7d7359cdf2f1b4cdde18728f2efe5c6fa4a3a5312",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "ce1659e89af744fe5367a3dd72174919a0d8a062ef9826dd6376bcedac23ae8e",
+      "sha256_visivel_md": "4dee642d71f6dfef120176c588bcf565d13b4cd5b27778c81d63e26cf2f25787",
+      "primeira_diferenca": {
+        "posicao": 41,
+        "fonte": "RESOLUÇÃO Nº 98, DE 20 DE AGOSTO DE 2018 O COMITÊ DE DECISÃO REGIONAL - CDR,considerando o contido no Decreto n. 8.955, de 11 de janeiro de 2017, que aprovou a Estrutura Regimental do INCRA, com suport",
+        "md": "RESOLUÇÃO Nº 98, DE 20 DE AGOSTO DE 2018 **O COMITÊ DE DECISÃO REGIONAL - CDR,**considerando o contido no Decreto n. 8.955, de 11 de janeiro de 2017, que aprovou a Estrutura Regimental do INCRA, com su"
+      }
+    },
+    {
+      "path": "reguladores/presidencia/resolucoes/2018/resolucao-no-138-de-2-de-abril-de-2018-9936888.md",
+      "sha256_md": "526a73bcd21ea1840eabd3ec8e6a29ce439850c8f1e01d9e0b713928aa986d28",
+      "sha256_fonte": "d14bdca15046cce4ee243322a37032f7942476f8cfd59364a0914f12d99bc83e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "962f5bd77464807d05bc02fb3a994415f07c4375f7d4afbb8ac38d5142be1afe",
+      "sha256_visivel_md": "d158547b35baf900b485139925dc32e32b4ad0de3de7f56a3e439bc3fd717c45",
+      "primeira_diferenca": {
+        "posicao": 130,
+        "fonte": "XTENSÃO \"SUBJECT ALTERNATIVE NAME\" PARA CERTIFICADOS DE EQUIPAMENTO A CF-e-SAT. O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento Inte",
+        "md": "XTENSÃO \"SUBJECT ALTERNATIVE NAME\" PARA CERTIFICADOS DE EQUIPAMENTO A CF-e-SAT. **O COORDENADOR DO COMITÊ GESTOR DA INFRAESTRUTURA DE CHAVES PÚBLICAS BRASILEIRA,**no uso das atribuições que lhe confere o art. 6º, §1º, inc. IV, do Regimento "
+      }
+    },
+    {
+      "path": "reguladores/planejamento/portarias/2018/portaria-n-5-509-de-24-de-maio-de-2018-15930877.md",
+      "sha256_md": "0e6e76fc6f278ef304e8b38b45dd2f051a9c6dab93be16fca047dddf17bdc562",
+      "sha256_fonte": "b4ec316c0c922df5b74d2f9bfd9baea8d03391f42093e3197518c9cba9244298",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              114,
+              115
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "675aa2dfea6b2d2ea6c3a2f01d1ff52da59364178bb61e14a6f6f9c4a8b50546",
+      "sha256_visivel_md": "675aa2dfea6b2d2ea6c3a2f01d1ff52da59364178bb61e14a6f6f9c4a8b50546"
+    },
+    {
+      "path": "reguladores/planejamento/portarias/2018/portaria-n-7-504-de-26-de-julho-de-2018-34378265.md",
+      "sha256_md": "5e8cc537e51719ba50e556694a7d699e8d161665a2a374aa6e6a62713fb2801c",
+      "sha256_fonte": "4fe15bd1c886a49de383751c8fab45c4958e6f149e27f1445bd288fd719377de",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              114,
+              116
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "52f61e6d777596ae50a88ca9a7e424a37c4b0537910726dc9a16a6fe11e10ece",
+      "sha256_visivel_md": "52f61e6d777596ae50a88ca9a7e424a37c4b0537910726dc9a16a6fe11e10ece"
+    },
+    {
+      "path": "reguladores/cidades/portarias/2018/portaria-n-464-de-25-de-julho-de-2018-34198278.md",
+      "sha256_md": "fb2ed214015c1dd6856be0a2b0ac985ca2019d791574015e5618ed9b56b665f6",
+      "sha256_fonte": "d14f420198b15dc2ae3998f738b78aef573d2ed8baefc608320864c9030c625a",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — DISPOSIÇÕES GERAIS",
+          "fonte": "ANEXO I DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — CONDIÇÕES OPERACIONAIS",
+          "fonte": "ANEXO II CONDIÇÕES OPERACIONAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO III — CONDIÇÕES OPERACIONAIS PARA O TRABALHO SOCIAL NO PMCMV-FAR",
+          "fonte": "ANEXO III CONDIÇÕES OPERACIONAIS PARA O TRABALHO SOCIAL NO PMCMV-FAR",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO IV — CONDIÇÕES OPERACIONAIS PARA O TRABALHO SOCIAL NO PMCMV-Entidades",
+          "fonte": "ANEXO IV CONDIÇÕES OPERACIONAIS PARA O TRABALHO SOCIAL NO PMCMV-Entidades",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO V — CONDIÇÕES OPERACIONAIS PARA O TRABALHO SOCIAL NO PMCMV-Rural",
+          "fonte": "ANEXO V CONDIÇÕES OPERACIONAIS PARA O TRABALHO SOCIAL NO PMCMV-Rural",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO VI — GLOSSÁRIO",
+          "fonte": "ANEXO VI GLOSSÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO VII — SIGLAS E ABREVIATURAS",
+          "fonte": "ANEXO VII SIGLAS E ABREVIATURAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              740,
+              750
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              930,
+              942
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              944,
+              958
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              960,
+              968
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              970,
+              978
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              992,
+              1004
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        {
+          "ast": {
+            "start": 1,
+            "markup": ")",
+            "linhas": [
+              1622,
+              1632
+            ]
+          },
+          "html_start": null,
+          "inicio_efetivo": 1,
+          "contadores": [
+            1,
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      ],
+      "sha256_visivel_fonte": "1ae25995cbd9a1116e5072c4ddea0c6a96f4c595691c4ab0611cdf46103daa04",
+      "sha256_visivel_md": "0851a9ddb5f6fc082fb238368462ac76cbe5a358fda2176e13f34f40db861dfb"
+    }
+  ]
+}

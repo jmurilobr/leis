@@ -1,0 +1,1207 @@
+{
+  "criterio": "Comparação suplementar de CommonMark com HTML, tabelas e strike contra texto literal da fonte, preservando pontuação e sinais. Alertas de listas/estrutura exigem revisão contextual, não provam ausência normativa.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "8ae124028b34e287828bc8deaa0816df37aed9f2d954eead41beb5560111c47d",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "iguais": 116
+  },
+  "documentos": [
+    {
+      "path": "reguladores/ana/resolucoes/2018/resolucao-n-192-de-19-de-dezembro-de-2017-2153046.md",
+      "sha256_md": "5d9f4fbb4dc490afbe0f62a51d3627b768211d978df6df214dc591e631821836",
+      "sha256_fonte": "a677c3fce4fe14377c256256059f7d5f43f212a085295dd33cc9990b26a38a35",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "61d66b4bb3d9485f63b80fa1d6694d7692bbfadf5e4c0117412598694958a29d",
+      "sha256_visivel_md": "61d66b4bb3d9485f63b80fa1d6694d7692bbfadf5e4c0117412598694958a29d"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/2018/resolucao-n-4-626-de-25-de-janeiro-de-2018-2190855.md",
+      "sha256_md": "575db8c3a7de798075c1bbcd8b1e5141c0a072ad644c243b4fe23d706ef58145",
+      "sha256_fonte": "0568e17775c2023da5079257cb37cd4f9ba062de34ce21d2e458765506cc27ba",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "a6adff86f287f96d02b5378b164319ccdc9d54629242ef354b10cc60be57566f",
+      "sha256_visivel_md": "a6adff86f287f96d02b5378b164319ccdc9d54629242ef354b10cc60be57566f"
+    },
+    {
+      "path": "reguladores/bcb/resolucoes/2018/resolucao-n-4-629-de-25-de-janeiro-de-2018-2190907.md",
+      "sha256_md": "723c0b78e691e36075fa18954a3a720fa57261cc5afdf1cdbdae34cc268f6ac1",
+      "sha256_fonte": "7d620d7a0788fc17ace5cfe808cccb3bfc6ed542bb41bc2bb098ca299cb8c281",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "c8554d77ddf3af9aa496f656040ac06a2002f140984fe5c89838af1a55f0f35f",
+      "sha256_visivel_md": "c8554d77ddf3af9aa496f656040ac06a2002f140984fe5c89838af1a55f0f35f"
+    },
+    {
+      "path": "reguladores/stn/portarias/2018/portaria-n-55-de-18-de-janeiro-de-2018-1975396.md",
+      "sha256_md": "3b4dbd3e6eb3c8cbb4993b6874efc54e477f49aa17fb88199095cda1e4c748c6",
+      "sha256_fonte": "34e1c24ed3230b0e2a4fea8dd13c46bf04f3c63003f8b15fdcfafb9c45b198b2",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "24f486d3e4cfdcfea45a5ff8e95c069a4dc34f51b667d207195293ef185110a9",
+      "sha256_visivel_md": "24f486d3e4cfdcfea45a5ff8e95c069a4dc34f51b667d207195293ef185110a9"
+    },
+    {
+      "path": "reguladores/stn/portarias/2018/portaria-n-87-de-1-de-fevereiro-de-2018-2398879.md",
+      "sha256_md": "8a533605e043d84c6f5e46988fb2e4a14cb310b20165ad950de88cf58d473e55",
+      "sha256_fonte": "d4164d76c8989ed4f9a429b56ffbc15bbf897c23712c4a01d6d77091e3627d95",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "37f043c8b0925a9924a40f6797c7666b725f0ea5eab0e433012ec59d59e67a53",
+      "sha256_visivel_md": "37f043c8b0925a9924a40f6797c7666b725f0ea5eab0e433012ec59d59e67a53"
+    },
+    {
+      "path": "reguladores/fazenda/portarias/2018/portaria-n-2-de-8-de-janeiro-de-2018-1677430.md",
+      "sha256_md": "07a8b4fc1ab50ae2a5ad93c62641294a91363e075642546b6a26a608a18ea36c",
+      "sha256_fonte": "ec715ac0f96e5b1462a89a69f593977166d5d5dc75320943cf809149688a69d6",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "62c819766cf78be7a175aafe3b04d27e4e977f5a6048773c2e84c8d72d8455a2",
+      "sha256_visivel_md": "62c819766cf78be7a175aafe3b04d27e4e977f5a6048773c2e84c8d72d8455a2"
+    },
+    {
+      "path": "reguladores/fazenda/portarias/2018/portaria-n-34-de-26-de-janeiro-de-2018-2195764.md",
+      "sha256_md": "043917bbe10bb9b438d7b622185da9fc8931e5906ec1525be96cdc5d8bb11618",
+      "sha256_fonte": "520764628df6f12834b49417d4714aca736f332eb930493f4646b03d57756185",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "8ea708802198f6ec0099da84eac299b6cac22d129a61040ebb1663e11c7d1cdc",
+      "sha256_visivel_md": "8ea708802198f6ec0099da84eac299b6cac22d129a61040ebb1663e11c7d1cdc"
+    },
+    {
+      "path": "reguladores/fazenda/portarias/2018/portaria-n-40-de-31-de-janeiro-de-2018-2353883.md",
+      "sha256_md": "8d454c04ac0cbc30c5df0c32fdecd5b0e4eb5b5f8d7fe1bec4e45295f3112c60",
+      "sha256_fonte": "d5e669ac279826eeae3b97f044c17559146b9f04ec054ff9a785e7c7a5374f5a",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "15f2c5b157277d8b78288e73dfd46dbc782f2c667da4781836cb8700bd1cdebb",
+      "sha256_visivel_md": "15f2c5b157277d8b78288e73dfd46dbc782f2c667da4781836cb8700bd1cdebb"
+    },
+    {
+      "path": "reguladores/cns/resolucoes/2018/resolucao-n-529-de-8-de-julho-de-2016-1814776.md",
+      "sha256_md": "3807648059dd474386930d0b3c3e7feccb91ab1f8315f9563dbca814210dd384",
+      "sha256_fonte": "868bc1304ff268dd010f9b33ad462bbc60cf01a4e6951646b11600d2dc4f559a",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "56825b449327607344575892d8fe95bb848f46df4e10069a327a20149a1fdcb8",
+      "sha256_visivel_md": "56825b449327607344575892d8fe95bb848f46df4e10069a327a20149a1fdcb8"
+    },
+    {
+      "path": "reguladores/cns/resolucoes/2018/resolucao-n-554-de-15-de-setembro-de-2017-1814802.md",
+      "sha256_md": "26c5d4451be59f61bef6187d826b470689555a8a78f5cf01fe8e07ed8fe42ddf",
+      "sha256_fonte": "983896caaf4b51870fa353ea1bd7489248f7f3cdf58e8780c0ce5bdcb94b0c50",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "1000a023693fb095e1ba4a5092fc4d049a4b02b93aadf2e3cdcb9e71be444e7f",
+      "sha256_visivel_md": "1000a023693fb095e1ba4a5092fc4d049a4b02b93aadf2e3cdcb9e71be444e7f"
+    },
+    {
+      "path": "reguladores/cns/resolucoes/2018/resolucao-n-564-de-10-de-novembro-de-2017-1814841.md",
+      "sha256_md": "14cd7605fa26ed00f3c759ef6b51abf00e8725586285f42b49237c4685b826d6",
+      "sha256_fonte": "905d7c69c6e08b42e90a2219f241c0898596cd596b98949e9693afb34d2715c2",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "e8b355edf47313a2e3f191553567b26330af13d75d6b6a0f8b51593e8d43e3f0",
+      "sha256_visivel_md": "e8b355edf47313a2e3f191553567b26330af13d75d6b6a0f8b51593e8d43e3f0"
+    },
+    {
+      "path": "reguladores/cns/resolucoes/2018/resolucao-n-568-de-8-de-dezembro-de-2017-1814854.md",
+      "sha256_md": "57c52c9c5c20c52000422778e036d85268ea5284c386674d4a7ae43bfda0b703",
+      "sha256_fonte": "d298ddbbaaa977af001c6c128a38e7e62713dd7edbad710fd702fa999d9876a8",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "cae6d0673800d87179a9503d8dad54769fdbf4e4f80162b6b294dc0f368f7c9a",
+      "sha256_visivel_md": "cae6d0673800d87179a9503d8dad54769fdbf4e4f80162b6b294dc0f368f7c9a"
+    },
+    {
+      "path": "reguladores/ibama/instrucoes-normativas/2018/instrucao-normativa-n-14-de-28-de-dezembro-de-2017-1534837.md",
+      "sha256_md": "3846074dd2b5155008afd711aed7af695f05708283a36ff5d505aedfdf5fc749",
+      "sha256_fonte": "1775d4f604b96ae75a7d1ac6c881f1d4532082b030cf5f2f370a2173eae358d4",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "bd5b0b352321160b432c57788019de0d629c4a5efc1c21c69079f08b9d606bf5",
+      "sha256_visivel_md": "bd5b0b352321160b432c57788019de0d629c4a5efc1c21c69079f08b9d606bf5"
+    },
+    {
+      "path": "reguladores/ibama/portarias/2018/portaria-n-124-de-17-de-janeiro-de-2018-1976778.md",
+      "sha256_md": "5fcc5f729ee9b4021dc4fc22a0a440b807c545adb2912cc20696c4ab7718893a",
+      "sha256_fonte": "bf5908ef6fb6a19c00a7833d5b3361c86f08d76bb28a0605a948d05550888df8",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "cf76611abbab55f6bcef13d6ea7084e38585213fb72a934a9d9e035462af9162",
+      "sha256_visivel_md": "cf76611abbab55f6bcef13d6ea7084e38585213fb72a934a9d9e035462af9162"
+    },
+    {
+      "path": "reguladores/mds/portarias/2018/portaria-n-100-de-17-de-janeiro-de-2018-1973615.md",
+      "sha256_md": "d96bf560d1121440a4c06c9f3ab6e9c559d2345bb1f53977d97e45f69fe17217",
+      "sha256_fonte": "b986b5e6be0abd334fb3784a2ff40cb3375c351471ffcfb1704c4ece39913173",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "e1d24eccb2547f87772ff81af6784336a9e66d24475a985522ef306a2432bc35",
+      "sha256_visivel_md": "e1d24eccb2547f87772ff81af6784336a9e66d24475a985522ef306a2432bc35"
+    },
+    {
+      "path": "reguladores/mds/portarias/2018/portaria-n-101-de-17-de-janeiro-de-2018-1974564.md",
+      "sha256_md": "1b0b41d3633380779de906998e6df7db7d1f97a2873d87a033198aada8f4e605",
+      "sha256_fonte": "4bed6c70fc53e543da5cade19faaf29513a1fde9e4a737ebc035bbe9ba9534f1",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "0c59321b5119d53542ad73ebdffcc5d46dce222189a89d0c03ed5749b2ba7ee3",
+      "sha256_visivel_md": "0c59321b5119d53542ad73ebdffcc5d46dce222189a89d0c03ed5749b2ba7ee3"
+    },
+    {
+      "path": "reguladores/mds/portarias/2018/portaria-n-102-de-17-de-janeiro-de-2018-1973381.md",
+      "sha256_md": "3212a3909995df6a0b1926c3397cdd50853a15b7e846f4894510096bdc9de754",
+      "sha256_fonte": "20e3a079d6a23c74c696f57d443724fa14679ab4535dd98b78d248a027b46c8c",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "07c27240b36fa36d4863a1c5f44a84634e21519d9759054d0a5f7399ff27194d",
+      "sha256_visivel_md": "07c27240b36fa36d4863a1c5f44a84634e21519d9759054d0a5f7399ff27194d"
+    },
+    {
+      "path": "reguladores/mds/portarias/2018/portaria-n-103-de-17-de-janeiro-de-2018-1973940.md",
+      "sha256_md": "adc37b35cae2ae3bbdf7f64f825608d96b6f1e2e510b24e1c2eabdb692431efb",
+      "sha256_fonte": "e892ef5f30e34e66c89484a35c8dc64e84592cdd9d7f6560294fbb5279143188",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "92bb1d816453064127c3c8da1f108279cdecb495d2dcbace3dbc40fa07d17d55",
+      "sha256_visivel_md": "92bb1d816453064127c3c8da1f108279cdecb495d2dcbace3dbc40fa07d17d55"
+    },
+    {
+      "path": "reguladores/mds/portarias/2018/portaria-n-105-de-17-de-janeiro-de-2018-1975058.md",
+      "sha256_md": "ae693f99aac3eec3ce7b239c7e1e3e41dcdda64b9126f9060a0c65beb92b93c1",
+      "sha256_fonte": "a508c881e2377d2532f7f56270100321a1f4ccc704aad13976fb5d3c6365ece2",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "7367468efe079c72d1dc8eaac1427d5f8393d2e57f52cade79a284b535933b14",
+      "sha256_visivel_md": "7367468efe079c72d1dc8eaac1427d5f8393d2e57f52cade79a284b535933b14"
+    },
+    {
+      "path": "reguladores/mds/portarias/2018/portaria-n-106-de-17-de-janeiro-de-2018-1973407.md",
+      "sha256_md": "7b4a9cd32668df165e2f14c3e3700463eadcffd0d484ce85e644f4255eb4231c",
+      "sha256_fonte": "b472760718ecea320ac32e6deca86b3381f34ea868f08cd57eaa0bfc7eab1045",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "e550e5c66fa1c01dc1d1ef3129f66d93a9362064629a18fbc706bcb47dd17d63",
+      "sha256_visivel_md": "e550e5c66fa1c01dc1d1ef3129f66d93a9362064629a18fbc706bcb47dd17d63"
+    },
+    {
+      "path": "reguladores/mds/portarias/2018/portaria-n-107-de-17-de-janeiro-de-2018-1973641.md",
+      "sha256_md": "d7c266973abc09538abadf567eca36f38931cf09dc8400ed4e2156046b028435",
+      "sha256_fonte": "08d8363796720cced09156d72d6e74a15203bb5f6a827e6cff066bed560e2cb4",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "061269021f9d496b2a84bc3257260ea08fa82d575f010e897d1512e355dea7c7",
+      "sha256_visivel_md": "061269021f9d496b2a84bc3257260ea08fa82d575f010e897d1512e355dea7c7"
+    },
+    {
+      "path": "reguladores/mds/portarias/2018/portaria-n-108-de-17-de-janeiro-de-2018-1973420.md",
+      "sha256_md": "88ed6e3472d60d13f9e38eccded8296aa6499e64209f4b2af84f9e5057254838",
+      "sha256_fonte": "323c9e84bf0453918a9126717c018a9daede216de36dd4bb2f4634dafd25c4ae",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "e8e09a6d31fcb069a8aacea8763763d426dfdbcf2bb7a003fa32f968036022d8",
+      "sha256_visivel_md": "e8e09a6d31fcb069a8aacea8763763d426dfdbcf2bb7a003fa32f968036022d8"
+    },
+    {
+      "path": "reguladores/mds/portarias/2018/portaria-n-109-de-17-de-janeiro-de-2018-1974785.md",
+      "sha256_md": "ea4259b3eb66d3979e890ccaed4144a959dbeb9387367bf73a206afbafd9ff59",
+      "sha256_fonte": "74e6bfabc3a11a5f8f10f8dfa2089d3b5f30f933f96cec2d53e1a80ebeea71ca",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "efd284b67248e5ad6c53e531d4373928865426f32d53dc638a0912aa7ccd2a5a",
+      "sha256_visivel_md": "efd284b67248e5ad6c53e531d4373928865426f32d53dc638a0912aa7ccd2a5a"
+    },
+    {
+      "path": "reguladores/mds/portarias/2018/portaria-n-11-de-17-de-janeiro-de-2018-1974447.md",
+      "sha256_md": "b22614daf1b17d6dfc48c3dc1a936c011b18e017680898c352204bad5fc060a2",
+      "sha256_fonte": "c1b8a99236261c402fe25e81294281ed4649b071eb6696533d7d432d73e1b675",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "7cdff59e3fa6eb4323773e59225888836e8795e53402eb9aadbce1deb001a21c",
+      "sha256_visivel_md": "7cdff59e3fa6eb4323773e59225888836e8795e53402eb9aadbce1deb001a21c"
+    },
+    {
+      "path": "reguladores/mds/portarias/2018/portaria-n-3-de-9-de-janeiro-de-2018-1893660.md",
+      "sha256_md": "6023bc14c9ee4bcc4c8ffc5ad6c2dd1db00e406128ddae5bc046b2931f132146",
+      "sha256_fonte": "5fff9b5db2d44391df82bc0132562f1651d017ee4219503b025e12d6ca06a7a9",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "71d7f83876c3f887a0b08c6936234cb9e57776749febd81bf1c7646f2a4e6db1",
+      "sha256_visivel_md": "71d7f83876c3f887a0b08c6936234cb9e57776749febd81bf1c7646f2a4e6db1"
+    },
+    {
+      "path": "reguladores/mds/portarias/2018/portaria-n-69-de-17-de-janeiro-de-2018-1974343.md",
+      "sha256_md": "62b09c56a2b1f544a115bcbc759ee768571b9b8efbb2c673537f122a302328f4",
+      "sha256_fonte": "e43b6eae52733dc4d298b405b9e8290dadce11fb2deb3cc4354228810e95f835",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "e34b864946610ed2d4c50d5cce57ba1975e8018b20b73e9bb5e6c86c1b2ae362",
+      "sha256_visivel_md": "e34b864946610ed2d4c50d5cce57ba1975e8018b20b73e9bb5e6c86c1b2ae362"
+    },
+    {
+      "path": "reguladores/mds/portarias/2018/portaria-n-7-de-17-de-janeiro-de-2018-1973485.md",
+      "sha256_md": "760aacacf47f8983fc7696c6f32cc0fa590274634665831141ba5d273a6cc08a",
+      "sha256_fonte": "780db70e189037a8b4ec5c6b719909bbbbe984ee9150d59a2c64ae08d0582412",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "51634405c1b2b2f5e8730f6cb389e3fea1edfb23f05211784530da4321a960e8",
+      "sha256_visivel_md": "51634405c1b2b2f5e8730f6cb389e3fea1edfb23f05211784530da4321a960e8"
+    },
+    {
+      "path": "reguladores/mds/portarias/2018/portaria-n-70-de-17-de-janeiro-de-2018-1973719.md",
+      "sha256_md": "58d9c74e1b09f76927097b308f7c25e09889b50d7dc793523890f01fc60507b7",
+      "sha256_fonte": "bddd9a968bae5409f4129e156d2f74292332a6a0bce925167bd4b5b2223a3274",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "d6a07e0eb9ab269a9e35ef771fb615e859dbd3ac1df1307ebebf58009cf6d397",
+      "sha256_visivel_md": "d6a07e0eb9ab269a9e35ef771fb615e859dbd3ac1df1307ebebf58009cf6d397"
+    },
+    {
+      "path": "reguladores/mds/portarias/2018/portaria-n-90-de-17-de-janeiro-de-2018-1975201.md",
+      "sha256_md": "fed5af00c8735c4e5038a6a3b02d69083582d122c8f3f73dfc862116e741168a",
+      "sha256_fonte": "9afb7167dde4aea6886658a760ab357dc700f4ec91c379075b07e20f2f79a0d5",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "87c54c7241480e3f448e9d1df9278afa92a88221caa612fa0ef2bae64377b9ff",
+      "sha256_visivel_md": "87c54c7241480e3f448e9d1df9278afa92a88221caa612fa0ef2bae64377b9ff"
+    },
+    {
+      "path": "reguladores/mds/portarias/2018/portaria-n-92-de-17-de-janeiro-de-2018-1975123.md",
+      "sha256_md": "470b74bf09da14cf1565d6f16e645645249de932f85dc4bc7697e6f5b363ce58",
+      "sha256_fonte": "2d17ca9ce82be16395baedf871a4f0ab26036a09badff3588defc6cd713af241",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "7e140c95412f2a2d54735ee4aee2382c06f588e8204642c6ba229f9a621b21a9",
+      "sha256_visivel_md": "7e140c95412f2a2d54735ee4aee2382c06f588e8204642c6ba229f9a621b21a9"
+    },
+    {
+      "path": "reguladores/mds/portarias/2018/portaria-n-94-de-11-de-janeiro-de-2018-1823685.md",
+      "sha256_md": "b915663b87204bcb84e8de3fad817a75bd13e85766cd803220e015d5070f0423",
+      "sha256_fonte": "db1b637cedfd7470eb2a29c57b00eaa4e8c04dc2149139c58afaff2e50d9fa83",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "49b6769226d5e24622364416e1bc26a21146fd22887fcf2958183afbec1c67c1",
+      "sha256_visivel_md": "49b6769226d5e24622364416e1bc26a21146fd22887fcf2958183afbec1c67c1"
+    },
+    {
+      "path": "reguladores/mds/portarias/2018/portaria-n-99-de-17-de-janeiro-de-2018-1974798.md",
+      "sha256_md": "8565e18c9fc500fbb6183a4ad7abe9a4851b7d116c556bbdbb8289f815f05969",
+      "sha256_fonte": "0379264522b04ce53321bbe07b5a9808a00d1e8589709b67a1b0e121ed187c21",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "251d971fa37d2372fdd9e4b08f6dc34f6e8396ca7e7d9ec5e6c827921c256dcd",
+      "sha256_visivel_md": "251d971fa37d2372fdd9e4b08f6dc34f6e8396ca7e7d9ec5e6c827921c256dcd"
+    },
+    {
+      "path": "reguladores/mte/portarias/2018/portaria-n-33-de-17-de-janeiro-de-2018-1928797.md",
+      "sha256_md": "722755f06b2bd15ff87dc8434347211394806e2f68120207125e2aae3d68d8ee",
+      "sha256_fonte": "36e411c213b103ecec1421675fcf829db268520f83784b777c75de943a5002ae",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "78528b855c19c42f1d159ea97ab594e16e07477bec9d105d9734bdbcd9d783fb",
+      "sha256_visivel_md": "78528b855c19c42f1d159ea97ab594e16e07477bec9d105d9734bdbcd9d783fb"
+    },
+    {
+      "path": "reguladores/mte/portarias/2018/portaria-n-4-de-17-de-janeiro-de-2018-1930125.md",
+      "sha256_md": "959b8f114387d550ec1139ce128c3e0e7d0ba7132264a3f50f02e990215210bb",
+      "sha256_fonte": "02aa830faf0c84a829319696a0326513ea81b59ecded6e33058167e0b991e44b",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "b13a7185de4cd0e6260239082e38616669c01ae916fa74106a74a039dfc3d4d6",
+      "sha256_visivel_md": "b13a7185de4cd0e6260239082e38616669c01ae916fa74106a74a039dfc3d4d6"
+    },
+    {
+      "path": "reguladores/mte/portarias/2018/portaria-n-687-de-9-de-janeiro-de-2018-1735365.md",
+      "sha256_md": "35249baa1ad875abfe2f133aeac2d5bded8a881e2864f97ba6fc8d7aa3f71a71",
+      "sha256_fonte": "9cbf38aede2b88ebe83c3b347b8f42a3198796bc2e5209f39b14e9833351823e",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "5c6bf4a73382191815256a0b46c7eb6f0a85fb1177bad1a36fdbeacbb460f68e",
+      "sha256_visivel_md": "5c6bf4a73382191815256a0b46c7eb6f0a85fb1177bad1a36fdbeacbb460f68e"
+    },
+    {
+      "path": "reguladores/mte/portarias/2018/portaria-n-75-de-26-de-janeiro-de-2018-2201437.md",
+      "sha256_md": "dfe5c3687205e2f84348f665037e3dc8ac8c0d8cbcbf6d9183e00553d2a72979",
+      "sha256_fonte": "635c87f6b47675819b341ab77ee541207bfa581a78b891a2656605286235cf5c",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "5dca60530201427290a44ae827f1d1925abc20751b6bba02ff99b8a399f2ed49",
+      "sha256_visivel_md": "5dca60530201427290a44ae827f1d1925abc20751b6bba02ff99b8a399f2ed49"
+    },
+    {
+      "path": "reguladores/mte/portarias/2018/portaria-n-79-de-31-de-janeiro-de-2018-2348516.md",
+      "sha256_md": "07429a2babd8873d7c0f728b04e5039c5b5cd2a44a6f575691f73849a7d62ca8",
+      "sha256_fonte": "bc76ed01896ab35f1d5317b9f82a7ba127763c32904e3e62f3d0a85140cc342d",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "20a006681a6839eff6fe2eea3ddbad0ec47658ce21ea3beb787b2568d5a12b18",
+      "sha256_visivel_md": "20a006681a6839eff6fe2eea3ddbad0ec47658ce21ea3beb787b2568d5a12b18"
+    },
+    {
+      "path": "reguladores/anp/portarias/2018/portaria-n-13-de-17-de-janeiro-de-2018-1932194.md",
+      "sha256_md": "8f24b6cc738007d7a974f8d126cb64f1882c757c8d8b5e586c76aa730911369e",
+      "sha256_fonte": "fd4a0eaaa5dd4e56817f09f44555b53ad330ba52be473db80d13f07f0486b365",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "83291f92b536d04b02064624d2363296ecac579f0797eabe49d9521e9af48310",
+      "sha256_visivel_md": "83291f92b536d04b02064624d2363296ecac579f0797eabe49d9521e9af48310"
+    },
+    {
+      "path": "reguladores/anp/portarias/2018/portaria-n-515-de-29-de-dezembro-de-2017-1536569.md",
+      "sha256_md": "a8ccafa9866bf86234d2a8a8dff30191bde78674528395ea40dff9e92ee8ae3f",
+      "sha256_fonte": "361f84d819d08ffc9925783e926a8b02fac5afa9e03285d3bb7aed3f7b2872c9",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "163dd394d7ced610d3e893427a5bb1d902329a4f1144ebca594d060ad0995adc",
+      "sha256_visivel_md": "163dd394d7ced610d3e893427a5bb1d902329a4f1144ebca594d060ad0995adc"
+    },
+    {
+      "path": "reguladores/anp/portarias/2018/portaria-n-516-de-29-de-dezembro-de-2017-1536582.md",
+      "sha256_md": "4741d5ff56b3077749237857270950b41492011a7322c32398f3a6cecb408888",
+      "sha256_fonte": "124523388fc7502655518014fe8702a85b57226bdb33e2ad5ace7dbddcce8f40",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "5783289f4d48239780e46d71c9d539214ed86551ada7b5c6d127f680130d1654",
+      "sha256_visivel_md": "5783289f4d48239780e46d71c9d539214ed86551ada7b5c6d127f680130d1654"
+    },
+    {
+      "path": "reguladores/anp/resolucoes/2018/resolucao-n-716-de-17-de-janeiro-de-2018-1932207.md",
+      "sha256_md": "37e98f382d5743966423f4073ecbadf4eb06b653561c6250af6da6a42999ab3f",
+      "sha256_fonte": "1d5685822a1220364f0cc5119f1a94c4359c3d0a3958e70b78ca5ac234358833",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "5ee224f83b28a120d2f976199dbfb7008a8a098b8862a830314769d0d2b73db5",
+      "sha256_visivel_md": "5ee224f83b28a120d2f976199dbfb7008a8a098b8862a830314769d0d2b73db5"
+    },
+    {
+      "path": "reguladores/transportes/portarias/2018/portaria-n-1-de-29-de-janeiro-de-2018-2235583.md",
+      "sha256_md": "6112a2ba5afb818e60e2cf7a5c7de1a9c1b96f8993d9ceb33576b432da4922f6",
+      "sha256_fonte": "674f192e92904efe086f8d4f4402b6680cffc89406816d1a5004c8693a8031a4",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "b9d135ec14686e5038fb4a85d34dc4ff2459f9895007c5616272ce62692aca9e",
+      "sha256_visivel_md": "b9d135ec14686e5038fb4a85d34dc4ff2459f9895007c5616272ce62692aca9e"
+    },
+    {
+      "path": "reguladores/transportes/portarias/2018/portaria-n-303-de-18-de-janeiro-de-2018-2015278.md",
+      "sha256_md": "eef59bdecb8e7a7bbae8d56165c8ae1f92f69d4667b72c9bcde6778e01762a18",
+      "sha256_fonte": "f2e21a28ebda3f6eae379f1c258177762ee0229d35d83cf4aa3262fa1f213164",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "8c602d9b3704a4af88ab61e879f525f36dbe41d318fae0c13dd1cb7fc33d3a9b",
+      "sha256_visivel_md": "8c602d9b3704a4af88ab61e879f525f36dbe41d318fae0c13dd1cb7fc33d3a9b"
+    },
+    {
+      "path": "reguladores/transportes/portarias/2018/portaria-n-35-de-17-de-janeiro-de-2018-1934791.md",
+      "sha256_md": "1acf64f525705dd76868210cc8a4cd135632160b6cf92d568537f12c039658de",
+      "sha256_fonte": "42dfe8ad31a5c88128f0796d7789277bb81ed1623e5dc379422a272a6272315b",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "f70d1b6b0a2755dc40715010e25c7d075f88e3bc48587df69f0d4abd2f211b56",
+      "sha256_visivel_md": "f70d1b6b0a2755dc40715010e25c7d075f88e3bc48587df69f0d4abd2f211b56"
+    },
+    {
+      "path": "reguladores/transportes/portarias/2018/portaria-n-566-de-30-de-janeiro-de-2018-2283171.md",
+      "sha256_md": "d7caa56ac99dd963fca045e43abeaed2fcd72f276556b2245b73e28a4e541de4",
+      "sha256_fonte": "8f2e1246c4abdb23f69841be3f586ce387187bf71a3034f02449a2503b594994",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "d5dcdddc69e1d8bdf57a023e043a69f7021b8141aacf3a53b4ef15ad7350af75",
+      "sha256_visivel_md": "d5dcdddc69e1d8bdf57a023e043a69f7021b8141aacf3a53b4ef15ad7350af75"
+    },
+    {
+      "path": "reguladores/transportes/portarias/2018/portaria-n-6-de-8-de-janeiro-de-2018-1677300.md",
+      "sha256_md": "added103e9cdce02c4ddb268dfefd83924be88a5bcf23aca6da98e97e76ec707",
+      "sha256_fonte": "a3cf2856883c2bb7aaf4f8126e834115cc8fb6deecd170fea4dacf74a35a4985",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "17f6d2e7b7f9b7a91513ee9c157ca4da5458155d7660f076733150916fa3ad76",
+      "sha256_visivel_md": "17f6d2e7b7f9b7a91513ee9c157ca4da5458155d7660f076733150916fa3ad76"
+    },
+    {
+      "path": "reguladores/mma/portarias/2018/portaria-no-492-de-29-de-dezembro-de-2017-1540976.md",
+      "sha256_md": "206571100794449ad2e3cb1f6f2ce464dbd4cb4f6d25622e6a9ada5b1ed5aee6",
+      "sha256_fonte": "3b47bdbccd61cc8539e4015a37457528c509e8d1e2bdf5ccbe7dca987e57ba0a",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "36ff6cc4a5e64dc1369f9c7667ca921005f6fb564640cb044d6b11a05b35da37",
+      "sha256_visivel_md": "36ff6cc4a5e64dc1369f9c7667ca921005f6fb564640cb044d6b11a05b35da37"
+    },
+    {
+      "path": "reguladores/mre/portarias/2018/portaria-n-25-de-11-de-janeiro-de-2018-1780213.md",
+      "sha256_md": "f7781665dd5c07eb1240db5e61fdbf176d8def1fb1f60498ad2770097b0494e7",
+      "sha256_fonte": "92b47944777e3d625aec6a9134051e45d375fdbb5490c2e516d539cfc1e636d5",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "7f51568d9b4ef31ff61461a07b33ac677b79bf5cf87508d6b9c0447f112183ad",
+      "sha256_visivel_md": "7f51568d9b4ef31ff61461a07b33ac677b79bf5cf87508d6b9c0447f112183ad"
+    },
+    {
+      "path": "reguladores/mre/portarias/2018/portaria-n-6-de-25-de-janeiro-de-2018-2149817.md",
+      "sha256_md": "cf75ca109bf04f2023097422b1036204f3b92b3a8853bbc84654e35d388d2e0a",
+      "sha256_fonte": "25cac2eff97a90013c7b002865e3fc5fb2e13360d5472d5a3f2d02e4471f34bc",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "5ba67964a26d4b1bb2ee0f193da30bb879aef623fe633e35434824925acd384d",
+      "sha256_visivel_md": "5ba67964a26d4b1bb2ee0f193da30bb879aef623fe633e35434824925acd384d"
+    },
+    {
+      "path": "reguladores/ancine/portarias/2018/portaria-n-119-e-de-29-de-janeiro-de-2018-2348347.md",
+      "sha256_md": "635469c8865661acb6355c538f5a6ccc02abe18c7ab10df04b3f16ddb7e4a1a0",
+      "sha256_fonte": "65f80e97119cb30815b1cc5f71d9c7fb5cfd2d14c6c5cb4e60787699e0e2ad8a",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "e860bedfdd78ccd721cdba4b08881a917b4074e8a4f7a3b609f96d2345ca36c2",
+      "sha256_visivel_md": "e860bedfdd78ccd721cdba4b08881a917b4074e8a4f7a3b609f96d2345ca36c2"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/materia-in-2284706.md",
+      "sha256_md": "404e1d1059ddf1662c8040a29488300362850b672370bf4e4cc62006d9e846d1",
+      "sha256_fonte": "eeea7ed321a7ff96eb8cf71a3403e9a0ef686ebab09d5dc59093947009b8f832",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "0407503120711b231f0a85858dc9e2892b296767b06ddf59aa5acd96f1e4a2a4",
+      "sha256_visivel_md": "0407503120711b231f0a85858dc9e2892b296767b06ddf59aa5acd96f1e4a2a4"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-1-563-de-29-de-dezembro-de-2017-1534746.md",
+      "sha256_md": "9c96bb2598f7b2c2bc8f01cc6ea953ec347b386247f6ad20629437bb2600da19",
+      "sha256_fonte": "43f419b6a852599d9c2552f0cfda9d82d28fa0618b9fe8053b44672ef8d5b66b",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "aa37e304e8549979c412ae64a241039d12bd7bd30e20c190ee3300d292191230",
+      "sha256_visivel_md": "aa37e304e8549979c412ae64a241039d12bd7bd30e20c190ee3300d292191230"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-12-de-8-de-janeiro-de-2018-1821822.md",
+      "sha256_md": "6500dc1b29f4cda95f21f796559f175ac8292a8f0bb1358459ced38df9bd756f",
+      "sha256_fonte": "8ba5c9cd7c01625c1d30a410bdf66ff3d51b46fc31beca145ac01db3f8b59d06",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "debf691468a4d9900e15a7205c45c86acc67d9a2ec40a2917bef4373a6bfa954",
+      "sha256_visivel_md": "debf691468a4d9900e15a7205c45c86acc67d9a2ec40a2917bef4373a6bfa954"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-125-de-16-de-janeiro-de-2018-1926459.md",
+      "sha256_md": "60279a770ebd3d089ac56f9d052d2f1e6d4669e397b0cdbac0e94bc6da8c7f65",
+      "sha256_fonte": "d11b636745e47ae1a6ea470e5ab13e4dd78d130494b941e3e63987ae69a61d35",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "b1cf7b7924281eb581d3cbfff751a0dfd2aca0eb07b312c55c28b0944bec4e58",
+      "sha256_visivel_md": "b1cf7b7924281eb581d3cbfff751a0dfd2aca0eb07b312c55c28b0944bec4e58"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-13-de-8-de-janeiro-de-2018-1821835.md",
+      "sha256_md": "cf6806412eb56ce21627368ed56261541ed778614504ff82b60f00c96601fda5",
+      "sha256_fonte": "af7242dbb0f29ae79c1ce3aba4f1f0950d27889a0c9b5311dfc047fee3c853fa",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "019fd180f58c73e866934ee1ca33eef1c935bbf51512a679cd2fdf098a475350",
+      "sha256_visivel_md": "019fd180f58c73e866934ee1ca33eef1c935bbf51512a679cd2fdf098a475350"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-132-de-17-de-janeiro-de-2018-1934232.md",
+      "sha256_md": "8d18028108730885ed4e81897b42fa1b5842338a7351f9705491e98a50e00a17",
+      "sha256_fonte": "7aeecfea855c5065d721ea3e38d652b72f49ebe01df68ef81b9a4d8e1fbedc43",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "2ffdde938a427a40d3dc7221f7d100b5f36b6f47e5fdd7cc4f61314b9d2cae4a",
+      "sha256_visivel_md": "2ffdde938a427a40d3dc7221f7d100b5f36b6f47e5fdd7cc4f61314b9d2cae4a"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-133-de-25-de-janeiro-de-2018-2341073.md",
+      "sha256_md": "c44b6d00be3fff564b91c2ed5b3c18b8f103a26be3accc1d7770f524705f5c9f",
+      "sha256_fonte": "345e3cce9da0de4955ef39ca408f56970e9f4cf88629946bd50e7d0715dbbc82",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "5589acf36c70e0996d7228cb1698550626fbc6ae2195a492bde42b49afd2b8cb",
+      "sha256_visivel_md": "5589acf36c70e0996d7228cb1698550626fbc6ae2195a492bde42b49afd2b8cb"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-15-de-9-de-janeiro-de-2018-1821848.md",
+      "sha256_md": "3fe67dad60bee323df8f1ceca3c3a6bf4414d150e9ada82fd092be52ec30a4cb",
+      "sha256_fonte": "0f10d1e0c546d447e8f34d0d708a3908dc15a7878ae968cf934914814d1bd8f1",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "912b85bd9ab87b65122cc3a3e5a09e6e86cdf7dece42d8ee215b41e653fa733b",
+      "sha256_visivel_md": "912b85bd9ab87b65122cc3a3e5a09e6e86cdf7dece42d8ee215b41e653fa733b"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-159-de-19-de-janeiro-de-2018-2023422.md",
+      "sha256_md": "df9ac0190b87cfd4fd3271bcbde8683eafdfb755973651a4b1dfcabe34290e34",
+      "sha256_fonte": "e3217c7eafec975c7f7b8104610b3ecff10899bfbff9594c658a3b9dd6230f2e",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "70e6568405e57229387bd8620beab64cd6903a55b6d56170209ae3791b89f00f",
+      "sha256_visivel_md": "70e6568405e57229387bd8620beab64cd6903a55b6d56170209ae3791b89f00f"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-16-de-9-de-janeiro-de-2018-1821861.md",
+      "sha256_md": "f44d11e59a957a8a30d91b083ad148a9a9b86f2107aeec5cb32560c549785f34",
+      "sha256_fonte": "4ff59850c52340733b7a49cd6f27e2c12485e2152f0d6f87b5c98bc93032eaf3",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "4bb45341d95f519773f86e2522d17216424f67f61fa864c5253460de7a823657",
+      "sha256_visivel_md": "4bb45341d95f519773f86e2522d17216424f67f61fa864c5253460de7a823657"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-22-de-10-de-janeiro-de-2018-1821913.md",
+      "sha256_md": "bc9449a49ad7062427bb701eeaa0ffbfcf9d35ff9db35a9b2232a142ba1de776",
+      "sha256_fonte": "7979388d5c8cb554a0448ca529c1ea176035c45e3c57208f5654a60c8333e6b2",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "ce7bb5b04cfa79f458a19d96c86301b9a57c2df1104738d6858105d474c1b0e3",
+      "sha256_visivel_md": "ce7bb5b04cfa79f458a19d96c86301b9a57c2df1104738d6858105d474c1b0e3"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-23-de-10-de-janeiro-de-2018-1821926.md",
+      "sha256_md": "2a089e09682360987b95ce77bf5495ead506069e54c77ce1d996adaadc2d6fa7",
+      "sha256_fonte": "4f3a9a852ef3d88027c45ae238cef14891f53cc36da7ca8a1189dc782f878b68",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "5c2e50778288f8b3327ac40b04bd2ad1ba5b74cf37a6252e686b964af787a345",
+      "sha256_visivel_md": "5c2e50778288f8b3327ac40b04bd2ad1ba5b74cf37a6252e686b964af787a345"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-24-de-10-de-janeiro-de-2018-1821939.md",
+      "sha256_md": "aae0f4667589017569f7547e324d1dffec1fc0bcee3d27037191f759c436d10c",
+      "sha256_fonte": "6255bd988997b861a0b9c3384bdfb678f5c08120c20469a21d73824f4a4219f5",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "d9697d2b49908ea48812f965a22dc539c03e383a49caa8c68f362640df3892cf",
+      "sha256_visivel_md": "d9697d2b49908ea48812f965a22dc539c03e383a49caa8c68f362640df3892cf"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-28-de-11-de-janeiro-de-2018-1821952.md",
+      "sha256_md": "3a55f64b9caebd15c80297e170aa509bbbd3160284e2cf1e50b22faeae140417",
+      "sha256_fonte": "d4d304b02426c24a06d493ab7e07c8af794f61065e5abda1e8c34902591865b6",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "c226fca29ab5956099bb2eec887e42f21b3a546b1cbeda4c6a29d0629e377e06",
+      "sha256_visivel_md": "c226fca29ab5956099bb2eec887e42f21b3a546b1cbeda4c6a29d0629e377e06"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-3-705-de-22-de-dezembro-de-2017-1930684.md",
+      "sha256_md": "12aaf7d1410ead4a7262599be2cd320d4a7ec4d3a8841f5c1af6f0560c0058fa",
+      "sha256_fonte": "d25857fb3ec9b0b2909d6db21620d17bb79a9bcf3a62c7e48a9167e69d91c699",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "f8e85fbd0a2344d011543f96a3a7d5d9c6316d2fc156915d00a43207fede2559",
+      "sha256_visivel_md": "f8e85fbd0a2344d011543f96a3a7d5d9c6316d2fc156915d00a43207fede2559"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-38-de-11-de-janeiro-de-2018-1889775.md",
+      "sha256_md": "2cb3d51c5db2b62786641c6ea4c46b806b0145eaa4677da37db04f539a09223e",
+      "sha256_fonte": "cad48dcb08cbd374ef173819d2e159ab21a64954d0fdc3e28410e927fff99bf9",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "594a0220349f17b9166c31a6fcaae7d4f0f02b0d7b7e7a5f32efbc25272c4bda",
+      "sha256_visivel_md": "594a0220349f17b9166c31a6fcaae7d4f0f02b0d7b7e7a5f32efbc25272c4bda"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-38-de-24-de-janeiro-de-2018-2150222.md",
+      "sha256_md": "84d779512672b7571b893ef176b21bf1318bc09c34c4b4e71db7910b9d66f78b",
+      "sha256_fonte": "30624083a3a5aebc5b3d0425cdf2fa765f5dfe8796e455620d7b03e97487a379",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "8fd0521f9cae3f9212822a71a6ed77f9bd91c595ae165f2a00fcfe4f95272b9d",
+      "sha256_visivel_md": "8fd0521f9cae3f9212822a71a6ed77f9bd91c595ae165f2a00fcfe4f95272b9d"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-417-de-29-de-dezembro-de-2017-1537829.md",
+      "sha256_md": "349835e98326f007208231b0d71502dbc0b9ae9c9666415f7a1ae623a6ce1e0b",
+      "sha256_fonte": "5f8c1600adda180285df9530ecba6d9a4777b8cbdff04b420fee4a117a2deec0",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "6c7612a15bfc714d47c9889106a3586b48768deda8ef76c5815ba44c3d564538",
+      "sha256_visivel_md": "6c7612a15bfc714d47c9889106a3586b48768deda8ef76c5815ba44c3d564538"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-42-de-25-de-janeiro-de-2018-2201632.md",
+      "sha256_md": "b192449fa76e9b7658e06e678518057aed4b7c3ba5a456a634ec49e02610c359",
+      "sha256_fonte": "af131c4316ec993841e3750846c1145e18516164ec1952b4f1155c9b0cd3dd62",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "05499be06bb2541b574f5b2009f532e8d3ca17b5e42b12b147dd1ff17387accd",
+      "sha256_visivel_md": "05499be06bb2541b574f5b2009f532e8d3ca17b5e42b12b147dd1ff17387accd"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-55-de-10-de-janeiro-de-2018-1775054.md",
+      "sha256_md": "e8104b0f922026cfd0a30c88fb8001db3d2cd07b6b11e3263b4bd8c53ceb8792",
+      "sha256_fonte": "e02ea6b2f73ca894d39c215e8a665927408e08024a07a2a1b30d6271db36b967",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "6e105e018e0941ed943ddfe7d9457ec47fda0fbbcf281e95334470eb7ad8701f",
+      "sha256_visivel_md": "6e105e018e0941ed943ddfe7d9457ec47fda0fbbcf281e95334470eb7ad8701f"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-59-de-16-de-janeiro-de-2018-1926498.md",
+      "sha256_md": "5a8ef04f6b0f88bf631877c55d0b96bca28684785667c444724032515e683002",
+      "sha256_fonte": "30ba983a3974b76ee9f5b26963180324fe659eb528a51ea048133ae8bd5bf84a",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "cb20f566a51d61bf35d6572072b226ebbcec80af4f15d25c76cf0588f07de723",
+      "sha256_visivel_md": "cb20f566a51d61bf35d6572072b226ebbcec80af4f15d25c76cf0588f07de723"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-63-de-16-de-janeiro-de-2018-2018682.md",
+      "sha256_md": "98e314b39b6bd52493cd1c6989d17b8a4f1826cadda7092f64697fdaa5be3431",
+      "sha256_fonte": "76fa01e680d5872f6a24b5ccc666b115f1747cc29dc442d55244de8ea21a6792",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "0f05a00d05254d5085b86deda7d3784249008619bc6a159bc73a033c38024d71",
+      "sha256_visivel_md": "0f05a00d05254d5085b86deda7d3784249008619bc6a159bc73a033c38024d71"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-69-de-17-de-janeiro-de-2018-2018747.md",
+      "sha256_md": "60696b3d5935fcfe7e3c8e673061a4e77b5770714acbfa285861991217521f92",
+      "sha256_fonte": "68861d30498423c685d7a0964a579b4a151a581857100e09cff0deb68ff17873",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "5a717457b82ed60f493f883ce2c230bf85a2a7b1f7daa6bcffa4bc2b0f0778cb",
+      "sha256_visivel_md": "5a717457b82ed60f493f883ce2c230bf85a2a7b1f7daa6bcffa4bc2b0f0778cb"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-8-de-5-de-janeiro-de-2018-1821978.md",
+      "sha256_md": "0147fa28b9b39335b1e7274cb419c39a0ae051c2c120c93fba29462058fde383",
+      "sha256_fonte": "29c601605f50631e94b33a35c000b1e753a0eddfd5c611b5b4b688d105dc18b0",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "d680b2295f67ad67577820762e936d97cb01ef7b8e53a398e03c1326b6ef368b",
+      "sha256_visivel_md": "d680b2295f67ad67577820762e936d97cb01ef7b8e53a398e03c1326b6ef368b"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-85-de-18-de-janeiro-de-2018-2018877.md",
+      "sha256_md": "213c9761c19b2eccfeca36c0b859d403bf0f970f7854c44efbe45f76cfec0f87",
+      "sha256_fonte": "33be05a9c42cbb5d99c88afa359a454f8b357efc1b90bec126e233439b4473b2",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "d9c2ad0a04fb10cca8a4c1cfebf81f5f662c541f90e1995cae100cd93ce8a731",
+      "sha256_visivel_md": "d9c2ad0a04fb10cca8a4c1cfebf81f5f662c541f90e1995cae100cd93ce8a731"
+    },
+    {
+      "path": "reguladores/ms/portarias/2018/portaria-n-94-de-22-de-janeiro-de-2018-2197033.md",
+      "sha256_md": "1b378fc3c07ede8e6139348cf20bdec18ab73fd3b314fb1963139539e126f815",
+      "sha256_fonte": "2ad6a33bde1f8b397db588b950cf1cc33ed532619a10dd7a25bc6259b2d4d6aa",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "75fe4cae541a5db4c9f135967b82b594069d84bce6b8bf4cf8b2000363d6f21c",
+      "sha256_visivel_md": "75fe4cae541a5db4c9f135967b82b594069d84bce6b8bf4cf8b2000363d6f21c"
+    },
+    {
+      "path": "reguladores/planejamento/portarias/2018/portaria-n-1-023-de-30-de-janeiro-de-2018-2283431.md",
+      "sha256_md": "9273510df4f240466f9e00dff317ea80aa2cd6326cbcc239bd2e6370d570da4b",
+      "sha256_fonte": "5a2dfdbf21e3f78638f72dd2860d9cbe29b525ee460a503064cb2656f3c785f1",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "6985fbab420b912332e752844ed15ff456de5c9c53048add6b0bf4b868569710",
+      "sha256_visivel_md": "6985fbab420b912332e752844ed15ff456de5c9c53048add6b0bf4b868569710"
+    },
+    {
+      "path": "reguladores/planejamento/portarias/2018/portaria-n-208-de-10-de-janeiro-de-2018-1739342.md",
+      "sha256_md": "21241f27e02da5324d713bab5a6f6c4173c286f05c85722f3dc987bd00e7cf5f",
+      "sha256_fonte": "5359484805bfdd3b271a83600cc2fa719684222ad2da7bbae6ef3c54fb7b9e2d",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "2ca4f8a4181d26e9208a90a3bd6885a8e98d9011015139f39494c6f9cf3a957f",
+      "sha256_visivel_md": "2ca4f8a4181d26e9208a90a3bd6885a8e98d9011015139f39494c6f9cf3a957f"
+    },
+    {
+      "path": "reguladores/planejamento/portarias/2018/portaria-n-267-de-29-de-dezembro-de-2017-1537147.md",
+      "sha256_md": "4a330652025461def3146be6d59af4f61271df188b82bcffd8bb179167af8320",
+      "sha256_fonte": "ff8322b5f8f7c47db29341ec43c66bb9cbcd5d4e415d9654b8139345b1f955d2",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "37dc0c35dff7aa508b3171e1e8d0175e9bd0174ca0ba0d757e815a1364adbe36",
+      "sha256_visivel_md": "37dc0c35dff7aa508b3171e1e8d0175e9bd0174ca0ba0d757e815a1364adbe36"
+    },
+    {
+      "path": "reguladores/planejamento/portarias/2018/portaria-n-287-de-22-de-dezembro-de-2017-1561276.md",
+      "sha256_md": "def24b5d863f378155a97843ca50620c298369b94faa11c3fcef480f399b3eeb",
+      "sha256_fonte": "214aa460a90f286a2b5f7385cab47fabfc62540f84a6af9e4850fe11233ff874",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "812cb0e3174625cd3539dd594958a00835e1b63dbefed50d90121bac0c363695",
+      "sha256_visivel_md": "812cb0e3174625cd3539dd594958a00835e1b63dbefed50d90121bac0c363695"
+    },
+    {
+      "path": "reguladores/planejamento/portarias/2018/portaria-n-312-de-11-de-janeiro-de-2018-1778306.md",
+      "sha256_md": "ea7887df21aca60c7c522a55fb2855ceaa8b948f4049494a973a9170594c1e51",
+      "sha256_fonte": "84a9641f524eccb43e7a698a9544070369c131ecde294c76895a370ee617f893",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "2a8bb24408eed243e595c587f1bf2c67ecd38e1604a0d41196bbb359f133e5fe",
+      "sha256_visivel_md": "2a8bb24408eed243e595c587f1bf2c67ecd38e1604a0d41196bbb359f133e5fe"
+    },
+    {
+      "path": "reguladores/planejamento/portarias/2018/portaria-n-394-de-12-de-janeiro-de-2018-1980137.md",
+      "sha256_md": "b43ae9d00f9bc8c527d49e6c9ba3968de84b2266cb587b30d991865350d9f0a9",
+      "sha256_fonte": "53d15d91c49ef4dbcd86b3eafebda39f09015eb37e6e49c8a8f9c47d4233feab",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "74e30326d55690ae8cb47e620288326bb0dac514a7a54cc8f462cff7b05a93e1",
+      "sha256_visivel_md": "74e30326d55690ae8cb47e620288326bb0dac514a7a54cc8f462cff7b05a93e1"
+    },
+    {
+      "path": "reguladores/planejamento/portarias/2018/portaria-n-486-de-29-de-dezembro-de-2017-1537697.md",
+      "sha256_md": "b13b8c5364d4b9308bac0edf0cc78d3c61a035dfc552924908b4a2108b92b4a3",
+      "sha256_fonte": "b6713d6124dba038abaff1b74ddfa9664797fceb317134a366c275c4c88c1064",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DO OBJETO",
+          "fonte": "CAPÍTULO I DO OBJETO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DO EXPEDIENTE E DA JORNADA DE TRABALHO",
+          "fonte": "CAPÍTULO II DO EXPEDIENTE E DA JORNADA DE TRABALHO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — DO EXPEDIENTE",
+          "fonte": "Seção I DO EXPEDIENTE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — DA JORNADA DE TRABALHO",
+          "fonte": "Seção II DA JORNADA DE TRABALHO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — DO CONTROLE DE FREQUÊNCIA",
+          "fonte": "Seção III DO CONTROLE DE FREQUÊNCIA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção IV — DO INTERVALO PARA REFEIÇÃO E DESCANSO",
+          "fonte": "Seção IV DO INTERVALO PARA REFEIÇÃO E DESCANSO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DAS DISPOSIÇÕES FINAIS",
+          "fonte": "CAPÍTULO III DAS DISPOSIÇÕES FINAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "sha256_visivel_fonte": "c7d3d273e5b7e2d8855c51017f7713e8c23101205f1eacc3595d310a61455582",
+      "sha256_visivel_md": "3a5970ae377bea8ea6a6a2c359e653810e5a904c8c3c10e625ed8df87db291a9"
+    },
+    {
+      "path": "reguladores/planejamento/portarias/2018/portaria-n-487-de-12-de-dezembro-de-2017-1559175.md",
+      "sha256_md": "2a4b7c88322d4b6b5d8ed0e4b0d6b1eb8042e703a0f12f9bcd2b00641502e8c2",
+      "sha256_fonte": "cf2173754820002ec011c3c889936b85666c64497c2c932af84c931005ea7c3b",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "d6030ab8844301003fbe0f157c6a62754c9244cdf9dfe4a43267a7bcd225b426",
+      "sha256_visivel_md": "d6030ab8844301003fbe0f157c6a62754c9244cdf9dfe4a43267a7bcd225b426"
+    },
+    {
+      "path": "reguladores/planejamento/portarias/2018/portaria-n-490-de-29-de-dezembro-de-2017-1542825.md",
+      "sha256_md": "6decc39a10b99f93cb700a7899dab5bba6e6f94290b04d4e2197a5d9905a1489",
+      "sha256_fonte": "27a297eaf63a894d57def1cd9f0b63dd8ee923b4a5e22d1697a9195ae3550eb9",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "3fdc0bcabf91e5a3bc519681565032e012f92aef3431d6756533b382d62baa01",
+      "sha256_visivel_md": "3fdc0bcabf91e5a3bc519681565032e012f92aef3431d6756533b382d62baa01"
+    },
+    {
+      "path": "reguladores/planejamento/portarias/2018/portaria-n-502-de-16-de-janeiro-de-2018-1891693.md",
+      "sha256_md": "43ff7c365cc019fa4c7062de527bfe911d5d9ed56749b1ff11d271d42e67de6c",
+      "sha256_fonte": "cd4728d0bc5600978670bb110d084431c2d6ecec15c92eb1157d9aa0121881e9",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "b5d8d503f26d8c68824adaa49960405751bef1b9cf75cbdca402f6f9ce626288",
+      "sha256_visivel_md": "b5d8d503f26d8c68824adaa49960405751bef1b9cf75cbdca402f6f9ce626288"
+    },
+    {
+      "path": "reguladores/planejamento/portarias/2018/portaria-n-503-de-16-de-janeiro-de-2018-1891745.md",
+      "sha256_md": "0765f5874d0ecf2180bea0777fd29f957eaf99f4f9047e5ae59d5542868cfb35",
+      "sha256_fonte": "8c2d65582c5ebe4511a9300bf2c56e92ccf3c7fde44dbd592e3209370e7a1cb9",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "77a9d6f6e397e19defa8bafebf5b6ea33e3e75ee974d2a3d0f65e987252d808a",
+      "sha256_visivel_md": "77a9d6f6e397e19defa8bafebf5b6ea33e3e75ee974d2a3d0f65e987252d808a"
+    },
+    {
+      "path": "reguladores/planejamento/portarias/2018/portaria-n-504-de-16-de-janeiro-de-2018-1891823.md",
+      "sha256_md": "be214db3f2676e29d4ea56a375ca77070399b3c8b2a2600eac11d04e8e5ce7a1",
+      "sha256_fonte": "700236b11bb566a08ebf1aeb29d22fc0f849e784064bf616631dd2a89855f1ae",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "cfdda994f427d7ba26c55e6132d6f3e15bdaf8be4d7b5acaef78195495805317",
+      "sha256_visivel_md": "cfdda994f427d7ba26c55e6132d6f3e15bdaf8be4d7b5acaef78195495805317"
+    },
+    {
+      "path": "reguladores/planejamento/portarias/2018/portaria-n-558-de-18-de-janeiro-de-2018-1980124.md",
+      "sha256_md": "56a0e35248dbba5d7e0c7eb56560ff136bab1eaf549ce405e1aed9210e56117f",
+      "sha256_fonte": "72734bbd53f3c842c6408cb5965092b27bf262f5120c9e173c40a56e45de1815",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "612b0ad880d262add50c910b0a95f4dd02e99bb7c4f30c7b126c0361e1b4f3f2",
+      "sha256_visivel_md": "612b0ad880d262add50c910b0a95f4dd02e99bb7c4f30c7b126c0361e1b4f3f2"
+    },
+    {
+      "path": "reguladores/planejamento/portarias/2018/portaria-n-664-de-19-de-janeiro-de-2018-2079042.md",
+      "sha256_md": "acf26751d8888cd3aa7f328f2dee1a8e8ed2bd4421d90e7c83964bfc9eb11dea",
+      "sha256_fonte": "a53be465abe68c61680393091b8164a402dfdf9ed18a8917fdafc6c5485e0cc8",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "8825bde10752c2d9b678a2cde4e948d34047296b76708b9b302a8d3cd1099511",
+      "sha256_visivel_md": "8825bde10752c2d9b678a2cde4e948d34047296b76708b9b302a8d3cd1099511"
+    },
+    {
+      "path": "reguladores/planejamento/portarias/2018/portaria-n-701-de-24-de-janeiro-de-2018-2152520.md",
+      "sha256_md": "273812c2bc9c4f7302202c0ce998cd4ae72957db556c31d330c8783f2852a266",
+      "sha256_fonte": "d9ac0ef0a47b091c19c710135922f1293409708418c168e5c27302ee068c0c0c",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "42e6bf8368eab8207a5851347660cce7b886f515d269d2d80c03a66f6cda8139",
+      "sha256_visivel_md": "42e6bf8368eab8207a5851347660cce7b886f515d269d2d80c03a66f6cda8139"
+    },
+    {
+      "path": "reguladores/planejamento/portarias/2018/portaria-n-787-de-30-de-janeiro-de-2018-2283444.md",
+      "sha256_md": "24b9c00c8e9eab34dcbdc8f96fdf6461daeac545f852c4e1410ef9136f4b429e",
+      "sha256_fonte": "d0e1a88300e67afe4eb48e2841954580a5e55d336c66f21e163037562d6bb7f7",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "800385fa1da0b3cc65b100764c879f9a24872cd5a6d24bea41137c0e8b40594c",
+      "sha256_visivel_md": "800385fa1da0b3cc65b100764c879f9a24872cd5a6d24bea41137c0e8b40594c"
+    },
+    {
+      "path": "reguladores/planejamento/portarias/2018/portaria-n-925-de-25-de-janeiro-de-2018-2151062.md",
+      "sha256_md": "9e2d738036624579e8fcb546fd3e5a71cf2b3f745c04ca68db7ec2ff7ba1b180",
+      "sha256_fonte": "8ba3a8896e9ad60b5fb6e1237e0a6c4b618c149be886a6bab2f08ef4cbafe94e",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "cd605f874569af826c2fcc2357dd70368958625fe34b8db40c7a8b04ab9f5378",
+      "sha256_visivel_md": "cd605f874569af826c2fcc2357dd70368958625fe34b8db40c7a8b04ab9f5378"
+    },
+    {
+      "path": "reguladores/planejamento/portarias/2018/portaria-n-980-de-26-de-janeiro-de-2018-2283457.md",
+      "sha256_md": "1a29a20e2cb4f6cfaa224788b6b2319dcf1130d55f263001872f82c53159824f",
+      "sha256_fonte": "3b969afd90dc9a9cb47a7012ebb8428ce4d87f39e5176451b9b809e6c26c77a5",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "d3e56e52fd235be7810f4aa0199411a9f455b3db31133aba5c708467fefd6ba9",
+      "sha256_visivel_md": "d3e56e52fd235be7810f4aa0199411a9f455b3db31133aba5c708467fefd6ba9"
+    },
+    {
+      "path": "reguladores/planejamento/portarias/2018/portaria-n-982-de-26-de-janeiro-de-2018-2283470.md",
+      "sha256_md": "a0a09a72924b819e8e89dac54ac3b28c7375673faa145b73662f522a749c67a4",
+      "sha256_fonte": "3ed416553121e9e18d2856791202a55d95fce9a7ba0a4a8490df62f10eb9add0",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "94ffcdd3a76cab45a71747095f8f7aff973871caa72af7682497fbd859ce46c7",
+      "sha256_visivel_md": "94ffcdd3a76cab45a71747095f8f7aff973871caa72af7682497fbd859ce46c7"
+    },
+    {
+      "path": "reguladores/planejamento/resolucoes/2018/resolucao-n-22-de-18-de-janeiro-de-2018-2154723.md",
+      "sha256_md": "05b9e45021cc77118de75736ef24a3011c2ed646be0d0b86067ee4ddebead6c9",
+      "sha256_fonte": "f09b7280d1e472244f67b984e46d3016a6ed3ab59a7868d87fcb3c02b32f0e39",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "edc3ff89838e218c82933ffae3c1f0cb6a9aada073e0314976fc367554013277",
+      "sha256_visivel_md": "edc3ff89838e218c82933ffae3c1f0cb6a9aada073e0314976fc367554013277"
+    },
+    {
+      "path": "reguladores/planejamento/resolucoes/2018/resolucao-n-23-de-18-de-janeiro-de-2018-2154710.md",
+      "sha256_md": "7b6f559b47136c4b08343ec1d8e0a98651c7e177fa3362856db020ccec71bbd5",
+      "sha256_fonte": "93f64e04fc8cea83770c1670a82208dcda6ea1079aada7f76e1a793024393b1d",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "9255f3a65d4ef586dc9def71596b8c8dbecbf2dcfb18cd4dab72fcc9efbfdbf3",
+      "sha256_visivel_md": "9255f3a65d4ef586dc9def71596b8c8dbecbf2dcfb18cd4dab72fcc9efbfdbf3"
+    },
+    {
+      "path": "reguladores/conselhos-profissionais/portarias/2018/portaria-n-1-de-9-de-janeiro-de-2018-1708101.md",
+      "sha256_md": "d2e58c016f485fb5f2e3a4ee1c543dc73a11eae9ab465ac90ae5a8a13b55f575",
+      "sha256_fonte": "dbe5abdad1abebc5cf7e8496404c4de7849f5e2082513df761f6d1a93691885f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "ff655ec3fb06ef559e1b0d50d08c467d69dab37634a3d56ce23d426c2253b065",
+      "sha256_visivel_md": "ff655ec3fb06ef559e1b0d50d08c467d69dab37634a3d56ce23d426c2253b065"
+    },
+    {
+      "path": "reguladores/conselhos-profissionais/portarias/2018/portaria-n-2-de-9-de-janeiro-de-2018-1708114.md",
+      "sha256_md": "9854975479a9d5b5c53e8bbdd6b69fd3e819d04caf7dcd0f17d353ff524fa2e7",
+      "sha256_fonte": "73519fb0afaec324d36389444ac6aad252f72eb2dc28c669023ab4f9686dbe64",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "cc56b16248c46f7f8f112022f2dbdf6a3250821a3e743fab5fd9d0036a2cf65d",
+      "sha256_visivel_md": "cc56b16248c46f7f8f112022f2dbdf6a3250821a3e743fab5fd9d0036a2cf65d"
+    },
+    {
+      "path": "reguladores/conselhos-profissionais/portarias/2018/portaria-n-3-de-2-de-janeiro-de-2018-1925847.md",
+      "sha256_md": "4a77a2cef8c6cd0a4a03af8fbfcdfd6bc475e2d172102885c01025fe8247051a",
+      "sha256_fonte": "74cc8cd650331430921215aaa48d8ecfee78578111093052b874f109de042d52",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "0cd89adced531d7de457d928649837058836dd297c7f97e160f7af6e68fdcda7",
+      "sha256_visivel_md": "0cd89adced531d7de457d928649837058836dd297c7f97e160f7af6e68fdcda7"
+    },
+    {
+      "path": "reguladores/conselhos-profissionais/portarias/2018/portaria-n-65-de-17-de-janeiro-de-2018-1930737.md",
+      "sha256_md": "c53d9d5adf22b0523bcf6ddcc0ba73816ce552c380d452de4bee52f5396e6361",
+      "sha256_fonte": "ee8cac6fdc2c969f9870f8289281e86378330ab3bde6dc3eb7d45e9a0b2d64b9",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "581f9ca6bf196464b6733c64f74241d639856f3bd071caa6daa336845c5c3a78",
+      "sha256_visivel_md": "581f9ca6bf196464b6733c64f74241d639856f3bd071caa6daa336845c5c3a78"
+    },
+    {
+      "path": "reguladores/conselhos-profissionais/resolucoes/2018/resolucao-n-2-010-de-22-de-novembro-de-2017-1814398.md",
+      "sha256_md": "aef96c5bb2a32dc048b9060a65c9cee227a997a8d7ce3c37e70a8ded5ebc59e1",
+      "sha256_fonte": "94425a06c9e97ae542eb8f804e7bb6bb2e3213536ac8019b30d6dd29d6852dd7",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "f57749f4366e1c68b4e619005e59f9afb7b9df6a9907f799d29614466e1ee748",
+      "sha256_visivel_md": "f57749f4366e1c68b4e619005e59f9afb7b9df6a9907f799d29614466e1ee748"
+    },
+    {
+      "path": "reguladores/conselhos-profissionais/resolucoes/2018/resolucao-n-2-722-de-20-de-dezembro-de-2017-1814437.md",
+      "sha256_md": "34a974145093cf565b3acfc294f245230b6d7e4700cab14755c5c78f1c477962",
+      "sha256_fonte": "4b5b1ee4d255c792966b9b6a8ddbccf81dabe9a4f068a5b631c342ae519da17f",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "32964f9bbffdc0de9af18876bac7dc5e274aba2523e505e989cc33fd6631e92a",
+      "sha256_visivel_md": "32964f9bbffdc0de9af18876bac7dc5e274aba2523e505e989cc33fd6631e92a"
+    },
+    {
+      "path": "reguladores/conselhos-profissionais/resolucoes/2018/resolucao-normativa-n-457-de-22-de-janeiro-de-2018-2190344.md",
+      "sha256_md": "3ee6df038fb523c98a611da605e3a48fc1e1e2518023f2f8905c416f27e221fb",
+      "sha256_fonte": "7cebf2d5209e4f12ceb596ee3bcd99b7de6e79b5bf82da06f6ff0ba27c9d2993",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "6c1327e23172ab00d63e0feced302235514a85f5f412f003c47e60a1a7167ab3",
+      "sha256_visivel_md": "6c1327e23172ab00d63e0feced302235514a85f5f412f003c47e60a1a7167ab3"
+    },
+    {
+      "path": "reguladores/conselhos-profissionais/resolucoes/2019/resolucao-ordinaria-n-28114-de-24-de-abril-de-2019-192161590.md",
+      "sha256_md": "9532245e61c8ac4dcf30eb62b4fa0bb7e03295d8d3ccde27df0cacac85e6c04c",
+      "sha256_fonte": "7a727078c2c0eac31b75d9c3cfdd6df4f7979af8ec098c39e411c62cbebddb57",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "b669e9d70b5114641c24c5e8b3f4a87f27cb29c92d18b217bb8aa5855aa1cf8b",
+      "sha256_visivel_md": "b669e9d70b5114641c24c5e8b3f4a87f27cb29c92d18b217bb8aa5855aa1cf8b"
+    },
+    {
+      "path": "reguladores/mme/portarias/2018/portaria-n-1-de-8-de-janeiro-de-2018-1776393.md",
+      "sha256_md": "a76fe8428904b136537220219eada5476957a264065f2e9ab448238f76c29091",
+      "sha256_fonte": "13efe732fae6557ef587bcaf02b83402471f714b8172cd0317a20211889b2f7e",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "7841582f1904eddf4234dbd58fbb4bd383225eaada21a341453fddb129b9edf8",
+      "sha256_visivel_md": "7841582f1904eddf4234dbd58fbb4bd383225eaada21a341453fddb129b9edf8"
+    },
+    {
+      "path": "reguladores/mme/portarias/2018/portaria-n-3-de-3-de-janeiro-de-2018-1587821.md",
+      "sha256_md": "7b21fbf3b88af2f3e7e3ac267608f8dcf56fa8df125c290250d1f8b2f734d2f6",
+      "sha256_fonte": "3e7ca658e71d8b5481dab546abf688fcf98fc719c0d4fb9ddac7f1f9f7bd7c9a",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "77ec1af2e16b2e288e34ead5eb37c73ea577529ffcca852ea0f706a4d359c565",
+      "sha256_visivel_md": "77ec1af2e16b2e288e34ead5eb37c73ea577529ffcca852ea0f706a4d359c565"
+    },
+    {
+      "path": "reguladores/mme/portarias/2018/portaria-n-4-de-11-de-janeiro-de-2018-1780135.md",
+      "sha256_md": "8132e9af9edbaae55d576a877ef98ab930f84354a771c0331438ec59ecb2a9ce",
+      "sha256_fonte": "a80c354655fdc0db33263195ce74bb35af742ee0d5cfdb819881925e1fc60429",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "54e119d0e320e811024265515b5e3adbf718d12dc20b4dfc69b3488d6f206796",
+      "sha256_visivel_md": "54e119d0e320e811024265515b5e3adbf718d12dc20b4dfc69b3488d6f206796"
+    },
+    {
+      "path": "reguladores/mme/portarias/2018/portaria-no-13-de-22-de-janeiro-de-2018-2046605.md",
+      "sha256_md": "da38db0a6012d0e44eef1bf01b91fed2cb65a328ae5b2a22bfad03aadbf4823d",
+      "sha256_fonte": "0391a0eac65e9c7d9d0c7fabde39713ee324cbb6ad2a633bb7212e01a48c1cb3",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "5e018d2ef02beda8dc55b6eee625c8470be798f20d9c71d48eee3209e4b08a9a",
+      "sha256_visivel_md": "5e018d2ef02beda8dc55b6eee625c8470be798f20d9c71d48eee3209e4b08a9a"
+    },
+    {
+      "path": "reguladores/mme/portarias/2018/portaria-no-17-de-23-de-janeiro-de-2018-2110971.md",
+      "sha256_md": "624d27d71481b7f8d26545e3e262b8682555c3678bce4c6604002321f3611d80",
+      "sha256_fonte": "fa1849c951f0910fdb0874f44ddfbb7282eb13756f39b5730e0ed2985de750ed",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "c8056aa2be97104a1f8a0c42ff1f2bfcafc63f8312aab0d665baa7f9a2fcdab7",
+      "sha256_visivel_md": "c8056aa2be97104a1f8a0c42ff1f2bfcafc63f8312aab0d665baa7f9a2fcdab7"
+    },
+    {
+      "path": "reguladores/mme/portarias/2018/portaria-no-19-de-24-de-janeiro-de-2018-2113611.md",
+      "sha256_md": "a1b73a558160a10aa0a0cc08c146512b49bf48a06aa67a7101d0eefe0fa24935",
+      "sha256_fonte": "4455664f311dc2077a522d0c0c825a32a5f62d812fe7ef0e810948f45f4dd739",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "bec49811264dec382546c6dda453a73d26a7251a89b62ac1bd79a4ea4f9e17ee",
+      "sha256_visivel_md": "bec49811264dec382546c6dda453a73d26a7251a89b62ac1bd79a4ea4f9e17ee"
+    },
+    {
+      "path": "reguladores/mme/portarias/2018/portaria-no-26-de-24-de-janeiro-de-2018-2112168.md",
+      "sha256_md": "683ef6e7a5359744392509ccb9b9f4808640b80643ac6c55033c0fc6117a27a4",
+      "sha256_fonte": "efb93b724f94eede9c6404abaf17a6f910afe46223ae5c34521565feb8beb04d",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "71e88fc4f4e5d16b79184c256e68514e0a1542515a45071b829f88b4578c89d3",
+      "sha256_visivel_md": "71e88fc4f4e5d16b79184c256e68514e0a1542515a45071b829f88b4578c89d3"
+    },
+    {
+      "path": "reguladores/mme/portarias/2018/portaria-no-8-de-15-de-janeiro-de-2018-1977495.md",
+      "sha256_md": "5fea1eaf22258b74fff21fcb7f88152c082359d9c026d8d37e42ccb501f5cb8f",
+      "sha256_fonte": "429ec950d5ed9e9be6b923eeee861896ece87a3c06185f1c2950e19d2da719ea",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "bfb854a183a672f0b485db98286fd86f334c1645e6edd4a1a9eb37006993e89e",
+      "sha256_visivel_md": "bfb854a183a672f0b485db98286fd86f334c1645e6edd4a1a9eb37006993e89e"
+    },
+    {
+      "path": "reguladores/inmetro/portarias/2018/portaria-n-30-de-17-de-janeiro-de-2018-1933918.md",
+      "sha256_md": "f41bde650446ecb55ec5524eae5a0f29783a137b039023192b59ec60b2bcd917",
+      "sha256_fonte": "0539779121be359b91e75ef43cd9995c97f3dd3ab75ade3e520955012a6eb219",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "1724918dc44ba9f804d3bc8035dffa34031dc0a15c8e3fae596e2d790ece9c84",
+      "sha256_visivel_md": "1724918dc44ba9f804d3bc8035dffa34031dc0a15c8e3fae596e2d790ece9c84"
+    },
+    {
+      "path": "reguladores/inmetro/portarias/2018/portaria-n-39-de-19-de-janeiro-de-2018-2022380.md",
+      "sha256_md": "b8fa55cdb9d8425307c12c5bbc898e0a3945815e125cfdb075f0540f21362557",
+      "sha256_fonte": "e87a94ff6df9fe120ba94ecd67c1beefee4731240da13e9f6694f6691161c66c",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "09a71b22366d31c497e0d628a354d6b6f7b90a5e07c1bcaa425badc7ce0aa342",
+      "sha256_visivel_md": "09a71b22366d31c497e0d628a354d6b6f7b90a5e07c1bcaa425badc7ce0aa342"
+    },
+    {
+      "path": "reguladores/inmetro/portarias/2018/portaria-n-43-de-23-de-janeiro-de-2018-2110303.md",
+      "sha256_md": "1f33a195ad3eaefe236da7db0daa8aa2d2ce634151887110e08260d0970e881d",
+      "sha256_fonte": "d237d320464757b57dc575a9d57bb94cb6cbec9c8837c9e747ee262ed03abb8c",
+      "igual_fonte": true,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "sha256_visivel_fonte": "6ab093a5ad82c79e0a915197d6da2e13ebc6cfc0befcf58f8bacaaf9706e0983",
+      "sha256_visivel_md": "6ab093a5ad82c79e0a915197d6da2e13ebc6cfc0befcf58f8bacaaf9706e0983"
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+---
+titulo: "Lei Ordinária Municipal nº 1.644, de 15 de março de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "1644"
+data: "2017-03-15"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/235"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/379/text"
+sha256_fonte: "0cbafbaa391f4fa24419a52a9718520b6d6cd7279b1a2f82528104127c0eec15"
+sha256_texto: "3e32cad954d0ab6cea07708de60321821265a973d57efa99944c15c9184aacad"
+capturado_em_fonte: "2026-10-27T22:34:25.000095-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 1.644, de 15 de março de 2017
+
+Cria a Secretaria Municipal de Segurança Pública do Município de Califórnia, e dá outras providências.
+
+
+A CÂMARA DE VEREADORES DO MUNICÍPIO DE CALIFÓRNIA, ESTADO DO PARANÁ, APROVOU E EU, PREFEITO, SANCIONO A SEGUINTE: LEI:
+
+
+Art. 1º.
+
+Fica criada a Secretaria Municipal de Segurança Pública, conforme artigo 144 parágrafo 8 da Constituição do Brasil, e artigo 189 da lei orgânica do Município de Califórnia Pr.
+
+
+Parágrafo único
+
+Entende-se por segurança pública a atuação dos órgãos públicos municipais de forma articulada, priorizando nas políticas públicas urbanas a prevenção à violência.
+
+
+Art. 2º.
+
+À Secretaria Municipal de Segurança Urbana incumbe:
+
+
+I –
+
+estabelecer as políticas, diretrizes e programas de segurança urbana no Município;
+
+
+II –
+
+executar, através de seus órgãos, as políticas públicas de interesse da pasta, coordenando e gerenciando a integração com as políticas sociais do Município que, direta ou indiretamente, interfiram nos assuntos de segurança da cidade;
+
+
+III –
+
+estabelecer relação com os órgãos de segurança estaduais e federais, visando ação integrada no Município de Califórnia, inclusive com planejamento e integração das comunicações;
+
+
+IV –
+
+estabelecer, independentemente ou mediante convênio firmado com os órgãos de segurança estadual, as diretrizes, o gerenciamento e as prioridades de policiamento, controle e fiscalização do trânsito;
+
+
+V –
+
+propor prioridades nas ações de policiamento investigativo, preventivo e ostensivo ao Município de Califórnia, por meio de intercâmbio permanente de informações e gerenciamento;
+
+
+VI –
+
+estabelecer ações, convênios e parcerias, quando necessário, com as entidades de segurança nacionais ou estaduais de segurança publica;
+
+
+VII –
+
+contribuir para a prevenção e a diminuição da violência e da criminalidade, promovendo a mediação de conflitos e o respeito aos direitos fundamentais dos cidadãos;
+
+
+VIII –
+
+planejar, fixar diretrizes, coordenar e executar a fiscalização e o policiamento de trânsito de competência do Município;
+
+
+IX –
+
+receber através de serviço disque-denúncia denúncias de vandalismo praticado contra os equipamentos públicos municipais.
+
+
+X –
+
+Criar a Guarda Municipal
+
+
+Art. 3º.
+
+A Secretaria Municipal de Segurança tem a seguinte estrutura básica:
+
+
+I –
+
+Gabinete do Secretário, com:
+
+
+a)
+
+Assessoria Técnica;
+
+
+b)
+
+Divisão Técnica de Suprimentos.
+
+
+II –
+
+Guarda Municipal;
+
+
+III –
+
+Centro de Formação em Segurança Urbana;
+
+
+Art. 4º.
+
+Compete ao Secretário Municipal de Segurança:
+
+
+I –
+
+coordenar a política de segurança pública do Município de Califórnia;
+
+
+II –
+
+estabelecer ações, celebrar parcerias e convênios;
+
+
+III –
+
+delegar competências, quando considerar necessário;
+
+
+IV –
+
+indicar o Comandante da Guarda Municipal;
+
+
+V –
+
+dirigir, planejar, coordenar e supervisionar as atividades, assim como distribuir os serviços da Corregedoria Geral da Guarda;
+
+
+Art. 5º.
+
+Dispõe sobre a criação, as atribuições e competências da Guarda Municipal através da Secretaria Municipal da Segurança Pública que regulamentam e disciplinam a atuação e manutenção da Guarda Municipal como órgão de segurança do Município de Califórnia-Pr, conforme artigo 144 parágrafo 8 da Constituição do Brasil, e artigo 189 da lei orgânica do Município de Califórnia Pr.
+
+
+I –
+
+Prevenir, inibir, e restringir ações nefasta de pessoas que atentem contra os bens e instalações do município.
+
+
+II –
+
+Educar, orientar, fiscalizar, controlar e policiar o transito nas vias públicas e logradouros Municipais, a segurança e a fluidez no tráfego.
+
+
+III –
+
+Vigiar e proteger o patrimônio ecológico, cultural, arquitetônico e ambiental do Município, promover medidas preventivas e educativas.
+
+
+IV –
+
+Exercer o poder de Polícia com o objetivo de proteger a tranquilidade e segurança dos cidadãos.
+
+
+V –
+
+Colaborar com órgãos Estaduais para o desenvolvimento e o provimento da segurança no Município, visando cessar atividades que violarem as normas de saúde, higiene; segurar funcionalidade, moralidade e quaisquer outros de interesse do Município.
+
+
+Parágrafo único
+
+Para efeito do dispositivo nos incisos II, V e VI, a Guarda Municipal poderá receber cooperação técnico-financeira do Estado e da União, através da celebração de convênio entre a respectiva Prefeitura do Município e órgãos competentes do poder Público Estadual e/ou Federal, objetivando atendimento pleno das necessidades Municipais.
+
+
+Art. 6º.
+
+A Guarda Municipal deverá ter caráter essencialmente civil, porem quando em serviço, seus integrantes deverão estar uniformizados, armados e equipados conforme legislação vigente. Sendo a Guarda Municipal de caráter social voltada para a segurança e apoio aos cidadãos, devendo sua formação estar comprometida aos direitos humanos, devendo ainda ser empregada para garantir os direitos individuais e coletivos, além de assegurar exercícios de cidadania e proteção das liberdades públicas.
+
+
+Art. 7º.
+
+Ao Município compete dar condições plenas na formação, ensino, cursos e treinamentos, bem como buscar parcerias junto a Secretaria Nacional de Segurança Pública, (SENASP) e Secretaria de Segurança Pública do Estado do Paraná, e entidades, com o objetivo de angariar recursos, e materiais para o pleno funcionamento.
+
+
+Art. 8º.
+
+A Guarda Municipal é subordinada ao Chefe do Executivo.
+
+
+Art. 9º.
+
+A Guarda Municipal colaborará com as autoridades Policiais que atuarem no Município, especialmente no que tange à proteção do meio ambiente, mantendo ecologicamente equilibrado e ao bem estar da criança e adolescente, quando solicitados.
+
+
+Art. 10.
+
+Sendo solicitados para atendimentos de emergências, ou deparando-se com elas, os guardas Municipais deverão dar atendimentos, orientações imediatas.
+
+
+§ 1º
+
+Caso os fatos solicitados para atendimentos caracterizem-se como infração penal, os guardas Municipais encaminharão os envolvidos diretamente à autoridade competente.
+
+
+§ 2º
+
+A Guarda Municipal atuará em harmonia com os organismos policiais no Município.
+
+
+Art. 11.
+
+A Guarda Municipal poderá integrar as atividades policiais de envergadura no município, quando planejadas conjuntamente.
+
+
+Parágrafo único
+
+Na realização dessas atividades a Guarda Municipal manterá a chefia de sua fração com a finalidade precípua de harmonizar e transmitir ordens pertinentes à consecução dos objetivos comuns.
+
+
+Disposições Transitórias
+
+
+Art. 12.
+
+O Executivo apresentará em até 180 (cento e oitenta) dias, contados da data da publicação desta lei, projeto de lei propondo estabelecimento do plano de cargos e carreira para o Quadro de Profissionais da Guarda Municipal.
+
+
+Art. 13.
+
+O cargo de Secretario de Segurança Publica e Comandante da Guarda Municipal será de livre provimento em comissão pelo Chefe do Executivo, dentre portadores de diploma de nível superior.
+
+
+Art. 14.
+
+Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura do Município de Califórnia, aos 15 de março de 2017.
+
+***PAULO WILSON MENDES***
+
+Prefeito
+

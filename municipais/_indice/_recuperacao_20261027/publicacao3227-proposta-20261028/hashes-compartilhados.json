@@ -1,0 +1,911 @@
+{
+  "divergencias": [],
+  "compartilhados": [
+    {
+      "path": "federal/_fonte/auditorias/diagnostico_glifos1347_20261027_002/diagnosticar.py",
+      "sha256": "beadf267d897ef287c7525935f833c73d8b7337a58db27b6fc43a0f5cc62a4e2",
+      "bytes": 14831,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "federal/_fonte/auditorias/diagnostico_glifos1347_20261027_002/testar_analisador.py",
+      "sha256": "328ce1435e04b312e1bd70e3034fbe0c03773b8ce61a85ad192501d1601b4e6f",
+      "bytes": 3532,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_fonte/texto-articulado-coerente-sapl-20261027/sapl.portovelho.ro.leg.br/0101ce9e6924ae4d81f9043cf7fd2ed121d025d738671aef8688496c52b4ac74.html",
+      "sha256": "b02f039f85bd17116726c7a2d23597c41f4a963e0d523f09402cb65811544d25",
+      "bytes": 22999,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_fonte/texto-articulado-coerente-sapl-20261027/sapl.portovelho.ro.leg.br/e49286e1f22d6e093fccf1516f6b4fb28839f337b3d0eef4bb949dc8791bc2d1.html",
+      "sha256": "d8bea3e9d16f02818254781daf8c4a67eb404b5b98b22dabb7b4ccdfc016c5e5",
+      "bytes": 35226,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_fonte/texto-articulado-coerente-sapl-20261027/sapl.portovelho.ro.leg.br/e8306bc0d7218ff6c6c271877f4282bcff6a49e7e44de45acf579129de6be81a.html",
+      "sha256": "ac769d21c5043bc3f2ca2fa2915cc71907fb72339cb9b152fc4185f7cd1e0274",
+      "bytes": 93627,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/0d5ed88fa5f4964f90af9947d83dfdcb25abd608a077880db9b35586ad22cda1.json",
+      "sha256": "89991057fd0be5431b21e816bb13f30e0b4b66e06e5b810e7d1b580cae7675eb",
+      "bytes": 706,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/0d5ed88fa5f4964f90af9947d83dfdcb25abd608a077880db9b35586ad22cda1.meta.json",
+      "sha256": "958ec4822c6d8b941bc349bb04c47fa724e583d45b3f5236a856a7a275db3e18",
+      "bytes": 351,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/87f0f267c1c3729479c9be2f9da524b1b751c04c6312880bb99ef50f4e115b9e.json",
+      "sha256": "6a7b4ba58039638bf9a08a61cc95798602c7fa5e94b2781e5c4433b6d37a9933",
+      "bytes": 32444,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/87f0f267c1c3729479c9be2f9da524b1b751c04c6312880bb99ef50f4e115b9e.meta.json",
+      "sha256": "2e9ba6e7e16d8d9b59161c1c0faa4b130148ad3f74251ca4e7c8a6a6b4866aac",
+      "bytes": 403,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/bac04d6234b8f858cd9e93be4c9d99385d1bc2fe94e6a3b33eb28f44d19e188c.html",
+      "sha256": "e23eecbbc9dff449c9206caadfee308aafec70b8504c08b31304fbbd3d71b78d",
+      "bytes": 21092,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/bac04d6234b8f858cd9e93be4c9d99385d1bc2fe94e6a3b33eb28f44d19e188c.meta.json",
+      "sha256": "62550dac10ef3b1ddb3167fd73205e085fc18bb225455524c3d2ee1de30fcebf",
+      "bytes": 332,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/da9e30b80ec70cd110ebc71985ee0d3eff1f9198dc71806bdca61123609664f0.json",
+      "sha256": "1db7514393f63b4a1154d26be5c523fa31c46ac0d1a9276a42901711dfd7cef4",
+      "bytes": 868,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/da9e30b80ec70cd110ebc71985ee0d3eff1f9198dc71806bdca61123609664f0.meta.json",
+      "sha256": "9a19fcdf12efd62e70f7b4ffa0f6a58b47096db29524e646c9fae2aa9aa4545c",
+      "bytes": 357,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/e95e782a015363d856a8daff2641cb6c2a4d9ab9aee67ff414bf3be95cc802ca.json",
+      "sha256": "767205bbca076f1a322efc6b2705b1b66927f602d873e4038e6c81915bb2108e",
+      "bytes": 57258,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/e95e782a015363d856a8daff2641cb6c2a4d9ab9aee67ff414bf3be95cc802ca.meta.json",
+      "sha256": "aacd288c4cd317ada54ec4ee518d5827d44938a6f64068794cf9586a23735547",
+      "bytes": 409,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+      "sha256": "9650eb0ed7329c0e1f3ef36b385b2aecda04a45044f5c96c6162e7d1ce973f44",
+      "bytes": 5411419,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/agregado3228-final/entrega-final.json",
+      "sha256": "b943946e069070e2d72ea8d367a9179f04592b3502e2b17c0c381f3341994f5e",
+      "bytes": 5408076,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/agregado3228-final/mapeamento-fontes.json",
+      "sha256": "0b61ac40425b0cc1976c81b44b80c5c7723797d60bb954cf35374af952ec862f",
+      "bytes": 3310825,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/agregado586-validado-final/entrega-final.json",
+      "sha256": "a31301fc0545cb75c631b1b2fa6420aef41bb321e8fc55be83ff5254e59d7d82",
+      "bytes": 1110613,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/agregado921-validado-final/entrega-final.json",
+      "sha256": "ca0edb15cf2054c845ad5413dc6677a377aa9ba76260b1f7afa5187d9e642ae0",
+      "bytes": 1648625,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/buritis8-1971-fonte.html",
+      "sha256": "e23eecbbc9dff449c9206caadfee308aafec70b8504c08b31304fbbd3d71b78d",
+      "bytes": 21092,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+      "sha256": "d13d4c68f5291b658e9d83f0ec3db19fd7eda4b191f52038f01afe4e3aefe160",
+      "bytes": 17508,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0015/resultados.jsonl",
+      "sha256": "27a69317ef9cf93fb11eaf0bda63267183a6c1a44c2d28cdc8d1550564ec7bc7",
+      "bytes": 8054158,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0015/sapl.buritis.mg.leg.br.anexos.json",
+      "sha256": "d275423195b89a84ca33d2d7a094311ae554438b84f7d87342a8bd73f800aa4e",
+      "bytes": 38169,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0015/sapl.buritis.mg.leg.br.tipos.json",
+      "sha256": "fe89ffb15dfdf83609e4f3e72ba640f66f2a932fc5497d33140841dc5588c00b",
+      "bytes": 1423,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0015-v5/resultados.jsonl",
+      "sha256": "890a919f8ee996aac5384e4e9e6f85792c0aa6f86ebd6da3096d712f26b8dbee",
+      "bytes": 5417172,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/787-1109.txt",
+      "sha256": "cf65d50a0aebf6314659d65a9caaa8aa23baa109a850bdcf45ed1b579a7db52c",
+      "bytes": 1242,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/auditar.py",
+      "sha256": "a49009efb2d02a3059bf5cbaddc39529c24e2630e377f46cf419c765033ca648",
+      "bytes": 6096,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/auditar_anexos_sapl.py",
+      "sha256": "9ade983595c7cd4e7a3ec52b15ab460dcf75ec853dd2b309870645458d75f362",
+      "bytes": 7986,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/auditar_colisoes_lote_municipal.py",
+      "sha256": "9a2352f632d8255cfae6f0317caf62a77b84b41a548e4112fe7ae971ac3a434c",
+      "bytes": 3135,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/auditar_commonmark_ta.py",
+      "sha256": "7867057e17ae91c547b30da336caa064b5d444d593c546e7091bbbf95c2820bf",
+      "bytes": 8927,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/auditar_commonmark_ta_v2.py",
+      "sha256": "c2a5ba63f7310a439503707bcaac10e4a4d904f40a29e4e0026eb33a73458974",
+      "bytes": 10158,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/auditar_contexto_completo_ta.py",
+      "sha256": "f44151983d56fd8ff3380b5ad14ad8557215b895048d6405e7563b21b6a3b066",
+      "bytes": 4689,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/auditar_emissores_sapl.py",
+      "sha256": "1749efcc1a6334b652716841d89cec2170eabaa580b23937b4a83a5ea74af023",
+      "bytes": 2856,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/auditar_epigrafes_literais_sapl.py",
+      "sha256": "f05f5647f7345c49539ea746f912935729c62e7fb09ae06cd5b6a77b9bcc216c",
+      "bytes": 4690,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/auditar_jurisdicao_ta.py",
+      "sha256": "2eeaa4c3704a0a720f4c6ecc157406c9062522a8c8817066d60ac60573aaf9bd",
+      "bytes": 2583,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/auditar_municipal.py",
+      "sha256": "817f196f53162076bac125fb7c509e9ba6d9479e9aa6918ae5428822dec43ac8",
+      "bytes": 8443,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/auditar_textos_articulados_sapl.py",
+      "sha256": "f252f6495f44b5abe768f169f079c44241ff9dd7919d7ff02640f1ec75945602",
+      "bytes": 8176,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/auditar_textos_articulados_sapl_v3.py",
+      "sha256": "1b93f353c686aecdc8674eae482a92e84a09be209fb34afc41c53bef53ffbe3d",
+      "bytes": 9614,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/auditar_textos_articulados_sapl_v4.py",
+      "sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+      "bytes": 9993,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/baixar_organicas_sapl.py",
+      "sha256": "148df658e432b0eea050a1444c09854123732796c689267f7094a1f88db7d682",
+      "bytes": 21700,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/baixar_textos_articulados_indice_coerente_20261027.py",
+      "sha256": "ab3a0692e071e0c325271da6dd2b3d74bca26cd365c3c5491b86f3847a1fc6cc",
+      "bytes": 16626,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/baixar_textos_articulados_sapl.py",
+      "sha256": "7dd7c1978025f1180979fd5597f043e0484a634b3a33ea6a5e71fdaf81115e74",
+      "bytes": 13684,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/baixar_textos_articulados_sapl_v2.py",
+      "sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+      "bytes": 13875,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/comparar_baseline_municipal_head_20261027.py",
+      "sha256": "6cf4eb7ef24c88aff11487039d766cd27be1f6f21d4a30fa7a93f4128f7b7ab2",
+      "bytes": 2948,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/comum.py",
+      "sha256": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24",
+      "bytes": 19447,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/conferir_tabelas_nativas_ta.py",
+      "sha256": "606b9e1fa70dfd8010af6837b8ee03274511c8cff7dd2b09da4b4037dcb0660f",
+      "bytes": 4532,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/congelar_baseline_municipal_head_20261027.py",
+      "sha256": "191f21e4b21378dd1abaa6609328adf379c8e8c1831ae49b78d231d842a317bf",
+      "bytes": 6132,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/congelar_indice_ta_coerente.py",
+      "sha256": "57d074f669117a8c72634ed8cf27e591c7347e0d4ae227933ea07053cbb25b91",
+      "bytes": 5863,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/converter_organica_fortaleza.py",
+      "sha256": "84784009dbf676e8a912dad5954da4cfb8385dc897702b02043c3bbf55a6175d",
+      "bytes": 6998,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/diagnosticar_css_glifos_ta_20261027.py",
+      "sha256": "9eccd6f12755049fe6d744a9360be87ce6c5666818ee13cc4ce6c106f52d1e83",
+      "bytes": 7966,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/empacotar_lote_ta_v2.py",
+      "sha256": "1878f6c5a3d45e526309eb65afc9316f147fb66d0818defbb1e5bbf40989191c",
+      "bytes": 6732,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/empacotar_lote_ta_v3.py",
+      "sha256": "68fd0b139298cd9a6dbb20a518735da99c508866e9358a158ff1a5bc70e1cb11",
+      "bytes": 6915,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/epigrafe_tipo_literal_ta.py",
+      "sha256": "66b3592a85c46073c84fe8eecc5f390b39780075c7381ed896d4af27bf6d074c",
+      "bytes": 2556,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/estados/pe_fidelidade_visivel.py",
+      "sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+      "bytes": 7551,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/fila_textos_articulados_sapl.py",
+      "sha256": "fae2fcd8d7cd06b80af1583417e1c9d85eb9dce60d40775160dfe0215204c3dd",
+      "bytes": 8321,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/granularidade_sapl.py",
+      "sha256": "d92d9b1d53240888103a2602046d11b510f2db9192afc4cdeea37db697dd1b87",
+      "bytes": 2972,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/html2md.py",
+      "sha256": "6ad648a6a94c8d51d880a2d79c39f1abe751032d3355e468363e43ca83fdcdc6",
+      "bytes": 15168,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/materializar_textos_articulados_sapl.py",
+      "sha256": "9e1d636d3befc3157501af0e53362eada604ecc08e364bc2508b8993b5429d6f",
+      "bytes": 9762,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/materializar_textos_articulados_sapl_v2.py",
+      "sha256": "e3533e51cd02c9f58c76759520672c2fbbc297b189e05f4d161fddc822569b5d",
+      "bytes": 10540,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/materializar_textos_articulados_sapl_v3.py",
+      "sha256": "823127e8103290674dda32a48b91d1c07c72331751765fec5db1206041ade713",
+      "bytes": 10598,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/materializar_textos_articulados_sapl_v4.py",
+      "sha256": "3761528e4a24ba9fb8b5bf256f24a6791ca0728a68e9af390a3346b9b9722be1",
+      "bytes": 10660,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/materializar_textos_articulados_sapl_v5.py",
+      "sha256": "cc15ede602c89faf6ec56a8e77b428f8fb4fa465a08f4ba5d5e04e389b9072d3",
+      "bytes": 12155,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/materializar_textos_articulados_sapl_v6.py",
+      "sha256": "14f5a41709745b5d25c722173cc62f287f50e74491240bd07bc20b92a10986cd",
+      "bytes": 12445,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/preparar_cache_indice_ta_coerente_20261027.py",
+      "sha256": "a9b72faa7894dd3b8d3d19db17ef4a485b5f2764d877ee6f771b11ab42be1658",
+      "bytes": 2770,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/preparar_reparos_commonmark_ta6.py",
+      "sha256": "9189d5dbe33e6b88868bc6ff5c458cc4c4beebc38f777a0ce7dab7db0a3205b9",
+      "bytes": 6181,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/qa_municipal_persistente_20261027.py",
+      "sha256": "dd89a2fefae6c7dce6b15aab655b819d512020ddc03165b1ce384f0c9e419140",
+      "bytes": 1068,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/selecionar_lote_ta.py",
+      "sha256": "4f9fef2ea112e555438b0a4a4b6eda008462c0c9c97fd1a07caadc68b489181a",
+      "bytes": 2770,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/selecionar_lote_ta_v2.py",
+      "sha256": "ed1f0a1eaeda7c9c3f1271ecdbbae4634b92e070bb936d4d89f3e5d2ac57f520",
+      "bytes": 2989,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/selecionar_recuperacao_identidade_ta.py",
+      "sha256": "267bcf939e8e1bb1bc4ecafd45e79187b51b0ca77ec168c3182851deacf9a166",
+      "bytes": 3693,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/selecionar_recuperacao_tabelas_ta.py",
+      "sha256": "e885aa3df5a06284177898e2ae0af665e9c3f159933daf9b0d679c5ca5643d94",
+      "bytes": 3778,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/test_baseline_municipal_head_20261027.py",
+      "sha256": "30250b10f743dacc98ede87d6df444d80c8411387ae8e3be7d68a6e0c2f89499",
+      "bytes": 4572,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/test_colisoes_lote_municipal.py",
+      "sha256": "19ecbd08a458ba576e436d0e4ee07c06e412857763f60998d955cc0373f85830",
+      "bytes": 1242,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/test_commonmark_ta.py",
+      "sha256": "32019a2b9a0a818cf19aa1ae8545c3d3c0f7d99c29e841958ca47466ff2e4100",
+      "bytes": 2294,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/test_commonmark_ta_v2.py",
+      "sha256": "c1524dba0e1cb87b304f8603186ffe74922acc9b6e57449e0a34ad12ee06572e",
+      "bytes": 1094,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/test_contexto_completo_ta.py",
+      "sha256": "49a6f6ed9cfaa45e6d27656bc7506ac5c322e9b4eedca4ff336b4abdaaa08856",
+      "bytes": 1690,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/test_continuacao_indice_ta_coerente_20261027.py",
+      "sha256": "7937e6ef6f050c291aa915229135db032b4569e4ced1a8b96d734fa74d39b6a6",
+      "bytes": 4374,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/test_data_captura_ta.py",
+      "sha256": "4d176f217edb18973aac6fe29866c74e1055a77579412983e706bd9d141a6cf6",
+      "bytes": 961,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/test_diagnosticar_css_glifos_ta_20261027.py",
+      "sha256": "987ce17d9bd4f23883fad97c935e4a6e38075002ae807989000e37adeac8892f",
+      "bytes": 2918,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/test_emissores_sapl.py",
+      "sha256": "77e097c66c2c6e195e475176b9516e0ab693de167f3f5133381982de5e3fc91e",
+      "bytes": 961,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/test_epigrafe_tipo_literal_ta.py",
+      "sha256": "5c62a02119d04d11a021203222cb1de84d3cba9eb4c0535771d647ab84a5ebfe",
+      "bytes": 2220,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/test_fila_ta_sapl.py",
+      "sha256": "3c50951e427c63adca050bb2f058a133192e0bb9aacbb1aad0962f83abf2d43c",
+      "bytes": 1716,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/test_gates_textos_articulados_sapl.py",
+      "sha256": "d9c9e0e028ae369c624f0cd8a7dfbe9f99353c386d3cc2057d4cbfb2a8b63e2e",
+      "bytes": 2871,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/test_indice_materializacao_ta_v5.py",
+      "sha256": "0e041f434e9b41aa5886b663abdfc1c11eab1935aba39573ea179374ad2b71ba",
+      "bytes": 1664,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/test_reparos_commonmark_ta6.py",
+      "sha256": "dd5adedb93b66587549c18a96af275b55e5a5ff969315058418a120f92972d5c",
+      "bytes": 2198,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/test_rotulo_literal_ta.py",
+      "sha256": "1c5e028d510416b871084cd2143cd6e63c433b5be244a517dcbdf53542be76a3",
+      "bytes": 2026,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/test_tabelas_nativas_ta.py",
+      "sha256": "5b3911115094b72e35815b8ff154793760ab8e111f02e1e7a5051566d730227f",
+      "bytes": 1379,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/test_tabelas_nativas_ta_reais.py",
+      "sha256": "2d88c7d7ed60b5292ccd3822c1bdbfe5a50b3c49459f6e2ade5c32b227949520",
+      "bytes": 1506,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/test_textos_articulados_sapl.py",
+      "sha256": "f4ffa5c7d80203619f3c9fabc18798e0415cacab434bbc7a456ed9de45fcdf1f",
+      "bytes": 1908,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/test_verificador_tabelas_ta.py",
+      "sha256": "ff488ef260b2ad2065ecacc11cc7e8839ad3a94c0220385c705c46bf99e05fed",
+      "bytes": 2077,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/test_verificar_promocoes_ta.py",
+      "sha256": "cb52f0dd6b1e265c3d3656b465fe3e940885a1aa840abfe1d5035c1c1acf7597",
+      "bytes": 1964,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/verificar_entrega_ta_promocoes.py",
+      "sha256": "8737bf799ed4cf6ee23951599dbefc7d6302311bab8881a082a43e2f9a064885",
+      "bytes": 4478,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/verificar_entrega_ta_sem_promocoes_v2.py",
+      "sha256": "0df5d0f5897ab3efb2303f002439a72a0a296ad8233b134447d485b61d9eb30d",
+      "bytes": 4313,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    },
+    {
+      "path": "scripts/verificar_textos_articulados_materializados.py",
+      "sha256": "41563c6048c4eb3baae9a3470a5f238c15b6292bdaff5dd3020f34eeed4b15b1",
+      "bytes": 2790,
+      "manifestos": [
+        "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+        "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+        "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/manifesto.json"
+      ]
+    }
+  ]
+}

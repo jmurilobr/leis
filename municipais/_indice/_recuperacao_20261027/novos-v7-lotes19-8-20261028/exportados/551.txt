@@ -1,0 +1,477 @@
+---
+titulo: "Lei Ordinária nº 2.832, de 17 de outubro de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2832"
+data: "2023-10-17"
+municipio: "Clevelândia"
+uf: "PR"
+codigo_ibge: "4105706"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.clevelandia.pr.leg.br/norma/59"
+fonte_texto: "https://sapl.clevelandia.pr.leg.br/ta/59/text"
+sha256_fonte: "3f327a4f5752a9dcfc03f64c8db993420a67a33893b3723022bd004a5f96ad84"
+sha256_texto: "734e1e604485c62f15183c8a989f67df3925b2983a785a660daabad1da7ff7c5"
+capturado_em_fonte: "2026-10-27T22:49:30.308773-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.832, de 17 de outubro de 2023
+
+**Lei nº 2.832/2023**
+
+Dispõe sobre a criação do Conselho Municipal de Tecnologia e Inovação e do Fundo Municipal de Tecnologia e Inovação, e dá outras providências.
+
+
+O Poder Legislativo de Clevelândia, Estado do Paraná, aprova e eu, Prefeita Municipal, sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — Do Conselho Municipal de Tecnologia e Inovação
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal de Tecnologia e Inovação do Município de Clevelândia, órgão colegiado de natureza permanente, deliberativa, consultiva, fiscalizatória e de assessoramento do Poder Executivo Municipal, vinculado à Secretaria de Industria e Comércio.
+
+
+Art. 2º.
+
+O Conselho Municipal de Tecnologia e Inovação, será composto por 07 (sete) membros, titulares e suplentes, respectivamente, representantes dos seguintes órgãos ou entidades:
+
+
+I –
+
+4 (quatro) representantes do Poder Público Municipal:
+
+01 (um) integrante da Secretaria Municipal de Industria e Comércio;
+
+01 (um) integrante da Secretaria da Administração e Finanças;
+
+01 (um) Coordenador do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas da Faculdade Municipal de Educação e Meio Ambiente de Clevelândia;
+
+01 (um) integrante da Secretaria Municipal da Educação, Cultura e Esporte;
+
+
+II –
+
+03 (três) representantes da Sociedade Civil:
+
+01 (um) representante de entidade civil ligados a questões de tecnologia que tenham sede no município;
+
+01 (um) estudante do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas;
+
+01 (um) representante da Associação Comercial de Clevelândia;
+
+
+§ 1º
+
+Cada representante terá um suplente com plenos poderes para substituí-lo provisoriamente em suas faltas ou impedimentos, ou em definitivo, no caso de vacância da titularidade.
+
+
+§ 2º
+
+Os membros do Conselho Municipal de Tecnologia e Inovação serão nomeados através de Decreto pelo Poder Executivo Municipal.
+
+
+§ 3º
+
+O Presidente do Conselho Municipal de Tecnologia e Inovação será eleito entre os conselheiros titulares na primeira reunião da gestão.
+
+
+Art. 3º.
+
+O mandato dos membros do Conselho Municipal de Tecnologia e Inovação será de 2 (dois) anos, permitida uma recondução.
+
+
+Art. 4º.
+
+As funções de membros do Conselho Municipal de Tecnologia e Inovação não serão remuneradas e seu exercício será considerado serviço de relevância pública prestado ao Município.
+
+
+Art. 5º.
+
+Os membros do Conselho Municipal de Tecnologia e Inovação poderão ser substituídos mediante solicitação da instituição ou autoridade pública a qual estejam vinculados, apresentada ao referido Conselho que fará comunicação do ato ao Prefeito Municipal para homologação via Decreto.
+
+
+Art. 6º.
+
+Perderá o mandato o conselheiro que:
+
+
+I –
+
+desvincular-se do órgão de origem da sua representação;
+
+
+II –
+
+faltar a três reuniões consecutivas ou a cinco intercaladas sem justificativa, que deverá ser apresentada na forma prevista no regimento interno do Conselho;
+
+
+III –
+
+apresentar renúncia ao Conselho, que será lida na sessão seguinte a de sua recepção pela mesa diretiva;
+
+
+IV –
+
+apresentar procedimento incompatível com a dignidade das funções;
+
+
+V –
+
+for condenado por sentença irrecorrível em razão do cometimento de crime ou contravenção penal.
+
+
+Parágrafo único
+
+A substituição se dará por deliberação da maioria dos componentes do Conselho após procedimento iniciado por Comissão Ética, mediante provocação de integrante do Conselho, do Ministério Público ou de qualquer cidadão, assegurada a ampla defesa.
+
+
+Art. 7º.
+
+Perderá o mandato a instituição que:
+
+
+I –
+
+extinguir sua base territorial de atuação no Estado/Município e União;
+
+
+II –
+
+tiver constatada em seu funcionamento irregularidade de acentuada gravidade que torne incompatível sua representação no Conselho;
+
+
+III –
+
+sofrer penalidade administrativa reconhecidamente grave.
+
+
+Parágrafo único
+
+A substituição se dará por deliberação da maioria dos componentes do Conselho em procedimento iniciado mediante provocação de integrante do Conselho, do Ministério Público ou de qualquer cidadão, assegurada a ampla defesa.
+
+
+Art. 8º.
+
+Ao Conselho Municipal de Tecnologia e Inovação de Clevelândia, compete:
+
+
+I –
+
+avaliar e fiscalizar ações e políticas públicas de promoção da inovação no Município, a partir de iniciativas governamentais ou em parceria com agentes privados, sempre preservando o interesse público;
+
+
+II –
+
+apoiar o desenvolvimento de programas e projetos intersetoriais, regionais e municipais, fixando as prioridades para consecução das ações, captação e aplicação de recursos no âmbito da inovação;
+
+
+III –
+
+aprovar e fiscalizar a aplicação dos recursos do Fundo Municipal de Inovação, nos termos estabelecidos nesta Lei;
+
+
+IV –
+
+propor ao Executivo Municipal o aperfeiçoamento profissional e a introdução de métodos de trabalho e técnicas operacionais, visando à qualificação da esfera pública municipal na prestação de serviços públicos por meio da inovação;
+
+
+V –
+
+deliberar sobre a criação de grupos de trabalho e/ou a instituição de projetos, visando concretizar os objetivos desta Lei;
+
+
+VI –
+
+aprovar seu Regimento Interno.
+
+
+Art. 9º.
+
+Compete à Diretoria Executiva do Conselho Municipal de Tecnologia e Inovação:
+
+
+I –
+
+organizar as reuniões e dar suporte às atividades do Conselho Municipal de Tecnologia e Inovação;
+
+
+II –
+
+formalizar e publicar as deliberações e atos do Conselho Municipal de Tecnologia e Inovação na forma de Resoluções por meio do Órgão Oficial do Município, bem como as atas das reuniões ordinárias e extraordinárias;
+
+
+III –
+
+constituir e apoiar os grupos de trabalho para viabilizar a execução de estudos, projetos e outras atividades propostas pelo Conselho Municipal de Tecnologia e Inovação.
+
+
+Parágrafo único
+
+A Diretoria Executiva do Conselho Municipal de Tecnologia e Inovação funcionará com o apoio da Secretaria de Industria e Comércio.
+
+
+#### CAPÍTULO II — Do Fundo Municipal de Inovação (FMI)
+
+
+Art. 10.
+
+Fica criado o Fundo Municipal de Inovação (FMI), com objetivo de fomentar o ambiente da inovação em prol do desenvolvimento econômico, social e ambiental de Clevelândia, sob a forma de programas e projetos.
+
+
+Art. 11.
+
+O Fundo Municipal de Inovação (FMI) é vinculado à Secretaria de Industria e Comércio e fica sob responsabilidade do contador do órgão gestor, designado pelo Chefe do Poder Executivo, que efetiva o apoio financeiro, reembolsável ou não, a programas e projetos inovadores de interesse da municipalidade, assim caracterizados em conformidade à sua regulamentação.
+
+
+§ 1º
+
+O apoio financeiro será destinado à elaboração, desenvolvimento e execução de planos, estudos, projetos, programas, serviços tecnológicos e de engenharia, capacitações, eventos e outras atividades de cunho inovador que resulte em soluções de interesse para o desenvolvimento de Clevelândia.
+
+
+§ 2º
+
+Poderão ser proponentes pessoas físicas ou jurídicas, instituições e órgãos governamentais.
+
+
+§ 3º
+
+Os recursos do Fundo Municipal de Inovação (FMI) poderão atender demandas de fluxo contínuo e/ou editais de chamada pública de projetos, podendo também, orientar-se segundo regramento de eventual financiador/patrocinador que aporte recursos ao Fundo Municipal de Inovação (FMI) para o desenvolvimento de uma ação em específico.
+
+
+Art. 12.
+
+Constituem receitas do Fundo Municipal de Inovação (FMI):
+
+
+I –
+
+as transferências financeiras eventualmente realizadas pelo Governo Federal e pelo Governo do Estado do Paraná, diretamente para o Fundo;
+
+
+II –
+
+dotações orçamentárias que lhe sejam destinadas pelo Município de Clevelândia;
+
+
+III –
+
+os recursos financeiros resultantes de consórcios, convênios e contratos celebrados com pessoas físicas ou jurídicas, de direito público ou privado nacional ou estrangeiro;
+
+
+IV –
+
+devolução de recursos e multas decorrentes de projetos beneficiados por esta Lei Complementar, não iniciados, interrompidos, ou saldo de projetos concluídos;
+
+
+V –
+
+os rendimentos provenientes de aplicações financeiras;
+
+
+VI –
+
+doações, legados, contribuições em espécie, valores, bens móveis e imóveis recebidos de pessoas físicas e jurídicas;
+
+
+VII –
+
+os recursos financeiros decorrentes da alienação de materiais, bens ou equipamentos de propriedade do Fundo, considerados inservíveis;
+
+
+VIII –
+
+receitas de eventos, atividades, campanhas ou promoções realizadas com a finalidade de angariar recursos para o Fundo; e
+
+
+IX –
+
+outros recursos financeiros lícitos, de qualquer natureza, que lhe forem transferidos.
+
+
+§ 1º
+
+As receitas descritas neste artigo serão depositadas em conta específica para movimentação dos recursos do Fundo.
+
+
+§ 2º
+
+A utilização dos recursos financeiros dependerá da aprovação da maioria absoluta dos membros do Conselho Municipal de Tecnologia e Inovação a serem aplicados nos programas, projetos e ações voltadas a tecnologia e inovação, em conformidade com os critérios e procedimentos previstos em regulamento.
+
+
+§ 3º
+
+Os saldos financeiros do Fundo, apurados em balanço anual ao final de cada exercício, serão automaticamente transferidos para o exercício seguinte.
+
+
+Art. 13.
+
+Os recursos do Fundo Municipal de Inovação (FMI) oriundos de dotações orçamentárias que lhe sejam destinadas pelo Município de Clevelândia serão destinados para financiamento do desenvolvimento de planos, programas e projetos relacionados aos objetivos desta Lei.
+
+
+Art. 14.
+
+Os recursos do Fundo poderão ser aplicados através de convênios, termos de cooperação, termos de parceria, contratos de gestão, acordos de cooperação, contratos de subvenção, termo de outorga de auxílio financeiro, e outros instrumentos legais de contratação que vierem a ser celebrados pelo Município de Clevelândia.
+
+
+Art. 15.
+
+Compete à Diretoria Executiva do Conselho Municipal de Tecnologia e Inovação:
+
+
+I –
+
+elaborar o Plano Anual de Aplicação dos recursos do Fundo e publicar o respectivo relatório anual de atividades;
+
+
+II –
+
+fixar, em regulamento, os critérios e condições de acesso aos recursos do Fundo;
+
+
+III –
+
+fiscalizar a aplicação dos recursos concedidos pelo Fundo;
+
+
+IV –
+
+apresentar, para deliberação do Conselho Municipal de Tecnologia e Inovação, as propostas de concessão de recursos aos projetos apresentados;
+
+
+V –
+
+analisar e emitir pareceres sobre os requerimentos e a concessão de bolsas de pesquisa, em nível de pós-graduação;
+
+
+VI –
+
+analisar e submeter o relatório de prestação de contas à aprovação do Conselho Municipal de Tecnologia e Inovação.
+
+
+Art. 16.
+
+A gestão administrativa e financeira do Fundo é de responsabilidade da Secretaria de Indústria e Comércio, por seu titular.
+
+
+Parágrafo único
+
+São atribuições do Secretário da Industria e Comércio, na qualidade de gestor do Fundo Municipal de Inovação:
+
+
+I –
+
+representar o Fundo ativa e passivamente, em juízo ou fora dele;
+
+
+II –
+
+prever e prover os recursos necessários ao alcance dos objetivos do Fundo;
+
+
+III –
+
+responsabilizar-se pela guarda e boa aplicação dos recursos do Fundo;
+
+
+IV –
+
+autorizar as despesas e pagamentos, dentro das disponibilidades financeiras e em conformidade com o plano de aplicação dos recursos do Fundo;
+
+
+V –
+
+estabelecer e executar a política de aplicação dos recursos do Fundo, observadas as diretrizes básicas e prioritárias definidas pelo Conselho Municipal de Tecnologia e Inovação;
+
+
+VI –
+
+elaborar o plano orçamentário e de aplicação a cargo do Fundo, em consonância com a Lei de Diretrizes Orçamentárias, observados os prazos legais do exercício financeiro a que se referem;
+
+
+VII –
+
+apresentar as demonstrações mensais de receita e despesa do Fundo, bem como o saldo atualizado ao Conselho Municipal de Tecnologia e Inovação sempre que solicitado;
+
+
+VIII –
+
+firmar convênios, acordos e contratos, visando à obtenção de recursos a serem administrados pelo Fundo.
+
+
+Art. 17.
+
+O orçamento e a contabilidade do Fundo deverão evidenciar a situação financeira, patrimonial e orçamentária, observado as normas estabelecidas na Lei Federal nº 4.320/1964 e Lei Complementar Federal nº 101/2000, bem como as instruções normativas do Tribunal de Contas do Estado do Paraná.
+
+
+Art. 18.
+
+O proponente que não comprovar a correta aplicação dos recursos nos prazos estipulados ficará sujeito às sanções civis, penais e administrativas previstas em Lei.
+
+
+Art. 19.
+
+Adicionalmente, mediante regular processo administrativo, obedecido o contraditório e ampla defesa, o proponente poderá ser multado em até 100% (cem por cento) do valor recebido, corrigido monetariamente e assim como poderá ser impedido de participar de qualquer projeto apoiado pelo Fundo pelo período de até 04 (quatro) anos após o cumprimento dessas obrigações.
+
+
+Art. 20.
+
+Serão aplicadas ao Fundo as normais legais de controle, prestação e tomada de contas estabelecidas pelos órgãos de controle interno da Prefeitura Municipal de Clevelândia, sem prejuízo da competência específica do Tribunal de Contas do Estado.
+
+
+Art. 21.
+
+Através de certames públicos poderão ser contemplados projetos inovadores, que tenham como objetivo resultado de impacto para o desenvolvimento econômico, social e ambiental do município.
+
+
+Art. 22.
+
+São condições para celebração de convênio, termo de cooperação, acordo de cooperação ou subvenção o atendimento às disposições legais, aplicáveis aos referidos instrumentos.
+
+
+Art. 23.
+
+É vedada a celebração de convênios, termos de parceria ou acordos de cooperação ou outros instrumentos contratuais com entidades que tenham como dirigentes, proprietários ou controladores:
+
+
+I –
+
+membros dos Poderes Executivo, Legislativo, Judiciário, do Ministério Público ou do Tribunal de Contas do Estado, bem como seus respectivos cônjuges, companheiros e parentes em linha reta, colateral ou por afinidade até o 3º grau;
+
+
+II –
+
+servidor público vinculado ao órgão ou entidade concedente, bem como seus respectivos cônjuges, companheiros e parentes em linha reta, colateral ou por afinidade até o 3º grau; e
+
+
+III –
+
+com entidades públicas ou privadas cujo objeto social não se relacione às características do programa ou que não comprovem dispor de condições técnicas para executar o objeto do convênio, acordo de cooperação, termo de parceria ou instrumento contratual aplicável.
+
+
+Parágrafo único
+
+Para fins de contratação e execução do objeto conveniado, é possível o consórcio de instituições de pesquisa e desenvolvimento e empresas, de direito público ou privado, sendo o repasse de recursos a todos os partícipes executores, realizado conforme previsto no plano de trabalho.
+
+
+Art. 24.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Art. 25.
+
+Revogam-se as disposições em contrário.
+
+
+**GABINETE DA PREFEITA MUNICIPAL DE CLEVELÂNDIA, ESTADO DO PARANÁ, EM 17 DE OUTUBRO DE 2023.**
+
+**Rafaela Martins Losi**
+
+Prefeita Municipal
+

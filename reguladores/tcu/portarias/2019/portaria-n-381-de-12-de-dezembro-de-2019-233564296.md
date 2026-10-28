@@ -1,0 +1,48 @@
+---
+titulo: "PORTARIA Nº 381, DE 12 DE DEZEMBRO DE 2019"
+orgao: "Tribunal de Contas da União/Gabinete do Presidente"
+tipo: "Portaria"
+numero: "381"
+data: 2019-12-12
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 16/12/2019, seção 1, p. 491"
+data_publicacao: 2019-12-16
+edicao: "242"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-381-de-12-de-dezembro-de-2019-233564296"
+sha256_html_fonte: 7b82c088a3dabe4628bc733d2bfe9a4caa9ef30436fef535abdbb059b0c6f760
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 381, DE 12 DE DEZEMBRO DE 2019
+
+PORTARIA Nº 381, DE 12 DE DEZEMBRO DE 2019
+
+Abre, ao Orçamento da Seguridade Social, em favor do Tribunal de Contas da União, crédito suplementar no valor de R$ 11.300.000,00 (onze milhões e trezentos mil reais) para reforço de dotações constantes da lei orçamentária vigente, bem como altera a Portaria-TCU nº 72, de 11 de fevereiro de 2019, que aprova o Cronograma Anual de Desembolso Mensal, nos termos do art. 58 da Lei nº 13.707, de 14 de agosto de 2018 (LDO).
+
+O PRESIDENTE DO TRIBUNAL DE CONTAS DA UNIÃO, no uso da atribuição que lhe é conferida pelo art. 28, incisos XXXIV e XXXIX do Regimento Interno do TCU, e tendo em vista o art. 47, § 1º, inciso I da Lei nº 13.707, de 14 de agosto de 2018 (LDO), combinado com o art. 4º, caput, inciso II, alínea "a", item "1" da Lei nº 13.808, de 15 de janeiro de 2019 (LOA), o art. 8º, da Lei Complementar nº 101, de 4 de maio de 2000 (LRF) e as disposições contidas na Portaria SOF nº 1.144, de 7 de fevereiro de 2019, resolve:
+
+**Art. 1º** Fica aberto, ao Orçamento da Seguridade Social, em favor do Tribunal de Contas da União, crédito adicional suplementar no valor de R$ 11.300.000,00 (onze milhões e trezentos mil reais) para atender à programação exposta no Anexo I desta Portaria.
+
+**Art. 2º** Os créditos necessários à execução do disposto no art. 1º decorrerão da anulação parcial de dotação orçamentária constante do Anexo II desta Portaria.
+
+**Art. 3º** O Anexo Único da Portaria-TCU nº 72, de 11 de fevereiro de 2019, passa a vigorar na forma do Anexo III desta Portaria, em decorrência da ampliação de empenho e movimentação financeira autorizada por meio da Portaria-TCU nº 343, de 21 de outubro de 2019.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+JOSÉ MUCIO MONTEIRO
+
+## ANEXO
+
+<table><tr></tr><tr><td><p>ÓRGÃO: 03000 - Tribunal de Contas da União</p></td></tr><tr><td><p>UNIDADE: 03101 - Tribunal de Contas da União</p></td></tr><tr><td><p>ANEXO I</p></td><td><p>Crédito Suplementar</p></td></tr><tr><td><p>PROGRAMA DE TRABALHO ( SUPLEMENTAÇÃO )</p></td><td><p>Recurso de Todas as Fontes R$ 1,00</p></td></tr><tr><td><p>FUNC</p></td><td><p>PROGRAMÁTICA</p></td><td><p>PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO</p></td><td><p>E</p><p>S</p><p>F</p></td><td><p>G</p><p>N</p><p>D</p></td><td><p>R</p><p>P</p></td><td><p>M</p><p>O</p><p>D</p></td><td><p>I</p><p>U</p></td><td><p>F</p><p>T</p><p>E</p></td><td><p>VALOR</p></td></tr><tr><td><p>0089</p></td><td><p>Previdência de Inativos e Pensionistas da União</p></td><td><p>5.000.000</p></td></tr><tr><td><p></p></td><td><p></p></td><td><p>Operações Especiais</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>09 272</p></td><td><p>0089 0181</p></td><td><p>Aposentadorias e Pensões Civis da União</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>5.000.000</p></td></tr><tr><td><p>09 272</p></td><td><p>0089 0181 0001</p></td><td><p>Aposentadorias e Pensões Civis da União - Nacional</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>5.000.000</p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p>S</p></td><td><p>1</p></td><td><p>1</p></td><td><p>90</p></td><td><p>0</p></td><td><p>100</p></td><td><p>5.000.000</p></td></tr><tr><td><p>0550</p></td><td><p>Controle Externo</p></td><td><p>6.300.000</p></td></tr><tr><td><p></p></td><td><p></p></td><td><p>Atividades</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>01 301</p></td><td><p>0550 2004</p></td><td><p>Assistência Médica e Odontológica aos Servidores Civis, Empregados, Militares e seus Dependentes</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>6.300.000</p></td></tr><tr><td><p>01 301</p></td><td><p>0550 2004 0001</p></td><td><p>Assistência Médica e Odontológica aos Servidores Civis, Empregados, Militares e seus Dependentes - Nacional</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>6.300.000</p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p>S</p></td><td><p>3</p></td><td><p>1</p></td><td><p>90</p></td><td><p>0</p></td><td><p>100</p></td><td><p>6.300.000</p></td></tr><tr><td><p>TOTAL - FISCAL</p></td><td><p>0</p></td></tr><tr><td><p>TOTAL - SEGURIDADE</p></td><td><p>11.300.000</p></td></tr><tr><td><p>TOTAL - GERAL</p></td><td><p>11.300.000</p></td></tr><tr><td></td><td><p></p></td></tr><tr><td><p>ÓRGÃO: 03000 - Tribunal de Contas da União</p></td></tr><tr><td><p>UNIDADE: 03101 - Tribunal de Contas da União</p></td></tr><tr><td><p>ANEXO II</p></td><td><p>Crédito Suplementar</p></td></tr><tr><td><p>PROGRAMA DE TRABALHO ( CANCELAMENTO )</p></td><td><p>Recurso de Todas as Fontes R$ 1,00</p></td></tr><tr><td><p>FUNC</p></td><td><p>PROGRAMÁTICA</p></td><td><p>PROGRAMA/AÇÃO/LOCALIZADOR/PRODUTO</p></td><td><p>E</p><p>S</p><p>F</p></td><td><p>G</p><p>N</p><p>D</p></td><td><p>R</p><p>P</p></td><td><p>M</p><p>O</p><p>D</p></td><td><p>I</p><p>U</p></td><td><p>F</p><p>T</p><p>E</p></td><td><p>VALOR</p></td></tr><tr><td><p>0550</p></td><td><p>Controle Externo</p></td><td><p>11.300.000</p></td></tr><tr><td><p></p></td><td><p></p></td><td><p>Atividades</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p>01 122</p></td><td><p>0550 20TP</p></td><td><p>Ativos Civis da União</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>5.000.000</p></td></tr><tr><td><p>01 122</p></td><td><p>0550 20TP 0001</p></td><td><p>Ativos Civis da União - Nacional</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>5.000.000</p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p>F</p></td><td><p>1</p></td><td><p>1</p></td><td><p>90</p></td><td><p>0</p></td><td><p>100</p></td><td><p>5.000.000</p></td></tr><tr><td><p>01 331</p></td><td><p>0550 212B</p></td><td><p>Benefícios Obrigatórios aos Servidores Civis, Empregados, Militares e seus Dependentes</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>6.300.000</p></td></tr><tr><td><p>01 331</p></td><td><p>0550 212B 0001</p></td><td><p>Benefícios Obrigatórios aos Servidores Civis, Empregados, Militares e seus Dependentes - Nacional</p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p></p></td><td><p>6.300.000</p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td><td><p>F</p></td><td><p>3</p></td><td><p>1</p></td><td><p>90</p></td><td><p>0</p></td><td><p>100</p></td><td><p>6.300.000</p></td></tr><tr><td><p>TOTAL - FISCAL</p></td><td><p>11.300.000</p></td></tr><tr><td><p>TOTAL - SEGURIDADE</p></td><td><p>0</p></td></tr><tr><td><p>TOTAL - GERAL</p></td><td><p>11.300.000</p></td></tr><tr><td></td><td><p></p></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>
+
+## ANEXO III
+
+"ANEXO ÚNICO DA PORTARIA-TCU Nº 72, DE 11 DE FEVEREIRO DE 2019.
+
+03000 - TRIBUNAL DE CONTAS DA UNIÃO
+
+Em Reais
+
+<table><tr></tr><tr><td><p>Mês</p></td><td><p>Pessoal e Encargos Sociais</p></td><td><p>Outras Despesas Correntes e Capital</p></td><td><p>Total Mensal</p></td></tr><tr><td><p>Janeiro</p></td><td><p>157.949.211,00</p></td><td><p>6.719.458,00</p></td><td><p>164.668.669,00</p></td></tr><tr><td><p>Fevereiro</p></td><td><p>157.949.211,00</p></td><td><p>29.444.082,00</p></td><td><p>187.393.293,00</p></td></tr><tr><td><p>Março</p></td><td><p>157.949.211,00</p></td><td><p>24.507.324,00</p></td><td><p>182.456.535,00</p></td></tr><tr><td><p>Abril</p></td><td><p>162.393.656,00</p></td><td><p>24.879.047,00</p></td><td><p>187.272.703,00</p></td></tr><tr><td><p>Maio</p></td><td><p>162.393.656,00</p></td><td><p>24.879.047,00</p></td><td><p>187.272.703,00</p></td></tr><tr><td><p>Junho</p></td><td><p>181.473.462,00</p></td><td><p>24.878.816,00</p></td><td><p>206.352.278,00</p></td></tr><tr><td><p>Julho</p></td><td><p>159.213.688,00</p></td><td><p>24.878.816,00</p></td><td><p>184.092.504,00</p></td></tr><tr><td><p>Agosto</p></td><td><p>159.213.688,00</p></td><td><p>24.878.479,00</p></td><td><p>184.092.167,00</p></td></tr><tr><td><p>Setembro</p></td><td><p>159.213.688,00</p></td><td><p>24.878.477,00</p></td><td><p>184.092.165,00</p></td></tr><tr><td><p>Outubro</p></td><td><p>165.380.354,00</p></td><td><p>18.714.893,00</p></td><td><p>184.095.247,00</p></td></tr><tr><td><p>Novembro</p></td><td><p>165.380.354,00</p></td><td><p>18.714.893,00</p></td><td><p>184.095.247,00</p></td></tr><tr><td><p>Dezembro</p></td><td><p>165.380.319,00</p></td><td><p>28.731.043,00</p></td><td><p>194.111.362,00</p></td></tr><tr><td><p>Total</p></td><td><p>1.953.890.498,00</p></td><td><p>276.104.375,00</p></td><td><p>2.229.994.873,00</p></td></tr></table>
+
+"

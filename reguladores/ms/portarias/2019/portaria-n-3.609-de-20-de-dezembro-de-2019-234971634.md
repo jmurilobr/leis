@@ -1,0 +1,58 @@
+---
+titulo: "PORTARIA Nº 3.609, DE 20 DE DEZEMBRO DE 2019"
+orgao: "Ministério da Saúde/Gabinete do Ministro"
+tipo: "Portaria"
+numero: "3609"
+data: 2019-12-20
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 23/12/2019, seção 1, p. 189"
+data_publicacao: 2019-12-23
+edicao: "247"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-3.609-de-20-de-dezembro-de-2019-234971634"
+sha256_html_fonte: 06da030d40e2805db85cdf8000a2aaba168d78ccaca2dc2ed877c435a9c88be6
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 3.609, DE 20 DE DEZEMBRO DE 2019
+
+PORTARIA Nº 3.609, DE 20 DE DEZEMBRO DE 2019
+
+Altera os valores do Piso Fixo de Vigilância em Saúde (PFVS) alocados no Grupo de Vigilância em Saúde do Bloco de Custeio das Ações e Serviços Públicos de Saúde do Estado do Amazonas e de seus Municípios.
+
+O SECRETÁRIO EXECUTIVO DO MINISTÉRIO DA SAÚDE, no uso da competência de Ministro de Estado que lhe foi delegada pela Portaria 1.025/GM/MS de 18 de abril de 2018, e no uso das atribuições que lhe conferem os incisos I e II do parágrafo único do art. 87 da Constituição, e
+
+Considerando o Decreto nº 1.232, de 30 de agosto de 1994, que dispõe sobre as condições e a forma de repasse, regular e automático, de recursos do Fundo Nacional de Saúde para os fundos de saúde estaduais, municipais e do Distrito Federal, e dá outras providências;
+
+Considerando os arts. 1º a 16, do Anexo III da Portaria de Consolidação nº 4/GM/MS, de 28 de setembro de 2017, consolidação das normas sobre os sistemas e os subsistemas do SUS;
+
+Considerando a Portaria de Consolidação nº 6/GM/MS, de 28 de setembro de 2017, que consolida as normas sobre o financiamento e a transferência dos recursos federais para as ações e os serviços de saúde do Sistema Único de Saúde;
+
+Considerando a Portaria nº 3.992/GM/MS, de 28 de dezembro de 2017, que altera a Portaria de Consolidação nº 6/GM/MS, de 28 de setembro de 2017, para dispor sobre o financiamento e a transferência dos recursos federais para as ações e os serviços públicos de saúde do Sistema Único de Saúde;
+
+Considerando Portaria nº 2.663/GM/MS, de 9 de outubro de 2019, que define os valores anuais do Piso Fixo de Vigilância em Saúde (PFVS), do Grupo de Vigilância em Saúde do Bloco de Custeio das Ações e Serviços Públicos de Saúde destinados às Secretarias Estaduais, Distrital e Municipais de Saúde e dá outras providências; e
+
+Considerando a decisão da 11ª Reunião da Comissão Intergestores Tripartite-CIT, de 12 de dezembro de 2019, que acata a pactuação encaminhada pela Comissão Intergestores Bipartite (CIB) do Estado do Amazonas, constante à Resolução CIB nº 99, de 6 de novembro de 2019, quanto à distribuição dos valores do Piso Fixo de Vigilância em Saúde (PFVS), resolve:
+
+**Art. 1º** Ficam alterados os valores do Piso Fixo de Vigilância em Saúde (PFVS) alocados no Grupo de Vigilância em Saúde do Bloco de Custeio das Ações e Serviços Públicos de Saúde do Estado do Amazonas e de seus Municípios.
+
+**Art. 2º** Os valores do Piso Fixo de Vigilância em Saúde foram distribuídos conforme destinação homologada pela respectiva Comissão Intergestores Bipartite, disposta no Anexo I a esta Portaria.
+
+**Art. 3º** Ficam definidos que os valores anuais pactuados do Piso Fixo de Vigilância em Saúde, de acordo com o Anexo II a esta Portaria serão transferidos em parcelas mensais, correspondentes a 1/12 (um doze avos), para o Fundo Estadual e para os Fundos Municipais de Saúde.
+
+**Parágrafo único.** Quando a divisão por 1/12 (um doze avos) dos valores anuais de cada ente federativo, implicar em dízima, os valores serão truncados em duas casas decimais.
+
+**Art. 4º** Os valores anuais do Piso Fixo de Vigilância em Saúde definidos para o Estado e Municípios constantes desta Portaria totalizam o montante de R$ 40.478.398,43 (quarenta milhões, quatrocentos e setenta e oito mil trezentos e noventa e oito reais e quarenta e três centavos) conforme Anexo II.
+
+**Art. 5º** O Fundo Nacional de Saúde adotará as medidas necessárias para a transferência regular e automática das parcelas para os fundos estadual e municipais de saúde correspondentes.
+
+**Art. 6º** Os créditos orçamentários de que tratam a presente Portaria correrão por conta do orçamento do Ministério da Saúde, devendo onerar o Programa de Trabalho - 10.305.2015.20AL - Incentivo Financeiro aos Estados, Distrito Federal e Municípios para a Vigilância em Saúde - Plano Orçamentário 0000.
+
+**Parágrafo único.** Os recursos relativos ao estabelecimento consignado ao Programa de Trabalho de que trata o caput tem como finalidade o custeio de quaisquer ações e serviços de vigilância em saúde.
+
+**Art. 7º** Esta Portaria entra em vigor na data de sua publicação, com efeitos financeiros a partir de 1º de novembro de 2019.
+
+JOÃO GABBARDO DOS REIS
+
+<table><tr></tr><tr><td><p>ANEXO I</p></td></tr><tr><td><p>UF</p></td><td><p>Resolução CIB</p></td></tr><tr><td><p>AM</p></td><td><p>Resolução nº 99, de 6 de novembro de 2019</p></td></tr></table>
+
+<table><tr></tr><tr><td><p></p></td><td><p></p></td><td><p>ANEXO II</p></td><td><p></p></td></tr><tr><td><p>UF</p></td><td><p>CÓD. IBGE</p></td><td><p>ENTE FEDERATIVO</p></td><td><p>PFVS ANUAL (R$)</p></td></tr><tr><td><p>AM</p></td><td><p>130000</p></td><td><p>SES/AM</p></td><td><p>9.243.153,36</p></td></tr><tr><td><p>AM</p></td><td><p>130002</p></td><td><p>Alvarães</p></td><td><p>251.364,36</p></td></tr><tr><td><p>AM</p></td><td><p>130006</p></td><td><p>Amaturá</p></td><td><p>97.566,84</p></td></tr><tr><td><p>AM</p></td><td><p>130008</p></td><td><p>Anamã</p></td><td><p>102.464,16</p></td></tr><tr><td><p>AM</p></td><td><p>130010</p></td><td><p>Anori</p></td><td><p>140.766,12</p></td></tr><tr><td><p>AM</p></td><td><p>130014</p></td><td><p>Apuí</p></td><td><p>212.891,88</p></td></tr><tr><td><p>AM</p></td><td><p>130020</p></td><td><p>Atalaia do Norte</p></td><td><p>158.468,52</p></td></tr><tr><td><p>AM</p></td><td><p>130030</p></td><td><p>Autazes</p></td><td><p>406.315,80</p></td></tr><tr><td><p>AM</p></td><td><p>130040</p></td><td><p>Barcelos</p></td><td><p>216.456,12</p></td></tr><tr><td><p>AM</p></td><td><p>130050</p></td><td><p>Barreirinha</p></td><td><p>188.621,16</p></td></tr><tr><td><p>AM</p></td><td><p>130060</p></td><td><p>Benjamin Constant</p></td><td><p>288.063,12</p></td></tr><tr><td><p>AM</p></td><td><p>130063</p></td><td><p>Beruri</p></td><td><p>113.488,44</p></td></tr><tr><td><p>AM</p></td><td><p>130068</p></td><td><p>Boa Vista do Ramos</p></td><td><p>128.826,48</p></td></tr><tr><td><p>AM</p></td><td><p>130070</p></td><td><p>Boca do Acre</p></td><td><p>204.372,48</p></td></tr><tr><td><p>AM</p></td><td><p>130080</p></td><td><p>Borba</p></td><td><p>446.193,96</p></td></tr><tr><td><p>AM</p></td><td><p>130083</p></td><td><p>Caapiranga</p></td><td><p>96.408,00</p></td></tr><tr><td><p>AM</p></td><td><p>130090</p></td><td><p>Canutama</p></td><td><p>92.630,20</p></td></tr><tr><td><p>AM</p></td><td><p>130100</p></td><td><p>Carauari</p></td><td><p>197.508,84</p></td></tr><tr><td><p>AM</p></td><td><p>130110</p></td><td><p>Careiro</p></td><td><p>298.070,03</p></td></tr><tr><td><p>AM</p></td><td><p>130115</p></td><td><p>Careiro da Várzea</p></td><td><p>256.925,04</p></td></tr><tr><td><p>AM</p></td><td><p>130120</p></td><td><p>Coari</p></td><td><p>858.920,40</p></td></tr><tr><td><p>AM</p></td><td><p>130130</p></td><td><p>Codajás</p></td><td><p>166.345,66</p></td></tr><tr><td><p>AM</p></td><td><p>130140</p></td><td><p>Eirunepé</p></td><td><p>208.630,24</p></td></tr><tr><td><p>AM</p></td><td><p>130150</p></td><td><p>Envira</p></td><td><p>135.859,20</p></td></tr><tr><td><p>AM</p></td><td><p>130160</p></td><td><p>Fonte Boa</p></td><td><p>178.327,80</p></td></tr><tr><td><p>AM</p></td><td><p>130165</p></td><td><p>Guajará</p></td><td><p>97.707,22</p></td></tr><tr><td><p>AM</p></td><td><p>130170</p></td><td><p>Humaitá</p></td><td><p>544.541,88</p></td></tr><tr><td><p>AM</p></td><td><p>130180</p></td><td><p>Ipixuna</p></td><td><p>169.228,02</p></td></tr><tr><td><p>AM</p></td><td><p>130185</p></td><td><p>Iranduba</p></td><td><p>670.830,24</p></td></tr><tr><td><p>AM</p></td><td><p>130190</p></td><td><p>Itacoatiara</p></td><td><p>795.836,38</p></td></tr><tr><td><p>AM</p></td><td><p>130195</p></td><td><p>Itamarati</p></td><td><p>54.996,60</p></td></tr><tr><td><p>AM</p></td><td><p>130200</p></td><td><p>Itapiranga</p></td><td><p>92.911,44</p></td></tr><tr><td><p>AM</p></td><td><p>130210</p></td><td><p>Japurá</p></td><td><p>195.818,16</p></td></tr><tr><td><p>AM</p></td><td><p>130220</p></td><td><p>Juruá</p></td><td><p>94.674,00</p></td></tr><tr><td><p>AM</p></td><td><p>130230</p></td><td><p>Jutaí</p></td><td><p>278.513,76</p></td></tr><tr><td><p>AM</p></td><td><p>130240</p></td><td><p>Lábrea</p></td><td><p>268.268,78</p></td></tr><tr><td><p>AM</p></td><td><p>130250</p></td><td><p>Manacapuru</p></td><td><p>984.827,52</p></td></tr><tr><td><p>AM</p></td><td><p>130255</p></td><td><p>Manaquiri</p></td><td><p>240.869,34</p></td></tr><tr><td><p>AM</p></td><td><p>130260</p></td><td><p>Manaus</p></td><td><p>15.244.804,84</p></td></tr><tr><td><p>AM</p></td><td><p>130270</p></td><td><p>Manicoré</p></td><td><p>381.314,76</p></td></tr><tr><td><p>AM</p></td><td><p>130280</p></td><td><p>Maraã</p></td><td><p>110.815,38</p></td></tr><tr><td><p>AM</p></td><td><p>130290</p></td><td><p>Maués</p></td><td><p>433.617,60</p></td></tr><tr><td><p>AM</p></td><td><p>130300</p></td><td><p>Nhamundá</p></td><td><p>124.993,96</p></td></tr><tr><td><p>AM</p></td><td><p>130310</p></td><td><p>Nova Olinda do Norte</p></td><td><p>253.923,96</p></td></tr><tr><td><p>AM</p></td><td><p>130320</p></td><td><p>Novo Airão</p></td><td><p>226.401,48</p></td></tr><tr><td><p>AM</p></td><td><p>130330</p></td><td><p>Novo Aripuanã</p></td><td><p>235.650,60</p></td></tr><tr><td><p>AM</p></td><td><p>130340</p></td><td><p>Parintins</p></td><td><p>793.409,04</p></td></tr><tr><td><p>AM</p></td><td><p>130350</p></td><td><p>Pauini</p></td><td><p>180.359,40</p></td></tr><tr><td><p>AM</p></td><td><p>130353</p></td><td><p>Presidente Figueiredo</p></td><td><p>578.286,60</p></td></tr><tr><td><p>AM</p></td><td><p>130356</p></td><td><p>Rio Preto da Eva</p></td><td><p>286.837,08</p></td></tr><tr><td><p>AM</p></td><td><p>130360</p></td><td><p>Santa Isabel do Rio Negro</p></td><td><p>221.327,88</p></td></tr><tr><td><p>AM</p></td><td><p>130370</p></td><td><p>Santo Antônio do Içá</p></td><td><p>137.988,50</p></td></tr><tr><td><p>AM</p></td><td><p>130380</p></td><td><p>São Gabriel da Cachoeira</p></td><td><p>266.426,94</p></td></tr><tr><td><p>AM</p></td><td><p>130390</p></td><td><p>São Paulo de Olivença</p></td><td><p>227.521,06</p></td></tr><tr><td><p>AM</p></td><td><p>130395</p></td><td><p>São Sebastião do Uatumã</p></td><td><p>80.257,58</p></td></tr><tr><td><p>AM</p></td><td><p>130400</p></td><td><p>Silves</p></td><td><p>91.635,60</p></td></tr><tr><td><p>AM</p></td><td><p>130406</p></td><td><p>Tabatinga</p></td><td><p>380.537,30</p></td></tr><tr><td><p>AM</p></td><td><p>130410</p></td><td><p>Tapauá</p></td><td><p>116.648,64</p></td></tr><tr><td><p>AM</p></td><td><p>130420</p></td><td><p>Tefé</p></td><td><p>445.321,20</p></td></tr><tr><td><p>AM</p></td><td><p>130423</p></td><td><p>Tonantins</p></td><td><p>116.660,52</p></td></tr><tr><td><p>AM</p></td><td><p>130426</p></td><td><p>Uarini</p></td><td><p>80.299,44</p></td></tr><tr><td><p>AM</p></td><td><p>130430</p></td><td><p>Urucará</p></td><td><p>153.252,48</p></td></tr><tr><td><p>AM</p></td><td><p>130440</p></td><td><p>Urucurituba</p></td><td><p>132.445,04</p></td></tr><tr><td><p></p></td><td><p></p></td><td><p>TOTAL:</p></td><td><p>40.478.398,43</p></td></tr></table>

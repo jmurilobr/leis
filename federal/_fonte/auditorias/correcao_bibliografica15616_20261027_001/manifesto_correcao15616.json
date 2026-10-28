@@ -1,0 +1,73 @@
+{
+  "escopo": "Sucessor bibliográfico pontual solicitado por ROOT; nenhum canônico ou imagem alterado pelo agente.",
+  "path": "federal/decretos/1944/dec-15616-1944-05-19.md",
+  "HEAD": "15b4b0a5114c0946a7c523d0cec5524be3364477",
+  "sha256_preimagem_HEAD": "fb5251eb096fa8dcd6e6b587b08aa10134492b0f65c779a81d19a1a08512f524",
+  "preimagem_arquivada": "federal/_fonte/auditorias/correcao_bibliografica15616_20261027_001/preimagem_HEAD_dec15616.md",
+  "candidato": "federal/_fonte/auditorias/correcao_bibliografica15616_20261027_001/dec-15616-1944-05-19-volume-IV.md",
+  "sha256_candidato": "6cfa89f3b932b5f28bce235eb4b31873a1bf3f6b710976b6191cc61f5febd8d7",
+  "alteracao_exata": {
+    "literal_anterior": "volume VI",
+    "literal_final": "volume IV",
+    "ocorrencias": 3,
+    "lugares": "Uma versão editorial no YAML e duas legendas alternativas das imagens. Nenhum texto normativo, data, link de imagem ou pixel foi alterado."
+  },
+  "fonte": {
+    "url": "https://bd.camara.leg.br/bd/bitstreams/4be6a61c-abe5-44ef-850e-0bf6d5a68458/download",
+    "path_publicado": "federal/_fonte/auditorias/clbr_fontes_20261027_002/1944-decretos.pdf",
+    "sha256": "0121bbf0f93a4056977babdbe9f423bee9d9cbb91000db47e804104831569d87",
+    "OID_blob_HEAD": "e3921666e669ec255ff91069c00417e6bf3be4f5",
+    "bytes": 90931199,
+    "captura": "2026-10-27"
+  },
+  "prova_visual": {
+    "folha_rosto_PDF": 770,
+    "leitura_literal": "COLEÇÃO DAS LEIS DE 1944 — VOLUME IV — ATOS DO PODER EXECUTIVO — DECRETOS DE ABRIL A JUNHO (1.ª PARTE)",
+    "vinculo": "Folha de rosto e páginas PDF 1161–1162 pertencem ao mesmo arquivo anual por SHA/OID, já publicado. As páginas do ato têm numeração impressa 341–342. O marcador Normas anterior aponta Vol. 04, em concordância.",
+    "visto_pelo_agente": true
+  },
+  "provas": [
+    {
+      "path": "federal/_fonte/auditorias/correcao_bibliografica15616_20261027_001/folha-rosto-pdf770.png",
+      "sha256": "930c0767ccddefb60a17df28cac9f27cb85729ecb2673eff928238d89f19927a",
+      "pagina_PDF": 770,
+      "pagina_impressa": null,
+      "mesmo_PDF_sha256": "0121bbf0f93a4056977babdbe9f423bee9d9cbb91000db47e804104831569d87"
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_fontes_20261027_002/render15616/pagina-1161.png",
+      "sha256": "bb090a4ceb685cf3e0bdb4136b103f12dcfad7ec34b4026fc10e3736fd2614f5",
+      "pagina_PDF": 1161,
+      "pagina_impressa": 341,
+      "mesmo_PDF_sha256": "0121bbf0f93a4056977babdbe9f423bee9d9cbb91000db47e804104831569d87"
+    },
+    {
+      "path": "federal/_fonte/auditorias/clbr_fontes_20261027_002/render15616/pagina-1162.png",
+      "sha256": "c7604aa6d8fcb90bbe64e258b3c898a97c1534d9c571bc30174edfabde4ffcf2",
+      "pagina_PDF": 1162,
+      "pagina_impressa": 342,
+      "mesmo_PDF_sha256": "0121bbf0f93a4056977babdbe9f423bee9d9cbb91000db47e804104831569d87"
+    }
+  ],
+  "imagens_canonicas_inalteradas": [
+    {
+      "path": "federal/anexos/decretos/1944/dec-15616-1944-05-19-principal.png",
+      "sha256": "1b2dfd650434c181771588aa088f0cf2abea3170b59d249ef30c3163fc81b8b9",
+      "nenhuma_alteracao": true
+    },
+    {
+      "path": "federal/anexos/decretos/1944/dec-15616-1944-05-19-tabela.png",
+      "sha256": "c7604aa6d8fcb90bbe64e258b3c898a97c1534d9c571bc30174edfabde4ffcf2",
+      "nenhuma_alteracao": true
+    }
+  ],
+  "predecessor_privado_preservado": {
+    "path": "federal/_fonte/auditorias/clbr_fontes_20261027_002/dec-15616-1944-05-19-clbr_facs.md",
+    "sha256": "fb5251eb096fa8dcd6e6b587b08aa10134492b0f65c779a81d19a1a08512f524"
+  },
+  "formato": {
+    "erros": [],
+    "avisos": []
+  },
+  "limites": "ROOT confere e promove somente a substituição bibliográfica. Contagem e pendência não se alteram. O candidato e recibos anteriores ficam preservados como histórico."
+}

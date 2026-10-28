@@ -1,0 +1,43 @@
+---
+titulo: "CONVÊNIO ICMS Nº 19, DE 27 DE JANEIRO DE 2026"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "19"
+data: "2026-01-27"
+revogada: null
+versao_texto: "Texto e notas oficiais do portal CONFAZ conforme a captura; sem certificação de vigência."
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV019_26"
+sha256_html_fonte: "41cf93d2b9e1f7e28329e59ff74bd9c76ab861a5e3603bbf5e0bca923a8805c0"
+sha256_texto: "ca128fbc5e10204488716921d0c1baffe8a9e644788c376a6ffa71ec09dbf288"
+baixado_em: "2026-10-27"
+representacao_corpo: "html-nativo-confaz-piloto-v1"
+observacao_captura: "timestamp original do cliente com fuso, convertido para America/Recife"
+observacao_efeitos: "Condições de ratificação e produção de efeitos preservadas literalmente. Nenhuma data de vigência calculada."
+publicacao_fonte: "Publicado no DOU de 29.01.26, pelo despacho 04/26. | Ratificação Nacional no DOU de 19.02.26, pelo Ato Declaratório 04/26. | "
+---
+# CONVÊNIO ICMS Nº 19, DE 27 DE JANEIRO DE 2026
+
+<div id="parent-fieldname-text"><p class="A1-1TituloAcordo">CONVÊNIO ICMS Nº 19, DE 27 DE JANEIRO DE 2026</p>
+<p class="A2DataPublicacao">Publicado no DOU de 29.01.26, pelo despacho <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/despacho/2026/dp004_26" target="_self" title="despacho 4/26">04/26</a>.</p>
+<p class="A2DataPublicacao"><span>Ratificação Nacional no DOU de 19.02.26, pelo Ato Declaratório </span><a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/atos-declaratorios/2026/ad004_26" target="_self" title="ato declaratório 4/26">04/26.</a></p>
+<p></p>
+<p class="A2DataPublicacao"></p>
+<p class="A3Ementa">Dispõe sobre a exclusão do Estado de São Paulo, prorroga e altera o Convênio ICMS nº 1, de 6 de fevereiro de 2013, que autoriza a concessão de isenção do ICMS em operações com obras de arte na Feira Internacional de Arte do Rio de Janeiro (ArtRio) e na Feira Internacional de Arte de São Paulo (SP Arte).</p>
+<p class="A5-1TextoAcordo"><b>O</b> <b>Conselho Nacional de Política Fazendária – CONFAZ,</b> na sua 418ª Reunião Extraordinária, realizada em Brasília, DF, no dia 27 de janeiro de 2026, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte</p>
+<p class="A4AcordoTipo">CONVÊNIO</p>
+<p class="A5-1TextoAcordo"><b>Cláusula primeira</b> As disposições do <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV001_13" target="_self" title="convenio icms 1/13">Convênio ICMS nº 1, de 6 de fevereiro de 2013</a>, publicado no Diário Oficial da União no dia 8 de fevereiro de 2013, ficam prorrogados até 31 de dezembro de 2026.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula segunda </b>O Estado de São Paulo fica excluído das disposições do <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV001_13" target="_self" title="convenio icms 1/13">Convênio ICMS nº 1/13</a>.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula terceira</b> Os dispositivos abaixo do <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV001_13" target="_self" title="convenio icms 1/13">Convênio ICMS nº 1/13</a>, passam a vigorar com as seguintes redações:</p>
+<p class="A5-1TextoAcordo">I – a ementa:</p>
+<p class="A5-2NovaRedacao">“Autoriza a concessão de isenção do ICMS em operações com obras de arte na Feira Internacional de Arte do Rio de Janeiro (ArtRio).”;</p>
+<p class="A5-1TextoAcordo">II – a cláusula primeira:</p>
+<p class="A5-2NovaRedacao">“Cláusula primeira Os Estados de Minas Gerais e Rio de Janeiro ficam autorizados a conceder isenção do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS:</p>
+<p class="A5-2NovaRedacao">I - na importação e nas saídas de obras de arte destinadas à comercialização na Feira Internacional de Arte do Rio de Janeiro (ArtRio);</p>
+<p class="A5-2NovaRedacao">II - na comercialização de obras de arte na Feira Internacional de Arte do Rio de Janeiro (ArtRio) a serem realizadas em cada ano, por um período de, no máximo, 10 (dez) dias.</p>
+<p class="A5-2NovaRedacao">§ 1º O disposto no inciso II desta cláusula aplica-se estritamente às operações internas efetuadas nos períodos das respectivas feiras.</p>
+<p class="A5-2NovaRedacao">§ 2º A isenção prevista nesta cláusula fica limitada à importância de R$ 3.000.000,00 (três milhões de reais) por obra.”;</p>
+<p class="A5-1TextoAcordo">III – a cláusula segunda:</p>
+<p class="A5-2NovaRedacao">“Cláusula segunda Nas operações com obras de arte cujo valor unitário seja superior ao estabelecido no § 2º da cláusula primeira, ficam autorizados a reduzir a base de cálculo do ICMS, de forma que a carga tributária seja equivalente a aplicação de 5% (cinco por cento) sobre:</p>
+<p class="A5-2NovaRedacao">I - o valor das operações internas ou de importação, para o Estado do Rio de Janeiro;</p>
+<p class="A5-2NovaRedacao">II - o valor das operações interestaduais ou de importação, para o Estado de Minas Gerais, quando destinadas a Feira Internacional de Arte do Rio de Janeiro (ArtRio) localizada no Estado do Rio de Janeiro.”.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula quarta </b>Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos a partir de 1º de maio de 2026.</p></div>

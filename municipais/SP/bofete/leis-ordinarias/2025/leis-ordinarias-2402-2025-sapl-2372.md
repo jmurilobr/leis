@@ -1,0 +1,169 @@
+---
+titulo: "Lei Ordinária nº 2.402, de 26 de maio de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2402"
+data: "2025-05-26"
+municipio: "Bofete"
+uf: "SP"
+codigo_ibge: "3506904"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bofete.sp.leg.br/norma/2372"
+fonte_texto: "https://sapl.bofete.sp.leg.br/ta/81/text"
+sha256_fonte: "0925bec65e66c5ec86479ada34b9f29c84f0dac74925c84ede64e9e8bdb4ab63"
+sha256_texto: "88c0fb4a24084bab7d38dc58fdf83ecaa8034e8b6637cc84242c98b0606dff20"
+capturado_em_fonte: "2026-10-27T19:10:56.851138-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.402, de 26 de maio de 2025
+
+DISPÕE SOBRE O PROGRAMA: TURISMO PEDAGÓGICO NAS ESCOLAS DA REDE PÚBLICA MUNICIPAL DE BOFETE/SP E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+EUGENIO CARLOS ALVES, Prefeito do Município de Bofete, Estado de São Paulo, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte lei:
+
+
+Art. 1º.
+
+Fica criado no Município de Bofete/SP, o Programa denominado "Turismo Pedagógico" voltado aos alunos da Rede Pública Municipal com a finalidade de promover atividades extraclasses, no intuito de que eles tenham acesso ao acervo cultural, artístico e turístico das regiões.
+
+
+Parágrafo único
+
+Para os fins desta Lei, considera-se Turismo Pedagógico uma modalidade de viagem que busca combinar o lazer com a aprendizagem, proporcionando experiências educacionais extraclasse significativas através da inserção do aluno em diferentes áreas do conhecimento alinhando o conteúdo transmitido em sala de aula com a prática.
+
+
+Art. 2º.
+
+O Programa Turismo Pedagógico tem por finalidade possibilitar a ampliação do conhecimento dos alunos por meio de visitas a polos industriais, polos turísticos, áreas ambientais ecológicas, áreas rurais, parques arqueológicos, museus, cinemas, centros culturais e outros locais cuja visitação possa contribuir para a formação integral do estudante, de acordo com a proposta pedagógica da escola.
+
+
+Art. 3º.
+
+O Programa Turismo Pedagógico tem, dentre outros, os seguintes objetivos:
+
+
+I –
+
+fortalecer a educação desenvolvendo a aprendizagem ativa dos alunos;
+
+
+II –
+
+promover o desenvolvimento cultural dos alunos;
+
+
+III –
+
+promover o turismo sustentável.
+
+
+Art. 4º.
+
+Para a implementação do Programa Turismo Pedagógico, as instituições de ensino organizarão roteiros de alunos aos locais de visitação.
+
+
+Art. 5º.
+
+Cada escola da Rede Municipal de Ensino deverá prever em seu calendário letivo anual, pelo menos uma vez, a realização de visita pedagógica no local de interesse, relacionado à sua proposta pedagógica, sempre sob a supervisão do corpo docente da instituição de ensino.
+
+
+Art. 6º.
+
+Consideram-se relevantes para visitação no Programa Turismo Pedagógico:
+
+
+I –
+
+Praias e trilhas;
+
+
+II –
+
+Museus;
+
+
+III –
+
+Centro histórico;
+
+
+IV –
+
+Monumentos históricos ou culturais, tais como pontes, praças, estátuas etc;
+
+
+V –
+
+Edificações históricas ou antigas;
+
+
+VI –
+
+Fortalezas e sítios arqueológicos;
+
+
+VII –
+
+Cinema e;
+
+
+VIII –
+
+Áreas rurais.
+
+
+Parágrafo único
+
+As visitas aos elementos turísticos deverão ser complementadas com informações culturais e históricas visando proporcionar melhor aprendizado aos alunos.
+
+
+Art. 7º.
+
+As unidades escolares poderão organizar visitas virtuais aos pontos turísticos, utilizando-se de ferramentas tecnológicas que proporcionem experiências educacionais, culturais e artísticas.
+
+
+Art. 8º.
+
+As atividades do Programa Turismo Pedagógico deverão priorizar o fortalecimento da cultura local de cada região da cidade, bem como os elementos da colonização do município.
+
+
+Art. 9º.
+
+As visitas poderão ser patrocinadas, totalmente ou parcialmente, por acordos celebrados entre os órgãos e entidades públicas e privadas para apoiar a realização das atividades previstas nesta Lei.
+
+
+Art. 10.
+
+Para execução do Programa, o Poder Executivo poderá utilizar, de forma complementar, serviços de transporte terceirizados, caso a frota própria esteja indisponível.
+
+
+Art. 11.
+
+Caberão aos Gestores das Unidades Escolares promoverem o planejamento anual das viagens enquadradas como parte do Programa Turismo Pedagógico.
+
+
+Art. 12.
+
+Havendo disponibilidade financeira, fica o Poder Executivo Municipal autorizado a estender a Programa aos alunos matriculados na Rede Estadual de Ensino do Município de Bofete.
+
+
+Art. 13.
+
+O Poder Executivo Municipal regulamentará esta Lei, no que for necessário à sua aplicação.
+
+
+Art. 14.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Bofete, 26 de maio de 2025.  
+  
+EUGENIO CARLOS ALVES  
+PREFEITO MUNICIPAL
+

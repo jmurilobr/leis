@@ -1,0 +1,75 @@
+---
+titulo: "Decreto nº 17.923, de 18 de fevereiro de 2022"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "17.923"
+data: "2022-02-18"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/15552"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/8840/text"
+sha256_fonte: "6f8cc25c13fa117085abca04e07a449ded2465962e1ccdc77c37ee3cdc6c8aba"
+sha256_texto: "fbba3469b5a0d1d205e03f4205ca8fc0fc7173902c74c672e47fc797ada59e55"
+capturado_em_fonte: "2026-10-21T06:52:25.507153-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto nº 17.923, de 18 de fevereiro de 2022
+
+Abre no Orçamento Anual do Município de Porto Velho Crédito Adicional Suplementar, e dá outras providências.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, amparado pelo Art. 6° da Lei nº 2.903 de 20 de dezembro de 2021, a fim de proceder as adequações orçamentárias no exercício 2022, D E C R E T A:
+
+
+Art. 1º.
+
+Fica aberto no Orçamento Anual do Município de Porto Velho o Crédito Adicional Suplementar no valor de R$ 300.000,00 (trezentos mil reais).
+
+
+Art. 2º.
+
+Os recursos necessários à execução do disposto no artigo anterior decorrerão de anulação da dotação orçamentária, observando os preceitos do Inciso III, parágrafo 1° do Art. 43, da Lei n.° 4.320 de 17 de março de 1964, na sequência detalhada:
+
+<table><tbody><tr><td colspan="7"><p><strong>15.00 – SECRETARIA MUNICIPAL DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO - SEMAGRIC</strong></p></td></tr><tr><td colspan="7"><p><strong>15.01 – SECRETARIA MUNICIPAL DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO - SEMAGRIC</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>ANULA</strong></p><p><strong>R$</strong></p></td><td><p><strong>SUPLEMENTA</strong></p><p><strong>R$</strong></p></td></tr><tr><td rowspan="2"><p>15.01.20.122.007.2.001</p></td><td rowspan="2"><p>Administração da Unidade</p></td><td rowspan="2"><p>FIS</p></td><td><p>3.3.90.14</p></td><td><p>1.500</p></td><td><p>50.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.3.90.93</p></td><td><p>1.500</p></td><td><p>-</p></td><td><p>50.000,00</p></td></tr><tr><td rowspan="2"><p>15.01.20.122.167.2.595</p></td><td rowspan="2"><p>Combate a comercialização de produtos não</p><p>cadastrados no sistema de inspeção</p></td><td rowspan="2"><p>FIS</p></td><td><p>3.3.90.14</p></td><td><p>1.500</p></td><td><p>20.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.3.90.93</p></td><td><p>1.500</p></td><td><p>-</p></td><td><p>20.000,00</p></td></tr><tr><td rowspan="2"><p>15.01.20.782.240.2.643</p></td><td rowspan="2"><p>Conservação de Rodovias Vicinais</p></td><td rowspan="2"><p>FIS</p></td><td><p>3.3.90.14</p></td><td><p>1.500</p></td><td><p>200.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.3.90.93</p></td><td><p>1.500</p></td><td><p>-</p></td><td><p>200.000,00</p></td></tr><tr><td rowspan="2"><p>15.01.20.608.340.2.641</p></td><td rowspan="2"><p>Promover o Desenvolvimento das Cadeias</p><p>Produtivas da Agropecuária Familiar</p></td><td rowspan="2"><p>FIS</p></td><td><p>3.3.90.14</p></td><td><p>1.500</p></td><td><p>20.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.3.90.93</p></td><td><p>1.500</p></td><td><p>-</p></td><td><p>20.000,00</p></td></tr><tr><td rowspan="2"><p>15.01.20.692.340.2.642</p></td><td rowspan="2"><p>Promover a Aquisição de Alimentos direto</p><p>pela Prefeitura (PMAA)</p></td><td rowspan="2"><p>FIS</p></td><td><p>3.3.90.14</p></td><td><p>1.709</p></td><td><p>10.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.3.90.93</p></td><td><p>1.709</p></td><td><p>-</p></td><td><p>10.000,00</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>300.000,00</strong></p></td><td><p><strong>300.000,00</strong></p></td></tr><tr><td colspan="4" rowspan="2"><p><strong>TOTAL POR FONTES DE RECURSOS</strong></p></td><td><p><strong>1.500</strong></p></td><td><p><strong>290.000,00</strong></p></td><td><p><strong>290.000,00</strong></p></td></tr><tr><td><p><strong>1.709</strong></p></td><td><p><strong>10.000,00</strong></p></td><td><p><strong>10.000,00</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>300.000,00</strong></p></td><td><p><strong>300.000,00 </strong></p></td></tr></tbody></table>
+
+
+Art. 3º.
+
+A anulação de dotação orçamentária de que trata o artigo 2º, ocorrerá no âmbito da mesma categoria de programação e unidade orçamentária, com permuta de recursos entre elementos de despesas, não acarretando mudança na ação de Governo.
+
+
+Art. 4º.
+
+Fica alterado o cronograma de execução mensal de desembolso (cotas orçamentárias), estabelecido pelo Decreto n.° 17.852 de 20.12.2021 e o Detalhamento da Despesa, estabelecido pelo Decreto n.º 17.853 de 20.12.2021.
+
+
+Art. 5º.
+
+Este Decreto entra em vigor a partir da data de sua publicação.
+
+
+Art. 6º.
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto do Município
+

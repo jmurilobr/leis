@@ -1,0 +1,50 @@
+---
+titulo: "Lei nº 1.897, de 19 de maio de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1897"
+data: "2023-05-19"
+municipio: "Cunha"
+uf: "SP"
+codigo_ibge: "3513603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cunha.sp.leg.br/norma/2126"
+fonte_texto: "https://sapl.cunha.sp.leg.br/ta/122/text"
+sha256_fonte: "48af36caf079025f6b333358ef01f33f653f4810bbf97d8d000fd708880e8802"
+sha256_texto: "acc0657cb55dd4a073328c0c426bfa3016218a3a684de052ea18811025d07369"
+capturado_em_fonte: "2026-10-28T09:39:52.245527-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 1.897, de 19 de maio de 2023
+
+Dispõe sobre a criação de cargo de provimento efetivo junto ao anexo I da Lei Municipal nº 664/1993, e dá outras providências.
+
+
+José Éder Galdino da Costa, Prefeito Municipal da Estância Climática de Cunha, no uso de suas atribuições legais, que lhe são conferidas por Lei, faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado junto ao Anexo I da Lei Municipal nº 664/1993, os seguintes cargos de provimento efetivo: I - AUXILIAR ADMINISTRATIVO DO, CREAS, com 1 - (UMA) vaga, com exigência de nível médio completo, nível de referência 15, com carga horária semanal de trabalho de 40 (quarenta) horas, de provimento por meio de concurso público, com as seguintes atribuições: Executar serviços de atendimento do CREAS; Promover a classificação de documentos e correspondências; Efetuar a transcrição de dados, lançamentos, prestação de informações, arquivo, digitação em geral, que forem requisitados pelas autoridades superiores; Providenciar O atendimento ao Público, bem como recepcionar interessados em atendimento junto ao CREAS, pessoalmente ou por telefone; Efetuar o protocolo de documentos; Organizar e manter atualizado o arquivo de documentos da unidade, classificando-os por assunto, em ordem alfabética, com o objetivo da agilização de informações; Atender e efetuar ligações telefônicas, anotar ou enviar recados e dados de rotinas; Prestar informações relativas aos serviços executados; Receber e transmitir e-mails e correspondências diversas; Controlar o recebimento e expedição de correspondência, registrando-a em livro próprio, com a finalidade de encaminhá-la ou despachá-la para as pessoas interessadas; Redigir memorandos, circulares, relatórios, ofícios, observando os padrões estabelecidos para assegurar o funcionamento do sistema de comunicação administrativa; Coletar dados, revisar documentos, transcrições, publicações oficiais e fornecer informações necessárias ao cumprimento da rotina administrativa do CREAS; Manter organizados e atualizados arquivos, fichários e outros; Classificar documentos por matéria, ordem alfabética ou outro sistema que possibilita controle dos mesmos; codificar dados, documentos e outras informações; proceder à indexação de artigos e periódicos, fichas, manuais, relatórios e outros; efetuar cálculos simples e conferências numéricas; efetuar registros, preencher fichas, formulários, requisições de materiais, quadros, carteiras e outros; efetuar o lançamento em livros, consultar dados em tabelas, gráficos e demais demonstrativos, a fim de atender as necessidades do CREAS; cuidar da organização e asseio das dependências públicas; manter atualizada a base de dados de usuários do sistema; utilizar o sistema operacional do CREAS; arquivar os formulários e mais documentos em local adequado; operar equipamentos diversos, como máquinas calculadoras, microcomputadores, processadores de textos, terminais de vídeo e outros; emitir listagens e relatórios quando necessário; anotar ditados de cartas, de relatórios e de outros tipos de documentos, confeccionar e providenciar a expedição ou arquivamento dos mesmos; redigir e providenciar confecção da correspondência ou qualquer outro documento; receber, classificar, registrar, distribuir e arquivar a correspondência; executar outras atividades correlatas que lhe forem determinadas pelo seu superior hierárquico.
+
+
+Art. 2º.
+
+As despesas decorrentes da execução da presente lei correm por conta das dotações consignadas no orçamento vigente, suplementadas se necessário.
+
+
+Art. 3º.
+
+Esta lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+*PM de Cunha em 18 de maio de 2023*
+
+*José Éder Galdino da Costa*
+
+*Prefeito Municipal*
+

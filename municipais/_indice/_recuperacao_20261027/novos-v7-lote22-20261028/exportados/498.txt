@@ -1,0 +1,190 @@
+---
+titulo: "Lei nº 1.975, de 04 de junho de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1975"
+data: "2025-06-04"
+municipio: "Cunha"
+uf: "SP"
+codigo_ibge: "3513603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cunha.sp.leg.br/norma/2378"
+fonte_texto: "https://sapl.cunha.sp.leg.br/ta/808/text"
+sha256_fonte: "d98f1601d3d8baa4313ca7232b0b78e207b1f8e8ea525314e6c4e6e22b2a9f54"
+sha256_texto: "c804587a61aebed61d295725a2bb10f683e9677d1733b0c42d34768ed04e2553"
+capturado_em_fonte: "2026-10-28T09:36:47.058829-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 1.975, de 04 de junho de 2025
+
+Dispõe sobre o recebimento de patrocínio de pessoas jurídicas de direito privado para a realização de eventos de interesse público no Município de Cunha-SP, e dá outras providências.
+
+
+RODRIGO SÉRGIO DO NASCIMENTO, PREFEITO DO MUNICÍPIO DE CUNHA, no uso de suas atribuições legais, faz saber que a Câmara aprovou e ele sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Fica autorizado o Poder Executivo Municipal a receber, de pessoas jurídicas de direito privado, patrocínio para a realização de eventos de interesse público promovidos, apoiados ou autorizados pelo Município de Cunha.
+
+
+Art. 2º.
+
+Considera-se patrocínio, para os fins desta Lei, a transferência voluntária de recursos financeiros, bens, serviços ou materiais, com ou sem ônus para a Administração Pública, realizada por pessoa jurídica de direito privado, com a finalidade de apoiar eventos de natureza cultural, turística, esportiva, educacional, ambiental, social, em âmbito da saúde ou institucional.
+
+
+Art. 3º.
+
+O patrocínio poderá ocorrer mediante:
+
+
+I –
+
+Repasse direto de recursos financeiros ao Poder Público Municipal;
+
+
+II –
+
+Fornecimento de bens ou materiais;
+
+
+III –
+
+Cessão de serviços;
+
+
+IV –
+
+Viabilização de estruturas, mão de obra ou equipamentos necessários à realização do evento;
+
+
+V –
+
+Doação de prêmios ou brindes para distribuição ao público participante;
+
+
+VI –
+
+Outras formas admitidas pela legislação aplicável.
+
+
+Art. 4º.
+
+O patrocinador poderá receber como contrapartida, desde que previamente autorizada pela Administração Pública:
+
+
+I –
+
+Exposição da marca, logotipo ou nome da empresa em materiais gráficos, digitais ou audiovisuais relacionados ao evento;
+
+
+II –
+
+Instalação de banners, totens, painéis ou outros elementos de divulgação física no local do evento;
+
+
+III –
+
+Menção do patrocinador em campanhas publicitárias e redes sociais institucionais;
+
+
+IV –
+
+Cessão de espaço para estandes, pontos de ativação de marca ou demonstração de produtos e serviços, conforme as características do evento.
+
+
+Parágrafo único
+
+A exposição da marca do patrocinador será realizada de forma proporcional à relevância e ao valor do patrocínio, e deverá preservar o interesse público e a neutralidade institucional do Município.
+
+
+Art. 5º.
+
+É vedado o recebimento de patrocínio, direta ou indiretamente, de:
+
+
+I –
+
+Empresas ou entidades que estejam em débito com o Município, com tributos ou obrigações inadimplidas;
+
+
+II –
+
+Pessoas jurídicas impedidas de contratar com o Poder Público, nos termos da legislação vigente;
+
+
+III –
+
+Empresas que explorem jogos de azar, comércio ilegal, atividades ilícitas ou vedadas pela legislação nacional;
+
+
+IV –
+
+Organizações que possam gerar conflito de interesses com a Administração Pública ou comprometer a imagem institucional do Município;
+
+
+V –
+
+Entidades envolvidas em processos judiciais que tenham por objeto fraudes contra a administração pública ou danos ao erário;
+
+
+VI –
+
+Pessoas jurídicas controladas por ocupantes de cargos eletivos ou seus familiares até o segundo grau, salvo em caso de patrocínio por meio de entidades privadas sem fins lucrativos e devidamente auditadas.
+
+
+Parágrafo único
+
+O Município poderá recusar propostas de patrocínio, ainda que não se enquadrem nos incisos acima, quando considerar que sua aceitação compromete a moralidade, a isonomia, a transparência ou o interesse público.
+
+
+Art. 6º.
+
+A seleção dos patrocinadores poderá ser realizada:
+
+
+I –
+
+Por iniciativa direta da empresa interessada, mediante formalização de proposta;
+
+
+II –
+
+Por chamamento público, quando houver mais de um interessado, conforme critérios estabelecidos em edital específico.
+
+
+Art. 7º.
+
+A celebração do patrocínio será formalizada por meio de termo de compromisso entre o Município e o patrocinador, com detalhamento da contrapartida e das responsabilidades de cada parte.
+
+
+Art. 8º.
+
+Os recursos financeiros oriundos de patrocínio, quando aplicáveis, deverão ser destinados à conta do Poder Público Municipal, e utilizados exclusivamente para os fins acordados.
+
+
+Art. 9º.
+
+O Poder Executivo poderá regulamentar esta Lei, no que couber, por meio de decreto, inclusive estabelecendo modelos de termo de compromisso, critérios para visibilidade da marca, e procedimentos para chamamento público.
+
+
+Art. 10.
+
+Revogam-se as disposições em contrário.
+
+
+Art. 11.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Cunha, 04 de junho de 2025.
+
+Rodrigo Sérgio do Nascimento
+
+Prefeito Municipal
+

@@ -1,0 +1,449 @@
+---
+titulo: "Lei Ordinária Municipal nº 2.032, de 05 de dezembro de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "2032"
+data: "2023-12-05"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/695"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/634/text"
+sha256_fonte: "0f66798c3e7c80a90057c9ac1eda9f624329a6686af80b838aaaf621f125199e"
+sha256_texto: "a978608d976bf4352f51fc2e88175fe76a1f785f9245651302c986a7e3bd426f"
+capturado_em_fonte: "2026-10-27T22:21:04.269861-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 2.032, de 05 de dezembro de 2023
+
+Autoriza o Executivo Municipal a efetuar a abertura de Crédito Adicional Suplementar no Orçamento para 2023 do Município de Califórnia – PR.
+
+
+A Câmara Municipal de Califórnia, Estado do Paraná, aprovou e eu Paulo Wilson Mendes, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal autorizado a abrir no corrente exercício financeiro, um crédito adicional SUPLEMENTAR para o exercício de 2023, no valor de R$ R$ 1.349.654,00 (um milhão, trezentos e quarenta e nove mil e seiscentos e cinquenta e quatro reais), destinados ao reforço das seguintes Dotações Orçamentárias:
+
+
+**Suplementação**
+
+**02 GABINETE DO PREFEITO**
+
+**02.001 Chefia de Gabinete**
+
+02.001.04.122.0004.2.002. Assessoramento Superior
+
+3.1.90.11.00.00 000 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 2.800,00
+
+**03 SECRETARIA DE ADMINISTRAÇÃO, FINANÇAS E PLANEJAMENTO**
+
+**03.004 Departamento de Recursos Humanos**
+
+03.004.04.122.0004.2.005. Manutenção do Departamento de Recursos Humanos
+
+3.1.90.11.00.00 000 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 1.300,00
+
+3.1.90.13.00.00 000 CONTRIBUIÇÕES PATRONAIS 250,00
+
+03.004.04.122.0004.2.006. Pagamento de Proventos a Inativos e Pensionistas
+
+3.1.90.01.00.00 000 APOSENTADORIAS DO RPPS, RESERVA REMUNERADA E REFORMAS DOS MILITARES 199,00
+
+**03.005 Depart.Arrecad.Tribut. e Fiscalização**
+
+03.005.04.123.0005.2.009. Manutenção do Departamento de Arrecadação de Tributos e Fiscalização
+
+3.1.90.11.00.00 510 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 5.000,00
+
+3.1.90.13.00.00 510 CONTRIBUIÇÕES PATRONAIS 1.900,00
+
+**03.009 Departamento de Administração**
+
+03.009.04.122.0004.2.015. Manutenção do Departamento de Administração
+
+3.1.90.11.00.00 000 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 78.000,00
+
+3.1.90.13.00.00 000 CONTRIBUIÇÕES PATRONAIS 21.000,00
+
+**04 SECRETARIA DE TRANSPORTE, OBRAS E SERV. PÚBLICO**
+
+**04.010 Departamento de Obras e Serviços Públicos**
+
+04.010.15.452.0025.2.016. Manutenção do Departamento de Obras e Serviços Públicos
+
+3.1.90.13.00.00 511 CONTRIBUIÇÕES PATRONAIS 3.000,00
+
+3.1.90.11.00.00 511 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 20.000,00
+
+**05 SECRETARIA DE SAÚDE**
+
+**05.013 Secretaria de Saúde**
+
+05.013.10.301.0012.2.022. Manutenção do Centro de Saúde
+
+3.1.90.11.00.00 303 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 320.000,00
+
+3.1.90.13.00.00 303 CONTRIBUIÇÕES PATRONAIS 106.000,00
+
+05.013.10.301.0012.2.025. Programa Saúde Bucal
+
+3.1.90.11.00.00 303 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 14.000,00
+
+3.1.90.13.00.00 303 CONTRIBUIÇÕES PATRONAIS 5.000,00
+
+05.013.10.301.0012.2.026. Programa de Agentes Comunitários de Saúde - PACS
+
+3.1.90.11.00.00 1051 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 97.000,00
+
+3.1.90.11.00.00 494 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 20.000,00
+
+3.1.90.13.00.00 303 CONTRIBUIÇÕES PATRONAIS 36.500,00
+
+05.013.10.305.0016.2.028. Programa de Vigilância Epidemiológica
+
+3.1.90.11.00.00 1051 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 17.000,00
+
+**06 Secretaria Municipal de Assistência Social, Cidadania e Cultura – SMASC;**
+
+**06.014 Secretaria de Assistência Social**
+
+06.014.08.244.0010.2.034. Manutenção do Departamento de Assistência Social
+
+3.1.90.13.00.00 000 CONTRIBUIÇÕES PATRONAIS 13.000,00
+
+06.014.08.244.0010.2.053. Manutenção do CRAS - Centro de Referência da Assistência Social
+
+3.1.90.13.00.00 000 CONTRIBUIÇÕES PATRONAIS 3.000,00
+
+**06.015 Fundo Municipal de Assistência Social**
+
+06.015.08.244.0022.2.037. Repasses do Bloco
+
+3.1.90.13.00.00 790 CONTRIBUIÇÕES PATRONAIS 410,00
+
+**07 SECRETARIA DE EDUCAÇÃO**
+
+**07.017 Departamento de Educação**
+
+07.017.12.361.0017.2.038. Transporte Escolar - FUNDEB 40%
+
+3.1.90.11.00.00 102 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 43.000,00
+
+3.1.90.13.00.00 102 CONTRIBUIÇÕES PATRONAIS 16.500,00
+
+07.017.12.361.0017.2.040. Coordenação e Distribuição da Merenda Escolar - FUNDEB 40%
+
+3.1.90.11.00.00 102 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 1.000,00
+
+3.1.90.13.00.00 102 CONTRIBUIÇÕES PATRONAIS 1.200,00
+
+07.017.12.361.0017.2.042. Manutenção das Escolas Municipais
+
+3.1.90.11.00.00 104 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 133.000,00
+
+3.1.90.13.00.00 104 CONTRIBUIÇÕES PATRONAIS 51.000,00
+
+07.017.12.361.0017.2.043. FUNDEB 60% E 40% - Manutenção das Escolas Municipais
+
+3.1.90.11.00.00 101 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 115.095,00
+
+07.017.12.361.0017.2.057. Manutenção do Clube do Irmão Caçula
+
+3.1.90.11.00.00 103 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 47.000,00
+
+3.1.90.13.00.00 103 CONTRIBUIÇÕES PATRONAIS 12.800,00
+
+07.017.12.365.0019.2.045. Manutenção de Centros Educacional Infantil
+
+3.1.90.11.00.00 104 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 111.000,00
+
+3.1.90.13.00.00 104 CONTRIBUIÇÕES PATRONAIS 44.700,00
+
+**11 SECRETARIA DE ESPORTE E LAZER**
+
+**11.024 Departamento de Esporte e Lazer**
+
+11.024.27.812.0038.2.048. Manutenção do Departamento de Esportes
+
+3.1.90.11.00.00 000 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 5.500,00
+
+3.1.90.13.00.00 000 CONTRIBUIÇÕES PATRONAIS 2.500,00
+
+**Total Suplementação: 1.349.654,00**
+
+
+Art. 2º.
+
+Para atender o disposto no Artigo 1º desta Lei, serão utilizados recursos no valor de R$ 1.349.654,00 (um milhão, trezentos e quarenta e nove mil e seiscentos e cinquenta e quatro reais), correspondente a Anulação Parcial ou Total de dotações constantes no orçamento, de acordo com o Artigo 43, § 1º, Inciso III, da Lei Federal nº 4.320/64:
+
+
+**Anulação parcial ou total**
+
+**02 GABINETE DO PREFEITO**
+
+**02.001 Chefia de Gabinete**
+
+02.001.04.122.0004.2.002. Assessoramento Superior
+
+4.4.90.52.00.00 000 EQUIPAMENTOS E MATERIAL PERMANENTE 2.800,00
+
+3.3.90.14.00.00 000 DIÁRIAS - CIVIL 5.000,00
+
+**02.002 Assessoria Jurídica**
+
+**02.002.02.062.0002.2.003. Assessoria Jurídica**
+
+3.1.90.11.00.00 000 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 5.000,00
+
+**02.003 Assessoria de Planejamento e Controle**
+
+02.003.04.121.0003.2.004. Manutenção do Setor de Projetos
+
+3.1.90.11.00.00 000 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.000,00
+
+3.3.90.39.00.00 000 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 5.000,00
+
+3.1.90.13.00.00 000 CONTRIBUIÇÕES PATRONAIS 10.000,00
+
+02.003.04.124.0004.2.054. Manter o Controle Interno
+
+3.1.90.11.00.00 000 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 17.000,00
+
+**03 SECRETARIA DE ADMINISTRAÇÃO, FINANÇAS E PLANEJAMENTO**
+
+**03.004 Departamento de Recursos Humanos**
+
+03.004.04.122.0004.2.005. Manutenção do Departamento de Recursos Humanos
+
+4.4.90.52.00.00 000 EQUIPAMENTOS E MATERIAL PERMANENTE 1.300,00
+
+3.1.90.16.00.00 000 OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL 250,00
+
+03.004.04.122.0004.2.006. Pagamento de Proventos a Inativos e Pensionistas
+
+3.1.90.03.00.00 000 PENSÕES DO RPPS E DO MILITAR 199,00
+
+**03.005 Depart.Arrecad.Tribut. e Fiscalização**
+
+03.005.04.123.0005.2.009. Manutenção do Departamento de Arrecadação de Tributos e Fiscalização
+
+3.1.90.11.00.00 000 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 8.000,00
+
+3.1.90.13.00.00 000 CONTRIBUIÇÕES PATRONAIS 4.359,00
+
+3.1.90.13.00.00 511 CONTRIBUIÇÕES PATRONAIS 108,00
+
+3.1.90.11.00.00 511 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 263,00
+
+**03.006 Departamento de Contabilidade**
+
+03.006.04.123.0005.2.010. Manutenção do Departamento de Contabilidade
+
+4.4.90.52.00.00 000 EQUIPAMENTOS E MATERIAL PERMANENTE 2.420,00
+
+**03.007 Departamento de Tesouraria**
+
+03.007.04.123.0005.2.013. Manutenção do Departamento de Tesouraria
+
+3.1.90.11.00.00 000 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 2.500,00
+
+**04 SECRETARIA DE TRANSPORTE, OBRAS E SERV. PUBLICO**
+
+**04.010 Departamento de Obras e Serviços Públicos**
+
+04.010.15.452.0025.2.016. Manutenção do Departamento de Obras e Serviços Públicos
+
+3.1.90.11.00.00 510 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 2.280,00
+
+3.1.90.13.00.00 510 CONTRIBUIÇÕES PATRONAIS 261,00
+
+3.1.90.11.00.00 000 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 59.729,00
+
+3.1.90.13.00.00 000 CONTRIBUIÇÕES PATRONAIS 2.892,00
+
+3.3.90.39.00.00 511 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 2.190,00
+
+04.010.15.452.0025.2.017. Manutenção e Reparos no Cemitério e Capela Mortuária
+
+4.4.90.51.00.00 000 OBRAS E INSTALAÇÕES 31.900,00
+
+04.010.15.452.0025.2.018. Manutenção do Aterro Sanitário, Coleta de Lixo e Resíduos Sólidos 3.3.90.39.00.00 511 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 318,00
+
+4.4.90.52.00.00 000 EQUIPAMENTO E MATERIAL PERMANENTE 3.900,00
+
+**04.011 Departamento de Transporte**
+
+04.011.26.782.0037.2.020. Restauração e Conservação de Estradas Rurais
+
+183 - 4.4.90.51.00.00 000 OBRAS E INSTALAÇÕES 900,00
+
+04.011.26.782.0037.2.021. Manutenção do Pátio de Maquinas e Veículos
+
+4.4.90.51.00.00 000 OBRAS E INSTALAÇÕES 4.900,00
+
+4.4.90.52.00.00 000 EQUIPAMENTOS E MATERIAL PERMANENTE 80.000,00
+
+**04.012 Departamento de Urbanismo e Infra Estrutura**
+
+04.012.15.451.0024.1.001. Programa de Infraestrutura Urbana
+
+4.4.90.51.00.00 000 OBRAS E INSTALAÇÕES 100.000,00
+
+**05 SECRETARIA DE SAÚDE**
+
+**05.013 Secretaria de Saúde**
+
+05.013.10.301.0012.2.022. Manutenção do Centro de Saúde
+
+4.4.90.51.00.00 303 OBRAS E INSTALAÇÕES 9.000,00
+
+3.3.90.32.00.00 303 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 4.990,00
+
+3.3.90.36.00.00 303 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 5.000,00
+
+3.1.90.11.00.00 494 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 20.000,00
+
+3.3.90.37.00.00 303 LOCAÇÃO DE MÃO-DE-OBRA 490,00
+
+3.3.90.47.00.00 303 OBRIGAÇÕES TRIBUTÁRIAS E CONTRIBUTIVAS 490,00
+
+3.3.90.93.00.00 303 INDENIZAÇÕES E RESTITUIÇÕES 200,00
+
+05.013.10.301.0012.2.025. Programa Saúde Bucal
+
+3.3.90.30.00.00 303 MATERIAL DE CONSUMO 1.590,00
+
+05.013.10.301.0012.2.026. Programa de Agentes Comunitários de Saúde - PACS
+
+3.1.90.11.00.00 303 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 33.740,00
+
+**06 Secretaria Municipal de Assistência Social, Cidadania e Cultura – SMASC;**
+
+**06.014 Secretaria de Assistência Social**
+
+06.014.08.244.0010.2.034. Manutenção do Departamento de Assistência Social
+
+3.3.90.39.00.00 000 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 13.000,00
+
+06.014.08.244.0010.2.053. Manutenção do CRAS - Centro de Referência da Assistência Social 3.1.90.11.00.00 000 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 3.000,00
+
+3.3.90.32.00.00 000 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 20.000,00
+
+**06.015 Fundo Municipal de Assistência Social**
+
+06.015.08.244.0010.2.031. Manutenção do Fundo Municipal de Assistência Social
+
+3.3.90.36.00.00 000 OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA 9.990,00
+
+06.015.08.244.0010.2.055. Programa Benefícios Eventuais
+
+3.3.90.32.00.00 000 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 38.000,0
+
+06.015.08.244.0022.2.037. Repasses do Bloco
+
+3.1.90.11.00.00 790 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 410,00
+
+**07 SECRETARIA DE EDUCAÇÃO**
+
+**07.017 Departamento de Educação**
+
+07.017.12.361.0017.2.038. Transporte Escolar - FUNDEB 40%
+
+3.1.90.16.00.00 102 OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL 1.090,00
+
+07.017.12.361.0017.2.039. Manutenção do Transporte Escolar
+
+3.3.90.30.00.00 103 MATERIAL DE CONSUMO 59.800,00
+
+07.017.12.361.0017.2.040. Coordenação e Distribuição da Merenda Escolar - FUNDEB 40%
+
+3.1.90.16.00.00 102 OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL 1.090,00
+
+07.017.12.361.0017.2.041. Manutenção da Merenda Escolar
+
+3.3.90.32.00.00 000 MATERIAL, BEM OU SERVIÇO PARA DISTRIBUIÇÃO GRATUITA 40.000,00
+
+07.017.12.361.0017.2.043. FUNDEB 60% E 40% - Manutenção das Escolas Municipais
+
+3.1.90.11.00.00 102 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 600,00
+
+3.1.90.13.00.00 102 CONTRIBUIÇÕES PATRONAIS 19.754,00
+
+07.017.12.365.0019.2.045. Manutenção de Centros Educacional Infantil
+
+3.3.90.39.00.00 102 OUTROS SERVIÇOS DE TERCEIROS - PESSOA JURÍDICA 5.490,00
+
+4.4.90.51.00.00 000 OBRAS E INSTALAÇÕES 12.590,00
+
+07.017.12.365.0019.2.058. FUNDEB 60% E 40% - Manutenção dos Centros de Educação Infantil
+
+3.1.90.16.00.00 102 OUTRAS DESPESAS VARIÁVEIS - PESSOAL CIVIL 990,00
+
+3.1.90.11.00.00 102 VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL 125.820,00
+
+3.1.90.13.00.00 102 CONTRIBUIÇÕES PATRONAIS 21.961,00
+
+**08 SECRETARIA DE HABITAÇÃO E DESENVOLVIMENTO ECONÔMICO**
+
+**08.020 Departamento de Habitação**
+
+08.020.16.482.0027.2.069. Manutenção do Departamento de Habitação
+
+4.4.90.51.00.00 000 OBRAS E INSTALAÇÕES 150.000,00
+
+4.4.90.52.00.00 000 EQUIPAMENTOS E MATERIAL PERMANENTE 9.900,00
+
+**09 SECRETARIA DE MEIO AMBIENTE E AGRICULTURA**
+
+**09.021 Departamento de Fomento Agropec. e Meio Ambiente**
+
+09.021.20.608.0031.2.049. Manutenção do Departamento de Agricultura
+
+4.4.90.52.00.00 000 EQUIPAMENTOS E MATERIAL PERMANENTE 65.700,00
+
+**11 SECRETARIA DE ESPORTE E LAZER**
+
+**11.024 Departamento de Esporte e Lazer**
+
+11.024.27.812.0038.1.004. Revitalização do Bosque
+
+4.4.90.51.00.00 000 OBRAS E INSTALAÇÕES 199.500,00
+
+11.024.27.812.0038.2.048. Manutenção do Departamento de Esportes
+
+3.3.90.30.00.00 000 MATERIAL DE CONSUMO 8.000,00
+
+12 Secretaria Municipal de Inovação, Comunicação Social e Turismo – SEICOMTUR
+
+12.025 FUNDO MUNICIPAL DO TURISMO - FUMTUR
+
+12.025.13.392.0023.1.023. Implantação Infraestrutura Turística
+
+4.4.90.51.00.00 000 OBRAS E INSTALAÇÕES 111.000,00
+
+**Total Redução: 1.349.654,00**
+
+
+Art. 3º.
+
+O crédito previsto no artigo 1° desta Lei, não será computado para fins do limite fixado no artigo 4°, inciso I, da Lei Orçamentária Anual – Lei 1966/2022.
+
+
+Art. 4º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Edifício da Prefeitura do Município de Califórnia, em 05 de dezembro de 2023.
+
+***PAULO WILSON MENDES***
+
+Prefeito Municipal
+

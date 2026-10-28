@@ -1,0 +1,559 @@
+---
+titulo: "Lei Ordinária nº 4.197, de 16 de dezembro de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4197"
+data: "2013-12-16"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/4044"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/1370/text"
+sha256_fonte: "ec1216579617f4eaf4dd6911e61e6f864b53aabf8f098241f3c024683bbb67cf"
+sha256_texto: "3176c5e61d195a7fd48ba10d578b3b1353c9a821d1108db3f3b50800cc6b7f42"
+capturado_em_fonte: "2026-10-27T17:55:35.998500-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.197, de 16 de dezembro de 2013
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI N°4197, DE 16 DE DEZEMBRO DE 2013.
+
+
+"Dispõe sobre incentivo fiscal para realização de projetos esportivos e dá outras providências."
+
+
+Art. 1º.
+
+Fica criado, no âmbito da Prefeitura Municipal de Barra Mansa, o Programa Municipal de Incentivo Fiscal de Apoio ao Esporte, que terá por finalidade a captação e canalização de recursos públicos ou privados, provenientes de pessoas físicas ou jurídicas, para o esporte, através de certificados concedidos pelo poder público, que poderão ser utilizados para pagamento de tributos nos termos que serão estabelecidos por esta norma.
+
+
+§ 1º
+
+O incentivo fiscal referido no caput deste artigo corresponderá ao recebimento, por parte do Empreendedor de qualquer projeto esportivo no município, de certificados correspondentes ao valor atualizado pelo Poder Executivo.
+
+
+§ 2º
+
+Considera-se empreendedor, a pessoa física ou jurídica com domicílio no Município de Barra Mansa e diretamente responsável pela realização do projeto esportivo.
+
+
+§ 3º
+
+Os portadores de certificados poderão utilizá-los para pagamento do Imposto sobre Serviços de Qualquer Natureza - ISSQN, e do Imposto Predial e Territorial Urbano -IPTU, até o limite de 20%- vinte por cento do valor devido.
+
+
+§ 4º
+
+O presente Programa terá como princípios e finalidades:
+
+
+I –
+
+Propiciar o livre acesso de toda a população barramansense à prática das diversas modalidades desportivas existentes no País;
+
+
+II –
+
+Promover e estimular a revelação de atletas, com valorização de recursos humanos e conteúdos locais;
+
+
+III –
+
+Арoiar, difundir e divulgar competições esportivas no Município;
+
+
+IV –
+
+Proteger a memória das expressões esportivas no Município de Barra Mansa;
+
+
+V –
+
+Adquirir e preservar os bens e equipamentos utilizados para prática desportiva;
+
+
+VI –
+
+Contribuir para desenvolvimento da consciência social e expor a contribuição do esporte na formação do caráter individual e coletivo do barramansense.
+
+
+Art. 2º.
+
+O Poder Executivo autorizará a criação de uma Comissão composta por cinco membros titulares e de três suplentes, independente e autônoma, que será incumbida exclusivamente da análise dos aspectos orçamentais e técnicos dos projetos esportivos apresentados.
+
+
+§ 1º
+
+A Comissão será formada por pessoas de comprovada idoneidade e de reconhecida participação na realização de atividades esportivas em Barra Mansa.
+
+
+§ 2º
+
+A Comissão terá mandato de dois anos, com a possibilidade de uma recondução, e será formada por três membros indicados pelo Executivo, um membro indicado pelo Legislativo e um membro indicado por entidade esportiva com pelo menos 10 anos de funcionamento oficial e regular no município.
+
+
+§ 3º
+
+Os membros da comissão não poderão apresentar projeto pelo período de seu mandato e igual período após o mesmo.
+
+
+Art. 3º.
+
+Para obtenção do incetivo referido no artigo 1º, deverá o empreendedor apresentar à Comissão, cópia do projeto esportivo, explicitando os objetivos e recursos financeiros e humanos envolvidos, para fins de fixação do valor do incentivo e fiscalização posterior.
+
+
+Parágrafo único
+
+O projeto deverá conter, obrigatoriamente, data de início e término, não podendo ultrapassar o período inerente ao ano fiscal.
+
+
+Art. 4º.
+
+Aprovado o projeto, o Poder Executivo providenciará a emissão dos respectivos certificados para obtenção do incentivo fiscal.
+
+
+Art. 5º.
+
+Os certificados terão prazo de validade para a sua utilização, de 2(dois) anos, a contar de sua expedição, corrigidos mensalmente pelos mesmos índices aplicáveis na correção dos tributos municipais.
+
+
+Art. 6º.
+
+Além das sanções penais cabíveis, será multado em 10(dez) vezes o valor incentivado, o Empreendedor que não comprovar a correta aplicação desta Lei.
+
+
+Art. 7º.
+
+As entidades de classe representativa dos diversos segmentos do esporte poderão ter acesso à documentação referente aos projetos esportivos beneficiados por esta Lei.
+
+
+Art. 8º.
+
+O Poder Executivo, através da SMJEL, por meio de campanha e promoções, estimulará as doações, patrocínios e investimentos em projetos esportivos nos termos da Lei, garantindo o acesso de todos os empreendedores aos benefícios previstos nesta Lei.
+
+
+Art. 9º.
+
+Toda pessoa física ou jurídica que não esteja em débito para com as Fazendas Federal, Estadual e Municipal poderá ser doadora ou patrocinadora de projetos esportivos aprovados de acordo com esta Lei.
+
+
+Art. 10.
+
+Para implementação do Programa Municipal de Incentivo Fiscal de Apoio ao Esporte, o Poder Executivo emitirá certificados de incentivo fiscal de apoio ao esporte para realização de projetos esportivos - CIPE, cujo montante global não poderá suplantar 2% (dois por cento) da receita anual proveniente da arrecadação do Imposto Predial e Territorial Urbano - IPTU e do Imposto sobre Serviços de Qualquer Natureza - ISS.
+
+
+Art. 11.
+
+Os certificados de incentivo fiscal de apoio ao esporte para realização de projetos esportivos - CIFE serão emitidos em favor do patrocinador ou doador.
+
+
+§ 1º
+
+Os certificados a que se refere o caput deste artigo serão expedidos, privativamente, pela SMJEL e outorgados, nominalmente, ao patrocinador ou doador de projeto esportivo, no valor nominal correspondente ao montante transferido.
+
+
+§ 2º
+
+A expedição do certificado será precedida de apreciação da Secretaria Municipal de Fazenda, cujo parecer vinculará a SMJEL.
+
+
+Art. 12.
+
+Tratando-se de título nominal é vedada a cessão ou transferência do CIFE, condicionada, ainda, sua expedição à comprovação da regularidade fiscal quanto aos tributos federais, estaduais e municipais.
+
+
+Art. 13.
+
+O CIFE será emitido pelo valor nominal repassado a título de patrocínio ou doação ao proponente, após aprovado, limitado a 50%(cinquenta por cento) do valor do imposto devido e será monetariamente corrigido, observados a mesma periodicidade e os mesmos índices de atualização monetária aplicados aos impostos em relação aos quais tenha poder liberatório.
+
+
+Art. 14.
+
+Os titulares de CIPE poderão utilizá-los para pagamento do Imposto Sobre Serviços de Qualquer Natureza - ISSQN ou do Imposto Predial e Territorial Urbano - IPTU, até o limite de %(cinquenta por cento) do montante devido nos exercícios vindouros, desde que comprovada a destinação dos recursos ao programa, atestada pela SMJEL e observado o prazo de validade dos mesmos, devendo o patrocinador optar por um dos impostos para incidência do benefício fiscal.
+
+
+Art. 15.
+
+Constatando-se, em fiscalização futura, que o contribuinte, titular do CIPE, não atendia aos requisitos para fruição do benefício fiscal, o imposto devido eventualmente apurado será lançado, dentro do prazo decadencial, pelo valor correspondente ao desconto auferido, sem prejuízo das penalidades cabíveis.
+
+
+Art. 16.
+
+É vedado o emprego do CIFE para compensação ou amortização de débitos tributários lançados anteriormente ao pedido de aprovação do projeto.
+
+
+Art. 17.
+
+Os recursos provenientes do Programa não poderão ser destinados ou utilizados para despesas de manutenção administrativa e de pessoal da Administração Pública.
+
+
+Art. 18.
+
+O Programa beneficiará até 90%(noventa por cento) do custo total de cada projeto, mediante comprovação, por parte do proponente, da circunstância de dispor do montante remanescente ou estar habilitado à obtenção do respectivo financiamento, através de outra fonte devidamente identificada, exceto quanto aos recursos com destinação especificada na origem.
+
+
+§ 1º
+
+Poderão ser considerados, para efeito de totalização do valor restante, bens e serviços oferecidos pelo proponente para implementação e desenvolvimento do projeto, devendo submeter-se a prévia avaliação.
+
+
+§ 2º
+
+Também poderão ser considerados para totalização recursos públicos ou privados obtidos em forma de patrocínio, desde que totalizem o valor do projeto e sejam destinados à sua execução.
+
+
+Art. 19.
+
+A empresa que participar do PROGRAMA estará autorizada a divulgar seu nome como incentivadora do projeto esportivo ao qual estiver vinculada, vedada a utilização de verba de espaço publicitário ou quaisquer tipos de mídia.
+
+
+Art. 20.
+
+Os projetos esportivos realizados por meio dos benefícios desta Lei deverão portar a logomarca da Prefeitura, o número do certificado e a descrição da SMJEL, junto à do patrocinador e a do proponente.
+
+
+Art. 21.
+
+Somente serão submetidos à análise e posterior aprovação os projetos esportivos cujos proponentes sejam entidades de natureza esportiva ou educacional ou pessoas físicas que preencham os seguintes requisitos.
+
+
+I –
+
+contar com pelo menos 1(um) ano de existência;
+
+
+II –
+
+comprovar regularidade fiscal quanto aos tributos federais, estaduais e municipais;
+
+
+III –
+
+para pessoas físicas, ser maior de 18 anos, residente e domiciliado no Município.
+
+
+Art. 22.
+
+Serão priorizados os projetos esportivos relacionados com modalidades:
+
+
+I –
+
+Olímpicas;
+
+
+II –
+
+Paraolímpicas;
+
+
+III –
+
+Criadas e desenvolvidas no Brasil;
+
+
+IV –
+
+Radicais;
+
+
+V –
+
+Desenvolvidas em forma lúdica ou informal, desde que dentro de projetos que possuam caráter social.
+
+
+Art. 23.
+
+Para cumprimento das finalidades previstas nesta norma, os projetos esportivos em cujo favor serão captados e canalizados os recursos do PROGRAMA, consistirão em qualquer um destes instrumentos.
+
+
+I –
+
+Incentivo à formação de elementos humanos, mediante:
+
+
+a)
+
+concessão de bolsas de estudo, pesquisa e trabalho, no Brasil ou no exterior, a atletas, técnicos, professores, árbitros ou dirigentes;
+
+
+b)
+
+apoio financeiro aos praticantes de esportes, que representarem o Município de Barra Mansa;
+
+
+c)
+
+instalação e manutenção de cursos de caráter esportivo, destinados à formação, especialização e aperfeiçoamento de pessoal da área esportiva, em estabelecimentos de ensino sem fins lucrativos.
+
+
+II –
+
+fomento à prática esportiva, mediante:
+
+
+a)
+
+realização de competições, exposições, festivais, clínicas, demonstrações e outros congêneres esportivos;
+
+
+b)
+
+produção e exibição de mídia;
+
+
+c)
+
+cobertura de despesas com transportes, estadias, alimentação e seguro de pessoas e equipamentos destinados àqueles que forem representar o Município fora de seu território em competições oficiais.
+
+
+III –
+
+aquisição, conservação, manutenção e preservação do patrimônio e equipamento destinados à prática esportiva, mediante:
+
+
+a)
+
+construção, formação, organização, menutenção, ampliação e aparelhamento de museus, bibliotecas, arquivos, monumentos e outras organizações esportivas, bem como de suas coleções e acervos;
+
+
+b)
+
+restauração de bens móveis e imóveis de reconhecido valor esportivo;
+
+
+c)
+
+proteção dos sinais das tradições esportivas populares em Barra Mansa.
+
+
+IV –
+
+estímulo ao conhecimento dos bens e valores esportivos, mediante:
+
+
+a)
+
+distribuição gratuita e universal de ingressos para espetáculos esportivos;
+
+
+b)
+
+levantamentos, estudos e pesquisas na área do esporte e de suas várias modalidades.
+
+
+V –
+
+apoio a outras atividades esportivas, mediante a realização de missões no País e no exterior, inclusive por meio do fornecimento de transporte, estadias e alimentação.
+
+
+VI –
+
+contratação de serviços para elaboração de projetos esportivos ou para-desportivos, cujos limites máximos para despesas com este item serão os seguintes:
+
+
+a)
+
+projetos desportivos ou para-dsportivos cuja manifestação seja desporto educacional, até 10%(dez por cento) do valor total do projeto ou, no caso de captação parcial, do valor efetivamente captado;
+
+
+b)
+
+projetos desportivos ou para-desportivos cuja manifestação seja desporto de participação, até 7%(sete por cento) do valor total do projeto ou, no caso de captação parcial, do valor efetivamente captado;
+
+
+c)
+
+projetos desportivos ou para-desportivos cuja manifestação seja desporto de rendimento, até 5%(cinco por cento) do valor total do projeto ou, no caso de captação parcial, do valor efetivamente captado; e
+
+
+d)
+
+projetos desportivos ou para-desportivos em que conste declaração expressa do proponente no sentido de que a captação de recursos seja integral e exclusivamente realizada com pessoas físicas, até 10%(dez por cento) do valor total do projeto, independentemente da manifestação desportiva atendida.
+
+
+Parágrafo único
+
+Outras ações não previstas neste artigo poderão ser aprovadas pela Comissão desde que consideradas relavantes e consignadas no Plano Plurianual do Município.
+
+
+Art. 24.
+
+A aprovação de projetos esportivos que envolvam implementação, reforma ou novas construções em entidades de direito privado ficará condicionada à formalização de parceria com a Prefeitura Municipal de Barra Mansa, bem como à utilização do espaço por crianças, adolescentes, idosos ou pessoas com deficiência, em situação de vulnerabilidade social, pelo período de 5(cinco) anos.
+
+
+Art. 25.
+
+Compete à Comissão Interdisciplinar de Avaliação e Concessão - CIAC analisar o mérito orçamentário-financeiro dos projetos esportivos apresentados, dentro das finalidades do PROGRAMA, atuando segundo os seguintes princípios:
+
+
+I –
+
+estimular a distribuição equitativa dos incentivos a serem aplicados na execução de projetos esportivos;
+
+
+II –
+
+favorecer a visão intermodal, estimulando projetos que explorem propostas esportivas conjuntas;
+
+
+III –
+
+apoiar projetos dotados de conteúdo esportivo que enfatizem o aperfeiçoamento técnico e profissional dos recursos humanos;
+
+
+IV –
+
+contribuir para a preservação e proteção do patrimônio esportivo;
+
+
+V –
+
+favorecer projetos que atendam às necessidades da prática esportiva e aos interesses da coletividade, aqui considerados os níveis qualitativos e quantitativos de atendimentos às demandas esportivas existentes, o caráter multiplicador dos projetos por meio de seus aspectos sócio-esportivos e a priorização de projetos em áreas educacionais e esportivas com menos possibilidade de desenvolvimento com recursos próprios;
+
+
+VI –
+
+não concentração por segmento e por beneficiário, a ser aferida pelo montante de recursos, pela quantidade de projetos, pela respectiva capacidade executiva e pela disponibilidade do valor absoluto anual de renúncia fiscal;
+
+
+VII –
+
+priorizar a concessão do incentivo pata projetos que favoreçam as áreas do Município em que haja maior demanda, seguindo as orientações da SMJEL.
+
+
+Art. 26.
+
+A CIAC será composta pelos representantes das seguintes entidades:
+
+
+I –
+
+2(dois) representantes da SMJEL, reservada uma vaga para o Secretário;
+
+
+II –
+
+1 (um) representante da Coordenadoria da Junventude;
+
+
+III –
+
+1 (um) representante da Secretaria Municipal de Fazenda;
+
+
+IV –
+
+1 (um) representante do empresariado do setor esportivo;
+
+
+V –
+
+1 (um) representante das entidades esportivas;
+
+
+VI –
+
+1 (um) representante dos atletas.
+
+
+Parágrafo único
+
+Para cada titular será nomeado um suplente, com a função de substituir o respectivo titular nos casos de ausências e impedimentos.
+
+
+Art. 27.
+
+Os componentes da CIAC referidos nos incisos IV, V e VI do artigo anterior serão escolhidos pelo Prefeito Municipal ou, a critério do mesmo, pelo Secretário Municipal da Juventude, Esporte e Lazer e deverão ser pessoas de comprovada idoneidade e reconhecida notoriedade na área esportiva do Município.
+
+
+Art. 28.
+
+Os membros da CIAC não receberão qualquer tipo de contrapartida financeira.
+
+
+Art. 29.
+
+Os membros da CIAC serão nomeados pelo Prefeito e os mandatos serão de 2 (dois) anos, podendo haver uma recondução.
+
+
+Art. 30.
+
+Cada proponente poderá apresentar até 3(três) projetos por ano, nos casos de sobras de recursos.
+
+
+Art. 31.
+
+Cada projeto esportivo não excederá a 10%(dez por cento) do montante global, que conforme o previsto no artigo 12 desta Lei, corresponde a 2%(dois por cento) da arrecadação do IPTU e do ISS.
+
+
+Art. 32.
+
+A existência de pendências ou irregularidades na execução de projetos do proponente ou patrocinador junto ao Município de Barra mansa suspenderá a análise ou concessão de novos incentivos, até a efetiva regularização.
+
+
+Art. 33.
+
+Os propronentes, gerenciadores e patrocinadores dos projetos do PROGRAMA cuja avaliação final não for aprovada, nos termos do artigo anterior, ficarão inabilitados pelo prazo de 3(três) anos ao recebimento de novos recursos ou enquanto não proceder à reavaliação do parecer inicial e regularizarem sua situação.
+
+
+Art. 34.
+
+Na hipótese de dolo, fraude ou simulação, inclusive no caso de desvio de objeto, será aplicada, aos reponsáveis, multa correspondente a 10(dez) vezes o valor da vantagem recebida indevidamente.
+
+
+§ 1º
+
+As infrações aos dispositivos desta Lei, sem prejuízo das sanções penais cabíveis, sujeitarão o patrocinador ao pagamento do valor atualizado dos impostos devidos em relação a cada exercício financeiro, além das penalidades e demais acréscimos previstos na legislação que rege a espécie.
+
+
+§ 2º
+
+Para os efeitos deste artigo, considera-se solidariamente responsável, por inadimplência ou irregularidade verificada, o proponente do projeto.
+
+
+Art. 35.
+
+São abrangidas por esta Lei todas as modalidades esportivas regulamentadas por legislação anterior.
+
+
+Art. 36.
+
+Resguardado o sigilo fiscal, o acesso aos documentos referentes aos projetos esportivos beneficiados por esta norma, é facultado a qualquer munícipe, em especial às entidades representativas dos diversos segmentos esportivos.
+
+
+Art. 37.
+
+As despesas com a execução desta Lei correrão pelas dotações orçamentárias próprias, suplementadas, caso necessário, ficando, também, o Poder Executivo autorizado a abrir créditos adicionais especiais.
+
+
+Art. 38.
+
+Fica o Poder Executivo autorizado a regulmentar esta lei no prazo de 30(trinta) dias.
+
+
+Art. 39.
+
+Esta Lei entrará em vigor na data da publicação.
+
+
+Art. 40.
+
+Ficam revogadas todas as disposições em contrário.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 16 DE DEZEMBRO DE 2013.
+
+
+JONASTONIAN MARINS AGUIAR
+
+PREFEITO
+

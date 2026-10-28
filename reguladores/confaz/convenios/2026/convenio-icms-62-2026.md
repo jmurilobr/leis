@@ -1,0 +1,31 @@
+---
+titulo: "CONVÊNIO ICMS Nº 62, DE 25 DE MAIO DE 2026"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "62"
+data: "2026-05-25"
+revogada: null
+versao_texto: "Texto e notas oficiais do portal CONFAZ conforme a captura; sem certificação de vigência."
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV062_26"
+sha256_html_fonte: "ea588f15a3ca896e2fa83f4d08b643d910bdc64f638b3aeaa48c74df3322e55e"
+sha256_texto: "3969894449237dea13e58cf53ff2fc019117783cfb4bec6f2288563cdf9b1a9c"
+baixado_em: "2026-10-27"
+representacao_corpo: "html-nativo-confaz-piloto-v1"
+observacao_captura: "timestamp original do cliente com fuso, convertido para America/Recife"
+observacao_efeitos: "Condições de ratificação e produção de efeitos preservadas literalmente. Nenhuma data de vigência calculada."
+publicacao_fonte: "Publicado no DOU de 26.05.26, pelo despacho 25/26. | Ratificação Nacional no DOU de 12.06.26, pelo Ato Declaratório 13/26."
+---
+# CONVÊNIO ICMS Nº 62, DE 25 DE MAIO DE 2026
+
+<div id="parent-fieldname-text"><p class="A1-1TituloAcordo">CONVÊNIO ICMS Nº 62, DE 25 DE MAIO DE 2026</p>
+<p class="A2DataPublicacao">Publicado no DOU de 26.05.26, pelo despacho <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/despacho/2026/dp025_26" target="_self" title="despacho 25/26">25/26</a>.</p>
+<p class="A2DataPublicacao">Ratificação Nacional no DOU de 12.06.26, pelo Ato Declaratório <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/atos-declaratorios/2026/ad013_26" target="_self" title="ato declaratorio 13/26">13/26</a>.</p>
+<p class="A3Ementa">Autoriza a concessão de anistia de créditos tributários relativos ao ICMS, decorrentes de  multas moratórias provenientes de instabilidade técnica nos sistemas de arrecadação.</p>
+<p class="A5-1TextoAcordo"><b>O Conselho Nacional de Política Fazendária – CONFAZ,</b> na sua 425ª Reunião Extraordinária, realizada em Brasília, DF, no dia 25 de maio de 2026, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte</p>
+<p class="A4AcordoTipo">CONVÊNIO</p>
+<p class="A5-1TextoAcordo"><b>Cláusula primeira</b> O Estado do Espírito Santo fica autorizado a conceder anistia dos créditos tributários, constituídos ou não, decorrentes das multas moratórias relativas ao Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, cujos fatos geradores ou vencimentos tenham sido impactados pela indisponibilidade técnica do Portal de Emissão do Documento Único de Arrecadação - DUA, ocorrida no período de 30 de março de 2026 a 8 de abril de 2026.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula segunda</b> A exclusão das multas moratórias referentes ao período mencionado na cláusula primeira será aplicada automaticamente no momento da emissão do Documento Único de Arrecadação - DUA, conforme dispuser a legislação estadual.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula terceira</b> O disposto neste convênio:</p>
+<p class="A5-1TextoAcordo">I - não autoriza a restituição ou compensação de importâncias já pagas;</p>
+<p class="A5-1TextoAcordo">II - fica condicionado à observância dos limites e condições estabelecidos em lei específica do Estado do Espírito Santo.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula quarta</b> Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.</p></div>

@@ -1,0 +1,60 @@
+---
+titulo: "Decreto nº 17.264, de 23 de abril de 2021"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "17.264"
+data: "2021-04-23"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/12990"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/10722/text"
+sha256_fonte: "c07f0e9fe68f6eb115f7e11327f639bafb067b41dfc540a0b4df4ccdc9efea8c"
+sha256_texto: "41e1ace7153c178074d022b943122768fb09d74c1885c812556030979cba94d1"
+capturado_em_fonte: "2026-10-27T20:33:39.634676-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Decreto nº 17.264, de 23 de abril de 2021
+
+Abre no Orçamento Anual do Município de Porto Velho Crédito Adicional Suplementar, e dá outras providências.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, amparado pelo Art. 6º da Lei n.º 2.783 de 21 de dezembro de 2020, e
+
+Considerando o Ofício n° 531/DIAD/DA/GAB/SEMASF/2021, de 12 de abril de 2021, no qual a Secretaria Municipal de Assistência Social e da Família – SEMASF, solicita a Abertura de Crédito Adicional para suprir a contra partida, em razão do Convênio n° 286/PGE-2020 entre a Prefeitura Municipal de Porto Velho por interveniência dessa SEMASF, com vistas a assegurar, a parceria com o Governo do Estado de Rondônia através da Secretaria Estadual de Assistência e do Desenvolvimento Social – SEAS, visando a construção de 3 (três) Centros de Referência de Assistência Social (CRAS),
+
+D E C R E T A:
+
+**Art. 1º** – Fica aberto no Orçamento do Município de Porto Velho, Crédito Adicional Suplementar no valor de R$ 264.490,59 (duzentos e sessenta e quatro mil, quatrocentos e noventa reais e cinquenta e nove centavos).
+
+**Art. 2º** – Os recursos necessários à execução do disposto no artigo anterior são decorrentes de Superávit Financeiro apurado no Balanço Patrimonial do Município no exercício de 2020, observado os preceitos do Inciso I, Parágrafo 1º do Art. 43, da Lei n.º 4.320 de 17 de março de 1964, consignados no orçamento na sequência detalhada:
+
+<table><tbody><tr><td colspan="6"><p><strong>12.00 – SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL E DA FAMÍLIA - SEMASF</strong></p></td></tr><tr><td colspan="6"><p><strong>12.01 – SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL E DA FAMÍLIA - SEMASF</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>SUPLEMENTA </strong><strong>R$</strong></p></td></tr><tr><td><p>12.01.08.122.007.1.715</p></td><td><p>Estruturação da Secretaria das Unidades Administrativas e de Acolhimento da SEMASF</p></td><td><p>FIS</p></td><td><p>4.4.90.51</p></td><td><p>3.000</p></td><td><p>264.490,59</p></td></tr><tr><td colspan="5"><p><strong>SUB TOTAL</strong></p></td><td><p><strong>264.490,59</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>264.490,59</strong></p></td></tr></tbody></table>
+
+**Art. 3º** – Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 17.112 de 21.12.2020 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 17.113 de 21.12.2020.
+
+**Art. 4º** – Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** – Revogam-se as disposições em contrário.
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto do Município
+

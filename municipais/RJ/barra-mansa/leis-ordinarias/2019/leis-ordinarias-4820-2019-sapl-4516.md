@@ -1,0 +1,123 @@
+---
+titulo: "Lei Ordinária nº 4.820, de 20 de setembro de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4820"
+data: "2019-09-20"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/4516"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/675/text"
+sha256_fonte: "a55221c9d84e3dbbcaa83108752c11993fa71e29c1493b89cb0940ec5dcb3291"
+sha256_texto: "4427d68d11a23fbe899806f437aeabe7d251e1dec6234456957979ef578e51d0"
+capturado_em_fonte: "2026-10-27T17:33:58.114715-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.820, de 20 de setembro de 2019
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI Nº4820, DE 20 DE SETEMBRO DE 2019.
+
+
+Dispões sobre a regularização e licenciamento ambiental de empreendimento potencialmente poluidores situados no município de Barra Mansa.
+
+
+Art. 1º.
+
+Esta Lei disciplina sobre os prazos e requisitos para regularização e licenciamento ambiental de empreendimentos potencialmente poluidores localizados no município de Barra Mansa – RJ.
+
+
+Art. 2º.
+
+Para efeitos desta Lei, são adotadas as seguintes definições:
+
+
+I –
+
+Licenciamento Ambiental: procedimento administrativo pelo qual o órgão ambiental competente licencia a localização, instalação, ampliação e operação de empreendimentos e atividades utilizadores de recursos ambientais consideradas efetiva ou potencialmente poluidoras ou daquelas que, sob qualquer forma, possam causar degradação ambiental, considerando as disposições legais e regulamentares e as normas técnicas aplicáveis ao caso;
+
+
+II –
+
+Licença Ambiental: ato administrativo pelo qual o órgão ambiental estabelece as condições, restrições e medidas de controle ambiental que deverão ser obedecidas pelo empreendedor, pessoa física ou jurídica, para localizar, instalar, ampliar e operar empreendimentos ou atividades utilizadores dos recursos ambientais consideradas efetiva ou potencialmente poluidoras ou aqueles que, sob qualquer forma, possam causar degradação ambiental;
+
+
+III –
+
+Empreendimento: todo e qualquer empreendimento, atividade, instalação, processo, operação ou dispositivo, móvel ou não, que independentemente de seu campo de aplicação induzam, produzam e gerem ou possam produzir e gerar poluição do meio ambiente;
+
+
+IV –
+
+Atividade potencialmente poluidora: todo o empreendimento ou a atividade passível de licenciamento ambiental assim definida pela Secretaria Municipal do Meio Ambiente e Desenvolvimento Sustentável - SMMADS por ser utilizador de recursos ambientais e/ou considerado efetiva ou potencial causador de impacto ambiental;
+
+
+Art. 3º.
+
+As atividades licenciadas pelo município de Barra Mansa– RJ, através da Secretaria Municipal de Meio Ambiente e Desenvolvimento Sustentável, terão o prazo de 12 (doze) meses, prorrogável por mais 12 (doze) caso aprovado pela SMMADS, para cumprimento de exigências constantes nos respectivos Processos Administrativos de Licenciamento Ambiental.
+
+
+§ 1º
+
+As atividades que trata o caput deste artigo, para que tenham gozo do prazo mencionado, deverão possuir Processo Administrativo de Licenciamento Ambiental em tramitação na SMMADS.
+
+
+§ 2º
+
+Para abertura de Processo Administrativo de Licenciamento Ambiental, obrigatoriamente, deverão ser apresentados os seguintes documentos:
+
+
+I –
+
+Protocolo de solicitação de Certidão de Zoneamento Urbano válido e expedida pela Secretaria Municipal de Planejamento Urbano;
+
+
+II –
+
+Comprovante de propriedade ou posse do imóvel onde de exercício da atividade passível de Licenciamento Ambiental;
+
+
+III –
+
+Formulário de caracterização de atividade;
+
+
+IV –
+
+Requerimento Ambiental;
+
+
+V –
+
+Cartão de confirmação de inscrição no Cadastro Nacional de Pessoas Jurídicas.
+
+
+§ 3º
+
+O Formulário de caracterização de atividade e o Requerimento Ambiental serão fornecidos pela Secretaria Municipal de Meio Ambiente e Desenvolvimento Sustentável para preenchimento.
+
+
+Art. 4º.
+
+Os efeitos desta Lei se aplicarão a atividades de lanternagem, mecânica, pintura e higienização de veículos, bem como as consideradas de irrelevante impacto social e ambiental no local de operação ou instalação.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 20 DE SETEMBRO DE 2019.
+
+
+RODRIGO DRABLE COSTA  
+PREFEITO
+

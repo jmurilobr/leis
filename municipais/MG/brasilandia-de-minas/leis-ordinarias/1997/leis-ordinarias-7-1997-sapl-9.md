@@ -1,0 +1,230 @@
+---
+titulo: "Lei Ordinária nº 7, de 10 de março de 1997"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "7"
+data: "1997-03-10"
+municipio: "Brasilândia de Minas"
+uf: "MG"
+codigo_ibge: "3108552"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.brasilandiademinas.mg.leg.br/norma/9"
+fonte_texto: "https://sapl.brasilandiademinas.mg.leg.br/ta/11/text"
+sha256_fonte: "b02ee0efe22dacfaf69d3cb31afc3545c4f076803e873fcfcd79f9c575d78b5c"
+sha256_texto: "afe8ea4d43710e48e073eebb66ff0c88ca8f7254db409bd77a55cbbcb07c424b"
+capturado_em_fonte: "2026-10-27T20:07:26.458609-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 7, de 10 de março de 1997
+
+"Institui-o Conselho Municipal de Alimentação Escolar e dá outras providências".
+
+
+O Prefeito Municipal de Brasilândia de Minas-MG no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ele em seu nome, sanciona a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado 10 Conselho de Alimentação Escolar com finalidade de assessorar o Governo Municipal na execução do programa de assistência e educação alimentar junto aos estabelecimentos de educação pré-escolar de ensino fundamental mantidos pelo Município, motivando a participação de órgãos públicos e da comunidade na consecução de seus objetivos, competindo-lhe especificamente;
+
+
+I –
+
+Fiscalizar e controlar a aplicação dos recursos destinados à Merenda Escolar:
+
+
+II –
+
+Colaborar com a equipe de setor governamental responsável pela Merenda Escolar, nas ações de programação, execução e avaliação pertinente e implementação do Programa:
+
+
+III –
+
+Realizar estudos e pesquisas de impacto da merenda escolar, entre outros de interesse do Programa:
+
+
+IV –
+
+Acompanhar e avaliar o serviço da merenda escolar:
+
+
+V –
+
+Apreciar e votar, em sessão aberta ao público, e plano de ação da Prefeitura sobre s gestão do PNAE (Programa Nacional de Alimentação Escolar), no inicio do exercício letivo, e a prestação de contas anual a ser apresentada ao FAE:
+
+
+VI –
+
+Colaborar na apuração de denúncia sobre irregularidade na merenda mediante encaminhamento a instância competente, para a apuração dos eventuais casos de que venha tomar conhecimento:
+
+
+VII –
+
+Elaborar uma lista de recomendações, em acordo com a equipe local de execução da merenda escolar, de como dever ser o Programa no Município, observadas as diretrizes de atendimento do PNAE;
+
+
+VIII –
+
+Divulgar a sua atuação como organismo de controle social e de apoio a gestão descentralizada da merenda escolar;
+
+
+IX –
+
+Participar da elaboração dos cardápios do PNAE, respeitando os hábitos alimentares da localidade, sua vocação agrícola e a preferência pelo produto "in natura".
+
+
+X –
+
+Elaborar o seu Regimento Interno.
+
+
+Art. 2º.
+
+O Conselho Municipal de Alimentação Escolar será composto de membros indicados pela sociedade civil e de governo da seguinte forma:
+
+
+I –
+
+Diretor de Departamento de Educação e Cultura;
+
+
+II –
+
+professores das Escolas Municipais;
+
+
+III –
+
+Pais e alunos das Escolas Municipais:
+
+
+IV –
+
+Representantes de Sindicatos organizados do Município:
+
+
+V –
+
+Representantes das Escolas Estaduais;
+
+
+VI –
+
+Outros segmentos da sociedade Civil.
+
+
+§ 1º
+
+O número de representantes de que trata o inciso II e III juntos do presente artigo, não será inferior a 50% (cinquenta por cento) dos membros do Conselho Municipal de Alimentação escolar:
+
+
+§ 2º
+
+para cada membro efetivo, existirá 01 (um) membro suplente correspondente;
+
+
+Art. 3º.
+
+Os membros efetivos e suplentes, do Conselho Municipal de Alimentação Escolar terão mandato de 2 (dois) anos e serão nomeados pelo Prefeito Municipal, após a indicação ou eleição pelas respectivas instituições e entidades a que pertencem.
+
+
+§ 1º
+
+Apenas os representantes do governo municipal serão livre de escolha do Prefeito:
+
+
+§ 2º
+
+O diretor do Departamento Municipal da Educação e Cultura é membro nato do Conselho Municipal de Alimentação Escolar e será seu Presidente;
+
+
+§ 3º
+
+Na ausência ou impedimento do Diretor do Departamento de Educação e Cultura a Presidência do Conselho Municipal de Alimentação Escolar será assumida pelo seu suplente;
+
+
+Art. 4º.
+
+O Conselho Municipal de Alimentação Escolar reger-se-á pelas seguintes disposições, no que se refere a seus membros:
+
+
+I –
+
+exercicio da função de conselheiro não será remunerado;
+
+
+II –
+
+Os membros do Conselho Municipal de Alimentação Escolar serão substituídas caso faltem sem motivo justificado, a 03 (três) reuniões consecutivas ou 06 (seis) reuniões intercaladas no período de 01 (um) ano;
+
+
+III –
+
+Os membros do Conselho Municipal de Alimentação Escolar poderão ser substituídos mediante solicitação da entidade ou autoridade responsável, apresentada ao Prefeito Municipal.
+
+
+Art. 5º.
+
+50 Departamento de Educação e Cultura prestará o apoio administrativo necessário ao funcionamento do Conselho Municipal de Alimentação Escolar.
+
+
+Art. 6º.
+
+O Conselho Municipal de Alimentação Escolar terá 0 seu funcionamento régio pelas seguintes normas:
+
+
+I –
+
+O órgão de deliberação máxima é o plenário:
+
+
+II –
+
+O conselho Municipal de Alimentação Escolar se reunirá ordinariamente uma vez por mês, ou em caráter extraordinariamente quando convocadas pelo seu Presidente ou pela maioria dos membros:
+
+
+III –
+
+Para a realização das sessões plenárias será necessária a presença da maioria absoluta dos membros do Conselho Municipal de Alimentação Escolar, que deliberará pela maioria dos votos dos presentes;
+
+
+IV –
+
+As decisões do Conselho Municipal de Alimentação Escolar serão consubstanciadas em resoluções.
+
+
+Art. 7º.
+
+Para melhor desempenho de suas funções o Conselho Municipal de Alimentação Escolar poderá recorrer a pessoas ou entidades da sociedade civil para assessorar em assuntos técnicos relativos a Merenda Escolar.
+
+
+Art. 8º.
+
+As sessões Plenárias do Conselho Municipal de Alimentação Escolar deverá ser amplamente divulgadas, permitindo o acesso à população interessada.
+
+
+Art. 9º.
+
+Conselho Municipal de Alimentação Escolar deverá elaborar e aprovar em assembleia Geral, seu Regimento Interno по prazo de 60 (sessenta) dias após a promulgação dessa Lei:
+
+
+Art. 10.
+
+As despesas decorrentes da aplicação desta Lei correrão por conta de dotações próprias do Orçamento Municipal.
+
+
+Art. 11.
+
+Esta Lei entrará em vigor na data de sua publicação revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Brasilândia de Minas-MG. 10 de Março de 1.997
+
+**João Cardoso do Couto**
+
+**Prefeito Municipal**
+

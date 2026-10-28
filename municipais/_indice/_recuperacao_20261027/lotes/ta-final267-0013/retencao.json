@@ -1,0 +1,74 @@
+{
+  "candidatos": 1000,
+  "aprovados": 267,
+  "retidos": 733,
+  "jurisdicao": [
+    {
+      "path": "municipais/SP/caconde/leis-ordinarias/2021/leis-ordinarias-2818-2021-sapl-52.md",
+      "sha256": "bbf417b8baf3bd676d185ffba14f843f4e4a0274fc1aa7174ce070c6584ba3a9",
+      "esfera_federacao_api": "M",
+      "alertas": [
+        {
+          "municipio_declarado": "Caconde",
+          "municipio_no_cabecalho_normalizado": "estancia",
+          "offset": 3137,
+          "trecho": "ado anualmente.\n\n\nArt. 4º.\n\nOs cadastros deverão ser realizados pela Internet, no site da Prefeitura Municipal da Estância Climática de Caconde “www.caconde.sp.gov.br” e, após regulamentações, será permitido o atendimento presencial ao público, também no Departamento de Cultura e Educação.\n\n\nA"
+        },
+        {
+          "municipio_declarado": "Caconde",
+          "municipio_no_cabecalho_normalizado": "estancia",
+          "offset": 4938,
+          "trecho": "s as disposições em contrário. Registre-se, publique-se e dê-se ciência aos interessados. Prefeitura Municipal da Estância Climática de Caconde, 23 de novembro de 2021.\n\n\nJoão Filipe Muniz Basilli  \nPrefeito Municipal\n\n"
+        }
+      ]
+    },
+    {
+      "path": "municipais/MG/cabeceira-grande/leis-ordinarias/2013/leis-ordinarias-388-2013-sapl-496.md",
+      "sha256": "1bb851fcae4cb4ab7e94f1779f0d71072cc77a6632e8cbd2baf585e4efe5edc0",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/MG/cabeceira-grande/leis-ordinarias/2013/leis-ordinarias-386-2013-sapl-493.md",
+      "sha256": "27a8306eda42489f811b7f51bf4ddd7455d93c56291ec806f11f4db97fe520b7",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/MG/cabeceira-grande/resolucoes/2012/resolucoes-55-2012-sapl-541.md",
+      "sha256": "81106fe387c5080f9bce3a0ae183b8447d5630710d347768f79811a6cf4e86f7",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    }
+  ],
+  "replay_retidos": [
+    "municipais/MG/cabeceira-grande/leis-ordinarias/2015/leis-ordinarias-472-2015-sapl-599.md",
+    "municipais/PE/cabo-de-santo-agostinho/resolucoes/2026/resolucoes-17-2026-sapl-3885.md",
+    "municipais/PE/cabo-de-santo-agostinho/resolucoes/2026/resolucoes-16-2026-sapl-3874.md",
+    "municipais/PE/cabo-de-santo-agostinho/resolucoes/2026/resolucoes-15-2026-sapl-3873.md",
+    "municipais/PE/cabo-de-santo-agostinho/resolucoes/2026/resolucoes-13-2026-sapl-3853.md",
+    "municipais/PE/cabo-de-santo-agostinho/resolucoes/2026/resolucoes-11-2026-sapl-3851.md",
+    "municipais/MG/cabeceira-grande/leis-ordinarias/2014/leis-ordinarias-442-2014-sapl-568.md",
+    "municipais/PE/cabo-de-santo-agostinho/decretos-legislativos/2026/decretos-legislativos-1-2026-sapl-3037.md",
+    "municipais/GO/cacu/leis-ordinarias/2025/leis-ordinarias-2678-2025-sapl-5447.md",
+    "municipais/PE/cabo-de-santo-agostinho/leis-ordinarias/2026/leis-ordinarias-4175-2026-sapl-2992.md",
+    "municipais/PE/cabo-de-santo-agostinho/leis-ordinarias/2026/leis-ordinarias-4165-2026-sapl-2990.md",
+    "municipais/PE/cabo-de-santo-agostinho/decretos/2026/decretos-2776-2026-sapl-2928.md"
+  ],
+  "criterio": "Retidos não integram a lista de normas. Controles conservam os motivos e identidades; não promovidos por contagem ou por comparação da mesma conversão."
+}

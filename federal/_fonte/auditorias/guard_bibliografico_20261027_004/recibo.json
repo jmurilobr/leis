@@ -1,0 +1,26 @@
+{
+  "estado": "Proposta privada não aplicada ao módulo vivo. Mudança mínima de um padrão de remissão; 74 testes anteriores +6 novos =80 aprovados.",
+  "base_viva": {
+    "path": "scripts/integridade_anexos_decreto.py",
+    "sha256": "3cd60ac4a398a27cc0f646f891e853f6b120b1a963deb4cc9f0ccfd7d6ca0cd0"
+  },
+  "candidato": {
+    "path": "federal/_fonte/auditorias/guard_bibliografico_20261027_004/integridade_anexos_decreto.py",
+    "sha256": "3f581fc23aa987e6b614a9e7bd61e10f69583d07de018685b625cd59758bf466"
+  },
+  "alteracao": "Reconhecer pontuação literal entre presente/este/esta e decreto na relação atual, antes da dispensa por remissão externa. Não muda, normaliza ou emenda texto da norma. O retorno continua revisão documental, sem concluir ausência pelo marcador.",
+  "caso_real": {
+    "path": "federal/decretos/1937/dec-1908-1937-08-23.md",
+    "origem_fixture": "federal/_fonte/auditorias/alimentacao_normas_20261027_009/retencoes_contextuais001/fontes_provas7.jsonl.gz",
+    "sha256_origem": "454ceb55bf8ac6b2ab3c4d1454c6ceb6aaaef8f6919a28ef4677471214864eb5"
+  },
+  "delta": {
+    "fontes_examinadas": 2468,
+    "mudancas_de_estado": 0,
+    "registros": [],
+    "fontes": "1.347 fontes integrais dos pacotes 145/454/748 e 1.121 fontes do preparo 010. Não reapresenta as 24 retidas como publicáveis.",
+    "limites": "Delta diagnóstico, não auditoria humana universal nem máscara. O caso real 1.908 está em fixture separada e já retido antes dos lotes; por isso não pertence ao grupo 1.347."
+  },
+  "fora_do_escopo": "Não resolve por si aprovação de estatutos fora de artigos, projetos/plantas/orçamentos prometidos ou retificação tomada como suplemento. Esses casos continuam exigindo a triagem contextual privada e não recebem exceções por número de norma.",
+  "integracao": "Exclusiva ROOT. Coletor 011 ainda carrega guard 74; preservar janela de integração e snapshots. Nenhum script vivo, MD, máscara, registro ou Git foi alterado pelo agente."
+}

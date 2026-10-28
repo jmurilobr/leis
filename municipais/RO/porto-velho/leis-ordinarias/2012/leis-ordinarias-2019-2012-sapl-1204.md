@@ -1,0 +1,290 @@
+---
+titulo: "Lei nº 2.019, de 19 de junho de 2012"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2019"
+data: "2012-06-19"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/1204"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/2917/text"
+sha256_fonte: "d5cd12e57e152e4ff125e0d1150e82f8b0fc0b0dc25e35aedbd9f3af8c786b93"
+sha256_texto: "391f2602cdca7e10a2a066a8c2840cf56d8ed4ffc98c4649d0517ac5283c5993"
+capturado_em_fonte: "2026-10-27T21:08:35.329430-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 2.019, de 19 de junho de 2012
+
+“Adota o Programa Brasileiro de Qualidade e Produtividade no Habitat PBQP-H, e dá outras providências”.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, no uso da atribuição que lhe confere a Lei Orgânica e, com fulcro na Lei Federal nº. 9.989, de 21 de julho de 2000, e na Portaria nº. 134, de 18 de dezembro de 1998, do Ministério do Planejamento:
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte
+
+**LEI:**
+
+
+Art. 1º.
+
+É adotado o Programa Brasileiro de Qualidade e Produtividade do Habitat na cidade de Porto Velho, capital do Estado de Rondônia (PBQP-H), mediante as seguintes diretrizes:
+
+
+I –
+
+autuação integrada do Poder Público;
+
+
+II –
+
+parceria entre agentes públicos e privados;
+
+
+III –
+
+parceria entre agentes públicos e privados;
+
+
+a)
+
+da estrutura produtiva do setor, em especial da sua capacidade tecnológica, gerencial e de desempenho ambiental;
+
+
+b)
+
+das infraestruturas laboratorial e de pesquisa para o desenvolvimento tecnológico e de prestação de serviços;
+
+
+IV –
+
+incentivo à utilização de novas tecnologias para a produção habitacional e suas infraestruturas;
+
+
+V –
+
+estímulo a:
+
+
+a)
+
+programas evolutivos de aperfeiçoamento da qualidade e aumento da produtividade por parte dos participantes;
+
+
+b)
+
+incorporação de práticas ambientais no setor da construção civil voltadas para a economia de matéria-prima e insumos no processo construtivo e para a racionalização do uso da água e da energia nas habitações.
+
+
+Art. 2º.
+
+São objetivos específicos do PBQP-H/PVH:
+
+
+I –
+
+aperfeiçoar:
+
+
+a)
+
+a qualidade dos materiais, componentes, sistemas construtivos, projetos e obras;
+
+
+b)
+
+o dispêndio de recursos humanos, materiais e insumos naturais e energéticos nas obras e serviços promovidos pela administração direta e indireta;
+
+
+II –
+
+induzir o setor produtivo a adotar normas setoriais de qualidade com vistas à elaboração e atualização de treinamento da mão de obra e a implantação de processos de qualificação, homologação e certificação de produtos, obras e serviços;
+
+
+III –
+
+incrementar o desenvolvimento do PBQP-H/PVH mediante cooperação associativa com entidades nacionais, internacionais e estrangeiras;
+
+
+IV –
+
+universalização do acesso a moradias;
+
+
+V –
+
+ampliar o estoque de moradias e melhorar as existentes.
+
+
+Art. 3º.
+
+Incumbe ao Secretário Municipal de Planejamento e Gestão, com o auxílio do Secretário Municipal de Regularização Fundiária e Habitação;
+
+
+I –
+
+supervisionar os trabalhos objeto do PBQP-H/PVH;
+
+
+II –
+
+promover a cooperação entre entidades públicas e privadas com vistas ao desenvolvimento de programas de qualidade no processo de construção de moradias e infraestruturas;
+
+
+III –
+
+divulgar os trabalhos do PBQP-H/PVH.
+
+
+Art. 4º.
+
+O PBQP-H/PVH é dirigido pelo Conselho de Coordenação, auxiliado por um Secretário Executivo.
+
+
+§ 1º
+
+Integram o Conselho de Coordenação seis membros e respectivos suplentes, representando os seguintes órgãos:
+
+
+I –
+
+Secretaria Municipal de Planejamento e Gestão – SEMPLA;
+
+
+II –
+
+Secretaria Municipal de Regularização Fundiária e Habitação – SEMUR;
+
+
+III –
+
+Secretaria Municipal de Obras – SEMOB;
+
+
+IV –
+
+Conselho Regional de Engenharia, Arquitetura e Agronomia de Rondônia – CREA-RO;
+
+
+V –
+
+Sindicato da Indústria da Construção Civil e Mobiliária de Porto Velho – SINDUSCON-PVH.
+
+
+VI –
+
+Sindicato dos Corretores de Imóveis do Estado de Rondônia – SINDIMOVEIS-RO.
+
+
+§ 2º
+
+Incumbe ao Conselho de Coordenação:
+
+
+I –
+
+gerir as ações do PBQP-H/PVH;
+
+
+II –
+
+estabelecer metas, estratégias e prioridades para sua implementação;
+
+
+III –
+
+manter acordos:
+
+
+a)
+
+setoriais que definam metas, prazos e indicadores com vistas a preservar os padrões de qualidade.
+
+
+b)
+
+de cooperação com entidades públicas e privadas para o desenvolvimento de programas de qualidade compatíveis com os objetos do PBQP-H/PVH;
+
+
+IV –
+
+definir, em conjunto com o meio produtivo e em consonância com os objetivos do PBQP-H/PVH, as diretrizes de políticas voltadas para a qualidade dos produtos e serviços;
+
+
+V –
+
+avaliar os resultados do PBQP-H/PVH, relatando-os periodicamente à Secretaria Nacional de Habitação do Ministério das Cidades.
+
+
+§ 3º
+
+Incumbe ao Secretário Executivo;
+
+
+I –
+
+implementar as ações definidas pelo Conselho de Coordenação;
+
+
+II –
+
+promover o inter-relacionamento do PBQP-H/PVH com entidades setoriais parceiras, tais como agências de fomento, associações de defesa do consumidor, entidades da construção civil, instituições técnicas e órgãos governamentais;
+
+
+III –
+
+executar o planejamento financeiro do PBQP-H/PVH no Município de Porto Velho.
+
+
+§ 4º
+
+São de apoio técnico ou tecnológico, para os fins deste Projeto, as entidades públicas ou privadas com atuação no setor da construção civil na cidade de Porto Velho/RO, inclusive as que se dedicam ao ensino e formação de profissionais da área.
+
+
+Art. 5º.
+
+As funções de membro do Conselho de Coordenação, de Coordenador-Geral e de Secretário Executivo são consideradas de interesse público relevante e não serão remuneradas.
+
+
+Art. 6º.
+
+Os editais de licitação de projetos, obras e serviços de engenharia dos órgãos aderentes ao PBQP-H/PVH conterão exigências sobre a demonstração da qualidade de produtos e serviços, respeitados os prazos e metas previstos nos acordos setoriais.
+
+
+Art. 7º.
+
+As metas previstas nos acordos setoriais serão definidas em noventa dias da vigência desta Lei.
+
+
+Art. 8º.
+
+Os recursos a cargo do Município de Porto Velho necessários ao desenvolvimento das atividades do PBQP-H/PVH correrão à conta das dotações consignadas no orçamento dos órgãos integrantes.
+
+
+Art. 9º.
+
+Fica o Poder Executivo autorizado a regulamentar a presente Lei no que for necessário.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**ROBERTO EDUARDO SOBRINHO**
+
+Prefeito do Município
+
+SALATIEL LEMOS VALVERDE
+
+Procurador Geral do Município
+
+**Projeto de Lei nº 2.835/2012**
+
+**Autoria: Ver. Maurílio Vasconcelos.**
+

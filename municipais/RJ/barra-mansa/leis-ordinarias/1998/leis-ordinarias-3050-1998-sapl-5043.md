@@ -1,0 +1,229 @@
+---
+titulo: "Lei Ordinária nº 3.050, de 23 de dezembro de 1998"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3050"
+data: "1998-12-23"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/5043"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/2409/text"
+sha256_fonte: "773e3e0d18fc88767e13c328052f154b137c9b5dad34e4e6b21ff27b0d5b9463"
+sha256_texto: "b3b88abefc21fd21c3b33d1fce18daecb8f390cd4811568a8297d0a890534e4a"
+capturado_em_fonte: "2026-10-27T18:32:21.640562-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 3.050, de 23 de dezembro de 1998
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI Nº 3.050, DE 23 DE DEZEMBRO DE 1998.
+
+
+Disciplina todas as atividades relacionadas com o trânsito, transporte, estacionamento, manutenção, abastecimento, lubrificação, lavagem e manobras de veiculos ferroviários e ainda atividades que promovam danos ambientais ao Município de Вага Маnsa.
+
+
+CAPÍTULO PRIMEIRO
+
+DAS DISPOSIÇÕES LEGAIS
+
+
+Art. 1º.
+
+Ficam proibidas todas e quaisquer operações de manobra, movimentação, estacionamento, manutenção ou abastecimento de composições ferroviárias de qualquer natureza, no trecho urbano de linhas férreas compreendido entre a divisa leste de Barra Mansa com Volta Redonda e o ponto extremo oeste do Bairro Vila Maria neste Município, que interfiram ou promovam agressões ao meio ambiente ou que interrompam o trânsito urbano diário de pedestres e veículos em qualquer das passagens de nivel existentes, por qualquer que seja o tempo que demandarem, sem que seja solicitada autorização prévia e formal ao Poder Executivo Municipal.
+
+
+Art. 2º.
+
+De qualquer forma as interrupções somente serão autorizadas nos seguintes casos:
+
+
+I –
+
+Passagem livre e direta de composições que se destinem a outros Municípios;
+
+
+II –
+
+Operações onde sejam comprovadas necessidades de manutenção das linhas férreas; e
+
+
+III –
+
+Ocorrência de acidentes no trecho em questão.
+
+
+§ 1º
+
+Com exceção do previsto no inciso III, todas as demais necessidades de interrupção deverão ser objeto de comunicação prévia, formal e rotineira, com 48 horas de antecedência, ao Poder Executivo, fixando os horários previstos e as alterações que vierem a ser decididas pelos responsáveis pela operação das linhas.
+
+
+§ 2º
+
+Havendo autorização de interrupção, os responsáveis pelo trânsito ferroviário deverão fazer comunicação clara e em tempo hábil nos meios de comunicação existentes no Município e Região, sendo obrigatório incluir nota oficial em emissoras de rádio e televisão, explicitando as causas, o tempo previsto de interrupção e as alternativas para o trânsito urbano de pessoas e veículos.
+
+
+§ 3º
+
+Ocorrendo o previsto no inciso III - acidentes em qualquer ponto definido no artigo 1º, os responsáveis pela operação das linhas deverão informar imediatamente o ocorrido ao Poder Executivo e providenciar a divulgação a população, na forma definida no parágrafo segundo.
+
+
+Art. 3º.
+
+O transporte ferroviário de minérios, graneis, outras matérias primas ou manufaturados de qualquer natureza, no interior da malha urbana do Município, no trecho definido no art. 19, somente poderá ocorrer em vagões fechados, ou em vagões devidamente enlonados.
+
+
+Art. 4º.
+
+O transporte de cargas perigosas, inflamáveis ou tóxicas, que coloquem em risco a saúde ou a vida de pessoas ou qualquer risco de dano ambiental, somente será permitido após liberação de autorização requerida ao Executivo Municipal, com antecedência de 48(quarenta e oito) horas ou, em caso de freqüência regular, após a aprovação de programa regular de transporte devidamente aprovado pelo Município.
+
+
+Art. 5º.
+
+Em cumprimento ao que determinam as legislações Federais, Estaduais e Municipais relativas à segurança e proteção ao indivíduo e dos direitos do cidadão, os Concessionários da exploração comercial das linhas férreas são responsáveis por е deverão providenciar, dentro de 90(noventa) dias após a publicação da presente lei:
+
+
+I –
+
+Projeto para cercar ou gradear, em toda a extensão da malha urbana, no trecho definido no art. 1°, a faixa de domínio do feixe de linhas ferroviárias sob sua jurisdição, definido em comum acordo com os órgãos técnicos do Poder Executivo, incluindo também a parte paisagística de embelezamento, com prazo de implantação estabelecido de comum acordo, não ultrapassando 180(cento e oitenta) dias após a aprovação do mesmo, devidamente apreciado pela Comissão de Assuntos Ferroviários a ser criada conforme reza no art. 7° da presente lei.
+
+
+II –
+
+Implantar cancelas automáticas, sinais luminosos, guaritas eletrônicas e designar operadores de cancela para todas as passagens de nível existentes e também as que venham ser implantadas, a qualquer tempo, no trecho definido no art. 1º, que funcionarão em regime de 24 (vinte e quatro) horas de operação.
+
+
+III –
+
+Implantar sinais luminosos e cancelas automáticas em travessias de pequeno movimento, sempre mediante aprovação do órgão técnico do Poder Executivo.
+
+
+Art. 6º.
+
+Fica criada a Comissão para Assuntos Ferroviários do Município, ligada diretamente ao Prefeito Municipal, que terá como finalidade:
+
+
+I –
+
+Analisar, avaliar e decidir sobre as questões ligadas ao trânsito de composições ferroviárias no interior da malha urbana do Município;
+
+
+II –
+
+Coordenar a elaboração de estudos de Impacto Ambiental relativa às operações de trânsito ferroviário no trecho definido no art. 1º, propondo as medidas de caráter restritivo que se fizerem necessárias;
+
+
+III –
+
+Propor medidas de Compensação Ambiental que venham a ser necessárias em face da movimentação ferroviária no Municipio;
+
+
+IV –
+
+Julgar em grau de recurso as defesas apresentadas pelas Operadoras e Concessionárias do sistema Ferroviário no Município;
+
+
+V –
+
+Viabilizar estudos no sentido de determinar o órgão competente do Poder Executivo que arcará com a responsabilidade da fiscalização do cumprimento da presente lei, assim como emitir notificações e multas aos infratores; e
+
+
+VI –
+
+Orientar o departamento apto a fiscalizar o cumprimento da presente lei, dirigindo e respaldando o órgão fiscalizador das diretrizes e informações indispensáveis para o fiel atendimento ao disposto na lei em questão.
+
+
+Art. 7º.
+
+A Comissão para Assuntos Ferroviários será constituida de um membro titular e um suplente de cada um dos seguintes órgãos:
+
+
+I –
+
+Câmara Municipal de Barra Mansa.
+
+
+II –
+
+Associação Comercial Industrial e Agro - Pastoril de Barra Mansa - ACIAP -BM.
+
+
+III –
+
+Câmara de Dirigentes Lojistas de Barra Mansa.
+
+
+IV –
+
+Associação dos Engenheiros de Arquitetos de Barra Mansa.
+
+
+V –
+
+Secretaria Municipal de Planejamento e Meio- Ambiente -SMPU- PMBM.
+
+
+VI –
+
+Concessionárias dos serviços ferroviários.
+
+
+CAPÍTULO SEGUNDO
+
+DAS PENALIDADES
+
+
+Art. 8º.
+
+O descumprimento de qualquer das disposições da presente lei, após haverem sido devidamente notificados, motivará a aplicação de penalidades aos Concessionários, da seguinte forma:
+
+
+I –
+
+Multa de 1.000 a 10.000 UFIR para cada interrupção de trânsito urbano de pessoas ou veículos, sem autorização do Poder Executivo.
+
+
+II –
+
+Multa de 50 UFIR por vagão que não se encontrar em acordo  
+com o disposto no Art. 3°.
+
+
+III –
+
+Multa de 50.000 UFIR pela não obediência ao disposto no Art.4°
+
+
+IV –
+
+Multa de 100 UFIR por dia em que não for obedecido o disposto no Art. 2°, parágrafos 2º e 3°.
+
+
+V –
+
+Multa diária de 500 UFIR para cada passagem de nivel não enquadrada no prazo concedido pelo Poder Executivo, nas condições previstas nos incisos II e II do Artigo 5°.
+
+
+Art. 9º.
+
+O não cumprimento do disposto no Artigo 5°, inciso I, relativo ao prazo de implantação de cercas e grades determinará a imediata aplicação de multa de 500.000 UFIR, independentemente de outras sanções legais.
+
+
+Art. 10.
+
+A presente LEI entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 23 DE DEZEMBRO DE 1998.
+
+
+MARIA INÊS PANDELÓ CERQUEIRA  
+PREFEITA
+

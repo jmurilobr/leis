@@ -1,0 +1,65 @@
+---
+titulo: "04 - Lei Ordinária nº 1.297, de 26 de março de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "1297"
+data: "2025-03-26"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1407"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1413/text"
+sha256_fonte: "eef2d4d1539602352eb36fd14c3ae2c78eb45a859982751e3dae9804db73da61"
+sha256_texto: "4c3d60018faacbe7cc0ad39f6d0c0a1a05b5a90fbcccb6844c6ffc29bfa7d987"
+capturado_em_fonte: "2026-10-28T04:25:29.524926-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 1.297, de 26 de março de 2025
+
+Autoriza o Poder Executivo a contratar operação de crédito com a Caixa Econômica Federal, e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+LEI
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a contratar operação de crédito junto à Caixa Econômica Federal, até o valor de R$ 3.526.000,00 (três milhões quinhentos e vinte e seis mil reais), no âmbito do programa Pró Moradia, nos termos da Portaria do Ministério das Cidades nº 268 de 19 de março de 2024, publicada no Diário Oficial da União em 22 de agosto de 2024, destinados a construção de unidades habitacionais e infraestrutura, observada a legislação vigente, em especial as disposições da Lei Complementar Federal nº 101, de 4 de maio de 2000.
+
+
+Art. 2º.
+
+Para pagamento do principal, juros, tarifas bancárias e outros encargos da operação de crédito de que trata esta Lei, fica o Poder Executivo autorizado a ceder ou vincular em garantia, em caráter irrevogável e irretratável, a modo “pro solvendo”, as receitas a que se referem alíneas “b”, “d”, “e” e “f”, do inciso I, do art. 159, nos termos do inciso IV, do art. 167, todos da Constituição Federal, ou outros recursos que, com idêntica finalidade, venham a substituí-los, bem como outras garantias admitidas em direito.
+
+
+Art. 3º.
+
+Os recursos provenientes da operação de crédito a que se refere esta Lei deverão ser consignados como receita no orçamento ou em créditos adicionais, nos termos do inciso II, do § 1º, do art. 32, da Lei Complementar Federal nº 101, de 2000.
+
+
+Art. 4º.
+
+Fica o Chefe do Poder Executivo autorizado a abrir créditos adicionais destinados a fazer face aos pagamentos de obrigações decorrentes da operação de crédito ora autorizada.
+
+
+Art. 5º.
+
+Esta lei entrará em vigor na data de sua publicação.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná  
+Em 26 de março de 2025, 64º da Emancipação Política.
+
+Thiago Daross Stefanello  
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 2250 de 26/03/2025, pág. 45-47.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1407/ta
+

@@ -1,0 +1,23 @@
+---
+titulo: "PORTARIA Nº 307, DE 16 DE ABRIL DE 2020"
+orgao: "Ministério da Economia/Superintendência da Zona Franca de Manaus/Gabinete"
+tipo: "Portaria"
+numero: "307"
+data: 2020-04-16
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/04/2020, seção 1, p. 23"
+data_publicacao: 2020-04-22
+edicao: "76"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-307-de-16-de-abril-de-2020-253341306"
+sha256_html_fonte: 43aad7897f54b955726d1c01bc55bac5dce9c01f021e64c21ce6a81bafe65434
+baixado_em: 2026-10-21
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# PORTARIA Nº 307, DE 16 DE ABRIL DE 2020
+
+<div class="texto-dou"><p class="identifica">PORTARIA Nº 307, DE 16 DE ABRIL DE 2020</p><p class="dou-paragraph" >O SUPERINTENDENTE DA SUPERINTENDÊNCIA DA ZONA FRANCA DE MANAUS, no uso das atribuições que lhe foram conferidas pelo art. 20 do Decreto nº 7.139, de 29 de março de 2010, e e os §§ 2º e 5° do art. 33 do Decreto nº 6.008, de 29 de dezembro de 2006;</p><p class="dou-paragraph" >CONSIDERANDO o que consta nos Processos nº 52710.006807/2007-28, 52710.001076/2016-15, 52710.000325/2017-36, 52710.001923/2018-11 e 52710.004513/2018-14, os termos do Parecer Técnico nº 35/2020/COATE/CGTEC/SAP e da Nota Técnica nº 28/2020- COATE/CGTEC/SAP e a constatação de inadimplência referente aos investimentos em Pesquisa e Desenvolvimento na Amazônia Ocidental, estabelecidos nas Portarias Interministeriais MDIC/MCT nº 150, de 15 agosto de 2007, nº 163, de 06 de setembro de 2007, nº 55, de 17 de fevereiro de 2005, nº 405, de 22 de dezembro de 2015, e Resoluções CAS nº 27, de 17 de março de 2006 e nº 151, de 3 de agosto de 2006, que deveriam ter sido realizados pela empresa SIEMENS ELETROELETRÔNICA LTDA., produtora de DISPOSITIVO DE PROTEÇÃO À CORRENTE DIFERENCIAL RESIDUAL - DR/Código Padrão nº 1454, FUSÍVEL DO TIPO NH/Código Padrão nº 1717 e CHAVE SECCIONADORA SOB CARGA/Código Padrão nº 1718, nos anos 2011, 2015, 2016, 2017 e 2018; e</p><p class="dou-paragraph" >CONSIDERANDO a constatação de inadimplência da empresa SIEMENS ELETROELETRÔNICA LTDA. referente a dispensa de etapas do Processo Produtivo Bruto (PPB) tendo como contrapartida cumprimento do compromisso de exportação e/ou de aplicação em atividades de pesquisa e desenvolvimento, na região Amazônica; e</p><p class="dou-paragraph" >CONSIDERANDO que foram esgotadas todas as providências para que a empresa se pronunciasse sobre a necessidade de regularização referente ao investimento em atividades de P&amp;amp;amp;D, resolve:</p><p class="dou-paragraph" >Art. 1º Suspender, por 90 dias, com base no § 4º do art. 27 da Resolução SUFRAMA nº 71, de 6 de maio de 2016, os incentivos fiscais concedidos às linhas dos produtos abaixo listados, da empresa SIEMENS ELETROELETRÔNICA LTDA., beneficiária do incentivo previsto no art. 7º, § 4º do Decreto-Lei nº 288, de 28 de fevereiro de 1967, que se encontra inadimplente quanto aos investimentos em P&amp;D previstos nas Portarias Interministeriais MDIC/MCT nº 150, de 15 agosto de 2007, nº 163, de 06 de setembro de 2007, nº 55, de 17 de fevereiro de 2005, nº 405, de 22 de dezembro de 2015, e Resoluções CAS nº 27, de 17 de março de 2006 e nº 151, de 3 de agosto de 2006.</p><p /><p class="dou-paragraph" ></p><table class="dou-table" ><tr /><tr><td><p class="dou-paragraph" ><strong class="dou-strong" >DESCRIÇÃO DO PRODUTO /</strong></p><p class="dou-paragraph" ><strong class="dou-strong" >CÓDIGO SUFRAMA</strong></p></td><td><p class="dou-paragraph" ><strong class="dou-strong" >DOCUMENTO APROBATÓRIO</strong></p></td></tr><tr><td><p class="dou-paragraph" >Dispositivo de proteção à corrente diferencial residual - DR/1454</p></td><td><p class="dou-paragraph" >Resolução nº 27, de 17 março de 2006</p></td></tr><tr><td><p class="dou-paragraph" >Fusível do tipo NH/1717</p></td><td><p class="dou-paragraph" >Resolução Nº 27, de 17 de março de 2006</p></td></tr><tr><td><p class="dou-paragraph" >Chave seccionadora sob carga/1718</p></td><td><p class="dou-paragraph" >Resolução nº 151, de 3 de agosto de 2006</p></td></tr></table><p class="dou-paragraph" >Art. 2º A suspensão vigorará até que sejam adimplidas as obrigações, hipótese em que se dará a reabilitação, ou, caso contrário, expire-se o prazo estabelecido, quando serão cancelados os benefícios por meio de Resolução do Conselho de Administração da SUFRAMA - CAS.</p><p class="dou-paragraph" >Art. 3º Esta Portaria entra em vigor na data de sua publicação.</p><p class="assina">ALFREDO ALEXANDRE DE MENEZES JÚNIOR</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

@@ -1,0 +1,93 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 4: admite somente tabelas nativas com prova independente de células, ordem e mesclagens. Mantém todos os demais gates. Também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 272,
+  "aprovados_nestes_gates": 175,
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.divinopolis.mg.leg.br.prefixo.jsonl",
+      "sha256": "fca86e8794dd1557a05eab704b7939683fce765dcf29bb89075228ba358dcd5d",
+      "bytes": 220073
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.divinopolis.mg.leg.br.tipos.json",
+      "url": "https://sapl.divinopolis.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "738ddc1f4c29d3c2bc6bd1b6060b0f4fa058cb5b9ef69e49123b8e123a5fa9e0"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.divinopolis.mg.leg.br.anexos.json",
+      "sha256": "d3c7cadb5caabc657a381995441251bdfa071e08350a0e5f909160a6f5fb4e87"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.durande.mg.leg.br.prefixo.jsonl",
+      "sha256": "2bc260497049e7f238395f86ea6a158f280ff751be2208d227009c3f9aa5b7aa",
+      "bytes": 56344
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.durande.mg.leg.br.tipos.json",
+      "url": "https://sapl.durande.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "587d9f0fb7fbb6a99a3b20f2f3d298b9f5db557419cd49a6f85586659b7c32e1"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.durande.mg.leg.br.anexos.json",
+      "sha256": "963b1cf4ba6054c3c9c385833aa251d4392763a3e8200e1b285511a2969dba13"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.embuguacu.sp.leg.br.prefixo.jsonl",
+      "sha256": "ac2dda057e01c4d8f8663f0000cbbf0b6d287bf36e4d04a601e3526b112cd3ae",
+      "bytes": 3279
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.embuguacu.sp.leg.br.tipos.json",
+      "url": "https://sapl.embuguacu.sp.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "3460f6203fcd277aaeb8436a7fd2f4b5bf7a9aa3789f61d30c7d924d262030cd"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.embuguacu.sp.leg.br.anexos.json",
+      "sha256": "fc152bdcd4a8fa5576f614e09356395bc154952911a137f3dcf5e48c087cf417"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.engenheiropaulodefrontin.rj.leg.br.prefixo.jsonl",
+      "sha256": "9be1174268ce445edf8911590675c2ebf7a0bdda60716a5b3ac7f82e4ad79ed4",
+      "bytes": 507692
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.engenheiropaulodefrontin.rj.leg.br.tipos.json",
+      "url": "https://sapl.engenheiropaulodefrontin.rj.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "c7b2c14b43c3d60cf19217f47aad30bb8b0fff3964c79f12c05b7e6daf05fc94"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.engenheiropaulodefrontin.rj.leg.br.anexos.json",
+      "sha256": "2e5f01111b6b3ae535b041c4eb8f02c46b1743263c346025314b4dcd7031441d"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.esperafeliz.mg.leg.br.prefixo.jsonl",
+      "sha256": "fe9ebcdffeb952b4e59a8f7b8c1fb0b66361eb19195a2a82ee819bf265b312e6",
+      "bytes": 76975
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.esperafeliz.mg.leg.br.tipos.json",
+      "url": "https://sapl.esperafeliz.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "52db4a49d40f127644a758db7bf4b286eda34c428b4d1af3aff1b870c7ce5352"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.esperafeliz.mg.leg.br.anexos.json",
+      "sha256": "226fee09b5d5188ae6a50fd4cd76e34cd23270bbe0f38b2710cd506a58fb7245"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.eusebio.ce.leg.br.prefixo.jsonl",
+      "sha256": "39f6dea82ee505a2d6339fd547eae91beb09693fbbdb30cf09be127896d32bee",
+      "bytes": 111716
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.eusebio.ce.leg.br.tipos.json",
+      "url": "https://sapl.eusebio.ce.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "eba23b5fd83d49abc6fccad8c575ee340ebff66680fe3cb57b76f8e7dab016e0"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0025/sapl.eusebio.ce.leg.br.anexos.json",
+      "sha256": "63e96d29fc3b283eb43365f6813c12133c566cacf05e18cd477a3e05903a838b"
+    }
+  ],
+  "script_sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

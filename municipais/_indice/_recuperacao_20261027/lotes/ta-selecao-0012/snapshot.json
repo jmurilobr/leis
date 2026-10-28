@@ -1,0 +1,4395 @@
+{
+  "criterio": "Congela o próximo lote de candidatos TA, sem repetir identidades já examinadas.\n\nVersão 2: exporta diários/anexos apenas de portais selecionados, evitando exigir\nmetadados de tipos de portais sem candidatos neste lote.\n\nO limite é somente o tamanho do lote de trabalho. A coleta de portais continua;\nreexecuções com as exclusões anteriores cobrem os candidatos seguintes.\n",
+  "selecionados": 745,
+  "disponiveis_apos_exclusoes": 745,
+  "exclusoes": [
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/resultados.jsonl",
+      "sha256": "e02a8d1e15f881485d78bfb6bac0b0a0a7f13ebc35875898b06f22e12fcf9969"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0002/resultados.jsonl",
+      "sha256": "4a236a292f92deb5da31a24f10e313f93187a130772028803738532174987183"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0003/resultados.jsonl",
+      "sha256": "a30f0beb3bcdf6410883449224177c20241655bccee8cb845e917c42cfb9a508"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0004/resultados.jsonl",
+      "sha256": "c4742688d9d15e5c8c53d8dbf43547d565f377bdbabef622fe3e42574678ac28"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0005/resultados.jsonl",
+      "sha256": "34d785b4180b63f7b735c3cf221ac2e905b01ac6570e8175a4d0c666323e8d6e"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0006/resultados.jsonl",
+      "sha256": "2df97b04e59b5977127005a710a9cea7d04d81a4b4a4d4f135b218bfffacabd0"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0007/resultados.jsonl",
+      "sha256": "4c4930cc4e19e5b0c912835b33b61d56c821e718f40a415d39038cf6f31a82b1"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0008/resultados.jsonl",
+      "sha256": "d92d281e8e8ac10320c86127535c065cd8b5cba4f0f33877d803d6802efb4c16"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0009/resultados.jsonl",
+      "sha256": "f4039cccc51c6f8b48a556c23e804cb037c8ba55d047e4cd38a573959eb45632"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0010/resultados.jsonl",
+      "sha256": "747062b23203a4330bc86d01a35a53c94dd3330f717513ab3ed5321bcceca306"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/resultados.jsonl",
+      "sha256": "d00e56bac03cf106f7ee2182c4797a2b188f1ad73a42d28571c1c7b5a376db3e"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/tabelas-gates-0003/resultados.jsonl",
+      "sha256": "2401e2e10b5b5525b1f74ca700bd6ed3afdd76f8b26a8d58b7910dcda58642c5"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0001/resultados.jsonl",
+      "sha256": "5932a21d2f981ad60fb193e59905cb200a864ba63fdc6c6b82cdcb2fb4c8a803"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0002/resultados.jsonl",
+      "sha256": "743684bf7245afe2ce980a1c69e9b9f710145ee757458699075004a2ab54c59b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0003/resultados.jsonl",
+      "sha256": "fec8db37da0df80f24d140744fd160a69d7d54e524757678db4fe532b8d32c6b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0004/resultados.jsonl",
+      "sha256": "973a23f5b8058ae80a9bc8e50f72f6c139658c2e4e278d5e8ed3b678aecc4eb2"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0005/resultados.jsonl",
+      "sha256": "c94f3121369d1d538755aa1db82b139844dd2c059620913a05e6672657ac08a7"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/resultados.jsonl",
+      "sha256": "07d2def1265a88da175c93cce49b1cb0b6e614a39392a8b34298c5077ec67933"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0002/resultados.jsonl",
+      "sha256": "00b0379793a8cefcc6856103200a894027cc12b4ebaa00a0888624acdeb77924"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0003/resultados.jsonl",
+      "sha256": "703972bf99466f32af3ea505376726e60953103c80bfcb015b138b322027bada"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/resultados.jsonl",
+      "sha256": "839b37cdab75de94ecc9f5cb8edaa0a2e6170edb8ef80efcbbe64922b10dee5e"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001-v2/resultados.jsonl",
+      "sha256": "a4757881e0f7c5cc09735b4607fb9436a2681fc6bbdc9bdc884942ba269b02d0"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0002/resultados.jsonl",
+      "sha256": "353d1230a0e13fe4e46b88fdb81aff47a12838c7fbb380c8261269e3df03f5ea"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0006/resultados.jsonl",
+      "sha256": "77fa0bfd91207f69ce1f69b8f288d536fd309260252cbb69eba7992069ea63cc"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0007/resultados.jsonl",
+      "sha256": "17d885bf36143f9de9ba0b2affb3df2e32a291901a3f825be96461c575a3cbf1"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0008/resultados.jsonl",
+      "sha256": "40710202641b46c142de773af6e360358bc0ebc342f005fa9ab2ee5efa6b4d53"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0009/resultados.jsonl",
+      "sha256": "1b47ce849a273d4dc8867137c695a57e05a09daaf1395142e0223a5948143689"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "sha256": "07c28b7649ab8d2b66e5457dc4a91e301c0ad10f207e14d5f8d5386d9d0f922d"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "sha256": "88151915faa9eee309d14b21682d66e7df027ce2c06a26be1c4bcb4d1e715400"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "sha256": "4163cc2ede430d59996828d6c55032be7055f8ac96f55dc7500b36b0bdadecb3"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012-v2/resultados.jsonl",
+      "sha256": "e2da31dfcdbbbf388ec02f9b311e85f5c88669fc7cd3efda03355694394576ac"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012-v3/resultados.jsonl",
+      "sha256": "96f11eb8a39c3f95785207414dcb951cd09e7e6775509a143cd97824a18c9d2c"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0013/resultados.jsonl",
+      "sha256": "938def4e7698e31c7415a6981465ed65dbc789793350b359b499e3381d0fa10b"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0014/resultados.jsonl",
+      "sha256": "4c3cfeeb0a05b2bb00c0f4cb762fd4f7488aedd8d6f71ab7357ff5b1213ff27b"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0015/resultados.jsonl",
+      "sha256": "bbf88caafca24ef2881e3c07118ac25262b4c48173aefe57d0e074929364e301"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0016/resultados.jsonl",
+      "sha256": "b0e76b22e26e2be97db8a67c9bb2d972208287c115aa662250b186ff6f07df9b"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0017/resultados.jsonl",
+      "sha256": "9579a7eb8988886a89e1ba1c778264f2ce53ce9dab591885b5201ba8a8badf16"
+    }
+  ],
+  "prefixos_origem": [
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.acari.rn.leg.br/resultados.jsonl",
+      "sha256_prefixo": "e8871d7cc93b9288fa1e51ff6d80c16da6168f75cf0410251f0adb244788f313",
+      "bytes_prefixo": 1162042
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.acegua.rs.leg.br/resultados.jsonl",
+      "sha256_prefixo": "a001efea70a88bf6cee0f4b892dfab034c91b82cb8d2ed115d1e8cf48be6b77f",
+      "bytes_prefixo": 36907
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.adamantina.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "64d323e8c67b86ba4bf3895dbc0adce6d65fbaf51e182a2b1686e7116971697a",
+      "bytes_prefixo": 15360
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.afonsocunha.ma.leg.br/resultados.jsonl",
+      "sha256_prefixo": "776a0096ea02ec045dd47844bc4f6f07eb2adeb24911c4176fc94daabc6239fa",
+      "bytes_prefixo": 4492
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.agrestina.pe.leg.br/resultados.jsonl",
+      "sha256_prefixo": "7a56d11d973f28dc17a0152fc9d9c20b942baa96fd8ae254dfaff9854c7faed6",
+      "bytes_prefixo": 8288
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.aguaboa.mt.leg.br/resultados.jsonl",
+      "sha256_prefixo": "19dd27bca6e07c73626e8ef2d071baafd51c2eb068ce88aef52679bcb255500a",
+      "bytes_prefixo": 55917
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.aguasformosas.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "e06ba4baa6b11782bff9f377e6a971af5f0759e4931bd41638c6839ff287a452",
+      "bytes_prefixo": 8986
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.agudo.rs.leg.br/resultados.jsonl",
+      "sha256_prefixo": "675735cdecd5df346747448e1c0cc2cdb21dcdf2e17cabea28da5f6897b68715",
+      "bytes_prefixo": 7394990
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.alegre.es.leg.br/resultados.jsonl",
+      "sha256_prefixo": "be6b2eb496ef9dec35d3c52343a4dcec059aaa609629add9a96a0db2f5ea10d4",
+      "bytes_prefixo": 15651
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.alexandria.rn.leg.br/resultados.jsonl",
+      "sha256_prefixo": "4c423b970fab459c69ff75a936c91201ccabd287a2d32cec07ebd813209f623d",
+      "bytes_prefixo": 13196
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.alfenas.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "44b7713ad880aa73e4e2f975a28fe5e6b62768fe9491a245645d1beb2f29a74c",
+      "bytes_prefixo": 4765145
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.alpinopolis.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "07661dd2d0472cf1149c67e40b7ec7255b6ac4bd2d1d8900e7fcda82b7de807e",
+      "bytes_prefixo": 193816
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.altafloresta.mt.leg.br/resultados.jsonl",
+      "sha256_prefixo": "00e304cc613a14654ed6625604e102660af1169d418b4c248f250e09be3ea464",
+      "bytes_prefixo": 21631
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.altaflorestadoeste.ro.leg.br/resultados.jsonl",
+      "sha256_prefixo": "f64f4a0d477a7357c5f173987ffc1de7e94cd7f3a843c1e8f455d45190847370",
+      "bytes_prefixo": 1934
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.altamira.pa.leg.br/resultados.jsonl",
+      "sha256_prefixo": "d43975f35fd9ad3c67668d7761d84dcbb35f30323906c8e6d7ec36e2b54f3f31",
+      "bytes_prefixo": 11837
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.altoalegredoparecis.ro.leg.br/resultados.jsonl",
+      "sha256_prefixo": "9a47f798433837d385c38acfad0668415c0cbc64a590c71f69cde8874d40d424",
+      "bytes_prefixo": 17248
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.altoaraguaia.mt.leg.br/resultados.jsonl",
+      "sha256_prefixo": "129d89e838703a2f902857be66d7463c8b9e728434bf77debd77ec5d4208d525",
+      "bytes_prefixo": 5061
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.altogarcas.mt.leg.br/resultados.jsonl",
+      "sha256_prefixo": "33ce8244011623a55c58022e9d8770462fa3db8631cabfda952063d82d436f07",
+      "bytes_prefixo": 372891
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.alvaresmachado.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "6d31b5763988ef5806517a9a2358882fd332d8698fbc35f1e1e3d50e7270c3fe",
+      "bytes_prefixo": 83589
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.alvoradadonorte.go.leg.br/resultados.jsonl",
+      "sha256_prefixo": "ff50630c7bdc4073c3633990f38e53817749f1ce72520744ae11ba0bdc28b2f1",
+      "bytes_prefixo": 145164
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.amambai.ms.leg.br/resultados.jsonl",
+      "sha256_prefixo": "a38c3bae5a493ced97b6bab8b7ac8dcd09387f9723cadbd5aa1077c77c21796e",
+      "bytes_prefixo": 808
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.amaraji.pe.leg.br/resultados.jsonl",
+      "sha256_prefixo": "838e4a32731127a03b123070ed73798fd6a2b3dbede0e6a79d589d41c25652eb",
+      "bytes_prefixo": 4334
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.americobrasiliense.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "fcabf9be07525c4084b6633b2ec64563f2b3a13713bc9d7dd8ff931c7c2bf2f7",
+      "bytes_prefixo": 868
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.amontada.ce.leg.br/resultados.jsonl",
+      "sha256_prefixo": "2a28ceea8bfacc507dbda1245973de46011fde20cf9d613ca69b6a3134697b97",
+      "bytes_prefixo": 5501552
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.anapolis.go.leg.br/resultados.jsonl",
+      "sha256_prefixo": "aab0459cbc648fea3d0ff2450ad9bedef7e1880c9121b45e3330a345cb728582",
+      "bytes_prefixo": 33846
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.anchieta.sc.leg.br/resultados.jsonl",
+      "sha256_prefixo": "84cbc494b0a2552efb7552efd7e877c0ef4158fbcfb282b54ad74c16fa475ce1",
+      "bytes_prefixo": 15878
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.andradas.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "34b101f06e9d47687a980ec3d9c2eaeda5a5bb5f6901ed02d88b8438c90d156e",
+      "bytes_prefixo": 95437
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.angicaldopiaui.pi.leg.br/resultados.jsonl",
+      "sha256_prefixo": "bb58e79bf451c98320ec4e61a07f93ad2b31993e0213bb4d4f18abef1c4294ab",
+      "bytes_prefixo": 2694
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.angradosreis.rj.leg.br/resultados.jsonl",
+      "sha256_prefixo": "8758f6981f526d21e01ebe0d93013720a7108dc8ae378706a079121318be4c05",
+      "bytes_prefixo": 3933
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.angulo.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "27a865a13de1c3cfa45a1f8ddd54bc6d653b7740b874cf8c0182b71c448aac38",
+      "bytes_prefixo": 809553
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.antas.ba.leg.br/resultados.jsonl",
+      "sha256_prefixo": "f1e77edde138820e9341548f851ed1b04fddf170633154b335c529bb58b19397",
+      "bytes_prefixo": 80042
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.antonioalmeida.pi.leg.br/resultados.jsonl",
+      "sha256_prefixo": "45e049a4a2ed797a1286b7226e7ddec0b11bb6fb8af9884fd91a2c336caf8554",
+      "bytes_prefixo": 60501
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.antonioolinto.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "3eed130a2cd7f79fe58f5938133e3b05ef9683ddd1d5bdef3689c33827bb20b8",
+      "bytes_prefixo": 771
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.apuarema.ba.leg.br/resultados.jsonl",
+      "sha256_prefixo": "179b51feee3e72fecc79a7e7abaab5e3633da39116bcf860d27246360f4892f2",
+      "bytes_prefixo": 3379
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.apucarana.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "c40bfff870125411af849a42e323be956fb72597f8cae17b8bf84002c36b09b5",
+      "bytes_prefixo": 4726386
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.aquiraz.ce.leg.br/resultados.jsonl",
+      "sha256_prefixo": "cc23b615a18a4ec23ec7aa56c0585f8e698100e07edb912061aa42af8c0c10ef",
+      "bytes_prefixo": 158877
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.aracati.ce.leg.br/resultados.jsonl",
+      "sha256_prefixo": "a0e69d3f06e1c4a91d052c9618b5804727e5988f0bd175a36244484411a44cd0",
+      "bytes_prefixo": 93212
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.araci.ba.leg.br/resultados.jsonl",
+      "sha256_prefixo": "412d5ee0654d0f5ecab57b544326bd6ee57e0edee2d21dca06e1b9a90072995a",
+      "bytes_prefixo": 602230
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.araguari.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "8808e3a48bb3334457a4b4803b1f7da9b5fc28eaa8ee3bf94e593cdd61a069e2",
+      "bytes_prefixo": 157108
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.arapongas.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "051f1d250dbaf5b073dfcb66638cf3bdd1a5c3c982850570fee8cb406372c194",
+      "bytes_prefixo": 783889
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.arapora.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "d04eab6f27f0a344e1a50ec5005c5409dc0d9bbf272410b22bad4bff889e7497",
+      "bytes_prefixo": 1522
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.arapua.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "c631b5e36ff55a3495476d6b237992e3359323969cbd84157f300e111e322898",
+      "bytes_prefixo": 2468
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.araripina.pe.leg.br/resultados.jsonl",
+      "sha256_prefixo": "13e910b78954ece5bce8e698829db1cde064b10e729f26761b5f3778a19fb6ce",
+      "bytes_prefixo": 137550
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.araruna.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "b3289a29bd20f4e5d3b6e8bc551514d34a16ab67cbeb99c73867c68ca4f1b066",
+      "bytes_prefixo": 9186
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.araucaria.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "2aa889d63070f9f225077e41b8a7b52d8c53a11ad3ead2f6bb57652eb7e03a1a",
+      "bytes_prefixo": 430901
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.araxa.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "aad680508a013cbb64ff6429da06b0e205db111fadbfbccbb53c1752e7f535a3",
+      "bytes_prefixo": 2656
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.arcos.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "14e65a9f5ff3118d79fa1ed75f1060bc64e3dbe529845ea836c9837ab610847c",
+      "bytes_prefixo": 2359
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.areias.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "557fc94378ec8c655cc5983f5202fdb06b9e0010ce462054fd6fb964890ea117",
+      "bytes_prefixo": 117295
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.arinos.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "b16d52f8471db6528e40f5dfacc5fecb967103954ae72676dba8437b2084a433",
+      "bytes_prefixo": 5495
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.arroiodosratos.rs.leg.br/resultados.jsonl",
+      "sha256_prefixo": "517d616d3cc6605b17cc9c9a0f1f93f914e4d37c6927af6bf6832bcef0f4f1a3",
+      "bytes_prefixo": 840
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.arturnogueira.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "19b90c2d1a0a7fcc0453948b19e25534b9d25939c437da71d3b9112c02adf4eb",
+      "bytes_prefixo": 689842
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.baixagrandedoribeiro.pi.leg.br/resultados.jsonl",
+      "sha256_prefixo": "303db2c64f500b903951d2bd4796a25d34c24c40b79622b4ac9bba638a764761",
+      "bytes_prefixo": 3509
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.baixoguandu.es.leg.br/resultados.jsonl",
+      "sha256_prefixo": "80e7e9e77c95104ca9d7fa1498b41db0f1ea07abc40762010d819785e143f2f9",
+      "bytes_prefixo": 115847
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.bananeiras.pb.leg.br/resultados.jsonl",
+      "sha256_prefixo": "c3056980151a1b602b56edd6df4dce5436940adae290b974d913f02ddec27a3f",
+      "bytes_prefixo": 956787
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.bandeiradosul.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "31ea16b68fd237635dd999f9958d7e1788d9adac1b6ee1c69fdfdcd32abd5ba9",
+      "bytes_prefixo": 18795
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.banzae.ba.leg.br/resultados.jsonl",
+      "sha256_prefixo": "5c02f23978a7f6af6e04da27ea9e8f6d0e37e333dacd83818a1104a4e96c07dd",
+      "bytes_prefixo": 517540
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.barao.rs.leg.br/resultados.jsonl",
+      "sha256_prefixo": "9c630789304d4c7350612cde0a06355c7320cd6cb82d7af1b45b6efc141ce950",
+      "bytes_prefixo": 4614
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.baraodecotegipe.rs.leg.br/resultados.jsonl",
+      "sha256_prefixo": "5d8a51da892541fba8525b2dddabee22e1e77076d2580758d8bc8dfcf02af285",
+      "bytes_prefixo": 6316
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.barauna.pb.leg.br/resultados.jsonl",
+      "sha256_prefixo": "13fc4fc6feb4a070154f8ebceb3ea6eac8980c854b7fd342e39072e868e5157a",
+      "bytes_prefixo": 14316
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.bariri.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "851fa8b5e3d39dbb79e89b2c57adc0591121aa63997926d43b4efd41007aad75",
+      "bytes_prefixo": 9323
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.barradaestiva.ba.leg.br/resultados.jsonl",
+      "sha256_prefixo": "269c4ea96f27cd9753eb7a0588e8cfd112a2f82ddbf38d37f92ec3b220e487da",
+      "bytes_prefixo": 2517
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.barradesaomiguel.pb.leg.br/resultados.jsonl",
+      "sha256_prefixo": "d63ea38980bee1a970843fcaa2c31194e1cfd316c162d7113d9a5e4a1b2c87d9",
+      "bytes_prefixo": 4678
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.barradogarcas.mt.leg.br/resultados.jsonl",
+      "sha256_prefixo": "8fb9cc53003745237a0972209ba574e700d63cb12ddc4a3126c8c728113a3738",
+      "bytes_prefixo": 362486
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.barradopirai.rj.leg.br/resultados.jsonl",
+      "sha256_prefixo": "a579678a80f22f426f371be85a2544ceeea8a7cfaad5cf114092a23091ae2094",
+      "bytes_prefixo": 406157
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.barradoribeiro.rs.leg.br/resultados.jsonl",
+      "sha256_prefixo": "1fb193df73710a6a6a994fd754d6bc142cc38e9b8cbd1ec535535361b8f58bb4",
+      "bytes_prefixo": 3254
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.barramansa.rj.leg.br/resultados.jsonl",
+      "sha256_prefixo": "64a55cf62f55e7fdee66be5fd12a5e491ded6c4183724c6acf539efbf393e6ca",
+      "bytes_prefixo": 10270023
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.barueri.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "5f3ee1827e0f2e4717b402a74d8fc27855e856725ff21cc6c151b5470d0b9e1b",
+      "bytes_prefixo": 55567
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.bayeux.pb.leg.br/resultados.jsonl",
+      "sha256_prefixo": "17b4929772b43f9c5e10b979f51c2c5a123990da67dfb8c0214a9b804d969506",
+      "bytes_prefixo": 45944
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.beberibe.ce.leg.br/resultados.jsonl",
+      "sha256_prefixo": "d7b91334d71605a4802ee534253489d9d9f88bff3a86cf9422cf24e7413a0e8e",
+      "bytes_prefixo": 141509
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.belavistadacaroba.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "7a72813295e5caecbbdbc56a24b78e27633075339d8fbaae75dd9e31be20c094",
+      "bytes_prefixo": 1667
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.belfordroxo.rj.leg.br/resultados.jsonl",
+      "sha256_prefixo": "f88019ffcbec3a8ffe848292b8c0b0db0c070c39881c4f212a8b8f926766d3a9",
+      "bytes_prefixo": 88299
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.benevides.pa.leg.br/resultados.jsonl",
+      "sha256_prefixo": "7069939b84800494d0fcb217e130afabdf72193dcc2b87e8b28a2d7898e6b0c2",
+      "bytes_prefixo": 1559
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.bertioga.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "0a01beb87ba8ed924c8bd640fe88439730c1027893cff62aee6b81894aee466b",
+      "bytes_prefixo": 4302445
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.betania.pe.leg.br/resultados.jsonl",
+      "sha256_prefixo": "412188bff4b8e8d5b6a8a41edbf869c2ab374f110699669629a5d39c26fac706",
+      "bytes_prefixo": 5260
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.bezerros.pe.leg.br/resultados.jsonl",
+      "sha256_prefixo": "5c01369e4d0b3223edf10b30b73f57d56f3792732179b97757203b67bb19ba8e",
+      "bytes_prefixo": 24352
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.bicas.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "25f7662b9c66e344ce6b6bcb92c20a20fbb892a047231f814d046e1829ac125d",
+      "bytes_prefixo": 1633168
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.birigui.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "bfecdd366cb976bdafb9842d5e95e3c2b26b2d6fa0489ab8b9e9f4aa1536ba67",
+      "bytes_prefixo": 11486012
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.bocainademinas.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "ca6f9abafa322b1ab94a3b89e89cec1f5a8ac6dc2000bd62b5bd677eb4b9d61c",
+      "bytes_prefixo": 1226
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.bocaiuva.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "e830830023d4d88db9458af3da5bd0b62ca1d97ecdbfe73ed5b64d9e1799502b",
+      "bytes_prefixo": 22217
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.bofete.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "13965e6a9165a8ef48b253d10e35b6bcc497410285c988e6b5c43eb2798d6872",
+      "bytes_prefixo": 1675341
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.bomdespacho.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "5d3a1cb75561ace4e30afeefd069e1518eeb4cd18706dcb8c55ae113220a547e",
+      "bytes_prefixo": 688241
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.bomjardimdeminas.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "3c2f9c3e500ba39eec2f6c01df1d12fdea59aed8c99ab7078a7b65858aa05878",
+      "bytes_prefixo": 259646
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.bomjesusdoaraguaia.mt.leg.br/resultados.jsonl",
+      "sha256_prefixo": "676201a4dd2a60969d57408806b19cb284b3e9d37000bac3708030eab58908e8",
+      "bytes_prefixo": 92149
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.bomretiro.sc.leg.br/resultados.jsonl",
+      "sha256_prefixo": "b3710db5078ed6ceb3c2cbe9b634f5d9949adbffbc46c30fac3489ae16cbcf3e",
+      "bytes_prefixo": 9323
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.bonfimdopiaui.pi.leg.br/resultados.jsonl",
+      "sha256_prefixo": "1e75ee3a8b9011facdd78eb704bc505f286bf27fa4c7747175a23e88807e1db6",
+      "bytes_prefixo": 977
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.bonfinopolisdeminas.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "0a066fffd0ef1b76a8b4a51ba3b30c78ff92333516b8b14b8abfce8ea181f259",
+      "bytes_prefixo": 4610
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.bonito.pe.leg.br/resultados.jsonl",
+      "sha256_prefixo": "281d119f41ce3fa7e1932e457d697847aacc643e53088c930edafbc32632ea8e",
+      "bytes_prefixo": 25221
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.brasilandiademinas.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "48312e0ab0cb03934669b65e669717f3b43c71b0b25a6439c9f516e18c01a2a6",
+      "bytes_prefixo": 3016825
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.brasileira.pi.leg.br/resultados.jsonl",
+      "sha256_prefixo": "1a5924b94ea134eb48387c995abb3b2f855bc77ac8ca6dc8d03790dfd414066c",
+      "bytes_prefixo": 814
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.buritis.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "c85ba291b187a6a62612b7fb090e628b85de3ef8c5720f9088eb4e34840c45e5",
+      "bytes_prefixo": 4224507
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.buritis.ro.leg.br/resultados.jsonl",
+      "sha256_prefixo": "63bfcda98e99596f0b93bb3eb74b82407c36fa221f735fce8acae3e56a8e139b",
+      "bytes_prefixo": 34062
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.caapora.pb.leg.br/resultados.jsonl",
+      "sha256_prefixo": "99223001613c1569c3dc0939f9bde0dac5db72a3a06572271d2a3d7d71a7f060",
+      "bytes_prefixo": 9548
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.cabeceiragrande.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "173a527cbc3ebb716275f52d28813bc79994019144fcbeaf44b50e311e75ec54",
+      "bytes_prefixo": 1435550
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.campomourao.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "aaabba7efe86f8c11c361125df40ba461e1f2e8028dfebc7958c78bc21e0601f",
+      "bytes_prefixo": 44968
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.cascavel.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "c04f86da894e04acf05797afa266dc73568370b8be5056e1718e976207878dcb",
+      "bytes_prefixo": 3141
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.dourados.ms.leg.br/resultados.jsonl",
+      "sha256_prefixo": "9b183ed3e193772acb2f75af61b55c6bc5f45b592763a7c7a1dd71a7762ba37c",
+      "bytes_prefixo": 11871
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.erechim.rs.leg.br/resultados.jsonl",
+      "sha256_prefixo": "8d15e15d32e69ac88fdd9dcbdaa1c044cb883eaefda9f02f512861d08c7b2ce4",
+      "bytes_prefixo": 3497080
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.fortaleza.ce.leg.br/resultados.jsonl",
+      "sha256_prefixo": "e3c1bc84b44861d9ff5c8814e95f24619197993b465b5867cac6af6aa2fae6b8",
+      "bytes_prefixo": 11866890
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.patobranco.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "019312de5f04ae8e31d9c77e30f95c9685712299812b0280fb7dbb702fa69a16",
+      "bytes_prefixo": 318813
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.portovelho.ro.leg.br/resultados.jsonl",
+      "sha256_prefixo": "cd48c0bec88ee62d5335eeb933ffc2042921ebb775296c5aab038613ea79044c",
+      "bytes_prefixo": 20970799
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.riobranco.ac.leg.br/resultados.jsonl",
+      "sha256_prefixo": "0bd822f7eff90d6dd27d4d4c5955b3ecc58f64a57142d79d41be8dbed428b47e",
+      "bytes_prefixo": 1738590
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0012/sapl.santarem.pa.leg.br/resultados.jsonl",
+      "sha256_prefixo": "88592c9785109c298bfcddaf9184702ceb3cf78361172c6df5e5006a47093f90",
+      "bytes_prefixo": 209459
+    }
+  ],
+  "script_sha256": "ed1f0a1eaeda7c9c3f1271ecdbbae4634b92e070bb936d4d89f3e5d2ac57f520",
+  "identidades": [
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 929,
+      "norma_id": 537
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1068,
+      "norma_id": 1278
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1302,
+      "norma_id": 536
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1067,
+      "norma_id": 1277
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 928,
+      "norma_id": 534
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1063,
+      "norma_id": 1268
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 927,
+      "norma_id": 533
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1062,
+      "norma_id": 1267
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 913,
+      "norma_id": 532
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1061,
+      "norma_id": 1266
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 910,
+      "norma_id": 531
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1059,
+      "norma_id": 1264
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 909,
+      "norma_id": 530
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1058,
+      "norma_id": 1263
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 908,
+      "norma_id": 529
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1056,
+      "norma_id": 1241
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1957,
+      "norma_id": 1816
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1055,
+      "norma_id": 1240
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1956,
+      "norma_id": 1815
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1054,
+      "norma_id": 1239
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1955,
+      "norma_id": 1814
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1065,
+      "norma_id": 1276
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 907,
+      "norma_id": 528
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1053,
+      "norma_id": 1238
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 2155,
+      "norma_id": 99
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1052,
+      "norma_id": 1237
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 912,
+      "norma_id": 527
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1051,
+      "norma_id": 1236
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 911,
+      "norma_id": 526
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1050,
+      "norma_id": 1225
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 906,
+      "norma_id": 525
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1049,
+      "norma_id": 1224
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 905,
+      "norma_id": 524
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1048,
+      "norma_id": 1223
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1819,
+      "norma_id": 2354
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1047,
+      "norma_id": 1222
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 904,
+      "norma_id": 523
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1046,
+      "norma_id": 1221
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 903,
+      "norma_id": 522
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1045,
+      "norma_id": 1220
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 902,
+      "norma_id": 521
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1043,
+      "norma_id": 1218
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 901,
+      "norma_id": 520
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1041,
+      "norma_id": 1217
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 2154,
+      "norma_id": 97
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1040,
+      "norma_id": 1216
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 900,
+      "norma_id": 519
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1038,
+      "norma_id": 1207
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 31,
+      "norma_id": 96
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1037,
+      "norma_id": 1206
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 899,
+      "norma_id": 518
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1036,
+      "norma_id": 1205
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 898,
+      "norma_id": 517
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1035,
+      "norma_id": 1204
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 897,
+      "norma_id": 516
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1020,
+      "norma_id": 1203
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 896,
+      "norma_id": 515
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1019,
+      "norma_id": 1202
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 895,
+      "norma_id": 514
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1018,
+      "norma_id": 1201
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 894,
+      "norma_id": 513
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1017,
+      "norma_id": 1190
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 2153,
+      "norma_id": 95
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1016,
+      "norma_id": 1189
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 893,
+      "norma_id": 512
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1015,
+      "norma_id": 1183
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 892,
+      "norma_id": 511
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1014,
+      "norma_id": 1182
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 891,
+      "norma_id": 510
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1013,
+      "norma_id": 1181
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 890,
+      "norma_id": 509
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1012,
+      "norma_id": 1180
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 889,
+      "norma_id": 508
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1011,
+      "norma_id": 1179
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 888,
+      "norma_id": 507
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1010,
+      "norma_id": 1178
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1899,
+      "norma_id": 1813
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1009,
+      "norma_id": 1170
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 868,
+      "norma_id": 505
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1008,
+      "norma_id": 1168
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 867,
+      "norma_id": 504
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1007,
+      "norma_id": 1167
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 864,
+      "norma_id": 503
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1006,
+      "norma_id": 1166
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 862,
+      "norma_id": 502
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1005,
+      "norma_id": 1165
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 2152,
+      "norma_id": 93
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 979,
+      "norma_id": 1142
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 860,
+      "norma_id": 501
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 980,
+      "norma_id": 1139
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 2151,
+      "norma_id": 92
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1090,
+      "norma_id": 1143
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1968,
+      "norma_id": 91
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 921,
+      "norma_id": 1138
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 857,
+      "norma_id": 500
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 922,
+      "norma_id": 1137
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1954,
+      "norma_id": 1911
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 918,
+      "norma_id": 1136
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 859,
+      "norma_id": 499
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 891,
+      "norma_id": 1135
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1967,
+      "norma_id": 90
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 890,
+      "norma_id": 1133
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1064,
+      "norma_id": 498
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 923,
+      "norma_id": 1132
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1770,
+      "norma_id": 497
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 929,
+      "norma_id": 1131
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1760,
+      "norma_id": 495
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1042,
+      "norma_id": 1169
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1778,
+      "norma_id": 494
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 930,
+      "norma_id": 1127
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1301,
+      "norma_id": 496
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 931,
+      "norma_id": 1126
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1761,
+      "norma_id": 492
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 932,
+      "norma_id": 1125
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1768,
+      "norma_id": 493
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 933,
+      "norma_id": 1124
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1769,
+      "norma_id": 491
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 934,
+      "norma_id": 1123
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1779,
+      "norma_id": 490
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 935,
+      "norma_id": 1122
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1780,
+      "norma_id": 489
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 936,
+      "norma_id": 1120
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1782,
+      "norma_id": 488
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 937,
+      "norma_id": 1119
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1783,
+      "norma_id": 487
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 996,
+      "norma_id": 1113
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 538,
+      "norma_id": 486
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 242,
+      "norma_id": 1115
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1790,
+      "norma_id": 485
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 243,
+      "norma_id": 1084
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1791,
+      "norma_id": 484
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 986,
+      "norma_id": 1083
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 33,
+      "norma_id": 1693
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 245,
+      "norma_id": 1082
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1794,
+      "norma_id": 483
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 248,
+      "norma_id": 1081
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1992,
+      "norma_id": 88
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 250,
+      "norma_id": 1080
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1800,
+      "norma_id": 482
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 252,
+      "norma_id": 1079
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1801,
+      "norma_id": 481
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 869,
+      "norma_id": 1078
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1802,
+      "norma_id": 480
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 283,
+      "norma_id": 1077
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1803,
+      "norma_id": 479
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 284,
+      "norma_id": 1076
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1795,
+      "norma_id": 478
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 285,
+      "norma_id": 1075
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1804,
+      "norma_id": 477
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 783,
+      "norma_id": 1074
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1805,
+      "norma_id": 476
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 286,
+      "norma_id": 1073
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 2150,
+      "norma_id": 87
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 287,
+      "norma_id": 1072
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1811,
+      "norma_id": 475
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 288,
+      "norma_id": 1071
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 2149,
+      "norma_id": 86
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 289,
+      "norma_id": 1055
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1063,
+      "norma_id": 2339
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 296,
+      "norma_id": 1054
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1993,
+      "norma_id": 85
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 297,
+      "norma_id": 1053
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1810,
+      "norma_id": 474
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 298,
+      "norma_id": 1052
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1809,
+      "norma_id": 473
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 299,
+      "norma_id": 1051
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1994,
+      "norma_id": 84
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 304,
+      "norma_id": 1050
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1989,
+      "norma_id": 83
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 305,
+      "norma_id": 1049
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1619,
+      "norma_id": 472
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 306,
+      "norma_id": 971
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1808,
+      "norma_id": 471
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 307,
+      "norma_id": 970
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1807,
+      "norma_id": 470
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 308,
+      "norma_id": 969
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1806,
+      "norma_id": 469
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 309,
+      "norma_id": 968
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1799,
+      "norma_id": 468
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 310,
+      "norma_id": 967
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 316,
+      "norma_id": 82
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 311,
+      "norma_id": 966
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 315,
+      "norma_id": 81
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 312,
+      "norma_id": 965
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 314,
+      "norma_id": 80
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1091,
+      "norma_id": 964
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1995,
+      "norma_id": 79
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 313,
+      "norma_id": 961
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1743,
+      "norma_id": 233
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 331,
+      "norma_id": 960
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1744,
+      "norma_id": 232
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 332,
+      "norma_id": 959
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1745,
+      "norma_id": 231
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 333,
+      "norma_id": 958
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1746,
+      "norma_id": 230
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 334,
+      "norma_id": 957
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1747,
+      "norma_id": 229
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 300,
+      "norma_id": 954
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1953,
+      "norma_id": 1927
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 301,
+      "norma_id": 953
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1952,
+      "norma_id": 1926
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 302,
+      "norma_id": 952
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1748,
+      "norma_id": 228
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 1092,
+      "norma_id": 943
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1750,
+      "norma_id": 227
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 303,
+      "norma_id": 949
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1951,
+      "norma_id": 1925
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 314,
+      "norma_id": 948
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1950,
+      "norma_id": 1924
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 315,
+      "norma_id": 947
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1949,
+      "norma_id": 1923
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 316,
+      "norma_id": 946
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1948,
+      "norma_id": 1922
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 317,
+      "norma_id": 945
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1947,
+      "norma_id": 1919
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 872,
+      "norma_id": 951
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1945,
+      "norma_id": 1918
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 318,
+      "norma_id": 944
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1942,
+      "norma_id": 1917
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 319,
+      "norma_id": 941
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1941,
+      "norma_id": 1916
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 320,
+      "norma_id": 940
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1940,
+      "norma_id": 1915
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 321,
+      "norma_id": 939
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1939,
+      "norma_id": 1921
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 322,
+      "norma_id": 963
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1938,
+      "norma_id": 1920
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 323,
+      "norma_id": 962
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1751,
+      "norma_id": 226
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 324,
+      "norma_id": 938
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1937,
+      "norma_id": 1914
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 325,
+      "norma_id": 937
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 313,
+      "norma_id": 78
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 326,
+      "norma_id": 936
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1752,
+      "norma_id": 225
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 327,
+      "norma_id": 935
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1762,
+      "norma_id": 224
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 328,
+      "norma_id": 934
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 2011,
+      "norma_id": 1913
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 329,
+      "norma_id": 933
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1763,
+      "norma_id": 223
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 330,
+      "norma_id": 932
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1764,
+      "norma_id": 222
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 336,
+      "norma_id": 929
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1988,
+      "norma_id": 77
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 339,
+      "norma_id": 928
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 312,
+      "norma_id": 76
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 822,
+      "norma_id": 930
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1765,
+      "norma_id": 221
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 340,
+      "norma_id": 927
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1766,
+      "norma_id": 220
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 341,
+      "norma_id": 926
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1767,
+      "norma_id": 219
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 342,
+      "norma_id": 925
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1771,
+      "norma_id": 218
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 343,
+      "norma_id": 924
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1772,
+      "norma_id": 217
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 344,
+      "norma_id": 896
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1773,
+      "norma_id": 216
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 345,
+      "norma_id": 895
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1774,
+      "norma_id": 215
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 346,
+      "norma_id": 894
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1775,
+      "norma_id": 214
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 370,
+      "norma_id": 891
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1776,
+      "norma_id": 213
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 348,
+      "norma_id": 890
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1777,
+      "norma_id": 212
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 349,
+      "norma_id": 889
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1996,
+      "norma_id": 194
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 350,
+      "norma_id": 888
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1781,
+      "norma_id": 211
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 351,
+      "norma_id": 887
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1784,
+      "norma_id": 210
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 812,
+      "norma_id": 892
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1785,
+      "norma_id": 209
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 987,
+      "norma_id": 883
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1786,
+      "norma_id": 208
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 337,
+      "norma_id": 875
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1787,
+      "norma_id": 207
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 338,
+      "norma_id": 874
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 2148,
+      "norma_id": 195
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 352,
+      "norma_id": 873
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 2147,
+      "norma_id": 196
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 353,
+      "norma_id": 872
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1788,
+      "norma_id": 206
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 354,
+      "norma_id": 871
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1789,
+      "norma_id": 205
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 355,
+      "norma_id": 870
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1792,
+      "norma_id": 204
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 811,
+      "norma_id": 878
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1793,
+      "norma_id": 203
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 873,
+      "norma_id": 877
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1796,
+      "norma_id": 202
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 356,
+      "norma_id": 869
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1936,
+      "norma_id": 1912
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 357,
+      "norma_id": 868
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1797,
+      "norma_id": 201
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 359,
+      "norma_id": 865
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1798,
+      "norma_id": 200
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 360,
+      "norma_id": 864
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 311,
+      "norma_id": 399
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 361,
+      "norma_id": 863
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 2340,
+      "norma_id": 467
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 364,
+      "norma_id": 862
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1981,
+      "norma_id": 400
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 362,
+      "norma_id": 861
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1827,
+      "norma_id": 466
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 365,
+      "norma_id": 860
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1828,
+      "norma_id": 465
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 366,
+      "norma_id": 851
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1829,
+      "norma_id": 464
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 367,
+      "norma_id": 850
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1830,
+      "norma_id": 463
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 368,
+      "norma_id": 848
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1831,
+      "norma_id": 462
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 947,
+      "norma_id": 847
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1935,
+      "norma_id": 1812
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 369,
+      "norma_id": 846
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1934,
+      "norma_id": 1810
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 371,
+      "norma_id": 845
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1833,
+      "norma_id": 460
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 874,
+      "norma_id": 876
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1838,
+      "norma_id": 459
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 374,
+      "norma_id": 842
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1840,
+      "norma_id": 458
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 375,
+      "norma_id": 841
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1753,
+      "norma_id": 457
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 376,
+      "norma_id": 840
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1749,
+      "norma_id": 456
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 377,
+      "norma_id": 839
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1742,
+      "norma_id": 455
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 948,
+      "norma_id": 838
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1741,
+      "norma_id": 454
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 378,
+      "norma_id": 837
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1740,
+      "norma_id": 453
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 379,
+      "norma_id": 836
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1739,
+      "norma_id": 452
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 380,
+      "norma_id": 835
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1738,
+      "norma_id": 451
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 381,
+      "norma_id": 834
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1737,
+      "norma_id": 450
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 382,
+      "norma_id": 833
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1933,
+      "norma_id": 1811
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 383,
+      "norma_id": 832
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1736,
+      "norma_id": 449
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 385,
+      "norma_id": 831
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1735,
+      "norma_id": 448
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 810,
+      "norma_id": 813
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1734,
+      "norma_id": 447
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 386,
+      "norma_id": 830
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1733,
+      "norma_id": 446
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 387,
+      "norma_id": 829
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1732,
+      "norma_id": 445
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 768,
+      "norma_id": 859
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1731,
+      "norma_id": 444
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 388,
+      "norma_id": 827
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1730,
+      "norma_id": 443
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 389,
+      "norma_id": 826
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1729,
+      "norma_id": 442
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 390,
+      "norma_id": 825
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1728,
+      "norma_id": 441
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 391,
+      "norma_id": 824
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1932,
+      "norma_id": 1749
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 392,
+      "norma_id": 823
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1727,
+      "norma_id": 440
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 393,
+      "norma_id": 822
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1726,
+      "norma_id": 439
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 394,
+      "norma_id": 821
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1725,
+      "norma_id": 438
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 395,
+      "norma_id": 820
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1724,
+      "norma_id": 436
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 396,
+      "norma_id": 819
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1723,
+      "norma_id": 435
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 397,
+      "norma_id": 818
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1703,
+      "norma_id": 434
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 398,
+      "norma_id": 817
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1705,
+      "norma_id": 433
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 399,
+      "norma_id": 816
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1706,
+      "norma_id": 432
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 400,
+      "norma_id": 815
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1722,
+      "norma_id": 431
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 401,
+      "norma_id": 812
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1721,
+      "norma_id": 430
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 402,
+      "norma_id": 811
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1983,
+      "norma_id": 199
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 403,
+      "norma_id": 810
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1979,
+      "norma_id": 198
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 978,
+      "norma_id": 808
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1898,
+      "norma_id": 1748
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 404,
+      "norma_id": 807
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1978,
+      "norma_id": 401
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 405,
+      "norma_id": 806
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 310,
+      "norma_id": 402
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 406,
+      "norma_id": 805
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1985,
+      "norma_id": 403
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 407,
+      "norma_id": 804
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1720,
+      "norma_id": 437
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 977,
+      "norma_id": 803
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1719,
+      "norma_id": 429
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 409,
+      "norma_id": 802
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1718,
+      "norma_id": 428
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 410,
+      "norma_id": 801
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1717,
+      "norma_id": 427
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 925,
+      "norma_id": 800
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1716,
+      "norma_id": 426
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 411,
+      "norma_id": 798
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1715,
+      "norma_id": 425
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 412,
+      "norma_id": 797
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1714,
+      "norma_id": 424
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 413,
+      "norma_id": 796
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1713,
+      "norma_id": 423
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 414,
+      "norma_id": 795
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1712,
+      "norma_id": 422
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 415,
+      "norma_id": 794
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1711,
+      "norma_id": 421
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 416,
+      "norma_id": 793
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1710,
+      "norma_id": 420
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 417,
+      "norma_id": 792
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1897,
+      "norma_id": 1746
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 418,
+      "norma_id": 791
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1709,
+      "norma_id": 419
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 419,
+      "norma_id": 790
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1708,
+      "norma_id": 418
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 420,
+      "norma_id": 789
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1842,
+      "norma_id": 417
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 974,
+      "norma_id": 788
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1843,
+      "norma_id": 416
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 973,
+      "norma_id": 787
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1982,
+      "norma_id": 197
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 972,
+      "norma_id": 786
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1816,
+      "norma_id": 415
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 423,
+      "norma_id": 785
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1844,
+      "norma_id": 414
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 424,
+      "norma_id": 784
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1845,
+      "norma_id": 413
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 425,
+      "norma_id": 783
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1824,
+      "norma_id": 412
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 867,
+      "norma_id": 782
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 309,
+      "norma_id": 404
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 427,
+      "norma_id": 781
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1980,
+      "norma_id": 405
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 428,
+      "norma_id": 780
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1973,
+      "norma_id": 406
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 429,
+      "norma_id": 779
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1698,
+      "norma_id": 411
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 430,
+      "norma_id": 778
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1697,
+      "norma_id": 410
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 431,
+      "norma_id": 777
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1696,
+      "norma_id": 409
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 432,
+      "norma_id": 776
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1695,
+      "norma_id": 408
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 433,
+      "norma_id": 775
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1925,
+      "norma_id": 1745
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 434,
+      "norma_id": 774
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1641,
+      "norma_id": 407
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 435,
+      "norma_id": 773
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 809,
+      "norma_id": 181
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 991,
+      "norma_id": 748
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 810,
+      "norma_id": 180
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 970,
+      "norma_id": 771
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 811,
+      "norma_id": 179
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 437,
+      "norma_id": 770
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 812,
+      "norma_id": 178
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 438,
+      "norma_id": 769
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1687,
+      "norma_id": 177
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 969,
+      "norma_id": 730
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1972,
+      "norma_id": 75
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 439,
+      "norma_id": 768
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1688,
+      "norma_id": 175
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 440,
+      "norma_id": 767
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 820,
+      "norma_id": 174
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 441,
+      "norma_id": 766
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1691,
+      "norma_id": 173
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 442,
+      "norma_id": 765
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1694,
+      "norma_id": 172
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 875,
+      "norma_id": 747
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1699,
+      "norma_id": 171
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 443,
+      "norma_id": 764
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1704,
+      "norma_id": 170
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 444,
+      "norma_id": 763
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1707,
+      "norma_id": 168
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 446,
+      "norma_id": 762
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1693,
+      "norma_id": 167
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 447,
+      "norma_id": 761
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 821,
+      "norma_id": 169
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 448,
+      "norma_id": 760
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 822,
+      "norma_id": 166
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 449,
+      "norma_id": 759
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 834,
+      "norma_id": 165
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 450,
+      "norma_id": 758
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1692,
+      "norma_id": 164
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 451,
+      "norma_id": 757
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1690,
+      "norma_id": 162
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 452,
+      "norma_id": 756
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1689,
+      "norma_id": 159
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 453,
+      "norma_id": 755
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1620,
+      "norma_id": 158
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 454,
+      "norma_id": 754
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1754,
+      "norma_id": 157
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 956,
+      "norma_id": 752
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1755,
+      "norma_id": 156
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 809,
+      "norma_id": 746
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1756,
+      "norma_id": 155
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 456,
+      "norma_id": 751
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1757,
+      "norma_id": 154
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 457,
+      "norma_id": 732
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1971,
+      "norma_id": 73
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 458,
+      "norma_id": 731
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1758,
+      "norma_id": 152
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 459,
+      "norma_id": 726
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1759,
+      "norma_id": 151
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 460,
+      "norma_id": 725
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 733,
+      "norma_id": 149
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 461,
+      "norma_id": 724
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1328,
+      "norma_id": 148
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 3,
+      "norma_id": 728
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1329,
+      "norma_id": 147
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 463,
+      "norma_id": 722
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 756,
+      "norma_id": 146
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 957,
+      "norma_id": 721
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 814,
+      "norma_id": 72
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 470,
+      "norma_id": 720
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 307,
+      "norma_id": 71
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 464,
+      "norma_id": 718
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 2045,
+      "norma_id": 1928
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 465,
+      "norma_id": 717
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1924,
+      "norma_id": 1929
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 466,
+      "norma_id": 716
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1345,
+      "norma_id": 145
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 467,
+      "norma_id": 715
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1681,
+      "norma_id": 2341
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 468,
+      "norma_id": 714
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 757,
+      "norma_id": 144
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 471,
+      "norma_id": 713
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1346,
+      "norma_id": 142
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 472,
+      "norma_id": 712
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1923,
+      "norma_id": 1930
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 958,
+      "norma_id": 711
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 758,
+      "norma_id": 141
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 473,
+      "norma_id": 710
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1356,
+      "norma_id": 139
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 959,
+      "norma_id": 709
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1680,
+      "norma_id": 2342
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 965,
+      "norma_id": 708
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1922,
+      "norma_id": 1931
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 964,
+      "norma_id": 707
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1921,
+      "norma_id": 1932
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 20,
+      "norma_id": 645
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 759,
+      "norma_id": 138
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 963,
+      "norma_id": 706
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1676,
+      "norma_id": 137
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 474,
+      "norma_id": 705
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1920,
+      "norma_id": 1933
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 475,
+      "norma_id": 704
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 761,
+      "norma_id": 136
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 476,
+      "norma_id": 703
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1677,
+      "norma_id": 135
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 477,
+      "norma_id": 702
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 795,
+      "norma_id": 134
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 478,
+      "norma_id": 701
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1919,
+      "norma_id": 1934
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 479,
+      "norma_id": 700
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1918,
+      "norma_id": 1935
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 480,
+      "norma_id": 699
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 803,
+      "norma_id": 133
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 481,
+      "norma_id": 698
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1895,
+      "norma_id": 1936
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 482,
+      "norma_id": 697
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1917,
+      "norma_id": 1937
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 483,
+      "norma_id": 696
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1678,
+      "norma_id": 131
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 484,
+      "norma_id": 695
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1893,
+      "norma_id": 1938
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 485,
+      "norma_id": 694
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1916,
+      "norma_id": 1939
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 486,
+      "norma_id": 693
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1915,
+      "norma_id": 1940
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 487,
+      "norma_id": 692
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1914,
+      "norma_id": 1941
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 488,
+      "norma_id": 691
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1871,
+      "norma_id": 1942
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 489,
+      "norma_id": 880
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 2041,
+      "norma_id": 1943
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 490,
+      "norma_id": 689
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 808,
+      "norma_id": 129
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 491,
+      "norma_id": 688
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1679,
+      "norma_id": 128
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 492,
+      "norma_id": 687
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1686,
+      "norma_id": 127
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 493,
+      "norma_id": 686
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 732,
+      "norma_id": 126
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 495,
+      "norma_id": 684
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1204,
+      "norma_id": 125
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 497,
+      "norma_id": 683
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 731,
+      "norma_id": 124
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 499,
+      "norma_id": 682
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 705,
+      "norma_id": 123
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 19,
+      "norma_id": 643
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1205,
+      "norma_id": 122
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 500,
+      "norma_id": 681
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 704,
+      "norma_id": 121
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 960,
+      "norma_id": 672
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1224,
+      "norma_id": 119
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 501,
+      "norma_id": 680
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 698,
+      "norma_id": 118
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 961,
+      "norma_id": 931
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 697,
+      "norma_id": 117
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 505,
+      "norma_id": 678
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1225,
+      "norma_id": 116
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 509,
+      "norma_id": 677
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1226,
+      "norma_id": 115
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 510,
+      "norma_id": 676
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 306,
+      "norma_id": 70
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 496,
+      "norma_id": 675
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 297,
+      "norma_id": 69
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 808,
+      "norma_id": 745
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1913,
+      "norma_id": 1944
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 498,
+      "norma_id": 674
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 695,
+      "norma_id": 113
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 876,
+      "norma_id": 744
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 693,
+      "norma_id": 114
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 18,
+      "norma_id": 641
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1242,
+      "norma_id": 112
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 503,
+      "norma_id": 671
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1245,
+      "norma_id": 111
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 504,
+      "norma_id": 670
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 813,
+      "norma_id": 68
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 506,
+      "norma_id": 669
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 2380,
+      "norma_id": 110
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 507,
+      "norma_id": 668
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1309,
+      "norma_id": 109
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 512,
+      "norma_id": 665
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1326,
+      "norma_id": 108
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 513,
+      "norma_id": 663
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1327,
+      "norma_id": 107
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 514,
+      "norma_id": 662
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 295,
+      "norma_id": 67
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 515,
+      "norma_id": 661
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 692,
+      "norma_id": 106
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 516,
+      "norma_id": 660
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 2366,
+      "norma_id": 105
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 517,
+      "norma_id": 659
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 2379,
+      "norma_id": 104
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 518,
+      "norma_id": 658
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 665,
+      "norma_id": 328
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 519,
+      "norma_id": 657
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 664,
+      "norma_id": 327
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 520,
+      "norma_id": 656
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 663,
+      "norma_id": 326
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 521,
+      "norma_id": 655
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 2342,
+      "norma_id": 325
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 522,
+      "norma_id": 654
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 690,
+      "norma_id": 324
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 523,
+      "norma_id": 653
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 687,
+      "norma_id": 323
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 524,
+      "norma_id": 652
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 294,
+      "norma_id": 398
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 878,
+      "norma_id": 743
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 624,
+      "norma_id": 322
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 525,
+      "norma_id": 651
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 623,
+      "norma_id": 321
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 526,
+      "norma_id": 650
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 2010,
+      "norma_id": 1945
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 527,
+      "norma_id": 649
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 2365,
+      "norma_id": 320
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 529,
+      "norma_id": 647
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1930,
+      "norma_id": 1946
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 17,
+      "norma_id": 639
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 2049,
+      "norma_id": 1947
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 769,
+      "norma_id": 858
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 621,
+      "norma_id": 319
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 530,
+      "norma_id": 646
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 620,
+      "norma_id": 318
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 807,
+      "norma_id": 742
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 619,
+      "norma_id": 317
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 531,
+      "norma_id": 634
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 661,
+      "norma_id": 316
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 532,
+      "norma_id": 633
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 617,
+      "norma_id": 315
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 16,
+      "norma_id": 637
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1849,
+      "norma_id": 1948
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 997,
+      "norma_id": 741
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 662,
+      "norma_id": 314
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 533,
+      "norma_id": 632
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 615,
+      "norma_id": 313
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 534,
+      "norma_id": 631
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 614,
+      "norma_id": 312
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 535,
+      "norma_id": 630
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 613,
+      "norma_id": 311
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 536,
+      "norma_id": 629
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 612,
+      "norma_id": 310
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 537,
+      "norma_id": 628
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 605,
+      "norma_id": 309
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 538,
+      "norma_id": 627
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 603,
+      "norma_id": 308
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 539,
+      "norma_id": 625
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 600,
+      "norma_id": 307
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 540,
+      "norma_id": 624
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 598,
+      "norma_id": 306
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 541,
+      "norma_id": 623
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 597,
+      "norma_id": 305
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 542,
+      "norma_id": 622
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 596,
+      "norma_id": 304
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 543,
+      "norma_id": 621
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 595,
+      "norma_id": 303
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 544,
+      "norma_id": 620
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 2378,
+      "norma_id": 302
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 545,
+      "norma_id": 619
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 2377,
+      "norma_id": 301
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 546,
+      "norma_id": 618
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1091,
+      "norma_id": 1949
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 547,
+      "norma_id": 617
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1848,
+      "norma_id": 1950
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 548,
+      "norma_id": 616
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 579,
+      "norma_id": 300
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 549,
+      "norma_id": 615
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 577,
+      "norma_id": 297
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 561,
+      "norma_id": 614
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 576,
+      "norma_id": 295
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 550,
+      "norma_id": 613
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 575,
+      "norma_id": 294
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 551,
+      "norma_id": 612
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1092,
+      "norma_id": 1951
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 552,
+      "norma_id": 611
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 573,
+      "norma_id": 293
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 553,
+      "norma_id": 610
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 17,
+      "norma_id": 292
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 554,
+      "norma_id": 609
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 572,
+      "norma_id": 291
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 555,
+      "norma_id": 608
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 571,
+      "norma_id": 290
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 556,
+      "norma_id": 607
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 19,
+      "norma_id": 289
+    },
+    {
+      "host": "sapl.cabeceiragrande.mg.leg.br",
+      "ta_id": 557,
+      "norma_id": 606
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 570,
+      "norma_id": 288
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 568,
+      "norma_id": 287
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 566,
+      "norma_id": 286
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1847,
+      "norma_id": 1952
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 551,
+      "norma_id": 285
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 1119,
+      "norma_id": 284
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 549,
+      "norma_id": 283
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 548,
+      "norma_id": 282
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 547,
+      "norma_id": 281
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 546,
+      "norma_id": 280
+    },
+    {
+      "host": "sapl.buritis.mg.leg.br",
+      "ta_id": 2336,
+      "norma_id": 279
+    }
+  ]
+}

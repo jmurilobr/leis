@@ -1,0 +1,300 @@
+---
+titulo: "Lei Ordinária nº 478, de 06 de novembro de 2015"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "478"
+data: "2015-11-06"
+municipio: "Brasilândia de Minas"
+uf: "MG"
+codigo_ibge: "3108552"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.brasilandiademinas.mg.leg.br/norma/480"
+fonte_texto: "https://sapl.brasilandiademinas.mg.leg.br/ta/431/text"
+sha256_fonte: "782c24d15a33c6007b3e58c9a53b78c316a87b377dcd4a88c1e4ae2546361a46"
+sha256_texto: "8e6a761513a7454036e5187a0db68f40fbfa3f1d99d286ab44d6fca85fe2720f"
+capturado_em_fonte: "2026-10-27T19:47:48.829072-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 478, de 06 de novembro de 2015
+
+"Dispõe sobre a criação conselho Municipal do idoso e dá outras providências."
+
+
+O PREFEITO DO MUNICIPIO DE BRASILÂNDIA DE MINAS, Estado de Minas Gerais, no uso de atribuição que lhe confere o artigo 86, inciso VII, da Lei Orgânica, faz saber que a Câmara Municipal decreta e ele, em seu nome, sanciona e promulga a seguinte lei:
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal do idoso CMI, como órgão deliberativo, consultivo e controlador das ações, em todos os níveis, dirigidas à proteção e à defesa dos direitos do idoso.
+
+
+Parágrafo único
+
+O Conselho Municipal do idoso CMI, como órgão pertencente à estrutura organizacional do Poder Executivo, fica vinculado à Secretaria Municipal de Desenvolvimento Social.
+
+
+Art. 2º.
+
+Compete ao Conselho Municipal do Idoso:
+
+
+I –
+
+elaborar e aprovar seu regimento interno;
+
+
+II –
+
+formular, acompanhar e fiscalizar a politica do idoso, a partir de estudos e pesquisas,
+
+
+III –
+
+participar da elaboração do diagnóstico social do Município e aprovar o Plano Integrado Municipal do Idoso, garantindo o atendimento integral ao idoso;
+
+
+IV –
+
+aprovar programas e projetos de acordo com a Politica do Idoso em articulação com os Planos Setoriais;
+
+
+V –
+
+orientar, fiscalizar e avaliar a aplicação dos recursos orçamentários do "Fundo Municipal de Assistência Social", conforme prevê o art. 8°, V da Lei Federal nº 8.842/94;
+
+
+VI –
+
+zelar pela efetiva descentralização político-administrativa e pela coparticipação de organizações representativas dos idosos na formulação de Politicas, Planos, Programas e Projetos de Atendimento ao Idoso;
+
+
+VII –
+
+atuar na definição de alternativas de atenção à saúde do idoso nas redes pública e privada conveniada de serviços ambulatoriais e hospitalares com atendimento integral;
+
+
+VIII –
+
+acompanhar, controlar e avaliar a execução de convênios e contratos das entidades públicas com entidades privadas filantrópicas, onde forem aplicados recursos públicos governamentais do Município, Estado e União;
+
+
+IX –
+
+propor medidas que assegurem o exercício dos direitos do Idoso;
+
+
+X –
+
+propor aos órgãos da administração pública municipal a inclusão de recursos financeiros na proposta orçamentária destinada a execução da Política do Idoso;
+
+
+XI –
+
+acompanhar e fiscalizar a aplicação dos recursos financeiros nas diversas áreas, destinados à execução da Politica Municipal do Idoso;
+
+
+XII –
+
+oportunizar processos de conscientização da sociedade em geral, com vistas à valorização do Idoso;
+
+
+XIII –
+
+articular a integração de entidades governamentais e não governamentais que atua na área do idoso.
+
+
+Art. 3º.
+
+O Conselho Municipal do Idoso CMI, é composto de 06 conselheiros titulares e seus respectivos suplentes, os quais apresentam paritariamente instituições governamentais e não governamentais, sendo:
+
+
+I –
+
+Um representante da Secretaria da Assistência Social;
+
+
+II –
+
+Um representante da Secretaria da Saúde;
+
+
+III –
+
+Um representante da Secretaria da Educação;
+
+
+IV –
+
+três representantes dos Órgãos não governamentais, eleitos em Fórum Próprio na forma de seu regulamento.
+
+
+Art. 4º.
+
+Os representantes das Organizações Governamentais serão indicados, na condição de titular e suplente, pelos seus Órgãos de origem.
+
+
+Art. 5º.
+
+As organizações não governamentais serão eleitas, bienalmente, titulares e suplentes, em Fórum especialmente convocado para este fim pelo Prefeito Municipal com 30 (trinta) dias de antecedência, observando-se a representação dos diversos segmentos, de acordo com os critérios inclusos no regimento interno do fórum e sob fiscalização do Ministério Público Estadual.
+
+
+Parágrafo único
+
+As organizações não governamentais eleitas terão prazo de 10 (dez) dias para indicar seus representantes titular e suplente, e não o fazendo serão substituídas por organização suplente, pela ordem de votação.
+
+
+Art. 6º.
+
+Os conselheiros titulares e respectivos suplentes, indicados pelos órgãos governamentais e não governamentais serão designados por ato do Prefeito Municipal, cabendo-lhe também, por ato próprio, destitui-lo, sempre que fatos relevantes de violação legal ocorrer a juízo do Plenário do Conselho.
+
+
+Art. 7º.
+
+A função de conselheiro do CMI, não remunerada, tem caráter relevante e o seu exercício é considerado prioritário, justificando as ausências a quaisquer outros serviços, quando determinadas pelo comparecimento às suas Assembleias, reuniões ou outras participações de interesse do Conselho.
+
+
+Parágrafo único
+
+O regimento interno do conselho Municipal do Idoso, estabelecerá a forma do ressarcimento de despesas, adiantamentos ou pagamentos de diárias aos seus membros e aos servidores a seu serviço.
+
+
+Art. 8º.
+
+O Mandato dos Conselheiros do CMI é de 2 (dois) anos, facultada recondução ou reeleição.
+
+
+§ 1º
+
+Conselheiro representante de órgão governamental poderá ser substituído a qualquer tempo, por nova indicação do representado.
+
+
+§ 2º
+
+Nas ausências ou impedimentos dos Conselheiros titulares assumirão os seus respectivos suplentes.
+
+
+Art. 9º.
+
+Perderá o mandato e vedada a recondução para o mesmo mandato o conselheiro que, no exercício da titularidade faltar a 3 (três) Assembleias Ordinárias consecutivas ou 6 (seis) alternadas, salvo justificativa aprovada em Assembleia Geral.
+
+
+§ 1º
+
+Na perda do mandato de conselheiro titular, de órgão governamental, assumirá o seu suplente, ou quem for indicado pelo órgão representado para substituí-lo.
+
+
+§ 2º
+
+Na perda de mandato de conselheiro titular, de órgão não governamental, assumirá o respectivo suplente e, na falta deste, caberá a entidade suplente pela ordem numérica da suplência, indicar um conselheiro titular e respectivo suplente.
+
+
+Art. 10.
+
+O Conselho Municipal do Idoso terá a seguinte estrutura:
+
+
+I –
+
+Assembléia Geral
+
+
+II –
+
+diretoria
+
+
+III –
+
+Comissões
+
+
+IV –
+
+Secretaria Executiva
+
+
+§ 1º
+
+À Assembleia Geral, Órgão soberano do CMI, compete deliberar e exercer o controle da Política Municipal do Idoso.
+
+
+§ 2º
+
+A Diretoria é composta de Presidente, Vice-Presidente e Secretário, que serão escolhidos dentre os seus membros, em quórum mínimo 2/3 (dois terços) dos membros titulares do Conselho, para cumprirem mandato de 2 (dois) anos, permitida uma recondução, e à ela compete representar o Conselho, dar cumprimento às decisões plenárias e praticar atos de gestão.
+
+
+§ 3º
+
+Às Comissões, criadas pelo CMI, atendendo às peculiaridades locais e as áreas de interfaces da Política do Idoso, compete realizar estudos e produzir indicativos para apreciação da Assembleia Geral.
+
+
+§ 4º
+
+À Secretaria Executiva, composta por profissionais técnicos cedidos pelos órgãos governamentais, compete assegurar suporte técnico e administrativo das ações do Conselho.
+
+
+§ 5º
+
+A representação do conselho será efetivada por seu Presidente em todos os atos inerentes a seu exercício ou por conselheiros designados pelo presidente para tal fim.
+
+
+Art. 11.
+
+À Secretaria a qual se vincula o CMI compete coordenar e executar a Política do Idoso, elaborando diagnósticos e o Plano Integrado Municipal do Idoso em parceria com o Conselho.
+
+
+Art. 12.
+
+As Organizações de Assistência Social responsáveis por execução de programas de atendimento aos idosos deve submeter os mesmos a apreciação do Conselho Municipal do Idoso.
+
+
+Parágrafo único
+
+As Organizações de Assistência Social com atuação na área do idoso, deverão inscrever-se no conselho Municipal de Assistência Social.
+
+
+Art. 13.
+
+Cumpre ao Poder Executivo providenciar a alocação de recursos humanos, materiais e financeiros necessários à criação, instalação e funcionamento do CMI e da Secretaria Executiva.
+
+
+Art. 14.
+
+Para atendimento das despesas de instalação e manutenção do CMI, fica o chefe do Poder Executivo autorizado a abrir crédito especial até o limite de R$ 10.000,00, utilizando como a anulação parcial de dotações consignadas no orçamento do exercício.
+
+
+Art. 15.
+
+O Conselho Municipal do Idoso terá 90 (noventa) dias para elaborar e colocar em discussão e aprovação pela Assembleia Geral o regimento interno que regulará o seu funcionamento.
+
+
+§ 1º
+
+O regimento interno, aprovado pelo CMI, será homologado por Decreto do Prefeito Municipal.
+
+
+§ 2º
+
+Qualquer alteração posterior ao regimento interno dependerá da deliberação de dois terços dos Conselheiros do CMI e da aprovação por
+
+
+Art. 17.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 18.
+
+Revogam-se as disposições em contrário.
+
+
+Prefeitura de Brasilândia de Minas, 06 de novembro de 2015.
+
+**Marden Júnior Pereira da Costa**
+
+**Prefeito**
+

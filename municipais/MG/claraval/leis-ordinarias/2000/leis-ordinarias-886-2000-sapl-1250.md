@@ -1,0 +1,232 @@
+---
+titulo: "LEI ORDINÁRIA-CMC nº 886, de 05 de dezembro de 2000"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "886"
+data: "2000-12-05"
+municipio: "Claraval"
+uf: "MG"
+codigo_ibge: "3116407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.claraval.mg.leg.br/norma/1250"
+fonte_texto: "https://sapl.claraval.mg.leg.br/ta/580/text"
+sha256_fonte: "08c319f3a4f3f3c9f1d3b591d3fcfb03c78218ff4af684c934a8067b950ca2f7"
+sha256_texto: "456ced0fcaf9c5d305f36381c6be1cb3b211fc63ff8e599b69c749a7d83d211a"
+capturado_em_fonte: "2026-10-27T23:05:33.423254-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA-CMC nº 886, de 05 de dezembro de 2000
+
+"Dispõe sobre a abertura de CREDITO ADICIONAL SUPLEMENTAR no orçamento em vigor e dá outras providências."
+
+
+LUIZ GONZAGA CINTRA, Prefeito Municipal de Claraval, Estado Minas Gerais, em pleno exercício do seu cargo e usando das atribuições que lhe são conferidas por lei, FAZ SABER que a Câmara Municipal local APROVOU e ele, em seu nome, SANCIONA e PROMULGA a seguinte lei:
+
+
+Art. 1º.
+
+Fica aberto no Serviço de Contabilidade um Crédito Adicional Suplementar no valor de R$40.335,00 (QUARENTA MIL E TREZENTOS E TRINTA E CINCO REAIS. \*\*\*\*\*\*\* \*\*\*\*\*\*), destinado a acobertar despesas com as seguintes dotações orçamentárias em vigor:
+
+
+01.00 - CAMARA MUNICIPAL
+
+01.01 - CORPO LEGISLATIVO
+
+01.01.001.2001 3111 - Pessoal Civil.................................................................................796,00
+
+02.00 - GABINETE DO PREFEITO
+
+01.01 - ADMINISTRAÇÃO DO GABINETE
+
+03.07.020.2002 3111 - Pessoal Civil..............................................................................1.238,00
+
+03.07.020.2002 3132 - Serv. Terceiros e Encargos..........................................................570,00
+
+03.00 - ADMINISTRAÇÃO, PLANEJAMENTO E FINANÇAS 1.000,00
+
+03.01 - ADMINISTRAÇÃO GERAL
+
+03.07.021.2005 3111 - Pessoal Civil..............................................................................3.451,00
+
+2005 3132 - Serv. Terceiros e Encargos........................................................................5.112,00
+
+04.00 - EDUCAÇÃO, CULTURA, ESPORTE E LAZER
+
+04.01 - ENSINO INFANTIL - CRECHE
+
+08.41.185.2008 3111 - Pessoal Civil.................................................................................938,00
+
+04.03 - ENSINO FUNDAMENTAL - RECURSOS PROPRIOS.
+
+08.42.188.2010 3111 - Pessoal Civil..............................................................................1.606,00
+
+188.2010 – 3132 - Serv. Terceiros e Encargos..............................................................2.000,00
+
+04.05 – FUNDEF - MAGISTERIO
+
+10.60.575.2023 3111 - Pessoal Civil..............................................................................4.834,00
+
+04.08 - ENSINO GERAL
+
+08.42.188.1034 4110 - Ampl. Reforma de Escolas...........................................................212,00
+
+05.00 - SAUDE E AÇÃO SOCIAL
+
+05.01 - SAUDE
+
+13.75.428.2020 3111 - Pessoal Civil..............................................................................5.379,00
+
+2020 3132 - Serv. Terceiros e Encargos........................................................................3.054,00
+
+05.05 - ASSISTENCIA SOCIAL
+
+15.81.486.2021 3111 - Pessoal Civil.................................................................................994,00
+
+06.00 - SERVIÇOS MUNICIPAIS
+
+06.01 - SERVIÇOS URBANOS
+
+10.60.575.2023 3251 – Inativos...........................................................................................78,00
+
+2023 3132 - Serv. Terceiros e Encargos........................................................................6.000,00
+
+06.02 - SERVIÇOS DE ESTR. RODAGEM MUNICIPAIS
+
+15.82.495.2026 3251 - Inativos.......................................................................................1.147,00
+
+15.88.536.2025 3111 - Pessoal Civil..............................................................................2.926,00
+
+
+Art. 2º.
+
+Para fazer face às despesas decorrentes da execução desta lei, serão utilizados recursos provenientes de anulações parciais e/ou totais das seguintes dotações do orçamento em vigor:
+
+
+01.00 - CAMARA MUNICIPAL
+
+01.01 - CORPO LEGISLATIVO
+
+01.01.001.2021 3113 - Obrigações Patronais...................................................................400,00
+
+2021 3120 - Materiais de Consumo...................................................................................800,00
+
+2000 3120 - Materiais de Cons./Festivid............................................................................500,00
+
+2000 3132 - Outros Serviços/Festividades........................................................................500,00
+
+2001 3233 - Contribuições Correntes.................................................................................500,00
+
+1001 4110 - Obras e Instalações.......................................................................................200,00
+
+1001 4120 - Equipamentos e Mat. Permanente................................................................600,00
+
+02.00 - GABINETE DO PREFEITO
+
+02.01 - ADMINSITRAÇÃO DO GABINETE
+
+03.07.020.2002 4120 - Equipamentos e Mat. Permanente...............................................500,00
+
+02.02 - PROJETOS ESPECIAIS E ASSIST. AGRO-PECUARIA
+
+04.18.110.1002 4110 - Constr.Prédio p/Agropecuária.......................................................100,00
+
+111.1003 4110 - Ref.Ampl. Rede Elétrica Rural................................................................100,00
+
+1004 4120 Equipamentos e Mat. Permanente.....................................................................20,00
+
+1036 4120 Equipamentos e Mat. Permanente.....................................................................10,00
+
+02.03 - SEGURANÇA POBLICA
+
+06.30.177.2004 3132 - Serviços de Terc. e Encargos.......................................................500,00
+
+1038 4110 - Construção e Ampl.Prédio Pol.......................................................................770,00
+
+03.00 - ADMINISTRAÇÃO, PLANEJAMENTO E FINANÇAS
+
+03.01 - ADMINISTRAÇÃO GERAL
+
+03.07.021.2006 3233 - Contribuições Correntes...............................................................500,00
+
+2006 – 3233 - Contribuições a Fundos
+
+2005 – 3251 - Inativos.....................................................................................................2.290,00
+
+03.08.033.2005 – 3262 - Outros Encargos da Dívida Cont............................................1.000,00
+
+03.07.021.1005 – 4110 - Construção de Edificações...........................................................50,00
+
+1006 - 4120 - Equip. e Mat. Permanente...........................................................................180,00
+
+15.84.494.2008 3280 P.A.S.E.P.....................................................................................6.000,00
+
+04.00 - EDUCAÇÃO, CULTURA, ESPORTE E LAZER
+
+08.41.185.1007 - 4120 - Equip. e Mat. Permanente..........................................................500,00
+
+04.02 - ENSINO INFANTIL/PRE-ESCOLA
+
+08.41.190.2009 – 3111 - Pessoal Civil...........................................................................1.065,00
+
+2009 3120 - Material de Consumo.....................................................................................200,00
+
+185.2009 4120 - Equip. e Mat. Permanente.....................................................................220,00
+
+04.03 - ENSINO FUNDAMENTAL/RECURSOS PROPRIOS
+
+08.42.188.2010 – 3251 – Inativos......................................................................................240,00
+
+1008 – 4110 - Constr., Reforma e Ampl.Escolas...............................................................500,00
+
+1010 - 4120 - Equip. e Mat. Permanente...........................................................................600,00
+
+486.1000 – 4120 - Equip. e Material Permanente..............................................................200,00
+
+06.01 - SERVIÇOS URBANAS
+
+10.60.575.2023 – 3111 - Pessoal Civil..............................................................................380,00
+
+575.2023 – 3120 - Material de Consumo...........................................................................400,00
+
+326.1000 – 4110 - Construção de Velório Municip............................................................140,00
+
+327.1021 – 4120 - Reforma Ampl. Rede Elétrica...............................................................100,00
+
+328.1022 – 4110 - Constr. Reforma de Praças..................................................................200,00
+
+575.1023 – 4110 - Constr. Pontes em áreas urbanas........................................................100,00
+
+575.1026 – 4110 - Aquisição de Equipamentos.................................................................280,00
+
+447.1037 – 4110 - Construção de Poço Artesiano..............................................................60,00
+
+11.62.346.2024 – 3132 - Outros Serviços e Encargos.......................................................100,00
+
+346.1027 – 4210 - Aquis. Imóveis p/Instal. Indust..............................................................100,00
+
+13.76.447.1028 4120 - Equip. e Material Permanente......................................................200,00
+
+16.91.575.1025 4110 - Pavimentação de Vias Urbanas....................................................100,00
+
+06.02 - SERVIÇOS DE ESTRADAS DE RODAGEM MUNICIPAIS
+
+16.88.534.1029 – 4110 - Constr. Pontes na área rural......................................................200,00
+
+536.1030 4120 - Equip. e Material Permanente................................................................100,00
+
+
+Art. 3º.
+
+Revogam-se as disposições em contrário, entrando a presente Lei em vigor na data de sua publicação.
+
+
+Claraval, 05 de dezembro de 2000.
+
+LUIZ GONZAGA CINTRA
+
+Prefeito Municipal
+

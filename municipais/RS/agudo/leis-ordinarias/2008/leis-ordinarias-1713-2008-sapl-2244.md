@@ -1,0 +1,155 @@
+---
+titulo: "Lei nº 1.713, de 13 de agosto de 2008"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1713"
+data: "2008-08-13"
+municipio: "Agudo"
+uf: "RS"
+codigo_ibge: "4300109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.agudo.rs.leg.br/norma/2244"
+fonte_texto: "https://sapl.agudo.rs.leg.br/ta/814/text"
+sha256_fonte: "9b2c273dd822373449dc52d3de4b48cb1338eaaea7ef0c9d6107a95774ae6907"
+sha256_texto: "6c9fcae389c41ab5c349bae128b434963d8bf61e9d52dd7e7f9a6f6ad85ae826"
+capturado_em_fonte: "2026-10-27T20:35:35.315697-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.713, de 13 de agosto de 2008
+
+AUTORIZA O PODER EXECUTIVO A CONCEDER AUXILIO À ASSOCIAÇÃO HOSPITAL AGUDO E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+O PREFEITO DO MUNICÍPIO DE AGUDO, ESTADO DO RIO GRANDE DO SUL, faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo, com base no Art. 76 da Lei Orgânica Municipal, a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a conceder auxílio no valor de R$ 10.000,00 (dez mil reais), à Associação Hospital Agudo, pessoa jurídica de direito privado, entidade filantrópica sem fins lucrativos, inscrita no CNPJ sob o nº 87.068.094/0001­19, mediante convênio, na forma estabelecida pelo artigo 116 da Lei Federal nº 8.666/93.
+
+
+Art. 2º.
+
+A concessão de auxílio pelo Município ficará condicionada a apresentação do Plano de Trabalho e Aplicação e Projeto Técnico por parte da entidade interessada e sua aprovação antecipada pelo Poder Executivo, assim como a celebração do respectivo convênio, que fica fazendo parte integrante desta lei.
+
+
+Art. 3º.
+
+A concessão do auxílio está condicionada à abertura de conta corrente específica para depósito e registro do recurso concedido.
+
+
+Art. 4º.
+
+As despesas decorrentes da presente Lei, correrão a conta da seguinte dotação orçamentária especialmente criada:  
+08 – SECRETARIA DA SAÚDE  
+2.020 ­ Concessão de Auxílio Para a Saúde  
+4.4.90.42.00.00.00 ­ Auxílios (542)......................R$ 10.000,00
+
+
+Art. 5º.
+
+Para a liberação do recurso junto ao Tesouro Municipal, a Entidade deverá protocolar Processo de Habilitação contendo:
+
+
+a)
+
+Termo de Convênio devidamente assinado;
+
+
+b)
+
+Plano de Aplicação do recurso;
+
+
+c)
+
+Cópia do Estatuto Social;
+
+
+d)
+
+Cópia do CNPJ atualizado;
+
+
+e)
+
+Ata de eleição e posse da atual Diretoria, devidamente registrada;
+
+
+f)
+
+Declaração de que a Diretoria atua de forma não remunerada.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+GABINETE DO PREFEITO, 13 de agosto de 2008; 150º da Colonização e 49º da Emancipação.
+
+ARI ALVES DA ANUNCIAÇÃO  
+Prefeito Municipal
+
+Registre-se e publique-se.  
+  
+ROMEU ANTÔNIO UNFER  
+Sec.Mun. da Administração
+
+
+TERMO DE CONVÊNIO
+
+
+CONVÊNIO QUE CELEBRAM O MUNICÍPIO DE AGUDO E A ASSOCIAÇÃO HOSPITAL AGUDO, VISANDO A CONJUGAÇÃO DE ESFORÇOS ENTRE OS PARTÍCIPES PARA A AQUISIÇÃO DE EQUIPAMENTO PARA O HOSPITAL.
+
+Pelo presente instrumento particular, o Município de Agudo, pessoa jurídica de direito público interno, neste ato representado pelo seu Prefeito Municipal, Sr. ARI ALVES DA ANUNCIAÇÃO, CPF 059.899.650-87, brasileiro, casado, advogado, residente na Rua Capitão Gama, nº 274, em Agudo/RS, doravante denominado simplesmente MUNICÍPIO, com sede à Avenida Tiradentes 1625, inscrito no CNPJ sob o n.º 7.531.976/0001-79, e, de outro lado, a ASSOCIAÇÃO HOSPITAL AGUDO, pessoa jurídica de direito privado, entidade filantrópica sem fins lucrativos, com sede na Avenida Euclides Kliemann, n.º 300, CNPJ n.º 87.068.094/0001-19, neste ato representada por seu Presidente, Sr. IVO DARCILO JANN, CPF 008.368.930-34, brasileiro, separado judicialmente, empresário, residente na Rua, Floriano Zurowsky n.º 830, em Agudo/RS, a seguir denominada simplesmente CONVENENTE, mediante as seguintes cláusulas e condições:
+
+CLÁUSULA PRIMEIRA
+
+O presente Convênio tem por finalidade o repasse de auxílio financeiro, no valor de R$ 10.000,00 (dez mil reais), pelo MUNICÍPIO ao CONVENENTE para aquisição de um aparelho ELETRO CAUTÉRIO , objetivando a melhoria na assistência médica à população, especialmente pacientes do SUS.
+
+**Parágrafo único.** A aquisição do equipamento observará o projeto apresentado pelo CONVENENTE , conforme disposto no art. 2º da Lei Municipal n.º ...........
+
+CLÁUSULA SEGUNDA
+
+O MUNICÍPIO repassará o recurso financeiro para custear a aquisição do equipamento, no valor total de R$ 16.000,00 (dezesseis mil reais), cabendo ao CONVENENTE a contra-partida no valor de R$ 6.000,00 (seis mil reais), no prazo de 60 ( sessenta ) dias, contados da assinatura deste convênio.
+
+CLÁUSULA TERCEIRA
+
+O CONVENENTE compromete-se a empregar os recursos financeiros recebidos do MUNICÍPIO exclusivamente na aquisição do equipamento.
+
+CLÁUSULA QUARTA
+
+O CONVENENTE sujeitar-se-á à fiscalização do MUNICÍPIO no que se refere ao fiel cumprimento do presente convênio, por servidor designado para esta finalidade.
+
+CLÁUSULA QUINTA
+
+Visando preservar interesse recíproco, quaisquer circunstâncias que possam caracterizar descumprimento dos termos deste convênio deverão ser objeto de notificação escrita, com prazo de 05 (cinco) dias úteis para resposta para qualquer das partes.
+
+**Parágrafo único.** Na hipótese de descumprimento caracterizado nas disposições deste termo, o convênio será rescindido, sem prejuízo das cominações legais pertinentes.
+
+CLÁUSULA SEXTA
+
+O CONVENENTE fará a prestação de contas do auxílio financeiro recebido do MUNICÌPIO, até 02 ( dois) meses, após aquisição do equipamento, no prazo referido na Cláusula Segunda, apresentando a nota fiscal e/ou fatura referentes à aquisição do equipamento e demais documentos necessários para a referida prestação acompanhada de relatório circunstanciado sobre sua instalação e funcionamento.
+
+CLÁUSULA SÉTIMA
+
+O prazo do presente convênio é de 02 ( dois ) meses, a contar da assinatura, se nenhuma das partes denunciá-lo com antecedência mínima de 30 (trinta) dias de seu termo.
+
+CLÁUSULA OITAVA
+
+Para dirimir eventuais dúvidas emergentes da aplicação deste convênio as partes elegem , de comum acordo, o Foro da Comarca de Agudo, RS.
+
+E, por estarem assim ajustados, assinam o presente instrumento em 03 (três) vias de igual teor e forma, juntamente com as testemunhas abaixo firmadas.
+
+Agudo/RS, ..... de...................... de 2008.
+
+<table><tbody><tr><td>ARI ALVES DA ANUNCIAÇÃO<br>Prefeito Municipal</td><td>IVO DARCILO JANN<br>Presidente da Associação Hospital Agudo.</td></tr></tbody></table>
+
+TESTEMUNHAS:  
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+

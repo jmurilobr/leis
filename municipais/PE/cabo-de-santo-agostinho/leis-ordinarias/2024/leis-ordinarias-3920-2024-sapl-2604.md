@@ -1,0 +1,154 @@
+---
+titulo: "Lei Ordinária nº 3.920, de 20 de março de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3920"
+data: "2024-03-20"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2604"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/2498/text"
+sha256_fonte: "415859865a0e67f656cec27bfd74b22d74788ff333f032555c99502fb84a6bd3"
+sha256_texto: "1377f9364de29cf9b713b46ef8e91c27167801acd96524042a0db6f81be41fb4"
+capturado_em_fonte: "2026-10-27T21:16:27.284607-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 3.920, de 20 de março de 2024
+
+Autoriza o Poder Executivo Municipal a executar a desafetação das ruas 5, 28A, 31 e Rua de Pedestre do Loteamento Nova Morada, com o objetivo de viabilizar a instalação de empreendimentos habitacionais, autoriza a doação da área desafetada, e dá outras providências.
+
+
+**O Prefeito do Município do Cabo de Santo Agostinho, faço saber que a Câmara Municipal aprova e eu sanciono a seguinte Lei:**
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a desafeitar as áreas descritas nos incisos deste Artigo, localizadas no distrito de Ponte dos Carvalhos, no município do Cabo de Santo Agostinho que serão destinadas a instalação de empreendimentos habitacionais.
+
+
+I –
+
+Rua 5 do Loteamento Nova Morada:
+
+“MEMORIAL DESCRITIVO.
+
+ÁREA: 940,00m²  
+Inicia-se a descrição deste perímetro no vértice V1, de coordenadas E: 281.045,512 m e N: 9.086.585,820 m deste, segue com azimute de 212° 59' 31,79' e distância de 10,00 m até o vértice V2, de coordenadas E: 281.040,067 m e N: 9.086.577,432 m deste, segue com azimute de 303° 00' 02,11'  
+e distância de 94,00 m até o vértice V3, de coordenadas E: 280.961,232 m e N: 9.086.628,629 m deste, segue com azimute de 32° 59' 58,59' e distância de 10,00 m até o vértice V4, de coordenadas E: 280.966,678 m e N: 9.086.637,016 m deste, segue com azimute de 123° 00' 01,35' e distância de 94,00 m até o vértice V1, ponto inicial da descrição deste perímetro, perfazendo uma área de 940,00m² e um perímetro total de  
+208,00m.
+
+“Todas as coordenadas aqui descritas estão georreferenciadas ao Sistema Geodésico Brasileiro e encontram-se representadas no Sistema UTM, referenciadas ao Meridiano Central 33 WGr, fuso 25S, tendo como datum o SIRGAS-2000. Todos os azimutes e distâncias, área e perímetro foram calculados no plano de projeção UTM."
+
+
+II –
+
+Rua 28-A do Loteamento Nova Morada:
+
+“MEMORIAL DESCRITIVO.
+
+ÁREA: 3.583,12m²  
+Inicia-se a descrição deste perímetro no vértice A1, de coordenadas E: 280.800,851 m e N: 9.086.982,969 m deste, segue com azimute de 164° 57' 49,19' e distância de 243,67 m até o vértice A2, de coordenadas E: 280.864,067 m e N: 9.086.747,640 m deste, segue com azimute de 261° 44' 53,86'  
+e distância de 15,11 m até o vértice A3, de coordenadas E: 280.849,118 m e N: 9.086.745,472 m deste, segue com azimute de 344° 57' 49,31' e distância de 224,10 m até o vértice A4, de coordenadas E: 280.790,980 m e N: 9.086.961,897 m deste, segue com azimute de 25° 06' 01,24' e distância de 25,70 m até o vértice A1, ponto inicial da descrição deste perímetro, perfazendo uma área de 3.583,12m² e um perímetro total de 508,58m.
+
+Todas as coordenadas aqui descritas estão georreferenciadas ao Sistema Geodésico Brasileiro e encontram-se representadas no Sistema UTM, referenciadas ao Meridiano Central 33 WGr, fuso 25S, tendo como datum o SIRGAS-2000. Todos os azimutes e distâncias, área e perímetro foram calculados no plano de projeção UTM.
+
+
+III –
+
+Rua 31 do Loteamento Nova Morada:
+
+“MEMORIAL DESCRITIVO.
+
+ÁREA: 1.240,41m²  
+Inicia-se a descrição deste perímetro no vértice B1, de coordenadas E: 280.876,593 m e N: 9.086.893,741 m deste, segue com azimute de 254° 57' 55,40' e distância de 10,00 m até o vértice B2, de coordenadas E: 280.866,936 m e N: 9.086.891,147 m deste, segue com azimute de 344° 57' 48,22'  
+e distância de 56,61 m até o vértice B3, de coordenadas E: 280.852,248 m e N: 9.086.945,821 m deste, segue com azimute de 303° 00' 03,36' e distância de 46,78 m até o vértice B4, de coordenadas E: 280.813,012 m e N: 9.086.971,302 m deste, segue com azimute de 233° 58' 47,12' e distância de 12,05 m até o vértice B5, de coordenadas E: 280.805,460 m e N: 9.086.965,811 m deste, segue com azimute de 344° 57' 49,60'  
+e distância de 17,77 m até o vértice B6, de coordenadas E: 280.800,851 m e N: 9.086.982,969 m deste, segue com azimute  
+de 92° 34' 34,42' e distância de 13,90 m até o vértice B7, de coordenadas E: 280.814,342 m e N: 9.086.982,362 m deste, segue com azimute de 123° 00' 02,10' e distância de 55,53 m até o vértice B8, de coordenadas E: 280.860,911 m e N: 9.086.952,119 m deste, segue com azimute de 164° 57' 48,61' e distância de 60,45 m até o vértice B1, ponto inicial da descrição deste perímetro, perfazendo uma área de 1.241,41m² e um perímetro total de 273,08m.
+
+Todas as coordenadas aqui descritas estão georreferenciadas ao Sistema Geodésico Brasileiro e encontram-se representadas no Sistema UTM, referenciadas ao Meridiano Central 33 WGr, fuso 25S, tendo como datum o SIRGAS-2000. Todos os azimutes e distâncias, área e perímetro foram calculados no plano de projeção UTM.
+
+
+IV –
+
+Rua de Pedestre do Loteamento Nova Morada:
+
+“MEMORIAL DESCRITIVO.
+
+ÁREA: 200,00m²  
+Inicia-se a descrição deste perímetro no vértice C1, de coordenadas E: 280.838,903 m e N: 9.086.841,319 m deste, segue com azimute de 74° 57' 45,44' e distância de 40,00 m até o vértice C2, de coordenadas E: 280.877,533 m e N: 9.086.851,697 m deste, segue com azimute de 164° 57' 49,57'  
+e distância de 5,00 m até o vértice C3, de coordenadas E: 280.878,830 m e N: 9.086.846,868 m deste, segue com azimute de 254° 57' 45,57' e distância de 40,00 m até o vértice C4, de coordenadas E: 280.840,200 m e N: 9.086.836,490 m deste, segue com azimute de 344° 57' 53,55' e distância de 5,00 m até o vértice C1, ponto inicial da descrição deste perímetro, perfazendo uma área de 200,00m² e um perímetro total de 90,00m.
+
+Todas as coordenadas aqui descritas estão georreferenciadas ao Sistema Geodésico Brasileiro e encontram-se representadas no Sistema UTM, referenciadas ao Meridiano Central 33 WGr, fuso 25S, tendo como datum o SIRGAS-2000. Todos os azimutes e distâncias, área e perímetro foram calculados no plano de projeção UTM.
+
+
+V –
+
+Avenida III do Loteamento Nova Morada:
+
+“MEMORIAL DESCRITIVO.
+
+ÁREA: 200,00m²  
+Inicia-se a descrição deste perímetro no vértice D1, de coordenadas E: 280.918,961 m e N: 9.086.740,446 m deste, segue com azimute de 261° 44' 49,17' e distância de 66,61 m até o vértice D2, de coordenadas E: 280.853,037 m e N: 9.086.730,884 m deste, segue com azimute de 344° 57' 47,35'  
+e distância de 15,11 m até o vértice D3, de coordenadas E: 280.849,118 m e N: 9.086.745,472 m deste, segue com azimute de 81° 44' 49,26' e distância de 66,61 m até o vértice D4, de coordenadas E: 280.915,042 m e N: 9.086.755,034 m deste, segue com azimute de 164° 57' 49,98' e distância de 15,11 m até o vértice D1, ponto inicial da descrição deste perímetro, perfazendo uma área de 999,18m² e um perímetro total de  
+163,44m. Todas as coordenadas aqui descritas estão georreferenciadas no Sistema Geodésico Brasileiro, e encontram-se representadas no Sistema UTM, referenciadas ao Meridiano Central 33°00’00”WGr/EGr, tendo como o Datum o SIRGAS 2000. Todos os azimutes e distâncias, áreas e  
+perímetros foram calculados no plano de projeção UTM.
+
+Todas as coordenadas aqui descritas estão georreferenciadas ao Sistema Geodésico Brasileiro e encontram-se representadas no Sistema UTM, referenciadas ao Meridiano Central 33 WGr, fuso 25S, tendo como datum o SIRGAS-2000. Todos os azimutes e distâncias, área e perímetro foram calculados no plano de projeção UTM.
+
+
+Art. 2º.
+
+Fica o Poder Executivo Municipal autorizado a doar, mediante escritura, para a HBR ENGENHARIA LTDA, pessoa jurídica de direito privado, devidamente inscrita no CNPJ/MF sob o nº 05.547.417/0001-92, com sede estabelecida na Rua Oscar Berardo, 42 - Prado, Recife - PE, CEP 50.751-020, as áreas citadas no caput do artigo 1º desta Lei, a partir da data de publicação da presente Lei.
+
+
+Parágrafo único
+
+A doação mencionada no caput deste artigo terá por objeto a cessão das áreas descritas no Art. 1º desta Lei.
+
+
+Art. 3º.
+
+As áreas de terra, ora transferidas através de doação, destinam-se exclusivamente à instalação de empreendimentos habitacionais, aprovados pela Portaria MCID nº 1.482, de 21 de novembro de 2023.
+
+
+Art. 4º.
+
+O Donatário se obriga, nos termos do que dispuser o instrumento respectivo, a dar a destinação devida a área cedida, sob pena de rescisão contratual, respondendo a beneficiaria por perdas e danos.
+
+
+Art. 5º.
+
+As áreas de terra, ora transferidas através de doação, reverteram ao patrimônio do município se as obras de construção do referido empreendimento não forem iniciadas dentro do prazo de 2 (dois) anos, contados a partir da publicação desta Lei.
+
+
+Parágrafo único
+
+Reverteram igualmente ao patrimônio do município, no caso de desvio de finalidade.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Palácio Joaquim Nabuco, 20 de março de 2024.
+
+**CLAYTON DA SILVA MARQUES**  
+Prefeito
+
+Chancelas:
+
+**ANTONIO PERES NEVES BAPTISTA**  
+Secretário Municipal de Assuntos Jurídicos (SMAJ).
+
+**BRUNA GABRIELA JERONIMO SANTOS.**  
+Secretária Municipal de Planejamento e Meio Ambiente (SMPMA).
+
+“Lei decorrente do Projeto de Lei à Sanção nº 002/2024, de autoria do Poder Executivo”
+

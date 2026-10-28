@@ -1,0 +1,426 @@
+---
+titulo: "Lei nº 1.133, de 23 de dezembro de 2008"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1133"
+data: "2008-12-23"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/539"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/977/text"
+sha256_fonte: "0613db7099d9583a1252e86a1ba22f40cfb332e2d3d2a38a9b1235648de96f91"
+sha256_texto: "8c8f05cd3a584488012a4d8c46c91f93a91f596b7f4aebb1e451dd14b343ea76"
+capturado_em_fonte: "2026-10-27T20:09:57.138654-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.133, de 23 de dezembro de 2008
+
+Dispõe sobre a reorganização e funcionamento do Conselho Municipal dos Direitos da Criança e do adolescente e dá outras providências.
+
+
+A Câmara Municipal de Buritis, por seus representantes, aprova e Eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+#### CAPÍTULO I — DA NATUREZA
+
+
+Art. 1º.
+
+O Conselho Municipal dos Direitos da Criança e do Adolescente de Buritis - MG, criado pelo artigo da Lei Municipal n° 615/93, em obediência ao disposto no Estatuto da Criança e do Adolescente (Lei Federal n. 8.069, de 13 de julho de 1990), é órgão colegiado paritário, integrante da esfera do Poder Executivo, com a missão institucional de deliberar sobre a política de promoção proteção dos direitos da criança e do adolescente e seus programas específicos, no município, exercendo o controle institucional das áreas públicas governamentais e não governamentais, promovendo a articulação e integração operacional dos órgãos públicos responsáveis e mobilizando a Sociedade em favor desses direitos.
+
+
+Art. 2º.
+
+Sem prejuízo da sua autonomia funcional, o Conselho Municipal dos Direitos da Criança e do Adolescente fica vinculado administrativamente à Secretaria Municipal de Ação Social de Buritis, constituindo-se em unidade de despesa daquele órgão, cabendo a ele as providências necessárias a sua manutenção e funcionamento.
+
+
+Art. 3º.
+
+O Conselho Municipal dos Direitos da Criança e do Adolescente aprovará seu Regimento Interno, regulamentando os dispositivos expressamente indicados nesta lei e mais aqueles outros que julgar necessários, especialmente sobre seu funcionamento, obedecidos os limites dos atos administrativos regulamentares.
+
+
+#### CAPÍTULO II — DAS ATRIBUIÇÕES
+
+
+Art. 4º.
+
+Compete ao Conselho Municipal dos Direitos Municipais da Criança e do Adolescente:
+
+
+I –
+
+Promover o reconhecimento e a garantia dos direitos de todas as crianças e adolescentes, nos termos da legislação vigente;
+
+
+II –
+
+Estabelecer diretrizes básicas, através de atos administrativos regulamentares, sobre a política de promoção e proteção dos direitos da criança e do adolescente sobre seus programas específicos, previstos nos artigos 86, 87 incisos III a Ve 90, do Estatuto da Criança e do Adolescente, fixando prioridades;
+
+
+III –
+
+Receber, analisar e encaminhar possíveis denúncias de descriminações, negligências, abusos, explorações e violências contra direitos de crianças e adolescentes, aos órgãos competentes.
+
+
+IV –
+
+Controlar, acompanhar e avaliar a gestão e o desempenho dos serviços, programas, ações, projetos dos órgãos do Poder Público municipal e das organizações representativas da sociedade que atuam nesta área, propondo as necessárias correções, observadas as linhas de ação e diretrizes estabelecidas especialmente no artigo 227 da Constituição Federal e nos artigos 87 e 88 do Estatuto da Criança e do Adolescente.
+
+
+V –
+
+Informar, anualmente de oficio ou quando solicitado, ao poder público municipal e às organizações da sociedade civil, sobre sua atuação.
+
+
+VI –
+
+Mobilizar a sociedade sobre as condições reais do reconhecimento c garantia dos direitos da criança e do adolescente, especialmente realizando audiências públicas e campanhas e estimulando a participação da população na gestão e no controle social, especialmente através dos fóruns e outras instâncias de articulação da sociedade civil.
+
+
+VII –
+
+Sensibilizar os dirigentes dos órgãos públicos e das organizações representativas da socicdade sobre as condições reais do reconhecimento e garantia dos direitos da criança e do adolescente.
+
+
+VIII –
+
+Estimular, apoiar e promover a manutenção de bancos de dados e sistemas de informação sobre situações de violação dos direitos da criança e do adolescente e do ressarcimento desses direitos.
+
+
+IX –
+
+Acompanhar a elaboração da proposta orçamentária e a execução do orçamento municipal, indicando as modificações necessárias à consecução da política de promoção e proteção dos direitos da criança e do adolescente.
+
+
+X –
+
+Acompanhar o reordenamento normativo e institucional, propondo, sempre que necessário, modificações na estrutura, organização e funcionamento dos serviços e programas, governamentais e não governamentais, no âmbito de todas as políticas sociais básicas.
+
+
+XI –
+
+Estabelecer vínculo de cooperação com a Câmara Municipal local e com os órgãos do Poder Judiciário, do Ministério Público e da Defensoria Pública;
+
+
+XII –
+
+Apoiar e orientar os conselhos tutelares, do município, no exercício de suas funções, respeitada sua autonomia funcional;
+
+
+XIII –
+
+Apurar as possíveis faltas funcionais dos membros dos conselhos tutelares, através de aplicação de sanções disciplinares junto a quem de direito estritamente na forma da lei.
+
+
+XIV –
+
+Promover intercâmbio de experiências e informações com os demais Conselhos Municipais dos Direitos da Criança e do Adolescente, com o Conselho Estadual dos Direitos da Criança e do Adolescente CEDCA - MG e com o Conselho Nacional dos Direitos da Criança e do Adolescente CONANDA.
+
+
+XV –
+
+Gerir o Fundo Municipal para os Direitos da Criança e do Adolescente, nos termos da Lei que o instruir e regular;
+
+
+XVI –
+
+Mapear os serviços e programas das políticas sociais, que atuem com crianças e adolescentes, em conjunto com o conselho tutelar.
+
+
+XVII –
+
+Inscrever nos programas de proteção especial de direitos e os programas Sócios educativos das entidades governamentais e não governamentais, previsto no artigo 90 do Estatuto da Criança e do Adolescente, executando no âmbito do Município, com a especificação dos regimes de atendimento, mantendo registro dessas inscrições e de suas alterações, procedendo-se a devida comunicação aos conselhos tutelares e a vara da infância e da juventude competente;
+
+
+XVIII –
+
+Cadastrar as entidades não governamentais que desenvolvam programas de proteção e Sócio educativo, previsto no artigo 90 do Estatuto da Criança e do Adolescente, no âmbito do Município, procedendo-se a devida comunicação aos conselhos tutelares e a vara da infância e da juventude competente.
+
+
+XIX –
+
+Realizar o processo de escolha dos membros dos conselhos tutelares, sob a fiscalização de representante do Ministério Público Estadual.
+
+
+XX –
+
+Exercer outras atividades correlatas, que não conflitem com sua missão institucional, a serem definidas pelo Regimento Interno
+
+
+#### CAPÍTULO III — DA COMPOSIÇÃO
+
+
+Art. 5º.
+
+O Conselho Municipal dos Direitos da Criança e do Adolescente será composto por 08(oito) conselheiros titulares e respectivos suplentes, sendo 04(quatro), representantes de órgãos do poder público municipal e 04(quatro
+
+
+Art. 6º.
+
+Os conselheiros tutelares e suplentes, representantes do poder público municipal serão nomeados pelo Prefeito Municipal, após sua indicação, pelos responsáveis dos órgãos seguintes, sendo demissíveis ad nutum: Secretaria Municipal de Ação Social, Secretaria Municipal de Educação, Secretaria Municipal de Saúde e Secretaria Municipal de Administração e Planejamento.
+
+
+Art. 7º.
+
+Os conselheiros titulares e suplentes, representantes de organizações da sociedade civil serão nomeados pelo Prefeito Municipal, após indicação vinculativa feita por uma assembléia dessas organizações, para um mandato de dois anos.
+
+
+§ 1º
+
+Essa Assembléia deverá ser especificamente convocada pelo Conselho Municipal dos Direitos da Criança e do Adolescente, para esse fim, por edital publicado no órgão oficial, em extrato, em jornal de grande circulação, no mínimo 3 meses antes do final do mandato dos conselheiros representantes de organizações da sociedade civil;
+
+
+§ 2º
+
+O Conselho Municipal dos Direitos da Criança e do Adolescente designará uma comissão composta de seus membros, para organizar e realizar o procedimento de escolha desses conselheiros, na forma do Regimento Interno;
+
+
+§ 3º
+
+O procedimento de escolha será fiscalizado pelo representante do Ministério Público estadual competente, que oferecerá impugnações perante o próprio Conselho Municipal dos Direitos da Criança e do Adolescente, antes da interposição de ação judicial cabível, se for o caso.
+
+
+§ 4º
+
+Participarão da Assembléia Geral, tanto como votantes, tanto como votados, apenas organizações da sociedade que atuam amplamente na promoção e proteção dos direitos da criança e do adolescente, em qualquer das áreas de políticas públicas, que tenham abrangência municipal e que estejam legalmente constituídas, tendo pelo menos um (01) ano de funcionamento regular, na forma de seus atos constituintes;
+
+
+§ 5º
+
+Para o fim deste artigo, consideram-se organizações da sociedade civil que atuam na promoção e proteção dos direitos de crianças e adolescentes, as entidades não governamentais, que desenvolvam serviços e programas Sócio-educativo (artigos 87, III a Ve 90, do Estatuto da Criança e do Adolescente) ou programas de mobilizações, comunicação social, formação de recursos humanos, estudose pesquisas, especificamente em torno da questão dos direitos da infância e da adolescência;
+
+
+§ 6º
+
+Nenhuma norma administrativa poderá restringir ou ampliar o universo dessas entidades, inovando de relação a esta lei.
+
+
+Art. 8º.
+
+Poderá atuar, junto ao Conselho Municipal dos Direitos da Criança e do Adolescente, sem integrá-lo, membro do Ministério Público do Estado e membro da Câmara Municipal, indicados por suas instituições, quando julgar necessário.
+
+
+Art. 9º.
+
+O Regimento interno regulamentará os procedimentos de indicação dos conselheiros representantes do poder público e os de escolha dos conselheiros representantes de organização da sociedade civil e o procedimento para substituição de ambos.
+
+
+#### CAPÍTULO IV — DOS CONSELHEIROS
+
+
+Art. 10.
+
+Todos os conselheiros, titulares e suplentes, terão seus representantes empossados pelo Prefeito Municipal ou autoridade por ele designada para o ato, no prazo máximo de 30 dias contados da publicação do ato de nomeação no órgão oficial.
+
+
+Art. 11.
+
+A função pública de conselheiro é considerada de relevante interesse e não será remunerada.
+
+
+Art. 12.
+
+No caso de declaração da vacância da função de conselheiro tutelar, seu suplente assumirá a titularidade de imediato e, no prazo máximo de 30 dias, no caso dos conselheiros representantes de órgãos do poder público e repetir a escolha por assembléia e nomeação de novos suplentes, no caso dos representantes das organizações representativas da sociedade.
+
+
+Art. 13.
+
+Ocorrerá vacância da função de conselheiro, nas seguintes hipóteses:
+
+
+I –
+
+Morte;
+
+
+II –
+
+Renuncia;
+
+
+III –
+
+Perda de cargo.
+
+
+Parágrafo único
+
+O Conselho Municipal dos Direitos da Criança e do Adolescente, por maioria absoluta de seus membros, poderá declarar a perda de função do Conselheiro Tutelar ou suplente, assegurado o direito à ampla defesa e ao contraditório, nas seguintes hipóteses:
+
+
+I –
+
+desatender comprovadamente às incumbências previstas no Regimento Interno;
+
+
+II –
+
+não comparecer a 03 reuniões consecutivas do Colegiado ou das Comissões Permanentes ou a 05 reuniões intercaladas, sem comparecimento do respectivo suplente, ressalvada a hipótese da ausência ter ocorrido por motivo de força maior, devidamente justificada, por escrito, até 24 horas após a realização da reunião;
+
+
+III –
+
+apresentar conduta social pública incompatível com a natureza das suas funções;
+
+
+IV –
+
+for condenado, por sentença transitada em julgamento, pela prática de crimes previstos na legislação penal.
+
+
+Art. 14.
+
+No caso de impedimento, afastamentos legais e ausências eventuais, os conselheiros titulares serão substituídos por seus respectivos suplentes.
+
+
+Art. 15.
+
+O regimento interno disporá sobre os procedimentos para o conhecimento ou decretação de vacância, impedimento, afastamento legal e ausência eventual do conselheiro e sobre a convocação de suplentes, em substituição.
+
+
+#### CAPÍTULO V — Da organização e do funcionamento
+
+
+Art. 16.
+
+São órgãos integrantes do Conselho Municipal dos Direitos da Criança e do Adolescente:
+
+
+I –
+
+Colegiado
+
+
+II –
+
+Mesa Diretora
+
+
+a)
+
+Presidência;
+
+
+b)
+
+Vice-Presidência;
+
+
+c)
+
+1ª Secretaria;
+
+
+d)
+
+2ª Secretaria;
+
+
+III –
+
+Comissão Permanente;
+
+
+IV –
+
+Comissão Temporária;
+
+
+Art. 17.
+
+O Colegiado é o órgão máximo de deliberação do Conselho Municipal dos Direitos da Criança e do Adolescente, formado por todos os seus membros e se reunirá ordinariamente, pelo menos uma vez por mês e extraordinariamente por convocação do presidente ou de metade de seus membros.
+
+
+§ 1º
+
+As reuniões do Colegiado do Conselho Municipal dos Direitos da Criança e do Adolescente serão públicas, salvo em hipóteses extraordinariamente previstas no Regimento Interno, podendo qualquer presente fazer uso da palavra que será deferida pelo Presidente, se julgar pertinente.
+
+
+§ 2º
+
+OCMDCA deliberará por maioria simples dos seus membros e se consubstanciarão em resoluções ou outros atos administrativos formais, assinados pelo Presidente e encaminhados para publicação na forma da legislação municipal local.
+
+
+Art. 18.
+
+O Conselho Municipal dos Direitos da Criança e do Adolescente é presidido por um de seus membros, eleitos nos moldes desta lei e do Regimento Interno. Parágrafo único - O Presidente, na deliberação do plenário, além do voto comum, terá o direito do voto de qualidade, nos casos de empate, podendo ainda deliberar ad referendum\_do plenário, em caso de manifestação urgente ou de emergência.
+
+
+Art. 19.
+
+O Presidente será substituído, em casos de impedimento, afastamentos legais e ausências eventuais, pelo vice-presidente e não por seu suplente.
+
+
+Art. 20.
+
+As demais funções da Mesa Diretora, do Conselho serão substituídas, em caso de impedimento, afastamentos legais e ausências eventuais, na forma seguinte:
+
+
+a)
+
+a Vice Presidência pela 1ª Secretária;
+
+
+b)
+
+a 1ª secretária pela segunda secretária.
+
+
+Art. 21.
+
+Em caso de vacância da Presidência, da Vice Presidência e da 1ª e 2 secretária convocar-se-á nova eleição, no prazo máximo de 30 dias, respondendo pelas funções, até a escolha de novo titular, os substitutos previstos no artigo acima.
+
+
+Parágrafo único
+
+Considerar-se-ão vagos os cargos de Presidente, vice-presidente, 1ª e 2ª secretário e nas mesmas hipóteses do artigo 14 e seu parágrafo único.
+
+
+Art. 22.
+
+O Regimento Interno definirá as substituições do Plenário, das comissões permanentes e provisórias, da Mesa Diretora e regulará o procedimento de escolha, destituição e substituição dos cargos da Mesa Diretora do Conselho Municipal dos Direitos da Criança e do Adolescente.
+
+
+#### CAPÍTULO VI — DA SECRETARIA-EXECUTIVA
+
+
+Art. 23.
+
+O Conselho Municipal dos Direitos da Criança e do Adolescente contará para o seu funcionamento, com uma secretariaexecutiva, composta de servidores do Poder Executivo Municipal, para exerceram atividades de apoio técnico e administrativo necessárias para o desenvolvimento das atividades do Conselho.
+
+
+Parágrafo único
+
+O Secretário-executivo será designado pelo Chefe do Poder Executivo.
+
+
+#### CAPÍTULO VII — DISPOSIÇÕES FINAIS
+
+
+Art. 24.
+
+Leis municipais específicas disporão sobre a criação, estruturação, organização e funcionamento do Fundo Municipal para os Direitos da Criança e do Adolescente, do conselho tutelare e dos programas específicos de proteção e sócio educativo previsto no Estatuto da Criança e do Adolescente, no âmbito do Município de Buritis - MG.
+
+
+Art. 25.
+
+As despesas resultantes da aplicação desta Lei, no atual exercício, correrão à conta de dotações próprias consignadas no orçamento vigente, suplementadas, se necessário, nos termos da legislação pertinente.
+
+
+Art. 26.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas todas as disposições em contrário, especialmente a Lei Municipal 615/93.
+
+
+Buritis, 23 dt Dezembro de 2008.
+
+**Dr Keny Soares Rodrigues Prefeito Municipal**
+
+**Proposição de Lei 038/2008. Ref. Projeto de Lei 043/2008.**
+

@@ -1,0 +1,93 @@
+---
+titulo: "Lei nº 1.789, de 10 de setembro de 2008"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1789"
+data: "2008-09-10"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/1421"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/3139/text"
+sha256_fonte: "8cee823fd01bce36a9992105db35e6d6dbe50ee24258ee6b8d3fa8a4fc4bb36e"
+sha256_texto: "a799a3a7fb27e6aa8d6df9cf5dbd930bddb34e5914d83b022b04eeb7e705ebf5"
+capturado_em_fonte: "2026-10-27T21:24:27.448974-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.789, de 10 de setembro de 2008
+
+“Dispõe sobre a criação do “Programa Agente Igreja”, e dá outras providências”.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no inciso IV, do artigo 87 da, da Lei Orgânica do Município de Porto Velho,
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO**, aprovou eu sanciono a seguinte:
+
+**LEI:**
+
+
+Art. 1º.
+
+Fica instituído o “Programa Agente Igreja”, que tem como objetivo auxiliar e disciplinar o trânsito de veículos e pedestres no entorno dos templos religiosos, visando evitar congestionamento e possíveis acidentes decorrentes do fluxo maior de veículos e pedestres em dias e horários de culto, no âmbito do município de Porto Velho.
+
+
+Art. 2º.
+
+Para dar cumprimento ao que dispõe o art.1° da presente lei, o “AGENTE IGREJA”, deverá receber treinamento específico fornecido pelo órgão oficial municipal disciplinador do trânsito, tanto de pedestres como de veículos, do município de Porto Velho.
+
+
+§ 1º
+
+O órgão oficial municipal, disciplinador do trânsito tanto de pedestres como de veículos, do município de Porto Velho, mencionado no “caput do Art.1° da presente Lei, é a SEMTRAN – Secretaria Municipal de Trânsito.
+
+
+§ 2º
+
+O “AGENTE IGREJA”, após treinamento aplicado pela SEMTRAN e posterior qualificação, o mesmo deverá usar colete de identificação composto de faixas reflexivas e boné com o nome da instituição Religiosa a qual está ligado e apito, instrumentos indispensáveis para exercer a função de auxiliar e disciplinar o trânsito de veículos e pedestres no entorno dos templos religiosos, no âmbito do Município de Porto Velho em dias e horários de culto somente.
+
+
+§ 3º
+
+A indicação de tal “AGENTE IGREJA” só poderá ser feita mediante documento endereçado e assinado por responsável devidamente identificado pelo Templo Religioso e protocolado junto a SEMTRAN.
+
+
+§ 4º
+
+Autoriza o Poder Executivo a firmar convênio com órgão Estadual e Federal de Trânsito
+
+
+Art. 3º.
+
+O “AGENTE IGREJA” poderá somente e somente auxiliar e disciplinar o trânsito de veículos e pedestres no entorno dos templos religiosos no âmbito do Município de Porto Velho em dias e horários de culto, não o possuindo para tal, poder de repreensão seja por meio de palavras ou gestos ou até mesmo de “multa”.
+
+
+§ 1º
+
+A SEMTRAN tem a função somente de treinamento e qualificação, eximindo da responsabilidade sobre os atos do “AGENTE IGREJA”, sejam ele de responsabilidade civil ou criminal, ficando a Instituição Religiosa responsável pela indicação do “AGENTE IGREJA” junto a SEMTRAN.
+
+
+Art. 4º.
+
+O “AGENTE IGREJA” deverá ter formação mínima ao nível do Ensino Médio Completo e idade superior a 18 anos.
+
+
+Art. 5º.
+
+A Instituição Religiosa poderá utilizar-se de parcerias com organizações não governamentais, baseadas em trabalho voluntário e não remunerado, como associações de moradores de bairros para colaboração e apoio na implementação deste programa.
+
+
+Art. 6º.
+
+O Poder Executivo regulamentará esta lei no prazo de 90 dias (noventa) dias, contados a partir da data de sua promulgação.
+
+
+**ROBERTO EDUARDO SOBRINHO Prefeito do Município**
+
+**Projeto de Lei n. 2.449/2008**  
+Autoria: Vereador Flávio Lemos
+

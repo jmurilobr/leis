@@ -1,0 +1,138 @@
+---
+titulo: "Lei Ordinária nº 4.009, de 31 de julho de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4009"
+data: "2025-07-31"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/2416"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/2306/text"
+sha256_fonte: "d469ba3f45cf144fd287a649134e44f56fc377def9ce7dbda406f69d7ad6f6b7"
+sha256_texto: "8b307df2f3b94da8300b6e48c81cd37d784a8eca1c55a7b55e7386d4070c3d14"
+capturado_em_fonte: "2026-10-27T21:09:10.758320-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.009, de 31 de julho de 2025
+
+INSTITUI O PROGRAMA PARLAMENTO JOVEM – PPJ, NO ÂMBITO DO MUNICÍPIO DO CABO DE SANTO AGOSTINHO E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+**O Prefeito do Município do Cabo de Santo Agostinho, Faço saber que a Câmara Municipal aprova e eu sanciono a seguinte Lei:**
+
+
+Art. 1º.
+
+É criado, no âmbito da Câmara Municipal de Vereadores do Cabo de Santo Agostinho o Programa Parlamento Jovem – PPJ, destinado a proporcionar aos jovens conhecimento acerca da estrutura e do funcionamento do Poder Legislativo tanto na perspectiva teórica, como na prática, bem como para estimular um relacionamento permanente dos jovens cidadãos com a Câmara Municipal.
+
+
+Art. 2º.
+
+Cada Vereador escolherá 1 (uma) liderança jovem considerando suas atuações e participações políticas no Município, nas escolas, nas frentes políticas e no Fórum de Juventude do Cabo (FOJUCA). Poderão participar do projeto da Câmara Municipal com suas inscrições a serem realizadas anualmente e no mês de março, estudantes de 16 (dezesseis) a 25 (vinte e cinco) anos de idade.
+
+
+Art. 3º.
+
+A Câmara Municipal do Cabo de Santo Agostinho, composta por 21 (vinte e um) parlamentares, indicará 21 (vinte e um) nomes para a composição do Programa de Parlamento Jovem, havendo vacância deverá a FOJUCA indicar um nome para complementação.
+
+
+Parágrafo único
+
+A composição dos vinte e um participantes deve ser renovada a casa ano no mês de março, podendo o Vereador permanecer com a mesma liderança jovem, por no máximo 3 (três) anos consecutivos, ou indicar novo participante.
+
+
+Art. 4º.
+
+A cerimônia de oficialização dos participantes do Programa de Parlamento Jovem será realizada no Plenário da Câmara com a presença dos Parlamentares e do Presidente da Câmara.
+
+
+Art. 5º.
+
+O Projeto Parlamento Jovem – PPJ, de periodicidade anual, terá suas sessões realizadas nos meses de abril, julho e outubro de cada ano.
+
+
+Art. 6º.
+
+No âmbito do Projeto Parlamento Jovem caberá aos participantes, devidamente orientados, a elaboração de proposições legislativas e de pronunciamentos que serão apresentados em sessões simuladas, preferencialmente, no Plenário da Câmara Municipal, nos meses de abril, julho e outubro de cada ano.
+
+
+Parágrafo único
+
+Observar-se-ão, no decorrer dos trabalhos do Projeto Parlamento Jovem, tanto quanto possível, os procedimentos regimentais relativos ao trâmite das proposições, inclusive quanto à sua iniciativa, publicação, discussão e votação em plenário, conforme regulamento interno a ser aprovado por ato da Mesa Diretora.
+
+
+Art. 7º.
+
+Deverá ser escolhida, por votação entre os participantes, a Mesa Diretora, constando na composição da Mesa:
+
+
+I –
+
+1 (um) presidente
+
+
+II –
+
+1 (um) vice-presidente
+
+
+III –
+
+1º Secretário
+
+
+IV –
+
+2º Secretário
+
+
+Art. 8º.
+
+A Mesa Diretora do Parlamento Jovem, mediante regulamento, estabelecerá regras para o funcionamento do Parlamento Jovem, especialmente quanto:
+
+
+I –
+
+ao cronograma das atividades de organização;
+
+
+II –
+
+a organização das sessões simuladas:
+
+
+III –
+
+na análise das pautas a serem discutidas;
+
+
+IV –
+
+na mediação das tratativas nas sessões simuladas.
+
+
+Art. 9º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Palácio Joaquim Nabuco, 31 de julho de 2025.
+
+***LUIZ CABRAL DE OLIVEIRA FILHO***
+
+Prefeito
+
+Chancelas:
+
+***FLAVIO BRUNO DE ALMEIDA SILVA***
+
+Secretário Municipal de Assuntos Jurídicos
+
+“Lei decorrente do Projeto de Lei nº 033, de autoria da vereadora Laura Karoline Monteiro da Silva (Karol Barros) do Município Cabo de Santo Agostinho”.
+

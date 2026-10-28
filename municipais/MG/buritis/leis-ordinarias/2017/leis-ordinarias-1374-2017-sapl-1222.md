@@ -1,0 +1,165 @@
+---
+titulo: "Lei nº 1.374, de 21 de setembro de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1374"
+data: "2017-09-21"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/1222"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/630/text"
+sha256_fonte: "171b3aa3ce2ae87b2b5159dfc076f35b72f1d27280fdecfd91dc55ac2c22a815"
+sha256_texto: "aff4ed75cc0d1027ca96628a1adc2a092dee8095a520185b4f66bfdde4b822b9"
+capturado_em_fonte: "2026-10-27T19:55:20.787489-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.374, de 21 de setembro de 2017
+
+Institui o Conselho Municipal de Segurança Pública - COMSEP estabelece sua competência, princípios e diretrizes para o seu funcionamento, e dá outras providências.
+
+
+A Câmara Municipal de Buritis, Estado de Minas Gerais, aprovou e eu, Prefeito Municipal, sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica criado, o Conselho Municipal de Segurança - COMSEP, ao qual incumbirá, em âmbito municipal e sem prejuízo das atribuições legais dos demais órgãos competentes, elaborar as diretrizes de execução de uma política municipal de segurança pública, de combate à criminalidade e prevenção à violência.
+
+
+Art. 2º.
+
+Compete ainda, ao Conselho Municipal de Segurança Pública:
+
+
+I –
+
+Avaliar, acompanhar ou, ainda, propor a sua modificação e adaptação às necessidades da comunidade, das ações, programas, projetos e planos relacionados segurança pública no município, ao enfrentamento da criminalidade e à prevenção da violência no município, zelando sempre pelo respeito aos direitos humanos e pela eficiência do serviço público, principalmente no que se refere à proteção do cidadão e da sociedade.
+
+
+II –
+
+Apoiar às autoridades responsáveis as prioridades do município na área de segurança pública, conforme as diretrizes anteriormente traçadas para a execução da política municipal de segurança pública.
+
+
+III –
+
+Zelar pelo bom relacionamento da comunidade com as forças policiais е demais órgãos, direta ou indiretamente, envolvidos com a temática da segurança pública, criminalidade e violência, promovendo, sempre que possível campanha de conscientização e educação, de forma a estreitar laços e promover a cooperação da comunidade com a segurança pública, como um todo.
+
+
+IV –
+
+Celebrar convênios, ou promover a sua celebração, entre o poder público e as entidades civis, organizações não governamentais ou empresas privadas, que possam contribuir de qualquer forma, inclusive, financeiramente, para a implementação da política de segurança pública do município.
+
+
+V –
+
+Fiscalizar a aplicação dos recursos destinados à área da segurança pública no município, zelando pelos Princípios da Eficiência, Moralidade, Publicidade e Impessoalidade no seu gerenciamento e prestação do serviço público.
+
+
+VI –
+
+Elaborar relatório semestral acerca da atuação do COMSEP, dados estatísticos, resultados e metas a serem cumpridas no semestre seguinte, prestando contas à população do município da gestão, atuação e recursos, inclusive os de âmbito interno do Conselho.
+
+
+Art. 3º.
+
+O Conselho Municipal de Segurança Pública - COMSEP, possui 10 (dez) membros com a seguinte composição:
+
+
+I –
+
+um representante do Poder Executivo Municipal;
+
+
+II –
+
+um representante do Poder Legislativo Municipal;
+
+
+III –
+
+um representante da Polícia Civil;
+
+
+IV –
+
+um representante da Polícia Militar;
+
+
+V –
+
+um representante da OAВ;
+
+
+VI –
+
+um representante do Conselho Municipal dos Direitos da Criança e do Adolescente;
+
+
+VII –
+
+um representante do Sindicato dos Produtores Rurais;
+
+
+VIII –
+
+um representante da Associação Comercial de Buritis;
+
+
+IX –
+
+dois representantes da Sociedade Civil Organizada.
+
+
+§ 1º
+
+Cada representante possuirá um Suplente, com direito a voto, no caso de ausência ou impedimento do Titular;
+
+
+§ 2º
+
+Os Conselheiros e Suplentes serão nomeados pelo Prefeito Municipal, para o mandato de 02 (dois) anos, podendo ser reconduzidos uma vez, respeitadas as indicações dos órgãos a que representam;
+
+
+§ 3º
+
+O exercício da função de Conselheiro não será remunerado, porém, a função será considerada de relevante serviço público, concedendo-lhe ao final do mandato, diploma de benfeitor da segurança pública no município de Buritis/MG;
+
+
+Art. 4º.
+
+O COMSEP reunir-se-á, no mínimo, uma vez a cada dois meses, em caráter ordinário, ficando a realização das sessões extraordinárias em função da ocorrência de fatos relevantes, por convocação da coordenação do Conselho ou por manifestação da maioria absoluta de seus membros.
+
+
+Parágrafo único
+
+As reuniões serão públicas, abertas à comunidade, que terá direito à voz, em local de fácil acesso, previamente determinado, fora do horário comercial.
+
+
+Art. 5º.
+
+O COMSEP elaborará o seu Estatuto no prazo de 90 dias, a contar da data da primeira sessão ordinária, e seu Regimento Interno, após o prazo de 90 dias, a contar da data da publicação de seu Estatuto.
+
+
+Art. 6º.
+
+O COMSEP não está subordinado a qualquer órgão, mas poderá, para fins de assessoramento e suporte administrativo, funcionar em qualquer um dos que o compõem ou com outro suporte e local, desde que aprovado em sessão plenária, especialmente respeitados os presentes dispositivos legais.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data da sua publicação.
+
+
+Buritis, 21 de setembro de 2017.
+
+**Dr. Keny Soares Rodrigues Prefeito Municipal**
+
+Ref. Proposição de Lei nº 17 de 28/08/2017, de autoria do Executivo Municipal
+

@@ -1,0 +1,16 @@
+{
+  "verificado_em": "2026-10-27T19:56:28.339109-03:00",
+  "manifesto": "scripts/estados/manifestos/se311-proposta-privada-20261027-003.json",
+  "sha256_manifesto": "6528f66a388eb0b37e80cf6fab4c2e86fb7869790875d24a6dba00b703627fdf",
+  "replay": "estaduais/SE/_fonte/auditorias/se311-privado-20261027-003/replay.jsonl",
+  "sha256_replay": "e8f664460635d23217bd88fd31263542114c7c21d90ada577458f44098ccda80",
+  "total": 311,
+  "passaram": 311,
+  "falhas": 0,
+  "testes": 36,
+  "resultado_testes": "36/36 passaram no snapshot congelado003",
+  "diff_check": "git diff --check escopado aos quatro módulos atuais: exit0",
+  "normas_novas": 311,
+  "promovidas": 0,
+  "sem_cookies_headers_sessao": true
+}

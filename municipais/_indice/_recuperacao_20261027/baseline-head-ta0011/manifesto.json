@@ -1,0 +1,64 @@
+{
+  "commit": "b2a0315fe193aa4e730e096820c52a5f05e67eae",
+  "escopo": "git ls-tree -r -z COMMIT -- municipais; somente Markdown canônico regular",
+  "capturado_em": "2026-10-27T20:11:57.482968-03:00",
+  "normas_head": 24105,
+  "reservas": [
+    {
+      "recibo": "municipais/_indice/_recuperacao_20261027/agregado917-final/entrega-final.json",
+      "sha256": "a53417063d2ec2777583de6df65d44dba455818adebfd4811fd9b6b17eb86702",
+      "normas": 917,
+      "ja_no_head": [],
+      "adicionadas": 917
+    },
+    {
+      "recibo": "municipais/_indice/_recuperacao_20261027/agregado1008-final/entrega-final.json",
+      "sha256": "4a0f54e55334cc3d95b8c9626d3a0cc832f05750e529e040f0783de98ee494cd",
+      "normas": 1008,
+      "ja_no_head": [],
+      "adicionadas": 1008
+    },
+    {
+      "recibo": "municipais/_indice/_recuperacao_20261027/agregado749-final/entrega-final.json",
+      "sha256": "b11678bb5503f0c8a1df66b686ea413626009ccf5c520657d53bbec4a7507dc9",
+      "normas": 749,
+      "ja_no_head": [],
+      "adicionadas": 749
+    }
+  ],
+  "total": 26779,
+  "metadados": "municipais/_indice/_recuperacao_20261027/baseline-head-ta0011/metadados-integrais.jsonl.gz",
+  "arquivos": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/baseline-head-ta0011/metadados-integrais.jsonl.gz",
+      "sha256": "da2cc86b8502771e35cdb189f0cfa72a46e63bd1e1477cb5bbff05f7337d603d",
+      "bytes": 7738269
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/baseline-head-ta0011/normas.paths.txt",
+      "sha256": "10b092fa0c99458f277fc7577c949d6242c6cd5001b1fb092641390e9c5cde4b",
+      "bytes": 2136461
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/baseline-head-ta0011/ls-tree-municipais.z",
+      "sha256": "c3d271c318b848326e487cb6655f6fa12dd2e3c239b28aae44c1104ff8ffd9b8",
+      "bytes": 13434635
+    },
+    {
+      "arquivo": "scripts/congelar_baseline_municipal_head_20261027.py",
+      "sha256": "191f21e4b21378dd1abaa6609328adf379c8e8c1831ae49b78d231d842a317bf",
+      "bytes": 6132
+    },
+    {
+      "arquivo": "scripts/auditar_colisoes_lote_municipal.py",
+      "sha256": "9a2352f632d8255cfae6f0317caf62a77b84b41a548e4112fe7ae971ac3a434c",
+      "bytes": 3135
+    },
+    {
+      "arquivo": "scripts/auditar_municipal.py",
+      "sha256": "817f196f53162076bac125fb7c509e9ba6d9479e9aa6918ae5428822dec43ac8",
+      "bytes": 8443
+    }
+  ],
+  "limite": "Metadados extraídos do blob completo por OID; cabeçalhos literais integrais preservados. Snapshot não certifica vigência ou identidade correta do acervo anterior."
+}

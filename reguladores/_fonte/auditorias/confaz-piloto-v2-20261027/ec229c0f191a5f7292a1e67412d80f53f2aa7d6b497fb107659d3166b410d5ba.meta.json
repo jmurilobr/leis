@@ -1,0 +1,31 @@
+{
+  "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/convenio-icms-125-26",
+  "url_final": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/convenio-icms-125-26",
+  "status": 200,
+  "headers": {
+    "Date": "Tue, 27 Oct 2026 21:40:14 GMT",
+    "Server": "Zope/(2.13.22, python 2.7.3, linux2) ZServer/1.1",
+    "X-Cache-Operation": "plone.app.caching.moderateCaching",
+    "Content-Language": "pt-br",
+    "Expires": "Sat, 29 Oct 2016 19:55:51 GMT",
+    "Vary": "Accept-Encoding",
+    "X-Ua-Compatible": "IE=edge,chrome=1",
+    "X-Cache-Rule": "plone.content.itemView",
+    "Content-Type": "text/html;charset=utf-8",
+    "Cache-Control": "max-age=0, s-maxage=0, must-revalidate",
+    "X-Varnish": "438095894 438076872",
+    "Via": "1.1 varnish",
+    "X-Cache": "HIT",
+    "X-Varnish-Age": "2663",
+    "Age": "0",
+    "Transfer-Encoding": "chunked"
+  },
+  "transporte": "curl do sistema; configuração pessoal desativada (-q), TLS verificado, sem insecure e sem seguir redirects automaticamente",
+  "ssl_verify_result": 0,
+  "headers_arquivo": "reguladores/_fonte/auditorias/confaz-piloto-v2-20261027/ec229c0f191a5f7292a1e67412d80f53f2aa7d6b497fb107659d3166b410d5ba.http-headers",
+  "stderr_arquivo": "reguladores/_fonte/auditorias/confaz-piloto-v2-20261027/ec229c0f191a5f7292a1e67412d80f53f2aa7d6b497fb107659d3166b410d5ba.curl-stderr",
+  "sha256": "7b3a884e178078345b4418a55d36b2aaef6efb01a592740beef2a518321734d7",
+  "bytes": 108231,
+  "categoria": "html",
+  "capturado_em_cliente": "2026-10-27T18:40:14.896875-03:00"
+}

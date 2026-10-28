@@ -1,0 +1,70 @@
+---
+titulo: "Lei Ordinária nº 7.510, de 20 de fevereiro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "7510"
+data: "2025-02-20"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/8260"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/2767/text"
+sha256_fonte: "4ed6063539ff44ad2e8619a17661031d1323eb71037cab8f9c1741ff891afdf9"
+sha256_texto: "e1696f172fbb36fb3295bd4f9e9d2e9359516b1d8484c6cd78188bdf9293a7e8"
+capturado_em_fonte: "2026-10-27T17:49:39.327524-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 7.510, de 20 de fevereiro de 2025
+
+AUTORIZA O MUNICÍPIO DE BIRIGUI A ABRIR CRÉDITO ADICIONAL ESPECIAL NA LEI Nº 7.491/2024 - LEI ORÇAMENTÁRIA DE 2025, NA LEI Nº 7.435/2024 - LEI DE DIRETRIZES ORÇAMENTÁRIAS DE 2025 E NA LEI Nº 7.067/2021 - PLANO PLURIANUAL-PPA DE 2022 A 2025 E ALTERAÇÕES, E PROVIDÊNCIAS CORRELATAS.  
+Projeto de Lei nº 16/2025, de autoria da Prefeita Municipal.
+
+
+Eu, **SAMANTA PAULA ALBANI BORINI**, Prefeita Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,
+
+FAÇO SABER que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a abrir por decreto, crédito adicional especial na Lei nº 7.067/2021 – PPA 2022/2025 e alterações, na Lei nº 7.435/2024 – LDO de 2025 e alterações e na Lei nº 7.491/2024 – Lei Orçamentária de 2025, com as seguintes classificações contábeis:
+
+
+<table><tbody><tr><td>02.00.00:</td><td>PODER EXECUTIVO</td></tr><tr><td>02.15.00:</td><td>SECRETARIA MUNICIPAL DE ESPORTES</td></tr><tr><td>FUNÇÃO:</td><td>27 – Desportos e Lazer</td></tr><tr><td>SUBFUNÇÃO:</td><td>812 – Desporto Comunitário</td></tr><tr><td>PROGRAMA:</td><td>0021 – Gestão Esportiva e Administrativa Municipal</td></tr><tr><td>Ação:</td><td>2.060 – Administração Esportiva Municipal</td></tr><tr><td>Elemento Econômico:</td><td>4.4.90.51.00 – Obras e Instalações</td></tr><tr><td>Fonte de Recurso:</td><td>05 – Transferências e Convênios Federais - Vinculados</td></tr><tr><td>Valor:</td><td>R$ 14.000,00 (quatorze mil reais)</td></tr></tbody></table>
+
+
+Art. 2º.
+
+O crédito adicional especial autorizado no artigo 1º desta Lei, correrá à conta de recursos especificados no art. 43, § 1º, inciso I, da Lei Federal nº 4.320, de 17 de março de 1964, **SUPERAVIT FINANCEIRO** apurado no fechamento do exercício anterior, oriundos dos recursos recebidos da Transferência Especial - Emenda Parlamentar Individual nº 202331350008 – Deputado Federal Arlindo Chinaglia, vínculo detalhado 05.800.0164.
+
+
+Art. 3º.
+
+As alterações constantes nesta Lei, serão efetuadas concomitantemente no PPA - Plano Plurianual 2022 a 2025 e na LDO - Lei de Diretrizes Orçamentárias, para o exercício corrente.
+
+
+Art. 4º.
+
+As dotações incluídas na presente Lei poderão ser suplementadas, se necessário, através de Decreto do Executivo Municipal até o limite de vinte porcento do presente crédito.
+
+
+Art. 5º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Birigui, aos vinte de fevereiro de dois mil e vinte e cinco.
+
+**SAMANTA PAULA ALBANI BORINI Prefeita Municipal**
+
+**PAULO REBECCHI Secretário Municipal de Planejamento e Finanças**
+
+Publicada na Secretaria de Municipal de Governo da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**JAQUELINE MORAES SILVA FERNANDES Secretária Adjunta de Governo**
+

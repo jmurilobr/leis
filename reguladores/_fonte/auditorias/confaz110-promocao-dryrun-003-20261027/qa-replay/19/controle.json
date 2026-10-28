@@ -1,0 +1,114 @@
+{
+  "numero_indice": 19,
+  "ano_indice": 2026,
+  "fonte": {
+    "arquivo": "reguladores/_fonte/auditorias/confaz-indice2026-captura-001-20261027/0ff618a85ef48da75f16450942e226fdbfb44821ae7c725558bdc23e37a58fa0.html",
+    "metadata": "reguladores/_fonte/auditorias/confaz-indice2026-captura-001-20261027/0ff618a85ef48da75f16450942e226fdbfb44821ae7c725558bdc23e37a58fa0.meta.json",
+    "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV019_26",
+    "url_final": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV019_26",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 22:59:33 GMT",
+      "Server": "Zope/(2.13.22, python 2.7.3, linux2) ZServer/1.1",
+      "X-Cache-Operation": "plone.app.caching.moderateCaching",
+      "Content-Language": "pt-br",
+      "Expires": "Sat, 29 Oct 2016 21:03:21 GMT",
+      "Vary": "Accept-Encoding",
+      "X-Ua-Compatible": "IE=edge,chrome=1",
+      "X-Cache-Rule": "plone.content.itemView",
+      "Content-Type": "text/html;charset=utf-8",
+      "Cache-Control": "max-age=0, s-maxage=0, must-revalidate",
+      "X-Varnish": "438132756 438107773",
+      "Via": "1.1 varnish",
+      "X-Cache": "HIT",
+      "X-Varnish-Age": "3372",
+      "Age": "0",
+      "Transfer-Encoding": "chunked"
+    },
+    "categoria": "html",
+    "sha256": "41cf93d2b9e1f7e28329e59ff74bd9c76ab861a5e3603bbf5e0bca923a8805c0",
+    "bytes": 110037,
+    "capturado_em_cliente": "2026-10-27T19:59:33.765593-03:00",
+    "inicio_requisicao": "2026-10-27T19:59:33.275175-03:00",
+    "ssl_verify_result": 0,
+    "headers_arquivo": "reguladores/_fonte/auditorias/confaz-indice2026-captura-001-20261027/0ff618a85ef48da75f16450942e226fdbfb44821ae7c725558bdc23e37a58fa0.headers",
+    "stderr_arquivo": "reguladores/_fonte/auditorias/confaz-indice2026-captura-001-20261027/0ff618a85ef48da75f16450942e226fdbfb44821ae7c725558bdc23e37a58fa0.stderr"
+  },
+  "estado": "representacao_privada_verificada_aguarda_confronto_HEAD",
+  "css": {
+    "css_capturados": [
+      "https://www.confaz.fazenda.gov.br/++theme++custom/css/style.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/base-cachekey-7fe23631c792beb0db30931a4ae02a97.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/confaz-print.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/embedder-cachekey-828ecc01dce09625ab9cacea3089e2ea.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/estilos_leis.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/jquery.autocomplete-cachekey-59fbd2a5fc6773a864adabd685eb1ee4.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/mobile-cachekey-1cc23e6e0f0a9f6be71ec18201c3a16e.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/ploneCustom-cachekey-bde1d13299199e784e65560bebf1e385.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/reset-cachekey-616583c06c3943a72f9f969a1240fbf8.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourceProducts.Doormat.stylesheetsdoormat-cachekey-ab318da4bb3f5c97abc64bb1453da10a.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcebrasil.gov.agendaagenda-cachekey-0b9b457891daf70874b650666229b581.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcebrasil.gov.barracssmain-cachekey-b8678e7b9f5de2c3db8378c7faa229fa.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcebrasil.gov.tilestiles-cachekey-08106e5424b0cd9b17b1c56aa9d8a2c0.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcecalendar_stylescalendar-cachekey-ab87c47333464a5f1d4a22f5f4f9f144.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcecollective.nitfcharcount-cachekey-964c273a546fb8d92d505f365c035a97.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourcecollective.uploadcssbootstrap.min-cachekey-f3505dfe9331657bc329aeabdbd210fb.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourceplone.app.jquerytools.dateinput-cachekey-b7f1245ffe10632ff3183a40e45e945b.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.autocompletejquery.autocomplete-cachekey-8a1ada68d10450ed014103370f01e143.css",
+      "https://www.confaz.fazenda.gov.br/portal_css/Sunburst%20Theme/resourceplone.formwidget.querystring.querywidget-cachekey-5ee55ca46052729481269d2ce2efecfe.css"
+    ],
+    "regras_sensiveis": 94,
+    "riscos_aplicaveis": [],
+    "incompletos": [],
+    "criterio": "CSS completos e imports capturados; tinycss2/cssselect2 sobre a árvore HTML5 completa, incluindo ancestrais. Regras sensíveis são conservadoramente retidas; não se infere revogação de todo ato."
+  },
+  "identidade": {
+    "tipo": "Convênio ICMS",
+    "numero": 19,
+    "ano": 2026,
+    "data": "2026-01-27",
+    "epigrafe_normalizada": "CONVENIO ICMS NO 19, DE 27 DE JANEIRO DE 2026"
+  },
+  "historico_identificado": [],
+  "sha256_campo": "ca128fbc5e10204488716921d0c1baffe8a9e644788c376a6ffa71ec09dbf288",
+  "sha256_representacao": "ca128fbc5e10204488716921d0c1baffe8a9e644788c376a6ffa71ec09dbf288",
+  "sha256_visivel": "5949a68d824fc2b539a2ecfae7e9fb055b26d5ad47890f47e49f26faf11362c0",
+  "notas_publicacao_ratificacao_literais": [
+    "Publicado no DOU de 29.01.26, pelo despacho 04/26.",
+    "Ratificação Nacional no DOU de 19.02.26, pelo Ato Declaratório 04/26.",
+    ""
+  ],
+  "condicoes_efeitos_literais": [
+    "Ratificação Nacional no DOU de 19.02.26, pelo Ato Declaratório 04/26.",
+    "Cláusula quarta Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União, produzindo efeitos a partir de 1º de maio de 2026."
+  ],
+  "links": [
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/despacho/2026/dp004_26",
+      "texto": "04/26"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/atos-declaratorios/2026/ad004_26",
+      "texto": "04/26."
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV001_13",
+      "texto": "Convênio ICMS nº 1, de 6 de fevereiro de 2013"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV001_13",
+      "texto": "Convênio ICMS nº 1/13"
+    },
+    {
+      "url": "https://www.confaz.fazenda.gov.br/legislacao/convenios/2013/CV001_13",
+      "texto": "Convênio ICMS nº 1/13"
+    }
+  ],
+  "prova": {
+    "dom_textual_atributos_preservados": true,
+    "texto_visivel_integral": true,
+    "assinatura_numerica": true,
+    "matrizes_html5": true
+  },
+  "versao": "Texto e notas oficiais do portal CONFAZ conforme a captura; não se afirma vigência ou edição original imutável."
+}

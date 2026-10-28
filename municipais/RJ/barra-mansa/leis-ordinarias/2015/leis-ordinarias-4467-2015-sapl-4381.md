@@ -1,0 +1,1915 @@
+---
+titulo: "Lei Ordinária nº 4.467, de 21 de agosto de 2015"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4467"
+data: "2015-08-21"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/4381"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/1054/text"
+sha256_fonte: "6a46fc6b79b4a01bcb77aa034040521b6279e1dccc12166a319f823cf7b96753"
+sha256_texto: "09b4fe3e4b790ad8c2f7e77001ee5c727eed774bc80c8f92981c26525d6b7395"
+capturado_em_fonte: "2026-10-27T17:46:28.362509-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.467, de 21 de agosto de 2015
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI Nº4467, DE 21 DE AGOSTO DE 2015
+
+
+Institui o Estatuto dos Profissionais do Ensino Público do Município de Barra Mansa - RJ.
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Fica instituído o ESTATUTO DOS PROFISSIONAIS DO ENSINO PÚBLICO DO MUNICÍPIO DE BARRA MANSA - RJ na forma do art. 67 da Lei Federal nº9394, de 20 de dezembro de 1996, do art. 9º, da Lei Federal nº9424, de 24 de dezembro de 1996 e da Lei 11.494 de 20 de junho de 2007, bem como em conformidade com os Conselhos Federal e Municipal de Educação.
+
+
+Art. 2º.
+
+O regime jurídico dos profissionais enquadrados no Plano de Carreira e Remuneração do Magistério Público Municipal instituído nesta Lei é o Estatutário.
+
+
+§ 1º
+
+Para efeitos desta lei são Profissionais do Ensino Público Municipal, aqueles legalmente habilitados por concurso público, investidos em cargos públicos com provimento efetivo, criados por lei e remunerados pelos cofres públicos para exercer atividades de docência, suporte pedagógico e de assistência administrativa e técnica ao magistério.
+
+
+§ 2º
+
+O disposto nesta Lei não se aplica aos contratados por tempo determinado, para atender aos casos previstos no inciso IX do art. 37 da Constituição Federal.
+
+
+Art. 3º.
+
+A data base dos profissionais abrangidos por este Estatuto é dia 2 de abril de cada ano.
+
+
+Art. 4º.
+
+O ensino público municipal de Barra Mansa será ministrado com base nos seguintes princípios e diretrizes:
+
+
+I –
+
+Igualdade de condições para o acesso, permanência e apredizagem na escola, sob o princípio de equidade, sem qualquer forma de tratamento desigual por motivo de convicção filosófica, política ou religiosa e sem quiasquer preconceitos de classe, raça, sexo, orientação sexual, condição física ou intelectual;
+
+
+II –
+
+Liberdade de aprender, ensinar, pesquisar e divulgar o pensamento, a arte e o saber;
+
+
+III –
+
+Pluralismo de ideias e de concepções pedagógicas;
+
+
+IV –
+
+Gratuidade do ensino público municipal em estabelecimentos oficiais;
+
+
+V –
+
+Laicidade no ensino público municipal em estabelecimentos oficiais;
+
+
+VI –
+
+Valorização dos Profissionais do Magistério e Servidores da Educação Básica do Ensino Público Municipal;
+
+
+VII –
+
+Gestão democrática;
+
+
+VIII –
+
+Garantia de padrão de qualidade a todos os educandos;
+
+
+IX –
+
+Vinculação ao trabalho e às práticas sociais, em um perspectiva crítico participativa valorizando princípios éticos;
+
+
+X –
+
+Visão crítica sobre o contexto sócio histórico;
+
+
+XI –
+
+Compreensão do ambiente natural e social, do sistema político, da tecnologia das artes e dos valores em que se fundamenta a sociedade;
+
+
+XII –
+
+De construção de conhecimentos, pesquisa e intervenção cidadã com base em valores voltados à sustentabilidade da vida em sua múltiplas dimensões;
+
+
+XIII –
+
+Valorização dos trabalhos coletivos;
+
+
+XIV –
+
+Ampliação do período de permanência dos alunos na escola por meio da implantação de jornada complementar, garantindo atividades relacionadas ao desenvolvimento cultural, físico e vinculado ao currísuo escolar;
+
+
+XV –
+
+Atendimento ao educando com deficiência, com transtornos globais do desenvolvimento e de altas habilidades ou superdotação em classes comuns das escolas municipais;
+
+
+XVI –
+
+Atendimento especializado aos educandos com deficiências através de medidas individualizadas no próprio ambiente escolar ou em ambiente especializado, a fim de maximizar seu desenvolvimento de forma compatível com a meta de inclusão plena;
+
+
+XVII –
+
+Atendimento ao educando surdo em escola bilíngue, sendo a primeira língua LIBRAS - Língua Brasileira de Sinais e, a segunda, Língua Portuguesa na modalidade escrita; e
+
+
+XVIII –
+
+Atendimento de apoio ao estudante cego em unidade escolar capacitada para o ensino do braile, concomitante com o ensino da escola regular.
+
+
+Art. 5º.
+
+Atendendo mandamento constitucional, disposições da Lei de DIretrizes e Bases da Educação Nacional e disposições de sua Lei Orgânica, o Município de Barra Mansa, em seu território, cumpre a organização, a manutenção e o desenvolvimento do ensino público municipal e nele atuar no nível da Educação Básica prioritariamente, nas seguintes etapas e modalidades de ensino:
+
+
+I –
+
+Educação Infantil:
+
+
+a)
+
+Creche;
+
+
+b)
+
+Pré-escola;
+
+
+II –
+
+Ensino Fundamental: anos iniciais e anos finais do ensino regular; e
+
+
+III –
+
+Educação de Jovens e Adultos: anos iniciais e finais do ensino fundamental, podendo articular-se com a educação profissional.
+
+
+Parágrafo único
+
+A educação especial é uma modalidade que perpassa todas as estapas e modalidades de ensino, não constituindo sistema paralelo de educação
+
+
+#### CAPÍTULO II — DOS PRINCÍPIOS E DIRETRIZES DOS PROFISSIONAIS DA EDUCAÇÃO
+
+
+Art. 6º.
+
+O Poder Executivo de Barra Mansa promoverá a permanente valorização dos Profissionais do Ensino Público Municipal, assegurando-lhes nos termos desta Lei:
+
+
+I –
+
+Ingresso exclusivamente por concurso público de provas ou provas e titulos;
+
+
+II –
+
+Aperfeiçoamento profissional continuado;
+
+
+III –
+
+Remuneração definida de acordo com a complexidade e a responsabilidade das tarefas e compatível com a de outras ocupações que requeiram nível equivalente de formação;
+
+
+IV –
+
+Atendimento ao princípio constitucional da irredutibilidade de vencimentos, ressalvado o disposto no art.37, inciso XV da Constituição Federal;
+
+
+V –
+
+Desenvolvimento funcional baseado na titulação ou habilitação, na continuada aquisição de conhecimentos e no tempo de efetivo exercício, nos termos das legislações aplicáveis.
+
+
+VI –
+
+Período de 2/3(dois terços) da carga horária para interação com os alunos e a reserva de 1/3(um terço) da carga horária para estudos, planejamento e avaliação a critério do professor, na forma da lei nº11.738/08.
+
+
+VII –
+
+Liberdade de escolha de aplicação dos processos didáticos e das formas de aprendizagem, observadas as diretrizes do sistema municipal de ensino;
+
+
+VIII –
+
+Participação no processo de planejamento das atividades escolares;
+
+
+IX –
+
+Participação em reuniões, grupos de trabalho ou conselhos vinculados às unidades escolares ou ao sistema municipal de ensino;
+
+
+X –
+
+Condições adequadas de trabalho;
+
+
+XI –
+
+Experiência docente mpinimo de 2(dois) anos, como pré-requisito para o exercício profissional de quaisquer outras funções de magistério que não a de docência, adquirida em qualquer nível ou sistema de ensino;
+
+
+XII –
+
+Participação em associações de classe, cooperativas e sindicatos relacionados à sua área de atuação.
+
+
+XIII –
+
+Plena participação no processo de eleições de direção de unidades escolares.
+
+
+XIV –
+
+Extensão extraordinária da jornada de trabalho devidamente remuneradas e bonificadas.
+
+
+Art. 7º.
+
+Em obediência ao Inciso XIII, do Art. 6º, desta lei, a cada período de dois anos, sempre no mês de outubro, ocorrerão eleições de diretores geral e adjunto em cada Unidade Escolar, na forma da Lei Municipal nº4.133/2013.
+
+
+Parágrafo único
+
+Os profissionais abrangidos por esta lei, que possuírem duas matrículas na rede municipal de educação pública de Barra Mansa e/ou na situação de permutado, quando em exercícios do cargo de Direção Geral e/ou Direção Adjunto, fica vedado o cumprimento das duas matriculas na mesma unidade escolar ao qual foi nomeado.
+
+
+Art. 8º.
+
+Ficam mantidos e garantidos aos profissionais abrangidos por esta Lei, todos os direitos e vantagens estabelecidos por leis anteriores, inclusive as constantes dos Estatutos do Servidores Públicos de Barra Mansa.
+
+
+Art. 9º.
+
+Para os efeitos desta Lei são adotadas as seguintes definições:
+
+
+I –
+
+SERVIDOR PÚBLICO - pessoa física legalmente investida em cargo público de provimento efetivo ou de provimento em comissão;
+
+
+II –
+
+CARGO PÚBLICO - conjunto de atribuições, deveres e responsabilidades cometido ao servidor público, criado por lei com denominação própria, em número certo e com vencimento específico, pago pelos cofres públicos;
+
+
+III –
+
+CARREIRA DO MAGISTÉRIO PÚBLICO - desenvolvimento funcional e remuneratório dos profissionais do magistério em função da obtenção de nova habilitação ou titulação e por tempo de efetivo exercício;
+
+
+IV –
+
+CARREIRA DE ASSISTÊNCIA AO MAGISTÉRIO PÚBLICO - desenvolvimento funcional e remuneratório dos profissionais da educação em função da obtenção de nova habilitação ou titulação e por tempo de efetivo exercício;
+
+
+V –
+
+INTERSTÍCIO - lapso de tempo estabelecido como o mínimo necessário para que o profissional da educação e o de Assistência ao Magistério se habilite à progressão funcional, dentro da carreira;
+
+
+VI –
+
+PARÃO DE VENCIMENTO - símbolo que identifica o vencimento atribuído ao profissional dentro da faixa de vencimentos do cargo que ocupa;
+
+
+VII –
+
+FAIXA DE VENCIMENTOS - escala de padrões de vencimentos atribuídos a um determinado cargo;
+
+
+VIII –
+
+FUNÇÕES DE MAGISTÉRIO - atividades de docência e de suporte pedagógico incluindo o planejamento, orientação, coordenação, administração, avaliação, supervisão e inspeção do processo pedagógico, bem como a participação da elaboação de projetos educacionais e das propostas pedagógicas do Sistema Municipal de Ensino e aquelas estabelecidas na forma do §2º art.67 da LDB.
+
+
+IX –
+
+PROGRESSÃO FUNCIONAL - é a passagem do Profissional do Ensino Público Municipal de seu padrão de vencimento para outro imediatamente superior, dentro da faixa de vencimento do cargo que ouça, por formação e por tempo de efetivo exercício (vertical), sendo formação, habilitação ou titulação nos cursos (horizontal) definidos nesta lei, e tempo de serviço, pelo transcurso de tempo efetivamente, na forma da lei, trabalhados.
+
+
+X –
+
+FUNÇÃO GRATIFICADA OU FUNÇÃO DE CONFIANÇA - vantagem pecuniária, de caráter transitório, criada para remunerar cargos em nível de direção, chefia e assessoramento, exercida exclusivamente por servidores ocupantes de cargo público efetivo na Prefeitura Municipal.
+
+
+XI –
+
+CARGO EM COMISSÃO - cargo de confiança de direção, chefia e assessoramente, de livre nomeação e exoneração, a ser preenchido por profissional efetivo, nos casos, condições e percentuais mínimos, previstos em lei.
+
+
+XII –
+
+PROFISSIONAIS DA EDUCAÇÃO - profissional dos quadros permanente do Magistério, do quadro Permanente de Assistência Técnica e Administrativa ao Magistéio e do quadro Suplementar.
+
+
+XIII –
+
+RECESSO ESCOLAR - é o período de quinze dias consecutivos, no mês de julho de cada ano, assegurado exclusivamente aos profissionais lotados nas Unidades Escolares.
+
+
+XIV –
+
+HORA AULA - período de tempo igual a 50 (cinquenta) minutos.
+
+
+XV –
+
+LOTAÇÃO - É o espaço físico dentro dos órgãos e unidades das SME, onde o profissional da educação exerce suas atividades fins.
+
+
+XVI –
+
+DISPONIBILIDADE - É a situação funcional na qual o servidor efetivo é alocado quando ocorre a extinção de seus cargo.
+
+
+XVII –
+
+REMOÇÃO - É a movimentação do ocupante de cargo dos quadros dos profissionais da educação de uma para outra unidade de ensino ou unidade organizacional da SME, sem que se modifique sua situação funcional quando observando concurso interno de remoção.
+
+
+XVIII –
+
+DA PERDA DE LOTAÇÃO - é a inexistência de vaga correspondente ao cargo titularizado pelo profissional da educação na Unidade Escolar.
+
+
+XIX –
+
+LICENÇA PRÊMIO - é o período de noventa dias em que o profissional da Educação faz jus em permanecer afastado de suas funções, remunerado a cada cinco anos de trabalho efetivo.
+
+
+XX –
+
+FÉRIAS ESCOLARES - é o período de trinta (trinta) dias em que o profissional da Educação faz jus em permanecer afastado de sua funções, remunerado, no mês de janeiro, percebendo o percentual de 1/3(um terço) a ser recebido no mês de dezembro.
+
+
+XXI –
+
+TEMPO DISPONÍVEL - Período definido em horas aulas reservado ao professor em 1/3 um terço da carga horária, fora da interação com alunos. Ficando a critério do professor.
+
+
+XXII –
+
+PARIDADE - Revisão dos proventos de aposentadoria na mesma proporção e na mesma data sempre que se modificar a remuneração dos profissionais em atividade, extensão de quaisquer benefícios ou vantagens posteriormente concedidas ao profissional em exercício, inclusive quando decorrente da transformação ou reclassificação do cargo ou função em que se deu a aposentadoria ou que serviu de referência para concessão da pensão.
+
+
+XXIII –
+
+PERMUTA - É a troca de Unidade Escolar ou entre os demais órgãos da Secretaria Municipal de Educação, permitida também entre outras redes Municipais de educação promovida entre dois servidores ocupantes de mesmo cargo e função, de livre vontade dos servidores, e sem custas para a municipalidade, podendo ser desfeita a qualquer momento por vontade de uma das partes.
+
+
+XXIV –
+
+DIFÍCIL ACESSO - São os locais se trabalho com obstáculos temporários e/ou permanentes os quais impeçam ou dificultam o acesso do profissional da educação para cumprir seu horário de trabalho.
+
+
+XXV –
+
+EXTENSÃO TEMPORÁRIA - São todas as horas efetivamente trabalhadas além da carga horária semanal contratada pelo Edital do concurso de acesso aos quadros da municipalidade, as quais serão obrigatoriamente bonificadas, no mínimo, em 50%(cinquenta por cento), devendo ser apuradas utilizando-se a seguinte fórmula:
+
+V/H/A/E= \_\_\_\_\_\_\_RM\_\_\_\_\_\_\_\_\_+50%
+
+5,25 x Qt/H/A/S
+
+Onde:
+
+-V/H/A/E=Valor hora aula extra;
+
+-RM = Remuneração mensal;
+
+-5,25=4,5 semanas/mês acrescido de 1/6 de descanso remunerado;
+
+-Qt/H/A/S=Quantidade de horas aula semanal;
+
+-50%=Bonificação constitucional
+
+
+XXVI –
+
+HORA AULA - período de tempo igual a 50(cinquenta) minutos.
+
+
+#### CAPÍTULO III — DO PROVIMENTO DOS CARGOS
+
+
+Art. 10.
+
+Os cargos de natureza efetiva, constantes do Plano de Carreiras e Remunerações dos Profissionais do Ensino Público Municipal, serão providos:
+
+
+I –
+
+Por nomeação, precedida de concurso público de provas ou provas e títulos;
+
+
+II –
+
+Pelas demais formas previstas nesta Lei e no Estatuto dos Servidores Públicos Municipais de Barra Mansa, inclusive por reaproveitamento.
+
+
+§ 1º
+
+Sempre que se atingir percentual de 8% de vacância dos cargos pertencentes aos Quadros dos Profissionais do Ensino Público Municipal, será obrigatória a convocação de Concurso Público.
+
+
+§ 2º
+
+Sempre que houver concurso, será aberta oportunidade para os servidores requererem remoção, devendo as vagas remanescentes serem preenchidas pelos aprovados em concurso e convocados.
+
+
+Art. 11.
+
+Para provimento dos cargos efetivos serão rigorosamente observados os requisitos básicos e os específicos indicados no Plano de Carreiras e Remunerações dos Profissionais do Ensino Público Municipal, sob pena de ser ato de nomeação considerado nulo, além de acarretar responsabilidade a quem lhe der causa.
+
+
+§ 1º
+
+A comprovação da titulação ou habilitação exigida para o exercício do cargo é condição para nomeação do (a) profissional do magistério.
+
+
+§ 2º
+
+Nenhum profissional efetivo poderá desempenhar atribuições que não sejam próprias de seu cargo, ficando expressamente vedado qualquer tipo de desvio de função responsabilizando-se se for o caso a autoridade que der causa ao desvio;
+
+
+§ 3º
+
+Excetuam-se do disposto no §2º e no caput deste artigo, os casos de readaptação previstos nesta Lei e no Estatuto dos Servidores Públicos Municipais de Barra Mansa.
+
+
+Art. 12.
+
+Os cargos do Quadro dos Profissionais do Ensino Público Municipal que vierem a vagar, bem como os que forem criados, só poderão ser providos na forma prevista neste Capítulo e no Estatuto dos Servidores Públicos Municipais de Barra Mansa.
+
+
+#### CAPÍTULO IV — DA HABILITAÇÃO DOS DOCENTES
+
+
+Art. 13.
+
+A formação de docentes para atuar na educação básica será feita em nível superior, em curso de licenciatura, de graduação plena ou em curso de graduação com complementação pedagógica, obtidos em universidades e instituições superiores de educação, admitida como formação mínima para o exercício do magistério na educação infantil, educação especial e nos cinco primeiros anos do ensino fundamental, a oferecida em nível médio, na modalidade normal;
+
+
+Parágrafo único
+
+A educação básica consiste na educação infantil, educação especial, no ensino fundamental e no ensino médio, nos termos do art. 21 da Lei Diretrizes e Bases da Educação Nacional;
+
+
+Art. 14.
+
+A formação dos ocupantes do cargo de Professor IV será a obtida em curso de graduação em Pedagogia ou em nível de pós-graduação.
+
+
+#### CAPÍTULO V — DA ESTABILIDADE E DO ESTÁGIO PROBATÓRIO
+
+
+Art. 15.
+
+São estáveis após três anos de efetivo exercício os servidores nomeados para o cargo de provimento efetivo em virtude de concurso público.
+
+
+Parágrafo único
+
+O servidor público só perderá o cargo:
+
+
+I –
+
+Em virtude de sentença judicial transitada em julgado;
+
+
+II –
+
+Mediante processo administrativo em que lhe seja assegurada ampla defesa;
+
+
+III –
+
+Mediante procedimento de avaliação periódica de desempenho, com critérios objetivos na forma de lei, assegurada ampla defesa em todas etapas da avaliação.
+
+
+Art. 16.
+
+Ao entrar em exercício, o servidor nomeado para cargo de provimento efetivo, ficará sujeito ao estágio probatório pelo período de 3(três) anos, durante o qual sua aptidão e capacidade serão objeto de avaliação para desempenho do cargo, observados os seguintes fatores:
+
+
+I –
+
+Pontualidade - Cumprimento do horário estabelecido para o desenvolvimento das atividades.
+
+
+II –
+
+Assiduidade - Se comparece regularmente ao trabalho, ou seja, se não tem muitas faltas.
+
+
+III –
+
+Disciplina - Se o servidor preocupa-se em agir de acordo com as normas da organização.
+
+
+IV –
+
+Produtividade e qualidade - Se o servidor realiza o que lhe é esperado, no prazo, em volume e com qualidade.
+
+
+V –
+
+Relacionamento interpessoal - Com os colegas de trabalho e com o público a que atende.
+
+
+VI –
+
+Ética pública - agir conforme as normas da instituição.
+
+
+VII –
+
+Cuidados com materiais, equipamentos e ambiente - utiliza adequadamente os equipamentos e ambiente de trabalho.
+
+
+VIII –
+
+Ter plena capacidade física e mental para o exercício do cargo - para que o servidor possa exercer plenamente as atividades que lhe forem atribuídas, sem o comprometimento de sua saúde.
+
+
+IX –
+
+Capacidade de Iniciativa - propõe novas alternativas e soluciona problemas que surgem.
+
+
+Parágrafo único
+
+Quatro meses antes do fim do período o estágio probatório, será submetida à homologação da autoridade competente a Avaliação do Desempenho do(a) servidor(a), realizada de acordo com o disposto em lei ou regulamento, sem prejuízo da continuidade de apuração dos fatores enumerados nos incisos I a IX deste artigo.
+
+
+Art. 17.
+
+Cabe à Secretaria Municipal de Administração e Modernização do Serviço Público de Barra Mansa, garantir os meios necessários para acompanhamento e avaliação especial de desempenho, que trate de maneira isonômica todos (as) aqueles (as) que se encontrarem em estágio probatório.
+
+
+Parágrafo único
+
+Caberá também à Secretaria Municipal de Administração e Modernização do Serviço Público de Barra Mansa conceber e implantar uma única forma de avaliação especial de desempenho, que trate de maneira isonômica todos (as) aqueles (as) que se encontrarem em estágio probatório.
+
+
+Art. 18.
+
+É garantido ao servidor em estágio probatório gozar dos direitos legais de greve, paralisação ou quaisquer manifestações e/ou atos políticos.
+
+
+Art. 19.
+
+O estágio probatório do servidor ficará suspenso nas seguintes hipóteses:
+
+
+I –
+
+Nos afastamentos para ocupar cargo público em comissão (de confiança), enquanto este perdurar;
+
+
+II –
+
+Licença para tratamento de saúde e por motivo de doença em pessoa da família;
+
+
+III –
+
+Para acompanhar cônjuge ou companheiro, que também sejam servidores públicos ou militares, nos termos estabelecidos na legislação em vigor.
+
+
+IV –
+
+Licença à gestante;
+
+
+V –
+
+Licença para fins de adoção;
+
+
+VI –
+
+Candidatura a cargo eletivo, na forma prevista em lei;
+
+
+Parágrafo único
+
+O estágio probatório será retomado a partir do término das licenças e afastamentos tratados neste artigo.
+
+
+Art. 20.
+
+A avaliação do estágio probatório se dá no efetivo exercício do cargo e alguns afastamentos são considerados como de efetivo exercício, os dias em que o servidor afastar-se do trabalho, nas seguintes hipóteses:
+
+
+I –
+
+Licença para frequentar cursos, lançada em ficha funcional formal a época de sua fruição;
+
+
+II –
+
+Exercício de mandato eletivo que importe em afastamento das funções do cargo;
+
+
+III –
+
+Prestação de serviços considerados obrigatórios por lei;
+
+
+#### CAPÍTULO VI — DA QUALIFICAÇÃO PROFISSIONAL
+
+
+Art. 21.
+
+Fica instituída como atividade permanente da Secretaria Municipal de Educação, a qualificação profissional dos servidores efetivos do Quadro dos Profissionais do Ensino Público de Barra Mansa.
+
+
+Parágrafo único
+
+A qualificação profissional, para os efeitos desta Lei objetiva a formação continuada do profissional do ensino público municipal efetivo e seu desenvolvimento na carreira, de acordo com suas necessidades e disponibilidade em horário de trabalho ou remuneração de horas/aula extras deste período.
+
+
+Art. 22.
+
+São objetivos da qualificação profissional:
+
+
+I –
+
+Estimular o desenvolvimento funcional, criando condições próprias para o aperfeiçoamento constante de seus profissionais e a melhoria do Sistema Municipal de Ensino;
+
+
+II –
+
+Possibilitar o aproveitamento da formação e das experiências anteriores em instituições de ensino e em outras atividades;
+
+
+III –
+
+Propiciar a associação entre teoria e prática;
+
+
+IV –
+
+Criar condições propícias à efetiva qualificação pedagógica de seus profissionais através de cursos, seminários, conferências, oficinas de trabalho, implementação de projetos e outros instrumentos, para possibilitar a definição de novos programas métodos e estratégias de ensino adequadas às transformações educacionais;
+
+
+V –
+
+Integrar os objetivos de cada profissional da educação às finalidades do Sistema Municipal de Ensino;
+
+
+VI –
+
+Criar e desenvolver hábitos e valores adequados ao digno exercício das atribuições do Quadro dos profissionais da educação;
+
+
+VII –
+
+Possibilitar a melhoria do desempenho do profissional no exercício de atribuições específicas.
+
+
+VIII –
+
+Promover a valorização contínua do profissional da Educação.
+
+
+Art. 23.
+
+A qualificação profissional poderá ser implementada através de programas específicos que habilitarão o servidor para seu desenvolvimento funcional nas carreiras que compõem o Quadro dos profissionais do ensino público municipal e abrangerá as seguintes ações:
+
+
+I –
+
+Complementação pedagógica, através de cursos de graduação, reconhecidos pelo Ministério da Educação, em áreas estritamente ligadas à Educação, e em áreas afins da Regência;
+
+
+II –
+
+Complementação pedagógica, através de cursos de pós-graduação, reconhecidos pelo Ministério da Educação, em áreas estritamente ligadas à Educação, e em áreas afins da Regência;
+
+
+III –
+
+Aprimoramento profissional através de cursos de mestrado ou doutorado, reconhecidos pelo Ministério da Educação, em áreas ligadas à Educação, e em áreas afins da Regência;
+
+
+IV –
+
+Atualização permanente dos profissionais, através de cursos de aperfeiçoamento e formação continuada.
+
+
+V –
+
+Adicional de Qualificação obtido através de cursos de capacitação desde que ministrados por órgãos e/ou estabelecimentos legalmente reconhecidos pelo Ministério da Educação e/ou pelas Secretarias Estadual e/ou Municipal de Educação.
+
+
+§ 1º
+
+Os cursos de pós-graduação e especialização referidos ao inciso II deste artigo deverão ter a duração mínima de 360(trezentos e sessenta) horas.
+
+
+§ 2º
+
+Os cursos de aperfeiçoamento e formação continuada, referidos no inciso IV deste artigo, deverão ter a duração mínima de 04(quatro) horas.
+
+
+§ 3º
+
+Os cursos de graduação, pós-graduação, mestrado ou doutorado serão incentivados, e que sua realização se dê em universidades ou instituições reconhecidas oficialmente e preferencialmente através de convênios com universidades públicas.
+
+
+§ 4º
+
+O Adicional de qualificação constituir-se-á de percentual que incidirá sobre o padrão de nível e classe em que se encontra enquadrado o profissional, a partir da data de sua percepção, atendendo aos critérios citados na tabela de somatório das cargas horárias descritas no Plano de Carreiras e Remunerações dos Profissionais do Ensino Público Municipal.
+
+
+Art. 24.
+
+Compete à Secretaria Municipal de Educação:
+
+
+I –
+
+Identificar as áreas e os profissionais carentes de qualificação profissional e estabelecer ações prioritárias;
+
+
+II –
+
+Elaborar anualmente com, no mínimo, 3(três) meses de antecedência em relação à elaboração da lei do orçamento anual do Município, o Programa Anual de Qualificação Profissional para o Quadro dos profissionais da educação Pública de Barra Mansa;
+
+
+III –
+
+Adotar as medidas necessárias para que fiquem asseguradas iguais oportunidades de qualificação a todos os Profissionais do Ensino Público Municipal;
+
+
+IV –
+
+Planejar a participação do Profissional do Ensino Público Municipal no Programa e adotar as medidas necessárias para que os afastamentos que ocorram não causem prejuízo às atividades educacionais e nem aos profissionais;
+
+
+V –
+
+Estabelecer a data de realização dos programas de qualificação contínua dentro do calendário letivo, excetuando as férias e os recessos escolares.
+
+
+VI –
+
+Orientar a elaboração do calendário escolar.
+
+
+Art. 25.
+
+Os cursos de aperfeiçoamento e capacitação profissional que integrarem o Programa Anual de Qualificação Profissional objetivarão a permanente atualização do profissional, habilitando-o para seu desenvolvimento na carreira.
+
+
+Parágrafo único
+
+Os cursos de aperfeiçoamento e de formação continuada serão conduzidos, sempre que possível, diretamente pela Secretaria Municipal de Educação, de acordo com o diagnóstico ofertado pelos profissionais da Educação.
+
+
+I –
+
+Através de contratação de especialistas ou instituições especializadas, preferencialmente através de convênios com instituições públicas, observada a legislação pertinente;
+
+
+II –
+
+Mediante encaminhamento do profissional a organizações especializadas, preferencialmente através de convênios com instituições públicas, sediadas ou não no Município;
+
+
+III –
+
+Através da realização de programas de diferentes formatos utilizados, inclusive, os recursos da educação à distância.
+
+
+IV –
+
+Utilização das unidades escolares.
+
+
+V –
+
+Critérios de seleção.
+
+
+Art. 26.
+
+Independentemente dos programas de aperfeiçoamento, a Secretaria Municipal de Educação deverá realizar reuniões para estudo e discussão de assuntos pedagógicos, análise e divulgação de leis, normas legais e aspectos técnicos referentes à educação e à orientação educacional, propiciando seu cumprimento e execução, sem prejuízo da carga horária do profissional da educação.
+
+
+Parágrafo único
+
+Os diretores das unidades educacionais que integram a Rede Municipal de Ensino do Município de Barra Mansa deverão participar das reuniões e encontros mencionados no caput deste artigo e atuar como agentes multiplicadores das informações e da divulgação dos assuntos pedagógicos, normativos, técnicos e legais, no âmbito de sua atuação.
+
+
+#### CAPÍTULO VII — DA LOTAÇÃO
+
+
+Art. 27.
+
+A lotação das unidades escolares e dos demais órgãos que compõem a Secretaria Municipal de Educação será estabelecida da seguinte forma:
+
+
+I –
+
+Nas Unidades Escolares, pela escolha do profissional, obedecendo a ordem de classificação em concurso público;
+
+
+II –
+
+Nos demais órgãos que compõem a Secretaria Municipal de Educação, a lotação deverá obedecer os critérios estabelecidos pela Secretaria Municipal de Educação, exceto quando observado a realização de concurso para cargos pertinentes ao órgão central, observando neste caso a classificação em concurso público;
+
+
+III –
+
+Caberá aos Diretores Escolares e aos Professores IV, de acordo com a disponibilidade fornecida pelo docente, organizar e compatibilizar horários das classes e turnos de funcionamento
+
+
+Art. 28.
+
+A lotação representa a força de trabalho, em seus aspectos quantitativos, necessária para funcionamento dos diversos órgãos e unidades responsáveis pelo desempenho das atividades do Ensino Público Municipal de Barra Mansa.
+
+
+§ 1º
+
+Caberá ao titular da Secretaria Municipal de educação baixar portarias para estabelecer normas sobre a lotação dos profissionais do ensino público municipal.
+
+
+§ 2º
+
+Nenhum ato que defina o local de exercício do profissional terá o efeito de vinculação permanente deste servidor com o órgão ou unidade em que for lotado.
+
+
+§ 3º
+
+Expedido o ato que fixa a lotação do servidor, este manterá a mesma, salvo nos casos de:
+
+
+I –
+
+necessidade da Administração Pública Municipal, devidamente justificada pelo titular da Secretaria Municipal de Educação, nos casos de redução de turmas e/ou acréscimo de turmas e extinção de unidades escolares;
+
+
+II –
+
+readaptação de função;
+
+
+III –
+
+licenças sem vencimentos;
+
+
+IV –
+
+cessão para outros órgãos da Administração Pública, devidamente autorizada mediante processo administrativo;
+
+
+V –
+
+remoção voluntária, devidamente autorizada mediante processo administrativo.
+
+
+§ 4º
+
+O local de residência do profissional deverá, sempre que possível, ser considerado para a definição de sua lotação.
+
+
+Art. 29.
+
+Instrumento próprio, de iniciativa do chefe do executivo regulamentará o adequado dimensionamento da força de trabalho nas unidades escolares da rede municipal de ensino.
+
+
+Art. 30.
+
+É vedado a designação de profissional efetivo do Quadro dos profissionais da educação Pública Municipal para o exercício de funções alheias à área educacional, responsabilizando-se a autoridade que de causa.
+
+
+#### CAPÍTULO VIII — DA REMOÇÃO
+
+
+Art. 31.
+
+Remoção é a movimentação do ocupante de cargo dos Quadros dos Profissionais do Ensino Públicos Municipal, de uma para outra unidade de ensino ou unidade organizacional da Secretaria Municipal de Educação de Barra Mansa, sem que se modifique sua situação funcional.
+
+
+Art. 32.
+
+Dar-se-á a remoção:
+
+
+I –
+
+por permuta entre profissionais.
+
+
+II –
+
+por readaptação, observando neste caso normativa específica do Programa de Readaptação;
+
+
+III –
+
+por processo de remoção voluntária, através de concurso de remoção a ser regulamentado pelo Chefe do Executivo e convocado pelo Secretaria Municipal de Administração e Modernização do Serviço Público de Barra Mansa no prazo de 180(cento e oitenta) dias a partir da data de vigência desta Lei;
+
+
+§ 1º
+
+As remoções por permuta entre profissionais somente poderão ocorrer no período compreendido entre 30(trinta) dias antes do término de um ano letivo e o início do outro.
+
+
+§ 2º
+
+A remoção por permuta entre profissionais far-se-á através de requerimento de ambos os interessados não sendo possível, todavia, permutar profissionais que não estejam no efetivo exercício de seu cargo.
+
+
+#### CAPÍTULO IX — DA SUBSTITUIÇÃO
+
+
+Art. 33.
+
+A substituição de profissionais efetivos dos Quadros de Profissionais da Educação Pública de Barra Mansa, durante seus impedimentos legais e temporários, será exercida, preferencialmente, por profissionais do referido quadro com a devida habilitação requerida para o cargo para o qual foi concursado.
+
+
+§ 1º
+
+A substituição mencionada no caput deste artigo será remunerada com pagamento de horas adicionais ao profissional substituto, caracterizada pela nomenclatura "Extensão Temporária de Jornada", desde que implique em aumento de sua jornada normal de trabalho, sendo remunerado de acordo com a fórmula apresentada no art.9º - XXV da presente lei.
+
+
+§ 2º
+
+A jornada total de trabalho do profissional substituto não poderá exceder a 40(quarenta) horas ou aulas semanais.
+
+
+§ 3º
+
+A Secretaria Municipal de Educação manterá cadastro atualizado dos Profissionais do Ensino Público Municipal com disponibilidade para exercer a substituição e implantará os procedimentos necessários para que não faltem professores em sala de aula.
+
+
+§ 4º
+
+A Direção da Unidade Escolar onde ocorrer substituição, atestará o número de horas adicionais trabalhadas pelo profissional substituto.
+
+
+§ 5º
+
+Os efeitos financeiros decorrentes da substituição deverão ser autorizados pelo titular da Secretaria Municipal de Educação.
+
+
+Art. 34.
+
+Havendo excepcional interesse público e, na inexistência de profissional do Quadro pessoal dos Profissionais da Educação Pública Municipal capazes de atender à necessidade temporária de substituição de profissional efetivo, a Prefeitura Municipal de Barra Mansa poderá contratar pessoal por tempo determinado, por período não superior a 1(um) ano e na forma de lei municipal específica, de acordo com o art.37, inciso IX da Constituição Federal, contratando principalmente candidatos aprovados em certame público que estão aguardando nomeação, respeitada a ordem de classificação.
+
+
+§ 1º
+
+As substituições de que trata o caput deste artigo não poderão ultrapassar o ano letivo para o qual foi elaborada a escala de classificação e serão sempre por período determinado.
+
+
+§ 2º
+
+Os profissionais contratados por tempo determinado não terão os direitos e vantagens concedidos aos profissionais efetivos.
+
+
+Art. 35.
+
+A substituição remunerada ocorrerá também nos impedimentos legais e temporários, definidos nesta Lei e no Estatuto dos Servidores Públicos Municipais de Barra Mansa, e nos afastamentos superiores a 30(trinta) dias dos profissionais que se encontrem nas seguintes situações:
+
+
+I –
+
+Investidos em funções de Direção de Unidades Escolares;
+
+
+II –
+
+Ocupantes de funções gratificadas ou cargos em comissão da estrutura organizacional da Secretaria Municipal de Educação.
+
+
+#### CAPÍTULO X — DA READAPTAÇÃO
+
+
+Art. 36.
+
+Os profissionais do ensino público municipal que tenham sofrido limitação em sua capacidade física e/ou mental será readaptado, após avaliação pelos órgãos competentes da Administração Municipal, respeitado em todos os casos, sua carga horária, remuneração, direitos e vantagens.
+
+
+§ 1º
+
+Entende-se por readaptação de função, para fins desta legislação, a atribuição de atividades compatíveis com a capacidade física ou psíquica do servidor, que dependerá sempre de exame médico pericial.
+
+
+§ 2º
+
+Ao profissional do ensino público municipal readaptado serão atribuídas, de preferência, funções administrativas ou operacionais, que guardem afinidade com o seu cargo.
+
+
+§ 3º
+
+É vedada a readaptação de profissional do ensino público municipal em função privativa de cargo que exija habilitação diversa ao do cargo de origem, ainda que este a possua.
+
+
+§ 4º
+
+Caso não haja uma função na qual o servidor possa ser readaptado, compatível com suas limitações, a junta médica pericial deverá sugerir sua aposentadoria por invalidez.
+
+
+§ 5º
+
+Fica autorizada a Secretaria Municipal de educação a redefinir a lotação do profissional do ensino público municipal readaptado, quando identificado a inexistência de carência/vaga na respectiva Unidade Escolar de lotação original, que possibilite o desempenho das novas atribuições compatíveis com a sua limitação.
+
+
+§ 6º
+
+Lei, de iniciativa do Executivo Municipal, criará e regulamentará o Programa Municipal para Readaptação de Função por redução da Capacidade Laboral dos Profissionais do Ensino Público Municipal.
+
+
+#### CAPÍTULO XI — DOS DEVERES
+
+
+Art. 37.
+
+É dever dos profissionais do ensino público municipal de Barra Mansa, exercer a profissão, tendo em vista os princípios da liberdade e os ideais de solidariedade humana inspiradores da educação, em especial no que se refere à formação necessária ao pleno desenvolvimento do educando, seu preparo para o exercício da cidadania e sua qualificação para o trabalho.
+
+
+Art. 38.
+
+No desempenho das atividades educativas que lhe são próprias, os profissionais da educação pública de Barra Mansa, corresponsáveis na consecução do objetivo, ora enunciado, deverão agir de modo a concorrer para:
+
+
+I –
+
+Preservação do sentimento de nacionalidade;
+
+
+II –
+
+A compreensão do ambiente natural e social, do sistema político, da tecnologia, das artes e dos valores em que se fundamenta a sociedade;
+
+
+III –
+
+A aquisição de conhecimentos e habilidades e a formação de atitudes e valores;
+
+
+IV –
+
+Fortalecimento dos vínculos da família, dos laços de solidariedade humana e da tolerância recíproca em que se assenta a vida pessoal;
+
+
+V –
+
+Zelo, dedicação e lealdade para com a escola e comunidade escolar.
+
+
+VI –
+
+Elaborar e executar integralmente os programas, planos e atividades da escola no que for de sua competência;
+
+
+VII –
+
+Cumprir e fazer cumprir os horário e calendários escolares;
+
+
+VIII –
+
+Manter e fazer com que seja mantida a disciplina em sala de aula e fora dela;
+
+
+IX –
+
+Comparecer às reuniões para as quais for convocado;
+
+
+X –
+
+Participar das atividades escolares;
+
+
+XI –
+
+Zelar pelo bom nome da escola;
+
+
+XII –
+
+Preservar o bom andamento das atividades acadêmicas, encaminhando, no prazo fixado, os diários de classe e o programa de disciplina atualizado à diretoria da escola;
+
+
+XIII –
+
+Dar publicidade as notas das avaliações realizadas durante o curso ou disciplina;
+
+
+XIV –
+
+Participar, quando convocado, de:
+
+
+a)
+
+Banca examinadora de concurso;
+
+
+b)
+
+Comissão de avaliação discente e docente;
+
+
+c)
+
+Comissão disciplinar;
+
+
+XV –
+
+Respeitar alunos, colegas, autoridades do ensino e funcionários administrativos, de forma compatível com a missão de educador.
+
+
+#### CAPÍTULO XII — DAS PROIBIÇÕES
+
+
+Art. 39.
+
+É extremamente vedado aos profissionais do ensino público municipal de Barra Mansa, sob pena de punição:
+
+
+I –
+
+A ação ou omissão que traga prejuízo físico, moral ou intelectual ao aluno;
+
+
+II –
+
+Prestar declarações falsas sobre atividades da escola à imprensa ou veiculá-la através de outros meios de comunicações e/ou mídia social;
+
+
+III –
+
+Retirar sem ordem escrita da autoridade competente, material bibliográfico, didático, equipamentos, objetos ou quaisquer outros bens pertencente ao acervo da escola;
+
+
+IV –
+
+Portar ou guardar arma nas dependência da escola sem estar devidamente autorizado;
+
+
+V –
+
+Praticar discriminação por motivo de raça, condição social, nível intelectual, sexo, opção sexual, credo ou convicção política;
+
+
+VI –
+
+Retirar, modificar ou substituir documentos visando alterar a verdade dos fatos ou criar direitos ou obrigações;
+
+
+VII –
+
+Produzir, portar, guardar, usar ou comercializar bebidas alcoólicas, salvo para o uso em atividades de ensino, pesquisa e extensão com autorização do órgão competente;
+
+
+VIII –
+
+Produzir, portar, guardar, usar ou comercializar substâncias ilícitas que ocasionam dependência física ou psíquica, salvo para o uso em atividades de ensino, pesquisas e extensão com autorização da autoridade competente;
+
+
+IX –
+
+Praticar, dentro dos limites da escola, toda e qualquer manifestação que configure agressão física, psicológica, assédio moral ou outra forma de constrangimento ou coação, que cause danos a quem quer que seja.
+
+
+X –
+
+É vedado as direções de unidades escolares colocar os servidores lotados em suas unidades em disponibilidade sem o devido processo legal.
+
+
+#### CAPÍTULO XIII — DAS INFRAÇÕES E DAS PENALIDADES
+
+
+Art. 40.
+
+Constitui infração toda ação ou omissão dos profissionais da educação pública de Barra Mansa que possa comprometer a dignidade e o decoro da função pública, ferir a disciplina e a hierarquia ou causar prejuízo de qualquer natureza à Administração Pública.
+
+
+Parágrafo único
+
+A infração disciplinar é punida conforme os antecedentes do infrator, bem como os motivos, as circunstâncias e as consequências do ilícito.
+
+
+Art. 41.
+
+São penas disciplinares:
+
+
+I –
+
+Advertência;
+
+
+II –
+
+Repreensão;
+
+
+III –
+
+Suspensão;
+
+
+IV –
+
+Demissão;
+
+
+V –
+
+Cassação de aposentadoria ou disponibilidade;
+
+
+VI –
+
+Destituição de cargo ou função de confiança.
+
+
+Art. 42.
+
+São infrações puníveis com advertência quando:
+
+
+I –
+
+Deixar de atender convocação da direção e/ou de outros órgãos da escola para atividades pedagógicas;
+
+
+II –
+
+Desrespeitar verbalmente ou por atos, pessoas do seu relacionamento profissional;
+
+
+III –
+
+Apresentar-se continuamente sob efeito de substâncias lícitas ou ilícitas no recinto escolar de maneira a comprometer o exercício profissional.
+
+
+Parágrafo único
+
+A reincidência contumaz às infrações de que trata o "caput" deste artigo, importará na aplicação da pena de repreensão, que será escrita e inserta nos assentamentos funcionais.
+
+
+Art. 43.
+
+São infrações puníveis com pena de suspensão:
+
+
+I –
+
+Deixar de atender prontamente;
+
+
+a)
+
+Às requisições para defesa da Fazenda Pública Municipal;
+
+
+b)
+
+Aos pedidos de certidões para defesa de direitos;
+
+
+c)
+
+À convocação pelo Poder Judiciário;
+
+
+I –
+
+Retirar, sem autorização superior, qualquer documento ou objeto da repartição;
+
+
+II –
+
+Deixar de concluir no prazo legal, sem justo motivo, sindicância ou processo disciplinar;
+
+
+III –
+
+Dar causa a instauração de sindicância ou processo disciplinar, imputando a qualquer servidor infração de que o saiba inocente;
+
+
+IV –
+
+Deixar de cumprir ou de fazer cumprir as normas legais;
+
+
+V –
+
+Faltar com a verdade como testemunha ou perito em processo disciplinar.
+
+
+Parágrafo único
+
+A pena máxima de suspensão não excederá a 30(trinta) dias.
+
+
+Art. 44.
+
+São infrações puníveis com pena de demissão:
+
+
+I –
+
+Pleitear, como procurador ou intermediário, junto às repartições públicas, salvo quando se tratar de percepção de vencimentos e vantagens de cônjuge e parentes até 2ºgrau;
+
+
+II –
+
+Inassiduidade;
+
+
+III –
+
+Incontinência pública escandalosa ou em serviço e prática de usura;
+
+
+IV –
+
+acumular ou permitir acumulação ilegal de cargos ou empregos públicos;
+
+
+V –
+
+praticar ofensa física em serviço, ou em razão dele, contra qualquer pessoa, salvo em legítima defesa;
+
+
+VI –
+
+aceitar representação, pensão, emprego ou comissão de Estado estrangeiro, sem prévia autorização de autoridade competente;
+
+
+VII –
+
+cometer a pessoa estranha, fora dos casos previsto em Lei, o desempenho de encargos que lhe competem ou que competem a seus subordinados;
+
+
+VIII –
+
+aplicar irregularmente dinheiros públicos;
+
+
+IX –
+
+revelar ou facilitar a revelação de assuntos sigilosos que conheça em razão do cargo;
+
+
+X –
+
+falsificar documentos ou usar documentos que saiba falsificados;
+
+
+XI –
+
+agir com ineficiência desidiosa no exercício das atribuições;
+
+
+XII –
+
+lesar os cofres públicos ou dilapidar o patrimônio do Município;
+
+
+XIII –
+
+praticar qualquer ato que importe em crime contra a Administração Pública, não previsto nos incisos anteriores.
+
+
+Parágrafo único
+
+Considera-se inassiduidade a ausência ao serviço sem justa causa, por mais de 30(trinta) dias consecutivos ou 60(sessenta) intercalados, no período de 12(doze) meses.
+
+
+Art. 45.
+
+São infrações puníveis com a pena de cassação de aposentadoria ou disponibilidade:
+
+
+I –
+
+A prática, quando no exercício do cargo, de falta punível com a pena de demissão;
+
+
+II –
+
+Aceitar, ilegalmente, cargo ou função pública.
+
+
+Parágrafo único
+
+Será igualmente cassada a disponibilidade do funcionário que não tomar posse ou não assumir, no prazo legal, o exercício do cargo ou função em que for aproveitado.
+
+
+Art. 46.
+
+É destituído do cargo ou função de confiança o profissional do ensino público municipal que cometer infração punível com a perda de suspensão, acumulando-se as penas, quando for o funcionário também titular de cargo de provimento efetivo.
+
+
+Art. 47.
+
+A demissão incompatibiliza o membro o profissional do ensino público municipal com o serviço público municipal pelo período de 2(dois) a 10(dez) anos, tendo em vista as circunstâncias atenuantes e agravantes.
+
+
+Art. 48.
+
+São circunstâncias agravantes:
+
+
+I –
+
+A premeditação;
+
+
+II –
+
+A reincidência;
+
+
+III –
+
+O conluio;
+
+
+IV –
+
+A continuação;
+
+
+V –
+
+O cometimento de ilícito:
+
+
+a)
+
+Mediante dissimulação ou outro recurso que dificulte a ação disciplinar;
+
+
+b)
+
+Com abuso de autoridade;
+
+
+c)
+
+Durante o cumprimento da pena;
+
+
+d)
+
+Em público.
+
+
+Art. 49.
+
+São circunstâncias atenuantes:
+
+
+I –
+
+Haver sido mínima a cooperação no cometimento da infração;
+
+
+II –
+
+Ter o agente:
+
+
+a)
+
+Procurado, espontaneamente e com eficiência, logo após a prática da infração, evitar-lhe ou minorar lhe as consequências, ou ter, antes do julgamento, reparado o dano civil;
+
+
+b)
+
+Cometido a infração sob coação de superior hierárquico a que não podia resistir, ou sob a influência de violenta emoção provocada por ato injusto e de terceiros;
+
+
+c)
+
+Confessado, espontaneamente, a autoria de infração ignorada ou imputada a outrem;
+
+
+d)
+
+Prestado mais de 5(cinco) anos de serviço público municipal com bom comportamento, antes da infração.
+
+
+Art. 50.
+
+Na graduação de pena de suspensão levar-se-ão em conta as disposições dos incisos I e II do artigo anterior.
+
+
+Art. 51.
+
+Para imposição de pena disciplinar, são competentes:
+
+
+I –
+
+A autoridade competente para nomear ou aposentar, nos casos de demissão, cassação de aposentadoria ou disponibilidade a destituição de cargo ou função de confiança;
+
+
+II –
+
+O Secretário Municipal de Educação, nos casos de suspensão até 10(dez) dias;
+
+
+III –
+
+O Diretor da Unidade, nos casos de repreensão e advertência;
+
+
+#### CAPÍTULO XIV — DAS FÉRIAS E DOS AFASTAMENTOS
+
+
+Art. 52.
+
+Todo profissional do ensino público municipal, inclusive o ocuoante de Cargo em Comissão, terá direito, ao gozo de 01(um) período de férias de 30 dias anuais.
+
+
+§ 1º
+
+Os profissionais do ensino público municipal que estiverem lotados em Unidades Escolares da rede Municipal de Ensino, gozarão as férias, durante o período de férias escolares, determinadas no calendário escolar.
+
+
+§ 2º
+
+Sem prejuízo das férias, os profissionais do ensino público municipal gozarão de recesso escolar de 2(duas) semanas distribuídas sempre no mês de julho.
+
+
+Art. 53.
+
+O afastamento do membro do Magistério do exercício funcional poderá ocorrer, além das outras hipóteses previstas nesta Lei e no Estatuto dos Servidores Públicos do Município de Barra Mansa, nos seguintes casos:
+
+
+I –
+
+Para integrar comissão especial ou grupo de trabalho, estudo ou pesquisa da Prefeitura Municipal de Barra Mansa, a fim de desenvolver projetos específicos da área educacional;
+
+
+II –
+
+Participar de congressos, simpósios ou outros eventos similares, desde que referentes à área educacional;
+
+
+III –
+
+Para ministrar cursos que atendam à programação do sistema municipal de ensino;
+
+
+IV –
+
+Para frequentar cursos de habilitação, atendida a conveniência do ensino público municipal;
+
+
+V –
+
+Para frequentar cursos de pós-graduação referentes à área educacional;
+
+
+VI –
+
+Para frequentar cursos de mestrado ou doutorado referentes à área educacional e que atendam ao interesse do ensino público municipal, subsidiado pelos cofres públicos, respeitada a contrapartida de permanência na rede municipal de ensino por no mínimo 3(três) vezes o tempo de duração do curso;
+
+
+VII –
+
+Mestrado e/ou doutorado realizado e subsidiado pelo próprio profissional da educação;
+
+
+Art. 54.
+
+Caberá ao Prefeito Municipal, ouvido o titular da Secretaria Municipal de Educação, autorizar de forma expressa o afastamento de profissionais nos casos previstos neste Capítulo.
+
+
+§ 1º
+
+O afastamento do profissional do ensino público municipal para frequentar cursos, na forma prevista no art.20, desta Lei, somente será autorizado quando de real interesse para a Educação, para o profissional e para o ensino público municipal, ficando-lhe assegurados o vencimento, os direitos e as vantagens garantidos para todos os fins.
+
+
+§ 2º
+
+Não se incluem nas vantagens permanentes referidas no §1º deste artigo, afastamento superior a 30(trinta) dias, gratificações por exercício de cargo em comissão ou função de confiança, por se constituírem em vantagens transitórias.
+
+
+#### CAPÍTULO XV — DA LICENÇA SINDICAL
+
+
+Art. 55.
+
+É assegurado ao profissional do ensino público municipal o direito a licença para desempenho de mandato em sindicato representativo da categoria, com remuneração do cargo efetivo, sem qualquer prejuízo.
+
+
+§ 1º
+
+Somente poderão ser licenciados trabalhador em educação básica eleitos para cargos de direção ou representação nas referidas entidades, obedecendo aos seguintes critérios:
+
+
+I –
+
+Ao Sindicato de Classe ficam assegurados no mínimo 03(três) liberações por entidade, podendo ampliar a critério do chefe do executivo
+
+
+§ 2º
+
+A licença terá duração igual à do mandato sendo automaticamente prorrogada em caso de reeleição.
+
+
+Art. 56.
+
+Aos profissionais da educação do município de Barra Mansa são asseguradas todas as licenças previstas no Estatuto dos Servidores Públicos de Barra Mansa.
+
+
+#### CAPÍTULO XVI — DO DIREITO A GREVE
+
+
+Art. 57.
+
+O direito de greve é um direito garantido constitucionalmente. E com direito garantido, cabe a categoria definir o momento e a forma de utilizá-lo.
+
+
+Art. 58.
+
+Os profissionais da educação pública de Barra Mansa gozam de absoluta imunidade, não podendo ser discriminados ou perseguidos em função de suas manifestações políticas ou ideológicas.
+
+
+#### CAPÍTULO XVII — DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS
+
+
+Art. 59.
+
+Para efeito desta Lei, função gratificada ou função de confiança é a vantagem pecuniária, de caráter transitório, criada para remunerar cargos em nível de direção, chefia e assessoramento, exercida exclusivamente por servidores ocupantes de cargo público efetivo na Prefeitura Municipal de Barra Mansa.
+
+
+§ 1º
+
+Nos termos do art.37, inciso V, da Constituição Federal, serão designados para o exercício de funções gratificadas ou de confiança servidores dos Quadros Permanentes do Magistério Público Municipal ocupantes de cargo público efetivo.
+
+
+§ 2º
+
+É vedada a acumulação de duas ou mais funções gratificadas ou de confiança.
+
+
+Art. 60.
+
+Cargo em Comissão é o cargo de confiança de livre nomeação e exoneração pelo Prefeito Municipal, a ser preenchido por servidor efetivo nos casos, condições e percentuais mínimos previstos em lei.
+
+
+#### CAPÍTULO XVIII — DA AVALIAÇÃO DO ENSINO PÚBLICO MUNICIPAL
+
+
+Art. 61.
+
+O Secretário Municipal de Educação, em articulação com os profissionais da educação e com a comunidade escolar, definirá critérios e metodologias para estabelecer indicadores de qualidade do ensino público municipal.
+
+
+Parágrafo único
+
+Na avaliação do ensino público municipal deverão ser considerados, entre outros que venham a ser definidos, na forma prevista no caput deste artigo, aspectos como:
+
+
+I –
+
+cumprimento integral do calendário escolar;
+
+
+II –
+
+índice de frequência de professores;
+
+
+III –
+
+dias letivos ministrados pelo professor;
+
+
+IV –
+
+índice de frequência dos alunos;
+
+
+V –
+
+taxa de evasão escolar;
+
+
+VI –
+
+taxa média de aprovação no ensino fundamental;
+
+
+VII –
+
+correção do fluxo escolar;
+
+
+VIII –
+
+índice de professores com especialização;
+
+
+IX –
+
+índice de atendimento à população em idade escolar sob responsabilidade do Município.
+
+
+X –
+
+Índice de aplicação das verbas da educação no ano.
+
+
+Art. 62.
+
+A avaliação do ensino público municipal far-se-á ao final de cada período Letivo.
+
+
+#### CAPÍTULO XIX — DAS CONDIÇÕES DE TRABALHO E DIREITOS OCUPACIONAIS
+
+
+Art. 63.
+
+É responsabilidade da Secretaria Municipal de Educação, dispor a todos os profissionais do ensino público municipal de Barra Mansa, condições dignas de trabalho, observando:
+
+
+I –
+
+Acessibilidade;
+
+
+II –
+
+Material de apoio e pedagógico suficiente para o desenvolvimento das atividades;
+
+
+III –
+
+A existência de condições ambientais de trabalho que estimulem o exercício da profissão;
+
+
+Art. 64.
+
+No prazo de até trezentos e sessenta (360) dias, a contar da publicação da presente Lei, a Secretaria Municipal de Educação conjuntamente com os Órgãos de Saúde do Município deverão desenvolver e implantar Programa de Controle Médico e Saúde Ocupacional, para todos os Profissionais da Educação, conforme prevê a Norma Regulamentadora nº7 do Ministério do Trabalho e Emprego.
+
+
+Parágrafo único
+
+Após a primeira implantação, deve o município por meio da Secretaria Municipal de Educação conjuntamente com os Órgãos de Saúde do Município revisar anualmente o Programa de Controle Médico e Saúde Ocupacional, conforme normas vigentes.
+
+
+Art. 65.
+
+No prazo de até conto e oitenta (180) dias, a contar da publicação da presente Lei, a Secretaria Municipal de Educação conjuntamente com os Órgãos de Saúde do Município, deverá elaborar e implantar em todas as unidades escolares e órgãos da rede municipal de ensino, o Programa de Prevenção de Riscos Ambientais (PPRA), conforme prevê a Norma Regulamentadora nº9 do Ministério do Trabalho e Emprego.
+
+
+Parágrafo único
+
+Após a primeira implantação, deve o município por meio da Secretaria Municipal de Educação conjuntamente com os Órgãos de Saúde e Prevenção de Riscos do Município revisar anualmente o Programa de Prevenção de Riscos Ambientas (PPRA), conforme normas vigentes.
+
+
+Art. 66.
+
+Visando estabelecer parâmetros que permitam a adaptação das condições psicofisiológicas dos trabalhadores, de modo a proporcionar um máximo de conforto, segurança e desempenho eficiente, deve a Secretaria Municipal de Educação conjuntamente com os Órgãos de Saúde do Município, implantar em trezentos e sessenta (360) dias, programa de prevenção a doenças ocupacionais associadas as condições ergonômicas, conforme prevê a Norma Regulamentadora nº17 do Ministério do Trabalho e Emprego.
+
+
+Art. 67.
+
+Buscando a prevenção de acidentes de trabalho, a Secretaria Municipal de Educação, deverá no prazo de trezentos e sessenta (360) dias, a contar da data de publicação desta Lei, promover e implantar em todas as unidades escolares e órgãos da rede municipal de ensino, a Comissão Interna de Prevenção de Acidentes (CIPA), conforme prevê a Norma Regulamentadora nº5 do Ministério do Trabalho e Emprego.
+
+
+Art. 68.
+
+É dever da Secretaria Municipal de Educação, dispor de fácil acesso e em quantidades suficientes a todos os profissionais do ensino público municipal de Barra Mansa, os Equipamentos de Proteção Individual (EPI's) que se fizerem necessários para o desempenho pleno de todas as atividades e funções.
+
+
+Parágrafo único
+
+Os equipamentos de proteção individual (EPI's) devem ser adquiridos, distribuídos e utilizados em conformidade com a Norma Regulamentadora nº 6 do Ministério do Trabalho e Emprego.
+
+
+Art. 69.
+
+É assegurado às pessoas com deficiência, para as quais serão reservadas vagas em percentual estabelecido na legislação vigente, o direito de inscrição em concurso público para provimento de cargo efetivo do Quadro dos Profissionais do Ensino Público Municipal, em igualdade de condições, desde que as atribuições do referido cargo sejam compatíveis com as suas deficiências.
+
+
+§ 1º
+
+Ao servidor do Quadro Profissionais do Ensino Público Municipal nomeado nos termos do caput, não será concedido qualquer direito, vantagem ou benefício em razão da necessidade especial de que era portador à época da nomeação.
+
+
+§ 2º
+
+A promoção da acessibilidade, conforme disposto no caput, para pessoas portadoras de necessidades especiais, é direito garantido conforme disposições da Lei Federal nº10.098, de 19 de dezembro de 2000.
+
+
+#### CAPÍTULO XX — DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+
+Art. 70.
+
+O Dia do Professor - 15 de outubro - será assinalado com solenidades que proporcionem a confraternização do Pessoal do Magistério, sempre que possível realizadas através de entidades reconhecidas pelo Poder Público.
+
+
+Art. 71.
+
+O Município, por meio da Secretaria Municipal de Educação assegurará:
+
+
+I –
+
+O estímulo às publicações periódicas, à publicação de livros, à pesquisa científica e produções similares, quando contribuírem para a educação e a cultura;
+
+
+II –
+
+Estímulo à vida associativa e recreativa dos Profissionais do Ensino Público Municipal através de suas associações de classe.
+
+
+Art. 72.
+
+As despesas decorrentes da implantação do presente Estatuto, bem como de sua manutenção correrão à conta de dotação própria do orçamento vigente, suplementada, se necessário, obedecendo rigorosamente as verbas da Educação prevista na lei orgânica e na lei do FUNDEB.
+
+
+Art. 73.
+
+O Poder Executivo expedirá, dentro de 180(cento e oitenta) dias, a contar da data da publicação desta lei, os atos complementares necessários à plena execução das disposições deste Estatuto.
+
+
+Art. 74.
+
+Completado o ciclo aquisitivo do direito à licenças prêmios, previsto em lei, o benefício incorpora-se ao patrimônio dos profissionais do ensino público municipal, que o exercerá conforme sua conveniência, ressalvados à administração uma planilha de escalonamento para as concessões da licença que apresentará publicamente no ano anterior ao gozo da licença demonstrando a viabilidade técnico-financeira.
+
+
+Art. 75.
+
+O estatuto do funcionalismo é parte integrante desta lei no que couber.
+
+
+Art. 76.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 21 DE AGOSTO DE 2015.
+
+
+JONASTONIAN MARINS AGUIAR
+
+PREFEITO
+

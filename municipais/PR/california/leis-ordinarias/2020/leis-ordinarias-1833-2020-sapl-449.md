@@ -1,0 +1,105 @@
+---
+titulo: "Lei Ordinária Municipal nº 1.833, de 29 de dezembro de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "1833"
+data: "2020-12-29"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/449"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/217/text"
+sha256_fonte: "bb16416b14a017f2591c7bf498e719e492934533de514df029761ade6f7ae948"
+sha256_texto: "0e360c08ef1820dad6b80f2567bc79d44362dd8382a3887ebb1686ca03486853"
+capturado_em_fonte: "2026-10-27T22:27:58.724939-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 1.833, de 29 de dezembro de 2020
+
+“DISPÕE SOBRE A CRIAÇÃO DE VAGA TEMPORÁRIA DE AGENTE DE ENDEMIAS PARA A SECRETARIA MUNICIPAL DE SAÚDE DO MUNICÍPIO”.
+
+
+A CÂMARA DE VEREADORES DO MUNICÍPIO DE CALIFÓRNIA, ESTADO DO PARANÁ, APROVOU E EU, PREFEITO, SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Autoriza-se a contratação temporária no âmbito da Administração Direta do Município de Califórnia, do cargo abaixo descrito, para atender a necessidade temporária de excepcional interesse público, nos termos do inciso IX, do Art. 37 da Constituição Federal, integrante dos Serviços da Secretária Municipal de Saúde de Califórnia.
+
+
+Art. 2º.
+
+Fica autorizada a contratação no Quadro de Pessoal Temporário do Poder Executivo Municipal, o seguinte cargo: I. 12 vagas de agente de endemias
+
+
+Art. 3º.
+
+A vaga temporária autorizada por esta Lei deverá ser preenchida para atender a necessidade temporária de excepcional interesse público, nos termos do inciso IX, do Art. 37 da Constituição Federal, Decreto Legislativo 5 de 2020 (reconhece o Estado de calamidade no Município de Califórnia), através de contrato por tempo determinado, nas condições e prazos previstos no edital.
+
+
+Parágrafo único
+
+As vagas criadas na presente Lei têm por objetivo suprir necessidade de uma maior fiscalização no combate a pandemia do COVID-19 que vem aumentando os casos em Califórnia e região tanto que a Secretaria Estadual de Saúde editou a Resolução 1412/2020 em 27/11/2020 suspendendo as cirurgias eletivas em todo o Estado do Paraná por 30 dias a contar de 01/12/2020.
+
+
+Art. 4º.
+
+O contrato será efetuado na ordem de classificação dos aprovados em processo seletivo simplificado – PSS e de acordo com a necessidade dos Serviços podendo ou não ser convocado todas as vagas.
+
+
+Art. 5º.
+
+As vagas que ora se autorizam preencher através de processo seletivo simplificado justifica-se ante ao aumento exponencial dos casos de COVID-19 no Município de Califórnia e região.
+
+
+Art. 6º.
+
+As infrações disciplinares atribuídas ao contratado nos termos desta Lei serão apuradas mediante sindicância ou processo administrativo disciplinar, concluída no prazo de trinta dias e assegurada ampla defesa.
+
+
+Art. 7º.
+
+O contrato firmado de acordo com esta Lei extinguir-se-á, sem direito a indenizações:
+
+
+I –
+
+pelo término do prazo contratual;
+
+
+II –
+
+por iniciativa do contratado;
+
+
+III –
+
+pela extinção da emergência.
+
+
+Parágrafo único
+
+A extinção do contrato, nos casos dos incisos II e III, será comunicada com a antecedência mínima de trinta dias.
+
+
+Art. 8º.
+
+O contrato firmado pela presente Lei terá a previsão de 6 (seis) meses, podendo ser prorrogado por uma única vez conforme os boletins epidemiológicos do COVID-19.
+
+
+Art. 9º.
+
+Revogam-se disposições em contrário, entrando em vigor a presente Lei na data de sua publicação.
+
+
+Edifício da Prefeitura do Município de Califórnia, aos 29 de dezembro de 2020.
+
+***PAULO WILSON MENDES***
+
+Prefeito
+

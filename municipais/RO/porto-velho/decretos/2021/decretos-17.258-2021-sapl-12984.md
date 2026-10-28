@@ -1,0 +1,60 @@
+---
+titulo: "Decreto nº 17.258, de 22 de abril de 2021"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "17.258"
+data: "2021-04-22"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/12984"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/10714/text"
+sha256_fonte: "448c5e3959d747ca0300d9ad8a4dc2591c9ba74f73e231468a9641f742db1610"
+sha256_texto: "fa17c1d68a34cbd74add2ab42dd6154337e60f13826f96df5940dab533912380"
+capturado_em_fonte: "2026-10-27T20:33:53.829562-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Decreto nº 17.258, de 22 de abril de 2021
+
+Abre no Orçamento Anual do Município de Porto Velho Crédito Adicional Suplementar, e dá outras providências.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, amparado pelo Art. 6º da Lei n.º 2.783 de 21 de dezembro de 2020, e
+
+Considerando os termos dos Ofícios n.º 32/DE/GAB/SEMTRAN/2021, de 20 de abril de 2021, que visa atender os subsídios contido no processo nº. 14.00304-004/2021;
+
+D E C R E T A:
+
+**Art. 1º** – Fica aberto no Orçamento do Município de Porto Velho, Crédito Adicional Suplementar no valor de R$ 6.000.000,00 (seis milhões de reais).
+
+**Art. 2º** – Os recursos necessários à execução do disposto no artigo anterior são decorrentes de Superávit Financeiro apurado no Balanço Patrimonial do Município no exercício de 2020, observado os preceitos do Inciso I, Parágrafo 1º do Art. 43, da Lei n.º 4.320 de 17 de março de 1964, consignados no orçamento na sequência detalhada:
+
+<table><tbody><tr><td colspan="6"><p><strong>14.00 – SECRETARIA MUNICIPAL DE TRÂNSITO, MOBILIDADE E TRÂNSITO - SEMTRAN</strong></p></td></tr><tr><td colspan="6"><p><strong>14.01 – SECRETARIA MUNICIPAL DE TRÂNSITO, MOBILIDADE E TRÂNSITO - SEMTRAN</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>SUPLEMENTA </strong><strong>R$</strong></p></td></tr><tr><td><p>14.01.04.122.007.2.001</p></td><td><p>Administração da Unidade</p></td><td><p>FIS</p></td><td><p>3.3.60.45</p></td><td><p>3.000</p></td><td><p>6.000.000,00</p></td></tr><tr><td colspan="5"><p><strong>SUB TOTAL</strong></p></td><td><p><strong>6.000.000,00</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>6.000.000,00</strong></p></td></tr></tbody></table>
+
+**Art. 3º** – Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 17.112 de 21.12.2020 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 17.113 de 21.12.2020.
+
+**Art. 4º** – Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** – Revogam-se as disposições em contrário.
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto do Município
+

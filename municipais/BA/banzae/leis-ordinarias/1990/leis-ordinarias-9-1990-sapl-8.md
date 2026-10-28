@@ -1,0 +1,495 @@
+---
+titulo: "Lei Ordinária nº 9, de 03 de julho de 1990"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "9"
+data: "1990-07-03"
+municipio: "Banzaê"
+uf: "BA"
+codigo_ibge: "2902658"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.banzae.ba.leg.br/norma/8"
+fonte_texto: "https://sapl.banzae.ba.leg.br/ta/8/text"
+sha256_fonte: "9021d50d29bdc139be219001e96707d822207f3c01d6f24b12230faecd029cff"
+sha256_texto: "92b9b6a194a7d8e7c0387741cc0a85384e6c5ac5a2a7d0f10e56cdfb3d6bfb0a"
+capturado_em_fonte: "2026-10-27T17:12:18.030864-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 9, de 03 de julho de 1990
+
+Estabelece as Diretrizes Orçamentárias para a elaboração da proposta orçamentária do Exercício de 1991.
+
+
+O PREFEITO MUNICIPAL DE BANZAÊ, faz saber que a Câmara Municipal aprovou e ele promulga o seguinte:
+
+
+Art. 1º.
+
+Esta lei estabelece as diretrizes orçamentarias gerais e as instruções que deverão ser observadas na elaboração do orçamento anual do exercício de 1991.
+
+
+Art. 2º.
+
+São gastos municipais os destinados a aquisição de bens e serviços para cumprimento dos objetivos do município e solução de seus compromissos de natureza social e financeira.
+
+
+Parágrafo único
+
+Os gastos municipais são estimados por serviços e obras mantidas ou realizadas pelo município considerando:
+
+
+I –
+
+A carga de trabalho estimada para o exercício de 1991;
+
+
+II –
+
+Os fatores conjuntais que afetam a produtividade dos gastos;
+
+
+III –
+
+A receita do serviço, quando este for remunerado;
+
+
+IV –
+
+A projeção dos gastos de pessoal localizado no serviço com base na política salarial do governo municipal para seus serviços Estatutários;
+
+
+V –
+
+A importância das obras para a administração e os administrados;
+
+
+VI –
+
+O retorno do valor aplicado na execução das obras;
+
+
+VII –
+
+O patrimônio do município, suas dívidas e encargos.
+
+
+Art. 3º.
+
+O orçamento anual conterá obrigatoriamente:
+
+
+I –
+
+Recursos destinados ao pagamento da dívida municipal e seus servidores;
+
+
+II –
+
+Recursos destinados ao Poder Judiciário, para o que dispõe o art. 100 e parágrafos da Constituição Federal;
+
+
+III –
+
+Recursos para o pagamento de seus encargos.
+
+
+Art. 4º.
+
+Constituem receitas do município as provenientes de:
+
+
+I –
+
+Tributos e contribuições de sua competência;
+
+
+II –
+
+Atividades econômicas que por conveniência vier a executar;
+
+
+III –
+
+Transferências por força de mandamento constitucional de convênios firmados;
+
+
+IV –
+
+Empréstimos e financiamentos com vencimento fora do exercício e vinculados a obras e serviços públicos;
+
+
+V –
+
+Empréstimos tomados para pagamento no exercício, sem antecipação da receita
+
+
+Art. 5º.
+
+A estimativa da receita considera:
+
+
+I –
+
+Os fatores conjunturais que possam vir a influenciar a produtividade de cada fonte;
+
+
+II –
+
+A carga de trabalho estimada para o serviço quando este for remunerado;
+
+
+III –
+
+Os fatores que influenciam as arrecadações dos impostos, das taxas e das contribuições de melhoria;
+
+
+IV –
+
+As alterações da legislação tributária.
+
+
+§ 1º
+
+No projeto de lei orçamentária, as receitas e as despesas serão orçadas segundo os preços e o índice relacionado com as respectivas variações vigentes em junho de 1990, que serão corrigidas automaticamente, antes do início da execução orçamentária.
+
+
+§ 2º
+
+A lei do orçamento anual explicitando os critérios adotados.
+
+
+I –
+
+Corrigirá seus valores segundo a variação de preços prevista para o período compreendido entre os meses de junho a dezembro de 1990.
+
+
+II –
+
+Estimará os valores da receita e fixará os valores da despesa de acordo com a variação de preços prevista para o exercício de 1991 ou outro critério que vier a ser estabelecido.
+
+
+III –
+
+Autoriza a contratação de empréstimos por antecipação da receita.
+
+
+Art. 6º.
+
+O Poder Executivo fica obrigado a arrecadar todos os tributos de sua competência.
+
+
+§ 1º
+
+O cálculo para lançamento, cobrança e arrecadação da contribuição de melhoria será amplamente divulgados.
+
+
+§ 2º
+
+O Poder Executivo fica obrigado a diminuir o volume da dívida ativa inscrita de natureza tributária e não tributária.
+
+
+Art. 7º.
+
+A legislação tributária será revista e atualizada para o exercício de 1991.
+
+
+Art. 8º.
+
+O Poder Executivo fica obrigado a modernização da máquina fazendária no sentido de aumentar a produtividade.
+
+
+Art. 9º.
+
+As receitas oriundas de atividades econômicas exercidas no município terão suas fontes revisadas e atualizadas, considerado-se os fatores conjunturais e sociais que possam influenciar as suas respectivas produtividades.
+
+
+Art. 10.
+
+O município executará com propriedades as seguintes ações delimitadas para cada setor assim elencadas:
+
+
+I –
+
+Administração, planejamento e finanças.
+
+
+a)
+
+Criar a organização administrativa.
+
+
+b)
+
+Criar organização do quadro de pessoal.
+
+
+c)
+
+Criar Código Tributário.
+
+
+d)
+
+Criar Código de Postura e Obras.
+
+
+e)
+
+Instalação de Procuradoria Geral do Município.
+
+
+f)
+
+Edificação do Centro Administrativo Municipal com instalação para o Legislativo e Executivo.
+
+
+g)
+
+Atualização da remuneração do prefeito, vice-prefeito, vereadores e dos servidores municipais.
+
+
+h)
+
+Planos de cargos e salários dos servidores municipais.
+
+
+i)
+
+Criação da previdência municipal.
+
+
+j)
+
+Criação da Guarda Municipal.
+
+
+II –
+
+Social
+
+
+a)
+
+Construção de unidades escolares para atenderem o crescimento da demanda na área de competência municipal da pré-escola e do Ensino Fundamental.
+
+
+b)
+
+Distribuição de merenda escolar e manutenção dos serviços conveniados.
+
+
+c)
+
+Reciclagem e treinamento do Magistério.
+
+
+d)
+
+Reforma de prédios móveis e utensílios das escolas municipais.
+
+
+e)
+
+Convênio com o SUDS e programas de saúde.
+
+
+f)
+
+Equipamentos para postos médicos municipais.
+
+
+g)
+
+Aquisição de ambulâncias.
+
+
+h)
+
+Drenagem e pavimentação das ruas da sede infantis.
+
+
+i)
+
+Construção de praças esportivas e parques infantis.
+
+
+j)
+
+Construção de casas populares, incluídas desapropriações, distribuições de lotes e urbanização.
+
+
+l)
+
+Mutirão para construção e reforma de casas populares.
+
+
+m)
+
+Convênio para saneamento, iluminação pública, água e esgoto.
+
+
+n)
+
+Convênio para construção e manutenção de creches e pré-escolas.
+
+
+III –
+
+Econômico
+
+
+a)
+
+Abertura e manutenção de estradas vicinais.
+
+
+b)
+
+Abertura de cacimbas, construção e recuperação de açudes.
+
+
+c)
+
+Promoção das festas populares.
+
+
+d)
+
+Publicidade e promoções de natureza informativa.
+
+
+IV –
+
+Urbano
+
+
+a)
+
+Urbanização de ruas e praças da área central da cidade.
+
+
+b)
+
+Pavimentação de 1000 m² de vias públicas.
+
+
+c)
+
+Drenagem de águas pluviais na área da cidade.
+
+
+d)
+
+Construção de praças e jardins.
+
+
+Parágrafo único
+
+As obras e serviços que ultrapassarem na sua execução o exercício de 1991 contarão obrigatoriamente no Plano Plurianual.
+
+
+Art. 11.
+
+O orçamento anual compreenderá as receitas e as despesas da administração direta, de modo a evidenciar as políticas e programas do governo, obedecidas na sua elaboração os princípios da anualidade, unidade, equilíbrio e exclusividade.
+
+
+§ 1º
+
+Os serviços municipais remunerados, inclusive as atividades de execução de obras públicas das quais possam beneficiar imóveis, cujos custos serão cobertos pela contribuição de melhoria, buscando o equilíbrio na gestão financeira, através da utilização dos recursos que forem designados.
+
+
+§ 2º
+
+As estimativas dos gastos e receita dos serviços municipais remunerados ou não capitalizados as respectivas políticas estabelecidas pelo governo local.
+
+
+Art. 12.
+
+O orçamento anual poderá consignar recursos para financiar serviços incluídos nas suas funções a serem executadas por entidade de direito privado, sem fins lucrativos e reconhecidos de utilidade púbica, mediante convênio desde que seja de conveniência da administração e tenham demonstrado eficiência no cumprimento dos objetivos determinados.
+
+
+Art. 13.
+
+Não poderá ter aumento real em relação aos créditos correspondentes no orçamento de 1990, ressalvando os casos autorizados em lei própria, os seguintes gastos:
+
+
+a)
+
+De pessoal e respectivas encargos que não podem ultrapassar o limite de 25% (vinte e cinco por cento) das receitas correntes.
+
+
+b)
+
+Pagamento do serviço da dívida que não pode ultrapassar 5% (cinco por cento) do montante do orçamento anual.
+
+
+c)
+
+Transferência, inclusive as relacionadas com o serviço da dívida e encargos sociais.
+
+
+d)
+
+Imobilizações administrativas que não poderá ultrapassar:
+
+
+1
+
+10% (Dez por cento) do montante do orçamento anual, quando destinados aos serviços não remunerados;
+
+
+2
+
+20% (Vinte por cento) da receita do serviço remunerado;
+
+
+3
+
+100% (Cem por centro) da receita de contribuições de melhorias.
+
+
+Art. 14.
+
+Na fixação dos gastos de capital para criação, expansão ou aperfeiçoamento de serviços já criados e ampliados a serem atribuídos aos órgãos municipais com exclusão das amortizações de empréstimos, serão respeitadas as prioridades e metas constantes desta lei, bem como a remuneração, digo, manutenção e funcionamento dos serviços já implantados.
+
+
+Art. 15.
+
+Na Lei Orçamentária Anual para 1991, a discriminação das despesas far-se-á constante as exigências da Lei Federal nº 4.320/64, e normas complementares.
+
+
+Art. 16.
+
+No decorrer da execução orçamentária fica o Poder Executivo autorizado a proceder a correção automática dos valores constantes no orçamento.
+
+
+§ 1º
+
+Tal mecanismo de correção será fixado com base em um índice, cujos critérios para a sua obtenção será explicitados no texto do anteprojeto da lei a ser encaminhada ao Poder Legislativo.
+
+
+Art. 17.
+
+Caberá ao órgão planejador do município a coordenação da elaboração dos orçamentos que trata a presente lei.
+
+
+Parágrafo único
+
+o chefe do Poder Executivo baixada o calenddário das atividades de elaboração dos orçamentos, devendo incluir reuniões com o secretariado para ser discutido o orçamento fiscal.
+
+
+Art. 18.
+
+Esta lei entrará em vigor na data de sua publicação.
+
+
+Sala das Sessões, 3 de julho de 1990.
+
+**Edval Calasans de Macedo**
+
+Prefeito
+

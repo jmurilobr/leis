@@ -1,0 +1,106 @@
+---
+titulo: "Lei nº 478, de 17 de novembro de 1971"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "478"
+data: "1971-11-17"
+municipio: "Bicas"
+uf: "MG"
+codigo_ibge: "3106903"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bicas.mg.leg.br/norma/1782"
+fonte_texto: "https://sapl.bicas.mg.leg.br/ta/529/text"
+sha256_fonte: "969eec9621a4aa3b7641a7109f3820e69f2cbd2eefbbb1e7435dff9890cf938b"
+sha256_texto: "6ee59d6502253d00bd5aa61fcabd75baa165d2415ba18934204118cda80eafd6"
+capturado_em_fonte: "2026-10-27T17:24:22.554647-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 478, de 17 de novembro de 1971
+
+Aprova o Plano de Aplicação de Capital do Município de Bicas, para o período de 19721974 e dá outras providências.
+
+
+A Câmara Municipal de Bicas aprovou e eu, Prefeito Municipal sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica o poder Executivo autorizado a dispender nos exercícios de 1972, e 1974, até a importância de Cr$1.259.034,60(um milhão duzentos cinquenta nove mil e trinta quatro cruzeiros e sessenta centavos)correspondentes ás despesas de Capital discriminados no Plano de Aplicação para o período de 1972 a 1974 que acompanha esta lei.
+
+
+Art. 2º.
+
+No cumprimento do disposto no artigo 1° serão observados em cada exercício, os limites parciais das despesas de Capital, fixados pelo plano de aplicação de Capital.
+
+
+Art. 3º.
+
+Não atingidos no exercício, os limites parciais a que se refere o artigo anterior as parcelas não utilizadas passarão a disponibilizar do exercício seguinte destinadas ao mesmo investimento.
+
+
+Art. 4º.
+
+Os orçamentos para os exercícios de 1972, 1973 e 1974, conseguirão obrigatóriamente dotações correspondentes aos encargos da execução desta lei.
+
+
+Art. 5º.
+
+Fica o Poder Executivo autorizado a realizar operações de créditos que se tornarem necessários á execução da presente lei.
+
+
+Art. 6º.
+
+Esta lei entrará em vigor a partir de 1° de janeiro do ano de 1972(mil novecentos e setenta e dois) revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Bicas, 17 de novembro de 1971.  
+  
+  O Prefeito Municipal  
+ Homero José Mattos de Souza.
+
+
+Observação: Vide verso Plano de Aplicação constante dessa lei:    
+  
+Código Geral Investimentos 1972 1973 1974 Total  
+ 4.000 Despesas de Capital Cr$ Cr$ Cr$ Cr$   
+4.100 INVESTIMENTOS   
+4.110 Obras Públicas   
+02 Construção do Prédio da Prefeitura 50.000,00 20.000,00 70.000,00  
+ 42 Construção e Melhoramentos Estradas 10.000,00 15.000,00 10.000,00 35.000,00  
+ 61 Construção de Prédio Escolar 10.000,00 25.000,00 35.000,00  
+ 93 Construção do Posto de Saúde 15.000,00 15.000,00   
+94 Aplicação e Melhoramentos da Rede de Água 180.000,00 250.000,00 350.000,00 780.000,00 34,00  
+95 Melhoramentos no sistema de Iluminação Pública 10.000,00 18.000,00 10.000,00  
+ 96 Abertura e Calçamento de Ruas e Avenidas 8.000,00 12.000,00 38.000,00   
+Construção de Praças e Jardins Públicas 5.500,00 20.000,00 25.500,00 Construção do Prédio do Matadouro 10.000,00 10.000,00   
+4.1.2.0 Serviço em Regime de Programação   
+04 Plano Diretor Integrado 5.000,00 15.000,00 20.000,00   
+4.1.3.0 Equipamentos e Instalações  
+ 11 Máquinas e Utensílios 15.000,00 5.000,00 8.500,00  
+ 91 Máquinas e Motores para o serviço de Água 10.000,00 18.000,00 25.000 35.000,00   
+92 Veículos e Equipamentos p Serviço Limpeza 18.000,00   
+94 Veículos p o Serviço de Ruas e Avenidas 8.000,00 20.000 28.000,00 4  
+.1.4.0 Material Permanente 00 Móveis e Utensílios 3.000,00 3.000,00   
+02 Móveis e Utensílios 2.000,00 4.000,00 3.000,00 5.000,00  
+ 11 Móveis e Utensílios 10.000,00 8.000,00 4.000,00   
+61 Livros p Biblioteca 10.000,00 8.000,00 4.000,00   
+67 Para Serviço de Água e Esgoto 1.000,00 3.000,00 18.000,00   
+91 Para o Serviço de Limpeza Pública 2.000,00 3.000,00 5.000,00 4.000,00   
+92 Para o serviço de Iluminação Pública 3.500,00 4.000,00 6.000,00 10.000,00  
+ 93 Para o serviço de Ruas e Avenidas 1.534,60 3.000,00   
+94 Para o serviço de Praças Parques e jardins 3.000,00 5.000,00 4.000,00 13.500,00   
+95 Para o serviço de matadouro 2.000,00 4.000,00 5.000,00 4.534,00  
+ 96 Para o Cemitério 2.000,00 6.000,00 6.000,00  
+ 97 Inversões Financeiras 2.000,00 6.000,00 2.000,00 12.000,00  
+ 4.2.0.0 Aquisição de Imóveis 8.000,00   
+4.2.1.0 Aquisição de Prédios ou Terrenos 5.000,00 8.000,00 O  
+Contador Total 285.034,60 1.259.0
+
+
+Visto: O Prefeito Municipal   
+Ass: Homero José Mattos Souza.
+

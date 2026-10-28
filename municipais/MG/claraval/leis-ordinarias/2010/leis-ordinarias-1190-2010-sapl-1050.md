@@ -1,0 +1,293 @@
+---
+titulo: "LEI ORDINÁRIA-CMC nº 1.190, de 21 de setembro de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "1190"
+data: "2010-09-21"
+municipio: "Claraval"
+uf: "MG"
+codigo_ibge: "3116407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.claraval.mg.leg.br/norma/1050"
+fonte_texto: "https://sapl.claraval.mg.leg.br/ta/383/text"
+sha256_fonte: "8eacbf48650c9fe29df4969f96a209b28c3906d1a6d8e7e77294462e96dbd86f"
+sha256_texto: "5dd376772b92c728f51e5e79d717a8a5ac9f1366667ec83df6480a441ea5fb8f"
+capturado_em_fonte: "2026-10-27T22:55:24.998397-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA-CMC nº 1.190, de 21 de setembro de 2010
+
+“DISPÕE SOBRE ABERTURA DE CRÉDITO ADICIONAL SUPLEMENTAR, AS DOTAÇÕES ORÇAMENTÁRIAS, E DÁ OUTRAS PROVIDÊNCIAS.”
+
+
+O PREFEITO MUNICIPAL DE CLARAVAL / MG, Sr. Juscelino Batista Borges, no uso de suas atribuições legais, faz saber a todos os habitantes do Município, que a Câmara de Vereadores aprovou e ele sanciona a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o chefe do Poder Executivo autorizado a abrir Crédito Adicional Suplementar no Valor de RS 231.000,00 (Duzentos e trinta e mil reais), nas seguintes dotações do orçamento em vigor:
+
+
+02.02 - SECRETARIA MUNICIPAL DE ADMINSITRAÇÃO  
+02.02.02 - DEPARTAMENTO DE ADMINISTRAÇÃO
+
+04.122.0401.2.005 - Manutenção das Atividades da Administração
+
+339039 - Outros Serviços de Terceiros-Jurídica (ficha 033).......................................................................................R$15.000,00
+
+02.03 SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO  
+02.03.02-DEPARTAMENTO DE TESOURARIA  
+04.123.0402.2.008-Manutenção das Atividades da Tesouraria  
+339039 - Outros Serviços de Terceiros-P. Jurídica (ficha 077).......................................................................................R$3.000,00
+
+28.843.0000 0.004 - Obrigações da Divida Pública  
+329021 - Juros sobre a Divida por Contrato (ficha 081).............................................................................................R$30.000,00
+
+469071-Principal da Divida Contratual Resgatado (ficha 084).................................................................................R$29.000,00
+
+02.04 - SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA
+
+02.04.02 - ENSINO FUNDAMENTAL  
+12.361.1201.2.039 - Contribuição para Formação do PASEP  
+339047 - Obrigações Tributárias e Contributivas (ficha 122).......................................................................................R$1.000,00
+
+02.04 - SECRETARIA MUNCIPAL DE EDUCAÇÃO E CULTURA
+
+02.04.03 – FUNDED  
+12.361.1202.2.042 - Docentes do Magistério Fundamental-Fundeb
+
+319004 - Contratação por Tempo Determinado (ficha 131).....................................................................................R$50.000,00
+
+319011 - Vencimentos e Vantagens Fixas-Pessoal Civil (ficha 132).......................................................................R$50.000,00
+
+319013 - Obrigações Patronais (ficha 133).....................................................................................................................R$10.000,00
+
+02.04 - SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA
+
+02.04.04 - Ensino Geral  
+12.361.1201.2.041 - Manutenção dos Recursos Qese  
+339030-Material de Consumo (ficha 161).......................................................................................................................R$10.000,00
+
+02.06 - SECRETARIA MUNICIPAL DE SAÚDE
+
+10.301.1001.2.121-Manutenção Ativ. da Atenção Básica-Recurso Vinculado  
+449052 - Equipamentos e Material Permanente (ficha 208).......................................................................................R$3.000,00  
+10.305.1002 2.126 - Manutenção das Atividades Epidemiológicas
+
+339030-Material de Consumo (ficha 232)........................................................................................................................R$10.000,00
+
+339036 - Outros Serviços de Terceiros-Pessoa Física(ficha 233) ............................................................................R$10.000,00  
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica (FICHA 234).......................................................................R$5.000,00  
+449052-Equipamentos e Material Permanente (ficha 235)..........................................................................................R$5.000,00
+
+
+Art. 2º.
+
+Como recurso à dotação constante do Art.1º, poderá ser utilizado os decorrentes da anulação parcial ou total das seguintes dotações:
+
+
+02.02 - SECRETARIA MUNICIPAL DE ADMINSITRAÇÃO  
+02.02.01 - DEPARTAMENTO DE RECURSOS HUMANOS
+
+04.128.0401.2.109 - Manutenção do Departamento de Rec. Humanos
+
+339030 - Material de Consumo (ficha 22)....................................................................................................................R$1.000,00
+
+339039 - Outros Serviços de Terceiros - Pessoa Jurídica (ficha 24)....................................................................R$1.000,00
+
+02.03 - SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO
+
+02.03.03 - DEPARTAMENTO DE TRIBUTAÇÃO E DIVIDA ATIVA
+
+04.123.0402.2.007 - Manutenção das Atividades Tributação e Divida Ativa  
+339030 - Material de Consumo (ficha 88)....................................................................................................................R$2.000,00
+
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica (ficha 089)....................................................................R$3.000,00  
+449052 - Equipamentos e Material Permanente (ficha 090)..................................................................................R$2.000,00
+
+02.02 - SECRETARIA MUNICIPAL DE ADMINSITRAÇÃO  
+02.03.04 - DEPARTAMENTO DE CONTROLE INTERNO  
+04.123.0402.2.113-Manutenção do Departamento de Controle Interno  
+339030-Material de Consumo (ficha 093)......................................................................................................................R$2.000,00  
+339039-Outros Serviços de Terceiros-Pessoa Jurídica (ficha 094)........................................................................R$1.000,00
+
+02.04 - SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA
+
+02.04.01 - ENSINO INFANTIL  
+12.365.1203.2.047 - Manutenção de Creches no Município  
+449052 - Equipamentos e Material Permanente (ficha 102)..................................................................................R$1.000,00  
+12.365.1203.2.049 - Manutenção das Atividades do Pré-Escolar
+
+339030 - Material de Consumo (ficha 106)...................................................................................................................R$1.000,00
+
+339036 - Outros Serviços de Terceiros-Pessoa Fisica (ficha 107)..........................................................................R$1.000,00
+
+339039 - Outros Serviços de Terceiros - Pessoa Jurídica (Ficha 108)..................................................................R$2.000,00
+
+02.04 - SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA
+
+02.04.02 - ENSINO FUNDAMENTAL  
+12.361.1201.1.031 - Aquisição de Veiculo para o Transporte Escolar
+
+449052 - Equipamentos e Material Permanente (ficha 112)...................................................................................R$2.500,00
+
+02.04 - SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA
+
+02.04.03-FUNDEB  
+12.365.1202.2.099 Manutenção do FUNDEB-INFANTIL  
+339030 - Material de Consumo (ficha 149).....................................................................................................................R$5.000,00
+
+339036 - Outros Serviços de Terceiros-Pessoa Física (ficha 150)............................................................................R$1.000,00  
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica (Ficha 151).......................................................................R$1.000,00
+
+02.04 - SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA
+
+02.04.04 - ENSINO GERAL  
+12.365.1203.2.093-Manutenção de Creche –Convênios  
+339030 - Material de Consumo (ficha 173)....................................................................................................................R$11.000,00  
+339036 - Outros Serviços de Terceiros-Pessoa Física (ficha 174)..............................................................................R$1.000,00  
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica (Ficha 175).........................................................................R$6.500,00  
+12.366.1201.2.137-Manutenção da Educação de Jovens e Adultos
+
+339030 - Material de Consumo (ficha 340)........................................................................................................................R$1.000,00  
+339036-Outros Serviços de Terceiros-Pessoa Física (ficha 341).................................................................................R$2.000,00
+
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica (Ficha 342)..........................................................................R$6.000,00
+
+02.06 - SECRETARIA MUNICIPAL DE SAÚDE  
+10.272.0000.0.001 - Despesas com Inativos e Pensionistas  
+319001 - Aposentadorias e Reformas (ficha 190)............................................................................................................R$3.000,00
+
+02.07 - SECRETARIA MUNICIPAL DE CIDADANIA E AÇÃO SOCIAL
+
+08.243.0801.1.051 - Aquisição de Veículo p/ uso nos Serviços Ação Social  
+449052 - Equipamentos e Material Permanente (ficha 237).......................................................................................R$1.000,00  
+16.482.1601.1.044 - Construção de Casas Populares  
+449051 - Obras e Instalações (ficha 242).........................................................................................................................R$10.000,00
+
+16.482.1601.1.045 - Reforma de Casas Populares  
+449051 - Obras e Instalações (ficha 243)...........................................................................................................................R$8.000,00
+
+16.482.1601.1.046 - Aquisição de Imóveis
+
+449051 - Obras e Instalações (ficha 244)...........................................................................................................................R$1.000,00
+
+02.07 - SECRETARIA MUNICIPAL DE CIDADANIA E AÇÃO SOCIAL
+
+02.07.01 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL
+
+08.244.0801.1.022 - Aquisição de Equip. p/ o Centro Múltiplo Uso  
+449052 - Equipamentos e Material Permanente (ficha 245).......................................................................................R$4.000,00
+
+08.244.0801.2.083 - Manutenção das Atividades do Centro Múltiplo Uso
+
+319004 - Contratação por Tempo Determinado (ficha 256)......................................................................................R$4.000,00
+
+319011 - Vencimentos e Vantagens Fixas-Pessoal Civil (ficha 257)..........................................................................R$2.000,00
+
+319013 - Obrigações Patronais (ficha 258).........................................................................................................................R$5.000,00
+
+319016 - Outras Despesas Variáveis - Pessoal Civil (ficha 259)...................................................................................R$1.000,00  
+339030 - Material de Consumo (ficha 260).......................................................................................................................R$11.000,00  
+339036 - Outros Serviços de Terceiros-Pessoa Física (ficha 261)................................................................................R$4.000,00  
+339039 - Outros Serviços de Terceiros - Pessoa Jurídica (Ficha 262).......................................................................R$5.000,00
+
+02.08 - SECRETARIA MUNICIPAL DE OBRAS E SERVIÇOS URBANOS  
+02.08.02 - DEPARTAMENTO DE OBRAS PÚBLICAS
+
+04.606.0401.2.118 - Manutenção do Depto. de Obras Públicas  
+319011 - Vencimentos e Vantagens Fixas-Pessoal Civil (ficha 280)..........................................................................R$10.000,00  
+04.606.0410.1.042 - Ampliação e Reforma da Garagem Municipal
+
+449051 - Obras e Instalações (ficha 289)...............................................................................................................................R$2.000,00  
+25.752.2501.1.047 - Extensão de Rede Elétrica Rural  
+449051 - Obras e Instalações (ficha 290)...............................................................................................................................R$5.000,00
+
+02.08 - SECRETARIA MUNICIPAL DE OBRAS E SERVIÇOS URBANOS  
+02.08.03 DEPARTAMENTO DE SERVIÇOS URBANOS
+
+15.452.1501.2.101 - Manutenção do Trânsito Municipal  
+339030 - Material de Consumo (ficha 304)..........................................................................................................................R$5.000,00  
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica (Ficha 305)............................................................................R$2.000,00  
+449051 - Obras e Instalações (ficha 306)...............................................................................................................................R$3.000,00
+
+26.752.1501.1.014 - Extensão de Rede Elétrica Urbana  
+449051 - Obras e Instalações (ficha 307)............................................................................................................................R$10.000,00
+
+26.782.1501.1.028 - Aquisição de Veículos e Máquinas  
+449052 - Equipamentos e Material Permanente (ficha 308)..........................................................................................R$1.000,00
+
+02.08 - SECRETAIRA MUNICIPAL DE OBRAS E SERVIÇOS URBANOS  
+02.08.03 - DEPARTAMENTO DO DEPARTAMENTO DE SERVIÇOS URBANOS  
+15.452.1501.2.101 - Manutenção do Trânsito Municipal  
+339030 - Material de Consumo (ficha 304)..........................................................................................................................R$5.000,00
+
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica (Ficha 305)............................................................................R$2.000,00
+
+449051 - Obras e Instalações (ficha 306)...............................................................................................................................R$3.000,00
+
+25.752.1501.1.014 - Extensão de Rede Elétrica Urbana  
+449051 - Obras e Instalações (ficha 307).............................................................................................................................R$10.000,00
+
+26.782.1501.1.028 - Aquisição de Veículos e Máquinas  
+449052 - Equipamentos e Material Permanente (ficha 308)...........................................................................................R$1.000,00
+
+02.08 - SECRETARIA MUNICIPAL DE OBRAS E SERVIÇOS URBANOS  
+02.08.03 - DEPARTAMENTO DE SERVIÇOS URBANOS  
+15.452.1501.2.101 - Manutenção do Trânsito Municipal  
+339030 - Material de Consumo (ficha 304)............................................................................................................................R$5.000,00  
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica (Ficha 305)..............................................................................R$2.000,00  
+449051 - Obras e Instalações (ficha 306).................................................................................................................................R$3.000,00  
+26.752.1501.1.014 - Extensão de Rede Elétrica Urbana  
+449051 - Obras e Instalações (ficha 307)..............................................................................................................................R$10.000,00  
+26.782.1501.1.028 - Aquisição de Veículos e Máquinas  
+449052 - Equipamentos e Material Permanente (ficha 308)............................................................................................R$1.000,00
+
+02.08 - SECRETAIRA MUNICIPAL DE OBRAS E SERVIÇOS URBANOS  
+02.08.03 - DEPARTAMENTO DO DEPARTAMENTO DE SERVIÇOS URBANOS  
+15.452.1501.2.101 - Manutenção do Trânsito Municipal  
+339030 - Material de Consumo (ficha 304).............................................................................................................................R$5.000,00  
+339039 - Outros Serviços de Terceiros-Pessoa Jurídica (Ficha 305)..............................................................................R$2.000,00  
+449051 - Obras e Instalações (ficha 306).................................................................................................................................R$3.000,00  
+25.752.1501.1.014 - Extensão de Rede Elétrica Urbana  
+449051 - Obras e Instalações (ficha 307)..............................................................................................................................R$10.000,00  
+26.782.1501.1.028 - Aquisição de Veículos e Máquinas  
+449052 - Equipamentos e Material Permanente (ficha 308)............................................................................................R$1.000,00
+
+02.10 - SECRETARIA MUNICIPAL DE MEIO AMBIENTE
+
+04.122.0401.2.070 - Aquisição de Plantas para Conservação das Nascentes  
+339030 - Material de Consumo (ficha 316)............................................................................................................................R$5.000,00  
+339036 - Outros Serviços de Terceiros-Pessoa Física (ficha 317)...................................................................................R$1.000,00
+
+02.10 - SECRETARIA DE VIGILÂNCIA E FISCALIZAÇÃO  
+02.10.01 - DEPARTAMENTO DE VIGILANCIA E FISCALIZAÇÃO
+
+18.542.0401.2.127 - Manutenção Depto. Vigilância e Fiscalização
+
+319004 - Contratação por Tempo Determinado (ficha 319)................................................................................................R$500,00  
+319011 - Vencimentos e Vantagens Fixas-Pessoal Civil (ficha 320)...............................................................................R$6.500,00
+
+319013 - Obrigações Patronais (ficha 321).................................................................................................................................R$500,00
+
+02.10 - SECRETARIA DE VIGILÂNCIA E FISCALIZAÇÃO  
+02.10.02 - DEPARTAMENTO DE ÁGUA, ESGOTOS E ATERRO SANITÁRIO  
+17.512.1501.2.128 - Manutenção Depto Agua, Esgoto e Aterro Sanitário  
+319004 - Contratação por Tempo Determinado (ficha 329).............................................................................................R$2.000,00  
+319011 - Vencimentos e Vantagens Fixas-P. Civil (ficha 330)..........................................................................................R$27.000,00  
+319013 - Obrigações Patronais (ficha 331)............................................................................................................................R$16.500,00
+
+
+Art. 3º.
+
+Revogadas as disposições em contrários, a presente Lei entra em vigor na data de sua publicação.
+
+
+**Claraval, 21 de setembro de 2010.**
+
+**Juscelino Batista Borges Prefeito Municipal**
+

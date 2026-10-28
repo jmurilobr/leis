@@ -1,0 +1,183 @@
+---
+titulo: "Lei Ordinária nº 2.752, de 30 de agosto de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2752"
+data: "2017-08-30"
+municipio: "Dores do Indaiá"
+uf: "MG"
+codigo_ibge: "3123205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.doresdoindaia.mg.leg.br/norma/1071"
+fonte_texto: "https://sapl.doresdoindaia.mg.leg.br/ta/360/text"
+sha256_fonte: "1366bf521e313ea2850b7f9e0f7ec73a9fb7d6bdaa469bc34c8c4ad16361b9b8"
+sha256_texto: "4a37886993e0eb67940da9d20bbbd013041fe9b372aaac6e6029bb34fbe216ff"
+capturado_em_fonte: "2026-10-28T10:09:25.777274-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.752, de 30 de agosto de 2017
+
+**TEXTO ORIGINAL EM PDF**
+
+
+Autoriza o Poder Executivo a alienar bem imóvel que especifica.
+
+
+o Prefeito Municipal de Dores do Indaiá, MG, faz saber que a Câmara Municipal aprovou e ele sanciona a sequinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a desafetar e alienar, mediante licitação, na modalidade concorrência, nos termos do art. 17 da Lei nº 8.666, de 21 de junho de 1993, os imóveis urbanos abaixo relacionados
+
+
+§ 1º
+
+Um lote de terreno urbano com área total de 378m² , contendo edificação, situado na Praça do Cruzeiro, com o valor venal de R$ 76.700,00, registrado na matricula 7.659 junto ao CRI local.
+
+
+§ 2º
+
+Um lote de terreno urbano com área total de 2.000m2 , situado na Avenida Gama, Bairro das Industrias, com o valor venal de R$ 240.000,00, registrado na matricula 10.262 junto ao CRI local.
+
+
+§ 3º
+
+Um lote de terreno urbano com área total de 200m² , contendo edificação situado na Rua O, lote 13, quadra O, Bairro Residencial Santa Cruz, com o valor venal de R$ 70.500,00, registrado na matricula 12.551 junto ao CRI local.
+
+
+§ 4º
+
+Um lote de terreno urbano com área total de 200m² , contendo edificação situado na Rua O, lote 25, quadra O, Bairro Residencial Santa Cruz, com o valor venal de R$ 70.500,00, registrado na matricula 12.563 junto ao CRI local.
+
+
+§ 5º
+
+Um lote de terreno urbano com área total de 200m² , situado na Rua O, lote 5, quadra I, Bairro ResidencialSantaCruz, com o valor venal de R$ 30.000,00, registrado na matricula 12.651 junto ao CRI local.
+
+
+§ 6º
+
+Um lote de terreno urbano com área total de 304,02m², situado na Rua E, lote 6, quadra I, Bairro Residencial Santa Cruz, com o valor venal de R$ 40.000,00, registrado na matricula 12.652 junto ao CRI local.
+
+
+§ 7º
+
+Um lote de terreno urbano com área total de 200m², situado na Rua O, lote 7, quadra I, Bairro Residencial Santa Cruz, com o valor venal de R$ 30.000,00, registrado na matricula 12.653 junto ao CRI local.
+
+
+§ 8º
+
+Um lote de terreno urbano com área total de 200m², situado na Rua C, lote 5, quadra J, Bairro Residencial Santa Cruz, com o valor venal de R$ 30.000,00, registrado na matricula 12.658 junto ao CRI local.
+
+
+§ 9º
+
+Um lote de terreno urbano com área total de 200m², situado na Rua O, lote 5, quadra J, Bairro Residencial Santa Cruz, com o valor venal de R$ 30.000,00, registrado na matricula 12.659 junto ao CRI local.
+
+
+§ 10
+
+Um lote de terreno urbano com área total de 200m², situado na Rua C, lote 7, quadra J, Bairro Residencial Santa Cruz, com o valor venal de R$ 30.000,00, registrado na matricula 12.660 junto ao CRI local.
+
+
+§ 11
+
+Um lote de terreno urbano com área total de 200m², situado na Rua O, lote 8, quadra J, Bairro Residencial Santa Cruz, com o valor venal de R$ 30.000,00, registrado na matricula 12.661 junto ao CRI local.
+
+
+§ 12
+
+2 Um lote de terreno urbano com área total de 200m², situado na Rua C, lote 9, quadra J, Bairro Residencial Santa Cruz, com o valor venal de R$ 30.000,00 registrado 12.662 junto ao CRI local.
+
+
+§ 13
+
+Um lote de terreno urbano com área total de 200m², situado na Rua D, lote 10, quadra J, Bairro Residencial Santa Cruz, com o valor venal de R$ 30.000,00, registrado na matricula 12.663 junto ao CRI local.
+
+
+§ 14
+
+Um lote de terreno urbano com área total de 200m² , situado na Rua B, lote 5, quadra K, Bairro Residencial Santa Cruz, com o valor venal de R$ 30.000,00, registrado na matricula 12.670 junto ao CRI local.
+
+
+§ 15
+
+Um lote de terreno urbano com área total de 200m² , situado na Rua B, lote 7, quadra K, Bairro Residencial Santa Cruz, com o valor venal de R$ 30.000,00, registrado na matricula 12.672 junto ao CRI local.
+
+
+§ 16
+
+Um lote de terreno urbano com área total de 200m² , situado na Rua C, lote 8, quadra K, Bairro Residencial Santa Cruz, com o valor venal de R$ 30.000,00, registrado na matricula 12.673 junto ao CRI local.
+
+
+§ 17
+
+Um lote de terreno urbano com área total de 200m² , situado na Rua B, lote 9, quadra K, Bairro Residencial Santa Cruz, com o valor venal de R$ 30.000,00, registrado na matricula 12.674 junto ao CRI local.
+
+
+§ 18
+
+Um lote de terreno urbano com área total de 200m² , situado na Rua C, lote 10, quadra K, Bairro Residencial Santa Cruz, com o valor venal de R$ 30.000,00, registrado na matricula 12.675 junto ao CRI local.
+
+
+§ 19
+
+Um lote de terreno urbano com área total de 200m² , situado na Rua B, lote 11, quadra K, Bairro Residencial Santa Cruz, com o valor venal de R$ 30.000,00, registrado na matricula 12.676 junto ao CRI local.
+
+
+§ 20
+
+Um lote de terreno urbano com área total de 200m² , situado na Rua C, lote 12, quadra K, Bairro Residencial Santa Cruz, com valor venal de R$ 30.000,00, registrado na matricula 12.677 junto ao CRI local.
+
+
+§ 21
+
+Um lote de terreno urbano com área total de 200m² , situado na Rua C, lote 13, quadra K, Bairro Residencial Santa Cruz, com o valor venal de R$ 30.000,00, registrado na matricula 12.678 junto ao CRI local.
+
+
+§ 22
+
+Um lote de terreno urbano com área total de 200m² , situado na Rua C, lote 14, quadra K, Bairro Residencial Santa Cruz, com o valor venal de R$ 30.000,00, registrado na matricula 12.679 junto ao CRI local.
+
+
+§ 23
+
+Um lote de terreno urbano com área total de 200m² , situado na Rua B, lote 4, quadra L, Bairro Residencial Santa Cruz, com o valor venal de R$ 30.000,00, registrado na matricula 12.683 junto ao CRI local.
+
+
+§ 24
+
+Um lote de terreno urbano com área total de 189,65m2 , situado na Avenida Dr. Di, com o valor venal de R$ 35.085,25, registrado na matricula 14.000 junto ao CRI local.
+
+
+Parágrafo único
+
+A alienação das áreas que trata esta Lei terão lance mínimo correspondente ao valor já previamente determinados.
+
+
+Art. 2º.
+
+Fica autorizado o Poder Executivo Municipal utilizar 50% (cinquenta por cento) dos recursos oriundos das alienações dos bens públicos de que trata o Art. 1° para fins de pagamento de débitos junto ao Instituto Nacional do Seguro Social - INSS e Instituto Previdência dos Servidores Municipais de Dores do Indaiá - IPSEMDI, e 50% (cinquenta por cento) dos recursos remanescentes para infraestrutura na zona rural.
+
+
+Art. 3º.
+
+As despesas decorrentes da venda autorizada por esta lei serão suportadas pelo comprador.
+
+
+Art. 4º.
+
+Esta lei entra em vigor na data da publicação.
+
+
+Prefeitura Municipal de Dores do Indaiá, 30 de agosto de 2017
+
+Ronaldo Antônio Zica da Costa
+
+Prefeito Municipal
+

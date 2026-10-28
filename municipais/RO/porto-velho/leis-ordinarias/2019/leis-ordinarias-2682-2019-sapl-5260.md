@@ -1,0 +1,96 @@
+---
+titulo: "Lei nº 2.682, de 04 de novembro de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2682"
+data: "2019-11-04"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/5260"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/871/text"
+sha256_fonte: "320cf7aa2f4e858ceecb6af9941eee05650b9743ee088db0981a64cf82201c0b"
+sha256_texto: "e9bb86930f02fbd7a1597c838f1ede30779b886523de823412bda3376f1cfc77"
+capturado_em_fonte: "2026-10-21T07:21:09.871079-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 2.682, de 04 de novembro de 2019
+
+“DISPÕE SOBRE A PROIBIÇÃO DO CORTE DO FORNECIMENTO DE ÁGUA E ENERGIA ELÉTRICA PELAS CONCESSIONÁRIAS POR FALTA DE PAGAMENTO DURANTE OS FINAIS DE SEMANA E FERIADOS DENTRO DOS LIMITES DO MUNICÍPIO DE PORTO VELHO E DÁ OUTRAS PROVIDÊNCIAS”
+
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** manteve, e eu, Vereador EDWILSON NEGREIROS Presidente da Câmara Municipal, promulgo, nos termos do § 2º, do art. 72 da Lei Orgânica do Município, a seguinte  
+  
+**LEI:**
+
+
+Art. 1º.
+
+As empresas de concessão de serviço público de água e energia elétrica ficam proibidas de cortar o fornecimento de seus serviços por falta de pagamento de suas respectivas contas às sextas-feiras, sábados, domingos e feriados e no último dia útil anterior ao feriado.
+
+
+§ 1º
+
+A presente proibição de corte de serviços públicos se dará a partir das dezessete horas (17h) de quinta-feira até as 8 horas (08h) de segunda-feira.
+
+
+§ 2º
+
+O prazo para religação dos cortes será de quatro horas
+
+
+Art. 2º.
+
+As empresas ou concessionárias que infringirem o disposto no caput do artigo 1º desta Lei ficarão sujeitas a multas e outras sanções legais.
+
+
+§ 1º
+
+O valor da multa a ser aplicada às empresas, assim como as sanções previstas no caput deste artigo, serão estabelecidas pela Prefeitura.
+
+
+§ 2º
+
+Os recursos oriundos das multas ou sanções deverão ser aplicados em obras e serviços relacionados às questões energéticas e de abastecimento de água.
+
+
+§ 3º
+
+Os recursos oriundos das multas também poderão ser aplicados em todas as medidas de despesas financeiras referente ao processo de fiscalização desta Lei.
+
+
+Art. 3º.
+
+Compete à Prefeitura Municipal de Porto Velho, através de seus órgãos e/ou secretarias, a fiscalização e aplicação desta Lei.
+
+
+Parágrafo único
+
+As denúncias relacionadas às infrações cometidas em desfavor desta Lei poderão ser realizadas por intermédio de denúncias não anônimas diretamente para o Município de Porto Velho ou para a Secretaria Municipal competente indicada por essa municipalidade.
+
+
+Art. 4º.
+
+Esta lei entrará em vigor com a sua publicação.
+
+
+Art. 5º.
+
+Revogam-se todas as disposições contrárias.
+
+
+Câmara Municipal de Porto Velho, 04 de novembro de 2019.
+
+**Vereador Edwilson Negreiros**
+
+**Presidente**
+
+Projeto de Lei nº. 3.920/2019
+
+**Vereador Edwilson Negreiros – PSB**
+

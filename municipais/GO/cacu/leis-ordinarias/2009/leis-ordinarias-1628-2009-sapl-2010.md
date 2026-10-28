@@ -1,0 +1,258 @@
+---
+titulo: "Lei Ordinária nº 1.628, de 14 de dezembro de 2009"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1628"
+data: "2009-12-14"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/2010"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/393/text"
+sha256_fonte: "4decb1e94e2b2685742525f65713de4ce6e42542507507d5f940ccb628716600"
+sha256_texto: "2f063059f7dc7dbfb7e5d81d522abe90a07ca1267ad87cda2f2657bd9c7d65fa"
+capturado_em_fonte: "2026-10-27T21:36:58.081912-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.628, de 14 de dezembro de 2009
+
+Dispõe sobre normas para construção, relocação e manutenção de estradas municipais e dá outras providências
+
+
+A CÂMARA MUNICIPAL DE CAÇU, Estado de Goiás, por seus vereadores, APROVA e eu, PREFEITO MUNICIPAL, no uso das atribuições conferidas pela Lei Orgânica Municipal – LOM, SANCIONO a seguinte LEI MUNICIPAL:
+
+
+Art. 1º.
+
+As estradas a que se refere esta Lei são as que se destinam ao livre trânsito público, construídas pelo Município ou com sua autorização e conservadas pelo mesmo.
+
+
+Parágrafo único
+
+São assim classificadas as estradas tratadas por esta lei:
+
+
+I –
+
+CAW – estrada principal;
+
+
+II –
+
+Vicinal – estrada que serve de duas a cinco propriedades, acima de 105 hectares cada;
+
+
+III –
+
+Vicinal Especial – que serve a várias pequenas propriedades, até 105 hectares cada;
+
+
+IV –
+
+Ramal – serve a uma única propriedade.
+
+
+Art. 2º.
+
+Quando necessária à abertura, alargamento ou prolongamento de estradas, a Prefeitura promoverá acordo com os proprietários dos terrenos, para obter a necessária autorização, com ou sem indenização.
+
+
+Parágrafo único
+
+Não sendo possível o ajuste amigável, o Município promoverá a desapropriação por utilidade pública, nos termos da Legislação em vigor.
+
+
+Art. 3º.
+
+Na construção ou relocação das estradas, observar-se-ão os seguintes critérios:
+
+
+I –
+
+faixa de domínio igual ou superior a 20,00 (vinte metros), com plataforma mínima de 8,00 (oito) metros para pista de rolamento;
+
+
+II –
+
+rampa máxima de 13% (dez por cento), casos excepcionais, deverá ser feito estudo de viabilidade técnica;
+
+
+III –
+
+as curvas deverão ter raio igual ou superiores a 80 (oitenta) metros para a CAW – estrada principal e 50 (cinquenta) metros para as estradas vicinal e vicinal especial;
+
+
+IV –
+
+curvas em cabeça de ponte e curvas consecutivas deverão ter raio igual ou superior a cento e cinquenta metros ou estar separadas por tangente mínima de cem metros;
+
+
+V –
+
+ter o leito levantado, compactado, cascalhado, com lombadas e cacimbas para contenção das águas, conforme normas de engenharia.
+
+
+Parágrafo único
+
+As estradas vicinal, vicinal especial e ramal terão largura mínima de 7,00 (sete) metros, dispensada a construção de corredores.
+
+
+Art. 4º.
+
+Sempre que for solicitada ao Município sobre a conveniência de abertura ou modificação de traçado de estradas municipais, deverá ser instruída a solicitação com memorial, croqui, cronograma, justificativa, para aprovação e posterior autorização por esta.
+
+
+§ 1º
+
+Nenhuma estrada poderá ser aberta ou modificada sem observância desta Lei e, na omissão desta, observar-se-á a legislação estadual e federal.
+
+
+§ 2º
+
+Toda estrada aberta ou relocada por terceiro, ficará este obrigado à manutenção da mesma por três períodos hidrológicos.
+
+
+§ 3º
+
+Os traçados que atingirem Áreas de Preservação Permanente e Reserva Legal, deverão ter projeto ambiental e serem aprovados pelo Conselho Municipal do Meio Ambiente e Departamento de Engenharia deste Município.
+
+
+Art. 5º.
+
+Para alteração de traçado, dentro dos limites de sua propriedade, de qualquer estrada, deverá o respectivo proprietário requerer a necessária permissão à Prefeitura, juntando à solicitação memorial, croqui, cronograma, justificativa, explicando os benefícios, para aprovação e autorização do Município.
+
+
+Parágrafo único
+
+Concedida a permissão, o requerente fará a modificação às suas expensas, sem interromper o trânsito, não lhe assistindo direito a qualquer indenização.
+
+
+Art. 6º.
+
+A mudança de qualquer estrada será precedida do estudo de viabilidade.
+
+
+Art. 7º.
+
+Os proprietários de terrenos marginais das estradas municipais não poderão, sob qualquer pretexto, fechá-los, danificá-los, diminuir-lhe a largura, impedir ou dificultar o trânsito por qualquer meio, sob pena de multa e obrigação de retornar a via pública ao seu estado original, no prazo que lhes for concedido.
+
+
+Parágrafo único
+
+Não fazendo o infrator a recomposição, o Município a promoverá cobrando-lhe as despesas efetuadas.
+
+
+Art. 8º.
+
+Os proprietários dos terrenos marginais às vias públicas, em comum acordo com o Município, aprovarão o local de escoamento das águas de drenagem de estradas para suas propriedades, observando a legislação específica.
+
+
+§ 1º
+
+Poderá o Município, mediante justificativa técnica, promover a construção de cacimbas e/ou curvas de nível nos terrenos à jusante das estradas municipais para evitar erosão.
+
+
+§ 2º
+
+O Município deverá fazer a manutenção dos acessos às sedes das propriedades rurais, desde que o proprietário possua cadastro de produtor rural e comprove a efetiva produção no terreno.
+
+
+§ 3º
+
+Ficará sob a responsabilidade do Município a sinalização e manutenção das estradas, inclusive poda de árvores que estejam prejudicando o trânsito.
+
+
+Art. 9º.
+
+Fica o agente da obra, seja o Município ou Terceiro, obrigado a proceder o fechamento das estradas principais com cercas de arame (corredor) e o proprietário do imóvel fronteiriço responsável pela manutenção desta, sob pena de multa.
+
+
+Art. 10.
+
+Em terrenos à montante das estradas em que a vazão das águas pluviais possa vir prejudicar o leito destas, o proprietário do terreno, em parceria com o Município, deverá executar obras de arte para sanar a possível situação.
+
+
+Art. 11.
+
+É proibido, nas estradas de rodagem do Município, o transporte de madeiras, grades, roçadeiras ou qualquer outro objeto, a rastro, que danifique a estrada.
+
+
+Art. 12.
+
+Serão aplicadas multas para as seguintes situações em descumprimento desta lei:
+
+
+I –
+
+estreitar, mudar ou impedir de qualquer modo a servidão pública das estradas municipais, sem prévia licença da Prefeitura;
+
+
+II –
+
+qualquer prejuízo causado à sua trafegabilidade;
+
+
+III –
+
+colocação de colchetes e porteiras nas estradas vicinais e vicinal especial;
+
+
+IV –
+
+dificultar de qualquer forma o livre trânsito nas CAWs;
+
+
+V –
+
+impedir ou desviar o escoamento de águas pluviais das estradas municipais para os terrenos marginais, observando o disposto nesta Lei em especial no Código Civil;
+
+
+VI –
+
+arrastar madeiras, grades, roçadeiras ou qualquer outro objeto, a rastro, pelas estradas de rodagem do Município;
+
+
+VII –
+
+não proceder à manutenção das cercas confrontantes com as estradas municipais, conforme estabelecido no art. 9º;
+
+
+VIII –
+
+danificar ou arrancar marcos quilométricos e sinais de trânsito existentes nas estradas;
+
+
+IX –
+
+danificar, de qualquer modo, as estradas de rodagem.
+
+
+§ 1º
+
+Ao infrator será aplicada multa de 02 (duas) a 50 (cinquenta) UFMC – Unidade Fiscal do Município de Caçu, elevado em dobro em caso de reincidência.
+
+
+§ 2º
+
+A gradação das multas será regulamentada através de Decreto do Poder Executivo no prazo máximo de 60 (sessenta) dias, da publicação desta Lei.
+
+
+Art. 13.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Art. 14.
+
+Ficam revogados os dispositivos em contrário a presente lei.
+
+
+**Gabinete do Prefeito Municipal de Caçu/GO**, 14 de dezembro de 2009.
+
+**ANDRÉ LUIZ GUIMARÃES VIEIRA Prefeito Municipal**
+

@@ -1,0 +1,348 @@
+{
+  "preparado_em": "2026-10-27T18:18:27.406853-03:00",
+  "uf": "SE",
+  "blocos": [
+    "3:2021",
+    "4:2021",
+    "4:2020",
+    "4:2023"
+  ],
+  "capturas": [
+    {
+      "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=3&ano=2021",
+      "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=3&ano=2021",
+      "metodo": "GET",
+      "campos_publicos": [],
+      "postback": null,
+      "http": 200,
+      "cache": "estaduais/SE/_fonte/auditorias/indices-html-20261027-002/c332222804df854c44bc1dc3655d76cea655858718308491f317513601a1cead.html.gz",
+      "sha256_fonte": "c332222804df854c44bc1dc3655d76cea655858718308491f317513601a1cead",
+      "sha256_cache": "39cea77c2655a7342b94b91413124f0a9ac143202f9204f316e6253f558881c4",
+      "headers": {
+        "Cache-Control": "public, max-age=120",
+        "Content-Type": "text/html; charset=utf-8",
+        "Expires": "Tue, 27 Oct 2026 21:19:38 GMT",
+        "Last-Modified": "Tue, 27 Oct 2026 21:17:38 GMT",
+        "Vary": "*",
+        "X-Correlation-ID": "5c6c5430-3507-4a20-8ca2-8ad17b68e66a",
+        "X-Powered-By": "ASP.NET",
+        "Access-Control-Allow-Origin": "*",
+        "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+        "Date": "Tue, 27 Oct 2026 21:17:37 GMT",
+        "Connection": "close",
+        "Content-Length": "110523"
+      },
+      "capturado_em": "2026-10-27T18:17:38.148138-03:00"
+    },
+    {
+      "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=3&ano=2021",
+      "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=3&ano=2021",
+      "metodo": "POST",
+      "campos_publicos": [
+        "ctl00$ContentPlaceHolder1$ddl_ItensExibidos"
+      ],
+      "postback": "ctl00$ContentPlaceHolder1$ddl_ItensExibidos",
+      "http": 200,
+      "cache": "estaduais/SE/_fonte/auditorias/indices-html-20261027-002/a3c51b75c87cfdffbbd72c79fe7ed62223dd7c9f9b5c9623bc3df5e3c912eb80.html.gz",
+      "sha256_fonte": "a3c51b75c87cfdffbbd72c79fe7ed62223dd7c9f9b5c9623bc3df5e3c912eb80",
+      "sha256_cache": "1b9c76b129bb68f2d8f524da30702305624d57e80358d619fd7ea55e8c494210",
+      "headers": {
+        "Cache-Control": "public, max-age=120",
+        "Content-Type": "text/html; charset=utf-8",
+        "Expires": "Tue, 27 Oct 2026 21:19:39 GMT",
+        "Last-Modified": "Tue, 27 Oct 2026 21:17:39 GMT",
+        "Vary": "*",
+        "X-Correlation-ID": "97ec90b6-db7d-43e4-b2d9-0afe9c0e8e49",
+        "X-Powered-By": "ASP.NET",
+        "Access-Control-Allow-Origin": "*",
+        "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+        "Date": "Tue, 27 Oct 2026 21:17:39 GMT",
+        "Connection": "close",
+        "Content-Length": "116734"
+      },
+      "capturado_em": "2026-10-27T18:17:39.685011-03:00"
+    },
+    {
+      "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2021",
+      "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2021",
+      "metodo": "GET",
+      "campos_publicos": [],
+      "postback": null,
+      "http": 200,
+      "cache": "estaduais/SE/_fonte/auditorias/indices-html-20261027-002/854677fc2e5fb01118262a9c8484041af7ec90b66d9eae349bf05bd7bf6b17d6.html.gz",
+      "sha256_fonte": "854677fc2e5fb01118262a9c8484041af7ec90b66d9eae349bf05bd7bf6b17d6",
+      "sha256_cache": "d172fdacdeeba2a0638428cc71d205e5e13c3b2840874f4196390aa6c7bae391",
+      "headers": {
+        "Cache-Control": "public, max-age=120",
+        "Content-Type": "text/html; charset=utf-8",
+        "Expires": "Tue, 27 Oct 2026 21:19:40 GMT",
+        "Last-Modified": "Tue, 27 Oct 2026 21:17:40 GMT",
+        "Vary": "*",
+        "X-Correlation-ID": "41337bf6-3ee5-49e2-be93-92aa4719490c",
+        "X-Powered-By": "ASP.NET",
+        "Access-Control-Allow-Origin": "*",
+        "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+        "Date": "Tue, 27 Oct 2026 21:17:41 GMT",
+        "Connection": "close",
+        "Content-Length": "104382"
+      },
+      "capturado_em": "2026-10-27T18:17:40.831200-03:00"
+    },
+    {
+      "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2021",
+      "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2021",
+      "metodo": "POST",
+      "campos_publicos": [
+        "ctl00$ContentPlaceHolder1$ddl_ItensExibidos"
+      ],
+      "postback": "ctl00$ContentPlaceHolder1$ddl_ItensExibidos",
+      "http": 200,
+      "cache": "estaduais/SE/_fonte/auditorias/indices-html-20261027-002/fa42853351cda9a54fabde5dbf6da1f6b5e8916a660b379e9ebbc8813b8e4cd4.html.gz",
+      "sha256_fonte": "fa42853351cda9a54fabde5dbf6da1f6b5e8916a660b379e9ebbc8813b8e4cd4",
+      "sha256_cache": "c28f53c1610538889ddfe10b7464644c336be95e002aff2b3eb39f8a006ec846",
+      "headers": {
+        "Cache-Control": "public, max-age=120",
+        "Content-Type": "text/html; charset=utf-8",
+        "Expires": "Tue, 27 Oct 2026 21:19:41 GMT",
+        "Last-Modified": "Tue, 27 Oct 2026 21:17:41 GMT",
+        "Vary": "*",
+        "X-Correlation-ID": "0dee71ae-fe19-45e6-ba1f-732102dfbe09",
+        "X-Powered-By": "ASP.NET",
+        "Access-Control-Allow-Origin": "*",
+        "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+        "Date": "Tue, 27 Oct 2026 21:17:46 GMT",
+        "Connection": "close",
+        "Content-Length": "695745"
+      },
+      "capturado_em": "2026-10-27T18:17:46.972322-03:00"
+    },
+    {
+      "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2021",
+      "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2021",
+      "metodo": "POST",
+      "campos_publicos": [
+        "ctl00$ContentPlaceHolder1$ddl_ItensExibidos"
+      ],
+      "postback": "ctl00$ContentPlaceHolder1$lbNext",
+      "http": 200,
+      "cache": "estaduais/SE/_fonte/auditorias/indices-html-20261027-002/367bf205ba3f0da4eae3cf5543741deb6e1d6b80ac178746b7684759f70ae8d9.html.gz",
+      "sha256_fonte": "367bf205ba3f0da4eae3cf5543741deb6e1d6b80ac178746b7684759f70ae8d9",
+      "sha256_cache": "999087c54ac2acd005249e96554f7115a2e1416a43c91bd570fbe12d4ce01b0f",
+      "headers": {
+        "Cache-Control": "public, max-age=120",
+        "Content-Type": "text/html; charset=utf-8",
+        "Expires": "Tue, 27 Oct 2026 21:19:47 GMT",
+        "Last-Modified": "Tue, 27 Oct 2026 21:17:47 GMT",
+        "Vary": "*",
+        "X-Correlation-ID": "80569e01-2c65-4caf-8a0f-8cbcce69535e",
+        "X-Powered-By": "ASP.NET",
+        "Access-Control-Allow-Origin": "*",
+        "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+        "Date": "Tue, 27 Oct 2026 21:17:50 GMT",
+        "Connection": "close",
+        "Content-Length": "348030"
+      },
+      "capturado_em": "2026-10-27T18:17:50.498723-03:00"
+    },
+    {
+      "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2020",
+      "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2020",
+      "metodo": "GET",
+      "campos_publicos": [],
+      "postback": null,
+      "http": 200,
+      "cache": "estaduais/SE/_fonte/auditorias/indices-html-20261027-002/50df8d5ab965f171d680b51263d8a2735bc0feb5daf306e3d91bfc2240fcce21.html.gz",
+      "sha256_fonte": "50df8d5ab965f171d680b51263d8a2735bc0feb5daf306e3d91bfc2240fcce21",
+      "sha256_cache": "f3e15ade268e82f04c04d808f71e2f53f8eaf78da0cb8f1c11a7b73abd08fc8a",
+      "headers": {
+        "Cache-Control": "public, max-age=120",
+        "Content-Type": "text/html; charset=utf-8",
+        "Expires": "Tue, 27 Oct 2026 21:19:51 GMT",
+        "Last-Modified": "Tue, 27 Oct 2026 21:17:51 GMT",
+        "Vary": "*",
+        "X-Correlation-ID": "7678ed22-2a7d-4cd5-aab4-12aa43e59f86",
+        "X-Powered-By": "ASP.NET",
+        "Access-Control-Allow-Origin": "*",
+        "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+        "Date": "Tue, 27 Oct 2026 21:17:52 GMT",
+        "Connection": "close",
+        "Content-Length": "115543"
+      },
+      "capturado_em": "2026-10-27T18:17:51.973895-03:00"
+    },
+    {
+      "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2020",
+      "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2020",
+      "metodo": "POST",
+      "campos_publicos": [
+        "ctl00$ContentPlaceHolder1$ddl_ItensExibidos"
+      ],
+      "postback": "ctl00$ContentPlaceHolder1$ddl_ItensExibidos",
+      "http": 200,
+      "cache": "estaduais/SE/_fonte/auditorias/indices-html-20261027-002/5ce6abea48d5f693f956d9f5ea38c253e5848d33190d1821dceba40becff2e3f.html.gz",
+      "sha256_fonte": "5ce6abea48d5f693f956d9f5ea38c253e5848d33190d1821dceba40becff2e3f",
+      "sha256_cache": "bffe24b3fc52de2f2ee2e03a728dd2a713f6ab0747fcd7857af6455c41686059",
+      "headers": {
+        "Cache-Control": "public, max-age=120",
+        "Content-Type": "text/html; charset=utf-8",
+        "Expires": "Tue, 27 Oct 2026 21:19:52 GMT",
+        "Last-Modified": "Tue, 27 Oct 2026 21:17:52 GMT",
+        "Vary": "*",
+        "X-Correlation-ID": "a2197349-2012-42e7-9079-b01237b17e2d",
+        "X-Powered-By": "ASP.NET",
+        "Access-Control-Allow-Origin": "*",
+        "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+        "Date": "Tue, 27 Oct 2026 21:17:58 GMT",
+        "Connection": "close",
+        "Content-Length": "698398"
+      },
+      "capturado_em": "2026-10-27T18:17:58.581142-03:00"
+    },
+    {
+      "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2020",
+      "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2020",
+      "metodo": "POST",
+      "campos_publicos": [
+        "ctl00$ContentPlaceHolder1$ddl_ItensExibidos"
+      ],
+      "postback": "ctl00$ContentPlaceHolder1$lbNext",
+      "http": 200,
+      "cache": "estaduais/SE/_fonte/auditorias/indices-html-20261027-002/e6349d8ea121456f35e48bc5d463e9393de5ea8783b7bd2f1e14a1379bb15de2.html.gz",
+      "sha256_fonte": "e6349d8ea121456f35e48bc5d463e9393de5ea8783b7bd2f1e14a1379bb15de2",
+      "sha256_cache": "ec470e854d53dd29f876ce5cbb8b96d8112c563187cd9957d93c662211fa7bab",
+      "headers": {
+        "Cache-Control": "public, max-age=120",
+        "Content-Type": "text/html; charset=utf-8",
+        "Expires": "Tue, 27 Oct 2026 21:19:59 GMT",
+        "Last-Modified": "Tue, 27 Oct 2026 21:17:59 GMT",
+        "Vary": "*",
+        "X-Correlation-ID": "8742286c-6c31-4726-8d7b-947f41f0b33f",
+        "X-Powered-By": "ASP.NET",
+        "Access-Control-Allow-Origin": "*",
+        "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+        "Date": "Tue, 27 Oct 2026 21:18:03 GMT",
+        "Connection": "close",
+        "Content-Length": "452371"
+      },
+      "capturado_em": "2026-10-27T18:18:03.459800-03:00"
+    },
+    {
+      "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2023",
+      "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2023",
+      "metodo": "GET",
+      "campos_publicos": [],
+      "postback": null,
+      "http": 200,
+      "cache": "estaduais/SE/_fonte/auditorias/indices-html-20261027-002/642a4ad809e931374be7a501ebe022be388ec279e217daa37167e345aa2eee2a.html.gz",
+      "sha256_fonte": "642a4ad809e931374be7a501ebe022be388ec279e217daa37167e345aa2eee2a",
+      "sha256_cache": "864c95cf72b579c9c09c56fd2e4d3c0759b1e8746cfe5af3069d4261a692ae32",
+      "headers": {
+        "Cache-Control": "public, max-age=120",
+        "Content-Type": "text/html; charset=utf-8",
+        "Expires": "Tue, 27 Oct 2026 21:20:04 GMT",
+        "Last-Modified": "Tue, 27 Oct 2026 21:18:04 GMT",
+        "Vary": "*",
+        "X-Correlation-ID": "07f8673f-084f-4b2c-b078-1b08ba3291cc",
+        "X-Powered-By": "ASP.NET",
+        "Access-Control-Allow-Origin": "*",
+        "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+        "Date": "Tue, 27 Oct 2026 21:18:05 GMT",
+        "Connection": "close",
+        "Content-Length": "119834"
+      },
+      "capturado_em": "2026-10-27T18:18:05.306067-03:00"
+    },
+    {
+      "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2023",
+      "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2023",
+      "metodo": "POST",
+      "campos_publicos": [
+        "ctl00$ContentPlaceHolder1$ddl_ItensExibidos"
+      ],
+      "postback": "ctl00$ContentPlaceHolder1$ddl_ItensExibidos",
+      "http": 200,
+      "cache": "estaduais/SE/_fonte/auditorias/indices-html-20261027-002/766570ee781058ec4d138c9c6ef82609b7c6896bc7a108e2ea3c161adfd24e44.html.gz",
+      "sha256_fonte": "766570ee781058ec4d138c9c6ef82609b7c6896bc7a108e2ea3c161adfd24e44",
+      "sha256_cache": "6e21058e74a7d37069b0c89fb3143e18398e3a71e12ca75934b5186918462a5b",
+      "headers": {
+        "Cache-Control": "public, max-age=120",
+        "Content-Type": "text/html; charset=utf-8",
+        "Expires": "Tue, 27 Oct 2026 21:20:06 GMT",
+        "Last-Modified": "Tue, 27 Oct 2026 21:18:06 GMT",
+        "Vary": "*",
+        "X-Correlation-ID": "6af71160-2e8c-486e-981d-698fcffa8f7b",
+        "X-Powered-By": "ASP.NET",
+        "Access-Control-Allow-Origin": "*",
+        "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+        "Date": "Tue, 27 Oct 2026 21:18:15 GMT",
+        "Connection": "close",
+        "Content-Length": "751221"
+      },
+      "capturado_em": "2026-10-27T18:18:15.036237-03:00"
+    },
+    {
+      "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2023",
+      "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2023",
+      "metodo": "POST",
+      "campos_publicos": [
+        "ctl00$ContentPlaceHolder1$ddl_ItensExibidos"
+      ],
+      "postback": "ctl00$ContentPlaceHolder1$lbNext",
+      "http": 200,
+      "cache": "estaduais/SE/_fonte/auditorias/indices-html-20261027-002/620cc469ed336fef971ee37bd5765ee2a045c1944257bba9f3aa914e42dc581e.html.gz",
+      "sha256_fonte": "620cc469ed336fef971ee37bd5765ee2a045c1944257bba9f3aa914e42dc581e",
+      "sha256_cache": "c61ac07f85c9bb591744d931a8fdbf2e9dcb3919a0a5a984d6f157a3929c5680",
+      "headers": {
+        "Cache-Control": "public, max-age=120",
+        "Content-Type": "text/html; charset=utf-8",
+        "Expires": "Tue, 27 Oct 2026 21:20:15 GMT",
+        "Last-Modified": "Tue, 27 Oct 2026 21:18:15 GMT",
+        "Vary": "*",
+        "X-Correlation-ID": "29d9502a-66df-45cd-b5b1-53c3f340b93e",
+        "X-Powered-By": "ASP.NET",
+        "Access-Control-Allow-Origin": "*",
+        "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+        "Date": "Tue, 27 Oct 2026 21:18:26 GMT",
+        "Connection": "close",
+        "Content-Length": "728747"
+      },
+      "capturado_em": "2026-10-27T18:18:26.350408-03:00"
+    },
+    {
+      "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2023",
+      "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2023",
+      "metodo": "POST",
+      "campos_publicos": [
+        "ctl00$ContentPlaceHolder1$ddl_ItensExibidos"
+      ],
+      "postback": "ctl00$ContentPlaceHolder1$lbNext",
+      "http": 200,
+      "cache": "estaduais/SE/_fonte/auditorias/indices-html-20261027-002/25e304af285f51ce4f152a52be033273136d18168d3a565363817363deb080ff.html.gz",
+      "sha256_fonte": "25e304af285f51ce4f152a52be033273136d18168d3a565363817363deb080ff",
+      "sha256_cache": "bb082288559f6e37dca033951bda3c57d8d69490a48a3fee94a19e6708f8938e",
+      "headers": {
+        "Cache-Control": "public, max-age=120",
+        "Content-Type": "text/html; charset=utf-8",
+        "Expires": "Tue, 27 Oct 2026 21:20:27 GMT",
+        "Last-Modified": "Tue, 27 Oct 2026 21:18:27 GMT",
+        "Vary": "*",
+        "X-Correlation-ID": "61cb6562-3694-4cd3-be6e-724fcfba01f1",
+        "X-Powered-By": "ASP.NET",
+        "Access-Control-Allow-Origin": "*",
+        "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+        "Date": "Tue, 27 Oct 2026 21:18:27 GMT",
+        "Connection": "close",
+        "Content-Length": "66576"
+      },
+      "capturado_em": "2026-10-27T18:18:27.401367-03:00"
+    }
+  ],
+  "total_itens": 527,
+  "itens": "estaduais/SE/_fonte/auditorias/indices-html-20261027-002/itens.jsonl",
+  "parada_conservadora": false,
+  "erro": null,
+  "sem_MD": true,
+  "omissao_headers_sessao": true,
+  "postback_tokens_nao_gravados": true,
+  "sha256_itens": "5c6298d0539a1a709c4b2b93fda963ee34652782f22697ef0605703a000b1dbd"
+}

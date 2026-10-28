@@ -1,0 +1,134 @@
+---
+titulo: "Lei Complementar nº 100, de 26 de dezembro de 2023"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "100"
+data: "2023-12-26"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/4910"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/434/text"
+sha256_fonte: "9ee7d9016f515ab713ea4b613f14f389020e63ad05addfca5c9e15f45b372b34"
+sha256_texto: "5044a92e54e1a66ab3e7ed6d9e7aed5e063898c703a313d06b27b17354c4ec98"
+capturado_em_fonte: "2026-10-27T17:21:32.108157-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 100, de 26 de dezembro de 2023
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI COMPLEMENTAR Nº100, DE 26 DE DEZEMBRO DE 2023.
+
+
+Cria a Zona Especial de Negócios, Indústria e Serviços, (ZENIS) de Barra Mansa e dá outras providências.
+
+
+Art. 1º.
+
+Fica criada a Zona Especial de Negócios, Indústria e Serviços, ZENIS, destinada à implementação de atividades voltadas principalmente para área industrial, de comércio e serviços, através de empresas públicas ou privadas de tecnologia, empresas de criação ou desenvolvimento, empresas de indústria de bens de produção, de indústrias de bens de capital, indústrias de bens de capital, indústrias de bens de consumo, na produção convencional e de alta tecnologia, objetivando o desenvolvimento econômico sustentável do município de Barra Mansa, com vistas à produção de emprego e renda.
+
+
+Art. 2º.
+
+As Zonas Especiais de Negócios, Indústria e Serviços, ZENIS, serão estabelecidas em glebas de terra pertencentes ao município que poderão ser incorporadas ao patrimônio da Companhia Municipal de Desenvolvimento Industrial de Barra Mansa, criada pela Lei Nº5025, de 01 de dezembro de 2022.
+
+
+Art. 3º.
+
+Os imóveis destinados a abrigar Zonas Especiais de Negócios, Indústria e Serviços, ZENIS, a que se refere esta Lei, deverão ter suas poligonais georreferenciadas no Sistema de Referência Geocêntrico para a América do Sul, Datum SIRGAS 2000, UTM 23S, cartograficamente configurados por Planta de Localização ou Parcelamento de Solo, integradas com os respectivos Memoriais Descritivos, com as indicações técnicas peculiares ao ordenamento urbano e a destinação das respectivas áreas.
+
+
+Art. 4º.
+
+Os índices urbanísticos específicos para ZENIS são:
+
+Lote Mínimo - 500,00 metros quadrados;
+
+Taxa de ocupação máxima - 100%;
+
+Gabarito máximo - 6 pavimentos;
+
+Afastamento frontal mínimo - 0;
+
+Afastamento lateral mínimo - 0;
+
+Afastamento de fundos mínimo - 0;
+
+Taxa de permeabilidade - 0%;
+
+Testada mínima 20,00 metros;
+
+Estacionamento - 1 vaga para cada 100,00m² de área construída;
+
+Coeficiente de aproveitamento do terreno - 5;
+
+
+Art. 5º.
+
+Os projetos de parcelamento de solo ou de condomínios de qualquer espécie a serem implantados nas ZENIS, deverão observar as Normas Técnicas Brasileiras e as legislações pertinentes referentes ao Uso e Parcelamento do Solo Urbano, especialmente a Lei Federal Nº6766/1979 e a Lei Complementar Municipal Nº007/1992, entre outras.
+
+
+§ 1º
+
+Os parcelamentos de terra de qualquer espécie, a ser executados nas ZENIS deverão, obrigatoriamente, prever áreas destinadas ao estacionamento de veículos leves e pesados, com suas respectivas áreas de manobra e arruamento dimensionados de forma a permitir o tráfego seguro de caminhões bitrem, com raios de giro compatíveis para tal, como estabelecido nas normas do DNIT.
+
+
+§ 2º
+
+Nos parcelamentos de terra de qualquer espécie, a ser executados nas ZENIS, será exigida a instalação de hidrantes urbanos em todo o parcelamento, em quantidade e localização adequados, de forma atender a distância máxima para cada lote e demais requisitos estebalecidos em Nota Técnica específica do CBMERJ, devendo também ser devidamente dotados de reservatórios para reserva técnica para incêndio (RTI).
+
+
+Art. 6º.
+
+As edificações erigidas nas ZENIS deverão observar o disposto nas Leis Complementares Municipais Nº008/1992, Código de Edificações e Nº53/2007, Código de Execução de Projetos, de Edificações e de Obras de Barra Mansa, assim como deverão observar as Normas Técnicas Brasileiras pertinentes.
+
+
+Art. 7º.
+
+É obrigatória a apresentação de certificado de aprovação do Corpo de Bombeiros Militar do EStado do Rio de Janeiro, como condição indispensável para liberação do CERCON dos imóveis edificados em ZENIS, assim como para a liberação do ACEITE, nos casos de parcelamentos de terra.
+
+
+Art. 8º.
+
+Todos os projetos legalmente exigíveis deverão ser analisados e licenciados pela Secretaria Municipal de Planejamento Urbano, através do GTGE, Grupo Operacional para Análise de Grandes Empreendimentos, na forma da lei vigente, especialmente a Lei Complementar Municipal Nº44/2006 e o Decreto Nº8816/2017, sem prejuízo às demais legislações pertinentes.
+
+
+Art. 9º.
+
+Fica estabelecida a desafetação do bem público as glebas de terra denominadas G, GI, GII, desapropriadas pelo município de Barra Mansa da Empresa SUVIFER INDÚSTRIA E COMÉRCIO DE FERRO E AÇO, antiga EDIMETAL, nos termos do Decreto Nº7341, de 28 de maio de 2013, localizadas à rodovia Presidente Dutra, km 277,50, Saudade, com Escritura de Desapropriação Cartório do 3º Ofício, ATo 021, Livro Nº170, Folha Nº 092 - 098.
+
+
+Art. 10.
+
+O Poder Exexcutivo fica autorizado a utilizar o bem público municipal descrito no art. 9º desta Lei, para integralizar o capital social da Companhia de Desenvolvimento Industrial de Barra Mansa, sociedade de economia mista criada pela Lei 5025 de 01 dezembro de 2022, passando a integrar o seu patrimônio.
+
+
+§ 1º
+
+A área descrita no art. 9º tem por finalidade a implementação de distrito industrial e empresarial.
+
+
+§ 2º
+
+A Companhia de Desenvolvimento Industrial de Barra Mansa deverá zelar pelas áeas de sua propriedade e pelos empreendimentos que estiverem sob sua gestão.
+
+
+Art. 11.
+
+Esta Lei entrará em vigor após a sua publicação, revogadas as disposições em contrário.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 26 DE DEZEMBRO DE 2023.
+
+
+RODRIGO DRABLE COSTA
+
+PREFEITO
+

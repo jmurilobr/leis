@@ -1,0 +1,79 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 4: admite somente tabelas nativas com prova independente de células, ordem e mesclagens. Mantém todos os demais gates. Também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 422,
+  "aprovados_nestes_gates": 356,
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.birigui.sp.leg.br.prefixo.jsonl",
+      "sha256": "fb6c20444fcbb53dd8bc91b737028aeeea5d313303e74a38f892465d21c82be1",
+      "bytes": 994156
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.birigui.sp.leg.br.tipos.json",
+      "url": "https://sapl.birigui.sp.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "107e983d5703d542568cb6b71cd3142a27fa2ea1c95a64fc9d2b8bcc107d079d"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.birigui.sp.leg.br.anexos.json",
+      "sha256": "80934cb9a7c8b35437e32bb1eafd9e7e54e44cf5a6d5434c585def7ed8c33e27"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.brasilandiademinas.mg.leg.br.prefixo.jsonl",
+      "sha256": "29b87454b09594dfd823da99120d76215e0483d244fcf66f2d1fdec6a8a14b41",
+      "bytes": 12968
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.brasilandiademinas.mg.leg.br.tipos.json",
+      "url": "https://sapl.brasilandiademinas.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "993940b814413cb2a5743700e84b18dc334ef067f668123d11c049e3aab8a7af"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.brasilandiademinas.mg.leg.br.anexos.json",
+      "sha256": "042d2ba9dca98c4008c136ecad103f6534eddee6d0d8713f3ddc2cf18b1ca7ef"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.buritis.mg.leg.br.prefixo.jsonl",
+      "sha256": "cd505b7eb96da95c8350e26fddf0d3f825531f9684b778f3d68f264b03d4b999",
+      "bytes": 211095
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.buritis.mg.leg.br.tipos.json",
+      "url": "https://sapl.buritis.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "fe89ffb15dfdf83609e4f3e72ba640f66f2a932fc5497d33140841dc5588c00b"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.buritis.mg.leg.br.anexos.json",
+      "sha256": "d275423195b89a84ca33d2d7a094311ae554438b84f7d87342a8bd73f800aa4e"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.buritis.ro.leg.br.prefixo.jsonl",
+      "sha256": "726e217bf9f7bce60d73cc03ec283b8822b8dae3aff074a6e72f298413924ee5",
+      "bytes": 3690
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.buritis.ro.leg.br.tipos.json",
+      "url": "https://sapl.buritis.ro.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "bfdc6ddc04233add3aedf49c5d005f21e6df0d667d200e3f75352e564a384598"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.buritis.ro.leg.br.anexos.json",
+      "sha256": "a7c8057f4fb2a33609d53aaed16f088a8c6d47c5fc36096a3083051c2c96a660"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.cabeceiragrande.mg.leg.br.prefixo.jsonl",
+      "sha256": "c2839d3d674147fb0dad7dae91d90054f4b95282b8152997788ada279b88baf8",
+      "bytes": 153868
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.cabeceiragrande.mg.leg.br.tipos.json",
+      "url": "https://sapl.cabeceiragrande.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "5da99687dc8f4d31d9b2ba38f739028b830872fc5173955cfb3da29c56dfa0ba"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/sapl.cabeceiragrande.mg.leg.br.anexos.json",
+      "sha256": "1d725df888677d510e8d317f79d8095076e607bb1110903cf0d44b542b57431e"
+    }
+  ],
+  "script_sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

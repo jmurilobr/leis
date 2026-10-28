@@ -1,0 +1,637 @@
+---
+titulo: "Lei Ordinária nº 2.841, de 05 de dezembro de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2841"
+data: "2023-12-05"
+municipio: "Clevelândia"
+uf: "PR"
+codigo_ibge: "4105706"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.clevelandia.pr.leg.br/norma/12"
+fonte_texto: "https://sapl.clevelandia.pr.leg.br/ta/12/text"
+sha256_fonte: "7b7ad430438863b43d911c4b186f9ec80f09a769459db9e36314351861814973"
+sha256_texto: "f8d28d682e9c110c6b829095148339c00a248398a6019a49da4d724ebf4c4824"
+capturado_em_fonte: "2026-10-27T22:49:12.817661-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.841, de 05 de dezembro de 2023
+
+**LEI Nº 2.841/2023**
+
+Dispõe sobre os componentes do Município de Clevelândia, Estado do Paraná, do Sistema Nacional de Segurança Alimentar e Nutricional - SISAN, sendo o Conselho Municipal de Segurança Alimentar e Nutricional - CONSEA do Município de Clevelândia, a Câmara Intersetorial de Segurança Alimentar e Nutricional - CAISAN e a Conferência Municipal de Segurança Alimentar e Nutricional, conforme especifica e dá outras providências.
+
+
+#### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Esta Lei dispõe sobre os componentes municipais do Sistema Nacional de Segurança Alimentar e Nutricional - SISAN, bem como define parâmetros para elaboração e implementação do Plano Municipal de Segurança Alimentar e Nutricional, em consonância com os princípios e diretrizes estabelecidos pela Lei Federal nº 11.346, de 15 de setembro de 2006, Decreto Federal nº 6.272, de 23 de novembro de 2007, Decreto Federal nº 6.273, de 23 de novembro de 2007, e o Decreto Federal nº 7.272, de 25 de agosto de 2010, com o propósito de garantir o Direito Humano à Alimentação Adequada.
+
+
+Art. 2º.
+
+A alimentação adequada é direito básico do ser humano, indispensável à realização dos seus direitos consagrados na Constituição Federal e Estadual, cabendo ao poder público adotar as políticas e ações que se façam necessárias para respeitar, proteger, promover e prover o Direito Humano à Alimentação Adequada e Segurança Alimentar e Nutricional de toda a população.
+
+
+§ 1º
+
+A adoção dessas políticas e ações, deverá levar em conta as dimensões ambientais, culturais, econômicas, regionais e sociais do Município, com prioridade para as regiões e populações mais vulneráveis.
+
+
+§ 2º
+
+É dever do poder público, além do previsto no caput do presente artigo, avaliar, fiscalizar e monitorar a realização do Direito Humano à Alimentação Adequada, bem como criar e fortalecer os mecanismos para sua exigibilidade.
+
+
+Art. 3º.
+
+A Segurança Alimentar e Nutricional consiste na realização do direito de todos ao acesso regular e permanente a alimentos de qualidade, em quantidade suficiente, sem comprometer o acesso a outras necessidades essenciais, tendo como base práticas alimentares promotoras de saúde que respeitem a diversidade cultural e que sejam ambiental, cultural, econômica e socialmente sustentáveis.
+
+
+Parágrafo único
+
+A Segurança Alimentar e Nutricional inclui a realização do direito de todas as pessoas terem acesso à orientação que contribua para o enfrentamento ao sobrepeso, a obesidade, contaminação de alimentos e mais doenças consequentes da alimentação inadequada.
+
+
+Art. 4º.
+
+A Segurança Alimentar e Nutricional abrange:
+
+
+I –
+
+a ampliação das condições de oferta acessível de alimentos, por meio do incremento de produção, em especial na agricultura tradicional e familiar, no processamento, na industrialização, na comercialização, no abastecimento e na distribuição, nos recursos de água, bem como das medidas que mitiguem o risco de escassez de água potável, alcançando também a geração de emprego e a redistribuição da renda, como fatores de ascensão social;
+
+
+II –
+
+a conservação da biodiversidade e a utilização sustentável dos recursos naturais;
+
+
+III –
+
+a promoção da saúde, da nutrição e da alimentação da população, incluindo-se grupos populacionais específicos e populações em situação de vulnerabilidade social;
+
+
+IV –
+
+a garantia da qualidade biológica, sanitária, nutricional e tecnológica dos alimentos consumidos pela população, bem como seu aproveitamento, promovendo a sintonia entre instituições com responsabilidades afins para que estimulem práticas e ações alimentares e estilos de vida saudáveis;
+
+
+V –
+
+a produção de conhecimentos e informações úteis à saúde alimentar, promovendo seu amplo acesso e eficaz disseminação para toda a população;
+
+
+VI –
+
+a implementação de políticas públicas, de estratégias sustentáveis e participativas de produção, comercialização e consumo de alimentos, respeitando-se as múltiplas características territoriais e étnico culturais do Município;
+
+
+VII –
+
+a adoção de urgentes correções quanto aos controles públicos sobre qualidade nutricional dos alimentos, quanto a tolerância com maus hábitos alimentares, quanto a desinformação sobre saúde alimentar vigente na sociedade em geral e nos ambientes sob gestão direta e indireta do Município, quanto a falta de sintonia entre as ações das diversas áreas com responsabilidades afins, como educação, saúde, publicidade, pesquisa estimulada e ou apoiada por entes públicos, produção estimulada de alimentos mediante critérios fundamentados, dentre outros.
+
+
+Art. 5º.
+
+consecução do Direito Humano à Alimentação Adequada e da Segurança Alimentar e Nutricional, requer o respeito à soberania do Município sobre a produção e o consumo de alimentos.
+
+
+Art. 6º.
+
+O Município de Clevelândia deve empenhar-se na promoção de cooperação técnica com o Governo Estadual e com os demais municípios do Estado do Paraná, contribuindo assim, para a realização do Direito Humano à Alimentação Adequada.
+
+
+#### CAPÍTULO II — DOS COMPONENTES MUNICIPAIS DO SISTEMA NACIONAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL
+
+
+Art. 7º.
+
+A consecução do Direito Humano à Alimentação Adequada e da Segurança Alimentar e Nutricional da população far-se-á por meio do SISAN, integrado, no Município de Clevelândia, por um conjunto de órgãos e entidades afetas à Segurança Alimentar e Nutricional.
+
+
+Art. 8º.
+
+O SISAN reger-se-á pelos seguintes princípios e diretrizes dispostos na Lei 11.346 de setembro de 2006.
+
+
+Art. 9º.
+
+São componentes municipais do SISAN:
+
+
+I –
+
+A Conferência Municipal de Segurança Alimentar e Nutricional, instância responsável pela indicação ao CONSEA Municipal das diretrizes e prioridades da Política e do Plano Municipal de Segurança Alimentar e Nutricional, bem como pela avaliação do SISAN no âmbito do município;
+
+
+II –
+
+o Conselho Municipal de Segurança Alimentar e Nutricional – CONSEA;
+
+
+III –
+
+a Câmara Intersetorial Municipal de Segurança Alimentar e Nutricional - CAISAN Municipal - integrada por Secretários Municipais responsáveis pelas pastas afetas à consecução da Segurança Alimentar e Nutricional, com as seguintes atribuições, dentre outras:
+
+
+a)
+
+elaborar, considerando as especificidades locais, o Plano Municipal de Segurança Alimentar e Nutricional, observando os requisitos, as dimensões, as diretrizes e os conteúdos expostos no Decreto Federal nº 7272/2010, bem como os demais dispositivos do marco legal vigente, as diretrizes emanadas da Conferência Municipal de Segurança Alimentar e Nutricional e do CONSEA Municipal, indicando diretrizes, metas, fontes de recursos e os instrumentos de acompanhamento, monitoramento e avaliação de sua implementação;
+
+
+b)
+
+monitorar e avaliar a execução da Política e do Plano.
+
+
+IV –
+
+os órgãos e entidades de Segurança Alimentar e Nutricional, instituições privadas, com ou sem fins lucrativos, que manifestem interesse na adesão e que respeitem os critérios, princípios e diretrizes do SISAN, nos termos regulamentado pela Câmara Interministerial de Segurança Alimentar e Nutricional - CAISAN;
+
+
+#### CAPÍTULO III — DO CONSELHO MUNICIPAL SEGURANÇA ALIMENTAR E NUTRICIONAL – CONSEA
+
+
+Art. 10.
+
+O Conselho Municipal de Segurança Alimentar e Nutricional, órgão de assessoramento imediato ao Prefeito de Clevelândia, integra o Sistema Nacional de Segurança Alimentar e Nutricional – SISAN, instituído pela Lei Nº 11.346, de 15 de setembro, de 2006.
+
+
+Art. 11.
+
+Compete ao CONSEA Municipal:
+
+
+I –
+
+organizar e coordenar, em articulação com a CAISAN do Município, a Conferência Municipal de Segurança Alimentar e Nutricional convocada pelo Chefe do Poder Executivo, com periodicidade não superior a quatro anos;
+
+
+II –
+
+definir os parâmetros de composição, organização e funcionamento da Conferência;
+
+
+III –
+
+propor ao Poder Executivo, considerando as deliberações da Conferência Municipal de SAN, as diretrizes e as prioridades do Plano Municipal de SAN, incluindo-se os requisitos orçamentários para sua consecução;
+
+
+IV –
+
+articular, acompanhar e monitorar, em regime de colaboração com os demais integrantes do Sistema, a implementação e a convergência de ações inerentes ao Plano Municipal de SAN;
+
+
+V –
+
+mobilizar e apoiar entidades da sociedade civil na discussão e na implementação de ações públicas de Segurança Alimentar e Nutricional;
+
+
+VI –
+
+estimular a ampliação e o aperfeiçoamento dos mecanismos de participação e controle social nas ações integrantes da Política e do Plano Municipal de Segurança Alimentar e Nutricional;
+
+
+VII –
+
+zelar pela realização do Direito Humano à Alimentação Adequada e pela sua efetividade;
+
+
+VIII –
+
+manter articulação permanente com outros conselhos municipais de Segurança Alimentar e Nutricional, com o Conselho Estadual de Segurança Alimentar e Nutricional e com o Conselho Nacional de Segurança Alimentar e Nutricional relativos às ações associadas à Política e ao Plano Nacional de Segurança Alimentar e Nutricional.
+
+
+IX –
+
+elaborar e aprovar o seu regimento interno.
+
+
+§ 1º
+
+O CONSEA Municipal manterá diálogo permanente com a Câmara Intersetorial Municipal de Segurança Alimentar e Nutricional, para proposição das diretrizes e prioridades da Política e do Plano Municipal de Segurança Alimentar e Nutricional, inclusive quanto aos requisitos orçamentários para sua consecução.
+
+
+§ 2º
+
+Na ausência de convocação por parte do Chefe do Poder Executivo no prazo regulamentar, a Conferência Municipal de Segurança Alimentar e Nutricional será convocada pelo CONSEA Municipal.
+
+
+Art. 12.
+
+O CONSEA Municipal será composto por 12 (doze) membros, titulares e suplentes, dos quais dois terços de representantes da sociedade civil, cabendo a representante deste segmento exercer a presidência do conselho, e um terço de representantes governamentais,
+
+
+§ 1º
+
+A representação governamental no CONSEA Municipal será exercida pelos seguintes membros titulares:
+
+
+I –
+
+os Secretários Municipais:
+
+
+a)
+
+Secretaria Municipal de Agricultura
+
+
+b)
+
+Secretaria Municipal de Saúde e Bem Estar
+
+
+c)
+
+Secretaria Municipal de Assistência Social;
+
+
+d)
+
+Secretaria Municipal de Educação, Cultura e Esporte;
+
+
+§ 2º
+
+Os representantes da sociedade civil serão escolhidos conforme critérios de indicação estabelecidos pelas Conferências Estadual e Municipal de Segurança Alimentar e Nutricional.
+
+
+§ 3º
+
+Poderão compor o CONSEA Municipal, na qualidade de observadores, representantes de conselhos afins, de organismos internacionais e do Ministério Público, indicados pelos titulares das respectivas instituições, mediante convite formulado pelo Presidente do CONSEA Municipal.
+
+
+Art. 13.
+
+Os representantes da sociedade civil, titulares e suplentes, bem como os suplentes da representação governamental, serão designados pelo Prefeito.
+
+
+Parágrafo único
+
+Os representantes da sociedade civil terão mandato de dois anos, permitida a recondução.
+
+
+Art. 14.
+
+O CONSEA Municipal, previamente ao término do mandato dos conselheiros representantes da sociedade civil, constituirá comissão, composta por, pelo menos, 03 membros, dos quais 1/3 será representante da sociedade civil, incluído o Presidente do Conselho, e os demais serão representantes do Governo, incluído o Secretário-Geral.
+
+
+§ 1º
+
+Cabe à comissão elaborar lista com proposta de representação da sociedade civil que comporá o CONSEA Municipal, a ser submetida ao Prefeito, observados os critérios de representação deliberados pela Conferência Estadual e Municipal de Segurança Alimentar e Nutricional.
+
+
+§ 2º
+
+A comissão terá prazo de quarenta e cinco dias, após a realização da Conferência Estadual de Segurança Alimentar e Nutricional ou ao término do mandato dos conselheiros, para apresentar proposta de representação da sociedade civil no CONSEA Municipal ao Chefe do Poder Executivo;
+
+
+Art. 15.
+
+O CONSEA Municipal tem a seguinte organização:
+
+
+I –
+
+Plenário;
+
+
+II –
+
+Secretaria Geral;
+
+
+III –
+
+Secretaria Executiva;
+
+
+IV –
+
+Comissões Temáticas.
+
+
+Art. 16.
+
+O CONSEA Municipal será presidido por um representante da sociedade civil, indicado pelo Conselho, entre seus membros, e designado pelo Prefeito.
+
+
+Parágrafo único
+
+No prazo de trinta dias, após a designação dos conselheiros, o Secretário-Geral convocará reunião, durante a qual será indicado o novo Presidente do CONSEA Municipal.
+
+
+Art. 17.
+
+Ao Presidente incumbe:
+
+
+I –
+
+zelar pelo cumprimento das deliberações do CONSEA Municipal;
+
+
+II –
+
+representar externamente o CONSEA Municipal;
+
+
+III –
+
+convocar, presidir e coordenar as reuniões do CONSEA Municipal;
+
+
+IV –
+
+manter interlocução permanente com a Câmara Intersetorial de Segurança Alimentar e Nutricional;
+
+
+V –
+
+convocar reuniões extraordinárias, juntamente com o Secretário Geral; e
+
+
+VI –
+
+propor e instalar comissões temáticas e grupos de trabalho, designando o coordenador e os demais membros, bem como estabelecendo prazo para apresentação de resultados, conforme deliberado pelo CONSEA Municipal.
+
+
+Art. 18.
+
+Compete à Secretaria Geral assessorar o CONSEA Municipal.
+
+
+Parágrafo único
+
+O Secretário Municipal de Saúde e Bem Estar será o Secretário-Geral do CONSEA Municipal.
+
+
+Art. 19.
+
+Ao Secretário-Geral incumbe:
+
+
+I –
+
+submeter à análise da Câmara Intersetorial de Segurança Alimentar e Nutricional as propostas do CONSEA Municipal de diretrizes e prioridades da Política e do Plano Estadual de Segurança Alimentar e Nutricional, incluindo-se os requisitos orçamentários para sua consecução;
+
+
+II –
+
+manter o CONSEA Municipal informado sobre a apreciação, pela Câmara Intersetorial de Segurança Alimentar e Nutricional, das propostas encaminhadas por aquele Conselho;
+
+
+III –
+
+acompanhar a análise e o encaminhamento das propostas e recomendações aprovadas pelo CONSEA Municipal nas instâncias responsáveis, apresentando relatório ao Conselho;
+
+
+IV –
+
+promover a integração das ações municipais com as ações previstas nos Planos Nacional e Estadual de Segurança Alimentar e Nutricional;
+
+
+V –
+
+instituir grupos de trabalho intersecretariais para estudar e propor ações governamentais integradas relacionadas ao Plano Municipal de Segurança Alimentar e Nutricional;
+
+
+VI –
+
+substituir o Presidente em seus impedimentos;
+
+
+VII –
+
+presidir a Câmara Intersetorial de Segurança Alimentar e Nutricional.
+
+
+Art. 20.
+
+Para o cumprimento de suas funções, o CONSEA Municipal contará, em sua estrutura organizacional, com uma Secretaria Executiva, que dará suporte técnico e administrativo ao seu funcionamento.
+
+
+Parágrafo único
+
+Os recursos orçamentários e financeiros necessários à estruturação e funcionamento da Secretaria Executiva serão consignados diretamente no orçamento do Governo Municipal.
+
+
+Art. 21.
+
+Compete à Secretaria Executiva:
+
+
+I –
+
+assistir o Presidente e o Secretário Geral do CONSEA Municipal, no âmbito de suas atribuições;
+
+
+II –
+
+estabelecer comunicação permanente com os conselhos municipais de Segurança Alimentar e Nutricional e com o CONSEA Nacional, mantendo-os informados e orientados acerca das atividades e propostas do CONSEA Municipal;
+
+
+III –
+
+assessorar e assistir o Presidente do CONSEA Municipal em seu relacionamento com a Câmara Intersetorial de Segurança Alimentar e Nutricional, órgãos da administração pública, organizações da sociedade civil; e
+
+
+IV –
+
+subsidiar as comissões temáticas, grupos de trabalho e conselheiros com informações e estudos, visando auxiliar a formulação e análise das propostas apreciadas pelo CONSEA Municipal.
+
+
+Art. 22.
+
+Incumbe ao Secretário Executivo do CONSEA Municipal dirigir, coordenar e orientar o planejamento, a execução e avaliação das atividades da Secretaria Executiva, sem prejuízo de outras atribuições que lhes forem cometidas pelo Presidente e pelo Secretário Geral do Conselho.
+
+
+Art. 23.
+
+Para o desempenho de suas atribuições, a Secretaria-Executiva contará com estrutura específica, nos termos estabelecidos em decreto, que disporá sobre os quantitativos de cargos em comissão e funções de confiança para essa finalidade.
+
+
+Art. 24.
+
+Poderão participar das reuniões do CONSEA Municipal, a convite de seu presidente, representantes de outros órgãos ou entidades públicas, municipais, estaduais, nacionais e internacionais, bem como pessoas que representem a sociedade civil, cuja participação, de acordo com a pauta da reunião, seja justificável.
+
+
+Art. 25.
+
+O CONSEA Municipal contará com comissões temáticas de caráter permanente, que prepararão as propostas a serem por ele apreciadas, e grupos de trabalho, de caráter temporário, para estudar e propor medidas específicas no seu âmbito de atuação.
+
+
+Art. 26.
+
+As requisições de pessoal para ter exercício na Secretaria-Executiva do CONSEA Municipal serão feitas por intermédio da Prefeitura.
+
+
+Art. 27.
+
+O desempenho de função na Secretaria-Executiva do CONSEA Municipal constitui, para o militar, atividade de natureza militar e serviço relevante e, para o pessoal civil, serviço relevante e título de merecimento, para todos os efeitos da vida funcional.
+
+
+#### CAPÍTULO IV — DA CÂMARA MUNICIPAL INTERSETORIAL DE SEGURANÇA ALIMENTAR E NUTRICIONAL - CAISAN
+
+
+Art. 28.
+
+Fica criada a Câmara Municipal Intersetorial de Segurança Alimentar e Nutricional - CAISAN do Município de Clevelândia, no âmbito do Sistema Nacional de Segurança Alimentar e Nutricional - SISAN, com a finalidade de promover a articulação e a integração dos órgãos, entidades e ações da Administração Pública Municipal afetos à área de Segurança Alimentar e Nutricional, com as seguintes competências:
+
+
+I –
+
+elaborar, a partir das diretrizes emanadas do CONSEA, a Política e o Plano Municipal de Segurança Alimentar e Nutricional, indicando diretrizes, metas e fontes de recursos, bem como instrumentos de acompanhamento, monitoramento e avaliação de sua implementação;
+
+
+II –
+
+coordenar a execução da Política e do Plano Municipal de Segurança Alimentar e Nutricional, mediante interlocução permanente com o Conselho Municipal de Segurança Alimentar e Nutricional e com os órgãos executores de ações e programas de Segurança Alimentar e Nutricional;
+
+
+III –
+
+apresentar relatórios e informações ao Conselho Municipal de Segurança Alimentar e Nutricional, necessários ao acompanhamento e monitoramento do Plano Municipal de Segurança Alimentar e Nutricional;
+
+
+IV –
+
+monitorar e avaliar os resultados e impactos da Política e do Plano Municipal de Segurança Alimentar e Nutricional;
+
+
+V –
+
+participar do fórum bipartite, bem como do fórum tripartite, para interlocução e pactuação com a Câmara Estadual Intersetorial de Segurança Alimentar e Nutricional e a Câmara Interministerial de Segurança Alimentar e Nutricional sobre o Pacto de Gestão do Direito Humano à Alimentação Adequada - DHAA (PGDHAA) e mecanismos de implementação dos planos de Segurança Alimentar e Nutricional;
+
+
+VI –
+
+solicitar informações de quaisquer órgãos da Administração direta ou indireta do Poder Executivo Municipal para o bom desempenho de suas atribuições.
+
+
+VII –
+
+assegurar o acompanhamento da análise e encaminhamento das recomendações do CONSEA pelos órgãos de governo que compõem a CAISAN Municipal apresentando relatórios periódicos;
+
+
+VIII –
+
+elaborar e aprovar o seu regimento interno em consonância com a Lei Federal nº 11.346, de 15 de setembro de 2006 e os Decretos Federais nº 6.272 e nº 6.273, ambos de 23 de novembro de 2001 e o Decreto Federal nº 7.272, de 25 de agosto de 2010.
+
+
+Art. 29.
+
+A Política Municipal de Segurança Alimentar e Nutricional será implementada por meio do Plano Municipal de Segurança Alimentar e Nutricional, a ser construído intersetorialmente pela CAISAN, com base nas prioridades estabelecidas pelo CONSEA, a partir de deliberações das Conferências Nacional, Estadual e Municipal de Segurança Alimentar e Nutricional.
+
+
+Parágrafo único
+
+O Plano Municipal de Segurança Alimentar e Nutricional deverá:
+
+
+I –
+
+conter análise da situação nacional de Segurança Alimentar e Nutricional;
+
+
+II –
+
+ser quadrienal e ter vigência correspondente ao plano plurianual;
+
+
+III –
+
+dispor sobre os temas previstos no parágrafo único, do art. 22, do Decreto Federal nº 7.272/2010, entre outros temas apontados pelo CONSEA e pela Conferência Municipal de Segurança Alimentar e Nutricional;
+
+
+IV –
+
+explicitar as responsabilidades dos órgãos e entidades afetas à Segurança Alimentar e Nutricional;
+
+
+V –
+
+incorporar estratégias territoriais e intersetoriais e visões articuladas das demandas das populações, com atenção para as especificidades dos diversos grupos populacionais em situação de vulnerabilidade e de Insegurança Alimentar e Nutricional, respeitando a diversidade social, cultural, ambiental, étnico-racial e a equidade de gênero;
+
+
+VI –
+
+definir seus mecanismos de monitoramento e avaliação;
+
+
+VII –
+
+ser revisado a cada dois anos, com base nas orientações da Câmara Interministerial de Segurança Alimentar e Nutricional, nas propostas do CONSEA e no monitoramento da sua execução.
+
+
+Art. 30.
+
+A programação e a execução orçamentária e financeira dos programas e ações que integram a Política e o Plano Municipal de Segurança Alimentar e Nutricional é de responsabilidade dos órgãos e entidades competentes conforme a natureza temática a que se referem, observadas as respectivas competências exclusivas e as demais disposições da legislação aplicável.
+
+
+Art. 31.
+
+A Câmara Intersetorial de Segurança Alimentar e Nutricional - CAISAN será integrada pelas seguintes Secretarias:
+
+
+I –
+
+Secretaria Municipal de Agricultura;
+
+
+II –
+
+Secretaria Municipal de Assistência Social;
+
+
+III –
+
+Secretaria Municipal de Educação, Cultura e Esporte;
+
+
+IV –
+
+Secretaria Municipal de Meio Ambiente e Recursos Hídricos;
+
+
+V –
+
+Secretaria Municipal de Saúde e Bem-estar;
+
+
+Parágrafo único
+
+A CAISAN será presidida pelo Secretário Municipal de Agricultura e os Secretários Municipais das demais pastas ficam automaticamente nomeados como membros da CAISAN.
+
+
+Art. 32.
+
+A CAISAN poderá instituir Comitês Técnicos com a atribuição de proceder à prévia análise de ações específicas.
+
+
+Art. 33.
+
+Esta Lei poderá ser regulamentada por decreto.
+
+
+Art. 34.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 35.
+
+Revogam-se as disposições em contrário, especialmente a Lei Muncipal n° 2.374/2011.
+
+
+**GABINETE DA PREFEITA MUNICIPAL DE CLEVELÂNDIA, ESTADO DO PARANÁ, EM 05 DE DEZEMBRO DE 2023.**
+

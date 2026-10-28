@@ -1,0 +1,203 @@
+---
+titulo: "Lei Ordinária nº 6.019, de 27 de dezembro de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "6019"
+data: "2023-12-27"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/5128"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/465/text"
+sha256_fonte: "efdb0204986df67e3a444bd427ba6cbe555f1d5b2d0d4e28a31aa969db421106"
+sha256_texto: "6e9dca787c91032176037a6dbf8a6bb3166f3f329fa0b544a0053247dbcc3111"
+capturado_em_fonte: "2026-10-27T17:20:44.791406-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 6.019, de 27 de dezembro de 2023
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU PROMULGO A SEGUINTE:
+
+
+LEI Nº 6.019, DE 27 DE DEZEMBRO DE 2023.
+
+
+Cria o Serviço Voluntário de Capelania Escolar nas unidades da rede pública municipal de ensino.
+
+
+Art. 1º.
+
+Fica criado o Serviço Voluntário de Capelania Escolar nas unidades da rede pública municipal de ensino.
+
+
+§ 1º
+
+Para os fins desta Lei, considera-se Serviço Voluntário de Capelania Escolar o serviço de assistência religiosa de apoio espiritual comprometida com o ser humano de forma integral, o qual abrangerá corpo, emoções, intelecto e espírito, promovendo orientação e encorajamento por meio de ações preventivas, treinamentos, cursos, ações comunitárias, participação em projetos didático-pedagógicos, aconselhamentos e visitas nos momentos de crise na vida dos alunos, que envolvam enfermidades, abuso, violência, luto, abandono, entre outros.
+
+
+§ 2º
+
+O Serviço de que trata esta Lei é voltado para todos os agentes do processo educativo e poderá ser exercido por qualquer pessoa que possua os requisitos previstos no art. 2º desta Lei.
+
+
+Art. 2º.
+
+O Serviço Voluntário de Capelania Escolar será desempenhado por capelão escolar ou assistente em capelania escolar, que deverá:
+
+
+I –
+
+ser membro de instituição religiosa sediada no Município de Barra Mansa por mais de 2 (dois) anos; e
+
+
+II –
+
+possuir curso de formação, expedido por entidade representativa estadual ou nacional, de:
+
+
+a)
+
+capelania escolar, devidamente certificado, com o mínimo de 180 (cento e oitenta) horas; ou
+
+
+b)
+
+assistente em capelania escolar, com o mínimo de 16 (dezesseis) horas.
+
+
+§ 1º
+
+Além do curso de formação, o capelão escolar ou assistente em Capelania escolar deverá atender aos seguintes requisitos:
+
+
+I –
+
+ser vocacionado e possuir aptidão para o exercício do voluntariado religioso e espiritual;
+
+
+II –
+
+ter conduta ilibada e excelente reputação; e
+
+
+III –
+
+ser voluntário.
+
+
+§ 2º
+
+O Serviço Voluntário de Capelania Escolar não poderá estar vinculado a nenhuma religião específica, devendo aceitar representantes dos diferentes credos existentes no País, conforme o disposto no art. 5º, incs. VI e VII, da Constituição Federal de 1988.
+
+
+Art. 3º.
+
+O Serviço Voluntário de Capelania Escolar será exercido mediante a celebração de termo de adesão assinado entre a instituição da rede pública municipal de ensino e os prestadores de serviços voluntários, conforme o disposto na Lei Federal nº 9.608, de 18 de fevereiro de 1998, e alterações posteriores.
+
+
+Art. 4º.
+
+O Serviço Voluntário de Capelania Escolar ficará subordinado à direção da instituição da rede pública municipal de ensino, cabendo ao diretor analisar as propostas que serão formalizadas pelos candidatos ao Serviço criado por esta Lei.
+
+
+Parágrafo único
+
+As propostas formalizadas deverão ser protocoladas na direção de cada instituição de ensino, contendo os seguintes itens:
+
+
+I –
+
+currículo do candidato a capelão escolar ou assistente em capelania escolar;
+
+
+II –
+
+certificado de conclusão de curso na área específica;
+
+
+III –
+
+certidão negativa criminal e civil do candidato;
+
+
+IV –
+
+carta de recomendação registrada em cartório da instituição religiosa na qual o candidato é membro efetivo e atuante; e
+
+
+V –
+
+programa de trabalho voltado às necessidades da instituição de ensino.
+
+
+Art. 5º.
+
+O capelão escolar ou assistente em capelania escolar deverá desenvolver, prioritariamente, com apoio da direção e do conselho escolar de cada unidade educacional, as seguintes atividades:
+
+
+I –
+
+ações que promovam a cidadania e os valores éticos e culturais;
+
+
+II –
+
+projetos que incentivem a integração social da criança, adolescente ou jovem e a convivência harmoniosa entre os diferentes, sem discriminação de cor, raça, credo, classe social, sexo ou opinião;
+
+
+III –
+
+visitação de enfermos em hospitais e lares sempre que solicitado;
+
+
+IV –
+
+acompanhamento de alunos e familiares em situações de luto, bem como em respectivos velórios e sepultamentos;
+
+
+V –
+
+aconselhamento aos alunos, familiares, docentes e colaboradores;
+
+
+VI –
+
+realização de palestras com a finalidade de discussão sobre os problemas encontrados no cotidiano dos alunos, como enfermidades, abandono, bullying, drogas lícitas e ilícitas, divórcio, depressão, exclusão e inclusão social, luto, redes sociais, relacionamento entre pais e filhos, gravidez, aborto, doenças sexualmente transmissíveis (DSTs), abuso sexual, suicídio, violência, ansiedade e outros;
+
+
+VII –
+
+promoção e organização de momentos devocionais periódicos com alunos e corpo administrativo;
+
+
+VIII –
+
+planejamento de atividades em datas comemorativas, tais como Páscoa, dia das mães, dia dos pais, dia das crianças e dia dos professores, bem como comemorações cívicas e formaturas, entre outras; e
+
+
+IX –
+
+organização e acompanhamento de passeios e ações educativas e culturais fora do ambiente escolar.
+
+
+Art. 6º.
+
+As entidades públicas e privadas poderão contribuir com subsídios e recursos humanos e materiais para a execução, o acompanhamento e a avaliação das ações do Serviço Voluntário de Capelania Escolar, por meio da celebração de acordos, convênios ou parcerias.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+CÂMARA MUNICIPAL DE BARRA MANSA, 27 DE DEZEMBRO DE 2023.
+
+
+PAULO SANDRO SOARES  
+PRESIDENTE
+

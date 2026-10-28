@@ -1,0 +1,338 @@
+---
+titulo: "04 - Lei Ordinária nº 16, de 25 de abril de 1962"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "16"
+data: "1962-04-25"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/471"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/460/text"
+sha256_fonte: "c97090762141ad8134b8851e0724e86d55b3181df2647e2dbbaff889f6407c66"
+sha256_texto: "b2acde1aacb3af0d688ee3b2601813f62fb776f5ca8b9e5a914e752fd5cae656"
+capturado_em_fonte: "2026-10-28T09:37:25.670537-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 16, de 25 de abril de 1962
+
+Cria serviço rodoviário municipal (S.R.M.) e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou e, Eu Prefeito Municipal sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Fica criado o serviço rodoviário municipal, (S.R.M.) diretamente subordinada ao Prefeito, e com autonomia administrativa e financeira nos termos da presente lei:
+
+
+#### CAPÍTULO I
+
+
+Art. 2º.
+
+Ao S.R.M compete:
+
+
+a)
+
+Elaborar o plano rodoviário e proceder a sua revisão, quando necessário em harmonia com os planos rodoviários estadual nacional.
+
+
+b)
+
+Dar execução sistemática a êsse plano, efetuando ou fiscalizando todos os serviços técnicos e administrativos concernentes o estudos, projetos, especificações orçamentos, locações, construções e melhoramentos das rodovias municipais;
+
+
+c)
+
+Aplicar integralmente em estradas de rodagem;
+
+
+1
+
+A quota que lhe couber no fundo rodoviário nacional;
+
+
+2
+
+O produto das operações de créditos realizadas com garantia da receita acima referida;
+
+
+d)
+
+Conservar permanentemente em estradas de rodagem;
+
+
+e)
+
+Exercer a Polícia do tráfego nas rodovias municipais nos têrmos da legislação em vigor em colaboração com demais , em vigor e em colaboração como, digo, autoridades estaduais e federais;
+
+
+f)
+
+Autorizar a fiscalização e exploração dos serviços de transportes coletivos nas rodovias municipais, e nos têrmos da legislação em vigor e em colaboração com o D.E.R/PR;
+
+
+g)
+
+Conceder licença para colocação de postes, anúncios e acessos a postos de gasolina e outras utilizações compatíveis com o local, na faixa de domínio das rodovias municipais;
+
+
+h)
+
+Submeter à apreciação do departamento nacional de estradas de rodagem, por intermédios do prefeito, os planos de operações de credito ou financiamentos de qualquer natureza, que tiverem de ser garantidos pela quota do Município no fundo rodoviário nacional ou pelos recursos do Art. 8º da lei federal nº 302 de 13/7/1948;
+
+
+i)
+
+Remetes anualmente, ao órgão rodoviário federal, pormenorizando um relatório das atividades dos serviços de estradas e caminhos municipais no exercício anterior, acompanhada de demonstrativo da execução do orçamento do referido exercício;
+
+
+j)
+
+Facilitar ao departamento nacional de estradas de rodagem, o conhecimento das atividades rodoviárias do Município, permitindo-lhe verificar, a perfeita observância das condições para recebimento das quotas do Fundo Rodoviário Nacional;
+
+
+k)
+
+Adotar no que for o aplicável as mesmas normas de técnicas e administrativa, inclusive nomenclatura vigorante do serviço dos departamentos de estrada de rodagem nacional e estadual;
+
+
+l)
+
+Manter-se em constantes comunicações com o Departamento Nacional de Estradas de Rodagem, dando-lhe conhecimento da situação exata da viação rodoviária municipal, inclusive leis e demais disposições que a regulamentam ou vierem regulamentar;
+
+
+m)
+
+Estimular por todos os meios hábeis, a propaganda da estrada de rodagem, dando publicidade não só as suas próprias atividades como também de estudos sobre a técnica, economia, administração e trafego rodoviário.
+
+
+Parágrafo único
+
+Considera-se rodovias municipais as estradas de rodagem compreendidas no plano rodoviário do município.
+
+
+#### CAPÍTULO II
+
+
+Art. 3º.
+
+O S.R.M cujas atribuições serão de caráter executivo será dirigido por um engenheiro civil, nomeado em comissão pelo Prefeito, e contará com um grupo de auxiliares estritamente necessário.
+
+
+Parágrafo único
+
+Havendo impossibilidade de ser contratado um engenheiro civil, poderá chefiar o S.R.M um licenciado, legalmente habilitado pelo C.R.E.A circunscritos as atividades aos limites da habilitação de que for portador.
+
+
+Art. 4º.
+
+O, S.R.M terá organização condizente com as suas necessidades, obedecendo ao organograma seguinte:
+
+
+Serviço Rodoviário Municipal
+
+ou
+
+Departamento Rodoviário Municipal
+
+Administração
+
+
+Engenheiro superintendente ou licenciado pelo C.R.E.A - Estudos e projetos - conservação de entradas - contratos - contabilidade - Estr. e obras de artes - Pavimentação e pesquisas leis rodoviárias - correspondência. Planos rodoviários – sinalização - policiamento de tráfego - Estatística de trafego - Arquivo e fichário.
+
+
+Art. 5º.
+
+A chefia do S.R.M compete:
+
+
+a)
+
+Elaborar e submeter ao prefeito em programas anuais e respectivos orçamentos;
+
+
+b)
+
+Dirigir e fiscalizar a execução dessês programas.
+
+
+#### CAPÍTULO III — Da receito do S.R.M
+
+
+Art. 6º.
+
+A receita do S.R.M será constituída.
+
+
+a)
+
+Da quota que couber ao Município, do Fundo Rodoviário Nacional.
+
+
+b)
+
+Da contribuição orçamentário do Município, em importância nunca inferior, em cada exercício, a 5% da receita geral orçada, excluídas as mês, digo, as rendas industrias.
+
+
+c)
+
+Do produto de contribuição de melhoria e de pedágio ou de quaisquer taxas, multas ou licenças, provenientes da utilização das rodovias ou respectivas faixas de domínio;
+
+
+d)
+
+De créditos especiais;
+
+
+e)
+
+Das rendas que, por sua natureza ou disposição especial, devem competir ao S.R.M
+
+
+f)
+
+Do fundo, digo, do produto das operações de crédito realizadas com garantia das receitas acima referidas.
+
+
+Art. 7º.
+
+Os recursos mencionados no Artigo anterior serão depositados em conta especial á disposição do S.R.M.
+
+
+Parágrafo único
+
+A contribuição do Município, será depositada na mesma conta especial, por trimestre:
+
+
+Art. 8º.
+
+A receita e as despesas do S.R.M. serão contabilizadas separadamente das do município incorporando-se, entretanto, em globo nos balanços da Prefeitura, respeitando-se no que fôr respeitável as normas de contabilidade estabelecida pelo D.N.E.R.
+
+
+#### CAPÍTULO IV — Da constituição e atribuição o conselho rodoviário municipal (C.R.M)
+
+
+Art. 9º.
+
+O conselho rodoviário municipal será o órgão deliberativo rodoviário do Município.
+
+
+Art. 10.
+
+Compor-se á o Conselho Rodoviário Municipal dos seguintes membros indicados pelas entidades e nomeados pelo Prefeito:
+
+
+a)
+
+Um Presidente, que será um dos membros do conselho eleito pelos conselheiros;
+
+
+b)
+
+O Prefeito, membro nato, ou seu substituto legal.
+
+
+c)
+
+O Chefe do Serviço Rodoviário Municipal.
+
+
+d)
+
+Um representante da Câmara Municipal Legislativa, do Município.
+
+
+e)
+
+Um representante da Indústria e Comércio geral, digo, local.
+
+
+f)
+
+Um representante da lavoura.
+
+
+Parágrafo único
+
+O conselho terá um secretário executivo de livre nomeação do Presidente, o qual se encarregará de todo o serviço de secretaria.
+
+
+Art. 11.
+
+Competirá ao conselho rodoviário municipal;
+
+
+I –
+
+A elaboração do regimento interno, baseado no conselho rodoviário.
+
+
+II –
+
+A aprovação do plano rodoviário do Município de seu programa de obras anual.
+
+
+III –
+
+Tomar conhecimento do andamento geral dos trabalhos do S.R.M e encaminhar parecer sôbre os balancetes do mesmo;
+
+
+IV –
+
+Encaminhar e dar parecer sôbre os relatórios apresentados;
+
+
+V –
+
+Reunir-se pelo menos uma vêz por mês
+
+
+Art. 12.
+
+O mandato dos membros do Conselho Rodoviário Municipal, se estendera por 2 (dois) anos excetuando-se o Prefeito e o Chefe do Serviço Rodoviário Municipal.
+
+
+#### CAPÍTULO V
+
+#### Capítulo V
+
+
+Art. 13.
+
+Dentro de 90 (noventa) dias o Conselho Rodoviário Municipal elaborará e aprovará o seu regimento interno.
+
+
+Art. 14.
+
+As dúvidas e omissões desta Lei serão resolvidas pelo Conselho Rodoviário Municipal “ad-referendum” da Câmara Municipal.
+
+
+Art. 15.
+
+Esta lei entrará em vigor na data de sua publicação revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE CORBÉLIA
+
+Em 25 de abril de 1962.
+
+JULIO TOZZO
+
+Prefeito Municipal
+
+Não substitui o texto publicado no Diário Oficial.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/471/ta
+

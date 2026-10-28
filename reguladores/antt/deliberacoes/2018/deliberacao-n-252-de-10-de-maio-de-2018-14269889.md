@@ -1,0 +1,36 @@
+---
+titulo: "DELIBERAÇÃO Nº 252, DE 10 DE MAIO DE 2018"
+orgao: "Ministério dos Transportes, Portos e Aviação Civil/Agência Nacional de Transportes Terrestres/Diretoria Colegiada"
+tipo: "Deliberação"
+numero: "252"
+data: 2018-05-10
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 15/05/2018, seção 1, p. 69"
+data_publicacao: 2018-05-15
+edicao: "92"
+fonte: "https://www.in.gov.br/web/dou/-/deliberacao-n-252-de-10-de-maio-de-2018-14269889"
+sha256_html_fonte: 7dc6323651c5a413677a2fd9c9c3082056878da9eb0d5482e07dfabb631afb3f
+baixado_em: 2026-10-27
+---
+# DELIBERAÇÃO Nº 252, DE 10 DE MAIO DE 2018
+
+DELIBERAÇÃO Nº 252, DE 10 DE MAIO DE 2018
+
+A Diretoria Colegiada da Agência Nacional de Transportes Terrestres - ANTT, no uso de suas atribuições regimentais, sobretudo no que lhe confere o inciso XIX do art. 24 da Lei 10.233, de 5 de junho de 2001; tendo em vista o disposto no art. 3º e art. 5º alíneas "h" e "i" do Decreto-Lei nº 3.365, de 21 de junho de 1941; art. 29, incisos VIII e IX, e art. 31,inciso VI, da Lei nº 8.987 de 13 de fevereiro de 1995, fundamentada no Voto DEB - 128, de 27 de abril de 2018, e no que consta do Processo nº 50505.094561/2017-13, RESOLVE:
+
+**Art. 1º** Declarar de utilidade pública, para efeito de desapropriação, em favor da União, o(s) bem(ns) imóvel(is) alcançados pelas coordenadas planas a seguir descritas, as quais definem a(s) poligonal(is) de utilidade pública necessária(s) à execução das obras de implantação de trevo em desnível no km 236+700m, da Rodovia Governador Mário Covas, BR-101/RJ.
+
+<table><tr></tr><tr><td><p>QUADRO DE COORDENADAS</p></td></tr><tr><td><p>TITULO DA OBRA:</p></td><td><p>Declaração de Utilidade Pública - Interseção em desnível - km 236,700</p></td></tr><tr><td><p>SISTEMA GEODÉSICO DE REFERÊNCIA:</p></td><td><p>SIRGAS 2000</p></td></tr><tr><td><p>FUSO(S):</p></td><td><p>23S</p></td></tr><tr><td><p>SISTEMA DE COORDENADA:</p></td><td><p>UTM</p></td></tr><tr><td></td></tr><tr><td><p>ÁREA 01</p></td></tr><tr><td><p>PONTOS</p></td><td><p>COORDENADAS UTM</p></td><td><p>AZIMUTE</p></td><td><p>DISTÂNCIA(m)</p></td><td><p>ÁREA DA POLIGONAL DE DUP (m²)</p></td></tr><tr><td></td><td><p>E</p></td><td><p>N</p></td><td></td><td></td><td></td></tr><tr><td><p>1</p></td><td><p>766286.9605</p></td><td><p>7497001.7448</p></td><td><p>58º54'24"</p></td><td><p>76,61</p></td><td><p>1318,20</p></td></tr><tr><td><p>2</p></td><td><p>766352.5630</p></td><td><p>7497041.3085</p></td><td><p>195º16'33"</p></td><td><p>29,13</p></td><td></td></tr><tr><td><p>3</p></td><td><p>766344.8885</p></td><td><p>7497013.2086</p></td><td><p>238º51'21"</p></td><td><p>49,03</p></td><td></td></tr><tr><td><p>4</p></td><td><p>766302.9230</p></td><td><p>7496987.8494</p></td><td><p>238º50'29"</p></td><td><p>4,65</p></td><td></td></tr><tr><td><p>5</p></td><td><p>766298.9430</p></td><td><p>7496985.4430</p></td><td><p>313º58'28"</p></td><td><p>4,37</p></td><td></td></tr><tr><td><p>6</p></td><td><p>766295.7987</p></td><td><p>7496988.4767</p></td><td><p>326º19'54"</p></td><td><p>15,94</p></td><td></td></tr><tr><td><p></p></td></tr><tr><td><p>ÁREA 02</p></td></tr><tr><td><p>PONTOS</p></td><td><p>COORDENADAS UTM</p></td><td><p>AZIMUTE</p></td><td><p>DISTÂNCIA(m)</p></td><td><p>ÁREA DA POLIGONAL DE DUP (m²)</p></td></tr><tr><td></td><td><p>E</p></td><td><p>N</p></td><td></td><td></td><td></td></tr><tr><td><p>1</p></td><td><p>766165.8068</p></td><td><p>7497024.8341</p></td><td><p>310º56'56"</p></td><td><p>16,48</p></td><td><p>1820,72</p></td></tr><tr><td><p>2</p></td><td><p>766153.3597</p></td><td><p>7497035.6347</p></td><td><p>320º56'32"</p></td><td><p>12,57</p></td><td></td></tr><tr><td><p>3</p></td><td><p>766145.4409</p></td><td><p>7497045.3935</p></td><td><p>327º49'20"</p></td><td><p>26,99</p></td><td></td></tr><tr><td><p>4</p></td><td><p>766131.0671</p></td><td><p>7497068.2382</p></td><td><p>19º11'53"</p></td><td><p>20,07</p></td><td></td></tr><tr><td><p>5</p></td><td><p>766137.6674</p></td><td><p>7497087.1939</p></td><td><p>74º23'14"</p></td><td><p>8,80</p></td><td></td></tr><tr><td><p>6</p></td><td><p>766146.1410</p></td><td><p>7497089.5618</p></td><td><p>99º18'28"</p></td><td><p>14,08</p></td><td></td></tr><tr><td><p>7</p></td><td><p>766160.0326</p></td><td><p>7497087.2850</p></td><td><p>128º35'16"</p></td><td><p>16,91</p></td><td></td></tr><tr><td><p>8</p></td><td><p>766173.2501</p></td><td><p>7497076.7382</p></td><td><p>156º39'23"</p></td><td><p>10,10</p></td><td></td></tr><tr><td><p>9</p></td><td><p>766177.2527</p></td><td><p>7497067.4636</p></td><td><p>195º01'45"</p></td><td><p>44,14</p></td><td></td></tr><tr><td><p>ÁREA 03</p></td></tr><tr><td><p>PONTOS</p></td><td><p>COORDENADAS UTM</p></td><td><p>AZIMUTE</p></td><td><p>DISTÂNCIA(m)</p></td><td><p>ÁREA DA POLIGONAL DE DUP (m²)</p></td></tr><tr><td></td><td><p>E</p></td><td><p>N</p></td><td></td><td></td><td></td></tr><tr><td><p>1</p></td><td><p>766191.4127</p></td><td><p>7497002.4583</p></td><td><p>238º53'57"</p></td><td><p>59,80</p></td><td><p>2973,49</p></td></tr><tr><td><p>2</p></td><td><p>766140.2110</p></td><td><p>7496971.5704</p></td><td><p>321º49'51"</p></td><td><p>16,12</p></td><td></td></tr><tr><td><p>3</p></td><td><p>766130.2508</p></td><td><p>7496984.2415</p></td><td><p>333º19'47"</p></td><td><p>15,80</p></td><td></td></tr><tr><td><p>4</p></td><td><p>766123.1581</p></td><td><p>7496998.3620</p></td><td><p>345º21'08"</p></td><td><p>21,25</p></td><td></td></tr><tr><td><p>5</p></td><td><p>766117.7838</p></td><td><p>7497018.9241</p></td><td><p>356º30'22"</p></td><td><p>9,52</p></td><td></td></tr><tr><td><p>6</p></td><td><p>766117.2038</p></td><td><p>7497028.4233</p></td><td><p>19º11'53"</p></td><td><p>32,95</p></td><td></td></tr><tr><td><p>7</p></td><td><p>766128.0382</p></td><td><p>7497059.5391</p></td><td><p>145º36'43"</p></td><td><p>21,02</p></td><td></td></tr><tr><td><p>8</p></td><td><p>766139.9120</p></td><td><p>7497042.1900</p></td><td><p>140º12'00"</p></td><td><p>12,95</p></td><td></td></tr><tr><td><p>9</p></td><td><p>766148.1998</p></td><td><p>7497032.2425</p></td><td><p>130º12'13"</p></td><td><p>20,07</p></td><td></td></tr><tr><td><p>10</p></td><td><p>766163.5286</p></td><td><p>7497019.2871</p></td><td><p>121º06'44"</p></td><td><p>32,57</p></td><td></td></tr><tr><td><p></p></td></tr><tr><td><p>ÁREA TOTAL (m²)</p></td><td><p>6112,41</p></td></tr></table>
+
+**Art. 2º** Fica a Autopista Fluminense S/A autorizada a promover as desapropriações necessárias à implantação da obra referenciada pelo art.1º, na forma da legislação e regulamentos vigentes.
+
+**Parágrafo único.** A Autopista Fluminense S/A fica autorizada a invocar o caráter de urgência no processo de desapropriação de que trata o caput, para fins de imissão na posse, nos termos do art. 15 do Decreto-Lei nº 3.365, de 21 de junho de 1941.
+
+**Art. 3º** A declaração de utilidade pública não exime a concessionária da obtenção dos licenciamentos e do cumprimento das obrigações junto às entidades ambientais e demais órgãos da administração pública, necessários à efetivação das obras.
+
+**Art. 4º** Esta Deliberação entra em vigor na data de sua publicação e não terá eficácia sobre bens de propriedade de Estados e Municípios que eventualmente estejam localizados nas poligonais indicadas no art. 1º.
+
+MARIO RODRIGUES JUNIOR
+
+Diretor-Geral

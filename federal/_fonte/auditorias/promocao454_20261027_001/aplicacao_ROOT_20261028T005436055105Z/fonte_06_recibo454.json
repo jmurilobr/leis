@@ -1,0 +1,60 @@
+{
+  "escopo": "454 candidatos integrais; sucessor conservador exclui 13 atribuições inconclusivas de fecho. Replay portátil reconstrói limites principal/incorporados antes de comparar o fecho, usando predicado congelado separado; não é substituição de contagem no replay antigo.",
+  "sha256_runner": "3a83dec79205c0de9cf467f91b97cb5f78cba563959b8ace66e10fcc2f85b6ec",
+  "sha256_manifesto": "94368fd56a238ce1bb87830ce01ac6c262e58939b181fcc71c03df32dd399eab",
+  "codigos": [
+    {
+      "path": "scripts/html2md.py",
+      "sha256": "6ad648a6a94c8d51d880a2d79c39f1abe751032d3355e468363e43ca83fdcdc6"
+    },
+    {
+      "path": "scripts/comum.py",
+      "sha256": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24"
+    },
+    {
+      "path": "scripts/identidade_decreto.py",
+      "sha256": "c7fd847bad0ae3a3432f43f0f4a5568f8236f61833aff514945d5eeafa6e9f94"
+    },
+    {
+      "path": "scripts/identidade_decreto_revisao.py",
+      "sha256": "c1808f41532d41f6ea668177408743e7297f571b55f1709ec984977661771283"
+    },
+    {
+      "path": "scripts/integridade_anexos_decreto.py",
+      "sha256": "3cd60ac4a398a27cc0f646f891e853f6b120b1a963deb4cc9f0ccfd7d6ca0cd0"
+    },
+    {
+      "path": "scripts/integridade_html_federal.py",
+      "sha256": "70945b86695a163f233875e23e01bf5f9c02a01dae6c4949dbda37b3b496214d"
+    },
+    {
+      "path": "scripts/auditar_pontuacao_federal.py",
+      "sha256": "bec7972a3d8138c61f4eb527738fd32e3bf39da0eed7913ac178771c53a778e9"
+    },
+    {
+      "path": "scripts/estados/pe_fidelidade_visivel.py",
+      "sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838"
+    },
+    {
+      "path": "scripts/preparar_lote_decretos_cache.py",
+      "sha256": "b962db077e49db9ba3a7eccf25942c2516f6b939982089ccb2ad6f845ba5a7e8"
+    },
+    {
+      "path": "scripts/baixar_federal.py",
+      "sha256": "4889285109716ea3f7e753e8af2991b874d1f3b7265488756a98e0610c703495"
+    },
+    {
+      "path": "federal/_fonte/auditorias/commonmark8886_20261027_001/replay_commonmark_html5.py",
+      "sha256": "824b00a5b40d1ab58b044d95bacef947b0b2862a8978c15bd136f27500ac67d6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/promocao454_20261027_001/limites_principal.py",
+      "sha256": "a4a5727ee1244b5b6c447e66019f3b4a49a573eaedfa1fac1a5079d452f92791"
+    },
+    {
+      "path": "federal/_fonte/auditorias/promocao454_20261027_001/preparar.py",
+      "sha256": "31ee321299a9ae069a7346cb86566c3f00022d3e090e228dd04466bc950f1840"
+    }
+  ],
+  "limites": "Só delimita avaliação do principal. Corpo, documentos incorporados e fontes integrais sempre preservados e comparados. Sem rede ou promoção; não certifica CSS ou vigência."
+}

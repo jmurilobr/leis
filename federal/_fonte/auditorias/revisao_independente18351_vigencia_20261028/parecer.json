@@ -1,0 +1,165 @@
+{
+  "estado": "Parecer privado independente; nenhum canônico, registro, índice ou pacote anterior modificado. Decisão de promoção pertence ao ROOT.",
+  "concluido_em": "2026-10-28T09:48:47.132392-03:00",
+  "conclusao": "Apto, no escopo examinado, como fac-símile coerente e integral da edição CLBR capturada: 22 folhas impressas 132–153, incluindo corpo, plano, duas tabelas e quinze folhas ilustradas. Não foi identificada omissão de tinta própria do ato nos limites e recortes examinados.",
+  "candidato": {
+    "path": "federal/_fonte/auditorias/clbr_recuperacoes1945_20261028_001/dec-18351-1945-04-11-clbr-integral.md",
+    "sha256": "4d4f83aa89224e4cd658d5efbc4d164db51e64777efc1931e384161e0013d6cc",
+    "bytes": 5356
+  },
+  "fonte": {
+    "path": "federal/_fonte/auditorias/clbr_1945_recuperacao_20261027_001/1945-decretos.pdf",
+    "sha256": "29553bac45833de9cdcefbe5eda0c8f0c57b55b6d3bf4f9739346d3475c39c6f",
+    "bytes": 99373006
+  },
+  "captura": {
+    "path": "federal/_fonte/auditorias/clbr_1945_recuperacao_20261027_001/recibo1945.json",
+    "sha256": "5592e0ace59e57e3e30f2d937d2b2c223ac21ace13c7237fa9f0ffe89faa72db",
+    "bytes": 2385
+  },
+  "resultado_automatico": {
+    "path": "federal/_fonte/auditorias/revisao_independente18351_vigencia_20261028/pixels-e-ordem.json",
+    "sha256": "b45180027a93f7a5e8e7a4a2865ff38245767c3f81b933692117e4ac4a27e68b",
+    "bytes": 6917
+  },
+  "bibliografia": {
+    "capa": "PDF 877: Coleção das Leis de 1945, volume IV, atos do Poder Executivo, decretos de abril a junho; Imprensa Nacional, Rio de Janeiro, 1945.",
+    "indice": "PDF 890, página XIV: decreto 18.351 de 11/04/1945, p. 132; publicado no Diário Oficial de 26/04/1945.",
+    "identidade": "Epígrafe própria e conteúdo Aeronáutica/uniformes FAB no ultramar concordam com índice e URN urn:lex:br:federal:decreto:1945-04-11;18351. A data de publicação do índice não foi confundida com a data do decreto.",
+    "captura_local": "Recibo UTC 2026-10-28T01:01:33.355639+00:00 corresponde a 27/10/2026 em America/Recife; preparação em 28/10 não representa captura nova."
+  },
+  "limites_e_integralidade": [
+    "A primeira página completa contém fecho do decreto 18.350 acima da epígrafe própria; o recorte direto x=0, y=670, W=1776, H=1811 conserva integralmente epígrafe, ementa, artigos, fecho e início do plano de 18.351.",
+    "A página impressa 154 (PDF 1104) inicia decreto 18.352 e fica fora do candidato.",
+    "Todas as 22 páginas foram vistas individualmente. Bordas, legendas, desenhos e fotografias estão contidos nas imagens; páginas 133–153 são renders completos.",
+    "A continuidade textual entre páginas 132–138 foi conferida: §§ 3º/4º; alíneas a/b; descrição da capa; mala; suspensórios; tabela 1. Tabela 2 termina na página 138.",
+    "O plano contém artigos 1º–6º e seu fecho; o decreto contém artigos 1º–2º e fecho. A edição passa ao capítulo II na p. 133 sem inserir artificialmente um título de capítulo I.",
+    "O artigo 6º prevê que a Diretoria organizará mostruário/especificações; essa promessa futura não demonstra, isoladamente, anexo próprio omitido nesta edição.",
+    "A ordem digital 1082–1103 é diferente da ordem impressa; o mapa do candidato reconstrói exatamente todas as páginas 132–153 uma única vez.",
+    "Os 22 vínculos de imagens resolvem nas rotas propostas, na ordem impressa; os 34 artefatos do manifesto original tiveram SHA e tamanho conferidos.",
+    "Os renders próprios coincidem pixel a pixel com os 22 ativos normativos. Na primeira página foi repetido o recorte diretamente em Poppler, pois renderizar recorte e recortar um raster completo pode mudar antialiasing. Capa e índice também coincidem."
+  ],
+  "edicao_e_limites": [
+    "A edição CLBR inclui suboficiais no artigo 1º e no título do plano. A proposta substitui a edição inteira e arquiva a anterior; não mistura textos divergentes.",
+    "A representação normativa é em imagens, sem transcrição pesquisável integral. Fotografias têm contraste limitado no próprio scan; não se afirma legibilidade de todo detalhe têxtil, nem recuperação de cores.",
+    "Não se certifica vigência, equivalência a todas as outras edições ou ausência de alterações posteriores; NotInForce é metadado atribuído à API, sem inferência própria."
+  ],
+  "observacao_editorial_nao_impeditiva": {
+    "pagina": 152,
+    "rotulo_candidato": "Figura 7b: mala, bolsa e cartão",
+    "legenda_na_imagem": "uma bôlsa e porta cartão",
+    "avaliacao": "A legenda correta permanece integral na imagem; o rótulo auxiliar é impreciso quanto a porta cartão, sem perda do fac-símile. Eventual ajuste exige nova variante, sem alterar este pacote congelado."
+  },
+  "paginas_vistas": [
+    {
+      "pagina_impressa": 132,
+      "pagina_PDF": 1082,
+      "conteudo": "Epígrafe, ementa, decreto artigos 1º–2º, fecho e plano artigo 1º §§ 1º–3º."
+    },
+    {
+      "pagina_impressa": 133,
+      "pagina_PDF": 1083,
+      "conteudo": "Plano §§ 4º–5º, artigos 2º–3º, capítulo II e artigo 4º alínea a."
+    },
+    {
+      "pagina_impressa": 134,
+      "pagina_PDF": 1089,
+      "conteudo": "Artigo 4º alíneas b–j, descrição da capa continua."
+    },
+    {
+      "pagina_impressa": 135,
+      "pagina_PDF": 1090,
+      "conteudo": "Continuação da capa, alíneas j–r; início da mala."
+    },
+    {
+      "pagina_impressa": 136,
+      "pagina_PDF": 1091,
+      "conteudo": "Continuação da mala, alíneas s–z; suspensórios continuam."
+    },
+    {
+      "pagina_impressa": 137,
+      "pagina_PDF": 1092,
+      "conteudo": "Fim dos suspensórios; capítulo III artigos 5º–6º, fecho do plano e início tabela 1."
+    },
+    {
+      "pagina_impressa": 138,
+      "pagina_PDF": 1093,
+      "conteudo": "Continuação e observações da tabela 1; tabela 2 completa."
+    },
+    {
+      "pagina_impressa": 139,
+      "pagina_PDF": 1084,
+      "conteudo": "Figura 1: blusão, frente."
+    },
+    {
+      "pagina_impressa": 140,
+      "pagina_PDF": 1085,
+      "conteudo": "Figura 1a: blusão com equipamento."
+    },
+    {
+      "pagina_impressa": 141,
+      "pagina_PDF": 1086,
+      "conteudo": "Figura 1b: blusão, costas."
+    },
+    {
+      "pagina_impressa": 142,
+      "pagina_PDF": 1087,
+      "conteudo": "Figura 2: calça."
+    },
+    {
+      "pagina_impressa": 143,
+      "pagina_PDF": 1088,
+      "conteudo": "Figura 3: capa, gola abaixada."
+    },
+    {
+      "pagina_impressa": 144,
+      "pagina_PDF": 1100,
+      "conteudo": "Figura 3a: capa, gola levantada."
+    },
+    {
+      "pagina_impressa": 145,
+      "pagina_PDF": 1101,
+      "conteudo": "Figura 3b: capa, costas."
+    },
+    {
+      "pagina_impressa": 146,
+      "pagina_PDF": 1102,
+      "conteudo": "Figura 4: distintivo Brasil."
+    },
+    {
+      "pagina_impressa": 147,
+      "pagina_PDF": 1103,
+      "conteudo": "Figura 5: gorro, aba levantada."
+    },
+    {
+      "pagina_impressa": 148,
+      "pagina_PDF": 1094,
+      "conteudo": "Figura 5a: gorro, aba abaixada."
+    },
+    {
+      "pagina_impressa": 149,
+      "pagina_PDF": 1095,
+      "conteudo": "Figura 6: macacão."
+    },
+    {
+      "pagina_impressa": 150,
+      "pagina_PDF": 1096,
+      "conteudo": "Figura 7: mala, parte interna entreaberta."
+    },
+    {
+      "pagina_impressa": 151,
+      "pagina_PDF": 1097,
+      "conteudo": "Figura 7a: mala dobrada, lado com duas bolsas."
+    },
+    {
+      "pagina_impressa": 152,
+      "pagina_PDF": 1098,
+      "conteudo": "Figura 7b: mala dobrada, lado com uma bolsa e porta cartão."
+    },
+    {
+      "pagina_impressa": 153,
+      "pagina_PDF": 1099,
+      "conteudo": "Figura 8: mosquiteiro."
+    }
+  ]
+}

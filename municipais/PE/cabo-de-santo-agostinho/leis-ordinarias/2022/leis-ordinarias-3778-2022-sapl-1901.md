@@ -1,0 +1,851 @@
+---
+titulo: "Lei Ordinária nº 3.778, de 26 de maio de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3778"
+data: "2022-05-26"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/1901"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/1873/text"
+sha256_fonte: "83348145f0e79e0c439c7cb06e9078d1a801efa5cb9772dec92129cb47bfb09f"
+sha256_texto: "b13fcb4d928bf86ef0261a62a77cc9ab66cb7f4f1fbe74609c78f546b4c075fc"
+capturado_em_fonte: "2026-10-27T21:26:30.776552-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 3.778, de 26 de maio de 2022
+
+Institui o Conselho Municipal de Segurança Pública e Defesa Social - CMSUSP, os Fóruns Distritais de Segurança Pública e Defesa Social, a Conferência Municipal de Segurança Pública e Defesa Social e dá outras providências.
+
+
+**O Prefeito do Município do Cabo de Santo Agostinho,**
+
+**Faço saber que a Câmara Municipal aprova e eu sanciono a seguinte Lei:**
+
+
+Art. 1º.
+
+Fica instituído o Conselho Municipal de Segurança Pública e Defesa Social - CMSUSP, no âmbito do Município do Cabo de Santo Agostinho, com finalidade de integrar, de forma estratégica, o Sistema Único de Segurança Pública, nos termos do Art. 9º da Lei Federal nº 13.675, de 11 de junho de 2018.
+
+
+Parágrafo único
+
+O Conselho Municipal de Segurança Pública e Defesa Social - CMSUSP tem natureza colegiada, de caráter permanente, com competência propositiva, consultiva, sugestiva, de acompanhamento da Política Municipal de Segurança Pública e de Defesa Social desenvolvida no âmbito do Município do Cabo de Santo Agostinho, com representantes governamentais e de entidades da sociedade civil organizada com atuação ou pesquisa na área de segurança pública.
+
+
+Art. 2º.
+
+O Conselho Municipal de Segurança Pública e Defesa Social - CMSUSP exercerá o acompanhamento das instituições referidas no §2º do art. 9º da Lei Federal nº 13.675, de 11 de junho de 2018, no âmbito do município do Cabo de Santo Agostinho, e poderá recomendar providências legais às autoridades competentes.
+
+
+Parágrafo único
+
+O acompanhamento de que trata o caput deste artigo considerará, entre outros, os seguintes aspectos:
+
+
+I –
+
+as condições de trabalho, a valorização e o respeito pela integridade física e moral das corporações;
+
+
+II –
+
+o atingimento das metas previstas nesta Lei;
+
+
+III –
+
+o resultado célere na apuração das denúncias em tramitação nas respectivas corregedorias;
+
+
+IV –
+
+o grau de confiabilidade e aceitabilidade do órgão pela população por ele atendida.
+
+
+Art. 3º.
+
+Ao Conselho Municipal de Segurança Pública e Defesa Social – CMSUSP compete:
+
+
+I –
+
+formular e definir diretrizes para a política municipal de segurança pública e defesa social, com vistas à prevenção e à repressão da violência e da criminalidade;
+
+
+II –
+
+apoiar a Secretaria Municipal de Defesa Social - SMDS na articulação com outros órgãos e entidades da administração pública estadual e municipal, promovendo a ampliação da cooperação mútua e o estabelecimento de estratégias comuns para execução de políticas públicas de defesa social;
+
+
+III –
+
+promover a realização de estudos, debates e pesquisas sobre segurança e defesa social no Município do Cabo de Santo Agostinho, com vistas a contribuir na elaboração de propostas de políticas públicas;
+
+
+IV –
+
+elaborar e aprovar o seu Regimento Interno;
+
+
+V –
+
+decidir sobre a criação de Comissões Especiais e Câmaras Temáticas vinculadas ao CMSUSP;
+
+
+VI –
+
+apoiar administrativamente e aprovar o Regimentos Interno Único dos Fóruns Distritais de Segurança Pública e Defesa Social;
+
+
+VII –
+
+analisar e aprovar o relatório de gestão anual dos recursos oriundos do Fundo Municipal de Segurança Pública –FMSP;
+
+
+VIII –
+
+assessorar e fiscalizar os Fóruns Distritais de Segurança Pública e Defesa Social – FDSUSP.
+
+
+###### Subseção II — Estrutura e Composição
+
+
+Art. 4º.
+
+O Conselho Municipal de Segurança Pública e Defesa Social – CMSUSP terá a seguinte estrutura:
+
+
+I –
+
+Plenário;
+
+
+II –
+
+Presidência;
+
+
+III –
+
+Vice-Presidência;
+
+
+IV –
+
+Secretaria Executiva;
+
+
+V –
+
+Coordenadoria dos Fóruns Distritais de Segurança Pública e Defesa Social.
+
+
+Art. 5º.
+
+Os Conselheiros do CMSUSP, em número de 24 (vinte e quatro), serão indicados entre gestores do Poder Público e representantes de entidades não-governamentais, conforme regulamento, entre membros da sociedade civil organizada, observada a seguinte composição:
+
+
+I –
+
+12 (doze) Conselheiros do Poder Público, sendo:
+
+
+a)
+
+o Secretário Municipal de Defesa Social;
+
+
+b)
+
+o Comandante da Guarda Civil Municipal;
+
+
+c)
+
+1 (um) representante da Secretaria Executiva da Juventude e Esportes – SEJES;
+
+
+d)
+
+1 (um) representante da Secretaria Executiva da Mulher;
+
+
+e)
+
+1 (um) representante da Secretaria Municipal de Assuntos Estratégicos – SMAE;
+
+
+f)
+
+1 (um) representante da Secretaria Municipal de Programas Sociais – SMPROS;
+
+
+g)
+
+1 representante da Secretaria Municipal de Educação – SME;
+
+
+h)
+
+1 (um) representante do Defensoria Pública;
+
+
+i)
+
+1 (um) representante do Ministério Público;
+
+
+j)
+
+1 (um) representante do Poder Judiciário;
+
+
+k)
+
+1 (um) representante da Polícia Civil;
+
+
+l)
+
+1 (um) representante da Polícia Militar.
+
+
+II –
+
+12 (doze) Conselheiros das seguintes entidades não-governamentais:
+
+
+a)
+
+1 (um) representante da Ordem dos Advogados do Brasil (OAB), devidamente registrado na subseccional do Cabo de Santo Agostinho;
+
+
+b)
+
+1 (um) representante dos Conselhos Tutelares do Município do Cabo de Santo Agostinho;
+
+
+c)
+
+1 (um) representante de entidade da sociedade civil organizada, legalmente estabelecida há mais de dois anos, e cuja finalidade esteja vinculada à representação de interesses de profissionais da segurança pública, sediada no município do Cabo de Santo Agostinho;
+
+
+d)
+
+1 (um) representante de organizações religiosas, legalmente constituída há mais de 2 (dois) anos, sediada no município do Cabo de Santo Agostinho;
+
+
+e)
+
+o Coordenador Geral do Fórum Distrital de Segurança Pública e Defesa Social do Distrito Sede do Cabo de Santo Agostinho;
+
+
+f)
+
+o Coordenador Geral do Fórum Distrital de Segurança Pública e Defesa Social do Distrito de Ponte dos Carvalhos;
+
+
+g)
+
+o Coordenador Geral do Fórum Distrital de Segurança Pública e Defesa Social das do Distrito das Praias do Cabo de Santo Agostinho;
+
+
+h)
+
+o Coordenador Geral do Fórum Distrital de Segurança Pública e Defesa Social do Distrito de Juçaral;
+
+
+i)
+
+1 (um) representante de entidade da sociedade civil organizada, legalmente estabelecida há mais de dois anos, e cuja finalidade esteja vinculada à representação de interesses e direitos das mulheres, sediada no município do Cabo de Santo Agostinho;
+
+
+j)
+
+1 (um) representante de entidade da sociedade civil organizada, legalmente estabelecida há mais de dois anos, e cuja finalidade esteja vinculada à promoção da igualdade racial, sediada no município do Cabo de Santo Agostinho;
+
+
+k)
+
+1 (um) representante da Associação Comercial do Cabo de Santo Agostinho;
+
+
+l)
+
+1 (um) representante de entidade da sociedade civil organizada, legalmente estabelecida há mais de dois anos, e cuja finalidade esteja vinculada à representação de interesses de moradores da zona rural, sediada no município do Cabo de Santo Agostinho.
+
+
+Parágrafo único
+
+Além dos representantes dos órgãos elencados nos incisos do caput, poderão participar do CMSUSP, como convidados, outros representantes do Poder Público, de entidades e de representações.
+
+
+###### Subseção III — Da Organização
+
+
+Art. 6º.
+
+Os representantes das entidades não-governamentais, indicadas nas alíneas “c”, ”d”, “i”, “j”, e “l” do inciso II do Art. 5º desta Lei, titulares e suplentes, serão eleitos em fórum especialmente convocado para este fim, através de Edital publicado em Diário Oficial, com pelo menos 30 (trinta) dias de antecedência, sob acompanhamento do Ministério Público Estadual.
+
+
+Parágrafo único
+
+Os representantes das entidades não-governamentais, indicadas nas alíneas “c”, ”d”, “i”, “j”, e “l” do inciso II do Art. 5º desta Lei, titulares e suplentes, serão indicados para compor o Plenário do CMSUSP, pelos Presidentes das entidades, e designados através de Ofício, no prazo de 10 (dez) dias, após as eleições.
+
+
+Art. 7º.
+
+As entidades eleitas indicarão os conselheiros titulares e suplentes.
+
+
+Art. 8º.
+
+Os representantes das entidades não-governamentais, bem como seus suplentes, serão indicados para compor o Plenário do CMSUSP pelo presidente da entidade eleita, e designados através de Ofício, no prazo de 10 (dez) dias, após as eleições.
+
+
+§ 1º
+
+As entidades não-governamentais poderão, a qualquer tempo, promover a substituição dos seus representantes através de Ofício, subscrito pelo presidente da instituição.
+
+
+§ 2º
+
+As entidades poderão ser substituídas pelos seus pares, sempre que a entidade suplente não possa assumir a titularidade, sendo então convocada a entidade imediatamente mais votada no processo eleitoral.
+
+
+Art. 9º.
+
+Os representantes dos órgãos do Poder Público, indicados no inciso I do Art. 5º desta Lei, titulares e suplentes, serão indicados, através de Ofício, subscrito pelo titular do órgão.
+
+
+Art. 10.
+
+O Poder Executivo terá o prazo de até 30 (trinta) dias, após a realização das eleições, para dar posse aos membros do CMSUSP.
+
+
+Art. 11.
+
+O mandato de cada Entidade Conselheira da Sociedade Civil será de 02 (dois) anos, sendo permitida uma única recondução, por igual período.
+
+
+Parágrafo único
+
+Excetua-se do disposto no caput deste artigo, as entidades não-governamentais de que trata as alíneas “a”, “b”, “e”, “f”, “g”, “h” e “k” do inciso II do Art. 5º desta Lei, os quais poderão ser reconduzidos por mais de uma vez.
+
+
+###### Subseção IV — Do Funcionamento
+
+
+Art. 12.
+
+A Secretaria Municipal de Defesa Social viabilizará as condições técnicas, administrativas e financeiras necessárias ao funcionamento do CMSUSP.
+
+
+Art. 13.
+
+O CMSUSP reunir-se-á ordinariamente mensalmente e extraordinariamente sempre que convocado por seu Presidente, por iniciativa própria ou a requerimento da maioria absoluta dos seus membros.
+
+
+Art. 14.
+
+O CMSUSP poderá instituir grupos temáticos, comissões temporárias e câmaras técnicas destinadas a subsidiar a Plenária sobre temas específicos.
+
+
+Art. 15.
+
+O funcionamento e as atividades do CMSUSP serão estabelecidos em seu Regimento Interno.
+
+
+Art. 16.
+
+Cada Conselheiro terá o seu respectivo suplente, o qual deverá ser vinculado ao mesmo órgão ou entidade do titular, que o substituirá nas suas ausências ou impedimentos.
+
+
+§ 1º
+
+Perderá o mandato o Conselheiro que faltar a 03 (três) reuniões consecutivas, ou 05 (cinco) alternadas, salvo justificativa por escrito aprovada pelo Plenário do Conselho.
+
+
+§ 2º
+
+Nos casos de morte, renúncia ou perda de mandato, o órgão ou entidade indicará, mediante ofício, os novos conselheiros, titular e suplente, que deverão representar o órgão ou entidade no conselho.
+
+
+Art. 17.
+
+A função de Conselheiro será considerada serviço de interesse e relevância pública não sendo remunerada.
+
+
+Parágrafo único
+
+Fica autorizado o ressarcimento das despesas imprescindíveis para o exercício da função de conselheiro, na forma de seu Regimento Interno, mediante autorização do Plenário.
+
+
+Art. 18.
+
+A Secretaria Executiva do CMSUSP será ocupada por 1 (um) servidor, efetivo ou comissionado, lotado na Secretaria Municipal de Defesa Social, que exercerá a função de apoio técnico e administrativo ao Conselho e ficará subordinado à Presidência do Conselho.
+
+
+Art. 19.
+
+A representação do CMSUSP será exercida por seu Presidente, na sua ausência ou impedimento pelo Vice-Presidente ou por Conselheiro expressamente designado, pelo Plenário, para tal fim.
+
+
+Art. 20.
+
+O Conselho Municipal de Segurança Pública e Defesa Social será presidido pelo Secretário Municipal de Defesa Social e terá os demais membros de sua Diretoria Executiva eleitos dentre os seus conselheiros titulares.
+
+
+§ 1º
+
+Caberá ao Presidente, além do voto de Conselheiro, o de desempate.
+
+
+§ 2º
+
+Ocorrendo ausência ou impedimento da Presidência, a mesma deverá ser exercida pela Vice-presidência.
+
+
+Art. 21.
+
+O Vice-Presidente do CMSUSP será escolhido, mediante eleição, dentre os conselheiros titulares das entidades não-governamentais, para um mandato de 02 (dois) anos, vedada a recondução.
+
+
+Parágrafo único
+
+Ocorrendo a ausência ou impedimento da Vice-presidência, a Presidência será exercida pelo Secretário Geral.
+
+
+Art. 22.
+
+O Secretário Geral do CMSUSP será escolhido, mediante eleição, dentre os conselheiros titulares, para um mandato de 02 (dois) anos, vedada a recondução.
+
+
+Parágrafo único
+
+Compete ao Secretário Geral do CMSUSP:
+
+
+I –
+
+Redigir, editar e manter o Livro de correspondências recebidas e remetidas, com o registro dos nomes dos remetentes e destinatários e das datas de envio e recebimento;
+
+
+II –
+
+Redigir, editar e manter o Livro de Ata das Reuniões Ordinárias e Extraordinárias;
+
+
+III –
+
+Redigir, editar e manter o Livro de presença;
+
+
+IV –
+
+Manter a documentação de habilitação dos conselheiros;
+
+
+V –
+
+Anunciar a convocação dos conselheiros, titulares e suplentes, mediante o envio de Ofício ou livro próprio com a ciência do convocado, para as Reuniões Ordinárias e Extraordinárias do CMSUSP.
+
+
+Art. 23.
+
+O Coordenador dos Fóruns Municipais de Segurança Pública e Defesa Social será escolhido, mediante eleição, dentre os conselheiros titulares, para um mandato de 02 (dois) anos, vedada a recondução.
+
+
+Parágrafo único
+
+Compete ao Coordenador dos Fóruns Municipais de Segurança Pública e Defesa Social dar apoio aos Fóruns Distritais, especificamente, em suas deliberações nos distritos que integram as regiões geograficamente definidas no município do Cabo de Santo Agostinho.
+
+
+Art. 24.
+
+O Plenário é o órgão deliberativo e soberano do CMSUSP, constituído por todos os seus membros.
+
+
+§ 1º
+
+São atribuições do Plenário:
+
+
+I –
+
+Deliberar ou decidir de acordo com os artigos 2º e 3º desta Lei e conforme o Regimento Interno;
+
+
+II –
+
+Deliberar sobre a exclusão de membro do conselho que não compareceu a 03 (três) reuniões consecutivas, ou a 05 (cinco) reuniões alternadas do Plenário ou das comissões que integram, sem justificativa;
+
+
+III –
+
+Alterar, reformar ou substituir o Regimento Interno;
+
+
+IV –
+
+Autorizar a criação de comissões temporárias e deliberar quanto à constituição e extinção de Comissões Permanentes;
+
+
+V –
+
+realizar a escolha dos membros das comissões temporárias e permanentes, sempre primando pela paridade;
+
+
+VI –
+
+Manifestar-se sobre matérias de sua competência legal, regulamentar e regimental, tais como:
+
+
+a)
+
+Estudos e relatórios de impacto na segurança pública;
+
+
+b)
+
+Plano Municipal de segurança pública;
+
+
+c)
+
+Legislação e resoluções e suas alterações;
+
+
+d)
+
+Obras e edificações e suas alterações que envolvam estabelecimentos de segurança pública;
+
+
+e)
+
+Contratos, convênios e consórcios, cujo objetivo envolva a segurança pública.
+
+
+VI –
+
+Julgar recursos interpostos contra decisões ou omissões do Presidente.
+
+
+VII –
+
+Decidir sobre casos omissos.
+
+
+§ 2º
+
+As deliberações do Conselho revestir-se-ão das seguintes modalidades:
+
+
+I –
+
+Resoluções: quando de caráter normativo, com finalidade de fixar diretrizes e normas gerais de administração;
+
+
+II –
+
+Recomendações: quando não importarem em pronunciamento conclusivo, destinando-se unicamente a indicar conduta a ser adotada;
+
+
+III –
+
+Solicitações: quando forem necessárias informações adicionais para a tomada de decisão;
+
+
+IV –
+
+Decisões: quando se tratar de atas destinadas a formalizar as deliberações temporárias, submetidas ao Conselho.
+
+
+§ 3º
+
+As deliberações serão aprovadas por maioria simples, cabendo, em caso de empate, o voto de qualidade proferido pelo Presidente.
+
+
+Art. 25.
+
+As atividades do Plenário somente serão desenvolvidas em reuniões plenárias, com a presença da maioria absoluta, que corresponde a 50% (cinquenta por cento) mais um dos Conselheiros.
+
+
+§ 1º
+
+As reuniões ordinárias serão convocadas pelo Presidente do CMSUSP, que também convocará as extraordinárias, inclusive mediante requerimento da maioria ABSOLUTA.
+
+
+§ 2º
+
+A convocação será remetida pelo Secretário Geral do CMSUSP, através de Ofício, designando a data, hora e local da reunião, conterá sua pauta e estará acompanhada de cópia da Ata e das demais resoluções aprovadas na reunião anterior.
+
+
+##### Seção II — DOS FÓRUNS DISTRITAIS DE SEGURANÇA PÚBLICA E DEFESA SOCIAL – FDSUSP
+
+
+Art. 26.
+
+Ficam instituídos os Fóruns Distritais de Segurança Pública e Defesa Social - FDSUSP, no âmbito do Município do Cabo de Santo Agostinho, com finalidade de articular as comunidades e instituições ligadas ao setor da segurança pública para melhorar a qualidade dos serviços oferecidos e criar estratégias visando o bem-estar e segurança dos cidadãos.
+
+
+§ 1º
+
+Os Fóruns Municipais de Segurança Pública e Defesa Social - FDSUSP tem natureza colegiada, de caráter permanente, com competência propositiva, consultiva, sugestiva, de acompanhamento da Política Municipal de Segurança Pública e de Defesa Social no âmbito comunitário, com livre acesso aos cidadãos e representantes da sociedade civil organizada.
+
+
+§ 2º
+
+Fica estabelecido 1(um) Fórum Municipal de Segurança Pública e Defesa Social em cada distrito do Município do Cabo de Santo Agostinho, divididos e denominados da seguinte forma:
+
+
+I –
+
+Fórum Distrital de Segurança Pública e Defesa Social do Distrito Sede do Cabo de Santo Agostinho, responsável por;
+
+
+II –
+
+Fórum Distrital de Segurança Pública e Defesa Social do Distrito de Ponte dos Carvalhos;
+
+
+III –
+
+Fórum Distrital de Segurança Pública e Defesa Social das Praias do Cabo de Santo Agostinho;
+
+
+IV –
+
+Fórum Distrital de Segurança Pública e Defesa Social de Juçaral;
+
+
+§ 3º
+
+A competência territorial de deliberação dos fóruns obedecerá à divisão do território do Município do Cabo de Santo Agostinho, que é segmentado em 4 (quatro) Distritos e 9 (nove) Áreas Político-Administrativas – APAs, conforme prescreve a Lei Ordinária nº 3343, de 22 de dezembro de 2017.
+
+
+Art. 27.
+
+Aos Fóruns Municipais de Segurança Pública e Defesa Social – CMSUSP compete:
+
+
+I –
+
+levantar e discutir as questões relacionadas à segurança pública e defesa social dos cidadãos do município no âmbito do respectivo distrito municipal;
+
+
+II –
+
+promover eventos para discussão das questões relacionadas ao combate e prevenção à violência e a criminalidade, visando despertar a consciência pública local para os problemas relativos à segurança pública e defesa social;
+
+
+III –
+
+viabilizar canais de participação popular no âmbito do fórum distrital, permitindo a inserção dos cidadãos nas discussões acerca da segurança pública no distrito;
+
+
+IV –
+
+sugerir ao Conselho Municipal de Segurança Pública e Defesa Social – CMSUSP ações de combate às causas da violência e criminalidade no distrito em discussão;
+
+
+V –
+
+sugerir e opinar acerca de ações de promoção da cultura da não-violência e da paz;
+
+
+VI –
+
+planejar e organizar espaços de debates sobre a política municipal de segurança pública e defesa social;
+
+
+VII –
+
+organizar encontros sistemáticos para troca de experiências entre órgãos envolvidos com a segurança pública, visando o estabelecimento de ações locais;
+
+
+Art. 28.
+
+A estrutura e os procedimentos operacionais dos Fóruns Distritais de Segurança Pública e Defesa Social - FDSUSP serão definidos por um Regimento Interno Único.
+
+
+Art. 29.
+
+Compete ao Conselho Municipal de Segurança Pública e Defesa Social elaborar e aprovar, por maioria absoluta do Plenário, o Regimento Interno Único dos Fóruns Distritais de Segurança Pública e Defesa Social – FDSUSP.
+
+
+Art. 30.
+
+Os Fóruns Distritais de Segurança Pública e Defesa Social - FDSUSP terão funcionamento permanente e se reunirão ordinariamente a cada 2 (dois) meses, ou extraordinariamente, por convocação do seu Coordenador Geral, ou por requerimento da maioria dos seus membros.
+
+
+Art. 31.
+
+Os Fóruns Distritais de Segurança Pública e Defesa Social – FDSUSP serão coordenados por uma Comissão Executiva, que terá a seguinte estrutura:
+
+
+I –
+
+1 (um) Coordenador Geral;
+
+
+II –
+
+1 (um) Coordenador Executivo;
+
+
+III –
+
+1 (um) Coordenador de Mobilização e Articulação.
+
+
+§ 1º
+
+A comissão Executiva será eleita através de procedimento eleitoral, no âmbito do respectivo distrito, que deverá ser coordenado pelo Conselho Municipal de Segurança Pública e Defesa Social – CMSUSP.
+
+
+§ 2º
+
+Os candidatos a coordenadores da comissão Executiva devem ser integrantes regularmente inscritos no respectivo Fórum Distrital de Segurança Pública e Defesa Social – FDSUSP.
+
+
+§ 3º
+
+Fica vedado a candidatura à integrante da Comissão Executiva de servidores da administração pública nomeados em cargo por provimento em comissão e/ou confiança.
+
+
+Art. 32.
+
+Os integrantes das comissões executivas dos Fóruns Distritais de Segurança Pública e Defesa Social – FDSUSP terão mandato de 1 (um) ano, sendo permitida 1 (uma) recondução consecutiva.
+
+
+Art. 33.
+
+As funções de Coordenador Geral, Coordenador Executivo e Coordenador de Mobilização e Articulação serão considerada serviços de interesse e relevância pública, não sendo remuneradas.
+
+
+Parágrafo único
+
+Fica autorizado o ressarcimento das despesas imprescindíveis para o exercício das funções de Coordenador Geral, Coordenador Executivo e Coordenador de Mobilização e Articulação na forma do Regimento Interno Único dos Fóruns Distritais de Segurança Pública e Defesa Social – FDSUSP, mediante autorização do Plenário do CMSUSP.
+
+
+##### Seção III — DA CONFERÊNCIA MUNICIPAL SEGURANÇA PÚBLICA E DEFESA SOCIAL – FDSUSP
+
+
+Art. 34.
+
+Fica instituída a Conferência Municipal de Segurança Pública e Defesa Social do Município do Cabo de Santo Agostinho, que terá a atribuição de avaliar a situação da segurança pública no município do Cabo de Santo Agostinho e propor diretrizes para o aperfeiçoamento do sistema.
+
+
+Parágrafo único
+
+A Conferência Municipal de Segurança Pública e Defesa Social do Município do Cabo de Santo Agostinho é um instrumento de democratização e participação popular, com a finalidade de contribuir com a formulação da política de segurança e do plano municipal de segurança pública e defesa social, por meio do debate amplo, democrático e plural, com a sociedade cabense.
+
+
+Art. 35.
+
+A Conferência Municipal de Segurança Pública e Defesa Social possui caráter propositivo, consultivo e deliberativo, e tem como objetivo:
+
+
+I –
+
+avaliar o plano municipal de segurança pública e defesa social, e propor alterações ao mesmo;
+
+
+II –
+
+Incentivar e mobilizar a sociedade sobre a importância das políticas de segurança pública e defesa social como ferramenta fundamental de defesa dos direitos humanos e de desenvolvimento do município;
+
+
+III –
+
+efetivar a participação da sociedade no processo de definição de prioridades para elaboração de políticas públicas de segurança pública e defesa social, do orçamento e do controle da realização dessas políticas no âmbito do município.
+
+
+Art. 36.
+
+A Conferência Municipal de Segurança Pública e Defesa Social ocorrerá a cada 5 (cinco) anos, ordinariamente, ou de forma extraordinariamente
+
+
+##### Seção IV — DISPOSIÇÕES FINAIS
+
+
+Art. 37.
+
+O regimento interno do CMSUSP deverá ser publicado através de Decreto do Poder Executivo, no prazo de até 180 (cento e oitenta) dias, a contar da Publicação desta Lei
+
+
+Art. 38.
+
+O regimento interno do CMSUSP deverá elaborado e aprovado pela maioria absoluta dos conselheiros que compõem o plenário do CMSUSP.
+
+
+Art. 39.
+
+Em até 90 (noventa) dias a partir da publicação desta Lei, caberá ao Plenário do Conselho Municipal de Segurança Pública e Defesa Social – CMSUSP deliberar e aprovar sobre as medidas necessárias para o funcionamento dos Fóruns Distritais de Segurança Pública e Defesa Social – FDSUSP.
+
+
+Art. 40.
+
+Compete à Secretaria Municipal de Defesa Social - SMDS auxiliar o Prefeito e tomar as providências necessária para formulação da composição do Conselho Municipal de Segurança Pública e Defesa Social – CMSUSP.
+
+
+Art. 41.
+
+Compete ao Chefe do Poder Executivo Municipal elaborar e publicar o Decreto de nomeação dos conselheiros, titulares e suplentes, do Conselho Municipal de Segurança Pública e Defesa Social – CMSUSP.
+
+
+Art. 42.
+
+Compete ao Conselho Municipal de Segurança Pública e Defesa Social – CMSUSP, aprovar, mediante Resolução, o resultado do procedimento eleitoral dos integrantes das comissões executivas dos Fóruns Distritais de Segurança Pública e Defesa Social – FDSUSP.
+
+
+Parágrafo único
+
+Compete ao Chefe do Poder Executivo Municipal nomear, mediante Decreto, os membros das comissões executivas dos Fóruns Distritais de Segurança Pública e Defesa Social – FDSUSP.
+
+
+Art. 43.
+
+O Decreto de nomeação dos conselheiros, titulares e suplentes, do Conselho Municipal de Segurança Pública e Defesa Social – CMSUSP e dos Fóruns Distritais de Segurança Pública e Defesa Social – FDSUSP deverá ser publicado no prazo de até 30 (trinta) dias, a contar da Publicação desta Lei.
+
+
+Art. 44.
+
+A primeira eleição do Conselho Municipal de Segurança Pública e Defesa Social – CMSUSP e das Comissões Executivas dos Fóruns Distritais de Segurança Pública e Defesa Social – FDSUSP será coordenada por uma comissão eleitoral, nomeada pelo(a) Secretário(a) Municipal de Defesa Social – SMDS.
+
+
+Art. 45.
+
+Esta Lei entra em vigor na data da sua publicação.
+
+
+Palácio Joaquim Nabuco, em 26 de maio de 2022.
+
+***CLAYTON DA SILVA MARQUES***
+
+Prefeito
+
+Chancelas:
+
+***OSVIR GUIMARÃES THOMAZ.***
+
+Secretário Municipal de Assuntos Jurídicos (SMAJ).
+
+***PABLO AUGUSTO TENÓRIO DE CARVALHO***
+
+Secretário Municipal de Defesa Social (SMDS)
+
+***JOSÉ FRANCISCO FILHO***
+
+Secretário Municipal de Assuntos Estratégicos (SMAE)
+
+“Lei decorrente do Projeto de Lei à Sanção nº 027/2022, de autoria do Poder Executivo.”
+

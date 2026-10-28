@@ -1,0 +1,88 @@
+---
+titulo: "Lei Ordinária nº 4.618, de 20 de fevereiro de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4618"
+data: "2017-02-20"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/4414"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/812/text"
+sha256_fonte: "4e0ee9b5e209a736d5e474ba81070adb5011a2d6676902348aa9d9366bde2817"
+sha256_texto: "8886035a8b9c99cf180f988899d180f0180f6ef46b1e19aae97029d875faf617"
+capturado_em_fonte: "2026-10-27T17:41:21.859102-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.618, de 20 de fevereiro de 2017
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI Nº4618, DE 20 DE FEVEREIRO DE 2017.
+
+
+Autoriza abertura dos créditos adicionais que menciona.
+
+
+Art. 1º.
+
+Fica autorizada a abertura de Crédito Adicional Especial, no valor de R$885.304,40 (oitocentos e oitenta e cinco mil, trezentos e quatro reais e quarenta centavos), para implantação de sistema de tratamento de esgoto.
+
+
+Parágrafo único
+
+Os recursos de que trata o art. 43 da Lei 4.320/64, serão decorrentes do convênio SEA nº 005/2010 celebrado entre o Estado do Rio de Janeiro, por intermédio da Secretaria de Estado do Ambiente e o Município de Barra Mansa, com a interveniência do INEA, visando a execução de obras de saneamento e o acompanhamento de sua operação, no Município de Barra Mansa, com recursos provenientes do fundo estadual de conservação ambiental e desenvolvimento urbano – FECAM, no valor de R$ 40.000.000,00 (quarenta milhões de reais).
+
+
+Art. 2º.
+
+Fica autorizada a abertura de Crédito Adicional Especial, no valor de R$ 520.560,89 (Quinhentos e vinte mil, quinhentos e sessenta reais e oitenta e nove centavos), para a execução de Elaboração de Plano Municipal de Gestão Integrada de Resíduos Sólidos, com base na Lei Federal nº12.305/2010, no Município de Barra Mansa.
+
+
+Parágrafo único
+
+Os recursos de que trata o art. 43 da Lei 4.320/64, serão decorrentes de Termo de Transferência nº 0441.819-16/2014, celebrado entre a AGEVAP - Associação Pró-Gestão das Águas da Bacia Hidrográfica do Rio Paraíba do Sul e o Município de Barra Mansa, para a execução de Elaboração de Plano Municipal de Gestão Integrada de Resíduos Sólidos com base na Lei Federal nº 12.305/2010, no Município de Barra Mansa, no valor de R$520.560,89 (Quinhentos e vinte mil, quinhentos e sessenta reais e oitenta e nove centavos).
+
+
+Art. 3º.
+
+Fica autorizada a abertura de Crédito Adicional Especial, no valor de R$220.000,00 (duzentos e vinte mil reais), para a elaboração de estudos de concepção, projeto básico e executivo para o sistema de abastecimento de água do Município de Barra Mansa.
+
+
+Parágrafo único
+
+Os recursos de que trata o art. 43 da Lei 4.320/64, serão decorrentes de Termo de Compromisso nº 0351107-95/2011, celebrado com a União Federal, por intermédio dos Ministérios da Cidade, visando a elaboração de estudos de concepção, projetos básicos e executivos para o sistema de abastecimento de água do Município de Barra Mansa, no valor de R$ 1.100,000,00( Hum milhão e cem mil reais).
+
+
+Art. 4º.
+
+Fica autorizado abertura de crédito adicional especial no valor de R$ 89.229.216,07 (oitenta e nove milhões, duzentos e vinte e nove mil, duzentos e dezesseis reais e sete centavos) destinados ao Programa Saneamento Básico, Ação de Esgotamento Sanitário.
+
+
+Parágrafo único
+
+Os recursos para a cobertura do presente crédito adicional especial de que trata o artigo 43 da Lei 4320/64, serão decorrentes de termos de compromisso nº 0424.406-60/2013, acordado entre a União Federal, por intermédio dos Ministérios das Cidades, representado pela Caixa Econômica Federal, e o Município de Barra Mansa, para implantação do SES nas bacias 1,2,3 e 7 no Município.
+
+
+Art. 5º.
+
+Fica o Poder Executivo autorizado a codificar as referidas despesas com seu programa, dotação e valor, podendo suplementá-las, se necessário.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 20 DE FEVEREIRO DE 2017.
+
+
+RODRIGO DRABLE COSTA  
+PREFEITO
+

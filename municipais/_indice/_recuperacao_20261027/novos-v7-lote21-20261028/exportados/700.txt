@@ -1,0 +1,69 @@
+---
+titulo: "04 - Lei Ordinária nº 50, de 25 de setembro de 1973"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "50"
+data: "1973-09-25"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/775"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/764/text"
+sha256_fonte: "909cbd0959e4c5536e14a8e85ea55435d0b6ea63fc70f34b1b46892ff6979fb4"
+sha256_texto: "5d7d11c29c30aa60b420ea526ffc4d224bc50beab4e0b1994a2af60dd5f19917"
+capturado_em_fonte: "2026-10-28T09:27:20.066547-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 50, de 25 de setembro de 1973
+
+Autoriza o Poder Executivo a firmar convênio para o Governo do Estado do Paraná e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou e, Eu Prefeito Municipal sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a firmar convênio com o Governo do Estado do Paraná, pela Secretaria de Estados dos Negócios da Segurança Pública, visando a implantação de um complexo de radiocomunicação de fonia e telegrafia, capaz de cobrir todo o Município de Corbélia.
+
+
+§ 1º
+
+O Município de Corbélia participará com vistas de execução de convênio de que trata este artigo, com o quantia de Cr$ 20.000,00 (vinte mil cruzeiros), para a aquisição do referido aparelho.
+
+
+§ 2º
+
+Fica ainda o Executivo Municipal, autorizado a abrir um Crédito Especial até o valor correspondente utilizando como recurso financeiro e redução ou anulação de verbas em disponibilidade no orçamento em vigor.
+
+
+Art. 2º.
+
+A aparelhagem de que trata o art.1º, por força do convênio, será adjudicada no patrimônio do Governo Estadual, ficando o Executivo Municipal autorizado a proceder, oficialmente, a competente doação, contudo pretexto, a aparelhagem poderá sair do Município de Corbélia.
+
+
+Art. 3º.
+
+Esta Lei entrará em vigor a partir da data de sua publicação, revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE CORBÉLIA
+
+Em 25 de setembro de 1973.
+
+JOSÉ MIRON MULLER
+
+Prefeito Municipal
+
+Não substitui o texto publicado no Diário Oficial.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/775/ta
+

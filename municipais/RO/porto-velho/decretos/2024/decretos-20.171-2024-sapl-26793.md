@@ -1,0 +1,76 @@
+---
+titulo: "Decreto-SEMPOG nº 20.171, de 04 de julho de 2024"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "20.171"
+data: "2024-07-04"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/26793"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/6591/text"
+sha256_fonte: "4c4f0050bd547fde8b4121c9cc29c1f9516c36fec8544cfef7ef03be4cef4ab1"
+sha256_texto: "38aa68109700533e7e3036ac304ad7bf5b738d306d1f714f2154dafad2da16c7"
+capturado_em_fonte: "2026-10-21T04:16:07.158783-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 20.171, de 04 de julho de 2024
+
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Remanejamento de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei nº 3.130, de 20 de dezembro de 2023, a fim de proceder às adequações orçamentárias no exercício 2024;
+
+Considerando o Ofício n° 22/2024/DGSUAS/GAB/SEMASF, de 28 de junho de 2023, pelo qual a Secretaria Municipal de Assistência Social e da Família - SEMASF, solicita movimentação de recursos para cobertura de despesas com 1° aditivo de serviço e apostilamento de Reajuste de Preço Anual referente a Construção de Centro de Referência de Assistência Social do bairro Jardim Santana,
+
+**D E C R E T A:**
+
+
+Art. 1º.
+
+Fica alterado o Orçamento Anual do Município de Porto Velho por meio de remanejamento de recursos orçamentários no valor de R$ 351.963,87 (trezentos e cinquenta e um mil, novecentos e sessenta e três reais e oitenta e sete centavos).
+
+
+Art. 2º.
+
+Os remanejamentos são decorrentes da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas de um órgão para o outro ou de uma unidade orçamentária para outra, conforme disposto no inciso XV do Artigo 6º da Lei nº 3.094, de 25 de setembro de 2023 – Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><tbody><tr><td colspan="7"><p><strong>04.00 – PROCURADORIA GERAL DO MUNUCÍPIO - PGM</strong></p></td></tr><tr><td colspan="7"><p><strong>04.01 – PROCURADORIA GERAL DO MUNUCÍPIO - PGM</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>REMANEJA R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td><p>04.01.28.846.000.0.077</p></td><td><p>Cumprimento de Sentenças Judiciais</p></td><td><p>FIS</p></td><td><p>3.1.90.91</p></td><td><p>1.500.0000.0000</p></td><td><p>351.963,87</p></td><td><p>-</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>351.963,87</strong></p></td><td><p><strong>-</strong></p></td></tr><tr><td colspan="7"><p><strong>12.00 - SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL E DA FAMÍLIA - SEMASF</strong></p></td></tr><tr><td colspan="7"><p><strong>12.33 - FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL - FMAS</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>REMANEJA R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td><p>12.33.08.244.160.2.852</p></td><td><p>Manutenção das Unidades da Proteção Social Básica</p></td><td><p>FIS</p></td><td><p>4.4.90.51</p></td><td><p>1.500.0000.0000</p></td><td><p>-</p></td><td><p>351.963,87</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>-</strong></p></td><td><p><strong>351.963,87</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>351.963,87</strong></p></td><td><p><strong>351.963,87</strong></p></td></tr></tbody></table>
+
+
+Art. 3º.
+
+Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 19.668, de 20 de dezembro de 2023 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 19.669, de 20 de dezembro de 2023.
+
+
+Art. 4º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Art. 5º.
+
+Revogam-se as disposições em contrário.
+
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***SERGIO LUIZ PACÍFICO***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto
+

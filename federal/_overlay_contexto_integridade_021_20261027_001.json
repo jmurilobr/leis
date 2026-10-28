@@ -1,0 +1,36 @@
+{
+  "registros": [
+    {
+      "path": "federal/decretos/1943/dec-12057-1943-03-23.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1943-03-23;12057",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-03-23;12057",
+      "url_texto": "https://normas.leg.br/api/binario/aeffc91a-9964-4faa-87f3-033a16c21605/texto",
+      "sha256": "05a070e258b93f1917f88327298e1f650e33cc2595c4abea3fd006245ef338f8",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "6ef7750bc0e9b0bfe9bfbf5bc9e8b96d556017f590442491c5233f375130ff6c",
+      "sha256_metadados": "83f5bd800abb56f6302560ffd44121220e156a52eae9ce2bd913836d675df14b",
+      "captura_metadados": "federal/_fonte/metadados-normas/b34ffd69597c0aadf5fec774702607eb64e55aaad1685b4f733d30e224a7bc58/83f5bd800abb56f6302560ffd44121220e156a52eae9ce2bd913836d675df14b.json.gz",
+      "epigrafe": {
+        "numero": "12057",
+        "data": "1943-03-23",
+        "epigrafe": "DECRETO nº 12.057, DE 23 DE março de 1943."
+      },
+      "tabelas": 1,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "lote": 21,
+      "status": "retido_edicao_temporal_inconclusiva",
+      "motivo": "Epígrafe/índice/API de 23 de março de 1943, mas o Art. 2º usa crédito suplementar do Decreto-lei 5.842 de 22 de setembro de 1943 e o fecho presidencial também imprime 22 de setembro de 1943. A referência normativa posterior corrobora outro momento do corpo; exige edição/contexto oficial antes de certificar, sem inventar nova identidade ou corrigir a data."
+    }
+  ],
+  "limites": "Retenção conservadora desta transcrição, sem afirmar inexistência do decreto ou de fonte integral em outra publicação."
+}

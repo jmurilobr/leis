@@ -1,0 +1,32 @@
+{
+  "preparado_em": "2026-10-28T07:28:51.468648-03:00",
+  "total": 500,
+  "aptos": 45,
+  "retidos": 455,
+  "motivos": {
+    "ValueError: edição com anotações de alteração/revogação exige contexto histórico": 49,
+    "ValueError: operador PDF fora do subconjunto puramente textual": 223,
+    "ValueError: promulgação/dispositivo próprio inicial não comprovado": 32,
+    "ValueError: epígrafe própria não única; possível múltiplo ato/edição": 75,
+    "ValueError: PDF com raster/vetor exige revisão gráfica individual": 37,
+    "ValueError: fecho ausente/divergente ou ambíguo": 30,
+    "ValueError: cargo da assinatura não comprovado": 4,
+    "apto": 45,
+    "ValueError: camada textual tem glifo não resolvido": 1,
+    "Referência a objeto/anexo exige contexto individual": 4
+  },
+  "fonte_manifesto": "scripts/estados/manifestos/to-portal-fontes-500-20261028-002.json",
+  "sha256_manifesto": "4cf4c617fc27e19e89e31f8f65a9eb19cc98c96ba1d6009a403f65051c04fbc1",
+  "codigo": {
+    "scripts/estados/snapshots/to_pdf_simples_20261028_001/pdf_texto_fiel.py": "8a7488a99a1b8b3661093f67263df586f9502ccf9758ca7c4c0a1184a602ed7a",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_001/requirements.txt": "a023a8907435e7d31a06d035348932008e192af2a3fd3a73cf5cb165ea3ed6e5",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_001/test_to_pdf_simples.py": "4a2d5177b5f1216e51154c0538cb82d5535a2be6b5eb77eafcec831e88028376",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_001/test_metadados_to_pdf.py": "da3938c4258d1547ce759ae7cb1caf2657d5bf185bdc1e2ef036731a6f756754",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_001/auditar_to_pdf_simples.py": "8ca0b0c07e1b69369aba4ca5dab7011c3df50398176dc43ee22d80619a42b284",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_001/metadados_to_pdf.py": "a66f4e4149ce6d9016cfc4318347ec41b04d5f654c7c95b185753b6d02c8927a",
+    "scripts/estados/snapshots/to_pdf_simples_20261028_001/coletar_to_portal_indice.py": "15263ad6ec643232b7eaca59c86b42fbb591cf93ca66f9244d85549d90b346bf"
+  },
+  "sem_promocao": true,
+  "sem_mascara": true,
+  "metas_inalteradas": true
+}

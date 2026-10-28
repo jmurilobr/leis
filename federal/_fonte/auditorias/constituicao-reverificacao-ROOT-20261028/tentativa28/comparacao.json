@@ -1,0 +1,44 @@
+{
+  "referencias": {
+    "snapshot20": {
+      "arquivo": "fonte/constituicao-compilado.htm",
+      "sha256": "74144e44562b0f5985fb518cbb98b802536d459ed7838a8c381d544b0ea2af86",
+      "bytes": 1507134
+    },
+    "metadata20": {
+      "arquivo": "fonte/constituicao-compilado.json",
+      "sha256": "c07b24644f7cbaf2ca76dd0a6c80180cb49a525d364c0a62c21e9af97b2cd911",
+      "bytes": 880
+    },
+    "canonico": {
+      "arquivo": "constituicao.md",
+      "sha256": "32619869bc81b4eb97e0ec344daa7295fe581701a8e7804a5bf5039ec4f71774",
+      "bytes": 722006
+    },
+    "corpo20_sha256": "b9c9a2996ebb8a3e17bcd6423d060526f6324903bc3c4d4d94abfdb96172c818",
+    "corpo20_caracteres": 693160,
+    "canonico_reproduz_snapshot20": true,
+    "emenda141": {
+      "arquivo": "fonte/emc141.htm",
+      "sha256": "4693a96e19305f2b410093dc1813782c3d7fa1dfa1754969f15bcf1e3cd84754",
+      "bytes": 32333
+    },
+    "recibo27": {
+      "arquivo": "_fonte/operacao_root_20261027/constituicao-consulta-20261027.json",
+      "sha256": "df86ffd5958dc620b6a9e32c20de50f7deb6a15aa49277e1949932d8c23c6906",
+      "bytes": 388
+    },
+    "snapshot27_hash_registrado": "79c0e37327bd73faa58a690514cb8878ff3206c08e4fcf27f622e9d631151d99",
+    "arquivo27_presente": {
+      "arquivo": "_fonte/operacao_root_20261027/constituicao-compilado-20261027.htm",
+      "sha256": "79c0e37327bd73faa58a690514cb8878ff3206c08e4fcf27f622e9d631151d99",
+      "bytes": 1507134
+    },
+    "snapshot27_bruto_verificado": true,
+    "corpo27_sha256": "b9c9a2996ebb8a3e17bcd6423d060526f6324903bc3c4d4d94abfdb96172c818"
+  },
+  "HTTP200_HTML_valido": false,
+  "canonicо_alterado": false,
+  "limite": "Consulta da edição oficial servida; não certifica vigência hoje, eficácia imediata ou ausência de outras alterações/emendas.",
+  "resultado": "Sem resposta HTTP 200 com HTML válido; nenhuma inferência de atualização ou vigência."
+}

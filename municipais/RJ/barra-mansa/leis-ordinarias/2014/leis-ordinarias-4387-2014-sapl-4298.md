@@ -1,0 +1,62 @@
+---
+titulo: "Lei Ordinária nº 4.387, de 15 de dezembro de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4387"
+data: "2014-12-15"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/4298"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/1182/text"
+sha256_fonte: "acfc0a6443029b84422a957e7e61eead3e868563acddafd9bd105e52e082a3c5"
+sha256_texto: "d0fb0ee642bd3b65f4b2e8ebb95dcce4abb343ffeb58f7a7fcb183a8b07d2bf2"
+capturado_em_fonte: "2026-10-27T17:49:09.718540-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.387, de 15 de dezembro de 2014
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI N° 4387 ,DE 15 DE DEZEMBRO DE 2014.
+
+
+"Declara como de Expansão Urbana a Área de Terreno que Especifica."
+
+
+Art. 1º.
+
+Fica declarada como de expansão urbana, para ampliação do Distrito Sede, a seguinte área, localizada nas proximidades do perímetro urbano do Município de Barra Mansa, cujos limites e confrontações, constam do Memorial Descritivo, anexado ao Processo Administrativo nº8164/2012:
+
+**Área localizada contígua ao Bairro Vista Alegre, declarada como de expansão urbana, com a seguinte descrição:** Área de terra da gleba A, situada à Rua São Pedro, bairro Vista Alegre, nesta cidade, medindo de frente em 3 linhas quebrada: 43,00 m (quarenta e três metros), 93,90 m (noventa e três metros e noventa centímetros), 62,00 m (sessenta e dois metros), perfazendo o total de 198,90 m (cento e noventa e oito metros e noventa centímetros), confrontando com a Rua São Pedro; fundos medes 187,0 m (cento e oitenta e sete metros), confrontando com Ataíde Nogueira de Carvalho; pelo lado direito mede, em 5 linhas quebradas, 56,60 m (cinquenta e seis metros e sessenta centímetros), 80,80 m (oitenta metros e oitenta centímetros), 187,70 m (cento e oitenta e sete metros e setenta centímetros), 76,60 m (setenta e seis metros e sessenta centímetros), 83,60 loitenta e três metros e sessenta centímetros), perfazendo o total de 485,30 m (quatrocentos e oitenta e cinco metros e trinta centímetros), confrontando.com o córrego; pelo lado esquerdo mede, em 4 linhas quebradas, 198,00 (cento e noventa e oito metros), confrontando com a Gleba B do Proprietário, 244,00 (duzentos e quarenta e quatro metros), 95,00 (noventa e cinco metros), 99,00 (noventa e nove metros), confrontando com Jurandir Gonçalves Dias e outro, perfazendo o total de 636,OQ:(seiscentose trinta e seis metros), com área total de 106.800,00m2 (cento e seis mil e-oítocentos metros quadrados).
+
+
+Art. 2º.
+
+O proprietários e/ou incorporadores da respectiva área, deverão apresentar o projeto de. parcelamento da mesma, no prazo de 150 (cento e cinquenta) dias, a contar da vigência desta Lei, sob pena de caducidade do direito de parcelamento.
+
+
+Parágrafo único
+
+A presente Lei restará revogada, perdendo a sua eficácia, caso o prazo estabelecido no "caput" deste artigo, decorra sem que o  
+projetos de parcelamento venh~ a ser devidamente protocolado junto à Prefeitura Municipal.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 15 DE DEZEMBRO DE 2014.
+
+
+JONASTONIAN MARINS AGUIAR
+
+PREFEITO
+

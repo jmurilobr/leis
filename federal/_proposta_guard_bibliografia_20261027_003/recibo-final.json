@@ -1,0 +1,52 @@
+{
+  "escopo": "Sucessor privado 003, preservando 001 e 002. Não aplicado ao guard vivo, canônicos ou registro.",
+  "sha256_guard56_preimagem": "ec4428ce7d97f00f709d526f74cd2ba2c3ab01e78b3529fb8c3783483cf3a5fe",
+  "sha256_guard_candidato": "5613c25b3c7588001c7ea5df443c80e01e305f2578f7c78a582a66bd87b1ec6d",
+  "sha256_predecessor002": "4009259c7c1f38322c7ce7500bef1432700dbef6e15c3d0c09646fd95d2f8bf0",
+  "testes": {
+    "executados": 74,
+    "aprovados": 74
+  },
+  "replay": {
+    "corpos": 12669,
+    "deltas": 65,
+    "alertas_fora_inventario": 0,
+    "inventario_sem_alerta": 0
+  },
+  "alteracao": "Reconhece vínculos atuais explícitos por acompanham o presente/este decreto, que com este baixa/baixam e que a este acompanha/acompanham antes da dispensa baseada somente em remissões externas. Não depende de o objeto ser tabela nem de substituída pela que acompanha.",
+  "arquivos": [
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_003/integridade_anexos_decreto.py",
+      "sha256": "5613c25b3c7588001c7ea5df443c80e01e305f2578f7c78a582a66bd87b1ec6d"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_003/test_integridade_anexos_decreto.py",
+      "sha256": "966f1050f95c67d37bb08f00f094102fc75bae2beae3d56dd4b886c78dc233af"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_003/guard56-preimagem.py.txt",
+      "sha256": "ec4428ce7d97f00f709d526f74cd2ba2c3ab01e78b3529fb8c3783483cf3a5fe"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_003/guard-bibliografia.patch",
+      "sha256": "d7ec6797d0869145105e22b3afe186a10795f99b0e79a28e417a9e49d11bc026"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_003/testes.log",
+      "sha256": "ff39705951b35f17a696b909c0f9f31fc536bfb024fad8890199636c3070d46a"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_003/replay.py",
+      "sha256": "9109c477bd023b5453efbbfc38b4e174d7b31a937b2cff8c3cb1a28aff4144fa"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_003/replay12669.json",
+      "sha256": "4be3c851aa68c103d75feae1d7ee0392650f9c46ffb7a480de7c1eeef1259b5c"
+    },
+    {
+      "path": "federal/_proposta_guard_bibliografia_20261027_003/replay.log",
+      "sha256": "c28d82e60da437b5adb3f3023a258d9ce306e2ccbb55026c66857cb1eff8094b"
+    }
+  ],
+  "limites": "Alerta conservador para revisão documental, sem declarar ausência pelo marcador e sem exceções por número de norma. Preserva os controles de mera remissão. Testes/replay privados não importaram o guard vivo."
+}

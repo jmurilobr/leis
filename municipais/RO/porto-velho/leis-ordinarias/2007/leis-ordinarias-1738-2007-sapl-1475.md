@@ -1,0 +1,130 @@
+---
+titulo: "Lei nº 1.738, de 28 de junho de 2007"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1738"
+data: "2007-06-28"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/1475"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/3176/text"
+sha256_fonte: "8e5c4119013f29b156778fb079974ec96da542ffebe20717a78b01f72a58ad25"
+sha256_texto: "9a01df5132596865f4605353cc360480def1544be8e9b4c8e6b58de7bd678056"
+capturado_em_fonte: "2026-10-27T21:27:48.514790-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.738, de 28 de junho de 2007
+
+“Dispõe sobre a obrigatoriedade da Secretaria Municipal de Saúde publicar, no site oficial da Prefeitura Municipal de Porto Velho e em todas Unidades Básicas de Saúde, da relação de medicamentos de uso contínuo existentes, daqueles em falta e o local onde encontrá-los na Rede Municipal de Saúde e dá outras providências”.
+
+
+**O PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando suas atribuições que lhe é conferido no art. 87, inciso IV da Lei Orgânica do Município de Porto Velho.
+
+**FAÇO SABER**, que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte
+
+**LEI:**
+
+
+Art. 1º.
+
+Fica obrigada a Secretaria Municipal de Saúde a publicar no “site oficial da Prefeitura Municipal de Porto Velho” e em todas as Unidades Básicas de Saúde da Rede Municipal de Saúde, em local de fácil acesso a leitura, a relação de medicamentos de uso contínuo existentes e daqueles em falta, e onde encontrá-los na Rede Municipal de Saúde.
+
+
+Parágrafo único
+
+A Secretaria Municipal de Saúde do Município de Porto Velho, ficará responsável pela criação de um serviço que atenderá quaisquer reclamações sobre a falta de medicamentos de uso contínuo na Rede Municipal de Saúde, que de posse dessas informações, deverá comunicar os responsáveis pelo “site oficial da Prefeitura Municipal de Porto Velho”, que deverão publicá-lo na página do site, em placas e cartazes explicativos alertando a população sobre a falta de medicamento, num prazo de 24 (vinte e quatro) horas depois de recebida à reclamação, com os seguintes dizeres: “Medicamento de Uso Contínuo em falta – Veja a relação”.
+
+
+Art. 2º.
+
+A informação sobre a falta do medicamento de uso contínuo só sairá do “site oficial da Prefeitura Municipal de Porto Velho” quando se comprovar o restabelecimento do seu fornecimento.
+
+
+Art. 3º.
+
+Caberá a Secretaria Municipal de Saúde do Município de Porto Velho as seguintes funções:
+
+
+I –
+
+disponibilizar na Secretaria Municipal de Saúde, informações de como proceder e um serviço exclusivo para a população formalizar tais reclamações, em formulário específico, locais de fácil acesso à população e um endereço eletrônico para receber tais reclamações, inclusive podendo fazê-lo por intermédio do site oficial da Prefeitura Municipal de Porto Velho;
+
+
+II –
+
+encaminhar aos órgãos competentes da Prefeitura Municipal de Porto Velho, as denúncias apresentadas pela população sobre a falta de medicamentos de uso contínuo;
+
+
+III –
+
+estipular prazo máximo de 15 (quinze) dias úteis para a reposição de tal medicamento de uso contínuo em falta;
+
+
+IV –
+
+fiscalizar o comprimento da Lei pela Prefeitura Municipal de Porto Velho ou o órgão responsável;
+
+
+V –
+
+produzir placas, cartazes e folhetos a título de informação contendo texto explicativo sobre a Lei, quais são os direitos e deveres do cidadão, o número da Lei, endereço e o número de telefone de onde protocolar tal reclamação facilitar acesso a INTERNET, possibilitando formalizar e protocolar reclamação via endereço eletrônico;
+
+
+VI –
+
+definir os locais onde serão afixados as placas e cartazes e forma de como serão distribuídos os folhetos;
+
+
+VII –
+
+determinar periodicidade de atualização de informação a cada 24 (vinte quatro) horas, tanto no site oficial da Prefeitura Municipal de Porto Velho, como também nas Unidades Básicas de Saúde da Rede Municipal de Saúde e que a mesma seja disponibilizada em placa afixada em local visível e de fácil acesso, que conste o nome do responsável e/ou órgão responsável que efetuou a atualização da informação bem como conste o lote do medicamento adquirido;
+
+
+VIII –
+
+é de responsabilidade da Prefeitura Municipal de Porto Velho regulamentar quais serão os padrões adotados da placa informativa a ser adotada, contendo os dizeres “Medicamento de Uso Contínuo em falta – Veja a relação”, conforme o § Único do Art. 1º;
+
+
+IX –
+
+determinar a retirada do site oficial da “Prefeitura Municipal de Porto Velho” e dos cartazes existentes nas Unidades Básicas de Saúde da Rede Municipal de Saúde, quando a Secretaria da Saúde e/ou responsável comprovar que se restabeleceu o fornecimento dos medicamentos de uso contínuo, ora em falta:
+
+
+X –
+
+elaborar campanha explicativa a população, por intermédio de folhetos, no que se refere aos seus direitos e deveres ao acesso aos medicamentos de uso contínuo e a listagem destes em caso de falta, identificando para que serve tal medicamento, a quantidade disponível e sua sintomatologia, e de como proceder à reclamação.
+
+
+Art. 4º.
+
+As despesas decorrentes com a aplicação desta Lei correrão por conta de dotações orçamentárias próprias, consignadas no orçamento suplementadas se necessário.
+
+
+Art. 5º.
+
+O Poder Executivo regulamentará a presente Lei no prazo de 90 (noventa) dias a contar de sua publicação.
+
+
+Art. 6º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Art. 7º.
+
+Revogam-se as disposições em contrário.
+
+
+**ROBERTO EDUARDO SOBRINHO Prefeito do Município**
+
+MÁRIO JONAS FREITAS GUTERRES  
+Procurador Geral do Município
+
+**Projeto de Lei n. 2.349/2007 Autoria: Vereador Flávio Honório Lemos**
+

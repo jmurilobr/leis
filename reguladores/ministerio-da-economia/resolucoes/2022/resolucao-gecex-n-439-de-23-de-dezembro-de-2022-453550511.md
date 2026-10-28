@@ -1,0 +1,38 @@
+---
+titulo: "RESOLUÇÃO GECEX Nº 439, DE 23 DE DEZEMBRO DE 2022"
+orgao: "Ministério da Economia/Câmara de Comércio Exterior/Comitê-Executivo de Gestão"
+tipo: "Resolução"
+numero: "439"
+data: 2022-12-23
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 26/12/2022, seção 1, p. 42"
+data_publicacao: 2022-12-26
+edicao: "242"
+fonte: "https://www.in.gov.br/web/dou/-/resolucao-gecex-n-439-de-23-de-dezembro-de-2022-453550511"
+sha256_html_fonte: 30ed3194a29fd826be7f7d1287cce2597395dbba3fcd6a2fe488ddaa0e95a5b1
+baixado_em: 2026-10-20
+---
+# RESOLUÇÃO GECEX Nº 439, DE 23 DE DEZEMBRO DE 2022
+
+RESOLUÇÃO GECEX Nº 439, DE 23 DE DEZEMBRO DE 2022
+
+Altera o Anexo IV da Resolução Gecex nº 272, de 19 de novembro de 2021, e dá outras providências
+
+O COMITÊ EXECUTIVO DE GESTÃO DA CÂMARA DE COMÉRCIO EXTERIOR, no uso das atribuições que lhe confere o 7º, incisos IV e V, do Decreto nº 10.044, de 4 de outubro de 2019, e considerando o disposto nas Diretrizes nºs 148, 153, 154, 155 e 156, da Comissão de Comércio do Mercosul - CCM, datadas de 01 de dezembro de 2022, na Resolução nº 49, de 7 de novembro de 2019, do Grupo Mercado Comum - GMC, e de acordo com as deliberações de suas 193ª, 197ª e 198ª reuniões ordinárias, ocorridas respectivamente em abril, agosto e setembro de 2022, resolve:
+
+**Art. 1º** Ficam incluídos no Anexo IV da Resolução Gecex nº 272, de 19 de novembro de 2021, os produtos conforme descrições, alíquotas, e prazos discriminados no Anexo Único desta Resolução.
+
+**Art. 2º** Fica alterada, no Anexo IV da Resolução Gecex nº 272, de 2021, a descrição do produto conforme quadro a seguir:
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>NCM</p></td>      <td rowspan="1" colspan="1"><p>Nº EX</p></td>      <td rowspan="1" colspan="1"><p>DESCRIÇÃO</p></td>      <td rowspan="1" colspan="1"><p>ALÍQUOTA (%)</p></td>      <td rowspan="1" colspan="1"><p>QUOTA</p></td>      <td rowspan="1" colspan="1"><p>UNIDADE QUOTA</p></td>      <td rowspan="1" colspan="1"><p>OBSERVAÇÃO</p></td>      <td rowspan="1" colspan="1"><p>ENQUADRAMENTO ANEXO RES. GMC 49/19</p></td>      <td rowspan="1" colspan="1"><p>INÍCIO DA VIGÊNCIA</p></td>      <td rowspan="1" colspan="1"><p>TÉRMINO DA VIGÊNCIA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3921.19.00</p></td>      <td rowspan="1" colspan="1"><p>001</p></td>      <td rowspan="1" colspan="1"><p>Folhas de poli(tereftalato de etileno) com comprimento igual ou superior a 500mm e inferior ou igual a 2500mm, largura igual ou superior a 200mm e inferior ou igual a 1500mm e densidade igual ou superior a 80 Kg/m3 e inferior ou igual a 300 Kg/m3, dos tipos utilizados no processo de fabricação de pás eólicas</p></td>      <td rowspan="1" colspan="1"><p>0</p></td>      <td rowspan="1" colspan="1"><p>600.000</p></td>      <td rowspan="1" colspan="1"><p>metros quadrados</p></td>      <td rowspan="1" colspan="1"><p>-</p></td>      <td rowspan="1" colspan="1"><p>Art. 2º Inciso 3</p></td>      <td rowspan="1" colspan="1"><p>5/12/2022</p></td>      <td rowspan="1" colspan="1"><p>4/12/2023</p></td>     </tr>    </tbody>   </table>
+
+**Art. 3º** Esta Resolução entra em vigor em 31 de dezembro de 2022.
+
+MARCELO PACHECO DOS GUARANYS
+
+Presidente do ComitêSubstituto
+
+ANEXO ÚNICO
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>NCM</p></td>      <td rowspan="1" colspan="1"><p>Nº EX</p></td>      <td rowspan="1" colspan="1"><p>DESCRIÇÃO</p></td>      <td rowspan="1" colspan="1"><p>ALÍQUOTA (%)</p></td>      <td rowspan="1" colspan="1"><p>QUOTA</p></td>      <td rowspan="1" colspan="1"><p>UNIDADE QUOTA</p></td>      <td rowspan="1" colspan="1"><p>OBSERVAÇÃO</p></td>      <td rowspan="1" colspan="1"><p>ENQUADRAMENTO ANEXO RES. GMC 49/19</p></td>      <td rowspan="1" colspan="1"><p>INÍCIO DA VIGÊNCIA</p></td>      <td rowspan="1" colspan="1"><p>TÉRMINO DA VIGÊNCIA</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>3808.92.93</p></td>      <td rowspan="1" colspan="1"><p>001</p></td>      <td rowspan="1" colspan="1"><p>Fungicida à base de mancozeb</p></td>      <td rowspan="1" colspan="1"><p>0</p></td>      <td rowspan="1" colspan="1"><p>7.900</p></td>      <td rowspan="1" colspan="1"><p>toneladas</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>Art. 2º Inciso 2</p></td>      <td rowspan="1" colspan="1"><p>31/12/2022</p></td>      <td rowspan="1" colspan="1"><p>30/12/2023</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>4014.10.00</p></td>      <td rowspan="1" colspan="1"><p>003</p></td>      <td rowspan="1" colspan="1"><p>Preservativo feminino confeccionado em borracha nitrílica</p></td>      <td rowspan="1" colspan="1"><p>0</p></td>      <td rowspan="1" colspan="1"><p>2.500</p></td>      <td rowspan="1" colspan="1"><p>toneladas</p></td>      <td rowspan="1" colspan="1"><p>Quota conjunta para os Ex nº 003 e 004 da NCM 4014.10.00</p></td>      <td rowspan="1" colspan="1"><p>Art. 2º Inciso 1</p></td>      <td rowspan="1" colspan="1"><p>31/12/2022</p></td>      <td rowspan="1" colspan="1"><p>30/12/2023</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>4014.10.00</p></td>      <td rowspan="1" colspan="1"><p>004</p></td>      <td rowspan="1" colspan="1"><p>Preservativo feminino confeccionado em borracha natural</p></td>      <td rowspan="1" colspan="1"><p>0</p></td>      <td rowspan="1" colspan="1"><p>2.500</p></td>      <td rowspan="1" colspan="1"><p>toneladas</p></td>      <td rowspan="1" colspan="1"><p>Quota conjunta para os Ex nº 003 e 004 da NCM 4014.10.00</p></td>      <td rowspan="1" colspan="1"><p>Art. 2º Inciso 1</p></td>      <td rowspan="1" colspan="1"><p>31/12/2022</p></td>      <td rowspan="1" colspan="1"><p>30/12/2023</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>5407.10.19</p></td>      <td rowspan="1" colspan="1"><p>001</p></td>      <td rowspan="1" colspan="1"><p>Tecido plano de poliamida de alta tenacidade, com título igual ou superior a 235 decitex e inferior ou igual a 700 decitex, largura igual ou superior a 1.400 mm e inferior ou igual a 2.500 mm, gramatura igual ou superior a 140 g/m² e inferior ou igual a 600 g/m², flamabilidade inferior ou igual a 75 mm/min, rigidez inferior ou igual a 150 N e resistência ao rasgo mínima de 60 N, apresentado em rolos, próprio para confecção de bolsas infláveis para airbags</p></td>      <td rowspan="1" colspan="1"><p>0</p></td>      <td rowspan="1" colspan="1"><p>2.800</p></td>      <td rowspan="1" colspan="1"><p>toneladas</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>Art. 2º Inciso 1</p></td>      <td rowspan="1" colspan="1"><p>14/01/2023</p></td>      <td rowspan="1" colspan="1"><p>13/01/2024</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>7210.70.20</p></td>      <td rowspan="1" colspan="1"><p>001</p></td>      <td rowspan="1" colspan="1"><p>Chapas planas laminadas a frio, de aço carbono não ligado, revestidas de zinco por processo de imersão a quente e revestidas acessoriamente com película plástica de polietileno, para conformação de corpo e de porta de refrigerador de uso doméstico, com espessura inferior ou igual a 0,50 mm e largura igual ou superior a 600 mm</p></td>      <td rowspan="1" colspan="1"><p>0</p></td>      <td rowspan="1" colspan="1"><p>7.200</p></td>      <td rowspan="1" colspan="1"><p>toneladas</p></td>      <td rowspan="1" colspan="1"><p></p></td>      <td rowspan="1" colspan="1"><p>Art. 2º Inciso 2</p></td>      <td rowspan="1" colspan="1"><p>31/12/2022</p></td>      <td rowspan="1" colspan="1"><p>30/12/2023</p></td>     </tr>    </tbody>   </table>

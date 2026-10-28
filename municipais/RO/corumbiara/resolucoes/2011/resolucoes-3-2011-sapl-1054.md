@@ -1,0 +1,67 @@
+---
+titulo: "RESOLUÇÃO nº 3, de 05 de setembro de 2011"
+tipo: "Resolução"
+tipo_na_fonte: "RESOLUÇÃO"
+numero: "3"
+data: "2011-09-05"
+municipio: "Corumbiara"
+uf: "RO"
+codigo_ibge: "1100072"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corumbiara.ro.leg.br/norma/1054"
+fonte_texto: "https://sapl.corumbiara.ro.leg.br/ta/271/text"
+sha256_fonte: "66dd3716434d2bccc1f876801918334872ad52e275624d753c621987b82924b6"
+sha256_texto: "79913adb72753261028d0527ee8572fc33f2b61e6d64b545e232f3755e15443b"
+capturado_em_fonte: "2026-10-28T09:25:25.301392-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# RESOLUÇÃO nº 3, de 05 de setembro de 2011
+
+DISPÕE SOBRE AUTORIZAÇÃO PARA AQUISIÇÃO DE VEÍCULO UTILITÁRIO ZERO KM, BEM COMO ALIENAÇÃO DO VEÍCULO CROSS FOX COMO PARTE DE PAGAMENTO, E DÁ OUTRAS PROVIDÊNCIAS.
+
+
+A Mesa Diretora da Câmara Municipal de Corumbiara, Estado de Rondônia, usando de suas atribuições legais, considerando a necessidade de adquirir um veículo utilitário para dar melhores condições de tráfego aos servidores e vereadores a serviço da Edilidade, faz saber que o Soberano Plenário aprovou e Ela promulga a seguinte
+
+**RESOLUÇÃO:**
+
+
+Art. 1º.
+
+Fica autorizado o Presidente da Câmara Municipal a adquirir um veículo Zero Km para a Câmara Municipal, com as seguintes características: **CAMINHONETE CABINE DUPLA – 2011/2011 Motor 2.8-TURBO DIESEL ELETRONIC – TRAÇÃO 4X4 Potência: 140 CAVALOS**, contendo ainda: Ar-condicionado; Direção hidráulica; Vidros elétricos nas 4 portas; Travas elétricas e alarme; Retrovisores com regulagem elétrica; Banco do motorista com regulagem elétrica; Bancos revestidos em couro; Regulagem e altura do volante; Sistema de som AM/FM – MP3 – USB – Bluetooth; Protetor de cárter (peito de aço); Rodas de alumínio aro 16”; Vidro da janela traseiro corrediço; Sistema de acionamento elétrico da tração 4x4 por botão; Acelerador eletrônico; Amortecedores de alto desempenho; Sistema de controle antideslizante das rodas traseiras; Freios ABS nas 4 Rodas; Airbags duplos – Motorista e passageiro; Piloto automático; emplacada e com licenciamento e seguro obrigatório pago; bem como os acessórios: protetor de caçamba, Stribus e Santantonio cromado, devidamente instalados no veículo.
+
+
+Art. 2º.
+
+Fica autorizado o Presidente da Câmara Municipal, através do setor competente, a fazer a baixa patrimonial do veículo **VW/CROSSFOX 2008/2009 PLACA NED2700 de propriedade da Câmara Municipal** para dar como forma de pagamento parcial, e pagando a diferença com recursos financeiros disponíveis da Câmara Municipal para a aquisição do veículo de que trata o artigo 1º desta Resolução.
+
+
+Parágrafo único
+
+O Presidente da Câmara deverá constituir Comissão de Vistoria e Avaliação e nomear seus membros titulares e suplentes, para no prazo de três dias apresentarem o respectivo Laudo.
+
+
+Art. 3º.
+
+Para a aquisição do veículo de que trata o artigo 1º, deverá ser realizada a licitação pela Comissão Permanente de Licitação nos termos da Lei 8.666/93 e suas alterações, o mais breve possível, tendo em vista que se aproxima o encerramento do exercício de 2011.
+
+
+Parágrafo único
+
+A Comissão Permanente de Licitação deverá analisar minuciosamente o Laudo de Vistoria e Avaliação da Comissão de Avaliação que será nomeada para avaliar o veículo citado no artigo 2º desta Resolução.
+
+
+Art. 4º.
+
+Esta Resolução entra em vigor na data de sua publicação.
+
+
+Corumbiara, 05 de setembro de 2011.
+
+**MESA DIRETORA DA CÂMARA:**
+
+<table><tbody><tr><td><strong>Galdino Raul de Sousa</strong><br>Vereador Presidente</td><td><strong>Marcelo C. do Nascimento</strong><br>Vereador Vice-Presidente</td></tr><tr><td><strong>Artêmio Piana Vieira</strong><br>Ver. 1º Secretário</td><td><strong>Moisés Pereira da Veiga</strong><br>Ver. 2º Secretário</td></tr></tbody></table>
+

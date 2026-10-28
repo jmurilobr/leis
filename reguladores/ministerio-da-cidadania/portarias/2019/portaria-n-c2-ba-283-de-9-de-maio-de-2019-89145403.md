@@ -1,0 +1,50 @@
+---
+titulo: "PORTARIA Nº 283, DE 9 DE MAIO DE 2019"
+orgao: "Ministério da Cidadania/Secretaria Especial da Cultura/Secretaria de Fomento e Incentivo à Cultura"
+tipo: "Portaria"
+numero: "283"
+data: 2019-05-09
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 10/05/2019, seção 1, p. 10"
+data_publicacao: 2019-05-10
+edicao: "89"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n%C2%BA-283-de-9-de-maio-de-2019-89145403"
+sha256_html_fonte: d09d19fe433d9c105eabbe1b9b5bf121cf9713e4d95215c9d945f10a77e1b3e4
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 283, DE 9 DE MAIO DE 2019
+
+PORTARIA Nº 283, DE 9 DE MAIO DE 2019
+
+O SECRETÁRIO DE FOMENTO E INCENTIVO À CULTURA, no uso de suas atribuições legais, que lhe confere a Portaria nº 1317, de 01 de julho de 2016, o art. 4º da Portaria nº 120, de 30 de março de 2010, e o § 9º do art. 1º da Instrução Normativa nº 5, de 26 de dezembro de 2017, resolve:
+
+**Art. 1º** - Tornar pública a relação do(s) projeto(s) apoiado(s) por meio do mecanismo Incentivo a Projetos Culturais do Programa Nacional de Apoio à Cultura (PRONAC), instituído pela Lei nº 8.313, de 23 de dezembro de 1991, que tiveram sua(s) prestação(ões) de contas APROVADA(S) no âmbito desta Secretaria, em observância ao disposto no parágrafo único do art. 70 da Constituição Federal, no § 1º do art. 20 da Lei nº 8.313, de 1991, e no inciso II do art. 51 da Instrução Normativa nº 5, de 26 de dezembro de 2017, conforme anexo I.
+
+**Art. 2º** - Tornar pública a relação do(s) projeto(s) apoiado(s) por meio do mecanismo Incentivo a Projetos Culturais do Programa Nacional de Apoio à Cultura (PRONAC), instituído pela Lei nº 8.313, de 23 de dezembro de 1991, que tiveram sua(s) prestação(ões) de contas APROVADA(S) COM RESSALVAS no âmbito desta Secretaria, em observância ao disposto no parágrafo único do art. 70 da Constituição Federal, do § 1º do art. 20 da Lei nº 8.313, de 1991, e no inciso III do art. 51 da Instrução Normativa nº 5, de 26 de dezembro de 2017, conforme anexo II.
+
+**Art. 3º** - Tornar pública a relação do(s) projeto(s) apoiado(s) por meio do mecanismo Incentivo a Projetos Culturais do Programa Nacional de Apoio à Cultura (PRONAC), instituído pela Lei nº 8.313, de 23 de dezembro de 1991, que tiveram sua(s) prestação(ões) de contas RECONSIDERADAS da reprovação por parte da análise técnica, necessitando da análise financeira, no âmbito desta Secretaria, em observância ao disposto no parágrafo único do art. 70 da Constituição Federal e do § 1º do art. 20 da Lei nº 8.313, de 1991, conforme anexo III.
+
+**Art. 4º** - Tornar pública a relação do(s) projeto(s) apoiado(s) por meio do mecanismo Incentivo a Projetos Culturais do Programa Nacional de Apoio à Cultura (PRONAC), instituído pela Lei nº 8.313, de 23 de dezembro de 1991, que tiveram sua(s) prestação(ões) de contas REPROVADA(S) no âmbito desta Secretaria, em observância ao disposto no parágrafo único do art. 70 da Constituição Federal, do § 1º do art. 20 da Lei nº 8.313, de 1991, e no inciso III do art. 51 da Instrução Normativa nº 5, de 26 de dezembro de 2017., conforme Anexo IV.
+
+**Art. 5º** - Informar que cabe ao proponente emitir comprovantes em favor dos doadores ou patrocinadores, bem como manter o controle documental das receitas e despesas do projeto pelo prazo de cinco anos, contados da aprovação da prestação de contas, à disposição do MinC e dos órgãos de controle e fiscalização, caso seja instado a apresentá-las, conforme previsto no art. 36 da Instrução Normativa RFB nº 1.131, de 21 de fevereiro de 2011.
+
+**Art. 6º** - Esta portaria entra em vigor na data de sua publicação.
+
+JOSÉ PAULO SOARES MARTINS
+
+## ANEXO I
+
+<table><tr></tr><tr><td><p>PRONAC</p></td><td><p>PROJETO</p></td><td><p>PROPONENTE</p></td><td><p>RESUMO DO PROJETO</p></td><td><p>VALOR CAPTADO</p></td></tr><tr><td><p>14 4585</p></td><td><p>8º Contato - Festival Multimídia Colaborativo</p></td><td><p>Fundação de Apoio Institucional ao Desenvolvimento Científico e Tecnológico - FAI.UFSCar</p></td><td><p>Evento multimídia anual conhecido pelo seu papel articulador ao colocar projetos, produtores, público e artistas literalmente em contato. O Festival é palco para troca de experiências, difusão da produção artístico-cultural e para a multiplicação de novos agentes culturais</p></td><td><p>R$ 120.000,00</p></td></tr><tr><td><p>13 7124</p></td><td><p>A Luz da Lula</p></td><td><p>Fundação Marlim Azul</p></td><td><p>Produzir e publicar o livro A LUZ DA LULA, conto de natureza humanística destinado ao público infantojuvenil.</p></td><td><p>R$ 59.721,80</p></td></tr><tr><td><p>12 1347</p></td><td><p>Circuito Cultural UPF</p></td><td><p>Fundação Universidade de Passo Fundo</p></td><td><p>Incentivar as atividades artísticas desenvolvidas pelos grupos artísticos da Universidade de Passo Fundo, mostrando sua produção artística, e a capacidade de criação no contexto da atual produção cultural através de 36 apresentações gratuitas dos grupos artísticos da Universidade de Passo Fundo.</p></td><td><p>R$ 141.214,14</p></td></tr><tr><td><p>14 0074</p></td><td><p>Quarteto Libertas - Concertos 2014</p></td><td><p>Rodrigo de Oliveira Bustamante</p></td><td><p>Apresentação de quatro concertos com obras primas minuciosamente selecionadas para essa formação de grupo, mesclando com a musicalidade brasileira e o vasto repertório escrito para quarteto de cordas, uma das mais populares formações do gênero.</p></td><td><p>R$ 9.160,00</p></td></tr><tr><td><p>14 0465</p></td><td><p>Fábrica de Cenas - ano 2</p></td><td><p>Sandro Roberto de Moraes Martins</p></td><td><p>Ministrar pelo segundo ano consecutivo aulas de teatro para turmas formadas exclusivamente por metalúrgicos. Serão três meses de aula onde os alunos terão aulas de improvisação, interpretação, contato com a criação de cenário, figurinos e dramaturgia.</p></td><td><p>R$ 100.000,00</p></td></tr><tr><td><p>14 8776</p></td><td><p>Feira do Livro 2014</p></td><td><p>Associação do Transporte Universitário de São Vendelino</p></td><td><p>Realizar, entre novembro e dezembro de 2014, a sexta edição da Feira do Livro. A festa literária prevê exposição e venda de livros, distribuição de vale-livros aos 550 alunos do Município e bate papo com escritores. Paralelamente, busca-se lançar o livro "História de São Vendelino".</p></td><td><p>R$ 30.000,00</p></td></tr><tr><td><p>13 1943</p></td><td><p>Fascinante Viagem pelo Mundo</p></td><td><p>Hans Ulrich Roland Hellmuth Kress</p></td><td><p>Produção de 1 mil exemplares da obra "Fascinante viagem pelo mundo", DE Hans Ulrich Roland Hellmuth Kress E Wilson Gelbcke, contendo 440 páginas, sendo 220 impressas em cores, o restante em p&amp;b.</p></td><td><p>R$ 39.500</p></td></tr></table>
+
+## ANEXO II
+
+<table><tr></tr><tr><td><p>PRONAC</p></td><td><p>PROJETO</p></td><td><p>PROPONENTE</p></td><td><p>RESUMO DO PROJETO</p></td><td><p>VALOR CAPTADO</p></td></tr><tr><td><p>11 8027</p></td><td><p>Cia Cênica Aruanã</p></td><td><p>Instituto Agires</p></td><td><p>Aprofundar as discussões contemporâneas nas artes cênicas, bem como o desenvolvimento de competências artísticas e atuação. Acolher artistas amadores e estudantes de artes cênicas selecionando talentos locais e promovê-los em sua formação em artistas capazes de realizar a criação de 2 espetáculos.</p></td><td><p>R$ 1.400.000,00</p></td></tr><tr><td><p>14 12993</p></td><td><p>25ª Festa da Colônia de Gramado</p></td><td><p>AM PRODUÇÕES LTDA-ME</p></td><td><p>Realizar a 25ª FESTA DA COLÔNIA DE GRAMADO, no Parque da ExpoGramado durante o período de 16 de abril a 03 de maio de 2015. O evento é marcado por apresentações do espetáculo Origens, que narra a saga dos imigrantes que povoaram Gramado no fim do século XIX.</p></td><td><p>R$ 30.000,00</p></td></tr><tr><td><p>12 8093</p></td><td><p>Balada Literária</p></td><td><p>NET 4 Produções Culturais LTDA-EPP</p></td><td><p>Idealizada pelo escritor Marcelino Freire, reúne quase uma centena de artistas, nacionais e internacionais, em lançamentos, bate-papos, performances, oficinas e shows no bairro da Vila Madalena, sempre com entrada gratuita.</p></td><td><p>R$ 200.000,00</p></td></tr></table>
+
+## ANEXO III
+
+<table><tr></tr><tr><td><p>PRONAC</p></td><td><p>PROJETO</p></td><td><p>PROPONENTE</p></td><td><p>RESUMO DO PROJETO</p></td><td><p>VALOR CAPTADO</p></td></tr><tr><td><p>08 2847</p></td><td><p>Bossa Nova Instrumental</p></td><td><p>Artell Empreendimentos Promoções Artísticas e Editora Ltda.</p></td><td><p>Realizar 10 apresentações do projeto Bossa Nova Instrumental, com músicos virtuosos do cenário brasileiro, cuja principal característica serão os arranjos de clássicos da Bossa Nova em versão instrumental bem como a apresentação de composições contemporâneas.</p></td><td><p>R$ 1.211.200,00</p></td></tr></table>
+
+## ANEXO IV
+
+<table><tr></tr><tr><td><p>PRONAC</p></td><td><p>PROJETO</p></td><td><p>PROPONENTE</p></td><td><p>RESUMO DO PROJETO</p></td><td><p>VALOR CAPTADO</p></td><td><p>VALOR A SER RESTITUÍDO AO FNC</p></td></tr><tr><td><p>11 12103</p></td><td><p>PROJETO RASCUNHO: Ecos de outras eras: UM DEDO DE PROSA COM CARLOS DRUMMOND DE ANDRADE, O ARTISTA DAS PALAVRAS</p></td><td><p>Arthur Ramos Miranda</p></td><td><p>O projeto destina-se à montagem do espetáculo inédito "Ecos de outras eras: um dedo de prosa com Carlos Drummond de Andrade", baseado no livro de Clores Dias de Andrade Lage e adaptado pelo Grupo Faszes 4 de Teatro. O espetáculo retrata o inicio da trajetória artística vivida pela autora do livro, atrelada a irmandade com Carlos Drummond de Andrade, seu primo.</p></td><td><p>R$ 127.000,00</p></td><td><p>R$ 127.000,00</p></td></tr><tr><td><p>11 10287</p></td><td><p>Série Internacional de Dança</p></td><td><p>Stretto Eventos e Serviços Artísticos Ltda.</p></td><td><p>Apresentação de 03 consagradas companhias de dança internacionais: Companhia Montalvo Hervieu, Alvin Ailey II e Les Ballets Monte Carlo que prevê uma turnê com 26 apresentações em grandes cidades do Brasil entre os meses de abril a setembro de 2012.</p></td><td><p>R$ 2.925.000,00</p></td><td><p>R$ 2.925.000,00</p></td></tr></table>

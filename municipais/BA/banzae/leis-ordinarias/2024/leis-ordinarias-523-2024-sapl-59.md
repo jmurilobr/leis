@@ -1,0 +1,105 @@
+---
+titulo: "Lei Ordinária nº 523, de 19 de junho de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "523"
+data: "2024-06-19"
+municipio: "Banzaê"
+uf: "BA"
+codigo_ibge: "2902658"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.banzae.ba.leg.br/norma/59"
+fonte_texto: "https://sapl.banzae.ba.leg.br/ta/59/text"
+sha256_fonte: "13a21727c1e643700b06f1f32ec51bcbf142ac2c2aae14385cb1c82b9d8ac15f"
+sha256_texto: "17503ede4512e6aaad09bbe55cb50eec35ab38c46639ebfb05244e84aba9ba12"
+capturado_em_fonte: "2026-10-27T17:08:25.273441-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 523, de 19 de junho de 2024
+
+Fixa os subsídios mensais do prefeito, vice-prefeito, vereadores e secretários do Município de Banzaê para o quadriênio de 2025 a 2028.
+
+
+A PREFEITA DO MUNICÍPIO DE BANZAÊ, Estado da Bahia, com fundamento na Lei Orgânica Municipal, faz saber que a Câmara de Vereadores aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Ficam fixados os subsídios do prefeito, vice-prefeito, e dos secretários municipais do município de Banzaê, para o quadriênio 2025-2028, nos valores seguintes:
+
+
+I –
+
+o prefeito perceberá mensalmente, e em parcela única, a título de subsídio, a importância de R$ 18.000,00 (dezoito mil reais);
+
+
+II –
+
+o vice-prefeito perceberá mensalmente, e em parcela única, a título de subsídio, a importância de R$ 9.000,00 (nove mil);
+
+
+III –
+
+os secretários Municipais perceberão mensalmente, a título de subsídio, a importância de R$ 7.000,00 (sete mil reais).
+
+
+Art. 2º.
+
+Os vereadores e o presidente da Câmara do Município de Banzaê - BA, perceberão subsídios mensais nos termos desta Lei, a partir de 1º de janeiro de 2025, nos seguintes valores:
+
+
+I –
+
+cada parlamentar municipal, incluindo o presidente da Câmara, perceberá, o subsídio mensal de R$ 9.000,00 (nove mil reais), em parcela única, de acordo com Art. 29, VI, B da Constituição Federal.
+
+
+Art. 3º.
+
+No caso de licenciamento por doença, devidamente comprovado por atestado médico, o Prefeito, o Vice-Prefeito, os Secretários Municipais e os Vereadores não ficarão prejudicados na percepção dos seus subsídios e/ou remunerações, de forma integral.
+
+
+Art. 4º.
+
+Em caso de viagem a serviço ou em representação do município, por qualquer dos Poderes, o Prefeito, o Vice-Prefeito, os Secretários e os Vereadores, incluindo o Presidente do Legislativo perceberão diárias que serão disciplinadas em lei específica.
+
+
+Parágrafo único
+
+Para os Vereadores, incluindo o Presidente do Legislativo, as diárias serão fixadas por Ato da Mesa Diretora da Câmara Municipal.
+
+
+Art. 5º.
+
+Os subsídios ora fixados serão revistos, por Lei específica, no mesmo índice e na mesma data do reajuste geral anual concedido aos servidores públicos municipais, nos termos do Art. 37, inciso X da Constituição Federal.
+
+
+Parágrafo único
+
+Para efeitos desta Lei entende-se como revisão geral anual a recomposição dos vencimentos dos servidores em virtude da perda do poder aquisitivo em face da inflação acumulada exercício imediatamente anterior, considerando a variação do INPC – Índice Nacional de Preços ao Consumidor, aferida pelo IBGE – Instituto Brasileiro de Geografia e Estatística ou em índice inferior, caso este índice não seja outorgado à categoria dos servidores municipais.
+
+
+Art. 6º.
+
+Os subsídios do Prefeito, Vice-Prefeito, Secretários Municipais e Vereadores, observado o disposto no art.37, inciso X, da Constituição Federal, serão sempre atualizados na mesma data dos reajustes concedidos aos servidores públicos municipais.
+
+
+Art. 7º.
+
+Em qualquer circunstância, os dispositivos desta Lei estão subordinados e obedecerão aos limites impostos pelos incisos VI e VII do art. 29, inciso XI do art. 37 e § 4º do art. 39 da Constituição Federal.
+
+
+Art. 8º.
+
+8º Revogadas as disposições em contrário, está lei entrará em vigor na data de sua publicação, valendo seus efeitos financeiros a partir de 1º de janeiro de 2025.
+
+
+Gabinete da Prefeita de Banzaê, 19 de junho de 2024.
+
+**JAILMA DANTAS GAMA ALVES**
+
+Prefeita
+

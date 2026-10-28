@@ -1,0 +1,245 @@
+---
+titulo: "Lei nº 3.596, de 05 de abril de 2016"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3596"
+data: "2016-04-05"
+municipio: "Congonhas"
+uf: "MG"
+codigo_ibge: "3118007"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.congonhas.mg.leg.br/norma/7095"
+fonte_texto: "https://sapl.congonhas.mg.leg.br/ta/4952/text"
+sha256_fonte: "ed3e0099298ab27d6a4718fb5ea486fff0790314cd9541260dc14a2208dda253"
+sha256_texto: "5f0b05d97a7de91f75769cb55f5cef32b9a45ce5550c2a9623bc855b2aefb16d"
+capturado_em_fonte: "2026-10-28T01:22:56.365415-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 3.596, de 05 de abril de 2016
+
+DISPÕE SOBRE A CRIAÇÃO DO PROGRAMA MUNICIPAL DE DESENVOLVIMENTO DA CADEIA PRODUTIVA DA AQUICULTURA FAMILIAR.
+
+
+A Câmara Municipal de Congonhas, Estado de Minas Gerais, aprova e eu, Prefeito, promulgo e sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Institui o Programa Municipal de Desenvolvimento da Cadeia Produtiva da Aquicultura Familiar, bem como utiliza recursos para promover ações de apoio, assistência técnica, incentivo à atividade da piscicultura na fase de implantação, na construção e limpeza de tanques, facilitação do acesso a insumos e fomento da cadeia produtiva, visando aumentar a produção e agregar renda às famílias rurais mediante projetos específicos de inclusão nos projetos da alimentação escolar.
+
+
+Art. 2º.
+
+Os beneficiários do programa deverão ser pequenos produtores familiares, proprietários ou arrendatários de estabelecimentos rurais, pescadores, pequenos agricultores, associações filantrópicas, sem fins lucrativos, devidamente registrados e que estejam enquadrados nos critérios da Lei Federal 11.326 de 24 de julho de 2006.
+
+
+Art. 3º.
+
+Os agricultores que desejarem participar do programa devem se enquadrar nos parâmetros de classificação do Programa Nacional de Agricultura Familiar - PRONAF.
+
+
+Art. 4º.
+
+Cada beneficiário terá direito a 20 horas/máquina, sendo utilizado o equipamento da prefeitura para a construção e adequaçãodos tanques.
+
+
+Parágrafo único
+
+Os beneficiários recolherão através da guia expedida pela Secretaria Municipal de Finanças, o valor de 1/3 do preço relativos a horas-máquinas constante nos registros de preços no momento de sua solicitação.
+
+
+Art. 5º.
+
+Os beneficiários inscritos no Programa passarão por uma seleção onde um comitê gestor municipal, de forma isonômica, definirá quais serão beneficiados e também avaliará se o referido serviço não causará danos ao meio ambiente.
+
+
+Parágrafo único
+
+O comitê gestor municipal será constituído pelo Diretor de Desenvolvimento Rural, pelo Secretário Municipal de Desenvolvimento Sustentável, pelo Chefe do Poder Executivo Municipal, por entidade de extensão rural e entidades representativas do setor.
+
+
+Art. 6º.
+
+Os recursos que comporão o Programa serão oriundos do projeto de atividade de desenvolvimento da piscicultura do Município, previsto no orçamento municipal e de recursos estaduais ou federais.
+
+
+Art. 7º.
+
+Como forma de incentivo aos beneficiários, o Município oferecerá em parceria com a EMATER-MG o curso profissionalizante em piscicultura, cujo certificado será expedido ao participante que obtiver frequência mínima de 90% (noventa por cento).
+
+
+Parágrafo único
+
+Além dos requisitos dispostos nesta lei, a subvenção será concedida àquele que obtiver a certificação do curso previsto no caput.
+
+
+Art. 8º.
+
+O Município de Congonhas, por meio da Secretaria Municipal de Desenvolvimento Sustentável e Diretoria de Desenvolvimento Rural, Emater, entre outras empresas e entidades públicas ou sem fins lucrativos e, em caráter especial, a Vigilância Sanitária e outros quadros do efetivo do município prestarão assistência técnica aos beneficiários da presente lei.
+
+
+Art. 9º.
+
+Os equipamentos previstos nesta lei poderão ser utilizados pelo Município para atendimento a outras finalidades de relevante interesse público.
+
+
+Art. 10.
+
+Os serviços que poderão ser locados são:
+
+
+I –
+
+trator agrícola;
+
+
+II –
+
+retroescavadeira;
+
+
+III –
+
+motoniveladora;
+
+
+IV –
+
+caminhão basculante.
+
+
+Art. 11.
+
+Além do serviço de locação poderão ser concedidos na forma de regulamento a ser expedido o fornecimento dos seguintes serviços insumos e bens de consumo e duráveis:
+
+
+I –
+
+aração;
+
+
+II –
+
+subsolagem;
+
+
+III –
+
+gradeação;
+
+
+IV –
+
+encilagem;
+
+
+V –
+
+distribuição de esterco;
+
+
+VI –
+
+roçadeira;
+
+
+VII –
+
+aplicação de agroquímicos;
+
+
+VIII –
+
+distribuição de adubos e corretivos agrícolas;
+
+
+IX –
+
+abertura de covas com broca;
+
+
+X –
+
+sementes e mudas em geral;
+
+
+XI –
+
+limpeza com concha e pente frontal;
+
+
+XII –
+
+encanteiramento;
+
+
+XIII –
+
+colheita de grão;
+
+
+XIV –
+
+espalhamento de calcário;
+
+
+XV –
+
+compra consorciada de aves, adubos, calcário, mudas frutíferas, ornamentais, nativas, hortaliças, ração de alevinos, alevinos entre outros;
+
+
+XVI –
+
+análise do solo;
+
+
+XVII –
+
+serviço de inseminação artificial.
+
+
+Art. 12.
+
+Pela execução dos serviços e fornecimento de insumos e bens inscritos nos arts. 10 e 11 desta Lei serão exigidas a prévia participação financeira do proprietário, arrendatário ou parceiro beneficiado, mediante o pagamento correspondente a preço público fixado em Decreto.
+
+
+§ 1º
+
+Na fixação de preço público, para fins de aplicação do disposto nesta Lei, fica o Poder Executivo municipal autorizado a fixar o valor dos preços públicos com redução de até 95% (noventa e cinco por cento) do valor vigente no mercado aos beneficiários indicados no art. 2º desta Lei.
+
+
+§ 2º
+
+Os beneficiários que não se enquadrarem na redução prevista no parágrafo anterior poderão se utilizar dos serviços e equipamentos do município, inclusive na área urbana, desde que recolham aos cofres do município o respectivo preço público fixado.
+
+
+§ 3º
+
+O não pagamento dos serviços, insumos ou bens prestados ou fornecidos, conforme o caso determinará sua inscrição em dívida ativa.
+
+
+Art. 13.
+
+O planejamento para aplicação dos recursos obtidos ficará a cargo da Diretoria de Desenvolvimento Rural – DDRU e do Conselho Municipal de Desenvolvimento Rural Sustentável – CMDRS, conjuntamente, bem como a definição dos projetos prioritários e a avaliação das ações realizadas.
+
+
+Art. 14.
+
+Os serviços previstos nesta Lei somente serão executados de acordo com a disponibilidade financeira do Município.
+
+
+Art. 15.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Congonhas, 5 de abril de 2016.
+
+**JOSÉ DE FREITAS CORDEIRO**
+
+**Prefeito de Congonhas**
+

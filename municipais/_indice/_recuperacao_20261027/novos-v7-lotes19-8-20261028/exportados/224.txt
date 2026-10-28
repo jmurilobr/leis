@@ -1,0 +1,337 @@
+---
+titulo: "LEI ORDINÁRIA-CMC nº 1.309, de 05 de dezembro de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "1309"
+data: "2013-12-05"
+municipio: "Claraval"
+uf: "MG"
+codigo_ibge: "3116407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.claraval.mg.leg.br/norma/949"
+fonte_texto: "https://sapl.claraval.mg.leg.br/ta/281/text"
+sha256_fonte: "b52baa22275191b9c1dbd80bdc730c65d7e542eb9012e979bacc2edf7d00bd33"
+sha256_texto: "a96368c4d3293a62cea7cb371cd3f63a8e7bd37a7b3e7fdaa8de83a87c5f3c72"
+capturado_em_fonte: "2026-10-27T22:51:17.559924-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA-CMC nº 1.309, de 05 de dezembro de 2013
+
+“Dispõe sobre Benefícios Eventuais da Politica de Assistência Social e dá outras providências.”
+
+
+O Prefeito Municipal Juliano Diogo Pereira, no uso de suas atribuições legais, faz saber que a Câmara Municipal de Claraval-MG, aprovou e ele sanciona a seguinte
+
+LEI:
+
+
+Art. 1º.
+
+Os Benefícios Eventuais previstos no Art. 22 da LOAS, são provisões suplementares e provisórias que integram organicamente as garantias do SUAS e são prestadas aos cidadãos e às famílias em virtude de nascimento, morte, situações de vulnerabilidade temporária e de calamidade pública.
+
+
+Parágrafo único
+
+Na comprovação das necessidades para a concessão do beneficio eventual são vedadas quaisquer situações de constrangimento ou vexatórias.
+
+
+Art. 2º.
+
+O beneficio eventual destina-se aos cidadãos moradores do município de Claraval/MG em vulnerabilidade e risco social e às famílias com impossibilidades de arcar por conta própria com o enfrentamento de contingências sociais, cuja ocorrência provoca riscos e fragiliza a manutenção do indivíduo, a unidade da família e a sobrevivência de seus membros.
+
+
+Art. 3º.
+
+A provisão dos benefícios eventuais deverá ser realizada pela Secretaria Municipal de Cidadania e Ação Social, por meio do Centro de Referência de Assistência Social - CRAS.
+
+
+§ 1º
+
+A vulnerabilidade é caracterizada pelo advento de riscos perdas e danos à integridade pessoal e familiar e são assim entendidos:
+
+
+I –
+
+riscos: ameaça de sérios padecimentos;
+
+
+II –
+
+perdas: privações de bens e de segurança material;
+
+
+III –
+
+danos: agravos sociais e ofensas.
+
+
+§ 2º
+
+Os riscos, as perdas e os danos podem decorrer:
+
+
+I –
+
+da falta de:
+
+
+a)
+
+acesso a condições e meios para suprir a reprodução social cotidiana do solicitante e de sua família, principalmente a de alimentação;
+
+
+b)
+
+falta de documentação; e
+
+
+c)
+
+falta de domicilio;
+
+
+II –
+
+da situação de abandono ou da impossibilidade de garantir abrigo aos filhos;
+
+
+III –
+
+da perda circunstancial decorrente da ruptura de vínculos familiares, da presença de violência física ou psicológica na família ou de situações de ameaça à vida;
+
+
+IV –
+
+de desastres e de calamidade pública;
+
+
+V –
+
+de outras situações que comprometam a sobrevivência.
+
+
+Art. 4º.
+
+O beneficio eventual, na forma de auxílio natalidade constitui-se em uma prestação temporária, não contributiva da assistência social na forma de bens de consumo, para reduzir a vulnerabilidade provocada por nascimento de membro da família, residente no município.
+
+
+Art. 5º.
+
+O auxílio por natalidade atenderá, preferencialmente, aos seguintes aspectos:
+
+
+I –
+
+necessidades do nascituro;
+
+
+II –
+
+apoio à mãe no caso de morte do recém-nascido;
+
+
+III –
+
+apoio à família no caso de morte da mãe; e
+
+
+IV –
+
+às gestantes que participarem de grupo de gestantes e que tenham no mínimo 06 (seis) consultas de Pré-natal;
+
+
+V –
+
+outras condições que a Secretaria Municipal de Cidadania e Ação Social considerar pertinente.
+
+
+Art. 6º.
+
+O beneficio natalidade ocorrerá na forma de bens de consumo.
+
+
+§ 1º
+
+Os bens de consumo consistem no enxoval do recém- nascido, incluindo bens de vestuário, utensílios para alimentação quando necessário, observada a qualidade que garanta a dignidade e o respeito da família beneficiária.
+
+
+§ 2º
+
+O requerimento do beneficio natalidade deve ser solicitado até 30(trinta) dias antes ou até 40(quarenta) dias após o nascimento. As solicitações deverão ser atendidas até 30(trinta) dias após o requerimento.
+
+
+Art. 7º.
+
+O Beneficio eventual, na forma de auxilio-funeral, constitui-se em uma prestação temporária não contributiva da assistência social em prestação de serviço para reduzir vulnerabilidade provocada por morte do membro da família.
+
+
+Art. 8º.
+
+O alcance do beneficio funeral, preferencialmente, será distinto em modalidades de:
+
+
+I –
+
+custeio das despesas de urna funerária;
+
+
+II –
+
+auxílio social de necessidades urgentes da família para enfrentar os riscos e vulnerabilidades advindas da morte de um de seus provedores ou membro.
+
+
+§ 1º
+
+Os serviços devem cobrir o custeio de despesas de urna funerária no valor de 01 (um) salário mínimo vigente e translado quando necessário, no valor máximo também de 01 (um) salário mínimo vigente.
+
+
+§ 2º
+
+O beneficio requerido em caso de morte deve ser liberado na forma de prestação de serviço, sendo de pronto atendimento, em plantão de 24 horas.
+
+
+§ 3º
+
+O beneficio funeral será concedido apenas se o falecido (a) for residente do município, e enterrado no cemitério do município, salvo as situações de moradores de rua e andarilhos.
+
+
+§ 4º
+
+Os benefícios natalidade e funeral serão fornecidos às famílias em número igual ao das ocorrências desses eventos.
+
+
+Art. 9º.
+
+Os benefícios natalidade e funeral serão liberados a um integrante da família beneficiária (pai, mãe, cônjuge, filho) ou pessoa autorizada mediante procuração e documentos pessoais.
+
+
+Art. 10.
+
+Outros Benefícios poderão ser oferecidos na forma de auxílios materiais em situação de vulnerabilidade temporária:
+
+
+I –
+
+passagem intermunicipal, desde que documentado e comprovado a necessidade da viagem; não inclui nessa modalidade o fornecimento de passagens para tratamento de saúde fora do domicilio;
+
+
+II –
+
+a passagem intermunicipal para atendimento de itinerante será fornecida no máximo 2(duas) vezes ao ano, por individuo, mediante a comprovação da necessidade;
+
+
+III –
+
+concessão de leite a criança desnutrida e nutriz;
+
+
+IV –
+
+cesta Básica;
+
+
+V –
+
+cobertores, roupas e assessórios de uso doméstico.
+
+
+VI –
+
+outros benefícios que a Secretaria Municipal de Cidadania e Ação Social julgar pertinentes.
+
+
+§ 1º
+
+Esses benefícios deverão ser articulados em consonância com os serviços de referência e contra referência.
+
+
+§ 2º
+
+O prazo para moradores novos requererem o beneficio eventual é de 60 dias residindo no município mediante documentos que comprovem, salvo em caso de emergência, passando por avaliação da Assistente Social.
+
+
+§ 3º
+
+Os casos de tratamento de dependência química não incluem na modalidade de benefícios eventuais na Assistência Social, por estar vinculado diretamente ao campo de saúde. Não são permitidas a concessão de materiais farmacêuticos (remédios), materiais hospitalares, órteses e próteses, exames médicos, cadeiras de roda e muletas.
+
+
+Art. 11.
+
+Considerar-se-ão benefícios eventuais o atendimento a vítimas de calamidade pública, de modo a assegurar-lhes a sobrevivência e a reconstrução de sua autonomia.
+
+
+§ 1º
+
+Para fins desta lei, entende-se por estado de calamidade pública o reconhecimento pelo poder público de situação anormal, advinda de baixas ou altas temperaturas, tempestades, enchentes, inversão térmica, desabamentos, incêndios, epidemias, causando sérios danos à comunidade afetada, inclusive à incolumidade ou à vida de seus integrantes.
+
+
+§ 2º
+
+Conceder-se-á como forma de concessão do beneficio eventual:
+
+
+a)
+
+bens de consumo: auxilio alimentação, complementação alimentar (leite, frutas, legumes e verduras), cobertor, lona e outros às pessoas vitimadas por calamidade pública;
+
+
+b)
+
+pecúnia;
+
+
+Art. 12.
+
+Conforme art. 9° do Decreto nº 6.307 de 14 de Dezembro de 2007, as provisões relativas a programas, projetos, serviços e benefícios diretamente vinculado ao campo da saúde, educação, integração nacional e demais políticas setoriais não se incluem na modalidade de benefícios eventuais da assistência social.
+
+
+Art. 13.
+
+Ao Município compete:
+
+
+I –
+
+a coordenação geral, a operacionalização, a avaliação da prestação dos benefícios eventuais, bem como o seu financiamento;
+
+
+II –
+
+a realização de estudos da realidade e monitoramento da demanda para ampliação da concessão dos benefícios eventuais; e
+
+
+III –
+
+expedir as instruções e instituir formulários e modelos de documentos.
+
+
+Art. 14.
+
+A Regulamentação dos benefícios eventuais e a sua inclusão na previsão orçamentária na Lei de Diretrizes Orçamentária - LDO e na Lei Orçamentária Anual - LOA garantirá os recursos necessários, o qual também estará previsto no Fundo Municipal de Assistência Social.
+
+
+Parágrafo único
+
+Compete ao Conselho Municipal de Assistência Social a Regulamentação dos Benefícios eventuais de que trata esta Lei.
+
+
+Art. 15.
+
+O município promoverá ações que viabilizem e garantam a ampla divulgação dos benefícios eventuais e dos critérios para sua concessão.
+
+
+Art. 16.
+
+Esta lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+Claraval, 5 de dezembro de 2013.
+
+Juliano Diogo Pereira
+
+Prefeito Municipal
+

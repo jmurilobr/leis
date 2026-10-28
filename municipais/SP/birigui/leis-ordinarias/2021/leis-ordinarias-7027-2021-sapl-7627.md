@@ -1,0 +1,114 @@
+---
+titulo: "Lei Ordinária nº 7.027, de 24 de agosto de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "7027"
+data: "2021-08-24"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/7627"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/137/text"
+sha256_fonte: "7391813447e99641c343fc44f842e38d674a6cf5fbf141e08deac3267e714411"
+sha256_texto: "66645554f9bc1b964e0ac5af62d4efe5f22e70f6619b14e07a92ed48669b391f"
+capturado_em_fonte: "2026-10-27T18:10:02.613367-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 7.027, de 24 de agosto de 2021
+
+AUTORIZA O PODER EXECUTIVO MUNICIPAL A REALIZAR AQUISIÇÃO DE EQUIPAMENTOS, MATERIAIS PERMANENTES E VEÍCULO COM RECURSOS ALOCADOS NO FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL — FMAS, PROVENIENTES DE RECURSOS FEDERAIS, E REALIZAR POSTERIOR CESSÃO DE USO À ORGANIZAÇÃO DA SOCIEDADE CIVIL, NOS TERMOS QUE ESPECIFICA.  
+Projeto de Lei n° 95/2021, de autoria do Prefeito Municipal
+
+
+Eu, **LEANDRO MAFFEIS MILANI**, Prefeito Municipal de Birigui, Estado de São Paulo, usando das atribuições que me são conferidas por Lei,  
+FAÇO SABER que a Câmara Municipal aprova e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal de Birigui autorizado a realizar aquisições de equipamentos, materiais permanentes e veículo com recursos alocados no Fundo Municipal de Assistência Social — FMAS, provenientes de Emenda Parlamentar do Governo Federal na modalidade de Investimento, classificada no grupo de natureza de despesa - GND4, Programação n.° 350650820200003 e 350650820200001, devidamente aprovada pelo colegiado do Conselho Municipal de Assistência Social.
+
+
+Parágrafo único
+
+A Secretaria Municipal de Assistência Social — SEMAS, fica responsável pelo processo de compra, sendo obrigatório a realização de registro contábil e patrimonial dos equipamentos e materiais permanentes adquiridos, além de controle e acompanhamento da destinação à Organização da Sociedade Civil.
+
+
+Art. 2º.
+
+Após as aquisições referidas no artigo anterior, que passarão a integrar o patrimônio do Município, será realizada cessão de uso a título gratuito e por prazo indeterminado à entidade prevista no artigo 3° desta Lei.
+
+
+Art. 3º.
+
+A cessão de uso será realizada para à seguinte Organização da Sociedade Civil:
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td>Organização da Sociedade Civil</td><td>Programação</td><td>Valor</td></tr><tr><td>Associação de Pais e Amigos dos Excepcionais - APAE - Serviço de Proteção Social Especial para Pessoas com Deficiência, Idosas e suas Famílias</td><td><p>          350650820200001           350650820200003</p></td><td>                   R$  34.000,00                                     R$ 150.000,00   </td></tr><tr><td>Associação de Pais e Amigos dos Excepcionais - APAE - Serviço de Acolhimento Institucional para Jovens e Adultos com Deficiência - Residência Inclusiva</td><td>350650820200001</td><td>R$  16.000,00</td></tr></tbody></table>
+
+
+Art. 4º.
+
+As aquisições estão condicionadas à compatibilidade com a Política de Assistência Social, organizada e gerida sob a forma do Sistema Único de Assistência Social (SUAS), a fim de atender a oferta do serviço socioassistencial executado pela Organização da Sociedade Civil.
+
+
+Art. 5º.
+
+É de responsabilidade da Organização da Sociedade Civil, o pagamento da diferença do valor que o ultrapassar a quantia disponibilizada na emenda referente à programação 350650820200003 para compra de veículo.
+
+
+Parágrafo único
+
+Referida diferença deverá ser depositada via Fundo Municipal de Assistência Social — FMAS.
+
+
+Art. 6º.
+
+Para fins de atendimento a presente lei, fica o Poder Executivo autorizado a abrir por decreto, crédito adicional especial na Lei n° 6.430/2017 — PPA 2018/2021 e alterações, na Lei n° 6.888 — LDO de 2021 e alterações e na Lei n° 6.955 — Lei Orçamentária de 2021, na seguinte dotação orçamentária:
+
+02.09.01 — SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL  
+02.09.02 — FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL  
+FUNÇÃO: 08 — Assistência Social  
+SUB-FUNÇÃO: 242 — Assistência ao Portador de Deficiência  
+PROGRAMA: 0008 — Média e Alta Complexidade  
+ATIVIDADE: 2.026 — Transferências  
+Elemento Econômico: 4.4.90.52.00 — Equipamento e Material Permanente  
+Fonte de Recurso: 01.000.0000 — Recursos Próprios; e
+
+
+Art. 7º.
+
+O crédito adicional especial de que se trata o artigo 5º desta Lei, correrá à conta de recursos especificados no art. 43, § 1º, inciso II, da Lei Federal n° 4.320, de 17 de março de 1.964, por excesso de arrecadação oriundo de recolhimento ao município pela OSC como contrapartida conforme já aprovado no Plano de Aplicação.
+
+
+Art. 8º.
+
+Fica o poder executivo municipal autorizado a suplementar o crédito de que se trata o artigo 6° desta lei, por decreto, até o limite dos valores depositados pela OSC para esta finalidade.
+
+
+Art. 9º.
+
+Ficam consignados no P.P.A. — Plano Plurianual e L.D.O. — Lei de Diretrizes Orçamentárias, as alterações constantes nesta Lei, para o presente exercício.
+
+
+Art. 10.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário, notadamente as da Lei n.° 6.920. de 03 de setembro de 2020.
+
+
+Prefeitura Municipal de Birigui, aos vinte e quatro de agosto de dois mil e vinte e um.
+
+**LEANDRO MAFFEIS MILANI Prefeito Municipal**
+
+**SILVANA CAETANO GOMES LEAL MILANI Secretária Municipal de Assistência Social**
+
+**ANTONIA LUCILENE FERREIRO JARDIM Secretária Municipal de Planejamento e Finanças**
+
+Publicado na Secretaria Municipal de Governo da Prefeiutra Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**VICTÓRIA ZOCANTE DOS ANJOS Secretária Adjunta de Governo**
+

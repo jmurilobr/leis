@@ -1,0 +1,68 @@
+---
+titulo: "04 - Lei Ordinária nº 1.143, de 09 de novembro de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "1143"
+data: "2021-11-09"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1117"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1121/text"
+sha256_fonte: "fd6b6162cc605a88d93a630003d27a33ce347d8ab568fb520d1dd123a8407407"
+sha256_texto: "6209f0a263b9903c9efdd2c9671ebb1fb3e441b078531fadf39e63fcbf899cfb"
+capturado_em_fonte: "2026-10-28T06:02:39.189476-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 1.143, de 09 de novembro de 2021
+
+Autoriza receber imóvel em doação, onde se encontra o Cemitério da Comunidade São Roque, no Município de Corbélia e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo autorizado a receber em doação, do imóvel consistente em uma área de terras situada na zona rural, LOTE DE TERRAS RURAL Nº 01-F, ORIUNDO DA DIVISÃO DA PARTE DESTACADA DO LOTE DE TERRAS RURAL Nº 01, GLEBA Nº 03, DA COLÔNIA “M” SÃO JOÃO E ESPERANÇA, SITUADO NESTE MUNICÍPIO E COMARCA DE CORBÉLIA-PR, com Área: 0,0576ha, ou seja, 576,00m², com a seguinte descrição: partindo do ponto 0-PP, segue pelo eixo da estrada rural municipal até o marco ponto 01; deste, seguem três linhas secas e retas, todas confrontando com o lote de terras rural no 01-G da divisão, com azimute de 186º48’35” e distância de 25,60 metros até o marco ponto 02; deste com azimute de 276º32’08” e distância de 22,55 metros até o marco ponto 03; deste, com azimute de 06º35’55” e distância de 25,60 metros até o marco ponto 0-PP, ponto inicial da descrição do perímetro, com as seguintes confrontações: AO NORTE: confronta com a estrada rural municipal; AO LESTE: confronta com lote rural nº 01-G, da mesma divisão; AO SUL: confronta com lote rural nº 01-G, da mesma divisão; AO OESTE: confronta com lote rural nº 01-G, da mesma divisão, tendo como nú-proprietários LINSMARA LEDÍCIA ZANATTA, brasileira, separada judicialmente, agricultora, portadora da CI no 6.614.251-5-PR e inscrita no CPF no 049.340.219-57, residente e domiciliada na localidade Santa Rosa, zona rural, nesta cidade; LIAMARA MARIA ZANATTA, brasileira, separada judicialmente, nutricionista, portadora da CI no 7.150.882-0-PR e inscrita no CPF no 024.060.649-30, residente e domiciliada na rua Palmeiras, 957, em Cascavel-PR; SANDRA MARA ZANATTA, brasileira, solteira, maior, agricultora, portadora da CI no 7.150.878-1-PR e inscrita no CPF 034.110.909-60, residente e domiciliada na localidade Santa Rosa, zona rural, nesta cidade; OSMAR ZANATTA JUNIOR, brasileiro, solteiro, maior, agricultor, portador da CI no 9.132.090-8-PR e inscrito no CPF no 063.590.179-03, residente e domiciliado na localidade Santa Rosa, zona rural, nesta cidade. Constante da matricula do CRI de Corbélia nº 2.567.
+
+
+Parágrafo único
+
+O imóvel descrito no caput deste artigo é onde se encontra localizado o cemitério da Comunidade São Roque e para este fim será utilizado.
+
+
+Art. 2º.
+
+O imóvel tem como usfrutuário OSMAR ZANATTA, brasileiro, divorciado, agricultor, portador da CI nº 751.397-PR e inscrito no CPF nº 139.703.999-04, residente e domiciliado na localidade Santa Rosa, zona rural, nesta cidade, que anuiu com a doação.
+
+
+Art. 3º.
+
+Para fazer frente às despesas decorrentes da execução da presente Lei serão utilizados recursos do orçamento municipal em execução.
+
+
+Art. 4º.
+
+A presente lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná
+
+Em 09 de novembro de 2021, 61º da Emancipação Política.
+
+GIOVANI MIGUEL WOLF HNATUW
+
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 1425 de 09/11/2021, pág. 02-03.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1117/ta
+

@@ -1,0 +1,6 @@
+{
+  "arquivos": 462,
+  "falhas": [],
+  "nota": "Com --no-index, retorno1 sem diagnóstico significa arquivos diferentes, esperado contra /dev/null; só diagnóstico/erro de execução configura falha. Recibo anterior usava indevidamente retorno1 como erro, preservado como protótipo.",
+  "escopo": "Apenas candidatos e código ativo congelado; nenhum Git de escrita/global."
+}

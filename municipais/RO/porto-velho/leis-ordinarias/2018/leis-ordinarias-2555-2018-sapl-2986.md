@@ -1,0 +1,116 @@
+---
+titulo: "Lei nº 2.555, de 19 de dezembro de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2555"
+data: "2018-12-19"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/2986"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/2132/text"
+sha256_fonte: "f8d2105a7c2ce2f413730f0dd1d427e4990d505f6b1cd1bdd40bf2978e56cf92"
+sha256_texto: "880fd6ec58832037a2f126681ac482ace03231e48cf67a4f11507b044bbc2d41"
+capturado_em_fonte: "2026-10-27T16:43:18.356005-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 2.555, de 19 de dezembro de 2018
+
+“Institui a Semana de Conscientização contra o Assédio Sexual e ao Combate a Intimidação Sistemática (Bullying) nas escolas do Município de Porto Velho”.
+
+
+O **PREFEITO DO MUNICÍPIO DE PORTO VELHO**, usando da atribuição que lhe é conferida no inciso IV do artigo 87 da Lei Orgânica do Município de Porto Velho.
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou e eu sanciono a seguinte:
+
+**LEI:**
+
+
+Art. 1º.
+
+Fica instituída a “Semana Municipal de Conscientização contra o Assédio Sexual de Crianças e Adolescentes e o combate a Intimidação Sistemática (Bullying)” no âmbito do município de Porto Velho.
+
+
+Parágrafo único
+
+As escolas privadas poderão incluir a temática em seu respectivo conteúdo programático.
+
+
+Art. 2º.
+
+Para os efeitos desta Lei, considera-se:
+
+
+I –
+
+assédio sexual é todo o comportamento indesejado de caráter sexual, sob forma verbal, não verbal ou física, com o objetivo ou efeito de perturbar ou constranger a pessoa, afetar a sua dignidade, ou de lhe criar um ambiente intimidativo, hostil, degradante, humilhante ou desestabilizador;
+
+
+II –
+
+intimidação sistemática (Bullying) é a prática de atos violentos, intencionais e repetidos, contra uma pessoa indefesa, que podem causar danos físicos e psicológicos às vítimas.
+
+
+Art. 3º.
+
+A Semana Nacional de Conscientização, instituída por esta Lei, será implementada por meio de:
+
+
+I –
+
+palestras, seminários e debates;
+
+
+II –
+
+orientação aos pais, alunos e professores utilizando-se de cartilhas e materiais informativos em geral;
+
+
+III –
+
+campanhas publicitárias de cunho educativo;
+
+
+IV –
+
+atividades de conscientização direcionadas ao corpo docente, aos alunos, aos pais e á comunidade escolar em geral, com a participação efetiva de todos os envolvidos.
+
+
+Art. 4º.
+
+VETADO.
+
+
+Art. 5º.
+
+VETADO.
+
+
+Art. 6º.
+
+A semana municipal de Conscientização Contra o Assédio Sexual de Crianças e Adolescente e o Combate a Intimidação Sistemática (Bullying), será realizada, anualmente na semana que compreende o dia 18 de maio dia nacional de combate a abuso e exploração de crianças e adolescente.
+
+
+Art. 7º.
+
+A data ora instituída passará a constar do Calendário Oficial de Eventos do Município e da Câmara Municipal.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**HILDON DE LIMA CHAVES**
+
+Prefeito
+
+**Projeto de Lei nº 3.766/2018.**
+
+**Autoria: Vereador Márcio Oliveira.**
+

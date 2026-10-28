@@ -1,0 +1,62 @@
+---
+titulo: "Decreto-SEMPOG nº 19.512, de 06 de novembro de 2023"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "19.512"
+data: "2023-11-06"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/25945"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/8522/text"
+sha256_fonte: "65c4cae651ec4540006b0b85fde70c48563e8935df93e0ac35077e7bccb7f5b8"
+sha256_texto: "c1cc9f30e46813b1e49e3ffba8773caf55050f402f44a8d3a85a722a80189622"
+capturado_em_fonte: "2026-10-21T04:58:15.367992-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 19.512, de 06 de novembro de 2023
+
+Abre no Orçamento Anual do Município de Porto Velho Crédito Adicional Suplementar, e dá outras providências.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, amparado pelo Art. 6º da Lei n.º 2.998, de 19 de dezembro de 2022, a fim de proceder as adequações orçamentárias no exercício 2023;
+
+Considerando o Ofício n.º 547/DCC/SEMAGRIC/2023, de 24 de outubro de 2023, pelo qual a Secretaria Municipal de Agricultura, Pecuária e Abastecimento - SEMAGRIC, solicita suplementação orçamentária para devolução dos recursos de rendimentos do Convênio n.° 002/2022/PGE/DER-FITHA;
+
+Considerando o Excesso de Arrecadação para o exercício financeiro de 2023 de acordo com o art. 43 § 3° da Lei Federal n.º 4.320, de 17 de março de 1964;
+
+**D E C R E T A:**
+
+**Art. 1º** – Fica aberto no Orçamento do Município de Porto Velho, Crédito Adicional Suplementar no valor de R$ 72.302,28 (setenta e dois mil, trezentos e dois reais e vinte e oito centavos).
+
+**Art. 2º** – Os recursos necessários à execução do disposto no artigo anterior decorrerão de Excesso de Arrecadação, provenientes da Fonte de Recursos 1.701 – Recursos do Exercício Corrente – Outras Transferências de Convênios ou Repasses dos Estados, consignados no orçamento, conforme detalhado na sequência:
+
+<table><tbody><tr><td colspan="6"><p><strong>15.00 – SECRETARIA MUNICIPAL DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO - SEMAGRIC</strong></p></td></tr><tr><td colspan="6"><p><strong>15.01 – SECRETARIA MUNICIPAL DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO - SEMAGRIC</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESFERA</strong></p></td><td><p><strong>NATUREZA DA DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>SUPLEMENTA R$</strong></p></td></tr><tr><td><p>15.01.20.782.240.2.643</p></td><td><p>Conservação de Rodovias Vicinais</p></td><td><p>FIS</p></td><td><p>3.3.90.93</p></td><td><p>1.701</p></td><td><p>72.302,28</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>72.302,28</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>72.302,28</strong></p></td></tr></tbody></table>
+
+**Art. 3º** – Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 18.721, de 19 de dezembro de 2022 e o Detalhamento da Despesa, estabelecido pelo Decreto nº 18.722, de 19 de dezembro de 2022.
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** - Revogam-se as disposições em contrário.
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto
+

@@ -1,0 +1,765 @@
+---
+titulo: "Lei-PMC nº 3.798, de 19 de dezembro de 2018"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "3798"
+data: "2018-12-19"
+municipio: "Congonhas"
+uf: "MG"
+codigo_ibge: "3118007"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.congonhas.mg.leg.br/norma/7559"
+fonte_texto: "https://sapl.congonhas.mg.leg.br/ta/4580/text"
+sha256_fonte: "43d39ea7d235633d51a86f15d05730a24683505e8f84f31870a2ebdf7c27a3fd"
+sha256_texto: "ad82214e8784a5ddf7510125b362517751b266c511bd205ca4384308d037a161"
+capturado_em_fonte: "2026-10-27T23:22:48.119058-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei-PMC nº 3.798, de 19 de dezembro de 2018
+
+Institui o Registro, a Guarda Responsável, o Controle Reprodutivo e a eutanásia de cães e gatos no Município de Congonhas e dá outras providências.
+
+
+A Câmara Municipal de Congonhas, Estado de Minas Gerais, aprovou e eu, Prefeito sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Esta Lei disciplina o registro, a guarda responsável e o controle reprodutivo de cães e gatos no Município de Congonhas.
+
+
+#### CAPÍTULO I — DO REGISTRO
+
+
+Art. 2º.
+
+Todos os cães e gatos deverão ser registrados junto ao órgão municipal responsável pelo controle de zoonoses ou em estabelecimentos veterinários por ele credenciados.
+
+
+§ 1º
+
+O registro de que trata o “caput” será providenciado pelo dono do animal no prazo máximo de 180 (cento e oitenta) dias contados da entrada em vigor da presente Lei.
+
+
+§ 2º
+
+Os animais nascidos após a vigência da presente Lei serão registrados entre o terceiro e sexto mês de idade, devendo receber a vacina antirrábica no ato do registro.
+
+
+Art. 3º.
+
+O registro dos animais será precedido de preenchimento de formulário padrão de registro, em três vias, onde constará, no mínimo:
+
+
+I –
+
+nome, número da Carteira de Identidade (RG) e do Cadastro de Pessoa Física (CPF) ou CNPJ, conforme o caso, bem como o endereço completo e telefone do proprietário do animal;
+
+
+II –
+
+número do Registro Geral Animal (RGA), quando já existir;
+
+
+III –
+
+data do registro;
+
+
+IV –
+
+nome do animal, sexo, raça, porte, cor, idade real ou presumida;
+
+
+V –
+
+apresentação do comprovante de aplicação da última vacinação obrigatória, constando o nome do veterinário responsável pela aplicação da vacina e o número do registro no Conselho Regional de Medicina Veterinária (CRMV);
+
+
+VI –
+
+assinatura do proprietário do animal; e
+
+
+VII –
+
+assinatura do responsável pelo preenchimento do formulário.
+
+
+§ 1º
+
+Excepcionalmente e somente durante campanhas oficiais, o comprovante de vacinação poderá ser fornecido sem identificação do Médico Veterinário responsável pela equipe, mas contendo o número do RGA do animal, quando este já existir.
+
+
+§ 2º
+
+Não sendo feita a apresentação do comprovante de vacinação, o animal será imediatamente vacinado contra a raiva no ato do registro.
+
+
+Art. 4º.
+
+As vias do formulário padrão de registro terão a seguinte destinação:
+
+
+I –
+
+arquivamento no local de registro;
+
+
+II –
+
+órgão municipal responsável pelo controle de zoonoses, quando o procedimento for realizado por estabelecimento conveniado; e
+
+
+III –
+
+proprietário do animal.
+
+
+Art. 5º.
+
+Estando em conformidade os documentos apresentados para o registro, será emitida Carteira de Identificação que constará:
+
+
+I –
+
+número do Registro Geral Animal (RGA);
+
+
+II –
+
+data do registro;
+
+
+III –
+
+nome do animal, sexo, raça, porte, cor, idade real ou presumida; e
+
+
+IV –
+
+nome, número da Carteira de Identidade (RG) e do Cadastro de Pessoa Física (CPF) ou CNPJ conforme o caso, bem como o endereço completo e telefone do proprietário do animal.
+
+
+Art. 6º.
+
+A Identificação do animal será feita por microchip, sendo que o dispositivo eletrônico implantado conterá o número do RGA e informações pertinentes sobre o proprietário e a saúde do animal.
+
+
+Art. 7º.
+
+As pessoas físicas ou jurídicas que comercializam cães e gatos:
+
+
+I –
+
+providenciarão a identificação do animal antes da venda;
+
+
+II –
+
+atestarão a procedência, a espécie, a raça, o sexo e a idade real ou estimada dos animais;
+
+
+III –
+
+comercializarão somente animais devidamente imunizados e desverminados, considerando-se o protocolo específico para a espécie comercializada;
+
+
+IV –
+
+disponibilizarão a carteira de imunização emitida por médico-veterinário, na forma da legislação pertinente; e
+
+
+V –
+
+fornecerão ao adquirente do animal orientação quanto aos princípios da tutela responsável e cuidados com o animal, visando a atender às suas necessidades físicas, psicológicas e ambientais.
+
+
+Art. 8º.
+
+Havendo transferência de propriedade do animal, o novo proprietário deverá, no prazo máximo de 30 (trinta) dias, comparecer ao órgão municipal responsável pelo controle de zoonoses ou a um estabelecimento veterinário credenciado para atualizar os dados cadastrais.
+
+
+Art. 9º.
+
+No caso de perda da Carteira de Identificação do animal, o proprietário deverá solicitar a segunda via diretamente ao órgão municipal responsável pelo controle de zoonoses, no prazo máximo de 30 (trinta) dias.
+
+
+Parágrafo único
+
+O pedido de segunda via será feito na forma do art. 2°, ficando uma via de posse do proprietário, que servirá como documento de identificação até a emissão da segunda via da carteira.
+
+
+Art. 10.
+
+Os estabelecimentos credenciados para o registro dos animais enviarão ao órgão municipal responsável pelo controle de zoonoses, até o dia 10 do mês subsequente, as vias de formulários de registro efetuados no mês anterior, sob pena de descredenciamento.
+
+
+Art. 11.
+
+O óbito de animal registrado deverá ser comunicado ao órgão municipal responsável pelo controle de zoonoses pelo veterinário ou proprietário, no prazo máximo de 30 (trinta) dias.
+
+
+Art. 12.
+
+A carteira de Identificação e o microchip do animal serão oferecidos pela Prefeitura de Congonhas gratuitamente.
+
+
+Art. 13.
+
+No recolhimento de cães e gatos pelo poder público, serão observados procedimentos de manejo, de transporte e de guarda que assegurem o bem-estar do animal, e será averiguada a existência de responsável pelo animal.
+
+
+§ 1º
+
+O responsável pelo animal será notificado para resgatar o animal em até três dias úteis, observado o disposto no § 5º.
+
+
+§ 2º
+
+O animal recolhido e não resgatado pelo seu responsável será esterilizado, identificado e disponibilizado para adoção.
+
+
+§ 3º
+
+Os locais destinados à guarda e exposição dos animais disponibilizados para adoção serão abertos à visitação pública, devendo os animais ser separados segundo sua espécie, seu porte, sua idade e seu temperamento.
+
+
+§ 4º
+
+É proibida a entrega de cães e gatos recolhidos por órgãos ou entidades públicos para a realização de pesquisa científica ou apresentação em evento de entretenimento.
+
+
+§ 5º
+
+O cão ou gato que tenham, comprovadamente, sofrido atos de crueldade, abuso ou maus-tratos e que tenham sido recolhidos nos termos deste artigo não serão devolvidos a seu responsável, devendo ser esterilizados e disponibilizados para adoção
+
+
+Art. 14.
+
+Para o resgate de cão ou gato do órgão municipal responsável pelo controle de zoonoses, é necessária a apresentação do comprovante de vacinação do animal. Não existindo comprovante de vacinação atualizado, o animal só será liberado após vacinação.
+
+
+Parágrafo único
+
+Quando o animal estiver sem microchip será exigida, também, a apresentação da Carteira de Identificação visando à comprovação da posse. Caso não exista, o reclamante deverá providenciar, no ato do resgate, ao registro e identificação do mesmo junto ao próprio órgão municipal responsável pelo controle de zoonoses.
+
+
+Art. 15.
+
+O cão ou gato comunitário recolhidos nos termos do art. 12 serão esterilizados, identificados, vacinados e devolvidos à comunidade de origem pelo órgão competente.
+
+
+Parágrafo único
+
+Entende-se por cão ou gato comunitário aquele que, apesar de não ter responsável definido e único, estabelece com a comunidade onde vive vínculos de dependência e manutenção.
+
+
+#### CAPÍTULO II — DA GUARDA RESPONSÁVEL
+
+
+Art. 16.
+
+É livre a criação, propriedade, posse, guarda, uso e transporte de cães e gatos no Município de Congonhas, desde que obedecida a legislação federal, estadual e municipal vigente.
+
+
+Art. 17.
+
+Por guarda responsável entende-se o conjunto de compromissos assumidos pela pessoa natural ou jurídica – guardiã ou responsável – ao adquirir, adotar ou utilizar um animal, que consiste no atendimento das necessidades físicas, psicológicas, ambientais e de saúde do animal e na prevenção de riscos que esse possa causar à comunidade ou ao ambiente, tais como os de potencial de agressão, de transmissão de doenças ou de danos a terceiros.
+
+
+Art. 18.
+
+O órgão municipal responsável pelo controle de zoonoses deverá promover programa de educação continuada de conscientização da população a respeito da guarda responsável de animais domésticos, podendo para tanto, contar com parcerias e entidades de proteção animal e outras organizações não governamentais e governamentais, universidades, empresas públicas e/ou privadas, nacionais ou internacionais, e entidades de classe ligadas aos médicos veterinários.
+
+
+Parágrafo único
+
+Este programa deverá atingir o maior número de meios de comunicação, além de contar com material educativo impresso.
+
+
+Art. 19.
+
+O programa de educação continuada deverá abordar, dentre outras informações consideradas pertinentes pelo órgão municipal responsável pelo controle de zoonoses:
+
+
+I –
+
+a importância da esterilização cirúrgica para a saúde e o controle reprodutivo de cães e gatos;
+
+
+II –
+
+a necessidade da vacinação e da vermifugação de cães e gatos para a prevenção de zoonoses;
+
+
+III –
+
+zoonoses;
+
+
+IV –
+
+cuidados e manejo dos animais;
+
+
+V –
+
+castração;
+
+
+VI –
+
+a importância da guarda responsável de cães e gatos, levando em consideração as necessidades físicas, biológicas e ambientais desses animais, bem como a manutenção da saúde pública e do equilíbrio ambiental;
+
+
+VII –
+
+os benefícios da adoção de cães e gatos;
+
+
+VIII –
+
+o caráter criminoso do abuso e dos maus-tratos contra os animais, nos termos do art. 32 da Lei Federal nº 9.605, de 12 de fevereiro de 1998; e
+
+
+IX –
+
+legislação.
+
+
+Art. 20.
+
+O órgão municipal responsável pelo controle de zoonoses poderá incentivar os estabelecimentos veterinários, as entidades de classe ligadas aos médicos veterinários e as entidades protetoras de animais, a atuarem como pólos irradiadores de informações sobre a propriedade responsável de animais domésticos.
+
+
+Art. 21.
+
+O órgão municipal responsável pelo controle de zoonoses ou seus conveniados e parceiros deverá dar a devida publicidade a esta Lei e incentivar os estabelecimentos veterinários e as entidades de proteção aos animais domésticos a fazerem o mesmo.
+
+
+Art. 22.
+
+É proibido soltar ou abandonar animais em logradouros públicos.
+
+
+Parágrafo único
+
+O proprietário que já não tiver condições em manter seu animal solicitará ao órgão responsável orientação sobre sua destinação, não podendo abandoná-lo.
+
+
+Art. 23.
+
+Fica o proprietário do animal doméstico obrigado a:
+
+
+I –
+
+registrar e identificar o animal;
+
+
+II –
+
+conduzir o animal com coleira e guia;
+
+
+III –
+
+providenciar a remoção, de forma adequada, dos dejetos por eles deixados sendo vedado o lançamento em vias públicas ou seu depósito a céu aberto;
+
+
+IV –
+
+mantê-lo permanentemente imunizado contra as doenças definidas pelas autoridades sanitárias e possuir os comprovantes de vacinações para comprovação;
+
+
+V –
+
+manter cães e gatos imunizados contra a raiva, por meio da vacinação anual e revacinação no caso de animais primovacinados, sendo que os proprietários poderão vaciná-los gratuitamente, junto à Secretaria Municipal de Saúde durante as campanhas de vacinação;
+
+
+VI –
+
+encaminhar o animal ao médico veterinário sempre que necessário;
+
+
+VII –
+
+mantê-lo permanentemente em perfeitas condições de saúde, higiene, alojamento, alimentação e bem-estar compatíveis com a preservação da saúde do animal, da saúde coletiva e a prevenção de doenças transmissíveis;
+
+
+VIII –
+
+mantê-lo alojado em locais onde fique impossibilitado de fugir, agredir pessoas ou outros animais;
+
+
+IX –
+
+mantê-lo distante de local onde coloque em risco o controle da sanidade dos alimentos e outros produtos de interesse da saúde ou comprometa a higiene e a limpeza do lugar;
+
+
+X –
+
+permitir, sempre que necessária, a inspeção pela autoridade sanitária, no exercício de suas funções, das dependências de alojamento, das condições de saúde e das condições sanitárias do animal sob sua guarda;
+
+
+XI –
+
+acatar as medidas de saúde decorrentes das determinações da autoridade sanitária que visem à preservação e à manutenção da saúde e à prevenção de doenças transmissíveis e de sua disseminação; e
+
+
+XII –
+
+apresentar o documento comprobatório de vacinação contra a raiva, e outras doenças, sempre que solicitado pela autoridade sanitária.
+
+
+§ 1º
+
+No caso de cães mordedores ou bravios, além da coleira e guia utilizar contenção que os impeçam de efetuar ataques e desferir mordidas, a condução do animal em via pública deverá ser feita por pessoa com idade e força suficiente para controlar os movimentos do animal.
+
+
+§ 2º
+
+A vacinação poderá ser feita com recursos próprios ou gratuitamente nas campanhas anuais promovidas pelo órgão municipal responsável pelo controle de zoonoses.
+
+
+§ 3º
+
+Os comprovantes de vacinação fornecidos pelo órgão municipal responsável pelo controle de zoonoses ou emitidos por médicos veterinários particulares serão utilizados para comprovação da vacinação anual.
+
+
+§ 4º
+
+Excepcionalmente e somente durante campanhas oficiais, o comprovante de vacinação poderá ser fornecido sem identificação do Médico Veterinário responsável pela equipe, mas contendo o número do RGA do animal, quando este já existir.
+
+
+#### CAPÍTULO III — DO CONTROLE REPRODUTIVO
+
+
+Art. 24.
+
+Caberá ao órgão municipal responsável pelo controle de zoonoses a execução de Programa Permanente de Controle Reprodutivo de Cães e Gatos através da esterilização gratuita em parceria com universidades, estabelecimentos veterinários, organizações não governamentais de proteção animal e com a iniciativa privada.
+
+
+Art. 25.
+
+Fica caracterizada a esterilização gratuita de cães e gatos como método oficial de controle populacional.
+
+
+§ 1º
+
+Os animais a serem castrados deverão ser cadastrados em formulário próprio do órgão municipal responsável pelo controle de zoonoses.
+
+
+§ 2º
+
+Para o cadastro, o responsável pelo encaminhamento do animal para a castração deverá comparecer ao órgão municipal responsável pelo controle de zoonoses portando:
+
+
+I –
+
+uma foto colorida do animal de corpo inteiro (tamanho da foto: 10x15 cm);
+
+
+II –
+
+Carteira de Identificação;
+
+
+III –
+
+documento de identidade e CPF/CNPJ do proprietário.
+
+
+Art. 26.
+
+Todos os animais recolhidos pelo órgão municipal responsável pelo controle de zoonoses serão castrados. Após os cuidados pós-operatórios da cirurgia de esterilização os animais que não forem adotados e que não representarem risco à população serão soltos no local de captura.
+
+
+Art. 27.
+
+No procedimento de esterilização de cães e gatos, serão utilizados meios e técnicas que causem o menor sofrimento aos animais, de maneira ética, com insensibilização, de modo que não se exponha o animal a estresse e a atos de crueldade, abuso ou maus-tratos, nos termos da legislação vigente, observando-se as seguintes regras procedimentais:
+
+
+I –
+
+as cirurgias de esterilização serão realizadas nos estabelecimentos veterinários que possuam instalações e equipamentos necessários a esta finalidade;
+
+
+II –
+
+a escolha do estabelecimento veterinário será realizada por critérios de seleção pública, devendo possuir Alvará Sanitário emitido pela Vigilância Sanitária;
+
+
+III –
+
+realização das cirurgias por equipe composta de médicos veterinários, aprovada pelos órgãos municipais competentes; e
+
+
+IV –
+
+utilização de procedimento anestésico adequado às espécies, através de anestesia geral, podendo ser ela inalatória ou injetável.
+
+
+§ 1º
+
+Fica expressamente proibida a realização do ato cirúrgico antes de ser atingido, pelo animal, estágio de absoluta insensibilidade a qualquer tipo de estímulo doloroso.
+
+
+§ 2º
+
+Quando da realização da esterilização, compete ao profissional responsável pelo procedimento incluir tal informação no cadastro eletrônico do animal, conforme definido em regulamento.
+
+
+#### CAPÍTULO IV — DA EUTANÁSIA
+
+
+Art. 28.
+
+Fica vedada a eliminação da vida de animais domésticos pelos Órgãos de Controle de Zoonoses (UVZ), canis públicos e estabelecimentos oficiais congêneres, exceção feita à eutanásia, permitida nos casos de males infectocontagiosos incuráveis que coloquem em risco a saúde de pessoas ou de outros animais.
+
+
+Parágrafo único
+
+A eutanásia será justificada por laudo emitido por 02 médicos veterinários, precedido de exame laboratorial e observadas as normas do Conselho Federal de Medicina Veterinária, facultado o acesso aos documentos por entidades de proteção animal.
+
+
+#### CAPÍTULO V — DAS INFRAÇÕES
+
+
+Art. 29.
+
+Considera-se infração administrativa toda ação ou omissão que viole as regras jurídicas quanto ao registro, guarda responsável, o controle reprodutivo e a eutanásia de cães e gatos estabelecida nesta Lei.
+
+
+Parágrafo único
+
+São competentes para lavrar auto de infração e instaurar processo administrativo as autoridades sanitárias do Órgão de Controle de Zoonoses (UVZ).
+
+
+Art. 30.
+
+Sem prejuízo do disposto no art. 29 desta lei, constituem infrações administrativas:
+
+
+I –
+
+A inobservância aos artigos 2°, 8°, 9°, 11, 22 e 23, que sujeita o infrator às seguintes sanções, a serem aplicadas de forma isolada ou cumulativa:
+
+
+a)
+
+advertência; e
+
+
+b)
+
+multa.
+
+
+II –
+
+A inobservância do art. 7º, que sujeita o infrator às seguintes sanções, a serem aplicadas de forma isolada ou cumulativa:
+
+
+a)
+
+advertência;
+
+
+b)
+
+cancelamento de alvará sanitário; e
+
+
+c)
+
+multa.
+
+
+III –
+
+A inobservância aos artigos 10 e 27, que sujeita o infrator, sem prejuízo do descredenciamento, às seguintes sanções, a serem aplicadas de forma isolada ou cumulativa:
+
+
+a)
+
+advertência;
+
+
+b)
+
+cancelamento de alvará sanitário; e
+
+
+c)
+
+multa.
+
+
+IV –
+
+A inobservância do art. 28, que sujeita o infrator, sem prejuízo da abertura de processo administrativo disciplinar e da imediata comunicação ao Ministério Público, às seguintes sanções, a serem aplicadas de forma isolada ou cumulativa:
+
+
+a)
+
+advertência; e
+
+
+b)
+
+multa.
+
+
+Art. 31.
+
+As infrações administrativas se classificam em:
+
+
+I –
+
+leves, quando for verificada a ocorrência de circunstâncias atenuantes;
+
+
+II –
+
+graves, quando for verificada a ocorrência de uma circunstância agravante; e
+
+
+III –
+
+gravíssimas, quando for verificada a ocorrência de duas ou mais circunstâncias agravantes.
+
+
+Art. 32.
+
+A pena de multa será recolhida à conta do Fundo Municipal de Saúde.
+
+
+§ 1º
+
+O valor da multa de que trata o “caput” será:
+
+
+I –
+
+nas infrações leves: de 40 a 200 UPMC – Unidade Padrão do Município de Congonhas;
+
+
+II –
+
+nas infrações graves: de 201 a 2000 UPMC - Unidade Padrão do Município de Congonhas; e
+
+
+III –
+
+nas infrações gravíssimas: de 2001 a 20000 UPMC- Unidade Padrão do Município de Congonhas.
+
+
+§ 2º
+
+A multa não paga no prazo legal será inscrita em dívida ativa.
+
+
+Art. 33.
+
+Para imposição de pena e sua graduação, a autoridade sanitária levará em conta:
+
+
+I –
+
+as circunstâncias atenuantes e agravantes;
+
+
+II –
+
+a gravidade do fato, tendo em vista as suas consequências para a saúde pública;
+
+
+III –
+
+os antecedentes do infrator quanto às normas sanitárias.
+
+
+Art. 34.
+
+São circunstâncias atenuantes:
+
+
+I –
+
+não ter sido a ação do infrator fundamental para ocorrência do evento;
+
+
+II –
+
+procurar o infrator, por espontânea vontade, reparar ou minorar as consequências do ato que lhe tiver sido imputado; e
+
+
+III –
+
+ser primário o infrator e não haver o concurso de agravantes.
+
+
+Art. 35.
+
+São circunstâncias agravantes:
+
+
+I –
+
+ser reincidente o infrator;
+
+
+II –
+
+ter a infração consequências lesivas para a saúde pública;
+
+
+III –
+
+deixar o infrator, tendo conhecimento de ato lesivo à saúde pública, de tomar as providências de sua alçada tendentes a evitá-lo;
+
+
+IV –
+
+ter o infrator agido com dolo, fraude ou má-fé.
+
+
+Art. 36.
+
+As infrações administrativas que também configurem ilícitos penais serão comunicadas ao Ministério Público.
+
+
+Parágrafo único
+
+Quando o infrator for integrante da administração pública, direta ou indireta, a autoridade sanitária notificará o superior imediato do infrator e, se não forem tomadas as providências para a cessação da infração no prazo estipulado, comunicará o fato ao Ministério Público, com cópia do processo administrativo instaurado para apuração do ocorrido.
+
+
+Art. 37.
+
+As infrações às disposições legais e regulamentares de ordem sanitária prescrevem em cinco anos.
+
+
+Art. 38.
+
+A aplicação e a apuração das infrações sanitárias deverão observar as normas previstas no Título IV, artigos 110 a 125, do Código de Saúde do Município.
+
+
+Art. 39.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Congonhas, 19 de dezembro de 2018.
+
+**JOSÉ DE FREITAS CORDEIRO**
+
+**Prefeito de Congonhas**
+

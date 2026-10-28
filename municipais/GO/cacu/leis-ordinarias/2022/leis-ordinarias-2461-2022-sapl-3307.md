@@ -1,0 +1,70 @@
+---
+titulo: "Lei Ordinária nº 2.461, de 27 de setembro de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2461"
+data: "2022-09-27"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/3307"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/262/text"
+sha256_fonte: "f989c339c59eeeee4e7c0d7417f46fb67916b42a12fd9970c5e8c44354e5ce3d"
+sha256_texto: "47007ed73bd2dc61deea0b8a503112f9be9a9a8b47d00d2f7a55c8690493970f"
+capturado_em_fonte: "2026-10-27T21:28:14.837687-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.461, de 27 de setembro de 2022
+
+“Autoriza o Poder Executivo Municipal, a fazer doação de numerário à Associação dos Produtores Rurais da Região da Guariroba - ASPRUGUAR e dá outras providências”.
+
+
+**A CÂMARA MUNICIPAL DE CAÇU/GO**, por seus Vereadores, APROVA, e a **PREFEITA DE CAÇU/GO**, no uso das atribuições conferidas pela Lei Orgânica do Município, SANCIONA a seguinte LEI MUNICIPAL:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal, autorizado a fazer doação de numerário na importância de R$60.000,00 (sessenta mil reais), para aquisição do seguinte implemento agrícola: UMA NIVELADORA DE CONTROLE REMOTO, COM 32 DISCOS, POR 22 POLEGADAS.
+
+
+Art. 2º.
+
+A doação tratada no artigo anterior será outorgada à ASSOCIAÇÃO DOS PRODUTORES RURAIS DA REGIÃO DA GUARIROBA - ASPRUGUAR, entidade civil, sem fins lucrativos, de duração indeterminada, com sede e foro neste Município de Caçu/GO, inscrita no CNPJ-MF nº 01.762.333/0001-10.
+
+
+Parágrafo único
+
+A Associação encontra-se representada juridicamente, pela Presidente Dayane Cristina Nunes Pereira Camargo.
+
+
+Art. 3º.
+
+O uso da niveladora identificada no Art. 1º desta Lei, fica restrito às atividades agrícolas da Associação, não podendo ser utilizada na prestação de serviços para terceiros, nem cedida ou emprestada a quem quer que seja.
+
+
+Parágrafo único
+
+A alienação por venda de mencionada niveladora somente poderá ocorrer com a finalidade de substituí-la por outra nova, seminova ou qualquer outra, com capacidade para melhor atender os associados.
+
+
+Art. 4º.
+
+Fica a presidente com a obrigação de comprovar a aquisição do implemento agrícola, no prazo de 30 dias, contados a partir da data do recebimento do numerário, sob pena de não o fazendo ter que devolver ao erário a importância recebida, com os acréscimos legais.
+
+
+Art. 5º.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+**GABINETE DA PREFEITA DE CAÇU,** Estado de Goiás, aos 27 dias do mês de setembro do ano de 2022.
+
+
+**ANA CLÁUDIA LEMOS OLIVEIRA**  
+Prefeita Municipal
+

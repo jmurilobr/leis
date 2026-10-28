@@ -14,3 +14,13 @@
 /federal/_provas_modelo59595_clbr_20261021_006/*.pdf binary
 
 /federal/_provas_modelo55551_clbr_20261021_007/*.pdf binary
+
+# PDFs oficiais e fixtures de QA: bytes preservados como dados binários.
+/estaduais/TO/_fonte/**/*.pdf binary
+
+# Cópia bruta da fonte HTML auditada: preservar bytes e espaços do snapshot.
+/municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/buritis8-1971-fonte.html -text -whitespace
+
+# Cabeçalho HTTP bruto: preservar CRLF e espaços como evidência de captura.
+/federal/_provas_modelo53480_clbr_20261021_009/camara-captura.headers.txt -text -whitespace
+/federal/_fonte/auditorias/guard_bibliografico_20261028_005/guard80_para87.patch -whitespace

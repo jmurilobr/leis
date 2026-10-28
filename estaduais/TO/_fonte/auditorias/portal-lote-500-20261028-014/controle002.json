@@ -1,0 +1,151 @@
+{
+  "preparado_em": "2026-10-28T09:55:11.564179-03:00",
+  "HEAD": "2fc3423067cb4c62d29ddcc66a3482ab1fcacd21",
+  "total_HEAD": 2607,
+  "fontes_indices": {
+    "scripts/estados/manifestos/to-portal-indices-20261027-003.json": "19b1e15c8769ae36f1b2111b55725e5e29cadabaeaa70718a687e0700daea492",
+    "scripts/estados/manifestos/to-portal-indices-20261027-004.json": "935a24a7341b3f193bcd1d9ae8baa0697e8f53f44a770bf1bc767263ddef8b59",
+    "scripts/estados/manifestos/to-portal-indices-20261028-004.json": "acadb8cc8a32a4851a52298215d88b395046688a6c950da93e5ba176ad0ac8c2",
+    "scripts/estados/manifestos/to-portal-disponibilidade-20261028-005.json": "fb4b653e424cc7d0a2e393bb2aecf3f47bd9a5f0c693e96e7c41c8358fb310aa",
+    "scripts/estados/manifestos/to-portal-indices-20261028-007.json": "2aad8ee0e39b6c86a1d4dab2e8b608236d39c8cc2dbe26ee32e764bff6d23068"
+  },
+  "fechamento_paginacao": [
+    {
+      "ano_filtro": 2000,
+      "cartoes": 86,
+      "paginas": 5,
+      "total_declarado": 86
+    },
+    {
+      "ano_filtro": 2001,
+      "cartoes": 97,
+      "paginas": 5,
+      "total_declarado": 97
+    },
+    {
+      "ano_filtro": 2002,
+      "cartoes": 77,
+      "paginas": 4,
+      "total_declarado": 77
+    },
+    {
+      "ano_filtro": 2003,
+      "cartoes": 61,
+      "paginas": 4,
+      "total_declarado": 61
+    },
+    {
+      "ano_filtro": 2004,
+      "cartoes": 121,
+      "paginas": 7,
+      "total_declarado": 121
+    },
+    {
+      "ano_filtro": 2005,
+      "cartoes": 106,
+      "paginas": 6,
+      "total_declarado": 106
+    },
+    {
+      "ano_filtro": 2006,
+      "cartoes": 108,
+      "paginas": 6,
+      "total_declarado": 108
+    },
+    {
+      "ano_filtro": 2007,
+      "cartoes": 125,
+      "paginas": 7,
+      "total_declarado": 125
+    },
+    {
+      "ano_filtro": 2008,
+      "cartoes": 133,
+      "paginas": 7,
+      "total_declarado": 133
+    },
+    {
+      "ano_filtro": 2009,
+      "cartoes": 279,
+      "paginas": 14,
+      "total_declarado": 279
+    },
+    {
+      "ano_filtro": 2010,
+      "cartoes": 156,
+      "paginas": 8,
+      "total_declarado": 156
+    },
+    {
+      "ano_filtro": 2011,
+      "cartoes": 135,
+      "paginas": 7,
+      "total_declarado": 135
+    },
+    {
+      "ano_filtro": 2012,
+      "cartoes": 144,
+      "paginas": 8,
+      "total_declarado": 144
+    },
+    {
+      "ano_filtro": 2013,
+      "cartoes": 186,
+      "paginas": 10,
+      "total_declarado": 186
+    },
+    {
+      "ano_filtro": 2014,
+      "cartoes": 117,
+      "paginas": 6,
+      "total_declarado": 117
+    },
+    {
+      "ano_filtro": 2015,
+      "cartoes": 120,
+      "paginas": 6,
+      "total_declarado": 120
+    },
+    {
+      "ano_filtro": 2016,
+      "cartoes": 128,
+      "paginas": 7,
+      "total_declarado": 128
+    },
+    {
+      "ano_filtro": 2017,
+      "cartoes": 171,
+      "paginas": 9,
+      "total_declarado": 171
+    },
+    {
+      "ano_filtro": 2018,
+      "cartoes": 63,
+      "paginas": 4,
+      "total_declarado": 63
+    },
+    {
+      "ano_filtro": 2019,
+      "cartoes": 233,
+      "paginas": 12,
+      "total_declarado": 233
+    }
+  ],
+  "total_cartoes": 2646,
+  "ids_distintos": 2646,
+  "cache_disco_chaves": 2358,
+  "elegiveis_preliminares": 884,
+  "retidos_triagem": 1762,
+  "motivos": {
+    "Ano/data do cartão diverge do título": 88,
+    "Fonte já capturada nesta frente; não repetir rede": 1458,
+    "Indicação editorial de compilação/histórico no cartão": 161,
+    "Presente em HEAD por ID ou pasta/número/ano": 45,
+    "Mais de um ID para pasta/número/ano; coincidência contextual": 10
+  },
+  "selecionados": 500,
+  "sha256_selecao": "2f9054fb2ac9df707001f08d0d02176f65608ed96c10cda7c36be6a65f4f1fcb",
+  "sem_MD": true,
+  "qualificados": 0,
+  "metas_inalteradas": true
+}

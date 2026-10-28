@@ -1,0 +1,60 @@
+---
+titulo: "Decreto-SEMPOG nº 19.377, de 15 de setembro de 2023"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "19.377"
+data: "2023-09-15"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/25759"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/8354/text"
+sha256_fonte: "84b1440d57deee81f1aadec4064a045fc0eec3cd501715cb775f9a93fd63a777"
+sha256_texto: "e6c3820525e85411834788f9f1f82ab768f037635de1ca370c8ef2c8f18b1ab1"
+capturado_em_fonte: "2026-10-21T05:09:21.181249-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Decreto-SEMPOG nº 19.377, de 15 de setembro de 2023
+
+Movimenta Créditos Orçamentários do Orçamento Anual do Município de Porto Velho por Transposição de Recursos.
+
+
+O Prefeito do Município de Porto Velho, usando das atribuições que lhe são conferidas no Inciso IV, do Artigo 87, da Lei Orgânica do Município, observado o Inciso VI, Artigo 167 da Constituição Federal de 1988, amparado pelo Artigo 6º da Lei n.º 2.998, de 19 de dezembro de 2022, a fim de proceder às adequações orçamentárias no exercício 2023, e
+
+Considerando o Ofício n.° 438/2023/DFIN/DA/GAB/FUNCULTURAL, de 11 de setembro de 2023, pelo qual a Fundação Cultural de Porto Velho - FUNCULTURAL solicita movimentação de recursos para cobertura de despesas com Projetos Culturais no Município de Porto Velho e manutenção das atividades administrativas;
+
+**D E C R E T A:**
+
+**Art. 1º** – Fica alterado o Orçamento Anual do Município de Porto Velho por meio de transposição de recursos orçamentários no valor de R$ 384.000,00 (trezentos e oitenta e quatro mil reais).
+
+**Art. 2º** - A transposição decorre da repriorização das ações de governo e resultantes das realocações de recursos no âmbito das ações programáticas dentro da mesma uidade orçamentária, conforme disposto no inciso XVII do Artigo 6º da Lei n.º 2.946, de 30 de junho de 2022 – Lei de Diretrizes Orçamentárias, na sequência detalhada:
+
+<table><tbody><tr><td colspan="7"><p><strong>02.00 - SECRETARIA GERAL DE GOVERNO - SGG</strong></p></td></tr><tr><td colspan="7"><p><strong>02.21 – FUNDAÇÃO CULTURAL DE PORTO VELHO - FUNCULTURAL</strong></p></td></tr><tr><td><p><strong>PROJETO/ATIVIDADE</strong></p></td><td><p><strong>ESPECIFICAÇÃO</strong></p></td><td><p><strong>ESPERA</strong></p></td><td><p><strong>NATUREZA DE DESPESA</strong></p></td><td><p><strong>FONTE DE RECURSOS</strong></p></td><td><p><strong>TRANSPÕE R$</strong></p></td><td><p><strong>REALOCA R$</strong></p></td></tr><tr><td rowspan="5"><p>02.21.04.122.007.2.001</p><p> </p></td><td rowspan="5"><p>Administração da Unidade</p><p> </p></td><td rowspan="5"><p>FIS</p><p> </p></td><td><p>3.3.90.30</p></td><td><p>1.500</p></td><td><p>2.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.3.90.33</p></td><td><p>1.500</p></td><td><p>4.600,00</p></td><td><p>-</p></td></tr><tr><td><p>3.3.90.36</p></td><td><p>1.500</p></td><td><p>5.000,00</p></td><td><p>-</p></td></tr><tr><td><p>4.4.90.52</p></td><td><p>1.709</p></td><td><p>183.900,00</p></td><td><p>-</p></td></tr><tr><td><p>4.4.90.52</p></td><td><p>2.500</p></td><td><p>98.500,00</p></td><td><p>-</p></td></tr><tr><td><p>02.21.13.128.007.2.064</p></td><td><p>Capacitação de Servidores da Funcultural</p></td><td><p>FIS</p></td><td><p>3.3.90.14</p></td><td><p>1.500</p></td><td><p>6.000,00</p></td><td><p>-</p></td></tr><tr><td rowspan="4"><p>02.21.13.391.044.2.922</p><p> </p></td><td rowspan="4"><p>Preservação e Restauração de Bens</p><p>Moveis, Imoveis, Históricos Artísticos</p><p>Arqueológicos e Cultural</p><p> </p></td><td rowspan="4"><p>FIS</p><p> </p></td><td><p>3.3.90.30</p></td><td><p>1.500</p></td><td><p>5.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.3.90.36</p></td><td><p>1.500</p></td><td><p>5.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.3.90.39</p></td><td><p>1.500</p></td><td><p>5.000,00</p></td><td><p>-</p></td></tr><tr><td><p>4.4.90.52</p></td><td><p>1.709</p></td><td><p>30.000,00</p></td><td><p>-</p></td></tr><tr><td><p>02.21.13.392.190.2.933</p></td><td><p>Construção, Manutenção, e Reformas de</p><p>Espaços Culturais</p></td><td><p>FIS</p></td><td><p>3.3.90.39</p></td><td><p>1.500</p></td><td><p>5.000,00</p></td><td><p>-</p></td></tr><tr><td rowspan="2"><p>02.21.13.392.190.2.936</p><p> </p></td><td rowspan="2"><p>Formação básica de produtores e agentes</p><p>culturais</p><p> </p></td><td rowspan="2"><p>FIS</p><p> </p></td><td><p>3.3.90.36</p></td><td><p>1.500</p></td><td><p>5.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.3.90.39</p></td><td><p>1.500</p></td><td><p>5.000,00</p></td><td><p>-</p></td></tr><tr><td rowspan="3"><p>02.21.13.392.310.2.935</p><p> </p></td><td rowspan="3"><p>Manutenção do Conselho Municipal de</p><p>Cultura</p><p> </p></td><td rowspan="3"><p>FIS</p><p> </p></td><td><p>3.3.90.30</p></td><td><p>1.500</p></td><td><p>3.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.3.90.39</p></td><td><p>1.500</p></td><td><p>3.000,00</p></td><td><p>-</p></td></tr><tr><td><p>4.4.90.52</p></td><td><p>1.500</p></td><td><p>3.000,00</p></td><td><p>-</p></td></tr><tr><td rowspan="5"><p>02.21.13.392.330.2.934</p></td><td rowspan="5"><p>Manutenção do fundo municipal de cultura</p><p>para implantação de políticas e editais</p><p>culturais público</p></td><td rowspan="5"><p>FIS</p><p> </p></td><td><p>3.3.50.43</p></td><td><p>1.500</p></td><td><p>3.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.3.90.30</p></td><td><p>1.500</p></td><td><p>3.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.3.90.36</p></td><td><p>1.500</p></td><td><p>3.000,00</p></td><td><p>-</p></td></tr><tr><td><p>3.3.90.39</p></td><td><p>1.500</p></td><td><p>3.000,00</p></td><td><p>-</p></td></tr><tr><td><p>4.4.90.52</p></td><td><p>1.500</p></td><td><p>3.000,00</p></td><td><p>-</p></td></tr><tr><td rowspan="4"><p>02.21.13.392.047.2.923</p></td><td rowspan="4"><p>Promoção, produção de eventos artísticos</p><p>culturais</p></td><td rowspan="4"><p>FIS</p><p> </p></td><td><p>3.3.90.36</p></td><td><p>1.500</p></td><td><p>-</p></td><td><p>71.600,00</p></td></tr><tr><td><p>3.3.90.36</p></td><td><p>2.500</p></td><td><p>-</p></td><td><p>12.400,00</p></td></tr><tr><td><p>3.3.90.39</p></td><td><p>1.709</p></td><td><p>-</p></td><td><p>213.900,00</p></td></tr><tr><td><p>3.3.90.39</p></td><td><p>2.500</p></td><td><p>-</p></td><td><p>86.100,00</p></td></tr><tr><td colspan="5"><p><strong>SUBTOTAL</strong></p></td><td><p><strong>384.000,00</strong></p></td><td><p><strong>384.000,00</strong></p></td></tr><tr><td colspan="4" rowspan="3"><p><strong>TOTAL POR FONTE DE RECURSOS</strong></p><p> </p></td><td><p><strong>1.500</strong></p></td><td><p><strong>71.600,00</strong></p></td><td><p><strong>71.600,00</strong></p></td></tr><tr><td><p><strong>1.709</strong></p></td><td><p><strong>213.900,00</strong></p></td><td><p><strong>213.900,00</strong></p></td></tr><tr><td><p><strong>2.500</strong></p></td><td><p><strong>98.500,00</strong></p></td><td><p><strong>98.500,00</strong></p></td></tr><tr><td colspan="5"><p><strong>TOTAL</strong></p></td><td><p><strong>384.000,00</strong></p></td><td><p><strong>384.000,00</strong></p></td></tr></tbody></table>
+
+**Art. 3º** – Fica alterado o Cronograma de Execução Mensal de Desembolso (cotas orçamentárias), estabelecido pelo Decreto n.º 18.721, de 19 de dezembro de 2022 e o Detalhamento da Despesa, estabelecido pelo Decreto n.º 18.722, de 19 de dezembro de 2022.
+
+**Art. 4º** - Este Decreto entra em vigor na data de sua publicação.
+
+**Art. 5º** - Revogam-se as disposições em contrário.
+
+***HILDON DE LIMA CHAVES***
+
+Prefeito do Município
+
+***LUIZ GUILHERME ERSE DA SILVA***
+
+Secretário Municipal de Planejamento, Orçamento e Gestão
+
+***JOÃO ALTAIR CAETANO DOS SANTOS***
+
+Secretário Municipal de Fazenda
+
+***SALATIEL LEMOS VALVERDE***
+
+Procurador Geral Adjunto
+

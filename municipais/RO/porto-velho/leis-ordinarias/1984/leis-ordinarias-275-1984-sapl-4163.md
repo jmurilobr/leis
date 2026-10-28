@@ -1,0 +1,102 @@
+---
+titulo: "Lei nº 275, de 30 de março de 1984"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "275"
+data: "1984-03-30"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/4163"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/3784/text"
+sha256_fonte: "5263790ab4d1d4ceb509d3276225898c5d006151b56f573eb48914da876ba67a"
+sha256_texto: "25e788549e2a688d1d9c90fab51d474d2ea1c386d553e1a22c957cf2a6384ba1"
+capturado_em_fonte: "2026-10-27T22:36:15.104294-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 275, de 30 de março de 1984
+
+Institui e obriga a nomeação ou admissão, nos Cargos e Funções Públicas do Município, os portadores de deficiências físicas, cegos,surdos ou ainda, os excepcionais infra-dotados.
+
+
+FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO ' MANTEVE e eu, nos termos do § 4º do art. 170, da Constituição do Estado de Rondônia, combinado com o § 6º do art. 30, da Lei Orgânica dos Municípios, PROMULGO a seguinte
+
+LEI:
+
+
+Art. 1º.
+
+Os portadores de deficiências físicas, os cegos, os portadores de surdez ou baixa acuidade auditiva, ou ainda os excepcionais infra-dotados, poderão ser nomeados ou admitidos para os cargos ou funções públicas municipais, em Pôrto Velho, tanto pela Prefeitura do Município, como pela Câmara Municipal.
+
+
+§ 1º
+
+As nomeações ou admissões deverão obedecer aos critérios avaliativos do desempenho do nomeado ou admitido, a fim de que sejam compatíveis com a deficiência de que forem portadores.
+
+
+§ 2º
+
+As nomeações ou admissões de que trata o "caput" deste artigo, jamais poderão ser inferiores ao limite de 2% (dois por cento) do pessoal em serviço ativo.
+
+
+Art. 2º.
+
+Para os efeitos desta Lei, serão considerados:
+
+
+I –
+
+Portadores de deficiências físicas, aqueles que apresentarem qualquer redução ou ausência de membro ou função física;
+
+
+II –
+
+Cegos: aqueles que apresentarem ausência total da visão, ou acuidade visual não excedente a 8/60 (oito sessenta avos) pelo optótipo de "Snellen", no melhor olho, após correção ótica, e aqueles cujo campo visual seja menor ou igual a 40% (quarenta por cento), no melhor olho, desde que não sejam portadores de Glaucoma;
+
+
+III –
+
+Surdos: aqueles que apresentarem ausência total de audição, ou acuidade auditiva inferior ao limite de 80 DB, nas frequências de 156, 512, 1024 e 2048 HZ, e má discriminação vocal (igual ou inferior a 30% - trinta por cento), e, consequentemente, inaptidão ao uso de prótese auditiva, tomando-se como base o ouvido melhor.
+
+
+IV –
+
+Excepcionais infra-dotados: aqueles que apresentarem um nível baixa de capacidade intelectual e que foram reeducados para tarefas simples, e considerados aptos pela APAE.
+
+
+Art. 3º.
+
+Os servidores nomeados ou admitidos para proverem cargos exercerem funções, nas condições estabelecidas por esta Lei, só poderão ser efetivados ou confirmados nos cargos e funções, após decorridos o prazo de 1 (hum) ano, desde que, nesse período, comprovem sua capacidade para o exercício do respectivo cargo ou função.
+
+
+Parágrafo único
+
+Os atuais funcionários ou servidores municipais, nas condições estabelecidas nesta Lei, terão garantia de emprego e não poderão ser exonerados ou demitidos, em virtude de deficiência física, salvo nos casos de direito à aposentadoria, estatutárias ou previdência oficial.
+
+
+Art. 4º.
+
+A deficiência tolerada jamais poderá ser arguida para justificar a concessão de aposentadoria.
+
+
+Art. 5º.
+
+O Poder Executivo, em 120 (cento e Vinte) dias, expandirá, por Decreto, as normas regulamentares e pertinentes ao fiel cumprimento desta Lei.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+Câmara Municipal de Pôrto Velho (RO), 30 de março de 1984.
+
+José Campelo Alexandre
+
+Presidente
+

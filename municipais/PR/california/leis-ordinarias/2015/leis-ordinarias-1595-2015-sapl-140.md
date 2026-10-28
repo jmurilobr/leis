@@ -1,0 +1,179 @@
+---
+titulo: "Lei Ordinária Municipal nº 1.595, de 24 de novembro de 2015"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "1595"
+data: "2015-11-24"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/140"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/428/text"
+sha256_fonte: "ea18909056da4b6c2154a9e78b835c925775ff027de8d7c37bf8a09eab0e28c2"
+sha256_texto: "14fbc841201d88c97601eafd010b5b99d87f2c84e73cc2aea14cc015c07f2c49"
+capturado_em_fonte: "2026-10-27T22:36:00.070589-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 1.595, de 24 de novembro de 2015
+
+Autoriza o Poder Executivo Municipal a doar área de terra de sua propriedade à Companhia de Habitação do Paraná – COHAPAR e dá outras providências
+
+
+A Câmara Municipal de Califórnia, Estado do Paraná, aprovou e eu, Prefeita, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+O Poder Executivo Municipal, objetivando promover a construção de moradias destinadas à alienação para famílias com renda mensal estabelecida no âmbito do Programa Minha Casa Minha Vida – PMCMV, do Governo Federal e nos Programas Habitacionais que venham a ser desenvolvidos pelo Governo do Estado do Paraná, fica autorizado a doar à Companhia de Habitação do Paraná – COHAPAR, os imóveis abaixo descritos:
+
+LOTE DE TERRAS nº. 01, da quadra nº. 05, com a área de 5.031,36m2, situado no Loteamento denominado “RESIDENCIAL CALIFÓRNIA II”, no quadro urbano da cidade e município de Califórnia, nesta comarca de Marilândia do sul, PR, dentro das seguintes divisas, confrontações e metragens: “FRENTE com Estrada Municipal Bairro Laranjal – Califórnia, na distância de 74,68m; Lado direito com a Rua Projetada E, na distância de 93,33m; Lado esquerdo com a Rua Projetada D, na distância de 69,00m; Fundos com a Rua Projetada H, na distância de 52,79m.
+
+LOTE DE TERRAS nº. 11-REM, da Quadra nº. 02, (referente à área institucional III), com área de 328,37m2, situado no Loteamento Projeto Califórnia X Etapa, no quadro urbano da cidade e município de Califórnia, comarca de Marilândia do Sul/PR, com as seguintes divisas confrontações e metragens: “Frente para a Rua José Cunha Neto, com 13,00mts, aos fundos com o lote 10 e 12, com 13,00mts, com o lote 11-C, com 25,67mts, e finalmente com a Rua Angélica T. Fraga, com 25,62mts”.
+
+LOTE DE TERRAS nº. 11-A, da Quadra nº. 02, (referente a área institucional III), com área de 329,72m2, situado no Loteamento Projeto Califórnia X Etapa, no quadro urbano da cidade e município de Califórnia, comarca de Marilândia do Sul/PR, com as seguintes divisas, confrontações e metragens: “ Frente para a AV. José da Cunha Neto, com 13,00mts, aos fundos com o lote 10 e 12, com 13,00mts, com o lote 11-B, com 25,75mts, e finalmente com a Rua Joaquim F. Ramos, com 25,83m”.
+
+LOTE DE TERRAS nº. 11-B, da Quadra nº. 02, (referente a área institucional III), com área de 262,81m2, situado no Loteamento Projeto Califórnia X Etapa, no quadro urbano da cidade e município de Califórnia, comarca de Marilândia do Sul/PR, com as seguintes divisas, confrontações e metragens: “ Frente para a Rua José da Cunha Neto, com 10,38mts, aos fundos com o lote 10 e 12, com 10,38mts, de uma lado com os lotes 11-C, com 25,71mts, e finalmente com o lote 11-A, com 25,75mts”.
+
+LOTE DE TERRAS nº. 11-C, da Quadra nº. 02, (referente a área institucional III), com área de 262,40m2, situado no Loteamento Projeto Califórnia X Etapa, no quadro urbano da cidade e município de Califórnia, comarca de Marilândia do Sul/PR, com as seguintes divisas, confrontações e metragens: “ Frente para a Rua José da Cunha Neto, com 10,38mts, aos fundos com o lote 10 e 12, com 10,38mts,com os lotes 11-Remanescente, com 25,67mts, e finalmente com o lote 11-B, com 25,71mts”.
+
+LOTE DE TERRAS nº. 11-A, da Quadra nº. 03, (referente a área institucional IV), com área de 326,59m2, situado no Loteamento Projeto Califórnia X Etapa, no quadro urbano da cidade e município de Califórnia, comarca de Marilândia do Sul/PR, com as seguintes divisas, confrontações e metragens: “ Frente para a AV. José da Cunha Neto, com 13,00mts, aos fundos com o lote 10 e 12, com 13,00mts,com os lotes 11-B, com 25,51mts, e finalmente com a Rua Angélica T. Fraga, com 25,57mts”.
+
+LOTE DE TERRAS nº. 11-B, da Quadra nº. 03, (referente a área institucional IV), com área de 260,26m2, situado no Loteamento Projeto Califórnia X Etapa, no quadro urbano da cidade e município de Califórnia, comarca de Marilândia do Sul/PR, com as seguintes divisas, confrontações e metragens: “ Frente para a AV. José da Cunha Neto, com 10,38mts, aos fundos com o lote 10 e 12, com 10,38mts,com os lote 11-A, com 25,51mts, e finalmente com o lote 11-C, com 25,47mts”.
+
+LOTE DE TERRAS nº. 11-C, da Quadra nº. 03, (referente a área institucional IV), com área de 259,81m2, situado no Loteamento Projeto Califórnia X Etapa, no quadro urbano da cidade e município de Califórnia, comarca de Marilândia do Sul/PR, com as seguintes divisas, confrontações e metragens: “Frente para a AV. José da Cunha Neto, com 10,38mts, aos fundos com o lote 10 e 12, com 10,38mts, com o lotes 11-B, com 25,47mts, e finalmente com o lote 11-REM, com 25,42mts”.
+
+LOTE DE TERRAS nº. 11-REM, da Quadra nº. 03, (referente a área institucional IV), com área de 325,06m2, situado no Loteamento Projeto Califórnia X Etapa, no quadro urbano da cidade e município de Califórnia, comarca de Marilândia do Sul/PR, com as seguintes divisas, confrontações e metragens: “Frente para a AV. José da Cunha Neto, com 13,00mts, aos fundos com o lotes 10 e 12, com 13,00mts, com os lotes 11-C, com 25,42mts, e finalmente com a Rua Vereador Francisco L. Filho com 25,73mts”.
+
+LOTE DE TERRAS nº. 01-A, da Quadra nº. 02, com área de 164,60m2, situado no Loteamento Projeto Califórnia X Etapa, no quadro urbano da cidade e município de Califórnia, comarca de Marilândia do Sul/PR, com as seguintes divisas, confrontações e metragens: “Frente para a Rua Joaquim F. Ramos (Proj. H) com 10,41mts, aos fundos com o lote 02, com 10,50mts, com os lotes 01 REM, com 15,98mts, e finalmente com o lote 17, com 16,00mts”.
+
+LOTE DE TERRAS nº. 01-REM, da Quadra nº. 02, com área de 164,60m2, situado no Loteamento Projeto Califórnia X Etapa, no quadro urbano da cidade e município de Califórnia, comarca de Marilândia do Sul/PR, com as seguintes divisas, confrontações e metragens: “Frente para a Rua Joaquim F. Ramos (Proj. H) com 10,42mts, aos fundos com o lote 02, com 10,53mts, com os lotes 01-A, com 15,98mts, e finalmente com a Rua Mario Guerra, com 15,97mts”.
+
+LOTE DE TERRAS nº. 03-A, da Quadra nº. 03, (referente a área institucional II) com área de 230,00m2, situado no Loteamento Projeto Califórnia X Etapa, no quadro urbano da cidade e município de Califórnia, comarca de Marilândia do Sul/PR, com as seguintes divisas, confrontações e metragens: “Frente para a Rua Ver. Francisco L. Filho (Proj. C) com 11,06mts, aos fundos com o lote 02, com 10,93mts, com o lote 03- REM, com 21,28mts, e finalmente com o lote 04, com 21,30mts”.
+
+LOTE DE TERRAS nº. 03-REM, da Quadra nº. 03, (referente a área institucional II) com área de 230,43m2, situado no Loteamento Projeto Califórnia X Etapa, no quadro urbano da cidade e município de Califórnia, comarca de Marilândia do Sul/PR, com as seguintes divisas, confrontações e metragens: “Frente para a Rua Ver. Francisco L. Filho (Proj. C) com 11,06mts, aos fundos com o lote 02, com 10,93mts, com o lote 03-A, com 21,28mts, e finalmente com a Rua Mario Guerra, com 21,26mts”.
+
+LOTE DE TERRAS nº. 11-A, da Quadra nº. 04, (referente a área institucional V), com área de 310,73m2, situado no Loteamento Projeto Califórnia X Etapa, no quadro urbano da cidade e município de Califórnia, comarca de Marilândia do Sul/PR, com as seguintes divisas, confrontações e metragens: “Frente para a AV. José da Cunha Neto, com 13,00mts, aos fundos com o lotes 10 e 12, com 13,00mts, de um lado com a Rua Vereador Francisco L. Filho, com 25,32mts, e finalmente com o lote 11-B, com 25,27 mts”.
+
+LOTE DE TERRAS nº. 11-B, da Quadra nº. 04, (referente a área institucional V), com área de 255,57m2, situado no Loteamento Projeto Califórnia X Etapa, no quadro urbano da cidade e município de Califórnia, comarca de Marilândia do Sul/PR, com as seguintes divisas, confrontações e metragens: “ Frente para a AV. José da Cunha Neto, com 10,38mts, aos fundos com o lotes 10 e 12, com 10,38mts, com o lote 11-A, com 25,27mts, e finalmente com o lote 11-C, com 25,22mts ”.
+
+LOTE DE TERRAS nº. 11-C, da Quadra nº. 04, (referente a área institucional V), com área de 255,60m2, situado no Loteamento Projeto Califórnia X Etapa, no quadro urbano da cidade e município de Califórnia, comarca de Marilândia do Sul/PR, com as seguintes divisas, confrontações e metragens: “Frente para a AV. José da Cunha Neto, com 10,38mts, aos fundos com o lotes 10 e 12, com 10,38mts, com o lote 11-B, com 25,22mts, e finalmente com o lote 11-REM, com 25,18mts”.
+
+LOTE DE TERRAS nº. 11-REM, da Quadra nº. 04, (referente a área institucional V), com área de 309,06m2, situado no Loteamento Projeto Califórnia X Etapa, no quadro urbano da cidade e município de Califórnia, comarca de Marilândia do Sul/PR, com as seguintes divisas, confrontações e metragens: “Frente para a AV. José da Cunha Neto, com 13,00mts, aos fundos com o lotes 10 e 12, com 13,00mts, com o lote 11-C, com 25,18mts, e finalmente com a Rua Ver. Adolfo Jorge Morais”.
+
+
+Parágrafo único
+
+Os imóveis descritos neste artigo, cuja avaliação totaliza o montante de R$ 540.000,00 (quinhentos e quarenta mil reais) é, por esta Lei, desafetado de sua natureza de bem público e passa a integrar categoria de bem dominial.
+
+
+Art. 2º.
+
+Os bens imóveis descritos no artigo 1º desta Lei será utilizado exclusivamente no âmbito dos Programas Minha Casa Minha Vida – PMCMV e de Programa Habitacional que venha a ser desenvolvido pelo Governo do Estado do Paraná.
+
+
+Art. 3º.
+
+O Donatário terá como encargo utilizar o imóvel doado nos termos desta Lei exclusivamente para construção de empreendimentos habitacionais, destinadas à população de baixa renda.
+
+
+Parágrafo único
+
+A propriedade das unidades habitacionais produzidas será transferida pelo Donatário para cada um dos beneficiários, mediante alienação, segundo as regras estabelecidas no Programa Minha Casa Minha Vida – PMCMV.
+
+
+Art. 4º.
+
+A doação realizada de acordo com a autorização contida nesta Lei, ficará automaticamente revogada, revertendo a propriedade do imóvel ao domínio pleno da municipalidade, se:
+
+
+I –
+
+o Donatário fizer uso do imóvel doado para fins distintos daquele determinado no artigo 3º. desta Lei;
+
+
+II –
+
+A construção das unidades habitacionais não iniciarem em até 36 meses contados a partir da efetiva doação, na forma desta Lei.
+
+
+Art. 5º.
+
+O imóvel objeto da doação ficará isento do recolhimento dos seguintes tributos municipais:
+
+
+I –
+
+ITBI – Imposto de Transmissão de Bens Imóveis;
+
+
+a)
+
+quando da transferência da propriedade do imóvel do Município para o Donatário, na efetivação da doação;
+
+
+b)
+
+quando da transferência da propriedade das unidades habitacionais produzidas aos beneficiários pelo donatário, efetivada pela Caixa Econômica Federal.
+
+
+II –
+
+IPTU – Imposto Predial e Territorial Urbano, durante a fase de construção e 01 (um) exercício seguinte após a concessão do habite-se;
+
+
+Art. 6º.
+
+A Donatária poderá alienar os lotes resultantes do desmembramento ou loteamento da área descrita no art. 1º por valor constante ao da escritura de doação, atualizados por avaliação de técnico competente, por reconhecido interesse social.
+
+
+Parágrafo único
+
+Os recursos a que se referem o caput deste artigo serão destinados ao Município, como forma de ressarcimento pela execução de obras de infra estrutura externa a poligonal do empreendimento.
+
+
+Art. 7º.
+
+Fica o Poder Executivo Municipal autorizado a firmar convênio com a Companhia de Habitação do Paraná – COHAPAR, para viabilizar a construção de unidades habitacionais de interesse social na área descrita no artigo primeiro.
+
+
+Art. 8º.
+
+Fica autorizada a Companhia de Habitação do Paraná – COHAPAR, a efetuar a seleção de empresa do ramo da construção civil, observando-se a Lei n.º 8.666/93, interessada em produzir na área relacionada no artigo 1º, empreendimento habitacional popular de interesse social no âmbito do Programa Minha Casa Minha Vida – PMCMV, com recursos do FGTS.
+
+
+Art. 9º.
+
+Fica o Poder Executivo Municipal autorizado a conceder à Companhia de Habitação do Paraná - Cohapar e/ou à empresa contratada para a execução das moradias, isenção do Imposto Sobre Serviços de Qualquer Natureza – I.S.S.Q.N incidente sobre as operações relativas à construção de unidades habitacionais e obras de infraestrutura na área indicada no art. 1º destinada à implantação de Programas Habitacionais de Interesse Social desenvolvidos pela COHAPAR.
+
+
+Art. 10.
+
+Fica o Poder Executivo Municipal autorizado a conceder à Companhia de Habitação do Paraná - Cohapar e/ou à empresa contratada para a execução das moradias, isenção de taxas referentes à expedição de alvará de construção, alvará de serviço autônomo e habite-se, relativas às unidades habitacionais vinculadas ao Programa MCMV.
+
+
+Art. 11.
+
+Fica o Município de Califórnia responsável pela execução da infraestrutura não incidente do empreendimento a ser implementado na área descrita no art. 1º através de Programas Habitacionais de Interesse Social desenvolvidos pela COHAPAR.
+
+
+Parágrafo único
+
+Caso o Município tenha dificuldades em executar os serviços indicados no caput deste artigo, fica o Governo do Estado do Paraná, garantidor da execução da infraestrutura não incidente, autorizado a reter do Fundo de Participação dos Municípios – FPM ou do produto da receita que couber ao Município na arrecadação do ICMS, os valores necessários para a execução de tais serviços, na forma do Decreto Estadual n.º 2845 de 28 de setembro de 2011.
+
+
+Art. 12.
+
+Está Lei entrará em vigor na data de sua publicação, revogando na íntegra a Lei Municipal 1498/2013.
+
+
+Paço Municipal, aos 24 dias do mês de novembro de 2015.
+
+***ANA LÚCIA MAZETO GOMES***
+
+Prefeita
+

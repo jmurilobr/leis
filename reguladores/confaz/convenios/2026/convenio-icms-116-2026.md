@@ -1,0 +1,144 @@
+---
+titulo: "CONVÊNIO ICMS Nº 116, DE 13 DE OUTUBRO DE 2026"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "116"
+data: "2026-10-13"
+revogada: null
+versao_texto: "Texto e notas oficiais do portal CONFAZ conforme a captura; sem certificação de vigência."
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV116_26"
+sha256_html_fonte: "f2a6f24d5afd25eb2b5e6a05b8d2c339a31cdc385bf6580c723abd6706e21341"
+sha256_texto: "53862e6dfa489eb059052b70c7262822a4412f42627d74157d095852143932a2"
+baixado_em: "2026-10-27"
+representacao_corpo: "html-nativo-confaz-piloto-v1"
+observacao_captura: "timestamp original do cliente com fuso, convertido para America/Recife"
+observacao_efeitos: "Condições de ratificação e produção de efeitos preservadas literalmente. Nenhuma data de vigência calculada."
+publicacao_fonte: "Publicado no DOU de 14.10.26, pelo Despacho 48/26. | Ratificação Nacional no DOU de 19.10.26, pelo Ato Declaratório 25/26."
+---
+# CONVÊNIO ICMS Nº 116, DE 13 DE OUTUBRO DE 2026
+
+<div id="parent-fieldname-text"><p class="A1-1TituloAcordo">CONVÊNIO ICMS Nº 116, DE 13 DE OUTUBRO DE 2026</p>
+<p class="A2DataPublicacao">Publicado no DOU de 14.10.26, pelo Despacho <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/despacho/2026/despacho-48-26" target="_self" title="despacho 48/26">48/26</a>.</p>
+<p class="A2DataPublicacao">Ratificação Nacional no DOU de 19.10.26, pelo Ato Declaratório <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/atos-declaratorios/2026/ato-declaratorio-25-26" target="_self" title="ato declaratorio 25/26">25/26</a>.</p>
+<p class="A3Ementa">Autoriza a instituição de programa de parcelamento de débitos fiscais relacionados com o ICMS, na forma que especifica e dá outras providências.</p>
+<p class="A5-1TextoAcordo"><b>O Conselho Nacional de Política Fazendária - CONFAZ</b>, na sua 434ª Reunião Extraordinária, realizada em Brasília, DF, no dia 13 de outubro de 2026, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte</p>
+<p class="A4AcordoTipo">CONVÊNIO</p>
+<p class="A5-1TextoAcordo"><b>Cláusula primeira</b> O Estado do Ceará fica autorizado a instituir programa de parcelamento de todos os débitos fiscais relacionados com o Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS, suas multas e juros, constituídos ou não, inscritos ou não em Dívida Ativa, inclusive ajuizados, parcelados ou não, observadas as condições e limites estabelecidos neste convênio, relativos a fatos geradores ocorridos até 30 de abril de 2026.</p>
+<p class="A5-1TextoAcordo">§ 1º O débito será consolidado, individualmente, na data do pedido de ingresso no programa, com todos os acréscimos legais vencidos previstos na legislação vigente na data dos respectivos fatos geradores da obrigação tributária.</p>
+<p class="A5-1TextoAcordo">§ 2º Poderão ser incluídos na consolidação os valores espontaneamente denunciados ou informados pelo contribuinte à repartição fazendária, decorrentes de infrações relacionadas a fatos geradores ocorridos até 30 de abril de 2026.</p>
+<p class="A5-1TextoAcordo">§ 3º Ressalvada a hipótese de adesão ao referido programa com quitação integral em parcela única, não se incluem no programa de parcelamento os débitos de ICMS que estão parcelados mediante a adesão aos programas estabelecidos na forma da Lei nº 18.615, 1º de dezembro de 2023, e da Lei Estadual nº 19.482, de 14 de outubro de 2025.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula segunda</b> O débito consolidado, na forma da cláusula primeira, poderá ser pago nos termos estabelecidos nos Anexos I e II.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula terceira</b> O ingresso no programa dar-se-á por opção do contribuinte, com o pagamento da parcela única ou da primeira parcela, no caso de parcelamento, até 30 de dezembro de 2026.</p>
+<p class="A5-1TextoAcordo">§ 1º A adesão ao programa de que trata este convênio implica a ciência do contribuinte de que a revogação do parcelamento enseja a inscrição em Dívida Ativa do saldo devedor remanescente.</p>
+<p class="A5-1TextoAcordo">§ 2º Implica revogação do parcelamento e cobrança do saldo devedor remanescente:</p>
+<p class="A5-1TextoAcordo">I - a inobservância de quaisquer das exigências estabelecidas neste convênio;</p>
+<p class="A5-1TextoAcordo">II - estar em atraso, por prazo superior a 60 (sessenta) dias, com o pagamento de qualquer parcela;</p>
+<p class="A5-1TextoAcordo">III - o inadimplemento do imposto devido, relativamente a fatos geradores ocorridos após a data da homologação do ingresso no programa, por prazo superior a 60 (sessenta) dias consecutivos;</p>
+<p class="A5-1TextoAcordo">IV - o descumprimento de outras condições, a serem estabelecidas pela unidade federada.</p>
+<p class="A5-1TextoAcordo">§ 3º Sobre os débitos incluídos no parcelamento incidirão os acréscimos legais previstos na legislação estadual do ICMS, tais como juros, multa e atualização monetária, calculados até a data da consolidação, aplicando-se igualmente tais acréscimos em caso de atraso no pagamento de qualquer parcela, conforme a legislação vigente à época do vencimento.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula quarta</b> A formalização de pedido de ingresso no programa implica o reconhecimento dos débitos tributários nele incluídos, ficando condicionada à desistência de eventuais ações ou embargos à execução fiscal, com renúncia ao direito sobre o qual se fundam, nos autos judiciais respectivos, e da desistência de eventuais impugnações, defesas e recursos apresentados no âmbito administrativo.</p>
+<p class="A5-1TextoAcordo">Parágrafo único. A manifestação do pedido de desistência de eventuais ações ou embargos à execução fiscal deve ocorrer quando do ingresso no programa, devendo ser comprovada a sua efetivação nos termos e condições previstos na legislação.</p>
+<p class="A5-1TextoAcordo"><b> Cláusula quint</b>a O Estado do Ceará fica autorizado também a remitir:</p>
+<p class="A5-1TextoAcordo">I - os débitos de qualquer natureza inscritos até 31 de dezembro de 2011, na Dívida Ativa do Estado do Ceará, objeto de execução fiscal ou não, desde que possuam saldo atualizado equivalente a até 20.000 (vinte mil) Unidades Fiscais de Referência do Estado do Ceará (Ufirces) na data da vigência da lei estadual instituidora do programa de que trata este convênio;</p>
+<p class="A5-1TextoAcordo">II – inscrições com saldo devedor igual ou inferior a R$ 1.000,00 (mil reais) na data da publicação da lei prevista no inciso I, desde que tenham sido efetuadas até 31 de dezembro de 2016;</p>
+<p class="A5-1TextoAcordo">III – inscrições com saldo devedor igual ou inferior a R$ 500,00 (quinhentos reais) na data da publicação da lei prevista no inciso I, desde que tenham sido efetuadas até 31 de dezembro de 2021;</p>
+<p class="A5-1TextoAcordo">IV - inscrições com saldo devedor igual ou inferior a R$ 100,00 (cem reais) na data da publicação da lei prevista no inciso I, desde que tenham sido efetuadas até 31 de dezembro de 2024.</p>
+<p class="A5-1TextoAcordo">§ 1º Não são elegíveis para a aplicação da remissão de que trata o inciso I do “caput” os débitos inscritos em Dívida Ativa em relação a que se verifique qualquer uma das seguintes situações:</p>
+<p class="A5-1TextoAcordo">I - devedor pessoa jurídica de direito público, empresa pública, sociedade de economia mista ou consórcio público;</p>
+<p class="A5-1TextoAcordo">II - existência de garantia ou depósito anotados em sistema de gestão e controle da Dívida Ativa;</p>
+<p class="A5-1TextoAcordo">III - crédito tributário com exigibilidade suspensa;</p>
+<p class="A5-1TextoAcordo">IV - parcelamento perdido ou rescindindo em data posterior a 31 de dezembro de 2024.</p>
+<p class="A5-1TextoAcordo">§ 2º Para as inscrições de débitos de pessoas jurídicas com saldo acima de 20.000 (vinte mil) Unidades Fiscais de Referência do Estado do Ceará (Ufirces), fica também autorizada a remissão, na forma do inciso I do “caput” e do § 1º desta cláusula, condicionada, ainda, à comprovação da ausência de:</p>
+<p class="A5-1TextoAcordo">I - atividade regular da entidade ou estabelecimento em data posterior a 31 de dezembro de 2021;</p>
+<p class="A5-1TextoAcordo">II - bens ou direitos, no patrimônio do devedor ou de eventuais responsáveis ou sucessores, que possibilitem a integral ou substancial recuperação do crédito;</p>
+<p class="A5-1TextoAcordo">III - indícios de práticas para fraudar a recuperação do crédito;</p>
+<p class="A5-1TextoAcordo">IV - pendência de discussão judicial, em qualquer juízo ou grau de jurisdição, acerca da existência, subsistência ou extensão de responsabilidade, sucessão ou garantia relacionadas ao débito.</p>
+<p class="A5-1TextoAcordo">§ 3º A Procuradoria-Geral do Estado editará os atos normativos necessários à operacionalização das remissões de débitos inscritos em Dívida Ativa autorizadas na forma desta cláusula.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula sexta</b> O Estado do Ceará fica autorizado também a remitir e anistiar o débito relativo ao descumprimento da obrigação tributária acessória de registro dos eventos relativos à confirmação da operação descrita na Nota Fiscal Eletrônica pelo contribuinte do ICMS, conforme estabelecido na cláusula décima quinta-B e cláusula décima quinta-C do Ajuste SINIEF nº 7, de 30 de setembro de 2005, relativos a fatos geradores ocorridos até 31 de dezembro de 2025.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula sétima</b> A legislação estadual poderá dispor sobre:</p>
+<p class="A5-1TextoAcordo">I - as condições e limites para os contribuintes usufruírem dos benefícios previstos neste convênio;</p>
+<p class="A5-1TextoAcordo">II - o valor mínimo e a forma de pagamento de cada parcela;</p>
+<p class="A5-1TextoAcordo">III - honorários advocatícios;</p>
+<p class="A5-1TextoAcordo">IV - juros e atualização monetária;</p>
+<p class="A5-1TextoAcordo">V - outros critérios que considerar necessários para controle e operacionalização do programa de que trata este Convênio.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula oitava</b> O disposto neste convênio não autoriza a restituição ou compensação de importâncias já pagas.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula nona</b> Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.</p>
+<p class="A5-1TextoAcordo" style="text-align: center; "><b style="text-align: center; ">ANEXO I</b></p>
+<p> </p>
+<table border="1" cellspacing="0" cellpadding="0"><tbody><tr><td width="604" colspan="5" valign="bottom">
+<p align="center">PERCENTUAIS DE REDUÇÃO DA MULTA E DOS JUROS PARA DÉBITOS</p>
+<p align="center">COMPOSTOS DE IMPOSTO E MULTA</p>
+</td>
+</tr><tr><td width="604" colspan="5" valign="bottom">
+<p align="center">PRAZO DE PAGAMENTO</p>
+</td>
+</tr><tr><td width="104" valign="bottom">
+<p align="center">À VISTA</p>
+</td>
+<td width="109" valign="bottom">
+<p align="center">ATÉ 3 PARCELAS</p>
+</td>
+<td width="128" valign="bottom">
+<p align="center">DE 4 A 12 PARCELAS</p>
+</td>
+<td width="132" valign="bottom">
+<p align="center">DE 13 A 30 PARCELAS</p>
+</td>
+<td width="132" valign="bottom">
+<p align="center">DE 31 A 60 PARCELAS</p>
+</td>
+</tr><tr><td width="104" valign="bottom">
+<p align="center">100%</p>
+</td>
+<td width="109" valign="bottom">
+<p align="center">90%</p>
+</td>
+<td width="128" valign="bottom">
+<p align="center">85%</p>
+</td>
+<td width="132" valign="bottom">
+<p align="center">75%</p>
+</td>
+<td width="132" valign="bottom">
+<p align="center">65%</p>
+</td>
+</tr></tbody></table><p style="text-align: center; "> <b style="text-align: center; ">ANEXO II</b></p>
+<p align="center"><b> </b></p>
+<table border="1" cellspacing="0" cellpadding="0"><tbody><tr><td width="604" colspan="5" valign="bottom">
+<p align="center">PERCENTUAIS DE REDUÇÃO DA MULTA E DOS JUROS PARA DÉBITOS</p>
+<p align="center">COMPOSTOS APENAS DE MULTA</p>
+</td>
+</tr><tr><td width="604" colspan="5" valign="bottom">
+<p align="center">PRAZO DE PAGAMENTO</p>
+</td>
+</tr><tr><td width="106" valign="bottom">
+<p align="center">À VISTA</p>
+</td>
+<td width="111" valign="bottom">
+<p align="center">ATÉ 3 PARCELAS</p>
+</td>
+<td width="124" valign="bottom">
+<p align="center">DE 4 A 12 PARCELAS</p>
+</td>
+<td width="133" valign="bottom">
+<p align="center">DE 13 A 30 PARCELAS</p>
+</td>
+<td width="130" valign="bottom">
+<p align="center">DE 31 A 60 PARCELAS</p>
+</td>
+</tr><tr><td width="106" valign="bottom">
+<p align="center">80%</p>
+</td>
+<td width="111" valign="bottom">
+<p align="center">75%</p>
+</td>
+<td width="124" valign="bottom">
+<p align="center">70%</p>
+</td>
+<td width="133" valign="bottom">
+<p align="center">65%</p>
+</td>
+<td width="130" valign="bottom">
+<p align="center">55%</p>
+</td>
+</tr></tbody></table><p> </p></div>

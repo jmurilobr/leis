@@ -1,0 +1,93 @@
+---
+titulo: "Lei Complementar nº 468, de 04 de outubro de 2012"
+tipo: "Lei complementar"
+tipo_na_fonte: "Lei Complementar"
+numero: "468"
+data: "2012-10-04"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/500"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/1768/text"
+sha256_fonte: "6742839291b3bbec61b4b8842faf4a6254ef8ae629bb59078580f0cb01391e1c"
+sha256_texto: "05fe10ffe748d1c22daef8208116115669f67393a74f5ab08f2a1e49ee1d936a"
+capturado_em_fonte: "2026-10-27T21:08:02.045159-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Complementar nº 468, de 04 de outubro de 2012
+
+“Dispõe sobre a retirada e destinação dos captores iônico-radioativos (pára-raios) do Município de Porto Velho e dá outras providências”
+
+
+**O PRESIDENTE DA CÂMARA MUNICIPAL DE PORTO VELHO**, Vereador **EDUARDO CARLOS RODRIGUES DA SILVA**, no uso das atribuições que lhe confere os §§ 4º e 6º, do artigo 72 da Lei Orgânica do Município, combinado com os §§ 4º e 6º, do art. 165da Resolução nº. 254/CMPV-91 - REGIMENTO INTERNO, PROMULGA a seguinte
+
+**L E I:**
+
+
+Art. 1º.
+
+Os responsáveis por edificações que tenham instalados em seus imóveis captores iônico-radioativos em contrário às normas que fixam as condições exigíveis ao projeto, instalação e manutenção de sistemas de proteção contra descargas atmosféricas, deverão efetuar sua substituição.
+
+
+§ 1º
+
+Os captores iônico-radioativos são pára-raios fabricados com componentes radioativos proibidos.
+
+
+§ 2º
+
+O sistema de proteção contra descargas atmosféricas garantido abrangência para todo o imóvel deverá, na substituição dos captores iônico-radioativos de que trata o caput, estar em estrito acordo com a NBR 5419 da Associação Brasileira de Normas Técnicas – ABNT.
+
+
+Art. 2º.
+
+A retirada e transporte dos pára-raios radioativos deverão ser realizados por pessoal especializado, em restrita obediência às indicações e normas da Comissão Nacional de Energia Nuclear, com o objetivo de evitar a dispersão de material radioativo no meio ambiente.
+
+
+§ 1º
+
+Obedecidas às normas de segurança na garantia de um nível adequado de controle da eventual exposição à radiação ionizante, os captores iônico-radioativos deverão ser entregues ao CNEN – Comissão Nacional de Energia Nuclear na qualidade de órgão superior de orientação, planejamento, supervisão e fiscalização do transporte de materiais radioativos.
+
+
+§ 2º
+
+Todo e qualquer custo originário da retirada, acondicionamento, manuseio e destino final dos pára-raios radioativo, são de inteira responsabilidade do proprietário do imóvel.
+
+
+Art. 3º.
+
+Fica estipulado o prazo de 01 (um) ano a ser contado a partir da publicação desta Lei para que seja realizada a substituição e destinação dos captores iônico-radioativos em atendimento ao disposto nesta Lei.
+
+
+Parágrafo único
+
+Caberá ao Poder Público, através da Secretaria Municipal do Meio Ambiente – SEMA notificar os proprietários das edificações descritas no caput do art. 1º para que procedam a substituição e destinação nos termos desta Lei e das normas vigentes, sem prejuízo de demais atos normativos complementares que vierem a ser baixados.
+
+
+Art. 4º.
+
+Esta Lei deverá ser regulamentada no prazo de 60 (sessenta dias), a contar da data de publicação desta Lei, por ato do poder executivo inclusive sobre a aplicação das sanções no caso do descumprimento do instituído por esta Lei.
+
+
+Art. 5º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
+
+
+Câmara Municipal de Porto Velho, 04 de outubro de 2012.
+
+**Vereador EDUARDO CARLOS RODRIGUES DA SILVA**
+
+**Presidente**
+
+Projeto de Lei Complementar nº. 624/2012 substitutivo ao Projeto de Lei nº.
+
+2.830/2012.
+
+Ver. Sid Orleans
+

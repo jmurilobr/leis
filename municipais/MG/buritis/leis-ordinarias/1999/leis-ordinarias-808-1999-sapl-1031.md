@@ -1,0 +1,172 @@
+---
+titulo: "Lei nº 808, de 28 de setembro de 1999"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "808"
+data: "1999-09-28"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/1031"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/1671/text"
+sha256_fonte: "af7e3061b1e81cd2bb8bf30324763e73a2c56e685dc78a9393af80b2ded0da26"
+sha256_texto: "a368855b55bd28a5c486c170e43e4fc142a1aa5a569bc0f02a7b343c11ef6ba1"
+capturado_em_fonte: "2026-10-27T20:24:09.202856-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 808, de 28 de setembro de 1999
+
+Dispõe sobre criação do conselho municipal de desenvolvimento do turismo de Buritis e dá outras providências.
+
+
+O povo por seus representantes aprova e o prefeito municipal sanciona a seguinte lei:
+
+
+Art. 1º.
+
+Fica instituído o conselho municipal de desenvolvimento do Turismo de Buritis, órgão deliberativo do Poder Executivo municipal, vinculado à Secretaria municipal de Educação, Esporte, Lazer e Turismo, com a finalidade de decidir sobre a política municipal de turismo e as ações dela decorrentes.
+
+
+Parágrafo único
+
+As decisões do conselho municipal de desenvolvimento do Turismo, serão submetidas ao Prefeito municipal para homologação.
+
+
+Art. 2º.
+
+Compete ao conselho municipal de desenvolvimento do Turismo:
+
+
+I –
+
+deliberar sobre:
+
+
+a)
+
+a política municipal de desenvolvimento e expansão do turismo no município;
+
+
+b)
+
+os planos anuais que visam ao desenvolvimento e expansão do turismo no município;
+
+
+c)
+
+a proposta de criação e aperfeiçoamento de instrumento de estímulo ao desenvolvimento turístico;
+
+
+d)
+
+o calendário oficial de eventos turísticos do município.
+
+
+II –
+
+Oferecer subsídios aos demais órgãos da Administração municipal, no que concerne ao planejamento e desenvolvimento de ações que beneficiem o turismo;
+
+
+III –
+
+Manter intercâmbio com órgãos públicos e entidades relacionadas com o turismo dos municípios vizinhos do Estado e da União, a fim de estabelecer políticas e ações conjuntas;
+
+
+IV –
+
+Propor à Administração municipal a designação de áreas de interesse turístico e colaborar na administração dos pontos turísticos municipais;
+
+
+V –
+
+Avaliar a execução da política municipal de desenvolvimento do turismo;
+
+
+VI –
+
+Opinar sobre assuntos gerais de interesse da área de turismo.
+
+
+Art. 3º.
+
+O Conselho Municipal de Desenvolvimento do Turismo será nomeado pelo Prefeito Municipal, mediante decreto e terá a seguinte composição:
+
+
+I –
+
+Secretário Municipal de Educação, Cultura, Esportes, Lazer e Turismo;
+
+
+II –
+
+Representante da Secretaria municipal de Obras;
+
+
+III –
+
+Representante da Secretaria municipal de Transportes;
+
+
+IV –
+
+Representante da Secretaria municipal de Agricultura e Meio Ambiente;
+
+
+V –
+
+04 (quatro) representantes dos empresários do ramo de hotelaria, restaurantes e similares, agências de viagens, promotores de eventos e grupos ou pessoas de reconhecido interesse no desenvolvimento do turismo local.
+
+
+§ 1º
+
+Os representantes mencionados no inciso V deste artigo serão escolhidos em assembleia convocada especificamente para esse fim.
+
+
+§ 2º
+
+O conselho será presidido pelo Secretário Municipal de Educação, Cultura, Esporte, Lazer e Turismo e na sua ausência, por outro conselheiro indicado pelo plenário.
+
+
+§ 3º
+
+O conselho poderá ter um secretário executivo, indicado pela Prefeitura Municipal dentre seus servidores efetivos, e designado pelo Presidente do conselho.
+
+
+Art. 4º.
+
+O mandato dos conselheiros será de 02 (dois) anos, renováveis e sua função não será remunerada considerada relevante serviço prestado ao Município.
+
+
+§ 1º
+
+Os representantes de entidades ou segmentos sociais e econômicos poderão ser substituídos, mediante solicitação apresentada ao Presidente do conselho submetida a aprovação do Prefeito.
+
+
+§ 2º
+
+Quando houver ocorrência normal de vaga o suplente assumirá a função completando o mandato do titular
+
+
+Art. 5º.
+
+A organização e o funcionamento do COMDETUR serão disciplinados em regimento interno, pelo conselho, no prazo de 60 (sessenta) dias a contar de sua nomeação.
+
+
+Art. 6º.
+
+Esta lei, entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Buritis - MG., 28 de Setembro de 1999.
+
+**Pe. José Vicente Damasceno Prefeito Municipal**
+
+**Clarindo F. Filho Assessor Jurídico**
+
+Projeto Lei nº 017/99, de 01/09/99. Aprovado em 1ª votação por 09x00. Aprovado em 2ª votação por 10x00. Sala das sessões, 27/09/99.
+

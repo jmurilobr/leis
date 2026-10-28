@@ -1,0 +1,255 @@
+---
+titulo: "Lei nº 1.158, de 03 de setembro de 2009"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1158"
+data: "2009-09-03"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/563"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/1002/text"
+sha256_fonte: "44d5422f617faee7249428895124921046e9f7be50aa8721cac90366e5ccabfe"
+sha256_texto: "a146d75abc5ffb185819e4f2d237f129fd6afa22d86354df946a62f5a7f1b2de"
+capturado_em_fonte: "2026-10-27T20:08:34.049909-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.158, de 03 de setembro de 2009
+
+Cria o Conselho Municipal de Esporte e dá outras providências.
+
+
+A Câmara Municipal de Buritis, por seus representantes, aprovaram e Eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal de Esporte.
+
+
+Art. 2º.
+
+O Conselho Municipal de Esporte é órgão colegiado de caráter consultivo, vinculado à Secretaria Municipal de Educação, Cultura, Esporte, Lazer e Turismo.
+
+
+Art. 3º.
+
+O Conselho Municipal de Esporte tem por finalidade auxiliar na organização do esporte, na consolidação de políticas públicas e na melhora do padrão de organização, gestão, qualidade e transparência do esporte municipal.
+
+
+Art. 4º.
+
+O Conselho Municipal de Esporte tem a seguinte estrutura:
+
+
+I –
+
+Plenário
+
+
+II –
+
+Mesa Diretora
+
+
+III –
+
+Secretaria Executiva
+
+
+Art. 5º.
+
+Ao Conselho Municipal de Esporte compete:
+
+
+I –
+
+cooperar com o Conselho Estadual de Desportos e com os órgãos federais e estaduais incumbidos da execução das Políticas de Esporte;
+
+
+II –
+
+adotar medidas e apoiar iniciativas em favor do incremento da prática do esporte e de atividades fisicas e de lazer, objetivando a saúde e o bem-estar do cidadão, observando o cumprimento dos princípios e normas legais;
+
+
+III –
+
+fornecer, quando solicitados, auxílio e informações ao Poder Público e à comunidade, quanto a programas e projetos que visem a melhoria da prática de atividades físicas e do esporte no Município;
+
+
+IV –
+
+opinar, quando consultado, sobre a concessão de auxílios e recursos financeiros às entidades e associações esportivas sediadas no Município;
+
+
+V –
+
+zelar pela memória do esporte;
+
+
+VI –
+
+contribuir para a formulação da política de integração entre o esportc, a saúde, a educação, a defesa social e o turismo visando potencializar beneficios sociais gerados pela prática de atividade fisica e esportiva;
+
+
+VII –
+
+Acompanhar, a partir de análises orçamentárias, entre outras que se façam necessárias, a gestão de recursos públicos voltados para a prática de atividades fisicas e de esporte, bem como avaliar os ganhos sociais obtidos e o desempenho dos programas e projetos aprovados, manifestando-se a respeito e sugerindo aprimoramentos;
+
+
+VIII –
+
+realizar os esforços necessários ao esclarecimento de dúvidas quanto à correta utilização, por parte das entidades beneficiárias, de recursos públicos voltados para a prática de atividades fisicas e de esporte; e
+
+
+IX –
+
+elaborar e aprovar, em reunião plenária, o Regimento Interno do Conselho.
+
+
+Art. 6º.
+
+O regimento interno do Conselho Municipal de Esporte disporá sobre a competência do Plenário, da Mesa Diretora e da Secretaria Executiva.
+
+
+Art. 7º.
+
+O Conselho Municipal de Esporte compõe-se dos seguintes membros:
+
+
+I –
+
+um representante da Câmara Municipal;
+
+
+II –
+
+um representante da Secretaria Municipal de Educação, Cultura, Esporte, Lazer e Turismo;
+
+
+III –
+
+um representante da Secretaria Municipal de Saúde;
+
+
+IV –
+
+um representante da Secretaria Municipal de Ação Social;
+
+
+V –
+
+um representante do Conselho Tutelar;
+
+
+VI –
+
+um representante da APAЕ;
+
+
+VII –
+
+um representante da Associação da Terceira Idade Alegria de Viver;
+
+
+VIII –
+
+um representante de Associações de Atletas;
+
+
+IX –
+
+um representante da imprensa desportiva;
+
+
+X –
+
+um representante de Entidade Estudantil.
+
+
+§ 1º
+
+Os órgãos e entidades de que tratam os incisos I a X indicarão seus representantes à Secretaria Municipal de Educação, Cultura, Esporte, Lazer e Turismo para posterior designação do Prefeito Municipal.
+
+
+§ 2º
+
+As funções de membro do Conselho Municipal de Esporte e de membro de suas comissões são consideradas serviço público relevante, não lhes cabendo qualquer remuneração.
+
+
+§ 3º
+
+O representante do Poder Público ou de entidade da sociedade civil poderá ser substituído a qualquer tempo, por nova indicação do representado.
+
+
+Art. 8º.
+
+A Mesa Diretora do Conselho será eleita dentre seus membros por meio de votação secreta.
+
+
+Art. 9º.
+
+O mandato dos membros do Conselho Municipal de Esporte é de dois anos, permitida uma recondução.
+
+
+Parágrafo único
+
+O membro do Conselho que deixar de comparecer, sem justificativa, a três sessões consecutivas ou à metade das sessões plenárias realizadas no período de um ano, perderá seu mandato.
+
+
+Art. 10.
+
+O Conselho Municipal de Esporte reunir-se-á mensalmente, e, extraordinariamente, por convocação da Mesa Diretora ou da maioria dos Conselheiros.
+
+
+Art. 11.
+
+As deliberações do Conselho serão tomadas pelo voto da maioria dos Conselheiros presentes às sessões, cabendo ao Presidente o voto de qualidade. Parágrafo único. As sessões do Conselho serão instaladas com a presença mínima cinco Conselheiros.
+
+
+Art. 12.
+
+Das sessões do Conselho serão lavradas atas, assinadas pelos presentes e pelo Secretário Executivo.
+
+
+Art. 13.
+
+O Conselho Municipal de Esporte pode constituir Comissões integradas por, no mínimo, um de seus membros e por profissionais de notório saber ou representantes de órgãos e entidades diretamente relacionados com o tema.
+
+
+Parágrafo único
+
+Cabe à Presidência do Conselho estabelecer a composição das comissões, bem como convidar profissionais ou órgãos e entidades a indicarem seus representantes.
+
+
+Art. 14.
+
+A Secretaria Executiva será exercida por servidor da Secretaria Municipal de Educação, Cultura, Esporte, Lazer e Turismo especialmente designado para tal função.
+
+
+Art. 15.
+
+No prazo de noventa dias, contados da data da publicação desta Lei, o Conselho aprovará o seu regimento interno.
+
+
+Art. 16.
+
+Para a consecução de suas finalidades, o Conselho Municipal de Esporte articular-se-á com órgãos e entidades federais, estaduais e municipais.
+
+
+Art. 17.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Buritis, 02/de Setembro de 2009.
+
+**Dr Keny Soares Rodrigues Prefeito Municipal**
+
+**Proposição de Lei 030 de 01/09/09, ref. Proj. de Lci 024.do Executivo**
+

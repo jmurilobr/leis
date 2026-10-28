@@ -1,0 +1,462 @@
+---
+titulo: "Lei Ordinária nº 1.209, de 10 de agosto de 1978"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "1209"
+data: "1978-08-10"
+municipio: "Cabo de Santo Agostinho"
+uf: "PE"
+codigo_ibge: "2602902"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabodesantoagostinho.pe.leg.br/norma/4376"
+fonte_texto: "https://sapl.cabodesantoagostinho.pe.leg.br/ta/4417/text"
+sha256_fonte: "04c16906013096bcaeb7894236bc566c973a2ec28cfc64f07cd317d7d6a7a65e"
+sha256_texto: "b046b7ecd06ba1dbc67d850e22aebf9011bd944e55068f177a77bf5449ae9311"
+capturado_em_fonte: "2026-10-27T22:11:06.565588-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 1.209, de 10 de agosto de 1978
+
+Autoriza o Chefe do Poder Executivo Municipal, criar o CONSELHO MUNICIPAL DE DEFESA DO MEIO AMBIENTE.
+
+
+O Prefeito do Município do Cabo, Estado de Pernambuco, Sr. JOSÉ ALBERTO DE LIMA, faço saber que a Câmara Municipal do Cabo decretou e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Chefe do Poder Executivo Municipal, autorizado a criar o CONSELHO MUNICIPAL DE DEFESA DO MEIO AMBIENTE-COMDEMA, órgão consultivo e de assessoramento da Prefeitura Municipal do Cabo, em questões referentes ao equilíbrio ecológico e ao combate à poluição ambiental, na área deste Município.
+
+
+Parágrafo único
+
+O COMDEMA ficará subordinado diretamente ao Prefeito e terá gráu de hierarquia igual ao de Secretaria.
+
+
+Art. 2º.
+
+Para as finalidades desta Lei, denomina-se poluição, qualquer alteração das propriedades físicas químicas ou biológicas do meio ambiente (solo, água e ar) causado por qualquer forma de matéria ou energia resultante das atividades humanas que direta ou indiretamente:
+
+
+I –
+
+Seja nociva ou ofensiva à saúde, à segurança e ao bem-estar da comunidade;
+
+
+II –
+
+Crie condições inadequadas para fins domésticos, agro-pecuário, comerciais, industriais e públicos;
+
+
+III –
+
+Ocasione danos à fauna e à flora.
+
+
+Art. 3º.
+
+É expressamente proibido o lançamento de resíduos em qualquer estado de Matéria ou forma de energia, proveniente de atividades humanas, em corpos de água na atmosfera ou no solo e que venham implicar em qualquer forma de poluição ou contaminação do meio ambiente, de acordo com o artigo 2º.
+
+
+Art. 4º.
+
+O COMDEMA compor-se-á de 9 (nove) membros, de livre escolha do Prefeito Municipal, sendo um representante da Prefeitura Municipal, um da Câmara Municipal e os demais indicados em listas Tríplices por entidades Técnico científicas.
+
+
+Art. 5º.
+
+Os membros do COMDEMA terão mandato de 2 (dois) anos, podendo ser reconduzidos, seu exercício será Gratuito e considerado como prestação de serviços relevantes ao Município.
+
+
+Art. 6º.
+
+O COMDEMA manterá com os demais órgãos, congêneres municipais, estaduais e federais, estreito intercâmbio com o objetivo de receber e fornecer subsídios Técnicos para esclarecimentos, relativos a defesa do meio ambiente.
+
+
+Art. 7º.
+
+O COMDEMA, cientificado de possível, poluição, diligenciará no sentido de sua apuração.
+
+
+Art. 8º.
+
+Constatada a poluição, o conselho expedirá notificação ao responsável, detalhando a ocorrência, e advertindo-o das possíveis consequências em face da legislação federal e estadual, sugerindo ao Prefeito as providências de julgar necessárias à debelação ou redução do mal.
+
+
+Art. 9º.
+
+O Município poderá estabelecer condições para o funcionamento das empresas, inclusive quanto à preservação ou correção da poluição industrial e de contaminação do meio ambiente respeitados os critérios, normas e padrões fixados pelo Governo Federal.
+
+
+Parágrafo único
+
+Os critérios, normas e padrões que se refere esse artigo serão fixados pela Secretaria Especial do MEIO AMBIENTE - (SEMA).
+
+
+Art. 10.
+
+A Prefeitura Municipal do Cabo através do COMDEMA, promoverá a divulgação de conhecimentos e providências relativas a preservação do meio ambiente.
+
+
+Art. 11.
+
+Constarão, obrigatoriamente dos currículos escolares, nos estabelecimentos de ensino da Prefeitura, noções de conhecimentos relativos à preservação, do meio ambiente.
+
+
+Art. 12.
+
+A presente Lei será regulamentada, pela Prefeitura, dentro do prazo de 60 (sessenta) dias de sua publicação.
+
+
+Art. 13.
+
+Até o prazo máximo de 30 (trinta), dias após sua instalação, COMDEMA elaborará seu Regimento Interno, que deverá ser homologado por Decreto.
+
+
+Art. 14.
+
+As despesas com a execução desta Lei, correrão pelas verbas próprias do Orçamento em vigor.
+
+
+Art. 15.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Palácio Conde da Boa Vista, em 10 de Agosto de 1978.
+
+JOSÉ ALBERTO DE LIMA
+
+– Prefeito –
+
+
+REGIMENTO INTERNO
+
+
+Art. 1º.
+
+O Conselho Municipal de Defesa do Meio Ambiente COMDEMA -, criado pela Lei nº 1210/78, de 10 de Agosto de 1978, é uma entidade municipal, vinculada à Prefeitura Municipal do Cabo.
+
+
+Art. 2º.
+
+O COMDEMA tem por finalidade:
+
+
+I –
+
+estudar, definir e propor normas e procedimentos visando a proteção do meio ambiente do Município do Cabo, como colaboração à administração municipal;
+
+
+II –
+
+participar e colaborar com programas intersetoriais de combate (a proteção) às moléstias veiculadas por agentes animados ou inanimados de interesse da Saúde Pública;
+
+
+III –
+
+promover e colaborar na execução de programas intersetoriais de proteção da flora, fauna e dos recursos naturais indispensáveis à sobrevivência do homem;
+
+
+IV –
+
+fornecer subsídios técnicos para esclarecimentos relativos à defesa do Meio Ambiente, à indústrias, ao comércio e à agro-pecuária;
+
+
+V –
+
+colaborar em campanhas educacionais, relativas aos problemas de saneamento básico, poluição das águas, do ar e do solo, combate a setores, proteção da fauna e da flora;
+
+
+VI –
+
+manter intercâmbio com as entidades oficiais e privadas de pesquisas e de atividades no âmbito da defesa do Meio Ambiente.
+
+
+VII –
+
+notificar os infratores e sugerir ao Prefeito as providências julgadas necessárias.
+
+
+Art. 3º.
+
+O COMDEMA terá reuniões ordinárias no espaço de tempo de 30 (trinta) dias, nas quais, as pautas de trabalho, previamente elaboradas, serão distribuídas com antecedência para estudos e conhecimentos, dos seus membros.
+
+
+§ 1º
+
+As reuniões extraordinárias do COMDEMA realizar-se-ão sempre que houver manifestação de algum de seus membros ao Presidente, e a critério deste.
+
+
+§ 2º
+
+As propostas dos membros serão sempre submetidas a votação.
+
+
+§ 3º
+
+As reuniões ordinárias e extraordinárias somente serão realizadas quando houver o comparecimento de mais de 50% (cinquenta por cento) de seus membros.
+
+
+§ 4º
+
+As proposições de COMDEMA serão transmitidas ao Prefeito Municipal, ficando a critério, deste a divulgação pela imprensa em geral.
+
+
+#### CAPÍTULO I — DA ORGANIZAÇÃO
+
+
+##### Seção I — DA ESTRUTURA
+
+
+Art. 4º.
+
+O COMDEMA terá a seguinte estrutura:
+
+
+I –
+
+1 (um) Presidente do Conselho
+
+
+II –
+
+1 (um) Vice-Presidente
+
+
+III –
+
+1 (um) Secretário
+
+
+IV –
+
+1 (um) Tesoureiro; e,
+
+
+V –
+
+5 (cinco) Membros
+
+
+§ 1º
+
+O Presidente, o Vice-Presidente, o Secretário e o Tesoureiro, serão eleitos por seus pares.
+
+
+§ 2º
+
+Os membros do Conselho não serão remunerados, sendo seus serviços considerados relevantes pela Municipalidade.
+
+
+§ 3º
+
+O Diretor de Saúde (ou Secretário de Saúde) do Município será membro nato do Conselho.
+
+
+§ 4º
+
+O COMDEMA é composto de (09) membros, sendo (01) de livre escolha do Prefeito Municipal, (01) representante da Câmara Municipal e (07) indicados pelas entidades científicas e culturais do Município.
+
+
+##### Seção II — DOS CARGOS
+
+
+Art. 5º.
+
+Ao Presidente do COMDEMA compete:
+
+
+I –
+
+marcar e presidir as reuniões do Conselho;
+
+
+II –
+
+dirigir a entidade, representá-la perante o Prefeito e ou, aos outros órgãos e acontecimentos;
+
+
+III –
+
+propor planos de trabalho;
+
+
+IV –
+
+participar nas votações e aprovar resoluções;
+
+
+V –
+
+resolver os casos omissos e praticar todos os atos necessários ao regular funcionamento do COMDEMA;
+
+
+VI –
+
+propor ao Prefeito os planos orçamentários, obras e serviços públicos, aplicação das penalidades ao infrator, bem como despesas, dentro da finalidade a que se propõe o COMDEMA.
+
+
+Parágrafo único
+
+O presidente do COMDEMA poderá delegar atribuições aos membros do Conselho, sempre que necessário ao bom cumprimento das finalidades da entidade, observadas as limitações legais.
+
+
+Art. 6º.
+
+A Vice-Presidente compete:
+
+
+I –
+
+substituir o Presidente em seus impedimentos e eventuais ausências;
+
+
+II –
+
+propor planos de trabalho;
+
+
+III –
+
+participar das votações;
+
+
+IV –
+
+assessorar a presidência.
+
+
+Art. 7º.
+
+Ao Secretário compete:
+
+
+I –
+
+redigir as atas das reuniões e distribuí-las mediante aprovação da presidência, num prazo de 10 (dez) dias após cada reunião;
+
+
+II –
+
+redigir toda a correspondência, relatórios anuais, comunicados, etc, mediante aprovação do presidente;
+
+
+III –
+
+manter contatos com outras entidades, da União, dos Estados e dos Municípios quanto à coleta de dados e informações no campo da preservação do Meio Ambiente;
+
+
+IV –
+
+participar das votações;
+
+
+V –
+
+manter em dia um arquivo de documentos, correspondências e literaturas;
+
+
+VI –
+
+propor planos de trabalho.
+
+
+Art. 8º.
+
+Ao Tesoureiro compete:
+
+
+I –
+
+exercer permanentemente a contabilidade financeira da entidade;
+
+
+II –
+
+organizar e manter em dia o arquivo relativo ao patrimônio do COMDEMA;
+
+
+III –
+
+participar das votações;
+
+
+IV –
+
+propor planos de trabalho;
+
+
+V –
+
+apresentar à presidência relatórios anuais relativos ao patrimônio da entidade.
+
+
+Art. 9º.
+
+Aos demais membros compete:
+
+
+I –
+
+participar das votações;
+
+
+II –
+
+propor planos de trabalho;
+
+
+III –
+
+realizar tarefas pertinentes às finalidades da entidade e às indicadas pela presidência.
+
+
+#### CAPÍTULO II — DISPOSIÇÕES FINAIS
+
+
+Art. 10.
+
+Serão submetidos à aprovação do Prefeito Municipal, além dos atos atribuídos à sua competência na legislação pertinente, mais o seguinte:
+
+
+I –
+
+os planos e programas de trabalho;
+
+
+II –
+
+os orçamentos e custos;
+
+
+III –
+
+as proposições do Conselho;
+
+
+IV –
+
+as aquisições de equipamentos de controle de poluição do ar, da água e do solo, cuja utilização eventual poderá ser atribuída pelo Presidente a órgãos técnico habilitado para o seu uso;
+
+
+V –
+
+as aquisições de materiais permanentes e de consumo.
+
+
+Art. 11.
+
+Este Regimento Interno entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Cabo, 10 de Agosto de 1978.
+
+JOSÉ ALBERTO DE LIMA
+
+– Prefeito –
+

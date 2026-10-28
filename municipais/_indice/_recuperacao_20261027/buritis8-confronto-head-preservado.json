@@ -1,0 +1,21 @@
+{
+  "commit": "8bc6b546e804300218d793923005b19084f4c7c8",
+  "baseline": "municipais/_indice/_recuperacao_20261027/baseline-head-buritis-preservado/manifesto.json",
+  "sha256_baseline": "6a014670005950535e66279111b70c4fe1a74e89f71e01b86078e32faeddf486",
+  "comparados": 32360,
+  "candidatos": 1,
+  "colisoes": [],
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/baseline-head-buritis-preservado/manifesto.json",
+      "sha256": "6a014670005950535e66279111b70c4fe1a74e89f71e01b86078e32faeddf486"
+    }
+  ],
+  "lista": "municipais/_indice/_recuperacao_20261027/buritis8-alvo-preimagem.paths.txt",
+  "sha256_lista": "b46597ec56aefef3861d21ed53c32d299d0a8b16778b4ecac701ad9e08422a44",
+  "sha256_candidatos": {
+    "municipais/MG/buritis/leis-ordinarias/1971/leis-ordinarias-8-1971-sapl-787.md": "407f89d8c476b79487840a744769d63589d08d3968039c8ae8b9756446f470ba"
+  },
+  "criterio": "URLs oficiais e identidade IBGE/rota/tipo/número/ano. O índice usa somente metadados do blob integral por OID do commit registrado e reservas qualificadas com SHA conferido; não lê versões do working tree para substituir HEAD.",
+  "codigo_sha256": "6cf4eb7ef24c88aff11487039d766cd27be1f6f21d4a30fa7a93f4128f7b7ab2"
+}

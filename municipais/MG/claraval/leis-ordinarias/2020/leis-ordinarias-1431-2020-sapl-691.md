@@ -1,0 +1,324 @@
+---
+titulo: "LEI ORDINÁRIA-CMC nº 1.431, de 26 de outubro de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "1431"
+data: "2020-10-26"
+municipio: "Claraval"
+uf: "MG"
+codigo_ibge: "3116407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.claraval.mg.leg.br/norma/691"
+fonte_texto: "https://sapl.claraval.mg.leg.br/ta/16/text"
+sha256_fonte: "acdac013f0dd1b350c704710f35094422927b1a82152aa391fa21e12cf146fd3"
+sha256_texto: "39a7814a90ec67f1dcdf8e62ade6fc9e43615d86b6f1b36abb326b23a8a9ba40"
+capturado_em_fonte: "2026-10-27T22:46:56.113706-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA-CMC nº 1.431, de 26 de outubro de 2020
+
+“Dispõe Sobre a Criação do Programa Emergencial de Fomento ao Setor Cultural do Município de Claraval/MG e dá outras Providencias.”
+
+
+O Prefeito do Município de Claraval, Estado de Minas Gerais, Luiz Gonzaga Cintra, no uso de suas atribuições legais, faz saber que a Câmara Municipal APROVOU e eu SANCIONO a seguinte Lei:
+
+
+#### CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+Fica instituído o Programa Emergencial de Fomento ao Setor Cultural do Município de Claraval/MG, que estabelece critérios e normas para o fomento do Setor Cultural local, estabelecendo os critérios e normas de recebimento dos recursos financeiros destinados para este fim, a serem aplicados em situações de emergências declaradas pelo poder público Municipal e que afetem diretamente o funcionamento deste Setor.
+
+
+Art. 2º.
+
+Para os fins previstos nesta Lei, entende-se por:
+
+
+I –
+
+proposta, projeto ou miniprojeto cultural: documento a ser apresentado pelo proponente em cada modalidade de edital, chamadas públicas ou outros instrumentos cabíveis, contendo o detalhamento do objeto a ser financiado nos termos desta Lei, tornando-se base para a execução, utilização dos recursos e acompanhamento da ação;
+
+
+II –
+
+agente cultural proponente: a pessoa física ou jurídica de natureza cultural, com ou sem fins lucrativos, domiciliada ou estabelecida no Município diretamente responsável pelo projeto cultural a ser beneficiado pelo programa instituído por esta Lei;
+
+
+III –
+
+incentivador ou contribuinte: a pessoa física ou jurídica contribuinte do Imposto Sobre Serviços de Qualquer Natureza – ISSQN e/ou Imposto sobre a Propriedade Predial e Territorial Urbana – IPTU, no Município de Claraval/MG que venha a transferir recursos mediante patrocínio, doação ou contribuição a favor de projetos culturais especificados nesta Lei;
+
+
+IV –
+
+patrocínio: repasse de numerário e em caráter definitivo a favor de projetos culturais especificados nesta Lei, com retorno de imagem para o incentivador (patrocinador);
+
+
+V –
+
+contribuição ou doação: transferência gratuita de numerário, sem ônus e em caráter definitivo, a favor de projetos culturais especificados nesta Lei;
+
+
+VI –
+
+subsídio: auxílio, ajuda, aporte, benefício. É um valor monetário fixado e concedido por órgãos públicos para manutenção de atividades de interesse público;
+
+
+VII –
+
+bolsa: apoio financeiro concedido mediante processo seletivo simplificado a pessoas ou grupos para o desenvolvimento de propostas, pesquisas, ações e iniciativas voltadas para os processos artísticos criativos e para a promoção da diversidade das expressões culturais;
+
+
+VIII –
+
+produto do projeto: o resultado do projeto, concretizado de acordo com o objetivo apresentado na proposta para a avaliação e aprovação;
+
+
+IX –
+
+contrapartida: é uma ação ou um conjunto de ações que o agente cultural proponente deve oferecer em troca do incentivo público/fomento que está recebendo por meio desta Lei;
+
+
+X –
+
+cultura digital: o conjunto de práticas, costumes e formas de interação social as quais são realizadas a partir dos recursos da tecnologia digital, como a internet e as TICs — tecnologias de informação e comunicação.
+
+
+#### CAPÍTULO II — DOS OBJETIVOS
+
+
+Art. 3º.
+
+O Programa Emergencial de Fomento ao Setor Cultural tem como objetivo:
+
+
+I –
+
+fomentar, valorizar e apoiar a difusão da expressão cultural dos diferentes indivíduos, grupos e comunidades das diversas regiões do Município de Claraval, principalmente nas emergências que afetem diretamente o funcionamento deste Setor;
+
+
+II –
+
+manter o desenvolvimento cultural em todo o Município, buscando a superação das desigualdades locais (territoriais e sociais);
+
+
+III –
+
+assegurar as condições de formação, produção, circulação da expressão cultural dos diferentes indivíduos, grupos e comunidades do município, ampliando o acesso à fruição e à produção de bens, serviços e conteúdos culturais a todos sem qualquer distinção;
+
+
+IV –
+
+desenvolver a economia criativa, o mercado criativo, a manutenção e geração de emprego, a ocupação e renda, estimulando as relações trabalhistas estáveis e a formalização profissional;
+
+
+V –
+
+valorizar o saber dos mestres de culturas tradicionais, os portadores de conhecimentos práticos, os pesquisadores, pensadores e estudiosos da cultura.
+
+
+#### CAPÍTULO III — DO ENQUADRAMENTO DOS BENEFICIÁRIOS
+
+
+Art. 4º.
+
+O Programa Emergencial de Fomento ao Setor Cultural atenderá, nos períodos de emergências e que afetem diretamente o funcionamento do Setor, as pessoas físicas e jurídicas com ou sem fins lucrativos, assim como os grupos, coletivos constituídos e consolidados e sem a formalização jurídica, por meio de dois mecanismos:
+
+
+I –
+
+subsídio mensal para manutenção das atividades e dos espaços de fruição, dos grupos e coletivos artísticos e culturais, microempresas e pequenas empresas culturais, cooperativas, instituições e organizações culturais comunitárias que tiveram as suas atividades interrompidas por força da emergência, concedidos a partir de propostas culturais a serem apresentadas via editais de credenciamento e/ou planos de trabalho; e
+
+
+II –
+
+editais, chamadas públicas, prêmios, bolsas, aquisição de bens e serviços vinculados ao setor cultural e outros instrumentos destinados à manutenção de agentes, de espaços de fruição, de iniciativas, de cursos, de produções, de desenvolvimento de atividades de economia criativa e de economia solidária, de produções audiovisuais, de manifestações culturais, bem como a realização de atividades artísticas e culturais que possam ser transmitidas pela internet ou disponibilizadas por meio de redes sociais e outras plataformas digitais.
+
+
+§ 1º
+
+O inciso I deste artigo não contempla pessoas físicas isoladamente e, quando concedido a grupos e coletivos artísticos e culturais, constituídos, consolidados e sem a formalização jurídica, deverão ser representados por um de seus membros, observando a necessidade de apresentação de carta de anuência de todos os integrantes, juntamente com o documento de Cadastro de Pessoa Física do representante - CPF.;
+
+
+§ 2º
+
+O inciso II deste artigo se destina às pessoas físicas e jurídicas e aos grupos e coletivos constituídos e sem a formalização jurídica.
+
+
+#### CAPÍTULO IV — DO ENQUADRAMENTO DAS PROPOSTAS CULTURAIS
+
+
+Art. 5º.
+
+As propostas culturais a serem apresentadas para o Inciso I e Inciso II do Artigo 4º a serem beneficiadas pela presente Lei, no âmbito do Município de Claraval/MG, deverão estar enquadrados nas seguintes áreas:
+
+
+I –
+
+artes cênicas, incluindo teatro, dança, circo, ópera e congêneres;
+
+
+II –
+
+audiovisual, incluindo cinema, vídeo, novas mídias, cultura digital e congêneres;
+
+
+III –
+
+artes visuais, incluindo artes plásticas, design artístico e de moda, fotografia e qualquer processo análogo ao da fotografia, artes gráficas, arte de rua e congêneres;
+
+
+IV –
+
+música;
+
+
+V –
+
+literatura, obras informativas, obras de referência, revistas, catálogos de arte e congêneres;
+
+
+VI –
+
+preservação e valorização do patrimônio material e imaterial, inclusive culturas tradicionais, populares, artesanato e cultura alimentar;
+
+
+VII –
+
+áreas culturais integradas.
+
+
+Parágrafo único
+
+As áreas listadas neste artigo não excluem outras expressões culturais não aludidas ou que venham a surgir e que estejam aptas a serem contempladas por esta Lei.
+
+
+#### CAPÍTULO V — DAS RESTRIÇÕES E VEDAÇÕES
+
+
+Art. 6º.
+
+Não poderá ser concedido o fomento a propostas culturais apresentadas para esta Lei:
+
+
+I –
+
+a pessoas físicas ou jurídicas que tenham obras, produtos, eventos ou outros decorrentes, destinados ou circunscritos a coleções particulares ou circuitos privados que estabeleçam limitações de acesso;
+
+
+II –
+
+aos beneficiários que sejam:
+
+
+a)
+
+os próprios contribuintes incentivadores, seus cônjuges e/ou parentes de primeiro grau ou empresas de que sejam sócios ou titulares;
+
+
+b)
+
+empresas incentivadoras, suas coligadas ou controladas, incluídas as filiais e representações existentes no Município de Claraval/MG;
+
+
+c)
+
+o contribuinte que tenha se aproveitado indevidamente dos benefícios previstos nesta Lei ou constantes de outras Leis Municipais concessivas de benefícios de qualquer natureza.
+
+
+#### CAPÍTULO VI — DA AVALIAÇÃO E APROVAÇÃO DE PROJETOS CULTURAIS
+
+
+Art. 7º.
+
+Fica o Poder Executivo autorizado a contratar equipe de pareceristas em quantidade e pelo tempo necessário ao cumprimento do fomento de projetos culturais desta Lei, conforme disposto nos Editais de Fomento a serem lançados, ou a compor uma Comissão de Avaliação de Projetos – CAP, composta paritariamente com 06 membros representantes do Poder Público e Sociedade Civil.
+
+
+§ 1º
+
+Caso opte pela Comissão de Avaliação de Projetos – CAP, seus membros deverão ser nomeados pelo Prefeito Municipal para um período de no máximo, 2 (dois) anos, permitida uma única recondução subsequente.
+
+
+§ 2º
+
+Os membros da Comissão de Avaliação de Projetos – CAP, se constituída, observarão a gratuidade dos serviços dos representantes do Poder Público e gratuidade ou remuneração para os representantes da Sociedade Civil, se assim estipular o Edital de Fomento em vigência, observando o preço de mercado para a atividade de parecerista técnico em avaliação de projetos.
+
+
+Art. 8º.
+
+Os critérios de avaliação e aprovação dos projetos culturais apresentados aos Editais de Fomento desta Lei serão determinados nos respectivos Editais.
+
+
+Art. 9º.
+
+O procedimento de avaliação dos projetos culturais apresentados nos Editais de Fomento será simplificado, visando a democratização do acesso aos beneficiários, garantindo celeridade na concessão do recurso principalmente nas situações emergenciais e que afetem diretamente o funcionamento deste Setor.
+
+
+§ 1º
+
+Considera-se procedimento simplificado, para fins deste artigo, aquele cujas fases tenham prazo de duração reduzido, iniciando-se com a fase de classificação e julgamento das propostas e, posteriormente, realizando-se a fase de habilitação, a ser disciplinada por regulamento próprio.
+
+
+§ 2º
+
+O Poder Executivo promoverá, para fim de avaliação dos projetos culturais fomentados por meio desta Lei, a utilização do regime jurídico simplificado.
+
+
+#### CAPÍTULO VII — DA PRESTAÇÃO DE CONTAS SIMPLIFICADA
+
+
+Art. 10.
+
+Visando a universalização do acesso cultural dos diferentes indivíduos, grupos e comunidades das diversas regiões do Município de Claraval/MG atingidas nas situações emergências e que afetem diretamente o funcionamento deste Setor, a presente Lei estabelece no âmbito do Município o procedimento simplificado de apresentação e prestação de contas para todos os projetos culturais fomentados por meio desta Lei.
+
+
+Parágrafo único
+
+A forma de prestação de contas simplificada deverá ser devidamente instruída nos chamamentos públicos, editais ou outros instrumentos lançados para seleção de propostas ou concessão de subsídios.
+
+
+#### CAPÍTULO VIII — DAS DISPOSIÇÕES GERAIS
+
+
+Art. 11.
+
+O desenvolvimento dos projetos culturais fomentados por esta Lei deverá ser realizado obrigatoriamente no Município de Claraval/MG e deverá usar, prioritariamente, recursos humanos, técnicos e materiais disponíveis no Município, exceto quando houver comprovada indisponibilidade e/ou muita diferença de precificação dos serviços em favor de outros prestadores de outras localidades.
+
+
+Art. 12.
+
+Na divulgação dos projetos culturais fomentados por esta Lei deverá constar obrigatoriamente a referência do Programa Emergencial de Fomento ao Setor Cultural e apoio da Prefeitura do Município de Claraval/MG, exceto em períodos eleitorais ou outros em que houver vedação legal.
+
+
+Art. 13.
+
+Os recursos a serem destinados por meio dos incisos II e III do Art. 4º desta Lei, quando ocorrerem, deverão ser aprovados pelo Poder Legislativo.
+
+
+Art. 14.
+
+O Programa Emergencial de Fomento ao Setor Cultural terá duração indeterminada, contando a partir da publicação da presente Lei.
+
+
+Art. 15.
+
+As despesas com a execução desta Lei correrão por conta das dotações orçamentárias próprias do orçamento vigente.
+
+
+Art. 16.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Claraval/MG, 26 de Outubro de 2020.
+
+Luiz Gonzaga Cintra
+
+Prefeito Municipal
+

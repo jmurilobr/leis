@@ -1,0 +1,60 @@
+---
+titulo: "DECRETO EXECUTIVO-PMEPF nº 798, de 14 de abril de 2026"
+tipo: "Decreto"
+tipo_na_fonte: "DECRETO EXECUTIVO"
+numero: "798"
+data: "2026-04-14"
+municipio: "Engenheiro Paulo de Frontin"
+uf: "RJ"
+codigo_ibge: "3301801"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.engenheiropaulodefrontin.rj.leg.br/norma/2566"
+fonte_texto: "https://sapl.engenheiropaulodefrontin.rj.leg.br/ta/2074/text"
+sha256_fonte: "b71d1efc01ac7a9da3e2265b7dc03dc303d46887bdaf05fa1ed0f7f4ee713ab4"
+sha256_texto: "8c56eebf6506d167a635aff596a387e7bd9f578e5b57e1e74459aec729c688be"
+capturado_em_fonte: "2026-10-28T10:29:52.604183-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+observacao_fonte: "Matéria publicada no Diário Oficial dos Municípios do Estado do Rio de Janeiro no dia 15/04/2026. Edição 4102 A verificação de autenticidade da matéria pode ser feita informando o código identificador no site: https://www.diariomunicipal.com.br/aemerj/"
+fonte_metadados: "https://sapl.engenheiropaulodefrontin.rj.leg.br/api/norma/normajuridica/2566/"
+sha256_metadados_fonte: "0b412d9cb701cb2743f81ad808958e551b7f38582ea32c0367c5f437fc90fac8"
+---
+
+# DECRETO EXECUTIVO-PMEPF nº 798, de 14 de abril de 2026
+
+CONSIDERANDO o Feriado Estadual no dia 23 de abril de 2026 em celebração ao Dia de São Jorge; CONSIDERANDO o disposto no Decreto Estadual nº 50.252, de 13 de abril de 2026, que considerou facultativo o ponto nas repartições públicas estaduais no dia 24 de abril de 2026; CONSIDERANDO a conveniência administrativa de harmonizar o funcionamento das repartições públicas municipais com o calendário adotado pelo Estado do Rio de Janeiro, sem prejuízo da continuidade dos serviços públicos essenciais; DECRETA:
+
+
+Art. 1º.
+
+Fica considerado facultativo o ponto nas repartições públicas municipais no dia 24 de abril de 2026 (sexta-feira).
+
+
+§ 1º
+
+O expediente será normal, entretanto, nas repartições cujas atividades não possam ser suspensas, em virtude de exigências técnicas ou por motivo de interesse público.
+
+
+§ 2º
+
+Caberá aos Secretários Municipais e demais autoridades da Administração Pública adotar as providências necessárias para assegurar a manutenção dos serviços essenciais e indispensáveis ao interesse público.
+
+
+Art. 2º.
+
+Este Decreto entra em vigor na data de sua publicação.
+
+
+Eng. Paulo de Frontin (RJ), 14 de abril de 2026.
+
+
+PUBLIQUE-SE, REGISTRE-SE E CUMPRA-SE.
+
+
+JOSÉ EMMANOEL RODRIGUES ARTEMENKO
+
+
+Prefeito Municipal
+

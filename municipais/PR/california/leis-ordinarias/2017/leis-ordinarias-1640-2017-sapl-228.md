@@ -1,0 +1,119 @@
+---
+titulo: "Lei Ordinária Municipal nº 1.640, de 02 de março de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "1640"
+data: "2017-03-02"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/228"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/383/text"
+sha256_fonte: "a5715b82f0d8b22935244b9e527bad538ccb7c9c037c7a659282ea604ee0c461"
+sha256_texto: "e8000483dad3ddb4e500b2ef39089bf69c5c0d66018a5c8fce1da449cbf4727f"
+capturado_em_fonte: "2026-10-27T22:34:32.979493-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 1.640, de 02 de março de 2017
+
+Autoriza o Poder Executivo Municipal a proceder à alienação de imóveis do Patrimônio Público Municipal.
+
+
+A CÂMARA DE VEREADORES DO MUNICÍPIO DE CALIFÓRNIA, ESTADO DO PARANÁ, APROVOU E EU, PREFEITO, SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a proceder Leilão destinado à alienação de imóveis do Patrimônio Público Municipal, com as seguintes características:
+
+\- Área Institucional com 481,52 m2, destacado do lote nº 8-A, situado no quadro urbano da Cidade, Distrito e Município de Califórnia, Comarca de Marilândia do Sul, com as seguintes divisas, confrontações e metragens: “Ao norte confronta-se com a Rua Felix Federovicz, mede-se 22,00 metros; ao Sul com o Lote 89-REM, mede-se 26,66 metros; ao Leste com o Lote Nº 89-REM (faixa de domínio da Estrada de Ferro Sul-America) mede-se 20,56 metros; a Oeste com o Lote 17 mede-se 20,00 metros, objeto da Matrícula Nº 17.837 do CRI - Marilândia do Sul-PR.
+
+\- Parte dos Lotes de Terras nºs 74 e 113, situado na Colonização Califórnia, no quadro urbano da Cidade, Distrito e Município de Califórnia, Comarca de Marilândia do Sul, objeto da Matrícula Nº 19.005 do CRI-Marilândia do Sul-PR.
+
+\- Lote nº 01 – Área Institucional, com 3.917,74 m2, situado no Loteamento no quadro urbano da Cidade, Distrito e Município de Califórnia, Comarca de Marilândia do Sul.
+
+\- Parte do Lote de Terras nº 21-A, situado na Colonização Nova Califórnia, Distrito e Município de Califórnia, Comarca de Marilândia do Sul, objeto da Matrícula Nº 7.633 do CRI-Marilândia do Sul-PR.
+
+\- Lote de Terras – Prolongamento da Rua João Batista Braga, Conjunto Habitacional Guiomar Rosária de Mattos, com área de 266,81 m2, no quadro urbano da Cidade, Distrito e Município de Califórnia, Comarca de Marilândia do Sul, objeto da Matrícula Nº 10.949 do CRI-Marilândia do Sul-PR.
+
+\- Lote de Terras – Área Preservada, com 1.361,66 m2, situado no Loteamento Residencial Porto Belo, subdivisão do lote nº 20-E-22-1, no quadro urbano da Cidade, Distrito e Município de Califórnia, Comarca de Marilândia do Sul.
+
+\- Lote de Terras – Área Institucional, situado no Loteamento Residencial San Marino, subdivisão do lote nº 30, Colonização Nova Califórnia, no quadro urbano da Cidade, Distrito e Município de Califórnia, Comarca de Marilândia do Sul, objeto da Matrícula Nº 16.883 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 03 da quadra nº 05, com área de 210,00 m2, situado no Loteamento denominado “Residencial Califórnia II”, no quadro urbano da Cidade e Município de Califórnia, nesta Comarca de Marilândia do Sul, PR, dentro das seguintes divisas, confrontações e metragens: “Frente: confronta com a Rua Projetada D, numa distancia de 10,00 metros, no AZ 93º01’42”; De um lado: confronta com a divisa lateral do lote Nº 4, com 21,00 metros; Fundos: confronta com parte da divisa lateral do lote nº 1, com 10,00 metros, no AZ 93º01’42”; De outro lado: confronta com a divisa lateral do lote nº 2, com 21,00 metros, no AZ 3º01’42”; objeto da Matrícula Nº 18.534 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 04 da quadra nº 05, com área de 209,24 m2, situado no Loteamento denominado “Residencial Califórnia II”, no quadro urbano da Cidade e Município de Califórnia, nesta Comarca de Marilândia do Sul, PR, dentro das seguintes divisas, confrontações e metragens: “Frente: confronta com a Rua Projetada D, numa distancia de 10,00 metros, no AZ 93º01’42”; De um lado: confronta com a divisa lateral do lote Nº 5, com 20,35 metros; Fundos: confronta com parte da divisa lateral do lote nº 1, com 7,42 metros, no AZ 93º01’42” e com parte da divisa lateral do lote nº 6, na distancia de 2,66 metros; De outro lado: confronta com a divisa lateral do lote nº 3, com 21,00 metros, no AZ 3º01’42”; objeto da Matrícula Nº 18.535 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 05 da quadra nº 05, com área de 240,,27 m2, situado no Loteamento denominado “Residencial Califórnia II”, no quadro urbano da Cidade e Município de Califórnia, nesta Comarca de Marilândia do Sul, PR, dentro das seguintes divisas, confrontações e metragens: “Frente: confronta com a Rua Projetada D, numa distancia de 10,70 metros, no AZ 93º01’42”; De um lado: confronta com a Rua Projetada H, numa distancia de 17,14 metros, no AZ 168º54’35”; Fundos: confronta com parte da divisa lateral do lote nº 6, com 15,34 metros; De outro lado: confronta com a divisa lateral do lote nº 4, com 20,35 metros, no AZ 3º01’42”; objeto da Matrícula Nº 18.536 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 06 da quadra nº 05, com área de 200,70 m2, situado no Loteamento denominado “Residencial Califórnia II”, no quadro urbano da Cidade e Município de Califórnia, nesta Comarca de Marilândia do Sul, PR, dentro das seguintes divisas, confrontações e metragens: “Frente: confronta com a Rua Projetada H, numa distancia de 11,15 metros, no AZ 168º54’35”; De um lado: confronta com a divisa lateral do lote Nº 7, com 18,00 metros; Fundos: confronta com parte da divisa lateral do lote nº 1, com uma distancia de 15,65 metros, no AZ 168º54’35”; De outro lado: confronta com a divisa dos fundos do lote nº 5 e com parte da divisa dos fundos do lote nº 4, numa distancia de 18,00 metros; objeto da Matrícula Nº 18.537 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 07 da quadra nº 05, com área de 200,70 m2, situado no Loteamento denominado “Residencial Califórnia II”, no quadro urbano da Cidade e Município de Califórnia, nesta Comarca de Marilândia do Sul, PR, dentro das seguintes divisas, confrontações e metragens: “Frente: confronta com a Rua Projetada H, numa distancia de 11,15 metros, no AZ 168º54’35”; De um lado: confronta com a divisa lateral do lote Nº 8, com 18,00 metros; Fundos: confronta com parte da divisa lateral do lote nº 9 e 1, com uma distancia de 11,15 metros, no AZ 168º54’35”; De outro lado: confronta com a divisa lateral do lote nº 6, numa distancia de 18,00 metros; objeto da Matrícula Nº 18.538 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 08 da quadra nº 05, com área de 240,30 m2, situado no Loteamento denominado “Residencial Califórnia II”, no quadro urbano da Cidade e Município de Califórnia, nesta Comarca de Marilândia do Sul, PR, dentro das seguintes divisas, confrontações e metragens: “Frente: confronta com a Rua Projetada H, numa distancia de 13,35 metros, no AZ 168º54’35”; De um lado: confronta com a Rua Projetada E, numa distancia de 18,00 metros, AZ 258º54’35”; Fundos: confronta com parte da divisa lateral do lote nº 9, com uma distancia de 13,35 metros, no AZ 168º54’35”; De outro lado: confronta com a divisa lateral do lote nº 7 numa distancia de 18,00 metros; objeto da Matrícula Nº 18.539 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 09 da quadra nº 05, com área de 200,00 m2, situado no Loteamento denominado “Residencial Califórnia II”, no quadro urbano da Cidade e Município de Califórnia, nesta Comarca de Marilândia do Sul, PR, dentro das seguintes divisas, confrontações e metragens: “Frente: confronta com a Rua Projetada E, numa distancia de 10,00 metros, no AZ 258º54’35”; De um lado: confronta com a divisa lateral do lote nº 10 numa distancia de 20,00 metros; Fundos: confronta com parte da divisa dos fundos do lote nº 1, com uma distancia de 10,00 metros, no AZ 258º54’35”; De outro lado: confronta com a divisa dos fundos do lote nº 8 e 7 numa distancia de 20,00 metros; objeto da Matrícula Nº 18.540 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 10 da quadra nº 05, com área de 200,00 m2, situado no Loteamento denominado “Residencial Califórnia II”, no quadro urbano da Cidade e Município de Califórnia, nesta Comarca de Marilândia do Sul, PR, dentro das seguintes divisas, confrontações e metragens: “Frente: confronta com a Rua Projetada E, numa distancia de 10,00 metros, no AZ 258º54’35”; De um lado: confronta com a divisa lateral do lote nº 11 numa distancia de 20,00 metros; Fundos: confronta com parte da divisa dos fundos do lote nº 1, com uma distancia de 10,00 metros, no AZ 258º54’35”; De outro lado: confronta com a divisa lateral do lote nº 9 numa distancia de 20,00 metros; objeto da Matrícula Nº 18.541 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 11 da quadra nº 05, com área de 200,00 m2, situado no Loteamento denominado “Residencial Califórnia II”, no quadro urbano da Cidade e Município de Califórnia, nesta Comarca de Marilândia do Sul, PR, dentro das seguintes divisas, confrontações e metragens: “Frente: confronta com a Rua Projetada E, numa distancia de 10,00 metros, no AZ 258º54’35”; De um lado: confronta com a divisa lateral do lote nº 12 numa distancia de 20,00 metros; Fundos: confronta com parte da divisa dos fundos do lote nº 1, com uma distancia de 10,00 metros, no AZ 258º54’35”; De outro lado: confronta com a divisa lateral do lote nº 10 numa distancia de 20,00 metros; objeto da Matrícula Nº 18.542 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 12 da quadra nº 05, com área de 200,00 m2, situado no Loteamento denominado “Residencial Califórnia II”, no quadro urbano da Cidade e Município de Califórnia, nesta Comarca de Marilândia do Sul, PR, dentro das seguintes divisas, confrontações e metragens: “Frente: confronta com a Rua Projetada E, numa distancia de 10,00 metros, no AZ 258º54’35”; De um lado: confronta com a divisa lateral do lote nº 13 numa distancia de 20,00 metros; Fundos: confronta com parte da divisa dos fundos do lote nº 1, com uma distancia de 10,00 metros, no AZ 258º54’35”; De outro lado: confronta com a divisa lateral do lote nº 11 numa distancia de 20,00 metros; objeto da Matrícula Nº 18.543 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 13 da quadra nº 05, com área de 200,00 m2, situado no Loteamento denominado “Residencial Califórnia II”, no quadro urbano da Cidade e Município de Califórnia, nesta Comarca de Marilândia do Sul, PR, dentro das seguintes divisas, confrontações e metragens: “Frente: confronta com a Rua Projetada E, numa distancia de 10,00 metros, no AZ 258º54’35”; De um lado: confronta com a divisa lateral do lote nº 14 numa distancia de 20,00 metros; Fundos: confronta com parte da divisa dos fundos do lote nº 1, com uma distancia de 10,00 metros, no AZ 258º54’35”; De outro lado: confronta com a divisa lateral do lote nº 12 numa distancia de 20,00 metros; objeto da Matrícula Nº 18.544 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 14 da quadra nº 05, com área de 200,00 m2, situado no Loteamento denominado “Residencial Califórnia II”, no quadro urbano da Cidade e Município de Califórnia, nesta Comarca de Marilândia do Sul, PR, dentro das seguintes divisas, confrontações e metragens: “Frente: confronta com a Rua Projetada E, numa distancia de 10,00 metros, no AZ 258º54’35”; De um lado: confronta com a divisa lateral do lote nº 15 numa distancia de 20,00 metros; Fundos: confronta com parte da divisa dos fundos do lote nº 1, com uma distancia de 10,00 metros, no AZ 258º54’35”; De outro lado: confronta com a divisa lateral do lote nº 13 numa distancia de 20,00 metros; objeto da Matrícula Nº 18.545 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 15 da quadra nº 05, com área de 241,00 m2, situado no Loteamento denominado “Residencial Califórnia II”, no quadro urbano da Cidade e Município de Califórnia, nesta Comarca de Marilândia do Sul, PR, dentro das seguintes divisas, confrontações e metragens: “Frente: confronta com a Rua Projetada E, numa distancia de 15,93 metros, no AZ 258º54’35”; De um lado: confronta com a Estrada Municipal, numa distancia de 21,47 metros, no AZ 10º07’01”; Fundos: confronta com parte da divisa dos fundos do lote nº 1, com uma distancia de 8,17 metros, no AZ 258º54’35”; De outro lado: confronta com a divisa lateral do lote nº 14 numa distancia de 20,00 metros; objeto da Matrícula Nº 18.546 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 01-A da quadra nº 02, com área de 164,60 m2, situado no Loteamento Projeto Califórnia X etapa, no quadro urbano da Cidade e Município de Califórnia, Comarca de Marilândia do Sul, PR, com as seguintes divisas, confrontações e metragens: “Frente para a Rua Joaquim F. Ramos (Proj. H), com 10,41 mts; Aos fundos com o lote 02, com 10,50 mts; de um lado com o lote 01 REM, com 15,98 mts e finalmente com o lote 17, com 16,00 mts; objeto da Matrícula Nº 14.776 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 01-REM da quadra nº 02, com área de 164,60 m2, situado no Loteamento Projeto Califórnia X etapa, no quadro urbano da Cidade e Município de Califórnia, Comarca de Marilândia do Sul, PR, com as seguintes divisas, confrontações e metragens: “Frente para a Rua Joaquim F. Ramos (Proj. H), com 10,42 mts; Aos fundos com o lote 02, com 10,53 mts; de um lado com o lote 01-A, com 15,98 mts e finalmente com a Rua Mario Guerra, com 15,97 mts; objeto da Matrícula Nº 14.777 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 11-A da quadra nº 02, (referente a área Institucional III), com área de 329,72 m2, situado no Loteamento Projeto Califórnia X etapa, no quadro urbano da Cidade e Município de Califórnia, Comarca de Marilândia do Sul, PR, com as seguintes divisas, confrontações e metragens: “Frente para a Av. José Cunha Neto, com 13,00 mts; Aos fundos com os lotes 10 e 12, com 13,00 mts; de um lado com o lote 11-B com 25,75 mts e finalmente com a Rua Joaquim F. Ramos, com 25,83 mts; objeto da Matrícula Nº 14.778 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 11-B da quadra nº 02, (referente a área Institucional III), com área de 262,81 m2, situado no Loteamento Projeto Califórnia X etapa, no quadro urbano da Cidade e Município de Califórnia, Comarca de Marilândia do Sul, PR, com as seguintes divisas, confrontações e metragens: “Frente para a Rua José Cunha Neto, com 10,38 mts; Aos fundos com os lotes 10 e 12, com 10,38 mts; de um lado com o lote 11-C com 25,71 mts e finalmente com o Lote 11-A, com 25,75 mts; objeto da Matrícula Nº 14.779 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 11-C da quadra nº 02, (referente a área Institucional III), com área de 262,,40 m2, situado no Loteamento Projeto Califórnia X etapa, no quadro urbano da Cidade e Município de Califórnia, Comarca de Marilândia do Sul, PR, com as seguintes divisas, confrontações e metragens: “Frente para a Rua José Cunha Neto, com 10,38 mts; Aos fundos com os lotes 10 e 12, com 10,38 mts; de um lado com o lote 11-Remanescente, com 25,67 mts e finalmente com o Lote 11-B, com 25,71 mts; objeto da Matrícula Nº 14.780 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 11-REM da quadra nº 02, (referente a área Institucional III), com área de 328,37 m2, situado no Loteamento Projeto Califórnia X etapa, no quadro urbano da Cidade e Município de Califórnia, Comarca de Marilândia do Sul, PR, com as seguintes divisas, confrontações e metragens: “Frente para a Rua José Cunha Neto, com 13,00 mts; Aos fundos com os lotes 10 e 12, com 13,00 mts; de um lado com o lote 11-C com 25,67 mts e finalmente com a Rua Angélica T. Fraga, com 25,62 mts; objeto da Matrícula Nº 14.781 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 03-A da quadra nº 03, (referente a área Institucional II), com área de 230,00 m2, situado no Loteamento Projeto Califórnia X etapa, no quadro urbano da Cidade e Município de Califórnia, Comarca de Marilândia do Sul, PR, com as seguintes divisas, confrontações e metragens: “Frente para a Av. Ver. Francisco L. Filho (Proj. C), com 11,06 mts; Aos fundos com o lote 02, com 10,93 mts; de um lado com o lote 03-REM, com 21,28 mts e finalmente com o lote 04, com 21,30 mts; objeto da Matrícula Nº 14.782 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 03-REM da quadra nº 03, (referente a área Institucional II), com área de 230,43 m2, situado no Loteamento Projeto Califórnia X etapa, no quadro urbano da Cidade e Município de Califórnia, Comarca de Marilândia do Sul, PR, com as seguintes divisas, confrontações e metragens: “Frente para a Rua Ver. Francisco L. Filho (Proj. C), com 11,06 mts; Aos fundos com o lote 02, com 10,93 mts; de um lado com o lote 03-A, com 21,28 mts e finalmente com a Rua Mario Guerra, com 21,26 mts; objeto da Matrícula Nº 14.783 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 11-A da quadra nº 03, (referente a área Institucional IV), com área de 326,59 m2, situado no Loteamento Projeto Califórnia X etapa, no quadro urbano da Cidade e Município de Califórnia, Comarca de Marilândia do Sul, PR, com as seguintes divisas, confrontações e metragens: “Frente para a Av. José Cunha Neto, com 13,00 mts; Aos fundos com os lotes 10 e 12, com 13,00 mts; de um lado com o lote 11-B, com 25,51 mts e finalmente com a Rua Angélica T. Fraga, com 25,57 mts; objeto da Matrícula Nº 14.784 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 11-B da quadra nº 03, (referente a área Institucional IV), com área de 260,26 m2, situado no Loteamento Projeto Califórnia X etapa, no quadro urbano da Cidade e Município de Califórnia, Comarca de Marilândia do Sul, PR, com as seguintes divisas, confrontações e metragens: “Frente para a Av. José Cunha Neto, com 10,38 mts; Aos fundos com os lotes 10 e 12, com 10,38 mts; de um lado com o lote 11-A, com 25,51 mts e finalmente com o lote 11-C, com 25,47 mts; objeto da Matrícula Nº 14.785 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 11-C da quadra nº 03, (referente a área Institucional IV), com área de 25,81 m2, situado no Loteamento Projeto Califórnia X etapa, no quadro urbano da Cidade e Município de Califórnia, Comarca de Marilândia do Sul, PR, com as seguintes divisas, confrontações e metragens: “Frente para a Av. José Cunha Neto, com 10,38 mts; Aos fundos com os lotes 10 e 12, com 10,38 mts; de um lado com o lote 11-B, com 25,47 mts e finalmente com o lote 11-REM, com 25,42 mts; objeto da Matrícula Nº 14.786 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 11-REM da quadra nº 03, (referente a área Institucional IV), com área de 325,06 m2, situado no Loteamento Projeto Califórnia X etapa, no quadro urbano da Cidade e Município de Califórnia, Comarca de Marilândia do Sul, PR, com as seguintes divisas, confrontações e metragens: “Frente para a Av. José Cunha Neto, com 13,00 mts; Aos fundos com os lotes 10 e 12, com 13,00 mts; de um lado com o lote 11-C, com 25,42 mts e finalmente com a Rua Vereador Francisco L. Filho com 25,37 mts; objeto da Matrícula Nº 14.787 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 11-A da quadra nº 04, (referente a área Institucional V), com área de 310,73 m2, situado no Loteamento Projeto Califórnia X etapa, no quadro urbano da Cidade e Município de Califórnia, Comarca de Marilândia do Sul, PR, com as seguintes divisas, confrontações e metragens: “Frente para a Av. José Cunha Neto, com 13,00 mts; Aos fundos com os lotes 10 e 12, com 13,00 mts; de um lado com a Rua Vereador Francisco L. Filho, com 25,32 mts e finalmente com o lote 11-B, com 25,27 mts; objeto da Matrícula Nº 14.788 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 11-B da quadra nº 04, (referente a área Institucional V), com área de 255,57 m2, situado no Loteamento Projeto Califórnia X etapa, no quadro urbano da Cidade e Município de Califórnia, Comarca de Marilândia do Sul, PR, com as seguintes divisas, confrontações e metragens: “Frente para a Av. José Cunha Neto, com 10,38 mts; Aos fundos com os lotes 10 e 12, com 10,38 mts; de um lado com o lote 11-A, com 25,27 mts e finalmente com o lote 11-C, com 25,22 mts; objeto da Matrícula Nº 14.789 do CRI-Marilândia do Sul-PR.
+
+\- Lote de terras sob nº 11-C da quadra nº 04, (referente a área Institucional V), com área de 255,60 m2, situado no Loteamento Projeto Califórnia X etapa, no quadro urbano da Cidade e Município de Califórnia, Comarca de Marilândia do Sul, PR, com as seguintes divisas, confrontações e metragens: “Frente para a Av. José Cunha Neto, com 10,38 mts; Aos fundos com os lotes 10 e 12, com 10,38 mts; de um lado com o lote 11-B, com 25,22 mts e finalmente com o lote 11-REM, com 25,18 mts; objeto da Matrícula Nº 14.790 do CRI-Marilândia do Sul-PR.
+
+\- Lotes de terras nº 11- REM, da quadra nº04 (referente a área institucional V), com área de 309,06m, situado no Loteamento Projeto Califórnia X Etapa, no quadro urbano da cidade e município de Califórnia, Comarca de Marilândia do Sul/PR, com as seguintes divisas, confrontações e metragens: “Frente para a Av. Jose Cunha Neto, com 13,00mts, aos fundos com os lotes 10 e 12, com 13,00mts, com o lote 11C, com 25,18mts, e finalmente com a Rua Ver. Adolfo Jorge Morais”; objeto da Matrícula Nº 14.791 do CRI-Marilândia do Sul-PR.
+
+\- Área de terras, subdivisão do Lote Nº 20-E-22-1, com área de 1.3361,66 m2, situado no Residencial Porto Belo, no quadro urbano da cidade e município de Califórnia, Comarca de Marilândia do Sul/PR.
+
+
+Art. 2º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Paço Municipal, ao 1º dia do mês de março de 2017.
+
+***PAULO WILSON MENDES***
+
+Prefeito
+

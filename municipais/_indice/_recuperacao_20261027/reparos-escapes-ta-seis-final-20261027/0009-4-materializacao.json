@@ -1,0 +1,73 @@
+{
+  "host": "sapl.barramansa.rj.leg.br",
+  "norma_id": 1427,
+  "ta_id": 3022,
+  "aprovado": true,
+  "path": "municipais/RJ/barra-mansa/leis-ordinarias/1990/leis-ordinarias-2325-1990-sapl-1427.md",
+  "sha256": "b87282b6383de05e9ef11da9b1ad84252a7221670e46a68aca989c0f11f1c60d",
+  "bytes": 3254,
+  "gates": {
+    "tabelas_nativas_prova": null,
+    "tipo_oficial": "Lei Ordinária",
+    "identidade_literal": {
+      "epigrafes": [
+        {
+          "tipo": "LEI ORDINARIA",
+          "numero": "2.325",
+          "numero_normalizado": "2325",
+          "trecho": "LEI ORDINARIA Nº 2.325, DE 24 DE SETEMBRO DE 1990",
+          "data_literal": "1990-09-24"
+        }
+      ],
+      "numero_metadado": "2325",
+      "numero_literal_confirmado": true,
+      "data_literal_confirmada": true,
+      "divergencias": [],
+      "limite": "Tipo completo aceito somente quando literal e igual ao cadastro oficial; todos os números e datas encontrados devem concordar. Divergências do parser anterior são preservadas. Jurisdição, fonte, anexos, contexto e vigência continuam sujeitos aos demais gates."
+    },
+    "categoria": "leis-ordinarias",
+    "tipo_canonico": "Lei ordinária",
+    "titulo_literal": "Lei Ordinária nº 2.325, de 24 de setembro de 1990",
+    "tokens_ativos": 314,
+    "dispositivos_ativos": 21,
+    "historicos_excluidos": 0,
+    "cortes_de_vigencia_declarados": [],
+    "anexos_proprios": 0,
+    "limite": "Corte declarado é atribuído ao portal. Ausência de corte não certifica atualização nem vigência integral."
+  },
+  "prova_ta": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/3d82637a5c33ff04e2ca6b73b1161dec2b9930577928d82e111a635e9c32b667.json",
+    "sha256": "cd8d9badaf9028a9578fedfeb8f832255174a6f8965ec7fd6ef8c4181747865d",
+    "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/3d82637a5c33ff04e2ca6b73b1161dec2b9930577928d82e111a635e9c32b667.meta.json",
+    "sha256_metadata": "a8fcb86f0890eb461461375824c7f7f31f14d08d9cf0cb2003d5e086b7fce897",
+    "url": "https://sapl.barramansa.rj.leg.br/api/compilacao/textoarticulado/?page_size=100&page=29"
+  },
+  "prova_casa": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/6717e25619227decda40c6b074cc70ca4fe85232d53eff287b21d033498f426d.json",
+    "sha256": "a3ded238476ebbfe315a4c408a258cca4b5016fd2b93393aa99961ec0087f866",
+    "metadata": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/6717e25619227decda40c6b074cc70ca4fe85232d53eff287b21d033498f426d.meta.json",
+    "sha256_metadata": "d57962a24f1018ca0ac80edf2ab00460a2d0b849cbf86cf661353923973f466c",
+    "url": "https://sapl.barramansa.rj.leg.br/api/base/casalegislativa/"
+  },
+  "prova_norma": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/f813b608fdd2cc88bcf483a7bab613dc92570c43848e18d0d6a91c40de13b529.json",
+    "url": "https://sapl.barramansa.rj.leg.br/api/norma/normajuridica/1427/",
+    "url_final": "https://sapl.barramansa.rj.leg.br/api/norma/normajuridica/1427/",
+    "status": 200,
+    "content_type": "application/json",
+    "sha256": "5d0c8e0e9c7d25ad990d74ab9242a9a56fdf126cd70b32118579ff5811384385",
+    "bytes": 843,
+    "capturado_em": "2026-10-27T18:51:57.917373-03:00"
+  },
+  "prova_frontend": {
+    "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.barramansa.rj.leg.br/4585308afc9b8d14cddb9d0003bff5ac65ccffc6ecf5a72a49fbb9336671894f.html",
+    "url": "https://sapl.barramansa.rj.leg.br/norma/1427",
+    "url_final": "https://sapl.barramansa.rj.leg.br/ta/3022/text",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "sha256": "00f34c935ef2c63fb5d283ce262cf424bc896a6615e060ec0cbd1a567ce716ff",
+    "bytes": 24169,
+    "capturado_em": "2026-10-27T18:51:59.587739-03:00"
+  },
+  "transcricao": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.barramansa.rj.leg.br/candidatos/1427-3022.txt"
+}

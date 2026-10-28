@@ -1,0 +1,174 @@
+---
+titulo: "Lei Ordinária-CMCN nº 4.036, de 28 de outubro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4036"
+data: "2025-10-28"
+municipio: "Currais Novos"
+uf: "RN"
+codigo_ibge: "2403103"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.curraisnovos.rn.leg.br/norma/4106"
+fonte_texto: "https://sapl.curraisnovos.rn.leg.br/ta/27/text"
+sha256_fonte: "d89206cfc69c64f52eba56e06e4fdf5b0f8a67a0b1bd62d0293724cba4e18477"
+sha256_texto: "c0238fd0b93b966a15515e6bbcd36351b9091932f20dc075b33c42ee6f51e5af"
+capturado_em_fonte: "2026-10-28T09:42:53.187660-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária-CMCN nº 4.036, de 28 de outubro de 2025
+
+Institui, no âmbito do município de Currais Novos, o Dia Municipal das Altas Habilidades/Superdotação, estabelece diretrizes para sua celebração, promoção de ações de valorização, e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE CURRAIS NOVOS, ESTADO DO RIO GRANDE DO NORTE, no uso de suas atribuições legais, faz saber que a Câmara Municipal de Currais Novos aprovou o Projeto de Lei nº 039/2025, de autoria do vereador Jaire de Freitas Araújo, e eu sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica instituído, no âmbito do Município de Currais Novos, o Dia Municipal da Altas Habilidades/Superdotação, a ser celebrado anualmente no dia 10 de agosto, com o objetivo de promover a valorização, a inclusão e o desenvolvimento das pessoas com Altas Habilidades/Superdotação, bem como de fomentar a conscientização da sociedade acerca do tema.
+
+
+Art. 2º.
+
+Esta Lei observa os princípios e diretrizes estabelecidos em:
+
+
+I –
+
+Constituição Federal, especialmente nos artigos 205 e 208, que tratam do direito à educação e da garantia de atendimento educacional especializado;
+
+
+II –
+
+Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/1996), notadamente em seus artigos 58 e 59, que reconhecem o atendimento educacional especializado para alunos com Altas Habilidades/Superdotação;
+
+
+III –
+
+Plano Nacional de Educação (Lei nº 13.005/2014), que estabelece diretrizes e metas para a inclusão educacional desse público;
+
+
+IV –
+
+Diretrizes e normativas do Ministério da Educação (MEC), que regulamentam a política nacional de educação inclusiva.
+
+
+Art. 3º.
+
+Para os fins desta Lei, consideram-se pessoas com Altas Habilidades/Superdotação aquelas que demonstram desempenho ou potencial elevado, envolvimento com a tarefa e criatividade, em uma ou mais áreas, tais como:
+
+
+I –
+
+Capacidade intelectual geral – que, segundo Wechsler (1958), é a "capacidade global do indivíduo de agir propositalmente, de pensar racionalmente e de lidar eficazmente com o seu ambiente";
+
+
+II –
+
+Aptidão acadêmica específica – que é a capacidade de um indivíduo para se destacar em atividades acadêmicas, demonstrando habilidades como atenção, concentração, rapidez de aprendizagem e boa memória, além de gosto e motivação pelas disciplinas que despertam o seu interesse;
+
+
+III –
+
+Pensamento criativo e produção inovadora – como ações distintas, mas interligadas. O pensamento criativo é a capacidade de gerar ideias originais, enquanto a inovação é a aplicação dessas ideias para criar algo novo ou aprimorado, como produtos, serviços ou processos;
+
+
+IV –
+
+Liderança – como sendo a capacidade de influenciar, motivar e orientar um grupo de pessoas em direção a um objetivo comum;
+
+
+V –
+
+Talento especial nas artes – caracterizado por uma habilidade notável e acima da média em áreas como artes visuais, música, teatro, dança, literatura ou outras formas de expressão artística;
+
+
+VI –
+
+Habilidade psicomotora – que se apresenta através da capacidade de realizar movimentos e ações de forma coordenada, precisa e eficiente, combinando aspectos cognitivos, emocionais e físicos;
+
+
+Parágrafo único
+
+O termo “Altas Habilidades” enfatiza o desenvolvimento de capacidades por meio de processos educativos, enquanto “Superdotação” refere-se, predominantemente, à manifestação de potencialidades de ordem inata, sendo ambos reconhecidos na legislação educacional vigente.
+
+
+Art. 4º.
+
+São objetivos desta Lei:
+
+
+I –
+
+Valorizar e promover o desenvolvimento integral das pessoas com Altas Habilidades/Superdotação no Município;
+
+
+II –
+
+Promover a conscientização da sociedade sobre a importância da identificação, do acompanhamento e do respeito à diversidade de talentos e potencialidades;
+
+
+III –
+
+Estimular o debate e o fortalecimento das políticas públicas voltadas à educação inclusiva e ao desenvolvimento de altas habilidades;
+
+
+IV –
+
+Incentivar e fomentar ações educativas, culturais, formativas e de sensibilização, como palestras, oficinas, seminários, rodas de conversa, campanhas e eventos intersetoriais;
+
+
+V –
+
+Reconhecer a pluralidade de talentos existentes na comunidade, criando ambientes favoráveis à manifestação e desenvolvimento dessas habilidades;
+
+
+VI –
+
+Estimular, em colaboração com a Secretaria Municipal de Educação, a criação e o fortalecimento de núcleos de atendimento, acompanhamento e desenvolvimento das pessoas com Altas Habilidades/Superdotação, no âmbito da rede municipal de ensino.
+
+
+Art. 5º.
+
+O Poder Executivo Municipal, em parceria com a Secretaria Municipal de Educação e com a sociedade civil, poderá promover, apoiar e fomentar as ações alusivas ao Dia Municipal da Altas Habilidades/Superdotação, bem como desenvolver, de forma contínua, as seguintes iniciativas:
+
+
+I –
+
+Realização de campanhas educativas permanentes para sensibilização da comunidade escolar, famílias e sociedade civil;
+
+
+II –
+
+Capacitação de profissionais da educação para identificação, atendimento e acompanhamento de pessoas com Altas Habilidades/Superdotação;
+
+
+III –
+
+Estabelecimento de parcerias com instituições de ensino, universidades, centros de pesquisa, organizações da sociedade civil, entidades culturais e científicas;
+
+
+IV –
+
+Criação de espaços de apoio, acompanhamento e estímulo às pessoas com Altas Habilidades/Superdotação, especialmente no ambiente escolar;
+
+
+V –
+
+Articulação com programas, projetos e ações desenvolvidos em âmbito estadual e federal, promovendo a integração de políticas públicas.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Currais Novos/RN, Palácio Prefeito “Raul Macêdo”, em 28 de outubro de 2025.
+
+**LUCAS GALVÃO DA CRUZ**  
+Prefeito Municipal
+

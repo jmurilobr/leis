@@ -1,0 +1,39 @@
+from pathlib import Path
+import json,gzip,hashlib,subprocess,os,sys
+sha=lambda b:hashlib.sha256(b).hexdigest();base=Path('federal/_fonte/auditorias/recuperacao_anexos_camara_20261027_001');h={}
+for mp in [base/'recuperacoes3-consolidado-hashes.json',base/'entrega24107-facs-v2-hashes.json']:
+ d=json.loads(mp.read_bytes());rows=d['arquivos'] if 'arquivos' in d else [{'path':p,'sha256':s} for p,s in d.items()]
+ for r in rows:
+  p,s=r['path'],r['sha256'];assert sha(Path(p).read_bytes())==s,p;assert p not in h or h[p]==s;h[p]=s
+ h[str(mp)]=sha(mp.read_bytes())
+rows=json.loads((base/'mapa_recuperacoes3.json').read_bytes())['substituicoes'];assert len(rows)==3
+r=rows[0];assert r['numero']=='24107';r['candidato']=str(base/'dec-24107-1947-11-25-clbr_facs_v2.md');r['sha256_candidato']='10614492b99d875460efa6074e76ddfb3d101ca871eb63645b0c4d272a64dc76'
+assets=[]
+for r in rows:
+ src=r['fonte_clbr'];p=Path(src['path']);assert p.stat().st_size==src['bytes']<95*1024**2;assert sha(p.read_bytes())==src['sha256'];h[str(p)]=src['sha256']
+ im=r['imagem'];assets.append((im['candidato'],im['destino_proposto'],im['sha256']))
+assets.append((str(base/'dec24107-principal-facs-v2.png'),'federal/anexos/decretos/1947/dec-24107-1947-11-25-principal.png','8e40eac5aa312b215ae268ac6b5eed4392b2520c7a53d972f969592de661056c'))
+head=subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip();registry=Path('scripts/dados/pendencias-integralidade-publicadas.json');oldreg=registry.read_bytes();assert subprocess.check_output(['git','show',head+':'+str(registry)])==oldreg;reg=json.loads(oldreg);assert len(reg['pendentes'])==7608;paths={r['path'] for r in rows};removed=[r for r in reg['pendentes'] if r['path'] in paths];assert len(removed)==3
+for r in rows:
+ path=r['path'];old=Path(path).read_bytes();assert sha(old)==r['sha256_preimagem_HEAD'];assert subprocess.check_output(['git','cat-file','blob',r['OID_HEAD']])==old;assert subprocess.check_output(['git','show',head+':'+path])==old
+ final=Path(r['candidato']).read_bytes();assert sha(final)==r['sha256_candidato'];assert next(x for x in removed if x['path']==path)['sha256_md']==sha(old)
+ for link in __import__('re').findall(r'!\[[^\]]*\]\(([^)]+)\)',final.decode()):
+  dest=str((Path(path).parent/link).resolve().relative_to(Path.cwd()));assert dest in {a[1] for a in assets},dest
+for source,target,s in assets:
+ assert sha(Path(source).read_bytes())==s and not Path(target).exists();q=subprocess.check_output(['git','cat-file','--batch-check'],input=('HEAD:'+target+'\n').encode());assert q.endswith(b' missing\n')
+print('Três fontes CLBR completas, preimagens HEAD e quatro imagens conferidas. Registro 7608 -> 7605, zero normas novas.',flush=True)
+if '--apply' not in sys.argv:raise SystemExit(0)
+assert subprocess.check_output(['git','rev-parse','HEAD'],text=True).strip()==head
+backup=Path('federal/_historico_recuperacao_clbr_root_20261027');assert not backup.exists();backup.mkdir()
+for r in rows:
+ p=backup/(Path(r['path']).name+'.gz');p.write_bytes(gzip.compress(Path(r['path']).read_bytes(),mtime=0));assert sha(gzip.decompress(p.read_bytes()))==r['sha256_preimagem_HEAD'];h[str(p)]=sha(p.read_bytes())
+p=backup/'pendencias7608.json.gz';p.write_bytes(gzip.compress(oldreg,mtime=0));assert gzip.decompress(p.read_bytes())==oldreg;h[str(p)]=sha(p.read_bytes())
+def atomic(path,data):
+ path=Path(path);path.parent.mkdir(parents=True,exist_ok=True);temp=path.with_name('.'+path.name+'.clbr-root.tmp');assert not temp.exists()
+ with temp.open('xb') as f:f.write(data);f.flush();os.fsync(f.fileno())
+ os.replace(temp,path);assert path.read_bytes()==data
+for source,target,s in assets:atomic(target,Path(source).read_bytes());h[target]=s
+for r in rows:
+ assert sha(Path(r['path']).read_bytes())==r['sha256_preimagem_HEAD'];atomic(r['path'],Path(r['candidato']).read_bytes());h[r['path']]=r['sha256_candidato']
+reg['pendentes']=[r for r in reg['pendentes'] if r['path'] not in paths];assert len(reg['pendentes'])==7605;assert registry.read_bytes()==oldreg;atomic(registry,(json.dumps(reg,ensure_ascii=False,indent=2)+'\n').encode());h[str(registry)]=sha(registry.read_bytes())
+p=Path('scripts/dados/clbr3-recuperacao-root-20261027.json');assert not p.exists();p.write_text(json.dumps({'HEAD':head,'recuperacoes':3,'normas_novas':0,'pendencias_antes':7608,'pendencias_depois':7605,'removidas':removed,'destinos':rows,'criterio':'ROOT leu visualmente todas as páginas dos principais e tabelas da mesma edição CLBR. 24.107 usa principal e tabela em fac-símile, sem escolher forma/norma por inferência. 23.913 principal conferido contra a página 98 e tabela integral na 99. 24.136 conserva epígrafe 28/11 e fecho 23/11, sem atribuir causa; assinatura Sylvio de Noronha confirmada em recorte ampliado. Tabelas e metadados anteriores preservados, fonte anual oficial completa arquivada. Somente as três pendências documentalmente resolvidas são removidas; demais permanecem intactas.','sha256':h},ensure_ascii=False,indent=2)+'\n');h[str(p)]=sha(p.read_bytes());Path('_fonte/operacao_root_20261027/clbr3-hashes.json').write_text(json.dumps(h,ensure_ascii=False,indent=2)+'\n');print('Três recuperações aplicadas com backups completos',flush=True)

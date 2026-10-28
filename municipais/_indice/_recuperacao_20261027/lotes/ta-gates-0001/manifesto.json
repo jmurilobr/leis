@@ -1,0 +1,275 @@
+{
+  "criterio": "Gates somente leitura para lotes de textos articulados SAPL públicos.\nVersão 4: admite somente tabelas nativas com prova independente de células, ordem e mesclagens. Mantém todos os demais gates. Também confere o rótulo completo literal da norma quando o portal acrescenta um sufixo institucional. Número e data devem concordar tanto no rótulo oficial quanto no h1, e divergências anteriores são preservadas.\n\nCongela um prefixo dos diários de coleta e verifica fonte, identidade literal,\nversão selecionada, dispositivos, anexos, mídias e notas. Não publica normas.\n",
+  "candidatos": 1000,
+  "aprovados_nestes_gates": 634,
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.agudo.rs.leg.br.prefixo.jsonl",
+      "sha256": "70f2dee408c85a3711b2c005116ab31c5af518345f60af97b8da9825f6f4cb14",
+      "bytes": 291780
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.agudo.rs.leg.br.tipos.json",
+      "url": "https://sapl.agudo.rs.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "b057e0780b8e70fb396b5b733022f17c7a2a434f848534ea30a256ec8653882d"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.agudo.rs.leg.br.anexos.json",
+      "sha256": "0bb5a98fd2ba2cec0c0675f55f0d9bc26f1fd2b89e7dc9bb616f83cb6004aa7d"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.amontada.ce.leg.br.prefixo.jsonl",
+      "sha256": "ce7243da25bd471f85c4e838ee068dc009751cfee0a29ec952053f46cd0117a2",
+      "bytes": 294110
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.amontada.ce.leg.br.tipos.json",
+      "url": "https://sapl.amontada.ce.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "4769e996a4cfdc2946b5c0f02b3621e95e8cbdf9a0a0c35c77252a3a8cd05490"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.amontada.ce.leg.br.anexos.json",
+      "sha256": "e33c36b1aae5e0af16e6623654340c826323bf3bc0266b476b7e48e51366bcee"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.anapolis.go.leg.br.prefixo.jsonl",
+      "sha256": "5ce4bef757dbc7425c44eb90ee6dde8186c27426b163b424980180e79b79a8ff",
+      "bytes": 9580
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.anapolis.go.leg.br.tipos.json",
+      "url": "https://sapl.anapolis.go.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "b3152ada0373736442e9d4d909d0ab057fc8d9029be3f5697bcdf36ff11155ae"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.anapolis.go.leg.br.anexos.json",
+      "sha256": "d5dd9c633577a05132352ad4c3c26a60a892b9b8172cce5a1e6a0fc71a61cec8"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.andradas.mg.leg.br.prefixo.jsonl",
+      "sha256": "7bd6806730ca0a0d6022571907002385bc92c5d397b195f58a0b36a91d5e3d80",
+      "bytes": 93213
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.andradas.mg.leg.br.tipos.json",
+      "url": "https://sapl.andradas.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "a9d350d1cb306edbddacd7fe5ed330c8f85c6792763e1059b5b12ec6707c0325"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.andradas.mg.leg.br.anexos.json",
+      "sha256": "92a7fa26f57b192f33abaf049ea287a0dfe4f768fef3f9794ed9315891f8f45e"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.angulo.pr.leg.br.prefixo.jsonl",
+      "sha256": "9bc7b6590f896286ec309eef3d48e8909559a3013ef8750756b0695951ad420e",
+      "bytes": 314390
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.angulo.pr.leg.br.tipos.json",
+      "url": "https://sapl.angulo.pr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "73e2ef680412cd6ec1ace41b73d08a629ea7182a54ac4497ef5ac294ae1b3096"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.angulo.pr.leg.br.anexos.json",
+      "sha256": "94cb2af3eacf41af7e6e6aa8e4045d256970182a4ec2495d52c5074ec5a957d2"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.antas.ba.leg.br.prefixo.jsonl",
+      "sha256": "b73a4fb41922cfe255bc3a78e33507fb9ad441f4828f5019cb4c3d29bca6e575",
+      "bytes": 71346
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.antas.ba.leg.br.tipos.json",
+      "url": "https://sapl.antas.ba.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "fc810a4e9c6d2855127b97baaa4825a3cd99a85db75a946e036f2a13637db967"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.antas.ba.leg.br.anexos.json",
+      "sha256": "8bc3e8b179f0b6b63d363cdfdc4da8ae5053daf19fe6e87675d6579b61a14cf1"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.antonioalmeida.pi.leg.br.prefixo.jsonl",
+      "sha256": "88f0d141273ed4c2072d8810d0f509b4b6f2b05e1537589782fb68a29a785f22",
+      "bytes": 56926
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.antonioalmeida.pi.leg.br.tipos.json",
+      "url": "https://sapl.antonioalmeida.pi.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "a5e1fc8750d63d7a230978c44adc2cfe47f6e90bc087b22fb75819c45e998116"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.antonioalmeida.pi.leg.br.anexos.json",
+      "sha256": "694cef59d174e9e944d05574e592223b704b43f67889708c990512451a4e75c6"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.apucarana.pr.leg.br.prefixo.jsonl",
+      "sha256": "222915e41ac09b4938af2e47d0b77287dc287529523459353027600a4b2aa6b8",
+      "bytes": 210040
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.apucarana.pr.leg.br.tipos.json",
+      "url": "https://sapl.apucarana.pr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "61fc917994a634adab2e4fff7dfc811311fddb27f54823e162894d0531f4f867"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.apucarana.pr.leg.br.anexos.json",
+      "sha256": "ed47390a5ed8b7f379886dd3a7a7d0a71be62c62f2fd4dda6208b79960fce47e"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.aquiraz.ce.leg.br.prefixo.jsonl",
+      "sha256": "9a5d721c3dc44a78cb96988042df2bbdd375883108108e9742669bb691b600c3",
+      "bytes": 130903
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.aquiraz.ce.leg.br.tipos.json",
+      "url": "https://sapl.aquiraz.ce.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "0cf9412b6cfa24d11c08ac6e13559f9569124585501214479e3bbdc563056153"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.aquiraz.ce.leg.br.anexos.json",
+      "sha256": "0c20d730ff80aaef34d12aedc2f56637f27e6eafcbd4a429eb6480a17522953d"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.aracati.ce.leg.br.prefixo.jsonl",
+      "sha256": "f5e1aa4e1eb73bcc308328f1f4be4078a82efb1b95d2046b2c3c6979629c2219",
+      "bytes": 88651
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.aracati.ce.leg.br.tipos.json",
+      "url": "https://sapl.aracati.ce.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "d464cd9977af0ca9fa309a8f015621fd4b0f3d091c6df1fe7d577a254918af72"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.aracati.ce.leg.br.anexos.json",
+      "sha256": "d72abea55c72ae999941f4b6a1e9fb67ed4fe04c52e2124019e7b6120a73605f"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.araci.ba.leg.br.prefixo.jsonl",
+      "sha256": "7b348f59e298112bac00267eae2b092c2c3c35708aec603d6c08e14f8fd103fb",
+      "bytes": 317594
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.araci.ba.leg.br.tipos.json",
+      "url": "https://sapl.araci.ba.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "cdd3cd5b65e5e2e052c2c16bfaf2739e2a257548738e99ee299d2e51977a3c84"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.araci.ba.leg.br.anexos.json",
+      "sha256": "af20c278bb0ca52597f40449437fa66a332c590f7206c3088f075c5bb67ab9fc"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.araguari.mg.leg.br.prefixo.jsonl",
+      "sha256": "b09ac9164a37d15df3ba95a2431cd92d3d912fa7840d801fb985a7a8daebc9fb",
+      "bytes": 152828
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.araguari.mg.leg.br.tipos.json",
+      "url": "https://sapl.araguari.mg.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "8610edfd7276bc4f69d03507cffe9c1e0e2289cbcc0ffadc3ef0414902bfbebb"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.araguari.mg.leg.br.anexos.json",
+      "sha256": "0a4f5242e59a5aa27294464edec91d0110368e94dcff643f111bc092fe7fa1ae"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.arapongas.pr.leg.br.prefixo.jsonl",
+      "sha256": "a966c2d73a2c458212e195bef6c0fbb5afea4090ec1045700db0d3874e14d648",
+      "bytes": 68378
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.arapongas.pr.leg.br.tipos.json",
+      "url": "https://sapl.arapongas.pr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "73c7dee6ae17a539b8b61197cedf26d7c57606bd27f725d55f63d444b83295bc"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.arapongas.pr.leg.br.anexos.json",
+      "sha256": "5e0327ae930cba90b04807b4679f0145357b6d3ed7016a01cdbd6e3f58a3fdeb"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.araripina.pe.leg.br.prefixo.jsonl",
+      "sha256": "4ec1b09696a821e744abb39551b733e2408718d5095c26c3ba4ef6c87988d721",
+      "bytes": 134974
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.araripina.pe.leg.br.tipos.json",
+      "url": "https://sapl.araripina.pe.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "3ff37963f15f77d0c5c8b5007f4a490b50b21e2e2b1783e61139a19a2f44177d"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.araripina.pe.leg.br.anexos.json",
+      "sha256": "9692ab840a1d6cbaaa5ecddcd7d877d9719f00090842a7d6c5b22db29c52de7d"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.araruna.pr.leg.br.prefixo.jsonl",
+      "sha256": "4ad330d40eb91fea284ea2c5854ac64b17686b40b85894763432c38ae7467239",
+      "bytes": 6800
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.araruna.pr.leg.br.tipos.json",
+      "url": "https://sapl.araruna.pr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "fb10f7039111d429601e47f0181411681e367cc65747ef111d3087c4f1c59883"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.araruna.pr.leg.br.anexos.json",
+      "sha256": "19a7d1b820b380351bb7da99ba0fc0d8312fedce94a362583b2d14ce41eab201"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.araucaria.pr.leg.br.prefixo.jsonl",
+      "sha256": "06f98c08194d5494dca43e9b38b567d6af99c835561812b32a06dc9f87725ac4",
+      "bytes": 315199
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.araucaria.pr.leg.br.tipos.json",
+      "url": "https://sapl.araucaria.pr.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "0d7fafefecfd2e2614ab0467a245408a49ebb15033aeda4ddee0b53688f1b9de"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.araucaria.pr.leg.br.anexos.json",
+      "sha256": "596cb9a6feb890f48775a7c1e0de1fe2ed93068c971ecfe193eff4acdaa88f6d"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.areias.sp.leg.br.prefixo.jsonl",
+      "sha256": "853f71a9b26f48b4fa2ef9b0881530f8fb044d7bf63091a2ac46bdc20ab14f62",
+      "bytes": 103411
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.areias.sp.leg.br.tipos.json",
+      "url": "https://sapl.areias.sp.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "f3cdb50cc4109999f0e25caae37f96d06ddd1bb85bf9922911a99c912ee7ed87"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.areias.sp.leg.br.anexos.json",
+      "sha256": "b9065f8e4c3c4bd03dfdf290cdfbfdc92a5322d2393e778818dc8b77fb2af997"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.arturnogueira.sp.leg.br.prefixo.jsonl",
+      "sha256": "ae3cf526bf693ed9478fc1db0028cdb119cfb005831fd45634cba415a0cf0e76",
+      "bytes": 237238
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.arturnogueira.sp.leg.br.tipos.json",
+      "url": "https://sapl.arturnogueira.sp.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "8dea0a5c8693d3703c22ccafe678651df7685c8a3b33b9e35703c804fe0ec64f"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.arturnogueira.sp.leg.br.anexos.json",
+      "sha256": "7fb8f6a2e3b97c41298397e99333e77c3941ac5efbd6fe78ca99e48e514d6946"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.portovelho.ro.leg.br.prefixo.jsonl",
+      "sha256": "2a364433f5de8831119eff6259326f7324d1ce6185bdd3c367fa3923cff08fe4",
+      "bytes": 317403
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.portovelho.ro.leg.br.tipos.json",
+      "url": "https://sapl.portovelho.ro.leg.br/api/norma/tiponormajuridica/?page_size=100&page=1",
+      "sha256": "d805dad9f0a5409f538b93c34b0e6ac8cef59bbbfcf7f2584f6ff348d7119eda"
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/sapl.portovelho.ro.leg.br.anexos.json",
+      "sha256": "b5c1a05dee20c699cc22665af9744c1d4a3cc61dcaa439c2d6310054218149a6"
+    }
+  ],
+  "script_sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+  "limite": "Não materializa normas; ainda exige prova da API do TA original, colisões e seleção final."
+}

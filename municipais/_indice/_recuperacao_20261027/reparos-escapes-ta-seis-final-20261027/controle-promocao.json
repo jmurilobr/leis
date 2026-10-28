@@ -1,0 +1,56 @@
+{
+  "candidatos": [
+    {
+      "path": "municipais/SP/bofete/leis-ordinarias/2025/leis-ordinarias-2394-2025-sapl-2364.md",
+      "sha256_preimagem": "b421e31968c0e12f48d69ed9c24b5ec9d4a3c8be39afba5b36e3d68f15dc7241",
+      "sha256_candidato": "8cd4ca972d042bdf486ef72dbdc2708bb9b805a08fce2651a1dd15f96c24ab10",
+      "chaves_identidade_inalteradas": true,
+      "metadados_inalterados_exceto_sha256_texto": true,
+      "selecionado": "municipais/_indice/_recuperacao_20261027/reparos-escapes-ta-seis-final-20261027/0008-1-materializacao.json"
+    },
+    {
+      "path": "municipais/SP/bofete/leis-ordinarias/1999/leis-ordinarias-1630-1999-sapl-2390.md",
+      "sha256_preimagem": "df4b88dace37544a02d352b29000435ab93c82e7ab2dde8563559c30234a1c0f",
+      "sha256_candidato": "198f8b83940eab5b69bf018fe1607ecf0c299f90838417fd305b067ec29a46a2",
+      "chaves_identidade_inalteradas": true,
+      "metadados_inalterados_exceto_sha256_texto": true,
+      "selecionado": "municipais/_indice/_recuperacao_20261027/reparos-escapes-ta-seis-final-20261027/0008-2-materializacao.json"
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/1995/leis-ordinarias-2808-1995-sapl-4088.md",
+      "sha256_preimagem": "d9ffe6c651a28a2941cf463abef2bdc8213e0c09b38c2237cebf561bee8b9c1c",
+      "sha256_candidato": "5b1f0f22090a3416ab9d4719610483375b1ba530d36b1ed8127f664c3b40881c",
+      "chaves_identidade_inalteradas": true,
+      "metadados_inalterados_exceto_sha256_texto": true,
+      "selecionado": "municipais/_indice/_recuperacao_20261027/reparos-escapes-ta-seis-final-20261027/0008-3-materializacao.json"
+    },
+    {
+      "path": "municipais/RJ/barra-mansa/leis-ordinarias/1990/leis-ordinarias-2325-1990-sapl-1427.md",
+      "sha256_preimagem": "b87282b6383de05e9ef11da9b1ad84252a7221670e46a68aca989c0f11f1c60d",
+      "sha256_candidato": "43f2c54892e837803762da4d7e16e6c31dd6f9a11666236197920d77eff7343b",
+      "chaves_identidade_inalteradas": true,
+      "metadados_inalterados_exceto_sha256_texto": true,
+      "selecionado": "municipais/_indice/_recuperacao_20261027/reparos-escapes-ta-seis-final-20261027/0009-4-materializacao.json"
+    },
+    {
+      "path": "municipais/MG/buritis/resolucoes/2015/resolucoes-298-2015-sapl-1790.md",
+      "sha256_preimagem": "658117bb5d1843839002cea3b027912059cdcd9bb01dd3b19bc24d0343096fbb",
+      "sha256_candidato": "79cac49172ce962919cb41f334edded440e5d84c28c83c7c28e2ad2bd96e7377",
+      "chaves_identidade_inalteradas": true,
+      "metadados_inalterados_exceto_sha256_texto": true,
+      "selecionado": "municipais/_indice/_recuperacao_20261027/reparos-escapes-ta-seis-final-20261027/0010-5-materializacao.json"
+    },
+    {
+      "path": "municipais/MG/buritis/leis-ordinarias/2015/leis-ordinarias-1326-2015-sapl-362.md",
+      "sha256_preimagem": "14312a8621d563607ac3310a4614383cda3d971e03768dba52db41d5a82b1fac",
+      "sha256_candidato": "7fd1441918dcc7eadd45a2d85ed7db9a44d22a12d1cee67cb67417bbded92fd8",
+      "chaves_identidade_inalteradas": true,
+      "metadados_inalterados_exceto_sha256_texto": true,
+      "selecionado": "municipais/_indice/_recuperacao_20261027/reparos-escapes-ta-seis-final-20261027/0010-6-materializacao.json"
+    }
+  ],
+  "baseline": "municipais/_indice/_recuperacao_20261027/baseline-head-reparos-escapes/manifesto.json",
+  "sha256_baseline": "43cac27e3745b25212ed97e76708e24f7f1b5bcbd1ab111f07ee7583ad422532",
+  "sem_colisoes": true,
+  "limite": "Confronto usa as identidades das preimagens, comprovadamente idênticas às dos candidatos. Não altera os seis canônicos. ROOT deve conferir preimagem exata e HEAD/reservas antes de promover; este pacote não integra os 2.733 anteriores."
+}

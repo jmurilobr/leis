@@ -1,0 +1,270 @@
+---
+titulo: "Lei Ordinária nº 7.547, de 09 de maio de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "7547"
+data: "2025-05-09"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/8306"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/2890/text"
+sha256_fonte: "a1a256c16fb3af01a45845b95710a5b1c2caf27853e63a76e89ae206c1a3a458"
+sha256_texto: "7e8780f7b6e7555eda45ebcdc9b19712075d8cbc5b21ca286c4094a5e4872e9e"
+capturado_em_fonte: "2026-10-27T17:48:08.408238-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 7.547, de 09 de maio de 2025
+
+DISPÕE SOBRE A REESTRUTURAÇÃO DO FUNDO SOCIAL DE SOLIDARIEDADE DO MUNICÍPIO DE BIRIGUI E DÁ OUTRAS PROVIDÊNCIAS.  
+Projeto de Lei nº 55/2025, de autoria da Prefeita Municipal.
+
+
+Eu, **SAMANTA PAULA ALBANI BORINI**, Prefeita Municipal de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,
+
+FAÇO SABER que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica reestruturado o Fundo Social de Solidariedade do Município de Birigui, doravante denominado *“Fundo Social de Solidariedade”*, como instrumento de captação, gestão e aplicação de recursos destinados ao financiamento de ações sociais voltadas à promoção do bem-estar da população em situação de vulnerabilidade.
+
+
+Art. 2º.
+
+O Fundo Social tem por finalidade:
+
+
+I –
+
+Promover a inclusão social por meio de programas e desenvolver projetos sociais voltados à redução das desigualdades para melhorar a qualidade de vida dos segmentos mais carentes da população;
+
+
+II –
+
+Apoiar iniciativas de organizações da sociedade civil que atuem na área social;
+
+
+III –
+
+Fomentar a capacitação profissional, implementando projetos voltados a geração de trabalho e renda, para população em situação de risco social;
+
+
+IV –
+
+Angariar recursos materiais, financeiros e outros mobiliários na comunidade, nas entidades do terceiro setor, iniciativa privada e nas esferas do Poder Público Estadual e Federal;
+
+
+V –
+
+Valorizar, estimular e apoiar iniciativas das comunidades voltadas para a solução dos problemas locais;
+
+
+VI –
+
+Incentivar a promoção de prática, pelos idosos, de atividades esportivas, artísticas e culturais, visando à melhoria da qualidade de vida e ao incremento da participação comunitária e integração social, como forma de proteção e inclusão social; e
+
+
+VII –
+
+Buscar a participação e o apoio da rede socioassistencial da política de assistência social, de outras políticas públicas, da rede solidária e, de outros parceiros que possam dar suporte às ações a serem promovidas pelo fundo.
+
+
+Art. 3º.
+
+Constituem receitas do Fundo Social:
+
+
+I –
+
+Transferências de recursos do orçamento municipal, previstas na lei orçamentária anual;
+
+
+II –
+
+Contribuições, doações e legados de pessoas físicas e jurídicas, públicas ou privadas, nacionais ou internacionais;
+
+
+III –
+
+Recursos provenientes de convênios, termos de cooperação ou parcerias com outras esferas de governo e entidades privadas;
+
+
+IV –
+
+Receitas decorrentes de aplicações financeiras realizadas com recursos do Fundo Social de Solidariedade;
+
+
+V –
+
+Receitas de eventos beneficentes organizados pelo Fundo Social de Solidariedade;
+
+
+VI –
+
+Outras receitas que lhe forem destinadas por Lei;
+
+
+VII –
+
+Os materiais considerados inservíveis para o serviço que lhe forem doados pelo Estado, aos quais poderá ser dado destino que atenda às finalidades do Fundo Social de Solidariedade; e
+
+
+VIII –
+
+Quaisquer outras receitas que legalmente lhe possam ser incorporadas.
+
+
+Art. 4º.
+
+A gestão administrativa e financeira do Fundo Social será realizada pela Presidente do Fundo Social de Solidariedade e o Conselho Deliberativo do Fundo Social, sob a supervisão direta do Gabinete do(a) Prefeito(a).
+
+
+§ 1º
+
+A movimentação financeira do Fundo será realizada em conta especifica aberta em instituição financeira oficial, vinculada ao CNPJ do Município.
+
+
+§ 2º
+
+A prestação de contas dos recursos utilizados pelo Fundo será realizada semestralmente ao Conselho Deliberativo e publicada em meio de ampla divulgação, garantindo a transparência e o controle social.
+
+
+§ 3º
+
+O Fundo Social de Solidariedade será presidido por pessoa escolhida pelo(a) Prefeito(a).
+
+
+Art. 5º.
+
+Fica instituído o Conselho Deliberativo do Fundo Social, órgão colegiado de caráter orientador, consultivo e fiscalizador, com as seguintes competências:
+
+
+I –
+
+Deliberar sobre as diretrizes de aplicação dos recursos do Fundo;
+
+
+II –
+
+Acompanhar e avaliar a execução dos programas e projetos financiados pelo Fundo; e
+
+
+III –
+
+Aprovar a prestação de contas e os relatórios financeiros e de atividades do Fundo.
+
+
+§ 1º
+
+As funções de membros do Conselho não serão remuneradas, a qualquer título, sendo, porém, consideradas como serviço público relevante.
+
+
+§ 2º
+
+Não será considerada remuneração recebida do Fundo Social de Solidariedade aquela proveniente do cargo ocupado por servidor público afastado para exercer a função de Presidente do Fundo Social de Solidariedade, bem como a de outros servidores colocados à disposição do Fundo e que, cumulativamente, tenham sido nomeados para atribuições no Conselho Deliberativo.
+
+
+Art. 6º.
+
+O Conselho Deliberativo será paritário e composto por até 08 (oito) membros titulares e respectivos suplentes, designado por ato do(a) Prefeito(a), assegurada uma participação efetiva dos diversos segmentos da comunidade, com mandato de 02 (dois) anos, permitida uma recondução, sendo sua composição:
+
+
+I –
+
+Representantes do Poder Público:
+
+
+a)
+
+01 (um) representante da Secretaria Municipal de Assistência Social;
+
+
+b)
+
+01 (um) representante da Secretaria Municipal de Esportes;
+
+
+c)
+
+01 (um) representante da Secretaria Municipal de Cultura e Turismo; e
+
+
+d)
+
+01 (um) representante da Secretaria Municipal de Desenvolvimento Econômico.
+
+
+II –
+
+Representantes da Sociedade Civil:
+
+
+a)
+
+01 (um) representante do setor empresarial;
+
+
+b)
+
+01 (um) representante da sociedade civil organizada;
+
+
+c)
+
+01 (um) representante de clubes de serviços; e
+
+
+d)
+
+01 (um) representante de entidades religiosas.
+
+
+Art. 7º.
+
+Os recursos do Fundo Social serão destinados exclusivamente para:
+
+
+I –
+
+A execução de programas, projetos e ações sociais;
+
+
+II –
+
+O financiamento de capacitações e cursos profissionalizantes;
+
+
+III –
+
+A concessão de auxílios eventuais, conforme previsto na Política de Assistência Social do Município.
+
+
+Art. 8º.
+
+Está Lei será regulamentada por decreto, que estabelecerá os critérios para a gestão dos recursos, a prestação de contas e a operacionalização das ações previstas.
+
+
+Art. 9º.
+
+Fica revogada a Lei nº 2.406, de 24 de junho de 1987 e demais disposições em contrário.
+
+
+Art. 10.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Birigui, aos nove de maio de dois mil e vinte e cinco.
+
+**SAMANTA PAULA ALBANI BORINI Prefeita Municipal**
+
+Publicada na Secretaria de Municipal de Governo da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**JAQUELINE MORAES SILVA FERNANDES Secretária Adjunta de Governo**
+

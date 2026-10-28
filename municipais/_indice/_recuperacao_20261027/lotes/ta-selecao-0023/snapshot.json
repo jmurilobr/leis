@@ -1,0 +1,3189 @@
+{
+  "criterio": "Congela o próximo lote de candidatos TA, sem repetir identidades já examinadas.\n\nVersão 2: exporta diários/anexos apenas de portais selecionados, evitando exigir\nmetadados de tipos de portais sem candidatos neste lote.\n\nO limite é somente o tamanho do lote de trabalho. A coleta de portais continua;\nreexecuções com as exclusões anteriores cobrem os candidatos seguintes.\n",
+  "selecionados": 581,
+  "disponiveis_apos_exclusoes": 581,
+  "exclusoes": [
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0001/resultados.jsonl",
+      "sha256": "cb49d44c92fe2e8f0102be164a449805bff97fcee62248f3da16a5563bc74148"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0002-v2/resultados.jsonl",
+      "sha256": "2b2730a051cb96a4ff159162e98366a0a4bfc431290aacaa9f15b0b1897e4472"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0003/resultados.jsonl",
+      "sha256": "fe9d893e621397986d9cb3b0f264d70cf401d36db5f8ee4947e8f9a0a33082fe"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0004/resultados.jsonl",
+      "sha256": "727700d434820dcd22f5ec9fb9aed079e99e58450a3c18b98cd15eed1a711c32"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0005/resultados.jsonl",
+      "sha256": "3235bf84baef24f08e4bc7ebf5803fbe3ddab23c3aae882926bc66e7885e2570"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0006/resultados.jsonl",
+      "sha256": "1d067d4f848aa353b30e6884798f35b5aa9b55f5a9ba3e897367d48dce75ffb1"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0007/resultados.jsonl",
+      "sha256": "7e9065d204ef26054f26dbb6118b997c2ca789b8fd83286ea74c57a2ff2361a2"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-piloto-gates-0001/resultados.jsonl",
+      "sha256": "2f3d2a94ffd99335a5c9d782692aaa5b865570ef4f8cced270c94073e15278ae"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/formas-gates-0001/resultados.jsonl",
+      "sha256": "60c71f5205eb437a4c42f289d873ae3b9d4bea6b13a7c00e79337939feb73dfa"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0001/resultados.jsonl",
+      "sha256": "e02a8d1e15f881485d78bfb6bac0b0a0a7f13ebc35875898b06f22e12fcf9969"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0002/resultados.jsonl",
+      "sha256": "4a236a292f92deb5da31a24f10e313f93187a130772028803738532174987183"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0003/resultados.jsonl",
+      "sha256": "a30f0beb3bcdf6410883449224177c20241655bccee8cb845e917c42cfb9a508"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0004/resultados.jsonl",
+      "sha256": "c4742688d9d15e5c8c53d8dbf43547d565f377bdbabef622fe3e42574678ac28"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0005/resultados.jsonl",
+      "sha256": "34d785b4180b63f7b735c3cf221ac2e905b01ac6570e8175a4d0c666323e8d6e"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0006/resultados.jsonl",
+      "sha256": "2df97b04e59b5977127005a710a9cea7d04d81a4b4a4d4f135b218bfffacabd0"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0007/resultados.jsonl",
+      "sha256": "4c4930cc4e19e5b0c912835b33b61d56c821e718f40a415d39038cf6f31a82b1"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0008/resultados.jsonl",
+      "sha256": "d92d281e8e8ac10320c86127535c065cd8b5cba4f0f33877d803d6802efb4c16"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0009/resultados.jsonl",
+      "sha256": "f4039cccc51c6f8b48a556c23e804cb037c8ba55d047e4cd38a573959eb45632"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0010/resultados.jsonl",
+      "sha256": "747062b23203a4330bc86d01a35a53c94dd3330f717513ab3ed5321bcceca306"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0011/resultados.jsonl",
+      "sha256": "d00e56bac03cf106f7ee2182c4797a2b188f1ad73a42d28571c1c7b5a376db3e"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0012/resultados.jsonl",
+      "sha256": "411f9a9e76c09ec62ef5f3e4f58714de8ab0c32097980ef2097c2b96667ade58"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0013/resultados.jsonl",
+      "sha256": "e81b1d45cc85bdd1d2f95b63c21e9ba574c6daa2380a27e7495ec9a591118470"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0014/resultados.jsonl",
+      "sha256": "7ae08befcd3728cdaf5ae4b1c0a123506b7fa25479026b75df5a3a68ace88701"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0015/resultados.jsonl",
+      "sha256": "27a69317ef9cf93fb11eaf0bda63267183a6c1a44c2d28cdc8d1550564ec7bc7"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0016/resultados.jsonl",
+      "sha256": "b2d842b5108e0e4d20c7a45d28f80e7d91cab96fed43d2278e036c4d7e87fa22"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0017/resultados.jsonl",
+      "sha256": "434043a3daaed4f634f5ae038bc07e30e1931a2394968249da6a326408867380"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0018/resultados.jsonl",
+      "sha256": "36305a676ed16ad48e6c4bd81ff4dce30d0d70e885cd9472c790b594930a8e35"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/tabelas-gates-0003/resultados.jsonl",
+      "sha256": "2401e2e10b5b5525b1f74ca700bd6ed3afdd76f8b26a8d58b7910dcda58642c5"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0001/resultados.jsonl",
+      "sha256": "5932a21d2f981ad60fb193e59905cb200a864ba63fdc6c6b82cdcb2fb4c8a803"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0002/resultados.jsonl",
+      "sha256": "743684bf7245afe2ce980a1c69e9b9f710145ee757458699075004a2ab54c59b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0003/resultados.jsonl",
+      "sha256": "fec8db37da0df80f24d140744fd160a69d7d54e524757678db4fe532b8d32c6b"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0004/resultados.jsonl",
+      "sha256": "973a23f5b8058ae80a9bc8e50f72f6c139658c2e4e278d5e8ed3b678aecc4eb2"
+    },
+    {
+      "path": "municipais/_lotes/20261020-textos-articulados-gates-0005/resultados.jsonl",
+      "sha256": "c94f3121369d1d538755aa1db82b139844dd2c059620913a05e6672657ac08a7"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0001/resultados.jsonl",
+      "sha256": "07d2def1265a88da175c93cce49b1cb0b6e614a39392a8b34298c5077ec67933"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0002/resultados.jsonl",
+      "sha256": "00b0379793a8cefcc6856103200a894027cc12b4ebaa00a0888624acdeb77924"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-identidade-ta-gates-0003/resultados.jsonl",
+      "sha256": "703972bf99466f32af3ea505376726e60953103c80bfcb015b138b322027bada"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001/resultados.jsonl",
+      "sha256": "839b37cdab75de94ecc9f5cb8edaa0a2e6170edb8ef80efcbbe64922b10dee5e"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0001-v2/resultados.jsonl",
+      "sha256": "a4757881e0f7c5cc09735b4607fb9436a2681fc6bbdc9bdc884942ba269b02d0"
+    },
+    {
+      "path": "municipais/_lotes/20261021-recuperacao-tabelas-ta-gates-0002/resultados.jsonl",
+      "sha256": "353d1230a0e13fe4e46b88fdb81aff47a12838c7fbb380c8261269e3df03f5ea"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0006/resultados.jsonl",
+      "sha256": "77fa0bfd91207f69ce1f69b8f288d536fd309260252cbb69eba7992069ea63cc"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0007/resultados.jsonl",
+      "sha256": "17d885bf36143f9de9ba0b2affb3df2e32a291901a3f825be96461c575a3cbf1"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0008/resultados.jsonl",
+      "sha256": "40710202641b46c142de773af6e360358bc0ebc342f005fa9ab2ee5efa6b4d53"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0009/resultados.jsonl",
+      "sha256": "1b47ce849a273d4dc8867137c695a57e05a09daaf1395142e0223a5948143689"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0010/resultados.jsonl",
+      "sha256": "07c28b7649ab8d2b66e5457dc4a91e301c0ad10f207e14d5f8d5386d9d0f922d"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0011/resultados.jsonl",
+      "sha256": "88151915faa9eee309d14b21682d66e7df027ce2c06a26be1c4bcb4d1e715400"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012/resultados.jsonl",
+      "sha256": "4163cc2ede430d59996828d6c55032be7055f8ac96f55dc7500b36b0bdadecb3"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012-v2/resultados.jsonl",
+      "sha256": "e2da31dfcdbbbf388ec02f9b311e85f5c88669fc7cd3efda03355694394576ac"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0012-v3/resultados.jsonl",
+      "sha256": "96f11eb8a39c3f95785207414dcb951cd09e7e6775509a143cd97824a18c9d2c"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0013/resultados.jsonl",
+      "sha256": "938def4e7698e31c7415a6981465ed65dbc789793350b359b499e3381d0fa10b"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0014/resultados.jsonl",
+      "sha256": "4c3cfeeb0a05b2bb00c0f4cb762fd4f7488aedd8d6f71ab7357ff5b1213ff27b"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0015/resultados.jsonl",
+      "sha256": "bbf88caafca24ef2881e3c07118ac25262b4c48173aefe57d0e074929364e301"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0016/resultados.jsonl",
+      "sha256": "b0e76b22e26e2be97db8a67c9bb2d972208287c115aa662250b186ff6f07df9b"
+    },
+    {
+      "path": "municipais/_lotes/20261021-textos-articulados-gates-0017/resultados.jsonl",
+      "sha256": "9579a7eb8988886a89e1ba1c778264f2ce53ce9dab591885b5201ba8a8badf16"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0019/resultados.jsonl",
+      "sha256": "64be15e2213da7eafa32b6022b3449299796aa668f859ff87dcd78e55f046a17"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/coerente-gates-0008/resultados.jsonl",
+      "sha256": "d133cfa0c781a2b375502106a50242648deba0b8263a90c94014904644345766"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0020/resultados.jsonl",
+      "sha256": "31acff44e532afca9c66e424f5af09e5a42b2c6a1acf6ce0b5a41ce038815cee"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0021/resultados.jsonl",
+      "sha256": "2936b9ed3b45a6130e00bb401a7eb8c084819b1bb3f0eeeab28bb47539b70c65"
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0022/resultados.jsonl",
+      "sha256": "98e1f8df5a1ea8e884d0d231fb8d87eca21986891c7db424842bd5c596a5714e"
+    }
+  ],
+  "prefixos_origem": [
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0022-v2/sapl.coronelfabriciano.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "c3e26cd40e11bc0ad3314414967fad927bfbf59f1612623c77d6d659d80911ec",
+      "bytes_prefixo": 3214
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0022-v2/sapl.corumbiara.ro.leg.br/resultados.jsonl",
+      "sha256_prefixo": "dae2e3ca2a2bbe1de9c58ec5b760b8520be0e776b9fa759a85c803f7fab85709",
+      "bytes_prefixo": 709204
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0022-v2/sapl.cruzmaltina.pr.leg.br/resultados.jsonl",
+      "sha256_prefixo": "f8c41362c66f48bcebf23f5786ef778e360d24e70ccba1b60d802be353008e59",
+      "bytes_prefixo": 330823
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0022-v2/sapl.cunha.sp.leg.br/resultados.jsonl",
+      "sha256_prefixo": "392a3219ff077f9e39fa64848a359f477d394618340b142509ab1cb16e07d783",
+      "bytes_prefixo": 980808
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0022-v2/sapl.curraisnovos.rn.leg.br/resultados.jsonl",
+      "sha256_prefixo": "73ce23511f6c6ff265bbf599252c1070318701cea6a28c7ff5e1f6b62fc20966",
+      "bytes_prefixo": 895332
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0022-v2/sapl.divinopolis.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "eb69cf064f478e09bdee68e98ae9c1882e4f8ed3da9d6e9674fc6affec6ef56a",
+      "bytes_prefixo": 3232135
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0022-v2/sapl.domexpeditolopes.pi.leg.br/resultados.jsonl",
+      "sha256_prefixo": "ed8fba51f03b814556cf5d1a679d3acd67f9c618945dd336414c1fd4031a45f5",
+      "bytes_prefixo": 6344
+    },
+    {
+      "path": "municipais/_indice/_recuperacao_20261027/entrada-ta-0022-v2/sapl.doresdoindaia.mg.leg.br/resultados.jsonl",
+      "sha256_prefixo": "2a8ae36ff497431fc25a8590a1dc5838ea65ff746fd6ede5ea39cc3eb6074933",
+      "bytes_prefixo": 2609661
+    }
+  ],
+  "script_sha256": "ed1f0a1eaeda7c9c3f1271ecdbbae4634b92e070bb936d4d89f3e5d2ac57f520",
+  "identidades": [
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 580,
+      "norma_id": 20634
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 278,
+      "norma_id": 181
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 590,
+      "norma_id": 20641
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 277,
+      "norma_id": 182
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 584,
+      "norma_id": 20618
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 276,
+      "norma_id": 183
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 579,
+      "norma_id": 20633
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 274,
+      "norma_id": 184
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 578,
+      "norma_id": 20632
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 272,
+      "norma_id": 186
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 577,
+      "norma_id": 20631
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 270,
+      "norma_id": 187
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 576,
+      "norma_id": 20630
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 269,
+      "norma_id": 188
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 575,
+      "norma_id": 20629
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 268,
+      "norma_id": 189
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 574,
+      "norma_id": 20628
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 267,
+      "norma_id": 190
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 573,
+      "norma_id": 20627
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 266,
+      "norma_id": 2476
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 572,
+      "norma_id": 20626
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 265,
+      "norma_id": 192
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 571,
+      "norma_id": 20625
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 264,
+      "norma_id": 194
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 570,
+      "norma_id": 20624
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 262,
+      "norma_id": 196
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 560,
+      "norma_id": 20613
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 184,
+      "norma_id": 193
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 559,
+      "norma_id": 20612
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 263,
+      "norma_id": 195
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 556,
+      "norma_id": 20603
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 261,
+      "norma_id": 198
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 558,
+      "norma_id": 20611
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 57,
+      "norma_id": 199
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 555,
+      "norma_id": 20602
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 300,
+      "norma_id": 1100
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 554,
+      "norma_id": 20601
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 260,
+      "norma_id": 1099
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 553,
+      "norma_id": 20600
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 380,
+      "norma_id": 1098
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 552,
+      "norma_id": 20599
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 379,
+      "norma_id": 1097
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 551,
+      "norma_id": 20598
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 377,
+      "norma_id": 1096
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 550,
+      "norma_id": 20594
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 376,
+      "norma_id": 1095
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 549,
+      "norma_id": 20593
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 375,
+      "norma_id": 1093
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 548,
+      "norma_id": 20592
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 374,
+      "norma_id": 1092
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 547,
+      "norma_id": 20591
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 221,
+      "norma_id": 1091
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 546,
+      "norma_id": 20590
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 373,
+      "norma_id": 1090
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 545,
+      "norma_id": 20589
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 179,
+      "norma_id": 1089
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 544,
+      "norma_id": 20588
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 124,
+      "norma_id": 1087
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 543,
+      "norma_id": 20587
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 370,
+      "norma_id": 1086
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 542,
+      "norma_id": 20586
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 369,
+      "norma_id": 1085
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 539,
+      "norma_id": 20584
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 368,
+      "norma_id": 1084
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 538,
+      "norma_id": 20583
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 371,
+      "norma_id": 1088
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 537,
+      "norma_id": 20582
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 367,
+      "norma_id": 1083
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 536,
+      "norma_id": 20581
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 366,
+      "norma_id": 1082
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 535,
+      "norma_id": 20580
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 365,
+      "norma_id": 1081
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 534,
+      "norma_id": 20579
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 9,
+      "norma_id": 1078
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 533,
+      "norma_id": 20578
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 364,
+      "norma_id": 1076
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 532,
+      "norma_id": 20577
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 363,
+      "norma_id": 1075
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 531,
+      "norma_id": 20576
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 362,
+      "norma_id": 1073
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 530,
+      "norma_id": 20575
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 361,
+      "norma_id": 1072
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 529,
+      "norma_id": 20574
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 360,
+      "norma_id": 1071
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 528,
+      "norma_id": 20573
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 359,
+      "norma_id": 1070
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 527,
+      "norma_id": 20572
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 358,
+      "norma_id": 1069
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 526,
+      "norma_id": 20571
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 357,
+      "norma_id": 1068
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 525,
+      "norma_id": 20570
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 351,
+      "norma_id": 1067
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 524,
+      "norma_id": 20569
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 350,
+      "norma_id": 1066
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 583,
+      "norma_id": 20567
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 188,
+      "norma_id": 1065
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 582,
+      "norma_id": 20565
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 356,
+      "norma_id": 1064
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 569,
+      "norma_id": 20566
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 934,
+      "norma_id": 1063
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 591,
+      "norma_id": 20596
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 349,
+      "norma_id": 1061
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 522,
+      "norma_id": 20535
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 288,
+      "norma_id": 1060
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 568,
+      "norma_id": 20544
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 348,
+      "norma_id": 1059
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 567,
+      "norma_id": 20546
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 347,
+      "norma_id": 1058
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 566,
+      "norma_id": 20549
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 346,
+      "norma_id": 1057
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 562,
+      "norma_id": 20545
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 271,
+      "norma_id": 1055
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 585,
+      "norma_id": 20550
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 345,
+      "norma_id": 1056
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 561,
+      "norma_id": 20547
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 344,
+      "norma_id": 1054
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 495,
+      "norma_id": 20531
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 343,
+      "norma_id": 1053
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 465,
+      "norma_id": 20523
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 334,
+      "norma_id": 1052
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 450,
+      "norma_id": 20516
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 333,
+      "norma_id": 1051
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 451,
+      "norma_id": 20515
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 332,
+      "norma_id": 1050
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 439,
+      "norma_id": 20517
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 330,
+      "norma_id": 1049
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 449,
+      "norma_id": 20514
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 329,
+      "norma_id": 1048
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 429,
+      "norma_id": 20513
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 327,
+      "norma_id": 1047
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 428,
+      "norma_id": 20512
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 326,
+      "norma_id": 1046
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 430,
+      "norma_id": 20504
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 324,
+      "norma_id": 1045
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 413,
+      "norma_id": 20503
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 322,
+      "norma_id": 1044
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 431,
+      "norma_id": 20502
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 321,
+      "norma_id": 1043
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 432,
+      "norma_id": 20501
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 320,
+      "norma_id": 1042
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 435,
+      "norma_id": 20500
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 319,
+      "norma_id": 1041
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 453,
+      "norma_id": 20499
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 318,
+      "norma_id": 1036
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 452,
+      "norma_id": 20498
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 316,
+      "norma_id": 1034
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 412,
+      "norma_id": 20491
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 191,
+      "norma_id": 1033
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 411,
+      "norma_id": 20490
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 328,
+      "norma_id": 1032
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 407,
+      "norma_id": 20477
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 401,
+      "norma_id": 1030
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 426,
+      "norma_id": 20478
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 400,
+      "norma_id": 1029
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 456,
+      "norma_id": 20475
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 372,
+      "norma_id": 1028
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 393,
+      "norma_id": 20474
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 399,
+      "norma_id": 1024
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 392,
+      "norma_id": 20473
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 398,
+      "norma_id": 1023
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 408,
+      "norma_id": 20476
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 396,
+      "norma_id": 1021
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 391,
+      "norma_id": 20472
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 395,
+      "norma_id": 1020
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 414,
+      "norma_id": 20461
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 394,
+      "norma_id": 1019
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 386,
+      "norma_id": 20463
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 393,
+      "norma_id": 1018
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 374,
+      "norma_id": 20462
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 392,
+      "norma_id": 1017
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 387,
+      "norma_id": 20464
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 391,
+      "norma_id": 1016
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 335,
+      "norma_id": 20460
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 390,
+      "norma_id": 1015
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 362,
+      "norma_id": 20459
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 389,
+      "norma_id": 1014
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 425,
+      "norma_id": 20458
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 388,
+      "norma_id": 1013
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 388,
+      "norma_id": 20457
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 397,
+      "norma_id": 1022
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 311,
+      "norma_id": 20437
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 808,
+      "norma_id": 1841
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 329,
+      "norma_id": 20454
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 387,
+      "norma_id": 1012
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 330,
+      "norma_id": 20453
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 386,
+      "norma_id": 1011
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 296,
+      "norma_id": 20436
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 385,
+      "norma_id": 1009
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 295,
+      "norma_id": 20435
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 384,
+      "norma_id": 1008
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 294,
+      "norma_id": 20434
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 187,
+      "norma_id": 1007
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 293,
+      "norma_id": 20433
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 383,
+      "norma_id": 1006
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 288,
+      "norma_id": 20432
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 382,
+      "norma_id": 1005
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 287,
+      "norma_id": 20431
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 381,
+      "norma_id": 1004
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 331,
+      "norma_id": 20428
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 484,
+      "norma_id": 1003
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 361,
+      "norma_id": 20430
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 483,
+      "norma_id": 1002
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 279,
+      "norma_id": 20427
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 190,
+      "norma_id": 1001
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 278,
+      "norma_id": 20421
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 482,
+      "norma_id": 1000
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 277,
+      "norma_id": 20420
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 481,
+      "norma_id": 999
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 276,
+      "norma_id": 20419
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 480,
+      "norma_id": 998
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 275,
+      "norma_id": 20418
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 317,
+      "norma_id": 997
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 410,
+      "norma_id": 20426
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 479,
+      "norma_id": 996
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 334,
+      "norma_id": 20425
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 478,
+      "norma_id": 995
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 332,
+      "norma_id": 20424
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 477,
+      "norma_id": 994
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 421,
+      "norma_id": 20423
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 325,
+      "norma_id": 993
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 274,
+      "norma_id": 20417
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 165,
+      "norma_id": 992
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 268,
+      "norma_id": 20415
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 476,
+      "norma_id": 991
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 269,
+      "norma_id": 20416
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 475,
+      "norma_id": 990
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 262,
+      "norma_id": 20414
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 474,
+      "norma_id": 989
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 261,
+      "norma_id": 20413
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 473,
+      "norma_id": 988
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 284,
+      "norma_id": 20411
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 472,
+      "norma_id": 986
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 299,
+      "norma_id": 20410
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 471,
+      "norma_id": 985
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 292,
+      "norma_id": 20409
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 470,
+      "norma_id": 984
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 290,
+      "norma_id": 20408
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 323,
+      "norma_id": 983
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 289,
+      "norma_id": 20407
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 353,
+      "norma_id": 980
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 282,
+      "norma_id": 20406
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 466,
+      "norma_id": 979
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 260,
+      "norma_id": 20412
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 465,
+      "norma_id": 976
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 252,
+      "norma_id": 20404
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 464,
+      "norma_id": 975
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 244,
+      "norma_id": 20402
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 779,
+      "norma_id": 1849
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 245,
+      "norma_id": 20403
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 780,
+      "norma_id": 1848
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 241,
+      "norma_id": 20401
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 463,
+      "norma_id": 974
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 229,
+      "norma_id": 20397
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 461,
+      "norma_id": 973
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 221,
+      "norma_id": 20396
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 451,
+      "norma_id": 972
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 220,
+      "norma_id": 20388
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 449,
+      "norma_id": 971
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 216,
+      "norma_id": 20382
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 445,
+      "norma_id": 970
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 213,
+      "norma_id": 20381
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 443,
+      "norma_id": 969
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 215,
+      "norma_id": 20380
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 441,
+      "norma_id": 968
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 196,
+      "norma_id": 20379
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 439,
+      "norma_id": 967
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 195,
+      "norma_id": 20378
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 438,
+      "norma_id": 966
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 218,
+      "norma_id": 20387
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 437,
+      "norma_id": 965
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 190,
+      "norma_id": 20371
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 436,
+      "norma_id": 964
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 206,
+      "norma_id": 20370
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 435,
+      "norma_id": 963
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 205,
+      "norma_id": 20369
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 434,
+      "norma_id": 962
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 170,
+      "norma_id": 20352
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 232,
+      "norma_id": 959
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 171,
+      "norma_id": 20351
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 433,
+      "norma_id": 958
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 174,
+      "norma_id": 20350
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 432,
+      "norma_id": 955
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 175,
+      "norma_id": 20349
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 431,
+      "norma_id": 954
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 222,
+      "norma_id": 20348
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 287,
+      "norma_id": 953
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 310,
+      "norma_id": 20347
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 430,
+      "norma_id": 952
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 176,
+      "norma_id": 20346
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 448,
+      "norma_id": 951
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 177,
+      "norma_id": 20345
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 447,
+      "norma_id": 950
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 178,
+      "norma_id": 20344
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 428,
+      "norma_id": 949
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 179,
+      "norma_id": 20343
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 427,
+      "norma_id": 946
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 207,
+      "norma_id": 20342
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 422,
+      "norma_id": 945
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 180,
+      "norma_id": 20287
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 421,
+      "norma_id": 944
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 181,
+      "norma_id": 20222
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 419,
+      "norma_id": 943
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 165,
+      "norma_id": 20220
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 418,
+      "norma_id": 942
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 182,
+      "norma_id": 20208
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 417,
+      "norma_id": 941
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 185,
+      "norma_id": 20207
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 416,
+      "norma_id": 940
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 187,
+      "norma_id": 20201
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 415,
+      "norma_id": 939
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 166,
+      "norma_id": 20189
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 414,
+      "norma_id": 938
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 191,
+      "norma_id": 20187
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 413,
+      "norma_id": 937
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 192,
+      "norma_id": 20186
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 412,
+      "norma_id": 936
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 193,
+      "norma_id": 20185
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 411,
+      "norma_id": 935
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 194,
+      "norma_id": 20184
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 409,
+      "norma_id": 933
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 253,
+      "norma_id": 20183
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 408,
+      "norma_id": 932
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 254,
+      "norma_id": 20182
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 778,
+      "norma_id": 1845
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 255,
+      "norma_id": 20181
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 410,
+      "norma_id": 934
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 256,
+      "norma_id": 20170
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 407,
+      "norma_id": 929
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 995,
+      "norma_id": 20137
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 406,
+      "norma_id": 928
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 780,
+      "norma_id": 20103
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 186,
+      "norma_id": 927
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 779,
+      "norma_id": 20078
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 56,
+      "norma_id": 926
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 214,
+      "norma_id": 20368
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 405,
+      "norma_id": 925
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1384,
+      "norma_id": 20020
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 404,
+      "norma_id": 923
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1134,
+      "norma_id": 19977
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 764,
+      "norma_id": 2523
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 521,
+      "norma_id": 19821
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 403,
+      "norma_id": 922
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 520,
+      "norma_id": 19820
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 936,
+      "norma_id": 921
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 519,
+      "norma_id": 19819
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 554,
+      "norma_id": 920
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 518,
+      "norma_id": 19818
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 553,
+      "norma_id": 919
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 517,
+      "norma_id": 19812
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 552,
+      "norma_id": 916
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 516,
+      "norma_id": 19811
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 420,
+      "norma_id": 915
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 515,
+      "norma_id": 19810
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 551,
+      "norma_id": 914
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 514,
+      "norma_id": 19804
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 550,
+      "norma_id": 913
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 512,
+      "norma_id": 19798
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 767,
+      "norma_id": 906
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 511,
+      "norma_id": 19797
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 189,
+      "norma_id": 912
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 513,
+      "norma_id": 19799
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 549,
+      "norma_id": 911
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 510,
+      "norma_id": 19788
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 440,
+      "norma_id": 907
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 509,
+      "norma_id": 19787
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 547,
+      "norma_id": 904
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 508,
+      "norma_id": 19786
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 546,
+      "norma_id": 903
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 507,
+      "norma_id": 19785
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 545,
+      "norma_id": 902
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 506,
+      "norma_id": 19784
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 544,
+      "norma_id": 901
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 505,
+      "norma_id": 19783
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 543,
+      "norma_id": 900
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 504,
+      "norma_id": 19782
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 542,
+      "norma_id": 899
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 503,
+      "norma_id": 19796
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 541,
+      "norma_id": 898
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 502,
+      "norma_id": 19771
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 209,
+      "norma_id": 897
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 774,
+      "norma_id": 19793
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 540,
+      "norma_id": 896
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 501,
+      "norma_id": 19770
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 539,
+      "norma_id": 895
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 500,
+      "norma_id": 19747
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 538,
+      "norma_id": 894
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 499,
+      "norma_id": 19746
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 537,
+      "norma_id": 893
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 497,
+      "norma_id": 19745
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 462,
+      "norma_id": 891
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 496,
+      "norma_id": 19744
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 536,
+      "norma_id": 890
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 494,
+      "norma_id": 19743
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 535,
+      "norma_id": 889
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 493,
+      "norma_id": 19742
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 534,
+      "norma_id": 888
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 878,
+      "norma_id": 19729
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 533,
+      "norma_id": 887
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 492,
+      "norma_id": 19724
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 532,
+      "norma_id": 886
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 491,
+      "norma_id": 19726
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 531,
+      "norma_id": 885
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 490,
+      "norma_id": 19723
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 528,
+      "norma_id": 882
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 489,
+      "norma_id": 19725
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 20,
+      "norma_id": 874
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 488,
+      "norma_id": 19691
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 526,
+      "norma_id": 875
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 487,
+      "norma_id": 19694
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 525,
+      "norma_id": 873
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 486,
+      "norma_id": 19693
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 518,
+      "norma_id": 872
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 482,
+      "norma_id": 19690
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 517,
+      "norma_id": 871
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 481,
+      "norma_id": 19692
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 516,
+      "norma_id": 870
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 169,
+      "norma_id": 19686
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 515,
+      "norma_id": 869
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 480,
+      "norma_id": 19673
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 35,
+      "norma_id": 1817
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 479,
+      "norma_id": 19672
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 514,
+      "norma_id": 868
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 485,
+      "norma_id": 19674
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 513,
+      "norma_id": 867
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 484,
+      "norma_id": 19668
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 512,
+      "norma_id": 866
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 483,
+      "norma_id": 19669
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 511,
+      "norma_id": 865
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 478,
+      "norma_id": 19670
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 510,
+      "norma_id": 864
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1234,
+      "norma_id": 19657
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 509,
+      "norma_id": 863
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 477,
+      "norma_id": 19650
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 508,
+      "norma_id": 861
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 476,
+      "norma_id": 19648
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 507,
+      "norma_id": 859
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 475,
+      "norma_id": 19649
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 506,
+      "norma_id": 858
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 474,
+      "norma_id": 19651
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 505,
+      "norma_id": 857
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 473,
+      "norma_id": 19652
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 452,
+      "norma_id": 856
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 472,
+      "norma_id": 19627
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 524,
+      "norma_id": 855
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 471,
+      "norma_id": 19614
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 523,
+      "norma_id": 854
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 470,
+      "norma_id": 19616
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 8,
+      "norma_id": 851
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 469,
+      "norma_id": 19615
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 522,
+      "norma_id": 853
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 468,
+      "norma_id": 19617
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 521,
+      "norma_id": 852
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 832,
+      "norma_id": 19608
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 503,
+      "norma_id": 845
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 467,
+      "norma_id": 19586
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 502,
+      "norma_id": 844
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 466,
+      "norma_id": 19587
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 501,
+      "norma_id": 843
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 464,
+      "norma_id": 19556
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 500,
+      "norma_id": 842
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 463,
+      "norma_id": 19555
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 499,
+      "norma_id": 841
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 462,
+      "norma_id": 19554
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 498,
+      "norma_id": 840
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 461,
+      "norma_id": 19553
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 497,
+      "norma_id": 839
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 460,
+      "norma_id": 19552
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 496,
+      "norma_id": 838
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 1233,
+      "norma_id": 19550
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 520,
+      "norma_id": 849
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 459,
+      "norma_id": 19547
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 519,
+      "norma_id": 848
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 458,
+      "norma_id": 19546
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 314,
+      "norma_id": 847
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 994,
+      "norma_id": 19543
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 495,
+      "norma_id": 837
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 457,
+      "norma_id": 19512
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 494,
+      "norma_id": 836
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 448,
+      "norma_id": 19501
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 493,
+      "norma_id": 835
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 447,
+      "norma_id": 19500
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 492,
+      "norma_id": 834
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 446,
+      "norma_id": 19499
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 491,
+      "norma_id": 833
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 445,
+      "norma_id": 19498
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 7,
+      "norma_id": 831
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 444,
+      "norma_id": 19494
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 490,
+      "norma_id": 832
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 443,
+      "norma_id": 19483
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 489,
+      "norma_id": 830
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 442,
+      "norma_id": 19479
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 178,
+      "norma_id": 829
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 441,
+      "norma_id": 19478
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 14,
+      "norma_id": 827
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 440,
+      "norma_id": 19477
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 185,
+      "norma_id": 824
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 438,
+      "norma_id": 19476
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 488,
+      "norma_id": 823
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 403,
+      "norma_id": 19475
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 487,
+      "norma_id": 822
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 402,
+      "norma_id": 19471
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 485,
+      "norma_id": 821
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 401,
+      "norma_id": 19449
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 548,
+      "norma_id": 2495
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 400,
+      "norma_id": 19457
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 527,
+      "norma_id": 803
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 399,
+      "norma_id": 19440
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 741,
+      "norma_id": 802
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 398,
+      "norma_id": 19441
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 740,
+      "norma_id": 801
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 397,
+      "norma_id": 19458
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 739,
+      "norma_id": 800
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 396,
+      "norma_id": 19453
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 467,
+      "norma_id": 799
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 395,
+      "norma_id": 19459
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 738,
+      "norma_id": 798
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 394,
+      "norma_id": 19460
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 737,
+      "norma_id": 797
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 385,
+      "norma_id": 19456
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 736,
+      "norma_id": 796
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 384,
+      "norma_id": 19455
+    },
+    {
+      "host": "sapl.doresdoindaia.mg.leg.br",
+      "ta_id": 735,
+      "norma_id": 795
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 383,
+      "norma_id": 19454
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 382,
+      "norma_id": 19472
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 381,
+      "norma_id": 19461
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 379,
+      "norma_id": 19406
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 378,
+      "norma_id": 19405
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 377,
+      "norma_id": 19388
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 376,
+      "norma_id": 19387
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 375,
+      "norma_id": 19379
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 368,
+      "norma_id": 19378
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 367,
+      "norma_id": 19377
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 366,
+      "norma_id": 19376
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 365,
+      "norma_id": 19367
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 364,
+      "norma_id": 19338
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 357,
+      "norma_id": 19339
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 356,
+      "norma_id": 19323
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 355,
+      "norma_id": 19305
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 354,
+      "norma_id": 19298
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 353,
+      "norma_id": 19292
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 352,
+      "norma_id": 19293
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 351,
+      "norma_id": 19294
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 350,
+      "norma_id": 19286
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 347,
+      "norma_id": 19283
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 346,
+      "norma_id": 19273
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 345,
+      "norma_id": 19274
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 341,
+      "norma_id": 19264
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 349,
+      "norma_id": 19285
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 348,
+      "norma_id": 19284
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 340,
+      "norma_id": 19249
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 342,
+      "norma_id": 19282
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 339,
+      "norma_id": 19248
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 338,
+      "norma_id": 19246
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 698,
+      "norma_id": 19250
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 337,
+      "norma_id": 19247
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 327,
+      "norma_id": 19242
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 899,
+      "norma_id": 19237
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 326,
+      "norma_id": 19223
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 325,
+      "norma_id": 19221
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 324,
+      "norma_id": 19218
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 323,
+      "norma_id": 19219
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 321,
+      "norma_id": 19205
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 320,
+      "norma_id": 19190
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 319,
+      "norma_id": 19182
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 318,
+      "norma_id": 19177
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 317,
+      "norma_id": 19176
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 316,
+      "norma_id": 19175
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 315,
+      "norma_id": 19153
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 314,
+      "norma_id": 19155
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 313,
+      "norma_id": 19157
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 312,
+      "norma_id": 19156
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 302,
+      "norma_id": 19154
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 304,
+      "norma_id": 19152
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 303,
+      "norma_id": 19147
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 301,
+      "norma_id": 19107
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 300,
+      "norma_id": 19114
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 264,
+      "norma_id": 19128
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 265,
+      "norma_id": 19084
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 263,
+      "norma_id": 19086
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 247,
+      "norma_id": 19085
+    },
+    {
+      "host": "sapl.divinopolis.mg.leg.br",
+      "ta_id": 246,
+      "norma_id": 19064
+    }
+  ]
+}

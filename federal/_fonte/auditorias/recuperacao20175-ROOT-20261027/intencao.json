@@ -1,0 +1,45 @@
+{
+  "HEAD": "b6e474f7f8b219d23343933b67f8d68579cfe2d3",
+  "preimagem": "26111038e0ad49173d7d73f1949e0aca65a61da05100e2c2cff85b41e5c7a799",
+  "candidato": "db9036848a6fc519d0b6c0245b2193afc113333f94490fde9760d0eb317c6f57",
+  "pendencias_antes": 7603,
+  "remover": [
+    {
+      "path": "federal/decretos/1945/dec-20175-1945-12-11.md",
+      "sha256_md": "26111038e0ad49173d7d73f1949e0aca65a61da05100e2c2cff85b41e5c7a799",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "ANEXOS 1 e 2 do regulamento próprio aparecem apenas como rótulos e ponteiros CLBR às tabelas das páginas 454 e 455 nesta transcrição. ANEXOS 3–6 têm conteúdo distinto. Integralidade dos dois primeiros não validada; sem afirmar inexistência nas fontes primárias.",
+      "evidencia": {
+        "prova": "federal/_fonte/auditorias/inventario_remissoes_publicados_20261027_003/prova20175.json.gz",
+        "sha256_prova": "afc090d383d55104f167ebc79c9da661d4ba50d1986776f15fcb8754679467cf",
+        "OID_HEAD": "08e10741ba7945302335de301a5c4d1060704a47",
+        "HEAD_conferido": "98dfab5e15ff46f317acd25ffe2a9bbb167858c9",
+        "sha256_HTML": "7c0e050f99d8ae751d6817bcbb78c44bc2dd53336e198127122b74696d31c15f",
+        "sha256_metadados": "f56be7e826d87ec3ac490b057bfdf5d5e6da00a0e986928a3c8f5657ed492ded",
+        "fonte_HTML": "https://normas.leg.br/api/public/binario/1521012d-b275-4594-9466-c03980cc61c5/texto",
+        "fonte_API": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1945-12-11;20175&tipo_documento=maior-detalhe"
+      }
+    }
+  ],
+  "assets": [
+    {
+      "arquivo_privado": "federal/_fonte/auditorias/clbr_1945_recuperacao_20261027_001/render20175/anexo1-pdf3062.png",
+      "destino_proposto": "federal/anexos/decretos/1945/dec-20175-1945-12-11-anexo1.png",
+      "sha256": "a5544f43617473bf6d1bdffbec7052b217b3562b5b5486246813eda796c32a23",
+      "pagina_impressa": 454,
+      "pagina_PDF_1_based": 3062,
+      "DPI": 200,
+      "representacao": "Página integral do PDF, orientação original e pixels somente de render PDF; sem transcrição inferida."
+    },
+    {
+      "arquivo_privado": "federal/_fonte/auditorias/clbr_1945_recuperacao_20261027_001/render20175/anexo2-pdf3063.png",
+      "destino_proposto": "federal/anexos/decretos/1945/dec-20175-1945-12-11-anexo2.png",
+      "sha256": "2a3251dfebb7dff8ec54898821afae2e8e21ceab405345d046a62fd7ce80801c",
+      "pagina_impressa": 455,
+      "pagina_PDF_1_based": 3063,
+      "DPI": 200,
+      "representacao": "Página integral do PDF, orientação original e pixels somente de render PDF; sem transcrição inferida."
+    }
+  ],
+  "criterio_ROOT": "Folha de rosto: coleção1945, volumeVIII, outubro–dezembro, impressão1946. Índice e principal próprios na página427. Anexo1: quadro completo do pessoal, total24. Anexo2: tabelaPrice completa com taxas/prazos/observações. Páginas454/455 integrais, orientação e pixels originais do render; texto fora dos ponteiros preservado. Nenhuma inferência de vigência ou correção de números/grafia."
+}

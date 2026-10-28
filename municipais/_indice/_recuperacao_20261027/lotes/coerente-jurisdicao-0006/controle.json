@@ -1,0 +1,2417 @@
+{
+  "criterio": "Triagem de esfera oficial e cabeçalhos municipais nos corpos TA completos.",
+  "cadastro_ibge_sha256": "d9eec8439bc8c5dc2f7db6332a8e5569f5a3f637988e26aebc513412d4069d5c",
+  "script_sha256": "2eeaa4c3704a0a720f4c6ecc157406c9062522a8c8817066d60ac60573aaf9bd",
+  "emissores_script_sha256": "1749efcc1a6334b652716841d89cec2170eabaa580b23937b4a83a5ea74af023",
+  "resultados": [
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1993/leis-ordinarias-1103-1993-sapl-2104.md",
+      "sha256": "997f70676b37ad2a19608dfb993419bbe13c941aa3c1b6c72d015df02eec6217",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1970/leis-ordinarias-301-1970-sapl-1140.md",
+      "sha256": "aaa2bfb89817cc92a3b2317ad9ec20b5612438217fa3d92a26fea583b0465039",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1993/leis-ordinarias-1102-1993-sapl-2105.md",
+      "sha256": "4f477bc2c99bf4984d03958a59aea00329556d3db05a80f7de8cf860408159c9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1969/leis-ordinarias-299-1969-sapl-1190.md",
+      "sha256": "aab0597b79fac0ab2d90e8822c25b6ca8b9a6663d3b12eb992f586cffddce6e6",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/1993/leis-complementares-5-1993-sapl-5.md",
+      "sha256": "caf5b586f744c2a048c27d2c093d2a6ed8d4bdec2216d7afe5ddb3dea74d7f6b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1993/leis-ordinarias-1097-1993-sapl-2110.md",
+      "sha256": "2ae17a7351b2b0d1cbb924086be410b5424e159cd32a029ecad3662ef76909a5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/resolucoes/1969/resolucoes-2-1969-sapl-2510.md",
+      "sha256": "32bb95cb99e7659dfcc32c17e7faefbb141f690c71e6f0bdc9a3bf2afcefcc50",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1969/leis-ordinarias-292-1969-sapl-1183.md",
+      "sha256": "fcc13a5de46b19ce8df15830e7fd334b3d25bc016f13963b1c8510807bcb1067",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1993/leis-ordinarias-1090-1993-sapl-2117.md",
+      "sha256": "7e4568edd91d309b8d251f28d36d75aa7a3284bba1d0880700609091e75315e1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1969/leis-ordinarias-287-1969-sapl-1178.md",
+      "sha256": "a8e98d69ba287a8e5bbcd81726810a5e24b05da98c9025fd5b55e1abc3be1b3d",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-complementares/1993/leis-complementares-2-1993-sapl-6863.md",
+      "sha256": "b652949565443d0aae2b1731eeace6fc9f67c75052ebcc5f27b849b8c57c0781",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1969/leis-ordinarias-285-1969-sapl-1176.md",
+      "sha256": "15204fad9df0d8f63121927061dab073ede429b7da93ec1d6689b7db04b27328",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1085-1992-sapl-2123.md",
+      "sha256": "7c386bf42a36c1405aae6127f4f9c585fd56345d303d8d808e49a1c737def7ab",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1084-1992-sapl-2124.md",
+      "sha256": "b78955b36c6bca1ff2b694bcf718989a077a5a2b13346b294c8ec4a2ac868b2e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1083-1992-sapl-2125.md",
+      "sha256": "5350cbfee5b99484fed612b001ebb357a177ae25b53c19813be479065cc7ef4e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1082-1992-sapl-2126.md",
+      "sha256": "4aa278dd94cbd0a0ca52e6dca0f32363d8bdcd9bfef80f6dafb51df35dc4182f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1969/leis-ordinarias-279-1969-sapl-1170.md",
+      "sha256": "924dcc9197288fa5c72d2aa26a10fc91834630782509edc1562bd6126ec0d110",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1080-1992-sapl-2128.md",
+      "sha256": "9868108a5de8a084c95ee33a709d067039fd4258d1b9a8c5b44b4d86afbe875d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1078-1992-sapl-2130.md",
+      "sha256": "9d9d0d5028bae11b34eef38c9f62fd15114916fbeb85162432f8f324de180b93",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1077-1992-sapl-2131.md",
+      "sha256": "e76fc480d2267ad7906ab73891933752424546f8e233cedd4ae0920c6c9173b2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1969/leis-ordinarias-275-1969-sapl-1166.md",
+      "sha256": "427ecc0063d0b02363db6e4bc1a9a66c4f2af85ae52dca6c48235a2eecf374ed",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1969/leis-ordinarias-273-1969-sapl-1164.md",
+      "sha256": "5249f59cc9a0ff432e030e714c7b405d6faf647d1528a28449070ee4c3f8403e",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1072-1992-sapl-2136.md",
+      "sha256": "d0f7b6b3b4c1d89cede4d331703fe242768cac049ba9f097ecbaa6aa45897160",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1071-1992-sapl-2137.md",
+      "sha256": "702be33ab9dadaf8573e1517f07f1e31ce0cbd9ac7f628698030a05715869659",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/resolucoes/1969/resolucoes-1-1969-sapl-2509.md",
+      "sha256": "99b46fe4b3a099fc037e1e997fd7e31def866ad79dfdf5c08fb1cae4da611cc5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1070-1992-sapl-2138.md",
+      "sha256": "935c4a9d98801df54b4e289ffcf9b31b723eb5da499515623c5d18b8fdca0bb5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1069-1992-sapl-2139.md",
+      "sha256": "7e5e37d57681128c700ff3fff9a59f7353a1501914c522642d19a01708b2580d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1969/leis-ordinarias-267-1969-sapl-1158.md",
+      "sha256": "04006c366a1920658bd269f387e71e42e075565885eb2d80627fb5e10d689b30",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1968/leis-ordinarias-264-1968-sapl-1200.md",
+      "sha256": "7dd3b8562acf5a5820721d82da0cdf3d17c744054d0a6a59433d1d453adeaeab",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/resolucoes/1968/resolucoes-3-1968-sapl-1790.md",
+      "sha256": "732ade349fcbed00cb12261c9614ee6a1b5ef91df5eea7cd6f6a83f46ac52bd3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1063-1992-sapl-2194.md",
+      "sha256": "a2db690a7c3c1fc732772bcaf977e3e8144299e0f5e7da22ca74425c7c0b9959",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1968/leis-ordinarias-262-1968-sapl-1198.md",
+      "sha256": "e2d4f64e1ade221dc1d5da27bcf93120e1e5d3641a2330f9c2da78a74a367242",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1968/leis-ordinarias-260-1968-sapl-1196.md",
+      "sha256": "d1166f960f93e1ea85dbebac860b9aa70769c52fa07d750874d8b371983e3750",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1060-1992-sapl-2191.md",
+      "sha256": "62ca2f6410e8b1dec5a54fb3ceaeaec500021c5174505d4ae691da177e017391",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1968/leis-ordinarias-258-1968-sapl-1194.md",
+      "sha256": "d201fdb77fa4f9f3ecb112f935378dc83b738609a2cfae3c951e19dbd4df66aa",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1058-1992-sapl-2189.md",
+      "sha256": "dea87c72968a1813253c14857c6a210d61e841b0fcc152eeedfbf0623b28719f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1968/leis-ordinarias-257-1968-sapl-1193.md",
+      "sha256": "d901a78450eb06d364a453a9ce6a785ad9d53433419fb38d776326bd78853c63",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1968/leis-ordinarias-256-1968-sapl-1192.md",
+      "sha256": "2e62cb555b09c7294bb7c3f76d6bdb7f1ded19df6b76cd8eeef243d081651f55",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1056-1992-sapl-2187.md",
+      "sha256": "d1a866f0a0cefbce6056966288ba9bf0dd4efdcb5bf4508a20701c53cf77ab8a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1055-1992-sapl-2186.md",
+      "sha256": "84109a9d94871b8127b32f22072ba50e5a5b40999a8c581161de3a0d729545b1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/resolucoes/1968/resolucoes-2-1968-sapl-1791.md",
+      "sha256": "a959113926c2c908bbd28a147ed22967c573e2c77f079e1fa14a57df0dd4b32a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1054-1992-sapl-2185.md",
+      "sha256": "0e1e19e81ed499a2a7c8d10543a6239ca8a95f37c793d9855db21956a92e0601",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/resolucoes/1968/resolucoes-1-1968-sapl-1792.md",
+      "sha256": "f3600b3f491a6f13833b46c06c61eb85f911ccc38b104000f6c3f43c5aab51b1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1050-1992-sapl-2181.md",
+      "sha256": "6758e10f5e48c4ca4a4bed59b8691342cdce1e90464998973012678833f11239",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1967/leis-ordinarias-252-1967-sapl-1216.md",
+      "sha256": "9c26a424761ec00cf88b9995d81a6b3536fe7025722561d4264ba55dfc6c4621",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1048-1992-sapl-2179.md",
+      "sha256": "ea3a707ddc871c63aa738427fbf2912a8d49cd95d566dbc9cf995855feb86c81",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1046-1992-sapl-2177.md",
+      "sha256": "dc39709e293365684e23bea44345fe61689fb607448370427b0f70cedb6f47b3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1045-1992-sapl-2176.md",
+      "sha256": "8b1779f6f6bb844509f12432e9febc571407c6734d058a3194bb80a67b052751",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1044-1992-sapl-2175.md",
+      "sha256": "c2d822d5fd5811eb55749e4b35c041ea78961275108bb2d9f3efe73e1d550be9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1967/leis-ordinarias-246-1967-sapl-1210.md",
+      "sha256": "6fe8a90108bc53ae0ed0f345e3f21b0fe8dcae8ece0e0a56d6a01a62d1d0046d",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1043-1992-sapl-2174.md",
+      "sha256": "08df43f5e73ad74c084b69d6c62157696b77e616107ab44a93050d5e9fdc547c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1042-1992-sapl-2173.md",
+      "sha256": "af16062d53dcbd9b65e814eae5ca4b6f374e47ccfe802dbe92735e2a8a847f2b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1967/leis-ordinarias-244-1967-sapl-1208.md",
+      "sha256": "23768132f8e7d73d456fab699b617fbdea094dd0daf89cd13f498ff17ee90a85",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1041-1992-sapl-2172.md",
+      "sha256": "192d9b01e972dad746b2584bb95bbcf5d05bd7eb5da3f8716f4f5ff7cf7d07f4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1040-1992-sapl-2171.md",
+      "sha256": "1a36f2e11d26f7609f00bb8c213bb1fe88f68009c78a4aa27bdbd5854666c152",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1967/leis-ordinarias-242-1967-sapl-1206.md",
+      "sha256": "40a7aee18802cc50bb19f269334380ef31b72957f89b6203347bbc58df09fffc",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1039-1992-sapl-2170.md",
+      "sha256": "2ae295d7d1ccf14c9001da71188701e46e21e29b9698cbc5acace69949ba8ffb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1967/leis-ordinarias-240-1967-sapl-1204.md",
+      "sha256": "48a7a94a9cadc03ed34d5ca8f87c86d915b98580d55413e1cf2cc92039ecdca9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1035-1992-sapl-2166.md",
+      "sha256": "e552960eaea19c226d4f8dea1fb8e41ce219561f61f5daf67f57536b6a72ae57",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1967/leis-ordinarias-239-1967-sapl-1203.md",
+      "sha256": "1619b97ccf951d83b2fd4a5410ae5f99aea2b3d74d6778a0806a4ae5bffa886d",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1034-1992-sapl-2165.md",
+      "sha256": "33aad9719a22facf33fb30493ca252b3fcba549a4a67d7e0ab123d8ef1383e2a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1966/leis-ordinarias-238-1966-sapl-1287.md",
+      "sha256": "13a8aae796685132104dbb74fb4d5768232970a443b41c7b96edcbc65be47e56",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1033-1992-sapl-2164.md",
+      "sha256": "1ee41c431466b0807b00c78db32eaa2af9ef6edcf20b84e71a1c2b0184fccc50",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1032-1992-sapl-2163.md",
+      "sha256": "5f9808c5b471a8cc20a62920508ea7802add8738687980efeb19b8274cf81521",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1031-1992-sapl-2162.md",
+      "sha256": "f90cc28ae5cb237302988ea383bb5bcec704736f2db78e26e04d3bcf8d8494ef",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1966/leis-ordinarias-235-1966-sapl-1284.md",
+      "sha256": "f99bfdcf4ce87d7fa6a19c7cb1bf883fcf2062044946ddd52583c009cfc4de71",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1030-1992-sapl-2161.md",
+      "sha256": "de6984c25e21e3d63c9b4570557f5943a13d03d224646aaf95a85fa53dcc291c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1029-1992-sapl-2160.md",
+      "sha256": "8791a48bb87ccfec95e2be01d60b549b7e2721b2a9d6ba05849a0f481c259712",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1028-1992-sapl-2159.md",
+      "sha256": "7e676357b6d8979b3c0183d185e45ce7a0024cd17f4b3f67e266a87edf2a1a90",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1966/leis-ordinarias-232-1966-sapl-1281.md",
+      "sha256": "aca16a4ac2fe97b583245cbeb0df3e9dd540f3ce245a80b88a1860e47ebcfea2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1027-1992-sapl-2158.md",
+      "sha256": "bbfafee5769db03816c44c4c9a80d2bb9431dfb7abdb63c2bf61e9f8750a192f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1966/leis-ordinarias-231-1966-sapl-1280.md",
+      "sha256": "9b6289ddab5b8cc96c26f68bc4c91fbdd8447c3a3765700bf5719327bb5fd854",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1026-1992-sapl-2157.md",
+      "sha256": "63a2247bb367b9432ec0516e888f7b4a8cfcc982d72d2c4a49a70b659f61afd6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1966/leis-ordinarias-230-1966-sapl-1279.md",
+      "sha256": "4f8f6ad50950b5ad5cec23dac4c0fed8201091e576df1125d25f725e18f55591",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1025-1992-sapl-2156.md",
+      "sha256": "784e255e033eb4ce3407a26cba14831a0f1bd349ac996b375ff076e506a9ec7b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1966/leis-ordinarias-229-1966-sapl-1278.md",
+      "sha256": "8a4c1deeb6937739fefa03f9256c1a814717c4a5ce90f7901895c335e9dffca8",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1024-1992-sapl-2155.md",
+      "sha256": "1efcdee8f64dbbfd73d14e05c6cd0b1dbf3a6349ce347765f549547625740313",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1966/leis-ordinarias-228-1966-sapl-1277.md",
+      "sha256": "abbce079ee32c14bb02536588ff94c426501c66ad079e9eb58f6d5ea78ad9cce",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1023-1992-sapl-2154.md",
+      "sha256": "476252f9bd8864b0401d9b0d0eb6cd46d799370543e503c9ecc04c3cd62977d6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1022-1992-sapl-2153.md",
+      "sha256": "54ffe69aa29eabeeaef6928d56596d2a18566f1b713cb83bc0e553c87ac0b6cb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1021-1992-sapl-14179.md",
+      "sha256": "a9679f2ce3873756ecfe7e9735664d0f73d874f9269a5d6fbc095680955443d7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1020-1992-sapl-2152.md",
+      "sha256": "5a18c9ff62f5f888580a9bfc641659b846fe410462b95d33f41bf56db77e0b28",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1019-1992-sapl-2151.md",
+      "sha256": "716dfe900f31411583ba26d770dfebecc571ff716d14a7d69e8f6f3052a9bf7d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1018-1992-sapl-2150.md",
+      "sha256": "9016c461b2703a9361ee6c817f396e88d9c83179cabbe604a63de626ae8bbd28",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1966/leis-ordinarias-222-1966-sapl-1271.md",
+      "sha256": "dec324ca8b643940dbbf9ae8dce3d3d18dba98c5b1358f07f51eb245709dccbb",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1966/leis-ordinarias-221-1966-sapl-1270.md",
+      "sha256": "9faf63572c0faf2025e94e025fbf24dde61635d103636bf90d8c577bb6c8638f",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1966/leis-ordinarias-220-1966-sapl-1269.md",
+      "sha256": "35b7f8d2059ddb1646963c2c07b93c8f1f01f61710cce59c0e68e53f58f1fe61",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1015-1992-sapl-2147.md",
+      "sha256": "31fbb8c80adc6d258c9b1e755916873a7ca09b33ef45e4b6494a0d6f298f9d2e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1013-1992-sapl-2145.md",
+      "sha256": "b24d8ebe3ef9cc849a26b10a75499a73aaedfd3a43aff79fca28f7d5f5c380bc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1012-1992-sapl-2144.md",
+      "sha256": "20663b7d0ed00100bc61b0fd2129e6bc593bc037bb2b7e762c1cc437858922ab",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1965/leis-ordinarias-216-1965-sapl-1265.md",
+      "sha256": "640040ce909f6d4de989fcb1925563c987ef10dbc94e2cf692bc1a6dcd0ae27e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1011-1992-sapl-2143.md",
+      "sha256": "db91ad07e5fc287a813708d902b0ff181b357da88f0a36627bcb10d1b5b12f21",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1965/leis-ordinarias-214-1965-sapl-1263.md",
+      "sha256": "4e48430d80a15828b426470e71a555240bc937c55a58d4a9fc1bafc01e3e41b7",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1010-1992-sapl-2142.md",
+      "sha256": "1c03afaea773a54632d852e0f3afc4ea1fec13da36cbe39e7452e69f16729882",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1965/leis-ordinarias-213-1965-sapl-1262.md",
+      "sha256": "36d8a7ab6057758be040bb19b3c64811e3800d95806c0dcdad4c795a7501ab05",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1992/leis-ordinarias-1009-1992-sapl-2141.md",
+      "sha256": "c84b97e6e5de2783396f028e64eb6ced622cae2677faafeef926686d689eeda5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1965/leis-ordinarias-212-1965-sapl-1261.md",
+      "sha256": "d1e84984f3eb03051e791693b0af8ce014b1b9e15861374fd2689847d8bedb01",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1965/leis-ordinarias-211-1965-sapl-1260.md",
+      "sha256": "d3530deab318cb493d69c3a77e3dc48b15ec8c9471d43de83947772d40366918",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-1006-1991-sapl-2227.md",
+      "sha256": "344f6b1dfd173a18ae695affa16fb7283e439c1e554a6cc91e2ea6ba6457d3c1",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1965/leis-ordinarias-210-1965-sapl-1259.md",
+      "sha256": "1a705bf8605b1b1ae634d9791b3c1b9c967a3b18e895b00cc88a7f33970d86a0",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-1005-1991-sapl-2226.md",
+      "sha256": "49f191e1cca62498b2cbd06e02910f5e4003446b895ea7ad933c2c7ab44d2d2a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-1002-1991-sapl-2223.md",
+      "sha256": "e43932d777daae3bbb0917b6eed87b60b6d1e67fc1e4ecc9ff2aaf9802dd6eb4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1965/leis-ordinarias-208-1965-sapl-1257.md",
+      "sha256": "12b022cc45e895d6768097b57013bbd7be2a6f00ac8a395a00933559345f8ec8",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-1001-1991-sapl-2222.md",
+      "sha256": "37397d22522911111c3bdb5637ee404006af192be3cd36e747bcbbeb00dacfe6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-1000-1991-sapl-2221.md",
+      "sha256": "0fb5ad99de52ca5bd579979a00bdcc177ad96560b0debb6d7d6f5cc3f83aee01",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1964/leis-ordinarias-204-1964-sapl-1253.md",
+      "sha256": "f982b6a3f52b15b7c4e3b771125046635fbd91969b8e17e0bb733cd087759e31",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-998-1991-sapl-2243.md",
+      "sha256": "540c1fb79728fde06bc769966012b4d33a698db9d1a638b017539ed201f8f3f9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-995-1991-sapl-2217.md",
+      "sha256": "5d007681f9e490b6e3fd85dffac6d80ba1b5ded427853ebed41ba89bf88286b3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1964/leis-ordinarias-201-1964-sapl-1250.md",
+      "sha256": "db3bdb200cbd99882c312ed2d1b14ac04bc3d5df968792e9139fa4ca665b8da0",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-993-1991-sapl-2215.md",
+      "sha256": "0e27f7b1d2d0dce66a1fb9cd818b61fa73a8592386cff7d3b93c050a70916e22",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-991-1991-sapl-2213.md",
+      "sha256": "83f459a633736907ee92c3123b3e5f0ccdb73533ad389a15dea57666c5a34c82",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-989-1991-sapl-2211.md",
+      "sha256": "2455ca15babff99f6e78cc340e05b171034935ee587783268664276eff989ce7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1963/leis-ordinarias-194-1963-sapl-1243.md",
+      "sha256": "44f7d0faf346d209a35e0267dccd8f8f0c71e5c8b13befe27966c69849421be7",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1963/leis-ordinarias-193-1963-sapl-1242.md",
+      "sha256": "8532ae1ab19e462b05a40e5c86194b7404c69dd2931b37ef384ff8d921d10b7f",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1963/leis-ordinarias-191-1963-sapl-1240.md",
+      "sha256": "72183949b6a1413a0a60227ec5c56bb7bd5df0c4b3012fc366ecc45acb535479",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-978-1991-sapl-2235.md",
+      "sha256": "db755feb346c5e07bfae043747373c292e7a5f32387d37169c49694f24525b08",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-977-1991-sapl-2234.md",
+      "sha256": "3b6ac731927d1bc546a783459a3a22f86db3f4078f2ad6554fed8e9fcdf2b42e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1963/leis-ordinarias-185-1963-sapl-1234.md",
+      "sha256": "d8799d500b9af4d2629851d613eb5588544713c7967bbee52ca82fb7368b513d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1963/leis-ordinarias-180-1963-sapl-1229.md",
+      "sha256": "6c78d6d16e42bdff93c6416df92eedeb3637d957d8093803eb8bc6cc4582861f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1963/leis-ordinarias-179-1963-sapl-1228.md",
+      "sha256": "13dabe32806f38ba484ebe2fee82eff0273fb17018be607f5229e914b1c578ac",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-973-1991-sapl-2230.md",
+      "sha256": "06a4ae997cfd38117e17bcb9afd8820ddf87c647deb23bc48a6ee9a533dfa795",
+      "esfera_federacao_api": "M",
+      "alertas": [
+        {
+          "municipio_declarado": "Porto Velho",
+          "municipio_no_cabecalho_normalizado": "porto",
+          "offset": 280,
+          "trecho": "ere o inciso IV do art. 87 da Lei Orgânica do Município de Porto Velho,\n\nFAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VE LHO aprovou e eu sanciono a seguinte\n\nL E I :\n\n\nArt. 1º.\n\nFica o Executivo Municipal autorizado a regularizar as áreas de terras da Centrais Elétricas de Rondônia (CERON) "
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1963/leis-ordinarias-176-1963-sapl-1225.md",
+      "sha256": "abb190f9b10cf011b45d9b2a272f49d44eee8432b3cdf588a128d1e4cef8d2c8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-969-1991-sapl-2253.md",
+      "sha256": "876376a4cc50ecab28f57d1dadc6afaa14002765224462dc2f13a94815edd783",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-967-1991-sapl-2254.md",
+      "sha256": "7281337f4edad47ea1c3bc1b919307b42a4e97d9a6436dd300a7ac971c011c47",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-965-1991-sapl-2256.md",
+      "sha256": "8d30ff58920d97f241201a17bda08dc83c162cb7adc7e3b52162baffc41d6a46",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-963-1991-sapl-2258.md",
+      "sha256": "9823c78f018bb87320a7f733fc01780c0a32ad5be4f2cb80ad94afc4137d4f0d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1963/leis-ordinarias-172-1963-sapl-1221.md",
+      "sha256": "9a32f46868fb5cc805ae7acda1329170a35fb14347c119fe6cc2a16861e05bb1",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1963/leis-ordinarias-171-1963-sapl-1220.md",
+      "sha256": "6635d8d27a4c1396a4dcc7d04df9611a35aec5a16a031c10f6cb3f5d57b10661",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-959-1991-sapl-2262.md",
+      "sha256": "28fd52ab0ed94dcbc2b62b11ea0407b18180e209a37bb32cdb40929a0ecba028",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-958-1991-sapl-2263.md",
+      "sha256": "a650dc630a6576c75765b20dff17a9861803771e2dde3afaf50f7918a5d1e92c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-955-1991-sapl-2266.md",
+      "sha256": "37c9d3b6f5ba69ae8d51d82139fc7ff1766b1ab7d2ed6d5bb8fdcd17301d97fc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/resolucoes/1962/resolucoes-2-1962-sapl-1788.md",
+      "sha256": "505995c8a9dc44a5d8d8839b7dc87b93e5688164a07dc94eb68fc8fa163750ad",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-954-1991-sapl-2267.md",
+      "sha256": "9379598196feb2fc6607a83222dd240f7c77ada5a02798c68258314b221d8866",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/resolucoes/1962/resolucoes-1-1962-sapl-1789.md",
+      "sha256": "af738b14563f4fd6e0fd33ccd6c2fc3e849a501ac95aa905f4f8e513e97d7a08",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-950-1991-sapl-2271.md",
+      "sha256": "4abaa83207bdcf6712e702720258811fbadc51dfd1a3aafaa9f29db2d232ebee",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-949-1991-sapl-2272.md",
+      "sha256": "284d3b918ac29350e643796e827ae64edd48daf174c27a5c5449246a3501d494",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-948-1991-sapl-2273.md",
+      "sha256": "5b250413ac1723d22b020501de554f3e46a11e11a177b8ab2544115395667f80",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-945-1991-sapl-2276.md",
+      "sha256": "b864c99526b3aa18bfed39075437e3d55c070fedfbad419468b5cc6deea6223c",
+      "esfera_federacao_api": "M",
+      "alertas": [
+        {
+          "municipio_declarado": "Porto Velho",
+          "municipio_no_cabecalho_normalizado": "porto",
+          "offset": 269,
+          "trecho": "o inciso XXVII, do art. 87 da Lei Orgânica do Município de Porto Velho,\n\nFAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VE LHO aprovou e eu sanciono a seguinte\n\nL E I :\n\n\nArt. 1º.\n\nO inciso I, do art. 4°, da Lei nº 917, de 14 de novembro de 1990, passa a ter a seguinte redação :\n\n\nArt. 2º.\n\nEs"
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1962/leis-ordinarias-160-1962-sapl-1331.md",
+      "sha256": "ab35587c12b29640e4ff0633deace79f7096d48307e80874ec2fb77e535bc041",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-944-1991-sapl-2277.md",
+      "sha256": "8ef5d86d4e1735f233bad1544d42707996d0e109f337d2cd5e9a3c7647693d65",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1962/leis-ordinarias-158-1962-sapl-1329.md",
+      "sha256": "1923b1e6645bbcccc8b54e724d28e2562e3de68be81c653c7cbba4d4d5d01052",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-946-1991-sapl-2275.md",
+      "sha256": "283c6b4cabbb9fc768b864cfc8d12a63f0e596454f7adbaac71898a2b36d07d3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1962/leis-ordinarias-154-1962-sapl-1325.md",
+      "sha256": "85500e435cf85f288377ebecc49cfa60d2f55e98a247b4d3d8df2cd73786800c",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1962/leis-ordinarias-153-1962-sapl-1324.md",
+      "sha256": "310c9246e7fd40cdc51eb76cf0fa232089d86bfbb117249d78c92776dece3ee2",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1962/leis-ordinarias-151-1962-sapl-1322.md",
+      "sha256": "bb2b650aec9aeae880032a7e02b8d3b32ff15e3b1d6ef75878bacf599783c60e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1962/leis-ordinarias-150-1962-sapl-1321.md",
+      "sha256": "a989fbd2ace2c7a0f63a1fa5301a1fc8bbb16f1ff528981d48c11df00eb91f89",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1961/leis-ordinarias-147-1961-sapl-1318.md",
+      "sha256": "f5f3e6d86bb99247a71a8057db39126033e7997c5b6f2b50c3fed9a5172cea8f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1991/leis-ordinarias-942-1991-sapl-2279.md",
+      "sha256": "b56119a254e0547cd3144c9b746f2cebbeb725123fb2d40093a93d505169a317",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1961/leis-ordinarias-145-1961-sapl-1316.md",
+      "sha256": "208b95aa0ed5d83fb4f230a8918c831e28f3525de0ab85d22fd7eca165f469a7",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-929-1990-sapl-4508.md",
+      "sha256": "c2d5d1250b848d51a54cf5d0257a2fee145a4f08dbfe3c4403bd57022e0f2703",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-928-1990-sapl-2291.md",
+      "sha256": "29e0e80d2db1f2faebfced72ca79b65f26f53c32d4a6bdce51aabb40d60c4d2c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-927-1990-sapl-2292.md",
+      "sha256": "97c75af528929ce40b2e53951a2cfe2f31fd733592b33393ceb1aad9c9836a8f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-926-1990-sapl-2293.md",
+      "sha256": "7b6bc9c18034cfcc035d5081a17930323db0188c7cbe0c41e0b86f774afd84bd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1961/leis-ordinarias-137-1961-sapl-1308.md",
+      "sha256": "e039a8445630f86f0adb8a7bc46189521ee2ace3bdac3e1cb8d9772673b3ea8a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1961/leis-ordinarias-132-1961-sapl-1303.md",
+      "sha256": "c641c50943a1c335913dd4d55e556ade144e6c4756b696d40031e1ec244c865a",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1961/leis-ordinarias-131-1961-sapl-1302.md",
+      "sha256": "8dc70e16429b5f242676479db4e104da4d657f4640144c37269b8fdb5cdbb562",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-920-1990-sapl-2299.md",
+      "sha256": "4acc7cedbf397f26367f9d9cfdc7070e6070402582054a5f9c3e17f42e885e27",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1961/leis-ordinarias-128-1961-sapl-1299.md",
+      "sha256": "4c2dca07d6dd0c7d6e80b82dd089b7efdab90254216764cdec88709d9fd5391b",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-916-1990-sapl-4507.md",
+      "sha256": "3afbd5e37cc3b2b80d44c6e0045bd90be0b58c6689bd754dd7a1e20a30219fcb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1961/leis-ordinarias-127-1961-sapl-1298.md",
+      "sha256": "8c9ebf1fbf49a4cb2247399c08cdb8511b2fa0c8849fb552487ac00a270db37d",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-915-1990-sapl-4506.md",
+      "sha256": "29737a515a425d021d427df617201ea0d771822c70fab5338384b11cf9109e4e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1961/leis-ordinarias-126-1961-sapl-1297.md",
+      "sha256": "c535d268c1ca2a6b91358e0432cbebdc6d35f291a44d635fd9a344809da84f7c",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1961/leis-ordinarias-125-1961-sapl-1296.md",
+      "sha256": "677798e29f83ca5111eee381404e081dcb7a95e41574541b19f162f7b7dae31c",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-913-1990-sapl-4504.md",
+      "sha256": "8a665ef4b8197b9f28432954b4094100f4daa936d70cc75277336a10a898acb8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1961/leis-ordinarias-123-1961-sapl-1294.md",
+      "sha256": "0bdf9948506745883e42f87360d1f110bd711385847b2b085844fbd253ce14c8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-911-1990-sapl-2336.md",
+      "sha256": "6d4aec6918f4af874d6f2de79ca45b2262ebc4f8e769a374e12afcdbf976160e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1961/leis-ordinarias-122-1961-sapl-1293.md",
+      "sha256": "75a2d3071a24d793bdffce2e3fd2a0dd61978423459989a6299a2d8545d68b22",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-910-1990-sapl-2335.md",
+      "sha256": "f7b1a769635fce455e5c616b0f37384848b08305f5aef0ac8e6489eae9fbc3cd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1961/leis-ordinarias-120-1961-sapl-1291.md",
+      "sha256": "fffa4ccbd6d53b4af2722356df0a3365e50f0c5017c027f213f8bd045bd37368",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-908-1990-sapl-2333.md",
+      "sha256": "e59bd5dac58488c7b1e4f3b5b89fb328ca1cf446129a3c37b80f03b4f1c83bcf",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-907-1990-sapl-2332.md",
+      "sha256": "ab0809081b4e7b470c52cee5d3bced60c80e79094483bc4f1a6c44f09d2fc7fb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-906-1990-sapl-2345.md",
+      "sha256": "1884b8c8f0e2bcc719a864fbb3b4106871971989923cc1fe1aea0b6d64f3cd8b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-905-1990-sapl-2360.md",
+      "sha256": "1a511519e2cd313aba85a286db0410b3c4d5784ce71a4bff6297b7900b6cfaa3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-909-1990-sapl-2334.md",
+      "sha256": "578aaf678f8d53a1c9e3d1704bee510debc20885af20e7a4c223a43aa82a1f76",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-903-1990-sapl-2343.md",
+      "sha256": "e751a68af188b92b49a0d360a989c5e92115c985b63feac96733b5d357c2eb87",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-902-1990-sapl-2342.md",
+      "sha256": "0c48abf91465ac27b2b3334c5493f5200f3dcec9597330cffeb9d120acc6bc9a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-899-1990-sapl-2339.md",
+      "sha256": "cb598c04821d5414bcc5b3bc51ce99605a9bf10454ce420464859e687afd0e4a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1960/leis-ordinarias-108-1960-sapl-1369.md",
+      "sha256": "bb96a1933be34a2c4b6945b6c3f4c581d8ca1866fff588ef3a61a23855a14da4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-898-1990-sapl-4502.md",
+      "sha256": "26310c70060b34ef772541b62009ededeb449c23932e42df594ee60502b3999d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1960/leis-ordinarias-107-1960-sapl-1368.md",
+      "sha256": "140b9f0cca30111939e5f9e0dbd689cafa303efccbbeea14c80524cc0db3ddbf",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-897-1990-sapl-2338.md",
+      "sha256": "336fbc118f414087cb5ba06176261c14a0dc8f18d68ced71debee49bdac5f410",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1960/leis-ordinarias-105-1960-sapl-1366.md",
+      "sha256": "270af9f73a0b1a759678a7e72990232dd252e727056574d6cce62ae1dc5fc3b2",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1960/leis-ordinarias-103-1960-sapl-1364.md",
+      "sha256": "0f892e0f2616fed74af261f2ec7d6bc151c008f191d7d898872b0f91df27c4e7",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-893-1990-sapl-5226.md",
+      "sha256": "f0063f6063008703a460d8fd59e4ff8356ad1fced88b4cf470c4a58771d2b0f8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-892-1990-sapl-5225.md",
+      "sha256": "c1bc669f3f9ebb400b947a2f7fd43960d1bb3a62d08ffcafa16da3c2c15c9972",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-890-1990-sapl-5223.md",
+      "sha256": "a663d3a21bfa5620a35374611f28cc253b13dc897940f7f2b07b7799f5e7cfe9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1960/leis-ordinarias-95-1960-sapl-1356.md",
+      "sha256": "80fb870c8568a0c66892891a1d253a27bbd013543c2fe08fc4cd7f444973e09f",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1960/leis-ordinarias-94-1960-sapl-1355.md",
+      "sha256": "6617ce128ae96833ff0c15058f0d1806c0e85be1f3b0f008033fd5086bab1a7e",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-888-1990-sapl-2366.md",
+      "sha256": "581575fad43dddbc909b69944cfdd1d35e6a3712ff8353ce92316da26f6b4279",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1960/leis-ordinarias-93-1960-sapl-1354.md",
+      "sha256": "4aa5b723ac26b9b8af7b0f6a82c7cbcb8cb15dfcaac57e9a31e9a7d9c2cbc6af",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-887-1990-sapl-2365.md",
+      "sha256": "2334b1dd560a3c82c39e93332d79b449e6446a0fd0a145a325e239feb2f11a69",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1960/leis-ordinarias-92-1960-sapl-1353.md",
+      "sha256": "a7f7900de547b156d564b07500da7f0cff61d3fb4c763bc16bd9763c2bdc917c",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-886-1990-sapl-2364.md",
+      "sha256": "40fa02541144c20f050338a9294aca863e7b2ecb4dd3710630946631342309a8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1960/leis-ordinarias-91-1960-sapl-1352.md",
+      "sha256": "286b79741d644d13ef0b34fa344a682e0bb09f45cca53448c05bde122ea104e0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-884-1990-sapl-2362.md",
+      "sha256": "842e6c2b4672f5971b26c216d2b935905e3f79dc11704a74f8f3c110474de873",
+      "esfera_federacao_api": "M",
+      "alertas": [
+        {
+          "municipio_declarado": "Porto Velho",
+          "municipio_no_cabecalho_normalizado": "porto",
+          "offset": 239,
+          "trecho": "o Inciso IV do art. 87 da Lei Orgânica do Município de Porto Velho,  \n  \nFAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VE LHO, aprovou e eu sanciono a seguinte  \n  \nLEI:\n\n\nArt. 1º.\n\nO art. 1º da Lei Municipal nº 849 , de 28 de novembro de 1989, passa a ter a seguinte redação:\n\n\nArt. 2º.\n\nEsta"
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-882-1990-sapl-3010.md",
+      "sha256": "e9bf37ea0a4418cf0b34cd784871fa0eb9e18cf2d8618c6497b2f57f7e6db224",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-879-1990-sapl-3012.md",
+      "sha256": "7cf1c362f73bd6af54dced8c65a0692700879dfe34c320421baad92e0890e36e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-878-1990-sapl-3013.md",
+      "sha256": "d35867f3b47e48b030fbc4917c486546187efb8db6405aeb4f322a5e13085397",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1959/leis-ordinarias-81-1959-sapl-1421.md",
+      "sha256": "3f21d5b5cf9cd558db06834d9b8343d393e43fdd447e6bf41423f69d40a8f58e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1959/leis-ordinarias-80-1959-sapl-1420.md",
+      "sha256": "2941780b14232ab0088e86bb5244370a51caefc271fbc414be648e72f6c5d7e0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1959/leis-ordinarias-79-1959-sapl-1419.md",
+      "sha256": "ac1de229c66c282f832c581e81a5ec68b0ef040b006d41d16d8f3d1e9a0e90e5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-872-1990-sapl-3024.md",
+      "sha256": "3aec28525391f3633d71108d72f996e2efd31e611ea4d4a5f0230fc9995214f4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1959/leis-ordinarias-78-1959-sapl-1418.md",
+      "sha256": "939501279209f2f92f54b287c517d4ad78647afebf8b2f53cdc1aa140c6b9709",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1990/leis-ordinarias-871-1990-sapl-3025.md",
+      "sha256": "4b421bfe487e58c4f293335eb2c729b214ef811ed05daa16292869139ced07fa",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1959/leis-ordinarias-77-1959-sapl-1417.md",
+      "sha256": "c8bd663c9a64c037190c2ec75fafbab0e472ac1203e72b55821333295d9f045b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-869-1989-sapl-3068.md",
+      "sha256": "f4f4e5651415a133abebe2e22608f0da12d2acdd9415b0e06807ae98171f56c4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1959/leis-ordinarias-75-1959-sapl-1415.md",
+      "sha256": "d36fb19bf25ab97d78345ea32ec62d5d5f96ac179489c5a835eaba821a048721",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-864-1989-sapl-3062.md",
+      "sha256": "cb56cac662989d76da71a4467a914a0fe80ce624454085f201ba7d08dbe3922d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-861-1989-sapl-3060.md",
+      "sha256": "48d2f5c4ac53d9dfa7c2ec0c0a1e2418e6a31fa39a5362f8889ab3852aee91ae",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-860-1989-sapl-3059.md",
+      "sha256": "6df6931fb43c671a633fb288496b8a8cc331bad422d29febd3af426059c4087a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-859-1989-sapl-3058.md",
+      "sha256": "248e12aa4c9b37322cc580c5f640683676d5b20fe6bece5028164388ff83edef",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1959/leis-ordinarias-67-1959-sapl-1407.md",
+      "sha256": "76d66e9bb297b697b219036d77f7e669c9d7061699feb57ed62f939804ddba87",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-858-1989-sapl-3057.md",
+      "sha256": "43f20fe4908a0fb562bfa0644df2df35b7f6eaf0f45b422c64ed0dd587bb11e0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-857-1989-sapl-3056.md",
+      "sha256": "732e5ec0c4cc8c62e2db1794fb4f9ec4ed11a1a0b17caa0f0ac6d2ed2ab87ac2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-855-1989-sapl-3055.md",
+      "sha256": "4a424d03bc406723602eeb4f2070099d1995ab96aa454ae87e50d208b3f2d3f8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-854-1989-sapl-3054.md",
+      "sha256": "1602b8cc464e9831bcddc2b4d6fff5aadcf0be8f68ea8cc690241bad021b5942",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-852-1989-sapl-3069.md",
+      "sha256": "f56ad34c0a04598c3576cd77797513aa28e3821779ce253a25cb545ace09516a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-850-1989-sapl-3052.md",
+      "sha256": "9ebb365f069258ee0e7191109506484fe5ba41caced2aa58cc1b9a11f0a84b7b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1959/leis-ordinarias-59-1959-sapl-1399.md",
+      "sha256": "b1dccbab400f854121ed09340b2c23b1bbd58de459fd0b5e0875ed7d5461d5ba",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1959/leis-ordinarias-58-1959-sapl-1398.md",
+      "sha256": "54e06007008a7e1afd9bad14c9c96afc6bca589093d976fc5e32dc9c9d2ea661",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1959/leis-ordinarias-57-1959-sapl-1397.md",
+      "sha256": "601c83ab6b380747bb2f3d93cbf167206678e00b603dc6480d3cf628fa36fc6e",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-846-1989-sapl-3034.md",
+      "sha256": "ef502d2424e364224acffdd88d762a2c682292f37fcca1d360192979f2a02b53",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1959/leis-ordinarias-56-1959-sapl-1396.md",
+      "sha256": "6848335787ab6508740d24725aa55a4cc8b43e728e788e6ffebaa5b782f430c1",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-844-1989-sapl-3036.md",
+      "sha256": "9dcbc518f11aa2e978fa344a95ef558eca3ba0f2ec8d58c8ee454d0c0d4fe19a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1959/leis-ordinarias-54-1959-sapl-1394.md",
+      "sha256": "3961155cc60ee10b1b264d34d8815ca19f3b0b561fccd58686a67c7bb91ab32c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-843-1989-sapl-3037.md",
+      "sha256": "ab7b1462bd1012e240b9f52d2fb8638e4e91e2c9ff1726be82aaab4287a0a0d7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-841-1989-sapl-3071.md",
+      "sha256": "395b0f8386fe06f14c8f89cbb13d2535852db494466eb26d47ccacb4a391f864",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1959/leis-ordinarias-11-1959-sapl-1391.md",
+      "sha256": "9d78e936ee06f65d1bdc7935df67da07adce4dd786765c30b8a0f2823d044191",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1959/leis-ordinarias-10-1959-sapl-1390.md",
+      "sha256": "78ce1ed6c0dacc15b1e0dd938da1a4406ae789b53e95d8820e5fd1684ecbdeb8",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-838-1989-sapl-3112.md",
+      "sha256": "8e2d17fa907ddc32f5fe4cd6c69561d52bf237006422fa31e9f1c36bd61a7747",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1959/leis-ordinarias-8-1959-sapl-1388.md",
+      "sha256": "2cfe727f0569d0c64af89342c61d5d824b3b797c8ac41f531d21f06ed24256d7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1959/leis-ordinarias-7-1959-sapl-1387.md",
+      "sha256": "c7484a667d42d296e7b687868530e7fb332a96fddd9e75dc7e23ad29ae397715",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-836-1989-sapl-3114.md",
+      "sha256": "22d9ee0f318d2b0b432ee899f943cd9e7ade98d6a029b4527c2271b41ebba436",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-835-1989-sapl-3115.md",
+      "sha256": "7004d6be5254cdd37d720a5f154e8394170b92af0eb549294c6270ed6fe31541",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1959/leis-ordinarias-4-1959-sapl-1384.md",
+      "sha256": "f35789840dc23fc468203fe8b71959633df4bcda065921864d038835c4f26d63",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-833-1989-sapl-3117.md",
+      "sha256": "ac250a5f703fd437f7e5976b1ff5dd354fc9a4c8adfad8537bbd3fe7e73ab8f2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-829-1989-sapl-3121.md",
+      "sha256": "214f980d477a4c9f7e735e0a3aee419fc8e51733444162b487510463704d27d9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RS/agudo/leis-ordinarias/1959/leis-ordinarias-1-1959-sapl-1381.md",
+      "sha256": "8a8525b9c7d0755ad9b06a71b1f17e373ce1fe008071ff703d4c40cd39a1fb38",
+      "esfera_federacao_api": "",
+      "alertas": [
+        {
+          "regra": "esfera_oficial_nao_municipal",
+          "valor": ""
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-831-1989-sapl-3119.md",
+      "sha256": "dfc18bda304a775d98fdbc92956ad021656ce0b3f45220e78093cc42f4073e52",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-830-1989-sapl-3120.md",
+      "sha256": "4935ed142f76edc6cf941353f0bff6e38ab3392145323618655843cb53865fbd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-824-1989-sapl-3127.md",
+      "sha256": "49d395ed9fb8d39be3e5d77db038b935056e3019829897c440728548333a55ba",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-825-1989-sapl-3126.md",
+      "sha256": "b0973486fb79d9b19216a44c449ff42b7e7c188f84995e8cd36d29c5a2e8ea07",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-819-1989-sapl-3132.md",
+      "sha256": "758269a7a6d2e2f7da4705b07882e21a47e80b8a9dc588a92c9308bb453dae56",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-818-1989-sapl-3133.md",
+      "sha256": "02169c85eb0f920ab6d775fb0503570bdfd229bfc201570b751fba926b02957e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-817-1989-sapl-3134.md",
+      "sha256": "e254783629d0310c38205feaeb578c94c7d3286a0585fd5ad11e0d4357500f91",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-816-1989-sapl-3135.md",
+      "sha256": "40e1ec5ddef57b4c2e1ee1be16e731e82ffa848e17c35122884f56ef49b03abc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-815-1989-sapl-3136.md",
+      "sha256": "cc28a1ec1a76d267a2750a192d2d88f41f44b2a0a0ff26696616a997e59daa5d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-814-1989-sapl-3137.md",
+      "sha256": "5f5ffb58f059883410ef2f3482fbfd6d4a5b2621d993ec097e4c01bbff6b6414",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-813-1989-sapl-3138.md",
+      "sha256": "399632d82abebb71e7e1ca0eb5b5163dd6fbe6890ec4e3bdb35809d77f2521df",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-810-1989-sapl-3141.md",
+      "sha256": "c57b069277ef84374d9354a9f7c8ecb6551328113a007cd219f518c258b9b6ab",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-809-1989-sapl-3142.md",
+      "sha256": "0698a0fcb242775ccdfaeec47106b7c08732150978408d823819cf83c413dc13",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-808-1989-sapl-3143.md",
+      "sha256": "800ef61223bad284a7ebca288f04200f59492dc851847dbf6d00e2cda3315c72",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-807-1989-sapl-3144.md",
+      "sha256": "fec56c4dc1315875212983769dd39a1314225635e8eb05b2f8faacaffc25f715",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-805-1989-sapl-3146.md",
+      "sha256": "0a3325bb484e78f59945c0e0c351fb59697eb8f53879f1dfb70ca42bf004f696",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-804-1989-sapl-3147.md",
+      "sha256": "b4b671f8eac8030a10907e60453104dfb09a108bb1b9102eb3fd9eb41406f202",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-802-1989-sapl-3149.md",
+      "sha256": "9e06f8e4de9906d958a256b3ef8d4f0745733654685f1daee6678da18f9aa18a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-801-1989-sapl-3150.md",
+      "sha256": "f79afe28b3270e31e51090b7a7842a49a08cd4d44a45eb81e3bf087c474bc35c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-800-1989-sapl-3243.md",
+      "sha256": "1a7017827b98b46949b1d7d007d1dd10a981af6b15f88fd45fd52b55bfc5a83f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-799-1989-sapl-3244.md",
+      "sha256": "9c709a670314d0bfc9594ccfc041064e0f859e017238f3657ce80a2bc369b7b6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-797-1989-sapl-3246.md",
+      "sha256": "1fd58d06a841bb3fcece8c801fc2dea5d97915c864911a28d32bdaee8fc00842",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-792-1989-sapl-3251.md",
+      "sha256": "e12c606c2864752e18b9abdab45651e91f07ae08c09f88dea6f494416acb850b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-791-1989-sapl-3252.md",
+      "sha256": "22504bc2ce4d44672e84ff77533be14d96c3440b3f620c3aaea8e426956d3352",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-790-1989-sapl-3253.md",
+      "sha256": "ab884952afd277044ed7485e8c1e7a267739611534a5e50bc4feea2ed0411b2a",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-789-1989-sapl-3254.md",
+      "sha256": "e8e3e2166c1a24551c09334f6ad86e61aee31c9e97c4de10fbfb7ffaec9c0fe9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-788-1989-sapl-3255.md",
+      "sha256": "f5ca086e6d79459451c867ca675f3ee1519ec71e0fd3863e53f209d40c95f8f9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1989/leis-ordinarias-787-1989-sapl-3256.md",
+      "sha256": "6158c2ead24de05d545ce6c71014ea0642e93a0ade5f316422c2ac909fe0018f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-784-1988-sapl-3259.md",
+      "sha256": "d0dea6e19c7e337c30dfee9cdfc61277bf2de34c1dd4d0dc24cb9c59c5cbdd8d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-783-1988-sapl-3260.md",
+      "sha256": "eddc4a058e43ca2a9fcd1636dca49ef2647580357907a6c3d82ed8665a697241",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-782-1988-sapl-3261.md",
+      "sha256": "c95c38e515bf3873299e7c473478643c05d64cdcdbc006291565c3f9e55db831",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-781-1988-sapl-3262.md",
+      "sha256": "b480ab1e8374a0418581826902d3a5238dea78adde62568710ad11e9e4ba4705",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-780-1988-sapl-3263.md",
+      "sha256": "4ec0190dafb2ed87f51e78ab062f4b56ccedb41b522421f0cb3e12d5f314872d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-777-1988-sapl-3266.md",
+      "sha256": "30a03e3dc602ec2d139b9d34c76a4fba98ddf5098f984ebc49ef64e38386e95f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-775-1988-sapl-3268.md",
+      "sha256": "55dbfdbb430c3e9182c4cababf66e80f0e1a17787b0836d82ef8f73a9c67f763",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-774-1988-sapl-3269.md",
+      "sha256": "92771684a72c86fc27217290441b522eac060e324f12a4dc742d659705f7b245",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-773-1988-sapl-3270.md",
+      "sha256": "729f4539266a7090196a17ca1b30a36a6b2a0096068ed9aceda2c29c2389b523",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-771-1988-sapl-3272.md",
+      "sha256": "d69931ee1a25d69cf1c349b1ca4c257defed481efef8bdbe5818c943d2c06f52",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-768-1988-sapl-3275.md",
+      "sha256": "17e2cc0f7255fb2f08a2c8f9352e34522ec37ffb2cf6a3f48bd1295aa96863c7",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-767-1988-sapl-3276.md",
+      "sha256": "f76b2eb5a916ea0d3c0005b042cfeb4a4b5fc30a5c386e47ceb85ce021e65bb0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-766-1988-sapl-3277.md",
+      "sha256": "bcac290cb58f3d861396f51413f428a3e6f2cf320062cd5678d0660cb8d73cdb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-765-1988-sapl-3278.md",
+      "sha256": "47cf5520ea261de9d2ef072974b919cac33b0c46b8b0a33ee70c3f21c3381b24",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-761-1988-sapl-3282.md",
+      "sha256": "e2b6909debcca6a3202176067fc9b4bc388e190cec2e09cf777e185ece6bd07c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-760-1988-sapl-3283.md",
+      "sha256": "edb3c36f9b15b3c5b3d9c3307a0bb5e17c5a42ff28c9d79339a323e0028a0acb",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-759-1988-sapl-3284.md",
+      "sha256": "7118340be77650f3dba481d52fa1ee4c90bc29cda517aca45ca1e1b3484c1195",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-757-1988-sapl-3286.md",
+      "sha256": "5a3839bf615519b39795fed03598f5dec970900bcbdcb565dbec8b61fdbb12a4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-756-1988-sapl-3287.md",
+      "sha256": "2f6725ab0d51f70619c27db2ccc14c53dfbe764b150d1f51a0d5aed4ed0bf9b0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-755-1988-sapl-3288.md",
+      "sha256": "aa099ecc941ad1fd49e66ddaae8b2c2d147f559c07dd8fe2ba6a09fa533581c6",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-753-1988-sapl-3308.md",
+      "sha256": "a1b0417061ecf39249314e9ddaaabc4906a0142da96009f9a9b26e247d729344",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-752-1988-sapl-3309.md",
+      "sha256": "fec424dc7408ebbfc66ff2c06f8a5c295996378d23b3dc55d1cedf065910c6dd",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-750-1988-sapl-3311.md",
+      "sha256": "23c504597d63ab296e3c4590d0e18e88ceb3458751dfd9ae2518e6486b8452ba",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-749-1988-sapl-3312.md",
+      "sha256": "b68d849f08a839a714bc3a63437f368a76b37151b53e7cb68edfd58f54445b79",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-748-1988-sapl-3313.md",
+      "sha256": "9dcc9c950f6639d6e3a4929f415bf7297bc429be0c883813fa8c123027967074",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-745-1988-sapl-3316.md",
+      "sha256": "9c695cb03b902c81bd927a6ff2111ed3763e862bbd742efc70f908de9cba6219",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-744-1988-sapl-3317.md",
+      "sha256": "bd779ec3393f4639cb9d8cc3e29cafa4c3365b9a66bd2f2dc53684acd99c8ec9",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-743-1988-sapl-3318.md",
+      "sha256": "a989ac6ed14b7367463ca0153216124b81ed54eb252960b23b6996ad735209ba",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-742-1988-sapl-3319.md",
+      "sha256": "878ad5f956a7dc4f9d8eb467786013bd718a19c89f2e0ad2da35ffe8d875b44e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-741-1988-sapl-3320.md",
+      "sha256": "87674188fe45b036ba8f28c54d8057dd620c37c432b036c0dceb91dd7b0e1064",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-740-1988-sapl-3321.md",
+      "sha256": "b45238e22c4ed7968777e911d7a783d221dd599a0149067c03931673e2faa550",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-739-1988-sapl-3322.md",
+      "sha256": "4922171be287bc8f1536719f60ac9778d11301d4f78f9e359b423413d4a6cc72",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-738-1988-sapl-3323.md",
+      "sha256": "de6412e9251e0f23b62df3ea38d9031b243e78ede1f37cbdaefc23d02684846e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-737-1988-sapl-3324.md",
+      "sha256": "b1d034b944896d7c9a12635f3eb107b46d4117151b32ea4d6107ff31520e25ef",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-736-1988-sapl-3325.md",
+      "sha256": "94c2c0711a264a88c0cd936d465614c3297b82b866dbfe18a93c50557bd9a142",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-735-1988-sapl-3326.md",
+      "sha256": "f65824f471ef63564565fa0ab18290d41b61c0685c97be93acb4001d6a8ee417",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-733-1988-sapl-3328.md",
+      "sha256": "a805edfa543b5765a5e3d366385799e3909a796060f923d93634b8d865f52cf0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-732-1988-sapl-3329.md",
+      "sha256": "a99c0285e67d9293dabe96225bb2428896514fb0e49962ca8b6299f42368af8e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-731-1988-sapl-3330.md",
+      "sha256": "43f1baf0d3840d46c1a62b81b4b063de2b04a763787272dc80ccb7aef90adfcc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-730-1988-sapl-3331.md",
+      "sha256": "e02acf03ca07c7d059f30bcc5b9b9a71e4bdff0fe36a963ad982f461a2d2fd8f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-729-1988-sapl-3332.md",
+      "sha256": "c9d0ea4daddcc4c9c5b6058367af46f6fc108ee4fa148d87b9b001c88915512f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-728-1988-sapl-3333.md",
+      "sha256": "fdb5e8fcf488e2d2bfbe5a17fdafcc2a1176574042330d2af9d31ea412e8029b",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-727-1988-sapl-3334.md",
+      "sha256": "e17a39d46922ee546813420013f3160a9658ea3f59e12f203f02391ea3a18cea",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-726-1988-sapl-3335.md",
+      "sha256": "36e490dfcbe3e2cd1e08a3c91e09683610743a5d4e033168e7d3fc06c8187ebe",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1988/leis-ordinarias-725-1988-sapl-3336.md",
+      "sha256": "242fa5862043ba5760bf12bdc8a964f3d81b3107b0dafc51a09a9152f15d034f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-722-1987-sapl-3350.md",
+      "sha256": "106333d779b3e4e1ad53447dcbde4f15d6b3d2b9299afbc7b4e40f0f26d5d541",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-716-1987-sapl-3356.md",
+      "sha256": "420df37167c70390899586057bad0dd30b26c68f31569bc9123c91ae9203e524",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-715-1987-sapl-3357.md",
+      "sha256": "f242bbcf17cd1c0e269c54b796cc9a57d61b1a714776f833e228ce31cf3154d5",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-714-1987-sapl-3358.md",
+      "sha256": "34f1bf04cd4aa2a6367f0c9624a08019d816e4a32f9db8f9db1407273ecb04c4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-712-1987-sapl-3360.md",
+      "sha256": "193b13de334ecec573ecb24ec9a8bc767ce216d4a30e53918f3fdf08e33b38a2",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-710-1987-sapl-3362.md",
+      "sha256": "8ae664f47aee09a53f64f2cf333dd0239a5f9b290a5e564ee7750d505c152720",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-705-1987-sapl-3610.md",
+      "sha256": "6271eebcdf3c983b9940237f44dc93a99689841eaa5a996943afea072cf63831",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-704-1987-sapl-3611.md",
+      "sha256": "183a03f8152eaae3e3e300e710a7a2537e548cb4b9a5f08fb25d31b0c3bb1b2f",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-700-1987-sapl-3615.md",
+      "sha256": "3a763da7c7c5407cbc19565d9ae1c15cd08a30ddc2e10bdfd0b9c4029c870491",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-699-1987-sapl-3616.md",
+      "sha256": "f40141a721532019c1348b1e6cbd7856d397984b31939343b2f90c50b493ca83",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-698-1987-sapl-3617.md",
+      "sha256": "109c00bbe9dcb878440ce94983c29e5f02af73a0df854c8bed8ffd54d3e90625",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-697-1987-sapl-3618.md",
+      "sha256": "669d5b775db9d7ed9335a44faed91c70f3b7a10b911b7847b0f0701a1136adb0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-696-1987-sapl-3619.md",
+      "sha256": "b9d4d049fa7ffa8d3bbfbef121c5b94f874dbcb7cb60e253322195fc6b491e5d",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-695-1987-sapl-3620.md",
+      "sha256": "d8bdb55561a95990291e03b4b7b5c4873c747e08b18b64a499327270f44ed3a0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-690-1987-sapl-3625.md",
+      "sha256": "cccbbd2563e811186cb2581af859d4d6a0d10fa9fbe1e6c28a034c8367b361ff",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-689-1987-sapl-3626.md",
+      "sha256": "dca933fec26392b7771c13c3148efdde8a9cf29ad6d86096c4fde530efce4aff",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-688-1987-sapl-3627.md",
+      "sha256": "bd48428ae3feb7950dac27120c799da36d17fd1968447675ad63f728fd8f01c0",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-687-1987-sapl-3628.md",
+      "sha256": "a908cd5fbf1d5ded78f2368c3b2c812969415646f42aceaef083d949e6f65f04",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-686-1987-sapl-3629.md",
+      "sha256": "6aa11c80ee0dc8c0d541363f230c68c1b2891ac443266ab9d15bae6aa00c02e8",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-685-1987-sapl-3630.md",
+      "sha256": "10293b8df7e55be8519ef6781b89bc732dbf89310794a4853c1b65b35600b8c3",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-684-1987-sapl-3631.md",
+      "sha256": "93c891d3f467a7d5a49154c80a6759156ce973fd9ddb5338b1e49c4e1db409df",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-681-1987-sapl-3634.md",
+      "sha256": "d8e3d01f21b16d5b0ebbc50b2bf5b67c7aee54f26e84326e5acb78e72db44565",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-680-1987-sapl-3635.md",
+      "sha256": "7bf3867da87810d67b032cf572f0a55a89b468a59336ae405c28247301e73f07",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-679-1987-sapl-3636.md",
+      "sha256": "156dad9592e3ac79adae044e0ed436b32c42770cc7b90aa2972d58f7ba18fa26",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-678-1987-sapl-3637.md",
+      "sha256": "0196fc6ca0208b1b08278eee7e450318f269429276b0317079d0988140575c2c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-677-1987-sapl-3638.md",
+      "sha256": "147a3cca61f622b8d73abfb59211f1e1540417af52ab2c41cd688e4c4aac118c",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-676-1987-sapl-3639.md",
+      "sha256": "2cac05c93702a81ed3f861824e0b064b9d5e2d8c99e71b31226d96888b63e54e",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-674-1987-sapl-3641.md",
+      "sha256": "645f46a60743f270287c6fdd1c404f8d61bb8ad1ece658a09328de3cc9de2c60",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-673-1987-sapl-3642.md",
+      "sha256": "b75313ecbdb78e977a6e6a74eb677b3f3175e5c6f248acf86b80566794190d26",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-672-1987-sapl-3643.md",
+      "sha256": "7fc06359f2448fd0a9d86c4b2cf19e7c1e68ed11551e1fa81725b83d4fcd39be",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-671-1987-sapl-3644.md",
+      "sha256": "dfbe681bf32f36defdc02c91854bb93f26cccc1c01f640e81a1bd1575610b4fc",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-669-1987-sapl-3686.md",
+      "sha256": "ad409adf8f4693756c5f173bd8776f360c4f958d60ecffdbd2c403f12159a051",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-667-1987-sapl-3688.md",
+      "sha256": "42cd659e04459a597e7f92b35ac2137582c967e21dee62d9e27521c043c4d128",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-666-1987-sapl-3689.md",
+      "sha256": "3b59519b2716d880b4138571342597ba27d3b1189ec103df66fb4919f27ddacf",
+      "esfera_federacao_api": "M",
+      "alertas": [
+        {
+          "municipio_declarado": "Porto Velho",
+          "municipio_no_cabecalho_normalizado": "porto",
+          "offset": 152,
+          "trecho": "unicípio, para área de lazer, localizada no Bairro Areal da Floresta\".\n\n\nFAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VEIHO aprovou e eu, nos termos do § 1º do art. 170, da Constituição do Estado de Rondônia, PROMULGO a seguinte\n\nLEI\n\n\nArt. 1º.\n\nFica o Poder Executivo Municipal autorizado a "
+        }
+      ]
+    },
+    {
+      "path": "municipais/RO/porto-velho/leis-ordinarias/1987/leis-ordinarias-664-1987-sapl-3691.md",
+      "sha256": "d19a0a5860dcf4204662dab2a699590d46806d44e65d6ad12060dcf3f3bb2ca4",
+      "esfera_federacao_api": "M",
+      "alertas": []
+    }
+  ]
+}

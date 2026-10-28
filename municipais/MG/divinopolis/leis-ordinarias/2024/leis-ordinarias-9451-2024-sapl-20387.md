@@ -1,0 +1,78 @@
+---
+titulo: "Lei Ordinária nº 9.451, de 17 de setembro de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "9451"
+data: "2024-09-17"
+municipio: "Divinópolis"
+uf: "MG"
+codigo_ibge: "3122306"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.divinopolis.mg.leg.br/norma/20387"
+fonte_texto: "https://sapl.divinopolis.mg.leg.br/ta/218/text"
+sha256_fonte: "f4a4fda26153617075b1404502f88aa506c461f4d71cbd7ddba5772f2764c6fe"
+sha256_texto: "8758f3ff2690077f556042ffc3bd91316665028e4378f5da54907b1e7d04d34a"
+capturado_em_fonte: "2026-10-28T10:10:35.533759-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 9.451, de 17 de setembro de 2024
+
+Denomina “Antônio José Oliveira” a Rua “G”, localizada no Bairro Chácaras Santa Mônica, neste Município.
+
+
+O povo do Município de Divinópolis, por seus representantes legais, aprova e eu, na qualidade de Prefeito, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica denominada “Antônio José Oliveira” a Rua “G”, localizada no Bairro Chácaras Santa Mônica, neste Município.
+
+
+Art. 2º.
+
+A Prefeitura Municipal providenciará a colocação de placas indicativas no local, bem como a devida comunicação à Empresa Brasileira de Correios e Telégrafos - ECT, à Companhia de Saneamento de Minas Gerais - COPASA, à Companhia Energética de Minas Gerais - CEMIG, às empresas de telefonia e aos Cartórios de Registro de Imóveis.
+
+
+Art. 3º.
+
+A justificativa da presente lei é parte integrante da mesma e com ela se publica.
+
+
+Art. 4º.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Divinópolis, 18 de setembro de 2024.
+
+**Gleidson Gontijo de Azevedo**
+
+**Prefeito Municipal**
+
+**Leandro Luiz Mendes**
+
+**Procurador-geral do Município**
+
+
+**JUSTIFICATIVA**
+
+Antônio José de Oliveira, filho de José de Oliveira Júnior e Regina Maria de Oliveira, nasceu em São Gonçalo do Pará/MG em 23 de dezembro de 1935.
+
+Por influência de seu pai, muito católico, iniciou ainda criança suas atividades na Conferência São Vicente de Paulo, onde se tornou secretário aos 16 anos. Na mesma época, ingressou na Banda Santa Cecília como o músico mais jovem e, pouco tempo depois, começou a atuar em peças teatrais.
+
+Em 1957, mudou-se com a família para Divinópolis/MG e, no ano seguinte, fundou o primeiro depósito de madeiras da cidade juntamente com seu pai. Expandiu seus negócios para o ramo de materiais de construção, atuando também na cidade vizinha, Nova Serrana/MG. Devido ao seu senso de empreendedorismo e sucesso empresarial, foi agraciado como empresário destaque no estado de Minas Gerais.
+
+Casou-se com Luíza Eleutério da Silva em 7 de maio de 1960, com quem teve duas filhas: Heloísa Helena de Oliveira e Gisele Eleutério de Oliveira.
+
+Antônio e Luíza residiam próximo à Igreja Nossa Senhora da Guia, onde ele passou a se dedicar a diversas atividades da instituição. Foi membro do Conselho, Ministro da Eucaristia, Ministro do Batismo, Ministro do Matrimônio, Ministro da Palavra - levando a celebração da Semana Santa para as comunidades rurais - e, como uma de suas principais iniciativas, fundou o primeiro coral da igreja, tornando-se conhecido como Tonho Cantor.
+
+Com o sucesso do primeiro coral na Igreja Nossa Senhora da Guia, foi convidado a compor o Coral da Igreja São Geraldo, onde assumiu a regência. Com empenho e dedicação, realizou inúmeras apresentações em Divinópolis e em cidades mineiras, em eventos, festivais de corais e até em programas de televisão, conquistando o prêmio no programa “Frente a Frente”.
+
+Fundou e foi membro ativo por 60 anos da Conferência São Judas Tadeu, instituição que presta assistência a inúmeras famílias em situação de vulnerabilidade social.
+
+Em 1971, participou do Cursilho de Cristandade, uma paixão que o acompanhou até sua morte. Desde então, fez parte do movimento como membro do Grupo Executivo Diocesano. Em 1981, atuou ativamente em campanhas para angariar fundos para a construção da Casa de Retiros Monsenhor Hilton, onde uma placa em sua homenagem reconhece seus serviços prestados à instituição.
+

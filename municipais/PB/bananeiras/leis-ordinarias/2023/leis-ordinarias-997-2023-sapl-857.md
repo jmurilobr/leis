@@ -1,0 +1,145 @@
+---
+titulo: "Lei nº 997, de 08 de março de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "997"
+data: "2023-03-08"
+municipio: "Bananeiras"
+uf: "PB"
+codigo_ibge: "2501500"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bananeiras.pb.leg.br/norma/857"
+fonte_texto: "https://sapl.bananeiras.pb.leg.br/ta/158/text"
+sha256_fonte: "5cb553ef481ccdef276c13bb2c28ea18bd9057df1907912172bb8fe9f62bafb8"
+sha256_texto: "4224e3f92bb7791435fb3dd9071e4256b8eedb3f52dbdc2e9ae03083474dbd14"
+capturado_em_fonte: "2026-10-27T17:08:46.503812-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 997, de 08 de março de 2023
+
+**Autoriza o Programa Minha Casa de Papel Passado, no município de Bananeiras/PB, a efetivar doação e regularização de lotes urbanos para fins regularização fundiária e dá outras providências.**
+
+
+O **PREFEITO DO MUNICÍPIO DE BANANEIRAS, ESTADO DA PARAÍBA,** NO USO DE SUAS ATRIBUIÇÕES LEGAIS FAÇO SABER QUE O PODER LEGISLATIVO MUNICIPAL APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+Art. 1º.
+
+Fica autorizado, no âmbito do município de Bananeiras/PB, o Programa Minha Casa de Papel Passado (Decreto Municipal nº 24/2021) a proceder efetivação da regularização de doação de lotes urbanos.
+
+
+Parágrafo único
+
+As localidades objeto da doação são Centro, Conjuntos Homero Araújo e Major Augusto Bezerra, Tabuleiro, Roma, Vila Maia e Chã do Lindolfo.
+
+
+Art. 2º.
+
+Para Transferência do domínio, o donatário deve preencher os seguintes requisitos:
+
+
+I –
+
+renda familiar máxima mensal de até 2,5 salários mínimos (dois vírgula cinco);
+
+
+II –
+
+não ser possuidor ou proprietário de outro imóvel, seja urbano ou rural, matriculado ou não no registro de imóveis;
+
+
+III –
+
+utilizar a área para sua moradia ou de sua família há pelo menos cinco anos;
+
+
+Art. 3º.
+
+A Comissão de Regularização Fundiária fará, em conjunto com a Secretaria de Receita, Transparência e Transformação Digital e Procuradoria Geral do Município, a adesão e o Processo Administrativo dos cadastros, analisados a partir da ficha cadastral individual, bem como da documentação necessária referida no art. 3º da presente Lei.
+
+
+Art. 4º.
+
+O Programa Minha Casa de Papel Passado efetivará a regularização de doação com publicação no Diário Oficial Municipal.
+
+
+Art. 5º.
+
+A efetivação da regularização de doação acontecerá ao permissionário(a) que possuir Termo de Cessão de Uso/Termo de Permissão de Uso de bem público até 31 de dezembro de 2020 e que se enquadrarem nos demais requisitos da presente lei.
+
+
+Art. 6º.
+
+A doação do lote urbano pelo município efetivada nos termos desta Lei deverá ser precedida de registro do nome do donatário em lista de beneficiários do município, devendo esta ficar arquivada junto a Comissão de Regularização Fundiária, nas Secretarias de Desenvolvimento Social e de Receita, Transparência e Transformação Digital para eventuais e futuras consultas.
+
+
+§ 1º
+
+A Prefeitura Municipal de Bananeiras cadastrará cada sequencial/inscrição dos lotes e estes estarão impossibilitados de qualquer transação, se constatado qualquer violação ao disposto nesta lei, será providenciada, amigável ou judicialmente a retomada do imóvel, perdendo em favor do município de Bananeiras as acessões e benfeitoriais, sem direito a indenização.
+
+
+§ 2º
+
+O registro do título deverá ser efetivado no prazo máximo de 01 (um) ano, contados da efetiva expedição, sob pena de caducidade, podendo o praz o ser prorrogado por motivo de relevante interesse público.
+
+
+§ 3º
+
+Para efeitos de escrituração será considerado o valor venal do imóvel disposto no Laudo de Vistoria, acompanhado de Certidão Negativa de ITBI modalidade Doação.
+
+
+§ 4º
+
+A reversão da doação será p recedida de Decreto Municipal explicitando as razões da mesma, sejam em Doação ou em Regularização da Doação.
+
+
+Art. 7º.
+
+O município somente efetivará a regularização doação prevista nesta lei utilizando se de lotes de sua propriedade cuja área não seja superior a 200 m² (duzentos metros quadrados).
+
+
+Art. 8º.
+
+O município de Bananeiras procederá processo de regularização do imóvel, nos moldes do Programa Minha Casa de Papel Passado, apresentando junto ao Cartório de 1º Ofício projeto urbanístico georreferenciado.
+
+
+Parágrafo único
+
+O beneficiado nos termos desta lei ficará impedido de receber qualquer outra doação de imóvel por parte do Município de Bananeiras.
+
+
+Art. 9º.
+
+As despesas decorrentes da execução da presente Lei, correrão por conta de dotações orçamentárias consignadas no orçamento vigente, suplementadas se necessário.
+
+
+§ 1º
+
+Ficam rescindidos todos os Termos de Permissões e Cessões de Uso cujos desvios de destinação sejam observados.
+
+
+§ 2º
+
+A presente lei poderá ser regulamentada, no que couber, por Decreto do Executivo.
+
+
+Art. 10.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Bananeiras, em 08 de
+
+março de 2023; 135º da Proclamação da
+
+República.
+
+**MATHEUS DE MELO BEZERRA CAVALCANTI**  
+Prefeito Constitucional do Município de Bananeiras/PB
+
+**Autoria:** Poder Executivo.
+

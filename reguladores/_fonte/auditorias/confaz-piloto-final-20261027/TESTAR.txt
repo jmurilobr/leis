@@ -1,0 +1,9 @@
+Testes offline (8 casos):
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/test_confaz_piloto_privado_v2_20261027.py
+
+Replay da representação/CSS, sempre em saída nova:
+/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 -I scripts/confaz_auditar_piloto_privado_v3_20261027.py --captura reguladores/_fonte/auditorias/confaz-piloto-v2-20261027 --saida NOVA_SAIDA
+Esperado: 6 representações verificadas, 0 retidos. Não é autorização de publicação.
+Controle histórico: repetir com --captura reguladores/_fonte/auditorias/confaz-controle-historico35-20261027; esperado 0 representações liberadas, 1 retido.
+Aliases: scripts/confaz_confrontar_head_privado_v2_20261027.py --qa reguladores/_fonte/auditorias/confaz-piloto-qa-v3-20261027 --saida NOVA_SAIDA_HEAD
+Este último lê o HEAD real atual; pode encontrar aliases se a integração já tiver ocorrido. O recibo preserva o commit originalmente confrontado. Nenhum desses replays faz HTTP.

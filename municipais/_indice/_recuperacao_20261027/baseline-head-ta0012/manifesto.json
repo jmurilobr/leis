@@ -1,0 +1,42 @@
+{
+  "commit": "57220f8e18bde7c9894a7bb8e6fdf74337a7d2b2",
+  "escopo": "git ls-tree -r -z COMMIT -- municipais; somente Markdown canônico regular",
+  "capturado_em": "2026-10-27T20:30:41.501960-03:00",
+  "normas_head": 26838,
+  "reservas": [],
+  "total": 26838,
+  "metadados": "municipais/_indice/_recuperacao_20261027/baseline-head-ta0012/metadados-integrais.jsonl.gz",
+  "arquivos": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/baseline-head-ta0012/metadados-integrais.jsonl.gz",
+      "sha256": "a37af0aadf79b05f90c49f7644cc78d9433ebd24ddd929f142162d0a4ad2726c",
+      "bytes": 7828348
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/baseline-head-ta0012/normas.paths.txt",
+      "sha256": "5739c68abdf015fbf17517802a9df6b8f55e6222a412e7b7da5028babecd1467",
+      "bytes": 2141382
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/baseline-head-ta0012/ls-tree-municipais.z",
+      "sha256": "865c8240f293abed5876ae29ccfc699866650e6895294deb8d47636cae16828b",
+      "bytes": 16408900
+    },
+    {
+      "arquivo": "scripts/congelar_baseline_municipal_head_20261027.py",
+      "sha256": "191f21e4b21378dd1abaa6609328adf379c8e8c1831ae49b78d231d842a317bf",
+      "bytes": 6132
+    },
+    {
+      "arquivo": "scripts/auditar_colisoes_lote_municipal.py",
+      "sha256": "9a2352f632d8255cfae6f0317caf62a77b84b41a548e4112fe7ae971ac3a434c",
+      "bytes": 3135
+    },
+    {
+      "arquivo": "scripts/auditar_municipal.py",
+      "sha256": "817f196f53162076bac125fb7c509e9ba6d9479e9aa6918ae5428822dec43ac8",
+      "bytes": 8443
+    }
+  ],
+  "limite": "Metadados extraídos do blob completo por OID; cabeçalhos literais integrais preservados. Snapshot não certifica vigência ou identidade correta do acervo anterior."
+}

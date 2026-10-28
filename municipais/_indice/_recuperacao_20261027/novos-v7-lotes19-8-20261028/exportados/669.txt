@@ -1,0 +1,269 @@
+---
+titulo: "04 - Lei Ordinária nº 1.417, de 16 de julho de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "1417"
+data: "2026-07-16"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1559"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1575/text"
+sha256_fonte: "301fd72b969a80737ce38651feca31d3058bd58f83453ebeb2e55c6820b13e87"
+sha256_texto: "a90f03825900940dbec3fe9de9f9fe3eecdd3eeac7325cd75299134b13523b0c"
+capturado_em_fonte: "2026-10-28T02:39:52.208154-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 1.417, de 16 de julho de 2026
+
+Institui o Programa de Incentivo ao Esporte de Corbélia (PRO-ESPORTE CORBÉLIA), estabelece critérios para apoio financeiro a atletas, revoga a Lei Municipal nº 1326, de 22 de julho de 2025 e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+LEI
+
+
+#### CAPÍTULO I — DOS OBJETIVOS E DEFINIÇÕES
+
+
+Art. 1º.
+
+Fica instituído o Programa Pró-Esporte Corbélia, destinado a apoiar financeiramente atletas que representem o Município de Corbélia em competições, treinamentos e eventos esportivos de âmbitos regional, estadual e nacional.
+
+
+Art. 2º.
+
+São objetivos do Programa:
+
+
+I –
+
+fomentar o desenvolvimento do esporte de rendimento em diversas modalidades;
+
+
+II –
+
+garantir as condições necessárias para que os atletas possam competir em alto nível;
+
+
+III –
+
+projetar o nome do Município de Corbélia no cenário esportivo;
+
+
+IV –
+
+incentivar a formação de novas gerações de atletas.
+
+
+#### CAPÍTULO II — DOS BENEFICIÁRIOS
+
+
+Art. 3º.
+
+Poderão ser beneficiários do programa os atletas que preencham, cumulativamente, os seguintes requisitos:
+
+
+I –
+
+ser residente e domiciliado no Município de Corbélia há, no mínimo, 01 (um) ano;
+
+
+II –
+
+estar regularmente vinculado a uma entidade de prática desportiva com sede no Município, quando aplicável à modalidade;
+
+
+III –
+
+não estar cumprindo penalidade imposta por tribunais de justiça desportiva.
+
+
+Parágrafo único
+
+A comprovação dos requisitos será feita no ato da solicitação, na forma definida em regulamento.
+
+
+#### CAPÍTULO III — DAS MODALIDADES DE APOIO
+
+
+Art. 4º.
+
+O Programa Pró-Esporte Corbélia oferecerá apoio financeiro nas seguintes modalidades, que poderão ser concedidas de forma isolada ou cumulativa:
+
+
+I –
+
+Bolsa Atleta: Auxílio financeiro direto;
+
+
+II –
+
+Apoio Logístico: Subsídio para despesas de alimentação, hospedagem e transporte.
+
+
+##### Seção I — Da Bolsa Atleta
+
+
+Art. 5º.
+
+O benefício da Bolsa Atleta será concedido aos atletas que representarem o Município de Corbélia nas fases regionais e/ou finais dos Jogos Abertos do Paraná e dos Jogos da Juventude do Paraná.
+
+
+§ 1º
+
+O valor do benefício será de 0,5 (cinco décimos) de UFM (Unidade Fiscal do Município de Corbélia), pago em parcela única por competição.
+
+
+§ 2º
+
+A concessão é limitada a uma bolsa por atleta a cada edição dos jogos mencionados.
+
+
+##### Seção II — Do Apoio Logístico
+
+
+Art. 6º.
+
+O subsídio para alimentação e hospedagem será concedido por dia de competição, limitado aos seguintes valores:
+
+
+I –
+
+competições em municípios até 80 km de Corbélia:
+
+
+a)
+
+alimentação: até R$ 75,00 (setenta e cinco reais).
+
+
+II –
+
+demais competições no Estado do Paraná:
+
+
+a)
+
+alimentação: até R$ 125,00 (cento e vinte e cinco reais);
+
+
+b)
+
+hospedagem: até R$ 150,00 (cento e cinquenta reais).
+
+
+III –
+
+competições fora do Estado do Paraná:
+
+
+a)
+
+alimentação: até R$ 200,00 (duzentos reais);
+
+
+b)
+
+hospedagem: até R$ 200,00 (duzentos reais).
+
+
+Art. 7º.
+
+O subsídio para transporte será concedido em uma das seguintes formas, vedada a cumulação para o mesmo deslocamento:
+
+
+I –
+
+custeio de passagens terrestres ou aéreas, mediante aquisição direta pela Administração ou reembolso;
+
+
+II –
+
+auxílio-combustível no valor de R$ 0,30 (trinta centavos) por quilômetro rodado, considerando o trajeto de ida e volta, aferido por sistema de GPS.
+
+
+#### CAPÍTULO IV — DA GESTÃO E DA CONCESSÃO
+
+
+Art. 8º.
+
+A concessão dos benefícios dependerá de solicitação formal do atleta ou de sua entidade representativa, instruída com os documentos comprobatórios.
+
+
+Art. 9º.
+
+O Conselho Municipal de Esporte analisará o mérito técnico dos pedidos, emitindo parecer fundamentado sobre a relevância da participação e o enquadramento do atleta nos critérios desta Lei.
+
+
+Art. 10.
+
+Após o parecer do Conselho, a Secretaria Municipal de Esportes decidirá sobre a concessão, observando a disponibilidade orçamentária e os critérios de conveniência e oportunidade.
+
+
+#### CAPÍTULO V — DAS OBRIGAÇÕES E DA PRESTAÇÃO DE CONTAS
+
+
+Art. 11.
+
+São obrigações dos atletas beneficiados:
+
+
+I –
+
+representar o Município de Corbélia com zelo e urbanidade;
+
+
+II –
+
+apresentar relatório de participação no evento, incluindo súmulas, classificações ou certificados;
+
+
+III –
+
+prestar contas dos valores recebidos, na forma e nos prazos definidos pela Secretaria Municipal de Esportes.
+
+
+Art. 12.
+
+A não comprovação da participação ou a utilização indevida dos recursos implicará na obrigação de restituir integralmente os valores ao erário municipal, sem prejuízo de outras sanções cabíveis.
+
+
+#### CAPÍTULO VI — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 13.
+
+As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias da Secretaria Municipal de Esportes, suplementadas se necessário.
+
+
+Art. 14.
+
+O Poder Executivo regulamentará esta Lei no que couber, no prazo de 90 (noventa) dias a contar de sua publicação.
+
+
+Art. 15.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 16.
+
+Fica revogada a Lei Municipal nº 1.326, de 22 de julho de 2025.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná  
+Em 16 de julho de 2026, 66º da Emancipação Política.
+
+Thiago Daross Stefanello  
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 2574 de 27/07/2026, pág. 09-13.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1559/ta
+

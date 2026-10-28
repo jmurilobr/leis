@@ -1,5 +1,5 @@
 {
-  "data": "2026-10-21",
+  "data": "2026-10-27",
   "criterio": "Textos preservados; integralidade não validada. Pendências não contam para progresso até revisão com fonte complementar. Estado conservador não afirma ausência definitiva.",
   "pendentes": [
     {
@@ -37188,41 +37188,6 @@
             "ibrahim abi-ackel",
             "<<anexos>>",
             "tabela."
-          ],
-          "estado": "ausencia_na_transcricao"
-        }
-      }
-    },
-    {
-      "path": "federal/decretos/1964/dec-53480-1964-01-23.md",
-      "sha256_md": "60b9c427d89bf0df452e33e2ca802b71e0021ad695cb4f1dae364455577ddf2a",
-      "estado": "modelo_proprio_ausente_na_transcricao",
-      "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
-      "evidencia": {
-        "manifesto": "federal/_overlay_modelos_proprios_anteriores_20261020_002.json",
-        "sha256_manifesto": "317ab68dcaf4934f2c1e2e07db1a19ca998eaa4f0235a5f0d588b7138743197a",
-        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1964-01-23;53480",
-        "sha256_fonte_html": "3f7274a697b6d30c61a29e737137c09cbd1016adde67c37b4fabebeda5a071d8",
-        "trecho": {
-          "motivo": "Suplemento próprio referido pelo decreto ausente da transcrição: somente fecho, assinaturas, nota ou rótulo/link vazio, sem corpo do objeto.",
-          "remissao": ", cada repreensao correspondera a dois pontos, cada dia de suspensao a tres, e cada destituicao de funcao a dez pontos.\nart. 32. o merecimento do funcionario, na classe a que pertencer, sera apurado semestralmente, atraves do boletim de merecimento, conforme modelo anexo.\nart. 33. as condicoes essenciais de merecimento serao aferidas pelo chefe imediato do funcionario e as condicoes comple",
-          "fecho": "brasilia, em 23 de janeiro de 1964; 143º da independencia e 76º da republica.",
-          "apos_fecho": [
-            "joao goulart",
-            "aberlado jurema",
-            "sylvio borges de souza motta",
-            "jair ribeiro",
-            "joao augusto de araujo castro",
-            "ney galvao",
-            "expedito machado",
-            "oswaldo lima filho",
-            "julio furquim sambaquy",
-            "amaury silva",
-            "anysio botelho",
-            "wilson fadul",
-            "antonio de oliveira brito",
-            "egydio michaelsen",
-            "<<anexos>>"
           ],
           "estado": "ausencia_na_transcricao"
         }
@@ -161530,6 +161495,2193 @@
           "<<Anexos>>"
         ],
         "conferencia_contextual_amostra_51": false
+      }
+    },
+    {
+      "path": "federal/decretos/1948/dec-24799-1948-04-13.md",
+      "sha256_md": "cc15c8ee558d1fbe79df1081711e7fc3bcb2817a3849c97738196ca5f07084bd",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1948-04-13;24799",
+        "sha256_HTML": "a30e794550e73b4f4eef8f329cc29e9c37a0ff8dba3adf41e00bfeb03b26a64f",
+        "sha256_metadados": "aa3ffa0d469b2e59dec420927edaae76808b0c566829c8355c904a98e80b177e",
+        "OID_HEAD": "f4f3871cc944c4de25730c969a8e64fa60200540",
+        "comando_proprio": [
+          "Art. 1º Os quadros e tabelas do pessoal do Instituto de Aposentadoria e Pensões dos Comerciários (l.A. P. C.) ficam substituídos pelos quadros que acompanham o presente decreto."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 5835,
+            "contexto": "Art. 15. O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário. Rio de Janeiro, em 13 de abril de 1948, 127º da Independência e 60º da República. EURICO G. DUTRA. Morvan Figueiredo. <<ANEXO>>CLBR Vol. 04 Ano 1948 Pág. 54 Tabela."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-24140-1947-11-29.md",
+      "sha256_md": "c920196ad37f24430852bc899fdaa8753b87a294787e8c409e3ffbaec0187635",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1947-11-29;24140",
+        "sha256_HTML": "74d5d29272b4c457db4aa97681294d5a3efbbbb20ee6da2f4c020a6d17272f86",
+        "sha256_metadados": "86dbe4e3e6fa9e1ad713c6f2fd1bc7c1cfb76c7c685e79d03f8bfb9b7368b998",
+        "OID_HEAD": "d5cb796df8b8a44f24c6db681ff44faa8a12d42d",
+        "comando_proprio": [
+          "Art. 3º Fica aprovada, na forma da relação anexa, a distribuição dos cargos constantes do artigo anterior pelas repartições art. 1º dêste decreto."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1163,
+            "contexto": "Art. 2º Fica aprovada a lotação numérica das Partes Permanente e Suplementar ao Quadro I do Ministério da Viação e Obras Públicas, com 1.005 cargos, senão 806 na lotação permanente e 199 na lotação suplementar e com a seguinte distribuição: <<ANEXO>>CLBR Vol. 08 Ano 1947 Págs. 386 e 387 Tabelas. Art. 3º Fica aprovada, na forma da relação anexa, a distribuição dos cargos constantes do artigo anterior pelas repartições art. 1º dêste decreto. Art. 4º Nas carreiras em que houver, simultâneamente, lotação permanente e lotação suplementar, os claros, que se verificarem na lotação suplementar não poderão ser preenchidos. Art. 5º Até que seja organizado o quadro próprio para o Departamento Nacional de Estrada de rodagem , ex-vi do Decreto-lei nº 8.463, de 1945, que reorganizou êsse Departamento, não poderão ser removidos os funcionários constantes de sua lotação. Parágrafo único. Os claros que se verificarem na lotação do Departamento Nacional "
+          },
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 2354,
+            "contexto": "Art. 7º Revogam-se as disposições em contrário. Rio de Janeiro, em 29 de novembro de 1947, 126º da Independência e 59º da República. Eurico G. Dutra. Clovis Pestana. Lotação Numérica das repartições atendidas pelas Partes e Suplementar do Quadro I do Ministério da Viação e Obras Públicas, a que se refere o art. 3º do Decreto nº 24.140, de 29 de novembro de 1947. <<ANEXO>>CLBR Vol. 08 Ano 1947 Págs. 388 e 393 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-24142-1947-11-29.md",
+      "sha256_md": "c12113ee080c5d570cd89aeca0dcfdc26e5c1306b508b4407ce650ad11d1c222",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1947-11-29;24142",
+        "sha256_HTML": "b674e4d8a0f2930d9b060e3abe51d8fc0e7b65dca411e45f5834fd416e452342",
+        "sha256_metadados": "4487c37d20b9a57d30025bd18a24698e67728ea8185e08d917f69671377bdfa3",
+        "OID_HEAD": "82077669d013232c3c50ff645b8d1bade203d252",
+        "comando_proprio": [
+          "Art. 1º As Tabelas e a relação nominal que acompanharam o Decreto nº 23.405, de 28 de julho de 1947, referentes à Agência Nacional e ao Departamento Federal de Segurança Pública, passam a vigorar com as alterações constantes da relação anexo ."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 982,
+            "contexto": "Art. 1º do Decreto nº 23.405, de 28 de Julho de 1947 <<ANEXO>>CLBR Vol. 08 Ano 1947 Págs. 397 a 400 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-24131-1947-11-27.md",
+      "sha256_md": "93a9f84689c91a87b68bc1d4a4a250f6e494b49a111a3539adbfb808f4b2969b",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1947-11-27;24131",
+        "sha256_HTML": "5e5e456befd8a0d1a5757206dafefccd0744d54e452d9d347706b45529a791fa",
+        "sha256_metadados": "9eb63e51aea03583e111ff2dc4568070a15cd6a35b8d6094fb57b3583161a6fb",
+        "OID_HEAD": "6482029eb2e25914a3765da9f5c384659ecafe1a",
+        "comando_proprio": [
+          "Art. 3º Fica aprovada, na forma da relação anexo, a distribuição dos cargos constantes do artigo anterior pelas repartições a que se refere o art. 1º dêste decreto."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 2214,
+            "contexto": "Art. 2º Fica aprovada a lotação numérica dos Quadros Permanente e Suplementar do Ministério da Educação e Saúde, com 4.991 cargos, sendo 3.419 na lotação permanente e 1.572 na lotação suplementar e com a seguinte distribuição: <<ANEXO>>CLBR Ano 1947 Vol. 08 Págs. 327 a 329 Tabelas. Art. 3º Fica aprovada, na forma da relação anexo, a distribuição dos cargos constantes do artigo anterior pelas repartições a que se refere o art. 1º dêste decreto. Art. 4º Nas carreiras em que houver simultâneamente, lotação permanente e lotação suplementar, os claros que se verifiquem na lotação suplementar não poderão ser preenchidos. Art. 5º Êste decreto entrará em vigor na data de sua publicação. Art. 6º Revogam-se as disposições em contrário. Rio de Janeiro, em 27 de Novembro de 1947, 126º da Independência e 59º da República. Clementino Mariani. Eurico G. Dutra. Lotação numérica das repartições atendidas pelos Quadros Permanentes e Supleme"
+          },
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 3040,
+            "contexto": "Art. 6º Revogam-se as disposições em contrário. Rio de Janeiro, em 27 de Novembro de 1947, 126º da Independência e 59º da República. Clementino Mariani. Eurico G. Dutra. Lotação numérica das repartições atendidas pelos Quadros Permanentes e Suplementares do Ministério da Educação e Saúde, a que se refere o art. 3º do Decreto nº 24.131, de 27 de novembro de 1947. <<ANEXO>>CLBR Ano 1947 Vol. 08 Págs. 329 a 382 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-24050-1947-11-14.md",
+      "sha256_md": "8b55d56f7f7f3074e1e41ebd1450016856d14ffbd28f6436fc70b417b8ba3400",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1947-11-14;24050",
+        "sha256_HTML": "5f8385c8b5c4c9121aa4738d18b0aa02d8e23314982390406f1dd238c88c3ce0",
+        "sha256_metadados": "543ad4185d7ac1de8561ea8333e1fdc6419d9facb67d7deff985855b73aad3ba",
+        "OID_HEAD": "ae6138fa16cd46b47b726aa240c79d95d2c32b96",
+        "comando_proprio": [
+          "Art. 1º Fica substituída pela que acompanha o presente Decreto a Tabela Numérica de Extranumerário-mensalista do Serviço de Comunicações do Departamento de Administração do Ministério da Viação e Obras Públicas, anexa ao Decreto número 23.449, de 31 de julho de 1947."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 902,
+            "contexto": "Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro, 14 de novembro de 1947, 126º da Independência e 59º da República. Eurico G. Dutra Clovis Pestana <<ANEXO>>CLBR Vol. 08 Ano 1944 Pág. 292 Tabela."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-24047-1947-11-13.md",
+      "sha256_md": "37bb7b5c22eb3af82ac71d96c75864130fb60ca129abf7bb6c6fe3a58f27b265",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1947-11-13;24047",
+        "sha256_HTML": "958b0773adb28889d213d7c91bc05fd6c2b979b8f3a5a6214024c885b0d4cf2b",
+        "sha256_metadados": "f90e21e4c1ffd9ba9278d5fa5d2237836e6c19612313880d2033c9e2de67403e",
+        "OID_HEAD": "98badd378b3ac7a0e66bc9c66c62e63ef38330bd",
+        "comando_proprio": [
+          "Art. 1º Ficam substituídas, pelas que acompanham êste Decreto, a relação nominal anexa ao Decreto número 22.613, de 24 de fevereiro de 1947,e as tabelas Numéricas Suplementares de Extranumerários-mensalistas da Divisão de Fomento da Produção Mineral do Instituto Agronômico do Sul, da Divisão de Águas e do Serviço Nacional de Pesquisas Agronômicas.",
+          "Art. 2º Ficam criadas, na forma da relação anexa as Tabelas Numéricas Suplementares de Extranumerários-mensalistas da Diretoria Geral do Departamento Nacional da Produção Mineral, da Estação Experimental de Pelotas , do Instituto Agronômico do Nordeste , tôdas do Ministério da Agricultura."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1549,
+            "contexto": "Art. 6º Revogam-se as disposições em contrário. Rio de Janeiro, 13 de novembro de 1947, 126º da Independência e 59º da República. Eurico G. Dutra Daniel de Carvalho <<ANEXO>>CLBR Vol. 08 Ano 1944 Págs. 282 a 286 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-24015-1947-11-10.md",
+      "sha256_md": "f97a0cf810a6de7c816d52dc5dfe5e67bf4bf8cc89c77debe5855736430daf6b",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1947-11-10;24015",
+        "sha256_HTML": "cd835941e9bd98a203d7d94b8fd0db0bd6160dd003bb2e61e79459f51795958f",
+        "sha256_metadados": "274ed58e837a8d8b65dffb1690f383f0950b3e19c063a4962f020ba2053847d3",
+        "OID_HEAD": "6d44205b9b93db37d536cae202e8e6b2ea7eaf6b",
+        "comando_proprio": [
+          "Art. 3º Fica aprovada, na forma da relação anexa, a distribuição cargos constantes do artigo anterior, pelas repartições a que se refere artigo 1º deste decreto."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 4800,
+            "contexto": "Art. 2º Fica aprovada a lotação numérica dos Quadros Permanente e Suplementar do Ministério da Agricultura, com 3.461 cargos, sendo 2.774 na lotação permanente e 687 na lotação suplementar e com a, seguinte distribuição: <<ANEXO>>CLBR Vol. 08 Ano 1947 Págs. 200 e 202 Tabelas. Art. 3º Fica aprovada, na forma da relação anexa, a distribuição cargos constantes do artigo anterior, pelas repartições a que se refere artigo 1º deste decreto. Art. 4º Nas carreiras em que houver, simultaneamente, lotação permanente e lotação suplementar, os claros que se verificarem na lotação suplementar não poderão ser preenchidos. Art. 5º Fica estabelecida a taxa de 15% para a lotação, na Capital Federal, dos cargos das carreiras gerais de Agrônomo e Veterinário do Ministério da Agricultura. § 1º Os claros de lotação dessas carreiras que se verificarem, na Capital Federal, a partir da expedição dêste decreto, serão transferidos para as rep"
+          },
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 6224,
+            "contexto": "Art. 6º Revogam-se as disposições em contrário. Rio de Janeiro, em 10 de novembro de 1947, 126º da Independência e 59º da República. Eurico G. Dutra. Daniel de Carvalho. Lotação Numérica das Repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura, a que se refere o artigo 3º do Decreto nº 24.015, de 10 de novembro de 1947. <<ANEXO>>CLBR Vol. 08 Ano 1947 Págs. 202 a 259 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-24003-1947-11-04.md",
+      "sha256_md": "99123a5469313543dde5b01422aa3ee46729e113410e09e42913fb1da796bd4a",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1947-11-04;24003",
+        "sha256_HTML": "a2663fdf8ccab000c4105990dbd795141a6facdcf99d9bac8d51dad741ac3c27",
+        "sha256_metadados": "b43cb938cd26e0171e9b88d798e35544bf6317fa68efc61f71c0c330f09c8c20",
+        "OID_HEAD": "76991eb97315d6405d7055639a3d9795cc1d1c79",
+        "comando_proprio": [
+          "Art. 3º Fica aprovada, na forma da relação anexa, a distribuição dos cargos constantes do artigo anterior pelas repartições a que se refere o artigo 1º dêste decreto."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1220,
+            "contexto": "Art. 2º Fica aprovada a lotação numérica dos Quadros Permanente e Suplementar do Ministério da Justiça e Negócios Interiores com 6.038 cargos, sendo 4.823 na lotação permanente, 1.215 na lotação suplementar e com a seguinte distribuição: <<ANEXO>>CLBR Vol. 08 Ano 1944 Pág. 181 a 183 Tabelas. Art. 3º Fica aprovada, na forma da relação anexa, a distribuição dos cargos constantes do artigo anterior pelas repartições a que se refere o artigo 1º dêste decreto. Art. 4º Nas carreiras em que houver, simultâneamente, lotação permanente e lotação suplementar, os claros que se verificarem na lotação suplementar não poderão ser preenchidos. Art. 5º Êste Decreto entrará, em vigor na data de sua publicação. Art. 6º Revogam-se as disposições em contrário. Rio de Janeiro, em 4 de novembro de 1947, 126º da Independência e 59º da República. Eurico G. Dutra Benedicto Costa Netto. Lotação numérica das Repartições atendidas pelos Quadros Permanente e Sup"
+          },
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 2060,
+            "contexto": "Art. 6º Revogam-se as disposições em contrário. Rio de Janeiro, em 4 de novembro de 1947, 126º da Independência e 59º da República. Eurico G. Dutra Benedicto Costa Netto. Lotação numérica das Repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Justiça e Negócios Interiores, a que se refere o art. 3º do Decreto nº 24.003, de 4 de novembro de 1947. <<ANEXO>>CLBR Vol. 08 Ano 1944 Pág. 184 a 194 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-23932-1947-10-24.md",
+      "sha256_md": "798dafa43f29e83ac431ea4888d5b1328b646f737a7488abcb060cf03dfd65a8",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1947-10-24;23932",
+        "sha256_HTML": "3f6cd600057a50889812c70c413dbc255a609846bd69d078fb56fc844c6fb74b",
+        "sha256_metadados": "00e50e65609f7790b2cb12a28f86c622373ced09293e5e6bd44d8bb89f25b740",
+        "OID_HEAD": "75f724581e1616d135e974a5198fcf5f7e20d124",
+        "comando_proprio": [
+          "Art. 1º Ficam alteradas, na forma das relações anexas, as Tabelas Numéricas Ordinárias do Quartel General e da Base Aérea de Belém, da 1ª Zona Aérea."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1102,
+            "contexto": "Art. 4º Revogam-se as disposições em contrário. Rio de Janeiro, 24 de outubro de 1947, 126º da Independência e 59º da República. EURICO G. DUTRA. Armando Trompowsky. <<ANEXO>>CLBR Vol. 08 Ano 1947 Págs. 150 e 151 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-23890-1947-10-22.md",
+      "sha256_md": "21539744cffcdc87f26e7adcd8454d6e6fd1f4b6b85216d936b4b0bc5f51e4d6",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1947-10-22;23890",
+        "sha256_HTML": "0cea05daa447902e8e4d48c78e48c34fb3897c710db4ea2ee10bd5fefe26058b",
+        "sha256_metadados": "86396be3dc3a9280f668f047621d2caa1921f9f244f0da046f2e0a458c5e4887",
+        "OID_HEAD": "7ee61e0fabd824819754d2cae2abcd48deb1ff8f",
+        "comando_proprio": [
+          "Art. 1º Fica substituída pela que acompanha êste Decreto, a Tabela Suplementar da Diretoria de Engenharia, anexa ao Decreto nº 22.875, de 7 de abril de 1947."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 662,
+            "contexto": "Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro, 22 de outubro de 1947, 126º da Independência e 59º da República. Eurico G. Dutra. Canrobert P. da Costa. <<ANEXO>>CLBR Vol. 08 Ano 1947 Pág. 90 Tabela."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-23548-1947-08-18.md",
+      "sha256_md": "6df38aa1ce953e249cf13ea4436f13c863875ab3b524aaebefb8705fdecd2af1",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1947-08-18;23548",
+        "sha256_HTML": "6ffcb2b656f79b6f38fe5479d74a0b2f1e686e21f8dc3cf7db1792910e0729e0",
+        "sha256_metadados": "58f9d7b9fa0f88181e57ca7de525e7b0f2002eb2e97e3c4fb004e610f4986a37",
+        "OID_HEAD": "41399eab975180e415437b9e18a6a1100db39e40",
+        "comando_proprio": [
+          "Art. 3º Fica aprovada, na forma da relação anexa, a distribuição dos cargos, constantes do artigo anterior, pelas repartições a que se refere o art. 1º dêste Decreto."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1733,
+            "contexto": "Art. 2º Fica aprovada a lotação numérica dos Quadros Permanente e Suplementar do Ministério da Aeronáutica, com 635 cargos, sendo 426 na lotação permanente e 209 na lotação Suplementar e com a seguinte distribuição: <<ANEXO>>CLBR Vol. 06 Ano 1947 Págs. 192 a 193 Tabelas. Art. 3º Fica aprovada, na forma da relação anexa, a distribuição dos cargos, constantes do artigo anterior, pelas repartições a que se refere o art. 1º dêste Decreto. Art. 4º Os claros da lotação suplementar da carreira de Dentista poderão ser preenchidos enquanto houver funcionários em número suficiente. Art. 5º Êste Decreto entrará em vigor na data de sua publicação. Art. 6º Revogam-se as disposições em contrário. Rio de Janeiro, 18 de agôsto de 1947, 126º da Independência e 59º da República. Eurico G. Dutra. Armando Trompowsky. <<ANEXO>> CLBR ANO 1947 PAG. 194 a 203 Tabelas."
+          },
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 2326,
+            "contexto": "Art. 6º Revogam-se as disposições em contrário. Rio de Janeiro, 18 de agôsto de 1947, 126º da Independência e 59º da República. Eurico G. Dutra. Armando Trompowsky. <<ANEXO>> CLBR ANO 1947 PAG. 194 a 203 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-23502-1947-08-13.md",
+      "sha256_md": "eaf08e18b0b9b70ba82a9a4454113b5629aeb085ea4e3f4aa79ffbc7f634de57",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Ponteiro CLBR exige contexto suplementar; integralidade ainda nao validada, sem afirmar ausencia propria definitiva.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1947-08-13;23502",
+        "sha256_HTML": "ae9d8776c36579f328cf96c6b85432c44e9974667983c249a5b9430a7ac60533",
+        "sha256_metadados": "4b829e8cdc848adf1c1f996815aa4d3ae1eecffa6c3012a8efa630f85a0026c9",
+        "OID_HEAD": "21df4755973b224f2132c6b75aad99cbe196c023",
+        "comando_proprio": [],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 15969,
+            "contexto": "Art. 31. Os uniformes dos contínuos, serventes e motoristas são fornecidos, gratuitamente, pelo Exército. Rio de Janeiro, 13 de agôsto de 1947. – General Canrobert P. da Costa. <<ANEXO>>CLBR Vol. 06 Ano 1947 Págs. 156 a 160 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Regulamento e organização constam em prosa. Não foi demonstrado aqui que o ponteiro corresponda a objeto normativo próprio adicional, em vez de quadro explicativo; não incluir automaticamente em máscara."
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-23449-1947-07-31.md",
+      "sha256_md": "e799cc94c3aa5ec0ac5dd057a80ecbd9f9ff7bcd0fb5178245f09063be5c6638",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1947-07-31;23449",
+        "sha256_HTML": "cddd25ddaab0ff099dd929fe482f937b53700efb1081ecc9ec6f7e4b6402b3ad",
+        "sha256_metadados": "623da9bae5f83709a00263a1ba5c2367d9ea816a54d2058acb3700b6b0d6dc02",
+        "OID_HEAD": "7f5265ef3c5ddcde866b7a7d962388e36a65b94d",
+        "comando_proprio": [
+          "Art. 1º Fica alterada, na forma da relação anexa, a Tabela, Numérica Ordinária de Extranumeração Mensalista do Serviço de Comunicações do Departamento de Administração do Ministério da Viação e Obras Públicas."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 815,
+            "contexto": "Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro, em 31 de julho de 1947; 126º da Independência e 59º da República. Eurico G. Dutra Clovis Pestana <<ANEXO>>CLBR Vol. 06 Ano 1947 Págs. 120 e 121 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-23450-1947-07-31.md",
+      "sha256_md": "be55954ff669aa119d0fef6db508e8fedd1662ef9006771c4dd765a639490274",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1947-07-31;23450",
+        "sha256_HTML": "2385852f8f0ea59c8171387967272559d81ee6dc14fbdcaac81a4b8526101a9c",
+        "sha256_metadados": "50745ccfa62ea503dca739732dbb9d0ecc9959a2ad985be246822ce4bffa26df",
+        "OID_HEAD": "b9358182fc76ced78b63d929414b919da958b5b7",
+        "comando_proprio": [
+          "Art. 1º Fica alterada, na forma da relação anexa, a Tabela Numérica Ordinária Extranumerário-Mensalista do Departamento Nacional de Obras de Saneamento do Ministério da Viação e Obras Públicas."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 782,
+            "contexto": "Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro, 31 de julho de 1947, 126º da independência e 59º da república. Eurico G. Dutra. Clovis Pestana <<ANEXO>>CLBR Vol. 06 Ano 1947 pág. 122 e 123 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1947/dec-23405-1947-07-28.md",
+      "sha256_md": "7b4bc729d6795070b8725184eee8784cac086f78b1210d89d56a29a07a5490fb",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1947-07-28;23405",
+        "sha256_HTML": "8835aed024288707a7f50deeb735c7d7a4aebd158712d7e8ea91f1c85f24e30b",
+        "sha256_metadados": "f6ba817c5efbecd423b5344907c88cef1021afd39f3291237f2790f573cab561",
+        "OID_HEAD": "f88e2de230102935e57a99e484d0676ce4c9aaef",
+        "comando_proprio": [
+          "Art.1º – Ficam transferida, das Tabelas Numéricas, Ordinária e Suplementar, de Extranumerário-mensalista, da Agência Nacional, para as Tabelas congêneres do Departamento Federal de Segurança Pública, as funções constantes da relação anexa."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1037,
+            "contexto": "Art. 3º – Revogam-se as disposições em contrário. Rio de Janeiro, em 28 de julho de 1947, 126º da Independência e 59º da República. Eurico G. Dutra. Benedicto Costa Netto. MINISTÉRIO DA JUSTIÇA E NEGÓCIOS INTERIORES Agencia Nacional Tabela Numérica Ordinária <<ANEXO>>CLBR Vol. 06 Ano 1947 Págs. 84 A 91 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1946/dec-22386-1946-12-31.md",
+      "sha256_md": "05ac0d27f7080cbd1aecec1726f893521eb38d7ef8d8522ce4e0994e0cf833cf",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1946-12-31;22386",
+        "sha256_HTML": "1ad9340d1dc453c54cb5c9620d9194cd30d52c147d52dc21dd0356e2624a1b5e",
+        "sha256_metadados": "03bd9d6eea822a941b2a5ba2ef6f91dbddea90e8a7386219fd18617d74693f2b",
+        "OID_HEAD": "2e38ad37037294e549af466872100642de0b5c1f",
+        "comando_proprio": [
+          "Art. 1º Ficam substituídas pelas que acompanham o presente Decreto, no que se refere às Séries Funcionais mencionadas as Tabelas Numéricas de Extranumerário mensalista de repartições do Ministério da Viação e Obras Públicas, anexas ao Decreto número 21.693, de 21 de agôsto de 1946.",
+          "Art. 2º As funções criadas e transformadas por fôrça do disposto neste Decreto são exercidas pelos servidores constantes da relação nominal anexa."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1472,
+            "contexto": "Art. 4º Êste Decreto vigorará a partir de 6 de setembro de 1946, exceto quanto à parte referente ao aproveitamento de pessoal, a qual entrará em vigor a 1 de janeiro de 1947. Rio de Janeiro, em 31 de dezembro de 1946, 125º da Independência e 58º da República. EURICO G. DUTRA. Clovis Pestana. <<ANEXO>>CLBR Vol. 08 Ano 1946 Págs. 388 a 417 Tabela."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1946/dec-22225-1946-12-04.md",
+      "sha256_md": "7217c78d6b0e1e70306810304c5288e903f1ae4fe4d0fff556344c1258f96b78",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1946-12-04;22225",
+        "sha256_HTML": "fec45b37cb06010b3b4f34891f9d815743e2fff23e2792f0fce51d28e755deb9",
+        "sha256_metadados": "8df8fe21d6cd46f9f322f2c8af01fdfbc3f5a4a5c346b3bf68c4ac5f167f155d",
+        "OID_HEAD": "71ac8f05dc718559732581c1abfd4446ebb79f4e",
+        "comando_proprio": [
+          "Art. 1º Ficam alteradas, na forma da relação anexa, as Tabelas Numéricas Ordinária e Suplementar de Extranumerário-mensalista do Departamento Administrativo do Serviço Público."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1151,
+            "contexto": "Art. 4º Revogam-se as disposições em contrário. Rio de Janeiro, em 4 de Dezembro de 1946, 125º da Independência e 58º da República. EURICO G. DUTRA Benedicto Costa Netto <<ANEXO>>CLBR Vol. 09 Ano 1946 Págs. 365 e 366 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1946/dec-20528-1946-01-24.md",
+      "sha256_md": "009264ada0a03535ea70ee4fc7a79147466626e8de6196c7a91464a6ba02e058",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1946-01-24;20528",
+        "sha256_HTML": "65e7c2050e0782ace3902555bb3949682aafdf97858e23aabcdf527bfaa7d764",
+        "sha256_metadados": "55bea4ff026f4f12cefb6adb483654e9a6f0fac1d5239310a5106defd61adf6a",
+        "OID_HEAD": "4943b841b9a5eca73ab170d92483d09be7a4537c",
+        "comando_proprio": [
+          "Art. 1º. Fica criada, de conformidade com a relação anexa, a Tabela Numérica Suplementar de Extranumerário-mensalista, da Divisão de Caça e Pesca do Departamento Nacional da Produção Animal do Ministério da Agricultura."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1181,
+            "contexto": "Art. 5º. Revogam-se as disposições em contrário. Rio de Janeiro, 24 de Janeiro de 1946, 125º da Independência e 58º da República. José Linhares. Theodureto de Camargo. <<ANEXO>>CLBR Vol. 02 Ano 1946 Pág. 445 Tabela."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1946/dec-20391-1946-01-14.md",
+      "sha256_md": "66c080f86ddcca76003f2e20b1a90fbf776395a96ae32ad7b4f3b5cafddd9ba4",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1946-01-14;20391",
+        "sha256_HTML": "9790d7339afd3bebbeb98d59b9e119f7c260c37505c68242f0fb19161ffedf27",
+        "sha256_metadados": "380ad6bb65cac0652764be3a6377dc5c82ac4c99ca728e131f0af8b05b4ca7e6",
+        "OID_HEAD": "f0b23743680f96c3de90e2a2c957fd932b0eb333",
+        "comando_proprio": [
+          "Art. 1º Ficam substituídas, pelas que acompanham o presente decreto as Tabelas Numéricas, Ordinária e Suplementar, de Extranumerário-mensalista do Instituto de Ecologia e Experimentação Agrícolas, do Serviço Nacional de Pesquisas Agronômicas, do Centro Nacional de Ensino e Pesquisas Agronômicas, do Ministério da, Agricultura."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1528,
+            "contexto": "Art. 5º Revogam-se as disposições em contrário. Rio de Janeiro, 14 de janeiro de 1946, 125º da Independência e 58º da República. José Linhares. Theodureto de Camargo. <<ANEXO>>CLBR Vol. 02 Ano 1946 Págs. 98 a 122 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-19568-1945-09-04.md",
+      "sha256_md": "eae82602bf79f4a2ebb4245797da769086226d82adf00961dfa0ae3aaed41c4d",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1945-09-04;19568",
+        "sha256_HTML": "2a95157b8717cce354e4baeab5d549159fe87e03a702dd6a7b0ec29888ffec19",
+        "sha256_metadados": "e3e63a5efcd09d18e19d64b5b270cc63e6fcf8f8a28ee8afc65b670dc9a31b95",
+        "OID_HEAD": "7d50352a147827bdedee7be82bc6253acd79fabf",
+        "comando_proprio": [
+          "Art. 1º Ficam alteradas, conforme a relação anexa, as Tabelas Numéricas, Ordinária e Suplementar, de Extranumerário-mensalista da Faculdade de Medicina da Bahia do Ministério da Educação e Saúde."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1055,
+            "contexto": "Art. 3º Êste decreto entrará em vigor na data de sua publicação. Rio de Janeiro, em 4 de setembro de 1945, 124º da Independência e 57º da República. GETULIO VARGAS. Gustavo Capanema. <<ANEXO>>CLBR Vol. 06 Ano 1945 Pág. 492 Tabela."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-19510-1945-08-25.md",
+      "sha256_md": "dc45c0c29d5e0629240bf601d8ad0f54efc5d2f46683295b7011a446fbb35dd7",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1945-08-25;19510",
+        "sha256_HTML": "6bbffdae89084f89bbb54d7d797b4f5ed0e181f0d14efd2fd92ccf3baae4554c",
+        "sha256_metadados": "b903eead3126c0da80aa49023adfcd07b10c6788f1bb73dec6cf88c825de7c90",
+        "OID_HEAD": "9a2c909889581daa5a009671182175f815f10c5c",
+        "comando_proprio": [
+          "Art. 1º Fica alterada, conforme a relação anexa, a Tabela Numérica Ordinária de Extranumerário-mensalista do Quartel General da 2ª Zona Aérea, do Ministério da Aeronáutica."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1037,
+            "contexto": "Art. 3º Êste decreto entrará, em vigor na data de sua publicação. Rio de Janeiro, 25 de agôsto de 1945, 124º da Independência e 57º da República. GETULIO VARGAS Joaquim Pedro Salgado Filho <<ANEXO>>CLBR Vol. 06 Ano 1945 Pág. 437 Tabela."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-19286-1945-07-27.md",
+      "sha256_md": "bcb471a676bcff0c569d486b365d4b3d4d633773a5be1e094573f9fa3066f05c",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1945-07-27;19286",
+        "sha256_HTML": "a9a7280692a1eaf3a0ece08ce8a6650d3c2975d2aa2eeb6435c1f4cc852f35db",
+        "sha256_metadados": "0d9d0d3c90df5a739a8badc5f2dec3bcc8110722a7cab3c96b54ee2371f561af",
+        "OID_HEAD": "763a257265623b29ed2b3d91a87b7d1c2527d5b3",
+        "comando_proprio": [
+          "Art. 1º Fica alterada, conforme a relação anexa, a Tabela Numérica Ordinária de Extranumerário-mensalista da Diretoria de Navegação, do Ministério da Marinha."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1035,
+            "contexto": "Art. 4º Revogam-se as disposições em contrário. Rio de Janeiro, 27 de julho de 1945, 124º da Independência e 57º da República. GETULIO VARGAS. Henrique A. Guilhem. <<ANEXO>>CLBR Vol. 06 Ano 1945 Págs. 239 a 241 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-18918-1945-06-18.md",
+      "sha256_md": "53f7e0c3d16ef41c498e024cfc923ae7d1a4fc94f996a6f5c08bb19625d3e89b",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1945-06-18;18918",
+        "sha256_HTML": "d9f51ac0fd314b60c318b9ac3b58810b02ba9450dcedc5bba331d297197d5272",
+        "sha256_metadados": "ed34188088cdfdd41a28effa2bd957f0115915a4481846a2bff275365f7aae9c",
+        "OID_HEAD": "eff10a3d2992f00b1ca8b2fafa04df7d0fe14fe0",
+        "comando_proprio": [
+          "Art. 1º Ficam alteradas, conforme as relações anexas, as Tabelas Numéricas, Ordinária e Suplementar, de Mensalistas e a Tabela Numérica de Diaristas da Estrada de Ferro Noroeste do Brasil."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 866,
+            "contexto": "Art. 4º Revogam-se as disposições em contrário. Rio de Janeiro, em 18 de junho de 1945, 124º da Independência e 57º da República. GETULIO VARGAS. João de Mendonça Lima. <<ANEXO>>CLBR Vol. 04 Ano 1945 Págs. 785 à 800 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-18671-1945-05-22.md",
+      "sha256_md": "328352ca479ff6c7336e56acc6d946a1f95725c437be06b089ce89fb9158f7c4",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1945-05-22;18671",
+        "sha256_HTML": "d5905f9c3c267951c0c9cb5fc1dd4aa404aa98adae529720cb2bc3e6c26205cb",
+        "sha256_metadados": "c416cd409ef12d23b9ac48e8b80602b7dd6d990ceeada6753be89fb9da4c4d05",
+        "OID_HEAD": "5fe9d342bd30f243685c7e744bcdac72b80009c1",
+        "comando_proprio": [
+          "Art. 1º Fica criada, conforme a relação anexa, a Tabela Numérica Ordinária de Extranumerário-mensalista do Comando Naval do Leste, do Ministério da Marinha.",
+          "Art. 2º Fica alterada, conforme a relação anexa a Tabela Numérica Ordinária de Extranumerário-mensalista do Hospital Central da Marinha, da Diretoria de Saúde, do mesmo Ministério."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1232,
+            "contexto": "Art. 4º Êste Decreto entrará em vigor na data de sua publicação. Rio de Janeiro, 22 de maio de 1945, 124º da Independência e 57º da República. Getulio Vargas. Henrique A. Guilhem. <<ANEXO>>CLBR Vol. 04 Ano 1945 Págs. 501 a 502 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-18551-1945-05-07.md",
+      "sha256_md": "ff0aae0746dbe53763ecae95a10e5337e8d06b915dfa74d05ed720ce4d0d457a",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1945-05-07;18551",
+        "sha256_HTML": "049f4ae7529b93731317fb803c757ecbe5ebf44f013ae1af224a9eee48964ded",
+        "sha256_metadados": "fce48b4915767a8679e3e0cca54fb7d7086918552a22790ad977612874a2f9c5",
+        "OID_HEAD": "c893e0ffc84de544d43f52cc08cfb5356d977075",
+        "comando_proprio": [
+          "Art. 1º Fica criada, na forma da relação anexa, a Tabela Numérica Ordinária de Extranumerário-mensalista das Oficinas da Urca, da Diretoria do Material Bélico, do Ministério da Guerra.",
+          "Art. 2º Fica alterada, de conformidade com a relação anexa, a Tabela Numérica Ordinária de Extranumerário-mensalista da Escola de Artilharia de Costa, da Diretoria de Ensino do Exército, do Ministério da Guerra."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1063,
+            "contexto": "Art. 4º Êste Decreto entrará em vigor na data de sua publicação. Rio de Janeiro, 7 de maio de 1945, 124º da Independência e 57º da República. Getulio Vargas. Eurico G. Dutra. <<ANEXO>>CLBR Vol. 04 Ano 1945 Págs. 373 e 374 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-18527-1945-05-02.md",
+      "sha256_md": "9069abbd7936bd4df421d964608ca59fd3cef50275d583cc38014c87b7c741ed",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1945-05-02;18527",
+        "sha256_HTML": "e0d888bcbdc35d71c9fe91a16f52e5587792b41884ae7064ed0e1b75e105fcbe",
+        "sha256_metadados": "4efc54a488ca4c7ca200736db623adfc46415faec041511e0c1cb93987e56e89",
+        "OID_HEAD": "1918b516a7758965ddb98f76da25620e1f0bbd0b",
+        "comando_proprio": [
+          "Art. 1º Fica aIterada, conforme a relação anexa, a Tabela Numérica Ordinária de Extranumerário-mensalista da Policlínica Militar, da Diretoria de Saúde do Exército, do Ministério da Guerra."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1033,
+            "contexto": "Art. 2º A despesa com a execução do disposto neste decreto, na importância de Cr$ 9.600,00 (nove mil e seiscentos cruzeiros) anuais, correrá, no presente exercício, à conta de destaque da Verba 1 – Pessoal, Consignação, II – Pessoal Extranumerário, Subconsignação 08, Novas admissões, etc., Anexo nº 17 – Ministério da Guerra, do Orçamento Geral da República para 1945. Art 3º Êste Decreto entrará em vigor na data de sua publicação. Rio de Janeiro, 2 de maio de 1945, 124º da Independência e 57º da República. Getulio Vargas. Eurico G. Dutra. <<ANEXO>>CLBR Vol. 04 Ano 1945 Pág. 347 Tabela"
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-18155-1945-03-26.md",
+      "sha256_md": "8be181a84303809125b8dc340881b4db3e274942be2c95bb54a69e3467699bc2",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1945-03-26;18155",
+        "sha256_HTML": "9f702e320b8140beacab8390855dc056b006db024467d1f5e934c12e84ddf077",
+        "sha256_metadados": "9a69bb06627f52f19087212365c34d635431625339de4fd6a4ce24eb9ecd4e74",
+        "OID_HEAD": "792b4ab542c7833ad423ac1348b62180071fbcb1",
+        "comando_proprio": [
+          "Art. 1º Fica alterada, de conformidade com a relação anexa, a Tabela Numérica Ordinária de Extranumerário-mensalista da Escola de Aeronáutica, do Ministério da Aeronáutica."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1034,
+            "contexto": "Art. 3º Este decreto entrará em vigor na data de sua publicação. Rio de Janeiro, 26 de março de 1945, 124º da Independência e 57º da República. GETULIO VARGAS. Joaquim Pedro Salgado Filho. <<ANEXO>>CLBR Vol. 02 Ano 1945 Págs. 692 e 693 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-18159-1945-03-26.md",
+      "sha256_md": "82bf6c3c1e39fd40b1a69cf2437721d289132ecb68022bce1c473db686ec45e4",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1945-03-26;18159",
+        "sha256_HTML": "cb290f608faf97394b7505493bfb40e6850f19d54f0188dfc9bd0e4c58c3db56",
+        "sha256_metadados": "bb2126ad7c715d1bb5298ff760cffc9083d22c7d67322e98ea6bd9eea91deabd",
+        "OID_HEAD": "4e643c7440671c4eb1febc43af9e1e15d7d8455c",
+        "comando_proprio": [
+          "Art. 1º Ficam criadas, de conformidade com a relação anexa, as Tabelas Numéricas, Ordinária e Suplementar de Extranumerário-mensalista da Seção de Fomento Agrícola em Minas Gerais, da Divisão de Fomento da Produção Vegetal, do Departamento Nacional da Produção Vegetal, do Ministério da agricultura.",
+          "Art. 2º As funções transferidas continuarão preenchidas pelos seus atuais ocupantes, cujos nomes constam da relação anexa.",
+          "Art. 3º Ficam substituídas pelas que acompanham o presente Decreto, as Tabelas Numéricas, Ordinária e Suplementar, de Extranumerário-mensalista da Divisão de Fomento da Produção Vegetal, do Departamento Nacional da Produção Vegetal, do Ministério da Agricultura."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1610,
+            "contexto": "Art. 5º Este Decreto entrará em vigor na data de sua publicação. Rio de Janeiro, 26 de março de 1945, 124º da Independência e 57º da Republica. GETULIO VARGAS. Apolonio Salles <<ANEXO>>CLBR Vol. 02 Ano 1945 Págs. 701 a 708 Tabela."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-18047-1945-03-12.md",
+      "sha256_md": "9200f5602a4a46fd9aca5488ae6b97337e14a74abb63344746bb847011a1601c",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1945-03-12;18047",
+        "sha256_HTML": "b90f2d9e1c52158bd55baf2da6c8df6ba1a28594d53a3e16177f10e4772a639e",
+        "sha256_metadados": "97460ed2eaef0ee77922852bae30b0cebb00697879740438d4f334e45893d62b",
+        "OID_HEAD": "6470f2bb6789ecd39725c4a9f9c820cae308ef13",
+        "comando_proprio": [
+          "Art. 1º Ficam criadas, conforme a relação anexa, dez funções de auxiliar de seleção, na Tabela Numérica Ordinária de Extranumerário-mensalista do Departamento Administrativo do Serviço Público."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1084,
+            "contexto": "Art. 3º Êste decreto entrará em vigor na data de sua publicação. Rio de Janeiro, 12 de março de 1945, 124º da Independência e 57º da República. GETULIO VARGAS. Agamemnon Magalhães. <<ANEXO>>CLBR Vol. 02 Ano 1945 Pág. 02 Tabela."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-17842-1945-02-22.md",
+      "sha256_md": "206099292355e99e504b98508c967f205604712cbab85531002dc5bd02a67590",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1945-02-22;17842",
+        "sha256_HTML": "65b5438a98908dcb89b5b267a8b9817b96249d70280340b8d9f82051d7fa9932",
+        "sha256_metadados": "125973a42a82505272017113ce8fa3eeb3e6e796c8b992d3d66ab7cea16a2442",
+        "OID_HEAD": "f1965599f42d388f450fcf2faf9d144d8ea54c49",
+        "comando_proprio": [
+          "Art. 1º Os atuais cargos e funções da Caixa Econômica Federal do Rio de Janeiro passam a constituir as Tabelas Numéricas Ordinária e Suplementar, anexas a êste decreto e que dêle são parte integrante.",
+          "Art. 2º As referências de salário das funções que integram as Tabelas a que se refere o artigo anterior têm os valores constantes da escala-padrão de salários anexa, aprovada pelo Decreto nº 15.494, de 9 de maio de 1944.",
+          "Art. 9º As gratificações adicionais por tempo de serviço, cujo pagamento é assegurado aos atuais empregados, por fôrça do § 4º do art. 4º do Decreto-lei nº 7.333, de 22 de fevereiro de 1945, são as constantes da relação anexa."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 3889,
+            "contexto": "Art. 11. Revogam-se as disposições em contrário. Rio de Janeiro, 22 de fevereiro de 1945; 124º da Independência e 57º da República. GETULIO VARGAS. A. de Souza Costa. <<ANEXO>>CLBR Vol. 02 Ano 1945 Págs. 301 a 316 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1945/dec-17848-1945-02-22.md",
+      "sha256_md": "3a5f94d2488de8ccc701c067372dea70566d410a612ea7f93747fc5d53dc417c",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1945-02-22;17848",
+        "sha256_HTML": "b22e9809d53c0943f41db1e173b8afd3f7a8c379a72976a69dc3dde71016b43d",
+        "sha256_metadados": "9d84d78c1e630437d6c853e15f1e3a954b5bc643087c0f1d614a04632062b87a",
+        "OID_HEAD": "636deba7b80e58bd7deec3e6730b95bf4ae11dc5",
+        "comando_proprio": [
+          "Art. 4º Os atuais cargos e funções da Caixa passam a constituir as Tabelas Numéricas Ordinárias e Suplementar, anexas a êste decreto e que dêle são parte integrante.",
+          "Art. 5º As referências de salário das funções que integram as Tabelas a que se refere o artigo anterior têm os valores constantes da escala-padrão de salários anexa, aprovada pelo Decreto nº 15.494, de 9 de maio de 1944.",
+          "Art. 10. As gratificações adicionais por tempo de serviço, cujo pagamento é assegurado aos atuais empregados, por fôrça do § 4º do art. 4º do Decreto-lei nº 7.336, de 22 de fevereiro de 1945, são as constantes da relação anexa."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 4206,
+            "contexto": "Art. 12. Revogam-se as disposições em contrário. Rio de Janeiro, 22 de fevereiro de 1945, 124º da Independência da República. GETULIO VARGAS. A. de Souza Costa. <<ANEXO>>CLBR Vol. 02 Ano 1945 Págs. 323 a 334 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15960-1944-06-30.md",
+      "sha256_md": "5e25597abd1a84b026fab03b7e730af1f31d2cfec77e10c90800cfd1f60bd17d",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1944-06-30;15960",
+        "sha256_HTML": "86f1ce086f3e1483df046e3d3e5636718aa8dd62e016b6553fde7ac3fc4d9c51",
+        "sha256_metadados": "3b460eb77e610eb59075e2a633d534605ccf5ae7bc6123c81666e3deb1970a89",
+        "OID_HEAD": "b97c1ba18e3c29635946cc3ed94c5a8fd41a5dd8",
+        "comando_proprio": [
+          "Art. 1º Fica alterada, na forma da relação anexa, a Tabela Numérica Ordinário de Extranumerário-mensalista da Secretaria de Estado, do Ministério das Relações Exteriores."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1242,
+            "contexto": "Art. 4º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário. Rio de Janeiro, 30 de junho de 1944, 123º da Independência e 56º da República. Getulio Vargas. Osvaldo Aranha. <<ANEXO>>CLBR Vol. 04 Ano 1944 Págs. 136 e 137 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15921-1944-06-28.md",
+      "sha256_md": "db8be2289b4e7814d5a6559dee0d75cb7f2737222b92d3b17537c3a73a7bf878",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1944-06-28;15921",
+        "sha256_HTML": "53e7e9695de7b886f8e9a63c1279d74f2d28f69333d2be010f0ff7b225e19c98",
+        "sha256_metadados": "47fcd3ff564205890ee78f1128abc7db948fed03c79fa2637494ed1f776bc60e",
+        "OID_HEAD": "1d28a3a9f4b6e04738af450af09d054c3b36f541",
+        "comando_proprio": [
+          "Art. 1º Fica alterada, de conformidade com a relação anexa, a Tabela Numérica Ordinária de Extranumerário-mensalista da Diretoria de Aeronáutica Civil, do Ministério da Aeronáutica."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1061,
+            "contexto": "Art. 3º Êste Decreto entrará em vigor na data de sua publicação. Rio de Janeiro, 28 de junho de 1944, 123º da Independência e 56º da República. GETULIO VARGAS. Joaquim Pedro Salgado Filho. <<ANEXO>>CLBR Vol. 04 Ano 1944 Págs. 112 a 114 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15924-1944-06-28.md",
+      "sha256_md": "5d61c81842932db6c49e071f34815d9dbcb21fcd62b1eb0dec64262ee0144eef",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1944-06-28;15924",
+        "sha256_HTML": "701ee0eab495bfc8e97194061e8b83ee035cd7a8837159617b821972bb1d76c8",
+        "sha256_metadados": "4caf2dd199754921e8e19d812fd24a7214d4e193f44ad33b9ab68292380dfd5d",
+        "OID_HEAD": "9ae2c2bd53da842835772309c6eace4b6599f733",
+        "comando_proprio": [
+          "Art. 1º Fica alterada, de conformidade com a relação anexa, a Tabela Numérica Ordinária da Extranumerário-mensalista do Serviço de Radiodifusão Educativa, do Ministério da Educação e Saúde."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1062,
+            "contexto": "Art. 3º Êste Decreto entrará em vigor na data de sua publicação. Rio de Janeiro, 28 de junho de 1944, 123º da Independência e 56º da República. GETULIO VARGAS. Gustavo Capanema. <<ANEXO>>CLBR Vol. 04 Ano 1944 Págs. 119 E 120 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15903-1944-06-23.md",
+      "sha256_md": "45ed65efe8ea15c3025b6b0f01dd7f8b2df6d162a9e05d084da4522e131e9b97",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1944-06-23;15903",
+        "sha256_HTML": "68a8cda1d8ee54191ef5e8fcabcc0188266791490629fddb17e4666d655b76a0",
+        "sha256_metadados": "07759e3f81da3bd65086e9d783110c6e1c2529b05013872cbc77b73a909e0740",
+        "OID_HEAD": "ef2b18e6c0b3720f42859dec14e63505d75277e9",
+        "comando_proprio": [
+          "Art. 1º Fica criada, de conformidade com a relação anexa, a Tabela Numérica Ordinária de Extranumerário-mensalista do Serviço de Administração da Sede do Departamento de Administração do Ministério da Educação e Saúde."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1126,
+            "contexto": "Art. 3º Êste Decreto entrará em vigor na data de sua publicação. Rio de Janeiro, 23 de junho de 1944, 123º da Independência e 56º da República. GETULIO VARGAS. Gustavo Capanema. <<ANEXO>>CLBR Vol. 04 Ano 1944 Pág. 100 Tabela."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15809-1944-06-09.md",
+      "sha256_md": "ce5a9e01d591425310153c7527547af55fd5fbd358c501bc56798059a2aa49d8",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1944-06-09;15809",
+        "sha256_HTML": "f000399c9531041f7ddda86b8a0cd402c4ffba2569fa539a35fabd22943685fe",
+        "sha256_metadados": "159055a328fa21563a65693cf5674524a21feb0cfee94a14a429c6666fa729e3",
+        "OID_HEAD": "e995380f4a10d0d5640ace5c51f69f471367c91b",
+        "comando_proprio": [
+          "Art. 1º Fica alterada, de conformidade com a relação anexa, a Tabela Numérica Ordinária de Extranumerário-mensalista da Fábrica de Itajubá, da Diretoria do Material Bélico do Exército, do Ministério da Guerra."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1040,
+            "contexto": "Art. 3º Este Decreto entrará em vigor na data de sua publicação. Rio de Janeiro, 9 de junho de 1944, 123º da Independência e 56º da República. Getulio Vargas. Eurico G. Dutra. <<ANEXO>>CLBR Vol. 04 Ano 1944 Págs. 14 e 15 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15813-1944-06-09.md",
+      "sha256_md": "7aa33535003388da5702665c2f2a16b1ca3aa48e44e9d705410d76ebc3569326",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1944-06-09;15813",
+        "sha256_HTML": "2380e87ae3b4e9ef04c452d83cec3c44656b748d0601f08e17f8ac50477dec50",
+        "sha256_metadados": "c8d89f78ae5a65948ee8880d0109602be02dbce879a59c62d026a88cd61cf448",
+        "OID_HEAD": "ba3fd62ed841b888a45c9965377aeba1618719b9",
+        "comando_proprio": [
+          "Art. 1º Fica alterada, conforme a relação anexa, a Tabela Numérica Ordinária de Extranumerário-mensalista da Fábrica de Juiz de Fora, da Diretoria de Material Bélico do Exército, do Ministério da Guerra."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1028,
+            "contexto": "Art. 3º Êste Decreto entrará em vigor na data de sua publicação. Rio de Janeiro, 9 de junho de 1944, 123º da Independência e 56º da República. GETULIO VARGAS. Eurico G. Dutra. <<ANEXO>>CLBR Vol. 04 Ano 1944 Págs. 18 e 19 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15610-1944-05-18.md",
+      "sha256_md": "1e226af74a2ee013861819835f8a093909b3552b196310adbdf77f2a6730ecaf",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1944-05-18;15610",
+        "sha256_HTML": "3316001c2982969901c896c438499d685f7a0e167127128f9021ce969aa3836f",
+        "sha256_metadados": "d250eab2c63a577fd827de5acc46411d842c4c6e3cd6577ccba72ef07131ec22",
+        "OID_HEAD": "fdff7ae02d8dd55547e8e66708abef6fb6aee5ca",
+        "comando_proprio": [
+          "Art. 1º Fica criada, de conformidade com a relação anexa, a Tabela Numérica Ordinária de Extranumerário-mensalista do Departamento de Artilharia, do Arsenal de Marinha da Ilha das Cobras, do Ministério da Marinha."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1116,
+            "contexto": "Art. 3º Êste Decreto entrará em vigor na data de sua publicação. Rio de Janeiro, 18 de maio de 1944, 123º da Independência e 56º da República. Getulio Vargas Henrique A. Guilhem. <<ANEXO>>CLBR Vol. 04 Ano 1944 Pág. 337 Tabela."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15573-1944-05-15.md",
+      "sha256_md": "6900c5f0e83263f51e715f3ce04985fde09d78fbbee30183817eb06789058b6b",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1944-05-15;15573",
+        "sha256_HTML": "39cf9befdfd03688ec7af109049ee55f4a254c73431f50bc714cb3ddcc24fe79",
+        "sha256_metadados": "17521298e4b170d68b799151dc27d8b8b933a598fa988d602d1757756dc80ca6",
+        "OID_HEAD": "08c97b1ee365ae5bafef9c397bed8b06f693c61b",
+        "comando_proprio": [
+          "Art. 1º Fica alterada, de conformidade com a relação anexa, a Tabela Numérica Ordinária de Extranumerário-mensalista da Rede de Viação Cearense, do Departamento Nacional de Estradas de Ferro, do Ministério da Viação e Obras Públicas."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1110,
+            "contexto": "Art. 3º Êste Decreto entrará em vigor na data de sua publicação. Rio de Janeiro, 15 de maio de 1944, 123º da Independência e 56º da República. GETULIO VARGAS. João de Mendonça Lima. <<ANEXO>>CLBR Vol. 04 Ano 1944 Págs. 308 e 309 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15483-1944-05-08.md",
+      "sha256_md": "c8cdb3d1f78f3841c74fff471f0f759aa6ae2fb4abd4518351c6c32a333145b6",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1944-05-08;15483",
+        "sha256_HTML": "f044138cecf2c25dd1c127a3ecf54b477eac6c41dff3f6747e178ffeea777ce5",
+        "sha256_metadados": "41647d8d2aad3f6793f6dcbc3f1c510273c912acc64a4bc315cdb87989d3033d",
+        "OID_HEAD": "3579eed29b60950bf4dd268dbcbdc1c4e0f77387",
+        "comando_proprio": [
+          "Art. 1º Fica alterada, de conformidade com a relação anexa, a Tabela Numérica Ordinária de Extranamerário-mensalista do Colégio Pedro II – Externato, do Ministério da Educação e Saúde."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1049,
+            "contexto": "Art. 3º Êste Decreto entrará em vigor na data de sua publicação. Rio de Janeiro, 8 de maio de 1944, 123º da Independência e 56º da República. Getulio Vargas. Gustavo Capanema. <<ANEXO>>CLBR Vol. 04 Ano 1944 Pág. 235 Tabela."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15487-1944-05-08.md",
+      "sha256_md": "5eb390256b5393179f176593b5f0e4b9b1b4f4edbb1e2522735b586eb2d0f9ab",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1944-05-08;15487",
+        "sha256_HTML": "6f6f7391e0da2c2316e764dd33f8cecf721a3888c4560c96b389abf206306e76",
+        "sha256_metadados": "3497acbad28a918912dce1762fa70bcde8cef9cba2b2abd8d2bd231ea644dbcf",
+        "OID_HEAD": "7df762fa6441bd3011e176731831b79c2dd67f81",
+        "comando_proprio": [
+          "Art. 1º Fica alterada, de conformidade com a relação anexa, a Tabela Numérica Ordinária de Extranumerário-mensalista do Arsenal de Guerra General Câmara, da Diretoria do Material Bélico do Exército, do Ministério da Guerra."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1068,
+            "contexto": "Art. 3º Êste Decreto entrará em vigor na data de sua publicação. Rio de Janeiro, 8 de maio de 1944, 123º da Independência e 56º da República. GETULIO VARGAS. Eurico G. Dutra. <<ANEXO>>CLBR Vol. 04 Ano 1944 Pág. 244 e 245 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15462-1944-05-03.md",
+      "sha256_md": "20cc6db5b96aa2d87b582c6d224622108961e359106770d5d51277f7bf2d403f",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1944-05-03;15462",
+        "sha256_HTML": "4164b1e3503bfebf2319774a3bc7be3cee20867fb80c4eb958180f6c7bfdbb31",
+        "sha256_metadados": "14964c53b20df9a8e5a9bdd21482835535910f91ddf28881da18d6403ba95cc1",
+        "OID_HEAD": "4dc1b13529772c2df3e91139e5e412d2b1bc2160",
+        "comando_proprio": [
+          "Art. 1º Ficam aprovadas as anexas tabelas numéricas de mensalistas e diaristas da Administração do Pôrto de Laguna."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1172,
+            "contexto": "Art. 3º O presente Decreto vigorará a partir de 1º de janeiro de 1944, revogadas as disposições em contrário. Rio de Janeiro, 3 de maio de 1944, 123º da Independência e 56º da República. GETULIO VARGAS. João de Mendonça Lima. <<ANEXO>>CLBR Vol. 04 Ano 1944 Págs. 200 a 203 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15465-1944-05-03.md",
+      "sha256_md": "1591bd89024ce6b0ddf8423bd55487f5cfb9c5e8995aa37dcef02fa5dd1f9ed6",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1944-05-03;15465",
+        "sha256_HTML": "60c4f051d37bf41af5ce06a7d4a96b6de686ebeb5866375603f16f1c28b0cd14",
+        "sha256_metadados": "64989644cd7eee2d7fa5dfa33f050ef227be648f092fd84ec62c68b12cf39a77",
+        "OID_HEAD": "53dac4e36bdbd6b0ff7e04b54bc0d5cd4fd4742a",
+        "comando_proprio": [
+          "Art. 1º Ficam criadas, na Tabela Numérica Ordinária de Extranumerário-mensalista da Divisão do Impôsto de Renda e Delegacias, as funções constantes da relação anexa."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1049,
+            "contexto": "Art. 3º Êste decreto entrará em vigor na data de sua publicação. Rio de Janeiro, em 3 de maio de 1944, 123º da Independência e 56º da República. GETULIO VARGAS. A. de Souza Costa. <<ANEXO>>CLBR Vol. 04 Ano 1944 Págs. 206 a 212 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15467-1944-05-03.md",
+      "sha256_md": "d5c124c853e8e050cb31c6dfbc6cf32103188bf06f0f98957a06a5648bbd18b9",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1944-05-03;15467",
+        "sha256_HTML": "a06582639c0d0083df37c4063924d4dff1dbb3ee5671205f3678a8f09ea897f6",
+        "sha256_metadados": "6db20272a2b2cdf12bfc0a1c4fec409bc9960e415f5c0aa68da04328ac320e1e",
+        "OID_HEAD": "5bb0cb60d9fdbf22c353de279fbefadbae21b299",
+        "comando_proprio": [
+          "Art. 1º Fica alterada, de conformidade com a relação anexa, a Tabela Numérica Ordinária de Extranumerário-mensalista do Departamento Federal de Compras, do Ministério da Fazenda."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1451,
+            "contexto": "Art. 4º Êste decreto entra em vigor a partir de 1 de janeiro de 1944. Rio de Janeiro, 3 de maio de 1944, 123º da Independência e 56º da República. Getulio Vargas. A. de Souza Costa. <<ANEXO>>CLBR Vol. 04 Ano 1944 Págs. 214 a 216 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15469-1944-05-03.md",
+      "sha256_md": "ba1c2adaa4203ea4177c155941dc1ecb475733bba1f23a414ef00c3dfede1e7d",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1944-05-03;15469",
+        "sha256_HTML": "638492131b3b1c05683c5fff1c2d2483c158225df3725b7f4ca7e1f3352f6c93",
+        "sha256_metadados": "8932e5bd29426893059b402b55e523c949a9a4a21bf5b03e014300afed3b4355",
+        "OID_HEAD": "93ad1e86f55c3cada50b1a4cb7ef2bb353532bc8",
+        "comando_proprio": [
+          "Art. 1º Ficam transferidas, de conformidade com a relação anexa, da Tabela Numérica Ordinária de Extranumerário-mensalista da Divisão do Orçamento para a da Divisão do Material, ambas do Departamento de Administração do Ministério da Agricultura, duas funções de auxiliar de escritório, sendo uma referência X e uma referência VII.",
+          "Art. 2º Ficam transferidas, de conformidade com a relação anexa, da Tabela Numérica Suplementar de Extranumerário-mensalista da Divisão do Orçamento para a da Divisão do Material, ambas do Departamento de Administração, do Ministério da Agricultura, duas funções de escriturário, sendo uma referência XIV e uma referência XIII.",
+          "Art. 3º As funções a que se referem os artigos anteriores continuarão exercidas pelos atuais ocupantes, constantes da relação nominal anexa."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1350,
+            "contexto": "Art. 4º Êste decreto entrará em vigor na data de sua publicação. Rio de Janeiro, 3 de maio de 1944, 123º da Independência e 56º da República. Getulio Vargas. ApoIonio SalIes. <<ANEXO>>CLBR Vol. 04 Ano 1944 Págs. 220 a 222 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15494-1944-05-09.md",
+      "sha256_md": "3574ea8a849e65281fd78ef36f5a7322e0cff96cd5cb175f706bb1a2a4b4db29",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabelas numéricas de mensalistas e diaristas aprovadas pelo Art. 1º não reproduzidas; a escala-padrão salarial transcrita é objeto distinto, não comprova essas tabelas.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1944-05-09;15494",
+        "sha256_HTML": "f52640b359a5ce4c767f5b767c2caaf0501806904119c5f3ae693f2b712ca5fb",
+        "sha256_metadados": "f70aa293ea849c2b57ad420b22e8ce64de438358bda28c02f126462c3e9f63c7",
+        "OID_HEAD": "ce29660f4264c2eb302f9a3d44d6f14529401a87",
+        "comando_proprio": [
+          "Art. 1º Ficam aprovadas as anexas tabelas numéricas de mensalistas e diaristas da Rêde de Viação Paraná-Santa Catarina, em substituição às que acompanham o Decreto nº 13.090, de 4 de agôsto de 1943."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 9749,
+            "contexto": ".... ................................................................................. 2.600,00 46............................................................. .................................................................................. 2.700,00 47........................................................... .................................................................................... 2.800,00 48......................................................................... ...................................................................... 2.900,00 49............... .............................................. ................................................................................. 3.000,00 50.............................................................. ................................................................................. 3.100,00 51.............................................................. ................................................................................. 3.200,00 52............................................................. .................................................................................. 3.300,00 53...................... .................................... .................................................................................... 3.400,00 54............................................................. .................................................................................. 3.500,00 <<ANEXO>>CLBR Vol. 04 Ano 1944 Pag. 252 a 260 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-15139-1944-03-27.md",
+      "sha256_md": "1334a48c0c967237df2fa98d765946fc1687a344d0cc1a716938a070f917e42c",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1944-03-27;15139",
+        "sha256_HTML": "0ebcd85f2d364030cda10a3f233cb08f2ead4a6509e5b811cd954a037a6e4346",
+        "sha256_metadados": "f10afb46266229a9e134b607715b38a588e790681db320498386835c5bcfd5e9",
+        "OID_HEAD": "e35a7a6e7e3fa4b9cc95b06ce11e6fdba977ed41",
+        "comando_proprio": [
+          "Art. 3º As funções a que se referem os artigos anteriores são exercidas pelos servidores constantes da relação nominal anexa, a partir de 1 de janeiro de 1944."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 2932,
+            "contexto": "Art. 5º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário. Rio de Janeiro, em 27 de março de 1944, 123º da Independência e 56º da República. GETULIO VARGAS. Gustavo Capanema. <<ANEXO>>CLBR Vol. 02 Ano 1944 Págs. 580 a 582 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1944/dec-14608-1944-01-24.md",
+      "sha256_md": "46f1c8a937d50e022bd9a08110cb986625f42e0be1dd4f205641f67a8d22fb02",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1944-01-24;14608",
+        "sha256_HTML": "950d41e83bf3b0fa7a03e937dd67f4d152a9f482443ff4eb6123260f0c66b378",
+        "sha256_metadados": "3f40b0ccc258f398be553470c95ebcbbab90c4dcb3ef8cdf2862ca7b4e1de090",
+        "OID_HEAD": "c8623768142be12d96d6932386f7d69bc3a0ccf3",
+        "comando_proprio": [
+          "Art. 1º Ficam transferidas, no Ministério do trabalho, Indústria e Comércio, de conformidade com as relações anexas, da Tabela Numérica de Extranumerário mensalista do Departamento nacional da Propriedade Industrial, para a do Conselho de Recursos da Propriedade lndustrial, uma função de auxiliar de escritório, referência X, e, da Tabela de Extranumerário mensalista do Instituto Nacional de Tecnologia, para a Tabela Suplementar da Administração do Palácio do Trabalho, do Departamento de Administração, uma função de mestre, referência XVI.",
+          "Art. 2º Fica transferida, da Tabela Numérica de Extranumerário mensalista do Instituto Nacional de Tecnologia, do Ministério do Trabalho, Indústria e Comércio, para a do Departamento Federal de Compras, do Ministério da Fazenda, uma função de técnico de laboratório, referência XVI, que continuará preenchida pelo respectivo ocupante, de conformidade com as relações anexos.",
+          "Art. 3º Ficam suprimidas, na Tabela Numérica de Extranumerário mensalista do Departamento de Justiça do Trabalho, do Conselho Nacional do Trabalho, de conformidade com a relação anexa, duas funções de praticante de escritório, referência VI; na Tabela Numérica de Extranumerário mensalista do Instituto Nacional de Tecnologia, duas funções de técnico de laboratório, referência XII, e, na Tabela Suplementar de Extranumerário mensalista, dêsse mesmo Instituto, uma função de servente, referência VIII.",
+          "Art. 4º Ficam criadas, nas respectivas Tabelas Numéricas de Extranumerário mensalista, de conformidade com as relações anexas, as seguintes funções:"
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 4639,
+            "contexto": "Art. 6º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário. Rio de Janeiro, 24 de janeiro de 1944, 123º da Independência e 56º da República. Getúlio Vargas. A. de Sousa Costa. Alexandre Marcondes Filho. <<ANEXO>>CLBR Vol. 02 Ano 1944 Pág. 129 a 135 Tabelas."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1943/dec-13841-1943-11-01.md",
+      "sha256_md": "7c1341e784f5d98c02ec0d2705cf95952266e75188dde23dd6d1214ccbe09486",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-11-01;13841",
+        "sha256_HTML": "5c90ad9f087cafc1502474e65fe91db8ea3b4b9239ac06bd2d29e744d1b19f38",
+        "sha256_metadados": "d1df2a85a286a0623fd50ffaa9432104654d80f2a61399d32cec5886db947e10",
+        "OID_HEAD": "7139a9f10b6b76ea6e19dcfa3660d1b6e517df78",
+        "comando_proprio": [
+          "Art. 1º Fica alterada, de conformidade com a relação anexa, a Tabela Numérica de mensalista da Escola Militar, da Inspetoria Geral do Ensino, do Ministério da Guerra."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 857,
+            "contexto": "Art. 3º O presente decreto entrará em vigor na data da sua publicação. Rio de Janeiro, 1 de novembro de 1943, 122º da Independência e 55º da República. GETÚLIO VARGAS. Eurico G. Dutra. <<ANEXO>>CLBR Vol. 08 Ano 1943 Pág. 197 Tabela."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1943/dec-13845-1943-11-01.md",
+      "sha256_md": "84a28dfcdd3f4ae81932caa534dfb2212c7dcef1b0a82b903a0fc3568d33fb5d",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-11-01;13845",
+        "sha256_HTML": "9b9b15efaac22c11ae4c4f89b72efc488e444ee9a5199be98d505562d27f6924",
+        "sha256_metadados": "2631a7e851950d99f3fe87fd137cf9dfc35ee40a3d54af17a2c565e2ed715cc1",
+        "OID_HEAD": "bc12c0b0cb5d386f27d47c733d68f8af71d430c3",
+        "comando_proprio": [
+          "Art. 1º Fica alterada, na forma da relação anexa, a Tabela Numérica do Pessoal Mensalista do Estabelecimento de Subsistência Militar do Rio, da Subdiretoria de Subsistência do Exército, da Diretoria de Intendência do Exército, do Ministério da Guerra, correndo a despesa, na importância de Cr$ 19.200,00 (dezenove mil e duzentos cruzeiros) anuais, à conta de suas próprias rendas, de acôrdo com o art. 1º do decreto‑lei n. 3.490, de 12 de agôsto de 1941."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 948,
+            "contexto": "Art. 2º Êste decreto entrará em vigor na data de sua publicação. Rio de Janeiro, 1 de novembro de 1943, 122º da Independência e 55º da República. GETúLIO VARGAS. Eurico G. Dutra. <<ANEXO>>CLBR Vol. 08 Ano 1943 Pág. 213 Figura."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1943/dec-13744-1943-10-26.md",
+      "sha256_md": "80609afbb133452de54398a97039d81679efa037875e5d77a6879c74229845a6",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-10-26;13744",
+        "sha256_HTML": "bf986e2a2431b31982b5b6d5175f3453616adeda81b706d53828ba5b17e9b6e6",
+        "sha256_metadados": "6fc4963e8e3165c4f03474b541cd06a92b6dd5115ded1f7ce31a4e191ea9cd53",
+        "OID_HEAD": "08f7d8a7afe445b569f35564fc06b823b619a03f",
+        "comando_proprio": [
+          "Art. 1º Fica criada, de conformidade com a relação anexa, a Tabela Numérica de Extranumerário‑mensalista da Delegacia Fiscal do Tesouro Nacional no Rio Grande do Norte, do Ministério da Fazenda."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1033,
+            "contexto": "Art. 3º O presente decreto entrará em vigor na data da sua publicação. Rio de Janeiro, 26 de outubro de 1943, 122º da Independência e 55º da República. GETÚLIO VARGAS. de Sousa Costa. <<ANEXO>>CLBR Vol. 08 Ano 1943 Pág. 136 Tabela."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1943/dec-13743-1943-10-26.md",
+      "sha256_md": "165cd61d3e2189ed72eda740796207ad36488cfe00d6d098827055d75717fc31",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-10-26;13743",
+        "sha256_HTML": "b1cf382ee54f2adfb10b8162345fa7eb719ceecfbea7cebddd5ac9f3d8b00eac",
+        "sha256_metadados": "6f99560c534bb4e807ba1149a0a89b5c40a1b42ddb0e40918fda698c3001cb95",
+        "OID_HEAD": "50ac0f087653ccb1d5b6e432bffbba76cb8cc9fd",
+        "comando_proprio": [
+          "Art. 1º Ficam criadas, de conformidade com as relações anexas, as Tabelas numéricas de Extranumerário mensalista das Juntas de Conciliação e Julgamento de Petrópolis e Campos – 1ª Região; de Santos, Sorocaba, Campinas e Jundiaí – 2ª Região; Juiz de Fora – 3ª Região; e de Rio Grande – 4ª Região, dos Conselhos Regionais do Trabalho, da Justiça do Trabalho, do Ministério do Trabalho, Indústria e Comércio."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 1145,
+            "contexto": "Art. 2º Êste decreto entrará em vigor no dia 1 de janeiro de 1944, revogadas as disposições em contrário. Rio de Janeiro, 26 de outubro de 1943, 122º da Independência e 55º da República. GETÚLIO VARGAS. Alexandre Marcondes Filho. <<ANEXO>>CLBR Vol. 08 Ano 1943 Págs. 131, 132, 133, 134 e 135 Tabela."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1943/dec-13748-1943-10-26.md",
+      "sha256_md": "4e93d7c7b65c8c43749f5e926a50d96e2c4059fc1980f332e30166ec40088da7",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-10-26;13748",
+        "sha256_HTML": "a8347d5d9c74d4996aa9af6b1976c6e59f5e5c915d347351b7a49531aa6f1554",
+        "sha256_metadados": "25378b5d72a4cdf489bcc9e44ea7ac7d3f26282a4853e87462e8e08d0344532e",
+        "OID_HEAD": "096ff4cb1398307adb9f4e21a49d8bde9a713ab2",
+        "comando_proprio": [
+          "Art. 1º Fica alterada, de conformidade com a relação anexa, a Tabela Numérica de Extranumerário‑mensalista da Divisão de Inspeção de Produtos de Origem Animal, do Departamento Nacional da Produção Animal, do Ministério da Agricultura."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 774,
+            "contexto": "Art. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário. Rio de Janeiro, 26 de outubro de 1943, 122º da Independência e 55º da República. GETÚLIO VARGAS. Apolônio Sales. <<ANEXO>>CLBR Vol. 08 Ano 1943 Págs. 139 e 140 Tabela."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1943/dec-13707-1943-10-25.md",
+      "sha256_md": "d37d14200d8c4cb67b7f90c480547c9f1bede54fa901863a36ffd0c92944bf80",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-10-25;13707",
+        "sha256_HTML": "27a07646f32dbcd252cb73d8f7a05e2a86624590cbea00b2a93cbbf74373bb82",
+        "sha256_metadados": "07be824edc4ec820880db926cf9a0cc6740a33a18f16b7b874ac5fac6b004ebf",
+        "OID_HEAD": "898404e8c47e8981f4d632a23349c68ccdfd0689",
+        "comando_proprio": [
+          "Art. 1º Fica alterada, de conformidade com a relação anexa, a Tabela Numérica de Extranumerário‑mensalista do Estado Maior da Aeronáutica, do Ministério da Aeronáutica."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 636,
+            "contexto": "Art. 2º Êste decreto entrará em vigor na data de sua publicação. Rio de Janeiro, 25 de outubro de 1943, 122º da Independência e 55º da República. GETÚLIO VARGAS. Joaquim Pedro Salgado Filho. <<ANEXO>>CLBR Vol. 08 Ano 1943 Pág. 117 Tabela"
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1943/dec-12563-1943-06-10.md",
+      "sha256_md": "e7a517c5a3bbe4c68d418395030e1b0425dc939f3cfc2adb339a9705eb9ab479",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-06-10;12563",
+        "sha256_HTML": "0830599525fe4de20eb7630e36a400a1b9317352e2d63371415b5d0ea41ad0dc",
+        "sha256_metadados": "94e08d1ccd200e9c639658425a7f790188aafe17702b7bfb1bbcd7e3762b279b",
+        "OID_HEAD": "a0aa1f464892092de538e55c73c8983434b291fb",
+        "comando_proprio": [
+          "Art. 1º A partir de primeiro de junho do corrente ano, a tabela aprovada pelo decreto n. 11.452, de 2 de fevereiro de 1943, fica substituída pela que a êste acompanha."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 697,
+            "contexto": "Art. 2º Revogam-se as disposições em contrário. Rio de Janeiro, 10 de junho de 1943, 122º da Independência e 55º da República. Getulio Vargas. Osvaldo Aranha. <<ANEXO>>CLBR Vol. 04 Ano 1943 Págs. 454 Tabela."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1943/dec-11452-1943-02-02.md",
+      "sha256_md": "73917461f6f3c9add30f38cb08bf509a27968ee2cac4b22c75d44d2143c136d4",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Tabela ou relação própria determinada pelo decreto, representada somente pelo ponteiro bibliográfico; zero tabelas HTML/objetos visuais não substitui leitura do conteúdo inline.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-02-02;11452",
+        "sha256_HTML": "6ab7aa492ff9139e6caa602e92886a56a02782f2811677dfafad572d3d4b54e3",
+        "sha256_metadados": "0a7474ec65444e9376535c0816e1aa3866c121a2ea56dfa736a5e93f48f56602",
+        "OID_HEAD": "1df1b6fd3ae645ae9cd774c3ebf9b5fe817ec181",
+        "comando_proprio": [
+          "Art. 1º Fica aprovada, para o ano de 1943, a anexa tabela de gratificação, a título de representação, do pessoal em exercício no exterior, em funções diplomáticas ou consulares, organizada pelo Ministério das Relações Exteriores."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 901,
+            "contexto": "Art. 3º Revogam-se as disposições em contrário. Rio de Janeiro, em 2 de fevereiro de 1943, 122º da Independência e 55º da República. Getulio Vargas. Oswaldo Aranha. <<ANEXO>>CLBR Vol. 02 Ano 1943 Pág. 242 Tabela."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1943/dec-11451-1943-02-01.md",
+      "sha256_md": "81a6242ef22bfc622b02d162a0c687394b7ac8ca5d9b5997a13f0219a8939284",
+      "estado": "anexo_ausente_na_fonte_textual",
+      "motivo": "Modelo próprio de mapa de efetivos (Anexo n. 2), expressamente comandado pelo Art. 54; os ponteiros das tabelas são acompanhados só por observações.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-02-01;11451",
+        "sha256_HTML": "4b59e536df370135714ee08cf6fc9c1445d4bfc6a22d793838109b88031de4f3",
+        "sha256_metadados": "5897fe5fb3f56df73ca2c83ee17b1719077dc0ecea8d3ac40523f4d94ffbc933",
+        "OID_HEAD": "fada45219b3f20ccdeea08d9fc1e4389340707fa",
+        "comando_proprio": [
+          "Art. 54 A 1º Secção do Estado-Maior de Região Militar organiza, mensalmente, um mapa global dos efetivos da Região, com discriminação dos efetivos fixados e existentes, claros e excessos. (Anexo n. 2)."
+        ],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 38098,
+            "contexto": "Art. 88 Revoga este Regulamento as disposições dos decretos numeros 15.065, de 24 de outubro de 1921 e 3.506, de 28 de dezembro de 1939, bem como todas as disposições em contrário. Rio de Janeiro, 1 de fevereiro de 1943. – Eurico G. Dutra <<ANEXO>>CLBR Vol. 02 Ano 1943 Pág. 241 Tabela. Observações – (1) Tem s mais a Secção Topográfica Regional. (2) O adjunto da 3º Secção com o curso de E. Art. Costa. (3) As Bdas.I e Bdas. Mistas teem apenas um sdjunto e as Bdas. de C. apenas um assistente. (4) Disporão ainda os Q. G. R. do pessoal constante de coluna \"observações'', o qual não pertence ao quadro fixado pelo decreto-lei n. 5.190, de 14-1-1943. Nota – O Serviço de Correio será dirigido, de preferência, por um tenente da reserva ou convocado. – O presente quadro corresponde às necessidades stuais, podendo ser modificado anualmente, desde que o desenvolvimento dos orgãos o impuser. <<ANEXO>>CLBR Vol. 02 Ano 1943 Pág. 242 Tabela. NOTAS – O"
+          },
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 38750,
+            "contexto": "Art. Costa. (3) As Bdas.I e Bdas. Mistas teem apenas um sdjunto e as Bdas. de C. apenas um assistente. (4) Disporão ainda os Q. G. R. do pessoal constante de coluna \"observações'', o qual não pertence ao quadro fixado pelo decreto-lei n. 5.190, de 14-1-1943. Nota – O Serviço de Correio será dirigido, de preferência, por um tenente da reserva ou convocado. – O presente quadro corresponde às necessidades stuais, podendo ser modificado anualmente, desde que o desenvolvimento dos orgãos o impuser. <<ANEXO>>CLBR Vol. 02 Ano 1943 Pág. 242 Tabela. NOTAS – O efetivo previsto é o constante dos quadros de etetivo ds Organização do Exército, em vigor Efetivo orçamentário, efetivos-tino ou efetivos de guerra, conforme o caso). – O efetivo existente é o que há, realmente. nas unidades de tropa, estabelecimentos.quartéis generais e contingentes."
+          }
+        ],
+        "conclusao_contextual": "Comando próprio literal confrontado com a transcrição integral arquivada. Não é mera remissão a anexo de outra lei: o decreto cria, altera ou substitui a relação/tabela que o acompanha."
+      }
+    },
+    {
+      "path": "federal/decretos/1942/dec-11101-1942-12-11.md",
+      "sha256_md": "cd376db8b848032289473669bd3947bd532da40ee11ec1cdb3f1c5051ff0b215",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Ponteiro CLBR exige contexto suplementar; integralidade ainda nao validada, sem afirmar ausencia propria definitiva.",
+      "evidencia": {
+        "manifesto": "federal/_fonte/auditorias/retomada_federal_20261027_004/overlay_placeholders_publicados12669_v2.json",
+        "sha256_manifesto": "254fa0c623171c71d8d838403d82fd69dd6f4ccef859d462911127634239032f",
+        "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1942-12-11;11101",
+        "sha256_HTML": "f901738bfe64ab1b9c0d1480ea30f00f470f3a35aada0aa3893f7e98e8589940",
+        "sha256_metadados": "af79afbf9eab5245466eb03b6128db553c91db982adc785892206348a0d7378e",
+        "OID_HEAD": "8eebee5d2c833daeb3b7313dc7d3837166232d6c",
+        "comando_proprio": [],
+        "ocorrencias": [
+          {
+            "literal": "<<ANEXO>>",
+            "offset_visivel": 62857,
+            "contexto": "Art. 95. As Divisões, o S. Ob. e o S. D. promoverão reuniões internas com o objetivo de proporcionar aos seus servidores o conhecimento e exame dos assuntos de maior relevância que tiverem transitado pelas diversas secções bem como o debate de questões de ordem doutrinária, cujo esclarecimento interessar à respectiva Divisão ou Serviço. Parágrafo único. Servidores de outro setor da Administração Pública poderão participar das reuniões, mediante autorização do respectivo Diretor. Rio de Janeiro, em 11 de dezembro de 1942. <<ANEXO>> CLBR Vol. 08 Ano 1942 Pág. 488. Mapa 1. (Divisão D.A.S.P.)"
+          }
+        ],
+        "conclusao_contextual": "Regulamento e organização constam em prosa. Não foi demonstrado aqui que o ponteiro corresponda a objeto normativo próprio adicional, em vez de quadro explicativo; não incluir automaticamente em máscara."
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6114-1940-08-19.md",
+      "sha256_md": "d26ffdd46f0951496281c1274006a1293b26b1a109c944304b06cc9278533e2e",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "4da48f6d4ff2a2f2d3bc98da433d56751c972a62",
+        "categoria": "projeto_estudos_proprios_nao_representados",
+        "fonte": "https://www2.camara.leg.br/legin/fed/decret/1940-1949/decreto-6114-19-agosto-1940-326635-publicacaooriginal-1-pe.html",
+        "sha256_HTML": "4e68026a1dfdbe8d0136bfa422e4087a7deafc70e008f85c4e59320d28b694fc",
+        "sha256_metadados": "0e15aa13bfa0fd9ca37882916bcca375770a4f6b50a760e54f382446b109eefd",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 3,
+            "literal_integral": "**Art. 1º** Ficam aprovados o projeto e orçamento básico que com este baixam, rubricados pelo Diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas, na importância de 17:493$390 (dezessete contos quatrocentos e noventa e três mil trezentos e noventa réis), para aquisição e instalação de uma caixa dágua de ferro, com 9.000 litros de capacidade, construção de casa para bomba, intalação de bomba e canalizações, na estação de Venda das Pedras, da linha de Macaé, de \"The Leopoldina Railway Company, Limited\".",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "A capacidade de 9.000 litros, os componentes, o total, o custeio, o prazo e o fecho estão presentes. Esses dados resumidos não reproduzem o projeto e orçamento básico próprios declarados no art. 1º."
+      }
+    },
+    {
+      "path": "federal/decretos/1940/dec-6115-1940-08-19.md",
+      "sha256_md": "f76207a1a949af585433322a675854f29705b5e390219dda5e00ad231c6c8609",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "a98ce73419fb1a8b54b17c49815e22bda0c12926",
+        "categoria": "projeto_estudos_proprios_nao_representados",
+        "fonte": "https://www2.camara.leg.br/legin/fed/decret/1940-1949/decreto-6115-19-agosto-1940-326638-publicacaooriginal-1-pe.html",
+        "sha256_HTML": "7d5d1a04e0c5284d985ce3a74aba4d174796e4fd3d51bf705452f6c0c47d79c3",
+        "sha256_metadados": "84a4e601106c4b50feb7a3e01eed856f16fb22439da3522cc13af007193d821b",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 3,
+            "literal_integral": "**Art. 1º** Ficam aprovados o projeto e orçamento que com este baixam, rubricados pelo Diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas, relativos à construção de um embarcadouro para veículos na estação de Praia Formosa - de \"The Leopoldina Railway Company, Limited\".",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "O orçamento não é numericamente ausente: o art. 2º traz 13:815$830. Os arts. 1º–3º e o fecho estão presentes. O projeto e orçamento próprios declarados no art. 1º continuam sem representação documental separada."
+      }
+    },
+    {
+      "path": "federal/decretos/1938/dec-2908-1938-08-01.md",
+      "sha256_md": "bc59c8c76fd8726fdc7392fd0a611239e5a593c30145f778e5c4d9c4538259ce",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "2836cb3f80efcd7a0ab3a1f018cc791c9d2f4842",
+        "categoria": "projeto_estudos_proprios_nao_representados",
+        "fonte": "https://normas.leg.br/api/public/binario/e15d7986-9b0c-4216-bf5f-c7be95ac513b/texto",
+        "sha256_HTML": "726b88e267e2b13852e1a634685a12bbb0d9e7173c43fa8c899fac77d01b5bf4",
+        "sha256_metadados": "a40528c9462ca4c0062d2735ec596fd712e948246c779989c2c136a0e687a888",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "Artigo único. Ficam aprovados o projeto e orçamento, na importância de 1.329:832$851 (mil trezentos e vinte e nove contos, oitocentos e trinta e dois mil, oitocentos e cinquenta e um réis), os quais com este baixam, rubricados pelo diretor de Contabilidade da Secretaria de Estado da viação e Obras Públicas, para a construção da variante da serra do \"Cala-Boca\", entre os quilômetros 29+894 e 34+115, na Estrada de Ferro Maricá.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "O dispositivo de aprovação vincula o projeto/estudos e orçamento atuais ao próprio decreto, com autenticação/rubrica. O restante do corpo conserva custeio, prazo ou fecho, conforme aplicável, sem reproduzir o projeto/estudos. Valor e localização da obra identificam o objeto, mas não substituem sua representação técnica."
+      }
+    },
+    {
+      "path": "federal/decretos/1938/dec-2909-1938-08-01.md",
+      "sha256_md": "7e7aed5c07db85d008141c4dcac33fe858a36b5132511992071e66e099df9c38",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "4cc0fd16f9b811a42a6eb5ba102a33c1b45626ed",
+        "categoria": "projeto_estudos_proprios_nao_representados",
+        "fonte": "https://normas.leg.br/api/public/binario/682049a2-69a8-48cc-a237-6b408e388847/texto",
+        "sha256_HTML": "ec03d446b8c12addfc18a1ae03f2782b80f74f9021893f8738d47dc1f07584a7",
+        "sha256_metadados": "9c20c5dea876ff51f9b6427ad34d7aeb77df1c93c7515b899d74d840ce5c78ec",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "**Artigo único.** Ficam aprovados o projeto e orçamento, na importância de 98 367$841 (noventa e oito contos trezentos e sessenta e sete mil oitocentos o quarenta e um réis), os quais com este baixam, rubricado pelo diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas, para a construção do aumento de armazém da estação de Caxias, as linha de Montenegro a Caxias, da Rede de Viação Férrea Federal do Rio Grande do Sul.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "O dispositivo de aprovação vincula o projeto/estudos e orçamento atuais ao próprio decreto, com autenticação/rubrica. O restante do corpo conserva custeio, prazo ou fecho, conforme aplicável, sem reproduzir o projeto/estudos. Valor e localização da obra identificam o objeto, mas não substituem sua representação técnica."
+      }
+    },
+    {
+      "path": "federal/decretos/1938/dec-2910-1938-08-01.md",
+      "sha256_md": "890e7bd3ac533dcff7795147909ab6d5f38201902b706649e8011751f2fd3880",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "bf4099acb80621831e3a682b7197630a2be667bc",
+        "categoria": "projeto_estudos_proprios_nao_representados",
+        "fonte": "https://normas.leg.br/api/public/binario/62182cd6-c4d0-4e53-bbc3-093654ff7f4f/texto",
+        "sha256_HTML": "3edf340341b5408041a20a6b0742f1b3b2ff708142bf268cb9b1d9be527e3a99",
+        "sha256_metadados": "c67ebb985ae36017d6c34ebe2229b9c02031f4c5a10868a91f06ecb2c64df80f",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "**Artigo único**. Ficam aprovados o projeto e orçamento provavel da importância de 157:904$131 (cento e cinquenta e sete contos, novecentos e quatro mil, cento e trinta e um réis), os quais com este baixam, rubricados pelo diretor de Contabilidade da Secretaria de Estado da Viação e Obras Pública, relativos à construção do edifício destinado à sub-estação, transformadora e distribuidora de energia elétrica necessária às instalações para inflamáveis, da ilha do Barnabé, no porto de Santos.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "O dispositivo de aprovação vincula o projeto/estudos e orçamento atuais ao próprio decreto, com autenticação/rubrica. O restante do corpo conserva custeio, prazo ou fecho, conforme aplicável, sem reproduzir o projeto/estudos. Valor e localização da obra identificam o objeto, mas não substituem sua representação técnica."
+      }
+    },
+    {
+      "path": "federal/decretos/1938/dec-2918-1938-08-01.md",
+      "sha256_md": "f78d421d8dcb146b82cea3808f3c4fbe6d2d61ef252f520d159545c965ac525f",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "59d094ef2c5b0efa97e89f24e4b4e4add296b090",
+        "categoria": "projeto_estudos_proprios_nao_representados",
+        "fonte": "https://normas.leg.br/api/public/binario/c8804b2c-57d1-4707-965e-7103f1998475/texto",
+        "sha256_HTML": "f75ca8a86252988c094d9fdcc4a37caa86e61f4b67bb6510cd5aff4e8557d55f",
+        "sha256_metadados": "ad23fc0ec0db3d083bebcec5a294da99378ecfa2eb9e17e9f36accbb8dd107b0",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "**Artigo único.** Ficam aprovados o projeto e orçamento, na importância de 99:979$367 (noventa e nove contos novecentos e setenta e nove mil trezentos e sessenta e sete réis), os quais com este baixam, rubricados pelo diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas, relativos à construção de uma ponte de atracação na ilha de Bom Jesus, no Estado da Baía.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "O dispositivo de aprovação vincula o projeto/estudos e orçamento atuais ao próprio decreto, com autenticação/rubrica. O restante do corpo conserva custeio, prazo ou fecho, conforme aplicável, sem reproduzir o projeto/estudos. Valor e localização da obra identificam o objeto, mas não substituem sua representação técnica."
+      }
+    },
+    {
+      "path": "federal/decretos/1938/dec-2928-1938-08-03.md",
+      "sha256_md": "997fd4bd78a47e62c71a98f3fc70b398b3ea4834ee552bb43f0a7b9c07d563b7",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "5f4074afba0ace054e5b7d44de2dc91d0293eec2",
+        "categoria": "planta_propria_nao_representada",
+        "fonte": "https://normas.leg.br/api/public/binario/e6ceaeff-d62e-4061-9195-07693b975b39/texto",
+        "sha256_HTML": "13d9d4c459d2648d93b51460b04c69251042da6ed0605ed3e111200d8d5d6c85",
+        "sha256_metadados": "9ad1c6b49b7d6a0832400ad6079f9fd7499418db0456f6427bb1950e64ef044f",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "**Artigo único.** Autoriza a Companhia Telefônica Brasileira a fazer a ligação de suas linhas nos limites dos Estados de Minas Gerais e São Paulo, entre Delfim Moreira e Piquete, cuja planta F-3776 com este baixa, autenticada pelo diretor de Contabilidade da Secretaria de Estado do Ministério da Viação e Obras Públicas.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "A autorização descreve a ligação e seus extremos, mas declara baixar planta própria autenticada. A área normativa integral não contém imagem, tabela, anexo textual substitutivo ou link para essa planta; os extremos da ligação não representam seu desenho."
+      }
+    },
+    {
+      "path": "federal/decretos/1938/dec-2929-1938-08-03.md",
+      "sha256_md": "699fda5fa5c2a2f1057df23629de07ca9dc4b6e23edda8a7f165dc21f269816f",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "04d0cd5bf9b7db3043d12b8430ff1db6a06b413f",
+        "categoria": "planta_propria_nao_representada",
+        "fonte": "https://normas.leg.br/api/public/binario/76825b37-aea3-462b-a6d7-3bd6ff4c3d71/texto",
+        "sha256_HTML": "c2af696f253cbd96620bbbe2c29a68140cf9b64865a5c434d605cec08fedb226",
+        "sha256_metadados": "bb041eba155eeedc69072a5f699a0b7e8d5eb90af66826d15e6174fc8e23882c",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "**Artigo único.** Autoriza a Companhia Telefônica Brasileira a fazer a ligação de suas linhas nos limites dos Estados do Rio de Janeiro e São Paulo, nas proximidades de Rezende e Formoso, cuja planta F-3775 com este baixa, autenticada pelo diretor de Contabilidade da Secretaria de Estado do Ministério da Viação e Obras Públicas.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "A autorização descreve a ligação e seus extremos, mas declara baixar planta própria autenticada. A área normativa integral não contém imagem, tabela, anexo textual substitutivo ou link para essa planta; os extremos da ligação não representam seu desenho."
+      }
+    },
+    {
+      "path": "federal/decretos/1938/dec-2930-1938-08-03.md",
+      "sha256_md": "53348bce11c0520016831309f010c2fd54fcd69c778792b33c4df3feb3b51dc1",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "8d0163a1c23fbbba0a0d74d07f484772464c8ad7",
+        "categoria": "planta_propria_nao_representada",
+        "fonte": "https://normas.leg.br/api/public/binario/ae491362-34cf-4186-a6af-e034152116ae/texto",
+        "sha256_HTML": "ccfee6645f5846de39e8f8a489efe944b88ce60e32c1a1df0f50e392e35b855c",
+        "sha256_metadados": "1579a454dae7ec533426bc2e6d64feaf868e69630e83674d69428fe05d9b2f8d",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "**Artigo único.** Autoriza a Companhia Telefônica Brasileira a fazer a ligação de suas linhas nos limites dos Estados de Minas Gerais e São Paulo, nas proximidades dos lugares Delta e União, cuja planta F-3799, com este baixa, autenticada pelo diretor de Contabilidade da Secretaria de Estado do Ministério da Viação e Obras Públicas.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "A autorização descreve a ligação e seus extremos, mas declara baixar planta própria autenticada. A área normativa integral não contém imagem, tabela, anexo textual substitutivo ou link para essa planta; os extremos da ligação não representam seu desenho."
+      }
+    },
+    {
+      "path": "federal/decretos/1938/dec-2931-1938-08-03.md",
+      "sha256_md": "4b14d88e789ae3ff5c35deff5f0a1a35a7b86e48485d8afe4fe8d96fd0190c0e",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "79fc9801088182cb0826be7fc56bf0b3e20bbdce",
+        "categoria": "planta_propria_nao_representada",
+        "fonte": "https://normas.leg.br/api/public/binario/23af6467-caef-4b4f-9e2f-cf74b56527a5/texto",
+        "sha256_HTML": "9acd0f25daf39a86e42eb450361040b1867f59ff63983f7cf6daddfaf38cd689",
+        "sha256_metadados": "f195aba349284b05eb6e9c23ba29da943ee2a3af185d7927f6d6589c8b205bb4",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "**Artigo único.** Autoriza a Companhia Telefônica Brasileira a fazer a ligação de suas linhas nos limites dos Estados do Rio de Janeiro e Espírito Santo, nas proximidades de Santo Eduardo e Bom Jesus, cuja planta X-3399 com este baixa, autenticada pelo diretor de Contabilidade da Secretaria de Estado do Ministério da Viação e Obras Públicas.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "A autorização descreve a ligação e seus extremos, mas declara baixar planta própria autenticada. A área normativa integral não contém imagem, tabela, anexo textual substitutivo ou link para essa planta; os extremos da ligação não representam seu desenho."
+      }
+    },
+    {
+      "path": "federal/decretos/1938/dec-2949-1938-08-08.md",
+      "sha256_md": "cc64e4da2535011485b8515c7d4e70f4b3687e4a04a35b9a2577cf1479492074",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "6c84e7968196a25380299f2c8a4c55901b07e161",
+        "categoria": "projeto_estudos_proprios_nao_representados",
+        "fonte": "https://normas.leg.br/api/public/binario/879630a7-9dc6-461d-89b7-dc6daf704fd7/texto",
+        "sha256_HTML": "f6776e24833f2b79da376d782be61f29cb445ac12e592d33d839bb7e13ed621e",
+        "sha256_metadados": "ee9c1f33502b3c5ad1bf73808ed3904e978380350a0a4922f8eb64a6af30055c",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 5,
+            "literal_integral": "**Artigo único**. Fiam aprovados o projeto e orçamento provavel, na importância de 391:243$573 (trezentos e noventa e um contos, duzentos e quarenta e tres mil quinhentos e setenta e tres réis), os quais com este baixam, rubricados pelo diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas, relativos à construção dos tanques OCA-5 e OCA-6, para depósito de óleo de caroços de algodão, das Indústrias Reunidas Francisco Matarazzo, incluindo muros de recinto, plataforma, casa de bombas, encanamentos e pertences, na ilha de Barnabé, porto de Santos.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "O dispositivo de aprovação vincula o projeto/estudos e orçamento atuais ao próprio decreto, com autenticação/rubrica. O restante do corpo conserva custeio, prazo ou fecho, conforme aplicável, sem reproduzir o projeto/estudos. Valor e localização da obra identificam o objeto, mas não substituem sua representação técnica."
+      }
+    },
+    {
+      "path": "federal/decretos/1938/dec-3002-1938-08-19.md",
+      "sha256_md": "989090a24af9c28914df223d3501be62ec3073dbd5308943502838a9cc5cd44c",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "eee096912f441287ec7dc0eb37d3fa937926bcae",
+        "categoria": "projeto_estudos_proprios_nao_representados",
+        "fonte": "https://normas.leg.br/api/public/binario/6e675001-f9bb-4caa-9882-a976d908065b/texto",
+        "sha256_HTML": "d05dfb5af621ff2a8fb311d607519be68dae32f3bb2b8289fa0b89c36048234d",
+        "sha256_metadados": "cc32bcf04327c39e58c769df15a254a1054a26bec0fda4c7644e659eca384eb0",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "**Artigo único.** Ficam aprovados o projeto e o orçamento, na importância total de 945:000$000 (novecentos e quarenta e cinco contos de réis), os quais com este baixam, rubricados pelo diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas, para continuação dos melhoramentos do porto de Cabo Frio, no Estado do Rio de Janeiro.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "O dispositivo de aprovação vincula o projeto/estudos e orçamento atuais ao próprio decreto, com autenticação/rubrica. O restante do corpo conserva custeio, prazo ou fecho, conforme aplicável, sem reproduzir o projeto/estudos. Valor e localização da obra identificam o objeto, mas não substituem sua representação técnica."
+      }
+    },
+    {
+      "path": "federal/decretos/1938/dec-3027-1938-08-27.md",
+      "sha256_md": "dc9d4b06725b70f5a18ec3b7d438788ae0bb3c11f645b417983e4adbb0cc97a7",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "6eaf7fe2dd4b4216aa9632c3cf772b853ff3f468",
+        "categoria": "especificacoes_proprias_nao_representadas",
+        "fonte": "https://normas.leg.br/api/public/binario/cd02ce12-18e0-45b0-945b-68b1863da80b/texto",
+        "sha256_HTML": "ded1d31ac54162312d613dd0b5fc62284ba53a3258f551f7d0597b6219b3f6e2",
+        "sha256_metadados": "0273e3e84dc8b9cf6e763581a473bfbd6580641b9c153a4c028f5748acc080c6",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 3,
+            "literal_integral": "**Artigo único.** Ficam aprovados os orçamentos prováveis, na importância total de 1.213:250$000 (mil duzentos e treze contos, duzentos e cincoenta mil réis), os quais com este baixam, rubricados pelo diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas relativos à aquisição de tres locomotivas para bitola de 1m,60, e à de dez vagões abertos, para a mesma bitola, destinados ao transporte de mercadorias no cáis do porto de Santos e correspondendo às especificações dos orçamentos inclusos.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "O artigo exige correspondência às especificações dos orçamentos inclusos. Quantidades, bitola e total não reproduzem essas especificações; há evidência textual adicional à mera menção a um total."
+      }
+    },
+    {
+      "path": "federal/decretos/1938/dec-3028-1938-08-27.md",
+      "sha256_md": "0f0f5c9d8ab4bf48a9d2d628f43e021ea5bf296b559563290bab1106f31df966",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "7a9fd744bd931e37fb909547fa5ead4e4c0e7379",
+        "categoria": "planta_propria_nao_representada",
+        "fonte": "https://normas.leg.br/api/public/binario/7474ef19-5c3b-4e12-bc59-0f0ba6b3a26f/texto",
+        "sha256_HTML": "89fa0358e6791431273dd944c2602469510f7c64fde8eeaf116d742351840ff5",
+        "sha256_metadados": "15ef83d9f730d4236ce847674a93288d14593ff234a61698e7a1f9c3b63e8da2",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 6,
+            "literal_integral": "**Parágrafo único.** Fica aprovado, em substituição ao do que trata no decreto n. 689, de 13 de março de 1936, o novo orçamento das obras, na importância total de 11.796:710$730 (onze mil, setecentos e noventa e seis contos, setecentos e dez mil, setecentos e trinta réis), na conformidade da planta e memória descritiva que com este baixam, todos esses documentos rubricados pelo diretor de Contabilidade da Secretaria do Estado da Viação e Obras Públicas.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "A alteração do recobrimento do concreto (0m,03/0m,05) está transcrita no art. 2º. A mesma nova redação aprova novo orçamento e remete expressamente a planta e memória descritiva que baixam com este decreto. Trata-se de objeto do ato modificador, não só da remissão histórica ao Decreto 689/1936."
+      }
+    },
+    {
+      "path": "federal/decretos/1938/dec-3058-1938-09-12.md",
+      "sha256_md": "2a69c712205335a5fdf0d2d0c5231dfbc65fe8be703e6d87ad5a5832437eadb5",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "f79dda3b70de5a9f446daa2ce54b6dd74cc5d7a3",
+        "categoria": "projeto_estudos_proprios_nao_representados",
+        "fonte": "https://normas.leg.br/api/public/binario/754d73d2-c41d-4bb4-8904-b57ef891568d/texto",
+        "sha256_HTML": "244f0c6d959b0a3a1cfead7a967115abf75c3dfc3b5ccf24c474245b32e9e356",
+        "sha256_metadados": "6d0c879afefdb6700a79d654cec4bce87721537233061997fcc0d381cc99ab8a",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "**Artigo único.** Ficam aprovados os projetos e orçamentos, na importância total de 355:932$593 (tresentos e cincoenta e cinco contos, novecentos e trinta e dois mil quinhentos e noventa e tres réis), os quais com este baixam, rubricados pelo diretor de Contabilidade da Secretaria do Estado da Viação e Obras Públicas, para a construção de um armazem, de um depósito de inflamáveis, de oficinas e de linhas de acesso, na estação de Cacequí, situada no quilômetro 112+ 892, da linha Santa Maria a Uruguaiana, na Rede de Viação Férrea Federal do Rio Grande do Sul.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "O dispositivo de aprovação vincula o projeto/estudos e orçamento atuais ao próprio decreto, com autenticação/rubrica. O restante do corpo conserva custeio, prazo ou fecho, conforme aplicável, sem reproduzir o projeto/estudos. Valor e localização da obra identificam o objeto, mas não substituem sua representação técnica."
+      }
+    },
+    {
+      "path": "federal/decretos/1938/dec-3065-1938-09-12.md",
+      "sha256_md": "2283f15dcd53bbc399e1c07587843611e8dca4bb9cd4fe8c5490b3699ade4a71",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "438bd518d52f6da72b03b87be619cd986f8fc834",
+        "categoria": "projeto_estudos_proprios_nao_representados",
+        "fonte": "https://normas.leg.br/api/public/binario/6fe367d9-8311-4f0f-a178-01809099ae3b/texto",
+        "sha256_HTML": "58c6f891c368a724cb4caf7741f76ddf199a1bf0b0c1ec3f57227710faf5aa9b",
+        "sha256_metadados": "1f9c25b97a2bff3674941ef79fcb39b6ab93f99aef62d3a5d05acb02ebedd837",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "**Artigo único.** Ficam aprovados o projeto e orçamento, na importância de 115:138$196 (cento e quinze contos cento e trinta e oito mil cento e noventa e seis réis), os quais com este baixam, rubricados pelo diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas, para a construção de casas destinadas ao pessoal da turma n. 66, no quilômetro 254 + 798, na linha de Cacequí a Rio Grande, da Rede de Viação Férrea Federal do Rio Grande do Sul.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "O dispositivo de aprovação vincula o projeto/estudos e orçamento atuais ao próprio decreto, com autenticação/rubrica. O restante do corpo conserva custeio, prazo ou fecho, conforme aplicável, sem reproduzir o projeto/estudos. Valor e localização da obra identificam o objeto, mas não substituem sua representação técnica."
+      }
+    },
+    {
+      "path": "federal/decretos/1938/dec-3081-1938-09-17.md",
+      "sha256_md": "4b99bf1504f9343298b5009ce89e8b60ad883a99819b70c23f7e44bee96e3b67",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "08b9e29b92daad788ed0e1978570b4d9e8cade43",
+        "categoria": "projeto_estudos_proprios_nao_representados",
+        "fonte": "https://normas.leg.br/api/public/binario/b4be2e50-3f15-44ce-b5af-bcda956e9f94/texto",
+        "sha256_HTML": "670fa358330e973d20de406195e7499f51d9f3b20a9833a757eb1e364b791cfa",
+        "sha256_metadados": "ea7c151c978dec97de19e0879c765bada100c617f341df46d3c6c59e1720e138",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "**Artigo único**. Ficam aprovados o projetos e orçamento, na importância de 107:962$738 (cento e sete contos novecentos e sessenta e dois mil setecentos e trinta e oito réis), os quais com este baixam, rubricados pelo Diretor de contabilidade da Secretaria de Estado da Viação e Obras Públicas, relativos à construção de um grupo de casas para feitor, imediato e trabalhadores da turma 49, no quilômetro 86+616m da linha de Santa Maria a Uruguaiana, da Rede de Viação Férrea Federal do Rio Grande do Sul.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "O dispositivo de aprovação vincula o projeto/estudos e orçamento atuais ao próprio decreto, com autenticação/rubrica. O restante do corpo conserva custeio, prazo ou fecho, conforme aplicável, sem reproduzir o projeto/estudos. Valor e localização da obra identificam o objeto, mas não substituem sua representação técnica."
+      }
+    },
+    {
+      "path": "federal/decretos/1938/dec-3117-1938-10-03.md",
+      "sha256_md": "eaa3938fe3220ae08ac3655634d59f8dce7abe1e1430ae49e2270fafacc88132",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "f13ed7a3230418c7d4e5b8c003cfb2571a17d6c9",
+        "categoria": "projeto_estudos_proprios_nao_representados",
+        "fonte": "https://normas.leg.br/api/public/binario/77ac8284-339b-41e2-9955-cdf973bd91d2/texto",
+        "sha256_HTML": "f2380fa64080013054ed3516d77bcd7c2df96806061f5262e21be421ac583c47",
+        "sha256_metadados": "1314f27db51b39fe194f76bf11f25bb97c516bdffa8be1c057582019aca33a10",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "**Artigo único.** Ficam aprovados o projeto e orçamento provavel, na importância de 180:722$653 (cento e oitenta contos, setecentos e vinte e dois mil, seiscentos e cincoenta e três réis), os quais com este baixam, rubricados pelo Diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas, relativos à construção de um novo circuito elétrico, alimentador de energia, sob 6.600 volts, na ilha do Barnabé, porto de Santos.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "O dispositivo de aprovação vincula o projeto/estudos e orçamento atuais ao próprio decreto, com autenticação/rubrica. O restante do corpo conserva custeio, prazo ou fecho, conforme aplicável, sem reproduzir o projeto/estudos. Valor e localização da obra identificam o objeto, mas não substituem sua representação técnica."
+      }
+    },
+    {
+      "path": "federal/decretos/1938/dec-3118-1938-10-03.md",
+      "sha256_md": "2c0c6c06a66d6b6e0ff42a396c7fa6f123136038e481da326ca38994598e9ced",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "4a8204118283c8fbac5fbab6f661d8444f838bbc",
+        "categoria": "projeto_estudos_proprios_nao_representados",
+        "fonte": "https://normas.leg.br/api/public/binario/43a0f41e-924a-45aa-bf51-dd43c67303b2/texto",
+        "sha256_HTML": "18e5f2b66ae397bb708ec603f61029aaecc860a5ab80d3e62cb0c13ba1ffc2ad",
+        "sha256_metadados": "57eb308a81ca07cee29d8490946a73f061683c9e4d556787c190aa266fc2173b",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "**Artigo único.** Ficam aprovados o projeto e orçamento estimativo, na importância de 185:577$929 (cento e oitenta e cinco contos, quinhentos e setenta e sete mil, novecentos e vinte e nove réis), os quais com este baixam, rubricados pelo Diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas, relativos à construção do edifício para escritório e depósito de materiais da Divisão Marítima, galpão e tanque de óleo paga fornecimento às embarcações, no cais do porto de Santos.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "O dispositivo de aprovação vincula o projeto/estudos e orçamento atuais ao próprio decreto, com autenticação/rubrica. O restante do corpo conserva custeio, prazo ou fecho, conforme aplicável, sem reproduzir o projeto/estudos. Valor e localização da obra identificam o objeto, mas não substituem sua representação técnica."
+      }
+    },
+    {
+      "path": "federal/decretos/1938/dec-3120-1938-10-03.md",
+      "sha256_md": "85f03102a4a3ce87189a1e1e1d3e4443618df2c9c7cea7cea8f406711ff20050",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "36034d6d2abbf5a5e7697d7a3d3c93d33c67770a",
+        "categoria": "projeto_estudos_proprios_nao_representados",
+        "fonte": "https://normas.leg.br/api/public/binario/90456f23-b3cc-47bf-b811-2153f09574d9/texto",
+        "sha256_HTML": "d6a9314573755d14ac980b32e18f03ba0ac4e0db581b7e2003f70ec524638569",
+        "sha256_metadados": "400bc38fa109f7ba6080ebe12f10c977d6980b0692d08b23f123891fb62bba43",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "**Artigo único.** Ficam aprovados o projeto e orçamento, na importância de 123:062$296 (cento e vinte e tres contos, sessenta e dois mil, duzentos e noventa e seis réis), os quais com este baixam, rubricados pelo Diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas, relativos à construção de um grupo de casas para feitor, imediato e trabalhadores da turma 19, no km. 91+910 m., do ramal de \"Montenegro a Caxias\", na Rede de Viação Férrea Federal do Rio Grande do Sul.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "O dispositivo de aprovação vincula o projeto/estudos e orçamento atuais ao próprio decreto, com autenticação/rubrica. O restante do corpo conserva custeio, prazo ou fecho, conforme aplicável, sem reproduzir o projeto/estudos. Valor e localização da obra identificam o objeto, mas não substituem sua representação técnica."
+      }
+    },
+    {
+      "path": "federal/decretos/1938/dec-3165-1938-10-13.md",
+      "sha256_md": "51f61fd0453d865dc3527a2bc76d6895e81bfb2fde9032c53f3653377daf201d",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "ef9a03a7b23f8b078fd563a772d97a6aeb082892",
+        "categoria": "projeto_estudos_proprios_nao_representados",
+        "fonte": "https://normas.leg.br/api/public/binario/c6e17d79-baca-47e7-a372-3f3144070913/texto",
+        "sha256_HTML": "1d73110476847cc8042622abb85b1c2345970219c3660af1d2677c110ad7671a",
+        "sha256_metadados": "0a6549310c3e7172b7ab88f55af69f48b3cb6e1d7c3583f936cba7b3c698872d",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "**Artigo único.** Ficam aprovados o novo projeto e orçamento, na importância de 5.900:140$000 (cinco mil, novecentos contos, cento e quarenta mil réis), os quais com este baixam, rubricados pelo Diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas, para construção de duzentos metros de cais e obras complementares, no porto de Aracajú, Estado de Sergipe, em cumprimento ao disposto na cláusula VI, § 2º, do decreto n. 23.460, de 16 de novembro de 1933, pelo qual foi dado ao Estado de Sergipe a concessão para a construção, uso e gozo das obras do porto da capital do Estado.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "A menção preliminar ao Decreto 2.702/1938 é histórica; o artigo único aprova novo projeto e orçamento, que com este baixam. O objeto atual é distinto da referência ao ato anterior."
+      }
+    },
+    {
+      "path": "federal/decretos/1938/dec-3244-1938-11-05.md",
+      "sha256_md": "5e53b10073a05c6b6e1f951c2df4aeeaab79cfe1005d29fc81abb7aec211b5df",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "a10e4b86d027c6f1c5eaac732f10fc5ad0fae0c3",
+        "categoria": "projeto_estudos_proprios_nao_representados",
+        "fonte": "https://normas.leg.br/api/public/binario/801e0a68-acb5-402b-846e-cbfbfe92ca88/texto",
+        "sha256_HTML": "c8a05bb8c2f100d50c3ff909e85aa238c5b3e2d3a99a20d34d78b6e74f3deb36",
+        "sha256_metadados": "15e7b9d75d0afd4a319fd1168ed050f883779e0928d2c286ab20c457f3681c29",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "**Artigo único.** Ficam aprovados o projeto e orçamento provavel, na, importância de 779:071$216 (setecentos e setenta e nove contos setenta e um mil duzentos e dezesseis réis), os quais com este baixam, rubricados pelo Diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas, relativos á construção do tanque OC2, para depósito de óleo combustivel das Indústrias Reunidas Francisco Matarazzo, incluindo muros de recinto, plataforma, encanamentos e pertences, na ilha de Barnabé, porto de Santos.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "O dispositivo de aprovação vincula o projeto/estudos e orçamento atuais ao próprio decreto, com autenticação/rubrica. O restante do corpo conserva custeio, prazo ou fecho, conforme aplicável, sem reproduzir o projeto/estudos. Valor e localização da obra identificam o objeto, mas não substituem sua representação técnica."
+      }
+    },
+    {
+      "path": "federal/decretos/1938/dec-3265-1938-11-12.md",
+      "sha256_md": "a410a6b14bed088e27e80860d9bf5037ba69e205c01e870b0b07c487cabffc93",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "fff64572ff8dd95a40572e366b188abf3ec62e17",
+        "categoria": "especificacoes_proprias_nao_representadas",
+        "fonte": "https://normas.leg.br/api/public/binario/6e5aadae-34bd-462d-a219-104177db6c3f/texto",
+        "sha256_HTML": "5f4ef4379ff14cac10c0fb349975084b36443f88e367b040e3fa94adea00d070",
+        "sha256_metadados": "ff94be21a26c91d0fc3436cd7ba23f79977624fa5b8107c5e1039f621bf5cc35",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "**Artigo único.** Fica aprovado o orçamento provavel, na importância total de 517:500$000 (quinhentos e dezessete contos e quinhentos mil réis), o qual com este baixa, rubricado pelo Diretor da Contabilidade da Secretaria de Estado da Viação e Obras Publicas, relativo à aquisição e montagem de dez novos vagões abertos, de dois \"trucks” cada um, para bitola de 1m,60, com 30 toneladas de capacidade e inteiramente de aço cobreado, destinados ao transporte de mercadorias no cais do porto de Santos e correspondendo ás especificações do orçamento incluso.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "O artigo descreve quantidade, trucks, bitola, capacidade e material dos vagões, mas exige também correspondência às especificações do orçamento incluso. Não equiparo automaticamente a descrição resumida às especificações declaradas inclusas."
+      }
+    },
+    {
+      "path": "federal/decretos/1938/dec-3283-1938-11-19.md",
+      "sha256_md": "42f2edc21fae072999b7f95f3a53d3de2f6d773dd6865aa174c5d1521d868013",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "1b278c5d2ec4316dc0f9870b6f92fd2501649e78",
+        "categoria": "projeto_estudos_proprios_nao_representados",
+        "fonte": "https://normas.leg.br/api/public/binario/67e5e7d4-c5cf-40c2-971a-df612c930e95/texto",
+        "sha256_HTML": "9e3669c5444aaf34ffd8a947e54b1097d62ae2a944fbbcc2061f438e62b03ee6",
+        "sha256_metadados": "c28528a75780caeb11ba6971dc0d5e89a44bcbd39452729f96a02595193c4613",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "**Artigo único.** Ficam aprovados o projeto e orçamento, na importância de 539:845$530 (quinhentos e trinta e nove contos oitocentos e quarenta e cinco mil e quinhentos e trinta réis), os quais com este baixam rubricados pelo Diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas, relativos ao reforço, montagem e pintura de sete superestruturas metálicas de 30m,70 de vão livre cada uma, nos quilômetros 134+533, 156+430, 185+245, 195+562 (2), 204+679 e 232+629, da linha de Cacequí a Rio Grande (trecho Cacequí-Bagé), da referida Rede de Viação Férrea Federal do Rio Grande do Sul.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "O dispositivo de aprovação vincula o projeto/estudos e orçamento atuais ao próprio decreto, com autenticação/rubrica. O restante do corpo conserva custeio, prazo ou fecho, conforme aplicável, sem reproduzir o projeto/estudos. Valor e localização da obra identificam o objeto, mas não substituem sua representação técnica."
+      }
+    },
+    {
+      "path": "federal/decretos/1938/dec-3405-1938-12-05.md",
+      "sha256_md": "b59774ca3fa948e4936f7fa51f4a8c65f3381b6ae6656e1d0d98dabf5dfc75c2",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "c7c1958ea654eaa8569790467e007d3e2e0eb82b",
+        "categoria": "relacao_integral_presente_projeto_proprio_nao_representado",
+        "fonte": "https://normas.leg.br/api/public/binario/ee4606f1-85a3-4acf-903e-15f647db5d25/texto",
+        "sha256_HTML": "dcfe4126498963a27d3f93e7519c58672b0ffc47d03735b8c81322e8bc9763e0",
+        "sha256_metadados": "dda3ba596219e33e44283d5beea53aa381dde848eefbf8485e02ff412c0a6c0e",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "**Artigo único.** Ficam aprovadas os projetos e orçamentos nas importâncias em seguida, discriminadas, os quais com este baixam, rubricados pelo Diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas, das obras que constituem parte do programa quatrienal 1935-1938, aprovado pelo aviso n. 921, de 26 de março de 1935, da referida Secretaria à Inspetoria Federal das Estradas, para ser executado na Estrada de Ferro Dona Teresa Cristina, arrendada à requerente:",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "As alíneas a–c discriminam integralmente as três obras e os valores; o parágrafo único conserva a retificação dos orçamentos. Isso preserva a relação aprovada. Não comprova os projetos que o mesmo artigo declara baixar. A menção ao programa de 1935 não transforma o vínculo atual em referência somente histórica."
+      }
+    },
+    {
+      "path": "federal/decretos/1939/dec-3887-1939-04-01.md",
+      "sha256_md": "f88603568989248e09a6cc564064efe8b4279981915ebea537fffeb6b1bfc03a",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "e7b721bfd4e189ce892454d1064499ebbe93d41c",
+        "categoria": "planta_propria_nao_representada",
+        "fonte": "https://normas.leg.br/api/public/binario/4615c7c0-6a2c-49e6-9e49-d7082e39c795/texto",
+        "sha256_HTML": "de5f0c0232e97c0a1e8c1d7d329d923a3d6e191394f30a5d3670a8daa26e990f",
+        "sha256_metadados": "7bdad6f49073410f82917524a49fea221791a06b4aa3d15736ddef46e18f020f",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "**Artigo único.** Fica a Empresa Telefônica de Igarapava, no Estado de São Paulo. autorizada a estabelecer comunicações entre Igarapava e Porto de Tancredo França, e Igarapava e Porto de Delta, cuja planta com este baixa, autenticada pelo Diretor de Contabilidade da Secretaria de Estado do Ministério da Viação e Obras Pública.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "A autorização descreve a ligação e seus extremos, mas declara baixar planta própria autenticada. A área normativa integral não contém imagem, tabela, anexo textual substitutivo ou link para essa planta; os extremos da ligação não representam seu desenho."
+      }
+    },
+    {
+      "path": "federal/decretos/1939/dec-3948-1939-04-24.md",
+      "sha256_md": "3f3b5d130bfbd6977b1a84c03191da57e679c87895ec8a2a9c91bd15a8f2945e",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "44c7a937da8135b2b657d7415714dd7d39d6b57b",
+        "categoria": "projeto_estudos_proprios_nao_representados",
+        "fonte": "https://normas.leg.br/api/public/binario/93d0c4de-5ba9-4dcd-b415-469ad3d53953/texto",
+        "sha256_HTML": "841f0b5bb044cecdf00265848bc35919b6950c484ed36bafea282109a6149501",
+        "sha256_metadados": "db3dcb8ce9e5f20b7f6f06f69d287e6b6e569e115dea4ddbcf0f1f3705ab4915",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "**Artigo único.** Ficam aprovados o projeto e orçamento provável, na importância de 66:112$955 (sessenta e seis contos cento e doze mil novecentos cinquenta e cinco réis), os quais com este baixam, rubricados pelo diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas, relativos à construção da cobertura do páteo que medeia entre o armazém interno n. 8 e a casa de máquinas n. 2, da faixa de cáis do porto de Santos.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "O dispositivo de aprovação vincula o projeto/estudos e orçamento atuais ao próprio decreto, com autenticação/rubrica. O restante do corpo conserva custeio, prazo ou fecho, conforme aplicável, sem reproduzir o projeto/estudos. Valor e localização da obra identificam o objeto, mas não substituem sua representação técnica."
+      }
+    },
+    {
+      "path": "federal/decretos/1939/dec-4367-1939-07-10.md",
+      "sha256_md": "95a5ab3a2955916978e8e7f1fa6f66ae06d2181da2c3b90ef541a35fd2eebf90",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "cf376c2f4aadef7f5022322369b9f176e1af9b05",
+        "categoria": "projeto_estudos_proprios_nao_representados",
+        "fonte": "https://normas.leg.br/api/public/binario/a43b7f66-a9d0-4fad-9a34-11a32c35bebe/texto",
+        "sha256_HTML": "64a5725b3245646c61c3fe7b58763a3b5882d7e14d58e7cc2efb39c48d355a4e",
+        "sha256_metadados": "71086dde73f0a143024cfc5b1f93f5183def396bd03a25fb3aacd1200e2f8f96",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "**Artigo único.** Ficam aprovados o projeto e orçamento provável, na importância total de 2.763:689$775 (dois mil setecentos e sessenta e três contos seiscentos e oitenta e nove mil setecentos e setenta e cinco réis), os quais com este baixam, rubricados pelo Diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas, relativos á ampliação das linhas férreas de 1m,60 de bitola e de bitola mixta de 1m,60 e 1m,00, bem como, a transformação de linhas existentes de 1m,60, em linhas de bitola mixta, pelo assentamento de um terceiro trilho e substituição de chaves comuns, por chaves mixtas, no porto de Santos.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "O dispositivo de aprovação vincula o projeto/estudos e orçamento atuais ao próprio decreto, com autenticação/rubrica. O restante do corpo conserva custeio, prazo ou fecho, conforme aplicável, sem reproduzir o projeto/estudos. Valor e localização da obra identificam o objeto, mas não substituem sua representação técnica."
+      }
+    },
+    {
+      "path": "federal/decretos/1939/dec-4426-1939-07-24.md",
+      "sha256_md": "a0788528248f3b63f6feaf55483cc0685c319bed9f3447311b3a4dd2a45461df",
+      "estado": "suplemento_em_revisao_contextual",
+      "motivo": "Projeto, planta ou especificações próprias expressamente referidos como documentos que baixam com o ato não estão representados nesta transcrição. Valores, relações e articulado presentes são preservados; não se afirma inexistência em outras fontes nem causa no conversor.",
+      "evidencia": {
+        "HEAD_conferido": "437a5942993fdea026480fd32d9e955fd1b459f2",
+        "OID_HEAD": "ca5864e9beaec504a7fb904fe1aaadf855a3291d",
+        "categoria": "projeto_estudos_proprios_nao_representados",
+        "fonte": "https://normas.leg.br/api/public/binario/2b185c88-029d-4d26-8e04-2766aa8ef934/texto",
+        "sha256_HTML": "6a4f18414235792a3d9d1bd808ffc383fe107f5d0adb587977fa518c45a898aa",
+        "sha256_metadados": "97f8df9f0aac4e95c3034029b8dc904022f1a8f69e315d9f596dcd447ace3fed",
+        "parecer_independente": "municipais/_indice/_recuperacao_20261027/federal-revisao56-independente/parecer56.json",
+        "sha256_parecer": "d4749ae42193a2f4e96c75da195bd684d0511fd0070e55cf7396e11d38213527",
+        "vinculos": [
+          {
+            "bloco_indice": 4,
+            "literal_integral": "**Artigo único.** Ficam aprovados o projeto e orçamento provavel, na importância total de 2.259:689$600 (dois mil duzentos e cincoenta e nove contos seiscentos e oitenta e nove mil e seiscentos réis) os quas com este baixam, rubricados pelo Diretor de Contabilidade da Secretaria de Estado da Viação e Obras Públicas, relativos à construção de duas pontes levadiças sobre o canal da Mortona, bem como, das linhas, desvios e aterros necessários, criando um páteo para o estacionamento de vagões e estabelecendo uma nova ligação entre as linhas da faixa do cais da primeira rua paralela a essa faixa, no porto de Santos.",
+            "reforma_pontual_no_bloco": false
+          }
+        ],
+        "parecer": "O dispositivo de aprovação vincula o projeto/estudos e orçamento atuais ao próprio decreto, com autenticação/rubrica. O restante do corpo conserva custeio, prazo ou fecho, conforme aplicável, sem reproduzir o projeto/estudos. Valor e localização da obra identificam o objeto, mas não substituem sua representação técnica."
       }
     }
   ]

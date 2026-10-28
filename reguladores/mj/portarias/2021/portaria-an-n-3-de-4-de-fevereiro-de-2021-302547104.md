@@ -1,0 +1,36 @@
+---
+titulo: "PORTARIA AN Nº 3, DE 4 DE FEVEREIRO DE 2021"
+orgao: "Ministério da Justiça e Segurança Pública/Arquivo Nacional"
+tipo: "Portaria"
+numero: "3"
+data: 2021-02-04
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 05/02/2021, seção 1, p. 179"
+data_publicacao: 2021-02-05
+edicao: "25"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-an-n-3-de-4-de-fevereiro-de-2021-302547104"
+sha256_html_fonte: c07bec95f20b70b99b5f8bba9240b8d4151d504287f46e3a9c7d05f67c6da75f
+baixado_em: 2026-10-20
+---
+# PORTARIA AN Nº 3, DE 4 DE FEVEREIRO DE 2021
+
+PORTARIA AN Nº 3, DE 4 DE FEVEREIRO DE 2021
+
+Altera o Anexo da Portaria MJSP nº 300, de 8 de junho de 2020.
+
+A DIRETORA-GERAL DO ARQUIVO NACIONAL, de acordo com as competências previstas no Art. 22, inciso XI, do Regimento Interno do Arquivo Nacional, aprovado pela Portaria nº 2433, do Ministério da Justiça, de 24 de outubro de 2011, publicada no Diário Oficial da União de 25 de outubro de 2011, no parágrafo 4º do artigo 15 da Lei n.º 11.356, de 19 de outubro de 2006, bem como no Art. 12 da Portaria 300, de 8 de junho de 2020, e considerando o que consta do processo 08227.000641/2020-73, resolve:
+
+**Art. 1º** O Anexo da Portaria MJSP nº 300, de 8 de junho de 2020, referente à distribuição da Gratificação Temporária das Unidades dos Sistemas Estruturadores da Administração Pública Federal (GSISTE) aos órgãos integrantes do Sistema de Gestão de Documentos e Arquivos da Administração Pública Federal (SIGA), passa a vigorar na forma do anexo desta Portaria.
+
+**Art. 2º** Os órgãos integrantes do SIGA, cujo número de ocupantes de GSISTE ultrapasse o previsto no Anexo, terão até 30 (trinta) dias, a contar da data de publicação desta Portaria, para editar e publicar os respectivos atos de dispensa de servidores, em número igual ao excedente ao limite de gratificações.
+
+**Art. 3º** Esta Portaria entra em vigor na data de sua publicação.
+
+NEIDE ALVES DIAS DE SORDI
+
+## Anexo
+
+Quantitativo de GSISTES distribuídas aos Órgãos do Sistema de Gestão de Documentos e Arquivos da Administração Pública Federal
+
+<table>    <tbody>     <tr></tr>     <tr>      <td rowspan="1" colspan="1"><p>Órgão Central</p></td>      <td rowspan="1" colspan="1"><p>211</p></td>      <td rowspan="1" colspan="1"><p>322</p></td>      <td rowspan="1" colspan="1"><p>533</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Órgãos Setoriais</p></td>      <td rowspan="1" colspan="1"><p>59</p></td>      <td rowspan="1" colspan="1"><p>41</p></td>      <td rowspan="1" colspan="1"><p>100</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Presidência da República</p></td>      <td rowspan="1" colspan="1"><p>5</p></td>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>8</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Advocacia-Geral da União</p></td>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>4</p></td>      <td rowspan="1" colspan="1"><p>7</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Controladoria Geral da União</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>4</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Ministério da Agricultura, Pecuária e Abastecimento</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>5</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Ministério da Cidadania</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>5</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Ministério da Ciência, Tecnologia, Inovações</p></td>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>5</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Ministério da Defesa</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>5</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Ministério da Economia</p></td>      <td rowspan="1" colspan="1"><p>6</p></td>      <td rowspan="1" colspan="1"><p>4</p></td>      <td rowspan="1" colspan="1"><p>10</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Ministério da Educação</p></td>      <td rowspan="1" colspan="1"><p>5</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>7</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Ministério da Infraestrutura</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>3</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Ministério da Justiça e Segurança Pública</p></td>      <td rowspan="1" colspan="1"><p>4</p></td>      <td rowspan="1" colspan="1"><p>0</p></td>      <td rowspan="1" colspan="1"><p>4</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Ministério da Mulher, da Família e dos Direitos Humanos</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>3</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Ministério da Saúde</p></td>      <td rowspan="1" colspan="1"><p>8</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>10</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Ministério das Comunicações</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Ministério das Relações Exteriores</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>1</p></td>      <td rowspan="1" colspan="1"><p>3</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Ministério de Minas e Energia</p></td>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>5</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Ministério do Desenvolvimento Regional</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>4</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Ministério do Meio Ambiente</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>2</p></td>      <td rowspan="1" colspan="1"><p>4</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>Ministério do Turismo</p></td>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>3</p></td>      <td rowspan="1" colspan="1"><p>6</p></td>     </tr>     <tr>      <td rowspan="1" colspan="1"><p>TOTAL GERAL</p></td>      <td rowspan="1" colspan="1"><p>270</p></td>      <td rowspan="1" colspan="1"><p>363</p></td>      <td rowspan="1" colspan="1"><p>633</p></td>     </tr>    </tbody>   </table>

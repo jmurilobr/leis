@@ -1,0 +1,77 @@
+[
+  {
+    "caso": "principal com artigo e fecho",
+    "fechos_esperados": 1,
+    "fechos_obtidos": 1,
+    "limite": null,
+    "aprovado": true
+  },
+  {
+    "caso": "principal sem artigos seguido de instruções",
+    "fechos_esperados": 0,
+    "fechos_obtidos": 0,
+    "limite": {
+      "bloco_literal": "Rio de Janeiro, 27 de janeiro de 1939, 118º da Independência e 51º da República.",
+      "motivo": "Fecho antes de qualquer artigo próprio; exige revisão específica do comando principal sem artigos, sem emprestar artigos posteriores."
+    },
+    "aprovado": true
+  },
+  {
+    "caso": "principal sem fecho antes de regimento",
+    "fechos_esperados": 0,
+    "fechos_obtidos": 0,
+    "limite": {
+      "bloco_literal": "Regimento",
+      "cabecalho_normalizado": "REGIMENTO",
+      "artigo_principal_visto": true
+    },
+    "aprovado": true
+  },
+  {
+    "caso": "fecho próprio antes de fecho incorporado",
+    "fechos_esperados": 1,
+    "fechos_obtidos": 1,
+    "limite": {
+      "bloco_literal": "Regimento",
+      "cabecalho_normalizado": "REGIMENTO",
+      "artigo_principal_visto": true
+    },
+    "aprovado": true
+  },
+  {
+    "caso": "artigo em quebra no mesmo bloco",
+    "fechos_esperados": 1,
+    "fechos_obtidos": 1,
+    "limite": null,
+    "aprovado": true
+  },
+  {
+    "caso": "instruções sem comando próprio",
+    "fechos_esperados": 0,
+    "fechos_obtidos": 0,
+    "limite": {
+      "bloco_literal": "Instruções",
+      "cabecalho_normalizado": "INSTRUCOES",
+      "artigo_principal_visto": false
+    },
+    "aprovado": true
+  },
+  {
+    "caso": "tabela própria antes de fecho",
+    "fechos_esperados": 0,
+    "fechos_obtidos": 0,
+    "limite": {
+      "bloco_literal": "Tabela",
+      "cabecalho_normalizado": "TABELA",
+      "artigo_principal_visto": true
+    },
+    "aprovado": true
+  },
+  {
+    "caso": "citação dentro de artigo não é cabeçalho",
+    "fechos_esperados": 1,
+    "fechos_obtidos": 1,
+    "limite": null,
+    "aprovado": true
+  }
+]

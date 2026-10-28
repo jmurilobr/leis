@@ -1,0 +1,28 @@
+---
+titulo: "CONVÊNIO ICMS Nº 64, DE 3 DE JULHO DE 2026"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "64"
+data: "2026-07-03"
+revogada: null
+versao_texto: "Texto e notas oficiais do portal CONFAZ conforme a captura; sem certificação de vigência."
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV064_26"
+sha256_html_fonte: "7c267ec9f308bf053a20f80b0365c10eca9cfbd21b00e4f131eeb18bed4100a4"
+sha256_texto: "a44e7299dc6e2d07968a7483d51364693fb5fef3c44231d534aeb3d1ccb424da"
+baixado_em: "2026-10-27"
+representacao_corpo: "html-nativo-confaz-piloto-v1"
+observacao_captura: "timestamp original do cliente com fuso, convertido para America/Recife"
+observacao_efeitos: "Condições de ratificação e produção de efeitos preservadas literalmente. Nenhuma data de vigência calculada."
+publicacao_fonte: "Publicado no DOU de 08.07.26, pelo despacho 28/26. | Ratificação Nacional no DOU de 27.07.26, pelo Ato Declaratório 15/26."
+---
+# CONVÊNIO ICMS Nº 64, DE 3 DE JULHO DE 2026
+
+<div id="parent-fieldname-text"><p class="A1-1TituloAcordo">CONVÊNIO ICMS Nº 64, DE 3 DE JULHO DE 2026</p>
+<p class="A2DataPublicacao">Publicado no DOU de 08.07.26, pelo despacho <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/despacho/2026/dp028_26" target="_self" title="despacho 28/26">28/26</a>.</p>
+<p class="A2DataPublicacao">Ratificação Nacional no DOU de 27.07.26, pelo Ato Declaratório <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/atos-declaratorios/2026/ad015_26" target="_self" title="ato declaratorio 15/26">15/26</a>.</p>
+<p class="A3Ementa">Altera o Convênio ICMS nº 170, de 20 de outubro de 2023, que autoriza as unidades federadas que menciona a conceder isenção de ICMS nas operações interestaduais com gado bovino destinado ao abate no Estado de Pernambuco.</p>
+<p class="A5-1TextoAcordo"><b>O Conselho Nacional de Política Fazendária-CONFAZ, </b>na sua 201ª Reunião Ordinária, realizada em Macapá, AP, no dia 3 de julho de 2026, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte</p>
+<p align="center">CONVÊNIO</p>
+<p class="A5-1TextoAcordo"><b>Cláusula primeira</b> A cláusula primeira-A fica acrescida ao <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/convenios/2023/CV170_23" target="_self" title="Convenio icms 170/23">Convênio ICMS nº 170, de 20 de outubro de 2023,</a> publicado no Diário Oficial da União de 23 de outubro de 2023, com a seguinte redação:</p>
+<p class="A5-2NovaRedacao">“Cláusula primeira-A O Estado de Alagoas fica autorizado a estender o benefício de que trata a cláusula primeira às operações interestaduais com gado bovino, quando destinados ao abate em frigoríficos localizados no Estado de Pernambuco, remetidas por estabelecimentos vinculados ao Selo Biocombustível Social que gozam dos coeficientes de redução das alíquotas da Contribuição para o Programa de Integração Social e para o Programa de Formação do Patrimônio do Servidor Público - PIS/Pasep - e da Contribuição Social para o Financiamento da Seguridade Social - Cofins, incidentes na produção e na comercialização de biodiesel, nos termos da Lei nº 11.116, de 18 de maio de 2005, e do Decreto nº 10.527, de 22 de outubro de 2020, desde que adquirido de cooperativa agropecuária alagoana.”.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula segunda </b>Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.</p></div>

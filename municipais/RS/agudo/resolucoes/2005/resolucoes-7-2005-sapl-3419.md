@@ -1,0 +1,64 @@
+---
+titulo: "Resolução da Mesa nº 7, de 02 de setembro de 2005"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução da Mesa"
+numero: "7"
+data: "2005-09-02"
+municipio: "Agudo"
+uf: "RS"
+codigo_ibge: "4300109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.agudo.rs.leg.br/norma/3419"
+fonte_texto: "https://sapl.agudo.rs.leg.br/ta/3082/text"
+sha256_fonte: "e688ec8d953a4e55bde123ad8b9f5d71dcf0ce04254922f224351a9f784a5780"
+sha256_texto: "94a175e71e24fbe4ce8f7b6c12a064f28043930440b85ab20669755e8de4c43d"
+capturado_em_fonte: "2026-10-27T20:45:19.985154-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Resolução da Mesa nº 7, de 02 de setembro de 2005
+
+Publica o valor do Vencimento dos Cargos e Funções dos Servidores e o Subsídio e a Verba de Representação dos Vereadores da Câmara Municipal de Agudo.
+
+
+A MESA DIRETORA DA CÂMARA MUNICIPAL DE AGUDO, no uso de suas atribuições legais, cumprindo o disposto no art. 39, § 6º, da Constituição Federal
+
+RESOLVE
+
+
+Artigo único.
+
+Publicar a planilha do valor do Vencimento dos cargos e funções e do Subsídio e da Verba de Representação dos Agentes Políticos, da Câmara Municipal de Agudo, vigente em setembro de 2005, constante no Anexo Único.
+
+
+Agudo, 02 de setembro de 2005.
+
+Ver. Vilson Dias  
+Presidente
+
+Ver. Márcio Halberstadt  
+Vice-Presidente
+
+Registre-se e publique-se.
+
+Verª. Claudete Hoffmann  
+Secretária
+
+
+Anexo Único
+
+(art. 39, § 6º, CF)  
+Vencimento e Subsídio
+
+
+PR - Padrão Referencial : R$275,62 (Lei Municipal 1590/2005)  
+(obtem-se o valor do vencimento pela multiplicação do coeficiente pelo PR)
+
+<table><colgroup><col><col><col><col><col><col><col><col><col><col><col><col><col></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><colgroup></colgroup><tbody><tr><td> </td><td> </td><td colspan="5" rowspan="2"><strong>CARGOS DE PROVIMENTO EFETIVO</strong><br>(Lei Municipal 746/90)</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td rowspan="2"><strong>CARGO</strong></td><td rowspan="2"><strong>PADRÃO</strong></td><td rowspan="2"><strong>SITUAÇÃO</strong></td><td colspan="10">CLASSE, COEFICIENTE DA CLASSE e VENCIMENTO NA CLASSE</td></tr><tr><td><strong>A</strong></td><td><strong>R$</strong></td><td><strong>B</strong></td><td><strong>R$</strong></td><td><strong>C</strong></td><td><strong>R$</strong></td><td><strong>D</strong></td><td><strong>R$</strong></td><td><strong>E</strong></td><td><strong>R$</strong></td></tr><tr><td>Técnico em Contabilidade</td><td>10</td><td>provido</td><td><em>7</em></td><td> R$1.929,34 </td><td><em>7,7</em></td><td> R$2.122,27 </td><td><em>8,4</em></td><td> R$2.315,21 </td><td><em>9,1</em></td><td> R$2.508,14 </td><td><em>9,8</em></td><td> R$2.701,08 </td></tr><tr><td>Oficial Legislativo</td><td>8</td><td>provido</td><td><em>4,25</em></td><td> R$1.171,39 </td><td><em>4,67</em></td><td> R$1.287,15 </td><td><em>5,09</em></td><td> R$1.402,91 </td><td><em>5,51</em></td><td> R$1.518,67 </td><td><em>5,93</em></td><td> R$1.634,43 </td></tr><tr><td>Auxiliar Legislativo</td><td>5</td><td>vago</td><td><em>2,5</em></td><td> R$689,05 </td><td><em>2,75</em></td><td> R$757,96 </td><td><em>3</em></td><td> R$826,86 </td><td><em>3,25</em></td><td> R$895,77 </td><td><em>3,5</em></td><td> R$964,67 </td></tr><tr><td>Servente</td><td>1</td><td>provido</td><td><em>1,4</em></td><td> R$385,87 </td><td><em>1,54</em></td><td> R$424,45 </td><td><em>1,68</em></td><td> R$463,04 </td><td><em>1,82</em></td><td> R$501,63 </td><td><em>1,96</em></td><td> R$540,22 </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td colspan="5" rowspan="2"><strong>CARGOS DE PROVIMENTO EM COMISSÃO</strong><br>(Leis Municipais 746/90 e 864/93)</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td><strong>CARGO</strong></td><td><strong>PADRÃO</strong></td><td colspan="3"><strong>FORMA DE PROVIMENTO</strong></td><td colspan="2"><strong>COEFICIENTE</strong></td><td colspan="2"><strong>VALOR</strong></td><td> </td><td> </td><td> </td><td> </td></tr><tr><td rowspan="2">Diretor Administrativo</td><td rowspan="2">3</td><td colspan="3">Cargo em Comissão (CC)</td><td colspan="2">5</td><td colspan="2">R$1.378,10</td><td> </td><td> </td><td> </td><td> </td></tr><tr><td colspan="3">Função Gratificada (FG)</td><td colspan="2">2,5</td><td colspan="2">R$689,05</td><td> </td><td> </td><td> </td><td> </td></tr><tr><td rowspan="2">Assessor Especial</td><td rowspan="2">3</td><td colspan="3">Cargo em Comissão (CC)</td><td colspan="2">5</td><td colspan="2">R$1.378,10</td><td> </td><td> </td><td> </td><td> </td></tr><tr><td colspan="3">Função Gratificada (FG)</td><td colspan="2">2,5</td><td colspan="2">R$689,05</td><td> </td><td> </td><td> </td><td> </td></tr><tr><td rowspan="2">Chefe de Seção</td><td rowspan="2">1</td><td colspan="3">Cargo em Comissão (CC)</td><td colspan="2">3</td><td colspan="2">R$826,86</td><td> </td><td> </td><td> </td><td> </td></tr><tr><td colspan="3">Função Gratificada (FG)</td><td colspan="2">1,5</td><td colspan="2">R$413,43</td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td colspan="4" rowspan="2"><strong>AGENTES POLÍTICOS - VEREADOR</strong><br>(Lei Municipal 1560/2005)</td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td colspan="3"><strong>SITUAÇÃO</strong></td><td colspan="3"><strong>VALOR</strong></td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>MANDATO</td><td colspan="2"><em>VEREADOR</em></td><td colspan="3"><em> R$1.515,29 </em></td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr><tr><td>CARGO</td><td colspan="2"><em>PRESIDENTE</em></td><td colspan="3"><em> R$757,65 </em></td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td><td> </td></tr></tbody></table>
+
+Ver. Vilson Dias  
+Presidente
+

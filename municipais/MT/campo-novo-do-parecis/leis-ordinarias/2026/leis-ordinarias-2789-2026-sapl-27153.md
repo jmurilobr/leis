@@ -1,0 +1,79 @@
+---
+titulo: "Lei Ordinária nº 2.789, de 27 de abril de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2789"
+data: "2026-04-27"
+municipio: "Campo Novo do Parecis"
+uf: "MT"
+codigo_ibge: "5102637"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.camponovodoparecis.mt.leg.br/norma/27153"
+fonte_texto: "https://sapl.camponovodoparecis.mt.leg.br/ta/81/text"
+sha256_fonte: "7da7869d8d14af9c3d53ac26a549649d676ba6c4bfc98d92b797fa3b3673b34f"
+sha256_texto: "2dbf2ab0c8e1c461e6bf1deb54f753bb478506fac08a8c8a5f6d42d515bdef61"
+capturado_em_fonte: "2026-10-27T22:23:19.416019-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.789, de 27 de abril de 2026
+
+Autoriza o Poder Executivo Municipal a abrir crédito adicional suplementar no orçamento vigente, no valor de R$ 555.000,00.
+
+
+O PREFEITO DO MUNICÍPIO DE CAMPO NOVO DO PARECIS Faço saber que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a abrir crédito adicional suplementar no Orçamento Geral do Município, no valor de R$ 555.000,00 (quinhentos e cinqüenta e cinco mil reais), nos termos do inciso I do art. 43 da Lei Federal nº 4.320, de 1964, nas seguintes classificações orçamentárias:
+
+
+I –
+
+02 GOVERNO MUNICIPAL  
+  
+02.001 GOVERNO MUNICIPAL  
+  
+Dotação 1: 001.04.122.0002.20001  
+Projeto/Atividade: MANUTENÇÃO E ENCARGOS COM O GABINETE DO PREFEITO E DEPENDÊNCIAS  
+Elemento de Despesa: 3.3.90.00.00.00 Aplicações Diretas  
+Fonte de Recurso: 25000000000000 Recursos Ordinários - Exercício Anterior  
+Valor: R$ 180.000,00 (cento e oitenta mil reais)  
+  
+Dotação 2: 004.04.131.0002.20006  
+Projeto/Atividade: GESTÃO E MANUTENÇÃO DA COMUNICAÇÃO SOCIAL  
+Elemento de Despesa: 3.3.90.00.00.00 Aplicações Diretas  
+Fonte de Recurso: 25000000000000 Recursos Ordinários - Exercício Anterior  
+Valor: R$ 375.000,00 (trezentos e setenta e cinco mil reais)  
+TOTAL: R$ 555.000,00
+
+
+Parágrafo único
+
+Os recursos necessários à execução do crédito suplementar referido neste artigo, inciso I, no valor total de R$ 2.000.000,00 (dois milhões de reais), decorrerão de superávit financeiro do exercício anterior, na fonte livre, consoante o art. 43, § 1º, inciso I, da Lei Federal nº 4.320, de 1964.
+
+
+Art. 2º.
+
+As alterações constantes desta Lei passam a integrar a Lei Municipal nº 2.691, de 15 de agosto de 2025, que dispõe sobre o Plano Plurianual - PPA, para o período de 2026 a 2029, a Lei Municipal nº 2.708, de 07 de outubro de 2025, que dispõe sobre as Diretrizes Orçamentárias - LDO para o exercício financeiro de 2026, e a Lei Municipal nº 2.745, de 29 de dezembro de 2025, que dispõe sobre a Lei Orçamentária Anual - LOA, para o exercício financeiro de 2026.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Campo Novo do Parecis/MT, 27 de abril de 2026.  
+  
+EDILSON ANTÔNIO PIAIA  
+Prefeito Municipal  
+  
+PRISCILLA GIMENEZ SIQUEIRA GONÇALVES OLSSON  
+Secretária Municipal de Administração Interina  
+  
+Autoria: Poder Executivo
+

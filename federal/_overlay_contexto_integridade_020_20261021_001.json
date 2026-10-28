@@ -1,0 +1,160 @@
+{
+  "escopo": "Cinco retenções conservadoras de fonte truncada, desenhos próprios não representados ou conteúdo de outro órgão. Não altera canônicos ou registro.",
+  "registros": [
+    {
+      "path": "federal/decretos/1944/dec-14481-1944-01-08.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1944-01-08;14481",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1944-01-08;14481",
+      "url_texto": "https://normas.leg.br/api/binario/f4977b63-3600-4633-a1ec-7574e71cda56/texto",
+      "sha256": "c6729379959e0d3e0c633dc69ff84293f7db218b842b721a4e8c8bda6c963f67",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "3d7ce6b4407ab3e2720fd7f851176b2589703697656dfbcc28885f1b1ccf3f70",
+      "sha256_metadados": "cac0c25a288e0cd97a130e53107c2180143db724009414b0eaf76e40fa5d9230",
+      "captura_metadados": "federal/_fonte/metadados-normas/4c7238d0c7357883196be993fb9c8964002d21a64b26272a65cff43f0539e4d3/cac0c25a288e0cd97a130e53107c2180143db724009414b0eaf76e40fa5d9230.json.gz",
+      "epigrafe": {
+        "numero": "14481",
+        "data": "1944-01-08",
+        "epigrafe": "DECRETO N. 14.481 – DE 8 DE JANEIRO DE 1944"
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "lote": 20,
+      "status": "retido_revisao_documental_contextual",
+      "motivo": "Fonte termina no meio da palavra quatrocen, dentro da descrição do polígono do Art. 1º, sem conclusão do artigo, fecho ou assinatura."
+    },
+    {
+      "path": "federal/decretos/1943/dec-14373-1943-12-28.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1943-12-28;14373",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-12-28;14373",
+      "url_texto": "https://normas.leg.br/api/binario/4c7ab543-1f22-4737-b77b-04f17a4fe357/texto",
+      "sha256": "85eaea4a90306986663c58b08bf91c8ad2d83f2f9af130baab558275934723ae",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "b7ffccc393168c65504d26c24f39f151b7347029f822cf7f094846afdf3d126d",
+      "sha256_metadados": "05c3d3f8c9eeb649265f76ac975a61494a1ea1d563bb894e0b7e9603d2429a23",
+      "captura_metadados": "federal/_fonte/metadados-normas/6da8f3d3a5769a0635cd06005a0dad983504eb08ecbd92403b47cb73d98253cf/05c3d3f8c9eeb649265f76ac975a61494a1ea1d563bb894e0b7e9603d2429a23.json.gz",
+      "epigrafe": {
+        "numero": "14373",
+        "data": "1943-12-28",
+        "epigrafe": "DECRETO N. 14.373 – de 28 DE DEZEMBRO DE 1943"
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "lote": 20,
+      "status": "retido_revisao_documental_contextual",
+      "motivo": "Regulamento de cursos reproduzido somente até a Segunda série no Art. 3º, sem conclusão ou fecho; interrupção da transcrição requer edição integral."
+    },
+    {
+      "path": "federal/decretos/1943/dec-13842-1943-11-01.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1943-11-01;13842",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-11-01;13842",
+      "url_texto": "https://normas.leg.br/api/binario/f84e38ea-6ab6-4a80-8c23-a2ffc9c57ab5/texto",
+      "sha256": "15d81db553975ac94111743564d3b1d51d2bd905334e071bf510c513f97e1b2d",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "9445908f9592f9392a458441c716ed4953a3e2c0fbda1b3c2d3c155c95d71969",
+      "sha256_metadados": "dac347c3d01d803a97c25fb84558efa19ef3557ec191c2e28d74b4eedc0dd342",
+      "captura_metadados": "federal/_fonte/metadados-normas/6e7cd4a54cab952ce08843aad4d756023693186b09bad98a7f7f3a1110c19624/dac347c3d01d803a97c25fb84558efa19ef3557ec191c2e28d74b4eedc0dd342.json.gz",
+      "epigrafe": {
+        "numero": "13842",
+        "data": "1943-11-01",
+        "epigrafe": "DECRETO N. 13.842 – DE 1 DE NOVEMBRO DE 1943"
+      },
+      "tabelas": 1,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "lote": 20,
+      "status": "retido_revisao_documental_contextual",
+      "motivo": "Regulamento da Ordem do Mérito Aeronáutico remete no Art. 2º aos desenhos próprios de graus, miniaturas, rosetas e barretas, sem qualquer representação visual. Descrição textual não substitui desenhos."
+    },
+    {
+      "path": "federal/decretos/1943/dec-13090-1943-08-04.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1943-08-04;13090",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-08-04;13090",
+      "url_texto": "https://normas.leg.br/api/binario/45515597-4b95-4682-8d79-60974cedf099/texto",
+      "sha256": "9bffc3b7647270fac89274f4c7c2a9ea2f8b25c63954685177bfb6b1025e89a8",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "5ec9508e70bf28f728eb49b88ea250b82b9c7b6c0b769becc38c7c66e34d714d",
+      "sha256_metadados": "cf82cfdd60434187905eb1d605522bd61ebc9e9bfb0a46596a8f9952b0359c60",
+      "captura_metadados": "federal/_fonte/metadados-normas/c7d4c61e3f415c4a3b4995a9ff13eafadb127833b3b0f683b25e1bb31e320807/cf82cfdd60434187905eb1d605522bd61ebc9e9bfb0a46596a8f9952b0359c60.json.gz",
+      "epigrafe": {
+        "numero": "13090",
+        "data": "1943-08-04",
+        "epigrafe": "DECRETO N. 13.090 – DE 4 DE AGÔSTO DE 1943"
+      },
+      "tabelas": 0,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "lote": 20,
+      "status": "retido_revisao_documental_contextual",
+      "motivo": "Fonte reproduz somente Art. 1º aprovando tabelas numéricas anexas; não traz tabelas, continuação do ato, fecho ou assinatura."
+    },
+    {
+      "path": "federal/decretos/1943/dec-12775-1943-07-02.md",
+      "preexistente": false,
+      "origem": "Recuperação nova pela API oficial; versão Current ou Original preferida, fonte anterior preservada.",
+      "urn": "urn:lex:br:federal:decreto:1943-07-02;12775",
+      "fonte": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1943-07-02;12775",
+      "url_texto": "https://normas.leg.br/api/binario/9ec69aa2-85be-4861-9fce-597a3dc403b8/texto",
+      "sha256": "7012e6b8f4f20266c47117ff852a0ca8e10773bf6690f8ab768e74fb7bac47e8",
+      "sha256_anterior": null,
+      "sha256_fonte_html": "a0e19ab0a701a1fdee0e5dbf391a9626b0632c7d36f93bf41b2f90ba90c20c40",
+      "sha256_metadados": "549301f6ffadd42a52ffdf6677dcfc61c35de12bbb336c77cc7ddd8034612e80",
+      "captura_metadados": "federal/_fonte/metadados-normas/357ef1009c6fd36b81362cf61798a245c5f3b8699a6f80ce5d77444521f400b0/549301f6ffadd42a52ffdf6677dcfc61c35de12bbb336c77cc7ddd8034612e80.json.gz",
+      "epigrafe": {
+        "numero": "12775",
+        "data": "1943-07-02",
+        "epigrafe": "DECRETO Nº 12.775, DE 2 DE JULHO de 1943."
+      },
+      "tabelas": 1,
+      "checks": {
+        "artigos_proprios": true,
+        "sem_retificacao_avulsa": true,
+        "indice_urn_numero_data": true,
+        "texto_visivel_integral": true,
+        "estrutura_tabelas": true,
+        "sem_imagens": true,
+        "formato_datas": true
+      },
+      "lote": 20,
+      "status": "retido_revisao_documental_contextual",
+      "motivo": "Comando principal altera funções de extranumerários do Departamento Nacional de Educação do Ministério da Educação e Saúde, mas a tabela após as assinaturas identifica Ministério da Viação e Obras Públicas, Administração do Pôrto de Natal. Conteúdo de órgão diverso impede certificar edição coerente; fecho também diverge da epígrafe."
+    }
+  ]
+}

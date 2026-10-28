@@ -1,0 +1,20 @@
+test_alias_id_slug_diferente (test_promover_legis_ac_privado.PromocaoTest.test_alias_id_slug_diferente) ... ok
+test_alias_identidade_id_diferente (test_promover_legis_ac_privado.PromocaoTest.test_alias_identidade_id_diferente) ... ok
+test_colisao_interna (test_promover_legis_ac_privado.PromocaoTest.test_colisao_interna) ... ok
+test_constituicao_sem_numero_nao_impede_dedup_lei (test_promover_legis_ac_privado.PromocaoTest.test_constituicao_sem_numero_nao_impede_dedup_lei) ... ok
+test_data_head_ausente_nao_inventa_data (test_promover_legis_ac_privado.PromocaoTest.test_data_head_ausente_nao_inventa_data) ... ok
+test_data_head_ausente_retem_mesmo_numero_todos_anos (test_promover_legis_ac_privado.PromocaoTest.test_data_head_ausente_retem_mesmo_numero_todos_anos) ... ok
+test_id_namespace_diferente_nao_equivale (test_promover_legis_ac_privado.PromocaoTest.test_id_namespace_diferente_nao_equivale) ... ok
+test_mesmo_numero_tipos_distintos_nao_fundir (test_promover_legis_ac_privado.PromocaoTest.test_mesmo_numero_tipos_distintos_nao_fundir) ... ok
+test_metadata_nao_altera_body (test_promover_legis_ac_privado.PromocaoTest.test_metadata_nao_altera_body) ... ok
+test_metadata_repetida_falha (test_promover_legis_ac_privado.PromocaoTest.test_metadata_repetida_falha) ... ok
+test_metadata_sha256_reconhecido (test_promover_legis_ac_privado.PromocaoTest.test_metadata_sha256_reconhecido) ... ok
+test_padding_numerico_e_alias (test_promover_legis_ac_privado.PromocaoTest.test_padding_numerico_e_alias) ... ok
+test_publicacao_atomica_nunca_substitui (test_promover_legis_ac_privado.PromocaoTest.test_publicacao_atomica_nunca_substitui) ... ok
+test_sufixo_e_identidade_distinta (test_promover_legis_ac_privado.PromocaoTest.test_sufixo_e_identidade_distinta) ... ok
+test_url_http_https_e_alias (test_promover_legis_ac_privado.PromocaoTest.test_url_http_https_e_alias) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.003s
+
+OK

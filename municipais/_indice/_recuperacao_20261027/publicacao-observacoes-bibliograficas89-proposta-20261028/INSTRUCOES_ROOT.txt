@@ -1,0 +1,6 @@
+Proposta privada: só modelo literal AEMERJ de publicação/data/edição/URL/autenticidade. Outras observações seguem retidas, inclusive outras bibliografias ainda não modeladas.
+Campos do esquema existente: observacao_fonte literal, fonte_metadados e sha256_metadados_fonte. Vinculam o JSON municipal HTTP 200. Corpo/H1, identidade, datas, notas normativas e sha256_texto permanecem byte iguais. Não consulta o diário nem certifica vigência ou equivalência.
+Repetir 10 testes e replay independente com manifesto/SHA externo deste pacote. Revalida API/M/TA público/casa/IBGE/epígrafe, contexto sem texto externo, V7, V3 integral/tachado/atributos/números/matrizes/CSS, preimagens e exportações isoladas.
+Não executar staging dos destinos futuros antes da decisão ROOT e promoção por SHA. Este agente não aplicou nada.
+O manifesto arquivos contém somente artefatos presentes; promocoes-futuras.json contém os destinos novos esperados após promoção. O staging literal futuro está em stage.paths.z, incluindo os destinos cuja preimagem ainda está no disco.
+Preservar espaços de hardbreak, EOF, caracteres e metadados originais. Não formatar nem usar git apply --whitespace=fix. Os MDs em exportados/ são cópias isoladas, não outras normas a contar.

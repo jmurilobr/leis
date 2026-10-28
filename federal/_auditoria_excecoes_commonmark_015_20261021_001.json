@@ -1,0 +1,514 @@
+{
+  "metodo": "Compara texto visível com toda pontuação, assinatura numérica e contextos; render independente marked 17.0.5/GFM; códigos cadastrais removidos apenas após prova de identidade e posição, preservando caracteres adjacentes.",
+  "registros": [
+    {
+      "path": "federal/decretos/1948/dec-24654-1948-03-12.md",
+      "urn": "urn:lex:br:federal:decreto:1948-03-12;24654",
+      "sha256": "6eb4f15df456aea2e5e7303f8a31bcd5227f414cba8be5d8c5c81e49ec8ef075",
+      "sha256_fonte_html": "31035a7a553bdeb1a06b31a89f17d3b15f035e83d6e21335be2b2565f882f97c",
+      "marcadores": [
+        {
+          "codigo": "###DEC-024654-0-000-12-03-1948@@@",
+          "inicio": 5871,
+          "contexto_html": ".DefaultParagraphFont { widows:0; orphans:0 }</style></head><body><div><p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-024654-0-000-12-03-1948@@@</span></p><p class=\"Epgrafe\" style=\"text-indent:0pt; line-height:normal; font-size:1.2em\"><span>decreto nº 24.654, de 12 de março de 1948.</span></p><p class=\"Ementa\" style=\"margin-top:12pt\"><span style=\"font-size:1.2em\">Suprime cargo exti"
+        },
+        {
+          "codigo": "###DEC-024654-0-000-12-03-1948@@@",
+          "inicio": 7989,
+          "contexto_html": "n style=\"font-size:1.2em\">Daniel de carvalho</span></p><p class=\"Header\" style=\"margin-top:6pt; margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-024654-0-000-12-03-1948@@@Ret01+++</span></p><p class=\"Epgrafe\" style=\"text-indent:0pt; line-height:normal; font-size:1.2em\"><span>DECRETO Nº 24.654, DE 12 DE MARÇO DE 1948.</span></p><p class=\"Ementa\" style=\"margin-top:12pt; margin-bottom:24pt\"><span style=\"font-si"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1947/dec-24239-1947-12-22.md",
+      "urn": "urn:lex:br:federal:decreto:1947-12-22;24239",
+      "sha256": "2223711bf40eb5c9887ebae3ab9e00f0e157cf3b7996616d4e57fa10c82e51a0",
+      "sha256_fonte_html": "799b2d3f9f869ca9ebc9571cb1ad973cbd3c9c0e4d7c20536710285241458da1",
+      "marcadores": [
+        {
+          "codigo": "###DEC-024239-0-000-22-12-1947@@@",
+          "inicio": 6170,
+          "contexto_html": ".DefaultParagraphFont { widows:0; orphans:0 }</style></head><body><div><p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-024239-0-000-22-12-1947@@@</span></p><p class=\"Epgrafe\" style=\"text-indent:0pt; line-height:normal; font-size:1.2em\"><span style=\"-aw-import:spaces\">&#xa0;</span><span>DECRETO N. 24.239 – DE 22 DE DEZEMBRO DE 1947 </span></p><p class=\"Ementa\" style=\"margin-top:12pt\""
+        }
+      ],
+      "normalizacoes": [
+        {
+          "markdown": "TÍTULO I — Da arrecadação por lançamento",
+          "fonte": "TÍTULO I Da arrecadação por lançamento",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO I — DOS CONTRIBUINTES",
+          "fonte": "CAPÍTULO I DOS CONTRIBUINTES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DA CLASSIFICAÇÃO DOS RENDIMENTOS",
+          "fonte": "CAPÍTULO II DA CLASSIFICAÇÃO DOS RENDIMENTOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — Do rendimento bruto",
+          "fonte": "CAPÍTULO III Do rendimento bruto",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — Das deduções cedulares",
+          "fonte": "CAPÍTULO IV Das deduções cedulares",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DO RENDIMENTO LÍQUIDO",
+          "fonte": "CAPÍTULO V DO RENDIMENTO LÍQUIDO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DA RENDA BRUTA",
+          "fonte": "CAPÍTULO VI DA RENDA BRUTA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VII — DOS ABATIMENTOS DA RENDA BRUTA",
+          "fonte": "CAPÍTULO VII DOS ABATIMENTOS DA RENDA BRUTA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IX — DA BASE DO IMPÔSTO",
+          "fonte": "CAPÍTULO IX DA BASE DO IMPÔSTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO X — DA INCIDÊNCIA DO IMPÔSTO",
+          "fonte": "CAPÍTULO X DA INCIDÊNCIA DO IMPÔSTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO XI — DAS TAXAS PROPORCIONAIS",
+          "fonte": "CAPÍTULO XI DAS TAXAS PROPORCIONAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO XII — DAS TAXAS PROGRESSIVAS",
+          "fonte": "CAPÍTULO XII DAS TAXAS PROGRESSIVAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DAS ISENÇÕES",
+          "fonte": "CAPÍTULO II DAS ISENÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DA TRIBUTAÇÃO",
+          "fonte": "CAPÍTULO III DA TRIBUTAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — Dos lucros",
+          "fonte": "CAPÍTULO IV Dos lucros",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO I — DO LUCRO REAL",
+          "fonte": "SEÇÃO I DO LUCRO REAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO II — DO LUCRO PRESUMIDO",
+          "fonte": "SEÇÃO II DO LUCRO PRESUMIDO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DA BASE DO IMPÔSTO",
+          "fonte": "CAPÍTULO V DA BASE DO IMPÔSTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO I — DO ESPÓLIO",
+          "fonte": "CAPÍTULO I DO ESPÓLIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DA LIQUIDAÇÁO, EXTINÇÃO E SUCESSÃO DAS PESSOAS JURÍDICAS",
+          "fonte": "CAPÍTULO II DA LIQUIDAÇÁO, EXTINÇÃO E SUCESSÃO DAS PESSOAS JURÍDICAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DAS EMPREITADAS DE CONSTRUÇÃO DE ESTRADAS E SEMELHANTES",
+          "fonte": "CAPÍTULO III DAS EMPREITADAS DE CONSTRUÇÃO DE ESTRADAS E SEMELHANTES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DA EXPLORAQÃO AGRÍCOLA E PASTORIL E DAS INDÚSTRIAS EXTRATIVAS VEGETAL E ANIMAL",
+          "fonte": "CAPÍTULO IV DA EXPLORAQÃO AGRÍCOLA E PASTORIL E DAS INDÚSTRIAS EXTRATIVAS VEGETAL E ANIMAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DA TRANSFERÊNCIA DE RESIDÊNCIA PARA O BRASIL DAS PESSOAS ANTERIORMENTE SUBMETIDAS AO REGIME DE TRIBUTAÇÃO NA FONTE",
+          "fonte": "CAPÍTULO VI DA TRANSFERÊNCIA DE RESIDÊNCIA PARA O BRASIL DAS PESSOAS ANTERIORMENTE SUBMETIDAS AO REGIME DE TRIBUTAÇÃO NA FONTE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VII — DO INÍCIO DE NEGÓCIO",
+          "fonte": "CAPÍTULO VII DO INÍCIO DE NEGÓCIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO I — DA DECLAÇÃO DE RENDIMENTOS",
+          "fonte": "CAPÍTULO I DA DECLAÇÃO DE RENDIMENTOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DA REVISÃO DAS DECLARAÇÕES",
+          "fonte": "CAPÍTULO II DA REVISÃO DAS DECLARAÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — Do lançamento do impôsto",
+          "fonte": "CAPÍTULO III Do lançamento do impôsto",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO I — DO LANÇAMENTO COM BASE NA DECLARAÇÃO",
+          "fonte": "SEÇÃO I DO LANÇAMENTO COM BASE NA DECLARAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO II — Do lançamento ex-officio",
+          "fonte": "SEÇÃO II Do lançamento ex-officio",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SUBSEÇÃO I — DOS CASOS DE LANÇAMENTO “EX-OFFICIO\"",
+          "fonte": "SUBSEÇÃO I DOS CASOS DE LANÇAMENTO “EX-OFFICIO\"",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SUBSEÇÃO II — DO PROCEDIMENTO",
+          "fonte": "SUBSEÇÃO II DO PROCEDIMENTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SUBSEÇÃO III — DA BASE",
+          "fonte": "SUBSEÇÃO III DA BASE",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO III — DISPOSIÇÕES RELATIVAS AO LANÇAMENTO DO IMPÔSTO",
+          "fonte": "SEÇÃO III DISPOSIÇÕES RELATIVAS AO LANÇAMENTO DO IMPÔSTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DO PAGAMENTO DO IMPÔSTO",
+          "fonte": "CAPÍTULO IV DO PAGAMENTO DO IMPÔSTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO I — DISPOSIÇÕES GERAIS",
+          "fonte": "SEÇÃO I DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO II — DOS MEIOS E DO LUGAR DE PAGAMENTO",
+          "fonte": "SEÇÃO II DOS MEIOS E DO LUGAR DE PAGAMENTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO III — DA ÉPOCA E DO PRAZO PARA PAGAMENTO",
+          "fonte": "SEÇÃO III DA ÉPOCA E DO PRAZO PARA PAGAMENTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO II — Da arrecadação nas fontes",
+          "fonte": "TÍTULO II Da arrecadação nas fontes",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO I — DA INCIDÊNCIA DO IMPÔSTO",
+          "fonte": "CAPÍTULO I DA INCIDÊNCIA DO IMPÔSTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DAS ISENÇÕES",
+          "fonte": "CAPÍTULO II DAS ISENÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DA ESCRITURA DE COMPRA E VENDA",
+          "fonte": "CAPÍTULO III DA ESCRITURA DE COMPRA E VENDA",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DO RECOLHIMENTO DO IMPÔSTO",
+          "fonte": "CAPÍTULO IV DO RECOLHIMENTO DO IMPÔSTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO I — DOS RENDIMENTOS DE TÍTULOS AO PORTADOR",
+          "fonte": "CAPÍTULO I DOS RENDIMENTOS DE TÍTULOS AO PORTADOR",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DOS RENDIMENTOS DE RESIDENTES OU DOMICILIADOS NO ESTRANGEIRO",
+          "fonte": "CAPÍTULO II DOS RENDIMENTOS DE RESIDENTES OU DOMICILIADOS NO ESTRANGEIRO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DOS RENDIMENTOS DA EXPLORAÇÃO DE PELÍCULAS CINEMATOGRÁFICAS ESTRANGEIRAS",
+          "fonte": "CAPÍTULO III DOS RENDIMENTOS DA EXPLORAÇÃO DE PELÍCULAS CINEMATOGRÁFICAS ESTRANGEIRAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DA RETENÇÃO DO IMPÔSTO",
+          "fonte": "CAPÍTULO IV DA RETENÇÃO DO IMPÔSTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DO RECOLHIMENTO DO IMPÔSTO",
+          "fonte": "CAPÍTULO V DO RECOLHIMENTO DO IMPÔSTO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "TÍTULO III — Disposições Gerais",
+          "fonte": "TÍTULO III Disposições Gerais",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO I — DAS INFORMAÇÕES NAS PONTES",
+          "fonte": "CAPÍTULO I DAS INFORMAÇÕES NAS PONTES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — Da Fiscalização e dos Livros Fiscais",
+          "fonte": "CAPÍTULO II Da Fiscalização e dos Livros Fiscais",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO I — DA FISCALIZAÇÃO",
+          "fonte": "SEÇÃO I DA FISCALIZAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO II — DOS LIVROS FISCAIS",
+          "fonte": "SEÇÃO II DOS LIVROS FISCAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DAS PENALIDADES",
+          "fonte": "CAPÍTULO III DAS PENALIDADES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — Das reclamações e recursos",
+          "fonte": "CAPÍTULO IV Das reclamações e recursos",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO I — DAS RECLAMAÇÕES",
+          "fonte": "SEÇÃO I DAS RECLAMAÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO II — Dos recursos",
+          "fonte": "SEÇÃO II Dos recursos",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SUBSEÇÃO I — DO RECURSO VOLUNTÁRIO",
+          "fonte": "SUBSEÇÃO I DO RECURSO VOLUNTÁRIO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SUBSEÇÃO II — DO RECURSO “EX-OFFICIO”",
+          "fonte": "SUBSEÇÃO II DO RECURSO “EX-OFFICIO”",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SUBSEÇÃO III — DO PEBIDO DE RECONSIDERAÇÃO",
+          "fonte": "SUBSEÇÃO III DO PEBIDO DE RECONSIDERAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO III — DISPOSIÇÕES COMUNS A RECLAMAÇÕES E RECURSOS",
+          "fonte": "SEÇÃO III DISPOSIÇÕES COMUNS A RECLAMAÇÕES E RECURSOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DA RESTITUIÇÃO",
+          "fonte": "CAPÍTULO V DA RESTITUIÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DO DOMICÍLIO FISCAL E DA COMPETÊNCIA DAS AUTORIDADES",
+          "fonte": "CAPÍTULO VI DO DOMICÍLIO FISCAL E DA COMPETÊNCIA DAS AUTORIDADES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VII — Do Crédito Fiscal",
+          "fonte": "CAPÍTULO VII Do Crédito Fiscal",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO I — Medidas para a defesa do crédito fiscal",
+          "fonte": "SEÇÃO I Medidas para a defesa do crédito fiscal",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO II — DA COBRANÇA AMIGÁVEL",
+          "fonte": "SEÇÃO II DA COBRANÇA AMIGÁVEL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "SEÇÃO III — DA COBRANÇA JUDICIAL",
+          "fonte": "SEÇÃO III DA COBRANÇA JUDICIAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VIII — DA PRESCRIÇÃO",
+          "fonte": "CAPÍTULO VIII DA PRESCRIÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IX — DISPOSIÇÕES DIVERSAS",
+          "fonte": "CAPÍTULO IX DISPOSIÇÕES DIVERSAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1947/dec-24048-1947-11-13.md",
+      "urn": "urn:lex:br:federal:decreto:1947-11-13;24048",
+      "sha256": "f1ffe65bb68f5bc0d5049e54973d823ab721f3e74f2811045260d852179bfd15",
+      "sha256_fonte_html": "b1b3308dc2121142bf9ee99c2d343762c8dfa9ee3246fe8f7c9c6e4d76dcd5f4",
+      "marcadores": [
+        {
+          "codigo": "###DEC-024048-0-000-13-11-1947@@@",
+          "inicio": 5781,
+          "contexto_html": "DefaultParagraphFont { widows:0; orphans:0 }</style></head><body><div><p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">*###DEC-024048-0-000-13-11-1947@@@</span></p><p class=\"Epgrafe\" style=\"text-indent:0pt; line-height:normal; font-size:1.2em\"><span>DECRETO N. 24.048 – DE 13 DE NOVEMBRO DE 1947</span></p><p class=\"Ementa\" style=\"margin-top:12pt\"><span style=\"font-size:1.2em\">Outorga ao Coto"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1947/dec-24033-1947-11-11.md",
+      "urn": "urn:lex:br:federal:decreto:1947-11-11;24033",
+      "sha256": "67e1f27b2dfe49559d184048ffacb18e358268088fc0a16605909f0bb5b86469",
+      "sha256_fonte_html": "0bfe4424a9b50a6122e6a6bc7337cad455dc75f1170ca8b5e0057447d5118b24",
+      "marcadores": [
+        {
+          "codigo": "###DEC-024033-0-000-11-11-1947@@@",
+          "inicio": 5776,
+          "contexto_html": "DefaultParagraphFont { widows:0; orphans:0 }</style></head><body><div><p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">l###DEC-024033-0-000-11-11-1947@@@</span></p><p class=\"Epgrafe\" style=\"text-indent:0pt; line-height:normal; font-size:1.2em\"><span>DECRETO N. 24.033 – DE 11 DE NOVEMBRO DE 1947</span></p><p class=\"Ementa\" style=\"margin-top:12pt\"><span style=\"font-size:1.2em\">Concede a socie"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1947/dec-23530-1947-08-18.md",
+      "urn": "urn:lex:br:federal:decreto:1947-08-18;23530",
+      "sha256": "f5d48fa46a9db02a649b6aeccc5bc190e6241fd1537e7125cbf0c287dfaadaf1",
+      "sha256_fonte_html": "fa0a7a395ecb26f5c3f3b61e7d4401118e1bdd2f113c199a95b3558eab3f8a7e",
+      "marcadores": [
+        {
+          "codigo": "###DEC-023530-0-000-18-08-1947@@@",
+          "inicio": 5774,
+          "contexto_html": ".DefaultParagraphFont { widows:0; orphans:0 }</style></head><body><div><p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-023530-0-000-18-08-1947@@@</span></p><p class=\"Epgrafe\" style=\"text-indent:0pt; line-height:normal; font-size:1.2em\"><span>DECRETO N. 23.530 – DE 18 DE AGÔSTO DE 1947</span></p><p class=\"Ementa\" style=\"margin-top:12pt\"><span style=\"font-size:1.2em\">Autoriza o cidadã"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1947/dec-23405-1947-07-28.md",
+      "urn": "urn:lex:br:federal:decreto:1947-07-28;23405",
+      "sha256": "29e81e0a0712ea80e967190cbc57ea17846f3245a39f4f81b23c75059dd5b35b",
+      "sha256_fonte_html": "8835aed024288707a7f50deeb735c7d7a4aebd158712d7e8ea91f1c85f24e30b",
+      "marcadores": [
+        {
+          "codigo": "###DEC-023405-0-000-28-07-1947@@@",
+          "inicio": 5816,
+          "contexto_html": ".DefaultParagraphFont { widows:0; orphans:0 }</style></head><body><div><p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-023405-0-000-28-07-1947@@@</span></p><p class=\"Epgrafe\" style=\"text-indent:0pt; line-height:normal; font-size:1.2em\"><span>DECRETO N. 23.405 – DE 28 DE JULHO DE 1947</span></p><p class=\"Ementa\" style=\"margin-top:12pt\"><span style=\"font-size:1.2em\">Transfere funções "
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1947/dec-23339-1947-07-15.md",
+      "urn": "urn:lex:br:federal:decreto:1947-07-15;23339",
+      "sha256": "ed71f84b019592132788025c9b890e6b0a1ae2f44d9bd54c28980ec7f994be44",
+      "sha256_fonte_html": "1737b04f1e930aa61b74a6ebd9b0401f4edfb0bec8dc2ffa681e353b20bf60d6",
+      "marcadores": [
+        {
+          "codigo": "###DEC-023339-0-000-15-07-1947@@@",
+          "inicio": 5873,
+          "contexto_html": ".DefaultParagraphFont { widows:0; orphans:0 }</style></head><body><div><p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-023339-0-000-15-07-1947@@@</span></p><p class=\"Epgrafe\" style=\"text-indent:0pt; line-height:normal; font-size:1.2em\"><span>DECRETO Nº 23.339, DE 15 DE julho DE 1947.</span></p><p class=\"Ementa\" style=\"margin-top:12pt\"><span style=\"font-size:1.2em\">Autoriza o cidadão"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    },
+    {
+      "path": "federal/decretos/1947/dec-23040-1947-05-05.md",
+      "urn": "urn:lex:br:federal:decreto:1947-05-05;23040",
+      "sha256": "61b1813ca4926434f00c56a4f417a76e7627f3fa396f4028f5abfe3940e8b875",
+      "sha256_fonte_html": "bea77db07e72bac138eab43445589cb497901d54f6b45eabaa9a3a211e5bb2c1",
+      "marcadores": [
+        {
+          "codigo": "###DEC-023040-0-000-05-05-1947@@@",
+          "inicio": 783,
+          "contexto_html": "erties></xml><![endif]--><style type=\"text/css\">body { font-family:Calibri }p { margin:0pt }</style></head><body><div><p style=\"widows:0; orphans:0; font-size:0.83em\"><span style=\"font-family:Arial\">.###DEC-023040-0-000-05-05-1947@@@</span></p><p style=\"text-align:center; widows:0; orphans:0\"><span style=\"font-family:Arial; font-weight:bold\">decreto nº 23.040, de 5 de maio de 1947.</span></p><p style=\"margin-left:226.8pt; widows:0; orphans:0; font-size:0.75em\"><span st"
+        }
+      ],
+      "normalizacoes": [],
+      "status": "aprovado_replay_commonmark_gfm",
+      "pontuacao_numeros_contextos_iguais": true
+    }
+  ],
+  "reparos_privados": [
+    {
+      "path": "federal/decretos/1947/dec-24239-1947-12-22.md",
+      "candidate": "federal/_candidatos_fidelidade_015_20261021_001/dec-24239-1947-12-22.md",
+      "sha256_candidato": "22e1d510638b82431caf6e7a891cc6d18cd03f0e31d96b25e3a101bf1ec02c7e",
+      "sha256_preimagem": "2223711bf40eb5c9887ebae3ab9e00f0e157cf3b7996616d4e57fa10c82e51a0",
+      "mudanca": "Preserva adjacência literal de rótulo de artigo e corrige somente markup defeituoso contra a fonte. '**Art. 18.**' → '**Art.18.**'"
+    },
+    {
+      "path": "federal/decretos/1947/dec-23530-1947-08-18.md",
+      "candidate": "federal/_candidatos_fidelidade_015_20261021_001/dec-23530-1947-08-18.md",
+      "sha256_candidato": "3d46ef89aed58a1f7d0583636b5dbadb425a585a36b7c111801b0151c007a17d",
+      "sha256_preimagem": "f5d48fa46a9db02a649b6aeccc5bc190e6241fd1537e7125cbf0c287dfaadaf1",
+      "mudanca": "Preserva adjacência literal de rótulo de artigo e corrige somente markup defeituoso contra a fonte. '**Art. 7º**' → '**Art.7º**'"
+    },
+    {
+      "path": "federal/decretos/1947/dec-23405-1947-07-28.md",
+      "candidate": "federal/_candidatos_fidelidade_015_20261021_001/dec-23405-1947-07-28.md",
+      "sha256_candidato": "7b4bc729d6795070b8725184eee8784cac086f78b1210d89d56a29a07a5490fb",
+      "sha256_preimagem": "29e81e0a0712ea80e967190cbc57ea17846f3245a39f4f81b23c75059dd5b35b",
+      "mudanca": "Preserva adjacência literal de rótulo de artigo e corrige somente markup defeituoso contra a fonte. '**Art. 1º**' → '**Art.1º**'"
+    },
+    {
+      "path": "federal/decretos/1947/dec-23339-1947-07-15.md",
+      "candidate": "federal/_candidatos_fidelidade_015_20261021_001/dec-23339-1947-07-15.md",
+      "sha256_candidato": "6ff55ea8ffec9ca4f2611a2b5f57a23e963efc90790579a143d4bb93601f6be4",
+      "sha256_preimagem": "ed71f84b019592132788025c9b890e6b0a1ae2f44d9bd54c28980ec7f994be44",
+      "mudanca": "Preserva adjacência literal de rótulo de artigo e corrige somente markup defeituoso contra a fonte. '**Art***. 3 º***' → '**Art. 3º**'"
+    }
+  ],
+  "resumo": {
+    "revisados": 8,
+    "aprovados": 8,
+    "reparos_privados": 4
+  }
+}

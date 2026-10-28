@@ -1,0 +1,999 @@
+---
+titulo: "04 - Lei Ordinária nº 1.410, de 29 de junho de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "1410"
+data: "2026-06-29"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1550"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1566/text"
+sha256_fonte: "2c4c797e84fd81f95fd559789682221376010663ed7c8569187bde2e22cb9990"
+sha256_texto: "a5b8420b2172d5042030f04cdee84a8ea9280a601043f1aa160b17c8c51dfb8f"
+capturado_em_fonte: "2026-10-28T02:40:12.886419-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 1.410, de 29 de junho de 2026
+
+Dispõe sobre o Conselho Municipal de Saúde de Corbélia e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+LEI
+
+
+#### CAPÍTULO I — DISPOSIÇÕES PRELIMINARES
+
+
+Art. 1º.
+
+O Conselho Municipal de Saúde de Corbélia - CMS, instituído originariamente pela Lei Municipal nº 237, de 4 de julho de 1991, e sucessivamente alterado pelas Leis Municipais nº 331, de 1993, nº 429, de 1997, nº 681, de 2009, nº 758, de 2012 e nº 867, de 2015, é órgão permanente, deliberativo, normativo e fiscalizador do Sistema Único de Saúde - SUS no âmbito municipal, ao qual compete formular estratégias e controlar a execução da política de saúde, inclusive em seus aspectos econômicos e financeiros, na forma da Constituição Federal, das Leis Federais nº 8.080, de 1990 e nº 8.142, de 1990, da Lei Complementar Federal nº 141, de 2012 e das Resoluções do Conselho Nacional de Saúde nº 453, de 2012 e nº 554, de 2017.
+
+
+#### CAPÍTULO II — DAS ATRIBUIÇÕES E COMPETÊNCIAS
+
+
+Art. 2º.
+
+Sem prejuízo das funções constitucionais dos Poderes Legislativo e Executivo e nos limites da legislação vigente, são atribuições e competências do Conselho Municipal de Saúde de Corbélia:
+
+
+I –
+
+fortalecer a participação e o controle social no SUS, mobilizar e articular a sociedade de forma permanente na defesa dos princípios constitucionais que o fundamentam;
+
+
+II –
+
+atuar na formulação e no controle da execução da política de saúde, incluindo os seus aspectos econômicos e financeiros, e propor estratégias para a sua aplicação aos setores público e privado;
+
+
+III –
+
+elaborar e alterar, conforme legislação vigente, o Regimento Interno do Conselho e outras normas de funcionamento;
+
+
+IV –
+
+deliberar sobre os modelos de atenção à saúde da população e de gestão do SUS;
+
+
+V –
+
+estabelecer diretrizes para elaboração do Plano Municipal de Saúde e deliberar sobre o seu conteúdo, conforme as diversas situações epidemiológicas e a capacidade organizacional dos serviços, considerando os princípios do SUS e as prioridades estabelecidas e aprovadas pelas conferências municipais;
+
+
+VI –
+
+participar da elaboração e atualização do Plano Municipal de Saúde, bem como aprová-lo e acompanhar sua execução;
+
+
+VII –
+
+propor estratégias de aplicação da política de saúde aos setores público e privado;
+
+
+VIII –
+
+avaliar e deliberar sobre contratos, consórcios e convênios, conforme as diretrizes do Plano Municipal de Saúde;
+
+
+IX –
+
+definir e controlar as prioridades para a elaboração de contratos entre o setor público e entidades privadas de prestação de serviços de saúde;
+
+
+X –
+
+deliberar anualmente sobre a aprovação ou não do relatório de gestão;
+
+
+XI –
+
+estabelecer estratégias e procedimentos de acompanhamento da gestão do SUS, articulando-se com os demais colegiados, a exemplo dos de seguridade social, meio ambiente, justiça, educação, trabalho, agricultura, idosos, criança e adolescente e outros;
+
+
+XII –
+
+propor prioridades, métodos e estratégias para a formação e educação continuada dos recursos humanos do SUS e cooperar na melhoria da qualidade de formação dos trabalhadores de saúde;
+
+
+XIII –
+
+criar, coordenar e supervisionar Câmaras Técnicas, Comissões Intersetoriais e outras que julgar necessárias, inclusive Grupos de Trabalho, integradas pelas secretarias e órgãos competentes e por entidades representativas da sociedade civil;
+
+
+XIV –
+
+proceder à revisão periódica dos planos de saúde;
+
+
+XV –
+
+deliberar sobre os programas de saúde e aprovar projetos a serem encaminhados ao Poder Legislativo, propor a adoção de critérios definidores de qualidade e resolutividade, atualizando-os face ao processo de incorporação dos avanços científicos e tecnológicos na área da saúde;
+
+
+XVI –
+
+deliberar sobre propostas de normas básicas municipais para operacionalização do SUS;
+
+
+XVII –
+
+estabelecer diretrizes gerais e aprovar parâmetros municipais quanto à política de recursos humanos para a saúde;
+
+
+XVIII –
+
+definir diretrizes e fiscalizar a movimentação e aplicação dos recursos financeiros do SUS no âmbito municipal, oriundos das transferências do orçamento da União e da seguridade social, do orçamento estadual e do orçamento municipal;
+
+
+XIX –
+
+acompanhar e controlar a atuação do setor privado credenciado mediante contrato ou convênio na área de saúde;
+
+
+XX –
+
+propor critérios para programação e execução financeira e orçamentária dos Fundos de Saúde e acompanhar a movimentação e destino dos recursos;
+
+
+XXI –
+
+fiscalizar e controlar gastos e deliberar sobre critérios de movimentação de recursos da Saúde, incluindo o Fundo de Saúde e os recursos transferidos e próprios do Município, Estado, Distrito Federal e da União, com base no que a lei disciplina;
+
+
+XXII –
+
+analisar, discutir e aprovar o relatório de gestão, com a prestação de contas e informações financeiras, repassadas em tempo hábil aos conselheiros, e garantia do devido assessoramento;
+
+
+XXIII –
+
+fiscalizar e acompanhar o desenvolvimento das ações e dos serviços de saúde e encaminhar denúncias aos respectivos órgãos de controle interno e externo, conforme legislação vigente;
+
+
+XXIV –
+
+examinar propostas e denúncias de indícios de irregularidades, responder no seu âmbito a consultas sobre assuntos pertinentes às ações e aos serviços de saúde, bem como apreciar recursos a respeito de deliberações do Conselho nas suas respectivas instâncias;
+
+
+XXV –
+
+estabelecer a periodicidade de convocação e organizar as Conferências de Saúde, propor sua convocação ordinária ou extraordinária e estruturar a comissão organizadora, submeter o respectivo regimento e programa ao Pleno do Conselho de Saúde correspondente, convocar a sociedade para a participação nas conferências de saúde;
+
+
+XXVI –
+
+incrementar e aperfeiçoar o relacionamento sistemático com os poderes constituídos, Ministério Público, Judiciário e Legislativo, meios de comunicação, bem como setores relevantes não representados nos conselhos;
+
+
+XXVII –
+
+acompanhar a implementação das propostas constantes do relatório das plenárias dos Conselhos de Saúde;
+
+
+XXVIII –
+
+atualizar periodicamente as informações sobre o Conselho Municipal de Saúde no Sistema de Acompanhamento dos Conselhos de Saúde — SIACS;
+
+
+XXIX –
+
+deliberar, elaborar, apoiar e promover a educação permanente para o controle social, de acordo com as Diretrizes e a Política Nacional de Educação Permanente para o Controle Social do SUS, cooperando na melhoria da qualidade e formação dos trabalhadores de saúde;
+
+
+XXX –
+
+divulgar suas ações por meio dos diversos mecanismos de comunicação social;
+
+
+XXXI –
+
+aprovar a proposta orçamentária anual da saúde, tendo em vista as metas e prioridades estabelecidas na Lei de Diretrizes Orçamentárias, observado o princípio do processo de planejamento e orçamento ascendentes, conforme legislação vigente;
+
+
+XXXII –
+
+manifestar-se sobre todos os assuntos de sua competência;
+
+
+XXXIII –
+
+atuar na formulação e proposição de estratégias e no controle da execução das políticas de saúde, incluindo os seus aspectos econômicos e financeiros, como subsistema da seguridade social;
+
+
+XXXIV –
+
+deliberar em relação à sua estrutura administrativa e o quadro de pessoal;
+
+
+XXXV –
+
+decidir sobre o seu orçamento;
+
+
+XXXVI –
+
+avaliar, explicitando os critérios utilizados, a organização e o funcionamento do SUS;
+
+
+XXXVII –
+
+estimular articulação e intercâmbio entre os Conselhos de Saúde, entidades, movimentos populares, instituições públicas e privadas para a promoção da Saúde;
+
+
+XXXVIII –
+
+estimular, apoiar e promover estudos e pesquisas sobre assuntos e temas na área de saúde pertinente ao desenvolvimento do SUS;
+
+
+XXXIX –
+
+acompanhar o processo de desenvolvimento e incorporação científica e tecnológica, observados os padrões éticos compatíveis com o desenvolvimento sociocultural do Município;
+
+
+XL –
+
+estabelecer ações de informação, educação e comunicação em saúde, divulgar as funções e competências do Conselho de Saúde, seus trabalhos e decisões nos meios de comunicação, incluindo informações sobre as agendas, datas e local das reuniões e dos eventos;
+
+
+XLI –
+
+acompanhar a aplicação das normas sobre ética em pesquisas aprovadas pelo CMS;
+
+
+XLII –
+
+deliberar, encaminhar e avaliar a Política de Gestão do Trabalho e Educação para a Saúde no SUS;
+
+
+XLIII –
+
+articular-se com outros conselhos setoriais com o propósito de cooperação mútua e de estabelecimento de estratégias comuns para o fortalecimento do sistema de participação e controle social. Parágrafo único. Os conselheiros poderão efetuar sua avaliação do Sistema Único de Saúde - SUS tomando como base estudos e/ou avaliações elaborados por instituições e/ou técnicos vinculados ao Município, podendo tais estudos ser solicitados pelo Conselho.
+
+
+#### CAPÍTULO III — DA COMPOSIÇÃO E DA ESTRUTURA
+
+
+Art. 3º.
+
+O Conselho Municipal de Saúde de Corbélia será constituído pelos seguintes segmentos, observada a paridade entre o segmento dos Usuários e o conjunto dos demais segmentos:
+
+
+I –
+
+50% (cinquenta por cento) de Usuários do SUS;
+
+
+II –
+
+25% (vinte e cinco por cento) de Trabalhadores da Saúde;
+
+
+III –
+
+25% (vinte e cinco por cento) de Prestadores de Serviços de Saúde do SUS e Representantes do Governo, distribuídos paritariamente entre esses subsegmentos.
+
+
+Art. 4º.
+
+O Conselho Municipal de Saúde de Corbélia será composto por 8 (oito) membros titulares e igual número de suplentes, distribuídos da seguinte forma:
+
+
+I –
+
+4 (quatro) representantes dos Usuários do SUS, na forma do art. 5º;
+
+
+II –
+
+2 (dois) representantes dos Trabalhadores da Saúde, na forma do art. 6º;
+
+
+III –
+
+1 (um) representante dos Prestadores de Serviços de Saúde do SUS, na forma do art. 7º;
+
+
+IV –
+
+1 (um) representante do Governo, na forma do art. 8º.
+
+
+§ 1º
+
+O mandato dos conselheiros é de 4 (quatro) anos, coincidente com o ciclo da Conferência Municipal de Saúde, permitida 1 (uma) recondução consecutiva e nova candidatura após o intervalo de um mandato.
+
+
+§ 2º
+
+A presidência do Conselho será exercida por conselheiro eleito pelo Pleno, sendo vedado o seu exercício pelo Secretário Municipal de Saúde, nos termos da Sexta Diretriz da Resolução do Conselho Nacional de Saúde nº 554, de 2017.
+
+
+§ 3º
+
+A representação do segmento Usuários é paritária ao conjunto dos demais segmentos.
+
+
+§ 4º
+
+A vaga de conselheiro pertence à instituição (entidade, empresa ou órgão) eleita ou indicada, e não à pessoa física, podendo a instituição substituir seu representante pessoal a qualquer tempo durante o mandato, mediante simples ofício à Mesa Diretora, sem afetar a vaga.
+
+
+§ 5º
+
+Em qualquer dos segmentos, o titular e o respectivo suplente serão indicados por instituições distintas, vedada a coincidência, em observância ao princípio da pluralidade representativa.
+
+
+Art. 5º.
+
+As 4 (quatro) vagas de titular e as 4 (quatro) vagas de suplente do segmento Usuários do SUS poderão ser ocupadas, indistintamente, por entidades, instituições ou movimentos sociais com atuação efetiva no Município de Corbélia ou em sua microrregião, dentre os quais associações de moradores, movimentos comunitários urbanos e rurais, entidades religiosas com atuação social ou comunitária em saúde, entidades ou movimentos de pessoas com deficiência, entidades ou movimentos de portadores de patologias específicas, sindicatos de trabalhadores rurais ou urbanos atuando na qualidade de usuários, entidades de defesa do consumidor, entidades de defesa de direitos sociais, conselhos de pais, grêmios estudantis, ligas comunitárias, pastorais e fundações, entre outras entidades ou movimentos com pertinência temática à saúde. Parágrafo único. Não há reserva de vaga por categoria, sendo a eleição realizada conforme a maior votação obtida pelas instituições candidatas, na forma do Regulamento Eleitoral.
+
+
+Art. 6º.
+
+As 2 (duas) vagas de titular e as 2 (duas) vagas de suplente do segmento Trabalhadores da Saúde serão preenchidas mediante eleição direta entre os trabalhadores da saúde, pessoas físicas, observados os seguintes requisitos:
+
+
+I –
+
+domicílio no Município de Corbélia, considerando-se domiciliado o servidor público com lotação ou exercício no Município, independentemente do local de residência, na forma do art. 76 do Código Civil;
+
+
+II –
+
+inscrição ativa e regular no respectivo conselho de classe profissional, quando exigível para o exercício da profissão;
+
+
+III –
+
+exercício efetivo de atividade profissional na área da saúde, em qualquer nível de formação (superior, técnico ou elementar) e em qualquer vínculo, inclusive estatutário, celetista, contratado por tempo determinado, prestador de serviço, autônomo ou agente comunitário;
+
+
+IV –
+
+atendimento aos demais critérios do art. 9º e às vedações do art. 10. Parágrafo único. As vagas do segmento são preenchidas pelos trabalhadores mais votados na assembleia setorial, sem reserva de vagas por nível de formação, categoria profissional ou vínculo institucional, considerando-se eleitos como titulares os 2 (dois) mais votados, e como suplentes os 2 (dois) seguintes em ordem decrescente de votação.
+
+
+Art. 7º.
+
+A vaga de titular e a vaga de suplente do segmento Prestadores serão preenchidas por empresas distintas, credenciadas ao SUS-Corbélia, eleitas entre os pares na assembleia setorial. Havendo simultaneamente prestadores filantrópicos e privados com fins lucrativos, observar-se-á rodízio entre as categorias a cada mandato; existindo apenas uma das categorias, a ela caberão ambas as vagas, hipótese em que o titular e o suplente serão necessariamente empresas distintas. Parágrafo único. A empresa eleita indicará, mediante ofício, seu representante pessoal, que poderá ser seu representante legal, comprovado por contrato social ou ato equivalente, ou pessoa por ela designada mediante procuração específica com poderes para representá-la junto ao CMS-Corbélia, podendo a empresa substituir o representante a qualquer tempo, sem afetar a vaga.
+
+
+Art. 8º.
+
+A vaga de titular e a vaga de suplente do segmento Governo serão preenchidas por indicação direta do Secretário Municipal de Saúde, recaindo sobre Secretarias ou órgãos distintos da estrutura municipal com interface com a saúde, em observância ao princípio da pluralidade representativa.
+
+
+Art. 9º.
+
+São critérios gerais de elegibilidade para o exercício da função de conselheiro:
+
+
+I –
+
+ser brasileiro nato ou naturalizado, ou estrangeiro com residência permanente regular;
+
+
+II –
+
+ter, no mínimo, 18 (dezoito) anos completos;
+
+
+III –
+
+estar em pleno gozo dos direitos civis e políticos;
+
+
+IV –
+
+ser domiciliado no Município de Corbélia, considerando-se domiciliado o servidor público com lotação ou exercício no Município, independentemente do local de residência, na forma do art. 76 do Código Civil;
+
+
+V –
+
+não incidir em qualquer das vedações do art. 10.
+
+
+§ 1º
+
+Aplicam-se, ademais, os seguintes critérios específicos:
+
+
+I –
+
+segmento Usuários:
+
+
+a)
+
+entidade legalmente constituída há, no mínimo, 12 (doze) meses, ou movimento com organização formal comprovada por ata e estatuto;
+
+
+b)
+
+atuação efetiva da entidade no Município ou na microrregião, na área da saúde ou da defesa de direitos sociais correlatos;
+
+
+c)
+
+prévio cadastro da entidade no Cadastro de Instituições do CMS-Corbélia;
+
+
+II –
+
+segmento Trabalhadores: requisitos do art. 6º;
+
+
+III –
+
+segmento Prestadores:
+
+
+a)
+
+contrato, credenciamento ou convênio ativo do estabelecimento prestador com o SUS-Corbélia há, no mínimo, 6 (seis) meses;
+
+
+b)
+
+inexistência de pendência grave em vistoria sanitária ou auditoria do SUS;
+
+
+c)
+
+regularidade fiscal, trabalhista e previdenciária do prestador;
+
+
+IV –
+
+segmento Governo:
+
+
+a)
+
+vínculo formal com o Município, na condição de servidor efetivo ou comissionado;
+
+
+b)
+
+atribuições funcionais compatíveis com a área da saúde e do controle social;
+
+
+c)
+
+ato de designação publicado em meio oficial.
+
+
+§ 2º
+
+A perda superveniente de qualquer dos requisitos importa o desligamento do conselheiro, na forma do art. 10, § 2º.
+
+
+Art. 10.
+
+É vedado o exercício da função de conselheiro do Conselho Municipal de Saúde:
+
+
+I –
+
+aos membros do Poder Legislativo em mandato eletivo, abrangidos vereadores, deputados estaduais, deputados federais e senadores;
+
+
+II –
+
+aos membros do Poder Judiciário em exercício;
+
+
+III –
+
+aos membros do Ministério Público em exercício;
+
+
+IV –
+
+aos ocupantes de cargo eletivo nas esferas municipal, estadual ou federal;
+
+
+V –
+
+aos ocupantes de cargo de direção, chefia ou função gratificada na gestão do SUS local, no que se refere às vagas do segmento Usuários;
+
+
+VI –
+
+ao prestador de serviços de saúde ao SUS, ou seu sócio, dirigente ou empregado em cargo gerencial, no que se refere às vagas do segmento Usuários;
+
+
+VII –
+
+às pessoas com conflito de interesses materialmente relevante com a gestão municipal da saúde, assim entendido qualquer vínculo contratual ativo, direto ou indireto, em valor expressivo, com o Município, na área da saúde, no que se refere às vagas dos segmentos Usuários e Trabalhadores;
+
+
+VIII –
+
+ao cônjuge, companheiro ou parente, consanguíneo ou afim, em linha reta ou colateral, até o terceiro grau, do Prefeito, do Secretário Municipal de Saúde e dos demais Secretários Municipais, no que se refere às vagas do segmento Usuários;
+
+
+IX –
+
+aos condenados por ato de improbidade administrativa em decisão colegiada, enquanto durarem os efeitos da condenação, e aos condenados por crime contra a Administração Pública, em definitivo ou em decisão colegiada;
+
+
+X –
+
+aos inelegíveis nos termos da Lei Complementar Federal nº 64, de 18 de maio de 1990, e suas alterações;
+
+
+XI –
+
+aos candidatos a cargo eletivo, do registro de candidatura à diplomação ou à desistência formal, devendo o conselheiro afastar-se enquanto perdurar a condição;
+
+
+XII –
+
+às pessoas desligadas do CMS por descumprimento ético ou regimental, durante o prazo da penalidade.
+
+
+§ 1º
+
+É vedado ao Secretário Municipal de Saúde, autoridade máxima do SUS no Município, exercer a Presidência do Conselho Municipal de Saúde, em respeito ao princípio da segregação entre as funções de execução e de fiscalização, na forma da Sexta Diretriz da Resolução do Conselho Nacional de Saúde nº 554, de 2017.
+
+
+§ 2º
+
+A constatação superveniente de qualquer das vedações deste artigo importa o desligamento do conselheiro, mediante decisão fundamentada do Pleno, assegurados contraditório e ampla defesa.
+
+
+§ 3º
+
+O conselheiro é responsável por declarar, no momento da posse e sempre que houver fato superveniente, a inexistência das vedações deste artigo, sob as penas da lei.
+
+
+Art. 11.
+
+Cada vaga de titular do CMS terá uma vaga de suplente correspondente, ambas pertencentes ao mesmo segmento, sendo os respectivos titular e suplente indicados ou eleitos por instituições distintas, sem necessidade de vinculação à mesma entidade, empresa ou órgão.
+
+
+§ 1º
+
+A vaga de conselheiro, em qualquer segmento, pertence à instituição (entidade, empresa ou órgão) eleita ou indicada, podendo esta substituir seu representante pessoal a qualquer tempo durante o mandato, mediante simples ofício à Mesa Diretora, sem afetar a vaga.
+
+
+§ 2º
+
+Na ausência, falta, licença, impedimento ou renúncia do titular, o suplente assume automaticamente, com os mesmos direitos e deveres, pelo tempo do impedimento.
+
+
+§ 3º
+
+Em caso de afastamento definitivo da instituição titular, a instituição suplente do mesmo segmento será chamada a ocupar a titularidade, e a vaga de suplência será preenchida pela próxima instituição da lista de espera, no respectivo segmento.
+
+
+§ 4º
+
+A sucessão de vagas observa, sucessivamente:
+
+
+I –
+
+chamamento da lista de espera da última Conferência Municipal de Saúde, no respectivo segmento e, quando houver, no respectivo subsegmento;
+
+
+II –
+
+convocação extraordinária pelo CMS para nova eleição ou indicação no respectivo segmento, na ausência da hipótese anterior.
+
+
+§ 5º
+
+O mandato do suplente que assumir a titularidade conta-se a partir da posse, sem prejuízo do prazo do mandato em curso, para fins do limite de recondução.
+
+
+Art. 12.
+
+O Município assegurará ao Conselho Municipal de Saúde:
+
+
+I –
+
+dotação orçamentária própria, vinculada ao Fundo Municipal de Saúde, suficiente para o seu pleno funcionamento, na forma da Quarta Diretriz da Resolução CNS nº 453, de 2012 e da Resolução CNS nº 454, de 2012;
+
+
+II –
+
+espaço físico permanente para reuniões, com infraestrutura compatível;
+
+
+III –
+
+Secretaria Executiva, com servidor designado e recursos materiais;
+
+
+IV –
+
+assessoramento técnico e jurídico, próprio ou em parceria com a Procuradoria do Município;
+
+
+V –
+
+cobertura de despesas com transporte, alimentação e hospedagem dos conselheiros em representações, capacitações e diligências oficiais, sem caráter remuneratório.
+
+
+Art. 13.
+
+É instituído o Programa de Capacitação Permanente dos Conselheiros, com trilha obrigatória de formação inicial de 20 (vinte) horas, a ser concluída em até 90 (noventa) dias da posse, e ciclos de atualização ao longo do mandato, podendo ser realizado por meio de plataforma de Educação a Distância e em parceria com a Escola Estadual de Saúde Pública, Fiocruz, Conass, COSEMS-PR ou instituições congêneres.
+
+
+Art. 14.
+
+A Mesa Diretora, como órgão operacional de execução e implementação das decisões do Conselho Municipal de Saúde, será eleita diretamente pela Plenária do Conselho e terá a seguinte composição:
+
+
+I –
+
+Presidente;
+
+
+II –
+
+Vice-Presidente;
+
+
+III –
+
+Secretário;
+
+
+IV –
+
+Vice-Secretário.
+
+
+Parágrafo único
+
+O mandato da Mesa Diretora é de 2 (dois) anos, permitida 1 (uma) recondução consecutiva por cargo, vedada terceira recondução consecutiva.
+
+
+Art. 15.
+
+Os membros do Conselho Municipal de Saúde reger-se-ão pelas seguintes disposições:
+
+
+I –
+
+devem ser indicados pelos respectivos segmentos e, no caso de impedimento, substituídos por seus suplentes, mediante solicitação da Mesa Diretora do Conselho ao Prefeito Municipal;
+
+
+II –
+
+os indicados, por escrito, de maneira autônoma, pelas suas instituições, são os Conselheiros membros;
+
+
+III –
+
+as instituições podem a qualquer tempo propor, por intermédio da Presidência do Conselho, a substituição dos seus representantes pessoais, sem afetar a vaga;
+
+
+IV –
+
+os Conselheiros faltosos, não justificados, devem ser comunicados, a partir da 2ª falta, consecutiva ou intercalada, por meio de correspondência emitida pela Secretaria Executiva;
+
+
+V –
+
+o conselheiro titular ou suplente que faltar, sem justificativa, a 3 (três) reuniões ordinárias e/ou extraordinárias consecutivas ou a 6 (seis) reuniões ordinárias e/ou extraordinárias alternadas, no período de 12 (doze) meses, será desligado do Conselho;
+
+
+VI –
+
+quando por impedimento legal, decisão judicial ou impedimento regimental que impeça a continuação da representatividade da instituição, e que esse afastamento interfira na paridade entre os segmentos, aplica-se a sucessão prevista no art. 11.
+
+
+Art. 16.
+
+Para melhor desempenho de suas funções, o Conselho Municipal de Saúde poderá recorrer a pessoas e entidades, mediante os seguintes critérios:
+
+
+I –
+
+consideram-se colaboradores do Conselho Municipal as entidades formadoras de recursos humanos para a saúde e as entidades representativas de profissionais e usuários de saúde, independentemente de sua condição de membro;
+
+
+II –
+
+poderão ser convidadas pessoas ou instituições de notória especialização na área de saúde para assessorar o Conselho em assuntos específicos;
+
+
+III –
+
+poderão ser criadas Câmaras Técnicas, comissões internas e Grupos de Trabalho, na forma do Regimento Interno, que poderão contar com integrantes não conselheiros, a título de suporte técnico, com direito a voz e sem direito a voto.
+
+
+#### CAPÍTULO IV — DO FUNCIONAMENTO
+
+
+Art. 17.
+
+O Plenário do Conselho de Saúde se reunirá, no mínimo, a cada mês e, extraordinariamente, quando necessário, e terá como base o seu Regimento Interno.
+
+
+§ 1º
+
+A pauta e o material de apoio às reuniões devem ser encaminhados aos conselheiros com a antecedência mínima de 10 (dez) dias.
+
+
+§ 2º
+
+As reuniões plenárias dos Conselhos de Saúde são abertas ao público e deverão acontecer em espaços e horários que possibilitem a participação da sociedade.
+
+
+§ 3º
+
+O Plenário do Conselho Municipal de Saúde é o órgão de deliberação plena e conclusiva, configurada pela sessão ordinária ou extraordinária dos conselheiros nomeados, que cumpra os requisitos de funcionamento estabelecidos nesta Lei.
+
+
+§ 4º
+
+As sessões do plenário instalar-se-ão em primeira convocação com a presença de maioria simples e em segunda convocação com a tolerância de 15 (quinze) minutos em relação à primeira convocação com a presença de metade mais um dos seus integrantes e deliberação por maioria simples dos membros presentes.
+
+
+§ 5º
+
+As reuniões ordinárias e extraordinárias serão comunicadas a todas as instituições participantes do Conselho, com a sua respectiva pauta por correspondência específica, cujo recebimento, em caso de dúvida, será comprovado por livro de protocolo ou meio eletrônico equivalente.
+
+
+§ 6º
+
+As reuniões deverão ser abertas ao público, que se acomodará de acordo com as instalações físicas existentes, abstendo-se de efetuar manifestações.
+
+
+§ 7º
+
+A cada quadrimestre deverá constar dos itens da pauta o pronunciamento do gestor, das respectivas esferas de governo, para que faça a prestação de contas, em relatório detalhado, sobre andamento do plano de saúde, agenda da saúde pactuada, relatório de gestão, dados sobre o montante e a forma de aplicação dos recursos, as auditorias iniciadas e concluídas no período, bem como a produção e a oferta de serviços na rede assistencial própria, contratada ou conveniada, de acordo com o art. 12 da Lei Federal nº 8.689, de 1993 e com a Lei Complementar Federal nº 141, de 2012.
+
+
+§ 8º
+
+Excepcionalmente, o gestor do Sistema Municipal de Saúde poderá convocar a plenária, mesmo não sendo presidente do Conselho, desde que obedeça aos trâmites regimentais e prazo específico para convocação extraordinária.
+
+
+§ 9º
+
+A Plenária do Conselho reunir-se-á ordinariamente uma vez por mês, e extraordinariamente, quando convocada pelo Presidente ou pela maioria simples de seus membros.
+
+
+§ 10
+
+O Conselho Municipal reunir-se-á extraordinariamente para tratar de matérias especiais ou urgentes e quando houver:
+
+
+I –
+
+convocação formal pela Mesa Diretora;
+
+
+II –
+
+convocação formal de metade mais um de seus titulares.
+
+
+§ 11
+
+Cada membro do Conselho terá direito a um único voto na Plenária.
+
+
+§ 12
+
+As decisões do Conselho Municipal de Saúde serão consubstanciadas em resolução, moção ou recomendação.
+
+
+§ 13
+
+A Mesa Diretora do Conselho poderá deliberar ad referendum da Plenária, em hipóteses urgentes, com submissão obrigatória ao Pleno na primeira reunião subsequente, sob pena de invalidade.
+
+
+Art. 18.
+
+As reuniões plenárias do Conselho Municipal de Saúde podem ser realizadas nas modalidades presencial, virtual ou híbrida, observadas a publicidade, a isonomia entre os conselheiros, o registro nominal de presença e voto e a acessibilidade.
+
+
+§ 1º
+
+O Conselho pode, em caráter excepcional e mediante regramento próprio, deliberar de forma assíncrona sobre matérias previamente incluídas em pauta, observados prazos mínimos de antecedência e de votação e a obrigatoriedade de parecer descritivo elaborado pela Presidência ou pela Secretaria.
+
+
+§ 2º
+
+As regras detalhadas de funcionamento das modalidades virtuais e da deliberação a distância são definidas no Regimento Interno.
+
+
+Art. 19.
+
+O Conselho Municipal de Saúde apreciará, obrigatoriamente, as propostas de pauta apresentadas por:
+
+
+I –
+
+cidadão ou cidadãos, com apoio mínimo de 0,3% (zero vírgula três por cento) dos eleitores do Município de Corbélia, comprovado por subscrição contendo nome completo, número de CPF e número de título de eleitor; ou
+
+
+II –
+
+1 (uma) ou mais entidades legalmente constituídas ou movimentos sociais organizados, com atuação no Município de Corbélia, independentemente do segmento ou da classe a que pertençam.
+
+
+§ 1º
+
+A proposta de pauta deve ser apresentada por escrito à Secretaria Executiva do Conselho, contendo:
+
+
+I –
+
+identificação do(s) proponente(s);
+
+
+II –
+
+descrição clara e objetiva da matéria;
+
+
+III –
+
+fundamentação da sua relevância para a saúde pública municipal;
+
+
+IV –
+
+sugestão de encaminhamento, quando cabível;
+
+
+V –
+
+documentos comprobatórios, se for o caso.
+
+
+§ 2º
+
+Verificada a regularidade formal pela Secretaria Executiva, a proposta será incluída automaticamente em pauta e apreciada pelo Pleno em prazo não superior a 90 (noventa) dias, contados da apresentação.
+
+
+§ 3º
+
+Identificada incompletude na proposta, a Secretaria Executiva concederá ao(s) proponente(s) prazo de 15 (quinze) dias para complementação, suspendendo-se, neste período, o prazo do § 2º.
+
+
+§ 4º
+
+A apreciação obrigatória não implica obrigatoriedade de aprovação no mérito, sendo assegurada ao Pleno a livre deliberação fundamentada.
+
+
+§ 5º
+
+O(s) proponente(s) será(ão) cientificado(s) da decisão e poderá(ão) sustentar oralmente a proposta na sessão de apreciação, pelo prazo de 5 (cinco) minutos.
+
+
+Art. 20.
+
+Em situação de emergência sanitária, calamidade pública ou desastre com impacto na saúde, formalmente reconhecida por ato do Poder Executivo Municipal, Estadual ou Federal, ou pelo próprio Conselho mediante deliberação, o CMS poderá adotar protocolo especial, com convocação extraordinária acelerada, funcionamento integralmente remoto e quórum reduzido para deliberações urgentes, na forma do Regimento Interno.
+
+
+#### CAPÍTULO V — DA CONFERÊNCIA MUNICIPAL DE SAÚDE E DAS DIRETRIZES
+
+
+Art. 21.
+
+O Conselho Municipal de Saúde de Corbélia convocará, a cada 4 (quatro) anos, uma Conferência Municipal de Saúde para avaliar a política municipal de saúde, propor diretrizes de ação para o Sistema Único de Saúde - SUS e efetuar a eleição dos representantes do Conselho.
+
+
+Art. 22.
+
+No exercício de suas atribuições, o Conselho Municipal de Saúde de Corbélia observará as seguintes diretrizes básicas e prioritárias:
+
+
+I –
+
+a saúde é direito de todos e dever do Estado, garantida mediante políticas sociais e econômicas que visem à promoção da saúde, redução dos riscos de doenças e outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação (CF, art. 196);
+
+
+II –
+
+integralidade dos serviços de saúde, buscando promoção de saúde em toda a rede municipal, diminuindo as taxas de mortalidade infantil e aumentando a expectativa de vida.
+
+
+Art. 23.
+
+O Conselho Municipal de Saúde de Corbélia, como órgão colegiado, deliberativo e representativo, promoverá debates estimulando a participação comunitária, visando, prioritariamente, a melhoria dos serviços de saúde no Município.
+
+
+#### CAPÍTULO VI — DA TRANSPARÊNCIA E DO PORTAL ELETRÔNICO
+
+
+Art. 24.
+
+O Conselho Municipal de Saúde manterá portal eletrônico próprio, integrado ao sítio oficial do Município, com acesso público e gratuito, no qual serão obrigatoriamente publicados:
+
+
+I –
+
+as pautas e convocações de reuniões, com antecedência mínima de 10 (dez) dias;
+
+
+II –
+
+as atas e gravações das reuniões;
+
+
+III –
+
+as resoluções vigentes, com mecanismo de busca;
+
+
+IV –
+
+os pareceres quadrimestrais e anuais;
+
+
+V –
+
+os documentos das Câmaras Técnicas;
+
+
+VI –
+
+o calendário anual de reuniões;
+
+
+VII –
+
+o cadastro atualizado de instituições e dos conselheiros;
+
+
+VIII –
+
+o canal de manifestações, propostas e denúncias da população;
+
+
+IX –
+
+os indicadores de desempenho do CMS;
+
+
+X –
+
+outras informações de interesse público, observadas as Leis Federais nº 12.527, de 2011 (LAI) e nº 13.709, de 2018 (LGPD).
+
+
+#### CAPÍTULO VII — DAS DISPOSIÇÕES FINAIS
+
+
+Art. 25.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 26.
+
+Revoga-se a Lei Municipal nº 867, de 2 de abril de 2015.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná
+
+Em 29 de junho de 2026, 66º da Emancipação Política.
+
+Thiago Daross Stefanello
+
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 2555b de 30/06/2026, pág. 3-18.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1550/ta
+

@@ -1,0 +1,23 @@
+{
+  "contagens": {
+    "paths": 13188,
+    "diretos": 13139,
+    "documentos_com_tabelas": 4038,
+    "tabelas": 9852,
+    "nativos_excluidos": 49,
+    "achados_escopo_css_hidden_tachado_tabelas": 0,
+    "diagnosticos_texto_bruto_fora_escopo": 965
+  },
+  "fontes": [
+    {
+      "auditoria": "municipais/_indice/_recuperacao_20261027/dou-diretos-css-html5",
+      "resumo_sha256": "efdf545eb7f55f90e9b024262fdb803350ab36c911d001c74d06b4e7e86a7bd2"
+    },
+    {
+      "auditoria": "municipais/_indice/_recuperacao_20261027/dou029-diretos-css-html5",
+      "resumo_sha256": "9ae4dd2c8cbce91bb84ddd2a694d70e85edd58e2c9d4086624738690787dd836"
+    }
+  ],
+  "criterio": "Auditoria privada suplementar somente leitura offline de CSS/hidden/tachados e matrizes HTML5 por tabela/linha/célula/texto/colspan/rowspan, incluindo papel td/th.",
+  "limite": "Não é nova aprovação geral de fidelidade textual. CSS externo/herdado não fornecido não é certificado. Tachado não implica revogação de todo o ato. Nenhuma promoção ou alteração de mapas/canônicos."
+}

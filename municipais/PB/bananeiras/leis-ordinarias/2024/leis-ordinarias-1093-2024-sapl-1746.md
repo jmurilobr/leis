@@ -1,0 +1,182 @@
+---
+titulo: "Lei nº 1.093, de 14 de agosto de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1093"
+data: "2024-08-14"
+municipio: "Bananeiras"
+uf: "PB"
+codigo_ibge: "2501500"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.bananeiras.pb.leg.br/norma/1746"
+fonte_texto: "https://sapl.bananeiras.pb.leg.br/ta/75/text"
+sha256_fonte: "9acd52c1b6634a911392b48dfabaa8b02e779c36e8f5fc786cfd8241a3481608"
+sha256_texto: "e79861f4d2ac327f7d07357a313de932d1e100b887a9787d65f1337d68b3e968"
+capturado_em_fonte: "2026-10-27T17:05:35.953031-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.093, de 14 de agosto de 2024
+
+Cria os componentes do Sistema Nacional de Segurança Alimentar e Nutricional - SISAN, do Município de Bananeiras, do Estado da Paraíba, define os parâmetros para elaboração e implementação do Plano Municipal de Segurança Alimentar e Nutricional, dá outras providências.
+
+
+**O PREFEITO DO MUNICÍPIO DE BANANEIRAS, ESTADO DA PARAÍBA,** NO USO DE SUAS ATRIBUIÇÕES LEGAIS, FAÇO SABER QUE O PODER LEGISLATIVO MUNICIPAL APROVOU E EU SANCIONO A SEGUINTE LEI:
+
+
+#### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+
+Art. 1º.
+
+Esta Lei cria os componentes municipais do SISAN, bem como define parâmetros para elaboração e implementação do Plano Municipal de Segurança Alimentar e Nutricional, em consonância com os princípios e diretrizes estabelecidos pela Lei nº 11.346, de 15 de setembro de 2006, com os Decretos nº 6.272 e nº 6.273, de 2007, e o Decreto nº 7.272, de 2010, com o propósito de garantir o Direito Humano à Alimentação Adequada.
+
+
+Art. 2º.
+
+A alimentação é direito básico do ser humano, indispensável à realização dos seus direitos consagrados na Constituição Federal, cabendo ao poder público adotar as políticas e ações que se façam necessárias para respeitar, proteger, promover e prover o Direito Humano à Alimentação Adequada e Segurança Alimentar e Nutricional de toda a população.
+
+
+§ 1º
+
+A adoção dessas políticas e ações, deverá levar em conta as dimensões ambientais, culturais, econômicas, regionais e sociais do Município, com prioridade para as regiões e populações mais vulneráveis.
+
+
+§ 2º
+
+É dever do poder público, além do previsto no caput do artigo, avaliar, fiscalizar e monitorar a realização do Direito Humano à Alimentação Adequada, bem como criar e fortalecer os mecanismos para sua exigibilidade.
+
+
+Art. 3º.
+
+A Segurança Alimentar e Nutricional (SAN) consiste na garantia do direito de todos ao acesso regular e permanente a alimentos de qualidade, em quantidade suficiente, sem comprometer o acesso a outras necessidades essenciais, tendo como base práticas alimentares promotoras de saúde que respeitem à diversidade cultural e que sejam ambiental, cultural, econômica e socialmente sustentáveis.
+
+
+Parágrafo único.
+
+A Segurança Alimentar e Nutricional inclui a garantia do direito de todas as pessoas ao acesso à orientação que contribua para o enfrentamento ao sobrepeso, à obesidade, à contaminação de alimentos e a mais doenças consequentes da alimentação inadequada.
+
+
+Art. 4º.
+
+A Segurança Alimentar e Nutricional abrange:
+
+
+I –
+
+a ampliação das condições de oferta acessível de alimentos, por meio do incremento de produção, em especial na agricultura tradicional e familiar, no processamento, na industrialização, na comercialização, no abastecimento e na distribuição, nos recursos de água, alcançando também a geração de trabalho e a redistribuição da renda, como fatores de ascensão social;
+
+
+II –
+
+a conservação da biodiversidade e a utilização sustentável dos recursos naturais;
+
+
+III –
+
+a promoção da saúde, da nutrição e da alimentação da população, incluindo-se grupos populacionais específicos e populações em situação de vulnerabilidade social;
+
+
+IV –
+
+a garantia da qualidade biológica, sanitária, nutricional e tecnológica dos alimentos consumidos pela população, bem como seu aproveitamento, promovendo a sintonia entre instituições com responsabilidades afins para que estimulem práticas e ações alimentares e estilos de vida saudáveis;
+
+
+V –
+
+a produção de conhecimentos e informações úteis à saúde alimentar, promovendo seu amplo acesso e eficaz disseminação para toda a população;
+
+
+VI –
+
+a implementação de políticas públicas, de estratégias sustentáveis e participativas de produção, comercialização e consumo de alimentos, respeitando-se as múltiplas características territoriais e etno-culturais do Estado;
+
+
+VII –
+
+a adoção de urgentes correções quanto aos controles públicos sobre qualidade nutricional dos alimentos, quanto à tolerância com maus hábitos alimentares, quanto à desinformação sobre saúde alimentar vigente na sociedade em geral e nos ambientes sob gestão direta e indireta do Estado, quanto à falta de sintonia entre as ações das diversas áreas com responsabilidades afins, como educação, saúde, publicidade, pesquisa estimulada e ou apoiada por entes públicos, produção de alimentos mediante critérios fundamentados na sustentabilidade, dentre outros.
+
+
+Art. 5º.
+
+A consecução do Direito Humano à Alimentação Adequada (DHAA) requer o respeito à soberania do município sobre a produção e o consumo de alimentos
+
+
+Art. 6º.
+
+O Município de Bananeiras, Estado da Paraíba, deve empenhar-se na promoção de cooperação técnica com o Governo Estadual e com os demais municípios do Estado, contribuindo assim, para a realização do Direito Humano à Alimentação Adequada.
+
+
+#### CAPÍTULO II — DOS COMPONENTES MUNICIPAIS DO SISTEMA NACIONAL DE SEGURANÇA
+
+**ALIMENTAR E NUTRICIONAL**
+
+
+Art. 7º.
+
+A consecução do Direito Humano à Alimentação Adequada da população farse-á por meio do Sistema Nacional de Segurança Alimentar e Nutricional (SISAN), integrado, no Município de Bananeiras, Estado da Paraíba, por um conjunto de órgãos e entidades afetas à Segurança Alimentar e Nutricional.
+
+
+Art. 8º.
+
+O Sistema Nacional de Segurança Alimentar e Nutricional (SISAN) reger-se-á pelos princípios e diretrizes dispostos na Lei n.º 11.346 de 15 de setembro de 2006.
+
+
+Art. 9º.
+
+São componentes municipais do Sistema Nacional de Segurança Alimentar e Nutricional (SISAN):
+
+
+I –
+
+a Conferência Municipal de Segurança Alimentar e Nutricional;
+
+
+II –
+
+o Conselho Municipal de Segurança Alimentar e Nutricional - COMSEA;
+
+
+III –
+
+a Câmara Intersetorial de Segurança Alimentar e Nutricional – CAISAN Municipal;
+
+
+IV –
+
+os órgãos e entidades de Segurança Alimentar e Nutricional, instituições privadas, com ou sem fins lucrativos, que manifestem interesse na adesão e que respeitem os critérios, princípios e diretrizes do SISAN, nos termos regulamentados pela Câmara Interministerial de Segurança Alimentar e Nutricional – CAISAN Nacional.
+
+
+Parágrafo único.
+
+A Câmara Intersetorial de Segurança Alimentar e Nutricional – CAISAN Municipal e o Conselho Municipal de Segurança Alimentar e Nutricional – COMSEA, serão regulamentados por Decreto do Poder Executivo Municipal, respeitada a legislação aplicável.
+
+
+**DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS**
+
+
+Art. 10.
+
+O Prefeito Municipal editará norma regulamentando a presente Lei no prazo de 90 (noventa) dias.
+
+
+Art. 11.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Bananeiras, em
+
+14 de agosto de 2024; 203º da
+
+Independência e 136º da República.
+
+**MATHEUS DE MELO BEZERRA CAVALCANTI**
+
+Prefeito Constitucional do Município de Bananeiras/PB
+
+Autoria: Poder Executivo
+

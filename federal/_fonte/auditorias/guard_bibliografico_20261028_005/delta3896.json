@@ -1,0 +1,66 @@
+{
+  "fontes_examinadas": 3896,
+  "mudancas_de_estado": 2,
+  "mudancas_nos_selecionados013_015": 0,
+  "registros": [
+    {
+      "path": "federal/decretos/1921/dec-14722-1921-03-16.md",
+      "sha256_HTML": "cb924083f731ac6af0fe63d16ad383615c02c90fbad2adbc84199e6d28cdf247",
+      "anterior": null,
+      "candidato": {
+        "motivo": "Marcador editorial explícito substitui trecho da transcrição; a concordância do Markdown com uma fonte mutilada não comprova integralidade.",
+        "lacuna": "(\\ilegivel)",
+        "contexto": "grapho unico. as provas deste concurso de 3ª entrancia serao tambem escripta e oraes.\n\nart. 473. os programmas para os concursos de segunda e terceira entrancias serao organizados (\\ilegivel) pela directoria geral.\n\ncapitulo xxviii\n\nvantagens do pessoal\n\nart. 474. as denominacoes, numero e vencimentos do pessoal do quadro da directoria geral, das administracoes e agenc",
+        "estado": "revisao_documental_necessaria"
+      },
+      "selecionado_lotes013_015": false,
+      "HEAD": "75ce325231d29bcfdaf407ec1da0ab642fb1e6d7",
+      "sha256_MD_HEAD": null,
+      "estado_HEAD": "ausente",
+      "edicao_facs_atual": false,
+      "limites": "Delta do predicado sobre fonte preservada; não comprova ausência no ato nem autoriza máscara automática. Eventual edição recuperada atual deve ser confrontada independentemente."
+    },
+    {
+      "path": "federal/decretos/1920/dec-14056-1920-02-11.md",
+      "sha256_HTML": "43045ed627066dddef1cec2b60acc276ae1d0cea168c820aff3f62884a621a89",
+      "anterior": null,
+      "candidato": {
+        "motivo": "Ponteiro bibliográfico isolado substitui ou remete a suplemento cuja representação exige confronto documental individual. Lista inline, outras tabelas ou regulamento transcrito não demonstram, por si, o objeto indicado; o marcador também não prova ausência definitiva.",
+        "lacuna": "<<anexo>>clr vol. 01 ano 1920 pag. 540 tabela. (vencimentos e representacao dos funccionarios da secretaria de estado das relacoes exteriores, a que se refere o presente regulamento).",
+        "estado": "revisao_documental_necessaria",
+        "classe": "ponteiro_bibliografico_nao_certifica_integralidade",
+        "ausencia_propria_demonstrada": false,
+        "vinculos_das_remissoes": [
+          {
+            "remissao": "que a este acompanha",
+            "contexto": "o corrente anno,\n\ndecreta:\n\nartigo unico. fica approvado o regulamento da secretaria de estado das relacoes exteriores, que a este acompanha, assignado pelo respectivo ministro de estado, que o fara executar.\n\nrio de janeiro, 11 de fevereiro de 1920, 99º da independencia e 32º da republica.\n\nepitacio pessoa.\n\nj. m de a",
+            "vinculo_externo_explicito": false,
+            "vinculo_atual_explicito": true
+          }
+        ],
+        "contexto": "rario.\n\ncapitulo xviii\n\ndisposicoes transitorias\n\nart. 1º. – ficam extinctos os cargos de secretario geral e de conservador do material.\n\n§ 1º. – os actuaes funccionarios, que os exercem, ficarao addidos, desempenhando os servicos que lhes forem attribuidos, e percebendo ambos, pela verba «extraordinarias no interior», emquanto nao for pelo congresso concedido o necessario credito, o ordenado e a gratificacao que ora lhes competem, se tiverem mais de dez annos de servico no ministerio, e somente o ordenado se tiverem menos.\n\n§ 2º. – a nova tabella de vencimentos comecara a vigorar no dia primeiro de marco do corrente anno.\n\nrio de janeiro, 11 de fevereiro de 1920.– j. m. de azevedo marques.\n\n<<anexo>>clr vol. 01 ano 1920 pag. 540 tabela. (vencimentos e representacao dos funccionarios da secretaria de estado das relacoes exteriores, a que se refere o presente regulamento).\n"
+      },
+      "selecionado_lotes013_015": false,
+      "HEAD": "75ce325231d29bcfdaf407ec1da0ab642fb1e6d7",
+      "sha256_MD_HEAD": null,
+      "estado_HEAD": "ausente",
+      "edicao_facs_atual": false,
+      "limites": "Delta do predicado sobre fonte preservada; não comprova ausência no ato nem autoriza máscara automática. Eventual edição recuperada atual deve ser confrontada independentemente."
+    }
+  ],
+  "proveniencia": [
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261027_013/pacote_final001/lote_final.json",
+      "sha256": "2185313b69574a2ca07b63080a0ea76b7692ea7faf86c4dbc30b71227ad3961c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_014/pacote_final002/lote_final.json",
+      "sha256": "061546104baf05e14a2aace1f55c3fcc3bd8211f3c37d5fa0707ed6246372996"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261028_015/pacote_final001/lote_final.json",
+      "sha256": "c5009825b3e6fa36ba3e94a66f695370d63388349630a90e3d089dad222b1691"
+    }
+  ],
+  "limites": "Comparação privada entre guard80 e proposta87 em 2468 fontes do replay anterior, 480 selecionadas013, 439 selecionadas014 e509 candidatas015. Retidos não foram promovidos. Nenhuma máscara, canônico ou módulo vivo alterado."
+}

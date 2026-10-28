@@ -1,0 +1,54 @@
+---
+titulo: "LEI ORDINÁRIA nº 29, de 22 de dezembro de 1997"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "29"
+data: "1997-12-22"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/443"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/101/text"
+sha256_fonte: "0bd0725949493a07044c72703cb2f4eb4afd2b3885abbebbc042d844849684cb"
+sha256_texto: "9a1806fc6415a5d64be1e2fc763d0ad386cf4a07d2bb2611699869b8cd8074cd"
+capturado_em_fonte: "2026-10-27T20:43:29.691709-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 29, de 22 de dezembro de 1997
+
+Estabelece os Perímetros Urbanos da sede do Município e da Vila Palmital, e dá outras providências.
+
+
+**O PREFEITO MUNICIPAL DE CABECEIRA GRANDE(MG)**, no uso das atribuições que lhe são conferidas pela Lei Orgânica do Município, faz saber que a Câmara Municipal decreta e ele, em seu nome, sanciona e promulga a seguinte lei:
+
+
+Art. 1º.
+
+O perímetro urbano da sede do município, para fins do que dispõe o parágrafo 1º do Art. 4º do Código Tributário do Município, tem a seguinte descrição:
+
+***“Partindo de um marco cravado no canto da cerca que limita gleba de propriedade de Jovelino com a estrada e o patrimônio, daí, acompanhando uma cerca de arame, com azimute de 76º58’18”. E distancia de 552.407 metros, cruzando a estrada que demanda a Unaí, até o limite com a cerca da Fazenda Bolívia de propriedade de Raimundo Mariano; daí, fletindo a esquerda pela cerca afora, com azimute de 349º19’22”, e distancia de 835,027 metros, a um canto da referida cerca; daí, fletindo a direita, ainda pela cerca, com azimute de 79º54’26”, e distancia de 362,433 metros a um marco em outro canto da cerca, ainda na mesma confrontação com a Fazenda Bolívia; daí, fletindo a esquerda, por uma cerca de arame e uma reta que faz o prolongamento da mesma, com azimute de 348º59’12”, e distancia de 1001,464 metros, confrontando-se com as Fazendas Bolívia e Trombas, a um marco no cerrado; daí, fletindo a esquerda, por uma reta, com azimute de 263º,48’27”, e distancia de 1086,982 metros, a um marco cravado junto a margem esquerda do Córrego Cabeceira Grande, confrontando-se até aqui, com gleba da Fazenda Trombas, pertencente a José Carlos Ferigolo e outros; daí, pelo Córrego acima, direção geral SE, a um marco cravado em sua cabeceira; deste, por uma reta com azimute de 173º46’04”, confrontado com a Fazenda Trombas, gleba pertencente a sucessores da família Castelar, ao marco cravado no canto da cerca da gleba pertencente a Jovelino, que foi o ponto de partida.”***
+
+
+Art. 2º.
+
+O perímetro urbano da Vila Palmital, sede do distrito de mesmo nome, para fins do que dispõe o parágrafo 1º do Art. 4º do Código Tributário do Município, tem a seguinte descrição:
+
+***“Partindo do cruzamento do eixo da Av. Central com o limite leste da área, na confrontação com a Fazenda Palmital; daí, com azimute de 8º22’07” e distância de 1.349,558 metros, a um marco cravado no canto da gleba; daí, fletindo a esquerda, com azimute de 266º08’25”, e distancia de 612,396 metros, a um marco cravado na extremidade noroeste da gleba; daí, fletindo novamente a esquerda, em cinco (5) segmentos de retas, com azimutes de 205º36’20”, 181º14’25”, 196º29’13”, 208º05’58”, e 180º42’44”, e distancias de 1.125,091m., 132,507m., 52,223m., 130,660m., e 1032,870m., respectivamente, a um marco cravado no canto sudoeste da gleba; daí, fletindo a esquerda, com azimute de 60º14’05”, e distancia de 1060,311 metros, a um marco cravado na extremidade sudoeste da gleba; daí, fletindo mais uma vez a esquerda, com azimute de 7º51’41” , e distancia de 529,822 metros, até o prolongamento do eixo da Av. Central, ponto de partida, confronta-se em todo seu perímetro com glebas da Fazenda Palmital.”***
+
+
+Art. 3º.
+
+Esta lei entra em vigor na data de sua publicação. revogadas as disposições em contrário.
+
+
+Cabeceira Grande(MG), 22 de Dezembro de 1997.
+
+**ANTÔNIO NAZARÉ SANTANA MELO Prefeito Municipal**
+
+**"Este texto não substitui o original."**
+

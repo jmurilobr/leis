@@ -1,0 +1,29 @@
+{
+  "commit": "b577c1a071e02b65166fdbb9b9f5e01a568fe087",
+  "baseline": "municipais/_indice/_recuperacao_20261027/baseline-head-coerente-piloto0001/manifesto.json",
+  "sha256_baseline": "fada22bac742d9e48b8ba50aa5f8fbc9b6ebba6bd95467bde814eb08c13b7817",
+  "comparados": 27152,
+  "candidatos": 9,
+  "colisoes": [],
+  "fontes": [
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/baseline-head-coerente-piloto0001/manifesto.json",
+      "sha256": "fada22bac742d9e48b8ba50aa5f8fbc9b6ebba6bd95467bde814eb08c13b7817"
+    }
+  ],
+  "lista": "municipais/_indice/_recuperacao_20261027/lotes/coerente-piloto-jurisdicao-0001/aprovados.paths.txt",
+  "sha256_lista": "577c825c6b45e3228ed4b9ff636b38f476056056fd1420229a9c6a3894b66251",
+  "sha256_candidatos": {
+    "municipais/RO/porto-velho/leis-complementares/2026/leis-complementares-1090-2026-sapl-29908.md": "a3bb85ce8ca0b7d25f2ba2d10f39329fa1746ff8498cf7b9b7e0a71503cac57b",
+    "municipais/RO/porto-velho/leis-complementares/2026/leis-complementares-1089-2026-sapl-29907.md": "502700c8cb9ae2a340fce58d039373a0f99fa2f48c7dd5a018aafcd1ab55152d",
+    "municipais/RO/porto-velho/leis-complementares/2026/leis-complementares-1087-2026-sapl-29905.md": "7cc5b672b146212d79857da1bf9011f6dc7f1df5d0ab45ab3fc9c3a7ea2ec758",
+    "municipais/RO/porto-velho/leis-complementares/2026/leis-complementares-1086-2026-sapl-29904.md": "c7bc7260596ee3e51f2baf9a5487d071dd99ebfab75e874b5c13be4945a2444f",
+    "municipais/RO/porto-velho/decretos/2026/decretos-22572-2026-sapl-29899.md": "0f70efa1cd0d6dbab43fbad68fbd42c96e9fe4d044124bb1cdf6b32a190f8f03",
+    "municipais/RO/porto-velho/decretos/2026/decretos-22562-2026-sapl-29892.md": "6909bca3c9a75ed0618beaa5b69b611d8a982e85d0bc72c4f72abf0a615fb14b",
+    "municipais/RO/porto-velho/decretos/2026/decretos-22561-2026-sapl-29897.md": "be479d5d70ed389a85458ade282ce35ed1de475e9bece006e1788bae4bb94788",
+    "municipais/RO/porto-velho/decretos/2026/decretos-22560-2026-sapl-29896.md": "364b329b1ff47077d553ad0092a2dd62d59aeee20199b5252c8a29e577ffe1a5",
+    "municipais/RO/porto-velho/decretos/2026/decretos-22559-2026-sapl-29895.md": "46c17f98f23414f4e7385850d959b5cb0549e680f3f637377645a7ecf78edb73"
+  },
+  "criterio": "URLs oficiais e identidade IBGE/rota/tipo/número/ano. O índice usa somente metadados do blob integral por OID do commit registrado e reservas qualificadas com SHA conferido; não lê versões do working tree para substituir HEAD.",
+  "codigo_sha256": "6cf4eb7ef24c88aff11487039d766cd27be1f6f21d4a30fa7a93f4128f7b7ab2"
+}

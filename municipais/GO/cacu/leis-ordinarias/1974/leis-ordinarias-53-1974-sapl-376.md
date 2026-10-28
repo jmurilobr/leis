@@ -1,0 +1,55 @@
+---
+titulo: "Lei Ordinária nº 53, de 08 de julho de 1974"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "53"
+data: "1974-07-08"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/376"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/890/text"
+sha256_fonte: "c4b3ea36b740b35f248e13830cfaa4b952b2b0fe38df837f481e21da722c80c6"
+sha256_texto: "87148b6f92da03589edf7e939b106869a6c14832da1a340b2d4a40f0fcc2ab92"
+capturado_em_fonte: "2026-10-27T22:04:57.314569-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 53, de 08 de julho de 1974
+
+Autoriza a venda de automóvel e dá outras providências.
+
+
+O Prefeito Municipal de Caçu: Faço saber que a Câmara Municipal de Caçu, Estado de Goiás, aprovou e eu sanciono a seguinte lei:
+
+
+Art. 1º.
+
+É o Poder Executivo Municipal autorizado a alienar, mediante licitação, de acordo com a legislação vigente, ao preço mínimo de Cr$ 10.000,00 (dez mil cruzeiros), um automóvel Volkswagen, motor 1300, do ano de 1973, pertencente ao patrimônio Municipal.
+
+
+Art. 2º.
+
+Respeitando o preço mínimo de que trata o artigo anterior, poderá a venda ser feita mediante permuta por veículo novo, de idênticas características.
+
+
+Parágrafo único
+
+No caso de permuta, deverá a Prefeitura colher propostas de, no mínimo, três revendedores autorizados, optando, dentre elas, pela que, financeiramente, melhor convier ao Município.
+
+
+Art. 3º.
+
+Esta lei entra em vigor nesta data, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Caçu, Estado de Goiás, em 08 de julho de 1974.
+
+
+**Noé Nunes Guimarães**  
+\- Prefeito Municipal -
+

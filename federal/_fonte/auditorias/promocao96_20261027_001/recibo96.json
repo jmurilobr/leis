@@ -1,0 +1,668 @@
+{
+  "escopo": "Runner privado sucessor, separado dos três pacotes fechados: 41 + 16 + 39 novas inclusões. Dry-run sem escrita é o padrão; --apply exclusivo ROOT. Nenhuma norma ou máscara foi alterada pelo agente.",
+  "runner": "federal/_fonte/auditorias/promocao96_20261027_001/promover96.py",
+  "sha256_runner": "76d2eb59e7706d32c99d8ae3a322895372f996994a342c294e57c0a875722627",
+  "sha256_guard74": "3cd60ac4a398a27cc0f646f891e853f6b120b1a963deb4cc9f0ccfd7d6ca0cd0",
+  "pacotes": [
+    {
+      "manifesto": "federal/_fonte/auditorias/alimentacao_20261027_005/lote_camara100.json",
+      "campo_fontes": "fontes_e_provas",
+      "fontes": 100,
+      "aprovados": 41,
+      "revisao_individual": false
+    },
+    {
+      "manifesto": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/lote_revisao21.json",
+      "campo_fontes": "fontes_provas",
+      "fontes": 21,
+      "aprovados": 16,
+      "revisao_individual": true
+    },
+    {
+      "manifesto": "federal/_fonte/auditorias/alimentacao_20261027_006/lote_camara100.json",
+      "campo_fontes": "fontes_e_provas",
+      "fontes": 100,
+      "aprovados": 39,
+      "revisao_individual": false
+    }
+  ],
+  "listas": [
+    {
+      "paths": "federal/_fonte/auditorias/alimentacao_20261027_005/entrega-camara100-paths.txt",
+      "hashes": "federal/_fonte/auditorias/alimentacao_20261027_005/entrega-camara100-hashes.json"
+    },
+    {
+      "paths": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/entrega-paths.txt",
+      "hashes": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/entrega-hashes.json"
+    },
+    {
+      "paths": "federal/_fonte/auditorias/alimentacao_20261027_006/entrega-camara100-paths.txt",
+      "hashes": "federal/_fonte/auditorias/alimentacao_20261027_006/entrega-camara100-hashes.json"
+    }
+  ],
+  "insumos": [
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6227-1940-09-05.md",
+      "sha256": "9a63fc967307d7dcd339e591e1bc21461a17b86c604b79d120c3014fdce500a0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6254-1940-09-10.md",
+      "sha256": "045c7f40a5d639a4f14291b0a757a18b76d8caf3759009096441d3b0f3c7bcd6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6260-1940-09-11.md",
+      "sha256": "82fda965c4379cc5da807ee8c3d117d52ee0b222358f89aa1dc9c4a335fe8f81"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6262-1940-09-11.md",
+      "sha256": "056fbf74e7aaedd5ddade7d0b3ec11cb826414f0c4d0a8f5c60ebfe064b2f3b8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6264-1940-09-11.md",
+      "sha256": "d5e7d8c76d32e7d50fa11ae33072ff392d4236a110f28f9bd2fe5f41fe318db1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6265-1940-09-11.md",
+      "sha256": "9541293e1db9fae934e0f9a37eae81393b912bcfec078368ae15eae7754d1e31"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6266-1940-09-11.md",
+      "sha256": "a51b936048fc2e5c8f708eae85537f1f851c315332ea9a206420bd8571e156b2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6267-1940-09-11.md",
+      "sha256": "107bd0d0e9e46d4bbac47e20d1d72e1576f33405bc90be78097ae805684a8cc9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6268-1940-09-11.md",
+      "sha256": "1c85dc09e063edd0ee6a6e60faef7faa114051b8f7385ddafc49b4414ed2223d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6269-1940-09-11.md",
+      "sha256": "3f775a7558c7ca129c78ee0f61a2c482c2fbb13e76e4bab95552b2abdf1cecee"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6270-1940-09-11.md",
+      "sha256": "477dcd0acaa05d4e4e8a9de7fd5f497c4921c1d12552d8abbf3558d6bed3a868"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6271-1940-09-11.md",
+      "sha256": "3b8ccb7cfe7a46a99ccec19eb4f7e274b71c567008a002a1202b8924f15b087b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6280-1940-09-12.md",
+      "sha256": "54cf207beb84b74e728d8fe3233c106e5b54160b1a4eac0eac9c8ddd07825879"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6282-1940-09-13.md",
+      "sha256": "b7fbace121f8a2a6168067fb82b505183b60ce3fa3a2022db108c4d60291b6ff"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6283-1940-09-13.md",
+      "sha256": "531f0d811d0077d85c2b50063dec9cf53451e2672e7ef80f65f7a32c88474416"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6288-1940-09-14.md",
+      "sha256": "7c95331c57f501909b5d6efe5270a8444f0ac5f40363fcef9a6cfec1c1795c8a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6290-1940-09-17.md",
+      "sha256": "9f354ff7ef9e888126bcccb674ed5ee2faeab239f96253b06c6691e8961fe708"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6291-1940-09-17.md",
+      "sha256": "bb14c42d5cf31e244d88b7458ae7600f2d3ce947525e04816a19c51bd79f6d58"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6294-1940-09-18.md",
+      "sha256": "f50be2bdc99fa3c1c077be1f3e3f87b78270a38e4b98bc63d3e99996e1b3fd7a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6297-1940-09-19.md",
+      "sha256": "3c1a2d6cdcaa3ea5c1f054bca3b68748265ba30ceb89fc4478b80cd4674e91c8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6298-1940-09-19.md",
+      "sha256": "de9aa60ee4eba954e536aa23d3e6e765c6d6a590d9a1b19fafc1e9487f3bdca1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6299-1940-09-19.md",
+      "sha256": "2a6765d36d3f073b7d5a68b38dba4899642c29c2f89bcd84fece22d40d46c792"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6300-1940-09-19.md",
+      "sha256": "d9e9654cda927bb0c6f0a60e141b2eebb2c60f5f93bd299de7ae55bcbac54236"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6301-1940-09-19.md",
+      "sha256": "778a5f1687d05db74ba65c25bc4f1495dcaf3589e375c6dd12211ae5aea4285b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6302-1940-09-19.md",
+      "sha256": "8cea9587bce452af91bf158f1ba1e268a26d3ffd0f1b8bbec2c79c9ea7d27921"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6303-1940-09-19.md",
+      "sha256": "bd58f2ec5ae552209705f7befc79d269739685091b058dababb06377d9309f54"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6304-1940-09-19.md",
+      "sha256": "8e141355c5215cb1a4dbfb889dc7193c390b678e942a02a62110c5be8d186f0c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6305-1940-09-19.md",
+      "sha256": "270349f845f9393dc7efad762ce394a663a42fe169112429bb63bd6f63bd92a6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6306-1940-09-19.md",
+      "sha256": "3d1189cb20341fe85d0587fbe5d1eca7066fc867344b653c6f39bb228c09952a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6307-1940-09-19.md",
+      "sha256": "b6d2ddefd713143771759ebfd972dcae813758dbc31c897b318734bf9793ab55"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6323-1940-09-23.md",
+      "sha256": "3a1572780003469ef77119293d1978d97cff42208cf61bf9b123a1c1be7a2ac2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6326-1940-09-23.md",
+      "sha256": "483069d3d18d429d62e6faa736dcfe8bdec1e42613af286b282ba2441fb234f9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6335-1940-09-25.md",
+      "sha256": "919c6e2f58b98ec910c738b45e7a7803518e1c4b4bcef8ad7ccca9446edf68c9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6336-1940-09-26.md",
+      "sha256": "3ce8d52e53e6cbf05d41ddb77b87e0c88b1153a9f5177f2be3df3c1b4b69d194"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6337-1940-09-26.md",
+      "sha256": "7e779daf15778b3332897a92774030de164a0ba8d0ddc87b0980f33b36b30887"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6338-1940-09-26.md",
+      "sha256": "3d330b276e87eb1f36aa33b41c9a549f155f1cebc70247c7747f30df0daabf67"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6340-1940-09-26.md",
+      "sha256": "d87173c6a82fd0842a221dbce332476731100e81cd4f482e965d93f068b914ee"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6341-1940-09-26.md",
+      "sha256": "0c6623d55254e4e67edc60fae7ba8290117b13de7bde0f092a5417e739705ff2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6342-1940-09-26.md",
+      "sha256": "8a492934b83cdeb0ffdce4a20ba36b46a1caaa16cebf501add32025644328b12"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6346-1940-09-26.md",
+      "sha256": "5eb67ff9841107d20ffd142b140164293d71758222c3dcbb02c9fd8211d1e8f4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/QA100_v2/dec-6356-1940-09-30.md",
+      "sha256": "82858ec0824f2af5b326de1793d69bbdfb8c89535e9294e2b620e8647f343acc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/checkpoint_coleta.json",
+      "sha256": "2ff31346243246ede7c7737aabcbde17c019221e9ff3f1d4acb0415b92a6b3cb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/coleta.log",
+      "sha256": "a6ad7106c18313c7109aac791fd77ef17eddda551160a61f8251b656a0cc7c59"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/coletar_camara100.py",
+      "sha256": "a758ac590f2d19b1643388ce924904368a83fb0b8b574c1396507f984bc58120"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/congelar100.py",
+      "sha256": "9e91c73d2064e44157df9bcebc73c7a9bb01882779fc02f97b78c592dac543e5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/entrega-camara100-hashes.json",
+      "sha256": "4cb742fdd864a09547d1b0e6056a7afe638deb8c8c8f63beb641bc4eee898089"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/entrega-camara100-paths.txt",
+      "sha256": "bd263196d21eb386d7cf833dc15f45bffef0001c673382285290443b41a9d8e9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/fila_camara100.json",
+      "sha256": "fda21939d13a3448a8c3212a6baef817376be66c59eb931c2f3db7ef4236ed69"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/fontes_e_provas100.jsonl.gz",
+      "sha256": "3117bc8fcbeb881dccf5e3d74a7a0f8e2b2a7bf543fbc1a16417e97bda77ef26"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/lote_camara100.json",
+      "sha256": "50f0a643ccd74a06b4343dc0a01207ead4f547c299dd58ebfffbf571b348ddd3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/preparar_QA100_v2.py",
+      "sha256": "938072a4757a1812f8cf97213e43b78bcf50cb719d4bd5d1a4845cd9323a24c8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/preparo100_v2.json",
+      "sha256": "8c5043f9cc122fe2dc6f31fe101ecda958097b0ca0b0dc4f94726cfedeb75693"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/render100_input_v2.json",
+      "sha256": "97d2f6d0dfab1c6c43943c43b9cae267726857a3e4d56ed7b9532612fb4658c5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/render100_marked_v2.json",
+      "sha256": "94faf11a1b08d9f61c64f63acd28ab7ef8cd14e34719c32bc0b8aafb4251ba04"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/replay100_v2.json",
+      "sha256": "d758d831670ae7c6e71d9dee0965a5097f11dda2aff779c9f50d7ebd722c5bda"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/replay_portavel100.py",
+      "sha256": "64412fa2c28c2e3512cf6b5650a987d78e866d654feadd5f8e21b7189451d8d6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/QA.log",
+      "sha256": "4ec6a2cbd47a3a605adfdadc4cb8bfbd4bb1fbde277c6bc42f537ffdc655712c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/QA100_v2/dec-6249-1940-09-09.md",
+      "sha256": "e5a45cf8c5481b87c3bb021527f0022c4e496149af3780bd0b960e0190ca74bf"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/QA100_v2/dec-6251-1940-09-09.md",
+      "sha256": "93ecece1e7b40a9e0b7b88459b0d16413bbb07d6c47163f24a69f8448cc56b66"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/QA100_v2/dec-6252-1940-09-10.md",
+      "sha256": "5986c0904eb29ffba60206892cafb81a2440830a35e60dbd933c95e4224de00c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/QA100_v2/dec-6253-1940-09-10.md",
+      "sha256": "a5b9c0a7b78d52497a927c970402c60c8d7d04d6e73b1d3d0c2e6cc35e2bd0fc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/QA100_v2/dec-6272-1940-09-12.md",
+      "sha256": "0c418577a36901c5a5a5d1108c32f4d17b103d61b8d28a1dd048dab354ea78a9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/QA100_v2/dec-6273-1940-09-12.md",
+      "sha256": "00d88b29a5f7f1e3bc988f8fac724bd434953f4e3587b7798d1e53c34237d2d9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/QA100_v2/dec-6274-1940-09-12.md",
+      "sha256": "16999da8b9a8c1b5a2179d3cd0ddb304672bca942ac99104e1fed8ab0d158859"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/QA100_v2/dec-6275-1940-09-12.md",
+      "sha256": "238ac2bc52e327f94cc09be0ef701293ec40b0adddfdb89caa75112da24081f5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/QA100_v2/dec-6276-1940-09-12.md",
+      "sha256": "5adae377fcf7ba5d32e2acd10099fd74246a4cbb7d821437ead67019dd8352b4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/QA100_v2/dec-6277-1940-09-12.md",
+      "sha256": "f78cd34201dbf416e72293bca84fe5a37dc183efc338ce17b1f531100e0bc3df"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/QA100_v2/dec-6278-1940-09-12.md",
+      "sha256": "5ef47f5ceb9d8da689b816df8128d6f0e3527b2548aebfc49aa75690a3cb0c82"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/QA100_v2/dec-6279-1940-09-12.md",
+      "sha256": "79385432130945a5f86eb59ca9d1189d52837b857fbaadc33b5098fe2e356a7d"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/QA100_v2/dec-6285-1940-09-14.md",
+      "sha256": "f2597d118b8b2b730ac3df1b8253dd70bd375cd5b3c13ca35cce4a1268de0e8b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/QA100_v2/dec-6292-1940-09-17.md",
+      "sha256": "f6c6898f091b307a6fde3c6c15a4cfee8252f1febbc0c0781b63d43f005a383a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/QA100_v2/dec-6293-1940-09-17.md",
+      "sha256": "b61f2652571f17ee5a9fe248b4130d0a9332e269b492b6574cfd12660228941c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/QA100_v2/dec-6410-1940-10-30.md",
+      "sha256": "21f88f0d8d0379fd1bf9532ddd584683a1c67d93628b7c96939c78701bfe2395"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/congelar_revisao21.py",
+      "sha256": "de4767201a2afb4bf0061a595cd3296f8c7014500d6c6d8ce5e073348ac2606f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/entrega-hashes.json",
+      "sha256": "675ea40ce2a04636dd82e31e8617e0e1933f8015bd457ae6c2a578f7da7d35b8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/entrega-paths.txt",
+      "sha256": "6927a7f5f5934a23b299ff7b0a7ccd0a73f3cdae76b3bc1d8e8e8f93fcebb96b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/fontes_provas_revisao21.jsonl.gz",
+      "sha256": "3866c95eb5bbc5c5e69da95071e2a2f245da1b73bfde1dfa58efd055514333be"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/lote_revisao21.json",
+      "sha256": "28288b535f8e34fe039366351a3da277a9d5823202d0304adc2ddc334f030e87"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/pareceres21.json",
+      "sha256": "a40ea1f960dbf5da1df166c6f79da2c127c8f1dde2a40407c09952f0b57721fe"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/preparar_revisao21.py",
+      "sha256": "bdd1178a17095744375c688f9b271e8d79a639a7d823fa49be8cd08b4a9d7eb2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/preparo100_v2.json",
+      "sha256": "0c133e03e03ce9159b70f5138cf14fdd69fe75a3d8715078e114fa954cfa0315"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/render100_input_v2.json",
+      "sha256": "7dc82ad2148847b281c28d6d2be5bee0e966584133144bd4a432031c21deac5f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/render100_marked_v2.json",
+      "sha256": "2fa3c430fc47dcb64987f4d6fbe00dc57dd79ad9d671a290d2bdd4175dc2bb04"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/revisao_sem_artigos001/replay100_v2.json",
+      "sha256": "76660518f787cacfc15c5f35a3c64ff9f3c02699010fc6b530d23924df720271"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_005/selecionar_camara100.py",
+      "sha256": "6ef6d4a74b7a66a3cb18c6a31cdaf64a4ba9165f7035d1982c40f26093f43cd4"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6133-1940-08-22.md",
+      "sha256": "52c1e5b5b26402095e872e8cef69381486b0514bf103a4f3105018231c0a8659"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6134-1940-08-22.md",
+      "sha256": "c7ebb449318b2896c868201acce9f8be6f8257a9ee0077e1cee8a440ba291c9b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6135-1940-08-22.md",
+      "sha256": "ff151c781a692184e3109eb6bc2fdafc465d8e5ad641c4a0f28b836c941870bb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6143-1940-08-23.md",
+      "sha256": "4c9d1f983eed2b1c21c1389997eedf21d2527257d29747e7ba62ca8327165ad3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6144-1940-08-23.md",
+      "sha256": "88000c654d1448680f3fb51ec6fae940bf208dc864675298cffea9e6d77c7bc5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6145-1940-08-23.md",
+      "sha256": "458c26636457cbd65204f49485185f302a4590418fb78da4f9f658066c41420e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6171-1940-08-27.md",
+      "sha256": "a3fb702caaf8807cdc75da47876573c618c965f8c5d901d870da859d7bc17cba"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6174-1940-08-27.md",
+      "sha256": "2a3f21424d7af17dc8746f4b18407d1fb0a86214a7b01be5ba165399ac600531"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6177-1940-08-27.md",
+      "sha256": "0ca779399afe53d58898b923f44d8daea52b6230e47162137b30d2a2ce033c62"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6184-1940-08-28.md",
+      "sha256": "3354bc8f9eb6e2f8cd41f392443f7ec6d1a758c7c770fb09dbc9e112219b2779"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6185-1940-08-28.md",
+      "sha256": "06c7f5b389f16bc8cc4f44e6f371b54ae450dfc4551c11f0ce91ff87c0432cc2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6186-1940-08-28.md",
+      "sha256": "fd07f89d09e4ca5d0d1591864dd148aca49db400d09ccdf4b3b0b47fecf3f099"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6187-1940-08-28.md",
+      "sha256": "aec8c4f751797e94ea13dc32dca01fca06ca0b5b04993302e1c4f67515095cdb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6189-1940-08-29.md",
+      "sha256": "fd997edf90038fc5e1d0b108e723536d54255ee34191a33203ab48ade16448c9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6192-1940-08-30.md",
+      "sha256": "6021d10d32cc703a245630b7bb8f5163089d46f4c41497ff2c0156f5bd446e1a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6193-1940-08-30.md",
+      "sha256": "c3d60b563481113dd5d3b80348947534db011b7e62bb02f46ced2efb722d96db"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6195-1940-08-30.md",
+      "sha256": "c029924ed7b10451e5a116686c901117ea660a25650c9cd9cab53244d75d5b45"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6196-1940-08-30.md",
+      "sha256": "6f043b1e5f930b5cfe77d5b6e8baad368a20b20ce652e7946160ca73d290c646"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6197-1940-08-30.md",
+      "sha256": "743a8d1eda5d3f7e57f5296c479b5931773770339758829569bae8d892bd5585"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6198-1940-08-30.md",
+      "sha256": "8e5d6865cbb86680454bd140cf4a810d43e9db79dd9c1a410ed49f973baa2792"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6199-1940-08-30.md",
+      "sha256": "a5b6cf0da1a467329f994c964184950fc7cf22abc55460fd5192f54907efcf47"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6200-1940-08-30.md",
+      "sha256": "058b8287a9568b67009707c37cc3b284e47c630543bcf4a2bb46e3359f2135bc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6215-1940-09-04.md",
+      "sha256": "69363d1c231982692f5272ce435bca5e8e5dce4550f645af03f98abde980c1e2"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6216-1940-09-04.md",
+      "sha256": "f559b461826de26fff158f60d62d4ef70948427a3ab8d0bdb4e08fff62b736e3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6217-1940-09-04.md",
+      "sha256": "70d6f70d90e3d6acf4068515724e7f0ba963abe238df1a58f4f7bada93dc74cb"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6219-1940-09-04.md",
+      "sha256": "8fad4cacce12670b0221b26b44cc56bc447be741ff17fc49f84a9d5be1969f28"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6221-1940-09-04.md",
+      "sha256": "024589ea14eb622f2d8bcc6880b9823a86b71f29e0e12b041e67d03340d4582a"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6222-1940-09-04.md",
+      "sha256": "312c55a1dd0bff5cab7daa53da8592861a5b37d76293a6d3336b52328b6dce6c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6224-1940-09-04.md",
+      "sha256": "8265490cfef25af8e206ec38b1a559a39abaa0d5a20087aeb4be675a6ec3a9f0"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6226-1940-09-04.md",
+      "sha256": "762a653563830f43c5c5485334fcbbce21bf7cc0ccc97a03e824c72c2160efe9"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6230-1940-09-05.md",
+      "sha256": "b384e41d5650ef6284db343b6c6546b9de228dcedb1c936024438c30320427df"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6231-1940-09-05.md",
+      "sha256": "025cb8075367528b4fb0f2cff1f4181e4e8a2076545280c574883b1ce4aa5aaf"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6233-1940-09-05.md",
+      "sha256": "6fc5340c1a7377c679028ce95543db933361a4e02d831ffd7b99f19b95319a0f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6235-1940-09-05.md",
+      "sha256": "f8bc692e7ac5946d94cc6616f816f98cb7194468397c046ff552c5b1f5701f00"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6236-1940-09-05.md",
+      "sha256": "ee4d4f788820eda344f130953ca39591ad8ee56c661f00fce097f3f182645707"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6237-1940-09-05.md",
+      "sha256": "377995a5a84d0933d9c3553102ea2bf5361872076402aaba1db03c28d102c3e8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6238-1940-09-05.md",
+      "sha256": "d1ccfa5a0c2ca5f9ced9de535ebd940c114934ed3560b310bfafa4e29bdfb4fe"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6239-1940-09-05.md",
+      "sha256": "bdd4f387fd576b16741863a8013360ac134dfba99c5658da3fde54a24547ba1b"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/QA100_v2/dec-6261-1940-09-11.md",
+      "sha256": "50f2be69664d42f686e9fe5d284e8590126052ba79795803f5b653d3ee6d4b90"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/checkpoint_coleta.json",
+      "sha256": "771be7e3b35ff10a3006acaffaf58eb1b6ae91b69d11b5ce0589299337fc2b1c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/coleta.log",
+      "sha256": "05f8e60acf06f6d29aa1d30db7caa9b03d39e49fe665a495b9c50745ba50cd4c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/coletar_camara100.py",
+      "sha256": "a758ac590f2d19b1643388ce924904368a83fb0b8b574c1396507f984bc58120"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/congelar100.py",
+      "sha256": "9e91c73d2064e44157df9bcebc73c7a9bb01882779fc02f97b78c592dac543e5"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/entrega-camara100-hashes.json",
+      "sha256": "0ff146b0866feff2a246d17f9f10af623eba3caf780d22525647bcb97a08b821"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/entrega-camara100-paths.txt",
+      "sha256": "f223031df61934737edb6769c350e402c8ae46ad446133007501b87b00b243ba"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/fila_camara100.json",
+      "sha256": "63cb7608b13b7d0e7ecc0915d1a5172dadd812f2943e60ede1376df1e024b90e"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/fontes_e_provas100.jsonl.gz",
+      "sha256": "2b5986aef765e75cff361ab351ffa58743c378e64334bb4a0100c4566dcc3d09"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/lote_camara100.json",
+      "sha256": "325f6c0afa34650583de0feb8ae28823edfd400d37ef6103a90c76ab497d31cc"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/preparar_QA100_v2.py",
+      "sha256": "938072a4757a1812f8cf97213e43b78bcf50cb719d4bd5d1a4845cd9323a24c8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/preparo100_v2.json",
+      "sha256": "141c1dbc3c569340c688eaccfdb422b6eff2944be40f030d8dd15313f9b52a62"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/render100_input_v2.json",
+      "sha256": "eed1494d0f5cb9cfe01f47c38cb38c976021273ce000b1952f0317c24b0d69d1"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/render100_marked_v2.json",
+      "sha256": "61d068a121d578c0cfcd34dfcc8efb730c9268dbf75d0a9867554ec3a2aad2d3"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/replay100_v2.json",
+      "sha256": "0e907ae6ac25237e83b3c5470d31623f9c7aa62b3aadb13c4d6eca9cdcee3c1f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/replay_portavel100.py",
+      "sha256": "64412fa2c28c2e3512cf6b5650a987d78e866d654feadd5f8e21b7189451d8d6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_20261027_006/selecionar_camara100.py",
+      "sha256": "1365be16042255edc91ba7500d3576eb1fbdcbd42cc0b0fcf6104f3ab87d0631"
+    },
+    {
+      "path": "federal/_fonte/auditorias/promocao96_20261027_001/preparar_recibo96.py",
+      "sha256": "d5db425bf5d6ffb27549636d7364874d374a1c8c00085a4b1bee20ca6bb9b215"
+    },
+    {
+      "path": "federal/_fonte/auditorias/retomada_federal_20261027_003/render_estrutural_v2.mjs",
+      "sha256": "0cdb1f8796ac6b6c3a36b215cd140d30ac9482bd2133e628c1a48e0d46e9b8fd"
+    },
+    {
+      "path": "scripts/auditar.py",
+      "sha256": "a49009efb2d02a3059bf5cbaddc39529c24e2630e377f46cf419c765033ca648"
+    },
+    {
+      "path": "scripts/auditar_pontuacao_federal.py",
+      "sha256": "bec7972a3d8138c61f4eb527738fd32e3bf39da0eed7913ac178771c53a778e9"
+    },
+    {
+      "path": "scripts/baixar_camara.py",
+      "sha256": "c324bac52b60734f09f54124cd0fda13899e3aa40c4d9e76f390991223394a38"
+    },
+    {
+      "path": "scripts/baixar_federal.py",
+      "sha256": "4889285109716ea3f7e753e8af2991b874d1f3b7265488756a98e0610c703495"
+    },
+    {
+      "path": "scripts/comum.py",
+      "sha256": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24"
+    },
+    {
+      "path": "scripts/estados/pe_fidelidade_visivel.py",
+      "sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838"
+    },
+    {
+      "path": "scripts/html2md.py",
+      "sha256": "6ad648a6a94c8d51d880a2d79c39f1abe751032d3355e468363e43ca83fdcdc6"
+    },
+    {
+      "path": "scripts/identidade_decreto.py",
+      "sha256": "c7fd847bad0ae3a3432f43f0f4a5568f8236f61833aff514945d5eeafa6e9f94"
+    },
+    {
+      "path": "scripts/identidade_decreto_revisao.py",
+      "sha256": "c1808f41532d41f6ea668177408743e7297f571b55f1709ec984977661771283"
+    },
+    {
+      "path": "scripts/integridade_anexos_decreto.py",
+      "sha256": "3cd60ac4a398a27cc0f646f891e853f6b120b1a963deb4cc9f0ccfd7d6ca0cd0"
+    },
+    {
+      "path": "scripts/integridade_html_federal.py",
+      "sha256": "70945b86695a163f233875e23e01bf5f9c02a01dae6c4949dbda37b3b496214d"
+    },
+    {
+      "path": "scripts/preparar_lote_decretos_cache.py",
+      "sha256": "b962db077e49db9ba3a7eccf25942c2516f6b939982089ccb2ad6f845ba5a7e8"
+    }
+  ],
+  "validacoes": "Todos os arquivos das listas; fontes gzip e CRC completo dos 221 registros (100+21+100, sobreposição de provas deliberada); bytes HTML brutos e SHA; catálogo com link Original observado; extração integral da área normativa; identidade/API/índice/epígrafe/fecho; candidato e parecer individual por SHA dos 16 sem artigos; guard 74; replay integral em marked 17 e CommonMark markdown-it-py 4; nenhum caminho, URN ou número/ano duplicado entre os 96 e nenhum destino em disco ou HEAD atual.",
+  "apply": "Antes da primeira inclusão, arquiva os 96 candidatos completos e as fontes/manifests, intenção e SHA com fsync. Cria cada destino por hardlink atômico de temporário completamente gravado, falhando se outro destino aparecer; nunca sobrescreve. Log de criação por arquivo com fsync. Não faz Git de escrita nem altera registro. Falha parcial conserva backups e log para ROOT reconciliar.",
+  "comandos": {
+    "dry_run": "/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 federal/_fonte/auditorias/promocao96_20261027_001/promover96.py",
+    "apply_exclusivo_ROOT": "/Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 federal/_fonte/auditorias/promocao96_20261027_001/promover96.py --apply"
+  },
+  "limites": "Não certifica vigência ou identidade visual CSS. Revisão contextual dos 16 atos sem artigos não é relaxamento global nem exceção numérica. ROOT decide promoção e executa --apply."
+}

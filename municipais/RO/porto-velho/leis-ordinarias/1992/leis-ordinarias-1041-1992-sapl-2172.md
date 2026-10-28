@@ -1,0 +1,115 @@
+---
+titulo: "Lei nº 1.041, de 09 de junho de 1992"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1041"
+data: "1992-06-09"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/2172"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/4020/text"
+sha256_fonte: "2a32e53d8543f09f3e12d0407c2765db950447d1efb5b5d87c76c6c9e16c9ab4"
+sha256_texto: "7ecbf2560a906a7c70e1be1a47ea7abbf69d48d5d7420fba1a39938abb06fd20"
+capturado_em_fonte: "2026-10-27T22:09:41.798426-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.041, de 09 de junho de 1992
+
+“Estabelece a obrigatoriedade da limpeza e higienização dos reservatórios de água para fins de manutenção dos padrões de potabilidade”.
+
+
+O PREFEITO DO MUNICÍPIO DE PORTO VELHO, usando das atribuições que lhe confere o art. 87, inciso IV, da Lei Orgânica do Município de Porto Velho,
+
+FAÇO SABER que a CÂMARA MUNICIPAL DE PORTO VELHO, aprovou e eu sanciono a seguinte
+
+L E I:
+
+
+Art. 1º.
+
+Ficam obrigados os responsáveis pelos estabelecimentos que possuem reservatórios de água destina ao consumo humano a manter os padrões de potabilidade vigente.
+
+
+Art. 2º.
+
+Ao órgão estadual de controle ambiental compete fiscalizar o disposto no artigo anterior, podendo no exercício desta fiscalização intimar o responsável proceder à limpeza dos reservatórios credenciados pela autoridade competente.
+
+
+§ 1º
+
+O resultado dessas análises deverá ser remetido ao órgão fiscalizador e divulgado aos usuários do estabelecimento.
+
+
+§ 2º
+
+Fica assegurado o livre acesso dos fiscais às dependências do estabelecimento para coleta de amostras e verificação do cumprimento das exigências desta Lei.
+
+
+Art. 3º.
+
+A limpeza, higienização e coleta de amostras dos reservatórios serão executadas, exclusivamente, por pessoas físicas ou jurídicas capacitadas e ou credenciadas pelo órgão fiscalizador.
+
+
+Parágrafo único
+
+Cabe ao órgão fiscalizador capacitar pessoas físicas ou jurídicas para proceder a limpeza, higienização e coleta de amostras dos reservatórios.
+
+
+Art. 4º.
+
+Fica o órgão ambiental competente autorizado a criar e regulamentar um programa de autocontrole de reservatórios de água destinada ao consumo humano.
+
+
+Parágrafo único
+
+Ficam sujeitos a este programa todos os prédios públicos e particulares do Município de Porto Velho.
+
+
+Art. 5º.
+
+A inobservância, por parte de qualquer pessoa física ou jurídica ao disposto nesta Lei e no programa de autocontrole poe ela autorizado a ser criado, dá lugar às penalidades de multa e, nos casos mais graves, de interdição.
+
+
+§ 1º
+
+As multas variarão de 1 (um) a 50 (cinqüenta) salários de referência.
+
+
+§ 2º
+
+Poderá ser estipulada multa diária em circunstância consideradas agravantes.
+
+
+§ 3º
+
+Poderá ser aplicada a penalidade de interdição do reservatório quando constatada irregularidade que ocasione grave risco à saúde pública. A interdição perdurará até que o órgão fiscalizador declare terem sido sanadas as irregularidades que a motivaram.
+
+
+Art. 6º.
+
+Caberá ao Poder Executivo regulamentar a presente Lei, no prazo de 60 (sessenta) dias.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**FRANCISCO JOSÉ CHIQUILITO COIMBRA ERSE**
+
+**Prefeito Municipal**
+
+JOSÉ IRACY MACÁRIO DE BARROS
+
+Secretário Munic. de Saúde
+
+TANIA OTTO OLIVEIRA
+
+Procurador Geral
+

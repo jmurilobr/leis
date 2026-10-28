@@ -1,0 +1,154 @@
+---
+titulo: "Lei Ordinária Municipal nº 1.829, de 21 de dezembro de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "1829"
+data: "2020-12-21"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/445"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/220/text"
+sha256_fonte: "6aafc7ca1fa01b01876952892de1b043b1187af3be404b48213ea75adc32023e"
+sha256_texto: "69b56cea38a8f8549326993d3c05143da090b6c0d7d665a0209ec4d1b85c3daf"
+capturado_em_fonte: "2026-10-27T22:28:06.997459-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 1.829, de 21 de dezembro de 2020
+
+Estima a Receita e Fixa a Despesa do Município de Califórnia, Estado do Paraná, para o Exercício Financeiro de 2021”, e da outras providencias.
+
+
+O Prefeito do Município de Califórnia, Estado do Paraná, Senhor Paulo Wilson Mendes, faz saber que a Câmara Municipal aprovou e ele, com vistas ao ordenamento Jurídico vigente, sanciona a seguinte LEI:
+
+
+Art. 1º.
+
+Esta Lei estima a receita e fixa a despesa do Município de Califórnia, seus fundos, órgãos e entidade municipal direta e indireta, inclusive fundações instituídas e mantidas pelo poder público para o exercício financeiro de 2021, nos termos do art. 165, § 5º da Constituição Federal, Lei nº. 4.320/64, Lei Complementar 101/00 e Lei de Diretrizes Orçamentárias para o exercício de 2021, compreendendo:
+
+
+I –
+
+O orçamento fiscal referente aos Poderes do Município, inclusive os Fundos, Entidades e Órgãos da Administração Direta e Indireta;
+
+
+II –
+
+O orçamento da seguridade social, abrangendo todas as entidades e órgãos a ele vinculados.
+
+
+Art. 2º.
+
+A receita total estimada nos orçamentos fiscal, seguridade social e de investimentos, já deduzidas de suas deduções legais, é da ordem de R$ 39.228.005,75 (trinta e nove milhões, duzentos e vinte e oito mil, cinco reais e setenta e cinco centavos), conforme quadro I demonstrado em anexo.
+
+
+Parágrafo único
+
+A receita pública se constitui pelo ingresso de caráter não devolutivo auferido pelo Ente municipal, para a alocação e cobertura das despesas públicas. Todo ingresso orçamentário constitui uma receita pública, podendo ser classificadas em receitas correntes e de capital, arrecadadas na forma da legislação vigente e especificadas no anexo II – Resumo Geral da Receita.
+
+
+## Anexo I — Receita por Categoria Econômica
+
+<table><tbody><tr><td><p>1.0.0.0.00.0.0.00.00.00.00.00</p></td><td><p>Receitas Correntes</p></td><td><p>37.750.980,75</p></td></tr><tr><td><p>1.0.0.0.00.0.0.00.00.00.00.00</p></td><td><p>Receitas Correntes – Deduções FUNDEB</p></td><td><p>-2.765.070,00</p></td></tr><tr><td><p>1.1.1.0.00.0.0.00.00.00.00.00</p></td><td><p>Impostos, Taxas e Contribuições de Melhoria</p></td><td><p>3.977.947,88</p></td></tr><tr><td><p>1.1.1.1.00.0.0.00.00.00.00.00</p></td><td><p>Impostos</p></td><td><p>3.775.110,63</p></td></tr><tr><td><p>1.1.1.2.00.0.0.00.00.00.00.00</p></td><td><p>Taxas</p></td><td><p>168.245,00</p></td></tr><tr><td><p>1.1.1.3.00.0.0.00.00.00.00.00</p></td><td><p>Contribuição de Melhoria</p></td><td><p>34.592,25</p></td></tr><tr><td><p>1.2.0.0.00.0.0.00.00.00.00.00</p></td><td><p>Contribuições</p></td><td><p>637.848,75</p></td></tr><tr><td><p>1.2.4.0.00.0.0.00.00.00.00.00</p></td><td><p>Contribuição para o Custeio do Serviço de Iluminação Pública</p></td><td><p>637.848,75</p></td></tr><tr><td><p>1.3.0.0.00.0.0.00.00.00.00.00</p></td><td><p>Receita Patrimonial</p></td><td><p>412.487,62</p></td></tr><tr><td><p>1.3.1.0.00.0.0.00.00.00.00.00</p></td><td><p>Exploração do Patrimônio Imobilizado do Estado</p></td><td><p>3.638,25</p></td></tr><tr><td><p>1.3.2.0.00.0.0.00.00.00.00.00</p></td><td><p>Valores Mobiliários</p></td><td><p>408.849,37</p></td></tr><tr><td><p>1.6.0.0.00.0.0.00.00.00.00.00</p></td><td><p>Receita de Serviços</p></td><td><p>6.063,75</p></td></tr><tr><td><p>1.6.1.0.00.0.0.00.00.00.00.00</p></td><td><p>Serviços Administrativos e Comerciais Gerais</p></td><td><p>2.425,50</p></td></tr><tr><td><p>1.6.1.0.00.0.0.00.00.00.00.00</p></td><td><p>Serviços e Atividades Referentes a Navegação e ao Transporte</p></td><td><p>3.638,25</p></td></tr><tr><td><p>1.7.0.0.00.0.0.00.00.00.00.00</p></td><td><p>Transferências Correntes</p></td><td><p>32.530.251,50</p></td></tr><tr><td><p>1.7.0.0.00.0.0.00.00.00.00.00</p></td><td><p>Transferências Correntes – Deduções do FUNDEB</p></td><td><p>-2.765.070,00</p></td></tr><tr><td><p>1.7.1.0.00.0.0.00.00.00.00.00</p></td><td><p>Transferências da União e de suas Entidades</p></td><td><p>17.654.319,00</p></td></tr><tr><td><p>1.7.1.0.00.0.0.00.00.00.00.00</p></td><td><p>Transferências da União e de suas Entidades-Deduções do FUNDEB</p></td><td><p>-1.940.400,00</p></td></tr><tr><td><p>1.7.2.0.00.0.0.00.00.00.00.00</p></td><td><p>Transferências dos Estados e do Distrito Federal e de suas Entidades</p></td><td><p>8.275.932,50</p></td></tr><tr><td><p>1.7.2.0.00.0.0.00.00.00.00.00</p></td><td><p>Transferências dos Estados e do Distrito Federal e de suas Entidades- Deduções do FUNDEB</p></td><td><p>-824.670,00</p></td></tr><tr><td><p>1.7.5.0.00.0.0.00.00.00.00.00</p></td><td><p>Transferências de Outras Instituições Públicas</p></td><td><p>6.600.000,00</p></td></tr><tr><td><p>1.9.0.0.00.0.0.00.00.00.00.00</p></td><td><p>Outras Receitas Correntes</p></td><td><p>186.381,25</p></td></tr><tr><td><p>1.9.2.0.00.0.0.00.00.00.00.00</p></td><td><p>Indenizações, Restituições e Ressarcimentos</p></td><td><p>139.892,50</p></td></tr><tr><td><p>1.9.9.0.00.0.0.00.00.00.00.00</p></td><td><p>Demais Receitas Correntes</p></td><td><p>46.488,75</p></td></tr><tr><td><p>2.0.0.0.00.0.0.00.00.00.00.00</p></td><td><p>Receitas de Capital</p></td><td><p>4.242.095,00</p></td></tr><tr><td><p>2.2.0.0.00.0.0.00.00.00.00.00</p></td><td><p>Alienação de Bens</p></td><td><p>16.775,00</p></td></tr><tr><td><p>2.2.2.0.00.0.0.00.00.00.00.00</p></td><td><p>Alienação de Bens Imóveis</p></td><td><p>16.775,00</p></td></tr><tr><td><p>2.4.0.0.00.0.0.00.00.00.00.00</p></td><td><p>Transferências de Capital</p></td><td><p>4.225.320,00</p></td></tr><tr><td><p>2.4.1.0.00.0.0.00.00.00.00.00</p></td><td><p>Transferências da União e de suas Entidades</p></td><td><p>3.830.420,00</p></td></tr><tr><td><p>2.4.2.0.00.0.0.00.00.00.00.00</p></td><td><p>Transferências dos Estados e Distrito Federal e de suas Entidades</p></td><td><p>394.900,00</p></td></tr><tr><td colspan="2"><p>TOTAL</p></td><td><p>39.228.005,75</p></td></tr></tbody></table>
+
+
+## Anexo II
+
+<table><tbody><tr><td colspan="2"><p>RESUMO GERAL</p></td></tr><tr><td><p>Receitas Correntes</p></td><td><p>37.750.980,75</p></td></tr><tr><td><p>Receitas Correntes – Deduções FUNDEB</p></td><td><p>-2.765.070,00</p></td></tr><tr><td><p>Impostos, Taxas e Contribuições de Melhoria</p></td><td><p>3.977.947,88</p></td></tr><tr><td><p>Contribuições</p></td><td><p>637.848,75</p></td></tr><tr><td><p>Receita Patrimonial</p></td><td><p>412.487,62</p></td></tr><tr><td><p>Receita de Serviços</p></td><td><p>6.063,75</p></td></tr><tr><td><p>Transferências Correntes</p></td><td><p>32.530.251,50</p></td></tr><tr><td><p>Transferências Correntes – Deduções do Fundeb</p></td><td><p>-2.765.070,00</p></td></tr><tr><td><p>Outras Receitas Correntes</p></td><td><p>186.381,25</p></td></tr><tr><td><p>Receitas de Capital</p></td><td><p>4.242.095,00</p></td></tr><tr><td><p>Alienação de Bens</p></td><td><p>16.775,00</p></td></tr><tr><td><p>Transferências de Capital</p></td><td><p>4.225.320,00</p></td></tr><tr><td><p>TOTAL</p></td><td><p>39.228.005,75</p></td></tr></tbody></table>
+
+
+Art. 3º.
+
+A despesa será realizada de R$ 39.228.005,75 (trinta e nove milhões, duzentos e vinte oito mil, cinco reais e setenta e cinco centavos) segundo a discriminação dos quadros demonstrativos de órgãos e unidades orçamentárias, e natureza da despesa, cujos desdobramentos apresentam-se com os seguintes valores:
+
+
+## Anexo III — Anexo por órgãos/unidades
+
+<table><tbody><tr><td><p><strong>ÓRGÃO/UNIDADE</strong></p></td><td><p><strong>DESPESA CORRENTE</strong></p></td><td><p><strong>DESPESA CAPITAL</strong></p></td><td><p><strong>TOTAL</strong></p></td></tr><tr><td><p>LEGISLATIVO MUNICIPAL</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>Câmara Municipal</p></td><td><p>1.100.000,00</p></td><td><p>310.000,00</p></td><td><p>1.410.000,00</p></td></tr><tr><td><p>GABINETE DO PREFEITO</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>Chefia de Gabinete</p></td><td><p>434.280,01</p></td><td><p>5.775,00</p></td><td><p>440.055,01</p></td></tr><tr><td><p>Assessoria Jurídica</p></td><td><p>182.655,00</p></td><td><p>5.775,00</p></td><td><p>188.430,00</p></td></tr><tr><td><p>Assessoria de Planejamento e Controle</p></td><td><p>332.420,00</p></td><td><p>11.550,00</p></td><td><p>343.970,00</p></td></tr><tr><td><p>SECRETARIA DE ADMINISTRAÇÃO, FINANÇAS E PLANEJAMENTO</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>Departamento de Recursos Humanos</p></td><td><p>232.237,50</p></td><td><p>5.775,00</p></td><td><p>238.012,50</p></td></tr><tr><td><p>Depart.Arrecad.Tribut. e Fiscalização</p></td><td><p>137.445,00</p></td><td><p>5.775,00</p></td><td><p>143.220,00</p></td></tr><tr><td><p>Departamento de Contabilidade</p></td><td><p>1.307515,00</p></td><td><p>393.525,00</p></td><td><p>1.701.040,00</p></td></tr><tr><td><p>Departamento de Tesouraria</p></td><td><p>148.610,00</p></td><td><p>5.775,00</p></td><td><p>154.385,00</p></td></tr><tr><td><p>Departamento de Compras, Almox.Contr.Patr.Público</p></td><td><p>154.962,50</p></td><td><p>5.775,00</p></td><td><p>160.737,50</p></td></tr><tr><td><p>Departamento de Administração</p></td><td><p>2.827.991,38</p></td><td><p>100.430,00</p></td><td><p>2.928.421,38</p></td></tr><tr><td><p>SECRETARIA DE TRANSPORTE, OBRAS E SERV. PÚBLICO</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>Departamento de Obras e Serviços Públicos</p></td><td><p>3.478.757,34</p></td><td><p>157.905,00</p></td><td><p>3.636.662,34</p></td></tr><tr><td><p>Departamento de Transporte</p></td><td><p>3.380.128,13</p></td><td><p>397.705,00</p></td><td><p>3.777.833,13</p></td></tr><tr><td><p>Departamento de Urbanismo e Infraestrutura</p></td><td><p> </p></td><td><p>474.375,00</p></td><td><p>474.375,00</p></td></tr><tr><td><p>SECRETARIA DE SAÚDE</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>Secretaria de Saúde</p></td><td><p>5.695.826,07</p></td><td><p>1.086.195,00</p></td><td><p>6.782.021,07</p></td></tr><tr><td><p>SECRETARIA DE ASSISTÊNCIA SOCIAL E CIDADANIA</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>Secretaria de Assistência Social</p></td><td><p>460.597,50</p></td><td><p>23.210,00</p></td><td><p>483.807,50</p></td></tr><tr><td><p>Fundo Municipal de Assistência Social</p></td><td><p>392.047,70</p></td><td><p>35.557,50</p></td><td><p>427.605,20</p></td></tr><tr><td><p>SECRETARIA DE EDUCAÇÃO</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>Departamento de Educação</p></td><td><p>10.706.435,12</p></td><td><p>102.135,00</p></td><td><p>10.808.570,12</p></td></tr><tr><td><p>SECRETARIA DE HABITAÇÃO E DESENVOLVIMENTO ECONÔMICO</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>Departamento de Habitação</p></td><td><p>176.550,00</p></td><td><p>826.430,00</p></td><td><p>1.002.980,00</p></td></tr><tr><td><p>SECRETARIA DE MEIO AMBIENTE E AGRICULTURA</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>Departamento de Fomento Agropec. e Meio Ambiente</p></td><td><p>301.455,00</p></td><td><p>23.155,00</p></td><td><p>324.610,00</p></td></tr><tr><td><p>Departamento de Indústria e Comércio</p></td><td><p>17.325,00</p></td><td><p> </p></td><td><p>17.325,00</p></td></tr><tr><td><p>SECRETAIRA DE INFORMAÇÃO, TECNOLOGIA E COMUNICAÇÃO</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>Departamento de Informação, Tecnologia e Comunicação</p></td><td><p>27.720,00</p></td><td><p>46.200,00</p></td><td><p>73.920,00</p></td></tr><tr><td><p>SECRETARIA DE ESPORTE E LAZER</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>Departamento de Esporte e Lazer</p></td><td><p>229.020,00</p></td><td><p>1.104.345,00</p></td><td><p>1.333.365,00</p></td></tr><tr><td><p>SECRETARIA DE CULTURA E TURISMO</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p>Departamento de Cultura e Turismo</p></td><td><p>112.035,00</p></td><td><p>1.571.625,00</p></td><td><p>1.683.660,00</p></td></tr><tr><td><p>RESERVA DE CONTINGÊNCIA</p></td><td><p>693.000,00</p></td><td><p> </p></td><td><p>693..000,00</p></td></tr><tr><td><p>Reserva de Contingência</p></td><td><p> </p></td><td><p> </p></td><td><p> </p></td></tr><tr><td><p><strong>TOTAL</strong></p></td><td><p><strong>31.816.751,57</strong></p></td><td><p><strong>6.718.254,18</strong></p></td><td><p><strong>39.228.005,75</strong></p></td></tr></tbody></table>
+
+**Anexo por Categoria de Despesa**
+
+<table><tbody><tr><td><p>Programática</p></td><td><p>Descrição</p></td><td><p>Elemento</p></td><td><p>Categoria Econômica</p></td></tr><tr><td><p>3.0.00.00.00.00</p></td><td><p>DESPESAS CORRENTES</p></td><td><p> </p></td><td><p>31.816.751,57</p></td></tr><tr><td><p>3.1.00.00.00.00</p></td><td><p>PESSOAL E ENCARGOS SOCIAIS</p></td><td><p> </p></td><td><p>17.732.994,98</p></td></tr><tr><td><p>3.1.90.00.00.00</p></td><td><p>APLICAÇOES DIRETAS</p></td><td><p>17.732.994,98</p></td><td><p> </p></td></tr><tr><td><p>3.2.00.00.00.00</p></td><td><p>JUROS E ENCARGOS DA DÍVIDA</p></td><td><p> </p></td><td><p>154.000,00</p></td></tr><tr><td><p>3.2.90.00.00.00</p></td><td><p>APLICAÇOES DIRETAS</p></td><td><p>154.000,00</p></td><td><p> </p></td></tr><tr><td><p>3.3.00.00.00.00</p></td><td><p>OUTRAS DESPESAS CORRENTES</p></td><td><p> </p></td><td><p>13.929.756,59</p></td></tr><tr><td><p>3.3.30.00.00.00</p></td><td><p>TRANSFERENCIAS A ESTADOS E AO DISTRITO</p></td><td><p>11.550,00</p></td><td><p> </p></td></tr><tr><td><p>3.3.50.00.00.00</p></td><td><p>TRANSF.A INSTITUIÇOES PRIVADAS FINS LUCRATIVOS</p></td><td><p>78.760,00</p></td><td><p> </p></td></tr><tr><td><p>3.3.72.00.00.00</p></td><td><p>EXECUÇAO ORÇAMENTÁRIA DELEGADA A CONSÓRCIOS PÚBLICOS</p></td><td><p>385.055,00</p></td><td><p> </p></td></tr><tr><td><p>3.3.90.00.00.00</p></td><td><p>APLICAÇOES DIRETAS</p></td><td><p>13.454.391,59</p></td><td><p> </p></td></tr><tr><td><p>4.0.00.00.00.00</p></td><td><p>DESPESAS DE CAPITAL</p></td><td><p> </p></td><td><p>6.718.254,18</p></td></tr><tr><td><p>4.4.00.00.00.00</p></td><td><p>INVESTIMENTOS</p></td><td><p> </p></td><td><p>6.330.504,18</p></td></tr><tr><td><p>4.4.60.00.00.00</p></td><td><p>TRANSF.A INSTITUIÇOES PRIVADAS E AFINS LUCRATIVOS</p></td><td><p>5.775,00</p></td><td><p> </p></td></tr><tr><td><p>4.4.90.00.00.00</p></td><td><p>APLICAÇOES DIRETAS</p></td><td><p>6.324.729,18</p></td><td><p> </p></td></tr><tr><td><p>4.6.00.00.00.00</p></td><td><p>AMORTIZAÇAO DA DÍVIDA / REFINANCIAMENTO DA DÍVIDA</p></td><td><p> </p></td><td><p>387.750,00</p></td></tr><tr><td><p>4.6.90.00.00.00</p></td><td><p>APLICAÇOES DIRETAS</p></td><td><p>387.750,00</p></td><td><p> </p></td></tr><tr><td><p>9.0.00.00.00.00</p></td><td><p>RESERVA DE CONTINGENCIA</p></td><td><p> </p></td><td><p>693.000,00</p></td></tr><tr><td><p>9.9.00.00.00.00</p></td><td><p>RESERVA DE CONTINGENCIA</p></td><td><p> </p></td><td><p>693.000,00</p></td></tr><tr><td><p>9.9.90.00.00.00</p></td><td><p>RESERVA DE CONTINGENCIA</p></td><td><p>693.000,00</p></td><td><p> </p></td></tr><tr><td colspan="3"><p><strong>TOTAL GERAL</strong></p></td><td><p><strong>39.228.005,75</strong></p></td></tr></tbody></table>
+
+
+Art. 4º.
+
+Fica o Poder Executivo e Legislativo Municipal autorizado a:
+
+
+I –
+
+Abrir os recursos vinculados à conta de reserva de contingência, nas situações previstas no artigo 5º. Inciso III da LRF, e artigo 8º. da Portaria Interministerial 163, de 04 de maio de 2001;
+
+
+II –
+
+Realizar abertura de créditos suplementares, por conta do superávit financeiro apurado em balanço patrimonial do exercício anterior, na forma do artigo 43, inciso I da Lei 4320/64;
+
+
+III –
+
+Realizar abertura de crédito suplementar provenientes de excesso de arrecadação, quando o saldo positivo das diferenças, acumuladas mês a mês, entre a arrecadação prevista e a realizada for efetivamente comprovada, considerando-se ainda, a tendência do exercício, na forma do § 1º, inciso II, 3º e 4º da Lei 4.320/64;
+
+
+IV –
+
+Abrir no curso da execução do orçamento de 2021, créditos adicionais suplementares para cobrir despesas vinculadas à fonte de recursos específicos, cujos recebimentos no exercício tenham excedido a previsão de arrecadação e execução;
+
+
+V –
+
+Transpor, remanejar ou transferir, total ou parcialmente, recursos orçamentários de uma mesma categoria de programação, nos termos do inciso VI, artigo 167 da CF;
+
+
+§ 1º
+
+Os créditos adicionais de que trata o inciso I poderá ocorrer de uma categoria de programação para outra ou de um órgão para outro, dentro da estrutura orçamentária.
+
+
+§ 2º
+
+Entende-se como categoria de programação, de que se trata o inciso VI deste artigo, despesas que fazem parte da mesma classificação funcional programática e que pertençam ao mesmo órgão e unidade orçamentária.
+
+
+VI –
+
+Realizar Operação de Crédito até o limite estabelecido pela legislação em vigor, com autorização de lei municipal específica.
+
+
+VII –
+
+Abrir, no curso da execução orçamentária de 2021, créditos adicionais suplementares até o limite disposto na LDO, ou seja, 30% (trinta) por cento do total do orçamento do Município;
+
+
+Art. 5º.
+
+Fica o Poder Executivo e Legislativo autorizado a proceder por decreto neste Orçamento, a compensação, conversão ou criação de fontes de recursos ordinários, vinculados ou próprios dos Projetos/Atividades/Operações Especiais e das obras, sem lhes alterar o valor global, com a finalidade de assegurar a execução das programações definidas nesta Lei. Não serão computados neste limite os créditos adicionais abertos com base no art. 4º desta Lei.
+
+
+Art. 6º.
+
+Os órgãos e entidades mencionados no art. 1º desta Lei ficam obrigados encaminhar ao órgão responsável pela consolidação geral das contas públicas do Município, até quinze dias após o encerramento de cada mês, as movimentações orçamentárias, financeiras e patrimoniais, para fins de consolidação das contas públicas do ente municipal.
+
+
+Art. 7º.
+
+Esta Lei entrará em vigor em 1º de janeiro de 2021.
+
+
+Art. 8º.
+
+Revogam-se as disposições em contrário.
+
+
+Califórnia, 21 de dezembro de 2020.
+
+***PAULO WILSON MENDES***
+
+Prefeito Municipal
+

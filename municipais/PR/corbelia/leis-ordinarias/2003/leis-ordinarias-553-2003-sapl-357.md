@@ -1,0 +1,99 @@
+---
+titulo: "04 - Lei Ordinária nº 553, de 28 de abril de 2003"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "553"
+data: "2003-04-28"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/357"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/339/text"
+sha256_fonte: "a02326e29ad817359704d8bd9a30268e0e3288c3198dd209b5b19bd2f932cf3b"
+sha256_texto: "21cb91f533caff0aa72254e2b4f7627f572cff2076b6759634be20b459cb1df9"
+capturado_em_fonte: "2026-10-28T07:20:10.409117-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 553, de 28 de abril de 2003
+
+Prevê atendimento preferencial a deficientes, idosos e gestantes em estabelecimentos de saúde.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou e, Eu Prefeito Municipal sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+As pessoas com deficiência, pessoas idosas bem como também gestantes, terão preferência no atendimento em postos de saúde, clinicas, hospitais e outros estabelecimentos de saúde congêneres, independentemente da ordem de chegado, exceto quando houver, nesses locais, casos de urgência, cujo atendimento deve ser prioritário.
+
+
+Parágrafo único
+
+Para efeitos desta Lei, considera-se:
+
+
+I –
+
+Pessoa com deficiência: a quem tem uma restrição física, mental, visual ou aditiva;
+
+
+II –
+
+Pessoa idosa: aquela com 60 (sessenta) anos ou mais;
+
+
+III –
+
+Pessoa gestante: aquela que está em gestação, mulher em período de gravidez;
+
+
+IV –
+
+Atendimento primário: aquele que garante aos beneficiários desta Lei o atendimento sem a necessidade de aguardar na fila de espera.
+
+
+Art. 2º.
+
+Os estabelecimentos de saúde deverão afixar, na entrada ou na sala de espera, aviso informando o público que as pessoas com deficiência, idosas e gestantes tem atendimento prioritário.
+
+
+Parágrafo único
+
+O aviso a que se refere o caput deste artigo, deverá ser redigido em letras de forma, em cor visível, com medidas e localização de fácil visualização e conter os seguintes dizeres.“Em conformidade com a Lei Municipal nº 553/2003 os deficientes físicos, mentais, visuais, auditivos, os idosos e as gestantes, terão preferência no atendimento”.
+
+
+Art. 3º.
+
+O chefe do Poder Executivo Municipal expedirá comunicado determinando o cumprimento da presente lei.
+
+
+Art. 4º.
+
+Havendo necessidade, o Chefe do Poder Executivo Municipal regulamentará a lei.
+
+
+Art. 5º.
+
+Esta lei entrará em vigor na data de sua publicação revogadas as disposições em contrário.
+
+
+Gabinete do Prefeito Municipal de CORBÉLIA
+
+Em 28 (vinte e oito) de abril de 2003.
+
+Clóvis João Bombarda
+
+Prefeito Municipal
+
+Não substitui o texto publicado no Diário Oficial.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/357/ta
+

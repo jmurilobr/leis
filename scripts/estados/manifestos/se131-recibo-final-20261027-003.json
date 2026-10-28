@@ -1,0 +1,23 @@
+{
+  "preparado_em": "2026-10-27T18:50:46.590958-03:00",
+  "manifesto": "scripts/estados/manifestos/se131-proposta-privada-20261027-003.json",
+  "sha256_manifesto": "f72e97065e4654a6095614cdbd4786d5d72fe9cdb2bead8d798d16d016b8660a",
+  "total": 131,
+  "tipos": {
+    "Lei Complementar": 2,
+    "Lei Ordinária": 129
+  },
+  "retidos": 22,
+  "normas_promovidas": 0,
+  "replay": "estaduais/SE/_fonte/auditorias/se131-privado-20261027-002/replay-congelado.jsonl",
+  "sha256_replay": "9f4fbdebeeef5cd6ad81a61cbfc6fd304adb23276b1ae334ffda712b34656ec8",
+  "replay_falhas": 0,
+  "testes": 29,
+  "corpos_e_fontes_inalterados_pela_qualificacao": true,
+  "casos_contextuais": {
+    "9228/2023": "Anexo Único com 21 municípios incluído integralmente; a nota de rascunho de contexto com 17 foi corrigida no manifesto 003, sem alterar corpo.",
+    "9206/2023": "Anexos I e II, células/linhas/spans/decimais integralmente conferidos."
+  },
+  "comando": "PYTHONPATH=\"$PWD/scripts/bin/qa-20261027/python\" /Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/estados/snapshots/se_html_recente_20261027_002/reexecutar_spl_html_recente.py --manifesto scripts/estados/manifestos/se131-proposta-privada-20261027-003.json --saida SAIDA_NOVA.jsonl",
+  "limite": "HTML digital oficial ALESE; não equivalência certificada à edição DOE. Revogada null, situação literal do índice preservada. Os 22 retidos não são declarações automáticas de incorreção."
+}

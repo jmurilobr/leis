@@ -1,0 +1,310 @@
+---
+titulo: "Decreto nº 17, de 19 de maio de 1967"
+tipo: "Decreto"
+tipo_na_fonte: "Decreto"
+numero: "17"
+data: "1967-05-19"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/14444"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/5327/text"
+sha256_fonte: "ae5ab30ceff1a335a263129b7f65056d8cbf7a63e06026f84886f215eb073ee5"
+sha256_texto: "dcd2dc5d345972679a9d4353e628bc94a72ff49e65a7578ac5df1b8352b1591d"
+capturado_em_fonte: "2026-10-27T22:55:23.647597-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Decreto nº 17, de 19 de maio de 1967
+
+Dispõe sobre a construção, localização, instalação e funcionamento de Matadouros.
+
+
+O PREFEITO MUNICIPAL DE PÔRTO VELHO, usando da atribuição que lhe confere o artigo 9º, ítem III, do decreto-lei federal nº 5.839, de 21 de setembro de 1 943,
+
+D E C R E T A:
+
+
+Art. 1º.
+
+A construção, localização e instalação de Matadouros, nas cidades ou vilas do Município, obedecerão ao disposto no Código de Obras.
+
+
+Art. 2º.
+
+As reses de corte serão recolhidas ao pasto ou curral pelo menos 24 horas antes da matança. Êsse recolhimento far-se-á todos os dias à mesma hora, e será determinada pelo encarregado do Matadouro.
+
+
+Art. 3º.
+
+Será mantido um registro de entrada de animais, do qual constarão: espécie do gado, data e hora de entrada, estada dos animais, número de cabeças, nome do proprietário e as observações que fôrem julgadas necessárias.
+
+
+Art. 4º.
+
+Os animais serão alimentados por conta dos respectivos donos. Na hipótese de ser utilizado o pasto anexo ao Matadouro, pagarão os donos as taxas ou diárias previstas no Código Tributário.
+
+
+Art. 5º.
+
+O encarregado do Matadouro é responsável pela guarda dos animais confiados ao estabelecimento, não se entendendo essa responsabilidade aos casos de morte ou acidentes, fortúitos ou de fôrça maior, que não possam ser previstos ou evitados.
+
+
+Parágrafo único
+
+Verificada a norte de qualquer animal, recolhido ao Matadouro, será o seu proprietário notificado a retirá-lo no prazo de três (3) horas. Findo o prazo, sem que a notificação tenha sido cumprida, o encarregado mandará fazer a remoção do animal, correndo tôdas as despesas por conta do proprietário, que será ainda passível de multa.
+
+
+Art. 6º.
+
+É proibido o uso do Matadouro Municipal para operações de abate de reses e preparação de carne destinada ao consumo da população, por quem não disponha, para tanto, da expressa e competente autorização da autoridade responsável.
+
+
+Parágrafo único
+
+Nenhum animal poderá ser abatido sem o prévio pagamento do impôsto ou taxa a que o marchante ou açougueiro estiver sujeito na forma do Código Tributário Municipal.
+
+
+Art. 7º.
+
+O Matadouro será administrado por um encarregado, a quem compete especialmente, além de outras atribuições normais:
+
+
+a)
+
+permanecer no recinto do Matadouro em constante inspeção do serviço, desde o início até o término dêste;
+
+
+b)
+
+providenciar imediatamente contra qualquer anormalidade, comunicado o fato do Prefeito;
+
+
+c)
+
+distribuir o pessoal do Matadouro, de acôrdo com a necessidade do serviço;
+
+
+d)
+
+manter a ordem e disciplina o Matadouro.
+
+
+Art. 8º.
+
+É indispensável o exame sanitário dos animais destinados ao abate, sem o que êste não será efetuado.
+
+
+Parágrafo único
+
+O exame será realizado no gado em pé, no curral anexo ao Matadouro, por profissional habilitado e, na falta dêste, pelo próprio encarregado do estabelecimento.
+
+
+Art. 9º.
+
+Em caso de exame realizado pelo encarregado e, quando não seja possível ouvir-se um profissional habilitado, a simples suspeita de enfermidade determinará a rejeição dos animais.
+
+
+Art. 10.
+
+As reses, rejeitadas em pé, serão retiradas do curral pelos seus proprietários, no mesmo dia, sob pena de multa, sendo a rejeição anotada no registro próprio.
+
+
+Parágrafo único
+
+O encarregado poderá impedir a entrada de reses que possam, desde logo, ser reconhecidas como imprestáveis para a matança.
+
+
+Art. 11.
+
+É expressamente proibido o abate, para consumo alimentar, de:
+
+
+a)
+
+vitelos, com menos de 4 semanas de vida;
+
+
+b)
+
+suínos, com menos de 5 semanas de vida;
+
+
+c)
+
+ovinos e caprinos, com menos de 8 semanas de vida;
+
+
+d)
+
+animais que não tenham repousado, pelo menos 24 horas, no pasto ou curral anexo ao estabelecimento;
+
+
+e)
+
+animais caquéticos ou extremamente magros;
+
+
+f)
+
+vacas em estado de gestação.
+
+
+Parágrafo único
+
+Reger-se-á êste artigo pelo disposto na Instrução da Superintendência Nacional do Abastecimento.
+
+
+Art. 12.
+
+É considerado impróprio para consumo alimentar e passível de rejeição preliminar ou de condenação total, todo animal em que se verificar, quer no exame a que se refere o art. 8], quer no exame das carnes vísceras, a existência de qualquer enfermidade.
+
+
+Art. 13.
+
+O abate começará à hora determinada pelo encarregado do Matadouro e será feito por número de gado pertencente a cada marchante, por ordem de quantidade ou de entrada no Matadouro.
+
+
+Art. 14.
+
+Qualquer que seja o processo de abate, com aprovação da Prefeitura, é indispensável a sangria imediata e o escoamento do sangue das reses abatidas.
+
+
+Art. 15.
+
+O exame do animal do animal abatido será feito na ocasião da abertura das carcassas e sua avisceração, por profissional habilitado, ou pelo encarregado do Matadouro, observada a norma do art. 9º. Serão examinados cuidadosamente os gânglios, vísceras ou órgãos e condenado e apreendido o animal, a carcassa, s vísceras ou órgãos julgados impróprios para o consumo alimentar.
+
+
+Art. 16.
+
+Os animais, as carcassas ou partes delas, os órgãos ou tecidos, condenados como impróprios para o consumos alimentar, serão removidos em carros tanques para a sua a sua inutilização na forma do art. 17, ou aproveitamento industrial permitido.
+
+
+Parágrafo único
+
+A inutilização será feita pelos meios aprovados pela Prefeitura e Saúde Pública.
+
+
+Art. 17.
+
+Os animais abatidos ou que tenham morrido nos pastos e currais anexos aos Matadouros, portadores de carbunculo bacteriano, raiva ou quaisquer outras doenças contagiosas serão queimados com a pele, chifres e cascos.
+
+
+§ 1º
+
+O local, os utensílios ou instrumentos de trabalho que tiverem estado em contacto com qualquer carcassa, órgão ou tecido de animal de portador de carbúnculo bacteriano, raiva ou quaisquer outras moléstias, serão imediatamente desinfetados e esterelizados.
+
+
+§ 2º
+
+Os empregados, que tiverem manuseado carcassas, vísceras ou órgãos dêsses animais, farão completa desinfecção das mãos e do vestuário, antes de reiniciarem os trabalhos.
+
+
+Art. 18.
+
+Será o sangue, para o uso alimentar ou fim industrial, recolhido em recipientes apropriados, separadamente, para ser entregue ao proprietário dos animais.
+
+
+Parágrafo único
+
+Verificada a condenação de um animal, cujo sangue tiver sido recolhido e misturado ao de outros, será inutilizado todo o conteúdo do respectivo recipiente.
+
+
+Art. 19.
+
+As carnes, consideradas boas para o consumo alimentar, serão recolhidas ao depósito de carne verde até o momento de seu transporte para os açougues.
+
+
+§ 1º
+
+A carne liberada ao comércio deverá ser transportada, do local de abate ao local de consumo, em transporte próprio e especializado, constituído de veículo motorizado, devidamente assoalhado, fechado, coberto, imune à penetração de poeira e equipado, internamente, com travessas e ganchos de aço.
+
+
+§ 2º
+
+Não é permitido, em hipótese alguma, o transporte de pessoas em contacto direto com o produto destinado ao consumo.
+
+
+Art. 20.
+
+Os couros serão imediatamente retirados para os cortumes próximos, ou salgados e depositados em lugar para tal fim destinado.
+
+
+Art. 21.
+
+É proibido, sob pena de apreensão e inutilização, a insuflação de ar ou qualquer gás nas carnes dos animais abatidos.
+
+
+Art. 22.
+
+As condenações e inutilizações totais ou parciais serão registradas, com especificações de sua causa, em livro próprio a que se refere o art. 10.
+
+
+Art. 23.
+
+Os animais encontrados mortos nos currais poderão ser autopsiados, a fim de ser diagnosticada a "causa de mortis", concedendo-se sua inutilização, para fins industriais desde que não incidam no artigo 17.
+
+
+Art. 24.
+
+Nenhum gado destinado ao consumo público poderá ser abatido fora do Matadouro, sob pena de multa.
+
+
+§ 1º
+
+Nas vilas e povoados, onde não houver Matadouro, o gado bovino e suíno destinado ao consumo público, depois de examinado pelo respectivo fiscal ou profissional por êle indicado, será abatido em algum lugar previamente determinado, aplicando-se, no que couber, as disposições dêste Decreto.
+
+
+§ 2º
+
+Será, no entanto, permitida a matança do gado bovino, para o consumo normal da população, em charqueadas acaso existentes, já fiscalizados pelo Ministério de Agricultura até que se construa o Matadouro Municipal.
+
+
+§ 3º
+
+Nas charqueadas, a que se refere o parágrafo anterior, a Prefeitura exercerá, por técnicos ou funcionários para isso designados, a fiscalização prescrita para matança e distribuição.
+
+
+Art. 25.
+
+Além da fiscalização prevista, exigir-se-á, nas charqueadas, o cumprimento das condições e medidas sanitárias constantes dêste Decreto.
+
+
+Art. 26.
+
+As taxas, referentes à matança e o transporte de carne verde do Matadouro aos açougues, serão cobradas de acôrdo com o Código Tributário do Município .
+
+
+Parágrafo único
+
+Nas charqueadas, observando o disposto nos artigos anteriores, exigir-se-ão as taxas e tributos em vigor.
+
+
+Art. 27.
+
+É expressamente proibido, nas cidades e vilas, manter-se, em páteos particulares, gados de qualquer espécie destinado ao corte.
+
+
+Art. 28.
+
+Por infração a qualquer dispositivo dêste Decreto serão impostas multas de 50 a 100% do salário mínimo vigente no Município.
+
+
+Art. 29.
+
+O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Cel. Moacyr Nunes de Assumpção
+
+PREFEITO MUNICIPAL
+
+
+Dorival de Souza França
+
+SECRETÁRIO
+

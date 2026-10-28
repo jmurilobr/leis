@@ -1,0 +1,154 @@
+---
+titulo: "Lei Ordinária nº 54, de 02 de setembro de 1997"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "54"
+data: "1997-09-02"
+municipio: "Chapada Gaúcha"
+uf: "MG"
+codigo_ibge: "3116159"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.chapadagaucha.mg.leg.br/norma/101"
+fonte_texto: "https://sapl.chapadagaucha.mg.leg.br/ta/66/text"
+sha256_fonte: "f3720e53f82ebee9260aa4dcdb64895ca75ca59ea0b34503145b349017d78c6a"
+sha256_texto: "253339dbc9b114aa6faa89955a5bd0b998f22bb4898e1f9a57f2074d28f57de9"
+capturado_em_fonte: "2026-10-27T22:46:31.057204-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 54, de 02 de setembro de 1997
+
+Autoriza a concessão dos serviços de abastecimento de água à companhia de saneamento de Minas Gerais - COPASA MG e dá outras providências.
+
+
+**O Povo do Município de Chapada Gaúcha, Estado de Minas Gerais, por seus representantes na Câmara Municipal, Decretou e eu sanciono a presente Lei:**
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a firmar contrato com a COMPANHIA DE SANEAMENTO DE MINAS GERAIS - COPASA MG, órgão da Administração indireta do Estado de Minas Gerais, vinculada à Secretaria de Estado de Transportes e Obras Públicas, nos termos da Lei Delegada n° 06, de 28.08.85. Lei n° 9.517, de 29.12.87, Decreto n° 28.045, de 02.05.88 e Decreto 28.052, de 04.05.88, concedendo com fulcro no disposto no Art. 24, inciso VIII, da Lei n° 8.666/93, o direito de implantar, ampliar, administrar e explorar diretamente, com exclusividade, os serviços urbanos de abastecimento de água da Sede do Município pelo prazo de 30 (trinta) anos, prorrogável por acordo entre as partes.
+
+
+Art. 2º.
+
+Todos os bens e instalações vinculados aos Serviços Públicos de Abastecimento de Água da Sede do Município que, direta ou indiretamente, concorram рага prestação dos serviços, serão incorporados ao patrimônio da CONCESSIONÁRIA, mediante pagamento sob a forma de participação acionária do município no Capital Social da CONCESSIONÁRIA, em ações preferenciais, após a exata descrição e avaliação de acordo com o que dispõe a legislação comercial vigente.
+
+
+§ 1º
+
+Os bens municipais que se tornarem desnecessários ao Serviço, em decorrência da operação do sistema novo, ficarão desafetados dos serviços públicos, podendo a Administração Municipal lhes dar a destinação que melhor lhe aprouver.
+
+
+§ 2º
+
+A COPASA assumirá a operação do Serviço Público de Abastecimento de Água da Sede do Município após a conclusão do novo sistema podendo antecipar o início da operação se as circunstâncias assim o exigirem e mediante acordo com a Administração Municipal, devendo; neste caso, o contrato de concessão ser aditado para se estabelecer as condições de antecipação da entrega dos serviços.
+
+
+§ 3º
+
+Para os fins da incorporação patrimonial prevista no "caput" deste artigo a nas mesmas condições ali estatuídas, a Administração Municipal, mediante desapropriação, adquirirá de terceiros os terrenos sobre os quais estejam localizados equipamentos e instalações que devam ser incorporados pela CONCESSIONÁRIA, ou instituirá sobre os mesmos as competentes servidões administrativas.
+
+
+Art. 3º.
+
+A CONCESSIONÁRIA aproveitará, mediante seleção, em seu quadro de empregados, em regime de CLT e em conformidade com suas normas de gestão de pessoal, os empregados que trabalham ou exercem sua função no atual Sistema Municipal de Abastecimento de Água.
+
+
+§ 1º
+
+Os empregados que não se interessarem pela transferência e os que não puderem ser aproveitados no quadro de pessoal da CONCESSIONÁRIA serão redistribuídos por órgãos e/ou entidades do Município.
+
+
+§ 2º
+
+Findo o prazo de concessão, o pessoal em exercício no Sistema Municipal de abastecimento de Água, cujo aproveitamento não convier ao Município, continuará sob a responsabilidade da CONCESSIONARIA.
+
+
+Art. 4º.
+
+Compete ao Município promover, na forma da legislação em vigor, as desapropriações por necessidade ou utilidade pública e estabelecer servidões de bens ou direitos necessários às obras de construção e de expansão dos serviços de abastecimento de água, correndo os ônus destas desapropriações por conta do município.
+
+
+§ 1º
+
+Os bens expropriados pela implantação e expansão dos serviços serão incorporados pela CONCESSIONÁRIA mediante participação do Município no seu Capital Social, na forma do Art. 2° desta Lei.
+
+
+§ 2º
+
+O Poder executivo Municipal, mediante solicitação fundamentada da CONCESSIONÁRIA, tomará a iniciativa de declarar, através de decreto, a necessidade ou utilidade pública das áreas necessárias às obras de implantação e expansão dos serviços concedidos, praticando todos os atos necessários a efetivação das desapropriações. Nas desapropriações judiciais, quando houver interesse e conveniência para a Administração Municipal, a CONCESSIONARIA poderá colocar à disposição do Município os serviços dos advogados de seu quadro de empregados.
+
+
+Art. 5º.
+
+Durante o prazo de vigência da Concessão, a CONCESSIONARIA, obedecido o que dispõe a legislação federal e/ou estadual em vigor, fica autorizada a promover estudos para a fixação e para a revisão das tarifas remuneratórias dos serviços efetivamente prestados aos usuários, proibida a concessão de isenção tarifária.
+
+
+§ 1º
+
+As tarifas serão estipuladas de forma econômica para os usuários dos serviços e deverão obedecer ao princípio de justiça social e possibilitar a justa remuneração dos investimentos, o melhoramento, conservação e expansão dos serviços assegurar o equilíbrio econômico e financeiro da concessão.
+
+
+§ 2º
+
+A fixação ou revisão das tarifas, que se processará a partir de estudos elaborados pela CONCESSIONÁRAIA, e se submeterá na forma da legislação pertinente, à aprovação dos órgãos estaduais e/ou federais competentes, ficando a cargo da CONCESSIONÁRIA a arrecadação da receita e a obrigação de responder pelos encargos do serviço.
+
+
+Art. 6º.
+
+Sendo as tarifas calculadas em função do custo do serviço, para não as onerar sobremaneira, fica a COMPANHIA DE SANEAMENTO DE MINAS GERAIS - COPASA MG isenta de todos os tributos, taxas e emolumentos e quaisquer outros encargos fiscais municipais durante o prazo da concessão.
+
+
+Art. 7º.
+
+Findo o prazo da concessão, os bens incorporados ao patrimônio da CONCESSIONÁRIA, na forma estipulado no art. 2° da presente Lei, reverterão ao Município mediante devolução à CONCESSIONÁRIA das ações preferenciais representativas da participação do Município em seu Capital Social.
+
+
+Parágrafo único
+
+Findo o prazo da concessão, os bens decorrentes de investimentos da CONCESSIONÁRIA reverterão ao Município mediante prévia indenização, em dinheiro, à CONCESSIONÁRIA, devidamente reavaliados e depreciados
+
+
+Art. 8º.
+
+O Município poderá participar dos investimentos para implantação e expansão do novo Sistema de Abastecimento de Água obedecido o limite de até 25 % (vinte e cinco por cento) dos custos das obras e projetos, dependendo de estudos da viabilidade econômica e financeira da Concessão, devendo a Administração Municipal e a CONCESSIONÁRIA estabelecer, por meio de negociação, para cada obra, o "quantum" da participação.
+
+
+§ 1º
+
+A participação Municipal a que se refere o "caput" deste artigo poderá ser fixada, em cada caso, em dinheiro, mão de-obra, materiais e equipamentos, e/ou através da execução de determinadas obras ou serviços. Poderão ser assinados Convênios entre o Município e a CONCESSIONARIA para regulamentar as condições neste artigo.
+
+
+§ 2º
+
+
+Art. 9º.
+
+A CONCESSIONÁRIA poderá, independentemente de licença prévia, mas observadas as posturas municipais, fazer obras e instalações nas vias e logradouros públicos, relacionados com o serviço Público de Abastecimento de Água, quer na fase de implantação do novo sistema, quer na fase de sua operação, ficando a cargo da concessionária, a recomposição da pavimentação danificada pela obra.
+
+
+Art. 10.
+
+Instituída a concessão do Serviço Público de Abastecimento de Água, a aprovação, pela Administração Municipal, de qualquer projeto de loteamento, obrigará o incorporador à prévia implantação de projetos completos de abastecimento de água e esgotamento sanitário. Tais projetos serão submetidos ao prévio exame da CONCESSIONÁRIA e, uma vez implantado o projeto de água, será o mesmo incorporado ao Sistema Público de Abastecimento de Água, sem qualquer ônus para a COPASA MG.
+
+
+Parágrafo único
+
+O contrato de Concessão estabelecerá normas gerais que se aplicarão à presente concessão e aos serviços concedidos por esta Lei.
+
+
+Art. 11.
+
+Os serviços concedidos pior esta Lei serão prestados aos usuários de acordo com as normas e condições instituídas no regulamento de serviços da CONCESSIONARIA, aprovado pelo Decreto Estadual n° 32.809/91 e de acordo com o disposto no Decreto n° 33.611/92, que estabelece normas de tarifação no âmbito da COMPANHIA DE SANEAMENTO DE MINAS GERAIS - COPASA MG.
+
+
+Art. 12.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**Chapada Gaúcha 02 de setembro de 1997.**
+

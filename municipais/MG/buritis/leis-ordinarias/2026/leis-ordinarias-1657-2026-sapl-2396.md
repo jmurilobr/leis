@@ -1,0 +1,231 @@
+---
+titulo: "Lei nº 1.657, de 13 de abril de 2026"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1657"
+data: "2026-04-13"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/2396"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/2390/text"
+sha256_fonte: "ef6a82da77da948a191eb3ae669b918691c10f16a765e158f1629b5aeef5a9bc"
+sha256_texto: "cc22575027b37dac14a33adb8868a47a94ee59b1ff8c9e222f8910d214aa78b5"
+capturado_em_fonte: "2026-10-27T19:40:26.956728-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.657, de 13 de abril de 2026
+
+INSTITUI VERBA INDENIZATÓRIA QUE MENCIONA, NO ÂMBITO DO PODER LEGISLATIVO DE BURITISMG.
+
+
+A Câmara Municipal de Buritis, Estado de Minas Gerais por seus representantes, aprova, e o **Prefeito Municipal**, sanciona a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado no âmbito do Poder Legislativo do Município de Buritis-MG, a verba indenizatória denominada Auxílio-alimentação.
+
+
+Art. 2º.
+
+O Auxílio-alimentação de que trata o artigo anterior, será concedido, em pecúnia, a ser processado juntamente com a folha de pagamento mensal, para os servidores e vereadores, com respectivos valores:
+
+
+I –
+
+os titulares de cargos efetivos, os ocupantes de cargos em comissão e os contratados temporariamente, na forma da lei no valor de R$ 850,00(oitocentos e cinquenta reais);
+
+
+II –
+
+os Vereadores, no valor de R$ 1.500,00 (um mil e quinhentos reais) destinados a cobrir despesas com refeições durante o exercício das atividades parlamentares, legislativas e de fiscalização, justificado a maior, em razão das características da sua função de representatividade, mobilidade e ausência de jornada fixa.
+
+
+Parágrafo único
+
+O auxílio-alimentação de caráter indenizatório destina-se a subsidiar as despesas com a refeição e a alimentação dos servidores e vereadores, devendo ser-lhe pago diretamente, sendo dispensada prestação de contas.
+
+
+Art. 3º.
+
+O servidor terá direito ao auxílio-alimentação na proporção dos dias trabalhados.
+
+
+§ 1º
+
+O pagamento de auxílio-alimentação não será suspenso:
+
+
+I –
+
+em razão das ausências justificadas, previstas no Estatuto dos Servidores Públicos Municipais, instituído pela Lei complementar municipal nº 02/2002;
+
+
+II –
+
+nos períodos de licenças para tratamento de saúde, por acidente em serviço ou doença profissional, licença-maternidade, paternidade, por motivo de doença em pessoa da família, ou licença-prêmio por assiduidade;
+
+
+III –
+
+nos períodos de férias regulamentares dos servidores.
+
+
+§ 2º
+
+Para efeitos do auxílio de que trata este artigo, também será considerado como efetivo exercício o período de gozo de licenças maternidade e paternidade.
+
+
+§ 3º
+
+O servidor recém-contratado terá dirèito ao auxílio referido no caput deste artigo a partir do dia em que entrar em efetivo exercício.
+
+
+§ 4º
+
+Para desconto do auxílio-alimentação por dia não trabalhado, considerar-se-á proporcionalidade de 22 dias, à razão de 1/22 avos.
+
+
+§ 5º
+
+É vedado o recebimento cumulativo do auxílio-alimentação e de qualquer verba indenizatória específica para custear despesas com alimentação durante o mesmo período, incluindo componente alimentar de diária de viagem.
+
+
+§ 6º
+
+Nos dias em que for paga diária de viagem integral, haverá o desconto na proporcionalidade prevista no §4º deste artigo.
+
+
+§ 7º
+
+O pagamento do auxílio-alimentação será suspenso nas seguintes hipóteses:
+
+
+I –
+
+no caso dos vereadores:
+
+
+a)
+
+licença para tratar de assuntos particulares;
+
+
+b)
+
+investidura em cargo de Secretário Municipal;
+
+
+c)
+
+faltas injustificadas às sessões ordinárias e extraordinárias do plenário, bem como às reuniões das comissões permanentes e temporárias.
+
+
+d)
+
+impedimento temporário do exercício do mandato;
+
+
+e)
+
+afastamento do mandato por ordem judicial;
+
+
+f)
+
+reclusão, e
+
+
+g)
+
+durante viagens, com concessão de diária de alimentação.
+
+
+II –
+
+no caso dos servidores:
+
+
+a)
+
+licença para tratar de assuntos particulares;
+
+
+b)
+
+faltas injustificadas;
+
+
+c)
+
+afastamento temporário em decorrência de ordem judicial ou processo administrativo disciplinar;
+
+
+d)
+
+penalidade disciplinar de suspensão;
+
+
+e)
+
+reclusão;
+
+
+f)
+
+licença para atividade políticа;
+
+
+g)
+
+licença para desempenho de mandato eletivo; e
+
+
+h)
+
+durante viagem com concessão de diária de alimentação.
+
+
+§ 8º
+
+Durante o período de recesso parlamentar dos vereadores não será suspenso о pagamento do auxílio-alimentação, tendo em vista que estes continuam trabalhando, realizando atendimentos à população, acompanhando demandas da cidade, fiscalizando ações do Poder Executivo, participando de reuniões e visitas técnicas dentro e fora do município.
+
+
+Art. 4º.
+
+O auxílio-alimentação não será incorporado ao vencimento, à remuneração, aos proventos ou à pensão, não constituindo salário-utilidade ou prestação salarial "in natura", não sofrendo incidência de contribuição previdenciária e não se configurando como rendimento tributável.
+
+
+Art. 5º.
+
+O valor do auxílio-alimentação, deverá ser pago mensalmente a todos os servidores e vereadores, da Câmara Municipal de Buritis-MG.
+
+
+Parágrafo único
+
+O valor mensal do auxílio-alimentação será atualizado anualmente, por ato do Presidente da Câmara Municipal de Buritis, conforme variação do Índice Nacional de Preços ao Consumidor Amplo-IPCA, apurado pelo Instituto Brasileiro de Geografia e Estatística-IBGE, desde que haja disponibilidade orçamentária e financeira.
+
+
+Art. 6º.
+
+As despesas com a execução da presente lei, correrão por conta de dotação orçamentária vigente, ficando autorizada a suplementação ou abertura de crédito especial, se for o caso.
+
+
+Art. 7º.
+
+Esta lei entra em vigor na data de sua publicação, e os seus efeitos se darão a partir do primeiro dia útil do mês seguinte ao da sua publicação.
+
+
+Buritis/MG, em 13 de abril de 2026.
+
+**RUFINO CLÓVIS FOLADOR**  
+Prefeito Municipal de Buritis-MG
+
+Ref. PL nº 010/2026. Autoria: De autoria da Mesa Diretora. Aprovado Conf. Prop. de Lei nº 007/2026.
+

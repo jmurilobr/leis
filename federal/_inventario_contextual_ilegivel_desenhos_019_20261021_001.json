@@ -1,0 +1,29 @@
+{
+  "escopo": "Inventário lexical contextual dos 1.794 corpos finais propostos, sem alteração, máscara ou decisão automática de integralidade. Exclui notas YAML; usa HTML efetivamente renderizado.",
+  "busca": "ilegível/ilegivel e desenho(s) seguido de anexo(s)/anexa(s), até 80 caracteres sem ponto ou ponto e vírgula. Cada ocorrência traz o artigo inteiro entre marcadores Art. reconhecidos; cabeçalhos sem artigo trazem contexto até o próximo artigo.",
+  "resumo": {
+    "corpos_pesquisados": 1794,
+    "normas_com_ocorrencias": 1,
+    "ocorrencias": 1
+  },
+  "registros": [
+    {
+      "path": "federal/decretos/1944/dec-16515-1944-09-04.md",
+      "lote": 19,
+      "sha256_md_final": "2c89f2f3cd040a06e228825c00e1fdea0284fa33d2a4a1313c3d28b61d0e1130",
+      "arquivo_final": "federal/decretos/1944/dec-16515-1944-09-04.md",
+      "sha256_fonte_html": "c40d06a3b64d7e9fa8b86e2e8978914576912f578ed165b4e03f35c922ec8b83",
+      "ocorrencias": [
+        {
+          "literal": "desenhos anexos",
+          "posicao": 1632,
+          "artigo_ou_contexto_integral": "Art. 2.º A Ordem do Mérito Militar constará dos cinco graus abaixo mencionados: 1.º - Grã Cruz 2.º - Grande Oficial 3.º - Comendador 4.º - Oficial 5.º - Cavaleiro § 1.º As insígnias da Ordem serão constituídas por uma cruz, do modêlo tradicional cruz de Avís, com quatro braços iguais, em esmalte branco, tendo as dimensões e demais características consignadas nas explicações e desenhos anexos. A fita será de gorgorão e seda verde, achamalotada, com orlas e frisos de cor branca, na forma indicada nos desenhos referidos. § 2.º O uso das insígnias é obrigatório na forma estabelecida no Regulamento de Uniformes do Pessoal do Exército. II – ÓRGÃOS DE DIREÇÃO – FUNCIONAMENTO E ATRIBUIÇÕES ",
+          "inicio_contexto": 1253,
+          "fim_contexto": 1944,
+          "rotulo_artigo": "Art. 2."
+        }
+      ]
+    }
+  ],
+  "limite": "Inventário para triagem ROOT; palavras podem ser comandos legítimos ou remissões a outro regulamento. Não determina ausência em outra edição."
+}

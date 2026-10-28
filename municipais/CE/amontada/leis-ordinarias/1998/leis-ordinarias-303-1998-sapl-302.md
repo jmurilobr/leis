@@ -1,0 +1,159 @@
+---
+titulo: "Lei nº 303, de 25 de abril de 1998"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "303"
+data: "1998-04-25"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/302"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/600/text"
+sha256_fonte: "fe41dddcf80a866a027721b003be02d4a01bfd03693ad3bd075992331cc8b6ff"
+sha256_texto: "19c5940ca55bdd04eee85ed863e3892b51c9ba601923588611be150dd9b29fdd"
+capturado_em_fonte: "2026-10-21T07:05:17.523182-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 303, de 25 de abril de 1998
+
+Dispõe sobre as Diretrizes para a elaboração da Lei Orçamentária e dá outras providências.
+
+
+**O PREFEITO MUNICIPAL DE AMONTADA - CEARÁ,**  
+Faço saber que a Câmara Municipal de Amontada, aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+São estabelecidas, em cumprimento ao disposto no ART. 165, & 2, da Constituição Federal, as Diretrizes Orçamentárias do Município para o exercício financeiro de 1999.
+
+
+Art. 2º.
+
+As prioridades e metas para o exercício de 1999, são aquelas preconizadas no Plano Plurianual, as quais terão precedência na alocação de recursos, não se constituindo em limite à programação das despesas.
+
+
+Art. 3º.
+
+O projeto de lei orçamentária que o Poder Executivo encaminhará ao Legislativo, será constituído de:
+
+
+I –
+
+Texto de lei;
+
+
+II –
+
+Consolidação dos quadros orçamentários;
+
+
+III –
+
+Quadro demonstrativo da receita;
+
+
+IV –
+
+Quadro discriminado das dotações por órgãos de Governo e da administração;
+
+
+V –
+
+Quadro discriminado por programa de trabalho de cada unidade.
+
+
+Art. 4º.
+
+As despesas com o pagamento de precatórios judiciários correrão à conta de dotações consignadas com esta finalidade em subatividades específicas, nas programações a cargo das unidades orçamentárias responsáveis pelos débitos.
+
+
+Parágrafo único
+
+Os recursos alocados na lei orçamentária com a destinação prevista neste artigo, não poderão ser cancelados para abertura de créditos adicionais com outra finalidade.
+
+
+Art. 5º.
+
+É vedada a inclusão de dotações a título de auxílios para entidades privadas, ressalvadas as sem fins lucrativos.
+
+
+Art. 6º.
+
+A proposta orçamentária para 1999:
+
+
+I –
+
+Poderá prever recursos para a Implantação do Programa de Garantia de Renda Mínima, alocados em subatividades específica;
+
+
+II –
+
+Consignará recursos para o Fundo da Criança e do Adolescente, em atendimento ao disposto no Art. 203 da Constituição Federal.
+
+
+Art. 7º.
+
+No exercício financeiro de1999, as despesas com pessoal ativo e inativo, observarão o limite estabelecido na Lei Complementar n. 82, de 27 de março de 1995.
+
+
+Art. 8º.
+
+São vedados quaisquer procedimentos pelos ordenadores de despesa no âmbito dos sistemas de orçamento, programação financeira e contabilidade, que viabilizem a execução de despesas sem comprovada e suficiente disponibilidade de dotação orçamentária.
+
+
+Art. 9º.
+
+As transferências para entidades privadas sem fins lucrativos que firmarem contrato de gestão com a administração pública municipal poderão ser agrupadas em dotações orçamentárias de uma única categoria de programação, na forma de subprojeto ou subatividades, aberto por grupo de despesa.
+
+
+Art. 10.
+
+O Poder Executivo poderá assinar convênios com outras esferas de governo, inclusive, entidades e organismos privados, para atendimento de serviços básicos e conjugação de esforços, visando uma melhor prestação de serviços à comunidade.
+
+
+Art. 11.
+
+O orçamento anual, obedecerá a estrutura organizacional devidamente aprovada pelo Legislativo e terá seus controles realizados com base na Lei N°. 4320/64, com métodos das Partidas Dobradas na forma do Artigo 86 da referida lei.
+
+
+Art. 12.
+
+O Município poderá efetuar a transposição, o remanejamento ou a transferência de recursos de uma categoria de programação para outra, de um órgão para outro ou de um elemento de despesa para outro, dentro da execução orçamentária.
+
+
+Art. 13.
+
+A despesa deverá ser identificada através de programa, subprograma, projetos e atividades.
+
+
+Art. 14.
+
+A proposta orçamentária deverá ser encaminhada a Câmara Municipal, até o dia 1º de Novembro de 1998.
+
+
+Art. 15.
+
+O Orçamento poderá ser suplementado até 30% (trinta por cento) do valor global estimado para 1999.
+
+
+Art. 16.
+
+As unidades responsáveis pela execução dos créditos orçamentários aprovados processarão o empenho da despesa, observados os limites fixados para cada categoria de programação e respectivo grupo de despesa, fonte de recurso, modalidade de aplicação e identificador de uso, especificado o elemento da despesa.
+
+
+Art. 17.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+**PAÇO DA PREFEITURA MUNICIPAL DE AMONTADA, em 25 de Abril de 1998.**
+
+**FRANCISCO EDILSON TEIXEIRA Prefeito Municipal**
+

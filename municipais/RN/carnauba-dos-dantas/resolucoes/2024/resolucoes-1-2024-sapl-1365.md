@@ -1,0 +1,187 @@
+---
+titulo: "Resolução nº 1, de 22 de janeiro de 2024"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução"
+numero: "1"
+data: "2024-01-22"
+municipio: "Carnaúba dos Dantas"
+uf: "RN"
+codigo_ibge: "2402402"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.carnaubadosdantas.rn.leg.br/norma/1365"
+fonte_texto: "https://sapl.carnaubadosdantas.rn.leg.br/ta/22/text"
+sha256_fonte: "ef1a985ae6c7c9090947899c12b604e74f402990912ca5a884d15d077c6c7d26"
+sha256_texto: "7d7e9ba545394ce834a99a916b21f36f86a301fd8a5e7c53552e4f7364017bc9"
+capturado_em_fonte: "2026-10-27T22:36:08.373124-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Resolução nº 1, de 22 de janeiro de 2024
+
+A PRESIDENTE DA CÂMARA MUNICIPAL DE CARNAÚBA DOS DANTAS/RN, no uso de suas atribuições legais previstas no Art. 25, Inciso II, alínea n) do Regimento Interno da Câmara Municipal de Carnaúba dos Dantas/RN. CONSIDERANDO a necessidade de otimizar o uso do veículo oficial da Câmara Municipal de Carnaúba dos Dantas/RN para atividades institucionais, com a importância de estabelecer critérios claros para a autorização de uso do veículo por Vereadores, servidores e motoristas designados por Vereador ou Poder Executivo, FAZ SABER que a Câmara Municipal de Carnaúba dos Dantas/RN, aprovou e sancionou a seguinte resolução:
+
+
+Art. 1º.
+
+O veículo oficial do Poder Legislativo de Carnaúba dos Dantas/RN, além de atender aos serviços do dia-a-dia na circunscrição do município, poderá ser cedido, exclusivamente, em viagens intermunicipais e interestaduais para vereadores e servidores do quadro de pessoal da Câmara Municipal em missão de real interesse do Poder Legislativo.
+
+
+§ 1º
+
+O assunto a ser tratado na missão terá que ser de interesse exclusivo do Legislativo, e dependerá de autorização para o uso de veículo oficial da Câmara, e será concedido pelo presidente, mediante solicitação prévia de 24 horas antes do interessado, por meio de oficio, e, dependendo do objetivo, dependerá de parecer jurídico prévio.
+
+
+§ 2º
+
+O uso do veículo far-se-á mediante autorização do Presidente da Câmara e o controle será realizado pela Unidade de Controle Interno em livro próprio, onde será preenchido, diariamente:
+
+
+I –
+
+data/hora prevista da saída;
+
+
+II –
+
+data/hora prevista da chegada;
+
+
+III –
+
+discriminação do nome de passageiros;
+
+
+IV –
+
+objetivo da viagem;
+
+
+V –
+
+itinerário da viagem;
+
+
+VI –
+
+nome do motorista;
+
+
+VII –
+
+nome e assinatura do solicitante;
+
+
+VIII –
+
+descrição de litros abastecidos.
+
+
+Art. 2º.
+
+Compreende interesse do Legislativo as missões que tenham por objetivo resolver problemas ou buscar soluções de caráter público, participação em cursos, congressos e seminários autorizados pela Câmara Municipal e outros que se revestirem pela sua importância de real interesse do legislativo.
+
+
+Art. 3º.
+
+É proibida a utilização do veículo oficial da Câmara para:
+
+
+I –
+
+visitas de interesses político-partidárias de vereadores, como participação em congressos de partidos políticos, recepções a políticos em campanha, ainda que pré-candidatos;
+
+
+II –
+
+aos sábados, domingos e feriados, com exceção especial, inerente ao exercício do serviço público, poderá ser utilizado o veiculo mediante autorização específica do Presidente da Câmara Municipal;
+
+
+III –
+
+para transporte de familiar de vereador ou servidor;
+
+
+IV –
+
+para transporte de objeto de vereador ou servidor;
+
+
+V –
+
+para transporte de pessoa estranha ao serviço público;
+
+
+VI –
+
+para excussão ou passeio;
+
+
+VII –
+
+para qualquer outro uso diverso do devido, ou seja, em atividades estranhas ai serviço público.
+
+
+Art. 4º.
+
+O condutor autorizado a utilizar o veículo oficial é inteiramente responsável pela sua guarda, conservação e utilização em conformidade com as normas de trânsito.
+
+
+§ 1º
+
+Poderão conduzir o veiculo oficial da Câmara Municipal todo Vereador, servidor da Câmara Municipal, motorista da Prefeitura Municipal ou motorista designado por Vereador, desde que atenda aos requisitos de habilitação estabelecidos pelas leis de trânsito.
+
+
+§ 2º
+
+O vereador designante será responsável por garantir que o motorista cumpra todas as normas de trânsito e utilize o veículo de maneira adequada, obedecendo rigorosamente às leis de trânsito e zelar pela segurança do veículo e dos ocupantes.
+
+
+§ 3º
+
+Ocorrendo dano no veiculo oficial, constatada a responsabilidade do condutor, este arcará com o ressarcimento em montante até o valor da franquia estipulada no contrato do seguro.
+
+
+§ 4º
+
+No caso de infração do Código de Trânsito Brasileiro no uso do veiculo oficial, arcará o condutor com o pagamento da respectiva multa com exceção daquelas aplicadas em decorrência da má conservação do veiculo.
+
+
+Art. 5º.
+
+Quando não estiver sendo utilizado, o veiculo oficial deverá permanecer recolhido à garagem oficial da Câmara Municipal de Carnaúba dos Dantas/RN.
+
+
+Parágrafo único
+
+Fica proibida a guarda do veiculo oficial em garagem residencial.
+
+
+Art. 6º.
+
+O servidor ou vereador que tomar conhecimento da utilização do veiculo em desacordo com o disposto nesta Resolução deve obrigatoriamente, sob pena de conivência, comunicar imediatamente o fato ao Presidente da Câmara Municipal.
+
+
+Parágrafo único
+
+Ao ser informado da utilização indevida do veiculo, o Presidente providenciará de mediato, a instauração de sindicância destinada a apurar o ocorrido.
+
+
+Art. 7º.
+
+Além da responsabilidade pela chave e pelo livro de Controle de Uso do veiculo, também compete a Controladoria Interna da Câmara Municipal manter organizado em pasta específica para esse fim o registro da documentação, da utilização, da conservação, da manutenção, do consumo de óleos lubrificantes e combustível, da quilometragem percorrida, do seguro e de outras informações relativas ao uso e à conservação do veiculo da frota oficial da Câmara Municipal, bem como por sua limpeza e asseio.
+
+
+Art. 8º.
+
+Esta Resolução entra em vigor na data de sua publicação, revogando a Resolução 003/2017 de 14 de dezembro de 2017.
+
+
+Sala das Sessões “***Vereador Wilson Luiz de Souza***”, da Câmara Municipal de Carnaúba dos Dantas/RN, em 22 de janeiro de 2024.
+
+**MARLI DE MEDEIROS DANTAS**
+
+Presidente
+

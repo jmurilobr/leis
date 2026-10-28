@@ -1,0 +1,170 @@
+---
+titulo: "Lei nº 144, de 30 de maio de 1992"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "144"
+data: "1992-05-30"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/146"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/437/text"
+sha256_fonte: "596e155a5d8eedba1204bcab61c28972cc2cda5edcad90aeec0f3fbbe1f309e9"
+sha256_texto: "ced94061e8b46cc3ac70e391ca1640a87ea84fd6374672c876799a23aa5e7457"
+capturado_em_fonte: "2026-10-21T07:16:00.905084-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 144, de 30 de maio de 1992
+
+Institui o Regime Jurídico Único para os Servidores da Administração direta, das Autarquias e das Funções Públicas Municipais e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE AMONTADA – ESTADO DO CEARÁ.  
+Faço saber que a Câmara Municipal de Amontada, aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituído, nos termos do art. 39 "caput" da Constituição Federal, como regime jurídico único para os servidores da Administração Direta, das Autarquias e das Fundações Públicas, o regime de direito público administrativo, previsto no ESTATUTO DOS SERVIDORES DO MUNICÍPIO DE AMONTADA e legislação complementar.
+
+
+Art. 2º.
+
+Em consequência do disposto no artigo anterior, ficam submetidos, também, ao regime estatutário os atuais servidores:
+
+
+I –
+
+sujeitos ao regime da Consolidação das Leis;
+
+
+II –
+
+ocupantes de cargos ou funções de Direção e Assessoramento.
+
+
+§ 1º
+
+Aos servidores referidos no item I deste artigo, são estendidos os direitos, vantagens e obrigações inerentes ao regime jurídico único ora adotado, mantidas as vantagens de caráter pessoal que até então venham percebendo.
+
+
+§ 2º
+
+Em nenhuma hipótese haverá decesso de remuneração e o excesso que eventualmente ocorra será mantido como vantagem pessoal, salvo vedação constitucional, até sua absorção.
+
+
+Art. 3º.
+
+A partir da data de vigência desta Lei, não poderão os órgãos e entidades a que se refere o art. 12:
+
+
+I –
+
+reajustar ou conceder aumento de remuneração, senão por meio de Lei;
+
+
+II –
+
+recolher contribuição para o Fundo de Garantia do Tempo de Serviço (FGTS).
+
+
+Art. 4º.
+
+Os servidores antes submetidos ao regime trabalhista, cujos empregos são transformados por esta Lei em cargos ou funções, continuam a ser segurados obrigatórios do Instituto Nacional do Seguro Social - INSS, até a tomada de outras providências pela Prefeitura Municipal.
+
+
+Art. 5º.
+
+O tempo de serviço prestado sob o regime da CLT será contado, pelos servidores por ela alcançados, para concessão de aposentadoria, disponibilidade e progressão horizontal, ficando vedado, quanto a esta última, o pagamento de atrasados.
+
+
+Art. 6º.
+
+Os servidores que hajam ingressados na administração direta, autárquica ou fundacional, por meio de concurso público de provas e títulos têm seus empregos transformados em cargos, a serem devidamente classificados e, quanto aos demais, os terão transformados em funções, as quais comporão a Parte Especial do Quadro de Pessoal a que alude o art. 7º desta Lei.
+
+
+§ 1º
+
+Os contratos de trabalho, no caso de servidores submetidos ao regime da CLT, são considerados rescindidos, procedendo-se às devidas anotações, nas respectivas carteiras pro fissionais e fichas funcionais, da mudança do regime jurídico funcional, o que ocorre por força do art. 39 da Constituição Federal e desta Lei.
+
+
+§ 2º
+
+A transformação dos empregos e funções, visando a mudança do regime jurídico de que trata este diploma legal, operar-se-á por Atos do Chefe do Poder Executivo, dos quais deverão constar o nome completo do servidor, a denominação do emprego ou função então ocupados e a definição da nova situação, devendo ser expedidos no prazo de 90 (noventa) dias, contados da vigência desta Lei.
+
+
+§ 3º
+
+A movimentação das contas do FGTS, em decorrência do disposto nos parágrafos anteriores deste artigo, deverá ocorrer conforme dispuser a Lei Federal.
+
+
+Art. 7º.
+
+Os Quadros de Pessoal do Poder Executivo, bem como os das Autarquias e Fundações Públicas, ficam compostos de cargos de provimento efetivo, cargos de provimento em comissão e de funções, estruturados em 2(duas) partes, a saber:
+
+
+I –
+
+Parte Permanente - composta de cargos de carreira e isolados e de Direção e Assessoramento.
+
+
+II –
+
+## Parte Especial - composta de funções, a serem extintas quando vagarem.
+
+
+Parágrafo único
+
+Os servidores regidos por esta Lei, integrarão os Quadros de Pessoal mencionados neste artigo, guardada correspondência quanto ao grupo ocupacional, a categoria funcional, classe e referência.
+
+
+Art. 8º.
+
+A mudança do regime jurídico ocorrerá na data da vigência desta Lei, produzindo as correspondentes efeitos financeiros a partir do primeiro dia do mês subsequente.
+
+
+Art. 9º.
+
+A redistribuição dos servidores alcançados por esta Lei dar-se-á, apenas, no âmbito da administração direta, autárquica e fundacional.
+
+
+Art. 10.
+
+São considerados concursos públicos, para fins desta Lei, gerando todos os efeitos que lhes são atinentes, os exames de seleção que hajam sido realizados para admissão de candidatos a empregos e funções, desde que se tenham revestido de todas as acaracterísticas essenciais aos concursos públicos de provas e títulos ou apenas de provas, inclusive quanto à publicidade e ampla divulgação, livre acesso dos candidatos e caráter competitivo eliminatório.
+
+
+Art. 11.
+
+Enquanto não produzidos os efeitos financeiros desta Lei (art. 8º), permanecerão os servidores egressos do regime trabalhista sob a política salarial anterior.
+
+
+Art. 12.
+
+Fica o Poder Executivo autorizado a pro mover, por Decreto, todas as medidas necessárias à implantação ou reformulação dos Quadros de Pessoal referidos no art. 7º desta Lei.
+
+
+Art. 13.
+
+O Chefe do Poder Executivo, no prazo de 60 (sessenta) dias, enviará à Câmara Municipal, contado da publicação desta Lei, Projeto de Lei dispondo sobre o Estatuto dos Servidores do Município de Amontada e Plano de Cargos e Carreiras.
+
+
+Art. 14.
+
+As despesas decorrentes da aplicação desta Lei correrão por conta das dotações orçamentárias próprias, que serão suplementadas, se insuficientes.
+
+
+Art. 15.
+
+Esta Lei entrará em vigor simultaneamente com a vigência do Estatuto dos Servidores do Município de Amontada, revogadas as disposições em contrário.
+
+
+PAÇO DA PREFEITURA MUNICIPAL DE AMONTADA-CE, aos 30 de maio de 1992.
+
+FRANCISCO EDILSON TEIXEIRA  
+Prefeito Municipal
+

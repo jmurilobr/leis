@@ -1,0 +1,206 @@
+---
+titulo: "Lei Ordinária nº 6.902, de 21 de julho de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "6902"
+data: "2020-07-21"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/7481"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/167/text"
+sha256_fonte: "b5cfddea33a33ccd87610770764fb9c17a25f806427472e0ef0e12f00d4695b3"
+sha256_texto: "1809dadcb98aa843d7a91ede2e2723f1eb3966f35e2e80c3d689f37e61180fb7"
+capturado_em_fonte: "2026-10-27T18:14:43.871917-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 6.902, de 21 de julho de 2020
+
+AUTORIZA A SUSPENSÃO DO REPASSE DE VALORES AO INSTITUTO DE PREVIDÊNCIA DE BIRIGUI — BIRIGUIPREV, NOS TERMOS QUE ESPECIFICA E DÁ OUTRAS PROVIDÊNCIAS.  
+Projeto de Lei n° 95/2020, de autoria do Prefeito Municipal.
+
+
+Eu, **CRISTIANO SALMEIRÃO**, Prefeito de Birigui, do Estado de São Paulo, usando das atribuições que me são conferidas por Lei,  
+FAÇO SABER que a Câmara Municipal decreta e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica autorizado o Município de Birigui a suspender os repasses de valores devidos ao Instituto de Previdência de Birigui — Biriguiprev, na forma do art. 9º, da Lei Complementar Federal n° 173, de 27 de maio de 2020, e da Portaria n° 14.816 de 19 de junho de 2020 da Secretaria Especial de Previdência e Trabalho, relativos as:
+
+
+I –
+
+prestações não pagas de termos de acordo de parcelamento firmados até 28 de maio de 2020, com base nos artigos 5° e 5°-A da Portaria MPS n° 402, de 10 de dezembro de 2008, com vencimento entre 1° de março e 31 de dezembro de 2020, conforme abaixo descritas:
+
+
+a)
+
+Acordo CADPREV n° 844/2017;
+
+
+b)
+
+Acordo CADPREV n° 845/2017;
+
+
+c)
+
+Acordo CADPREV n° 846/2017;
+
+
+d)
+
+Acordo CADPREV n° 2040/2017;
+
+
+e)
+
+Acordo CADPREV n°2116/2017;
+
+
+f)
+
+Acordo CADPREV n° 854/2018; e
+
+
+g)
+
+Acordo CADPREV n° 1399/2018.
+
+
+II –
+
+contribuições previdenciárias patronais devidas pelo Município e não pagas, relativas as competências com vencimento entre 1° de março e 31 de dezembro de 2020, referentes àquelas previstas no plano de custeio do RPPS, de que trata o art. 47 da Portaria MF n° 464, de 19 de novembro de 2018, instituídas por meio de alíquotas, para cobertura dos custos normal ou suplementar, ou por meio de aportes estabelecidos em planos de amortização de déficit atuarial.
+
+
+Parágrafo único
+
+A autorização para a suspensão de que trata o caput o artigo:
+
+
+I –
+
+não isenta a responsabilidade do Município pela cobertura de eventuais insuficiências financeiras do respectivo RPPS, decorrentes do pagamento de benefícios previdenciários, nos termos do §1° do art. 2° da Lei n° 9.717, de 1998, inclusive as relativas aos planos financeiros em caso de segregação de massa dos segurados; e
+
+
+II –
+
+não isenta o Município de manter o funcionamento do órgão ou entidade gestora do RPPS, por meio da assunção direta de despesas, do repasse da taxa de administração ou de aportes financeiros, caso referido órgão ou entidade não tenha recursos disponíveis para tal finalidade.
+
+
+Art. 2º.
+
+São vedadas:
+
+
+I –
+
+a suspensão do repasse das contribuições dos servidores ativos, aposentados e pensionistas devidas ao RPPS;
+
+
+II –
+
+a restituição ou compensação dos valores de prestações de termos de acordo de parcelamento ou de contribuições previdenciárias patronais devidas que tiverem sido pagas ao órgão ou entidade gestora do RPPS com vencimento dentro do período de que tratam os incisos I e II do art. 1°;
+
+
+III –
+
+a utilização de recursos do RPPS, incluídos os valores integrantes dos fundos de que tratam o art. 249 da Constituição Federal e o art. 6° da Lei n° 9.717, de 27 de novembro de 1998, para despesas distintas do pagamento dos benefícios previdenciários do respectivo fundo e daquelas necessárias à sua organização e ao seu funcionamento, conforme disposto no inciso XII do art. 167 da Constituição Federal.
+
+
+Art. 3º.
+
+Cada prestação dos termos de acordo de parcelamento, de que trata o inciso I do art. 1°, cujo repasse tenha sido suspenso na forma desta lei, será paga, observadas as demais condições estabelecidas no art. 5° da Portaria MPS n° 402, de 2008, e o prazo máximo permitido pelo § 9° do art. 9° da Emenda Constitucional n° 103, de 2019, inclusive em caso de prestações relativas a termos de acordo de parcelamento firmados com base nos parâmetros estabelecidos no art. 5°-A da referida Portaria, da seguinte forma:
+
+
+I –
+
+as prestações suspensas sejam objeto de novo termo de acordo de parcelamento, a ser formalizado até o dia 31 de janeiro de 2021; ou
+
+
+II –
+
+o termo de acordo de parcelamento seja objeto de reparcelamento, a ser formalizado até o dia 31 de janeiro de 2021, não aplicando a limitação de um único reparcelamento prevista no inciso III do § 7° do art. 5° da Portaria MPS n° 402, de 2008.
+
+
+Art. 4º.
+
+As contribuições previdenciárias patronais, de que trata o inciso II do art. 1°, cujo repasse tenha sido suspenso na forma desta lei, serão observadas as demais condições estabelecidas no art. 5° da Portaria MPS n° 402, de 2008, e o prazo máximo permitido pelo § 9° do art. 9° da Emenda Constitucional n° 103, de 2019, objeto de termo de acordo de parcelamento, a ser formalizado até o dia 31 de janeiro de 2021.
+
+
+Art. 5º.
+
+Os termos de acordos de parcelamento, referidos nos artigos 3° e 4° desta Lei, serão firmados obedecendo os seguintes critérios:
+
+
+I –
+
+previsão, em cada termo de acordo de parcelamento, do número máximo de 60 (sessenta) prestações mensais, iguais e sucessivas;
+
+
+II –
+
+aplicação de índice oficial de atualização e de taxa de juros, definidos na Lei Municipal n° 4.804/2006, na consolidação do montante devido e no pagamento das prestações vincendas e vencidas, com incidência mensal, respeitando-se como limite mínimo a meta atuarial;
+
+
+III –
+
+vencimento da primeira prestação no máximo até o último dia útil do mês subsequente ao da assinatura do termo de acordo de parcelamento;
+
+
+IV –
+
+previsão das medidas e sanções, inclusive multa, para os casos de inadimplemento das prestações ou descumprimento das demais regras do termo de acordo de parcelamento;
+
+
+V –
+
+vedação de inclusão das contribuições descontadas dos segurados ativos, aposentados e pensionistas;
+
+
+VI –
+
+vedação de inclusão de débitos não decorrentes de contribuições previdenciárias.
+
+
+§ 1º
+
+Fica autorizada a vinculação do Fundo de Participação dos Municípios - FPM como garantia das prestações acordadas no termo de parcelamento, não pagas no seu vencimento.
+
+
+§ 2º
+
+A garantia de vinculação do FPM deverá constar de cláusula de termo de parcelamento e de autorização fornecida ao agente financeiro responsável pelo repasse das cotas, e vigorará até a quitação do termo.
+
+
+§ 3º
+
+As parcelas vincendas serão atualizadas mensalmente pelo mesmo índice IPCA e juros compostos de 0,50 % ao mês, acumulados desde a data de consolidação do montante devido no termo de acordo de parcelamento até o mês de pagamento.
+
+
+§ 4º
+
+Na hipótese de atraso no pagamento de qualquer parcela, está será atualizada pelo mesmo índice e juros estabelecidos previsto no § 3°, mais multa de 1% (um por cento), acumulado desde a data de vencimento da parcela até mês do pagamento.
+
+
+Art. 6º.
+
+Esta lei entra em vigor na data de sua publicação.
+
+
+Prefeitura Municipal de Birigui, aos vinte e um de julho de dois mil e vinte.
+
+**CRISTIANO SALMEIRÃO Prefeito Municipall**
+
+**FABIO VIEIRA PINTO Secretário Municipal de Planejamento e Finanças**
+
+Publicada na Divisão de Atos Oficiais e Expediente da Secretaria Municipal de Governo da Prefeitura Municipal de Birigui, aos vinte e um de julho de dois mil e vinte, por afixação no local de costume.
+
+**CAIQUE MANTOVANI DA ROCHA Chefe da Divisão de Atos Oficiais e Expediente**
+

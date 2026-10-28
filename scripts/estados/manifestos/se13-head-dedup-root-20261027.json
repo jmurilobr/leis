@@ -1,0 +1,9 @@
+{
+  "HEAD": "c482863d23dcc99bd205fc6b7bf860532ec6aa03",
+  "cabecalhos_HEAD": 9955,
+  "candidatos": 13,
+  "colisoes": [],
+  "cache": "estaduais/SE/_fonte/auditorias/se13-head-root-20261027.jsonl.gz",
+  "sha256_cache": "bbb8cf294ed8a749627e59df91a550b1f516bc92d71997ed05c8dcdf9f900db8",
+  "criterio": "Blobs canonicos SE lidos integralmente porOID,sem usar workingtree. Cruzamento de IDs no namespace ALESE e tipo/pasta/numero/ano,normalizando somente separadores e sufixo de ano; fontes e titulos nao inferidos de CSV deslocado. Destinos ausentes noHEAD e no disco;nenhuma promocao."
+}

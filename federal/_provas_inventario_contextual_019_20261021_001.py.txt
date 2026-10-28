@@ -1,0 +1,14 @@
+import sys,json,re,unicodedata,hashlib,gzip,collections
+from pathlib import Path
+sys.path.insert(0,'scripts');from estados.pe_fidelidade_visivel import texto_visivel_html
+sha=lambda b:hashlib.sha256(b).hexdigest();plans=json.load(open('/tmp/federal20261021-cumulativos019-preparo.json'));renders={r['path']:r for r in json.load(open('/tmp/federal20261021-cumulativos019-render-output.json'))['registros']};out=[]
+for plan in plans:
+ for r in plan['publicaveis']:
+  text=texto_visivel_html(renders[r['path']]['html']);norm=''.join(c for c in unicodedata.normalize('NFD',text) if not unicodedata.combining(c));matches=list(re.finditer(r'(?i)\bilegivel\b|\bdesenhos?\b[^.;]{0,80}?\banex[oa]s?\b',norm))
+  if not matches:continue
+  arts=list(re.finditer(r'(?i)\bart\.?\s*(?:\d+[º°o]?|unico)\s*[-.–:]?',norm));oc=[]
+  for m in matches:
+   before=[a for a in arts if a.start()<=m.start()];start=before[-1].start() if before else max(0,m.start()-350);after=[a for a in arts if a.start()>m.end()];end=after[0].start() if after else len(text)
+   oc.append({'literal':text[m.start():m.end()],'posicao':m.start(),'artigo_ou_contexto_integral':text[start:end],'inicio_contexto':start,'fim_contexto':end,'rotulo_artigo':before[-1].group() if before else None})
+  raw=Path(r.get('candidato_promocao',r['path'])).read_bytes();assert sha(raw)==r['sha256'];out.append({'path':r['path'],'lote':plan['lote'],'sha256_md_final':r['sha256'],'arquivo_final':r.get('candidato_promocao',r['path']),'sha256_fonte_html':r['sha256_fonte_html'],'ocorrencias':oc})
+B=Path('federal');p=B/'_inventario_contextual_ilegivel_desenhos_019_20261021_001.json';assert not p.exists();p.write_text(json.dumps({'escopo':'Inventário lexical contextual dos 1.794 corpos finais propostos, sem alteração, máscara ou decisão automática de integralidade. Exclui notas YAML; usa HTML efetivamente renderizado.','busca':'ilegível/ilegivel e desenho(s) seguido de anexo(s)/anexa(s), até 80 caracteres sem ponto ou ponto e vírgula. Cada ocorrência traz o artigo inteiro entre marcadores Art. reconhecidos; cabeçalhos sem artigo trazem contexto até o próximo artigo.','resumo':{'corpos_pesquisados':1794,'normas_com_ocorrencias':len(out),'ocorrencias':sum(len(r['ocorrencias']) for r in out)},'registros':out,'limite':'Inventário para triagem ROOT; palavras podem ser comandos legítimos ou remissões a outro regulamento. Não determina ausência em outra edição.'},ensure_ascii=False,indent=2)+'\n');q=B/'_provas_inventario_contextual_019_20261021_001.py.txt';q.write_bytes(Path(__file__).read_bytes());paths=[str(p),str(q)];Path('/tmp/federal20261021-inventario-contextual019-001-paths.txt').write_text('\n'.join(paths)+'\n');Path('/tmp/federal20261021-inventario-contextual019-001-hashes.json').write_text(json.dumps([{'path':x,'sha256':sha(Path(x).read_bytes())} for x in paths],indent=2)+'\n');print('normas',len(out),'ocorrencias',sum(len(r['ocorrencias']) for r in out));print('\n'.join(r['path'] for r in out))

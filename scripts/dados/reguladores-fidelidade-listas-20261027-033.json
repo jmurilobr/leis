@@ -1,0 +1,235 @@
+{
+  "criterio": "Revisão contextual apenas dos alertas anteriores: contadores efetivos de ol/start/li associados à AST e ao delimitador manual, sem copiar número da fonte. Preserva pontuação e sinais; divergências remanescentes continuam retidas. Listas nativas da fonte não recebem materialização automática.",
+  "engine": "markdown-it-py 4.0.0",
+  "script_sha256": "63b916abe1e6c687db373e67610a4ea584fb04e3c2029873da8c84c91b77ee72",
+  "helper_sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+  "contagens": {
+    "revisar": 7
+  },
+  "documentos": [
+    {
+      "path": "reguladores/tcu/portarias/2018/portaria-n-18-de-13-de-abril-de-2018-10816839.md",
+      "sha256_md": "3dcb73ecb1f472446ae0b945d5d133deafb5a21c137f06b997941eb2b6081c02",
+      "sha256_fonte": "01cabca357dc59d5ebb5173dd02866fe41b399dd05819df820797c637f1edcd5",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "d53b967c7a1451a9d9c791b87e39a6935b9f95ec279f2740afc4470aa347a0ba",
+      "sha256_visivel_md": "6d9f62ddfb3c5defb6483c71c92f4b095409ae5c5b941306dcfd4f320073d5ce",
+      "primeira_diferenca": {
+        "posicao": 323,
+        "fonte": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea\"d\", da Portaria-TCU nº 1, de 2 de janeiro de 2017, e considerando as informações constantes do processo nº TC -011.554/2018-5, resolve: Art. 1º Fica autorizada",
+        "md": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea*\"d\"*, da Portaria-TCU nº 1, de 2 de janeiro de 2017, e considerando as informações constantes do processo nº TC -011.554/2018-5, resolve: Art. 1º Fica autoriza"
+      }
+    },
+    {
+      "path": "reguladores/tcu/portarias/2018/portaria-n-21-de-18-de-abril-de-2018-11253138.md",
+      "sha256_md": "61415feafe568439b52eb4e74ec673f929422d01108675fbd0dd6f9537b2c1d3",
+      "sha256_fonte": "dbd773ca2d2f1b5319db32448e9efe8c976d705d13ff1f7e2bbd878cceb91ac4",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "a6ffd13a0bce4a700991c6274ca58d5e798c31a26cc16f7302d54c9ece66c6e3",
+      "sha256_visivel_md": "8f552abba2137c812b4713dacec660f7fa15342e41810b9802dc8514c374126c",
+      "primeira_diferenca": {
+        "posicao": 323,
+        "fonte": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea\"d\", da Portaria-TCU nº 1, de 2 de janeiro de 2017, e considerando as informações constantes do processo nº TC-011.554/2018-5, resolve: Art. 1º Fica autorizada,",
+        "md": "A UNIÃO, no uso da competência que lhe é delegada pelo art. 1º, inciso I, alínea*\"d\"*, da Portaria-TCU nº 1, de 2 de janeiro de 2017, e considerando as informações constantes do processo nº TC-011.554/2018-5, resolve: Art. 1º Fica autorizad"
+      }
+    },
+    {
+      "path": "reguladores/cns/resolucoes/2018/resolucao-n-590-de-13-de-julho-de-2018-34730731.md",
+      "sha256_md": "51d10c5fe2aaaeec1af72a0b3efe08338d059db12174919061b12e57e033f780",
+      "sha256_fonte": "414ac85fb273cc6ac84549f4b87556c511117fa78ce0de828f97ba9700b51f9b",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "ANEXO I — REGIMENTO ELEITORAL PARA O MANDATO DO TRIÊNIO 2018/2021",
+          "fonte": "ANEXO I REGIMENTO ELEITORAL PARA O MANDATO DO TRIÊNIO 2018/2021",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO I — DOS OBJETIVOS",
+          "fonte": "CAPÍTULO I DOS OBJETIVOS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DA COMISSÃO ELEITORAL",
+          "fonte": "CAPÍTULO II DA COMISSÃO ELEITORAL",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO III — DAS VAGAS E DA COMPOSIÇÃO",
+          "fonte": "CAPÍTULO III DAS VAGAS E DA COMPOSIÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DAS INSCRIÇÕES",
+          "fonte": "CAPÍTULO IV DAS INSCRIÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DA DOCUMENTAÇÃO",
+          "fonte": "CAPÍTULO V DA DOCUMENTAÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DAS DILIGÊNCIAS",
+          "fonte": "CAPÍTULO VI DAS DILIGÊNCIAS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VI — DA HOMOLOGAÇÃO DAS INSCRIÇÕES",
+          "fonte": "CAPÍTULO VI DA HOMOLOGAÇÃO DAS INSCRIÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VII — DA ELEIÇÃO",
+          "fonte": "CAPÍTULO VII DA ELEIÇÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO VIII — DA APURAÇÃO, DOS RECURSOS E DAS IMPUGNAÇÕES",
+          "fonte": "CAPÍTULO VIII DA APURAÇÃO, DOS RECURSOS E DAS IMPUGNAÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IX — DAS DISPOSIÇÕES GERAIS",
+          "fonte": "CAPÍTULO IX DAS DISPOSIÇÕES GERAIS",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "ANEXO II — Calendário Eleitoral do Conselho Nacional de Saúde - Eleições para o mandato 2018-2021",
+          "fonte": "ANEXO II Calendário Eleitoral do Conselho Nacional de Saúde - Eleições para o mandato 2018-2021",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "ed2917824365d2b9718bf9ffcd910b52f427b2223d68c38c53d2d075624eb043",
+      "sha256_visivel_md": "7b0f1d00b451109f4ec52a8ebe5584dedacf93caf2ccf9c3a40fba0ec676759b",
+      "primeira_diferenca": {
+        "posicao": 27473,
+        "fonte": "ário Eleitoral do Conselho Nacional de Saúde - Eleições para o mandato 2018-2021* JULHO Pleno do CNS - 13 de julho de 2018 Aprovação do Regimento Eleitoral para o triênio 2018/2021, do Calendário Eleitoral e da Comissão Eleitoral Secretaria",
+        "md": "ário Eleitoral do Conselho Nacional de Saúde - Eleições para o mandato 2018-2021 JULHO Pleno do CNS - 13 de julho de 2018 Aprovação do Regimento Eleitoral para o triênio 2018/2021, do Calendário Eleitoral e da Comissão Eleitoral Secretaria "
+      }
+    },
+    {
+      "path": "reguladores/agu/portarias/2018/portaria-n-125-de-8-de-maio-de-2018-13546416.md",
+      "sha256_md": "eff12f3801a5f9eb7835187bd65e6becbf454a8d0876135dbb7c618ebe3c97f4",
+      "sha256_fonte": "ae3222eee34b78f3206360fc9f1d727ae3e5aef9c4bad79118a2781bb1a1f581",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [
+        {
+          "markdown": "CAPÍTULO I — DAS DISPOSIÇÕES PRELIMINARES",
+          "fonte": "CAPÍTULO I DAS DISPOSIÇÕES PRELIMINARES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO II — DAS DEFINIÇÕES",
+          "fonte": "CAPÍTULO II DAS DEFINIÇÕES",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Dos Objetivos da Política",
+          "fonte": "Seção I Dos Objetivos da Política",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Das Diretrizes da Política",
+          "fonte": "Seção II Das Diretrizes da Política",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Da Estruturação da Política",
+          "fonte": "Seção III Da Estruturação da Política",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO IV — DO PROGRAMA AGU INCLUSÃO",
+          "fonte": "CAPÍTULO IV DO PROGRAMA AGU INCLUSÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "CAPÍTULO V — DAS INSTÂNCIAS DE GOVERNANÇA E DE GESTÃO",
+          "fonte": "CAPÍTULO V DAS INSTÂNCIAS DE GOVERNANÇA E DE GESTÃO",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção I — Do Comitê de Governança da Advocacia-Geral da União",
+          "fonte": "Seção I Do Comitê de Governança da Advocacia-Geral da União",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção II — Da Comissão Técnica do Comitê de Governança da Advocacia-Geral da União",
+          "fonte": "Seção II Da Comissão Técnica do Comitê de Governança da Advocacia-Geral da União",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        },
+        {
+          "markdown": "Seção III — Do Núcleo de Governança em Acessibilidade e Comissões Temáticas",
+          "fonte": "Seção III Do Núcleo de Governança em Acessibilidade e Comissões Temáticas",
+          "prova": "Prefixo e título literalmente adjacentes na fonte. Separador editorial inserido pela regra explícita HEADINGS de html2md, sem alteração de palavras/números."
+        }
+      ],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "27a4d65b979090c31b02f0f5d524fb220f13d8d363806b9cc9a5b3f2f930f585",
+      "sha256_visivel_md": "43c8418f19a4797d4531bf0f20f885d484f430eb4a1332962acd8d22119d2d7c",
+      "primeira_diferenca": {
+        "posicao": 185,
+        "fonte": "ncia ou com Mobilidade Reduzida nas unidades da Advocacia-Geral da União - AGU. A ADVOGADA-GERAL DA UNIÃO,no uso das atribuições que lhe conferem os incisos I e XVIII do artigo 4º da Lei Complementar nº 73, de 10 de fevereiro de 1993, e con",
+        "md": "ncia ou com Mobilidade Reduzida nas unidades da Advocacia-Geral da União - AGU. **A ADVOGADA-GERAL DA UNIÃO,**no uso das atribuições que lhe conferem os incisos I e XVIII do artigo 4º da Lei Complementar nº 73, de 10 de fevereiro de 1993, e"
+      }
+    },
+    {
+      "path": "reguladores/agu/portarias/2018/portaria-n-20-de-7-de-junho-de-2018-21029137.md",
+      "sha256_md": "169af5360ce01ffea5724f28c96ff5e66c5d38c5100a3a4035a269452051ecb2",
+      "sha256_fonte": "96275e5c24fea1d8248e268d9c491ddc0d5bd76973563d36a15c82be2e125f6e",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "98c131049c9f0fb77bd0dcf5d510655deb6e68e4d1b52c00e985545cdcc6971f",
+      "sha256_visivel_md": "446c35e7c17f220c5a0091de0d0af3b9fa8f5f76cd99cbac4a8cf04a74d15264",
+      "primeira_diferenca": {
+        "posicao": 1539,
+        "fonte": "raordinário da Segurança Pública. Parágrafo único. Nas atividades de que trata ocaput,os processos administrativos serão encaminhados diretamente à Conjur-MESP e tramitados via protocolo no Sistema AGU de Inteligência Jurídica (SAPIENS), pa",
+        "md": "raordinário da Segurança Pública. Parágrafo único. Nas atividades de que trata o**caput,**os processos administrativos serão encaminhados diretamente à Conjur-MESP e tramitados via protocolo no Sistema AGU de Inteligência Jurídica (SAPIENS)"
+      }
+    },
+    {
+      "path": "reguladores/agu/portarias/2018/portaria-n-331-de-10-de-maio-de-2018-13969403.md",
+      "sha256_md": "1c3e2f75e08dfada32ce6491ec3fca72b2ab3f0edf2739a9982123f103274aa4",
+      "sha256_fonte": "25a5e4bcf10f0468270d2484245077e206a21fdc25fc5d69a5d47283a75cc3c0",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "5fac55cad50cef81aa9fd1c714fdb4b707f84e8c4188d450efd488c666537f5e",
+      "sha256_visivel_md": "6956c7b4474588a51596262b881fecb5de3f590ee07c27d2d2fab08a8532b69e",
+      "primeira_diferenca": {
+        "posicao": 39,
+        "fonte": "PORTARIA Nº 331, DE 10 DE MAIO DE 2018 O PROCURADOR-GERAL FEDERAL,no uso das atribuições que lhe conferem os incisos I e VIII do § 2º do art. 11 da Lei nº 10.480, de 2 de julho de 2002, e considerand",
+        "md": "PORTARIA Nº 331, DE 10 DE MAIO DE 2018 **O PROCURADOR-GERAL FEDERAL,**no uso das atribuições que lhe conferem os incisos I e VIII do § 2º do art. 11 da Lei nº 10.480, de 2 de julho de 2002, e conside"
+      }
+    },
+    {
+      "path": "reguladores/agu/portarias/2018/portaria-n-581-de-22-de-agosto-de-2018-38171239.md",
+      "sha256_md": "63740df522446cb4d62035d4e2b9c80d7b2d2a777cb75afdf1cc9986b85037a9",
+      "sha256_fonte": "7d749442a8c80bee832a1395d8e7b026ad42f7b735440d2be72ad8368f5b2edb",
+      "igual_fonte": false,
+      "assinatura_numerica_igual": true,
+      "headings_comprovados": [],
+      "contadores_efetivos": [],
+      "sha256_visivel_fonte": "c0672fd58ae59c0ba510532b8d2b20517cc04876d8688848900326ae7089c652",
+      "sha256_visivel_md": "c2a9b5a3ede66d45348bf2356715b475e47ae154e843b179955206f0670d539c",
+      "primeira_diferenca": {
+        "posicao": 98,
+        "fonte": "E 22 DE AGOSTO DE 2018 Altera a Portaria PGF nº 720, de 14 de setembro de 2007. O PROCURADOR-GERAL FEDERAL,no uso da competência de que tratam os incisos I, IV, V, VII e VIII do § 2º do art. 11 da Lei nº 10.480, de 2 de julho de 2002, e con",
+        "md": "E 22 DE AGOSTO DE 2018 Altera a Portaria PGF nº 720, de 14 de setembro de 2007. **O PROCURADOR-GERAL FEDERAL,**no uso da competência de que tratam os incisos I, IV, V, VII e VIII do § 2º do art. 11 da Lei nº 10.480, de 2 de julho de 2002, e"
+      }
+    }
+  ]
+}

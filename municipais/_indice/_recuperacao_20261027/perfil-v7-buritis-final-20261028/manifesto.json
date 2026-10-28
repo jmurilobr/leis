@@ -1,0 +1,681 @@
+{
+  "perfil": "privado sucessor 7",
+  "reparos_privados": 1,
+  "promovidos": 0,
+  "canonicos_reais_alterados": 0,
+  "sha256_preimagem": "407f89d8c476b79487840a744769d63589d08d3968039c8ae8b9756446f470ba",
+  "sha256_candidato": "117f2342d9af090cc68bf8fb573f0679b9b60b774ea125c35756adbcd261fc51",
+  "mapa_candidato": "municipais/_indice/_recuperacao_20261027/buritis8-tachados-reparo-privado-v2-20261027/mapa-candidato.json",
+  "teste_total": 16,
+  "compatibilidade_replay": 4734,
+  "baseline_commit": "8bc6b546e804300218d793923005b19084f4c7c8",
+  "baseline_total": 32360,
+  "colisoes": 0,
+  "arquivos": [
+    {
+      "arquivo": "federal/_fonte/auditorias/diagnostico_glifos1347_20261027_002/diagnosticar.py",
+      "sha256": "beadf267d897ef287c7525935f833c73d8b7337a58db27b6fc43a0f5cc62a4e2",
+      "bytes": 14831
+    },
+    {
+      "arquivo": "federal/_fonte/auditorias/diagnostico_glifos1347_20261027_002/testar_analisador.py",
+      "sha256": "328ce1435e04b312e1bd70e3034fbe0c03773b8ce61a85ad192501d1601b4e6f",
+      "bytes": 3532
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/0d5ed88fa5f4964f90af9947d83dfdcb25abd608a077880db9b35586ad22cda1.json",
+      "sha256": "89991057fd0be5431b21e816bb13f30e0b4b66e06e5b810e7d1b580cae7675eb",
+      "bytes": 706
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/0d5ed88fa5f4964f90af9947d83dfdcb25abd608a077880db9b35586ad22cda1.meta.json",
+      "sha256": "958ec4822c6d8b941bc349bb04c47fa724e583d45b3f5236a856a7a275db3e18",
+      "bytes": 351
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/87f0f267c1c3729479c9be2f9da524b1b751c04c6312880bb99ef50f4e115b9e.json",
+      "sha256": "6a7b4ba58039638bf9a08a61cc95798602c7fa5e94b2781e5c4433b6d37a9933",
+      "bytes": 32444
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/87f0f267c1c3729479c9be2f9da524b1b751c04c6312880bb99ef50f4e115b9e.meta.json",
+      "sha256": "2e9ba6e7e16d8d9b59161c1c0faa4b130148ad3f74251ca4e7c8a6a6b4866aac",
+      "bytes": 403
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/bac04d6234b8f858cd9e93be4c9d99385d1bc2fe94e6a3b33eb28f44d19e188c.html",
+      "sha256": "e23eecbbc9dff449c9206caadfee308aafec70b8504c08b31304fbbd3d71b78d",
+      "bytes": 21092
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/bac04d6234b8f858cd9e93be4c9d99385d1bc2fe94e6a3b33eb28f44d19e188c.meta.json",
+      "sha256": "62550dac10ef3b1ddb3167fd73205e085fc18bb225455524c3d2ee1de30fcebf",
+      "bytes": 332
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/da9e30b80ec70cd110ebc71985ee0d3eff1f9198dc71806bdca61123609664f0.json",
+      "sha256": "1db7514393f63b4a1154d26be5c523fa31c46ac0d1a9276a42901711dfd7cef4",
+      "bytes": 868
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/da9e30b80ec70cd110ebc71985ee0d3eff1f9198dc71806bdca61123609664f0.meta.json",
+      "sha256": "9a19fcdf12efd62e70f7b4ffa0f6a58b47096db29524e646c9fae2aa9aa4545c",
+      "bytes": 357
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/e95e782a015363d856a8daff2641cb6c2a4d9ab9aee67ff414bf3be95cc802ca.json",
+      "sha256": "767205bbca076f1a322efc6b2705b1b66927f602d873e4038e6c81915bb2108e",
+      "bytes": 57258
+    },
+    {
+      "arquivo": "municipais/_fonte/texto-articulado-sapl/sapl.buritis.mg.leg.br/e95e782a015363d856a8daff2641cb6c2a4d9ab9aee67ff414bf3be95cc802ca.meta.json",
+      "sha256": "aacd288c4cd317ada54ec4ee518d5827d44938a6f64068794cf9586a23735547",
+      "bytes": 409
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+      "sha256": "9650eb0ed7329c0e1f3ef36b385b2aecda04a45044f5c96c6162e7d1ce973f44",
+      "bytes": 5411419
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/agregado586-validado-final/entrega-final.json",
+      "sha256": "a31301fc0545cb75c631b1b2fa6420aef41bb321e8fc55be83ff5254e59d7d82",
+      "bytes": 1110613
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/agregado921-validado-final/entrega-final.json",
+      "sha256": "ca0edb15cf2054c845ad5413dc6677a377aa9ba76260b1f7afa5187d9e642ae0",
+      "bytes": 1648625
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/baseline-head-buritis-preservado/ls-tree-municipais.z",
+      "sha256": "1dbef1dc6d861a33b740c9c47551c0eaa4fc3cf6ca2318adacb042ae3987576b",
+      "bytes": 17398030
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/baseline-head-buritis-preservado/manifesto.json",
+      "sha256": "6a014670005950535e66279111b70c4fe1a74e89f71e01b86078e32faeddf486",
+      "bytes": 2656
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/baseline-head-buritis-preservado/metadados-integrais.jsonl.gz",
+      "sha256": "22108a8de0a74fac16a0523701a31e3540a5bef29b940a7a2c99a02aead42421",
+      "bytes": 9629382
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/baseline-head-buritis-preservado/normas.paths.txt",
+      "sha256": "c8eb1635fe64d2d95b541e33eca36c75bf83f34518285678e3504133392293ad",
+      "bytes": 2606715
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/buritis8-alvo-preimagem.paths.txt",
+      "sha256": "b46597ec56aefef3861d21ed53c32d299d0a8b16778b4ecac701ad9e08422a44",
+      "bytes": 78
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/buritis8-confronto-head-preservado.json",
+      "sha256": "9cf995b19f2a2e6a3316657a0e0b41fddbb9829e53de720b3d0e0c740af36d73",
+      "bytes": 1230
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/buritis8-revalidacao-alteracao-exata.json",
+      "sha256": "1b7b73dd9c027d7856bf62fbfe3b56dd7d2aa3dc0dab95cc4f07e65c142cf883",
+      "bytes": 942
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/buritis8-tachados-reparo-privado-20261027/candidato.txt",
+      "sha256": "117f2342d9af090cc68bf8fb573f0679b9b60b774ea125c35756adbcd261fc51",
+      "bytes": 2162
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/buritis8-tachados-reparo-privado-20261027/mapa-candidato.json",
+      "sha256": "6cbe30db39500a58264c69ed4a336cce15dc956cc28e728f25ea4018c27fde94",
+      "bytes": 7116
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/buritis8-tachados-reparo-privado-20261027/preimagem.txt",
+      "sha256": "407f89d8c476b79487840a744769d63589d08d3968039c8ae8b9756446f470ba",
+      "bytes": 2279
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/buritis8-tachados-reparo-privado-v2-20261027/candidato.txt",
+      "sha256": "117f2342d9af090cc68bf8fb573f0679b9b60b774ea125c35756adbcd261fc51",
+      "bytes": 2162
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/buritis8-tachados-reparo-privado-v2-20261027/mapa-candidato.json",
+      "sha256": "c30108bcd382eadbaa82c8d8d92e2656854d31dd37cebc2f35a292ad7832f575",
+      "bytes": 7175
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/buritis8-tachados-reparo-privado-v2-20261027/preimagem.txt",
+      "sha256": "407f89d8c476b79487840a744769d63589d08d3968039c8ae8b9756446f470ba",
+      "bytes": 2279
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/buritis8-1971-fonte.html",
+      "sha256": "e23eecbbc9dff449c9206caadfee308aafec70b8504c08b31304fbbd3d71b78d",
+      "bytes": 21092
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/css-glifos-ta4735-20261027/manifesto.json",
+      "sha256": "d13d4c68f5291b658e9d83f0ec3db19fd7eda4b191f52038f01afe4e3aefe160",
+      "bytes": 17508
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0015/resultados.jsonl",
+      "sha256": "27a69317ef9cf93fb11eaf0bda63267183a6c1a44c2d28cdc8d1550564ec7bc7",
+      "bytes": 8054158
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0015/sapl.buritis.mg.leg.br.anexos.json",
+      "sha256": "d275423195b89a84ca33d2d7a094311ae554438b84f7d87342a8bd73f800aa4e",
+      "bytes": 38169
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-gates-0015/sapl.buritis.mg.leg.br.tipos.json",
+      "sha256": "fe89ffb15dfdf83609e4f3e72ba640f66f2a932fc5497d33140841dc5588c00b",
+      "bytes": 1423
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/lotes/ta-materializados-0015-v5/resultados.jsonl",
+      "sha256": "890a919f8ee996aac5384e4e9e6f85792c0aa6f86ebd6da3096d712f26b8dbee",
+      "bytes": 5417172
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/PROTOCOLO.txt",
+      "sha256": "6938c9e33331f3d60dbed7a0c6137634ea30bea706c780100ee0e0900a1308a8",
+      "bytes": 1656
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/TESTAR.txt",
+      "sha256": "842c28ffce6e26599652f8cc698f184a99061905d643c16d813941232eb1c8fd",
+      "bytes": 719
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/artefatos.paths.txt",
+      "sha256": "4c5aabe086d3e02728a2e7c76141b72f6eea6658599b9216f06280214a11d08e",
+      "bytes": 8362
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/buritis-renderizado.html",
+      "sha256": "e964e5620f97d83e219634e46da3c7b08726812dfabe30b88fc80598a3d222b3",
+      "bytes": 1304
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/perfil-v7-buritis-final-20261028/codigo-perfil-v7.paths.txt",
+      "sha256": "add6df9adebf3875411594e03b1aafc717c072c0c2fd9737be3e3ec9965db87e",
+      "bytes": 3453
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/perfil-v7-help-verificado.json",
+      "sha256": "475b0fd6e51cbcaef70dded5bac77fd5c5ad746fbc9eeb81e607448de37dede6",
+      "bytes": 499
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/perfil-v7-provas-finais/buritis-replay-final.json",
+      "sha256": "78caba6c5bc3bd99c6fed4a56390cfa7ce355df31110fc4427ee208a1939eb0b",
+      "bytes": 2657
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/perfil-v7-provas-finais/replay3227.json",
+      "sha256": "1dbabf0aeb556da08ceee119fd196c591b6341d1cf793547f16e1611a6db696d",
+      "bytes": 6501723
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/perfil-v7-provas-finais/replay586.json",
+      "sha256": "9389ed78226dff608538930ebae9203c45290f10e3745cd4a1c41543885ba086",
+      "bytes": 1374366
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/perfil-v7-provas-finais/replay921.json",
+      "sha256": "f4789358d3d98e71034a2bea94c04fed16c9a3de208e1a1837b559b1dd4a4822",
+      "bytes": 2577840
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/perfil-v7-provas-finais/test_materializador_ta_v7_privado_20261027.py.log",
+      "sha256": "e16105b0bd9d41a94c8e8ac038b701a8078055aff3e9e652128b594c913b6218",
+      "bytes": 4414
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/perfil-v7-provas-finais/test_perfil_ta_tachados_preservados_20261027.py.log",
+      "sha256": "0fe5cb662bfff14a9884376c5dc9b13021e73aa15d1c18bc3ecfc2226a9f364f",
+      "bytes": 112
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/perfil-v7-provas-finais/testes.json",
+      "sha256": "e6b1c1524b1132b900ed6166eecf0e9b4f102a313df2741a5aa5d096fd4addb3",
+      "bytes": 898
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/perfil-v7-testes-fechamento-20261028/test_materializador_ta_v7_privado_20261027.py.log",
+      "sha256": "f5cec49cc3e37e22a3d856c07feccaa96edc62cdd606994fd27055ebc7d59ecd",
+      "bytes": 4414
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/perfil-v7-testes-fechamento-20261028/test_perfil_ta_tachados_preservados_20261027.py.log",
+      "sha256": "88938a4e6dacae447005887560cdc1b05b801080fbba3f2f9f3b92c87e74d7b0",
+      "bytes": 113
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/perfil-v7-testes-fechamento-20261028/testes.json",
+      "sha256": "4bf2b5400f6a4b2fb47eb9ed34759dec4ab1ee2530dcae475f3e6729cbf21b89",
+      "bytes": 805
+    },
+    {
+      "arquivo": "municipais/_lotes/20261021-textos-articulados-fila-sigi/sapl.buritis.mg.leg.br/candidatos/787-1109.txt",
+      "sha256": "cf65d50a0aebf6314659d65a9caaa8aa23baa109a850bdcf45ed1b579a7db52c",
+      "bytes": 1242
+    },
+    {
+      "arquivo": "scripts/auditar.py",
+      "sha256": "a49009efb2d02a3059bf5cbaddc39529c24e2630e377f46cf419c765033ca648",
+      "bytes": 6096
+    },
+    {
+      "arquivo": "scripts/auditar_anexos_sapl.py",
+      "sha256": "9ade983595c7cd4e7a3ec52b15ab460dcf75ec853dd2b309870645458d75f362",
+      "bytes": 7986
+    },
+    {
+      "arquivo": "scripts/auditar_colisoes_lote_municipal.py",
+      "sha256": "9a2352f632d8255cfae6f0317caf62a77b84b41a548e4112fe7ae971ac3a434c",
+      "bytes": 3135
+    },
+    {
+      "arquivo": "scripts/auditar_commonmark_ta.py",
+      "sha256": "7867057e17ae91c547b30da336caa064b5d444d593c546e7091bbbf95c2820bf",
+      "bytes": 8927
+    },
+    {
+      "arquivo": "scripts/auditar_commonmark_ta_v2.py",
+      "sha256": "c2a5ba63f7310a439503707bcaac10e4a4d904f40a29e4e0026eb33a73458974",
+      "bytes": 10158
+    },
+    {
+      "arquivo": "scripts/auditar_commonmark_ta_v3_privado_20261027.py",
+      "sha256": "9c07d8d260f02d0f8f7bc8df014ec27716283c45ff5a87e69f9a2fba0d9f21e4",
+      "bytes": 1947
+    },
+    {
+      "arquivo": "scripts/auditar_contexto_completo_ta.py",
+      "sha256": "f44151983d56fd8ff3380b5ad14ad8557215b895048d6405e7563b21b6a3b066",
+      "bytes": 4689
+    },
+    {
+      "arquivo": "scripts/auditar_emissores_sapl.py",
+      "sha256": "1749efcc1a6334b652716841d89cec2170eabaa580b23937b4a83a5ea74af023",
+      "bytes": 2856
+    },
+    {
+      "arquivo": "scripts/auditar_epigrafes_literais_sapl.py",
+      "sha256": "f05f5647f7345c49539ea746f912935729c62e7fb09ae06cd5b6a77b9bcc216c",
+      "bytes": 4690
+    },
+    {
+      "arquivo": "scripts/auditar_jurisdicao_ta.py",
+      "sha256": "2eeaa4c3704a0a720f4c6ecc157406c9062522a8c8817066d60ac60573aaf9bd",
+      "bytes": 2583
+    },
+    {
+      "arquivo": "scripts/auditar_municipal.py",
+      "sha256": "817f196f53162076bac125fb7c509e9ba6d9479e9aa6918ae5428822dec43ac8",
+      "bytes": 8443
+    },
+    {
+      "arquivo": "scripts/auditar_textos_articulados_sapl.py",
+      "sha256": "f252f6495f44b5abe768f169f079c44241ff9dd7919d7ff02640f1ec75945602",
+      "bytes": 8176
+    },
+    {
+      "arquivo": "scripts/auditar_textos_articulados_sapl_v3.py",
+      "sha256": "1b93f353c686aecdc8674eae482a92e84a09be209fb34afc41c53bef53ffbe3d",
+      "bytes": 9614
+    },
+    {
+      "arquivo": "scripts/auditar_textos_articulados_sapl_v4.py",
+      "sha256": "9de96c922a8f16e9168759bce1d87d72a61b963dd962290b3c05d8dec3c5dead",
+      "bytes": 9993
+    },
+    {
+      "arquivo": "scripts/baixar_organicas_sapl.py",
+      "sha256": "148df658e432b0eea050a1444c09854123732796c689267f7094a1f88db7d682",
+      "bytes": 21700
+    },
+    {
+      "arquivo": "scripts/baixar_textos_articulados_indice_coerente_20261027.py",
+      "sha256": "ab3a0692e071e0c325271da6dd2b3d74bca26cd365c3c5491b86f3847a1fc6cc",
+      "bytes": 16626
+    },
+    {
+      "arquivo": "scripts/baixar_textos_articulados_sapl.py",
+      "sha256": "7dd7c1978025f1180979fd5597f043e0484a634b3a33ea6a5e71fdaf81115e74",
+      "bytes": 13684
+    },
+    {
+      "arquivo": "scripts/baixar_textos_articulados_sapl_v2.py",
+      "sha256": "99e6f6bae8208eabd1e56f074e77fb1d60f8ad9667e745f04f35735d6aeabb55",
+      "bytes": 13875
+    },
+    {
+      "arquivo": "scripts/comparar_baseline_municipal_head_20261027.py",
+      "sha256": "6cf4eb7ef24c88aff11487039d766cd27be1f6f21d4a30fa7a93f4128f7b7ab2",
+      "bytes": 2948
+    },
+    {
+      "arquivo": "scripts/comum.py",
+      "sha256": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24",
+      "bytes": 19447
+    },
+    {
+      "arquivo": "scripts/conferir_tabelas_nativas_ta.py",
+      "sha256": "606b9e1fa70dfd8010af6837b8ee03274511c8cff7dd2b09da4b4037dcb0660f",
+      "bytes": 4532
+    },
+    {
+      "arquivo": "scripts/congelar_baseline_municipal_head_20261027.py",
+      "sha256": "191f21e4b21378dd1abaa6609328adf379c8e8c1831ae49b78d231d842a317bf",
+      "bytes": 6132
+    },
+    {
+      "arquivo": "scripts/congelar_indice_ta_coerente.py",
+      "sha256": "57d074f669117a8c72634ed8cf27e591c7347e0d4ae227933ea07053cbb25b91",
+      "bytes": 5863
+    },
+    {
+      "arquivo": "scripts/converter_organica_fortaleza.py",
+      "sha256": "84784009dbf676e8a912dad5954da4cfb8385dc897702b02043c3bbf55a6175d",
+      "bytes": 6998
+    },
+    {
+      "arquivo": "scripts/diagnosticar_css_glifos_ta_20261027.py",
+      "sha256": "9eccd6f12755049fe6d744a9360be87ce6c5666818ee13cc4ce6c106f52d1e83",
+      "bytes": 7966
+    },
+    {
+      "arquivo": "scripts/empacotar_lote_ta_v2.py",
+      "sha256": "1878f6c5a3d45e526309eb65afc9316f147fb66d0818defbb1e5bbf40989191c",
+      "bytes": 6732
+    },
+    {
+      "arquivo": "scripts/empacotar_lote_ta_v3.py",
+      "sha256": "68fd0b139298cd9a6dbb20a518735da99c508866e9358a158ff1a5bc70e1cb11",
+      "bytes": 6915
+    },
+    {
+      "arquivo": "scripts/empacotar_lote_ta_v5_privado_20261027.py",
+      "sha256": "ea635a10192f9e07b6d5ce2a260a5d1ea17299763cc0101dd615102dda7b3cab",
+      "bytes": 7551
+    },
+    {
+      "arquivo": "scripts/epigrafe_tipo_literal_ta.py",
+      "sha256": "66b3592a85c46073c84fe8eecc5f390b39780075c7381ed896d4af27bf6d074c",
+      "bytes": 2556
+    },
+    {
+      "arquivo": "scripts/estados/pe_fidelidade_visivel.py",
+      "sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+      "bytes": 7551
+    },
+    {
+      "arquivo": "scripts/fila_textos_articulados_sapl.py",
+      "sha256": "fae2fcd8d7cd06b80af1583417e1c9d85eb9dce60d40775160dfe0215204c3dd",
+      "bytes": 8321
+    },
+    {
+      "arquivo": "scripts/granularidade_sapl.py",
+      "sha256": "d92d9b1d53240888103a2602046d11b510f2db9192afc4cdeea37db697dd1b87",
+      "bytes": 2972
+    },
+    {
+      "arquivo": "scripts/html2md.py",
+      "sha256": "6ad648a6a94c8d51d880a2d79c39f1abe751032d3355e468363e43ca83fdcdc6",
+      "bytes": 15168
+    },
+    {
+      "arquivo": "scripts/materializar_textos_articulados_sapl.py",
+      "sha256": "9e1d636d3befc3157501af0e53362eada604ecc08e364bc2508b8993b5429d6f",
+      "bytes": 9762
+    },
+    {
+      "arquivo": "scripts/materializar_textos_articulados_sapl_v2.py",
+      "sha256": "e3533e51cd02c9f58c76759520672c2fbbc297b189e05f4d161fddc822569b5d",
+      "bytes": 10540
+    },
+    {
+      "arquivo": "scripts/materializar_textos_articulados_sapl_v3.py",
+      "sha256": "823127e8103290674dda32a48b91d1c07c72331751765fec5db1206041ade713",
+      "bytes": 10598
+    },
+    {
+      "arquivo": "scripts/materializar_textos_articulados_sapl_v4.py",
+      "sha256": "3761528e4a24ba9fb8b5bf256f24a6791ca0728a68e9af390a3346b9b9722be1",
+      "bytes": 10660
+    },
+    {
+      "arquivo": "scripts/materializar_textos_articulados_sapl_v5.py",
+      "sha256": "cc15ede602c89faf6ec56a8e77b428f8fb4fa465a08f4ba5d5e04e389b9072d3",
+      "bytes": 12155
+    },
+    {
+      "arquivo": "scripts/materializar_textos_articulados_sapl_v6.py",
+      "sha256": "14f5a41709745b5d25c722173cc62f287f50e74491240bd07bc20b92a10986cd",
+      "bytes": 12445
+    },
+    {
+      "arquivo": "scripts/materializar_textos_articulados_sapl_v7_privado_20261027.py",
+      "sha256": "bfe854a8cf2bad3abb202741b8cd2f498ddc09df560ef015948cc8029f10c322",
+      "bytes": 14562
+    },
+    {
+      "arquivo": "scripts/perfil_ta_tachados_preservados_20261027.py",
+      "sha256": "37adb813cf376ac6ef4e024cbf4197319f8ae5a45c151157af6a39390170ff88",
+      "bytes": 7645
+    },
+    {
+      "arquivo": "scripts/preparar_cache_indice_ta_coerente_20261027.py",
+      "sha256": "a9b72faa7894dd3b8d3d19db17ef4a485b5f2764d877ee6f771b11ab42be1658",
+      "bytes": 2770
+    },
+    {
+      "arquivo": "scripts/preparar_reparo_buritis8_tachados_20261027.py",
+      "sha256": "efb33a830a37759924e6eff3e7fd117f5cb24ac27263a8ef68b2ae4538159cb1",
+      "bytes": 3203
+    },
+    {
+      "arquivo": "scripts/preparar_reparos_commonmark_ta6.py",
+      "sha256": "9189d5dbe33e6b88868bc6ff5c458cc4c4beebc38f777a0ce7dab7db0a3205b9",
+      "bytes": 6181
+    },
+    {
+      "arquivo": "scripts/qa_municipal_persistente_20261027.py",
+      "sha256": "dd89a2fefae6c7dce6b15aab655b819d512020ddc03165b1ce384f0c9e419140",
+      "bytes": 1068
+    },
+    {
+      "arquivo": "scripts/revalidar_buritis8_tachados_privado_20261028.py",
+      "sha256": "29108904decd8ae709fe08327cda099d80ebfc0274d412b51c4ddefb78ea722d",
+      "bytes": 4018
+    },
+    {
+      "arquivo": "scripts/selecionar_lote_ta.py",
+      "sha256": "4f9fef2ea112e555438b0a4a4b6eda008462c0c9c97fd1a07caadc68b489181a",
+      "bytes": 2770
+    },
+    {
+      "arquivo": "scripts/selecionar_lote_ta_v2.py",
+      "sha256": "ed1f0a1eaeda7c9c3f1271ecdbbae4634b92e070bb936d4d89f3e5d2ac57f520",
+      "bytes": 2989
+    },
+    {
+      "arquivo": "scripts/selecionar_recuperacao_identidade_ta.py",
+      "sha256": "267bcf939e8e1bb1bc4ecafd45e79187b51b0ca77ec168c3182851deacf9a166",
+      "bytes": 3693
+    },
+    {
+      "arquivo": "scripts/selecionar_recuperacao_tabelas_ta.py",
+      "sha256": "e885aa3df5a06284177898e2ae0af665e9c3f159933daf9b0d679c5ca5643d94",
+      "bytes": 3778
+    },
+    {
+      "arquivo": "scripts/test_baseline_municipal_head_20261027.py",
+      "sha256": "30250b10f743dacc98ede87d6df444d80c8411387ae8e3be7d68a6e0c2f89499",
+      "bytes": 4572
+    },
+    {
+      "arquivo": "scripts/test_colisoes_lote_municipal.py",
+      "sha256": "19ecbd08a458ba576e436d0e4ee07c06e412857763f60998d955cc0373f85830",
+      "bytes": 1242
+    },
+    {
+      "arquivo": "scripts/test_commonmark_ta.py",
+      "sha256": "32019a2b9a0a818cf19aa1ae8545c3d3c0f7d99c29e841958ca47466ff2e4100",
+      "bytes": 2294
+    },
+    {
+      "arquivo": "scripts/test_commonmark_ta_v2.py",
+      "sha256": "c1524dba0e1cb87b304f8603186ffe74922acc9b6e57449e0a34ad12ee06572e",
+      "bytes": 1094
+    },
+    {
+      "arquivo": "scripts/test_contexto_completo_ta.py",
+      "sha256": "49a6f6ed9cfaa45e6d27656bc7506ac5c322e9b4eedca4ff336b4abdaaa08856",
+      "bytes": 1690
+    },
+    {
+      "arquivo": "scripts/test_continuacao_indice_ta_coerente_20261027.py",
+      "sha256": "7937e6ef6f050c291aa915229135db032b4569e4ced1a8b96d734fa74d39b6a6",
+      "bytes": 4374
+    },
+    {
+      "arquivo": "scripts/test_data_captura_ta.py",
+      "sha256": "4d176f217edb18973aac6fe29866c74e1055a77579412983e706bd9d141a6cf6",
+      "bytes": 961
+    },
+    {
+      "arquivo": "scripts/test_diagnosticar_css_glifos_ta_20261027.py",
+      "sha256": "987ce17d9bd4f23883fad97c935e4a6e38075002ae807989000e37adeac8892f",
+      "bytes": 2918
+    },
+    {
+      "arquivo": "scripts/test_emissores_sapl.py",
+      "sha256": "77e097c66c2c6e195e475176b9516e0ab693de167f3f5133381982de5e3fc91e",
+      "bytes": 961
+    },
+    {
+      "arquivo": "scripts/test_epigrafe_tipo_literal_ta.py",
+      "sha256": "5c62a02119d04d11a021203222cb1de84d3cba9eb4c0535771d647ab84a5ebfe",
+      "bytes": 2220
+    },
+    {
+      "arquivo": "scripts/test_fila_ta_sapl.py",
+      "sha256": "3c50951e427c63adca050bb2f058a133192e0bb9aacbb1aad0962f83abf2d43c",
+      "bytes": 1716
+    },
+    {
+      "arquivo": "scripts/test_gates_textos_articulados_sapl.py",
+      "sha256": "d9c9e0e028ae369c624f0cd8a7dfbe9f99353c386d3cc2057d4cbfb2a8b63e2e",
+      "bytes": 2871
+    },
+    {
+      "arquivo": "scripts/test_indice_materializacao_ta_v5.py",
+      "sha256": "0e041f434e9b41aa5886b663abdfc1c11eab1935aba39573ea179374ad2b71ba",
+      "bytes": 1664
+    },
+    {
+      "arquivo": "scripts/test_materializador_ta_v7_privado_20261027.py",
+      "sha256": "c94f5a4ca12852d9d532de2b2450958a3b6bc9dddfe757a1325cd69b2ffea002",
+      "bytes": 4109
+    },
+    {
+      "arquivo": "scripts/test_perfil_ta_tachados_preservados_20261027.py",
+      "sha256": "50e4e5c807358e58fc2dfcc4880005a37773860dbed24213bcba9cf9dfa547df",
+      "bytes": 4098
+    },
+    {
+      "arquivo": "scripts/test_reparos_commonmark_ta6.py",
+      "sha256": "dd5adedb93b66587549c18a96af275b55e5a5ff969315058418a120f92972d5c",
+      "bytes": 2198
+    },
+    {
+      "arquivo": "scripts/test_rotulo_literal_ta.py",
+      "sha256": "1c5e028d510416b871084cd2143cd6e63c433b5be244a517dcbdf53542be76a3",
+      "bytes": 2026
+    },
+    {
+      "arquivo": "scripts/test_tabelas_nativas_ta.py",
+      "sha256": "5b3911115094b72e35815b8ff154793760ab8e111f02e1e7a5051566d730227f",
+      "bytes": 1379
+    },
+    {
+      "arquivo": "scripts/test_tabelas_nativas_ta_reais.py",
+      "sha256": "2d88c7d7ed60b5292ccd3822c1bdbfe5a50b3c49459f6e2ade5c32b227949520",
+      "bytes": 1506
+    },
+    {
+      "arquivo": "scripts/test_textos_articulados_sapl.py",
+      "sha256": "f4ffa5c7d80203619f3c9fabc18798e0415cacab434bbc7a456ed9de45fcdf1f",
+      "bytes": 1908
+    },
+    {
+      "arquivo": "scripts/test_verificador_tabelas_ta.py",
+      "sha256": "ff488ef260b2ad2065ecacc11cc7e8839ad3a94c0220385c705c46bf99e05fed",
+      "bytes": 2077
+    },
+    {
+      "arquivo": "scripts/test_verificar_promocoes_ta.py",
+      "sha256": "cb52f0dd6b1e265c3d3656b465fe3e940885a1aa840abfe1d5035c1c1acf7597",
+      "bytes": 1964
+    },
+    {
+      "arquivo": "scripts/verificar_entrega_ta_promocoes.py",
+      "sha256": "8737bf799ed4cf6ee23951599dbefc7d6302311bab8881a082a43e2f9a064885",
+      "bytes": 4478
+    },
+    {
+      "arquivo": "scripts/verificar_entrega_ta_sem_promocoes_v2.py",
+      "sha256": "0df5d0f5897ab3efb2303f002439a72a0a296ad8233b134447d485b61d9eb30d",
+      "bytes": 4313
+    },
+    {
+      "arquivo": "scripts/verificar_entrega_ta_sem_promocoes_v3_privado_20261027.py",
+      "sha256": "469509ef2efb76a6a24ecccbfa5525faeb4424b9828f51115b69756afd264b3c",
+      "bytes": 4412
+    },
+    {
+      "arquivo": "scripts/verificar_textos_articulados_materializados.py",
+      "sha256": "41563c6048c4eb3baae9a3470a5f238c15b6292bdaff5dd3020f34eeed4b15b1",
+      "bytes": 2790
+    },
+    {
+      "arquivo": "scripts/verificar_textos_articulados_materializados_v2_privado_20261027.py",
+      "sha256": "4b12343c980f41917b2d783000138a3243ae559d4f3db5246aa0bc4e303b35f3",
+      "bytes": 2889
+    }
+  ],
+  "bytes": 62453936,
+  "dependencias_qualificadas": [
+    {
+      "recibo": "municipais/_indice/_recuperacao_20261027/agregado3227-validado-final/entrega-final.json",
+      "sha256": "9650eb0ed7329c0e1f3ef36b385b2aecda04a45044f5c96c6162e7d1ce973f44",
+      "normas": 3227,
+      "ja_no_head": [],
+      "adicionadas": 3227
+    },
+    {
+      "recibo": "municipais/_indice/_recuperacao_20261027/agregado921-validado-final/entrega-final.json",
+      "sha256": "ca0edb15cf2054c845ad5413dc6677a377aa9ba76260b1f7afa5187d9e642ae0",
+      "normas": 921,
+      "ja_no_head": [],
+      "adicionadas": 921
+    },
+    {
+      "recibo": "municipais/_indice/_recuperacao_20261027/agregado586-validado-final/entrega-final.json",
+      "sha256": "a31301fc0545cb75c631b1b2fa6420aef41bb321e8fc55be83ff5254e59d7d82",
+      "normas": 586,
+      "ja_no_head": [],
+      "adicionadas": 586
+    }
+  ],
+  "limite": "Somente perfil e reparo privados; nenhum cliente/conversor ativo foi alterado. Condições de vigência não são inferidas de tachado. Promoção exclusiva ROOT com preimagem e HEAD atual."
+}

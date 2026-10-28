@@ -1,0 +1,152 @@
+{
+  "preparado_em": "2026-10-27T20:10:03.695885-03:00",
+  "normas_novas": 1,
+  "promovidas": 0,
+  "sem_promocao": true,
+  "proposta_individual": true,
+  "sem_excecao_global": true,
+  "documento": {
+    "path": "estaduais/SE/leis-ordinarias/2022/l-8963-2022-id10142.md",
+    "privado": "estaduais/SE/_fonte/auditorias/loa8963-privado-20261027-001/candidatos/estaduais/SE/leis-ordinarias/2022/l-8963-2022-id10142.md",
+    "sha256_md": "0a3fd53b42d53bf4da520b275d94261eac24b58b642aff2b6105f3f0e9156c53",
+    "sha256_corpo_HTML": "a5e0b52e3f5989c9186cdec5e6239b0d64c078773a82d35f0faca3fd05303483",
+    "captura": {
+      "item": {
+        "UF": "SE",
+        "tipo": "Lei Ordinária",
+        "tipo_indice": "4",
+        "id": "10142",
+        "numero": "8963",
+        "ano": 2022,
+        "data": "2022-01-13",
+        "titulo_indice": "Lei Ordinária n° 8.963/2022",
+        "ementa": "Dispõe sobre o Orçamento do Estado de Sergipe para o Exercício de 2022, estimando a Receita e fixando a Despesa, e dá providências correlatas.",
+        "situacao": "Em vigor",
+        "fonte": "https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=10142&tipo=4&ano=2022",
+        "textos_completos_observados": [
+          "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L89632022.html"
+        ],
+        "indice": {
+          "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2022",
+          "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2022",
+          "metodo": "POST",
+          "campos_publicos": [
+            "ctl00$ContentPlaceHolder1$ddl_ItensExibidos"
+          ],
+          "postback": "ctl00$ContentPlaceHolder1$lbNext",
+          "http": 200,
+          "cache": "estaduais/SE/_fonte/auditorias/indices-html-20261027-003/0d00d837a49a8cad08d70b49cb43e89cba420f23488896bf6538c774ad90c5fb.html.gz",
+          "sha256_fonte": "0d00d837a49a8cad08d70b49cb43e89cba420f23488896bf6538c774ad90c5fb",
+          "sha256_cache": "cd1842e7976a957b8d780f7d1e714e6987c5b04a56efebeae6428183f93d8ff0",
+          "headers": {
+            "Cache-Control": "public, max-age=120",
+            "Content-Type": "text/html; charset=utf-8",
+            "Expires": "Tue, 27 Oct 2026 21:29:25 GMT",
+            "Last-Modified": "Tue, 27 Oct 2026 21:27:25 GMT",
+            "Vary": "*",
+            "X-Correlation-ID": "242fb346-6e6a-4a94-9d9a-7058caef422e",
+            "X-Powered-By": "ASP.NET",
+            "Access-Control-Allow-Origin": "*",
+            "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+            "Date": "Tue, 27 Oct 2026 21:27:30 GMT",
+            "Connection": "close",
+            "Content-Length": "691112"
+          },
+          "capturado_em": "2026-10-27T18:27:30.979887-03:00"
+        },
+        "pagina_observada": 2
+      },
+      "url": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L89632022.html",
+      "url_final": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L89632022.html",
+      "http": 200,
+      "cache": "estaduais/SE/_fonte/auditorias/textos-html-20261027-005/bab1bb67f6427cef8651ba692274f1a2118855d3bbde460cfe247ee39ff7a6dc.bin.gz",
+      "sha256_fonte": "bab1bb67f6427cef8651ba692274f1a2118855d3bbde460cfe247ee39ff7a6dc",
+      "sha256_cache": "06e540366f4cca0825c7bbd914c145c4ca86d0785558c0701e1e72ba3328f908",
+      "headers": {
+        "Content-Type": "text/html",
+        "Last-Modified": "Tue, 11 Jul 2023 18:58:22 GMT",
+        "Accept-Ranges": "bytes",
+        "ETag": "\"454668aa29b4d91:0\"",
+        "Server": "Microsoft-IIS/10.0",
+        "X-Powered-By": "ASP.NET",
+        "Access-Control-Allow-Origin": "*",
+        "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+        "Date": "Tue, 27 Oct 2026 21:49:25 GMT",
+        "Connection": "close",
+        "Content-Length": "68233"
+      },
+      "capturado_em": "2026-10-27T18:49:25.050949-03:00"
+    }
+  },
+  "anexo": {
+    "path": "estaduais/SE/anexos/2022/l-8963-2022-id10142.pdf",
+    "privado": "estaduais/SE/_fonte/auditorias/loa8963-privado-20261027-001/candidatos/estaduais/SE/anexos/2022/l-8963-2022-id10142.pdf",
+    "sha256": "27fe6e1d5a7af0b5ba4fa5ef38c3a62c9ed161074c78d0f5348a415d1f66fc8c",
+    "bytes": 3831792,
+    "paginas": 522
+  },
+  "captura_PDF": {
+    "href_literal": "http://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/LOA_2022_Anexo%20da%20LEI%208819.pdf",
+    "url": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/LOA_2022_Anexo%20da%20LEI%208819.pdf",
+    "url_final": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/LOA_2022_Anexo%20da%20LEI%208819.pdf",
+    "normalizacao": "Somente transporte HTTP→HTTPS antes de qualquer tentativa/recusa, mantendo host/caminho literalmente observados.",
+    "http": 200,
+    "cache": "estaduais/SE/_fonte/auditorias/loa2022-anexo-20261027-001/27fe6e1d5a7af0b5ba4fa5ef38c3a62c9ed161074c78d0f5348a415d1f66fc8c.bin.gz",
+    "sha256_fonte": "27fe6e1d5a7af0b5ba4fa5ef38c3a62c9ed161074c78d0f5348a415d1f66fc8c",
+    "sha256_cache": "6abdc896b1bbc84d62d9e5f963ee2418d3b3bee269a8431ca20d7d18e7c83e6c",
+    "PDF": true,
+    "bytes": 3831792,
+    "capturado_em": "2026-10-27T19:39:35.756586-03:00",
+    "headers": {
+      "Content-Type": "application/pdf",
+      "Last-Modified": "Wed, 27 Jul 2022 20:21:48 GMT",
+      "Accept-Ranges": "bytes",
+      "ETag": "\"304aef7ff6a1d81:0\"",
+      "Server": "Microsoft-IIS/10.0",
+      "X-Powered-By": "ASP.NET",
+      "Access-Control-Allow-Origin": "*",
+      "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+      "Date": "Tue, 27 Oct 2026 22:39:35 GMT",
+      "Connection": "close",
+      "Content-Length": "3831792"
+    }
+  },
+  "imagens": [
+    {
+      "id": "10142",
+      "url": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L89632022_arquivos/image002.gif",
+      "url_final": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L89632022_arquivos/image002.gif",
+      "http": 200,
+      "arquivo": "estaduais/SE/_fonte/auditorias/visuais-html-20261027-005/9cca16065d32c08180f491a16c013dd9b0039e2d892a24e90f9f6f39ad7517e8.bin",
+      "sha256": "9cca16065d32c08180f491a16c013dd9b0039e2d892a24e90f9f6f39ad7517e8",
+      "capturado_em": "2026-10-27T19:14:53.212960-03:00"
+    }
+  ],
+  "codigo": {
+    "scripts/estados/snapshots/se_loa8963_20261027_001/test_qualificar_loa8963.py": "1398badca176bd3121d29ecc31657fc78bc6863ab2023f231c79fe37d671ccc0",
+    "scripts/estados/snapshots/se_loa8963_20261027_001/spl_indice_html.py": "107d3e9ddf60aeaf120d5abbef97c02495cafa449997225097af7badb6ac31f2",
+    "scripts/estados/snapshots/se_loa8963_20261027_001/css_contexto_campo.py": "97f4406d3e2c57471001704e0420712eed349f8701e10fe43b939c8591ea3411",
+    "scripts/estados/snapshots/se_loa8963_20261027_001/comum.py": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24",
+    "scripts/estados/snapshots/se_loa8963_20261027_001/avisos_fonte.py": "913429d61b37e338f9b292b54e0f9d81e9f9adae0e8d386f5b22ea8f128479cd",
+    "scripts/estados/snapshots/se_loa8963_20261027_001/reexecutar_spl_html_recente.py": "2dc87c5c2c873f23899185a8e0be38de026f3490a6b246b3b81b4f157d90db42",
+    "scripts/estados/snapshots/se_loa8963_20261027_001/integridade_texto.py": "d882d0ca69b76c61b594561598634994ca25b350f67054eb08e8eecf97170a82",
+    "scripts/estados/snapshots/se_loa8963_20261027_001/tabelas_estrutura.py": "d0dde502c2794626bb9848673f23b2992d1722653c15bbf3768737408f9b6df7",
+    "scripts/estados/snapshots/se_loa8963_20261027_001/visuais_word_spl.py": "e218e4fd98f96f45eba496e9ecac54a6c4863ecdd2f798363c2cd616ef126d28",
+    "scripts/estados/snapshots/se_loa8963_20261027_001/reexecutar_loa8963.py": "23473c4025a741ed3539ed34f9d8b16db93d54ca66b56ddee02279c3352b63eb",
+    "scripts/estados/snapshots/se_loa8963_20261027_001/html2md.py": "6ad648a6a94c8d51d880a2d79c39f1abe751032d3355e468363e43ca83fdcdc6",
+    "scripts/estados/snapshots/se_loa8963_20261027_001/test_spl_html_recente.py": "52943e58b12cc815fa46e8771987bc2fd4fbc8603615dabb915e462ec2b31f26",
+    "scripts/estados/snapshots/se_loa8963_20261027_001/auditar_spl_html_recente.py": "a00acf723e6d162220b43aafe48e37a369ce4a5ea2f43989314b057ce54236c5",
+    "scripts/estados/snapshots/se_loa8963_20261027_001/test_spl_indice_html.py": "7c2555d4643c188c3e5f84d1137fbe734d1a982f98bca41b864ff55629f8a5ee",
+    "scripts/estados/snapshots/se_loa8963_20261027_001/test_css_contexto_campo.py": "0d6e6789dcd34638ccdd9ab0315fb8e37eec2b8774b07cc158601fc4c1ffd651",
+    "scripts/estados/snapshots/se_loa8963_20261027_001/qualificar_loa8963.py": "11f83587463f2f9e1c501d2d7bef7096bf7e7b3a2eb90beb0557ac6a011723b6",
+    "scripts/estados/snapshots/se_loa8963_20261027_001/pe_fidelidade_visivel.py": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+    "scripts/estados/snapshots/se_loa8963_20261027_001/test_visuais_word_spl.py": "528af5e0ae1c1b25334197dcade7d2d21e3482b7d178a7cc095cca81d54b3b43"
+  },
+  "observacao_edicao": "Epígrafe, fecho, cartão e capa do PDF dos anexos identificam a Lei 8.963 de 13/01/2022. O rodapé editorial do HTML informa D.O.E. de 07/01/2022, referência anterior ainda não cotejada com edição DOE. Datas e referência editorial foram preservadas, sem escolher outra data de publicação. A URL do anexo contém 8819; o conteúdo integral identifica 8.963/2022.",
+  "acrescimo_apresentacao": "\n\n## Anexos integrais\n\n[Anexos I e II — PDF oficial integral, 522 páginas](../../anexos/2022/l-8963-2022-id10142.pdf)\n",
+  "link_relativo_anexo": "../../anexos/2022/l-8963-2022-id10142.pdf",
+  "prova_escopo": "estaduais/SE/_fonte/auditorias/loa2022-anexo-20261027-001/prova-escopo-integral-522.json",
+  "representacao": "PDF original integral como anexo local, sem transcrição nem supressão de qualquer objeto/vetor/gráfico/tabela/imagem. HTML principal preservado integralmente; somente apresentação adicional do link relativo ao anexo.",
+  "nota_preliminar_PDF": "Inventário antigo não recursivo de operadores não comprova ausência de curvas: foi superado pelo inventário recursivo v2. Curvas permanecem no PDF completo; não dependemos de interpretá-las para preservação.",
+  "comando_replay": "PYTHONPATH=\"$PWD/scripts/bin/qa-20261027/python\" /Users/joaodavisn/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 scripts/estados/snapshots/se_loa8963_20261027_001/reexecutar_loa8963.py --manifesto scripts/estados/manifestos/se-LOA8963-proposta-individual-20261027-001.json --saida CAMINHO_NOVO.json"
+}

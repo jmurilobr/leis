@@ -1,0 +1,38 @@
+---
+titulo: "ATO COTEPE/PMPF Nº 29, DE 29 DE SETEMBRO DE 2020"
+orgao: "Ministério da Economia/Secretaria Especial de Fazenda/Conselho Nacional de Política Fazendária/Secretaria Executiva"
+tipo: "Ato Normativo"
+numero: "29"
+data: 2020-09-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/09/2020, seção 1, p. 203"
+data_publicacao: 2020-09-30
+edicao: "188"
+fonte: "https://www.in.gov.br/web/dou/-/ato-cotepe/pmpf-n-29-de-29-de-setembro-de-2020-280239807"
+sha256_html_fonte: 6020cdab44d8446e24cc423f7244bd37afd0aed48bdbda57ab02f7eaa8d1a14e
+baixado_em: 2026-10-21
+---
+# ATO COTEPE/PMPF Nº 29, DE 29 DE SETEMBRO DE 2020
+
+ATO COTEPE/PMPF Nº 29, DE 29 DE SETEMBRO DE 2020
+
+Altera o Ato COTEPE/PMPF 28/20, que divulga o preço médio ponderado ao consumidor final (PMPF) de combustíveis.
+
+O Diretor do Conselho Nacional de Política Fazendária - CONFAZ, no uso das atribuições que lhe são conferidas pelo inciso IX, do art. 5º do Regimento do CONFAZ,
+
+CONSIDERANDO o disposto na cláusula décima do Convênio ICMS 110/07, de 28 de setembro de 2007, e
+
+CONSIDERANDO a solicitação da Secretaria de Fazenda do Estado de Minas Gerais recebida por meio de mensagem eletrônica do dia 29.09.2020, registrada no processo SEI nº 12004.100772/2020-41, fica alterado o Ato COTEPE/PMPF 28/20, de 24 de setembro de 2020, no item 11, referente à unidade federada supracitada:
+
+<table><tr></tr><tr><td rowspan="1" colspan="14"><p>PREÇO MÉDIO PONDERADO AO CONSUMIDOR FINAL</p></td></tr><tr><td rowspan="1" colspan="1"><p>ITEM</p></td><td rowspan="1" colspan="1"><p>UF</p></td><td rowspan="1" colspan="1"><p>GAC</p></td><td rowspan="1" colspan="1"><p>GAP</p></td><td rowspan="1" colspan="1"><p>DIESEL S10</p></td><td rowspan="1" colspan="1"><p>ÓLEO DIESEL</p></td><td rowspan="1" colspan="1"><p>GLP (P13)</p></td><td rowspan="1" colspan="1"><p>GLP</p></td><td rowspan="1" colspan="1"><p>QAV</p></td><td rowspan="1" colspan="1"><p>AEHC</p></td><td rowspan="1" colspan="1"><p>GNV</p></td><td rowspan="1" colspan="1"><p>GNI</p></td><td rowspan="1" colspan="2"><p>ÓLEO COMBUSTÍVEL</p></td></tr><tr><td rowspan="1" colspan="1"></td><td rowspan="1" colspan="1"></td><td rowspan="1" colspan="1"><p>(R$/ litro)</p></td><td rowspan="1" colspan="1"><p>(R$/ litro)</p></td><td rowspan="1" colspan="1"><p>(R$/ litro)</p></td><td rowspan="1" colspan="1"><p>(R$/ litro)</p></td><td rowspan="1" colspan="1"><p>(R$/ kg)</p></td><td rowspan="1" colspan="1"><p>(R$/ kg)</p></td><td rowspan="1" colspan="1"><p>(R$/ litro)</p></td><td rowspan="1" colspan="1"><p>(R$/ litro)</p></td><td rowspan="1" colspan="1"><p>(R$/ m³)</p></td><td rowspan="1" colspan="1"><p>(R$/ m³)</p></td><td rowspan="1" colspan="1"><p>(R$/ litro)</p></td><td rowspan="1" colspan="1"><p>(R$/ Kg)</p></td></tr><tr><td rowspan="1" colspan="1"><p>11</p></td><td rowspan="1" colspan="1"><p>MG</p></td><td rowspan="1" colspan="1"><p>*4,6393</p></td><td rowspan="1" colspan="1"><p>*6,5150</p></td><td rowspan="1" colspan="1"><p>*3,7372</p></td><td rowspan="1" colspan="1"><p>*3,6615</p></td><td rowspan="1" colspan="1"><p>*5,5485</p></td><td rowspan="1" colspan="1"><p>*6,7421</p></td><td rowspan="1" colspan="1"><p>4,5834</p></td><td rowspan="1" colspan="1"><p>*2,9875</p></td><td rowspan="1" colspan="1"><p>**2,9378</p></td><td rowspan="1" colspan="1"><p>-</p></td><td rowspan="1" colspan="1"><p>-</p></td><td rowspan="1" colspan="1"><p>-</p></td></tr></table>
+
+Notas Explicativas:
+
+a) \* valores alterados de PMPF; e
+
+b) \*\* valores alterados de PMPF que apresentam redução
+
+RENATA LARISSA SILVESTRE
+
+Substituta

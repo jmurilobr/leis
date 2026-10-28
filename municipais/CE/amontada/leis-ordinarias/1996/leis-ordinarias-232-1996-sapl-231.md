@@ -1,0 +1,175 @@
+---
+titulo: "Lei nº 232, de 02 de abril de 1996"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "232"
+data: "1996-04-02"
+municipio: "Amontada"
+uf: "CE"
+codigo_ibge: "2300754"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.amontada.ce.leg.br/norma/231"
+fonte_texto: "https://sapl.amontada.ce.leg.br/ta/529/text"
+sha256_fonte: "9bb314c43264ac620440cdaa50729e26f305126d46ba12fab1bd957762113777"
+sha256_texto: "8bb0c4835bbc29f644f21ec7280a009cdebd57fcf1debf2c91f1d1ebe1cf5bbc"
+capturado_em_fonte: "2026-10-21T07:10:21.283184-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 232, de 02 de abril de 1996
+
+Cria o Fundo Municipal de Assistência Social e dá outras providências.
+
+
+O PREFEITO MUNICIPAL DE AMONTADA - ESTADO DO CEARÁ.  
+Faço saber que a Câmara Municipal de Amontada-CE, aprovou e eu sanciono e promulgo a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o Fundo Municipal de Assistência Social - FMAS, instrumento de captação e aplicação de recursos e meios para o financiamento das ações na área de assistência social.
+
+
+Art. 2º.
+
+Constituirão receitas do Fundo Municipal de Assistência Social - FMAS:
+
+
+I –
+
+recursos provenientes da transferência dos Fundos Nacional e Estadual de Assistência Social;
+
+
+II –
+
+dotações orçamentárias do Município e recusos adicionais que a lei estabelecer no transcorrer de cada exercício;
+
+
+III –
+
+doações, auxílios, contribuições, subvenções e transferências de entidades nacionais e internacionais, organizações governamentais e não governamentais;
+
+
+IV –
+
+receitas de aplicações financeiras de recursos do Fundo, realizadas na forma da lei;
+
+
+V –
+
+as parcelas do produto de arrecadação de outras receitas próprias oriundas de financiamentos das atividades econômicas, de prestação de serviços e de outras transferências que o Fundo Municipal de Assistência Social terá direito a receber por força da lei e de convênios no setor;
+
+
+VI –
+
+produto de convênios firmados com outras entidades financiadoras;
+
+
+VII –
+
+doações em espécies feitas diretamente ao Fumdo;
+
+
+VIII –
+
+outras receitas que venham a ser legalmente instituídas.
+
+
+§ 1º
+
+A dotação orçamentária prevista para o órgão executor da Administração Pública Municipal, responsável pela assistência social, será automaticamente transferida para a conta do Fundo Municipal de Assistência Social, tão logo sejam realizadas as receitas correspondentes.
+
+
+§ 2º
+
+Os recursos que compõem o Fundo serão depositados no Banco do Brasil S.A., em conta especifica sob a denominação Fundo Municipal de Assistência Social - FMAS.
+
+
+Art. 3º.
+
+O FMAS será gerido pela Secretaria Municipal de Assistência Social, sob orientação e controle do Conselho Municipal de Assistência Social.
+
+
+§ 1º
+
+A proposta orçamentária do Fundo Municipal de Assistência Social - FMAS - constará do Plano Diretor do Município.
+
+
+§ 2º
+
+O orçamento do Fundo Municipal de Assistência Social integrará o orçamento da Secretaria Municipal de Assistência Social.
+
+
+Art. 4º.
+
+Os recursos do Fundo Municipal de Assistência Social - FMAS, serão aplicados em:
+
+
+I –
+
+financiamento total ou parcial de programas, projetos e serviços de Assistência Social desenvolvidos pelo órgão da Administração Pública Municipal responsável pela execução da Politica de Assistência Social ou por órgãos conveniados;
+
+
+II –
+
+pagamento pela prestação de serviços a entidades conveniadas de direito público e privado para execução de programas e projetos específicos do setor de assistência social;
+
+
+III –
+
+aquisição de material permanente e de consumo e de outros insumos necessários ao desenvolvimento dos programas;
+
+
+IV –
+
+construção, reforma, ampliação ou locação de imóveis para prestação de serviços de assistência social;
+
+
+V –
+
+desenvolvimento e aperfeiçoamento dos instrumentos de gestão, planejamento, administração e controle das ações de assistência social;
+
+
+VI –
+
+desenvolvimento de programas de capacitação e aperfeiçoamento de recursos humanos na área de assistência social;
+
+
+VII –
+
+pagamento dos benefícios eventuais, conforme o disposto no inciso I do art. 15 da Lei Orgânica da Assistência Social.
+
+
+Art. 5º.
+
+O repasse de recursos para as entidades e organizações de assistência social, devidamente registradas no CNAS, será efetivado por intermédio do FMAS, de acordo com critérios estabelecidos pelo Conselho Municipal de Assistência Social.
+
+
+Parágrafo único
+
+As transferências de recursos para organizações governamentais e não governamentais de Assistência Social se processarão mediante convênios, contratos, acordos, ajustes e/ou similares, obedecendo a legislação vigente sobre a matéria e de conformidade com os programas, projetos e serviços aprovados pelo Conselho Municipal de Assistência Social.
+
+
+Art. 6º.
+
+As contas e os relatórios do gestor do Fundo Municipal de Assistência Social serão submetidas à apreciação do Conselho Municipal de Assistência Social - CMAS, mensalmente, de forma sintética e, anualmente, de forma analítica.
+
+
+Art. 7º.
+
+Para atender as despesas decorrentes da implantação da presente Lei fica o Poder Executivo autorizado a abrir, no presente exercício, Crédito Adicional Especial, obedecidas as prescrições contidas nos incisos I a IV, do parágrafo 1º do artigo 43 da Lei Federal No. 4320/64.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+Paço da Prefeitura Municipal de Amontada-CE, aos 02 de abril de 1996.
+
+JOSÉ ABÍLIO BRUNO  
+Prefeito Municipal
+

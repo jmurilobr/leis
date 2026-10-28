@@ -1,0 +1,178 @@
+---
+titulo: "Lei Ordinária nº 3.057, de 16 de março de 1999"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "3057"
+data: "1999-03-16"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/5050"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/2402/text"
+sha256_fonte: "39d210f66358cfa5f4c15c970577cf29ef2ddfd936adb573287c17df80184aa1"
+sha256_texto: "1238d5765b013156fca3e4db5179ce28e7b3bfea0c24de85ee9096a18f0852a6"
+capturado_em_fonte: "2026-10-27T18:32:07.589258-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 3.057, de 16 de março de 1999
+
+A CÂMARA MUNICIPAL DE BARRA MANSA APROVA E EU SANCIONO A SEGUINTE:
+
+
+LEI N°3.057, DE 16 DE MARÇO DE 1999
+
+
+Dispõe sobre o PROCON de Barra Mansa, cria o Fundo Especial para Programas de Proteção ao Consumidor e dá outras providências.
+
+
+Art. 1º.
+
+O Departamento de Proteção e Defesa do Consumidor, instituido pela Lei nº 2918, de 31 de março de 1997 e integrante do SNDC - Sistema Nacional de Defesa do Consumidor, terá as seguintes atribuições:
+
+
+I –
+
+Planejar, elaborar, propor, coordenar e executar a política municipal de proteção e defesa do consumidor, em consonância com a Lei Federal nº 8078, de 11 de setembro de 1990 e sua regulamentação;
+
+
+II –
+
+Receber, analisar, avaliar e encaminhar consultas, denúncias ou sugestões apresentadas por entidades representativas ou pessoa jurídica de direito público ou privado;
+
+
+III –
+
+Prestar aos consumidores orientação permanente sobre seus direitos e garantias;
+
+
+IV –
+
+Informar, conscientizar e motivar o consumidor através dos diferentes meios de comunicação;
+
+
+V –
+
+Solicitar à polícia judiciária a instauração de inquérito policial para a apreciação de delito contra os consumidores, nos termos da legislação vigente;
+
+
+VI –
+
+Representar ao Ministério Público competente para fins de adoção de medidas processuais no âmbito de suas atribuições;
+
+
+VII –
+
+Levar ao conhecimento dos órgãos competentes as infrações de ordem administrativa que violarem os interesses difusos, coletivos ou individuais dos consumidores;
+
+
+VIII –
+
+Solicitar o concurso de órgãos e entidades da União e Estado, bem como fiscalizar preços, abastecimento, quantidade e segurança de bens e serviços;
+
+
+IX –
+
+Incentivar, inclusive com recursos financeiros e outros programas especiais, a formação de entidades de defesa do consumidor pela população e pelos órgãos públicos estaduais e municipais;
+
+
+X –
+
+Desenvolver outras atividades compatíveis com suas finalidades.
+
+
+Parágrafo único
+
+Para a consecução de seus objetivos, o Departamento de Proteção e Defesa do Consumidor poderá solicitar o concurso de órgãos e entidades de notória especialização técnico- científica.
+
+
+Art. 2º.
+
+O regulamento estabelecerá os valores das multas a serem aplicadas pela fiscalização do PROCON-BM, criada pela Lei nº 2918/97, em decorrência das práticas infrativas mencionadas no Decreto Federal n° 2181, de 20 de março de 1997.
+
+
+Parágrafo único
+
+A pena de multa será graduada de acordo com a gravidade da infração, a vantagem auferida e a condição econômica do fornecedor, em montante não inferior a 200 (duzentas) UFIR's e não superior ao valor de 3.000.000 (três milhões) de UFIR's, ou índice equivalente que venha a substitui-las.
+
+
+Art. 3º.
+
+As práticas infrativas às normas de proteçÃo e defesa do consumidor, serão apuradas em processo administrativo, na forma do regulamento, que terá inicio mediante:
+
+
+I –
+
+Ato, por escrito, da autoridade competente;
+
+
+II –
+
+Lavratura de auto de infração;
+
+
+III –
+
+Reclamação.
+
+
+Art. 4º.
+
+Fica criado, no âmbito do Departamento de Proteção e Defesa do Consumidor, o Fundo Especial para Programas de Proteção ao Consumidor, administrado por um Conselho Gestor, conforme regulamento.
+
+
+Parágrafo único
+
+Constituem receitas do Fundo:
+
+
+I –
+
+Recursos provenientes de parcelas de impostos, taxas, multas, sanções pecuniárias - em especial as previstas no art. 2º desta Lei - bem como de serviços que por força de disposição legal ou em decorrência de convênios possam caber ao Fundo;
+
+
+II –
+
+Recursos oriundos da realização de cursos, palestras, conferências ou debates, relativos à questão do consumidor, bem como inscrição de concursos e estágios;
+
+
+III –
+
+Auxilios, subvenções e contribuições de entidides públicas ou privadas, nacionais ou estrangeiras;
+
+
+IV –
+
+Doações e legados;
+
+
+V –
+
+Recursos constantes do Orçamento Geral do Município, especificamente destinados ao Fundo.
+
+
+Art. 5º.
+
+Os efeitos da Lei, nº 2947, de 10 de outubro de 1997, estendem-se aos Fiscais do PROCON e à respectiva chefia, desde que estejam no efetivo exercicio das funções específicas desses cargos, seguindo-se, no entanto, as normas dos §§ 1º e 2° do art. 1º e art. 3º da Lei n° 2963, de 8 de dezembro de 1997.
+
+
+Art. 6º.
+
+O regulamento desta lei será baixado pelo Poder Executivo, dentro do prazo de 60 (sessenta) dias.
+
+
+Art. 7º.
+
+Revogadas as disposições em contrário, esta Lei entra em vigor na data de sua publicação.
+
+
+PREFEITURA MUNICIPAL DE BARRA MANSA, 16 DE MARÇO DE 1999.
+
+
+MARIA INÊS PANDELÓ CERQUEIRA  
+PREFEITA
+

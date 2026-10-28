@@ -1,0 +1,33 @@
+---
+titulo: "CONVÊNIO ICMS N° 82, DE 3 DE JULHO DE 2026"
+orgao: "Conselho Nacional de Política Fazendária (CONFAZ)"
+tipo: "Convênio ICMS"
+numero: "82"
+data: "2026-07-03"
+revogada: null
+versao_texto: "Texto e notas oficiais do portal CONFAZ conforme a captura; sem certificação de vigência."
+fonte: "https://www.confaz.fazenda.gov.br/legislacao/convenios/2026/CV082_26"
+sha256_html_fonte: "5bab924b7c5d63ce3415883ef7fc6e6a0a4a8dc6827ecfd20582cdf3824ca5c9"
+sha256_texto: "278349d65fa7d88451c3a150d3aee7e112064c416c1b42c02b587cb50796b6a5"
+baixado_em: "2026-10-27"
+representacao_corpo: "html-nativo-confaz-piloto-v1"
+observacao_captura: "timestamp original do cliente com fuso, convertido para America/Recife"
+observacao_efeitos: "Condições de ratificação e produção de efeitos preservadas literalmente. Nenhuma data de vigência calculada."
+publicacao_fonte: "Publicado no DOU de 08.07.26, pelo despacho 28/26. | Ratificação Nacional no DOU de 27.07.26, pelo Ato Declaratório 15/26."
+---
+# CONVÊNIO ICMS N° 82, DE 3 DE JULHO DE 2026
+
+<div id="parent-fieldname-text"><p class="A1-1TituloAcordo">CONVÊNIO ICMS N° 82, DE 3 DE JULHO DE  2026</p>
+<p class="A2DataPublicacao">Publicado no DOU de 08.07.26, pelo despacho <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/despacho/2026/dp028_26" target="_self" title="deapacho 28/26">28/26</a>.</p>
+<p class="A2DataPublicacao">Ratificação Nacional no DOU de 27.07.26, pelo Ato Declaratório <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/atos-declaratorios/2026/ad015_26" target="_self" title="ato declaratorio 15/26">15/26</a>.<b></b></p>
+<p class="A3Ementa">Altera o Convênio ICMS nº 33, de 11 de abril de 2025, que autoriza a concessão de remissão e anistia dos créditos tributários relativos ao ICMS, na forma que especifica.</p>
+<p class="A5-1TextoAcordo"><b>O Conselho Nacional de Política Fazendária – CONFAZ</b>, na sua 201ª Reunião Ordinária, realizada em Macapá, SP, no dia 3 de julho de 2026, tendo em vista o disposto na Lei Complementar nº 24, de 7 de janeiro de 1975, resolve celebrar o seguinte</p>
+<p align="center">C O N V Ê N I O</p>
+<p class="A5-1TextoAcordo"><b>Cláusula primeira</b> A cláusula primeira do <a class="internal-link" href="https://www.confaz.fazenda.gov.br/legislacao/convenios/2025/CV033_25" target="_self" title="convenio icms 33/25">Convênio ICMS nº 33, de 11 de abril de 2025</a>, publicado no Diário Oficial da União de 15 de abril de 2025, passa a vigorar com a seguinte redação:</p>
+<p class="A5-2NovaRedacao">“Cláusula primeira O Estado de Minas Gerais fica autorizado a conceder remissão e anistia de créditos tributários formalizados ou não, inscritos ou não em dívida ativa, ajuizada ou não sua cobrança, inclusive multas e demais acréscimos legais, referentes ao Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação – ICMS –, decorrentes de operações internas com milho, milho moído, silagem de milho e derivados destinados a produtor rural, cooperativas de produtores ou fabricantes de ração balanceada, concentrado ou suplemento para alimentação animal, cujos fatos geradores tenham ocorrido até 31 de janeiro de 2025.</p>
+<p class="A5-2NovaRedacao">§ 1º Poderão ser incluídos na remissão e na anistia, a que se refere o “caput”, os valores espontaneamente denunciados ou informados pelo contribuinte à repartição fazendária, decorrentes de infrações relacionadas a fatos geradores ocorridos até 31 de janeiro de 2025.</p>
+<p class="A5-2NovaRedacao">§ 2º O disposto neste artigo:</p>
+<p class="A5-2NovaRedacao">I – não autoriza a restituição de valores já recolhidos até a data da regulamentação das disposições desta lei;</p>
+<p class="A5-2NovaRedacao">II – não autoriza compensação das quantias pagas;</p>
+<p class="A5-2NovaRedacao">III – não autoriza o levantamento, pelo contribuinte ou pelo interessado, de importância depositada em juízo.”.</p>
+<p class="A5-1TextoAcordo"><b>Cláusula segunda</b> Este convênio entra em vigor na data da publicação de sua ratificação nacional no Diário Oficial da União.</p></div>

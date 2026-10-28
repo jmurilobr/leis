@@ -1,0 +1,55 @@
+---
+titulo: "Lei Ordinária nº 63, de 24 de abril de 1975"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "63"
+data: "1975-04-24"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/386"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/901/text"
+sha256_fonte: "652fee4e784dbf3fdc28d57345b1afcb7ca686d4ba01bfbb30d78804e9b0d910"
+sha256_texto: "0a9e40b8291d7db576d59bc8cc2d3ad6321cd2074087336975bef62ee7626bfb"
+capturado_em_fonte: "2026-10-27T22:04:32.717524-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 63, de 24 de abril de 1975
+
+Autoriza a aquisição mediante desapropriação amigável ou judicial, de área destinada ao Sistema de abastecimento de água de Caçu e dá outras providências.
+
+
+O Prefeito Municipal de Caçu: Faço saber que a Câmara Municipal de Caçu, Estado de Goiás, aprovou e eu sanciono a seguinte lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a adquirir, mediante desapropriação amigável ou judicial, uma área rural, neste Município na Fazenda Caçu, pertencente a João Martins Souto, destinada ao Sistema de Abastecimento de água desta cidade, de acordo com o projeto de engenharia já aprovado pelo Departamento Nacional de Obras de Saneamento (DNOS) e Banco Nacional da Habitação (BNH).
+
+
+Art. 2º.
+
+As despesas provenientes da aquisição de que trata o artigo anterior correrão à conta do Crédito especial autorizado pela lei nº 60, de 22 de fevereiro de 1975.
+
+
+Art. 3º.
+
+Fica o Poder Executivo Municipal autorizado a ceder à Saneamento de Goiás S/A (SANEAGO), por preço a ser fixado por comissão avaliadora especial, a área adquirida na conformidade da presente lei.
+
+
+Art. 4º.
+
+Esta lei entra em vigor nesta data, revogadas as disposições em contrário.
+
+
+Prefeitura Municipal de Caçu, Estado de Goiás, em 24 de abril de 1975.
+
+
+**Noé Nunes Guimarães**  
+\- Prefeito Municipal -
+

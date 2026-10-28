@@ -1,0 +1,60 @@
+{
+  "preparado_em": "2026-10-27T18:36:48.033165-03:00",
+  "HEAD": "1e9c9014dfc54638c76c558bad557525471bbd37",
+  "path": "estaduais/SE/leis-ordinarias/2018/l-8494-2018-id11810.md",
+  "sha256_HEAD": "515de8571a19872d716e398810d66f401bb95f717cfb0fb976943d521de8feb4",
+  "OID": "e7eea10fcae793908676923cb8274f564c32256c",
+  "preimagem": "estaduais/SE/_fonte/auditorias/identidade-sufixo-8494A-20261027-001/preimagem-HEAD.md.bin",
+  "sha256_preimagem": "515de8571a19872d716e398810d66f401bb95f717cfb0fb976943d521de8feb4",
+  "cache": "estaduais/SE/_fonte/leis-ordinarias/2018/l-8494-2018-id11810.html.gz",
+  "sha256_cache": "f8d75f3c45337ed53d0ad8635775a473ccea5fe7fb9af0f54ecc53d76b40ab87",
+  "sha256_fonte": "54d1642243234bd866ba105247f9b045a828a5624a52bbcd966e47046b56af4a",
+  "indice_atual": {
+    "UF": "SE",
+    "tipo": "Lei Ordinária",
+    "tipo_indice": "4",
+    "id": "11810",
+    "numero": "8494-A",
+    "ano": 2018,
+    "data": "2018-12-28",
+    "titulo_indice": "Lei Ordinária n° 8.494-A/2018",
+    "ementa": "Dispõe novas normas sobre o Programa de Transferência de Recursos Financeiros Diretamente às Escolas Públicas Estaduais – PROFIN, e dá providências correlatas.",
+    "situacao": "Em vigor",
+    "fonte": "https://aleselegis.al.se.leg.br/legislacao/norma.aspx?id=11810&tipo=4&ano=2018",
+    "textos_completos_observados": [
+      "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/L8494A2018.html"
+    ],
+    "indice": {
+      "url": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2018",
+      "url_final": "https://aleselegis.al.se.leg.br/legislacao/consulta-legislacao.aspx?tipo=4&ano=2018",
+      "metodo": "POST",
+      "campos_publicos": [
+        "ctl00$ContentPlaceHolder1$ddl_ItensExibidos"
+      ],
+      "postback": "ctl00$ContentPlaceHolder1$ddl_ItensExibidos",
+      "http": 200,
+      "cache": "estaduais/SE/_fonte/auditorias/indices-html-20261027-004/a2e221045c9bfcf2ea6aeca8b229dd1b332458fd3696dcd41613cff56e5bff4e.html.gz",
+      "sha256_fonte": "a2e221045c9bfcf2ea6aeca8b229dd1b332458fd3696dcd41613cff56e5bff4e",
+      "sha256_cache": "31b52af8957b9bb14e15faa069768dc6825ecde4918eb3a314567956b43fc886",
+      "headers": {
+        "Cache-Control": "public, max-age=120",
+        "Content-Type": "text/html; charset=utf-8",
+        "Expires": "Tue, 27 Oct 2026 21:32:04 GMT",
+        "Last-Modified": "Tue, 27 Oct 2026 21:30:04 GMT",
+        "Vary": "*",
+        "X-Correlation-ID": "a366fcc0-99d5-48e5-ae8e-add7eb9caf2a",
+        "X-Powered-By": "ASP.NET",
+        "Access-Control-Allow-Origin": "*",
+        "Strict-Transport-Security": "max-age=0; includeSubDomains; preload",
+        "Date": "Tue, 27 Oct 2026 21:30:09 GMT",
+        "Connection": "close",
+        "Content-Length": "678373"
+      },
+      "capturado_em": "2026-10-27T18:30:10.330289-03:00"
+    },
+    "pagina_observada": 1
+  },
+  "defeito_demonstrado": "Metadado numero 8494 e título/heading sem sufixo divergem da epígrafe literal LEI Nº 8.494-A, DE 28 DE DEZEMBRO DE 2018, presente no próprio MD e HTML preservado; cartão atual e URL oficial L8494A2018.html também preservam A.",
+  "limites": "Diagnóstico restrito à identidade. Corpo compilado e situação jurídica não foram certificados por este diagnóstico. Nenhum canônico alterado, nenhuma nova norma contada. Não presume que exista ou falte outra Lei 8494 sem sufixo.",
+  "decisao": "Revisão ROOT para reparo separado de metadata/caminho com preimagem e dedup; não alterar normativo nem renumerar silenciosamente."
+}

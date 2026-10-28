@@ -1,0 +1,21 @@
+{
+  "contagens": {
+    "arquivos": 3695,
+    "diretos": 3695,
+    "texto_visivel_igual_divergente": 202,
+    "assinatura_numerica_igual_divergente": 85
+  },
+  "mapas": [
+    {
+      "path": "_fonte/operacao_root_20261027/reguladores-dou038-hashes.json",
+      "sha256": "c9c621778d01a25b8babc3cc7b24a8f8c877b0f2b4a42177b12982090fec89be"
+    }
+  ],
+  "script_sha256": "a00ff82f45872703dc57b501decb23c9065ecbc7fcca3e5d6244e128f65a5439",
+  "runtime": {
+    "html5lib": "1.1",
+    "markdown_it": "4.0.0"
+  },
+  "criterio": "Somente leitura offline. Mesmo DOCTYPE html standards mode/contexto body na fonte e no CommonMark; compara distribuição de linhas/células, texto e colspan/rowspan. Papel td/th permanece comparado, com eventual diferença segregada.",
+  "limite": "Risco CSS/tachado não implica revogação de todo o ato. CSS externo/herdado não fornecido não é certificado. Este diagnóstico não substitui identidade/íntegra nem promove ou modifica documentos."
+}

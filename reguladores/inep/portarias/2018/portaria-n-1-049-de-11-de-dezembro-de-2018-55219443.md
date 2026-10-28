@@ -1,0 +1,34 @@
+---
+titulo: "PORTARIA Nº 1.049, DE 11 DE DEZEMBRO DE 2018"
+orgao: "Ministério da Educação/Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira"
+tipo: "Portaria"
+numero: "1049"
+data: 2018-12-11
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 14/12/2018, seção 1, p. 18"
+data_publicacao: 2018-12-14
+edicao: "240"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-1-049-de-11-de-dezembro-de-2018-55219443"
+sha256_html_fonte: 421c30fef52f30f6b2d1c67d196b8b51b4cebc6c8da376ffc5380968a4339cb8
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 1.049, DE 11 DE DEZEMBRO DE 2018
+
+PORTARIA Nº 1.049, DE 11 DE DEZEMBRO DE 2018
+
+Credencia postos aplicadores do exame para obtenção do Certificado de Proficiência em Língua Portuguesa para Estrangeiros - Celpe-Bras
+
+A PRESIDENTE DO INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA - INEP, no exercício de suas atribuições, conforme estabelece o Inciso VI do Art. 16 do Anexo I do Decreto nº 6.317, de 20 de dezembro de 2007 e, combinado com o disposto na Portaria MEC nº 1.350, de 25 de novembro de 2010, e na Portaria INEP nº 334, de 2 de julho de 2013, resolve:
+
+**Art. 1º** Credenciar como Postos Aplicadores do exame para obtenção do Certificado de Proficiência em Língua Portuguesa para Estrangeiros - Celpe-Bras, as seguintes instituições:
+
+<table><tr></tr><tr><td><p>Instituição</p></td><td><p>Responsável</p></td><td><p>Endereço</p></td></tr><tr><td><p>Administración Nacional de Educación Pública - ANEP (Uruguai)</p></td><td><p>Laura Motta Migliaro</p></td><td><p>Piso 3, Av Libertador Brigadier Gral Juan Antonio Lavalleja 1409, 11100 - Montevideo</p></td></tr><tr><td><p>Centro Cultural Brasileiro em Tel Aviv (Israel)</p></td><td><p>Raquel Teles Yehezkel</p></td><td><p>57 Sderot Hen - Tel Aviv</p></td></tr><tr><td><p>Centro Cultural Brasil-Finlândia - CCBF (Finlândia)</p></td><td><p>Helena Surace Noto</p></td><td><p>Itäinen Puistotie 4 B 1, 00410 Helsinque</p></td></tr><tr><td><p>Centro Universitário de Idiomas (Argentina)</p></td><td><p>Carlos Leopoldo Bell</p></td><td><p>Rua Junin,222, CP C1026 ABF, Salvanera - Buenos Aires</p></td></tr><tr><td><p>Elo Cultural (Noruega)</p></td><td><p>Maria José Maciel</p></td><td><p>Fougstads gate 8, 0173, Oslo</p></td></tr><tr><td><p>Ohio State University - OSU (EUA)</p></td><td><p>Lúcia Helena S. Costigan</p></td><td><p>1775 College Road S. Columbus, Ohio</p></td></tr><tr><td><p>Portugalský Intitút (Eslováquia)</p></td><td><p>Zuzana Chudíková</p></td><td><p>Skuteckého 24, Banská Bystrica, SK-974 01, Escritório Gondova 2, Bratislava</p></td></tr><tr><td><p>Universidad de Costa Rica (Costa Rica)</p></td><td><p>Francisco José Guevara Quiel</p></td><td><p>San Pedro de Montes de Oca, San José, Caixa Postal 2060</p></td></tr><tr><td><p>Universidad Nacional de La Matanza (Argentina)</p></td><td><p>Roberto Luis Ayub</p></td><td><p>Florencio Varela 1903 - San Justo, Buenos Aires</p></td></tr><tr><td><p>Universidad Nacional de Misiones (Argentina)</p></td><td><p>Gisela Elizabeth Spaciuk</p></td><td><p>Rua Tucumán nº 1946, Posadas, Misiones</p></td></tr><tr><td><p>Universidade Federal da Fronteira Sul (Brasil)</p></td><td><p>Antonio Inácio Andrioli</p></td><td><p>Av. Fernando Machado, 108 E, Centro, Chapecó - Santa Catarina</p></td></tr><tr><td><p>Universidade Federal de Alfenas (Brasil)</p></td><td><p>Sandro Amadeu Cerveira</p></td><td><p>Rua Gabriel Monteiro da Silva, 700, Centro - Alfenas - Minas Gerais</p></td></tr><tr><td><p>Universidade Federal de Itajubá (Brasil)</p></td><td><p>Dagoberto Alves de Almeida</p></td><td><p>Av. BPS, nº 1303, Bairro Pinheirinho, Itajubá - Minas Gerais</p></td></tr><tr><td><p>Universidade Federal de Lavras (Brasil)</p></td><td><p>José Roberto Soares Scolforo</p></td><td><p>Rua Praça Prof. Edmir Sá Santos, Campus Universitário, Lavras - Minas Gerais</p></td></tr><tr><td><p>Universidade Federal de São João Del-Rei (Brasil)</p></td><td><p>Sérgio Augusto da G. Cerqueira</p></td><td><p>Praça Frei Orlando, 170 - Centro, São João del-Rei - Minas Gerais</p></td></tr><tr><td><p>Universidade Federal de Sergipe (Brasil)</p></td><td><p>Angelo Roberto Antoniolli</p></td><td><p>Av. Marechal Rondon, s/n, Conj. Rosa Elze. São Cristóvão - Sergipe</p></td></tr><tr><td><p>Universidade Federal do Acre (Brasil)</p></td><td><p>Margarida de Aquino Cunha</p></td><td><p>BR 364, KM 04, Campus Universitário - Distrito Industrial, Rio Branco - Acre</p></td></tr><tr><td><p>Universidade Federal do Ceará (Brasil)</p></td><td><p>Henry de Holanda Campos</p></td><td><p>Avenida da Universidade, 2853, Benfica, Fortaleza - Ceará</p></td></tr><tr><td><p>Universidade Federal do Mato Grosso (Brasil)</p></td><td><p>Myrian Thereza de Moura Serra</p></td><td><p>Avenida Fernando Correa da Costa, 2367 - Boa Esperança, Cuiabá - Mato Grosso</p></td></tr><tr><td><p>Universidade Federal do Pampa (Brasil)</p></td><td><p>Marco Antonio Fontoura Hansen</p></td><td><p>Av. General Osório, 900, Centro, Bagé - Rio Grande do Sul</p></td></tr><tr><td><p>Universidade Federal do Rio Grande (Brasil)</p></td><td><p>Elaine Nogueira da Silva</p></td><td><p>Avenida Itália, Km 08 - Campus Carreiros - Rio Grande - Rio Grande do Sul</p></td></tr><tr><td><p>Universidade Federal do Rio Grande do Norte (Brasil)</p></td><td><p>Ângela Maria Paiva Cruz</p></td><td><p>Av. Sen. Salgado Filho, 300 - Campus Universitário, Bairro Lagoa Nova - Natal - Rio Grande do Norte</p></td></tr><tr><td><p>Universidade Federal do Triângulo Mineiro (Brasil)</p></td><td><p>Ana Lúcia de Assis Simões</p></td><td><p>Avenida Frei Paulino, nº 30, 3º Andar - Bairro Abadia, Uberaba - Minas Gerais</p></td></tr><tr><td><p>Universidade Federal do Vale do São Francisco - UNIVASF (Brasil)</p></td><td><p>Julianeli Tolentino de Lima</p></td><td><p>Av. José de Sá Maniçoba, s/n - Centro - Petrolina - Pernambuco</p></td></tr><tr><td><p>Universidade Federal Rural de Pernambuco (Brasil)</p></td><td><p>Maria José de Sena</p></td><td><p>Rua Dom Manoel de Medeiros, s/n, Dois Irmãos, Recife - Pernambuco</p></td></tr><tr><td><p>Universidade Federal Rural do Semi-Árido (Brasil)</p></td><td><p>José Domingues Fontenele Neto</p></td><td><p>Av. Francisco Mota, 572 - Bairro Costa e Silva, Mossoró - Rio Grande do Norte</p></td></tr><tr><td><p>Verde Amarelo Instituto - VAI (Argentina)</p></td><td><p>Gabriela Höltz Falcão</p></td><td><p>Av. J. Bautista Alberdi, 1663 - 6º Andar, Apartamento "C" da Cidade Autônoma de Buenos Aires</p></td></tr></table>
+
+**Art. 2º** A habilitação para aplicar o Celpe-Bras, a cada edição do Exame, está condicionada ao atendimento à legislação vigente, aos critérios e às orientações definidas pelo Inep.
+
+**Art. 3º** Os postos aplicadores, por meio de seus representantes legais ou coordenadores, devem manter seus dados sempre atualizados.
+
+**Art. 4º** Esta Portaria entra em vigor na data de sua publicação.
+
+MARIA INÊS FINI

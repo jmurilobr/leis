@@ -1,0 +1,80 @@
+{
+  "limite_observado_endpoint": "400 KB, HTTP 403 determinístico por tamanho no primeiro request.",
+  "registros": [
+    {
+      "path": "federal/decretos/1942/dec-8886-1942-03-02.md",
+      "bytes_texto_utf8": 818170,
+      "caracteres_texto": 817277,
+      "abaixo_400000_bytes": false
+    },
+    {
+      "path": "federal/decretos/1941/dec-8263-1941-11-20.md",
+      "bytes_texto_utf8": 39191,
+      "caracteres_texto": 38962,
+      "abaixo_400000_bytes": true
+    },
+    {
+      "path": "federal/decretos/1941/dec-7839-1941-09-12.md",
+      "bytes_texto_utf8": 90683,
+      "caracteres_texto": 90300,
+      "abaixo_400000_bytes": true
+    },
+    {
+      "path": "federal/decretos/1941/dec-7809-1941-09-05.md",
+      "bytes_texto_utf8": 37220,
+      "caracteres_texto": 36962,
+      "abaixo_400000_bytes": true
+    },
+    {
+      "path": "federal/decretos/1941/dec-7614-1941-08-13.md",
+      "bytes_texto_utf8": 118764,
+      "caracteres_texto": 118252,
+      "abaixo_400000_bytes": true
+    },
+    {
+      "path": "federal/decretos/1941/dec-7603-1941-07-28.md",
+      "bytes_texto_utf8": 197843,
+      "caracteres_texto": 197129,
+      "abaixo_400000_bytes": true
+    },
+    {
+      "path": "federal/decretos/1941/dec-6944-1941-03-10.md",
+      "bytes_texto_utf8": 165070,
+      "caracteres_texto": 164443,
+      "abaixo_400000_bytes": true
+    },
+    {
+      "path": "federal/decretos/1941/dec-6823-1941-02-07.md",
+      "bytes_texto_utf8": 176370,
+      "caracteres_texto": 175601,
+      "abaixo_400000_bytes": true
+    },
+    {
+      "path": "federal/decretos/1940/dec-6406-1940-10-29.md",
+      "bytes_texto_utf8": 152360,
+      "caracteres_texto": 151910,
+      "abaixo_400000_bytes": true
+    },
+    {
+      "path": "federal/decretos/1940/dec-6050-1940-07-30.md",
+      "bytes_texto_utf8": 32993,
+      "caracteres_texto": 32900,
+      "abaixo_400000_bytes": true
+    },
+    {
+      "path": "federal/decretos/1940/dec-5364-1940-03-25.md",
+      "bytes_texto_utf8": 76488,
+      "caracteres_texto": 76160,
+      "abaixo_400000_bytes": true
+    },
+    {
+      "path": "federal/decretos/1940/dec-5313-1940-02-26.md",
+      "bytes_texto_utf8": 160705,
+      "caracteres_texto": 157161,
+      "abaixo_400000_bytes": true
+    }
+  ],
+  "chamadas_efetuadas": 1,
+  "chamadas_restantes_autorizadas": 11,
+  "limites": "Nenhuma retentativa, subdivisão ou remoção de markup foi feita."
+}

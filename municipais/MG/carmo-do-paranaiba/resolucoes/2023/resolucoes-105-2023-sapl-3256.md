@@ -1,0 +1,229 @@
+---
+titulo: "Resolução Legislativa nº 105, de 13 de abril de 2023"
+tipo: "Resolução"
+tipo_na_fonte: "Resolução Legislativa"
+numero: "105"
+data: "2023-04-13"
+municipio: "Carmo do Paranaíba"
+uf: "MG"
+codigo_ibge: "3114303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.carmodoparanaiba.mg.leg.br/norma/3256"
+fonte_texto: "https://sapl.carmodoparanaiba.mg.leg.br/ta/57/text"
+sha256_fonte: "9f9e145618c7fcd6432eed09a7c47166a5bbfb9d7955e6830cf92792d0682c56"
+sha256_texto: "bc70c42f383241a174129aef77026ee6873c141dd4d88b09878b3b00a911db7b"
+capturado_em_fonte: "2026-10-27T22:34:20.171482-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Resolução Legislativa nº 105, de 13 de abril de 2023
+
+Dispõe sobre a criação da Escola do Legislativo de Carmo do Paranaíba (MG), no âmbito da Câmara Municipal e dá outras providências.
+
+
+A Câmara Municipal de Carmo do Paranaíba aprova:
+
+
+Art. 1º.
+
+Fica criada, no âmbito da Câmara Municipal de Carmo do Paranaíba (MG), a Escola do Legislativo de Carmo do Paranaíba, com o objetivo de oferecer suporte conceitual de natureza técnico-administrativa às atividades legislativas e afins.
+
+
+Art. 2º.
+
+São objetivos específicos da Escola do Legislativo de Carmo do Paranaíba:
+
+
+I –
+
+oferecer aos parlamentares e aos servidores da Câmara Municipal de Carmo do Paranaíba suporte conceitual e treinamento para elaboração de leis e para o exercício das atividades profissionais das áreas administrativa e legislativa;
+
+
+II –
+
+promover a realização de cursos de ambientação aos novos vereadores, diretores e assessores parlamentares no início de cada Legislatura;
+
+
+III –
+
+oferecer aos servidores e aos profissionais terceirizados conhecimentos básicos para o exercício de funções diversas dentro do Legislativo e fora dele, quando em atividades voltadas para o público ao qual servem;
+
+
+IV –
+
+qualificar os servidores nas atividades de suporte técnico-administrativo ampliando a sua formação em assuntos legislativos;
+
+
+V –
+
+desenvolver ações de educação para a cidadania, visando a aproximação da sociedade ao parlamento municipal, principalmente a comunidade estudantil, como forma de colaborar com a realização de atividades parlamentares e políticas;
+
+
+VI –
+
+desenvolver programas e atividades específicas objetivando a formação e a qualificação de lideranças comunitárias e políticas;
+
+
+VII –
+
+estimular a pesquisa técnico-acadêmica voltada ao Legislativo, em cooperação com outras instituições públicas e/ou privadas;
+
+
+VIII –
+
+planejar e organizar eventos sobre temas de repercussão na sociedade que contribuam para a educação política e o aprimoramento da prática legislativa;
+
+
+IX –
+
+integrar e gerenciar convênios, especialmente com o Senado Federal, com a Câmara dos Deputados; com as Assembleias Legislativas; com as Câmaras Municipais; com os Executivos Municipais, estaduais e federal; com as associações; com as entidades de classe; com os órgãos dos Poderes da União; com os Tribunais de Contas; com o Ministério Público; com as universidades; com as faculdades; com as escolas técnicas e com as escolas de cursos de qualificação profissional, propiciando, entre outras atividades conjuntas, a participação de servidores e agentes políticos em videoconferências, treinamentos a distância e a realização de cursos de capacitação técnica e de cursos presenciais de formação acadêmica ou pós-acadêmica;
+
+
+X –
+
+manter atividades de cooperação e intercâmbio com o Poder Legislativo em seus diversos níveis no Brasil, e com instituições de ensino e de pesquisa, escolas e universidades, propiciando, entre outras atividades conjuntas, a participação de parlamentares, servidores e agentes políticos em treinamentos a distância;
+
+
+XI –
+
+ser agente de capacitação de vereadores e servidores de outras câmaras municipais e instituições, no cumprimento de compromissos firmados com instituições parceiras;
+
+
+XII –
+
+desenvolver as ações do Memorial da Câmara e incentivar a realização, a elaboração e o desenvolvimento de projetos na área da história e memória política do Município de Carmo do Paranaíba.
+
+
+XIII –
+
+manter uma biblioteca legislativa com um banco de informações e referências bibliográficas (publicações, teses, monografias, dissertações, entre outros) que tratem de questões e assuntos atinentes à política e legislação brasileira;
+
+
+XIV –
+
+informar e capacitar a comunidade em temas afins às atividades institucionais do Poder Legislativo;
+
+
+XV –
+
+desenvolver ações motivacionais, por meio de palestras, atividades e políticas de relações humanas;
+
+
+XVI –
+
+desenvolver atividades de treinamento, capacitação e de ambientação organizacional dos servidores em estágio probatório;
+
+
+XVII –
+
+desenvolver ações de preparo e programas de aposentadoria dos servidores;
+
+
+XVIII –
+
+promover a valorização humana dos servidores, proporcionando bem estar e qualidade de vida, por meio de ações e atividades;
+
+
+Art. 3º.
+
+A Escola do Legislativo Carmo do Paranaíba é diretamente subordinada à Mesa Diretora da Câmara Municipal de Carmo do Paranaíba.
+
+
+Parágrafo único
+
+A Escola do Legislativo terá autonomia organizativa, pedagógica e didática no planejamento, na execução e na avaliação de seus programas e atividades.
+
+
+Art. 4º.
+
+A Escola do Legislativo de Carmo do Paranaíba tem a seguinte estrutura organizacional:
+
+
+I –
+
+Presidência;
+
+
+II –
+
+Direção;
+
+
+III –
+
+Coordenação Pedagógica e de Projetos;
+
+
+IV –
+
+Conselho Geral.
+
+
+§ 1º
+
+As funções administrativas, conforme estrutura organizacional proposta no caput deste artigo, serão desenvolvidas em regime de colaboração, respectivamente pelos seguintes agentes:
+
+
+I –
+
+Presidência: pelo Presidente da Câmara Municipal;
+
+
+II –
+
+Direção: por servidor da Câmara Municipal designado pelo Presidente;
+
+
+III –
+
+Coordenação Pedagógica e de Projetos: por servidor da Câmara Municipal designado pelo Presidente;
+
+
+IV –
+
+Conselho Geral: por um membro da Mesa Diretora do Legislativo, designado pelo Presidente; pelo Consultor Jurídico/Advogado; pelo Diretor Administrativo, pelo Diretor Legislativo e pelo Diretor da Escola do Legislativo.
+
+
+§ 2º
+
+O projeto pedagógico da Escola do Legislativo de Carmo do Paranaíba poderá executar com o apoio da Associação Brasileira das Escolas do Legislativo e de Contas – ABEL.
+
+
+Art. 5º.
+
+As funções e atividades administrativas de que trata esta Resolução são consideradas de relevante interesse público e não serão remuneradas.
+
+
+Art. 6º.
+
+A Mesa Diretora, no prazo de sessenta dias, instituirá o Regimento Interno da Escola do Legislativo de Carmo do Paranaíba.
+
+
+Art. 7º.
+
+A Escola do Legislativo de Carmo do Paranaíba integrará a Associação Brasileira das Escolas do Legislativo e de Contas – ABEL.
+
+
+Art. 8º.
+
+Para atender as despesas decorrentes desta Resolução serão usados recursos próprios do orçamento vigente, suplementados se necessário.
+
+
+Art. 9º.
+
+Esta Resolução entra em vigor na data de sua publicação.
+
+
+Carmo do Paranaíba/MG, 13 de abril de 2023.
+
+**Mucio Moreira**
+
+\- Presidente da Câmara -
+
+**Enivaldo Pereira da Silva Luis Ricardo de Oliveira Dias**
+
+\- Vice-Presidente - - Secretário -
+

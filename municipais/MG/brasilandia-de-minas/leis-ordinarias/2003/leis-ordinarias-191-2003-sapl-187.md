@@ -1,0 +1,215 @@
+---
+titulo: "Lei Ordinária nº 191, de 30 de dezembro de 2003"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "191"
+data: "2003-12-30"
+municipio: "Brasilândia de Minas"
+uf: "MG"
+codigo_ibge: "3108552"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.brasilandiademinas.mg.leg.br/norma/187"
+fonte_texto: "https://sapl.brasilandiademinas.mg.leg.br/ta/185/text"
+sha256_fonte: "ede024dd26196ff3b6dd230224fdff3a22eb94a0119841e3b52fdf3819a5d339"
+sha256_texto: "778acb3c2578c43f1f03cfe66af1b8ad4f36ed8f4b46de06b627c9a9644a6337"
+capturado_em_fonte: "2026-10-27T20:00:04.971075-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 191, de 30 de dezembro de 2003
+
+Institui Serviço de Assistência Jurídica do Município de Brasilândia de Minas e da outras providências.
+
+
+O Prefeito Municipal de Brasilândia de Minas, Estado de Minas Gerais, no uso de atribuição que lhe confere o artigo 86 inciso VII da Lei Orgânica Municipal, faz saber que a Câmara Municipal Decreta e ele, em seu nome, sanciona a seguinte lei:
+
+
+Art. 1º.
+
+Fica instituído, no âmbito do Departamento de Saúde e Ação Social, o Serviço de Assistência Judiciária, de natureza permanente, com a finalidade de prestar, de forma subsidiária, assistência jurídica à população de baixa renda, quando recorrer à prestação jurisdicional civil.
+
+
+I –
+
+\- O serviço de assistência judiciária, incumbirá de atender somente as pessoas com provada e reconhecidamente de baixa renda familiar, situação esta que deverá ser reconhecida através do serviço de Assistência Social de Prefeitura, após rigorosa triagem das condições de pobreza do eventual beneficiário do atendimento.
+
+
+II –
+
+Verificando a qualquer tempo, que o pretendente à assistência não reúne as condições adequadas para o beneficio, o serviço de assistência judiciária deixará de atende-lo e o encaminhara ao Ministério Publico da comarca, o qual decidirá sobre a espécie de atendimento a ser-lhe dispensado.
+
+
+Parágrafo único
+
+O Serviço de Assistência Judiciária tem caráter de programa assistencial do Município, não lhe sendo atribuída autonomia administrativa e financeira.
+
+
+Art. 2º.
+
+Para efeitos desta Lei, considera-se carente, sem prejuízo dos casos previstos na Lei Federal 1.060, de fevereiro de 1.950:
+
+
+I –
+
+o cidadão cuja renda familiar seja igual ou inferior a 03 (três) salários mínimos mensais:
+
+
+II –
+
+o cidadão cujo património não seja superiora 80 (oitenta) salários mínimos
+
+
+III –
+
+os desempregados, observados as disposições dos incisos l e II deste artigo.
+
+
+Art. 3º.
+
+A parte interessada depois do reconhecimento da carência, nos termos do inciso I do artigo 1. gozará dos benefícios da assistência judiciária, mediante simples afirmação, na própria petição inicial, de que não está em condições de pagar as custas do processo cos honorários de advogado sem prejuízo próprio ou de sua família.
+
+
+Parágrafo único
+
+Com provada a má fé do declarante com relação ao seu estado de carência nos termos desta lei, será penalizado com o pagamento de até o décuplo das custas judiciais nos termos da Lei 1.060 de 05 de fevereiro de 1950.
+
+
+Art. 4º.
+
+Toda a documentação com probatória do estado de pobreza e a destinação a eventual postulação em prejuízo, ficarão a exclusivo cargo do pretendente ä assistência, sendo vedado no serviço de assistência judiciária destinar quaisquer verbas para obtenção de certidões, atestados, registros documentos (pessoais ou não), copins reprográficas, alvarás, autorizações, autenticações, selagem, reconhecimento de firmas c outras despesas similares.
+
+
+Art. 5º.
+
+O serviço de Assistência Judiciária a comunidade carente atuará, prioritariamente, na esfera cível do direito, voltada, de preferência, para as questões de relevante motivo social, atendendo, também os casos que lhe sejam remetidos pela Ministério Publico da Comarca e que estejam dentro de sua alçada, desde que o interessado tenha seu estado de carência reconhecido na forma do artigo 1e 2" desta lei:
+
+
+Art. 6º.
+
+A atuação do serviço de Assistência Judiciária limitar-se-á aos seguintes Casos:
+
+
+I –
+
+procedimentos especiais de jurisdição voluntária prevista no livro IV, titulo H do código de Processo Cível Brasileiro, à exceção da organização e fiscalização da hipoteca legal;
+
+
+II –
+
+requerimento de alimentos provisionais ou de pensão alimentícia;
+
+
+III –
+
+investigação de paternidade:
+
+
+IV –
+
+suprimento de idade e, em casos especiais, a critério de assistência, suprimento de consentimento;
+
+
+V –
+
+defesa em procedimento de despejo a ações possessórias, em casos especiais, quando envolva interesses coletivos, de acordo com o prudente critério da Procuradoria Geral;
+
+
+VI –
+
+retificações de assentos e registros civis,
+
+
+VII –
+
+postulação em beneficio de réu preso.em casos excepcionais, aparecidos sob o ángulo do interesse social hum anitário, resguardando sobretudo o aspecto de segurança da população e a critério da Procuradoria Geral:
+
+
+VIII –
+
+orientação jurídica e social verbal, dentro dos critérios prescritos na presente Lei.
+
+
+Art. 7º.
+
+O Serviço de Assistência Judiciária não alcança a prestação de serviço jurisdicional que envolva bens patrimoniais ou que tenha como litigante o Município de Brasilândia de Minas.
+
+
+Art. 8º.
+
+Cabe no serviço de Assistência Judiciária prestar a mais ampla assistência judiciária no cidadão carente, provendo-lhe o acompanhamento profissional e cuidando dos seus interesses.
+
+
+Art. 9º.
+
+Será mantido no mínimo um advogado devidamente inserto na Ordem dos Advogados do Brasil, para a prestação dos serviços de assistência judiciária regulamentados por esta lei.
+
+
+Art. 10.
+
+É vedado aos servidores ligados aos serviços de Assistência Judiciária à delegação de quaisquer serviços a outros advogados alheios no serviço, ainda quando os mesmos sejam nomeados como "dativos", pelo Ministério Publico da comarca, para atender casos e pessoas não enquadradas nos parâmetros estabelecidos por esta lei.
+
+
+Art. 11.
+
+E vedado expressamente aos membros do serviço de Assistência Judiciária à comunidade:
+
+
+I –
+
+prestar orientação ou assistência de qualquer espécie a terceiros, em oposição aos direitos e interesses da Municipalidade de Brasilândia:
+
+
+II –
+
+o recebimento de quaisquer honorários, gratificações ou compensações dos assistidos.
+
+
+Art. 12.
+
+As restrições contidas no artigo anterior, é extensiva aos advogado se estagiários não integrantes do serviço de assistência judiciária à comunidade carente, quando estes, estejam prestando sua colaboração profissional ao serviço.
+
+
+Parágrafo único
+
+A colaboração dos profissionais não vinculados ao serviço de Assistência Judiciária a comunidade Carente será feita espontânea e gratuitamente.
+
+
+Art. 13.
+
+A estrutura organizacional e os cargos necessários ao funcionamento dos serviços de assistência judiciária serão dispostos em lei complementar inerente.
+
+
+Art. 14.
+
+Para dar cumprimento às disposições desta Lei, fica o Poder Executivo Municipal, autorizado a celebrar convênios, acordos ou contratos com o Poder Judiciário, a nível Estadual e Federal.
+
+
+Art. 15.
+
+O Serviço de Assistência Judiciária priorizará a assistência jurídica as mulheres e crianças, vitimas de violência.
+
+
+Art. 16.
+
+Ninguém será privado do direito ao Serviço de Assistência judiciária por motivo de crença religiosa, cor, raça, sexo ou convicção filosófica ou politica, observadas as disposições desta Lei.
+
+
+Art. 17.
+
+Para fazer face às despesas, necessárias ao cumprimento desta lei, fica autorizado a abertura de crédito especial ao orçamento vigente no valor de R$ 15.000,00 (quinze mil reais), utilizando-se para tanto a anulação parcial de dotações orçamentárias integrantes da Lei orçamentária de 2.004.
+
+
+Art. 18.
+
+Esta Lei entrará em vigor na data de sua publicação.com efeitos financeiros a partir de 01 de março de 2.004.
+
+
+Prefeitura Municipal de Brasilândia de Minas, 30 de dezembro de 2.003.
+
+**Heraldo Gomes Rangel**
+
+**Prefeito Municipal**
+

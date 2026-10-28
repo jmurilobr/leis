@@ -1,0 +1,121 @@
+---
+titulo: "LEI ORDINÁRIA nº 469, de 01 de julho de 2015"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "469"
+data: "2015-07-01"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/596"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/571/text"
+sha256_fonte: "75cd2bcc4f2bdec4fc08fa9f9121a4997de0d23e0d12f89d147b9da79176e8b6"
+sha256_texto: "8eb5ba6df12844d5e112a68749ce5f1b41b30c987edf443a7e32b71fd535e1dc"
+capturado_em_fonte: "2026-10-27T20:23:41.181516-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 469, de 01 de julho de 2015
+
+**Fixa os valores dos recursos pecuniários destinados a médicos participantes do Programa Mais Médicos para o Brasil com atuação no Município de Cabeceira Grande e dá outras providências.**
+
+
+**O PREFEITO DO MUNICÍPIO DE CABECEIRA GRANDE**, Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 76, inciso III da Lei Orgânica do Município, faz saber que a Câmara Municipal de Cabeceira Grande decreta e ele, em seu nome, sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Ficam fixados, conforme a seguir discriminados, os valores dos recursos pecuniários destinados a médicos atuantes no Município de Cabeceira Grande e participantes do Programa Mais Médicos para o Brasil instituído pela Lei Federal n.º 12.871, de 22 de outubro de 2013, em observância do disposto na Portaria n.º 30, de 12 de fevereiro de 2014, da Secretaria de Gestão do Trabalho e da Educação na Saúde do Ministério da Saúde ou ato administrativo posterior:
+
+
+I –
+
+R$ 800,00 (oitocentos reais), como recurso pecuniário destinado a assegurar o fornecimento de moradia a cada médico participante do Programa Mais Médicos para o Brasil com atuação no Município; e
+
+
+II –
+
+R$ 700,00 (setecentos reais), como recurso pecuniário destinado a assegurar o fornecimento de alimentação a cada médico participante do Programa Mais Médicos para o Brasil com atuação no Município.
+
+
+§ 1º
+
+As despesas vinculadas ao recurso pecuniário previsto no inciso I deste artigo (moradia), deverão ser comprovadas, mensalmente, pelo médico participante, aplicando-se, no que couber, as regras da Contabilidade Pública acerca de prestação de contas, não se exigindo essa prestação de contas das despesas inerentes ao recurso pecuniário previsto no inciso II.
+
+
+§ 2º
+
+Incluem-se no conceito de moradia, inclusive por extensão, as seguintes despesas:
+
+
+I –
+
+locação do imóvel;
+
+
+II –
+
+energia elétrica;
+
+
+III –
+
+abastecimento de água;
+
+
+IV –
+
+telefone fixo; e
+
+
+V –
+
+Internet.
+
+
+§ 3º
+
+Os valores dos recursos pecuniários previstos nos incisos I e II do caput deste artigo poderão ser revistos, por decreto do Prefeito, inclusive no caso de haver alteração nos parâmetros e referências de valores (mínimo e máximo) na Portaria n.º 30, de 12 de fevereiro de 2014.
+
+
+§ 4º
+
+Os recursos pecuniários de que trata este artigo possuem natureza indenizatória, e não gera qualquer vinculo empregatício entre o Município e o médico participante do Programa Mais Médicos para o Brasil, não se computando como gastos com pessoal.
+
+
+§ 5º
+
+Os valores dos recursos pecuniários de que trata este artigo são devidos ao médico participante do Programa Mais Médicos para o Brasil, enquanto estiver vinculado a tal programa, e desde que em plena e efetiva atuação no Município de Cabeceira Grande.
+
+
+Art. 2º.
+
+As despesas decorrentes da execução desta Lei correrão à conta da dotação orçamentária assim codificada: 02.10.01.10.301.0022.2087.3.3.90.48.00 (Outros Auxílios Financeiros a Pessoa Física, Ficha 565), observada a codificação própria de cada exercício financeiro.
+
+
+Art. 3º.
+
+Ficam convalidados os atos de repasse de recursos pecuniários a médicos participantes do Programa Mais Médicos para o Brasil com atuação do Município de Cabeceira Grande, praticados até a data de publicação desta Lei em conformidade com a Portaria n.º 30, de 2014, da Secretaria de Gestão do Trabalho e da Educação na Saúde do Ministério da Saúde.
+
+
+Art. 4º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+**Cabeceira Grande, 1º de julho de 2015; 19º da Instalação do Município.**
+
+**ODILON DE OLIVEIRA E SILVA**
+
+**Prefeito**
+
+**DAILTON GERALDO RODRIGUES GONÇALVES**
+
+**Consultor Jurídico, Legislativo, de Governo e Assuntos Administrativos e Institucionais.**
+
+**"Este texto não substitui o original"**
+

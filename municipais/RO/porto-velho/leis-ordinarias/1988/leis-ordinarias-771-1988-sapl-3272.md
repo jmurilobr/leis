@@ -1,0 +1,315 @@
+---
+titulo: "Lei nº 771, de 26 de setembro de 1988"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "771"
+data: "1988-09-26"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/3272"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/4394/text"
+sha256_fonte: "911388da1fa7e5544f495f1b12b6c5c5cf6bcdd75df3d798093190ca868d241e"
+sha256_texto: "e26c499df0a2fcb18d1d5beb1fb4564166273568fdef3303678949377b45c8a0"
+capturado_em_fonte: "2026-10-27T22:20:11.649921-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 771, de 26 de setembro de 1988
+
+"Normatiza o Fundo de Desenvolvimento Comunitário de Porto Velho, e dá outras providências na forma do artigo 3º da Lei Municipal nº 725 de 14.01.88".
+
+
+O PREFEITO DO MUNICÍPIO DE PORTO VELHO, no uso das atribuições que lhe são conferidas na letra "a", § 1º, do artigo 169 da Constituição do Estado de Rondônia.
+
+FAÇO SABER que a Câmara Municipal de Porto Velho, aprovou e eu sanciono a seguinte
+
+LEI:
+
+
+Art. 1º.
+
+O Fundo de Desenvolvimento Comunitário do Município de Porto Velho - FUNDECOM, visa apoiar o desenvolvimento das Comunidades, assentadas pela Prefeitura do Município de Porto Velho, através do financiamento de Programas e Projetos que estimulem e favoreçam a melhoria da qualidade de vida dessas populações.
+
+
+Art. 2º.
+
+Além do previsto no artigo 1º são objetivos específicos do FUNDECOM:
+
+
+I –
+
+Viabilizar o acesso da comunidade aos serviços de abastecimento de: água potável, drenagem de águas servidas e outros serviços necessários ao saneamento básico.
+
+
+II –
+
+Incentivar e incrementar o desenvolvimento de atividades produtivas na área de complementação alimentar;
+
+
+III –
+
+apoiar as atividades comunitárias geração de emprego e aumento da renda familiar, inclusive promovendo a preparação e o aperfeiçoamento de mão-de-obra.
+
+
+IV –
+
+Promover o atendimento à infância e ao idoso;
+
+
+V –
+
+Promover a assistência ao excepcional;
+
+
+VI –
+
+Apoiar as manifestações culturais da Comunidade;
+
+
+VII –
+
+Incentivar a adoção de práticas educativas sobre a utilização dos equipamentos públicos;
+
+
+VIII –
+
+E, outras atividades que venham a ser necessárias à execução desta Lei.
+
+
+Art. 3º.
+
+O FUNDECOM será administrado pela Secretaria Municipal de Ação Comunitária, com a participação do Conselho Consultivo, formado por 2 (dois) representantes da SEMAC; 1 (hum) representante da Câmara de Vereadores; 1 (hum) representante da Associação de Moradores de cada comunidade assistida pelo Fundo, e um representante da União Municipal das Associações de Moradores de Porto Velho - UMAM/PVH.
+
+
+§ 1º
+
+Os representantes da SEMAC, bem como seus suplentes, serão indicados pelo Secretário Municipal, podendo o Secretário auto indicar-se;
+
+
+§ 2º
+
+O representante da Câmara Municipal assim como seu suplente, será indicado pelo Presidente da Câmara Municipal.
+
+
+§ 3º
+
+O representante da União Municipal das Associações de Moradores de Porto Velho - UMAM/PVH, e seu suplente, serão indicados em Assembléia Geral dos representantes de Associações de Moradores de Porto Velho.
+
+
+§ 4º
+
+O representante da Associação de Moradores de cada comunidade assistida pelo FUNDECOM, assim como seu suplente serão indicados em Assembléia Geral dos Moradores.
+
+
+§ 5º
+
+Os membros do Conselho Consultivo não serão remunerados, mas terão atuação considerada como serviço relevante para a sociedade civil e para a comunidade.
+
+
+§ 6º
+
+Os conselheiros terão mandato de um ano sendo permitido a recondução para mais um mandato.
+
+
+Art. 4º.
+
+Compete a Secretaria Municipal de Ação Comunitária:
+
+
+I –
+
+Organizar a Secretaria Administrativa do FUNDECOM;
+
+
+II –
+
+Exercer a coordenação, a supervisão, o controle e avaliação dos programas, projetos e atividades executadas com recursos do FUNDECOM;
+
+
+III –
+
+Arrecadar e administrar os recursos do FUNDECOM;
+
+
+IV –
+
+Delegar competências para gerir negócios de que trata a presente Lei;
+
+
+V –
+
+Firmar convênios e acordos com entidades afins para atendimento a comunidade;
+
+
+VI –
+
+Contratar serviços e obras, realizar compras e efetuar pagamentos;
+
+
+VII –
+
+Abrir, movimentar e encerrar conta Bancária;
+
+
+VIII –
+
+Prestar conta anualmente da movimentação financeira;
+
+
+IX –
+
+Manter a Secretaria Municipal da Fazenda informada da movimentação da receita e despesa da FUNDECOM;
+
+
+X –
+
+Convocar o Conselho Consultivo, ordinariamente na forma da Lei e extraordinariamente quando se fizer necessária;
+
+
+XI –
+
+Baixar atos e resoluções referendando decisões do conselho que digam respeito ao FUNDECOM;
+
+
+XII –
+
+Leiloar os bens inservíveis do FUNDECOM revertendo o fruto em receita própria.
+
+
+Art. 5º.
+
+Compete ao Conselho Consultivo:
+
+
+I –
+
+Eleger o seu Presidente para o mandato de um (01) ano;
+
+
+II –
+
+Elaborar o seu Regimento Interno;
+
+
+III –
+
+Aprovar contratos, acordos, convênios, planos, programas e projetos submetidos a sua apreciação, encaminhados pela SEMAC e/ou comunidade;
+
+
+IV –
+
+Apreciar e decidir sumariamente em primeira instância sobre reclamação e representação da Comunidade;
+
+
+V –
+
+Emitir parecer nas contas e balanços anuais do FUNDECOM;
+
+
+VI –
+
+Zelar pelos objetivos do FUNDECOM;
+
+
+VII –
+
+Realizar reuniões ordinárias e extraordinárias sempre que matérias urgentes assim o exigirem;
+
+
+VIII –
+
+Debater qualquer questão de interesse do FUNDECOM;
+
+
+Parágrafo único
+
+Outras competências poderão ser atribuídas ao conselho consultivo dentro do seu Regimento Interno desde que não contrariem os princípio fundamentais desta Lei.
+
+
+Art. 6º.
+
+O FUNDECOM automanter-se-á com arrecadação:
+
+
+a)
+
+Ordinária - taxas arrecadadas das famílias assentadas em loteamento do Patrimônio Municipal ou recursos semelhantes;
+
+
+b)
+
+Extraordinária - doações, legados, contribuições e auxílios de pessoas físicas ou jurídicas de direito privado ou público, nacionais ou estrangeiras.
+
+
+Art. 7º.
+
+A receita prevista na alinea "a" do Art. 6º desta lei será realizada com recolhimento mensal do estabelecido na Lei nº 726/88.
+
+
+Art. 8º.
+
+As despesas iniciais de instalação de FUNDECOM, serão cobertas em até 50% (cincoenta por cento) de seu valor com recursos próprios e o restante com dotação orçamentária da SEMAC.
+
+
+Art. 9º.
+
+Os recursos do FUNDECOM serão aplicados em custeio e investimento, podendo ser aplicado em administração no máximo até 10% (dez por cento) dos recursos do FUNDECOM.
+
+
+§ 1º
+
+Os benefícios oriundos do FUNDECOM destinam-se exclusivamente as comunidades contribuintes;
+
+
+§ 2º
+
+É vedado a contratação, admissão e nomeação de pessoal com recursos do FUNDECOM.
+
+
+Art. 10.
+
+As doações, legados e outras contribuições que não vierem com fim destinado, deverão obedecer a regra estabelecida no art. 9º.
+
+
+Art. 11.
+
+Nenhum investimento será efetivado sem prévia consulta e discussão com a comunidade, de forma a privilegiar a sua participação na concepção, execução e avaliação dos programas e projetos.
+
+
+Art. 12.
+
+Em caso de extinção ou liquidação do FUNDECOM, ressalvados os direitos de terceiros, o seu patrimônio e saldo financeiro será revertido em favor das comunidades assistida pelo FUNDO.
+
+
+Art. 13.
+
+Sancionada a presente Lei a Secretaria Municipal de Ação Comunitária terá competência plena para administrar o FUNDECOM até sua instalação definitiva.
+
+
+Art. 14.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Art. 15.
+
+Revogam-se as disposições em contrário.
+
+
+TOMÁS GUILHERME CORREIA
+
+Prefeito Municipal
+
+CARMEM LÚCIA SPIRLANDELI
+
+Secretária Munic. de Ação Comunitária.
+
+STEFENSON PINHEIRO SILVA
+
+Procurador Geral.
+

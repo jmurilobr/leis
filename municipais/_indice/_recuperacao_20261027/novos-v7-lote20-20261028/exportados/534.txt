@@ -1,0 +1,549 @@
+---
+titulo: "04 - Lei Ordinária nº 598, de 09 de novembro de 2004"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "598"
+data: "2004-11-09"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/397"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/378/text"
+sha256_fonte: "33ceffab8df5d985ec3d858fc66645e50bbaa358f781811c3b798d7cfedc2635"
+sha256_texto: "db5e6d67a6bb741199fbd02522e006c74105d1e51a2cd25701c303aebc132bce"
+capturado_em_fonte: "2026-10-28T06:44:13.160420-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 598, de 09 de novembro de 2004
+
+Dispõe sobre a abertura de Crédito Adicional Suplementar no valor de R$ 553.000,00 (quinhentos e cinqüenta e três mil reais), e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou e, Eu Prefeito Municipal sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Fica autorizado a abertura de Crédito Adicional Suplementar no valor de R$ 553.000,00 (quinhentos e cinqüenta e três mil reais), para reforço de dotações orçamentárias, a saber:
+
+
+**01 LEGISLATIVO MUNICIPAL**
+
+01 CÂMARA MUNICIPAL
+
+01010103101012001 MANUTENÇÃO ATIVIDADES DO LEGISLATIVO
+
+339039 Outros Serviços de terceiros P. Jurídica 7.000,00
+
+**03 SECRETARIA FAZENDA E COORD. GERAL**
+
+03 DEPTO. ADMINISTRAÇÃO
+
+0303.041220307.2008 MANUT. DEPTO. DE ADMINISTRAÇÃO
+
+*339036 Outros Serviços Terceiros - Pessoa Física 8.000,00*
+
+*339039 Outros Serviços Terceiros - Pessoa Jurídica 15.000,00*
+
+**04 SECRETARIA DESENVOLVIMENTO ECONÔMICO**
+
+1 01 DEPTO. AGRICULTURA
+
+0401.2060604182.016 MANUT. DEPTO. AGRICULTURA
+
+*339036 Outros Serviços Terceiros - Pessoa Física 10.000,00*
+
+02 DIVISÃO INDÚSTRIA, COMÉRCIO E SERVIÇO
+
+0402.2266111622.017 MANUT. DIVISÃO IND. COMÉRCIO E SERVIÇO
+
+*319011 Vencimento Vantagens Fixas - Pessoal 10.000,00*
+
+**05 SECRETARIA VIAÇÃO, URB. E OBRAS PÚBLICAS**
+
+01 DEPTO. INFRA-ESTRUTURA, OBRAS E SERV. URB.
+
+0501.1545210582.018 MANUT. OBRAS E SERVIÇOS URBANOS
+
+*319011 Vencimento Vantagens Fixas - Pessoal 40.000,00*
+
+*339030 Material de Consumo 10.000,00*
+
+*339036 Outros Serviços Terceiros - Pessoa Física 5.000,00*
+
+0501.1575210602.019 MANUT. DE ILUM. EM VIAS E LOGRADOUROS
+
+*339030 Material de Consumo 5.000,00*
+
+0502.2678216882.020 MANUT. DOS SERVIÇOS RODOVIÁRIOS
+
+*319011 Vencimento Vantagens Fixas - Pessoal 40.000,00*
+
+*319013 Obrigações Patronais 5.000,00*
+
+*339030 Material de Consumo 25.000,00*
+
+*339039 Outros Serviços Terceiros - Pessoa Jurídica 15.000,00*
+
+**06 SECRETARIA EDUCAÇÃO, CULT. E ESPORTE**
+
+01 DEPTO. DE ENSINO
+
+0601.1236108422.021 MANUT. DEPTO. DE ENSINO FUNDAMENTAL
+
+*339030 Material de Consumo 15.000,00*
+
+0601.1236508422.024 MANUT. EDUCAÇÃO INFANTIL
+
+*319011 Vencimento Vantagens Fixas - Pessoal 50.000,00*
+
+*319013 Obrigações Patronais 17.000,00*
+
+0601.1236108422.038 PROGRAMA SALÁRIO EDUCAÇÃO
+
+*339030 Material de Consumo 15.000,00*
+
+02 FMDEFVM
+
+0602.1236108422.027 MANUT. QUADRO PERM. MAGISTÉRIO 60% FUNDEF
+
+*319011 Vencimento Vantagens Fixas - Pessoal 40.000,00*
+
+0602.1236108422.028 FUNDEF 40% - MANUT. ENSINO FUNDAMENTAL
+
+*319011 Vencimento Vantagens Fixas - Pessoal 20.000,00*
+
+04 DEPTO. AÇÃO CULTURAL
+
+0604.2781208462.031 MANUT. DEPTO. ESPORTE E RECREAÇÃO
+
+*319013 Obrigações Patronais 3.000,00*
+
+05 DEPTO. ORGANIZAÇÃO COMUNITÁRIA
+
+0605.0824415812.040 EXECUÇÃO PROGRAMA DO - SAC
+
+*335043 Subvenções Sociais 10.000,00*
+
+**07 SECRETARIA DE SAÚDE**
+
+01 DEPTO. ATEND. PRIM. E SAÚDE COMUNITÁRIA
+
+0701.1030215812.036 MANUT. ATEND. PRIM. E SAÚDE COMUNITÁRIA
+
+*319011 Vencimento Vantagens Fixas - Pessoal 70.000,00*
+
+*319013 Obrigações Patronais 30.000,00*
+
+*339030 Material de Consumo 45.000,00*
+
+*339033 Passagens e Despesa com Locomoção 5.000,00*
+
+*339036 Outros Serviços Terceiros - Pessoa Física 10.000,00*
+
+*339039 Outros Serviços Terceiros - Pessoa Jurídica 13.000,00*
+
+02 EXECUÇÃO DE PROGRAMAS E CONVÊNIOS
+
+0702.1030113752.035 EXECUÇÃO DOS RECURSOS DO PAB
+
+*339036 Outros Serviços Terceiros - Pessoa Física 15.000,00*
+
+
+Art. 2º.
+
+Os recursos para cobertura do referido crédito adicional suplementar decorrerão de anulação total e parcial de dotações orçamentárias, a saber:
+
+
+**01 LEGISLATIVO MUNICIPAL**
+
+01 CÂMARA MUNICIPAL
+
+01010103101012001 MANUTENÇÃO ATIVIDADES DO LEGISLATIVO
+
+319034 Outras Desp. Pessoal Decr. Contr. Terceir. 3.000,00
+
+339037 Locação de mão-de-obras 4.000,00
+
+**02 GOVERNO MUNICIPAL**
+
+01 GABINETE DO PREFEITO
+
+0201.041220309.2002 MANUT. GABINETE DO PREFEITO
+
+*319011 Vencimento Vantagens Fixas - Pessoal 4.400,00*
+
+*339033 Passagens e Despesa com Locomoção 3.500,00*
+
+*339035 Serviços de Consultoria 3.000,00*
+
+*339036 Outros Serviços Terceiros - Pessoa Física 2.000,00*
+
+02 ASSESSORIA JURÍDICA
+
+0202.0206102042.003 MANUT. ATIVIDADES JURÍDICAS
+
+*319011 Vencimento Vantagens Fixas - Pessoal 3.500,00*
+
+*339033 Passagens e Despesa com Locomoção 2.000,00*
+
+03 ASSESSORIA DE COMUNICAÇÃO
+
+0203.2413106292.004 MANUT. ATIVIDADES COMUNICAÇÃO
+
+*339030 Material de Consumo 2.000,00*
+
+*339033 Passagens e Despesa com Locomoção 2.500,00*
+
+*339036 Outros Serviços Terceiros - Pessoa Física 2.000,00*
+
+*449052 Equipamentos e Material Permanente 3.000,00*
+
+04 JUNTA DE SERVIÇO MILITAR
+
+0204.0412203072.005 MANUT. DO SERVIÇO MILITAR
+
+*339033 Passagens e Despesa com Locomoção 3.000,00*
+
+*449052 Equipamentos e Material Permanente 2.000,00*
+
+**03 SECRETARIA FAZENDA E COORD. GERAL**
+
+01 GABINETE DO SECRETÁRIO
+
+0301.041220307.2006 MANUT. GABINETE DO SECRETÁRIO
+
+339030 Material de Consumo 2.000,00
+
+339033 Passagens e Despesa com Locomoção 2.000,00
+
+339035 Serviços de Consultoria 2.000,00
+
+339036 Outros Serviços Terceiros - Pessoa Física 2.000,00
+
+339039 Outros Serviços Terceiros - Pessoa Jurídica 2.000,00
+
+449052 Equipamentos e Material Permanente 3.000,00
+
+02 DEPTO. PLANEJAMENTO
+
+0302.021210309.2007 MANUT. DEPTO. DE PLANEJAMENTO
+
+319013 Obrigações Patronais 5.000,00
+
+339030 Material de Consumo 3.000,00
+
+339035 Serviços de Consultoria 3.000,00
+
+449052 Equipamentos e Material Permanente 3.000,00
+
+03 DEPTO. ADMINISTRAÇÃO
+
+0303.041220307. 1001 RECUPERAÇÃO DO PAÇO MUNICIPAL
+
+449051 Obras e Instalações 5.000,00
+
+0303.041220307.2008 MANUT. DEPTO. DE ADMINISTRAÇÃO
+
+319004 Contratação por Tempo Determinado 2.200,00
+
+339093 Indenizações e Restituições 2.500,00
+
+04 DIVISÃO DE PESSOAL
+
+0304.041220307.2009 MANUT. DEPTO. DE PESSOAL
+
+449052 Equipamentos e Material Permanente 2.000,00
+
+05 DIVISÃO FINANÇAS E TESOURARIA
+
+0305.041230308.2010 MANUT. DIVISÃO FINANÇAS E TESOURARIA
+
+329025 Encargos Sobre Operações de Crédito por Antecip. da Receita 2.000,00
+
+339036 Outros Serviços Terceiros - Pessoa Física 2.000,00
+
+0305.288430308.2011 AMORTIZAÇÃO DA DÍVIDA CONTRATADA
+
+329025 Encargos Sobre Operações de Crédito por Antecip. da Receita 3.000,00
+
+469071 Principal da Dívida Contratual Resgatado 15.000,00
+
+0305.041230308.2013 REFINANCIAMENTO DA DÍVIDA
+
+329021 Juros Sobre a Dívida por Contrato 2.000,00
+
+06 DIVISÃO DE CONTABILIDADE
+
+0306.041220308.2014 MANUT. DIVISÃO DE CONTABILIDADE
+
+339033 Passagens e Despesa com Locomoção 2.500,00
+
+339035 Serviços de Consultoria 3.000,00
+
+339036 Outros Serviços Terceiros - Pessoa Física 3.000,00
+
+07 DIVISÃO DE TRIBUTAÇÃO, CAD. FISCALIZAÇÃO
+
+0307.041290308.2015 MANUT. DIVISÃO TRIBUTAÇÃO, CAD. FISCALIZAÇÃO
+
+339030 Material de Consumo 2.000,00
+
+339033 Passagens e Despesa com Locomoção 2.000,00
+
+339036 Outros Serviços Terceiros - Pessoa Física 3.000,00
+
+449051 Obras e Instalações 5.000,00
+
+449052 Equipamentos e Material Permanente 2.500,00
+
+**04 SECRETARIA DESENVOLVIMENTO ECONÔMICO**
+
+01 DEPTO. AGRICULTURA
+
+0401.2060604182.016 MANUT. DEPTO. AGRICULTURA
+
+319004 Contratação por Tempo Determinado 2.000,00
+
+319016 Outras Despesas Variáveis – Pessoal Civil 2.000,00
+
+339033 Passagens e Despesa com Locomoção 1.800,00
+
+02 DIVISÃO IND., COM. E SERVIÇO
+
+0402.2266111621.012 CONSTRUÇÃO BARRACÕES INDUSTRIAIS
+
+449051 Obras e Instalações 10.000,00
+
+0402.2266111622.017 MANUT. DIVISÃO IND., COM. E SERVIÇO
+
+449052 Equipamentos e Material Permanente 2.000,00
+
+**05 SECRETARIA VIAÇÃO, URB. E OBRAS PÚBLICAS**
+
+01 DEPTO. INFRA-ESTRUTURA, OBRAS E SERV. URB.
+
+0501.1545110581.014 SINALIZAÇÃO EM VIAS PÚBLICAS
+
+449051 Obras e Instalações 10.000,00
+
+0501.1545110581.015 PAVIM. ASFÁLTICA, RECAPE E COM PEDRAS IRREG.
+
+449051 Obras e Instalações 20.000,00
+
+0501.1648210571.017 CONSTRUÇÃO DE HABITAÇÕES POPULARES
+
+449051 Obras e Instalações 10.000,00
+
+0501.1545210581.022 CONSTRUÇÃO REF. PRAÇAS PARQUES E JARDINS
+
+449051 Obras e Instalações 4.000,00
+
+0501.1545210582.018 MANUT. DE OBRAS E SERVIÇOS URBANOS
+
+319016 Outras Despesas Variáveis – Pessoal Civil 5.400,00
+
+339033 Passagens e Despesas com Locomoção 2.000,00
+
+319034 Outras Despesas Pessoal Decorrentes Contratos Terceirização 1.200,00
+
+449052 Equipamentos e Material Permanente 5.000,00
+
+02 DEPTO. RODOVIÁRIO MUNICIPAL
+
+0502.2678216881.020 REEQUIPAMENTO DO PARQUE DE MÁQUINAS
+
+449052 Equipamentos e Material Permanente 3.500,00
+
+0502.2678216882.020 MANUTENÇÃO DOS SERVIÇOS RODOVIÁRIOS
+
+319016 Outras Despesas Variáveis – Pessoal Civil 2.200,00
+
+449052 Equipamentos e Material Permanente 7.000,00
+
+**06 SECRETARIA EDUCAÇÃO, CULT. E ESPORTE**
+
+01 DEPTO. DE ENSINO
+
+0601.1236408472.026 MANUT. TRANSPORTE ESCOLAR ENSINO SUPERIOR
+
+339036 Outros Serviços Terceiros - Pessoa Física 3.500,00
+
+0601.1236508422.024 MANUTENÇÃO EDUCAÇÃO INFANTIL
+
+319004 Contratação por Tempo Determinado 3.100,00
+
+319016 Outras Despesas Variáveis – Pessoal Civil 2.200,00
+
+339033 Passagens e Despesas com Locomoção 2.000,00
+
+449052 Equipamentos e Material Permanente 2.500,00
+
+0601.1236108422.023 MANUTENÇÃO MERENDA ESCOLAR
+
+339030 Material de Consumo 10.000,00
+
+0601.1236108422.021 MANUTENÇÃO DEPTO. DE ENSINO
+
+319004 Contratação por Tempo Determinado 3.000,00
+
+319011 Vencimento Vantagens Fixas - Pessoal 5.000,00
+
+319016 Outras Despesas Variáveis – Pessoal Civil 3.200,00
+
+335041 Contribuições 5.200,00
+
+449052 Equipamentos e Material Permanente 3.000,00
+
+0601.1236108421.027 AQUISIÇÃO DE ÔNIBUS PARA TRANSP. ESCOLAR
+
+449052 Equipamentos e Material Permanente 3.500,00
+
+0601.1236108421.028 CONSTRUÇÃO, AMPL., E REFORMA ESTAB. ENSINO
+
+449051 Obras e Instalações 20.000,00
+
+0601.1236508421.043 CONSTR.,, REF. E AMPL., CENTROS EDUC. INFANTIL
+
+449051 Obras e Instalações 10.000,00
+
+02 FMDEFVM
+
+0602.1236108422.027 FUNDEF 60% - MANUT. QUADRO PERM. MAGISTÉRIO
+
+319013 Obrigações Patronais 10.000,00
+
+0602.1236108422.028 MANUT. ENSINO FUNDAMENTAL 40% FUNDEF
+
+339030 Material de Consumo 10.500,00
+
+339036 Outros Serviços Terceiros - Pessoa Física 2.000,00
+
+339039 Outros Serviços Terceiros - Pessoa Jurídica 4.000,00
+
+03 DEPTO. AÇÃO CULTURAL
+
+0603.1339208482.030 MANUT. DEPTO. AÇÃO CULTURAL
+
+339033 Passagens e Despesas com Locomoção 2.000,00
+
+449052 Equipamentos e Material Permanente 5.000,00
+
+0603.1339208481.031 CONSTRUÇÃO DO CENTRO CONVENÇÕES
+
+449051 Obras e Instalações 20.000,00
+
+04 DEPTO. ESPORTE E RECREAÇÃO
+
+0604.2781208462.031 MANUT. DEPTO. ESPORTE E RECREAÇÃO
+
+339033 Passagens e Despesas com Locomoção 3.000,00
+
+449052 Equipamentos e Material Permanente 1.500,00
+
+05 DEPTO. ORGANIZAÇÃO COMUNITÁRIA
+
+0605.0824415812.032 MANUT. SERVIÇOS ORGANIZAÇÃO COMUNITÁRIA
+
+319009 Salário-Família 12.000,00
+
+319011 Vencimento Vantagens Fixas - Pessoal 25.000,00
+
+335041 Contribuições 14.000,00
+
+339030 Material de Consumo 20.000,00
+
+339036 Outros Serviços Terceiros - Pessoa Física 10.000,00
+
+339039 Outros Serviços Terceiros - Pessoa Jurídica 10.000,00
+
+449051 Obras e Instalações 5.000,00
+
+449052 Equipamentos e Material Permanente 17.000,00
+
+0605.0824315812.034 FUNDO DA CRIANÇA E DO ADOLESCENTE
+
+339033 Passagens e Despesas com Locomoção 2.000,00
+
+339036 Outros Serviços Terceiros - Pessoa Física 3.500,00
+
+449052 Equipamentos e Material Permanente 3.500,00
+
+0605.0824415812.033 FUNDO DE ASSISTÊNCIA SOCIAL
+
+339030 Material de Consumo 3.000,00
+
+339036 Outros Serviços Terceiros - Pessoa Física 2.000,00
+
+339039 Outros Serviços Terceiros - Pessoa Jurídica 3.000,00
+
+449052 Equipamentos e Material Permanente 6.000,00
+
+0605.0824415812.040 EXECUÇÃO PROGRAMA DO - SAC
+
+335041 Contribuições 15.500,00
+
+339030 Material de Consumo 8.000,00
+
+339036 Outros Serviços Terceiros - Pessoa Física 3.000,00
+
+339039 Outros Serviços Terceiros - Pessoa Jurídica 5.200,00
+
+0605.0824415811.042 CONSTR., AMPL. E REF. CENTROS COMUNITÁRIOS
+
+449051 Obras e Instalações 5.500,00
+
+**07 SECRETARIA DE SAÚDE**
+
+01 DEPTO. ATEND. PRIM. E SAÚDE COMUNITÁRIA
+
+0701.1030215812.036 MANUT. ATEND. PRIM. E SAÚDE COMUNITÁRIA
+
+449052 Equipamentos e Material Permanente 5.000,00
+
+0701.1030215811.052 CONSTRUÇÃO, AMPL. E REF. DE POSTOS DE SAÚDE
+
+449051 Obras e Instalações 1.500,00
+
+0701.1030215811.053 AQUISIÇÃO DE VEÍCULOS
+
+449052 Equipamentos e Material Permanente 1.400,00
+
+0701.1030113752.042 MANUT. CONSÓRCIO INTERMUNICIPAL DE SAÚDE
+
+335041 Contribuições 4.000,00
+
+02 EXECUÇÃO DE PROGRAMAS E CONVÊNIOS
+
+0702.1030513752.039 EXECUÇÃO PROGRAMA - SIA M SAÚDE
+
+339036 Outros Serviços Terceiros - Pessoa Física 7.000,00
+
+339039 Outros Serviços Terceiros - Pessoa Jurídica 13.000,00
+
+
+Art. 3º.
+
+Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE CORBÉLIA
+
+Em 09 de novembro de 2004.
+
+Clovis João Bombarda
+
+Prefeito Municipal
+
+Não substitui o texto publicado no Diário Oficial.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/397/ta
+

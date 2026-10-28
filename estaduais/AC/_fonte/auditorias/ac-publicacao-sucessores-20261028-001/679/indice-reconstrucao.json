@@ -1,0 +1,21 @@
+{
+  "preparado_em": "2026-10-28T09:22:40.565323-03:00",
+  "total": 2,
+  "documentos": [
+    {
+      "original": "estaduais/AC/_fonte/auditorias/ac679-privado-20261028-002/final/hashes.json",
+      "sha256_original": "9d9317766e29100cd55ae0fdf8ece144c74b38e16579ae73a4697d405df195e3",
+      "arquivo_gzip": "estaduais/AC/_fonte/auditorias/ac-publicacao-sucessores-20261028-001/679/historico-gzip/9d9317766e29100cd55ae0fdf8ece144c74b38e16579ae73a4697d405df195e3.gz",
+      "sha256_gzip": "f37aae338aaea4e6045e199f218537211089e029354cf2023b7e5c1cd3d4efcf",
+      "bytes": 354976
+    },
+    {
+      "original": "estaduais/AC/_fonte/auditorias/ac679-privado-20261028-002/final/paths.txt",
+      "sha256_original": "ef99a041f76c8f0704f19c5474290506dac2211f11003185ce75887638830d9a",
+      "arquivo_gzip": "estaduais/AC/_fonte/auditorias/ac-publicacao-sucessores-20261028-001/679/historico-gzip/ef99a041f76c8f0704f19c5474290506dac2211f11003185ce75887638830d9a.gz",
+      "sha256_gzip": "b32c2ff0427afb5243ec79cdac486ddf853029cf4918b7081194f866b4260ad4",
+      "bytes": 230216
+    }
+  ],
+  "instrucao": "gzip.decompress restaura bytes exatos no caminho original relativo, somente para contexto histórico. Replay ativo não exige reconstrução."
+}

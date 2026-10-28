@@ -1,0 +1,32 @@
+---
+titulo: "PORTARIA Nº 145, DE 29 DE AGOSTO DE 2019"
+orgao: "Ministério da Economia/Secretaria Especial da Receita Federal do Brasil/Superintendência Regional da 5ª Região Fiscal"
+tipo: "Portaria"
+numero: "145"
+data: 2019-08-29
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 02/09/2019, seção 1, p. 40"
+data_publicacao: 2019-09-02
+edicao: "169"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-145-de-29-de-agosto-de-2019-213801778"
+sha256_html_fonte: 2ec6df199a9dede7fdfff89fd880d78fa1026e82d1583400ade1ac93bd4e96ea
+baixado_em: 2026-10-27
+---
+# PORTARIA Nº 145, DE 29 DE AGOSTO DE 2019
+
+PORTARIA Nº 145, DE 29 DE AGOSTO DE 2019
+
+Dispõe sobre a transferência temporária de competências e define atribuições entre unidades e subunidades da Secretaria da Receita Federal do Brasil na 5ª Região Fiscal.
+
+O SUPERINTENDENTE DA RECEITA FEDERAL DO BRASIL NA 5ª REGIÃO FISCAL, no uso das suas atribuições e tendo em vista o disposto no inciso IV do art. 335 do Regimento Interno da Secretaria da Receita Federal do Brasil (RFB), aprovado pela Portaria MF nº 430, de 09 de outubro de 2017, publicada no DOU de 11 de outubro de 2017, e no inciso I do § 2º do art. 1º da Portaria RFB nº 1440, de 27 de agosto de 2019, publicada no DOU de 29 de agosto de 2019, resolve:
+
+**Art. 1º** Transferir, de 2 de setembro de 2019 a 31 de dezembro de 2019, as competências previstas no art. 275 e no parágrafo único do art. 283 do Regimento Interno da RFB e as atribuições dos titulares previstas no art. 342 do Regimento Interno da RFB, das Agências da Receita Federal do Brasil (ARF) cujas atividades foram suspensas pela Portaria RFB nº 1440, de 27 de agosto de 2019, para as Agências da Receita Federal do Brasil (ARF) relacionadas no Anexo Único desta Portaria, observando-se o município de domicílio tributário do contribuinte.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação no Diário Oficial da União.
+
+FRANCISCO LESSA RIBEIRO JÚNIOR
+
+ANEXO ÚNICO
+
+<table><tr></tr><tr><td><p>ARF Suspensa - Portaria RFB nº 1440/2019</p></td><td><p>Município</p></td><td><p>ARF de destino das Competências/Atribuições</p></td><td><p>Unidade Jurisdicionante - Delegacia da Receita Federal do Brasil</p></td></tr><tr><td><p>ARF - Macaúbas (BA)</p></td><td><p>Boquira (BA)</p></td><td><p>ARF - Brumado (BA)</p></td><td><p>DRF - Vitória da Conquista (BA)</p></td></tr><tr><td><p>ARF - Macaúbas (BA)</p></td><td><p>Botuporã (BA)</p></td><td><p>ARF - Guanambi (BA)</p></td><td><p>DRF - Vitória da Conquista (BA)</p></td></tr><tr><td><p>ARF - Macaúbas (BA)</p></td><td><p>Caturama (BA)</p></td><td><p>ARF - Brumado (BA)</p></td><td><p>DRF - Vitória da Conquista (BA)</p></td></tr><tr><td><p>ARF - Macaúbas (BA)</p></td><td><p>Ibipitanga (BA)</p></td><td><p>ARF - Brumado (BA)</p></td><td><p>DRF - Vitória da Conquista (BA)</p></td></tr><tr><td><p>ARF - Macaúbas (BA)</p></td><td><p>Macaúbas (BA)</p></td><td><p>ARF - Brumado (BA)</p></td><td><p>DRF - Vitória da Conquista (BA)</p></td></tr><tr><td><p>ARF - Macaúbas (BA)</p></td><td><p>Rio do Pires (BA)</p></td><td><p>ARF - Brumado (BA)</p></td><td><p>DRF - Vitória da Conquista (BA)</p></td></tr><tr><td><p>ARF - Santa Maria da Vitória (BA)</p></td><td><p>Canápolis (BA)</p></td><td><p>ARF - Bom Jesus da Lapa (BA)</p></td><td><p>DRF - Vitória da Conquista (BA)</p></td></tr><tr><td><p>ARF - Santa Maria da Vitória (BA)</p></td><td><p>Cocos (BA)</p></td><td><p>ARF - Bom Jesus da Lapa (BA)</p></td><td><p>DRF - Vitória da Conquista (BA)</p></td></tr><tr><td><p>ARF - Santa Maria da Vitória (BA)</p></td><td><p>Coribe (BA)</p></td><td><p>ARF - Bom Jesus da Lapa (BA)</p></td><td><p>DRF - Vitória da Conquista (BA)</p></td></tr><tr><td><p>ARF - Santa Maria da Vitória (BA)</p></td><td><p>Correntina (BA)</p></td><td><p>ARF - Bom Jesus da Lapa (BA)</p></td><td><p>DRF - Vitória da Conquista (BA)</p></td></tr><tr><td><p>ARF - Santa Maria da Vitória (BA)</p></td><td><p>Jaborandi (BA)</p></td><td><p>ARF - Bom Jesus da Lapa (BA)</p></td><td><p>DRF - Vitória da Conquista (BA)</p></td></tr><tr><td><p>ARF - Santa Maria da Vitória (BA)</p></td><td><p>Santa Maria da Vitória (BA)</p></td><td><p>ARF - Bom Jesus da Lapa (BA)</p></td><td><p>DRF - Vitória da Conquista (BA)</p></td></tr><tr><td><p>ARF - Santa Maria da Vitória (BA)</p></td><td><p>Santana (BA)</p></td><td><p>ARF - Bom Jesus da Lapa (BA)</p></td><td><p>DRF - Vitória da Conquista (BA)</p></td></tr><tr><td><p>ARF - Santa Maria da Vitória (BA)</p></td><td><p>São Félix do Coribe (BA)</p></td><td><p>ARF - Bom Jesus da Lapa (BA)</p></td><td><p>DRF - Vitória da Conquista (BA)</p></td></tr><tr><td><p>ARF - Santa Maria da Vitória (BA)</p></td><td><p>Serra Dourada (BA)</p></td><td><p>ARF - Bom Jesus da Lapa (BA)</p></td><td><p>DRF - Vitória da Conquista (BA)</p></td></tr><tr><td><p>ARF - Santa Maria da Vitória (BA)</p></td><td><p>Tabocas do Brejo Velho (BA)</p></td><td><p>ARF - Bom Jesus da Lapa (BA)</p></td><td><p>DRF - Vitória da Conquista (BA)</p></td></tr><tr><td><p>ARF - Valença (BA)</p></td><td><p>Cairu (BA)</p></td><td><p>ARF - Santo Antônio de Jesus (BA)</p></td><td><p>DRF - Feira de Santana (BA)</p></td></tr><tr><td><p>ARF - Valença (BA)</p></td><td><p>Camamu (BA)</p></td><td><p>ARF - Ipiaú (BA)</p></td><td><p>DRF - Itabuna (BA)</p></td></tr><tr><td><p>ARF - Valença (BA)</p></td><td><p>Igrapiúna (BA)</p></td><td><p>ARF - Ipiaú (BA)</p></td><td><p>DRF - Itabuna (BA)</p></td></tr><tr><td><p>ARF - Valença (BA)</p></td><td><p>Ituberá (BA)</p></td><td><p>ARF - Santo Antônio de Jesus (BA)</p></td><td><p>DRF - Feira de Santana (BA)</p></td></tr><tr><td><p>ARF - Valença (BA)</p></td><td><p>Nilo Peçanha (BA)</p></td><td><p>ARF - Santo Antônio de Jesus (BA)</p></td><td><p>DRF - Feira de Santana (BA)</p></td></tr><tr><td><p>ARF - Valença (BA)</p></td><td><p>Piraí do Norte (BA)</p></td><td><p>ARF - Ipiaú (BA)</p></td><td><p>DRF - Itabuna (BA)</p></td></tr><tr><td><p>ARF - Valença (BA)</p></td><td><p>Presidente Tancredo Neves (BA)</p></td><td><p>ARF - Santo Antônio de Jesus (BA)</p></td><td><p>DRF - Feira de Santana (BA)</p></td></tr><tr><td><p>ARF - Valença (BA)</p></td><td><p>Taperoá (BA)</p></td><td><p>ARF - Santo Antônio de Jesus (BA)</p></td><td><p>DRF - Feira de Santana (BA)</p></td></tr><tr><td><p>ARF - Valença (BA)</p></td><td><p>Valença (BA)</p></td><td><p>ARF - Santo Antônio de Jesus (BA)</p></td><td><p>DRF - Feira de Santana (BA)</p></td></tr></table>

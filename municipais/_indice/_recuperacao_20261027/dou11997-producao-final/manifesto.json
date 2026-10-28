@@ -1,0 +1,131 @@
+{
+  "arquivos": [
+    {
+      "arquivo": "_fonte/operacao_root_20261027/dou027-retido-gfm-diagnostico.json",
+      "sha256": "3875c1b4a890c2cb56ed69153fc3f826558994604caba9836498ca96db8899e7",
+      "bytes": 1049
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/dou11997-producao-final/artefatos.paths.txt",
+      "sha256": "6cd872ed26cc737525e25798a39633f7a8c12dbdf878267802185356ecd5a4b8",
+      "bytes": 1600
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/dou11997-producao-final/auditor-import-producao.patch",
+      "sha256": "16868fa1d4c11ae02a2c8cfc4fdbe0ef37dece28e4b222cda0114c82ca3e58bb",
+      "bytes": 446
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/dou11997-producao-final/mapa-final.json",
+      "sha256": "fb008ae243d06274a5fcfc5078043a07aa37a83b1e39539666060049cb08ffff",
+      "bytes": 1178
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/artefatos.paths.txt",
+      "sha256": "0857acd2faf22b27e1b26438654f0c8764501e883651419f52a2d335767a2898",
+      "bytes": 1192
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/auditor-import-proposto.patch",
+      "sha256": "3fc28c3ece6678da1d5ec74edff0d20aa96e98c0e8feb533f5d3b147c6ed59d4",
+      "bytes": 455
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/candidato.md",
+      "sha256": "7d21e44963dd7413ef79c0cae4c5cf07478ff22728af97660bc2cc94448c2dd8",
+      "bytes": 157576
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/fragmento-oficial.html",
+      "sha256": "401b9c23494be2eff15456b04c9e7ec17c5cda899d3028855fcd91f36bc0a2aa",
+      "bytes": 155393
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/manifesto.json",
+      "sha256": "9c2c400ee6ee69e11b9f8bb6b34f371f46bfeab1aa69909d36fbac8840242833",
+      "bytes": 3964
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/preimagem.md",
+      "sha256": "04322f5512d1d6228ca56d51b1a410864658aee51f56925c97303a92907633f1",
+      "bytes": 106413
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/prova.json",
+      "sha256": "2357ab8a5924a8ce3ad8a4c41303645d4c449aa00b364851e0953566c7500ad9",
+      "bytes": 18704
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/render-v1.html",
+      "sha256": "1f032ea5326f22cd8ebbe0d3b7cf7c47a2123202f9d549c324a0e80fe3311e96",
+      "bytes": 237651
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/render-v2.html",
+      "sha256": "27106b0a0be30a8b273cc989af78ee61e85faa7dc56b82a8b0519c96e28aa5f5",
+      "bytes": 156953
+    },
+    {
+      "arquivo": "municipais/_indice/_recuperacao_20261027/dou11997-v2-final/representacao-v1.html",
+      "sha256": "502994d3d0c2859d1328a61172fe4471dfd13b7015d226de293dde53868dc92d",
+      "bytes": 155449
+    },
+    {
+      "arquivo": "reguladores/_fonte/ministerio-da-economia/2020/portaria-n-11.997-de-12-de-maio-de-2020-256528089-6af8777b39085ed68168257221175ff4f8ef57016a210ceecec6d2a3793c9898.html.gz",
+      "sha256": "2d09ad0f6ddf8065eb2a60826febff12ac05a42b31ec0edef73235b988f4e8cf",
+      "bytes": 25376
+    },
+    {
+      "arquivo": "scripts/auditar_cache_dou.py",
+      "sha256": "2fd53a02e1485e6c53fe4041d34c24629dba892a0374b7bd2fcbc25f66e3bf7e",
+      "bytes": 8966
+    },
+    {
+      "arquivo": "scripts/dados/dou027-nativo-candidatos-v1-20261027.json",
+      "sha256": "616f752ee6d88807bbc31cb70ae6766d1c562cac12ea87d25ff27a8b389f54e7",
+      "bytes": 110420
+    },
+    {
+      "arquivo": "scripts/estados/pe_fidelidade_visivel.py",
+      "sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838",
+      "bytes": 7551
+    },
+    {
+      "arquivo": "scripts/preparar_proposta_dou11997_v2.py",
+      "sha256": "9590f4dc3544b663bec3e6e7654207084763b28d200431c52adfa2d26b43ce41",
+      "bytes": 5974
+    },
+    {
+      "arquivo": "scripts/qa_municipal_persistente_20261027.py",
+      "sha256": "dd89a2fefae6c7dce6b15aab655b819d512020ddc03165b1ce384f0c9e419140",
+      "bytes": 1068
+    },
+    {
+      "arquivo": "scripts/representacao_html_dou.py",
+      "sha256": "1ae5cecda55ddd32ab00fdb2598d50b7cd5aeadaad0e0e73d720e4727bf1732d",
+      "bytes": 6313
+    },
+    {
+      "arquivo": "scripts/representacao_html_dou_v2.py",
+      "sha256": "2f16eda246d73eb770357ff310e98ffb40a62a2e0519974d5bcf98ffaa440644",
+      "bytes": 3198
+    },
+    {
+      "arquivo": "scripts/representacao_html_dou_v2_proposta.py",
+      "sha256": "02c72b155ddb8c11284621ad97b0a8b0d3f2999eded128b4eb468376023ae1d9",
+      "bytes": 3197
+    },
+    {
+      "arquivo": "scripts/test_representacao_html_dou_v2.py",
+      "sha256": "1ad7a198fa751c5f5bb350562b29b6796505546bbd7dfc2ddf8b46bfb1fee99a",
+      "bytes": 3860
+    },
+    {
+      "arquivo": "scripts/test_representacao_html_dou_v2_proposta.py",
+      "sha256": "3939c890bd9e9109b2d654939719c9a6ee3f0b61f59275390187636821f6bb30",
+      "bytes": 3867
+    }
+  ],
+  "bytes": 1177813,
+  "promocao_automatica": false
+}

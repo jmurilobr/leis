@@ -1,0 +1,196 @@
+---
+titulo: "PORTARIA Nº 567, DE 15 DE OUTUBRO DE 2020"
+orgao: "Ministério da Saúde/Secretaria Executiva"
+tipo: "Portaria"
+numero: "567"
+data: 2020-10-15
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 22/10/2020, seção 1, p. 146"
+data_publicacao: 2020-10-22
+edicao: "203"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-567-de-15-de-outubro-de-2020-284449916"
+sha256_html_fonte: f734048ce38d3449593931b98d8894b59f889aab19b550ad5bcee2436688c0ba
+baixado_em: 2026-10-21
+---
+# PORTARIA Nº 567, DE 15 DE OUTUBRO DE 2020
+
+PORTARIA Nº 567, DE 15 DE OUTUBRO DE 2020
+
+Defere os pedidos de credenciamento no âmbito do Programa Nacional de Apoio à Atenção da Saúde da Pessoa com Deficiência (PRONAS/PCD).
+
+O SECRETÁRIO-EXECUTIVO ADJUNTO DO MINISTÉRIO DA SAÚDE, no uso da atribuição que lhe confere o art. 21 do Anexo LXXXVI à Portaria de Consolidação nº 5/GM/MS, de 28 de setembro de 2017, e considerando os arts. 1º ao 14º da Lei nº 12.715, de 17 de setembro de 2012, que institui o Programa Nacional de Apoio à Atenção Oncológica (PRONON) e o Programa Nacional de Apoio à Atenção da Saúde da Pessoa com Deficiência (PRONAS/PCD), bem como a regulamentação estabelecida pelo Decreto nº 7.988, de 17 de abril de 2013, resolve:
+
+**Art. 1º** Deferir os pedidos de credenciamento, para apresentação de projetos no âmbito do Programa Nacional de Apoio à Atenção da Saúde da Pessoa com Deficiência (PRONAS/PCD), das instituições relacionadas abaixo:
+
+I - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE TAIAÇU
+
+CNPJ 02.329.836/0001-60
+
+Município/UF: TAIAÇU/SP
+
+NUP 25000.085105/2020-11;
+
+II - Razão Social: NÚCLEO DE ATENÇÃO AOS DEFICIENTES DE PENEDO - NUDEPE
+
+CNPJ 10.658.278/0001-04
+
+Município/UF: PENEDO/AL
+
+NUP 25000.083167/2020-81;
+
+III - Razão Social: ASSOCIAÇÃO BATATAENSE DOS DEFICIENTES FÍSICOS
+
+CNPJ 56.889.611/0001-97
+
+Município/UF: BATATAIS/SP
+
+NUP 25000.083027/2020-11;
+
+IV - Razão Social: ASSOCIAÇÃO HOSPITALAR CARIDADE SANTA ROSA
+
+CNPJ 95.815.668/0001-01
+
+Município/UF: SANTA ROSA/RS
+
+NUP: 25000.081817/2020-53;
+
+V - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS
+
+CNPJ 81.645.574/0001-19
+
+Município/UF: TIBAGI/PR
+
+NUP 25000.082782/2020-70;
+
+VI - Razão Social: CASA DA CRIANÇA BETINHO LAR ESPIRITA PARA EXCEPCIONAIS
+
+CNPJ 62.827.860/0001-50
+
+Município/UF: SÃO PAULO/SP
+
+NUP 25000.085326/2020-81;
+
+VII - Razão Social: SPDM - ASSOCIAÇÃO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA
+
+CNPJ 61.699.567/0001-92
+
+Município/UF: SÃO PAULO/SP
+
+NUP 25000.091575/2020-14;
+
+VIII - Razão Social: MAIS DIFERENÇAS
+
+CNPJ 07.844.643/0001-60
+
+Município/UF: GUARULHOS/SP
+
+NUP 25000.081888/2020-56;
+
+IX - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE NOVA ODESSA
+
+CNPJ 51.413.631/0001-73
+
+Município/UF: NOVA ODESSA/SP
+
+NUP 25000.092708/2020-61;
+
+X - Razão Social: COMISSÃO JOVEM GENTE COMO A GENTE
+
+CNPJ 00.568.444/0001-28
+
+Município/UF: BRASÍLIA/DF
+
+NUP 25000.092402/2020-13;
+
+XI - Razão Social: ASSOCIAÇÃO DOS DEFICIENTES FÍSICOS E SENSORIAIS DE BOCA DA MATA - ADEFISBOM
+
+CNPJ 10.725.586/0001-05
+
+Município/UF: BOCA DA MATA/AL
+
+NUP 25000.091623/2020-66;
+
+XII - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE LORENA
+
+CNPJ 51.785.590/0001-46
+
+Município/UF: LORENA/SP
+
+NUP: 25000.093855/2020-59;
+
+XIII - Razão Social: ASSOCIAÇÃO DE PAIS AMIGOS DOS EXCEPCIONAIS DE POMERODE
+
+CNPJ 83.788.661/0001-50
+
+Município/UF: POMERODE/SC
+
+NUP 25000.084004/2020-15;
+
+XIV - Razão Social: UNIÃO ESPIRITA BAGEENSE
+
+CNPJ 87.415.550/0001-50
+
+Município/UF: BAGÉ/RS
+
+NUP 25000.083902/2020-56;
+
+XV - Razão Social: ASSOCIAÇÃO BENEFICENTE DE ASSISTÊNCIA SOCIAL NOSSA SENHORA DO PARI
+
+CNPJ 05.245.390/0001-83
+
+Município/UF: SÃO PAULO/SP
+
+NUP 25000.083960/2020-80;
+
+XVI - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS APAE
+
+CNPJ 32.944.357/0001-14
+
+Município/UF: SORRISO/MT
+
+NUP 25000.086730/2020-72;
+
+XVII - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS
+
+CNPJ 01.572.770/0001-71
+
+Município/UF: SÃO JOSÉ DA BOA VISTA/PR
+
+NUP 25000.096310/2020-02;
+
+XVIII - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE MARIÓPOLIS
+
+CNPJ 01.758.153/0001-65
+
+Município/UF: MARIÓPOLIS/PR
+
+NUP 25000.095789/2020-51;
+
+XIX - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS
+
+CNPJ 00.798.001/0001-23
+
+Município/UF: MAUÁ DA SERRA/PR
+
+NUP 25000.100235/2020-83;
+
+XX - Razão Social: APAE DE CAJOBI
+
+CNPJ 07.060.891/0001-10
+
+Município/UF: CAJOBI/SP
+
+NUP 25000.088841/2020-13;
+
+XXI - Razão Social: ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE SULINA APAE
+
+CNPJ: 01.998.591/0001-09
+
+Município/UF: SULINA/PR
+
+NUP: 25000.092714/2020-19.
+
+**Art. 2º** Esta Portaria entra em vigor na data de sua publicação.
+
+JORGE LUIZ KORMANN

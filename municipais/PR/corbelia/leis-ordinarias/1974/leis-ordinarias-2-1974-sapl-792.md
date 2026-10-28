@@ -1,0 +1,77 @@
+---
+titulo: "04 - Lei Ordinária nº 2, de 20 de março de 1974"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "2"
+data: "1974-03-20"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/792"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/788/text"
+sha256_fonte: "8824f8e0d2f5a8dc7932664140471e07b6b321349269fbf69c39170474278cbf"
+sha256_texto: "40df832b8bba154e22c46dc0090ba6d92dd71fd7098e7a57a97c07a295bcea1d"
+capturado_em_fonte: "2026-10-28T09:26:51.362384-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 2, de 20 de março de 1974
+
+Autoriza o Prefeito Municipal de Corbélia, a abrir crédito especial, adquirir terreno e dá outras providências.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, aprovou e, Eu Prefeito Municipal sanciono a seguinte:
+
+
+LEI
+
+
+Art. 1º.
+
+Fica o Prefeito Municipal de Corbélia, autorizado a adquirir um terreno com 84.962 (noventa e quatro mil, novecentos e sessenta e dois) metros quadrados, consistente de parte dos lotes rurais nºs 16 (dezesseis) e 17 (dezessete) da gleba nº 01, da colônia A Cascavel, situado neste Município de Corbélia, para construção de Aeroporto Municipal.
+
+
+Art. 2º.
+
+Fica o Prefeito Municipal de Corbélia, para construção do Aeroporto Municipal, abrir crédito especial até o valor de 60.000,00 (sessenta mil cruzeiros) para cobertura das despesas com a presente aquisição, com a seguinte classificação.
+
+
+4\. Viação, transporte e comunicações
+
+4.3. Aeroviários
+
+4.0.0.0. Despesas de Capital
+
+4.2.0.0. Inversões Financeiras
+
+4.2.1.0. Aquisição de Imóveis
+
+a) aquisição de um terreno para construção do aeroporto Cr$ 60.000,00
+
+
+Art. 3º.
+
+Para cobertura do presente Crédito Especial, serão utilizados recursos do Fundo de Participação dos Municípios (F.P.M) ou verbas em disponibilidade orçamentária;
+
+
+Art. 4º.
+
+Esta Lei entrará em vigor a partir da data de sua publicação, revogadas as disposições em contrário.
+
+
+GABINETE DO PREFEITO MUNICIPAL DE CORBÉLIA
+
+Em 20 de março de 1974.
+
+JOSÉ MIRON MULLER
+
+Prefeito Municipal
+
+Não substitui o texto publicado no Diário Oficial.
+
+Link direto: https://sapl.corbelia.pr.leg.br/norma/792/ta
+

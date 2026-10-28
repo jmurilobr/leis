@@ -1,0 +1,70 @@
+---
+titulo: "Lei Ordinária nº 6.837, de 18 de março de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "6837"
+data: "2020-03-18"
+municipio: "Birigui"
+uf: "SP"
+codigo_ibge: "3506508"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.birigui.sp.leg.br/norma/7405"
+fonte_texto: "https://sapl.birigui.sp.leg.br/ta/1401/text"
+sha256_fonte: "fea4237cc770175889954404d1af28d8e5a73e5b0e038ecb3f48ce61b6559809"
+sha256_texto: "1804e5bc8fd602911d74b6f9da6805d83c83af9c9b10e09656809acd8981c3b5"
+capturado_em_fonte: "2026-10-27T18:17:10.965871-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 6.837, de 18 de março de 2020
+
+AUTORIZA O PODER EXECUTIVO MUNICIPAL A REALIZAR TRANSFERÊNCIA DE RECURSOS DO FUNDEB À ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE BIRIGUI (APAE), NOS TERMOS QUE ESPECIFICA.  
+Projeto de Lei n° 30/2020, de autoria do Prefeito Municipal.
+
+
+Eu, **CRISTIANO SALMEIRÃO**, Prefeito Municipal de Birigui, Estado de São Paulo, usando das atribuições que me são conferidas por Lei,  
+FAÇO SABER que a Câmara Municipal aprova e eu sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal de Birigui autorizado a celebrar parceria, na forma do art. 31, II, da Lei Federal n° 13.019/2014, para transferir à Organização da Sociedade Civil denominada ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE BIRIGUI (APAE) recursos provenientes do FUNDEB, para satisfação do acordo judicial do processo 1008143-65.2016.8.26.0077, que tramitou perante o Tribunal de Justiça do Estado de São Paulo, conforme disposto no art. 2° desta Lei.
+
+
+Art. 2º.
+
+Serão feitos repasses de acordo com o estabelecido na sentença judicial, sendo observada a quantidade de alunos segundo o Censo anterior e a estimativa de valores provenientes do FUNDEB, em forma de contribuição e/ou subvenção social à seguinte organização social:
+
+<table><colgroup><col><col><col><col><col></colgroup><tbody><tr><td><strong>Organização da Sociedade Civil</strong></td><td><strong>Valor anual estimado por aluno de educação especial de instituição conveniada para 2020 (R$)</strong></td><td><strong>Número de matrículas para o governo municipal, segundo o Censo Escolar do ano anterior 2019</strong></td><td><strong>Desconto proporcional ao compartilhamento de recursos não financeiros (R$)</strong></td><td><strong>Estimativa do Repasse Líquido a ser realizado (R$)</strong></td></tr><tr><td>Associação de Pais e Amigos dos Excepcionais - APAE</td><td>5.105,00</td><td>65,5</td><td>84.420,81</td><td>249.956,69</td></tr></tbody></table>
+
+
+Art. 3º.
+
+A Prestação de Contas dos recursos repassados deverá ser apresentada à Gerência de Convênios subordinada à Secretaria de Finanças.
+
+
+Art. 4º.
+
+A Secretaria de Educação da Prefeitura Municipal constituirá comissão de monitoramento para acompanhamento e avaliação do objeto da parceria.
+
+
+Art. 5º.
+
+Esta Lei entrará em vigor na data de sua publicação, convalidando os atos realizados do início do exercício de 2020 até a presente data.
+
+
+Prefeitura Municipal de Birigui, aos dezoito de março de dois mil e vinte.
+
+**CRISTIANO SALMEIRÃO Prefeito Municipal**
+
+**MEIRIANE APARECIDA BELTRAN Secretária de Educação**
+
+**FABIO VIEIRA PINTO Secretário de Finanças**
+
+Publicada na Divisão de Atos Oficiais e Expediente da Secretaria Municipal de Governo da Prefeitura Municipal de Birigui, na data supra, por afixação no local de costume.
+
+**ELISABETE GRASSI CRUZ Escriturária — Divisão de Ato Oficiais e Expediente da Secretaria Municipal de Governo**
+

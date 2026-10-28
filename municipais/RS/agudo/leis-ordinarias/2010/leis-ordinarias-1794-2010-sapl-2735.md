@@ -1,0 +1,71 @@
+---
+titulo: "Lei nº 1.794, de 19 de outubro de 2010"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1794"
+data: "2010-10-19"
+municipio: "Agudo"
+uf: "RS"
+codigo_ibge: "4300109"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.agudo.rs.leg.br/norma/2735"
+fonte_texto: "https://sapl.agudo.rs.leg.br/ta/153/text"
+sha256_fonte: "c71fdf2a89a0fccae400ee8cf61443709152ce55e6919d1023cd7f23f4f07816"
+sha256_texto: "9e8863f5eac9dfbb8a5aaaef1118335ef3f15d6e9a67a9d9e31ab5e0b252d103"
+capturado_em_fonte: "2026-10-21T07:24:19.151136-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 1.794, de 19 de outubro de 2010
+
+AUTORIZA A ABERTURA DE CRÉDITO ADICIONAL ESPECIAL NO ORÇAMENTO DO MUNICÍPIO PARA O EXERCÍCIO DE 2010.
+
+
+O PREFEITO DO MUNICÍPIO DE AGUDO, ESTADO DO RIO GRANDE DO SUL, faço saber que a Câmara Municipal aprovou e eu sanciono e promulgo, com base no Art. 76 da Lei Orgânica Municipal, a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo autorizado a abrir no orçamento programa do município de Agudo, para o exercício de 2010, crédito adicional especial, no valor de R$ 1.000.000,00 (hum milhão de reais), para inclusão do seguinte programa:  
+05 – SECRETARIA DE OBRAS DE TRÂNSITO  
+01 – Departamento de Obras e de Trânsito  
+1.024 – Pavimentação de Ruas e Avenidas  
+449051.00.00 – Obras e Instalações 1.165 – PIMES/CAIXA-RS R$ 350.000,00  
+2.031 – Manutenção e Conservação de Vias Urbanas  
+449052.00.00 – Equipamentos e Material Permanente  
+1.165 – PIMES/CAIXA-RS R$ 650.000,00
+
+
+Art. 2º.
+
+Como recursos para a abertura do Crédito Adicional Especial de que trata a presente Lei, a ser operada mediante Decretos específicos, serão utilizadas receitas provenientes de Operação de Crédito autorizada por Lei.
+
+
+§ 1º
+
+Os créditos abertos deverão corresponder à efetiva arrecadação, segundo a liberação financeira dos recursos provenientes da operação de crédito, atendido o critério disposto no caput deste artigo.
+
+
+§ 2º
+
+O saldo da operação de crédito, contratada por força da lei referida no caput deste artigo, que não for liberado durante o exercício, deverá ser incorporado na previsão orçamentária do próximo exercício.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+GABINETE DO PREFEITO, aos 19 de outubro de 2010; 152º da Colonização e 51º da Emancipação.
+
+ARI ALVES DA ANUNCIAÇÃO  
+Prefeito Municipal
+
+Registre-se e publique-se.  
+  
+ALICEU ODAIR KLEIN  
+Dirigente da Sec. Mun. da Administração
+

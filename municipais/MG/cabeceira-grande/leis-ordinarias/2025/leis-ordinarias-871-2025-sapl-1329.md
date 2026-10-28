@@ -1,0 +1,98 @@
+---
+titulo: "LEI ORDINÁRIA nº 871, de 01 de setembro de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "LEI ORDINÁRIA"
+numero: "871"
+data: "2025-09-01"
+municipio: "Cabeceira Grande"
+uf: "MG"
+codigo_ibge: "3109451"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cabeceiragrande.mg.leg.br/norma/1329"
+fonte_texto: "https://sapl.cabeceiragrande.mg.leg.br/ta/1102/text"
+sha256_fonte: "2de89782f7d84b2eec927778d485491f0c781a061088463faa8c899131a3f423"
+sha256_texto: "7ab8012a028bd6d7826338188eaab2df9f3b59b3bca19cf25a86a73be1a40c87"
+capturado_em_fonte: "2026-10-27T20:09:17.588380-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# LEI ORDINÁRIA nº 871, de 01 de setembro de 2025
+
+Autoriza o Poder Executivo Municipal a conceder contribuição financeira à Associação Comunitária para o Desenvolvimento de Palmital de Minas - ACDPAM, para a realização da 20ª Festa da Moagem e do Carro de Boi de Palmital de Minas, e dá outras providências.
+
+
+O PREFEITO DO MUNICÍPIO DE CABECEIRA GRANDE, Estado de Minas Gerais, no uso da atribuição que lhe confere o artigo 76, inciso III da Lei Orgânica do Município, faz saber que a Câmara Municipal de Cabeceira Grande decreta e ele, em seu nome, sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Poder Executivo Municipal autorizado a conceder contribuição financeira no valor de R$ 50.000,00 (cinquenta mil reais), por meio de transferência bancária, à Associação Comunitária para o Desenvolvimento de Palmital de Minas - ACDPAM, inscrita no CNPJ sob o n.° 18.560.653/0001-17, com sede na Rua Modesto Pires n.° 10, Distrito de Palmital de Minas, em Cabeceira Grande (MG), para custear parte das despesas da 20ª Festa da Moagem e do Carro de Boi de Palmital de Minas, a realizar-se nos dias 5, 6 e 7 de setembro de 2025, especialmente com estruturas (palco, sonorização, tendas, gerador elétrico) e contratação de shows artísticos regionais.
+
+
+Art. 2º.
+
+O valor previsto no artigo 1° será repassado com recursos oriundos do Fundo Municipal do Patrimônio Cultural - Fumpac, conforme aprovação pel Conselho Municipal do Patrimônio Cultural - Compac, em reunião realizada no dia 15 de agosto de 2025.
+
+
+Art. 3º.
+
+O evento de que trata esta Lei integra o Calendário Oficial de Eventos Turísticos, Tradicionais, Culturais e Populares - Cafest, instituído pela Lei Municipal n.° 400, de 27 de junho de 2013.
+
+
+Art. 4º.
+
+A transferência financeira de que trata esta Lei fundamenta-se no interesse público de promoção da cultura, do turismo e da tradição popular, tendo em vista que a Festa da Moagem e do Carro de Boi de Palmital de Minas qualifica-se como evento turístico, tradicional, cultural e popular do Município, com entrada franca ao público na edição deste ano, garantindo o acesso gratuito da comunidade em geral durante os dias de sua realização.
+
+
+Art. 5º.
+
+A entidade beneficiada deverá prestar contas da aplicação dos recursos recebidos junto à Secretaria Municipal da Educação e Cultura e ao Compac no prazo máximo de 30 (trinta) dias úteis após a realização do evento, devendo apresentar, dentre outros documentos:
+
+
+I –
+
+relatório circunstanciado das atividades realizadas e da aplicação dos recursos;
+
+
+II –
+
+notas fiscais, recibos e/ou documentos fiscais idôneos, emitidos em nome da entidade beneficiada, que comprovem as despesas custeadas com os recursos públicos;
+
+
+III –
+
+relação detalhada das despesas, discriminando fornecedores, serviços e valores;
+
+
+IV –
+
+relatório fotográfico das atividades e estrutura financiada com os recursos; e
+
+
+V –
+
+outros documentos que venham a ser exigidos pela legislação aplicável ou pelo órgão competente de controle da Prefeitura.
+
+
+Parágrafo único
+
+O descumprimento do disposto neste artigo sujeitará a entidade beneficiada às penalidades legais e à obrigação de devolução dos recursos aos cofres públicos, devidamente corrigidos.
+
+
+Art. 6º.
+
+Fica autorizada a abertura de crédito adicional especial ao Orçamento Geral do Município vigente para fazer face à contribuição financeira de trata o artigo 1°, utilizando-se como fonte de recursos a anulação parcial de dotações orçamentárias consignadas na LOA vigente, nos termos do disposto nos artigos 42 e 46 da Lei Federal n.º 4.320, de 17 de março de 1964.
+
+
+Art. 7º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Cabeceira Grande, 1° de setembro de 2025; 29º da Instalação do Município.
+
+**ELBER DE OLIVEIRA SILVA Prefeito**
+

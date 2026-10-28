@@ -1,0 +1,211 @@
+---
+titulo: "Lei nº 2.741, de 20 de março de 2020"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2741"
+data: "2020-03-20"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/6985"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/414/text"
+sha256_fonte: "e9a8d49ece986726573d4bb77fa3d81a796ae9bdf59394364e86d9073a0ba6e5"
+sha256_texto: "1275eaa988932f5ab11c3c2b8d1b5d1690bb14afa0c1cf021d83a62c42a69082"
+capturado_em_fonte: "2026-10-21T07:15:46.073286-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei nº 2.741, de 20 de março de 2020
+
+“Dispõe sobre a criação do “Selo Anticorrupção” a ser concedido pelo Poder Executivo Municipal de Porto Velho às empresas que adotaremos programas de integridade.”
+
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou, e eu, Vereador EDWILSON NEGREIROS, Presidente da Câmara Municipal, promulgo, nos termos do § 6º, do art. 72 da Lei Orgânica do Município, a seguinte  
+  
+**LEI:**
+
+
+Art. 1º.
+
+Fica instituído o "Selo Anticorrupção" a ser concedido pelo Poder Executivo Municipal de Porto Velho às empresas que adotarem os programas de integridade, desde que atendidos aos requisitos desta Lei.
+
+
+§ 1º
+
+Programa de integridade é um programa de compliance específico para prevenção, detecção e remediação dos atos lesivos previstos na Lei Federal nº 12.846, de 1º de agosto de 2013, que tem como foco, além da ocorrência de suborno, também fraudes nos processos de licitações e execução de contratos como setor público.
+
+
+§ 2º
+
+O selo anticorrupção terá validade de dois anos, podendo ser renovado a pedido da empresa interessada à autoridade competente.
+
+
+§ 3º
+
+O pedido de renovação será acatado se atestada a eficiência do programa de integridade no decorrer do ano em que foi concedido à empresa, nos termos de decreto regulamentador.
+
+
+Art. 2º.
+
+Para que o selo anticorrupção seja concedido, a pessoa jurídica deverá apresentar ao órgão competente da Administração Pública:
+
+
+I –
+
+relatório de perfil;
+
+
+II –
+
+relatório de conformidade do programa
+
+
+Art. 3º.
+
+No relatório de perfil, a pessoa jurídica deverá
+
+
+I –
+
+indicar os setores do mercado em que atua em território nacional e, se for o caso, no exterior;
+
+
+II –
+
+apresentar sua estrutura organizacional, descrevendo a hierarquia interna, o processo decisório e as principais competências de conselhos, diretorias, departamentos ou setores;
+
+
+III –
+
+informar o quantitativo de empregados, funcionários e colaboradores;
+
+
+IV –
+
+especificar e contextualizar as interações estabelecidas com a administração pública nacional ou estrangeira, destacando:
+
+
+a)
+
+importância da obtenção de autorizações, licenças e permissões governamentais em suas atividades;
+
+
+b)
+
+o quantitativo e os valores de contratos celebrados ou vigentes com entidades e órgãos públicos nos últimos três anos e a participação destes no faturamento anual da pessoa jurídica;
+
+
+c)
+
+frequência e a relevância da utilização de agentes intermediários, como procuradores, despachantes, consultores ou representantes comerciais, nas interações com o setor público.
+
+
+V –
+
+descrever as participações societárias que envolvam a pessoa jurídica na condição de controladora, controlada, coligada ou consorciada;
+
+
+VI –
+
+informar sua qualificação, se for o caso, como microempresa ou empresa de pequeno porte
+
+
+Art. 4º.
+
+No relatório de conformidade do programa, a pessoa jurídica deverá:
+
+
+I –
+
+informar a estrutura do programa de integridade, com:
+
+
+a)
+
+indicação de quais parâmetros previstos nos incisos do caput do Art. 42 do Decreto Federal nº 8.420, de 2015, foram implementados;
+
+
+b)
+
+descrição de como os parâmetros previstos na alínea "a" deste inciso foram implementados;
+
+
+c)
+
+explicação da importância da implementação de cada um dos parâmetros previstos na alínea "a" deste inciso, frente às especificidades da pessoa jurídica, para a mitigação de risco de ocorrência de atos lesivos constantes do Art. 5º da Lei nº 12.846, de 1º de agosto de 2013;
+
+
+II –
+
+demonstrar o funcionamento do programa de integridade na rotina da pessoa jurídica, com histórico de dados, estatísticas e casos concretos;
+
+
+III –
+
+demonstrar a atuação do programa de integridade na prevenção, detecção e remediação do ato lesivo objeto da apuração.
+
+
+§ 1º
+
+A pessoa jurídica deverá comprovar suas alegações, devendo zelar pela completude, clareza e organização das informações prestadas.
+
+
+§ 2º
+
+A comprovação pode abranger documentos oficiais, correios eletrônicos, cartas, declarações, correspondências, memorandos, atas de reunião, relatórios, manuais, imagens capturadas da tela de computador, gravações audiovisuais e sonoras, fotografias, ordens de compra, notas fiscais, registros contábeis ou outros documentos, preferencialmente em meio digital.
+
+
+Art. 5º.
+
+A avaliação do programa de integridade, para fins da manutenção do selo anticorrupção, deverá levar em consideração as informações prestadas, sua comprovação, nos relatórios de perfil e de conformidade do programa, e poderá ser atestada pela autoridade competente a cada três meses, a partir da data emque for concedido o selo de qualidade.
+
+
+§ 1º
+
+O selo anticorrupção considerará o grau de adequação do programa de integridade ao perfil da empresa e de sua efetividade.
+
+
+§ 2º
+
+O programa de integridade meramente formal e que se mostre absolutamente ineficaz para mitigar o risco de ocorrência de atos lesivos da Lei nº 12.846, de 2013, será automaticamente revogado pela autoridade competente.
+
+
+§ 3º
+
+A autoridade competente poderá realizar entrevistas e solicitar novos documentos para fins da avaliação de que trata o caput deste artigo.
+
+
+§ 4º
+
+A qualidade do programa de integridade será mensurada nos termos de decreto regulamentador.
+
+
+Art. 6º.
+
+O Executivo regulamentará a presente Lei no prazo de 90 (noventa) dias.
+
+
+Art. 7º.
+
+As despesas decorrentes da execução da presente Lei correrão à conta de dotações próprias consignadas no orçamento, suplementadas se necessário.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Câmara Municipal de Porto Velho, 20 de março de 2020.
+
+**VEREADOR EDWILSON NEGREIROS**
+
+Presidente
+
+Projeto de Lei nº 3.964/2019
+
+Vereador Isaque Machado – MDB
+

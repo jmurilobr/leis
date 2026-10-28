@@ -1,0 +1,364 @@
+---
+titulo: "Lei Ordinária nº 609, de 31 de maio de 2019"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "609"
+data: "2019-05-31"
+municipio: "Cruzmaltina"
+uf: "PR"
+codigo_ibge: "4106852"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cruzmaltina.pr.leg.br/norma/868"
+fonte_texto: "https://sapl.cruzmaltina.pr.leg.br/ta/12/text"
+sha256_fonte: "be0749f61c62625c55f61e3f24c0448cdfc2531fd1311ada1c2c802207bda546"
+sha256_texto: "302518b416986325b510f2b4ad488c17154c0c2c891b60bddae38894e4782d8b"
+capturado_em_fonte: "2026-10-28T09:32:57.657041-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 609, de 31 de maio de 2019
+
+Disciplina a realização de feiras ou eventos similares no Município de Cruzmaltina e dá outras providências
+
+
+O Município de Cruzmaltina, Estado do Paraná, através da Prefeita Municipal, Sra. LUCIANA LOPES DE CAMARGO, no uso de suas atribuições legais, FAZ SABER que a Câmara Municipal de Vereadores APROVOU e SANCIONA a seguinte Lei:
+
+
+#### CAPÍTULO I — DA CLASSIFICAÇÃO E DOS TIPOS DE FEIRAS
+
+
+Art. 1º.
+
+Será considerada Feira qualquer evento de comercialização temporário de caráter eventual, formado por organizador único ou por empresas expositoras com CNPJ, realizada com um dos seguintes objetivos:
+
+
+I –
+
+Feiras Comerciais - comercialização direta ao consumidor final de produtos do comércio, indústria ou prestação de serviços, destinados ao consumo varejista ou atacadista;
+
+
+II –
+
+Feiras de Negócios - exibição de amostras de produtos ou serviços, ficando vedada a comercialização direta ao consumidor final;
+
+
+III –
+
+Feiras de Negócios Técnico-Científicos - intercâmbio técnicocientífico entre órgãos públicos e/ou empresas privadas;
+
+
+IV –
+
+Feira Cultural - eventos artísticos populares como dança, teatro, música, poesia, realizados ao ar livre ou fechado e sem fins lucrativos;
+
+
+V –
+
+Feiras de Trabalhos Artesanais - exposição e comercialização de produtos manuais e artesanais de fabricação doméstica, sem qualquer processo de industrialização;
+
+
+§ 1º
+
+A realização de feiras ou eventos similares cuja finalidade precípua seja a comercialização, venda a varejo ou atacado de produtos, bens ou serviços de qualquer natureza, dependerão de recolhimento de Taxa de licença da Administração Municipal para seu funcionamento, na forma da Legislação específica.
+
+
+§ 2º
+
+As feiras ou eventos similares somente serão realizadas por instituição organizadora desses eventos, regularmente constituída para este fim específico, que atenda todas as exigências legais vigentes.
+
+
+#### CAPÍTULO II — ESPAÇOS DESTINADOS À REALIZAÇÃO DAS FEIRAS
+
+
+Art. 2º.
+
+As Feiras poderão ser realizadas em locais abertos ou fechados observando-se o seguinte:
+
+
+I –
+
+considera-se local aberto os logradouros públicos ou áreas privada devidamente estruturadas para tal fim;
+
+
+II –
+
+considera-se local fechado os clubes, galpões, centros de exposições e eventos, armazéns e similares, devidamente estruturados para tal fim, onde a entrada do público possa ser controlada;
+
+
+Art. 3º.
+
+Os locais destinados à realização das feiras deverão ter, no mínimo, as seguintes características:
+
+
+I –
+
+concebidos e executados de forma a torná-los acessíveis para portadores de deficiência física ou com mobilidade reduzida, nos termos da Lei 10.098/2000 e do Decreto 5.926/2004;
+
+
+II –
+
+ventilados e de fácil acesso, com saídas amplas em caso de emergência;
+
+
+III –
+
+disponibilizar sanitários sendo, no mínimo, um masculino e um feminino, com acessibilidade para portadores de deficiência física;
+
+
+IV –
+
+comprovar a disponibilidade de área de estacionamento para visitantes;
+
+
+V –
+
+disponibilizar gratuitamente espaços para representantes do PROCON, Receita Estadual e Municipal, Polícia Militar, Guarda Municipal, Conselheiros Tutelares, Secretaria da Saúde e Vigilância Sanitária, entre outros;
+
+
+VI –
+
+croqui indicativo de localização de cada boxe comercial, compartimento, barraca ou demais unidades de venda, onde conste a identificação de cada participante da Feira e a empresa responsável pela montagem, com a respectiva ART;
+
+
+VII –
+
+o espaço ocupado por cada participante deverá ter, no mínimo, 3,0m X 3,0 m;
+
+
+VIII –
+
+cada espaço poderá ser ocupado por apenas um expositor, sendo vedada a sublocação, devendo, obrigatoriamente, estar nas mesmas disposições do croqui apresentado.
+
+
+#### CAPÍTULO III — PROCEDIMENTOS ESPECÍFICOS PARA FEIRA
+
+
+Art. 4º.
+
+Para realização da Feira a empresa organizadora de eventos, legalmente constituída, apresentará requerimento constando sua razão social, ramo de atividade, endereço onde pretende se instalar e o período no qual permanecerá em atividade, acompanhado dos seguintes documentos:
+
+
+I –
+
+contrato social e última alteração contratual autenticados ou documento equivalente do organizador do evento e de todas as pessoas jurídicas que dele participem, direta ou indiretamente, devidamente registrados;
+
+
+II –
+
+matrícula atualizada quando se tratar de imóvel próprio ou contrato de locação, com firma reconhecida, quando se tratar de imóvel locado para realização do evento, em qualquer dos casos com IPTU quitado;
+
+
+III –
+
+Planta com layout da distribuição dos espaços destinados aos expositores, assinado por arquiteto com Responsabilidade Técnica, devidamente registrado no CREA-PR; destacando-se os espaços destinados aos órgãos de fiscalização do Poder Judiciário, do Estado e do município, de proteção e defesa do consumidor, vigilância sanitária e segurança pública; constando, ainda, as áreas de circulação de pessoas, indicação de entradas e saídas de emergência; localização e identificação de instalações sanitárias, sendo que o local de realização do evento deverá ser devidamente arejado e ventilado, de fácil acesso, inclusive, para portadores de deficientes e com saídas amplas;
+
+
+IV –
+
+apresentar contrato firmado com empresa especializada em segurança, com registro junto a Policia Federal, como forma de garantir a segurança interna do evento;
+
+
+V –
+
+Certificados de vistoria ou documento equivalente emitido pelo Corpo de Bombeiros, comprovando o atendimento às exigências de segurança do local do evento;
+
+
+VI –
+
+Relação de todos os empregados do organizador do evento e dos participantes da feira, acompanhada de cópias dos respectivos contratos de trabalho/CTPS, atestando o cumprimento da legislação trabalhista e demais normas estabelecidas por convenção coletiva de trabalho;
+
+
+VII –
+
+Comprovação do recolhimento do valor devido pela concessão da licença, consoante estabelecido na legislação tributária municipal;
+
+
+VIII –
+
+Comprovação de recolhimento da contribuição autoral junto ao ECAD – Escritório Central de Arrecadação e Distribuição de Direitos Autorais ou entidade respectiva, caso haja execução pública de obra literária, artística, musical, científica ou fonograma no local do evento;
+
+
+IX –
+
+Certidão negativa de débito junto à Receita Federal, Estadual e Municipal do organizador do evento e de todos os participantes, expedida pela Secretaria da Fazenda dos Estados e dos Municípios onde tenham sede;
+
+
+X –
+
+Certidão negativa de reclamações junto aos PROCON’s, do organizador do evento e de todos os participantes, expedida pelos municípios/regional onde tenham sede;
+
+
+XI –
+
+Certidão negativa de débitos ou certidão de regularidade perante o INSS e o FGTS do organizador do evento e de todos os participantes;
+
+
+XII –
+
+Relação nominal de todos os participantes do evento com seus respectivos dados cadastrais, tais como, nome empresarial, nome de fantasia, endereço, número de inscrição no CNPJ, número da inscrição estadual, ramo de atividade, número de telefone, nome e número do CPF do responsável pela empresa no evento;
+
+
+XIII –
+
+Termo de compromisso, emitido pela organizadora do evento, acompanhado de comprovante de propriedade, locação ou cessão de imóvel, responsabilizando-se pela manutenção de escritório na zona central do município, durante o horário comercial, com indicação de endereço e telefone deste, pelo prazo de 30 dias quando se tratar de produtos ou serviços não duráveis e de 90 dias quando se tratar de produtos ou serviços duráveis, contados do encerramento da feira ou evento similar, onde serão efetuadas, unicamente, as trocas de mercadoria com defeito ou vício e prestados, ao consumidor, esclarecimentos dos produtos e serviços da feira;
+
+
+XIV –
+
+Nos casos em que for necessária a utilização de estrutura em madeira ou metal removíveis, projeto acompanhado da Anotação de Responsabilidade Técnica (ART) de profissional habilitado.
+
+
+XV –
+
+Laudo de engenheiro atestando a capacidade de lotação, estrutura e a instalação elétrica e hidráulicas do imóvel e saídas de emergência, acompanhada respectiva Anotação de Responsabilidade Técnica –ART;
+
+
+XVI –
+
+Protocolo endereçado ao PROCON Municipal/Estadual e a Policia Militar comunicando o local, datas e horários de funcionamento da Feira, para eventuais fiscalizações;
+
+
+XVII –
+
+Nota fiscal individual dos produtos comercializados na feira ou, em caso de compra por lote, nota fiscal da compra com a discriminação de todos os produtos adquiridos, podendo a Administração Pública requisitar a qualquer momento sua apresentação e, no caso de inexistência da respectiva nota, ou não apresentação imediata, poderá ser suspensa a licença de funcionamento e, consequentemente, o evento, até que se providencie a referida nota.
+
+
+XVIII –
+
+Comprovação de sanitários sendo, no mínimo, um masculino e um feminino com placas indicativas e iluminação, dentro do local destinado ao público; e tratando-se de banheiro químico, certificado de empresa responsável pela instalação e manutenção dos sanitários, atendendo as legislações vigentes, bem como, o uso de ocupação do solo e demais exigências do Instituto Ambiental do Paraná;
+
+
+XIX –
+
+Comprovação de contratação de seguro contra incêndio destinado cumulativamente:
+
+
+a)
+
+à cobertura de sinistros contra edificações e instalações em todo espaço ocupado pela feira;
+
+
+b)
+
+à cobertura de danos pessoais causados aos visitantes, frequentadores, clientes da feira, servidores públicos e trabalhadores em serviço.
+
+
+Parágrafo único
+
+Os documentos relacionados nos itens acima, e todas as exigências previstas em lei, serão apresentados por ocasião do protocolo do requerimento de licença para o evento, sob pena de indeferimento do pedido.
+
+
+Art. 5º.
+
+As instalações para realização da Feira deverão estar concluídas, pelo menos 02 (dois) dias úteis antes de seu início para que possam ser vistoriadas pelos órgãos técnicos e fiscais do município e exista tempo hábil para eventuais adequações, sendo vedado o funcionamento da Feira enquanto não ocorrer a vistoria e a expedição da licença definitiva.
+
+
+Art. 6º.
+
+As despesas necessárias à instalação e execução de feiras ou eventos similares, assim como a comprovação do recolhimento da taxa de licença ou quaisquer outros tributos devidos em razão dos mesmos são de responsabilidade do organizador do evento.
+
+
+Art. 7º.
+
+Nas feiras e eventos similares de que esta lei é vedada a comercialização dos produtos:
+
+
+I –
+
+fogos de artifício e correlatos;
+
+
+II –
+
+tabaco, fumo ou cigarros de qualquer procedência;
+
+
+III –
+
+bebidas alcoólicas, no atacado ou no varejo;
+
+
+IV –
+
+armas de fogo e munições;
+
+
+V –
+
+originários de contrabando ou descaminho, falsificados ou pirateados;
+
+
+VI –
+
+têxteis que não contenham etiqueta com sua especificação, modo de lavagem e secagem.
+
+
+§ 1º
+
+Os produtos têxteis devem conter informações referente ao nome ou razão social ou marca registrada do fabricante, a identificação fiscal do fabricante nacional ou do importador (CNPJ), país de origem, nome das fibras ou filamentos têxteis e seu conteúdo expresso em porcentagem, uma indicação de tamanho e, pelo menos, os cinco principais tratamentos de sua conservação, por meio de símbolos e/ou texto, que devem estar descritos conforme a Norma Reguladora do Inmetro.
+
+
+§ 2º
+
+Os produtos descritos neste artigo que forem comercializados ou expostos à venda nos locais de realização de feiras ou eventos similares de forma irregular serão apreendidos e destruídos na forma da legislação em vigor, sem prejuízo de eventual representação criminal dos responsáveis.
+
+
+§ 3º
+
+A pessoa jurídica organizadora do evento, a qualquer tempo quando exigido pelos órgãos de fiscalização, demonstrará a origem lícita dos produtos comercializados na feira.
+
+
+Art. 8º.
+
+Na hipótese de comercialização de produtos alimentícios serão observadas as normas vigentes na legislação pertinente.
+
+
+Art. 9º.
+
+Em se tratando de feiras ou eventos similares onde se comercializem produtos alimentícios e/ou perecíveis e/ou sujeitos a prazo de validade, as autoridades sanitárias municipais exercerão constante e rigorosa fiscalização e vigilância sobre a origem, fabricação, preparação, manuseio, acondicionamento e exposição dos mesmos.
+
+
+Art. 10.
+
+O organizador de feiras ou eventos similares será solidariamente responsável pelos danos decorrentes das relações de consumo havidas entre os participantes e os consumidores finais.
+
+
+Art. 11.
+
+Ao organizador e aos participantes de feiras ou eventos similares é vedada a comercialização de produtos e/ou serviços nas vias públicas do município, seja através de prepostos ou de vendedores ambulantes.
+
+
+Art. 12.
+
+A realização de feiras ou eventos similares sem a respectiva licença municipal ou com desrespeito aos termos da lei, implicará na imediata interdição do evento pela administração pública e na imposição de multa diária ao(s) infrator (es), no importe de 100 UFM por participante(s) e 1000 UFM por organizador, pelo período de persistência da irregularidade, e na apreensão das mercadorias expostas ou destinadas à comercialização, ficando o(s) infrator(es) impedido(s) da realização ou participação de novos eventos pelo prazo de 3 (três) anos, contados a partir da constatação da infração.
+
+
+Parágrafo único
+
+Sendo o caso, ao final de cada dia, o organizador da Feira ou o participante que exerça o comércio ou prestação de serviços na feira, apresentarão relatório de vendas ou serviços prestados para fins de que o setor fiscal elabore cálculo de eventual imposto devido à municipalidade, o qual será pago ao erário municipal, sob pena de cassação da licença, sem prejuízo da cobrança do imposto.
+
+
+Art. 13.
+
+A empresa organizadora colocará espaço de, no mínimo, 30% (trinta por cento) da área do evento a disposição dos expositores locais; os quais deverão requerer o espaço até 72 (setenta e duas) horas antes do início do feira, findo o qual cessará a obrigação do organizador do evento.
+
+
+Parágrafo único
+
+Consideram-se expositores locais, para os fins deste artigo, aqueles estabelecidos no município de Cruzmaltina há mais de 12 (doze) meses e em efetiva atividade.
+
+
+Art. 14.
+
+Esta lei entra em vigor na data de sua publicação, revogando as disposições em contrário.
+
+
+EDIFÍCIO DA PREFEITURA MUNICIPAL DE CRUZMALTINA, EM 31 DE MAIO DE 2019.
+
+**LUCIANA LOPES DE CAMARGO**
+
+Prefeita Municipal
+

@@ -1,0 +1,105 @@
+---
+titulo: "04 - Lei Ordinária nº 1.309, de 23 de maio de 2025"
+tipo: "Lei ordinária"
+tipo_na_fonte: "04 - Lei Ordinária"
+numero: "1309"
+data: "2025-05-23"
+municipio: "Corbélia"
+uf: "PR"
+codigo_ibge: "4106308"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.corbelia.pr.leg.br/norma/1425"
+fonte_texto: "https://sapl.corbelia.pr.leg.br/ta/1441/text"
+sha256_fonte: "a6ac2f08757ab0d9af85e0e4daf25d11517f230ceeccc985414f97c40e14aef7"
+sha256_texto: "6edadde48663e975214b3c5a82eadc5854abde017f2ee0c3e75e142ada56ba74"
+capturado_em_fonte: "2026-10-28T04:14:28.240438-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# 04 - Lei Ordinária nº 1.309, de 23 de maio de 2025
+
+Institui programa municipal de adaptação de moradias para pessoas com deficiência ou mobilidade reduzida.
+
+
+A CÂMARA MUNICIPAL DE CORBÉLIA, ESTADO DO PARANÁ, decretou, e eu, o Prefeito Municipal, sanciono a seguinte:
+
+LEI
+
+
+Art. 1º.
+
+Institui o Programa Municipal de Adaptação de Moradias, com o objetivo de realizar adaptações em imóveis, para fins de acessibilidade de pessoas com deficiência ou mobilidade reduzida, de baixa renda, no âmbito do Município de Corbélia.
+
+
+Parágrafo único
+
+Pessoas com deficiência e pessoas com mobilidade reduzida são aquelas conceituadas pela Lei Federal nº 10.098, de 19 de dezembro de 2000, e Lei Federal nº 13.146, de 6 de julho de 2014.
+
+
+Art. 2º.
+
+Serão beneficiárias do Programa Municipal de Adaptação de Moradias as famílias em situação de vulnerabilidade social e de baixa renda, responsáveis por pessoas com deficiência ou pessoas com mobilidade reduzida habitando em imóvel de sua propriedade a ser adaptado e que residam há pelo menos dois anos no Município de Corbélia.
+
+
+Parágrafo único
+
+O cadastro de beneficiários habilitados será formado por requerimento dos interessados e ou decorrente de busca ativa do poder público.
+
+
+Art. 3º.
+
+O Programa Municipal de Adaptação de Moradias poderá buscar meios viabilizadores da realização da adaptação de imóveis de que trata esta lei, como forma de garantia à acessibilidade, devendo observar os seguintes princípios:
+
+
+I –
+
+moradia digna como direito e vetor de inclusão social;
+
+
+II –
+
+compatibilidade e integração das políticas habitacionais federal, estadual e municipal, bem como das demais políticas setoriais de desenvolvimento urbano, ambientais e de inclusão social;
+
+
+III –
+
+democratização, descentralização, controle social e transparência dos procedimentos decisórios.
+
+
+Art. 4º.
+
+Novos lançamentos de moradias populares de baixa renda, deverão executar unidades já adaptadas e acessíveis de acordo com cadastro dos pretendentes e beneficiários contemplados.
+
+
+Art. 5º.
+
+Caso seja constatada a inviabilidade técnica de adaptação do imóvel habitado, as pessoas com deficiência ou mobilidade reduzida automaticamente poderão ser inscritas em programas sociais e populares de habitação e terão prioridade em sua aquisição.
+
+
+Art. 6º.
+
+O Programa Municipal de Adaptação de Moradias adotará mecanismos de acompanhamento e avaliação dos indicadores de impacto social referentes às medidas aplicadas.
+
+
+Art. 7º.
+
+Os projetos e atividades do programa serão vinculados às dotações do programa previsto no código 0008.0244.0120.2341 da Lei Municipal nº 1.260, de 19 de dezembro de 2024 (LOA 2025).
+
+
+Art. 8º.
+
+Esta Lei entrará em vigor na data de sua publicação.
+
+
+Edifício da Prefeitura Municipal de CORBÉLIA, Estado do Paraná  
+Em 23 de maio de 2025, 64º da Emancipação Política.
+
+Thiago Daross Stefanello  
+Prefeito Municipal
+
+Não substitui o texto publicado no DOE 2294 de 28/05/2025, pág. 01-03.  
+Link direto: https://sapl.corbelia.pr.leg.br/norma/1425/ta
+

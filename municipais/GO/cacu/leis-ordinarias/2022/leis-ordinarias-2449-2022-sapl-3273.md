@@ -1,0 +1,356 @@
+---
+titulo: "Lei Ordinária nº 2.449, de 09 de agosto de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2449"
+data: "2022-08-09"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/3273"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/251/text"
+sha256_fonte: "f0f8b04e185ef3a00f791f39743c078ae0d70a15f77b9af66c97a6b40b09fbbb"
+sha256_texto: "b59640866f3ac005345e439e2105038ecc1f2f2ac7817268aab65fe68943c724"
+capturado_em_fonte: "2026-10-27T21:28:44.998114-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 2.449, de 09 de agosto de 2022
+
+“Dispõe sobre o Conselho Municipal de Assistência Social e dá outras providências”.
+
+
+A Prefeita do Município de Caçu, Estado de Goiás, no uso de suas atribuições legais, faz saber que a Câmara Municipal aprovou e ela, sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+O Conselho Municipal de Assistência Social – CMAS instituído pelo art. 1º da Lei nº 1047/95, de 8 de dezembro de 1995, é um colegiado permanente de composição paritária e caráter deliberativo, vinculado à Secretaria Municipal de Ação e Promoção Social, órgão responsável pela coordenação e execução da política municipal de assistência social.
+
+
+Art. 2º.
+
+Compete ao CMAS:
+
+
+I –
+
+aprovar, acompanhar, avaliar e fiscalizar a execução e o funcionamento da Política Municipal de Assistência Social, elaborada em consonância com a Política Estadual e Nacional de Assistência Social, na perspectiva do SUAS – Sistema Único de Assistência Social, com as diretrizes estabelecidas pelas Conferências de Assistência Social e com o Plano Plurianual, a Lei de Diretrizes Orçamentárias e a Lei Orçamentária Anual;
+
+
+II –
+
+anuir as ações, os programas, as metas de assistência social, em consonância com o Plano Plurianual, a Lei de Diretrizes Orçamentárias e a Lei Orçamentária Anual;
+
+
+III –
+
+normatizar as ações e regular a prestação de serviços de natureza pública e privada no campo da assistência social;
+
+
+IV –
+
+zelar pela implementação e efetivação do Sistema Único de Assistência Social – SUAS, no âmbito municipal;
+
+
+V –
+
+convocar, em processo articulado com o Conselho Estadual de Assistência Social, ordinariamente, a cada 4 (quatro) anos, ou extraordinariamente, a cada 2 (dois) anos por maioria absoluta de seus membros, a Conferência Municipal de Assistência Social, que terá atribuição de avaliar a conjuntura da assistência social e propor diretrizes para o aperfeiçoamento do respectivo sistema descentralizado e participativo;
+
+
+VI –
+
+encaminhar as deliberações da Conferência Municipal de Assistência Social aos órgãos competentes e acompanhar os procedimentos necessários a sua implantação;
+
+
+VII –
+
+orientar e subsidiar a realização das conferências municipais de assistência social;
+
+
+VIII –
+
+participar de elaboração, avaliação e aprovação da proposta orçamentária dos recursos da assistência social a ser encaminhada para Secretaria Municipal de Ação e Promoção Social aos órgãos competentes;
+
+
+IX –
+
+acompanhar e avaliar a gestão dos recursos, bem como os ganhos sociais e o desempenho dos programas e projetos aprovados;
+
+
+X –
+
+estabelecer diretrizes, apreciar e aprovar os programas anuais e plurianuais do Fundo Municipal de Assistência Social, em consonância com o Plano Plurianual, a Lei de Diretrizes Orçamentária e a Lei orçamentária Anual;
+
+
+XI –
+
+zelar pela destinação dos recursos a serem aplicados na Política de Assistência Social;
+
+
+XII –
+
+aprovar o Plano Municipal de Capacitação de Recursos Humanos para a área de Assistência Social, de acordo com as Normas Operacionais Básicas, NOB-SUAS, e de Recursos Humanos, NOB-RH;
+
+
+XIII –
+
+apreciar e aprovar, por decisão plenária, o Plano de Aplicação do Fundo Municipal de Assistência Social, encaminhado pela Secretaria Municipal de Ação e Promoção Social;
+
+
+XIV –
+
+manter articulação contínua com o Conselho Estadual de Assistência Social – CEAS e com o Conselho Nacional de Assistência Social – CNAS;
+
+
+XV –
+
+publicar no site – www.cacu.go.gov.br da Prefeitura Municipal de Caçu, Estado de Goiás suas resoluções;
+
+
+XVI –
+
+elaborar e aprovar seu Regimento Interno, bem como outras normas que tenham como objetivo orientar seu funcionamento;
+
+
+XVII –
+
+propor a dotação orçamentária própria para seu funcionamento e exigir a aplicação do que for fixado em lei;
+
+
+XVIII –
+
+inscrever e fiscalizar as entidades e organizações de Assistência Social de âmbito municipal, bem como serviços, programas, projetos e benefícios socioassistenciais, independentemente do recebimento ou não de recursos públicos e propor ao Conselho Nacional de Assistência Social o cancelamento de inscrição das mesmas que incorrerem em descumprimento dos princípios previstos na LOAS e em irregularidades na aplicação de recursos , e do cumprimento do que estabelece a Resolução CNAS nº 14, de 2014;
+
+
+XIX –
+
+a instância recursal das decisões do Conselho Municipal de Assistência Social é o Conselho Estadual de Assistência Social e o prazo para que as entidades apresentem recursos constará do Regimento Interno do CMAS.
+
+
+Art. 3º.
+
+O Conselho Municipal de Assistência Social – CMAS será composto por 10 (dez) membros titulares e respectivos suplentes, assegurada a paridade entre órgãos públicos e sociedade civil.
+
+
+§ 1º
+
+Os conselheiros terão mandato de 2 (dois) anos, permitida uma única recondução por igual período, sendo eles nomeados pelo(a) Prefeito(a) Municipal.
+
+
+§ 2º
+
+Compõe-se o Conselho Municipal de Assistência Social – CMAS:
+
+
+I –
+
+do Governo Municipal:
+
+
+a)
+
+um representante da Secretaria Municipal de Ação e Promoção Social;
+
+
+b)
+
+um representante da Secretaria Municipal de Educação;
+
+
+c)
+
+um representante da Secretaria Municipal de Saúde;
+
+
+d)
+
+um representante da Secretaria Municipal de Administração;
+
+
+e)
+
+um representante da Secretaria Municipal da Agricultura e/ou do Meio Ambiente alternadamente na titularidade.
+
+
+II –
+
+da Sociedade Civil:
+
+
+a)
+
+um representante do fórum ou organização de usuário da política de assistência social que esteja em funcionamento continuado e permanente ou de entidade de usuários, no âmbito municipal;
+
+
+b)
+
+dois representantes de entidades de atendimento na área de assistência social, no âmbito municipal;
+
+
+c)
+
+um representante de entidades de assessoramento ou de defesa e garantia de direito, no âmbito municipal;
+
+
+d)
+
+um representante do fórum ou organização de trabalhadores da política de assistência social em funcionamento continuado e permanente.
+
+
+§ 3º
+
+A função de membro do CMAS considerada de relevância, não será remunerada e observará os princípios da administração pública.
+
+
+§ 4º
+
+Eventuais despesas referentes a transportes, passagens, diárias, estadias e alimentação de conselheiros no exercício de suas atribuições em viagens e outros atos realizados, devidamente autorizadas pelo plenário, serão custeadas, em sua integralidade, com recursos provenientes do Fundo Municipal de Assistência Social – FMAS.
+
+
+§ 5º
+
+Em caso de relevância e urgência, o Presidente do Conselho Municipal de Assistência Social poderá autorizar, com posterior referendum do plenário, que seus membros empreendem viagem para o cumprimento das atribuições do colegiado.
+
+
+Art. 4º.
+
+Os representantes da administração pública que integram o Conselho Municipal de Assistência Social serão indicados pelos dirigentes dos órgãos a que pertencem.
+
+
+Art. 5º.
+
+Os representantes da sociedade civil serão eleitos em fórum especialmente convocados para esse fim, por meio de resoluções que disciplinarão sua instalação e seu funcionamento, sendo publicados no site – www.cacu.go.gov.br da Prefeitura Municipal de Caçu, Estado de Goiás os procedimentos e seus resultados.
+
+
+Parágrafo único
+
+O processo de eleição dos representantes da sociedade civil para comporem o CMAS será especificado no Regimento desse Conselho, devendo a assembleia eletiva ocorrer sob a fiscalização do Ministério Público Estadual.
+
+
+Art. 6º.
+
+O Conselho Municipal de Assistência Social – CMAS elegerá dentre seus membros efetivos, por maioria simples, um presidente e um vice-presidente, escolhidos em reunião extraordinária, especialmente convocada para esse fim.
+
+
+§ 1º
+
+A sessão para eleição do presidente e do vice-presidente será por votação aberta ou secreta, conforme decisão especificada no Regimento Interno.
+
+
+§ 2º
+
+O presidente e o vice-presidente terão mandato de 2 (dois) anos, permitida uma única recondução por igual período, devendo haver alternância desses cargos dentre os representantes do governo e da sociedade civil.
+
+
+Art. 7º.
+
+Compõem a estrutura organizacional do Conselho Municipal de Assistência Social – CMAS:
+
+
+I –
+
+Presidência e Vice-Presidência: de composição paritária, exercida por conselheiros titulares representantes da sociedade civil e da administração pública, observado disposto no art. 6º desta lei;
+
+
+II –
+
+Plenário: formado por todos os conselheiros titulares, podendo, em suas faltas e impedimentos, ser substituídos pelos respectivos suplentes;
+
+
+III –
+
+Secretaria Executiva: composta no mínimo:
+
+
+a)
+
+um secretário executivo, que deverá ser um profissional com formação de nível superior.
+
+
+IV –
+
+Comissões Temáticas:
+
+
+a)
+
+Comissão de Política de Assistência Social, com atribuição de auxiliar o CMAS no cumprimento das competências constantes dos incisos I, II, IV, V, VI, VII e XIV do art. 2º desta Lei;
+
+
+b)
+
+Comissão de Normas da Assistência Social, com a função de assistir o Conselho Municipal de Assistência Social – CMAS na elaboração de normas e no cumprimento das atribuições mencionadas nos incisos III, XV e XVI do art. 2º desta Lei;
+
+
+c)
+
+Comissão de Financiamento e Orçamento da Assistência Social, com atribuição de assegurar o cumprimento das competências referidas nos incisos IX, X, XII e XIII do art. 2º desta Lei;
+
+
+d)
+
+Comissão de Inscrição de Entidades, com atribuição de subsidiar o Conselho Municipal de Assistência Social – CMAS no cumprimento das competências referentes ao processo de inscrição e acompanhamento de entidade e organizações de assistência social;
+
+
+e)
+
+Comissão de Ética, com as seguintes funções:
+
+
+1
+
+orientar a conduta dos conselheiros titulares e suplentes;
+
+
+2
+
+dar publicidade às regras éticas de conduta dos conselheiros, a fim de que a sociedade possa aferir a integridade e a lisura de suas atividades;
+
+
+3
+
+preservar a imagem e a reputação do Conselho Municipal de Assistência Social – CMAS;
+
+
+4
+
+estabelecer regras básicas sobre conflitos de interesses públicos e privados e limitações às atividades profissionais no exercício da função de conselheiro;
+
+
+5
+
+criar procedimento de averiguação de infração ética.
+
+
+V –
+
+Grupo de Trabalho: constituído, quando necessário, por determinação da Presidência ou do Plenário, dentre os conselheiros efetivos e suplentes.
+
+
+Parágrafo único
+
+As funções da Secretaria Executiva serão exercidas, preferencialmente, por funcionários públicos efetivos indicados e disponibilizados pela Secretaria Municipal de Ação e Promoção Social, com aprovação do Conselho Municipal de Assistência Social – CMAS.
+
+
+Art. 8º.
+
+As despesas decorrentes desta Lei correrão à conta de dotação orçamentária consignada no orçamento setorial do Fundo Municipal de Assistência Social.
+
+
+Art. 9º.
+
+Ficam revogados os arts. 2º e seguintes da Lei nº 1047/95, de 08 de dezembro de 1995, e a Lei nº 1094/97, de 14 de abril de 1997.
+
+
+**GABINETE DA PREFEITA DE CAÇU**, Estado de Goiás, aos 09 dias do mês de agosto do ano de 2022.
+
+
+**ANA CLÁUDIA LEMOS OLIVEIRA**
+
+**Prefeita Municipal**
+

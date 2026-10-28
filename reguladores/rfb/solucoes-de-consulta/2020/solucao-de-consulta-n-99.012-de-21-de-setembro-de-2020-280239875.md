@@ -1,0 +1,62 @@
+---
+titulo: "SOLUÇÃO DE CONSULTA Nº 99.012, DE 21 DE SETEMBRO DE 2020"
+orgao: "Ministério da Economia/Secretaria Especial da Receita Federal do Brasil/Subsecretaria-Geral da Receita Federal do Brasil/Subsecretaria de Tributação e Contencioso/Coordenação-Geral de Tributação"
+tipo: "Solução de Consulta"
+numero: "99012"
+data: 2020-09-21
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 30/09/2020, seção 1, p. 214"
+data_publicacao: 2020-09-30
+edicao: "188"
+fonte: "https://www.in.gov.br/web/dou/-/solucao-de-consulta-n-99.012-de-21-de-setembro-de-2020-280239875"
+sha256_html_fonte: d5f30177ed3d2b6f7547e8de8dbece58efd1b6f96ab1f5efd4ec8d065106c5ac
+baixado_em: 2026-10-21
+---
+# SOLUÇÃO DE CONSULTA Nº 99.012, DE 21 DE SETEMBRO DE 2020
+
+SOLUÇÃO DE CONSULTA Nº 99.012, DE 21 DE SETEMBRO DE 2020
+
+Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+
+LUCRO PRESUMIDO. SERVIÇOS HOSPITALARES. PERCENTUAL DE PRESUNÇÃO.
+
+Para fins de aplicação do percentual de presunção de 8% (oito por cento), a ser aplicado sobre a receita bruta auferida no período de apuração pela pessoa jurídica, com vistas à determinação da base de cálculo do imposto, consideram-se serviços hospitalares aqueles que se vinculam às atividades desenvolvidas pelos hospitais, voltados diretamente à promoção da saúde, prestados pelos estabelecimentos assistenciais de saúde que desenvolvem as atividades previstas nas atribuições 1 a 4 da RDC Anvisa nº 50, de 2002. Desse conceito estão excluídas as simples consultas médicas, que não se identificam com as atividades prestadas no âmbito hospitalar, mas nos consultórios médicos.
+
+Para fazer jus ao percentual de presunção referido, a prestadora dos serviços hospitalares deve, ainda, estar organizada, de fato e de direito, como sociedade empresária e atender às normas da Anvisa. Caso contrário, a receita bruta advinda da prestação dos serviços, ainda que caracterizados como hospitalares, estará sujeita ao percentual de presunção de 32% (trinta e dois por cento).
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 36, DE 19 de abril de 2016.
+
+Dispositivos Legais: Lei nº 9.249, de 1995, art. 15, caput e §§ 1º, III, "a" e 2º; IN RFB nº 1.234, de 2012, art. 30 (com redação dada pela IN RFB nº 1.540, de 2015); Nota Explicativa PGFN/CRJ nº 1.114, de 2012, Anexo, item 52.
+
+LUCRO PRESUMIDO. SERVIÇOS DE SAÚDE. PERCENTUAL PRESUNÇÃO REDUZIDO. REQUISITOS.
+
+A partir de 1º de janeiro de 2009, para efeito de determinação da base de cálculo do IRPJ devido pela pessoa jurídica tributada com base no lucro presumido, aplica-se o percentual de 8% (oito por cento) sobre a receita bruta decorrente da prestação de serviços hospitalares e da prestação dos serviços de auxílio diagnóstico e terapia listados na "Atribuição 4: Prestação de Atendimento ao Apoio ao Diagnóstico e Terapia" da Resolução RDC Anvisa nº 50, de 21 de fevereiro de 2002, desde que a prestadora dos serviços seja organizada sob a forma de sociedade empresária (de direito e de fato) e atenda às normas da Agência Nacional de Vigilância Sanitária (Anvisa).
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 114, DE 26 de março de 2019.
+
+Dispositivos Legais: Lei nº 9.249, de 1995, art. 15, caput, § 1º, III, "a", e § 2º; Lei nº 9.430, de 1996, art. 25, I; Lei nº 10.406, de 2002 (Código Civil), art. 966 e 982; Lei nº 11.727, de 2008, arts. 29 e 41, VI; Instrução Normativa RFB nº 1.234, de 2012, arts. 30, 31 e 38, II; Instrução Normativa RFB nº 1.396, de 2013, art. 9º; Instrução Normativa RFB nº 1.700, de 2017, art. 33, § 1º, II, "a", §§ 3º e 4º, art. 215, § 2º; Solução de Divergência Cosit nº 11, de 28 de agosto de 2012; Resolução RDC Anvisa nº 50, de 2002.
+
+Assunto: Contribuição Social sobre o Lucro Líquido - CSLL
+
+LUCRO PRESUMIDO. SERVIÇOS HOSPITALARES. PERCENTUAL DE PRESUNÇÃO.
+
+Para fins de aplicação do percentual de presunção de 12% (doze por cento), a ser aplicado sobre a receita bruta auferida no período de apuração pela pessoa jurídica, com vistas à determinação da base de cálculo da contribuição, consideram-se serviços hospitalares aqueles que se vinculam às atividades desenvolvidas pelos hospitais, voltados diretamente à promoção da saúde, prestados pelos estabelecimentos assistenciais de saúde que desenvolvem as atividades previstas nas atribuições 1 a 4 da RDC Anvisa nº 50, de 2002. Desse conceito estão excluídas as simples consultas médicas, que não se identificam com as atividades prestadas no âmbito hospitalar, mas nos consultórios médicos.
+
+Para fazer jus ao percentual de presunção referido, a prestadora dos serviços hospitalares deve, ainda, estar organizada, de fato e de direito, como sociedade empresária e atender às normas da Anvisa. Caso contrário, a receita bruta advinda da prestação dos serviços, ainda que caracterizados como hospitalares, estará sujeita ao percentual de presunção de 32% (trinta e dois por cento).
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 36, DE 19 de abril de 2016.
+
+Dispositivos Legais: Lei nº 9.249, de 1995, art. 15, caput e §§ 1º, III, "a" e 2º, e art. 20; IN RFB nº 1.234, de 2012, art. 30 (com redação dada pela IN RFB nº 1.540, de 2015); Nota Explicativa PGFN/CRJ nº 1.114, de 2012, Anexo, item 52.
+
+RESULTADO PRESUMIDO. SERVIÇOS DE SAÚDE. PERCENTUAL DE PRESUNÇÃO REDUZIDO. REQUISITOS.
+
+A partir de 1º de janeiro de 2009, para efeito de determinação da base de cálculo da CSLL devida pela pessoa jurídica tributada com base no resultado presumido, aplica-se o percentual de 12% (doze por cento) sobre a receita bruta decorrente da prestação de serviços hospitalares e da prestação dos serviços de auxílio diagnóstico e terapia listados na "Atribuição 4: Prestação de Atendimento ao Apoio ao Diagnóstico e Terapia" da Resolução RDC Anvisa nº 50, de 21 de fevereiro de 2002, desde que a prestadora dos serviços seja organizada sob a forma de sociedade empresária (de direito e de fato) e atenda às normas da Agência Nacional de Vigilância Sanitária (Anvisa).
+
+SOLUÇÃO DE CONSULTA VINCULADA À SOLUÇÃO DE CONSULTA COSIT Nº 114, DE 26 de março de 2019.
+
+Dispositivos Legais: Lei nº 9.249, de 1995, art. 15, § 1º, III, "a", § 2º, e art. 20, caput; Lei nº 9.430, de 1996, art. 29, I; Lei nº 10.406, de 2002 (Código Civil), art. 966 e 982; Lei nº 11.727, de 2008, arts. 29 e 41, VI; Instrução Normativa RFB nº 1.234, de 2012, arts. 30, 31 e 38, II; Instrução Normativa RFB nº 1.396, de 2013, art. 9º; Instrução Normativa RFB nº 1.700, de 2017, art. 33, § 1º, II, "a", §§ 3º e 4º, art. 34, § 2º, art. 215, §§ 1º e 2º; Solução de Divergência Cosit nº 11, de 28 de agosto de 2012; Resolução RDC Anvisa nº 50, de 2002.
+
+FABIO CEMBRANEL
+
+Coordenador

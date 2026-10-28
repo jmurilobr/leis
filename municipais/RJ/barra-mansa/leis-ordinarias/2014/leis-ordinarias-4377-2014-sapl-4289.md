@@ -1,0 +1,189 @@
+---
+titulo: "Lei Ordinária nº 4.377, de 05 de dezembro de 2014"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "4377"
+data: "2014-12-05"
+municipio: "Barra Mansa"
+uf: "RJ"
+codigo_ibge: "3300407"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.barramansa.rj.leg.br/norma/4289"
+fonte_texto: "https://sapl.barramansa.rj.leg.br/ta/1179/text"
+sha256_fonte: "afb8c46f6ab7340dd7d80035cc76d9b52e119b86511974d4e8a7f6610466d8f3"
+sha256_texto: "ca3aa83ae61b65451b251b53d958203179d6e9a3f945bbf0630ba3bd05457bc8"
+capturado_em_fonte: "2026-10-27T17:49:29.744232-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 4.377, de 05 de dezembro de 2014
+
+FAÇO SABER QUE A CAMARA MUNICIPAL MANTEVE E EU PROMULGO A SEGUINTE:
+
+
+LEI Nº4377, DE 05 DE DEZEMBRO DE 2014.
+
+
+"Dispõe sobre a assistência técnica pública e gratuita para o projeto e o acompanhamento técnico da construção, reforma e regularização da habitação de baixa renda do município".
+
+
+Art. 1º.
+
+Fica assegurado o direito das famílias de baixa renda à assistência técnica pública e gratuita para o projeto e para a construção de habitação de interesse social, como parte integrante do direito social à moradia previsto pelo art. 6°, da Constituição Federal, e consoante o especificado pelo art. 4°, inciso V, alínea "r", da Lei nº10.257, de 10 de julho de 2001, que "regulamenta os arts. 182 e 183, da Constituição Federal e estabelecem diretrizes gerais da política urbana e dá outras providências" e o disposto na Lei Federal 11.888 de 24 de dezembro de 2008.
+
+
+Art. 2º.
+
+As famílias com renda mensal de até 03 (três) salários mínimos, residentes em áreas urbanas ou rurais, têm o direito à assistência técnica pública e gratuita para o projeto e o acompanhamento técnico da construção de habitação de interesse social para sua própria moradia.
+
+
+§ 1º
+
+O direito à assistência técnica previsto no caput abrange todos os trabalhos de elaboração de projetos, e acompanhamento técnico da execução da obra a cargo dos profissionais das áreas de arquitetura e urbanismo, e engenharia, necessários para a edificação, reforma ampliação, regularização da habitação.
+
+
+§ 2º
+
+Além de assegurar o direito à moradia, a assistência técnica de que trata este artigo objetiva:
+
+
+I –
+
+Otimizar e qualificar o uso e o aproveitamento racional do espaço edificado e de seu entorno, bem como dos recursos humanos, técnicos econômicos empregados no projeto e na construção da habitação;
+
+
+II –
+
+Formalizar o processo de edificação reforma ampliação ou regularização da habitação junto ao Poder Público Municipal e outros órgãos públicos.
+
+
+III –
+
+Evitar a ocupação de áreas de nsco e de interesse ambiental;
+
+
+IV –
+
+Propiciar e qualificar a ocupação do sítio urbano em consonância com a legislação urbanística e ambiental.
+
+
+Art. 3º.
+
+A garantia do direito previsto no art. 2° deve ser efetivada mediante o oferecimento pelo Poder Público Municipal, de serviços permanentes e gratuitos de assistência nas áreas técnicas citadas no § 1° do referido artigo.
+
+
+§ 1º
+
+A assistência técnica pode ser oferecida diretamente às famílias ou a cooperativas, sindicatos ou associações de moradores ou outros grupos organizados que as representam.
+
+
+§ 2º
+
+Os serviços de assistência técnica devem priorizar as iniciativas a serem implantadas.
+
+
+I –
+
+Sob-regime de mutirão.
+
+
+II –
+
+Em zonas habitacionais declaradas por lei como de interesse social.
+
+
+§ 3º
+
+A ação do Poder Público Municipal para o atendimento do disposto no caput deve ser planejada e implementada de forma coordenada e sistêmica, com as políticas habitacionais da União e do Estado, a fim de evitar sobreposições e otimizar resultados.
+
+
+§ 4º
+
+O Poder Público Municipal através do Conselho Municipal de Habitação de Interesse Social - CMHIS definirá os critérios de atendimento às famílias e seu acompanhamento.
+
+
+Art. 4º.
+
+Os serviços de assistência técnica previstos por esta Lei devem ser prestados por profissionais das áreas citadas no Art. 2°, §1º que atuem como:
+
+
+I –
+
+Servidores públicos municipais e servidores públicos estaduais cedidos ao Município.
+
+
+II –
+
+Integrantes de equipes de organizações não governamentais sem fins lucrativos.
+
+
+III –
+
+Profissionais inscritos em programas de residência acadêmica em arquitetura e urbanismo, engenharia ou em programas de extensão universitária, por meio de escritórios-modelos ou escritórios públicos com atuação na área, objeto de convenio ou termo de parceria com Município.
+
+
+IV –
+
+Profissionais autônomos ou integrantes de equipes de pessoas jurídicas, previamente credenciadas pelo Município.
+
+
+§ 1º
+
+Na seleção e contratação dos profissionais, na forma do inciso IV, do caput, deve ser facultada a participação das entidades profissionais de arquitetos e engenheiros, mediante convênio ou termo de parceria com o ente público responsável.
+
+
+§ 2º
+
+Em qualquer das modalidades de atuação previstas no caput, deve ser assegurada a devida Anotação de Responsabilidade Técnica - ART, no Conselho Regional de Engenharia, Arquitetura e Agronomia do Estado do Acre - CREAAC.
+
+
+Art. 5º.
+
+Com o objetivo de capacitar os profissionais e a comunidade usuária para a prestação dos serviços de assistência técnica previstos por esta Lei, podem ser firmados convênios ou termos de parceria entre o ente público responsável e as entidades promotoras de programas de capacitação profissional, residência ou extensão universitária nas áreas de arquitetura e urbanismo ou engenharia.
+
+
+Parágrafo único
+
+Os convênios ou termos de parceria prevista no caput devem prever a busca de inovação tecnológica, a formulação de metodologia de caráter participativo e a democratização do conhecimento.
+
+
+Art. 6º.
+
+Os recursos da assistência técnica previstos por esta Lei devem ser custeados por recursos de fundos federais direcionados à habitação de interesse social, por recursos públicos orçamentários ou por recursos privados.
+
+
+Parágrafo único
+
+Os recursos de que trata o caput serão destinados ao Fundo Municipal de Habitação de Interesse Social - FMHIS.
+
+
+Art. 7º.
+
+O Poder Público Municipal poderá realizar convênio com o Conselho Regional de Engenharia, Arquitetura e Agronomia do Estado do Acre - CREA-AC, para assegurar a taxa mínima da Anotação da Responsabilidade Técnica - ART, às famílias com renda mensal de até 03 (três) salários mínimos.
+
+
+Art. 8º.
+
+O Conselho Municipal de Habitação de Interesse Social normatizará parâmetros mínimos para assistência técnica aos projetos de construção, reforma e regularização da habitação.
+
+
+Art. 9º.
+
+Fica instituído o Programa Municipal de Assistência Técnica à Habitação de Interesse Social, junto à Secretaria Municipal de Desenvolvimento e Gestão Urbana, com dotação orçamentária e financeira para o exercício de 2009 e cujos objetivos e finalidades, metas e ações, serão definidos por Ato do Poder Executivo, ouvido o Conselho Municipal de Habitação de Interesse Social CMHIS.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+CÂMARA MUNICIPAL DE BARRA MANSA, 05 DE DEZEMBRO DE 2014.
+
+
+MARCELO BORGES DA SILVA
+
+PRESIDENTE
+

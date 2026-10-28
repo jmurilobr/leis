@@ -1,0 +1,185 @@
+---
+titulo: "Lei nº 1.882, de 13 de março de 2023"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1882"
+data: "2023-03-13"
+municipio: "Cunha"
+uf: "SP"
+codigo_ibge: "3513603"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cunha.sp.leg.br/norma/1370"
+fonte_texto: "https://sapl.cunha.sp.leg.br/ta/39/text"
+sha256_fonte: "df7b534be3b6bbb9b82b0e60db288973bf5b13a7ecffd9752be6494d534212d0"
+sha256_texto: "4bf4d1c00d878f4b1781b9f135fd21606587a32436f27e4336a10da0565c9ec2"
+capturado_em_fonte: "2026-10-28T09:40:24.811073-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei nº 1.882, de 13 de março de 2023
+
+Institui o Programa de Parcelamento Incentivado – PPI, estabelecendo a redução de juros e multas moratórios provenientes de acréscimos legais, incidentes sobre débitos tributários e não tributários existentes para com a Fazenda Pública Municipal.
+
+
+José Éder Galdino da Costa, Prefeito Municipal da Estância Climática de Cunha, no uso de suas atribuições legais, que lhe são conferidas por Lei, faz saber que a Câmara Municipal aprovou e ele sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Pela presente Lei, fica estabelecido o Programa de Parcelamento Incentivado – PPI, estabelecendo normas para o pagamento com a concessão de desconto de multas e juros moratórios provenientes de acréscimos legais, incidentes sobre débitos tributários e não tributários inscritos em Dívida Ativa até 31 de dezembro de 2022, ajuizados ou não ajuizados, existentes para com a Fazenda Pública Municipal, com exceção de débitos tributários referentes ao ISSQN e ITBI que ficam excluídos do presente programa.
+
+
+Art. 2º.
+
+A adesão ao Programa será efetuada por solicitação do sujeito passivo junto ao Setor de Tributação, no paço municipal, ou através de requerimento devidamente instruído que deverá ser encaminhado para o endereço eletrônico administracao@cunha.sp.gov.br.
+
+
+§ 1º
+
+A adesão ao programa dar-se-á por opção do contribuinte podendo ser formalizada em até cento e oitenta (180) dias após a publicação desta Lei, prorrogável a critério da Administração Municipal, mediante Decreto específico.
+
+
+§ 2º
+
+Os débitos tributários e não tributários incluídos no PPI serão consolidados tendo por base a data da formalização do pedido de adesão para fatos geradores ocorridos até 31 de dezembro de 2022.
+
+
+§ 3º
+
+Fica vedada a adesão ao programa ao contribuinte que estiver em mora com os tributos cujo fato gerador tenha ocorrido do exercício fiscal de 2023.
+
+
+§ 4º
+
+A inadimplência de qualquer obrigação tributária relativa a fatos gerados ocorridos após a adesão do contribuinte ao presente Programa de Parcelamento Incentivado provocará a rescisão automática e unilateral do acordo de parcelamento realizado com base nesta Lei.
+
+
+Art. 3º.
+
+Fica o Poder Executivo autorizado a conceder desconto de multas e juros moratórios provenientes de acréscimos legais no pagamento de débitos tributários e não tributários, excetuado o ISSQN, para com a Fazenda Pública Municipal, vencidos até 31 de dezembro de 2022, inscritos em Dívida Ativa, ajuizados ou não.
+
+
+§ 1º
+
+Para os fins desta Lei, o Poder Executivo deverá adotar os seguintes critérios de parcelamento:
+
+
+I –
+
+Para pagamento em parcela única será excluído 100% da multa e juros moratórios do valor consolidado do débito atualizado;
+
+
+II –
+
+Para pagamento em até 06 (seis) parcelas será excluído 75% da multa e juros moratórios do valor consolidado do débito atualizado;
+
+
+III –
+
+Para pagamento em até 12 (doze) parcelas será excluído 50% da multa e juros moratórios do valor consolidado do débito atualizado;
+
+
+IV –
+
+Para pagamento em até 24 (vinte e quatro) parcelas será excluído 30% da multa e juros moratórios do valor consolidado do débito atualizado;
+
+
+§ 2º
+
+Para efeito do disposto nesta Lei entende-se por consolidação da dívida, o valor resultante da atualização do respectivo débito originário, mais os encargos e acréscimos legais vencidos até a data da apuração.
+
+
+§ 3º
+
+Para efeito de parcelamento, o valor mínimo da parcela não poderá ser inferior à R$ 75,00 (setenta e cinco reais).
+
+
+§ 4º
+
+O pagamento da primeira parcela deverá ser efetuada em até 05 (cinco) dias da data da formalização do termo de acordo.
+
+
+§ 5º
+
+O não pagamento da primeira parcela até a data do seu vencimento implicará na rescisão automática do acordo firmado entre a Fazenda Pública Municipal e o Contribuinte.
+
+
+§ 6º
+
+O atraso no pagamento de quaisquer das parcelas acordadas fará incidir sobre elas os acréscimos legais previstos na legislação municipal.
+
+
+§ 7º
+
+Após o pagamento da primeira parcela,caso ocorra a inadimplência de 02 (duas) parcelas consecutivas ou 03 (três) parcelas alternadas, relativamente às prestações do parcelamento, o acordo ficará automaticamente rescindido, com a inscrição do crédito remanescente em dívida ativa, caso não esteja inscrito, restabelecendo-se os valores e as condições anteriores do acordo, compensando-se os pagamentos efetuados até a data da rescisão.
+
+
+§ 8º
+
+A adesão ao programa importará, ainda, nos casos em que estiver em trâmite a execução judicial do crédito, no desconto da totalidade dos honorários advocatícios, independentemente da quantidade de parcelas ajustadas no termo de acordo.
+
+
+§ 9º
+
+Na hipótese de débitos ajuizados, o valor gasto pela Fazenda Pública Municipal para recolhimento do valor das custas judiciais deverá ser ressarcido integralmente pelo Contribuinte, ficando a formalização do acordo previsto nesta Lei condicionado ao prévio e integral pagamento destes valores.
+
+
+Art. 4º.
+
+O disposto nesta Lei poderá ser aplicado ao parcelamento em andamento após a apuração do saldo devedor, mediante pedido expresso e reconhecimento da dívida.
+
+
+Parágrafo único
+
+Será permita, por uma única vez, a repactuação do parcelamento ajustado com supedâneo na presente Lei.
+
+
+Art. 5º.
+
+A adesão ao termo de acordo com o pagamento dos débitos nas condições previstas nesta Lei implica na confissão, irretratável e irrevogável do débito existente de responsabilidade do Contribuinte para com a Fazenda Pública Municipal, importando a expressa renúncia a qualquer defesa ou recurso administrativo ou judicial, bem como na desistência daqueles já interpostos.
+
+
+Art. 6º.
+
+Para a hipótese de acordo referente a débitos ajuizados, a Procuradoria Municipal deverá requerer o sobrestamento do feito pelo número de meses decorrentes das parcelas ajustadas.
+
+
+§ 1º
+
+Após integralmente quitado o acordo, deverá a Procuradoria Municipal informar nos autos o cumprimento do ajuste celebrado, solicitando a extinção do feito.
+
+
+§ 2º
+
+Caso haja o descumprimento dos termos celebrados pelo Contribuinte, a Procuradoria Municipal deverá informar eventual valor adimplido que será abatido do total devido, dando-se prosseguimento à ação.
+
+
+Art. 7º.
+
+A Procuradoria Municipal, mensalmente, realizará o prosseguimento e a baixa das execuções fiscais pertinentes aos acordos descumpridos e aos concluídos nos termos desta Lei
+
+
+Art. 8º.
+
+O parcelamento de débitos nos termos previstos nesta Lei não implica novação.
+
+
+Art. 9º.
+
+Esta Lei poderá ser regulamentada, no que couber, por Decreto do Poder Executivo.
+
+
+Art. 10.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+*PM de Cunha em 09 de MARÇO de 2023.*
+
+***José Éder Galdino da Costa***
+
+***PREFEITO MUNICIPAL***
+

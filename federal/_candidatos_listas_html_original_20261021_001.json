@@ -1,0 +1,141 @@
+{
+  "escopo": "Quatro candidatos privados para impedir renumeração sem emendar números literais. Não altera canônicos nem seleções já entregues; revisão ROOT ainda necessária.",
+  "registros": [
+    {
+      "path": "federal/decretos/1947/dec-23438-1947-07-29.md",
+      "urn": "urn:lex:br:federal:decreto:1947-07-29;23438",
+      "lote": 15,
+      "candidato": "federal/_candidatos_listas_html_original_20261021_001/dec-23438-1947-07-29.md",
+      "sha256_candidato": "a9e69b7b3ba11b858376a95d5a671e4392cd9ef7f29cddfc79b3630bd892da36",
+      "preimagem_canonica_sha256": "812badcbdd74a5b9f2c26ea21bd8a7a07d1df9bb0250ef058f4a5c9c73a3d577",
+      "preimagem_privada": "federal/decretos/1947/dec-23438-1947-07-29.md",
+      "sha256_preimagem_privada": "812badcbdd74a5b9f2c26ea21bd8a7a07d1df9bb0250ef058f4a5c9c73a3d577",
+      "sha256_fonte_html": "b07e71d72b02b6de6006dfb7dbe7b8b1c858804639cc4e6b51c7b363091859be",
+      "fonte_html_cache": "federal/_fonte/decretos/1947/dec-23438-1947-07-29.html.gz",
+      "mudanca": "Preserva na íntegra o elemento body da fonte HTML oficial, removendo somente parágrafos administrativos previamente comprovados. Nenhuma lista ol/ul é convertida em parágrafo: mantém literalmente os elementos, atributos, tabelas e marcadores que a própria fonte usa. Evita a renumeração introduzida pela interpretação CommonMark do MD convertido.",
+      "estrutura_fonte": {
+        "ol": 0,
+        "ul": 0,
+        "li": 0,
+        "paragrafos": 114,
+        "tabelas": 0
+      },
+      "marcadores_administrativos_excluidos": [
+        {
+          "inicio": 5740,
+          "fim": 5913,
+          "paragrafo_html": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-023438-0-000-29-07-1947@@@</span></p>",
+          "marcador": "###DEC-023438-0-000-29-07-1947@@@",
+          "prefixo_literal_preservado": "",
+          "sufixo_literal_preservado": "",
+          "numero": "23438",
+          "data": "1947-07-29",
+          "sha256_paragrafo_html": "142008046d5bfafb69224b7fca0600f3d21981ce2302c63e9484a6b1bf143625"
+        }
+      ],
+      "estado": "candidato_privado_pendente_revisao_ROOT_sem_promocao"
+    },
+    {
+      "path": "federal/decretos/1946/dec-21815-1946-09-04.md",
+      "urn": "urn:lex:br:federal:decreto:1946-09-04;21815",
+      "lote": 16,
+      "candidato": "federal/_candidatos_listas_html_original_20261021_001/dec-21815-1946-09-04.md",
+      "sha256_candidato": "b47ab7b56cabd1947db7712e0e4b382e3a8cdced3a2138cc02bc4a968aa1ff3c",
+      "preimagem_canonica_sha256": "eea28c830c3d1c116282e50c5c0c2a87ad415308e9dc42144d85dca76d6bf766",
+      "preimagem_privada": "federal/decretos/1946/dec-21815-1946-09-04.md",
+      "sha256_preimagem_privada": "eea28c830c3d1c116282e50c5c0c2a87ad415308e9dc42144d85dca76d6bf766",
+      "sha256_fonte_html": "b5ebb140ef0b7fe6d7e40e3cb4d58bc7dca87ddf9aaf7219fc47bf918dbcce26",
+      "fonte_html_cache": "federal/_fonte/decretos/1946/dec-21815-1946-09-04.html.gz",
+      "mudanca": "Preserva na íntegra o elemento body da fonte HTML oficial, removendo somente parágrafos administrativos previamente comprovados. Nenhuma lista ol/ul é convertida em parágrafo: mantém literalmente os elementos, atributos, tabelas e marcadores que a própria fonte usa. Evita a renumeração introduzida pela interpretação CommonMark do MD convertido.",
+      "estrutura_fonte": {
+        "ol": 0,
+        "ul": 0,
+        "li": 0,
+        "paragrafos": 280,
+        "tabelas": 0
+      },
+      "marcadores_administrativos_excluidos": [
+        {
+          "inicio": 5784,
+          "fim": 5957,
+          "paragrafo_html": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-021815-0-000-04-09-1946@@@</span></p>",
+          "marcador": "###DEC-021815-0-000-04-09-1946@@@",
+          "prefixo_literal_preservado": "",
+          "sufixo_literal_preservado": "",
+          "numero": "21815",
+          "data": "1946-09-04",
+          "sha256_paragrafo_html": "c672ae570df03ece399ee8ea1f951bced45d9754e17000ab1186539d8efc6968"
+        }
+      ],
+      "estado": "candidato_privado_pendente_revisao_ROOT_sem_promocao"
+    },
+    {
+      "path": "federal/decretos/1946/dec-21598-1946-08-10.md",
+      "urn": "urn:lex:br:federal:decreto:1946-08-10;21598",
+      "lote": 16,
+      "candidato": "federal/_candidatos_listas_html_original_20261021_001/dec-21598-1946-08-10.md",
+      "sha256_candidato": "ded39d8e4e52e43bad657919126199754029504592433fd59f5559a9215b8f55",
+      "preimagem_canonica_sha256": "3467f785d7c654736fc3966a72c8d326764b652b03c5e0e92b5033e22afad4e0",
+      "preimagem_privada": "federal/decretos/1946/dec-21598-1946-08-10.md",
+      "sha256_preimagem_privada": "3467f785d7c654736fc3966a72c8d326764b652b03c5e0e92b5033e22afad4e0",
+      "sha256_fonte_html": "5748237177ae36301bf72005da8950f451aabea764de9113b20cb2c8f74ff8ed",
+      "fonte_html_cache": "federal/_fonte/decretos/1946/dec-21598-1946-08-10.html.gz",
+      "mudanca": "Preserva na íntegra o elemento body da fonte HTML oficial, removendo somente parágrafos administrativos previamente comprovados. Nenhuma lista ol/ul é convertida em parágrafo: mantém literalmente os elementos, atributos, tabelas e marcadores que a própria fonte usa. Evita a renumeração introduzida pela interpretação CommonMark do MD convertido.",
+      "estrutura_fonte": {
+        "ol": 0,
+        "ul": 0,
+        "li": 0,
+        "paragrafos": 62,
+        "tabelas": 0
+      },
+      "marcadores_administrativos_excluidos": [
+        {
+          "inicio": 5759,
+          "fim": 5932,
+          "paragrafo_html": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-021598-0-000-10-08-1946@@@</span></p>",
+          "marcador": "###DEC-021598-0-000-10-08-1946@@@",
+          "prefixo_literal_preservado": "",
+          "sufixo_literal_preservado": "",
+          "numero": "21598",
+          "data": "1946-08-10",
+          "sha256_paragrafo_html": "ad11462b8a7f529a5486950af9f71e482acd8fd93386d8b00158bf5b5e8f1535"
+        }
+      ],
+      "estado": "candidato_privado_pendente_revisao_ROOT_sem_promocao"
+    },
+    {
+      "path": "federal/decretos/1945/dec-19602-1945-09-13.md",
+      "urn": "urn:lex:br:federal:decreto:1945-09-13;19602",
+      "lote": 17,
+      "candidato": "federal/_candidatos_listas_html_original_20261021_001/dec-19602-1945-09-13.md",
+      "sha256_candidato": "e05446192cd29f955df4dacbd064b47c4701e593e5b710118cb4daa6ff238d88",
+      "preimagem_canonica_sha256": "6d2d2389f0a5a6b08582c0cfacb07fe467d7cf427c602c1d089a363145cf8eb9",
+      "preimagem_privada": "federal/decretos/1945/dec-19602-1945-09-13.md",
+      "sha256_preimagem_privada": "6d2d2389f0a5a6b08582c0cfacb07fe467d7cf427c602c1d089a363145cf8eb9",
+      "sha256_fonte_html": "866c875713c9b855f88af541719e4b98bfc5c63b8c4ed3dfd23573215946e287",
+      "fonte_html_cache": "federal/_fonte/decretos/1945/dec-19602-1945-09-13.html.gz",
+      "mudanca": "Preserva na íntegra o elemento body da fonte HTML oficial, removendo somente parágrafos administrativos previamente comprovados. Nenhuma lista ol/ul é convertida em parágrafo: mantém literalmente os elementos, atributos, tabelas e marcadores que a própria fonte usa. Evita a renumeração introduzida pela interpretação CommonMark do MD convertido.",
+      "estrutura_fonte": {
+        "ol": 0,
+        "ul": 0,
+        "li": 0,
+        "paragrafos": 803,
+        "tabelas": 0
+      },
+      "marcadores_administrativos_excluidos": [
+        {
+          "inicio": 6046,
+          "fim": 6219,
+          "paragrafo_html": "<p class=\"Header\" style=\"margin-bottom:12pt; text-indent:0pt; text-align:left; line-height:normal\"><span style=\"font-size:1.2em\">###DEC-019602-0-000-13-09-1945@@@</span></p>",
+          "marcador": "###DEC-019602-0-000-13-09-1945@@@",
+          "prefixo_literal_preservado": "",
+          "sufixo_literal_preservado": "",
+          "numero": "19602",
+          "data": "1945-09-13",
+          "sha256_paragrafo_html": "474c66c37095f5e32ace2a24daed843c822b191bc7b0df30aa5f3e20ffffd468"
+        }
+      ],
+      "estado": "candidato_privado_pendente_revisao_ROOT_sem_promocao"
+    }
+  ]
+}

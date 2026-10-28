@@ -1,0 +1,199 @@
+---
+titulo: "Lei Ordinária nº 2.447, de 14 de dezembro de 2011"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2447"
+data: "2011-12-14"
+municipio: "Dores do Indaiá"
+uf: "MG"
+codigo_ibge: "3123205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.doresdoindaia.mg.leg.br/norma/716"
+fonte_texto: "https://sapl.doresdoindaia.mg.leg.br/ta/689/text"
+sha256_fonte: "0bf704a071e257571f1e0ed2246742c47e6867c5ef3140c279346dc50a6adfb3"
+sha256_texto: "4e456a596ff5c26ef25e17afb95d37444cc7a959467d4d3716881b0bfde54cb7"
+capturado_em_fonte: "2026-10-28T10:19:24.857124-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.447, de 14 de dezembro de 2011
+
+**TEXTO ORIGINAL EM PDF**
+
+**Clique para Imprimir Texto Compilado**
+
+
+“ABRE CRÉDITO ADICIONAL SUPLEMENTAR PARA COBERTURA DE DESPESAS DOS PROGRAMAS E AÇÕES QUE ESPECÍFICA.”
+
+
+O povo do. Município de Dores do Indaiá, Estado de Minas Gerais, por seus representantes APROVA, e eu, Prefeito Municipal, SANCIONO, a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Município de Dores do Indaiá autorizado a abrir Crédito Adicional Suplementar no valor de R$ 700.000,00 (setecentos mil reais), destinados à cobertura de despesas com as seguintes classificações orçamentárias:
+
+02.01.01.04.122.0002.2003 - 3.1.90.11.00 R$24.300,00
+
+02.02.01.02.061.0003.0004 - 3.1.90.91.00 R$1.416,61
+
+02.04.01.04.122.0002.2093 - 3.1.90.11.00 R$3.097,20
+
+02.05.01.04.122.0021.2005 - 3.1.90.11.00 R$1.491,25
+
+02.06.01.10.122.0010.2051 - 3.1.90.11.00 R$11.84765
+
+02.06.01.10.272.0010.0008 - 3.1.90.13.00 R$7.807,29
+
+02.06.01.10.272.0010.0008 - 3.1.91.1 300 R$5.460,96
+
+02.0601.10.301.0009.2049 - 3.1.90.04.00 R$12.249,02
+
+02.06.01.10.301.0009.2049 - 3.1.90.11.00 R$33.404,43
+
+02.06.01.10.301.0009.2050 - 3.1.90.0400 R$3.880,40
+
+02.06.01.10.301.0009.2050 - 3.1.90.11.00 R$5.810,39
+
+02.06.01.10.301.0009.2052 - 3.1.90.04.00 R$7.010,49
+
+02.06.01.10.301.0009.2052 - 3.1.90.11.00 R$17.332,79
+
+02.06.01.10.301.0009.2053 - 3.1.90.11.00 R$9.576,58
+
+02.06.01.10.302.0011.2157 - 3.1.90.04.00 R$1.645,10
+
+02.06.01.10.302.0011.2157 - 3.1.90.11.00 R$5.465,27
+
+02.06.01.10.303.0577.2163 - 3.1.90.11.00 R$2481,60
+
+02.06.01.10.305.0012.2149 - 3.1.90.04.00 R$5.321,16
+
+02.06.01.10.305.0012.2149 - 3.1.90.11.00 R$5.408,66
+
+02.07.04.20.122.0002.2072 - 3.1.90.11.00 R$2.900,00
+
+02.07.04.20.122.0002.2168 - 3.1.90.11.00 R$3.718,28
+
+02.08.02.15.452.0008.2064 - 3.1.90.04.00 R$8.413,89
+
+02.08.02.15.452.0008.2064 - 3.1.90.11.00 R$18.683,72
+
+02.08.02.15.452.0008.2065 - 3.1.90.04.00 R$17.233,64
+
+02.08.03.15.452.0008.2068 - 3.1.90.04.00 R$582,06
+
+02.08.03.15.452.0008.2068 - 3.1.90.11.00 R$2.193,72
+
+02.08.05.26.782.0008.2060 - 3.1.90.04.00 R$4.290,98
+
+02.08.05.26.782.0008.2060 - 3.1.90.11.00 R$8.304,77
+
+02.09.01.08.122.0002.2020 - 3.1.90.04.00 R$679,25
+
+02.09.01.08.122.0002.2020 - 3.1.90.11.00 R$3.70,18
+
+02.10.01.04.122.0002.2008 - 3.1.90.04.00 R$1.746,18
+
+02.10.01.04.122.0002.2008 - 3.1.90.04.00 R$26.297,62
+
+02.10.01.04.122.0002.2016 - 3.1.90.04.00 R$4.368,54
+
+02.10.02.09.272.0000.0002 - 3.1.90.13.00 R$24.883,38
+
+02.10.02.09.272.0000.0002 - 3.1.91.13.00 R$19.061,27
+
+02.10.02.09.272.0002.2098 - 3.1.90.11.00 R$1.225,42
+
+02.10.04.04.122.0002.2099 - 3.1.90.04.00 R$713,21
+
+02.10.07.04.121.0002.2102 - 3.1.90.11.00 R$3.953,38
+
+02.10.07.04.121.0002.2102 - 3.1.90.11.00 R$3.953,38
+
+02.10.08.04.123.0002.2018 - 3.1.90.36.00 R$272,50
+
+02.10.09.04.122.0000.2097 - 3.1.90.11.00 R$742,84
+
+02.10.11.04.122.0002.2096 - 3.1.90.11.00 R$1.059,46
+
+02.10.12.04.124.0002.2095 - 3.1.90.11.00 R$1.059,46
+
+02.11.01.12.122.0002.2026 - 3.1.90.11.00 R$ 6.256,84
+
+02.11.02.18.541.0014.2047 - 3.1.90.11.00 R$ 2.573,19
+
+02.11.03.13.392.0016.2042 - 3.1.90.11.00 R$ 3.768,24
+
+02.11.04.12.365.0005.2176 - 3.1.90.04.00 R$6.125,72
+
+02.11.04.12.365.0005.2176 - 3.1.90.11.00 R$17.644,17
+
+02.11.04.12.365.0005.2182 - 3.1.90.04.00 R$1.179,18
+
+02.11.06.27.812.0002.2043 - 3.1.90.04.00 R$1.090,00
+
+02.11.06.27.812.0002.2043 - 3.1.90.11.00 R$4.273,56
+
+02.11.07.12.361.0005.2031 - 3.1.90.04.00 R$20.535,17
+
+02.11.07.12.361.0005.2031 - 3.1.90.11.00 R$142.056,93
+
+02:11.07.12.361.0005.2031 - 3.1.90.13.00 R$5.773,52
+
+02.11.07.12.361.0005.2031 - 3.1.91.13.00 R$30.778,42
+
+02.11.07.12.361.0005.2032 - 3.1.90.04.00 R$4.143,24
+
+02.11.07.12.361.0005.2032 - 3.1.90.11.00 R$43.913,47
+
+02.11.07.12.361.0005.2032 - 3.1.90.13.00 R$842,10
+
+02.11.07.12.361.0005.2032 - 3.1.91.13.00 R$10.105,48
+
+02.11.07.12.361.0019.2037 - 3.1.90.11.00 R$1.083,44
+
+02.11 07.12.362.0189.2041 - 3.1.90.04.00 R$15.353,59
+
+02.11.07.12.362.0189.2041 - 3.1.90.11.00 R$6.702,84
+
+02.11.07.12.366.0020.2031 - 3.1.90.04.00 R$913,14
+
+02.11.07.12.366.0020.2031 - 3.1.90.11.00 R$14.880,33
+
+02.11.10.23.695.0015.2057 - 3.1.90.11.00 R$1.059,46
+
+02.12.01.08.243.0017.2080 - 3.1.90.04.00 R$545,00
+
+02.12.01.08.243.0017.2080 - 3.1.90.11.00 R$8.033,94
+
+
+Art. 2º.
+
+Os créditos a que se refereo artigo anterior serão cobertos com recursos livres do município, no valor de R$ 700.000,00 (setecentos mil reais), decorrentes de parte ou totalidade do excesso de arrecadação do exercício de 2011.
+
+
+Art. 3º.
+
+Os créditos abertos por força desta Lei, bem como as dotações a eles correspondentes poderão ser remanejados em sua integralidade, não estando os mesmos limitados pelos percentuais de suplementação previstos na LOA vigente.
+
+
+Art. 4º.
+
+Fica convalidado no Plano Plurianual e na Lei de Diretrizes Orçamentárias a presente alteração orçamentária.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Dores do Indaiá, 14 de dezembro de 2011
+
+JOAQUIM FERREIRA DA CRUZ
+
+Prefeito Municipal
+

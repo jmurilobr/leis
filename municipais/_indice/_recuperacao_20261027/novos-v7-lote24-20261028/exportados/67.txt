@@ -1,0 +1,85 @@
+---
+titulo: "Lei Ordinária nº 2.461, de 11 de maio de 2012"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "2461"
+data: "2012-05-11"
+municipio: "Dores do Indaiá"
+uf: "MG"
+codigo_ibge: "3123205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 28/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores literais e notas preservados; tachados explícitos preservados com marcação, sem inferência jurídica; HTML integral mantido; sem certificação de vigência integral"
+fonte: "https://sapl.doresdoindaia.mg.leg.br/norma/731"
+fonte_texto: "https://sapl.doresdoindaia.mg.leg.br/ta/702/text"
+sha256_fonte: "9de906312a0937c1e705dacc3b43e851a2bd599c755db9a02bd336230a0bc699"
+sha256_texto: "e695011e2e8029dbd4e60c4025497bc21be8726178fd3e552069bcd5c5a7a335"
+capturado_em_fonte: "2026-10-28T10:18:57.050199-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-28"
+revogada: null
+---
+
+# Lei Ordinária nº 2.461, de 11 de maio de 2012
+
+**TEXTO ORIGINAL EM PDF**
+
+**Clique para imprimir Texto Compilado**
+
+
+“AUTORIZA AUMENTO DO PERCENTUAL DE SUPLEMENTAÇÃO DE QUE TRATA A LEI MUNICIPAL Nº 2.449, DE 30 DE DEZEMBRO DE 2011.”
+
+
+O Prefeito do Município:
+
+Faço saber que a Câmara Municipal de Dores do Indaiá, APROVA, e eu, Prefeito Municipal, SANCIONO, a seguinte Lei:
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a abrir crédito suplementar de mais 12,20% (doze vírgula vinte por cento) do valor total do orçamento do Município para O exercício de 2012, destinados à cobertura de despesas com as seguintes classificações orçamentárias:
+
+<table><colgroup><col><col><col></colgroup><tbody><tr><td>DOTAÇÃO </td><td>ANULAR </td><td>SUPLEMENTAR </td></tr><tr><td>02.01.01.04:122.0002.2003.31901100 </td><td>R$100,00</td><td> </td></tr><tr><td>02.01.01.04.122.0002.2003.31901100 </td><td>R$1.584,07</td><td> </td></tr><tr><td>02.02.01,04.122.0003.2006.31901100 </td><td>R$30.345,66</td><td> </td></tr><tr><td>02.04.01.04.122.0002.2093.31901100 </td><td> </td><td>R$1.263,70 </td></tr><tr><td>02.05.01.04.122.0002.2220.31901100 </td><td> </td><td>R$16.134,41</td></tr><tr><td>02.06.01.10.122.0010.2051.31901100 </td><td> </td><td>R$34.629,30 </td></tr><tr><td>02.06.01.10.271.0010.2195.31901300 </td><td>R$ 15.201,11 </td><td> </td></tr><tr><td>02.06.01.10:271.0010.2195.31911300 </td><td>R$ 12.899,91 </td><td> </td></tr><tr><td>02.06.01.10.301.0009.2049.31900400 </td><td> </td><td>R$ 101.330,39 </td></tr><tr><td>02.06.01,10.301.0009.2049.31901100 </td><td>R$ 153.342,93 </td><td> </td></tr><tr><td>02.06.01.10.301:0009.2050.31900400 </td><td> </td><td>R$ 36.281,12 </td></tr><tr><td>02.06.01.10:301.0009.2050.31901100 </td><td>R$ 25.725,05</td><td> </td></tr><tr><td>02.06.01.10:304.0009.2050.31900400 </td><td>R$ 88.224,07 </td><td> </td></tr><tr><td>02.06.01.10.301.0009.2052.31901100 </td><td> </td><td>R$ 124.440,66 </td></tr><tr><td>02.06.01.10.301.0009.2053.31901100 </td><td>R$ 16.390,47 </td><td> </td></tr><tr><td>02.06.01.10.302.0011.2157.31900400 </td><td> </td><td>R$ 8.817,04 </td></tr><tr><td>02.06.01.10.302.0011.2157.31901100 </td><td> </td><td>R$41,24 </td></tr><tr><td>02.06.01.10.303.0577.2163.31901100 </td><td> </td><td>R$ 49.260,80 </td></tr><tr><td>02.06.01.10.305.0012.2149.31900400 </td><td> </td><td>R$ 11.942,58 </td></tr><tr><td>02.06.01.10.305.0012.2149.31901100 </td><td>R$ 6.260,51 </td><td> </td></tr><tr><td>02.07.04.20.122.0002.2072.31901100 </td><td>R$ 2.300,00 </td><td> </td></tr><tr><td>02.07.04.20.122.0002.2168.31901100 </td><td>R$ 13.405,73 </td><td> </td></tr><tr><td>02:08.02.15.452.0008.2064.31900400 </td><td>R$ 46.981,21 </td><td> </td></tr><tr><td>02.08.02.15.452.0008.2064.31901100 </td><td>R$ 39.459,24 </td><td> </td></tr><tr><td>02.08.02. 15.452.0008.2065.21900400 </td><td> </td><td>R$ 89.466,80 </td></tr><tr><td>02.08.02.15.452.0008.2065.31901100 </td><td> </td><td>R$ 12.814,89 </td></tr><tr><td>02.08.03.15.452.0008.2068.31900400 </td><td> </td><td>R$ 6.464,00 </td></tr><tr><td>02.08.03. 15.452.0008.2068.21901100 </td><td>R$ 20.121,24 </td><td> </td></tr><tr><td>02.08.04 .15.122:0002.2059.31901100 </td><td>R$0,00</td><td> </td></tr><tr><td>02.08.05.26.782.0008.2060.31900400 </td><td> </td><td>R$ 12.298,05 </td></tr><tr><td>02.08.05.26.782.0008.2060.31901100 </td><td>R$ 13.015,57 </td><td> </td></tr><tr><td>02.09:01.08.122.0002.2020.31900400 </td><td> </td><td>R$ 7.151,00 </td></tr><tr><td>02.09.01.08.122.0002.2020.31901100 </td><td> </td><td>R$ 23.382,40 </td></tr><tr><td>02.10.01.04.122.0002.2008.31900400 </td><td> </td><td>R$ 1.439,42 </td></tr><tr><td>02.10.01.04.122.0002.2008.31901100 </td><td>R$ 49.718,66 </td><td> </td></tr><tr><td>02.10.01.04.122.0002.2016.31900400 </td><td> </td><td> </td></tr><tr><td>02.10.01.04.122.0002.2016.31901100 </td><td>R$ 10.235,37 </td><td> </td></tr><tr><td>02.10.01.09.272.0000.2189.31901300 </td><td> </td><td>R$ 81.989,95 </td></tr><tr><td>02.10.01.09.272.0000.2189.31911300 </td><td>R$ 331.007,38 </td><td> </td></tr><tr><td>02.10.03.04.122.0002.2098.31901100 </td><td>R$ 2.069,54 </td><td> </td></tr><tr><td>02.10.04.04.122.0002.2099.31900400 </td><td> </td><td> </td></tr><tr><td>02.10.04.04.122.0002.2099.31901100 </td><td>R$ 80,62 </td><td> </td></tr><tr><td>02.10.05.04.122.0002.2100.31900400 </td><td> </td><td> </td></tr><tr><td>02.10.06.04.122.0002.2100-31901100 </td><td> </td><td>R$ 10.654,06 </td></tr><tr><td>02.10.06.04.129.0002.2101.31901100 </td><td> </td><td>R$5.454,78 </td></tr><tr><td>02.10.07.04.121.0002.2102.21900400 </td><td> </td><td> </td></tr><tr><td>02.10.07.04.121.0002.2102.31901100 </td><td>R$ 3.606,06 </td><td> </td></tr><tr><td>02.10.08.04.123.0002.2018.31901100 </td><td>R$ 13.714,01 </td><td> </td></tr><tr><td>02.10.09.04.122.0000.2097.31901100 </td><td> </td><td>R$ 2.656,92 </td></tr><tr><td>02.10.11.04,122.0002.2096.31901100 </td><td> </td><td>R$ 4.126,13 </td></tr><tr><td>02.10.12.04.124.0002.2095.31901100 </td><td> </td><td>R$ 1.272,98 </td></tr><tr><td>02.11.06.27.812.0002.2043.31900400 </td><td>R$ 1.620,67 </td><td> </td></tr><tr><td>02.11.06.27.812.0002.2043.31901100 </td><td>R$ 38.647,26 </td><td> </td></tr><tr><td>02.11.07.12.122.0002.2026.31901100 </td><td> </td><td>R$ 2.960,14 </td></tr><tr><td>02.11.07.12:362.0189.2041.31900400 </td><td> </td><td>R$ 116.711,68 </td></tr><tr><td>02.11.07.12:362.0189.2041.31901100 </td><td> </td><td>R$ 73.016,02 </td></tr><tr><td>02.11.07.12.365.0005.2028.31900400 </td><td>R$ 42.390,71 </td><td> </td></tr><tr><td>02.11.07.12.365.0005.2028.31901100 </td><td>R$ 55.334,49 </td><td> </td></tr><tr><td>02.11.07.12.365.0005.2028.31901300 </td><td>R$ 13.005,03 </td><td> </td></tr><tr><td>02.11.10.23.695.0015.2057.31901100 </td><td>R$ 1.224,02 </td><td> </td></tr><tr><td>02.11.11.12.361.0005.2031.31900400 </td><td> </td><td>R$ 73.662,96 </td></tr><tr><td>02.11.11.12.361.0005.2031.31901100 </td><td> </td><td>R$ 469.811,17 </td></tr><tr><td>02.11.11.12.361.0005.2031.31901300 </td><td> </td><td>R$ 21.379,12 </td></tr><tr><td>02.11.11.12.361.0005.2031.31911300 </td><td> </td><td>R$ 73.014,84 </td></tr><tr><td>02.114.11.12.361.0005.2032.31900400 </td><td>R$ 18.290,10 </td><td> </td></tr><tr><td>02.11.11.12.361.0005.2032-31901100 </td><td> </td><td>R$506.768,63 </td></tr><tr><td>02.11.11.12.361.0005.2032-31901300 </td><td> </td><td>R$ 1.976,22 </td></tr><tr><td>02.11.11.12.361.0005.2032-31911300 </td><td> </td><td>R$ 115.322,03 </td></tr><tr><td>02.11.11.12.3614.0019.2038.31911300 </td><td>R$ 74.998,67 </td><td> </td></tr><tr><td>02.11.11.12.365.0005.2176-31900400 </td><td>R$ 1.144,61 </td><td> </td></tr><tr><td>02.11.11.12.365.0005.2176-31901100 </td><td>R$ 26.305,45 </td><td> </td></tr><tr><td>02.11.11.12.365.0005.2176-31901300 </td><td> </td><td>R$ 836,77. </td></tr><tr><td>02.11.11.12.365.0005.2176-31911300 </td><td>R$ 5.235,56 </td><td> </td></tr><tr><td>02.11.12.12.392.0016.2213-31901100</td><td> </td><td>R$ 19.310,13 </td></tr><tr><td>02.11.13.18.541.0014.2212-31901100 </td><td> </td><td>R$ 19.227,95 </td></tr><tr><td>02.12.01.08.243.0017.2080-31900400 </td><td>R$ 8.914,00 </td><td> </td></tr><tr><td>02:12.01.08.243.0017.2080-31901100 </td><td>R$ 19.036,03 </td><td> </td></tr><tr><td>02.08.02.15.452.0008.1029-44905200 </td><td>R$ 180.000,00 </td><td> </td></tr><tr><td>02.08.05.26.782.0007.1261-44905100 </td><td>R$ 400.000,00 </td><td> </td></tr><tr><td>02.01:01.04.122.0002.2003-33903600 </td><td> </td><td>R$ 77.200,00 </td></tr><tr><td>02.05.01.04.122.0002.2220-33903900 </td><td> </td><td>R$ 61.920,00 </td></tr><tr><td>02.06.01.10.302.00141.2208-33714100 </td><td> </td><td>R$ 65.000,00 </td></tr><tr><td>02.08.02.15.452.0008.2064-33903900 </td><td> </td><td>R$ 156.800,00</td></tr><tr><td>02.09.01.08.122.0576.1063-44905100 </td><td> </td><td>R$ 103.337,45 </td></tr><tr><td>02.10.01.04..122.0002:2008-33903900 </td><td> </td><td>R$ 202.921,80</td></tr><tr><td>02.10.08.28.843.0000.2188.32902100</td><td> </td><td>R$156.996,82</td></tr><tr><td>02.10.08.28.843.0000.1246.46917700</td><td> </td><td>R$118.516,65</td></tr><tr><td>02.10.01.09.272.0000.2189.333904700</td><td> </td><td>R$200.000,00</td></tr><tr><td>02.08.05.26.782.0008.1032.44905200</td><td>R$180.000,00</td><td> </td></tr><tr><td>02.08.05.26.782.0579.1188.44905200</td><td>R$40.000,00</td><td> </td></tr><tr><td>02.06.01.10.301.0583.1009.44905100</td><td>R$180.000,00</td><td> </td></tr><tr><td>02.06.01.10.301.0583.1023-4495200</td><td>R$ 40.000,00 </td><td> </td></tr><tr><td>02.06.01.10.301.0583.1023-4495200</td><td>R$ 90.000,00 </td><td> </td></tr><tr><td>02.06.01.10.301.0583.1023-4495200</td><td>R$ 90.000,00 </td><td> </td></tr><tr><td>02.08.04.15452.0007.1013-444905100</td><td>R$78.004,99</td><td> </td></tr><tr><td>02.08.04.15.452.0007.1014-44905100</td><td>R$800.000,00</td><td> </td></tr><tr><td> </td><td><p>R$3.280.000,00</p></td><td><br><p>R$3.280.000,00</p></td></tr></tbody></table>
+
+
+Art. 2º.
+
+Como recurso à abertura do crédito suplementar autorizado no art. 1º, utilizar-se-á:
+
+
+I –
+
+O superávit financeiro apurado em balanço patrimonial do exercício anterior:
+
+
+II –
+
+os provenientes de excesso de arrecadação;
+
+
+III –
+
+os resultantes de anulação parcial ou total de dotações orçamentárias ou de créditos adicionais, autorizados em lei; e
+
+
+IV –
+
+o produto de operações de crédito autorizadas, em forma que juridicamente possibilite ao Poder Executivo realizá-las;
+
+
+V –
+
+Reserva de Contingência.
+
+
+Art. 3º.
+
+Esta Lei entra em vigor na data de sua publicação, produzindo  
+seus efeitos a partir de 01/02/2012.
+
+
+Prefeitura Municipal de Dores do Indaiá, 11 de maio de 2012.
+
+Joaquim Ferreira da Cruz
+
+Prefeito Municipal
+

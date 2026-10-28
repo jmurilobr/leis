@@ -1,0 +1,447 @@
+---
+titulo: "Lei Ordinária Municipal nº 1.654, de 02 de junho de 2017"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "1654"
+data: "2017-06-02"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/248"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/369/text"
+sha256_fonte: "de5ef8b1ce49dc3566e6c70619467b9a44c142c58212c011fbcf84c481670bea"
+sha256_texto: "8dfbfc032dc0d7400a55e5057ccc2f7b7c39247212819896e8c13d748e3b1395"
+capturado_em_fonte: "2026-10-27T22:34:04.636945-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 1.654, de 02 de junho de 2017
+
+Disciplinar a criação e identificar a população de animais, tratar e castrar animais abandonados, atribuir a propriedade de cães e gatos da cidade.
+
+
+A CÂMARA DE VEREADORES DO MUNICÍPIO DE CALIFÓRNIA, ESTADO DO PARANÁ, APROVOU E EU, PREFEITO, SANCIONO A SEGUINTE: LEI:
+
+
+Art. 1º.
+
+É livre a criação, propriedade, posse, guarda uso e transporte de cães e gatos de qualquer raça ou sem raça definida no município de Califórnia, desde que obedecida as legislações municipal, estadual e federal vigente.
+
+
+#### CAPÍTULO I — DO REGISTRO DE ANIMAIS DE PROPRIEDADE PARTICULAR
+
+
+Art. 2º.
+
+Todos os cães e gatos, existentes no município de Califórnia deverão, obrigatoriamente, ser registrados eletronicamente.
+
+
+§ 1º
+
+Essa identificação eletrônica animal será efetuada com a inserção subcutânea de um microchip, em localização biocompatível, especificamente para uso animal.
+
+
+§ 2º
+
+A identificação será realizada por Organização Não Governamental cadastrada junto ao Município.
+
+
+§ 3º
+
+A Entidade Não Governamental para ser cadastrada junto ao Município deverá contar obrigatoriamente em Sua Diretoria com um Médico Veterinário.
+
+
+§ 4º
+
+Fica criada a Coordenadoria de Proteção Animal (CPA), vinculada à Secretaria de agricultura e Meio Ambiente, que terá o poder de fiscalização do cumprimento desta Lei.
+
+
+§ 5º
+
+A Coordenadoria de Proteção Animal (CPA) será presidida pelo Secretário do Meio Ambiente e Contará com a Participação de mais dois Conselheiros, um indicado pelo poder executivo e ainda um indicado pela Câmara dos Vereadores, de forma democrática.
+
+
+§ 6º
+
+A não indicação ou Vacância de Cargo de composição da Coordenadoria de Proteção Animal (CPA) não prejudica seu funcionamento que poderá ocorrer desde que tenha pelo menos, um membro em atividade.
+
+
+Art. 3º.
+
+A Entidade Não Governamental subvencionada, estará obrigada:
+
+
+a)
+
+Fiscalizar o cumprimento dos dispositivos do Decreto Federal nº 24.645/1934, com o objetivo de denunciar aos órgãos públicos possíveis maus tratos ocorridos contra os animais;
+
+
+b)
+
+Fiscalizar o cumprimento do Decreto 3.688/1941, artigo 64, com o objetivo de denunciar aos órgãos públicos todas as situações em que animais encontram-se submetidos a trabalhos excessivos;
+
+
+c)
+
+Fiscalizar o cumprimento de todas as demais leis, decretos, portarias, regulamentos federais, estaduais e municipais existentes e que venham existir e que tratem sobre a proteção de animais;
+
+
+d)
+
+Dar Assistência veterinária a animais abandonados, doentes, feridos ou vítimas de crueldade, abuso ou maus tratos, em suas instalações clínicas, e ou na falta destas, em clínicas veterinárias conveniadas,
+
+
+e)
+
+Realizar a “chipagem”, a identificação, castração e atribuição de propriedade dos animais abandonados ou extraviados para que o proprietário seja devidamente responsabilizado por possíveis descumprimentos das legislações pátrias que tratam da defesa dos animais;
+
+
+f)
+
+Promover campanhas em conjunto com os entes públicos, informando a população sobre a importância da “chipagem” dos animais domésticos;
+
+
+g)
+
+Realizar a “chipagem” dos animais domésticos do município, sem qualquer custo para a população de baixa renda, e para os demais cidadãos a custo reduzido (30% da tabela Anclivepa-PR), captando dos proprietários ainda o custo dos aparelhos(chip), medicamentos e demais utensílios que venham a ser utilizados;
+
+
+h)
+
+Os animais cuja propriedade seja desconhecida, depois de tratados, serão “chipados” e encaminhados para adoção, independentemente de ressarcimento financeiro, às pessoas de idoneidade comprovada que se comprometam a dar-lhes tratamento adequado e digno, mediante a assinatura de um termo de responsabilidade e sujeito à fiscalização e aplicação de multa por parte desta Entidade;
+
+
+i)
+
+Promover campanhas de educação e conscientização, propagando filosofia de respeito aos animais;
+
+
+j)
+
+Atuar junto aos poderes públicos visando o aperfeiçoamento e cumprimento efetivo da legislação e demais instrumentos de proteção aos animais;
+
+
+Art. 4º.
+
+Os proprietários dos animais adultos, residentes em Califórnia, deverão, obrigatoriamente, providenciar o registro destes no prazo máximo de cento e oitenta dias a partir da data de publicação desta Lei.
+
+
+§ 1º
+
+Após o nascimento, os animais deverão ser registrados até o sexto mês de idade.
+
+
+§ 2º
+
+Estarão isentos da taxa de registro eletrônico os proprietários de animais:
+
+
+I –
+
+castrados, comprovado através de declaração do médico veterinário;
+
+
+II –
+
+comprovadamente de baixa renda; e
+
+
+III –
+
+que comprovarem ter adotado o animal de entidade de proteção animal.
+
+
+Art. 5º.
+
+Os documentos e dados de identificação, para o registro de animais das espécies canina e felina, serão fornecidos exclusivamente pelo órgão não governamental subvencionado.
+
+
+Parágrafo único
+
+Constará, a documentação, de um formulário timbrado para registro em três vias, no qual se fará constar, imprescindivelmente dos seguintes campos:
+
+
+I –
+
+número do R.G.A.;
+
+
+II –
+
+data do registro;
+
+
+III –
+
+nome do animal, porte, sexo, raça e cor;
+
+
+IV –
+
+idade real ou presumida; e
+
+
+V –
+
+nome completo do proprietário, número do R.G. e C.P.F., endereço completo e telefone de contato.
+
+
+Art. 6º.
+
+O artefato eletrônico denominado microchip, deverá:
+
+
+I –
+
+ser confeccionado em material esterilizado;
+
+
+II –
+
+conter prazo de validade indicado;
+
+
+III –
+
+ser encapsulado e com dimensões que garantam a biocompatibilidade;
+
+
+IV –
+
+ser decodificado por dispositivo de leitura que permita a visualização dos códigos de informação.
+
+
+Art. 7º.
+
+A inserção do microchip será feita por profissional credenciado pelo Conselho Federal de Medicina Veterinária ou órgão que o suceda, definindo a melhor localização subcutânea.
+
+
+Art. 8º.
+
+Após o prazo estipulado de seis meses de idade do animal, os proprietários que não o registraram estarão sujeitos a:
+
+
+I –
+
+intimação, emitida pela Coordenadoria de Proteção Animal (CPA), para que proceda o registro de todos os animais no prazo de trinta dias; e
+
+
+II –
+
+vencido o prazo, multa de ½ UFM (meia unidade fiscal municipal) por animal não registrado.
+
+
+#### CAPÍTULO II — DO REGISTRO DE ANIMAIS POR CRIADORES COM FINALIDADE COMERCIAL
+
+
+Art. 9º.
+
+Todo estabelecimento do munícipio que cria cães e gatos, com finalidade comercial, para venda ou aluguel de animais, caracteriza-se proprietário de criadouro.
+
+
+Art. 10.
+
+Fica obrigado todo o criador, independente do total de animais existentes, a registrar seu canil ou gatil na Secretaria Municipal do Meio Ambiente e solicitar a respectiva licença, além de submeter seu comércio a todas as outras exigências impostas por normas municipal, estadual e federal.
+
+
+Parágrafo único
+
+A Coordenadoria de Proteção Animal (CPA) informará ao proprietário de canil ou gatil comercial todas as exigências que deverão ser cumpridas, visando a obtenção da licença de que trata o caput deste artigo, que deverá ser renovada anualmente.
+
+
+Art. 11.
+
+No ato da venda, o animal deverá ser registrado eletronicamente junto à Organização não Governamental Subvencionada, quando deverão ser apresentados todos os dados de que trata o § 1º do art. 4º, desta Lei juntamente com o comprovante de todas as vacinas exigidas.
+
+
+Art. 12.
+
+Os animais que não forem vendidos poderão ser colocados para a adoção, desde que previamente esterilizados, vacinados, vermifugados, tratados clinicamente e com registro eletrônico.
+
+
+Art. 13.
+
+Constatado, pela Coordenadoria de Proteção Animal (CPA), o descumprimento do disposto no parágrafo único do art. 10º desta Lei estará sujeito o proprietário:
+
+
+I –
+
+a intimação para que providencie a licença ou respectiva renovação no prazo de trinta dias;
+
+
+II –
+
+findado este prazo, acarretará:
+
+
+a)
+
+multa no valor de um salário mínimo em vigência, caso ainda não exista licença;
+
+
+b)
+
+multa de cinquenta por cento do valor do salário mínimo em vigência, caso a licença continue vencida.
+
+
+III –
+
+a cada reincidência, acréscimo de cinquenta por cento do valor do salário mínimo em vigência à multa anterior.
+
+
+Art. 14.
+
+Todo o canil ou gatil comercial localizado no município de Califórnia, deverá possuir veterinário responsável pelos animais sob pena de multa.
+
+
+Parágrafo único
+
+Não possuindo, será aplicada multa de um salário mínimo, valor em vigência, dobrado na reincidência, além da cassação do alvará de licença do estabelecimento comercial.
+
+
+#### CAPÍTULO III — DO REGISTRO DE ANIMAIS POR ESTABELECIMENTOS COMERCIAIS
+
+
+Art. 15.
+
+Os proprietários de estabelecimentos comerciais que praticam a venda de animais de estimação, localizados no município de Califórnia, ficam obrigados a identificar eletronicamente todos os animais comercializados, além de manter registro atualizado junto ao Coordenadoria de Proteção Animal (CPA),
+
+
+§ 1º
+
+Os animais só poderão ser expostos e comercializados se estiverem eletronicamente identificados;
+
+
+§ 2º
+
+O registro deve conter:
+
+
+I –
+
+número do R.G.A.;
+
+
+II –
+
+data do registro;
+
+
+III –
+
+nome do animal, espécie, porte, sexo, raça e cor, bem como sinais ou peculiares, se existirem, de cada animal; e
+
+
+IV –
+
+idade real ou presumida.
+
+
+Art. 16.
+
+No momento da venda do animal, deve ser incluído no registro eletrônico os dados do comprador, onde fará constar o nome completo, número do R.G. e C.P.F., endereço completo e telefone de contato.
+
+
+Parágrafo único
+
+O comprador deve ter, no mínimo, dezoito anos de idade completos.
+
+
+Art. 17.
+
+O descumprimento do disposto do art. 15 ao art. 17 desta Lei acarretará as seguintes sanções:
+
+
+I –
+
+advertência;
+
+
+II –
+
+multa de dez salários mínimos; e
+
+
+III –
+
+cassação do alvará de licença de estabelecimento, em caso de nova infração.
+
+
+#### CAPÍTULO IV — DISPOSIÇÕES FINAIS
+
+
+Art. 18.
+
+A Prefeitura Municipal de Califórnia estabelecerá o preço público para a identificação e registro de animais, baseado no preço de custo do material utilizado.
+
+
+Art. 19.
+
+Quando houver transferência de propriedade do animal, o novo proprietário deverá comparecer atualizar os dados cadastrais;
+
+
+Parágrafo único
+
+Enquanto não for realizada a atualização do registro eletrônico, o proprietário anterior do animal ou seu detentor permanecerá como responsável único pelo animal.
+
+
+Art. 20.
+
+Ficam terminantemente proibido o extermínio e o abandono dos animais descritos nesta Lei.
+
+
+Art. 21.
+
+Proprietários de animais eletronicamente identificados em situação de abandono e/ou maus tratos estarão sujeitos as seguintes penalidades:
+
+
+I –
+
+multa de metade de um até dez salários mínimos, conforme sua condição econômica;
+
+
+II –
+
+a reincidência acarretará em duplicação da multa, retirada do animal, independente das penalidades previstas na legislação em vigor.
+
+
+Art. 22.
+
+Os valores recolhidos em função das multas previstas por esta Lei serão revertidos ao órgão Não Governamental responsável e Subvencionado para custeio das ações.
+
+
+Art. 23.
+
+A Coordenadoria de Proteção Animal (CPA) em conjunto com A Entidade Não Governamental Subvencionada, deverá dar a devida publicidade a esta Lei assim como prover a operacionalidade desta.
+
+
+Art. 24.
+
+As despesas decorrentes da execução desta Lei correrão por conta de dotações orçamentárias próprias, suplementadas se necessário.
+
+
+Art. 25.
+
+Todo proprietário ou responsável pela guarda de um animal é obrigado a permitir o acesso do agente do CPA, quando no exercício de suas funções, às dependências do alojamento do animal, sempre que necessário, bem como acatar as determinações da Coordenadoria de Proteção Animal (CPA).
+
+
+Parágrafo único
+
+O desrespeito ou desacato ao agente CPA, ou ainda, a obstaculização ao exercício de suas funções, sujeitam o infrator a multa de um salário mínimo, dobrada na reincidência.
+
+
+Art. 26.
+
+Esta Lei entra em vigor na data da sua publicação.
+
+
+Paço Municipal, aos 02 dias do mês junho de 2017.
+
+***PAULO WILSON MENDES***
+
+Prefeito
+

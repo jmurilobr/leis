@@ -1,0 +1,185 @@
+---
+titulo: "Lei nº 1.126, de 23 de dezembro de 2008"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "1126"
+data: "2008-12-23"
+municipio: "Buritis"
+uf: "MG"
+codigo_ibge: "3109303"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.buritis.mg.leg.br/norma/532"
+fonte_texto: "https://sapl.buritis.mg.leg.br/ta/913/text"
+sha256_fonte: "d22fd507c5d1269ca6fa7074b4bfedd9f1951c4af534b53624c8665b764dcce3"
+sha256_texto: "68b1c0ab3b084d10596094538d2453d29d6cfd282203a35b5b45785caa14f720"
+capturado_em_fonte: "2026-10-27T20:10:10.384180-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei nº 1.126, de 23 de dezembro de 2008
+
+Cria o Conselho Municipal Antidrogas e dá outras providências
+
+
+A Câmara Municipal de Buritis, por seus representantes, aprova e Eu, Prefeito Municipal, sanciono a seguinte Lei:
+
+
+Art. 1º.
+
+Fica criado o Conselho Municipal Antidrogas -COMAD como órgão de orientação normativa e de coordenação geral das atividades relacionadas com o combate ao tráfico, o uso de entorpecentes e substância psicoativas, lícita, e ilícitas que determinem dependência física ou psíquica, bem como das atividades de recuperação de dependentes, no município de Buritis.
+
+
+Art. 2º.
+
+Ao Conselho Municipal Antidrogas, doravante denominado, COMAD, compete:
+
+
+I –
+
+formular, juntamente com a Secretaria Municipal de Saúde, a política municipal Antidrogas, harmonizando-a com o sistema nacional e estadual de prevenção, tratamento, recuperação de dependentes, fiscalização e repressão ao uso de substancias psicoativas, lícitas e ilícitas;
+
+
+II –
+
+coordenar as ações dos setores relacionados à prevenção, tratamento, fiscalização e repreensão ao uso e abuso de substâncias psicoativas, lícitas e ilícitas, que atuam no município, sempre em consonância com as ações e determinações do Conselho Estadual e Conselho Nacional Antidrogas;
+
+
+III –
+
+propor procedimentos da administração pública nas áreas de prevenção, tratamento e fiscalizações do uso e abuso de substâncias psicoativas, lícitas, ilícitas e fazer o acompanhamento das atividades do sistema de repreensão voltadas para o controle destas substâncias;
+
+
+IV –
+
+estimular pesquisas, promover palestras e eventos visando o combate e a repreensão ao tráfico, bem como a prevenção e o tratamento do uso e abuso de substância física ou psíquica;
+
+
+V –
+
+incentivar e promover, em nível municipal, a inclusão de ensinamentos referentes à substância psicoativas em curso de formação de professores, bem como dos temas referentes às drogas em disciplinas curriculares, considerados em sua transversalidade, nos ensino fundamental e médio;
+
+
+VI –
+
+requerer e analisar informações e estatísticas disponíveis sobre ocorrências de encaminhamento de usuários e de traficantes aos diversos órgãos e as soluções dadas aquelas;
+
+
+VII –
+
+apoiar e encaminhar os trabalhos de Vigilância Sanitária em nível municipal, referente à produção, venda, compra, manutenção em estoque, consumo e fornecimento de substâncias entorpecentes ou que determinem dependência física ou psíquica ou especializadas farmacêuticas que a contenham, incluindo o controle e fiscalização de talonários de prescrição médica dessas substâncias;
+
+
+VIII –
+
+apresentar propostas para criação de leis municipais que atendam as carências detectadas por estudos específicos.
+
+
+Parágrafo único
+
+Para cumprimento no disposto no inciso I deste artigo, o COMAD e a Secretaria Municipal de Saúde, apresentarão anualmente um Plano Municipal de Prevenção, Tratamento, Fiscalização e Repreensão ao uso e abuso de substâncias Psicoativas, lícitas e ilícitas a ser divulgado na comunidade.
+
+
+Art. 3º.
+
+O COMAD será composto pelos seguintes membros:
+
+
+I –
+
+02(dois) representantes da Secretaria Municipal de Saúde, sendo um da área médica e outro da área de saúde mental;
+
+
+II –
+
+01 (um) representante da Secretaria Municipal de Educação;
+
+
+III –
+
+01 (um) representante da Segurança Pública;
+
+
+IV –
+
+01 (um) representante do Serviço Social do fórum;
+
+
+V –
+
+01 (um) representante da Polícia Militar local;
+
+
+VI –
+
+01 (um) representante do Conselho Tutelar dos Direitos da Criança e do Adolescente;
+
+
+VII –
+
+01(um) advogado indicado pela regional na Ordem dos Advogados do Brasil-OAB no município;
+
+
+VIII –
+
+02(dois) Representantes indicados pelas unidades que prestam apoio e assistência aos usuários ou dependentes de drogas e seus familiares;
+
+
+IX –
+
+01(um) representante escolhido entre os clubes de serviço do município;
+
+
+X –
+
+01 (um) representante da área de esportes, lazer e cultura;
+
+
+XI –
+
+1(um) profissional médico indicado pela classe;
+
+
+XII –
+
+01(um) profissional farmacêutico indicado pela classe;
+
+
+§ 1º
+
+Os membros do Conselho serão indicados pelos grupos que representarão e serão designados pelo Prefeito Municipal para um mandato de 02 (dois) anos, podendo ser reconduzido por mais 01(um) mandato.
+
+
+§ 2º
+
+O mandato de membro do COMAD é exercido gratuitamente, sendo considerado de relevante interesse social.
+
+
+§ 3º
+
+Os membros do Conselho terão suplentes que os substituirão em seus impedimentos.
+
+
+§ 4º
+
+O conselho será presidido por um de seus membros, eleito pelos Conselheiros e se regerá por regimento próprio que será aprovado por seus membros.
+
+
+Art. 4º.
+
+O suporte técnico e administrativo ao funcionamento do Conselho Municipal Antidrogas é da Secretaria municipal de Saúde, inclusive no tocante as instalações, equipamentos e recursos humanos.
+
+
+Art. 5º.
+
+Esta lei entra em vigor na data de sua publicação, revogando a Lei Municipal n° 852 de 23.05.2001.
+
+
+Buritis, 23 de Dezembro de 2008.
+
+**Dr. Keny Soares Rodrigues Drefeito Municipal**
+
+**Proposição de Lei 035/2008. Referente ao Projeto de Lei 041/2008**
+

@@ -1,0 +1,23 @@
+---
+titulo: "PORTARIA Nº 20, de 7 de junho de 2018"
+orgao: "Presidência da República/Advocacia-Geral da União/Consultoria-Geral da União"
+tipo: "Portaria"
+numero: "20"
+data: 2018-06-07
+revogada: null
+versao_texto: "publicação original"
+publicacao: "DOU de 08/06/2018, seção 1, p. 5"
+data_publicacao: 2018-06-08
+edicao: "109"
+fonte: "https://www.in.gov.br/web/dou/-/portaria-n-20-de-7-de-junho-de-2018-21029137"
+sha256_html_fonte: 96275e5c24fea1d8248e268d9c491ddc0d5bd76973563d36a15c82be2e125f6e
+baixado_em: 2026-10-27
+representacao_corpo: "html-nativo-texto-dou-v1"
+---
+# PORTARIA Nº 20, de 7 de junho de 2018
+
+<div class="texto-dou"><p class="identifica">PORTARIA Nº 20, de 7 de junho de 2018</p><p class="ementa">Dispõe sobre a colaboração prestada pela Consultoria Jurídica junto ao Ministério da Justiça à Consultoria Jurídica junto ao Ministério Extraordinário da Segurança Pública.</p><p class="dou-paragraph" ><strong class="dou-strong" >O CONSULTOR-GERAL DA UNIÃO</strong>, no uso das atribuições que lhe confere o inciso I do art. 39 do Anexo I do Decreto nº 7.392, de 13 de dezembro de 2010, e tendo em vista o disposto no art. 9º da Medida Provisória nº 821, de 26 de fevereiro de 2018, e nos arts. 13 e 14 do Decreto n° 9.360, de 7 de maio de 2018, bem assim no processo administrativo nº 00688.000169/2018-15, resolve:</p><p class="dou-paragraph" >Art. 1º Esta Portaria dispõe sobre colaboração prestada pela Consultoria Jurídica junto ao Ministério da Justiça (Conjur-MJ) à Consultoria Jurídica junto ao Ministério Extraordinário da Segurança Pública (Conjur-MESP).</p><p class="dou-paragraph" >Art. 2º Compete à Conjur-MESP:</p><p class="dou-paragraph" >I - assessorar diretamente ao Ministro de Estado e demais autoridades do Ministério;</p><p class="dou-paragraph" >II - atuar, em conjunto com os órgãos técnicos do Ministério, na elaboração de propostas de atos normativos que serão submetidas ao Ministro de Estado;</p><p class="dou-paragraph" >III - rever a técnica legislativa e emitir parecer conclusivo sobre a constitucionalidade, a legalidade e a compatibilidade com o ordenamento jurídico das propostas de atos normativos;</p><p class="dou-paragraph" >IV - elaborar pareceres em resposta a consultas de áreas técnicas em matérias finalísticas do Ministério; e</p><p class="dou-paragraph" >V - analisar processos considerados relevantes ou prioritários pelo Ministro de Estado Extraordinário da Segurança Pública.</p><p class="dou-paragraph" >Parágrafo único. Nas atividades de que trata o<strong class="dou-strong" >caput,</strong>os processos administrativos serão encaminhados diretamente à Conjur-MESP e tramitados via protocolo no Sistema AGU de Inteligência Jurídica (SAPIENS), para distribuição e manifestação jurídica, sem fluxo Conjur-MJ, nos termos do § 1º do art. 13 do Decreto n° 9.360, de 2018.</p><p class="dou-paragraph" >Art. 3º Compete à Conjur-MJ elaborar manifestações jurídicas nas matérias de licitação, contratos, convênios, matéria de pessoal, processo administrativo disciplinar e contencioso judicial, ressalvada o disposto no inciso V do art. 2º.</p><p class="dou-paragraph" >§ 1º Os processos administrativos do Ministério Extraordinário da Segurança Pública (Mesp) que versarem sobre as matérias previstas no<strong class="dou-strong" >caput</strong>serão tramitados via protocolo no SAPIENS para a Conjur-MJ.</p><p class="dou-paragraph" >§ 2º As manifestações jurídicas de que trata o<strong class="dou-strong" >caput</strong>serão aprovadas pelos respectivos Coordenadores ou Coordenadores-Gerais e tramitados ao protocolo da Conjur-Mesp para manifestação conclusiva do Consultor Jurídico.</p><p class="dou-paragraph" >§ 3º Após a manifestação conclusiva a que se refere o § 2º , a Conjur-Mesp realizará os encaminhamentos necessários e o adequado encerramento do fluxo consultivo, sem restituição à Conjur-MJ.</p><p class="dou-paragraph" >Art. 4º Os contatos, os pedidos de urgência e as reuniões solicitados pelo Mesp serão realizados exclusiva e diretamente entre os respectivos Consultores Jurídicos, ou por seus substitutos legais, nos casos de impedimentos.</p><p class="dou-paragraph" >Art. 5º A Conjur-MJ registrará em setor específico no SAPIENS os tramites processuais, bem como as manifestações jurídicas produzidas em colaboração com a Conjur-Mesp.</p><p class="dou-paragraph" >Art. 6º Esta Portaria entra em vigor na data de sua publicação.</p><p class="assina">MARCELO AUGUSTO CARMODE VASCONCELLOS</p></div>
+&#32;&#32;&#32;&#32;&#32;&#32;&#32;&#32;
+
+
+&#32;&#32;&#32;&#32;&#32;&#32;

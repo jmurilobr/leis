@@ -1,0 +1,1985 @@
+{
+  "resumo": {
+    "retidos": 17,
+    "projetos_proprios": 14,
+    "desenhos_proprios": 1,
+    "duvida_orcamentos": 1,
+    "duvida_clausula_aberta": 1
+  },
+  "registros": [
+    {
+      "path": "federal/decretos/1932/dec-21510-1932-06-11.md",
+      "urn": "urn:lex:br:federal:decreto:1932-06-11;21510",
+      "estado": "objeto_tecnico_proprio_a_conferir",
+      "motivo": "Projeto ou orçamento próprio expressamente acompanhando/baixando com o ato; descrição, total ou tabela resumida não bastam para representar o projeto documental. Retenção contextual privada, sem afirmar inexistência em outra fonte.",
+      "sha256_MD_preliminar": "8d8f59f4157034132304e1e25dbbebe2e19d49c158614a3ea093876845e6766c",
+      "sha256_HTML": "6ed417683f3cefab05b822152d8b45e327ab759c2a8e57fc1e766aad0963accb",
+      "sha256_API": "7e38c3832dd8062eb69fc4cc449d51fa3f9175fa322efce559ef9587cde62132",
+      "fontes": {
+        "path": "federal/decretos/1932/dec-21510-1932-06-11.md",
+        "urn": "urn:lex:br:federal:decreto:1932-06-11;21510",
+        "indice": {
+          "id": "441114",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "21510",
+          "norma": "DEC-21510-1932-06-11",
+          "normaNome": "Decreto nº 21.510 de 11/06/1932",
+          "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTÂNCIA TOTAL DE 33:042$016, PARA O AUMENTO DO ARMAZÉM E NOVAS INSTALAÇÕES SANITÁRIAS NO EDIFÍCIO DA ESTAÇÃO JÚLIO DE CASTILHOS, DA LINHA DE SANTA MARIA A MARCELINO RAMOS, DA REDE DE VIAÇÃO FÉRREA FEDERAL DO RIO GRANDE DO SUL.",
+          "dataassinatura": "11/06/1932",
+          "anoassinatura": "1932",
+          "apelido": "DEC-21510-1932-06-11"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1932-06-11;21510&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-28T02:03:41.250039+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/a8342050a7913cac94d233f27437c576657441416f5d9af9413a20060b6c12da.raw.gz",
+          "sha256_raw": "7e38c3832dd8062eb69fc4cc449d51fa3f9175fa322efce559ef9587cde62132",
+          "bytes": 2623
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/6193e9fa-2d2a-4307-93b4-3454d495e344/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:03:43.063920+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/85c8a0ecc9e54d3052222f348e878b2b5b7d6ef7702d0999045eb53fbeb7419f.raw.gz",
+          "sha256_raw": "6ed417683f3cefab05b822152d8b45e327ab759c2a8e57fc1e766aad0963accb",
+          "bytes": 9112
+        },
+        "encoding_escolhido": {
+          "datePublished": "1932-12-31",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/6193e9fa-2d2a-4307-93b4-3454d495e344/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 21.510 de 11/06/1932]  [Coleção de Leis do Brasil  de 31/12/1932 - vol.  002] (p. 370, col. 1)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1932-06-11;21510@1932-06-11~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "vinculos_literais": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Ficam aprovados o projeto e orçamento que a este acompanham, rubricados pelo diretor geral de Expediente, interino, da Secretaria de Estado do Ministério da Viação e Obras Públicas, para o aumento do armazem e novas instalações sanitárias no edifício da estação Julio de Castilhos, sita no quilômetro 72+867 da linha de Santa Maria a Marcelino Ramos, da Rede de Viação Férrea Federal do Rio Grande do Sul, arrendada ao referido Estado.",
+          "remissao_match": "QUE A ESTE ACOMPANHAM",
+          "objetos_match": [
+            "PROJETO",
+            "ORCAMENTO"
+          ]
+        }
+      ],
+      "fecho_literal": "Rio de Janeiro, 11 de junho de 1932, 111º de Independência e 44º da República.",
+      "conteudo_integral_apos_fecho": "Getulio Vargas.\n\nFernando Augusto de Almeida Brandão, encarregado do Expediente na ausencia do Ministro da Viação e Obras Públicas.\n",
+      "contexto_prefixo": {
+        "path": "federal/decretos/1932/dec-21510-1932-06-11.md",
+        "urn": "urn:lex:br:federal:decreto:1932-06-11;21510",
+        "sha256_HTML": "6ed417683f3cefab05b822152d8b45e327ab759c2a8e57fc1e766aad0963accb",
+        "sha256_metadados": "7e38c3832dd8062eb69fc4cc449d51fa3f9175fa322efce559ef9587cde62132",
+        "sha256_MD_preliminar": "8d8f59f4157034132304e1e25dbbebe2e19d49c158614a3ea093876845e6766c",
+        "epigrafe": {
+          "numero": "21510",
+          "data": "1932-06-11",
+          "epigrafe": "DECRETO N. 21.510 – DE 11 DE JUNHO DE 1932"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/6193e9fa-2d2a-4307-93b4-3454d495e344/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:03:43.063920+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/85c8a0ecc9e54d3052222f348e878b2b5b7d6ef7702d0999045eb53fbeb7419f.raw.gz",
+          "sha256_raw": "6ed417683f3cefab05b822152d8b45e327ab759c2a8e57fc1e766aad0963accb",
+          "bytes": 9112
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 21.510 – DE 11 DE JUNHO DE 1932\n\nAprova o projeto e orçamento, na importância total de 33:042$016, para o aumento do armazem e novas instalações sanitárias no edifício da estação Julio de Castilho, da linha de Santa Maria a Marcelino Ramos, da Rede de Viação Férrea Federal do Rio Grande do Sul\n\nO Chefe do Governo Provisório da República dos Estados Unidos do Brasil, atendendo ao que requereu o Estado do Rio Grande do Sul, e de acordo com os pareceres prestados,\n\ndecreta:",
+        "primeiro_bloco_de_artigo": "**Artigo único.** Ficam aprovados o projeto e orçamento que a este acompanham, rubricados pelo diretor geral de Expediente, interino, da Secretaria de Estado do Ministério da Viação e Obras Públicas, para o aumento do armazem e novas instalações sanitárias no edifício da estação Julio de Castilhos, sita no quilômetro 72+867 da linha de Santa Maria a Marcelino Ramos, da Rede de Viação Férrea Federal do Rio Grande do Sul, arrendada ao referido Estado.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 11 DE JUNHO DE 1932",
+          "data": "1932-06-11",
+          "bloco_literal": "Rio de Janeiro, 11 de junho de 1932, 111º de Independência e 44º da República."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": true,
+        "autoridade_literal": "O Chefe do Governo Provisório da República dos Estados Unidos do Brasil, atendendo ao que requereu o Estado do Rio Grande do Sul, e de acordo com os pareceres prestados,",
+        "ocorrencias_contextuais": []
+      },
+      "limites": "Retenção privada por este SHA, sem máscara ou alteração de qualquer candidato/canônico."
+    },
+    {
+      "path": "federal/decretos/1932/dec-21511-1932-06-11.md",
+      "urn": "urn:lex:br:federal:decreto:1932-06-11;21511",
+      "estado": "objeto_tecnico_proprio_a_conferir",
+      "motivo": "Projeto ou orçamento próprio expressamente acompanhando/baixando com o ato; descrição, total ou tabela resumida não bastam para representar o projeto documental. Retenção contextual privada, sem afirmar inexistência em outra fonte.",
+      "sha256_MD_preliminar": "b962519a12416070c29685cbef638d23ab952365e3389bd83f842797eba5abfe",
+      "sha256_HTML": "465270a815af1853ff55b0f162aea2b325abd040a6ad0bb007a2e9e9eaf3525c",
+      "sha256_API": "9907ce411f7483dc2fcb7fd4bc76925910f5a95f224e3b1aa6294536879b45f3",
+      "fontes": {
+        "path": "federal/decretos/1932/dec-21511-1932-06-11.md",
+        "urn": "urn:lex:br:federal:decreto:1932-06-11;21511",
+        "indice": {
+          "id": "441116",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "21511",
+          "norma": "DEC-21511-1932-06-11",
+          "normaNome": "Decreto nº 21.511 de 11/06/1932",
+          "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTÂNCIA TOTAL DE 229:769$441, PARA A CONSTRUÇÃO DE UM NOVO EDIFÍCIO PARA A ESTAÇÃO DE SÃO LEOPOLDO, DA LINHA DE SANTA MARIA A PORTO ALEGRE, DA REDE DE VIAÇÃO FÉRREA FEDERAL DO RIO GRANDE DO SUL, E BEM ASSIM OS DOCUMENTOS RELATIVOS À DESAPROPRIAÇÃO DOS IMÓVEIS NECESSÁRIOS À MESMA CONSTRUÇÃO.",
+          "dataassinatura": "11/06/1932",
+          "anoassinatura": "1932",
+          "apelido": "DEC-21511-1932-06-11"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1932-06-11;21511&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-28T02:03:40.644476+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/4ab62f1436a84808eb8f1d971dd563794a1f8ed08799caa6ddb937e6b7cbc4a8.raw.gz",
+          "sha256_raw": "9907ce411f7483dc2fcb7fd4bc76925910f5a95f224e3b1aa6294536879b45f3",
+          "bytes": 2715
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/70813a67-dd0f-4e19-9379-d6d49bafbcb9/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:03:42.519471+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/d9d134a0f011f10d5c303f86228afad199cfb1e71a55b6ed4af94ea02a7d6734.raw.gz",
+          "sha256_raw": "465270a815af1853ff55b0f162aea2b325abd040a6ad0bb007a2e9e9eaf3525c",
+          "bytes": 9709
+        },
+        "encoding_escolhido": {
+          "datePublished": "1932-12-31",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/70813a67-dd0f-4e19-9379-d6d49bafbcb9/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 21.511 de 11/06/1932]  [Coleção de Leis do Brasil  de 31/12/1932 - vol.  002] (p. 370, col. 1)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1932-06-11;21511@1932-06-11~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "vinculos_literais": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Ficam aprovados o projeto e orçamento que a este acompanham, rubricados pelo diretor geral de Expediente, interino, da Secretaria de Estado do Ministério da Viação e Obras Públicas, para a construção de um novo edifício para a estação de São Leopoldo, no quilômetro 357+365 da linha de Santa Maria a Porto Alegre, da Rede de Viação Férrea Federal do Rio Grande do Sul, arrendada ao referido Estado, em substituição ao atual edifício, que não está mais em condições de preencher os fins a que se destina; e bem assim os documentos, que igualmente baixam rubricados, referente à desapropriação amigavel, pela quantia de 35:000$0 (trinta e cinco contos de réis), do terreno e benfeitorias de propriedade de Homero Velloso e necessários à construção do novo edifício.",
+          "remissao_match": "QUE A ESTE ACOMPANHAM",
+          "objetos_match": [
+            "PROJETO",
+            "ORCAMENTO"
+          ]
+        }
+      ],
+      "fecho_literal": "Rio de Janeiro, 11 de junho de 1932, 111º de Independência e 44º da República.",
+      "conteudo_integral_apos_fecho": "Getulio Vargas.\n\nFernando Augusto de Almeida Brandão, encarregado do Expediente na ausencia do Ministro da Viação e Obras Públicas.\n",
+      "contexto_prefixo": {
+        "path": "federal/decretos/1932/dec-21511-1932-06-11.md",
+        "urn": "urn:lex:br:federal:decreto:1932-06-11;21511",
+        "sha256_HTML": "465270a815af1853ff55b0f162aea2b325abd040a6ad0bb007a2e9e9eaf3525c",
+        "sha256_metadados": "9907ce411f7483dc2fcb7fd4bc76925910f5a95f224e3b1aa6294536879b45f3",
+        "sha256_MD_preliminar": "b962519a12416070c29685cbef638d23ab952365e3389bd83f842797eba5abfe",
+        "epigrafe": {
+          "numero": "21511",
+          "data": "1932-06-11",
+          "epigrafe": "DECRETO N. 21.511 – DE 11 DE JUNHO DE 1932"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/70813a67-dd0f-4e19-9379-d6d49bafbcb9/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:03:42.519471+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/d9d134a0f011f10d5c303f86228afad199cfb1e71a55b6ed4af94ea02a7d6734.raw.gz",
+          "sha256_raw": "465270a815af1853ff55b0f162aea2b325abd040a6ad0bb007a2e9e9eaf3525c",
+          "bytes": 9709
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 21.511 – DE 11 DE JUNHO DE 1932\n\nAprova o projeto e orçamento, na importância total, de 229:769$441, para a construção de um novo edifício para a estação de São Leopoldo, da linha de Santa Maria a Porto Alegre, da Rede de Viação Férrea Federal do Rio Grande do Sul; e bem assim os documentos relativos à desapropriação dos imoveis necessários à mesma construção\n\nO Chefe do Governo Provisório da República dos Estados Unidos do Brasil, atendendo ao que requereu o Estado do Rio Grande do Sul, e de acordo com os pareceres prestados,\n\ndecreta:",
+        "primeiro_bloco_de_artigo": "**Artigo único.** Ficam aprovados o projeto e orçamento que a este acompanham, rubricados pelo diretor geral de Expediente, interino, da Secretaria de Estado do Ministério da Viação e Obras Públicas, para a construção de um novo edifício para a estação de São Leopoldo, no quilômetro 357+365 da linha de Santa Maria a Porto Alegre, da Rede de Viação Férrea Federal do Rio Grande do Sul, arrendada ao referido Estado, em substituição ao atual edifício, que não está mais em condições de preencher os fins a que se destina; e bem assim os documentos, que igualmente baixam rubricados, referente à desapropriação amigavel, pela quantia de 35:000$0 (trinta e cinco contos de réis), do terreno e benfeitorias de propriedade de Homero Velloso e necessários à construção do novo edifício.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 11 DE JUNHO DE 1932",
+          "data": "1932-06-11",
+          "bloco_literal": "Rio de Janeiro, 11 de junho de 1932, 111º de Independência e 44º da República."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": true,
+        "autoridade_literal": "O Chefe do Governo Provisório da República dos Estados Unidos do Brasil, atendendo ao que requereu o Estado do Rio Grande do Sul, e de acordo com os pareceres prestados,",
+        "ocorrencias_contextuais": []
+      },
+      "limites": "Retenção privada por este SHA, sem máscara ou alteração de qualquer candidato/canônico."
+    },
+    {
+      "path": "federal/decretos/1931/dec-20473-1931-10-02.md",
+      "urn": "urn:lex:br:federal:decreto:1931-10-02;20473",
+      "estado": "objeto_tecnico_proprio_a_conferir",
+      "motivo": "Projeto ou orçamento próprio expressamente acompanhando/baixando com o ato; descrição, total ou tabela resumida não bastam para representar o projeto documental. Retenção contextual privada, sem afirmar inexistência em outra fonte.",
+      "sha256_MD_preliminar": "0fea9c3cab1bbe1521a4b415573a8d9f0a74e65e4655ccc3b275cec8a21b75a0",
+      "sha256_HTML": "c319576fbe9651e7f95a966603f9f003362055419fdf8f9ec378451e9f1b5e09",
+      "sha256_API": "521bfa0f849523a25e8fbb946122c3c295eefa35f743a6e53ddf8b4413e83a40",
+      "fontes": {
+        "path": "federal/decretos/1931/dec-20473-1931-10-02.md",
+        "urn": "urn:lex:br:federal:decreto:1931-10-02;20473",
+        "indice": {
+          "id": "439067",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "20473",
+          "norma": "DEC-20473-1931-10-02",
+          "normaNome": "Decreto nº 20.473 de 02/10/1931",
+          "ementa": "APROVA A CONSTRUÇÃO, PELA REDE MINEIRA DE VIAÇÃO, EX-REDE SUL-MINEIRA, DE DIVERSAS OBRAS EXECUTADAS NAS ESTAÇÕES DE CRUZEIRO, BAEPENDÍ E SILVESTRE FERRAZ, DE ACORDO COM OS PROJETOS E ORÇAMENTOS EM TEMPO APRESENTADOS.",
+          "dataassinatura": "02/10/1931",
+          "anoassinatura": "1931",
+          "apelido": "DEC-20473-1931-10-02"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1931-10-02;20473&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-28T02:20:30.140861+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/1c373d3a647fdc8bf73081820f6452a803b92f474e10b7a654f67d5f102fd841.raw.gz",
+          "sha256_raw": "521bfa0f849523a25e8fbb946122c3c295eefa35f743a6e53ddf8b4413e83a40",
+          "bytes": 2631
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/ccb63323-9314-4189-ad5e-8300cf3ac020/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:20:31.987508+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/e3ee67dfc3e4a38e59452c85e96fcd6d92daff9fe88c6f0470bd83f348fc11d6.raw.gz",
+          "sha256_raw": "c319576fbe9651e7f95a966603f9f003362055419fdf8f9ec378451e9f1b5e09",
+          "bytes": 14808
+        },
+        "encoding_escolhido": {
+          "datePublished": "1931-12-31",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/ccb63323-9314-4189-ad5e-8300cf3ac020/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 20.473 de 02/10/1931]  [Coleção de Leis do Brasil  de 31/12/1931 - vol.  003] (p. 224, col. 1)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1931-10-02;20473@1931-10-02~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "vinculos_literais": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo unico.** Fica aprovada a construção, pela Rêde Mineira de Viação, ex-Rêde Sul-Mineira, arrendada ao Estado de Minas Gerais, das seguintes obras executadas de conformidade com os projetos e orçamentos em tempo apresentados e que com este baixam, rubricados pelo Diretor Geral de Expediente da Secretaria de Estado do Ministerio da Viação e Obras Públicas, atendidas as correções nos mesmos feitas pela lnspetoria Federal das Estradas:",
+          "remissao_match": "COM ESTE BAIXAM",
+          "objetos_match": [
+            "PROJETOS",
+            "ORCAMENTOS"
+          ]
+        }
+      ],
+      "fecho_literal": "Rio de Janeiro, 2 de outubro de 1931, 110º da Independencia e 43º da Republica.",
+      "conteudo_integral_apos_fecho": "GETULIO VARGAS.\n\nJosé Americo de Almeida.\n",
+      "contexto_prefixo": {
+        "path": "federal/decretos/1931/dec-20473-1931-10-02.md",
+        "urn": "urn:lex:br:federal:decreto:1931-10-02;20473",
+        "sha256_HTML": "c319576fbe9651e7f95a966603f9f003362055419fdf8f9ec378451e9f1b5e09",
+        "sha256_metadados": "521bfa0f849523a25e8fbb946122c3c295eefa35f743a6e53ddf8b4413e83a40",
+        "sha256_MD_preliminar": "0fea9c3cab1bbe1521a4b415573a8d9f0a74e65e4655ccc3b275cec8a21b75a0",
+        "epigrafe": {
+          "numero": "20473",
+          "data": "1931-10-02",
+          "epigrafe": "DECRETO N. 20.473 – DE 02 de OUTUBRO DE 1931"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/ccb63323-9314-4189-ad5e-8300cf3ac020/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:20:31.987508+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/e3ee67dfc3e4a38e59452c85e96fcd6d92daff9fe88c6f0470bd83f348fc11d6.raw.gz",
+          "sha256_raw": "c319576fbe9651e7f95a966603f9f003362055419fdf8f9ec378451e9f1b5e09",
+          "bytes": 14808
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 20.473 – DE 02 de OUTUBRO DE 1931\n\nAprova a construção, pela Rêde Mineira de Viação, ex-Rêde Sul–Mineira, de diversas obras executadas nas estações de Cruzeiro, Baependí e Silvestre Ferraz, de acôrdo com os projetos e orçamentos em tempo apresentados\n\nO Chefe do Governo Provisorio da Republica dos Estados Unidos do Brasil, atendendo ao que requereu a Rêde Mineira de Viação, arrendada ao Estado de Minas Gerais, e de acôrdo com os pareceres prestados,\n\ndecreta:",
+        "primeiro_bloco_de_artigo": "**Artigo unico.** Fica aprovada a construção, pela Rêde Mineira de Viação, ex-Rêde Sul-Mineira, arrendada ao Estado de Minas Gerais, das seguintes obras executadas de conformidade com os projetos e orçamentos em tempo apresentados e que com este baixam, rubricados pelo Diretor Geral de Expediente da Secretaria de Estado do Ministerio da Viação e Obras Públicas, atendidas as correções nos mesmos feitas pela lnspetoria Federal das Estradas:",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 2 DE OUTUBRO DE 1931",
+          "data": "1931-10-02",
+          "bloco_literal": "Rio de Janeiro, 2 de outubro de 1931, 110º da Independencia e 43º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": true,
+        "autoridade_literal": "O Chefe do Governo Provisorio da Republica dos Estados Unidos do Brasil, atendendo ao que requereu a Rêde Mineira de Viação, arrendada ao Estado de Minas Gerais, e de acôrdo com os pareceres prestados,",
+        "ocorrencias_contextuais": []
+      },
+      "limites": "Retenção privada por este SHA, sem máscara ou alteração de qualquer candidato/canônico."
+    },
+    {
+      "path": "federal/decretos/1932/dec-21512-1932-06-11.md",
+      "urn": "urn:lex:br:federal:decreto:1932-06-11;21512",
+      "estado": "objeto_tecnico_proprio_a_conferir",
+      "motivo": "Projeto ou orçamento próprio expressamente acompanhando/baixando com o ato; descrição, total ou tabela resumida não bastam para representar o projeto documental. Retenção contextual privada, sem afirmar inexistência em outra fonte.",
+      "sha256_MD_preliminar": "6d49ec2fb3f2629d0361614986e17d4c749be079f709db2f3a0afb5095b465f3",
+      "sha256_HTML": "8e2944f085320fe8e87da191ccd87eed0de3bffbfd32e0cf18fb13f74dc414ea",
+      "sha256_API": "fbb43b851b22aef8d5e12c5a23b6aa530fd01e4a42f9b056bf84d79c39d7829d",
+      "fontes": {
+        "path": "federal/decretos/1932/dec-21512-1932-06-11.md",
+        "urn": "urn:lex:br:federal:decreto:1932-06-11;21512",
+        "indice": {
+          "id": "441118",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "21512",
+          "norma": "DEC-21512-1932-06-11",
+          "normaNome": "Decreto nº 21.512 de 11/06/1932",
+          "ementa": "APROVA OS PROJETOS E ORÇAMENTOS, NA IMPORTANCIA TOTAL DE 39:848$019, DE REFORÇO DEFINITIVO E RECONSTRUÇÃO E REFORÇO DE DIVERSAS SUPERSTRUTURAS METALICAS DA LINHA DE SANTA MARIA A PORTO ALEGRE, DA REDE DE VIAÇÃO FERREA FEDERAL DO RIO GRANDE DO SUL.",
+          "dataassinatura": "11/06/1932",
+          "anoassinatura": "1932",
+          "apelido": "DEC-21512-1932-06-11"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1932-06-11;21512&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-28T02:03:39.668074+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/427ea9ba9615052d6569da0ad773bff6e8007b44741766d5a903e99f415ce195.raw.gz",
+          "sha256_raw": "fbb43b851b22aef8d5e12c5a23b6aa530fd01e4a42f9b056bf84d79c39d7829d",
+          "bytes": 2601
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/827de3b1-08c6-4287-93d1-2e501803fb7b/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:03:41.488015+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/f85c2f8b1b6073fd3891ca2505d88057a49ad05b4f8030d372adfb59bccffd98.raw.gz",
+          "sha256_raw": "8e2944f085320fe8e87da191ccd87eed0de3bffbfd32e0cf18fb13f74dc414ea",
+          "bytes": 11824
+        },
+        "encoding_escolhido": {
+          "datePublished": "1932-12-31",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/827de3b1-08c6-4287-93d1-2e501803fb7b/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 21.512 de 11/06/1932]  [Coleção de Leis do Brasil  de 31/12/1932 - vol.  002] (p. 371, col. 1)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1932-06-11;21512@1932-06-11~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "vinculos_literais": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Ficam aprovados os projetos e orçamentos que a este acompanham, rubricados pelo diretor geral de Expediente, interino, da Secretaria de Estado do Ministério da Viação e Obras Públicas, para a execução dos seguintes trabalhos em diversas superstruturas da linha de Santa Maria a Porto Alegre, da Rede de Viação Férrea Federal do Rio Grande do Sul, arrendada ao referido Estado:",
+          "remissao_match": "QUE A ESTE ACOMPANHAM",
+          "objetos_match": [
+            "PROJETOS",
+            "ORCAMENTOS"
+          ]
+        }
+      ],
+      "fecho_literal": "Rio de Janeiro, 11 de junho de 1932, 111º de Independência e 44º da República.",
+      "conteudo_integral_apos_fecho": "Getulio Vargas.\n\nFernando Augusto de Almeida Brandão, encarregado do Expediente na ausencia do Ministro da Viação e Obras Públicas.\n",
+      "contexto_prefixo": {
+        "path": "federal/decretos/1932/dec-21512-1932-06-11.md",
+        "urn": "urn:lex:br:federal:decreto:1932-06-11;21512",
+        "sha256_HTML": "8e2944f085320fe8e87da191ccd87eed0de3bffbfd32e0cf18fb13f74dc414ea",
+        "sha256_metadados": "fbb43b851b22aef8d5e12c5a23b6aa530fd01e4a42f9b056bf84d79c39d7829d",
+        "sha256_MD_preliminar": "6d49ec2fb3f2629d0361614986e17d4c749be079f709db2f3a0afb5095b465f3",
+        "epigrafe": {
+          "numero": "21512",
+          "data": "1932-06-11",
+          "epigrafe": "DECRETO N. 21.512 – DE 11 DE JUNHO DE 1932"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/827de3b1-08c6-4287-93d1-2e501803fb7b/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:03:41.488015+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/f85c2f8b1b6073fd3891ca2505d88057a49ad05b4f8030d372adfb59bccffd98.raw.gz",
+          "sha256_raw": "8e2944f085320fe8e87da191ccd87eed0de3bffbfd32e0cf18fb13f74dc414ea",
+          "bytes": 11824
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 21.512 – DE 11 DE JUNHO DE 1932\n\nAprova os projetos e orçamentos, na importância total de 39:848$019, de reforço definitivo e reconstrução e reforço de diversas superstruturas metáliuas da linha de Santa Maria a Porto Alegre, da Rede de Viação Férrea Federal do Rio Grande do Sul\n\nO Chefe do Governo Provisório da República dos Estados Unidos do Brasil, atendendo ao que requereu o Estado do Rio Grande do Sul, e de acordo com os pareceres prestados,\n\ndecreta:",
+        "primeiro_bloco_de_artigo": "**Artigo único.** Ficam aprovados os projetos e orçamentos que a este acompanham, rubricados pelo diretor geral de Expediente, interino, da Secretaria de Estado do Ministério da Viação e Obras Públicas, para a execução dos seguintes trabalhos em diversas superstruturas da linha de Santa Maria a Porto Alegre, da Rede de Viação Férrea Federal do Rio Grande do Sul, arrendada ao referido Estado:",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 11 DE JUNHO DE 1932",
+          "data": "1932-06-11",
+          "bloco_literal": "Rio de Janeiro, 11 de junho de 1932, 111º de Independência e 44º da República."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": true,
+        "autoridade_literal": "O Chefe do Governo Provisório da República dos Estados Unidos do Brasil, atendendo ao que requereu o Estado do Rio Grande do Sul, e de acordo com os pareceres prestados,",
+        "ocorrencias_contextuais": []
+      },
+      "limites": "Retenção privada por este SHA, sem máscara ou alteração de qualquer candidato/canônico."
+    },
+    {
+      "path": "federal/decretos/1931/dec-19600-1931-01-19.md",
+      "urn": "urn:lex:br:federal:decreto:1931-01-19;19600",
+      "estado": "objeto_tecnico_proprio_a_conferir",
+      "motivo": "Projeto ou orçamento próprio expressamente acompanhando/baixando com o ato; descrição, total ou tabela resumida não bastam para representar o projeto documental. Retenção contextual privada, sem afirmar inexistência em outra fonte.",
+      "sha256_MD_preliminar": "86ddd459042d627d0918c21da1d04d2c055a942885d1c26abf6e472fb6c31b1b",
+      "sha256_HTML": "4e554ffb6ec76b0f1f80d8f2eaf7b57b5940078831cfa8963461e6b27ec8dece",
+      "sha256_API": "17d020eb66d4684c8d2fd3eb9a3c09e2bebd3571fedc59a65eba481e29aa2a3e",
+      "fontes": {
+        "path": "federal/decretos/1931/dec-19600-1931-01-19.md",
+        "urn": "urn:lex:br:federal:decreto:1931-01-19;19600",
+        "indice": {
+          "id": "437335",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "19600",
+          "norma": "DEC-19600-1931-01-19",
+          "normaNome": "Decreto nº 19.600 de 19/01/1931",
+          "ementa": "APROVA O PROJETO E ORÇAMENTO DAS DESPESAS REALIZADAS COM A AQUISIÇÃO DE UMA LANCHA A GASOLINA PARA O SERVIÇO DA INSTALAÇÃO HIDROELÉTRICA DE ITATINGA, NO PORTO DE SANTOS, NA IMPORTÂNCIA DE 67:650$594.",
+          "dataassinatura": "19/01/1931",
+          "anoassinatura": "1931",
+          "apelido": "DEC-19600-1931-01-19"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1931-01-19;19600&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-28T03:49:08.434865+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/b90f7b58486222e7b4738da40064be10c98efd0966d3d0eda8b6d285e803868e.raw.gz",
+          "sha256_raw": "17d020eb66d4684c8d2fd3eb9a3c09e2bebd3571fedc59a65eba481e29aa2a3e",
+          "bytes": 2519
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/2311660d-39d5-4ec8-b0a4-b6877b331fd1/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T03:49:10.350804+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/4bc6312b6e1aa82334d13930c56791fa5aba66d4205bcff52eb0bb0f02d1d9f2.raw.gz",
+          "sha256_raw": "4e554ffb6ec76b0f1f80d8f2eaf7b57b5940078831cfa8963461e6b27ec8dece",
+          "bytes": 8984
+        },
+        "encoding_escolhido": {
+          "datePublished": "1931-12-31",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/2311660d-39d5-4ec8-b0a4-b6877b331fd1/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 19.600 de 19/01/1931]  [Coleção de Leis do Brasil  de 31/12/1931 - vol.  001] (p. 40, col. 1)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1931-01-19;19600@1931-01-19~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "vinculos_literais": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Ficam aprovados, para execução da obra que constitue parte do item 24, da relação anexa ao decreto n. 18.284, de 16 de junho de 1928, o projeto e orçamento, na importância de sessenta e sete contos, seiscentos e cinquenta mil quinhentos e noventa e, quatro réis (67:650$594), que com este, baixam, rubricados pelo diretor geral de Contabilidade da Secretaria de Estado do Ministério da Viação e Obras Públicas, e relativos à aquisição de uma lancha a gasolina para o serviço da instalação hidroelétrica de Itatinga, no porto de Santos, devendo esta importância ser levada à conta do capital da referida companhia.",
+          "remissao_match": "COM ESTE, BAIXAM",
+          "objetos_match": [
+            "PROJETO",
+            "ORCAMENTO"
+          ]
+        }
+      ],
+      "fecho_literal": "Rio de Janeiro, 19 de Janeiro de 1931, 110º da Independência e 43º da República.",
+      "conteudo_integral_apos_fecho": "GETULIO VARGAS.\n\nJosé Americo de Almeida.\n",
+      "contexto_prefixo": {
+        "path": "federal/decretos/1931/dec-19600-1931-01-19.md",
+        "urn": "urn:lex:br:federal:decreto:1931-01-19;19600",
+        "sha256_HTML": "4e554ffb6ec76b0f1f80d8f2eaf7b57b5940078831cfa8963461e6b27ec8dece",
+        "sha256_metadados": "17d020eb66d4684c8d2fd3eb9a3c09e2bebd3571fedc59a65eba481e29aa2a3e",
+        "sha256_MD_preliminar": "86ddd459042d627d0918c21da1d04d2c055a942885d1c26abf6e472fb6c31b1b",
+        "epigrafe": {
+          "numero": "19600",
+          "data": "1931-01-19",
+          "epigrafe": "DECRETO N. 19.600 – DE 19 DE JANEIRO DE 1931"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/2311660d-39d5-4ec8-b0a4-b6877b331fd1/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T03:49:10.350804+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/4bc6312b6e1aa82334d13930c56791fa5aba66d4205bcff52eb0bb0f02d1d9f2.raw.gz",
+          "sha256_raw": "4e554ffb6ec76b0f1f80d8f2eaf7b57b5940078831cfa8963461e6b27ec8dece",
+          "bytes": 8984
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 19.600 – DE 19 DE JANEIRO DE 1931\n\nAprova o projeto e orçamento das despesas realizadas com a aquisição de uma lancha a gasolina para o serviço da instalação hidroelétrica de Itatinga, no porto de Santos, na importância de 67:650$594.\n\nO Chefe do Governo Provisório da República dos Estados Unidos do Brasil, atendendo ao que requereu a Companhia Docas de Santos e de acordo com a informação prestada pela Inspetoria Federal de Portos, Rios e Canais,\n\ndecreta:",
+        "primeiro_bloco_de_artigo": "**Artigo único.** Ficam aprovados, para execução da obra que constitue parte do item 24, da relação anexa ao decreto n. 18.284, de 16 de junho de 1928, o projeto e orçamento, na importância de sessenta e sete contos, seiscentos e cinquenta mil quinhentos e noventa e, quatro réis (67:650$594), que com este, baixam, rubricados pelo diretor geral de Contabilidade da Secretaria de Estado do Ministério da Viação e Obras Públicas, e relativos à aquisição de uma lancha a gasolina para o serviço da instalação hidroelétrica de Itatinga, no porto de Santos, devendo esta importância ser levada à conta do capital da referida companhia.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 19 DE JANEIRO DE 1931",
+          "data": "1931-01-19",
+          "bloco_literal": "Rio de Janeiro, 19 de Janeiro de 1931, 110º da Independência e 43º da República."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": true,
+        "autoridade_literal": "O Chefe do Governo Provisório da República dos Estados Unidos do Brasil, atendendo ao que requereu a Companhia Docas de Santos e de acordo com a informação prestada pela Inspetoria Federal de Portos, Rios e Canais,",
+        "ocorrencias_contextuais": []
+      },
+      "limites": "Retenção privada por este SHA, sem máscara ou alteração de qualquer candidato/canônico."
+    },
+    {
+      "path": "federal/decretos/1932/dec-21447-1932-05-27.md",
+      "urn": "urn:lex:br:federal:decreto:1932-05-27;21447",
+      "estado": "objeto_tecnico_proprio_a_conferir",
+      "motivo": "Projeto ou orçamento próprio expressamente acompanhando/baixando com o ato; descrição, total ou tabela resumida não bastam para representar o projeto documental. Retenção contextual privada, sem afirmar inexistência em outra fonte.",
+      "sha256_MD_preliminar": "0c8c401346ffd114da6ecec0f19beeed5aed05961ce2ba4031742c364ee05578",
+      "sha256_HTML": "fda9bd1b9f577f90b5ba10a85631c8dfabfd456b1db2b48d5571d146b24b7556",
+      "sha256_API": "6671cd6c5af94f4b8720edb4fda0d3cc035985d4b6ba0fd37bc13642cc57f0a0",
+      "fontes": {
+        "path": "federal/decretos/1932/dec-21447-1932-05-27.md",
+        "urn": "urn:lex:br:federal:decreto:1932-05-27;21447",
+        "indice": {
+          "id": "440989",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "21447",
+          "norma": "DEC-21447-1932-05-27",
+          "normaNome": "Decreto nº 21.447 de 27/05/1932",
+          "ementa": "APROVA PROJETOS E ORÇAMENTOS NA IMPORTÂNCIA TOTAL DE RÉIS 2.500:000$0 PARA CONSTRUÇÃO DA LINHA, OBRAS DE ARTE E EDIFÍCIOS DOS KMS. 52 A 100 DA VARIANTE DE ARAÇATUBA A JUPIÁ, NA ESTRADA DE FERRO NOROESTE DO BRASIL.",
+          "dataassinatura": "27/05/1932",
+          "anoassinatura": "1932",
+          "apelido": "DEC-21447-1932-05-27"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1932-05-27;21447&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-28T02:04:43.747969+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/97ddf8bf8b795edcddc0c738e480bc5ed70af570633cc0afbf4fce5f25744855.raw.gz",
+          "sha256_raw": "6671cd6c5af94f4b8720edb4fda0d3cc035985d4b6ba0fd37bc13642cc57f0a0",
+          "bytes": 2558
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/abae2f56-0b17-407d-b4f2-96e7b4a081b6/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:04:45.539710+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/7c46e20876a22188c3489362e218e8841c60c16965aa0c0beb280258410841c9.raw.gz",
+          "sha256_raw": "fda9bd1b9f577f90b5ba10a85631c8dfabfd456b1db2b48d5571d146b24b7556",
+          "bytes": 9625
+        },
+        "encoding_escolhido": {
+          "datePublished": "1932-12-31",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/abae2f56-0b17-407d-b4f2-96e7b4a081b6/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 21.447 de 27/05/1932]  [Coleção de Leis do Brasil  de 31/12/1932 - vol.  002] (p. 295, col. 1)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1932-05-27;21447@1932-05-27~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "vinculos_literais": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Ficam aprovados os projetos e orçamentos na importância total de dois mil e quinhentos contos de réis (2.500:000$0), sendo 1.438:244$161 de pessoal e 1.061:765$839 de material, das despesas a serem feitas com a construção da linha, obras de arte e edifícios dos kms. 52 a 100 da variante de Araçatuba a Jupiá, na Estrada de Ferro Noroeste do Brasil, os quais com este baixam rubricados pelo diretor geral de Expediente, interino, daquele ministério.",
+          "remissao_match": "COM ESTE BAIXAM",
+          "objetos_match": [
+            "PROJETOS",
+            "ORCAMENTOS"
+          ]
+        }
+      ],
+      "fecho_literal": "Rio de Janeiro, 27 de maio de 1932, 111º da Independência e 44º da República.",
+      "conteudo_integral_apos_fecho": "Getulio Vargas.\n\nFernando Augusto de Almeida Brandão, encarregado do Expediente na ausência do ministro da Viação e Obras Públicas.\n",
+      "contexto_prefixo": {
+        "path": "federal/decretos/1932/dec-21447-1932-05-27.md",
+        "urn": "urn:lex:br:federal:decreto:1932-05-27;21447",
+        "sha256_HTML": "fda9bd1b9f577f90b5ba10a85631c8dfabfd456b1db2b48d5571d146b24b7556",
+        "sha256_metadados": "6671cd6c5af94f4b8720edb4fda0d3cc035985d4b6ba0fd37bc13642cc57f0a0",
+        "sha256_MD_preliminar": "0c8c401346ffd114da6ecec0f19beeed5aed05961ce2ba4031742c364ee05578",
+        "epigrafe": {
+          "numero": "21447",
+          "data": "1932-05-27",
+          "epigrafe": "DECRETO N. 21.447 – DE 27 DE MAIO DE 1932"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/abae2f56-0b17-407d-b4f2-96e7b4a081b6/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:04:45.539710+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/7c46e20876a22188c3489362e218e8841c60c16965aa0c0beb280258410841c9.raw.gz",
+          "sha256_raw": "fda9bd1b9f577f90b5ba10a85631c8dfabfd456b1db2b48d5571d146b24b7556",
+          "bytes": 9625
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 21.447 – DE 27 DE MAIO DE 1932\n\nAprova projetos e orçamentos na importância de réis 2.500:000$0 para construção da linha, obras de arte e edifícios dos kms. 52 a 100 da variante de Araçatuba a Jupiá, na Estrada de Ferro Noroeste do Brasil\n\nO Chefe do Governo Provisório da República dos Estados Unidos do Brasil, tendo em vista o que determina o § 2º do art. 3º do decreto n. 19.549, de 30 de dezembro de 1930, e de acordo com o parecer do Sr. consultor técnico do Ministério da Viação e Obras Públicas,\n\ndecreta:",
+        "primeiro_bloco_de_artigo": "**Artigo único.** Ficam aprovados os projetos e orçamentos na importância total de dois mil e quinhentos contos de réis (2.500:000$0), sendo 1.438:244$161 de pessoal e 1.061:765$839 de material, das despesas a serem feitas com a construção da linha, obras de arte e edifícios dos kms. 52 a 100 da variante de Araçatuba a Jupiá, na Estrada de Ferro Noroeste do Brasil, os quais com este baixam rubricados pelo diretor geral de Expediente, interino, daquele ministério.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 27 DE MAIO DE 1932",
+          "data": "1932-05-27",
+          "bloco_literal": "Rio de Janeiro, 27 de maio de 1932, 111º da Independência e 44º da República."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": true,
+        "autoridade_literal": "O Chefe do Governo Provisório da República dos Estados Unidos do Brasil, tendo em vista o que determina o § 2º do art. 3º do decreto n. 19.549, de 30 de dezembro de 1930, e de acordo com o parecer do Sr. consultor técnico do Ministério da Viação e Obras Públicas,",
+        "ocorrencias_contextuais": []
+      },
+      "limites": "Retenção privada por este SHA, sem máscara ou alteração de qualquer candidato/canônico."
+    },
+    {
+      "path": "federal/decretos/1932/dec-21404-1932-05-14.md",
+      "urn": "urn:lex:br:federal:decreto:1932-05-14;21404",
+      "estado": "objeto_tecnico_proprio_a_conferir",
+      "motivo": "Projeto ou orçamento próprio expressamente acompanhando/baixando com o ato; descrição, total ou tabela resumida não bastam para representar o projeto documental. Retenção contextual privada, sem afirmar inexistência em outra fonte.",
+      "sha256_MD_preliminar": "bd6bbd2605dccbb336055af9e76f7c2cb9896bcbe4eb31f681157e1d779af348",
+      "sha256_HTML": "3ada239a0542f2ca1922a3edc41ff0b61107f816dc198fe2de19b697b2f6d3e7",
+      "sha256_API": "0dad64a0a6be2e10386b90fca196ddbabc21116d3a48d8263b990718cd4813f3",
+      "fontes": {
+        "path": "federal/decretos/1932/dec-21404-1932-05-14.md",
+        "urn": "urn:lex:br:federal:decreto:1932-05-14;21404",
+        "indice": {
+          "id": "440902",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "21404",
+          "norma": "DEC-21404-1932-05-14",
+          "normaNome": "Decreto nº 21.404 de 14/05/1932",
+          "ementa": "APROVA OS PROJETOS E ORÇAMENTOS, NA IMPORTÂNCIA TOTAL DE 96:482$303, PARA A CONSTRUÇÃO DE UM DESVIO DE CRUZAMENTO, DE UM ARMAZÉM E DE DUAS CASAS PARA MORADIA DE PESSOAL, NO QUILÔMETRO 574M DA KUBGA DE CACEQUÍ A RIO GRANDE, DA REDE DE VIAÇÃO FÉRREA DO RIO GRANDE DO SUL.",
+          "dataassinatura": "14/05/1932",
+          "anoassinatura": "1932",
+          "apelido": "DEC-21404-1932-05-14"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1932-05-14;21404&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-28T02:05:24.128549+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/fd0c176993a760808d96ad0e4af98f7a8f788b30d88093b9092745c5f2c7ec64.raw.gz",
+          "sha256_raw": "0dad64a0a6be2e10386b90fca196ddbabc21116d3a48d8263b990718cd4813f3",
+          "bytes": 2584
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/f471ed22-e15c-4c07-87c9-ecf4ea079944/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:05:26.045066+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/9caf28eaacab417a75fdb56f21be783d478140905a15fbb460f93fb951ea2e76.raw.gz",
+          "sha256_raw": "3ada239a0542f2ca1922a3edc41ff0b61107f816dc198fe2de19b697b2f6d3e7",
+          "bytes": 9406
+        },
+        "encoding_escolhido": {
+          "datePublished": "1932-12-31",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/f471ed22-e15c-4c07-87c9-ecf4ea079944/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 21.404 de 14/05/1932]  [Coleção de Leis do Brasil  de 31/12/1932 - vol.  002] (p. 247, col. 1)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1932-05-14;21404@1932-05-14~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "vinculos_literais": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Ficam aprovados os projetos e orçamentos que a este acompanham, rubricados pelo diretor geral de Expediente, interino, da secretaria de Estado do Ministério da Viação e Obras Públicas, para a construção de um desvio do cruzamento, de um armazem e de duas casa para, moradia, respectivamente, do encarregado do mesmo desvio e do guarda-chaves, no quilômetro 574 da linha de Cacequí a Rio Grande, da Rede de Viação Férrea Federal do Rio Grande do Sul.",
+          "remissao_match": "QUE A ESTE ACOMPANHAM",
+          "objetos_match": [
+            "PROJETOS",
+            "ORCAMENTOS"
+          ]
+        }
+      ],
+      "fecho_literal": "Rio de Janeiro, 14 de maio de 1932, 111º da Independência e 44º da República.",
+      "conteudo_integral_apos_fecho": "Getulio Vargas.\n\nFernando Augusto de Almeida Brandão, encarregado do expediente na ausência do ministro da Viação e Obras Públicas.\n",
+      "contexto_prefixo": {
+        "path": "federal/decretos/1932/dec-21404-1932-05-14.md",
+        "urn": "urn:lex:br:federal:decreto:1932-05-14;21404",
+        "sha256_HTML": "3ada239a0542f2ca1922a3edc41ff0b61107f816dc198fe2de19b697b2f6d3e7",
+        "sha256_metadados": "0dad64a0a6be2e10386b90fca196ddbabc21116d3a48d8263b990718cd4813f3",
+        "sha256_MD_preliminar": "bd6bbd2605dccbb336055af9e76f7c2cb9896bcbe4eb31f681157e1d779af348",
+        "epigrafe": {
+          "numero": "21404",
+          "data": "1932-05-14",
+          "epigrafe": "DECRETO N. 21.404 – DE 14 DE MAIO DE 1932"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/f471ed22-e15c-4c07-87c9-ecf4ea079944/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:05:26.045066+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/9caf28eaacab417a75fdb56f21be783d478140905a15fbb460f93fb951ea2e76.raw.gz",
+          "sha256_raw": "3ada239a0542f2ca1922a3edc41ff0b61107f816dc198fe2de19b697b2f6d3e7",
+          "bytes": 9406
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 21.404 – DE 14 DE MAIO DE 1932\n\nAprova os projetos e orçamento, na importância total de 96:482$303, para a construção de em desvio de cruzamento, de um armazem e de duas casas para moradia de pessoal, no quilômetro 574, dia linha de Cacequí a Rio Grande, da Rede de Viação Férrea Federal do Rio Grande do Sul\n\nO Chefe do Governo Provisório da República dos Estados Unidos do Brasil, atendendo ao que requereu o Estado do Rio Grande do Sul, arrendatário da Rede de Viação Férrea Federal do referido Estado, e de acordo com os pareceres prestados,\n\ndecreta:",
+        "primeiro_bloco_de_artigo": "**Artigo único.** Ficam aprovados os projetos e orçamentos que a este acompanham, rubricados pelo diretor geral de Expediente, interino, da secretaria de Estado do Ministério da Viação e Obras Públicas, para a construção de um desvio do cruzamento, de um armazem e de duas casa para, moradia, respectivamente, do encarregado do mesmo desvio e do guarda-chaves, no quilômetro 574 da linha de Cacequí a Rio Grande, da Rede de Viação Férrea Federal do Rio Grande do Sul.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 14 DE MAIO DE 1932",
+          "data": "1932-05-14",
+          "bloco_literal": "Rio de Janeiro, 14 de maio de 1932, 111º da Independência e 44º da República."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": true,
+        "autoridade_literal": "O Chefe do Governo Provisório da República dos Estados Unidos do Brasil, atendendo ao que requereu o Estado do Rio Grande do Sul, arrendatário da Rede de Viação Férrea Federal do referido Estado, e de acordo com os pareceres prestados,",
+        "ocorrencias_contextuais": []
+      },
+      "limites": "Retenção privada por este SHA, sem máscara ou alteração de qualquer candidato/canônico."
+    },
+    {
+      "path": "federal/decretos/1931/dec-20213-1931-07-16.md",
+      "urn": "urn:lex:br:federal:decreto:1931-07-16;20213",
+      "estado": "desenhos_proprios_nao_representados",
+      "motivo": "Plano de uniformes contém chamadas próprias a desenho anexo/desenho junto para boné, divisas e distintivos. Descrições textuais não substituem desenhos; fonte e MD não contêm representação visual. Corpo integral preservado.",
+      "sha256_MD_preliminar": "0c8353070833e8aaeead6db8caed7baa72041878c293fff07f2837c2d7a3eaeb",
+      "sha256_HTML": "885e03d0ac2a5f0df9a939b58680546afd6f681146d0a524075f0b540695af23",
+      "sha256_API": "80ead04a88437be396d3ddb06f572e16389dcd613f5bcfa6c389366ae88890d2",
+      "fontes": {
+        "path": "federal/decretos/1931/dec-20213-1931-07-16.md",
+        "urn": "urn:lex:br:federal:decreto:1931-07-16;20213",
+        "indice": {
+          "id": "438556",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "20213",
+          "norma": "DEC-20213-1931-07-16",
+          "normaNome": "Decreto nº 20.213 de 16/07/1931",
+          "ementa": "ALTERA O PLANO DE UNIFORMES DAS PRAÇAS DO CORPO DE MARINHEIROS NACIONAIS, GRUMETES E APRENDIZES MARINHEIROS, NA PARTE RELATIVA AOS INFERIORES DO MESMO CORPO.",
+          "dataassinatura": "16/07/1931",
+          "anoassinatura": "1931",
+          "apelido": "DEC-20213-1931-07-16"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1931-07-16;20213&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-28T02:25:13.692941+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/e12309186f2ba1a8328b38f16dd0e55dfed246ed43e7f157a3e03fcc329ada11.raw.gz",
+          "sha256_raw": "80ead04a88437be396d3ddb06f572e16389dcd613f5bcfa6c389366ae88890d2",
+          "bytes": 2406
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/89245060-2c7c-4543-9e56-5d364938a871/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:25:15.535361+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/61c6ccb00fc07a402179c8c2a624b21acc3a8c4e47966cb9efe1a172793ab784.raw.gz",
+          "sha256_raw": "885e03d0ac2a5f0df9a939b58680546afd6f681146d0a524075f0b540695af23",
+          "bytes": 27454
+        },
+        "encoding_escolhido": {
+          "datePublished": "1931-12-31",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/89245060-2c7c-4543-9e56-5d364938a871/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 20.213 de 16/07/1931]  [Coleção de Leis do Brasil  de 31/12/1931 - vol.  002] (p. 566, col. 1)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1931-07-16;20213@1931-07-16~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "vinculos_literais": [
+        {
+          "bloco_indice": 7,
+          "literal_integral": "**Art. 3º** Fica alterado o plano de uniforme, das praças do Corpo de Marinheiros Nacionais, Grumetes e Aprendizes Marinheiros, a que se, refere o decreto n. 18.025, de, 15 de dezembro de 1927, na parte relativa aos inferiores do mesmo Corpo, de acordo com o plano que a este acompanha, assinado pelo contra-almirante Protogenes Pereira Guimarães, ministro de Estado dos Negócios da Marinha.",
+          "remissao_match": "QUE A ESTE ACOMPANHA",
+          "objetos_match": [
+            "PLANO",
+            "PLANO"
+          ]
+        }
+      ],
+      "fecho_literal": "Rio de Janeiro, 16 de ,julho de 1931, 110º da Independência e 43º da República.",
+      "conteudo_integral_apos_fecho": "GETULIO VARGAS\n\nProtogenes P. Guimarães\n\nAlteração do plano de uniformes das praças do Corpo de Marinheiros Nacionais, Grumetes e Aprendizes Marinheiros aprovado peLo decreto n. 18.025, de 15 de dezembro de 1917, na parte referente aos inferiores.\n\n#### CAPÍTULO I — DOS UNIFORMES\n\n**Art. 1º** Os inferiores do Corpo de Marinheiros Nacionais possuirão os uniformes constantes desta alteração, que serão usados de acordo com as disposições nela contidas.\n\n**Art. 2º** Os uniformes a que se refere o artigo anterior, com as divisas e distintivos correspondentes as graduações, serão assim designados:\n\n1º, jaquetão (facultativo);\n\n2º, dolman de sarja azul ferrete;\n\n3º, dolman de brim branco;\n\n4º, dolman de brim mescla.\n\n#### CAPíTULO II — DA COMPOSIÇÃO DOS UNIFORMES\n\n**Art. 3º** Os uniformes de que tratam os arts, 1º e 2º serão compostos das seguintes peças:\n\n1º, jaquetão, colete azul (facultativo), calça azul, divisas e distintivos dourados, nas mangas: boné, com capa branca, gravata preta, de laço vertical; luvas marrons, de fio de Escóssia ou pele; sapatos ou borzeguins pretos;\n\n2º, dolman e calça de sarja azul ferrete; divisas e distintivos dourados, nas mangas; boné, com capa branca sapatos ou borzeguins pretos;\n\n3º, dolman branco; calça branca; divisas e distintivos dourados, nas mangas: boné, com capa branca, luvas brancas, de fio de Escóssia; sapatos ou borzeguins brancos;\n\n4º, dolman e alça de mescla; divisas e distintivos de pano ou cadarço, cosidos nas mangas; boné, com capa branca; sapatos ou borzeguins pretos.\n\n**Art. 4º** As camisas, punhos e colarinhos, para os uniformes acima, serão brancos, lisos e engomados.\n\n**Parágrafo único.** Poderá, tambem, ser usada com o dolman, em lugar do colarinho engomado, uma *banda* de tecido branco encorpado com cerca do 50 cm. de comprimento e cuja altura, mais ou menos de 5 cm. vá diminuindo, gradativamente, para as extremidades, tendo, a 10 cm. duma das pontas, um rasgo para o traspasse da outra, e, em cada uma delas, um cadarço, para amarrar pela parte da frente.\n\n**Art. 5º** As roupas de abrigo, para os uniformes acima, serão:\n\n1º, capa azul ferrete ou de tecido impermeável;\n\n2º, japona.\n\n#### CAPíTULO III — DAS PEÇAS DE QUE SE COMPÕEM OS UNIFORMES\n\n**Art. 6º** As peças de que se compõem os uniformes constantes destes regulamento obedecerão as seguintes descrições:\n\na) peças de vestir:\n\n1º, jaquetão de pano azul ferrete, folgado, levemente cintado. Comprimento, até o meio dedo polegar, com o braço naturalmente caido. Peito de transpasse; gola deitada, Duas ordens de quatro botões dourados, tipo Marinha, tamanho grande, sendo os mais baixos, na altura da cintura, os mais altos, na altura das cavas, e os outros, em intervalos iguais; casas para os botões e mais uma para cima. Ordens de botões, formando linhas retas, Afastamento dos botões: do par inferior 10 a 11 cm; do par superior, 12 a 13 cm. Três botõs, tamanho médio, em cada punho. Três botões: os inferiores, com portinholas.\n\nA colocação do botão superior, no jaquetão, se refere a pessoas que tenham os ombros normais. No caso de ombros, por demais inclinados, será feita a correção necessária.\n\nO forro para o uniforme acima será preto;\n\n2ª, Dolman branco de brim (linho, meio linho ou algodão), folgado. Gola em pé, folgada, fechando direito, por meio de colchetes, com altura não interior a 3 cm, nem superior, a 5. Comprimento, até, o meio do dedo polegar, com o braço, o naturalmente caido. Uma ordem de cinco botões dourados, tipo Marinha, tamanho grande, sendo o inferior na altura da cintura, o superior 3 cm, abaixo da costura da gola, e os outros, em intervalos iguais. O botões podem ser dispostos de modo a fingir abotoar e fixados, neste caso, sobre uma pestana, por baixo da qual haverá uma carela, onde abotoarão dissimulados. Quatro bolsos, por fora, com portinholas fechadas por um botão, tamanho médio.\n\nPara os sargentos-ajudantes e primeiros sargentos haverá, por baixo da portinhola do bolso inferior esquerdo, um rasgo de 30 m., horisontal para a passagem da pernada pequena do talim da espada;\n\n3ª, dolman azul ferrete e mescla: iguais ao branco, devendo, porem, ser invisíveis os botões da frente e as das portinholas dos bolsos.\n\n4ª, colete: de pano azul ferrete, igual ao do jaquetão respectivo, sem gola. Abertura, na frente, pouco maior do que a do jaquetão com o qual for usado. Abotoado por seis botões, tamanho pequeno, em uma só ordem;\n\n5ª, calças: para o 1º, 2º, 3º e 4º uniformes, da mesma fazenda do respectivo jaquetão ou dolman, direitas, de comprimento suficiente a cair sobre o pé, sem pestanas nas costuras e sem bainhas visíveis;\n\n6ª, capa de abrigo: de tecido azul ferrete ou impermeavel, de cor preta, com traspasse, ligeiramente cintada, com o suficiente de “roda” e comprimento de modo que alcance até cerca de 20 cm abaixo do joelho. A gola, em 10 cm de largura, virada e de pontas arredondadas, que se deverão unir completamente, quando levantadas. Para fecha-la, um colchete preto, grande e forte, no degolo; para mantê-la, assim, levantada e fechada, uma aldraba fixa na parte interna de uma das pontas, em correspondência com um botão médio, existente na outra; para moradia da aldraba, quando esta não estiver em uso, em outro botão igual, oculto sob a gola e do mesmo lado da aldraba. Frente de traspasse, Mangas, com um mínimo de 15 cm. de boca.\n\nBolsos: dois laterais, com aberturas verticais, colocados na altura dos quadris, tendo cerca de 15 cm de abertura e outro tanto de profundidade;\n\n7ª, Japona: de pano azul ferrete, de acordo com as especificações do Depósito Naval, aprovadas pelo ministro da Marinha;\n\nb) peças soltas:\n\n1ª, Boné: armação de couro. Pala inclinada de 40 a 45º, de couro preto envernizado; a parte inferior, forrada de marroquim preto. Capa, de pano azul ferrete ou brim branco liso, à qual será dado feito, por meio de armação interna de crina ou outro material.Emblema, segundo o desenho, fixo em uma fita de lã preta, com 35 mm de largura. Fiel, de couro preto envernizado, com 1 cm de largura, de correr, preso nas extremidades por dois botões dourados, pequenos (desenho anexo).\n\n2ª, calçado: de modelo usual (preto ou branco, sem fantasia);\n\nc) divisas, distintivos e demais peças aplicadas sobre as peças de vestir:\n\n1ª, divisas: para o jaquetão, dolman azul ferrete, dolman branco e japona: de fio de cobre dourado, iguais às dos desenhos; para o dolman mescla: de cadarço preto, com a respectiva especialidade, bordada a retrós da mesma cor, sobre um fundo de mescla;\n\na) para o sargento ajudante (brigada do corpo do marinheiros nacionais): o Globo da Bandeira Nacional, em fio de ouro, com diametro de 30 mm, sobre uma ancora prateada, para os 1º, 2º, e 3º uniformes, e, bordado a retrós preto, sobre um fundo de mescla, para o 4º uniforme, usado no braço esquerdo, 15 cm acima da boca. Da manga do jaquetão ou dolman;\n\nb) para os sargentos ajudantes contra-mestres de música: o mesmo globo do brigada, tendo 15 mm acima, uma lira de 30 mm de comprimento e 20 mm na sua maior largura.\n\nc) para os primeiros, segundos e terceiros sargentos: As divisas serão em número de duas, uma para cada braço, ficando a parte superior delas a 12 cm da costura dos ombros; serão constituidas, respectivamente, de cinco, quatro e três galões dourados, da largura de 7 mm, assentados sobre um fundo azul ferrete, distantes um do outro 2 mm e dispostos em ângulos de 130º, tendo colocado, na parte superior, o distintivo da respectiva especialidade, para os 1º, 2º e 3º uniformes, de acordo com o modelo, e, de cadarço preto em um fundo de mescla, para o 4º uniforme (desenho anexo);\n\n2ª, os distintivos de especialidade dos interiores serão os mesmos atualmente em uso, exceto: os artilheiros, que passarão a ter dois canhões de 25 mm do comprimento, cruzados sobre uma âncora do mesmo tamanho, distanciando os vértices, das respectivas unhas, 20 mm um do outro; os (torpedistas-mineiros, que passarão a ter uma mina de 30 mm por 15 mm cruzada sobre uma âncora de 40 mm por 30 mm, conforme o desenho junto; os pintores, que passarão a ter uma prancheta de pintura, trespassada por três pincéis finos, medindo, na maior extensão, 20 mm e, na maior largura, 13 mm; os pincéis terão 30 mm de comprimento, compreendendo 26 mm para os cabos e 4 mm para as lâminas; os artífices da aviação, que passarão a usar uma roda dentada, de 16 mm de diâmetro por 3 mm de espessura, contendo no círculo uma hélice de aviação, de 14 mm de comprimento e tendo ligadas duas azas de 25 mm de comprimento Por 10 mm na maior largura; não podendo o comprimento total do distintivo exceder de 70 mm; os de caldeiras que passarão a usar uma hélice de três pás com raio de 1 mm, dentro de uma circunsferência que terá raios externos e internos, respectivamente, de 12 e 10 mm; os motoristas que passarão a usar duas mólas da embolos, concentricas; a exterior, com raios de 13 e 14 mm e a interior, com raios de 9 e 7 mm tendo as aberturas em sentido oposto, com os intervalos de seus extremos, respectivamente, de 4 e 3 mm e uma hélice, de três pás, com 7 mm de raio, com eixo no centro das referidas molas; os escreventes que passarão a usar duas penas cruzadas de 35 mm de comprimento cada uma; os enfermeiros que passarão a usar, no sentido vertical, uma tentacânula, envolvida por uma serpente, com 35 mm de comprimento; os fiéis que passarão a usar uma folha de acanto de 22 mm de comprimento por 10 mm na maior largura, com o pesciolo para a frente, colocada dentro de uma circunferência de 25 mm de diâmetro, cujo arco terá 2 mm de espessura.\n\n3ª, botões: convexos, dourados, com dois círculos concêntricos em relevo, sendo o de dentro aberto, na sua parte superior. Entre os dois círculos 20 estrelas, tambem em relevo. Na parte central, uma âncora com amarra, disposta verticalmente, encimada por uma estrela, três vezes maior do que as outras, formando com elas um circulo e ocupando a abertura deixada na parte superior do circulo. Todas as partes salientes dos botões serão polidas, o campo, fosco e burilado. Diâmetro dos botões: grandes, 20 mm.; médios, 13 mm e pequenos, 11 mm.\n\n4ª, camiseta: de malha de algodão, branca, tipo comum, com ou sem mangas;\n\n5ª, cuecas: de tecido branco;\n\n6ª, meias: de tecido preto ou branco.\n\n#### CAPíTULO IV — DO USO DOS UNIFORMES\n\n**Art. 7º** o jaquetão de que trata o art. 3º será de uso facultativo.\n\n**Art. 8º** As divisas e distintivos serão, obrigatoriamente, cosidos em todos os uniformes.\n\n**Parágrafo único.** Na japona, as divisas e distintivos poderão ser volantes.\n\n**Art. 9º** O uso de perneiras, em qualquer uniforme, exige borzeguins de couro preto.\n\n**Art. 10.** As combinações de uniformes serão as da tabela em vigor para os SO, exceto quanto ao jaquetão, que só será usado em passeio, por ser facultativo; os IF usarão o 2º uniforme para acompanhar os 1º e 2º dos SO.\n\n#### CAPÍTULO V — DISPOSIÇÕES TRANSITÓRIAS\n\n**Art. 11.** O uso exclusivo dos uniformes e peças constantes desta alteração entrará em vigor, obrigatoriamente, a partir de 1 de julho de 1932.\n\n**Parágrafo único.** Será, entretanto, permitido o uso dos novos dispositivos e divisas, nos atuais uniformes, até a data determinada neste artigo.\n\n**Art. 12.** O Governo não fará qualquer abono para confecção dos uniformes constantes desta, alteração.\n\nRio de Janeiro. 16 de julho de 1931. – Protogenes Pereira Guimarães.\n",
+      "contexto_prefixo": {
+        "path": "federal/decretos/1931/dec-20213-1931-07-16.md",
+        "urn": "urn:lex:br:federal:decreto:1931-07-16;20213",
+        "sha256_HTML": "885e03d0ac2a5f0df9a939b58680546afd6f681146d0a524075f0b540695af23",
+        "sha256_metadados": "80ead04a88437be396d3ddb06f572e16389dcd613f5bcfa6c389366ae88890d2",
+        "sha256_MD_preliminar": "0c8353070833e8aaeead6db8caed7baa72041878c293fff07f2837c2d7a3eaeb",
+        "epigrafe": {
+          "numero": "20213",
+          "data": "1931-07-16",
+          "epigrafe": "DECRETO N. 20.213 – DE 16 DE JULHO DE 1931"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/89245060-2c7c-4543-9e56-5d364938a871/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:25:15.535361+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/61c6ccb00fc07a402179c8c2a624b21acc3a8c4e47966cb9efe1a172793ab784.raw.gz",
+          "sha256_raw": "885e03d0ac2a5f0df9a939b58680546afd6f681146d0a524075f0b540695af23",
+          "bytes": 27454
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 20.213 – DE 16 DE JULHO DE 1931\n\nAltera o plano de uniformes das praças do Corpo de Marinheiros Nacionais, Grumetes e Aprendizes Marinheiros, na parte relativa aos inferiores do mesmo corpo\n\nO Chefe do Governo Provisório da República dos Estados Unidos do Brasil, usando das atribuições que lhe confere o art. 1º do decreto n. 19.398, de 11 de novembro do 1930, e\n\nConsiderando que os inferiores do Corpo de Marinheiros Nacionais teem acesso ao posto de sub-oficial e que, atualmente, seus uniformes são muito dessemelhantes aos dos sub-oficiais:\n\nQue as divisas e insígnias não distinguem perfeitamente a categoria dos inferiores;\n\nQue, na hierarquia militar, essa dessemelhança de uniformes entre os súb-oficiais o os inferiores acarreta, para estes, pesados onus, visto que, ao serem promovidos a sub-oficial, ficam obrigados à confeção de novos uniformes, o que não se daria, se variassem apenas as divisas ou insígnias do posto, como no caso dos sub-oficiais e que, finalmente, esta alteração não acarretará qualquer despesa para a Fazenda Nacional:\n\nDecreta:",
+        "primeiro_bloco_de_artigo": "**Art. 3º** Fica alterado o plano de uniforme, das praças do Corpo de Marinheiros Nacionais, Grumetes e Aprendizes Marinheiros, a que se, refere o decreto n. 18.025, de, 15 de dezembro de 1927, na parte relativa aos inferiores do mesmo Corpo, de acordo com o plano que a este acompanha, assinado pelo contra-almirante Protogenes Pereira Guimarães, ministro de Estado dos Negócios da Marinha.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO. 16 DE JULHO DE 1931",
+          "data": "1931-07-16",
+          "bloco_literal": "Rio de Janeiro. 16 de julho de 1931. – Protogenes Pereira Guimarães.\n"
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": true,
+        "autoridade_literal": "O Chefe do Governo Provisório da República dos Estados Unidos do Brasil, usando das atribuições que lhe confere o art. 1º do decreto n. 19.398, de 11 de novembro do 1930, e",
+        "ocorrencias_contextuais": [
+          {
+            "bloco_indice": 46,
+            "bloco_literal_integral": "1ª, Boné: armação de couro. Pala inclinada de 40 a 45º, de couro preto envernizado; a parte inferior, forrada de marroquim preto. Capa, de pano azul ferrete ou brim branco liso, à qual será dado feito, por meio de armação interna de crina ou outro material.Emblema, segundo o desenho, fixo em uma fita de lã preta, com 35 mm de largura. Fiel, de couro preto envernizado, com 1 cm de largura, de correr, preso nas extremidades por dois botões dourados, pequenos (desenho anexo)."
+          },
+          {
+            "bloco_indice": 52,
+            "bloco_literal_integral": "c) para os primeiros, segundos e terceiros sargentos: As divisas serão em número de duas, uma para cada braço, ficando a parte superior delas a 12 cm da costura dos ombros; serão constituidas, respectivamente, de cinco, quatro e três galões dourados, da largura de 7 mm, assentados sobre um fundo azul ferrete, distantes um do outro 2 mm e dispostos em ângulos de 130º, tendo colocado, na parte superior, o distintivo da respectiva especialidade, para os 1º, 2º e 3º uniformes, de acordo com o modelo, e, de cadarço preto em um fundo de mescla, para o 4º uniforme (desenho anexo);"
+          }
+        ]
+      },
+      "limites": "Retenção privada por este SHA, sem máscara ou alteração de qualquer candidato/canônico."
+    },
+    {
+      "path": "federal/decretos/1931/dec-20756-1931-12-04.md",
+      "urn": "urn:lex:br:federal:decreto:1931-12-04;20756",
+      "estado": "duvida_orcamentos_proprios",
+      "motivo": "Novos orçamentos expressamente baixados para aparelhos staffs elétricos; descrição/valores resumidos não provam a reprodução dos documentos. Dúvida separada, sem conclusão de ausência em todas as fontes.",
+      "sha256_MD_preliminar": "b558f3a7af66fa551f41740baeac6b85db0694948fc48ac75fb0befe76cceef2",
+      "sha256_HTML": "c91f28a52f850ab89e261209d73b525618f81a0eb660fa21dccde193ae4bf6da",
+      "sha256_API": "f43a81b070108651d6a44800a02f16aaf44de695480f2c37203dd0e379806cde",
+      "fontes": {
+        "path": "federal/decretos/1931/dec-20756-1931-12-04.md",
+        "urn": "urn:lex:br:federal:decreto:1931-12-04;20756",
+        "indice": {
+          "id": "439632",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "20756",
+          "norma": "DEC-20756-1931-12-04",
+          "normaNome": "Decreto nº 20.756 de 04/12/1931",
+          "ementa": "APROVA NOVOS ORÇAMENTOS, NA IMPORTÂNCIA TOTAL DE RÉIS 503:454$963, PARA AQUISIÇÃO E INSTALAÇÃO DE 46 APARELHOS STAFFS ELÉTRICOS NAS LINHAS DO RIO GRANDE E CALDAS, E CATALÃO, DA COMPANHIA MOGIANA DA ESTRADAS DE FERRO.",
+          "dataassinatura": "04/12/1931",
+          "anoassinatura": "1931",
+          "apelido": "DEC-20756-1931-12-04"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1931-12-04;20756&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-28T02:15:58.669985+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/6bf1a9bc4f903e910cf22de067c7d0d7e9574fa3f5d5704a7cd6f5052b15bebd.raw.gz",
+          "sha256_raw": "f43a81b070108651d6a44800a02f16aaf44de695480f2c37203dd0e379806cde",
+          "bytes": 2600
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/443a6962-6ca3-4729-ad0a-a2a2e04fb433/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:16:00.512244+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/eaa8a51bbcacd7c8d9333cd226cfccee9d50e3a97b5a1603345c742b7ca91cf9.raw.gz",
+          "sha256_raw": "c91f28a52f850ab89e261209d73b525618f81a0eb660fa21dccde193ae4bf6da",
+          "bytes": 9860
+        },
+        "encoding_escolhido": {
+          "datePublished": "1931-12-31",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/443a6962-6ca3-4729-ad0a-a2a2e04fb433/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 20.756 de 04/12/1931]  [Coleção de Leis do Brasil  de 31/12/1931 - vol.  004] (p. 43, col. 1)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1931-12-04;20756@1931-12-04~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "vinculos_literais": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Ficam aprovados os novos orçamentos, na importância total de 503:454$963 (quinhentos e três contos quatrocentos e cincoenta e quatro mil novecentos e Sessenta e três réis), os quais com este baixam, rubricados pelo diretor geral de Expediente da Secretaria de Estado do Ministério da Viação e Obras Publicas, em substituição aos aprovados pelo artigo único do decreto n. 19.159, de 8 de abril de 1930, para aquisição e instalação dos seguintes aparelhos staffs elétricos:",
+          "remissao_match": "COM ESTE BAIXAM",
+          "objetos_match": [
+            "ORCAMENTOS"
+          ]
+        }
+      ],
+      "fecho_literal": "Rio de Janeiro, 4 de dezembro de 1931, 110º da Independência e 43º da República.",
+      "conteudo_integral_apos_fecho": "GETULIO VARGAS.\n\nJosé Americo de Almeida\n",
+      "contexto_prefixo": {
+        "path": "federal/decretos/1931/dec-20756-1931-12-04.md",
+        "urn": "urn:lex:br:federal:decreto:1931-12-04;20756",
+        "sha256_HTML": "c91f28a52f850ab89e261209d73b525618f81a0eb660fa21dccde193ae4bf6da",
+        "sha256_metadados": "f43a81b070108651d6a44800a02f16aaf44de695480f2c37203dd0e379806cde",
+        "sha256_MD_preliminar": "b558f3a7af66fa551f41740baeac6b85db0694948fc48ac75fb0befe76cceef2",
+        "epigrafe": {
+          "numero": "20756",
+          "data": "1931-12-04",
+          "epigrafe": "DECRETO N. 20.756 – DE 4 DE DEZEMBRO DE 1931"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/443a6962-6ca3-4729-ad0a-a2a2e04fb433/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:16:00.512244+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/eaa8a51bbcacd7c8d9333cd226cfccee9d50e3a97b5a1603345c742b7ca91cf9.raw.gz",
+          "sha256_raw": "c91f28a52f850ab89e261209d73b525618f81a0eb660fa21dccde193ae4bf6da",
+          "bytes": 9860
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 20.756 – DE 4 DE DEZEMBRO DE 1931\n\nAprova novos orçamentos, na importância total de 503:454$963, para aquisição e instalação de 46 aparelhos staffs elétricos nas linhas do Rio Grande e Caldas, e Catalão, da Companhia Mogiana de Estradas de Ferro\n\nO Chefe do Governo Provisório da República dos Estados Unidos do Brasil, atendendo ao que requereu a Companhia Mogiana de Estradas de Ferro, a qual, com documentos apresentados ao Ministério da Viação e Obras Públicas provou que circunstâncias independentes de sua vontade impediram a aquisição, no prazo fixado pelo decreto n. 19.159, de 8 de abril de 1930, dos aparelhos staffs elétricos a que se refere o artigo único do mesmo decreto e das quais resultaram a impossibilidade de ser feita a aquisição pelos preços máximos constantes dos orçamentos aprovados; e de acordo com os pareceres prestados,\n\ndecreta:",
+        "primeiro_bloco_de_artigo": "**Artigo único.** Ficam aprovados os novos orçamentos, na importância total de 503:454$963 (quinhentos e três contos quatrocentos e cincoenta e quatro mil novecentos e Sessenta e três réis), os quais com este baixam, rubricados pelo diretor geral de Expediente da Secretaria de Estado do Ministério da Viação e Obras Publicas, em substituição aos aprovados pelo artigo único do decreto n. 19.159, de 8 de abril de 1930, para aquisição e instalação dos seguintes aparelhos staffs elétricos:",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 4 DE DEZEMBRO DE 1931",
+          "data": "1931-12-04",
+          "bloco_literal": "Rio de Janeiro, 4 de dezembro de 1931, 110º da Independência e 43º da República."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": true,
+        "autoridade_literal": "O Chefe do Governo Provisório da República dos Estados Unidos do Brasil, atendendo ao que requereu a Companhia Mogiana de Estradas de Ferro, a qual, com documentos apresentados ao Ministério da Viação e Obras Públicas provou que circunstâncias independentes de sua vontade impediram a aquisição, no prazo fixado pelo decreto n. 19.159, de 8 de abril de 1930, dos aparelhos staffs elétricos a que se refere o artigo único do mesmo decreto e das quais resultaram a impossibilidade de ser feita a aquisição pelos preços máximos constantes dos orçamentos aprovados; e de acordo com os pareceres prestados,",
+        "ocorrencias_contextuais": []
+      },
+      "limites": "Retenção privada por este SHA, sem máscara ou alteração de qualquer candidato/canônico."
+    },
+    {
+      "path": "federal/decretos/1932/dec-21507-1932-06-10.md",
+      "urn": "urn:lex:br:federal:decreto:1932-06-10;21507",
+      "estado": "objeto_tecnico_proprio_a_conferir",
+      "motivo": "Projeto ou orçamento próprio expressamente acompanhando/baixando com o ato; descrição, total ou tabela resumida não bastam para representar o projeto documental. Retenção contextual privada, sem afirmar inexistência em outra fonte.",
+      "sha256_MD_preliminar": "38ef99bbbbc15f23e21f94946c31e42d678a60e9ea2630c7ed1f529a437f8ebc",
+      "sha256_HTML": "fc11416c86cd3e3c28630ed6fa66698a226c8905a3ce7ca01bacd2c2d153a0b5",
+      "sha256_API": "6b8bea116d2807f87b72af587c352e3f1c19ccd23b2dafcd3ea08ffe1ddd8c6b",
+      "fontes": {
+        "path": "federal/decretos/1932/dec-21507-1932-06-10.md",
+        "urn": "urn:lex:br:federal:decreto:1932-06-10;21507",
+        "indice": {
+          "id": "441108",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "21507",
+          "norma": "DEC-21507-1932-06-10",
+          "normaNome": "Decreto nº 21.507 de 10/06/1932",
+          "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTANCIA TOTAL DE 236:366$348, PARA A CONSTRUÇÃO DE UMA NOVA PONTE SOBRE O ARROIO BASILIO, NA LINHA DE CACEQUI A RIO GRANDE, DA REDE DE VIAÇÃO FERREA FEDERAL DO RIO GRANDE DO SUL.",
+          "dataassinatura": "10/06/1932",
+          "anoassinatura": "1932",
+          "apelido": "DEC-21507-1932-06-10"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1932-06-10;21507&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-28T02:03:44.633907+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/7a68fb73a323b3e99f6a3d4f487ff78c3e7551fa641b64212bdc65bcc9f9ef12.raw.gz",
+          "sha256_raw": "6b8bea116d2807f87b72af587c352e3f1c19ccd23b2dafcd3ea08ffe1ddd8c6b",
+          "bytes": 2535
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/68267ab0-9022-4933-95d3-942ce278a7be/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:03:46.493390+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/aee4a457ba17ef9d6b44dc23ceeb831ea71489e16975bd2b7d72b846ad9c47e9.raw.gz",
+          "sha256_raw": "fc11416c86cd3e3c28630ed6fa66698a226c8905a3ce7ca01bacd2c2d153a0b5",
+          "bytes": 9608
+        },
+        "encoding_escolhido": {
+          "datePublished": "1932-12-31",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/68267ab0-9022-4933-95d3-942ce278a7be/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 21.507 de 10/06/1932]  [Coleção de Leis do Brasil  de 31/12/1932 - vol.  002] (p. 363, col. 1)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1932-06-10;21507@1932-06-10~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "vinculos_literais": [
+        {
+          "bloco_indice": 3,
+          "literal_integral": "**Artigo único.** Ficam aprovados os projetos e orçamento que a este acompanham, rubricados pelo diretor geral do Expediente, interino, da Secretaria de Estado do Ministério de Viação e Obras Públicas, para a construção de uma nova ponte sobre o arroio Basílio, no quilômetro 487+124, da linha de Cacequí a Rio Grande, da Rede de Viação Férrea Federal do Rio Grande do Sul, arrendada ao referido Estado, destinando-se essa obra a substituir a que foi arrastada pelas águas por ocasião da grande enchente verificada em 1928.",
+          "remissao_match": "QUE A ESTE ACOMPANHAM",
+          "objetos_match": [
+            "PROJETOS",
+            "ORCAMENTO"
+          ]
+        }
+      ],
+      "fecho_literal": "Rio de Janeiro, 10 de junho de 1932, 111º da Independência e 44º da República.",
+      "conteudo_integral_apos_fecho": "Getulio Vargas\n\nFernando Augusto d’Almeida Brandão, encarregado do expediente na ausência do Ministro da Viação e Obras Públicas.\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n(\\*) Decreto n. 21.507, de 10 de junho de 1932 – Retificação publicada no Diário Oficial, de 30 de junho de 1932:\n\nOnde se lê, no § 2º do artigo único, “pelo” leia-se \"do”.\n",
+      "contexto_prefixo": {
+        "path": "federal/decretos/1932/dec-21507-1932-06-10.md",
+        "urn": "urn:lex:br:federal:decreto:1932-06-10;21507",
+        "sha256_HTML": "fc11416c86cd3e3c28630ed6fa66698a226c8905a3ce7ca01bacd2c2d153a0b5",
+        "sha256_metadados": "6b8bea116d2807f87b72af587c352e3f1c19ccd23b2dafcd3ea08ffe1ddd8c6b",
+        "sha256_MD_preliminar": "38ef99bbbbc15f23e21f94946c31e42d678a60e9ea2630c7ed1f529a437f8ebc",
+        "epigrafe": {
+          "numero": "21507",
+          "data": "1932-06-10",
+          "epigrafe": "DECRETO N. 21.507 – DE 10 DE JUNHO DE 1932 ()"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/68267ab0-9022-4933-95d3-942ce278a7be/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:03:46.493390+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/aee4a457ba17ef9d6b44dc23ceeb831ea71489e16975bd2b7d72b846ad9c47e9.raw.gz",
+          "sha256_raw": "fc11416c86cd3e3c28630ed6fa66698a226c8905a3ce7ca01bacd2c2d153a0b5",
+          "bytes": 9608
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 21.507 – DE 10 DE JUNHO DE 1932 (\\*)\n\nAprova o projeto e orçamento, na importância total de 236:366$348, para a construção de uma nova ponte sobre o arroio Basílio, na linha de Cacequí a Rio Grande, da Rede de Viação Férrea Federal do Rio Grande do Sul\n\nO Chefe do Governo Provisório da República dos Estados Unidos do Brasil, atendendo ao que requereu o Estado do Rio Grande do Sul, e de acordo com os pareceres prestados, decreta:",
+        "primeiro_bloco_de_artigo": "**Artigo único.** Ficam aprovados os projetos e orçamento que a este acompanham, rubricados pelo diretor geral do Expediente, interino, da Secretaria de Estado do Ministério de Viação e Obras Públicas, para a construção de uma nova ponte sobre o arroio Basílio, no quilômetro 487+124, da linha de Cacequí a Rio Grande, da Rede de Viação Férrea Federal do Rio Grande do Sul, arrendada ao referido Estado, destinando-se essa obra a substituir a que foi arrastada pelas águas por ocasião da grande enchente verificada em 1928.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 10 DE JUNHO DE 1932",
+          "data": "1932-06-10",
+          "bloco_literal": "Rio de Janeiro, 10 de junho de 1932, 111º da Independência e 44º da República."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": true,
+        "autoridade_literal": "O Chefe do Governo Provisório da República dos Estados Unidos do Brasil, atendendo ao que requereu o Estado do Rio Grande do Sul, e de acordo com os pareceres prestados, decreta:",
+        "ocorrencias_contextuais": []
+      },
+      "limites": "Retenção privada por este SHA, sem máscara ou alteração de qualquer candidato/canônico."
+    },
+    {
+      "path": "federal/decretos/1932/dec-21369-1932-05-06.md",
+      "urn": "urn:lex:br:federal:decreto:1932-05-06;21369",
+      "estado": "objeto_tecnico_proprio_a_conferir",
+      "motivo": "Projeto ou orçamento próprio expressamente acompanhando/baixando com o ato; descrição, total ou tabela resumida não bastam para representar o projeto documental. Retenção contextual privada, sem afirmar inexistência em outra fonte.",
+      "sha256_MD_preliminar": "f71f42b66ee9c381a3917ff321ea812f120044dd9dc6626f8fee66c22e145114",
+      "sha256_HTML": "cadcf6eb8bf05caedd3d95f4ebebea6140c3f2e41f7798263f27a8311b656245",
+      "sha256_API": "dce99c8f8269f8737e3bf98865e547705200114a3e48050395db986bab780637",
+      "fontes": {
+        "path": "federal/decretos/1932/dec-21369-1932-05-06.md",
+        "urn": "urn:lex:br:federal:decreto:1932-05-06;21369",
+        "indice": {
+          "id": "440833",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "21369",
+          "norma": "DEC-21369-1932-05-06",
+          "normaNome": "Decreto nº 21.369 de 06/05/1932",
+          "ementa": "APROVA O PROJETO E ORÇAMENTO NA IMPORTÂNCIA DE 68:970$564, PARA CONSTRUÇÃO DE UM DESVIO DE CRUZAMENTO E DE DUAS CASAS PARA MORADIA DE PESSOAL, NO QUILÔMETRO 235, DA LINHA SANTA MARIA-MARCELINO RAMOS, DA REDE DE VIAÇÃO FÉRREA FEDERAL DO RIO GRANDE DO SUL.",
+          "dataassinatura": "06/05/1932",
+          "anoassinatura": "1932",
+          "apelido": "DEC-21369-1932-05-06"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1932-05-06;21369&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-28T02:05:58.664085+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/3cdc5aad130a26b184e789a93eeb6506b93bf8a4b58a848cf324c47d2389147a.raw.gz",
+          "sha256_raw": "dce99c8f8269f8737e3bf98865e547705200114a3e48050395db986bab780637",
+          "bytes": 2572
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/dc10cfda-a974-4cef-bc29-8157949752cc/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:06:00.515360+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/46dbb0298910aebd686cef107b6267fee0b63d789cf7eebe660b44d1ae998d16.raw.gz",
+          "sha256_raw": "cadcf6eb8bf05caedd3d95f4ebebea6140c3f2e41f7798263f27a8311b656245",
+          "bytes": 9273
+        },
+        "encoding_escolhido": {
+          "datePublished": "1932-12-31",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/dc10cfda-a974-4cef-bc29-8157949752cc/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 21.369 de 06/05/1932]  [Coleção de Leis do Brasil  de 31/12/1932 - vol.  002] (p. 215, col. 1)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1932-05-06;21369@1932-05-06~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "vinculos_literais": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Ficam aprovados o projeto e orçamento que com este baixam, rubricados pelo diretor geral, interino, do Expediente da Secretaria de Estado do Ministério da Viação e Obras Públicas, para a construção de um desvio de cruzamento e de duas casas para moradia do encarregado e do guarda chaves, respectivamente, no quilômetro 235, da linha de Santa Maria-Marcelino Ramos, da Rede de Viação Férrea Federal do Rio Grande do Sul.",
+          "remissao_match": "COM ESTE BAIXAM",
+          "objetos_match": [
+            "PROJETO",
+            "ORCAMENTO"
+          ]
+        }
+      ],
+      "fecho_literal": "Rio de Janeiro, 6 de maio de 1932, 111º da Independência e 44º da República.",
+      "conteudo_integral_apos_fecho": "Getulio Vargas\n\nFernando Augusto de Almeida Brandão, encarregado do expediente, na ausência do ministro da Viação e Obras Públicas.\n",
+      "contexto_prefixo": {
+        "path": "federal/decretos/1932/dec-21369-1932-05-06.md",
+        "urn": "urn:lex:br:federal:decreto:1932-05-06;21369",
+        "sha256_HTML": "cadcf6eb8bf05caedd3d95f4ebebea6140c3f2e41f7798263f27a8311b656245",
+        "sha256_metadados": "dce99c8f8269f8737e3bf98865e547705200114a3e48050395db986bab780637",
+        "sha256_MD_preliminar": "f71f42b66ee9c381a3917ff321ea812f120044dd9dc6626f8fee66c22e145114",
+        "epigrafe": {
+          "numero": "21369",
+          "data": "1932-05-06",
+          "epigrafe": "DECRETO N. 21.369 – DE 6 DE MAIO DE 1932"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/dc10cfda-a974-4cef-bc29-8157949752cc/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:06:00.515360+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/46dbb0298910aebd686cef107b6267fee0b63d789cf7eebe660b44d1ae998d16.raw.gz",
+          "sha256_raw": "cadcf6eb8bf05caedd3d95f4ebebea6140c3f2e41f7798263f27a8311b656245",
+          "bytes": 9273
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 21.369 – DE 6 DE MAIO DE 1932\n\nAprova o projeto e orçamento na importância de 68:970$564, para construção de um desvio de cruzamento e de duas casas para moradia de pessoal, no quilômetro 235, da linha Santa Maria-Marcelino Ramos, da Rede de Viação Férrea Federal do Rio Grande do Sul\n\nO Chefe do Governo Provisório da República dos Estados Unidos do Brasil, atendendo ao que solicitou o Estado do Rio Grande do Sul, e de acordo com os pareceres prestados,\n\ndecreta:",
+        "primeiro_bloco_de_artigo": "**Artigo único.** Ficam aprovados o projeto e orçamento que com este baixam, rubricados pelo diretor geral, interino, do Expediente da Secretaria de Estado do Ministério da Viação e Obras Públicas, para a construção de um desvio de cruzamento e de duas casas para moradia do encarregado e do guarda chaves, respectivamente, no quilômetro 235, da linha de Santa Maria-Marcelino Ramos, da Rede de Viação Férrea Federal do Rio Grande do Sul.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 6 DE MAIO DE 1932",
+          "data": "1932-05-06",
+          "bloco_literal": "Rio de Janeiro, 6 de maio de 1932, 111º da Independência e 44º da República."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": true,
+        "autoridade_literal": "O Chefe do Governo Provisório da República dos Estados Unidos do Brasil, atendendo ao que solicitou o Estado do Rio Grande do Sul, e de acordo com os pareceres prestados,",
+        "ocorrencias_contextuais": []
+      },
+      "limites": "Retenção privada por este SHA, sem máscara ou alteração de qualquer candidato/canônico."
+    },
+    {
+      "path": "federal/decretos/1931/dec-20469-1931-10-02.md",
+      "urn": "urn:lex:br:federal:decreto:1931-10-02;20469",
+      "estado": "objeto_tecnico_proprio_a_conferir",
+      "motivo": "Projeto ou orçamento próprio expressamente acompanhando/baixando com o ato; descrição, total ou tabela resumida não bastam para representar o projeto documental. Retenção contextual privada, sem afirmar inexistência em outra fonte.",
+      "sha256_MD_preliminar": "18cd9dbd92233f213b6e974ef046c8d7b2d44f9391128da66350fced10cf06f5",
+      "sha256_HTML": "6a3e2f0c3fd94bd58cf65c18fc586fef85dd755a62f3f8d9857b147910c39bbe",
+      "sha256_API": "a021a5c88e5449b4112f00f97fdfdbbc5deb19e60d8c9aa21d2bdced55ab345b",
+      "fontes": {
+        "path": "federal/decretos/1931/dec-20469-1931-10-02.md",
+        "urn": "urn:lex:br:federal:decreto:1931-10-02;20469",
+        "indice": {
+          "id": "439059",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "20469",
+          "norma": "DEC-20469-1931-10-02",
+          "normaNome": "Decreto nº 20.469 de 02/10/1931",
+          "ementa": "APROVA OS PROJETOS E RESPECTIVOS ORÇAMENTOS, NA IMPORTÂNCIA TOTAL DE 84:994$124, PARA OS REFORÇOS DE QUE NECESSITAM 36(TRINTA E SEIS) PONTILHÕES SITUADOS NA LINHA DE SANTA MARIA A PORTO ALEGRE, DA REDE DE VIAÇÃO FÉRREA FEDERAL DO RIO GRANDE DO SUL.",
+          "dataassinatura": "02/10/1931",
+          "anoassinatura": "1931",
+          "apelido": "DEC-20469-1931-10-02"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1931-10-02;20469&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-28T02:20:34.104860+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/6212e7d90d8c8981f5602e44c21b1293e60458d6751967b5f952cf198c52e3ec.raw.gz",
+          "sha256_raw": "a021a5c88e5449b4112f00f97fdfdbbc5deb19e60d8c9aa21d2bdced55ab345b",
+          "bytes": 2619
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/918716b0-e1a0-4320-8760-53ca5ea5c0f1/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:20:35.992933+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/41dd5c6b98ae94adeb30aa178f0c7a11b295703d6c2306c8e07524da810b1234.raw.gz",
+          "sha256_raw": "6a3e2f0c3fd94bd58cf65c18fc586fef85dd755a62f3f8d9857b147910c39bbe",
+          "bytes": 9090
+        },
+        "encoding_escolhido": {
+          "datePublished": "1931-12-31",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/918716b0-e1a0-4320-8760-53ca5ea5c0f1/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 20.469 de 02/10/1931]  [Coleção de Leis do Brasil  de 31/12/1931 - vol.  003] (p. 221, col. 1)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1931-10-02;20469@1931-10-02~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "vinculos_literais": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo unico.** Ficam aprovados os projetos e respectivos orçamentos, os quais com este baixam, rubricados pelo diretor geral do Expediente da Secretaria de Estado do Ministerio da Viação e Obras Públicas, para os reforços de que necessitam 36 (trinta e seis) pontilhões situados na linha de Santa Maria a Porto Alegre, da Rêde de Viação Ferrea Federal do Rio Grande do Sul, arrendada ao referido Estado.",
+          "remissao_match": "COM ESTE BAIXAM",
+          "objetos_match": [
+            "PROJETOS",
+            "ORCAMENTOS"
+          ]
+        }
+      ],
+      "fecho_literal": "Rio de Janeiro, 2 de outubro de 1931, 110º da Independencia e 43º da República.",
+      "conteudo_integral_apos_fecho": "Getulio Vargas.\n\nJosé Americo de Almeida.\n",
+      "contexto_prefixo": {
+        "path": "federal/decretos/1931/dec-20469-1931-10-02.md",
+        "urn": "urn:lex:br:federal:decreto:1931-10-02;20469",
+        "sha256_HTML": "6a3e2f0c3fd94bd58cf65c18fc586fef85dd755a62f3f8d9857b147910c39bbe",
+        "sha256_metadados": "a021a5c88e5449b4112f00f97fdfdbbc5deb19e60d8c9aa21d2bdced55ab345b",
+        "sha256_MD_preliminar": "18cd9dbd92233f213b6e974ef046c8d7b2d44f9391128da66350fced10cf06f5",
+        "epigrafe": {
+          "numero": "20469",
+          "data": "1931-10-02",
+          "epigrafe": "DECRETO N. 20.469 – DE 2 DE OUTUBRO DE 1931"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/918716b0-e1a0-4320-8760-53ca5ea5c0f1/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:20:35.992933+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/41dd5c6b98ae94adeb30aa178f0c7a11b295703d6c2306c8e07524da810b1234.raw.gz",
+          "sha256_raw": "6a3e2f0c3fd94bd58cf65c18fc586fef85dd755a62f3f8d9857b147910c39bbe",
+          "bytes": 9090
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 20.469 – DE 2 DE OUTUBRO DE 1931\n\nAprova os projetos e respectivos orçamentos, na importancia total de 84:994$124, para os reforços de que necessitam 36 (trinta e seis) pontilhões situados na linha de Santa Maria a Porto Alegre, da Rêde de Viação Ferrea Federal do Rio Grande do Sul\n\nO Chefe do Governo Provisorio da República dos Estados Unidos do Brasil, atendendo ao que requereu o Estado do Rio Grande do Sul, e de acôrdo com os pareceres prestados,\n\ndecreta:",
+        "primeiro_bloco_de_artigo": "**Artigo unico.** Ficam aprovados os projetos e respectivos orçamentos, os quais com este baixam, rubricados pelo diretor geral do Expediente da Secretaria de Estado do Ministerio da Viação e Obras Públicas, para os reforços de que necessitam 36 (trinta e seis) pontilhões situados na linha de Santa Maria a Porto Alegre, da Rêde de Viação Ferrea Federal do Rio Grande do Sul, arrendada ao referido Estado.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 2 DE OUTUBRO DE 1931",
+          "data": "1931-10-02",
+          "bloco_literal": "Rio de Janeiro, 2 de outubro de 1931, 110º da Independencia e 43º da República."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": true,
+        "autoridade_literal": "O Chefe do Governo Provisorio da República dos Estados Unidos do Brasil, atendendo ao que requereu o Estado do Rio Grande do Sul, e de acôrdo com os pareceres prestados,",
+        "ocorrencias_contextuais": []
+      },
+      "limites": "Retenção privada por este SHA, sem máscara ou alteração de qualquer candidato/canônico."
+    },
+    {
+      "path": "federal/decretos/1932/dec-21370-1932-05-06.md",
+      "urn": "urn:lex:br:federal:decreto:1932-05-06;21370",
+      "estado": "objeto_tecnico_proprio_a_conferir",
+      "motivo": "Projeto ou orçamento próprio expressamente acompanhando/baixando com o ato; descrição, total ou tabela resumida não bastam para representar o projeto documental. Retenção contextual privada, sem afirmar inexistência em outra fonte.",
+      "sha256_MD_preliminar": "3b861f76d1589d07173cd8fdbf1ebca29a8c9ac2fe9ccd32fc2fd66518c51698",
+      "sha256_HTML": "e703946816c17acfc3a009f9594893dd6748a0e7a68d4440f4b3298ebf106a35",
+      "sha256_API": "a237d84c5f32a9315516bdf3e2a89f52f0e985444d5163cc66bbf9bbec1c8eda",
+      "fontes": {
+        "path": "federal/decretos/1932/dec-21370-1932-05-06.md",
+        "urn": "urn:lex:br:federal:decreto:1932-05-06;21370",
+        "indice": {
+          "id": "440835",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "21370",
+          "norma": "DEC-21370-1932-05-06",
+          "normaNome": "Decreto nº 21.370 de 06/05/1932",
+          "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE 67:248$548, PARA A CONSTRUÇÃO DE UM DESVIO DE CRUZAMENTO E DE DUAS CASAS PARA MORADIA DE PESSOAL, NO QUILÔMETRO DE 451+900 DA LINHA DE SANTA MARIA A MARCELINO RAMOS, DA REDE DE VIAÇÃO FÉRREA FEDERAL DO RIO GRANDE DO SUL.",
+          "dataassinatura": "06/05/1932",
+          "anoassinatura": "1932",
+          "apelido": "DEC-21370-1932-05-06"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1932-05-06;21370&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-28T02:05:57.169812+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/9d034733fe8974d3528bdf0befda7d39eb6586513107e9bc2370453b8ae07f81.raw.gz",
+          "sha256_raw": "a237d84c5f32a9315516bdf3e2a89f52f0e985444d5163cc66bbf9bbec1c8eda",
+          "bytes": 2581
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/f354943a-5453-4eab-b766-f2be78b92dc6/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:05:59.017825+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/70419fb91f4cbfd36becdba84a949abbd1619ce5f4c0df4dd08a030336cd086a.raw.gz",
+          "sha256_raw": "e703946816c17acfc3a009f9594893dd6748a0e7a68d4440f4b3298ebf106a35",
+          "bytes": 9328
+        },
+        "encoding_escolhido": {
+          "datePublished": "1932-12-31",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/f354943a-5453-4eab-b766-f2be78b92dc6/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 21.370 de 06/05/1932]  [Coleção de Leis do Brasil  de 31/12/1932 - vol.  002] (p. 215, col. 1)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1932-05-06;21370@1932-05-06~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "vinculos_literais": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Ficam aprovados o projeto e orçamento, que a este acompanham, rubricados pelo diretor geral de Expediente, interino, da Secretaria de Estado do Ministério da Viação e Obras Públicas, para a construção de um desvio de cruzamento e de duas casas para moradia do encarregado e do guarda-chaves, respectivamente, no quilômetro 451+900 da linha de Santa Maria e Marcellino Ramos, da Rede de Viação Férrea Federal do Rio Grande do Sul.",
+          "remissao_match": "QUE A ESTE ACOMPANHAM",
+          "objetos_match": [
+            "PROJETO",
+            "ORCAMENTO"
+          ]
+        }
+      ],
+      "fecho_literal": "Rio de Janeiro, 6 de maio de 1932, 111º da Independência e 44º da República.",
+      "conteudo_integral_apos_fecho": "GETULIO Vargas\n\nFernando Augusto de Almeida Brandão, encarregado do expediente, na ausência do ministro da Viação e Obras Públicas.\n",
+      "contexto_prefixo": {
+        "path": "federal/decretos/1932/dec-21370-1932-05-06.md",
+        "urn": "urn:lex:br:federal:decreto:1932-05-06;21370",
+        "sha256_HTML": "e703946816c17acfc3a009f9594893dd6748a0e7a68d4440f4b3298ebf106a35",
+        "sha256_metadados": "a237d84c5f32a9315516bdf3e2a89f52f0e985444d5163cc66bbf9bbec1c8eda",
+        "sha256_MD_preliminar": "3b861f76d1589d07173cd8fdbf1ebca29a8c9ac2fe9ccd32fc2fd66518c51698",
+        "epigrafe": {
+          "numero": "21370",
+          "data": "1932-05-06",
+          "epigrafe": "DECRETO N. 21.370 – DE 6 DE MAIO DE 1932"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/f354943a-5453-4eab-b766-f2be78b92dc6/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:05:59.017825+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/70419fb91f4cbfd36becdba84a949abbd1619ce5f4c0df4dd08a030336cd086a.raw.gz",
+          "sha256_raw": "e703946816c17acfc3a009f9594893dd6748a0e7a68d4440f4b3298ebf106a35",
+          "bytes": 9328
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 21.370 – DE 6 DE MAIO DE 1932\n\nAprova o projeto e orçamento, na importância de 67:248$548, para a construção de um desvio de cruzamento e de duas casas para moradia de pessoal, no quilômetro 451+900 da linha de Santa Maria a Marcellino Ramos, da Rede de Viação Férrea Federal do Rio Grande do Sul\n\nO Chefe do Governo Provisório da República dos Estados Unidos do Brasil, atendendo ao que requereu o Estado do Rio Grande do Sul, arrendatário da Rede de Viação Férrea Federal do referido Estado, e de acordo com os pareceres prestados,\n\ndecreta:",
+        "primeiro_bloco_de_artigo": "**Artigo único.** Ficam aprovados o projeto e orçamento, que a este acompanham, rubricados pelo diretor geral de Expediente, interino, da Secretaria de Estado do Ministério da Viação e Obras Públicas, para a construção de um desvio de cruzamento e de duas casas para moradia do encarregado e do guarda-chaves, respectivamente, no quilômetro 451+900 da linha de Santa Maria e Marcellino Ramos, da Rede de Viação Férrea Federal do Rio Grande do Sul.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 6 DE MAIO DE 1932",
+          "data": "1932-05-06",
+          "bloco_literal": "Rio de Janeiro, 6 de maio de 1932, 111º da Independência e 44º da República."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": true,
+        "autoridade_literal": "O Chefe do Governo Provisório da República dos Estados Unidos do Brasil, atendendo ao que requereu o Estado do Rio Grande do Sul, arrendatário da Rede de Viação Férrea Federal do referido Estado, e de acordo com os pareceres prestados,",
+        "ocorrencias_contextuais": []
+      },
+      "limites": "Retenção privada por este SHA, sem máscara ou alteração de qualquer candidato/canônico."
+    },
+    {
+      "path": "federal/decretos/1931/dec-20617-1931-11-06.md",
+      "urn": "urn:lex:br:federal:decreto:1931-11-06;20617",
+      "estado": "objeto_tecnico_proprio_a_conferir",
+      "motivo": "Projeto ou orçamento próprio expressamente acompanhando/baixando com o ato; descrição, total ou tabela resumida não bastam para representar o projeto documental. Retenção contextual privada, sem afirmar inexistência em outra fonte.",
+      "sha256_MD_preliminar": "99e3c6bd00054cd5ff426c3244d0b65a3ad74c93aba52be720138a572fc3d337",
+      "sha256_HTML": "71cea09a3c57d04c8123e7b06d0c8405f517220fc8f7fb94142beb1bc74c4d9d",
+      "sha256_API": "e1a18c489893e9fd55986bd07d32a4f98514eb0a42950a8981caa92efed00505",
+      "fontes": {
+        "path": "federal/decretos/1931/dec-20617-1931-11-06.md",
+        "urn": "urn:lex:br:federal:decreto:1931-11-06;20617",
+        "indice": {
+          "id": "439355",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "20617",
+          "norma": "DEC-20617-1931-11-06",
+          "normaNome": "Decreto nº 20.617 de 06/11/1931",
+          "ementa": "APROVA O PROJETO E RESPECTIVO ORÇAMENTO, NA IMPORTÂNCIA DE 28:215$946, PARA O AUMENTO DO EDIFÍCIO DA ESTAÇÃO DE SAPUCAIA, DA LINHA DE SANTA MARIA A PORTO ALEGRE, DA REDE DE VIAÇÃO FÉRREA FEDERAL DO RIO GRANDE DO SUL.",
+          "dataassinatura": "06/11/1931",
+          "anoassinatura": "1931",
+          "apelido": "DEC-20617-1931-11-06"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1931-11-06;20617&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-28T02:18:12.618207+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/71e358c1598e866a70338cf84bce2f6173107e27b423cc7416990428e53fec5f.raw.gz",
+          "sha256_raw": "e1a18c489893e9fd55986bd07d32a4f98514eb0a42950a8981caa92efed00505",
+          "bytes": 2547
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/ca30a48b-071c-43be-89ac-a23d032b2b17/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:18:14.494075+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/e9ba949945234fdea5c1cb936c29bef824a9196ddec401cb26699c91b770f077.raw.gz",
+          "sha256_raw": "71cea09a3c57d04c8123e7b06d0c8405f517220fc8f7fb94142beb1bc74c4d9d",
+          "bytes": 9467
+        },
+        "encoding_escolhido": {
+          "datePublished": "1931-12-31",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/ca30a48b-071c-43be-89ac-a23d032b2b17/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 20.617 de 06/11/1931]  [Coleção de Leis do Brasil  de 31/12/1931 - vol.  003] (p. 459, col. 1)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1931-11-06;20617@1931-11-06~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "vinculos_literais": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo unico.** Ficam aprovados o projeto e orçamento que com este baixam, rubricados pelo diretor geral de Expediente da Secretaria de Estado do Ministerio da Viação e Obras Públicas, para o aumento do edificio da estação de Sapucaia, situada no quilometro 362.500, da linha de Santa Maria a Porto Alegre, da Rêde de Viação Ferrea Federal do Rio Grande do Sul, arrendada ao referido Estado.",
+          "remissao_match": "COM ESTE BAIXAM",
+          "objetos_match": [
+            "PROJETO",
+            "ORCAMENTO"
+          ]
+        }
+      ],
+      "fecho_literal": "Rio de Janeiro, 6 de novembro de 1931, 110º da Independencia e 43º da Republica.",
+      "conteudo_integral_apos_fecho": "GETULIO VARGAS.\n\nJosé Americo de Almeida.\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n(\\*) Decreto n. 20.617, de 6 de novembro de 1931 – Retificação publicada no Diario Oficial de 25 de novembro de 1931:\n\n“No § 1º onde se lê: “combinado” leia-se “combinada”.\n",
+      "contexto_prefixo": {
+        "path": "federal/decretos/1931/dec-20617-1931-11-06.md",
+        "urn": "urn:lex:br:federal:decreto:1931-11-06;20617",
+        "sha256_HTML": "71cea09a3c57d04c8123e7b06d0c8405f517220fc8f7fb94142beb1bc74c4d9d",
+        "sha256_metadados": "e1a18c489893e9fd55986bd07d32a4f98514eb0a42950a8981caa92efed00505",
+        "sha256_MD_preliminar": "99e3c6bd00054cd5ff426c3244d0b65a3ad74c93aba52be720138a572fc3d337",
+        "epigrafe": {
+          "numero": "20617",
+          "data": "1931-11-06",
+          "epigrafe": "DECRETO N. 20.617 – DE 6 DE NOVEMBRO DE 1931 ()"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/ca30a48b-071c-43be-89ac-a23d032b2b17/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:18:14.494075+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/e9ba949945234fdea5c1cb936c29bef824a9196ddec401cb26699c91b770f077.raw.gz",
+          "sha256_raw": "71cea09a3c57d04c8123e7b06d0c8405f517220fc8f7fb94142beb1bc74c4d9d",
+          "bytes": 9467
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 20.617 – DE 6 DE NOVEMBRO DE 1931 (\\*)\n\nAprova o projeto e respectivo orçamento, na importancia de 28:215$946, para o aumento do edificio da estação de Sapucaia, da linha de Santa Maria a Porto Alegre, da Rêde de Viação Ferrea Federal do Rio Grande do Sul\n\nO Chefe do Governo Provisorio da Republica dos Estados Unidos do Brasil, atendendo ao que requereu o Estado do Rio Grande do Sul e de acôrdo com os pareceres prestados,\n\ndecreta:",
+        "primeiro_bloco_de_artigo": "**Artigo unico.** Ficam aprovados o projeto e orçamento que com este baixam, rubricados pelo diretor geral de Expediente da Secretaria de Estado do Ministerio da Viação e Obras Públicas, para o aumento do edificio da estação de Sapucaia, situada no quilometro 362.500, da linha de Santa Maria a Porto Alegre, da Rêde de Viação Ferrea Federal do Rio Grande do Sul, arrendada ao referido Estado.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 6 DE NOVEMBRO DE 1931",
+          "data": "1931-11-06",
+          "bloco_literal": "Rio de Janeiro, 6 de novembro de 1931, 110º da Independencia e 43º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": true,
+        "autoridade_literal": "O Chefe do Governo Provisorio da Republica dos Estados Unidos do Brasil, atendendo ao que requereu o Estado do Rio Grande do Sul e de acôrdo com os pareceres prestados,",
+        "ocorrencias_contextuais": []
+      },
+      "limites": "Retenção privada por este SHA, sem máscara ou alteração de qualquer candidato/canônico."
+    },
+    {
+      "path": "federal/decretos/1932/dec-21465-1932-06-03.md",
+      "urn": "urn:lex:br:federal:decreto:1932-06-03;21465",
+      "estado": "objeto_tecnico_proprio_a_conferir",
+      "motivo": "Projeto ou orçamento próprio expressamente acompanhando/baixando com o ato; descrição, total ou tabela resumida não bastam para representar o projeto documental. Retenção contextual privada, sem afirmar inexistência em outra fonte.",
+      "sha256_MD_preliminar": "be6669101ff99764be12c7dbeca06ddd9076d527e3c118f31cf0cea5e626c3ba",
+      "sha256_HTML": "a22c2ec5476df52e10098be4b6e1b05384d509f5cb1054f3833519f16ca137ee",
+      "sha256_API": "c6b9f859a9d164c5794ebb922af80875c1da4dd2d8512c839bfabdc60802dfac",
+      "fontes": {
+        "path": "federal/decretos/1932/dec-21465-1932-06-03.md",
+        "urn": "urn:lex:br:federal:decreto:1932-06-03;21465",
+        "indice": {
+          "id": "441025",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "21465",
+          "norma": "DEC-21465-1932-06-03",
+          "normaNome": "Decreto nº 21.465 de 03/06/1932",
+          "ementa": "APROVA OS PROJETOS E RESPECTIVOS ORÇAMENTOS, NA IMPORTANCIA TOTAL DE 51:305$224, PARA A CONSTRUÇÃO DE UM DESVIO DE CRUZAMENTO, UMA CASA PARA MORADIA DO ENCARREGADO E UM EMBARCADOURO PARA GADO, NO KM. 96+116,70 DA LINHA DE SANTA MARIA A MARCELINO RAMOS, NA REDE DE VIAÇÃO FÉRREA FEDERAL DO RIO GRANDE DO SUL.",
+          "dataassinatura": "03/06/1932",
+          "anoassinatura": "1932",
+          "apelido": "DEC-21465-1932-06-03"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1932-06-03;21465&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-28T02:04:25.124347+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/d75bd42d81613996798dcb5a82444a3add835b5c723108d44504e646fcde514a.raw.gz",
+          "sha256_raw": "c6b9f859a9d164c5794ebb922af80875c1da4dd2d8512c839bfabdc60802dfac",
+          "bytes": 2681
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/0523e71a-1498-45f8-b741-e564db4be73c/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:04:27.043691+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/8f38ab9e37426d8afb4ea2434bc9f8c8944d52a4171079714cc5188ac2736260.raw.gz",
+          "sha256_raw": "a22c2ec5476df52e10098be4b6e1b05384d509f5cb1054f3833519f16ca137ee",
+          "bytes": 10124
+        },
+        "encoding_escolhido": {
+          "datePublished": "1932-12-31",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/0523e71a-1498-45f8-b741-e564db4be73c/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 21.465 de 03/06/1932]  [Coleção de Leis do Brasil  de 31/12/1932 - vol.  002] (p. 318, col. 1)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1932-06-03;21465@1932-06-03~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "vinculos_literais": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo único.** Ficam aprovados os projetos e orçamentos que a este acompanham, rubricados pela diretor geral de expediente, interino, da Secretaria de Estado de Ministério da Viação Obras Públicas para a construção de um desvio de cruzamento, uma casa para o respectivo encarregado e um embarcadouro para gado, no quilometro 96 + 116.70 da linha de Santa Maria a Marcelino Ramos, da Rede de Viação Férrea Federal do Rio Grande do Sul, arrendada ao referido Estado.",
+          "remissao_match": "QUE A ESTE ACOMPANHAM",
+          "objetos_match": [
+            "PROJETOS",
+            "ORCAMENTOS"
+          ]
+        }
+      ],
+      "fecho_literal": "Rio de Janeiro, 3 de junho de 1932, 111º da Independência e 44º da República.",
+      "conteudo_integral_apos_fecho": "GETULIO Vargas.\n\nFernando Augusto de Almeida Brandão, encarregado do expediente, na ausência do Ministro da Viação e Obras Públicas.\n",
+      "contexto_prefixo": {
+        "path": "federal/decretos/1932/dec-21465-1932-06-03.md",
+        "urn": "urn:lex:br:federal:decreto:1932-06-03;21465",
+        "sha256_HTML": "a22c2ec5476df52e10098be4b6e1b05384d509f5cb1054f3833519f16ca137ee",
+        "sha256_metadados": "c6b9f859a9d164c5794ebb922af80875c1da4dd2d8512c839bfabdc60802dfac",
+        "sha256_MD_preliminar": "be6669101ff99764be12c7dbeca06ddd9076d527e3c118f31cf0cea5e626c3ba",
+        "epigrafe": {
+          "numero": "21465",
+          "data": "1932-06-03",
+          "epigrafe": "DECRETO N. 21.465 – DE 3 DE JUNHO DE 1932"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/0523e71a-1498-45f8-b741-e564db4be73c/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:04:27.043691+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/8f38ab9e37426d8afb4ea2434bc9f8c8944d52a4171079714cc5188ac2736260.raw.gz",
+          "sha256_raw": "a22c2ec5476df52e10098be4b6e1b05384d509f5cb1054f3833519f16ca137ee",
+          "bytes": 10124
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 21.465 – DE 3 DE JUNHO DE 1932\n\nAprova os projetos e respectivos orçamentos, na importância total de 54:305$224, para a construção de um desvio de cruzamento, uma casa para moradia do encarregado e um embarcadouro para gado, no km. 96 + 116,20 da linha de Santa Maria a Marcelino Ramos, na Rede de Viação Férrea Federal do Rio Grande do Sul\n\nO Chefe do Governo Provisório da República dos Estados Unidos do Brasil atendendo ao que requereu o Estado do Rio Grande do Sul, e de acordo com os pareceres prestados,\n\ndecreta:",
+        "primeiro_bloco_de_artigo": "**Artigo único.** Ficam aprovados os projetos e orçamentos que a este acompanham, rubricados pela diretor geral de expediente, interino, da Secretaria de Estado de Ministério da Viação Obras Públicas para a construção de um desvio de cruzamento, uma casa para o respectivo encarregado e um embarcadouro para gado, no quilometro 96 + 116.70 da linha de Santa Maria a Marcelino Ramos, da Rede de Viação Férrea Federal do Rio Grande do Sul, arrendada ao referido Estado.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 3 DE JUNHO DE 1932",
+          "data": "1932-06-03",
+          "bloco_literal": "Rio de Janeiro, 3 de junho de 1932, 111º da Independência e 44º da República."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": true,
+        "autoridade_literal": "O Chefe do Governo Provisório da República dos Estados Unidos do Brasil atendendo ao que requereu o Estado do Rio Grande do Sul, e de acordo com os pareceres prestados,",
+        "ocorrencias_contextuais": []
+      },
+      "limites": "Retenção privada por este SHA, sem máscara ou alteração de qualquer candidato/canônico."
+    },
+    {
+      "path": "federal/decretos/1931/dec-20619-1931-11-06.md",
+      "urn": "urn:lex:br:federal:decreto:1931-11-06;20619",
+      "estado": "objeto_tecnico_proprio_a_conferir",
+      "motivo": "Projeto ou orçamento próprio expressamente acompanhando/baixando com o ato; descrição, total ou tabela resumida não bastam para representar o projeto documental. Retenção contextual privada, sem afirmar inexistência em outra fonte.",
+      "sha256_MD_preliminar": "5b9b35814c2f365b9ec8c22aab8e8c617b97faca38e96e0592d085b93f787b81",
+      "sha256_HTML": "1f9ba4fa6dac9fdbf01ca8dfe6da0a57f6d3f083024a004186a6263f7f1648e3",
+      "sha256_API": "22102327a3345114163767bd280582447f98c24012667c55f72c0501b0ffb1f6",
+      "fontes": {
+        "path": "federal/decretos/1931/dec-20619-1931-11-06.md",
+        "urn": "urn:lex:br:federal:decreto:1931-11-06;20619",
+        "indice": {
+          "id": "439359",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "20619",
+          "norma": "DEC-20619-1931-11-06",
+          "normaNome": "Decreto nº 20.619 de 06/11/1931",
+          "ementa": "APROVA O PROJETO E ORÇAMENTO, NA IMPORTÂNCIA DE RÉIS 4.682:903$098, DAS DESPESAS A FAZER COM A CONSTRUÇÃO DAS INSTALAÇÕES COMPLETAS PARA DESCARGA E ARMAZENAMENTO DE TRIGO A GRANEL, EM OUTERINHOS, NO PORTO DE SANTOS.",
+          "dataassinatura": "06/11/1931",
+          "anoassinatura": "1931",
+          "apelido": "DEC-20619-1931-11-06"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1931-11-06;20619&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-28T02:18:11.618325+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/975dbb431e10609f4c2deed224dd9dd08664fe7d30e78bd322968c5df8e49b63.raw.gz",
+          "sha256_raw": "22102327a3345114163767bd280582447f98c24012667c55f72c0501b0ffb1f6",
+          "bytes": 2573
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/c11aa9f2-d97f-49da-be3e-75c0bb624df2/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:18:13.504994+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/a7565985b2e0f76b7e4ccf5826f7e99483691f4fc029cce53e9a3ec9e0f5524f.raw.gz",
+          "sha256_raw": "1f9ba4fa6dac9fdbf01ca8dfe6da0a57f6d3f083024a004186a6263f7f1648e3",
+          "bytes": 8768
+        },
+        "encoding_escolhido": {
+          "datePublished": "1931-12-31",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/c11aa9f2-d97f-49da-be3e-75c0bb624df2/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 20.619 de 06/11/1931]  [Coleção de Leis do Brasil  de 31/12/1931 - vol.  003] (p. 461, col. 1)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1931-11-06;20619@1931-11-06~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "vinculos_literais": [
+        {
+          "bloco_indice": 4,
+          "literal_integral": "**Artigo unico.** Ficam aprovados, para execução da obra autorizada no item 25, da relação anexa ao decreto n. 18.284, de 16 de junho de 1928, o projeto e orçamento, na importancia de quatro mil seiscentos e oitenta e dois contos novecentos e três mil e noventa e oito réis (Rs. 4.682:908$098), com a construção das instalações completas para descarga e armazenamento de trigo a granel, em Outeirinhos, no porto de Santos, os quais com este baixam, rubricados pelo diretor geral de Contabilidade da Secretaria de Estado do Ministerio da Viação e Obras Públicas.",
+          "remissao_match": "COM ESTE BAIXAM",
+          "objetos_match": [
+            "PROJETO",
+            "ORCAMENTO"
+          ]
+        }
+      ],
+      "fecho_literal": "Rio de Janeiro, 6 de novembro de 1931, 110º da Independencia e 43º da Republica.",
+      "conteudo_integral_apos_fecho": "Getulio Vargas.\n\nJosé Americo de Almeida.\n",
+      "contexto_prefixo": {
+        "path": "federal/decretos/1931/dec-20619-1931-11-06.md",
+        "urn": "urn:lex:br:federal:decreto:1931-11-06;20619",
+        "sha256_HTML": "1f9ba4fa6dac9fdbf01ca8dfe6da0a57f6d3f083024a004186a6263f7f1648e3",
+        "sha256_metadados": "22102327a3345114163767bd280582447f98c24012667c55f72c0501b0ffb1f6",
+        "sha256_MD_preliminar": "5b9b35814c2f365b9ec8c22aab8e8c617b97faca38e96e0592d085b93f787b81",
+        "epigrafe": {
+          "numero": "20619",
+          "data": "1931-11-06",
+          "epigrafe": "DECRETO N. 20.619 – DE 6 DE NOVEMBRO DE 1931"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/c11aa9f2-d97f-49da-be3e-75c0bb624df2/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:18:13.504994+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/a7565985b2e0f76b7e4ccf5826f7e99483691f4fc029cce53e9a3ec9e0f5524f.raw.gz",
+          "sha256_raw": "1f9ba4fa6dac9fdbf01ca8dfe6da0a57f6d3f083024a004186a6263f7f1648e3",
+          "bytes": 8768
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 20.619 – DE 6 DE NOVEMBRO DE 1931\n\nAprova projeto e orçamento, na importancia de réis 4.682:903$098, das despesas a fazer com a construção das instalações completas para descarga e armazenamento de trigo a granel, em Outeirinhos, no porto de Santos\n\nO Chefe do Governo Provisorio da Republica dos Estados Unidos do Brasil, atendendo ao que requereu a Companhia Docas de Santos e de acôrdo com as informações prestadas pela Inspetoria Federal de Portos, Rios e Canais e consultor tecnico do Ministerio da Viação e Obras Públicas,\n\ndecreta:",
+        "primeiro_bloco_de_artigo": "**Artigo unico.** Ficam aprovados, para execução da obra autorizada no item 25, da relação anexa ao decreto n. 18.284, de 16 de junho de 1928, o projeto e orçamento, na importancia de quatro mil seiscentos e oitenta e dois contos novecentos e três mil e noventa e oito réis (Rs. 4.682:908$098), com a construção das instalações completas para descarga e armazenamento de trigo a granel, em Outeirinhos, no porto de Santos, os quais com este baixam, rubricados pelo diretor geral de Contabilidade da Secretaria de Estado do Ministerio da Viação e Obras Públicas.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 6 DE NOVEMBRO DE 1931",
+          "data": "1931-11-06",
+          "bloco_literal": "Rio de Janeiro, 6 de novembro de 1931, 110º da Independencia e 43º da Republica."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": false,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": true,
+        "autoridade_literal": "O Chefe do Governo Provisorio da Republica dos Estados Unidos do Brasil, atendendo ao que requereu a Companhia Docas de Santos e de acôrdo com as informações prestadas pela Inspetoria Federal de Portos, Rios e Canais e consultor tecnico do Ministerio da Viação e Obras Públicas,",
+        "ocorrencias_contextuais": []
+      },
+      "limites": "Retenção privada por este SHA, sem máscara ou alteração de qualquer candidato/canônico."
+    },
+    {
+      "path": "federal/decretos/1931/dec-20581-1931-10-29.md",
+      "urn": "urn:lex:br:federal:decreto:1931-10-29;20581",
+      "estado": "duvida_clausula_aberta_e_pontilhado",
+      "motivo": "Alteração do artigo 7º termina com Serão consideramos de familia: seguida apenas de pontilhado. Pode ser convenção editorial de trecho não alterado ou lacuna; preservar literalmente e reter até confronto, sem inferir ausência só pela numeração ou preencher lista.",
+      "sha256_MD_preliminar": "cb6e84cb6ccb5f44cb11ed00ffdffced106c2f0c38e52ac5c26043b1b15ade1e",
+      "sha256_HTML": "1ea2cb67ad1e6f25d46bf2b5e79afba45f42ee78df9a71e3fab2583ddc80b29f",
+      "sha256_API": "1348b83dd353b70defeb85747c9cec8c9b89b72560a7625a5e8a54e270612717",
+      "fontes": {
+        "path": "federal/decretos/1931/dec-20581-1931-10-29.md",
+        "urn": "urn:lex:br:federal:decreto:1931-10-29;20581",
+        "indice": {
+          "id": "439284",
+          "tipo": "DEC-n",
+          "descricao": "Decreto Numerado",
+          "numero": "20581",
+          "norma": "DEC-20581-1931-10-29",
+          "normaNome": "Decreto nº 20.581 de 29/10/1931",
+          "ementa": "DÁ NOVA REDAÇÃO AO ARTIGO 7 DO DECRETO NÚMERO 19.533, DE 27 DE DEZEMBRO DE 193O.",
+          "dataassinatura": "29/10/1931",
+          "anoassinatura": "1931",
+          "apelido": "DEC-20581-1931-10-29"
+        },
+        "estado": "fonte_capturada_para_QA",
+        "metadados": {
+          "url": "https://normas.leg.br/api/public/normas?urn=urn:lex:br:federal:decreto:1931-10-29;20581&tipo_documento=maior-detalhe",
+          "accept": "application/json",
+          "captura_utc": "2026-10-28T02:18:48.594474+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/761c27c515e24cf27348c779395bb5f6dd2e36e9ee053b234b30c03eca8ba1d4.raw.gz",
+          "sha256_raw": "1348b83dd353b70defeb85747c9cec8c9b89b72560a7625a5e8a54e270612717",
+          "bytes": 2348
+        },
+        "texto": {
+          "url": "https://normas.leg.br/api/public/binario/72e27826-fdac-4ceb-8a13-bad09d695d0f/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:18:50.495626+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/21eb6e18fcda6059704d02573052577d05b39680a25bfbfe085feebc154b5c16.raw.gz",
+          "sha256_raw": "1ea2cb67ad1e6f25d46bf2b5e79afba45f42ee78df9a71e3fab2583ddc80b29f",
+          "bytes": 8602
+        },
+        "encoding_escolhido": {
+          "datePublished": "1931-12-31",
+          "license": "https://creativecommons.org/licenses/by/4.0/",
+          "contentUrl": "https://normas.leg.br/api/binario/72e27826-fdac-4ceb-8a13-bad09d695d0f/texto",
+          "@type": "LegislationObject",
+          "name": "Publicação Original [Decreto nº 20.581 de 29/10/1931]  [Coleção de Leis do Brasil  de 31/12/1931 - vol.  003] (p. 411, col. 1)",
+          "legislationLegalValue": "UnofficialLegalValue",
+          "encodingFormat": "http://www.iana.org/assignments/media-types/text/html",
+          "publisher": {
+            "@type": "GovernmentOrganization",
+            "@id": "https://www.congressonacional.leg.br/"
+          },
+          "@id": "https://normas.leg.br/?urn=urn:lex:br:federal:decreto:1931-10-29;20581@1931-10-29~texto;pt$text-html",
+          "version": "Original"
+        },
+        "tipo_real": "HTML",
+        "limites": "A captura não certifica identidade, íntegra, anexos, fidelidade ou vigência. Nenhum candidato ou destino MD criado."
+      },
+      "vinculos_literais": [],
+      "fecho_literal": "Rio de Janeiro, 29 de outubro de 1931, 110º da Independencia e 43º da República.",
+      "conteudo_integral_apos_fecho": "GETULIO VARGAS.\n\nJosé Fernades Leite de Castro.\n",
+      "contexto_prefixo": {
+        "path": "federal/decretos/1931/dec-20581-1931-10-29.md",
+        "urn": "urn:lex:br:federal:decreto:1931-10-29;20581",
+        "sha256_HTML": "1ea2cb67ad1e6f25d46bf2b5e79afba45f42ee78df9a71e3fab2583ddc80b29f",
+        "sha256_metadados": "1348b83dd353b70defeb85747c9cec8c9b89b72560a7625a5e8a54e270612717",
+        "sha256_MD_preliminar": "cb6e84cb6ccb5f44cb11ed00ffdffced106c2f0c38e52ac5c26043b1b15ade1e",
+        "epigrafe": {
+          "numero": "20581",
+          "data": "1931-10-29",
+          "epigrafe": "DECRETO N. 20.581 – DE 29 DE OUTUBRO DE 1931"
+        },
+        "fonte": {
+          "url": "https://normas.leg.br/api/public/binario/72e27826-fdac-4ceb-8a13-bad09d695d0f/texto",
+          "accept": "text/html",
+          "captura_utc": "2026-10-28T02:18:50.495626+00:00",
+          "origem": "captura oficial nova em cliente único a 2 rps, sem retry",
+          "status_http": 200,
+          "arquivo_raw": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/requests/21eb6e18fcda6059704d02573052577d05b39680a25bfbfe085feebc154b5c16.raw.gz",
+          "sha256_raw": "1ea2cb67ad1e6f25d46bf2b5e79afba45f42ee78df9a71e3fab2583ddc80b29f",
+          "bytes": 8602
+        },
+        "prefixo_antes_primeiro_artigo": "DECRETO N. 20.581 – DE 29 DE OUTUBRO DE 1931\n\nDá nova redação ao art. 7 do decreto n. 19.533, de 27 de dezembro de 1930\n\nO Chefe do Govêrno Provisorio da República dos Estados Unidos do Brasil resolve dar a redação que se segue ao art. 7 do decreto n. 19.533, do 27 de dezembro de 1930, modificando o art. 124 do Regulamento do Serviço Militar anexo ao de 15.934, de 22 de janeiro de 1923:",
+        "primeiro_bloco_de_artigo": "**Art. 7º** Todo alistado ou sorteado, que em tempo de paz provar perante a Junta de Revisão e Sorteio, em qualquer de suas fazes ou nas suas reuniões extraordinarias, até á data da incorporação dos de sua chamada, a qualidade de arrimo de familia, poderá se tornar reservista de 2ª categoria do Exercito, dentro de um ano, a partir da data em que deveria incorporar, ficando, porém, o que não apresentar caderneta de reservista dentro deste prazo sujeito á incorporação, que terá logar em época normal e na primeira oportunidade, mas apenas durante o primeiro periodo de instrução.",
+        "fecho_principal_qualificado": {
+          "literal_normalizado": "RIO DE JANEIRO, 29 DE OUTUBRO DE 1931",
+          "data": "1931-10-29",
+          "bloco_literal": "Rio de Janeiro, 29 de outubro de 1931, 110º da Independencia e 43º da República."
+        },
+        "limite_documento_incorporado": null,
+        "titulos_HTML_invisiveis": [
+          "DECRETO N"
+        ],
+        "epigrafes_concorrentes_em_title": [],
+        "comando_RESOLVE_com_operando_antes_primeiro_artigo": true,
+        "autoridade_PRESIDENTE_no_prefixo": false,
+        "autoridade_GOVERNO_PROVISORIO_no_prefixo": true,
+        "autoridade_literal": "O Chefe do Govêrno Provisorio da República dos Estados Unidos do Brasil resolve dar a redação que se segue ao art. 7 do decreto n. 19.533, do 27 de dezembro de 1930, modificando o art. 124 do Regulamento do Serviço Militar anexo ao de 15.934, de 22 de janeiro de 1923:",
+        "ocorrencias_contextuais": []
+      },
+      "limites": "Retenção privada por este SHA, sem máscara ou alteração de qualquer candidato/canônico."
+    }
+  ],
+  "fontes_provas": {
+    "path": "federal/_fonte/auditorias/alimentacao_normas_20261027_012/retencoes_contextuais001/fontes_provas17.jsonl.gz",
+    "sha256": "ab42d639cec15654db771b20dcc16fa921321d0b90312b7de8a47c8699616419"
+  }
+}

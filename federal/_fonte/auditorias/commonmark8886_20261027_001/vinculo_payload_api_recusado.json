@@ -1,0 +1,9 @@
+{
+  "escopo": "Prova local de que o complemento CommonMark renderizou integralmente o mesmo corpo enviado à API GitHub, recusado por tamanho. Nenhuma chamada foi repetida.",
+  "request_github": "federal/_fonte/auditorias/retomada_federal_20261027_004/cumulativo022024_v2/github_doze/01_request.json",
+  "sha256_request_github": "d59e2a1300826f78ad8e744c4a5979cc706d288955d48013c51ec2e21c23435c",
+  "sha256_texto_request": "9a42f920605499fa9e4bb4345f7c96761c009ad42d917a53b8a9069bdc05bf65",
+  "bytes_texto_request": 818170,
+  "sha256_payload_commonmark": "9a42f920605499fa9e4bb4345f7c96761c009ad42d917a53b8a9069bdc05bf65",
+  "mesmo_payload_integral": true
+}

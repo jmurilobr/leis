@@ -1,0 +1,165 @@
+---
+titulo: "Lei Ordinária nº 464, de 08 de outubro de 2024"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "464"
+data: "2024-10-08"
+municipio: "Araci"
+uf: "BA"
+codigo_ibge: "2902104"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.araci.ba.leg.br/norma/530"
+fonte_texto: "https://sapl.araci.ba.leg.br/ta/235/text"
+sha256_fonte: "77baad46cb18c12f3aad196be2ca4b9fc3f7bc69d4dd1b951a9e01e62bc870e5"
+sha256_texto: "9212167bc685a54f5273a3d1246e330b515aff4e74ffb029a0b274d978ef931a"
+capturado_em_fonte: "2026-10-27T16:52:32.397880-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 464, de 08 de outubro de 2024
+
+Dispõe sobre a Política Municipal de Incentivo ao Empreendedorismo no município de Araci, Estado da Bahia.
+
+
+A PREFEITA MUNICIPAL DE ARACI, Estado da Bahia, no uso de suas atribuições e nos termos da Constituição Federal e da Lei Orgânica Municipal, faz saber que o Poder Legislativo Municipal aprova e Ele sanciona e promulga a seguinte Lei:
+
+
+Art. 1º.
+
+Fica instituída a Política Municipal de Incentivo ao Jovem Empreendedor no município de Araci, com o propósito de fomentar a cultura empreendedora entre os jovens, reconhecendo sua importância no cenário econômico e social.
+
+
+Art. 2º.
+
+São objetivos da Política Municipal de Incentivo ao Jovem Empreendedor:
+
+
+I –
+
+elaborar estratégias e executar ações que fortaleçam o potencial dos jovens empreendedores, incentivando a concretização de suas ideias e projetos;
+
+
+II –
+
+promover a cultura empreendedora nos diversos setores econômicos, impulsionando a inovação e a criatividade em todas as áreas;
+
+
+III –
+
+estimular a atuação empreendedora de micros e pequenos jovens empresários, que almejam não apenas a inovação, mas também a geração de oportunidades de emprego;
+
+
+IV –
+
+incentivar práticas de produção sustentável, visando a compatibilidade entre o crescimento econômico e a preservação do meio ambiente;
+
+
+V –
+
+investir na pesquisa e adoção de novas tecnologias, buscando aprimorar a eficiência e a competitividade dos empreendimentos jovens;
+
+
+VI –
+
+garantir projetos de infraestrutura básica que permitam o crescimento saudável dos negócios empreendedores;
+
+
+VII –
+
+promover programas que facilitem o acesso dos jovens empreendedores a linhas de crédito;
+
+
+VIII –
+
+estimular a cooperação entre os diversos setores da sociedade civil organizada, o ente municipal e as empresas privadas, com o intuito de fomentar iniciativas de empreendedorismo.
+
+
+Art. 3º.
+
+Esta política municipal abrangerá jovens que preencham os seguintes requisitos:
+
+
+I –
+
+tenham idade entre dezoito e vinte e nove anos;
+
+
+II –
+
+não ocupem cargos ou posições públicas;
+
+
+III –
+
+apresentem um Plano de Negócios completo;
+
+
+IV –
+
+tenham concluído o Ensino Médio e um curso profissionalizante, ou estejam cursando ou já tenham concluído o Ensino Superior.
+
+
+Art. 4º.
+
+O auxílio concedido ao jovem empreendedor abrangerá:
+
+
+I –
+
+aquisição de itens essenciais para a implantação, expansão ou modernização da infraestrutura das atividades produtivas e de prestação de serviços em empreendimentos localizados nas regiões de residência do jovem; e
+
+
+II –
+
+aquisição de equipamentos e programas de informática que contribuam para o aprimoramento da gestão dos empreendimentos.
+
+
+Art. 5º.
+
+Fica incluída a disciplina de empreendedorismo na grade curricular da Educação Básica nas escolas da rede pública de ensino.
+
+
+Art. 6º.
+
+A disciplina de empreendedorismo deverá ser trabalhada na educação básica, de acordo com as seguintes perspectivas:
+
+
+I –
+
+desenvolvimento da capacidade individual de empreender;
+
+
+II –
+
+estímulo ao processo de iniciar e gerir empreendimentos;
+
+
+III –
+
+incentivo ao movimento social de desenvolvimento do espírito empreendedor;
+
+
+IV –
+
+promoção da gestão democrática na escola.
+
+
+Art. 7º.
+
+Caberá ao Poder Executivo regulamentar esta Lei no que couber.
+
+
+Art. 8º.
+
+Esta Lei entra em vigor em 45 (quarenta e cinco) dias após a sua publicação.
+
+
+Gabinete da Prefeita de Araci, Estado da Bahia, em 08 de outubro de 2024.
+
+**MARIABETIVÂNIALIMADA SILVA**
+
+**Prefeita Municipal**
+

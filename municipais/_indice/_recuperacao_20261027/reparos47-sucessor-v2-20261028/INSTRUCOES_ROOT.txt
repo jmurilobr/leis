@@ -1,0 +1,7 @@
+Runner: python bundled -I scripts/promover_reparos_ta47_20261028.py --manifesto ESTE_DIRETORIO/manifesto.json --sha256 SHA_ENTREGUE --saida NOVA_SAIDA_PRIVADA
+Dry-run padrão, repete todas as fontes, API/M/TA público/casa/IBGE/epígrafe, V3 integral, números, tachados/atributos, matrizes, CSS e HEAD por OID com reservas921/586. Reservas já publicadas são verificadas por SHA e não somadas novamente.
+Somente ROOT pode acrescentar --apply após revisão. Ausência dos 47 no índice e HEAD é obrigatória. São reparos de candidatos privados, não de textos publicados.
+Não aplicar formatação, remoção de espaços, normalização Unicode/controles ou whitespace fix. Preservar hardbreaks e EOF. U+0002 em outros controles PV permanece intocado.
+Backups exclusivos, preparado no mesmo volume, lock consultivo e substituição atômica por arquivo. Em falha, rollback restaura somente candidatos que ainda tenham o SHA próprio; interferência externa é registrada e não sobrescrita. A transação de 47 arquivos não é um único rename.
+Não há decisão de vigência. Buritis mantém dois tachados e Secretário Substituto; remove apenas nota genérica anterior sem respaldo na fonte.
+Bibliotecas já instaladas em scripts/bin/qa-*; não vendorizadas. Rodar 10 testes: python bundled -I scripts/test_promover_reparos_ta47_20261028.py

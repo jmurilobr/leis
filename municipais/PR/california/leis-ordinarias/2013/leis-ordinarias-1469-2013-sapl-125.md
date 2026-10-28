@@ -1,0 +1,70 @@
+---
+titulo: "Lei Ordinária Municipal nº 1.469, de 21 de março de 2013"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária Municipal"
+numero: "1469"
+data: "2013-03-21"
+municipio: "Califórnia"
+uf: "PR"
+codigo_ibge: "4103503"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.california.pr.leg.br/norma/125"
+fonte_texto: "https://sapl.california.pr.leg.br/ta/546/text"
+sha256_fonte: "9120b60aee9021595406d7b39792652110f5b139a6a95eede6edf92ab544505d"
+sha256_texto: "d18a1a0a37ad9bd1768420a4ce0d7ae3bb2e44c4534490609ce38e0c6f157a57"
+capturado_em_fonte: "2026-10-27T22:40:05.257751-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária Municipal nº 1.469, de 21 de março de 2013
+
+Autoriza o Executivo Municipal a conceder à APAE – ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE CALIFÓRNIA, subvenção social mensal e dá outras providências.
+
+
+A Câmara Municipal de Califórnia, Estado do Paraná, aprovou e eu, Prefeito Sanciono a seguinte: LEI :
+
+
+Art. 1º.
+
+Fica o Executivo Municipal autorizado a conceder para a APAE –Associação de Pais e Amigos dos Excepcionais de Califórnia, CNPJ Nº 80.922.347/0001-20, subvenção social, conforme Lei Orgânica Municipal Artº 48º inciso XLIV, mensal correspondente a R$ 5.500,00 (cinco mil e quinhentos reais), que se dará até o dia 15 (quinze) de cada mês, para subsidiar o transporte escolar e manutenção da entidade.
+
+
+Art. 2º.
+
+Serão beneficiados com o presente Termo os alunos portadores de necessidades especiais atendidos pela Instituição, independentemente da situação financeira dos mesmos, devendo para tanto a Instituição estar devidamente qualificada/habilitada.
+
+
+Parágrafo único
+
+Deverá para tanto a entidade dispor de conta bancária no Banco do Brasil, única e exclusiva para o recebimento dos referidos recursos, contendo a nomenclatura: APAE/Subvenção Assistência Social
+
+
+Art. 3º.
+
+A entidade beneficiada com a aplicação dos recursos a que se refere o artigo 1º desta Lei, deverá realizar o fechamento bimestral do Sistema Integrado de Transferências- SIT do Tribunal de Contas do Paraná até 30 dias após o último dia do bimestre e prestar contas ao concedente no mesmo prazo, sob pena de suspensão e devolução dos recursos não aplicados na destinação, bem como, anualmente para apresentação ao Conselho Municipal da Assistência Social, conforme dispõe sobre transferências voluntárias municipais às entidades.
+
+
+Art. 4º.
+
+O Prazo de vigência é de 10 (dez) meses, iniciando-se em 01/03/2013 com término em 31/12/2013.
+
+
+Art. 5º.
+
+As despesas decorrentes desta Lei, correrão por conta das seguintes dotações orçamentárias: 06.02.08.242.0014.2.036-3.3.50.43-Subvenções Sociais.
+
+
+Art. 6º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Edifício da Prefeitura, aos 21 dias do mês de março de 2013.
+
+***ANA LÚCIA MAZETO GOMES***
+
+Prefeita
+

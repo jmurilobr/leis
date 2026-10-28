@@ -1,0 +1,966 @@
+{
+  "escopo": "Promoção cumulativa privada; confrontar preimagem canônica e candidato antes de aplicar. Pacotes anteriores permanecem imutáveis.",
+  "substituicoes": [
+    {
+      "path": "federal/decretos/1947/dec-22832-1947-03-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22832-1947-03-28.md",
+      "sha256_preimagem": "73f63456169cf5ef0a447480272b54b7aa13b8a4e7a0802ee14329863e80ee1d",
+      "sha256_candidato": "eb5d767258c2bcc186020fa8f6ce154a1fc9e7e92410e507126ef0aa2af7e652",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22839-1947-03-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22839-1947-03-28.md",
+      "sha256_preimagem": "0ea1f0c4099548df452a17aff7d1dc5650ca7163f02319c9d9025c3ab80213ff",
+      "sha256_candidato": "c902c35c431ef2ec8ebbb8dbe3ad801be0ffd90aaf1059139ceda8bd807dd8ba",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22840-1947-03-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22840-1947-03-28.md",
+      "sha256_preimagem": "ce989dfe1cab2d4600477b433dd43599e2ec63ed2229624c76a31b4ab1c17183",
+      "sha256_candidato": "6465fc66da1288ca28fc3f3befe00c302b9d06a99521d6a7d8f58d453d8fba79",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22755-1947-03-21.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22755-1947-03-21.md",
+      "sha256_preimagem": "73a41a092daaf502d9e9e90856f48cc807e9fffc535471fb3f82a9de9ba8f6a6",
+      "sha256_candidato": "6429bb29cd427ee3b79946b3c7cb2bdc5ceef28a81691844f0e42765e31060e2",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22768-1947-03-19.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22768-1947-03-19.md",
+      "sha256_preimagem": "13efb3efb9a5bccb7b1fa364ab8adc930e201e0675596fb892cd14eec065d409",
+      "sha256_candidato": "7ff51ab1a1a38db8f569fdec0af5d1772c69b6609fae873bf616bb59304b5282",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22769-1947-03-19.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22769-1947-03-19.md",
+      "sha256_preimagem": "dfc5b9738c871381fb1755fa356a09ba64238a0e3bfd53459446f00e5f02713f",
+      "sha256_candidato": "3d273fd156904b1c52a87a6d4bc88743c07f3d4c053b9bad0050fefd0c5ed030",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22770-1947-03-19.md",
+      "candidate": "federal/_candidatos_commonmark_015018_20261021_001/dec-22770-1947-03-19.md",
+      "sha256_preimagem": "1b5ae9759ad974bcd6a088614f4d5ccd8707aa367defec5e331311aeec9468c2",
+      "sha256_candidato": "67dd286a6109dbb199aaf74fdc4f5a32b59f650c8af4dc37f905079554dcf583",
+      "mudanca": "Correção de markup ou escape de sinais literais, com replay CommonMark estrutural."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22751-1947-03-10.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22751-1947-03-10.md",
+      "sha256_preimagem": "e3bd2d63f50bca493658ec7a48d30de8fd5a52642aae196cb9c4a32bb3fa7049",
+      "sha256_candidato": "7ec1bc91dd7416aa34201019834ff2d5df1c9e4e07728d93733129b6919fb172",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22732-1947-03-05.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22732-1947-03-05.md",
+      "sha256_preimagem": "e9e3f1e6a67172deed5d960c2619d4b7cc7300d83091f5e7c7ffd0215d8653c6",
+      "sha256_candidato": "90ea9790dae7dfb3a34aa265cd54d579032dd25134a20af246fb46ccd0a9943a",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22647-1947-02-27.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22647-1947-02-27.md",
+      "sha256_preimagem": "50b75946dddfac3d093f230cf464e1e68614aec45aa4d5a4ebeaadfcab890285",
+      "sha256_candidato": "277b8bcc519fdf9f9cdf1923e1f64cd3a00ca66d82868bd35c0832f651e77661",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22618-1947-02-24.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22618-1947-02-24.md",
+      "sha256_preimagem": "e2a1e26697e7aa8aa1fcdb4f927b8ceddabc6df4e816d4b4972470c71d3d5ed7",
+      "sha256_candidato": "9f8267b0265b424a15999b6d7a404a4c431d4de0f514d6375d29f238b6543b32",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22619-1947-02-24.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22619-1947-02-24.md",
+      "sha256_preimagem": "2721a160f0e78fbb780470a974b9c9ed1a058e5933c737df91a8f485aa759d82",
+      "sha256_candidato": "40ad4e39ab79adc697c7596a0f591380316f29a6d4077a2b3c2c18e7e3abbb29",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22621-1947-02-24.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22621-1947-02-24.md",
+      "sha256_preimagem": "f5f7d0691be08d85bc0c119b825b70bfedce3489b886e4c9638d81f99311f877",
+      "sha256_candidato": "3264f1a6308850b7fdd1eaf2272afe1d5bf863456d73849c08ca371365d00b0e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22631-1947-02-24.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22631-1947-02-24.md",
+      "sha256_preimagem": "e37c08223fca0b3f5f0d0957051da1b550cfc74facce23f54c4334d3d7d68c7e",
+      "sha256_candidato": "4e8148d0beffc2cfe097c6c9b0c88db79c304385b66e0bf963f2bf43ca3f01c6",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22603-1947-02-22.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22603-1947-02-22.md",
+      "sha256_preimagem": "b1a5a65339b77a4e0c15da51d60a070abd962335393ccd918f3dbc9a02b94bd8",
+      "sha256_candidato": "aa0914aff8f1f496aeadabdbb7398b899d667523a41acf382b6629f15824771a",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22606-1947-02-22.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22606-1947-02-22.md",
+      "sha256_preimagem": "5c526f6596fb20d1da7cd79d985aba60cc31816d53cae6d12e1c93871dc0f0c0",
+      "sha256_candidato": "954b5e8891a93c381ad654041cfe4a77b0d0b98027624afee8632d91b0a66216",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22607-1947-02-22.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22607-1947-02-22.md",
+      "sha256_preimagem": "cbdb8e3be4432aeab959eeac3a355033d5010edc4eab90d4f5ab07e57757e967",
+      "sha256_candidato": "9b20cc85ff8a45b07b7a777a65feb09ddd0c3ec9b640131b66a577588bdad89f",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22605-1947-02-22.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22605-1947-02-22.md",
+      "sha256_preimagem": "d2cf40db0c124329a7adcccf8bc82ffdec725baf5a1ae72396848314466faf54",
+      "sha256_candidato": "0e8213521f411f567c92b1d7919e5e4d975c7a9e2c0e7c66bc4da3633061fe23",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22608-1947-02-22.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22608-1947-02-22.md",
+      "sha256_preimagem": "4d01d9831df608e13c79b0de623daa9cf73ce29d2de1b4c59da89c3b18c9bd16",
+      "sha256_candidato": "54e3b393fbbb1c6a67056b5a6a2e52660bbd630a44ca9abd0704d7d56e3bb8f3",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22601-1947-02-21.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22601-1947-02-21.md",
+      "sha256_preimagem": "92f1120493debea9cd0e09e21331190f9b750e7d11804a13634182bb936b8d18",
+      "sha256_candidato": "6d7dae69bd9fe99f7b3ecf621ae7936f771cb77381b577f110e1fffdc0045f22",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22575-1947-02-14.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22575-1947-02-14.md",
+      "sha256_preimagem": "0385362de2a1ea73bcf7490407683f4359f456e253bbf7d91d2ab2cba9932db1",
+      "sha256_candidato": "4e8888b6f524e44a25ee41b396f7bfb2aadc8ddd6ac6b0f84e187811512d02c5",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22553-1947-02-07.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22553-1947-02-07.md",
+      "sha256_preimagem": "58cd749eb1fe9b001a50c22324e19dd1020679a13badcc718bebe9482298762e",
+      "sha256_candidato": "85691c9bd0906ca3055767d831c89054d8d8fcf222703055144a7a0afc325c5d",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22554-1947-02-07.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22554-1947-02-07.md",
+      "sha256_preimagem": "b19683819b225720a22a71454255611d28b97a971930abd57bfee4bb338af64e",
+      "sha256_candidato": "e4db5eeb0f7b4b3873a4bac792771a270b67e76c2b8364c00c0501fdad52a992",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22555-1947-02-07.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22555-1947-02-07.md",
+      "sha256_preimagem": "32cd6023a1d99475c3abc49c046dfd64d9ef42a0ae858ac3e9e784fe0bee7c36",
+      "sha256_candidato": "df8cdbb6503c7525dd258664232c42c35ae10b486f04f875327d18f99de904fd",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22556-1947-02-07.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22556-1947-02-07.md",
+      "sha256_preimagem": "abdf61a946da3ff80067ec7a376cb2aee8b7ea76735c5fe2732346fa981d0765",
+      "sha256_candidato": "2933b58b83cc4a5d653afa74eeb987c6538ff4d4d3502c7e5485b2fdac9c0540",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22557-1947-02-07.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22557-1947-02-07.md",
+      "sha256_preimagem": "9aa6905a25bcbf54fb7778ea7fd7dca3c3fe72bdabeff29e6961056a397b6f86",
+      "sha256_candidato": "7fd66040fef977a5a42766ebafa561fcedbf9e8ada448602fabe9ccdeea5c7a1",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22558-1947-02-07.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22558-1947-02-07.md",
+      "sha256_preimagem": "c8e9242063fcfda14fd11b651b689e74cec0a195dddb5a0464194c86f665e590",
+      "sha256_candidato": "4604a774ce9748232c4053a2de0be1fae0fb022e0bcf7f2e925cb68a79f8f94c",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22559-1947-02-07.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22559-1947-02-07.md",
+      "sha256_preimagem": "14b121957b0517eef300b914148928002a0d95ab88318f0ef77874dba0bd1262",
+      "sha256_candidato": "cebe0b1d5624defe7ea614edada975f0c90d1327f3d57c9abea8b9c0fe56323e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22560-1947-02-07.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22560-1947-02-07.md",
+      "sha256_preimagem": "c929e070f1660bedd897af2f4e8e16324305294dbeeffe1cb9f2c8f66be21ee0",
+      "sha256_candidato": "59a34a995bef7afd0a806f5b99491f8ea4e91a635302ba215f34a803276c66bc",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22561-1947-02-07.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22561-1947-02-07.md",
+      "sha256_preimagem": "1a1dcda79e76d82b0bb837b637dfc9d6332455b713f4d607592f7ece838095e0",
+      "sha256_candidato": "8116ab81d43c4002a12722fb0f026f4fa11c2ddb1712551a69c2cdaa0c072533",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22531-1947-02-01.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22531-1947-02-01.md",
+      "sha256_preimagem": "7908ad4c92a5f253c433c19ea312970cd0aa8348a0f9a03fb10500cfc38672dc",
+      "sha256_candidato": "c85d390991574da405fcc57df838fb7ebc4164d9ec43ca4182e9567f4856c902",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22532-1947-02-01.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22532-1947-02-01.md",
+      "sha256_preimagem": "dfc08340dfb2c8e2ba330f46fc70d959ae54371fe5df6bf584c98d90532cc46f",
+      "sha256_candidato": "cb11a0f38d934147f14a4cbc8cc5a2436329542e3b17fe7395a459b86518f1b1",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22539-1947-02-01.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22539-1947-02-01.md",
+      "sha256_preimagem": "8b48280e84dd6848644edbe73dade6a6c92ee798ac9263c9bd7b308794dd1c51",
+      "sha256_candidato": "758a06def06107968205e8fe38ded837f3af54bbf1eb9853118dd4cfe21db6db",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22540-1947-02-01.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22540-1947-02-01.md",
+      "sha256_preimagem": "efe784d4b9a7d2a5e81379d1b1f888e061e458bc17d64e6e360d7f137173df5c",
+      "sha256_candidato": "ea33e11f773c76d16ca0437cc0cc78bdb66a3e4e3690f9cb532b622f61f125c5",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22527-1947-01-31.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22527-1947-01-31.md",
+      "sha256_preimagem": "3ceaa54ef0cc04fcf3e6bef6f1d1f9e72801c28f4c70e21bb10aa9d957a690c1",
+      "sha256_candidato": "4cc54ee5cce5b75178131d9336d7f6add07de0abc18de99f45460000383c2cea",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22528-1947-01-31.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22528-1947-01-31.md",
+      "sha256_preimagem": "b2d3211e1f4e42ca2e93e5294c21e354391f7c7f5c2f71abec7b751f676b292e",
+      "sha256_candidato": "2c274be195fdcc969dfa4835cd8701fc143983775e814e0a1d525928dc481107",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22529-1947-01-31.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22529-1947-01-31.md",
+      "sha256_preimagem": "70fb6db16ac2cbd0c63a439ca88d2d8bfb9a2fae2a1d9714765b67626cde3981",
+      "sha256_candidato": "ca0560f268c4ef30f706c7c08f75ddecb3aeca4f74378ecb29a6f3aa57437bcd",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22530-1947-01-31.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22530-1947-01-31.md",
+      "sha256_preimagem": "be2e3185d16fe1018d46923f32f0beff4e90527c8ec177f59c8453b394954c74",
+      "sha256_candidato": "95f5c7e638f499e0cf0e3170bcc0e4d97583652ea738644375bc1e724c456d65",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22523-1947-01-27.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22523-1947-01-27.md",
+      "sha256_preimagem": "63a779e2cd459714ee7424d8f50ff4e047540a184f19bd0d5b4544c8ff4181a5",
+      "sha256_candidato": "4a6840ea92e02441cb521dba91763611f547515e95214a02bb63529a30343d6b",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22514-1947-01-24.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22514-1947-01-24.md",
+      "sha256_preimagem": "8c8c33866cc5872ac0a4e796c606981e05a2a9c303ad989f9be3797172acfe65",
+      "sha256_candidato": "55bb65f430cb20488cf16a72a78c509be585c5574d8301969738f3bbe902dbdf",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22515-1947-01-24.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22515-1947-01-24.md",
+      "sha256_preimagem": "97412fd3588f99156805944d992a859140e6a7dc82cbb1c62754133b1acb4589",
+      "sha256_candidato": "bcd510ca90e48c97be6cee8a741b92842297185257817b208ea859a42461ce34",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22496-1947-01-22.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22496-1947-01-22.md",
+      "sha256_preimagem": "25dde3f1d5ae8045284aae63bae8b99033f9a2bc20fb9a5fb2171d704ec4ff42",
+      "sha256_candidato": "41812b491c6b757cd36aa2db875488474e96c7deaad8a8e723f83bd75ad8cda1",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22490-1947-01-21.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22490-1947-01-21.md",
+      "sha256_preimagem": "642572967e9d67de58595800813e157d3a5bbd2490c54ce783904d83576704a2",
+      "sha256_candidato": "de66b41105956926421461e018fad69d0e9eba78a2f8fe638b5d5d56a04b8c3d",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22491-1947-01-21.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22491-1947-01-21.md",
+      "sha256_preimagem": "24cbde7f389ef5bb8398b86acd44a0584d0e989d9fb2c7aaf6f346fbac704a04",
+      "sha256_candidato": "7287a75e39b495e81ddae2727a8478ba4d33b3c010abc4c2b7f516cef3d2378a",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22492-1947-01-21.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22492-1947-01-21.md",
+      "sha256_preimagem": "90d519245473ed6a2f013481cff60bc355d15676b2f5f723bdd28f75775d6c9b",
+      "sha256_candidato": "b6d83456b6b9a9d93574ad6f932d390a8de08c85a619da702a4f233dbcf1df9b",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22493-1947-01-21.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22493-1947-01-21.md",
+      "sha256_preimagem": "20d08dee4071872e4f4a5ec2157fe9961125afdd404559badc9f3364fc16d900",
+      "sha256_candidato": "2bb1ae9785a515275dc2c64a96cfd5c25ad471009cf41a4b92d4e4eac4ef80ce",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22439-1947-01-13.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22439-1947-01-13.md",
+      "sha256_preimagem": "08dcd6c19089da961b8c1ee2e1d83e59660c4c232dd9c63d4d42d10825c31cfa",
+      "sha256_candidato": "14af5ae48eb6bbd54cc56c83ca74cd84f49d4fc6eeffe323092987ede0c676b7",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22425-1947-01-10.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22425-1947-01-10.md",
+      "sha256_preimagem": "d0656b7861d1785d08c118a997548808c691e23b0ced5d063e6e11e8871dfdce",
+      "sha256_candidato": "4a3805733a2140064ed555dae659ffbd68bd547bbcb77cad1ae80547ac3e2286",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1947/dec-22418-1947-01-09.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22418-1947-01-09.md",
+      "sha256_preimagem": "905d72110891a864ede0ca097d2ffe9cd319a44a3466c5ba6054887934a0f63a",
+      "sha256_candidato": "81aa4094e72b3fcc4117ab41dd35019d0a13b9a9b52fc6c21a491f1a193954e9",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-22340-1946-12-26.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22340-1946-12-26.md",
+      "sha256_preimagem": "36ac42c645915bf43c4cf2787470758669eeed66086890f9b15a27b564952185",
+      "sha256_candidato": "0503d1a284226ea06ac911a22facb27ac44a4608c37f4fb5e69eed50484cdba8",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-22341-1946-12-26.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22341-1946-12-26.md",
+      "sha256_preimagem": "1b106dd76d8a7fc3713bcbe6375e215dbefe223e2216f53aa626cd1cc8c8afdb",
+      "sha256_candidato": "6f834a8451a8d15cbaefef992630ecbb7f78cf9e52d46c27dff222708da2b7b4",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-22350-1946-12-26.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22350-1946-12-26.md",
+      "sha256_preimagem": "f587dec34fac1caf5a87e2185364f4ff417e27117c150e8639d58348d8c3fe20",
+      "sha256_candidato": "f977d3b346bdf672df9855b41b2ab0533fac792a4de3924473906fb005a8ba26",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-22314-1946-12-24.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22314-1946-12-24.md",
+      "sha256_preimagem": "33cebfad043e410ce8aee6c6cf810d3986649d88cb1a1419b10d4efb75565f58",
+      "sha256_candidato": "a4104fa55d4fedb465d1591426c0c74828992736dbbd396ea35064e6990d0aa2",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-22308-1946-12-20.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22308-1946-12-20.md",
+      "sha256_preimagem": "b49e1c9ab90e3652a101e6e7bcf64e8aedf68982e2616c94e34e39d3718462fb",
+      "sha256_candidato": "55dbbf15f1f7c081e03d62fdeed1add45aec92ceb2cad9eaf44b910fb2a84606",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-22305-1946-12-18.md",
+      "candidate": "federal/_candidatos_commonmark_015018_20261021_001/dec-22305-1946-12-18.md",
+      "sha256_preimagem": "271a53cae0f4c2bc089de5172c72fb1c338ee6db8dd5605bccdf8d494e6d598d",
+      "sha256_candidato": "f0ee054fa19df13223936a6dfbf0d5906b70925f287a80e059429813fcea5726",
+      "mudanca": "Correção de markup ou escape de sinais literais, com replay CommonMark estrutural."
+    },
+    {
+      "path": "federal/decretos/1946/dec-22281-1946-12-16.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22281-1946-12-16.md",
+      "sha256_preimagem": "e163019ae6ee49ee1f624c86c03060919f4ff2c0b4d51ee9909ff8fe387e8b5c",
+      "sha256_candidato": "b7b686437b25f68c216465a4547e2e69cec73a38ff8f8c45ff4e3807d09f0779",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-22247-1946-12-10.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22247-1946-12-10.md",
+      "sha256_preimagem": "6dd82b4c1d25a01802ed833bacad5e86450f12e3ff351246f679e5c62c0b474f",
+      "sha256_candidato": "dc26933b47f6bc86db7c5ab7b80a5d2b949e58d27157652265dda88385171ff0",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-22213-1946-12-02.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22213-1946-12-02.md",
+      "sha256_preimagem": "bb4979819cc22831143527dcaa637d368c449e3c9d45d3bc76ad67a820664780",
+      "sha256_candidato": "91413c73720008af8138c9c91169643746786cbbd3ad4cd8f8721104b3fc78cb",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-22164-1946-11-23.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22164-1946-11-23.md",
+      "sha256_preimagem": "e9ac20b307123a1705c183f9d4e7fcaf5d876cbe2c816069a13be15e3cbe6d52",
+      "sha256_candidato": "169ebb0f3b9ebdd52a3b7d075de73202506a8c6267626833f867975a50fa5111",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-22160-1946-11-22.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22160-1946-11-22.md",
+      "sha256_preimagem": "291c58fe357699c59255624283c887674a16cb885ed715980999cc802bf1f674",
+      "sha256_candidato": "1d8a93cfb5ccf822fdfdef1eff082d6a84c6dbd8b37754eb5084bf3b9a3abeef",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-22162-1946-11-22.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22162-1946-11-22.md",
+      "sha256_preimagem": "7d75beaf85e04ccc3f6733374364712a71ac62d1dee3a6cc61c3b94553c1d159",
+      "sha256_candidato": "2758a1c409d2d5b9b043767174367a11a4823eea7028612d4f7afdadc3ea1a10",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-22134-1946-11-19.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22134-1946-11-19.md",
+      "sha256_preimagem": "9e92a7bcbfbc3cbaabb87ebeabcb701d8bcd926600ccb14f16b0e03b458ec1ec",
+      "sha256_candidato": "5dd56f12b4861e9262e45132de4b26a2ac8067462ac93cdab9cee4d1246418ef",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-22108-1946-11-18.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22108-1946-11-18.md",
+      "sha256_preimagem": "0bacbb30acd026ff770e83c7b0bc722cb132337f8d604b61ed7e129bfdf9dcad",
+      "sha256_candidato": "0408ea60141946032a460743b282a61fd20a476091ebc4b289195751296f1955",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-22111-1946-11-18.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22111-1946-11-18.md",
+      "sha256_preimagem": "25c8a5820beac5e170f9dcc9ecf95b69f86838f9c52869feb157949bb97ef215",
+      "sha256_candidato": "838b4778f685d37853e7aa1f6f223ef9a9bb3f4d9458e547dead5c0def24986f",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-22113-1946-11-18.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22113-1946-11-18.md",
+      "sha256_preimagem": "0621db292f093cf81f704b3307e14f9334e41c61c8df67c59b02327e26f22987",
+      "sha256_candidato": "135dc3ee77dec5c578840a6e53bc8aef607a16568d8044870067d78f56658d48",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-22018-1946-11-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22018-1946-11-04.md",
+      "sha256_preimagem": "c25bfc54e0b95391074a19b7fb41b4d8b2fa92a5bb8c970c32d72c816ac56430",
+      "sha256_candidato": "73ab505e54798d2de9989b9d3d46ec83659aefde0200ddfeedeb3a5e8ac49675",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-22019-1946-11-04.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-22019-1946-11-04.md",
+      "sha256_preimagem": "de6a2694411c63aa5ccf1a69d60f43248ce9002d50739157c786caed768468e6",
+      "sha256_candidato": "3e70031e1d22293c947e07e5020471af30b93e7ba8f43ff98b1390b31984cf80",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21987-1946-10-25.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21987-1946-10-25.md",
+      "sha256_preimagem": "c449b389fb32c312c3bd392460a1ec2da06f225d0a6cea34cfcef1fdc7a392ee",
+      "sha256_candidato": "7a4a4b73500ffcf89b1b344f83ef9be830b027fb7b8dd89a00ddd0f2574ebe3d",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21965-1946-10-21.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21965-1946-10-21.md",
+      "sha256_preimagem": "92cfedde436e262c0d733722690a302a0271f56c16fa9b0b89c9fdf2fd484ace",
+      "sha256_candidato": "b092a4f92d20e8e5f163c53188a72347f7f1d6dd772452c8b03a6f8ec50829f9",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21895-1946-10-07.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21895-1946-10-07.md",
+      "sha256_preimagem": "759d59292cce14482f990d315621edcbefa5e77df6ab2cd9170010479b286fa2",
+      "sha256_candidato": "e5ddeb5ea6e696a71b19a9deb3cf63c2085ea36941ff08097b2137a37fdcac72",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21893-1946-10-04.md",
+      "candidate": "federal/_candidatos_commonmark_015018_20261021_001/dec-21893-1946-10-04.md",
+      "sha256_preimagem": "b7231e2bf9843a3441e2ea98878f15047bbdea448317d54fee9c1783d523830e",
+      "sha256_candidato": "f9d6104c6a338cadd30a225c86d904e2d7412179e02c44c3ae966c345cdd03a5",
+      "mudanca": "Correção de markup ou escape de sinais literais, com replay CommonMark estrutural."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21859-1946-09-26.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21859-1946-09-26.md",
+      "sha256_preimagem": "dd5a7dabf81ad8117c5875a107533e2096bee703f77887ef8ca62821c3e6ba9f",
+      "sha256_candidato": "81ddc51d54d920a2ffdb8635f4f5c89174bae78f78cc1dea09fedea6c1198af5",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21860-1946-09-26.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21860-1946-09-26.md",
+      "sha256_preimagem": "d5ffbb078bda22a9d99f1a06087eb9fc3ab8e992da7f9248b38489def28a918f",
+      "sha256_candidato": "8cdc359179d768c9d451dc9de4a6158318ae3383e40c745dcb6ebdedd74d84d2",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21839-1946-09-10.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21839-1946-09-10.md",
+      "sha256_preimagem": "33be9da2540dcacb78cebe57daf4e4623c5a02feb91b38c0b61080e8678be085",
+      "sha256_candidato": "833046412731d5be6ea282545bc578a1b74f541fc626f961313c37eae7a12d1c",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21830-1946-09-09.md",
+      "candidate": "federal/_candidatos_fidelidade_016_20261021_001/dec-21830-1946-09-09.md",
+      "sha256_preimagem": "a631a9ccca2a4c92c18c5a6450a6b735ae08152d44b817b63ef73a3f83b24796",
+      "sha256_candidato": "8fcf9a404727f16af4439b13855ce27fe917aa4e65ecccde79a8f35aeb780125",
+      "mudanca": "Somente escapes de crases literais; nenhuma supressão de caracteres oficiais."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21826-1946-09-05.md",
+      "candidate": "federal/_candidatos_fidelidade_016_20261021_001/dec-21826-1946-09-05.md",
+      "sha256_preimagem": "b0dd98fbb73303fd34b236ac95641a4fdefece40bdc3923fe99f62f9f8129847",
+      "sha256_candidato": "3ed22b2fee1cc31e25758a5067b24ba98c038841d40570cd6b1f0b58ec3f1d5c",
+      "mudanca": "Somente escapes de crases literais; nenhuma supressão de caracteres oficiais."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21815-1946-09-04.md",
+      "candidate": "federal/_candidatos_listas_html_original_20261021_001/dec-21815-1946-09-04.md",
+      "sha256_preimagem": "eea28c830c3d1c116282e50c5c0c2a87ad415308e9dc42144d85dca76d6bf766",
+      "sha256_candidato": "b47ab7b56cabd1947db7712e0e4b382e3a8cdced3a2138cc02bc4a968aa1ff3c",
+      "mudanca": "Preserva o body HTML original, sem renumerar marcadores literais; revisão ROOT pendente."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21773-1946-09-02.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21773-1946-09-02.md",
+      "sha256_preimagem": "632202279a8bcca1a33ac74ea68e9a41821c76df138c985a57a6aab0198da76c",
+      "sha256_candidato": "0f662ac8b1dccb729f334fbe26d74cfaca6f45c7f2764c58000b4f44aaa482ab",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21621-1946-08-13.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21621-1946-08-13.md",
+      "sha256_preimagem": "791cbc5eb0fba456e735119bcd2c81462231aed0fc2c210bf12281fe4f53fc23",
+      "sha256_candidato": "09d887cf2b9f99fcfc026af1bf9d1e2c6a203d86a38d0613478b6d929806a559",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21629-1946-08-13.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21629-1946-08-13.md",
+      "sha256_preimagem": "d61d891543028d8f2e192062e9f4a3b58ab6c91eca028b8cbc5a68d8513a68f5",
+      "sha256_candidato": "95cae90493f2345620938c1d159b0069170cb955eba40fc9339e9fb878a4644f",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21600-1946-08-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21600-1946-08-12.md",
+      "sha256_preimagem": "0afc31966b6a85e92dda6fc3088647014e0005d43449ba3141e59a275107ae48",
+      "sha256_candidato": "980022513b507aea43423b717e20cbee8faf88fd194e82ca9ff877e85adcc912",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21598-1946-08-10.md",
+      "candidate": "federal/_candidatos_listas_html_original_20261021_001/dec-21598-1946-08-10.md",
+      "sha256_preimagem": "3467f785d7c654736fc3966a72c8d326764b652b03c5e0e92b5033e22afad4e0",
+      "sha256_candidato": "ded39d8e4e52e43bad657919126199754029504592433fd59f5559a9215b8f55",
+      "mudanca": "Preserva o body HTML original, sem renumerar marcadores literais; revisão ROOT pendente."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21540-1946-07-31.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21540-1946-07-31.md",
+      "sha256_preimagem": "8d6f4b12816551bbc3ccec44fb4ac589c88d58a3ee7f22a5b3fcdaa5bb3497a9",
+      "sha256_candidato": "b545a1960c7c2fa08e1e15faf5e445b58eb4ee9cde2c7a2b29adaa188dcaf51a",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21487-1946-07-22.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21487-1946-07-22.md",
+      "sha256_preimagem": "11dac5823281dd8fe4b52ff1b8e2b89367320b3c7e0fcac6b603c71422a92876",
+      "sha256_candidato": "e2b6ce1a5547f788a25f5fd60e5d37bd9ae5fd20c41c63ef60cb87f479116d7d",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21472-1946-07-19.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21472-1946-07-19.md",
+      "sha256_preimagem": "293c13573772d1e6add5cd31a6848fe4707d2ba6e2864a134f0206974b5e95f0",
+      "sha256_candidato": "6f0c1804adc6a7e704d46cb2d74d9130b801f4072dac420834aa72aa27540116",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21443-1946-07-16.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21443-1946-07-16.md",
+      "sha256_preimagem": "f3ad30c1c81bf7aaa0272860f24e82c3ea96179095cba29161c3d1bd03f73943",
+      "sha256_candidato": "bb312b4449f5f41994515954cd496a8272883089621b8a60ab8a8bbc6cd54bb0",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21414-1946-07-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21414-1946-07-12.md",
+      "sha256_preimagem": "634d0b45e2c21b7e02690c1ce24114b304ea60871838fbee86cdf9aa30c01942",
+      "sha256_candidato": "644ca5556f9f3924752d40d2912ab8f77844a5b7839c21183d03d2f9e0f655e5",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21416-1946-07-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21416-1946-07-12.md",
+      "sha256_preimagem": "ea0d810e49567357dbe89ecac871a79db77cb28a1fc69631ec4d66e644cd9717",
+      "sha256_candidato": "52044002ce31550cf4435be802a0d50a2484a6d198c853c6453f24f80bbe13ce",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21409-1946-07-10.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21409-1946-07-10.md",
+      "sha256_preimagem": "583f70ce5f777f7a8b7e5e9e23ff382a822cf2ea984040db7116b842fd51732b",
+      "sha256_candidato": "86ab916ea06b4c5092b724331bc50b83dc918177dad4663cfa2f6239422acf0b",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21432-1946-07-06.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21432-1946-07-06.md",
+      "sha256_preimagem": "ee7b0b9b3e30ea63e2a24dfaf8854360d6d62c5329b3b22c05fbc6288ebc59c0",
+      "sha256_candidato": "09395e7e85f803e78fe1b49d344fb5ea443f382f445f0481054af47309aa392d",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21343-1946-06-25.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21343-1946-06-25.md",
+      "sha256_preimagem": "849ec1efdb8eb6f7543e6c0920def16662b508b3e86d0af09fdb7d545f407ddc",
+      "sha256_candidato": "f95dd6139c495f5973ac1cd415843bd491a19eab1ee9ee87915994366aeb7ea0",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21351-1946-06-25.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21351-1946-06-25.md",
+      "sha256_preimagem": "c51bd0271b5e5afe91a2a60653cefbb28e9438111a771cacc575ac9ccd7c9411",
+      "sha256_candidato": "7329da82f3f62420ca99d2a20c79bf672fb272f1222f1a740c3ebc85e896d027",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21315-1946-06-17.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21315-1946-06-17.md",
+      "sha256_preimagem": "0f49a1f4ef2b181e8d1db3fbce84726148a3ef7dc3c5378f2cdbbb3f0b10a7c1",
+      "sha256_candidato": "841c40cd3f25c308a99601d05b57312ee99ba944177b5287c711d761bda0b66c",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21292-1946-06-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21292-1946-06-12.md",
+      "sha256_preimagem": "19ec525eb26b64029cddf6ebf2e8adc5b65e11bf4239fa5b8eea0ff675ab195f",
+      "sha256_candidato": "1a0de1a98303ca1077aae32ba495a99c18f6829d753a2f1bbc6563a679517a8e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21268-1946-06-11.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21268-1946-06-11.md",
+      "sha256_preimagem": "3e4104e366737c0d723b7f36f133b7c3052a70ee06f117b7f1525db896e26625",
+      "sha256_candidato": "6d39d2b39569aff59dd7f84135a649a86435dfea86e0c6124cabaf46f705e3ee",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21225-1946-05-31.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21225-1946-05-31.md",
+      "sha256_preimagem": "34ee489631fc2124bd3f1d48c8eef8460596cb12a2434313b9c7ff6828e351af",
+      "sha256_candidato": "21498662e5ffac8aa3d0ea02bc9e685b147fe62fb99b29d3a71785e425f02b54",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21166-1946-05-23.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21166-1946-05-23.md",
+      "sha256_preimagem": "9641f3094f5fbc4df13ec91c752299d2dd447785df9c1359629bb6db97109c45",
+      "sha256_candidato": "f67b820943317204d0e5467798d159fb9a03bbb46feb3111620fb07b2d512545",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21152-1946-05-22.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21152-1946-05-22.md",
+      "sha256_preimagem": "1d67c0b78cef47d35692af62faf42d13096ee02cc884a34211c3165280a0cece",
+      "sha256_candidato": "7d0358d8bc994d9c3dbcf1ba72400c1bf5f9d5098256b051905490537da6239e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21129-1946-05-14.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21129-1946-05-14.md",
+      "sha256_preimagem": "ee82bb2743b853a16cff882f9cdcb4454f805bbb8b3b4bbded517e0a28da69bf",
+      "sha256_candidato": "3087b254ac15e66309eb65862ad36ce0dc2a88a15a8cc22791a5ca3b484d60ad",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21133-1946-05-14.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21133-1946-05-14.md",
+      "sha256_preimagem": "d14023f04c8b408ce3a92493d432209dd1a135cc8144ef57e0a0077d06b6bd27",
+      "sha256_candidato": "d51ab78fd9eded68573f398e06d9c62f26ae5823009aa7cf5a76f33a60a33bf5",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21058-1946-05-03.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21058-1946-05-03.md",
+      "sha256_preimagem": "0bf1a27d5e7f997e284371747f850f7134af8437c62ee457265cf150e71e8cb3",
+      "sha256_candidato": "d0661902aad955f0f31e1b4d6030ea8ea2048038b6ac275f3299af2387a9a62e",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21072-1946-05-03.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21072-1946-05-03.md",
+      "sha256_preimagem": "b3c66c9fff571efbd883876e9398dc07fa67f5819636a56ad61d2e70e202010f",
+      "sha256_candidato": "a70fef35dd2e6674c9f9e276a267497ed25bce0c48469f46b565c0f83953da95",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21027-1946-04-29.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21027-1946-04-29.md",
+      "sha256_preimagem": "38e9094408685a4201ebbe90f40e5eaba972e032381fc552f24c3eea0d050c1c",
+      "sha256_candidato": "c0a2a2a5d1fd336d3609ef4d4d16c2ad5536b622f28824a9e1e253b0f7a21827",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-21032-1946-04-29.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-21032-1946-04-29.md",
+      "sha256_preimagem": "f9be3ca0e68aff10adc6391b1779c898d5ceab52cb7ce172548475b442ca7ff7",
+      "sha256_candidato": "97c86792f127fca465aead03e7d995f8bb80aded5ebbfc7593917d56fe3305c9",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-20989-1946-04-16.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-20989-1946-04-16.md",
+      "sha256_preimagem": "822704637120cac177e031d396db5d6cfc4ca6fe1a7dbe2aa1a2ceb3d2d0c3b5",
+      "sha256_candidato": "a0a5cd2cd5174595d498f7b70b0afd45432465eabf301f686e90dab7569b7a69",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-20979-1946-04-15.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-20979-1946-04-15.md",
+      "sha256_preimagem": "7ce0bb1dc9f2b5035f09523ec08f86ecac0ab17ec05ab3d78ab1a320d1e192c8",
+      "sha256_candidato": "dfeaae779841a456474cb1da48f7e0524ada4d7b2e7d22da88ce060bb7f756e2",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-20985-1946-04-15.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-20985-1946-04-15.md",
+      "sha256_preimagem": "2d002c0829ae27c2957a26e65e7cf86175aab3a4012c832c41a0aebbfbb18aa7",
+      "sha256_candidato": "89c0ed7d1652be7dd600707f4650c2c54e1145f7c13c0b39167aca1f7ced59f7",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-20972-1946-04-12.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-20972-1946-04-12.md",
+      "sha256_preimagem": "4df4d2912efd6f431aa1e2a38a3ffc63670d3e7d1fe6ab3cf6313055efe09835",
+      "sha256_candidato": "5608602e46e54afd798615b51232c2c5ea50fb55fc08706dfd07a0f1bb8fc514",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-20958-1946-04-09.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-20958-1946-04-09.md",
+      "sha256_preimagem": "f27d7221b17c49ce30448de920e3517b809985b0541b163f34e65357e89370d8",
+      "sha256_candidato": "02fbd89d8e9474ecf8ea2d056bd9b2b92ac6d7699dac4673c16c66012f462661",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-20882-1946-03-29.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-20882-1946-03-29.md",
+      "sha256_preimagem": "d6dce03fda2d873a85605285b96465a616c36be3eef7f03bee51ede207e75b0a",
+      "sha256_candidato": "635611ad51d751af468a181e8b3eba934da97a35cddd1691ee6e7251a11a5d62",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-20857-1946-03-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-20857-1946-03-28.md",
+      "sha256_preimagem": "f4165c10869906f3fd8f89cc998d9ceb3f16bd4a09ef01bb10c77599ed87aeae",
+      "sha256_candidato": "35a0172fa6cf9f80a53aeed64573a891aedbf9dd954e3e25a02da4658f838ab1",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-20866-1946-03-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-20866-1946-03-28.md",
+      "sha256_preimagem": "1f654c89752b2ac4531d4902f04f5cd3f1b83ce1d4eeb6e8440ff155160f83a3",
+      "sha256_candidato": "74a2554fd7d08935257c5aa4db4e80b62a4d6a8435fb8a7883f94242fc638ad0",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    },
+    {
+      "path": "federal/decretos/1946/dec-20871-1946-03-28.md",
+      "candidate": "federal/_candidatos_fechos_contextuais_20261021_016/dec-20871-1946-03-28.md",
+      "sha256_preimagem": "7469949736afbbd8241fd0a717b0067a24289e31a2a1609a5a5055c8d7e9c31e",
+      "sha256_candidato": "e7aad1874e7a8cc7a4bc50be50afc79791b731a91fe3430f7d3dbbc567b057b3",
+      "mudanca": "Somente nota editorial de literalidade no YAML; corpo oficial byte a byte inalterado."
+    }
+  ],
+  "retidos_nao_promover": [
+    "federal/decretos/1947/dec-22874-1947-04-07.md",
+    "federal/decretos/1947/dec-22857-1947-04-01.md",
+    "federal/decretos/1947/dec-22852-1947-03-31.md",
+    "federal/decretos/1947/dec-22826-1947-03-28.md",
+    "federal/decretos/1947/dec-22792-1947-03-21.md",
+    "federal/decretos/1947/dec-22798-1947-03-21.md",
+    "federal/decretos/1947/dec-22740-1947-03-10.md",
+    "federal/decretos/1947/dec-22744-1947-03-10.md",
+    "federal/decretos/1947/dec-22746-1947-03-10.md",
+    "federal/decretos/1947/dec-22747-1947-03-10.md",
+    "federal/decretos/1947/dec-22748-1947-03-10.md",
+    "federal/decretos/1947/dec-22749-1947-03-10.md",
+    "federal/decretos/1947/dec-22648-1947-02-27.md",
+    "federal/decretos/1947/dec-22650-1947-02-27.md",
+    "federal/decretos/1947/dec-22612-1947-02-24.md",
+    "federal/decretos/1947/dec-22613-1947-02-24.md",
+    "federal/decretos/1947/dec-22576-1947-02-15.md",
+    "federal/decretos/1947/dec-22562-1947-02-07.md",
+    "federal/decretos/1947/dec-22536-1947-02-01.md",
+    "federal/decretos/1947/dec-22469-1947-01-18.md",
+    "federal/decretos/1947/dec-22466-1947-01-17.md",
+    "federal/decretos/1947/dec-22467-1947-01-17.md",
+    "federal/decretos/1947/dec-22468-1947-01-17.md",
+    "federal/decretos/1947/dec-22415-1947-01-08.md",
+    "federal/decretos/1946/dec-22384-1946-12-31.md",
+    "federal/decretos/1946/dec-22375-1946-12-30.md",
+    "federal/decretos/1946/dec-22377-1946-12-30.md",
+    "federal/decretos/1946/dec-22379-1946-12-30.md",
+    "federal/decretos/1946/dec-22373-1946-12-27.md",
+    "federal/decretos/1946/dec-22293-1946-12-17.md",
+    "federal/decretos/1946/dec-22300-1946-12-17.md",
+    "federal/decretos/1946/dec-22244-1946-12-06.md",
+    "federal/decretos/1946/dec-22220-1946-12-03.md",
+    "federal/decretos/1946/dec-22223-1946-12-03.md",
+    "federal/decretos/1946/dec-22224-1946-12-03.md",
+    "federal/decretos/1946/dec-22188-1946-11-27.md",
+    "federal/decretos/1946/dec-22194-1946-11-27.md",
+    "federal/decretos/1946/dec-22183-1946-11-26.md",
+    "federal/decretos/1946/dec-22147-1946-11-22.md",
+    "federal/decretos/1946/dec-22150-1946-11-22.md",
+    "federal/decretos/1946/dec-22144-1946-11-21.md",
+    "federal/decretos/1946/dec-22146-1946-11-21.md",
+    "federal/decretos/1946/dec-22136-1946-11-20.md",
+    "federal/decretos/1946/dec-22106-1946-11-18.md",
+    "federal/decretos/1946/dec-22066-1946-11-16.md",
+    "federal/decretos/1946/dec-22069-1946-11-16.md",
+    "federal/decretos/1946/dec-22061-1946-11-14.md",
+    "federal/decretos/1946/dec-22029-1946-11-07.md",
+    "federal/decretos/1946/dec-22025-1946-11-05.md",
+    "federal/decretos/1946/dec-22017-1946-11-04.md",
+    "federal/decretos/1946/dec-22001-1946-10-28.md",
+    "federal/decretos/1946/dec-22005-1946-10-28.md",
+    "federal/decretos/1946/dec-21963-1946-10-16.md",
+    "federal/decretos/1946/dec-21951-1946-10-15.md",
+    "federal/decretos/1946/dec-21952-1946-10-15.md",
+    "federal/decretos/1946/dec-21953-1946-10-15.md",
+    "federal/decretos/1946/dec-21958-1946-10-15.md",
+    "federal/decretos/1946/dec-21956-1946-10-15.md",
+    "federal/decretos/1946/dec-21937-1946-10-12.md",
+    "federal/decretos/1946/dec-21924-1946-10-09.md",
+    "federal/decretos/1946/dec-21930-1946-10-09.md",
+    "federal/decretos/1946/dec-21905-1946-10-08.md",
+    "federal/decretos/1946/dec-21912-1946-10-08.md",
+    "federal/decretos/1946/dec-21891-1946-10-04.md",
+    "federal/decretos/1946/dec-21872-1946-09-27.md",
+    "federal/decretos/1946/dec-21880-1946-09-27.md",
+    "federal/decretos/1946/dec-21868-1946-09-26.md",
+    "federal/decretos/1946/dec-21844-1946-09-13.md",
+    "federal/decretos/1946/dec-21849-1946-09-13.md",
+    "federal/decretos/1946/dec-21850-1946-09-13.md",
+    "federal/decretos/1946/dec-21829-1946-09-06.md",
+    "federal/decretos/1946/dec-21823-1946-09-05.md",
+    "federal/decretos/1946/dec-21811-1946-09-04.md",
+    "federal/decretos/1946/dec-21779-1946-09-02.md",
+    "federal/decretos/1946/dec-21734-1946-08-29.md",
+    "federal/decretos/1946/dec-21713-1946-08-27.md",
+    "federal/decretos/1946/dec-21708-1946-08-26.md",
+    "federal/decretos/1946/dec-21700-1946-08-22.md",
+    "federal/decretos/1946/dec-21694-1946-08-21.md",
+    "federal/decretos/1946/dec-21696-1946-08-21.md",
+    "federal/decretos/1946/dec-21659-1946-08-19.md",
+    "federal/decretos/1946/dec-21649-1946-08-13.md",
+    "federal/decretos/1946/dec-21650-1946-08-13.md",
+    "federal/decretos/1946/dec-21599-1946-08-12.md",
+    "federal/decretos/1946/dec-21605-1946-08-12.md",
+    "federal/decretos/1946/dec-21596-1946-08-09.md",
+    "federal/decretos/1946/dec-21592-1946-08-07.md",
+    "federal/decretos/1946/dec-21577-1946-08-01.md",
+    "federal/decretos/1946/dec-21539-1946-07-31.md",
+    "federal/decretos/1946/dec-21542-1946-07-31.md",
+    "federal/decretos/1946/dec-21545-1946-07-31.md",
+    "federal/decretos/1946/dec-21550-1946-07-31.md",
+    "federal/decretos/1946/dec-21552-1946-07-31.md",
+    "federal/decretos/1946/dec-21554-1946-07-31.md",
+    "federal/decretos/1946/dec-21559-1946-07-31.md",
+    "federal/decretos/1946/dec-21565-1946-07-31.md",
+    "federal/decretos/1946/dec-21569-1946-07-31.md",
+    "federal/decretos/1946/dec-21533-1946-07-30.md",
+    "federal/decretos/1946/dec-21528-1946-07-26.md",
+    "federal/decretos/1946/dec-21499-1946-07-24.md",
+    "federal/decretos/1946/dec-21496-1946-07-23.md",
+    "federal/decretos/1946/dec-21497-1946-07-23.md",
+    "federal/decretos/1946/dec-21481-1946-07-22.md",
+    "federal/decretos/1946/dec-21469-1946-07-19.md",
+    "federal/decretos/1946/dec-21470-1946-07-19.md",
+    "federal/decretos/1946/dec-21471-1946-07-19.md",
+    "federal/decretos/1946/dec-21475-1946-07-19.md",
+    "federal/decretos/1946/dec-21455-1946-07-17.md",
+    "federal/decretos/1946/dec-21459-1946-07-17.md",
+    "federal/decretos/1946/dec-21462-1946-07-17.md",
+    "federal/decretos/1946/dec-21437-1946-07-16.md",
+    "federal/decretos/1946/dec-21438-1946-07-16.md",
+    "federal/decretos/1946/dec-21442-1946-07-16.md",
+    "federal/decretos/1946/dec-21451-1946-07-16.md",
+    "federal/decretos/1946/dec-21454-1946-07-16.md",
+    "federal/decretos/1946/dec-21427-1946-07-15.md",
+    "federal/decretos/1946/dec-21429-1946-07-15.md",
+    "federal/decretos/1946/dec-21410-1946-07-12.md",
+    "federal/decretos/1946/dec-21418-1946-07-12.md",
+    "federal/decretos/1946/dec-21420-1946-07-12.md",
+    "federal/decretos/1946/dec-21397-1946-07-09.md",
+    "federal/decretos/1946/dec-21398-1946-07-09.md",
+    "federal/decretos/1946/dec-21380-1946-07-08.md",
+    "federal/decretos/1946/dec-21389-1946-07-08.md",
+    "federal/decretos/1946/dec-21391-1946-07-08.md",
+    "federal/decretos/1946/dec-21363-1946-07-01.md",
+    "federal/decretos/1946/dec-21344-1946-06-25.md",
+    "federal/decretos/1946/dec-21347-1946-06-25.md",
+    "federal/decretos/1946/dec-21352-1946-06-25.md",
+    "federal/decretos/1946/dec-21353-1946-06-25.md",
+    "federal/decretos/1946/dec-21342-1946-06-24.md",
+    "federal/decretos/1946/dec-21340-1946-06-20.md",
+    "federal/decretos/1946/dec-21335-1946-06-19.md",
+    "federal/decretos/1946/dec-21296-1946-06-13.md",
+    "federal/decretos/1946/dec-21281-1946-06-12.md",
+    "federal/decretos/1946/dec-21285-1946-06-12.md",
+    "federal/decretos/1946/dec-21287-1946-06-12.md",
+    "federal/decretos/1946/dec-21288-1946-06-12.md",
+    "federal/decretos/1946/dec-21289-1946-06-12.md",
+    "federal/decretos/1946/dec-21290-1946-06-12.md",
+    "federal/decretos/1946/dec-21258-1946-06-11.md",
+    "federal/decretos/1946/dec-21266-1946-06-11.md",
+    "federal/decretos/1946/dec-21254-1946-06-10.md",
+    "federal/decretos/1946/dec-21232-1946-06-05.md",
+    "federal/decretos/1946/dec-21231-1946-06-03.md",
+    "federal/decretos/1946/dec-21215-1946-05-29.md",
+    "federal/decretos/1946/dec-21216-1946-05-29.md",
+    "federal/decretos/1946/dec-21218-1946-05-29.md",
+    "federal/decretos/1946/dec-21187-1946-05-28.md",
+    "federal/decretos/1946/dec-21190-1946-05-28.md",
+    "federal/decretos/1946/dec-21195-1946-05-28.md",
+    "federal/decretos/1946/dec-21160-1946-05-22.md",
+    "federal/decretos/1946/dec-21143-1946-05-20.md",
+    "federal/decretos/1946/dec-21138-1946-05-17.md",
+    "federal/decretos/1946/dec-21121-1946-05-14.md",
+    "federal/decretos/1946/dec-21085-1946-05-09.md",
+    "federal/decretos/1946/dec-21048-1946-05-02.md",
+    "federal/decretos/1946/dec-20969-1946-04-11.md",
+    "federal/decretos/1946/dec-20970-1946-04-11.md",
+    "federal/decretos/1946/dec-20941-1946-04-09.md",
+    "federal/decretos/1946/dec-20957-1946-04-09.md",
+    "federal/decretos/1946/dec-20887-1946-03-29.md",
+    "federal/decretos/1946/dec-20856-1946-03-28.md",
+    "federal/decretos/1946/dec-20867-1946-03-28.md",
+    "federal/decretos/1946/dec-20868-1946-03-28.md",
+    "federal/decretos/1946/dec-21799-1946-09-02.md",
+    "federal/decretos/1946/dec-21498-1946-07-23.md",
+    "federal/decretos/1946/dec-21161-1946-05-22.md"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "total": 1,
+  "contagens": {
+    "aceitos": 1
+  },
+  "criterio": "Candidatos privados dos alertas de renderizacao. Fonte texto-dou preservada em modo HTML explicito ja suportado. Metadados/H1 e datas originais preservados, exceto campo de modo. GFM integral/sinais e auditor integrado de fonte/identidade/publicacao/integra suplementar repetidos, sem rede nem alteracao canonica. Exige promocao porpreimagem e cruzamento final antes de publicar.",
+  "helper_sha256": "1ae5cecda55ddd32ab00fdb2598d50b7cd5aeadaad0e0e73d720e4727bf1732d",
+  "helper_v2_sha256": "2f16eda246d73eb770357ff310e98ffb40a62a2e0519974d5bcf98ffaa440644",
+  "auditor_sha256": "f7ca46afc626712457a1c13574708718382993e41a1421a4385485fd0fb3ef22",
+  "script_sha256": "55ef3781c504525b71ce73f47774577367a988188e0994bfaee232297e07f5d8",
+  "documentos": [
+    {
+      "path": "reguladores/secretaria-especial-da-cultura/portarias/2019/portaria-n-1-de-2-de-janeiro-de-2019-57732532.md",
+      "sha256_md_preimagem": "b14bacaa63c6b4fb7820d83d77745263b26809f8bdbfbca241940c32c6652d17",
+      "cache": "reguladores/_fonte/secretaria-especial-da-cultura/2019/portaria-n-1-de-2-de-janeiro-de-2019-57732532-d4c3784329ed1f3968302cd64754bebbb5c18c145bccb2aded56d280e8c42476.html.gz",
+      "sha256_fonte": "d4c3784329ed1f3968302cd64754bebbb5c18c145bccb2aded56d280e8c42476",
+      "aceito": true,
+      "modo": "html-nativo-texto-dou-v1",
+      "candidato": "reguladores/_fonte/auditorias/dou037-nativo-candidatos-v2-20261027/d15bb8840bbd13746c3edd05f6baa1df1860b509d9647d9f9e452152ef2c2468.candidato.md.gz",
+      "sha256_candidato_gzip": "30bc03dcbc91e2f01a650d853a5a1a187d1da153fef004fc37db3b2bfdd06ff9",
+      "sha256_md_candidato": "b2b493f6ea8d0054eb0df1c2c2bc323310fcbeca877bdb5de23fd13d4d8e58d2",
+      "backup": "reguladores/_fonte/auditorias/dou037-nativo-candidatos-v2-20261027/d15bb8840bbd13746c3edd05f6baa1df1860b509d9647d9f9e452152ef2c2468.preimagem.md.gz",
+      "sha256_backup_gzip": "95d7966b06e3e3e4da292772a625f04faebf7bddb6034ec5a0688028078cb430",
+      "sha256_fragmento": "afefea0b24d792659bbf824afba8a6108e7e55ca500b08add1bb78698a2ba662",
+      "registro_auditor_integrado": {
+        "path": "reguladores/secretaria-especial-da-cultura/portarias/2019/portaria-n-1-de-2-de-janeiro-de-2019-57732532.md",
+        "sha256_md": "b2b493f6ea8d0054eb0df1c2c2bc323310fcbeca877bdb5de23fd13d4d8e58d2",
+        "fonte": "https://www.in.gov.br/web/dou/-/portaria-n-1-de-2-de-janeiro-de-2019-57732532",
+        "cache": "reguladores/_fonte/secretaria-especial-da-cultura/2019/portaria-n-1-de-2-de-janeiro-de-2019-57732532-d4c3784329ed1f3968302cd64754bebbb5c18c145bccb2aded56d280e8c42476.html.gz",
+        "orgao_html": "Secretaria Especial da Cultura/Secretaria do Audiovisual",
+        "orgao_metadados": "Secretaria Especial da Cultura/Secretaria do Audiovisual",
+        "criterio_orgao": "Nomes e ordem dos níveis idênticos; somente espaços nas bordas de / ignorados.",
+        "epigrafe_html": "PORTARIA Nº 1, DE 2 DE JANEIRO DE 2019",
+        "origem_epigrafe": "p.identifica no campo texto-dou",
+        "sha256_html": "d4c3784329ed1f3968302cd64754bebbb5c18c145bccb2aded56d280e8c42476",
+        "data": "2019-01-02",
+        "publicacao": "2019-01-03",
+        "identidade": [
+          "secretaria especial da cultura secretaria do audiovisual",
+          "portaria",
+          "1",
+          "2019 01 02"
+        ],
+        "tabelas": 0,
+        "avisos_formato": []
+      },
+      "igualdade_GFM": true,
+      "metadados_preservados_exceto_modo": true
+    }
+  ]
+}

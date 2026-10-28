@@ -1,0 +1,72 @@
+{
+  "escopo": "Replay portátil de 1193 candidatos Normas 011, com 37 retenções contextuais explícitas. Novo predicado delimita fecho do principal sem remover corpo ou documentos incorporados. Não depende dos caches de captura.",
+  "sha256_runner": "91c3acbd4ffd25b5bf6d36b3d6e1d55d7ce5815dc19c2d02df226f7bc139f907",
+  "sha256_manifesto": "6fd439c789b7116dd71ce27b5264af7009fc62bd907860b5cd383c9f54344b10",
+  "codigos": [
+    {
+      "path": "scripts/html2md.py",
+      "sha256": "6ad648a6a94c8d51d880a2d79c39f1abe751032d3355e468363e43ca83fdcdc6"
+    },
+    {
+      "path": "scripts/comum.py",
+      "sha256": "9f00f29db1b45162332785fcd7d41540ca2d49cb54a56c3bb65d485bdca78b24"
+    },
+    {
+      "path": "scripts/identidade_decreto.py",
+      "sha256": "c7fd847bad0ae3a3432f43f0f4a5568f8236f61833aff514945d5eeafa6e9f94"
+    },
+    {
+      "path": "scripts/identidade_decreto_revisao.py",
+      "sha256": "c1808f41532d41f6ea668177408743e7297f571b55f1709ec984977661771283"
+    },
+    {
+      "path": "scripts/integridade_anexos_decreto.py",
+      "sha256": "3cd60ac4a398a27cc0f646f891e853f6b120b1a963deb4cc9f0ccfd7d6ca0cd0"
+    },
+    {
+      "path": "scripts/integridade_html_federal.py",
+      "sha256": "70945b86695a163f233875e23e01bf5f9c02a01dae6c4949dbda37b3b496214d"
+    },
+    {
+      "path": "scripts/auditar_pontuacao_federal.py",
+      "sha256": "bec7972a3d8138c61f4eb527738fd32e3bf39da0eed7913ac178771c53a778e9"
+    },
+    {
+      "path": "scripts/estados/pe_fidelidade_visivel.py",
+      "sha256": "8344ab5cd9339fcc1691267b7b213930044cc590f14a1be38c5e06924531a838"
+    },
+    {
+      "path": "scripts/preparar_lote_decretos_cache.py",
+      "sha256": "b962db077e49db9ba3a7eccf25942c2516f6b939982089ccb2ad6f845ba5a7e8"
+    },
+    {
+      "path": "scripts/baixar_federal.py",
+      "sha256": "4889285109716ea3f7e753e8af2991b874d1f3b7265488756a98e0610c703495"
+    },
+    {
+      "path": "federal/_fonte/auditorias/commonmark8886_20261027_001/replay_commonmark_html5.py",
+      "sha256": "824b00a5b40d1ab58b044d95bacef947b0b2862a8978c15bd136f27500ac67d6"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261027_011/qualificar_snapshot_v4.py",
+      "sha256": "4ec29f40be70d3749a030149a1e4a484748a8c6013148fda7144569e9a663c33"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261027_011/preparar_replay_portavel.py",
+      "sha256": "ca35ce0d9b33a71a1170adfbeec3d32997a7ec201157cefa27c6f8e3c73de76c"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261027_011/retencoes_contextuais001/retencoes37.json",
+      "sha256": "031d31522810bfed10c4b5d92336601e4b3b754848641642b84ce0cc6b1b955f"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261027_011/retencoes_contextuais001/fontes_provas37.jsonl.gz",
+      "sha256": "c8c24ef1bbccc06aaaccda7a3b5fecf2583f6069d526e7a6fd26473cf2a05fa8"
+    },
+    {
+      "path": "federal/_fonte/auditorias/alimentacao_normas_20261027_011/contextos1230.json",
+      "sha256": "c206d498d95d4585304da9303ad42ca9b4279bc8c0f055fcf5023e3b4955c361"
+    }
+  ],
+  "limites": "Documento integral comparado em marked/CommonMark/HTML5. Fonte/epígrafe/API/fecho/guard e provas por SHA; sem certificar revisão humana universal, CSS ou vigência. Autoridades históricas e grafias literais são preservadas no inventário; não se reconstroem assinaturas."
+}

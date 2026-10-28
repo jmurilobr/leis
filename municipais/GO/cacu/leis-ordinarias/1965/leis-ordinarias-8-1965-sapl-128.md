@@ -1,0 +1,63 @@
+---
+titulo: "Lei Ordinária nº 8, de 07 de maio de 1965"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "8"
+data: "1965-05-07"
+municipio: "Caçu"
+uf: "GO"
+codigo_ibge: "5204300"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.cacu.go.leg.br/norma/128"
+fonte_texto: "https://sapl.cacu.go.leg.br/ta/534/text"
+sha256_fonte: "a20635c60a34580e8c607cf49f02022cf125b72fa7d8f801bc8abfd22afc9fae"
+sha256_texto: "e0454409993ababd2db6d0079aaba10394b07c6054499015efc8210aa7b75955"
+capturado_em_fonte: "2026-10-27T22:14:31.240270-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária nº 8, de 07 de maio de 1965
+
+Cria cargo e dá outras providências.
+
+
+A Câmara Municipal de Caçu decreta e eu sanciono a seguinte lei:
+
+
+Art. 1º.
+
+É criado, no quadro de servidores da Prefeitura Municipal de Caçu, o cargo de Fiscal Geral.
+
+
+Art. 2º.
+
+O cargo ora criado será de provimento interino, sendo o seu ocupante escolhido e nomeado pelo Chefe do Poder Executivo.
+
+
+Art. 3º.
+
+O Fiscal Geral terá a atribuição de fiscalizar as obras e serviços da Prefeitura Municipal, defendendo os interesses desta.
+
+
+Art. 4º.
+
+Fica fixada em Cr$ 30.000,00 (trinta mil cruzeiros) mensais a remuneração do Fiscal Geral.
+
+
+Art. 5º.
+
+Esta lei entrará em vigor na data de sua publicação, revogando as disposições em contrário.
+
+
+Gabinete da Prefeitura Municipal de Caçu, Goiás, aos 7 dias do mês de maio do ano de 1965.
+
+
+Vicente de Souza Lima  
+\- Prefeito Municipal -
+
+Ataualpa Alves de Lima  
+\- Secretário Contador-
+

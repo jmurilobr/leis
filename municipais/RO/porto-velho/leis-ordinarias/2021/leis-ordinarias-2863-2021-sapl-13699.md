@@ -1,0 +1,86 @@
+---
+titulo: "Lei-DL nº 2.863, de 17 de setembro de 2021"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei"
+numero: "2863"
+data: "2021-09-17"
+municipio: "Porto Velho"
+uf: "RO"
+codigo_ibge: "1100205"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 21/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.portovelho.ro.leg.br/norma/13699"
+fonte_texto: "https://sapl.portovelho.ro.leg.br/ta/1945/text"
+sha256_fonte: "da59203d00aea40d0e9915622a75452df8a7805781f4525c17a4805fc4fc9d55"
+sha256_texto: "62c317502c220a6d323529c3a97cfed891233d6e0bfc090fd30c1f3e46baba51"
+capturado_em_fonte: "2026-10-21T06:58:56.531314-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-21"
+revogada: null
+---
+
+# Lei-DL nº 2.863, de 17 de setembro de 2021
+
+“Proíbe o ingresso de crianças e adolescentes em exposições de obras de arte e espetáculos que disponham de conteúdo impróprio, no âmbito do município de Porto Velho e dá outras providências.”
+
+
+**FAÇO SABER** que a **CÂMARA MUNICIPAL DE PORTO VELHO** aprovou, e eu, Vereador EDWILSON NEGREIROS, Presidente da Câmara Municipal, promulgo, nos termos do § 2º, do art. 72 da Lei Orgânica do Município, a seguinte
+
+**L E I:**
+
+
+Art. 1º.
+
+Fica proibida a entrada de crianças e adolescentes em exposições de obras de arte e espetáculos que contenham nudismo, pornografia, zoofilia, conteúdo devasso, libidinoso, imoral ou impróprio para a faixa etária, ainda que com a autorização dos pais.
+
+
+Art. 2º.
+
+Os estabelecimentos deverão afixar, em local visível e de fácil acesso ao público, aviso contendo a proibição expressa nesta Lei.
+
+
+Parágrafo único
+
+Os avisos deverão estar dispostos junto aos caixas de pagamento, em folha não inferior ao tamanho A4, impressos em letras com tamanho mínimo de meio centímetro de altura por meio centímetro de largura.
+
+
+Art. 3º.
+
+A infração do disposto nesta Lei acarretará ao infrator, proprietário ou responsável do espetáculo as seguintes cominações, aplicadas isoladas ou cumulativamente, de acordo com a gravidade do fato:
+
+
+I –
+
+multa no valor de 62 (sessenta e duas) UPF (Unidade de Padrão Fiscal), sendo aplicada em dobro no caso de reincidência;
+
+
+II –
+
+interdição do estabelecimento;
+
+
+III –
+
+cassação da licença de funcionamento.
+
+
+Art. 4º.
+
+O Poder Executivo poderá regulamentar Lei ou ato normativo, estabelecendo as regulamentações necessárias para sua fiel fiscalização e aplicação.
+
+
+Art. 5º.
+
+Esta Lei entra em vigor na data de sua publicação.
+
+
+Câmara Municipal de Porto Velho, 17 de setembro de 2021.
+
+**Vereador Edwilson Negreiros**
+
+**Presidente**
+
+Projeto de Lei nº 4.162/2021
+
+Vereador Vanderlei dos Santos Silva
+

@@ -1,0 +1,179 @@
+---
+titulo: "Lei Ordinária-EXECUTIVO nº 407, de 19 de dezembro de 2022"
+tipo: "Lei ordinária"
+tipo_na_fonte: "Lei Ordinária"
+numero: "407"
+data: "2022-12-19"
+municipio: "Araci"
+uf: "BA"
+codigo_ibge: "2902104"
+origem_data: "número e data confirmados na epígrafe literal do HTML oficial e nas APIs de norma e texto articulado"
+versao_texto: "versão padrão pública do texto articulado oficial, capturada em 27/10/2026; corte de atualização não declarado; dispositivos desativados excluídos, marcadores de revogação e notas preservados; HTML integral com histórico mantido; sem certificação de vigência integral"
+fonte: "https://sapl.araci.ba.leg.br/norma/462"
+fonte_texto: "https://sapl.araci.ba.leg.br/ta/63/text"
+sha256_fonte: "6f1ebfa3726c1479f7644fde76a428f253aea2cb38c5d112e842ac97645aa9a9"
+sha256_texto: "5de09548fea44be1874b8aeaf7b658a13e89a80abe21b61e4841df46e608690b"
+capturado_em_fonte: "2026-10-27T16:54:11.514495-03:00"
+fuso_dia_captura: "America/Recife"
+baixado_em: "2026-10-27"
+revogada: null
+---
+
+# Lei Ordinária-EXECUTIVO nº 407, de 19 de dezembro de 2022
+
+**LEI Nº 407 DE 19 DE DEZEMBRO DE 2022**
+
+
+Regulamenta os critérios para a divisão dos recursos extraordinários recebidos pelo Município de Araci/BA em face do processo de execução complementação da União ao Fundo de Manutenção e Desenvolvimento do Ensino Fundamental – Fundef que deverão ser rateados entre os profissionais do magistério, conforme disposição do Art. 5º da Emenda Constitucional nº 114 de 2021, Lei 14.325/2022 e dá outras providências.
+
+
+A PREFEITA MUNICIPAL DE ARACI, Estado da Bahia, no uso de suas atribuições e nos termos da Constituição Federal e da Lei Orgânica Municipal, faz saber que o Poder Legislativo Municipal aprova e Ele sanciona e promulga a seguinte Lei:
+
+
+#### CAPÍTULO I — DisposiçõesGerais
+
+
+Art. 1º.
+
+Ficam instituídos, no âmbito do Município de Araci/BA, os critérios e requisitos para a divisão dos recursos extraordinários recebidos em decorrência de decisão judicial que condenou a União ao pagamento de diferenças a título de Complementação Federal ao Fundef, em conformidade com a originária subvinculação de receita prevista pela Lei Federal nº 9.424, de 24 de dezembro de 1996.
+
+
+Art. 2º.
+
+Será repassado, na forma de abono, o valor correspondente a 60% (sessenta por cento) do montante do Precatório recebido pelo Município de Araci- Bahia em favor dos profissionais, ativo ou inativo, efetivo ou temporário, que estavam em efetivo exercício das funções do magistério na Rede Pública Municipal de Ensino de Araci/BA, nos termos da Lei 14.325/2022, durante o período em que ocorreram os repasses a menor do Fundef ao município de Araci- Bahia, 12/2001 a 12/ 2006.
+
+
+Parágrafo único
+
+O abono de que trata o art. 2º desta Lei será destinado aos profissionais do Magistério da seguinte forma:
+
+
+I –
+
+Mediante rateio, a título de antecipação, do percentual de 85% (oitenta e cinco por cento) do montante previsto nos arts. 2º e 3º conforme critérios indicados no art. 4º, ambos desta Lei, para os profissionais elencados em lista de beneficiários do abono;
+
+
+II –
+
+Mediante rateio do percentual residual de 15% (quinze por cento) do montante previsto nos arts. 2º e 3º desta Lei, em prazo não superior a 180 (cento e oitenta) dias para os profissionais indicados em lista atualizada de beneficiários do abono, momento em que serão realizados os ajustes necessários em razão de eventual alteração da base de rateio ou de equívoco identificado na antecipação de que trata o inciso I deste artigo.
+
+
+Art. 3º.
+
+Incluem-se no valor especificado no artigo anterior, as diferenças mensais histórica, a correção monetária e os juros de mora devido em face da demora no pagamento, parcelas estas que conformam o Precatório pago pela União.
+
+
+Parágrafo único
+
+Inclui-se também ao valor disposto no caput deste artigo, os rendimentos auferidos ao valor recebido a titulo de precatório do fundef em face da aplicação financeira efetuada pelo município de Araci- Bahia, no período de agosto de 2021 até a data de execução do rateio.
+
+
+#### CAPÍTULO II — Do pagamento
+
+
+Art. 4º.
+
+Terão direito conforme disposição na Lei nº 14.325/2022, ao rateio de recursos de que trata o artigo primeiro:
+
+
+I –
+
+Os profissionais do Magistério que ocuparam cargo, emprego ou função, integrantes da estrutura, quadro ou tabela de servidores do Município de Araci- BA, com vínculo estatutário, celetista ou temporário, desde que em efetivo exercício das funções na Rede Pública Municipal de Ensino durante o período em que ocorreram os repasses a menor do Fundef no Município de Araci-Bahia, 12/2001 a 12/2006.
+
+
+II –
+
+Os profissionais do Magistério já aposentados que estavam em efetivo exercício na rede pública municipal de ensino, nos períodos dispostos no inciso I, ainda que não tenham mais vínculo direto com a administração pública que os remuneravam, e os herdeiros, em caso de falecimento dos profissionais alcançados por este artigo.
+
+
+Art. 5º.
+
+Por meio de Decreto publicado no Diário Oficial do Município, estabelecendo prazo para recurso não inferior a trinta dias, será publicado a relação nominal dos beneficiários, conforme apurado em arquivos do município, atestado por comissão constituída para acompanhar toda a execução do rateio.
+
+
+Parágrafo único
+
+A comissão constituída por meio de Decreto Municipal para acompanhar e fiscalizar a execução do rateio, dentre outras competências, deverá avaliar e propor formas de comprovação de vinculo que serão aceitas para fins de inclusão na lista de beneficiários.
+
+
+Art. 6º.
+
+O abono a ser pago a cada profissional será́ proporcional à jornada de trabalho e ao período de efetivo exercício entre dezembro de 2001 a dezembro de 2006.
+
+
+§ 1º
+
+O abono será́ calculado com base no valor hora, fixado a partir da divisão do montante da verba a ser distribuída pelo quantitativo total de horas laboradas por todos os profissionais habilitados no art. 4º desta Lei, considerada, para efeito de identificação das horas laboradas, a jornada de trabalho de 20 (vinte), 30 (trinta) ou 40 (quarenta) horas semanais.
+
+
+§ 2º
+
+Para o ocupante de cargo efetivo em exercício de cargo em comissão, deverá ser acrescida a jornada de trabalho pelo exercício do cargo comissionado, na hipótese de ter havido ampliação da carga horária.
+
+
+§ 3º
+
+Para os que acumularam legalmente 02 (dois) vínculos de magistério, o abono será́ devidopeloexercíciodeambos,sendocalculadodeformaindividualizada.
+
+
+§ 4º
+
+Para os que acumularam legalmente 02 (dois) vinculo, sendo 01 (um) de magistério, o abono será́ devido apenas pelo seu exercício.
+
+
+§ 5º
+
+Considera-se como de efetivo exercício para efeito de percepção do abono de que trata esta Lei, os afastamentos remunerados em que o servidor se manteve na folha de pagamento da Secretaria Municipal de Educação - SEC.
+
+
+Art. 7º.
+
+Os valores percebidos pelos profissionais do magistério terão caráter indenizatório, sendo vedada a incorporação na remuneração do servidor.
+
+
+Parágrafo único
+
+Osrendimentosauferidospelosbeneficiáriosnãoestarãosujeitosadeduçãodeimpostoderendaedecontribuiçãoprevidenciária.
+
+
+Art. 8º.
+
+O abono destinado aos beneficiários, servidores ativos, que mantêm vínculo com oMunicípio de Araci - Bahia, será efetivado diretamente na folha de pagamento, na forma e emprazoaseremdefinidosemato regulamentar.
+
+
+Art. 9º.
+
+O abono destinado aos beneficiários, servidores aposentados, herdeiros e os desvinculados atualmente, serão executados na forma estabelecida em ato regulamentar.
+
+
+Art. 10.
+
+Os herdeiros dos profissionais do Magistério habilitados na forma do art. 4º desta Lei deverão requerer a percepção do abono, mediante apresentação de alvará́ judicial autorizando o levantamento parcial ou integral do valor, na forma e prazo a serem definidos em Regulamento.
+
+
+Art. 11.
+
+Na hipótese de não comparecimento dos beneficiários ou os seus herdeiros, far-se-ánotificação mediante edital publicado uma vez em jornal físico e/ou eletrônico de circulação nalocalidade.
+
+
+Art. 12.
+
+Os valores remanescentes em razão da ausência de identificação ou de requerimento do respectivo beneficiário serão rateados com os demais profissionais do magistério indicados no art. 4º desta Lei, na forma e prazo estabelecidos em Regulamento.
+
+
+Art. 13.
+
+As despesas decorrentes desta Lei correrão por conta das dotações orçamentárias previstas no orçamento vigente deste Município, ficando ainda o poder executivo autorizado a proceder as alterações orçamentárias que se fizerem necessárias em decorrência desta Lei.
+
+
+Art. 14.
+
+Esta lei entra em vigor na data de sua publicação, revogando as disposições em contrário.
+
+
+GabinetedaPrefeitadeAraci,EstadodaBahia,em19dedezembrode2022.
+
+**MARIABETIVÂNIALIMADASILVA**
+
+**PrefeitaMunicipal**
+
